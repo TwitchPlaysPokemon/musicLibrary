@@ -1,0 +1,33 @@
+---
+id: mario_and_luigi_dream_team
+platform: "3DS"
+title: "Mario & Luigi: Dream Team"
+series: mario
+year: 2013
+path: "Other/Mario & Luigi_ Dream Team"
+songs: 
+  - id: dreambattle
+    path: "Victory in the Dream World.brstm"
+    title: "Victory in the Dream World"
+    type: battle
+  - id: giantbattle
+    path: "Size Up Your Enemy.brstm"
+    title: "Size Up Your Enemy"
+    type: battle
+  - id: bossbattle
+    path: "Never Let Up!.brstm"
+    title: "Never Let Up!"
+    type: battle
+  - id: joyous_occasion
+    path: "Joyous Occasion.brstm"
+    title: "Joyous Occasion"
+    type: result
+  - id: challenging_actions
+    path: "Challenging Actions!.brstm"
+    title: "Challenging Actions!"
+    type: betting
+  - id: panic_pit
+    path: "Panic Pit.brstm"
+    title: "Panic Pit"
+    type: warning
+...

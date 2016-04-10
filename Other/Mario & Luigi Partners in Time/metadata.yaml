@@ -1,0 +1,33 @@
+---
+id: mario_luigi_partners
+title: "Mario & Luigi: Partners in Time"
+series: mario
+platform: "NDS"
+year: 2005
+path: "Other/Mario & Luigi Partners in Time"
+songs:
+  - id: gritzy_desert
+    title: "Gritzy Desert"
+    path: "Gritzy Desert.brstm"
+    type: betting
+  - id: shroobs
+    title: "Shroobs!"
+    path: "Shroobs!.brstm"
+    type: warning
+  - id: holli_jolli_village
+    title: "Holli Jolli Village"
+    path: "Holli Jolli Village.brstm"
+    type: betting
+  - id: the_time_machine
+    title: "The Time Machine"
+    path: "The Time Machine.brstm"
+    type: betting
+  - id: serious_trouble
+    title: "Serious Trouble"
+    path: "Serious Trouble.brstm"
+    type: warning
+  - id: thwomp_volcano
+    title: "Thwomp Volcano"
+    path: "Thwomp Volcano.brstm"
+    type: betting
+...

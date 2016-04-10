@@ -1,0 +1,109 @@
+---
+id: ghost_trick_phantom_detective
+title: "Ghost Trick Phantom Detective"
+year: 2010
+platform: "NDS"
+path: "NDS/Ghost Trick Phantom Detective"
+songs:
+  - id: awakening
+    title: "Awakening"
+    path: "109 AWAKENING.mini2sf"
+    type: betting
+  - id: chicken_kitchen
+    title: "Chicken Kitchen"
+    path: "114 Chicken Kitchen.mini2sf"
+    type: betting
+  - id: intermission_~_the_deepening_of_the_night
+    title: "Intermission ~ The Deepening of the ''Night''"
+    path: "201 Intermission ~ The Deepening of the ''Night''.mini2sf"
+    type: betting
+  - id: 4_minutes_before_death_~_variation
+    title: "4 Minutes Before Death ~ VARIATION"
+    path: "203 4 Minutes Before Death ~ VARIATION.mini2sf"
+    type: betting
+  - id: elegy_for_the_torn-off_gentleman
+    title: "Elegy for the Torn-off Gentleman"
+    path: "206 Elegy for the Torn-off Gentleman.mini2sf"
+    type: betting
+  - id: chase
+    title: "Chase"
+    path: "207 CHASE.mini2sf"
+    type: betting
+  - id: jowd_~_a_captive_of_fate
+    title: "Jowd ~ A Captive of Fate"
+    path: "211 Jowd ~ A Captive of Fate.mini2sf"
+    type: betting
+  - id: epilogue_~_the_end_of_the_night
+    title: "Epilogue ~ The End of the ''Night''"
+    path: "217 Epilogue ~ The End of the ''Night''.mini2sf"
+    type: betting
+  - id: 4_minutes_before_death
+    title: "4 Minutes Before Death"
+    path: "103 4 Minutes Before Death.mini2sf"
+    type: break
+  - id: the_world_of_the_dead
+    title: "The World of the Dead"
+    path: "106 The World of the Dead.mini2sf"
+    type: break
+  - id: ray_~_a_beam_of_light
+    title: "Ray ~ A Beam of Light"
+    path: "108 Ray ~ A Beam of Light.mini2sf"
+    type: break
+  - id: madam_~_an_enveloping_smell_of_roses
+    title: "Madam ~ An Enveloping Smell of Roses"
+    path: "113 Madam ~ An Enveloping Smell of Roses.mini2sf"
+    type: break
+  - id: the_imprisoned
+    title: "The Imprisoned"
+    path: "116 The Imprisoned.mini2sf"
+    type: break
+  - id: cabanela_~_a_white_lovely_lanky_man
+    title: "Cabanela ~ A White Lovely Lanky Man"
+    path: "118 Cabanela ~ A White Lovely Lanky Man.mini2sf"
+    type: break
+  - id: lynne_~_a_targeted_redhead
+    title: "Lynne ~ A Targeted Redhead"
+    path: "107 Lynne ~ A Targeted Redhead.mini2sf"
+    type: result
+  - id: missile_~_a_courageous_little_animal
+    title: "Missile ~ A Courageous Little Animal"
+    path: "112 Missile ~ A Courageous Little Animal.mini2sf"
+    type: result
+#      - id: informing_about_the_parting
+#        title: "Informing About the Parting"
+#        path: "214 Informing About the Parting.mini2sf"
+#        type: result
+# unfitting result song
+  - id: reincarnation
+    title: "Reincarnation"
+    path: "216 REINCARNATION.mini2sf"
+    type: result
+  - id: ghost_trick
+    title: "Ghost Trick"
+    path: "102 GHOST TRICK.mini2sf"
+    type: warning
+  - id: count_down
+    title: "Countdown"
+    path: "105 COUNT DOWN.mini2sf"
+    type: warning
+  - id: a_dashing_enigma
+    title: "A Dashing Enigma"
+    path: "117 A Dashing Enigma.mini2sf"
+    type: warning
+  - id: fate_updated_~_variation
+    title: "Fate Updated ~ VARIATION"
+    path: "204 Fate Updated ~ VARIATION.mini2sf"
+    type: warning
+  - id: deadline
+    title: "Deadline"
+    path: "209 DEADLINE.mini2sf"
+    type: warning
+  - id: dead_afterimage
+    title: "Dead Afterimage"
+    path: "213 Dead Afterimage.mini2sf"
+    type: warning
+  - id: the_last_desperate_struggle
+    title: "The Last Desperate Struggle"
+    path: "215 The Last Desperate Struggle.mini2sf"
+    type: warning
+...

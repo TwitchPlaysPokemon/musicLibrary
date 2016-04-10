@@ -1,0 +1,66 @@
+---
+id: paper_mario_the_thousand_year_door
+title: "Paper Mario: The Thousand Year Door"
+series: mario
+platform: "GCN"
+year: 2004
+path: "Other/Paper Mario_ The Thousand Year Door"
+songs:
+  - id: x-naut_fortress
+    title: "X-Naut Fortress"
+    path: "X-Naut Fortress.brstm"
+    type: betting
+  - id: boss_-_magnus_von_grapple
+    title: "Boss - Magnus von Grapple"
+    path: "Boss - Magnus von Grapple.brstm"
+    type: warning
+  - id: boss_-_doopliss
+    title: "Boss - Doopliss"
+    path: "Boss - Doopliss.brstm"
+    type: warning
+  - id: battle_theme
+    title: "Battle Theme"
+    path: "Battle Theme.brstm"
+    type: betting
+  - id: level_up
+    title: "Level Up"
+    path: "Level Up.brstm"
+    type: result
+  - id: doopliss'_theme
+    title: "Doopliss' Theme"
+    path: "Doopliss' Theme.brstm"
+    type: warning
+#      - id: bowser's_quest_-_world_1-1_(hurry_up)
+#        title: "Bowser's Quest - World 1-1 (Hurry Up!)"
+#        path: "Bowser's Quest - World 1-1 (Hurry Up!).brstm"
+#        type: warning
+# unfitting
+  - id: bowser's_quest_-_world_1-1
+    title: "Bowser's Quest - World 1-1"
+    path: "Bowser's Quest - World 1-1.brstm"
+    type: betting
+  - id: boss_-_shadow_queen_part_1_(peach_form)
+    title: "Boss - Shadow Queen Part 1 (Peach Form)"
+    path: "Boss - Shadow Queen Part 1 (Peach Form).brstm"
+    type: battle
+  - id: boss_-_rawk_hawk
+    title: "Boss - Rawk Hawk"
+    path: "Boss - Rawk Hawk.brstm"
+    type: battle
+  - id: boss_-_macho_grubba
+    title: "Boss - Macho Grubba"
+    path: "Boss - Macho Grubba.brstm"
+    type: warning
+  - id: rogueport
+    path: "Rogueport.brstm"
+    title: "Rogueport"
+    type: betting
+  - id: boss_-_cortez
+    path: "Boss - Cortez.brstm"
+    title: "Boss - Cortez"
+    type: warning
+  - id: character_abilities
+    path: "Character Abilities.brstm"
+    title: "Character Abilities"
+    type: warning
+...

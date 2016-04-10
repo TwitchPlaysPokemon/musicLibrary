@@ -1,0 +1,16 @@
+---
+id: lagrange_point
+title: "Lagrange Point"
+year: 1991
+platform: "FC"
+path: "Other/Lagrange Point"
+songs:
+  - id: fighters_awaken
+    title: "Fighters Awaken"
+    path: "Fighters Awaken.brstm"
+    type: battle
+  - id: fighters_sadness
+    title: "Fighters' Sadness"
+    path: "Fighters' Sadness.brstm"
+    type: warning
+...

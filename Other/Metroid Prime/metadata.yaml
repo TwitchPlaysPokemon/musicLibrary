@@ -1,0 +1,29 @@
+---
+id: metroid_prime
+platform: "GCN"
+title: "Metroid Prime"
+series: metroid
+year: 2002
+path: "Other/Metroid Prime"
+songs: 
+  - id: underwater_frigate_reactor_core
+    path: "Underwater Frigate Reactor Core.brstm"
+    title: "Underwater Frigate Reactor Core"
+    type: betting
+  - id: metroid_prime_essence_battle
+    path: "Metroid Prime Essence Battle.brstm"
+    title: "Metroid Prime Essence Battle"
+    type: battle
+  - id: chozo_artifact_temple
+    path: "Chozo Artifact Temple.brstm"
+    title: "Chozo Artifact Temple"
+    type: warning
+  - id: chozo_ruins
+    path: "Chozo Ruins.brstm"
+    title: "Chozo Ruins"
+    type: break
+  - id: phendrana_drifts_depths
+    path: "Phendrana Drifts Depths.brstm"
+    title: "Phendrana Drifts Depths"
+    type: betting
+...

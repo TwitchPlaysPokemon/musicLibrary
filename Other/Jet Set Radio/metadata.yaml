@@ -1,0 +1,20 @@
+---
+id: jet_set_radio
+title: "Jet Set Radio"
+platform: "DC"
+year: 2000
+path: "Other/Jet Set Radio"
+songs:
+  - id: electric_tooth_brush
+    title: "Electric Tooth Brush"
+    path: "Electric Tooth Brush.brstm"
+    type: betting
+#      - id: humming_the_baseline
+#        title: "Humming The Baseline"
+#        path: "Humming The Baseline.brstm"
+#        type: betting #too WutFace to fit
+  - id: sneakman
+    title: "Sneakman"
+    path: "Sneakman.brstm"
+    type: betting #Borderline doesn't fit; leaving it in for now
+...

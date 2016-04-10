@@ -1,0 +1,69 @@
+---
+id: pokemon_colosseum
+platform: "GCN"
+title: "Pokémon Colosseum"
+series: pokemon
+year: 2004
+path: "Other/Pokemon Colosseum"
+songs: 
+  - id: world_map_colosseum
+    title: "World Map"
+    path: "World Map.brstm"
+    type: result
+  - id: miror_b.s_retro_groove
+    title: "Miror B.'s Retro Groove"
+    path: "Miror B.s Retro Groove.brstm"
+    type: betting
+  - id: agate_village
+    title: "Agate Village"
+    path: "Agate Village.brstm"
+    type: break
+  - id: relic_forest
+    title: "Relic Forest"
+    path: "Relic Forest.brstm"
+    type: break
+  - id: cipher_syndicates_theme
+    title: "Cipher Syndicate's Theme"
+    path: "Cipher Syndicates Theme.brstm"
+    type: warning
+  - id: nascours_theme
+    title: "Nascour's Theme"
+    path: "Nascours Theme.brstm"
+    type: warning
+  - id: es_cades_theme
+    title: "Es Cade's Theme"
+    path: "Es Cades Theme.brstm"
+    type: warning
+  - id: realgam_tower_colosseum
+    title: "Realgam Tower"
+    path: "Realgam Tower.brstm"
+    type: betting
+  - id: main_menu_colosseum
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: the_under
+    title: "The Under"
+    path: "The Under.brstm"
+    type: betting
+  - id: snagem_hideout
+    title: "Snagem Hideout"
+    path: "Snagem Hideout.brstm"
+    type: betting
+  - id: phenac_city
+    title: "Phenac City"
+    path: "Phenac City.brstm"
+    type: break
+  - id: pre_gym
+    title: "Pre Gym"
+    path: "Pre Gym.brstm"
+    type: break
+  - id: first_battle
+    path: "First Battle.brstm"
+    title: "First Battle"
+    type: battle
+  - id: news_news_news
+    title: "News 1"
+    path: "News 1.brstm"
+    type: warning
+...

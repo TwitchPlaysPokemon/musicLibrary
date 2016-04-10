@@ -1,0 +1,37 @@
+---
+id: metal_slug_x
+title: "Metal Slug X"
+series: metalslug
+year: 1999
+platform: "Neo-Geo"
+path: "Neo-Geo/Metal Slug X"
+songs:
+  - id: assault_theme_x
+    title: "Assault Theme X"
+    path: "Assault Theme X.brstm"
+    type: battle
+#      - id: kiss_in_the_dark
+#        title: "Kiss in the Dark"
+#        path: "Kiss in the Dark.brstm"
+#        type: betting #Borderline doesn't fit
+#  - id: action_52
+#    title: "Action 52"
+#    year: 1991
+#    platform: "NES"
+#    path: "NES/Action 52"
+#    songs:
+#      - id: cheetahmen_remix
+#        title: "Cheetahmen Theme (March Remix)"
+#        path: "Cheetahmen Theme (March Remix).brstm"
+#        type: battle #Takes too long to start up (30 seconds) and even then has moments of borderline not tense and charged enough
+#  - id: avgn_adventures
+#    title: "Angry Video Game Nerd Adventures"
+#    year: 2013
+#    platform: "PC"
+#    path: "PC/AVGN Adventures"
+#    songs:
+#      - id: boss_battle
+#        title: "Boss Battle"
+#        path: "Boss Battle.brstm"
+#        type: battle #Not tense and charged enough
+...

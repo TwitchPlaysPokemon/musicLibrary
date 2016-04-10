@@ -1,0 +1,37 @@
+---
+id: super_mario_galaxy_2
+platform: "Wii"
+title: "Super Mario Galaxy 2"
+series: mario
+year: 2010
+path: "Other/SMG2"
+songs: 
+  - id: boss_blitz_galaxy
+    path: "Boss Blitz Galaxy.brstm"
+    title: "Boss Blitz Galaxy"
+    type: warning
+  - id: starship_mario_dispatch
+    path: "Starship Mario, Dispatch!.brstm"
+    title: "Starship Mario, Launch!"
+    type: warning
+  - id: space_storm_galaxy
+    path: "Space Storm Galaxy.brstm"
+    title: "Space Storm Galaxy"
+    type: betting
+  - id: throwback_galaxy
+    path: "Throwback Galaxy.brstm"
+    title: "Throwback Galaxy"
+    type: betting
+  - id: puzzle_plank_galaxy
+    path: "Puzzle Plank Galaxy.brstm"
+    title: "Puzzle Plank Galaxy"
+    type: betting
+  - id: starshine_beach_galaxy_-_underwater
+    path: "Starshine Beach Galaxy - Underwater.brstm"
+    title: "Starshine Beach Galaxy (Underwater)"
+    type: betting
+  - id: a-wa-wa-wa-wa-wa
+    path: "A-wa-wa-wa-wa-wa!.brstm"
+    title: "A-wa-wa-wa-wa-wa!"
+    type: warning
+...

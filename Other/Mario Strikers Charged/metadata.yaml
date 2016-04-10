@@ -1,0 +1,53 @@
+---
+id: mario_strikers_charged
+title: "Mario Strikers Charged"
+series: mario
+platform: "Wii"
+year: 2007
+path: "Other/Mario Strikers Charged"
+songs:
+#      - id: luigis_theme
+#        title: "Luigi's Theme"
+#        path: "Luigi's Theme.brstm"
+#        type: result #Borderline doesn't fit
+  - id: pause_menu
+    title: "Pause Menu"
+    path: "Pause Menu.brstm"
+    type: break
+  - id: results-striker_times
+    title: "Results-Striker Times"
+    path: "Results-Striker Times.brstm"
+    type: betting #Borderline doesn't fit; leaving it in for now
+  - id: sudden_death
+    title: "Sudden Death"
+    path: "Sudden Death.brstm"
+    type: warning
+  - id: classroom
+    title: "Classroom"
+    path: "Classroom.brstm"
+    type: betting
+  - id: galactic_stadium
+    title: "Galactic Stadium"
+    path: "Galactic Stadium.brstm"
+    type: betting
+  - id: warios_theme
+    title: "Wario's Theme"
+    path: "Wario's Theme.brstm"
+    type: warning
+  - id: toads_theme
+    title: "Toad's Theme"
+    path: "Toad's Theme.brstm"
+    type: warning
+#      - id: boos_theme
+#        title: "Boo's Theme"
+#        path: "Boos Theme.brstm"
+#        type: warning #Borderline doesn't fit for warning
+  - id: invincible_theme
+    title: "Invincible Theme"
+    path: "Invincible Theme.brstm"
+    type: warning
+  - id: peachs_theme
+    title: "Peach's Theme"
+    path: "Peach's Theme.brstm"
+    type: betting
+...

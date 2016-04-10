@@ -1,0 +1,297 @@
+---
+id: pokemon_black_2
+platform: "NDS"
+title: "Pokémon Black/White 2"
+series: pokemon
+year: 2012
+path: "NDS/Pokemon Black 2"
+songs: 
+  - id: eye_7
+    path: "115 SEQ_BGM_EYE_07 (0460).mini2sf"
+    title: "Encounter! Cyclist"
+    type: warning
+  - id: vs_shirona
+    path: "140 SEQ_BGM_VS_SHIRONA (0479).mini2sf"
+    title: "Battle! Cynthia"
+    type: battle
+  - id: eye_4
+    path: "112 SEQ_BGM_EYE_04 (045d).mini2sf"
+    title: "Encounter! Ace Trainer"
+    type: warning
+  - id: bgm_e_shirona
+    path: "155 SEQ_BGM_E_SHIRONA (0488).mini2sf"
+    title: "Encounter! Cynthia"
+    type: betting
+  - id: bgm_gym
+    path: "057 SEQ_BGM_GYM (0426).mini2sf"
+    title: "Aspertia City Gym"
+    type: betting
+  - id: vs_movepoke
+    path: "138 SEQ_BGM_VS_MOVEPOKE (0477).mini2sf"
+    title: "Battle! Unova Legendary Pokémon"
+    type: battle
+  - id: bgm_winwbt
+    path: "258 SEQ_BGM_WIN_WBT (04ef).mini2sf"
+    title: "Victory in the PWT!"
+    type: result
+  - id: vs_tsuyopoke
+    path: "124 SEQ_BGM_VS_TSUYOPOKE (0469).mini2sf"
+    title: "Battle! Rare Wild Pokémon"
+    type: battle
+  - id: vs_gs_leader
+    path: "242 SEQ_BGM_VS_GS_LEADER (04df).mini2sf"
+    title: "Battle! Johto Gym Leader (PWT)"
+    type: battle
+  - id: vs_swann
+    path: "132 SEQ_BGM_VS_SWAN_N (0471).mini2sf"
+    title: "Battle! N"
+    type: battle
+  - id: bgm_battlesuperior
+    path: "142 SEQ_BGM_BATTLESUPERIOR (047b).mini2sf"
+    title: "Victory Lies Before You!"
+    type: result
+  - id: win_6
+    path: "160 SEQ_BGM_WIN6 (048d).mini2sf"
+    title: "Victory! Neo Plasma"
+    type: result
+  - id: bgm_ending
+    path: "012 SEQ_BGM_ENDING (03f8).mini2sf"
+    title: "Staff Roll"
+    type: betting
+  - id: vs_gs_champ
+    path: "243 SEQ_BGM_VS_GS_CHAMP (04e0).mini2sf"
+    title: "Battle! Johto Champion (PWT)"
+    type: battle
+  - id: vs_trainer
+    path: "125 SEQ_BGM_VS_TRAINER (046a).mini2sf"
+    title: "Battle! Trainer"
+    type: battle
+  - id: vs_iris
+    path: "255 SEQ_BGM_VS_IRIS (04ec).mini2sf"
+    title: "Battle! Champion Iris"
+    type: battle
+  - id: vs_wbt
+    path: "249 SEQ_BGM_VS_WBT (04e6).mini2sf"
+    title: "Battle! PWT Finals!"
+    type: battle
+  - id: vs_regi
+    path: "134 SEQ_BGM_VS_REGI (0473).mini2sf"
+    title: "Battle! Regirock/Regice/Registeel"
+    type: battle
+  - id: battle_neo_ghetsis
+    path: "254 SEQ_BGM_VS_NEW_G_CIS (04eb).mini2sf"
+    title: "Battle! Neo Plasma Leader Ghetsis"
+    type: battle
+  - id: win_5
+    path: "147 SEQ_BGM_WIN5 (0480).mini2sf"
+    title: "Victory! Champion"
+    type: result
+  - id: vs_gymleader
+    path: "127 SEQ_BGM_VS_GYMLEADER (046c).mini2sf"
+    title: "Battle! Gym Leader"
+    type: battle
+  - id: win_4
+    path: "146 SEQ_BGM_WIN4 (047f).mini2sf"
+    title: "Victory! Neo Plasma"
+    type: result
+  - id: vs_rs_leader
+    path: "244 SEQ_BGM_VS_RS_LEADER (04e1).mini2sf"
+    title: "Battle! Hoenn Gym Leader (PWT)"
+    type: battle
+  - id: bgm_poisone_gym
+    path: "094 SEQ_BGM_POISONE_GYM_00 (044b).mini2sf"
+    title: "Virbank City Gym"
+    type: betting
+  - id: bgm_r_c_sp
+    path: "037 SEQ_BGM_R_C_SP (0412).mini2sf"
+    title: "Route 4 (Spring)"
+    type: betting
+  - id: bgm_r_c_su
+    path: "038 SEQ_BGM_R_C_SU (0413).mini2sf"
+    title: "Route 4 (Summer)"
+    type: betting
+  - id: wbt_ground
+    path: "196 SEQ_BGM_WBT_GROUND (04b1).mini2sf"
+    title: "PWT Venue"
+    type: warning
+  - id: vs_rg_champ
+    path: "241 SEQ_BGM_VS_RG_CHAMP (04de).mini2sf"
+    title: "Battle! Kanto Champion (PWT)"
+    type: battle
+  - id: dark_trinity
+    path: "234 SEQ_BGM_DARK_TRINITY (04d7).mini2sf"
+    title: "Encounter! Shadow Triad"
+    type: warning
+  - id: bgm_ground_gym
+    path: "058 SEQ_BGM_GROUND_GYM_01 (0427).mini2sf"
+    title: "Driftveil City Gym"
+    type: betting
+  - id: bgm_r_c_au
+    path: "039 SEQ_BGM_R_C_AU (0414).mini2sf"
+    title: "Route 4 (Autumn)"
+    type: betting
+  - id: vs_achroma
+    path: "253 SEQ_BGM_VS_ACHROMA (04ea).mini2sf"
+    title: "Battle! Colress"
+    type: battle
+  - id: vs_trainer_s
+    path: "157 SEQ_BGM_VS_TRAINER_S (048a).mini2sf"
+    title: "Battle! Trainer"
+    type: battle
+  - id: vs_trainer_m
+    path: "156 SEQ_BGM_VS_TRAINER_M (0489).mini2sf"
+    title: "Battle! Trainer"
+    type: battle
+  - id: vs_shitenno
+    path: "130 SEQ_BGM_VS_SHITENNO (046f).mini2sf"
+    title: "Battle! Elite Four"
+    type: battle
+  - id: eye_achroma
+    path: "233 SEQ_BGM_E_ACHROMA (04d6).mini2sf"
+    title: "Encounter! Colress"
+    type: warning
+  - id: vs_rs_champ
+    path: "245 SEQ_BGM_VS_RS_CHAMP (04e2).mini2sf"
+    title: "Battle! Hoenn Champion (PWT)"
+    type: battle
+  - id: vs_subwaytrainer
+    path: "126 SEQ_BGM_VS_SUBWAY_TRAINER (046b).mini2sf"
+    title: "Battle! Subway Trainer"
+    type: battle
+  - id: vs_wcs
+    path: "158 SEQ_BGM_VS_WCS (048b).mini2sf"
+    title: "Battle! Pokémon World Championships"
+    type: battle
+  - id: vs_bw_champ
+    path: "248 SEQ_BGM_VS_BW_CHAMP (04e5).mini2sf"
+    title: "Battle! Unova Champion (PWT)"
+    type: battle
+  - id: vs_kyumaru
+    path: "250 SEQ_BGM_VS_KYURAMU (04e7).mini2sf"
+    title: "Battle! Kyurem"
+    type: battle
+  - id: bgm_battle_subway
+    path: "062 SEQ_BGM_BATTLE_SUBWAY (042b).mini2sf"
+    title: "Battle Subway"
+    type: betting
+  - id: vs_cynthia_bw2
+    path: "247 SEQ_BGM_VS_DP_CHAMP (04e4).mini2sf"
+    title: "Battle! Sinnoh Champion (PWT)"
+    type: battle
+  - id: vs_kyuromu
+    path: "251 SEQ_BGM_VS_KYUROMU (04e8).mini2sf"
+    title: "Battle! Kyurem"
+    type: battle
+  - id: bgm_electric_gym_2
+    path: "092 SEQ_BGM_ERECTRIC_GYM_02 (0449).mini2sf"
+    title: "Nimbasa City Gym"
+    type: betting
+  - id: vs_rai
+    path: "137 SEQ_BGM_VS_RAI (0476).mini2sf"
+    title: "Battle! Reshiram/Zekrom"
+    type: battle
+  - id: eye_13
+    path: "121 SEQ_BGM_EYE_13 (0466).mini2sf"
+    title: "Encounter! Gentleman"
+    type: warning
+  - id: eye_10
+    path: "118 SEQ_BGM_EYE_10 (0463).mini2sf"
+    title: "Encounter! Pokefan"
+    type: warning
+  - id: eye_3
+    path: "111 SEQ_BGM_EYE_03 (045c).mini2sf"
+    title: "Encounter! Twins"
+    type: warning
+  - id: eye_6
+    path: "114 SEQ_BGM_EYE_06 (045f).mini2sf"
+    title: "Encounter! Parasol Lady"
+    type: warning
+  - id: bgm_e_kanransya
+    path: "098 SEQ_BGM_E_KANRANSYA (044f).mini2sf"
+    title: "Two People on the Ferris Wheel"
+    type: result
+  - id: vs_trainer_wifi
+    path: "159 SEQ_BGM_VS_TRAINER_WIFI (048c).mini2sf"
+    title: "Battle! Trainer (WiFi)"
+    type: battle
+  - id: vs_dplegend
+    path: "129 SEQ_BGM_VS_DPLEGEND (046e).mini2sf"
+    title: "Battle! Sinnoh Legendary Pokémon"
+    type: battle
+  - id: vs_rg_leader
+    path: "240 SEQ_BGM_VS_RG_LEADER (04dd).mini2sf"
+    title: "Battle! Kanto Gym Leader (PWT)"
+    type: battle
+  - id: bgm_r_a
+    path: "032 SEQ_BGM_R_A (040d).mini2sf"
+    title: "Route 1"
+    type: betting
+  - id: vs_rival
+    path: "128 SEQ_BGM_VS_RIVAL (046d).mini2sf"
+    title: "Battle! Rival (Black/White)"
+    type: battle
+  - id: vs_leader
+    path: "246 SEQ_BGM_VS_DP_LEADER (04e3).mini2sf"
+    title: "Battle! Sinnoh Gym Leader (PWT)"
+    type: battle
+  - id: vs_alder_bw2
+    path: "131 SEQ_BGM_VS_CHAMP (0470).mini2sf"
+    title: "Battle! Champion"
+    type: battle
+  - id: vs_shin
+    path: "135 SEQ_BGM_VS_SHIN (0474).mini2sf"
+    title: "Battle! Reshiram/Zekrom"
+    type: battle
+  - id: eye_12
+    path: "120 SEQ_BGM_EYE_12 (0465).mini2sf"
+    title: "Encounter! Clerk"
+    type: warning
+  - id: vs_neoplasma
+    path: "252 SEQ_BGM_VS_NEO_PLASMA (04e9).mini2sf"
+    title: "Battle! Neo Plasma"
+    type: battle
+  - id: bgm_insect_gym_1
+    path: "093 SEQ_BGM_INSECT_GYM_01 (044a).mini2sf"
+    title: "Castelia City Gym"
+    type: betting
+  - id: bgm_pokemon_league
+    path: "067 SEQ_BGM_POKEMON_LEAGUE (0430).mini2sf"
+    title: "Pokémon League"
+    type: betting
+  - id: vs_uma
+    path: "133 SEQ_BGM_VS_UMA (0472).mini2sf"
+    title: "Battle! Uxie/Mesprit/Azelf"
+    type: battle
+  - id: vs_norapoke
+    path: "123 SEQ_BGM_VS_NORAPOKE (0468).mini2sf"
+    title: "Battle! Wild Pokémon"
+    type: battle
+  - id: eye_neoplasma
+    path: "122 SEQ_BGM_EYE_NEO_PLASMA (0467).mini2sf"
+    title: "Encounter! Neo Plasma"
+    type: warning
+  - id: vs_hue
+    path: "257 SEQ_BGM_VS_HUE (04ee).mini2sf"
+    title: "Battle! Rival Hugh"
+    type: battle
+  - id: vs_setpoke
+    path: "139 SEQ_BGM_VS_SETPOKE (0478).mini2sf"
+    title: "Battle! Unova Legendary Pokémon"
+    type: battle
+  - id: bgm_r_c_wi
+    path: "040 SEQ_BGM_R_C_WI (0415).mini2sf"
+    title: "Route 4 (Winter)"
+    type: betting
+  - id: vs_mu
+    path: "136 SEQ_BGM_VS_MU (0475).mini2sf"
+    title: "Battle! Reshiram/Zekrom"
+    type: battle
+  - id: eye_2
+    path: "110 SEQ_BGM_EYE_02 (045b).mini2sf"
+    title: "Encounter! Lass"
+    type: warning
+  - id: eye_1
+    path: "109 SEQ_BGM_EYE_01 (045a).mini2sf"
+    title: "Encounter! Youngster"
+    type: warning
+...

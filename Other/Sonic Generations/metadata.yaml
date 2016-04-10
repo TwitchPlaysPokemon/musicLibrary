@@ -1,0 +1,54 @@
+---
+id: sonic_generations
+title: "Sonic Generations"
+series: sonic
+year: 2011
+platform: "360+PS3+PC"
+path: "Other/Sonic Generations"
+songs:
+  - id: boss_death_egg
+    title: "Boss - Death Egg Robot (OST)"
+    path: "Boss - Death Egg Robot (OST Version).brstm"
+    type: battle
+  - id: boss_egg_dragoon
+    title: "Boss - Egg Dragoon"
+    path: "Boss - Egg Dragoon.brstm"
+    type: battle
+  - id: casino_night
+    title: "Casino Night Zone"
+    path: "Casino Night.brstm"
+    type: betting
+#      - id: collection_room
+#        title: "Collection Room (Door into Summer)"
+#        path: "Collection Room (Door into Summer).brstm"
+#        type: result
+# unfitting result song
+  - id: hub_city_escape
+    title: "Hub - City Escape"
+    path: "Hub - City Escape.brstm"
+    type: warning
+#      - id: hub_egg_dragoon
+#        title: "Hub - Egg Dragoon"
+#        path: "Hub - Egg Dragoon.brstm"
+#        type: warning #Borderline doesn't fit
+  - id: mission_3
+    title: "Mission 3 (Emerald Beach)"
+    path: "Mission 3 (Emerald Beach).brstm"
+    type: battle
+  - id: crisis_city_classic
+    title: "Crisis City - Classic"
+    path: "Crisis City - Classic.brstm"
+    type: battle
+  - id: hub_death_egg_robot
+    title: "Hub - Death Egg Robot"
+    path: "Hub - Death Egg Robot.brstm"
+    type: warning
+  - id: invincibility_classic_sonic
+    title: "Invincibility (Classic Sonic)"
+    path: "Invincibility (Classic Sonic).brstm"
+    type: warning
+  - id: gallery_sonic_3_file_select
+    title: "Gallery (Sonic 3 File Select)"
+    path: "Gallery (Sonic 3 File Select).brstm"
+    type: break
+...

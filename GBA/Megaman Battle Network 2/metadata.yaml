@@ -1,0 +1,17 @@
+---
+id: mega_man_battle_network_2
+title: "Mega Man Battle Network 2"
+series: megaman
+year: 2001
+platform: "GBA"
+path: "GBA/Megaman Battle Network 2"
+songs:
+  - id: battle_spirit
+    title: "Battle Spirit"
+    path: "Battle Spirit.brstm"
+    type: battle
+  - id: smokey_field
+    title: "Smokey Field"
+    path: "Smokey Field.brstm"
+    type: betting
+...

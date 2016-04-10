@@ -1,0 +1,126 @@
+---
+id: f-zero_gx
+platform: "GCN"
+title: "F-Zero GX"
+series: fzero
+year: 2003
+path: "Other/F-Zero GX"
+songs: 
+  - id: fire_field
+    path: "Fire Field (Normal Lap and Final Lap).brstm"
+    title: "Fire Field"
+    type: battle
+  - id: aeropolis
+    path: "Aeropolis.brstm"
+    title: "Aeropolis"
+    type: battle
+  - id: big_blue
+    path: "Big Blue.brstm"
+    title: "Big Blue"
+    type: battle
+  - id: characters_profile
+    path: "Character's Profile.brstm"
+    title: "Character's Profile"
+    type: betting
+  - id: cosmo_terminal
+    path: "Cosmo Terminal.brstm"
+    title: "Cosmo Terminal"
+    type: battle
+  - id: customize
+    path: "Customize.brstm"
+    title: "Customize"
+    type: betting
+  - id: emperor_breath
+    path: "Emperor Breath.brstm"
+    title: "Emperor Breath"
+    type: battle
+  - id: mute_city
+    path: "Mute City.brstm"
+    title: "Mute City"
+    type: battle
+  - id: finish
+    path: "Finish.brstm"
+    title: "Finish"
+    type: result
+  - id: green_plant
+    path: "Green Plant.brstm"
+    title: "Green Plant"
+    type: battle
+  - id: lighting
+    path: "Lightning.brstm"
+    title: "Lightning"
+    type: battle
+  - id: main_selector
+    path: "Main Selector.brstm"
+    title: "Main Selector"
+    type: betting
+  - id: night_of_big_blue
+    path: "Night of Big Blue.brstm"
+    title: "Night of Big Blue"
+    type: battle
+#      - id: option
+#        path: "Option.brstm"
+#        title: "Option"
+#        type: result
+# unfitting result song
+  - id: outer_space
+    path: "Outer Space.brstm"
+    title: "Outer Space"
+    type: battle
+  - id: phantom_road
+    path: "Phantom Road.brstm"
+    title: "Phantom Road"
+    type: battle
+  - id: port_town
+    path: "Port Town.brstm"
+    title: "Port Town"
+    type: battle
+  - id: replay
+    path: "Replay.brstm"
+    title: "Replay"
+    type: battle
+  - id: sand_ocean
+    path: "Sand Ocean.brstm"
+    title: "Sand Ocean"
+    type: battle
+  - id: shop
+    path: "Shop.brstm"
+    title: "Shop"
+    type: result
+  - id: staff_roll_fzgx
+    path: "Staff Roll.brstm"
+    title: "Staff Roll"
+    type: betting
+  - id: theme_of_antonio_guster
+    path: "Theme of Antonio Guster.brstm"
+    title: "Theme of Antonio Guster"
+    type: battle
+  - id: theme_of_baba
+    path: "Theme of Baba.brstm"
+    title: "Theme of Baba"
+    type: battle
+  - id: theme_of_beastman
+    path: "Theme of Beastman.brstm"
+    title: "Theme of Beastman"
+    type: betting
+  - id: theme_of_dr_stewart
+    path: "Theme of Dr. Stewart.brstm"
+    title: "Theme of Dr. Stewart"
+    type: betting
+  - id: time_for_kill
+    path: "Time For Kill.brstm"
+    title: "Time For Kill"
+    type: battle
+  - id: tutorial_fzgx
+    path: "Tutorial.brstm"
+    title: "Tutorial"
+    type: betting
+  - id: vegas_palace
+    path: "Vegas Palace.brstm"
+    title: "Vegas Palace"
+    type: battle
+  - id: winning_run
+    path: "Winning Run.brstm"
+    title: "Winning Run"
+    type: result
+...

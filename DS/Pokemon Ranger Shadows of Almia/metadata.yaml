@@ -1,0 +1,57 @@
+---
+id: pokemon_ranger_shadows
+title: "Pokémon Ranger: Shadows of Almia"
+series: pokemon
+year: 2008
+platform: "NDS"
+path: "DS/Pokemon Ranger Shadows of Almia"
+songs:
+  - id: tension_ranger_shadows
+    title: "Tension"
+    path: "0000 SEQ_FLD_TENSION.mini2sf"
+    type: result
+  - id: school_road
+    title: "School Road"
+    path: "000D SEQ_FLD_BGM01.mini2sf"
+    type: betting
+  - id: trouble_ranger_shadows
+    title: "Trouble"
+    path: "000F SEQ_FLD_TROUBLE.mini2sf"
+    type: warning
+  - id: altru_tower
+    title: "Altru Tower"
+    path: "001d SEQ_FLD_UNHELL03.mini2sf"
+    type: warning
+  - id: wild_battle_ranger_shadows
+    title: "Wild Pokémon Battle"
+    path: "0002 SEQ_CAP_BGM01.mini2sf"
+    type: result
+  - id: gorock_concert
+    title: "Go-Rock Quads Concert"
+    path: "004b SEQ_EVE_ENDING2.mini2sf"
+    type: betting
+  - id: new_almia
+    title: "A New Almia"
+    path: "004a SEQ_EVE_ENDING1.mini2sf"
+    type: result
+  - id: darkrai_regigigas
+    title: "Darkrai & Regigigas"
+    path: "004c SEQ_EVE_DARKRIVAL.mini2sf"
+    type: battle
+  - id: cargo_ship
+    title: "Cargo Ship"
+    path: "004d SEQ_FLD_BGM18.mini2sf"
+    type: warning
+  - id: empoleon_ride
+    title: "Empoleon Ride"
+    path: "0010 SEQ_FLD_RIDE.mini2sf"
+    type: betting
+  - id: team_dim_sun_sinis
+    title: "Team Dim Suns Sinis Trio Battle"
+    path: "0025 SEQ_CAP_YAMI4.mini2sf"
+    type: warning
+  - id: capture_inside
+    title: "Capture Arena (Inside)"
+    path: "0037 SEQ_FLD_COLOCAPTURE.mini2sf"
+    type: result
+...

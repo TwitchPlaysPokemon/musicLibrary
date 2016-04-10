@@ -1,0 +1,20 @@
+---
+id: the_world_ends_with_you
+title: "The World Ends With You"
+platform: "NDS"
+year: 2008
+path: "Other/The World Ends With You"
+songs:
+  - id: forebode
+    title: "Forebode"
+    path: "Forebode.brstm"
+    type: warning
+  - id: it_is_fashionable
+    path: "It Is Fashionable.brstm"
+    title: "It Is Fashionable"
+    type: warning
+      #- id: amnesia
+      #  path: "Amnesia.brstm"
+      #  title: "Amnesia"
+      #  type: result
+...

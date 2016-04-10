@@ -1,0 +1,101 @@
+---
+id: pokemon_stadium
+title: "Pokémon Stadium"
+series: pokemon
+platform: "N64"
+year: 2000
+path: "N64/Stadium 1"
+songs:
+  - id: battle_mewtwo_stadium
+    title: "Battle vs. Mewtwo"
+    path: "Battle with Mewtwo.brstm"
+    type: battle
+  - id: gym_leader_e4
+    title: "Gym Leader Castle (Elite Four)"
+    path: "Gym Leader Castle (Elite Four).brstm"
+    type: warning
+  - id: gym_leader_prelim
+    title: "Gym Leader Castle (Preliminary Battles)"
+    path: "Gym Leader Castle (Preliminary Battles).brstm"
+    type: battle
+#      - id: petit_final
+#        title: "Petit Cup Final"
+#        path: "Petit Cup Final.brstm"
+#        type: battle #Tempo changes, making it not fit
+#      - id: pika_battles1
+#        title: "Pika Cup Battles 1-3"
+#        path: "Pika Cup Battles 1-3.brstm"
+#        type: battle #Not tense and charged enough
+  - id: pokemon_selection
+    title: "Pokémon Selection"
+    path: "Pokémon Selection.brstm"
+    type: warning
+#      - id: prime_battles1
+#        title: "Prime Cup Battles 1-3"
+#        path: "Prime Cup Battles 1-3.brstm"
+#        type: battle #Borderline not tense and charged enough after the great intro :(
+  - id: prime_semi
+    title: "Prime Cup Semifinal"
+    path: "Prime Cup Semifinal.brstm"
+    type: betting
+  - id: rival_battle_stadium
+    title: "Battle vs. Rival"
+    path: "Rival Battle.brstm"
+    type: battle
+  - id: rock_harden
+    title: "Rock Harden"
+    path: "Rock Harden.brstm"
+    type: warning
+#      - id: run_rattata_run
+#        title: "Run, Rattata, Run!"
+#        path: "Run, Rattata, Run.brstm"
+#        type: warning #borderline too WutFace to fit
+#      - id: thundering_dynamo
+#        title: "Thundering Dynamo"
+#        path: "Thundering Dynamo.brstm"
+#        type: warning #Borderline not exciting enough to fit
+  - id: vs_won
+    title: "Vs. Won"
+    path: "VS Won.brstm"
+    type: result
+  - id: vs_mewtwo_menu
+    title: "Vs. Mewtwo Menu"
+    path: "VS Mewtwo Menu.brstm"
+    type: betting
+#  - id: pokemon_stadium_jpn
+#    title: "Pocket Monsters Stadium"
+#    series: pokemon
+#    platform: "N64"
+#    year: 1998
+#    path: "N64/Stadium 1"
+#    songs:
+#      - id: rounds_4
+#        title: "Rounds 4-6 Battle"
+#        path: "Rounds 4-6 Battle.brstm"
+#        type: battle #Worse remix of kanto trainer battle, which is already in the playlist
+#  - id: "1080"
+#    title: "1080 Snowboarding"
+#    platform: "N64"
+#    year: 1998
+#    path: "N64/1080"
+#    songs:
+#      - id: blue_flame
+#        title: "Blue Flame"
+#        path: "Blue Flame.brstm"
+#        type: battle #Borderline doesn't fit
+#      - id: vacant_lives
+#        title: "Vacant Lives"
+#        path: "Vacant Lives.brstm"
+#        type: betting #WutFace lyrics
+#  - id: winxp
+#    title: "Windows XP"
+#    series: frozen
+#    platform: "PC"
+#    year: 2001
+#    path: "PC/XP"
+#    songs:
+#      - id: windows_xp
+#        title: "Windows XP Welcome Theme"
+#        path: "Windows XP.brstm"
+#        type: betting #Not from a video game
+...

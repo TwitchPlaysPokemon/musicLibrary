@@ -1,0 +1,17 @@
+---
+id: shin_megami_tensei_devil_survivor
+platform: "NDS"
+title: "Shin Megami Tensei: Devil Survivor"
+series: shinmegamitensei
+year: 2009
+path: "Other/Shin Megami Tensei_ Devil Survivor"
+songs: 
+  - id: action
+    path: "Action.brstm"
+    title: "Action"
+    type: betting
+  - id: garuda
+    path: "Devil_Survivor_1-Garuda.brstm"
+    title: "Garuda"
+    type: result
+...

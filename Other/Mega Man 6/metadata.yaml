@@ -1,0 +1,17 @@
+---
+id: mega_man_6
+platform: "NES"
+title: "Mega Man 6"
+series: megaman
+year: 1993
+path: "Other/Mega Man 6"
+songs: 
+  - id: flame_man
+    path: "Flame Man.brstm"
+    title: "Flame Man"
+    type: result
+  - id: knightman_stage
+    path: "Knightman Stage.brstm"
+    title: "Knight Man"
+    type: betting
+...

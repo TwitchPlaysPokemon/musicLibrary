@@ -1,0 +1,36 @@
+---
+id: front_mission_3
+platform: "PS1"
+title: "Front Mission 3"
+year: 1999
+path: "Other/Front Mission 3"
+songs: 
+  - id: attack
+    path: "Attack.brstm"
+    title: "Attack"
+    type: battle
+  - id: barrier
+    path: "Barrier.brstm"
+    title: "Barrier"
+    type: betting
+  - id: escape
+    path: "Escape.brstm"
+    title: "Escape"
+    type: battle
+  - id: network
+    path: "Network.brstm"
+    title: "Network"
+    type: result
+  - id: setup_2
+    path: "Setup 2.brstm"
+    title: "Setup 2"
+    type: betting
+  - id: swift_attack
+    path: "Swift Attack.brstm"
+    title: "Swift Attack"
+    type: battle
+  - id: the_bar
+    path: "The Bar.brstm"
+    title: "The Bar"
+    type: betting
+...

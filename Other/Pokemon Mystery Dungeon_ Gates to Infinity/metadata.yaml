@@ -1,0 +1,36 @@
+---
+id: pokémon_mystery_dungeon_gates_to_infinity
+title: "Pokémon Mystery Dungeon: Gates to Infinity"
+series: pokemon
+year: 2012
+platform: "3DS"
+path: "Other/Pokemon Mystery Dungeon_ Gates to Infinity"
+songs:
+  - id: outlaw
+    title: "Outlaw!"
+    path: "Outlaw!.brstm"
+    type: warning
+  - id: job_clear_pmd_gti
+    title: "Job Clear!"
+    path: "Job Clear!.brstm"
+    type: result
+  - id: rising_fear
+    title: "Rising Fear"
+    path: "Rising Fear.brstm"
+    type: warning
+#  - id: super_smash_flash_2
+#    title: "Super Smash Flash 2"
+#    year: upcoming release
+#    platform: "PC"
+#    path: "Other/Super Smash Flash 2"
+#    songs:
+#      - id: battlefield_(perfect_brstm)
+#        title: "Battlefield (Perfect BRSTM)"
+#        path: "Battlefield (Perfect BRSTM).brstm"
+#        type: betting
+#      - id: results_screen
+#        title: "Results Screen"
+#        path: "Results Screen.brstm"
+#        type: result
+# unfitting game: a fan game should not be on this metadata.
+...

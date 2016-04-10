@@ -1,0 +1,33 @@
+---
+id: star_fox_assault
+platform: "GCN"
+title: "Star Fox: Assault"
+series: starfox
+year: 2005
+path: "Other/Star Fox Assault"
+songs: 
+  - id: corneria_foxassault
+    path: "Corneria.brstm"
+    title: "Corneria"
+    type: battle
+  - id: menu
+    path: "Menu.brstm"
+    title: "Menu"
+    type: betting
+  - id: meteo
+    path: "Meteo.brstm"
+    title: "Meteo"
+    type: battle
+  - id: sauria
+    path: "Sauria.brstm"
+    title: "Sauria"
+    type: battle
+  - id: mission_complete
+    path: "Mission Complete.brstm"
+    title: "Mission Complete"
+    type: result
+  - id: vs_simple_map_5
+    path: "Vs. Simple Map 5.brstm"
+    title: "Vs. Simple Map 5"
+    type: betting
+...

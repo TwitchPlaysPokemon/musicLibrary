@@ -1,0 +1,73 @@
+---
+id: donkey_kong_country
+title: "Donkey Kong Country"
+series: donkeykong
+year: 1994
+platform: "SNES"
+path: "SNES/Donkey Kong Country"
+songs:
+  - id: gangplank_galleon
+    title: "Gang-Plank Galleon"
+    path: "20 Gang-Plank Galleon.spc"
+    type: battle
+  - id: dk_island_swing
+    title: "DK Island Swing"
+    path: "03 DK Island Swing.spc"
+    type: betting
+  - id: aquatic_ambiance
+    title: "Aquatic Ambiance"
+    path: "07 Aquatic Ambiance.spc"
+    type: betting
+  - id: mine_cart_madness
+    title: "Mine Cart Madness"
+    path: "10 Mine Cart Madness.spc"
+    type: betting
+  - id: life_in_the_mines
+    title: "Life in the Mines"
+    path: "11 Life in the Mines.spc"
+    type: betting
+  - id: voices_of_the_temple
+    title: "Voices of the Temple"
+    path: "12 Voices of the Temple.spc"
+    type: betting
+  - id: forest_frenzy
+    title: "Forest Frenzy"
+    path: "13 Forest Frenzy.spc"
+    type: betting
+  - id: treetop_rock
+    title: "Treetop Rock"
+    path: "14 Treetop Rock.spc"
+    type: betting
+  - id: ice_cave_chant
+    title: "Ice Cave Chant"
+    path: "18 Ice Cave Chant.spc"
+    type: betting
+  - id: fear_factory
+    title: "Fear Factory"
+    path: "19 Fear Factory.spc"
+    type: betting
+  - id: simian_segue
+    title: "Simian Segue"
+    path: "02 Simian Segue.spc"
+    type: break
+  - id: crankys_theme
+    title: "Cranky's Theme"
+    path: "04 Cranky's Theme.spc"
+    type: break
+  - id: bonus_room_blitz
+    title: "Bonus Room Blitz"
+    path: "06 Bonus Room Blitz.spc"
+    type: break
+  - id: candys_love_song
+    title: "Candy's Love Song"
+    path: "08 Candy's Love Song.spc"
+    type: break
+  - id: credits_concerto
+    title: "The Credits Concerto"
+    path: "22 The Credits Concerto.spc"
+    type: result
+  - id: bad_boss_boogie
+    title: "Bad Boss Boogie"
+    path: "09 Bad Boss Boogie.spc"
+    type: warning
+...

@@ -1,0 +1,57 @@
+---
+id: super_smash_bros_for_wii_u
+title: "Super Smash Bros. for Wii U"
+series: smash
+platform: "Wii U"
+year: 2014
+path: "Other/Super Smash Bros Wii U"
+songs:
+  - id: yoshi's_woolly_world_(remix)
+    title: "Yoshi's Woolly World (Remix)"
+    path: "Yoshi's Woolly World (Remix).brstm"
+    type: betting
+  - id: battle_team_flare
+    title: "Battle! Team Flare"
+    path: "Battle! Team Flare.brstm"
+    type: battle
+  - id: rosalina_in_the_observatory_luma's_theme
+    title: "Rosalina in the Observatory / Luma's Theme"
+    path: "Rosalina in the Observatory  Luma's Theme.brstm"
+    type: betting
+  - id: master_hand
+    path: "Master Hand.brstm"
+    title: "Master Hand"
+    type: battle
+  - id: tourney_results
+    path: "Tournament_ Final Results.brstm"
+    title: "Tournament: Final Results"
+    type: result
+  - id: tourney_registration
+    path: "Tournament_ Registration.brstm"
+    title: "Tournament: Registration"
+    type: betting
+  - id: air_man_stage_mega_man_2
+    path: "Air Man Stage (Mega Man 2).brstm"
+    title: "Air Man Stage (Mega Man 2)"
+    type: battle
+  - id: album
+    path: "Album.brstm"
+    title: "Album"
+    type: betting
+  - id: battle_trainer_battle
+    path: "Battle! (Trainer Battle).brstm"
+    title: "Battle! (Trainer Battle)"
+    type: battle
+  - id: route_10_bw
+    path: "Route 10 (BW).brstm"
+    title: "Route 10 (Black / White)"
+    type: betting
+  - id: outdoors_at_7_pm_sunny_main_street
+    path: "Outdoors at 7 p.m. (Sunny) Main Street.brstm"
+    title: "Outdoors at 7 p.m. (Sunny) / Main Street"
+    type: betting
+  - id: menu_melee_ver_2
+    path: "Menu (Melee)_ Ver. 2.brstm"
+    title: "Menu (Melee): Ver. 2"
+    type: battle
+...

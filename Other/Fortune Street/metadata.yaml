@@ -1,0 +1,36 @@
+---
+id: fortune_street
+platform: "Wii"
+title: "Fortune Street"
+year: 2011
+path: "Other/Fortune Street"
+songs: 
+  - id: main_menu_fstreet
+    path: "Main Menu.brstm"
+    title: "Main Menu"
+    type: betting
+  - id: final_boss_super_mario_world
+    path: "Final Boss (Super Mario World).brstm"
+    title: "Final Boss (Super Mario World)"
+    type: battle
+  - id: chance_card
+    path: "Chance Card.brstm"
+    title: "Chance Card"
+    type: betting
+  - id: slot_machine_mario_series
+    path: "Slot Machine - Mario Series.brstm"
+    title: "Slot Machine - Mario Series"
+    type: betting
+  - id: world_1_1
+    path: "World 1-1 (Super Mario Bros.).brstm"
+    title: "World 1-1 (Super Mario Bros.)"
+    type: betting
+  - id: delfino_plaza_fstreet
+    path: "Delfino Plaza.brstm"
+    title: "Delfino Plaza"
+    type: betting
+  - id: mario_circuit
+    path: "Mario Circuit.brstm"
+    title: "Mario Circuit"
+    type: betting
+...

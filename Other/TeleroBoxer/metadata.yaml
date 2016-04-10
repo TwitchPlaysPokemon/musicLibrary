@@ -1,0 +1,16 @@
+---
+id: teleroboxer
+title: "TeleroBoxer"
+year: 1995
+platform: "VB"
+path: "Other/TeleroBoxer"
+songs:
+  - id: milky_telbox
+    title: "Milky"
+    path: "Milky.brstm"
+    type: battle
+  - id: face_the_legendary_champ
+    title: "Face the Legendary Champ"
+    path: "Face the Legendary Champ.brstm"
+    type: warning
+...

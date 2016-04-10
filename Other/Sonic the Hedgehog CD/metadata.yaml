@@ -1,0 +1,25 @@
+---
+id: sonic_cd
+title: "Sonic CD"
+series: sonic
+year: 1993
+platform: "SCD"
+path: "Other/Sonic the Hedgehog CD"
+songs:
+  - id: special_stage_(jpnpal)_(long)
+    title: "Special Stage (JPN/PAL)"
+    path: "Special Stage (JPNPAL) (Long).brstm"
+    type: betting
+  - id: palmtree_panic_present_us
+    title: "Palmtree Panic Present (US)"
+    path: "Palmtree Panic Present (US).brstm"
+    type: betting
+  - id: boss_us
+    title: "Boss (US)"
+    path: "Boss (US).brstm"
+    type: warning
+  - id: invincibility_us
+    title: "Invincibility (US)"
+    path: "Invincibility (US).brstm"
+    type: warning
+...

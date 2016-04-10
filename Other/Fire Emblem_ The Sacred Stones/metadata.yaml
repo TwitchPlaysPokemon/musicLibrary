@@ -1,0 +1,21 @@
+---
+id: fire_emblem_the_sacred_stones
+platform: "GBA"
+title: "Fire Emblem: The Sacred Stones"
+series: fireemblem
+year: 2005
+path: "Other/Fire Emblem_ The Sacred Stones"
+songs: 
+  - id: truth_despair_and_hope
+    path: "Truth, Despair, and Hope.brstm"
+    title: "Truth, Despair, and Hope"
+    type: betting
+  - id: the_prince's_despair
+    title: "The Prince's Despair"
+    path: "The Prince's Despair.brstm"
+    type: warning
+  - id: powerful_foe
+    title: "Powerful Foe"
+    path: "Powerful Foe.brstm"
+    type: warning
+...

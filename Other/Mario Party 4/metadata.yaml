@@ -1,0 +1,89 @@
+---
+id: mario_party_4
+title: "Mario Party 4"
+series: mario
+year: 2002
+platform: "GCN"
+path: "Other/Mario Party 4"
+songs:
+  - id: the_final_duel
+    title: "The Final Duel"
+    path: "The Final Duel.brstm"
+    type: battle
+  - id: try_hard_folks
+    title: "Try Hard, Folks"
+    path: "Try Hard, Folks.brstm"
+    type: battle
+  - id: boos_haunted_bash
+    title: "Boo's Haunted Bash"
+    path: "Boo's Haunted Bash.brstm"
+    type: betting
+  - id: bowsers_gnarly_party
+    title: "Bowser's Gnarly Party"
+    path: "Bowser's Gnarly Party.brstm"
+    type: betting
+  - id: goombas_greedy_gala
+    title: "Goomba's Greedy Gala"
+    path: "Goomba's Greedy Gala.brstm"
+    type: betting
+  - id: koopas_seaside_soiree
+    title: "Koopa's Seaside Soiree"
+    path: "Koopa's Seaside Soiree.brstm"
+    type: betting
+  - id: shyguys_jungle_jam
+    title: "Shy Guy's Jungle Jam"
+    path: "Shy Guy's Jungle Jam.brstm"
+    type: betting
+  - id: toads_midway_madness
+    title: "Toad's Midway Madness"
+    path: "Toad's Midway Madness.brstm"
+    type: betting
+  - id: how_do_i_get_in
+    title: "How Do I Get In"
+    path: "How Do I Get In.brstm"
+    type: break
+  - id: heres_the_ranking
+    title: "Here's the Ranking"
+    path: "Here's the Ranking.brstm"
+    type: result
+  - id: youre_the_star
+    title: "You're the Star"
+    path: "You're the Star.brstm"
+    type: result
+  - id: fortunes_turn
+    title: "Fortunes Turn"
+    path: "Fortunes Turn.brstm"
+    type: warning
+  - id: heart_pumping
+    title: "Heart-Pumping"
+    path: "Heart-Pumping.brstm"
+    type: warning
+  - id: hurry_hurry_mp4
+    title: "Hurry! Hurry!"
+    path: "Hurry! Hurry!.brstm"
+    type: warning
+  - id: play_with_bowser
+    title: "Play With Bowser"
+    path: "Play With Bowser.brstm"
+    type: warning
+  - id: ride_klepto
+    title: "Ride Klepto"
+    path: "Ride Klepto.brstm"
+    type: warning
+  - id: start_the_battle
+    title: "Start the Battle"
+    path: "Start the Battle.brstm"
+    type: warning
+  - id: start_the_party
+    title: "Start the Party"
+    path: "Start the Party.brstm"
+    type: warning
+  - id: the_genie_appears
+    title: "The Genie Appears"
+    path: "The Genie Appears.brstm"
+    type: warning
+  - id: to_the_final_duel
+    title: "To the Final Duel"
+    path: "To the Final Duel.brstm"
+    type: warning
+...

@@ -1,0 +1,21 @@
+---
+id: super_mario_sunshine
+platform: "GCN"
+title: "Super Mario Sunshine"
+series: mario
+year: 2002
+path: "Other/Super Mario Sunshine"
+songs: 
+  - id: vs_boss_mariosun
+    path: "Vs. Boss.brstm"
+    title: "Vs. Boss"
+    type: warning
+  - id: ricco_harbor
+    path: "Ricco Harbor.brstm"
+    title: "Ricco Harbor"
+    type: betting
+  - id: delfino_plaza
+    path: "Delfino Plaza.brstm"
+    title: "Delfino Plaza"
+    type: betting
+...

@@ -1,0 +1,65 @@
+---
+id: mario_party_5
+title: "Mario Party 5"
+series: mario
+year: 2003
+platform: "GCN"
+path: "Other/Mario Party 5"
+songs:
+  - id: toy_dream
+    title: "Lots of Toys"
+    path: "Lots of Toys.brstm"
+    type: betting
+  - id: sky_presents
+    title: "Sky Presents"
+    path: "Sky Presents.brstm"
+    type: betting
+  - id: space_dream
+    title: "Space Match"
+    path: "Space Match.brstm"
+    type: betting
+  - id: dream_memories
+    title: "Dream Memories"
+    path: "Dream Memories.brstm"
+    type: break
+  - id: inside_the_dream
+    title: "Inside the Dream"
+    path: "Inside the Dream.brstm"
+    type: break
+  - id: battle_results_mp5
+    title: "Battle Results"
+    path: "Battle Results.brstm"
+    type: result
+  - id: youre_the_star_mp5
+    title: "You're the Star!"
+    path: "You're the Star!.brstm"
+    type: result
+  - id: battle_mini_game
+    title: "Battle Mini-Game"
+    path: "Battle Mini-Game.brstm"
+    type: warning
+  - id: bowser_appears_mp5
+    title: "Bowser Appears"
+    path: "Bowser Appears.brstm"
+    type: warning
+  - id: chain_chomp_rage
+    title: "Chain Chomp Rage"
+    path: "Chain Chomp Rage.brstm"
+    type: warning
+  - id: doubtful_chance
+    title: "Doubtful Chance"
+    path: "Doubtful Chance.brstm"
+    type: warning
+  - id: nervous_tension
+    title: "Nervous Tension"
+    path: "Nervous Tension.brstm"
+    type: warning
+  - id: rolling_about
+    title: "Rolling About"
+    path: "Rolling About.brstm"
+    type: warning
+  - id: serious_competition
+    title: "Serious Competition"
+    path: "Serious Competition.brstm"
+    type: warning
+...

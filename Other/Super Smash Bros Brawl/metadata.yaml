@@ -1,0 +1,77 @@
+---
+id: super_smash_bros_brawl
+title: "Super Smash Bros. Brawl"
+series: smash
+platform: "Wii"
+year: 2008
+path: "Other/Super Smash Bros Brawl"
+songs:
+  - id: winning_road_-_roy's_hope
+    title: "Winning Road - Roy's Hope"
+    path: "Winning Road - Roy's Hope.brstm"
+    type: betting
+  - id: corneria
+    title: "Corneria"
+    path: "Corneria.brstm"
+    type: betting
+  - id: angel_island_zone
+    path: "Angel Island Zone.brstm"
+    title: "Angel Island Zone"
+    type: betting
+  - id: boss_battle_brawl
+    path: "Boss Battle.brstm"
+    title: "Boss Battle"
+    type: betting
+  - id: boss_battle_song_1
+    path: "Boss Battle Song 1.brstm"
+    title: "Boss Battle Song 1"
+    type: battle
+  - id: battlefield
+    path: "Battlefield.brstm"
+    title: "Battlefield"
+    type: battle
+  - id: boss_battle_song_2
+    path: "Boss Battle Song 2.brstm"
+    title: "Boss Battle Song 2"
+    type: battle
+  - id: boss_theme_medley
+    path: "Boss Theme Medley.brstm"
+    title: "Boss Theme Medley"
+    type: battle
+  - id: final_destination
+    path: "Final Destination.brstm"
+    title: "Final Destination"
+    type: battle
+  - id: menu_1
+    path: "Menu 1.brstm"
+    title: "Menu 1"
+    type: betting
+  - id: menu_2
+    path: "Menu 2.brstm"
+    title: "Menu 2"
+    type: betting
+  - id: pokemon_center
+    path: "Pokémon Center.brstm"
+    title: "Pokémon Center"
+    type: betting
+  - id: pokemon_main_theme
+    path: "Pokémon Main Theme.brstm"
+    title: "Pokémon Main Theme"
+    type: result
+  - id: pokemon_gym_evolution
+    path: "Pokémon Gym - Evolution.brstm"
+    title: "Pokémon Gym - Evolution"
+    type: betting
+  - id: encounter
+    path: "Encounter.brstm"
+    title: "Encounter"
+    type: battle
+  - id: coin_launcher
+    path: "Coin Launcher.brstm"
+    title: "Coin Launcher"
+    type: betting
+  - id: classic_-_results_screen
+    path: "Classic - Results Screen.brstm"
+    title: "Classic - Results Screen"
+    type: result
+...

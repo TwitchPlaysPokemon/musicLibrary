@@ -1,0 +1,32 @@
+---
+id: catz
+platform: "GBA"
+title: "Catz"
+year: 2006
+path: "GBA/Catz"
+songs: 
+  - id: bgm01
+    path: "01 BGM #01.minigsf"
+    title: "Pet Shop Theme"
+    type: betting
+  - id: bgm02
+    path: "02 BGM #02.minigsf"
+    title: "Main Title Theme"
+    type: betting
+  - id: bgm03
+    path: "03 BGM #03.minigsf"
+    title: "House Theme 1"
+    type: betting
+  - id: bgm04
+    path: "04 BGM #04.minigsf"
+    title: "House Theme 2"
+    type: betting
+  - id: bgm06
+    path: "06 BGM #06.minigsf"
+    title: "BGM #06"
+    type: betting
+  - id: bgm07
+    path: "07 BGM #07.minigsf"
+    title: "Veranda Theme"
+    type: betting
+...

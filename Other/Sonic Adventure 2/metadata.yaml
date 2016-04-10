@@ -1,0 +1,191 @@
+---
+id: sonic_adventure_2
+title: "Sonic Adventure 2"
+series: sonic
+year: 2001
+platform: "DC"
+path: "Other/Sonic Adventure 2"
+songs:
+#      - id: biolizard
+#        title: "Boss - Biolizard"
+#        path: "Boss - Biolizard.brstm"
+#        type: battle
+# too many lyrics in the song
+  - id: eggman_vs_tails
+    title: "Boss - Eggman vs. Tails"
+    path: "Boss - Eggman vs. Tails.brstm"
+    type: battle
+  - id: gun_mobile_sa2
+    title: "Boss - GUN-Mobile"
+    path: "Boss - GUN-Mobile.brstm"
+    type: battle
+  - id: king_boom_boo
+    title: "Boss - King Boom Boo"
+    path: "Boss - King Boom Boo.brstm"
+    type: battle
+#      - id: sonic_vs_shadow_final
+#        title: "Boss - Sonic vs. Shadow - Final"
+#        path: "Boss - Sonic vs. Shadow - Final.brstm"
+#        type: battle
+# too many lyrics in the song
+  - id: sonic_vs_shadow_first
+    title: "Boss - Sonic vs. Shadow, First"
+    path: "Boss - Sonic vs. Shadow, First.brstm"
+    type: battle
+  - id: chao_karate
+    title: "Chao Karate"
+    path: "Chao Karate.brstm"
+    type: battle
+  - id: cannons_core_1
+    title: "Cannon's Core 1"
+    path: "Cannon's Core 1.brstm"
+    type: betting
+  - id: cannons_core_2
+    title: "Cannon's Core 2"
+    path: "Cannon's Core 2.brstm"
+    type: betting
+  - id: chao_race_beginner
+    title: "Chao Race - Beginner"
+    path: "Chao Race - Beginner.brstm"
+    type: betting
+  - id: chao_race_challenge
+    title: "Chao Race - Challenge"
+    path: "Chao Race - Challenge.brstm"
+    type: betting
+  - id: chao_race_dark
+    title: "Chao Race - Dark"
+    path: "Chao Race - Dark.brstm"
+    type: betting
+#      - id: city_escape_1
+#        title: "City Escape 1"
+#        path: "City Escape 1.brstm"
+#        type: betting
+# stealth nuke of a meme song, sorry, trying to address the sonic issue and this cannot stay anymore
+  - id: cosmic_wall
+    title: "Cosmic Wall"
+    path: "Cosmic Wall.brstm"
+    type: betting
+  - id: crazy_gadget
+    title: "Crazy Gadget"
+    path: "Crazy Gadget.brstm"
+    type: betting
+  - id: eternal_engine
+    title: "Eternal Engine"
+    path: "Eternal Engine.brstm"
+    type: betting
+  - id: event_strategy_slower
+    title: "Event - Strategy (Slower)"
+    path: "Event - Strategy (Slower).brstm"
+    type: betting
+  - id: final_rush
+    title: "Final Rush"
+    path: "Final Rush.brstm"
+    type: betting
+  - id: green_forest_sa2
+    title: "Green Forest"
+    path: "Green Forest.brstm"
+    type: betting
+  - id: hidden_base_sa2
+    title: "Hidden Base"
+    path: "Hidden Base.brstm"
+    type: betting
+  - id: iron_gate_sa2
+    title: "Iron Gate"
+    path: "Iron Gate.brstm"
+    type: betting
+  - id: kart_stages_sa2
+    title: "Kart Stages"
+    path: "Kart Stages.brstm"
+    type: betting
+  - id: lost_colony
+    title: "Lost Colony"
+    path: "Lost Colony.brstm"
+    type: betting
+  - id: mission_street
+    title: "Mission Street"
+    path: "Mission Street.brstm"
+    type: betting
+  - id: prison_lane
+    title: "Prison Lane"
+    path: "Prison Lane.brstm"
+    type: betting
+  - id: pyramid_cave
+    title: "Pyramid Cave"
+    path: "Pyramid Cave.brstm"
+    type: betting
+#      - id: radical_highway
+#        title: "Radical Highway"
+#        path: "Radical Highway.brstm"
+#        type: battle
+# duplicate of battle mode from ShTH
+  - id: sand_ocean_sa2
+    title: "Sand Ocean"
+    path: "Sand Ocean.brstm"
+    type: betting
+  - id: chao_race_hero
+    title: "Chao Race - Hero"
+    path: "Chao Race - Hero.brstm"
+    type: result
+  - id: chao_race_jewel
+    title: "Chao Race - Jewel"
+    path: "Chao Race - Jewel.brstm"
+    type: result
+  - id: menu_options_sa2
+    title: "Menu - Options"
+    path: "Menu - Options.brstm"
+    type: result
+  - id: metal_harbor_1
+    title: "Metal Harbor 1 - In Game Version"
+    path: "Metal Harbor 1 - In Game Version.brstm"
+    type: result
+#      - id: tutorial_sa2
+#        title: "Tutorial"
+#        path: "Tutorial.brstm"
+#        type: result
+# unfitting result song
+  - id: cannons_core_3
+    title: "Cannon's Core 3"
+    path: "Cannon's Core 3.brstm"
+    type: warning
+  - id: city_escape_2
+    title: "City Escape 2"
+    path: "City Escape 2.brstm"
+    type: warning
+  - id: event_strategy
+    title: "Event - Strategy"
+    path: "Event - Strategy.brstm"
+    type: warning
+  - id: speed_up_sa2
+    title: "Hey You! It's Time To Speed Up Again!!!"
+    path: "Hey You! It's Time To Speed Up Again!!!.brstm"
+    type: warning
+  - id: invincible_sa2
+    title: "Invincible (Looped)"
+    path: "Invincible (Looped).brstm"
+    type: warning
+  - id: menu_story_select
+    title: "Menu - Story Select"
+    path: "Menu - Story Select.brstm"
+    type: warning
+  - id: metal_harbor_2
+    title: "Metal Harbor 2"
+    path: "Metal Harbor 2.brstm"
+    type: warning
+  - id: pyramid_cave_multiplayer
+    title: "Pyramid Cave - Multiplayer"
+    path: "Pyramid Cave - Multiplayer.brstm"
+    type: warning
+  - id: sky_rail_sa2
+    title: "Sky Rail"
+    path: "Sky Rail.brstm"
+    type: warning
+#      - id: intro_theme_sa2
+#        title: "Intro Theme"
+#        path: "Intro Theme.brstm"
+#        type: warning
+# song is missing, probably mistakenly added by hellenah.
+  - id: weapons_bed
+    title: "Weapons Bed"
+    path: "Weapons Bed.brstm"
+    type: warning
+...

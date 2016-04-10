@@ -1,0 +1,109 @@
+---
+id: billy_hatcher
+title: "Billy Hatcher & The Giant Egg"
+year: 2003
+platform: "GCN"
+path: "Other/Billy Hatcher & The Giant Egg"
+songs:
+  - id: bang_bang_big_hornes_explosion
+    title: "Bang! Bang! Big Hornes Explosion!"
+    path: "Bang! Bang! Big Hornes Explosion!.brstm"
+    type: battle
+  - id: bossy_crow
+    title: "Bossy Crow"
+    path: "Bossy Crow.brstm"
+    type: battle
+  - id: billys_courage
+    title: "Billy's Courage"
+    path: "Billy's Courage.brstm"
+    type: betting
+  - id: bony_dinosaur_dance
+    title: "Bony Dinosaur Dance"
+    path: "Bony Dinosaur Dance.brstm"
+    type: betting
+  - id: bossy_nova_of_briny_air
+    title: "Bossa Nova of Briny Air"
+    path: "Bossa Nova of Briny Air.brstm"
+    type: betting
+#      - id: file_select_map_screen
+#        title: "File Select [Map Screen]"
+#        path: "File Select [Map Screen].brstm"
+#        type: betting
+# taking out the trash, try giant palace instead of this
+  - id: giant_palace_night_theme
+    title: "Giant Palace [Night Theme]"
+    path: "Giant Palace [Night Theme].brstm"
+    type: betting
+  - id: giant_palace
+    title: "Giant Palace"
+    path: "Giant Palace.brstm"
+    type: betting
+  - id: head_for_the_top
+    title: "Head for the Top"
+    path: "Head for the Top.brstm"
+    type: betting
+  - id: jack_in_the_box
+    title: "Jack-in-the-Box!"
+    path: "Jack-in-the-Box!.brstm"
+    type: betting
+  - id: lets_go_easy
+    title: "Let's Go Easy"
+    path: "Let's Go Easy.brstm"
+    type: betting
+  - id: lullaby_of_snow_mountain
+    title: "Lullaby of Snow Mountain"
+    path: "Lullaby of Snow Mountain.brstm"
+    type: betting
+  - id: odd_march
+    title: "Odd March"
+    path: "Odd March.brstm"
+    type: betting
+  - id: pinball_like_echo
+    title: "Pinball-like Echo"
+    path: "Pinball-like Echo.brstm"
+    type: betting
+  - id: pop_a_parade
+    title: "Pop A Parade"
+    path: "Pop A Parade.brstm"
+    type: betting
+  - id: rumbling_blues
+    title: "Rumbling Blues"
+    path: "Rumbling Blues.brstm"
+    type: betting
+  - id: sandstorm_sitar
+    title: "Sandstorm Sitar"
+    path: "Sandstorm Sitar.brstm"
+    type: betting
+  - id: silent_passionate_sea
+    title: "Silent & Passionate Sea"
+    path: "Silent & Passionate Sea.brstm"
+    type: betting
+  - id: take_upper_fruit
+    title: "Take Upper Fruit!"
+    path: "Take Upper Fruit!.brstm"
+    type: betting
+  - id: thanks_for_the_peaceful_today
+    title: "Thanks for the Peaceful Today"
+    path: "Thanks for the Peaceful Today.brstm"
+    type: betting
+  - id: the_beginning_of_an_adventure
+    title: "The Beginning of an Adventure"
+    path: "The Beginning of an Adventure.brstm"
+    type: betting
+  - id: tumbling_xylophone
+    title: "Tumbling Xylophone"
+    path: "Tumbling Xylophone.brstm"
+    type: betting
+  - id: volcanic_orchestra
+    title: "Volcanic Orchestra"
+    path: "Volcanic Orchestra.brstm"
+    type: betting
+  - id: desert_afternoon
+    title: "Desert Afternoon"
+    path: "Desert Afternoon.brstm"
+    type: result
+  - id: sound_of_fanfare
+    title: "Sound of Fanfare"
+    path: "Sound of Fanfare.brstm"
+    type: result
+...

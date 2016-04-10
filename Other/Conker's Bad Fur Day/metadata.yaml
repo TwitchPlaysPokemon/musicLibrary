@@ -1,0 +1,24 @@
+---
+id: conkers_bad_fur_day
+title: "Conker's Bad Fur Day"
+platform: "N64"
+year: 2001
+path: "Other/Conker's Bad Fur Day"
+songs:
+#      - id: ole
+#        title: "Olé"
+#        path: "Olé (Remastered).brstm"
+#        type: battle #Does not fit at all
+#      - id: the_old_chap
+#        title: "The Old Chap"
+#        path: "The Old Chap.brstm"
+#        type: result #Does not fit
+#      - id: heist
+#        title: "Heist"
+#        path: "Heist.brstm"
+#        type: betting
+  - id: boss_fight
+    title: "Boss Fight"
+    path: "Boss Fight.brstm"
+    type: warning
+...

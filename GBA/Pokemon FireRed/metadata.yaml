@@ -1,0 +1,177 @@
+---
+id: pokemon_firered
+platform: "GBA"
+title: "Pokémon FireRed/LeafGreen"
+series: pokemon
+year: 2004
+path: "GBA/Pokemon FireRed"
+songs: 
+  - id: battle_mewtwo
+    path: "73 Battle (VS Mewtwo).minigsf"
+    title: "Battle (VS Mewtwo)"
+    type: battle
+  - id: mysterious_present
+    path: "71 Mysterious Present.minigsf"
+    title: "Mysterious Present"
+    type: betting
+  - id: silph_co
+    path: "52 Silph Co..minigsf"
+    title: "Silph Co."
+    type: betting
+  - id: hall_of_fame_firered
+    path: "77 Induction Into the Hall of Fame.minigsf"
+    title: "Induction Into the Hall of Fame"
+    type: result
+  - id: cinnabar
+    path: "60 Cinnabar Island Theme.minigsf"
+    title: "Cinnabar Island"
+    type: betting
+  - id: rival_appears
+    path: "12 Rival Appears.minigsf"
+    title: "Rival Appears"
+    type: warning
+  - id: trainer_appears_bad
+    path: "51 Trainer Appears (Bad Guys Version).minigsf"
+    title: "Trainer Appears (Bad Guys Version)"
+    type: warning
+  - id: pokemon_gym_firered
+    path: "30 Pokemon Gym.minigsf"
+    title: "Pokémon Gym"
+    type: betting
+  - id: victory_gym
+    path: "33 Victory (VS Gym Leader).minigsf"
+    title: "Victory (VS Gym Leader)"
+    type: result
+  - id: battle_last_vs_rival
+    path: "75 The Last Battle (VS Rival).minigsf"
+    title: "The Last Battle (VS Rival)"
+    type: battle
+  - id: game_corner_firered
+    path: "46 Game Corner.minigsf"
+    title: "Game Corner"
+    type: betting
+  - id: victory_trainer
+    path: "15 Victory (VS Trainer).minigsf"
+    title: "Victory (VS Trainer)"
+    type: result
+  - id: road_to_fuchsia_city_from_lavender_town
+    path: "53 Road to Fuchsia City - From Lavender Town.minigsf"
+    title: "Road to Fuchsia City - From Lavender Town"
+    type: betting
+  - id: victory_wild
+    path: "22 Victory (VS Wild Pokemon).minigsf"
+    title: "Victory (VS Wild Pokémon)"
+    type: result
+  - id: cycling
+    path: "42 Cycling.minigsf"
+    title: "Cycling"
+    type: result
+  - id: road_to_cerulean_city_from_mt_moon
+    path: "37 Road to Cerulean City - From Mt. Moon.minigsf"
+    title: "Road to Cerulean City - From Mt. Moon"
+    type: betting
+  - id: prof_oak
+    path: "09 Prof. Oak.minigsf"
+    title: "Prof. Oak"
+    type: warning
+  - id: evolution_firered
+    path: "35 Evolution.minigsf"
+    title: "Evolution"
+    type: warning
+  - id: team_rocket_hideout
+    path: "50 Team Rocket Hideout.minigsf"
+    title: "Team Rocket Hideout"
+    type: betting
+  - id: road_to_viridian_from_pallet
+    path: "16 Road to Viridian City - From Pallet Town.minigsf"
+    title: "Road to Viridian City - From Pallet Town"
+    type: betting
+  - id: trainer_appears_boy
+    path: "24 Trainer Appears (Boy Version).minigsf"
+    title: "Trainer Appears (Boy Version)"
+    type: warning
+  - id: tense_competition
+    path: "31 Tense Competition!.minigsf"
+    title: "Tense Competition!"
+    type: warning
+  - id: legendary_battle
+    path: "58 Battle (VS Legendary Pokemon).minigsf"
+    title: "Battle (VS Legendary Pokémon)"
+    type: battle
+  - id: the_last_road
+    path: "74 The Last Road.minigsf"
+    title: "The Last Road"
+    type: warning
+  - id: pallet
+    path: "08 Pallet Town Theme.minigsf"
+    title: "Pallet Town"
+    type: betting
+  - id: celadon
+    path: "45 Celadon City Theme.minigsf"
+    title: "Celadon City"
+    type: betting
+  - id: oak_research
+    path: "10 Oak Research Institute.minigsf"
+    title: "Oak Research Institute"
+    type: betting
+  - id: fuchsia
+    path: "55 Fuchsia City Theme.minigsf"
+    title: "Fuchsia City"
+    type: betting
+  - id: trainer_battle
+    path: "14 Battle (VS Trainer).minigsf"
+    title: "Battle (VS Trainer)"
+    type: battle
+  - id: pokemon_tower
+    path: "44 Pokemon Tower.minigsf"
+    title: "Pokémon Tower"
+    type: betting
+  - id: pokemon_center_firered
+    path: "25 Pokemon Center.minigsf"
+    title: "Pokémon Center"
+    type: betting
+  - id: vermilion
+    path: "40 Vermilion City Theme.minigsf"
+    title: "Vermilion City"
+    type: betting
+  - id: ending_firered
+    path: "78 ~Ending~.minigsf"
+    title: "Ending"
+    type: result
+  - id: pewter
+    path: "18 Pewter City Theme.minigsf"
+    title: "18 Pewter City"
+    type: betting
+  - id: wild_battle
+    path: "21 Battle (VS Wild Pokemon).minigsf"
+    title: "Battle (VS Wild Pokémon)"
+    type: battle
+  - id: mt_moon
+    path: "39 Mt. Moon.minigsf"
+    title: "Mt. Moon"
+    type: betting
+  - id: jumping_with_mini_pokemon
+    path: "65 Jumping With Mini Pokemon.minigsf"
+    title: "Jumping With Mini Pokémon"
+    type: result
+  - id: gym_battle
+    path: "32 Battle (VS Gym Leader).minigsf"
+    title: "Battle (VS Gym Leader)"
+    type: battle
+  - id: trainer_appears_girl
+    path: "38 Trainer Appears (Girl Version).minigsf"
+    title: "Trainer Appears (Girl Version)"
+    type: warning
+  - id: encounter_deoxys
+    path: "Encounter! Deoxys.brstm"
+    title: "Encounter! Deoxys"
+    type: warning
+  - id: ss_anne
+    path: "S.S. Anne.brstm"
+    title: "S.S. Anne"
+    type: betting
+  - id: surf
+    path: "Surfing.brstm"
+    title: "Surfing"
+    type: betting
+...

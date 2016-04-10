@@ -1,0 +1,37 @@
+---
+id: shin_megami_tensei_iii_nocturne
+title: "Shin Megami Tensei III: Nocturne"
+series: shinmegamitensei
+platform: "PS2"
+year: 2003
+path: "Other/Shin Megami Tensei III_ Nocturne"
+songs:
+  - id: talk
+    title: "TALK"
+    path: "TALK.brstm"
+    type: warning
+  - id: normal_battle_smt3
+    title: "Normal Battle"
+    path: "Normal Battle.brstm"
+    type: battle
+  - id: fiend_battle
+    title: "Fiend Battle"
+    path: "Fiend Battle.brstm"
+    type: battle
+  - id: beelzebub_battle
+    path: "Beelzebub Battle.brstm"
+    title: "Beelzebub Battle"
+    type: battle
+  - id: large_map_last_area
+    path: "SMT Nocturne - Large Map Last Area.brstm"
+    title: "Large Map Last Area"
+    type: warning
+  - id: joint_struggle
+    path: "SMT_Nocturne-Joint_Struggle.brstm"
+    title: "Joint Struggle"
+    type: warning
+  - id: cathedral_of_shadows_cursed
+    path: "SMT Nocturne - Cathedral of Shadows Cursed.brstm"
+    title: "Cathedral of Shadows (Cursed)"
+    type: betting
+...

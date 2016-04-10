@@ -1,0 +1,33 @@
+---
+id: pokemon_puzzle_challenge
+platform: "GBC"
+title: "Pokemon Puzzle Challenge"
+series: pokemon
+year: 2000
+path: "Other/Pokemon Puzzle Challenge"
+songs: 
+  - id: vs_elite_4_-_danger
+    path: "Vs. Elite 4 - Danger.brstm"
+    title: "Vs. Elite 4 - Danger"
+    type: warning
+  - id: vs_gym_leader_-_danger
+    path: "Vs. Gym Leader - Danger.brstm"
+    title: "Vs. Gym Leader - Danger"
+    type: warning
+  - id: goldenrod_city_gym
+    path: "Goldenrod City Gym.brstm"
+    title: "Goldenrod City Gym"
+    type: betting
+  - id: ecruteak_city_cianwood_city_gyms
+    path: "Ecruteak City - Cianwood City Gyms.brstm"
+    title: "Ecruteak City - Cianwood City Gyms"
+    type: betting
+  - id: mahogany_town_gym
+    path: "Mahogany Town Gym.brstm"
+    title: "Mahogany Town Gym"
+    type: betting
+  - id: violet_city_olivine_city_gyms
+    path: "Violet City - Olivine City Gyms.brstm"
+    title: "Violet City - Olivine City Gyms"
+    type: betting
+...

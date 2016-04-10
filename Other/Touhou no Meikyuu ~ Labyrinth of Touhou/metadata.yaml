@@ -1,0 +1,74 @@
+---
+id: touhou_no_meikyuu__labyrinth_of_touhou
+title: "Touhou no Meikyuu ~ Labyrinth of Touhou"
+series: touhou
+year: 2009
+platform: "PC"
+path: "Other/Touhou no Meikyuu ~ Labyrinth of Touhou"
+songs:
+  - id: the_passage_where_ice_fairies_lose_their_way
+    title: "The Passage Where Ice Fairies Lose Their Way"
+    path: "The Passage Where Ice Fairies Lose Their Way.brstm"
+    type: betting
+  - id: the_great_labyrinth_worse_than_death
+    title: "The Great Labyrinth Worse than Death"
+    path: "The Great Labyrinth Worse than Death.brstm"
+    type: betting
+#      - id: the_starry_space_reaching_the_gods
+#        title: "The Starry Space Reaching the Gods"
+#        path: "The Starry Space Reaching the Gods.brstm"
+#        type: betting
+# too short of a loop
+  - id: labyrinth_of_touhou
+    title: "Labyrinth of Touhou"
+    path: "Labyrinth of Touhou.brstm"
+    type: betting
+  - id: battle_b_celluloid
+    title: "Celluloid (Battle B)"
+    path: "Celluloid (Battle B).brstm"
+    type: battle
+  - id: battle_c_basara
+    title: "Basara (Battle C)"
+    path: "Basara (Battle C).brstm"
+    type: battle
+  - id: boss_a_ariori
+    title: "Ariori (Boss Battle A)"
+    path: "Ariori (Boss Battle A).brstm"
+    type: battle
+  - id: boss_b_oukaba
+    title: "Oukaba (Boss Battle B)"
+    path: "Oukaba (Boss Battle B).brstm"
+    type: battle
+  - id: eientei_battle_193
+    title: "193 (Eientei Battle)"
+    path: "193 (Eientei Battle).brstm"
+    type: battle
+  - id: yukari_battle_call_girl
+    title: "Call Girl (Yukari Battle)"
+    path: "Call Girl (Yukari Battle).brstm"
+    type: battle
+  - id: bloodstained_seal_boss_ginen
+    title: "Ginen (Bloodstained Seal Bosses)"
+    path: "Ginen (Bloodstained Seal Bosses).brstm"
+    type: battle
+  - id: final_battle_dark_a_liar
+    title: "Dark a Liar (Final Battle)"
+    path: "Dark a Liar (Final Battle).brstm"
+    type: battle
+  - id: plus_disc_boss_great_gods_destruction
+    title: "Great God's Destruction (Plus Disc Bosses)"
+    path: "Great God's Destruction (Plus Disc Bosses).brstm"
+    type: battle
+  - id: the_border
+    title: "The Border"
+    path: "The Border.brstm"
+    type: warning
+  - id: a_turn_of_events
+    title: "A Turn of Events"
+    path: "A Turn of Events.brstm"
+    type: warning
+  - id: serious_atmosphere
+    title: "Serious Atmosphere"
+    path: "Serious Atmosphere.brstm"
+    type: break
+...

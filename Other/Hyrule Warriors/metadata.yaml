@@ -1,0 +1,25 @@
+---
+id: hyrule_warriors
+platform: "Wii U"
+title: "Hyrule Warriors"
+series: zelda
+year: 2014
+path: "Other/Hyrule Warriors"
+songs: 
+  - id: bazaar
+    path: "Bazaar- Skyward Sword.brstm"
+    title: "Bazaar- Skyward Sword"
+    type: betting
+  - id: hyrule_field_twilight_princess
+    path: "Hyrule Field - Twilight Princess.brstm"
+    title: "Hyrule Field- Twilight Princess"
+    type: battle #Borderline doesn't fit; leaving it in
+  - id: skyloft_skyward_sword
+    path: "Skyloft- Skyward Sword.brstm"
+    title: "Skyloft- Skyward Sword"
+    type: betting
+  - id: silent_guardians
+    path: "Silent Guardians.brstm"
+    title: "Silent Guardians"
+    type: betting
+...

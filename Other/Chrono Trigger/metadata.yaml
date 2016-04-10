@@ -1,0 +1,38 @@
+---
+id: chrono_trigger
+title: "Chrono Trigger"
+series: chrono
+platform: "SNES"
+year: 1995
+path: "Other/Chrono Trigger"
+songs:
+  - id: aylas_theme
+    title: "Ayla's Theme"
+    path: "Ayla's Theme.brstm"
+    type: warning
+  - id: battle_with_magus
+    title: "Battle with Magus"
+    path: "Battle with Magus.brstm"
+    type: battle
+#      - id: delightful_spekkio
+#        title: "Delightful Spekkio"
+#        path: "Delightful Spekkio.brstm"
+#        type: result
+# unfitting result song
+  - id: frogs_theme
+    title: "Frog's Theme"
+    path: "Frog's Theme.brstm"
+    type: result
+  - id: gatos_song
+    title: "Gato's Song"
+    path: "Gato's Song.brstm"
+    type: warning
+  - id: robos_theme
+    title: "Robo's Theme"
+    path: "Robo's Theme.brstm"
+    type: result
+  - id: undersea_palace
+    title: "Undersea Palace"
+    path: "Undersea Palace.brstm"
+    type: betting
+...

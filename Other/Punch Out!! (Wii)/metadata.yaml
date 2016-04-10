@@ -1,0 +1,21 @@
+---
+id: punch_out_wii
+platform: "Wii"
+title: "Punch Out!! (Wii)"
+series: punchout
+year: 2009
+path: "Other/Punch Out!! (Wii)"
+songs: 
+  - id: soda_popinski_-_opponent_down
+    title: "Soda Popinski - Opponent Down"
+    path: "Soda Popinski - Opponent Down.brstm"
+    type: result
+  - id: world_circuit_theme
+    path: "World Circuit Theme.brstm"
+    title: "World Circuit Theme"
+    type: warning
+  - id: soda_popinski
+    path: "Soda Popinski.brstm"
+    title: "Soda Popinski"
+    type: betting
+...

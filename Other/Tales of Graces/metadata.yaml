@@ -1,0 +1,16 @@
+---
+id: tales_of_graces
+title: "Tales of Graces"
+year: 2009
+platform: "Wii+PS3"
+path: "Other/Tales of Graces"
+songs:
+  - id: raise_the_song_of_victory
+    title: "Raise the Song of Victory!"
+    path: "Raise the Song of Victory!.brstm"
+    type: result
+  - id: mad_dance
+    title: "Mad Dance"
+    path: "Mad Dance.brstm"
+    type: warning
+...

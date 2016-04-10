@@ -1,0 +1,42 @@
+---
+id: jazz_jackrabbit_2
+title: "Jazz Jackrabbit 2"
+series: jazzjackrabbit
+year: 1998
+platform: "PC"
+path: "Other/Jazz Jackrabbit 2"
+songs:
+  - id: a_cold_day_in_heck
+    title: "A Cold Day in Heck"
+    path: "A Cold Day in Heck.brstm"
+    type: betting
+  - id: jazz_castle
+    title: "Jazz Castle"
+    path: "Jazz Castle.brstm"
+    type: betting
+  - id: lab_rat_jrabbit2
+    title: "Lab Rat"
+    path: "Lab Rat.brstm"
+    type: betting
+#      - id: rabbit_roast
+#        title: "Rabbit Roast"
+#        path: "Rabbit Roast.brstm"
+#        type: betting
+# unfitting
+  - id: tubelectric_remix
+    title: "Tubelectric Remix"
+    path: "Tubelectric Remix.brstm"
+    type: betting
+  - id: burnin_biscuits
+    title: "Burnin' Biscuits"
+    path: "Burnin' Biscuits.brstm"
+    type: result
+  - id: pull_back_the_bass
+    title: "Pull Back the Bass"
+    path: "Pull Back the Bass.brstm"
+    type: result
+  - id: water_jrabbit2
+    title: "Water"
+    path: "Water.brstm"
+    type: break
+...

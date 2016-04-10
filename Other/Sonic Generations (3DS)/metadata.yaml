@@ -1,0 +1,17 @@
+---
+id: sonic_generations_3ds
+platform: "3DS"
+title: "Sonic Generations (3DS)"
+series: sonic
+year: 2011
+path: "Other/Sonic Generations (3DS)"
+songs: 
+  - id: boss_-_big_arms_sonic_3_final_boss_in-game
+    path: "Boss - Big Arms (Sonic 3 Final Boss) (In-Game).brstm"
+    title: "Big Arm"
+    type: battle
+  - id: radical_highway_classic_extended_ost_version
+    title: "Radical Highway - Classic (Extended OST Version)"
+    path: "Radical Highway - Classic (Extended OST Version).brstm"
+    type: battle
+...

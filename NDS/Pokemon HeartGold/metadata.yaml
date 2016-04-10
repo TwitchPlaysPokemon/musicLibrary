@@ -1,0 +1,409 @@
+---
+id: pokemon_heartgold
+platform: "NDS"
+title: "Pokémon HeartGold/SoulSilver"
+series: pokemon
+year: 2010
+path: "NDS/Pokemon HeartGold"
+songs: 
+  - id: friendly_shop
+    path: "125 Friendly Shop.mini2sf"
+    title: "Friendly Shop"
+    type: betting
+  - id: celadon_city
+    path: "214 Celadon City.mini2sf"
+    title: "Celadon City"
+    type: betting
+  - id: encounter_lass
+    path: "228 Encounter! Classic Lass.mini2sf"
+    title: "Encounter! Classic Lass"
+    type: warning
+  - id: encounter_cutie
+    path: "156 Encounter! Innocent Cutie.mini2sf"
+    title: "Encounter! Innocent Cutie"
+    type: warning
+  - id: johto_gym_battle
+    path: "143 Battle! Gym Leader (Johto).mini2sf"
+    title: "Battle! Gym Leader (Johto)"
+    type: battle
+  - id: union_cave
+    path: "128 Union Cave.mini2sf"
+    title: "Union Cave"
+    type: betting
+  - id: battle_lugia
+    path: "275 Battle! Lugia.mini2sf"
+    title: "Battle! Lugia"
+    type: battle
+  - id: pokemon_center_heartgold
+    path: "115 Pokemon Center.mini2sf"
+    title: "Pokémon Center"
+    type: betting
+  - id: come_with_me_2
+    path: "114 Come With Me 2.mini2sf"
+    title: "Come With Me 2"
+    type: warning
+  - id: mystery_gift
+    path: "263 Mystery Gift.mini2sf"
+    title: "Mystery Gift"
+    type: warning
+  - id: radio_oak
+    path: "164 Radio (Oak's Pokemon Talk).mini2sf"
+    title: "Radio (Oak's Pokémon Talk)"
+    type: betting
+  - id: professor_elm_lab
+    path: "107 Professor Elm's Lab.mini2sf"
+    title: "Professor Elm's Lab"
+    type: betting
+  - id: encounter_rival
+    path: "137 Rival!.mini2sf"
+    title: "Rival's Theme"
+    type: warning
+  - id: route_47
+    path: "231 Route 47.mini2sf"
+    title: "Route 47"
+    type: betting
+  - id: route_42
+    path: "173 Route 42.mini2sf"
+    title: "Route 42"
+    type: betting
+  - id: clair
+    path: "182 Clair.mini2sf"
+    title: "Clair's Theme"
+    type: warning
+  - id: victory_road_heartgold
+    path: "276 Victory Road.mini2sf"
+    title: "Victory Road"
+    type: betting
+  - id: radio_route_101
+    path: "269 Radio (Route 101).mini2sf"
+    title: "Radio (Route 101)"
+    type: betting
+  - id: route_34
+    path: "136 Route 34.mini2sf"
+    title: "Route 34"
+    type: betting
+  - id: battle_tower_reception
+    path: "251 Battle Tower Reception.mini2sf"
+    title: "Battle Tower Reception"
+    type: betting
+  - id: route_30
+    path: "120 Route 30.mini2sf"
+    title: "Route 30"
+    type: betting
+  - id: gym
+    path: "142 Gym.mini2sf"
+    title: "Gym"
+    type: betting
+  - id: cianwood
+    path: "171 Cianwood City.mini2sf"
+    title: "Cianwood City"
+    type: betting
+  - id: team_rocket_battle
+    path: "135 Battle! Team Rocket.mini2sf"
+    title: "Battle! Team Rocket"
+    type: battle
+  - id: viridian_forest
+    path: "218 Viridian Forest.mini2sf"
+    title: "Viridian Forest"
+    type: betting
+  - id: come_with_me_heartgold
+    path: "105 Come With Me.mini2sf"
+    title: "Come With Me"
+    type: warning
+  - id: rival_appears_heartgold
+    path: "177 Rival! 2.mini2sf"
+    title: "Rival! 2"
+    type: warning
+  - id: bicycle_heartgold
+    path: "155 Bicycle.mini2sf"
+    title: "Bicycle"
+    type: result
+  - id: violet_city
+    path: "122 Violet City.mini2sf"
+    title: "Violet City"
+    type: betting
+  - id: rocket_tower_invasion
+    path: "178 Rocket Tower Invasion!.mini2sf"
+    title: "Rocket Tower Invasion!"
+    type: warning
+  - id: radio_trainer_channel
+    path: "262 Radio (Trainer Channel).mini2sf"
+    title: "Radio (Trainer Channel)"
+    type: betting
+  - id: olivine_lighthouse
+    path: "169 Olivine Lighthouse.mini2sf"
+    title: "Olivine Lighthouse"
+    type: betting
+  - id: johto_wild_battle
+    path: "110 Battle! Wild Pokemon (Johto).mini2sf"
+    title: "Battle! Wild Pokémon (Johto)"
+    type: battle
+  - id: encounter_monk
+    path: "124 Encounter! Devout Monk.mini2sf"
+    title: "Encounter! Devout Monk"
+    type: warning
+  - id: route_3_heartgold
+    path: "221 Route 3.mini2sf"
+    title: "Route 3"
+    type: betting
+  - id: route_1_heartgold
+    path: "224 Route 1.mini2sf"
+    title: "Route 1"
+    type: betting
+  - id: bug_catching_contest
+    path: "236 Bug-Catching Contest.mini2sf"
+    title: "Bug-Catching Contest"
+    type: result
+  - id: battle_entei
+    path: "183 Battle! Entei.mini2sf"
+    title: "Battle! Entei"
+    type: battle
+  - id: battle_raikou
+    path: "168 Battle! Raikou.mini2sf"
+    title: "Battle! Raikou"
+    type: battle
+  - id: battle_suicune
+    path: "213 Battle! Suicune.mini2sf"
+    title: "Battle! Suicune"
+    type: battle
+  - id: kotone
+    path: "106 Kotone.mini2sf"
+    title: "Lyra's Theme"
+    type: betting
+  - id: encounter_tough_guy
+    path: "222 Encounter! Tough Guy.mini2sf"
+    title: "Encounter! Tough Guy"
+    type: warning
+  - id: pokethlon_win
+    path: "249 Pokethlon Win!.mini2sf"
+    title: "Pokethlon Win!"
+    type: result
+  - id: pokethlon_game_start
+    path: "243 Pokethlon - Game Start!.mini2sf"
+    title: "Pokethlon Game Start!"
+    type: warning
+  - id: pokethlon_games
+    path: "244 Pokethlon - Games!.mini2sf"
+    title: "Pokethlon Games!"
+    type: result
+  - id: hall_of_fame_heartgold
+    path: "279 Hall of Fame.mini2sf"
+    title: "Hall of Fame"
+    type: result
+  - id: gym_victory
+    path: "144 Victory Against Gym Leader.mini2sf"
+    title: "Victory! Gym Leader"
+    type: result
+  - id: goldenrod_city
+    path: "141 Goldenrod City.mini2sf"
+    title: "Goldenrod City"
+    type: betting
+  - id: azalea_town
+    path: "133 Azalea Town.mini2sf"
+    title: "Azalea Town"
+    type: betting
+  - id: johto_trainer_battle
+    path: "118 Battle! Trainer (Johto).mini2sf"
+    title: "Battle! Trainer (Johto)"
+    type: battle
+  - id: battle_frontier_brain_heartgold
+    path: "260 Battle! Frontier Brain.mini2sf"
+    title: "Battle! Frontier Brain"
+    type: battle
+  - id: dragons_den
+    path: "181 Dragon's Den.mini2sf"
+    title: "Dragon's Den"
+    type: warning
+  - id: pallet_town
+    path: "225 Pallet Town.mini2sf"
+    title: "Pallet Town"
+    type: betting
+  - id: viridian_city
+    path: "220 Viridian City.mini2sf"
+    title: "Viridian City"
+    type: betting
+  - id: route_38
+    path: "166 Route 38.mini2sf"
+    title: "Route 38"
+    type: betting
+  - id: clefairy_dance
+    path: "250 Clefairy Dance.mini2sf"
+    title: "Clefairy Dance"
+    type: betting
+  - id: pokethlon_finals
+    path: "246 Pokethlon - Finals.mini2sf"
+    title: "Pokethlon - Finals"
+    type: battle
+  - id: pokethlon_ceremony
+    path: "392 Pokethlon Ceremony.mini2sf"
+    title: "Pokethlon Ceremony (GB Sounds)"
+    type: result
+  - id: the_end
+    path: "281 THE END.mini2sf"
+    title: "THE END"
+    type: break
+  - id: radio_route_201
+    path: "270 Radio (Route 201).mini2sf"
+    title: "Radio (Route 201)"
+    type: betting
+  - id: encoutner_enthusiastic_youth
+    path: "117 Encounter! Enthusiastic Youth.mini2sf"
+    title: "Encounter! Enthusiastic Youth"
+    type: warning
+  - id: battle_tower_heartgold
+    path: "252 Battle Tower (Johto).mini2sf"
+    title: "Battle Tower (Johto)"
+    type: betting
+  - id: yoshino_city
+    path: "113 Yoshino City.mini2sf"
+    title: "Yoshino City"
+    type: betting
+  - id: cinnabar_island
+    path: "230 Cinnabar Island.mini2sf"
+    title: "Cinnabar Island"
+    type: betting
+  - id: kanto_wild_battle
+    path: "207 Battle! Wild Pokemon (Kanto).mini2sf"
+    title: "Battle! Wild Pokémon (Kanto)"
+    type: battle
+  - id: victory_frontier_brain
+    path: "261 Victory Against Frontier Brain!.mini2sf"
+    title: "Victory! Frontier Brain"
+    type: result
+  - id: ice_cave
+    path: "179 Ice Cave.mini2sf"
+    title: "Ice Cave"
+    type: betting
+  - id: ceremony
+    path: "248 Pokethlon - Ceremony.mini2sf"
+    title: "Pokethlon - Ceremony"
+    type: result
+  - id: pokemon_league_heartgold
+    path: "277 Pokemon League.mini2sf"
+    title: "Pokémon League"
+    type: betting
+  - id: pokethlon_opening
+    path: "242 Pokethlon - Opening.mini2sf"
+    title: "Pokethlon - Opening"
+    type: warning
+  - id: battle_ho_oh
+    path: "187 Battle! Ho-Oh.mini2sf"
+    title: "Battle! Ho-Oh"
+    type: battle
+  - id: route_24
+    path: "210 Route 24.mini2sf"
+    title: "Route 24"
+    type: betting
+  - id: route_26
+    path: "201 Route 26.mini2sf"
+    title: "Route 26"
+    type: betting
+  - id: route_29
+    path: "109 Route 29.mini2sf"
+    title: "Route 29"
+    type: betting
+  - id: cerulean_city
+    path: "209 Cerulean City.mini2sf"
+    title: "Cerulean City"
+    type: betting
+  - id: kanto_trainer_battle
+    path: "229 Battle! Trainer (Kanto).mini2sf"
+    title: "Battle! Trainer (Kanto)"
+    type: battle
+  - id: mt_moon_heartgold
+    path: "223 Mt. Moon.mini2sf"
+    title: "Mt. Moon"
+    type: break
+  - id: battle_champion_heartgold
+    path: "278 Battle! Champion.mini2sf"
+    title: "Battle! Champion"
+    type: battle
+  - id: encounter_fuzz
+    path: "219 Encounter! Security Guard.mini2sf"
+    title: "Encounter! Security Guard"
+    type: warning
+  - id: tin_tower
+    path: "184 Tin Tower.mini2sf"
+    title: "Tin Tower"
+    type: betting
+  - id: slots_win
+    path: "150 Slots Win.mini2sf"
+    title: "Slots Win"
+    type: result
+  - id: lavender_town
+    path: "205 Lavender Town.mini2sf"
+    title: "Lavender Town"
+    type: betting
+  - id: encounter_team_rocket
+    path: "134 Encounter! Team Rocket.mini2sf"
+    title: "Encounter! Team Rocket"
+    type: warning
+  - id: rocket_hideout
+    path: "175 Rocket Hideout.mini2sf"
+    title: "Rocket Hideout"
+    type: betting
+  - id: professor_oak
+    path: "226 Professor Oak.mini2sf"
+    title: "Professor Oak"
+    type: betting
+  - id: safari_zone
+    path: "233 Safari Zone.mini2sf"
+    title: "Safari Zone"
+    type: betting
+  - id: safari_zone_gate
+    path: "383 Safari Zone Gate.mini2sf"
+    title: "Safari Zone Gate (GB Sounds)"
+    type: betting
+  - id: game_corner_heartgold
+    path: "149 Game Corner.mini2sf"
+    title: "Game Corner"
+    type: betting
+  - id: wakaba_town
+    path: "104 Wakaba Town.mini2sf"
+    title: "New Bark Town"
+    type: betting
+  - id: staff_roll_heartgold
+    path: "280 Staff Roll.mini2sf"
+    title: "Staff Roll"
+    type: result
+  - id: battle_legendary_pokemon_of_hoenn
+    path: "282 Battle! Legendary Pokemon of Hoenn.mini2sf"
+    title: "Battle! Legendary Pokémon of Hoenn"
+    type: battle
+  - id: kimono_girls
+    path: "127 Kimono Girls.mini2sf"
+    title: "Kimono Girls"
+    type: warning
+  - id: radio_buena
+    path: "147 Radio (Buena's Password).mini2sf"
+    title: "Radio (Buena's Password)"
+    type: betting
+  - id: results_announced
+    path: "247 Pokethlon - Results Announced.mini2sf"
+    title: "Pokethlon - Results Announced"
+    type: result
+  - id: ecruteak_city
+    path: "160 Ecruteak City.mini2sf"
+    title: "Ecruteak City"
+    type: betting
+  - id: kanto_gym_battle
+    path: "204 Battle! Gym Leader (Kanto).mini2sf"
+    title: "Battle! Gym Leader (Kanto)"
+    type: battle
+  - id: encounter_suspicious
+    path: "176 Encounter! Suspicious Person.mini2sf"
+    title: "Encounter! Suspicious Person"
+    type: warning
+  - id: rival_battle
+    path: "138 Battle! Rival.mini2sf"
+    title: "Battle! Rival"
+    type: battle
+  - id: route_11
+    path: "216 Route 11.mini2sf"
+    title: "Route 11"
+    type: betting
+  - id: surf_heartgold
+    path: "170 Surf.mini2sf"
+    title: "Surfing"
+    type: betting
+...

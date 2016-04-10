@@ -1,0 +1,37 @@
+---
+id: dodonpachi_daifukkatsu_black_label
+platform: "Arcade"
+title: "DoDonPachi DaiFukkatsu Black Label"
+series: dodonpachi
+year: 2011
+path: "Other/DoDonPachi Resurrection Black Label"
+songs: 
+  - id: darkened
+    path: "Darkened (Boss).brstm"
+    title: "Darkened (Boss)"
+    type: battle
+  - id: evac_industry_day_of_judgement
+    path: "EVAC Industry - Day of Judgment (Stage 5).brstm"
+    title: "EVAC Industry - Day of Judgment (Stage 5)"
+    type: battle
+  - id: flotage
+    path: "Flotage (Stage 3-A+B).brstm"
+    title: "Flotage (Stage 3-A+B)"
+    type: battle
+  - id: interception
+    path: "Interception - Town in Upheaval.brstm"
+    title: "Interception - Town in Upheaval"
+    type: battle
+  - id: scaffold
+    path: "Scaffold (Final Boss).brstm"
+    title: "Scaffold (Final Boss)"
+    type: battle
+  - id: vertex
+    path: "Vertex.brstm"
+    title: "Vertex"
+    type: battle
+  - id: xanadu
+    path: "Xanadu.brstm"
+    title: "Xanadu"
+    type: battle
+...

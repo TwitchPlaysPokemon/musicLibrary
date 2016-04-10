@@ -1,0 +1,21 @@
+---
+id: pokemon_trading_card_game
+platform: "GBC"
+title: "Pokémon Trading Card Game"
+series: pokemon
+year: 1998
+path: "Other/Pokemon Trading Card Game"
+songs: 
+  - id: grass_electric_club
+    path: "Grass-Electric Club.brstm"
+    title: "Grass-Electric Club"
+    type: betting
+  - id: club_master_duel
+    path: "Club Master Duel.brstm"
+    title: "Club Master Duel"
+    type: betting
+  - id: ronalds_theme
+    path: "Ronald's Theme.brstm"
+    title: "Ronald's Theme"
+    type: betting
+...

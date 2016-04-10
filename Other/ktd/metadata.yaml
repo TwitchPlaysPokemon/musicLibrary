@@ -1,0 +1,89 @@
+---
+id: kirby_3d
+title: "Kirby Triple Deluxe"
+series: kirby
+platform: "3DS"
+year: 2014
+path: "Other/ktd"
+songs:
+#      - id: arena
+#        title: "Arena Battle"
+#        path: "The Arena [from Kirby Super Star].brstm"
+#        type: battle #Not tense and charged enough; possibly betting?
+  - id: boss_kir3d
+    title: "Attack! (Boss Battle)"
+    path: "Attack! (Boss Battle).brstm"
+    type: battle
+  - id: danger
+    title: "Danger (Approaching Boss)"
+    path: "Danger (Approaching Boss).brstm"
+    type: warning
+#      - id: ddd_results
+#        title: "Dedede's Drum Dash - Results"
+#        path: "King Dedede Drum Dash - Results.brstm"
+#        type: result #Borderline doesn't fit; possibly betting?
+#      - id: dirty_and_beauty
+#        title: "Dirty & Beauty"
+#        path: "Dirty & Beauty (Queen Sectonia 1).brstm"
+#        type: battle #Not tense and charged enough until the 1st minute; which is too much for PBR
+  - id: ever_explosion
+    title: "Ever Explosion"
+    path: "Ever Explosion.brstm"
+    type: betting
+  - id: fine_field
+    title: "Fine Field"
+    path: "Fine Field 1 (Beanstalk Area).brstm"
+    type: betting
+  - id: ddd_stage3
+    title: "King Dedede's Theme (Drum Dash Version)"
+    path: "King Dedede Drum Dash - Stage 3.brstm"
+    type: battle
+  - id: menu_kir3d
+    title: "Main Menu"
+    path: "Main Menu [''Save Area'' from Kirby Super Star].brstm"
+    type: betting
+  - id: masked_ddd
+    title: "Masked Dedede"
+    path: "Masked Dedede.brstm"
+    type: battle
+  - id: moonstruck_blossom
+    title: "Moonstruck Blossom"
+    path: "F-L-O-W-E-R (Queen Sectonia 2).brstm"
+    type: battle
+#      - id: prairie
+#        title: "Prairie Area"
+#        path: "Fine Field 3 (Prairie Area).brstm"
+#        type: result #Does not fit. At all. WutFace
+  - id: prison
+    title: "Prison of Beauty"
+    path: "Prison of Beauty.brstm"
+    type: betting
+  - id: revenge_of_enemy
+    title: "Revenge of the Enemy"
+    path: "Revenge Of The Enemy.brstm"
+    type: battle
+  - id: ripple_red
+    title: "Ripple Red"
+    path: "Ripple Red[from Crystal Shards].brstm"
+    type: betting
+  - id: sky
+    title: "Sky Area"
+    path: "Old Odyssey 2 (Sky Area) [''Peanut Plain'' from Kirby Super Star].brstm"
+    type: betting
+#      - id: world_to_win
+#        title: "The World to Win"
+#        path: "Sectonia vs. Hypernova.brstm"
+#        type:  #no type
+  - id: toy
+    title: "Toy Area"
+    path: "Lollipop Land 3 (Toy Area).brstm"
+    type: betting
+#      - id: true_arena
+#        title: "True Arena Battle"
+#        path: "True Arena Battle.brstm"
+#        type: battle #Not tense and charged enough; weird tempo changes. Possible warning?
+  - id: world_map_kir3d
+    title: "World Map"
+    path: "World Map [''Green Greens'' from Kirby's Dream Land].brstm"
+    type: betting
+...

@@ -1,0 +1,110 @@
+---
+id: megaman_x2
+title: "Megaman X2"
+series: megaman
+year: 1994
+platform: "SNES"
+path: "SNES/Megaman X2"
+songs:
+  - id: volcanos_fury
+    title: "Volcano's Fury"
+    path: "11 Volcano's Fury.spc"
+    type: battle
+  - id: red_alert_mmx2
+    title: "Red Alert"
+    path: "13 Red Alert.spc"
+    type: battle
+  - id: sinister_gleam
+    title: "Sinister Gleam"
+    path: "14 Sinister Gleam.spc"
+    type: battle
+  - id: dust_devil
+    title: "Dust Devil"
+    path: "15 Dust Devil.spc"
+    type: battle
+      #- id: mortal_combat
+      #  title: "Mortal Combat"
+      #  path: "27 Mortal Combat.spc"
+      #  type: battle
+  - id: mavericks_last_stand
+    title: "The Mavericks' Last Stand"
+    path: "04 The Mavericks' Last Stand.spc"
+    type: betting
+  - id: weather_wizard
+    title: "Weather Wizard"
+    path: "08 Weather Wizard.spc"
+    type: betting
+  - id: panzer_des_drachens
+    title: "Panzer des Drachens"
+    path: "09 Panzer des Drachens.spc"
+    type: betting
+  - id: dangerous_reef
+    title: "Dangerous Reef"
+    path: "10 Dangerous Reef.spc"
+    type: betting
+  - id: wasteland_mmx2
+    title: "Wasteland"
+    path: "12 Wasteland.spc"
+    type: betting
+  - id: absolute_zero
+    title: "Absolute Zero"
+    path: "23 Absolute Zero.spc"
+    type: betting
+  - id: deeper_into_the_abyss
+    title: "Deeper Into the Abyss"
+    path: "24 Deeper Into the Abyss.spc"
+    type: betting
+#      - id: password_screen_mmx2
+#        title: "Password"
+#        path: "05 Password.spc"
+#        type: break
+# song's loop is too short
+#      - id: mentors_gift
+#        title: "Mentor's Gift"
+#        path: "20 Mentor's Gift.spc"
+#        type: break
+#      - id: the_victors_spoils
+#        title: "The Victor's Spoils"
+#        path: "19 The Victor's Spoils.spc"
+#        type: result
+  - id: zeros_rebirth
+    title: "Zero's Rebirth"
+    path: "28 Zero's Rebirth.spc"
+    type: result
+  - id: hail_the_conquering_hero
+    title: "Hail the Conquering Hero"
+    path: "32 Hail the Conquering Hero.spc"
+    type: result
+  - id: plot_of_the_x_hunters
+    title: "Plot of the X-Hunters"
+    path: "02 Plot of the X-Hunters.spc"
+    type: warning
+  - id: second_wave
+    title: "Second Wave"
+    path: "06 Second Wave.spc"
+    type: warning
+  - id: maverick_sighted
+    title: "Maverick Sighted!"
+    path: "16 Maverick Sighted!.spc"
+    type: warning
+  - id: the_battle_ensues
+    title: "The Battle Ensues"
+    path: "17 The Battle Ensues.spc"
+    type: warning
+  - id: final_destination_mmx2
+    title: "Final Destination"
+    path: "22 Final Destination.spc"
+    type: warning
+  - id: conspiracy_to_murder
+    title: "Conspiracy to Murder"
+    path: "25 Conspiracy to Murder.spc"
+    type: warning
+  - id: grim_vigilante
+    title: "Grim Vigilante"
+    path: "29 Grim Vigilante.spc"
+    type: warning
+  - id: judgement_day_mmx2
+    title: "Judgement Day"
+    path: "30 Judgement Day.spc"
+    type: warning
+...

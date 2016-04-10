@@ -1,0 +1,41 @@
+---
+id: chrono_cross
+platform: "PS1"
+title: "Chrono Cross"
+series: chrono
+year: 1999
+path: "PS1/Chrono Cross"
+songs: 
+  - id: the_brink_of_death
+    path: "102 The Brink of Death.psf"
+    title: "The Brink of Death"
+    type: battle
+  - id: victory_springs_gift
+    path: "116 Victory - Spring's Gift.psf"
+    title: "Victory - Spring's Gift"
+    type: result
+  - id: dragonrider
+    path: "204 Dragonrider.psf"
+    title: "Dragonrider"
+    type: betting
+  - id: zelbess
+    path: "208 Zelbess.psf"
+    title: "Zelbess"
+    type: betting
+  - id: optimism
+    path: "213 Optimism.psf"
+    title: "Optimism"
+    type: result
+  - id: gale
+    path: "220 Gale.psf"
+    title: "Gale"
+    type: battle
+  - id: victory_summers_cry
+    path: "221 Victory - Summer's Cry.psf"
+    title: "Victory - Summer's Cry"
+    type: result
+  - id: fates_gods_of_destiny
+    path: "303 Fates - Gods of Destiny.psf"
+    title: "Fates - Gods of Destiny"
+    type: battle
+...

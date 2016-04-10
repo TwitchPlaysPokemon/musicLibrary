@@ -1,0 +1,113 @@
+---
+id: pokemon_xd
+title: "Pokémon XD: Gale of Darkness"
+series: pokemon
+platform: "GCN"
+year: 2005
+path: "Other/Pokemon XD"
+songs:
+  - id: world_map
+    title: "World Map"
+    path: "World Map.brstm"
+    type: betting
+  - id: realgam_tower
+    title: "Realgam Tower"
+    path: "Realgam Tower.brstm"
+    type: betting
+  - id: pokemon_lab
+    title: "Pokémon Lab"
+    path: "Pokemon Lab.brstm"
+    type: betting
+  - id: gateon_port
+    title: "Gateon Port"
+    path: "Gateon Port.brstm"
+    type: betting
+  - id: onbs_building
+    title: "ONBS Building"
+    path: "ONBS Building.brstm"
+    type: break
+  - id: shadow_lugia_appears
+    title: "Shadow Lugia Appears"
+    path: "Shadow Lugia Appears.brstm"
+    type: warning
+  - id: robo_groudons_theme
+    title: "Robo Groudon's Theme"
+    path: "Robo Groudons Theme.brstm"
+    type: warning
+  - id: miror_b._appears
+    title: "Miror B. Appears"
+    path: "Miror B. Appears.brstm"
+    type: warning
+  - id: heroic
+    title: "Heroic"
+    path: "Heroic.brstm"
+    type: warning
+  - id: pyrite_town
+    title: "Pyrite Town"
+    path: "Pyrite Town.brstm"
+    type: betting
+  - id: rumba_of_love
+    title: "Rumba of Love"
+    path: "Rumba of Love.brstm"
+    type: result
+  - id: miror_b_battle
+    path: "Miror B. Battle.brstm"
+    title: "Miror B. Battle"
+    type: betting
+  - id: normal_battle
+    path: "Normal Battle.brstm"
+    title: "Normal Battle"
+    type: battle
+  - id: shadow_lugia_battle
+    path: "Shadow Lugia Battle.brstm"
+    title: "Shadow Lugia Battle"
+    type: battle
+  - id: multiplayer_battle_theme
+    path: "Multiplayer Battle Theme.brstm"
+    title: "Multiplayer Battle Theme"
+    type: battle
+  - id: evolution_xd
+    path: "Evolution.brstm"
+    title: "Evolution"
+    type: warning
+  - id: last_battle_theme
+    path: "Last Battle Theme.brstm"
+    title: "Last Battle Theme"
+    type: battle
+  - id: battle_mode_theme_1
+    path: "Battle Mode Theme 1.brstm"
+    title: "Battle Mode Theme 1"
+    type: battle
+  - id: battle_mode_theme_2
+    path: "Battle Mode Theme 2.brstm"
+    title: "Battle Mode Theme 2"
+    type: battle
+  - id: battle_sim
+    path: "Battle SIM.brstm"
+    title: "Battle SIM"
+    type: battle
+  - id: cipher_admin_battle
+    path: "Cipher Admin Battle.brstm"
+    title: "Cipher Admin Battle"
+    type: battle
+  - id: cipher_peon_battle
+    path: "Cipher Peon Battle.brstm"
+    title: "Cipher Peon Battle"
+    type: battle
+  - id: colosseum_theme_1
+    path: "Colosseum Theme 1.brstm"
+    title: "Colosseum Theme 1"
+    type: battle
+  - id: colosseum_theme_2
+    path: "Colosseum Theme 2.brstm"
+    title: "Colosseum Theme 2"
+    type: battle
+  - id: mt_battle
+    path: "Mt. Battle.brstm"
+    title: "Mt. Battle"
+    type: battle
+  - id: mt_battle_leader_battle_theme
+    path: "Mt. Battle Leader Battle Theme.brstm"
+    title: "Mt. Battle Leader Battle Theme"
+    type: battle
+...

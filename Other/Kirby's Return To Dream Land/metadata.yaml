@@ -1,0 +1,45 @@
+---
+id: kirby_return_to_dream_land
+platform: "Wii"
+title: "Kirby's Return to Dream Land"
+series: kirby
+year: 2011
+path: "Other/Kirby's Return To Dream Land"
+songs: 
+  - id: super_copy_boss_3
+    path: "Super Copy Boss 3.brstm"
+    title: "Super Copy Boss 3"
+    type: battle
+  - id: king_dededes_theme
+    path: "King Dedede's Theme.brstm"
+    title: "King Dedede's Theme"
+    type: battle
+  - id: dangerous_dinner_map
+    path: "Dangerous Dinner - Map.brstm"
+    title: "Dangerous Dinner - Map"
+    type: warning
+  - id: crowned
+    path: "CROWNED.brstm"
+    title: "CROWNED"
+    type: battle
+  - id: heavy_lobster
+    path: "Heavy Lobster.brstm"
+    title: "Heavy Lobster"
+    type: battle
+  - id: galacta_knights_theme
+    path: "Galacta Knight's Theme.brstm"
+    title: "Galacta Knight's Theme"
+    type: battle
+  - id: aqua_area
+    path: "Aqua Area.brstm"
+    title: "Aqua Area"
+    type: betting
+  - id: boss_prelude
+    path: "Boss Prelude.brstm"
+    title: "Boss Prelude"
+    type: warning
+  - id: funky_area
+    path: "Funky Area.brstm"
+    title: "Funky Area"
+    type: betting
+...

@@ -1,0 +1,37 @@
+---
+id: super_paper_mario
+title: "Super Paper Mario"
+series: mario
+platform: "Wii"
+year: 2007
+path: "Other/Super Paper Mario"
+songs:
+  - id: bonechill_battle
+    title: "Bonechill Battle"
+    path: "Bonechill Battle.brstm"
+    type: battle
+  - id: brobot_l_type
+    title: "Brobot L-Type Battle"
+    path: "Brobot L-Type Battle.brstm"
+    type: battle
+  - id: king_croacus_battle
+    title: "King Croacus Battle"
+    path: "King Croacus Battle.brstm"
+    type: battle
+  - id: lineland_road
+    title: "Lineland Road"
+    path: "Lineland Road.brstm"
+    type: result
+  - id: mount_lineland
+    title: "Mount Lineland"
+    path: "Mount Lineland.brstm"
+    type: betting
+  - id: ready_go
+    title: "Ready, GO!"
+    path: "Ready, GO!.brstm"
+    type: battle
+  - id: sammers_kingdom
+    title: "Sammer's Kingdom"
+    path: "Sammer's Kingdom.brstm"
+    type: battle
+...

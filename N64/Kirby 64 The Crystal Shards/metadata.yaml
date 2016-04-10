@@ -1,0 +1,109 @@
+---
+id: kirby_64
+title: "Kirby 64: The Crystal Shards"
+series: kirby
+year: 2000
+platform: "N64"
+path: "N64/Kirby 64 The Crystal Shards"
+songs:
+  - id: boss_k64
+    title: "Boss"
+    path: "14 - Boss.miniusf"
+    type: battle
+  - id: miracle_matter
+    title: "Miracle Matter"
+    path: "29d - Miracle Matter.miniusf"
+    type: battle
+  - id: zero_two_k64
+    title: "Zero-Two"
+    path: "36 - Zero-Two.miniusf"
+    type: battle
+  - id: training_k64
+    title: "Training"
+    path: "02 - Training.miniusf"
+    type: betting
+  - id: pop_star_k64
+    title: "Pop Star"
+    path: "04b - Pop Star.miniusf"
+    type: betting
+  - id: rock_star_k64
+    title: "Rock Star"
+    path: "16b - Rock Star.miniusf"
+    type: betting
+  - id: aqua_star_k64
+    title: "Aqua Star"
+    path: "20b - Aqua Star.miniusf"
+    type: betting
+  - id: mountain_stream
+    title: "Mountain Stream"
+    path: "21 - Mountain Stream.miniusf"
+    type: betting
+  - id: neo_star_k64
+    title: "Neo Star"
+    path: "23b - Neo Star.miniusf"
+    type: betting
+  - id: shiver_star_k64
+    title: "Shiver Star"
+    path: "25b - Shiver Star.miniusf"
+    type: betting
+  - id: above_the_clouds
+    title: "Above the Clouds"
+    path: "26 - Above the Clouds.miniusf"
+    type: betting
+  - id: factory_inspection
+    title: "Factory Inspection"
+    path: "27 - Factory Inspection.miniusf"
+    type: betting
+  - id: friends_3
+    title: "Friends 3"
+    path: "906 - Friends 3.miniusf"
+    type: betting
+  - id: file_select_k64
+    title: "File Select"
+    path: "01b - File Select.miniusf"
+    type: break
+  - id: world_map_k64
+    title: "World Map"
+    path: "03 - World Map.miniusf"
+    type: break
+  - id: pop_star_select
+    title: "Pop Star Select"
+    path: "04a - Pop Star Select.miniusf"
+    type: break
+  - id: rock_star_select
+    title: "Rock Star Select"
+    path: "16a - Rock Star Select.miniusf"
+    type: break
+  - id: aqua_star_select
+    title: "Aqua Star Select"
+    path: "20a - Aqua Star Select.miniusf"
+    type: break
+  - id: shiver_star_select
+    title: "Shiver Star Select"
+    path: "25a - Shiver Star Select.miniusf"
+    type: break
+  - id: staff_roll_k64
+    title: "The End ~ Staff (Part 2)"
+    path: "37b - The End ~ Staff (Part 2).miniusf"
+    type: result
+  - id: room_guarder
+    title: "Room Guarder"
+    path: "05 - Room Guarder.miniusf"
+    type: warning
+  - id: battle_waddle_dee_k64
+    title: "Battle Among Friends - Waddle Dee"
+    path: "12a - Battle Among Friends - Waddle Dee.miniusf"
+    type: warning
+  - id: battle_adeline_k64
+    title: "Battle Among Friends - Adeline"
+    path: "12b - Battle Among Friends - Adeline.miniusf"
+    type: warning
+  - id: battle_dedede_k64
+    title: "Battle Among Friends - King Dedede"
+    path: "12c - Battle Among Friends - King Dedede.miniusf"
+    type: warning
+  - id: dark_star_k64
+    title: "Dark Star"
+    path: "35a - Dark Star.miniusf"
+    type: warning
+...

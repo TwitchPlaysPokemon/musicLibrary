@@ -1,0 +1,17 @@
+---
+id: kirby_triple_deluxe
+platform: "3DS"
+title: "Kirby Triple Deluxe"
+series: kirby
+year: 2014
+path: "Other/Kirby Triple Deluxe"
+songs: 
+  - id: soul_of_sectonia
+    path: "Soul of Sectonia.brstm"
+    title: "Sectonia Soul"
+    type: battle
+  - id: masked_dedede
+    path: "Masked Dedede.brstm"
+    title: "Masked Dedede"
+    type: battle
+...

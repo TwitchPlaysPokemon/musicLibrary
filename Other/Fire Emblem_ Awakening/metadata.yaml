@@ -1,0 +1,22 @@
+---
+id: fire_emblem_awakening
+platform: "3DS"
+title: "Fire Emblem: Awakening"
+series: fireemblem
+year: 2013
+path: "Other/Fire Emblem_ Awakening"
+songs: 
+#      - id: dont_say_her_name
+#        path: "Don't say her name!.brstm"
+#        title: "Don't say her name!"
+#        type: result
+# unfitting result song
+  - id: id_purpose
+    path: "Id ~ Purpose.brstm"
+    title: "Id ~ Purpose"
+    type: betting
+  - id: agh_won_goph_in_mah_mouph_blech_ptooey
+    title: "Agh! Won goph in mah mouph! Blech! Ptooey!"
+    path: "Agh! Won goph in mah mouph! Blech! Ptooey!.brstm"
+    type: betting
+...

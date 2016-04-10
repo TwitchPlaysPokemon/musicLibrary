@@ -1,0 +1,49 @@
+---
+id: tubeslider
+title: "Tube Slider"
+year: 2003
+platform: "GCN"
+path: "Other/Tubeslider"
+songs:
+  - id: aramitama
+    title: "Aramitama"
+    path: "Aramitama.brstm"
+    type: battle
+  - id: gekirou
+    title: "Gekirou"
+    path: "Gekirou.brstm"
+    type: battle
+  - id: hayate
+    title: "Hayate"
+    path: "Hayate.brstm"
+    type: battle
+  - id: kamui
+    title: "Kamui"
+    path: "Kamui.brstm"
+    type: battle
+#      - id: kamusabi
+#        title: "Kamusabi"
+#        path: "Kamusabi.brstm"
+#        type: battle
+# oops, lyrics got through
+  - id: syutu
+    title: "Syutu"
+    path: "Syutu.brstm"
+    type: battle
+  - id: future_formula
+    title: "Future Formula"
+    path: "Future Formula.brstm"
+    type: betting
+  - id: oboro
+    title: "Oboro"
+    path: "Oboro.brstm"
+    type: break
+  - id: tourai
+    title: "Tourai"
+    path: "Tourai.brstm"
+    type: result
+  - id: rengoku
+    title: "Rengoku"
+    path: "Rengoku.brstm"
+    type: warning
+...

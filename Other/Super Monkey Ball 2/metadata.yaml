@@ -1,0 +1,52 @@
+---
+id: super_monkey_ball_2
+platform: "GCN"
+title: "Super Monkey Ball 2"
+year: 2002
+path: "Other/Super Monkey Ball 2"
+songs: 
+  - id: world_1_jungle
+    path: "World 1 - Jungle.brstm"
+    title: "World 1 - Jungle"
+    type: betting
+  - id: world_3_ocean
+    path: "World 3 - Ocean.brstm"
+    title: "World 3 - Ocean"
+    type: betting
+  - id: world_4_whale
+    path: "World 4 - Whale.brstm"
+    title: "World 4 - Whale"
+    type: betting
+  - id: world_5_amusement_park
+    path: "World 5 - Amusement Park.brstm"
+    title: "World 5 - Amusement Park"
+    type: result
+  - id: world_6_boiling_pot
+    path: "World 6 - Boiling Pot.brstm"
+    title: "World 6 - Boiling Pot"
+    type: betting
+  - id: world_7_bubbly_washing_machine
+    path: "World 7 - Bubbly Washing Machine.brstm"
+    title: "World 7 - Bubbly Washing Machine"
+    type: betting
+  - id: world_8_clock_tower
+    path: "World 8 - Clock Tower.brstm"
+    title: "World 8 - Clock Tower"
+    type: battle
+  - id: world_9_space_colony
+    path: "World 9 - Space Colony.brstm"
+    title: "World 9 - Space Colony"
+    type: betting
+  - id: world_10_dr_bad_boons_base
+    path: "World 10 - Dr. Bad Boon's Base.brstm"
+    title: "World 10 - Dr. Bad Boon's Base"
+    type: betting
+  - id: monkey_race_2_expert_track
+    path: "Monkey Race 2 - Expert Track.brstm"
+    title: "Monkey Race 2 - Expert Track"
+    type: battle
+  - id: monkey_dogfight
+    path: "Monkey Dogfight.brstm"
+    title: "Monkey Dogfight"
+    type: battle
+...

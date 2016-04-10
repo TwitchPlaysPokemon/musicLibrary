@@ -1,0 +1,13 @@
+---
+id: pokemon_dash
+title: "Pokemon Dash!"
+series: pokemon
+platform: "NDS"
+year: 2004
+path: "Other/Pokemon Dash!"
+songs:
+  - id: title_screen
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+...

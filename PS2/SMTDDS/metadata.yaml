@@ -1,0 +1,21 @@
+---
+id: smtdds
+title: "Shin Megami Tensei: Digital Devil Saga"
+series: shinmegamitensei
+platform: "PS2"
+year: 2004
+path: "PS2/SMTDDS"
+songs:
+  - id: hunting
+    title: "Hunting"
+    path: "SMTDDS - Hunting.brstm"
+    type: battle
+  - id: muladhara
+    title: "Muladhara"
+    path: "SMTDDS - Muladhara.brstm"
+    type: betting
+#      - id: karma #BRSTM has a bad loop
+#        title: "Karma"
+#        path: "SMTDDS - Karma.brstm"
+#        type: result
+...

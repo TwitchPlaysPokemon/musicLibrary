@@ -1,0 +1,22 @@
+---
+id: final_fantasy_iv_3d_remake
+platform: "NDS"
+title: "Final Fantasy IV (3D Remake)"
+series: finalfantasy
+year: 2008
+path: "Other/Final Fantasy IV (3D Remake)"
+songs: 
+#      - id: theme_of_love
+#        path: "Theme of Love.brstm"
+#        title: "Theme of Love"
+#        type: result
+# sad result song
+  - id: fight_2
+    path: "Fight 2.brstm"
+    title: "Fight 2"
+    type: battle
+  - id: the_dreadful_fight
+    path: "The Dreadful Fight.brstm"
+    title: "The Dreadful Fight"
+    type: warning
+...

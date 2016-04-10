@@ -1,0 +1,25 @@
+---
+id: pokemon_card_gb2
+platform: "GBC"
+title: "Pokémon Card GB2"
+series: pokemon
+year: 2001
+path: "Other/Pokemon Card GB2"
+songs: 
+  - id: duel_vs_fortress_leader
+    path: "Duel Vs. Fortress Leader.brstm"
+    title: "Duel Vs. Fortress Leader"
+    type: battle
+  - id: duel_vs_team_gr
+    path: "Duel Vs. Team GR.brstm"
+    title: "Duel Vs. Team GR"
+    type: battle
+  - id: walking_on_gr_island
+    path: "Walking on GR Island.brstm"
+    title: "Walking on GR Island"
+    type: result
+  - id: grs_grass_and_water_forts
+    path: "GR's Grass and Water Forts.brstm"
+    title: "GR's Grass and Water Forts"
+    type: betting
+...

@@ -1,0 +1,18 @@
+---
+id: yoshis_story
+platform: "N64"
+title: "Yoshi's Story"
+series: mario
+year: 1997
+path: "Other/Yoshi's Story"
+songs:
+  - id: yo_yo_yoshi
+    title: "Yo-Yo-Yoshi"
+    path: "Yo-Yo-Yoshi.brstm"
+    type: break
+#      - id: yoshis_disco
+#        title: "Yoshi's Disco"
+#        path: "Yoshi's Disco.brstm"
+#        type: betting
+# nope
+...

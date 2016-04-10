@@ -1,0 +1,12 @@
+---
+id: plok
+title: "Plok"
+platform: "SNES"
+year: 1993
+path: "Other/Plok"
+songs:
+  - id: boss
+    title: "Boss"
+    path: "Boss.brstm"
+    type: warning
+...

@@ -1,0 +1,33 @@
+---
+id: okami
+path: "Other/Okami"
+title: "Ōkami"
+series: okami
+year: 2006
+platform: "PS2"
+songs:
+  - id: demon_lord_ninetales
+    title: "Demon Lord Nine-Tail's Extermination"
+    path: "Demon Lord Nine-Tail's Extermination.brstm"
+    type: battle
+  - id: the_emperor_of_eternal_darkness
+    path: "The Emperor of Eternal Darkness.brstm"
+    title: "The Emperor of Eternal Darkness"
+    type: warning
+  - id: reset_thank_you_version
+    path: "''Reset'' ~''Thank You'' Version~.brstm"
+    title: "Reset ~ 'Thank you' Version ~"
+    type: warning
+  - id: the_sun_rises
+    path: "The Sun Rises.brstm"
+    title: "The Sun Rises"
+    type: betting
+  - id: shinshuu_plains
+    path: "Shinshuu Plains.brstm"
+    title: "Shinshuu Plains"
+    type: betting
+  - id: brave_warrior_oki
+    path: "Okami - Brave Warrior Oki.brstm"
+    title: "Brave Warrior Oki"
+    type: betting
+...

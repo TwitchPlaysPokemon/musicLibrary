@@ -1,0 +1,37 @@
+---
+id: banjo_kazooie_nuts_and_bolts
+platform: "360"
+title: "Banjo-Kazooie: Nuts & Bolts"
+series: banjo
+year: 2008
+path: "Other/Banjo-Kazooie Nuts & Bolts"
+songs: 
+#      - id: main_theme
+#        path: "Main Theme.brstm"
+#        title: "Main Theme"
+#        type: result #Does not fit
+  - id: pause_screen_bknutsnbolts
+    path: "Pause Screen.brstm"
+    title: "Pause Screen"
+    type: break
+  - id: mumbos_mountain_bknutsnbolts
+    path: "Mumbo's Mountain.brstm"
+    title: "Mumbo's Mountain"
+    type: betting
+  - id: nutty_acres
+    path: "Nutty Acres.brstm"
+    title: "Nutty Acres"
+    type: betting
+  - id: spiral_mountain_bknutsnbolts
+    path: "Spiral Mountain.brstm"
+    title: "Spiral Mountain"
+    type: betting
+  - id: testotrack
+    path: "Test-o-Track.brstm"
+    title: "Test-o-Track"
+    type: betting
+  - id: mumbos_garage
+    path: "Mumbo's Garage.brstm"
+    title: "Mumbo's Garage"
+    type: betting
+...

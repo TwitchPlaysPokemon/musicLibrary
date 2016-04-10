@@ -1,0 +1,17 @@
+---
+id: super_smash_bros
+platform: "N64"
+title: "Super Smash Bros."
+series: smash
+year: 1999
+path: "Other/Super Smash Bros"
+songs:
+  - id: master_hand_fight
+    path: "Master Hand Fight.brstm"
+    title: "Master Hand Fight"
+    type: battle
+  - id: ssb_dreamland
+    path: "Dreamland.brstm"
+    title: "Dreamland"
+    type: betting
+...

@@ -1,0 +1,13 @@
+---
+id: megaman_x7
+platform: "PS2"
+title: "Mega Man X7"
+series: megaman
+year: 2003
+path: "Other/Megaman X7"
+songs: 
+  - id: vs_boss
+    path: "VS Boss.brstm"
+    title: "VS Boss"
+    type: battle
+...

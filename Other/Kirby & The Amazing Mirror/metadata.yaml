@@ -1,0 +1,39 @@
+---
+id: kirby_the_amazing_mirror
+platform: "GBA"
+title: "Kirby & The Amazing Mirror"
+series: kirby
+year: 2004
+path: "Other/Kirby & The Amazing Mirror"
+songs: 
+  - id: area_3_-_cabbage_cavern
+    path: "Area 3 - Cabbage Cavern.brstm"
+    title: "Area 3 - Cabbage Cavern"
+    type: betting
+#      - id: main_menu_kirbymirror
+#        path: "Main Menu.brstm"
+#        title: "Main Menu"
+#        type: betting
+# broken loop
+#      - id: legend_of_the_mirror_world
+#        path: "Legend of the Mirror World.brstm"
+#        title: "Legend of the Mirror World"
+#        type: result
+# unfitting result song
+  - id: kirby_wave_ride
+    path: "Kirby Wave Ride.brstm"
+    title: "Kirby Wave Ride"
+    type: warning
+  - id: intro_stage
+    path: "Intro Stage.brstm"
+    title: "Intro Stage"
+    type: betting
+  - id: dark_meta_knight_battle
+    path: "Dark Meta Knight Battle.brstm"
+    title: "Dark Meta Knight Battle"
+    type: warning
+  - id: area_9_-_candy_constellation
+    path: "Area 9 - Candy Constellation.brstm"
+    title: "Area 9 - Candy Constellation"
+    type: betting
+...

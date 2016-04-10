@@ -1,0 +1,61 @@
+---
+id: learn_with_pokemon_typing_adventure
+platform: "NDS"
+title: "Learn With Pokémon: Typing Adventure"
+series: pokemon
+year: 2011
+path: "Other/Learn With Pokemon Typing Adventure"
+songs: 
+  - id: boss_battle_poketype
+    path: "Boss Battle.brstm"
+    title: "Boss Battle"
+    type: battle
+  - id: bgm_stg_01
+    path: "BGM_STG_01.brstm"
+    title: "Zorua Archipelago"
+    type: betting
+  - id: bgm_stg_02
+    path: "BGM_STG_02.brstm"
+    title: "Pikachu Park"
+    type: betting
+  - id: bgm_stg_03
+    path: "BGM_STG_03.brstm"
+    title: "Blastoise's Resort"
+    type: betting
+  - id: bgm_stg_04
+    path: "BGM_STG_04.brstm"
+    title: "Emolga's Tall Forest"
+    type: betting
+  - id: bgm_stg_05
+    path: "BGM_STG_05.brstm"
+    title: "Haunter Mansion"
+    type: betting
+  - id: bgm_stg_06
+    path: "BGM_STG_06.brstm"
+    title: "Deerling Park"
+    type: result
+  - id: bgm_stg_07
+    path: "BGM_STG_07.brstm"
+    title: "Glalie's Snow-Covered Road"
+    type: break
+  - id: bgm_stg_08
+    path: "BGM_STG_08.brstm"
+    title: "Bright Sunshine"
+    type: battle
+  - id: bgm_stg_09
+    path: "BGM_STG_09.brstm"
+    title: "Unknown Course"
+    type: betting
+  - id: bgm_stg_10
+    path: "BGM_STG_10.brstm"
+    title: "Space Hiking"
+    type: betting
+  - id: main_menu
+    path: "Main Menu.brstm"
+    title: "Main Menu"
+    type: betting
+  - id: title_theme
+    path: "Title Theme.brstm"
+    title: "Title Theme"
+    type: result
+...

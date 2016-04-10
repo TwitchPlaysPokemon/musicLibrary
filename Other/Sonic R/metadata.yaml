@@ -1,0 +1,37 @@
+---
+id: sonic_r
+title: "Sonic R"
+series: sonic
+year: 1997
+platform: "Saturn"
+path: "Other/Sonic R"
+songs:
+  - id: super_sonic_racing
+    title: "Super Sonic Racing (Instrumental)"
+    path: "Super Sonic Racing (Instrumental).brstm"
+    type: battle
+  - id: back_in_time
+    title: "Back In Time (Instrumental)"
+    path: "Back In Time (Instrumental).brstm"
+    type: betting
+  - id: can_you_feel_the_sunshine
+    title: "Can You Feel the Sunshine (Instrumental)"
+    path: "Can You Feel the Sunshine (Instrumental).brstm"
+    type: betting
+  - id: diamond_in_the_sky
+    title: "Diamond in the Sky (Instrumental)"
+    path: "Diamond in the Sky (Instrumental).brstm"
+    type: betting
+  - id: living_in_the_city
+    title: "Living in the City (Instrumental)"
+    path: "Living in the City (Instrumental).brstm"
+    type: betting
+  - id: work_it_out
+    title: "Work it Out (Instrumental)"
+    path: "Work it Out (Instrumental).brstm"
+    type: betting
+  - id: menu_sonicr
+    title: "Menu"
+    path: "Menu.brstm"
+    type: break
+...

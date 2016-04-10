@@ -1,0 +1,49 @@
+---
+id: super_mario_galaxy
+platform: "Wii"
+title: "Super Mario Galaxy"
+series: mario
+year: 2007
+path: "Other/SMG"
+songs: 
+  - id: speedy_comet_in_orbit
+    path: "Speedy Comet in Orbit.brstm"
+    title: "Speedy Comet"
+    type: warning
+  - id: king_kaliente
+    path: "King Kaliente.brstm"
+    title: "King Kaliente"
+    type: battle
+  - id: megaleg_-_variation
+    path: "Megaleg - Variation.brstm"
+    title: "Megaleg"
+    type: battle
+  - id: course_select
+    path: "Course Select.brstm"
+    title: "Course Select"
+    type: warning
+  - id: the_fiery_stronghold
+    path: "The Fiery Stronghold.brstm"
+    title: "The Fiery Stronghold"
+    type: betting
+  - id: space_junk_road
+    path: "Space Junk Road.brstm"
+    title: "Space Junk Road"
+    type: betting
+  - id: gusty_garden_galaxy
+    path: "Gusty Garden Galaxy.brstm"
+    title: "Gusty Garden Galaxy"
+    type: betting
+  - id: the_galaxy_reactor
+    path: "The Galaxy Reactor.brstm"
+    title: "Bowser's Galaxy Reactor"
+    type: warning
+  - id: buoy_base_galaxy_-_above_water
+    path: "Buoy Base Galaxy - Above Water.brstm"
+    title: "Buoy Base Galaxy"
+    type: betting
+  - id: egg_planet
+    path: "Egg Planet.brstm"
+    title: "Egg Planet"
+    type: betting
+...

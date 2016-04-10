@@ -1,0 +1,93 @@
+---
+id: donkey_kong_country_3
+title: "Donkey Kong Country 3"
+series: donkeykong
+year: 1996
+platform: "SNES"
+path: "SNES/Donkey Kong Country 3"
+songs:
+  - id: stilt_village
+    title: "Stilt Village"
+    path: "06 Stilt Village.spc"
+    type: betting
+  - id: mill_fever
+    title: "Mill Fever"
+    path: "07 Mill Fever.spc"
+    type: betting
+  - id: jangle_bells
+    title: "Jangle Bells"
+    path: "08 Jangle Bells.spc"
+    type: betting
+  - id: frosty_frolics
+    title: "Frosty Frolics"
+    path: "09 Frosty Frolics.spc"
+    type: betting
+  - id: treetop_tumble
+    title: "Treetop Tumble"
+    path: "11 Treetop Tumble.spc"
+    type: betting
+  - id: hot_pursuit
+    title: "Hot Pursuit"
+    path: "12 Hot Pursuit.spc"
+    type: betting
+  - id: enchanted_riverbank
+    title: "Enchanted Riverbank"
+    path: "13 Enchanted Riverbank.spc"
+    type: betting
+  - id: water_world
+    title: "Water World"
+    path: "14 Water World.spc"
+    type: betting
+  - id: cascade_capers
+    title: "Cascade Capers"
+    path: "15 Cascade Capers.spc"
+    type: betting
+  - id: nuts_and_bolts
+    title: "Nuts and Bolts"
+    path: "16 Nuts and Bolts.spc"
+    type: betting
+  - id: pokey_pipes
+    title: "Pokey Pipes"
+    path: "17 Pokey Pipes.spc"
+    type: betting
+  - id: rockface_rumble
+    title: "Rockface Rumble"
+    path: "18 Rockface Rumble.spc"
+    type: betting
+  - id: cavern_caprice
+    title: "Cavern Caprice"
+    path: "19 Cavern Caprice.spc"
+    type: betting
+  - id: brothers_bear
+    title: "Brothers Bear"
+    path: "36 Brothers Bear.spc"
+    type: betting
+  - id: northern_kremisphere
+    title: "Northern Kremisphere"
+    path: "04 Northern Kremisphere.spc"
+    type: break
+  - id: submap_shuffle
+    title: "Submap Shuffle"
+    path: "05 Submap Shuffle.spc"
+    type: break
+  - id: wrinklys_save_cave
+    title: "Wrinkly's Save Cave"
+    path: "33 Wrinkly's Save Cave.spc"
+    type: break
+  - id: get_fit_a-go-go
+    title: "Get Fit A-Go-Go"
+    path: "34 Get Fit A-Go-Go.spc"
+    type: break
+  - id: wrinkly_64
+    title: "Wrinkly 64"
+    path: "35 Wrinkly 64.spc"
+    type: break
+  - id: boss_boogie
+    title: "Boss Boogie"
+    path: "10 Boss Boogie.spc"
+    type: warning
+  - id: big_boss_blues
+    title: "Big Boss Blues"
+    path: "24 Big Boss Blues.spc"
+    type: warning
+...

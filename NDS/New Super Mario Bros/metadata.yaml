@@ -1,0 +1,97 @@
+---
+id: new_super_mario_bros
+title: "New Super Mario Bros."
+series: mario
+year: 2006
+platform: "NDS"
+path: "NDS/New Super Mario Bros"
+songs:
+#      - id: athletic #Same song but with a better soundfont in nsmbwii
+#        title: "Athletic"
+#        path: "Athletic.brstm"
+#        type: betting
+  - id: credits_nsmb
+    title: "Credits"
+    path: "Credits.brstm"
+    type: betting
+  - id: desert_fast
+    title: "Desert (Fast)"
+    path: "Desert (Fast).brstm"
+    type: warning
+  - id: desert
+    title: "Desert"
+    path: "Desert.brstm"
+    type: betting
+#      - id: final_boss
+#        title: "Final Boss"
+#        path: "Final Boss.brstm"
+#        type: battle #Not tense and charged enough
+  - id: fortress
+    title: "Fortress"
+    path: "Fortress.brstm"
+    type: betting
+      #- id: spooooooky_ghost_house_ooooooo
+      #  title: "Ghost House"
+      #  path: "Ghost House.brstm"
+      #  type: warning
+#      - id: mario_vs_luigi_plain_1
+#        title: "Mario Vs. Luigi - Plain 1"
+#        path: "Mario Vs. Luigi - Plain 1.brstm"
+#        type: battle
+#      - id: mario_vs_luigi_plain_2
+#        title: "Mario Vs. Luigi - Plain 2"
+#        path: "Mario Vs. Luigi - Plain 2.brstm"
+#        type: battle #Doesn't fit. Warning?
+  - id: mega_mushroom
+    title: "Mega Mushroom"
+    path: "Mega Mushroom.brstm"
+    type: warning
+  - id: overworld_nsmb
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: break
+  - id: star
+    title: "Star"
+    path: "Star.brstm"
+    type: warning
+#      - id: underground
+#        title: "Underground"
+#        path: "Underground.brstm"
+#        type: betting #Same song with a better soundfont in nsmbwii
+  - id: underwater_nsmb
+    title: "Underwater"
+    path: "Underwater.brstm"
+    type: betting
+  - id: volcano_nsmb
+    title: "Volcano"
+    path: "Volcano.brstm"
+    type: betting
+#      - id: world_1
+#        title: "World 1 Map"
+#        path: "World 1 Map.brstm"
+#        type: warning #Does not fit.
+  - id: world_2
+    title: "World 2 Map"
+    path: "World 2 Map.brstm"
+    type: warning
+#      - id: world_3
+#        title: "World 3 Map"
+#        path: "World 3 Map.brstm"
+#        type: betting #Does not fit. 
+#      - id: world_4
+#        title: "World 4 Map"
+#        path: "World 4 Map.brstm"
+#        type: warning #Does not fit.
+#      - id: world_5
+#        title: "World 5 Map"
+#        path: "World 5 Map.brstm"
+#        type: warning #Does not fit.
+#      - id: world_6
+#        title: "World 6 Map"
+#        path: "World 6 Map.brstm"
+#        type: warning #Borderline doesn't fit.
+  - id: world_7
+    title: "World 7 Map"
+    path: "World 7 Map.brstm"
+    type: betting
+...

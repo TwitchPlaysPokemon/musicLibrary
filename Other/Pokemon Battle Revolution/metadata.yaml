@@ -1,0 +1,82 @@
+---
+id: pokemon_battle_revolution
+title: "Pokémon Battle Revolution"
+series: pokemon
+year: 2007
+platform: "Wii"
+path: "Other/Pokemon Battle Revolution"
+songs: 
+  - id: nintendo_wfc_menu
+    title: "Nintendo WFC Menu"
+    path: "Nintendo WFC Menu.brstm"
+    type: betting
+  - id: reception_desk
+    title: "Reception Desk"
+    path: "Reception Desk.brstm"
+    type: betting
+  - id: final_battle_theme
+    path: "Final Battle Theme - Mysterial's Theme.brstm"
+    title: "Final Battle Theme - Mysterial's Theme"
+    type: battle
+  - id: gateway_colosseum
+    path: "Gateway Colosseum.brstm"
+    title: "Gateway Colosseum"
+    type: battle
+  - id: courtyard_colosseum
+    path: "Courtyard Colosseum.brstm"
+    title: "Courtyard Colosseum"
+    type: battle
+  - id: crystal_colosseum
+    path: "Crystal Colosseum.brstm"
+    title: "Crystal Colosseum"
+    type: battle
+  - id: lagoon_colosseum
+    path: "Lagoon Colosseum.brstm"
+    title: "Lagoon Colosseum"
+    type: battle
+  - id: main_street_colosseum
+    path: "Main Street Colosseum.brstm"
+    title: "Main Street Colosseum"
+    type: battle
+  - id: magma_colosseum
+    path: "Magma Colosseum.brstm"
+    title: "Magma Colosseum"
+    type: battle
+  - id: neon_colosseum
+    path: "Neon Colosseum.brstm"
+    title: "Neon Colosseum"
+    type: battle
+  - id: minor_boss_theme
+    path: "Minor Boss Theme.brstm"
+    title: "Minor Boss Theme"
+    type: battle
+  - id: stargazer_colosseum
+    path: "Stargazer Colosseum.brstm"
+    title: "Stargazer Colosseum"
+    type: battle
+  - id: sunny_park_colosseum
+    path: "Sunny Park Colosseum.brstm"
+    title: "Sunny Park Colosseum"
+    type: battle
+  - id: sunset_colosseum
+    path: "Sunset Colosseum.brstm"
+    title: "Sunset Colosseum"
+    type: battle
+  - id: waterfall_colosseum
+    path: "Waterfall Colosseum.brstm"
+    title: "Waterfall Colosseum"
+    type: battle
+  - id: choose_a_colosseum
+    path: "Choose a Colosseum.brstm"
+    title: "Choose a Colosseum"
+    type: betting
+  - id: select_your_pokemon
+    path: "Select your Pokemon.brstm"
+    title: "Select your Pokemon"
+    type: betting
+      # file missing
+      #- id: first_battle
+      #  path: "First Battle.brstm"
+      #  title: "First Battle"
+      #  type: battle
+...

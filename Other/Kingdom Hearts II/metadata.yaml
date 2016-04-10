@@ -1,0 +1,25 @@
+---
+id: kingdom_hearts_ii
+title: "Kingdom Hearts II"
+series: kingdomhearts
+year: 2005
+platform: "PS2"
+path: "Other/Kingdom Hearts II"
+songs:
+  - id: the_13th_struggle
+    title: "The 13th Struggle"
+    path: "The 13th Struggle.brstm"
+    type: battle
+  - id: sora
+    title: "Sora"
+    path: "Sora.brstm"
+    type: result
+  - id: sacred_moon
+    title: "Sacred Moon"
+    path: "Sacred Moon.brstm"
+    type: warning
+  - id: vim_and_vigor
+    title: "Vim and Vigor"
+    path: "Vim and Vigor.brstm"
+    type: battle
+...

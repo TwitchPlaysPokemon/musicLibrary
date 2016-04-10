@@ -1,0 +1,277 @@
+---
+id: pokemon_emerald
+platform: "GBA"
+title: "Pokémon Ruby/Sapphire/Emerald"
+series: pokemon
+year: 2002
+path: "GBA/Pokemon Emerald"
+songs: 
+  - id: birch_lab
+    path: "Pokemon Emerald - Prof. Birch's Pokemon Lab.minigsf"
+    title: "Prof. Birch's Pokémon Lab"
+    type: betting
+  - id: sight_brendan
+    path: "Pokemon Emerald - Sight - Brendan.minigsf"
+    title: "Sight - Brendan"
+    type: warning
+  - id: aqua_hideout
+    path: "Pokemon Emerald - Aqua Hideout.minigsf"
+    title: "Aqua Hideout"
+    type: betting
+  - id: evergrande
+    path: "Pokemon Emerald - Evergrande City.minigsf"
+    title: "Evergrande City"
+    type: betting
+  - id: elite_4_defeat
+    path: "Pokemon Emerald - Elite 4 Defeat.minigsf"
+    title: "Elite 4 Defeat"
+    type: result
+  - id: petalburg
+    path: "Pokemon Emerald - Petalburg City.minigsf"
+    title: "Petalburg City"
+    type: betting
+  - id: battle_mew
+    path: "Pokemon Emerald - Battle! Mew.minigsf"
+    title: "Battle! Mew"
+    type: battle
+  - id: route_5
+    path: "Pokemon Emerald - Route Theme 5.minigsf"
+    title: "Route Theme 5"
+    type: betting
+  - id: pokemon_league_emerald
+    path: "Pokemon Emerald - Pokemon League.minigsf"
+    title: "Pokémon League"
+    type: betting
+  - id: battle_gym_leader
+    path: "Pokemon Emerald - Battle! Gym Leader.minigsf"
+    title: "Battle! Gym Leader"
+    type: battle
+  - id: sight_pokefan
+    path: "Pokemon Emerald - Sight - Pokefan.minigsf"
+    title: "Sight - Pokefan"
+    type: warning
+  - id: pokemon_contest_hall
+    path: "Pokemon Emerald - Pokemon Contest Hall.minigsf"
+    title: "Pokémon Contest Hall"
+    type: betting
+  - id: rustboro
+    path: "Pokemon Emerald - Rustboro City.minigsf"
+    title: "Rustboro City"
+    type: betting
+  - id: route_6
+    path: "Pokemon Emerald - Route Theme 6.minigsf"
+    title: "Route Theme 6"
+    type: betting
+  - id: route_4
+    path: "Pokemon Emerald - Route Theme 4.minigsf"
+    title: "Route Theme 4"
+    type: betting
+  - id: route_2
+    path: "Pokemon Emerald - Route Theme 2.minigsf"
+    title: "Route Theme 2"
+    type: betting
+  - id: route_3
+    path: "Pokemon Emerald - Route Theme 3.minigsf"
+    title: "Route Theme 3"
+    type: betting
+  - id: route_1
+    path: "Pokemon Emerald - Route Theme 1.minigsf"
+    title: "Route Theme 1"
+    type: betting
+  - id: game_corner_emerald
+    path: "Pokemon Emerald - Game Corner.minigsf"
+    title: "Game Corner"
+    type: betting
+  - id: dewford
+    path: "Pokemon Emerald - Dewford Town.minigsf"
+    title: "Dewford Town"
+    type: betting
+  - id: battle_factory
+    path: "Pokemon Emerald - Battle Factory.minigsf"
+    title: "Battle Factory"
+    type: betting
+  - id: battle_tower_emerald
+    path: "Pokemon Emerald - Battle Tower.minigsf"
+    title: "Battle Tower"
+    type: result
+  - id: sight_youngster
+    path: "Pokemon Emerald - Sight - Youngster.minigsf"
+    title: "Sight - Youngster"
+    type: warning
+  - id: battle_wild_pokemon_emerald
+    path: "Pokemon Emerald - Battle! Wild Pokemon.minigsf"
+    title: "Battle! Wild Pokémon"
+    type: battle
+  - id: champion_wallace
+    path: "Pokemon Emerald - Champion Wallace.minigsf"
+    title: "Champion Wallace"
+    type: warning
+  - id: hall_of_fame
+    path: "Pokemon Emerald - You're in the Hall of Fame!.minigsf"
+    title: "You're in the Hall of Fame!"
+    type: result
+  - id: battle_deoxys
+    path: "Pokemon Emerald - Battle! Deoxys.minigsf"
+    title: "Battle! Deoxys"
+    type: battle
+  - id: lilycove
+    path: "Pokemon Emerald - Lilycove City and Pacifidlog Town.minigsf"
+    title: "Lilycove City and Pacifidlog Town"
+    type: betting
+  - id: battle_team_leader
+    path: "Pokemon Emerald - Battle! Team Leader.minigsf"
+    title: "Battle! Team Leader"
+    type: battle
+  - id: battle_the_three_regis
+    path: "Pokemon Emerald - Battle! The Three Regis.minigsf"
+    title: "Battle! The Three Regis"
+    type: battle
+  - id: pokemon_gym_emerald
+    path: "Pokemon Emerald - Pokemon Gym.minigsf"
+    title: "Pokémon Gym"
+    type: betting
+  - id: trick_house
+    path: "Pokemon Emerald - Trick House.minigsf"
+    title: "Trick House"
+    type: betting
+  - id: ss_tidal
+    path: "Pokemon Emerald - S.S. Tidal.minigsf"
+    title: "S.S. Tidal"
+    type: result
+  - id: battle_decisive_battle_wallace
+    path: "Pokemon Emerald - Decisive Battle! Wallace.minigsf"
+    title: "Decisive Battle! Wallace"
+    type: battle
+  - id: pokemon_contest
+    path: "Pokemon Emerald - Pokemon Contest!.minigsf"
+    title: "Pokémon Contest!"
+    type: betting
+  - id: sight_aqua
+    path: "Pokemon Emerald - Sight - Team Aqua.minigsf"
+    title: "Sight - Team Aqua"
+    type: warning
+  - id: littleroot
+    path: "Pokemon Emerald - Littleroot Town.minigsf"
+    title: "Littleroot Town"
+    type: betting
+  - id: trainer_hill
+    path: "Pokemon Emerald - Trainer Hill.minigsf"
+    title: "Trainer Hill"
+    type: betting
+  - id: battle_ancient_pokemon
+    path: "Pokemon Emerald - Battle! Ancient Pokemon.minigsf"
+    title: "Battle! Ancient Pokémon"
+    type: battle
+  - id: battle_elite_four_emerald
+    path: "Pokemon Emerald - Battle! Elite Four.minigsf"
+    title: "Battle! Elite Four"
+    type: battle
+  - id: battle_team_grunt
+    path: "Pokemon Emerald - Battle! Team Grunt.minigsf"
+    title: "Battle! Team Grunt"
+    type: battle
+  - id: sight_magma
+    path: "Pokemon Emerald - Sight - Team Magma.minigsf"
+    title: "Sight - Team Magma"
+    type: warning
+  - id: slateport
+    path: "Pokemon Emerald - Slateport City.minigsf"
+    title: "Slateport City"
+    type: betting
+  - id: sight_elitefour
+    path: "Pokemon Emerald - Sight - Elite Four.minigsf"
+    title: "Sight - Elite Four"
+    type: warning
+  - id: battle_rival_emerald
+    path: "Pokemon Emerald - Battle! Rival.minigsf"
+    title: "Battle! Rival"
+    type: battle
+  - id: caves_and_darkness
+    path: "Pokemon Emerald - Caves and Darkness.minigsf"
+    title: "Caves and Darkness"
+    type: betting
+  - id: battle_frontier
+    path: "Pokemon Emerald - Battle Frontier.minigsf"
+    title: "Battle Frontier"
+    type: betting
+  - id: sootopolis
+    path: "Pokemon Emerald - Sootopolis City.minigsf"
+    title: "Sootopolis City"
+    type: betting
+  - id: cooltrainer
+    path: "Pokemon Emerald - Cooltrainer Encounter.minigsf"
+    title: "Cooltrainer Encounter"
+    type: warning
+  - id: bicycling
+    path: "Pokemon Emerald - Bicycling.minigsf"
+    title: "Bicycling"
+    type: result
+  - id: battle_pokemon_trainer
+    path: "Pokemon Emerald - Battle! Pokemon Trainer.minigsf"
+    title: "Battle! Pokémon Trainer"
+    type: battle
+  - id: oldale
+    path: "Pokemon Emerald - Oldale Town.minigsf"
+    title: "Oldale Town"
+    type: betting
+  - id: battle_frontier_brain
+    path: "Pokemon Emerald - Battle! Frontier Brain.minigsf"
+    title: "Battle! Frontier Brain"
+    type: battle
+  - id: sight_hiker
+    path: "Pokemon Emerald - Sight - Hiker.minigsf"
+    title: "Sight - Hiker"
+    type: warning
+  - id: a_faraway_place
+    path: "Pokemon Emerald - A Faraway Place.minigsf"
+    title: "A Faraway Place"
+    type: betting
+  - id: abandoned_ship
+    path: "Abandoned Ship.brstm"
+    title: "Abandoned Ship"
+    type: betting
+  - id: art_museum
+    path: "Art Museum.brstm"
+    title: "Lilycove Art Museum"
+    type: betting
+  - id: cave_of_origin
+    path: "Cave of Origin.brstm"
+    title: "Cave of Origin"
+    type: betting
+  - id: contest_results
+    path: "Contest Results.brstm"
+    title: "Contest Results"
+    type: result
+  - id: dive
+    path: "Dive.brstm"
+    title: "Dive"
+    type: betting
+  - id: evolution_emerald
+    path: "Evolution.brstm"
+    title: "Evolution"
+    type: warning
+  - id: fortree
+    path: "Fortree City.brstm"
+    title: "Fortree City"
+    type: betting
+  - id: heavy_rainfall
+    path: "Heavy Rainfall.brstm"
+    title: "Heavy Rainfall"
+    type: warning
+  - id: sight_may
+    path: "May.brstm"
+    title: "Sight - May"
+    type: warning
+  - id: pokemart_emerald
+    path: "Poké Mart.brstm"
+    title: "Poké Mart"
+    type: betting
+  - id: reporter
+    path: "Reporter.brstm"
+    title: "Reporter"
+    type: warning
+  - id: victory_champion
+    path: "Steven is Defeated!.brstm"
+    title: "Victory! Champion"
+    type: result
+...

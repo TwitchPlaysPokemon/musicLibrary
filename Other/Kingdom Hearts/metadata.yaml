@@ -1,0 +1,25 @@
+---
+id: kingdom_hearts
+platform: "PS2"
+title: "Kingdom Hearts"
+series: kingdomhearts
+year: 2002
+path: "Other/Kingdom Hearts"
+songs: 
+  - id: forze_del_male
+    path: "Forze del Male.brstm"
+    title: "Forze del Male"
+    type: battle
+  - id: hollow_bastion
+    title: "Hollow Bastion"
+    path: "Hollow Bastion.brstm"
+    type: betting
+  - id: traverse_town
+    title: "Traverse Town"
+    path: "Traverse Town.brstm"
+    type: betting
+  - id: scherzo_di_notte
+    title: "Scherzo di Notte"
+    path: "Scherzo di Notte.brstm"
+    type: warning
+...

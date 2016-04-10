@@ -1,0 +1,333 @@
+---
+id: pokemon_crystal
+platform: "GB"
+title: "Pokémon Gold/Silver/Crystal"
+series: pokemon
+year: 2000
+path: "GB/Red+Crystal"
+songs: 
+  - id: title
+    path: "Pokemon Crystal_000.gbs"
+    title: "Title Screen"
+    type: result
+  - id: route29_kanto
+    path: "Pokemon Crystal_001.gbs"
+    title: "Kanto Route 29"
+    type: betting
+  - id: route3
+    path: "Pokemon Crystal_002.gbs"
+    title: "Kanto Route 3"
+    type: betting
+  - id: route11
+    path: "Pokemon Crystal_003.gbs"
+    title: "Kanto Route 11"
+    type: betting
+  - id: pokecenter_crystal
+    path: "Pokemon Crystal_008.gbs"
+    title: "Pokémon Center"
+    type: betting
+  - id: lavender
+    path: "Pokemon Crystal_013.gbs"
+    title: "Lavender Town"
+    type: betting
+  - id: route2
+    path: "Pokemon Crystal_014.gbs"
+    title: "Kanto Route 2 / Viridian Forest"
+    type: betting
+  - id: kanto_cave
+    path: "Pokemon Crystal_015.gbs"
+    title: "Cave (Kanto)"
+    type: betting
+  - id: gamecorner
+    path: "Pokemon Crystal_017.gbs"
+    title: "Game Corner"
+    type: betting
+  - id: viridian
+    path: "Pokemon Crystal_020.gbs"
+    title: "Viridian/Pewter/Saffron/Cerulean City"
+    type: betting
+  - id: celadon_crystal
+    path: "Pokemon Crystal_021.gbs"
+    title: "Celadon/Fuschia City"
+    type: betting
+  - id: gym_crystal
+    path: "Pokemon Crystal_026.gbs"
+    title: "Gym"
+    type: betting
+  - id: pallet_crystal
+    path: "Pokemon Crystal_027.gbs"
+    title: "Pallet Town"
+    type: betting
+  - id: radio_poketalk
+    path: "Pokemon Crystal_028.gbs"
+    title: "Radio: Prof. Oak's Pokémon Talk"
+    type: betting
+  - id: surfing_crystal
+    path: "Pokemon Crystal_032.gbs"
+    title: "Surfing"
+    type: betting
+  - id: national_park
+    path: "Pokemon Crystal_034.gbs"
+    title: "National Park"
+    type: betting
+  - id: azalea
+    path: "Pokemon Crystal_036.gbs"
+    title: "Azalea Town"
+    type: betting
+  - id: cherrygrove
+    path: "Pokemon Crystal_037.gbs"
+    title: "Cherrygrove City"
+    type: betting
+  - id: ruins
+    path: "Pokemon Crystal_039.gbs"
+    title: "Ruins of Alph/Ilex Forest"
+    type: betting
+  - id: route30
+    path: "Pokemon Crystal_042.gbs"
+    title: "Game Start/Route 30"
+    type: betting
+  - id: ecruteak
+    path: "Pokemon Crystal_043.gbs"
+    title: "Ecruteak City"
+    type: betting
+  - id: violet
+    path: "Pokemon Crystal_044.gbs"
+    title: "Violet City"
+    type: betting
+  - id: elms_lab
+    path: "Pokemon Crystal_049.gbs"
+    title: "Prof. Elm's Lab"
+    type: betting
+  - id: johto_cave
+    path: "Pokemon Crystal_050.gbs"
+    title: "Cave (Johto)"
+    type: betting
+  - id: route29
+    path: "Pokemon Crystal_051.gbs"
+    title: "Johto Route 29"
+    type: betting
+  - id: route35
+    path: "Pokemon Crystal_052.gbs"
+    title: "Johto Route 35"
+    type: betting
+  - id: ssaqua
+    path: "Pokemon Crystal_053.gbs"
+    title: "S.S. Aqua"
+    type: betting
+  - id: newbark
+    path: "Pokemon Crystal_059.gbs"
+    title: "New Bark Town"
+    type: betting
+  - id: goldenrod
+    path: "Pokemon Crystal_060.gbs"
+    title: "Goldenrod City"
+    type: betting
+  - id: vermilion_crystal
+    path: "Pokemon Crystal_061.gbs"
+    title: "Vermilion City"
+    type: betting
+  - id: pokeflute
+    path: "Pokemon Crystal_063.gbs"
+    title: "Radio: Poké Flute"
+    type: betting
+  - id: tintower
+    path: "Pokemon Crystal_064.gbs"
+    title: "Tin Tower"
+    type: betting
+  - id: sprout
+    path: "Pokemon Crystal_065.gbs"
+    title: "Sprout Tower"
+    type: betting
+  - id: burned
+    path: "Pokemon Crystal_066.gbs"
+    title: "Burned Tower"
+    type: betting
+  - id: lighthouse
+    path: "Pokemon Crystal_067.gbs"
+    title: "Olivine Lighthouse"
+    type: betting
+  - id: route40
+    path: "Pokemon Crystal_068.gbs"
+    title: "Johto Route 40"
+    type: betting
+  - id: indigo
+    path: "Pokemon Crystal_069.gbs"
+    title: "Johto Route 23/Indigo Plateau/Outside Silver Cave"
+    type: betting
+  - id: route38
+    path: "Pokemon Crystal_070.gbs"
+    title: "Johto Route 38"
+    type: betting
+  - id: hideout
+    path: "Pokemon Crystal_071.gbs"
+    title: "Team Rocket Hideout"
+    type: betting
+  - id: route27
+    path: "Pokemon Crystal_076.gbs"
+    title: "Kanto Route 27"
+    type: betting
+  - id: victory_road_crystal
+    path: "Pokemon Crystal_078.gbs"
+    title: "Victory Road"
+    type: betting
+  - id: pokemarch
+    path: "Pokemon Crystal_080.gbs"
+    title: "Radio: Pokémon March"
+    type: betting
+  - id: mainmenu
+    path: "Pokemon Crystal_083.gbs"
+    title: "Main Menu"
+    type: result
+      #- id: inside_ruins
+      #  path: "Pokemon Crystal_084.gbs"
+      #  title: "Inside Ruins of Alph"
+      #  type: betting
+  - id: hiker
+    path: "Pokemon Crystal_009.gbs"
+    title: "Encounter! Hiker"
+    type: warning
+  - id: lass
+    path: "Pokemon Crystal_010.gbs"
+    title: "Encounter! Lass"
+    type: warning
+  - id: officer
+    path: "Pokemon Crystal_011.gbs"
+    title: "Encounter! Officer"
+    type: warning
+  - id: followme
+    path: "Pokemon Crystal_016.gbs"
+    title: "Follow Me"
+    type: warning
+  - id: oak
+    path: "Pokemon Crystal_029.gbs"
+    title: "Prof. Oak's Theme"
+    type: warning
+  - id: rivaltheme
+    path: "Pokemon Crystal_031.gbs"
+    title: "Rival's Theme"
+    type: warning
+  - id: evo
+    path: "Pokemon Crystal_033.gbs"
+    title: "Pokémon Evolution"
+    type: warning
+  - id: kimono_encounter
+    path: "Pokemon Crystal_038.gbs"
+    title: "Encounter! Kimono Girl"
+    type: warning
+  - id: youngster
+    path: "Pokemon Crystal_054.gbs"
+    title: "Encounter! Youngster"
+    type: warning
+  - id: female
+    path: "Pokemon Crystal_055.gbs"
+    title: "Encounter! Female Trainer"
+    type: warning
+  - id: enc_rocket_tower
+    path: "Pokemon Crystal_056.gbs"
+    title: "Encounter! Rocket in Goldenrod Radio Tower"
+    type: warning
+  - id: pokemanic
+    path: "Pokemon Crystal_057.gbs"
+    title: "Encounter! PokéManiac"
+    type: warning
+  - id: sage
+    path: "Pokemon Crystal_058.gbs"
+    title: "Encounter! Sage"
+    type: warning
+  - id: dragons_den_crystal
+    path: "Pokemon Crystal_072.gbs"
+    title: "Dragon's Den"
+    type: warning
+  - id: mom
+    path: "Pokemon Crystal_077.gbs"
+    title: "Mom's Theme"
+    type: warning
+  - id: rockettower
+    path: "Pokemon Crystal_085.gbs"
+    title: "Goldenrod Radio Tower (Rocket)"
+    type: betting
+  - id: kimonogirls1
+    path: "Pokemon Crystal_086.gbs"
+    title: "Kimono Girls"
+    type: warning
+  - id: clair_crystal
+    path: "Pokemon Crystal_092.gbs"
+    title: "Clair's Theme"
+    type: warning
+  - id: bike
+    path: "Pokemon Crystal_018.gbs"
+    title: "Bicycle"
+    type: result
+  - id: hof
+    path: "Pokemon Crystal_019.gbs"
+    title: "Hall of Fame"
+    type: result
+  - id: kanto_trainer_win
+    path: "Pokemon Crystal_022.gbs"
+    title: "Victory! Kanto Trainer"
+    type: result
+  - id: pokemon_win
+    path: "Pokemon Crystal_023.gbs"
+    title: "Victory! Wild Pokémon"
+    type: result
+  - id: gymleader_win
+    path: "Pokemon Crystal_024.gbs"
+    title: "Victory! Gym Leader"
+    type: result
+  - id: credits
+    path: "Pokemon Crystal_035.gbs"
+    title: "Staff Roll"
+    type: result
+  - id: bug_prep
+    path: "Pokemon Crystal_087.gbs"
+    title: "Bug Catching Contest (Preparation)"
+    type: warning
+  - id: bug_contest
+    path: "Pokemon Crystal_088.gbs"
+    title: "Bug Catching Contest"
+    type: result
+  - id: mobile_gb
+    path: "Pokemon Crystal_093.gbs"
+    title: "Mobile Adapter GB"
+    type: betting
+  - id: kantogym
+    path: "Pokemon Crystal_005.gbs"
+    title: "Battle! Kanto Gym Leader"
+    type: battle
+  - id: kantotrainer
+    path: "Pokemon Crystal_006.gbs"
+    title: "Battle! Kanto Trainer"
+    type: battle
+  - id: kantowild
+    path: "Pokemon Crystal_007.gbs"
+    title: "Battle! Kanto Wild Pokémon"
+    type: battle
+  - id: johtowild_day
+    path: "Pokemon Crystal_040.gbs"
+    title: "Battle! Johto Wild Pokémon (Day)"
+    type: battle
+  - id: johtotrainer
+    path: "Pokemon Crystal_041.gbs"
+    title: "Battle! Johto Trainer"
+    type: battle
+  - id: champion
+    path: "Pokemon Crystal_046.gbs"
+    title: "Battle! Champion"
+    type: battle
+  - id: "47"
+    path: "Pokemon Crystal_047.gbs"
+    title: "Battle! Rival"
+    type: battle
+  - id: "48"
+    path: "Pokemon Crystal_048.gbs"
+    title: "Battle! Team Rocket"
+    type: battle
+#      - id: "75" #This plays the wrong song; This is actually Wild Pokemon Victory
+#        path: "Pokemon Crystal_075.gbs"
+#        title: "Battle! Johto Wild Pokémon (Night)"
+#        type: battle
+  - id: legendary_beasts
+    path: "Pokemon Crystal_099.gbs"
+    title: "Battle! Legendary Beasts"
+    type: battle
+...

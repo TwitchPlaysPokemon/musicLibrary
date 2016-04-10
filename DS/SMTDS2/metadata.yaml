@@ -1,0 +1,21 @@
+---
+id: smtds2
+title: "Shin Megami Tensei: Devil Survivor 2"
+series: shinmegamitensei
+platform: "NDS"
+year: 2011
+path: "DS/SMTDS2"
+songs:
+#      - id: akashic_record #Not tense and charged enough for the first 30 seconds, and that's too long for PBR. If someone were to make a BRSTM that sounded good that cut the first part out that would be awesome
+#        title: "Akashic Record"
+#        path: "SMTDS2 - Akashic Record.brstm"
+#        type: battle
+  - id: over_the_brink
+    title: "Over the Brink of Death"
+    path: "SMTDS2 - Over the Brink of Death.brstm"
+    type: result
+#      - id: world_admin
+#        title: "World Admin"
+#        path: "SMTDS2 - World Admin.brstm"
+#        type: warning #It's does sound warning-ish but only after the 30 second mark. Which wouldn't be heard. FailFish
+...

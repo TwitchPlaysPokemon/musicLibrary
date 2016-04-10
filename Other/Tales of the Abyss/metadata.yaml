@@ -1,0 +1,20 @@
+---
+id: tales_of_the_abyss
+title: "Tales of the Abyss"
+year: 2005
+platform: "PS2"
+path: "Other/Tales of the Abyss"
+songs:
+  - id: time_to_raise_the_cross
+    title: "Time to Raise the Cross"
+    path: "Time to Raise the Cross.brstm"
+    type: battle
+  - id: victory_tota
+    title: "Victory!"
+    path: "Victory!.brstm"
+    type: result
+  - id: awkward_justice
+    title: "Awkward Justice"
+    path: "Awkward Justice.brstm"
+    type: battle
+...

@@ -1,0 +1,13 @@
+---
+id: mega_man_2
+platform: "NES"
+title: "Mega Man 2"
+series: megaman
+year: 1988
+path: "Other/Mega Man 2"
+songs: 
+  - id: dr_wily_stage_1_2
+    path: "Dr. Wily Stage 1 & 2.brstm"
+    title: "Dr. Wily Stage 1 & 2"
+    type: warning
+...

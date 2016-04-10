@@ -1,0 +1,17 @@
+---
+id: metal_gear_solid
+title: "Metal Gear Solid"
+series: metalgear
+year: 1998
+platform: "PS1"
+path: "Other/Metal Gear Solid"
+songs:
+  - id: duel
+    title: "Duel"
+    path: "Duel.brstm"
+    type: warning
+  - id: encounter_mgs1
+    title: "Encounter"
+    path: "Encounter.brstm"
+    type: warning
+...

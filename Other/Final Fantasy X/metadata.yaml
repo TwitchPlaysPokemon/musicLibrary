@@ -1,0 +1,25 @@
+---
+id: final_fantasy_x
+platform: "PS2"
+title: "Final Fantasy X"
+series: finalfantasy
+year: 2002
+path: "Other/Final Fantasy X"
+songs: 
+      #- id: suteki_da_ne_isnt_it_wonderful_short_custom_loop
+      #  path: "Suteki Da Ne (Isn't It Wonderful_) [Short Custom Loop].brstm"
+      #  title: "Suteki Da Ne (Isn't It Wonderful?)"
+      #  type: betting
+  - id: seymour_battle
+    path: "Seymour Battle.brstm"
+    title: "Seymour Battle"
+    type: battle
+  - id: battle_theme_ffx
+    path: "Battle Theme.brstm"
+    title: "Battle Theme"
+    type: battle
+  - id: a_fleeting_dream
+    path: "A Fleeting Dream.brstm"
+    title: "A Fleeting Dream"
+    type: betting
+...

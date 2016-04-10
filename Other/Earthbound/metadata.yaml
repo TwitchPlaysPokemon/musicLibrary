@@ -1,0 +1,17 @@
+---
+id: earthbound
+platform: "SNES"
+title: "Earthbound"
+series: mother
+year: 1994
+path: "Other/Earthbound"
+songs: 
+  - id: snowman
+    path: "Snowman.brstm"
+    title: "Snowman"
+    type: betting
+  - id: ness_bike
+    path: "Ness' Bike.brstm"
+    title: "Ness' Bike"
+    type: warning
+...

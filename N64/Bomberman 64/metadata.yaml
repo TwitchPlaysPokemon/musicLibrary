@@ -1,0 +1,85 @@
+---
+id: bomberman_64
+title: "Bomberman 64"
+series: bomberman
+year: 1997
+platform: "N64"
+path: "N64/Bomberman 64"
+songs:
+  - id: sirius_1
+    title: "Sirius I"
+    path: "15 - Sirius I.miniusf"
+    type: battle
+  - id: altaile_1
+    title: "Altaile I"
+    path: "19 - Altaile I.miniusf"
+    type: battle
+  - id: sirius_2
+    title: "Sirius II"
+    path: "22 - Sirius II.miniusf"
+    type: battle
+  - id: green_garden_b64
+    title: "Green Garden"
+    path: "05 - Green Garden.miniusf"
+    type: betting
+  - id: blue_resort
+    title: "Blue Resort"
+    path: "06 - Blue Resort.miniusf"
+    type: betting
+  - id: red_mountain_b64
+    title: "Red Mountain"
+    path: "07 - Red Mountain.miniusf"
+    type: betting
+  - id: white_ice
+    title: "White Ice"
+    path: "08 - White Ice.miniusf"
+    type: betting
+  - id: black_city_b64
+    title: "Black City"
+    path: "09 - Black City.miniusf"
+    type: betting
+  - id: rainbow_palace
+    title: "Rainbow Palace"
+    path: "10 - Rainbow Palace.miniusf"
+    type: betting
+  - id: staff_roll_b64
+    title: "Staff Roll"
+    path: "26 - Staff Roll.miniusf"
+    type: result
+  - id: advertise_b64
+    title: "Advertise"
+    path: "01 - Advertise.miniusf"
+    type: warning
+  - id: opening_b64
+    title: "Opening"
+    path: "02 - Opening.miniusf"
+    type: warning
+  - id: stage_select_b64
+    title: "Stage Select"
+    path: "03 - Stage Select.miniusf"
+    type: warning
+  - id: continue_b64
+    title: "Continue"
+    path: "11 - Continue.miniusf"
+    type: warning
+  - id: masker_b64
+    title: "Masker"
+    path: "14 - Masker.miniusf"
+    type: battle
+  - id: boss_b64
+    title: "Boss Battle"
+    path: "17 - Boss Battle.miniusf"
+    type: battle
+  - id: altaile_2
+    title: "Altaile II"
+    path: "20 - Altaile II.miniusf"
+    type: warning
+  - id: terror_b64
+    title: "Terror"
+    path: "21 - Terror.miniusf"
+    type: warning
+  - id: sirius_3
+    title: "Sirius III"
+    path: "23 - Sirius III.miniusf"
+    type: warning
+...

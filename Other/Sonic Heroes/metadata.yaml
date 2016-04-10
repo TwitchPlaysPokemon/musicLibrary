@@ -1,0 +1,29 @@
+---
+id: sonic_heroes
+platform: "GCN"
+title: "Sonic Heroes"
+series: sonic
+year: 2004
+path: "Other/Sonic Heroes"
+songs: 
+  - id: boss_2
+    path: "Boss 2.brstm"
+    title: "Boss 2"
+    type: battle
+  - id: bingo_highway
+    path: "Bingo Highway.brstm"
+    title: "Bingo Highway"
+    type: battle
+  - id: egg_emperor
+    path: "Egg Emperor.brstm"
+    title: "Egg Emperor"
+    type: battle
+  - id: seaside_hill_zone
+    path: "Seaside Hill Zone.brstm"
+    title: "Seaside Hill Zone"
+    type: betting
+  - id: battle_4
+    path: "Battle 4.brstm"
+    title: "Battle 4"
+    type: warning
+...

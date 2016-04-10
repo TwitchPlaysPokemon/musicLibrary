@@ -1,0 +1,41 @@
+---
+id: donkey_kong_country_returns
+path: "Other/Donkey Kong Country Returns"
+title: "Donkey Kong Country Returns"
+series: donkeykong
+year: 2010
+platform: "Wii"
+songs:
+  - id: golden_temple
+    title: "Golden Temple"
+    path: "Golden Temple.brstm"
+    type: betting
+  - id: life_in_the_mines_returns
+    path: "Life in the Mines Returns.brstm"
+    title: "Life in the Mines Returns"
+    type: betting
+  - id: factory_switch_room
+    path: "Factory Switch Room.brstm"
+    title: "Factory Switch Room"
+    type: betting
+  - id: crankys_theme_dkcr
+    path: "Cranky's Theme.brstm"
+    title: "Cranky's Theme"
+    type: betting
+  - id: gear_getaway
+    path: "Gear Getaway.brstm"
+    title: "Gear Getaway"
+    type: betting
+  - id: sloppy_sands
+    path: "Sloppy Sands.brstm"
+    title: "Sloppy Sands"
+    type: betting
+  - id: music_madness
+    path: "Music Madness.brstm"
+    title: "Music Madness"
+    type: betting
+  - id: tidal_terror
+    path: "Tidal Terror.brstm"
+    title: "Tidal Terror"
+    type: betting
+...

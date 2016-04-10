@@ -1,0 +1,29 @@
+---
+id: mega_man_battle_network_4
+title: "Mega Man Battle Network 4"
+series: megaman
+year: 2003
+platform: "GBA"
+path: "GBA/Megaman Battle Network 4"
+songs:
+  - id: cyber_battle
+    title: "Cyber Battle"
+    path: "Cyber Battle.brstm"
+    type: battle
+#  - id: super_mario_bros
+#    title: "Super Mario Bros."
+#    series: mario
+#    year: 1985
+#    platform: "NES"
+#    path: "Other/Super Mario Bros"
+#    songs:
+#      - id: overworld
+#        title: "Overworld"
+#        path: "Overworld.brstm"
+#        type: betting
+#      - id: underwater
+#        title: "Underwater"
+#        path: "Underwater.brstm"
+#        type: betting
+# It's not funny. Removed for not fitting
+...

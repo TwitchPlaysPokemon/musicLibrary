@@ -1,0 +1,66 @@
+---
+id: custom_robo
+title: "Custom Robo"
+series: customrobo
+year: 2001
+platform: "GCN"
+path: "Other/Custom Robo"
+songs:
+  - id: aurora
+    title: "Aurora"
+    path: "Aurora.brstm"
+    type: warning
+  - id: frozen_game
+    title: "Frozen Game"
+    path: "Frozen Game.brstm"
+    type: battle
+  - id: lost_world
+    title: "Lost World"
+    path: "Lost World.brstm"
+    type: battle
+      #- id: samsara
+      #  title: "Samsara"
+      #  path: "Samsara.brstm"
+      #  type: result
+  - id: the_danger
+    title: "The Danger"
+    path: "The Danger.brstm"
+    type: battle
+  - id: panic_cube
+    title: "Panic Cube"
+    path: "Panic Cube.brstm"
+    type: battle
+  - id: love_lab
+    title: "Love Lab"
+    path: "Love Lab.brstm"
+    type: break
+  - id: love_lab_2
+    title: "Love Lab II"
+    path: "Love Lab II.brstm"
+    type: betting
+  - id: sleepy_boy
+    title: "Sleepy Boy"
+    path: "Sleepy Boy.brstm"
+    type: break
+  - id: steel_hearts
+    title: "Steel Hearts"
+    path: "Steel Hearts.brstm"
+    type: betting
+  - id: echoes_of_youth
+    title: "Echoes of Youth"
+    path: "Echoes of Youth.brstm"
+    type: betting
+  - id: rush_cr
+    title: "Rush!"
+    path: "Rush!.brstm"
+    type: betting
+#      - id: forest_of_nostalgia
+#        title: "Forest of Nostalgia"
+#        path: "Forest of Nostalgia.brstm"
+#        type: result
+# sad result song
+  - id: born_yesterday
+    title: "Born Yesterday"
+    path: "Born Yesterday.brstm"
+    type: warning
+...

@@ -1,0 +1,50 @@
+---
+id: earthworm_jim
+title: "Earthworm Jim: Special Edition"
+series: earthwormjim
+year: 1995
+platform: "SCD"
+path: "Other/Earthworm Jim"
+songs:
+#      - id: andy_asteroids
+#        title: "Andy Asteroids"
+#        path: "Andy Asteroids.brstm"
+#        type: battle
+# sorry, war on meme songs
+  - id: the_descent
+    title: "Buttville - The Descent"
+    path: "Buttville - The Descent.brstm"
+    type: betting
+  - id: queens_lair
+    title: "Buttville - The Queen's Lair"
+    path: "Buttville - The Queen's Lair.brstm"
+    type: betting
+  - id: down_tubes
+    title: "Down the Tubes"
+    path: "Down the Tubes.brstm"
+    type: betting
+  - id: petes_sake
+    title: "For Pete's Sake"
+    path: "For Pete's Sake.brstm"
+    type: betting
+  - id: new_junk_city
+    title: "New Junk City"
+    path: "New Junk City.brstm"
+    type: betting
+  - id: snot_a_problem
+    title: "Snot a Problem"
+    path: "Snot a Problem.brstm"
+    type: betting
+  - id: what_the_heck
+    title: "What the Heck"
+    path: "What the Heck.brstm"
+    type: warning
+  - id: options_ending_ejim
+    title: "Options (Ending)"
+    path: "Options (Ending).brstm"
+    type: result
+  - id: psycrow
+    title: "Psycrow"
+    path: "Psycrow.brstm"
+    type: result
+...

@@ -1,0 +1,50 @@
+---
+id: phoenix_wright_ace_attorney_justice_for_all
+platform: "NDS"
+title: "Phoenix Wright: Ace Attorney: Justice for All"
+series: aceattorney
+year: 2006
+path: "Other/Phoenix Wright_ Ace Attorney_ Justice for All"
+songs: 
+#      - id: reminiscence_steel_samurais_ballad
+#        path: "Reminiscence ~ Steel Samurai's Ballad.brstm"
+#        title: "Reminiscence ~ Steel Samurai's Ballad"
+#        type: result
+# sad result song
+  - id: psyche_lock
+    path: "Psyche Lock.brstm"
+    title: "Psyche Lock"
+    type: warning
+  - id: hotline_of_fate
+    path: "Hotline of Fate.brstm"
+    title: "Hotline of Fate"
+    type: warning
+  - id: great_revival_franziska_von_karma
+    path: "Great Revival ~ Franziska von Karma.brstm"
+    title: "Great Revival ~ Franziska von Karma"
+    type: result
+  - id: pursuit_cornered_variation
+    path: "Pursuit ~ Cornered (Variation).brstm"
+    title: "Pursuit ~ Cornered (Variation)"
+    type: warning
+  - id: courtroom_lounge_overture_again
+    path: "Courtroom Lounge ~ Overture Again.brstm"
+    title: "Courtroom Lounge ~ Overture Again"
+    type: betting
+  - id: announce_the_truth_2002
+    path: "Announce the Truth 2002.brstm"
+    title: "Announce the Truth 2002"
+    type: warning
+  - id: tachimi_-_circus
+    path: "Tachimi - Circus.brstm"
+    title: "Tachimi - Circus"
+    type: warning
+  - id: examination_allegro_2002
+    path: "Examination ~ Allegro 2002.brstm"
+    title: "Examination ~ Allegro 2002"
+    type: warning
+  - id: examination_moderate_2002
+    path: "Examination ~ Moderate 2002.brstm"
+    title: "Examination ~ Moderate 2002"
+    type: betting
+...

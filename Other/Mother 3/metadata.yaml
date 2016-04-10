@@ -1,0 +1,61 @@
+---
+id: mother_3
+title: "Mother 3"
+series: mother
+platform: "GBA"
+year: 2006
+path: "Other/Mother 3"
+songs:
+  - id: fire
+    path: "F-F-Fire!.brstm"
+    title: "F-F-Fire!"
+    type: warning
+  - id: dangerous_highway
+    path: "Dangerous Highway.brstm"
+    title: "Dangerous Highway"
+    type: betting
+  - id: hard_rain
+    path: "Hard Rain.brstm"
+    title: "Hard Rain"
+    type: betting
+  - id: unfounded_revenge
+    path: "Unfounded Revenge.brstm"
+    title: "Unfounded Revenge"
+    type: battle
+  - id: time_passage
+    path: "Time Passage.brstm"
+    title: "Time Passage"
+    type: result
+  - id: bothersome_guys
+    path: "Bothersome Guys.brstm"
+    title: "Bothersome Guys"
+    type: warning
+  - id: fate
+    title: "Fate"
+    path: "Fate.brstm"
+    type: betting
+  - id: fight_mecha_drago
+    title: "Fight with Mecha-Drago"
+    path: "Fight with Mecha-Drago.brstm"
+    type: battle
+  - id: fun_naming
+    title: "Fun Naming"
+    path: "Fun Naming.brstm"
+    type: betting
+  - id: mind_of_a_thief
+    title: "Mind of a Thief"
+    path: "Mind of a Thief.brstm"
+    type: betting
+  - id: natural_killer_cyborg
+    title: "Natural Killer Cyborg"
+    path: "Natural Killer Cyborg.brstm"
+    type: warning
+  - id: the_waters_great
+    title: "The Water's Great"
+    path: "The Water's Great.brstm"
+    type: result
+  - id: vs_ultimate_chimera
+    title: "Vs Ultimate Chimera"
+    path: "Vs Ultimate Chimera.brstm"
+    type: warning
+...

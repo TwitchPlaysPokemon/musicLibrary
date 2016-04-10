@@ -1,0 +1,33 @@
+---
+id: phoenix_wright_ace_attorney
+platform: "NDS"
+title: "Phoenix Wright: Ace Attorney"
+series: aceattorney
+year: 2001
+path: "Other/Phoenix Wright_ Ace Attorney"
+songs: 
+  - id: dick_gumshoe_its_detective_gumshoe
+    path: "Dick Gumshoe ~ It's Detective Gumshoe.brstm"
+    title: "Dick Gumshoe ~ It's Detective Gumshoe"
+    type: warning
+  - id: pursuit_cornered
+    path: "Pursuit ~ Cornered.brstm"
+    title: "Pursuit ~ Cornered"
+    type: warning
+  - id: pw1_wandering_detective
+    path: "Jake Marshall ~ Wandering Detective From the Wild West.brstm"
+    title: "Jake Marshall ~ Wandering Detective From the Wild West"
+    type: betting
+  - id: telling_the_truth_2001
+    path: "Telling the Truth 2001.brstm"
+    title: "Telling the Truth 2001"
+    type: warning
+  - id: recollection_elementary_school_trial
+    path: "Recollection ~ Elementary School Trial.brstm"
+    title: "Recollection ~ Elementary School Trial"
+    type: warning
+  - id: trial
+    path: "Trial.brstm"
+    title: "Trial"
+    type: betting
+...

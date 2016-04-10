@@ -1,0 +1,20 @@
+---
+id: tomodachi_life
+title: "Tomodachi Life"
+year: 2013
+platform: "3DS"
+path: "Other/Tomodachi Life"
+songs:
+  - id: map_-_day
+    title: "Map - Day"
+    path: "Map - Day.brstm"
+    type: break
+  - id: child_born
+    title: "Child Born"
+    path: "Child Born.brstm"
+    type: break
+  - id: save_screen
+    title: "Save Screen"
+    path: "Save Screen.brstm"
+    type: break
+...

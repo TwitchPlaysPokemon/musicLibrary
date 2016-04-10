@@ -1,0 +1,21 @@
+---
+id: dodonpachi_saidaioujou
+platform: "Arcade"
+title: "DoDonPachi SaiDaiOuJou"
+series: dodonpachi
+year: 2012
+path: "Other/DoDonPachi SaiDaiOuJou"
+songs: 
+  - id: chikara
+    path: "Chikara (Arrange) (Final Boss).brstm"
+    title: "Chikara (Arrange) (Final Boss)"
+    type: battle
+  - id: michi
+    path: "Michi (Arrange) (Stage 5).brstm"
+    title: "Michi (Arrange) (Stage 5)"
+    type: battle
+  - id: ran
+    path: "Ran (Arrange) (Stage 1).brstm"
+    title: "Ran (Arrange) (Stage 1)"
+    type: battle
+...

@@ -1,0 +1,97 @@
+---
+id: jazz_jackrabbit
+title: "Jazz Jackrabbit"
+series: jazzjackrabbit
+year: 1994
+platform: "DOS"
+path: "Other/Jazz Jackrabbit"
+songs:
+  - id: bonus_level_jrabbit
+    title: "Bonus Level"
+    path: "Bonus Level.brstm"
+    type: battle
+  - id: bloxonius
+    title: "Bloxonius"
+    path: "Bloxonius.brstm"
+    type: betting
+  - id: chrysilis
+    title: "Chrysilis"
+    path: "Chrysilis.brstm"
+    type: betting
+  - id: deserto
+    title: "Deserto"
+    path: "Deserto.brstm"
+    type: betting
+  - id: diamondus
+    title: "Diamondus"
+    path: "Diamondus.brstm"
+    type: betting
+  - id: industrius
+    title: "Industrius"
+    path: "Industrius.brstm"
+    type: betting
+  - id: jungrock
+    title: "Jungrock"
+    path: "Jungrock.brstm"
+    type: betting
+  - id: marbelara
+    title: "Marbelara"
+    path: "Marbelara.brstm"
+    type: betting
+  - id: megairbase
+    title: "Megairbase"
+    path: "Megairbase.brstm"
+    type: betting
+  - id: muckamok
+    title: "Muckamok"
+    path: "Muckamok.brstm"
+    type: betting
+  - id: nippius
+    title: "Nippius"
+    path: "Nippius.brstm"
+    type: betting
+  - id: orbitus
+    title: "Orbitus"
+    path: "Orbitus.brstm"
+    type: betting
+  - id: pezrock_ceramicus
+    title: "Pezrock, Ceramicus"
+    path: "Pezrock, Ceramicus.brstm"
+    type: betting
+  - id: raneforus
+    title: "Raneforus"
+    path: "Raneforus.brstm"
+    type: betting
+  - id: scraparap
+    title: "Scraparap"
+    path: "Scraparap.brstm"
+    type: betting
+  - id: sluggion
+    title: "Sluggion"
+    path: "Sluggion.brstm"
+    type: betting
+  - id: stonar
+    title: "Stonar"
+    path: "Stonar.brstm"
+    type: betting
+  - id: technoir
+    title: "Technoir"
+    path: "Technoir.brstm"
+    type: betting
+  - id: tubelectric
+    title: "Tubelectric"
+    path: "Tubelectric.brstm"
+    type: betting
+  - id: deckstar
+    title: "Deckstar"
+    path: "Deckstar.brstm"
+    type: result
+  - id: title_screen_jrabbit
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: guardian_boss_battle
+    title: "Guardian (Boss Battle)"
+    path: "Guardian (Boss Battle).brstm"
+    type: warning
+...

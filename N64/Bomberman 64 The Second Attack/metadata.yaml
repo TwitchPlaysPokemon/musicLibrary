@@ -1,0 +1,217 @@
+---
+id: bomberman_64_the_second_attack
+title: "Bomberman 64: The Second Attack"
+series: bomberman
+year: 1999
+platform: "N64"
+path: "N64/Bomberman 64 The Second Attack"
+songs:
+  - id: astral_knight_battle
+    title: "Astral Knight Battle"
+    path: "08 - Astral Knight Battle.miniusf"
+    type: battle
+  - id: mihaele_battle
+    title: "Mihaele Battle"
+    path: "34 - Mihaele Battle.miniusf"
+    type: battle
+  - id: rukifellth_battle
+    title: "Rukifellth Battle"
+    path: "36 - Rukifellth Battle.miniusf"
+    type: battle
+  - id: sthertoth_battle
+    title: "Sthertoth Battle"
+    path: "38 - Sthertoth Battle.miniusf"
+    type: battle
+  - id: angel_of_light_and_shadow_battle
+    title: "Angel of Light and Shadow Battle"
+    path: "40 - Angel of Light and Shadow Battle.miniusf"
+    type: battle
+  - id: lost_planet_alcatraz
+    title: "Lost Planet Alcatraz"
+    path: "06 - Lost Planet Alcatraz.miniusf"
+    type: betting
+  - id: lost_planet_alcatraz_2nd_mix
+    title: "Lost Planet Alcatraz 2nd Mix"
+    path: "10 - Lost Planet Alcatraz 2nd Mix.miniusf"
+    type: betting
+  - id: merchant_ship_frontier
+    title: "Merchant Ship Frontier"
+    path: "16 - Merchant Ship Frontier.miniusf"
+    type: betting
+  - id: ocean_planet_aquanet
+    title: "Ocean Planet Aquanet"
+    path: "17 - Ocean Planet Aquanet.miniusf"
+    type: betting
+  - id: ocean_planet_aquanet_2nd_mix
+    title: "Ocean Planet Aquanet 2nd Mix"
+    path: "20 - Ocean Planet Aquanet 2nd Mix.miniusf"
+    type: betting
+  - id: sky_planet_horizon
+    title: "Sky Planet Horizon"
+    path: "21 - Sky Planet Horizon.miniusf"
+    type: betting
+  - id: sky_planet_horizon_2nd_mix
+    title: "Sky Planet Horizon 2nd Mix"
+    path: "22 - Sky Planet Horizon 2nd Mix.miniusf"
+    type: betting
+  - id: game_planet_starlight
+    title: "Game Planet Starlight"
+    path: "23 - Game Planet Starlight.miniusf"
+    type: betting
+  - id: game_planet_starlight_2nd_mix
+    title: "Game Planet Starlight 2nd Mix"
+    path: "25 - Game Planet Starlight 2nd Mix.miniusf"
+    type: betting
+  - id: nature_planet_neverland
+    title: "Nature Planet Neverland"
+    path: "26 - Nature Planet Neverland.miniusf"
+    type: betting
+  - id: nature_planet_neverland_2nd_mix
+    title: "Nature Planet Neverland 2nd Mix"
+    path: "27 - Nature Planet Neverland 2nd Mix.miniusf"
+    type: betting
+  - id: amusement_planet_epikyur
+    title: "Amusement Planet Epikyur"
+    path: "28 - Amusement Planet Epikyur.miniusf"
+    type: betting
+  - id: haunted_house_b64tsa
+    title: "Haunted House"
+    path: "29 - Haunted House.miniusf"
+    type: betting
+  - id: prison_planet_thantos
+    title: "Prison Planet Thantos"
+    path: "30 - Prison Planet Thantos.miniusf"
+    type: betting
+  - id: prison_planet_thantos_2nd_mix
+    title: "Prison Planet Thantos 2nd Mix"
+    path: "31 - Prison Planet Thantos 2nd Mix.miniusf"
+    type: betting
+  - id: aboard_the_warship_noah
+    title: "Aboard the Warship Noah"
+    path: "32 - Aboard the Warship Noah.miniusf"
+    type: betting
+  - id: survival_b64tsa
+    title: "Survival"
+    path: "46 - Survival.miniusf"
+    type: betting
+  - id: battle_royal_b64tsa
+    title: "Battle Royal"
+    path: "48 - Battle Royal.miniusf"
+    type: betting
+  - id: king_&_knights
+    title: "King & Knights"
+    path: "50 - King & Knights.miniusf"
+    type: betting
+  - id: key_trial_b64tsa
+    title: "Key Trial"
+    path: "52 - Key Trial.miniusf"
+    type: betting
+  - id: score_attack_b64tsa
+    title: "Score Attack"
+    path: "54 - Score Attack.miniusf"
+    type: betting
+  - id: held_captive
+    title: "Held Captive"
+    path: "04 - Held Captive.miniusf"
+    type: break
+  - id: planet_select
+    title: "Planet Select"
+    path: "15 - Planet Select.miniusf"
+    type: break
+  - id: tutorial_b64tsa
+    title: "Tutorial"
+    path: "60 - Tutorial.miniusf"
+    type: break
+#      - id: pommy_intro
+#        title: "Pommy Intro"
+#        path: "05 - Pommy Intro.miniusf"
+#        type: result
+#      - id: lilith
+#        title: "Lilith"
+#        path: "09 - Lilith.miniusf"
+#        type: result
+#      - id: gravity_generator_destroyed
+#        title: "Gravity Generator Destroyed"
+#        path: "13 - Gravity Generator Destroyed.miniusf"
+#        type: result
+# unfitting result song
+  - id: pommy_evolves
+    title: "Pommy Evolves"
+    path: "18 - Pommy Evolves.miniusf"
+    type: result
+#      - id: mihaeles_avatar
+#        title: "Mihaele's Avatar"
+#        path: "24 - Mihaele's Avatar.miniusf"
+#        type: result
+# unfitting result song
+  - id: after_the_final_battle
+    title: "After the Final Battle"
+    path: "41 - After the Final Battle.miniusf"
+    type: result
+#      - id: reunions_and_farewells
+#        title: "Reunions and Farewells"
+#        path: "42 - Reunions and Farewells.miniusf"
+#        type: result
+# unfitting result song
+  - id: off_to_new_adventures_-_game_credits
+    title: "Off to New Adventures - Game Credits"
+    path: "43 - Off to New Adventures - Game Credits.miniusf"
+    type: result
+#      - id: game_over_b64tsa
+#        title: "Game Over"
+#        path: "44 - Game Over.miniusf"
+#        type: result
+# unfitting result song
+  - id: battle_mode_victory
+    title: "Battle Mode Victory"
+    path: "58 - Battle Mode Victory.miniusf"
+    type: result
+  - id: astral_knight_intro
+    title: "Astral Knight Intro"
+    path: "07 - Astral Knight Intro.miniusf"
+    type: warning
+  - id: destroy_the_gravity_generator
+    title: "Destroy the Gravity Generator"
+    path: "12 - Destroy the Gravity Generator.miniusf"
+    type: warning
+  - id: warship_noah_command_center
+    title: "Warship Noah Command Center"
+    path: "14 - Warship Noah Command Center.miniusf"
+    type: warning
+  - id: mihaeles_appeal
+    title: "Mihaele's Appeal"
+    path: "33 - Mihaele's Appeal.miniusf"
+    type: warning
+  - id: confronting_rukifelth
+    title: "Confronting Rukifelth"
+    path: "35 - Confronting Rukifelth.miniusf"
+    type: warning
+  - id: summoning_the_celestial_elemental
+    title: "Summoning the Celestial Elemental"
+    path: "37 - Summoning the Celestial Elemental.miniusf"
+    type: warning
+  - id: revelation
+    title: "Revelation"
+    path: "39 - Revelation.miniusf"
+    type: warning
+  - id: survival_-_hurry_up
+    title: "Survival - Hurry Up"
+    path: "47 - Survival - Hurry Up.miniusf"
+    type: warning
+  - id: battle_royal_-_hurry_up
+    title: "Battle Royal - Hurry Up"
+    path: "49 - Battle Royal - Hurry Up.miniusf"
+    type: warning
+  - id: king_&_knights_-_hurry_up
+    title: "King & Knights - Hurry Up"
+    path: "51 - King & Knights - Hurry Up.miniusf"
+    type: warning
+  - id: key_trial_-_hurry_up
+    title: "Key Trial - Hurry Up"
+    path: "53 - Key Trial - Hurry Up.miniusf"
+    type: warning
+  - id: score_attack_-_hurry_up
+    title: "Score Attack - Hurry Up"
+    path: "55 - Score Attack - Hurry Up.miniusf"
+    type: warning
+...

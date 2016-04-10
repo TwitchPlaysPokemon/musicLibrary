@@ -1,0 +1,17 @@
+---
+id: mega_man_3
+platform: "NES"
+title: "Mega Man 3"
+series: megaman
+year: 1990
+path: "Other/Mega Man 3"
+songs: 
+  - id: sparkman_stage
+    path: "Sparkman Stage.brstm"
+    title: "Spark Man"
+    type: betting
+  - id: needleman_stage
+    path: "Needleman Stage.brstm"
+    title: "Needle Man"
+    type: betting # why was this warning?
+...

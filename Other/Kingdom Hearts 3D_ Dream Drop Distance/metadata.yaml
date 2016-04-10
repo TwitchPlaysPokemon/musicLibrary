@@ -1,0 +1,57 @@
+---
+id: kingdom_hearts_3d_dream_drop_distance
+title: "Kingdom Hearts 3D: Dream Drop Distance"
+series: kingdomhearts
+year: 2012
+platform: "3DS"
+path: "Other/Kingdom Hearts 3D_ Dream Drop Distance"
+songs:
+  - id: xehanort_-the_early_years-
+    title: "Xehanort -The Early Years-"
+    path: "Xehanort -The Early Years-.brstm"
+    type: warning
+  - id: victor's_pride
+    title: "Victor's Pride"
+    path: "Victor's Pride.brstm"
+    type: result
+  - id: untamable
+    title: "Untamable"
+    path: "Untamable.brstm"
+    type: warning
+  - id: the_world_of_dream_drops
+    title: "The World of Dream Drops"
+    path: "The World of Dream Drops.brstm"
+    type: break
+  - id: the_fun_fair
+    title: "The Fun Fair"
+    path: "The Fun Fair.brstm"
+    type: betting
+  - id: prankster's_party
+    title: "Prankster's Party"
+    path: "Prankster's Party.brstm"
+    type: warning
+  - id: one_for_all
+    title: "One for All"
+    path: "One for All.brstm"
+    type: betting
+  - id: majestic_wings
+    title: "Majestic Wings"
+    path: "Majestic Wings.brstm"
+    type: betting
+  - id: la_cloche
+    title: "La Cloche"
+    path: "La Cloche.brstm"
+    type: betting
+  - id: l'impeto_oscuro
+    title: "L'Impeto Oscuro"
+    path: "L'Impeto Oscuro.brstm"
+    type: battle
+  - id: campaign_quiz_track_02
+    title: "Campaign Quiz Track 02"
+    path: "Campaign Quiz Track 02.brstm"
+    type: result
+  - id: all_for_one
+    title: "All for One"
+    path: "All for One.brstm"
+    type: betting
+...

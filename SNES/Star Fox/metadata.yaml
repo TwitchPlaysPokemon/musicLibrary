@@ -1,0 +1,73 @@
+---
+id: star_fox
+title: "Star Fox"
+series: starfox
+year: 1993
+platform: "SNES"
+path: "SNES/Star Fox"
+songs:
+#      - id: corneria
+#        title: "Corneria"
+#        path: "109 Corneria.spc"
+#        type: battle #Same song with better soundfont in smash bros.
+  - id: opening_sfsnes
+    title: "Opening Sequence"
+    path: "104 Title Demonstration.spc"
+    type: warning
+#      - id: titania
+#        title: "Titania"
+#        path: "111 Titania.spc"
+#        type: betting #WutFace
+#      - id: Astroid
+#        title: "Asteroid"
+#        path: "114 Asteroid & Venom Orbital.spc"
+#        type: battle #Does not fit
+  - id: space_armada
+    title: "Space Armada"
+    path: "115 Space Armada.spc"
+    type: warning
+  - id: venom_base2
+    title: "Venom Base (Level 2)"
+    path: "116 Venom Base (Level 2).spc"
+    type: betting
+  - id: sector_y
+    title: "Sector Y"
+    path: "118 Sector Y.spc"
+    type: warning
+  - id: venom_base1
+    title: "Venom Base (Levels 1 & 3)"
+    path: "119 Venom Base (Level 1 & 3).spc"
+    type: warning
+#      - id: corneria_boss
+#        title: "Boss (Corneria)"
+#        path: "120a Boss (Corneria).spc"
+#        type: battle #Not tense and charged enough
+#      - id: fortuna_boss
+#        title: "Boss (Fortuna)"
+#        path: "121 Boss (Fortuna).spc"
+#        type: warning #Borderline doesn't fit
+  - id: titania_boss
+    title: "Boss (Titania)"
+    path: "123 Boss (Titania).spc"
+    type: betting
+  - id: clear_band
+    title: "Course Clear (Band)"
+    path: "132 Course Clear (Band).spc"
+    type: result
+#  - id: star_fox_2
+#    title: "Star Fox 2"
+#    series: starfox
+#    year: "Unreleased"
+#    platform: "SNES"
+#    path: "SNES/Star Fox 2 (Unreleased)"
+#    songs:
+#      - id: title
+#        title: "Title"
+#        path: "Title.brstm"
+#        type: result
+#      - id: surprise_attack_(star_wolf)
+#        title: "Surprise Attack (Star Wolf)"
+#        path: "Surprise Attack (Star Wolf).brstm"
+#        type: warning
+# added but disabled for now, low quality BRSTMs and no spc rips available
+...

@@ -1,0 +1,17 @@
+---
+id: metroid
+title: "Metroid"
+series: metroid
+platform: "NES"
+year: 1987
+path: "Other/Metroid"
+songs:
+  - id: item_room_ambience
+    title: "Item Room Ambience"
+    path: "Item Room Ambience.brstm"
+    type: warning
+  - id: mother_brain
+    title: "Mother Brain"
+    path: "Mother Brain.brstm"
+    type: warning
+...

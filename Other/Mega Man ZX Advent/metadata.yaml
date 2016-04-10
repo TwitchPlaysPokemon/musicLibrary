@@ -1,0 +1,25 @@
+---
+id: mega_man_zx_advent
+title: "Mega Man ZX Advent"
+series: megaman
+platform: "NDS"
+year: 2007
+path: "Other/Mega Man ZX Advent"
+songs:
+  - id: bullet_drive_legion_hq
+    title: "Bullet Drive (Legion HQ)"
+    path: "Bullet Drive (Legion HQ).brstm"
+    type: battle
+  - id: destiny_mysterious_lab_1
+    title: "Destiny (Mysterious Lab 1)"
+    path: "Destiny (Mysterious Lab 1).brstm"
+    type: battle
+  - id: overloaded
+    title: "Overloaded"
+    path: "Overloaded.brstm"
+    type: battle
+  - id: path_to_the_truth_undersea_volcano
+    title: "Path to the Truth (Undersea Volcano)"
+    path: "Path to the Truth (Undersea Volcano).brstm"
+    type: betting
+...

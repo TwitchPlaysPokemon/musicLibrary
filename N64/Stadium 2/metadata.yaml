@@ -1,0 +1,33 @@
+---
+id: pokemon_stadium_2
+title: "Pokémon Stadium 2"
+series: pokemon
+platform: "N64"
+year: 2001
+path: "N64/Stadium 2"
+songs:
+  - id: battle_prep
+    title: "Battle Preparation"
+    path: "Battle Preparation.brstm"
+    type: warning
+  - id: gutsy_golbat
+    title: "Gutsy Golbat"
+    path: "Gusty Golbat.brstm"
+    type: warning
+  - id: quiz
+    title: "Quiz"
+    path: "Quiz.brstm"
+    type: betting
+  - id: tumbling_togepi
+    title: "Tumbling Togepi"
+    path: "Tumbling Togepi.brstm"
+    type: warning
+  - id: vs_theme
+    title: "Versus Theme"
+    path: "Versus Theme.brstm"
+    type: warning
+  - id: victory_stadium_2
+    title: "Victory Theme"
+    path: "Victory.brstm"
+    type: result
+...

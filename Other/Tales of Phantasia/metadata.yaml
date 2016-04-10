@@ -1,0 +1,17 @@
+---
+id: tales_of_phantasia
+title: "Tales of Phantasia"
+platform: "SNES"
+year: 1995
+path: "Other/Tales of Phantasia"
+songs:
+#      - id: fighting_of_the_spirit_(ssh_remix)
+#        title: "Fighting of the Spirit (SSH Remix)"
+#        path: "Fighting of the Spirit (SSH Remix).brstm"
+#        type: battle
+# no fan remixes allowed, even if its good
+  - id: morlia_gallery
+    path: "Morlia Gallery.brstm"
+    title: "Morlia Gallery"
+    type: betting
+...

@@ -1,0 +1,45 @@
+---
+id: awds
+platform: "NDS"
+title: "Advance Wars: Dual Strike"
+series: advancewars
+year: 2005
+path: "Other/Advance Wars Dual Strike"
+songs: 
+#      - id: power
+#        path: "Power!.brstm"
+#        title: "Power!"
+#        type: result #Does not fit
+#      - id: super_co_power
+#        path: "Super CO Power.brstm"
+#        title: "Super CO Power"
+#        type: result #Does not fit
+#      - id: tag_power
+#        path: "Tag Power!.brstm"
+#        title: "Tag Power!"
+#        type: result #Does not fit
+#      - id: black_hole_power
+#        path: "Black Hole Power!.brstm"
+#        title: "Black Hole Power!"
+#        type: warning #Borderline WutFace
+  - id: black_hole_super_co_power
+    path: "Black Hole Super CO Power.brstm"
+    title: "Black Hole Super CO Power"
+    type: warning
+  - id: black_hole_tag_power
+    path: "Black Hole Tag Power!.brstm"
+    title: "Black Hole Tag Power!"
+    type: warning
+  - id: mode_select
+    path: "Mode Select.brstm"
+    title: "Mode Select"
+    type: betting
+  - id: dangerous_mission
+    path: "Dangerous Mission!.brstm"
+    title: "Dangerous Mission!"
+    type: warning
+  - id: dark_terror
+    path: "Dark Terror.brstm"
+    title: "Dark Terror"
+    type: warning
+...

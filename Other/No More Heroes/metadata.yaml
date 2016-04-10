@@ -1,0 +1,84 @@
+---
+id: no_more_heroes
+platform: "Wii"
+title: "No More Heroes"
+year: 2007
+path: "Other/No More Heroes"
+songs: 
+  - id: nmh_ost_version
+    path: "N.M.H. (OST Version).brstm"
+    title: "N.M.H. (OST Version)"
+    type: betting
+#      - id: pleather_for_breakfast
+#        path: "Pleather for Breakfast.brstm"
+#        title: "Pleather for Breakfast"
+#        type: battle #Borderline not tense and charged enough
+  - id: rank_up
+    path: "Rank Up ~ First Place!.brstm"
+    title: "Rank Up ~ First Place!"
+    type: result
+  - id: we_are_finally_cowboys
+    path: "We Are Finally Cowboys.brstm"
+    title: "We Are Finally Cowboys"
+    type: battle
+  - id: blaster_nation
+    path: "Blaster Nation.brstm"
+    title: "Blaster Nation"
+    type: betting
+  - id: dynamite_rider
+    path: "Dynamite Rider.brstm"
+    title: "Dynamite Rider"
+    type: battle
+  - id: cashmere_cannonball
+    path: "Cashmere Cannonball.brstm"
+    title: "Cashmere Cannonball"
+    type: betting
+  - id: dnd_do_not_destroy
+    path: "DND (Do Not Destroy).brstm"
+    title: "DND (Do Not Destroy)"
+    type: betting
+  - id: heat_in_your_heart
+    path: "Heat in Your Heart.brstm"
+    title: "Heat in Your Heart"
+    type: result
+  - id: kent
+    path: "K-ENT..brstm"
+    title: "K-ENT"
+    type: betting
+  - id: mach_13_elephant_explosion
+    path: "Mach 13 Elephant Explosion.brstm"
+    title: "Mach 13 Elephant Explosion"
+    type: battle
+  - id: oxygen_graffiti
+    path: "Oxygen Graffiti.brstm"
+    title: "Oxygen Graffiti"
+    type: betting
+  - id: piranhas_in_the_air
+    path: "Piranhas in the Air.brstm"
+    title: "Piranhas in the Air"
+    type: battle
+  - id: rocket_surgeon
+    path: "Rocket Surgeon.brstm"
+    title: "Rocket Surgeon"
+    type: battle
+  - id: samurai_summer
+    path: "Samurai Summer.brstm"
+    title: "Samurai Summer"
+    type: battle
+  - id: stop_hanging_djs
+    path: "Stop Hanging DJs.brstm"
+    title: "Stop Hanging DJs"
+    type: battle
+  - id: sun_on_the_ceiling
+    path: "Sun on the Ceiling.brstm"
+    title: "Sun on the Ceiling"
+    type: betting
+  - id: vioectrolysis
+    path: "Vioectrolysis.brstm"
+    title: "Vioectrolysis"
+    type: betting
+  - id: zako_3
+    path: "No_More_Heroes-Zako3.brstm"
+    title: "Zako 3"
+    type: betting
+...

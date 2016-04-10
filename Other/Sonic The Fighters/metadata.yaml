@@ -1,0 +1,130 @@
+---
+id: sonic_the_fighters
+title: "Sonic The Fighters"
+series: sonic
+year: 1996
+platform: "Arcade"
+path: "Other/Sonic The Fighters"
+songs:
+  - id: giant_wing_fire_stone
+    title: "Giant Wing ~ Fire Stone"
+    path: "Giant Wing ~ Fire Stone.brstm"
+    type: battle
+  - id: advertise_kiyo
+    title: "Advertise ~ K.I.Y.O."
+    path: "Advertise ~ K.I.Y.O..brstm"
+    type: warning
+  - id: get_into_the_wave
+    title: "Character Select ~ Get Into the Wave"
+    path: "Character Select ~ Get Into the Wave.brstm"
+    type: warning # haunted? wont get off of betting
+  - id: death_egg_hurry_up
+    title: "Death Egg Hanger ~ Hurry Up"
+    path: "Death Egg Hanger ~ Hurry Up.brstm"
+    type: warning
+#  - id: sonic_rush
+#    title: "Sonic Rush"
+#    series: sonic
+#    platform: "NDS"
+#    year: 2005
+#    path: "Other/sr"
+#    songs:
+#      - id: a_new_day
+#        title: "A New Day"
+#        path: "A New Day.brstm"
+#        type: betting #Lyrics at 15 seconds in are distracting; borderline does not fit
+#      - id: back_2_back
+#        title: "Back 2 Back"
+#        path: "Back 2 Back.brstm"
+#        type: betting #Lyrics are super-distracting; does not fit
+#      - id: bomber_barbara
+#        title: "Bomber Barbara"
+#        path: "Bomber Barbara.brstm"
+#        type: battle
+#      - id: jeh_jeh_rocket
+#        title: "Jeh Jeh Rocket"
+#        path: "Jeh Jeh Rocket.brstm"
+#        type: betting #Does not fit; WutFace
+#      - id: metal_scratchin
+#        title: "Metal Scratchin'"
+#        path: "Metal Scratchin'.brstm"
+#        type: battle #Does not fit; lyrics in battle
+#      - id: right_there_ride_on
+#        title: "Right There, Ride On"
+#        path: "Right There, Ride On.brstm"
+#        type: betting #After 15 second mark, doesn't fit
+#      - id: vela_nova
+#        title: "Vela-Nova"
+#        path: "Vela-Nova.brstm"
+#        type: battle #Doesn't fit
+#      - id: what_u_need
+#        title: "What U Need"
+#        path: "What U Need.brstm"
+#        type: betting
+#      - id: wrapped_in_black
+#        title: "Wrapped In Black"
+#        path: "Wrapped In Black.brstm"
+#        type: battle
+#  - id: splatoon
+#    title: "Splatoon"
+#    platform: "Wii U"
+#    year: 2015
+#    path: "Other/spln"
+#    songs:
+#      - id: boss
+#        title: "Boss"
+#        path: "Boss (Phase 3).brstm"
+#        type: battle #Squiddy lyrics
+#      - id: final_1
+#        title: "Final Boss (DJ Octavio)"
+#        path: "Final Boss (Phase 1).brstm"
+#        type: battle #Lyrics, but this is the least bad offender.
+#      - id: final_2
+#        title: "Final Boss (Squid Sisters)"
+#        path: "Final Boss (Phase 2).brstm"
+#        type: battle #Squiddy lyrics
+#      - id: lobby
+#        title: "Lobby"
+#        path: "Lobby.brstm"
+#        type: betting #Lyrics that distract too much
+#      - id: plaza_1
+#        title: "Plaza (Day)"
+#        path: "Plaza - Day.brstm"
+#        type: betting #Too short a loop; it's literally 16 seconds long
+#      - id: plaza_2
+#        title: "Plaza (Night)"
+#        path: "Plaza - Night (Vocals).brstm"
+#        type: betting  #The non-vocal version of this is actually decent
+#      - id: vs_1
+#        title: "Splattack!"
+#        path: "Splattack!.brstm"
+#        type: battle #Lyrics, not tense and charged enough
+#      - id: credits
+#        title: "Staff Roll"
+#        path: "Staff Roll.brstm"
+#        type: betting
+#      - id: vs_2
+#        title: "VS (02)"
+#        path: "VS (02).brstm"
+#        type: battle #Lyrics; doesn't sound good
+#      - id: vs_3
+#        title: "VS (03)"
+#        path: "VS (03).brstm"
+#        type: battle #Lyrics; not tense and charged enough
+#      - id: vs_4
+#        title: "VS (04)"
+#        path: "VS (04).brstm"
+#        type: battle #Lyrics; not tense and charged enough
+#      - id: vs_5
+#        title: "VS (05)"
+#        path: "VS (05).brstm"
+#        type: battle #Lyrics; doesn't sound good
+#      - id: vs_lm
+#        title: "VS (Last Minute)"
+#        path: "VS (Last Minute) Custom Loop.brstm"
+#        type: battle #Lyrics; Too high-pitched
+#      - id: vs_splatfest
+#        title: "VS (Splatfest)"
+#        path: "VS (Splatfest).brstm"
+#        type: betting
+...

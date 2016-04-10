@@ -1,0 +1,21 @@
+---
+id: kingdom_hearts_birth_by_sleep
+title: "Kingdom Hearts: Birth By Sleep"
+series: kingdomhearts
+year: 2010
+platform: "PSP"
+path: "Other/Kingdom Hearts_ Birth By Sleep"
+songs:
+  - id: black_powder
+    title: "Black Powder"
+    path: "Black Powder.brstm"
+    type: battle
+  - id: terra
+    title: "Terra"
+    path: "Terra.brstm"
+    type: warning
+  - id: a_date_with_fate
+    title: "A Date with Fate"
+    path: "A Date with Fate.brstm"
+    type: betting
+...

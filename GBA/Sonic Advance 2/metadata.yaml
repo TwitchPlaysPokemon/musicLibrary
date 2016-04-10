@@ -1,0 +1,74 @@
+---
+id: sonic_advance_2
+title: "Sonic Advance 2"
+series: sonic
+year: 2002
+platform: "GBA"
+path: "GBA/Sonic Advance 2"
+songs:
+  - id: knuckles_boss
+    title: "Knuckles Boss"
+    path: "Knuckles Boss.minigsf"
+    type: battle
+  - id: egg_utopia_act_2
+    title: "Egg Utopia Act 2"
+    path: "Egg Utopia Act 2.minigsf"
+    type: warning
+#      - id: final_zone_xx
+#        title: "Final Zone XX"
+#        path: "Final Zone XX.minigsf"
+#        type: betting
+# fits a final_betting more better, if such a thing existed
+  - id: hot_crater_act_2
+    title: "Hot Crater Act 2"
+    path: "Hot Crater Act 2.minigsf"
+    type: betting
+  - id: ice_paradise_act_1
+    title: "Ice Paradise Act 1"
+    path: "Ice Paradise Act 1.minigsf"
+    type: betting
+  - id: leaf_forest_act_1
+    title: "Leaf Forest Act 1"
+    path: "Leaf Forest Act 1.minigsf"
+    type: betting
+  - id: music_plant_act_2
+    title: "Music Plant Act 2"
+    path: "Music Plant Act 2.minigsf"
+    type: betting
+  - id: options_sadv2
+    title: "Options"
+    path: "Options.minigsf"
+    type: break
+  - id: sky_canyon_act_2
+    title: "Sky Canyon Act 2"
+    path: "Sky Canyon Act 2.minigsf"
+    type: betting
+  - id: techno_base_act_1
+    title: "Techno Base Act 1"
+    path: "Techno Base Act 1.minigsf"
+    type: betting
+  - id: staff_roll
+    title: "Staff Roll"
+    path: "Staff Roll.minigsf"
+    type: result
+  - id: boss_sadv2
+    title: "Boss"
+    path: "Boss.minigsf"
+    type: warning
+  - id: extra_ending
+    title: "Extra Ending"
+    path: "Extra Ending.minigsf"
+    type: warning
+  - id: extra_zone
+    title: "Extra Zone"
+    path: "Extra Zone.minigsf"
+    type: warning
+  - id: final_boss_sadv2
+    title: "Final Boss"
+    path: "Final Boss.minigsf"
+    type: warning
+  - id: 7_boss
+    title: "7 Boss"
+    path: "7 Boss.minigsf"
+    type: warning
+...

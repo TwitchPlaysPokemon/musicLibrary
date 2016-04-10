@@ -1,0 +1,25 @@
+---
+id: pokemon_platinum
+platform: "NDS"
+title: "Pokémon Platinum"
+series: pokemon
+year: 2008
+path: "NDS/Pokemon Platinum"
+songs: 
+  - id: global_terminal
+    path: "Global Terminal.brstm"
+    title: "Global Terminal"
+    type: betting
+  - id: resort_area_audio_system
+    path: "Resort Area - Audio System.brstm"
+    title: "Resort Area - Audio System"
+    type: betting
+  - id: battle_hall
+    path: "Battle Hall.brstm"
+    title: "Battle Hall"
+    type: betting
+  - id: frontier_brain_defeated
+    path: "Frontier Brain Defeated.brstm"
+    title: "Frontier Brain Defeated"
+    type: result
+...

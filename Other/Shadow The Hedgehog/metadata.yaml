@@ -1,0 +1,94 @@
+---
+id: shadow_the_hedgehog
+title: "Shadow The Hedgehog"
+series: sonic
+year: 2005
+platform: "GCN"
+path: "Other/Shadow The Hedgehog"
+songs:
+  - id: battle_mode
+    title: "Battle Mode"
+    path: "Battle Mode.brstm"
+    type: battle
+  - id: black_doom
+    title: "Black Doom"
+    path: "Black Doom.brstm"
+    type: battle
+  - id: blue_falcon
+    title: "Blue Falcon"
+    path: "Blue Falcon.brstm"
+    type: battle
+  - id: egg_dealer
+    title: "Egg Dealer"
+    path: "Egg Dealer.brstm"
+    type: battle
+  - id: black_comet
+    title: "Black Comet"
+    path: "Black Comet.brstm"
+    type: betting
+  - id: central_city
+    title: "Central City"
+    path: "Central City.brstm"
+    type: betting
+  - id: circus_park
+    title: "Circus Park"
+    path: "Circus Park.brstm"
+    type: betting
+  - id: cryptic_castle
+    title: "Cryptic Castle"
+    path: "Cryptic Castle.brstm"
+    type: betting
+  - id: final_haunt
+    title: "Final Haunt"
+    path: "Final Haunt.brstm"
+    type: betting
+  - id: gun_fortress
+    title: "GUN Fortress"
+    path: "GUN Fortress.brstm"
+    type: betting
+  - id: lava_shelter
+    title: "Lava Shelter"
+    path: "Lava Shelter.brstm"
+    type: betting
+  - id: lethal_highway_(extended)
+    title: "Lethal Highway (Extended)"
+    path: "Lethal Highway (Extended).brstm"
+    type: betting
+  - id: mad_matrix
+    title: "Mad Matrix"
+    path: "Mad Matrix.brstm"
+    type: betting
+  - id: sky_troops
+    title: "Sky Troops"
+    path: "Sky Troops.brstm"
+    type: betting
+  - id: space_gadget
+    title: "Space Gadget"
+    path: "Space Gadget.brstm"
+    type: betting
+#      - id: the_ark
+#        title: "The Ark"
+#        path: "The Ark.brstm"
+#        type: betting
+# this was a meme song waiting to happen, noone played it though
+  - id: the_doom
+    title: "The Doom"
+    path: "The Doom.brstm"
+    type: betting
+  - id: westopolis
+    title: "Westopolis"
+    path: "Westopolis.brstm"
+    type: betting
+  - id: lost_impact
+    title: "Lost Impact"
+    path: "Lost Impact.brstm"
+    type: break
+  - id: battle_menu
+    title: "Battle Menu"
+    path: "Battle Menu.brstm"
+    type: warning
+  - id: cosmic_fall
+    title: "Cosmic Fall"
+    path: "Cosmic Fall.brstm"
+    type: warning
+...

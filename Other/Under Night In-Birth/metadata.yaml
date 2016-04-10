@@ -1,0 +1,46 @@
+---
+id: under_night_in_birth
+title: "Under Night In-Birth"
+platform: "Arcade"
+year: 2012
+path: "Other/Under Night In-Birth"
+songs:
+  - id: gathers_under_night
+    title: "Gathers Under Night (Character Select)"
+    path: "Gathers Under Night (Character Select).brstm"
+    type: result
+#  - id: microsoft_windows
+#    title: "Microsoft Windows"
+#    series: frozen
+#    platform: "PC"
+#    year: 1990
+#    path: "Other/Microsoft Windows"
+#    songs:
+#      - id: canyon
+#        title: "Canyon"
+#        path: "Canyon.brstm"
+#        type: betting #Not from a video game
+#      - id: passport
+#        title: "Passport"
+#        path: "Passport.brstm"
+#        type: betting #Not from a video game
+#      - id: onestop
+#        title: "Onestop"
+#        path: "Onestop.brstm"
+#        type: betting #Not from a video game
+#  - id: rhythm_heaven_fever
+#    title: "Rhythm Heaven Fever"
+#    platform: "Wii"
+#    year: 2011
+#    path: "Other/Rhythm Heaven Fever"
+#    songs:
+#      - id: remix_10
+#        title: "Remix 10"
+#        path: "Remix 10 (Looped).brstm"
+#        type: betting
+# crouching song hidden lyrics
+#      - id: monkey_time
+#        title: "Monkey Time"
+#        path: "Monkey Time.brstm"
+#        type: betting #Does not loop
+...

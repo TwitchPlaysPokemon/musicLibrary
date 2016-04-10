@@ -1,0 +1,49 @@
+---
+id: pokemon_mystery_dungeon_blue_and_red_rescue_team
+title: "Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team"
+series: pokemon
+year: 2005
+platform: "NDS"
+path: "Other/PMD_RBRT"
+songs: 
+  - id: world_calamity
+    title: "World Calamity"
+    path: "World Calamity.brstm"
+    type: warning
+  - id: magma_cavern
+    title: "Magma Cavern"
+    path: "Magma Cavern.brstm"
+    type: betting
+  - id: thunderwave_cave
+    title: "Thunderwave Cave"
+    path: "Thunderwave Cave.brstm"
+    type: betting
+  - id: danger_mystery_dungeon_blue_and_red_rescue_team
+    title: "Danger"
+    path: "Danger.brstm"
+    type: warning
+  - id: friend_area_pond
+    title: "Friend Area Pond"
+    path: "Friend Area Pond.brstm"
+    type: betting
+  - id: happiness
+    title: "Happiness"
+    path: "Happiness.brstm"
+    type: result
+  - id: mt._thunder
+    title: "Mt. Thunder"
+    path: "Mt. Thunder.brstm"
+    type: betting
+  - id: kecleon_shop
+    title: "Kecleon Shop"
+    path: "Kecleon Shop.brstm"
+    type: break
+  - id: the_legend_of_ninetales
+    title: "The Legend of Ninetales"
+    path: "The Legend of Ninetales.brstm"
+    type: betting
+  - id: sky_tower
+    title: "Sky Tower"
+    path: "Sky Tower.brstm"
+    type: betting
+...

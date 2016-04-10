@@ -1,0 +1,33 @@
+---
+id: touhou_kishinjou_double_dealing_character
+platform: "PC"
+title: "Touhou Kishinjou ~ Double Dealing Character"
+series: touhou
+year: 2013
+path: "Other/Touhou Kishinjou_ Double Dealing Character"
+songs: 
+  - id: four_children
+    path: "Four children.brstm"
+    title: "~Four children ~ (arrange of Shinmyoumaru's theme by ルイージオ)"
+    type: battle
+  - id: primordial_beat_pristine_beat
+    path: "Primordial Beat ~ Pristine Beat.brstm"
+    title: "Raiko's theme: Primordial Beat ~ Pristine Beat"
+    type: battle
+  - id: kobito_of_the_shining_needle_little_princess
+    path: "Kobito of the Shining Needle ~ Little Princess.brstm"
+    title: "Shinmyoumaru's theme: Kobito of the Shining Needle ~ Little Princess"
+    type: battle
+  - id: reverse_ideology
+    path: "Reverse Ideology.brstm"
+    title: "Seija's theme: Reverse Ideology"
+    type: warning
+  - id: touhou_kishinjou_shining_needle
+    path: "The Shining Needle Castle that Sinks Through the Air.brstm"
+    title: "The Shining Needle Castle that Sinks Through the Air"
+    type: betting
+  - id: illusionary_shamisen_recital
+    path: "Illusionary Shamisen Recital.brstm"
+    title: "Tsukumo sisters' theme: Illusionary Shamisen Recital"
+    type: battle
+...

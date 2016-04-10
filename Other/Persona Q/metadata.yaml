@@ -1,0 +1,25 @@
+---
+id: persona_q
+platform: "3DS"
+title: "Persona Q: Shadow of the Labyrinth"
+series: shinmegamitensei
+year: 2014
+path: "Other/Persona Q"
+songs: 
+  - id: battle_in_the_clock_tower
+    path: "Battle in the Clock Tower.brstm"
+    title: "Battle in the Clock Tower"
+    type: battle
+  - id: a_strange_turn_in_events
+    path: "A Strange Turn in Events.brstm"
+    title: "A Strange Turn in Events"
+    type: betting
+  - id: confrontation_with_the_past
+    path: "Confrontation With The Past.brstm"
+    title: "Confrontation With The Past"
+    type: battle
+  - id: corndog
+    path: "Corndog.brstm"
+    title: "Corndog"
+    type: result
+...

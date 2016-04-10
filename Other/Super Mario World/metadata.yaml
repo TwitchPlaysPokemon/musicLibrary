@@ -1,0 +1,33 @@
+---
+id: super_mario_world
+title: "Super Mario World"
+series: mario
+year: 1990
+platform: "SNES"
+path: "Other/Super Mario World"
+songs:
+  - id: valley_of_bowser
+    path: "Valley of Bowser.brstm"
+    title: "Valley of Bowser"
+    type: warning
+  - id: vanilla_dome
+    path: "Vanilla Dome.brstm"
+    title: "Vanilla Dome"
+    type: warning
+  - id: bowser_jr 
+    title: "Boss"
+    path: "Bowser Junior.brstm"
+    type: warning
+  - id: ending_smw
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+  - id: overworld
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: betting
+  - id: underwater
+    title: "Underwater"
+    path: "Underwater.brstm"
+    type: betting
+...

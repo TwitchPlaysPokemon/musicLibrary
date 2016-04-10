@@ -1,0 +1,29 @@
+---
+id: metal_gear_solid_peace_walker
+title: "Metal Gear Solid: Peace Walker"
+series: metalgear
+year: 2010
+platform: "PSP"
+path: "Other/Metal Gear Solid_ Peace Walker"
+songs:
+  - id: training_facilities
+    title: "Training Facilities"
+    path: "Training Facilities.brstm"
+    type: betting
+  - id: us_missile_base_-_alert_mode
+    title: "US Missile Base - Alert Mode"
+    path: "US Missile Base - Alert Mode.brstm"
+    type: warning
+  - id: war_drums
+    title: "War Drums"
+    path: "War Drums.brstm"
+    type: warning
+  - id: chrysalis
+    title: "CHRYSALIS"
+    path: "CHRYSALIS.brstm"
+    type: battle
+  - id: mission_select_2
+    title: "Mission Select 2"
+    path: "Mission Select 2.brstm"
+    type: betting
+...

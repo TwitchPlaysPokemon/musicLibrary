@@ -1,0 +1,37 @@
+---
+id: super_mario_3d_world
+title: "Super Mario 3D World"
+series: mario
+platform: "Wii U"
+year: 2013
+path: "Other/Super Mario 3D World"
+songs:
+  - id: double_cherry_pass
+    title: "Double Cherry Pass"
+    path: "Double Cherry Pass.brstm"
+    type: betting
+  - id: hands-on_hall
+    path: "Hands-On Hall.brstm"
+    title: "Hands-On Hall"
+    type: betting
+  - id: world_flower
+    path: "World Flower.brstm"
+    title: "World Flower"
+    type: betting
+  - id: sunshine_seaside
+    path: "Sunshine Seaside.brstm"
+    title: "Sunshine Seaside"
+    type: betting
+  - id: world_mushroom
+    path: "World Mushroom.brstm"
+    title: "World Mushroom"
+    type: betting
+  - id: footlight_lane
+    path: "Footlight Lane.brstm"
+    title: "Footlight Lane"
+    type: betting
+  - id: slot_machine_looped
+    path: "Slot Machine (Looped).brstm"
+    title: "Slot Machine (Looped)"
+    type: warning
+...

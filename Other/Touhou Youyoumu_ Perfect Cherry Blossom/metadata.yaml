@@ -1,0 +1,25 @@
+---
+id: touhou_youyoumu_perfect_cherry_blossom
+platform: "PC"
+title: "Touhou Youyoumu ~ Perfect Cherry Blossom"
+series: touhou
+year: 2013
+path: "Other/Touhou Youyoumu_ Perfect Cherry Blossom"
+songs: 
+  - id: demetori_necrofantasia
+    path: "Demetori Necrofantasia.brstm"
+    title: "Necrofantasia (Arranged by Demetori)"
+    type: battle
+  - id: normal_necrofantasia
+    path: "Yukari's Theme - Necrofantasia.brstm"
+    title: "Yukari's theme: Necrofantasia"
+    type: battle
+  - id: touhou_youyoumu_cherry_blossom
+    path: "Bloom Nobly, Cherry Blossoms of Sumizone ~ Border of Life (Arranged).brstm"
+    title: "Yuyuko's theme: Bloom Nobly, Cherry Blossoms of Sumizone ~ Border of Life (Arranged)"
+    type: betting
+  - id: doll_judgement
+    path: "Doll Judgement.brstm"
+    title: "(Remix) Alice's theme: Doll Judgement"
+    type: battle
+...

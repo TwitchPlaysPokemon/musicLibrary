@@ -1,0 +1,20 @@
+---
+id: brain_age
+title: "Brain Age: Train Your Brain in Minutes a Day!"
+year: 2005
+platform: "NDS"
+path: "NDS/Brain Age"
+songs:
+  - id: bgm_home
+    title: "Home"
+    path: "03 BGM_HOME.mini2sf"
+    type: break
+  - id: bgm_ranking
+    title: "Ranking"
+    path: "06 BGM_RANKING.mini2sf"
+    type: break
+  - id: bgm_solity
+    title: "Solity"
+    path: "07 BGM_SOLITY.mini2sf"
+    type: break
+...

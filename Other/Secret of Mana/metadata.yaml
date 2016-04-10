@@ -1,0 +1,41 @@
+---
+id: secret_of_mana
+title: "Secret of Mana"
+series: seikendensetsu
+year: 1993
+platform: "SNES"
+path: "Other/Secret of Mana"
+songs:
+  - id: what_the_forest_taught_me
+    title: "What the Forest Taught Me"
+    path: "What the Forest Taught Me.brstm"
+    type: betting
+  - id: meridian_dance
+    title: "Meridian Dance"
+    path: "Meridian Dance.brstm"
+    type: battle
+  - id: danger_somsnes
+    title: "Danger!"
+    path: "Danger!.brstm"
+    type: warning
+  - id: calm_before_the_storm
+    title: "Calm Before the Storm"
+    path: "Calm Before the Storm.brstm"
+    type: result
+  - id: distant_thunder
+    title: "Distant Thunder"
+    path: "Distant Thunder.brstm"
+    type: betting
+  - id: into_the_thick_of_it
+    title: "Into the Thick of it"
+    path: "Into the Thick of it.brstm"
+    type: betting
+  - id: leave_time_for_love_mana_fortress
+    title: "Leave Time for Love (Mana Fortress)"
+    path: "Leave Time For Love (Mana Fortress).brstm"
+    type: betting
+  - id: secret_of_the_arid_sands
+    title: "Secret of the Arid Sands"
+    path: "Secret of the Arid Sands.brstm"
+    type: betting
+...

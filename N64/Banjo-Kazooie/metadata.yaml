@@ -1,0 +1,29 @@
+---
+id: banjo-kazooie
+title: "Banjo-Kazooie"
+series: banjo
+year: 1998
+platform: "N64"
+path: "N64/Banjo-Kazooie"
+songs:
+  - id: final_battle_bk64
+    title: "Final Battle"
+    path: "077 - Final Battle.miniusf"
+    type: battle
+  - id: spiral_mountain
+    title: "Spiral Mountain"
+    path: "006b - Spiral Mountain (Normal).miniusf"
+    type: betting
+  - id: bubblegloop_swamp
+    title: "Bubblegloop Swamp"
+    path: "028 - Bubblegloop Swamp.miniusf"
+    type: betting
+  - id: click_clock_wood_(spring)
+    title: "Click Clock Wood (Spring)"
+    path: "060b - Click Clock Wood (Spring, Normal).miniusf"
+    type: betting
+  - id: end_credits_bk64
+    title: "End Credits"
+    path: "074 - End Credits.miniusf"
+    type: result
+...

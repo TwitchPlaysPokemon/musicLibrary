@@ -1,0 +1,37 @@
+---
+id: the_legend_of_zelda_the_wind_waker
+platform: "GCN"
+title: "The Legend of Zelda: The Wind Waker"
+series: zelda
+year: 2003
+path: "Other/Zelda Wind Waker"
+songs: 
+  - id: middle_boss_battle
+    path: "Middle Boss Battle.brstm"
+    title: "Miniboss Battle"
+    type: battle
+  - id: the_great_sea
+    path: "The Great Sea.brstm"
+    title: "The Great Sea"
+    type: betting
+  - id: helmaroc_king
+    path: "Helmaroc King.brstm"
+    title: "Helmaroc King Battle"
+    type: battle
+  - id: inside_forest_haven
+    path: "Inside Forest Haven.brstm"
+    title: "Inside the Forest Haven"
+    type: betting
+  - id: gohdan_battle
+    path: "Gohdan battle.brstm"
+    title: "Gohdan Battle"
+    type: battle
+      #- id: farewell_hyrule_king
+      #  path: "Farewell Hyrule King.brstm"
+      #  title: "Farewell Hyrule King"
+      #  type: result
+  - id: molgera_battle
+    path: "Molgera Battle.brstm"
+    title: "Molgera Battle"
+    type: battle
+...

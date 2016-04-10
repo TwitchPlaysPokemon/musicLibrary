@@ -1,0 +1,37 @@
+---
+id: final_fantasy_vi
+title: "Final Fantasy VI"
+series: finalfantasy
+year: 1994
+platform: "SNES"
+path: "SNES/Final Fantasy VI"
+songs:
+  - id: battle_theme_ffvi
+    title: "Battle Theme"
+    path: "105 Battle Theme.spc"
+    type: battle
+  - id: victory_fanfare
+    title: "Victory Fanfare"
+    path: "106 Fanfare.spc"
+    type: result
+  - id: edgar_sabin
+    title: "Edgar & Sabin's Theme / Figaro Castle"
+    path: "107 Edgar and Sabin.spc"
+    type: betting
+  - id: save_them
+    title: "Save Them!"
+    path: "123 Save Them!.spc"
+    type: warning
+  - id: decisive_battle
+    title: "The Decisive Battle (vs. Boss)"
+    path: "124 The Decisive Battle.spc"
+    type: battle
+  - id: fierce_battle_ffvi
+    title: "The Fierce Battle"
+    path: "303 The Fierce Battle.spc"
+    type: battle
+  - id: spinach_rag
+    title: "Spinach Rag"
+    path: "Spinach Rag.brstm"
+    type: result
+...

@@ -1,0 +1,26 @@
+---
+id: street_fighter_iii__3rd_strike
+platform: "Arcade"
+title: "Street Fighter III: 3rd Strike"
+series: streetfighter
+year: 1999
+path: "Other/Street Fighter III - 3rd Strike"
+songs:
+#      - id: crazy_chili_dog_arranged
+#        path: "Crazy Chili Dog (Arranged).brstm"
+#        title: "Crazy Chili Dog (Arranged)"
+#        type: battle
+# no remixes allowed
+  - id: theme_of_q
+    path: "Theme of Q.brstm"
+    title: "Theme of Q"
+    type: betting
+  - id: final_results
+    path: "Final Results.brstm"
+    title: "Final Results"
+    type: result
+  - id: ending_2
+    path: "Ending 2.brstm"
+    title: "Ending 2"
+    type: result
+...

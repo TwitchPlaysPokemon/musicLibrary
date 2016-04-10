@@ -1,0 +1,21 @@
+---
+id: bomberman_nds
+title: "Bomberman"
+series: bomberman
+year: 2005
+platform: "NDS"
+path: "NDS/Bomberman"
+songs:
+  - id: menu_bombds
+    title: "Menu"
+    path: "02 Menu.mini2sf"
+    type: break
+  - id: title_1
+    title: "Title 1"
+    path: "01 Title 1.mini2sf"
+    type: result
+  - id: boss_bombds
+    title: "Boss"
+    path: "13 Boss.mini2sf"
+    type: warning
+...

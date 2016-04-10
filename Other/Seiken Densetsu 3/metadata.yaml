@@ -1,0 +1,13 @@
+---
+id: seiken_densetsu_3
+platform: "SNES"
+title: "Seiken Densetsu 3"
+series: seikendensetsu
+year: 1995
+path: "Other/Seiken Densetsu 3"
+songs:
+  - id: nuclear_fusion
+    path: "Nuclear Fusion.brstm"
+    title: "Nuclear Fusion"
+    type: warning
+...

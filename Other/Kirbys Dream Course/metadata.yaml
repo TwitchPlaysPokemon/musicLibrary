@@ -1,0 +1,33 @@
+---
+id: kirby's_dream_course
+title: "Kirby's Dream Course"
+series: kirby
+year: 1994
+platform: "SNES"
+path: "Other/Kirbys Dream Course"
+songs:
+  - id: the_first_hole
+    title: "The First Hole"
+    path: "The First Hole.brstm"
+    type: betting
+  - id: iceberg_ocean
+    title: "Iceberg Ocean"
+    path: "Iceberg Ocean.brstm"
+    type: betting
+  - id: green_fields
+    title: "Green Fields"
+    path: "Green Fields.brstm"
+    type: betting
+  - id: cloudy_mountain_peaks
+    title: "Cloudy Mountain Peaks"
+    path: "Cloudy Mountain Peaks.brstm"
+    type: betting
+  - id: dedede_is_getting_closer
+    title: "Dedede is Getting Closer!"
+    path: "Dedede is Getting Closer!.brstm"
+    type: warning
+  - id: showdown_with_dedede
+    title: "Showdown with Dedede"
+    path: "Showdown with Dedede.brstm"
+    type: warning
+...

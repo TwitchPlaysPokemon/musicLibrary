@@ -1,0 +1,54 @@
+---
+id: super_mario_rpg
+title: "Super Mario RPG: Legend of the Seven Stars"
+series: mario
+platform: "SNES"
+year: 1996
+path: "Other/Super Mario RPG"
+songs:
+  - id: my_names_booster
+    title: "And My Name's Booster"
+    path: "And My Name's Booster.brstm"
+    type: betting
+  - id: barrel_volcano
+    title: "Barrel Volcano"
+    path: "Barrel Volcano.brstm"
+    type: betting
+#      - id: beware_of_the_forests_mushrooms
+#        title: "Beware of the Forest's Mushrooms"
+#        path: "Beware of the Forest's Mushrooms.brstm"
+#        type: betting
+# no, slightly memetic for some stupid reason
+  - id: fight_against_smithy
+    title: "Fight Against Smithy"
+    path: "Fight Against Smithy.brstm"
+    type: battle
+  - id: heart_beating_a_little_faster
+    title: "Heart Beating a Little Faster"
+    path: "Heart Beating a Little Faster.brstm"
+    type: warning
+  - id: margarie_margarita
+    title: "Margarie Margarita"
+    path: "Margarie Margarita.brstm"
+    type: betting
+  - id: my_paradise_monstro_town
+    title: "My Paradise ~ Monstro Town"
+    path: "My Paradise ~ Monstro Town.brstm"
+    type: break
+  - id: super_pipe_house
+    title: "Super Pipe House"
+    path: "Super Pipe House.brstm"
+    type: betting
+  - id: welcome_to_booser_tower
+    title: "Welcome to Booster Tower"
+    path: "Welcome to Booster Tower.brstm"
+    type: break
+  - id: still_the_road_is_full_of_dangers
+    title: "Still, the Road is Full of Dangers"
+    path: "Still, the Road is Full of Dangers.brstm"
+    type: betting
+  - id: lets_go_down_the_wine_river
+    title: "Let's Go Down the Wine River"
+    path: "Let's Go Down the Wine River.brstm"
+    type: result
+...

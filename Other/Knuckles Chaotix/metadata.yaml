@@ -1,0 +1,90 @@
+---
+id: knuckles_chaotix
+title: "Knuckles Chaotix"
+series: sonic
+year: 1996
+platform: "S32X"
+path: "Other/Knuckles Chaotix"
+songs:
+  - id: soda_pop
+    title: "Soda Pop"
+    path: "Soda Pop.brstm"
+    type: battle
+  - id: combination
+    title: "Combination"
+    path: "Combination.brstm"
+    type: betting
+  - id: door_into_summer_kc
+    title: "Door Into Summer"
+    path: "Door Into Summer.brstm"
+    type: betting
+  - id: electoria
+    title: "Electoria"
+    path: "Electoria.brstm"
+    type: betting
+  - id: evening_star
+    title: "Evening Star"
+    path: "Evening Star.brstm"
+    type: betting
+  - id: hyper_hyper
+    title: "Hyper-Hyper"
+    path: "Hyper-Hyper.brstm"
+    type: betting
+  - id: midnight_greenhouse
+    title: "Midnight Greenhouse"
+    path: "Midnight Greenhouse.brstm"
+    type: betting
+  - id: speed_of_sound
+    title: "Speed of Sound"
+    path: "Speed of Sound.brstm"
+    type: betting
+  - id: walkin_kc
+    title: "Walkin"
+    path: "Walkin.brstm"
+    type: betting
+#      - id: electoria_beta
+#        title: "Electoria (Beta)"
+#        path: "Electoria (Beta).brstm"
+#        type: result
+#      - id: evening_star_beta
+#        title: "Evening Star (Beta)"
+#        path: "Evening Star (Beta).brstm"
+#        type: result
+#      - id: hyper_hyper_beta
+#        title: "Hyper-Hyper (Beta)"
+#        path: "Hyper-Hyper (Beta).brstm"
+#        type: result
+#      - id: walkin_beta
+#        title: "Walkin (Beta)"
+#        path: "Walkin (Beta).brstm"
+#        type: result
+# unfitting
+  - id: childs_song
+    title: "Child's Song"
+    path: "Child's Song.brstm"
+    type: warning
+  - id: destructive_power
+    title: "Destructive Power"
+    path: "Destructive Power.brstm"
+    type: warning
+  - id: labyrinth_kc
+    title: "Labyrinth"
+    path: "Labyrinth.brstm"
+    type: warning
+  - id: overture_kc
+    title: "Overture"
+    path: "Overture.brstm"
+    type: warning
+  - id: silver_screen_kc
+    title: "Silver Screen"
+    path: "Silver Screen.brstm"
+    type: warning
+  - id: steel_heart_kc
+    title: "Steel Heart"
+    path: "Steel Heart.brstm"
+    type: warning
+  - id: surprise_kc
+    title: "Surprise!"
+    path: "Surprise!.brstm"
+    type: warning
+...

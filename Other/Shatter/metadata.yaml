@@ -1,0 +1,24 @@
+---
+id: shatter
+title: "Shatter"
+platform: "PS3"
+year: 2009
+path: "Other/Shatter"
+songs:
+  - id: kinetic_harvest
+    title: "Kinetic Harvest"
+    path: "Kinetic Harvest.brstm"
+    type: battle
+  - id: argon_refinery
+    title: "Argon Refinery"
+    path: "Argon Refinery.brstm"
+    type: betting
+  - id: aurora_shatter
+    title: "Aurora Shatter"
+    path: "Aurora Shatter.brstm"
+    type: betting
+  - id: freon_world
+    title: "Freon World"
+    path: "Freon World.brstm"
+    type: betting
+...

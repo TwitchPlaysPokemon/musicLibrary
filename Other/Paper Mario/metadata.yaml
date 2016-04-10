@@ -1,0 +1,33 @@
+---
+id: paper_mario
+title: "Paper Mario"
+series: mario
+year: 2000
+platform: "N64"
+path: "Other/Paper Mario"
+songs:
+  - id: jr_troopa
+    title: "Jr Troopa"
+    path: "Jr Troopa.brstm"
+    type: betting
+  - id: kammy_koopa
+    title: "Kammy Koopa"
+    path: "Kammy Koopa.brstm"
+    type: warning
+  - id: k64_train_ride
+    title: "K64 Train Ride"
+    path: "K64 Train Ride.brstm"
+    type: warning
+  - id: mario_bros'_home
+    title: "Mario Bros' Home"
+    path: "Mario Bros' Home.brstm"
+    type: betting
+  - id: chomp_attack
+    title: "Chomp Attack"
+    path: "Chomp Attack.brstm"
+    type: warning
+  - id: king_of_the_koopas
+    title: "King of the Koopas"
+    path: "King of the Koopas.brstm"
+    type: battle
+...

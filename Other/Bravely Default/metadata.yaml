@@ -1,0 +1,36 @@
+---
+id: bravely_default
+title: "Bravely Default"
+year: 2012
+platform: "3DS"
+path: "Other/Bravely Default"
+songs:
+  - id: horizon_of_light_and_shadow
+    title: "Horizon of Light and Shadow"
+    path: "Horizon of Light and Shadow.brstm"
+    type: betting
+  - id: wicked_flight
+    title: "Wicked Flight"
+    path: "Wicked Flight.brstm"
+    type: battle
+  - id: visitor_(looped)
+    title: "Visitor"
+    path: "Visitor (Looped).brstm"
+    type: warning
+  - id: signs_of_the_enemy_invasion
+    title: "Signs of the Enemy Invasion"
+    path: "Signs of the Enemy Invasion.brstm"
+    type: warning
+  - id: foolish_event
+    title: "Foolish Event"
+    path: "Foolish Event.brstm"
+    type: betting
+  - id: infiltrating_enemy_territory
+    title: "Infiltrating Enemy Territory"
+    path: "Infiltrating Enemy Territory.brstm"
+    type: betting
+  - id: the_desert_and_the_huge_clock_country
+    title: "The Desert and the Huge Clock Country"
+    path: "The Desert and the Huge Clock Country.brstm"
+    type: betting
+...

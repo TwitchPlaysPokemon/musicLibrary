@@ -1,0 +1,17 @@
+---
+id: shin_megami_tensei_iv
+platform: "3DS"
+title: "Shin Megami Tensei IV"
+series: shinmegamitensei
+year: 2013
+path: "Other/Shin Megami Tensei IV"
+songs: 
+  - id: shinjuku
+    path: "SMT_IV-Shinjuku.brstm"
+    title: "Shinjuku"
+    type: betting
+  - id: tokyo
+    path: "SMT IV - Tokyo.brstm"
+    title: "Tokyo"
+    type: betting
+...

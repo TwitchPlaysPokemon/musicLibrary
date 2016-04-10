@@ -1,0 +1,33 @@
+---
+id: apollo_justice_ace_attorney
+platform: "NDS"
+title: "Apollo Justice: Ace Attorney"
+series: aceattorney
+year: 2007
+path: "Other/Apollo Justice_ Ace Attorney"
+songs: 
+  - id: questioning_allegro_2007
+    path: "Questioning ~ Allegro 2007.brstm"
+    title: "Questioning ~ Allegro 2007"
+    type: warning
+  - id: solitary_confinement_darkness_theme
+    path: "Solitary Confinement ~ Darkness Theme.brstm"
+    title: "Solitary Confinement ~ Darkness Theme"
+    type: betting
+  - id: lamiroir_sound_of_a_landscape_artist
+    path: "Lamiroir ~ Sound of a Landscape Artist.brstm"
+    title: "Lamiroir ~ Sound of a Landscape Artist"
+    type: betting
+  - id: klavier_gavin_love_love_guilty
+    path: "Klavier Gavin ~ Love Love Guilty.brstm"
+    title: "Klavier Gavin ~ Love Love Guilty"
+    type: warning
+  - id: gramarye_troupe
+    path: "Gramarye Troupe.brstm"
+    title: "Gramarye Troupe"
+    type: result
+  - id: apollo_justice_a_new_trial_is_in_session
+    path: "Apollo Justice ~ A New Trial is in Session!.brstm"
+    title: "Apollo Justice ~ A New Trial is in Session!"
+    type: result
+...

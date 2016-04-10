@@ -1,0 +1,29 @@
+---
+id: final_fantasy_mystic_quest
+title: "Final Fantasy: Mystic Quest"
+series: finalfantasy
+year: 1992
+platform: "SNES"
+path: "Other/Final Fantasy_ Mystic Quest"
+songs:
+  - id: victory_ff_mystic_quest
+    title: "Victory"
+    path: "Victory.brstm"
+    type: result
+  - id: shrine_of_light
+    title: "Shrine of Light"
+    path: "Shrine of Light.brstm"
+    type: result
+  - id: hill_of_fate
+    title: "Hill of Fate"
+    path: "Hill of Fate.brstm"
+    type: warning
+  - id: ending_ff_mystic_quest
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+  - id: battle_3_ff_mystic_quest
+    title: "Battle 3"
+    path: "Battle 3.brstm"
+    type: battle
+...

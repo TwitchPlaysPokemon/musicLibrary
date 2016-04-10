@@ -1,0 +1,24 @@
+---
+id: destiny
+title: "Destiny"
+year: 2014
+platform: "Various"
+path: "Other/Destiny"
+songs:
+  - id: the_traveler
+    title: "The Traveler"
+    path: "The Traveler.brstm"
+    type: warning
+  - id: sepiks_prime
+    title: "Sepiks Prime"
+    path: "Sepiks Prime.brstm"
+    type: battle
+  - id: first_challenge
+    title: "First Challenge"
+    path: "First Challenge.brstm"
+    type: betting
+  - id: end_of_the_line
+    title: "End of the Line"
+    path: "End of the Line.brstm"
+    type: warning
+...

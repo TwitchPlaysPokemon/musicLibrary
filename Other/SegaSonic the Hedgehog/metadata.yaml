@@ -1,0 +1,21 @@
+---
+id: segasonic_the_hedgehog
+platform: "Arcade"
+title: "SegaSonic the Hedgehog"
+series: sonic
+year: 1993
+path: "Other/SegaSonic the Hedgehog"
+songs: 
+  - id: ice_and_water
+    path: "Ice & Water.brstm"
+    title: "Ice & Water"
+    type: betting
+  - id: quick_escape
+    path: "Quick! Escape!.brstm"
+    title: "Quick! Escape!"
+    type: warning
+  - id: all_over
+    path: "All Over.brstm"
+    title: "All Over"
+    type: result
+...

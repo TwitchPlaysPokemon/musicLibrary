@@ -1,0 +1,13 @@
+---
+id: street_fighter_2
+platform: "SNES"
+title: "Street Fighter II Turbo"
+series: streetfighter
+year: 1993
+path: "Other/Street Fighter 2"
+songs: 
+  - id: guile
+    path: "Guile.brstm"
+    title: "Theme of Guile"
+    type: battle
+...

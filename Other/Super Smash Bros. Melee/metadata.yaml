@@ -1,0 +1,41 @@
+---
+id: super_smash_bros_melee
+platform: "GCN"
+title: "Super Smash Bros. Melee"
+series: smash
+year: 2002
+path: "Other/Super Smash Bros. Melee"
+songs: 
+  - id: fire_emblem
+    path: "Fire Emblem.brstm"
+    title: "Fire Emblem"
+    type: battle
+  - id: battlefield_melee
+    path: "Battlefield.brstm"
+    title: "Battlefield"
+    type: battle
+  - id: poke_floats
+    path: "Poke Floats.brstm"
+    title: "Poké Floats"
+    type: battle
+  - id: mother_2
+    path: "Mother 2.brstm"
+    title: "Mother 2"
+    type: betting
+  - id: mother
+    path: "Mother.brstm"
+    title: "Mother"
+    type: betting
+  - id: icicle_mountain
+    path: "Icicle Mountain.brstm"
+    title: "Icicle Mountain"
+    type: result
+  - id: fourside
+    path: "Fourside.brstm"
+    title: "Fourside"
+    type: betting
+  - id: fountain_of_dreams
+    path: "Fountain of Dreams.brstm"
+    title: "Fountain of Dreams"
+    type: betting
+...

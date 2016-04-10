@@ -1,0 +1,25 @@
+---
+id: persona_3
+title: "Persona 3"
+series: shinmegamitensei
+platform: "PS2"
+year: 2007
+path: "Other/Persona 3"
+songs:
+  - id: calamity
+    title: "Calamity"
+    path: "Calamity.brstm"
+    type: warning
+  - id: blues_in_velvet_room
+    title: "Blues in Velvet Room"
+    path: "Blues in Velvet Room.brstm"
+    type: betting
+  - id: living_with_determination_-iwatodai_dorm_arrange-
+    title: "Living With Determination -Iwatodai Dorm Arrange-"
+    path: "Living With Determination -Iwatodai Dorm Arrange-.brstm"
+    type: betting
+      #- id: iwatodai_dorm
+      #  path: "Iwatodai Dorm.brstm"
+      #  title: "Iwatodai Dorm"
+      #  type: betting
+...

@@ -1,0 +1,33 @@
+---
+id: fire_emblem_radiant_dawn
+title: "Fire Emblem: Radiant Dawn"
+series: fireemblem
+year: 2007
+platform: "Wii"
+path: "Other/Fire Emblem_ Radiant Dawn"
+songs:
+  - id: extra_map
+    title: "Extra Map"
+    path: "Extra Map.brstm"
+    type: betting
+  - id: the_devoted
+    title: "The Devoted"
+    path: "The Devoted.brstm"
+    type: battle
+  - id: stalwarts_unite
+    title: "Stalwarts Unite"
+    path: "Stalwarts Unite.brstm"
+    type: betting
+  - id: ideals_clash
+    title: "Ideals Clash"
+    path: "Ideals Clash.brstm"
+    type: warning
+  - id: eternal_bond
+    title: "Eternal Bond"
+    path: "Eternal Bond.brstm"
+    type: betting
+  - id: wheeling_corby
+    title: "Wheeling Corby"
+    path: "Wheeling Corby.brstm"
+    type: warning
+...

@@ -1,0 +1,17 @@
+---
+id: super_street_fighter_iv
+platform: "360+PS3"
+title: "Super Street Fighter IV"
+series: streetfighter
+year: 2010
+path: "Other/Super Street Fighter IV"
+songs: 
+  - id: challenge_mode
+    path: "Challenge Mode.brstm"
+    title: "Challenge Mode"
+    type: battle
+  - id: crumbling_laboratory
+    path: "Crumbling Laboratory.brstm"
+    title: "Crumbling Laboratory"
+    type: battle
+...

@@ -1,0 +1,41 @@
+---
+id: touhou_suimusou_immaterial_and_missing_power
+platform: "PC"
+title: "Touhou Suimusou ~ Immaterial and Missing Power"
+series: touhou
+year: 2004
+path: "Other/Touhou Suimusou_ Immaterial and Missing Power"
+songs: 
+  - id: voile_magic_library_patchoulis_night_theme
+    path: "Voile Magic Library (Patchouli's Night Theme).brstm"
+    title: "Voile Magic Library (Patchouli's Night Theme)"
+    type: battle
+  - id: dance_of_the_witches_marisas_theme
+    path: "Dance of the Witches (Marisa's theme).brstm"
+    title: "Marisa's (old) theme: Dance of the Witches"
+    type: warning
+  - id: wanderings
+    path: "Wanderings.brstm"
+    title: "Wanderings"
+    type: betting
+  - id: broken_moon
+    path: "Broken Moon.brstm"
+    title: "Suika's theme: Broken Moon"
+    type: result
+  - id: night_falls_evening_star
+    path: "Night Falls ~ Evening Star.brstm"
+    title: "Yukari's Theme: Night Falls ~ Evening Star"
+    type: warning
+  - id: demystify_feast
+    path: "Demystify Feast.brstm"
+    title: "Demystify Feast"
+    type: battle
+  - id: doll_judgment
+    path: "Doll Judgment.brstm"
+    title: "Alice's Theme: Doll Judgement"
+    type: warning
+  - id: lunar_dial_sakuyas_night_theme
+    path: "Lunar Dial (Sakuya's night theme).brstm"
+    title: "Lunar Dial (Sakuya's night theme)"
+    type: warning
+...

@@ -1,0 +1,105 @@
+---
+id: golden_sun
+platform: "GBA"
+title: "Golden Sun"
+series: goldensun
+year: 2001
+path: "GBA/Golden Sun"
+songs: 
+  - id: lucky_slots
+    path: "01 The Lucky Slots.minigsf"
+    title: "The Lucky Slots"
+    type: betting
+  - id: main_theme
+    path: "02 Main Theme.minigsf"
+    title: "Main Theme"
+    type: betting
+  - id: main_menu_gsgba
+    path: "03 Main Menu.minigsf"
+    title: "Main Menu"
+    type: betting
+  - id: lighthouse_theme
+    path: "04 Lighthouse Theme.minigsf"
+    title: "Lighthouse Theme"
+    type: warning
+  - id: title_screen_gsgba
+    path: "05 The Title Screen.minigsf"
+    title: "Title Screen"
+    type: betting
+  - id: suspense
+    path: "06 Suspense.minigsf"
+    title: "Suspense"
+    type: warning
+  - id: trial_road
+    path: "07 Trial Road.minigsf"
+    title: "Trial Road"
+    type: battle
+  - id: fanfare
+    path: "08 Fanfare.minigsf"
+    title: "Victory Fanfare"
+    type: result
+  - id: ivan
+    path: "10 Ivan's Theme.minigsf"
+    title: "Ivan's Theme"
+    type: betting
+  - id: villain
+    path: "11 Villain Theme.minigsf"
+    title: "Villain's Theme"
+    type: warning
+  - id: beacons
+    path: "13 Lighting The Beacons.minigsf"
+    title: "Lighting the Beacons"
+    type: warning
+  - id: vale_vault
+    path: "18 Vale and Vault.minigsf"
+    title: "Vale and Vault"
+    type: betting
+  - id: tolbi
+    path: "27 Tolbi.minigsf"
+    title: "Tolbi"
+    type: betting
+  - id: sanctums
+    path: "28 The Sanctums.minigsf"
+    title: "The Sanctums"
+    type: warning
+  - id: lunpa
+    path: "31 Lunpa's Hideout.minigsf"
+    title: "Lunpa's Hideout"
+    type: betting
+  - id: cave
+    path: "32 Cave Theme.minigsf"
+    title: "Cave Theme"
+    type: betting
+  - id: tunnel_ruins
+    path: "36 Tunnel Ruins.minigsf"
+    title: "Tunnel Ruins"
+    type: warning
+  - id: tolbi_bound
+    path: "38 Tolbi Bound Ship.minigsf"
+    title: "Tolbi Bound Ship"
+    type: result
+  - id: world_map_gsgba
+    path: "39 World Map.minigsf"
+    title: "World Map"
+    type: betting
+  - id: enemy_battle
+    path: "41 Enemy Battle.minigsf"
+    title: "Battle vs. Enemy"
+    type: battle
+  - id: battle_saturos
+    path: "42 Battle with Saturos.minigsf"
+    title: "Battle vs. Saturos"
+    type: battle
+  - id: boss_battle_gsgba
+    path: "43 Boss Battle.minigsf"
+    title: "Boss Battle"
+    type: battle
+  - id: battle_saturos_menardi
+    path: "44 Saturos and Menardi Battle.minigsf"
+    title: "Battle vs. Saturos & Menardi"
+    type: battle
+  - id: fusion_dragon
+    path: "45 Fusion Dragon.minigsf"
+    title: "Battle vs. Fusion Dragon"
+    type: battle
+...

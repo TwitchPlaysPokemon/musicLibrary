@@ -1,0 +1,13 @@
+---
+id: star_fox_adventures
+platform: "GCN"
+title: "Star Fox Adventures"
+series: starfox
+year: 2002
+path: "Other/Star Fox Adventures"
+songs: 
+  - id: andross
+    path: "Andross.brstm"
+    title: "Andross"
+    type: battle
+...

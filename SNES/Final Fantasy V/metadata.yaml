@@ -1,0 +1,33 @@
+---
+id: final_fantasy_v
+title: "Final Fantasy V"
+series: finalfantasy
+year: 1992
+platform: "SNES"
+path: "SNES/Final Fantasy V"
+songs:
+  - id: battle
+    title: "The Battle"
+    path: "107 The Battle.spc"
+    type: warning
+  - id: fierce_battle
+    title: "The Fierce Battle"
+    path: "119 The Fierce Battle.spc"
+    type: battle
+#      - id: decisive_battle
+#        title: "The Decisive Battle"
+#        path: "216 The Decisive Battle.spc"
+#        type: battle #Borderline not tense and charged enough
+  - id: gilgamesh_battle
+    title: "Battle with Gilgamesh"
+    path: "203 Battle with Gilgamesh.spc"
+    type: battle
+  - id: exdeaths_castle
+    title: "Exdeath's Castle"
+    path: "Exdeath's Castle.brstm"
+    type: warning
+  - id: mambo_de_chocobo
+    title: "Mambo de Chocobo!"
+    path: "Mambo de Chocobo!.brstm"
+    type: betting
+...

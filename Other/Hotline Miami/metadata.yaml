@@ -1,0 +1,20 @@
+---
+id: hotline_miami
+title: "Hotline Miami"
+year: 2012
+platform: "PC"
+path: "Other/Hotline Miami"
+songs:
+  - id: crystals
+    title: "Crystals"
+    path: "Crystals.brstm"
+    type: betting
+  - id: hotline_(hotline_miami_ep_version)
+    title: "Hotline (Hotline Miami EP Version)"
+    path: "Hotline (Hotline Miami EP Version).brstm"
+    type: betting
+  - id: miami_disco
+    title: "Miami Disco"
+    path: "Miami Disco.brstm"
+    type: betting
+...

@@ -1,0 +1,80 @@
+---
+id: ristar
+title: "Ristar"
+year: 1995
+platform: "Genesis"
+path: "Genesis/Ristar"
+songs:
+  - id: crazy_kings
+    title: "Battle Theme - Crazy Kings"
+    path: "22 - Battle Theme - Crazy Kings.vgz"
+    type: battle
+  - id: greedy_game
+    title: "Theme of Kaiser - Greedy Game"
+    path: "23 - Theme of Kaiser - Greedy Game.vgz"
+    type: battle
+  - id: shooting_ristar
+    title: "Round 1-1 - Shooting Ristar"
+    path: "03 - Round 1-1 - Shooting Ristar.vgz"
+    type: betting
+  - id: dancing_leaves
+    title: "Round 1-2 - Dancing Leaves"
+    path: "04 - Round 1-2 - Dancing Leaves.vgz"
+    type: betting
+  - id: splash_down
+    title: "Round 2-1 - Splash Down!!"
+    path: "05 - Round 2-1 - Splash Down!!.vgz"
+    type: betting
+  - id: busy_flare
+    title: "Round 3-1 - Busy Flare"
+    path: "07 - Round 3-1 - Busy Flare.vgz"
+    type: betting
+  - id: under_magma
+    title: "Round 3-2 - Under Magma"
+    path: "08 - Round 3-2 - Under Magma.vgz"
+    type: betting
+  - id: on_parade
+    title: "Round 4-2 - On Parade"
+    path: "16 - Round 4-2 - On Parade.vgz"
+    type: betting
+  - id: ring_rink
+    title: "Round 5-1 - Ring Rink"
+    path: "17 - Round 5-1 - Ring Rink.vgz"
+    type: betting
+  - id: ice_scream
+    title: "Round 5-2 - Ice Scream"
+    path: "18 - Round 5-2 - Ice Scream.vgz"
+    type: betting
+  - id: crying_world
+    title: "Round 6-1 - Crying World"
+    path: "19 - Round 6-1 - Crying World.vgz"
+    type: betting
+  - id: break_silence
+    title: "Round 2-2 - Break Silence"
+    path: "06 - Round 2-2 - Break Silence.vgz"
+    type: break
+  - id: intension_ristar
+    title: "Round 4-1 - Pre-Song - Intension"
+    path: "09 - Round 4-1 - Pre-Song - Intension.vgz"
+    type: break
+  - id: go_ahead_ristar
+    title: "Act Clear - Go Ahead"
+    path: "26 - Act Clear - Go Ahead.vgz"
+    type: result
+  - id: lets_go_ristar
+    title: "Round Clear 1 - Let's Go!!"
+    path: "27 - Round Clear 1 - Let's Go!!.vgz"
+    type: result
+  - id: star_humming
+    title: "Ending 1 - Star Humming"
+    path: "31 - Ending 1 - Star Humming.vgz"
+    type: result
+  - id: lock_up
+    title: "Round 6-2 - Lock Up!!"
+    path: "20 - Round 6-2 - Lock Up!!.vgz"
+    type: warning
+  - id: concentration_battle_entry
+    title: "Battle Entry - Concentration"
+    path: "21 - Battle Entry - Concentration.vgz"
+    type: warning
+...

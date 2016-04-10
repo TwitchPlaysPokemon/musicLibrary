@@ -1,0 +1,29 @@
+---
+id: kirby_super_star
+platform: "SNES"
+title: "Kirby Super Star"
+series: kirby
+year: 1996
+path: "Other/Kirby Super Star"
+songs: 
+  - id: dyna_blades_nest
+    path: "Dyna Blade's Nest.brstm"
+    title: "Dyna Blade's Nest"
+    type: warning
+  - id: coacoa_cave
+    path: "Coacoa Cave.brstm"
+    title: "Coacoa Cave"
+    type: betting
+  - id: meta_knight_defeated
+    path: "Meta Knight Defeated.brstm"
+    title: "Meta Knight Defeated"
+    type: result
+  - id: tutorial
+    path: "Tutorial.brstm"
+    title: "Time to Learn"
+    type: betting
+  - id: milky_way_wishes_-_heart_of_nova
+    path: "Milky Way Wishes - Heart of Nova.brstm"
+    title: "Galactic Nova"
+    type: warning
+...

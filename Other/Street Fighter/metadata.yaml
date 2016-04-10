@@ -1,0 +1,17 @@
+---
+id: street_fighter
+platform: "Arcade"
+title: "Street Fighter"
+series: streetfighter
+year: 1987
+path: "Other/Street Fighter"
+songs:
+  - id: adon_thai_sun_set
+    path: "Adon (Thai, Sun Set).brstm"
+    title: "Adon (Thai, Sun Set)"
+    type: warning
+  - id: birdie_england_mohican
+    path: "Birdie (England, Mohican).brstm"
+    title: "Birdie (England, Mohican)"
+    type: warning
+...

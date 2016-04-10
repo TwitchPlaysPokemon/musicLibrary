@@ -1,0 +1,12 @@
+---
+id: pilotwings
+platform: "SNES"
+title: "Pilotwings"
+year: 1990
+path: "Other/Pilotwings"
+songs: 
+  - id: light_plane
+    path: "Light Plane.brstm"
+    title: "Light Plane"
+    type: betting
+...

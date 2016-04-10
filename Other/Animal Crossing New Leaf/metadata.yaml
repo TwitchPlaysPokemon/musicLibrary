@@ -1,0 +1,21 @@
+---
+id: animal_crossing_new_leaf
+platform: "3DS"
+title: "Animal Crossing New Leaf"
+series: animalcrossing
+year: 2013
+path: "Other/Animal Crossing New Leaf"
+songs: 
+  - id: 1pm
+    path: "1 PM.brstm"
+    title: "1 PM"
+    type: break
+  - id: 5pm
+    path: "5 PM.brstm"
+    title: "5 PM"
+    type: break
+  - id: 7pm
+    path: "7 PM.brstm"
+    title: "7 PM"
+    type: break
+...
