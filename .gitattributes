@@ -1,0 +1,5 @@
+*.brstm filter=lfs diff=lfs merge=lfs -text
+*.spc filter=lfs diff=lfs merge=lfs -text
+*.mib filter=lfs diff=lfs merge=lfs -text
+*.gsf filter=lfs diff=lfs merge=lfs -text
+*.minigsf filter=lfs diff=lfs merge=lfs -text
