@@ -1,5 +1,5 @@
 # musicLibrary
-PBR's music library
+PBRs music library
 
 ##Cloning
 Download and install git lfs from [here](https://git-lfs.github.com/). When you need to run
