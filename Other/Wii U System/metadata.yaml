@@ -1,0 +1,17 @@
+---
+id: wii_u_system
+title: "Wii U System"
+series: systemfirmware
+year: 2012
+platform: "Take a guess."
+path: "Other/Wii U System"
+songs:
+  - id: system_transfer_-_menu
+    title: "System Transfer - Menu"
+    path: "System Transfer - Menu.brstm"
+    type: break
+  - id: mii_maker_-_create_(gamepad)
+    title: "Mii Maker - Create (Gamepad)"
+    path: "Mii Maker - Create (Gamepad).brstm"
+    type: break
+...

@@ -1,0 +1,29 @@
+---
+id: mighty_switch_force
+title: "Mighty Switch Force"
+series: mightyswitchforce
+year: 2011
+platform: "3DS+Wii U"
+path: "Other/Mighty Switch Force"
+songs:
+  - id: end_credits
+    title: "End Credits"
+    path: "End Credits.brstm"
+    type: break
+  - id: break_up_take_down
+    title: "Break Up Take Down"
+    path: "Break Up Take Down.brstm"
+    type: result
+  - id: love_you_love_you_love
+    title: "Love You Love You Love"
+    path: "Love You Love You Love.brstm"
+    type: betting
+  - id: level_select
+    title: "Level Select"
+    path: "Level Select.brstm"
+    type: break
+  - id: whoa_i'm_in_space_cuba
+    title: "Whoa I'm In Space Cuba"
+    path: "Whoa I'm In Space Cuba.brstm"
+    type: result
+...

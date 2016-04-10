@@ -1,0 +1,25 @@
+---
+id: soulcalibur_ii
+title: "SoulCalibur II"
+series: soulcalibur
+year: 2003
+platform: "GCN, PS2, Xbox"
+path: "Other/SoulCalibur II"
+songs:
+  - id: raise_thy_sword
+    title: "Raise Thy Sword"
+    path: "Raise Thy Sword.brstm"
+    type: warning
+  - id: confrontation
+    title: "Confrontation"
+    path: "Confrontation.brstm"
+    type: battle
+  - id: brave_sword,_braver_soul
+    title: "Brave Sword, Braver Soul"
+    path: "Brave Sword, Braver Soul.brstm"
+    type: battle
+  - id: link's_theme
+    title: "Link's Theme"
+    path: "Link's Theme.brstm"
+    type: result
+...
