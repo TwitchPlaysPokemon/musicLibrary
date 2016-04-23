@@ -9,6 +9,7 @@ songs:
   - id: katamari_on_the_rocks_(main_theme)
     title: "Katamari On The Rocks (Main Theme)"
     path: "02 - Yu Miyake & Masayuki Tanaka - Katamari On The Rocks (Main Theme).mib"
+    ends: 3:56
     type: betting
   - id: the_wonderful_stars_walk_is_wonderful
     title: "Yuri Misumi - The Wonderful Star's Walk is Wonderful"
@@ -16,6 +17,7 @@ songs:
     type: betting
   - id: katamari_stars
     title: "Hideki Tobeta - Katamari Stars"
+    ends: 1:36
     path: "15 - Hideki Tobeta - Katamari Stars.mib"
     type: break
 ...
