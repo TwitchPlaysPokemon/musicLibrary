@@ -13,6 +13,7 @@ songs:
   - id: touhou_hisouten_wonderful_heaven
     path: "Catastrophe in Bhava-agra ~ Wonderful Heaven (Arranged).brstm"
     title: "Tenshi's theme: Catastrophe in Bhava-agra ~ Wonderful Heaven (Arranged)"
+    ends: 4:00
     type: betting
   - id: catastrophe_in_bhava-agra_wonderful_heaven
     path: "Catastrophe in Bhava-agra ~ Wonderful Heaven.brstm"
@@ -69,5 +70,6 @@ songs:
   - id: title_screen_evening_sky
     path: "Title Screen_ Evening Sky.brstm"
     title: "Title Screen: Evening Sky"
+    ends: 4:40
     type: betting
 ...
