@@ -25,6 +25,7 @@ songs:
   - id: black_comet
     title: "Black Comet"
     path: "Black Comet.brstm"
+    ends: 1:46
     type: betting
   - id: central_city
     title: "Central City"
@@ -41,6 +42,7 @@ songs:
   - id: final_haunt
     title: "Final Haunt"
     path: "Final Haunt.brstm"
+    ends: 1:58
     type: betting
   - id: gun_fortress
     title: "GUN Fortress"
@@ -49,6 +51,7 @@ songs:
   - id: lava_shelter
     title: "Lava Shelter"
     path: "Lava Shelter.brstm"
+    ends: 1:56
     type: betting
   - id: lethal_highway_(extended)
     title: "Lethal Highway (Extended)"
@@ -61,6 +64,7 @@ songs:
   - id: sky_troops
     title: "Sky Troops"
     path: "Sky Troops.brstm"
+    ends: 1:44
     type: betting
   - id: space_gadget
     title: "Space Gadget"
