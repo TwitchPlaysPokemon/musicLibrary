@@ -7,6 +7,6 @@ platform: "SNES"
 songs:
   - id: boss_battle_ffiv
     title: "Boss Battle"
-    path: "Boss Battle.brstm"
+    path: "Boss Battle.spc"
     type: warning
 ...

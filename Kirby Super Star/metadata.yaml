@@ -6,23 +6,23 @@ series: kirby
 year: 1996
 songs: 
   - id: dyna_blades_nest
-    path: "Dyna Blade's Nest.brstm"
+    path: "Dyna Blade's Nest.spc"
     title: "Dyna Blade's Nest"
     type: warning
   - id: coacoa_cave
-    path: "Coacoa Cave.brstm"
+    path: "Coacoa Cave.spc"
     title: "Coacoa Cave"
     type: betting
   - id: meta_knight_defeated
-    path: "Meta Knight Defeated.brstm"
+    path: "Meta Knight Defeated.spc"
     title: "Meta Knight Defeated"
     type: result
   - id: tutorial
-    path: "Tutorial.brstm"
+    path: "Tutorial.spc"
     title: "Time to Learn"
     type: betting
   - id: milky_way_wishes_-_heart_of_nova
-    path: "Milky Way Wishes - Heart of Nova.brstm"
+    path: "Milky Way Wishes - Heart of Nova.spc"
     title: "Galactic Nova"
     type: warning
 ...

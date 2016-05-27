@@ -7,7 +7,7 @@ platform: "GBA"
 songs:
   - id: battle_spirit
     title: "Battle Spirit"
-    path: "Battle Spirit.brstm"
+    path: "Battle Spirit.minigsf"
     type: battle
   - id: smokey_field
     title: "Smokey Field"

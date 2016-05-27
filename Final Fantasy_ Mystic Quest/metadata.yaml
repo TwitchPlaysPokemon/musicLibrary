@@ -7,22 +7,22 @@ platform: "SNES"
 songs:
   - id: victory_ff_mystic_quest
     title: "Victory"
-    path: "Victory.brstm"
+    path: "Victory.spc"
     type: result
   - id: shrine_of_light
     title: "Shrine of Light"
-    path: "Shrine of Light.brstm"
+    path: "Shrine of Light.spc"
     type: result
   - id: hill_of_fate
     title: "Hill of Fate"
-    path: "Hill of Fate.brstm"
+    path: "Hill of Fate.spc"
     type: warning
   - id: ending_ff_mystic_quest
     title: "Ending"
-    path: "Ending.brstm"
+    path: "Ending.spc"
     type: result
   - id: battle_3_ff_mystic_quest
     title: "Battle 3"
-    path: "Battle 3.brstm"
+    path: "Battle 3.spc"
     type: battle
 ...

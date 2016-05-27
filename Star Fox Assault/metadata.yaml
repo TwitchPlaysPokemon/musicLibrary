@@ -6,27 +6,27 @@ series: starfox
 year: 2005
 songs: 
   - id: corneria_foxassault
-    path: "Corneria.brstm"
+    path: "Corneria.dsp"
     title: "Corneria"
     type: battle
   - id: menu
-    path: "Menu.brstm"
+    path: "Menu.dsp"
     title: "Menu"
     type: betting
   - id: meteo
-    path: "Meteo.brstm"
+    path: "Meteo.dsp"
     title: "Meteo"
     type: battle
   - id: sauria
-    path: "Sauria.brstm"
+    path: "Sauria.dsp"
     title: "Sauria"
     type: battle
   - id: mission_complete
-    path: "Mission Complete.brstm"
+    path: "Mission Complete.dsp"
     title: "Mission Complete"
     type: result
   - id: vs_simple_map_5
-    path: "Vs. Simple Map 5.brstm"
+    path: "Vs. Simple Map 5.dsp"
     title: "Vs. Simple Map 5"
     type: betting
 ...

@@ -7,11 +7,11 @@ year: 1995
 songs:
   - id: aylas_theme
     title: "Ayla's Theme"
-    path: "Ayla's Theme.brstm"
+    path: "Ayla's Theme.spc"
     type: warning
   - id: battle_with_magus
     title: "Battle with Magus"
-    path: "Battle with Magus.brstm"
+    path: "Battle with Magus.spc
     type: battle
 #      - id: delightful_spekkio
 #        title: "Delightful Spekkio"
@@ -24,14 +24,14 @@ songs:
     type: result
   - id: gatos_song
     title: "Gato's Song"
-    path: "Gato's Song.brstm"
+    path: "Gato's Song.spc"
     type: warning
   - id: robos_theme
     title: "Robo's Theme"
-    path: "Robo's Theme.brstm"
+    path: "Robo's Theme.spc"
     type: result
   - id: undersea_palace
     title: "Undersea Palace"
-    path: "Undersea Palace.brstm"
+    path: "Undersea Palace.spc"
     type: betting
 ...

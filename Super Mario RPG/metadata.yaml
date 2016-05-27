@@ -7,11 +7,11 @@ year: 1996
 songs:
   - id: my_names_booster
     title: "And My Name's Booster"
-    path: "And My Name's Booster.brstm"
+    path: "And My Name's Booster.spc"
     type: betting
   - id: barrel_volcano
     title: "Barrel Volcano"
-    path: "Barrel Volcano.brstm"
+    path: "Barrel Volcano.spc"
     type: betting
 #      - id: beware_of_the_forests_mushrooms
 #        title: "Beware of the Forest's Mushrooms"
@@ -20,11 +20,11 @@ songs:
 # no, slightly memetic for some stupid reason
   - id: fight_against_smithy
     title: "Fight Against Smithy"
-    path: "Fight Against Smithy.brstm"
+    path: "Fight Against Smithy.spc"
     type: battle
   - id: heart_beating_a_little_faster
     title: "Heart Beating a Little Faster"
-    path: "Heart Beating a Little Faster.brstm"
+    path: "Heart Beating a Little Faster.spc"
     type: warning
   - id: margarie_margarita
     title: "Margarie Margarita"
@@ -32,22 +32,22 @@ songs:
     type: betting
   - id: my_paradise_monstro_town
     title: "My Paradise ~ Monstro Town"
-    path: "My Paradise ~ Monstro Town.brstm"
+    path: "My Paradise ~ Monstro Town.spc"
     type: break
   - id: super_pipe_house
     title: "Super Pipe House"
-    path: "Super Pipe House.brstm"
+    path: "Super Pipe House.spc"
     type: betting
   - id: welcome_to_booser_tower
     title: "Welcome to Booster Tower"
-    path: "Welcome to Booster Tower.brstm"
+    path: "Welcome to Booster Tower.spc"
     type: break
   - id: still_the_road_is_full_of_dangers
     title: "Still, the Road is Full of Dangers"
-    path: "Still, the Road is Full of Dangers.brstm"
+    path: "Still, the Road is Full of Dangers.spc"
     type: betting
   - id: lets_go_down_the_wine_river
     title: "Let's Go Down the Wine River"
-    path: "Let's Go Down the Wine River.brstm"
+    path: "Let's Go Down the Wine River.spc"
     type: result
 ...

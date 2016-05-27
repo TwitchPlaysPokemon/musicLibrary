@@ -7,34 +7,34 @@ platform: "SNES"
 songs:
   - id: what_the_forest_taught_me
     title: "What the Forest Taught Me"
-    path: "What the Forest Taught Me.brstm"
+    path: "What the Forest Taught Me.spc"
     type: betting
   - id: meridian_dance
     title: "Meridian Dance"
-    path: "Meridian Dance.brstm"
+    path: "Meridian Dance.spc"
     type: battle
   - id: danger_somsnes
     title: "Danger!"
-    path: "Danger!.brstm"
+    path: "Danger!.spc"
     type: warning
   - id: calm_before_the_storm
     title: "Calm Before the Storm"
-    path: "Calm Before the Storm.brstm"
+    path: "Calm Before the Storm.spc"
     type: result
   - id: distant_thunder
     title: "Distant Thunder"
-    path: "Distant Thunder.brstm"
+    path: "Distant Thunder.spc"
     type: betting
   - id: into_the_thick_of_it
     title: "Into the Thick of it"
-    path: "Into the Thick of it.brstm"
+    path: "Into the Thick of it.spc"
     type: betting
   - id: leave_time_for_love_mana_fortress
     title: "Leave Time for Love (Mana Fortress)"
-    path: "Leave Time For Love (Mana Fortress).brstm"
+    path: "Leave Time For Love (Mana Fortress).spc"
     type: betting
   - id: secret_of_the_arid_sands
     title: "Secret of the Arid Sands"
-    path: "Secret of the Arid Sands.brstm"
+    path: "Secret of the Arid Sands.spc"
     type: betting
 ...

@@ -7,67 +7,67 @@ platform: "GCN"
 songs:
   - id: battle_mode
     title: "Battle Mode"
-    path: "Battle Mode.brstm"
+    path: "Battle Mode.adx"
     type: battle
   - id: black_doom
     title: "Black Doom"
-    path: "Black Doom.brstm"
+    path: "Black Doom.adx"
     type: battle
   - id: blue_falcon
     title: "Blue Falcon"
-    path: "Blue Falcon.brstm"
+    path: "Blue Falcon.adx"
     type: battle
   - id: egg_dealer
     title: "Egg Dealer"
-    path: "Egg Dealer.brstm"
+    path: "Egg Dealer.adx"
     type: battle
   - id: black_comet
     title: "Black Comet"
-    path: "Black Comet.brstm"
+    path: "Black Comet.adx"
     ends: 1:46
     type: betting
   - id: central_city
     title: "Central City"
-    path: "Central City.brstm"
+    path: "Central City.adx"
     type: betting
   - id: circus_park
     title: "Circus Park"
-    path: "Circus Park.brstm"
+    path: "Circus Park.adx"
     type: betting
   - id: cryptic_castle
     title: "Cryptic Castle"
-    path: "Cryptic Castle.brstm"
+    path: "Cryptic Castle.adx"
     type: betting
   - id: final_haunt
     title: "Final Haunt"
-    path: "Final Haunt.brstm"
+    path: "Final Haunt.adx"
     ends: 1:58
     type: betting
   - id: gun_fortress
     title: "GUN Fortress"
-    path: "GUN Fortress.brstm"
+    path: "GUN Fortress.adx"
     type: betting
   - id: lava_shelter
     title: "Lava Shelter"
-    path: "Lava Shelter.brstm"
+    path: "Lava Shelter.adx"
     ends: 1:56
     type: betting
   - id: lethal_highway_(extended)
     title: "Lethal Highway (Extended)"
-    path: "Lethal Highway (Extended).brstm"
+    path: "Lethal Highway (Extended).adx"
     type: betting
   - id: mad_matrix
     title: "Mad Matrix"
-    path: "Mad Matrix.brstm"
+    path: "Mad Matrix.adx"
     type: betting
   - id: sky_troops
     title: "Sky Troops"
-    path: "Sky Troops.brstm"
+    path: "Sky Troops.adx"
     ends: 1:44
     type: betting
   - id: space_gadget
     title: "Space Gadget"
-    path: "Space Gadget.brstm"
+    path: "Space Gadget.adx"
     type: betting
 #      - id: the_ark
 #        title: "The Ark"
@@ -76,22 +76,22 @@ songs:
 # this was a meme song waiting to happen, noone played it though
   - id: the_doom
     title: "The Doom"
-    path: "The Doom.brstm"
+    path: "The Doom.adx"
     type: betting
   - id: westopolis
     title: "Westopolis"
-    path: "Westopolis.brstm"
+    path: "Westopolis.adx"
     type: betting
   - id: lost_impact
     title: "Lost Impact"
-    path: "Lost Impact.brstm"
+    path: "Lost Impact.adx"
     type: break
   - id: battle_menu
     title: "Battle Menu"
-    path: "Battle Menu.brstm"
+    path: "Battle Menu.adx"
     type: warning
   - id: cosmic_fall
     title: "Cosmic Fall"
-    path: "Cosmic Fall.brstm"
+    path: "Cosmic Fall.adx"
     type: warning
 ...

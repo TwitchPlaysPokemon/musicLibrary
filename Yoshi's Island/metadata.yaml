@@ -6,11 +6,11 @@ series: mario
 year: 1995
 songs: 
   - id: underground_smw2
-    path: "Underground.brstm"
+    path: "Underground.spc"
     title: "Underground"
     type: betting
   - id: flower_garden
-    path: "Flower Garden.brstm"
+    path: "Flower Garden.spc"
     title: "Flower Garden"
     type: betting
 ...

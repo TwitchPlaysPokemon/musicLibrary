@@ -6,7 +6,7 @@ series: kirby
 year: 2004
 songs: 
   - id: area_3_-_cabbage_cavern
-    path: "Area 3 - Cabbage Cavern.brstm"
+    path: "Area 3 - Cabbage Cavern.minigsf"
     title: "Area 3 - Cabbage Cavern"
     type: betting
 #      - id: main_menu_kirbymirror
@@ -20,19 +20,19 @@ songs:
 #        type: result
 # unfitting result song
   - id: kirby_wave_ride
-    path: "Kirby Wave Ride.brstm"
+    path: "Kirby Wave Ride.minigsf"
     title: "Kirby Wave Ride"
     type: warning
   - id: intro_stage
-    path: "Intro Stage.brstm"
+    path: "Intro Stage.minigsf"
     title: "Intro Stage"
     type: betting
   - id: dark_meta_knight_battle
-    path: "Dark Meta Knight Battle.brstm"
+    path: "Dark Meta Knight Battle.minigsf"
     title: "Dark Meta Knight Battle"
     type: warning
   - id: area_9_-_candy_constellation
-    path: "Area 9 - Candy Constellation.brstm"
+    path: "Area 9 - Candy Constellation.minigsf"
     title: "Area 9 - Candy Constellation"
     type: betting
 ...

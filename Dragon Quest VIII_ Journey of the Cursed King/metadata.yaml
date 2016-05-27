@@ -6,11 +6,11 @@ platform: "PS2"
 songs:
   - id: overture_dqviii_jotck
     title: "Overture"
-    path: "Overture.brstm"
+    path: "Overture.mwv"
     type: result
   - id: a_peaceful_community
     title: "A Peaceful Community"
-    path: "A Peaceful Community.brstm"
+    path: "A Peaceful Community.mwv"
     ends: 2:02
     type: betting
 ...

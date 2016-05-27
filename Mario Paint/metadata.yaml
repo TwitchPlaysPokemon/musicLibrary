@@ -7,18 +7,18 @@ platform: "SNES"
 songs:
   - id: monkeys
     title: "Monkeys"
-    path: "Monkeys.brstm"
+    path: "Monkeys.spc"
     type: betting
   - id: gnat_attack_boss
     title: "Gnat Attack Boss"
-    path: "Gnat Attack Boss.brstm"
+    path: "Gnat Attack Boss.spc"
     type: warning
   - id: data_robot
     title: "Data Robot"
-    path: "Data Robot.brstm"
+    path: "Data Robot.spc"
     type: warning
   - id: creative_exercise
     title: "Creative Exercise"
-    path: "Creative Exercise.brstm"
+    path: "Creative Exercise.spc"
     type: betting
 ...

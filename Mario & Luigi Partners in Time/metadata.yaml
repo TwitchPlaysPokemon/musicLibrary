@@ -7,26 +7,26 @@ year: 2005
 songs:
   - id: gritzy_desert
     title: "Gritzy Desert"
-    path: "Gritzy Desert.brstm"
+    path: "Gritzy Desert.mini2sf"
     type: betting
   - id: shroobs
     title: "Shroobs!"
-    path: "Shroobs!.brstm"
+    path: "Shroobs!.mini2sf"
     type: warning
   - id: holli_jolli_village
     title: "Holli Jolli Village"
-    path: "Holli Jolli Village.brstm"
+    path: "Holli Jolli Village.mini2sf"
     type: betting
   - id: the_time_machine
     title: "The Time Machine"
-    path: "The Time Machine.brstm"
+    path: "The Time Machine.mini2sf"
     type: betting
   - id: serious_trouble
     title: "Serious Trouble"
-    path: "Serious Trouble.brstm"
+    path: "Serious Trouble.mini2sf"
     type: warning
   - id: thwomp_volcano
     title: "Thwomp Volcano"
-    path: "Thwomp Volcano.brstm"
+    path: "Thwomp Volcano.mini2sf"
     type: betting
 ...

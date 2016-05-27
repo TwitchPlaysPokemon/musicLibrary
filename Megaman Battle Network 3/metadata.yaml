@@ -7,18 +7,18 @@ year: 2002
 songs:
   - id: secret_area
     title: "Secret Area"
-    path: "Secret Area.brstm"
+    path: "Secret Area.minigsf"
     type: betting
   - id: alpha_battle
     title: "Alpha Battle"
-    path: "Alpha Battle.brstm"
+    path: "Alpha Battle.minigsf"
     type: battle
   - id: great_battlers
-    path: "Great Battlers.brstm"
+    path: "Great Battlers.minigsf"
     title: "Great Battlers"
     type: battle
   - id: navi_customizer
-    path: "Navi Customizer.brstm"
+    path: "Navi Customizer.minigsf"
     title: "Navi Customizer"
     type: betting
 ...

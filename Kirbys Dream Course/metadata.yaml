@@ -7,26 +7,26 @@ platform: "SNES"
 songs:
   - id: the_first_hole
     title: "The First Hole"
-    path: "The First Hole.brstm"
+    path: "The First Hole.spc"
     type: betting
   - id: iceberg_ocean
     title: "Iceberg Ocean"
-    path: "Iceberg Ocean.brstm"
+    path: "Iceberg Ocean.spc"
     type: betting
   - id: green_fields
     title: "Green Fields"
-    path: "Green Fields.brstm"
+    path: "Green Fields.spc"
     type: betting
   - id: cloudy_mountain_peaks
     title: "Cloudy Mountain Peaks"
-    path: "Cloudy Mountain Peaks.brstm"
+    path: "Cloudy Mountain Peaks.spc"
     type: betting
   - id: dedede_is_getting_closer
     title: "Dedede is Getting Closer!"
-    path: "Dedede is Getting Closer!.brstm"
+    path: "Dedede is Getting Closer!.spc"
     type: warning
   - id: showdown_with_dedede
     title: "Showdown with Dedede"
-    path: "Showdown with Dedede.brstm"
+    path: "Showdown with Dedede.spc"
     type: warning
 ...
