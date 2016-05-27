@@ -1,5 +1,5 @@
 # musicLibrary
 PBR's music library
 
-##Cloning
-Download and install git lfs from [here](https://git-lfs.github.com/). Before cloning, run `git lfs install --skip-smudge`. Then, clone the repo as per normal. If you have to input credentials to the LFS server, you forgot the `--skip-smudge`.
+# Where are the actual music files?
+They are currently stored separately and synced using `rsync`. Eventually they will get integrated into this repo using [git lfs](https://git-lfs.github.com/)
