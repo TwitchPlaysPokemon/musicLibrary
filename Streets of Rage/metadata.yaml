@@ -1,0 +1,27 @@
+---
+id: streets_of_rage
+title: "Streets of Rage"
+year: 1991
+platform: "Genesis"
+songs:
+  - id: fighting_in_the_street
+    title: "Fighting in the Street"
+    path: "03 - Fighting in the Street.vgz"
+    type: betting
+  - id: keep_the_groovin
+    title: "Keep the Groovin'"
+    path: "06 - Keep the Groovin'.vgz"
+    type: betting
+  - id: violent_breathing
+    title: "Violent Breathing"
+    path: "09 - Violent Breathing.vgz"
+    type: betting
+  - id: the_last_soul
+    title: "The Last Soul"
+    path: "10 - The Last Soul.vgz"
+    type: betting
+  - id: attack_the_barbarian
+    title: "Attack the Barbarian"
+    path: "12 - Attack the Barbarian.vgz"
+    type: warning
+...

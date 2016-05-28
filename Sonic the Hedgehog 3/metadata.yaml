@@ -1,0 +1,96 @@
+---
+id: sonic_the_hedgehog_3
+title: "Sonic the Hedgehog 3"
+series: sonic
+year: 1994
+platform: "Genesis"
+songs:
+  - id: blue_spheres
+    title: "Special Stage (Blue Spheres)"
+    path: "16 - Special Stage (Blue Spheres).vgz"
+    type: battle
+  - id: robotnik_1994
+    title: "Robotnik"
+    path: "26 - Robotnik.vgz"
+    type: battle
+  - id: final_boss_(big_arms)
+    title: "Final Boss (Big Arms)"
+    path: "27 - Final Boss (Big Arms).vgz"
+    type: battle
+  - id: angel_island_zone_act_1_1994
+    title: "Angel Island Zone Act 1"
+    path: "03 - Angel Island Zone Act 1.vgz"
+    type: betting
+  - id: angel_island_zone_act_2
+    title: "Angel Island Zone Act 2"
+    path: "04 - Angel Island Zone Act 2.vgz"
+    type: betting
+  - id: hydrocity_zone_act_1
+    title: "Hydrocity Zone Act 1"
+    path: "05 - Hydrocity Zone Act 1.vgz"
+    type: betting
+  - id: hydrocity_zone_act_2
+    title: "Hydrocity Zone Act 2"
+    path: "06 - Hydrocity Zone Act 2.vgz"
+    type: betting
+  - id: marble_garden_zone_act_1
+    title: "Marble Garden Zone Act 1"
+    path: "07 - Marble Garden Zone Act 1.vgz"
+    type: betting
+  - id: carnival_night_zone_act_1
+    title: "Carnival Night Zone Act 1"
+    path: "09 - Carnival Night Zone Act 1.vgz"
+    type: betting
+  - id: icecap_zone_act_1
+    title: "IceCap Zone Act 1"
+    path: "11 - IceCap Zone Act 1.vgz"
+    type: betting
+  - id: launch_base_zone_act_1
+    title: "Launch Base Zone Act 1"
+    path: "13 - Launch Base Zone Act 1.vgz"
+    type: betting
+  - id: azure_lake
+    title: "Azure Lake"
+    path: "19 - Azure Lake.vgz"
+    type: betting
+  - id: balloon_park
+    title: "Balloon Park"
+    path: "20 - Balloon Park.vgz"
+    type: betting
+  - id: chrome_gadget
+    title: "Chrome Gadget"
+    path: "21 - Chrome Gadget.vgz"
+    type: betting
+  - id: desert_palace
+    title: "Desert Palace"
+    path: "22 - Desert Palace.vgz"
+    type: betting
+  - id: endless_mine
+    title: "Endless Mine"
+    path: "23 - Endless Mine.vgz"
+    type: betting
+  - id: competition_menu
+    title: "Competition Menu"
+    path: "18 - Competition Menu.vgz"
+    type: break
+  - id: data_select
+    title: "Data Select"
+    path: "02 - Data Select.vgz"
+    type: result
+  - id: bonus_stage_(gumball_machine)
+    title: "Bonus Stage (Gumball Machine)"
+    path: "15 - Bonus Stage (Gumball Machine).vgz"
+    type: result
+  - id: results_vs
+    title: "Results (VS. Mode)"
+    path: "24 - Results (VS. Mode).vgz"
+    type: result
+  - id: staff_roll_unreleased
+    title: "Staff Roll (Unreleased)"
+    path: "28 - Staff Roll (Unreleased).vgz"
+    type: result
+  - id: staff_roll_s3
+    title: "Staff Roll"
+    path: "29 - Staff Roll.vgz"
+    type: result
+...

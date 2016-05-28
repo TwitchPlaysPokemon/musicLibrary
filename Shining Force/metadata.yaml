@@ -1,0 +1,23 @@
+---
+id: shining_force
+title: "Shining Force"
+year: 1992
+platform: "Genesis"
+songs:
+  - id: prologue_sf
+    title: "Prologue"
+    path: "01 - [Prologue].vgz"
+    type: warning
+  - id: standard_battle_sf
+    title: "Battle Scene (Standard Battle)"
+    path: "11 - Hikari yo! Teki wo Ute! [Battle Scene (Standard Battle)].vgz"
+    type: warning
+  - id: mid_boss_sf
+    title: "Battle 3 (Mid Boss)"
+    path: "16 - Koutekishu [Battle 3 (Mid Boss)].vgz"
+    type: warning
+  - id: dark_dragon_sf
+    title: "Battle 6 (Dark Dragon)"
+    path: "26 - Armageddon [Battle 6 (Dark Dragon)].vgz"
+    type: warning
+...

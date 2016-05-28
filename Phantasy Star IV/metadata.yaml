@@ -1,0 +1,56 @@
+---
+id: phantasy_star_iv
+title: "Phantasy Star IV"
+series: phantasystar
+year: 1993
+platform: "Genesis"
+songs:
+  - id: laughter
+    title: "Laughter"
+    path: "27 - Laughter.vgz"
+    type: battle
+  - id: the_king_of_terrors
+    title: "The King of Terrors"
+    path: "38 - The King of Terrors.vgz"
+    type: battle
+  - id: behind_the_circuit
+    title: "Behind the Circuit"
+    path: "16 - Behind the Circuit.vgz"
+    type: betting
+  - id: organic_beat
+    title: "Organic Beat"
+    path: "20 - Organic Beat.vgz"
+    type: betting
+  - id: take_off_landale
+    title: "Take Off! Landale"
+    path: "28 - Take Off! Landale.vgz"
+    type: betting
+  - id: field_motavia
+    title: "Field Motavia"
+    path: "05 - Field Motavia.vgz"
+    type: break
+  - id: in_the_cave
+    title: "In the Cave"
+    path: "13 - In the Cave.vgz"
+    type: break
+  - id: dezolis_town
+    title: "Dezolis Town 1"
+    path: "31 - Dezolis Town 1.vgz"
+    type: break
+  - id: motavia_town
+    title: "Motavia Town"
+    path: "02 - Motavia Town.vgz"
+    type: result
+  - id: the_end_of_the_millennium
+    title: "The End of the Millennium"
+    path: "01 - The End of the Millennium.vgz"
+    type: warning
+  - id: meet_them_head_on
+    title: "Meet Them Head-On!"
+    path: "06 - Meet Them Head-On!.vgz"
+    type: warning
+  - id: defeat_at_a_blow
+    title: "Defeat at a Blow!"
+    path: "14 - Defeat at a Blow!.vgz"
+    type: warning
+...

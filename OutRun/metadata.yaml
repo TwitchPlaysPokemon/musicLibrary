@@ -1,19 +1,19 @@
 ---
 id: outrun
-title: "OutRun"
+title: "Outrun"
 platform: "Genesis"
 year: 1991
 songs:
   - id: magical_sound_shower
     title: "Magical Sound Shower"
-    path: "Magical Sound Shower.vgm"
+    path: "01 - Magical Sound Shower.vgz"
     type: betting
   - id: splash_wave
     title: "Splash Wave"
-    path: "Splash Wave.vgm"
+    path: "02 - Splash Wave.vgz"
     type: betting
   - id: last_wave
     title: "Last Wave"
-    path: "Last Wave.vgm"
+    path: "04 - Last Wave.vgz"
     type: break
 ...

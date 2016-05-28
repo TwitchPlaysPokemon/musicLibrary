@@ -1,0 +1,83 @@
+---
+id: thunder_force_iv
+title: "Thunder Force IV"
+year: 1992
+platform: "Genesis"
+songs:
+  - id: metal_squad_(stage_8)
+    title: "Metal Squad"
+    path: "23 - Metal Squad (Stage 8).vgz"
+    type: battle
+  - id: war_like_requiem_(stage_10_boss)
+    title: "War Like Requiem"
+    path: "28 - War Like Requiem (Stage 10 Boss).vgz"
+    type: battle
+  - id: fighting_back_(stage_1a)
+    title: "Fighting Back"
+    path: "04 - Fighting Back (Stage 1A).vgz"
+    type: betting
+  - id: space_walk_(stage_2a)
+    title: "Space Walk"
+    path: "07 - Space Walk (Stage 2A).vgz"
+    type: betting
+  - id: the_sky_line_(stage_3a)
+    title: "The Sky Line"
+    path: "10 - The Sky Line (Stage 3A).vgz"
+    type: betting
+  - id: sand_hell_(stage_4a)
+    title: "Sand Hell"
+    path: "13 - Sand Hell (Stage 4A).vgz"
+    type: betting
+  - id: battle_ship_(stage_5)
+    title: "Battle Ship"
+    path: "16 - Battle Ship (Stage 5).vgz"
+    type: betting
+  - id: great_sea_power_(stage_6)
+    title: "Great Sea Power"
+    path: "19 - Great Sea Power (Stage 6).vgz"
+    type: betting
+  - id: sea_of_flame_(stage_7)
+    title: "Sea of Flame"
+    path: "21 - Sea of Flame (Stage 7).vgz"
+    type: betting
+  - id: omake_4
+    title: "Omake 4"
+    path: "42 - Omake 4.vgz"
+    type: betting
+  - id: stand_up_against_myself_(staff_roll)
+    title: "Stand Up Against Myself"
+    path: "33 - Stand Up Against Myself (Staff Roll).vgz"
+    type: result
+  - id: lightning_strikes_again_(opening_theme)
+    title: "Lightning Strikes Again"
+    path: "01 - Lightning Strikes Again (Opening Theme).vgz"
+    type: warning
+  - id: dont_go_off_(course_select)
+    title: "Don't Go Off"
+    path: "03 - Don't Go Off (Course Select).vgz"
+    type: warning
+  - id: phantom_(stage_8_boss)
+    title: "Phantom"
+    path: "24 - Phantom (Stage 8 Boss).vgz"
+    type: warning
+  - id: down_right_attack_(stage_9)
+    title: "Down Right Attack"
+    path: "25 - Down Right Attack (Stage 9).vgz"
+    type: warning
+  - id: recalcitrance_(stage_9_boss)
+    title: "Recalcitrance"
+    path: "26 - Recalcitrance (Stage 9 Boss).vgz"
+    type: warning
+  - id: the_danger_zone_(stage_10)
+    title: "The Danger Zone"
+    path: "27 - The Danger Zone (Stage 10).vgz"
+    type: warning
+  - id: stranger_(stage_5_boss)
+    title: "Stranger"
+    path: "17 - Stranger (Stage 5 Boss).vgz"
+    type: warning
+  - id: omake_6
+    title: "Omake 6"
+    path: "44 - Omake 6.vgz"
+    type: warning
+...
