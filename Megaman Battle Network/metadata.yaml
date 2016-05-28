@@ -34,15 +34,15 @@ songs:
     path: "Winner!.minigsf"
     type: result
   - id: theme_of_megaman_exe
-    path: "Theme of MegaMan EXE.brstm"
+    path: "Theme of MegaMan EXE.minigsf"
     title: "Theme of Mega Man EXE"
     type: warning
   - id: fire_field_megabatnetwork1
-    path: "Fire Field.brstm"
+    path: "Fire Field.minigsf"
     title: "Fire Field"
     type: betting
   - id: end_roll
-    path: "End Roll.brstm"
+    path: "End Roll.minigsf"
     title: "End Roll"
     type: warning
 ...
