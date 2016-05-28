@@ -33,4 +33,8 @@ songs:
     path: "SMT Nocturne - Cathedral of Shadows Cursed.brstm"
     title: "Cathedral of Shadows (Cursed)"
     type: betting
+  - id: dante_battle
+    title: "Dante Battle"
+    path: "Dante Battle.brstm"
+    type: battle
 ...

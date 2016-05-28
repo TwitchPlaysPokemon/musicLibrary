@@ -1,0 +1,15 @@
+---
+id: ys_origin
+title: "Ys Origin"
+year: 2006
+platform: "PC"
+songs:
+  - id: tension_ys
+    title: "Tension"
+    path: "Tension.brstm"
+    type: betting
+  - id: genesis_beyond_the_beginning
+    title: "Genesis ~ Beyond the Beginning (Bonus)"
+    path: "Genesis ~ Beyond the Beginning (Bonus).brstm"
+    type: battle
+...

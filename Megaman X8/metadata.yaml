@@ -1,0 +1,15 @@
+---
+id: mega_man_x8
+title: "Mega Man X8"
+year: 2004
+platform: "PS2+PC"
+songs:
+  - id: angry_boss
+    title: "Angry Boss"
+    path: "Angry Boss.brstm"
+    type: warning
+  - id: save_and_load
+    title: "Save and Load"
+    path: "Save and Load.brstm"
+    type: break
+...

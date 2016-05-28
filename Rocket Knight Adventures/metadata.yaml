@@ -1,0 +1,27 @@
+---
+id: rocket_knight_adventures
+title: "Rocket Knight Adventures"
+year: 1993
+platform: "Genesis"
+songs:
+  - id: stage_1_1
+    title: "Stage 1-1"
+    path: "04 Stage 1-1.vgm"
+    type: betting
+  - id: stage_5_2
+    title: "Stage 5-2"
+    path: "12 Stage 5-2 (No Intro).vgm"
+    type: betting
+  - id: interlude
+    title: "Interlude"
+    path: "02 Interlude.vgm"
+    type: warning
+  - id: miniboss
+    title: "Miniboss"
+    path: "16 Miniboss.vgm"
+    type: warning
+  - id: stage_1_2
+    title: "Stage 1-2"
+    path: "05 Stage 1-2.vgm"
+    type: result
+...

@@ -1,0 +1,15 @@
+---
+id: sonic_the_hedgehog_spinball
+title: "Sonic the Hedgehog Spinball"
+year: 1993
+platform: "Genesis"
+songs:
+  - id: toxic_caves
+    title: "Toxic Caves"
+    path: "05 Toxic Caves.vgm"
+    type: betting
+  - id: lava_power_house
+    title: "Lava Power House"
+    path: "10 Lava Power House.vgm"
+    type: betting
+...

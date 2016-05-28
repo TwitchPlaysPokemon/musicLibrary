@@ -1,0 +1,55 @@
+---
+id: undertale
+title: "Undertale"
+year: 2015
+platform: "PC"
+songs:
+  - id: asgore
+    title: "ASGORE"
+    path: "ASGORE (Game Loop).brstm"
+    type: battle
+  - id: battle_against_a_true_hero
+    title: "Battle Against a True Hero"
+    path: "Battle Against a True Hero.brstm"
+    type: battle
+  - id: death_by_glamour
+    title: "Death By Glamour"
+    path: "Death by Glamour.brstm"
+    type: battle
+  - id: hopes_and_dreams
+    title: "Hopes and Dreams"
+    path: "Hopes and Dreams.brstm"
+    type: battle
+  - id: megalovania
+    title: "Megalovania"
+    path: "Megalovania.brstm"
+    type: battle
+  - id: spear_of_justice
+    title: "Spear of Justice"
+    path: "Spear of Justice.brstm"
+    type: battle
+  - id: stronger_monsters
+    title: "Stronger Monsters"
+    path: "Stronger Monsters.brstm"
+    type: warning
+  - id: another_medium
+    title: "Another Medium"
+    path: "Another Medium.brstm"
+    type: betting
+  - id: core
+    title: "CORE"
+    path: "CORE.brstm"
+    type: betting
+  - id: dating_start
+    title: "Dating Start!"
+    path: "Dating Start!.brstm"
+    type: betting
+  - id: ruins_undertale
+    title: "Ruins"
+    path: "Ruins.brstm"
+    type: betting
+  - id: sans
+    title: "sans."
+    path: "sans..brstm"
+    type: break
+...

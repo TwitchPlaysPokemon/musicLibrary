@@ -1,0 +1,19 @@
+---
+id: mega_man_10
+title: "Mega Man 10"
+year: 2010
+platform: "Wii+PS3+360"
+songs:
+  - id: opening_future_world
+    title: "Opening - Future World"
+    path: "Opening - Future World.brstm"
+    type: warning
+  - id: wily_stage_4_stairway_to_darkness
+    title: "Wily Stage 4 - Stairway to Darkness"
+    path: "Stairway to Darkness (Wily Stage 4).brstm"
+    type: warning
+  - id: roboenza_virus
+    title: "Roboenza Virus"
+    path: "Roboenza Virus.brstm"
+    type: warning
+...

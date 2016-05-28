@@ -8,4 +8,8 @@ songs:
     title: "The Stone-Like"
     path: "The Stone-Like.brstm"
     type: battle
+  - id: boss_01_butsutekkai
+    title: "Boss 01 (Butsutekkai)"
+    path: "Boss 01 (Butsutekkai).brstm"
+    type: warning
 ...

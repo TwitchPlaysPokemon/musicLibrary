@@ -12,4 +12,12 @@ songs:
     title: "Face the Legendary Champ"
     path: "Face the Legendary Champ.brstm"
     type: warning
+  - id: ikanger
+    title: "Ikanger"
+    path: "Ikanger.brstm"
+    type: result
+  - id: tukikage
+    title: "Tukikage"
+    path: "Tukikage.brstm"
+    type: warning
 ...

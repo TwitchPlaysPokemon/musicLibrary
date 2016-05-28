@@ -187,4 +187,12 @@ songs:
     title: "Weapons Bed"
     path: "Weapons Bed.brstm"
     type: warning
+  - id: mad_space
+    title: "Mad Space"
+    path: "Mad Space.brstm"
+    type: betting
+  - id: throw_it_all_away
+    title: "Throw it All Away"
+    path: "Throw it All Away.brstm"
+    type: warning
 ...

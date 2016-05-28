@@ -25,4 +25,8 @@ songs:
     title: "Simon's Theme"
     path: "Simon's Theme.brstm"
     type: betting
+  - id: nothing_to_lose
+    title: "Nothing to Lose"
+    path: "Nothing to Lose.brstm"
+    type: warning
 ...
