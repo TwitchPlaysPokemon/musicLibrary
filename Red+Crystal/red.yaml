@@ -1,0 +1,177 @@
+---
+id: pokemon_red
+platform: "GB"
+title: "Pokémon Red/Blue/Yellow"
+series: pokemon
+year: 1996
+songs: 
+  - id: "1"
+    path: "Pokemon Red_01.gbs"
+    title: "Title Screen"
+    type: betting
+  - id: "2"
+    path: "Pokemon Red_02.gbs"
+    title: "Game Start/Route 24"
+    type: betting
+  - id: "3"
+    path: "Pokemon Red_03.gbs"
+    title: "Pallet Town"
+    type: betting
+  - id: "4"
+    path: "Pokemon Red_04.gbs"
+    title: "Pokémon Center"
+    type: betting
+  - id: "5"
+    path: "Pokemon Red_05.gbs"
+    title: "Gym"
+    type: betting
+  - id: "6"
+    path: "Pokemon Red_06.gbs"
+    title: "Viridian/Pewter/Saffron City"
+    type: betting
+  - id: "7"
+    path: "Pokemon Red_07.gbs"
+    title: "Cerulean/Fuschia City"
+    type: betting
+  - id: "8"
+    path: "Pokemon Red_08.gbs"
+    title: "Celadon City/Link Room"
+    type: betting
+  - id: "9"
+    path: "Pokemon Red_09.gbs"
+    title: "Cinnabar Island"
+    type: betting
+  - id: "10"
+    path: "Pokemon Red_10.gbs"
+    title: "Vermilion City"
+    type: betting
+#  - id: "11"
+#    path: "Pokemon Red_11.gbs"
+#    title: "Lavender Town"
+#    type: betting
+# you know why this is disabled
+  - id: "12"
+    path: "Pokemon Red_12.gbs"
+    title: "S.S. Anne"
+    type: betting
+  - id: "17"
+    path: "Pokemon Red_17.gbs"
+    title: "Route 1"
+    type: betting
+  - id: "18"
+    path: "Pokemon Red_18.gbs"
+    title: "Route 3"
+    type: betting
+  - id: "19"
+    path: "Pokemon Red_19.gbs"
+    title: "Route 11"
+    type: betting
+  - id: "28"
+    path: "Pokemon Red_28.gbs"
+    title: "Staff Roll"
+    type: result
+  - id: "30"
+    path: "Pokemon Red_30.gbs"
+    title: "Prof. Oak's Lab"
+    type: betting
+  - id: "33"
+    path: "Pokemon Red_33.gbs"
+    title: "Surfing"
+    type: betting
+  - id: "35"
+    path: "Pokemon Red_35.gbs"
+    title: "Team Rocket Hideout"
+    type: betting
+  - id: "36"
+    path: "Pokemon Red_36.gbs"
+    title: "Viridian Forest"
+    type: betting
+  - id: "37"
+    path: "Pokemon Red_37.gbs"
+    title: "Mt. Moon"
+    type: betting
+  - id: "38"
+    path: "Pokemon Red_38.gbs"
+    title: "Pokémon Mansion"
+    type: betting
+  - id: "39"
+    path: "Pokemon Red_39.gbs"
+    title: "Pokémon Tower"
+    type: betting
+  - id: "40"
+    path: "Pokemon Red_40.gbs"
+    title: "Silph Co."
+    type: betting
+  - id: "13"
+    path: "Pokemon Red_13.gbs"
+    title: "Prof. Oak's Theme"
+    type: warning
+  - id: "14"
+    path: "Pokemon Red_14.gbs"
+    title: "Rival's Theme"
+    type: warning
+  - id: "15"
+    path: "Pokemon Red_15.gbs"
+    title: "Come Along"
+    type: warning
+  - id: "16"
+    path: "Pokemon Red_16.gbs"
+    title: "Evolution / Safari Zone"
+    type: warning
+  - id: "20"
+    path: "Pokemon Red_20.gbs"
+    title: "Route 23/Indigo Plateau/Pokémon League"
+    type: warning
+  - id: "41"
+    path: "Pokemon Red_41.gbs"
+    title: "Encounter! Bad Guy Trainer"
+    type: warning
+  - id: "42"
+    path: "Pokemon Red_42.gbs"
+    title: "Encounter! Female Trainer"
+    type: warning
+  - id: "43"
+    path: "Pokemon Red_43.gbs"
+    title: "Encounter! Male Trainer"
+    type: warning
+  - id: "25"
+    path: "Pokemon Red_25.gbs"
+    title: "Victory! Trainer"
+    type: result
+  - id: "26"
+    path: "Pokemon Red_26.gbs"
+    title: "Victory! Wild Pokémon"
+    type: result
+  - id: "27"
+    path: "Pokemon Red_27.gbs"
+    title: "Victory! Gym Leader"
+    type: result
+  - id: "29"
+    path: "Pokemon Red_29.gbs"
+    title: "Hall of Fame"
+    type: result
+  - id: "32"
+    path: "Pokemon Red_32.gbs"
+    title: "Bicycle"
+    type: result
+  - id: "34"
+    path: "Pokemon Red_34.gbs"
+    title: "Game Corner/Link Trade Menu"
+    type: result
+  - id: "21"
+    path: "Pokemon Red_21.gbs"
+    title: "Battle! Gym Leader"
+    type: battle
+  - id: "22"
+    path: "Pokemon Red_22.gbs"
+    title: "Battle! Trainer"
+    type: battle
+  - id: "23"
+    path: "Pokemon Red_23.gbs"
+    title: "Battle! Wild Pokémon"
+    type: battle
+  - id: "24"
+    path: "Pokemon Red_24.gbs"
+    title: "Battle! Champion"
+    type: battle
+...
