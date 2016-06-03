@@ -45,4 +45,16 @@ songs:
     title: "Sky Tower"
     path: "Sky Tower.brstm"
     type: betting
+  - id: great_canyon
+    path: "Great Canyon.brstm"
+    title: "Great Canyon"
+    type: betting
+  - id: mt_blaze
+    path: "Mt. Blaze.brstm"
+    title: "Mt. Blaze"
+    type: betting
+  - id: magma_cavern_pit
+    path: "Magma Cavern Pit.brstm"
+    title: "Magma Cavern Pit"
+    type: warning
 ...

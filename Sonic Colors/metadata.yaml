@@ -13,4 +13,16 @@ songs:
     title: "Tropical Resort - Act 1"
     path: "Tropical Resort - Act 1.brstm"
     type: betting
+  - id: terminal_velocity_-_act_1
+    path: "Terminal Velocity - Act 1.brstm"
+    title: "Terminal Velocity - Act 1"
+    type: battle
+  - id: asteroid_coaster_3
+    path: "Asteroid Coaster 3.brstm"
+    title: "Asteroid Coaster 3"
+    type: betting
+  - id: aquarium_park_3
+    path: "Aquarium Park 3.brstm"
+    title: "Aquarium Park 3"
+    type: betting
 ...

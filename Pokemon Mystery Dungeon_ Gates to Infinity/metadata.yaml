@@ -32,4 +32,8 @@ songs:
 #        path: "Results Screen.brstm"
 #        type: result
 # unfitting game: a fan game should not be on this metadata.
+  - id: vs_final_boss_bittercold_last_battle
+    path: "vs. Final Boss (Bittercold Last Battle).brstm"
+    title: "vs. Final Boss (Bittercold Last Battle)"
+    type: battle
 ...
