@@ -6,55 +6,55 @@ series: pokemon
 year: 2011
 songs: 
   - id: boss_battle_poketype
-    path: "Boss Battle.brstm"
+    path: "Boss Battle.strm"
     title: "Boss Battle"
     type: battle
   - id: bgm_stg_01
-    path: "BGM_STG_01.brstm"
+    path: "Zorua Archipelago.strm"
     title: "Zorua Archipelago"
     type: betting
   - id: bgm_stg_02
-    path: "BGM_STG_02.brstm"
+    path: "Pikachu Park.strm"
     title: "Pikachu Park"
     type: betting
   - id: bgm_stg_03
-    path: "BGM_STG_03.brstm"
+    path: "Blastoise's Resort.strm"
     title: "Blastoise's Resort"
     type: betting
   - id: bgm_stg_04
-    path: "BGM_STG_04.brstm"
+    path: "Emolga's Tall Forest.strm"
     title: "Emolga's Tall Forest"
     type: betting
   - id: bgm_stg_05
-    path: "BGM_STG_05.brstm"
+    path: "Haunter Mansion.strm"
     title: "Haunter Mansion"
     type: betting
   - id: bgm_stg_06
-    path: "BGM_STG_06.brstm"
+    path: "Deerling Park.strm"
     title: "Deerling Park"
     type: result
   - id: bgm_stg_07
-    path: "BGM_STG_07.brstm"
+    path: "Glalie's Snow-Covered Road.strm"
     title: "Glalie's Snow-Covered Road"
     type: break
   - id: bgm_stg_08
-    path: "BGM_STG_08.brstm"
+    path: "Bright Sunshine.strm"
     title: "Bright Sunshine"
     type: battle
   - id: bgm_stg_09
-    path: "BGM_STG_09.brstm"
+    path: "Unknown Course.strm"
     title: "Unknown Course"
     type: betting
   - id: bgm_stg_10
-    path: "BGM_STG_10.brstm"
+    path: "Space Hiking.strm"
     title: "Space Hiking"
     type: betting
   - id: main_menu
-    path: "Main Menu.brstm"
+    path: "Main Menu.strm"
     title: "Main Menu"
     type: betting
   - id: title_theme
-    path: "Title Theme.brstm"
+    path: "Title Theme.strm"
     title: "Title Theme"
     type: result
 ...

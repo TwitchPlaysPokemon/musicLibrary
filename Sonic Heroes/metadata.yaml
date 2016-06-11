@@ -6,23 +6,23 @@ series: sonic
 year: 2004
 songs: 
   - id: boss_2
-    path: "Boss 2.brstm"
+    path: "Boss 2.adx"
     title: "Boss 2"
     type: battle
   - id: bingo_highway
-    path: "Bingo Highway.brstm"
+    path: "Bingo Highway.adx"
     title: "Bingo Highway"
     type: battle
   - id: egg_emperor
-    path: "Egg Emperor.brstm"
+    path: "Egg Emperor.adx"
     title: "Egg Emperor"
     type: battle
   - id: seaside_hill_zone
-    path: "Seaside Hill Zone.brstm"
+    path: "Seaside Hill Zone.adx"
     title: "Seaside Hill Zone"
     type: betting
   - id: battle_4
-    path: "Battle 4.brstm"
+    path: "Battle 4.adx"
     title: "Battle 4"
     type: warning
 ...
