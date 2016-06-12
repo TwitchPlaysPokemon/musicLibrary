@@ -1,11 +1,11 @@
-id: pokemon_shuffle
-title: "Pokemon Shuffle"
+﻿id: pokemon_shuffle
+title: "Pokémon Shuffle"
 series: pokemon
 year: 2015
-platform: "3DS+Mobile"
+platform: ["3DS", "Mobile"]
 songs:
   - id: against_a_mega_evolved_pokemon
-    title: "Against a Mega-Evolved Pok�mon"
+    title: "Against a Mega-Evolved Pokémon"
     path: "Battle! Against a Mega-Evolved Pokemon.brstm"
     type: betting
   - id: against_mega_mewtwo_y
@@ -24,11 +24,11 @@ songs:
     title: "Puerto Blanco"
     path: "Puerto Blanco.brstm"
     type: break
-  - id: tutorial
+  - id: tutorial_pokemon_shuffle
     title: "Tutorial"
     path: "Battle! Tutorial.brstm"
     type: betting
-  - id: shop
+  - id: shop_pokemon_shuffle
     title: "Shop"
     path: "Shop.brstm"
     type: break
