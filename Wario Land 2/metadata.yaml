@@ -1,0 +1,10 @@
+id: wario_land_2
+title: "Wario Land 2"
+series: wario
+year: 1998
+platform: "GB+GBC"
+songs:
+  - id: stop_that_train_daytime
+    title: "Stop That Train (Daytime)"
+    path: "Stop That Train (Daytime).brstm"
+    type: warning

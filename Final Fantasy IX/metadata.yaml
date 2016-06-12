@@ -22,4 +22,24 @@ songs:
     path: "412 Assault of the White Dragons.psf"
     title: "Assault of the White Dragons"
     type: battle
+  - id: attack_city_under_siege
+    title: "Attack/City Under Siege"
+    path: "301 Ambush Attack.psf"
+    type: warning
+  - id: jesters_of_the_moon
+    title: "Jesters of the Moon"
+    path: "109 Jesters of the Moon.psf"
+    type: betting
+  - id: hunter's_chance
+    title: "Hunter's Chance"
+    path: "205 Hunter's Chance.psf"
+    type: battle
+  - id: freya's_theme
+    title: "Freya's Theme"
+    path: "210 Freya's Theme.psf"
+    type: betting
+  - id: black_mage_village
+    title: "Black Mage Village"
+    path: "305 Black Mage's Village.psf"
+    type: betting
 ...

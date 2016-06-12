@@ -1,0 +1,34 @@
+id: pokemon_shuffle
+title: "Pokemon Shuffle"
+series: pokemon
+year: 2015
+platform: "3DS+Mobile"
+songs:
+  - id: against_a_mega_evolved_pokemon
+    title: "Against a Mega-Evolved Pokémon"
+    path: "Battle! Against a Mega-Evolved Pokemon.brstm"
+    type: betting
+  - id: against_mega_mewtwo_y
+    title: "Against Mega Mewtwo Y"
+    path: "Battle! Against Mega Mewtwo Y.brstm"
+    type: warning
+  - id: expert_stage
+    title: "Expert Stage"
+    path: "Battle! Expert Stage.brstm"
+    type: warning
+  - id: ranking_stage
+    title: "Ranking Stage"
+    path: "Battle! Ranking Stage.brstm"
+    type: betting
+  - id: puerto_blanco
+    title: "Puerto Blanco"
+    path: "Puerto Blanco.brstm"
+    type: break
+  - id: tutorial
+    title: "Tutorial"
+    path: "Battle! Tutorial.brstm"
+    type: betting
+  - id: shop
+    title: "Shop"
+    path: "Shop.brstm"
+    type: break

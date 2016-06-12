@@ -13,4 +13,16 @@ songs:
     path: "Dreamland.brstm"
     title: "Dreamland"
     type: betting
+  - id: battlefield_duel_zone
+    title: "Battlefield (Duel Zone)"
+    path: "39 Fighting Polygons Fight.miniusf"
+    type: warning
+  - id: bonus_stage
+    title: "Bonus Stage"
+    path: "34 Bonus Game.miniusf"
+    type: betting
+  - id: metal_mario
+    title: "Metal Mario"
+    path: "40 Metal Mario Fight.miniusf"
+    type: warning
 ...
