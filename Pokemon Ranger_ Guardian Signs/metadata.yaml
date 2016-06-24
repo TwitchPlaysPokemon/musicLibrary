@@ -7,10 +7,10 @@ platform: "NDS"
 songs:
   - id: dolce_island
     title: "Dolce Island"
-    path: "Dolce Island.brstm"
+    path: "Dolce Island.mini2sf"
     type: betting
   - id: normal_capture
     title: "Normal Capture"
-    path: "Normal Capture.brstm"
+    path: "Normal Capture.mini2sf"
     type: result
 ...
