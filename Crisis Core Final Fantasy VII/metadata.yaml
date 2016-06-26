@@ -1,0 +1,18 @@
+id: crisis_core_final_fantasy_vii
+title: "Crisis Core: Final Fantasy VII"
+series: finalfantasy
+year: 2007
+platform: "PSP"
+songs:
+  - id: the_clandestine_dark_suits
+    title: "The Clandestine Dark Suits (FFVII - 'Turk's Theme')"
+    path: "The Clandestine Dark Suits (FFVII - 'Turk's Theme').brstm"
+    type: betting
+  - id: those_who_accept_protection_of_stars
+    title: "Those Who Accept Protection of Stars"
+    path: "Those Who Accept Protection of Stars.brstm"
+    type: battle
+  - id: on_the_verge_of_the_assault
+    title: "On the Verge of the Assault"
+    path: "On the Verge of the Assault (Those Who Fight).brstm"
+    type: battle

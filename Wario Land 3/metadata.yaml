@@ -1,0 +1,10 @@
+id: wario_land_3
+title: "Wario Land 3"
+series: wario
+year: 2000
+platform: "GBC"
+songs:
+  - id: world_map_day
+    title: "World Map (Day)"
+    path: "World Map (Day).brstm"
+    type: result

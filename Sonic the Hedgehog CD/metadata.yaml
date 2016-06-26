@@ -21,4 +21,8 @@ songs:
     title: "Invincibility (US)"
     path: "Invincibility (US).brstm"
     type: warning
+  - id: title_screen_jpeu
+    title: "Title Screen (JP/EU)"
+    path: "Title Screen (JP_EU) (Looped).brstm"
+    type: result
 ...

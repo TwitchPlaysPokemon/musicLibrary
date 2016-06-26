@@ -1,0 +1,17 @@
+id: dragon_quest_monsters_1_and_2
+title: "Dragon Quest Monsters 1 & 2"
+year: 2002
+platform: "PS1"
+songs:
+  - id: fun_encounter
+    title: "Fun Encounter"
+    path: "Fun Enconter.brstm"
+    type: betting
+  - id: never_ending_journey
+    title: "Never Ending Journey"
+    path: "Never Ending Journey.brstm"
+    type: break
+  - id: unknown_world
+    title: "Unknown World"
+    path: "Unknown World.brstm"
+    type: break

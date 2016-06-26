@@ -2,7 +2,7 @@
 id: blazblue_chrono_phantasma
 title: "BlazBlue Chrono Phantasma"
 series: blazblue
-platform: "Arcade"
+platform: ["Arcade", "VITA", "PS3"]
 year: 2012
 songs:
   - id: black_and_white_ragna_vs_hakumen

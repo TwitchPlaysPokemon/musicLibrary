@@ -32,4 +32,16 @@ songs:
     title: "The Desert and the Huge Clock Country"
     path: "The Desert and the Huge Clock Country.brstm"
     type: betting
+  - id: conflict's_chime
+    title: "Conflict's Chime (Long Version)"
+    path: "Conflict's Chime (Long Version).brstm"
+    type: battle
+  - id: fighting_to_the_end
+    title: "Fighting to the End"
+    path: "Fighting to the End.brstm"
+    type: battle
+  - id: joy_of_victory
+    title: "Joy of Victory"
+    path: "Joy of Victory.brstm"
+    type: result
 ...

@@ -7,30 +7,30 @@ platform: "N64"
 songs:
   - id: jr_troopa
     title: "Jr Troopa"
-    path: "Jr Troopa.brstm"
+    path: "Jr Troopa.miniusf"
     type: betting
   - id: kammy_koopa
     title: "Kammy Koopa"
-    path: "Kammy Koopa.brstm"
+    path: "Kammy Koopa.miniusf"
     type: warning
   - id: k64_train_ride
     title: "K64 Train Ride"
-    path: "K64 Train Ride.brstm"
+    path: "K64 Train Ride.miniusf"
     type: warning
   - id: mario_bros'_home
     title: "Mario Bros' Home"
-    path: "Mario Bros' Home.brstm"
+    path: "Mario Bros' Home.miniusf"
     type: betting
   - id: chomp_attack
     title: "Chomp Attack"
-    path: "Chomp Attack.brstm"
+    path: "Chomp Attack.miniusf"
     type: warning
   - id: king_of_the_koopas
     title: "King of the Koopas"
-    path: "King of the Koopas.brstm"
+    path: "King of the Koopas.miniusf"
     type: battle
   - id: the_castle_crumbles
     title: "The Castle Crumbles"
-    path: "133 The Castle Crumbles.miniusf"
+    path: "The Castle Crumbles.miniusf"
     type: warning
 ...

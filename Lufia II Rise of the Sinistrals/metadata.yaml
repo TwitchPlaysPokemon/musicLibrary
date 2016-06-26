@@ -1,0 +1,13 @@
+id: lufia_ii_rise_of_the_sinistrals
+title: "Lufia II: Rise of the Sinistrals"
+year: 1995
+platform: "SNES"
+songs:
+  - id: battle_2_lufia_ii
+    title: "Battle #2"
+    path: "113 Battle #2.spc"
+    type: battle
+  - id: final_battle_lufia_ii
+    title: "Final Battle"
+    path: "207 Final Battle.spc"
+    type: betting

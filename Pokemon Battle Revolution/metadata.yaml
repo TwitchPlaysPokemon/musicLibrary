@@ -71,7 +71,7 @@ songs:
     type: betting
   - id: select_your_pokemon
     path: "Select your Pokemon.brstm"
-    title: "Select your Pokemon"
+    title: "Select your Pokémon"
     type: betting
       # file missing
       #- id: first_battle

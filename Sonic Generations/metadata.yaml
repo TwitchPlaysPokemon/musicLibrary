@@ -50,4 +50,8 @@ songs:
     title: "Gallery (Sonic 3 File Select)"
     path: "Gallery (Sonic 3 File Select).brstm"
     type: break
+  - id: final_boss_time_eater_classic
+    title: "Final Boss - Time Eater (Classic)"
+    path: "Final Boss - Time Eater (Classic).brstm"
+    type: battle
 ...

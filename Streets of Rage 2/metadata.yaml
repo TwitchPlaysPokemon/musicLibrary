@@ -47,7 +47,7 @@ songs:
   - id: little_money_avenue
     title: "Little Money Avenue"
     path: "24 - Little Money Avenue.vgz"
-    type: result
+    type: betting
   - id: never_return_alive
     title: "Never Return Alive"
     path: "04 - Never Return Alive.vgz"
@@ -64,4 +64,8 @@ songs:
     title: "Revenge of Mr. X"
     path: "18 - Revenge of Mr. X.vgz"
     type: warning
+  - id: good_ending
+    title: "Good Ending"
+    path: "19 Good Ending.vgm"
+    type: result
 ...

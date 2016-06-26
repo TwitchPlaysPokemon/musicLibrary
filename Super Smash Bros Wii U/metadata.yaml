@@ -53,4 +53,16 @@ songs:
     path: "Menu (Melee)_ Ver. 2.brstm"
     title: "Menu (Melee): Ver. 2"
     type: battle
+  - id: cut_man_stage
+    title: "Cut Man Stage (Mega Man)"
+    path: "Cut Man Stage (Mega Man).brstm"
+    type: betting
+  - id: minor_circuit_remix
+    title: "Minor Circuit (Remix)"
+    path: "Minor Circuit (Remix).brstm"
+    type: betting
+  - id: quick_man_stage
+    title: "Quick Man Stage (Mega Man 2)"
+    path: "Quick Man Stage (Mega Man 2).brstm"
+    type: betting
 ...

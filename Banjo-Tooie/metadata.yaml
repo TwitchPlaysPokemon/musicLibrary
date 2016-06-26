@@ -10,7 +10,7 @@ songs:
     path: "Hag 1 - Monstrous Mechanical Mud-Muncher.brstm"
     type: battle
   - id: party_at_bottles
-    title: "Party at Bottles"
+    title: "Party at Bottles'"
     path: "Party at Bottles.brstm"
     type: betting
   - id: jiggywiggys_temple
@@ -18,7 +18,15 @@ songs:
     path: "Jiggywiggy's Temple.brstm"
     type: warning
   - id: jamjar_lesson
-    title: "Sergeant Jamjar's Lesson"
+    title: "Sergeant Jamjars' Lesson"
     path: "Sergeant Jamjar's Lesson.brstm"
     type: warning
+  - id: here_comes_trouble
+    title: "Here Comes Trouble..."
+    path: "here comes trouble.miniusf"
+    type: warning
+  - id: halfire_peaks_ice_side
+    title: "Halfire Peaks - Ice Side"
+    path: "hailfire peaks - normal(ice).miniusf"
+    type: betting
 ...

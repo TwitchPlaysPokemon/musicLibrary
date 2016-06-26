@@ -1,0 +1,26 @@
+id: kirby's_dream_land_3
+title: "Kirby's Dream Land 3"
+series: kirby
+year: 1997
+platform: "SNES"
+songs:
+  - id: grass_land
+    title: "Grass Land"
+    path: "09 Grass Land 1.spc"
+    type: betting
+  - id: hyper_zone
+    title: "Hyper Zone"
+    path: "40 Hyper Zone 1.spc"
+    type: warning
+  - id: zero
+    title: "Zero"
+    path: "41 Hyper Zone 2.spc"
+    type: warning
+  - id: ripple_field
+    title: "Ripple Field"
+    path: "14 Ripple Field 1.spc"
+    type: betting
+  - id: sand_canyon
+    title: "Sand Canyon"
+    path: "18 Sand Canyon 1.spc"
+    type: betting

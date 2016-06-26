@@ -73,4 +73,12 @@ songs:
     path: "Classic - Results Screen.brstm"
     title: "Classic - Results Screen"
     type: result
+  - id: battle_in_the_base
+    title: "Battle in the Base"
+    path: "Battle in the Base.brstm"
+    type: battle
+  - id: route_209
+    title: "Route 209"
+    path: "Route 209.brstm"
+    type: betting
 ...

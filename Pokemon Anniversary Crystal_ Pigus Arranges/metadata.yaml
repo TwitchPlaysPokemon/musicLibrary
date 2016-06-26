@@ -1,0 +1,36 @@
+---
+id: pokemon_anniversary_crystal
+title: "Pokémon Anniversary Crystal: Pigu's Arranges"
+series: pokemon
+platform: "GBC"
+year: 2016
+songs:
+  - id: annicrystal_251
+    title: "251"
+    path: "251short.brstm"
+    type: betting
+  - id: annicrystal_hooh
+    title: "Ho-oh battle"
+    path: "hooh.brstm"
+    type: battle
+  - id: annicrystal_luj
+    title: "Lugia Battle"
+    path: "luj.brstm"
+    type: battle
+  - id: annicrystal_kantolegend
+    title: "Kanto Legendary Battle"
+    path: "kantolegend.brstm"
+    type: battle
+  - id: annicrystal_ssane
+    title: "S.S. Anne"
+    path: "ssanne.brstm"
+    type: betting
+  - id: annicrystal_title
+    title: "Title Screen"
+    path: "title.brstm"
+    type: result
+  - id: annicrystal_elm
+    title: "Prof. Elm Battle"
+    path: "wcs.brstm"
+    type: battle
+...

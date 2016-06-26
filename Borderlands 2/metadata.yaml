@@ -1,0 +1,25 @@
+id: borderlands_2
+title: "Borderlands 2"
+year: 2012
+platform: "Various"
+songs:
+  - id: handsome_jack_boss
+    title: "Handsome Jack Boss"
+    path: "Handsome Jack Boss.brstm"
+    type: warning
+  - id: handsome_sorcerer_boss
+    title: "Handsome Sorcerer Boss"
+    path: "Handsome Sorcerer Boss.brstm"
+    type: betting
+  - id: tinder_snowflake_boss
+    title: "Tinder Snowflake Boss"
+    path: "Tinder Snowflake Boss.brstm"
+    type: betting
+  - id: the_raid_on_digistruct_peak
+    title: "The Raid on Digistruct Peak"
+    path: "The Raid on Digistruct Peak.brstm"
+    type: betting
+  - id: mad_moxxi's_bar
+    title: "Mad Moxxi's Bar"
+    path: "Mad Moxxi's Bar.brstm"
+    type: betting
