@@ -45,4 +45,33 @@ songs:
     title: "Jake's Theme"
     path: "Jake's Theme.brstm"
     type: betting
+
+  - id: sami's_theme
+    title: "Sami's Theme"
+    path: "Sami's Theme.brstm"
+    type: betting
+  - id: jugger's_theme
+    title: "Jugger's Theme"
+    path: "Jugger's Theme.brstm"
+    type: warning
+  - id: jess'_theme
+    title: "Jess' Theme"
+    path: "Jess's Theme.brstm"
+    type: betting
+  - id: eagle's_theme
+    title: "Eagle's Theme"
+    path: "Eagle's Theme.brstm"
+    type: warning
+  - id: black_hole_tag_power
+    title: "Black Hole Tag Power"
+    path: "Black Hole Tag Power!.brstm"
+    type: warning
+  - id: black_hole_super_co_power
+    title: "Black Hole Super CO Power"
+    path: "Black Hole Super CO Power.brstm"
+    type: warning
+  - id: andy's_anthem
+    title: "Andy's Anthem"
+    path: "Andy's Theme.brstm"
+    type: betting
 ...

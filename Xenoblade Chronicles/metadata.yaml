@@ -65,4 +65,8 @@ songs:
     path: "Colony 9.brstm"
     title: "Colony 9"
     type: betting
+  - id: time_to_fight
+    title: "Time to Fight!"
+    path: "Time to Fight!.brstm"
+    type: battle
 ...

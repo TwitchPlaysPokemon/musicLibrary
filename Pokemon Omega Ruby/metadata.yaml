@@ -358,4 +358,28 @@ songs:
     path: "Victory! Wild Pokémon.brstm"
     title: "Victory! Wild Pokémon"
     type: result
+  - id: sootopolis_city
+    title: "Sootopolis City"
+    path: "Sootopolis City.brstm"
+    type: betting
+  - id: sea_mauville
+    title: "Sea Mauville"
+    path: "Sea Mauville.brstm"
+    type: betting
+  - id: encounter_wally
+    title: "Encounter! Wally"
+    path: "Encounter! Wally.brstm"
+    type: result
+  - id: encounter_lisia
+    title: "Encounter! Lisia"
+    path: "Encounter! Lisia.brstm"
+    type: warning
+  - id: soaring_dreams
+    title: "Soaring Dreams"
+    path: "Soaring Dreams.brstm"
+    type: result
+  - id: soaring_illusions
+    title: "Soaring Illusions"
+    path: "Soaring Illusions.brstm"
+    type: break
 ...

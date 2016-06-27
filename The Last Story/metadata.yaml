@@ -1,0 +1,21 @@
+id: the_last_story
+title: "The Last Story"
+year: 2011
+platform: "Wii"
+songs: 
+  - id: event_battle_the_dance_of_death
+    title: "Event Battle! The Dance of Death"
+    path: "Event Battle! The Dance of Death.brstm"
+    type: battle
+  - id: invitation_to_madness
+    title: "Invitation to Madness"
+    path: "Invitation to Madness.brstm"
+    type: battle
+  - id: challenging_fight
+    title: "Challenging Fight!"
+    path: "Challenging Fight!.brstm"
+    type: warning
+  - id: battle_theme_hero
+    title: "Battle Theme - Hero"
+    path: "Battle Theme - Hero.brstm"
+    type: result

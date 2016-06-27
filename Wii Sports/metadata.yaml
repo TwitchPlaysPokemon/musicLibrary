@@ -1,0 +1,9 @@
+id: wii_sports
+title: "Wii Sports"
+year: 2006
+platform: "Wii"
+songs:
+  - id: tennis_results
+    title: "Tennis - Results"
+    path: "Tennis - Results.brstm"
+    type: result

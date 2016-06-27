@@ -13,4 +13,8 @@ songs:
     path: "Flower Garden.spc"
     title: "Flower Garden"
     type: betting
+  - id: bowser
+    title: "Bowser"
+    path: "123 Bowser.spc"
+    type: warning
 ...

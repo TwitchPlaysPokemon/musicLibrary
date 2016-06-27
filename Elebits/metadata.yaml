@@ -12,4 +12,16 @@ songs:
     title: "Boss Theme - Sea, Sky, & Land"
     path: "Boss Theme - Sea, Sky, & Land.brstm"
     type: betting
+  - id: tutorial
+    title: "Tutorial"
+    path: "Tutorial.brstm"
+    type: betting
+  - id: edit_mode
+    title: "Edit Mode"
+    path: "Edit Mode.brstm"
+    type: break
+  - id: boss_theme_zero_elebit
+    title: "Boss Theme - Zero Elebit"
+    path: "Boss Theme - Zero Elebit.brstm"
+    type: warning
 ...

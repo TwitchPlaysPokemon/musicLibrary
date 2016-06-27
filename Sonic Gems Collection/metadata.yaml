@@ -1,0 +1,10 @@
+id: sonic_gems_collection
+title: "Sonic Gems Collection"
+series: sonic
+year: 2005
+platform: "PS2+GCN"
+songs:
+  - id: manuals
+    title: "Manuals"
+    path: "Manuals.brstm"
+    type: break

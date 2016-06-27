@@ -1,0 +1,17 @@
+id: nintendo_land
+title: "Nintendo Land"
+year: 2012
+platform: "Wii U"
+songs:
+  - id: main_plaza_plaza_night
+    title: "Main Plaza - Plaza (Night)"
+    path: "Main Plaza - Plaza (Night).brstm"
+    type: break
+  - id: balloon_trip_breeze_all_clear
+    title: "Balloon Trip Breeze - All Clear!"
+    path: "Balloon Trip Breeze - All Clear!.brstm"
+    type: result
+  - id: mario_chase_chase_arena_30_seconds_left
+    title: "Mario Chase - Chase Arena (30 Seconds Left)"
+    path: "Mario Chase - Chase Arena (30 Seconds Left).brstm"
+    type: warning

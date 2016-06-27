@@ -1,0 +1,14 @@
+id: mass_effect
+title: "Mass Effect"
+series: masseffect
+year: 2007
+platform: "360+PC"
+songs: 
+  - id: uncharted_worlds
+    title: "Uncharted Worlds"
+    path: "Uncharted Worlds.brstm"
+    type: betting
+  - id: criminal_elements
+    title: "Criminal Elements"
+    path: "Criminal Elements.brstm"
+    type: warning

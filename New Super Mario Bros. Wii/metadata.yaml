@@ -1,0 +1,38 @@
+id: new_super_mario_bros_wii
+title: "New Super Mario Bros. Wii"
+series: mario
+year: 2009
+platform: "Wii"
+songs:
+  - id: airship
+    title: "Airship"
+    path: "Airship.brstm"
+    type: betting
+  - id: castle
+    title: "Castle"
+    path: "Castle.brstm"
+    type: betting
+  - id: fortress
+    title: "Fortress"
+    path: "Fortress.brstm"
+    type: betting
+  - id: world_9_map
+    title: "World 9 Map"
+    path: "World 9 Map.brstm"
+    type: betting
+  - id: bowser_jr
+    title: "Bowser Jr."
+    path: "Bowser Jr..brstm"
+    type: warning
+  - id: world_2_map
+    title: "World 2 Map"
+    path: "World 2 Map.brstm"
+    type: warning
+  - id: world_8_map
+    title: "World 8 Map"
+    path: "World 8 Map.brstm"
+    type: warning
+  - id: mid_boss
+    title: "Mid Boss"
+    path: "Mid Boss.brstm"
+    type: battle

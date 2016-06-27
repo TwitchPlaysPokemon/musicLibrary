@@ -14,4 +14,16 @@ songs:
 #        path: "Yoshi's Disco.brstm"
 #        type: betting
 # nope
+  - id: love_is_in_the_air
+    title: "Love Is In The Air"
+    path: "07a Love Is In The Air.miniusf"
+    type: betting
+  - id: baby_bowser_phase_1
+    title: "Baby Bowser Phase 1"
+    path: "99 Baby Bowser BGM 1.miniusf"
+    type: warning
+  - id: ending_story
+    title: "Ending Story"
+    path: "99 Ending Story.miniusf"
+    type: break
 ...

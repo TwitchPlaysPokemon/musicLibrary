@@ -1,0 +1,18 @@
+id: castlevania_portrait_of_ruin
+title: "Castlevania: Portrait of Ruin"
+series: castlevania
+year: 2006
+platform: "NDS"
+songs:
+  - id: piercing_silence
+    title: "Piercing Silence"
+    path: "Piercing Silence.brstm"
+    type: warning
+  - id: gears_go_awry
+    title: "Gears go Awry"
+    path: "Gears Go Awry.brstm"
+    type: betting
+  - id: gaze_up_at_darkness
+    title: "Gaze Up At Darkness"
+    path: "Gaze Up At Darkness.brstm"
+    type: betting

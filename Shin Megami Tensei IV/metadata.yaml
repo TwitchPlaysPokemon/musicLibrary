@@ -13,4 +13,16 @@ songs:
     path: "SMT IV - Tokyo.brstm"
     title: "Tokyo"
     type: betting
+  - id: boss_battle
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: ikebukuro_underground_district
+    title: "Ikebukuro Underground District"
+    path: "Ikebukuro Underground District.brstm"
+    type: betting
+  - id: tokyo_midtown
+    title: "Tokyo Midtown"
+    path: "Tokyo Midtown.brstm"
+    type: betting
 ...

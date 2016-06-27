@@ -1,0 +1,42 @@
+id: chameleon_twist_2
+title: "Chameleon Twist 2"
+series: chameleontwist
+year: 1998
+platform: "N64"
+songs:
+  - id: title_screen
+    title: "Title Screen"
+    path: "01 Title Screen.miniusf"
+    type: result
+  - id: toy_land_boss
+    title: "Toy Land Boss"
+    path: "20 Toy Land Boss.miniusf"
+    type: betting
+  - id: training_game_1
+    title: "Training Game 1"
+    path: "06 Training Game 1.miniusf"
+    type: betting
+  - id: training_game_2
+    title: "Training Game 2"
+    path: "17 Training Game 2.miniusf"
+    type: betting
+  - id: training_mode
+    title: "Training Mode"
+    path: "03 Training Mode.miniusf"
+    type: betting
+  - id: great_edo_land_boss
+    title: "Great Edo Land Boss"
+    path: "18 Great Edo Land Boss.miniusf"
+    type: warning
+  - id: ice_land_boss
+    title: "Ice Land Boss"
+    path: "15 Ice Land Boss.miniusf"
+    type: warning
+  - id: stage_5_toy_land
+    title: "Stage 5 Toy Land"
+    path: "19 Stage 5 Toy Land.miniusf"
+    type: betting
+  - id: stage_select
+    title: "Stage Select"
+    path: "10 Stage Select.miniusf""
+    type: result

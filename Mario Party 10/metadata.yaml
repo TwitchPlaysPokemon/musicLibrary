@@ -1,0 +1,14 @@
+id: mario_party_10
+title: "Mario Party 10"
+series: mario
+year: 2010
+platform: "Wii"
+songs:
+  - id: amiibo_theme_cpu
+    title: "Amiibo Theme - CPU"
+    path: "Amiibo Theme - CPU.brstm"
+    type: betting
+  - id: amiibo_theme_toad_super_mario_bros_3_toad's_house
+    title: "Amiibo Theme - Toad (Super Mario Bros. 3 - Toad's House)"
+    path: "Amiibo Theme - Toad (Super Mario Bros. 3 - Toad's House).brstm"
+    type: warning

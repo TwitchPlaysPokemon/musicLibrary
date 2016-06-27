@@ -37,4 +37,12 @@ songs:
     path: "Fountain of Dreams.brstm"
     title: "Fountain of Dreams"
     type: betting
+  - id: multi_man_melee_1
+    title: "Multi-Man Melee 1"
+    path: "Multi Man Melee 1.brstm"
+    type: battle
+  - id: multi_man_melee_2
+    title: "Multi-Man Melee 2"
+    path: "Multi-Man Melee 2.brstm"
+    type: battle
 ...

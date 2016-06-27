@@ -1,0 +1,70 @@
+id: mario_sonic_at_the_london_2012_olympic_games
+title: "Mario & Sonic at the London 2012 Olympic Games"
+series: crossover
+year: 2011
+platform: "Wii"
+songs:
+  - id: dream_hurdles_battlerock_galaxy_super_mario_galaxy
+    title: "Dream Hurdles - Battlerock Galaxy (Super Mario Galaxy)"
+    path: "Dream Hurdles - Battlerock Galaxy (Super Mario Galaxy).brstm"
+    type: betting
+  - id: dream_long_jump_yoshi's_picture_book_yoshi's_story
+    title: "Dream Long Jump - Yoshi's Picture Book (Yoshi's Story)"
+    path: "Dream Long Jump - Yoshi's Picture Book (Yoshi's Island).brstm"
+    ends: 2:06
+    type: betting
+  - id: london_party_london_tour
+    title: "London Party - London Tour"
+    path: "London Party - London Tour.brstm"
+    ends: 2:12
+    type: betting
+  - id: records
+    title: "Records"
+    path: "Records.brstm"
+    type: result
+  - id: wario's_gold_mine_mario_kart_wii
+    title: "Wario's Gold Mine (Mario Kart Wii)"
+    path: "Wario's Gold Mine (Mario Kart Wii).brstm"
+    ends: 2:08
+    type: betting
+  - id: london_party_coin_collection
+    title: "London Party - Coin Collection"
+    path: "London Party - Coin Collection.brstm"
+    type: warning
+  - id: quiz_athletic_and_scratching_cards
+    title: "Quiz (Athletic) & Scratching Cards"
+    path: "Quiz (Athletic) & Scratching Cards.brstm"
+    type: warning
+  - id: bowser's_road_super_mario_64
+    title: "Bowser's Road (Super Mario 64)"
+    path: "Bowser's Road (Super Mario 64).brstm"
+    ends: 2:13
+    type: betting
+  - id: rival_match_vs_dry_bowser
+    title: "Rival Match VS Dry Bowser"
+    path: "Rival Match VS Dry Bowser.brstm"
+    type: battle
+  - id: rival_match_vs_eggman_nega
+    title: "Rival Match VS Eggman Nega"
+    path: "Rival Match VS Eggman Nega.brstm"
+    type: battle
+  - id: rival_match_vs_jet
+    title: "Rival Match VS Jet"
+    path: "Rival Match VS Jet.brstm"
+    type: battle
+  - id: rival_match_vs_king_boo
+    title: "Rival Match VS King Boo"
+    path: "Rival Match VS King Boo.brstm"
+    type: battle
+  - id: athletic_theme_new_super_mario_bros
+    title: "Athletic Theme (New Super Mario Bros.)"
+    path: "Athletic Theme (New Super Mario Bros.).brstm"
+    type: result
+  - id: ceremony_1st_place
+    title: "Ceremony - 1st Place"
+    path: "Ceremony - 1st Place.brstm"
+    type: result
+  - id: event_results
+    title: "Event Results"
+    path: "Event Results.brstm"
+    type: result

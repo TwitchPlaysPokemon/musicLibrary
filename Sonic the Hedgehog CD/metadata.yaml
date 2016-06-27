@@ -25,4 +25,20 @@ songs:
     title: "Title Screen (JP/EU)"
     path: "Title Screen (JP_EU) (Looped).brstm"
     type: result
+  - id: quartz_quadrant_past
+    title: "Quartz Quadrant Past"
+    path: "Quartz Quadrant Past.brstm"
+    type: betting
+  - id: wacky_workbench_past
+    title: "Wacky Workbench Past"
+    path: "Wacky Workbench Past.brstm"
+    type: betting
+  - id: stardust_speedway_past
+    title: "Stardust Speedway Past"
+    path: "Stardust Speedway Past.brstm"
+    type: betting
+  - id: title_screen_510_prototype
+    title: "Title Screen (510 prototype)"
+    path: "Title Screen (510 prototype).brstm"
+    type: warning
 ...

@@ -1,0 +1,14 @@
+id: kirby_fighters_deluxe
+title: "Kirby Fighters Deluxe"
+series: kirby
+year: 2014
+platform: "3DS"
+songs:
+  - id: select_copy_ability
+    title: "Select Copy Ability"
+    path: "Select Copy Ability.brstm"
+    type: warning
+  - id: results
+    title: "Results"
+    path: "Results.brstm"
+    type: result

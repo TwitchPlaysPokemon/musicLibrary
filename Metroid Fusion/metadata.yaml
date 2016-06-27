@@ -1,0 +1,10 @@
+id: metroid_fusion
+title: "Metroid Fusion"
+series: metroid
+year: 2002
+platform: "GBA"
+songs:
+  - id: sa_x_chase
+    title: "SA-X Chase"
+    path: "40 SA-X Chase.minigsf"
+    type: warning

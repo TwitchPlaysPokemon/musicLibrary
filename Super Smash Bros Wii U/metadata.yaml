@@ -65,4 +65,74 @@ songs:
     title: "Quick Man Stage (Mega Man 2)"
     path: "Quick Man Stage (Mega Man 2).brstm"
     type: betting
+
+  - id: online_waiting_room
+    title: "Online Waiting Room"
+    path: "Online Waiting Room.brstm"
+    type: betting
+  - id: balloon_trip
+    title: "Balloon Trip"
+    path: "Balloon Trip.brstm"
+    type: betting
+  - id: cloudtop_cruise
+    title: "Cloudtop Cruise"
+    path: "Cloudtop Cruise.brstm"
+    type: betting
+  - id: ice_cream_island_kirby's_adventure
+    title: "Ice Cream Island (Kirby's Adventure)"
+    path: "Ice Cream Island (Kirby's Adventure).brstm"
+    type: betting
+  - id: luigi's_mansion_series_medley
+    title: "Luigi's Mansion Series Medley"
+    path: "Luigi's Mansion Series Medley.brstm"
+    type: betting
+  - id: magicant_eight_melodies
+    title: "Magicant / Eight Melodies"
+    path: "Magicant _ Eight Melodies.brstm"
+    type: betting
+  - id: mega_man_2_medley
+    title: "Mega Man 2 Medley"
+    path: "Mega Man 2 Medley.brstm"
+    type: betting
+  - id: onett_theme_winters_theme
+    title: "Onett Theme / Winters Theme"
+    path: "Onett Theme _ Winters Theme.brstm"
+    type: betting
+  - id: ryu_stage
+    title: "Ryu Stage (Normal)"
+    path: "Ryu Stage (Normal).brstm"
+    ends: 2:57
+    type: betting
+  - id: super_mario_bros_the_lost_levels_medley
+    title: "Super Mario Bros.: The Lost Levels Medley"
+    path: "Super Mario Bros._ The Lost Levels Medley.brstm"
+    type: result
+  - id: the_mysterious_murasame_castle_medley
+    title: "The Mysterious Murasame Castle Medley"
+    path: "The Mysterious Murasame Castle Medley.brstm"
+    type: betting
+  - id: title_metroid
+    title: "Title (Metroid)"
+    path: "Title (Metroid).brstm"
+    type: betting
+  - id: jogging_countdown
+    title: "Jogging / Countdown"
+    path: "Jogging _ Countdown.brstm"
+    type: battle
+  - id: spark_man_stage
+    title: "Spark Man Stage (Mega Man 3)"
+    path: "Spark Man Stage (Mega Man 3).brstm"
+    type: battle
+  - id: style_savvy_trendsetters
+    title: "Style Savvy: Trendsetters"
+    path: "Style Savvy_ Trendsetters.brstm"
+    type: betting
+  - id: tournament_spectating
+    title: "Tournament: Spectating"
+    path: "Tournament_ Spectating.brstm"
+    type: result
+  - id: gamer_mom
+    title: "Gamer: Mom"
+    path: "Gamer_ Mom.brstm"
+    type: warning
 ...

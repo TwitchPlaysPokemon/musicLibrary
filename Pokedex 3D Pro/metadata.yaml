@@ -9,4 +9,8 @@ songs:
     title: "Pokedex"
     path: "Pokedex.brstm"
     type: break
+  - id: move_dex
+    title: "Move Dex"
+    path: "Move Dex.brstm"
+    type: break
 ...

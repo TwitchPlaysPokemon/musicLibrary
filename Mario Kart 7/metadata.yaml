@@ -9,4 +9,13 @@ songs:
     title: "Rainbow Road"
     path: "Rainbow Road.brstm"
     type: betting
+  - id: wii_koopa_cape_medley
+    title: "Wii Koopa Cape (Medley)"
+    path: "Wii Koopa Cape (Medley).brstm"
+    type: betting
+  - id: watch_race
+    title: "Watch Race"
+    path: "Watch Race.brstm"
+    ends: 2:48
+    type: betting
 ...

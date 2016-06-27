@@ -395,4 +395,12 @@ songs:
     path: "Victory! (Wild Pokémon).brstm"
     title: "Victory! (Wild Pokémon)"
     type: result
+  - id: victory_team_flare
+    title: "Victory! (Team Flare)"
+    path: "Victory! (Team Flare).brstm"
+    type: result
+  - id: battle_mewtwo
+    title: "Battle! Mewtwo"
+    path: "Battle! Mewtwo.brstm"
+    type: battle
 ...

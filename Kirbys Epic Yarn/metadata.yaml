@@ -9,4 +9,12 @@ songs:
     title: "Vs. Yin-Yarn"
     path: "Vs. Yin-Yarn.brstm"
     type: battle
+  - id: halberd
+    title: "Halberd"
+    path: "Halberd.brstm"
+    type: betting
+  - id: kirby's_pad
+    title: "Kirby's Pad"
+    path: "Kirby's Pad.brstm"
+    type: break
 ...

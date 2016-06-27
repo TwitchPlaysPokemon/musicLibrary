@@ -9,4 +9,28 @@ songs:
     path: "Blinded By Light (Extended Version).brstm"
     title: "Blinded By Light (Extended Version)"
     type: battle
+  - id: cocoon_de_chocobo_chasing_dreams
+    title: "Cocoon de Chocobo - Chasing Dreams"
+    path: "Cocoon de Chocobo - Chasing Dreams.brstm"
+    type: result
+  - id: desperate_struggle
+    title: "Desperate Struggle"
+    path: "Desperate Struggle.brstm"
+    type: warning
+  - id: lake_bresha
+    title: "Lake Bresha"
+    path: "Lake Bresha.brstm"
+    type: betting
+  - id: pulse_de_chocobo
+    title: "Pulse de Chocobo"
+    path: "Pulse de Chocobo.brstm"
+    type: betting
+  - id: saber's_edge
+    title: "Saber's Edge"
+    path: "Saber's Edge.brstm"
+    type: battle
+  - id: sazh's_theme
+    title: "Sazh's Theme"
+    path: "Sazh's Theme.brstm"
+    type: betting
 ...

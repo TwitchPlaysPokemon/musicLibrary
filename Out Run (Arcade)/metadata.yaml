@@ -1,0 +1,17 @@
+id: out_run_arcade
+title: "Out Run (Arcade)"
+year: 1986
+platform: "Arcade"
+songs:
+  - id: magical_sound_shower
+    title: "Magical Sound Shower"
+    path: "Magical Sound Shower.brstm"
+    type: betting
+  - id: splash_wave
+    title: "Splash Wave"
+    path: "Splash Wave.brstm"
+    type: warning
+  - id: last_wave
+    title: "Last Wave"
+    path: "Last Wave.brstm"
+    type: break

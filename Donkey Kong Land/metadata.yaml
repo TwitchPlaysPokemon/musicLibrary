@@ -1,0 +1,26 @@
+id: donkey_kong_land
+title: "Donkey Kong Land"
+series: donkeykong
+year: 1995
+platform: "GB"
+songs:
+  - id: blimp
+    title: "Blimp"
+    path: "Blimp.brstm"
+    type: betting
+  - id: boss
+    title: "Boss"
+    path: "Boss.brstm"
+    type: battle
+  - id: construction_site
+    title: "Construction Site"
+    path: "Construction Site.brstm"
+    type: betting
+  - id: temple
+    title: "Temple"
+    path: "Temple.brstm"
+    type: betting
+  - id: mountain
+    title: "Mountain"
+    path: "Mountain.brstm"
+    type: betting

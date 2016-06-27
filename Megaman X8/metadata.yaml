@@ -12,4 +12,8 @@ songs:
     title: "Save and Load"
     path: "Save and Load.brstm"
     type: break
+  - id: boss_confrontation_demo_3
+    title: "Boss Confrontation Demo 3"
+    path: "Boss Confrontation (Demo 3).brstm"
+    type: warning
 ...

@@ -81,4 +81,128 @@ songs:
     title: "Route 209"
     path: "Route 209.brstm"
     type: betting
+  - id: you_call_this_a_utopia_mother_3
+    title: "You Call This a Utopia?! (Mother 3)"
+    path: "You Call This a Utopia!.brstm"
+    type: betting
+  - id: yoshi's_island
+    title: "Yoshi's Island"
+    path: "Yoshi's Island.brstm"
+    type: betting
+  - id: with_mila's_divine_protection_celica_map_1
+    title: "With Mila's Divine Protection (Celica Map 1)"
+    path: "With Mila's Divine Protection (Celica Map 1).brstm"
+    type: battle
+  - id: wild_pokemon_battle_ruby_sapphire
+    title: "Wild Pokémon Battle! (Ruby / Sapphire)"
+    path: "Wild Pokémon Battle! (Ruby _ Sapphire).brstm"
+    type: battle
+  - id: wild_pokemon_battle_diamond_pearl
+    title: "Wild Pokémon Battle! (Diamond / Pearl)"
+    path: "Wild Pokémon Battle! (Diamond _ Pearl).brstm"
+    type: battle
+  - id: wild_pokemon_battle_gold_silver_melee
+    title: "Wild Pokémon Battle (Gold / Silver) (Melee)"
+    path: "Wild Pokémon Battle (Gold _ Silver) (Melee).brstm"
+    type: battle
+  - id: victory_road
+    title: "Victory Road"
+    path: "Victory Road.brstm"
+    type: battle
+  - id: unfounded_revenge_smashing_song_of_praise
+    title: "Unfounded Revenge / Smashing Song of Praise"
+    path: "Unfounded Revenge _ Smashing Song of Praise.brstm"
+    type: battle
+  - id: title_the_legend_of_zelda
+    title: "Title (The Legend of Zelda)"
+    path: "Title (The Legend of Zelda).brstm"
+    type: betting
+  - id: theme_of_tara
+    title: "Theme of Tara"
+    path: "Theme of Tara.brstm"
+    type: betting
+  - id: the_legendary_air_ride_machine
+    title: "The Legendary Air Ride Machine"
+    path: "The Legendary Air Ride Machine.brstm"
+    type: betting
+  - id: team_galactic_battle
+    title: "Team Galactic Battle!"
+    path: "Team Galactic Battle!.brstm"
+    type: battle
+  - id: star_wolf_star_fox_assault
+    title: "Star Wolf (Star Fox: Assault)"
+    path: "Star Wolf (Star Fox_ Assault).brstm"
+    type: betting
+  - id: song_of_storms
+    title: "Song of Storms"
+    path: "Song of Storms.brstm"
+    type: betting
+  - id: snowman
+    title: "Snowman"
+    path: "Snowman.brstm"
+    type: break
+  - id: shin_onigashima
+    title: "Shin Onigashima"
+    path: "Shin Onigashima.brstm"
+    type: battle
+  - id: mute_city
+    title: "Mute City"
+    path: "Mute City.brstm"
+    type: battle
+  - id: mother_3_love_theme
+    title: "Mother 3 Love Theme"
+    path: "Mother 3 Love Theme.brstm"
+    type: betting
+  - id: meta_knight's_revenge
+    title: "Meta Knight's Revenge"
+    path: "Meta Knight's Revenge.brstm"
+    type: battle
+  - id: main_theme_star_fox_64
+    title: "Main Theme (Star Fox 64)"
+    path: "Main Theme (Star Fox 64).brstm"
+    type: result
+  - id: luigi's_mansion_theme
+    title: "Luigi's Mansion Theme"
+    path: "Luigi's Mansion Theme.brstm"
+    type: betting
+  - id: king_dedede's_theme
+    title: "King Dedede's Theme"
+    path: "King Dedede's Theme.brstm"
+    type: warning
+  - id: green_greens_melee
+    title: "Green Greens (Melee)"
+    path: "Green Greens (Melee).brstm"
+    type: betting
+  - id: gourmet_race
+    title: "Gourmet Race"
+    path: "Gourmet Race.brstm"
+    type: battle
+  - id: final_destination_melee
+    title: "Final Destination (Melee)"
+    path: "Final Destination (Melee).brstm"
+    type: battle
+  - id: dr_mario_melee
+    title: "Dr. Mario (Melee)"
+    path: "Dr. Mario (Melee).brstm"
+    type: betting
+  - id: corneria
+    title: "Corneria"
+    path: "Corneria.brstm"
+    type: battle
+  - id: area_6
+    title: "Area 6"
+    path: "Area 6.brstm"
+    type: warning
+  - id: airship_theme_super_mario_bros_3
+    title: "Airship Theme (Super Mario Bros. 3)"
+    path: "Airship Theme (Super Mario Bros. 3).brstm"
+    type: warning
+  - id: skyworld
+    title: "Skyworld"
+    path: "Skyworld.brstm"
+    type: betting
+  - id: gritzy_desert
+    title: "Gritzy Desert"
+    path: "Gritzy Desert.brstm"
+    type: betting
 ...

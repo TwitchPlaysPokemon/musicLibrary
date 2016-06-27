@@ -8,4 +8,28 @@ songs:
   title: "On to Grasstown"
   path: "On to Grasstown.brstm"
   type: betting
+- id: meltdown_2
+  title: "Meltdown 2"
+  path: "Meltdown 2.brstm"
+  type: betting
+- id: gravity
+  title: "Gravity"
+  path: "Gravity.brstm"
+  type: warning
+- id: labyrinth_fight
+  title: "Labyrinth Fight"
+  path: "Labyrinth Fight.brstm"
+  type: betting
+- id: last_battle
+  title: "Last Battle"
+  path: "Last Battle.brstm"
+  type: battle
+- id: moonsong
+  title: "Moonsong"
+  path: "Moonsong.brstm"
+  type: break
+- id: jenka_1
+  title: "Jenka 1"
+  path: "Jenka 1.brstm"
+  type: break
 ...

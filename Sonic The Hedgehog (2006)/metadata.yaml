@@ -106,4 +106,8 @@ songs:
 #        title: "Mission Clear and Results"
 #        path: "Mission Clear and Results.brstm"
 #        type: result
+  - id: boss_solaris_phase_2
+    title: "Boss - Solaris Phase 2"
+    path: "Boss - Solaris Phase 2.brstm"
+    type: battle
 ...

@@ -1,0 +1,10 @@
+id: dr_mario
+title: "Dr. Mario"
+series: mario
+year: 1990
+platform: "NES"
+songs:
+  - id: chill
+    title: "Chill"
+    path: "Chill.brstm"
+    type: betting

@@ -16,4 +16,16 @@ songs:
     title: "Awkward Justice"
     path: "Awkward Justice.brstm"
     type: battle
+  - id: crisis
+    title: "Crisis"
+    path: "Crisis.brstm"
+    type: warning
+  - id: tartarus
+    title: "Tartarus"
+    path: "Tartaros.brstm"
+    type: betting
+  - id: the_edge_of_a_decision
+    title: "The Edge of a Decision"
+    path: "The Edge of a Decision.brstm"
+    type: battle
 ...

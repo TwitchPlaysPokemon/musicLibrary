@@ -130,4 +130,12 @@ songs:
     path: "Quicksand Pit.brstm"
     title: "Quicksand Pit"
     type: betting
+  - id: outlaw
+    title: "Outlaw!"
+    path: "Outlaw!.brstm"
+    type: warning
+  - id: palkia's_onslaught!
+    title: "Palkia's Onslaught!"
+    path: "Palkia's Onslaught!.brstm"
+    type: warning
 ...

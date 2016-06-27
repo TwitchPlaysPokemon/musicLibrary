@@ -9,4 +9,36 @@ songs:
     title: "Stadium - Yoshi Park"
     path: "Stadium - Yoshi Park.brstm"
     type: betting
+  - id: challenge_mode_dk_stage_theme
+    title: "Challenge Mode - DK Stage Theme"
+    path: "Challenge Mode - DK Stage Theme.brstm"
+    type: betting
+  - id: challenge_mode_mario_stage_theme
+    title: "Challenge Mode - Mario Stage Theme"
+    path: "Challenge Mode - Mario Stage Theme.brstm"
+    type: betting
+  - id: challenge_mode_wario_stage_theme
+    title: "Challenge Mode - Wario Stage Theme"
+    path: "Challenge Mode - Wario Stage Theme.brstm"
+    type: betting
+  - id: stadium_daisy_cruiser
+    title: "Stadium - Daisy Cruiser"
+    path: "Stadium - Daisy Cruiser.brstm"
+    type: betting
+  - id: stadium_peach_ice_garden
+    title: "Stadium - Peach Ice Garden"
+    path: "Stadium - Peach Ice Garden.brstm"
+    type: betting
+  - id: character_selection_records
+    title: "Character Selection/Records"
+    path: "Character Selection_Records.brstm"
+    type: warning
+  - id: stadium_bowser's_castle
+    title: "Stadium - Bowser's Castle"
+    path: "Stadium - Bowser's Castle.brstm"
+    type: betting
+  - id: results
+    title: "Results"
+    path: "Results.brstm"
+    type: result
 ...

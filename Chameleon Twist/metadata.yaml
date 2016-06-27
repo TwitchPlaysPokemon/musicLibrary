@@ -1,0 +1,46 @@
+id: chameleon_twist
+title: "Chameleon Twist"
+series: chameleontwist
+year: 1997
+platform: "N64"
+songs:
+  - id: ant_land_boss_queen_ant
+    title: "Ant Land Boss (Queen Ant)"
+    path: "Ant Land Boss (Queen Ant).brstm"
+    type: warning
+  - id: ending
+    title: "Ending"
+    path: "Ending (Looped).brstm"
+    type: result
+  - id: ghost_castle
+    title: "Ghost Castle"
+    path: "Ghost Castle.brstm"
+    type: betting
+  - id: bomb_land_boss
+    title: "Bomb Land Boss"
+    path: "Bomb Land Boss.brstm"
+    type: warning
+  - id: kids_land_boss
+    title: "Kids Land Boss"
+    path: "Kids Land Boss.brstm"
+    type: betting
+  - id: ghost_castle_boss_phase_2
+    title: "Ghost Castle Boss (Phase 2)"
+    path: "Ghost Castle Boss (Phase 2).brstm"
+    type: warning
+  - id: ghost_castle_boss_phase_1
+    title: "Ghost Castle Boss (Phase 1)"
+    path: "Ghost Castle Boss (Phase 1).brstm"
+    type: warning
+  - id: desert_castle
+    title: "Desert Castle"
+    path: "Desert Castle.brstm"
+    type: betting
+  - id: jungle_land_inside
+    title: "Jungle Land (Inside)"
+    path: "Jungle Land (Inside).brstm"
+    type: betting
+  - id: jungle_land_outside
+    title: "Jungle Land (Outside)"
+    path: "Jungle Land (Outside).brstm"
+    type: betting

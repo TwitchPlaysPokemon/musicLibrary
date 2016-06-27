@@ -1,0 +1,62 @@
+id: mario_sports_mix
+title: "Mario Sports Mix"
+series: mario
+year: 2010
+platform: "Wii"
+songs:
+  - id: bowser_jr_boulevard
+    title: "Bowser Jr. Boulevard"
+    path: "Bowser Jr. Boulevard.brstm"
+    type: betting
+  - id: daisy_garden
+    title: "Daisy Garden"
+    path: "Daisy Garden.brstm"
+    type: betting
+  - id: dk_dock
+    title: "DK Dock"
+    path: "DK Dock.brstm"
+    type: betting
+  - id: flower_cup_tournament
+    title: "Flower Cup~Tournament"
+    path: "Flower Cup~Tournament.brstm"
+    type: betting
+  - id: ghoulish_galleon
+    title: "Ghoulish Galleon"
+    path: "Ghoulish Galleon.brstm"
+    type: betting
+  - id: koopa_beach
+    title: "Koopa Beach"
+    path: "Koopa Beach.brstm"
+    type: betting
+  - id: mushroom_cup_tournament
+    title: "Mushroom Cup~Tournament"
+    path: "Mushroom Cup~Tournament.brstm"
+    type: betting
+  - id: party_mode_menu
+    title: "Party Mode - Menu"
+    path: "Party Mode - Menu.brstm"
+    type: betting
+  - id: star_cup_tournament
+    title: "Star Cup~Tournament"
+    path: "Star Cup~Tournament.brstm"
+    type: betting
+  - id: waluigi_pinball
+    title: "Waluigi Pinball"
+    path: "Waluigi Pinball.brstm"
+    type: betting
+  - id: luigi's_mansion
+    title: "Luigi's Mansion"
+    path: "Luigi's Mansion.brstm"
+    type: warning
+  - id: feed_petey_party_game
+    title: "Feed Petey~Party Game"
+    path: "Feed Petey~Party Game.brstm"
+    type: result
+  - id: peach's_castle
+    title: "Peach's Castle"
+    path: "Peach's Castle.brstm"
+    type: result
+  - id: results_screen
+    title: "Results Screen"
+    path: "Results Screen.brstm"
+    type: result

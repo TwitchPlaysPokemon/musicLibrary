@@ -1,0 +1,10 @@
+id: yoshi's_new_island
+title: "Yoshi's New Island"
+series: mario
+year: 2014
+platform: "3DS"
+songs:
+  - id: overworld
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: break

@@ -16,4 +16,12 @@ songs:
     title: "Dinah's Theme"
     path: "Dinah's Theme.brstm"
     type: warning
+  - id: main_theme
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: result
+  - id: bgm_day
+    title: "BGM (Day)"
+    path: "BGM (Day).brstm"
+    type: betting
 ...

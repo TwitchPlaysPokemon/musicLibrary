@@ -8,4 +8,16 @@ songs:
     title: "Rebeat Resort"
     path: "Rebeat Resort.brstm"
     type: betting
+  - id: field_of_view
+    title: "Field of View"
+    path: "Field of View.brstm"
+    type: warning
+  - id: solid_park
+    title: "Solid Park"
+    path: "Solid Park.brstm"
+    type: battle
+  - id: frozen_waste_dungeon
+    title: "Frozen Waste Dungeon"
+    path: "Frozen Waste Dungeon.brstm"
+    type: betting
 ...

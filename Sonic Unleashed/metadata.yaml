@@ -29,4 +29,24 @@ songs:
     path: "Chun-Nan - Dragon Road Day.brstm"
     title: "Chun-Nan - Dragon Road Day"
     type: battle
+  - id: chun_nan_dragon_road_night
+    title: "Chun-Nan - Dragon Road Night"
+    path: "Chun-Nan - Dragon Road Night.brstm"
+    type: betting
+  - id: shamar_arid_sands_night
+    title: "Shamar - Arid Sands Night"
+    path: "Shamar - Arid Sands Night.brstm"
+    type: betting
+  - id: shamar_day
+    title: "Shamar Day"
+    path: "Shamar Day.brstm"
+    type: betting
+  - id: chun_nan_night
+    title: "Chun-Nan Night"
+    path: "Chun-Nan Night.brstm"
+    type: break
+  - id: adabat_jungle_joyride_night
+    title: "Adabat - Jungle Joyride Night"
+    path: "Adabat - Jungle Joyride Night.brstm"
+    type: betting
 ...

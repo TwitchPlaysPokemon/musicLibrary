@@ -1,0 +1,30 @@
+id: dynasty_warriors_3
+title: "Dynasty Warriors 3"
+series: dynastywarriors
+year: 2001
+platform: "PS2+Xbox"
+songs:
+  - id: divine_wind
+    title: "Divine Wind (Chi Bi - Allied Forces)"
+    path: "Divine Wind (Chi Bi - Allied Forces).brstm"
+    type: betting
+  - id: gravity
+    title: "Gravity (Wu Zhang Plains - Wei)"
+    path: "Gravity (Wu Zhang Plains - Wei).brstm"
+    type: betting
+  - id: jump_into_the_battlefield
+    title: "Jump Into the Battlefield (Hu Lao Gate)"
+    path: "Jump Into The Battlefield (Hu Lao Gate).brstm"
+    type: betting
+  - id: sacred_ground
+    title: "Sacred Ground (Wu Zhang Plains - Shu)"
+    path: "Sacred Ground (Wu Zhang Plains - Shu).brstm"
+    type: battle
+  - id: surprise_attack
+    title: "Surprise Attack (He Fei - Wu)"
+    path: "Surprise Attack (He Fei - Wu).brstm"
+    type: battle
+  - id: men_of_intelligence
+    title: "Men of Intelligence (He Fei Castle - Wei)"
+    path: "The Men Of Intelligence (He Fei Castle - Wei).brstm"
+    type: betting

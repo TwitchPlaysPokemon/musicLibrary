@@ -90,4 +90,16 @@ songs:
     title: "Cosmic Fall"
     path: "Cosmic Fall.adx"
     type: warning
+  - id: chaos_control_a
+    title: "Chaos Control A"
+    path: "Chaos Control A.adx"
+    type: warning
+  - id: hero_mode
+    title: "Hero Mode"
+    path: "Hero Mode.adx"
+    type: warning
+  - id: dark_mode
+    title: "Dark Mode"
+    path: "Dark Mode.adx"
+    type: warning
 ...

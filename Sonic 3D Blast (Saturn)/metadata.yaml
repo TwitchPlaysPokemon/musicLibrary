@@ -1,0 +1,14 @@
+id: sonic_3d_blast_saturn
+title: "Sonic 3D Blast (Saturn)"
+series: sonic
+year: 1996
+platform: "Saturn"
+songs:
+  - id: green_grove_zone_act1
+    title: "Green Grove Zone Act 1"
+    path: "Green Grove Zone Act 1.brstm"
+    type: betting
+  - id: special_stage
+    title: "Special Stage"
+    path: "Special Stage.brstm"
+    type: warning

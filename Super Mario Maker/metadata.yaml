@@ -1,0 +1,42 @@
+id: super_mario_maker
+title: "Super Mario Maker"
+series: mario
+year: 2015
+platform: "Wii U"
+songs:
+  - id: castle_super_mario_bros_3_edit
+    title: "Castle (Super Mario Bros. 3) - Edit"
+    path: "Castle (Super Mario Bros. 3) - Edit.brstm"
+    type: warning
+  - id: castle_super_mario_world_mix
+    title: "Castle (Super Mario World) - Mix"
+    path: "Castle (Super Mario World) - Mix.brstm"
+    type: betting
+  - id: ghost_house_super_mario_bros_3_edit
+    title: "Ghost House (Super Mario Bros. 3) - Edit"
+    path: "Ghost House (Super Mario Bros. 3) - Edit.brstm"
+    type: warning
+  - id: overworld_new_super_mario_bros_u_edit
+    title: "Overworld (New Super Mario Bros. U) - Edit"
+    path: "Overworld (New Super Mario Bros. U) - Edit.brstm"
+    type: betting
+  - id: title
+    title: "Title"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: underground_super_mario_bros_3_edit
+    title: "Underground (Super Mario Bros. 3) - Edit"
+    path: "Underground (Super Mario Bros. 3) - Edit.brstm"
+    type: warning
+  - id: underground_super_mario_world_edit
+    title: "Underground (Super Mario World) - Edit"
+    path: "Underground (Super Mario World) - Edit.brstm"
+    type: betting
+  - id: underwater_new_super_mario_bros_u_yoshi
+    title: "Underwater (New Super Mario Bros. U) - Yoshi"
+    path: "Underwater (New Super Mario Bros. U) - Yoshi.brstm"
+    type: break
+  - id: underwater_super_mario_bros_3_edit
+    title: "Underwater (Super Mario Bros. 3) - Edit"
+    path: "Underwater (Super Mario Bros. 3) - Edit.brstm"
+    type: betting

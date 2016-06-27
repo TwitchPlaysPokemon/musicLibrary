@@ -8,4 +8,12 @@ songs:
     path: "Warp Room.brstm"
     title: "Warp Room"
     type: betting
+  - id: chinese_wall
+    title: "Chinese Wall"
+    path: "Chinese Wall.brstm"
+    type: betting
+  - id: jet_ski
+    title: "Jet-Ski"
+    path: "Jet-Ski.brstm"
+    type: betting
 ...
