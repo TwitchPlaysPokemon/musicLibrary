@@ -9,7 +9,7 @@ songs:
 #        title: "Luigi's Theme"
 #        path: "Luigi's Theme.brstm"
 #        type: result #Borderline doesn't fit
-  - id: pause_menu
+  - id: pause_menu_strikerscharged
     title: "Pause Menu"
     path: "Pause Menu.brstm"
     type: break
@@ -17,11 +17,11 @@ songs:
     title: "Results-Striker Times"
     path: "Results-Striker Times.brstm"
     type: betting #Borderline doesn't fit; leaving it in for now
-  - id: sudden_death
+  - id: sudden_death_strikerscharged
     title: "Sudden Death"
     path: "Sudden Death.brstm"
     type: warning
-  - id: classroom
+  - id: classroom_strikerscharged
     title: "Classroom"
     path: "Classroom.brstm"
     type: betting
@@ -29,11 +29,11 @@ songs:
     title: "Galactic Stadium"
     path: "Galactic Stadium.brstm"
     type: betting
-  - id: warios_theme
+  - id: warios_theme_strikerscharged
     title: "Wario's Theme"
     path: "Wario's Theme.brstm"
     type: warning
-  - id: toads_theme
+  - id: toads_theme_strikerscharged
     title: "Toad's Theme"
     path: "Toad's Theme.brstm"
     type: warning
@@ -41,10 +41,10 @@ songs:
 #        title: "Boo's Theme"
 #        path: "Boos Theme.brstm"
 #        type: warning #Borderline doesn't fit for warning
-  - id: invincible_theme
+  - id: invincible_theme_strikerscharged
     title: "Invincible Theme"
     path: "Invincible Theme.brstm"
-    type: warning
+    type: warning_strikerscharged
   - id: peachs_theme
     title: "Peach's Theme"
     path: "Peach's Theme.brstm"

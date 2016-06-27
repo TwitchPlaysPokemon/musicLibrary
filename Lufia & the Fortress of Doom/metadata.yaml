@@ -16,7 +16,7 @@ songs:
     title: "Wave of Evil"
     path: "17 Wave of Evil.spc"
     type: warning
-  - id: shopping
+  - id: shopping_lufia
     title: "Shopping"
     path: "07 Shopping.spc"
     type: result
@@ -24,7 +24,7 @@ songs:
     title: "Silent Shrine"
     path: "26 Silent Shrine.spc"
     type: betting
-  - id: the_earth
+  - id: the_earth_lufia
     title: "The Earth"
     path: "11 The Earth.spc"
     type: betting
@@ -36,7 +36,7 @@ songs:
     title: "Departure"
     path: "01 Departure.spc"
     type: result
-  - id: port_town
+  - id: port_town_lufia
     title: "Port Town"
     path: "19 Port Town.spc"
     type: betting

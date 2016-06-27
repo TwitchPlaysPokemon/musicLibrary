@@ -4,15 +4,15 @@ series: mario
 year: 2009
 platform: "Wii"
 songs:
-  - id: airship
+  - id: airship_nsmbwii
     title: "Airship"
     path: "Airship.brstm"
     type: betting
-  - id: castle
+  - id: castle_nsmbwii
     title: "Castle"
     path: "Castle.brstm"
     type: betting
-  - id: fortress
+  - id: fortress_nsmbwii
     title: "Fortress"
     path: "Fortress.brstm"
     type: betting
@@ -20,7 +20,7 @@ songs:
     title: "World 9 Map"
     path: "World 9 Map.brstm"
     type: betting
-  - id: bowser_jr
+  - id: bowser_jr_nsmbwii
     title: "Bowser Jr."
     path: "Bowser Jr..brstm"
     type: warning
@@ -32,7 +32,7 @@ songs:
     title: "World 8 Map"
     path: "World 8 Map.brstm"
     type: warning
-  - id: mid_boss
+  - id: mid_boss_nsmbwii
     title: "Mid Boss"
     path: "Mid Boss.brstm"
     type: battle

@@ -9,7 +9,7 @@ songs:
     title: "Winning Road - Roy's Hope"
     path: "Winning Road - Roy's Hope.brstm"
     type: betting
-  - id: corneria
+  - id: corneria_brawl
     title: "Corneria"
     path: "Corneria.brstm"
     type: betting
@@ -145,7 +145,7 @@ songs:
     title: "Shin Onigashima"
     path: "Shin Onigashima.brstm"
     type: battle
-  - id: mute_city
+  - id: mute_city_brawl
     title: "Mute City"
     path: "Mute City.brstm"
     type: battle
@@ -201,7 +201,7 @@ songs:
     title: "Skyworld"
     path: "Skyworld.brstm"
     type: betting
-  - id: gritzy_desert
+  - id: gritzy_desert_brawl
     title: "Gritzy Desert"
     path: "Gritzy Desert.brstm"
     type: betting

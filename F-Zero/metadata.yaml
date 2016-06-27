@@ -4,15 +4,15 @@ series: fzero
 year: 1990
 platform: "SNES"
 songs:
-  - id: port_town
+  - id: port_town_fzero
     title: "Port Town"
     path: "07 Port Town.spc"
     type: betting
-  - id: white_land_i
+  - id: white_land_i_fzero
     title: "White Land I"
     path: "06a White Land I.spc"
     type: betting
-  - id: sand_ocean
+  - id: sand_ocean_fzero
     title: "Sand Ocean"
     path: "10 Sand Ocean.spc"
     type: betting

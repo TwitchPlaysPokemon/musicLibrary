@@ -9,7 +9,7 @@ songs:
     title: "Yoshi's Woolly World (Remix)"
     path: "Yoshi's Woolly World (Remix).brstm"
     type: betting
-  - id: battle_team_flare
+  - id: battle_team_flare_smash4
     title: "Battle! Team Flare"
     path: "Battle! Team Flare.brstm"
     type: battle
@@ -65,8 +65,7 @@ songs:
     title: "Quick Man Stage (Mega Man 2)"
     path: "Quick Man Stage (Mega Man 2).brstm"
     type: betting
-
-  - id: online_waiting_room
+  - id: online_waiting_room_smash4
     title: "Online Waiting Room"
     path: "Online Waiting Room.brstm"
     type: betting
@@ -74,7 +73,7 @@ songs:
     title: "Balloon Trip"
     path: "Balloon Trip.brstm"
     type: betting
-  - id: cloudtop_cruise
+  - id: cloudtop_cruise_smash4
     title: "Cloudtop Cruise"
     path: "Cloudtop Cruise.brstm"
     type: betting

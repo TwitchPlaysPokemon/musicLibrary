@@ -30,7 +30,7 @@ songs:
     title: "Defy the Legends"
     path: "Defy the Legends.brstm"
     type: battle
-  - id: boss_battle
+  - id: boss_battle_pmdetd
     title: "Boss Battle!"
     path: "Boss Battle!.brstm"
     type: warning
@@ -130,7 +130,7 @@ songs:
     path: "Quicksand Pit.brstm"
     title: "Quicksand Pit"
     type: betting
-  - id: outlaw
+  - id: outlaw_pmdetd
     title: "Outlaw!"
     path: "Outlaw!.brstm"
     type: warning

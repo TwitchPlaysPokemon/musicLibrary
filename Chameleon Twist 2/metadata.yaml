@@ -4,7 +4,7 @@ series: chameleontwist
 year: 1998
 platform: "N64"
 songs:
-  - id: title_screen
+  - id: title_screen_chamtwist2
     title: "Title Screen"
     path: "01 Title Screen.miniusf"
     type: result
@@ -20,7 +20,7 @@ songs:
     title: "Training Game 2"
     path: "17 Training Game 2.miniusf"
     type: betting
-  - id: training_mode
+  - id: training_mode_chamtwist2
     title: "Training Mode"
     path: "03 Training Mode.miniusf"
     type: betting
@@ -36,7 +36,7 @@ songs:
     title: "Stage 5 Toy Land"
     path: "19 Stage 5 Toy Land.miniusf"
     type: betting
-  - id: stage_select
+  - id: stage_select_chamtwist2
     title: "Stage Select"
     path: "10 Stage Select.miniusf"
     type: result

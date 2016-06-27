@@ -17,11 +17,11 @@ songs:
     title: "Tally Screen"
     path: "Tally Screen.brstm"
     type: result
-  - id: stage_select
+  - id: stage_select_switchforce2
     title: "Stage Select"
     path: "Stage Select.brstm"
     type: break
-  - id: glow
+  - id: glow_switchforce2
     title: "Glow"
     path: "Glow.brstm"
     type: result

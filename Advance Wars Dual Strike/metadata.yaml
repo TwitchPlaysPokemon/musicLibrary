@@ -21,15 +21,11 @@ songs:
 #        path: "Black Hole Power!.brstm"
 #        title: "Black Hole Power!"
 #        type: warning #Borderline WutFace
-  - id: black_hole_super_co_power
-    path: "Black Hole Super CO Power.brstm"
-    title: "Black Hole Super CO Power"
-    type: warning
   - id: black_hole_tag_power
     path: "Black Hole Tag Power!.brstm"
     title: "Black Hole Tag Power!"
     type: warning
-  - id: mode_select
+  - id: mode_select_awds
     path: "Mode Select.brstm"
     title: "Mode Select"
     type: betting
@@ -45,7 +41,6 @@ songs:
     title: "Jake's Theme"
     path: "Jake's Theme.brstm"
     type: betting
-
   - id: sami's_theme
     title: "Sami's Theme"
     path: "Sami's Theme.brstm"
@@ -61,14 +56,6 @@ songs:
   - id: eagle's_theme
     title: "Eagle's Theme"
     path: "Eagle's Theme.brstm"
-    type: warning
-  - id: black_hole_tag_power
-    title: "Black Hole Tag Power"
-    path: "Black Hole Tag Power!.brstm"
-    type: warning
-  - id: black_hole_super_co_power
-    title: "Black Hole Super CO Power"
-    path: "Black Hole Super CO Power.brstm"
     type: warning
   - id: andy's_anthem
     title: "Andy's Anthem"
