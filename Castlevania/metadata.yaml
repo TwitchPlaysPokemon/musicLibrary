@@ -1,0 +1,10 @@
+id: castlevania
+title: "Castlevania"
+series: castlevania
+year: 1986
+platform: "NES"
+songs:
+  - id: stage_3_wicked_child
+    title: "Stage 3 (Wicked Child)"
+    path: "Stage 3 (Wicked Child).brstm"
+    type: betting
