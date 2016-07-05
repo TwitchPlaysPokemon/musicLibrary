@@ -11,15 +11,15 @@ songs:
 #        type: betting
   - id: credits_nsmb
     title: "Credits"
-    path: "Credits.brstm"
+    path: "Credits.mini2sf"
     type: betting
   - id: desert_fast
     title: "Desert (Fast)"
-    path: "Desert (Fast).brstm"
+    path: "Desert (Fast).mini2sf"
     type: warning
   - id: desert
     title: "Desert"
-    path: "Desert.brstm"
+    path: "Desert.mini2sf"
     type: betting
 #      - id: final_boss
 #        title: "Final Boss"
@@ -27,7 +27,7 @@ songs:
 #        type: battle #Not tense and charged enough
   - id: fortress
     title: "Fortress"
-    path: "Fortress.brstm"
+    path: "Fortress.mini2sf"
     type: betting
       #- id: spooooooky_ghost_house_ooooooo
       #  title: "Ghost House"
@@ -43,15 +43,15 @@ songs:
 #        type: battle #Doesn't fit. Warning?
   - id: mega_mushroom
     title: "Mega Mushroom"
-    path: "Mega Mushroom.brstm"
+    path: "Mega Mushroom.mini2sf"
     type: warning
   - id: overworld_nsmb
     title: "Overworld"
-    path: "Overworld.brstm"
+    path: "Overworld.mini2sf"
     type: break
   - id: star
     title: "Star"
-    path: "Star.brstm"
+    path: "Star.mini2sf"
     type: warning
 #      - id: underground
 #        title: "Underground"
@@ -59,11 +59,11 @@ songs:
 #        type: betting #Same song with a better soundfont in nsmbwii
   - id: underwater_nsmb
     title: "Underwater"
-    path: "Underwater.brstm"
+    path: "Underwater.mini2sf"
     type: betting
   - id: volcano_nsmb
     title: "Volcano"
-    path: "Volcano.brstm"
+    path: "Volcano.mini2sf"
     type: betting
 #      - id: world_1
 #        title: "World 1 Map"
@@ -71,7 +71,7 @@ songs:
 #        type: warning #Does not fit.
   - id: world_2
     title: "World 2 Map"
-    path: "World 2 Map.brstm"
+    path: "World 2 Map.mini2sf"
     type: warning
 #      - id: world_3
 #        title: "World 3 Map"
@@ -91,10 +91,10 @@ songs:
 #        type: warning #Borderline doesn't fit.
   - id: world_7
     title: "World 7 Map"
-    path: "World 7 Map.brstm"
+    path: "World 7 Map.mini2sf"
     type: betting
   - id: bob_omb_reverse
     title: "Bob-Omb Reverse"
-    path: "96 - Bob-omb Reverse.mini2sf"
+    path: "Bob-omb Reverse.mini2sf"
     type: warning
 ...
