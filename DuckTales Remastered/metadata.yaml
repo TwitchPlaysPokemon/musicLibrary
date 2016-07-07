@@ -2,10 +2,15 @@
 id: ducktales_remastered
 title: "DuckTales Remastered"
 year: 2013
-platform: "360+PS3"
+platform: "Various"
 songs:
   - id: moon
     title: "The Moon"
     path: "The Moon.brstm"
+    type: betting
+  - id: african_mines
+    title: "African Mines"
+    path: "African Mines.brstm"
+    ends: 3:00
     type: betting
 ...
