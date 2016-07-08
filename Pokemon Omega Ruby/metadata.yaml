@@ -317,11 +317,10 @@ songs:
     path: "Surfing.brstm"
     title: "Surfing"
     type: betting
-#      - id: title_screen_omega_ruby
-#        path: "Title Screen.brstm"
-#        title: "Title Screen"
-#        type: betting
-# does not loop, ends too early
+  - id: title_screen_omega_ruby
+    path: "Title Screen.brstm"
+    title: "Title Screen"
+    type: result
   - id: trainers_school
     path: "Trainer's School.brstm"
     title: "Trainer's School"

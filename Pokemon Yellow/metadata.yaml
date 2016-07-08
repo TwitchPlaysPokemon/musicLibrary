@@ -13,8 +13,8 @@ songs:
     title: "Pikachu's Beach"
     path: "Pikachu's Beach.brstm"
     type: betting
-#      - id: unknown_theme
-#        title: "Unknown Theme (Unused)"
-#        path: "Unknown Theme.brstm"
-#        type: warning #I'm not sure if we should include unused themes in general. Otherwise there's no problem with this track.
+  - id: unknown_theme
+    title: "Unknown Theme (Unused)"
+    path: "Unknown Theme.brstm"
+    type: warning
 ...

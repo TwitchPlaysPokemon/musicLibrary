@@ -57,10 +57,10 @@ songs:
     title: "Stage Select"
     path: "03 - Stage Select.miniusf"
     type: warning
-  - id: continue_b64
-    title: "Continue"
-    path: "11 - Continue.miniusf"
-    type: warning
+#      - id: continue_b64
+#      title: "Continue"
+#      path: "11 - Continue.miniusf"
+#      type: warning# does not loop, ends too early
   - id: masker_b64
     title: "Masker"
     path: "14 - Masker.miniusf"
