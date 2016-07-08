@@ -7,39 +7,39 @@ platform: "S32X"
 songs:
   - id: soda_pop
     title: "Soda Pop"
-    path: "Soda Pop.brstm"
+    path: "Soda Pop.vgz"
     type: battle
   - id: combination
     title: "Combination"
-    path: "Combination.brstm"
+    path: "Combination.vgz"
     type: betting
   - id: door_into_summer_kc
     title: "Door Into Summer"
-    path: "Door Into Summer.brstm"
+    path: "Door Into Summer.vgz"
     type: betting
   - id: electoria
     title: "Electoria"
-    path: "Electoria.brstm"
+    path: "Electoria.vgz"
     type: betting
   - id: evening_star
     title: "Evening Star"
-    path: "Evening Star.brstm"
+    path: "Evening Star.vgz"
     type: betting
   - id: hyper_hyper
     title: "Hyper-Hyper"
-    path: "Hyper-Hyper.brstm"
+    path: "Hyper-Hyper.vgz"
     type: betting
   - id: midnight_greenhouse
     title: "Midnight Greenhouse"
-    path: "Midnight Greenhouse.brstm"
+    path: "Midnight Greenhouse.vgz"
     type: betting
   - id: speed_of_sound
     title: "Speed of Sound"
-    path: "Speed of Sound.brstm"
+    path: "Speed of Sound.vgz"
     type: betting
   - id: walkin_kc
     title: "Walkin"
-    path: "Walkin.brstm"
+    path: "Walkin.vgz"
     type: betting
 #      - id: electoria_beta
 #        title: "Electoria (Beta)"
@@ -60,30 +60,30 @@ songs:
 # unfitting
   - id: childs_song
     title: "Child's Song"
-    path: "Child's Song.brstm"
+    path: "Child's Song.vgz"
     type: warning
   - id: destructive_power
     title: "Destructive Power"
-    path: "Destructive Power.brstm"
+    path: "Destructive Power.vgz"
     type: warning
   - id: labyrinth_kc
     title: "Labyrinth"
-    path: "Labyrinth.brstm"
+    path: "Labyrinth.vgz"
     type: warning
   - id: overture_kc
     title: "Overture"
-    path: "Overture.brstm"
+    path: "Overture.vgz"
     type: warning
   - id: silver_screen_kc
     title: "Silver Screen"
-    path: "Silver Screen.brstm"
+    path: "Silver Screen.vgz"
     type: warning
   - id: steel_heart_kc
     title: "Steel Heart"
-    path: "Steel Heart.brstm"
+    path: "Steel Heart.vgz"
     type: warning
   - id: surprise_kc
     title: "Surprise!"
-    path: "Surprise!.brstm"
+    path: "Surprise!.vgz"
     type: warning
 ...
