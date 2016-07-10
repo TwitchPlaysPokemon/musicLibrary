@@ -33,4 +33,20 @@ songs:
     title: "Pumpkin of September"
     path: "Pumpkin of September.brstm"
     type: warning
+  - id: pierrot_of_the_star_spangled_banner
+    title: "Pierrot of the Star Spangled Banner"
+    path: "Pierrot of the Star Spangled Banner.brstm"
+    type: battle
+  - id: the_moon_as_seen_from_the_shrine
+    title: "The Moon as Seen from the Shrine"
+    path: "The Moon as Seen from the Shrine.brstm"
+    type: break
+  - id: the_rabbit_has_landed
+    title: "The Rabbit Has Landed"
+    path: "The Rabbit Has Landed.brstm"
+    type: battle
+  - id: the_space_shrine_maiden_appears
+    title: "The Space Shrine Maiden Appears"
+    path: "The Space Shrine Maiden Appears.brstm"
+    type: betting
 ...
