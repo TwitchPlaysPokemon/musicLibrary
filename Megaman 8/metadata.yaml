@@ -13,7 +13,7 @@ songs:
     title: "Aqua Man Stage (Saturn Ver.)"
     path: "16 aquaman stage.ssf"
     type: betting
-  - id: tengu_man_stage
+  - id: tengu_man_stage_1996
     title: "Tengu Man Stage (Playstation ver.)"
     path: "10 Tengu Man.psf"
     type: result
@@ -29,12 +29,12 @@ songs:
     title: "Theme of Bass"
     path: "29 Bass' theme.psf"
     type: warning
-  - id: boss_intro
+  - id: boss_intro_megaman_8
     title: "Boss Intro"
     path: "16 Boss intro.psf"
     type: warning
   - id: clown_man
-    title: "Clown Man
+    title: "Clown Man"
     path: "09 Clown Man.psf"
     type: result
   - id: search_man

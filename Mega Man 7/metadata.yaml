@@ -4,10 +4,10 @@ title: "Mega Man 7"
 year: 1995
 platform: "SNES"
 songs:
-- id: theme_of_bass_friend_or_foe
-  title: "Theme of Bass - Friend or Foe?"
-  path: "07 Bass and Treble.spc"
-  type: warning
+  - id: theme_of_bass_friend_or_foe
+    title: "Theme of Bass - Friend or Foe?"
+    path: "07 Bass and Treble.spc"
+    type: warning
   - id: prologue_part_2_searching_for_the_master
     title: "Prologue Part 2 - Searching for the Master"
     path: "03 Opening (part 2).brstm"
