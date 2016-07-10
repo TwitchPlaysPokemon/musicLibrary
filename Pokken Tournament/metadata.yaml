@@ -1,0 +1,102 @@
+id: pokken_tournament
+title: "Pokken Tournament"
+series: pokemon
+platform: "Arcade+Wii U"
+year: 2015
+songs: 
+  - id: blue_dome
+    title: "Blue Dome"
+    path: "Blue Dome.brstm"
+    type: betting
+  - id: dark_colosseum
+    title: "Dark Colosseum"
+    path: "Dark Colosseum.brstm"
+    type: battle
+  - id: diggersby_land
+    title: "Diggersby Land"
+    path: "Diggersby Land.brstm"
+    type: betting
+  - id: dragons_nest
+    title: "Dragon's Nest"
+    path: "Dragon's Nest.brstm"
+    type: warning
+  - id: ferrum_dojo
+    title: "Ferrum Dojo"
+    path: "Ferrum Dojo.brstm"
+    type: betting
+  - id: ferrum_stadium
+    title: "Ferrum Stadium"
+    path: "Ferrum Stadium.brstm"
+    type: battle
+  - id: haunted_house
+    title: "Haunted House"
+    path: "Haunted House.brstm"
+    type: betting
+  - id: league_pokken_tournament
+    title: "League"
+    path: "League.brstm"
+    type: result
+  - id: magikarp_festival
+    title: "Magikarp Festival"
+    path: "Magikarp Festival.brstm"
+    type: betting
+  - id: mode_select_pokken_tournament
+    title: "Mode Select"
+    path: "Mode Select.brstm"
+    type: warning
+  - id: my_town
+    title: "My Town"
+    path: "My Town.brstm"
+    type: break
+  - id: neos_city
+    title: "Neos City"
+    path: "Neos City.brstm"
+    type: betting
+  - id: neos_city_night
+    title: "Neos City (Night)"
+    path: "Neos City (Night).brstm"
+    type: betting
+  - id: old_ferrum_town
+    title: "Old Ferrum Town"
+    path: "Old Ferrum Town.brstm"
+    type: betting
+  - id: old_ferrum_town_winter
+    title: "Old Ferrum Town (Winter)"
+    path: "Old Ferrum Town (Winter).brstm"
+    type: betting
+  - id: phos_volcano
+    title: "Phos Volcano"
+    path: "Phos Volcano.brstm"
+    type: battle
+  - id: regi_ruins
+    title: "Regi Ruins"
+    path: "Regi Ruins.brstm"
+    type: battle
+  - id: synergy_burst
+    title: "Synergy Burst"
+    path: "Synergy Burst.brstm"
+    type: warning
+  - id: tellur_town
+    title: "Tellur Town"
+    path: "Tellur Town.brstm"
+    type: betting
+  - id: tellur_town_autumn
+    title: "Tellur Town (Autumn)"
+    path: "Tellur Town (Autumn).brstm"
+    type: betting
+  - id: total_results_pokken_tournament
+    title: "Total Results"
+    path: "Total Results.brstm"
+    type: result
+  - id: training_gym_pokken_tournament
+    title: "Training Gym"
+    path: "Training Gym.brstm"
+    type: betting
+  - id: win_pokken_tournament
+    title: "Win"
+    path: "Win.brstm"
+    type: result
+  - id: world_map_pokken_tournament
+    title: "World Map"
+    path: "World Map.brstm"
+    type: break

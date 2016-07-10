@@ -1,0 +1,18 @@
+id: the_legend_of_zelda_skyward_sword
+title: "The Legend of Zelda: Skyward Sword"
+series: zelda
+platform: "Wii"
+year: 2011
+songs: 
+  - id: fi_theme 
+    title: "Fi's Theme"
+    path: "Fi's Theme.brstm"
+    type: break
+  - id: moldarach_koloktos_battle
+    title: "Moldarach-Koloktos Battle"
+    path: "Boss - Moldarach_Koloktos.brstm"
+    type: battle
+  - id: faron_woods
+    title: "Faron Woods"
+    path: "Faron Woods.brstm"
+    type: betting    

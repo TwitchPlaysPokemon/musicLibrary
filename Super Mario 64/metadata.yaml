@@ -1,0 +1,10 @@
+id: super_mario_64
+title: "Super Mario 64"
+series: mario
+platform: "N64"
+year: 1996
+songs:
+  - id: slider
+    title: "Slider (OST Version)"
+    path: "06 Slider.miniusf"
+    type: warning

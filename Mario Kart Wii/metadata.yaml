@@ -1,0 +1,10 @@
+id: mario_kart_wii
+title: "Mario Kart Wii"
+series: mario
+platform: "Wii"
+year: 2008
+songs:
+  - id: boss_mkwii
+    title: "Boss"
+    path: "Boss.brstm"
+    type: warning

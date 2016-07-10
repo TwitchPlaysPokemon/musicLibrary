@@ -1,0 +1,18 @@
+id: kirby_super_star_ultra
+title: "Kirby Super Star Ultra"
+series: kirby
+platform: "NDS"
+year: 2008
+songs: 
+  - id: aerial_fortress_kabula_kssultra
+    title: "Aerial Fortress Kabula"
+    path: "082 Flying Fortress Kabula.mini2sf"
+    type: warning
+  - id: candy_mountain_kssultra
+    title: "Candy Mountain"
+    path: "020 Candy Mountain.mini2sf"
+    type: betting
+  - id: helper_to_hero_rest_point_kssultra
+    title: "Helper to Hero Rest Point"
+    path: "089 Helpers' Rest.mini2sf"
+    type: break

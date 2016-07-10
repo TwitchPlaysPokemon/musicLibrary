@@ -1,0 +1,30 @@
+id: mega_man_v
+title: "Mega Man V"
+series: megaman
+platform: "GB"
+year: 1994
+songs:
+  - id: mars_stage
+    title: "Mars Stage"
+    path: "Mars Stage.brstm"
+    type: betting
+  - id: jupiter_stage
+    title: "Jupiter Stage"
+    path: "Jupiter Stage.brstm"
+    type: result
+  - id: stage_select_mmv
+    title: "Stage Select"
+    path: "Stage Select.brstm"
+    type: warning
+  - id: terra_mmv
+    title: "Terra"
+    path: "Terra.brstm"
+    type: warning
+  - id: stardoid_fight
+    title: "Stardoid Fight"
+    path: "Stardroid Fight.brstm"
+    type: warning
+  - id: sunstar
+    title: "SunStar"
+    path: "SunStar.brstm"
+    type: warning

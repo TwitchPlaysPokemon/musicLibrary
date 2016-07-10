@@ -1,0 +1,10 @@
+id: super_mario_bros_2
+title: "Super Mario Bros. 2"
+series: mario
+platform: "NES"
+year: 1987
+songs: 
+  - id: overworld_super_mario_bros_2
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: betting

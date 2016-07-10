@@ -34,4 +34,12 @@ songs:
     title: "Undersea Palace"
     path: "Undersea Palace.spc"
     type: betting
+  - id: lavos_theme
+    title: "Lavos' Theme"
+    path: "205 Lavos' Theme.spc"
+    type: warning
+  - id: black_omen
+    title: "Black Omen"
+    path: "311 Black Omen.spc"
+    type: betting
 ...

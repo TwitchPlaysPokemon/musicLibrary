@@ -1,0 +1,14 @@
+id: final_fantasy_xii
+platform: "PS2"
+title: "Final Fantasy XII"
+series: finalfantasy
+year: 2006
+songs: 
+  - id: boss_battle_ffxii
+    path: "Boss Battle.brstm"
+    title: "Boss Battle"
+    type: battle
+  - id: desperate_fight_ffxii
+    path: "Desperate Fight.brstm"
+    title: "Desperate Fight"
+    type: warning

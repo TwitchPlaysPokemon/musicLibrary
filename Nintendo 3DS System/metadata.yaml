@@ -10,4 +10,8 @@ songs:
     path: "Find Mii - To Battle, Heroes!.brstm"
     ends: 2:02
     type: betting
+  - id: system_settings_internet_settings
+    title: "System Settings - Internet Settings"
+    path: "System Settings - Internet Settings.brstm"
+    type: betting
 ...

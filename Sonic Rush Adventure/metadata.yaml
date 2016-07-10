@@ -9,4 +9,16 @@ songs:
     path: "Blizzard Peaks (Act 1 & 2 Mix).brstm"
     title: "Blizzard Peaks (Act 1 & 2 Mix)"
     type: betting #formerly battle
+  - id: cutscene_pirates
+    title: "Cutscene - Pirates"
+    path: "136 Cutscene - Pirates.2sf"
+    type: warning
+  - id: cutscene_attack
+    title: "Cutscene - Attack"
+    path: "138 Cutscene - Attack.2sf"
+    type: warning
+  - id: puzzle_sonic_rush_adventure
+    title: "Puzzle"
+    path: "135 Puzzle.2sf"
+    type: warning
 ...

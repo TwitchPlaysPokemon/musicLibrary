@@ -45,4 +45,8 @@ songs:
     title: "Multi-Man Melee 2"
     path: "Multi-Man Melee 2.brstm"
     type: battle
+  - id: lottery_ssbm
+    title: "Lottery"
+    path: "Lottery.brstm"
+    type: break
 ...

@@ -21,4 +21,31 @@ songs:
     title: "Path to the Truth (Undersea Volcano)"
     path: "Path to the Truth (Undersea Volcano).brstm"
     type: betting
+  - id: determined_eyes
+    title: "Determined Eyes"
+    path: "25 Determined Eyes.mini2sf"
+    type: warning
+  - id: arctic_ice_floe_drifting_floe
+    title: "Arctic Ice Floe - Drifting Floe"
+    path: "13 Drifting Floe (Arctic Ice Floe).mini2sf"
+    ends: 2:52
+    type: betting
+  - id: bio_lab_organic_line
+    title: "Bio Lab - Organic Line"
+    path: "28 Organic Line (Bio Lab).mini2sf"
+    ends: 2:26
+    type: betting
+  - id: mysterious_lab_2_whisper_of_relics
+    title: "Mysterious Lab 2 - Whisper of Relics"
+    path: "27 Whisper of Relics (Mysterious Lab).mini2sf"
+    ends: 3:26
+    type: betting
+  - id: in_the_wind_zxa_tunes_ver
+    title: "In the Wind (ZXA Tunes Ver.)"
+    path: "In the Wind (ZXA Tunes).brstm"
+    type: battle
+  - id: trap_phantasm_zxa_tunes_ver
+    title: "Trap Phantasm (ZXA Tunes Ver.)"
+    path: "Trap Phantasm (ZXA Tunes).brstm"
+    type: battle
 ...

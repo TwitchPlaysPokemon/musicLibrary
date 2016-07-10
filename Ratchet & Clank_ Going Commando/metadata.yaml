@@ -9,4 +9,12 @@ songs:
     path: "Maktar Nebula - Boss Battle.brstm"
     title: "Maktar Nebula - Boss Battle"
     type: battle
+  - id: maktar_nebula_the_battle_arena
+    title: "Maktar Nebula - The Battle Arena"
+    path: "Maktar Nebula - The Battle Arena.brstm"
+    type: battle
+  - id: flying_lab_obtaining_your_ship
+    title: "Flying Lab - Obtaining Your Ship"
+    path: "Flying Lab - Obtaining Your Ship.brstm"
+    type: warning
 ...

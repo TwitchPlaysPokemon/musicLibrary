@@ -21,4 +21,20 @@ songs:
       #  path: "Iwatodai Dorm.brstm"
       #  title: "Iwatodai Dorm"
       #  type: betting
+  - id: afternoon_break_persona3
+    title: "Afternoon Break"
+    path: "Afternoon Break.brstm"
+    type: break
+      #- id: iwatodai_dorm
+      #  path: "Iwatodai Dorm.brstm"
+      #  title: "Iwatodai Dorm"
+      #  type: betting
+  - id: shadow_persona3
+    title: "Shadow"
+    path: "Shadow.brstm"
+    type: warning
+  - id: during_the_test
+    title: "During the Test"
+    path: "During the Test.brstm"
+    type: betting
 ...

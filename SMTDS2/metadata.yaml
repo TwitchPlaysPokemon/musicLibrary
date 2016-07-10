@@ -17,4 +17,9 @@ songs:
 #        title: "World Admin"
 #        path: "SMTDS2 - World Admin.brstm"
 #        type: warning #It's does sound warning-ish but only after the 30 second mark. Which wouldn't be heard. FailFish
+  - id: will_of_the_species
+    title: "Will of the Species"
+    path: "Will of the Species.brstm"
+    ends: 3:36
+    type: betting
 ...

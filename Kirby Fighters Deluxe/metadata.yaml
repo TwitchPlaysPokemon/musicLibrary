@@ -13,4 +13,8 @@ songs:
     title: "Results"
     path: "Results.brstm"
     type: result
+  - id: title_theme_kfd
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    type: warning
 ...

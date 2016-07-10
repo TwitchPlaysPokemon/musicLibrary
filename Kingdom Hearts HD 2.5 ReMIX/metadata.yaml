@@ -13,4 +13,28 @@ songs:
     title: "The 13th Struggle"
     path: "The 13th Struggle.brstm"
     type: battle
+  - id: the_13th_reflection
+    title: "The 13th Reflection"
+    path: "The 13th Reflection.brstm"
+    type: battle
+  - id: tension_rising
+    title: "Tension Rising"
+    path: "Tension Rising.brstm"
+    type: warning
+  - id: sinister_sundown
+    title: "Sinister Sundown"
+    path: "Sinister Sundown.brstm"
+    type: warning
+  - id: lazy_afternoons
+    title: "Lazy Afternoons"
+    path: "Lazy Afternoons.brstm"
+    type: break
+  - id: deep_drive_kh
+    title: "Deep Drive"
+    path: "Deep Drive.brstm"
+    type: warning
+  - id: deep_anxiety
+    title: "Deep Anxiety"
+    path: "Deep Anxiety.brstm"
+    type: warning
 ...

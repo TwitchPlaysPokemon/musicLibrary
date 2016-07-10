@@ -29,4 +29,8 @@ songs:
     path: "Panic Pit.brstm"
     title: "Panic Pit"
     type: warning
+  - id: adventures_end
+    title: "Adventure's End"
+    path: "Adventure's End.brstm"
+    type: battle
 ...

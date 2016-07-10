@@ -25,4 +25,17 @@ songs:
     path: "Battle 4.adx"
     title: "Battle 4"
     type: warning
+  - id: special_stage_2_heroes
+    path: "Special Stage 2.adx"
+    title: "Special Stage 2"
+    type: battle
+  - id: system_2_heroes
+    path: "System 2.adx"
+    title: "System 2"
+    type: betting
+  - id: frog_forest_zone
+    path: "Frog Forest Zone.adx"
+    title: "Frog Forest Zone"
+    type: betting
+...
 ...

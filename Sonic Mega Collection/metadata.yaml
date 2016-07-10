@@ -1,0 +1,14 @@
+id: sonic_mega_collection
+title: "Sonic Mega Collection"
+series: sonic
+platform: "GCN+PS2+Xbox"
+year: 2002
+songs: 
+  - id: ending_sonic_mega_collection
+    title: "Ending"
+    path: "Ending.brstm"
+    type: break
+  - id: history
+    title: "History"
+    path: "History.brstm"
+    type: break

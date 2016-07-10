@@ -8,4 +8,20 @@ songs:
     title: "Wood Field"
     path: "10 Woodman.spc"
     type: betting
+  - id: sports_news
+    title: "Sports News"
+    path: "02 Sports News.spc"
+    type: result
+  - id: title_theme_mmsoccer
+    title: "Title Theme"
+    path: "01 Title Screen.spc"
+    type: result
+  - id: pharaoh_field
+    title: "Pharaoh Field"
+    path: "12 Pharaohman.spc"
+    type: betting
+  - id: dr_wilys_field
+    title: "Dr. Wily's Field"
+    path: "21 Dr. Wily.spc"
+    type: warning
 ...

@@ -1,0 +1,26 @@
+id: pokemon_super_mystery_dungeon
+title: "Pokémon Super Mystery Dungeon"
+series: pokemon
+platform: "3DS"
+year: 2015
+songs: 
+  - id: amp_plains
+    title: "Amp Plains"
+    path: "Amp Plains.brstm"
+    type: betting
+  - id: beach_cave
+    title: "Beach Cave"
+    path: "Beach Cave.brstm"
+    type: betting
+  - id: sand_dune_of_spirits_great_canyon
+    title: "Sand Dune of Spirits (Great Canyon)"
+    path: "Sand Dune of Spirits (Great Canyon).brstm"
+    type: betting
+  - id: legendary_boss_battle_rock_version
+    title: "Legendary Boss Battle: Rock Version!"
+    path: "Legendary Boss Battle_ Rock Version!.brstm"
+    type: warning
+  - id: dark_matter_phase_2
+    title: "Dark Matter (Phase 2)"
+    path: "Dark Matter (Phase 2).brstm"
+    type: battle

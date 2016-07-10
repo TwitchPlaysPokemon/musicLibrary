@@ -109,4 +109,16 @@ songs:
     path: "Mt. Battle Leader Battle Theme.brstm"
     title: "Mt. Battle Leader Battle Theme"
     type: battle
+  - id: theme_of_suspense
+    title: "Theme of Suspense"
+    path: "Theme of Suspense.brstm"
+    type: warning
+  - id: ss_libra_pokemon_xd
+    title: "S.S. Libra"
+    path: "S.S. Libra.brstm"
+    type: betting
+  - id: pokespot_pokemon_xd
+    title: "PokéSpot"
+    path: "PokeSpot.brstm"
+    type: break
 ...

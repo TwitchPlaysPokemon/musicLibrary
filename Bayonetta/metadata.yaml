@@ -8,4 +8,13 @@ songs:
     title: "Riders of the Light"
     path: "Riders of the Light.brstm"
     type: warning
+  - id: the_gates_of_hell
+    title: "The Gates of Hell"
+    path: "The Gates of Hell.brstm"
+    ends: 3:36
+    type: betting
+  - id: the_old_city_of_vigrid
+    title: "The Old City of Vigrid"
+    path: "The Old City of Vigrid.brstm"
+    type: betting
 ...

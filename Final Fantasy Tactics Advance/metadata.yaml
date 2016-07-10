@@ -1,0 +1,14 @@
+id: final_fantasy_tactics_advance
+title: "Final Fantasy Tactics Advance"
+series: finalfantasy
+year: 2003
+platform: "GBA"
+songs:
+  - id: battle_of_hope_full_sound_version
+    title: "Battle of Hope (Full Sound Version)"
+    path: "Battle of Hope (Full Sound Version).brstm"
+    type: battle
+  - id: undefeated_heart_ffta
+    title: "Undefeated Heart"
+    path: "17 Undefeated Heart.minigsf"
+    type: result

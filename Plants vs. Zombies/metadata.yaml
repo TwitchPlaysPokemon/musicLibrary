@@ -1,0 +1,13 @@
+id: plants_vs_zombies
+title: "Plants vs. Zombies"
+platform: "Various"
+year: 2009
+songs: 
+  - id: minigame_plants_vs_zombies
+    title: "Minigame"
+    path: "Minigame.brstm"
+    type: warning
+  - id: the_roof_plants_vs_zombies
+    title: "The Roof"
+    path: "The Roof.brstm"
+    type: betting

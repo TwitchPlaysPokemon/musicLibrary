@@ -8,4 +8,16 @@ songs:
     title: "Champion Battle!"
     path: "Champion Battle!.brstm"
     type: battle
+  - id: your_bicycle
+    title: "Your Bicycle"
+    path: "Your Bicycle.brstm"
+    type: result
+  - id: the_gym_harmoknight
+    title: "The Gym"
+    path: "The Gym.brstm"
+    type: betting
+  - id: route_26_harmoknight
+    title: "Route 26"
+    path: "Route 26.brstm"
+    type: result
 ...

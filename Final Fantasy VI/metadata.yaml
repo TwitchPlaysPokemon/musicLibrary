@@ -33,4 +33,20 @@ songs:
     title: "Spinach Rag"
     path: "Spinach Rag.brstm"
     type: result
+  - id: the_unforgiven
+    title: "The Unforgiven"
+    path: "114 The Unforgiven.spc"
+    type: warning
+  - id: terras_theme
+    title: "Terra's Theme"
+    path: "201 Terra.spc"
+    type: betting
+  - id: setzers_theme
+    title: "Setzer's Theme"
+    path: "211 Setzer.spc"
+    type: result
+  - id: kefkas_tower
+    title: "Kefka's Tower"
+    path: "313 Last Dungeon.spc"
+    type: warning
 ...

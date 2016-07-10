@@ -157,4 +157,16 @@ songs:
     title: "Stadium - Drag Race"
     path: "Stadium - Drag Race.brstm"
     type: warning
+  - id: top_ride_metal
+    title: "Top Ride - Metal"
+    path: "Top Ride - Metal.brstm"
+    type: betting
+  - id: city_trial_lighthouse
+    title: "City Trial - Lighthouse"
+    path: "City Trial - Lighthouse.brstm"
+    type: warning
+  - id: city_trial_item_bounce
+    title: "City Trial - Item Bounce"
+    path: "City Trial - Item Bounce.brstm"
+    type: warning
 ...

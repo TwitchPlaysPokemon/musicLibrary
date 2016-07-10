@@ -1,0 +1,34 @@
+id: pokemon_pinball_ruby_and_sapphire
+title: "Pokémon Pinball: Ruby & Sapphire"
+series: pokemon
+platform: "GBA"
+year: 2003
+songs: 
+  - id: title_pokemon_pinball_ruby_and_sapphire
+    title: "Title"
+    path: "01 Title.minigsf"
+    type: result
+  - id: get_mode_blue_table
+    title: "Get Mode Blue Table"
+    path: "24 Get Mode Blue Table.minigsf"
+    type: warning
+  - id: get_mode_red_table
+    title: "Get Mode Red Table"
+    path: "20 Get Mode Red Table.minigsf"
+    type: warning
+  - id: go_to_bonus_2
+    title: "Go to Bonus 2"
+    path: "10 Go to Bonus 2.minigsf"
+    type: warning
+  - id: groudon_bonus_stage
+    title: "Groudon Bonus Stage"
+    path: "30 Lava Cave Bonus Stage.minigsf"
+    type: warning
+  - id: kyogre_bonus_stage
+    title: "Kyogre Bonus Stage"
+    path: "31 Dark Water Bonus Stage.minigsf"
+    type: betting
+  - id: in_the_sky_bonus_stage
+    title: "In the Sky Bonus Stage"
+    path: "32 In the Sky Bonus Stage.minigsf"
+    type: warning

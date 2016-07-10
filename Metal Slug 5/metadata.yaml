@@ -1,0 +1,10 @@
+id: metal_slug_5
+title: "Metal Slug 5"
+series: metalslug
+year: 2003
+platform: "Arcade+Neo-Geo"
+songs:
+  - id: fierce_battle
+    title: "Fierce Battle"
+    path: "Fierce Battle.brstm"
+    type: battle

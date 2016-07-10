@@ -1,0 +1,20 @@
+id: doom_ii_hell_on_earth
+title: "DOOM II: Hell on Earth"
+series: doom
+platform: "PC"
+year: 1994
+songs: 
+  - id: endgame_read_me
+    title: "Endgame - Read Me"
+    path: "Endgame - Read Me.brstm"
+    ends: 2:43
+    type: betting
+  - id: map_2_the_healer_stalks
+    title: "Map 2 - The Healer Stalks"
+    path: "Map 2 - The Healer Stalks.brstm"
+    type: break
+  - id: intermission_doom2
+    title: "Intermission"
+    path: "Intermission (Custom Loop).brstm"
+    ends: 2:50
+    type: betting

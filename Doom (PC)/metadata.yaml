@@ -1,0 +1,16 @@
+id: doom_pc
+title: "DOOM (PC)"
+series: doom
+platform: "Various"
+year: 1993
+songs: 
+  - id: e1m2_the_imps_song
+    title: "E1M2 - The Imp's Song"
+    path: "E1M2 - The Imp's Song.brstm"
+    ends: 2:34
+    type: betting
+  - id: e1m3_dark_halls
+    title: "E1M3 - Dark Halls"
+    path: "E1M3 - Dark Halls.brstm"
+    ends: 3:03
+    type: betting

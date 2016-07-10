@@ -13,4 +13,16 @@ songs:
     path: "Courtney Gears Battle.brstm"
     title: "Courtney Gears Battle"
     type: battle
+  - id: the_launch_site_dr_nefarious_boss
+    title: "The Launch Site (Dr. Nefarious Boss)"
+    path: "The Launch Site (Dr. Nefarious Boss).brstm"
+    type: battle
+  - id: station_q9_annihilation_nation
+    title: "Station Q9 - Annihilation Nation"
+    path: "Station Q9 - Annihilation Nation.brstm"
+    type: break
+  - id: koros
+    title: "Koros"
+    path: "Koros.brstm"
+    type: warning
 ...

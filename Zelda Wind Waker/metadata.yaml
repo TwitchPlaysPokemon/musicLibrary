@@ -33,4 +33,8 @@ songs:
     path: "Molgera Battle.brstm"
     title: "Molgera Battle"
     type: battle
+  - id: ganondorf_battle
+    title: "Ganondorf Battle"
+    path: "Ganondorf Battle.brstm"
+    type: battle
 ...

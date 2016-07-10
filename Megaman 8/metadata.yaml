@@ -25,4 +25,24 @@ songs:
     title: "Dr. Wily Stage 4"
     path: "25 Wily boss 1.psf"
     type: warning
+  - id: theme_of_bass
+    title: "Theme of Bass"
+    path: "29 Bass' theme.psf"
+    type: warning
+  - id: boss_intro
+    title: "Boss Intro"
+    path: "16 Boss intro.psf"
+    type: warning
+  - id: clown_man
+    title: "Clown Man
+    path: "09 Clown Man.psf"
+    type: result
+  - id: search_man
+    title: "Search Man"
+    path: "15 Search Man.psf"
+    type: betting
+  - id: wood_man
+    title: "Wood Man"
+    path: "18 woodman.ssf"
+    type: betting
 ...

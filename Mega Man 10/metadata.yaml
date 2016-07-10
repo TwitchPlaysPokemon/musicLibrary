@@ -16,4 +16,28 @@ songs:
     title: "Roboenza Virus"
     path: "Roboenza Virus.brstm"
     type: warning
+  - id: wily_crisis
+    title: "Wily Crisis"
+    path: "Wily Crisis.brstm"
+    type: warning
+  - id: wily_stage_1_entrance_silent_rain
+    title: "Wily Stage 1 Entrance - Silent Rain"
+    path: "Silent Rain (Wily Stage 1 Entrance).brstm"
+    type: warning
+  - id: shop_bass
+    title: "Shop - Bass"
+    path: "Shop - Bass.brstm"
+    type: warning
+  - id: staff_roll_mm10
+    title: "Staff Roll"
+    path: "Staff Roll.brstm"
+    type: result
+  - id: special_stage_3_farewell_to_ballade
+    title: "Special Stage 3 - Farewell to Ballade"
+    path: "Farewell to Ballade (Special Stage 3).brstm"
+    type: betting
+  - id: endless_mode_endless_struggle
+    title: "Endless Mode - Endless Struggle"
+    path: "Endless Struggle (Endless Mode).brstm"
+    type: betting
 ...

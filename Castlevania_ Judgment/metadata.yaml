@@ -1,0 +1,26 @@
+id: castlevania_judgment
+title: "Castlevania Judgment"
+series: castlevania
+platform: "Wii"
+year: 2008
+songs:
+  - id: darkness_of_fear
+    title: "Darkness of Fear"
+    path: "Darkness of Fear.brstm"
+    type: battle
+  - id: bloody_tears
+    title: "Bloody Tears"
+    path: "Bloody Tears.brstm"
+    type: battle
+  - id: vampire_killer
+    title: "Vampire Killer"
+    path: "Vampire Killer.brstm"
+    type: battle
+  - id: beginning
+    title: "Beginning"
+    path: "Beginning.brstm"
+    type: betting
+  - id: clockwork
+    title: "Clockwork"
+    path: "Clockwork.brstm"
+    type: betting

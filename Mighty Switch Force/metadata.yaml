@@ -25,4 +25,16 @@ songs:
     title: "Whoa I'm In Space Cuba"
     path: "Whoa I'm In Space Cuba.brstm"
     type: result
+  - id: jive_bot
+    title: "Jive Bot"
+    path: "Jive Bot.brstm"
+    type: betting
+  - id: caught_red_handed
+    title: "Caught Red Handed"
+    path: "Caught Red Handed.brstm"
+    type: betting
+  - id: apprehend_them
+    title: "Apprehend Them!"
+    path: "Apprehend Them!.brstm"
+    type: warning
 ...

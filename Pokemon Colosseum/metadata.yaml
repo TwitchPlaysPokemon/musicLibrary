@@ -65,4 +65,16 @@ songs:
     title: "News 1"
     path: "News 1.brstm"
     type: warning
+  - id: pokemon_center_pokemon_colosseum
+    title: "Pokémon Center"
+    path: "Pokemon Center.brstm"
+    type: betting
+  - id: mt_battle_break_room_pokemon_colosseum
+    title: "Mt. Battle Break Room"
+    path: "Mt. Battle Break Room.brstm"
+    type: break
+  - id: final_battle_pokemon_colosseum
+    title: "Final Battle"
+    path: "Final Battle.brstm"
+    type: battle
 ...

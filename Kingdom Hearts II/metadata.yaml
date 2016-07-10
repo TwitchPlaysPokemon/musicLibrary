@@ -21,4 +21,28 @@ songs:
     title: "Vim and Vigor"
     path: "Vim and Vigor.brstm"
     type: battle
+  - id: the_corrupted
+    title: "The Corrupted"
+    path: "The Corrupted.brstm"
+    type: warning
+  - id: the_afternoon_streets
+    title: "The Afternoon Streets"
+    path: "The Afternoon Streets.brstm"
+    type: break
+  - id: reviving_hollow_bastion
+    title: "Reviving Hollow Bastion"
+    path: "Reviving Hollow Bastion.brstm"
+    type: betting
+  - id: darkness_of_the_unknown_xemnas
+    title: "Darkness Of The Unknown (Xemnas)"
+    path: "Darkness Of The Unknown (Xemnas).brstm"
+    type: warning
+  - id: crossing_the_finish_line
+    title: "Crossing the Finish Line"
+    path: "Crossing the Finish Line.brstm"
+    type: result
+  - id: apprehension
+    title: "Apprehension"
+    path: "Apprehension.brstm"
+    type: warning
 ...

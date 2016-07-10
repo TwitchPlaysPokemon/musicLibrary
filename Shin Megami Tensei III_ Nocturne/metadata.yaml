@@ -37,4 +37,16 @@ songs:
     title: "Dante Battle"
     path: "Dante Battle.brstm"
     type: battle
+  - id: last_battle_smtiii
+    title: "Last Battle"
+    path: "Last Battle.brstm"
+    type: battle
+  - id: last_boss_battle_after_transformation
+    title: "Last Boss Battle After Transformation"
+    path: "Last Boss Battle After Transformation.brstm"
+    type: battle
+  - id: last_boss_battle_before_transformation
+    title: "Last Boss Battle Before Transformation"
+    path: "Last Boss Battle Before Transformation.brstm"
+    type: betting
 ...

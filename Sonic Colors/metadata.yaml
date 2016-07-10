@@ -33,4 +33,17 @@ songs:
     title: "Sweet Mountain 3"
     path: "Sweet Mountain 3.brstm"
     type: betting
+  - id: sonic_simulator_main_screen
+    title: "Sonic Simulator - Main Screen"
+    path: "Sonic Simulator - Main Screen.brstm"
+    type: warning
+  - id: blue_cube
+    title: "Blue Cube"
+    path: "Blue Cube.brstm"
+    type: warning
+  - id: save_screen_colors
+    title: "Save Screen"
+    path: "Save Screen.brstm"
+    type: break
+...
 ...

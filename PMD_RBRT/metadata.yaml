@@ -57,4 +57,12 @@ songs:
     path: "Magma Cavern Pit.brstm"
     title: "Magma Cavern Pit"
     type: warning
+  - id: rescue_team_base
+    title: "Rescue Team Base"
+    path: "Rescue Team Base.mini2sf"
+    type: break
+  - id: buried_relic
+    title: "Buried Relic"
+    path: "Buried Relic.mini2sf"
+    type: betting
 ...

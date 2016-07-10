@@ -1,0 +1,10 @@
+id: mario_kart_double_dash
+title: "Mario Kart: Double Dash!!"
+series: mario
+platform: "GCN"
+year: 2003
+songs: 
+  - id: menu_mario_kart_double_dash
+    title: "Menu"
+    path: "Menu.brstm"
+    type: break

@@ -8,4 +8,8 @@ songs:
     title: "Tennis - Results"
     path: "Tennis - Results.brstm"
     type: result
+  - id: title_theme_wii_sports
+    title: "Title Theme"
+    path: "Title Screen.brstm"
+    type: betting
 ...

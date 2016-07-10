@@ -21,4 +21,28 @@ songs:
     title: "Dark Impetus"
     path: "Dark Impetus.brstm"
     type: battle
+  - id: xehanort
+    title: "Xehanort"
+    path: "Xehanort.brstm"
+    type: warning
+  - id: unforgettable
+    title: "Unforgettable"
+    path: "Unforgettable.brstm"
+    type: battle
+  - id: unbreakable_chains
+    title: "Unbreakable Chains"
+    path: "Unbreakable Chains.brstm"
+    type: battle
+  - id: the_tumbling
+    title: "The Tumbling"
+    path: "The Tumbling.brstm"
+    type: warning
+  - id: rage_awakened_the_origin
+    title: "Rage Awakened -The Origin-"
+    path: "Rage Awakened ~The Origin~.brstm"
+    type: battle
+  - id: radiant_garden
+    title: "Radiant Garden"
+    path: "Radiant Garden.brstm"
+    type: betting
 ...

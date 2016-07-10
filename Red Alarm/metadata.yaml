@@ -1,0 +1,9 @@
+id: red_alarm
+title: "Red Alarm"
+platform: "VB"
+year: 1995
+songs: 
+  - id: stage_1_red_alarm
+    title: "Stage 1"
+    path: "Stage 1.brstm"
+    type: warning

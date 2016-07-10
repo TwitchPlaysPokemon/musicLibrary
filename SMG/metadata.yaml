@@ -45,4 +45,12 @@ songs:
     path: "Egg Planet.brstm"
     title: "Egg Planet"
     type: betting
+  - id: final_battle_with_bowser
+    title: "Final Battle with Bowser"
+    path: "Final Battle with Bowser.brstm"
+    type: battle
+  - id: bowser_jr
+    title: "Bowser Jr."
+    path: "Bowser Jr.brstm"
+    type: warning
 ...

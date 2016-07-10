@@ -102,4 +102,12 @@ songs:
     title: "Dark Mode"
     path: "Dark Mode.adx"
     type: warning
+  - id: black_bull
+    title: "Black Bull"
+    path: "Black Bull.adx"
+    type: battle
+  - id: death_ruins
+    title: "Death Ruins"
+    path: "Death Ruins.adx"
+    type: battle
 ...

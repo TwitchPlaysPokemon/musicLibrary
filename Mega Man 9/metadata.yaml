@@ -1,0 +1,26 @@
+id: mega_man_9
+title: "Mega Man 9"
+series: megaman
+platform: "Wii+PS3+360"
+year: 2008
+songs:
+  - id: endless_mode_maze_of_death
+    title: "Endless Mode - Maze of Death"
+    path: "Endless Stage.brstm"
+    type: betting
+  - id: splash_woman_stage_splash_blue
+    title: "Splash Woman Stage - Splash Blue"
+    path: Splash Blue (Splash Woman Stage).brstm""
+    type: betting
+  - id: dr_wily_stage_2_were_the_robots
+    title: "Dr. Wily Stage 2 - We're the Robots"
+    path: "We're the Robots (Dr. Wily Stage 2).brstm"
+    type: betting
+  - id: jewel_man_stage_jewel_temptation
+    title: "Jewel Man Stage - Jewel Temptation"
+    path: "Jewel Temptation (Jewel Man Stage).brstm"
+    type: result
+  - id: opening_2_mm9
+    title: "Opening 2"
+    path: "OPENING 2.brstm"
+    type: break

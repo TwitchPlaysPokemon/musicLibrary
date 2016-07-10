@@ -1,0 +1,10 @@
+id: hotel_mario
+platform: "CD-i"
+title: "Hotel Mario"
+series: mario
+year: 1994
+songs: 
+  - id: credits_hotel_mario
+    path: "Credits.brstm"
+    title: "Credits"
+    type: result

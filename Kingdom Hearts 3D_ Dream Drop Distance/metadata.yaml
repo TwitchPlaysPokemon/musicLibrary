@@ -53,4 +53,28 @@ songs:
     title: "All for One"
     path: "All for One.brstm"
     type: betting
+  - id: wild_blue
+    title: "Wild Blue"
+    path: "Wild Blue.brstm"
+    type: betting
+  - id: traverse_in_trance
+    title: "Traverse in Trance"
+    path: "Traverse in Trance.brstm"
+    type: break
+  - id: the_eye_of_darkness
+    title: "The Eye of Darkness"
+    path: "The Eye of Darkness.brstm"
+    type: warning
+  - id: sacred_distance
+    title: "Sacred Distance"
+    path: "Sacred Distance.brstm"
+    type: betting
+  - id: le_sanctuaire
+    title: "Le Sanctuaire"
+    path: "Le Sanctuaire.brstm"
+    type: warning
+  - id: loscurita_dell_ignoto
+    title: "L’Oscuritá dell’Ignoto"
+    path: "L'Oscurita dell'Ignoto.brstm"
+    type: battle
 ...

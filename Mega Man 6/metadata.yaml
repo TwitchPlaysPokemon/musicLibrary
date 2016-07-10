@@ -13,4 +13,16 @@ songs:
     path: "Knightman Stage.brstm"
     title: "Knight Man"
     type: betting
+  - id: credits_mm6
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+  - id: wind_man_stage
+    title: "Wind Man Stage"
+    path: "Wind Man Stage.brstm"
+    type: betting
+  - id: mr_x_stages
+    title: "Mr. X Stages"
+    path: "Mr X Stages.brstm"
+    type: betting
 ...

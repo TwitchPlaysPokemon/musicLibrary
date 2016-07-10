@@ -13,4 +13,16 @@ songs:
     path: "African Mines.brstm"
     ends: 3:00
     type: betting
+  - id: mount_vesuvius
+    title: "Mount Vesuvius"
+    path: "Mount Vesuvius.brstm"
+    type: betting
+  - id: dracula_duck
+    title: "Dracula Duck"
+    path: "Dracula Duck.brstm"
+    type: battle
+  - id: the_dime_chase
+    title: "The Dime Chase"
+    path: "The Dime Chase.brstm"
+    type: warning
 ...

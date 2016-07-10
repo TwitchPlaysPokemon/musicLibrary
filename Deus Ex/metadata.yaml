@@ -1,0 +1,17 @@
+id: deus_ex
+title: "Deus Ex"
+platform: "PC+PS2"
+year: 2000
+songs: 
+  - id: new_york_city_streets_1_action
+    title: "New York City Streets 1 (Action)"
+    path: "New York City Streets 1 (Action).brstm"
+    type: warning
+  - id: the_synapse_hong_kong_streets
+    title: "The Synapse (Hong Kong Streets)"
+    path: "The Synapse (Hong Kong Streets).brstm"
+    type: betting
+  - id: area_51_action
+    title: "Area 51 (Action)"
+    path: "Area 51 (Action).brstm"
+    type: warning

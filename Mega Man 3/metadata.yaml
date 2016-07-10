@@ -13,4 +13,24 @@ songs:
     path: "Needleman Stage.brstm"
     title: "Needle Man"
     type: betting # why was this warning?
+  - id: staff_roll_mm3
+    title: "Staff Roll"
+    path: "Ending Theme.brstm"
+    type: result
+  - id: weapon_get_mm3
+    title: "Weapon Get"
+    path: "Got Weapon.brstm"
+    type: result
+  - id: magnet_man_stage
+    title: "Magnet Man Stage"
+    path: "Magnetman Stage.brstm"
+    type: betting
+  - id: snake_man_stage
+    title: "Snake Man Stage"
+    path: "Snake Man Stage.brstm"
+    type: betting
+  - id: title_theme_mm3
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    type: betting
 ...

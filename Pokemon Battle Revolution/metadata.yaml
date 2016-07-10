@@ -78,4 +78,12 @@ songs:
       #  path: "First Battle.brstm"
       #  title: "First Battle"
       #  type: battle
+  - id: sashays_theme
+    title: "Sashay's Theme"
+    path: "Colosseum Leader - Sashay's Theme.brstm"
+    type: battle
+  - id: joes_theme
+    title: "Joe's Theme"
+    path: "Colosseum Leader - Joe's Theme.brstm"
+    type: betting
 ...

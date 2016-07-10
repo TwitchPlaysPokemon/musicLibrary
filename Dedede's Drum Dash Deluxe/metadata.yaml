@@ -1,0 +1,18 @@
+id: dededes_drum_dash_deluxe
+title: "Dedede's Drum Dash Deluxe"
+series: kirby
+platform: "3DS"
+year: 2014
+songs: 
+  - id: level_1_floral_fields
+    title: "Level 1: Floral Fields"
+    path: "Level 1_ Floral Fields.brstm"
+    type: betting
+  - id: level_4_bouncing_boss_battle
+    title: "Level 4: Bouncing Boss Battle"
+    path: "Level 4_ Bouncing Boss Battle.brstm"
+    type: battle
+  - id: level_5_city
+    title: "Level 5: City"
+    path: "Level 5_ City.brstm"
+    type: betting

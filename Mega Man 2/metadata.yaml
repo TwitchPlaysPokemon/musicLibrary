@@ -9,4 +9,16 @@ songs:
     path: "Dr. Wily Stage 1 & 2.brstm"
     title: "Dr. Wily Stage 1 & 2"
     type: betting
+  - id: main_theme_mm2
+    title: "Main Theme"
+    path: "Mega Man 2 Main Theme.brstm"
+    type: result
+  - id: dr_wily_stage_3_and_4_mm2
+    title: "Dr. Wily Stage 3 & 4"
+    path: "Dr. Wily Stage 3 4.brstm"
+    type: warning
+  - id: stage_select_mm2
+    title: "Stage Select"
+    path: "Stage Select.brstm"
+    type: warning
 ...

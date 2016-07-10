@@ -17,4 +17,12 @@ songs:
 #        title: "Karma"
 #        path: "SMTDDS - Karma.brstm"
 #        type: result
+  - id: sahasrara
+    title: "Sahasrara"
+    path: "Sahasrara.brstm"
+    type: betting
+  - id: river_of_samsara
+    title: "River of Samsara"
+    path: "River of Samsara.brstm"
+    type: betting
 ...

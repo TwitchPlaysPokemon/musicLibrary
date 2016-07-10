@@ -9,4 +9,12 @@ songs:
     path: "Nuclear Fusion.spc"
     title: "Nuclear Fusion"
     type: warning
+  - id: little_sweet_cafe
+    title: "little Sweet Cafe"
+    path: "107 Little Sweet Cafe.spc"
+    type: break
+  - id: positive_sd3
+    title: "Positive"
+    path: "211 Positive.spc"
+    type: result
 ...

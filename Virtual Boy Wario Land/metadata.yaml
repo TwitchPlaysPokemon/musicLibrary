@@ -1,0 +1,10 @@
+id: virtual_boy_wario_land
+title: "Virtual Boy Wario Land"
+series: wario
+platform: "VB"
+year: 1995
+songs: 
+  - id: the_elevator
+    title: "The Elevator"
+    path: "The Elevator.brstm"
+    type: warning

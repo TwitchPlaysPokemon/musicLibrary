@@ -9,4 +9,16 @@ songs:
     path: "Omega Ridley Boss Theme.brstm"
     title: "Omega Ridley"
     type: battle
+  - id: dark_samus_battle
+    title: "Dark Samus Battle"
+    path: "Dark Samus Boss Theme.brstm"
+    type: warning
+  - id: skytown
+    title: "SkyTown"
+    path: "SkyTown.brstm"
+    type: betting
+  - id: bryyo
+    title: "Bryyo"
+    path: "Bryyo.brstm"
+    type: warning
 ...

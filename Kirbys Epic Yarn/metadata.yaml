@@ -17,4 +17,28 @@ songs:
     title: "Kirby's Pad"
     path: "Kirby's Pad.brstm"
     type: break
+  - id: vs_king_dedede_kirbys_epic_yarn
+    title: "Vs. King Dedede"
+    path: "Vs. King Dedede.brstm"
+    type: battle
+  - id: secret_island_kirbys_epic_yarn
+    title: "Secret Island"
+    path: "Secret Island.brstm"
+    type: betting
+  - id: butter_building_kirbys_epic_yarn
+    title: "Butter Building"
+    path: "Butter Building.brstm"
+    type: betting
+  - id: outer_rings
+    title: "Outer Rings"
+    path: "Outer Rings.brstm"
+    type: betting
+  - id: future_city
+    title: "Future City"
+    path: "Future City.brstm"
+    type: betting
+  - id: fountain_gardens
+    title: "Fountain Gardens"
+    path: "Fountain Gardens.brstm"
+    type: betting
 ...

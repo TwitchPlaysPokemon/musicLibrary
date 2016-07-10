@@ -21,4 +21,28 @@ songs:
     title: "Scherzo di Notte"
     path: "Scherzo di Notte.brstm"
     type: warning
+  - id: the_deep_end
+    title: "The Deep End"
+    path: "The Deep End.brstm"
+    type: battle
+  - id: squirming_evil
+    title: "Squirming Evil"
+    path: "Squirming Evil.brstm"
+    type: warning
+  - id: shrouding_dark_cloud
+    title: "Shrouding Dark Cloud"
+    path: "Shrouding Dark Cloud.brstm"
+    type: betting
+  - id: hand_in_hand
+    title: "Hand in Hand"
+    path: "Hand in Hand.brstm"
+    type: betting
+  - id: guardando_nel_buio
+    title: "Guardando nel Buio"
+    path: "Guardando Nel Buio.brstm"
+    type: battle
+  - id: end_of_the_world
+    title: "End of the World"
+    path: "End of the World.brstm"
+    type: warning
 ...

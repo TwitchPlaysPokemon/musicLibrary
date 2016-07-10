@@ -8,4 +8,28 @@ songs:
     title: "Boss"
     path: "Boss.spc"
     type: warning
+  - id: rocket_launcher_plok
+    title: "Rocket Launcher"
+    path: "10 Rocket Launcher.spc"
+    type: result
+  - id: beach_plok
+    title: "Beach"
+    path: "13 Beach.spc"
+    type: betting
+  - id: race_against_time
+    title: "Race Against Time"
+    path: "05 Bonus Level.spc"
+    type: warning
+  - id: boxing_gloves
+    title: "Boxing Gloves"
+    path: "07 Boxing Glove.spc"
+    type: warning
+  - id: shotgun
+    title: "Shotgun"
+    path: "08 Shotgun.spc"
+    type: warning
+  - id: cowboy
+    title: "Cowboy"
+    path: "11 Cowboy.spc"
+    type: warning
 ...

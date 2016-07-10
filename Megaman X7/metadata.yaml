@@ -9,4 +9,28 @@ songs:
     path: "VS Boss.brstm"
     title: "VS Boss"
     type: battle
+  - id: nightmare_ending_of_zero
+    title: "Nightmare - Ending Of Zero"
+    path: "Nightmare - Ending Of Zero.brstm"
+    type: warning
+  - id: provocation
+    title: "Provocation"
+    path: "Provocation.brstm"
+    type: warning
+  - id: black_plotting
+    title: "Black Plotting"
+    path: "Black Plotting.brstm"
+    type: warning
+  - id: option_mmx7
+    title: "Option"
+    path: "Option.brstm"
+    type: break
+  - id: result_mmx7
+    title: "Result"
+    path: "Result.brstm"
+    type: result
+  - id: mod_electric_wave_radio_tower_stage
+    title: "Mod Electric Wave - Radio Tower Stage"
+    path: "Mod Electric Wave - Radio Tower Stage.brstm"
+    type: warning
 ...

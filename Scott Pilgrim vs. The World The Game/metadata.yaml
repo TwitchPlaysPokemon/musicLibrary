@@ -24,4 +24,16 @@ songs:
     title: "TechnoMan"
     path: "TechnoMan.brstm"
     type: warning
+  - id: this_is_the_end
+    title: "This Is The End"
+    path: "This Is The End.brstm"
+    type: result
+  - id: scott_pilgrim_anthem
+    title: "Scott Pilgrim Anthem"
+    path: "Scott Pilgrim Anthem.brstm"
+    type: result
+  - id: rox_300
+    title: "Rox 300"
+    path: "Rox 300.brstm"
+    type: result
 ...

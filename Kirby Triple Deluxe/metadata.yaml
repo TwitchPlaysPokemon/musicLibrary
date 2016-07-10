@@ -89,4 +89,20 @@ songs:
     title: "World Map"
     path: "World Map [''Green Greens'' from Kirby's Dream Land].brstm"
     type: betting
+  - id: the_arena
+    title: "The Arena"
+    path: "The Arena [from Kirby Super Star].brstm"
+    type: warning
+  - id: kirby_fighters_big_forest
+    title: "Kirby Fighters - Big Forest"
+    path: "Kirby Fighters - Big Forest [from Kirby's Dream Land 2].brstm"
+    type: betting
+  - id: colosseum_battle_the_arena
+    title: "Colosseum Battle (The Arena)"
+    path: "Colosseum Battle (The Arena) [from Kirby Super Star].brstm"
+    type: warning
+  - id: dark_meta_knight
+    title: "Dark Meta Knight"
+    path: "Dark Meta Knight.brstm"
+    type: warning
 ...

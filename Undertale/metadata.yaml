@@ -56,4 +56,8 @@ songs:
     title: "Uwa!! So Temperate"
     path: "Uwa!! So Temperate.brstm"
     type: break
+  - id: death_report
+    title: "Death Report"
+    path: "Death Report.brstm"
+    type: warning
 ...

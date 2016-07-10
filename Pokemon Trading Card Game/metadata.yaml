@@ -21,4 +21,16 @@ songs:
     title: "Grand Master Duel"
     path: "Grand Master Duel.brstm"
     type: betting
+  - id: overworld_pokemon_tcg
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: betting
+  - id: water_psychic_rock_club_pokemon_tcg
+    title: "Water-Psychic-Rock Club"
+    path: "Water-Psychic-Rock Club.brstm"
+    type: break
+  - id: normal_duel_pokemon_tcg
+    title: "Normal Duel"
+    path: "Normal Battle.brstm"
+    type: betting
 ...

@@ -29,4 +29,13 @@ songs:
 #        title: "Pokey Means Business!"
 #        path: "Pokey Means Business!.brstm"
 #        type: battle  #Borderline; the unfitting 8-bit section lasts too long but after it's fine
+  - id: battle_against_a_machine
+    title: "Battle Against a Machine"
+    path: "109 Battle Against a Machine.spc"
+    type: warning
+#      - id: pokey_means_business
+#        title: "Pokey Means Business!"
+#        path: "Pokey Means Business!.brstm"
+#        type: battle  #Borderline; the unfitting 8-bit section lasts too long but after it's fine
+...
 ...

@@ -8,4 +8,28 @@ songs:
   title: "Theme of Bass - Friend or Foe?"
   path: "07 Bass and Treble.spc"
   type: warning
+  - id: prologue_part_2_searching_for_the_master
+    title: "Prologue Part 2 - Searching for the Master"
+    path: "03 Opening (part 2).brstm"
+    type: warning
+  - id: ending_a_hero_returns
+    title: "Ending - A Hero Returns"
+    path: "35 Staff Roll.brstm"
+    type: result
+  - id: prologue_6_months_later
+    title: "Prologue - 6 Months later"
+    path: "02 Opening (part 1).brstm"
+    type: result
+  - id: burst_man_stage_medical_science_lab
+    title: "Burst Man Stage - Medical Science Lab"
+    path: "11 Burstman.brstm"
+    type: betting
+  - id: wily_stage_2_turtles_realm
+    title: "Wily Stage 2 - Turtle's Realm"
+    path: "29 Dr. Wily 2.brstm"
+    type: betting
+  - id: ghouls_n_ghosts
+    title: "Ghouls 'N Ghosts"
+    path: "94 The Haunted Graveyard.brstm"
+    type: battle
 ...

@@ -1,0 +1,13 @@
+id: i_am_bread
+title: "I am Bread"
+platform: "PC"
+year: 2014
+songs: 
+  - id: kitchen
+    title: "Kitchen"
+    path: "Kitchen.brstm"
+    type: betting
+  - id: bathroom
+    title: "Bathroom"
+    path: "Bathroom.brstm"
+    type: break

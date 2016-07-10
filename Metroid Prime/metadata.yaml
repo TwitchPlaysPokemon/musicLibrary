@@ -25,4 +25,24 @@ songs:
     path: "Phendrana Drifts Depths.brstm"
     title: "Phendrana Drifts Depths"
     type: betting
+  - id: thardus_battle
+    title: "Thardus Battle"
+    path: "Thardus Battle.brstm"
+    type: warning
+  - id: vs_hive_totem
+    title: "Vs. Hive Totem"
+    path: "Vs. Hive Totem.brstm"
+    type: warning
+  - id: magmoor_caverns
+    title: "Magmoor Caverns"
+    path: "Magmoor Caverns.brstm"
+    type: betting
+  - id: planet_tallon_iv
+    title: "Planet Tallon IV"
+    path: "Planet Tallon IV.brstm"
+    type: betting
+  - id: tallon_overworld_depths
+    title: "Tallon Overworld Depths"
+    path: "Tallon Overworld Depths.brstm"
+    type: betting
 ...

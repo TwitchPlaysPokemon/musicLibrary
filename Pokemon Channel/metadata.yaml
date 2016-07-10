@@ -1,0 +1,21 @@
+id: pokemon_channel
+title: "Pokémon Channel"
+platform: "GCN"
+year: 2003
+songs: 
+  - id: binder
+    title: "Binder"
+    path: "Binder.brstm"
+    type: result
+  - id: odd_one_out
+    title: "Odd One Out"
+    path: "Odd One Out.brstm"
+    type: warning
+  - id: shop_n_squirtle
+    title: "Shop 'N Squirtle"
+    path: "Shop 'N Squirtle.brstm"
+    type: result
+  - id: springleaf_field
+    title: "Springleaf Field"
+    path: "Springleaf Field.brstm"
+    type: break

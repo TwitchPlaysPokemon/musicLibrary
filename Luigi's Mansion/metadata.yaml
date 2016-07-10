@@ -9,4 +9,17 @@ songs:
     title: "Angry Spirits"
     path: "Angry Spirits.brstm"
     type: warning
+  - id: dancing_shy_guy_ghosts
+    title: "Dancing Shy Guy Ghosts"
+    path: "Dancing Shy Guy Ghosts.brstm"
+    type: warning
+  - id: credits_luigis_mansion
+    title: "Credits"
+    path: "Credits.brstm"
+    ends: 2:20
+    type: betting
+  - id: training_luigis_mansion
+    title: "Training"
+    path: "Training.brstm"
+    type: warning
 ...

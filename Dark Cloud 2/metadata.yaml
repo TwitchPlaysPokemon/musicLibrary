@@ -1,0 +1,14 @@
+id: dark_cloud_2 
+title: "Dark Cloud 2 "
+platform: "PS2"
+year: 2002
+songs: 
+  - id: moonlight_tango
+    title: "Moonlight Tango"
+    path: "Moonlight Tango.psf2"
+    type: warning
+  - id: demon
+    title: "Demon"
+    path: "Demon.psf2"
+    ends: 2:50
+    type: betting

@@ -1,0 +1,22 @@
+id: digimon_world_dawn_dusk
+title: "Digimon World: Dawn/Dusk"
+series: digimon
+platform: "NDS"
+year: 2007
+songs: 
+  - id: boss_battle_theme_digimon_world_dawn_dusk
+    title: "Boss Battle Theme"
+    path: "Boss Battle Theme.mini2sf"
+    type: warning
+  - id: darkmoon_city
+    title: "Darkmoon City"
+    path: "Darkmoon City.mini2sf"
+    type: betting
+  - id: sunshine_city
+    title: "Sunshine City"
+    path: "Sunshine City.mini2sf"
+    type: betting
+  - id: exogrimmon_battle_theme
+    title: "EXOGrimmon Battle Theme"
+    path: "EXOGrimmon Battle Theme.mini2sf"
+    type: warning
