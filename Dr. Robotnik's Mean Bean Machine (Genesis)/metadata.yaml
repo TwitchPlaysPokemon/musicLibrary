@@ -12,8 +12,8 @@ songs:
     path: "03 - Password Entry.vgz"
     type: betting
   - id: brave_unused
-    title: "Brave (Unused)"
-    path: "24 - Unused (Brave).vgz"
+    title: "Brave"
+    path: "24 - Brave.vgz"
     type: betting
   - id: staff_roll_mean_bean_machine
     title: "Staff Roll"
@@ -21,12 +21,13 @@ songs:
     type: result
   - id: theme_of_puyo_puyo_unused
     title: "Theme of Puyo Puyo (Unused)"
-    path: ""
+    path: "25 - Theme of Puyo Puyo.vgz"
     type: betting
-  - id: configuration_mean_bean_machine
-    title: "Configuration"
-    path: "25 - Unused (Theme of Puyo Puyo).vgz"
-    type: break
+# broken (wrong songfile):
+#  - id: configuration_mean_bean_machine
+#    title: "Configuration"
+#    path: "25 Theme of Puyo Puyo.vgz"
+#    type: break
   - id: danger_mean_bean_machine
     title: "Danger!"
     path: "20 - Danger!.vgz"
@@ -37,5 +38,5 @@ songs:
     type: warning
   - id: sound_code_01_unused
     title: "Sound Code 01 (Unused)"
-    path: "22 - Unused (Sound Code 01).vgz"
+    path: "22 - Sound Code 01.vgz"
     type: warning
