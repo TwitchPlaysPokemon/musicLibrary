@@ -1,0 +1,12 @@
+---
+id: pokemon_go
+platform: "Mobile"
+title: "Pokémon Go"
+series: pokemon
+year: 2016
+songs: 
+  - id: battle_wild_pokemon_go
+    path: "Battle! Wild Pokemon.brstm"
+    title: "Battle! Wild Pokémon"
+    type: battle
+...
