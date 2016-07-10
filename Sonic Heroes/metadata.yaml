@@ -25,16 +25,24 @@ songs:
     path: "Battle 4.adx"
     title: "Battle 4"
     type: warning
-  - id: special_stage_2_heroes
-    path: "Special Stage 2.adx"
-    title: "Special Stage 2"
-    type: battle
-  - id: system_2_heroes
-    path: "System 2.adx"
-    title: "System 2"
+  - id: casino_park_zone
+    path: "Casino Park Zone.adx"
+    title: "Casino Park Zone"
+    type: betting
+  - id: grand_metropolis_zone_heroes
+    path: "Grand Metropolis Zone.adx"
+    title: "Grand Metropolis Zone"
     type: betting
   - id: frog_forest_zone
     path: "Frog Forest Zone.adx"
     title: "Frog Forest Zone"
     type: betting
+  - id: system_2_heroes
+    path: "System 2.adx"
+    title: "System 2"
+    type: betting
+  - id: special_stage_2_heroes
+    path: "Special Stage 2.adx"
+    title: "Special Stage 2"
+    type: battle
 ...
