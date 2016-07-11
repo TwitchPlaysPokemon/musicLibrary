@@ -11,14 +11,14 @@ songs:
     type: warning
   - id: the_grimoire_of_alice
     path: "The Grimoire of Alice.brstm"
-    title: "The Grimoire of Alice"
+    title: "Alice's Theme: The Grimoire of Alice"
     type: warning
   - id: dichromatic_lotus_butterfly_ancients
     path: "Dichromatic Lotus Butterfly ~ Ancients.brstm"
-    title: "Dichromatic Lotus Butterfly ~ Ancients"
+    title: "Reimu's Theme: Dichromatic Lotus Butterfly ~ Ancients"
     type: warning
   - id: faith_is_for_the_transient_people
-    title: "Faith is for the Transient People"
+    title: "Sanae's Theme: Faith is for the Transient People"
     path: "Faith is for the Transient People.brstm"
     type: battle
 ...
