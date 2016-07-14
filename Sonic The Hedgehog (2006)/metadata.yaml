@@ -93,11 +93,10 @@ songs:
     title: "Boss - Vs. Character"
     path: "Boss - Vs. Character.brstm"
     type: battle
-#      - id: soleanna_castle_town
-#        title: "Soleanna Castle Town"
-#        path: "Soleanna Castle Town.brstm"
-#        type: betting
-# I did not add this. was this helennah?
+  - id: soleanna_castle_town
+    title: "Soleanna Castle Town"
+    path: "Soleanna Castle Town.brstm"
+    type: betting
   - id: wave_ocean_the_waters_edge
     title: "Wave Ocean - The Water's Edge"
     path: "Wave Ocean - The Water's Edge.brstm"
