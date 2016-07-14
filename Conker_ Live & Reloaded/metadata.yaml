@@ -9,4 +9,12 @@ songs:
     title: "Windy"
     path: "Windy.GENH"
     type: betting
+  - id: ole
+    title: "Olé"
+    path: "Ole.GENH"
+    type: battle
+  - id: the_old_chap
+    title: "The Old Chap"
+    path: "The Old Chap.GENH"
+    type: result
 ...

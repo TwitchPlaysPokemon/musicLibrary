@@ -11,7 +11,8 @@ songs:
     title: "Splash Wave"
     path: "Splash Wave.brstm"
     type: warning
-  - id: last_wave_arcade
-    title: "Last Wave"
-    path: "Last Wave.brstm"
-    type: break
+#  - id: last_wave_arcade
+#   title: "Last Wave"
+#   path: "Last Wave.brstm"
+#   type: break
+# too short, does not loop
