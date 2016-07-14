@@ -13,11 +13,10 @@ songs:
     title: "Barrel Volcano"
     path: "Barrel Volcano.spc"
     type: betting
-#      - id: beware_of_the_forests_mushrooms
-#        title: "Beware of the Forest's Mushrooms"
-#        path: "Beware of the Forest's Mushrooms.brstm"
-#        type: betting
-# no, slightly memetic for some stupid reason
+  - id: beware_of_the_forests_mushrooms
+    title: "Beware of the Forest's Mushrooms"
+    path: "Beware of the Forest's Mushrooms.brstm"
+    type: betting
   - id: fight_against_smithy
     title: "Fight Against Smithy"
     path: "Fight Against Smithy.spc"
