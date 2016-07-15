@@ -13,28 +13,36 @@ songs:
     title: "Electronica in Velvet Room"
     path: "Electronica In Velvet Room.brstm"
     type: betting
-  - id: smile_persona4
-    title: "SMILE"
-    path: "SMILE.brstm"
-    type: result
-  - id: secret_base_persona4
-    title: "Secret Base"
-    path: "Secret Base.brstm"
+  - id: borderline_of_madness
+    title: "Borderline of Madness"
+    path: "Borderline of Madness.brstm"
+    type: warning
+  - id: castle_persona4
+    title: "Castle"
+    path: "Castle.brstm"
     type: betting
-  - id: reasoning_persona4
-    title: "Reasoning"
-    path: "Reasoning.brstm"
-    type: betting
-  - id: period_persona4
-    title: "Period"
-    path: "Period.brstm"
+  - id: like_a_dream_come_true
+    title: "Like a Dream Come True"
+    path: "Like a Dream Come True.brstm"
     type: result
   - id: new_days_persona4
     title: "New Days"
     path: "New Days.brstm"
     type: break
-  - id: like_a_dream_come_true
-    title: "Like a Dream Come True"
-    path: "Like a Dream Come True.brstm"
+  - id: period_persona4
+    title: "Period"
+    path: "Period.brstm"
+    type: result
+  - id: reasoning_persona4
+    title: "Reasoning"
+    path: "Reasoning.brstm"
+    type: betting
+  - id: secret_base_persona4
+    title: "Secret Base"
+    path: "Secret Base.brstm"
+    type: betting
+  - id: smile_persona4
+    title: "SMILE"
+    path: "SMILE.brstm"
     type: result
 ...

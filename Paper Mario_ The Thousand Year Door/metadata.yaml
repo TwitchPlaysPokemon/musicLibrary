@@ -66,28 +66,44 @@ songs:
     title: "Boss - Hooktail"
     path: "Boss - Hooktail.brstm"
     type: warning
-  - id: main_menu_ttyd
-    title: "Main Menu"
-    path: "Main Menu.brstm"
-    type: result
-  - id: glitzville_ttyd
-    title: "Glitzville"
-    path: "Glitzville.brstm"
-    type: betting
-  - id: the_glitz_pit
-    title: "The Glitz Pit"
-    path: "The Glitz Pit.brstm"
+  - id: boss_bowser_ttyd
+    title: "Boss - Bowser"
+    path: "Boss - Bowser.brstm"
+    type: battle
+  - id: boss_the_shadow_sirens
+    title: "Boss - The Shadow Sirens"
+    path: "Boss - The Shadow Sirens.brstm"
     type: warning
-  - id: riverside_station_ttyd
-    title: "Riverside Station"
-    path: "Riverside Station.brstm"
+  - id: bowser_theme_ttyd
+    title: "Bowser's Theme"
+    path: "Bowser's Theme.brstm"
+    type: warning
+  - id: dusk_at_excess_express
+    title: "Dusk at Excess Express"
+    path: "Dusk at Excess Express.brstm"
     type: break
-  - id: petal_meadows
-    title: "Petal Meadows"
-    path: "Petal Meadows.brstm"
-    type: betting
   - id: mini_game_ttyd
     title: "Mini Game"
     path: "Mini Game.brstm"
     type: warning
+  - id: petal_meadows
+    title: "Petal Meadows"
+    path: "Petal Meadows.brstm"
+    type: betting
+  - id: riverside_station_ttyd
+    title: "Riverside Station"
+    path: "Riverside Station.brstm"
+    type: break
+  - id: the_glitz_pit
+    title: "The Glitz Pit"
+    path: "The Glitz Pit.brstm"
+    type: warning
+  - id: glitzville_ttyd
+    title: "Glitzville"
+    path: "Glitzville.brstm"
+    type: betting
+  - id: main_menu_ttyd
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: result
 ...

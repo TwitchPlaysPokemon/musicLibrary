@@ -33,4 +33,13 @@ songs:
     title: "Normal Duel"
     path: "Normal Battle.brstm"
     type: betting
+  - id: credits_tcg
+    title: "Credits"
+    path: "Credits.brstm"
+    ends: 2:58
+    type: betting
+  - id: fire_fighting_science_club
+    title: "Fire-Fighting-Science Club"
+    path: "Fire-Fighting-Science Club.brstm"
+    type: betting
 ...

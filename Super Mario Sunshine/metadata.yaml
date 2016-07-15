@@ -17,6 +17,30 @@ songs:
     path: "Delfino Plaza.brstm"
     title: "Delfino Plaza"
     type: betting
+  - id: shaddow_mario_sunshine
+    path: "Shadow Mario.brstm"
+    title: "Shadow Mario"
+    type: warning
+  - id: bianco_hills_medley_sunshine
+    path: "Bianco Hills - Medley.brstm"
+    title: "Bianco Hills - Medley"
+    type: betting
+  - id: gelato_beach_medley
+    path: "Gelato Beach - Medley.brstm"
+    title: "Gelato Beach - Medley"
+    type: betting
+  - id: noki_bay_medley
+    path: "Noki Bay - Medley.brstm"
+    title: "Noki Bay - Medley"
+    type: break
+  - id: pinna_park_beach
+    path: "Pinna Park Beach.brstm"
+    title: "Pinna Park Beach"
+    type: break
+  - id: secret_course_sunshine
+    path: "Secret Course.brstm"
+    title: "Secret Course"
+    type: betting
   - id: vs_phantamanta
     path: "Vs. Phantamanta.brstm"
     title: "Vs. Phantamanta"

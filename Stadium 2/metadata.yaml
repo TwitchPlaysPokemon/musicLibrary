@@ -33,4 +33,24 @@ songs:
     title: "Pokémon Registration"
     path: "Pokemon Registration.miniusf"
     type: warning
+  - id: challenge_cup_battle_stadium2
+    title: "Challenge Cup Battle"
+    path: "Challenge Cup Battle.brstm"
+    type: betting
+  - id: event_battle_stadium2
+    title: "Event Battle"
+    path: "Event Battle.brstm"
+    type: result
+  - id: poke_cup_battle_stadium2
+    title: "Poké Cup Battle"
+    path: "Poké Cup Battle.brstm"
+    type: betting
+  - id: poke_cup_battle_2_stadium2
+    title: "Poké Cup Battle 2"
+    path: "Poké Cup Battle 2.brstm"
+    type: betting
+  - id: poke_cup_final_battle_stadium2
+    title: "Poké Cup Final Battle"
+    path: "Poké Cup Final Battle.brstm"
+    type: battle
 ...

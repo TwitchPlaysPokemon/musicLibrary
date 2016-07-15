@@ -121,4 +121,24 @@ songs:
     title: "PokéSpot"
     path: "PokeSpot.brstm"
     type: break
+  - id: cipher_admin_theme_xd
+    title: "Cipher Admin Theme"
+    path: "Cipher Admin Theme.brstm"
+    type: warning
+  - id: citadark_isle_xd
+    title: "Citadark Isle"
+    path: "Citadark Isle.brstm"
+    type: betting
+  - id: dr_kaminko_manor
+    title: "Dr. Kaminko's Manor"
+    path: "Dr. Kaminko's Manor.brstm"
+    type: betting
+  - id: krabby_club_xd
+    title: "Krabby Klub"
+    path: "Krabby Klub.brstm"
+    type: break
+  - id: phenac_city_crisis
+    title: "Phenac City - Crisis"
+    path: "Phenac City - Crisis.brstm"
+    type: betting
 ...

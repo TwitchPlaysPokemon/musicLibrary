@@ -16,6 +16,14 @@ songs:
     title: "Save Screen"
     path: "Save Screen.brstm"
     type: break
+  - id: interiors_shop
+    title: "Interiors Shop"
+    path: "Interiors Shop.brstm"
+    type: break
+  - id: mii_news
+    title: "Mii News - Breaking News"
+    path: "Mii News - Breaking News.brstm"
+    type: warning
   - id: photo_booth
     title: "Photo Booth"
     path: "Photo Booth.brstm"

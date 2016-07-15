@@ -25,4 +25,8 @@ songs:
     title: "Koros"
     path: "Koros.brstm"
     type: warning
+  - id: arena_boss_arsenal
+    title: "Arena Boss"
+    path: "Arena Boss.brstm"
+    type: battle
 ...

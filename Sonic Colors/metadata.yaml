@@ -33,16 +33,28 @@ songs:
     title: "Sweet Mountain 3"
     path: "Sweet Mountain 3.brstm"
     type: betting
-  - id: sonic_simulator_main_screen
-    title: "Sonic Simulator - Main Screen"
-    path: "Sonic Simulator - Main Screen.brstm"
-    type: warning
-  - id: blue_cube
-    title: "Blue Cube"
-    path: "Blue Cube.brstm"
-    type: warning
+  - id: aquarium_park_2
+    title: "Aquarium Park 2"
+    path: "Aquarium Park 2.brstm"
+    type: betting
+  - id: result_sonic_colors
+    title: "Result"
+    path: "Result.brstm"
+    type: result
+  - id: worldmap_colors
+    title: "Worldmap"
+    path: "Worldmap.brstm"
+    type: result
   - id: save_screen_colors
     title: "Save Screen"
     path: "Save Screen.brstm"
     type: break
+  - id: blue_cube
+    title: "Blue Cube"
+    path: "Blue Cube.brstm"
+    type: warning
+  - id: sonic_simulator_main_screen
+    title: "Sonic Simulator - Main Screen"
+    path: "Sonic Simulator - Main Screen.brstm"
+    type: warning
 ...
