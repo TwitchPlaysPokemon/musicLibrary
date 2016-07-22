@@ -13,11 +13,10 @@ songs:
     title: "Battle with Magus"
     path: "Battle with Magus.spc"
     type: battle
-#      - id: delightful_spekkio
-#        title: "Delightful Spekkio"
-#        path: "Delightful Spekkio.brstm"
-#        type: result
-# unfitting result song
+  - id: delightful_spekkio
+    title: "Delightful Spekkio"
+    path: "214 Delightful Spekkio.spc"
+    type: betting
   - id: frogs_theme
     title: "Frog's Theme"
     path: "Frog's Theme.brstm"
