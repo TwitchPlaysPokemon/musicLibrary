@@ -5,10 +5,10 @@ series: shinmegamitensei
 platform: "NDS"
 year: 2011
 songs:
-#      - id: akashic_record #Not tense and charged enough for the first 30 seconds, and that's too long for PBR. If someone were to make a BRSTM that sounded good that cut the first part out that would be awesome
-#        title: "Akashic Record"
-#        path: "SMTDS2 - Akashic Record.brstm"
-#        type: battle
+  - id: akashic_record
+    title: "Akashic Record"
+    path: "SMTDS2 - Akashic Record.brstm"
+    type: warning
   - id: over_the_brink
     title: "Over the Brink of Death"
     path: "SMTDS2 - Over the Brink of Death.brstm"
