@@ -26,4 +26,16 @@ songs:
     title: "Ending Story"
     path: "99 Ending Story.miniusf"
     type: break
+  - id: alone_in_the_jungle
+    title: "Alone In The Jungle"
+    path: "Alone In The Jungle.miniusf"
+    type: warning
+  - id: come_back_to_me
+    title: "Come Back To Me"
+    path: "Come Back To Me.miniusf"
+    type: break
+  - id: yoshi_mood
+    title: "Yoshi's Mood"
+    path: "Yoshi's Mood.brstm"
+    type: break
 ...

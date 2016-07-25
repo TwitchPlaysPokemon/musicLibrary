@@ -10,5 +10,9 @@ songs:
   - id: demon
     title: "Demon"
     path: "Demon.psf2"
-    ends: 2:50
+    ends: 2:23
+    type: betting
+  - id: battle_for_the_future_darkcloud2
+    title: "Battle for the Future"
+    path: "Battle for the Future.psf2"
     type: betting

@@ -25,16 +25,16 @@ songs:
     title: "The Metropolis of Fourside"
     path: "The Metropolis of Fourside.spc"
     type: betting
-#      - id: pokey_means_business
-#        title: "Pokey Means Business!"
-#        path: "Pokey Means Business!.brstm"
-#        type: battle  #Borderline; the unfitting 8-bit section lasts too long but after it's fine
   - id: battle_against_a_machine
     title: "Battle Against a Machine"
     path: "109 Battle Against a Machine.spc"
     type: warning
-#      - id: pokey_means_business
-#        title: "Pokey Means Business!"
-#        path: "Pokey Means Business!.brstm"
-#        type: battle  #Borderline; the unfitting 8-bit section lasts too long but after it's fine
+  - id: pokey_means_business
+    title: "Pokey Means Business!"
+    path: "Pokey Means Business! (8-bit Section).brstm"
+    type: warning
+  - id: battle_against_a_weird_opponent
+    title: "Battle Against a Weird Opponent"
+    path: "Battle Against a Weird Opponent.brstm"
+    type: warning
 ...

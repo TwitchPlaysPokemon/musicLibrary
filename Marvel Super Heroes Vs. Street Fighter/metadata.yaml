@@ -1,0 +1,21 @@
+id: marvel_super_heroes_vs_street_fighter
+platform: ["Arcade", "Saturn", "PS1"]
+title: Marvel Super Heroes vs. Street Fighter
+year: 1997
+songs: 
+  - id: blackheart_theme
+    path: "Blackheart's Theme.brstm"
+    title: "Blackheart's Theme"
+    type: warning
+  - id: m_bison_theme
+    path: "M. Bison's Theme.brstm"
+    title: "M. Bison's Theme"
+    type: battle
+  - id: theme_of_omega_red
+    path: "Theme of Omega Red.brstm"
+    title: "Theme of Omega Red"
+    type: result
+  - id: wolverine_theme
+    path: "Wolverine's Theme.brstm"
+    title: "Wolverine's Theme"
+    type: result

@@ -1,0 +1,14 @@
+id: killer_instinct
+title: "Killer Instinct"
+platform: ["Arcade", "SNES", "GB", "XOne"]
+series: killerinstinct
+year: 1994
+songs:
+  - id: jago_theme_ki
+    title: "Jago's Theme"
+    path: "Jago's Theme.brstm"
+    type: result
+  - id: fighter_menu_theme_ki
+    title: "Fighter Menu Theme"
+    path: "Fighter Menu Theme.brstm"
+    type: warning

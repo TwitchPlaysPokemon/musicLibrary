@@ -1,0 +1,13 @@
+id: axelay
+title: "Axelay"
+platform: "SNES"
+year: 1992
+songs:
+  - id: colony_axelay
+    title: "Colony"
+    path: "Colony.brstm"
+    type: betting
+  - id: mother_axelay
+    title: "Mother"
+    path: "Mother.brstm"
+    type: betting

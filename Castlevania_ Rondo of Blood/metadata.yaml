@@ -1,0 +1,21 @@
+id: castlevania_rondo_of_blood
+title: "Castlevania: Rondo of Blood"
+series: castlevania
+platform: "PC Engine"
+year: 1993
+songs:
+  - id: bloody_tears_rondoblood
+    title: "Bloody Tears"
+    path: "Bloody Tears.brstm"
+    ends: 2:40
+    type: betting
+  - id: opposing_bloodlines
+    title: "Opposing Bloodlines"
+    path: "Opposing Bloodlines.brstm"
+    ends: 3:12
+    type: betting
+  - id: opus_13_rondoblood
+    title: "Opus 13"
+    path: "Opus 13.brstm"
+    ends: 2:26
+    type: betting

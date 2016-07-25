@@ -21,4 +21,12 @@ songs:
     title: "Deep Woods"
     path: "Deep Woods.brstm"
     type: betting
+  - id: great_megalith
+    title: "Great Megalith"
+    path: "Great Megalith.brstm"
+    type: betting
+  - id: shrouded_forest
+    title: "Shrouded Forest"
+    path: "Shrouded Forest.brstm"
+    type: warning
 ...

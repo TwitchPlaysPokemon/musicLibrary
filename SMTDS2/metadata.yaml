@@ -22,4 +22,12 @@ songs:
     path: "Will of the Species.brstm"
     ends: 3:36
     type: betting
+  - id: battle_of_the_brave_smtds2
+    title: "Battle of the Brave"
+    path: "Battle of the Brave.brstm"
+    type: betting
+  - id: septentrion_smtds2
+    title: "Septentrion"
+    path: "Septentrion.brstm"
+    type: betting
 ...

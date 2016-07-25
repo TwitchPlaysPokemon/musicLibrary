@@ -1,0 +1,16 @@
+id: wario_land_4
+title: "Wario Land 4"
+year: 2001
+series: wario
+platform: "GBA"
+songs:
+  - id: domino_row
+    title: "Domino Row"
+    path: "Domino Row.brstm"
+    ends: 2:44
+    type: betting
+  - id: hotel_horror
+    title: "Hotel Horror"
+    path: "Hotel Horror.brstm"
+    ends: 2:33
+    type: betting

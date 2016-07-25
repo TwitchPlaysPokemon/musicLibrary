@@ -1,0 +1,13 @@
+id: dengeki_bunko_fighting_climax
+title: "Dengeki Bunko: Fighting Climax"
+platform: ["Arcade", "PS4", "PS3", "Vita"]
+year: 2014
+songs:
+  - id: envoy_of_hope
+    title: "Envoy of Hope"
+    path: "Envoy of Hope.brstm"
+    type: betting
+  - id: seaside_b_field
+    title: "Seaside B-field"
+    path: "Seaside B-field.brstm"
+    type: battle

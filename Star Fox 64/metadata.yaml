@@ -13,4 +13,12 @@ songs:
     title: "Select"
     path: "03 - Select.miniusf"
     type: break
+  - id: star_wolf_fox64
+    title: "Star Wolf"
+    path: "Star Wolf.brstm"
+    type: warning
+  - id: boss_b_2_fox64
+    title: "Boss B 2"
+    path: "Boss B 2.brstm"
+    type: battle
 ...

@@ -1,0 +1,13 @@
+id: spongebob_battle_for_bikini_bottom
+title: "SpongeBob SquarePants: Battle for Bikini Bottom"
+year: 2003
+platform: ["PS2", "Xbox", "PC"]
+songs:
+  - id: big_fight_mini_boss_spongebob
+    title: "Big Fight / Mini-Boss"
+    path: "Mini-Boss.brstm"
+    type: betting
+  - id: bikini_bottom
+    title: "Bikini Bottom"
+    path: "Bikini Bottom.brstm"
+    type: break

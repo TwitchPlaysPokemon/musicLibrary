@@ -1,0 +1,17 @@
+id: castle_crashers
+title: "Castle Crashers"
+year: 2008
+platform: ["360", "PS3", "PC", "XOne"]
+songs:
+  - id: dark_skies_castle_crashers
+    title: "_-={Dark Skies}=-_"
+    path: "_-={Dark Skies}=-_.brstm"
+    type: warning
+  - id: rage_of_the_champions_castle_crashers
+    title: "_-={Rage of the Champions}=-_"
+    path: "_-={Rage of the Champions}=-_.brstm"
+    type: battle
+  - id: space_pirates_castle_crashers
+    title: "-Space pirates-"
+    path: "-Space pirates-.brstm"
+    type: betting

@@ -1,0 +1,14 @@
+id: mario_tennis_open
+title: "Mario Tennis Open"
+series: mario
+year: 2012
+platform: "3DS"
+songs:
+  - id: mario_stadium_tennis_open
+    title: "Mario Stadium"
+    path: "Mario Stadium.brstm"
+    type: betting
+  - id: peach_palace_tennis_open
+    title: "Peach's Palace"
+    path: "Peach's Palace.brstm"
+    type: betting

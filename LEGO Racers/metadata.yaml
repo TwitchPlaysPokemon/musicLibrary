@@ -1,0 +1,10 @@
+id: lego_racers
+title: "Lego Racers"
+series: lego
+platform: "N64"
+year: 2001
+songs:
+  - id: credits_legoracers
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result

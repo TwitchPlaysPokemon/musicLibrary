@@ -8,4 +8,24 @@ songs:
     title: "Song Of Healing Demo"
     path: "129 Song of Healing Demo.miniusf"
     type: break
+  - id: boss_battle_majora
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: giants_theme_majora
+    title: "Giants' Theme"
+    path: "Giants' Theme.brstm"
+    type: break
+  - id: stone_tower_temple_normal
+    title: "Stone Tower Temple (Normal)"
+    path: "Stone Tower Temple (Normal).brstm"
+    type: betting
+  - id: majora_demon_battle
+    title: "Majora's Demon Battle"
+    path: "Majora's Demon Battle.brstm"
+    type: warning
+  - id: the_end_of_the_world_majora
+    title: "The End Of The World"
+    path: "The End Of The World.brstm"
+    type: break
 ...

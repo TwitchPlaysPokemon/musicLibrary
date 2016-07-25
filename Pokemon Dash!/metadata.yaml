@@ -5,8 +5,12 @@ series: pokemon
 platform: "NDS"
 year: 2004
 songs:
-  - id: title_screen
+  - id: title_screen_dash
     title: "Title Screen"
     path: "Title Screen.brstm"
+    type: result
+  - id: ending_dash
+    title: "Ending"
+    path: "Ending.brstm"
     type: result
 ...

@@ -13,8 +13,20 @@ songs:
     path: "Flower Garden.spc"
     title: "Flower Garden"
     type: betting
-  - id: bowser
+  - id: bowser_smw2
     title: "Bowser"
     path: "123 Bowser.spc"
     type: warning
+  - id: room_before_boss_smw2
+    title: "Room Before Boss"
+    path: "Room Before Boss.spc"
+    type: warning
+  - id: big_boss_world_3_5
+    title: "Big Boss (Worlds 3 and 5)"
+    path: "Big Boss (Worlds 3 and 5).brstm"
+    type: warning
+  - id: fortress_boss_yoshi_island
+    title: "Fortress Boss"
+    path: "Fortress Boss.brstm"
+    type: betting
 ...

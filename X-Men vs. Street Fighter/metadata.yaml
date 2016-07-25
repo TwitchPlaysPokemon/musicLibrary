@@ -1,0 +1,13 @@
+id: xmen_vs_street_fighter
+platform: ["Arcade", "Saturn", "PS1"]
+title: "X-Men vs. Street Fighter"
+year: 1996
+songs: 
+  - id: cyclops_stage
+    path: "CYCLOPS STAGE.brstm"
+    title: "CYCLOPS STAGE"
+    type: betting
+  - id: gambit_xmen
+    path: "Gambit.brstm"
+    title: "Gambit"
+    type: result

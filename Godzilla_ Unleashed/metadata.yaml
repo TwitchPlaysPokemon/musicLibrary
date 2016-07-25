@@ -1,0 +1,9 @@
+id: godzilla_unleashed
+title: "Godzilla: Unleashed"
+year: 2007
+platform: ["PS2", "Wii"]
+songs:
+  - id: mecha_king_ghidorah
+    title: "Mecha-King Ghidorah"
+    path: "Mecha-King Ghidorah.brstm"
+    type: warning

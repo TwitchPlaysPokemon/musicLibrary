@@ -1,0 +1,10 @@
+id: chocobo_racing
+title: "Chocobo Racing"
+series: finalfantasy
+platform: ["PS1", "PSN"]
+year: 1999
+songs:
+  - id: illusion_world_chocoboracing
+    title: "Illusion World"
+    path: "Illusion World.brstm"
+    type: battle

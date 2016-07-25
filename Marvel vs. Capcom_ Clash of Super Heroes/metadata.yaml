@@ -17,4 +17,28 @@ songs:
     title: "Theme of Captain America"
     path: "Theme of Captain America.brstm"
     type: battle
+  - id: theme_of_strider_hiryu
+    title: "Theme of Strider Hiryu"
+    path: "Theme of Strider Hiryu.brstm"
+    type: battle
+  - id: theme_of_venom
+    title: "Theme of Venom"
+    path: "Theme of Venom.brstm"
+    type: warning
+  - id: theme_of_zangief
+    title: "Theme of Zangief"
+    path: "Theme of Zangief.brstm"
+    type: betting
+  - id: theme_of_jin
+    title: "Theme of Jin"
+    path: "Theme of Jin.brstm"
+    type: battle
+  - id: boss_introduction_mvc
+    title: "Boss Introduction"
+    path: "Boss Introduction.brstm"
+    type: warning
+  - id: ending_after_the_battle_mvc
+    title: "Ending ~After the Battle~"
+    path: "Ending ~After the Battle~.brstm"
+    type: warning
 ...

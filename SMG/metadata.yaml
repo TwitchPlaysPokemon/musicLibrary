@@ -53,4 +53,12 @@ songs:
     title: "Bowser Jr."
     path: "Bowser Jr.brstm"
     type: warning
+  - id: big_staircase_smg
+    title: "The Big Staircase."
+    path: "The Big Staircase.brstm"
+    type: warning
+  - id: king_bowser_main_smg
+    title: "King Bowser - Main"
+    path: "King Bowser - Main.brstm"
+    type: warning
 ...

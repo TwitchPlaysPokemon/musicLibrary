@@ -142,4 +142,12 @@ songs:
     title: "N's Castle Medley (Pokémon Black & White)"
     path: "N's Castle Medley (Pokemon Black & White).brstm"
     type: betting
+  - id: classic_results_ssbu
+    title: "Classic: Results"
+    path: "Classic - Results.brstm"
+    type: result
+  - id: battlefield_ssbu
+    title: "Battlefield"
+    path: "Battlefield.brstm"
+    type: betting
 ...

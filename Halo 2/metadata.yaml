@@ -1,0 +1,13 @@
+id: halo_2
+title: "Halo 2"
+platform: ["Xbox", "PC", "XOne"]
+year: 2004
+songs:
+  - id: unforgotten_halo2
+    title: "Unforgotten"
+    path: "Unforgotten.brstm"
+    type: break
+  - id: heave_price_paid
+    title: "Heavy Price Paid"
+    path: "Heavy Price Paid.brstm"
+    type: break

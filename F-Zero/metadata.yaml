@@ -16,3 +16,15 @@ songs:
     title: "Sand Ocean"
     path: "10 Sand Ocean.spc"
     type: betting
+  - id: big_blue_fzero
+    title: "Big Blue"
+    path: "Big Blue.brstm"
+    type: betting
+  - id: mute_city_fzero
+    title: "Mute City"
+    path: "Mute City.brstm"
+    type: betting
+  - id: red_canyon_fzero
+    title: "Red Canyon"
+    path: "Red Canyon.brstm"
+    type: warning

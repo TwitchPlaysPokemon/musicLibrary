@@ -45,4 +45,16 @@ songs:
     path: "Special Stage 2.adx"
     title: "Special Stage 2"
     type: battle
+  - id: ocean_palace_zone
+    path: "Ocean Palace Zone.adx"
+    title: "Ocean Palace Zone"
+    type: betting
+  - id: power_plant_zone
+    path: "Power Plant Zone.adx"
+    title: "Power Plant Zone"
+    type: betting
+  - id: rail_canyon_zone
+    path: "Rail Canyon Zone.adx"
+    title: "Rail Canyon Zone"
+    type: betting
 ...

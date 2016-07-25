@@ -7,3 +7,7 @@ songs:
     title: "Lesson from Yoshi"
     path: "104 Demo.spc"
     type: betting
+  - id: lava_stage_critical
+    title: "Lava Stage (Critical)"
+    path: "Lava Stage (Critical).brstm"
+    type: warning

@@ -1,0 +1,10 @@
+id: golden_axe_ii
+title: "Golden Axe II"
+series: goldenaxe
+year: 1992
+platform: "Genesis"
+songs:
+  - id: castle_gates_goldenaxe2
+    title: "Castle Gates"
+    path: "Castle Gates.vgz"
+    type: warning

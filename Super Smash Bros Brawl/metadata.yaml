@@ -205,4 +205,17 @@ songs:
     title: "Results Display Screen"
     path: "Results Display Screen.brstm"
     type: result
+  - id: final_boss_golden_sun
+    title: "Battle Scene / Final Boss (Golden Sun)"
+    path: "Final Boss (Golden Sun).brstm"
+    type: battle
+  - id: wii_shop_channel_brawl
+    title: "Wii Shop Channel"
+    path: "Wii Shop Channel.brstm"
+    type: betting
+  - id: snake_eater_instrumental
+    title: "Snake Eater (Instrumental)"
+    path: "Snake Eater (Instrumental).brstm"
+    ends: 2:47
+    type: betting
 ...

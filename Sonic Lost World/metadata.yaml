@@ -1,0 +1,10 @@
+id: sonic_lost_world
+title: "Sonic Lost World"
+series: sonic
+platform: ["Wii U", "3DS", "PC"]
+year: 2013
+songs: 
+  - id: dr_eggman_showdown_lostworld
+    title: "Dr. Eggman Showdown"
+    path: "Dr. Eggman Showdown.brstm"
+    type: battle

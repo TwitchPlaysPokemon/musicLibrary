@@ -37,4 +37,25 @@ songs:
     title: "Ganondorf Battle"
     path: "Ganondorf Battle.brstm"
     type: battle
+  - id: graaandma
+    title: "Graaandma"
+    path: "Graaandma.brstm"
+    type: break
+  - id: departure_pirate_ship_ww
+    title: "Departure / Pirate Ship"
+    path: "Pirate Ship.brstm"
+    ends: 2:44
+    type: betting
+  - id: windfall_isalnd
+    title: "Windfall Island"
+    path: "Windfall Island.brstm"
+    type: betting
+  - id: makar_is_missing
+    title: "Makar is Missing!"
+    path: "Makar is Missing!.brstm"
+    type: warning
+  - id: epilogue_ww
+    title: "Epilogue"
+    path: "Epilogue.brstm"
+    type: result
 ...

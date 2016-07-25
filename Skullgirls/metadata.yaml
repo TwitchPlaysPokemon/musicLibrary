@@ -1,0 +1,21 @@
+id: skullgirls
+title: "Skullgirls"
+platform: "Various"
+year: 2012
+songs:
+  - id: anti_skullgirls_labs
+    title: "Anti-Skullgirls Labs"
+    path: "Anti-Skullgirls Labs.brstm"
+    type: battle
+  - id: where_money_flows_like_water
+    title: "Where Money Flows Like Water (River King Casino Stage)"
+    path: "Where Money Flows Like Water (River King Casino Stage).brstm"
+    type: betting
+  - id: an_oasis_in_time
+    title: "An Oasis in Time (Bath of Tefnut Stage)"
+    path: "An Oasis in Time (Bath of Tefnut Stage).brstm"
+    type: betting
+  - id: an_oasis_of_blood
+    title: "An Oasis of Blood (Bath of Sekhmet Stage)"
+    path: "An Oasis of Blood (Bath of Sekhmet Stage).brstm"
+    type: warning

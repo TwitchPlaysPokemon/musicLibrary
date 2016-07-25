@@ -1,0 +1,9 @@
+id: romancing_saga
+title: "Romancing SaGa"
+year: 1992
+platform: ["SFC", "WonderSwan", "PS2"]
+songs:
+  - id: prelude_of_battle_saga
+    title: "Prelude of Battle"
+    path: "Prelude of Battle.brstm"
+    type: battle

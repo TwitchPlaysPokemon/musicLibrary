@@ -1,0 +1,13 @@
+id: rivals_of_aether
+title: "Rivals of Aether"
+year: 2015
+platform: "PC"
+songs:
+  - id: air_armada_roa
+    title: "Air Armada"
+    path: "Air Armada.brstm"
+    type: betting
+  - id: rock_wall_roa
+    title: "Rock Wall"
+    path: "Rock Wall.brstm"
+    type: result

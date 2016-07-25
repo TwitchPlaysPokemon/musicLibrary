@@ -1,0 +1,14 @@
+id: the_legend_of_zelda_a_link_to_the_past
+platform: "SNES"
+title: "The Legend of Zelda: A Link To The Past"
+series: zelda
+year: 1991
+songs: 
+  - id: agahnim
+    path: "Agahnim.brstm"
+    title: "Agahnim"
+    type: warning
+  - id: boss_alttp
+    path: "Boss.brstm"
+    title: "Boss"
+    type: warning

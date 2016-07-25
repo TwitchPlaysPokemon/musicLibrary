@@ -1,0 +1,13 @@
+id: skies_of_arcadia
+title: "Skies of Arcadia"
+platform: ["Dreamcast", "GC"]
+year: 2000
+songs:
+  - id: armada_battle_soa
+    title: "Armada Battle"
+    path: "Armada Battle.brstm"
+    type: battle
+  - id: vyse_theme
+    title: "Vyse's Theme"
+    path: "Vyse's Theme.brstm"
+    type: result
