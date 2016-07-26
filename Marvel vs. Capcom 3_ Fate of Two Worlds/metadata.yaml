@@ -25,4 +25,37 @@ songs:
     title: "Arthur's Theme"
     path: "Arthur's Theme.brstm"
     type: battle
+  - id: chris_redfields_theme_mvc3
+    title: "Chris Redfield's Theme"
+    path: "Chris Redfield's Theme.brstm"
+    type: battle
+  - id: daily_bugle_mvc3
+    title: "Daily Bugle"
+    path: "Daily Bugle.brstm"
+    type: battle
+  - id: galactus_theme
+    title: "Galactus's Theme"
+    path: "Galactus's Theme.brstm"
+    type: battle
+  - id: kattelox_island
+    title: "Kattelox Island"
+    path: "Kattelox Island.brstm"
+    type: result
+  - id: metro_city
+    title: "Metro City"
+    path: "Metro City.brstm"
+    type: betting
+  - id: thors_theme
+    title: "Thor's Theme"
+    path: "Thor's Theme.brstm"
+    type: betting
+  - id: ghost_riders_theme
+    title: "Ghost Rider's Theme"
+    path: "Ghost Rider's Theme.brstm"
+    type: battle
+  - id: hawkeyes_theme
+    title: "Hawkeye's Theme"
+    path: "Hawkeye's Theme.brstm"
+    ends: 2:50
+    type: betting
 ...

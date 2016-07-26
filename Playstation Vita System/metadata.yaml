@@ -1,0 +1,19 @@
+---
+id: playstation_vita_system
+title: "PlayStation Vita System"
+platform: "Vita"
+year: 2012
+songs: 
+  - id: playstation_20th_anniversary_theme
+    title: "PlayStation 20th Anniversary Theme"
+    path: "PlayStation 20th Anniversary Theme.brstm"
+    type: result
+  - id: default_theme
+    title: "Default Theme"
+    path: "Default Theme.brstm"
+    type: break
+  - id: stitching_theme
+    title: "Stitching Theme"
+    path: "Stitching Theme.brstm"
+    type: break
+...

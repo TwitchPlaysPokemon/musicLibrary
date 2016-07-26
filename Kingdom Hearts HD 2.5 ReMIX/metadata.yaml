@@ -41,4 +41,12 @@ songs:
     title: "Hazardous Highway"
     path: "Hazardous Highway.brstm"
     type: betting
+  - id: cavern_of_remembrance
+    title: "Cavern of Remembrance"
+    path: "Cavern of Remembrance.brstm"
+    type: betting
+  - id: rowdy_rumble
+    title: "Rowdy Rumble"
+    path: "Rowdy Rumble.brstm"
+    type: warning
 ...

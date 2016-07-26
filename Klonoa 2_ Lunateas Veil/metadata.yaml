@@ -5,7 +5,7 @@ series: klonoa
 year: 2001
 platform: "PS2"
 songs:
-  - id: polonte_ver._2
+  - id: polonte_ver_2
     title: "Polonte Ver. 2"
     path: "Polonte Ver. 2.brstm"
     type: betting
@@ -21,8 +21,36 @@ songs:
     title: "Seaway"
     path: "Seaway.brstm"
     type: betting
-  - id: ark_ver._1
+  - id: ark_ver_1
     title: "Ark Ver. 1"
     path: "Ark Ver. 1.brstm"
+    type: betting
+  - id: lolo
+    title: "Lolo!"
+    path: "Lolo!.brstm"
+    type: break
+  - id: leptio_the_flower_clown
+    title: "Leptio the Flower Clown"
+    path: "Leptio the Flower Clown.brstm"
+    type: warning
+  - id: berserker_biskarsh
+    title: "Berserker Biskarsh"
+    path: "Berserker Biskarsh.brstm"
+    type: warning
+  - id: polonte_ver_1
+    title: "Polonte Ver. 1"
+    path: "Polonte Ver. 1.brstm"
+    type: betting
+  - id: cursed_leorina
+    title: "Cursed Leorina"
+    path: "Cursed Leorina.brstm"
+    type: betting
+  - id: ark_ver_2
+    title: "Ark Ver. 2"
+    path: "Ark Ver. 2.brstm"
+    type: betting
+  - id: king_of_sorrows_theme
+    title: "King of Sorrow's Theme"
+    path: "King of Sorrow's Theme.brstm"
     type: betting
 ...

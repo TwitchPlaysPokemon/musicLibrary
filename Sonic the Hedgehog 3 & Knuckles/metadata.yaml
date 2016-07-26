@@ -1,0 +1,27 @@
+---
+id: sonic_the_hedgehog_3_and_knuckles
+title: "Sonic the Hedgehog 3 & Knuckles"
+platform: "Genesis"
+year: 1994
+songs: 
+  - id: invincibility_super_sonic
+    title: "Invincibility/Super Sonic"
+    path: "Invincibility.vgz"
+    type: warning
+  - id: theme_of_knuckles
+    title: "Theme of Knuckles"
+    path: "Knuckles' Theme.vgz"
+    type: warning
+  - id: flying_battery_zone_act_1
+    title: "Flying Battery Zone, Act 1"
+    path: "Flying Battery Zone Act 1.vgz"
+    type: betting
+  - id: sky_sanctuary_zone
+    title: "Sky Sanctuary Zone"
+    path: "Sky Sanctuary Zone.vgz"
+    type: betting
+  - id: death_egg_zone_act_1
+    title: "Death Egg Zone: Act 1"
+    path: "Death Egg Zone Act 1.vgz"
+    type: betting
+...

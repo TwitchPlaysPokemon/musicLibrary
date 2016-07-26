@@ -11,5 +11,16 @@ songs:
   - id: thermal_base_1
     title: "Thermal Base 1"
     path: "Thermal Base 1.brstm"
+    ends: 2:33
+    type: betting
+  - id: dragon_valley_1
+    title: "Dragon Valley 1"
+    path: "Dragon Valley 1.brstm"
+    ends: 3:00
+    type: betting
+  - id: freedom_planet_theme
+    title: "Freedom Planet Theme"
+    path: "Freedom Planet Theme.brstm"
+    ends: 3:30
     type: betting
 ...

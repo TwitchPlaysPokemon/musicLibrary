@@ -81,4 +81,20 @@ songs:
     title: "Gigabyte Mantis"
     path: "Gigabyte Mantis.brstm"
     type: betting
+  - id: storm_diver
+    title: "Storm Diver"
+    path: "Storm Diver.brstm"
+    type: betting
+  - id: access_the_grid
+    title: "Access the Grid"
+    path: "Access the Grid.brstm"
+    type: betting
+  - id: rinzler_recompiled
+    title: "Rinzler Recompiled"
+    path: "Rinzler Recompiled.brstm"
+    type: warning
+  - id: xigbar
+    title: "Xigbar"
+    path: "Xigbar.brstm"
+    type: warning
 ...

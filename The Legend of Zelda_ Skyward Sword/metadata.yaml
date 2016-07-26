@@ -1,3 +1,4 @@
+---
 id: the_legend_of_zelda_skyward_sword
 title: "The Legend of Zelda: Skyward Sword"
 series: zelda
@@ -20,3 +21,12 @@ songs:
     title: "Groose's Theme"
     path: "Groose's Theme.brstm"
     type: warning
+  - id: the_sky
+    title: "The Sky"
+    path: "The Sky.brstm"
+    type: betting
+  - id: guardians_awaken
+    title: "Guardians Awaken"
+    path: "Guardians Awaken.brstm"
+    type: warning
+...

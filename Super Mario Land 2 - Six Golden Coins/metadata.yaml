@@ -13,4 +13,8 @@ songs:
     path: "Haunted House.brstm"
     title: "Haunted House"
     type: break
+  - id: outside_warios_castle
+    title: "Outside Wario's Castle"
+    path: "Outside Wario's Castle.brstm"
+    type: warning
 ...

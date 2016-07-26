@@ -28,4 +28,20 @@ songs:
     title: "Photo Booth"
     path: "Photo Booth.brstm"
     type: betting
+  - id: wedding
+    title: "Wedding"
+    path: "Wedding.brstm"
+    type: result
+  - id: map_night
+    title: "Map - Night"
+    path: "Map - Night.brstm"
+    type: break
+  - id: rankings_board_vitality_ranking
+    title: "Rankings Board - Vitality Ranking"
+    path: "Rankings Board - Vitality Ranking.brstm"
+    type: warning
+  - id: friendship_furious
+    title: "Friendship - Furious"
+    path: "Friendship - Furious.brstm"
+    type: warning
 ...

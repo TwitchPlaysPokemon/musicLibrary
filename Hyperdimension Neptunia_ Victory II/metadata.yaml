@@ -1,0 +1,23 @@
+---
+id: hyperdimension_neptunia_victory_ii
+title: "Hyperdimension Neptunia: Victory II"
+platform: "PS4+PC"
+year: 2015
+songs: 
+  - id: absolute
+    title: "Absolute"
+    path: "NepnepAbsolute.brstm"
+    type: battle
+  - id: fate_hyperdimension_neptunia
+    title: "Fate"
+    path: "NepnepFate.brstm"
+    type: warning
+  - id: the_colosseum
+    title: "The Colosseum"
+    path: "NepnepThe_Colosseum.brstm"
+    type: betting
+  - id: illuminati
+    title: "ILLUMINATI"
+    path: "NepnepILLUMINATI.brstm"
+    type: warning
+...

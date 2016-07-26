@@ -1,0 +1,15 @@
+---
+id: league_of_legends
+title: "League of Legends"
+platform: "PC"
+year: 2009
+songs: 
+  - id: ranked_game_champion_select
+    title: "Ranked Game Champion Select"
+    path: "Ranked_Game_Champion_Select.brstm"
+    type: betting
+  - id: omega_squad_teemo_theme
+    title: "Omega Squad Teemo Theme"
+    path: "Omega_Squad_Teemo.brstm"
+    type: warning
+...

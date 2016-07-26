@@ -24,4 +24,8 @@ songs:
     title: "Final Battle"
     path: "Final Battle.brstm"
     type: warning
+  - id: opponent_list
+    title: "Opponent list"
+    path: "Opponent list.brstm"
+    type: warning
 ...

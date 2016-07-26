@@ -29,4 +29,16 @@ songs:
     title: "Thwomp Volcano"
     path: "Thwomp Volcano.mini2sf"
     type: betting
+  - id: listen_up_now
+    title: "Listen Up, Now"
+    path: "Listen Up, Now - Tutorial.mini2sf"
+    type: betting
+  - id: princess_shroob_battle
+    title: "Princess Shroob Battle"
+    path: "Princess Shroob Battle.mini2sf"
+    type: warning
+  - id: file_select_mlpit
+    title: "File Select"
+    path: "File Select.mini2sf"
+    type: break
 ...

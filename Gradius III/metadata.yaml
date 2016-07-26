@@ -1,0 +1,43 @@
+---
+id: gradius_iii
+title: "Gradius III"
+platform: "Arcade+SNES"
+year: 1989
+songs: 
+  - id: departure_for_space
+    title: "Departure for Space"
+    path: "04 Departure for Space.spc"
+    type: betting
+  - id: invitation
+    title: "Invitation"
+    path: "03 Invitation.spc"
+    type: betting
+  - id: underground_gradius3
+    title: "Underground"
+    path: "09 Underground.spc"
+    type: warning
+  - id: fire_scramble
+    title: "Fire Scramble"
+    path: "11 Fire Scramble.spc"
+    type: battle
+  - id: sharp_shoot
+    title: "Sharp Shoot"
+    path: "12 Sharp Shoot.spc"
+    type: warning
+  - id: cosmo_plant
+    title: "Cosmo Plant"
+    path: "13 Cosmo Plant.spc"
+    type: betting
+  - id: mechanical_base
+    title: "Mechanical Base"
+    path: "22 Mechanical Base.spc"
+    type: betting
+  - id: final_shot
+    title: "Final Shot"
+    path: "23 Final Shot.spc"
+    type: warning
+  - id: dead_end_cell
+    title: "Dead End Cell"
+    path: "24 Dead End Cell.spc"
+    type: betting
+...

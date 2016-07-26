@@ -49,4 +49,24 @@ songs:
     title: "Let's Go Down the Wine River"
     path: "Let's Go Down the Wine River.spc"
     type: result
+  - id: docaty_mountain_railroad
+    title: "Docaty Mountain Railroad"
+    path: "Docaty Mountain Railroad.spc"
+    type: warning
+  - id: geno_awakens
+    title: "Geno Awakens"
+    path: "Geno Awakens.spc"
+    type: result
+  - id: going_shopping_in_seaside_town
+    title: "Going Shopping in Seaside Town"
+    path: "Going Shopping in Seaside Town.spc"
+    type: betting
+  - id: lets_play_geno
+    title: "Let's Play, Geno"
+    path: "Let's Play _Geno_.spc"
+    type: result
+  - id: rose_town
+    title: "Rose Town"
+    path: "Rose Town.spc"
+    type: betting
 ...

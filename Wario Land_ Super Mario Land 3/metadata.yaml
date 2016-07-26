@@ -1,0 +1,27 @@
+---
+id: wario_land_super_mario_land_3 
+title: "Wario Land: Super Mario Land 3 "
+platform: "GB"
+year: 1994
+songs: 
+  - id: train_stage
+    title: "Train Stage"
+    path: "Train Stage.brstm"
+    type: warning
+  - id: water_stages
+    title: "Water Stages"
+    path: "Water Stages.brstm"
+    type: break
+  - id: flame_stages
+    title: "Flame Stages"
+    path: "Flame Stages.brstm"
+    type: warning
+  - id: ending_wario_land
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+  - id: course_results
+    title: "Course Results"
+    path: "Course Results.brstm"
+    type: result
+...

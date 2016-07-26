@@ -9,4 +9,12 @@ songs:
     title: "Stonecarving City"
     path: "Stonecarving City.brstm"
     type: betting
+  - id: vs_the_shake_king
+    title: "Vs. The Shake King"
+    path: "Vs. The Shake King.brstm"
+    type: battle
+  - id: aboard_the_sweet_stuff
+    title: "Aboard the Sweet Stuff"
+    path: "Aboard the Sweet Stuff.brstm"
+    type: result
 ...

@@ -109,4 +109,12 @@ songs:
     title: "Boss - Solaris Phase 2"
     path: "Boss - Solaris Phase 2.brstm"
     type: battle
+  - id: town_mission
+    title: "Town Mission"
+    path: "Town_Mission.brstm"
+    type: break
+  - id: extras
+    title: "Extras"
+    path: "Extras.brstm"
+    type: break
 ...

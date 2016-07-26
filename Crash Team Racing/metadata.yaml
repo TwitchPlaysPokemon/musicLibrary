@@ -1,0 +1,83 @@
+---
+id: crash_team_racing
+title: "Crash Team Racing"
+platform: "PS1"
+year: 1999
+songs: 
+  - id: menu_ctr
+    title: "Menu"
+    path: "Menu.brstm"
+    type: betting
+  - id: n_sanity_beach_map
+    title: "N. Sanity Beach Map"
+    path: "N. Sanity Beach Map.brstm"
+    type: betting
+  - id: crash_cove
+    title: "Crash Cove"
+    path: "Crash Cove.brstm"
+    type: betting
+  - id: roos_tubes
+    title: "Roo's Tubes"
+    path: "Roo's Tubes.brstm"
+    type: betting
+  - id: mystery_caves
+    title: "Mystery Caves"
+    path: "Mystery Caves.brstm"
+    type: betting
+  - id: sewer_speedway
+    title: "Sewer Speedway"
+    path: "Sewer Speedway.brstm"
+    type: betting
+  - id: lost_ruins_map
+    title: "Lost Ruins Map"
+    path: "Lost Ruins Map.brstm"
+    type: betting
+  - id: tiger_temple
+    title: "Tiger Temple"
+    path: "Tiger Temple.brstm"
+    type: betting
+  - id: coco_park
+    title: "Coco Park"
+    path: "Coco Park.brstm"
+    type: betting
+  - id: papus_pyramid
+    title: "Papu's Pyramid"
+    path: "Papu's Pyramid.brstm"
+    type: betting
+  - id: dingo_canyon
+    title: "Dingo Canyon"
+    path: "Dingo Canyon.brstm"
+    type: betting
+  - id: glacier_park_map
+    title: "Glacier Park Map"
+    path: "Glacier Park Map.brstm"
+    type: betting
+  - id: blizzard_bluff
+    title: "Blizzard Bluff"
+    path: "Blizzard Bluff.brstm"
+    type: betting
+  - id: dragon_mines
+    title: "Dragon Mines"
+    path: "Dragon Mines.brstm"
+    type: betting
+  - id: tiny_arena
+    title: "Tiny Arena"
+    path: "Tiny Arena.brstm"
+    type: betting
+  - id: citadel_city_map
+    title: "Citadel City Map"
+    path: "Citadel City Map.brstm"
+    type: betting
+  - id: n_gin_labs
+    title: "N.Gin Labs"
+    path: "N.Gin Labs.brstm"
+    type: betting
+  - id: gem_stone_valley_map
+    title: "Gem Stone Valley Map"
+    path: "Gem Stone Valley Map.brstm"
+    type: betting
+  - id: boss_challenge
+    title: "Boss Challenge"
+    path: "Boss Challenge.brstm"
+    type: betting
+...

@@ -24,7 +24,7 @@ songs:
   - id: exdeaths_castle
     title: "Exdeath's Castle"
     path: "Exdeath's Castle.brstm"
-    type: warning
+    type: betting
   - id: mambo_de_chocobo
     title: "Mambo de Chocobo!"
     path: "Mambo de Chocobo!.brstm"
@@ -37,4 +37,8 @@ songs:
     title: "Evil Lord Exdeath"
     path: "134 The Evil Lord Exdeath.spc"
     type: warning
+  - id: unknown_lands
+    title: "Unknown Lands"
+    path: "Unknown Lands.brstm"
+    type: betting
 ...

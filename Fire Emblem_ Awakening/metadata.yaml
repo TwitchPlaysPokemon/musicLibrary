@@ -26,4 +26,8 @@ songs:
     title: "Duty (Ablaze)"
     path: "Duty (Ablaze).brstm"
     type: betting
+  - id: mastermind
+    title: "Mastermind"
+    path: "Mastermind.brstm"
+    type: warning
 ...

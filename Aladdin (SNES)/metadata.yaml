@@ -1,0 +1,15 @@
+---
+id: aladdin_snes
+title: "Aladdin (SNES)"
+platform: "SNES"
+year: 1993
+songs: 
+  - id: friend_like_me
+    title: "Friend Like Me"
+    path: "Friend Like Me.brstm"
+    type: betting
+  - id: storming_jafars_palace
+    title: "Storming Jafar's Palace"
+    path: "Storming Jafar's Palace.spc"
+    type: warning
+...

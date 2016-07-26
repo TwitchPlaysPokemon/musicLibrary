@@ -19,3 +19,7 @@ songs:
     title: "Springleaf Field"
     path: "Springleaf Field.brstm"
     type: break
+  - id: name_entry_pokemon_channel
+    title: "Name Entry"
+    path: "Name Entry.brstm"
+    type: result

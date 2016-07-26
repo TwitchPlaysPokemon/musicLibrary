@@ -20,4 +20,20 @@ songs:
     path: "BOX 15.brstm"
     title: "BOX 15"
     type: betting
+  - id: beautiful_morning
+    title: "Beautiful Morning"
+    path: "Danganronpa_Trigger_Happy_Havoc-Beautiful_Morning.brstm"
+    type: break
+  - id: new_world_order
+    title: "New World Order"
+    path: "Danganronpa_Trigger_Happy_Havoc-New_World_Order.brstm"
+    type: warning
+  - id: buzzkill
+    title: "Buzzkill"
+    path: "Danganronpa_Trigger_Happy_Havoc-Buzzkill.brstm"
+    type: warning
+  - id: discussion_heat_up
+    title: "Discussion HEAT UP"
+    path: "Danganronpa_Trigger_Happy_Havoc-Discussion_HEAT_UP.brstm"
+    type: warning
 ...

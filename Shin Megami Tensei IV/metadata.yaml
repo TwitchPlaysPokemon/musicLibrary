@@ -29,4 +29,20 @@ songs:
     title: "Challenge Quest B"
     path: "Challenge Quest B.brstm"
     type: betting
+  - id: challenge_quest_a
+    title: "Challenge Quest A"
+    path: "SMT_IV-Challenge_Quest_A.brstm"
+    type: betting
+  - id: merkabah
+    title: "Merkabah"
+    path: "SMT_IV-Merkabah_1.brstm"
+    type: betting
+  - id: lucifer_palace
+    title: "Lucifer Palace"
+    path: "SMT_IV-Lucifer_Palace.brstm"
+    type: betting
+  - id: battle_a3
+    title: "Battle A3"
+    path: "SMT_IV-Battle_A3.brstm"
+    type: battle
 ...

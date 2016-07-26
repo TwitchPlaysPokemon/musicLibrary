@@ -7,3 +7,12 @@ songs:
     title: "Sparkle"
     path: "Sparkle.brstm"
     type: betting
+  - id: showtime_ndsi
+    title: "Showtime"
+    path: "Showtime.brstm"
+    type: betting
+  - id: memories_ndsi
+    title: "Memories"
+    path: "Memories.brstm"
+    ends: 2:30
+    type: break

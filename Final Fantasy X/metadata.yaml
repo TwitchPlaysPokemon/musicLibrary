@@ -21,4 +21,24 @@ songs:
     path: "A Fleeting Dream.brstm"
     title: "A Fleeting Dream"
     type: betting
+  - id: challenge
+    title: "Challenge"
+    path: "Final_Fantasy_X-Challenge.brstm"
+    type: warning
+  - id: at_the_end_of_the_abyss_beyond_darkness
+    title: "At the End of the Abyss / Beyond Darkness"
+    path: "At the End of the Abyss - Beyond Darkness.brstm"
+    type: betting
+  - id: assault_ffx
+    title: "Assault"
+    path: "Assault.brstm"
+    type: warning
+  - id: blitz_off
+    title: "Blitz Off"
+    path: "Blitz Off.brstm"
+    type: betting
+  - id: thunder_plains
+    title: "Thunder Plains"
+    path: "Thunder Plains.brstm"
+    type: break
 ...

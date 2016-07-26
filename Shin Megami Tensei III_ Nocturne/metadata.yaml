@@ -49,4 +49,20 @@ songs:
     title: "Last Boss Battle Before Transformation"
     path: "Last Boss Battle Before Transformation.brstm"
     type: betting
+  - id: cathedral_of_shadows_bright
+    title: "Cathedral of Shadows Bright"
+    path: "SMT Nocturne - Cathedral of Shadows Bright.brstm"
+    type: warning
+  - id: demon_staff_roll
+    title: "Demon Staff Roll"
+    path: "SMT Nocturne - Demon Staff Roll.brstm"
+    type: result
+  - id: boss_appearance
+    title: "Boss Appearance"
+    path: "SMT Nocturne - Boss Appearance.brstm"
+    type: warning
+  - id: reason_boss_battle
+    title: "Reason Boss Battle"
+    path: "SMT Nocturne - Reason Boss Battle.brstm"
+    type: warning
 ...

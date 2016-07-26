@@ -142,4 +142,12 @@ songs:
     title: "Monster House!"
     path: "Monster House!.brstm"
     type: warning
+  - id: battle_against_dusknoir
+    title: "Battle Against Dusknoir"
+    path: "Battle Against Dusknoir.brstm"
+    type: warning
+  - id: time_restored
+    title: "Time Restored"
+    path: "Time Restored.brstm"
+    type: break
 ...
