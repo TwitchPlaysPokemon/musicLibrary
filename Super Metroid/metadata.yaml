@@ -9,6 +9,14 @@ songs:
     path: "Brinstar - Plant Overgrowth Area.spc"
     title: "Brinstar (Plant Overgrowth)"
     type: betting
+  - id: big_boss_confrontation_kraid_crocomire_phantoon
+    title: "Big Boss Confrontation (Kraid, Crocomire, Phantoon)"
+    path: "15 Big Boss Confrontation 2.spc"
+    type: warning
+  - id: big_boss_confrontation_ridley_draygon
+    title: "Big Boss Confrontation (Ridley, Draygon)"
+    path: "14 Big Boss Confrontation 1.spc"
+    type: warning
   - id: mother_brain_super_metroid
     title: "Mother Brain"
     path: "21 Mother Brain.spc"
