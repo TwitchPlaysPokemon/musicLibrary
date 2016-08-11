@@ -413,4 +413,76 @@ songs:
     title: "Pokéwalker"
     path: "271 Pokewalker.mini2sf"
     type: betting
+  - id: ethan_hgss
+    title: "Ethan's Theme"
+    path: "Ethan.brstm"
+    type: betting
+  - id: eusine_hgss
+    title: "Eusine's Theme"
+    path: "Eusine.brstm"
+    type: warning
+  - id: friendly_shop_gb_sounds
+    title: "Friendly Shop (GB Sounds)"
+    path: "Friendly Shop (GB Sounds).brstm"
+    type: betting
+  - id: sinjoh_ruins_hgss
+    title: "Sinjoh Ruins"
+    path: "Sinjoh Ruins.brstm"
+    type: betting
+  - id: the_dance_of_ecruteak_hgss
+    title: "The Dance of Ecruteak"
+    path: "The Dance of Ecruteak.brstm"
+    type: warning
+  - id: wifi_plaza_minigames_hgss
+    title: "Wi-Fi Plaza Minigames!"
+    path: "Wi-Fi Plaza Minigames!.brstm"
+    type: result
+  - id: wifi_plaza_parade_hgss
+    title: "Wi-Fi Plaza Parade"
+    path: "Wi-Fi Plaza Parade.brstm"
+    type: betting
+  - id: wifi_plaza_hgss
+    title: "Wi-Fi Plaza"
+    path: "Wi-Fi Plaza.brstm"
+    type: betting
+  - id: radio_poke_flute_hgss
+    title: "Radio Poké Flute"
+    path: "Radio Poke Flute.brstm"
+    type: break
+  - id: radio_pokemon_lullaby_hgss
+    title: "Radio Pokémon Lullaby"
+    path: "Radio Pokemon Lullaby.brstm"
+    type: break
+  - id: radio_pokemon_march_hgss
+    title: "Radio Pokémon March"
+    path: "Radio Pokemon March.brstm"
+    type: betting
+  - id: radio_variety_channel_hgss
+    title: "Radio Variety Channel"
+    path: "Radio Variety Channel.brstm"
+    type: break
+  - id: ruins_of_alph_hgss
+    title: "Ruins of Alph"
+    path: "Ruins of Alph.brstm"
+    type: warning
+  - id: ss_aqua_hgss
+    title: "S.S. Aqua"
+    path: "S.S. Aqua.brstm"
+    type: betting
+  - id: safari_zone_gate_hgss
+    title: "Safari Zone Gate"
+    path: "Safari Zone Gate.brstm"
+    type: betting
+  - id: spiky_eared_pichu_hgss
+    title: "Spiky-Eared Pichu Encounter!"
+    path: "Spiky-Eared Pichu Encounter!.brstm"
+    type: warning
+  - id: sprout_tower_hgss
+    title: "Sprout Tower"
+    path: "Sprout Tower.brstm"
+    type: betting
+  - id: vermilion_city_hgss
+    title: "Vermilion City"
+    path: "Vermilion City.brstm"
+    type: break
 ...

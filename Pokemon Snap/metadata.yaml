@@ -1,0 +1,42 @@
+id: pokemon_snap
+title: "Pokémon Snap"
+series: pokemon
+year: 1999
+platform: "N64"
+songs:
+  - id: pokemon_report
+    title: "Pokémon Report"
+    path: "Pokemon Report.brstm"
+    type: result
+  - id: prof_oak_lab_snap
+    title: "Prof. Oak's Lab"
+    path: "Prof. Oak's Lab.brstm"
+    type: betting
+  - id: rainbow_snap
+    title: "Rainbow"
+    path: "Rainbow.brstm"
+    type: betting
+  - id: prof_oak_check
+    title: "Prof. Oak's Check"
+    path: "Prof. Oak's Check.brstm"
+    type: warning
+  - id: tunnel_power_acticated
+    title: "Tunnel - Power Activated"
+    path: "Tunnel - Power Activated.brstm"
+    type: warning
+  - id: valley_snap
+    title: "Valley"
+    path: "Valley.brstm"
+    type: betting
+  - id: volcano_snap
+    title: "Volcano"
+    path: "Volcano.brstm"
+    type: betting
+  - id: river_snap
+    title: "River"
+    path: "River.brstm"
+    type: break
+  - id: beach_snap
+    title: "Beach"
+    path: "Beach.brstm"
+    type: betting

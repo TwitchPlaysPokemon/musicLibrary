@@ -28,4 +28,12 @@ songs:
     title: "The End Of The World"
     path: "The End Of The World.brstm"
     type: break
+  - id: jabu_curse
+    title: "Jabu's Curse"
+    path: "Jabu's Curse.brstm"
+    type: warning
+  - id: milk_bar
+    title: "Milk Bar"
+    path: "Milk Bar.brstm"
+    type: result
 ...

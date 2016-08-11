@@ -53,6 +53,26 @@ songs:
     title: "Course Clear (Band)"
     path: "132 Course Clear (Band).spc"
     type: result
+  - id: meteor_starfox1
+    title: "Meteor"
+    path: "Meteor.spc"
+    type: betting
+  - id: fortuna_starfox1
+    title: "Fortuna"
+    path: "Fortuna.spc"
+    type: betting
+  - id: slot_machine_boss_starfox1
+    title: "Slot Machine Boss"
+    path: "Slot Machine Boss.brstm"
+    type: betting
+  - id: boss_corneria_planet_battle
+    title: "Boss (Corneria, Planet Battle)"
+    path: "Boss (Corneria, Planet Battle, no intro).brstm"
+    type: warning
+  - id: sector_x_and_sector_z
+    title: "Sector X & Sector Z"
+    path: "Sector X & Sector Z.spc"
+    type: warning
 #  - id: star_fox_2
 #    title: "Star Fox 2"
 #    series: starfox

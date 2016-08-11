@@ -69,4 +69,32 @@ songs:
     title: "Rose Town"
     path: "Rose Town.spc"
     type: betting
+  - id: fight_against_culex
+    title: "Fight Against Culex"
+    path: "Fight Against Culex.spc"
+    type: battle
+  - id: victory_smrpg
+    title: "Victory!!"
+    path: "Victory!!.spc"
+    type: result
+  - id: welcome_yoster_island
+    title: "Welcome! Yo'ster Island!!"
+    path: "Welcome! Yo'ster Island!!.spc"
+    type: betting
+  - id: goodbye_geno
+    title: "Goodbye Geno"
+    path: "Goodbye Geno.spc"
+    type: result
+  - id: the_axem_rangers_drop_in
+    title: "The Axem Rangers Drop in"
+    path: "The Axem Rangers Drop in.spc"
+    type: warning
+  - id: fight_against_bowser_smrpg
+    title: "Fight Against Bowser"
+    path: "Fight Against Bowser.spc"
+    type: warning
+  - id: fight_against_smithy_who_likes_transforming
+    title: "Fight Against Smithy, Who Likes Transforming"
+    path: "Fight Against Smithy, Who Likes Transforming.spc"
+    type: battle
 ...

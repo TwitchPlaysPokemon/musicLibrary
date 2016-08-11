@@ -218,4 +218,37 @@ songs:
     path: "Snake Eater (Instrumental).brstm"
     ends: 2:47
     type: betting
+  - id: balloon_trip_brawl
+    title: "Balloon Trip"
+    path: "Balloon Trip.brstm"
+    type: betting
+  - id: brinstar_depths_melee
+    title: "Brinstar Depths (Melee)"
+    path: "Brinstar Depths (Melee).brstm"
+    type: betting
+  - id: pictochat_brawl
+    title: "PictoChat"
+    path: "PictoChat.brstm"
+    type: betting
+  - id: theme_of_samus_aran_space_warrior
+    title: "Theme of Samus Aran, Space Warrior"
+    path: "Theme of Samus Aran, Space Warrior.brstm"
+    type: betting
+  - id: menu_metroid_prime
+    title: "Menu (Metroid Prime)"
+    path: "Menu (Metroid Prime).brstm"
+    type: betting
+  - id: mgs4_theme_of_love
+    title: "MGS4 ~Theme of Love~ Smash Bros. Brawl Version"
+    path: "MGS4 ~Theme of Love~ Smash Bros. Brawl Version.brstm"
+    ends: 2:01
+    type: betting
+  - id: adventure_map_brawl
+    title: "Adventure Map"
+    path: "Adventure Map.brstm"
+    type: warning
+  - id: all_star_rest_area_brawl
+    title: "All-Star Rest Area"
+    path: "All-Star Rest Area.brstm"
+    type: result
 ...

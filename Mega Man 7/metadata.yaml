@@ -32,4 +32,24 @@ songs:
     title: "Ghouls 'N Ghosts"
     path: "94 The Haunted Graveyard.spc"
     type: battle
+  - id: clound_man_stage
+    title: "Cloud Man Stage - Weather Research"
+    path: "Cloudman.spc"
+    type: betting
+  - id: freeze_man_stage
+    title: "Freeze Man Stage - Iceberg Area"
+    path: "Freezeman.spc"
+    type: betting
+  - id: spring_man_stage
+    title: "Spring Man Stage - Boyoyon Paradise"
+    path: "Springman.spc"
+    type: betting
+  - id: wily_stage_1_entrance_mm7
+    title: "Wily Stage 1 - Entrance"
+    path: "Wily Stage 1 - Entrance.brstm"
+    type: betting
+  - id: wily_stage_3_walk_the_invisible
+    title: "Wily Stage 3 - Walk the Invisible"
+    path: "Wily Stage 3 - Walk the Invisible.brstm"
+    type: betting
 ...

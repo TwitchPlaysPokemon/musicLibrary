@@ -108,4 +108,12 @@ songs:
     title: "WizPig Race"
     path: "46 - WizPig Race.miniusf"
     type: warning
+  - id: haunted_woods_diddykong
+    title: "Haunted Woods"
+    path: "Haunted Woods.brstm"
+    type: betting
+  - id: darkmoon_caverns_credits
+    title: "Darkmoon Caverns/Credits"
+    path: "Darkmoon Caverns - Credits.brstm"
+    type: betting
 ...

@@ -1,0 +1,30 @@
+id: sonic_the_hedgehog_8_bit
+title: "Sonic the Hedgehog (8-bit)"
+series: sonic
+year: 1991
+platform: ["Master System", "Game Gear"]
+songs:
+  - id: bridge_zone
+    title: "Bridge Zone"
+    path: "Bridge Zone.brstm"
+    type: betting
+  - id: boss_theme_8bit_sonic
+    title: "Boss Theme"
+    path: "Boss Theme.brstm"
+    type: warning
+  - id: scrap_brain_zone_8bit_sonic
+    title: "Scrap Brain Zone"
+    path: "Scrap Brain Zone.brstm"
+    type: warning
+  - id: sky_base_zone_8bit_sonic
+    title: "Sky Base Zone"
+    path: "Sky Base Zone.brstm"
+    type: warning
+  - id: jungle_zone_8bit_sonic
+    title: "Jungle Zone"
+    path: "Jungle Zone.brstm"
+    type: result
+  - id: ending_8bit_sonic
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result

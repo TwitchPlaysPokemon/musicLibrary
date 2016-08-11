@@ -1,0 +1,37 @@
+id: space_harrier_32z
+title: "Space Harrier (32x)"
+year: 1994
+platform: "32X"
+songs:
+  - id: battle_field_space_harrier_32x
+    title: "Battle Field"
+    path: "Battle Field.brstm"
+    type: betting
+  - id: godarni_32x
+    title: "Godarni"
+    path: "Godarni.brstm"
+    type: warning
+  - id: ida_32x
+    title: "Ida"
+    path: "Ida.brstm"
+    type: warning
+  - id: squilla_32x
+    title: "Squilla"
+    path: "Squilla.brstm"
+    type: warning
+  - id: valda_32x
+    title: "Valda"
+    path: "Valda.brstm"
+    type: warning
+  - id: stanrey_32x
+    title: "Stanrey"
+    path: "Stanrey.brstm"
+    type: warning
+  - id: syura_32x
+    title: "Syura"
+    path: "Syura.brstm"
+    type: warning
+  - id: main_theme_space_harrier_32x
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: result

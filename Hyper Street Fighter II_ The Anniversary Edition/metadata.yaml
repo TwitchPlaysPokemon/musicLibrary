@@ -1,0 +1,90 @@
+id: hyper_street_fighter_ii
+title: "Hyper Street Fighter II: The Anniversary Edition"
+series: streetfighter
+platform: ["PS2", "Arcade", "Xbox"]
+year: 2003
+songs:
+  - id: e_honda_ending_cps1
+    title: "E. Honda's Ending"
+    path: "E. Honda's Ending [CPS1].brstm"
+    type: result
+  - id: bonus_stage_cps1
+    title: "Bonus Stage"
+    path: "Bonus Stage [CPS1].brstm"
+    type: warning
+  - id: e_honda_theme_near_ko_cps1
+    title: "E. Honda's Theme (Near K.O.)"
+    path: "E. Honda's Theme (Near K.O.) [CPS1].brstm"
+    type: warning
+  - id: cammy_theme_cps2
+    title: "Cammy's Theme"
+    path: "Cammy's Theme [CPS2].brstm"
+    type: battle
+  - id: m_bison_theme_cps2
+    title: "M. Bison's Theme"
+    path: "M. Bison's Theme [CPS2].brstm"
+    type: betting
+  - id: zangief_theme_cps2
+    title: "Zangief's Theme"
+    path: "Zangief's Theme [CPS2].brstm"
+    type: betting
+  - id: sagat_ending_cps2
+    title: "Sagat's Ending"
+    path: "Sagat's Ending [CPS2].brstm"
+    type: warning
+  - id: dhlasim_theme_cps2
+    title: "Dhalsim's Theme"
+    path: "Dhalsim's Theme [CPS2].brstm"
+    type: betting
+  - id: akuma_theme_cps2
+    title: "Akuma's Theme"
+    path: "Akuma's Theme [CPS2].brstm"
+    type: warning
+  - id: cammy_theme_near_ko_cps2
+    title: "Cammy's Theme (Near K.O.)"
+    path: "Cammy's Theme (Near K.O.) [CPS2].brstm"
+    type: warning
+  - id: fei_long_theme_cps2
+    title: "Fei Long's Theme"
+    path: "Fei Long's Theme [CPS2].brstm"
+    type: warning
+  - id: ken_theme_near_ko_cps2
+    title: "Ken's Theme (Near K.O.)"
+    path: "Ken's Theme (Near K.O.) [CPS2].brstm"
+    type: warning
+  - id: m_bison_ending_cps2
+    title: "M. Bison's Ending"
+    path: "M. Bison's Ending [CPS2].brstm"
+    type: warning
+  - id: m_bison_theme_near_ko_cps2
+    title: "M. Bison's Theme (Near K.O.)"
+    path: "M. Bison's Theme (Near K.O.) [CPS2].brstm"
+    type: warning
+  - id: zangief_ending_cps2
+    title: "Zangief's Ending"
+    path: "Zangief's Ending [CPS2].brstm"
+    type: warning
+  - id: sagat_theme_arrange
+    title: "Sagat's Theme [Arrange]"
+    path: "Sagat's Theme [Arrange].brstm"
+    type: betting
+  - id: blanka_ending_arrange
+    title: "Blanka's Ending [Arrange]"
+    path: "Blanka's Ending [Arrange].brstm"
+    type: result
+  - id: chun_li_ending_3_arrange
+    title: "Chun-Li's Ending (3) [Arrange]"
+    path: "Chun-Li's Ending (3) [Arrange].brstm"
+    type: warning
+  - id: guile_ending_arrange
+    title: "Guile's Ending [Arrange]"
+    path: "Guile's Ending [Arrange].brstm"
+    type: break
+  - id: ken_ending_2_arrange
+    title: "Ken's Ending (2) [Arrange]"
+    path: "Ken's Ending (2) [Arrange].brstm"
+    type: result
+  - id: continue_theme_arrange
+    title: "Continue Screen [Arrange]"
+    path: "Continue Screen [Arrange].brstm"
+    type: warning

@@ -8,3 +8,7 @@ songs:
     title: "Menu"
     path: "Menu.brstm"
     type: break
+  - id: unlock_feature_double_dash
+    title: "Unlock Feature"
+    path: "Unlock Feature.brstm"
+    type: result

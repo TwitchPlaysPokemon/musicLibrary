@@ -1,0 +1,30 @@
+id: sonic_the_hedgehog_2_8_bit
+title: "Sonic the Hedgehog 2 (8-bit)"
+series: sonic
+year: 1992
+platform: ["Master System", "Game Gear"]
+songs:
+  - id: green_hills_zone_8bit_sonic2
+    title: "Green Hills Zone"
+    path: "Green Hills Zone.brstm"
+    type: betting
+  - id: gimmick_mountain_zone
+    title: "Gimmick Mountain Zone"
+    path: "Gimmick Mountain Zone.brstm"
+    type: betting
+  - id: sky_high_zone_8bit_sonic2
+    title: "Sky High Zone"
+    path: "Sky High Zone.brstm"
+    type: betting
+  - id: invincible_8bit_sonic2
+    title: "Invincible"
+    path: "Invincible.brstm"
+    type: betting
+  - id: boss_theme_gamegear_8bit_sonic2
+    title: "Boss Theme (Game Gear)"
+    path: "Boss Theme (Game Gear).brstm"
+    type: warning
+  - id: ending_master_system
+    title: "Ending (Master System)"
+    path: "Ending (Master System).brstm"
+    type: result

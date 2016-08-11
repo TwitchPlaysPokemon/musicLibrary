@@ -18,4 +18,66 @@ songs:
     path: "To a Vast World.mwv"
     ends: 3:00
     type: betting
+  - id: chatting_dq8
+    title: "Chatting"
+    path: "Chatting.mwv"
+    type: betting
+  - id: hurry_we_are_in_danger
+    title: "Hurry! We are in Danger"
+    path: "Hurry! We are in Danger.mwv"
+    type: warning
+  - id: intermezzo
+    title: "Intermezzo"
+    path: "Intermezzo.mwv"
+    type: break
+  - id: raising_the_war_cry
+    title: "Raising the War Cry"
+    path: "Raising the War Cry.mwv"
+    type: warning
+  - id: reminiscence_dq8
+    title: "Reminiscence"
+    path: "Reminiscence.mwv"
+    type: break
+  - id: sanctuary_dq8
+    title: "Sanctuary"
+    path: "Sanctuary.mwv"
+    type: betting
+  - id: gavotte_de_chateau
+    title: "Gavotte de Chateau"
+    path: "Gavotte de Chateau.mwv"
+    ends: 2:15
+    type: betting
+  - id: fun_casino
+    title: "Fun Casino"
+    path: "Fun Casino.mwv"
+    type: betting
+  - id: mysterious_tower_dq8
+    title: "Mysterious Tower"
+    path: "Mysterious Tower.mwv"
+    ends: 2:10
+    type: betting
+  - id: healing_power_of_the_psalms
+    title: "Healing Power of the Psalms"
+    path: "Healing Power of the Psalms.mwv"
+    type: break
+  - id: friar_determination
+    title: "Friar's Determination"
+    path: "Friar's Determination.mwv"
+    type: betting
+  - id: boogie_woogie_in_the_bar
+    title: "Boogie-Woogie in the Bar"
+    path: "Boogie-Woogie in the Bar.mwv"
+    type: betting
+  - id: great_battle_in_the_vast_sky
+    title: "Great Battle in the Vast Sky"
+    path: "Great Battle in the Vast Sky.mwv"
+    type: battle
+  - id: defeat_the_enemy_dq8
+    title: "Defeat the Enemy"
+    path: "Defeat the Enemy.mwv"
+    type: warning
+  - id: royal_palace_gavotte_night
+    title: "Royal Palace's Gavotte (Night)"
+    path: "Royal Palace's Gavotte (Night).mwv"
+    type: break
 ...

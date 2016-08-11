@@ -29,4 +29,24 @@ songs:
     path: "Trial.mini2sf"
     title: "Trial"
     type: betting
+  - id: damon_gant_swimming_anyone
+    path: "Damon Gant ~ Swimming, Anyone.brstm"
+    title: "Damon Gant ~ Swimming, Anyone?"
+    type: betting
+  - id: detention_center_guard_elegy
+    path: "Detention Center ~ Guard's Elegy.brstm"
+    title: "Detention Center ~ Guard's Elegy"
+    type: break
+  - id: ema_skye_turnabout_sisters_theme_2005
+    path: "Ema Skye ~ Turnabout Sisters' Theme 2005.brstm"
+    title: "Ema Skye ~ Turnabout Sisters' Theme 2005"
+    type: betting
+  - id: maya_fey_turnabout_sisters_theme_2001
+    path: "Maya Fey ~ Turnabout Sisters' Theme 2001.brstm"
+    title: "Maya Fey ~ Turnabout Sisters' Theme 2001"
+    type: result
+  - id: phoenix_wright_objection_2001
+    path: "Phoenix Wright ~ Objection! 2001.brstm"
+    title: "Phoenix Wright ~ Objection! 2001"
+    type: warning
 ...

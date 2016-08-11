@@ -8,3 +8,7 @@ songs:
     path: "Credits.brstm"
     title: "Credits"
     type: result
+  - id: main_menu_map_hotel_mario
+    path: "Main Menu - Map.brstm"
+    title: "Main Menu/Map"
+    type: warning

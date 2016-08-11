@@ -273,4 +273,100 @@ songs:
     path: "Steven is Defeated!.brstm"
     title: "Victory! Champion"
     type: result
+  - id: abonrmal_weather_emerald
+    path: "Abnormal Weather.brstm"
+    title: "Abnromal Weather"
+    type: warning
+  - id: battle_arena_emerald
+    path: "Battle Arena.brstm"
+    title: "Battle Arena"
+    type: betting
+  - id: battle_dome_emerald
+    path: "Battle Dome.brstm"
+    title: "Battle Dome"
+    type: betting
+  - id: battle_pike_emerald
+    path: "Battle Pike.brstm"
+    title: "Battle Pike"
+    type: betting
+  - id: battle_pyramid_emerald
+    path: "Battle Pyramid.brstm"
+    title: "Battle Pyramid"
+    type: betting
+  - id: desert_emerald
+    path: "Desert.brstm"
+    title: "Desert"
+    type: betting
+  - id: drought_emerald
+    path: "Drought.brstm"
+    title: "Drought"
+    type: warning
+  - id: fallarbor_town_emerald
+    path: "Fallarbor Town.brstm"
+    title: "Fallarbor Town"
+    type: betting
+  - id: help_emerald
+    path: "Help!.brstm"
+    title: "Help!"
+    type: warning
+  - id: marine_science_museum_emerald
+    path: "Marine Science Museum.brstm"
+    title: "Marine Science Museum"
+    type: betting
+  - id: mt_chimney_emerald
+    path: "Mt. Chimney.brstm"
+    title: "Mt. Chimney"
+    type: betting
+  - id: mt_pyre_emerald
+    path: "Mt. Pyre.brstm"
+    title: "Mt. Pyre"
+    type: betting
+  - id: mt_pyre_outer_wall_emerald
+    path: "Mt. Pyre's Outer Wall.brstm"
+    title: "Mt. Pyre's Outer Wall"
+    type: betting
+  - id: petalburg_forest_emerald
+    path: "Petalburg Forest.brstm"
+    title: "Petalburg Forest"
+    type: betting
+  - id: pokemon_center_emerald
+    path: "Pokemon Center.brstm"
+    title: "Pokémon Center"
+    type: betting
+  - id: pokemon_communication_unused_center_emerald
+    path: "Pokemon Communication Center (Unused).brstm"
+    title: "Pokémon Communication Center (Unused)"
+    type: break
+  - id: route_38_unused_emerald
+    path: "Route 38 (Unused).brstm"
+    title: "Route 38 (Unused)"
+    type: betting
+  - id: safari_zone_emerald
+    path: "Safari Zone.brstm"
+    title: "Safari Zone"
+    type: warning
+  - id: saffron_city_unused_emerald
+    path: "Saffron City (Unused).brstm"
+    title: "Saffron City (Unused)"
+    type: break
+  - id: sealed_chamber_emerald
+    path: "Sealed Chamber.brstm"
+    title: "Sealed Chamber"
+    type: warning
+  - id: surfing_emerald
+    path: "Surfing.brstm"
+    title: "Surfing"
+    type: break
+  - id: the_end_emerald
+    path: "The End.brstm"
+    title: "The End"
+    type: break
+  - id: verdanturf_town_emerald
+    path: "Verdanturf Town.brstm"
+    title: "Verdanturf Town"
+    type: break
+  - id: victory_road_emerald
+    path: "Victory Road.brstm"
+    title: "Victory Road"
+    type: betting
 ...

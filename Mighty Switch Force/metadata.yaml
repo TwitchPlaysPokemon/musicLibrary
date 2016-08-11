@@ -37,4 +37,16 @@ songs:
     title: "Apprehend Them!"
     path: "Apprehend Them!.brstm"
     type: warning
+  - id: final_boss_msf
+    title: "Final Boss"
+    path: "Final Boss.brstm"
+    type: warning
+  - id: launch_hearts
+    title: "Launch Hearts"
+    path: "Launch Hearts.brstm"
+    type: betting
+  - id: yummy_msf
+    title: "Yummy"
+    path: "Yummy.brstm"
+    type: betting
 ...

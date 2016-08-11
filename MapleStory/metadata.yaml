@@ -1,0 +1,17 @@
+id: maplestory
+title: "MapleStory"
+platform: "PC"
+year: 2003
+songs:
+  - id: cygnus_garden
+    title: "Cygnus Garden"
+    path: "Cygnus Garden.brstm"
+    type: break
+  - id: battle_bgm_type_b
+    title: "Battle BGM Type B"
+    path: "Battle BGM Type B.brstm"
+    type: warning
+  - id: pink_bean_battle
+    title: "Pink Bean Battle"
+    path: "Pink Bean Battle.brstm"
+    type: battle

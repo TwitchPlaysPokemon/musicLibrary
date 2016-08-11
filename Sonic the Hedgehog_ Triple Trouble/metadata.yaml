@@ -1,0 +1,22 @@
+id: sonic_the_hedgehog_triple_trouble
+title: "Sonic the Hedgehog: Triple Trouble"
+series: sonic
+year: 1994
+platform: "Game Gear"
+songs:
+  - id: nack_the_weasel
+    title: "Nack the Weasel"
+    path: "Nack the Weasel.brstm"
+    type: warning
+  - id: dr_robotnik_triple_trouble
+    title: "Dr. Robotnik"
+    path: "Dr. Robotnik.brstm"
+    type: warning
+  - id: sunset_park_zone_triple_trouble
+    title: "Sunset Park Zone"
+    path: "Sunset Park Zone.brstm"
+    type: betting
+  - id: sunset_park_zone_3
+    title: "Sunset Park Zone, Act 3"
+    path: "Sunset Park Zone, Act 3.brstm"
+    type: betting

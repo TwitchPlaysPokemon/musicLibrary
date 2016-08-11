@@ -29,4 +29,40 @@ songs:
     title: "Wheeling Corby"
     path: "Wheeling Corby.brstm"
     type: warning
+  - id: mist_theme_radiant_dawn
+    title: "Mist's Theme"
+    path: "Mist's Theme.brstm"
+    type: break
+  - id: zelgius_the_brave
+    title: "Zelgius The Brave"
+    path: "Zelgius The Brave.brstm"
+    type: warning
+  - id: eternal_bond_radiant_dawn
+    title: "Eternal Bond"
+    path: "Eternal Bond.brstm"
+    type: betting
+  - id: march_of_the_lion_king
+    title: "March Of The Lion King"
+    path: "March Of The Lion King.brstm"
+    type: betting
+  - id: beauty_is_a_mad_mistress
+    title: "Beauty Is A Mad Mistress"
+    path: "Beauty Is A Mad Mistress.brstm"
+    type: warning
+  - id: a_grasping_truth
+    title: "A Grasping Truth"
+    path: "A Grasping Truth.brstm"
+    type: betting
+  - id: the_devoted_radiant_dawn
+    title: "The Devoted"
+    path: "The Devoted.brstm"
+    type: battle
+  - id: king_of_the_sky_radiant_dawn
+    title: "King Of The Sky"
+    path: "King Of The Sky.brstm"
+    type: betting
+  - id: victory_radiant_dawn
+    title: "Victory"
+    path: "Victory.brstm"
+    type: result
 ...

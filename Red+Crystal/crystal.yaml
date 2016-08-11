@@ -329,4 +329,24 @@ songs:
     path: "Pokemon Crystal_099.gbs"
     title: "Battle! Legendary Beasts"
     type: battle
+  - id: eusine_theme_crystal
+    path: "Eusine's Theme.brstm"
+    title: "Eusine's Theme"
+    type: warning
+  - id: battle_tower_inside_crystal
+    path: "Battle Tower (Inside).brstm"
+    title: "Battle Tower (Inside)"
+    type: break
+  - id: battle_tower_outside_crystal
+    path: "Battle Tower (Outside).brstm"
+    title: "Battle Tower (Outside)"
+    type: betting
+  - id: buena_password_show_crystal
+    path: "Beuna's Password Show.brstm"
+    title: "Beuna's Password Show"
+    type: betting
+  - id: pokemon_communication_center_crystal
+    path: "Pokemon Communication Center.brstm"
+    title: "Pokémon Communication Center"
+    type: betting
 ...

@@ -1,0 +1,14 @@
+id: road_rash_3_tour_de_france
+title: "Road Rash 3 - Tour de France"
+year: 1995
+series: roadrash
+platform: "Genesis"
+songs: 
+  - id: italy_rr3
+    title: "Italy"
+    path: "Italy.vgz"
+    type: betting
+  - id: kenya_rr3
+    title: "Kenya"
+    path: "Kenya.vgz"
+    type: betting

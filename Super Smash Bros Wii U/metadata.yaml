@@ -150,4 +150,48 @@ songs:
     title: "Battlefield"
     path: "Battlefield.brstm"
     type: betting
+  - id: pac_man_park_blocktown
+    title: "Pac-Man's Park/BlockTown"
+    path: "Pac-Man's Park - BlockTown.brstm"
+    type: battle
+  - id: final_destination_ssbu
+    title: "Final Destination"
+    path: "Final Destination.brstm"
+    type: battle
+  - id: route_23_black2_white2_ssbu
+    title: "Route 23 (Black 2/White 2)"
+    path: "Route 23 (Black 2 - White 2).brstm"
+    type: result
+  - id: plaza_title_city_folk_wild_world
+    title: "Plaza - Title (City Folk/Wild World)"
+    path: "Plaza - Title (City Folk - Wild World).brstm"
+    type: result
+  - id: stage_select_pikmin_2_ssbu
+    title: "Stage Select (Pikmin 2)"
+    path: "Stage Select (Pikmin 2).brstm"
+    type: result
+  - id: sky_kid_retro_medley
+    title: "Sky Kid Retro Medley"
+    path: "Sky Kid Retro Medley.brstm"
+    type: result
+  - id: crazy_orders_ticket_selection
+    title: "Crazy Orders: Ticket Selection"
+    path: "Crazy Orders - Ticket Selection.brstm"
+    type: warning
+  - id: all_star_rest_area_ssbu
+    title: "All-Star Rest Area"
+    path: "All-Star Rest Area.brstm"
+    type: break
+  - id: ken_stage_ssbu
+    title: "Ken Stage"
+    path: "Ken Stage (Normal).brstm"
+    type: battle
+  - id: ken_stage_critical_ssbu
+    title: "Ken Stage (Critical)"
+    path: "Ken Stage (Critical).brstm"
+    type: warning
+  - id: ryu_stage_critical_ssbu
+    title: "Ryu Stage (Critical)"
+    path: "Ryu Stage (Critical).brstm"
+    type: warning
 ...

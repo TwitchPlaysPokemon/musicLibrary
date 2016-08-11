@@ -28,3 +28,15 @@ songs:
     title: "Red Canyon"
     path: "Red Canyon.brstm"
     type: warning
+  - id: death_wind_fzero
+    title: "Death Wind"
+    path: "Death Wind.brstm"
+    type: warning
+  - id: silence_fzero
+    title: "Silence"
+    path: "Silence.brstm"
+    type: result
+  - id: ending_credits_fzero
+    title: "Ending Credits"
+    path: "Ending Credits.brstm"
+    type: result

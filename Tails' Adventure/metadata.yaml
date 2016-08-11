@@ -1,0 +1,18 @@
+id: tails_adventure
+platform: "Game Gear"
+title: "Tails' Adventure"
+series: sonic
+year: 1995
+songs:
+  - id: final_boss_tails_adventure
+    path: "Final Boss.brstm"
+    title: "Final Boss"
+    type: warning
+  - id: credits_tails_adventure
+    path: "Credits.brstm"
+    title: "Credits"
+    type: result
+  - id: tails_house_tails_adventure
+    path: "Tails' House.brstm"
+    title: "Tails' House"
+    type: break

@@ -1,0 +1,26 @@
+id: street_fighter_alpha_3
+title: "Street Fighter Alpha 3"
+year: 1998
+series: streetfighter
+platform: "Various"
+songs:
+  - id: cody_sfa3
+    title: "Cody"
+    path: "Cody.brstm"
+    type: warning
+  - id: karin_sfa3
+    title: "Karin"
+    path: "Karin.brstm"
+    type: result
+  - id: character_select_sfa3
+    title: "Character Select"
+    path: "Character Select (Loop Fix).brstm"
+    type: warning
+  - id: final_stage_scene_sfa3
+    title: "Final Stage Scene"
+    path: "Final Stage Scene.brstm"
+    type: warning
+  - id: rainbow_mika_sfa3
+    title: "Rainbow Mika"
+    path: "Rainbow Mika.brstm"
+    type: warning

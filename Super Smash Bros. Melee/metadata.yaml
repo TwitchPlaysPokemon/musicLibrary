@@ -49,4 +49,32 @@ songs:
     title: "Lottery"
     path: "Lottery.brstm"
     type: break
+  - id: dr_mario_ssbm
+    title: "Dr. Mario"
+    path: "Dr. Mario.brstm"
+    type: betting
+  - id: brinstar_melee
+    title: "Brinstar"
+    path: "Brinstar.brstm"
+    type: betting
+  - id: mach_rider_melee
+    title: "Mach Rider"
+    path: "Mach Rider.brstm"
+    type: betting
+  - id: pokemon_battle_melee
+    title: "Pokémon Battle"
+    path: "Pokemon Battle.brstm"
+    type: betting
+  - id: warning_siren_melee
+    title: "Warning Siren"
+    path: "Warning Siren.brstm"
+    type: warning
+  - id: targets_melee
+    title: "Targets!"
+    path: "Targets!.brstm"
+    type: warning
+  - id: all_star_rest_area_melee
+    title: "All Star Rest Area"
+    path: "All Star Rest Area.brstm"
+    type: break
 ...

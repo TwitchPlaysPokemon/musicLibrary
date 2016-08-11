@@ -1,0 +1,17 @@
+id: yuu_yuu_hakusho
+platform: "SMD"
+title: "Yuu Yuu Hakusho: Makyo Toitsusen"
+year: 1994
+songs: 
+  - id: as_you_like_it_select_bgm
+    path: "As You Like It (Select BGM).brstm"
+    title: "As You Like It (Select BGM)"
+    type: betting
+  - id: imbalanced_kiss
+    path: "Imbalanced Kiss.brstm"
+    title: "Imbalanced Kiss"
+    type: result
+  - id: smiling_bomb_instruction_version
+    path: "Smiling Bomb (Instruction Version).brstm"
+    title: "Smiling Bomb (Instruction Version)"
+    type: result

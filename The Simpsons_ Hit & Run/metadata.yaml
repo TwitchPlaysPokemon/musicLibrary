@@ -1,0 +1,10 @@
+id: the_simpsons_hit_and_run
+title: "The Simpsons: Hit & Run"
+year: 2003
+series: thesimpsons
+platform: ["PC", "PS2", "GC"]
+songs:
+  - id: saving_springfield
+    title: "Saving Springfield"
+    path: "Saving Springfield.brstm"
+    type: warning

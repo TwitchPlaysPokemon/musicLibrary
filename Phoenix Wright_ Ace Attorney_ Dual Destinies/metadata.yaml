@@ -33,4 +33,24 @@ songs:
     path: "Reminiscence ~ Wandering Heart.brstm"
     title: "Reminiscence ~ Wandering Heart"
     type: betting
+  - id: athena_cykes_courtroom_revolutionnaire
+    path: "Athena Cykes ~ Courtroom Revolutionnaire.brstm"
+    title: "Athena Cykes ~ Courtroom Revolutionnaire"
+    type: battle
+  - id: athena_cykes_lets_do_this
+    path: "Athena Cykes ~ Let's Do This!.brstm"
+    title: "Athena Cykes ~ Let's Do This!"
+    type: betting
+  - id: pursuit_keep_pressing_on_dual_destinies
+    path: "Pursuit ~ Keep Pressing On.brstm"
+    title: "Pursuit ~ Keep Pressing On"
+    type: battle
+  - id: reminiscence_tragic_memories
+    path: "Reminiscence ~ Tragic Memories.brstm"
+    title: "Reminiscence ~ Tragic Memories"
+    type: break
+  - id: simon_blackquill_twisted_samurai
+    path: "Simon Blackquill ~ Twisted Samurai.brstm"
+    title: "Simon Blackquill ~ Twisted Samurai"
+    type: betting
 ...

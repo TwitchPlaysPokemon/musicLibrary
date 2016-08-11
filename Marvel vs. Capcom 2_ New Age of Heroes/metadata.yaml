@@ -13,4 +13,8 @@ songs:
     title: "Amusement Park"
     path: "Amusement Park.brstm"
     type: warning
+  - id: clock_tower_stage_mvc2
+    title: "Clock Tower Stage"
+    path: "Clock Tower Stage.brstm"
+    type: break
 ...

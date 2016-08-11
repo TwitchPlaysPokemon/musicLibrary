@@ -1,0 +1,17 @@
+id: ys_the_oath_in_felghana
+title: "Ys: The Oath in Felghana"
+year: 2005
+platform: ["PC", "PSP"]
+songs:
+  - id: illburns_ruins
+    title: "Illburns Ruins"
+    path: "Illburns Ruins.brstm"
+    type: battle
+  - id: sealed_time_ys
+    title: "Sealed Time"
+    path: "Sealed Time.brstm"
+    type: battle
+  - id: steeling_the_will_to_fight
+    title: "Steeling the Will to Fight"
+    path: "Steeling the Will to Fight.brstm"
+    type: betting

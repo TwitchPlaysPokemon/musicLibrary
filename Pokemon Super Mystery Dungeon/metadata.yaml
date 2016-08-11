@@ -24,3 +24,11 @@ songs:
     title: "Dark Matter (Phase 2)"
     path: "Dark Matter (Phase 2).brstm"
     type: battle
+  - id: dark_matter_phase_1
+    title: "Dark Matter (Phase 1)"
+    path: "Dark Matter (Phase 1).brstm"
+    type: battle
+  - id: we_definitely_take_you_down
+    title: "We'll Definitely... Take You Down!"
+    path: "We'll Definitely... Take You Down!.brstm"
+    type: warning

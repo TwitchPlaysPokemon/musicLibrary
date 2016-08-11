@@ -1,0 +1,25 @@
+id: silver_surfer
+title: "Silver Surfer"
+platform: "NES"
+year: 1990
+songs:
+  - id: background_music_i
+    title: "Background Music I"
+    path: "Background Music I.brstm"
+    type: betting
+  - id: background_music_ii
+    title: "Background Music II"
+    path: "Background Music II.brstm"
+    type: betting
+  - id: title_screen_silver_surfer
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: hi_score_silver_surfer
+    title: "Hi Score"
+    path: "Hi Score.brstm"
+    type: betting
+  - id: device_completed
+    title: "Device Completed"
+    path: "Device Completed.brstm"
+    type: result

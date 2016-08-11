@@ -541,4 +541,20 @@ songs:
     path: "Sunyshore City (Daytime).brstm"
     title: "Sunyshore City (Day)"
     type: betting
+  - id: cavern_on_the_lake_dp
+    path: "Cavern on the Lake.brstm"
+    title: "Cavern on the Lake"
+    type: warning
+  - id: eterna_city_daytime_dp
+    path: "144 Eterna City (Daytime).mini2sf"
+    title: "Eterna City (Daytime)"
+    type: betting
+  - id: hall_of_fame_dp
+    path: "269 Hall of Fame.mini2sf"
+    title: "Hall of Fame"
+    type: result
+  - id: pokemon_center_nighttime
+    path: "203 Pokemon Center (Nighttime).mini2sf"
+    title: "Pokémon Center (Nighttime)"
+    type: break
 ...

@@ -77,4 +77,9 @@ songs:
     title: "Final Battle"
     path: "Final Battle.brstm"
     type: battle
+  - id: ciper_admin_battle_colosseum
+    title: "Cipher Admin Battle"
+    path: "Cipher Admin Battle.brstm"
+    type: battle
+    
 ...

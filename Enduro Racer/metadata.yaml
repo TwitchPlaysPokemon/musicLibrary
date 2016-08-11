@@ -1,0 +1,9 @@
+id: enduro_racer
+title: "Enduro Racer"
+year: 1986
+platform: "Arcade"
+songs:
+  - id: main_music_ym2151
+    title: "Main Music (YM2151)"
+    path: "Main Music (YM2151).brstm"
+    type: betting

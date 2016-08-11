@@ -9,4 +9,8 @@ songs:
     title: "Battle Theme 2"
     path: "Battle Theme 2.spc"
     type: warning
+  - id: boss_super_bomberman_5
+    title: "Boss"
+    path: "Boss.brstm"
+    type: warning
 ...

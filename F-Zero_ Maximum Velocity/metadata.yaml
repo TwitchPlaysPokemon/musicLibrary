@@ -1,0 +1,30 @@
+id: f-zero_maximum_velocity
+title: "F-Zero: Maximum Velocity"
+series: fzero
+year: 1990
+platform: "GBA"
+songs:
+  - id: tenth_zone_east
+    title: "Tenth Zone East"
+    path: "Tenth Zone East.brstm"
+    type: betting
+  - id: grand_prix_results_velocity
+    title: "Grand Prix Results"
+    path: "Grand Prix Results.brstm"
+    type: warning
+  - id: synobazz
+    title: "Synobazz"
+    path: "Synobazz.brstm"
+    type: warning
+  - id: race_results_velocity
+    title: "Race Results"
+    path: "Race Results.brstm"
+    type: result
+  - id: multiplayer_grand_prix_results
+    title: "Multiplayer - Grand Prix Results"
+    path: "Multiplayer - Grand Prix Results.brstm"
+    type: result
+  - id: credits_velocity
+    title: "Credits"
+    path: "Credits.brstm"
+    type: break

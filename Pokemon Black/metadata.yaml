@@ -142,7 +142,7 @@ songs:
     title: "Gate"
     type: betting
   - id: skyarrow_bridge
-    path: "150 - Sky Arrow Bridge.mini2sf"
+    path: "Skyarrow Bridge.brstm"
     title: "Skyarrow Bridge"
     type: betting
   - id: castelia_city
@@ -554,5 +554,13 @@ songs:
   - id: lullaby_for_trains
     path: "Lullaby for Trains.brstm"
     title: "Lullaby for Trains"
+    type: break
+  - id: sayonara_refrain
+    path: "Sayonara -Refrain- (Sayonara - N's Farewell Remix).brstm"
+    title: "Sayonara -Refrain-"
+    type: break
+  - id: summer_in_kagome
+    path: "Summer in Kagome (Lacunosa Town Remix).brstm"
+    title: "Summer in Kagome"
     type: break
 ...

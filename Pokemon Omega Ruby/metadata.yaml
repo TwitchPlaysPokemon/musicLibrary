@@ -381,4 +381,12 @@ songs:
     title: "Soaring Illusions"
     path: "Soaring Illusions.brstm"
     type: break
+  - id: mt_pyre_interior_oras
+    title: "Mt. Pyre (Interior)"
+    path: "Mt. Pyre (Interior).brstm"
+    type: betting
+  - id: sky_pillar_oras
+    title: "Sky Pillar"
+    path: "Sky Pillar.brstm"
+    type: warning
 ...

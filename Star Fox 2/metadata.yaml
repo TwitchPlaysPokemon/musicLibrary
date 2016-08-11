@@ -1,0 +1,30 @@
+id: star_fox_2
+title: "Star Fox 2"
+series: starfox
+year: 1995
+platform: "SNES"
+songs:
+  - id: macbeth_starfox2
+    title: "Macbeth"
+    path: "Macbeth.spc"
+    type: betting
+  - id: unused_beta_starfox2
+    title: "Unused Beta"
+    path: "Unused Beta.spc"
+    type: warning
+  - id: taitania_starfox2
+    title: "Taitania"
+    path: "Taitania.spc"
+    type: betting
+  - id: fortuna_starfox2
+    title: "Fortuna"
+    path: "Fortuna.spc"
+    type: result
+  - id: star_map_select_starfox2
+    title: "Star Map Select"
+    path: "Star Map Select.spc"
+    type: warning
+  - id: surprise_attack_starfox2
+    title: "Surprise Attack"
+    path: "Surprise Attack.spc"
+    type: warning

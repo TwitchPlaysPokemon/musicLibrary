@@ -23,3 +23,15 @@ songs:
     title: "Mad Moxxi's Bar"
     path: "Mad Moxxi's Bar.brstm"
     type: betting
+  - id: claptrap_birthday_bash
+    title: "Claptrap's Birthday Bash"
+    path: "Claptrap's Birthday Bash.brstm"
+    type: result
+  - id: hero_path_combat
+    title: "Hero's Pass - Combat"
+    path: "Hero's Pass - Combat.brstm"
+    type: warning
+  - id: lynchwood_sheriff
+    title: "Lynchwood Sheriff"
+    path: "Lynchwood Sheriff.brstm"
+    type: betting

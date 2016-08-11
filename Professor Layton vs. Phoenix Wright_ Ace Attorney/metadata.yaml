@@ -13,4 +13,52 @@ songs:
     path: "Pursuit ~ Casting Magic.brstm"
     title: "Pursuit ~ Casting Magic"
     type: battle
+  - id: farce_naive_people
+    path: "Farce ~ Naive People.brstm"
+    title: "Farce ~ Naive People"
+    type: result
+  - id: mob_cross_examination_allegro
+    path: "Mob Cross-Examination ~ Allegro.brstm"
+    title: "Mob Cross-Examination ~ Allegro"
+    type: warning
+  - id: newton_belduke_twilight_memories
+    path: "Newton Belduke - Twilight Memories.brstm"
+    title: "Newton Belduke - Twilight Memories"
+    type: break
+  - id: in_the_dark_witches_prelude
+    path: "In the Dark ~ The Witches' Prelude.brstm"
+    title: "In the Dark ~ The Witches' Prelude"
+    type: betting
+  - id: professor_layton_theme_pl_vs_pw_aa_version_1
+    path: "Professor Layton's Theme (PL vs. PW - AA Version No.1).brstm"
+    title: "Professor Layton's Theme (PL vs. PW: AA Version No.1)"
+    type: betting
+  - id: reminiscence_the_legendary_great_fire
+    path: "Reminiscence ~ The Legendary Great Fire.brstm"
+    title: "Reminiscence ~ The Legendary Great Fire"
+    type: warning
+  - id: the_courtroom_magician
+    path: "The Courtroom's Magician.brstm"
+    title: "The Courtroom's Magician"
+    type: warning
+  - id: the_final_witness
+    path: "The Final Witness.brstm"
+    title: "The Final Witness"
+    type: betting
+  - id: the_great_witch_judgement_court_begins
+    path: "The Great Witch's Judgment ~ Court Begins.brstm"
+    title: "The Great Witch's Judgment ~ Court Begins"
+    type: betting
+  - id: the_hidden_garden_pl
+    path: "The Hidden Garden.brstm"
+    title: "The Hidden Garden"
+    type: break
+  - id: theme_of_the_united_front
+    path: "Theme of the United Front.brstm"
+    title: "Theme of the United Front"
+    type: warning
+  - id: zacharias_barnham_the_sword_of_labyrinthia
+    path: "Zacharias Barnham ~ The Sword of Labyrinthia.brstm"
+    title: "Zacharias Barnham ~ The Sword of Labyrinthia"
+    type: warning
 ...

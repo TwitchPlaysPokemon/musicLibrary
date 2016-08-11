@@ -1,0 +1,18 @@
+id: super_punch_out
+title: "Super Punch-Out!!"
+series: punchout
+year: 1994
+platform: "SNES"
+songs:
+  - id: major_circuit_fight_spo
+    title: "Major Circuit Fight"
+    path: "Major Circuit Fight.brstm"
+    type: warning
+  - id: minor_circuit_fight_spo
+    title: "Minor Circuit Fight"
+    path: "Minor Circuit Fight.brstm"
+    type: warning
+  - id: special_circuit_fight_spo
+    title: "Special Circuit Fight"
+    path: "Special Circuit Fight.brstm"
+    type: warning

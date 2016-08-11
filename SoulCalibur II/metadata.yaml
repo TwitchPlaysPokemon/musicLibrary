@@ -3,7 +3,7 @@ id: soulcalibur_ii
 title: "SoulCalibur II"
 series: soulcalibur
 year: 2003
-platform: "GCN, PS2, Xbox"
+platform: ["GC", "PS2", "Xbox"]
 songs:
   - id: raise_thy_sword
     title: "Raise Thy Sword"
@@ -21,4 +21,20 @@ songs:
     title: "Link's Theme"
     path: "Link's Theme.brstm"
     type: result
+  - id: unwavering_resolve_sc2
+    title: "Unwavering Resolve"
+    path: "Unwavering Resolve.brstm"
+    type: battle
+  - id: hubris_sc2
+    title: "Hubris"
+    path: "Hubris.brstm"
+    type: betting
+  - id: history_unfolds_sc2
+    title: "History Unfolds"
+    path: "History Unfolds.brstm"
+    type: warning
+  - id: into_the_whirlwind_sc2
+    title: "Into The Whirlwind"
+    path: "Into The Whirlwind.brstm"
+    type: warning
 ...

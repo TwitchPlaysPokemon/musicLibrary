@@ -9,8 +9,24 @@ songs:
     title: "After the Battle"
     path: "After the Battle.brstm"
     type: result
-  - id: zoras_domain
+  - id: zoras_domain_tloztp
     title: "Zora's Domain"
     path: "Zora's Domain.brstm"
     type: break
+  - id: agitha_castle
+    title: "Agitha's Castle"
+    path: "Agitha's Castle.brstm"
+    type: betting
+  - id: hyrule_castle_town_central_square
+    title: "Hyrule Castle Town - Central Square"
+    path: "Hyrule Castle Town - Central Square.brstm"
+    type: betting
+  - id: wild_goat
+    title: "Wild Goat"
+    path: "Wild Goat.brstm"
+    type: warning
+  - id: midna_in_distress
+    title: "Midna in Distress"
+    path: "Midna in Distress.brstm"
+    type: betting
 ...

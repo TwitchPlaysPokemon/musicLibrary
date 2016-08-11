@@ -1,5 +1,6 @@
 id: jojo_bizarre_adventure_all_star_battle
 title: "JoJo's Bizarre Adventure: All Star Battle"
+series: jojo
 platform: "PS3"
 year: 2013
 songs:
@@ -11,3 +12,11 @@ songs:
     title: "A Fitting Time & Place are Necessary (Stage Select)"
     path: "A Fitting Time & Place are Necessary (Stage Select).brstm"
     type: warning
+  - id: they_are_all_those_of_justice
+    title: "They Are All Those of 'Justice' (Funny Valentine's Theme)"
+    path: "They Are All Those of 'Justice' (Funny Valentine's Theme).brstm"
+    type: betting
+  - id: then_could_you_tell_me_who_am_i
+    title: "Then, Could You Tell Me...Who Am I (Part 8 Josuke's Theme)"
+    path: "Then, Could You Tell Me...Who Am I (Part 8 Josuke's Theme).brstm"
+    type: battle

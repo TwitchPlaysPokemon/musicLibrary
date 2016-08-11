@@ -31,10 +31,62 @@ songs:
     type: warning
   - id: pokey_means_business
     title: "Pokey Means Business!"
-    path: "Pokey Means Business! (8-bit Section).brstm"
+    path: "Pokey Means Business!.spc"
     type: warning
   - id: battle_against_a_weird_opponent
     title: "Battle Against a Weird Opponent"
     path: "Battle Against a Weird Opponent.brstm"
     type: warning
+  - id: kraken_of_the_sea
+    title: "Kraken of the Sea"
+    path: "Kraken of the Sea.spc"
+    type: betting
+  - id: boy_meets_girl_twoson
+    title: "Boy Meets Girl (Twoson)"
+    path: "Boy Meets Girl.spc"
+    type: result
+  - id: winters_white
+    title: "Winters White"
+    path: "Winters White.spc"
+    type: betting
+  - id: pokey
+    title: "Pokey"
+    path: "Pokey.spc"
+    type: warning
+  - id: giygas_intimidation
+    title: "Giygas' Intimidation"
+    path: "Giygas' Intimidation.spc"
+    type: warning
+  - id: threed_freed_at_last
+    title: "Threed, Freed at Last"
+    path: "Threed, Freed at Last.brstm"
+    type: result
+  - id: home_sweet_home_earthbound
+    title: "Home Sweet Home"
+    path: "Home Sweet Home.brstm"
+    type: break
+  - id: your_name_please_earthbound
+    title: "Your Name, Please"
+    path: "Your Name, Please.spc"
+    type: break
+  - id: summers_eternal_tourist_trap
+    title: "Summers, Eternal Tourist Trap"
+    path: "Summers, Eternal Tourist Trap.spc"
+    type: break
+  - id: hospital_earthbound
+    title: "Hospital"
+    path: "Hospital.spc"
+    type: break
+  - id: youve_come_far_coffee_break
+    title: "You've Come Far (Coffee Break)"
+    path: "You've Come Far (Coffee Break).brstm"
+    type: break
+  - id: apple_kid_theme
+    title: "Apple Kid's Theme"
+    path: "Apple Kid's Theme.spc"
+    type: break
+  - id: what_a_great_picture
+    title: "What a Great Picture!"
+    path: "What a Great Picture!.brstm"
+    type: result
 ...

@@ -9,4 +9,12 @@ songs:
     title: "Soki's Theme [Onimusha ~ Dawn of Dreams]"
     path: "Soki's Theme [Onimusha ~ Dawn of Dreams].brstm"
     type: battle
+  - id: battle_ptx_tatsunoko
+    title: "Theme of PTX-40A"
+    path: "Battle-PTX_Tatsunoko.brstm"
+    type: warning
+  - id: break_extramenu_tatsunoko
+    title: "Extra Menu"
+    path: "Break-ExtraMenu_Tatsunoko.brstm"
+    type: break
 ...

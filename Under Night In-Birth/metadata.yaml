@@ -8,6 +8,14 @@ songs:
     title: "Gathers Under Night (Character Select)"
     path: "Gathers Under Night (Character Select).brstm"
     type: result
+  - id: sethuniel
+    title: "Seth's theme ~ Monochrome Memory"
+    path: "SethUNIEL.brstm"
+    type: battle
+  - id: hildauniel
+    title: "Hilda's theme ~ Overwhelm Despair"
+    path: "HildaUNIEL.brstm"
+    type: warning
 #  - id: microsoft_windows
 #    title: "Microsoft Windows"
 #    series: frozen

@@ -3,7 +3,7 @@ id: ultimate_marvel_vs._capcom_3
 title: "Ultimate Marvel vs. Capcom 3"
 series: mvc
 year: 2011
-platform: "PS3, Vita, 360"
+platform: ["PS3", "Vita", "360"]
 songs:
   - id: phoenix_wright's_theme_(turnabout_mode)
     title: "Phoenix Wright's Theme (Turnabout Mode)"
@@ -20,5 +20,9 @@ songs:
   - id: character_select_dynamic
     title: "Character Select (Dynamic)"
     path: "Character Select (Dynamic).brstm"
+    type: result
+  - id: main_menu_dynamic
+    title: "Main Menu (Dynamic)"
+    path: "Main Menu (Dynamic).brstm"
     type: result
 ...

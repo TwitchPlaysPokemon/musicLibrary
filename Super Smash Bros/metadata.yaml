@@ -25,4 +25,16 @@ songs:
     title: "Metal Mario"
     path: "40 Metal Mario Fight.miniusf"
     type: warning
+  - id: how_to_play_ssb64
+    title: "How to Play"
+    path: "How to Play.brstm"
+    type: betting
+  - id: credits_ssb64
+    title: "Credits"
+    path: "Credits.brstm"
+    type: break
+  - id: data_ssb64
+    title: "Data"
+    path: "Data.brstm"
+    type: break
 ...

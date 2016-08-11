@@ -12,3 +12,27 @@ songs:
     title: "Special Stage"
     path: "Special Stage.brstm"
     type: warning
+  - id: rusty_ruins_zone_1_saturn
+    title: "Rusty Ruins Zone Act 1"
+    path: "Rusty Ruins Zone Act 1.brstm"
+    type: break
+  - id: diamond_dust_zone_1_saturn
+    title: "Diamond Dust Zone Act 1"
+    path: "Diamond Dust Zone Act 1.brstm"
+    type: betting
+  - id: spring_stadium_zone_1_saturn
+    title: "Spring Stadium Zone Act 1"
+    path: "Spring Stadium Zone Act 1.brstm"
+    type: result
+  - id: title_s3dblast_saturn
+    title: "Title"
+    path: "Title (Custom Loop).brstm"
+    type: result
+  - id: panic_puppet_act_1_saturn
+    title: "Panic Puppet Zone Act 1"
+    path: "Panic Puppet Zone Act 1.brstm"
+    type: betting
+  - id: panic_puppet_zone_1_saturn
+    title: "Volcano Valley Zone Act 1"
+    path: "Volcano Valley Zone Act 1.brstm"
+    type: betting

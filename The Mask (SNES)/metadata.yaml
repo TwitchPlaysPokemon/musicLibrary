@@ -1,0 +1,10 @@
+id: the_mask_snes
+title: "The Mask"
+platform: "SNES"
+year: 1995
+songs: 
+  - id: stanleys_apartment
+    title: "Stanley's Apartment"
+    path: "Stanley's Apartment.spc"
+    ends: 3:00
+    type: betting

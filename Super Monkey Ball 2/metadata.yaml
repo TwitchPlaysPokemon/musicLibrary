@@ -48,4 +48,12 @@ songs:
     path: "Monkey Dogfight.brstm"
     title: "Monkey Dogfight"
     type: battle
+  - id: monkey_target_2
+    path: "Monkey Target 2.brstm"
+    title: "Monkey Target 2"
+    type: betting
+  - id: award_ceremony_monkeyball
+    path: "Award Ceremony.brstm"
+    title: "Award Ceremony"
+    type: result
 ...

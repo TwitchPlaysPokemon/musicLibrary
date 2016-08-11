@@ -20,3 +20,27 @@ songs:
     title: "EXOGrimmon Battle Theme"
     path: "EXOGrimmon Battle Theme.mini2sf"
     type: warning
+  - id: battle_theme_1_dawndusk
+    title: "Battle Theme 1"
+    path: "Battle Theme 1.brstm"
+    type: battle
+  - id: battle_theme_2_dawndusk
+    title: "Battle Theme 2"
+    path: "Battle Theme 2.brstm"
+    type: battle
+  - id: crisis_dawndusk
+    title: "Crisis!"
+    path: "Crisis!.brstm"
+    type: warning
+  - id: kowloon_co
+    title: "Kowloon Co."
+    path: "Kowloon Co.brstm"
+    type: warning
+  - id: grimmon
+    title: "Grimmon"
+    path: "Grimmon.brstm"
+    type: warning
+  - id: macro_sea
+    title: "Macro Sea"
+    path: "Macro Sea.brstm"
+    type: break

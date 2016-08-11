@@ -36,3 +36,7 @@ songs:
     title: "Mid Boss"
     path: "Mid Boss.brstm"
     type: battle
+  - id: battle_nsmbwii
+    title: "Battle"
+    path: "Battle.brstm"
+    type: warning

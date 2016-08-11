@@ -12,4 +12,12 @@ songs:
     title: "Billie Jean"
     path: "11 Billie Jean.vgm"
     type: betting
+  - id: bad_mj
+    title: "Bad"
+    path: "Bad.vgm"
+    type: betting
+  - id: beat_it_mj
+    title: "Beat it"
+    path: "Beat it.vgm"
+    type: betting
 ...

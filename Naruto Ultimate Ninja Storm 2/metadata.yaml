@@ -1,0 +1,10 @@
+id: naruto_ultimate_ninja_storm_2
+title: "Naruto Shippuden: Ultimate Ninja Storm 2"
+series: naruto
+platform: ["PS3", "360"]
+year: 2010
+songs:
+  - id: main_menu_naruto_shipstorm2
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: break
