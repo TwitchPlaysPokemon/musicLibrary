@@ -1,0 +1,15 @@
+---
+id: star_soldier_vanishing_earth
+title: "Star Soldier: Vanishing Earth"
+platform: "N64"
+year: 1998
+songs: 
+  - id: attack_star_soldier
+    title: "Attack"
+    path: "Attack.brstm"
+    type: betting
+  - id: invasion
+    title: "Invasion"
+    path: "Invasion.brstm"
+    type: battle
+...

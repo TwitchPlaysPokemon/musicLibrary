@@ -12,4 +12,12 @@ songs:
     path: "Silver Lining.brstm"
     title: "Silver Lining"
     type: battle
+  - id: aces_back
+    title: "Ace's Back"
+    path: "Ace's Back.brstm"
+    type: warning
+  - id: survive
+    title: "Survive"
+    path: "Survive.brstm"
+    type: battle
 ...

@@ -1,0 +1,35 @@
+---
+id: suikoden_2
+title: "Suikoden 2"
+platform: "PS1"
+year: 1998
+songs: 
+  - id: the_will
+    title: "The Will"
+    path: "1105 The Will.psf"
+    type: battle
+  - id: homesickness
+    title: "Homesickness"
+    path: "1118 Homesickness.psf"
+    type: break
+  - id: tension_suikoden2
+    title: "Tension"
+    path: "1125 Tension.psf"
+    type: warning
+  - id: one_minute_showdown
+    title: "One-Minute Showdown"
+    path: "2117 One-Minute Showdown.psf"
+    type: warning
+  - id: even_farther
+    title: "Even Farther"
+    path: "2130 Even Farther.psf"
+    type: betting
+  - id: gothic_neclord
+    title: "Gothic Neclord"
+    path: "2212 Gothic Neclord.psf"
+    type: battle
+  - id: tension_alternate_suikoden2
+    title: "Tension (alternate)"
+    path: "9003 Tension (alternate).psf"
+    type: warning
+...

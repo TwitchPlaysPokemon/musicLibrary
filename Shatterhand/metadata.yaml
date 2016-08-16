@@ -1,0 +1,19 @@
+---
+id: shatterhand
+title: "Shatterhand"
+platform: "NES"
+year: 1991
+songs: 
+  - id: area_b
+    title: "Area B"
+    path: "Area B.brstm"
+    type: betting
+  - id: area_c_jp
+    title: "Area C (JP)"
+    path: "Area C (JP).brstm"
+    type: betting
+  - id: area_g_missile_command
+    title: "Area G Missile Command"
+    path: "Area G Missile Command.brstm"
+    type: betting
+...

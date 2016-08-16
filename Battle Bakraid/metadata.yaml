@@ -1,0 +1,15 @@
+---
+id: battle_bakraid
+title: "Battle Bakraid"
+platform: "Arcade"
+year: 1999
+songs: 
+  - id: following_wind
+    title: "Following Wind"
+    path: "Following Wind.brstm"
+    type: battle
+  - id: photograph_in_twilight
+    title: "Photograph in Twilight"
+    path: "Photograph in Twilight.brstm"
+    type: result
+...

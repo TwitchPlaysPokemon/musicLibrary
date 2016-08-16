@@ -1,0 +1,19 @@
+---
+id: radiant_silvergun
+title: "Radiant Silvergun"
+platform: "Arcade+Saturn+360"
+year: 1998
+songs: 
+  - id: debris
+    title: "Debris"
+    path: "Debris.brstm"
+    type: battle
+  - id: evasion
+    title: "Evasion"
+    path: "Evasion.brstm"
+    type: battle
+  - id: there_is_life_everywhere
+    title: "There is Life Everywhere"
+    path: "There is Life Everywhere.brstm"
+    type: break
+...

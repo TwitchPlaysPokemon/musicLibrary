@@ -1,0 +1,27 @@
+---
+id: alcahest
+title: "Alcahest"
+platform: "SFC"
+year: 1993
+songs:
+  - id: babilom's_theme
+    title: "Babilom's Theme"
+    path: "04 Babilom's Theme.spc"
+    type: warning
+  - id: panakeian_temple
+    title: "Panakeian Temple"
+    path: "11 Panakeian Temple.spc"
+    type: betting
+  - id: general_of_the_empire
+    title: "General of the Empire"
+    path: "13 General of the Empire.spc"
+    type: warning
+  - id: ancient_spaceship
+    title: "Ancient Spaceship"
+    path: "19 Ancient Spaceship.spc"
+    type: betting
+  - id: the_demon_underworld
+    title: "The Demon Underworld"
+    path: "22 The Demon Underworld.spc"
+    type: betting
+...

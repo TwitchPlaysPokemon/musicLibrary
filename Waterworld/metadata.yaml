@@ -1,0 +1,15 @@
+---
+id: waterworld
+title: "Waterworld"
+platform: "SNES+GB+VB"
+year: 1995
+songs: 
+  - id: map_waterworld
+    title: "Map"
+    path: "03 Map.spc"
+    type: break
+  - id: mission_theme_2
+    title: "Mission Theme 2"
+    path: "09 Mission Theme 2.spc"
+    type: betting
+...

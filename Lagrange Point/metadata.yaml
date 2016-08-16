@@ -12,4 +12,12 @@ songs:
     title: "Fighters' Sadness"
     path: "Fighters' Sadness.brstm"
     type: warning
+  - id: departure_and_arrival
+    title: "Departure and Arrival"
+    path: "Departure and Arrival.brstm"
+    type: betting
+  - id: satellite_base
+    title: "Satellite Base"
+    path: "Satellite Base.brstm"
+    type: betting
 ...

@@ -1,0 +1,23 @@
+---
+id: super_nazo_puyo_tsuu
+title: "Super Nazo Puyo Tsuu"
+platform: "SFC"
+year: 1996
+songs: 
+  - id: mode_select_snpt
+    title: "Mode Select"
+    path: "02 Mode Select.spc"
+    type: warning
+  - id: introduction_snpt
+    title: "Introduction"
+    path: "03 Introduction.spc"
+    type: betting
+  - id: puzzle_snpt
+    title: "Puzzle"
+    path: "13 Puzzle.spc"
+    type: warning
+  - id: ending_snpt
+    title: "Ending"
+    path: "18 Ending.spc"
+    type: result
+...

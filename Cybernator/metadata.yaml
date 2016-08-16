@@ -1,0 +1,19 @@
+---
+id: cybernator
+title: "Cybernator"
+platform: "SNES"
+year: 1992
+songs: 
+  - id: weve_gotta_do_it
+    title: "We've Gotta Do it"
+    path: "03 We've Gotta Do it.spc"
+    type: betting
+  - id: asteroid_run
+    title: "Asteroid Run"
+    path: "06 Asteroid Run.spc"
+    type: betting
+  - id: till_the_crack_of_doom
+    title: "Till the Crack of Doom"
+    path: "11 Till the Crack of Doom.spc"
+    type: betting
+...

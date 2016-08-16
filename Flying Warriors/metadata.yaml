@@ -1,0 +1,15 @@
+---
+id: flying_warriors
+title: "Flying Warriors"
+platform: "NES"
+year: 1990
+songs: 
+  - id: kung_fu
+    title: "Kung-Fu"
+    path: "Kung-Fu.brstm"
+    type: warning
+  - id: practice_in_the_mountain
+    title: "Practice in the Mountain"
+    path: "Practice in the Mountain.brstm"
+    type: battle
+...

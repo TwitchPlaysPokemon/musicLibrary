@@ -1,0 +1,31 @@
+---
+id: battle_garegga
+title: "Battle Garegga"
+platform: "Arcade+Saturn"
+year: 1996
+songs: 
+  - id: 471am
+    title: "4-71am"
+    path: "4-71am.brstm"
+    type: warning
+  - id: bluescape_ranking
+    title: "Bluescape (Ranking)"
+    path: "Bluescape(Ranking).brstm"
+    type: result
+  - id: degeneracy
+    title: "Degeneracy"
+    path: "Degeneracy.brstm"
+    type: betting
+  - id: stab_and_stomp
+    title: "Stab and Stomp!"
+    path: "Stab and Stomp!.brstm"
+    type: warning
+  - id: subversive_awareness
+    title: "Subversive Awareness"
+    path: "Subversive Awareness.brstm"
+    type: battle
+  - id: underwater_rampart
+    title: "Underwater Rampart"
+    path: "Underwater Rampart.brstm"
+    type: betting
+...

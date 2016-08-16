@@ -1,0 +1,16 @@
+---
+id: jewel_master
+title: "Jewel Master"
+platform: "Genesis"
+year: 1991
+songs: 
+  - id: jewel_master
+    title: "Jewel Master"
+    path: "03 Jewel Master.vgm"
+    ends: 2:34
+    type: betting
+  - id: fish_out_of_water
+    title: "Fish Out of Water"
+    path: "12 Fish Out of Water.vgm"
+    type: warning
+...

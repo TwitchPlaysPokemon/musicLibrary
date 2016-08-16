@@ -1,0 +1,39 @@
+---
+id: front_mission_gun_hazard
+title: "Front Mission: Gun Hazard"
+platform: "SFC"
+year: 1996
+songs: 
+  - id: mission_complete
+    title: "Mission Complete"
+    path: "103 Mission Complete.spc"
+    type: result
+  - id: a_store_keeper
+    title: "A Store Keeper"
+    path: "110 A Store Keeper.spc"
+    type: betting
+  - id: richard_millman
+    title: "Richard Millman"
+    path: "116 Richard Millman.spc"
+    type: break
+  - id: warning_one
+    title: "Warning One"
+    path: "121 Warning One.spc"
+    type: warning
+  - id: genoce
+    title: "Genoce"
+    path: "123 Genoce.spc"
+    type: warning
+  - id: violent_chase
+    title: "Violent Chase"
+    path: "208 Violent Chase.spc"
+    type: warning
+  - id: impatience_part_2
+    title: "Impatience (Part 2)"
+    path: "223b Impatience (Part 2).spc"
+    type: warning
+  - id: heavens_door
+    title: "Heaven's Door"
+    path: "225 Heaven's Door.spc"
+    type: result
+...

@@ -1,0 +1,23 @@
+---
+id: arcana
+title: "Arcana"
+platform: "SNES"
+year: 1992
+songs:
+  - id: dravens_valley_pass
+    title: "Draven's Valley Pass"
+    path: "25 Draven's Valley Pass.spc"
+    type: warning
+  - id: decisive_battle_arcana
+    title: "Decisive Battle"
+    path: "29 Decisive Battle.spc"
+    type: battle
+  - id: dark_castle_bintel
+    title: "Dark Castle Bintel"
+    path: "30 Dark Castle Bintel.spc"
+    type: betting
+  - id: second_armageddon
+    title: "Second Armageddon"
+    path: "33 Second Armageddon.spc"
+    type: battle
+...

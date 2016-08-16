@@ -1,0 +1,19 @@
+---
+id: gradius_v
+title: "Gradius V"
+platform: "PS2"
+year: 2004
+songs: 
+  - id: impregnable_fortress
+    title: "Impregnable Fortress"
+    path: "Impregnable Fortress.brstm"
+    type: betting
+  - id: select_weapon_array
+    title: "Select Weapon Array"
+    path: "Select Weapon Array.brstm"
+    type: warning
+  - id: stage_boss_gradius_v
+    title: "Stage Boss"
+    path: "Stage Boss.brstm"
+    type: battle
+...

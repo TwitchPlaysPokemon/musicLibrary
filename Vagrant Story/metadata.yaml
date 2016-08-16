@@ -1,0 +1,15 @@
+---
+id: vagrant_story
+title: "Vagrant Story"
+platform: "PS1"
+year: 2000
+songs: 
+  - id: great_cathedral
+    title: "Great Cathedral"
+    path: "218 Great Cathedral.psf"
+    type: betting
+  - id: efreet
+    title: "Efreet"
+    path: "219 Efreet.psf"
+    type: battle
+...

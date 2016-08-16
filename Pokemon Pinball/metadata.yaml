@@ -1,0 +1,11 @@
+---
+id: pokemon_pinball
+title: "Pokemon Pinball"
+platform: "GBC"
+year: 1999
+songs: 
+  - id: blue_field_theme
+    title: "Blue Field Theme"
+    path: "Blue Field Theme.brstm"
+    type: betting
+...
