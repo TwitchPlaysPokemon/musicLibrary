@@ -12,6 +12,7 @@ songs:
   - id: the_great_labyrinth_worse_than_death
     title: "The Great Labyrinth Worse than Death"
     path: "The Great Labyrinth Worse than Death.brstm"
+    ends: 3:10
     type: betting
 #      - id: the_starry_space_reaching_the_gods
 #        title: "The Starry Space Reaching the Gods"
@@ -21,6 +22,7 @@ songs:
   - id: labyrinth_of_touhou
     title: "Labyrinth of Touhou"
     path: "Labyrinth of Touhou.brstm"
+    ends: 2:05
     type: betting
   - id: battle_b_celluloid
     title: "Celluloid (Battle B)"

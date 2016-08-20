@@ -8,6 +8,7 @@ songs:
   - id: anything_but_tangerines
     title: "Anything but Tangerines"
     path: "Anything but Tangerines.brstm"
+    ends: 2:10
     type: betting
 #      - id: game_show_ej2
 #        title: "Game Show"
@@ -17,10 +18,12 @@ songs:
   - id: lorenzens_soil
     title: "Lorenzen's Soil"
     path: "Lorenzen's Soil.brstm"
+    ends: 3:00
     type: betting
   - id: flying_king
     title: "The Flying King"
     path: "The Flying King.brstm"
+    ends: 2:20
     type: betting
   - id: continue_ej2
     title: "Continue"
