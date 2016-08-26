@@ -1,9 +1,9 @@
 ---
 id: knuckles_chaotix
-title: "Knuckles Chaotix"
+title: "Knuckles' Chaotix"
 series: sonic
-year: 1996
-platform: "S32X"
+year: 1995
+platform: "32X"
 songs:
   - id: soda_pop
     title: "Soda Pop"
@@ -16,18 +16,22 @@ songs:
   - id: door_into_summer_kc
     title: "Door Into Summer"
     path: "Door Into Summer.vgz"
+    ends: 2:22
     type: betting
   - id: electoria
     title: "Electoria"
     path: "Electoria.vgz"
+    ends: 2:02
     type: betting
   - id: evening_star
     title: "Evening Star"
     path: "Evening Star.vgz"
+    ends: 1:55
     type: betting
   - id: hyper_hyper
     title: "Hyper-Hyper"
     path: "Hyper-Hyper.vgz"
+    ends: 1:30
     type: betting
   - id: midnight_greenhouse
     title: "Midnight Greenhouse"
@@ -36,11 +40,12 @@ songs:
   - id: speed_of_sound
     title: "Speed of Sound"
     path: "Speed of Sound.vgz"
+    ends: 2:08
     type: betting
   - id: walkin_kc
     title: "Walkin"
     path: "Walkin.vgz"
-    type: betting
+    type: result
 #      - id: electoria_beta
 #        title: "Electoria (Beta)"
 #        path: "Electoria (Beta).brstm"

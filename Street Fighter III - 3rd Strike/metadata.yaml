@@ -5,11 +5,10 @@ title: "Street Fighter III: 3rd Strike"
 series: streetfighter
 year: 1999
 songs:
-#      - id: crazy_chili_dog_arranged
-#        path: "Crazy Chili Dog (Arranged).brstm"
-#        title: "Crazy Chili Dog (Arranged)"
-#        type: battle
-# no remixes allowed
+  - id: crazy_chili_dog_arranged
+    path: "Crazy Chili Dog (Arranged).brstm"
+    title: "Crazy Chili Dog (Arranged)"
+    type: battle
   - id: theme_of_q
     path: "Theme of Q.brstm"
     title: "Theme of Q"

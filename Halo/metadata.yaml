@@ -2,10 +2,10 @@
 id: halo
 title: "Halo"
 year: 2001
-platform: "Xbox"
+platform: "Xbox, PC"
 songs:
   - id: 03_-_brothers_in_arms
-    title: "03 - Brothers in Arms"
+    title: "Brothers in Arms"
     path: "03 - Brothers in Arms.brstm"
     type: warning
 ...

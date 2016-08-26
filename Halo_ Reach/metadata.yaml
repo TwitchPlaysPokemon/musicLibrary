@@ -1,5 +1,5 @@
 id: halo_reach
-title: "Halo 2"
+title: "Halo: Reach"
 platform: "360"
 year: 2010
 songs:
@@ -8,6 +8,7 @@ songs:
     path: "Reach Overture (Swift, Strong, Brave).brstm"
     type: betting
   - id: both_ways_haloreach
-    title: "Both Ways"
+    title: "Uphill, Both Ways"
     path: "Both Ways.brstm"
+    ends: 2:08
     type: betting
