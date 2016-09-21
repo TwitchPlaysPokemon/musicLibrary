@@ -1,0 +1,28 @@
+id: hotline_miami_2_wrong_number
+title: "Hotline Miami 2: Wrong Number"
+year: 2015
+series: hotlinemiami
+platform: "PC"
+songs:
+  - id: divide_hm2
+    title: "Divide"
+    path: "Divide.brstm"
+    type: betting
+  - id: frantic_aerobics
+    title: "Frantic Aerobics"
+    path: "Frantic Aerobics.brstm"
+    type: result
+  - id: guided_meditation
+    title: "Guided Meditation"
+    path: "Guided Meditation.brstm"
+    type: break
+  - id: new_wave_hookers
+    title: "New Wave Hookers"
+    path: "New Wave Hookers.brstm"
+    ends: 3:15
+    type: betting
+  - id: the_winding_theme_1
+    title: "The Winding Theme #1"
+    path: "The Winding Theme #1.brstm"
+    ends: 3:02
+    type: betting

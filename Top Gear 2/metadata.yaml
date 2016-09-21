@@ -1,0 +1,27 @@
+id: top_gear_2
+title: "Top Gear 2"
+year: 1993
+platform: "SNES"
+songs:
+  - id: title_tg2
+    title: "Title"
+    path: "Title.brstm"
+    type: betting
+  - id: track_1_tg2
+    title: "Track 1"
+    path: "Track 1.brstm"
+    ends: 2:51
+    type: betting
+  - id: track_2_tg2
+    title: "Track 2"
+    path: "Track 2.brstm"
+    ends: 2:12
+    type: betting
+  - id: track_3_tg2
+    title: "Track 3"
+    path: "Track 3.brstm"
+    type: betting
+  - id: result_tg2
+    title: "Result"
+    path: "Results.brstm"
+    type: result

@@ -1,0 +1,14 @@
+id: monster_hunter_freedom_unite
+title: "Monster Hunter Freedom Unite"
+year: 2008
+series: monsterhunter
+platform: "PSP"
+songs:
+  - id: nargacuga
+    title: "Nargacuga ~ Red Afterglow Running in the Darkness"
+    path: "Nargacuga ~ Red Afterglow Running in the Darkness.brstm"
+    type: battle
+  - id: ukanlos_absolute_zero
+    title: "Ukanlos ~ Absolute Zero"
+    path: "Ukanlos ~ Absolute Zero.brstm"
+    type: warning

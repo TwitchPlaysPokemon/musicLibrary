@@ -9,11 +9,11 @@ songs:
     path: "Muda Kingdom (World 2).brstm"
     title: "Muda Kingdom (World 2)"
     type: betting
-#      - id: chai_kingdom
-#        path: "Chai Kingdom (World 4).brstm"
-#        title: "Chai Kingdom (World 4)"
-#        type: betting
-# too short of a loop
+  - id: chai_kingdom
+    path: "Chai Kingdom (World 4).brstm"
+    title: "Chai Kingdom (World 4)"
+    ends: 1:40
+    type: betting
   - id: ending_credits_sml
     path: "Ending & Credits.brstm"
     title: "Ending & Credits"

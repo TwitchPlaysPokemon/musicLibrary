@@ -1,0 +1,25 @@
+id: zero_escape_virtue_last_reward
+title: "Zero Escape: Virtue's Last Reward"
+year: 2012
+platform: ["3DS", "Vita"]
+songs: 
+  - id: ambidexterity
+    title: "Ambidexterity"
+    path: "Ambidexterity.brstm"
+    type: warning
+  - id: biotope
+    title: "Biotope"
+    path: "Biotope.brstm"
+    type: betting
+  - id: blue_bird_lamentation
+    title: "Blue Bird Lamentation"
+    path: "Blue Bird Lamentation.brstm"
+    type: break
+  - id: demise_zero_escape
+    title: "Demise"
+    path: "Demise.brstm"
+    type: betting
+  - id: divulgation
+    title: "Divulgation"
+    path: "Divulgation.brstm"
+    type: betting

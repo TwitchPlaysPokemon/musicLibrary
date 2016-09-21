@@ -9,4 +9,8 @@ songs:
     path: "Battle! Wild Pokemon.brstm"
     title: "Battle! Wild Pokémon"
     type: battle
+  - id: overworld_map_pokemon_go
+    path: "Overworld Map.brstm"
+    title: "Overworld Map"
+    type: betting
 ...

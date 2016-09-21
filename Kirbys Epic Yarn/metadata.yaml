@@ -45,4 +45,20 @@ songs:
     title: "Dusk Dunes"
     path: "Dusk Dunes.brstm"
     type: betting
+  - id: apt_102_epicyarn
+    title: "Apt. 102"
+    path: "Apt. 102.brstm"
+    type: break
+  - id: gourment_race_epicyarn
+    title: "Gourmet Race"
+    path: "Gourmet Race.brstm"
+    type: betting
+  - id: tankbot_epicyarn
+    title: "Tankbot"
+    path: "Tankbot.brstm"
+    type: warning
+  - id: vs_cracko_epicyarn
+    title: "Vs. Kracko"
+    path: "Vs. Kracko.brstm"
+    type: warning
 ...

@@ -1,0 +1,33 @@
+id: tokyo_mirage_sessions_fe
+title: "Tokyo Mirage Sessions ♯FE"
+year: 2016
+platform: "Wii U"
+songs: 
+  - id: medius_battle_phase_1
+    title: "Medius Battle (Phase 1)"
+    path: "Medius Battle (Phase 1).brstm"
+    type: warning
+  - id: medius_battle_phase_2
+    title: "Medius Battle (Phase 2)"
+    path: "Medius Battle (Phase 2).brstm"
+    type: battle
+  - id: normal_battle_tokyo_mirage
+    title: "Normal Battle"
+    path: "Normal Battle.brstm"
+    type: battle
+  - id: event_battle_tokyo_mirage
+    title: "Event Battle"
+    path: "Event Battle.brstm"
+    type: betting
+  - id: extra_battle_tokyo_mirage
+    title: "Extra Battle"
+    path: "Extra Battle.brstm"
+    type: betting
+  - id: chiki_beastiegame_instrumental
+    title: "Chiki - BeastieGame (Instrumental)"
+    path: "Chiki - BeastieGame Instrumental.brstm"
+    type: betting
+  - id: urahara_tokyo_mirage
+    title: "Urahara"
+    path: "Urahara.brstm"
+    type: betting

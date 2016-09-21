@@ -56,10 +56,10 @@ songs:
     title: "Pre-Song - Intension"
     path: "09 - Round 4-1 - Pre-Song - Intension.vgz"
     type: break
-  - id: next_cruise
-    title: "Next Cruise"
-    path: "32 - Ending 2 - Next Cruise.vgz"
-    type: break
+#  - id: next_cruise
+#    title: "Next Cruise"
+#    path: "32 - Ending 2 - Next Cruise.vgz"
+#    type: break # too short, does not loop
   - id: go_ahead_ristar
     title: "Go Ahead"
     path: "26 - Act Clear - Go Ahead.vgz"

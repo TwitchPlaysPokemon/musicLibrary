@@ -2,6 +2,7 @@
 id: hotline_miami
 title: "Hotline Miami"
 year: 2012
+series: hotlinemiami
 platform: "PC"
 songs:
   - id: crystals
@@ -18,5 +19,9 @@ songs:
     title: "Miami Disco"
     path: "Miami Disco.brstm"
     ends: 3:15
+    type: betting
+  - id: vengeance_miami
+    title: "Vengeance"
+    path: "Vengeance.brstm"
     type: betting
 ...

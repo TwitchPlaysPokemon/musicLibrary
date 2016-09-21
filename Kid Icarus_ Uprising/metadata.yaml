@@ -24,4 +24,28 @@ songs:
     title: "Chapter 18: Little Girl's Theme"
     path: "Chapter 18 - Little Girl's Theme.brstm"
     type: break
+  - id: chapter_8_in_the_space_pirate_ship
+    title: "Chapter 8: In the Space-Pirate Ship"
+    path: "Chapter 8_ In the Space-Pirate Ship.brstm"
+    type: result
+  - id: chapter_12_wrath_of_the_reset_bomb
+    title: "Chapter 12_ Wrath of the Reset Bomb"
+    path: "Chapter 12_ Wrath of the Reset Bomb (Looped).brstm"
+    type: warning
+  - id: chapter_1_the_return_of_palutena_part_1
+    title: "Chapter 1: The Return of Palutena (Part 1)"
+    path: "Chapter 1_ The Return of Palutena (Part 1).brstm"
+    type: result
+  - id: chapter_5_pandora_labyrinth_part_1
+    title: "Chapter 5: Pandora's Labyrinth of Deceit (Part 1)"
+    path: "Chapter 5_ Pandora's Labyrinth of Deceit (Part 1).brstm"
+    type: warning
+  - id: vault_menu
+    title: "Vault Menu"
+    path: "Vault Menu.brstm"
+    type: break
+  - id: mangus_theme
+    title: "Magnus's Theme"
+    path: "Magnus's Theme.brstm"
+    type: warning
 ...

@@ -1,0 +1,34 @@
+id: street_fighter_v
+platform: ["PC", "PS4"]
+title: "Street Fighter V"
+series: streetfighter
+year: 2016
+songs:
+  - id: theme_of_guile_sfv
+    title: "Theme of Guile"
+    path: "Theme of Guile.brstm"
+    type: betting
+  - id: character_select_sfv
+    title: "Character Select"
+    path: "Character Select.brstm"
+    type: betting
+  - id: theme_of_chun_li_sfv
+    title: "Theme of Chun-Li"
+    path: "Theme of Chun-Li.brstm"
+    type: battle
+  - id: theme_of_fang_sfv
+    title: "Theme of F.A.N.G"
+    path: "Theme of F.A.N.G.brstm"
+    type: betting
+  - id: theme_of_rashid_sfv
+    title: "Theme of Rashid"
+    path: "Theme of Rashid.brstm"
+    type: betting
+  - id: theme_of_ken_sfv
+    title: "Theme of Ken"
+    path: "Theme of Ken.brstm"
+    type: battle
+  - id: theme_of_ryu_sfv
+    title: "Theme of Ryu"
+    path: "Theme of Ryu.brstm"
+    type: battle

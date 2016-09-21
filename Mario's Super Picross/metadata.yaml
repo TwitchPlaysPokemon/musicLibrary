@@ -1,0 +1,9 @@
+id: marios_super_picross
+title: "Mario's Super Picross"
+platform: "SNES"
+year: 1995
+songs:
+  - id: wario_puzzle_1
+    title: "Wario Puzzle 1"
+    path: "Wario Puzzle 1.brstm"
+    type: break

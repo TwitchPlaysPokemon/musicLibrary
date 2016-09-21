@@ -44,4 +44,24 @@ songs:
     title: "Friendship - Furious"
     path: "Friendship - Furious.brstm"
     type: warning
+  - id: vacation_usa
+    title: "Vacation - USA"
+    path: "Vacation - USA.brstm"
+    type: break
+  - id: city_hall_tomodachi
+    title: "City Hall"
+    path: "City Hall.brstm"
+    type: betting
+  - id: level_up_tomodachi
+    title: "Level Up"
+    path: "Level Up.brstm"
+    type: result
+  - id: mii_homes_noon
+    title: "Mii Homes - Noon"
+    path: "Mii Homes - Noon.brstm"
+    type: break
+  - id: mii_homes_normal
+    title: "Mii Homes - Normal"
+    path: "Mii Homes - Normal.brstm"
+    type: break
 ...

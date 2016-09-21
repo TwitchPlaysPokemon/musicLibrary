@@ -25,10 +25,6 @@ songs:
     path: "Aspertia City Gym.mini2sf"
     title: "Aspertia City Gym"
     type: betting
-  - id: vs_movepoke
-    path: "Battle! Unova Legendary Pokemon.mini2sf"
-    title: "Battle! Unova Legendary Pokémon"
-    type: battle
   - id: bgm_winwbt
     path: "Victory in the PWT!.mini2sf"
     title: "Victory in the PWT!"
@@ -132,14 +128,6 @@ songs:
   - id: vs_achroma
     path: "Battle! Colress.mini2sf"
     title: "Battle! Colress"
-    type: battle
-  - id: vs_trainer_s
-    path: "Battle! Trainer.mini2sf"
-    title: "Battle! Trainer"
-    type: battle
-  - id: vs_trainer_m
-    path: "156 SEQ_BGM_VS_TRAINER_M (0489).mini2sf"
-    title: "Battle! Trainer"
     type: battle
   - id: vs_shitenno
     path: "Battle! Elite Four.mini2sf"
@@ -293,4 +281,44 @@ songs:
     path: "Encounter! Youngster.mini2sf"
     title: "Encounter! Youngster"
     type: warning
+  - id: route_23_bw2
+    path: "Route 23.brstm"
+    title: "Route 23"
+    type: betting
+  - id: route_19_fall_bw2
+    path: "Route 19 - Fall.brstm"
+    title: "Route 19 - Fall"
+    type: betting
+  - id: pokestar_studios_filming_bw2
+    path: "Pokestar Studios - Filming.brstm"
+    title: "Pokéstar Studios - Filming"
+    type: break
+  - id: aspetia_city_bw2
+    path: "Aspertia City.brstm"
+    title: "Aspertia City"
+    type: break
+  - id: route_22_summer_bw2
+    path: "Route 22 - Summer.brstm"
+    title: "Route 22 - Summer"
+    type: betting
+  - id: floccesy_ranch_bw2
+    path: "Floccesy Ranch.brstm"
+    title: "Floccesy Ranch"
+    type: betting
+  - id: humilau_city_bw2
+    path: "Humilau City.brstm"
+    title: "Humilau City"
+    type: betting
+  - id: virbank_city_bw2
+    path: "Virbank City.brstm"
+    title: "Virbank City"
+    type: break
+  - id: flocessy_town_bw2
+    path: "Floccesy Town.brstm"
+    title: "Floccesy Town"
+    type: break
+  - id: lentimas_town_bw2
+    path: "Lentimas Town.brstm"
+    title: "Lentimas Town"
+    type: betting
 ...

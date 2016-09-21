@@ -18,7 +18,7 @@ songs:
     path: "Let's Live in a Lovely Cemetery.brstm"
     ends: 2:04
     type: betting
-  - id: night_sakura_of_dead_spirits
+  - id: night_sakura_of_dead_spirits_ten_desires
     title: "Night Sakura of Dead Spirits"
     path: "Night Sakura of Dead Spirits.brstm"
     type: betting
@@ -30,3 +30,20 @@ songs:
     title: "Old Distant Hermit (Gu Yuan Xian)"
     path: "Old Distant Hermit (Gu Yuan Xian).brstm"
     type: battle
+  - id: a_small_desires_starry_sky
+    title: "A Small Desire's Starry Sky"
+    path: "A Small Desire's Starry Sky.brstm"
+    ends: 2:06
+    type: betting
+  - id: shoutoku_legend_true_administrator_ten_desires
+    title: "Miko's Theme: Shoutoku Legend ~ True Administrator"
+    path: "Miko's Theme - Shoutoku Legend ~ True Administrator.brstm"
+    type: battle
+  - id: futatsuiwa_from_sado_td
+    title: "Mamizou's Theme: Futatsuiwa from Sado"
+    path: "Mamizou's Theme - Futatsuiwa from Sado.brstm"
+    type: warning
+  - id: night_sakura_of_dead_spirits
+    path: "Night Sakura of Dead Spirits.brstm"
+    title: "Night Sakura of Dead Spirits"
+    type: betting

@@ -11,3 +11,12 @@ songs:
     title: "Heavy Price Paid"
     path: "Heavy Price Paid.brstm"
     type: break
+  - id: epilogue_halo2
+    title: "Epilogue"
+    path: "Epilogue.brstm"
+    type: break
+  - id: peril_halo2
+    title: "Peril"
+    path: "Peril.brstm"
+    ends: 2:43
+    type: betting

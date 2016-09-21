@@ -1,0 +1,26 @@
+id: rabi_ribi
+title: "Rabi-Ribi"
+year: 2016
+platform: "PC"
+songs: 
+  - id: boss_battle_3_rabiribi
+    title: "Boss Battle #3 / Hi-Tech Duel"
+    path: "Boss Battle #3.brstm"
+    type: battle
+  - id: boss_battle_6_rabiribi
+    title: "Boss Battle #6 / Full On Combat"
+    path: "Boss Battle #6.brstm"
+    type: battle
+  - id: boss_battle_7_rabiribi
+    title: "Boss Battle #7 / Sudden Death"
+    path: "Boss Battle #7.brstm"
+    type: battle
+  - id: final_boss_battle_2_rabiribi
+    title: "Final Boss Battle #2 / No Remorse"
+    path: "Final Boss Battle #2.brstm"
+    type: battle
+  - id: natural_aquarium
+    title: "Natural Aquarium"
+    path: "Natural Aquarium.brstm"
+    ends: 2:18
+    type: betting

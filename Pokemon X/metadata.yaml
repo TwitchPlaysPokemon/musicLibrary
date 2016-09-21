@@ -403,4 +403,16 @@ songs:
     title: "Battle! Mewtwo"
     path: "Battle! Mewtwo.brstm"
     type: battle
+  - id: az
+    title: "AZ"
+    path: "AZ.brstm"
+    type: break
+  - id: riding_skiddo
+    title: "Riding Skiddo"
+    path: "Riding Skiddo.brstm"
+    type: result
+  - id: tile_puzzle_xy
+    title: "Tile Puzzle"
+    path: "Tile Puzzle.brstm"
+    type: result
 ...

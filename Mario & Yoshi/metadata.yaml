@@ -1,0 +1,17 @@
+id: mario_and_yoshi
+platform: "GB"
+title: "Mario & Yoshi"
+year: 1991
+songs: 
+  - id: fire_flower_yoshi
+    path: "Fire Flower.brstm"
+    title: "Fire Flower"
+    type: break
+  - id: star_yoshi
+    path: "Star.brstm"
+    title: "Star"
+    type: result
+  - id: 2p_set_over
+    path: "2-Player Set Over.brstm"
+    title: "2-Player Set Over"
+    type: betting

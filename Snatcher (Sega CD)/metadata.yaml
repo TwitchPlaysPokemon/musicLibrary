@@ -1,0 +1,9 @@
+id: snatcher_sega_cd
+title: "Snatcher"
+year: 1994
+platform: "Sega CD"
+songs:
+  - id: pleasure_of_tension
+    title: "Pleasure of Tension"
+    path: "Pleasure of Tension.brstm"
+    type: warning

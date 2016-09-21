@@ -9,10 +9,6 @@ songs:
     title: "Extra Map"
     path: "Extra Map.brstm"
     type: betting
-  - id: the_devoted
-    title: "The Devoted"
-    path: "The Devoted.brstm"
-    type: battle
   - id: stalwarts_unite
     title: "Stalwarts Unite"
     path: "Stalwarts Unite.brstm"
@@ -21,10 +17,6 @@ songs:
     title: "Ideals Clash"
     path: "Ideals Clash.brstm"
     type: warning
-  - id: eternal_bond
-    title: "Eternal Bond"
-    path: "Eternal Bond.brstm"
-    type: betting
   - id: wheeling_corby
     title: "Wheeling Corby"
     path: "Wheeling Corby.brstm"

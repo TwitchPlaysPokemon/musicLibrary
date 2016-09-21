@@ -7,3 +7,11 @@ songs:
     title: "Sunken Scrolls"
     path: "Sunken Scrolls.brstm"
     type: break
+  - id: inkopolis_news
+    title: "Inkopolis News"
+    path: "Inkopolis News.brstm"
+    type: warning
+  - id: octoling_rendezvous
+    title: "Octoling Rendezvous (Battle Beat)"
+    path: "Octoling Rendezvous (Battle Beat).brstm"
+    type: warning

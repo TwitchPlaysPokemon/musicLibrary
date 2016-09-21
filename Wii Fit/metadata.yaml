@@ -7,3 +7,15 @@ songs:
     title: "Results (Failure)"
     path: "Result_D02.g.44.c4.brstm"
     type: result
+  - id: training_start_wiifit
+    title: "Training Start"
+    path: "Training_start.g.32.c4.brstm"
+    type: result
+  - id: shape_up_new
+    title: "Shape Up"
+    path: "ShapeUp_New.brstm"
+    type: betting
+  - id: result_ver_a
+    title: "Result ver. A"
+    path: "Result_A.brstm"
+    type: result

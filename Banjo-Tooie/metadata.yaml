@@ -37,4 +37,56 @@ songs:
     title: "Jolly Roger's Lagoon - Atlantis"
     path: "Jolly Roger's Lagoon - Atlantis.brstm"
     type: break
+  - id: chilli_billi_chilly_willy
+    title: "Chilli Billi and Chilly Willy Battle"
+    path: "Chilli Billi and Chilly Willy Battle.brstm"
+    type: battle
+  - id: cloud_cuckooland_cloud_race
+    title: "Cloud Cuckooland - Cloud Race"
+    path: "Cloud Cuckooland - Cloud Race.brstm"
+    type: warning
+  - id: lord_woo_fak_fak
+    title: "Lord Woo Fak Fak - Self-Important Anglerfish"
+    path: "Lord Woo Fak Fak - Self-Important Anglerfish.brstm"
+    type: warning
+  - id: mingy_jongo
+    title: "Mingy Jongo - Crafty Shaman Impersonator"
+    path: "Mingy Jongo - Crafty Shaman Impersonator.brstm"
+    type: warning
+  - id: mr_patch_banjo
+    title: "Mr. Patch - Strange Wobbly Inflatable Thing"
+    path: "Mr. Patch - Strange Wobbly Inflatable Thing.brstm"
+    type: warning
+  - id: old_king_coal
+    title: "Old King Coal - Grubby Boiler Monarch"
+    path: "Old King Coal - Grubby Boiler Monarch.brstm"
+    type: warning
+  - id: pause_screen_tooie
+    title: "Pause Screen"
+    path: "Pause Screen.brstm"
+    type: break
+  - id: shootin_with_the_fishes
+    title: "Shootin' with the Fishes"
+    path: "Shootin' with the Fishes.brstm"
+    type: warning
+  - id: targitzan
+    title: "Targitzan - Despotic Dizzy Totem God"
+    path: "Targitzan - Despotic Dizzy Totem God.brstm"
+    type: warning
+  - id: terry_disgrunted_pterodactyl_parent
+    title: "Terry - Disgruntled Pterodactyl Parent"
+    path: "Terry - Disgruntled Pterodactyl Parent.brstm"
+    type: warning
+  - id: tower_of_tragedy_tooie
+    title: "Tower of Tragedy"
+    path: "Tower of Tragedy.brstm"
+    type: result
+  - id: weldar
+    title: "Weldar - Visually-Impaired Welding Torch"
+    path: "Weldar - Visually-Impaired Welding Torch.brstm"
+    type: warning
+  - id: racin_with_mary
+    title: "Glitter Gulch Mine - Racin' With Mary"
+    path: "Glitter Gulch Mine - Racin' With Mary.brstm"
+    type: warning
 ...

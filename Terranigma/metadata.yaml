@@ -1,0 +1,53 @@
+id: terranigma
+title: "Terranigma"
+platform: "SNES"
+year: 1995
+songs:
+  - id: a_place_to_return_to
+    title: "A Place to Return to"
+    path: "A Place to Return to.brstm"
+    type: break
+  - id: the_departure
+    title: "The Departure"
+    path: "The Departure.brstm"
+    type: betting
+  - id: the_trials
+    title: "The Trials"
+    path: "The Trials.brstm"
+    type: betting
+  - id: further_into_the_wide_world
+    title: "Further into the Wide World"
+    path: "Further into the Wide World.brstm"
+    type: betting
+  - id: zue
+    title: "Zue"
+    path: "Zue.brstm"
+    type: betting
+  - id: lhasa
+    title: "Lhasa"
+    path: "Lhasa.brstm"
+    type: betting
+  - id: fight_against_powerful_enemies
+    title: "Fight Against Powerful Enemies"
+    path: "Fight Against Powerful Enemies.brstm"
+    type: battle
+  - id: the_willful_lion
+    title: "The Willful Lion"
+    path: "The Willful Lion.brstm"
+    type: result
+  - id: under_the_ground_of_the_giant_tree
+    title: "Under the Ground of the Giant Tree"
+    path: "Under the Ground of the Giant Tree.brstm"
+    type: warning
+  - id: evergreen
+    title: "Evergreen"
+    path: "Evergreen.brstm"
+    type: break
+  - id: sanctuary_terranigma
+    title: "Sanctuary"
+    path: "Sanctuary.brstm"
+    type: betting
+  - id: town_terranigma
+    title: "Town"
+    path: "Town.brstm"
+    type: betting

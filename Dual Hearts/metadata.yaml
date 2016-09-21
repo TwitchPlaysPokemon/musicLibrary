@@ -1,0 +1,13 @@
+id: dual_hearts
+title: "Dual Hearts"
+year: 2002
+platform: "PS2"
+songs:
+  - id: emmas_dream
+    title: "Emma's Dream"
+    path: "Emma's Dream.brstm"
+    type: betting
+  - id: lilians_dream_2
+    title: "Lilian's Dream 2"
+    path: "Lilian's Dream 2.brstm"
+    type: result

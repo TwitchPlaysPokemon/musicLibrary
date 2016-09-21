@@ -1,0 +1,9 @@
+id: super_bomberman
+title: "Super Bomberman"
+platform: "SNES"
+year: 1993
+songs:
+  - id: super_bomberman_boss
+    title: "Boss"
+    path: "Boss.brstm"
+    type: warning

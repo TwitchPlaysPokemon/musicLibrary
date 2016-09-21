@@ -1,0 +1,59 @@
+id: etrian_odyssey_ii_heroes_of_lagaard
+title: "Etrian Odyssey II: Heroes of Lagaard"
+year: 2008
+platform: "DS"
+songs:
+  - id: vast_lands_spreading_in_the_north_pc88
+    title: "Town ~ Vast Lands Spreading in the North (PC-88)"
+    path: "Town ~ Vast Lands Spreading in the North (PC-88).brstm"
+    type: break
+  - id: the_wind_doesnt_draw_heroes_pc88
+    title: "Town ~ The Wind Doesn't Draw Heroes (PC-88)"
+    path: "Town ~ The Wind Doesn't Draw Heroes (PC-88).brstm"
+    type: betting
+  - id: woodland_ruins_pc88
+    title: "Labyrinth I ~ Woodland Ruins (PC-88)"
+    path: "Labyrinth I ~ Woodland Ruins (PC-88).brstm"
+    ends: 3:00
+    type: betting
+  - id: ever_scarlet_forest_pc88
+    title: "Labyrinth II ~ Ever-Scarlet Forest (PC-88)"
+    path: "Labyrinth II ~ Ever-Scarlet Forest (PC-88).brstm"
+    ends: 2:13
+    type: betting
+  - id: woodland_of_frozen_flowers_pc88
+    title: "Labyrinth III ~ Woodland of Frozen Flowers (PC-88)"
+    path: "Labyrinth III ~ Woodland of Frozen Flowers (PC-88).brstm"
+    ends: 3:24
+    type: betting
+  - id: cherry_tree_bridge_pc88
+    title: "Labyrinth IV ~ Cherry Tree Bridge (PC-88)"
+    path: "Labyrinth IV ~ Cherry Tree Bridge (PC-88).brstm"
+    ends: 2:45
+    type: betting
+  - id: heavens_rock_seat_pc88
+    title: "Labyrinth V ~ Heavens' Rock Seat (PC-88)"
+    path: "Labyrinth V ~ Heavens' Rock Seat (PC-88).brstm"
+    ends: 2:15
+    type: betting
+  - id: forbidden_forest_pc88
+    title: "Labyrinth VI ~ Forbidden Forest (PC-88)"
+    path: "Labyrinth VI ~ Forbidden Forest (PC-88).brstm"
+    ends: 2:36
+    type: betting
+  - id: the_first_campaign_hol_pc88
+    title: "Battlefield ~ The First Campaign (PC-88)"
+    path: "Battlefield ~ The First Campaign (PC-88).brstm"
+    type: battle
+  - id: guardians_of_the_sorrowful_ice_pc88
+    title: "Battlefield ~ Guardians of the Sorrowful Ice (PC-88)"
+    path: "Battlefield ~ Guardians of the Sorrowful Ice (PC-88).brstm"
+    type: warning
+  - id: fresh_blood_and_darkness_pc88
+    title: "Scene ~ Fresh Blood and Darkness (PC-88)"
+    path: "Scene ~ Fresh Blood and Darkness (PC-88).brstm"
+    type: warning
+  - id: azure_and_silver_pc88
+    title: "Scene ~ Azure and Silver (PC-88)"
+    path: "Scene ~ Azure and Silver (PC-88).brstm"
+    type: break

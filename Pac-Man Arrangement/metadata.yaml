@@ -12,4 +12,8 @@ songs:
     path: "World 0_ Toy Box World (CD Version).brstm"
     title: "World 0: Toy Box World (CD Version)"
     type: betting
+  - id: introduction_pacman
+    path: "Introduction.brstm"
+    title: "Introduction"
+    type: result
 ...

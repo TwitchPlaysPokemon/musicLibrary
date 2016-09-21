@@ -21,4 +21,20 @@ songs:
     title: "Minor Circuit Theme"
     path: "Minor Circuit Theme.brstm"
     type: betting
+  - id: bear_hugger
+    title: "Bear Hugger"
+    path: "Bear Hugger.brstm"
+    type: warning
+  - id: glass_joe
+    title: "Glass Joe"
+    path: "Glass Joe.brstm"
+    type: break
+  - id: great_tiger_punchout
+    title: "Great Tiger"
+    path: "Great Tiger.brstm"
+    type: warning
+  - id: von_kaiser_punchout
+    title: "Von Kaiser"
+    path: "Von Kaiser.brstm"
+    type: warning
 ...

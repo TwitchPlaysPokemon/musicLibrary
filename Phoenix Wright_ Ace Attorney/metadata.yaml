@@ -1,32 +1,32 @@
 ---
 id: phoenix_wright_ace_attorney
-platform: "NDS"
+platform: ["GBA", "DS", "WiiWare"]
 title: "Phoenix Wright: Ace Attorney"
 series: aceattorney
 year: 2001
 songs: 
   - id: dick_gumshoe_its_detective_gumshoe
-    path: "Dick Gumshoe ~ It's Detective Gumshoe.mini2sf"
+    path: "Dick Gumshoe ~ It's Detective Gumshoe.brstm"
     title: "Dick Gumshoe ~ It's Detective Gumshoe"
     type: warning
   - id: pursuit_cornered
-    path: "Pursuit ~ Cornered.mini2sf"
+    path: "Pursuit ~ Cornered.brstm"
     title: "Pursuit ~ Cornered"
     type: warning
   - id: pw1_wandering_detective
-    path: "Jake Marshall ~ Wandering Detective From the Wild West.mini2sf"
+    path: "Jake Marshall ~ Wandering Detective From the Wild West.brstm"
     title: "Jake Marshall ~ Wandering Detective From the Wild West"
     type: betting
   - id: telling_the_truth_2001
-    path: "Telling the Truth 2001.mini2sf"
+    path: "Telling the Truth 2001.brstm"
     title: "Telling the Truth 2001"
     type: warning
   - id: recollection_elementary_school_trial
-    path: "Recollection ~ Elementary School Trial.mini2sf"
-    title: "Recollection ~ Elementary School Trial"
+    path: "Recollection ~ Elementary School Trial.brstm"
+    title: "Recollection ~ School Trial"
     type: warning
   - id: trial
-    path: "Trial.mini2sf"
+    path: "Trial.brstm"
     title: "Trial"
     type: betting
   - id: damon_gant_swimming_anyone
@@ -35,7 +35,7 @@ songs:
     type: betting
   - id: detention_center_guard_elegy
     path: "Detention Center ~ Guard's Elegy.brstm"
-    title: "Detention Center ~ Guard's Elegy"
+    title: "Detention Center ~ Jailers' Elegy"
     type: break
   - id: ema_skye_turnabout_sisters_theme_2005
     path: "Ema Skye ~ Turnabout Sisters' Theme 2005.brstm"

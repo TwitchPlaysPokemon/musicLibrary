@@ -1,0 +1,13 @@
+id: digimon_world_4
+title: "Digimon World 4"
+platform: "GCN+PS2+Xbox"
+year: 2005
+songs:
+  - id: death_valley
+    title: "Death Valley"
+    path: "Death Valley.brstm"
+    type: betting
+  - id: save_menu_dw4
+    title: "Save Menu"
+    path: "Save Menu.brstm"
+    type: break

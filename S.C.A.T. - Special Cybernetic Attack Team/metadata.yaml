@@ -1,0 +1,17 @@
+id: scat_special_cybernetic_attack_team
+title: "S.C.A.T.: Special Cybernetic Attack Team"
+year: 1990
+platform: "NES"
+songs:
+  - id: new_york_city_ruins
+    title: "New York City Ruins"
+    path: "New York City Ruins.brstm"
+    type: betting
+  - id: prologue_scat
+    title: "Prologue"
+    path: "Prologue.brstm"
+    type: warning
+  - id: the_orbiting_platform
+    title: "The Orbiting Platform"
+    path: "The Orbiting Platform.brstm"
+    type: warning

@@ -1,0 +1,28 @@
+id: touhou_gensokyou_lotus_land_story
+title: "Touhou Gensokyou ~ Lotus Land Story"
+year: 1998
+series: touhou
+platform: "PC-98"
+songs:
+  - id: sleeping_terror_touhou_lotus_land
+    title: "Sleeping Terror"
+    path: "Sleeping Terror.brstm"
+    type: battle
+  - id: witching_dream
+    title: "Witching Dream"
+    path: "Witching Dream.brstm"
+    ends: 2:10
+    type: betting
+    type: betting
+  - id: selenes_light
+    title: "Selene's Light"
+    path: "Selene's Light.brstm"
+    type: result
+  - id: maidens_capriccio_lls
+    title: "Reimu's Theme: Maiden's Capriccio"
+    path: "Reimu's Theme - Maiden's Capriccio.brstm"
+    type: warning
+  - id: vessel_of_stars_casket_of_star_lls
+    title: "Marisa's Theme: Vessel of Stars ~ Casket of Star"
+    path: "Marisa's Theme - Vessel of Star ~ Casket of Star.brstm"
+    type: warning

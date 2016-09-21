@@ -9,4 +9,20 @@ songs:
     title: "Theme of Solid Snake"
     path: "Theme of Solid Snake.brstm"
     type: betting
+  - id: killers_mg2ss
+    title: "Killers"
+    path: "Killers.brstm"
+    type: warning
+  - id: level_3_warning
+    title: "Level 3 Warning"
+    path: "Level 3 Warning.brstm"
+    type: warning
+  - id: level_1_warning
+    title: "Level 1 Warning"
+    path: "Level 1 Warning.brstm"
+    type: warning
+  - id: zanzibar_breeze
+    title: "Zanzibar Breeze"
+    path: "Zanzibar Breeze.brstm"
+    type: warning
 ...

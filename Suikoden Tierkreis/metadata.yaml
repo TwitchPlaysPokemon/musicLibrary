@@ -1,0 +1,29 @@
+id: suikoden_tierkreis
+title: "Suikoden Tierkreis"
+year: 2008
+platform: "NDS"
+songs:
+  - id: the_fort_where_the_stars_gather
+    title: "The Fort Where the Stars Gather"
+    path: "The Fort Where the Stars Gather.brstm"
+    type: betting
+  - id: mining_village
+    title: "Mining Village"
+    path: "Mining Village.brstm"
+    type: betting
+  - id: sally_beacon
+    title: "Sally Beacon~"
+    path: "Sally Beacon~.brstm"
+    type: betting
+  - id: rushing_into_battle
+    title: "Rushing into Battle!"
+    path: "Rushing into Battle!.brstm"
+    type: battle
+  - id: clash_with_the_librarian
+    title: "Clash with the Librarian"
+    path: "Clash with the Librarian.brstm"
+    type: battle
+  - id: victory_pose
+    title: "Victory Pose!"
+    path: "Victory Pose!.brstm"
+    type: result

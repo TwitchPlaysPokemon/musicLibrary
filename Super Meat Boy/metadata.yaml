@@ -1,0 +1,21 @@
+id: super_meat_boy
+title: "Super Meat Boy"
+platform: "Various"
+year: 2010
+songs: 
+  - id: betus_blues
+    title: "Betus Blues"
+    path: "Betus Blues.brstm"
+    type: betting
+  - id: can_o_salt
+    title: "Can o' Salt"
+    path: "Can o' Salt.brstm"
+    type: betting
+  - id: forest_funk
+    title: "Forest Funk"
+    path: "Forest Funk.brstm"
+    type: betting
+  - id: hot_damned
+    title: "Hot Damned"
+    path: "Hot Damned.brstm"
+    type: battle

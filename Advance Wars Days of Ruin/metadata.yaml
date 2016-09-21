@@ -9,10 +9,10 @@ songs:
     path: "Proud Soldier (Gage's Theme).brstm"
     title: "Proud Soldier (Gage's Theme)"
     type: battle
-#      - id: we_will_prevail
-#        path: "We Will Prevail (Will's Theme).brstm"
-#        title: "We Will Prevail (Will's Theme)"
-#        type: battle #Borderline doesn't fit
+  - id: we_will_prevail
+    path: "We Will Prevail (Will's Theme).brstm"
+    title: "We Will Prevail (Will's Theme)"
+    type: betting
   - id: goddess_of_revenge
     path: "Goddess of Revenge (Tasha's Theme).brstm"
     title: "Goddess of Revenge (Tasha's Theme)"

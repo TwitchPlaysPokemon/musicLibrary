@@ -1,0 +1,39 @@
+id: digimon_story_cyber_sleuth
+title: "Digimon Story: Cyber Sleuth"
+year: 2015
+series: digimon
+platform: ["PS4", "Vita"]
+songs:
+  - id: critical_situation
+    title: "Critical Situation"
+    path: "Critical Situation.brstm"
+    type: warning
+  - id: destination_guides
+    title: "Destination Guides"
+    path: "Destination Guides.brstm"
+    type: betting
+  - id: digital_wars
+    title: "Digital Wars"
+    path: "Digital Wars.brstm"
+    type: battle
+  - id: eden_digimon
+    title: "Eden"
+    path: "Eden.brstm"
+    type: break
+  - id: lively_cyber_detective
+    title: "Lively Cyber Detective"
+    path: "Lively Cyber Detective.brstm"
+    type: battle
+  - id: the_ending_has_lots_of_coffee
+    title: "The Ending has Lots of Coffee"
+    path: "The Ending has Lots of Coffee.brstm"
+    type: result
+  - id: tranquil_city
+    title: "Tranquil City"
+    path: "Tranquil City.brstm"
+    ends: 2:26
+    type: betting
+  - id: unreal_rhythm
+    title: "Unreal Rhythm"
+    path: "Unreal Rhythm.brstm"
+    type: battle

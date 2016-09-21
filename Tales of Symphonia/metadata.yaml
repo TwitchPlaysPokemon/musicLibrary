@@ -36,4 +36,12 @@ songs:
     title: "Rest of the Heart - Sanctuary"
     path: "Rest of the Heart - Sanctuary.brstm"
     type: result
+  - id: fatalize_tos
+    title: "Fatalize"
+    path: "Fatalize.brstm"
+    type: battle
+  - id: final_destination_tos
+    title: "Final Destination"
+    path: "Final Destination.brstm"
+    type: battle
 ...

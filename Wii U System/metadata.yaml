@@ -3,7 +3,7 @@ id: wii_u_system
 title: "Wii U System"
 series: systemfirmware
 year: 2012
-platform: "Take a guess."
+platform: "Wii U"
 songs:
   - id: system_transfer_-_menu
     title: "System Transfer - Menu"
@@ -17,12 +17,12 @@ songs:
     title: "Wii U Eshop Theme #5"
     path: "Wii U Eshop Theme _5.brstm"
     type: betting
-  - id: mii_maker_create_gamepad
-    title: "Mii Maker - Create (Gamepad)"
-    path: "Mii Maker - Create (Gamepad).brstm"
-    type: break
   - id: wii_u_eshop_theme_4
     title: "Wii U Eshop Theme #4"
     path: "Wii U Eshop Theme #4.brstm"
     type: betting
+  - id: amiibo_settings
+    title: "amiibo Settings"
+    path: "amiibo Settings.brstm"
+    type: break
 ...

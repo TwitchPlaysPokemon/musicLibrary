@@ -14,3 +14,23 @@ songs:
     path: "E1M3 - Dark Halls.brstm"
     ends: 3:03
     type: betting
+  - id: i_sawed_the_demons
+    title: "I Sawed The Demons"
+    path: "I Sawed The Demons.brstm"
+    type: battle
+  - id: hiding_the_secrets
+    title: "Hiding The Secrets"
+    path: "Hiding The Secrets.brstm"
+    type: battle
+  - id: intermission_doom
+    title: "Intermission"
+    path: "Intermission.brstm"
+    type: betting
+  - id: sweet_little_dead_bunny
+    title: "Sweet Little Dead Bunny"
+    path: "Sweet Little Dead Bunny.brstm"
+    type: warning
+  - id: untitled_doom
+    title: "Untitled"
+    path: "Untitled.brstm"
+    type: battle

@@ -41,4 +41,64 @@ songs:
     title: "Fight Fight"
     path: "Fight Fight.brstm"
     type: warning
+  - id: whoa_zone
+    title: "Whoa Zone"
+    path: "Whoa Zone.brstm"
+    type: warning
+  - id: an_unrivalled_battle
+    title: "An Unrivalled Battle"
+    path: "An Unrivalled Battle.brstm"
+    type: warning
+  - id: battle_time_super_paper_mario
+    title: "Battle Time"
+    path: "Battle Time.brstm"
+    type: battle
+  - id: champion_of_destruction
+    title: "Champion of Destruction"
+    path: "Champion of Destruction.brstm"
+    type: betting
+  - id: dimentio_charming_magician
+    title: "Dimentio, Charming Magician"
+    path: "Dimentio, Charming Magician.brstm"
+    type: warning
+  - id: count_bleck_plan
+    title: "Count Bleck's Plan"
+    path: "Count Bleck's Plan.brstm"
+    type: warning
+  - id: flipside
+    title: "Flipside"
+    path: "Flipside.brstm"
+    type: betting
+  - id: flopside
+    title: "Flopside"
+    path: "Flopside.brstm"
+    type: betting
+  - id: evil_king_bowser_here
+    title: "Evil King Bowser Here"
+    path: "Evil King Bowser Here.brstm"
+    type: warning
+  - id: tokens_please
+    title: "Tokens, Please"
+    path: "Tokens, Please.brstm"
+    type: break
+  - id: francis_battle
+    title: "Francis Battle"
+    path: "Francis Battle.brstm"
+    type: warning
+  - id: fracktail_battle
+    title: "Fracktail Battle"
+    path: "Fracktail Battle.brstm"
+    type: battle
+  - id: mr_l_green_thunder
+    title: "Mr. L, Green Thunder!"
+    path: "Mr. L, Green Thunder!.brstm"
+    type: warning
+  - id: bowser_battle_super_paper_mario
+    title: "Bowser Battle"
+    path: "Bowser Battle.brstm"
+    type: battle
+  - id: mimi_the_copycat
+    title: "Mimi the Copycat"
+    path: "Mimi the Copycat.brstm"
+    type: warning
 ...

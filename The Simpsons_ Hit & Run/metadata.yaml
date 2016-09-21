@@ -8,3 +8,15 @@ songs:
     title: "Saving Springfield"
     path: "Saving Springfield.brstm"
     type: warning
+  - id: better_than_beef
+    title: "Better Than Beef"
+    path: "Better Than Beef.brstm"
+    type: warning
+  - id: kang_and_kodos_strike_back
+    title: "Kang and Kodos Strike Back"
+    path: "Kang and Kodos Strike Back.brstm"
+    type: betting
+  - id: monkey_see_monkey_doh
+    title: "Monkey See, Monkey D'oh"
+    path: "Monkey See, Monkey D'oh.brstm"
+    type: result

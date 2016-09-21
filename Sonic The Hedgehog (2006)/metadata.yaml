@@ -85,21 +85,9 @@ songs:
     title: "Wave Ocean - The Inlet"
     path: "Wave Ocean - The Inlet.brstm"
     type: warning
-  - id: boss_eggcerebus_and_egg_genesis
-    title: "Boss - Egg-Cerebus & Egg Genesis"
-    path: "Boss - Egg-Cerebus & Egg Genesis.brstm"
-    type: battle
-  - id: boss_vs_character
-    title: "Boss - Vs. Character"
-    path: "Boss - Vs. Character.brstm"
-    type: battle
   - id: soleanna_castle_town
     title: "Soleanna Castle Town"
     path: "Soleanna Castle Town.brstm"
-    type: betting
-  - id: wave_ocean_the_waters_edge
-    title: "Wave Ocean - The Water's Edge"
-    path: "Wave Ocean - The Water's Edge.brstm"
     type: betting
 #      - id: mission_clear_and_results
 #        title: "Mission Clear and Results"

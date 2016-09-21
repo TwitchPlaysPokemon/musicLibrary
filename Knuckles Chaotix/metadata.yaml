@@ -12,7 +12,7 @@ songs:
   - id: combination
     title: "Combination"
     path: "Combination.vgz"
-    type: betting
+    type: break
   - id: door_into_summer_kc
     title: "Door Into Summer"
     path: "Door Into Summer.vgz"
@@ -27,12 +27,12 @@ songs:
     title: "Evening Star"
     path: "Evening Star.vgz"
     ends: 1:55
-    type: betting
+    type: break
   - id: hyper_hyper
     title: "Hyper-Hyper"
     path: "Hyper-Hyper.vgz"
     ends: 1:30
-    type: betting
+    type: result
   - id: midnight_greenhouse
     title: "Midnight Greenhouse"
     path: "Midnight Greenhouse.vgz"

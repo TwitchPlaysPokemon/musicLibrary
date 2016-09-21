@@ -1,0 +1,13 @@
+id: halo_3_odst
+title: "Halo 3: ODST"
+platform: ["360", "XOne"]
+year: 2009
+songs:
+  - id: deference_for_darkness
+    title: "Deference For Darkness"
+    path: "Deference For Darkness.brstm"
+    type: break
+  - id: more_than_his_share
+    title: "More Than His Share"
+    path: "More Than His Share.brstm"
+    type: warning

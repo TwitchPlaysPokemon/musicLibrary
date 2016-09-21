@@ -17,4 +17,20 @@ songs:
     path: "Theme of Cammy.brstm"
     title: "Theme of Cammy"
     type: battle
+  - id: theme_of_guile_sfiv
+    path: "Theme of Guile.brstm"
+    title: "Theme of Guile"
+    type: betting
+  - id: theme_of_ken_sfiv
+    path: "Theme of Ken.brstm"
+    title: "Theme of Ken"
+    type: battle
+  - id: theme_of_vega_sfiv
+    path: "Theme of Vega.brstm"
+    title: "Theme of Vega"
+    type: battle
+  - id: theme_of_zangief_sfiv
+    path: "Theme of Zangief.brstm"
+    title: "Theme of Zangief"
+    type: betting
 ...

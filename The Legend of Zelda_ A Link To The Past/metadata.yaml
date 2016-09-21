@@ -12,3 +12,35 @@ songs:
     path: "Boss.brstm"
     title: "Boss"
     type: warning
+  - id: hyrule_castle_alttp
+    title: "Hyrule Castle"
+    path: "Hyrule Castle.brstm"
+    type: betting
+  - id: light_world_overworld_alttp
+    title: "Light World Overworld"
+    path: "Light World Overworld.brstm"
+    type: betting
+  - id: dark_world_overworld_alttp
+    title: "Dark World Overworld"
+    path: "Dark World Overworld.brstm"
+    type: betting
+  - id: princess_zeldas_rescue_alttp
+    title: "Princess Zelda's Rescue"
+    path: "Princess Zelda's Rescue.brstm"
+    type: result
+  - id: dark_world_dungeon_alttp
+    title: "Dark World Dungeon"
+    path: "Dark World Dungeon.brstm"
+    type: warning
+  - id: ganon_battle_alttp
+    title: "Ganon Battle"
+    path: "Ganon Battle.brstm"
+    type: warning
+  - id: ganons_message_alttp
+    title: "Ganon's Message"
+    path: "Ganon's Message.brstm"
+    type: warning
+  - id: kakariko_village_alttp
+    title: "Kakariko Village"
+    path: "Kakariko Village.brstm"
+    type: break

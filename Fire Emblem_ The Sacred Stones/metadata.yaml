@@ -17,4 +17,32 @@ songs:
     title: "Powerful Foe"
     path: "Powerful Foe.minigsf"
     type: warning
+  - id: distant_roads_ffss
+    title: "Distant Roads"
+    path: "Distant Roads.minigsf"
+    type: betting
+  - id: follow_me_ffss
+    title: "Follow Me!"
+    path: "Follow Me!.minigsf"
+    type: betting
+  - id: grasp_at_victory_ffss
+    title: "Grasp at Victory"
+    path: "Grasp at Victory.minigsf"
+    type: result
+  - id: laughter_ffss
+    title: "Laughter"
+    path: "Laughter.minigsf"
+    type: break
+  - id: main_theme_ffss
+    title: "Main Theme"
+    path: "Main Theme.minigsf"
+    type: result
+  - id: raid_ffss
+    title: "Raid!"
+    path: "Raid!.minigsf"
+    type: warning
+  - id: reunion_ffss
+    title: "Reunion"
+    path: "Reunion.minigsf"
+    type: break
 ...

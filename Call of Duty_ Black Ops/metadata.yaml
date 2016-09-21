@@ -5,11 +5,11 @@ series: callofduty
 year: 2010
 platform: "Various"
 songs:
-  - id: twilight_(dead_ops_arcade)
+  - id: twilight_dead_ops_arcade
     title: "Twilight (Dead Ops Arcade)"
     path: "Twilight (Dead Ops Arcade).brstm"
     type: betting
-  - id: death_on_the_dance_floor_(dead_ops_arcade)
+  - id: death_on_the_dance_floor_dead_ops_arcade
     title: "Death on the Dance Floor (Dead Ops Arcade)"
     path: "Death on the Dance Floor (Dead Ops Arcade).brstm"
     type: betting
@@ -24,5 +24,9 @@ songs:
   - id: multiplayer_menu_cod
     title: "Multiplayer Menu"
     path: "Multiplayer Menu.brstm"
+    type: betting
+  - id: temple_dead_ops_arcade
+    title: "Temple (Dead Ops Arcade)"
+    path: "Temple (Dead Ops Arcade).brstm"
     type: betting
 ...

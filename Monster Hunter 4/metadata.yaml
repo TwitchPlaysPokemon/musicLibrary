@@ -1,0 +1,22 @@
+id: monster_hunter_4
+title: "Monster Hunter 4"
+year: 2013
+series: monsterhunter
+platform: "3DS"
+songs:
+  - id: cathar
+    title: "Cathar ~ The Swaying Village in the Wind"
+    path: "Cathar ~ The Swaying Village in the Wind.brstm"
+    type: betting
+  - id: quest_clear_praising_the_excellence
+    title: "Quest Clear ~ Praising the Excellence"
+    path: "Quest Clear ~ Praising the Excellence.brstm"
+    type: result
+  - id: shagaru_magara
+    title: "Shagaru Magara ~ Reincarnation of Light and Darkness"
+    path: "Shagaru Magara ~ Reincarnation of Light and Darkness.brstm"
+    type: battle
+  - id: zamtrios
+    title: "Zamtrios ~ Fangs Lurking on the Surface of Ice"
+    path: "Zamtrios ~ Fangs Lurking on the Surface of Ice.brstm"
+    type: warning

@@ -1,0 +1,10 @@
+id: warioware_diy
+title: "WarioWare D.I.Y."
+series: wario
+year: 2009
+platform: ["WiiWare", "DS"]
+songs:
+  - id: diy_shop
+    title: "D.I.Y. Shop"
+    path: "D.I.Y. Shop.brstm"
+    type: break

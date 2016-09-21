@@ -1,0 +1,13 @@
+id: god_of_war
+platform: "PS2"
+title: "God of War"
+year: 2005
+songs: 
+  - id: zeus_wrath_divine
+    path: "Kratos Clones.brstm"
+    title: "Zeus' Wrath Divine"
+    type: warning
+  - id: the_splendor_of_athens
+    path: "The Splendor of Athens.brstm"
+    title: "The Splendor of Athens"
+    type: break

@@ -4,8 +4,12 @@ title: "Barkley: Shut Up and Jam Gaiden"
 year: 2008
 platform: "PC"
 songs:
-- id: zalatar_precious_pellets
-  title: "zalatar precious pellets"
-  path: "zalatar precious pellets.brstm"
-  type: warning
+  - id: zalatar_precious_pellets
+    title: "zalatar precious pellets"
+    path: "zalatar precious pellets.brstm"
+    type: warning
+  - id: boss_battle_barkley
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
 ...

@@ -1,0 +1,74 @@
+id: etrian_odyssey
+title: "Etrian Odyssey"
+platform: "NDS"
+year: 2007
+songs:
+  - id: the_roadside_trees_outside_the_window_pc88
+    title: "Town ~ The Roadside Trees Outside the Window (PC-88)"
+    path: "Town ~ The Roadside Trees Outside the Window (PC-88).brstm"
+    type: break
+  - id: town_the_lounge_where_we_speak_of_tomorrow_pc88
+    title: "Town ~ The Lounge Where We Speak of Tomorrow (PC-88)"
+    path: "Town ~ The Lounge Where We Speak of Tomorrow (PC-88).brstm"
+    type: betting
+  - id: that_name_was_engraved_into_the_100th_volume_pc88
+    title: "Town ~ That Name Was Engraved Into the 100th Volume! (PC-88)"
+    path: "Town ~ That Name Was Engraved Into the 100th Volume! (PC-88).brstm"
+    type: betting
+  - id: the_green_green_woodlands_pc88
+    title: "Labyrinth I ~ The Green Green Woodlands (PC-88)"
+    path: "Labyrinth I ~ The Green Green Woodlands (PC-88).brstm"
+    ends: 2:15
+    type: betting
+  - id: the_vast_primeval_hidden_grove_pc88
+    title: "Labyrinth II ~ The Vast Primeval Hidden Grove (PC-88)"
+    path: "Labyrinth II ~ The Vast Primeval Hidden Grove (PC-88).brstm"
+    type: break
+  - id: the_thousand_year_old_blue_woodlands_pc88
+    title: "Labyrinth III ~ The Thousand Year Old Blue Woodlands (PC-88)"
+    path: "Labyrinth III ~ The Thousand Year-Old Blue Woodlands (PC-88).brstm"
+    type: betting
+  - id: the_withered_forest_pc88
+    title: "Labyrinth IV ~ The Withered Forest (PC-88)"
+    path: "Labyrinth IV ~ The Withered Forest (PC-88).brstm"
+    type: betting
+  - id: the_capital_of_shinjuku_pc88
+    title: "Labyrinth V ~ The Capital of Shinjuku (PC-88)"
+    path: "Labyrinth V ~ The Capital of Shinjuku (PC-88).brstm"
+    type: betting
+  - id: dyed_in_blood_pc88
+    title: "Battlefield ~ Dyed in Blood (PC-88)"
+    path: "Battlefield ~ Dyed in Blood (PC-88).brstm"
+    type: warning
+  - id: get_the_treasure_pc88
+    title: "Battlefield ~ Get the Treasure (PC-88)"
+    path: "Battlefield ~ Get the Treasure (PC-88).brstm"
+    type: result
+  - id: bird_shaped_vane_on_the_roof_pc88
+    title: "Town ~ Bird-Shaped Vane on the Roof (PC-88)"
+    path: "Town ~ Bird-Shaped Vane on the Roof (PC-88).brstm"
+    type: break
+  - id: the_story_of_the_heros_birth_continues_pc88
+    title: "The Story of the Hero's Birth Continues (PC-88)"
+    path: "The Story of the Hero's Birth Continues (PC-88).brstm"
+    type: result
+  - id: the_adventure_has_ended_for_your_group_pc88
+    title: "The Adventure Has Ended for Your Group (PC-88)"
+    path: "The Adventure Has Ended for Your Group (PC-88).brstm"
+    type: result
+  - id: destruction_begets_decay_pc88
+    title: "Battlefield ~ Destruction Begets Decay (PC-88)"
+    path: "Battlefield ~ Destruction Begets Decay (PC-88).brstm"
+    type: warning
+  - id: a_sudden_gust_of_wind_before_your_eyes_pc88
+    title: "Battlefield ~ A Sudden Gust of Wind Before Your Eyes (PC-88)"
+    path: "Battlefield ~ A Sudden Gust of Wind Before Your Eyes (PC-88).brstm"
+    type: warning
+  - id: rising_again_pc88
+    title: "Battlefield ~ Rising Again (PC-88)"
+    path: "Battlefield ~ Rising Again (PC-88).brstm"
+    type: warning
+  - id: throne_of_creation_pc88
+    title: "Battlefield ~ Throne of Creation (PC-88)"
+    path: "Battlefield ~ Throne of Creation (PC-88).brstm"
+    type: warning

@@ -4,8 +4,24 @@ title: "Castlevania II: Simon's Quest"
 year: 1987
 platform: "NES"
 songs:
-- id: dwelling_of_doom
-  title: "Dwelling of Doom"
-  path: "Dwelling of Doom.brstm"
-  type: warning
+  - id: dwelling_of_doom
+    title: "Dwelling of Doom"
+    path: "Dwelling of Doom.brstm"
+    type: warning
+  - id: bloddy_tears_simon_quest
+    title: "Bloody Tears"
+    path: "Bloody Tears.brstm"
+    type: warning
+  - id: message_of_darkness_simon_quest
+    title: "Message of Darkness"
+    path: "Message of Darkness.brstm"
+    type: warning
+  - id: monster_dance_simon_quest
+    title: "Monster Dance"
+    path: "Monster Dance.brstm"
+    type: warning
+  - id: the_silence_of_daylight
+    title: "The Silence of Daylight"
+    path: "The Silence of Daylight.brstm"
+    type: betting
 ...

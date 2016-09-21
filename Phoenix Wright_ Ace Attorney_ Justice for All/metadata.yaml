@@ -1,6 +1,6 @@
 ---
 id: phoenix_wright_ace_attorney_justice_for_all
-platform: "NDS"
+platform: ["GBA", "DS", "WiiWare"]
 title: "Phoenix Wright: Ace Attorney: Justice for All"
 series: aceattorney
 year: 2006
@@ -11,40 +11,40 @@ songs:
 #        type: result
 # sad result song
   - id: psyche_lock
-    path: "Psyche Lock.mini2sf"
+    path: "Psyche Lock.brstm"
     title: "Psyche Lock"
     type: warning
   - id: hotline_of_fate
-    path: "Hotline of Fate.mini2sf"
+    path: "Hotline of Fate.brstm"
     title: "Hotline of Fate"
     type: warning
   - id: great_revival_franziska_von_karma
-    path: "Great Revival ~ Franziska von Karma.mini2sf"
+    path: "Great Revival ~ Franziska von Karma.brstm"
     title: "Great Revival ~ Franziska von Karma"
     type: result
   - id: pursuit_cornered_variation
-    path: "Pursuit ~ Cornered (Variation).mini2sf"
-    title: "Pursuit ~ Cornered (Variation)"
+    path: "Pursuit ~ Cornered (Variation).brstm"
+    title: "Pressing Pursuit ~ Cross-Examine - Variation"
     type: warning
   - id: courtroom_lounge_overture_again
-    path: "Courtroom Lounge ~ Overture Again.mini2sf"
-    title: "Courtroom Lounge ~ Overture Again"
+    path: "Courtroom Lounge ~ Overture Again.brstm"
+    title: "Courtroom Lobby ~ Another Overture"
     type: betting
   - id: announce_the_truth_2002
-    path: "Announce the Truth 2002.mini2sf"
-    title: "Announce the Truth 2002"
+    path: "Announce the Truth 2002.brstm"
+    title: "Telling the Truth 2002"
     type: warning
-  - id: tachimi_-_circus
-    path: "Tachimi - Circus.mini2sf"
+  - id: tachimi_circus_jfa
+    path: "Tachimi - Circus.brstm"
     title: "Tachimi - Circus"
     type: warning
   - id: examination_allegro_2002
-    path: "Examination ~ Allegro 2002.mini2sf"
-    title: "Examination ~ Allegro 2002"
+    path: "Examination ~ Allegro 2002.brstm"
+    title: "Questioning ~ Allegro 2002"
     type: warning
   - id: examination_moderate_2002
-    path: "Examination ~ Moderate 2002.mini2sf"
-    title: "Examination ~ Moderate 2002"
+    path: "Examination ~ Moderate 2002.brstm"
+    title: "Questioning ~ Moderato 2002"
     type: betting
   - id: phoenix_wright_objection_2002
     path: "Phoenix Wright ~ Objection! 2002.brstm"
@@ -52,6 +52,6 @@ songs:
     type: warning
   - id: reminiscence_scars_etched_by_flame
     path: "Reminiscence ~ Scars Etched by Flame.brstm"
-    title: "Reminiscence ~ Scars Etched by Flame"
+    title: "Recollection~ Scars Etched by Flame"
     type: break
 ...

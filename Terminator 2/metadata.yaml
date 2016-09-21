@@ -1,0 +1,33 @@
+id: terminator_2
+title: "Terminator 2: Judgment Day"
+year: 1991
+platform: "Pinball"
+songs:
+  - id: hurry_up_terminator_2
+    title: "Hurry Up"
+    path: "Hurry Up.brstm"
+    type: warning
+  - id: lock_the_ball_terminator_2
+    title: "Lock the Ball"
+    path: "Lock the Ball.brstm"
+    type: warning
+  - id: jackpot_high_score_terminator_2
+    title: "Jackpot - High Score"
+    path: "Jackpot - High Score.brstm"
+    type: result
+  - id: main_theme_terminator_2
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: payback_time_terminator_2
+    title: "Payback Time"
+    path: "Payback Time.brstm"
+    type: betting
+  - id: super_jackpot_grand_champion_terminator_2
+    title: "Super Jackpot - Grand Champion"
+    path: "Super Jackpot - Grand Champion.brstm"
+    type: warning
+  - id: multiball_terminator_2
+    title: "Multiball"
+    path: "Multiball.brstm"
+    type: battle

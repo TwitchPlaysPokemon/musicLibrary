@@ -8,3 +8,35 @@ songs:
     title: "Ancient Mound"
     path: "Ancient Mound (Stage 2A).vgz"
     type: betting
+  - id: boss_theme_ga3
+    title: "Boss Theme"
+    path: "Boss Theme.vgz"
+    type: warning
+  - id: cave_of_crystal
+    title: "Cave of Crystal"
+    path: "Cave of Crystal (Stage 3B).vgz"
+    type: betting
+  - id: character_select_ga3
+    title: "Character Select"
+    path: "Character Select.vgz"
+    type: warning
+  - id: ending_staff_roll_ga3
+    title: "Ending ~ Staff Roll"
+    path: "Ending ~ Staff Roll.vgz"
+    type: result
+  - id: ride_the_whirlwind
+    title: "Ride the Whirlwind"
+    path: "Ride the Whirlwind (Stage 6A).vgz"
+    type: warning
+  - id: tender_hamlet
+    title: "Tender Hamlet"
+    path: "Tender Hamlet (Stage 2B).vgz"
+    type: betting
+  - id: the_gate_of_fate_ga3
+    title: "The Gate of Fate"
+    path: "The Gate of Fate (Stage 7).vgz"
+    type: betting
+  - id: the_vast_field_ga3
+    title: "The Vast Field"
+    path: "The Vast Field (Stage 1).vgz"
+    type: betting

@@ -9,10 +9,6 @@ songs:
     title: "Blaze Heatnix (Magma Area)"
     path: "Blaze Heatnix (Magma Area).brstm"
     type: battle
-  - id: gate_fight
-    title: "Gate"
-    path: "Gate.brstm"
-    type: battle
   - id: sigma_fight_2_mmx6
     title: "Sigma 2nd"
     path: "Sigma 2nd.brstm"
@@ -54,9 +50,9 @@ songs:
     title: "Maverick Fight"
     path: "Boss.brstm"
     type: warning
-  - id: gate_sequenced
-    title: "Gate (Sequenced)"
-    path: "Gate (Sequenced).brstm"
+  - id: gate_mmx6
+    title: "Gate"
+    path: "Gate.brstm"
     type: warning
   - id: gates_laboratory_1_2
     title: "Gate's Laboratory Stage 1-2 (Secret Lab)"

@@ -12,4 +12,12 @@ songs:
     title: "Kernel Pages"
     path: "09 Kernel Pages.vgm"
     type: warning
+  - id: voltage_algorithm
+    title: "Voltage Algorithm"
+    path: "Voltage Algorithm.brstm"
+    type: betting
+  - id: super_algorithm_pulseman
+    title: "Super Target"
+    path: "Super Target.brstm"
+    type: result
 ...

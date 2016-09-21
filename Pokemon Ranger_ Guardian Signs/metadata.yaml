@@ -25,4 +25,20 @@ songs:
     title: "Thunder Temple"
     path: "Thunder Temple.brstm"
     type: betting
+  - id: pokemon_pinchers_admin_battle
+    title: "Pokémon Pinchers Admin Battle"
+    path: "Pokemon Pinchers Admin Battle.brstm"
+    type: battle
+  - id: pokemon_pinchers_admin_encounter
+    title: "Pokémon Pinchers Admin Encounter"
+    path: "Pokemon Pinchers Admin Encounter.brstm"
+    type: warning
+  - id: pokemon_pinchers_grunt_encounter
+    title: "Pokémon Pinchers Grunt Encounter"
+    path: "Pokemon Pinchers Grunt Encounter.brstm"
+    type: warning
+  - id: riding_on_legendary_beast
+    title: "Riding on Legendary Beast"
+    path: "Riding on Legendary Beast.brstm"
+    type: betting
 ...

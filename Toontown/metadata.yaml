@@ -1,0 +1,29 @@
+id: toontown
+title: "Toontown Online"
+platform: "PC"
+year: 2003
+songs:
+  - id: cog_building_top_floor
+    title: "Cog Building Top Floor"
+    path: "Cog Building Top Floor.brstm"
+    type: warning
+  - id: toontown_central_building
+    title: "Toontown Central Building"
+    path: "Toontown Central Building.brstm"
+    type: betting
+  - id: duel_with_the_ceo_final_boss
+    title: "Duel With The CEO (final boss)"
+    path: "Duel With The CEO (final boss).brstm"
+    type: warning
+  - id: toon_escape
+    title: "Toon Escape"
+    path: "Toon Escape.brstm"
+    type: betting
+  - id: cog_thief
+    title: "Cog Thief"
+    path: "Cog Thief.brstm"
+    type: warning
+  - id: toontown_central_background
+    title: "Toontown Central Playground"
+    path: "Toontown Central Playground.brstm"
+    type: break

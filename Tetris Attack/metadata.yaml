@@ -11,3 +11,40 @@ songs:
     title: "Lava Stage (Critical)"
     path: "Lava Stage (Critical).brstm"
     type: warning
+  - id: yoshi_world
+    title: "Yoshi World"
+    path: "Yoshi World.brstm"
+    type: result
+  - id: windy_world
+    title: "Windy World"
+    path: "Windy World.brstm"
+    type: break
+  - id: ice_world
+    title: "Ice World"
+    path: "Ice World.brstm"
+    type: betting
+  - id: flower_world
+    title: "Flower World"
+    path: "Flower World.brstm"
+    type: betting
+  - id: flame_world
+    title: "Flame World"
+    path: "Flame World.brstm"
+    ends: 2:50
+    type: betting
+  - id: sea_world
+    title: "Sea World"
+    path: "Sea World.brstm"
+    type: betting
+  - id: koopas_cronies
+    title: "Koopa's Cronies"
+    path: "Koopa's Cronies.brstm"
+    type: warning
+  - id: forest_world
+    title: "Forest World"
+    path: "Forest World.brstm"
+    type: break
+  - id: water_world_ta
+    title: "Water World"
+    path: "Water World.brstm"
+    type: break

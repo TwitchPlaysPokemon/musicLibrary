@@ -64,7 +64,7 @@ songs:
   - id: pokemon_battle_melee
     title: "Pokémon Battle"
     path: "Pokemon Battle.brstm"
-    type: betting
+    type: battle
   - id: warning_siren_melee
     title: "Warning Siren"
     path: "Warning Siren.brstm"
@@ -77,4 +77,8 @@ songs:
     title: "All Star Rest Area"
     path: "All Star Rest Area.brstm"
     type: break
+  - id: yoshi_story_melee
+    title: "Yoshi's Story"
+    path: "Yoshi's Story.brstm"
+    type: betting
 ...

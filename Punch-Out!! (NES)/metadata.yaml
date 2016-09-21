@@ -1,0 +1,10 @@
+id: punch_out_nes
+platform: "NES"
+title: "Mike Tyson's Punch-Out!!"
+series: punchout
+year: 1987
+songs: 
+  - id: bicycle_training
+    title: "Bicycle Training"
+    path: "Bicycle Training.brstm"
+    type: warning

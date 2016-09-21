@@ -1,0 +1,21 @@
+id: godzilla_monster_of_monsters
+title: "Godzilla: Monster of Monsters!"
+platform: "NES"
+year: 1988
+songs: 
+  - id: earth_gozilla_mom
+    title: "Earth"
+    path: "Earth.brstm"
+    type: warning
+  - id: gh1d0ra
+    title: "GH1D0RA"
+    path: "GH1D0RA.brstm"
+    type: warning
+  - id: password_godzilla_mom
+    title: "Password"
+    path: "Password.brstm"
+    type: warning
+  - id: title_screen_godzilla_mom
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting

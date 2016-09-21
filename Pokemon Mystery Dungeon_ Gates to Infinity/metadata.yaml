@@ -17,21 +17,6 @@ songs:
     title: "Rising Fear"
     path: "Rising Fear.brstm"
     type: warning
-#  - id: super_smash_flash_2
-#    title: "Super Smash Flash 2"
-#    year: upcoming release
-#    platform: "PC"
-#    path: "Other/Super Smash Flash 2"
-#    songs:
-#      - id: battlefield_(perfect_brstm)
-#        title: "Battlefield (Perfect BRSTM)"
-#        path: "Battlefield (Perfect BRSTM).brstm"
-#        type: betting
-#      - id: results_screen
-#        title: "Results Screen"
-#        path: "Results Screen.brstm"
-#        type: result
-# unfitting game: a fan game should not be on this metadata.
   - id: vs_final_boss_bittercold_last_battle
     path: "vs. Final Boss (Bittercold Last Battle).brstm"
     title: "vs. Final Boss (Bittercold Last Battle)"

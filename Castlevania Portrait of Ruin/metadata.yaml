@@ -16,3 +16,71 @@ songs:
     title: "Gaze Up At Darkness"
     path: "Gaze Up At Darkness.brstm"
     type: betting
+  - id: invitation_of_a_crazed_moon
+    title: "Invitation of a Crazed Moon"
+    path: "Invitation of a Crazed Moon.brstm"
+    type: betting
+  - id: hail_from_the_past
+    title: "Hail from the Past"
+    path: "Hail from the Past.brstm"
+    ends: 2:10
+    type: betting
+  - id: the_hidden_curse
+    title: "The Hidden Curse"
+    path: "The Hidden Curse.brstm"
+    ends: 2:20
+    type: betting
+  - id: in_search_of_the_secret_spell
+    title: "In Search of the Secret Spell"
+    path: "In Search of the Secret Spell.brstm"
+    type: betting
+  - id: crucifix_held_close
+    title: "Crucifix Held Close"
+    path: "Crucifix Held Close.brstm"
+    ends: 2:20
+    type: betting
+  - id: iron_blue_intention
+    title: "Iron Blue Intention"
+    path: "Iron Blue Intention.brstm"
+    ends: 2:30
+    type: betting
+  - id: bloodlines_bequeathed
+    title: "Bloodlines Bequeathed"
+    path: "Bloodlines Bequeathed.brstm"
+    type: battle
+  - id: operation_vk
+    title: "Operation 'VK'"
+    path: "Operation 'VK'.brstm"
+    type: result
+  - id: the_night_flows
+    title: "The Night Flows"
+    path: "The Night Flows.brstm"
+    type: result
+  - id: victorian_fear
+    title: "Victorian Fear"
+    path: "Victorian Fear.brstm"
+    type: warning
+  - id: destroyer_por
+    title: "Destroyer"
+    path: "Destroyer.brstm"
+    type: warning
+  - id: sandfall
+    title: "Sandfall"
+    path: "Sandfall.brstm"
+    type: warning
+  - id: bad_situation
+    title: "Bad Situation"
+    path: "Bad Situation.brstm"
+    type: warning
+  - id: name_entry_por
+    title: "Name Entry"
+    path: "Name Entry.brstm"
+    type: betting
+  - id: a_small_prayer
+    title: "A Small Prayer"
+    path: "A Small Prayer.brstm"
+    type: betting
+  - id: meeting_of_destiny
+    title: "Meeting of Destiny"
+    path: "Meeting of Destiny.brstm"
+    type: break

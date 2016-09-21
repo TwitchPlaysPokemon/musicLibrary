@@ -1,0 +1,13 @@
+id: ninja_gaiden
+title: "Ninja Gaiden"
+year: 1988
+platform: "NES"
+songs:
+  - id: boss_battle_ninja_gaiden
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: unbreakable_determination
+    title: "Unbreakable Determination"
+    path: "Unbreakable Determination.brstm"
+    type: betting

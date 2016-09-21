@@ -20,4 +20,8 @@ songs:
     title: "Winter"
     path: "Winter.brstm"
     type: break
+  - id: title_hmbtn
+    title: "Title"
+    path: "Title.brstm"
+    type: betting
 ...

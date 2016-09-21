@@ -17,10 +17,10 @@ songs:
 #        path: "Tag Power!.brstm"
 #        title: "Tag Power!"
 #        type: result #Does not fit
-#      - id: black_hole_power
-#        path: "Black Hole Power!.brstm"
-#        title: "Black Hole Power!"
-#        type: warning #Borderline WutFace
+  - id: black_hole_power
+    path: "Black Hole Power!.brstm"
+    title: "Black Hole Power!"
+    type: warning
   - id: black_hole_tag_power
     path: "Black Hole Tag Power!.brstm"
     title: "Black Hole Tag Power!"

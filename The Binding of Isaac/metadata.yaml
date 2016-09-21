@@ -12,4 +12,45 @@ songs:
     title: "Basement Theme"
     path: "Basement Theme.brstm"
     type: betting
+  - id: ambush_boss_rush
+    title: "Ambush (Boss Rush)"
+    path: "Ambush (Boss Rush).brstm"
+    type: warning
+  - id: matricide_mom_fight
+    title: "Matricide (Mom Fight)"
+    path: "Matricide (Mom Fight).brstm"
+    type: battle
+  - id: the_fallen_angel_dark_room_fight
+    title: "The Fallen Angel (Dark Room Fight)"
+    path: "The Fallen Angel (Dark Room Fight).brstm"
+    type: warning
+  - id: ventricide_womb_fight
+    title: "Ventricide (Womb Fight)"
+    path: "Ventricide (Womb Fight).brstm"
+    type: battle
+  - id: sketches_of_pain_chest_room
+    title: "Sketches of Pain (Chest Room)"
+    path: "Sketches of Pain (Chest Room).brstm"
+    type: warning
+  - id: when_blood_dries_necropolis
+    title: "When Blood Dries (Necropolis)"
+    path: "When Blood Dries (Necropolis).brstm"
+    type: betting
+  - id: tome_of_knowledge_library
+    title: "Tome of Knowledge (Library)"
+    path: "Tome of Knowledge (Library).brstm"
+    type: break
+  - id: the_forgotten_secret_room
+    title: "The Forgotten (Secret Room)"
+    path: "The Forgotten (Secret Room).brstm"
+    type: break
+  - id: sacrifice_isaac
+    title: "$4cR1f1c14|__"
+    path: "$4cR1f1c14__.brstm"
+    type: betting
+  - id: greed_isaac
+    title: "Greed"
+    path: "Greed.brstm"
+    ends: 1:44
+    type: betting
 ...

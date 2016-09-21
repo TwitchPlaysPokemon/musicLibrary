@@ -1,0 +1,31 @@
+id: top_gear
+title: "Top Gear"
+year: 1992
+platform: "SNES"
+songs:
+  - id: title_tg
+    title: "Title"
+    path: "Title.brstm"
+    ends: 2:04
+    type: betting
+  - id: track_1_tg
+    title: "Track 1"
+    path: "Track 1.brstm"
+    ends: 3:11
+    type: betting
+  - id: track_2_tg
+    title: "Track 2"
+    path: "Track 2.brstm"
+    type: betting
+  - id: track_3_tg
+    title: "Track 3"
+    path: "Track 3.brstm"
+    type: battle
+  - id: track_4_tg
+    title: "Track 4"
+    path: "Track 4.brstm"
+    type: battle
+  - id: ending_tg
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result

@@ -5,10 +5,15 @@ year: 1997
 platform: "PC-98"
 songs: 
   - id: tabula_rasa_the_empty_girl
-    title: "Tabula rasa ~ The Empty Girl"
+    title: "Ellen's Theme: Tabula rasa ~ The Empty Girl"
     path: "Tabula rasa ~ The Empty Girl.brstm"
+    ends: 2:22
     type: betting
   - id: strawberry_crisis
-    title: "Strawberry Crisis"
+    title: "Yumemi's Theme: Strawberry Crisis!!"
     path: "Strawberry Crisis.brstm"
     type: battle
+  - id: maple_dream
+    title: "Maple Dream..."
+    path: "Maple Dream....brstm"
+    type: result

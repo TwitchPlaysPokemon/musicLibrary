@@ -104,7 +104,7 @@ songs:
   - id: mt_battle
     path: "Mt. Battle.brstm"
     title: "Mt. Battle"
-    type: battle
+    type: betting
   - id: mt_battle_leader_battle_theme
     path: "Mt. Battle Leader Battle Theme.brstm"
     title: "Mt. Battle Leader Battle Theme"
@@ -140,5 +140,9 @@ songs:
   - id: phenac_city_crisis
     title: "Phenac City - Crisis"
     path: "Phenac City - Crisis.brstm"
+    type: betting
+  - id: wild_pokemon_battle_xd
+    title: "Wild Pokémon Battle"
+    path: "Wild Pokemon Battle.brstm"
     type: betting
 ...

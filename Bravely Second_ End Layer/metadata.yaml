@@ -1,0 +1,21 @@
+id: bravely_second_end_layer
+title: "Bravely Second: End Layer"
+year: 2015
+platform: "3DS"
+songs:
+  - id: asterisk_warfare
+    title: "Asterisk Warfare"
+    path: "Asterisk Warfare.brstm"
+    type: battle
+  - id: battle_of_anne
+    title: "Battle of Anné"
+    path: "Battle of Anne.brstm"
+    type: battle
+  - id: battle_the_emperor
+    title: "Battle! The Emperor"
+    path: "Battle ! The Emperor.brstm"
+    type: battle
+  - id: joy_of_victory_second
+    title: "Joy of Victory"
+    path: "Joy of Victory - Bravely Second.brstm"
+    type: result
