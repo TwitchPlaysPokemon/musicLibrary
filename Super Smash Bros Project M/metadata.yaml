@@ -4,6 +4,7 @@ platform: "Wii"
 title: "Super Smash Bros. Project M"
 series: smash
 year: 2011
+is_fanwork: true
 songs: 
   - id: punch_out_theme_remix
     path: "Punch-Out!! Theme Remix (CEO 2014).brstm"
