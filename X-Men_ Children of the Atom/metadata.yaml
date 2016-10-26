@@ -7,3 +7,19 @@ songs:
     path: "Theme of Juggernaut.brstm"
     title: "Theme of Juggernaut"
     type: warning
+  - id: theme_of_omega_red_atom
+    path: "Theme of Omega Red.brstm"
+    title: "Theme of Omega Red"
+    type: betting
+  - id: theme_of_magneto
+    path: "Theme of Magneto.brstm"
+    title: "Theme of Magneto"
+    type: battle
+  - id: continue_children_of_atom
+    path: "Continue.brstm"
+    title: "Continue"
+    type: warning
+  - id: player_select_children_of_atom
+    path: "Player Select.brstm"
+    title: "Player Select"
+    type: warning

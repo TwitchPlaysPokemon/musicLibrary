@@ -7,3 +7,16 @@ songs:
     title: "Sunflower Market"
     path: "Sunflower Market.brstm"
     type: betting
+  - id: acorn_shrine
+    title: "Acorn Shrine"
+    path: "Acorn Shrine.brstm"
+    ends: 2:08
+    type: betting
+  - id: ham_swap
+    title: "Ham Swap"
+    path: "Ham Swap.brstm"
+    type: warning
+  - id: sunflower_elementary
+    title: "Sunflower Elementary"
+    path: "Sunflower Elementary.brstm"
+    type: betting

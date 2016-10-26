@@ -1,0 +1,9 @@
+id: bubble_bobble_nes
+title: "Bubble Bobble"
+platform: "NES"
+year: 1988
+songs: 
+  - id: main_theme_bubble_bobble
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting

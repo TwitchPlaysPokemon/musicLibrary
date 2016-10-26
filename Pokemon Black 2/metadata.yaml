@@ -321,4 +321,52 @@ songs:
     path: "Lentimas Town.brstm"
     title: "Lentimas Town"
     type: betting
+  - id: frozen_city_bw2
+    path: "Frozen City.brstm"
+    title: "Frozen City"
+    type: warning
+  - id: infiltrate_the_plasma_frigate
+    path: "Infiltrate the Plasma Frigate!.brstm"
+    title: "Infiltrate the Plasma Frigate!"
+    type: betting
+  - id: join_avenue_bw2
+    path: "Join Avenue.brstm"
+    title: "Join Avenue"
+    type: result
+  - id: plasma_frigate_deck
+    path: "Plasma Frigate - Deck.brstm"
+    title: "Plasma Frigate - Deck"
+    type: warning
+  - id: pokestar_studios_bw2
+    path: "Pokestar Studios.brstm"
+    title: "Pokéstar Studios"
+    type: result
+  - id: pwt_lobby_bw2
+    path: "PWT - Lobby.brstm"
+    title: "PWT - Lobby"
+    type: betting
+  - id: reversal_mountain_white_2
+    path: "Reversal Mountain (White 2).brstm"
+    title: "Reversal Mountain (White 2)"
+    type: betting
+  - id: skyla_gym_bw2
+    path: "Skyla's Gym.brstm"
+    title: "Skyla's Gym (Mistralton City Gym)"
+    type: betting
+  - id: the_road_to_reversal_mountain
+    path: "The Road to Reversal Mountain.brstm"
+    title: "The Road to Reversal Mountain"
+    type: betting
+  - id: title_screen_bw2
+    path: "Title Screen.brstm"
+    title: "Title Screen"
+    type: betting
+  - id: virbank_complex_castelia_sewers
+    path: "Virbank ComplexCastelia Sewers.brstm"
+    title: "Virbank Complex / Castelia Sewers"
+    type: betting
+  - id: white_tree_hollow
+    path: "White Tree Hollow.brstm"
+    title: "White Tree Hollow"
+    type: break
 ...

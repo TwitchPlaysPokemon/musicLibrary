@@ -24,4 +24,12 @@ songs:
     title: "Course Results"
     path: "Course Results.brstm"
     type: result
+  - id: boss_battle_warioland
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: ending_warioland
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
 ...

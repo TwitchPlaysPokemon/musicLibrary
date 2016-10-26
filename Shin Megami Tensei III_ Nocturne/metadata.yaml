@@ -65,4 +65,8 @@ songs:
     title: "Reason Boss Battle"
     path: "SMT Nocturne - Reason Boss Battle.brstm"
     type: warning
+  - id: test_smt3
+    title: "Test"
+    path: "Test (unused).brstm"
+    type: betting
 ...

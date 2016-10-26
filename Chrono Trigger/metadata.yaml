@@ -45,4 +45,32 @@ songs:
     title: "A Meeting With Destiny"
     path: "A Meeting With Destiny.psf"
     type: break
+  - id: burn_bobonga
+    title: "Burn! Bobonga!"
+    path: "221 Burn! Bobonga!.spc"
+    type: warning
+  - id: fanfare_1
+    title: "Fanfare 1"
+    path: "120 Fanfare 1.spc"
+    type: result
+  - id: guardia_castle
+    title: "Guardia Castle"
+    path: "Guardia Castle.brstm"
+    type: betting
+  - id: guardia_millennial_fair
+    title: "Guardia Millennial Fair"
+    path: "106 Guardia Millennial Fair.spc"
+    type: betting
+  - id: the_hidden_truth
+    title: "The Hidden Truth"
+    path: "122 The Hidden Truth (Looped).spc"
+    type: warning
+  - id: kingdom_trial
+    title: "Kingdom Trial"
+    path: "121 Kingdom Trial.spc"
+    type: betting
+  - id: to_far_away_times
+    title: "To Far Away Times"
+    path: "317 To Far Away Times.spc"
+    type: result
 ...

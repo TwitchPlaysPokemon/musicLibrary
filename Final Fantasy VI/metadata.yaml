@@ -57,4 +57,20 @@ songs:
     title: "Kefka"
     path: "Kefka.brstm"
     type: warning
+  - id: johnny_c_bad
+    title: "Johnny C. Bad"
+    path: "212 Johnny C. Bad.spc"
+    type: result
+  - id: locke_ff6
+    title: "Locke"
+    path: "104 Locke.spc"
+    type: result
+  - id: magitek_research_facility
+    title: "Magitek Research Facility"
+    path: "Magitek Research Facility.brstm"
+    type: betting
+  - id: the_phantom_train
+    title: "The Phantom Train"
+    path: "116 The Phantom Train.spc"
+    type: betting
 ...

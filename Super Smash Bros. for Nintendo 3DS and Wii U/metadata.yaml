@@ -1,8 +1,8 @@
 ---
-id: super_smash_bros_for_wii_u
-title: "Super Smash Bros. for Wii U"
+id: super_smash_bros_for_3ds_and_wii_u
+title: "Super Smash Bros. for Nintendo 3DS and Wii U"
 series: smash
-platform: "Wii U"
+platform: ["3DS", "Wii U"]
 year: 2014
 songs:
   - id: yoshi's_woolly_world_(remix)
@@ -194,4 +194,40 @@ songs:
     title: "Ryu Stage (Critical)"
     path: "Ryu Stage (Critical).brstm"
     type: warning
+  - id: tour_animal_crossing_new_leaf
+    title: "Tour (Animal Crossing: New Leaf)"
+    path: "Tour (Animal Crossing New Leaf).brstm"
+    type: result
+  - id: lost_in_thoughts_all_alone
+    title: "Lost in Thoughts All Alone"
+    path: "Lost in Thoughts All Alone.brstm"
+    type: result
+  - id: trophy_rush
+    path: "Trophy Rush.brstm"
+    title: "Trophy Rush"
+    type: battle
+  - id: trophy_gallery
+    path: "Trophy Gallery.brstm"
+    title: "Trophy Gallery"
+    type: betting
+  - id: battle_resh_zek
+    path: "Battle! Reshiram - Zekrom.brstm"
+    title: "Battle! Reshiram - Zekrom"
+    type: battle
+  - id: tomodachi_life_smash
+    path: "Tomodachi Life.brstm"
+    title: "Tomodachi Life"
+    type: betting
+  - id: bramble_blast
+    path: "Bramble Blast.brstm"
+    title: "Bramble Blast"
+    type: betting
+  - id: multiplayer_results
+    path: "Multiplayer Results.brstm"
+    title: "Multiplayer Results"
+    type: result
+  - id: rainbow_road_medley
+    title: "Rainbow Road Medley"
+    path: "Rainbow Road Medley.brstm"
+    type: battle
 ...

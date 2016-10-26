@@ -29,4 +29,12 @@ songs:
     path: "Violet City - Olivine City Gyms.brstm"
     title: "Violet City - Olivine City Gyms"
     type: betting
+  - id: azalea_town_blackthorn_city_gyms
+    path: "Azalea Town - Blackthorn City Gyms.brstm"
+    title: "Azalea Town - Blackthorn City Gyms"
+    type: betting
+  - id: vs_lance_puzzle_challenge
+    path: "Vs Lance.brstm"
+    title: "Vs. Lance"
+    type: warning
 ...

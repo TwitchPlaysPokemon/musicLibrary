@@ -80,4 +80,48 @@ songs:
     title: "Omake 6"
     path: "44 - Omake 6.vgz"
     type: warning
+  - id: because_youre_the_number_one
+    title: "Because You're the Number One (Name Entry Ace Ranking)"
+    path: "36 Because You're the Number One (Name Entry Ace Ranking).vgm"
+    type: result
+  - id: silvery_light_of_the_moon
+    title: "Silvery Light of the Moon (Normal Ending)"
+    path: "30 Silvery Light of the Moon (Normal Ending).vgm"
+    type: break
+  - id: shooting_stars_easy_ending
+    title: "Shooting Stars (Easy Ending)"
+    path: "29 Shooting Stars (Easy Ending).vgm"
+    type: result
+  - id: dont_go_off_course_select
+    title: "Don't Go Off (Course Select)"
+    path: "03 - Don't Go Off (Course Select).vgz"
+    type: warning
+  - id: attack_sharply
+    title: "Attack Sharply (Stage 2 Boss)"
+    path: "09 Attack Sharply (Stage 2 Boss).vgm"
+    type: warning
+  - id: count_down_continue
+    title: "Count Down (Continue)"
+    path: "35 Count Down (Continue).vgm"
+    type: warning
+  - id: omake_1
+    title: "Omake 1"
+    path: "39 Omake 1.vgm"
+    type: warning
+  - id: what_stage_1b
+    title: "What (Stage 1B)"
+    path: "05 What (Stage 1B).vgm"
+    type: warning
+  - id: rancor_stage_7_boss
+    title: "Rancor (Stage 7 Boss)"
+    path: "22 Rancor (Stage 7 Boss).vgm"
+    type: warning
+  - id: neo_weapon_stage_5_docking
+    title: "Neo Weapon (Stage 5 Docking)"
+    path: "18 Neo Weapon (Stage 5 Docking).vgm"
+    type: warning
+  - id: lightning_strikes_again_metal_squad
+    title: "Lightning Strikes Again / Metal Squad (SSH version)"
+    path: "Lightning Strikes AgainMetal Squad (SSH version) (No Intro).brstm"
+    type: battle
 ...

@@ -1,0 +1,83 @@
+id: dynamite_headdy
+title: "Dynamite Headdy"
+year: 1994
+platform: "Genesis"
+songs: 
+  - id: hustle_maruyama_part_1
+    title: "Hustle Maruyama (Part 1)"
+    path: "Hustle Maruyama (Part 1).vgz"
+    type: battle
+  - id: youre_izayoi
+    title: "You're Izayoi"
+    path: "You're Izayoi.vgz"
+    type: battle
+  - id: i_sing
+    title: "I Sing"
+    path: "I Sing.vgz"
+    type: betting
+  - id: sky_high
+    title: "Sky High"
+    path: "Sky High.vgz"
+    type: battle
+  - id: funny_angry
+    title: "Funny Angry"
+    path: "Funny Angry.vgz"
+    ends: 2:41
+    type: betting
+  - id: geisha_robot
+    title: "Geisha Robot"
+    path: "Geisha Robot.vgz"
+    type: warning
+  - id: maruyama_appears
+    title: "Maruyama Appears"
+    path: "Maruyama Appears.vgz"
+    type: warning
+  - id: ohnami_konami
+    title: "Ohnami Konami"
+    path: "Ohnami Konami.vgz"
+    type: warning
+  - id: hattari_is_here
+    title: "Hattari is Here"
+    path: "Hattari is Here.vgz"
+    type: warning
+  - id: hustle_maruyama_part_2
+    title: "Hustle Maruyama (Part 2)"
+    path: "Hustle Maruyama (Part 2).vgz"
+    type: warning
+  - id: dark_demon_song
+    title: "Dark Demon's Song"
+    path: "Dark Demon's Song.vgz"
+    type: warning
+  - id: its_good_if_it_ends_happily
+    title: "It's Good if it Ends Happily, Isn't It?"
+    path: "It's Good if it Ends Happily, Isn't It.vgz"
+    type: result
+  - id: schumacher_fly
+    title: "Schumacher Fly"
+    path: "Schumacher Fly.vgz"
+    type: betting
+  - id: crosswalk_of_love
+    title: "Crosswalk of Love"
+    path: "Crosswalk of Love.vgz"
+    type: result
+  - id: paradise_headdy
+    title: "Paradise"
+    path: "Paradise.vgz"
+    ends: 2:10
+    type: betting
+  - id: walk_towards_me
+    title: "Walk Towards Me"
+    path: "Walk Towards Me.vgz"
+    type: result
+  - id: tonights_a_jazzy_night
+    title: "Tonight's a Jazzy Night"
+    path: "Tonight's a Jazzy Night.vgz"
+    type: betting
+  - id: i_love_goldie_hawn
+    title: "I Love Goldie Hawn"
+    path: "I Love Goldie Hawn.vgz"
+    type: result
+  - id: nutcracker
+    title: "Nutcracker"
+    path: "Nutcracker.vgz"
+    type: result

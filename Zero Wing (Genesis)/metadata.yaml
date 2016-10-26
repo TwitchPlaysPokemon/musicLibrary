@@ -1,0 +1,25 @@
+id: zero_wing
+title: "Zero Wing"
+year: 1991
+platform: "Genesis"
+songs:
+  - id: ending_2_zerowing
+    title: "Ending 2"
+    path: "Ending 2.vgz"
+    type: result
+  - id: ending_3_zerowing
+    title: "Ending 3"
+    path: "Ending 3.vgz"
+    type: result
+  - id: you_get_stage_4
+    title: "You Get (Stage 4 - Aquese)"
+    path: "You Get (Stage 4 - Aquese).vgz"
+    type: result
+  - id: hit_man_stage_8
+    title: "Hit Man (Stage 8 - Gerbarra)"
+    path: "Hit Man (Stage 8 - Gerbarra).vgz"
+    type: battle
+  - id: new_day_for_me_stage_2
+    title: "New Day for Me (Stage 2 - Legrous)"
+    path: "New Day for Me (Stage 2 - Legrous).vgz"
+    type: betting

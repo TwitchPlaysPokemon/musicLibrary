@@ -1,0 +1,25 @@
+---
+id: pokemon_prism
+title: "Pokémon Prism"
+series: pokemon
+platform: "GBC"
+is_fanwork: true
+year: 2016
+songs:
+  - id: wild_battle_prism
+    title: "Battle! Wild Pokémon"
+    path: "Pokemon Prism_Battle! Wild Pokemon.brstm"
+    type: battle
+  - id: trainer_battle_prism
+    title: "Battle! Pokémon Trainer"
+    path: "Pokemon Prism_Battle! Pokemon Trainer.brstm"
+    type: battle
+  - id: gym_leader_prism
+    title: "Battle! Gym Leader"
+    path: "Pokemon Prism_Battle! Gym Leader.brstm"
+    type: battle
+  - id: pallet_patrol_prism
+    title: "Battle! Pallet Patrol"
+    path: "Pokemon Prism_Battle! Pallet Patrol.brstm"
+    type: battle
+...

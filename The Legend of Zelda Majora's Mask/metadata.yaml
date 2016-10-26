@@ -36,4 +36,16 @@ songs:
     title: "Milk Bar"
     path: "Milk Bar.brstm"
     type: result
+  - id: goron_race
+    title: "Goron Race"
+    path: "Goron Race.brstm"
+    type: warning
+  - id: happy_mask_salesman
+    title: "Happy Mask Salesman's Theme"
+    path: "Happy Mask Salesman's Theme.brstm"
+    type: warning
+  - id: the_owl_majora
+    title: "The Owl"
+    path: "The Owl.brstm"
+    type: warning
 ...

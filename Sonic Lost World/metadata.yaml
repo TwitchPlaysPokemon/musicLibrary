@@ -102,3 +102,11 @@ songs:
     title: "Yoshi's Island Zone ~Results~"
     path: "Yoshi's Island Zone ~Results~.brstm"
     type: result
+  - id: nightmare_zone
+    title: "NiGHTMARE Zone"
+    path: "NiGHTMARE Zone.brstm"
+    type: betting
+  - id: nightmare_zone_boss
+    title: "NiGHTMARE Zone ~Boss~"
+    path: "NiGHTMARE Zone ~Boss~.brstm"
+    type: battle

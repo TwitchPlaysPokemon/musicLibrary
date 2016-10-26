@@ -16,4 +16,16 @@ songs:
     title: "Another Joe (Another Joe's Theme)"
     path: "Another Joe (Another Joe's Theme).brstm"
     type: battle
+  - id: dark_fiend_charles_the_third_theme
+    title: "Dark Fiend (Charles the Third's Theme)"
+    path: "Dark Fiend (Charles the Third's Theme).brstm"
+    type: battle
+  - id: some_like_it_red_hot
+    title: "Some Like it Red Hot (Town Area)"
+    path: "Some Like it Red Hot (Town Area).brstm"
+    type: betting
+  - id: stage_clear_next_preview
+    title: "Stage Clear ~ Next Preview"
+    path: "Stage Clear ~ Next Preview.brstm"
+    type: result
 ...

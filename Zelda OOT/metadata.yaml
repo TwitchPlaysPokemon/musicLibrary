@@ -29,4 +29,40 @@ songs:
     title: "Zora's Domain"
     path: "Zora's Domain.miniusf"
     type: break
+  - id: house_oot
+    title: "House"
+    path: "House.brstm"
+    type: break
+  - id: boss_battle_oot
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: great_fairy_fountain_oot
+    title: "Great Fairy's Fountain"
+    path: "Great Fairy's Fountain.brstm"
+    type: break
+  - id: horse_race_oot
+    title: "Horse Race"
+    path: "Horse Race.brstm"
+    type: warning
+  - id: kokiri_forest_oot
+    title: "Kokiri Forest"
+    path: "Kokiri Forest.brstm"
+    type: betting
+  - id: lost_woods_oot
+    title: "Lost Woods"
+    path: "Lost Woods.brstm"
+    type: betting
+  - id: market_oot
+    title: "Market"
+    path: "Market.brstm"
+    type: break
+  - id: shop_oot
+    title: "Shop"
+    path: "Shop.brstm"
+    type: break
+  - id: windmill_hut_oot
+    title: "Windmill Hut"
+    path: "Windmill Hut.brstm"
+    type: betting
 ...

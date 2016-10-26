@@ -24,11 +24,10 @@ songs:
     title: "Bossa Nova of Briny Air"
     path: "Bossa Nova of Briny Air.adx"
     type: betting
-#      - id: file_select_map_screen
-#        title: "File Select [Map Screen]"
-#        path: "File Select [Map Screen].brstm"
-#        type: betting
-# taking out the trash, try giant palace instead of this
+  - id: file_select_map_screen
+    title: "File Select [Map Screen]"
+    path: "File Select [Map Screen].brstm"
+    type: betting
   - id: giant_palace_night_theme
     title: "Giant Palace [Night Theme]"
     path: "Giant Palace [Night Theme].adx"

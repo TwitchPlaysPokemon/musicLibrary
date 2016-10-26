@@ -5,11 +5,10 @@ series: earthwormjim
 year: 1995
 platform: "SCD"
 songs:
-#      - id: andy_asteroids
-#        title: "Andy Asteroids"
-#        path: "Andy Asteroids.brstm"
-#        type: battle
-# sorry, war on meme songs
+  - id: andy_asteroids
+    title: "Andy Asteroids"
+    path: "Andy Asteroids.brstm"
+    type: battle
   - id: the_descent
     title: "Buttville - The Descent"
     path: "Buttville - The Descent.brstm"

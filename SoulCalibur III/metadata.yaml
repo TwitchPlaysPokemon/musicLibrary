@@ -1,0 +1,30 @@
+id: soulcalibur_iii
+title: "SoulCalibur III"
+series: soulcalibur
+year: 2005
+platform: "PS2"
+songs:
+  - id: approaching_tempest
+    title: "Approaching Tempest"
+    path: "Approaching Tempest.brstm"
+    type: result
+  - id: crimson_feast
+    title: "Crimson Feast"
+    path: "Crimson Feast.brstm"
+    type: betting
+  - id: nameless_calamity
+    title: "Nameless Calamity"
+    path: "Nameless Calamity.brstm"
+    type: betting
+  - id: if_there_were_any_other_way
+    title: "If There Were Any Other Way"
+    path: "If There Were Any Other Way.brstm"
+    type: betting
+  - id: forsaken_sanctuary
+    title: "Forsaken Sanctuary"
+    path: "Forsaken Sanctuary.brstm"
+    type: betting
+  - id: world_distortion
+    title: "World Distortion"
+    path: "World Distortion.brstm"
+    type: battle

@@ -17,4 +17,20 @@ songs:
     title: "Positive"
     path: "211 Positive.spc"
     type: result
+  - id: can_you_fly_sister
+    title: "Can You Fly, Sister?"
+    path: "Can You Fly, Sister_.spc"
+    type: result
+  - id: few_paths_forbidden
+    title: "Few Paths Forbidden"
+    path: "Few Paths Forbidden.spc"
+    type: betting
+  - id: secret_of_mana_sd3
+    title: "Secret of Mana"
+    path: "Secret of Mana.spc"
+    type: warning
+  - id: swivel_sd3
+    title: "Swivel"
+    path: "Swivel.spc"
+    type: betting
 ...

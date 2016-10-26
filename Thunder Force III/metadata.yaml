@@ -1,0 +1,37 @@
+id: thunder_force_iii
+platform: "Genesis"
+title: "Thunder Force III"
+year: 1990
+songs: 
+  - id: hunger_made_them_desperate
+    path: "Hunger Made Them Desperate (Stage 7 - Orn Base).vgz"
+    title: "Hunger Made Them Desperate (Stage 7 - Orn Base)"
+    type: battle
+  - id: his_behavior_inspired_us_with_distrust
+    path: "His Behavior Inspired Us With Distrust (Stage 6 - Cerberus).vgz"
+    title: "His Behavior Inspired Us With Distrust (Stage 6 - Cerberus)"
+    type: betting
+  - id: present_staff_roll
+    path: "Present (Staff Roll).vgz"
+    title: "Present (Staff Roll)"
+    type: result
+  - id: a_war_without_the_end_ending
+    path: "A War Without the End (Ending).vgz"
+    title: "A War Without the End (Ending)"
+    type: result
+  - id: gargoyle_stage_1_boss
+    path: "Gargoyle (Stage 1 Boss).vgz"
+    title: "Gargoyle (Stage 1 Boss)"
+    type: warning
+  - id: the_grubby_dark_blue
+    path: "The Grubby Dark Blue (Stage 3 - Seiren).vgz"
+    title: "The Grubby Dark Blue (Stage 3 - Seiren)"
+    type: betting
+  - id: twin_vulcan_stage_2_boss
+    path: "Twin Vulcan (Stage 2 Boss).vgz"
+    title: "Twin Vulcan (Stage 2 Boss)"
+    type: warning
+  - id: beyond_the_peace_stage_select
+    path: "Beyond the Peace (Stage Select).vgz"
+    title: "Beyond the Peace (Stage Select)"
+    type: warning

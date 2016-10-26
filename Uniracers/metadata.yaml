@@ -1,0 +1,45 @@
+id: uniracers
+title: "Uniracers"
+platform: "SNES"
+year: 1994
+songs:
+  - id: demo_race
+    title: "Demo Race"
+    path: "02 Demo Race.spc"
+    type: battle
+  - id: 1st_race
+    title: "1st Race"
+    path: "03 1st Race.spc"
+    type: battle
+  - id: 2nd_race
+    title: "2nd Race"
+    path: "04 2nd Race.spc"
+    type: battle
+  - id: 3rd_race
+    title: "3rd Race"
+    path: "05 3rd Race.spc"
+    type: battle
+  - id: 5th_race
+    title: "5th Race"
+    path: "07 5th Race.spc"
+    type: battle
+  - id: unused_song_2
+    title: "Unused Song 2"
+    path: "91 Unused Song 2.spc"
+    type: battle
+  - id: title_screen_uniracers
+    title: "Title Screen"
+    path: "01 Title Screen.spc"
+    type: betting
+  - id: unused_song_1
+    title: "Unused Song 1"
+    path: "91 Unused Song 1.spc"
+    type: break
+  - id: celebration_uniracers
+    title: "Celebration"
+    path: "08 Celebration.spc"
+    type: result
+  - id: 4th_race
+    title: "4th Race"
+    path: "06 4th Race.spc"
+    type: warning

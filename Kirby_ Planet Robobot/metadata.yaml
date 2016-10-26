@@ -12,3 +12,47 @@ songs:
     title: "Sullied Grace"
     path: "Sullied Grace (Vs. Queen Sectonia Clone).brstm"
     type: battle
+  - id: acciss_arcs_laser_lab
+    title: "Acciss Arcs - Laser Lab"
+    path: "Acciss Arcs - Laser Lab.brstm"
+    type: betting
+  - id: dark_castle_robobot
+    title: "Dark Castle"
+    path: "Dark Castle.brstm"
+    type: betting
+  - id: float_islands_dream_land
+    title: "Float Islands (Kirby's Dream Land)"
+    path: "Float Islands (Kirby's Dream Land).brstm"
+    type: betting
+  - id: grass_area_robobot
+    title: "Grass Area"
+    path: "Grass Area.brstm"
+    type: betting
+  - id: sky_tower_robobot
+    title: "Sky Tower"
+    path: "Sky Tower.brstm"
+    type: betting
+  - id: yogurt_yard_remaster
+    title: "Yogurt Yard (Remaster)"
+    path: "Yogurt Yard (Remaster).brstm"
+    type: betting
+  - id: boss_kirby64_masher
+    title: "Boss (Kirby 64 - Masher) (Kirby 3D Rumble)"
+    path: "Boss (Kirby 64 - Masher) (Kirby 3D Rumble).brstm"
+    type: warning
+  - id: darkness_returns_robobot
+    title: "Darkness Returns"
+    path: "Darkness Returns (Vs Dark Matter Clone).brstm"
+    type: warning
+  - id: last_fight_robobot
+    title: "Last Fight"
+    path: "Last Fight (Second Phase - Virtual Space Manipulator).brstm"
+    type: warning
+  - id: mecha_knightmare
+    title: "Mecha Knightmare (Vs Mecha Knight)"
+    path: "Mecha Knightmare (Vs Mecha Knight ).brstm"
+    type: warning
+  - id: last_fight_super_nova
+    title: "Last Fight - Super Nova"
+    path: "Last Fight - Super Nova (vs Star Dream Soul OS).brstm"
+    type: battle

@@ -1,0 +1,17 @@
+id: capcom_vs_snk_mark_of_the_millennium_2001
+title: "Capcom vs. SNK 2: Mark of the Millennium 2001"
+year: 2001
+platform: ["Arcade", "PS2", "GC"]
+songs:
+  - id: happiness_barentsburg
+    title: "Happiness (Barentsburg)"
+    path: "Happiness (barentsburg).brstm"
+    type: result
+  - id: wipe_out_osaka
+    title: "Wipe Out (Osaka)"
+    path: "Wipe Out (Osaka).brstm"
+    type: warning
+  - id: vs_display_snk_2001
+    title: "VS. DISPLAY"
+    path: "VS DISPLAY.brstm"
+    type: warning

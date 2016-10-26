@@ -5,27 +5,27 @@ platform: "SNES"
 songs:
   - id: title_tg
     title: "Title"
-    path: "Title.brstm"
+    path: "Title.spc"
     ends: 2:04
     type: betting
   - id: track_1_tg
     title: "Track 1"
-    path: "Track 1.brstm"
+    path: "Track 1.spc"
     ends: 3:11
     type: betting
   - id: track_2_tg
     title: "Track 2"
-    path: "Track 2.brstm"
+    path: "Track 2.spc"
     type: betting
   - id: track_3_tg
     title: "Track 3"
-    path: "Track 3.brstm"
+    path: "Track 3.spc"
     type: battle
   - id: track_4_tg
     title: "Track 4"
-    path: "Track 4.brstm"
+    path: "Track 4.spc"
     type: battle
   - id: ending_tg
     title: "Ending"
-    path: "Ending.brstm"
+    path: "Ending.spc"
     type: result

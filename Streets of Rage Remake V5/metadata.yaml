@@ -3,6 +3,7 @@ id: streets_of_rage_remake_v5
 title: "Streets of Rage Remake V5"
 series: streetsofrage
 year: 2007
+is_fanwork: true
 platform: "PC"
 songs:
   - id: slow_moon
@@ -13,4 +14,12 @@ songs:
     title: "My Little Baby"
     path: "My Little Baby.brstm"
     type: break
+  - id: attack_the_barbarian_sorv5
+    title: "Attack the Barbarian"
+    path: "Attack the Barbarian.brstm"
+    type: warning
+  - id: the_last_soul_sorv5
+    title: "The Last Soul"
+    path: "The Last Soul.brstm"
+    type: betting
 ...

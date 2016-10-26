@@ -1,0 +1,18 @@
+id: the_simpsons_game
+title: "The Simpsons Game"
+platform: ["PS2", "PS3", "360"]
+series: thesimpsons
+year: 2007
+songs:
+  - id: big_super_happy_fun_fun_game
+    title: "Big Super Happy Fun Fun Game"
+    path: "Big Super Happy Fun Fun Game.brstm"
+    type: betting
+  - id: flying_boat
+    title: "Flying Boat"
+    path: "Flying Boat.brstm"
+    type: break
+  - id: medal_of_homer
+    title: "Medal of Homer"
+    path: "Medal of Homer.brstm"
+    type: break

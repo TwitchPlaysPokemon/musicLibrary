@@ -1,0 +1,22 @@
+id: megaman_and_bass_gba
+title: "Mega Man & Bass"
+platform: "GBA"
+series: megaman
+year: 2002
+songs: 
+  - id: robot_museum_mm_bass_gba
+    title: "Robot Museum"
+    path: "04 Robot Museum.minigsf"
+    type: betting
+  - id: ground_man_mm_bass_gba
+    title: "Ground Man"
+    path: "09 Ground Man.minigsf"
+    type: result
+  - id: dynamo_man_mm_bass_gba
+    title: "Dynamo Man"
+    path: "10 Dynamo Man.minigsf"
+    type: betting
+  - id: data_base_mm_bass_gba
+    title: "Data Base"
+    path: "27 Data Base.minigsf"
+    type: break

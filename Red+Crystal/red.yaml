@@ -45,11 +45,10 @@ songs:
     path: "Pokemon Red_10.gbs"
     title: "Vermilion City"
     type: betting
-#  - id: "11"
-#    path: "Pokemon Red_11.gbs"
-#    title: "Lavender Town"
-#    type: betting
-# you know why this is disabled
+  - id: "11"
+    path: "Pokemon Red_11.gbs"
+    title: "Lavender Town"
+    type: betting
   - id: "12"
     path: "Pokemon Red_12.gbs"
     title: "S.S. Anne"

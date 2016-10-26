@@ -16,4 +16,24 @@ songs:
     title: "Vs. Erika"
     path: "Vs. Erika.miniusf"
     type: break
+  - id: vs_ash_puzzle
+    title: "Vs. Ash"
+    path: "Vs Ash.brstm"
+    type: warning
+  - id: vs_ash_fast_puzzle
+    title: "Vs. Ash (Fast)"
+    path: "Vs Ash (Fast).brstm"
+    type: warning
+  - id: vs_brock_puzzle
+    title: "Vs. Brock"
+    path: "Vs Brock.brstm"
+    type: result
+  - id: vs_lorelei_fast_puzzle
+    title: "Vs. Lorelei (Fast)"
+    path: "Vs Lorelei (Fast).brstm"
+    type: warning
+  - id: vs_misty_puzzle
+    title: "Vs. Misty"
+    path: "Vs Misty.brstm"
+    type: betting
 ...

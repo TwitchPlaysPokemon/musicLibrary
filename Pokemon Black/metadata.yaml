@@ -563,4 +563,16 @@ songs:
     path: "Summer in Kagome (Lacunosa Town Remix).brstm"
     title: "Summer in Kagome"
     type: break
+  - id: last_battle_n_remix
+    path: "LAST BATTLE -N^n mix- (N Final Battle Remix).brstm"
+    title: "LAST BATTLE -N^n mix- (N Final Battle Remix)"
+    type: battle
+  - id: entralink_mission
+    path: "Entralink Mission.brstm"
+    title: "Entralink Mission"
+    type: warning
+  - id: united_nations
+    path: "United Nations.brstm"
+    title: "United Nations"
+    type: result
 ...

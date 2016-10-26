@@ -1,0 +1,9 @@
+id: rollercoaster_tycoon_2
+title: "RollerCoaster Tycoon 2"
+platform: "PC"
+year: 2002
+songs: 
+  - id: title_screen_rct2
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: break

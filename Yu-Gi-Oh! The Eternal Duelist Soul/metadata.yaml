@@ -8,3 +8,19 @@ songs:
     title: "Kaiba Duel"
     path: "Kaiba Duel.brstm"
     type: warning
+  - id: main_menu_duelist_soul
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: break
+  - id: stage_one_duel
+    title: "Stage One Duel"
+    path: "Stage One Duel.brstm"
+    type: betting
+  - id: stage_two_duel
+    title: "Stage Two Duel"
+    path: "Stage Two Duel.brstm"
+    type: betting
+  - id: stage_three_duel
+    title: "Stage Three Duel"
+    path: "Stage Three Duel.brstm"
+    type: warning

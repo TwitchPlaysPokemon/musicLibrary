@@ -8,3 +8,11 @@ songs:
     path: "The King of Speed (Arcade).brstm"
     ends: 1:59
     type: betting
+  - id: awaiting_other_challengers
+    title: "Awaiting Other Challengers"
+    path: "Awaiting Other Challengers (Looped) (Arcade).brstm"
+    type: result
+  - id: lets_go_away
+    title: "Let's Go Away"
+    path: "Let's Go Away (Arcade).brstm"
+    type: betting

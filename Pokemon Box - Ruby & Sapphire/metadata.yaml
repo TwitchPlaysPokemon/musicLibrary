@@ -1,0 +1,54 @@
+id: pokemon_box_ruby_and_sapphire
+title: "Pokémon Box: Ruby and Sapphire"
+platform: "GCN"
+series: pokemon
+year: 2003
+songs:
+  - id: arrange_boxes
+    title: "Arrange Boxes"
+    path: "Arrange Boxes.brstm"
+    type: betting
+  - id: slateport_city_box
+    title: "Slateport City"
+    path: "Slateport City.brstm"
+    type: betting
+  - id: gym_box
+    title: "Gym"
+    path: "Gym.brstm"
+    type: betting
+  - id: oceanic_museum_box
+    title: "Oceanic Museum"
+    path: "Oceanic Museum.brstm"
+    type: betting
+  - id: connecting_box
+    title: "Connecting"
+    path: "Connecting.brstm"
+    type: warning
+  - id: evolution_box
+    title: "Evolution"
+    path: "Evolution.brstm"
+    type: warning
+  - id: hall_of_fame_box
+    title: "Hall of Fame"
+    path: "Hall of Fame.brstm"
+    type: result
+  - id: party_box
+    title: "Party"
+    path: "Party.brstm"
+    type: result
+  - id: title_screen_box
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: list_box
+    title: "List"
+    path: "List.brstm"
+    type: break
+  - id: brigette_box
+    title: "Brigette"
+    path: "Brigette.brstm"
+    type: break
+  - id: pokemon_center_music_box
+    title: "Pokémon Center (Music Box Arrangement)"
+    path: "Pokémon Center (Music Box Arrangement).brstm"
+    type: break

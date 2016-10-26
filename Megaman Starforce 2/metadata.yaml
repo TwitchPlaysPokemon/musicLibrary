@@ -1,0 +1,26 @@
+id: megaman_starforce_2
+title: "Mega Man Star Force 2"
+year: 2007
+series: megaman
+platform: "DS"
+songs:
+  - id: main_theme_shooting_star
+    title: "Main Theme - Shooting Star"
+    path: "Main Theme - Shooting Star.brstm"
+    type: betting
+  - id: ride_on_battle_theme
+    title: "Ride On (Battle Theme)"
+    path: "Ride On (Battle Theme).brstm"
+    type: battle
+  - id: road_to_victory_vs_battle
+    title: "Road to Victory (VS Battle)"
+    path: "Road to Victory (VS Battle).brstm"
+    type: battle
+  - id: wave_battle_boss_battle_theme
+    title: "Wave Battle (Boss Battle Theme)"
+    path: "Wave Battle (Boss Battle Theme).brstm"
+    type: battle
+  - id: theme_of_rogue_altered
+    title: "Theme of Rogue (Altered)"
+    path: "Theme of Rogue (Altered).brstm"
+    type: warning

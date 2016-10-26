@@ -1,0 +1,180 @@
+---
+id: pokemon_anime
+title: "Pokémon (Anime)"
+series: pokemon
+platform: "TV"
+year: 1997
+songs: 
+  - id: aqua_magma_hideout_anime
+    title: "Aqua/Magma Hideout"
+    path: "Aqua_Magma Hideout.brstm"
+    type: betting
+  - id: gym_hoenn_anime
+    title: "Gym (Hoenn)"
+    path: "Gym (Hoenn).brstm"
+    type: betting
+  - id: petalburg_city_anime
+    title: "Petalburg City"
+    path: "Petalburg City.brstm"
+    type: betting
+  - id: pokemon_center_anime
+    title: "Pokémon Center"
+    path: "Pokemon Center.brstm"
+    type: betting
+  - id: pokemon_i_choose_you_anime
+    title: "Pokémon, I Choose You!"
+    path: "Pokemon, I Choose You!.brstm"
+    type: betting
+  - id: route_206_day_anime
+    title: "Route 206 (Day)"
+    path: "Route 206 (Day).brstm"
+    type: betting
+  - id: route_210_day_anime
+    title: "Route 210 (Day)"
+    path: "Route 210 (Day).brstm"
+    type: betting
+  - id: route_26_anime
+    title: "Route 26"
+    path: "Route 26.brstm"
+    type: betting
+  - id: route_38_anime
+    title: "Route 38"
+    path: "Route 38.brstm"
+    type: betting
+  - id: title_r_s_e_anime
+    title: "Title (R/S/E)"
+    path: "Title (R_S_E).brstm"
+    type: betting
+  - id: victory_road_hoenn_anime
+    title: "Victory Road (Hoenn)"
+    path: "Victory Road (Hoenn).brstm"
+    type: betting
+  - id: battle_johto_rival_anime
+    title: "Battle! Johto Rival"
+    path: "Battle! Johto Rival.brstm"
+    type: battle
+  - id: battle_johto_trainer_anime
+    title: "Battle! Johto Trainer"
+    path: "Battle! Johto Trainer.brstm"
+    type: battle
+  - id: battle_kanto_rival_anime
+    title: "Battle! Kanto Rival"
+    path: "Battle! Kanto Rival.brstm"
+    type: battle
+  - id: elite_four_gym_leader_battle_sinnoh_anime
+    title: "Elite Four/Gym Leader Battle (Sinnoh)"
+    path: "Elite Four _ Gym Leader Battle (Sinnoh).brstm"
+    type: battle
+  - id: elite_four_gym_leader_battle_kanto_anime
+    title: "Elite Four/Gym Leader Battle (Kanto)"
+    path: "Elite Four_Gym Leader Battle (Kanto) - HQ full song & sane volume.brstm"
+    type: battle
+  - id: fight_hoenn_elite_four_anime
+    title: "Fight! (Hoenn) Elite Four"
+    path: "Fight! (Hoenn) Elite Four.brstm"
+    type: battle
+  - id: fight_team_aqua_magma_anime
+    title: "Fight! Team Aqua/Magma"
+    path: "Fight! Team Aqua_Magma.brstm"
+    type: battle
+  - id: kanto_trainer_battle_burning_battlefield_anime
+    title: "Kanto Trainer Battle (Burning Battlefield)"
+    path: "Kanto Trainer Battle (Burning Battlefield).brstm"
+    type: battle
+  - id: regi_battle_anime
+    title: "Regi Battle"
+    path: "Regi Battle.brstm"
+    type: battle
+  - id: wild_pokemon_battle_kanto_anime
+    title: "Wild Pokémon Battle (Kanto)"
+    path: "Wild Pokemon Battle (Kanto).brstm"
+    type: battle
+  - id: wild_pokemon_battle_johto_anime
+    title: "Wild Pokémon Battle (Johto)"
+    path: "Wild Pokemon Battle (Johto).brstm"
+    type: battle
+  - id: wild_pokemon_battle_hoenn_anime
+    title: "Wild Pokémon Battle (Hoenn)"
+    path: "Wild Pokemon Battle (Hoenn).brstm"
+    type: battle
+  - id: wild_pokemon_battle_sinnoh_anime
+    title: "Wild Pokémon Battle (Sinnoh)"
+    path: "Wild Pokemon Battle (Sinnoh).brstm"
+    type: battle
+  - id: contest_anime
+    title: "Contest!"
+    path: "Contest!.brstm"
+    type: result
+  - id: ending_rby_movie_06_anime
+    title: "Ending (RBY - Movie 06)"
+    path: "Ending (RBY - Movie 06).brstm"
+    type: result
+  - id: follow_me_anime
+    title: "Follow Me!"
+    path: "Follow Me!.brstm"
+    type: warning
+  - id: gym_anime
+    title: "Gym"
+    path: "Gym.brstm"
+    type: result
+  - id: gym_leader_defeated_anime
+    title: "Gym Leader Defeated!"
+    path: "Gym Leader Defeated!.brstm"
+    type: result
+  - id: route_4_anime
+    title: "Route 4"
+    path: "Route 4.brstm"
+    type: result
+  - id: route_11_anime
+    title: "Route 11"
+    path: "Route 11.brstm"
+    type: result
+  - id: ss_aqua_anime
+    title: "S.S. Aqua"
+    path: "SS Aqua.brstm"
+    type: result
+  - id: a_trainer_appears_kanto_boy_version_anime
+    title: "A Trainer Appears! (Kanto Boy Version)"
+    path: "A Trainer Appears! (Kanto Boy Version).brstm"
+    type: warning
+  - id: eye_contact_rocket_gang_anime
+    title: "Eye Contact! Rocket Gang"
+    path: "Eye Contact! Rocket Gang.brstm"
+    type: warning
+  - id: team_aqua_appears_anime
+    title: "Team Aqua Appears!"
+    path: "Team Aqua Appears!.brstm"
+    type: warning
+  - id: team_magma_appears_anime
+    title: "Team Magma Appears!"
+    path: "Team Magma Appears!.brstm"
+    type: warning
+  - id: eterna_forest_anime
+    title: "Eterna Forest"
+    path: "Eterna Forest.brstm"
+    type: break
+  - id: fortree_city_anime
+    title: "Fortree City"
+    path: "Fortree City.brstm"
+    type: break
+  - id: lilycove_city_anime
+    title: "Lilycove City"
+    path: "Lilycove City.brstm"
+    type: break
+  - id: oldale_town_anime
+    title: "Oldale Town"
+    path: "Oldale Town.brstm"
+    type: break
+  - id: route_1_anime
+    title: "Route 1"
+    path: "Route 1.brstm"
+    type: betting
+  - id: route_201_day_anime
+    title: "Route 201 (Day)"
+    path: "Route 201 (Day).brstm"
+    type: break
+  - id: viridian_city_anime
+    title: "Viridian City"
+    path: "Viridian City.brstm"
+    type: break
+...

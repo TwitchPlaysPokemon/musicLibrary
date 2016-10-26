@@ -32,4 +32,13 @@ songs:
     title: "Cowboy"
     path: "11 Cowboy.spc"
     type: warning
+  - id: cavern_plok
+    title: "Cavern"
+    path: "Cavern.spc"
+    ends: 2:26
+    type: betting
+  - id: flea_pit
+    title: "Flea Pit"
+    path: "Flea Pit.spc"
+    type: warning
 ...

@@ -41,4 +41,20 @@ songs:
     title: "Unknown Lands"
     path: "Unknown Lands.brstm"
     type: betting
+  - id: dangetr_ffv
+    title: "Danger!"
+    path: "118 Danger!.spc"
+    type: warning
+  - id: fate_in_haze
+    title: "Fate in Haze"
+    path: "106 Fate in Haze.spc"
+    type: betting
+  - id: the_ancient_library
+    title: "The Ancient Library"
+    path: "125 The Ancient Library.spc"
+    type: betting
+  - id: walking_the_snowy_mountains
+    title: "Walking the Snowy Mountains"
+    path: "117 Walking the Snowy Mountains.spc"
+    type: betting
 ...

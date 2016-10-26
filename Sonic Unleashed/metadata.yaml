@@ -49,4 +49,32 @@ songs:
     title: "Adabat - Jungle Joyride Night"
     path: "Adabat - Jungle Joyride Night.brstm"
     type: betting
+  - id: apotos_windmill_isle_night
+    title: "Apotos - Windmill Isle Night"
+    path: "Apotos - Windmill Isle Night.brstm"
+    type: betting
+  - id: spagonia_night
+    title: "Spagonia Night"
+    path: "Spagonia Night.brstm"
+    type: break
+  - id: apotos_night
+    title: "Apotos Night"
+    path: "Apotos Night.brstm"
+    type: break
+  - id: adabat_night
+    title: "Adabat Night"
+    path: "Adabat Night.brstm"
+    type: break
+  - id: apotos_day
+    title: "Apotos Day"
+    path: "Apotos Day.brstm"
+    type: break
+  - id: empire_city_day
+    title: "Empire City Day"
+    path: "Empire City Day.brstm"
+    type: break
+  - id: spagonia_day
+    title: "Spagonia Day"
+    path: "Spagonia Day.brstm"
+    type: break
 ...

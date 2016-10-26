@@ -12,3 +12,27 @@ songs:
     title: "Unlock Feature"
     path: "Unlock Feature.brstm"
     type: result
+  - id: luigi_mario_yoshi_circuit
+    title: "Luigi Circuit, Mario Circuit & Yoshi Circuit"
+    path: "Luigi Circuit, Mario Circuit & Yoshi Circuit.brstm"
+    type: betting
+  - id: baby_park_double_dash
+    title: "Baby Park"
+    path: "Baby Park.brstm"
+    type: warning
+  - id: mushroom_bridge_mushroom_city
+    title: "Mushroom Bridge & Mushroom City"
+    path: "Mushroom Bridge & Mushroom City.brstm"
+    type: betting
+  - id: waluigi_stadium_wario_colosseum
+    title: "Waluigi Stadium & Wario Colosseum"
+    path: "Waluigi Stadium & Wario Colosseum.brstm"
+    type: betting
+  - id: 1st_place_goal_results
+    title: "1st Place Goal + Results"
+    path: "1st Place Goal + Results.brstm"
+    type: result
+  - id: title_double_dash
+    title: "Title"
+    path: "Title.brstm"
+    type: result

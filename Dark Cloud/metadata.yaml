@@ -1,0 +1,13 @@
+id: dark_cloud
+title: "Dark Cloud"
+year: 2000
+platform: "PS2"
+songs:
+  - id: departure_dark_cloud
+    title: "Departure"
+    path: "Departure.psf2"
+    type: betting
+  - id: the_daily_life
+    title: "The Daily Life"
+    path: "The Daily Life.psf2"
+    type: break

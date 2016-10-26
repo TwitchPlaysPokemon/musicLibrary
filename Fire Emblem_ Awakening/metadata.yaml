@@ -30,4 +30,20 @@ songs:
     title: "Mastermind"
     path: "Mastermind.brstm"
     type: warning
+  - id: annihilation_awakening
+    title: "Annihilation"
+    path: "Annihilation.brstm"
+    type: warning
+  - id: conquest_awakening
+    title: "Conquest"
+    path: "Conquest.brstm"
+    type: betting
+  - id: duty_awakening
+    title: "Duty"
+    path: "Duty.brstm"
+    type: betting
+  - id: open_for_business
+    title: "Open for Business!"
+    path: "Open for Business!.brstm"
+    type: break
 ...

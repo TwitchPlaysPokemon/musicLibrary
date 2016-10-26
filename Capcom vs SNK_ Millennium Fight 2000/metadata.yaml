@@ -1,0 +1,13 @@
+id: capcom_vs_snk_millennium_fight_2000
+title: "Capcom vs. SNK: Millennium Fight 2000"
+year: 2000
+platform: ["Arcade", "Dreamcast", "PS1"]
+songs:
+  - id: ayutaya_iseki
+    title: "Ayutaya Iseki (Ryu Stage)"
+    path: "Ayutaya Iseki (Ryu Stage).brstm"
+    type: betting
+  - id: vigor_force
+    title: "Vigor Force (Geese Stage)"
+    path: "Vigor Force (Geese Stage).brstm"
+    type: warning

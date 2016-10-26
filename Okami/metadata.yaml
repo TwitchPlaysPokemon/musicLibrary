@@ -41,4 +41,45 @@ songs:
     path: "Kusa Village.brstm"
     title: "Kusa Village"
     type: betting
+  - id: mr_orange_appears
+    path: "Mr Orange Appears.brstm"
+    title: "Mr. Orange Appears"
+    type: break
+  - id: issun_theme
+    path: "Issun's Theme.brstm"
+    title: "Issun's Theme"
+    type: betting
+  - id: agata_forest
+    path: "Agata Forest.brstm"
+    title: "Agata Forest"
+    type: break
+  - id: dojo_entrance
+    path: "Dojo Entrance.brstm"
+    title: "Dojo Entrance"
+    type: betting
+  - id: kokari_dilemma
+    path: "Kokari's Dilemma.brstm"
+    title: "Kokari's Dilemma"
+    type: betting
+  - id: oki_theme
+    path: "Oki's Theme.brstm"
+    title: "Oki's Theme"
+    type: betting
+  - id: tama_theme
+    path: "Tama's Theme.brstm"
+    title: "Tama's Theme"
+    type: betting
+  - id: impatient_susanoo
+    path: "Impatient Susano-o.brstm"
+    title: "Impatient Susano-o"
+    type: warning
+  - id: cherry_blossom_storm
+    path: "Cherry Blossom Storm.brstm"
+    title: "Cherry Blossom Storm"
+    type: betting
+  - id: kamui_of_the_northern_lands
+    path: "Kamui of the Northern Lands.brstm"
+    title: "Kamui of the Northern Lands"
+    ends: 3:05
+    type: betting
 ...

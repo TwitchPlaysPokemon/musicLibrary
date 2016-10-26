@@ -1,0 +1,21 @@
+id: phalanx_gba
+title: "Phalanx - The Enforce Fighter A-144"
+platform: "GBA"
+year: 2001
+songs: 
+  - id: assault_phalanx_gba
+    title: "Assault"
+    path: "02 Assault.minigsf"
+    type: betting
+  - id: caution_phalanx_gba
+    title: "Caution"
+    path: "10 Caution.minigsf"
+    type: warning
+  - id: warning_phalanx_gba
+    title: "Warning"
+    path: "11 Warning.minigsf"
+    type: warning
+  - id: charge_phalanx_gba
+    title: "Charge"
+    path: "15 Charge.minigsf"
+    type: betting

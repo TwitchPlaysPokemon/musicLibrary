@@ -12,4 +12,29 @@ songs:
     title: "Mission Theme 2"
     path: "09 Mission Theme 2.spc"
     type: betting
+  - id: mission_theme_1
+    title: "Mission Theme 1"
+    path: "04 Mission Theme 1.spc"
+    type: betting
+  - id: diving_waterworld
+    title: "Diving"
+    path: "05 Diving.spc"
+    ends: 3:12
+    type: betting
+  - id: shop_waterworld
+    title: "Shop"
+    path: "08 Shop.spc"
+    type: break
+  - id: menu_waterworld
+    title: "Menu"
+    path: "02 Menu.spc"
+    type: break
+  - id: mission_theme_3
+    title: "Mission Theme 3"
+    path: "11 Mission Theme 3.spc"
+    type: warning
+  - id: scores_waterworld
+    title: "Scores"
+    path: "06 Scores.spc"
+    type: warning
 ...

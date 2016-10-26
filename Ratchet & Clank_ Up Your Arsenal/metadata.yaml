@@ -29,4 +29,12 @@ songs:
     title: "Arena Boss"
     path: "Arena Boss.brstm"
     type: battle
+  - id: marcadia_capital_city
+    title: "Marcadia - Capital City"
+    path: "Marcadia - Capital City.brstm"
+    type: betting
+  - id: veldin_f_sector
+    title: "Veldin - F-Sector"
+    path: "Veldin - F-Sector.brstm"
+    type: battle
 ...

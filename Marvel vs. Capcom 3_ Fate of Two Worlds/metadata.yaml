@@ -25,10 +25,6 @@ songs:
     title: "Arthur's Theme"
     path: "Arthur's Theme.brstm"
     type: battle
-  - id: chris_redfields_theme_mvc3
-    title: "Chris Redfield's Theme"
-    path: "Chris Redfield's Theme.brstm"
-    type: battle
   - id: daily_bugle_mvc3
     title: "Daily Bugle"
     path: "Daily Bugle.brstm"
@@ -58,4 +54,32 @@ songs:
     path: "Hawkeye's Theme.brstm"
     ends: 2:50
     type: betting
+  - id: amaterasu
+    title: "Amaterasu's Theme"
+    path: "Amaterasu's Theme.brstm"
+    type: result
+#      - id: felicia
+#        title: "Felicia's Theme"
+#        path: "Felicia's Theme.brstm"
+#        type: betting #Borderline too WutFace to fit after the 15 second mark
+#      - id: results
+#        title: "Results"
+#        path: "Results.brstm"
+#        type: result #Does not fit; change to betting?
+#      - id: team_select
+#        title: "Team Select"
+#        path: "Team Select.brstm"
+#        type: result #Borderline doesn't fit
+  - id: tron_bonne
+    title: "Tron Bonne's Theme"
+    path: "Tron Bonne's Theme.brstm"
+    type: result
+  - id: zero_mvc3
+    title: "Zero's Theme"
+    path: "Zero's Theme.brstm"
+    type: betting
+  - id: chris_redfields_theme
+    path: "Chris Redfield's Theme.brstm"
+    title: "Chris Redfield's Theme"
+    type: battle
 ...
