@@ -6,171 +6,171 @@ series: pokemon
 year: 1996
 songs: 
   - id: "1"
-    path: "Pokemon Red_01.gbs"
+    path: "Pokemon Red_Title Screen.gbs"
     title: "Title Screen"
     type: betting
   - id: "2"
-    path: "Pokemon Red_02.gbs"
+    path: "Pokemon Red_Game Start_Route 24.gbs"
     title: "Game Start/Route 24"
     type: betting
   - id: "3"
-    path: "Pokemon Red_03.gbs"
+    path: "Pokemon Red_Pallet Town.gbs"
     title: "Pallet Town"
     type: betting
   - id: "4"
-    path: "Pokemon Red_04.gbs"
+    path: "Pokemon Red_Pokemon Center.gbs"
     title: "Pokémon Center"
     type: betting
   - id: "5"
-    path: "Pokemon Red_05.gbs"
+    path: "Pokemon Red_Gym.gbs"
     title: "Gym"
     type: betting
   - id: "6"
-    path: "Pokemon Red_06.gbs"
+    path: "Pokemon Red_Viridian_Pewter_Saffron City.gbs"
     title: "Viridian/Pewter/Saffron City"
     type: betting
   - id: "7"
-    path: "Pokemon Red_07.gbs"
+    path: "Pokemon Red_Cerulean_Fuchsia City.gbs"
     title: "Cerulean/Fuchsia City"
     type: betting
   - id: "8"
-    path: "Pokemon Red_08.gbs"
+    path: "Pokemon Red_Celadon City_Link Room.gbs"
     title: "Celadon City/Link Room"
     type: betting
   - id: "9"
-    path: "Pokemon Red_09.gbs"
+    path: "Pokemon Red_Cinnabar Island.gbs"
     title: "Cinnabar Island"
     type: betting
   - id: "10"
-    path: "Pokemon Red_10.gbs"
+    path: "Pokemon Red_Vermilion City.gbs"
     title: "Vermilion City"
     type: betting
   - id: "11"
-    path: "Pokemon Red_11.gbs"
+    path: "Pokemon Red_Lavender Town.gbs"
     title: "Lavender Town"
     type: betting
   - id: "12"
-    path: "Pokemon Red_12.gbs"
+    path: "Pokemon Red_SS Anne.gbs"
     title: "S.S. Anne"
     type: betting
   - id: "17"
-    path: "Pokemon Red_17.gbs"
+    path: "Pokemon Red_Route 1.gbs"
     title: "Route 1"
     type: betting
   - id: "18"
-    path: "Pokemon Red_18.gbs"
+    path: "Pokemon Red_Route 3.gbs"
     title: "Route 3"
     type: betting
   - id: "19"
-    path: "Pokemon Red_19.gbs"
+    path: "Pokemon Red_Route 11.gbs"
     title: "Route 11"
     type: betting
   - id: "28"
-    path: "Pokemon Red_28.gbs"
+    path: "Pokemon Red_Staff Roll.gbs"
     title: "Staff Roll"
     type: result
   - id: "30"
-    path: "Pokemon Red_30.gbs"
+    path: "Pokemon Red_Prof Oak's Lab.gbs"
     title: "Prof. Oak's Lab"
     type: betting
   - id: "33"
-    path: "Pokemon Red_33.gbs"
+    path: "Pokemon Red_Surfing.gbs"
     title: "Surfing"
     type: betting
   - id: "35"
-    path: "Pokemon Red_35.gbs"
+    path: "Pokemon Red_Team Rocket Hideout.gbs"
     title: "Team Rocket Hideout"
     type: betting
   - id: "36"
-    path: "Pokemon Red_36.gbs"
+    path: "Pokemon Red_Viridian Forest.gbs"
     title: "Viridian Forest"
     type: betting
   - id: "37"
-    path: "Pokemon Red_37.gbs"
+    path: "Pokemon Red_Mt Moon.gbs"
     title: "Mt. Moon"
     type: betting
   - id: "38"
-    path: "Pokemon Red_38.gbs"
+    path: "Pokemon Red_Pokemon Mansion.gbs"
     title: "Pokémon Mansion"
     type: betting
   - id: "39"
-    path: "Pokemon Red_39.gbs"
+    path: "Pokemon Red_Pokemon Tower.gbs"
     title: "Pokémon Tower"
     type: betting
   - id: "40"
-    path: "Pokemon Red_40.gbs"
+    path: "Pokemon Red_Silph Co.gbs"
     title: "Silph Co."
     type: betting
   - id: "13"
-    path: "Pokemon Red_13.gbs"
+    path: "Pokemon Red_Prof Oak's Theme.gbs"
     title: "Prof. Oak's Theme"
     type: warning
   - id: "14"
-    path: "Pokemon Red_14.gbs"
+    path: "Pokemon Red_Rival's Theme.gbs"
     title: "Rival's Theme"
     type: warning
   - id: "15"
-    path: "Pokemon Red_15.gbs"
+    path: "Pokemon Red_Come Along.gbs"
     title: "Come Along"
     type: warning
   - id: "16"
-    path: "Pokemon Red_16.gbs"
+    path: "Pokemon Red_Evolution _ Safari Zone.gbs"
     title: "Evolution / Safari Zone"
     type: warning
   - id: "20"
-    path: "Pokemon Red_20.gbs"
+    path: "Pokemon Red_Route 23_Indigo Plateau_Pokemon League.gbs"
     title: "Route 23/Indigo Plateau/Pokémon League"
     type: warning
   - id: "41"
-    path: "Pokemon Red_41.gbs"
+    path: "Pokemon Red_Encounter! Bad Guy Trainer.gbs"
     title: "Encounter! Bad Guy Trainer"
     type: warning
   - id: "42"
-    path: "Pokemon Red_42.gbs"
+    path: "Pokemon Red_Encounter! Female Trainer.gbs"
     title: "Encounter! Female Trainer"
     type: warning
   - id: "43"
-    path: "Pokemon Red_43.gbs"
+    path: "Pokemon Red_Encounter! Male Trainer.gbs"
     title: "Encounter! Male Trainer"
     type: warning
   - id: "25"
-    path: "Pokemon Red_25.gbs"
+    path: "Pokemon Red_Victory! Trainer.gbs"
     title: "Victory! Trainer"
     type: result
   - id: "26"
-    path: "Pokemon Red_26.gbs"
+    path: "Pokemon Red_Victory! Wild Pokemon.gbs"
     title: "Victory! Wild Pokémon"
     type: result
   - id: "27"
-    path: "Pokemon Red_27.gbs"
+    path: "Pokemon Red_Victory! Gym Leader.gbs"
     title: "Victory! Gym Leader"
     type: result
   - id: "29"
-    path: "Pokemon Red_29.gbs"
+    path: "Pokemon Red_Hall of Fame.gbs"
     title: "Hall of Fame"
     type: result
   - id: "32"
-    path: "Pokemon Red_32.gbs"
+    path: "Pokemon Red_Bicycle.gbs"
     title: "Bicycle"
     type: result
   - id: "34"
-    path: "Pokemon Red_34.gbs"
+    path: "Pokemon Red_Game Corner_Link Trade Menu.gbs"
     title: "Game Corner/Link Trade Menu"
     type: result
   - id: "21"
-    path: "Pokemon Red_21.gbs"
+    path: "Pokemon Red_Battle! Gym Leader.gbs"
     title: "Battle! Gym Leader"
     type: battle
   - id: "22"
-    path: "Pokemon Red_22.gbs"
+    path: "Pokemon Red_Battle! Trainer.gbs"
     title: "Battle! Trainer"
     type: battle
   - id: "23"
-    path: "Pokemon Red_23.gbs"
+    path: "Pokemon Red_Battle! Wild Pokemon.gbs"
     title: "Battle! Wild Pokémon"
     type: battle
   - id: "24"
-    path: "Pokemon Red_24.gbs"
+    path: "Pokemon Red_Battle! Champion.gbs"
     title: "Battle! Champion"
     type: battle
 ...
