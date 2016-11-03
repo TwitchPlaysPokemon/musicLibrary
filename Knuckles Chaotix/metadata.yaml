@@ -26,12 +26,10 @@ songs:
   - id: evening_star
     title: "Evening Star"
     path: "Evening Star.vgz"
-    ends: 1:55
     type: break
   - id: hyper_hyper
     title: "Hyper-Hyper"
     path: "Hyper-Hyper.vgz"
-    ends: 1:30
     type: result
   - id: midnight_greenhouse
     title: "Midnight Greenhouse"
@@ -62,7 +60,6 @@ songs:
 #        title: "Walkin (Beta)"
 #        path: "Walkin (Beta).brstm"
 #        type: result
-# unfitting
   - id: childs_song
     title: "Child's Song"
     path: "Child's Song.vgz"

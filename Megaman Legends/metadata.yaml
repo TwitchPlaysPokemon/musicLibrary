@@ -1,6 +1,6 @@
 ---
 id: megaman_legends
-title: "Megaman Legends"
+title: "Mega Man Legends"
 series: megaman
 year: 1997
 platform: "PS1"
@@ -41,11 +41,10 @@ songs:
     title: "Library"
     path: "Library.PSF"
     type: break
-#      - id: at_a_place_nobody_knows
-#        title: "At A Place Nobody Knows"
-#        path: "At A Place Nobody Knows.PSF"
-#        type: result
-# unfitting result song
+  - id: at_a_place_nobody_knows
+    title: "At A Place Nobody Knows"
+    path: "At A Place Nobody Knows.PSF"
+    type: warning
   - id: city_hall_under_siege
     title: "City Hall under Siege"
     path: "City Hall under Siege.PSF"

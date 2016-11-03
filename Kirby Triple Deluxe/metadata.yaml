@@ -12,7 +12,8 @@ songs:
 #      - id: arena
 #        title: "Arena Battle"
 #        path: "The Arena [from Kirby Super Star].brstm"
-#        type: battle #Not tense and charged enough; possibly betting?
+#        type: battle 
+#Not tense and charged enough; possibly betting?
   - id: boss_kir3d
     title: "Attack! (Boss Battle)"
     path: "Attack! (Boss Battle).brstm"
@@ -24,7 +25,7 @@ songs:
 #      - id: ddd_results
 #        title: "Dedede's Drum Dash - Results"
 #        path: "King Dedede Drum Dash - Results.brstm"
-#        type: result #Borderline doesn't fit; possibly betting?
+#        type: result
 #      - id: dirty_and_beauty
 #        title: "Dirty & Beauty"
 #        path: "Dirty & Beauty (Queen Sectonia 1).brstm"
@@ -53,10 +54,10 @@ songs:
     title: "Moonstruck Blossom"
     path: "F-L-O-W-E-R (Queen Sectonia 2).brstm"
     type: battle
-#      - id: prairie
-#        title: "Prairie Area"
-#        path: "Fine Field 3 (Prairie Area).brstm"
-#        type: result #Does not fit. At all. WutFace
+  - id: prairie
+    title: "Prairie Area"
+    path: "Fine Field 3 (Prairie Area).brstm"
+    type: betting
   - id: prison
     title: "Prison of Beauty"
     path: "Prison of Beauty.brstm"
@@ -73,18 +74,18 @@ songs:
     title: "Sky Area"
     path: "Old Odyssey 2 (Sky Area) [''Peanut Plain'' from Kirby Super Star].brstm"
     type: betting
-#      - id: world_to_win
-#        title: "The World to Win"
-#        path: "Sectonia vs. Hypernova.brstm"
-#        type:  #no type
+  - id: world_to_win
+    title: "The World to Win"
+    path: "Sectonia vs. Hypernova.brstm"
+    type: battle
   - id: toy
     title: "Toy Area"
     path: "Lollipop Land 3 (Toy Area).brstm"
     type: betting
-#      - id: true_arena
-#        title: "True Arena Battle"
-#        path: "True Arena Battle.brstm"
-#        type: battle #Not tense and charged enough; weird tempo changes. Possible warning?
+  - id: true_arena
+    title: "True Arena Battle"
+    path: "True Arena Battle.brstm"
+    type: battle
   - id: world_map_kir3d
     title: "World Map"
     path: "World Map [''Green Greens'' from Kirby's Dream Land].brstm"

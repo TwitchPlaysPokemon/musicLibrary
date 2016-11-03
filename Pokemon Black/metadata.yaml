@@ -382,11 +382,10 @@ songs:
     path: "318 - The Curtain Rises on the Musical.mini2sf"
     title: "The Curtain Rises on the Musical"
     type: warning
-#      - id: musical_stardom
-#        path: "319 - Musical ''Stardom!''.mini2sf"
-#        title: "Musical \"Stardom!\""
-#        type: result
-# does not loop
+  - id: musical_stardom
+    path: "319 - Musical ''Stardom!''.mini2sf"
+    title: "Musical \"Stardom!\""
+    type: result
   - id: two_people_on_the_ferris_wheel
     path: "323 - Two People on the Ferris Wheel.mini2sf"
     title: "Two People on the Ferris Wheel"

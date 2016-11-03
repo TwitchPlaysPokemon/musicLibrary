@@ -53,11 +53,10 @@ songs:
     title: "Rush!"
     path: "Rush!.brstm"
     type: betting
-#      - id: forest_of_nostalgia
-#        title: "Forest of Nostalgia"
-#        path: "Forest of Nostalgia.brstm"
-#        type: result
-# sad result song
+  - id: forest_of_nostalgia
+    title: "Forest of Nostalgia"
+    path: "Forest of Nostalgia.brstm"
+    type: break
   - id: born_yesterday
     title: "Born Yesterday"
     path: "Born Yesterday.brstm"

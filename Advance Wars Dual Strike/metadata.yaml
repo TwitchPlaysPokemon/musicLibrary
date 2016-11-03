@@ -5,14 +5,14 @@ title: "Advance Wars: Dual Strike"
 series: advancewars
 year: 2005
 songs: 
-#      - id: power
-#        path: "Power!.brstm"
-#        title: "Power!"
-#        type: result #Does not fit
-#      - id: super_co_power
-#        path: "Super CO Power.brstm"
-#        title: "Super CO Power"
-#        type: result #Does not fit
+  - id: power
+    path: "Power!.brstm"
+    title: "Power!"
+    type: warning
+  - id: super_co_power
+    path: "Super CO Power.brstm"
+    title: "Super CO Power"
+    type: warning
 #      - id: tag_power
 #        path: "Tag Power!.brstm"
 #        title: "Tag Power!"

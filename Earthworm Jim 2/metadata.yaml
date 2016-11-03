@@ -10,11 +10,10 @@ songs:
     path: "Anything but Tangerines.brstm"
     ends: 2:10
     type: betting
-#      - id: game_show_ej2
-#        title: "Game Show"
-#        path: "Game Show.brstm"
-#        type: betting
-# unfitting, sadly
+  - id: game_show_ej2
+    title: "Game Show"
+    path: "Game Show.brstm"
+    type: result
   - id: lorenzens_soil
     title: "Lorenzen's Soil"
     path: "Lorenzen's Soil.brstm"

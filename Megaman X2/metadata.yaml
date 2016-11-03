@@ -1,6 +1,6 @@
 ---
 id: megaman_x2
-title: "Megaman X2"
+title: "Mega Man X2"
 series: megaman
 year: 1994
 platform: "SNES"
@@ -21,10 +21,10 @@ songs:
     title: "Dust Devil"
     path: "15 Dust Devil.spc"
     type: battle
-      #- id: mortal_combat
-      #  title: "Mortal Combat"
-      #  path: "27 Mortal Combat.spc"
-      #  type: battle
+  - id: mortal_combat
+    title: "Mortal Combat"
+    path: "27 Mortal Combat.spc"
+    type: warning
   - id: mavericks_last_stand
     title: "The Mavericks' Last Stand"
     path: "04 The Mavericks' Last Stand.spc"

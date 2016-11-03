@@ -1,6 +1,6 @@
 ---
 id: megaman_x5
-title: "Megaman X5"
+title: "Mega Man X5"
 series: megaman
 year: 2000
 platform: "PS1"
@@ -57,11 +57,10 @@ songs:
     title: "Ending"
     path: "Ending.brstm"
     type: break
-#      - id: zero_stage_1
-#        title: "Cyber Maze_Crater (Zero Stage 1)"
-#        path: "Cyber Maze_Crater (Zero Stage 1).brstm"
-#        type: result
-# unfitting result song
+  - id: zero_stage_1
+    title: "Cyber Maze/Crater (Zero Stage 1)"
+    path: "Cyber Maze_Crater (Zero Stage 1).brstm"
+    type: betting
   - id: character_select_mmx5
     title: "Character Select"
     path: "Character Select.brstm"

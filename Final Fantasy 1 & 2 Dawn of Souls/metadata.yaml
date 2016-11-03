@@ -5,10 +5,10 @@ series: finalfantasy
 year: 2004
 platform: "GBA"
 songs:
-#      - id: battle_ff1
-#        title: "Battle Scene (FF1)"
-#        path: "117 Battle Scene.minigsf"
-#        type: battle #Not ense enough due to soundfont
+  - id: battle_ff1
+    title: "Battle Scene (FF1)"
+    path: "117 Battle Scene.minigsf"
+    type: warning
   - id: victory_ff1
     title: "Victory Fanfare (FF1)"
     path: "118 Victory.minigsf"
@@ -40,11 +40,11 @@ songs:
   - id: battle_scene_a_ff2
     title: "Battle Scene A (FF2)"
     path: "224 Battle Scene A.minigsf"
-    type: betting
+    type: warning
   - id: battle_scene_b_ff2
     title: "Battle Scene B (FF2)"
     path: "225 Battle Scene B.minigsf"
-    type: betting
+    type: warning
   - id: battle_scene_2_ff2
     title: "Battle Scene 2 (FF2)"
     path: "226 Battle Scene 2.minigsf"

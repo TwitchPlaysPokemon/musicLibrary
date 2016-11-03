@@ -57,11 +57,10 @@ songs:
     path: "Night of Big Blue.brstm"
     title: "Night of Big Blue"
     type: battle
-#      - id: option
-#        path: "Option.brstm"
-#        title: "Option"
-#        type: result
-# unfitting result song
+  - id: option
+    path: "Option.brstm"
+    title: "Option"
+    type: break
   - id: outer_space
     path: "Outer Space.brstm"
     title: "Outer Space"

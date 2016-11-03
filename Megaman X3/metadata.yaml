@@ -1,6 +1,6 @@
 ---
 id: megaman_x3
-title: "Megaman X3"
+title: "Mega Man X3"
 series: megaman
 year: 1995
 platform: "SNES"
@@ -49,11 +49,10 @@ songs:
     title: "Tunnel Rhino"
     path: "12 Tunnel Rhino.spc"
     type: betting
-#      - id: password_screen_mmx3
-#        title: "Password"
-#        path: "19 Password.spc"
-#        type: result
-# unfitting result song
+  - id: password_screen_mmx3
+    title: "Password"
+    path: "19 Password.spc"
+    type: warning
   - id: zero_appears_mmx3
     title: "Zero"
     path: "04 Zero.spc"
