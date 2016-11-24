@@ -1,0 +1,18 @@
+id: turbo_outrun
+title: "Turbo Outrun"
+year: 1989
+platform: "Arcade"
+songs:
+  - id: keep_your_heart
+    title: "Keep Your Heart"
+    path: "Keep Your Heart.brstm"
+    ends: 3:30
+    type: betting
+  - id: shake_the_street
+    title: "Shake the Street"
+    path: "Shake the Street.brstm"
+    type: battle
+  - id: checker_flag
+    title: "Checker Flag"
+    path: "Checker Flag.brstm"
+    type: result

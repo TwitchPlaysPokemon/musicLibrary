@@ -1,0 +1,25 @@
+id: koihime_musou
+title: "Koihime†Musō: Doki Otome Darake no Sangokushi Engi"
+year: 2007
+platform: ["PS2", "PC"]
+songs:
+  - id: blitzkrieg_debutante
+    title: "Blitzkrieg Debutante"
+    path: "Blitzkrieg Debutante.brstm"
+    type: betting
+  - id: clamor_of_victory
+    title: "Clamor of Victory"
+    path: "Clamor of Victory.brstm"
+    type: result
+  - id: every_day_is_a_peaceful_one
+    title: "Every Day is a Peaceful One"
+    path: "Every Day is a Peaceful One.brstm"
+    type: break
+  - id: ladies_chatting_over_tea
+    title: "Ladies Chatting Over Tea"
+    path: "Ladies Chatting Over Tea.brstm"
+    type: break
+  - id: most_distinguished_household
+    title: "Most Distinguished Household!"
+    path: "Most Distinguished Household!.brstm"
+    type: betting

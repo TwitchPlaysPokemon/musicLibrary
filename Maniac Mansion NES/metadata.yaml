@@ -1,0 +1,37 @@
+id: maniac_mansion_nes
+title: "Maniac Mansion"
+year: 1990
+platform: "NES"
+songs:
+  - id: opening_theme_mm
+    title: "Opening Theme"
+    path: "Opening Theme.brstm"
+    type: result
+  - id: ending_credits_mm
+    title: "Ending Credits"
+    path: "Ending Credits.brstm"
+    type: betting
+  - id: dave_mm
+    title: "Dave's Theme"
+    path: "Dave's Theme.brstm"
+    type: result
+  - id: razor_mm
+    title: "Razor's Theme"
+    path: "Razor's Theme.brstm"
+    type: warning
+  - id: bernard_mm
+    title: "Bernard's Theme"
+    path: "Bernard's Theme.brstm"
+    type: betting
+  - id: syd_mm
+    title: "Syd's Theme"
+    path: "Syd's Theme.brstm"
+    type: warning
+  - id: michael_mm
+    title: "Michael's Theme"
+    path: "Michael's Theme.brstm"
+    type: betting
+  - id: edison_family
+    title: "Edison Family / Tentacle Theme"
+    path: "Edison Family - Tentacle Theme.brstm"
+    type: warning

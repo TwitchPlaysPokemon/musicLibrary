@@ -1,0 +1,14 @@
+id: luigi_mansion_dark_moon
+title: "Luigi's Mansion: Dark Moon"
+series: mario
+platform: "3DS"
+year: 2013
+songs:
+  - id: tower_totals
+    title: "Tower Totals"
+    path: "Tower Totals.brstm"
+    type: result
+  - id: mission_results_luigi
+    title: "Mission Results"
+    path: "Mission Results.brstm"
+    type: result

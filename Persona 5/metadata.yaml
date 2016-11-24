@@ -1,0 +1,17 @@
+id: persona_5
+title: "Persona 5"
+year: 2016
+platform: ["PS3", "PS4"]
+songs:
+  - id: strategy_before
+    title: "Strategy - Before"
+    path: "Strategy - Before.brstm"
+    type: betting
+  - id: strategy_active_period
+    title: "Strategy - Active Period"
+    path: "Strategy - Active Period.brstm"
+    type: betting
+  - id: home_persona_5
+    title: "Home"
+    path: "Home.brstm"
+    type: break

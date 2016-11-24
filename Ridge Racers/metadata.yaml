@@ -1,9 +1,13 @@
 id: ridge_racer
 title: "Ridge Racer"
 year: 1993
-platform: "Arcade"
+platform: ["Arcade", "PS1"]
 songs:
   - id: vanishing_horizon
     title: "Vanishing Horizon"
     path: "Vanishing Horizon.brstm"
+    type: betting
+  - id: ridge_racer
+    title: "Ridge Racer"
+    path: "Ridge Racer.brstm"
     type: betting

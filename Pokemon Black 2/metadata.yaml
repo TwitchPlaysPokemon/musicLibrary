@@ -369,4 +369,24 @@ songs:
     path: "White Tree Hollow.brstm"
     title: "White Tree Hollow"
     type: break
+  - id: black_tower
+    path: "Black Tower.brstm"
+    title: "Black Tower"
+    type: betting
+  - id: reversal_mountain_black_2
+    path: "Reversal Mountain (Black 2).brstm"
+    title: "Reversal Mountain (Black 2)"
+    type: betting
+  - id: pokestar_confrontation
+    path: "Pokestar Studios - Theme of Confrontation.brstm"
+    title: "Pokéstar Studios - Theme of Confrontation"
+    type: warning
+  - id: black_tower_entrance
+    path: "Black Tower - Entrance.brstm"
+    title: "Black Tower - Entrance"
+    type: result
+  - id: white_treehollow_entrance
+    path: "White Tree Hollow - Entrance.brstm"
+    title: "White Tree Hollow - Entrance"
+    type: result
 ...

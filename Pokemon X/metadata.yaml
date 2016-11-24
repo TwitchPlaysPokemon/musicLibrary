@@ -157,11 +157,10 @@ songs:
     path: "Kiloude City.brstm"
     title: "Kiloude City"
     type: betting
-#      - id: kiseki
-#        path: "Kiseki.brstm"
-#        title: "Kiseki"
-#        type: betting
-# broken loop
+  - id: kiseki
+    path: "Kiseki.brstm"
+    title: "Kiseki"
+    type: break
   - id: laverre_city
     path: "Laverre City.brstm"
     title: "Laverre City"
@@ -415,4 +414,28 @@ songs:
     title: "Tile Puzzle"
     path: "Tile Puzzle.brstm"
     type: result
+  - id: a_poke_radar_hit
+    title: "A Poké Radar Hit!"
+    path: "A Poke Radar Hit!.brstm"
+    type: warning
+  - id: sina_and_dexio
+    title: "Sina and Dexio"
+    path: "Sina and Dexio.brstm"
+    type: result
+  - id: kalos_region_theme
+    title: "Kalos Region Theme"
+    path: "Kalos Region Theme.brstm"
+    type: betting
+  - id: gogoat_shuttle
+    title: "Gogoat Shuttle"
+    path: "Gogoat Shuttle.brstm"
+    type: result
+  - id: tower_of_mastery
+    title: "Tower of Mastery"
+    path: "Tower of Mastery.brstm"
+    type: break
+  - id: wonder_trade_xy
+    title: "Wonder Trade"
+    path: "Wonder Trade.brstm"
+    type: betting
 ...

@@ -1,0 +1,17 @@
+id: runescape
+title: "RuneScape"
+platform: "PC"
+year: 2001
+songs: 
+  - id: gnome_village
+    title: "Gnome Village"
+    path: "Gnome Village.brstm"
+    type: betting
+  - id: landlubber
+    title: "Landlubber"
+    path: "Landlubber.brstm"
+    type: break
+  - id: meddling_kids
+    title: "Meddling Kids"
+    path: "Meddling Kids.brstm"
+    type: betting

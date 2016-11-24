@@ -1,0 +1,15 @@
+id: aladdin_genesis
+title: "Aladdin"
+platform: "Genesis"
+year: 1993
+songs:
+  - id: camel_jazz
+    title: "Camel Jazz"
+    path: "Camel Jazz.vgz"
+    ends: 3:00
+    type: betting
+  - id: prince_ali
+    title: "Prince Ali"
+    path: "Prince Ali.vgz"
+    ends: 2:22
+    type: betting

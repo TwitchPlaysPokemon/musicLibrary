@@ -1,0 +1,34 @@
+id: super_mario_3d_land
+title: "Super Mario 3D Land"
+year: 2011
+platform: "3DS"
+series: mario
+songs:
+  - id: pom_pom
+    title: "Pom-Pom"
+    path: "Pom Pom.brstm"
+    type: warning
+  - id: boom_boom
+    title: "Boom-Boom"
+    path: "Boom Boom.brstm"
+    type: warning
+  - id: beach_theme_land
+    title: "Beach Theme (Land)"
+    path: "Beach Theme (Land).brstm"
+    type: betting
+  - id: snow_land
+    title: "Snow Land"
+    path: "Snow Land.brstm"
+    type: betting
+  - id: mushroom_house_inside
+    title: "Mushroom House (Inside)"
+    path: "Mushroom House (Inside).brstm"
+    type: warning
+  - id: mystery_box_3dland
+    title: "Mystery Box"
+    path: "Mystery Box.brstm"
+    type: warning
+  - id: overworld_3dland
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: betting

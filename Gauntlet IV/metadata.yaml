@@ -1,0 +1,37 @@
+id: gauntlet_iv
+title: "Gauntlet IV"
+year: 1993
+platform: "Genesis"
+songs:
+  - id: back_of_beyond
+    title: "Back of Beyond"
+    path: "06 - Back of Beyond.vgz"
+    type: warning
+  - id: whisper_of_phantom
+    title: "Whisper of Phantom"
+    path: "07 - Whisper of Phantom.vgz"
+    type: betting
+  - id: march_in_the_dark
+    title: "March in the Dark"
+    path: "08 - March in the Dark.vgz"
+    type: betting
+  - id: sortie
+    title: "Sortie"
+    path: "09 - Sortie.vgz"
+    type: betting
+  - id: transparent_obstacle
+    title: "Transparent Obstacle"
+    path: "10 - Transparent Obstacle.vgz"
+    type: warning
+  - id: adventures_of_iron
+    title: "Adventures of Iron"
+    path: "11 - Adventures of Iron.vgz"
+    type: break
+  - id: fire_starter
+    title: "Fire Starter"
+    path: "12 - Fire Starter.vgz"
+    type: warning
+  - id: crux
+    title: "Crux"
+    path: "14 - Crux.vgz"
+    type: warning

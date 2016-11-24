@@ -1,0 +1,9 @@
+id: one_piece_grand_battle_3
+title: "One Piece Grand Battle! 3"
+year: 2003
+platform: ["PS2", "GC"]
+songs:
+  - id: options_op3
+    title: "Options"
+    path: "Options.adx"
+    type: break

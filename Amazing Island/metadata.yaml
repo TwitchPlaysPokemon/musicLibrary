@@ -1,0 +1,13 @@
+id: amazing_island
+title: "Amazing Island"
+year: 2004
+platform: "GC"
+songs:
+  - id: hall_of_life
+    title: "Hall of Life"
+    path: "Hall of Life.brstm"
+    type: break
+  - id: results_ai
+    title: "Results"
+    path: "Results.brstm"
+    type: result

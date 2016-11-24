@@ -19,3 +19,27 @@ songs:
     title: "Joy of Victory"
     path: "Joy of Victory - Bravely Second.brstm"
     type: result
+  - id: battle_of_providence
+    title: "Battle of Providence (Final Boss)"
+    path: "Battle of Providence (Final Boss).brstm"
+    type: battle
+  - id: normal_battle_second
+    title: "Sound Striped Bell (Normal Battle)"
+    path: "Normal Battle.brstm"
+    type: battle
+  - id: menu_second
+    title: "Menu"
+    path: "Menu.brstm"
+    type: break
+  - id: yunohana
+    title: "Onsen Yunohana (Yunohana, the Hot Spring Village)"
+    path: "Yunohana, the Hot Spring Village.brstm"
+    type: break
+  - id: shop_second
+    title: "I Think This is Also Good (Shop)"
+    path: "Shop.brstm"
+    type: betting
+  - id: visitor_second
+    title: "Visitor"
+    path: "Visitor.brstm"
+    type: warning

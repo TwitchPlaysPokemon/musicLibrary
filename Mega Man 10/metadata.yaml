@@ -44,4 +44,12 @@ songs:
     title: "No Turning Back (Wily Stage 3)"
     path: "No_Turning_Back.brstm"
     type: betting
+  - id: heart_of_enker
+    title: "Heart of Enker (Special Stage 1)"
+    path: "Heart of Enker (Special Stage 1).brstm"
+    type: betting
+  - id: get_the_punk_out
+    title: "Get the Punk Out (Special Stage 2)"
+    path: "Get the Punk Out (Special Stage 2).brstm"
+    type: betting
 ...

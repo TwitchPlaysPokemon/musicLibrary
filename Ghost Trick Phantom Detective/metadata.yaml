@@ -1,6 +1,6 @@
 ---
 id: ghost_trick_phantom_detective
-title: "Ghost Trick Phantom Detective"
+title: "Ghost Trick: Phantom Detective"
 year: 2010
 platform: "NDS"
 songs:
@@ -105,4 +105,8 @@ songs:
     title: "The Last Desperate Struggle"
     path: "215 The Last Desperate Struggle.mini2sf"
     type: warning
+  - id: suspicion_gt
+    title: "SUSPICION"
+    path: "SUSPICION.brstm"
+    type: break
 ...

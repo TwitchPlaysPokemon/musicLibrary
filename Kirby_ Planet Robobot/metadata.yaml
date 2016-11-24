@@ -56,3 +56,59 @@ songs:
     title: "Final Boss (Phase 3)"
     path: "Last Fight - Super Nova (vs Star Dream Soul OS).brstm"
     type: battle
+  - id: crowned_drum_dash_deluxe
+    title: "CROWNED (Dedede's Drum Dash Deluxe)"
+    path: "CROWNED (Dedede's Drum Dash Deluxe).brstm"
+    type: battle
+  - id: dedede_three
+    title: "Dedede Three"
+    path: "Dedede Three (Vs Dedede Clones & D3).brstm"
+    type: battle
+  - id: warrior_from_another_world
+    title: "Warrior from Another World"
+    path: "Warrior from Another World (Galacta Knight).brstm"
+    type: battle
+  - id: access_ark_virutal_dimension
+    title: "Access Ark ~ Virtual Dimension"
+    path: "Acciss Arcs 3 - Virtual Dimension.brstm"
+    type: warning
+  - id: heart_of_nova
+    title: "Heart of Nova"
+    path: "Heart of Nova.brstm"
+    type: warning
+  - id: haltmann_works_elite_management
+    title: "Haltmann Works Elite Management"
+    path: "Haltmann Works Elite Management (Boss Battle).brstm"
+    type: warning
+  - id: grass_area_orchestral
+    title: "Grass Area (Orchestral)"
+    path: "Grass Area (Orchestral).brstm"
+    type: betting
+  - id: aqua_harbor_robobot
+    title: "Aqua Harbor"
+    path: "Aqua Harbor (Kirby Super Star - Float Islands).brstm"
+    type: betting
+  - id: haltmann_works_co_hq
+    title: "Haltmann Works Co (HQ Area)"
+    path: "Haltmann Works Co (HQ Area).brstm"
+    type: betting
+  - id: core_kabula
+    title: "Core Kabula"
+    path: "Core Kabula Battle.brstm"
+    type: betting
+  - id: loud_locomotive
+    title: "Acciss Arcs 2 - Loud Locomotive"
+    path: "Acciss Arcs 2 - Loud Locomotive.brstm"
+    type: betting
+  - id: world_map_robobot
+    title: "World Map"
+    path: "World Map.brstm"
+    type: break
+  - id: title_screen_k3drumble
+    title: "Title Screen (Kirby 3D Rumble)"
+    path: "Kirby 3D Rumble.brstm"
+    type: break
+  - id: chief_kawasaki
+    title: "Chief Kawasaki (Kirby Star Stacker)"
+    path: "Chief Kawasaki (Kirby Star Stacker).brstm"
+    type: warning

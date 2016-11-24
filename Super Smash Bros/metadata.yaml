@@ -37,4 +37,8 @@ songs:
     title: "Data"
     path: "Data.brstm"
     type: break
+  - id: starman_ssb64
+    title: "Starman"
+    path: "Starman.brstm"
+    type: warning
 ...

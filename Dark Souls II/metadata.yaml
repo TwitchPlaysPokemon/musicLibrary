@@ -1,0 +1,10 @@
+id: dark_souls_2
+title: "Dark Souls II"
+series: darksouls
+year: 2014
+platform: ["PS3", "360", "PC"]
+songs:
+  - id: skeleton_lord
+    title: "Skeleton Lords"
+    path: "skeleton_lord.brstm"
+    type: betting

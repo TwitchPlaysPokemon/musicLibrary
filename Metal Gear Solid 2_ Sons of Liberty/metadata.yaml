@@ -17,4 +17,12 @@ songs:
     title: "Father And Son"
     path: "Father And Son.brstm"
     type: warning
+  - id: battle_on_the_big_shell
+    title: "Battle On The Big Shell (Album Version)"
+    path: "Battle On The Big Shell (Album Version).brstm"
+    type: betting
+  - id: tanker_incident
+    title: "Tanker Incident (Album Version)"
+    path: "Tanker Incident (Album Version).brstm"
+    type: warning
 ...

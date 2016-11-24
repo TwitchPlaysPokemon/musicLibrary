@@ -49,4 +49,28 @@ songs:
     path: "Phoenix Wright ~ Objection! 2001.brstm"
     title: "Phoenix Wright ~ Objection! 2001"
     type: warning
+  - id: congratulations_everybody
+    path: "Congratulations Everybody.mini2sf"
+    title: "Congratulations Everybody"
+    type: result
+  - id: courtroom_lounge_opening_prelude
+    path: "Courtroom Lounge ~ Opening Prelude.mini2sf"
+    title: "Courtroom Lounge ~ Opening Prelude"
+    type: betting
+  - id: investigation_core_2001
+    path: "Investigation ~ Core 2001.mini2sf"
+    title: "Investigation ~ Core 2001"
+    type: warning
+  - id: investigation_opening_2001
+    path: "Investigation ~ Opening 2001.mini2sf"
+    title: "Investigation ~ Opening 2001"
+    type: betting
+  - id: marvin_grossberg
+    path: "Marvin Grossberg ~ Age, Regret, Retribution.mini2sf"
+    title: "Marvin Grossberg ~ Age, Regret, Retribution"
+    type: break
+  - id: the_steel_samurai
+    path: "The Steel Samurai, Warrior of Neo Olde Tokyo.mini2sf"
+    title: "The Steel Samurai, Warrior of Neo Olde Tokyo"
+    type: warning
 ...

@@ -1,0 +1,18 @@
+﻿id: reflec_beat_colette_summer
+title: "REFLEC BEAT colette -Summer-"
+year: 2013
+series: reflecbeat
+platform: "Arcade"
+songs:
+  - id: aether_reflec
+    title: "ÆTHER"
+    path: "AETHER.brstm"
+    type: battle
+  - id: wadatsumi
+    title: "Wadatsumi"
+    path: "Wadatsumi.brstm"
+    type: betting
+  - id: examination_leave
+    title: "examination leave"
+    path: "examination leave.brstm"
+    type: result

@@ -8,3 +8,11 @@ songs:
     title: "Overworld"
     path: "Overworld.brstm"
     type: break
+  - id: hotfoot_hurdle
+    title: "Hotfoot Hurdle"
+    path: "Hotfoot Hurdle.brstm"
+    type: betting
+  - id: hop_n_pop_till_you_drop
+    title: "Hop 'n' Pop Till You Drop"
+    path: "Hop 'n' Pop Till You Drop.brstm"
+    type: break

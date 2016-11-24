@@ -20,3 +20,23 @@ songs:
     title: "Dire, Dire Docks (OST Version)"
     path: "Dire, Dire Docks (OST Version).brstm"
     type: betting
+  - id: cave_dungeon
+    title: "Cave Dungeon"
+    path: "Cave Dungeon.brstm"
+    type: betting
+  - id: inside_the_castle_walls
+    title: "Inside the Castle Walls"
+    path: "Inside the Castle Walls.miniusf"
+    type: break
+  - id: koopa_theme_sm64
+    title: "Koopa's Theme"
+    path: "Koopa's Theme.miniusf"
+    type: warning
+  - id: metallic_mario
+    title: "Metallic Mario"
+    path: "Metallic Mario.miniusf"
+    type: warning
+  - id: staff_roll_sm64
+    title: "Staff Roll"
+    path: "Staff Roll.miniusf"
+    type: betting

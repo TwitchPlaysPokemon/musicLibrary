@@ -1,0 +1,9 @@
+id: jubeat
+title: "jubeat"
+year: 2008
+platform: "Arcade"
+songs:
+  - id: evans_jubeat
+    title: "Evans"
+    path: "Evans.brstm"
+    type: battle

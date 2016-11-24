@@ -1,0 +1,10 @@
+id: mario_kart_arcade_gp
+title: "Mario Kart Arcade GP"
+year: 2005
+platform: "Arcade"
+series: mario
+songs:
+  - id: menu_mkgp
+    title: "Menu"
+    path: "Menu.brstm"
+    type: result

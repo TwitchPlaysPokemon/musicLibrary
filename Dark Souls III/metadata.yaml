@@ -1,0 +1,18 @@
+id: dark_souls_3
+title: "Dark Souls III"
+series: darksouls
+year: 2016
+platform: ["PS4", "XB1", "PC"]
+songs:
+  - id: firelink_shrine
+    title: "Firelink Shrine"
+    path: "firelink_shrine.brstm"
+    type: break
+  - id: king_of_the_storm
+    title: "King of the Storm"
+    path: "king_of_the_storm.brstm"
+    type: battle
+  - id: soul_of_cinder_phase_1
+    title: "Soul of Cinder (Phase 1)"
+    path: "soul_of_cinder_phase_1.brstm"
+    type: battle

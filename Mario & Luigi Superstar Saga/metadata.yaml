@@ -8,3 +8,51 @@ songs:
     title: "Final Cackletta Battle"
     path: "Final Cackletta Battle.brstm"
     type: warning
+  - id: battle_mlsaga
+    title: "Battle"
+    path: "Battle.minigsf"
+    type: warning
+  - id: beanbean_castle
+    title: "Beanbean Castle"
+    path: "Beanbean Castle.minigsf"
+    type: betting
+  - id: beanbean_fields
+    title: "Beanbean Fields"
+    path: "Beanbean Fields.minigsf"
+    type: betting
+  - id: boss_battle_mlsaga
+    title: "Boss Battle"
+    path: "Boss Battle.minigsf"
+    type: warning
+  - id: cackletta_battle
+    title: "Cackletta Battle"
+    path: "Cackletta Battle.minigsf"
+    type: warning
+  - id: file_select_mlsaga
+    title: "File Select"
+    path: "File Select.minigsf"
+    type: break
+  - id: gwarhar_lagoon
+    title: "Gwarhar Lagoon"
+    path: "Gwarhar Lagoon.minigsf"
+    type: betting
+  - id: hoohoo_village
+    title: "Hoohoo Village"
+    path: "Hoohoo Village.minigsf"
+    type: betting
+  - id: panic_mlsaga
+    title: "Panic!"
+    path: "Panic!.minigsf"
+    type: warning
+  - id: popple_battle
+    title: "Popple Battle"
+    path: "Popple Battle.minigsf"
+    type: battle
+  - id: professor_e_gadd_mlsaga
+    title: "Professor E. Gadd"
+    path: "Professor E Gadd.minigsf"
+    type: betting
+  - id: victory_mlsaga
+    title: "Victory"
+    path: "Victory.minigsf"
+    type: result
