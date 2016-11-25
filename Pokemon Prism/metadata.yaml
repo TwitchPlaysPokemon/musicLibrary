@@ -22,4 +22,44 @@ songs:
     title: "Battle! Pallet Patrol"
     path: "Pokemon Prism_Battle! Pallet Patrol.brstm"
     type: battle
+  - id: encounter_pallet_patrol
+    title: "Encounter! Pallet Patrol"
+    path: "Encounter! Pallet Patrol.brstm"
+    type: warning
+  - id: laurel_forest_prism
+    title: "Laurel Forest (Eterna Forest)"
+    path: "Laurel Forest (Eterna Forest).brstm"
+    type: break
+  - id: phacelia_town_prism
+    title: "Phacelia Town (Oreburgh City)"
+    path: "Phacelia Town (Oreburgh City).brstm"
+    type: betting
+  - id: power_plant_prism
+    title: "Power Plant (Kalos Power Plant)"
+    path: "Power Plant (Kalos Power Plant).brstm"
+    type: betting
+  - id: route_69_prism
+    title: "Route 69 (Sinnoh Route 203)"
+    path: "Route 69 (Sinnoh Route 203).brstm"
+    type: betting
+  - id: route_71_prism
+    title: "Route 71 (Sinnoh Route 209)"
+    path: "Route 71 (Sinnoh Route 209).brstm"
+    type: betting
+  - id: route_73_prism
+    title: "Route 73 (Sinnoh Route 210)"
+    path: "Route 73 (Sinnoh Route 210).brstm"
+    type: betting
+  - id: route_84_prism
+    title: "Route 84 (Sinnoh Route 216)"
+    path: "Route 84 (Sinnoh Route 216).brstm"
+    type: betting
+  - id: tunod_prism
+    title: "South Southerly/Tunod Waterway (Hoenn Route 104)"
+    path: "South Southerly - Tunod Waterway (Hoenn Route 104).brstm"
+    type: betting
+  - id: title_screen_prism
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
 ...
