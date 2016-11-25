@@ -1,6 +1,6 @@
 ---
 id: pokemon_anniversary_crystal
-title: "Pokémon Anniversary Crystal: Pigu's Arranges"
+title: "Pokémon Anniversary Crystal"
 series: pokemon
 platform: "GBC"
 is_fanwork: true
@@ -11,15 +11,15 @@ songs:
     path: "251short.brstm"
     type: betting
   - id: annicrystal_hooh
-    title: "Ho-oh battle"
+    title: "Battle! Ho-Oh"
     path: "hooh.brstm"
     type: battle
   - id: annicrystal_luj
-    title: "Lugia Battle"
+    title: "Battle! Lugia"
     path: "luj.brstm"
     type: battle
   - id: annicrystal_kantolegend
-    title: "Kanto Legendary Battle"
+    title: "Battle! Kanto Legendary"
     path: "kantolegend.brstm"
     type: battle
   - id: annicrystal_ssane
@@ -31,7 +31,7 @@ songs:
     path: "title.brstm"
     type: result
   - id: annicrystal_elm
-    title: "Prof. Elm Battle"
+    title: "Battle! Professor Elm"
     path: "wcs.brstm"
     type: battle
   - id: annicrystal_cerulean
