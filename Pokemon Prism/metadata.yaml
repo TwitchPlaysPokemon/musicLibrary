@@ -10,21 +10,33 @@ songs:
     title: "Battle! Wild Pokémon"
     path: "Pokemon Prism_Battle! Wild Pokemon.brstm"
     type: battle
-  - id: trainer_battle_prism
-    title: "Battle! Pokémon Trainer"
+  - id: arcade_battle_prism
+    title: "Battle! Arcade Challenger"
     path: "Pokemon Prism_Battle! Pokemon Trainer.brstm"
     type: battle
   - id: gym_leader_prism
     title: "Battle! Gym Leader"
     path: "Pokemon Prism_Battle! Gym Leader.brstm"
     type: battle
-  - id: pallet_patrol_prism
-    title: "Battle! Pallet Patrol"
+  - id: palette_patrol_prism
+    title: "Battle! Palette Patrol"
     path: "Pokemon Prism_Battle! Pallet Patrol.brstm"
     type: battle
-  - id: encounter_pallet_patrol
-    title: "Encounter! Pallet Patrol"
+  - id: encounter_palette_patrol
+    title: "Encounter! Palette Patrol"
     path: "Encounter! Pallet Patrol.brstm"
+    type: warning
+  - id: encounter_trainer_prism
+    title: "Encounter! Pokémon Trainer"
+    path: "Encounter! Pokemon Trainer.brstm"
+    type: warning
+  - id: encounter_grill_prism
+    title: "Encounter! Female Trainer"
+    path: "Encounter! Female Trainer.brstm"
+    type: warning
+  - id: encounter_girl2_prism
+    title: "Encounter! Female Trainer 2"
+    path: "Encounter! Female Trainer 2.brstm"
     type: warning
   - id: laurel_forest_prism
     title: "Laurel Forest (Eterna Forest)"
