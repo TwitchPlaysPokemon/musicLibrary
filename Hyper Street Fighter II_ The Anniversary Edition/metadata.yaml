@@ -32,7 +32,7 @@ songs:
 id: street_fighter_ii
 title: "Street Fighter II'"
 series: streetfighter
-platform: ["Arcade, "Various"]
+platform: ["Arcade", "Various"]
 year: 1991
 songs:
   - id: guile_theme_cps1
@@ -54,7 +54,7 @@ songs:
 id: super_street_fighter_ii_turbo
 title: "Super Street Fighter II Turbo"
 series: streetfighter
-platform: ["Arcade, "3DO"]
+platform: ["Arcade", "3DO"]
 year: 1994
 songs:
   - id: cammy_theme_cps2
