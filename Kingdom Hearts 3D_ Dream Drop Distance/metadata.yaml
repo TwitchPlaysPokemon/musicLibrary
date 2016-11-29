@@ -5,11 +5,11 @@ series: kingdomhearts
 year: 2012
 platform: "3DS"
 songs:
-  - id: xehanort_-the_early_years-
+  - id: xehanort_the_early_years
     title: "Xehanort -The Early Years-"
     path: "Xehanort -The Early Years-.brstm"
     type: warning
-  - id: victor's_pride
+  - id: victors_pride
     title: "Victor's Pride"
     path: "Victor's Pride.brstm"
     type: result
@@ -25,7 +25,7 @@ songs:
     title: "The Fun Fair"
     path: "The Fun Fair.brstm"
     type: betting
-  - id: prankster's_party
+  - id: pranksters_party
     title: "Prankster's Party"
     path: "Prankster's Party.brstm"
     type: warning
@@ -41,7 +41,7 @@ songs:
     title: "La Cloche"
     path: "La Cloche.brstm"
     type: betting
-  - id: l'impeto_oscuro
+  - id: limpeto_oscuro
     title: "L'Impeto Oscuro"
     path: "L'Impeto Oscuro.brstm"
     type: battle

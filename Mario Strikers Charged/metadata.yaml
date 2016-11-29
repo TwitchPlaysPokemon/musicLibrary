@@ -13,7 +13,7 @@ songs:
     title: "Pause Menu"
     path: "Pause Menu.brstm"
     type: break
-  - id: results-striker_times
+  - id: results_striker_times
     title: "Results-Striker Times"
     path: "Results-Striker Times.brstm"
     type: betting #Borderline doesn't fit; leaving it in for now

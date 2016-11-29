@@ -5,7 +5,7 @@ series: mario
 year: 2008
 platform: "Wii"
 songs:
-  - id: stadium_-_yoshi_park
+  - id: stadium_yoshi_park
     title: "Stadium - Yoshi Park"
     path: "Stadium - Yoshi Park.brstm"
     type: betting
@@ -33,7 +33,7 @@ songs:
     title: "Character Selection/Records"
     path: "Character Selection_Records.brstm"
     type: warning
-  - id: stadium_bowser's_castle
+  - id: stadium_bowsers_castle
     title: "Stadium - Bowser's Castle"
     path: "Stadium - Bowser's Castle.brstm"
     type: betting
