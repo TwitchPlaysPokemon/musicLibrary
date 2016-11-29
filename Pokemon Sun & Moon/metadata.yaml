@@ -1,0 +1,374 @@
+id: pokemon_sunmoon
+title: "Pokémon Sun and Moon"
+platform: "3DS"
+series: pokemon
+year: 2016
+songs: 
+  - id: aether_foundation_sunmoon
+    title: "Aether Foundation"
+    path: "Aether Foundation.bcstm"
+    type: break
+  - id: battle_royal_sunmoon
+    title: "Battle Royal"
+    path: "Battle Royal.bcstm"
+    type: betting
+  - id: battle_tree_sunmoon
+    title: "Battle Tree"
+    path: "Battle Tree.bcstm"
+    type: betting
+  - id: battle_employee_sunmoon
+    title: "Battle! Aether Foundation Employee"
+    path: "Battle! Aether Foundation Employee.bcstm"
+    type: battle
+  - id: battle_lusamine_sunmoon
+    title: "Battle! Aether President Lusamine"
+    path: "Battle! Aether President Lusamine.bcstm"
+    type: battle
+  - id: battle_champion_sunmoon
+    title: "Battle! Champion"
+    path: "Battle! Champion.bcstm"
+    type: battle
+  - id: battle_elite_four_sunmoon
+    title: "Battle! Elite Four"
+    path: "Battle! Elite Four.bcstm"
+    type: battle
+  - id: battle_hau_sunmoon
+    title: "Battle! Hau"
+    path: "Battle! Hau.bcstm"
+    type: battle
+  - id: battle_guardians_sunmoon
+    title: "Battle! Island Guardians"
+    path: "Battle! Island Guardians.bcstm"
+    type: battle
+  - id: battle_kahuna_sunmoon
+    title: "Battle! Island Kahuna"
+    path: "Battle! Island Kahuna.bcstm"
+    type: battle
+  - id: battle_motherbeast_sunmoon
+    title: "Battle! Mother Beast"
+    path: "Battle! Mother Beast.bcstm"
+    type: battle
+  - id: battle_mascot_sunmoon
+    title: "Battle! Solgaleo/Lunala/Necrozma"
+    path: "Battle! Solgaleo Lunala Necrozma.bcstm"
+    type: battle
+  - id: battle_guzma_sunmoon
+    title: "Battle! Team Skull Boss Guzma"
+    path: "Battle! Team Skull Boss Guzma.bcstm"
+    type: battle
+  - id: battle_gladion_sunmoon
+    title: "Battle! Team Skull Enforcer Gladion"
+    path: "Battle! Team Skull Enforcer Gladion.bcstm"
+    type: battle
+  - id: battle_skull_sunmoon
+    title: "Battle! Team Skull Grunt"
+    path: "Battle! Team Skull Grunt.bcstm"
+    type: battle
+  - id: battle_totem_sunmoon
+    title: "Battle! Totem Pokémon"
+    path: "Battle! Totem Pokemon.bcstm"
+    type: battle
+  - id: battle_red_blue_sunmoon
+    title: "Battle! Trainer Red/Blue"
+    path: "Battle! Trainer Red - Blue.bcstm"
+    type: battle
+  - id: battle_trainer_sunmoon
+    title: "Battle! Trainer"
+    path: "Battle! Trainer.bcstm"
+    type: battle
+  - id: battle_ultra_sunmoon
+    title: "Battle! Ultra Beast"
+    path: "Battle! Ultra Beast.bcstm"
+    type: battle
+  - id: battle_wild_sunmoon
+    title: "Battle! Wild Pokémon"
+    path: "Battle! Wild Pokemon.bcstm"
+    type: battle
+  - id: boutique_sunmoon
+    title: "Boutique"
+    path: "Boutique.bcstm"
+    type: break
+  - id: breaking_foundation_sunmoon
+    title: "Breaking into the Aether Foundation!"
+    path: "Breaking into the Aether Foundation!.bcstm"
+    type: betting
+  - id: cave_sunmoon
+    title: "Cave"
+    path: "Cave.bcstm"
+    type: break
+  - id: dimension_lab_sunmoon
+    title: "Dimensional Research Lab"
+    path: "Dimensional Research Lab.bcstm"
+    type: betting
+  - id: encounter_lusamine_sunmoon
+    title: "Encounter! Aether President Lusamine"
+    path: "Encounter! Aether President Lusamine.bcstm"
+    type: warning
+  - id: encounter_hau_sunmoon
+    title: "Encounter! Hau"
+    path: "Encounter! Hau.bcstm"
+    type: result
+  - id: encounter_kahuna_sunmoon
+    title: "Encounter! Island Kahuna"
+    path: "Encounter! Island Kahuna.bcstm"
+    type: break
+  - id: encounter_nanu_sunmoon
+    title: "Encounter! Nanu"
+    path: "Encounter! Nanu.bcstm"
+    type: break
+  - id: encounter_gladion_sunmoon
+    title: "Encounter! Team Skull Enforcer Gladion"
+    path: "Encounter! Team Skull Enforcer Gladion.bcstm"
+    type: warning
+  - id: encounter_skull_sunmoon
+    title: "Encounter! Team Skull"
+    path: "Encounter! Team Skull.bcstm"
+    type: warning
+  - id: encounter_red_blue_sunmoon
+    title: "Encounter! Trainer Red/Blue"
+    path: "Encounter! Trainer Red - Blue.bcstm"
+    type: warning
+  - id: encounter_ultra_sunmoon
+    title: "Encounter! Ultra Beast"
+    path: "Encounter! Ultra Beast.bcstm"
+    type: warning
+  - id: evolution_alola_sunmoon
+    title: "Evolution (Alolan Form)"
+    path: "Evolution (Alolan Form).bcstm"
+    type: warning
+  - id: evolution_sunmoon
+    title: "Evolution"
+    path: "Evolution.brstm"
+    type: warning
+  - id: plaza_day_sunmoon
+    title: "Festival Plaza (Day)"
+    path: "Festival Plaza (Day).bcstm"
+    type: result
+  - id: plaza_night_sunmoon
+    title: "Festival Plaza (Night)"
+    path: "Festival Plaza (Night).bcstm"
+    type: betting
+  - id: plaza_event_sunmoon
+    title: "Festival Plaza ~ Event"
+    path: "Festival Plaza ~ Event.bcstm"
+    type: warning
+  - id: follow_sunmoon
+    title: "Follow Me!"
+    path: "Follow Me!.bcstm"
+    type: warning
+  - id: desert_sunmoon
+    title: "Haina Desert"
+    path: "Haina Desert.bcstm"
+    type: break
+  - id: harbor_sunmoon
+    title: "Harbor"
+    path: "Harbor.bcstm"
+    type: betting
+  - id: hauoli_day_sunmoon
+    title: "Hau'oli City (Day)"
+    path: "Hau'oli City (Day).bcstm"
+    type: betting
+  - id: hauoli_night_sunmoon
+    title: "Hau'oli City (Night)"
+    path: "Hau'oli City (Night).bcstm"
+    type: break
+  - id: heahea_day_sunmoon
+    title: "Heahea City (Day)"
+    path: "Heahea City (Day).bcstm"
+    type: betting
+  - id: heahea_night_sunmoon
+    title: "Heahea City (Night)"
+    path: "Heahea City (Night).bcstm"
+    type: break
+  - id: home_sunmoon
+    title: "Home"
+    path: "Home.bcstm"
+    type: break
+  - id: iki_day_sunmoon
+    title: "Iki Town (Day)"
+    path: "Iki Town (Day).bcstm"
+    type: break
+  - id: iki_night_sunmoon
+    title: "Iki Town (Night)"
+    path: "Iki Town (Night).bcstm"
+    type: break
+  - id: island_festival_sunmoon
+    title: "Island Festival"
+    path: "Island Festival.bcstm"
+    type: result
+  - id: island_trial_sunmoon
+    title: "Island Trial"
+    path: "Island Trial.bcstm"
+    type: betting
+  - id: konikoni_day_sunmoon
+    title: "Konikoni City (Day)"
+    path: "Konikoni City (Day).bcstm"
+    type: betting
+  - id: konikoni_night_sunmoon
+    title: "Konikoni City (Night)"
+    path: "Konikoni City (Night).bcstm"
+    type: betting
+  - id: kukui_lab_sunmoon
+    title: "Kukui's Lab"
+    path: "Kukui's Lab.bcstm"
+    type: break
+  - id: lake_altar_sunmoon
+    title: "Lake of the Sunne/Altar of the Moone"
+    path: "Lake of the Sunne - Altar of the Moone.bcstm"
+    type: warning
+  - id: language_sunmoon
+    title: "Language Selection"
+    path: "Language Selection.bcstm"
+    type: warning
+  - id: lush_jungle_sunmoon
+    title: "Lush Jungle"
+    path: "Lush Jungle.bcstm"
+    type: betting
+  - id: maile_day_sunmoon
+    title: "Maile City (Day)"
+    path: "Maile City (Day).bcstm"
+    type: betting
+  - id: maile_night_sunmoon
+    title: "Maile City (Night)"
+    path: "Maile City (Night).bcstm"
+    type: break
+  - id: malasada_sunmoon
+    title: "Malasada Shop"
+    path: "Malasada Shop.bcstm"
+    type: result
+  - id: lanakila_sunmoon
+    title: "Mt. Lanakila"
+    path: "Mt. Lanakila.bcstm"
+    type: betting
+  - id: paniola_day_sunmoon
+    title: "Paniola Town (Day)"
+    path: "Paniola Town (Day).bcstm"
+    type: betting
+  - id: paniola_night_sunmoon
+    title: "Paniola Town (Night)"
+    path: "Paniola Town (Night).bcstm"
+    type: break
+  - id: po_town_sunmoon
+    title: "Po Town"
+    path: "Po Town.bcstm"
+    type: break
+  - id: pelago_day_sunmoon
+    title: "Poké Pelago (Day)"
+    path: "Poke Pelago (Day).bcstm"
+    type: betting
+  - id: pelago_night_sunmoon
+    title: "Poké Pelago (Night)"
+    path: "Poke Pelago (Night).bcstm"
+    type: break
+  - id: pokeride_land_sunmoon
+    title: "Poké Ride (Land)"
+    path: "Poke Ride (Land).bcstm"
+    type: warning
+  - id: pokeride_water_sunmoon
+    title: "Poké Ride (Water)"
+    path: "Poke Ride (Water).bcstm"
+    type: betting
+  - id: pokecenter_sunmoon
+    title: "Pokémon Center"
+    path: "Pokemon Center.bcstm"
+    type: betting
+  - id: pokeleague_sunmoon
+    title: "Pokémon League"
+    path: "Pokemon League.bcstm"
+    type: betting
+  - id: prof_kukui_sunmoon
+    title: "Professor Kukui"
+    path: "Professor Kukui.bcstm"
+    type: result
+  - id: route1_sunmoon
+    title: "Route 1"
+    path: "Route 1.bcstm"
+    type: betting
+  - id: route2_sunmoon
+    title: "Route 2"
+    path: "Route 2.bcstm"
+    type: betting
+  - id: route3_sunmoon
+    title: "Route 3"
+    path: "Route 3.bcstm"
+    type: betting
+  - id: route5_sunmoon
+    title: "Route 5"
+    path: "Route 5.bcstm"
+    type: betting
+  - id: route6_sunmoon
+    title: "Route 6"
+    path: "Route 6.bcstm"
+    type: betting
+  - id: royal_avenue_sunmoon
+    title: "Royal Avenue"
+    path: "Royal Avenue.bcstm"
+    type: betting
+  - id: school_sunmoon
+    title: "School"
+    path: "School.bcstm"
+    type: betting
+  - id: seafolk_day_sunmoon
+    title: "Seafolk Village (Day)"
+    path: "Seafolk Village (Day).bcstm"
+    type: betting
+  - id: seafolk_night_sunmoon
+    title: "Seafolk Village (Night)"
+    path: "Seafolk Village (Night).bcstm"
+    type: break
+  - id: studium_sunmoon
+    title: "Studium"
+    path: "Studium.bcstm"
+    type: betting
+  - id: ten_carat_sunmoon
+    title: "Ten Carat Hill"
+    path: "Ten Carat Hill.bcstm"
+    type: betting
+  - id: abandoned_megamart_sunmoon
+    title: "Thrifty Megamart Abandoned Site"
+    path: "Thrifty Megamart Abandoned Site.bcstm"
+    type: betting
+  - id: megamart_sunmoon
+    title: "Thrifty Megamart"
+    path: "Thrifty Megamart.bcstm"
+    type: betting
+  - id: ultra_space_sunmoon
+    title: "Ultra Space"
+    path: "Ultra Space.bcstm"
+    type: break
+  - id: vast_poni_sunmoon
+    title: "Vast Poni Canyon"
+    path: "Vast Poni Canyon.bcstm"
+    type: betting
+  - id: victory_road_sunmoon
+    title: "Victory Road"
+    path: "Victory Road.bcstm"
+    type: betting
+  - id: victory_aether_sunmoon
+    title: "Victory! Aether Foundation"
+    path: "Victory! Aether Foundation.bcstm"
+    type: result
+  - id: victory_skull_sunmoon
+    title: "Victory! Team Skull"
+    path: "Victory! Team Skull.bcstm"
+    type: result
+  - id: victory_totem_sunmoon
+    title: "Victory! Totem Pokémon"
+    path: "Victory! Totem Pokemon.bcstm"
+    type: result
+  - id: victory_trainer_sunmoon
+    title: "Victory! Trainer"
+    path: "Victory! Trainer.bcstm"
+    type: result
+  - id: victory_wild_sunmoon
+    title: "Victory! Wild Pokémon"
+    path: "Victory! Wild Pokemon.bcstm"
+    type: result
+  - id: hall_fame_sunmoon
+    title: "Welcome to the Hall of Fame!"
+    path: "Welcome to the Hall of Fame!.bcstm"
+    type: result
+  - id: welcome_sunmoon
+    title: "Welcome to the World of Pokémon!"
+    path: "Welcome to the World of Pokemon!.bcstm"
+    type: betting
