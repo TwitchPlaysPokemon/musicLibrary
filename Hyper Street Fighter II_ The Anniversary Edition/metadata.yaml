@@ -1,10 +1,72 @@
----
 id: hyper_street_fighter_ii
 title: "Hyper Street Fighter II: The Anniversary Edition"
 series: streetfighter
 platform: ["Arcade", "PS2", "Xbox"]
 year: 2003
 songs:
+  - id: e_honda_ending_cps1
+    title: "E. Honda's Ending [CPS1]"
+    path: "E. Honda's Ending [CPS1].brstm"
+    type: result
+  - id: bonus_stage_cps1
+    title: "Bonus Stage [CPS1]"
+    path: "Bonus Stage [CPS1].brstm"
+    type: warning
+  - id: e_honda_theme_near_ko_cps1
+    title: "E. Honda's Theme (Near K.O.) [CPS1]"
+    path: "E. Honda's Theme (Near K.O.) [CPS1].brstm"
+    type: warning
+  - id: cammy_theme_cps2
+    title: "Cammy's Theme [CPS2]"
+    path: "Cammy's Theme [CPS2].brstm"
+    type: battle
+  - id: m_bison_theme_cps2
+    title: "M. Bison's Theme [CPS2]"
+    path: "M. Bison's Theme [CPS2].brstm"
+    ends: 2:10
+    type: betting
+  - id: zangief_theme_cps2
+    title: "Zangief's Theme [CPS2]"
+    ends: 1:52
+    path: "Zangief's Theme [CPS2].brstm"
+    type: betting
+  - id: sagat_ending_cps2
+    title: "Sagat's Ending [CPS2]"
+    path: "Sagat's Ending [CPS2].brstm"
+    type: warning
+  - id: dhlasim_theme_cps2
+    title: "Dhalsim's Theme [CPS2]"
+    path: "Dhalsim's Theme [CPS2].brstm"
+    ends: 1:50
+    type: betting
+  - id: akuma_theme_cps2
+    title: "Akuma's Theme [CPS2]"
+    path: "Akuma's Theme [CPS2].brstm"
+    type: warning
+  - id: cammy_theme_near_ko_cps2
+    title: "Cammy's Theme (Near K.O.) [CPS2]"
+    path: "Cammy's Theme (Near K.O.) [CPS2].brstm"
+    type: warning
+  - id: fei_long_theme_cps2
+    title: "Fei Long's Theme [CPS2]"
+    path: "Fei Long's Theme [CPS2].brstm"
+    type: warning
+  - id: ken_theme_near_ko_cps2
+    title: "Ken's Theme (Near K.O.) [CPS2]"
+    path: "Ken's Theme (Near K.O.) [CPS2].brstm"
+    type: warning
+  - id: m_bison_ending_cps2
+    title: "M. Bison's Ending [CPS2]"
+    path: "M. Bison's Ending [CPS2].brstm"
+    type: warning
+  - id: m_bison_theme_near_ko_cps2
+    title: "M. Bison's Theme (Near K.O.) [CPS2]"
+    path: "M. Bison's Theme (Near K.O.) [CPS2].brstm"
+    type: warning
+  - id: zangief_ending_cps2
+    title: "Zangief's Ending [CPS2]"
+    path: "Zangief's Ending [CPS2].brstm"
+    type: warning
   - id: sagat_theme_arrange
     title: "Sagat's Theme [Arrange]"
     path: "Sagat's Theme [Arrange].brstm"
@@ -31,70 +93,7 @@ songs:
     path: "Continue Screen [Arrange].brstm"
     type: warning
   - id: guile_theme_cps1
-    title: "Guile's Theme"
+    title: "Guile's Theme [CPS1]"
     path: "Guile's Theme [CPS1].brstm"
     type: result
-  - id: e_honda_ending_cps1
-    title: "E. Honda's Ending"
-    path: "E. Honda's Ending [CPS1].brstm"
-    type: result
-  - id: bonus_stage_cps1
-    title: "Bonus Stage"
-    path: "Bonus Stage [CPS1].brstm"
-    type: warning
-  - id: e_honda_theme_near_ko_cps1
-    title: "E. Honda's Theme (Near K.O.)"
-    path: "E. Honda's Theme (Near K.O.) [CPS1].brstm"
-    type: warning
-  - id: cammy_theme_cps2
-    title: "Cammy's Theme"
-    path: "Cammy's Theme [CPS2].brstm"
-    type: battle
-  - id: m_bison_theme_cps2
-    title: "M. Bison's Theme"
-    path: "M. Bison's Theme [CPS2].brstm"
-    ends: 2:10
-    type: betting
-  - id: zangief_theme_cps2
-    title: "Zangief's Theme"
-    ends: 1:52
-    path: "Zangief's Theme [CPS2].brstm"
-    type: betting
-  - id: sagat_ending_cps2
-    title: "Sagat's Ending"
-    path: "Sagat's Ending [CPS2].brstm"
-    type: warning
-  - id: dhlasim_theme_cps2
-    title: "Dhalsim's Theme"
-    path: "Dhalsim's Theme [CPS2].brstm"
-    ends: 1:50
-    type: betting
-  - id: akuma_theme_cps2
-    title: "Akuma's Theme"
-    path: "Akuma's Theme [CPS2].brstm"
-    type: warning
-  - id: cammy_theme_near_ko_cps2
-    title: "Cammy's Theme (Near K.O.)"
-    path: "Cammy's Theme (Near K.O.) [CPS2].brstm"
-    type: warning
-  - id: fei_long_theme_cps2
-    title: "Fei Long's Theme"
-    path: "Fei Long's Theme [CPS2].brstm"
-    type: warning
-  - id: ken_theme_near_ko_cps2
-    title: "Ken's Theme (Near K.O.)"
-    path: "Ken's Theme (Near K.O.) [CPS2].brstm"
-    type: warning
-  - id: m_bison_ending_cps2
-    title: "M. Bison's Ending"
-    path: "M. Bison's Ending [CPS2].brstm"
-    type: warning
-  - id: m_bison_theme_near_ko_cps2
-    title: "M. Bison's Theme (Near K.O.)"
-    path: "M. Bison's Theme (Near K.O.) [CPS2].brstm"
-    type: warning
-  - id: zangief_ending_cps2
-    title: "Zangief's Ending"
-    path: "Zangief's Ending [CPS2].brstm"
-    type: warning
-...    
+...
