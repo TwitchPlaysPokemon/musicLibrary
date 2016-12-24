@@ -1,0 +1,17 @@
+id: alpine_racer
+title: "Alpine Racer"
+year: 1994
+platform: "Arcade"
+songs:
+  - id: endless_season
+    title: "Endless Season"
+    path: "04-endless-season.mp3"
+    type: betting
+  - id: give_it_together
+    title: "Give It Together"
+    path: "05-give-it-together.mp3"
+    type: betting
+  - id: snowbound_landscape
+    title: "Snowbound Landscape"
+    path: "14-snowbound-landscape-alpine-racer.mp3"
+    type: break

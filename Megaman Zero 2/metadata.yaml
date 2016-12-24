@@ -12,3 +12,11 @@ songs:
     title: "Result of Mission II"
     path: "Break-ResultOfMission_MMZ2.brstm"
     type: break
+  - id: ice_brain_south_pole
+    title: "Ice Brain (South Pole)"
+    path: "Ice Brain (South Pole).brstm"
+    type: betting
+  - id: ice_brain_remastered
+    title: "Ice Brain (Remastered)"
+    path: "Ice Brain (Remastered).brstm"
+    type: betting

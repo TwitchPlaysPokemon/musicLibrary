@@ -1,4 +1,4 @@
-﻿id: pokemon_shuffle
+id: pokemon_shuffle
 title: "Pokémon Shuffle"
 series: pokemon
 year: 2015
@@ -31,4 +31,8 @@ songs:
   - id: shop_pokemon_shuffle
     title: "Shop"
     path: "Shop.brstm"
+    type: break
+  - id: mt_vinter
+    title: "Mt. Vinter"
+    path: "Mt. Vinter.brstm"
     type: break

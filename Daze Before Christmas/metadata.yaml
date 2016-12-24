@@ -1,0 +1,13 @@
+id: daze_before_christmas
+title: "Daze Before Christmas"
+year: 1994
+platform: "SNES"
+songs:
+  - id: christmas_eve_flight
+    title: "Christmas Eve Flight"
+    path: "Christmas Eve Flight.spc"
+    type: betting
+  - id: anti_claus_comes_tonight
+    title: "Anti-Claus Comes Tonight!"
+    path: "Anti-Claus Comes Tonight!.spc"
+    type: warning

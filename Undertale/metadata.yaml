@@ -68,4 +68,12 @@ songs:
     title: "Hotel"
     path: "Hotel.brstm"
     type: break
+  - id: snowdin_town
+    title: "Snowdin Town"
+    path: "Snowdin Town.brstm"
+    type: betting
+  - id: uwa_so_holiday
+    title: "Uwa!! So Holiday♫"
+    path: "Uwa!! So Holiday.brstm"
+    type: break
 ...
