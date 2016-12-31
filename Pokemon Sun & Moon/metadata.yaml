@@ -5,7 +5,7 @@ series: pokemon
 year: 2016
 songs: 
   - id: aether_foundation_sunmoon
-    title: "Aether Foundation"
+    title: "Aether House"
     path: "Aether Foundation.bcstm"
     type: break
   - id: battle_royal_sunmoon
@@ -25,7 +25,7 @@ songs:
     path: "Battle! Aether President Lusamine.bcstm"
     type: battle
   - id: battle_champion_sunmoon
-    title: "Battle! Champion"
+    title: "The Battle at the Summit!"
     path: "Battle! Champion.bcstm"
     type: battle
   - id: battle_elite_four_sunmoon
@@ -37,7 +37,7 @@ songs:
     path: "Battle! Hau.bcstm"
     type: battle
   - id: battle_guardians_sunmoon
-    title: "Battle! Island Guardians"
+    title: "Battle! Tapu"
     path: "Battle! Island Guardians.bcstm"
     type: battle
   - id: battle_kahuna_sunmoon
@@ -57,7 +57,7 @@ songs:
     path: "Battle! Team Skull Boss Guzma.bcstm"
     type: battle
   - id: battle_gladion_sunmoon
-    title: "Battle! Team Skull Enforcer Gladion"
+    title: "Battle! Gladion"
     path: "Battle! Team Skull Enforcer Gladion.bcstm"
     type: battle
   - id: battle_skull_sunmoon
@@ -85,43 +85,43 @@ songs:
     path: "Battle! Wild Pokemon.bcstm"
     type: battle
   - id: boutique_sunmoon
-    title: "Boutique"
+    title: "Apparel Shop"
     path: "Boutique.bcstm"
     type: break
   - id: breaking_foundation_sunmoon
-    title: "Breaking into the Aether Foundation!"
+    title: "Infiltration"
     path: "Breaking into the Aether Foundation!.bcstm"
     type: betting
   - id: cave_sunmoon
-    title: "Cave"
+    title: "Seaward Cave"
     path: "Cave.bcstm"
     type: break
   - id: dimension_lab_sunmoon
-    title: "Dimensional Research Lab"
+    title: "Burnet’s Lab"
     path: "Dimensional Research Lab.bcstm"
     type: betting
   - id: encounter_lusamine_sunmoon
-    title: "Encounter! Aether President Lusamine"
+    title: "Lusamine’s Madness"
     path: "Encounter! Aether President Lusamine.bcstm"
     type: warning
   - id: encounter_hau_sunmoon
-    title: "Encounter! Hau"
+    title: "Hau's Theme"
     path: "Encounter! Hau.bcstm"
     type: result
   - id: encounter_kahuna_sunmoon
-    title: "Encounter! Island Kahuna"
+    title: "Island Kahuna’s Theme"
     path: "Encounter! Island Kahuna.bcstm"
     type: break
   - id: encounter_nanu_sunmoon
-    title: "Encounter! Nanu"
+    title: "Nanu’s Theme"
     path: "Encounter! Nanu.bcstm"
     type: break
   - id: encounter_gladion_sunmoon
-    title: "Encounter! Team Skull Enforcer Gladion"
+    title: "Gladion’s Theme"
     path: "Encounter! Team Skull Enforcer Gladion.bcstm"
     type: warning
   - id: encounter_skull_sunmoon
-    title: "Encounter! Team Skull"
+    title: "Team Skull Appears!"
     path: "Encounter! Team Skull.bcstm"
     type: warning
   - id: encounter_red_blue_sunmoon
@@ -129,11 +129,11 @@ songs:
     path: "Encounter! Trainer Red - Blue.bcstm"
     type: warning
   - id: encounter_ultra_sunmoon
-    title: "Encounter! Ultra Beast"
+    title: "There's Trouble!"
     path: "Encounter! Ultra Beast.bcstm"
     type: warning
   - id: evolution_alola_sunmoon
-    title: "Evolution (Alolan Form)"
+    title: "Evolution (Alola)"
     path: "Evolution (Alolan Form).bcstm"
     type: warning
   - id: evolution_sunmoon
@@ -149,11 +149,11 @@ songs:
     path: "Festival Plaza (Night).bcstm"
     type: betting
   - id: plaza_event_sunmoon
-    title: "Festival Plaza ~ Event"
+    title: "A Mission at Festival Plaza"
     path: "Festival Plaza ~ Event.bcstm"
     type: warning
   - id: follow_sunmoon
-    title: "Follow Me!"
+    title: "Hurry Along"
     path: "Follow Me!.bcstm"
     type: warning
   - id: desert_sunmoon
@@ -161,7 +161,7 @@ songs:
     path: "Haina Desert.bcstm"
     type: break
   - id: harbor_sunmoon
-    title: "Harbor"
+    title: "Ferry Terminal"
     path: "Harbor.bcstm"
     type: betting
   - id: hauoli_day_sunmoon
@@ -181,7 +181,7 @@ songs:
     path: "Heahea City (Night).bcstm"
     type: break
   - id: home_sunmoon
-    title: "Home"
+    title: "My Home"
     path: "Home.bcstm"
     type: break
   - id: iki_day_sunmoon
@@ -193,11 +193,11 @@ songs:
     path: "Iki Town (Night).bcstm"
     type: break
   - id: island_festival_sunmoon
-    title: "Island Festival"
+    title: "The Festival in Iki Town"
     path: "Island Festival.bcstm"
     type: result
   - id: island_trial_sunmoon
-    title: "Island Trial"
+    title: "A Captain’s Trial Begins!"
     path: "Island Trial.bcstm"
     type: betting
   - id: konikoni_day_sunmoon
@@ -209,7 +209,7 @@ songs:
     path: "Konikoni City (Night).bcstm"
     type: betting
   - id: kukui_lab_sunmoon
-    title: "Kukui's Lab"
+    title: "The Pokémon Research Lab"
     path: "Kukui's Lab.bcstm"
     type: break
   - id: lake_altar_sunmoon
@@ -221,7 +221,7 @@ songs:
     path: "Language Selection.bcstm"
     type: warning
   - id: lush_jungle_sunmoon
-    title: "Lush Jungle"
+    title: "Verdant Cavern—A Trial Site"
     path: "Lush Jungle.bcstm"
     type: betting
   - id: malie_day_sunmoon
@@ -261,11 +261,11 @@ songs:
     path: "Poke Pelago (Night).bcstm"
     type: break
   - id: pokeride_land_sunmoon
-    title: "Poké Ride (Land)"
+    title: "Ride Pokémon (Land)"
     path: "Poke Ride (Land).bcstm"
     type: warning
   - id: pokeride_water_sunmoon
-    title: "Poké Ride (Water)"
+    title: "Ride Pokémon (Aquatic)"
     path: "Poke Ride (Water).bcstm"
     type: betting
   - id: pokecenter_sunmoon
@@ -281,11 +281,11 @@ songs:
     path: "Professor Kukui.bcstm"
     type: result
   - id: route1_sunmoon
-    title: "Route 1"
+    title: "Route 1 on Melemele Island"
     path: "Route 1.bcstm"
     type: betting
   - id: route2_sunmoon
-    title: "Route 2"
+    title: "Route 2 on Melemele Island"
     path: "Route 2.bcstm"
     type: betting
   - id: route3_sunmoon
@@ -293,11 +293,11 @@ songs:
     path: "Route 3.bcstm"
     type: betting
   - id: route5_sunmoon
-    title: "Route 5"
+    title: "Route 10 on Ula'ula Island"
     path: "Route 5.bcstm"
     type: betting
   - id: route6_sunmoon
-    title: "Route 6"
+    title: "Ancient Poni Path"
     path: "Route 6.bcstm"
     type: betting
   - id: royal_avenue_sunmoon
@@ -305,7 +305,7 @@ songs:
     path: "Royal Avenue.bcstm"
     type: betting
   - id: school_sunmoon
-    title: "School"
+    title: "Trainer School"
     path: "School.bcstm"
     type: betting
   - id: seafolk_day_sunmoon
@@ -317,7 +317,7 @@ songs:
     path: "Seafolk Village (Night).bcstm"
     type: break
   - id: studium_sunmoon
-    title: "Studium"
+    title: "Battle Royal Dome"
     path: "Studium.bcstm"
     type: betting
   - id: ten_carat_sunmoon
@@ -325,7 +325,7 @@ songs:
     path: "Ten Carat Hill.bcstm"
     type: betting
   - id: abandoned_megamart_sunmoon
-    title: "Thrifty Megamart Abandoned Site"
+    title: "Acerola’s Trial"
     path: "Thrifty Megamart Abandoned Site.bcstm"
     type: betting
   - id: megamart_sunmoon
@@ -341,7 +341,7 @@ songs:
     path: "Vast Poni Canyon.bcstm"
     type: betting
   - id: victory_road_sunmoon
-    title: "Victory Road"
+    title: "The Path to the League"
     path: "Victory Road.bcstm"
     type: betting
   - id: victory_aether_sunmoon
