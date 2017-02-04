@@ -1,0 +1,56 @@
+---
+id: mickey_to_donald_magical_adventure_3
+title: "Mickey to Donald - Magical Adventure 3"
+platform: "SFC"
+series: magicalquest
+year: 1995
+songs:
+  - id: the_harvest_festival_in_town
+    title: "The Harvest Festival in Town"
+    path: "The Harvest Festival in Town.spc"
+    type: betting
+  - id: the_woods_of_downfalling_spores
+    title: "The Woods of Downfalling Spores"
+    path: "The Woods of Downfalling Spores.spc"
+    type: betting
+  - id: the_rocky_mountain_of_sand
+    title: "The Rocky Mountain of Sand"
+    path: "The Rocky Mountain of Sand.spc"
+    type: betting
+  - id: the_flying_skyship
+    title: "The Flying Skyship"
+    path: "The Flying Skyship.spc"
+    type: betting
+  - id: introduction_mq3
+    title: "Introduction"
+    path: "Introduction.spc"
+    type: result
+  - id: the_end_mq3
+    title: "The End"
+    path: "The End.spc"
+    type: result
+  - id: mini_boss_mq3
+    title: "Mini-Boss"
+    path: "Mini-Boss.spc"
+    type: warning
+  - id: boss_mq3
+    title: "Boss"
+    path: "Boss.spc"
+    type: warning
+  - id: the_royal_palace_of_king_pete
+    title: "The Royal Palace of King Pete"
+    path: "The Royal Palace of King Pete.spc"
+    type: warning
+  - id: king_pete
+    title: "King Pete"
+    path: "King Pete.spc"
+    type: warning
+  - id: the_sea_with_shells
+    title: "The Sea with Shells"
+    path: "The Sea with Shells.spc"
+    type: break
+  - id: the_crystal_snow_mountain
+    title: "The Crystal Snow Mountain"
+    path: "The Crystal Snow Mountain.spc"
+    type: break
+...

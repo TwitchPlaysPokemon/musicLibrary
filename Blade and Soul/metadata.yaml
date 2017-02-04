@@ -1,0 +1,25 @@
+id: blade_and_soul
+title: "Blade & Soul"
+year: 2012
+platform: "PC"
+songs:
+  - id: silverfrost_mountains_bns
+    title: "Silverfrost Mountains"
+    path: "1-01 Silverfrost Mountainsedit.brstm"
+    type: betting
+  - id: challenged_to_a_duel
+    title: "Challenged to a Duel"
+    path: "2-07 Challenged to a Duel.brstm"
+    type: betting
+  - id: deadly_sword_part_2_bns
+    title: "Deadly Sword, Part 2"
+    path: "Deadly Sword, Part 2.brstm"
+    type: battle
+  - id: chloride
+    title: "Chloride"
+    path: "Chloride.brstm"
+    type: battle
+  - id: the_invitation_of_poharan
+    title: "The Invitation of Poharan"
+    path: "The Invitation of Poharan.brstm"
+    type: betting

@@ -57,10 +57,50 @@ songs:
     title: "Cavern Caprice"
     path: "19 Cavern Caprice.spc"
     type: betting
+  - id: jungle_jitter
+    title: "Jungle Jitter"
+    path: "20 Jungle Jitter.spc"
+    type: betting
   - id: brothers_bear
     title: "Brothers Bear"
     path: "36 Brothers Bear.spc"
     type: betting
+  - id: crazy_calypso
+    title: "Crazy Calypso"
+    path: "03 Crazy Calypso.spc"
+    type: result
+  - id: baddies_on_parade
+    title: "Baddies on Parade"
+    path: "27 Baddies on Parade.spc"
+    type: result
+  - id: bonus_time_dkc3
+    title: "Bonus Time!"
+    path: "29 Bonus Time!.spc"
+    type: result
+  - id: swankys_sideshow
+    title: "Swanky's Sideshow"
+    path: "38 Swanky's Sideshow.spc"
+    type: result
+  - id: dixie_beat
+    title: "Dixie Beat"
+    path: "02 Dixie Beat.spc"
+    type: betting
+  - id: boss_boogie
+    title: "Boss Boogie"
+    path: "10 Boss Boogie.spc"
+    type: warning
+  - id: rocket_run
+    title: "Rocket Run"
+    path: "22 Rocket Run.spc"
+    type: warning
+  - id: big_boss_blues
+    title: "Big Boss Blues"
+    path: "24 Big Boss Blues.spc"
+    type: warning
+  - id: chase_dkc3
+    title: "Chase"
+    path: "26 Chase.spc"
+    type: warning
   - id: northern_kremisphere
     title: "Northern Kremisphere"
     path: "04 Northern Kremisphere.spc"
@@ -69,28 +109,20 @@ songs:
     title: "Submap Shuffle"
     path: "05 Submap Shuffle.spc"
     type: break
+  - id: crystal_chasm
+    title: "Crystal Chasm"
+    path: "23 Crystal Chasm.spc"
+    type: break
+  - id: hangin_at_funkys
+    title: "Hangin' at Funky's"
+    path: "32 Hangin' at Funky's.spc"
+    type: break
   - id: wrinklys_save_cave
     title: "Wrinkly's Save Cave"
     path: "33 Wrinkly's Save Cave.spc"
-    type: break
-  - id: get_fit_a-go-go
-    title: "Get Fit A-Go-Go"
-    path: "34 Get Fit A-Go-Go.spc"
     type: break
   - id: wrinkly_64
     title: "Wrinkly 64"
     path: "35 Wrinkly 64.spc"
     type: break
-  - id: boss_boogie
-    title: "Boss Boogie"
-    path: "10 Boss Boogie.spc"
-    type: warning
-  - id: big_boss_blues
-    title: "Big Boss Blues"
-    path: "24 Big Boss Blues.spc"
-    type: warning
-  - id: jungle_jitter
-    title: "Jungle Jitter"
-    path: "20 Jungle Jitter.spc"
-    type: betting
 ...

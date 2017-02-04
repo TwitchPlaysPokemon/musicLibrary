@@ -1,0 +1,14 @@
+id: sonic_megamix
+title: "Sonic the Hedgehog Megamix"
+year: 2008
+is_fanwork: true
+platform: ["Genesis", "Sega CD"]
+songs:
+  - id: dark_fortress_zone
+    title: "Dark Fotress Zone"
+    path: "Dark Fotress Zone.brstm"
+    type: betting
+  - id: metallic_base_zone
+    title: "Metallic Base Zone"
+    path: "Metallic Base Zone.brstm"
+    type: betting

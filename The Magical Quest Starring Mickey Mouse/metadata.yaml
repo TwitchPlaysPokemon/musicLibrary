@@ -1,0 +1,52 @@
+---
+id: the_magical_quest_starring_mickey_mouse
+title: "The Magical Quest Starring Mickey Mouse"
+platform: "SNES"
+series: magicalquest
+year: 1992
+songs:
+  - id: treetops_mq
+    title: "Treetops"
+    path: "Treetops.spc"
+    type: betting
+  - id: dark_woods_mq
+    title: "Dark Forest"
+    path: "Dark Forest.spc"
+    type: betting
+  - id: petes_peak
+    title: "Pete's Peak"
+    path: "Pete's Peak.spc"
+    type: betting
+  - id: the_end_mq
+    title: "The End"
+    path: "The End.spc"
+    type: result
+  - id: fire_grotto_mq
+    title: "Fire Grotto"
+    path: "Fire Grotto.spc"
+    type: warning
+  - id: mini_boss_mq
+    title: "Mini Boss"
+    path: "Mini Boss.spc"
+    type: warning
+  - id: boss_1_mq
+    title: "Boss 1"
+    path: "Boss 1.spc"
+    type: warning
+  - id: boss_2_mq
+    title: "Boss 2"
+    path: "Boss 2.spc"
+    type: warning
+  - id: petes_castle
+    title: "Pete's Castle"
+    path: "Pete's Castle.spc"
+    type: warning
+  - id: final_boss_mq
+    title: "Final Boss"
+    path: "Final Boss.spc"
+    type: warning
+  - id: snowy_valley_mq
+    title: "Snowy Valley"
+    path: "Snowy Valley.spc"
+    type: break
+...

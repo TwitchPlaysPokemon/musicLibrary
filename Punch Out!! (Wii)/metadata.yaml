@@ -37,4 +37,20 @@ songs:
     title: "Von Kaiser"
     path: "Von Kaiser.brstm"
     type: warning
+  - id: von_kaiser_player_down_punchout
+    title: "Von Kaiser - Player Down"
+    path: "Von Kaiser - Player Down.brstm"
+    type: warning
+  - id: great_tiger_player_down_punchout
+    title: "Great Tiger - Player Down"
+    path: "Great Tiger - Player Down.brstm"
+    type: warning
+  - id: mr_sandman_punchout
+    title: "Mr. Sandman"
+    path: "Mr Sandman.brstm"
+    type: battle
+  - id: options_punchout
+    title: "Options Menu"
+    path: "Options Menu.brstm"
+    type: break
 ...

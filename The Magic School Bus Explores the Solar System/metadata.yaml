@@ -1,0 +1,13 @@
+id: the_magic_school_bus_explores_the_solar_system
+title: "The Magic School Bus Explores the Solar System"
+year: 1994
+platform: "PC"
+songs:
+  - id: mercury_venus
+    title: "Mercury ~ Venus"
+    path: "Mercury ~ Venus.brstm"
+    type: break
+  - id: jupiter_and_pluto
+    title: "Jupiter and Pluto"
+    path: "Jupiter and Pluto.brstm"
+    type: break

@@ -33,4 +33,8 @@ songs:
     path: "Xanadu.brstm"
     title: "Xanadu"
     type: battle
+  - id: sally_blacklabel
+    path: "Sally.brstm"
+    title: "Sally"
+    type: warning
 ...

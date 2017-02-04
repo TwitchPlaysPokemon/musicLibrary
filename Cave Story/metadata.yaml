@@ -4,36 +4,44 @@ title: "Cave Story"
 year: 2004
 platform: "PC"
 songs:
-- id: on_to_grasstown_2004
-  title: "On to Grasstown"
-  path: "On to Grasstown.brstm"
-  type: betting
-- id: meltdown_2
-  title: "Meltdown 2"
-  path: "Meltdown 2.brstm"
-  type: betting
-- id: gravity_cavestory
-  title: "Gravity"
-  path: "Gravity.brstm"
-  type: warning
-- id: labyrinth_fight
-  title: "Labyrinth Fight"
-  path: "Labyrinth Fight.brstm"
-  type: betting
-- id: last_battle
-  title: "Last Battle"
-  path: "Last Battle.brstm"
-  type: battle
-- id: moonsong_cavestory
-  title: "Moonsong"
-  path: "Moonsong.brstm"
-  type: break
-- id: jenka_1
-  title: "Jenka 1"
-  path: "Jenka 1.brstm"
-  type: break
-- id: living_waterway
-  title: "Living Waterway"
-  path: "Cave_Story-Living_Waterway.brstm"
-  type: betting
+  - id: on_to_grasstown_2004
+    title: "On to Grasstown"
+    path: "On to Grasstown.brstm"
+    type: betting
+  - id: meltdown_2
+    title: "Meltdown 2"
+    path: "Meltdown 2.brstm"
+    type: betting
+  - id: gravity_cavestory
+    title: "Gravity"
+    path: "Gravity.brstm"
+    type: warning
+  - id: labyrinth_fight
+    title: "Labyrinth Fight"
+    path: "Labyrinth Fight.brstm"
+    type: betting
+  - id: last_battle
+    title: "Last Battle"
+    path: "Last Battle.brstm"
+    type: battle
+  - id: moonsong_cavestory
+    title: "Moonsong"
+    path: "Moonsong.brstm"
+    type: break
+  - id: jenka_1
+    title: "Jenka 1"
+    path: "Jenka 1.brstm"
+    type: break
+  - id: living_waterway
+    title: "Living Waterway"
+    path: "Cave_Story-Living_Waterway.brstm"
+    type: betting
+  - id: scorching_back
+    title: "Scorching Back"
+    path: "Scorching Back.brstm"
+    type: betting
+  - id: running_hell
+    title: "Running Hell"
+    path: "33 - Running Hell.brstm"
+    type: betting
 ...

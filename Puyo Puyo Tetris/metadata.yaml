@@ -1,0 +1,26 @@
+id: puyo_puyo_tetris
+title: "Puyo Puyo Tetris"
+platform: "Various"
+series: puyopuyo
+year: 2014
+songs:
+  - id: tectonic_tetro_at_war
+    title: "Tectonic Tetro at War!"
+    path: "Tectonic Tetro at War!.brstm"
+    type: battle
+  - id: who_shall_be_chosen
+    title: "Who Shall Be Chosen?"
+    path: "Who Shall Be Chosen_.brstm"
+    type: betting
+  - id: forever_frantic_fever
+    title: "Forever Frantic Fever!! ~ Lucky Attack Frenzy!!"
+    path: "Forever Frantic Fever!! ~ Lucky Attack Frenzy!!.brstm"
+    type: result
+  - id: dimension_stage_puyo
+    title: "Dimension Stage ~ Decisive Battle"
+    path: "Dimension Stage ~ Decisive Battle.brstm"
+    type: battle
+  - id: faceoff_in_puyopuyo_world
+    title: "Faceoff in Puyopuyo World! - Magical Confrontation!"
+    path: "Faceoff in Puyopuyo World! - Magical Confrontation!.brstm"
+    type: warning

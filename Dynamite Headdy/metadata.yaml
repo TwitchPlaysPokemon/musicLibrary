@@ -81,3 +81,28 @@ songs:
     title: "Nutcracker"
     path: "Nutcracker.vgz"
     type: result
+  - id: headdy_the_hero
+    title: "Headdy the Hero"
+    path: "Headdy the Hero.vgz"
+    type: betting
+  - id: tower_of_puppet
+    title: "Tower of Puppet"
+    path: "Tower of Puppet.vgz"
+    type: betting
+  - id: north_town_theme
+    title: "North Town's Theme"
+    path: "North Town's Theme.vgz"
+    type: betting
+  - id: south_town_theme
+    title: "South Town's Theme"
+    path: "South Town's Theme.vgz"
+    ends: 2:02
+    type: betting
+  - id: escape_hero
+    title: "Escape Hero"
+    path: "Escape Hero.vgz"
+    type: betting
+  - id: danzen_dungeon
+    title: "Danzen Dungeon"
+    path: "Danzen Dungeon.vgz"
+    type: betting

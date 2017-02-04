@@ -8,4 +8,12 @@ songs:
     title: "Splash"
     path: "NepnepSplash.brstm"
     type: battle
+  - id: planeptune_theme
+    title: "Planeptune's Theme"
+    path: "Neptunia Planeptune's theme.brstm"
+    type: betting
+  - id: true_afoire_theme
+    title: "True Arfoire's Theme"
+    path: "Neptunia True Arfoire's theme.brstm"
+    type: battle
 ...

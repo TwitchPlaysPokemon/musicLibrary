@@ -5,7 +5,7 @@ title: "DoDonPachi SaiDaiOuJou"
 series: dodonpachi
 year: 2012
 songs: 
-  - id: chikara
+  - id: chikara_arrange
     path: "Chikara (Arrange) (Final Boss).brstm"
     title: "Chikara (Arrange) (Final Boss)"
     type: battle
@@ -17,4 +17,20 @@ songs:
     path: "Ran (Arrange) (Stage 1).brstm"
     title: "Ran (Arrange) (Stage 1)"
     type: battle
+  - id: ai
+    path: "Ai (Stage 3).brstm"
+    title: "Ai (Stage 3)"
+    type: betting
+  - id: chikara
+    path: "Chikara (Final Boss).brstm"
+    title: "Chikara (Final Boss)"
+    type: warning
+  - id: niji
+    path: "Niji (Stage 2).brstm"
+    title: "Niji (Stage 2)"
+    type: battle
+  - id: tenshi
+    path: "Tenshi (True Final Boss).brstm"
+    title: "Tenshi (True Final Boss)"
+    type: warning
 ...

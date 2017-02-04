@@ -1,0 +1,14 @@
+id: dodonpachi_daifukkatsu
+title: "DoDonPachi DaiFukkatsu"
+series: dodonpachi
+platform: ["Arcade", "Mobile", "360"]
+year: 2008
+songs: 
+  - id: element_daughter
+    title: "Element Daughter"
+    path: "Element Daughter.brstm"
+    type: battle
+  - id: the_battle_was_just_to_continue_that_future
+    title: "The Battle Was Just To Continue That Future"
+    path: "The Battle Was Just To Continue That Future.brstm"
+    type: betting

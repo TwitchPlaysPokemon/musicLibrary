@@ -1,0 +1,14 @@
+id: tes_5_skyrim
+title: "The Elder Scrolls V: Skyrim"
+platform: ["PS3", "360", "PC"]
+series: elderscrolls
+year: 2011
+songs:
+  - id: secunda
+    title: "Secunda"
+    path: "Secunda.brstm"
+    type: break
+  - id: from_past_to_present_skyrim
+    title: "From Past to Present"
+    path: "From Past to Present.brstm"
+    type: break

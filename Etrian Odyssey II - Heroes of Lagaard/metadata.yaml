@@ -1,12 +1,10 @@
+---
 id: etrian_odyssey_ii_heroes_of_lagaard
 title: "Etrian Odyssey II: Heroes of Lagaard"
 year: 2008
 platform: "DS"
+series: etrianodyssey
 songs:
-  - id: vast_lands_spreading_in_the_north_pc88
-    title: "Town ~ Vast Lands Spreading in the North (PC-88)"
-    path: "Town ~ Vast Lands Spreading in the North (PC-88).brstm"
-    type: break
   - id: the_wind_doesnt_draw_heroes_pc88
     title: "Town ~ The Wind Doesn't Draw Heroes (PC-88)"
     path: "Town ~ The Wind Doesn't Draw Heroes (PC-88).brstm"
@@ -45,6 +43,10 @@ songs:
     title: "Battlefield ~ The First Campaign (PC-88)"
     path: "Battlefield ~ The First Campaign (PC-88).brstm"
     type: battle
+  - id: those_who_will_carve_their_names_in_legends_pc88
+    title: "Town ~ Those Who Will Carve Their Names in Legends (PC-88)"
+    path: "Town ~ Those Who Will Carve Their Name in Legends (PC-88).brstm"
+    type: result
   - id: guardians_of_the_sorrowful_ice_pc88
     title: "Battlefield ~ Guardians of the Sorrowful Ice (PC-88)"
     path: "Battlefield ~ Guardians of the Sorrowful Ice (PC-88).brstm"
@@ -53,7 +55,12 @@ songs:
     title: "Scene ~ Fresh Blood and Darkness (PC-88)"
     path: "Scene ~ Fresh Blood and Darkness (PC-88).brstm"
     type: warning
+  - id: vast_lands_spreading_in_the_north_pc88
+    title: "Town ~ Vast Lands Spreading in the North (PC-88)"
+    path: "Town ~ Vast Lands Spreading in the North (PC-88).brstm"
+    type: break
   - id: azure_and_silver_pc88
     title: "Scene ~ Azure and Silver (PC-88)"
     path: "Scene ~ Azure and Silver (PC-88).brstm"
     type: break
+...

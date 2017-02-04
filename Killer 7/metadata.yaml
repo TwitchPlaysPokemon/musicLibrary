@@ -4,8 +4,12 @@ title: "Killer 7"
 year: 2005
 platform: "PS2+GCN"
 songs:
-- id: rave_on
-  title: "Rave On"
-  path: "Rave On.brstm"
-  type: battle
+  - id: rave_on
+    title: "Rave On"
+    path: "Rave On.brstm"
+    type: battle
+  - id: tecks_mecks
+    title: "Tecks Mecks"
+    path: "Tecks Mecks.brstm"
+    type: betting
 ...

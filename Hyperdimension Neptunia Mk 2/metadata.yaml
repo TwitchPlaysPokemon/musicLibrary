@@ -24,4 +24,28 @@ songs:
     title: "White Sisters Battle"
     path: "White Sisters Battle.brstm"
     type: warning
+  - id: 100_bucks
+    title: "$100"
+    path: "Neptunia $100.brstm"
+    type: betting
+  - id: dancing_girl_neptunia
+    title: "Dancing Girl"
+    path: "Neptunia Dancing Girl.brstm"
+    type: battle
+  - id: lite_light
+    title: "Lite Light"
+    path: "Neptunia Lite Light.brstm"
+    type: betting
+  - id: magmatic_magnetics
+    title: "Magmatic Magnetics"
+    path: "Neptunia Magmatic Magnetics.brstm"
+    type: warning
+  - id: nepgears_theme
+    title: "Nepgear's theme"
+    path: "Neptunia Nepgear's theme.brstm"
+    type: betting
+  - id: scamper_neptunia
+    title: "Scamper"
+    path: "Neptunia Scamper.brstm"
+    type: battle
 ...

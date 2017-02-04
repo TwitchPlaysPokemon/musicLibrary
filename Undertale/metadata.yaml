@@ -76,4 +76,12 @@ songs:
     title: "Uwa!! So Holiday♫"
     path: "Uwa!! So Holiday.brstm"
     type: break
+  - id: dummy_fight
+    title: "Dummy!"
+    path: "Dummy!.brstm"
+    type: betting
+  - id: metal_crusher
+    title: "Metal Crusher"
+    path: "Metal Crusher.brstm"
+    type: warning
 ...

@@ -8,3 +8,11 @@ songs:
     title: "Credits"
     path: "Credits.brstm"
     type: result
+  - id: build_mode_legoracers
+    title: "Build Mode"
+    path: "Build Mode.brstm"
+    type: betting
+  - id: rocket_racer_run_legoracers
+    title: "Rocket Racer Run"
+    path: "Rocket Racer Run.brstm"
+    type: betting

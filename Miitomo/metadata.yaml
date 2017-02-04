@@ -15,3 +15,27 @@ songs:
     path: "Mii Studio.brstm"
     title: "Mii Studio"
     type: betting
+  - id: home_night_miitomo
+    path: "Home (Night).brstm"
+    title: "Home (Night)"
+    type: break
+  - id: home_nobody_home_miitomo
+    path: "Home (Nobody's Home).brstm"
+    title: "Home (Nobody's Home)"
+    type: break
+  - id: friend_easygoing
+    path: "Friend's House - Easygoing.brstm"
+    title: "Friend's House - Easygoing"
+    type: break
+  - id: shop_miitomo
+    path: "Shop.brstm"
+    title: "Shop"
+    type: break
+  - id: results_miitomo
+    path: "Miitomo Drop - Results.brstm"
+    title: "Miitomo Drop - Results"
+    type: result
+  - id: friend_confident
+    path: "Friend's House - Confident.brstm"
+    title: "Friend's House - Confident"
+    type: warning

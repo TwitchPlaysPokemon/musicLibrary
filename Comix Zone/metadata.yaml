@@ -1,0 +1,13 @@
+id: comix_zone
+platform: "Genesis"
+title: "Comix Zone"
+year: 1995
+songs: 
+  - id: battle_with_mortus
+    path: "Battle With Mortus.vgz"
+    title: "Battle With Mortus"
+    type: battle
+  - id: boss_comix_zone
+    path: "Boss Theme (Woe is the World).vgz"
+    title: "Boss Theme (Woe is the World)"
+    type: warning

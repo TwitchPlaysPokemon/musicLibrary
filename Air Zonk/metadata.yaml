@@ -1,0 +1,25 @@
+id: air_zonk
+title: "Air Zonk"
+platform: "TurboGrafx-16"
+year: 1992
+songs:
+  - id: stage_1_zonk
+    title: "Stage 1 (Aqua Base)"
+    path: "Stage 1 (Aqua Base).brstm"
+    type: betting
+  - id: stage_3_zonk
+    title: "Stage 3 (Pock'n Stadium)"
+    path: "Stage 3 (Pock'n Stadium).brstm"
+    type: betting
+  - id: stage_5_2_zonk
+    title: "Stage 5-2 (Holo Genjin)"
+    path: "Stage 5-2 (Holo Genjin).brstm"
+    type: betting
+  - id: stage_5_3_zonk
+    title: "Stage 5-3 (Boss Galore)"
+    path: "Stage 5-3 (Boss Galore).brstm"
+    type: warning
+  - id: unknown_zonk
+    title: "Unknown"
+    path: "Unknown.brstm"
+    type: warning

@@ -7,3 +7,23 @@ songs:
     title: "Mithra Battle (Battle 01)"
     path: "Mithra Battle (Battle 01).brstm"
     type: betting
+  - id: amatsu_battle
+    title: "Amatsu Battle (Battle 03)"
+    path: "Amatsu Battle (Battle 03).brstm"
+    type: battle
+  - id: kashmistan_battle
+    title: "Kashmistan Battle (Battle 04)"
+    path: "Kashmistan Battle (Battle 04).brstm"
+    type: betting
+  - id: field_battle
+    title: "Field Battle (Battle 06)"
+    path: "Field Battle (Battle 06).brstm"
+    type: betting
+  - id: xeno_the_king_of_beasts
+    title: "Xeno, The King of Beasts (Battle 11)"
+    path: "Xeno, The King of Beasts (Battle 11).brstm"
+    type: battle
+  - id: kingdom_of_regnant
+    title: "Kingdom of Regnant ~ Eclipse"
+    path: "Kingdom of Regnant ~ Eclipse.brstm"
+    type: betting

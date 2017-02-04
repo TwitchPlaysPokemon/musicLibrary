@@ -17,4 +17,8 @@ songs:
     title: "Charge Battle"
     path: "Charge Battle.brstm"
     type: battle
+  - id: dark_rust_battle
+    title: "Vs. Dark Rust (Final Battle)"
+    path: "Final Battle - Dark Rust - Pokémon Rumble Blast.brstm"
+    type: battle
 ...

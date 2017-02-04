@@ -1,0 +1,9 @@
+id: drome_racers
+title: "Drome Racers"
+platform: ["PC", "GC", "Xbox", "PS2"]
+year: 2002
+songs:
+  - id: challenger_drome_racers
+    title: "Challenger"
+    path: "Challenger.brstm"
+    type: warning
