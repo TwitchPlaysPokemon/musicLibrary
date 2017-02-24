@@ -1,0 +1,29 @@
+---
+id: pokemon_brown
+title: "Pokémon Brown"
+series: pokemon
+platform: "GB"
+is_fanwork: true
+year: 2004
+songs:
+  - id: champion_battle_brown
+    title: "Battle! Champion Mura"
+    path: "Pokemon Brown_Battle! Champion.brstm"
+    type: warning
+  - id: route_34_brown
+    title: "Route 34"
+    path: "Pokemon Brown_Route 34.brstm"
+    type: break
+  - id: ilex_forst_brown
+    title: "Ilex Forest"
+    path: "Pokemon Brown_Ilex Forest.brstm"
+    type: betting
+  - id: azalea_town_brown
+    title: "Azalea Town"
+    path: "Pokemon Brown_Azalea Town.brstm"
+    type: betting
+  - id: slowpoke_well_brown
+    title: "Slowpoke Well"
+    path: "Pokemon Brown_Slowpoke Well.brstm"
+    type: betting
+...
