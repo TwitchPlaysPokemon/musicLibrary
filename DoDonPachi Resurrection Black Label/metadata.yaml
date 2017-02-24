@@ -37,4 +37,20 @@ songs:
     path: "Sally.brstm"
     title: "Sally"
     type: warning
+  - id: endorphin
+    path: "Endorphin (Boss1).brstm"
+    title: "Endorphin (Boss1)"
+    type: battle
+  - id: desperado
+    path: "Desperado (Final Boss).brstm"
+    title: "Desperado (Final Boss)"
+    type: battle
+  - id: resurrection_ending
+    path: "Resurrection (Ending).brstm"
+    title: "Resurrection (Ending)"
+    type: break
+  - id: saidaioujou_ending_arrange
+    path: "SaiDaiOuJou (Ending) - Arrange.brstm"
+    title: "SaiDaiOuJou (Ending) - Arrange"
+    type: break
 ...

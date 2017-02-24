@@ -26,3 +26,34 @@ songs:
     path: "The Winding Theme #1.brstm"
     ends: 3:02
     type: betting
+  - id: voyager
+    title: "Voyager"
+    path: "Voyager.flac"
+    ends: 3:10
+    type: betting
+  - id: narc
+    title: "NARC"
+    path: "NARC.flac"
+    ends: 3:15
+    type: betting
+  - id: remorse_hm2
+    title: "Remorse"
+    path: "Remorse.flac"
+    type: break
+  - id: she_meditates
+    title: "She Meditates"
+    path: "She Meditates.brstm"
+    type: break
+  - id: she_swallowed_burning_coals
+    title: "She Swallowed Burning Coals"
+    path: "She Swallowed Burning Coals.flac"
+    ends: 3:20 
+    type: betting
+  - id: roller_mobster
+    title: "Roller Mobster"
+    path: "Roller Mobster.brstm"
+    type: battle
+  - id: untitled_hm2
+    title: "Untitled"
+    path: "Untitled.flac"
+    type: break

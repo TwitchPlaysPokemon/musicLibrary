@@ -62,7 +62,7 @@ songs:
     path: "Going Shopping in Seaside Town.spc"
     type: betting
   - id: lets_play_geno
-    title: "Let's Play, Geno"
+    title: "Let's Play 'Geno'"
     path: "Let's Play _Geno_.spc"
     type: result
   - id: rose_town
@@ -97,4 +97,20 @@ songs:
     title: "Fight Against Smithy, Who Likes Transforming"
     path: "Fight Against Smithy, Who Likes Transforming.spc"
     type: battle
+  - id: hello_happy_kingdom
+    title: "Hello, Happy Kingdom"
+    path: "Hello, Happy Kingdom.spc"
+    type: betting
+  - id: heres_some_weapons
+    title: "Here's Some Weapons!"
+    path: "Here's Some Weapons!.spc"
+    type: betting
+  - id: lets_do_the_fooka_fooka
+    title: "Let's Do the Fooka-Fooka!"
+    path: "Let's Do the Fooka-Fooka!.spc"
+    type: betting
+  - id: weapons_factory
+    title: "Weapons Factory"
+    path: "Weapons Factory.spc"
+    type: betting
 ...

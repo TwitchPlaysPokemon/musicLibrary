@@ -1,0 +1,17 @@
+id: power_stone_2
+title: "Power Stone 2"
+year: 2000
+platform: "Dreamcast"
+songs:
+  - id: continue_powerstone_2
+    title: "Continue"
+    path: "Continue.brstm"
+    type: warning
+  - id: extra_stage_2_powerstone_2
+    title: "Extra Stage 2"
+    path: "Extra Stage 2.brstm"
+    type: betting
+  - id: extra_stage_3_powerstone_2
+    title: "Extra Stage 3"
+    path: "Extra Stage 3.brstm"
+    type: result

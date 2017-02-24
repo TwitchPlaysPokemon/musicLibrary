@@ -29,4 +29,12 @@ songs:
     title: "Freezeezy Peak (Christmas Bells)"
     path: "Freezeezy Peak (Normal with Christmas Bells).miniusf"
     type: betting
+  - id: main_title_bk
+    title: "Main Title"
+    path: "Main Title.miniusf"
+    type: result
+  - id: mumbo_mountain_bk
+    title: "Mumbo's Mountain"
+    path: "Mumbo's Mountain.miniusf"
+    type: betting
 ...

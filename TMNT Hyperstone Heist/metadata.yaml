@@ -1,0 +1,18 @@
+id: tmnt_hyperstone_heist
+title: "Teenage Mutant Ninja Turtles: The Hyperstone Heist"
+platform: "Genesis"
+series: tmnt
+year: 1992
+songs: 
+  - id: sewer_surfin
+    title: "Sewer Surfin'"
+    path: "08 - Sewer Surfin'.vgz"
+    type: betting
+  - id: the_gauntlet
+    title: "The Gauntlet"
+    path: "13 - The Gauntlet.vgz"
+    type: betting
+  - id: pizza_power
+    title: "Pizza Power!"
+    path: "23 - Pizza Power!.vgz"
+    type: result

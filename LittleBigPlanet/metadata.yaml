@@ -9,4 +9,9 @@ songs:
     title: "The Pod (Main Menu)"
     path: "The Pod (Main Menu).brstm"
     type: break
+  - id: get_it_together
+    title: "Get It Together"
+    path: "Get It Together.brstm"
+    ends: 2:43
+    type: betting
 ...

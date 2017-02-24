@@ -1,0 +1,13 @@
+id: thomas_and_friends
+title: "Thomas the Tank Engine & Friends"
+platform: "SNES"
+year: 1993
+songs:
+  - id: lets_race_thomas
+    title: "Let's Race"
+    path: "Let's Race.spc"
+    type: result
+  - id: title_theme_thomas
+    title: "Title Theme"
+    path: "Title Theme.spc"
+    type: result

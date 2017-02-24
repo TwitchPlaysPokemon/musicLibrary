@@ -1,0 +1,13 @@
+id: pocky_and_rocky
+title: "Pocky & Rocky"
+year: 1992
+platform: "SNES"
+songs:
+  - id: haunted_house_pocky_rocky
+    title: "Haunted House"
+    path: "Pocky & Rocky - 18 - Haunted House.spc"
+    type: betting
+  - id: the_forbidden_castle
+    title: "The Forbidden Castle"
+    path: "Pocky & Rocky - 21 - The Forbidden Castle.spc"
+    type: betting

@@ -1,0 +1,32 @@
+id: sonic_after_the_sequel
+title: "Sonic: After the Sequel"
+series: sonic
+year: 2013
+is_fanwork: true
+platform: "PC"
+songs:
+  - id: foliage_furnace_16_bit
+    title: "Foliage Furnace 16-bit"
+    path: "Sonic After the Sequel (F) - Foliage Furnace 16-bit.brstm"
+    type: betting
+  - id: foliage_furnace_1
+    title: "Foliage Furnace Act 1"
+    path: "Sonic After the Sequel (F) - Foliage Furnace Act 1.brstm"
+    type: betting
+  - id: moon_mansion_3
+    title: "Moon Mansion Act 3"
+    path: "Sonic After the Sequel (F) - Moon Mansion Act 3.brstm"
+    type: battle
+  - id: redhot_ride_2
+    title: "Redhot Ride Act 2"
+    path: "Sonic After the Sequel (F) - Redhot Ride Act 2.brstm"
+    type: betting
+  - id: redhot_ride_3
+    title: "Redhot Ride Act 3"
+    path: "Sonic After the Sequel (F) - Redhot Ride Act 3.brstm"
+    type: betting
+  - id: technology_tree_1
+    title: "Technology Tree Act 1"
+    path: "Sonic After the Sequel (F) - Technology Tree Act 1.brstm"
+    ends: 2:04
+    type: betting

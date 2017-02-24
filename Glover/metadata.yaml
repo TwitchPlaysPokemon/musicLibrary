@@ -1,0 +1,13 @@
+id: glover
+title: "Glover"
+year: 1998
+platform: "N64"
+songs:
+  - id: carnival_1
+    title: "Carnival Realm Lobby, Level 1"
+    path: "Glover - 15 - Carnival 1.miniusf"
+    type: betting
+  - id: prehistoric_1
+    title: "Prehistoric Realm Lobby, Level 1"
+    path: "Glover - 33 - Prehistoric 1.miniusf"
+    type: break

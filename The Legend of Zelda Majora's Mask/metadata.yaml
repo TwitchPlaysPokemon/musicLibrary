@@ -48,4 +48,12 @@ songs:
     title: "The Owl"
     path: "The Owl.brstm"
     type: warning
+  - id: clock_town_day_1
+    title: "Clock Town 1st Day"
+    path: "Clock Town 1st Day.brstm"
+    type: betting
+  - id: deku_nuts_castle
+    title: "Deku Nuts' Castle"
+    path: "Deku Nuts' Castle.brstm"
+    type: betting
 ...

@@ -1,0 +1,31 @@
+id: legend_of_mana
+title: "Legend of Mana"
+year: 1999
+series: seikendensetsu
+platform: "PS1"
+songs:
+  - id: world_of_mana
+    title: "World of Mana"
+    path: "Legend of Mana 103 World of Mana.psf"
+    type: break
+  - id: hometown_domina
+    title: "Hometown Domina"
+    path: "Legend of Mana 106 Hometown Domina.psf"
+    type: break
+  - id: wanderer_path
+    title: "Wanderer's Path"
+    path: "Legend of Mana 108 Wanderer's Path.psf"
+    ends: 2:07
+    type: betting
+  - id: pain_the_universe
+    title: "Pain the Universe"
+    path: "Legend of Mana 109 Pain the Universe.psf"
+    type: battle
+  - id: marginal_beast
+    title: "Marginal Beast"
+    path: "Legend of Mana 112 Marginal Beast.psf"
+    type: warning
+  - id: southern_city_polpota
+    title: "Southern City Polpota"
+    path: "Legend of Mana 116 Southern City Polpota.psf"
+    type: betting

@@ -1,0 +1,9 @@
+id: dragon_warrior_ii
+title: "Dragon Warrior II"
+year: 1987
+platform: "NES"
+songs:
+  - id: town_dq2
+    title: "Town"
+    path: "Town.vgz"
+    type: break

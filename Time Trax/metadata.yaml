@@ -2,11 +2,19 @@
 id: time_trax
 title: "Time Trax"
 platform: "Genesis"
-year: UNRELEASED
+year: Unreleased
 songs: 
   - id: mission_briefing
     title: "Mission Briefing"
     path: "Mission Briefing.brstm"
     ends: 3:45
+    type: betting
+  - id: title_screen_timetrax
+    title: "Title Screen, Credits"
+    path: "01 - Title Screen, Credits.vgz"
+    type: betting
+  - id: stages_4_6_timetrax
+    title: "Stages 4, 6"
+    path: "05 - Stages 4, 6.vgz"
     type: betting
 ...

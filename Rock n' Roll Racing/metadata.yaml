@@ -1,0 +1,27 @@
+id: rock_n_roll_racing
+title: "Rock n' Roll Racing"
+platform: "SNES"
+year: 1993
+songs:
+  - id: paranoid
+    title: "Paranoid"
+    path: "Rock N' Roll Racing - 02 - Paranoid.spc"
+    type: battle
+  - id: bad_to_the_bone
+    title: "Bad to the Bone"
+    path: "Bad to the Bone.spc"
+    ends: 2:26
+    type: betting
+  - id: born_to_be_wild
+    title: "Born to Be Wild"
+    path: "Born to Be Wild.spc"
+    type: betting
+  - id: highway_star
+    title: "Highway Star"
+    path: "Highway Star.spc"
+    ends: 2:45
+    type: betting
+  - id: peter_gunn
+    title: "Peter Gunn"
+    path: "Peter Gunn.spc"
+    type: warning

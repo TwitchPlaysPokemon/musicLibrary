@@ -57,10 +57,6 @@ songs:
     title: "Vs Ultimate Chimera"
     path: "Vs Ultimate Chimera.brstm"
     type: warning
-  - id: mr_batty_twist
-    title: "Mr. Batty Twist"
-    path: "Mr. Batty Twist.brstm"
-    type: warning
   - id: monkeys_delivery_service
     title: "Monkey's Delivery Service"
     path: "Monkey's Delivery Service.brstm"
@@ -73,4 +69,36 @@ songs:
     title: "Snowman"
     path: "Snowman.minigsf"
     type: break
+  - id: a_letter_to_you_honey
+    title: "A Letter to You, Honey"
+    path: "A Letter to You, Honey.minigsf"
+    type: break
+  - id: his_highness_theme
+    title: "His Highness' Theme"
+    path: "His Highness' Theme.minigsf"
+    type: betting
+  - id: mom_hometown
+    title: "Mom's Hometown"
+    path: "Mom's Hometown.minigsf"
+    type: betting
+  - id: monkey_love_song
+    title: "Monkey's Love Song"
+    path: "Monkey's Love Song.minigsf"
+    type: betting
+  - id: mr_batty_twist
+    title: "Mr. Batty Twist"
+    path: "Mr. Batty Twist.minigsf"
+    type: warning
+  - id: name_these_children
+    title: "Name These Children"
+    path: "Name These Children.minigsf"
+    type: break
+  - id: ode_to_ancestors_8
+    title: "Ode to Ancestors: 8th Movement"
+    path: "Ode to Ancestors- 8th Movement.minigsf"
+    type: warning
+  - id: to_sunshine_forest
+    title: "To Sunshine Forest"
+    path: "To Sunshine Forest.minigsf"
+    type: betting
 ...

@@ -91,4 +91,12 @@ songs:
     title: "Wep'keer"
     ends: 3:00
     type: betting
+  - id: helping_with_the_fishing
+    path: "Helping with the Fishing.brstm"
+    title: "Helping with the Fishing"
+    type: betting
+  - id: shinto_priest_mikazuki
+    path: "Shinto Priest Mikazuki's Theme.brstm"
+    title: "Shinto Priest Mikazuki's Theme"
+    type: break
 ...

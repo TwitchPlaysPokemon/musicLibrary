@@ -60,4 +60,8 @@ songs:
     path: "Monkey Soccer.brstm"
     title: "Monkey Soccer"
     type: betting
+  - id: hurry_up_monkeyball2
+    path: "Hurry Up.brstm"
+    title: "Hurry Up"
+    type: warning
 ...

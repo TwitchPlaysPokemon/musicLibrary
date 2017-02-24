@@ -1,0 +1,23 @@
+id: sonic_robo_blast_2
+title: "Sonic Robo Blast 2"
+series: sonic
+year: 1998
+is_fanwork: true
+platform: "PC"
+songs:
+  - id: egg_rock_zone_1
+    title: "Egg Rock Zone, Act 1"
+    path: "Sonic Robo Blast 2 (F) - Egg Rock Zone, Act 1.brstm"
+    type: betting
+  - id: multiplayer_intermission
+    title: "Multiplayer Intermission"
+    path: "Sonic Robo Blast 2 (F) - Multiplayer Intermission.brstm"
+    type: break
+  - id: mystic_realm_boss
+    title: "Mystic Realm Boss"
+    path: "Sonic Robo Blast 2 (F) - Mystic Realm Boss.brstm"
+    type: battle
+  - id: techno_hill_zone_2
+    title: "Techno Hill Zone, Act 2"
+    path: "Sonic Robo Blast 2 (F) - Techno Hill Zone, Act 2.brstm"
+    type: betting

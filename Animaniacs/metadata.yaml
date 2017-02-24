@@ -1,0 +1,17 @@
+id: animaniacs
+title: "Animaniacs"
+year: 1994
+platform: "SNES"
+songs:
+  - id: title_screen_animaniacs
+    title: "Title Screen"
+    path: "Animaniacs - 01 - Title Screen.spc"
+    type: result
+  - id: the_water_tower
+    title: "The Water Tower"
+    path: "Animaniacs - 10 - The Water Tower.spc"
+    type: warning
+  - id: jaws_animaniacs
+    title: "Jaws..."
+    path: "Animaniacs - 17 - Jaws....spc"
+    type: warning

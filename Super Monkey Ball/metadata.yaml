@@ -1,0 +1,13 @@
+id: super_monkey_ball
+title: "Super Monkey Ball"
+year: 2001
+platform: ["Arcade", "GC"]
+songs:
+  - id: arctic_monkeyball
+    title: "Arctic"
+    path: "Arctic.brstm"
+    type: betting
+  - id: monkey_race
+    title: "Monkey Race"
+    path: "Monkey Race.brstm"
+    type: betting

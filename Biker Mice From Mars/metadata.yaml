@@ -1,0 +1,17 @@
+id: biker_mice_from_mars
+title: "Biker Mice from Mars"
+year: 1994
+platform: "SNES"
+songs:
+  - id: shop_biker_mice
+    title: "Shop"
+    path: "Biker Mice From Mars - 04 - Shop.spc"
+    type: result
+  - id: city_biker_mice
+    title: "City"
+    path: "Biker Mice From Mars - 06 - City.spc"
+    type: battle
+  - id: ranked_in_biker_mice
+    title: "Ranked In"
+    path: "Biker Mice From Mars - 11 - Ranked In.spc"
+    type: result
