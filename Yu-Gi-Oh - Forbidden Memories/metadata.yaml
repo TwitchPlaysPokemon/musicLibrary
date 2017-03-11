@@ -8,3 +8,11 @@ songs:
     title: "Finals"
     path: "Finals.brstm"
     type: warning
+  - id: free_duel_forbidden_memories
+    title: "Free Duel"
+    path: "Free Duel.brstm"
+    type: betting
+  - id: 3d_battle_forbidden_memories
+    title: "3D Battle"
+    path: "3D Battle.brstm"
+    type: warning

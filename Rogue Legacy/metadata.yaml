@@ -1,0 +1,23 @@
+---
+id: rogue_legacy
+title: "Rogue Legacy"
+year: 2013
+platform: "Various"
+songs:
+  - id: pistol_shrimp_rogue_legacy
+    title: "Pistol Shrimp"
+    path: "Pistol Shrimp.brstm"
+    type: warning
+  - id: skin_off_my_teeth_rogue_legacy
+    title: "Skin Off My Teeth"
+    path: "Skin Off My Teeth.brstm"
+    type: warning
+  - id: poot_yan_rogue_legacy
+    title: "Poot Yan"
+    path: "Poot Yan.brstm"
+    type: result
+  - id: castle_rogue_legacy
+    title: "Castle"
+    path: "Castle.brstm"
+    type: break
+...

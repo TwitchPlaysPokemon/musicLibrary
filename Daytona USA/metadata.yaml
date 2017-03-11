@@ -16,3 +16,16 @@ songs:
     title: "Let's Go Away"
     path: "Let's Go Away (Arcade).brstm"
     type: betting
+  - id: start_your_engines
+    title: "Start Your Engines"
+    path: "Start Your Engines (Looped) (Arcade).brstm"
+    type: warning
+  - id: pounding_pavement
+    title: "Pounding Pavement"
+    path: "Pounding Pavement (Arcade).brstm"
+    type: warning
+  - id: could_you_fly
+    title: "Could You Fly?"
+    path: "Could You Fly (Arcade).brstm"
+    type: warning
+...

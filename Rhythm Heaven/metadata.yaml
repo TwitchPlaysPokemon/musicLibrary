@@ -1,0 +1,59 @@
+---
+id: rhythm_heaven
+title: "Rhythm Heaven"
+year: 2008
+platform: "NDS"
+songs:
+  - id: lockstep_rhythm_heaven
+    title: "Lockstep"
+    path: "Lockstep.brstm"
+    type: betting
+  - id: love_lab_rhythm_heaven
+    title: "Love Lab"
+    path: "Love Lab.brstm"
+    type: break
+  - id: moai_doo_wop_2_rhythm_heaven
+    title: "Moai-Doo-Wop 2"
+    path: "Moai-Doo-Wop 2.brstm"
+    type: betting
+  - id: munchy_monk_2_rhythm_heaven
+    title: "Munchy Monk 2"
+    path: "Munchy Monk 2.brstm"
+    type: betting
+  - id: dj_school_rhythm_heaven
+    title: "DJ School"
+    path: "DJ School.brstm"
+    type: betting
+  - id: blue_birds_2_rhythm_heaven
+    title: "Blue Birds 2"
+    path: "Blue Birds 2.brstm"
+    type: betting
+  - id: drummer_duel_rhythm_heaven
+    title: "Drummer Duel"
+    path: "Drummer Duel.brstm"
+    type: betting
+  - id: dog_ninja_rhythm_heaven
+    title: "Dog Ninja"
+    path: "Dog Ninja.brstm"
+    type: warning
+  - id: menu_rhythm_heaven
+    title: "Menu"
+    path: "Menu.brstm"
+    type: result
+  - id: menu_2_rhythm_heaven
+    title: "Menu 2"
+    path: "Menu 2.brstm"
+    type: betting
+  - id: rhythm_rally_2_rhythm_heaven
+    title: "Rhythm Rally 2"
+    path: "Rhythm Rally 2.brstm"
+    type: battle
+  - id: remix_10_rhythm_heaven
+    title: "Remix 10"
+    path: "Remix 10.brstm"
+    type: betting
+  - id: space_soccer_rhythm_heaven
+    title: "Space Soccer"
+    path: "Space Soccer.brstm"
+    type: betting
+...

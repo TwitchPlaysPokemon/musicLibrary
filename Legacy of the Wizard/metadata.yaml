@@ -1,0 +1,44 @@
+---
+id: legacy_of_the_wizard
+title: "Legacy of the Wizard"
+series: dragonslayer
+year: 1987
+platform: ["NES", "MSX"]
+songs:
+  - id: ground_theme_lotw
+    title: "Ground Theme"
+    path: "04 Ground Theme.vgz"
+    type: result
+  - id: all_together_now_lotw
+    title: "All Together Now"
+    path: "05 All Together Now.vgz"
+    type: betting
+  - id: xemn_worzen_lotw
+    title: "Xemn Worzen"
+    path: "07 Xemn Worzen.vgz"
+    type: betting
+  - id: mid_boss_lotw
+    title: "Mid Boss"
+    path: "08 Mid Boss.vgz"
+    type: warning
+  - id: pochi_lotw
+    title: "Pochi"
+    path: "09 Pochi.vgz"
+    type: warning
+  - id: lyll_worzen_lotw
+    title: "Lyll Worzen"
+    path: "10 Lyll Worzen.vgz"
+    type: betting
+  - id: mayna_worzen_lotw
+    title: "Mayna Worzen"
+    path: "11 Mayna Worzen.vgz"
+    type: betting
+  - id: dilgyos_lotw
+    title: "Dilgyos"
+    path: "12 Dilgyos.vgz"
+    type: warning
+  - id: roas_worzen_unused_lotw
+    title: "Roas Worzen (Unused)"
+    path: "16 Roas Worzen (Unused).vgz"
+    type: warning
+...

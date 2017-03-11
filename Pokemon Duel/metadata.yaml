@@ -1,0 +1,60 @@
+---
+id: pokemon_duel
+title: "Pokémon Duel"
+series: pokemon
+year: 2017
+platform: "Mobile"
+songs:
+  - id: duel_1_pokemon_duel
+    title: "Duel 1"
+    path: "Duel 1.brstm"
+    type: betting
+  - id: duel_1_critical_pokemon_duel
+    title: "Duel 1 Critical"
+    path: "Duel 1 Critical.brstm"
+    type: warning
+  - id: duel_2_pokemon_duel
+    title: "Duel 2"
+    path: "Duel 2.brstm"
+    type: betting
+  - id: duel_3_pokemon_duel
+    title: "Duel 3"
+    path: "Duel 3.brstm"
+    type: betting
+  - id: duel_3_critical_pokemon_duel
+    title: "Duel 3 Critical"
+    path: "Duel 3 Critical.brstm"
+    type: warning
+  - id: epic_duel_pokemon_duel
+    title: "Epic Duel"
+    path: "Epic Duel.brstm"
+    type: warning
+  - id: epic_duel_critical_pokemon_duel
+    title: "Epic Duel Critical"
+    path: "Epic Duel Critical.brstm"
+    type: warning
+  - id: main_menu_pokemon_duel
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: quest_pokemon_duel
+    title: "Quest"
+    path: "Quest.brstm"
+    type: break
+  - id: quest_menu_pokemon_duel
+    title: "Quest Menu"
+    path: "Quest Menu.brstm"
+    type: break
+  - id: special_trainer_duel_2_pokemon_duel
+    title: "Special Trainer Duel 2"
+    path: "Special Trainer Duel 2.brstm"
+    type: battle
+  - id: training_duel_critical_pokemon_duel
+    title: "Training Duel Critical"
+    path: "Training Duel Critical.brstm"
+    type: battle
+  - id: victory_pokemon_duel
+    title: "Victory"
+    path: "Victory.brstm"
+    type: result
+...

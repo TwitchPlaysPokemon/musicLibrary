@@ -1,0 +1,24 @@
+---
+id: yu_gi_oh_the_duelists_of_the_roses
+title: "Yu-Gi-Oh! The Duelists of the Roses"
+series: yugioh
+year: 2001
+platform: "PS2"
+songs:
+  - id: vs_yorkists_duelists_of_the_roses
+    title: "VS Yorkists"
+    path: "VS Yorkists.brstm"
+    type: betting
+  - id: vs_seto_kaiba_duelists_of_the_roses
+    title: "VS Seto Kaiba"
+    path: "VS Seto Kaiba.brstm"
+    type: battle
+  - id: free_duel_duelists_of_the_roses
+    title: "Free Duel"
+    path: "Free Duel.brstm"
+    type: betting
+  - id: vs_darknite_duelists_of_the_roses
+    title: "VS DarkNite"
+    path: "VS DarkNite.brstm"
+    type: warning
+...

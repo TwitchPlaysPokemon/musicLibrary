@@ -1,0 +1,48 @@
+---
+id: dragon_ball_z_extreme_butoden
+title: "Dragon Ball Z: Extreme Butōden"
+series: dragonball
+year: 2015
+platform: "3DS"
+songs:
+  - id: adventure_map_extreme_butoden
+    title: "Adventure Map"
+    path: "Adventure Map.brstm"
+    type: betting
+  - id: break_wasteland_extreme_butoden
+    title: "Break Wasteland"
+    path: "Break Wasteland.brstm"
+    type: betting
+  - id: character_select_extreme_butoden
+    title: "Character Select"
+    path: "Character Select.brstm"
+    type: battle
+  - id: dying_planet_namek_extreme_butoden
+    title: "Dying Planet Namek"
+    path: "Dying Planet Namek.brstm"
+    type: battle
+  - id: ending_extreme_butoden
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+  - id: hyperbolic_time_chamber_extreme_butoden
+    title: "Hyperbolic Time Chamber"
+    path: "Hyperbolic Time Chamber.brstm"
+    type: break
+  - id: other_worlds_snake_way_extreme_butoden
+    title: "Other World's Snake Way"
+    path: "Other World's Snake Way.brstm"
+    type: battle
+  - id: ruined_city_extreme_butoden
+    title: "Ruined City"
+    path: "Ruined City.brstm"
+    type: battle
+  - id: tenkaichi_budokai_extreme_butoden
+    title: "Tenkaichi Budokai"
+    path: "Tenkaichi Budokai.brstm"
+    type: battle
+  - id: the_cell_games_extreme_butoden
+    title: "The Cell Games"
+    path: "The Cell Games.brstm"
+    type: warning
+...

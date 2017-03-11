@@ -1,0 +1,15 @@
+---
+id: the_smurfs_nightmare
+title: "The Smurfs' Nightmare"
+year: 1997
+platform: ["GB", "GBC"]
+songs:
+  - id: main_menu_smurfs_nightmare
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: the_rabbit_race_rabbits_ride_smurfs_nightmare
+    title: "The Rabbit Race (Rabbit's Ride)"
+    path: "The Rabbit Race (Rabbit's Ride).brstm"
+    type: betting
+...

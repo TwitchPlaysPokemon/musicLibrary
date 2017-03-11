@@ -20,3 +20,43 @@ songs:
     title: "Double Date"
     path: "double_date.brstm"
     type: betting
+  - id: air_rally
+    title: "Air Rally"
+    path: "Air Rally.brstm"
+    type: betting
+  - id: board_meeting
+    title: "Board Meeting"
+    path: "Board Meeting.brstm"
+    type: betting
+  - id: monkey_watch
+    title: "Monkey Watch"
+    path: "Monkey Watch.brstm"
+    type: betting
+  - id: remix_4
+    title: "Remix 4"
+    path: "Remix 4.brstm"
+    type: betting
+  - id: working_dough
+    title: "Working Dough"
+    path: "Working Dough.brstm"
+    type: betting
+  - id: hole_in_one
+    title: "Hole In One"
+    path: "Hole In One.brstm"
+    type: betting
+  - id: game_select_2
+    title: "Game Select 2"
+    path: "Game Select 2.brstm"
+    type: result
+  - id: game_select_rhf
+    title: "Game Select"
+    path: "Game Select.brstm"
+    type: warning
+  - id: remix_9_beautiful_one_day_instrumental
+    title: "Remix 9 - Beautiful One Day (Instrumental)"
+    path: "Remix 9 - Beautiful One Day (Instrumental).brstm"
+    type: betting
+  - id: remix_8_i_love_you_my_one_and_only_instrumental
+    title: "Remix 8 - I Love You My One And Only (Instrumental)"
+    path: "Remix 8 - I Love You My One And Only (Instrumental).brstm"
+    type: betting
