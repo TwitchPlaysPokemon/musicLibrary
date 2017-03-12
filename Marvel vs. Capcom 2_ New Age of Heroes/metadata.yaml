@@ -17,4 +17,12 @@ songs:
     title: "Clock Tower Stage"
     path: "Clock Tower Stage.brstm"
     type: break
+  - id: airship_stage_mvc2
+    title: "Airship Stage"
+    path: "Airship Stage.brstm"
+    type: betting
+  - id: winner_mvc2
+    title: "Winner"
+    path: "Winner.brstm"
+    type: result
 ...

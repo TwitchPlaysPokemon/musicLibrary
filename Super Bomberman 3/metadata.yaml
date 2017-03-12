@@ -3,9 +3,21 @@ id: super_bomberman_3
 title: "Super Bomberman 3"
 platform: "SNES"
 year: 1995
-songs: 
+songs:
+  - id: select_2_sb3
+    title: "Select Theme 2"
+    path: "02 Select 2.spc"
+    type: result
+  - id: bgm_1_sb3
+    title: "BGM 1"
+    path: "04 BGM 1.spc"
+    type: break
   - id: bgm_2_sb3
     title: "BGM 2"
     path: "07 BGM 2.spc"
+    type: betting
+  - id: bgm_3_sb3
+    title: "BGM 3"
+    path: "12 BGM 3.spc"
     type: betting
 ...

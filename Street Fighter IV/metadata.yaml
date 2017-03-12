@@ -33,4 +33,16 @@ songs:
     path: "Theme of Zangief.brstm"
     title: "Theme of Zangief"
     type: betting
+  - id: theme_of_akuma_sfiv
+    path: "Theme of Akuma.brstm"
+    title: "Theme of Akuma"
+    type: battle
+  - id: theme_of_sakura_sfiv
+    path: "Theme of Sakura.brstm"
+    title: "Theme of Sakura"
+    type: battle
+  - id: results_screen_sfiv
+    path: "Results Screen.brstm"
+    title: "Results Screen"
+    type: result
 ...

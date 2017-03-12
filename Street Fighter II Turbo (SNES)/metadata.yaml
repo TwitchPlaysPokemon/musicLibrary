@@ -1,3 +1,4 @@
+---
 id: street_fighter_ii_turbo_snes
 title: "Street Fighter II Turbo (SNES)"
 series: streetfighter
@@ -16,3 +17,8 @@ songs:
     title: "Blanka"
     path: "Blanka.brstm"
     type: betting
+  - id: balrog_sf2t
+    title: "Balrog"
+    path: "Balrog.brstm"
+    type: betting
+...

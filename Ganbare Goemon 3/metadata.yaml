@@ -3,7 +3,11 @@ id: ganbare_goemon_3
 title: "Ganbare Goemon 3"
 platform: "SFC"
 year: 1994
-songs: 
+songs:
+  - id: stage_1_goemon_3
+    title: "Stage 1"
+    path: "12 Stage 1.spc"
+    type: betting
   - id: run_faster
     title: "Run Faster!"
     path: "17 Run Faster!.spc"

@@ -1,10 +1,20 @@
+---
 id: monster_hunter_portable_3rd
 title: "Monster Hunter Portable 3rd"
 year: 2010
 series: monsterhunter
 platform: "PSP"
 songs:
-  - id: sparkling_blue_light_zinogre
+  - id: zinogre_10th_anniversary_arrange
     title: "Sparkling Blue Light ~ Zinogre (10th Anniversary [Tribute] Arrange)"
     path: "Sparkling Blue Light ~ Zinogre (10th Anniversary [Tribute] Arrange).brstm"
     type: battle
+  - id: zinogre
+    title: "Zinogre"
+    path: "Zinogre.brstm"
+    type: battle
+  - id: yukumo_village
+    title: "Yukumo Village"
+    path: "Yukumo Village.brstm"
+    type: break
+...

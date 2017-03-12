@@ -41,4 +41,12 @@ songs:
     title: "You Blow My Mind"
     path: "You Blow My Mind (Arranged).brstm"
     type: betting
+  - id: killing_moon_arranged
+    title: "Killing Moon"
+    path: "Killing Moon (Arranged).brstm"
+    type: battle
+  - id: stage_results_sf3
+    title: "Stage Results"
+    path: "Stage Results.adx"
+    type: result
 ...

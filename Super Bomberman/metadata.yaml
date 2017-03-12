@@ -1,3 +1,4 @@
+---
 id: super_bomberman
 title: "Super Bomberman"
 platform: "SNES"
@@ -7,3 +8,8 @@ songs:
     title: "Boss"
     path: "Boss.brstm"
     type: warning
+  - id: super_bomberman_level_1
+    title: "Level 1"
+    path: "Level 1.spc"
+    type: betting
+...
