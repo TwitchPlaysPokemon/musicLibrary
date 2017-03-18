@@ -1,72 +1,73 @@
----
-id: pokemon_mystery_dungeon_blue_and_red_rescue_team
-title: "Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team"
+﻿---
+id: pokemon_mystery_dungeon_red_and_blue_rescue_team
+title: "Pokémon Mystery Dungeon: Red & Blue Rescue Team"
 series: pokemon
 year: 2005
 platform: "NDS"
 songs: 
-  - id: world_calamity
-    title: "World Calamity"
-    path: "World Calamity.brstm"
-    type: warning
-  - id: magma_cavern
-    title: "Magma Cavern"
-    path: "Magma Cavern.brstm"
-    type: betting
   - id: thunderwave_cave
     title: "Thunderwave Cave"
     path: "Thunderwave Cave.brstm"
     type: betting
-  - id: danger_mystery_dungeon_blue_and_red_rescue_team
-    title: "Danger"
-    path: "Danger.brstm"
-    type: warning
   - id: friend_area_pond
-    title: "Friend Area Pond"
+    title: "Friend Area ~ Pond"
     path: "Friend Area Pond.brstm"
     type: betting
-  - id: happiness
-    title: "Happiness"
-    path: "Happiness.brstm"
-    type: result
-  - id: mt._thunder
+  - id: mt_thunder
     title: "Mt. Thunder"
     path: "Mt. Thunder.brstm"
-    type: betting
-  - id: kecleon_shop
-    title: "Kecleon Shop"
-    path: "Kecleon Shop.brstm"
-    type: break
-  - id: the_legend_of_ninetales
-    title: "The Legend of Ninetales"
-    path: "The Legend of Ninetales.brstm"
-    type: betting
-  - id: sky_tower
-    title: "Sky Tower"
-    path: "Sky Tower.brstm"
     type: betting
   - id: great_canyon
     path: "Great Canyon.brstm"
     title: "Great Canyon"
     type: betting
+  - id: the_legend_of_ninetales
+    title: "The Legend of Ninetales"
+    path: "The Legend of Ninetales.brstm"
+    type: betting
   - id: mt_blaze
     path: "Mt. Blaze.brstm"
     title: "Mt. Blaze"
     type: betting
+  - id: magma_cavern
+    title: "Magma Cavern"
+    path: "Magma Cavern.brstm"
+    type: betting
+  - id: sky_tower
+    title: "Sky Tower"
+    path: "Sky Tower.brstm"
+    ends: 3:42
+    type: betting
+  - id: buried_relic
+    title: "Buried Relic"
+    path: "Buried Relic.mini2sf"
+    type: betting
+  - id: final_battle_vs_rayquaza
+    title: "Final Battle Vs. Rayquaza"
+    path: "Vs. Rayquaza.mini2sf"
+    type: battle
+  - id: happiness
+    title: "Happiness"
+    path: "Happiness.brstm"
+    type: result
+  - id: danger_theres_trouble
+    title: "Danger! There's Trouble!"
+    path: "Danger.brstm"
+    type: warning
   - id: magma_cavern_pit
     path: "Magma Cavern Pit.brstm"
     title: "Magma Cavern Pit"
+    type: warning
+  - id: world_calamity
+    title: "World Calamity"
+    path: "World Calamity.brstm"
     type: warning
   - id: rescue_team_base
     title: "Rescue Team Base"
     path: "Rescue Team Base.mini2sf"
     type: break
-  - id: buried_relic
-    title: "Buried Relic"
-    path: "Buried Relic.mini2sf"
-    type: betting
-  - id: vs_rayquaza_rbrt
-    title: "Vs. Rayquaza"
-    path: "Vs. Rayquaza.mini2sf"
-    type: battle
+  - id: kecleon_shop
+    title: "Kecleon Shop"
+    path: "Kecleon Shop.brstm"
+    type: break
 ...

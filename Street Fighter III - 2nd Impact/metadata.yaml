@@ -1,0 +1,28 @@
+---
+id: street_fighter_iii__2nd_impact
+platform: "Arcade"
+title: "Street Fighter III: 2nd Impact"
+series: streetfighter
+year: 1997
+songs: 
+  - id: player_select_sf3
+    path: "Player Select.brstm"
+    title: "Player Select"
+    type: result
+  - id: bottoms_up
+    path: "Bottoms Up.brstm"
+    title: "Bottoms Up"
+    type: betting
+  - id: sharp_eyes_piano
+    path: "Sharp Eyes (piano melo version).brstm"
+    title: "Sharp Eyes"
+    type: betting
+  - id: crowded_street_dnb
+    path: "Crowded Street (drum&bass mix).brstm"
+    title: "Crowded Street"
+    type: betting
+  - id: sao_paulo
+    path: "Sao Paulo.brstm"
+    title: "Sao Paulo"
+    type: betting
+...

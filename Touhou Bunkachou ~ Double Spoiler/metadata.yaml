@@ -1,9 +1,13 @@
+﻿---
 id: touhou_bunkachou_double_spoiler
 platform: "PC"
 title: "Touhou Bunkachou ~ Double Spoiler"
 year: 2010
+series: touhou
 songs:
   - id: bell_of_avici_infinity_nightmare
     title: "Bell of Avici ~ Infinity Nightmare"
     path: "Bell of Avici ~ Infinite Nightmare.brstm"
+    ends: 2:50
     type: betting
+...

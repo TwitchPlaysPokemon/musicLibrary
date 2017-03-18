@@ -1,59 +1,60 @@
----
+﻿---
 id: the_legend_of_zelda_majora's_mask
 title: "The Legend of Zelda: Majora's Mask"
+series: zelda
 year: 2000
 platform: "N64"
 songs:
-  - id: song_of_healing_demo
-    title: "Song Of Healing Demo"
-    path: "129 Song of Healing Demo.miniusf"
-    type: break
+  - id: clock_town_day_1
+    title: "Clock Town Day 1"
+    path: "Clock Town 1st Day.brstm"
+    type: betting
+  - id: court_of_the_deku_king
+    title: "Court of the Deku King"
+    path: "Deku Nuts' Castle.brstm"
+    type: betting
+  - id: stone_tower_temple
+    title: "Stone Tower Temple"
+    path: "Stone Tower Temple (Normal).brstm"
+    type: betting
   - id: boss_battle_majora
     title: "Boss Battle"
     path: "Boss Battle.brstm"
     type: battle
-  - id: giants_theme_majora
-    title: "Giants' Theme"
-    path: "Giants' Theme.brstm"
-    type: break
-  - id: stone_tower_temple_normal
-    title: "Stone Tower Temple (Normal)"
-    path: "Stone Tower Temple (Normal).brstm"
-    type: betting
-  - id: majora_demon_battle
-    title: "Majora's Demon Battle"
-    path: "Majora's Demon Battle.brstm"
-    type: warning
-  - id: the_end_of_the_world_majora
-    title: "The End Of The World"
-    path: "The End Of The World.brstm"
-    type: break
-  - id: jabu_curse
-    title: "Jabu's Curse"
-    path: "Jabu's Curse.brstm"
-    type: warning
-  - id: milk_bar
-    title: "Milk Bar"
+  - id: milk_bar_latte
+    title: "Milk Bar Latte"
     path: "Milk Bar.brstm"
     type: result
+  - id: mask_salesman
+    title: "Mask Salesman"
+    path: "Happy Mask Salesman's Theme.brstm"
+    type: warning
+  - id: gaeboras_theme_mm
+    title: "Gaebora's Theme"
+    path: "The Owl.brstm"
+    type: warning
   - id: goron_race
     title: "Goron Race"
     path: "Goron Race.brstm"
     type: warning
-  - id: happy_mask_salesman
-    title: "Happy Mask Salesman's Theme"
-    path: "Happy Mask Salesman's Theme.brstm"
+  - id: sharps_curse
+    title: "Sharp's Curse"
+    path: "Jabu's Curse.brstm"
     type: warning
-  - id: the_owl_majora
-    title: "The Owl"
-    path: "The Owl.brstm"
+  - id: majoras_wrath
+    title: "Majora's Wrath"
+    path: "Majora's Demon Battle.brstm"
     type: warning
-  - id: clock_town_day_1
-    title: "Clock Town 1st Day"
-    path: "Clock Town 1st Day.brstm"
-    type: betting
-  - id: deku_nuts_castle
-    title: "Deku Nuts' Castle"
-    path: "Deku Nuts' Castle.brstm"
-    type: betting
+  - id: song_of_healing
+    title: "Song of Healing"
+    path: "129 Song of Healing Demo.miniusf"
+    type: break
+  - id: the_four_giants
+    title: "The Four Giants"
+    path: "Giants' Theme.brstm"
+    type: break
+  - id: final_hours_mm
+    title: "Final Hours"
+    path: "The End Of The World.brstm"
+    type: break
 ...

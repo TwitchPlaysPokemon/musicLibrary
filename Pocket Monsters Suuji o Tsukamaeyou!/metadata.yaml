@@ -1,0 +1,48 @@
+---
+id: pocket_monsters_suuji_o_tsukamaeyou
+title: "Pocket Monsters: Suuji o Tsukamaeyou!"
+series: pokemon
+year: 2002
+platform: "Sega Pico"
+songs:
+  - id: page_1
+    title: "Page 1"
+    path: "Page 1.vgz"
+    type: result
+  - id: flying_pokemon_catching
+    title: "Flying Pokemon Catching"
+    path: "Flying Pokemon Catching.vgz"
+    type: betting
+  - id: water_pokemon_counting
+    title: "Water Pokemon Counting"
+    path: "Water Pokemon Counting.vgz"
+    type: break
+  - id: page_2
+    title: "Page 2"
+    path: "Page 2.vgz"
+    type: betting
+  - id: fainted_pokemon_healing
+    title: "Fainted Pokemon Healing"
+    path: "Fainted Pokemon Healing.vgz"
+    type: break
+  - id: page_3
+    title: "Page 3"
+    path: "Page 3.vgz"
+    type: warning
+  - id: purins_lullaby
+    title: "Purin's Lullaby"
+    path: "Purin's Lullaby.vgz"
+    type: break
+  - id: page_4
+    title: "Page 4"
+    path: "Page 4.vgz"
+    type: betting
+  - id: pokemon_gallery
+    title: "Pokémon Gallery"
+    path: "Pokemon Gallery.vgz"
+    type: betting
+  - id: title_screen_pocket_monsters_suuji_o_tsukamaeyou
+    title: "Title Screen"
+    path: "Title Screen.vgz"
+    type: betting
+...

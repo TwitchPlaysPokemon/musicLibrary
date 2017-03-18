@@ -1,5 +1,6 @@
+﻿---
 id: touhou_yumejikuu_phantasmagoria_of_dim_dream
-title: "Touhou Yumejikuu: Phantasmagoria of Dim.Dream"
+title: "Touhou Yumejikuu ~ Phantasmagoria of Dim.Dream"
 series: touhou
 year: 1997
 platform: "PC-98"
@@ -7,7 +8,6 @@ songs:
   - id: tabula_rasa_the_empty_girl
     title: "Ellen's Theme: Tabula rasa ~ The Empty Girl"
     path: "Tabula rasa ~ The Empty Girl.brstm"
-    ends: 2:22
     type: betting
   - id: strawberry_crisis
     title: "Yumemi's Theme: Strawberry Crisis!!"
@@ -17,3 +17,4 @@ songs:
     title: "Maple Dream..."
     path: "Maple Dream....brstm"
     type: result
+...

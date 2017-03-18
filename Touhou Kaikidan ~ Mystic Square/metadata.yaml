@@ -1,19 +1,21 @@
+﻿---
 id: touhou_kaikidan_mystic_square
 title: "Touhou Kaikidan ~ Mystic Square"
 year: 1998
 platform: "PC-98"
+series: touhou
 songs:
+  - id: grimoire_of_alice_kaikidan
+    title: "The Grimoire of Alice"
+    path: "the Grimoire of Alice.brstm"
+    type: betting
   - id: romantic_children
     title: "Romantic Children"
     path: "Romantic Children.brstm"
-    type: warning
+    type: result
   - id: the_last_judgement
     title: "The Last Judgement"
     path: "The Last Judgement.brstm"
-    type: warning
-  - id: alice_in_wonderland
-    title: "Alice in Wonderland"
-    path: "Alice in Wonderland.brstm"
     type: warning
   - id: spiritual_heaven
     title: "Louise's Theme: Spiritual Heaven"
@@ -23,7 +25,8 @@ songs:
     title: "Shinki's Theme: Legendary Illusion ~ Infinite Being"
     path: "Shinki's Theme - Legendary Illusion ~ Infinite Being.brstm"
     type: warning
-  - id: grimoire_of_alice_kaikidan
-    title: "The Grimoire of Alice"
-    path: "the Grimoire of Alice.brstm"
-    type: betting
+  - id: alice_in_wonderland
+    title: "Alice in Wonderland"
+    path: "Alice in Wonderland.brstm"
+    type: warning
+...

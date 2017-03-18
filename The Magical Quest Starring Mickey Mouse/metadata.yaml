@@ -1,4 +1,4 @@
----
+﻿---
 id: the_magical_quest_starring_mickey_mouse
 title: "The Magical Quest Starring Mickey Mouse"
 platform: "SNES"
@@ -13,6 +13,10 @@ songs:
     title: "Dark Forest"
     path: "Dark Forest.spc"
     type: betting
+  - id: fire_grotto_mq
+    title: "Fire Grotto"
+    path: "Fire Grotto.spc"
+    type: betting
   - id: petes_peak
     title: "Pete's Peak"
     path: "Pete's Peak.spc"
@@ -21,10 +25,6 @@ songs:
     title: "The End"
     path: "The End.spc"
     type: result
-  - id: fire_grotto_mq
-    title: "Fire Grotto"
-    path: "Fire Grotto.spc"
-    type: warning
   - id: mini_boss_mq
     title: "Mini Boss"
     path: "Mini Boss.spc"

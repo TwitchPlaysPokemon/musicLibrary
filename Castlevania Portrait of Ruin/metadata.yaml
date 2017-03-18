@@ -1,20 +1,13 @@
+﻿---
 id: castlevania_portrait_of_ruin
 title: "Castlevania: Portrait of Ruin"
 series: castlevania
 year: 2006
 platform: "NDS"
 songs:
-  - id: piercing_silence
-    title: "Piercing Silence"
-    path: "Piercing Silence.brstm"
-    type: warning
-  - id: gears_go_awry
-    title: "Gears go Awry"
-    path: "Gears Go Awry.brstm"
-    type: betting
-  - id: gaze_up_at_darkness
-    title: "Gaze Up At Darkness"
-    path: "Gaze Up At Darkness.brstm"
+  - id: name_entry_por
+    title: "Name Entry"
+    path: "Name Entry.brstm"
     type: betting
   - id: invitation_of_a_crazed_moon
     title: "Invitation of a Crazed Moon"
@@ -23,12 +16,14 @@ songs:
   - id: hail_from_the_past
     title: "Hail from the Past"
     path: "Hail from the Past.brstm"
-    ends: 2:10
     type: betting
   - id: the_hidden_curse
     title: "The Hidden Curse"
     path: "The Hidden Curse.brstm"
-    ends: 2:20
+    type: betting
+  - id: gears_go_awry_arranged
+    title: "Gears go Awry (Arranged)"
+    path: "Gears Go Awry.brstm"
     type: betting
   - id: in_search_of_the_secret_spell
     title: "In Search of the Secret Spell"
@@ -37,19 +32,17 @@ songs:
   - id: crucifix_held_close
     title: "Crucifix Held Close"
     path: "Crucifix Held Close.brstm"
-    ends: 2:20
     type: betting
   - id: iron_blue_intention
     title: "Iron Blue Intention"
     path: "Iron Blue Intention.brstm"
-    ends: 2:30
     type: betting
   - id: bloodlines_bequeathed
     title: "Bloodlines Bequeathed"
     path: "Bloodlines Bequeathed.brstm"
     type: battle
   - id: operation_vk
-    title: "Operation 'VK'"
+    title: "Operation \"VK\""
     path: "Operation 'VK'.brstm"
     type: result
   - id: the_night_flows
@@ -60,6 +53,10 @@ songs:
     title: "Victorian Fear"
     path: "Victorian Fear.brstm"
     type: warning
+  - id: piercing_silence_arranged
+    title: "Piercing Silence (Arranged)"
+    path: "Piercing Silence.brstm"
+    type: warning
   - id: destroyer_por
     title: "Destroyer"
     path: "Destroyer.brstm"
@@ -68,19 +65,20 @@ songs:
     title: "Sandfall"
     path: "Sandfall.brstm"
     type: warning
+  - id: gaze_up_at_the_darkness_arranged
+    title: "Gaze Up At Darkness (Arranged)"
+    path: "Gaze Up At Darkness.brstm"
+    type: warning
   - id: bad_situation
     title: "Bad Situation"
     path: "Bad Situation.brstm"
     type: warning
-  - id: name_entry_por
-    title: "Name Entry"
-    path: "Name Entry.brstm"
-    type: betting
   - id: a_small_prayer
     title: "A Small Prayer"
     path: "A Small Prayer.brstm"
-    type: betting
+    type: break
   - id: meeting_of_destiny
     title: "Meeting of Destiny"
     path: "Meeting of Destiny.brstm"
     type: break
+...

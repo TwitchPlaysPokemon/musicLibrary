@@ -1,153 +1,152 @@
----
+﻿---
 id: pokemon_mystery_dungeon_time_and_darkness
 title: "Pokémon Mystery Dungeon: Explorers of Time & Darkness"
 series: pokemon
 platform: "NDS"
 year: 2007
 songs:
-  - id: upper_steam_cave
-    title: "Upper Steam Cave"
-    path: "Upper Steam Cave.brstm"
-    type: warning
-  - id: job_clear
-    title: "Job Clear!"
-    path: "Job Clear!.brstm"
-    type: result
-  - id: sealed_ruin_pit
-    title: "Sealed Ruin Pit"
-    path: "Sealed Ruin Pit.brstm"
-    type: warning
-  - id: sealed_ruin
-    title: "Sealed Ruin"
-    path: "Sealed Ruin.brstm"
-    type: betting
-#      - id: a_wish_for_peace
-#        title: "A Wish For Peace"
-#        path: "A Wish For Peace.brstm"
-#        type: result
-# unfitting result song
-  - id: defy_the_legends
-    title: "Defy the Legends"
-    path: "Defy the Legends.brstm"
-    type: battle
-  - id: boss_battle_pmdetd
-    title: "Boss Battle!"
-    path: "Boss Battle!.brstm"
-    type: warning
-  - id: down_a_dark_path
-    title: "Down a Dark Path"
-    path: "Down a Dark Path.brstm"
-    type: warning
-  - id: do_your_best,_as_always
-    title: "Do Your Best, As Always!"
-    path: "Do Your Best, As Always!.brstm"
-    type: warning
-  - id: team_skull
-    title: "Team Skull"
-    path: "Team Skull.brstm"
-    type: warning
   - id: wigglytuffs_guild
     title: "Wigglytuff's Guild"
     path: "Wigglytuffs Guild.brstm"
     type: betting
-  - id: through_the_sea_of_time
-    path: "Through the Sea of Time.brstm"
-    title: "Through the Sea of Time"
-    type: betting
-  - id: the_power_of_darkness
-    path: "The Power of Darkness.brstm"
-    title: "The Power of Darkness"
-    type: warning
-  - id: temporal_tower
-    path: "Temporal Tower.brstm"
-    title: "Temporal Tower"
-    type: betting
-  - id: temporal_spire
-    path: "Temporal Spire.brstm"
-    title: "Temporal Spire"
-    type: warning
-  - id: random_dungeon_theme_3
-    path: "Random Dungeon Theme 3.brstm"
-    title: "Random Dungeon Theme 3"
-    type: betting
-  - id: planets_paralysis
-    path: "Planet's Paralysis.brstm"
-    title: "Planet's Paralysis"
-    type: warning
-  - id: northern_desert
-    path: "Northern Desert.brstm"
-    title: "Northern Desert"
-    type: betting
-  - id: fortune_ravine
-    path: "Fortune Ravine.brstm"
-    title: "Fortune Ravine"
-    type: betting
-  - id: ending_theme
-    path: "Ending Theme.brstm"
-    title: "Ending Theme"
-    type: betting
-#      - id: dont_ever_forget
-#        path: "Don't Ever Forget.brstm"
-#        title: "Don't Ever Forget"
-#        type: betting
-# unfitting
-  - id: chasm_cave
-    path: "Chasm Cave.brstm"
-    title: "Chasm Cave"
-    type: betting
-#      - id: at_the_end_of_the_day
-#        path: "At the End of the Day.brstm"
-#        title: "At the End of the Day"
-#        type: result
-# unfitting result song
-#      - id: goodnight
-#        path: "Goodnight.brstm"
-#        title: "Goodnight"
-#        type: result
-# unfitting result song
-  - id: concealed_ruins
-    path: "Concealed Ruins.brstm"
-    title: "Concealed Ruins"
-    type: betting
-#      - id: in_the_depths_of_the_pit
-#        path: "In the Depths of the Pit.brstm"
-#        title: "In the Depths of the Pit"
-#        type: result
-# unfitting result song
   - id: drenched_bluff
     path: "Drenched Bluff.brstm"
     title: "Drenched Bluff"
-    type: betting
-  - id: brine_cave
-    path: "Brine Cave.brstm"
-    title: "Brine Cave"
     type: betting
   - id: amp_plains
     path: "Amp Plains.brstm"
     title: "Amp Plains"
     type: betting
+  - id: northern_desert
+    path: "Northern Desert.brstm"
+    title: "Northern Desert"
+    type: betting
   - id: quicksand_pit
     path: "Quicksand Pit.brstm"
     title: "Quicksand Pit"
     type: betting
-  - id: outlaw_pmdetd
+  - id: chasm_cave
+    path: "Chasm Cave.brstm"
+    title: "Chasm Cave"
+    type: betting
+  - id: sealed_ruin
+    title: "Sealed Ruin"
+    path: "Sealed Ruin.brstm"
+    type: betting
+  - id: brine_cave
+    path: "Brine Cave.brstm"
+    title: "Brine Cave"
+    type: betting
+  - id: through_the_sea_of_time
+    path: "Through the Sea of Time.brstm"
+    title: "Through the Sea of Time"
+    type: betting
+  - id: temporal_tower
+    path: "Temporal Tower.brstm"
+    title: "Temporal Tower"
+    type: betting
+#  - id: dialgas_fight_to_the_finish
+#    title: "Dialga's Fight to the Finish!"
+#    path: ""  #Song currently in Explorers of Sky folder, add filename and remove comments after moving it here.
+#    type: betting
+  - id: dont_ever_forget
+    path: "Don't Ever Forget.brstm"
+    title: "Don't Ever Forget..."
+    type: betting
+  - id: do_your_best_as_always
+    title: "Do Your Best, As Always!"
+    path: "Do Your Best, As Always!.brstm"
+    type: betting
+  - id: concealed_ruins
+    path: "Concealed Ruins.brstm"
+    title: "Concealed Ruins"
+    type: betting
+  - id: random_dungeon_theme_3
+    path: "Random Dungeon Theme 3.brstm"
+    title: "Random Dungeon Theme 3"
+    type: betting
+  - id: defy_the_legends
+    title: "Defy the Legends"
+    path: "Defy the Legends.brstm"
+    type: battle
+  - id: job_clear
+    title: "Job Clear!"
+    path: "Job Clear!.brstm"
+    type: result
+  - id: ending_theme
+    path: "Ending Theme.brstm"
+    title: "Ending Theme"
+    type: result
+  - id: in_the_depths_of_the_pit
+    path: "In the Depths of the Pit.brstm"
+    title: "In the Depths of the Pit"
+    type: warning
+  - id: boss_battle_pmde
+    title: "Boss Battle!"
+    path: "Boss Battle!.brstm"
+    type: warning
+  - id: outlaw_pmde
     title: "Outlaw!"
     path: "Outlaw!.brstm"
     type: warning
-  - id: palkia's_onslaught!
-    title: "Palkia's Onslaught!"
-    path: "Palkia's Onslaught!.brstm"
+  - id: team_skull
+    title: "Team Skull"
+    path: "Team Skull.brstm"
+    type: warning
+  - id: upper_steam_cave
+    title: "Upper Steam Cave"
+    path: "Upper Steam Cave.brstm"
     type: warning
   - id: monster_house
     title: "Monster House!"
     path: "Monster House!.brstm"
     type: warning
+  - id: planets_paralysis
+    path: "Planet's Paralysis.brstm"
+    title: "Planet's Paralysis"
+    type: warning
+  - id: sealed_ruin_pit
+    title: "Sealed Ruin Pit"
+    path: "Sealed Ruin Pit.brstm"
+    type: warning
+  - id: the_power_of_darkness
+    path: "The Power of Darkness.brstm"
+    title: "The Power of Darkness"
+    type: warning
   - id: battle_against_dusknoir
     title: "Battle Against Dusknoir"
     path: "Battle Against Dusknoir.brstm"
     type: warning
+  - id: temporal_spire
+    path: "Temporal Spire.brstm"
+    title: "Temporal Spire"
+    type: warning
+  - id: down_a_dark_path
+    title: "Down a Dark Path"
+    path: "Down a Dark Path.brstm"
+    type: warning
+  - id: palkias_onslaught!
+    title: "Palkia's Onslaught!"
+    path: "Palkia's Onslaught!.brstm"
+    type: warning
+  - id: goodnight_pmde
+    path: "Goodnight.brstm"
+    title: "Goodnight"
+    type: break
+  - id: at_the_end_of_the_day
+    path: "At the End of the Day.brstm"
+    title: "At the End of the Day"
+    type: break
   - id: time_restored
     title: "Time Restored"
     path: "Time Restored.brstm"
     type: break
+  - id: a_wish_for_peace
+    title: "A Wish For Peace"
+    path: "A Wish For Peace.brstm"
+    type: break
+  - id: fortune_ravine
+    path: "Fortune Ravine.brstm"
+    title: "Fortune Ravine"
+    type: betting #NOTE: Song is in the wrong game, move to Explorers of Sky.
 ...

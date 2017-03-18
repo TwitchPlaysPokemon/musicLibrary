@@ -1,4 +1,4 @@
----
+﻿---
 id: pokemon_anniversary_crystal
 title: "Pokémon Anniversary Crystal"
 series: pokemon
@@ -6,36 +6,36 @@ platform: "GBC"
 is_fanwork: true
 year: 2016
 songs:
+  - id: annicrystal_cerulean
+    title: "Cerulean City"
+    path: "Cerulean City.brstm"
+    type: betting
+  - id: annicrystal_ssane
+    title: "S.S. Anne"
+    path: "ssanne.brstm"
+    type: betting
   - id: annicrystal_251
     title: "251"
     path: "251short.brstm"
     type: betting
-  - id: annicrystal_hooh
-    title: "Battle! Ho-Oh"
-    path: "hooh.brstm"
-    type: battle
   - id: annicrystal_luj
     title: "Battle! Lugia"
     path: "luj.brstm"
+    type: battle
+  - id: annicrystal_hooh
+    title: "Battle! Ho-Oh"
+    path: "hooh.brstm"
     type: battle
   - id: annicrystal_kantolegend
     title: "Battle! Kanto Legendary"
     path: "kantolegend.brstm"
     type: battle
-  - id: annicrystal_ssane
-    title: "S.S. Anne"
-    path: "ssanne.brstm"
-    type: betting
-  - id: annicrystal_title
-    title: "Title Screen"
-    path: "title.brstm"
-    type: result
   - id: annicrystal_elm
     title: "Battle! Professor Elm"
     path: "wcs.brstm"
     type: battle
-  - id: annicrystal_cerulean
-    title: "Cerulean City"
-    path: "Cerulean City.brstm"
-    type: betting
+  - id: annicrystal_title
+    title: "Title Screen"
+    path: "title.brstm"
+    type: result
 ...

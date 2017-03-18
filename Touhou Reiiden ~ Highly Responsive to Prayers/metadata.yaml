@@ -1,5 +1,7 @@
+﻿---
 id: touhou_reiiden_highly_responsive_to_prayers
 title: "Touhou Reiiden ~ Highly Responsive to Prayers"
+series: touhou
 year: 1995
 platform: "PC-98"
 songs:
@@ -10,4 +12,5 @@ songs:
   - id: theme_of_eastern_story
     title: "Theme of Eastern Story"
     path: "Theme of Eastern Story.brstm"
-    type: betting
+    type: result
+...

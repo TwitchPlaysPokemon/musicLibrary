@@ -1,48 +1,48 @@
----
+﻿---
 id: apollo_justice_ace_attorney
 platform: "NDS"
 title: "Apollo Justice: Ace Attorney"
 series: aceattorney
 year: 2007
 songs: 
-  - id: questioning_allegro_2007
-    path: "Questioning ~ Allegro 2007.strm"
-    title: "Questioning ~ Allegro 2007"
-    type: warning
-  - id: solitary_confinement_darkness_theme
-    path: "Solitary Confinement ~ Darkness Theme.mini2sf"
-    title: "Solitary Confinement ~ Darkness Theme"
+  - id: trucys_theme_child_of_magic
+    path: "Trucy’s Theme ~ Child of Magic.mini2sf"
+    title: "Trucy’s Theme ~ Child of Magic"
     type: betting
-  - id: lamiroir_sound_of_a_landscape_artist
-    path: "Lamiroir ~ Sound of a Landscape Artist.mini2sf"
-    title: "Lamiroir ~ Sound of a Landscape Artist"
-    type: betting
-  - id: klavier_gavin_guilty_love
-    path: "Klavier Gavin ~ Guilty Love.strm"
-    title: "Klavier Gavin ~ Guilty Love"
-    type: warning
-  - id: gramarye_troupe
-    path: "Gramarye Troupe.mini2sf"
-    title: "Gramarye Troupe"
-    type: result
-  - id: apollo_justice_a_new_trial_is_in_session
-    path: "Apollo Justice ~ A New Trial is in Session!.strm"
-    title: "Apollo Justice ~ A New Trial is in Session!"
-    type: result
-  - id: pressing_pursuit_cornered_apollo
-    path: "Pressing Pursuit ~ Cornered.brstm"
-    title: "Pressing Pursuit ~ Cornered"
-    type: battle
   - id: kitaki_family
     path: "Kitaki Family.mini2sf"
     title: "Kitaki Family"
     type: betting
+  - id: lamiroir_landscape_painter_in_sound
+    path: "Lamiroir ~ Sound of a Landscape Artist.mini2sf"
+    title: "Lamiroir ~ Landscape Painter in Sound"
+    type: betting
+  - id: solitary_confinement_darkness_theme
+    path: "Solitary Confinement ~ Darkness Theme.mini2sf"
+    title: "Solitary Confinement ~ Darkness Theme"
+    type: betting
+  - id: pressing_pursuit_overtaken
+    path: "Pressing Pursuit ~ Cornered.brstm"
+    title: "Pressing Pursuit ~ Overtaken"
+    type: battle
+  - id: apollo_justice_a_new_chapter_of_trials
+    path: "Apollo Justice ~ A New Trial is in Session!.strm"
+    title: "Apollo Justice ~ A New Chapter of Trials!"
+    type: result
+  - id: troupe_gramarye
+    path: "Gramarye Troupe.mini2sf"
+    title: "Troupe Gramarye"
+    type: result
+  - id: questioning_allegro_2007
+    path: "Questioning ~ Allegro 2007.strm"
+    title: "Questioning ~ Allegro 2007"
+    type: warning
+  - id: klavier_gavin_guilty_love
+    path: "Klavier Gavin ~ Guilty Love.strm"
+    title: "Klavier Gavin ~ Guilty Love"
+    type: warning
   - id: trance_logic
     path: "Trance Logic.mini2sf"
     title: "Trance Logic"
     type: break
-  - id: trucy_theme
-    path: "Trucy’s Theme ~ Child of Magic.mini2sf"
-    title: "Trucy’s Theme ~ Child of Magic"
-    type: betting
 ...

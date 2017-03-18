@@ -1,30 +1,30 @@
----
+﻿---
 id: touhou_hisoutensoku_unthinkable_natural_law
 platform: "PC"
 title: "Touhou Hisoutensoku ~ Unthinkable Natural Law"
 series: touhou
 year: 2009
 songs: 
-  - id: tomboyish_girl_in_love
-    path: "Tomboyish Girl in Love.brstm"
-    title: "Cirno's theme: Tomboyish Girl in Love"
-    type: warning
-  - id: the_grimoire_of_alice
-    path: "The Grimoire of Alice.brstm"
-    title: "Alice's Theme: The Grimoire of Alice"
-    type: warning
-  - id: dichromatic_lotus_butterfly_ancients
-    path: "Dichromatic Lotus Butterfly ~ Ancients.brstm"
-    title: "Reimu's Theme: Dichromatic Lotus Butterfly ~ Ancients"
-    type: warning
-  - id: faith_is_for_the_transient_people
+  - id: love_coloured_magic_unl
+    title: "Marisa's Theme: Love-Colored Magic"
+    path: "Love-Colored Magic.brstm"
+    type: betting
+  - id: faith_is_for_the_transient_people_unl
     title: "Sanae's Theme: Faith is for the Transient People"
     path: "Faith is for the Transient People.brstm"
     type: battle
-  - id: love_colored_magic
-    title: "Love-Colored Magic"
-    path: "Love-Colored Magic.brstm"
-    type: betting
+  - id: dichromatic_lotus_butterfly_ancients_unl
+    path: "Dichromatic Lotus Butterfly ~ Ancients.brstm"
+    title: "Reimu's Theme: Dichromatic Lotus Butterfly ~ Ancients"
+    type: warning
+  - id: tomboyish_girl_in_love_unl
+    path: "Tomboyish Girl in Love.brstm"
+    title: "Cirno's Theme: Tomboyish Girl in Love"
+    type: warning
+  - id: the_grimoire_of_alice_unl
+    path: "The Grimoire of Alice.brstm"
+    title: "Alice's Theme: The Grimoire of Alice"
+    type: warning
   - id: the_scenery_of_living_dolls
     title: "The Scenery of Living Dolls"
     path: "The Scenery of Living Dolls.brstm"

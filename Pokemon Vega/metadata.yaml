@@ -1,4 +1,5 @@
-﻿id: pokemon_vega
+﻿---
+id: pokemon_vega
 title: "Pokémon Vega"
 year: 2012
 series: pokemon
@@ -13,13 +14,13 @@ songs:
     title: "Wiseman's Cave"
     path: "Wiseman's Cave.minigsf"
     type: betting
-  - id: russette_city
-    title: "Russette City"
-    path: "Russette City.minigsf"
-    type: break
   - id: route_506
     title: "Route 506"
     path: "Route 506.minigsf"
+    type: betting
+  - id: route_507
+    title: "Route 507"
+    path: "Route 507.minigsf"
     type: betting
   - id: gamboge_city
     title: "Gamboge City"
@@ -61,6 +62,10 @@ songs:
     title: "Battle! Team Dark Hole"
     path: "Battle! Team Dark Hole.minigsf"
     type: battle
+  - id: battle_team_dark_hole_leader_turner
+    title: "Battle! Team Dark Hole Leader Turner"
+    path: "Battle! Team Dark Hole Leader Turner.minigsf"
+    type: battle
   - id: battle_elite_four_vega
     title: "Battle! Elite Four"
     path: "Battle! Elite Four.minigsf"
@@ -101,7 +106,7 @@ songs:
     title: "Double Board"
     path: "Double Board.minigsf"
     type: result
-  - id: battle_rowitsa
+  - id: battle_rowitsa_gatanoa
     title: "Battle! Rowitsa/Gatanoa"
     path: "Battle! Rowitsa.minigsf"
     type: result
@@ -120,10 +125,6 @@ songs:
   - id: team_dark_hole_hideout
     title: "Team Dark Hole Hideout"
     path: "Team Dark Hole Hideout.minigsf"
-    type: warning
-  - id: battle_team_dark_hole_leader_turner
-    title: "Battle! Team Dark Hole Leader Turner"
-    path: "Battle! Team Dark Hole Leader Turner.minigsf"
     type: warning
   - id: shakudo_island
     title: "Shakudo Island"
@@ -145,14 +146,14 @@ songs:
     title: "Junopsis City"
     path: "Junopsis City.minigsf"
     type: break
+  - id: russette_city
+    title: "Russette City"
+    path: "Russette City.minigsf"
+    type: break
   - id: spirit_mansion_vega
     title: "Spirit Mansion"
     path: "Spirit Mansion.minigsf"
     type: break
-  - id: route_507
-    title: "Route 507"
-    path: "Route 507.minigsf"
-    type: betting
   - id: surfing_vega
     title: "Surfing"
     path: "Surfing.minigsf"
@@ -173,3 +174,4 @@ songs:
     title: "Distant Island"
     path: "Distant Island.minigsf"
     type: break
+...

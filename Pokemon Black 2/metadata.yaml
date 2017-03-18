@@ -1,75 +1,75 @@
----
-id: pokemon_black_2
+﻿---
+id: pokemon_black_2_and_white_2
 platform: "NDS"
-title: "Pokémon Black/White 2"
+title: "Pokémon Black 2/White 2"
 series: pokemon
 year: 2012
 songs: 
-  - id: eye_7
+  - id: encounter_cyclist_b2w2
     path: "Encounter! Cyclist.mini2sf"
     title: "Encounter! Cyclist"
     type: warning
-  - id: vs_shirona
+  - id: battle_cynthia_b2w2
     path: "Battle! Cynthia.mini2sf"
     title: "Battle! Cynthia"
     type: battle
-  - id: eye_4
+  - id: encounter_ace_trainer_b2w2
     path: "Encounter! Ace Trainer.mini2sf"
     title: "Encounter! Ace Trainer"
     type: warning
-  - id: bgm_e_shirona
+  - id: encounter_cynthia_b2w2
     path: "Encounter! Cynthia.mini2sf"
     title: "Encounter! Cynthia"
     type: betting
-  - id: bgm_gym
+  - id: aspertia_city_gym
     path: "Aspertia City Gym.mini2sf"
     title: "Aspertia City Gym"
     type: betting
-  - id: bgm_winwbt
+  - id: victory_in_the_pwt
     path: "Victory in the PWT!.mini2sf"
     title: "Victory in the PWT!"
     type: result
-  - id: vs_tsuyopoke
+  - id: battle_rare_wild_pokemon_b2w2
     path: "Battle! Rare Wild Pokemon.mini2sf"
     title: "Battle! Rare Wild Pokémon"
     type: battle
-  - id: vs_gs_leader
+  - id: battle_johto_gym_leader_pwt
     path: "Battle! Johto Gym Leader (PWT).mini2sf"
     title: "Battle! Johto Gym Leader (PWT)"
     type: battle
-  - id: vs_swann
+  - id: battle_n_b2w2
     path: "Battle! N.mini2sf"
     title: "Battle! N"
     type: battle
-  - id: bgm_battlesuperior
+  - id: victory_lies_before_you
     path: "Victory Lies Before You!.mini2sf"
     title: "Victory Lies Before You!"
     type: result
-  - id: win_6
+  - id: victory_neo_plasma
     path: "Victory! Neo Plasma.mini2sf"
     title: "Victory! Neo Plasma"
     type: result
-  - id: bgm_ending
+  - id: staff_roll_b2w2
     path: "Staff Roll.mini2sf"
     title: "Staff Roll"
     type: betting
-  - id: vs_gs_champ
+  - id: battle_johto_champion_pwt
     path: "Battle! Johto Champion (PWT).mini2sf"
     title: "Battle! Johto Champion (PWT)"
     type: battle
-  - id: vs_trainer
+  - id: battle_trainer_b2w2
     path: "Battle! Trainer.mini2sf"
     title: "Battle! Trainer"
     type: battle
-  - id: vs_iris
+  - id: battle_champion_iris
     path: "Battle! Champion Iris.mini2sf"
     title: "Battle! Champion Iris"
     type: battle
-  - id: vs_wbt
+  - id: battle_pwt_finals
     path: "Battle! PWT Finals!.mini2sf"
     title: "Battle! PWT Finals!"
     type: battle
-  - id: vs_regi
+  - id: battle_regis_b2w2
     path: "VS Regi.mini2sf"
     title: "Battle! Regirock/Regice/Registeel"
     type: battle
@@ -77,251 +77,247 @@ songs:
     path: "Battle! Neo Plasma Leader Ghetsis.mini2sf"
     title: "Battle! Neo Plasma Leader Ghetsis"
     type: battle
-  - id: win_5
+  - id: victory_champion_b2w2
     path: "Victory! Champion.mini2sf"
     title: "Victory! Champion"
     type: result
-  - id: vs_gymleader
+  - id: battle_gym_leader_b2w2
     path: "Battle! Gym Leader.mini2sf"
     title: "Battle! Gym Leader"
     type: battle
-  - id: win_4
-    path: "146 SEQ_BGM_WIN4 (047f).mini2sf"
-    title: "Victory! Neo Plasma"
-    type: result
-  - id: vs_rs_leader
+  - id: battle_hoenn_gym_leader_pwt
     path: "Battle! Hoenn Gym Leader (PWT).mini2sf"
     title: "Battle! Hoenn Gym Leader (PWT)"
     type: battle
-  - id: bgm_poisone_gym
+  - id: virbank_city_gym
     path: "Virbank City Gym.mini2sf"
     title: "Virbank City Gym"
     type: betting
-  - id: bgm_r_c_sp
+  - id: route_4_spring_b2w2
     path: "Route 4 (Spring).mini2sf"
     title: "Route 4 (Spring)"
     type: betting
-  - id: bgm_r_c_su
+  - id: route_4_summer_b2w2
     path: "Route 4 (Summer).mini2sf"
     title: "Route 4 (Summer)"
     type: betting
-  - id: wbt_ground
+  - id: pwt_venue
     path: "PWT Venue.mini2sf"
     title: "PWT Venue"
     type: warning
-  - id: vs_rg_champ
+  - id: battle_kanto_champion_pwt
     path: "Battle! Kanto Champion (PWT).mini2sf"
     title: "Battle! Kanto Champion (PWT)"
     type: battle
-  - id: dark_trinity
+  - id: encounter_shadow_triad
     path: "Encounter! Shadow Triad.mini2sf"
     title: "Encounter! Shadow Triad"
     type: warning
-  - id: bgm_ground_gym
+  - id: driftveil_city_gym
     path: "Driftveil City Gym.mini2sf"
     title: "Driftveil City Gym"
     type: betting
-  - id: bgm_r_c_au
+  - id: route_4_autumn_bw2
     path: "Route 4 (Autumn).mini2sf"
     title: "Route 4 (Autumn)"
     type: betting
-  - id: vs_achroma
+  - id: battle_colress_b2w2
     path: "Battle! Colress.mini2sf"
     title: "Battle! Colress"
     type: battle
-  - id: vs_shitenno
+  - id: battle_elite_four_b2w2
     path: "Battle! Elite Four.mini2sf"
     title: "Battle! Elite Four"
     type: battle
-  - id: eye_achroma
+  - id: encounter_colress_b2w2
     path: "Encounter! Colress.mini2sf"
     title: "Encounter! Colress"
     type: warning
-  - id: vs_rs_champ
+  - id: battle_hoenn_champion_pwt
     path: "Battle! Hoenn Champion (PWT).mini2sf"
     title: "Battle! Hoenn Champion (PWT)"
     type: battle
-  - id: vs_subwaytrainer
+  - id: battle_subway_trainer_b2w2
     path: "Battle! Subway Trainer.mini2sf"
     title: "Battle! Subway Trainer"
     type: battle
-  - id: vs_wcs
+  - id: battle_world_championships_b2w2
     path: "Battle! Pokemon World Championships.mini2sf"
     title: "Battle! Pokémon World Championships"
     type: battle
-  - id: vs_bw_champ
+  - id: battle_unova_champion_pwt
     path: "Battle! Unova Champion (PWT).mini2sf"
     title: "Battle! Unova Champion (PWT)"
     type: battle
-  - id: vs_kyumaru
-    path: "Battle! Kyurem.mini2sf"
-    title: "Battle! Kyurem"
-    type: battle
-  - id: bgm_battle_subway
+  - id: battle_subway_b2w2
     path: "Battle Subway.mini2sf"
     title: "Battle Subway"
     type: betting
-  - id: vs_cynthia_bw2
+  - id: battle_sinnoh_champion_pwt
     path: "Battle! Sinnoh Champion (PWT).mini2sf"
     title: "Battle! Sinnoh Champion (PWT)"
     type: battle
-  - id: vs_kyuromu
+  - id: battle_kyuewm
     path: "251 SEQ_BGM_VS_KYUROMU (04e8).mini2sf"
-    title: "Battle! Kyurem"
+    title: "Battle! Kyurem" #Song needs to have its title changed to specify whether it plays for White or Black Kyurem.
     type: battle
-  - id: bgm_electric_gym_2
+  - id: battle_kyurem_b2w2
+    path: "Battle! Kyurem.mini2sf"
+    title: "Battle! Kyurem" #Song needs to have its title changed to specify whether it plays for White or Black Kyurem.
+    type: battle
+  - id: nimbasa_city_gym_2
     path: "Nimbasa City Gym.mini2sf"
-    title: "Nimbasa City Gym"
+    title: "Nimbasa City Gym: Stage"
     type: betting
-  - id: vs_rai
+  - id: battle_reshiram_zekrom_b2w2
     path: "Battle! Reshiram-Zekrom.mini2sf"
-    title: "Battle! Reshiram/Zekrom"
-    type: battle
-  - id: eye_13
-    path: "Encounter! Gentleman.mini2sf"
-    title: "Encounter! Gentleman"
-    type: warning
-  - id: eye_10
-    path: "Encounter! Pokefan.mini2sf"
-    title: "Encounter! Pokefan"
-    type: warning
-  - id: eye_3
-    path: "Encounter! Twins.mini2sf"
-    title: "Encounter! Twins"
-    type: warning
-  - id: eye_6
-    path: "Encounter! Parasol Lady.mini2sf"
-    title: "Encounter! Parasol Lady"
-    type: warning
-  - id: bgm_e_kanransya
-    path: "Two People on the Ferris Wheel.mini2sf"
-    title: "Two People on the Ferris Wheel"
-    type: result
-  - id: vs_trainer_wifi
-    path: "Battle! Trainer (WiFi).mini2sf"
-    title: "Battle! Trainer (WiFi)"
-    type: battle
-  - id: vs_dplegend
-    path: "Battle! Sinnoh Legendary Pokemon.mini2sf"
-    title: "Battle! Sinnoh Legendary Pokémon"
-    type: battle
-  - id: vs_rg_leader
-    path: "Battle! Kanto Gym Leader (PWT).mini2sf"
-    title: "Battle! Kanto Gym Leader (PWT)"
-    type: battle
-  - id: bgm_r_a
-    path: "Route 1.mini2sf"
-    title: "Route 1"
-    type: betting
-  - id: vs_rival
-    path: "Battle! Rival (Black-White).mini2sf"
-    title: "Battle! Rival (Black/White)"
-    type: battle
-  - id: vs_leader
-    path: "Battle! Sinnoh Gym Leader (PWT).mini2sf"
-    title: "Battle! Sinnoh Gym Leader (PWT)"
-    type: battle
-  - id: vs_alder_bw2
-    path: "Battle! Champion.mini2sf"
-    title: "Battle! Champion"
+    title: "Battle! Reshiram/Zekrom" #These three songs have the same title but different files, are they different?
     type: battle
   - id: vs_shin
     path: "135 SEQ_BGM_VS_SHIN (0474).mini2sf"
-    title: "Battle! Reshiram/Zekrom"
+    title: "Battle! Reshiram/Zekrom" #These three songs have the same title but different files, are they different?
     type: battle
-  - id: eye_12
+  - id: vs_mu
+    path: "136 SEQ_BGM_VS_MU (0475).mini2sf"
+    title: "Battle! Reshiram/Zekrom" #These three songs have the same title but different files, are they different?
+    type: battle
+  - id: encounter_gentleman_b2w2
+    path: "Encounter! Gentleman.mini2sf"
+    title: "Encounter! Gentleman"
+    type: warning
+  - id: encounter_pokefan_b2w2
+    path: "Encounter! Pokefan.mini2sf"
+    title: "Encounter! Pokéfan"
+    type: warning
+  - id: encounter_twins_b2w2
+    path: "Encounter! Twins.mini2sf"
+    title: "Encounter! Twins"
+    type: warning
+  - id: encounter_parasol_lady_b2w2
+    path: "Encounter! Parasol Lady.mini2sf"
+    title: "Encounter! Parasol Lady"
+    type: warning
+  - id: two_people_on_the_ferris_wheel
+    path: "Two People on the Ferris Wheel.mini2sf"
+    title: "Two People on the Ferris Wheel"
+    type: result
+  - id: battle_trainer_wifi
+    path: "Battle! Trainer (WiFi).mini2sf"
+    title: "Battle! Trainer (WiFi)"
+    type: battle
+  - id: battl_sinnoh_legendary_b2w2
+    path: "Battle! Sinnoh Legendary Pokemon.mini2sf"
+    title: "Battle! Sinnoh Legendary Pokémon"
+    type: battle
+  - id: battle_kanto_gym_leader_pwt
+    path: "Battle! Kanto Gym Leader (PWT).mini2sf"
+    title: "Battle! Kanto Gym Leader (PWT)"
+    type: battle
+  - id: route_1_b2w2
+    path: "Route 1.mini2sf"
+    title: "Route 1"
+    type: betting
+  - id: battle_rival_bw
+    path: "Battle! Rival (Black-White).mini2sf"
+    title: "Battle! Rival (Black/White)"
+    type: battle
+  - id: battle_sinnoh_gym_leader_pwt
+    path: "Battle! Sinnoh Gym Leader (PWT).mini2sf"
+    title: "Battle! Sinnoh Gym Leader (PWT)"
+    type: battle
+  - id: battle_champion_alder_b2w2
+    path: "Battle! Champion.mini2sf"
+    title: "Battle! Champion"
+    type: battle
+  - id: encounter_clerk_b2w2
     path: "Encounter! Clerk.mini2sf"
     title: "Encounter! Clerk"
     type: warning
-  - id: vs_neoplasma
+  - id: battle_neo_plasma
     path: "Battle! Neo Plasma.mini2sf"
     title: "Battle! Neo Plasma"
     type: battle
-  - id: bgm_insect_gym_1
+  - id: castelia_city_gym
     path: "Castelia City Gym.mini2sf"
     title: "Castelia City Gym"
     type: betting
-  - id: bgm_pokemon_league
+  - id: pokemon_league_b2w2
     path: "Pokemon League.mini2sf"
     title: "Pokémon League"
     type: betting
-  - id: vs_uma
+  - id: battle_uxie_mesprit_azelf_b2w2
     path: "Battle! Uxie-Mesprit-Azelf.mini2sf"
     title: "Battle! Uxie/Mesprit/Azelf"
     type: battle
-  - id: vs_norapoke
+  - id: battle_wild_pokemon_b2w2
     path: "Battle! Wild Pokemon.mini2sf"
     title: "Battle! Wild Pokémon"
     type: battle
-  - id: eye_neoplasma
+  - id: encounter_neo_plasma
     path: "Encounter! Neo Plasma.mini2sf"
     title: "Encounter! Neo Plasma"
     type: warning
-  - id: vs_hue
+  - id: battle_rival_hugh
     path: "Battle! Rival Hugh.mini2sf"
     title: "Battle! Rival Hugh"
     type: battle
-  - id: vs_setpoke
+  - id: battle_unova_legendary
     path: "Battle! Unova Legendary Pokemon.mini2sf"
     title: "Battle! Unova Legendary Pokémon"
     type: battle
-  - id: bgm_r_c_wi
+  - id: route_4_winter_b2w2
     path: "Route 4 (Winter).mini2sf"
     title: "Route 4 (Winter)"
     type: betting
-  - id: vs_mu
-    path: "136 SEQ_BGM_VS_MU (0475).mini2sf"
-    title: "Battle! Reshiram/Zekrom"
-    type: battle
-  - id: eye_2
+  - id: encounter_lass_b2w2
     path: "Encounter! Lass.mini2sf"
     title: "Encounter! Lass"
     type: warning
-  - id: eye_1
+  - id: encounter_youngster_b2w2
     path: "Encounter! Youngster.mini2sf"
     title: "Encounter! Youngster"
     type: warning
-  - id: route_23_bw2
+  - id: route_23_b2w2
     path: "Route 23.brstm"
     title: "Route 23"
     type: betting
-  - id: route_19_fall_bw2
+  - id: route_19_fall_b2w2
     path: "Route 19 - Fall.brstm"
     title: "Route 19 - Fall"
     type: betting
-  - id: pokestar_studios_filming_bw2
+  - id: pokestar_studios_filming_b2w2
     path: "Pokestar Studios - Filming.brstm"
     title: "Pokéstar Studios - Filming"
     type: break
-  - id: aspetia_city_bw2
+  - id: aspetia_city_b2w2
     path: "Aspertia City.brstm"
     title: "Aspertia City"
     type: break
-  - id: route_22_summer_bw2
+  - id: route_22_summer_b2w2
     path: "Route 22 - Summer.brstm"
     title: "Route 22 - Summer"
     type: betting
-  - id: floccesy_ranch_bw2
+  - id: floccesy_ranch_b2w2
     path: "Floccesy Ranch.brstm"
     title: "Floccesy Ranch"
     type: betting
-  - id: humilau_city_bw2
+  - id: humilau_city_b2w2
     path: "Humilau City.brstm"
     title: "Humilau City"
     type: betting
-  - id: virbank_city_bw2
+  - id: virbank_city_b2w2
     path: "Virbank City.brstm"
     title: "Virbank City"
-    type: break
-  - id: flocessy_town_bw2
+    type: betting
+  - id: flocessy_town_b2w2
     path: "Floccesy Town.brstm"
     title: "Floccesy Town"
     type: break
-  - id: lentimas_town_bw2
+  - id: lentimas_town_b2w2
     path: "Lentimas Town.brstm"
     title: "Lentimas Town"
     type: betting
-  - id: frozen_city_bw2
+  - id: frozen_city_b2w2
     path: "Frozen City.brstm"
     title: "Frozen City"
     type: warning
@@ -329,7 +325,7 @@ songs:
     path: "Infiltrate the Plasma Frigate!.brstm"
     title: "Infiltrate the Plasma Frigate!"
     type: betting
-  - id: join_avenue_bw2
+  - id: join_avenue_b2w2
     path: "Join Avenue.brstm"
     title: "Join Avenue"
     type: result
@@ -337,11 +333,11 @@ songs:
     path: "Plasma Frigate - Deck.brstm"
     title: "Plasma Frigate - Deck"
     type: warning
-  - id: pokestar_studios_bw2
+  - id: pokestar_studios_b2w2
     path: "Pokestar Studios.brstm"
     title: "Pokéstar Studios"
     type: result
-  - id: pwt_lobby_bw2
+  - id: pwt_lobby_b2w2
     path: "PWT - Lobby.brstm"
     title: "PWT - Lobby"
     type: betting
@@ -349,15 +345,15 @@ songs:
     path: "Reversal Mountain (White 2).brstm"
     title: "Reversal Mountain (White 2)"
     type: betting
-  - id: skyla_gym_bw2
+  - id: mistralton_city_gym
     path: "Skyla's Gym.brstm"
-    title: "Skyla's Gym (Mistralton City Gym)"
+    title: "Mistralton City Gym"
     type: betting
   - id: the_road_to_reversal_mountain
     path: "The Road to Reversal Mountain.brstm"
     title: "The Road to Reversal Mountain"
     type: betting
-  - id: title_screen_bw2
+  - id: title_screen_b2w2
     path: "Title Screen.brstm"
     title: "Title Screen"
     type: betting

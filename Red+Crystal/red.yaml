@@ -1,176 +1,176 @@
----
+﻿---
 id: pokemon_red
 platform: "GB"
 title: "Pokémon Red/Blue/Yellow"
 series: pokemon
 year: 1996
 songs: 
-  - id: "1"
+  - id: title_screen_rby
     path: "Pokemon Red_Title Screen.gbs"
     title: "Title Screen"
     type: betting
-  - id: "2"
+  - id: game_start_route_24
     path: "Pokemon Red_Game Start_Route 24.gbs"
     title: "Game Start/Route 24"
     type: betting
-  - id: "3"
+  - id: pallet_town_rby
     path: "Pokemon Red_Pallet Town.gbs"
     title: "Pallet Town"
     type: betting
-  - id: "4"
+  - id: pokemon_center_rby
     path: "Pokemon Red_Pokemon Center.gbs"
     title: "Pokémon Center"
     type: betting
-  - id: "5"
+  - id: gym_rby
     path: "Pokemon Red_Gym.gbs"
     title: "Gym"
     type: betting
-  - id: "6"
+  - id: viridian_city_rby
     path: "Pokemon Red_Viridian_Pewter_Saffron City.gbs"
     title: "Viridian/Pewter/Saffron City"
     type: betting
-  - id: "7"
+  - id: cerulean_city_rby
     path: "Pokemon Red_Cerulean_Fuchsia City.gbs"
     title: "Cerulean/Fuchsia City"
     type: betting
-  - id: "8"
+  - id: celadon_city_rby
     path: "Pokemon Red_Celadon City_Link Room.gbs"
     title: "Celadon City/Link Room"
     type: betting
-  - id: "9"
+  - id: cinnabar_island_rby
     path: "Pokemon Red_Cinnabar Island.gbs"
     title: "Cinnabar Island"
     type: betting
-  - id: "10"
+  - id: vermilion_city_rby
     path: "Pokemon Red_Vermilion City.gbs"
     title: "Vermilion City"
     type: betting
-  - id: "11"
+  - id: lavender_town_rby
     path: "Pokemon Red_Lavender Town.gbs"
     title: "Lavender Town"
     type: betting
-  - id: "12"
+  - id: ss_anne_rby
     path: "Pokemon Red_SS Anne.gbs"
     title: "S.S. Anne"
     type: betting
-  - id: "17"
+  - id: route_1_rby
     path: "Pokemon Red_Route 1.gbs"
     title: "Route 1"
     type: betting
-  - id: "18"
+  - id: route_3_rby
     path: "Pokemon Red_Route 3.gbs"
     title: "Route 3"
     type: betting
-  - id: "19"
+  - id: route_11_rby
     path: "Pokemon Red_Route 11.gbs"
     title: "Route 11"
     type: betting
-  - id: "28"
-    path: "Pokemon Red_Staff Roll.gbs"
-    title: "Staff Roll"
-    type: result
-  - id: "30"
-    path: "Pokemon Red_Prof Oak's Lab.gbs"
-    title: "Prof. Oak's Lab"
-    type: betting
-  - id: "33"
-    path: "Pokemon Red_Surfing.gbs"
-    title: "Surfing"
-    type: betting
-  - id: "35"
+  - id: team_rocket_hideout_rby
     path: "Pokemon Red_Team Rocket Hideout.gbs"
     title: "Team Rocket Hideout"
     type: betting
-  - id: "36"
+  - id: viridian_forest_rby
     path: "Pokemon Red_Viridian Forest.gbs"
     title: "Viridian Forest"
     type: betting
-  - id: "37"
+  - id: mt_moon_rby
     path: "Pokemon Red_Mt Moon.gbs"
     title: "Mt. Moon"
     type: betting
-  - id: "38"
+  - id: pokemon_mansion_rby
     path: "Pokemon Red_Pokemon Mansion.gbs"
     title: "Pokémon Mansion"
     type: betting
-  - id: "39"
+  - id: pokemon_tower_rby
     path: "Pokemon Red_Pokemon Tower.gbs"
     title: "Pokémon Tower"
     type: betting
-  - id: "40"
+  - id: silph_co_rby
     path: "Pokemon Red_Silph Co.gbs"
     title: "Silph Co."
     type: betting
-  - id: "13"
-    path: "Pokemon Red_Prof Oak's Theme.gbs"
-    title: "Prof. Oak's Theme"
-    type: warning
-  - id: "14"
-    path: "Pokemon Red_Rival's Theme.gbs"
-    title: "Rival's Theme"
-    type: warning
-  - id: "15"
-    path: "Pokemon Red_Come Along.gbs"
-    title: "Come Along"
-    type: warning
-  - id: "16"
-    path: "Pokemon Red_Evolution _ Safari Zone.gbs"
-    title: "Evolution / Safari Zone"
-    type: warning
-  - id: "20"
-    path: "Pokemon Red_Route 23_Indigo Plateau_Pokemon League.gbs"
-    title: "Route 23/Indigo Plateau/Pokémon League"
-    type: warning
-  - id: "41"
-    path: "Pokemon Red_Encounter! Bad Guy Trainer.gbs"
-    title: "Encounter! Bad Guy Trainer"
-    type: warning
-  - id: "42"
-    path: "Pokemon Red_Encounter! Female Trainer.gbs"
-    title: "Encounter! Female Trainer"
-    type: warning
-  - id: "43"
-    path: "Pokemon Red_Encounter! Male Trainer.gbs"
-    title: "Encounter! Male Trainer"
-    type: warning
-  - id: "25"
-    path: "Pokemon Red_Victory! Trainer.gbs"
-    title: "Victory! Trainer"
-    type: result
-  - id: "26"
-    path: "Pokemon Red_Victory! Wild Pokemon.gbs"
-    title: "Victory! Wild Pokémon"
-    type: result
-  - id: "27"
-    path: "Pokemon Red_Victory! Gym Leader.gbs"
-    title: "Victory! Gym Leader"
-    type: result
-  - id: "29"
-    path: "Pokemon Red_Hall of Fame.gbs"
-    title: "Hall of Fame"
-    type: result
-  - id: "32"
-    path: "Pokemon Red_Bicycle.gbs"
-    title: "Bicycle"
-    type: result
-  - id: "34"
-    path: "Pokemon Red_Game Corner_Link Trade Menu.gbs"
-    title: "Game Corner/Link Trade Menu"
-    type: result
-  - id: "21"
-    path: "Pokemon Red_Battle! Gym Leader.gbs"
-    title: "Battle! Gym Leader"
-    type: battle
-  - id: "22"
-    path: "Pokemon Red_Battle! Trainer.gbs"
-    title: "Battle! Trainer"
-    type: battle
-  - id: "23"
+  - id: battle_wild_pokemon_rby
     path: "Pokemon Red_Battle! Wild Pokemon.gbs"
     title: "Battle! Wild Pokémon"
     type: battle
-  - id: "24"
+  - id: battle_trainer_rby
+    path: "Pokemon Red_Battle! Trainer.gbs"
+    title: "Battle! Trainer"
+    type: battle
+  - id: battle_gym_leader_rby
+    path: "Pokemon Red_Battle! Gym Leader.gbs"
+    title: "Battle! Gym Leader"
+    type: battle
+  - id: battle_champion_rby
     path: "Pokemon Red_Battle! Champion.gbs"
     title: "Battle! Champion"
     type: battle
+  - id: victory_trainer_rby
+    path: "Pokemon Red_Victory! Trainer.gbs"
+    title: "Victory! Trainer"
+    type: result
+  - id: victory_wild_pokemon_rby
+    path: "Pokemon Red_Victory! Wild Pokemon.gbs"
+    title: "Victory! Wild Pokémon"
+    type: result
+  - id: victory_gym_leader_rby
+    path: "Pokemon Red_Victory! Gym Leader.gbs"
+    title: "Victory! Gym Leader"
+    type: result
+  - id: prof_oaks_lab_rby
+    path: "Pokemon Red_Prof Oak's Lab.gbs"
+    title: "Prof. Oak's Lab"
+    type: result
+  - id: surfing_rby
+    path: "Pokemon Red_Surfing.gbs"
+    title: "Surfing"
+    type: result
+  - id: bicycle_rby
+    path: "Pokemon Red_Bicycle.gbs"
+    title: "Bicycle"
+    type: result
+  - id: game_corner_rby
+    path: "Pokemon Red_Game Corner_Link Trade Menu.gbs"
+    title: "Game Corner/Link Trade Menu"
+    type: result
+  - id: hall_of_fame_rby
+    path: "Pokemon Red_Hall of Fame.gbs"
+    title: "Hall of Fame"
+    type: result
+  - id: staff_roll_rby
+    path: "Pokemon Red_Staff Roll.gbs"
+    title: "Staff Roll"
+    type: result
+  - id: prof_oaks_theme_rby
+    path: "Pokemon Red_Prof Oak's Theme.gbs"
+    title: "Prof. Oak's Theme"
+    type: warning
+  - id: rivals_theme_rby
+    path: "Pokemon Red_Rival's Theme.gbs"
+    title: "Rival's Theme"
+    type: warning
+  - id: come_along_rby
+    path: "Pokemon Red_Come Along.gbs"
+    title: "Come Along"
+    type: warning
+  - id: evolution_rby
+    path: "Pokemon Red_Evolution _ Safari Zone.gbs"
+    title: "Evolution / Safari Zone"
+    type: warning
+  - id: pokemon_league_rby
+    path: "Pokemon Red_Route 23_Indigo Plateau_Pokemon League.gbs"
+    title: "Route 23/Indigo Plateau/Pokémon League"
+    type: warning
+  - id: encounter_bad_guy_trainer_rby
+    path: "Pokemon Red_Encounter! Bad Guy Trainer.gbs"
+    title: "Encounter! Bad Guy Trainer"
+    type: warning
+  - id: encounter_female_trainer_rby
+    path: "Pokemon Red_Encounter! Female Trainer.gbs"
+    title: "Encounter! Female Trainer"
+    type: warning
+  - id: encounter_male_trainer_rby
+    path: "Pokemon Red_Encounter! Male Trainer.gbs"
+    title: "Encounter! Male Trainer"
+    type: warning
 ...

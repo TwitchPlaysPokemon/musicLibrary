@@ -1,4 +1,4 @@
----
+﻿---
 id: etrian_odyssey_iii_the_drowned_city
 platform: "NDS"
 title: "Etrian Odyssey III: The Drowned City"
@@ -13,6 +13,10 @@ songs:
     path: "Town ~ The Port City Bathed in Twilight (PC-88).brstm"
     title: "Town ~ The Port City Bathed in Twilight"
     type: betting
+  - id: cavern_of_splendor_pc88
+    path: "Labyrinth III ~ Cavern of Splendor (PC-88).brstm"
+    title: Labyrinth III ~ Cavern of Splendor (PC-88)"
+    type: betting
   - id: the_blue_sea_temple_of_ritual_pc88
     path: "Labyrinth IV ~ The Blue Sea Temple of Ritual (PC-88).brstm"
     title: "Labyrinth IV ~ The Blue Sea Temple of Ritual (PC-88)"
@@ -21,7 +25,6 @@ songs:
   - id: chalky_woods_pc88
     path: "Labyrinth V ~ Chalky Woods (PC-88).brstm"
     title: "Labyrinth V ~ Chalky Woods (PC-88)"
-    ends: 2:08
     type: betting
   - id: the_vengeful_god_in_the_dark_ocean_abyss_pc88
     path: "Labyrinth VI ~ The Vengeful God in the Dark Ocean Abyss (PC-88).brstm"
@@ -59,11 +62,11 @@ songs:
   - id: great_voyage_pc88
     path: "Sea ~ Great Voyage (PC-88).brstm"
     title: "Sea ~ Great Voyage (PC-88)"
-    type: betting
+    type: result
   - id: water_woods_of_the_submarine_ridge_pc88
     path: "Labyrinth II ~ Water Woods of the Submarine Ridge (PC-88).brstm"
     title: Labyrinth II ~ Water Woods of the Submarine Ridge (PC-88)"
-    type: betting
+    type: warning
   - id: unknown_menace_pc88
     path: "Scene ~ Unknown Menace (PC-88).brstm"
     title: "Scene ~ Unknown Menace (PC-88)"
@@ -72,10 +75,6 @@ songs:
     path: "09 Battlefield - Is that Blood Thine or the Enemy's.brstm"
     title: "Battlefield ~ Is That Blood Thine or the Enemy's (PC-88)"
     type: warning
-  - id: cavern_of_splendor_pc88
-    path: "Labyrinth III ~ Cavern of Splendor (PC-88).brstm"
-    title: Labyrinth III ~ Cavern of Splendor (PC-88)"
-    type: betting
   - id: scatter_about_pc88
     path: "22 Unrest - Scatter About.brstm"
     title: "Unrest ~ Scatter About (PC-88)"
@@ -83,7 +82,7 @@ songs:
   - id: cold_justice_pc88
     path: "Scene ~ Cold Justice (PC-88).brstm"
     title: "Scene ~ Cold Justice (PC-88)"
-    type: break
+    type: warning
   - id: thats_the_beginning_of_the_adventure_pc88
     path: "That's the Beginning of the Adventure (PC-88).brstm"
     title: "That's the Beginning of the Adventure (PC-88)"
@@ -116,3 +115,4 @@ songs:
     path: "Your Adventure Has Ended (PC-88).brstm"
     title: "Your Adventure Has Ended (PC-88)"
     type: break
+...

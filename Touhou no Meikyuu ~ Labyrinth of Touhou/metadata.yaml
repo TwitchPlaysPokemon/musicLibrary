@@ -1,4 +1,4 @@
----
+﻿---
 id: touhou_no_meikyuu__labyrinth_of_touhou
 title: "Touhou no Meikyuu ~ Labyrinth of Touhou"
 series: touhou
@@ -9,7 +9,6 @@ songs:
   - id: the_road_hewn_from_nature
     title: "The Road Hewn From Nature"
     path: "The Road Hewn From Nature.brstm"
-    ends: 2:22
     type: betting
   - id: the_passage_where_ice_fairies_lose_their_way
     title: "The Passage Where Ice Fairies Lose Their Way"
@@ -32,7 +31,6 @@ songs:
   - id: labyrinth_of_touhou
     title: "Labyrinth of Touhou"
     path: "Labyrinth of Touhou.brstm"
-    ends: 2:05
     type: betting
   - id: battle_a_rise_up_beni
     title: "Rise Up Beni (Battle A)"

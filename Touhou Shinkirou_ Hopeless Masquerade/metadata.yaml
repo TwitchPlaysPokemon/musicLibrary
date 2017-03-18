@@ -1,36 +1,36 @@
----
+﻿---
 id: touhou_shinkirou_hopeless_masquerade
 title: "Touhou Shinkirou ~ Hopeless Masquerade"
 series: touhou
 platform: "PC"
 year: 2013
 songs:
-  - id: hmmamizouthemefutatsuiwafromsado
-    title: "Mamizou's theme: Futatsuiwa From Sado"
-    path: "HMMamizouThemeFutatsuiwafromSado.brstm"
-    type: warning
-  - id: hmanunpopularlocation
+  - id: an_unpopular_location_hm
     title: "An Unpopular Location"
     path: "HMAnUnpopularLocation.brstm"
     type: betting 
-  - id: emotional_skyscraper_cosmic_mind
+  - id: magus_night_dbu #Song is under the incorrect game, move to "Touhou Sangetsusei ~ Great Fairy Wars".
+    title: "Magus Night (dBU Music)"
+    path: "magus_night_dbu.brstm"
+    type: battle
+  - id: futatsuiwa_from_sado_hm
+    title: "Mamizou's Theme: Futatsuiwa from Sado"
+    path: "HMMamizouThemeFutatsuiwafromSado.brstm"
+    type: warning
+  - id: emotional_skyscraper_cosmic_mind_hm
     path: "Emotional Skyscraper ~ Cosmic Mind.brstm"
-    title: "Byakuren's theme: Emotional Skyscraper ~ Cosmic Mind"
+    title: "Byakuren's Theme: Emotional Skyscraper ~ Cosmic Mind"
     type: warning
   - id: akutagawa_ryuunosukes_kappa_candid_friend_hm
     path: "Akutagawa Ryuunosuke's Kappa ~ Candid Friend.brstm"
-    title: "Nitori's theme: Akutagawa Ryuunosuke's Kappa ~ Candid Friend"
+    title: "Nitori's Theme: Akutagawa Ryuunosuke's Kappa ~ Candid Friend"
     type: warning
-  - id: the_lost_emotion
-    path: "The Lost Emotion.brstm"
-    title: "Kokoro's theme: The Lost Emotion"
-    type: warning
-  - id: hartmanns_youkai_girl
-    title: "Hartmann's Youkai Girl"
+  - id: hartmanns_youkai_girl_hm
+    title: "Koishi's Theme: Hartmann's Youkai Girl"
     path: "Hartmann's Youkai Girl.brstm"
     type: warning
-  - id: magus_night_dbu
-    title: "Magus Night ~ dBU Mix"
-    path: "magus_night_dbu.brstm"
-    type: battle
+  - id: the_lost_emotion_hm
+    path: "The Lost Emotion.brstm"
+    title: "Kokoro's Theme: The Lost Emotion"
+    type: warning
 ...

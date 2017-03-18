@@ -1,40 +1,31 @@
+﻿---
 id: touhou_shinreibyou_ten_desires
 title: "Touhou Shinreibyou ~ Ten Desires"
 series: touhou
 platform: "PC"
 year: 2011
 songs:
+  - id: night_sakura_of_dead_spirits
+    title: "Night Sakura of Dead Spirits"
+    path: "Night Sakura of Dead Spirits.brstm"
+    type: betting
+  - id: lets_live_in_a_lovely_cemetery
+    title: "Let's Live in a Lovely Cemetery"
+    path: "Let's Live in a Lovely Cemetery.brstm"
+    type: betting
   - id: desire_drive
     title: "Desire Drive"
     path: "Desire Drive.brstm"
     ends: 2:35
     type: betting
-  - id: legend_of_the_great_gods
-    title: "Legend of the Great Gods"
-    path: "Legend of the Great Gods.brstm"
-    type: warning
-  - id: lets_live_in_a_lovely_cemetery
-    title: "Let's Live in a Lovely Cemetery"
-    path: "Let's Live in a Lovely Cemetery.brstm"
-    ends: 2:04
-    type: betting
-  - id: night_sakura_of_dead_spirits_ten_desires
-    title: "Night Sakura of Dead Spirits"
-    path: "Night Sakura of Dead Spirits.brstm"
-    type: betting
-  - id: ghost_lead_ten_desires
-    title: "Ghost Lead"
-    path: "Ghost Lead.brstm"
-    type: warning
-  - id: old_distant_hermit_gu_yuan_xian
-    title: "Old Distant Hermit (Gu Yuan Xian)"
-    path: "Old Distant Hermit (Gu Yuan Xian).brstm"
-    type: battle
   - id: a_small_desires_starry_sky
     title: "A Small Desire's Starry Sky"
     path: "A Small Desire's Starry Sky.brstm"
-    ends: 2:06
     type: betting
+  - id: seigas_theme_old_yuanxian
+    title: "Seiga's Theme: Old Yuanxian"
+    path: "Old Distant Hermit (Gu Yuan Xian).brstm"
+    type: battle
   - id: shoutoku_legend_true_administrator_ten_desires
     title: "Miko's Theme: Shoutoku Legend ~ True Administrator"
     path: "Miko's Theme - Shoutoku Legend ~ True Administrator.brstm"
@@ -42,4 +33,13 @@ songs:
   - id: futatsuiwa_from_sado_td
     title: "Mamizou's Theme: Futatsuiwa from Sado"
     path: "Mamizou's Theme - Futatsuiwa from Sado.brstm"
+    type: battle
+  - id: yuyukos_theme_ghost_lead
+    title: "Yuyuko's Theme: Ghost Lead"
+    path: "Ghost Lead.brstm"
     type: warning
+  - id: futos_theme_legend_of_the_great_gods
+    title: "Futo's Theme: Legend of the Great Gods"
+    path: "Legend of the Great Gods.brstm"
+    type: warning
+...

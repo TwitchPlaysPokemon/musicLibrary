@@ -1,27 +1,19 @@
----
+﻿---
 id: touhou_chireiden_subterranean_animism
 platform: "PC"
 title: "Touhou Chireiden ~ Subterranean Animism"
 series: touhou
 year: 2008
 songs: 
-  - id: solar_sect_of_mystic_widom
-    path: "Solar Sect of Mystic Wisdom ~ Nuclear Fusion.brstm"
-    title: "Utsuho's theme: Solar Sect of Mystic Wisdom ~ Nuclear Fusion"
-    type: battle
-  - id: hartmann_youkai_girl
-    path: "Hartmann Youkai Girl.brstm"
-    title: "(Remix) Koishi's theme: Hartmann's Youkai Girl"
-    type: battle
-  - id: last_remote
-    path: "Last Remote.brstm"
-    title: "Last Remote"
-    type: battle
   - id: lullaby_of_deserted_hell
     title: "Lullaby of Deserted Hell"
     path: "Lullaby of Deserted Hell.brstm"
     ends: 3:00
     type: betting
+  - id: hartmanns_youkai_girl
+    path: "Hartmann Youkai Girl.brstm"
+    title: "Hartmann's Youkai Girl (Remix)"
+    type: battle
   - id: the_sealed_away_youkai_lost_place
     path: "Yamame's Theme - The Sealed-Away Youkai ~ Lost Place.brstm"
     title: "Yamame's Theme: The Sealed-Away Youkai ~ Lost Place"
@@ -33,5 +25,13 @@ songs:
   - id: satori_maiden_3rd_eye
     title: "Satori's Theme: Satori Maiden ~ 3rd Eye"
     path: "Satori's Theme - Satori Maiden ~ 3rd Eye.brstm"
-    type: betting
+    type: warning
+  - id: solar_sect_of_mystic_wisdom_nuclear_fusion
+    path: "Solar Sect of Mystic Wisdom ~ Nuclear Fusion.brstm"
+    title: "Utsuho's Theme: Solar Sect of Mystic Wisdom ~ Nuclear Fusion"
+    type: warning
+  - id: last_remote
+    path: "Last Remote.brstm"
+    title: "Last Remote"
+    type: warning
 ...
