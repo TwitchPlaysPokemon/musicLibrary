@@ -1,0 +1,28 @@
+---
+id: the_legend_of_zelda_oracle_of_ages_seasons
+title: "The Legend of Zelda Oracle of Ages & Seasons"
+series: zelda
+year: 2001
+platform: "GBC"
+songs:
+  - id: final_battle_against_onox
+    title: "Final Battle Against Onox"
+    path: "Final Battle Against Onox.brstm"
+    type: warning
+  - id: dancing_dragon_dungeon
+    title: "Dancing Dragon Dungeon"
+    path: "Dancing Dragon Dungeon.brstm"
+    type: betting
+  - id: final_battle_with_ganon
+    title: "Final Battle with Ganon"
+    path: "Final Battle with Ganon.brstm"
+    type: warning
+  - id: room_of_rites
+    title: "Room of Rites"
+    path: "Room of Rites.brstm"
+    type: warning
+  - id: moonlit_grotto
+    title: "Moonlit Grotto"
+    path: "Moonlit Grotto.brstm"
+    type: betting
+...

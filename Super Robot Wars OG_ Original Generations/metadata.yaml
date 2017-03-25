@@ -1,0 +1,164 @@
+---
+id: super_robot_wars_og_original_generations
+title: "Super Robot Wars OG: Original Generations"
+series: superrobotwars
+year: 2007
+platform: "PS2"
+songs:
+  - id: ace_attacker_srwog
+    title: "Ace Attacker"
+    path: "Ace Attacker.brstm"
+    type: betting
+  - id: an_even_fight_srwog
+    title: "An Even Fight"
+    path: "An Even Fight.brstm"
+    type: betting
+  - id: an_interlude_to_fierce_fighting_srwog
+    title: "An Interlude to Fierce Fighting"
+    path: "An Interlude to Fierce Fighting.brstm"
+    type: betting
+  - id: betting_on_tough_odds_srwog
+    title: "Betting on Tough Odds"
+    path: "Betting on Tough Odds.brstm"
+    type: betting
+  - id: heaven_sailing_dragon_srwog
+    title: "Heaven-Sailing Dragon"
+    path: "Heaven-Sailing Dragon.brstm"
+    type: betting
+  - id: o_war_hero_rise_again_srwog
+    title: "O War Hero, Rise Again"
+    path: "O War Hero, Rise Again.brstm"
+    type: betting
+  - id: shooting_star_cut_through_the_night_srwog
+    title: "Shooting Star, Cut Through the Night"
+    path: "Shooting Star, Cut Through the Night.brstm"
+    type: betting
+  - id: super_robot_symphony_srwog
+    title: "Super Robot Symphony"
+    path: "Super Robot Symphony.brstm"
+    type: betting
+  - id: time_diver_srwog
+    title: "Time Diver"
+    path: "Time Diver.brstm"
+    type: battle    
+  - id: armageddon_srwog
+    title: "Armageddon"
+    path: "Armageddon.brstm"
+    type: warning
+  - id: boosted_crisis_srwog
+    title: "Boosted Crisis"
+    path: "Boosted Crisis.brstm"
+    type: warning
+  - id: shuddering_melody_srwog
+    title: "Shuddering Melody"
+    path: "Shuddering Melody.brstm"
+    type: warning
+  - id: the_dreadful_visitor_srwog
+    title: "The Dreadful Visitor"
+    path: "The Dreadful Visitor.brstm"
+    type: warning
+  - id: the_land_of_beginnings_srwog
+    title: "The Land of Beginnings"
+    path: "The Land of Beginnings.brstm"
+    type: warning
+  - id: just_give_it_up_he_said_srwog
+    title: "'Just Give It Up', He Said"
+    path: "'Just Give It Up', He Said.brstm"
+    type: battle
+  - id: ace_attacker_ver_w_srwog
+    title: "Ace Attacker (Ver. W)"
+    path: "Ace Attacker (Ver W).brstm"
+    type: battle
+  - id: ash_to_ash_srwog
+    title: "Ash to Ash"
+    path: "Ash to Ash.brstm"
+    type: battle
+  - id: born_to_fight_srwog
+    title: "Born to Fight"
+    path: "Born to Fight.brstm"
+    type: battle
+  - id: chaos_srwog
+    title: "Chaos"
+    path: "Chaos.brstm"
+    type: battle
+  - id: dark_knight_srwog
+    title: "Dark Knight"
+    path: "Dark Knight.brstm"
+    type: battle
+  - id: dark_prison_srwog
+    title: "Dark Prison"
+    path: "Dark Prison.brstm"
+    type: battle
+  - id: hero_chronicle_srwog
+    title: "Hero Chronicle"
+    path: "Hero Chronicle (higher quality).brstm"
+    type: battle
+  - id: marionette_messiah_srwog
+    title: "Marionette Messiah"
+    path: "Marionette Messiah.brstm"
+    type: battle
+  - id: messenger_from_the_void_srwog
+    title: "Messenger from the Void"
+    path: "Messenger from the Void.brstm"
+    type: battle
+  - id: none_can_oppose_me_srwog
+    title: "None Can Oppose Me"
+    path: "None Can Oppose Me.brstm"
+    type: betting
+  - id: rushing_dandy_srwog
+    title: "Rushing Dandy"
+    path: "Rushing Dandy.brstm"
+    type: battle
+  - id: silver_fallen_angel_srwog
+    title: "Silver Fallen Angel"
+    path: "Silver Fallen Angel.brstm"
+    type: battle
+  - id: steel_beowulf_srwog
+    title: "Steel Beowulf"
+    path: "Steel Beowulf.brstm"
+    type: battle
+  - id: the_arrow_of_destiny_srwog
+    title: "The Arrow of Destiny"
+    path: "The Arrow of Destiny.brstm"
+    type: battle
+  - id: the_gate_of_magus_srwog
+    title: "The Gate of Magus"
+    path: "The Gate of Magus.brstm"
+    type: battle
+  - id: the_steel_messiah_ver_og_srwog
+    title: "The Steel Messiah (Ver. OG)"
+    path: "The Steel Messiah (Ver OG).brstm"
+    type: battle
+  - id: the_sword_that_cleaves_evil_srwog
+    title: "The Sword That Cleaves Evil"
+    path: "The Sword That Cleaves Evil (higher quality).brstm"
+    type: battle
+  - id: trombe_srwog
+    title: "Trombe!"
+    path: "Trombe!.brstm"
+    type: battle
+  - id: woman_the_cool_spy_srwog
+    title: "Woman the Cool Spy"
+    path: "Woman the Cool Spy.brstm"
+    type: betting
+  - id: cybuster_god_of_wind_srwog
+    title: "Cybuster, God of Wind"
+    path: "Cybuster, God of Wind.brstm"
+    type: battle
+  - id: the_super_robot_wars_srwog
+    title: "The Super Robot Wars"
+    path: "The Super Robot Wars.brstm"
+    type: betting
+  - id: calm_and_disturbance_srwog
+    title: "Calm and Disturbance"
+    path: "Calm and Disturbance.brstm"
+    type: betting
+  - id: combat_intermission_srwog
+    title: "Combat Intermission"
+    path: "Combat Intermission.brstm"
+    type: betting
+  - id: devil_plot_srwog
+    title: "Devil Plot"
+    path: "Devil Plot.brstm"
+    type: betting
+...

@@ -12,4 +12,44 @@ songs:
     title: "Omega Squad Teemo Theme"
     path: "Omega_Squad_Teemo.brstm"
     type: warning
+  - id: bit_rush
+    title: "Bit Rush"
+    path: "Bit Rush.brstm"
+    type: betting
+  - id: bit_rush_arcade_ahri
+    title: "Bit Rush: Arcade Ahri"
+    path: "Bit Rush- Arcade Ahri.brstm"
+    type: betting
+  - id: challengers_league_of_legends
+    title: "Challengers"
+    path: "Challengers.brstm"
+    type: betting
+  - id: dragonslayer_xin_zhao
+    title: "Dragonslayer Xin Zhao"
+    path: "Dragonslayer Xin Zhao.brstm"
+    type: warning
+  - id: welcome_to_planet_urf
+    title: "Welcome to Planet Urf"
+    path: "Welcome to Planet Urf.brstm"
+    type: betting
+  - id: mecha_zero_sion
+    title: "Mecha Zero Sion"
+    path: "Mecha Zero Sion.brstm"
+    type: warning
+  - id: butchers_bridge_early_game
+    title: "Butcher's Bridge (Early Game)"
+    path: "Butcher's Bridge (Early Game).brstm"
+    type: break
+  - id: welcome_to_the_league_of_draven
+    title: "Welcome to the League of Draven"
+    path: "Welcome to the League of Draven.brstm"
+    type: battle
+  - id: legends_of_the_field
+    title: "Legends of the Field"
+    path: "Legends of the Field.brstm"
+    type: result
+  - id: taliyah_the_stoneweaver
+    title: "Taliyah, the Stoneweaver"
+    path: "Taliyah, the Stoneweaver.brstm"
+    type: betting
 ...

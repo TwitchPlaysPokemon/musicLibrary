@@ -105,4 +105,20 @@ songs:
     title: "Free Battle"
     path: "Free Battle.brstm"
     type: battle
+  - id: credits_round_1_pokestadium1
+    title: "Credits (Round 1)"
+    path: "Credits (Round 1).brstm"
+    type: betting
+  - id: credits_round_2_pokestadium1
+    title: "Credits (Round 2)"
+    path: "Credits (Round 2).brstm"
+    type: betting
+  - id: prime_cup_battles_1_3_pokestadium1
+    title: "Prime Cup Battles 1-3"
+    path: "Prime Cup Battles 1-3.brstm"
+    type: battle
+  - id: thundering_dynamo_pokestadium1
+    title: "Thundering Dynamo"
+    path: "Thundering Dynamo.brstm"
+    type: warning
 ...

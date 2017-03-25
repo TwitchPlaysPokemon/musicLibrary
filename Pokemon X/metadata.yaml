@@ -112,7 +112,7 @@ songs:
   - id: friends_theme_friends_forever
     path: "Friends Theme - Friends Forever.brstm"
     title: "Friends Theme - Friends Forever"
-    type: betting
+    type: break
   - id: friends_theme_reunited
     path: "Friends Theme - Reunited.brstm"
     title: "Friends Theme - Reunited"
@@ -402,8 +402,8 @@ songs:
     title: "Battle! Mewtwo"
     path: "Battle! Mewtwo.brstm"
     type: battle
-  - id: az
-    title: "AZ"
+  - id: a_terrible_past_az
+    title: "A Terrible Past"
     path: "AZ.brstm"
     type: break
   - id: riding_skiddo

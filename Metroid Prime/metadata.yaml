@@ -6,24 +6,24 @@ series: metroid
 year: 2002
 songs: 
   - id: underwater_frigate_reactor_core
-    path: "Underwater Frigate Reactor Core.brstm"
     title: "Underwater Frigate Reactor Core"
+    path: "Underwater Frigate Reactor Core.brstm"
     type: betting
   - id: metroid_prime_essence_battle
-    path: "Metroid Prime Essence Battle.brstm"
     title: "Metroid Prime Essence Battle"
+    path: "Metroid Prime Essence Battle.brstm"
     type: battle
   - id: chozo_artifact_temple
-    path: "Chozo Artifact Temple.brstm"
     title: "Chozo Artifact Temple"
+    path: "Chozo Artifact Temple.brstm"
     type: warning
   - id: chozo_ruins
-    path: "Chozo Ruins.brstm"
     title: "Chozo Ruins"
+    path: "Chozo Ruins.brstm"
     type: break
   - id: phendrana_drifts_depths
-    path: "Phendrana Drifts Depths.brstm"
     title: "Phendrana Drifts Depths"
+    path: "Phendrana Drifts Depths.brstm"
     type: betting
   - id: thardus_battle
     title: "Thardus Battle"
@@ -45,4 +45,8 @@ songs:
     title: "Tallon Overworld Depths"
     path: "Tallon Overworld Depths.brstm"
     type: betting
+  - id: vs_parasite_queen
+    title: "Vs. Parasite Queen"
+    path: "Vs Parasite Queen.brstm"
+    type: warning
 ...

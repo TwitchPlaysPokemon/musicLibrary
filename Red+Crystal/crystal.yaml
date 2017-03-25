@@ -1,4 +1,4 @@
-﻿---
+---
 id: pokemon_crystal
 platform: "GBC"
 title: "Pokémon Gold/Silver/Crystal"
@@ -9,9 +9,9 @@ songs:
     path: "Pokemon Crystal_Title Screen.gbs"
     title: "Title Screen"
     type: result
-  - id: kanto_route_29_gsc
+  - id: kanto_route_1_gsc
     path: "Pokemon Crystal_Kanto Route 29.gbs"
-    title: "Kanto Route 29"
+    title: "Kanto Route 1"
     type: betting
   - id: johto_route_29_gsc
     path: "Pokemon Crystal_Johto Route 29.gbs"

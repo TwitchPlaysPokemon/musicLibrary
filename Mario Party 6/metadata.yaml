@@ -97,4 +97,8 @@ songs:
     title: "Time to Duel"
     path: "Time to Duel.brstm"
     type: warning
+  - id: partys_over
+    title: "Party's Over"
+    path: "Party's Over.brstm"
+    type: result
 ...

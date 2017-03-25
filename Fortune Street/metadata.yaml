@@ -5,35 +5,71 @@ title: "Fortune Street"
 year: 2011
 songs: 
   - id: main_menu_fstreet
-    path: "Main Menu.brstm"
     title: "Main Menu"
+    path: "Main Menu.brstm"
     type: betting
-  - id: final_boss_super_mario_world
-    path: "Final Boss (Super Mario World).brstm"
+  - id: final_boss_super_mario_world_fstreet
     title: "Final Boss (Super Mario World)"
+    path: "Final Boss (Super Mario World).brstm"
     type: battle
-  - id: chance_card
-    path: "Chance Card.brstm"
+  - id: chance_card_fstreet
     title: "Chance Card"
+    path: "Chance Card.brstm"
     type: betting
-  - id: slot_machine_mario_series
-    path: "Slot Machine - Mario Series.brstm"
+  - id: slot_machine_mario_series_fstreet
     title: "Slot Machine - Mario Series"
+    path: "Slot Machine - Mario Series.brstm"
     type: betting
-  - id: world_1_1
-    path: "World 1-1 (Super Mario Bros.).brstm"
+  - id: world_1_1_fstreet
     title: "World 1-1 (Super Mario Bros.)"
+    path: "World 1-1 (Super Mario Bros.).brstm"
     type: betting
   - id: delfino_plaza_fstreet
-    path: "Delfino Plaza.brstm"
     title: "Delfino Plaza"
+    path: "Delfino Plaza.brstm"
     type: betting
-  - id: mario_circuit
-    path: "Mario Circuit.brstm"
+  - id: mario_circuit_fstreet
     title: "Mario Circuit"
+    path: "Mario Circuit.brstm"
     type: betting
-  - id: victory_mario_series
+  - id: victory_mario_series_fstreet
     title: "Victory - Mario Series"
     path: "Victory - Mario Series.brstm"
     type: betting
+  - id: alefgard_fstreet
+    title: "Alefgard"
+    path: "Alefgard.brstm"
+    type: break
+  - id: castle_trodain_fstreet
+    title: "Castle Trodain"
+    path: "Castle Trodain.brstm"
+    type: betting
+  - id: death_volcano_fstreet
+    title: "Death Volcano"
+    path: "Death Volcano.brstm"
+    type: betting
+  - id: good_egg_galaxy_fstreet
+    title: "Good Egg Galaxy"
+    path: "Good Egg Galaxy.brstm"
+    type: betting
+  - id: mario_sluggers_stadium_fstreet
+    title: "Mario Sluggers Stadium"
+    path: "Mario Sluggers Stadium.brstm"
+    type: betting
+  - id: battle_dragon_quest_iv_fstreet
+    title: "Battle (Dragon Quest IV)"
+    path: "Battle (Dragon Quest IV).brstm"
+    type: warning
+  - id: order_select_fstreet
+    title: "Order Select"
+    path: "Order Select.brstm"
+    type: warning
+  - id: stocks_fstreet
+    title: "Stocks"
+    path: "Stocks.brstm"
+    type: warning
+  - id: title_screen_fstreet
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
 ...

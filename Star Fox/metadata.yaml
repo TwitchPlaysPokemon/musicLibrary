@@ -5,18 +5,18 @@ series: starfox
 year: 1993
 platform: "SNES"
 songs:
-#      - id: corneria
-#        title: "Corneria"
-#        path: "109 Corneria.spc"
-#        type: battle #Same song with better soundfont in smash bros.
+  - id: corneria
+    title: "Corneria"
+    path: "109 Corneria.spc"
+    type: betting
   - id: opening_sfsnes
     title: "Opening Sequence"
     path: "104 Title Demonstration.spc"
     type: warning
-#      - id: titania
-#        title: "Titania"
-#        path: "111 Titania.spc"
-#        type: betting #WutFace
+  - id: titania
+    title: "Titania"
+    path: "111 Titania.spc"
+    type: betting
 #      - id: Astroid
 #        title: "Asteroid"
 #        path: "114 Asteroid & Venom Orbital.spc"

@@ -1,0 +1,31 @@
+---
+id: project_altered_beast
+title: "Project Altered Beast"
+year: 2005
+platform: "PS2"
+songs:
+  - id: theme_of_werewolf
+    title: "Theme of Werewolf"
+    path: "Theme of Werewolf.brstm"
+    type: warning
+  - id: theme_of_weretiger
+    title: "Theme of Weretiger"
+    path: "Theme of Weretiger.brstm"
+    type: battle
+  - id: theme_of_wendigo
+    title: "Theme of Wendigo"
+    path: "Theme of Wendigo.brstm"
+    type: betting
+  - id: theme_of_grizzly
+    title: "Theme of Grizzly"
+    path: "Theme of Grizzly.brstm"
+    type: betting
+  - id: final_boss_anatasia
+    title: "Final Boss - Anatasia"
+    path: "Final Boss - Anatasia.brstm"
+    type: battle
+  - id: boss_theme_project_altered_beast
+    title: "Boss Theme"
+    path: "Boss Theme.brstm"
+    type: warning
+...

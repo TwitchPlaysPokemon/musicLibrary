@@ -10,7 +10,27 @@ songs:
     path: "Boss - Marth.brstm"
     type: battle
   - id: road_taken_roar
-    title: Road Taken (Roar)
+    title: "Road Taken (Roar)"
     path: "Road Taken (Roar).brstm"
     type: battle
+  - id: dusk_falls
+    title: "Dusk Falls"
+    path: "Dusk Falls.brstm"
+    type: betting
+  - id: no_justice
+    title: "No Justice"
+    path: "No Justice.brstm"
+    type: betting
+  - id: resolve_dark
+    title: "Resolve (Dark)"
+    path: "Resolve (Dark).brstm"
+    type: betting
+  - id: resolve_light
+    title: "Resolve (Light)"
+    path: "Resolve (Light).brstm"
+    type: betting
+  - id: vanity_judge
+    title: "Vanity Judge"
+    path: "Vanity Judge.brstm"
+    type: betting
 ...

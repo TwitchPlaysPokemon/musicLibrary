@@ -3,7 +3,23 @@ title: "Rhythm Heaven Megamix"
 platform: "3DS"
 year: 2015
 songs:
-  - id: final_remix
+  - id: final_remix_rhythm_heaven_megamix
     title: "Final Remix"
     path: "final_remix.brstm"
+    type: betting
+  - id: heaven_world_rhythm_heaven_megamix
+    title: "Heaven World"
+    path: "Heaven World.brstm"
+    type: betting
+  - id: earth_world_rhythm_heaven_megamix
+    title: "Earth World"
+    path: "Earth World.brstm"
+    type: betting
+  - id: tower_rhythm_heaven_megamix
+    title: "Tower"
+    path: "Tower.brstm"
+    type: betting
+  - id: museum_rhythm_heaven_megamix
+    title: "Museum"
+    path: "Museum.brstm"
     type: betting

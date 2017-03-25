@@ -6,20 +6,20 @@ series: shinmegamitensei
 year: 2014
 songs: 
   - id: battle_in_the_clock_tower
+    title: "Battle in the Clock Tower"  
     path: "Battle in the Clock Tower.brstm"
-    title: "Battle in the Clock Tower"
     type: battle
   - id: a_strange_turn_in_events
-    path: "A Strange Turn in Events.brstm"
     title: "A Strange Turn in Events"
+    path: "A Strange Turn in Events.brstm"
     type: betting
   - id: confrontation_with_the_past
-    path: "Confrontation With The Past.brstm"
     title: "Confrontation With The Past"
+    path: "Confrontation With The Past.brstm"
     type: battle
   - id: corndog
-    path: "Corndog.brstm"
     title: "Corndog"
+    path: "Corndog.brstm"
     type: result
   - id: inaba_regional_exhibition
     title: "Inaba Regional Exhibition"
@@ -29,4 +29,12 @@ songs:
     title: "Strange School"
     path: "Strange School.brstm"
     type: betting
+  - id: memories_of_the_school_in_the_labyrinth
+    title: "Memories of the School -in the labyrinth-"
+    path: "Memories of the School -in the labyrinth-.brstm"
+    type: break
+  - id: f_o_e
+    title: "F. O. E"
+    path: "F O E.brstm"
+    type: battle
 ...

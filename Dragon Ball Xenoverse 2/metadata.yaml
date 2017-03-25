@@ -1,0 +1,20 @@
+---
+id: dragon_ball_xenoverse_2
+title: "Dragon Ball Xenoverse 2"
+series: dragonball
+year: 2016
+platform: "Various"
+songs:
+  - id: metal_cooler_theme_namek_stage
+    title: "Metal Cooler Theme / Namek Stage"
+    path: "Metal Cooler ThemeNamek Stage.brstm"
+    type: battle
+  - id: hell_cell_games_arena_stage
+    title: "Hell / Cell Games Arena Stage"
+    path: "HellCell Games Arena.brstm"
+    type: warning
+  - id: character_creation_dragon_ball_xenoverse_2
+    title: "Character Creation"
+    path: "Character Creation.brstm"
+    type: betting
+...

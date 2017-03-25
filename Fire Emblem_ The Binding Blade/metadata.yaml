@@ -1,0 +1,20 @@
+---
+id: fire_emblem_the_binding_blade
+title: "Fire Emblem: The Binding Blade"
+series: fireemblem
+year: 2002
+platform: "GBA"
+songs:
+  - id: the_king_of_bern
+    title: "The King of Bern"
+    path: "41 The King of Bern.minigsf"
+    type: warning
+  - id: in_the_name_of_bern
+    title: "In the Name of Bern"
+    path: "23 In the Name of Bern.minigsf"
+    type: warning
+  - id: beyond_the_distant_skies_roys_journey
+    title: "Beyond the Distant Skies - Roy's Journey"
+    path: "10 Beyond the Sky (Roy's Journey).minigsf"
+    type: betting
+...

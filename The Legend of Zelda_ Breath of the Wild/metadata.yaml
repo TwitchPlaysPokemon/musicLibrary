@@ -1,0 +1,28 @@
+---
+id: the_legend_of_zelda_breath_of_the_wild
+title: "The Legend of Zelda: Breath of the Wild"
+series: zelda
+year: 2017
+platform: ["Switch", "Wii U"]
+songs:
+  - id: akkala_ancient_tech_lab
+    title: "Akkala Ancient Tech Lab"
+    path: "Akkala Ancient Tech Lab.brstm"
+    type: betting
+  - id: great_fairy_fountain_botw
+    title: "Great Fairy Fountain"
+    path: "Great Fairy Fountain.brstm"
+    type: break
+  - id: shrine_guardian
+    title: "Shrine Guardian"
+    path: "Battle - Shrine Guardian.brstm"
+    type: warning
+  - id: vast_world
+    title: "Vast World"
+    path: "Vast World.brstm"
+    type: break
+  - id: taloh_naegs_teaching_shield_parry
+    title: "Ta'loh Naeg's Teaching (Shield Parry)"
+    path: "Ta'loh Naeg's Teaching (Shield Parry).brstm"
+    type: warning
+...

@@ -263,4 +263,16 @@ songs:
     title: "Main Theme"
     path: "Super Smash Bros Brawl Main Theme.brstm"
     type: betting
+  - id: humoresque_of_a_little_dog
+    title: "Humoresque of a Little Dog"
+    path: "Humoresque of a Little Dog.brstm"
+    type: betting
+  - id: obstacle_course_spring_summer
+    title: "Obstacle Course (Spring / Summer)"
+    path: "Obstacle Course (Spring  Summer).brstm"
+    type: betting
+  - id: cruel_brawl
+    title: "Cruel Brawl"
+    path: "Cruel Brawl.brstm"
+    type: warning
 ...
