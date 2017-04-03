@@ -14,7 +14,7 @@ songs:
     path: "Great Fairy Fountain.brstm"
     type: break
   - id: shrine_guardian
-    title: "Shrine Guardian"
+    title: "Battle - Shrine Guardian"
     path: "Battle - Shrine Guardian.brstm"
     type: warning
   - id: vast_world
@@ -25,4 +25,12 @@ songs:
     title: "Ta'loh Naeg's Teaching (Shield Parry)"
     path: "Ta'loh Naeg's Teaching (Shield Parry).brstm"
     type: warning
+  - id: hinox_battle
+    title: "Hinox Battle"
+    path: "Hinox Battle.brstm"
+    type: warning
+  - id: dragon_breath_of_the_wild
+    title: "Dragon"
+    path: "Dragon.brstm"
+    type: break
 ...

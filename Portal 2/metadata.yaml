@@ -7,3 +7,15 @@ songs:
     title: "An Accent Beyond"
     path: "An Accent Beyond.brstm"
     type: warning
+  - id: robot_waiting_room_1
+    title: "Robot Waiting Room #1"
+    path: "Robot Waiting Room #1.brstm"
+    type: break
+  - id: test
+    title: "TEST"
+    path: "TEST.brstm"
+    type: break
+  - id: some_assembly_required
+    title: "Some Assembly Required"
+    path: "Some Assembly Required.brstm"
+    type: warning

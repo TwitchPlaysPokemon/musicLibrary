@@ -1,0 +1,32 @@
+---
+id: street_fighter_x_tekken
+title: "Street Fighter X Tekken"
+series: crossover
+year: 2012
+platform: "Various"
+songs:
+  - id: vs_street_fighter_rivals_arrange_1_sfxt
+    title: "Vs. Street Fighter Rivals (Arrange #1)"
+    path: "Vs Street Fighter Rivals (Arrange #1).brstm"
+    type: battle
+  - id: results_screen_street_fighter_sfxt
+    title: "Results Screen (Street Fighter)"
+    path: "Results Screen (Street Fighter).brstm"
+    type: result
+  - id: training_stage_sfxt
+    title: "Training Stage"
+    path: "Training Stage.brstm"
+    type: betting
+  - id: vs_jin_xiaoyu_tekken_mid_boss
+    title: "Vs. Jin & Xiaoyu (Tekken Mid Boss)"
+    path: "Vs Jin & Xiaoyu (Tekken Mid Boss).brstm"
+    type: battle
+  - id: vs_dictator_juri_street_fighter_mid_boss
+    title: "Vs. Dictator & Juri (Street Fighter Mid Boss)"
+    path: "Vs Dictator & Juri (Street Fighter Mid Boss).brstm"
+    type: battle
+  - id: pitstop_109_night
+    title: "Pitstop 109 -Night-"
+    path: "Pitstop 109 -Night-.brstm"
+    type: battle
+...

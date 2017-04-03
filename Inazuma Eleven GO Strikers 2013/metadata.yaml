@@ -1,0 +1,49 @@
+---
+id: Inazuma Eleven GO Strikers 2013
+title: "inazuma_eleven_go_strikers_2013"
+series: inazumaeleven
+year: 2013
+platform: "Wii"
+songs:
+  - id: messenger_of_the_stars
+    title: "Messenger of the Stars"
+    path: "MotS_BETTING.brstm"
+    type: betting
+  - id: the_cold_wind_of_morning
+    title: "The Cold Wind of Morning"
+    path: "TheColdWindofMorning_BETTING.brstm"
+    type: break
+  - id: victory_fight
+    title: "Victory Fight"
+    path: "VictorySong_BETTING.brstm"
+    type: result
+  - id: world_cup
+    title: "World Cup"
+    path: "WORLDCUP_BETTING.brstm"
+    ends: 2:00
+    type: betting
+  - id: go_raimon
+    title: "Go, Raimon!"
+    path: "Go_Raimon_BATTLE.brstm"
+    type: battle
+  - id: hero_time
+    title: "Hero Time"
+    path: "HERO_TIME_1_BATTLE.brstm"
+    type: battle
+  - id: hero_time_2
+    title: "Hero Time 2"
+    path: "HERO_TIME_2_BATTLE.brstm"
+    type: battle
+  - id: activate_burning_phase
+    title: "Activate! Burning Phase"
+    path: "ACB_BATTLE.brstm"
+    type: battle
+  - id: lets_play_soccer
+    title: "Let's Play! Soccer"
+    path: "Lets_Play_Soccer_RESULT.brstm"
+    type: break
+  - id: raimon_soccer
+    title: "Raimon Soccer"
+    path: "RAIMON_SOCCER_BREAK.brstm"
+    type: result
+...

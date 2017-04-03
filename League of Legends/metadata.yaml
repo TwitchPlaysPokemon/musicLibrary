@@ -15,14 +15,17 @@ songs:
   - id: bit_rush
     title: "Bit Rush"
     path: "Bit Rush.brstm"
+    ends: 2:16
     type: betting
   - id: bit_rush_arcade_ahri
     title: "Bit Rush: Arcade Ahri"
     path: "Bit Rush- Arcade Ahri.brstm"
+    ends: 2:27
     type: betting
   - id: challengers_league_of_legends
     title: "Challengers"
     path: "Challengers.brstm"
+    ends: 1:31
     type: betting
   - id: dragonslayer_xin_zhao
     title: "Dragonslayer Xin Zhao"
@@ -31,6 +34,7 @@ songs:
   - id: welcome_to_planet_urf
     title: "Welcome to Planet Urf"
     path: "Welcome to Planet Urf.brstm"
+    ends: 1:34
     type: betting
   - id: mecha_zero_sion
     title: "Mecha Zero Sion"
@@ -51,5 +55,6 @@ songs:
   - id: taliyah_the_stoneweaver
     title: "Taliyah, the Stoneweaver"
     path: "Taliyah, the Stoneweaver.brstm"
+    ends: 2:40
     type: betting
 ...

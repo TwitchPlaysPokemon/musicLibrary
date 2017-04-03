@@ -25,4 +25,12 @@ songs:
     title: "Flyswatter ~ Level 2"
     path: "16 Flyswatter ~ Level 2.spc"
     type: betting
+  - id: flower_garden
+    title: "Flower Garden"
+    path: "04 Flower Garden.spc"
+    type: break
+  - id: main_theme_mario_paint
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
 ...

@@ -101,4 +101,16 @@ songs:
     title: "Mimi the Copycat"
     path: "Mimi the Copycat.brstm"
     type: warning
+  - id: im_not_nice
+    title: "I'm Not Nice"
+    path: "I'm Not Nice.brstm"
+    type: warning
+  - id: floro_sapien_caverns
+    title: "Floro Sapien Caverns"
+    path: "Floro Sapien Caverns.brstm"
+    type: betting
+  - id: world_of_nothing
+    title: "World of Nothing"
+    path: "World of Nothing.brstm"
+    type: warning
 ...

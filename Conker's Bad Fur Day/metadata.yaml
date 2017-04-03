@@ -1,15 +1,12 @@
 ---
 id: conkers_bad_fur_day
 title: "Conker's Bad Fur Day"
-platform: "N64"
+series: conker
 year: 2001
+platform: "N64"
 songs:
-  - id: heist
-    title: "Heist"
-    path: "Heist.brstm"
+  - id: rock_solid
+    title: "Rock Solid"
+    path: "sparse3d.miniusf"
     type: betting
-  - id: boss_fight
-    title: "Boss Fight"
-    path: "Boss Fight.brstm"
-    type: warning
 ...

@@ -1,0 +1,33 @@
+---
+id: pokemon_uranium
+title: "Pokémon Uranium"
+series: pokemon
+year: 2016
+is_fanwork: true
+platform: "PC"
+songs:
+  - id: battle_gym_leader_uranium
+    title: "Battle! Gym Leader"
+    path: "Battle! Gym Leader.brstm"
+    type: battle
+  - id: battle_legendary_pokemon_uranium
+    title: "Battle! Legendary Pokémon"
+    path: "Battle! Legendary Pokemon.brstm"
+    type: warning
+  - id: battle_trainer_uranium
+    title: "Battle! Trainer"
+    path: "Battle! Trainer.brstm"
+    type: battle
+  - id: battle_wild_nuclear_pokemon_uranium
+    title: "Battle! Wild Nuclear Pokémon"
+    path: "Battle! Wild Nuclear Pokemon.brstm"
+    type: battle
+  - id: decisive_battle_uranium
+    title: "Decisive Battle"
+    path: "Decisive Battle.brstm"
+    type: result
+  - id: battle_wild_pokemon_uranium
+    title: "Battle! Wild Pokémon"
+    path: "Battle! Wild Pokemon.brstm"
+    type: battle
+...
