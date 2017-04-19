@@ -2,7 +2,7 @@ id: metal_slug_5
 title: "Metal Slug 5"
 series: metalslug
 year: 2003
-platform: "Arcade+Neo-Geo"
+platform: ["Neo-Geo", "Xbox"]
 songs:
   - id: fierce_battle_metal_slug
     title: "Fierce Battle"
