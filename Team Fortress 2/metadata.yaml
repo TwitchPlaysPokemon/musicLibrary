@@ -1,7 +1,8 @@
+---
 id: team_fortress_2
 title: "Team Fortress 2"
+platform: ["PC", "360", "PS3"]
 year: 2007
-platform: "PC+360+PS3"
 songs: 
   - id: intruder_alert
     title: "Intruder Alert!"
@@ -28,3 +29,12 @@ songs:
     title: "Dreams of Cruelty"
     path: "Dreams of Cruelty.brstm"
     type: warning
+  - id: mannrobics
+    title: "Mannrobics"
+    path: "Mannrobics.brstm"
+    type: betting
+  - id: main_theme_tf2
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+...

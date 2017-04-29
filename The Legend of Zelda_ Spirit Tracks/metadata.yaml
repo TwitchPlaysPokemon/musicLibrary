@@ -1,0 +1,28 @@
+---
+id: the_legend_of_zelda_spirit_tracks
+title: "The Legend of Zelda: Spirit Tracks"
+series: zelda
+platform: "NDS"
+year: 2009
+songs:
+  - id: demon_train
+    title: "Demon Train"
+    path: "NTR-BKIE-USA-005c.mini2sf"
+    type: betting
+  - id: vs_malladus_part_2
+    title: "Vs. Malladus - Part 2"
+    path: "NTR-BKIE-USA-005f.mini2sf"
+    type: warning
+  - id: realm_overworld
+    title: "Realm Overworld"
+    path: "NTR-BKIE-USA-0012.mini2sf"
+    type: betting
+  - id: troubled_realm
+    title: "Troubled Realm"
+    path: "NTR-BKIE-USA-0017.mini2sf"
+    type: betting
+  - id: the_spirit_flute
+    title: "The Spirit Flute"
+    path: "The Spirit Flute.brstm"
+    type: break
+...

@@ -1,8 +1,8 @@
 ---
 id: persona_q
-platform: "3DS"
 title: "Persona Q: Shadow of the Labyrinth"
 series: shinmegamitensei
+platform: "3DS"
 year: 2014
 songs: 
   - id: battle_in_the_clock_tower
@@ -37,4 +37,16 @@ songs:
     title: "F. O. E"
     path: "F O E.brstm"
     type: battle
+  - id: you_in_wonderland
+    title: "You in Wonderland"
+    path: "You in Wonderland.brstm"
+    type: betting
+  - id: shadow_in_wonderland
+    title: "Shadow in Wonderland"
+    path: "Shadow in Wonderland.brstm"
+    type: betting
+  - id: looming_threat
+    title: "Looming Threat"
+    path: "Looming Threat.brstm"
+    type: betting
 ...

@@ -1,7 +1,9 @@
+---
 id: castlevania_order_of_ecclesia
 title: "Castlevania: Order of Ecclesia"
+series: castlevania
+platform: "NDS"
 year: 2008
-platform: "DS"
 songs:
   - id: wandering_the_crystal_blue_arranged
     title: "Wandering the Crystal Blue (Arranged)"
@@ -23,3 +25,8 @@ songs:
     title: "The Riddle"
     path: "The Riddle.brstm"
     type: battle
+  - id: order_of_the_demon
+    title: "Order of the Demon"
+    path: "213 Order of the Demon.mini2sf"
+    type: warning
+...

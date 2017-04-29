@@ -1,7 +1,9 @@
+---
 id: top_gear_2
 title: "Top Gear 2"
-year: 1993
+series: topgear
 platform: "SNES"
+year: 1993
 songs:
   - id: title_tg2
     title: "Title"
@@ -25,3 +27,4 @@ songs:
     title: "Result"
     path: "Results.brstm"
     type: result
+...

@@ -1,8 +1,8 @@
 ---
 id: pokemon_emerald
-platform: "GBA"
 title: "Pokémon Ruby/Sapphire/Emerald"
 series: pokemon
+platform: "GBA"
 year: 2002
 songs: 
   - id: birch_lab
@@ -17,9 +17,9 @@ songs:
     path: "Pokemon Emerald - Aqua Hideout.minigsf"
     title: "Aqua Hideout"
     type: betting
-  - id: evergrande
+  - id: ever_grande_city
     path: "Pokemon Emerald - Evergrande City.minigsf"
-    title: "Evergrande City"
+    title: "Ever Grande City"
     type: betting
   - id: elite_4_defeat
     path: "Pokemon Emerald - Elite 4 Defeat.minigsf"

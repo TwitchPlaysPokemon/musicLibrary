@@ -25,4 +25,16 @@ songs:
     title: "Tanker Incident (Album Version)"
     path: "Tanker Incident (Album Version).brstm"
     type: warning
+  - id: main_menu_metal_gear_solid_2_sons_of_liberty
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: break
+  - id: power_room
+    title: "Power Room"
+    path: "Power Room.brstm"
+    type: break
+  - id: twilight_sniping_album_version
+    title: "Twilight Sniping (Album Version)"
+    path: "Twilight Sniping (Album Version).brstm"
+    type: betting
 ...

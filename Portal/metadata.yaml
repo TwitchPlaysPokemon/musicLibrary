@@ -1,11 +1,16 @@
 ---
 id: portal
 title: "Portal"
+series: portal
+platform: ["PC", "360", "PS3"]
 year: 2007
-platform: "PC+360+PS3"
 songs:
   - id: radio_tune
     title: "Radio Tune"
     path: "Radio Tune.brstm"
     type: break
+  - id: 4000_degrees_kelvin
+    title: "4000 Degrees Kelvin"
+    path: "4000 Degrees Kelvin.brstm"
+    type: warning
 ...

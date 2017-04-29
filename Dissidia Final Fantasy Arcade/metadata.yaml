@@ -1,8 +1,9 @@
+---
 id: dissidia_final_fantasy_arcade
 title: "Dissidia Final Fantasy -Arcade-"
-year: 2015
 series: finalfantasy
 platform: "Arcade"
+year: 2015
 songs:
   - id: ff5_battle_2
     title: "FF5 - Battle 2"
@@ -36,3 +37,16 @@ songs:
     title: "Victory Fanfare"
     path: "Victory Fanfare.brstm"
     type: result
+  - id: ff6_dancing_mad
+    title: "FF6 - Dancing Mad"
+    path: "FF6 - Dancing Mad.brstm"
+    type: battle
+  - id: ff12_life_and_death
+    title: "FF12 - Life and Death"
+    path: "FF12 - Life and Death.brstm"
+    type: battle
+  - id: customization_ffarcade
+    title: "Customization"
+    path: "Customization.brstm"
+    type: warning
+...

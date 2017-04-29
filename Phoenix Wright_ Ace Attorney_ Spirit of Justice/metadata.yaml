@@ -1,7 +1,8 @@
+---
 id: phoenix_wright_ace_attorney_spirit_of_justice
 title: "Phoenix Wright: Ace Attorney: Spirit of Justice"
-platform: "3DS"
 series: aceattorney
+platform: "3DS"
 year: 2016
 songs: 
   - id: cross_examination_moderato_2016
@@ -64,3 +65,12 @@ songs:
     title: "Reminiscing ~ Inherited Hopes"
     path: "Reminiscing ~ Inherited Hopes.brstm"
     type: break
+  - id: the_revolutionaries_the_dragons_of_rebellion
+    title: "The Revolutionaries ~ The Dragons of Rebellion"
+    path: "The Revolutionaries ~ The Dragons of Rebellion.brstm"
+    type: warning
+  - id: athena_cykes_courtroom_revolutionnaire_2016
+    title: "Athena Cykes ~ Courtroom Révolutionnaire 2016"
+    path: "Athena Cykes ~ Courtroom Revolutionnaire 2016.brstm"
+    type: battle
+...

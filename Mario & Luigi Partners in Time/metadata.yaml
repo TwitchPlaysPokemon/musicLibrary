@@ -41,4 +41,8 @@ songs:
     title: "File Select"
     path: "File Select.mini2sf"
     type: break
+  - id: boss_fight_mlpit
+    title: "Boss Fight"
+    path: "Boss Fight.mini2sf"
+    type: battle
 ...

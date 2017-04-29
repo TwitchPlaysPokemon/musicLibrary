@@ -1,7 +1,8 @@
 ---
 id: hyperdimension_neptunia_victory
 title: "Hyperdimension Neptunia: Victory"
-platform: "PS3+Vita+PC"
+series: neptunia
+platform: ["PS3", "Vita", "PC"]
 year: 2012
 songs: 
   - id: la_dele_dele
@@ -20,4 +21,16 @@ songs:
     title: "World of Imagination"
     path: "Neptunia World of Imagination.brstm"
     type: betting
+  - id: elegy_no_intro
+    title: "Elegy"
+    path: "Elegy (No Intro).brstm"
+    type: battle
+  - id: prelude_to_battle
+    title: "Prelude to Battle"
+    path: "Prelude to Battle .brstm"
+    type: battle
+  - id: rom_and_rams_theme_ver_v
+    title: "Rom & Ram's Theme Ver. V"
+    path: "Rom & Ram's Theme Ver V.brstm"
+    type: warning
 ...

@@ -2,8 +2,8 @@
 id: sonic_advance_3
 title: "Sonic Advance 3"
 series: sonic
-year: 2004
 platform: "GBA"
+year: 2004
 songs:
   - id: chaos_angel_boss
     title: "Chaos Angel Boss"
@@ -84,5 +84,9 @@ songs:
   - id: finalzone_map
     title: "Final Zone Map"
     path: "FinalZone Map.minigsf"
+    type: warning
+  - id: chaos_angel_act_1
+    title: "Chaos Angel Act 1"
+    path: "36 Chaos Angel Act 1.minigsf"
     type: warning
 ...

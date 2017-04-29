@@ -1,3 +1,4 @@
+---
 id: kirby_nightmare_in_dream_land
 title: "Kirby Nightmare in Dream Land"
 series: kirby
@@ -16,3 +17,8 @@ songs:
     title: "Orange Ocean"
     path: "14 Orange Ocean.minigsf"
     type: break
+  - id: dedede_battle_kirby_nightmare_in_dream_land
+    title: "Dedede Battle"
+    path: "24 Dedede Battle.minigsf"
+    type: betting
+...

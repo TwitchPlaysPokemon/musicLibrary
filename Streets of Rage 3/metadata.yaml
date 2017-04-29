@@ -1,9 +1,19 @@
+---
 id: streets_of_rage_iii
 title: "Streets of Rage III"
+platform: "SMD"
 year: 1994
-platform: "Genesis"
 songs:
   - id: good_ending_sor3
     title: "Good Ending"
     path: "24 Good Ending.vgm"
     type: result
+  - id: dance_club
+    title: "Dance Club"
+    path: "05 - Dance Club.vgm"
+    type: warning
+  - id: the_poets_i
+    title: "The Poets I"
+    path: "15 - The Poets I.vgm"
+    type: betting
+...

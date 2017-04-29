@@ -1,7 +1,9 @@
+---
 id: mushihimesama_futari
 title: "Mushihimesama Futari"
-year: 2006
+series: mushihimesama
 platform: ["Arcade", "360", "iOS"]
+year: 2006
 songs:
   - id: setting_off_together
     title: "Setting Off Together (Stage 1)"
@@ -19,3 +21,4 @@ songs:
     title: "Cry! Scream!! (Final Boss)"
     path: "Cry! Scream!! (Final Boss).brstm"
     type: battle
+...

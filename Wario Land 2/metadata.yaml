@@ -1,8 +1,8 @@
 id: wario_land_2
 title: "Wario Land 2"
 series: wario
+platform: ["GB", "GBC"]
 year: 1998
-platform: "GB+GBC"
 songs:
   - id: stop_that_train_daytime
     title: "Stop That Train (Daytime)"
@@ -20,3 +20,20 @@ songs:
     title: "Flaming Wario"
     path: "Flaming Wario.brstm"
     type: warning
+  - id: defeat_the_giant_spearman_ruins_at_the_bottom_of_the_sea
+    title: "Defeat the Giant Spearman (Ruins at the Bottom of the Sea)"
+    path: "Defeat the Giant Spearman (Ruins at the Bottom of the Sea).brstm"
+    type: warning
+  - id: defeat_the_giant_snake
+    title: "Defeat the Giant Snake"
+    path: "Defeat the Giant Snake.brstm"
+    type: warning
+  - id: end_assessment
+    title: "End Assessment"
+    path: "End Assessment.brstm"
+    type: break
+  - id: ending_wario_land_2
+    title: "Ending"
+    path: "Ending.brstm"
+    type: warning
+...

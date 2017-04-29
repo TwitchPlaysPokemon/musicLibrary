@@ -1,3 +1,4 @@
+---
 id: baten_kaitos_eternal_wings_and_the_lost_ocean
 title: "Baten Kaitos: Eternal Wings and the Lost Ocean"
 platform: "GCN"
@@ -19,3 +20,28 @@ songs:
     title: "Vitrolic a Stroke"
     path: "Vitrolic a Stroke.brstm"
     type: battle
+  - id: coolant
+    title: "Coolant"
+    path: "Coolant.brstm"
+    type: result
+  - id: gentle_wind
+    title: "Gentle Wind"
+    path: "Gentle Wind.brstm"
+    type: break
+  - id: glowing_cloud
+    title: "Glowing Cloud"
+    path: "Glowing Cloud.brstm"
+    type: battle
+  - id: tenkai_flower_temple
+    title: "Tenkai Flower Temple"
+    path: "Tenkai Flower Temple.brstm"
+    type: break
+  - id: the_true_mirror_guitar_version
+    title: "The True Mirror (Guitar Version)"
+    path: "The True Mirror (Guitar Version).brstm"
+    type: battle
+  - id: violent_storm
+    title: "Violent Storm"
+    path: "Violent Storm.brstm"
+    type: battle
+...

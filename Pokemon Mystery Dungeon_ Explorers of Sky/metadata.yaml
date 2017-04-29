@@ -2,8 +2,8 @@
 id: pokémon_mystery_dungeon_explorers_of_sky
 title: "Pokémon Mystery Dungeon: Explorers of Sky"
 series: pokemon
-year: 2009
 platform: "NDS"
+year: 2009
 songs:
   - id: vast_ice_mountain_peak
     title: "Vast Ice Mountain Peak"
@@ -52,5 +52,5 @@ songs:
   - id: primal_dialga
     title: "Primal Dialga"
     path: "Primal Dialga.brstm"
-    type: betting
+    type: battle
 ...

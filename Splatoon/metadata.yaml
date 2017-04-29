@@ -1,7 +1,9 @@
+---
 id: splatoon
 title: "Splatoon"
-year: 2015
+series: splatoon
 platform: "Wii U"
+year: 2015
 songs:
   - id: sunken_scrolls
     title: "Sunken Scrolls"
@@ -19,3 +21,8 @@ songs:
     title: "Calamari Inkantation"
     path: "Calamari Inkantation (Final Boss Phase 2).brstm"
     type: betting
+  - id: i_am_octavio
+    title: "I am Octavio"
+    path: "I am Octavio (Final Boss Phase 1).brstm"
+    type: battle
+...

@@ -1,8 +1,9 @@
 ---
 id: rhythm_heaven
 title: "Rhythm Heaven"
-year: 2008
+series: rhythmheaven
 platform: "NDS"
+year: 2008
 songs:
   - id: lockstep_rhythm_heaven
     title: "Lockstep"
@@ -55,5 +56,45 @@ songs:
   - id: space_soccer_rhythm_heaven
     title: "Space Soccer"
     path: "Space Soccer.brstm"
+    type: betting
+  - id: glee_club
+    title: "Glee Club"
+    path: "Glee Club.brstm"
+    type: break
+  - id: blue_birds
+    title: "Blue Birds"
+    path: "Blue Birds.brstm"
+    type: betting
+  - id: remix_8
+    title: "Remix 8"
+    path: "Remix 8.brstm"
+    type: betting
+  - id: ok_rhythm_heaven
+    title: "OK"
+    path: "OK.brstm"
+    type: result
+  - id: try_again_rhythm_heaven
+    title: "Try Again"
+    path: "Try Again.brstm"
+    type: result
+  - id: title_screen_rhythm_heaven
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: superb_rhythm_heaven
+    title: "Superb"
+    path: "Superb.brstm"
+    type: result
+  - id: remix_3_rhythm_heaven
+    title: "Remix 3"
+    path: "Remix 3.brstm"
+    type: betting
+  - id: remix_4_rhythm_heaven
+    title: "Remix 4"
+    path: "Remix 4.brstm"
+    type: betting
+  - id: remix_7_rhythm_heaven
+    title: "Remix 7"
+    path: "Remix 7.brstm"
     type: betting
 ...

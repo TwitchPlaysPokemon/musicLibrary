@@ -1,8 +1,8 @@
 ---
 id: pulseman
 title: "Pulseman"
-year: 1994
 platform: "Genesis"
+year: 1994
 songs:
   - id: metamorphoser
     title: "Metamorphoser"
@@ -20,4 +20,20 @@ songs:
     title: "Super Target"
     path: "Super Target.brstm"
     type: result
+  - id: cl_architecture
+    title: "CL Architecture"
+    path: "07 - CL Architecture.vgm"
+    type: warning
+  - id: neo_tokyo
+    title: "Neo Tokyo"
+    path: "01 - Neo Tokyo.vgm"
+    type: betting
+  - id: dump_succeeded
+    title: "Dump Succeeded"
+    path: "33 - Dump Succeeded.vgm"
+    type: result
+  - id: halt_16_voice
+    title: "Halt 16 Voice"
+    path: "11 - Halt 16 Voice.vgm"
+    type: warning
 ...

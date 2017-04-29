@@ -1,0 +1,33 @@
+id: nebulasray
+title: "NebulasRay"
+platform: "Arcade"
+year: 1994
+songs:
+  - id: exeo
+    title: "Exeo"
+    path: "03 Exeo.vgz"
+    type: betting
+  - id: evergrenes
+    title: "Evergrenes"
+    path: "04 Evergrenes.vgz"
+    type: betting
+  - id: lost_marinarc
+    title: "Lost-Marinarc"
+    path: "05 Lost-Marinarc.vgz"
+    type: betting
+  - id: raymax
+    title: "RayMax"
+    path: "07 RayMax.vgz"
+    type: warning
+  - id: return_to_mothership
+    title: "Return to Mother-Ship"
+    path: "13 Return to Mother-Ship.vgz"
+    type: result
+  - id: failure_nebulasray
+    title: "Failure"
+    path: "14 Failure.vgz"
+    type: warning
+  - id: space_fortress_entrance
+    title: "Enemies-Space-Fortress Entrance"
+    path: "10 Enemies-Space-Fortress Entrance.vgz"
+    type: warning

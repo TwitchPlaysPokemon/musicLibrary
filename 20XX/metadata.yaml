@@ -1,0 +1,15 @@
+---
+id: 20xx
+title: "20XX"
+platform: "PC"
+year: 2014
+songs:
+  - id: identity_crisis
+    title: "Identity Crisis"
+    path: "Identity Crisis.brstm"
+    type: betting
+  - id: permafrost
+    title: "Permafrost"
+    path: "Permafrost.brstm"
+    type: battle
+...

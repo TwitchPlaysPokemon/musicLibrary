@@ -1,8 +1,8 @@
 ---
 id: pokemon_omega_ruby
-platform: "3DS"
 title: "Pokémon Omega Ruby/Alpha Sapphire"
 series: pokemon
+platform: "3DS"
 year: 2014
 songs: 
   - id: abandoned_ship_omega_ruby
@@ -177,7 +177,7 @@ songs:
     path: "Encounter! Zinnia.brstm"
     title: "Encounter! Zinnia"
     type: warning
-  - id: ever_grande_city
+  - id: ever_grande_city_oras
     path: "Ever Grande City.brstm"
     title: "Ever Grande City"
     type: betting
@@ -393,4 +393,12 @@ songs:
     title: "Per Aspera Ad Astra"
     path: "Per Aspera Ad Astra (Looped).brstm"
     type: result
+  - id: explosive_encounters_red_and_blue
+    title: "Explosive Encounters! Red and Blue"
+    path: "Explosive Encounters! Red and Blue.brstm"
+    type: warning
+  - id: encounter_triathlete
+    title: "Encounter! Triathlete"
+    path: "Encounter! Triathlete.brstm"
+    type: warning
 ...

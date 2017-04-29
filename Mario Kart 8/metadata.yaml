@@ -169,7 +169,7 @@ songs:
     title: "Online Waiting Room"
     path: "Online Waiting Room.brstm"
     type: betting
-  - id: rainbow_road
+  - id: rainbow_road_mk8
     title: "Rainbow Road"
     path: "Rainbow Road.brstm"
     type: betting
@@ -232,5 +232,13 @@ songs:
   - id: wild_woods
     title: "Wild Woods"
     path: "Wild Woods.brstm"
+    type: betting
+  - id: dragon_driftway_final_lap
+    title: "Dragon Driftway (Final Lap)"
+    path: "Dragon Driftway (Final Lap).brstm"
+    type: battle
+  - id: mount_wario
+    title: "Mount Wario"
+    path: "Mount Wario (Full Custom Loop).brstm"
     type: betting
 ...

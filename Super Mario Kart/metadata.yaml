@@ -1,0 +1,16 @@
+---
+id: super_mario_kart
+title: "Super Mario Kart"
+series: mario
+platform: "SNES"
+year: 1992
+songs:
+  - id: rainbow_road_super_mario_kart
+    title: "Rainbow Road"
+    path: "21 Rainbow Road.spc"
+    type: betting
+  - id: rainbow_road_final_lap_super_mario_kart
+    title: "Rainbow Road (Final Lap)"
+    path: "22 Rainbow Road (Final Lap).spc"
+    type: warning
+...

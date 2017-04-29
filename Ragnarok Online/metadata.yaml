@@ -1,0 +1,35 @@
+---
+id: ragnarok_online
+title: "Ragnarok Online"
+platform: "PC"
+year: 2002
+songs:
+  - id: dancing_christmas_in_the_13th_month
+    title: "Dancing Christmas in the 13th Month"
+    path: "Dancing Christmas in the 13th Month.brstm"
+    type: battle
+  - id: hamatan
+    title: "Hamatan"
+    path: "Hamatan.brstm"
+    type: battle
+  - id: jingle_bell_on_ragnarok
+    title: "Jingle Bell on Ragnarok"
+    path: "Jingle Bell on Ragnarok.brstm"
+    type: betting
+  - id: nano_east
+    title: "Nano East"
+    path: "Nano East.brstm"
+    type: betting
+  - id: one_fine_day
+    title: "One Fine Day"
+    path: "One Fine Day.brstm"
+    type: betting
+  - id: one_step_closer
+    title: "One Step Closer"
+    path: "One Step Closer.brstm"
+    type: betting
+  - id: zingaro
+    title: "Zingaro"
+    path: "Zingaro.brstm"
+    type: betting
+...

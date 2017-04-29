@@ -1,0 +1,12 @@
+---
+id: donkey_kong_land_iii
+title: "Donkey Kong Land III"
+series: donkeykong
+platform: ["GB", "GBC"]
+year: 1997
+songs:
+  - id: baddies_on_parade
+    title: "Baddies On Parade"
+    path: "Baddies On Parade.brstm"
+    type: betting
+...

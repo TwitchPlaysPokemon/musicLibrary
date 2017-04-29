@@ -1,0 +1,20 @@
+---
+id: shin_bokura_no_taiyo_gyakushu_no_sabata
+title: "Shin Bokura no Taiyō: Gyakushū no Sabata"
+series: boktai
+platform: "GBA"
+year: 2004
+songs:
+  - id: battle_drive
+    title: "Battle Drive"
+    path: "047 Battle Drive.minigsf"
+    type: warning
+  - id: bike_battle_instrumental
+    title: "Bike Battle (Instrumental)"
+    path: "101 - Bike Battle (Instrumental).brstm"
+    type: battle
+  - id: vanargand
+    title: "Vanargand"
+    path: "081 Vanargand.minigsf"
+    type: battle
+...

@@ -1,9 +1,9 @@
 ---
-id: kirby_64
+id: kirby_64_the_crystal shards
 title: "Kirby 64: The Crystal Shards"
 series: kirby
-year: 2000
 platform: "N64"
+year: 2000
 songs:
   - id: boss_k64
     title: "Boss"
@@ -53,7 +53,7 @@ songs:
     title: "Factory Inspection"
     path: "27 - Factory Inspection.miniusf"
     type: betting
-  - id: friends_3
+  - id: friends_3_k64
     title: "Friends 3"
     path: "906 - Friends 3.miniusf"
     type: betting
@@ -105,8 +105,12 @@ songs:
     title: "Dark Star"
     path: "35a - Dark Star.miniusf"
     type: warning
-  - id: ruins_kirby_64
+  - id: ruins_k64
     title: "Ruins"
     path: "017 Ruins.miniusf"
+    type: betting
+  - id: ripple_star_k64
+    title: "Ripple Star"
+    path: "029b Ripple Star.miniusf"
     type: betting
 ...

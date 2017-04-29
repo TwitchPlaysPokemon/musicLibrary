@@ -2,8 +2,8 @@
 id: sonic_and_the_black_knight
 title: "Sonic and the Black Knight"
 series: sonic
-year: 2009
 platform: "Wii"
+year: 2009
 songs:
   - id: fight_the_knight_-_instrumental
     title: "Fight the Knight - Instrumental"
@@ -29,4 +29,12 @@ songs:
     title: "Shrouded Forest"
     path: "Shrouded Forest.brstm"
     type: warning
+  - id: knight_of_the_wind_instrumental
+    title: "Knight of the Wind - Instrumental"
+    path: "Knight of the Wind (Instrumental Version).brstm"
+    type: battle
+  - id: with_me_instrumental
+    title: "With Me - Instrumental"
+    path: "With Me (Instrumental Version).brstm"
+    type: battle
 ...

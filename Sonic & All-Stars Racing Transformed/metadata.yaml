@@ -2,7 +2,7 @@
 id: sonic_all-stars_racing_transformed
 title: "Sonic & All-Stars Racing Transformed"
 series: sonic
-platform: "360+PS3+Wii U"
+platform: ["360", "PS3", "Wii U"]
 year: 2012
 songs:
   - id: adders_lair
@@ -141,6 +141,7 @@ songs:
   - id: race_of_ages
     title: "Race of Ages"
     path: "Race of Ages.brstm"
+    ends: 2:51
     type: betting
   - id: outrun_bay
     title: "OutRun Bay"

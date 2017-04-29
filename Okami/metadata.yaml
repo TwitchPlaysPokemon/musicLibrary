@@ -99,4 +99,12 @@ songs:
     path: "Shinto Priest Mikazuki's Theme.brstm"
     title: "Shinto Priest Mikazuki's Theme"
     type: break
+  - id: seiankyou_commoners
+    path: "Seiankyou Commoners' Quarter.brstm"
+    title: "Seiankyou Commoners' Quarter"
+    type: betting
+  - id: giving_susano_a_ride
+    path: "Giving Susano-o a Ride.brstm"
+    title: "Giving Susano-o a Ride"
+    type: betting
 ...

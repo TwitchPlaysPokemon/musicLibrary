@@ -1,8 +1,9 @@
+---
 id: kirby_planet_robobot
 title: "Kirby: Planet Robobot"
 series: kirby
-year: 2016
 platform: "3DS"
+year: 2016
 songs:
   - id: robobot_kirby
     title: "Robobot Kirby"
@@ -16,11 +17,11 @@ songs:
     title: "Laser Lab"
     path: "Acciss Arcs - Laser Lab.brstm"
     type: betting
-  - id: dark_castle_robobot
+  - id: dark_castle_purple_lab_area_robobot
     title: "Dark Castle (Purple Lab Area)"
     path: "Dark Castle.brstm"
     type: betting
-  - id: float_islands_dream_land
+  - id: float_islands_kirbys_dream_land_robobot
     title: "Float Islands (Kirby's Dream Land)"
     path: "Float Islands (Kirby's Dream Land).brstm"
     type: betting
@@ -36,7 +37,7 @@ songs:
     title: "Yogurt Yard (Remaster)"
     path: "Yogurt Yard (Remaster).brstm"
     type: betting
-  - id: boss_kirby64_masher
+  - id: boss_kirby_64_masher_3d_rumble
     title: "Boss (Kirby 64 - Masher) (Kirby 3D Rumble)"
     path: "Boss (Kirby 64 - Masher) (Kirby 3D Rumble).brstm"
     type: warning
@@ -56,7 +57,7 @@ songs:
     title: "Final Boss (Phase 3)"
     path: "Last Fight - Super Nova (vs Star Dream Soul OS).brstm"
     type: battle
-  - id: crowned_drum_dash_deluxe
+  - id: crowned_dededes_drum_dash_deluxe
     title: "CROWNED (Dedede's Drum Dash Deluxe)"
     path: "CROWNED (Dedede's Drum Dash Deluxe).brstm"
     type: battle
@@ -88,7 +89,7 @@ songs:
     title: "Aqua Harbor"
     path: "Aqua Harbor (Kirby Super Star - Float Islands).brstm"
     type: betting
-  - id: haltmann_works_co_hq
+  - id: haltmann_works_co_hq_area
     title: "Haltmann Works Co (HQ Area)"
     path: "Haltmann Works Co (HQ Area).brstm"
     type: betting
@@ -104,7 +105,7 @@ songs:
     title: "World Map"
     path: "World Map.brstm"
     type: break
-  - id: title_screen_k3drumble
+  - id: title_screen_kirby_3d_rumble
     title: "Title Screen (Kirby 3D Rumble)"
     path: "Kirby 3D Rumble.brstm"
     type: break
@@ -112,3 +113,32 @@ songs:
     title: "Chief Kawasaki (Kirby Star Stacker)"
     path: "Chief Kawasaki (Kirby Star Stacker).brstm"
     type: warning
+  - id: program_rhythm
+    title: "Program Rhythm"
+    path: "Problem Solver (Puzzle Room).brstm"
+    type: warning
+  - id: combine_laboratory_float_islands
+    title: "Combine Laboratory (Float Islands)"
+    path: "Float Islands (Blue Lab Area).brstm"
+    type: betting
+  - id: now_loading_robobot
+    title: "Now Loading"
+    path: "Threat Beyond Enemy Doors (Approaching Boss).brstm"
+    type: warning
+  - id: crazy_rolling_in_money
+    title: "Crazy Rolling in Money"
+    path: "Money Machine (Vs Max Proffit Haltmann).brstm"
+    type: warning
+  - id: final_takeoff
+    title: "Final Takeoff"
+    path: "ROBOBOT HALBERD MODE.brstm"
+    type: betting
+  - id: combat_strength_measurement_program
+    title: "Combat Strength Measurement Program"
+    path: "The True Arena - Battle.brstm"
+    type: battle
+  - id: vs_star_dream
+    title: "Vs. Star Dream"
+    path: "Vs. Star Dream (Shortened Intro).brstm"
+    type: battle
+...

@@ -2,8 +2,8 @@
 id: sonic_adventure_2
 title: "Sonic Adventure 2"
 series: sonic
-year: 2001
 platform: "DC"
+year: 2001
 songs:
 #      - id: biolizard
 #        title: "Boss - Biolizard"
@@ -199,4 +199,40 @@ songs:
     title: "Meteor Herd"
     path: "Meteor Herd.brstm"
     type: betting
+  - id: boss_sonic_vs_shadow_final
+    title: "Boss - Sonic vs. Shadow - Final"
+    path: "For True Story [Sonic vs Shadow 2].brstm"
+    type: battle
+  - id: chao_garden_hero
+    title: "Chao Garden - Hero"
+    path: "Chao Garden ~Hero Ver~.brstm"
+    type: break
+  - id: event_lets_make_it
+    title: "Event - Let's Make It!"
+    path: "Event - Let's Make It!.brstm"
+    type: result
+  - id: green_hill_zone_sa2
+    title: "Green Hill Zone"
+    path: "Green Hill Zone.brstm"
+    type: betting
+  - id: radical_highway
+    title: "Radical Highway"
+    path: "Vengeance Is Mine for Radical Highway.brstm"
+    type: warning
+  - id: security_hall
+    title: "Security Hall"
+    path: "Security Hall.brstm"
+    type: betting
+  - id: theme_of_eggman_sa2
+    title: "Theme Of Eggman"
+    path: "EGGMAN (Instrumental).brstm"
+    type: warning
+  - id: tutorial_sa2
+    title: "Tutorial"
+    path: "Tutorial.brstm"
+    type: break
+  - id: white_jungle_sa2
+    title: "White Jungle"
+    path: "Rhythm And Balance for White Jungle.brstm"
+    type: warning
 ...

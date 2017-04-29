@@ -1,0 +1,17 @@
+id: booby_kids
+title: "Booby Kids"
+platform: "NES"
+year: 1987
+songs:
+  - id: booby_march
+    title: "Booby March"
+    path: "Booby March.vgz"
+    type: result
+  - id: booby_samba
+    title: "Booby Samba"
+    path: "Booby Samba.vgz"
+    type: betting
+  - id: funny_dragon
+    title: "Funny Dragon"
+    path: "Funny Dragon.vgz"
+    type: betting

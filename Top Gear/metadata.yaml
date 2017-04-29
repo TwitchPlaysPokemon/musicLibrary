@@ -1,7 +1,9 @@
+---
 id: top_gear
 title: "Top Gear"
-year: 1992
+series: topgear
 platform: "SNES"
+year: 1992
 songs:
   - id: title_tg
     title: "Title"
@@ -20,7 +22,7 @@ songs:
   - id: track_3_tg
     title: "Track 3"
     path: "Track 3.spc"
-    type: battle
+    type: betting
   - id: track_4_tg
     title: "Track 4"
     path: "Track 4.spc"
@@ -29,3 +31,4 @@ songs:
     title: "Ending"
     path: "Ending.spc"
     type: result
+...

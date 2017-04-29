@@ -2,7 +2,7 @@
 id: lego_island_2_the_bricksters_revenge
 title: "Lego Island 2: The Brickster's Revenge"
 series: lego
-platform: "PC, PS1"
+platform: ["PC", "PS1"]
 year: 2001
 songs:
   - id: parachuting
@@ -13,4 +13,12 @@ songs:
     title: "Front End"
     path: "Front End.brstm"
     type: break
+  - id: the_bricksters_palace
+    title: "The Brickster's Palace"
+    path: "Brickster's Palace.brstm"
+    type: betting
+  - id: lego_island_transportation
+    title: "Lego Island, Transportation"
+    path: "LEGO Island, Transportation.brstm"
+    type: betting
 ...

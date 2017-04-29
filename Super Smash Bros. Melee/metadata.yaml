@@ -1,41 +1,41 @@
 ---
 id: super_smash_bros_melee
-platform: "GCN"
 title: "Super Smash Bros. Melee"
 series: smash
+platform: "GCN"
 year: 2002
 songs: 
   - id: fire_emblem
-    path: "Fire Emblem.brstm"
     title: "Fire Emblem"
+    path: "Fire Emblem.brstm"
     type: battle
   - id: battlefield_melee
-    path: "Battlefield.brstm"
     title: "Battlefield"
+    path: "Battlefield.brstm"
     type: battle
   - id: poke_floats
-    path: "Poke Floats.brstm"
     title: "Poké Floats"
+    path: "Poke Floats.brstm"
     type: battle
   - id: mother_2
-    path: "Mother 2.brstm"
     title: "Mother 2"
+    path: "Mother 2.brstm"
     type: betting
   - id: mother
-    path: "Mother.brstm"
     title: "Mother"
+    path: "Mother.brstm"
     type: betting
   - id: icicle_mountain
-    path: "Icicle Mountain.brstm"
     title: "Icicle Mountain"
+    path: "Icicle Mountain.brstm"
     type: result
   - id: fourside
-    path: "Fourside.brstm"
     title: "Fourside"
+    path: "Fourside.brstm"
     type: betting
   - id: fountain_of_dreams
-    path: "Fountain of Dreams.brstm"
     title: "Fountain of Dreams"
+    path: "Fountain of Dreams.brstm"
     type: betting
   - id: multi_man_melee_1
     title: "Multi-Man Melee 1"
@@ -80,5 +80,37 @@ songs:
   - id: yoshi_story_melee
     title: "Yoshi's Story"
     path: "Yoshi's Story.brstm"
+    type: betting
+  - id: great_bay_melee
+    title: "Great Bay"
+    path: "Great Bay.brstm"
+    type: betting
+  - id: temple_melee
+    title: "Temple"
+    path: "Temple.brstm"
+    type: betting
+  - id: corneria_melee
+    title: "Corneria"
+    path: "Corneria.brstm"
+    type: battle
+  - id: giga_bowser_melee
+    title: "Giga Bowser"
+    path: "Giga Bowser.brstm"
+    type: battle
+  - id: metal_battle_melee
+    title: "Metal Battle"
+    path: "Metal Battle.brstm"
+    type: battle
+  - id: rainbow_cruise_melee
+    title: "Rainbow Cruise"
+    path: "Rainbow Cruise.brstm"
+    type: betting
+  - id: venom_melee
+    title: "Venom"
+    path: "Venom.brstm"
+    type: betting
+  - id: yoshis_island_melee
+    title: "Yoshi's Island"
+    path: "Yoshi's Island.brstm"
     type: betting
 ...

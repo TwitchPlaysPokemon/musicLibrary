@@ -1,9 +1,9 @@
 ---
-id: tekken_6__bloodline_rebellion
+id: tekken_6_bloodline_rebellion
 title: "Tekken 6: Bloodline Rebellion"
 series: tekken
+platform: "Various"
 year: 2007
-platform: "Arcade, Multi"
 songs:
   - id: edge_of_spring
     title: "Edge of Spring"
@@ -13,4 +13,16 @@ songs:
     title: "Electric Fountain"
     path: "Electric Fountain.brstm"
     type: betting
+  - id: fallen_colony_game_version
+    title: "Fallen Colony"
+    path: "Fallen Colony (Game version).brstm"
+    type: betting
+  - id: yuki
+    title: "YUKI"
+    path: "YUKI.brstm"
+    type: betting
+  - id: midtown_roars
+    title: "Midtown Roars"
+    path: "Midtown Roars.brstm"
+    type: battle
 ...

@@ -1,34 +1,40 @@
+---
 id: donkey_kong_land
 title: "Donkey Kong Land"
 series: donkeykong
-year: 1995
 platform: "GB"
+year: 1995
 songs:
-  - id: blimp
+  - id: blimp_donkey_kong_land
     title: "Blimp"
     path: "Blimp.brstm"
     type: betting
-  - id: boss_dkland
+  - id: boss_donkey_kong_land
     title: "Boss"
     path: "Boss.brstm"
     type: battle
-  - id: construction_site
+  - id: construction_site_donkey_kong_land
     title: "Construction Site"
     path: "Construction Site.brstm"
     type: betting
-  - id: temple_dkland
+  - id: temple_donkey_kong_land
     title: "Temple"
     path: "Temple.brstm"
     type: betting
-  - id: mountain
+  - id: mountain_donkey_kong_land
     title: "Mountain"
     path: "Mountain.brstm"
     type: betting
-  - id: coral_dkland
+  - id: coral_donkey_kong_land
     title: "Coral"
     path: "Coral.brstm"
     type: betting
-  - id: flooded_ruins_dkland
+  - id: flooded_ruins__donkey_kong_land
     title: "Flooded Ruins"
     path: "Flooded Ruins.brstm"
     type: betting
+  - id: cave_donkey_kong_land
+    title: "Cave"
+    path: "Cave.brstm"
+    type: betting
+...

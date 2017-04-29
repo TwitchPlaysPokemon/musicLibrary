@@ -1,3 +1,4 @@
+---
 id: jojo_bizarre_adventure_all_star_battle
 title: "JoJo's Bizarre Adventure: All Star Battle"
 series: jojo
@@ -40,3 +41,8 @@ songs:
     title: "Light Mode (Kars's Theme)"
     path: "Light Mode (Kars's Theme).brstm"
     type: battle
+  - id: weakling_weakling_dio_brandos_theme
+    title: "Weakling, weakling! (Dio Brando's Theme)"
+    path: "Weakling, weakling! (Dio Brando's Theme).brstm"
+    type: battle
+...

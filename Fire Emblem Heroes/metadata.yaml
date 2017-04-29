@@ -1,0 +1,28 @@
+---
+id: fire_emblem_heroes
+title: "Fire Emblem Heroes"
+series: fireemblem
+platform: "Mobile"
+year: 2017
+songs:
+  - id: battle_boss_fire_emblem_heroes
+    title: "Battle (Boss)"
+    path: "Battle (Boss).brstm"
+    type: warning
+  - id: home_menu_fire_emblem_heroes
+    title: "Home Menu"
+    path: "Home Menu.brstm"
+    type: betting
+  - id: summon_together_we_ride
+    title: "Summon (Together We Ride)"
+    path: "Summon (Together We Ride).brstm"
+    type: warning
+  - id: event_serious
+    title: "Event - Serious"
+    path: "Event - Serious.brstm"
+    type: warning
+  - id: map_2_fire_emblem_heroes
+    title: "Map 2"
+    path: "Map 2.brstm"
+    type: betting
+...

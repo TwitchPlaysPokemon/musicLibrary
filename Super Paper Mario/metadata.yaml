@@ -113,4 +113,16 @@ songs:
     title: "World of Nothing"
     path: "World of Nothing.brstm"
     type: warning
+  - id: brobot_battle
+    title: "Brobot Battle"
+    path: "Brobot Battle.brstm"
+    type: warning
+  - id: its_showtime
+    title: "It's Showtime"
+    path: "It's Showtime.brstm"
+    type: battle
+  - id: pit_of_100_trials
+    title: "Pit of 100 Trials"
+    path: "Pit of 100 Trials.brstm"
+    type: betting
 ...

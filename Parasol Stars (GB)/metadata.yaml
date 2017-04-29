@@ -1,0 +1,16 @@
+---
+id: parasol_stars_gb
+title: "Parasol Stars (GB)"
+series: bubblebobble
+platform: "Various"
+year: 1991
+songs:
+  - id: main_bgm_parasol_stars_gb
+    title: "Main BGM"
+    path: "Parasol Stars Main Theme.brstm"
+    type: betting
+  - id: boss_bgm_parasol_stars_gb
+    title: "Boss BGM"
+    path: "Parasol Stars Boss.brstm"
+    type: warning
+...

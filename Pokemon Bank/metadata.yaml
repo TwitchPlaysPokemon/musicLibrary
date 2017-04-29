@@ -1,0 +1,16 @@
+---
+id: pokemon_bank
+title: "Pokémon Bank"
+series: pokemon
+platform: "3DS"
+year: 2013
+songs:
+  - id: event_pokemon_bank
+    title: "Event"
+    path: "Event.brstm"
+    type: break
+  - id: using_the_bank
+    title: "Using the Bank"
+    path: "Using the Bank.brstm"
+    type: break
+...

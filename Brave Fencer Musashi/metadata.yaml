@@ -1,0 +1,41 @@
+id: brave_fencer_musashi
+title: "Brave Fencer Musashi"
+platform: "PS1"
+year: 1998
+songs:
+  - id: skullpion
+    title: "Skullpion"
+    path: "122 Skullpion.minipsf"
+    type: battle
+  - id: thanks_everyone
+    title: "Thanks Everyone!"
+    path: "123 Thanks Everyone!.minipsf"
+    type: result
+  - id: wondorous_flower
+    title: "Wondrous Flower"
+    path: "127 Wondrous Flower.minipsf"
+    type: break
+  - id: sword_fight
+    title: "Sword Fight"
+    path: "208 Sword Fight.minipsf"
+    type: warning
+  - id: topos_groove_heaven
+    title: "Topo's Groove Heaven"
+    path: "229 Topo's Groove Heaven.minipsf"
+    type: result
+  - id: demon_of_darkness_power_1
+    title: "Demon of Darkness Power 1"
+    path: "233 Demon of Darkness Power 1.minipsf"
+    type: warning
+  - id: far_into_the_sky
+    title: "Far Into the Sky"
+    path: "240 Far Into the Sky.minipsf"
+    type: betting
+  - id: village_at_night
+    title: "Village at Night"
+    path: "905 Village at Night.minipsf"
+    type: break
+  - id: bar_musashi
+    title: "Bar"
+    path: "908 Bar.minipsf"
+    type: break

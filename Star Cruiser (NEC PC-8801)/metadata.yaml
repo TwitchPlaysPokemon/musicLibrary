@@ -1,0 +1,36 @@
+---
+id: star_cruiser_nec_pc_8801
+title: "Star Cruiser"
+platform: "NEC PC-8801"
+year: 1988
+songs:
+  - id: saturn
+    title: "Saturn"
+    path: "14 Saturn.vgz"
+    ends: 2:25
+    type: betting
+  - id: rigil_kent_system
+    title: "Rigil Kent System"
+    path: "18 Rigil Kent System.vgz"
+    type: betting
+  - id: desert_zone
+    title: "Desert Zone"
+    path: "11 Desert Zone.vgz"
+    type: betting
+  - id: bio_plant
+    title: "Bio Plant"
+    path: "19 Bio Plant.vgz"
+    type: warning
+  - id: nineteen
+    title: "Nineteen"
+    path: "30 Nineteen.vgz"
+    type: betting
+  - id: the_great_red_spot
+    title: "The Great Red Spot"
+    path: "09 The Great Red Spot.vgz"
+    type: break
+  - id: june
+    title: "June"
+    path: "10 June.vgz"
+    type: break
+...

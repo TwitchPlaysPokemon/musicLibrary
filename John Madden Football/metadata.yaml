@@ -1,0 +1,16 @@
+---
+id: john_madden_football
+title: "John Madden Football"
+series: maddennfl
+platform: ["SMD", "SNES", "3DO"]
+year: 1990
+songs:
+  - id: statistics_madden
+    title: "Statistics"
+    path: "03 - Statistics.vgz"
+    type: result
+  - id: end_of_game_madden
+    title: "End of Game"
+    path: "05 - End of Game.vgz"
+    type: result
+...

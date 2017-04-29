@@ -1,8 +1,8 @@
 ---
 id: rogue_legacy
 title: "Rogue Legacy"
-year: 2013
 platform: "Various"
+year: 2013
 songs:
   - id: pistol_shrimp_rogue_legacy
     title: "Pistol Shrimp"
@@ -20,4 +20,8 @@ songs:
     title: "Castle"
     path: "Castle.brstm"
     type: break
+  - id: narwhal_maya_tower
+    title: "Narwhal (Maya / Tower)"
+    path: "Narwhal (Maya  Tower).brstm"
+    type: betting
 ...

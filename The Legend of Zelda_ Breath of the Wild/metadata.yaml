@@ -2,8 +2,8 @@
 id: the_legend_of_zelda_breath_of_the_wild
 title: "The Legend of Zelda: Breath of the Wild"
 series: zelda
-year: 2017
 platform: ["Switch", "Wii U"]
+year: 2017
 songs:
   - id: akkala_ancient_tech_lab
     title: "Akkala Ancient Tech Lab"
@@ -33,4 +33,45 @@ songs:
     title: "Dragon"
     path: "Dragon.brstm"
     type: break
+  - id: dark_beast_ganon_hatred_and_malice_incarnate_phase_one
+    title: "Dark Beast Ganon ~ Hatred and Malice Incarnate (Phase One)"
+    path: "Dark Beast Ganon ~ Matred and Malice Incarnate (Phase One).brstm"
+    type: betting
+  - id: calamity_ganon_scourge_of_hyrule_castle_phase_two
+    title: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase Two)"
+    path: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase Two).brstm"
+    type: battle
+  - id: battle_guardian
+    title: "Battle - Guardian"
+    path: "Battle - Guardian.brstm"
+    type: warning
+  - id: talus_battle
+    title: "Talus Battle"
+    path: "Talus Battle.brstm"
+    type: warning
+  - id: yiga_master_kohga_the_leader_of_the_yiga_clan
+    title: "Yiga Master Kohga ~ The Leader of the Yiga Clan"
+    path: "Yiga Master Kohga ~ The Leader of the Yiga Clan.brstm"
+    type: battle
+  - id: hyrule_castle_full_channel_mix
+    title: "Hyrule Castle (Full Channel Mix)"
+    path: "Hyrule Castle (Full Channel Mix).brstm"
+    type: betting
+  - id: main_theme_the_legend_of_zelda_breath_of_the_wild
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    ends: 1:56
+    type: betting
+  - id: calamity_ganon_scourge_of_hyrule_castle_phase_one
+    title: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase One)"
+    path: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase One).brstm"
+    type: warning
+  - id: goron_city_day
+    title: "Goron City - Day"
+    path: "Goron City - Day.brstm"
+    type: betting
+  - id: zoras_domain_day
+    title: "Zora's Domain - Day"
+    path: "Zora's Domain - Day.brstm"
+    type: betting
 ...

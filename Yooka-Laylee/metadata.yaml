@@ -1,0 +1,33 @@
+id: yooka_laylee
+title: "Yooka-Laylee"
+platform: "Various"
+year: 2017
+songs:
+  - id: armed_and_dangerous
+    title: "Armed and Dangerous"
+    path: "Armed and Dangerous.logg"
+    type: battle
+  - id: hivory_towers
+    title: "Hivory Towers"
+    path: "Hivory Towers.logg"
+    type: betting
+  - id: shipwreck_creek
+    title: "Shipwreck Creek"
+    path: "Shipwreck Creek.brstm"
+    type: break
+  - id: track_attack
+    title: "Track Attack"
+    path: "Track Attack.logg"
+    type: warning
+  - id: world_1_yl
+    title: "World 1 Theme"
+    path: "World 1 Theme.logg"
+    type: betting
+  - id: world_4_1_yl
+    title: "World 4 Variant 1"
+    path: "World 4 Variant 1.logg"
+    type: break
+  - id: world_4_2_yl
+    title: "World 4 Variant 2"
+    path: "World 4 Variant 2.logg"
+    type: betting

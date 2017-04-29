@@ -1,11 +1,12 @@
 ---
 id: zone_of_the_enders
-platform: "PS2"
 title: "Zone of the Enders"
+series: zoneoftheenders
+platform: ["PS2", "PS3", "360"]
 year: 2001
 songs: 
-  - id: vr_training
-    path: "VR Training.brstm"
-    title: "VR Training"
-    type: betting #formerly battle
+  - id: boss_neves
+    title: "Boss (Neves)"
+    path: "Boss (Neves).brstm"
+    type: warning
 ...

@@ -9,4 +9,32 @@ songs:
     title: "Science Will Never Die"
     path: "Science Will Never Die.brstm"
     type: battle
+  - id: chorus_in_the_darkness
+    title: "Chorus in the Darkness"
+    path: "Chorus in the Darkness.brstm"
+    type: warning
+  - id: power_of_destroyer
+    title: "Power of Destroyer"
+    path: "Power of Destroyer.brstm"
+    type: warning
+  - id: power_of_destroyer_limit_break_mix
+    title: "Power of Destroyer ~Limit Break Mix~"
+    path: "Power of Destroyer ~Limit Break Mix~.brstm"
+    type: warning
+  - id: swipe_of_sword_credo
+    title: "Swipe of Sword (Credo)"
+    path: "Swipe of Sword (Credo).brstm"
+    type: battle
+  - id: temptation_bael_tentacle_combat
+    title: "Temptation (Bael Tentacle Combat)"
+    path: "Temptation (Bael Tentacle Combat).brstm"
+    type: warning
+  - id: the_last_blow_god_final_battle
+    title: "The Last Blow (God Final Battle)"
+    path: "The Last Blow (God Final Battle).brstm"
+    type: warning
+  - id: the_viper
+    title: "The Viper"
+    path: "The Viper.brstm"
+    type: battle
 ...

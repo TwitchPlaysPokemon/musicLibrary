@@ -2,8 +2,8 @@
 id: sonic_adventure
 title: "Sonic Adventure"
 series: sonic
-year: 1998
 platform: "Dreamcast"
+year: 1998
 songs:
   - id: boss_chaos_ver_6
     title: "Boss Chaos ver. 6"
@@ -170,4 +170,8 @@ songs:
     title: "Tornado for Windy Valley"
     path: "Tornado for Windy Valley.brstm"
     type: warning
+  - id: unknown_from_me
+    title: "Unknown from M.E."
+    path: "Unknown from ME (Knuckles' Theme) (Short No Vocals).brstm"
+    type: betting
 ...

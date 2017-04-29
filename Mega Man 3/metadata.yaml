@@ -1,18 +1,18 @@
 ---
 id: mega_man_3
-platform: "NES"
 title: "Mega Man 3"
 series: megaman
+platform: "NES"
 year: 1990
 songs: 
   - id: sparkman_stage
-    path: "Sparkman Stage.brstm"
     title: "Spark Man"
+    path: "Sparkman Stage.brstm"
     type: betting
   - id: needleman_stage
-    path: "Needleman Stage.brstm"
     title: "Needle Man"
-    type: betting # why was this warning?
+    path: "Needleman Stage.brstm"
+    type: betting
   - id: staff_roll_mm3
     title: "Staff Roll"
     path: "Ending Theme.brstm"
@@ -32,5 +32,21 @@ songs:
   - id: title_theme_mm3
     title: "Title Theme"
     path: "Title Theme.brstm"
+    type: betting
+  - id: password_screen_mm3
+    title: "Password Screen"
+    path: "Password Screen.brstm"
+    type: result
+  - id: boss_battle_mm3
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: hard_man_stage
+    title: "Hard Man Stage"
+    path: "Hardman Stage.brstm"
+    type: betting
+  - id: gemini_man_stage
+    title: "Gemini Man Stage"
+    path: "Geminiman Stage.brstm"
     type: betting
 ...

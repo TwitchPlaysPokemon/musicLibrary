@@ -1,0 +1,23 @@
+---
+id: uwol_quest_for_money_snes
+title: "Uwol: Quest for Money (SNES)"
+platform: ["SMD", "SNES", "ZX Spectrum"]
+year: 2013
+songs:
+  - id: title_screen_uwol_quest_for_money_snes
+    title: "Title Screen"
+    path: "Title Screen (Bootlegs Mix Full Version).brstm"
+    type: betting
+  - id: pyramid_uwol_quest_for_money_snes
+    title: "Pyramid"
+    path: "Pyramid.brstm"
+    type: warning
+  - id: zone_4_uwol_quest_for_money_snes
+    title: "Zone 4"
+    path: "Zone 4.brstm"
+    type: warning
+  - id: ending_2_uwol_quest_for_money_snes
+    title: "Ending 2"
+    path: "Ending 2.brstm"
+    type: result
+...

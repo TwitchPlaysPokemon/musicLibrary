@@ -2,8 +2,8 @@
 id: kirby_fighters_deluxe
 title: "Kirby Fighters Deluxe"
 series: kirby
-year: 2014
 platform: "3DS"
+year: 2014
 songs:
   - id: select_copy_ability_kfd
     title: "Select Copy Ability"
@@ -17,4 +17,8 @@ songs:
     title: "Title Theme"
     path: "Title Theme.brstm"
     type: warning
+  - id: history_of_dedede
+    title: "History of Dedede"
+    path: "History of Dedede.brstm"
+    type: battle
 ...

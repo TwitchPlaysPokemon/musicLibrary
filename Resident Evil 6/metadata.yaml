@@ -1,0 +1,16 @@
+---
+id: resident_evil_6
+title: "Resident Evil 6"
+series: residentevil
+platform: "Various"
+year: 2012
+songs:
+  - id: the_mercenaries_resident_evil_6
+    title: "The Mercenaries"
+    path: "The Mercenaries.brstm"
+    type: battle
+  - id: main_theme_resident_evil_6
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+...

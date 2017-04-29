@@ -1,8 +1,8 @@
 ﻿---
 id: pokemon_black_and_white
-platform: "NDS"
 title: "Pokémon Black/White"
 series: pokemon
+platform: "NDS"
 year: 2010
 songs: 
   - id: nuvema_town
@@ -573,4 +573,12 @@ songs:
     path: "Summer in Kagome (Lacunosa Town Remix).brstm"
     title: "Summer in Kagome"
     type: break
+  - id: the_royal_unova_pleasure_boat
+    path: "Pleasure Boat.brstm"
+    title: "The Royal Unova"
+    type: break
+  - id: opelucid_city_white
+    path: "Opelucid City (White).brstm"
+    title: "Opelucid City (White)"
+    type: betting
 ...

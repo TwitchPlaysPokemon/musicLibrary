@@ -1,11 +1,33 @@
 ---
 id: age_of_empires_ii
-title: "Age of Empires II"
+title: "Age of Empires II: The Age of Kings"
+series: ageofempires
+platform: ["PC", "PS2"]
 year: 1999
-platform: "PC+PS2"
 songs:
-  - id: ageofempiresiimachinadeldiablo
+  - id: bass_bag_album_version
+    title: "Bass Bag (Album Version)"
+    path: "Bass Bag (Album Version).brstm"
+    ends: 2:13
+    type: betting
+  - id: machina_del_diablo
     title: "Machina del Diablo"
-    path: "AgeofEmpiresIIMachinadelDiablo.brstm"
-    type: betting 
+    path: "Machina del Diablo.brstm"
+    ends: 2:43
+    type: betting
+  - id: smells_like_crickets_tastes_like_chicken
+    title: "Smells Like Crickets, Tastes Like Chicken"
+    path: "Smells Like Crickets, Tastes Like Chicken.brstm"
+    ends: 2:36
+    type: betting
+  - id: t_station
+    title: "T Station"
+    path: "T Station.brstm"
+    ends: 2:25
+    type: betting
+  - id: tazer
+    title: "Tazer"
+    path: "Tazer.brstm"
+    ends: 2:29
+    type: betting
 ...

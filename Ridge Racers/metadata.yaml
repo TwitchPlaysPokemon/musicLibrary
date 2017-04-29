@@ -1,7 +1,8 @@
+---
 id: ridge_racer
 title: "Ridge Racer"
-year: 1993
 platform: ["Arcade", "PS1"]
+year: 1993
 songs:
   - id: vanishing_horizon
     title: "Vanishing Horizon"
@@ -11,3 +12,8 @@ songs:
     title: "Ridge Racer"
     path: "Ridge Racer.brstm"
     type: betting
+  - id: move_me
+    title: "Move Me"
+    path: "Move Me.brstm"
+    type: betting
+...

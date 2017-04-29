@@ -1,6 +1,7 @@
 ---
 id: hyperdimension_neptunia_mk_2
 title: "Hyperdimension Neptunia Mk 2"
+series: neptunia
 year: 2011
 platform: "PC+PS3+Vita"
 songs:
@@ -48,4 +49,20 @@ songs:
     title: "Scamper"
     path: "Neptunia Scamper.brstm"
     type: battle
+  - id: decisive_battle_hyperdimension_neptunia_mk_2
+    title: "Decisive Battle"
+    path: "Decisive Battle.brstm"
+    type: warning
+  - id: war_readiness
+    title: "War Readiness"
+    path: "War Readiness.brstm"
+    type: warning
+  - id: unis_theme
+    title: "Uni's Theme"
+    path: "Uni's Theme.brstm"
+    type: battle
+  - id: tear_drop
+    title: "Tear Drop"
+    path: "Tear Drop.brstm"
+    type: break
 ...

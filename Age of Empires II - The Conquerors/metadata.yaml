@@ -1,0 +1,29 @@
+---
+id: age_of_empires_ii_the_conquerors
+title: "Age of Empires II: The Conquerors"
+series: ageofempires
+platform: "PC"
+year: 2000
+songs:
+  - id: basura_basura
+    title: "Basura! Basura!"
+    path: "Basura! Basura!.brstm"
+    ends: 2:44
+    type: betting
+  - id: neep_ninny_bod_mix_2
+    title: "Neep Ninny-Bod (Mix 2)"
+    path: "Neep Ninny-Bod (Mix 2).brstm"
+    type: betting
+  - id: seamus_and_chamois
+    title: "Seamus & Chamois"
+    path: "Seamus & Chamois.brstm"
+    type: break
+  - id: the_monkey_book
+    title: "The Monkey Book"
+    path: "The Monkey Book.brstm"
+    type: break
+  - id: tide_me_over_warm_em_ups
+    title: "Tide Me Over Warm 'em Ups"
+    path: "Tide Me Over Warm 'em Ups.brstm"
+    type: break
+...

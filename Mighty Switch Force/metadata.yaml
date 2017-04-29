@@ -2,8 +2,8 @@
 id: mighty_switch_force
 title: "Mighty Switch Force"
 series: mightyswitchforce
+platform: ["3DS", "Wii U"]
 year: 2011
-platform: "3DS+Wii U"
 songs:
   - id: end_credits
     title: "End Credits"
@@ -24,7 +24,7 @@ songs:
   - id: whoa_i'm_in_space_cuba
     title: "Whoa I'm In Space Cuba"
     path: "Whoa I'm In Space Cuba.brstm"
-    type: result
+    type: betting
   - id: jive_bot
     title: "Jive Bot"
     path: "Jive Bot.brstm"

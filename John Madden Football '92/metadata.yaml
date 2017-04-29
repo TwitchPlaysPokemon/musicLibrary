@@ -1,7 +1,8 @@
+---
 id: john_madden_football_92
 title: "John Madden Football '92"
-platform: "Genesis"
-series: johnmadden
+platform: "SMD"
+series: maddennfl
 year: 1991
 songs: 
   - id: title_theme_madden92
@@ -12,3 +13,4 @@ songs:
     title: "Statistics"
     path: "03 - Statistics.vgz"
     type: warning
+...

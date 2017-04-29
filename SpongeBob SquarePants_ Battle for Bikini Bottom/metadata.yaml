@@ -1,7 +1,8 @@
+---
 id: spongebob_battle_for_bikini_bottom
 title: "SpongeBob SquarePants: Battle for Bikini Bottom"
-year: 2003
 platform: ["PS2", "Xbox", "PC"]
+year: 2003
 songs:
   - id: big_fight_mini_boss_spongebob
     title: "Big Fight / Mini-Boss"
@@ -15,3 +16,12 @@ songs:
     title: "Chum Bucket Lab"
     path: "Chum Bucket Lab.brstm"
     type: battle
+  - id: jellyfish_fields
+    title: "Jellyfish Fields"
+    path: "Jellyfish Fields.brstm"
+    type: betting
+  - id: poseidome
+    title: "Poseidome"
+    path: "Poseidome.brstm"
+    type: betting
+...

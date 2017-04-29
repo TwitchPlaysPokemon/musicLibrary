@@ -4,7 +4,12 @@ series: metalslug
 year: 2000
 platform: "Arcade+Neo-Geo"
 songs:
-  - id: desert_metalslug3
+  - id: desert_metal_slug_3
     title: "Desert"
     path: "Desert.brstm"
     type: battle
+  - id: steel_beasts_6beets_metal_slug_3
+    title: "Steel Beasts 6Beets"
+    path: "Steel Beasts 6Beets.brstm"
+    type: warning
+...

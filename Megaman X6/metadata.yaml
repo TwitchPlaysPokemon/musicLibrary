@@ -2,8 +2,8 @@
 id: megaman_x6
 title: "Mega Man X6"
 series: megaman
-year: 2001
 platform: "PS1"
+year: 2001
 songs:
   - id: blaze_heatnix
     title: "Blaze Heatnix (Magma Area)"
@@ -57,7 +57,7 @@ songs:
   - id: gates_laboratory_1_2
     title: "Gate's Laboratory Stage 1-2 (Secret Lab)"
     path: "Gate's Laboratory Stage 1-2 (Secret Lab).brstm"
-    type: warning
+    type: battle
   - id: hi_max_sequenced
     title: "Hi-MAX (Sequenced)"
     path: "Hi-MAX (Sequenced).brstm"

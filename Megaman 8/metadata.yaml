@@ -2,8 +2,8 @@
 id: mega_man_8
 title: "Mega Man 8"
 series: megaman
+platform: ["PS1", "Saturn"]
 year: 1996
-platform: "PS1+Saturn"
 songs:
   - id: opening_stage
     title: "Opening Stage"
@@ -49,4 +49,8 @@ songs:
     title: "Frost Man"
     path: "08 Frost Man.psf"
     type: betting
+  - id: staff_roll_mm8
+    title: "Staff Roll"
+    path: "Staff Roll.brstm"
+    type: break
 ...

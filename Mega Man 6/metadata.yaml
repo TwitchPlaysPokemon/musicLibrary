@@ -1,17 +1,17 @@
 ---
 id: mega_man_6
-platform: "NES"
 title: "Mega Man 6"
 series: megaman
+platform: "NES"
 year: 1993
 songs: 
   - id: flame_man
-    path: "Flame Man.brstm"
     title: "Flame Man"
+    path: "Flame Man.brstm"
     type: result
   - id: knightman_stage
-    path: "Knightman Stage.brstm"
     title: "Knight Man"
+    path: "Knightman Stage.brstm"
     type: betting
   - id: credits_mm6
     title: "Credits"
@@ -24,5 +24,9 @@ songs:
   - id: mr_x_stages
     title: "Mr. X Stages"
     path: "Mr X Stages.brstm"
+    type: betting
+  - id: blizzard_man_stage
+    title: "Blizzard Man Stage"
+    path: "Blizzard Man.brstm"
     type: betting
 ...

@@ -1,0 +1,72 @@
+---
+id: paper_mario_sticker_star
+title: "Paper Mario: Sticker Star"
+series: mario
+platform: "3DS"
+year: 2012
+songs:
+  - id: a_thousand_miles_away_normal
+    title: "A Thousand Miles Away"
+    path: "A Thousand Miles Away (Normal).brstm"
+    type: betting
+  - id: approach_of_the_giant_fish
+    title: "Approach of the Giant Fish"
+    path: "Approach of the Giant Fish.brstm"
+    type: warning
+  - id: big_boo_waltz
+    title: "Big Boo Waltz"
+    path: "Big Boo Waltz.brstm"
+    type: warning
+  - id: blue_skies_white_clouds
+    title: "Blue Skies, White Clouds"
+    path: "Blue Skies, White Clouds.brstm"
+    type: betting
+  - id: boo_night_fever
+    title: "Boo Night Fever"
+    path: "Boo Night Fever.brstm"
+    type: result
+  - id: bowser_jr_battle_sticker_star
+    title: "Bowser Jr. Battle"
+    path: "Bowser Jr Battle.brstm"
+    type: warning
+  - id: megasparkle_goombas_brilliant_battle
+    title: "Megasparkle Goomba's Brilliant Battle"
+    path: "Megasparkle Goomba's Brilliant Battle.brstm"
+    type: battle
+  - id: danger_at_surfshine_harbor
+    title: "Danger at Surfshine Harbor"
+    path: "Danger at Surfshine Harbor.brstm"
+    type: warning
+  - id: ice_flow
+    title: "Ice Flow"
+    path: "Ice Flow.brstm"
+    type: betting
+  - id: its_hot_so_hot
+    title: "It's Hot, So Hot"
+    path: "It's Hot, So Hot.brstm"
+    type: betting
+  - id: malevolent_magikoopa_kamek_battle
+    title: "Malevolent Magikoopa, Kamek Battle"
+    path: "Malevolent Magikoopa, Kamek Battle.brstm"
+    type: warning
+  - id: normal_battle_theme_no_intro_sticker_star
+    title: "Normal Battle Theme"
+    path: "Normal Battle Theme (No Intro).brstm"
+    type: betting
+  - id: sling_a_thing
+    title: "Sling-a-Thing"
+    path: "Sling-a-Thing.brstm"
+    type: result
+  - id: sparkling_king_bowser_and_co_battle
+    title: "Sparkling King, Bowser and Co. Battle"
+    path: "Sparkling King, Bowser & Co Battle.brstm"
+    type: battle
+  - id: starman_sticker_star
+    title: "Starman"
+    path: "Starman.brstm"
+    type: warning
+  - id: that_guy_who_got_baffled_in_the_bafflewoods
+    title: "That Guy Who Got Baffled in the Bafflewoods"
+    path: "That Guy Who Got Baffled in the Bafflewoods.brstm"
+    type: break
+...

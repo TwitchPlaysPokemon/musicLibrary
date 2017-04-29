@@ -1,0 +1,20 @@
+---
+id: nes_remix_2
+title: "NES Remix 2"
+series: nesremix
+platform: "Wii U"
+year: 2014
+songs:
+  - id: super_mario_bros_christmas_remix
+    title: "Super Mario Bros. Christmas Remix"
+    path: "Super Mario Bros Christmas Remix.brstm"
+    type: betting
+  - id: main_theme_nes_remix_2
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: result
+  - id: super_mario_bros_3_p_switch_remix
+    title: "Super Mario Bros. 3 P-Switch Remix"
+    path: "Super Mario Bros 3 P-Switch Remix.brstm"
+    type: warning
+...

@@ -1,369 +1,369 @@
 ---
 id: pokemon_x
-platform: "3DS"
 title: "Pokémon X/Y"
+platform: "3DS"
 series: pokemon
 year: 2013
 songs: 
   - id: battle_elite_four_x
-    path: "Battle! Elite Four.brstm"
     title: "Battle! Elite Four"
+    path: "Battle! Elite Four.brstm"
     type: battle
   - id: anistar_city
-    path: "Anistar City.brstm"
     title: "Anistar City"
+    path: "Anistar City.brstm"
     type: betting
   - id: aquacorde_town
-    path: "Aquacorde Town.brstm"
     title: "Aquacorde Town"
+    path: "Aquacorde Town.brstm"
     type: betting
   - id: battle_champion_x
-    path: "Battle! Champion.brstm"
     title: "Battle! Champion"
+    path: "Battle! Champion.brstm"
     type: battle
   - id: battle_friend
-    path: "Battle! Friend.brstm"
     title: "Battle! Friend"
+    path: "Battle! Friend.brstm"
     type: battle
   - id: battle_gym_leader_x
-    path: "Battle! Gym Leader.brstm"
     title: "Battle! Gym Leader"
+    path: "Battle! Gym Leader.brstm"
     type: battle
   - id: battle_gym_leader_dance_mix
-    path: "Battle! Gym Leader (Dance Mix).brstm"
     title: "Battle! Gym Leader (Dance Mix)"
+    path: "Battle! Gym Leader (Dance Mix).brstm"
     type: battle
   - id: battle_lysandre
-    path: "Battle! Lysandre.brstm"
     title: "Battle! Lysandre"
+    path: "Battle! Lysandre.brstm"
     type: battle
   - id: battle_team_flare_x
-    path: "Battle! Team Flare.brstm"
     title: "Battle! Team Flare"
+    path: "Battle! Team Flare.brstm"
     type: battle
   - id: battle_trainer_x
-    path: "Battle! Trainer.brstm"
     title: "Battle! Trainer"
+    path: "Battle! Trainer.brstm"
     type: battle
   - id: battle_wild_pokemon_x
-    path: "Battle! Wild Pokémon.brstm"
     title: "Battle! Wild Pokémon"
+    path: "Battle! Wild Pokémon.brstm"
     type: battle
   - id: battle_world_championship_finals
-    path: "Battle! World Championship Finals.brstm"
     title: "Battle! World Championship Finals"
+    path: "Battle! World Championship Finals.brstm"
     type: battle
   - id: battle_xerneas_yveltal
-    path: "Battle! Xerneas-Yveltal.brstm"
     title: "Battle! Xerneas-Yveltal"
+    path: "Battle! Xerneas-Yveltal.brstm"
     type: battle
   - id: berry_picker
-    path: "Berry Picker.brstm"
     title: "Berry Picker"
+    path: "Berry Picker.brstm"
     type: betting
   - id: bicycle_x
-    path: "Bicycle.brstm"
     title: "Bicycle"
+    path: "Bicycle.brstm"
     type: result
   - id: boutique
-    path: "Boutique.brstm"
     title: "Boutique"
+    path: "Boutique.brstm"
     type: betting
   - id: camphrier_town
-    path: "Camphrier Town.brstm"
     title: "Camphrier Town"
+    path: "Camphrier Town.brstm"
     type: betting
   - id: coiffure_clips
-    path: "Coiffure Clips.brstm"
     title: "Coiffure Clips"
+    path: "Coiffure Clips.brstm"
     type: betting
   - id: hall_of_fame_x
-    path: "Congratulations on Entering the Hall of Fame!.brstm"
     title: "Congratulations on Entering the Hall of Fame!"
+    path: "Congratulations on Entering the Hall of Fame!.brstm"
     type: result
   - id: coumarine_city
-    path: "Coumarine City.brstm"
     title: "Coumarine City"
+    path: "Coumarine City.brstm"
     type: betting
   - id: cyllage_city
-    path: "Cyllage City.brstm"
     title: "Cyllage City"
+    path: "Cyllage City.brstm"
     type: betting
   - id: dark_skies
-    path: "Dark Skies.brstm"
     title: "Dark Skies"
-    type: betting
+    path: "Dark Skies.brstm"
+    type: warning
   - id: dendemille_town
-    path: "Dendemille Town.brstm"
     title: "Dendemille Town"
+    path: "Dendemille Town.brstm"
     type: betting
   - id: evolution_x
-    path: "Evolution.brstm"
     title: "Evolution"
+    path: "Evolution.brstm"
     type: warning
   - id: friend_safari
-    path: "Friend Safari.brstm"
     title: "Friend Safari"
+    path: "Friend Safari.brstm"
     type: betting
   - id: friends_theme_a_new_metting
-    path: "Friends Theme - A New Meeting.brstm"
     title: "Friends Theme - A New Meeting"
+    path: "Friends Theme - A New Meeting.brstm"
     type: betting
   - id: friends_theme_friends_forever
-    path: "Friends Theme - Friends Forever.brstm"
     title: "Friends Theme - Friends Forever"
+    path: "Friends Theme - Friends Forever.brstm"
     type: break
   - id: friends_theme_reunited
-    path: "Friends Theme - Reunited.brstm"
     title: "Friends Theme - Reunited"
+    path: "Friends Theme - Reunited.brstm"
     type: betting
   - id: game_sync_x
-    path: "Game Sync.brstm"
     title: "Game Sync"
+    path: "Game Sync.brstm"
     type: break
   - id: gate_x
-    path: "Gate.brstm"
     title: "Gate"
+    path: "Gate.brstm"
     type: betting
   - id: geosenge_town
-    path: "Geosenge Town.brstm"
     title: "Geosenge Town"
+    path: "Geosenge Town.brstm"
     type: betting
   - id: glittering_cave
-    path: "Glittering Cave.brstm"
     title: "Glittering Cave"
+    path: "Glittering Cave.brstm"
     type: betting
   - id: gts_x
-    path: "GTS.brstm"
     title: "GTS"
+    path: "GTS.brstm"
     type: betting
   - id: head_it
-    path: "Head It.brstm"
     title: "Head It"
+    path: "Head It.brstm"
     type: result
   - id: hotel_richissime
-    path: "Hotel Richissime.brstm"
     title: "Hotel Richissime"
+    path: "Hotel Richissime.brstm"
     type: betting
   - id: its_a_pokemon_battle
-    path: "It's a Pokémon Battle!.brstm"
     title: "It's a Pokémon Battle!"
+    path: "It's a Pokémon Battle!.brstm"
     type: warning
   - id: jubilife_city
-    path: "Jubilife City.brstm"
     title: "Jubilife City"
+    path: "Jubilife City.brstm"
     type: betting
   - id: kiloude_city
-    path: "Kiloude City.brstm"
     title: "Kiloude City"
+    path: "Kiloude City.brstm"
     type: betting
   - id: kiseki
-    path: "Kiseki.brstm"
     title: "Kiseki"
+    path: "Kiseki.brstm"
     type: break
   - id: laverre_city
-    path: "Laverre City.brstm"
     title: "Laverre City"
+    path: "Laverre City.brstm"
     type: betting
   - id: lookers_theme_x
-    path: "Looker's Theme.brstm"
     title: "Looker's Theme"
+    path: "Looker's Theme.brstm"
     type: warning
   - id: lookers_in_trouble
-    path: "Looker's in Trouble!.brstm"
     title: "Looker's in Trouble!"
+    path: "Looker's in Trouble!.brstm"
     type: warning
   - id: lookers_sorrowful_theme
-    path: "Looker's Sorrowful Theme.brstm"
     title: "Looker's Sorrowful Theme"
+    path: "Looker's Sorrowful Theme.brstm"
     type: warning
   - id: lumiose_city
-    path: "Lumiose City.brstm"
     title: "Lumiose City"
+    path: "Lumiose City.brstm"
     type: betting
   - id: lysandre_labs
-    path: "Lysandre Labs.brstm"
     title: "Lysandre Labs"
+    path: "Lysandre Labs.brstm"
     type: betting
   - id: parfum_palace
-    path: "Parfum Palace.brstm"
     title: "Parfum Palace"
+    path: "Parfum Palace.brstm"
     type: betting
   - id: pokemon_center_x
-    path: "Pokémon Center.brstm"
     title: "Pokémon Center"
+    path: "Pokémon Center.brstm"
     type: betting
   - id: pokemon_gyn
-    path: "Pokémon Gym.brstm"
     title: "Pokémon Gym"
+    path: "Pokémon Gym.brstm"
     type: betting
   - id: pokemon_league_x
-    path: "Pokémon League.brstm"
     title: "Pokémon League"
+    path: "Pokémon League.brstm"
     type: betting
   - id: pokemon_village
-    path: "Pokémon Village.brstm"
     title: "Pokémon Village"
+    path: "Pokémon Village.brstm"
     type: betting
   - id: pokemon_center_birthday_x
-    path: "Pokémon Center (Birthday).brstm"
     title: "Pokémon Center (Birthday)"
+    path: "Pokémon Center (Birthday).brstm"
     type: betting
   - id: pr_video_studio
-    path: "PR Video Studio.brstm"
     title: "PR Video Studio"
+    path: "PR Video Studio.brstm"
     type: betting
   - id: professor_sycamores_theme
-    path: "Professor Sycamore's Theme.brstm"
     title: "Professor Sycamore's Theme"
+    path: "Professor Sycamore's Theme.brstm"
     type: betting
   - id: route_1_x
-    path: "Route 1.brstm"
     title: "Route 1"
+    path: "Route 1.brstm"
     type: betting
   - id: route_15
-    path: "Route 15.brstm"
     title: "Route 15"
+    path: "Route 15.brstm"
     type: betting
   - id: route_18
-    path: "Route 18.brstm"
     title: "Route 18"
+    path: "Route 18.brstm"
     type: betting
   - id: route_2_x
-    path: "Route 2.brstm"
     title: "Route 2"
+    path: "Route 2.brstm"
     type: betting
   - id: route_4_x
-    path: "Route 4.brstm"
     title: "Route 4"
+    path: "Route 4.brstm"
     type: betting
   - id: route_8
-    path: "Route 8.brstm"
     title: "Route 8"
+    path: "Route 8.brstm"
     type: betting
   - id: santalune_city
-    path: "Santalune City.brstm"
     title: "Santalune City"
+    path: "Santalune City.brstm"
     type: betting
   - id: santalune_forest
-    path: "Santalune Forest.brstm"
     title: "Santalune Forest"
+    path: "Santalune Forest.brstm"
     type: betting
   - id: scary_house
-    path: "Scary House.brstm"
     title: "Scary House"
+    path: "Scary House.brstm"
     type: betting
   - id: secret_super_training
-    path: "Secret Super Training!.brstm"
     title: "Secret Super Training!"
+    path: "Secret Super Training!.brstm"
     type: battle
   - id: shalour_city
-    path: "Shalour City.brstm"
     title: "Shalour City"
+    path: "Shalour City.brstm"
     type: betting
   - id: shopping
-    path: "Shopping.brstm"
     title: "Shopping"
+    path: "Shopping.brstm"
     type: betting
   - id: snowbelle_city
-    path: "Snowbelle City.brstm"
     title: "Snowbelle City"
+    path: "Snowbelle City.brstm"
     type: betting
   - id: super_training
-    path: "Super Training!.brstm"
     title: "Super Training!"
+    path: "Super Training!.brstm"
     type: battle
   - id: success
-    path: "Success!.brstm"
     title: "Success!"
+    path: "Success!.brstm"
     type: result
   - id: surf_x
-    path: "Surf.brstm"
     title: "Surf"
+    path: "Surf.brstm"
     type: betting
   - id: sushi_high_roller
-    path: "Sushi High Roller.brstm"
     title: "Sushi High Roller"
+    path: "Sushi High Roller.brstm"
     type: warning
   - id: team_flare_appears
-    path: "Team Flare Appears!.brstm"
     title: "Team Flare Appears!"
+    path: "Team Flare Appears!.brstm"
     type: warning
   - id: team_flare_secret_hq
-    path: "Team Flare Secret HQ.brstm"
     title: "Team Flare Secret HQ"
+    path: "Team Flare Secret HQ.brstm"
     type: betting
   - id: the_kalos_power_plant
-    path: "The Kalos Power Plant.brstm"
     title: "The Kalos Power Plant"
+    path: "The Kalos Power Plant.brstm"
     type: betting
   - id: encounter_black_belt
-    path: "Trainer's Eyes Meet (Black Belt).brstm"
     title: "Trainer's Eyes Meet (Black Belt)"
+    path: "Trainer's Eyes Meet (Black Belt).brstm"
     type: warning
   - id: encounter_male_swimmer
-    path: "Trainer's Eyes Meet (Male Swimmer).brstm"
     title: "Trainer's Eyes Meet (Male Swimmer)"
+    path: "Trainer's Eyes Meet (Male Swimmer).brstm"
     type: warning
   - id: encounter_ace_trainer_x
-    path: "Trainers' Eyes Meet (Ace Trainer).brstm"
     title: "Trainers' Eyes Meet (Ace Trainer)"
+    path: "Trainers' Eyes Meet (Ace Trainer).brstm"
     type: warning
   - id: encounter_butler
-    path: "Trainers' Eyes Meet (Butler).brstm"
     title: "Trainers' Eyes Meet (Butler)"
+    path: "Trainers' Eyes Meet (Butler).brstm"
     type: warning
   - id: encounter_female_swimmer
-    path: "Trainers' Eyes Meet (Female Swimmer).brstm"
     title: "Trainers' Eyes Meet (Female Swimmer)"
+    path: "Trainers' Eyes Meet (Female Swimmer).brstm"
     type: warning
   - id: encounter_furisode_girl
-    path: "Trainers' Eyes Meet (Furisode Girl).brstm"
     title: "Trainers' Eyes Meet (Furisode Girl)"
+    path: "Trainers' Eyes Meet (Furisode Girl).brstm"
     type: warning
   - id: encounter_hiker_x
-    path: "Trainers' Eyes Meet (Hiker).brstm"
     title: "Trainers' Eyes Meet (Hiker)"
+    path: "Trainers' Eyes Meet (Hiker).brstm"
     type: warning
   - id: encounter_honeymooners
-    path: "Trainers' Eyes Meet (Honeymooners).brstm"
     title: "Trainers' Eyes Meet (Honeymooners)"
+    path: "Trainers' Eyes Meet (Honeymooners).brstm"
     type: warning
   - id: encounter_lass_x
-    path: "Trainers' Eyes Meet (Lass).brstm"
     title: "Trainers' Eyes Meet (Lass)"
+    path: "Trainers' Eyes Meet (Lass).brstm"
     type: warning
   - id: encounter_maid
-    path: "Trainers' Eyes Meet (Maid).brstm"
     title: "Trainers' Eyes Meet (Maid)"
+    path: "Trainers' Eyes Meet (Maid).brstm"
     type: warning
   - id: encounter_pokefan_x
-    path: "Trainers' Eyes Meet (Poké Fan).brstm"
     title: "Trainers' Eyes Meet (Poké Fan)"
+    path: "Trainers' Eyes Meet (Poké Fan).brstm"
     type: warning
   - id: encounter_psychic_x
-    path: "Trainers' Eyes Meet (Psychic).brstm"
     title: "Trainers' Eyes Meet (Psychic)"
+    path: "Trainers' Eyes Meet (Psychic).brstm"
     type: warning
   - id: encounter_punk_guy
-    path: "Trainers' Eyes Meet (Punk Guy).brstm"
     title: "Trainers' Eyes Meet (Punk Guy)"
+    path: "Trainers' Eyes Meet (Punk Guy).brstm"
     type: warning
   - id: encounter_team_flare
-    path: "Trainers' Eyes Meet (Team Flare).brstm"
     title: "Trainers' Eyes Meet (Team Flare)"
+    path: "Trainers' Eyes Meet (Team Flare).brstm"
     type: warning
   - id: encounter_tourist
-    path: "Trainers' Eyes Meet (Tourist).brstm"
     title: "Trainers' Eyes Meet (Tourist)"
+    path: "Trainers' Eyes Meet (Tourist).brstm"
     type: warning
   - id: encounter_twins_x
-    path: "Trainers' Eyes Meet (Twins).brstm"
     title: "Trainers' Eyes Meet (Twins)"
+    path: "Trainers' Eyes Meet (Twins).brstm"
     type: warning
   - id: encounter_youngster_x
-    path: "Trainers' Eyes Meet (Youngster).brstm"
     title: "Trainers' Eyes Meet (Youngster)"
+    path: "Trainers' Eyes Meet (Youngster).brstm"
     type: warning
 #      - id: try_again
 #        path: "Try Again.brstm"
@@ -371,28 +371,28 @@ songs:
 #        type: result
 # unfitting result song
   - id: vaniville_town
-    path: "Vaniville Town.brstm"
     title: "Vaniville Town"
+    path: "Vaniville Town.brstm"
     type: betting
   - id: victory_road_x
-    path: "Victory Road.brstm"
     title: "Victory Road"
+    path: "Victory Road.brstm"
     type: betting
   - id: victory_champion_x
-    path: "Victory! (Champion).brstm"
     title: "Victory! (Champion)"
+    path: "Victory! (Champion).brstm"
     type: result
   - id: victory_gym_leader
-    path: "Victory! (Gym Leader).brstm"
     title: "Victory! (Gym Leader)"
+    path: "Victory! (Gym Leader).brstm"
     type: result
   - id: victory_trained_battle
-    path: "Victory! (Trainer Battle).brstm"
     title: "Victory! (Trainer Battle)"
+    path: "Victory! (Trainer Battle).brstm"
     type: result
   - id: victory_wild_pokemon
-    path: "Victory! (Wild Pokémon).brstm"
     title: "Victory! (Wild Pokémon)"
+    path: "Victory! (Wild Pokémon).brstm"
     type: result
   - id: victory_team_flare
     title: "Victory! (Team Flare)"

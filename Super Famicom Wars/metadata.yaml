@@ -1,0 +1,17 @@
+id: sfc_wars
+title: "Super Famicom Wars"
+platform: "SFC"
+year: 1998
+songs:
+  - id: caroline_theme
+    title: "Caroline's Theme"
+    path: "Caroline's Theme.spc"
+    type: betting
+  - id: hetler_theme
+    title: "Hetler's Theme"
+    path: "Hetler's Theme.spc"
+    type: result
+  - id: staff_roll_sfc
+    title: "Staff Roll"
+    path: "Staff Roll.spc"
+    type: result

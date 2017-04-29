@@ -1,0 +1,10 @@
+id: svc_motm
+title: "SNK vs. Capcom: The Match of the Millennium"
+platform: "Neo Geo Pocket Color"
+year: 1999
+series: crossover
+songs:
+  - id: guile_svc_motm
+    title: "Guile's Theme"
+    path: "Guile's Theme.vgm"
+    type: warning

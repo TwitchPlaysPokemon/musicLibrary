@@ -1,7 +1,9 @@
+---
 id: mushihimesama
 title: "Mushihimesama"
-year: 2004
+series: mushihimesama
 platform: "Various"
+year: 2004
 songs:
   - id: furthermore_cross_the_desert_too
     title: "Furthermore, Cross the Desert too - Stage2"
@@ -11,3 +13,40 @@ songs:
     title: "The Direction to the Heart of the Forest - Stage 5"
     path: "The Direction to the Heart of the Forest - Stage 5.brstm"
     type: battle
+  - id: is_this_how_you_are
+    title: "Is This How You Are?"
+    path: "Is This How You Are.brstm"
+    type: warning
+  - id: levi_sense
+    title: "Levi = Sense"
+    path: "Levi = Sense.brstm"
+    type: warning
+  - id: requiem_of_the_sky_true_last_boss
+    title: "Requiem of the Sky - True Last Boss"
+    path: "Requiem of the Sky - True Last Boss.brstm"
+    type: break
+  - id: enough_about_that_stage_clear
+    title: "Enough About That! - Stage Clear"
+    path: "Enough About That! - Stage Clear.brstm"
+    type: result
+  - id: like_a_night_of_falling_stars_stage_4
+    title: "Like a Night of Falling Stars - Stage 4"
+    path: "Like a Night of Falling Stars - Stage 4.brstm"
+    type: betting
+  - id: the_princess_age_15_select
+    title: "The Princess, Age 15 - Select"
+    path: "The Princess, Age 15 - Select.brstm"
+    type: result
+  - id: to_shinju_forest_stage_1
+    title: "To Shinju Forest - Stage 1"
+    path: "To Shinju Forest - Stage 1.brstm"
+    type: battle
+  - id: walking_on_the_land_of_flame_stage_3
+    title: "Walking on the Land of Flame - Stage 3"
+    path: "Walking on the Land of Flame - Stage 3.brstm"
+    type: betting
+  - id: walking_on_the_land_of_flame_stage_3_arranged
+    title: "Walking on the Land of Flame - Stage 3 (Arranged)"
+    path: "Walking on the Land of Flame - Stage 3 (Arranged).brstm"
+    type: betting
+...

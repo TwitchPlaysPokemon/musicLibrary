@@ -275,4 +275,20 @@ songs:
     title: "Cruel Brawl"
     path: "Cruel Brawl.brstm"
     type: warning
+  - id: step_the_plain
+    title: "Step: The Plain"
+    path: "Step_ The Plain.brstm"
+    type: betting
+  - id: underground_brawl
+    title: "Underground Theme (Super Mario Land)"
+    path: "Underground Theme (Super Mario Land).brstm"
+    type: betting
+  - id: waluigi_pinball_ssbb
+    title: "Waluigi Pinball"
+    path: "Waluigi Pinball.brstm"
+    type: betting
+  - id: warioware_inc
+    title: "WarioWare, Inc."
+    path: "WarioWare, Inc..brstm"
+    type: betting
 ...

@@ -1,0 +1,52 @@
+---
+id: devil_may_cry
+title: "Devil May Cry"
+series: devilmaycry
+year: 2001
+platform: ["PS2", "PS3", "360"]
+songs:
+  - id: flock_off_griffon_battle
+    title: "Flock Off! (Griffon Battle)"
+    path: "Flock Off! (Griffon Battle).brstm"
+    type: battle
+  - id: legendary_battle_devil_emperor_mundus_battle_1
+    title: "Legendary Battle (Devil Emperor Mundus Battle 1)"
+    path: "Legendary Battle (Devil Emperor Mundus Battle 1).brstm"
+    type: battle
+  - id: legendary_battle_ver_2_devil_emperor_mundus_battle_2
+    title: "Legendary Battle Ver. 2 (Devil Emperor Mundus Battle 2)"
+    path: "Legendary Battle Ver 2 (Devil Emperor Mundus Battle 2).brstm"
+    type: warning
+  - id: lock_and_load_regular_battle_2
+    title: "Lock & Load (Regular Battle 2)"
+    path: "Lock & Load (Regular Battle 2).brstm"
+    type: battle
+  - id: mental_machine_nightmare_battle
+    title: "Mental Machine (Nightmare Battle)"
+    path: "Mental Machine (Nightmare Battle).brstm"
+    type: warning
+  - id: psycho_siren_middle_boss_battle
+    title: "Psycho Siren (Middle Boss Battle)"
+    path: "Psycho Siren (Middle Boss Battle).brstm"
+    type: warning
+  - id: public_enemy_regular_battle_1
+    title: "Public Enemy (Regular Battle 1)"
+    path: "Public Enemy (Regular Battle 1).brstm"
+    type: warning
+  - id: red_hot_juice_phantom_battle
+    title: "Red-Hot Juice (Phantom Battle)"
+    path: "Red-Hot Juice (Phantom Battle).brstm"
+    type: warning
+  - id: s_sparda_battle_2
+    title: "S (Sparda Battle 2)"
+    path: "S (Sparda Battle 2).brstm"
+    type: battle
+  - id: super_public_enemy_sparda_battle_1
+    title: "Super Public Enemy (Sparda Battle 1)"
+    path: "Super Public Enemy (Sparda Battle 1).brstm"
+    type: battle
+  - id: ultra_violet
+    title: "Ultra Violet"
+    path: "Ultra Violet.brstm"
+    type: warning
+...

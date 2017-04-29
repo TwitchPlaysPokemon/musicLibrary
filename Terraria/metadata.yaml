@@ -1,3 +1,4 @@
+---
 id: terraria
 title: "Terraria"
 platform: "Various"
@@ -47,3 +48,8 @@ songs:
     title: "Underground Hallow"
     path: "Underground Hallow.brstm"
     type: betting
+  - id: eclipse_terraria
+    title: "Eclipse"
+    path: "Eclipse.brstm"
+    type: betting
+...

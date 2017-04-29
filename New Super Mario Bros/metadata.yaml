@@ -2,13 +2,13 @@
 id: new_super_mario_bros
 title: "New Super Mario Bros."
 series: mario
-year: 2006
 platform: "NDS"
+year: 2006
 songs:
-#      - id: athletic #Same song but with a better soundfont in nsmbwii
-#        title: "Athletic"
-#        path: "Athletic.brstm"
-#        type: betting
+  - id: athletic_nsmb
+    title: "Athletic"
+    path: "Athletic.mini2sf"
+    type: betting
   - id: credits_nsmb
     title: "Credits"
     path: "Credits.mini2sf"
@@ -25,7 +25,7 @@ songs:
 #        title: "Final Boss"
 #        path: "Final Boss.brstm"
 #        type: battle #Not tense and charged enough
-  - id: fortress
+  - id: fortress_nsmb
     title: "Fortress"
     path: "Fortress.mini2sf"
     type: betting
@@ -49,14 +49,14 @@ songs:
     title: "Overworld"
     path: "Overworld.mini2sf"
     type: break
-  - id: star
+  - id: star_nsmb
     title: "Star"
     path: "Star.mini2sf"
     type: warning
-#      - id: underground
-#        title: "Underground"
-#        path: "Underground.brstm"
-#        type: betting #Same song with a better soundfont in nsmbwii
+  - id: underground_nsmb
+    title: "Underground"
+    path: "Underground.mini2sf"
+    type: betting
   - id: underwater_nsmb
     title: "Underwater"
     path: "Underwater.mini2sf"
@@ -69,7 +69,7 @@ songs:
 #        title: "World 1 Map"
 #        path: "World 1 Map.brstm"
 #        type: warning #Does not fit.
-  - id: world_2
+  - id: world_2_nsmb
     title: "World 2 Map"
     path: "World 2 Map.mini2sf"
     type: warning
@@ -105,4 +105,8 @@ songs:
     title: "World 5 - The Snow Plains"
     path: "World 5 - The Snow Plains.mini2sf"
     type: break
+  - id: the_snow_plains_vs_mode_mario_luigi
+    title: "The Snow Plains - Vs. Mode"
+    path: "82 - The Snow Plains - Vs. Mode.mini2sf"
+    type: betting
 ...

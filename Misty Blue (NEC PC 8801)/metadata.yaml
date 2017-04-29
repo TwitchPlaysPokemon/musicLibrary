@@ -1,0 +1,37 @@
+---
+id: misty_blue_nec_pc_8801
+title: "Misty Blue"
+platform: "NEC PC 8801"
+year: 1990
+songs:
+  - id: in_the_morning
+    title: "In the Morning"
+    path: "01 In the Morning.vgz"
+    type: break
+  - id: illusion
+    title: "Illusion"
+    path: "07 Illusion.vgz"
+    type: result
+  - id: misty_blue
+    title: "Misty Blue"
+    path: "09 Misty Blue.vgz"
+    ends: 2:52
+    type: betting
+  - id: hold_me_tonight
+    title: "Hold Me Tonight"
+    path: "10 Hold Me Tonight.vgz"
+    type: betting
+  - id: dancing_heart
+    title: "Dancing Heart"
+    path: "11 Dancing Heart.vgz"
+    type: betting
+  - id: catch_the_step
+    title: "Catch the Step"
+    path: "12 Catch the Step.vgz"
+    ends: 2:06
+    type: betting
+  - id: battle_enix_quest
+    title: "Battle (Enix Quest)"
+    path: "15 Battle (Enix Quest).vgz"
+    type: warning
+...

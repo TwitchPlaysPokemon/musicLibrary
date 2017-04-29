@@ -1,0 +1,28 @@
+---
+id: nier
+title: "Nier"
+series: drakengard
+platform: ["PS3", "360"]
+year: 
+songs:
+  - id: temple_of_drifting_sands
+    title: "Temple of Drifting Sands"
+    path: "Temple of Drifting Sands.brstm"
+    type: betting
+  - id: the_lost_forest
+    title: "The Lost Forest"
+    path: "The Lost Forest.brstm"
+    type: betting
+  - id: shadowlords_castle_memory_pad
+    title: "Shadowlord's Castle / Memory (Pad)"
+    path: "Shadowlord's Castle  Memory (Pad).brstm"
+    type: break
+  - id: dark_colossus_destroys_all
+    title: "Dark Colossus Destroys All"
+    path: "Dark Colossus Destroys All.brstm"
+    type: warning
+  - id: deep_crimson_foe
+    title: "Deep Crimson Foe"
+    path: "Deep Crimson Foe.brstm"
+    type: warning
+...

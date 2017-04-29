@@ -1,22 +1,32 @@
+---
 id: final_fantasy_xii
-platform: "PS2"
 title: "Final Fantasy XII"
 series: finalfantasy
+platform: "PS2"
 year: 2006
 songs: 
   - id: boss_battle_ffxii
-    path: "Boss Battle.brstm"
     title: "Boss Battle"
+    path: "Boss Battle.brstm"
     type: battle
   - id: desperate_fight_ffxii
-    path: "Desperate Fight.brstm"
     title: "Desperate Fight"
+    path: "Desperate Fight.brstm"
     type: warning
   - id: esper_battle_ffxii
-    path: "Esper Battle.brstm"
     title: "Esper Battle"
+    path: "Esper Battle.brstm"
     type: warning
   - id: eruyt_village_ffxii
-    path: "Eruyt Village.brstm"
     title: "Eruyt Village"
+    path: "Eruyt Village.brstm"
     type: warning
+  - id: the_dalmasca_estersand_ffxii
+    title: "The Dalmasca Estersand"
+    path: "The Dalmasca Estersand.brstm"
+    type: betting
+  - id: clash_of_swords_ffxii
+    title: "Clash of Swords"
+    path: "Clash of Swords.brstm"
+    type: battle
+...

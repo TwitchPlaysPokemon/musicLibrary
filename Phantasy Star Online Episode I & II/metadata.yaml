@@ -2,8 +2,8 @@
 id: phantasy_star_online_episode_i_ii
 title: "Phantasy Star Online Episode I & II"
 series: phantasystar
+platform: ["GCN", "Xbox"]
 year: 2002
-platform: "GCN+Xbox"
 songs:
   - id: chaotic_bar
     title: "Chaotic Bar"
@@ -13,4 +13,24 @@ songs:
     title: "'IDOLA' Have the Immortal Feather"
     path: "'IDOLA' Have the Immortal Feather.brstm"
     type: battle
+  - id: tricktrack_part_2
+    title: "Tricktrack Part 2"
+    path: "Tricktrack (Part 2).brstm"
+    type: betting
+  - id: the_frenzy_wilds
+    title: "The Frenzy Wilds"
+    path: "The Frenzy Wilds.brstm"
+    type: warning
+  - id: growl_from_the_depths_of_earth
+    title: "Growl from the Depths of Earth"
+    path: "Growl from the Depths of the Earth.brstm"
+    type: warning
+  - id: a_song_for_eternal_story
+    title: "A Song for Eternal Story"
+    path: "A Song for Eternal Story.brstm"
+    type: break
+  - id: day_dawns
+    title: "Day Dawns"
+    path: "Day Dawns.brstm"
+    type: break
 ...

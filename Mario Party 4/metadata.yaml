@@ -2,8 +2,8 @@
 id: mario_party_4
 title: "Mario Party 4"
 series: mario
-year: 2002
 platform: "GCN"
+year: 2002
 songs:
   - id: the_final_duel
     title: "The Final Duel"
@@ -85,4 +85,8 @@ songs:
     title: "To the Final Duel"
     path: "To the Final Duel.brstm"
     type: warning
+  - id: loud_and_sweet
+    title: "Loud and Sweet"
+    path: "Loud and Sweet.brstm"
+    type: result
 ...

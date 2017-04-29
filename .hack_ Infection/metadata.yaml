@@ -1,8 +1,8 @@
 ---
 id: .hackinfection
 title: ".hack//Infection"
-year: 2002
 platform: "PS2"
+year: 2002
 songs:
   - id: ev06
     title: "ev06 (Cubia Stage #1 ~ #3)"
@@ -23,5 +23,17 @@ songs:
   - id: rtown5
     title: "rtown5 (Server Aerial City Fort Ouph)"
     path: "rtown5 (Server Aerial City Fort Ouph).brstm"
+    type: betting
+  - id: rtown0_delta_server_aqua_capital_mac_anu
+    title: "rtown0 (Δ Server Aqua Capital Mac Anu)"
+    path: "rtown0 (D Server Aqua Capital Mac Anu) (Album Version).brstm"
+    type: break
+  - id: piros_theme
+    title: "Piros' Theme"
+    path: "Piros's Theme.brstm"
+    type: result
+  - id: desktop_theme
+    title: "Desktop Theme"
+    path: "Desktop Theme.brstm"
     type: betting
 ...

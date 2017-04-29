@@ -33,4 +33,16 @@ songs:
     title: "Castle & Fortress"
     path: "Castle & Fortress.spc"
     type: betting
+  - id: athletic_smw2
+    title: "Athletic"
+    path: "Athletic.spc"
+    type: betting
+  - id: powerful_infant
+    title: "Powerful Infant"
+    path: "Powerful Infant.spc"
+    type: warning
+  - id: score_smw2
+    title: "Score"
+    path: "Score.spc"
+    type: result
 ...

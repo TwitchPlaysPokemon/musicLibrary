@@ -1,0 +1,25 @@
+id: scorpius
+title: "Scorpius"
+platform: "X68000"
+year: 1991
+songs:
+  - id: select_scorpius
+    title: "Select"
+    path: "02 Select.vgz"
+    type: warning
+  - id: stage_1_scorpius
+    title: "Stage 1"
+    path: "03 Stage 1.vgz"
+    type: betting
+  - id: ending_scorpius
+    title: "Ending"
+    path: "15 Ending.vgz"
+    type: break
+  - id: stage_7_scorpius
+    title: "Stage 7"
+    path: "14 Stage 7.vgz"
+    type: warning
+  - id: unused_2_scorpius
+    title: "Unused 2"
+    path: "18 Unused 2.vgz"
+    type: result

@@ -1,8 +1,8 @@
 ---
 id: kirby_triple_deluxe
-platform: "3DS"
 title: "Kirby Triple Deluxe"
 series: kirby
+platform: "3DS"
 year: 2014
 songs: 
   - id: soul_of_sectonia
@@ -14,11 +14,11 @@ songs:
 #        path: "The Arena [from Kirby Super Star].brstm"
 #        type: battle 
 #Not tense and charged enough; possibly betting?
-  - id: boss_kir3d
+  - id: attack_boss_battle_kirby_triple_deluxe
     title: "Attack! (Boss Battle)"
     path: "Attack! (Boss Battle).brstm"
     type: battle
-  - id: danger
+  - id: danger_kirby_triple_deluxe
     title: "Danger (Approaching Boss)"
     path: "Danger (Approaching Boss).brstm"
     type: warning
@@ -38,27 +38,27 @@ songs:
     title: "Fine Field"
     path: "Fine Field 1 (Beanstalk Area).brstm"
     type: betting
-  - id: ddd_stage3
+  - id: king_dedede_theme_drum_dash_version_stage3
     title: "King Dedede's Theme (Drum Dash Version)"
     path: "King Dedede Drum Dash - Stage 3.brstm"
     type: battle
-  - id: menu_kir3d
+  - id: main_menu_kirby_triple_deluxe
     title: "Main Menu"
     path: "Main Menu [''Save Area'' from Kirby Super Star].brstm"
     type: betting
-  - id: masked_ddd
-    title: "Masked Dedede"
+  - id: dededes_royal_payback_masked_dedede_kirby_triple_deluxe
+    title: "Dedede's Royal Payback"
     path: "Masked Dedede.brstm"
     type: battle
   - id: moonstruck_blossom
     title: "Moonstruck Blossom"
     path: "F-L-O-W-E-R (Queen Sectonia 2).brstm"
     type: battle
-  - id: prairie
+  - id: prairie_area_kirby_triple_deluxe
     title: "Prairie Area"
     path: "Fine Field 3 (Prairie Area).brstm"
     type: betting
-  - id: prison
+  - id: prison_of_beauty
     title: "Prison of Beauty"
     path: "Prison of Beauty.brstm"
     type: betting
@@ -70,7 +70,7 @@ songs:
     title: "Ripple Red"
     path: "Ripple Red[from Crystal Shards].brstm"
     type: betting
-  - id: sky
+  - id: sky_area_kirby_triple_deluxe
     title: "Sky Area"
     path: "Old Odyssey 2 (Sky Area) [''Peanut Plain'' from Kirby Super Star].brstm"
     type: betting
@@ -78,19 +78,19 @@ songs:
     title: "The World to Win"
     path: "Sectonia vs. Hypernova.brstm"
     type: battle
-  - id: toy
+  - id: toy_area
     title: "Toy Area"
     path: "Lollipop Land 3 (Toy Area).brstm"
     type: betting
-  - id: true_arena
+  - id: true_arena_battle_kirby_triple_deluxe
     title: "True Arena Battle"
     path: "True Arena Battle.brstm"
     type: battle
-  - id: world_map_kir3d
+  - id: world_map_kirby_triple_deluxe
     title: "World Map"
     path: "World Map [''Green Greens'' from Kirby's Dream Land].brstm"
     type: betting
-  - id: the_arena
+  - id: the_arena_kirby_triple_deluxe
     title: "The Arena"
     path: "The Arena [from Kirby Super Star].brstm"
     type: warning
@@ -106,4 +106,25 @@ songs:
     title: "Dark Meta Knight"
     path: "Dark Meta Knight.brstm"
     type: warning
+  - id: taranza_master_of_puppetry
+    title: "Taranza, Master of Puppetry"
+    path: "Taranza, Master of Puppetry!.brstm"
+    type: warning
+  - id: walking_to_a_flowery_coup_opening
+    title: "Walking to a Flowery Coup"
+    path: "Opening.brstm"
+    ends: 2:27
+    type: betting
+  - id: flowered
+    title: "FLOWERED"
+    path: "FLOWERED.brstm"
+    type: result
+  - id: hypernova_all_stars
+    title: "Hypernova All-Stars"
+    path: "Hypernova All-Stars.brstm"
+    type: betting
+  - id: royal_road
+    title: "Royal Road"
+    path: "Royal Road.brstm"
+    type: betting
 ...

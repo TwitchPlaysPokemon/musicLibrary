@@ -113,4 +113,29 @@ songs:
     title: "Weapons Factory"
     path: "Weapons Factory.spc"
     type: betting
+  - id: fight_against_an_armed_boss
+    title: "Fight Against an Armed Boss"
+    path: "119 Fight Against an Armed Boss.spc"
+    type: warning
+  - id: fight_against_a_somewhat_stronger_monster
+    title: "Fight Against a Somewhat Stronger Monster"
+    path: "117 Fight Against a Stronger Monster.spc"
+    type: warning
+  - id: bowsers_castle_second_time
+    title: "Bowser's Castle (Second Time)"
+    path: "216 Bowser's Castle (Second Time).spc"
+    type: betting
+  - id: slope
+    title: "Slope"
+    ends: 2:44
+    path: "139 Slope.spc"
+    type: betting
+  - id: happy_parade_delightful_parade
+    title: "Happy Parade, Delightful Parade"
+    path: "Happy Parade, Delightful Parade.spc"
+    type: betting
+  - id: the_merry_marry_bell_rings
+    title: "The Merry Marry Bell Rings"
+    path: "The Merry Marry Bell Rings.spc"
+    type: betting
 ...

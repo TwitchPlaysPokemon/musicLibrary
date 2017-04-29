@@ -1,36 +1,52 @@
 ---
 id: dodonpachi_saidaioujou
-platform: "Arcade"
 title: "DoDonPachi SaiDaiOuJou"
 series: dodonpachi
+platform: "Arcade"
 year: 2012
 songs: 
   - id: chikara_arrange
-    path: "Chikara (Arrange) (Final Boss).brstm"
     title: "Chikara (Arrange) (Final Boss)"
+    path: "Chikara (Arrange) (Final Boss).brstm"
     type: battle
   - id: michi
-    path: "Michi (Arrange) (Stage 5).brstm"
     title: "Michi (Arrange) (Stage 5)"
+    path: "Michi (Arrange) (Stage 5).brstm"
     type: battle
   - id: ran
-    path: "Ran (Arrange) (Stage 1).brstm"
     title: "Ran (Arrange) (Stage 1)"
+    path: "Ran (Arrange) (Stage 1).brstm"
     type: battle
   - id: ai
-    path: "Ai (Stage 3).brstm"
     title: "Ai (Stage 3)"
+    path: "Ai (Stage 3).brstm"
     type: betting
   - id: chikara
-    path: "Chikara (Final Boss).brstm"
     title: "Chikara (Final Boss)"
+    path: "Chikara (Final Boss).brstm"
     type: warning
   - id: niji
-    path: "Niji (Stage 2).brstm"
     title: "Niji (Stage 2)"
+    path: "Niji (Stage 2).brstm"
     type: battle
   - id: tenshi
-    path: "Tenshi (True Final Boss).brstm"
     title: "Tenshi (True Final Boss)"
+    path: "Tenshi (True Final Boss).brstm"
     type: warning
+  - id: ran_stage_1
+    title: "Ran (Stage 1)"
+    path: "Ran (Stage 1).brstm"
+    type: betting
+  - id: hibi_stage_4
+    title: "Hibi (Stage 4)"
+    path: "Hibi (Stage 4).brstm"
+    type: betting
+  - id: michi_stage_5
+    title: "Michi (Stage 5)"
+    path: "Michi (Stage 5).brstm"
+    type: betting
+  - id: saidaioujou_ending
+    title: "Saidaioujou (Ending)"
+    path: "Saidaioujou (Ending).brstm"
+    type: break
 ...

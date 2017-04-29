@@ -1,7 +1,8 @@
+---
 id: zero_wing
 title: "Zero Wing"
-year: 1991
 platform: "Genesis"
+year: 1991
 songs:
   - id: ending_2_zerowing
     title: "Ending 2"
@@ -27,3 +28,8 @@ songs:
     title: "Introduction (Part 1)"
     path: "Introduction (Part 1).brstm"
     type: betting
+  - id: open_your_eyes_stage_1_natols
+    title: "Open Your Eyes (Stage 1 - Natols)"
+    path: "03 - Open Your Eyes (Stage 1 - Natols).vgm"
+    type: betting
+...

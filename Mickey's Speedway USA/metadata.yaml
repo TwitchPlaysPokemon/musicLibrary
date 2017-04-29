@@ -1,0 +1,15 @@
+---
+id: mickeys_speedway_usa
+title: "Mickey's Speedway USA"
+platform: ["N64", "GBC"]
+year: 2000
+songs:
+  - id: results_mickeys_speedway_usa
+    title: "Results"
+    path: "31 Results.miniusf"
+    type: betting
+  - id: arena_mickeys_speedway_usa
+    title: "Arena"
+    path: "35 Arena.miniusf"
+    type: warning
+...

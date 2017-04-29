@@ -1,8 +1,8 @@
 ---
 id: tower_unite
 title: "Tower Unite"
-year: 2016
 platform: "PC"
+year: 2016
 songs:
   - id: paradise_ball_race
     title: "Paradise (Ball Race)"
@@ -20,4 +20,12 @@ songs:
     title: "Round Music #4 (Little Crusaders)"
     path: "Little Crusaders - Round Music #4.brstm"
     type: betting
+  - id: prism_ball_race
+    title: "Prism (Ball Race)"
+    path: "Ball Race - Prism.brstm"
+    type: betting
+  - id: waiting_for_players_virus
+    title: "Waiting for Players (Virus)"
+    path: "Virus - Waiting for Players.brstm"
+    type: break
 ...

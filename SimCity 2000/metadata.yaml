@@ -1,12 +1,16 @@
 ---
 id: simcity_2000
-platform: "PC"
 title: "SimCity 2000"
-series: sim
+series: simcity
+platform: "PC"
 year: 1993
 songs: 
   - id: dawn_of_city
-    path: "Dawn of City.brstm"
     title: "Dawn of City"
+    path: "Dawn of City.brstm"
     type: break
+  - id: dancing_megalopolis
+    title: "Dancing Megalopolis"
+    path: "Dancing Megalopolis.brstm"
+    type: betting
 ...

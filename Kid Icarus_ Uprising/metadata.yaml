@@ -1,16 +1,17 @@
 ---
 id: kid_icarus_uprising
-platform: "3DS"
 title: "Kid Icarus: Uprising"
+series: kidicarus
+platform: "3DS"
 year: 2012
 songs: 
   - id: boss_battle_1
-    path: "Boss Battle 1.brstm"
     title: "Boss Battle 1"
+    path: "Boss Battle 1.brstm"
     type: battle
   - id: chapter_14_lightning_battle_looped
-    path: "Chapter 14_ Lightning Battle (Looped).brstm"
     title: "Lightning Battle"
+    path: "Chapter 14_ Lightning Battle (Looped).brstm"
     type: betting
   - id: dark_pit's_theme
     title: "Dark Pit's Theme"
@@ -48,4 +49,8 @@ songs:
     title: "Magnus's Theme"
     path: "Magnus's Theme.brstm"
     type: warning
+  - id: chapter_6_dark_pit
+    title: "Chapter 6 - Dark Pit"
+    path: "Chapter 6 - Dark Pit.brstm"
+    type: betting
 ...

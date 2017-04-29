@@ -18,4 +18,12 @@ songs:
     path: "Watch Race.brstm"
     ends: 2:48
     type: betting
+  - id: rosalinas_ice_world
+    title: "Rosalina's Ice World"
+    path: "Rosalina's Ice World.brstm"
+    type: betting
+  - id: rosalinas_ice_world_final_lap
+    title: "Rosalina's Ice World (Final Lap)"
+    path: "Rosalina's Ice World (Final Lap).brstm"
+    type: warning
 ...

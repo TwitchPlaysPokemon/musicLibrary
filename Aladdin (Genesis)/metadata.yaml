@@ -11,5 +11,8 @@ songs:
   - id: prince_ali
     title: "Prince Ali"
     path: "Prince Ali.vgz"
-    ends: 2:22
     type: betting
+  - id: storyline_aladdin
+    title: "Storyline"
+    path: "Storyline.vgz"
+    type: warning

@@ -2,8 +2,8 @@
 id: paper_mario
 title: "Paper Mario"
 series: mario
-year: 2000
 platform: "N64"
+year: 2000
 songs:
   - id: jr_troopa
     title: "Jr Troopa"
@@ -57,4 +57,36 @@ songs:
     title: "Crystal Palace Crawl"
     path: "Crystal Palace Crawl.miniusf"
     type: betting
+  - id: go_mario_go_phase_2
+    title: "Go! Mario! Go! (Phase 2)"
+    path: "211b Go! Mario! Go!.miniusf"
+    type: warning
+  - id: search_for_the_fearsome_5
+    title: "Search for the Fearsome 5"
+    path: "206 Search for the Fearsome 5.miniusf"
+    type: warning
+  - id: huffin_and_puffin
+    title: "Huffin' and Puffin'"
+    path: "216 Huffin' and Puffin'.miniusf"
+    type: battle
+  - id: master_battle
+    title: "Master Battle"
+    path: "935 Master Battle.miniusf"
+    type: betting
+  - id: lava_piranha_attack
+    title: "Lava Piranha Attack"
+    path: "210 Lava Piranha Attack.miniusf"
+    type: warning
+  - id: detective_mario
+    title: "Detective Mario"
+    path: "Detective Mario.miniusf"
+    type: betting
+  - id: goomba_village
+    title: "Goomba Village"
+    path: "Goomba Village.miniusf"
+    type: betting
+  - id: koopa_village
+    title: "Koopa Village"
+    path: "Koopa Village.miniusf"
+    type: break
 ...

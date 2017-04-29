@@ -1,7 +1,9 @@
+---
 id: dance_dance_revolution_mario_mix
 title: "Dance Dance Revolution Mario Mix"
-year: 2005
+series: mario
 platform: "GC"
+year: 2005
 songs:
   - id: jump_jump_jump_ddr
     title: "Jump! Jump! Jump!"
@@ -15,3 +17,8 @@ songs:
     title: "Where's the Exit?"
     path: "Where's the Exit.brstm"
     type: betting
+  - id: bowsers_castle_ddr
+    title: "Bowser's Castle"
+    path: "Bowser's Castle.brstm"
+    type: warning
+...

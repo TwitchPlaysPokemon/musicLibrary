@@ -2,8 +2,8 @@
 id: the_legend_of_zelda_twilight_princess
 title: "The Legend of Zelda: Twilight Princess"
 series: zelda
+platform: ["Wii", "GC"]
 year: 2006
-platform: "Wii+GC"
 songs:
   - id: after_the_battle
     title: "After the Battle"
@@ -41,4 +41,8 @@ songs:
     title: "Death Mountain"
     path: "Death Mountain.brstm"
     type: betting
+  - id: twilit_cargo_game
+    title: "Twilit Cargo Game"
+    path: "Twilit Cargo Game.brstm"
+    type: warning
 ...

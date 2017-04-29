@@ -1,20 +1,36 @@
 ---
-id: super_mario_land_2__6_golden_coins
+id: super_mario_land_2_6_golden_coins
 title: "Super Mario Land 2: 6 Golden Coins"
 series: mario
 platform: "GB"
 year: 1992
 songs:
   - id: athletic
-    path: "Athletic.brstm"
     title: "Athletic"
+    path: "Athletic.brstm"
     type: betting
   - id: haunted_house
-    path: "Haunted House.brstm"
     title: "Haunted House"
+    path: "Haunted House.brstm"
     type: break
   - id: outside_warios_castle
     title: "Outside Wario's Castle"
     path: "Outside Wario's Castle.brstm"
     type: warning
+  - id: star_maze
+    title: "Star Maze"
+    path: "Star Maze.brstm"
+    type: betting
+  - id: wario_battle_1
+    title: "Wario Battle 1"
+    path: "Wario Battle 1.brstm"
+    type: warning
+  - id: wario_battle_2
+    title: "Wario Battle 2"
+    path: "Wario Battle 2.brstm"
+    type: warning
+  - id: warios_castle
+    title: "Wario's Castle"
+    path: "Wario's Castle.brstm"
+    type: betting
 ...

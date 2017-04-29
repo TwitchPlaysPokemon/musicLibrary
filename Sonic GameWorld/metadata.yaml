@@ -1,0 +1,26 @@
+id: sonic_gameworld
+title: "Sonic the Hedgehog's GameWorld"
+platform: "Sega Pico"
+year: 1994
+series: sonic
+songs:
+  - id: floors_1_3
+    title: "Floors 1 ~ 3"
+    path: "04 Floors 1 ~ 3.vgz"
+    type: betting
+  - id: sonic_ball
+    title: "Sonic-Ball"
+    path: "07 Sonic-Ball.vgz"
+    type: warning
+  - id: egg_switch
+    title: "Egg Switch"
+    path: "11 Egg Switch.vgz"
+    type: warning
+  - id: floor_14
+    title: "Floor 4"
+    path: "14 Floor 4.vgz"
+    type: warning
+  - id: unused_2_gameworld
+    title: "Unused 2"
+    path: "19 Unused 2.vgz"
+    type: betting

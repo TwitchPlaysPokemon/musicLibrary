@@ -1,0 +1,16 @@
+---
+id: yakuza_3
+title: "Yakuza 3"
+series: yakuza
+platform: "PS3"
+year: 
+songs:
+  - id: new_serena
+    title: "New Serena"
+    path: "New Serena.brstm"
+    type: break
+  - id: fly_looped_version_yakuza_3
+    title: "Fly"
+    path: "Fly (Looped version).brstm"
+    type: battle
+...

@@ -8,9 +8,9 @@ songs:
     title: "Ranked Game Champion Select"
     path: "Ranked_Game_Champion_Select.brstm"
     type: betting
-  - id: omega_squad_teemo_theme
-    title: "Omega Squad Teemo Theme"
-    path: "Omega_Squad_Teemo.brstm"
+  - id: omega_squad_teemo
+    title: "Omega Squad Teemo"
+    path: "Omega Squad Teemo.brstm"
     type: warning
   - id: bit_rush
     title: "Bit Rush"
@@ -57,4 +57,16 @@ songs:
     path: "Taliyah, the Stoneweaver.brstm"
     ends: 2:40
     type: betting
+  - id: reborn
+    title: "Reborn"
+    path: "Reborn.brstm"
+    type: warning
+  - id: snowdown_showdown_2014
+    title: "Snowdown Showdown 2014"
+    path: "Snowdown Showdown 2014.brstm"
+    type: break
+  - id: tidecaller
+    title: "Tidecaller"
+    path: "Tidecaller.brstm"
+    type: break
 ...

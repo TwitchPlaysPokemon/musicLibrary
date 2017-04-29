@@ -1,29 +1,32 @@
-id: mario_and_yoshi
-platform: "GB"
-title: "Mario & Yoshi"
+---
+id: mario_and_yoshi_gb
+title: "Mario & Yoshi (GB)"
+series: mario; yoshi
+platform: ["NES", "GB"]
 year: 1991
 songs: 
-  - id: fire_flower_yoshi
+  - id: fire_flower_yoshi_gb
     path: "Fire Flower.brstm"
     title: "Fire Flower"
     type: break
-  - id: star_yoshi
+  - id: star_yoshi_gb
     path: "Star.brstm"
     title: "Star"
     type: result
-  - id: 2p_set_over
+  - id: 2p_set_over_yoshi_gb
     path: "2-Player Set Over.brstm"
     title: "2-Player Set Over"
     type: betting
-  - id: title_yoshi
+  - id: title_yoshi_gb
     path: "Title.brstm"
     title: "Title"
     type: result
-  - id: mushroom_yoshi
+  - id: mushroom_yoshi_gb
     path: "Mushroom.brstm"
     title: "Mushroom"
     type: result
-  - id: 2p_battle_yoshi
+  - id: 2p_battle_yoshi_gb
     path: "2P Battle.brstm"
     title: "2P Battle"
     type: result
+...

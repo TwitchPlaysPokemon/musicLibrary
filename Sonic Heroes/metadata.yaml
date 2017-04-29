@@ -1,64 +1,72 @@
 ---
 id: sonic_heroes
-platform: "GCN"
 title: "Sonic Heroes"
 series: sonic
+platform: "Various"
 year: 2004
 songs: 
   - id: boss_2
-    path: "Boss 2.adx"
     title: "Boss 2"
+    path: "Boss 2.adx"
     type: battle
   - id: bingo_highway
-    path: "Bingo Highway.adx"
     title: "Bingo Highway"
+    path: "Bingo Highway.adx"
     type: battle
   - id: egg_emperor
-    path: "Egg Emperor.adx"
     title: "Egg Emperor"
+    path: "Egg Emperor.adx"
     type: battle
   - id: seaside_hill_zone
-    path: "Seaside Hill Zone.adx"
     title: "Seaside Hill Zone"
+    path: "Seaside Hill Zone.adx"
     type: betting
   - id: battle_4
-    path: "Battle 4.adx"
     title: "Battle 4"
+    path: "Battle 4.adx"
     type: warning
   - id: casino_park_zone
-    path: "Casino Park Zone.adx"
     title: "Casino Park Zone"
+    path: "Casino Park Zone.adx"
     type: betting
   - id: grand_metropolis_zone_heroes
-    path: "Grand Metropolis Zone.adx"
     title: "Grand Metropolis Zone"
+    path: "Grand Metropolis Zone.adx"
     type: betting
   - id: frog_forest_zone
-    path: "Frog Forest Zone.adx"
     title: "Frog Forest Zone"
+    path: "Frog Forest Zone.adx"
     type: betting
   - id: system_2_heroes
-    path: "System 2.adx"
     title: "System 2"
+    path: "System 2.adx"
     type: betting
   - id: special_stage_2_heroes
-    path: "Special Stage 2.adx"
     title: "Special Stage 2"
+    path: "Special Stage 2.adx"
     type: battle
   - id: ocean_palace_zone
-    path: "Ocean Palace Zone.adx"
     title: "Ocean Palace Zone"
+    path: "Ocean Palace Zone.adx"
     type: betting
   - id: power_plant_zone
-    path: "Power Plant Zone.adx"
     title: "Power Plant Zone"
+    path: "Power Plant Zone.adx"
     type: betting
   - id: rail_canyon_zone
-    path: "Rail Canyon Zone.adx"
     title: "Rail Canyon Zone"
+    path: "Rail Canyon Zone.adx"
     type: betting
   - id: final_fortress_zone
-    path: "Final Fortress Zone.adx"
     title: "Final Fortress Zone"
+    path: "Final Fortress Zone.adx"
+    type: warning
+  - id: egg_albatross
+    title: "Egg Albatross"
+    path: "Egg Albatross.adx"
+    type: warning
+  - id: no_past_to_remember
+    path: "Event - No Past to Remember.adx"
+    title: "Event: No Past to Remember"
     type: warning
 ...

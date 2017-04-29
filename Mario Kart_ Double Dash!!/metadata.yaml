@@ -1,3 +1,4 @@
+---
 id: mario_kart_double_dash
 title: "Mario Kart: Double Dash!!"
 series: mario
@@ -36,3 +37,8 @@ songs:
     title: "Title"
     path: "Title.brstm"
     type: result
+  - id: rainbow_road
+    title: "Rainbow Road"
+    path: "Rainbow Road.brstm"
+    type: betting
+...

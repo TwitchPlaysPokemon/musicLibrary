@@ -1,6 +1,8 @@
+---
 id: guilty_gear_x2_reload
 title: "Guilty Gear X2 #Reload"
-platform: "Arcade+PS2"
+series: guiltygear
+platform: ["Arcade", "PS2"]
 year: 2002
 songs:
   - id: keep_yourself_alive_2
@@ -39,7 +41,7 @@ songs:
     title: "Fatal Duel"
     path: "Fatal Duel.brstm"
     type: battle
-  - id: meel_again
+  - id: meet_again
     title: "Meet Again"
     path: "Meet Again.brstm"
     type: battle
@@ -51,3 +53,12 @@ songs:
     title: "Still In The Dark"
     path: "Still In The Dark.brstm"
     type: battle
+  - id: blue_water_blue_sky
+    title: "Blue Water, Blue Sky"
+    path: "Blue Water, Blue Sky.brstm"
+    type: battle
+  - id: simple_life
+    title: "Simple Life"
+    path: "Simple Life.brstm"
+    type: battle
+...

@@ -1,0 +1,16 @@
+---
+id: monty_on_the_run_c64
+title: "Monty on the Run (C64)"
+platform: ["C64", "ZX Spectrum"]
+year: 1985
+songs:
+  - id: main_theme_monty_on_the_run_c64
+    title: "Main Theme"
+    path: "Main Theme (True Loop).brstm"
+    ends: 2:35
+    type: betting
+  - id: high_score_monty_on_the_run_c64
+    title: "High Score"
+    path: "High Score.brstm"
+    type: result
+...
