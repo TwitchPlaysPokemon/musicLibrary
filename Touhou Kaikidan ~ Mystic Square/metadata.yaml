@@ -1,22 +1,22 @@
 ﻿---
 id: touhou_kaikidan_mystic_square
 title: "Touhou Kaikidan ~ Mystic Square"
-year: 1998
-platform: "PC-98"
 series: touhou
+platform: "PC-98"
+year: 1998
 songs:
+  - id: the_last_judgement
+    title: "The Last Judgement"
+    path: "The Last Judgement.brstm"
+    type: betting
   - id: grimoire_of_alice_kaikidan
-    title: "The Grimoire of Alice"
+    title: "Alice's Extra Theme: The Grimoire of Alice"
     path: "the Grimoire of Alice.brstm"
     type: betting
   - id: romantic_children
     title: "Romantic Children"
     path: "Romantic Children.brstm"
     type: result
-  - id: the_last_judgement
-    title: "The Last Judgement"
-    path: "The Last Judgement.brstm"
-    type: warning
   - id: spiritual_heaven
     title: "Louise's Theme: Spiritual Heaven"
     path: "Louise's Theme - Spiritual Heaven.brstm"

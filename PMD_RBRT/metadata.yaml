@@ -2,8 +2,8 @@
 id: pokemon_mystery_dungeon_red_and_blue_rescue_team
 title: "Pokémon Mystery Dungeon: Red & Blue Rescue Team"
 series: pokemon
-year: 2005
 platform: "NDS"
+year: 2005
 songs: 
   - id: thunderwave_cave
     title: "Thunderwave Cave"
@@ -36,7 +36,7 @@ songs:
   - id: sky_tower
     title: "Sky Tower"
     path: "Sky Tower.brstm"
-    ends: 3:42
+    ends: 3:43
     type: betting
   - id: buried_relic
     title: "Buried Relic"

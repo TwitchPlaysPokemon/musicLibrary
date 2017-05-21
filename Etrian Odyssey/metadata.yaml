@@ -1,8 +1,8 @@
 ---
 id: etrian_odyssey
 title: "Etrian Odyssey"
-platform: "NDS"
 series: etrianodyssey
+platform: "NDS"
 year: 2007
 songs:
   - id: the_lounge_where_we_speak_of_tomorrow_pc88
@@ -16,7 +16,6 @@ songs:
   - id: the_green_green_woodlands_pc88
     title: "Labyrinth I ~ The Green Green Woodlands (PC-88)"
     path: "Labyrinth I ~ The Green Green Woodlands (PC-88).brstm"
-    ends: 2:15
     type: betting
   - id: the_thousand_year_old_blue_woodlands_pc88
     title: "Labyrinth III ~ The Thousand Year Old Blue Woodlands (PC-88)"

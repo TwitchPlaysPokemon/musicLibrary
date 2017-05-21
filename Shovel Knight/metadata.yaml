@@ -1,7 +1,7 @@
 ---
 id: shovel_knight
-platform: "various"
 title: "Shovel Knight"
+platform: "Various"
 year: 2014
 songs: 
   - id: strike_the_earth_plains_of_passage
@@ -12,14 +12,14 @@ songs:
     path: "The Fateful Return (Tower Approach).brstm"
     title: "The Fateful Return (Tower Approach)"
     type: betting
-  - id: of_devious_machinations_clockwork_tower
-    path: "Of Devious Machinations (Clockwork Tower).brstm"
-    title: "Of Devious Machinations (Clockwork Tower)"
-    type: battle
   - id: high_above_the_land_the_flying_machine
     path: "High Above the Land (The Flying Machine).brstm"
     title: "High Above the Land (The Flying Machine)"
     type: betting
+  - id: of_devious_machinations_clockwork_tower
+    path: "Of Devious Machinations (Clockwork Tower).brstm"
+    title: "Of Devious Machinations (Clockwork Tower)"
+    type: battle
   - id: the_decadent_dandy_king_knight_battle
     path: "The Decadent Dandy (King Knight Battle).brstm"
     title: "The Decadent Dandy (King Knight Battle)"

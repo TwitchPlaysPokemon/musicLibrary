@@ -1,13 +1,13 @@
 ---
 id: live_a_live
-platform: "SNES"
+platform: "SFC"
 title: "Live A Live"
 year: 1994
 songs: 
   - id: live_a_live
     path: "Live A Live.spc"
     title: "Live A Live"
-    type: result
+    type: betting
   - id: megalomania
     path: "Megalomania.brstm"
     title: "Megalomania"

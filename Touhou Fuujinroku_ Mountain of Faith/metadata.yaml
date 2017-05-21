@@ -1,8 +1,8 @@
 ﻿---
 id: touhou_fuujinroku_mountain_of_faith
-platform: "PC"
 title: "Touhou Fuujinroku ~ Mountain of Faith"
 series: touhou
+platform: "PC"
 year: 2007
 songs: 
   - id: fall_of_fall_autumnal_waterfall
@@ -10,9 +10,9 @@ songs:
     title: "Fall of Fall ~ Autumnal Waterfall"
     ends: 3:00
     type: betting
-  - id: the_primal_scene_of_japan_arranged_by_clover
+  - id: the_primal_scene_of_japan_arranged
     path: "Stage 5 (Arranged by Clover).brstm"
-    title: "The Primal Scene of Japan the Girl Saw (Arranged by Clover)"
+    title: "The Primal Scene of Japan the Girl Saw (Arranged)"
     ends: 3:00
     type: betting
   - id: tomorrow_will_be_special_yesterday_was_not
@@ -31,7 +31,7 @@ songs:
     path: "Faith is for the Transient People.brstm"
     title: "Sanae's Theme: Faith is for the Transient People"
     type: battle
-  - id: kanakos_theme_suwa_foughter_field
+  - id: kanakos_theme_suwa_foughten_field
     path: "The Venerable Ancient Battlefield ~ Suwa Foughten Field.brstm"
     title: "Kanako's Theme: The Venerable Ancient Battlefield ~ Suwa Foughten Field"
     type: battle
