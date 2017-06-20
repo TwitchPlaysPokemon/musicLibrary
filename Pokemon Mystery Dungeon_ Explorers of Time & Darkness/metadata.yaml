@@ -45,10 +45,10 @@ songs:
     path: "Temporal Tower.mini2sf"
     title: "Temporal Tower"
     type: betting
-#  - id: dialgas_fight_to_the_finish
-#    title: "Dialga's Fight to the Finish!"
-#    path: ""  #Song currently in Explorers of Sky folder, add filename and remove comments after moving it here.
-#    type: betting
+  - id: primal_dialga
+    title: "Dialga's Fight to the Finish!"
+    path: "Dialga's Fight to the Finish!.mini2sf"
+    type: battle
   - id: dont_ever_forget
     path: "Don't Ever Forget....mini2sf"
     title: "Don't Ever Forget..."

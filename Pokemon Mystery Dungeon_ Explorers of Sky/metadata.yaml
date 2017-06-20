@@ -1,4 +1,4 @@
----
+﻿---
 id: pokémon_mystery_dungeon_explorers_of_sky
 title: "Pokémon Mystery Dungeon: Explorers of Sky"
 series: pokemon
@@ -49,8 +49,5 @@ songs:
     title: "Living Spirit"
     path: "Living Spirit.mini2sf"
     type: break
-  - id: primal_dialga
-    title: "Dialga's Fight to the Finish!"
-    path: "Dialga's Fight to the Finish!.mini2sf"
-    type: battle
+
 ...
