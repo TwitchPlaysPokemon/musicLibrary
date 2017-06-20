@@ -5,13 +5,13 @@ platform: "N64"
 songs:
   - id: birdman_pilotwings64
     title: "Birdman"
-    path: "Birdman.brstm"
+    path: "Birdman.miniusf"
     type: break
   - id: hang_glider
     title: "Hang Glider"
-    path: "Hang Glider.brstm"
+    path: "Hang Glider.miniusf"
     type: break
   - id: rocket_belt
     title: "Rocket Belt"
-    path: "Rocket Belt.brstm"
+    path: "Rocket Belt.miniusf"
     type: break

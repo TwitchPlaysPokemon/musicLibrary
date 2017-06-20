@@ -6,9 +6,9 @@ platform: ["Neo-Geo", "Xbox"]
 songs:
   - id: fierce_battle_metal_slug
     title: "Fierce Battle"
-    path: "Fierce Battle.brstm"
+    path: "Fierce Battle.vgz"
     type: battle
   - id: zoom_down
     title: "Zoom Down"
-    path: "Zoom Down.brstm"
+    path: "Zoom Down.vgz"
     type: betting

@@ -1,13 +1,13 @@
 ---
-id: metal_gear
+id: metal_gear_msx2
 title: "Metal Gear"
 series: metalgear
 year: 1987
 platform: "MSX2"
 songs:
-  - id: --_red_alert
+  - id: red_alert_msx2
     title: "-!- Red Alert"
-    path: "-!- Red Alert.brstm"
+    path: "-!- Red Alert.vgz"
     type: warning
   - id: theme_of_tara_mg_msx2
     title: "Theme Of Tara"

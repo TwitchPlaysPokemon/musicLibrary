@@ -6,25 +6,25 @@ platform: ["SMS", "GG"]
 songs:
   - id: green_hills_zone_8bit_sonic2
     title: "Green Hills Zone"
-    path: "Green Hills Zone.brstm"
+    path: "Green Hills Zone.vgm"
     type: betting
   - id: gimmick_mountain_zone
     title: "Gimmick Mountain Zone"
-    path: "Gimmick Mountain Zone.brstm"
+    path: "Gimmick Mountain Zone.vgm"
     type: betting
   - id: sky_high_zone_8bit_sonic2
     title: "Sky High Zone"
-    path: "Sky High Zone.brstm"
+    path: "Sky High Zone.vgm"
     type: betting
   - id: invincible_8bit_sonic2
     title: "Invincible"
-    path: "Invincible.brstm"
+    path: "Invincible.vgm"
     type: warning
   - id: boss_theme_gamegear_8bit_sonic2
     title: "Boss Theme (Game Gear)"
-    path: "Boss Theme (Game Gear).brstm"
+    path: "Boss Theme (Game Gear).vgm"
     type: warning
   - id: ending_master_system
     title: "Ending (Master System)"
-    path: "Ending (Master System).brstm"
+    path: "Ending (Master System).vgm"
     type: result

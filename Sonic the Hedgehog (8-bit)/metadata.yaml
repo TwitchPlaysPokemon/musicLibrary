@@ -6,25 +6,25 @@ platform: ["SMS", "GG"]
 songs:
   - id: bridge_zone
     title: "Bridge Zone"
-    path: "Bridge Zone.brstm"
+    path: "Bridge Zone.vgm"
     type: betting
   - id: boss_theme_8bit_sonic
     title: "Boss Theme"
-    path: "Boss Theme.brstm"
+    path: "Boss Theme.vgm"
     type: warning
   - id: scrap_brain_zone_8bit_sonic
     title: "Scrap Brain Zone"
-    path: "Scrap Brain Zone.brstm"
+    path: "Scrap Brain Zone.vgm"
     type: warning
   - id: sky_base_zone_8bit_sonic
     title: "Sky Base Zone"
-    path: "Sky Base Zone.brstm"
+    path: "Sky Base Zone.vgm"
     type: warning
   - id: jungle_zone_8bit_sonic
     title: "Jungle Zone"
-    path: "Jungle Zone.brstm"
+    path: "Jungle Zone.vgm"
     type: result
   - id: ending_8bit_sonic
     title: "Ending"
-    path: "Ending.brstm"
+    path: "Ending.vgm"
     type: result

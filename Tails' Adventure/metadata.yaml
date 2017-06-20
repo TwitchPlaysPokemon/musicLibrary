@@ -5,14 +5,14 @@ series: sonic
 year: 1995
 songs:
   - id: final_boss_tails_adventure
-    path: "Final Boss.brstm"
+    path: "Final Boss.vgm"
     title: "Final Boss"
     type: warning
   - id: credits_tails_adventure
-    path: "Credits.brstm"
+    path: "Credits.vgm"
     title: "Credits"
     type: result
   - id: tails_house_tails_adventure
-    path: "Tails' House.brstm"
+    path: "Tails' House.vgm"
     title: "Tails' House"
     type: break

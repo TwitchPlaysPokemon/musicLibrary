@@ -1,11 +1,11 @@
 ---
 id: earth_defense_force
 title: "Earth Defense Force"
-platform: "Arcade+SNES"
+platform: "Arcade"
 year: 1991
 songs: 
   - id: stage_4_naval_battle
-    title: "Stage 4 - Naval Battle"
-    path: "Stage 4 - Naval Battle.brstm"
+    title: "Naval Battle (Stage 4)"
+    path: "Naval Battle (Stage 4).vgz"
     type: betting
 ...

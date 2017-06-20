@@ -4,9 +4,9 @@ title: "TeleroBoxer"
 year: 1995
 platform: "VB"
 songs:
-  - id: milky_telbox
-    title: "Milky"
-    path: "Milky.brstm"
+  - id: bamsham
+    title: "Bamsham"
+    path: "Bamsham.vgz"
     type: battle
   - id: face_the_legendary_champ
     title: "Face the Legendary Champ"
@@ -14,18 +14,18 @@ songs:
     type: warning
   - id: ikanger
     title: "Ikanger"
-    path: "Ikanger.brstm"
+    path: "Ikanger.vgz"
     type: result
   - id: tukikage
     title: "Tukikage"
-    path: "Tukikage.brstm"
+    path: "Tukikage.vgz"
     type: warning
   - id: final_battle_teleroboxer
     title: "Final Battle"
     path: "Final Battle.brstm"
     type: warning
   - id: opponent_list
-    title: "Opponent list"
-    path: "Opponent list.brstm"
+    title: "Opponent List (Take a Break)"
+    path: "Opponent List (Take a Break).vgz"
     type: warning
 ...

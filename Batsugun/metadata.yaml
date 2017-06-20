@@ -5,11 +5,11 @@ platform: "Arcade+Saturn"
 year: 1993
 songs: 
   - id: complimentary_ticket
-    title: "Complimentary Ticket"
-    path: "Complimentary Ticket.brstm"
+    title: "Complimentary Ticket (Stage 4)"
+    path: "Complimentary Ticket (Stage 4).vgz"
     type: betting
   - id: skim_the_surface_of_the_sea
-    title: "Skim The Surface of The Sea"
-    path: "Skim The Surface of The Sea.brstm"
+    title: "Skim The Surface Of The Sea (Stage 2)"
+    path: "Skim The Surface Of The Sea (Stage 2).vgz"
     type: betting
 ...

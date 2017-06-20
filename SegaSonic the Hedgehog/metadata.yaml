@@ -6,15 +6,15 @@ series: sonic
 year: 1993
 songs: 
   - id: ice_and_water
-    path: "Ice & Water.brstm"
+    path: "Ice & Water.vgz"
     title: "Ice & Water"
     type: betting
   - id: quick_escape
-    path: "Quick! Escape!.brstm"
+    path: "Quick! Escape!.vgz"
     title: "Quick! Escape!"
     type: warning
   - id: all_over
-    path: "All Over.brstm"
-    title: "All Over"
+    path: "All Over - Credits.vgz"
+    title: "All Over - Credits"
     type: result
 ...

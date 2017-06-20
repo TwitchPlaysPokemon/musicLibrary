@@ -4,27 +4,27 @@ platform: "Arcade"
 year: 1993
 songs: 
   - id: the_king_of_speed_arcade
-    title: "The King of Speed (Arcade)"
-    path: "The King of Speed (Arcade).brstm"
+    title: "The King of Speed"
+    path: "The King of Speed.vgz"
     type: betting
   - id: awaiting_other_challengers
-    title: "Awaiting Other Challengers"
-    path: "Awaiting Other Challengers (Looped) (Arcade).brstm"
+    title: "Awaiting Your Entry"
+    path: "Awaiting Your Entry.vgz"
     type: result
   - id: lets_go_away
     title: "Let's Go Away"
-    path: "Let's Go Away (Arcade).brstm"
+    path: "Let's Go Away.vgz"
     type: betting
   - id: start_your_engines
     title: "Start Your Engines"
-    path: "Start Your Engines (Looped) (Arcade).brstm"
+    path: "Start Your Engines.vgz"
     type: warning
   - id: pounding_pavement
     title: "Pounding Pavement"
-    path: "Pounding Pavement (Arcade).brstm"
+    path: "Pounding Pavement.vgz"
     type: warning
   - id: could_you_fly
     title: "Could You Fly?"
-    path: "Could You Fly (Arcade).brstm"
+    path: "Could You Fly.vgz"
     type: warning
 ...

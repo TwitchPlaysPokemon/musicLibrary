@@ -7,7 +7,7 @@ year: 2005
 songs: 
   - id: thunderwave_cave
     title: "Thunderwave Cave"
-    path: "Thunderwave Cave.brstm"
+    path: "Thunderwave Cave.mini2sf"
     type: betting
   - id: friend_area_pond
     title: "Friend Area ~ Pond"
@@ -15,27 +15,27 @@ songs:
     type: betting
   - id: mt_thunder
     title: "Mt. Thunder"
-    path: "Mt. Thunder.brstm"
+    path: "Mt. Thunder.mini2sf"
     type: betting
   - id: great_canyon
-    path: "Great Canyon.brstm"
+    path: "Great Canyon.mini2sf"
     title: "Great Canyon"
     type: betting
   - id: the_legend_of_ninetales
     title: "The Legend of Ninetales"
-    path: "The Legend of Ninetales.brstm"
+    path: "The Legend of Ninetales.mini2sf"
     type: betting
   - id: mt_blaze
-    path: "Mt. Blaze.brstm"
+    path: "Mt. Blaze.mini2sf"
     title: "Mt. Blaze"
     type: betting
   - id: magma_cavern
     title: "Magma Cavern"
-    path: "Magma Cavern.brstm"
+    path: "Magma Cavern.mini2sf"
     type: betting
   - id: sky_tower
     title: "Sky Tower"
-    path: "Sky Tower.brstm"
+    path: "Sky Tower.mini2sf"
     ends: 3:43
     type: betting
   - id: buried_relic
@@ -55,12 +55,12 @@ songs:
     path: "Danger.brstm"
     type: warning
   - id: magma_cavern_pit
-    path: "Magma Cavern Pit.brstm"
+    path: "Magma Cavern Pit.mini2sf"
     title: "Magma Cavern Pit"
     type: warning
   - id: world_calamity
     title: "World Calamity"
-    path: "World Calamity.brstm"
+    path: "World Calamity.mini2sf"
     type: warning
   - id: rescue_team_base
     title: "Rescue Team Base"
@@ -68,6 +68,6 @@ songs:
     type: break
   - id: kecleon_shop
     title: "Kecleon Shop"
-    path: "Kecleon Shop.brstm"
+    path: "Kecleon Shop.mini2sf"
     type: break
 ...

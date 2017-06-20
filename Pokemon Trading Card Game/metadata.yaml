@@ -6,44 +6,44 @@ series: pokemon
 year: 1998
 songs: 
   - id: grass_electric_club
-    path: "Grass-Electric Club.brstm"
-    title: "Grass-Electric Club"
+    path: "Lightning, Grass & Psychic Club.vgz"
+    title: "Lightning, Grass & Psychic Club"
     type: betting
   - id: club_master_duel
-    path: "Club Master Duel.brstm"
+    path: "Club Master Duel.vgz"
     title: "Club Master Duel"
     type: betting
   - id: ronalds_theme
-    path: "Ronald's Theme.brstm"
+    path: "Ronald's Theme.vgz"
     title: "Ronald's Theme"
     type: betting
   - id: grand_master_duel
     title: "Grand Master Duel"
-    path: "Grand Master Duel.brstm"
+    path: "Grand Master Duel.vgz"
     type: betting
-  - id: overworld_pokemon_tcg
-    title: "Overworld"
-    path: "Overworld.brstm"
+  - id: world_map_tcg
+    title: "World Map"
+    path: "World Map.vgz"
     type: betting
   - id: water_psychic_rock_club_pokemon_tcg
-    title: "Water-Psychic-Rock Club"
-    path: "Water-Psychic-Rock Club.brstm"
+    title: "Rock & Water Club"
+    path: "Rock & Water Club.vgz"
     type: break
-  - id: normal_duel_pokemon_tcg
-    title: "Normal Duel"
-    path: "Normal Battle.brstm"
+  - id: duel_pokemon_tcg
+    title: "Duel"
+    path: "Duel.vgz"
     type: betting
   - id: credits_tcg
     title: "Credits"
-    path: "Credits.brstm"
+    path: "Credits.vgz"
     ends: 2:58
     type: betting
   - id: fire_fighting_science_club
-    title: "Fire-Fighting-Science Club"
-    path: "Fire-Fighting-Science Club.brstm"
+    title: "Fighting, Science & Fire Club"
+    path: "Fighting, Science & Fire Club.vgz"
     type: betting
   - id: imakuni_battle
-    title: "Imakuni? Battle"
-    path: "Imakuni Battle.brstm"
+    title: "Imakuni? Theme"
+    path: "Imakuni's Theme.vgz"
     type: warning
 ...
