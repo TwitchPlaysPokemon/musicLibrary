@@ -1,0 +1,73 @@
+﻿---
+id: pokemon_mystery_dungeon_blue_rescue_team
+title: "Pokémon Mystery Dungeon: Blue Rescue Team"
+series: pokemon
+platform: "NDS"
+year: 2005
+songs: 
+  - id: thunderwave_cave
+    title: "Thunderwave Cave"
+    path: "Thunderwave Cave.mini2sf"
+    type: betting
+  - id: friend_area_pond
+    title: "Friend Area ~ Pond"
+    path: "Friend Area Pond.brstm"
+    type: betting
+  - id: mt_thunder
+    title: "Mt. Thunder"
+    path: "Mt. Thunder.mini2sf"
+    type: betting
+  - id: great_canyon
+    path: "Great Canyon.mini2sf"
+    title: "Great Canyon"
+    type: betting
+  - id: the_legend_of_ninetales
+    title: "The Legend of Ninetales"
+    path: "The Legend of Ninetales.mini2sf"
+    type: betting
+  - id: mt_blaze
+    path: "Mt. Blaze.mini2sf"
+    title: "Mt. Blaze"
+    type: betting
+  - id: magma_cavern
+    title: "Magma Cavern"
+    path: "Magma Cavern.mini2sf"
+    type: betting
+  - id: sky_tower
+    title: "Sky Tower"
+    path: "Sky Tower.mini2sf"
+    ends: 3:43
+    type: betting
+  - id: buried_relic
+    title: "Buried Relic"
+    path: "Buried Relic.mini2sf"
+    type: betting
+  - id: final_battle_vs_rayquaza
+    title: "Final Battle Vs. Rayquaza"
+    path: "Vs. Rayquaza.mini2sf"
+    type: battle
+  - id: happiness
+    title: "Happiness"
+    path: "Happiness.brstm"
+    type: result
+  - id: danger_theres_trouble
+    title: "Danger! There's Trouble!"
+    path: "Danger.brstm"
+    type: warning
+  - id: magma_cavern_pit
+    path: "Magma Cavern Pit.mini2sf"
+    title: "Magma Cavern Pit"
+    type: warning
+  - id: world_calamity
+    title: "World Calamity"
+    path: "World Calamity.mini2sf"
+    type: warning
+  - id: rescue_team_base
+    title: "Rescue Team Base"
+    path: "Rescue Team Base.mini2sf"
+    type: break
+  - id: kecleon_shop
+    title: "Kecleon Shop"
+    path: "Kecleon Shop.mini2sf"
+    type: break
+...
