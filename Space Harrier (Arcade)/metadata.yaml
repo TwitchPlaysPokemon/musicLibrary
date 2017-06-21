@@ -1,9 +1,9 @@
 id: space_harrier_arcade
-title: "Space Harrier (Arcade)"
+title: "Space Harrier"
 year: 1985
 platform: "Arcade"
 songs:
   - id: theme
     title: "Theme"
-    path: "Theme.brstm"
+    path: "Theme.vgz"
     type: betting

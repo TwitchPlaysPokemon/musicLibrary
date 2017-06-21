@@ -7,18 +7,18 @@ platform: "SNES"
 songs:
   - id: ryu_sf2t
     title: "Ryu"
-    path: "Ryu.brstm"
+    path: "Ryu.spc"
     type: betting
   - id: zangief_sf2t
     title: "Zangief"
-    path: "Zangief.brstm"
+    path: "Zangief.spc"
     type: betting
   - id: blanka_sf2t
     title: "Blanka"
-    path: "Blanka.brstm"
+    path: "Blanka.spc"
     type: betting
   - id: balrog_sf2t
     title: "Balrog"
-    path: "Balrog.brstm"
+    path: "Balrog.spc"
     type: betting
 ...

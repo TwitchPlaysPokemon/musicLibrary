@@ -7,22 +7,22 @@ platform: "PC-98"
 songs:
   - id: witching_dream
     title: "Witching Dream"
-    path: "Witching Dream.brstm"
+    path: "Witching Dream.vgz"
     type: betting
   - id: yuukas_theme_sleeping_terror
     title: "Yuuka's Theme: Sleeping Terror"
-    path: "Sleeping Terror.brstm"
+    path: "Sleeping Terror.vgz"
     type: battle
   - id: selenes_light
     title: "Selene's Light"
-    path: "Selene's Light.brstm"
+    path: "Selenes Light.vgz"
     type: result
   - id: maidens_capriccio_lls
     title: "Reimu's Theme: Maiden's Capriccio"
-    path: "Reimu's Theme - Maiden's Capriccio.brstm"
+    path: "Maidens Capriccio.vgz"
     type: result
   - id: vessel_of_stars_casket_of_star_lls
     title: "Marisa's Theme: Vessel of Stars ~ Casket of Star"
-    path: "Marisa's Theme - Vessel of Star ~ Casket of Star.brstm"
+    path: "Vessel of Stars ~ Casket of Star.vgz"
     type: result
 ...

@@ -5,27 +5,27 @@ platform: "Arcade+Saturn"
 year: 1996
 songs: 
   - id: 471am
-    title: "4-71am"
-    path: "4-71am.brstm"
+    title: "4.71am [Select]"
+    path: "4.71am [Select].vgz"
     type: warning
   - id: bluescape_ranking
-    title: "Bluescape (Ranking)"
-    path: "Bluescape(Ranking).brstm"
+    title: "Bluescape [Ranking]"
+    path: "Bluescape [Ranking].vgz"
     type: result
   - id: degeneracy
-    title: "Degeneracy"
-    path: "Degeneracy.brstm"
+    title: "Degeneracy [Stage 4 Plant]"
+    path: "Degeneracy [Stage 4 Plant].vgz"
     type: betting
   - id: stab_and_stomp
-    title: "Stab and Stomp!"
-    path: "Stab and Stomp!.brstm"
+    title: "Stab and Stomp! [Boss Air]"
+    path: "Stab and Stomp! [Boss Air].vgz"
     type: warning
   - id: subversive_awareness
-    title: "Subversive Awareness"
-    path: "Subversive Awareness.brstm"
+    title: "Subversive Awareness [Stage 5 Cloud]"
+    path: "Subversive Awareness [Stage 5 Cloud].vgz"
     type: battle
   - id: underwater_rampart
-    title: "Underwater Rampart"
-    path: "Underwater Rampart.brstm"
+    title: "Underwater Rampart [Stage 2 Plateau]"
+    path: "Underwater Rampart [Stage 2 Plateau].vgz"
     type: betting
 ...

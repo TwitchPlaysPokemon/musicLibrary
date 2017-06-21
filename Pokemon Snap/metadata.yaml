@@ -7,15 +7,15 @@ year: 1999
 songs:
   - id: pokemon_report_pokemon_snap
     title: "Pokémon Report"
-    path: "Pokemon Report.brstm"
+    path: "Pokemon Report.miniusf"
     type: result
   - id: prof_oak_lab_pokemon_snap
     title: "Prof. Oak's Lab"
-    path: "Prof. Oak's Lab.brstm"
+    path: "Prof Oak's Lab.miniusf"
     type: betting
   - id: prof_oak_check_pokemon_snap
     title: "Prof. Oak's Check"
-    path: "Prof. Oak's Check.brstm"
+    path: "Prof Oak's Check.miniusf"
     type: warning
   - id: tunnel_power_acticated
     title: "Tunnel - Power Activated"
@@ -23,19 +23,19 @@ songs:
     type: warning
   - id: valley_pokemon_snap
     title: "Valley"
-    path: "Valley.brstm"
+    path: "Valley.miniusf"
     type: betting
   - id: volcano_pokemon_snap
     title: "Volcano"
-    path: "Volcano.brstm"
+    path: "Volcano.miniusf"
     type: betting
   - id: river_pokemon_snap
     title: "River"
-    path: "River.brstm"
+    path: "River.miniusf"
     type: break
   - id: beach_pokemon_snap
     title: "Beach"
-    path: "Beach.brstm"
+    path: "Beach.miniusf"
     type: betting
   - id: title_pokemon_snap
     title: "Title"
@@ -51,6 +51,6 @@ songs:
     type: break
   - id: rainbow_pokemon_snap
     title: "Rainbow"
-    path: "23 Rainbow.miniusf"
+    path: "Rainbow.miniusf"
     type: betting
 ...

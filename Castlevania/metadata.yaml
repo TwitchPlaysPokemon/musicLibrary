@@ -5,14 +5,14 @@ year: 1986
 platform: "NES"
 songs:
   - id: stage_3_wicked_child
-    title: "Stage 3 (Wicked Child)"
-    path: "Stage 3 (Wicked Child).brstm"
+    title: "Wicked Child"
+    path: "Wicked Child.vgz"
     type: betting
   - id: vampire_killer_nes_castlevania
     title: "Vampire Killer"
-    path: "Vampire Killer.brstm"
+    path: "Vampire Killer.vgz"
     type: betting
   - id: heart_of_fire_nes_castlevania
     title: "Heart of Fire"
-    path: "Heart of Fire.brstm"
+    path: "Heart of Fire.vgz"
     type: betting

@@ -6,37 +6,37 @@ platform: "SNES"
 songs:
   - id: port_town_fzero
     title: "Port Town"
-    path: "07 Port Town.spc"
+    path: "Port Town.spc"
     type: betting
   - id: white_land_i_fzero
     title: "White Land I"
-    path: "06a White Land I.spc"
+    path: "White Land I.spc"
     type: betting
   - id: sand_ocean_fzero
     title: "Sand Ocean"
-    path: "10 Sand Ocean.spc"
+    path: "Sand Ocean.spc"
     type: betting
   - id: big_blue_fzero
     title: "Big Blue"
-    path: "Big Blue.brstm"
+    path: "Big Blue.spc"
     type: betting
   - id: mute_city_fzero
     title: "Mute City"
-    path: "Mute City.brstm"
+    path: "Mute City.spc"
     type: betting
   - id: red_canyon_fzero
     title: "Red Canyon"
-    path: "Red Canyon.brstm"
+    path: "Red Canyon.spc"
     type: warning
   - id: death_wind_fzero
     title: "Death Wind"
-    path: "Death Wind.brstm"
+    path: "Death Wind.spc"
     type: warning
   - id: silence_fzero
     title: "Silence"
-    path: "Silence.brstm"
+    path: "Silence.spc"
     type: result
   - id: ending_credits_fzero
     title: "Ending Credits"
-    path: "Ending Credits.brstm"
+    path: "Ending Theme.spc"
     type: result

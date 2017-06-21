@@ -7,34 +7,34 @@ year: 1987
 songs:
   - id: battle_bgm_the_legend_of_zelda_2_the_adventure_of_link
     title: "Battle BGM"
-    path: "Battle BGM.brstm"
+    path: "Battle BGM.vgz"
     type: warning
   - id: boss_the_legend_of_zelda_2_the_adventure_of_link
     title: "Boss"
-    path: "Boss.brstm"
+    path: "Boss.vgz"
     type: warning
   - id: ending_the_legend_of_zelda_2_the_adventure_of_link
     title: "Ending"
-    path: "Ending.brstm"
+    path: "Ending.vgz"
     type: result
   - id: great_temple_the_legend_of_zelda_2_the_adventure_of_link
     title: "Great Temple"
-    path: "Great Temple.brstm"
+    path: "Great Temple.vgz"
     type: betting
   - id: last_boss_dark_link
     title: "Last Boss (Dark Link)"
-    path: "Last Boss (Dark Link).brstm"
+    path: "Last Boss.vgz"
     type: warning
   - id: overworld_bgm_the_legend_of_zelda_2_the_adventure_of_link
     title: "Overworld BGM"
-    path: "Overworld BGM.brstm"
+    path: "Overworld BGM.vgz"
     type: betting
   - id: temple_bgm_the_legend_of_zelda_2_the_adventure_of_link
     title: "Temple BGM"
-    path: "Temple BGM.brstm"
+    path: "Temple BGM.vgz"
     type: betting
-  - id: village_bgm_the_legend_of_zelda_2_the_adventure_of_link
-    title: "Village BGM"
-    path: "Village BGM.brstm"
+  - id: town_bgm_the_legend_of_zelda_2_the_adventure_of_link
+    title: "Town BGM"
+    path: "Town BGM.vgz"
     type: break
 ...

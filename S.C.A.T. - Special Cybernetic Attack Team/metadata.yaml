@@ -5,13 +5,13 @@ platform: "NES"
 songs:
   - id: new_york_city_ruins
     title: "New York City Ruins"
-    path: "New York City Ruins.brstm"
+    path: "New York City Ruins.vgz"
     type: betting
   - id: prologue_scat
     title: "Prologue"
-    path: "Prologue.brstm"
+    path: "Prologue.vgz"
     type: warning
   - id: the_orbiting_platform
     title: "The Orbiting Platform"
-    path: "The Orbiting Platform.brstm"
+    path: "The Orbiting Platform.vgz"
     type: warning

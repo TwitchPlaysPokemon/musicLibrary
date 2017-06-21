@@ -6,22 +6,22 @@ platform: "NES"
 songs:
   - id: dwelling_of_doom
     title: "Dwelling of Doom"
-    path: "Dwelling of Doom.brstm"
+    path: "Dwelling of Doom.vgz"
     type: warning
   - id: bloddy_tears_simon_quest
     title: "Bloody Tears"
-    path: "Bloody Tears.brstm"
+    path: "Bloody Tears.vgz"
     type: warning
   - id: message_of_darkness_simon_quest
     title: "Message of Darkness"
-    path: "Message of Darkness.brstm"
+    path: "Message of Darkness.vgz"
     type: warning
   - id: monster_dance_simon_quest
     title: "Monster Dance"
-    path: "Monster Dance.brstm"
+    path: "Monster Dance.vgz"
     type: warning
   - id: the_silence_of_daylight
-    title: "The Silence of Daylight"
-    path: "The Silence of Daylight.brstm"
+    title: "The Silence of The Daylight"
+    path: "The Silence of The Daylight.vgz"
     type: betting
 ...

@@ -5,11 +5,11 @@ platform: "Arcade"
 songs:
   - id: magical_sound_shower_arcade
     title: "Magical Sound Shower"
-    path: "Magical Sound Shower.brstm"
+    path: "Magical Sound Shower (Extended).vgz"
     type: betting
   - id: splash_wave_arcade
     title: "Splash Wave"
-    path: "Splash Wave.brstm"
+    path: "Splash Wave.vgz"
     type: warning
 #  - id: last_wave_arcade
 #   title: "Last Wave"
