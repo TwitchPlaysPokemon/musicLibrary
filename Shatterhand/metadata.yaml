@@ -6,14 +6,14 @@ year: 1991
 songs: 
   - id: area_b
     title: "Area B"
-    path: "Area B.brstm"
+    path: "Area B.vgz"
     type: betting
   - id: area_c_jp
     title: "Area C (JP)"
-    path: "Area C (JP).brstm"
+    path: "Area C (JP).vgz"
     type: betting
   - id: area_g_missile_command
     title: "Area G Missile Command"
-    path: "Area G Missile Command.brstm"
+    path: "Area G.vgz"
     type: betting
 ...

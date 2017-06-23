@@ -4,32 +4,32 @@ platform: "PS1"
 title: "Front Mission 3"
 year: 1999
 songs: 
-  - id: attack
-    path: "Attack.brstm"
-    title: "Attack"
+  - id: advanced_attack
+    path: "Advanced Attack.psf"
+    title: "Advanced Attack"
     type: battle
-  - id: barrier
-    path: "Barrier.brstm"
-    title: "Barrier"
+  - id: barilar
+    path: "Barilar.psf"
+    title: "Barilar"
     type: betting
   - id: escape
-    path: "Escape.brstm"
+    path: "Escape.psf"
     title: "Escape"
     type: battle
   - id: network
-    path: "Network.brstm"
+    path: "Network.psf"
     title: "Network"
     type: result
   - id: setup_2
-    path: "Setup 2.brstm"
+    path: "Setup 2.psf"
     title: "Setup 2"
     type: betting
   - id: swift_attack
-    path: "Swift Attack.brstm"
+    path: "Swift Attack.psf"
     title: "Swift Attack"
     type: battle
   - id: the_bar
-    path: "The Bar.brstm"
-    title: "The Bar"
+    path: "Bar (General Purpose).psf"
+    title: "Bar (General Purpose)"
     type: betting
 ...
