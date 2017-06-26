@@ -5,11 +5,11 @@ platform: "Arcade+GB"
 year: 1992
 songs: 
   - id: the_fairies_wait_for_spring
-    title: "The Fairies Wait for Spring"
-    path: "The Fairies Wait for Spring.brstm"
+    title: "The Fairies Wait for Spring [Sekiero Mode 3]"
+    path: "The Fairies Wait for Spring [Sekiero Mode 3].vgz"
     type: result
   - id: vs_mode_soldam
     title: "VS Mode"
-    path: "VS Mode.brstm"
+    path: "VS Mode.vgz"
     type: betting
 ...
