@@ -1,8 +1,9 @@
+---
 id: star_fox_2
 title: "Star Fox 2"
 series: starfox
-year: Unreleased
 platform: "SNES"
+year: 2017
 songs:
   - id: macbeth_starfox2
     title: "Macbeth"
@@ -28,3 +29,4 @@ songs:
     title: "Surprise Attack"
     path: "Surprise Attack.spc"
     type: warning
+...
