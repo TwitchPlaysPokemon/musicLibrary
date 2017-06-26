@@ -1,0 +1,47 @@
+---
+id: blazeon_arcade
+title: "BlaZeon (Arcade)"
+platform: ["Arcade", "SNES"]
+year: 1992
+songs: 
+  - id: optimistic_departure
+    title: "Optimistic Departure"
+    path: "02 Optimistic Departure (Title Demo, Stage 1).vgz"
+    type: betting
+  - id: intimidating_spaces
+    title: "Intimidating Spaces"
+    path: "05 Intimidating Spaces (Boss).vgz"
+    type: warning
+  - id: next_step
+    title: "Next Step"
+    path: "06 Next Step (Stage Clear).vgz"
+    type: result
+  - id: cosmic_ocean_blue
+    title: "Cosmic Ocean Blue"
+    path: "07 Cosmic Ocean Blue (Stage 2 [First Section]).vgz"
+    type: betting
+  - id: unlimited_attack
+    title: "Unlimited Attack"
+    path: "08 Unlimited Attack (Middle Boss).vgz"
+    type: warning
+  - id: alpha
+    title: "Alpha"
+    path: "09 Alpha (Stage 2 [Second Section]).vgz"
+    type: betting
+  - id: infinite_world
+    title: "Infinite World"
+    path: "10 Infinite World (Stage 3).vgz"
+    type: result
+  - id: fighting_machine
+    title: "Fighting Machine"
+    path: "11 Fighting Machine (Stage 4 [First Section]).vgz"
+    type: battle
+  - id: emergency_avoidance
+    title: "Emergency Avoidance"
+    path: "12 Emergency Avoidance (Stage 4 [Second Section]).vgz"
+    type: battle
+  - id: hop_step_jump
+    title: "Hop, Step, Jump!"
+    path: "14 Hop, Step, Jump! (Ending).vgz"
+    type: result
+...

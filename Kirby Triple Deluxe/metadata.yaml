@@ -6,36 +6,36 @@ platform: "3DS"
 year: 2014
 songs: 
   - id: soul_of_sectonia
-    path: "Soul of Sectonia.brstm"
     title: "Sectonia Soul"
+    path: "Soul of Sectonia.brstm"
     type: battle
 #      - id: arena
 #        title: "Arena Battle"
 #        path: "The Arena [from Kirby Super Star].brstm"
 #        type: battle 
 #Not tense and charged enough; possibly betting?
-  - id: attack_boss_battle_kirby_triple_deluxe
-    title: "Attack! (Boss Battle)"
+  - id: bouncing_boss_battle_kirby_triple_deluxe
+    title: "Bouncing Boss Battle"
     path: "Attack! (Boss Battle).brstm"
     type: battle
-  - id: danger_kirby_triple_deluxe
-    title: "Danger (Approaching Boss)"
+  - id: dark_clouds_kirby_triple_deluxe
+    title: "Dark Clouds"
     path: "Danger (Approaching Boss).brstm"
     type: warning
-#      - id: ddd_results
-#        title: "Dedede's Drum Dash - Results"
+#      - id: drum_dash_results
+#        title: "Drum Dash Results"
 #        path: "King Dedede Drum Dash - Results.brstm"
 #        type: result
-#      - id: dirty_and_beauty
-#        title: "Dirty & Beauty"
+#      - id: sullied_grace
+#        title: "Sullied Grace"
 #        path: "Dirty & Beauty (Queen Sectonia 1).brstm"
 #        type: battle #Not tense and charged enough until the 1st minute; which is too much for PBR
-  - id: ever_explosion
-    title: "Ever Explosion"
+  - id: mountains_in_an_angry_sky
+    title: "Mountains in an Angry Sky"
     path: "Ever Explosion.brstm"
     type: betting
-  - id: fine_field
-    title: "Fine Field"
+  - id: floral_fields
+    title: "Floral Fields"
     path: "Fine Field 1 (Beanstalk Area).brstm"
     type: betting
   - id: king_dedede_theme_drum_dash_version_stage3
@@ -54,15 +54,15 @@ songs:
     title: "Moonstruck Blossom"
     path: "F-L-O-W-E-R (Queen Sectonia 2).brstm"
     type: battle
-  - id: prairie_area_kirby_triple_deluxe
-    title: "Prairie Area"
+  - id: fine_fields_prairie
+    title: "Fine Fields Prairie"
     path: "Fine Field 3 (Prairie Area).brstm"
     type: betting
-  - id: prison_of_beauty
-    title: "Prison of Beauty"
+  - id: beautiful_prison
+    title: "Beautiful Prison"
     path: "Prison of Beauty.brstm"
     type: betting
-  - id: revenge_of_enemy
+  - id: revenge_of_the_enemy
     title: "Revenge of the Enemy"
     path: "Revenge of the Enemy.brstm"
     type: battle
@@ -70,11 +70,11 @@ songs:
     title: "Ripple Red"
     path: "Ripple Red[from Crystal Shards].brstm"
     type: betting
-  - id: sky_area_kirby_triple_deluxe
-    title: "Sky Area"
+  - id: silver_snow_story
+    title: "Silver Snow Story"
     path: "Old Odyssey 2 (Sky Area) [''Peanut Plain'' from Kirby Super Star].brstm"
     type: betting
-  - id: world_to_win
+  - id: the_world_to_win
     title: "The World to Win"
     path: "Sectonia vs. Hypernova.brstm"
     type: battle
@@ -86,24 +86,24 @@ songs:
     title: "True Arena Battle"
     path: "True Arena Battle.brstm"
     type: battle
-  - id: world_map_kirby_triple_deluxe
-    title: "World Map"
+  - id: green_greens_kirby_triple_deluxe
+    title: "Green Greens"
     path: "World Map [''Green Greens'' from Kirby's Dream Land].brstm"
     type: betting
   - id: the_arena_kirby_triple_deluxe
     title: "The Arena"
     path: "The Arena [from Kirby Super Star].brstm"
     type: warning
-  - id: kirby_fighters_big_forest
-    title: "Kirby Fighters - Big Forest"
+  - id: four_way_fight_in_coos_forest
+    title: "Four-Way Fight in Coo´s Forest"
     path: "Kirby Fighters - Big Forest [from Kirby's Dream Land 2].brstm"
     type: betting
-  - id: colosseum_battle_the_arena
-    title: "Colosseum Battle (The Arena)"
+  - id: arena_showdown
+    title: "Arena Showdown"
     path: "Colosseum Battle (The Arena) [from Kirby Super Star].brstm"
     type: warning
-  - id: dark_meta_knight
-    title: "Dark Meta Knight"
+  - id: shadow_strike
+    title: "Shadow Strike"
     path: "Dark Meta Knight.brstm"
     type: warning
   - id: taranza_master_of_puppetry
@@ -126,5 +126,28 @@ songs:
   - id: royal_road
     title: "Royal Road"
     path: "Royal Road.brstm"
+    type: betting
+  - id: dededeluxe
+    title: "Dededeluxe"
+    ends: 3:06
+    path: "Dededeluxe.brstm"
+    type: betting
+  - id: dreams_and_disappearing_kings
+    title: "Dreams and Disappearing Kings"
+    ends: 2:21
+    path: "Dreams and Disappearing Kings.brstm"
+    type: betting
+  - id: golden_legend
+    title: "Golden Legend"
+    path: "Golden Legend.brstm"
+    type: betting
+  - id: last_minute_hero
+    title: "Last-Minute Hero"
+    path: "Last-Minute Hero.brstm"
+    type: warning
+  - id: midnight_moonlight_forever_sleeping_flower
+    title: "Midnight Moonlight (Forever-Sleeping Flower)"
+    ends: 3:25
+    path: "Midnight Moonlight (Forever-Sleeping Flower).brstm"
     type: betting
 ...

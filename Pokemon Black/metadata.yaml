@@ -25,7 +25,7 @@ songs:
     path: "113 - Route 1.mini2sf"
     title: "Route 1"
     type: betting
-  - id: accumula_town
+  - id: accumula_town_karakusa
     path: "117 - Karakusa Town.mini2sf"
     title: "Accumula Town"
     type: betting
@@ -45,7 +45,7 @@ songs:
     path: "130 - Sanyou City.mini2sf"
     title: "Striaton City"
     type: betting
-  - id: the_dreamyard
+  - id: the_dreamyard_abandoned_lot_of_dreams
     path: "132 - Abandoned Lot of Dreams.mini2sf"
     title: "The Dreamyard"
     type: betting
@@ -69,7 +69,7 @@ songs:
     path: "153 - Route 4 (Spring).mini2sf"
     title: "Route 4 (Spring)"
     type: betting
-  - id: nimbasa_city
+  - id: nimbasa_city_raimon
     path: "155 - Raimon City.mini2sf"
     title: "Nimbasa City"
     type: betting
@@ -105,11 +105,11 @@ songs:
     path: "207 - Electric Rock Cave.mini2sf"
     title: "Chargestone Cave"
     type: betting
-  - id: mistralton_city
+  - id: mistralton_city_fukiyose
     path: "208 - Fukiyose City.mini2sf"
     title: "Mistralton City"
     type: betting
-  - id: cedric_juniper
+  - id: cedric_juniper_araragis_father
     path: "209 - Araragi's Father.mini2sf"
     title: "Cedric Juniper"
     type: betting
@@ -201,7 +201,7 @@ songs:
     path: "315 - Musical Hall.mini2sf"
     title: "Musical Hall"
     type: betting
-  - id: a_ferris_wheel_ride_together
+  - id: a_ferris_wheel_ride_together_two_people
     path: "323 - Two People on the Ferris Wheel.mini2sf"
     title: "A Ferris Wheel Ride Together"
     type: betting
@@ -229,7 +229,7 @@ songs:
     path: "332b - Route 12 (Summer).mini2sf"
     title: "Route 12 (Summer)"
     type: betting
-  - id: poke_transfer_lab
+  - id: poke_transfer_lab_shift_factory
     path: "334 - Shift Factory.mini2sf"
     title: "Poké Transfer Lab"
     type: betting
@@ -269,7 +269,7 @@ songs:
     path: "351 - Lost Forest.mini2sf"
     title: "Lostlorn Forest"
     type: betting
-  - id: abyssal_ruins_black
+  - id: abyssal_ruins_undersea
     path: "402 - Undersea Ruins.mini2sf"
     title: "Abyssal Ruins"
     type: betting
@@ -297,7 +297,7 @@ songs:
     path: "407 - Route 4 (Winter).mini2sf"
     title: "Route 4 (Winter)"
     type: betting
-  - id: battle_cheren_and_bianca
+  - id: battle_cheren_and_bianca_belle
     path: "107 - Battle! Cheren & Belle.mini2sf"
     title: "Battle! Cheren & Bianca"
     type: battle
@@ -421,15 +421,15 @@ songs:
     path: "United Nations.brstm"
     title: "United Nations"
     type: result
-  - id: come_along_1
+  - id: hurry_along_come_1
     path: "108 - Come Along 1.mini2sf"
-    title: "Come Along"
+    title: "Hurry Along 1"
     type: warning
-  - id: come_along_2
+  - id: hurry_along_come_2
     path: "118 - Come Along 2.mini2sf"
-    title: "Come Along 2"
+    title: "Hurry Along 2"
     type: warning
-  - id: team_plasma_plots
+  - id: team_plasma_plots_secret_maneuvers
     path: "122 - Team Plasma's Secret Maneuvers.mini2sf"
     title: "Team Plasma Plots"
     type: warning
@@ -457,7 +457,7 @@ songs:
     path: "139 - Cheren's Theme.mini2sf"
     title: "Cheren's Theme"
     type: warning
-  - id: theres_trouble_black
+  - id: theres_trouble_occurs
     path: "140 - Trouble Occurs!.mini2sf"
     title: "There's Trouble!"
     type: warning
@@ -469,7 +469,7 @@ songs:
     path: "154 - Encounter! Backpacker.mini2sf"
     title: "Encounter! Backpacker"
     type: warning
-  - id: prisoner_to_a_formula
+  - id: prisoner_to_a_formula_the_equated_captives
     path: "158 - The Equated Captives.mini2sf"
     title: "Prisoner to a Formula"
     type: warning
@@ -505,7 +505,7 @@ songs:
     path: "227 - Encounter! Ace Trainer.mini2sf"
     title: "Encounter! Ace Trainer"
     type: warning
-  - id: the_pokemon_league_besieged
+  - id: the_pokemon_league_besieged_siege
     path: "230 - Siege on the Pokémon League.mini2sf"
     title: "The Pokémon League Besieged!"
     type: warning

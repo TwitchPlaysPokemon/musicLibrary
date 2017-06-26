@@ -1,0 +1,40 @@
+---
+id: fairune_mobile_3ds
+title: "Fairune"
+series: fairune
+platform: "Mobile, 3DS"
+year: 2013
+songs: 
+  - id: grasslands_fairune
+    title: "Grasslands"
+    path: "Grasslands.brstm"
+    type: betting
+  - id: lava_zone_fairune
+    title: "Lava Zone"
+    path: "Lava Zone.brstm"
+    type: betting
+  - id: administrators_tower_fairune
+    title: "Administrators' Tower"
+    path: "Administrators' Tower.brstm"
+    type: betting
+  - id: the_underworld_fairune
+    title: "The Underworld"
+    path: "The Underworld.brstm"
+    type: warning
+  - id: secret_files_fairune
+    title: "Secret Files"
+    path: "Secret Files.brstm"
+    type: warning
+  - id: mega_dark_fairune
+    title: "Mega Dark"
+    path: "Mega Dark.brstm"
+    type: warning
+  - id: giga_dark_fairune
+    title: "Giga Dark"
+    path: "Giga Dark.brstm"
+    type: warning
+  - id: terra_dark_fairune
+    title: "Terra Dark"
+    path: "Terra Dark.brstm"
+    type: warning
+...

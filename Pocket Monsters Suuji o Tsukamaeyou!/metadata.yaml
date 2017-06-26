@@ -2,19 +2,19 @@
 id: pocket_monsters_suuji_o_tsukamaeyou
 title: "Pocket Monsters: Suuji o Tsukamaeyou!"
 series: pokemon
-year: 2002
 platform: "Sega Pico"
+year: 2002
 songs:
   - id: page_1
     title: "Page 1"
     path: "Page 1.vgz"
     type: result
   - id: flying_pokemon_catching
-    title: "Flying Pokemon Catching"
+    title: "Flying Pokémon Catching"
     path: "Flying Pokemon Catching.vgz"
     type: betting
   - id: water_pokemon_counting
-    title: "Water Pokemon Counting"
+    title: "Water Pokémon Counting"
     path: "Water Pokemon Counting.vgz"
     type: break
   - id: page_2
@@ -22,7 +22,7 @@ songs:
     path: "Page 2.vgz"
     type: betting
   - id: fainted_pokemon_healing
-    title: "Fainted Pokemon Healing"
+    title: "Fainted Pokémon Healing"
     path: "Fainted Pokemon Healing.vgz"
     type: break
   - id: page_3

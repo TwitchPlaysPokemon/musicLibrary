@@ -1,7 +1,8 @@
+---
 id: stella_glow
 title: "Stella Glow"
-year: 2015
 platform: "3DS"
+year: 2015
 songs:
   - id: mithra_battle
     title: "Mithra Battle (Battle 01)"
@@ -27,3 +28,8 @@ songs:
     title: "Kingdom of Regnant ~ Eclipse"
     path: "Kingdom of Regnant ~ Eclipse.brstm"
     type: betting
+  - id: title_stella_glow
+    title: "Title"
+    path: "Stella Glow - Title.brstm"
+    type: break
+...

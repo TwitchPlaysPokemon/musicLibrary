@@ -1,56 +1,56 @@
 ---
 id: super_mario_sunshine
-platform: "GCN"
 title: "Super Mario Sunshine"
 series: mario
+platform: "GCN"
 year: 2002
 songs: 
-  - id: vs_boss_mariosun
-    path: "Vs. Boss.brstm"
+  - id: vs_boss_mariosunshine
     title: "Vs. Boss"
+    path: "Vs. Boss.brstm"
     type: warning
   - id: ricco_harbor
-    path: "Ricco Harbor.brstm"
     title: "Ricco Harbor"
+    path: "Ricco Harbor.brstm"
     type: betting
   - id: delfino_plaza
-    path: "Delfino Plaza.brstm"
     title: "Delfino Plaza"
+    path: "Delfino Plaza.brstm"
     type: betting
-  - id: shadow_mario_sunshine
-    path: "Shadow Mario.brstm"
+  - id: shadow_mario_mariosunshine
     title: "Shadow Mario"
+    path: "Shadow Mario.brstm"
     type: warning
-  - id: bianco_hills_medley_sunshine
-    path: "Bianco Hills - Medley.brstm"
+  - id: bianco_hills_medley_mariosunshine
     title: "Bianco Hills - Medley"
+    path: "Bianco Hills - Medley.brstm"
     type: betting
   - id: gelato_beach_medley
-    path: "Gelato Beach - Medley.brstm"
     title: "Gelato Beach - Medley"
+    path: "Gelato Beach - Medley.brstm"
     type: betting
   - id: noki_bay_medley
-    path: "Noki Bay - Medley.brstm"
     title: "Noki Bay - Medley"
+    path: "Noki Bay - Medley.brstm"
     type: break
   - id: pinna_park_beach
-    path: "Pinna Park Beach.brstm"
     title: "Pinna Park Beach"
+    path: "Pinna Park Beach.brstm"
     type: break
   - id: secret_course_sunshine
-    path: "Secret Course.brstm"
     title: "Secret Course"
+    path: "Secret Course.brstm"
     type: betting
   - id: vs_phantamanta
-    path: "Vs. Phantamanta.brstm"
     title: "Vs. Phantamanta"
+    path: "Vs. Phantamanta.brstm"
     type: warning
   - id: sirena_beach
-    path: "Sirena Beach.brstm"
     title: "Sirena Beach"
+    path: "Vs. Phantamanta.brstm"
     type: break
   - id: casino_delfino
-    path: "Casino Delfino.brstm"
     title: "Casino Delfino"
+    path: "Casino Delfino.brstm"
     type: break
 ...

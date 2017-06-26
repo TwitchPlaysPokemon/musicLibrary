@@ -1,3 +1,4 @@
+---
 id: super_mario_64
 title: "Super Mario 64"
 series: mario
@@ -48,3 +49,8 @@ songs:
     title: "Merry-Go-Round"
     path: "Merry-Go-Round.miniusf"
     type: warning
+  - id: file_select_sm64
+    title: "File Select"
+    path: "18 File Select.miniusf"
+    type: break
+...

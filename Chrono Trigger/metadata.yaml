@@ -9,7 +9,7 @@ songs:
     title: "Guardia Millennial Fair"
     path: "106 Guardia Millennial Fair.spc"
     type: betting
-  - id: courage_and_pride
+  - id: guardia_castle_courage_and_pride
     title: "Guardia Castle ~Courage and Pride~"
     path: "Guardia Castle.brstm"
     type: betting
@@ -51,6 +51,7 @@ songs:
     type: result
   - id: to_far_away_times
     title: "To Far Away Times"
+    ends: 3:14
     path: "317 To Far Away Times.spc"
     type: betting
   - id: gatos_song

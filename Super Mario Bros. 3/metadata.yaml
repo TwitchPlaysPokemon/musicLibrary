@@ -1,0 +1,56 @@
+---
+id: super_mario_bros_3
+title: "Super Mario Bros. 3"
+series: mario
+platform: "NES"
+year: 1988
+songs: 
+  - id: world_1_map_smb3
+    title: "World 1 Map"
+    path: "01 World 1 Map.vgz"
+    type: warning
+  - id: overworld_bgm_smb3
+    title: "Overworld BGM"
+    path: "02 Overworld BGM.vgz"
+    type: betting
+  - id: world_2_map_smb3
+    title: "World 2 Map"
+    path: "05 World 2 Map.vgz"
+    type: warning
+  - id: athletic_bgm_smb3
+    title: "Athletic BGM"
+    path: "06 Athletic BGM.vgz"
+    type: betting
+  - id: world_4_map_smb3
+    title: "World 4 Map"
+    path: "12 World 4 Map.vgz"
+    type: result
+  - id: underground_bgm_smb3
+    title: "Underground BGM"
+    path: "13 Underground BGM.vgz"
+    type: warning
+  - id: world_6_map_smb3
+    title: "World 6 Map"
+    path: "17 World 6 Map.vgz"
+    type: warning
+  - id: fortress_bgm_smb3
+    title: "Fortress BGM"
+    path: "18 Fortress BGM.vgz"
+    type: warning
+  - id: fortress_boss_smb3
+    title: "Fortress Boss"
+    path: "19 Fortress Boss.vgz"
+    type: warning
+  - id: world_7_map_smb3
+    title: "World 7 Map"
+    path: "22 World 7 Map.vgz"
+    type: warning
+  - id: world_8_map_smb3
+    title: "World 8 Map"
+    path: "25 World 8 Map.vgz"
+    type: warning
+  - id: king_koopa_smb3
+    title: "King Koopa"
+    path: "26 King Koopa.vgz"
+    type: warning
+...

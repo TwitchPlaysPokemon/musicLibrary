@@ -1,26 +1,32 @@
+---
 id: kirby_super_star_ultra
 title: "Kirby Super Star Ultra"
 series: kirby
 platform: "NDS"
 year: 2008
 songs: 
-  - id: aerial_fortress_kabula_kssultra
-    title: "Aerial Fortress Kabula"
-    path: "082 Flying Fortress Kabula.mini2sf"
-    type: warning
-  - id: candy_mountain_kssultra
-    title: "Candy Mountain"
+  - id: jovial_ascent_candy_mountain
+    title: "Jovial Ascent ~ Candy Mountain"
     path: "020 Candy Mountain.mini2sf"
     type: betting
-  - id: helper_to_hero_rest_point_kssultra
-    title: "Helper to Hero Rest Point"
-    path: "089 Helpers' Rest.mini2sf"
-    type: break
-  - id: vs_marx_kssu
-    title: "Vs Marx"
-    path: "Vs Marx.brstm"
-    type: warning
-  - id: the_great_cave_offensive_kssu
-    title: "The Great Cave Offensive"
+  - id: an_adventurous_song_for_all_occasions
+    title: "An Adventurous Song for All Occasions ~ Great Cave Offensive Intro, Title Screen & Credits"
     path: "The Great Cave Offensive.brstm"
     type: betting
+  - id: tribulations_from_an_insane_jester
+    title: "Tribulations from an Insane Jester ~ Versus Marx & Soul Marx"
+    path: "Vs Marx.brstm"
+    type: warning
+  - id: dededes_flying_fortress_kabula_airship_battle
+    title: "Dedede's Flying Fortress ~ Kabula Airship Battle"
+    path: "082 Flying Fortress Kabula.mini2sf"
+    type: warning
+  - id: you_must_recover_main_menu_and_recovery_room
+    title: "You Must Recover! ~ Main Menu & Recovery Room"
+    path: "You Must Recover! ~ Main Menu & Recovery Room.brstm"
+    type: break
+  - id: lay_your_weary_head_to_rest_arena_rest_areas
+    title: "Lay Your Weary Head to Rest ~ Arena Rest Areas"
+    path: "089 Helpers' Rest.mini2sf"
+    type: break
+...
