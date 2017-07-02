@@ -41,4 +41,16 @@ songs:
     title: "What's Going On?"
     path: "What's Going On.brstm"
     type: betting
+  - id: beneath_the_mask
+    title: "Beneath the Mask"
+    path: "Beneath the Mask.adx"
+    type: break
+  - id: life_will_change_inst
+    title: "Life Will Change (Instrumental)"
+    path: "Life Will Change (Instrumental).adx"
+    type: battle
+  - id: victory_p5
+    title: "Victory"
+    path: "Victory.adx"
+    type: result
 ...

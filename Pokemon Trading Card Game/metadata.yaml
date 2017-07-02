@@ -46,4 +46,8 @@ songs:
     title: "Imakuni? Theme"
     path: "Imakuni's Theme.vgz"
     type: warning
+  - id: challenge_hall
+    title: "Challenge Hall"
+    path: "Challenge Hall.vgz"
+    type: result
 ...

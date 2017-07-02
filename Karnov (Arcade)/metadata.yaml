@@ -1,0 +1,15 @@
+---
+id: karnov
+title: "Karnov"
+platform: "Arcade"
+year: 1987
+songs: 
+  - id: hurry_up_karnov
+    title: "Hurry Up!"
+    path: "04 Hurry Up!.vgz"
+    type: warning
+  - id: name_entry_karnov
+    title: "Name Entry"
+    path: "06 Name Entry.vgz"
+    type: warning
+...

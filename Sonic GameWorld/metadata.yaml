@@ -1,13 +1,18 @@
+---
 id: sonic_gameworld
 title: "Sonic the Hedgehog's GameWorld"
+series: sonic
 platform: "Sega Pico"
 year: 1994
-series: sonic
 songs:
   - id: floors_1_3
     title: "Floors 1 ~ 3"
     path: "04 Floors 1 ~ 3.vgz"
     type: betting
+  - id: tree_climb
+    title: "Tree Climb"
+    path: "05 Tree Climb.vgz"
+    type: result
   - id: sonic_ball
     title: "Sonic-Ball"
     path: "07 Sonic-Ball.vgz"
@@ -24,3 +29,4 @@ songs:
     title: "Unused 2"
     path: "19 Unused 2.vgz"
     type: betting
+...

@@ -1,0 +1,39 @@
+---
+id: choujin_sentai_jetman
+title: "Choujin Sentai Jetman"
+platform: "FC"
+year: 1991
+songs: 
+  - id: title_csj
+    title: "Title"
+    path: "01 Title.vgz"
+    type: result
+  - id: area_select_csj
+    title: "Area Select"
+    path: "02 Area Select.vgz"
+    type: warning
+  - id: area_a_csj
+    title: "Area A"
+    path: "03 Area A.vgz"
+    type: betting
+  - id: area_c_csj
+    title: "Area C"
+    path: "05 Area C.vgz"
+    type: betting
+  - id: area_d_csj
+    title: "Area D"
+    path: "06 Area D.vgz"
+    type: warning
+  - id: boss_csj
+    title: "Boss"
+    path: "10 Boss.vgz"
+    type: warning
+  - id: last_area_intro_csj
+    title: "Last Area Intro"
+    path: "12 Last Area Intro.vgz"
+    type: warning
+  - id: last_area_csj
+    title: "Last Area"
+    path: "13 Last Area.vgz"
+    type: battle
+...

@@ -1,0 +1,27 @@
+---
+id: tetris_plus
+title: "Tetris Plus"
+platform: "GB"
+year: 1996
+songs: 
+  - id: title_screen_tetris_plus
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: world_map_tetris_plus
+    title: "World Map"
+    path: "03 World Map.vgz"
+    type: warning
+  - id: classic_mode_tetris_plus
+    title: "Classic Mode"
+    path: "04 Classic Mode.vgz"
+    type: betting
+  - id: panic_tetris_plus
+    title: "Panic"
+    path: "13 Panic.vgz"
+    type: warning
+  - id: edit_mode_complete_tetris_plus
+    title: "Edit Mode Complete"
+    path: "22 Edit Mode Complete.vgz"
+    type: result
+...

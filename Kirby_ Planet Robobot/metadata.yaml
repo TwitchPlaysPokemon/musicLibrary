@@ -146,4 +146,108 @@ songs:
     ends: 2:09
     path: "The Noble Haltmann (looped).brstm"
     type: betting
+  - id: access_ark
+    title: "Access Ark"
+    path: "Access Ark.brstm"
+    type: warning
+  - id: befuddling_skyscraper
+    title: "Befuddling Skyscraper"
+    path: "Befuddling Skyscraper.brstm"
+    type: betting
+  - id: comrades_in_arms
+    title: "Comrades in Arms"
+    path: "Comrades in Arms.brstm"
+    type: result
+  - id: depleted_sea
+    title: "Depleted Sea"
+    path: "Depleted Sea.brstm"
+    type: betting
+  - id: fatal_error
+    title: "Fatal Error"
+    path: "Fatal Error.brstm"
+    type: warning
+  - id: first_contact
+    title: "First Contact"
+    path: "First Contact.brstm"
+    type: warning
+  - id: game_over_robobot
+    title: "Game Over"
+    path: "Game Over.brstm"
+    type: result
+  - id: gigabyte_grounds
+    title: "Gigabyte Grounds"
+    path: "Gigabyte Grounds.brstm"
+    type: betting
+  - id: gorgeous_go_round
+    title: "Gorgeous-Go-Round"
+    path: "Gorgeous-Go-Round.brstm"
+    type: betting
+  - id: green_laboratory_sand_canyon_3
+    title: "Green Laboratory (Sand Canyon 3)"
+    path: "Green Laboratory (Sand Canyon 3).brstm"
+    type: betting
+  - id: haltmann_works_company
+    title: "Haltmann Works Company"
+    path: "Haltmann Works Company.brstm"
+    type: warning
+  - id: lovely_yellow_va_va_vrooms
+    title: "Lovely Yellow Va-Va-Vrooms"
+    path: "Lovely Yellow Va-Va-Vrooms.brstm"
+    type: betting
+  - id: memories_i_wont_forget_our_memories
+    title: "Memories I Won't Forget Our Memories"
+    path: "Memories I Won't Forget Our Memories.brstm"
+    type: betting
+  - id: mothers_caption
+    title: "Mother's Caption"
+    path: "Mother's Caption.brstm"
+    type: break
+  - id: my_happy_sweet_time
+    title: "My Happy Sweet Time"
+    path: "My Happy Sweet Time.brstm"
+    type: break
+  - id: outrow_driver
+    title: "Outrow Driver"
+    path: "Outrow Driver.brstm"
+    type: warning
+  - id: overload_ocean
+    title: "Overload Ocean"
+    path: "Overload Ocean.brstm"
+    type: break
+  - id: patched_plains
+    title: "Patched Plains"
+    path: "Patched Plains.brstm"
+    type: break
+  - id: pink_ball_revolution_one_last_shot
+    title: "Pink Ball Revolution! One Last Shot"
+    path: "Pink Ball Revolution! One Last Shot.brstm"
+    type: battle
+  - id: power_plant_inspection
+    title: "Power Plant Inspection"
+    path: "Power Plant Inspection.brstm"
+    type: betting
+  - id: resolution_road
+    title: "Resolution Road"
+    path: "Resolution Road.brstm"
+    type: result
+  - id: rhythm_route
+    title: "Rhythm Route"
+    path: "Rhythm Route.brstm"
+    type: break
+  - id: sky_blue_flight
+    title: "Sky Blue Flight"
+    path: "Sky Blue Flight.brstm"
+    type: betting
+  - id: steel_beat
+    title: "Steel Beat"
+    path: "Steel Beat.brstm"
+    type: betting
+  - id: the_secretary_that_forgot_love
+    title: "The Secretary That Forgot Love"
+    path: "The Secretary That Forgot Love.brstm"
+    type: warning
+  - id: underwater_quarter
+    title: "Underwater Quarter"
+    path: "Underwater Quarter.brstm"
+    type: betting
 ...

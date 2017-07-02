@@ -1,0 +1,25 @@
+id: tweety_and_the_magic_gems
+title: "Tweety and the Magic Gems"
+year: 2001
+platform: "GBA"
+songs:
+  - id: beijing_tweety
+    title: "Beijing"
+    path: "Beijing.minigsf"
+    type: break
+  - id: kyoto_tweety
+    title: "Kyoto"
+    path: "Kyoto.minigsf"
+    type: break
+  - id: moscow_tweety
+    title: "Moscow"
+    path: "Moscow.minigsf"
+    type: betting
+  - id: sydney_tweety
+    title: "Sydney"
+    path: "Sydney.minigsf"
+    type: betting
+  - id: title_tweety
+    title: "Title"
+    path: "Title.minigsf"
+    type: result

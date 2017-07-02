@@ -7,3 +7,27 @@ songs:
     title: "Act 6 - The Swamps"
     path: "The Swamps.brstm"
     type: betting
+  - id: boss_battle_smurfs
+    title: "Boss Battle"
+    path: "Boss Battle.vgz"
+    type: warning
+  - id: credits_smurfs
+    title: "The End ~ Credits"
+    path: "The End ~ Credits.vgz"
+    type: result
+  - id: title_screen_smurfs
+    title: "Title Screen"
+    path: "Title Screen.vgz"
+    type: result
+  - id: act_4_the_sarsaparilla_fields_act_9_the_bridge_nes_ver
+    title: "Act 4 - The Sarsaparilla Fields ~ Act 9 - The Bridge"
+    path: "06 Act 4 - The Sarsaparilla Fields ~ Act 9 - The Bridge.vgz"
+    type: betting
+  - id: bonus_stage_nes_ver
+    title: "Bonus Stage"
+    path: "10 Bonus Stage.vgz"
+    type: result
+  - id: game_over_smurfs_nes_ver
+    title: "Game Over"
+    path: "15 Game Over.vgz"
+    type: warning

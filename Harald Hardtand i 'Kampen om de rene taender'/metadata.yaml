@@ -1,0 +1,19 @@
+---
+id: harald_hardtand_i_kampen_om_de_rene_taender
+title: "Harald Hårdtand i 'Kampen om de rene tænder'"
+platform: ["PC", "Amiga", "C64"]
+year: 1992
+songs: 
+  - id: title_music_harald_hardtooth
+    title: "Title Music"
+    path: "01 Title Music.vgz"
+    type: betting
+  - id: hiscore_tune_harald_hardtooth
+    title: "Hiscore Tune"
+    path: "02 Hiscore Tune.vgz"
+    type: break
+  - id: bonus_music_harald_hardtooth
+    title: "Bonus Music"
+    path: "05 Bonus Music.vgz"
+    type: warning
+...

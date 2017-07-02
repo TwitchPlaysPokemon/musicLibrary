@@ -1,0 +1,24 @@
+---
+id: bomber_man_x68000
+title: "Bomber Man"
+series: bomberman
+platform: "X68000"
+year: 1989
+songs: 
+  - id: bgm1_bomberman_x68k
+    title: "BGM1"
+    path: "06 BGM1.vgz"
+    type: betting
+  - id: bgm3_bomberman_x68k
+    title: "BGM3"
+    path: "08 BGM3.vgz"
+    type: betting
+  - id: bgm_invincible_bomberman_x68k
+    title: "BGM Invincible"
+    path: "09 BGM Invincible.vgz"
+    type: warning
+  - id: vs_championship_bomberman_x68k
+    title: "VS Championship"
+    path: "18 VS Championship.vgz"
+    type: warning
+...
