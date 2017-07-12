@@ -1,41 +1,45 @@
 ---
 id: final_fantasy_xiii
-platform: "PS3+360"
 title: "Final Fantasy XIII"
 series: finalfantasy
+platform: ["PS3", "360"]
 year: 2010
 songs: 
-  - id: blinded_by_light_extended_version
-    path: "Blinded By Light (Extended Version).brstm"
-    title: "Blinded By Light (Extended Version)"
+  - id: blinded_by_light_long_version
+    title: "Blinded By Light (Long Version)"
+    path: "201b - Masashi Hamauzu - Blinded By Light (Long Version).scd"
     type: battle
-  - id: cocoon_de_chocobo_chasing_dreams
-    title: "Cocoon de Chocobo - Chasing Dreams"
-    path: "Cocoon de Chocobo - Chasing Dreams.brstm"
+  - id: chocobos_of_cocoon_chasing_dreams
+    title: "Chocobos of Cocoon - Chasing Dreams"
+    path: "310 - Masashi Hamauzu, Ryo Yamazaki feat. Frances Maya - Cocoon de Chocobo - Chasing Dreams.scd"
     type: result
   - id: desperate_struggle
     title: "Desperate Struggle"
-    path: "Desperate Struggle.brstm"
+    path: "320 - Masashi Hamauzu, Junya Nakano - Desperate Struggle.scd"
     type: warning
   - id: lake_bresha
     title: "Lake Bresha"
-    path: "Lake Bresha.brstm"
+    path: "117 - Masashi Hamauzu - Lake Bresha.scd"
     type: betting
   - id: pulse_de_chocobo
     title: "Pulse de Chocobo"
-    path: "Pulse de Chocobo.brstm"
+    path: "404 - Masashi Hamauzu - Pulse de Chocobo.scd"
     type: betting
-  - id: saber's_edge
+  - id: sabers_edge
     title: "Saber's Edge"
-    path: "Saber's Edge.brstm"
+    path: "105 - Masashi Hamauzu - Saber's Edge.scd"
     type: battle
-  - id: sazh's_theme
+  - id: sazhs_theme
     title: "Sazh's Theme"
-    path: "Sazh's Theme.brstm"
+    path: "211 - Masashi Hamauzu - Sazh's Theme.scd"
+    type: betting
+  - id: fangs_theme
+    title: "Fang's Theme"
+    path: "401a - Masashi Hamauzu - Fang's Theme.scd"
     type: betting
   - id: march_of_the_dreadnoughts
     title: "March of the Dreadnoughts"
-    path: "March of the Dreadnoughts.brstm"
+    path: "212 - Masashi Hamauzu - March of the Dreadnoughts.scd"
     ends: 2:16
     type: betting
 ...

@@ -1,12 +1,12 @@
 ---
 id: mega_man_battle_network_5
-platform: "GBA"
-title: "Mega Man Battle Network 5"
+title: "Mega Man Battle Network 5: Team Protoman"
 series: megaman
+platform: "GBA"
 year: 2003
 songs: 
   - id: vs_nebula_grey
-    path: "vs Nebula Grey.minigsf"
     title: "VS Nebula Grey"
+    path: "vs Nebula Grey.minigsf"
     type: battle
 ...

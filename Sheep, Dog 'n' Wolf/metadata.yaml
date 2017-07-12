@@ -1,0 +1,19 @@
+---
+id: sheep_dog_n_wolf_raider
+title: "Sheep, Dog 'n' Wolf"
+platform: ["PC", "PS1"]
+year: 2001
+songs: 
+  - id: track_05_5_sheep_dog_n_wolf
+    title: "Track 05"
+    path: "track5.XA"
+    type: betting
+  - id: track_07_7_sheep_dog_n_wolf
+    title: "Track 07"
+    path: "track7.XA"
+    type: betting
+  - id: track_10_sheep_dog_n_wolf
+    title: "Track 10"
+    path: "track10.XA"
+    type: betting
+...

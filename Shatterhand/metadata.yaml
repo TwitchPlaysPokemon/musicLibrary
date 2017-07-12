@@ -4,16 +4,16 @@ title: "Shatterhand"
 platform: "NES"
 year: 1991
 songs: 
-  - id: area_b
+  - id: area_b_shatterhand
     title: "Area B"
     path: "Area B.vgz"
     type: betting
-  - id: area_c_jp
-    title: "Area C (JP)"
+  - id: area_c_f_jp_shatterhand
+    title: "Area C, Area F (JP)"
     path: "Area C (JP).vgz"
     type: betting
-  - id: area_g_missile_command
-    title: "Area G Missile Command"
+  - id: area_g_shatterhand
+    title: "Area G"
     path: "Area G.vgz"
     type: betting
 ...

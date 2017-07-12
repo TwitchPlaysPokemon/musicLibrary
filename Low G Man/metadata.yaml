@@ -1,9 +1,11 @@
-id: low_g_man
-title: "Low G Man"
-year: 1990
+---
+id: low_g_man_the_low_gravity_man
+title: "Low G Man: The Low Gravity Man"
 platform: "NES"
+year: 1990
 songs:
   - id: frozen_waste_ocean_depths
     title: "Chapter 2 - Frozen Waste, Ocean Depths"
     path: "Chapter 2 - Frozen Waste, Ocean Depths.vgz"
     type: betting
+...

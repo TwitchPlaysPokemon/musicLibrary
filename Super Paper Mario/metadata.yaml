@@ -7,122 +7,126 @@ year: 2007
 songs:
   - id: bonechill_battle
     title: "Bonechill Battle"
-    path: "Bonechill Battle.brstm"
+    path: "btl_boss_stg7_44k_lp.brstmspm"
     type: battle
   - id: brobot_l_type
     title: "Brobot L-Type Battle"
-    path: "Brobot L-Type Battle.brstm"
+    path: "btl_boss_stg6_44k_lp.brstmspm"
     type: battle
   - id: king_croacus_battle
     title: "King Croacus Battle"
-    path: "King Croacus Battle.brstm"
+    path: "btl_boss_stg5_e3_44k_lp.brstmspm"
     type: battle
   - id: lineland_road
     title: "Lineland Road"
-    path: "Lineland Road.brstm"
+    path: "map_stg1_1_44k_e_lp.brstmspm"
     type: result
   - id: mount_lineland
     title: "Mount Lineland"
-    path: "Mount Lineland.brstm"
+    path: "map_stg1_sabaku_lp.brstmspm"
     type: betting
   - id: ready_go
     title: "Ready, GO!"
-    path: "Ready, GO!.brstm"
+    path: "btl_dodontas2_44k_lp.brstmspm"
     type: battle
   - id: sammers_kingdom
     title: "Sammer's Kingdom"
-    path: "Sammer's Kingdom.brstm"
+    path: "map_stg6_44k_lp.brstmspm"
     type: betting
   - id: the_ultimate_show
     title: "The Ultimate Show"
-    path: "The Ultimate Show.brstm"
+    path: "btl_demenL_44k_lp.brstmspm"
     type: battle
   - id: fight_fight
     title: "Fight Fight"
-    path: "Fight Fight.brstm"
+    path: "evt_dotabata1_44k_e4_lp.brstmspm"
     type: warning
   - id: whoa_zone
     title: "Whoa Zone"
-    path: "Whoa Zone.brstm"
+    path: "map_stg4_4d1_44k_lp.brstmspm"
     type: warning
-  - id: an_unrivalled_battle
-    title: "An Unrivalled Battle"
-    path: "An Unrivalled Battle.brstm"
+  - id: an_unrivaled_battle
+    title: "An Unrivaled Battle"
+    path: "evt_star1_44k_lp.brstmspm"
     type: warning
   - id: battle_time_super_paper_mario
     title: "Battle Time"
-    path: "Battle Time.brstm"
+    path: "map_stg6_2_44k_lp.brstmspm"
     type: battle
   - id: champion_of_destruction
     title: "Champion of Destruction"
-    path: "Champion of Destruction.brstm"
+    path: "evt_zigen_appear1_44k_lp.brstmspm"
     type: betting
   - id: dimentio_charming_magician
     title: "Dimentio, Charming Magician"
-    path: "Dimentio, Charming Magician.brstm"
+    path: "evt_demen_appear1_44k_lp.brstmspm"
     type: warning
   - id: count_bleck_plan
     title: "Count Bleck's Plan"
-    path: "Count Bleck's Plan.brstm"
+    path: "evt_exective_soudan1_44k_lp.brstmspm"
     type: warning
   - id: flipside
     title: "Flipside"
-    path: "Flipside.brstm"
+    path: "map_town_omote1_44k_lp.brstmspm"
     type: betting
   - id: flopside
     title: "Flopside"
-    path: "Flopside.brstm"
+    path: "map_town_ura1_44k_lp.brstmspm"
     type: betting
   - id: evil_king_bowser_here
-    title: "Evil King Bowser Here"
-    path: "Evil King Bowser Here.brstm"
+    title: "Evil King Bowser Here!"
+    path: "evt_koopa_catsle_44k_lp.brstmspm"
     type: warning
   - id: tokens_please
     title: "Tokens, Please"
-    path: "Tokens, Please.brstm"
+    path: "map_yuugizyou_e8_lp_32k.brstmspm"
     type: break
   - id: francis_battle
     title: "Francis Battle"
-    path: "Francis Battle.brstm"
+    path: "btl_boss_stg3_44k_lp.brstmspm"
     type: warning
   - id: fracktail_battle
     title: "Fracktail Battle"
-    path: "Fracktail Battle.brstm"
+    path: "btl_boss_stg1_22k_lp.brstmspm"
     type: battle
   - id: mr_l_green_thunder
-    title: "Mr. L, Green Thunder!"
-    path: "Mr. L, Green Thunder!.brstm"
+    title: "Mr. L, Green Thunder"
+    path: "evt_Dliigi_appear1_44k_lp.brstmspm"
     type: warning
   - id: bowser_battle_super_paper_mario
     title: "Bowser Battle"
-    path: "Bowser Battle.brstm"
+    path: "btl_koopa1_44k_lp.brstmspm"
     type: battle
   - id: mimi_the_copycat
     title: "Mimi the Copycat"
-    path: "Mimi the Copycat.brstm"
+    path: "evt_manela_appear2_44k_lp.brstmspm"
     type: warning
   - id: im_not_nice
     title: "I'm Not Nice"
-    path: "I'm Not Nice.brstm"
+    path: "btl_manera1_44k_lp.brstmspm"
     type: warning
   - id: floro_sapien_caverns
     title: "Floro Sapien Caverns"
-    path: "Floro Sapien Caverns.brstm"
+    path: "map_stg5_2_e14_lp.brstmspm"
     type: betting
   - id: world_of_nothing
     title: "World of Nothing"
-    path: "World of Nothing.brstm"
+    path: "map_stg6_3_44k_lp.brstmspm"
     type: warning
   - id: brobot_battle
-    title: "Brobot Battle"
-    path: "Brobot Battle.brstm"
-    type: warning
+    title: "Brobot"
+    path: "btl_boss_stg4_lp.brstmspm"
+    type: battle
   - id: its_showtime
     title: "It's Showtime"
-    path: "It's Showtime.brstm"
+    path: "btl_demen1_44k_lp.brstmspm"
     type: battle
   - id: pit_of_100_trials
     title: "Pit of 100 Trials"
-    path: "Pit of 100 Trials.brstm"
+    path: "map_100f_44k_lp.brstmspm"
+    type: betting
+  - id: gloam_valley
+    title: "Gloam Valley"
+    path: "map_stg2_gloamV.brstmspm"
     type: betting
 ...

@@ -7,30 +7,30 @@ year: 2002
 songs:
   - id: chaotic_bar
     title: "Chaotic Bar"
-    path: "Chaotic Bar.brstm"
+    path: "SHOP.adx"
     type: break
   - id: idola_have_the_immortal_feather
     title: "'IDOLA' Have the Immortal Feather"
-    path: "'IDOLA' Have the Immortal Feather.brstm"
+    path: "proto1.adx"
     type: battle
   - id: tricktrack_part_2
     title: "Tricktrack Part 2"
-    path: "Tricktrack (Part 2).brstm"
+    path: "S_B.adx"
     type: betting
   - id: the_frenzy_wilds
     title: "The Frenzy Wilds"
-    path: "The Frenzy Wilds.brstm"
+    path: "gryphon.adx"
     type: warning
   - id: growl_from_the_depths_of_earth
     title: "Growl from the Depths of Earth"
-    path: "Growl from the Depths of the Earth.brstm"
+    path: "DRAGON.adx"
     type: warning
   - id: a_song_for_eternal_story
     title: "A Song for Eternal Story"
-    path: "A Song for Eternal Story.brstm"
+    path: "TITLE.adx"
     type: break
   - id: day_dawns
     title: "Day Dawns"
-    path: "Day Dawns.brstm"
+    path: "LOBBY.adx"
     type: break
 ...

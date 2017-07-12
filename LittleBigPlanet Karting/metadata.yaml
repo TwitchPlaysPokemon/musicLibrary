@@ -1,0 +1,24 @@
+---
+id: littlebigplanet_karting
+title: "LittleBigPlanet Karting"
+platform: "PS3"
+series: littlebigplanet
+year: 2012
+songs: 
+  - id: eves_asylum_rework
+    title: "Eve's Asylum (Rework)"
+    path: "Eve's Asylum (Rework).brstm"
+    type: betting
+  - id: pod_story_community_earth
+    title: "Pod (Story/Community/Earth)"
+    path: "Pod.brstm"
+    type: betting
+  - id: the_gardens_rework
+    title: "The Gardens (Rework)"
+    path: "The Gardens (Rework).brstm"
+    type: betting
+  - id: victorias_lab_rework
+    title: "Victoria's Lab (Rework)"
+    path: "Victoria's Lab (Rework).brstm"
+    type: betting
+...
