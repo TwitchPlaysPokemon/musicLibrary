@@ -1,19 +1,23 @@
 ---
 id: radiant_silvergun
 title: "Radiant Silvergun"
-platform: "Arcade+Saturn+360"
+platform: ["Arcade", "Saturn", "360"]
 year: 1998
 songs: 
-  - id: debris
+  - id: debris_rs
     title: "Debris"
-    path: "Debris.brstm"
+    path: "Wave Bank_Bgm_002__BGM_SG_M02.xwb"
     type: battle
-  - id: evasion
+  - id: evasion_rs
     title: "Evasion"
-    path: "Evasion.brstm"
+    path: "Wave Bank_Bgm_005__BGM_SG_M05.xwb"
     type: battle
   - id: there_is_life_everywhere
     title: "There is Life Everywhere"
-    path: "There is Life Everywhere.brstm"
+    path: "Wave Bank_Bgm_000__BGM_SG_M09.xwb"
     type: break
+  - id: return_rs
+    title: "Return"
+    path: "Wave Bank_Bgm_001__BGM_SG_M01.xwb"
+    type: betting
 ...

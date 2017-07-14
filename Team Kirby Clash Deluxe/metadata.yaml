@@ -37,4 +37,9 @@ songs:
     title: "Dark Taranza"
     path: "Dark Taranza.brstm"
     type: warning
+  - id: secret_credits_team_kirby_clash_deluxe
+    title: "Secret Credits"
+    ends: 2:55
+    path: "Secret Credits.bcstm"
+    type: betting
 ...

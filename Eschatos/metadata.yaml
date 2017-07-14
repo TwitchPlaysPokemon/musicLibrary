@@ -1,23 +1,23 @@
 ---
 id: eschatos
-platform: "360"
 title: "Eschatos"
+platform: "360"
 year: 2011
 songs: 
-  - id: point_of_no_return
-    path: "Point of No Return.brstm"
-    title: "Point of No Return"
-    type: betting
   - id: silver_lining
-    path: "Silver Lining.brstm"
     title: "Silver Lining"
+    path: "Silver Lining.brstm"
     type: battle
-  - id: aces_back
-    title: "Ace's Back"
-    path: "Ace's Back.brstm"
-    type: warning
   - id: survive
     title: "Survive"
     path: "Survive.brstm"
     type: battle
+  - id: point_of_no_return
+    title: "Point of No Return"
+    path: "Point of No Return.brstm"
+    type: betting
+  - id: aces_back
+    title: "Ace's Back"
+    path: "Ace's Back.brstm"
+    type: warning
 ...

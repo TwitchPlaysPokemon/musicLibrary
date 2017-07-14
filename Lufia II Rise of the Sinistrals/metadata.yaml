@@ -1,7 +1,9 @@
+---
 id: lufia_ii_rise_of_the_sinistrals
 title: "Lufia II: Rise of the Sinistrals"
-year: 1995
+series: lufia
 platform: "SNES"
+year: 1995
 songs:
   - id: battle_2_lufia_ii
     title: "Battle #2"
@@ -19,3 +21,4 @@ songs:
     title: "Battle #1"
     path: "Battle #1.brstm"
     type: battle
+...

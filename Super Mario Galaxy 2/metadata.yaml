@@ -15,46 +15,46 @@ songs:
     type: warning
   - id: space_storm_galaxy
     title: "Space Storm Galaxy"
-    path: "Space Storm Galaxy.brstm"
+    path: "SMG2_galaxy12_strm.ast"
     type: betting
   - id: throwback_galaxy
     title: "Throwback Galaxy"
-    path: "Throwback Galaxy.brstm"
+    path: "SMG2_galaxy21_strm.ast"
     type: betting
   - id: puzzle_plank_galaxy
     title: "Puzzle Plank Galaxy"
-    path: "Puzzle Plank Galaxy.brstm"
+    path: "SMG2_galaxy29_strm.ast"
     type: betting
   - id: starshine_beach_galaxy_-_underwater
-    title: "Starshine Beach Galaxy (Underwater)"
+    title: "Starshine Beach Galaxy ~Underwater~"
     path: "Starshine Beach Galaxy - Underwater.brstm"
     type: betting
   - id: a-wa-wa-wa-wa-wa
-    title: "A-wa-wa-wa-wa-wa!"
+    title: "A-wa-wa-wa-wa-wa"
     path: "A-wa-wa-wa-wa-wa!.brstm"
     type: warning
   - id: yoshi_star_galaxy
     title: "Yoshi Star Galaxy"
-    path: "Yoshi Star Galaxy.brstm"
+    path: "SMG2_galaxy32_strm.ast"
     type: betting
   - id: bowsers_galaxy_generator_smg2
     title: "Bowser's Galaxy Generator"
-    path: "Bowser's Galaxy Generator.brstm"
+    path: "SMG2_galaxy20_strm.ast"
     type: betting
   - id: bowser_jr_fiery_flotilla
     title: "Bowser Jr.'s Fiery Flotilla"
-    path: "Bowser Jr.'s Fiery Flotilla.brstm"
+    path: "SMG2_galaxy31_strm.ast"
     type: betting
   - id: final_bowser_battle
     title: "Final Bowser Battle"
     path: "Final Bowser Battle.brstm"
     type: warning
   - id: hurry_smg2
-    title: "Hurry!"
-    path: "Hurry!.brstm"
+    title: "Speed Run"
+    path: "SMG2_galaxy_hurry_strm.ast"
     type: warning
   - id: sky_station_galaxy_1
-    title: "Sky Station Galaxy 1"
-    path: "Sky Station Galaxy 1.brstm"
+    title: "Sky Station Galaxy"
+    path: "SMG2_galaxy06_strm.ast"
     type: betting
 ...
