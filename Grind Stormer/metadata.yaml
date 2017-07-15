@@ -1,0 +1,23 @@
+---
+id: grind_stormer
+title: "Grind Stormer"
+platform: "Arcade"
+year: 1993
+songs: 
+  - id: wonderful_dreamer_stage_1
+    title: "Wonderful Dreamer (Stage 1)"
+    path: "02 Wonderful Dreamer (Stage 1).vgz"
+    type: betting
+  - id: night_bird_boss
+    title: "Night Bird (Boss)"
+    path: "03 Night Bird (Boss).vgz"
+    type: warning
+  - id: free_at_last_stage_4
+    title: "Free At Last (Stage 4)"
+    path: "06 Free At Last (Stage 4).vgz"
+    type: betting
+  - id: pepercussion_stage_5
+    title: "Pepercussion (Stage 5)"
+    path: "07 Pepercussion (Stage 5).vgz"
+    type: betting
+...

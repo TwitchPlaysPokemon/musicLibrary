@@ -4,6 +4,10 @@ title: "Dungeon Master"
 platform: "SNES"
 year: 1991
 songs: 
+  - id: room_of_the_gem
+    title: "Room of the Gem"
+    path: "07 Room of the Gem.spc"
+    type: break
   - id: scorpions
     title: "Scorpions!"
     path: "15 Scorpions!.spc"

@@ -6,18 +6,18 @@ year: 2011
 songs: 
   - id: silver_lining
     title: "Silver Lining"
-    path: "Silver Lining.brstm"
+    path: "stage1.xwb"
     type: battle
   - id: survive
     title: "Survive"
-    path: "Survive.brstm"
+    path: "stage2.xwb"
     type: battle
   - id: point_of_no_return
     title: "Point of No Return"
-    path: "Point of No Return.brstm"
+    path: "stage3.xwb"
     type: betting
   - id: aces_back
     title: "Ace's Back"
-    path: "Ace's Back.brstm"
+    path: "nametry.xwb"
     type: warning
 ...

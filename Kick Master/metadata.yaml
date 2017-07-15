@@ -1,0 +1,15 @@
+---
+id: kick_master
+title: "Kick Master"
+platform: "NES"
+year: 1992
+songs: 
+  - id: the_witches_forest_sector_1
+    title: "The Witches' Forest (Sector 1)"
+    path: "07 The Witches' Forest (Sector 1).vgz"
+    type: betting
+  - id: the_bottomless_crevasse_sector_4
+    title: "The Bottomless Crevasse (Sector 4)"
+    path: "14 The Bottomless Crevasse (Sector 4).vgz"
+    type: betting
+...

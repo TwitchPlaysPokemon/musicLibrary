@@ -4,6 +4,10 @@ title: "Shatterhand"
 platform: "NES"
 year: 1991
 songs: 
+  - id: area_a_shatterhand
+    title: "Area A"
+    path: "03 Area A.vgz"
+    type: betting
   - id: area_b_shatterhand
     title: "Area B"
     path: "Area B.vgz"

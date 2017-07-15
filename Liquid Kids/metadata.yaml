@@ -1,11 +1,31 @@
 ---
 id: liquid_kids
 title: "Liquid Kids"
-platform: "Arcade+PCE"
+platform: Arcade
 year: 1990
 songs: 
   - id: hurry_up
     title: "Hurry Up"
     path: "Hurry Up.vgz"
+    type: warning
+  - id: lets_get_on_were_friends_round_1
+    title: "Let's get on! We're friends!! (Round 1)"
+    path: "04 Let's get on! We're friends!! (Round 1).vgz"
+    type: betting
+  - id: waltz_of_water_and_bubble_round_2
+    title: "Waltz of Water and Bubble (Round 2)"
+    path: "05 Waltz of Water and Bubble (Round 2).vgz"
+    type: betting
+  - id: toy_panic_round_3
+    title: "Toy Panic (Round 3)"
+    path: "08 Toy Panic (Round 3).vgz"
+    type: betting
+  - id: under_the_big_tree_round_5
+    title: "Under the Big Tree (Round 5)"
+    path: "11 Under the Big Tree (Round 5).vgz"
+    type: betting
+  - id: he_must_be_tougher_than_beethoven_last_boss
+    title: "He must be tougher than Beethoven (Last Boss)"
+    path: "16 He must be tougher than Beethoven (Last Boss).vgz"
     type: warning
 ...

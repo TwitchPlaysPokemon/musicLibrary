@@ -5,6 +5,10 @@ series: zelda
 platform: ["GB", "GBC"]
 year: 1993
 songs:
+  - id: sword_search
+    title: "Sword Search"
+    path: "Sword Search.brstm"
+    type: betting
   - id: face_shrine
     title: "Level 6: Face Shrine"
     path: "Level 6 - Face Shrine.brstm"

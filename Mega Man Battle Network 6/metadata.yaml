@@ -1,0 +1,16 @@
+---
+id: mega_man_battle_network_6
+title: "Mega Man Battle Network 6"
+series: megaman
+platform: "GBA"
+year: 2005
+songs: 
+  - id: title_screen_mmbn6
+    title: "Title Screen"
+    path: "01 Title Screen.minigsf"
+    type: result
+  - id: central_town
+    title: "Central Town"
+    path: "03 Central Town.minigsf"
+    type: break
+...

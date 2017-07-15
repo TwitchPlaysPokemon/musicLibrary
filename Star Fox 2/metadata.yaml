@@ -29,4 +29,12 @@ songs:
     title: "Surprise Attack"
     path: "Surprise Attack.spc"
     type: warning
+  - id: eladard
+    title: "Eladard"
+    path: "17 Eladard.spc"
+    type: betting
+  - id: eladard_inside
+    title: "Eladard Inside"
+    path: "18 Eladard Inside.spc"
+    type: warning
 ...

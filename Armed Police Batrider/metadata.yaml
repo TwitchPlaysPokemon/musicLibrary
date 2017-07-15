@@ -4,7 +4,11 @@ title: "Armed Police Batrider"
 platform: "Arcade"
 year: 1998
 songs: 
-  - id: purple_twilight
+  - id: easy_to_go_stage_1_manhattan_city
+    title: "Easy To Go [Stage 1 Manhattan City]"
+    path: "07 Easy To Go [Stage 1 Manhattan City].vgz"
+    type: betting
+  - id: purple_twilight_stage_2_zenovia_airport
     title: "Purple Twilight [Stage 2 Zenovia Airport]"
     path: "Purple Twilight [Stage 2 Zenovia Airport].vgz"
     type: betting

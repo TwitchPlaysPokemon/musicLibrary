@@ -1,0 +1,35 @@
+---
+id: grounseed
+title: "Grounseed"
+platform: "PC-9801 (OPNA)"
+year: 1996
+songs: 
+  - id: morning_fretless_2_slap
+    title: "Morning (Fretless 2 Slap)"
+    path: "01 Morning (Fretless 2 Slap).vgz"
+    type: betting
+  - id: i_akira
+    title: "I [Akira]"
+    path: "07 I [Akira].vgz"
+    type: betting
+  - id: b_in_battle_1
+    title: "B-in [Battle 1]"
+    path: "22 B-in [Battle 1].vgz"
+    type: battle
+  - id: g_d_mid_boss
+    title: "G.D. [Mid Boss]"
+    path: "23 G.D. [Mid Boss].vgz"
+    type: battle
+  - id: groundlife_e_ver_maze_of_spirits
+    title: "Groundlife (E-Ver.) [Maze of Spirits]"
+    path: "26 Groundlife (E-Ver.) [Maze of Spirits].vgz"
+    type: betting
+  - id: c_village
+    title: "C. [Village]"
+    path: "27 C. [Village].vgz"
+    type: break
+  - id: mis_t_terpsichore_night_mix_village_2_town_3
+    title: "Mis.T (Terpsichore night mix) [Village 2, Town 3]"
+    path: "30 Mis.T (Terpsichore night mix) [Village 2, Town 3].vgz"
+    type: break
+...

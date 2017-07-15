@@ -1,0 +1,17 @@
+---
+id: wonder_boy_in_monster_land_arcade
+title: "Wonder Boy in Monster Land"
+series: wonderboy
+platform: "Arcade"
+year: 1987
+songs: 
+  - id: dragon_castle_wonder_boy_in_monster_land_arcade
+    title: "Dragon Castle"
+    path: "13 Dragon Castle.vgz"
+    type: betting
+  - id: ending_wonder_boy_in_monster_land_arcade
+    title: "Ending"
+    path: "15 Ending.vgz"
+    ends: 2:15
+    type: betting
+...

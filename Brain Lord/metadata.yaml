@@ -4,10 +4,18 @@ title: "Brain Lord"
 platform: "SNES"
 year: 1994
 songs: 
+  - id: road_to_the_tower
+    title: "Road to the Tower"
+    path: "07 Road to the Tower.spc"
+    type: betting
   - id: road_to_toronto
     title: "Road to Toronto"
     path: "13 Road to Toronto.spc"
     type: betting
+  - id: town_of_toronto
+    title: "Town of Toronto"
+    path: "14 Town of Toronto.spc"
+    type: break
   - id: platinum_shrine
     title: "Platinum Shrine"
     path: "22 Platinum Shrine.spc"
