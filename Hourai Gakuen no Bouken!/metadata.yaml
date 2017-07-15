@@ -4,7 +4,7 @@ title: "Hourai Gakuen no Bouken!"
 platform: "SFC"
 year: 1996
 songs: 
-  - id: tension
+  - id: tension_hourai_gakuen_no_bouken
     title: "Tension"
     path: "03 Tension.spc"
     type: warning
@@ -15,6 +15,10 @@ songs:
   - id: school_1
     title: "School 1"
     path: "05 School 1.spc"
+    type: betting
+  - id: dungeon_hourai_gakuen_no_bouken
+    title: "Dungeon"
+    path: "11 Dungeon.spc"
     type: betting
   - id: ruin_in_the_jungle
     title: "Ruin in the Jungle"

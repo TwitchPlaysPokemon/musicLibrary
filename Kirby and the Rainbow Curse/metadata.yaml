@@ -1,3 +1,4 @@
+---
 id: kirby_and_the_rainbow_curse
 title: "Kirby and the Rainbow Curse"
 series: kirby
@@ -60,3 +61,8 @@ songs:
     title: "The Final Battle"
     path: "The Final Battle.brstm"
     type: battle
+  - id: infiltrate_the_junk_factory
+    title: "Infiltrate the Junk Factory!"
+    path: "Infiltrate the Junk Factory!.bfstm"
+    type: betting
+...

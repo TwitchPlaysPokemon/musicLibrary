@@ -1,0 +1,27 @@
+---
+id: sol_feace
+title: "Sol-Feace"
+platform: "X68000"
+year: 1990
+songs: 
+  - id: enemys_arsenal_mission_2
+    title: "Enemy's Arsenal (Mission 2)"
+    path: "06 Enemy's Arsenal (Mission 2).vgz"
+    type: betting
+  - id: artificial_solar_mission_3
+    title: "Artificial Solar (Mission 3)"
+    path: "07 Artificial Solar (Mission 3).vgz"
+    type: betting
+  - id: cruise_ship_glacier_mission_4
+    title: "Cruise Ship -Glacier- (Mission 4)"
+    path: "08 Cruise Ship -Glacier- (Mission 4).vgz"
+    type: betting
+  - id: enemys_last_stand_mission_6
+    title: "Enemy's Last Stand (Mission 6)"
+    path: "11 Enemy's Last Stand (Mission 6).vgz"
+    type: betting
+  - id: boss_3_mission_3_7
+    title: "Boss 3 (Mission 3, 7)"
+    path: "13 Boss 3 (Mission 3, 7).vgz"
+    type: warning
+...

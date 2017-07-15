@@ -1,0 +1,23 @@
+---
+id: ninja_warriors
+title: "Ninja Warriors"
+platform: "SNES"
+year: 1994
+songs: 
+  - id: player_select_ninja_warriors
+    title: "Player Select"
+    path: "03 Player Select.spc"
+    type: warning
+  - id: boss_5_ninja_warriors
+    title: "Boss 5"
+    path: "14 Boss 5.spc"
+    type: betting
+  - id: best_room_ninja_warriors
+    title: "Best Room"
+    path: "15 Best Room.spc"
+    type: betting
+  - id: pursuit_ninja_warriors
+    title: "Pursuit"
+    path: "17 Pursuit.spc"
+    type: betting
+...

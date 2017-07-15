@@ -1,11 +1,16 @@
 ---
 id: pilotwings
-platform: "SNES"
 title: "Pilotwings"
+series: pilotwings
+platform: "SNES"
 year: 1990
 songs: 
   - id: light_plane
-    path: "Light Plane.spc"
     title: "Light Plane"
+    path: "Light Plane.spc"
+    type: betting
+  - id: rocketbelt
+    title: "Rocketbelt"
+    path: "06 Rocketbelt.spc"
     type: betting
 ...

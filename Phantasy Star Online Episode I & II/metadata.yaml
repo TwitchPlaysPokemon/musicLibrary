@@ -4,7 +4,11 @@ title: "Phantasy Star Online Episode I & II"
 series: phantasystar
 platform: ["GCN", "Xbox"]
 year: 2002
-songs:
+songs: 
+  - id: crossing3084
+    title: "Crossing3084"
+    path: "Crossing3084.adx"
+    type: break
   - id: chaotic_bar
     title: "Chaotic Bar"
     path: "SHOP.adx"

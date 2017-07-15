@@ -1,0 +1,19 @@
+---
+id: un_squadron_arcade
+title: "UN Squadron (Arcade)"
+platform: "Arcade"
+year: 1989
+songs: 
+  - id: player_selection_un_squadron_arcade
+    title: "Player Selection"
+    path: "02 Player Selection.vgz"
+    type: warning
+  - id: oil_field_base_round_1
+    title: "Oil Field Base ~ Round 1"
+    path: "04 Oil Field Base ~ Round 1.vgz"
+    type: betting
+  - id: forest_stronghold_round_3
+    title: "Forest Stronghold ~ Round 3"
+    path: "09 Forest Stronghold ~ Round 3.vgz"
+    type: betting
+...

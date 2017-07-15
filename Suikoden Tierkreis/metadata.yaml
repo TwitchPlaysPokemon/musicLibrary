@@ -1,8 +1,14 @@
+---
 id: suikoden_tierkreis
 title: "Suikoden Tierkreis"
-year: 2008
+series: suikoden
 platform: "NDS"
+year: 2008
 songs:
+  - id: the_plain_and_the_sky_citro_plain_bgm
+    title: "The Plain and the Sky ~Citro Plain BGM~"
+    path: "101 The Plain and the Sky ~Citro Plain BGM~.strm"
+    type: betting
   - id: the_fort_where_the_stars_gather
     title: "The Fort Where the Stars Gather"
     path: "The Fort Where the Stars Gather.brstm"
@@ -27,3 +33,4 @@ songs:
     title: "Victory Pose!"
     path: "Victory Pose!.brstm"
     type: result
+...

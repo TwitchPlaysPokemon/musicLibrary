@@ -1,6 +1,7 @@
 ---
 id: umihara_kawase
 title: "Umihara Kawase"
+series: umiharakawase
 platform: "SFC"
 year: 1994
 songs: 
@@ -11,5 +12,9 @@ songs:
   - id: keiryu_theme
     title: "Keiryu Theme"
     path: "05 Keiryu Theme.spc"
+    type: betting
+  - id: hatoba_theme
+    title: "Hatoba Theme"
+    path: "06 Hatoba Theme.spc"
     type: betting
 ...

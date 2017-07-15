@@ -1,8 +1,14 @@
+---
 id: dragon_quest_ix
 title: "Dragon Quest IX: Sentinels of the Starry Skies"
+series: dragonquest
+platform: "NDS"
 year: 2009
-platform: "DS"
-songs:
+songs: 
+  - id: heavens_prayer
+    title: "Heaven's Prayer"
+    path: "03 Heaven's Prayer.mini2sf"
+    type: break
   - id: pub_polka
     title: "Pub Polka"
     path: "Pub Polka.mini2sf"

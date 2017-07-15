@@ -1,0 +1,23 @@
+---
+id: magical_chase
+title: "Magical Chase"
+platform: "PCE"
+year: 1991
+songs: 
+  - id: rampish_chase_1st_stage_wall_town
+    title: "Rampish Chase (1ST STAGE - WALL TOWN)"
+    path: "04 Rampish Chase (1ST STAGE - WALL TOWN).vgz"
+    type: betting
+  - id: ripples_theme_raku_raku_mode_ending
+    title: "Ripple's Theme (Raku Raku Mode Ending)"
+    path: "10 Ripple's Theme (Raku Raku Mode Ending).vgz"
+    type: result
+  - id: variations_on_a_ra_melody_6th_stage_sunctuary
+    title: "Variations on a Ra Melody (6TH STAGE - SUNCTUARY)"
+    path: "15 Variations on a Ra Melody (6TH STAGE - SUNCTUARY).vgz"
+    type: betting
+  - id: ending_magical_chase
+    title: "Ending"
+    path: "17 Ending.vgz"
+    type: result
+...

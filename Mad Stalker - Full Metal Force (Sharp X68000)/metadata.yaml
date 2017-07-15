@@ -1,0 +1,23 @@
+---
+id: mad_stalker_full_metal_force
+title: "Mad Stalker: Full Metal Force"
+platform: "X68000"
+year: 1994
+songs: 
+  - id: player_select_mad_stalker_full_metal_force
+    title: "Player Select"
+    path: "04 Player Select.vgz"
+    type: warning
+  - id: stage_1_mad_stalker_full_metal_force
+    title: "Stage 1"
+    path: "05 Stage 1.vgz"
+    type: betting
+  - id: stage_2_mad_stalker_full_metal_force
+    title: "Stage 2"
+    path: "06 Stage 2.vgz"
+    type: betting
+  - id: stage_6_boss_stalker_full_metal_force
+    title: "Stage 6 - Boss"
+    path: "11 Stage 6 - Boss.vgz"
+    type: warning
+...

@@ -1,12 +1,16 @@
 ---
 id: the_legend_of_zelda_the_minish_cap
-platform: "GBA"
 title: "The Legend of Zelda: The Minish Cap"
 series: zelda
+platform: "GBA"
 year: 2005
 songs: 
   - id: hyrule_town
-    path: "Hyrule Town.minigsf"
     title: "Hyrule Town"
+    path: "Hyrule Town.minigsf"
+    type: betting
+  - id: minish_village
+    title: "Minish Village"
+    path: "16 Minish Village.minigsf"
     type: betting
 ...

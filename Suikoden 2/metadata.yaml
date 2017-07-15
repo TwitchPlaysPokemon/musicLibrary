@@ -1,6 +1,7 @@
 ---
 id: suikoden_2
 title: "Suikoden 2"
+series: suikoden
 platform: "PS1"
 year: 1998
 songs: 
@@ -8,18 +9,38 @@ songs:
     title: "The Will"
     path: "1105 The Will.psf"
     type: battle
+  - id: a_peaceful_mountain_village
+    title: "A Peaceful Mountain Village"
+    path: "1113 A Peaceful Mountain Village.psf"
+    type: break
+  - id: a_worthy_foe_appears
+    title: "A Worthy Foe Appears"
+    path: "1117 A Worthy Foe Appears (no intro).psf"
+    type: battle
   - id: homesickness
     title: "Homesickness"
     path: "1118 Homesickness.psf"
+    type: break
+  - id: reminiscence_ensemble_version
+    title: "Reminiscence - Ensemble Version"
+    path: "1122 Reminiscence - Ensemble Version.psf"
     type: break
   - id: tension_suikoden2
     title: "Tension"
     path: "1125 Tension.psf"
     type: warning
+  - id: if_you_listen_carefully
+    title: "If You Listen Carefully"
+    path: "1208 If You Listen Carefully.psf"
+    type: break
   - id: one_minute_showdown
     title: "One-Minute Showdown"
     path: "2117 One-Minute Showdown.psf"
     type: warning
+  - id: imprisoned_town
+    title: "Imprisoned Town"
+    path: "2124 Imprisoned Town.psf"
+    type: betting
   - id: even_farther
     title: "Even Farther"
     path: "2130 Even Farther.psf"

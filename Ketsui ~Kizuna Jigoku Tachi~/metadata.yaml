@@ -1,11 +1,15 @@
 ---
 id: ketsui_kizuna_jigoku_tachi
-platform: "Arcade"
 title: "Ketsui ~Kizuna Jigoku Tachi~"
+platform: "Arcade"
 year: 2003
 songs: 
+  - id: suburb_armored_green
+    title: "SUBURB - Armored Green"
+    path: "kkj_stereo_stg2.xma"
+    type: betting
   - id: no_remorse
+    title: "NO REMORSE"
     path: "No Remorse.brstm"
-    title: "No Remorse"
     type: battle
 ...

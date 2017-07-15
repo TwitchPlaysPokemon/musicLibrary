@@ -1,16 +1,17 @@
+---
 id: the_legend_of_zelda_a_link_to_the_past
-platform: "SNES"
 title: "The Legend of Zelda: A Link To The Past"
 series: zelda
+platform: "SNES"
 year: 1991
 songs: 
   - id: agahnim
-    path: "Agahnim.brstm"
     title: "Agahnim"
+    path: "Agahnim.brstm"
     type: warning
   - id: boss_alttp
-    path: "Boss.brstm"
     title: "Boss"
+    path: "Boss.brstm"
     type: warning
   - id: hyrule_castle_alttp
     title: "Hyrule Castle"
@@ -44,3 +45,8 @@ songs:
     title: "Kakariko Village"
     path: "Kakariko Village.brstm"
     type: break
+  - id: seal_of_seven_maidens
+    title: "Seal of Seven Maidens"
+    path: "03 Seal of Seven Maidens.spc"
+    type: betting
+...

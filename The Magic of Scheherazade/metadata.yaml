@@ -1,0 +1,15 @@
+---
+id: the_magic_of_scheherazade
+title: "The Magic of Scheherazade"
+platform: "NES"
+year: 1987
+songs: 
+  - id: overworld_the_magic_of_scheherazade
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: betting
+  - id: title_theme_the_magic_of_scheherazade
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    type: betting
+...

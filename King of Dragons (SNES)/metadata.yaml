@@ -1,0 +1,27 @@
+---
+id: the_king_of_dragons
+title: "The King of Dragons"
+platform: "SNES"
+year: 1991
+songs: 
+  - id: the_orc_village
+    title: "The Orc Village"
+    path: "04 The Orc Village.spc"
+    type: betting
+  - id: boss_1_the_king_of_dragons
+    title: "Boss 1"
+    path: "05 Boss 1.spc"
+    type: warning
+  - id: treasure_in_an_old_castle
+    title: "Treasure in an Old Castle"
+    path: "09 Treasure in an Old Castle.spc"
+    type: betting
+  - id: battle_on_a_mountain_peak
+    title: "Battle on a Mountain Peak"
+    path: "10 Battle on a Mountain Peak.spc"
+    type: betting
+  - id: cave_of_hydra
+    title: "Cave of Hydra"
+    path: "12 Cave of Hydra.spc"
+    type: betting
+...

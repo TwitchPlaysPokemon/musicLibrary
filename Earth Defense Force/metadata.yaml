@@ -4,8 +4,16 @@ title: "Earth Defense Force"
 platform: "Arcade"
 year: 1991
 songs: 
+  - id: midnight_intercept_stage_2
+    title: "Midnight Intercept (Stage 2)"
+    path: "Midnight Intercept (Stage 2).vgz"
+    type: betting
   - id: stage_4_naval_battle
     title: "Naval Battle (Stage 4)"
     path: "Naval Battle (Stage 4).vgz"
+    type: betting
+  - id: armed_satellite_stage_6
+    title: "Armed Satellite (Stage 6)"
+    path: "Armed Satellite (Stage 6).vgz"
     type: betting
 ...

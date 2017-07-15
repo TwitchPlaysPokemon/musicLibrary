@@ -1,8 +1,13 @@
+---
 id: gunstar_heroes
 title: "Gunstar Heroes"
 platform: "Genesis"
 year: 1993
 songs: 
+  - id: military_on_the_max_power
+    title: "Military on the Max-Power"
+    path: "04 - Military on the Max-Power.vgz"
+    type: betting
   - id: continue_gunstar_heroes
     title: "Continue"
     path: "24 - Continue.vgz"
@@ -19,3 +24,4 @@ songs:
     title: "Theme of Smash Daisaku"
     path: "Theme of Smash Daisaku.vgz"
     type: warning
+...

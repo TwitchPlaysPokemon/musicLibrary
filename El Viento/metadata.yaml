@@ -1,0 +1,15 @@
+---
+id: el_viento
+title: "El Viento"
+platform: "SMD"
+year: 1991
+songs: 
+  - id: stage_2_park
+    title: "Stage 2 - Park"
+    path: "05 - Stage 2 - Park.vgz"
+    type: betting
+  - id: stage_4_factory
+    title: "Stage 4 - Factory"
+    path: "08 - Stage 4 - Factory.vgz"
+    type: betting
+...

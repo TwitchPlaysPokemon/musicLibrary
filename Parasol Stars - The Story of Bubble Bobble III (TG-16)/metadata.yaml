@@ -1,0 +1,16 @@
+---
+id: parasol_stars_the_story_of_bubble_bobble_iii_pce
+title: "Parasol Stars: The Story of Bubble Bobble III"
+series: bubblebobble
+platform: "PCE"
+year: 1991
+songs: 
+  - id: main_bgm_parasol_stars_pce
+    title: "Main BGM"
+    path: "02 Main BGM.vgz"
+    type: betting
+  - id: main_bgm_hurry_pce
+    title: "Main BGM (Hurry)"
+    path: "03 Main BGM (Hurry).vgz"
+    type: warning
+...
