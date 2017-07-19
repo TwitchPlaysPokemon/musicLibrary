@@ -3,7 +3,8 @@ id: dustforce
 title: "Dustforce"
 series: dustforce
 year: 2012
-platform: "Various"
+platform: ["PC", "Various"]
+#other platforms: ["PS3", "360", "Vita"]
 songs:
   - id: electric_relic
     title: "Electric Relic"

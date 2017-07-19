@@ -2,7 +2,7 @@
 id: sleeping_dogs
 title: "Sleeping Dogs"
 year: 2012
-platform: "Various"
+platform: ["360", "PS3", "PC"]
 songs:
   - id: main_menu_sleeping_dogs
     title: "Main Menu"

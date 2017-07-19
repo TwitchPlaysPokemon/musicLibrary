@@ -1,5 +1,6 @@
 id: power_drift
-platform: "Various"
+platform: ["Arcade", "Various"]
+#other platforms: ["CPC", "C64", "MSX", "Amiga", "Atari ST", "DOS", "ZX Spectrum", "PCE"]
 title: "Power Drift"
 year: 1988
 songs: 

@@ -2,7 +2,8 @@
 id: ducktales_remastered
 title: "DuckTales Remastered"
 year: 2013
-platform: "Various"
+platform: ["Wii U", "Various"]
+#other platforms: ["PC", "360", "PS3", "Andriod", "iOS", "Windows Phone", "Mobile", "FireTV"]
 songs:
   - id: moon
     title: "The Moon"

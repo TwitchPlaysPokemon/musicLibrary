@@ -1,7 +1,7 @@
 ---
 id: mamoru_has_been_cursed
 title: "Mamoru Has Been Cursed!"
-platform: "Arcade+360+PS3"
+platform: ["Arcade", "360", "PS3"]
 year: 2008
 songs: 
   - id: bless_you_boy

@@ -3,7 +3,8 @@ id: dragon_ball_xenoverse_2
 title: "Dragon Ball Xenoverse 2"
 series: dragonball
 year: 2016
-platform: "Various"
+platform: ["Switch", "Various"]
+#other platforms: ["PS4", "XBone", "PC"]
 songs:
   - id: metal_cooler_theme_namek_stage
     title: "Metal Cooler Theme / Namek Stage"

@@ -1,7 +1,7 @@
 id: pokken_tournament
 title: "Pokken Tournament"
 series: pokemon
-platform: "Arcade+Wii U"
+platform: ["Arcade", "Wii U", "Switch"]
 year: 2015
 songs: 
   - id: blue_dome

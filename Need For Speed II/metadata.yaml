@@ -3,7 +3,7 @@ id: nfs2
 title: "Need for Speed II"
 series: needforspeed
 year: 1997
-platform: "PC+PS1"
+platform: ["PC", "PS1"]
 songs:
   - id: main_menu_nfs2
     title: "Menu Theme"

@@ -1,6 +1,7 @@
 id: divekick
 title: "Divekick"
-platform: "Various"
+platform: ["PC", "Various"]
+#other platforms: ["PS3", "Vita", "XBone", "PS4"]
 year: 2013
 songs: 
   - id: betting_heaven_divekick

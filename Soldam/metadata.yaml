@@ -1,7 +1,7 @@
 ---
 id: soldam
 title: "Soldam"
-platform: "Arcade+GB"
+platform: ["Arcade", "GB"]
 year: 1992
 songs: 
   - id: the_fairies_wait_for_spring

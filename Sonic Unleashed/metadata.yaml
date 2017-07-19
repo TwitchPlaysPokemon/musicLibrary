@@ -1,33 +1,33 @@
 ---
 id: sonic_unleashed
-platform: "Wii+PS3+360"
+platform: ["Wii", "360", "PS3"]
 title: "Sonic Unleashed"
 series: sonic
 year: 2008
 songs: 
   - id: adabat_jungle_joyride_day
-    path: "Adabat - Jungle Joyride Day.brstm"
     title: "Adabat - Jungle Joyride Day"
+    path: "Adabat - Jungle Joyride Day.brstm"
     type: battle
   - id: adabat_day
-    path: "Adabat Day.brstm"
     title: "Adabat Day"
+    path: "Adabat Day.brstm"
     type: betting
   - id: apotos_windmill_isle_day
-    path: "Apotos - Windmill Isle Day.brstm"
     title: "Apotos - Windmill Isle Day"
+    path: "Apotos - Windmill Isle Day.brstm"
     type: battle
   - id: boss_dark_gaia_running
-    path: "Boss - Dark Gaia (Running).brstm"
     title: "Boss - Dark Gaia (Running)"
+    path: "Boss - Dark Gaia (Running).brstm"
     type: battle
   - id: boss_perfect_dark_gaia
-    path: "Boss - Perfect Dark Gaia.brstm"
     title: "Boss - Perfect Dark Gaia"
+    path: "Boss - Perfect Dark Gaia.brstm"
     type: battle
   - id: chun_nan_dragon_road_day
-    path: "Chun-Nan - Dragon Road Day.brstm"
     title: "Chun-Nan - Dragon Road Day"
+    path: "Chun-Nan - Dragon Road Day.brstm"
     type: battle
   - id: chun_nan_dragon_road_night
     title: "Chun-Nan - Dragon Road Night"

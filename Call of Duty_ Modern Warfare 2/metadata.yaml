@@ -3,7 +3,8 @@ id: call_of_duty_modern_warfare_2
 title: "Call of Duty: Modern Warfare 2"
 series: callofduty
 year: 2009
-platform: "360+PC+PS3"
+platform: ["360", "Various"]
+#other platforms: ["PS3", "PC", "Wii", "NDS"]
 songs:
   - id: extraction_point
     title: "Extraction Point"

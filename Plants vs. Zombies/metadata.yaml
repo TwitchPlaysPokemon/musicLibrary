@@ -1,6 +1,7 @@
 id: plants_vs_zombies
 title: "Plants vs. Zombies"
-platform: "Various"
+platform: ["PC", "Various"]
+#other platforms: ["iOS", "360", "NDS", "PS3", "DSi", "Android", "Windows Phone", "Vita", "Mobile"]
 year: 2009
 songs: 
   - id: minigame_plants_vs_zombies

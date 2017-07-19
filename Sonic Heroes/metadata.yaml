@@ -2,7 +2,7 @@
 id: sonic_heroes
 title: "Sonic Heroes"
 series: sonic
-platform: "Various"
+platform: ["GC", "Xbox", "PS2"]
 year: 2004
 songs: 
   - id: boss_2

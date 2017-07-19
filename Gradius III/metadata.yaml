@@ -1,7 +1,7 @@
 ---
 id: gradius_iii
 title: "Gradius III"
-platform: "Arcade+SNES"
+platform: ["Arcade", "SNES"]
 year: 1989
 songs: 
   - id: departure_for_space

@@ -1,7 +1,7 @@
 id: tekken_3
 title: "Tekken 3"
 series: tekken
-platform: "Arcade+PS1"
+platform: ["Arcade", "PS1"]
 year: 1997
 songs:
   - id: eddy_gordo_ps1

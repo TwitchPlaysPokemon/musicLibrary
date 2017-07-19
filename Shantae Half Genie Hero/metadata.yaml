@@ -2,7 +2,8 @@ id: shantae_half_genie_hero
 title: "Shantae: Half-Genie Hero"
 year: 2016
 series: shantae
-platform: "Various"
+platform: ["Wii U", "Various"]
+#other platforms: ["PS4", "XBone", "PC", "Vita", "Switch"]
 songs:
   - id: break_time_shantae_half_genie_hero
     title: "Break Time"

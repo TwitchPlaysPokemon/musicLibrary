@@ -1,7 +1,8 @@
 id: transformers_dark_of_the_moon
 title: "Transformers: Dark of the Moon"
 year: 2011
-platform: "Various"
+platform: ["Wii", "Various"]
+#other platforms: ["360", "PS3", "3DS", "NDS", "iOS", "Mobile"]
 songs:
   - id: autobots_the_protectors
     title: "Autobots The Protectors"

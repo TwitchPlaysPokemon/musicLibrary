@@ -1,8 +1,8 @@
 id: mario_tennis_n64
-title: "Mario Tennis (N64)"
+title: "Mario Tennis [N64]"
 series: mario
 year: 2000
-platform: "N64"
+platform: ["N64", "GBC"]
 songs:
   - id: game_point_break_point_2
     title: "Game Point - Break Point 2"

@@ -2,7 +2,8 @@ id: call_of_duty_ghosts
 title: "Call of Duty: Ghosts"
 series: callofduty
 year: 2013
-platform: "Various"
+platform: ["PS4", "Various"]
+#other platforms: ["PS3", "360", "PC", "XBone"]
 songs:
   - id: machine_warfare_cod_ghosts
     title: "Machine Warfare"

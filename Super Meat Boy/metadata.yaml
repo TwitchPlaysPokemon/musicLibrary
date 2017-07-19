@@ -1,6 +1,7 @@
 id: super_meat_boy
 title: "Super Meat Boy"
-platform: "Various"
+platform: ["Wii U", "Various"]
+#other platforms: ["360", "PC", "PS4", "Vita", "Android"]
 year: 2010
 songs: 
   - id: betus_blues

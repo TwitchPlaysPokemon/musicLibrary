@@ -1,8 +1,9 @@
 ---
 id: parasol_stars_gb
-title: "Parasol Stars (GB)"
+title: "Parasol Stars [GB]"
 series: bubblebobble
-platform: "Various"
+platform: ["GB", "Various"]
+#other platforms: ["Arcade", "PC Engine", "NES", "Amiga", "Atari ST"]
 year: 1991
 songs:
   - id: main_bgm_parasol_stars_gb

@@ -1,7 +1,7 @@
 ---
 id: ittle_dew
 title: "Ittle Dew"
-platform: "OUYA, PC, Wii U"
+platform: ["OUYA", "PC", "Wii U"]
 year: 2013
 songs:
   - id: serious_time

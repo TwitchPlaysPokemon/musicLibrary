@@ -1,7 +1,7 @@
 id: turbo_outrun
 title: "Turbo Outrun"
 year: 1989
-platform: "Arcade"
+platform: ["Arcade", "Genesis", "SMS"]
 songs:
   - id: keep_your_heart
     title: "Keep Your Heart"

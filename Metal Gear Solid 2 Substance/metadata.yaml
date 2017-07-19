@@ -2,7 +2,7 @@
 id: metal_gear_solid_2_substance
 title: "Metal Gear Solid 2: Substance"
 year: 2002
-platform: "Xbox+PS2+PC"
+platform: ["Xbox", "PS2", "PC"]
 songs:
   - id: tuxedo_snake
     title: "Tuxedo Snake"

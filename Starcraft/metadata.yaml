@@ -3,7 +3,7 @@ id: starcraft
 title: "StarCraft"
 series: starcraft
 year: 1998
-platform: "PC, N64"
+platform: ["PC", "N64"]
 songs:
   - id: terran_1
     title: "Terran 1"

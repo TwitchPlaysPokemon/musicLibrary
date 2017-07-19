@@ -1,6 +1,7 @@
 id: octodad_dadliest_catch
 title: "Octodad: Dadliest Catch"
-platform: "Various"
+platform: ["Wii U", "Various"]
+#other platforms: ["PC", "PS4", "XBone", "Vita", "iOS", "Andriod", "Mobile"]
 year: 2014
 songs: 
   - id: final_showdown_octodad_dadliest_catch

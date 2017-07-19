@@ -2,7 +2,7 @@
 id: virtua_fighter_5
 title: "Virtua Fighter 5"
 year: 2007
-platform: "Arcade+PS3+360"
+platform: ["Arcade", "360", "PS3"]
 songs:
   - id: practice
     title: "Practice"

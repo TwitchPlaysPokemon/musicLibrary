@@ -1,9 +1,9 @@
 ---
 id: street_fighter_ii_turbo_snes
-title: "Street Fighter II Turbo (SNES)"
+title: "Street Fighter II Turbo [SNES]"
 series: streetfighter
 year: 1992
-platform: "SNES"
+platform: ["SNES", "Genesis", "Arcade"]
 songs:
   - id: ryu_sf2t
     title: "Ryu"

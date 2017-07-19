@@ -1,6 +1,7 @@
 id: fatal_fury
 title: "Fatal Fury"
-platform: "Various"
+platform: ["Neao-Geo", "Various"]
+#other platforms: ["Neo-Geo CD", "Genesis", "X68000", "SNES"]
 year: 1991
 songs:
   - id: 2_player_vs_fatal_fury

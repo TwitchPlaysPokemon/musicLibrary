@@ -1,7 +1,7 @@
 ---
 id: batman_the_video_game_nes
 title: "Batman: The Video Game"
-platform: "NES"
+platform: ["NES", "GB"]
 year: 1989
 songs: 
   - id: streets_of_gotham

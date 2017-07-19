@@ -2,7 +2,8 @@
 id: blazblue_continuum_shift
 title: "BlazBlue: Continuum Shift"
 series: blazblue
-platform: "Various"
+platform: ["Arcade", "360", "PS3"]
+#other platforms: "PC"
 year: 2009
 songs:
   - id: active_angel

@@ -3,7 +3,7 @@ id: nfs3
 title: "Need for Speed III"
 series: needforspeed
 year: 1998
-platform: "PC+PS1"
+platform: ["PC", "PS1"]
 songs:
   - id: triton
     title: "Triton"

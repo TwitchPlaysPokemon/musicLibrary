@@ -1,7 +1,8 @@
 id: castle_of_illusion
 title: "Castle of Illusion Starring Mickey Mouse"
 year: 1990
-platform: "Genesis"
+platform: ["Genesis", "GG"]
+#other platforms: "Saturn"
 songs:
   - id: enchanted_forest_1
     title: "Enchanted Forest Act 1"

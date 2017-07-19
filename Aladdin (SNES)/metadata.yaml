@@ -1,7 +1,7 @@
 ---
 id: aladdin_snes
-title: "Aladdin"
-platform: "SNES"
+title: "Aladdin [SNES]"
+platform: ["SNES", "GBA"]
 year: 1993
 songs: 
   - id: friend_like_me

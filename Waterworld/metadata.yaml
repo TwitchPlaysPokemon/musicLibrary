@@ -1,7 +1,7 @@
 ---
 id: waterworld
 title: "Waterworld"
-platform: "SNES+GB+VB"
+platform: ["SNES", "GB", "VB"]
 year: 1995
 songs: 
   - id: map_waterworld

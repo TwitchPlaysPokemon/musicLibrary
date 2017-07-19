@@ -2,7 +2,8 @@
 id: destiny
 title: "Destiny"
 year: 2014
-platform: "Various"
+platform: ["PS4", "Various"]
+#other platforms: ["XBone", "PS3", "360"]
 songs:
   - id: the_traveler
     title: "The Traveler"

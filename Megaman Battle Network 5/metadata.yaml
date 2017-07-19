@@ -2,7 +2,7 @@
 id: mega_man_battle_network_5
 title: "Mega Man Battle Network 5"
 series: megaman
-platform: "GBA"
+platform: ["GBA", "NDS"]
 year: 2003
 songs: 
   - id: vs_nebula_grey

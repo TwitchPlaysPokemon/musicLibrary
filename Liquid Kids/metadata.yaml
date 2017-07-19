@@ -1,7 +1,7 @@
 ---
 id: liquid_kids
 title: "Liquid Kids"
-platform: Arcade
+platform: ["Arcade", "PCE", "Amiga"]
 year: 1990
 songs: 
   - id: hurry_up

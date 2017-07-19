@@ -1,33 +1,33 @@
 id: the_smurfs_nes
-title: "The Smurfs"
-platform: "NES, Various"
+title: "The Smurfs [NES]"
+platform: ["NES", "GB", "SMS", "GG"]
 year: 1994
 songs: 
-  - id: act_6_the_swamps_nes_ver
+  - id: act_6_the_swamps_nes
     title: "Act 6 - The Swamps"
     path: "The Swamps.brstm"
     type: betting
-  - id: boss_battle_smurfs
+  - id: boss_battle_smurfs_nes
     title: "Boss Battle"
     path: "Boss Battle.vgz"
     type: warning
-  - id: credits_smurfs
+  - id: credits_smurfs_nes
     title: "The End ~ Credits"
     path: "The End ~ Credits.vgz"
     type: result
-  - id: title_screen_smurfs
+  - id: title_screen_smurfs_nes
     title: "Title Screen"
     path: "Title Screen.vgz"
     type: result
-  - id: act_4_the_sarsaparilla_fields_act_9_the_bridge_nes_ver
+  - id: act_4_the_sarsaparilla_fields_act_9_the_bridge_nes
     title: "Act 4 - The Sarsaparilla Fields ~ Act 9 - The Bridge"
     path: "06 Act 4 - The Sarsaparilla Fields ~ Act 9 - The Bridge.vgz"
     type: betting
-  - id: bonus_stage_nes_ver
+  - id: bonus_stage_nes
     title: "Bonus Stage"
     path: "10 Bonus Stage.vgz"
     type: result
-  - id: game_over_smurfs_nes_ver
+  - id: game_over_smurfs_nes
     title: "Game Over"
     path: "15 Game Over.vgz"
     type: warning

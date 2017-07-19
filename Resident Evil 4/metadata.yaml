@@ -3,7 +3,7 @@ id: resident_evil_4
 title: "Resident Evil 4"
 series: residentevil
 year: 2004
-platform: "Various"
+platform: ["GC", "PS2"]
 songs:
   - id: serenity
     title: "Serenity"

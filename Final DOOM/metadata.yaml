@@ -1,11 +1,10 @@
 id: final_doom
 title: "Final DOOM"
 series: doom
-platform: "PC"
+platform: ["PC", "PS1"]
 year: 1996
 songs: 
   - id: map_07_soldier_of_chaos
     title: "Map 07 - Soldier of Chaos"
     path: "Map 07 - Soldier of Chaos.brstm"
-    ends: 3:10
     type: betting

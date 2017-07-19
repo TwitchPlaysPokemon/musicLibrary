@@ -2,7 +2,7 @@ id: street_fighter_alpha
 title: "Street Fighter Alpha: Warriors' Dreams"
 year: 1995
 series: streetfighter
-platform: "Various"
+platform: ["Arcade", "Saturn", "PS1"]
 songs:
   - id: character_select_street_fighter_alpha
     title: "Character Select"

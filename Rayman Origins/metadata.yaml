@@ -1,6 +1,7 @@
 id: rayman_origins
 title: "Rayman Origins"
-platform: "Various"
+platform: ["Wii", "Various"]
+#other platforms: ["360", "PS3", "Vita", "PC", "3DS"]
 year: 2011
 songs: 
   - id: chest_rayman_origins

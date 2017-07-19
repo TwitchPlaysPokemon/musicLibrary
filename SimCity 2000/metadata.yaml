@@ -2,7 +2,8 @@
 id: simcity_2000
 title: "SimCity 2000"
 series: simcity
-platform: "PC"
+platform: ["PC", "Various"]
+#other platforms: ["DOS", "SNES", "Amiga", "Saturn", "PS1", "N64", "PC-98", "FM Towns", "GBA"]
 year: 1993
 songs: 
   - id: dawn_of_city

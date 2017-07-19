@@ -2,7 +2,7 @@ id: final_fantasy_xiii_2
 title: "Final Fantasy XIII-2"
 series: finalfantasy
 year: 2011
-platform: "PS3+360"
+platform: ["PS3", "360"]
 songs:
   - id: knight_of_the_goddess
     title: "Knight of The Goddess"

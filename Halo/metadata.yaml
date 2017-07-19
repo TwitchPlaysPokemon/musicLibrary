@@ -2,7 +2,7 @@
 id: halo
 title: "Halo"
 year: 2001
-platform: "Xbox, PC"
+platform: ["Xbox", "PC"]
 songs:
   - id: 03_-_brothers_in_arms
     title: "Brothers in Arms"

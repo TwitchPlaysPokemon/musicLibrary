@@ -2,6 +2,7 @@ id: doom_pc
 title: "DOOM"
 series: doom
 platform: ["PC", "Various"]
+#other platforms: ["DOS", "32X", "Jaguar", "SNES", "PS1", "3DO", "Saturn", "GBA", "360"]
 year: 1993
 songs: 
   - id: e1m2_the_imps_song
@@ -11,7 +12,6 @@ songs:
   - id: e1m3_dark_halls
     title: "E1M3 - Dark Halls"
     path: "E1M3 - Dark Halls.brstm"
-    ends: 3:03
     type: betting
   - id: i_sawed_the_demons
     title: "I Sawed The Demons"

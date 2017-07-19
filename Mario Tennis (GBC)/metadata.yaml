@@ -1,9 +1,9 @@
 ---
 id: mario_tennis_gbc
-title: "Mario Tennis (GBC)"
+title: "Mario Tennis [GBC]"
 series: mario
 year: 2000
-platform: "GBC"
+platform: ["GBC", "N64"]
 songs:
   - id: set_point_match_point
     title: "Set Point / Match Point"

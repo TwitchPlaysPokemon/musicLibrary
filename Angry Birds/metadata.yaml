@@ -1,7 +1,8 @@
 id: angry_birds
 title: "Angry Birds"
-platform: "Various"
+platform: "iOS", "Various"
 year: 2009
+#other platforms: ["Browser", "Andriod", "Windows Phone", "Mobile", "Roku", "PC"]
 songs:
   - id: main_theme_angry_birds
     title: "Main Theme"

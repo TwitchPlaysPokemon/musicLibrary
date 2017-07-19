@@ -1,7 +1,7 @@
 ---
 id: animaniacs_smd
-title: "Animaniacs (SMD)"
-platform: "SMD"
+title: "Animaniacs [Genesis]"
+platform: ["Genesis", "SNES", "GB"]
 year: 1994
 songs: 
   - id: final_boss_intro

@@ -3,7 +3,7 @@ id: sonic_generations
 title: "Sonic Generations"
 series: sonic
 year: 2011
-platform: "360+PS3+PC"
+platform: ["360", "PS3", PC"]
 songs:
   - id: boss_death_egg
     title: "Boss - Death Egg Robot (OST)"
@@ -17,19 +17,18 @@ songs:
     title: "Casino Night Zone"
     path: "Casino Night.brstm"
     type: betting
-#      - id: collection_room
-#        title: "Collection Room (Door into Summer)"
-#        path: "Collection Room (Door into Summer).brstm"
-#        type: result
-# unfitting result song
+  - id: collection_room
+    title: "Collection Room (Door into Summer)"
+    path: "Collection Room (Door into Summer).brstm"
+    type: betting
   - id: hub_city_escape
     title: "Hub - City Escape"
     path: "Hub - City Escape.brstm"
     type: warning
-#      - id: hub_egg_dragoon
-#        title: "Hub - Egg Dragoon"
-#        path: "Hub - Egg Dragoon.brstm"
-#        type: warning #Borderline doesn't fit
+  - id: hub_egg_dragoon
+    title: "Hub - Egg Dragoon"
+    path: "Hub - Egg Dragoon.brstm"
+    type: warning
   - id: mission_3
     title: "Mission 3 (Emerald Beach)"
     path: "Mission 3 (Emerald Beach).brstm"

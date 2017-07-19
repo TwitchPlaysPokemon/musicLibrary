@@ -1,8 +1,8 @@
 id: sonic_3d_blast_genesis
-title: "Sonic 3D Blast (Genesis)"
+title: "Sonic 3D Blast [Genesis]"
 series: sonic
 year: 1996
-platform: "Genesis"
+platform: ["Genesis", "Saturn"]
 songs:
   - id: rusty_ruin_zone_2
     title: "Rusty Ruin Zone 2"

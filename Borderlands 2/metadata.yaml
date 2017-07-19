@@ -1,7 +1,8 @@
 id: borderlands_2
 title: "Borderlands 2"
 year: 2012
-platform: "Various"
+platform: ["360", "Various"]
+#other platforms: ["PS3", "PC", "Vita", "Sheild"]
 songs:
   - id: handsome_jack_boss
     title: "Handsome Jack Boss"

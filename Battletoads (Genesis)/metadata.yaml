@@ -1,12 +1,12 @@
 id: battletoads_genesis
-title: "Battletoads (Genesis)"
-platform: "Genesis"
+title: "Battletoads [Genesis]"
+platform: ["Genesis", "NES"]
 year: 1992
 songs:
   - id: turbo_tunnel_race
     title: "Turbo Tunnel Race"
     path: "Turbo Tunnel Race.vgz"
-    type: warning
+    type: battle
   - id: clinger_winger
     title: "Clinger Winger"
     path: "Clinger Winger.vgz"

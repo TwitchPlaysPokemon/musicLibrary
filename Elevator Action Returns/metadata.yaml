@@ -1,7 +1,7 @@
 ---
 id: elevator_action_returns
 title: "Elevator Action Returns"
-platform: "Arcade+Saturn"
+platform: ["Arcade", "Saturn"]
 year: 1995
 songs: 
   - id: blow_up

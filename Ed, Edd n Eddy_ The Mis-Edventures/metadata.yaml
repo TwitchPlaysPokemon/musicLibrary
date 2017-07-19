@@ -1,6 +1,7 @@
 id: ed_edd_n_eddy_the_mis_edventures
 title: "Ed, Edd n Eddy: The Mis-Edventures"
-platform: "Various"
+platform: ["GC", "Various"]
+#other platforms: ["PC", "Xbox", "PS2", "GBA"]
 year: 2005
 songs: 
   - id: bgm03_ed

@@ -1,7 +1,8 @@
 id: columns
 title: "Columns"
 year: 1990
-platform: "Various"
+platform: ["Genesis", "Various"]
+#other platforms: ["GG", "Arcade", "PC Engine", "MSX2", "SMS", "FM Towns", "SFC", "PC-8801", "PC-98"]
 songs:
   - id: arabian_jewelry
     title: "Arabian Jewelry (USA Version)"

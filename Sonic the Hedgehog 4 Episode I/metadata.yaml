@@ -2,7 +2,8 @@ id: sonic_the_hedgehog_4_episode_i
 title: "Sonic the Hedgehog 4: Episode I"
 series: sonic
 year: 2010
-platform: ["Wii", "PS3", "360", "Mobile"]
+platform: ["Wii", "Various"]
+#other platforms: ["360", "PS3", "iOS", "PC", "Android", "Windows Phone", "Mobile", "OUYA"]
 songs:
   - id: splash_hill_zone_act_2
     title: "Splash Hill Zone - Act 2"

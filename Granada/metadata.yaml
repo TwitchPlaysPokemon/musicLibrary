@@ -1,7 +1,7 @@
 ---
 id: granada
 title: "Granada"
-platform: "X68000+Genesis"
+platform: ["X68000", "Genesis"]
 year: 1990
 songs: 
   - id: marching_way_stage_4_underground_cavern

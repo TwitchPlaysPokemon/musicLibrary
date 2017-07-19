@@ -1,28 +1,28 @@
 ---
 id: animal_crossing_new_leaf
 platform: "3DS"
-title: "Animal Crossing New Leaf"
+title: "Animal Crossing: New Leaf"
 series: animalcrossing
 year: 2013
 songs: 
   - id: 1pm
-    path: "1 PM.brstm"
     title: "1 PM"
+    path: "1 PM.brstm"
     type: break
   - id: 5pm
-    path: "5 PM.brstm"
     title: "5 PM"
+    path: "5 PM.brstm"
     type: break
   - id: 7pm
-    path: "7 PM.brstm"
     title: "7 PM"
+    path: "7 PM.brstm"
     type: break
   - id: kk_disco
-    path: "K.K. Disco.brstm"
     title: "K.K. Disco"
+    path: "K.K. Disco.brstm"
     type: betting
   - id: bubblegum_kk_8bit
-    path: "Bubblegum K.K. (8-Bit).brstm"
     title: "Bubblegum K.K. (8-Bit)"
+    path: "Bubblegum K.K. (8-Bit).brstm"
     type: result
 ...

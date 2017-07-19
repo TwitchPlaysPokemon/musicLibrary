@@ -3,7 +3,8 @@ id: devil_may_cry_4
 title: "Devil May Cry 4"
 series: devilmaycry
 year: 2008
-platform: "Various"
+platform: ["360", "PS3", "PC"]
+#other platforms: "iOS"
 songs:
   - id: science_will_never_die
     title: "Science Will Never Die"

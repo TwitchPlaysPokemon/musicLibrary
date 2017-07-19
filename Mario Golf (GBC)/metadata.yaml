@@ -1,7 +1,7 @@
 id: mario_golf_gbc
-title: "Mario Golf (GBC)"
+title: "Mario Golf [GBC]"
 series: mario
-platform: "GBC"
+platform: ["GBC", "N64"]
 year: 1999
 songs: 
   - id: links_club

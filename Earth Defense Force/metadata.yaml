@@ -1,7 +1,7 @@
 ---
 id: earth_defense_force
 title: "Earth Defense Force"
-platform: "Arcade"
+platform: ["Arcade", "SNES"]
 year: 1991
 songs: 
   - id: midnight_intercept_stage_2

@@ -2,7 +2,7 @@
 id: viewtiful_joe
 title: "Viewtiful Joe"
 year: 2003
-platform: "GCN+PS2"
+platform: ["GC", "PS2"]
 songs:
   - id: joe_the_hero_(viewtiful_joe's_theme)
     title: "Joe the Hero (Viewtiful Joe's Theme)"

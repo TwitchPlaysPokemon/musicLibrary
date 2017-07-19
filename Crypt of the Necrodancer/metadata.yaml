@@ -2,7 +2,8 @@
 id: crypt_of_the_necrodancer
 title: "Crypt of the Necrodancer"
 year: 2015
-platform: "Various"
+platform: ["PC", "Various"]
+#other platforms: ["PS4", "Vita", "XBone", "iOS"]
 songs:
   - id: last_dance_(necrodancer_fight_2nd_phase)
     title: "Last Dance (Necrodancer Fight 2nd Phase)"

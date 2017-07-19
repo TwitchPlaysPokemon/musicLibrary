@@ -2,7 +2,8 @@
 id: payday_2
 title: "Payday 2"
 series: payday
-platform: "Various"
+platform: ["Switch", "Various"]
+#other platforms: ["PC", "PS4", "XBone", "PS3", "360"]
 year: 2013
 songs:
   - id: hot_pursuit

@@ -2,7 +2,7 @@ id: grand_theft_auto_san_andreas
 title: "Grand Theft Auto: San Andreas"
 series: gta
 year: 2004
-platform: "PC"
+platform: ["PS2", "Xbox", "PC"]
 songs:
   - id: go_go_space_monkey
     title: "Go Go Space Monkey"

@@ -1,7 +1,7 @@
 id: spongebob_squarepants_revenge_of_the_flying_dutchman
 title: "Spongebob Squarepants: Revenge of the Flying Dutchman"
 year: 2002
-platform: "GBA+PS2+GCN"
+platform: ["GC", "PS2", "GBA"]
 songs:
   - id: spongebob_fishing_gear
     title: "Spongebob Fishing Gear"

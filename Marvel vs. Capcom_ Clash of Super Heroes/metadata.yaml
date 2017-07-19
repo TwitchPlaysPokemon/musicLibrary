@@ -3,7 +3,7 @@ id: marvel_vs_capcom_clash_of_super_heroes
 title: "Marvel vs. Capcom: Clash of Super Heroes"
 series: mvc
 year: 1998
-platform: "Arcade+DC+PS1"
+platform: ["Arcade", "DC", "PS1"]
 songs:
   - id: theme_of_spider-man
     title: "Theme of Spider-Man"

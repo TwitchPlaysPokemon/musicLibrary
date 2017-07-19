@@ -1,7 +1,7 @@
 id: rivals_of_aether
 title: "Rivals of Aether"
 year: 2017
-platform: "PC, Xbox One"
+platform: ["PC", "XBone"]
 songs:
   - id: air_armada_roa
     title: "Air Armada"

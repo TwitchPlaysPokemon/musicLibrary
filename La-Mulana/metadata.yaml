@@ -2,7 +2,7 @@
 id: la_mulana
 title: "La-Mulana"
 year: 2012
-platform: "PC+Wii"
+platform: ["Wii", "PC"]
 songs:
   - id: good_night_mom
     title: "Good Night Mom"

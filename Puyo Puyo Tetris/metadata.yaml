@@ -1,6 +1,7 @@
 id: puyo_puyo_tetris
 title: "Puyo Puyo Tetris"
-platform: "Various"
+platform: ["Switch", "Various"]
+#other platforms: ["Wii U", "3DS", "XBone", "PS4", "PS3", "Vita"]
 series: puyopuyo
 year: 2014
 songs:

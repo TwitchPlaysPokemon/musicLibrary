@@ -1,7 +1,8 @@
 id: batman_retuns
 title: "Batman Returns"
 year: 1993
-platform: "NES"
+platform: ["NES", "Various"]
+#other platforms: ["Lynx", "SNES", "Genesis", "SCD", "SMS", "GG", "Amiga", "DOS"]
 songs:
   - id: gotham_plaza
     title: "Gotham Plaza"

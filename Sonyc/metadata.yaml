@@ -7,7 +7,7 @@ is_fanwork: true
 year: 1997
 songs: 
   - id: palm_beach_sonyc
-    title: "Palm Beach"
+    title: "Palm Beach Zone"
     path: "03_Palm.vgm"
     type: betting
   - id: battle_sonyc
@@ -23,11 +23,11 @@ songs:
     path: "07_Bonus.vgm"
     type: result
   - id: the_ruins_sonyc
-    title: "The Ruins"
+    title: "The Ruins Zone"
     path: "09_Ruins.vgm"
     type: betting
   - id: the_forest_sonyc
-    title: "The Forest"
+    title: "The Forest Zone"
     path: "10_Forest.vgm"
     type: betting
   - id: credits_sonyc

@@ -1,7 +1,7 @@
 ---
 id: the_spongebob_squarepants_movie_game
 title: "The SpongeBob SquarePants Movie"
-platform: "Various"
+platform: ["GC", "Xbox", "PS2"]
 year: 2004
 songs:
   - id: three_thousand_miles_to_shell_city

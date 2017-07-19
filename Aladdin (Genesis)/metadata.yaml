@@ -1,6 +1,7 @@
 id: aladdin_genesis
-title: "Aladdin"
-platform: "Genesis"
+title: "Aladdin [Genesis]"
+platform: ["Genesis, Various"]
+#other platforms: 	["Amiga", "DOS", "NES", "GB", "GBC"]
 year: 1993
 songs:
   - id: camel_jazz

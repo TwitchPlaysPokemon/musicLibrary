@@ -1,6 +1,6 @@
 id: world_of_goo
 title: "World of Goo"
-platform: "Wii+PC"
+platform: ["Wii", "PC"]
 year: 2008
 songs:
   - id: red_carpet_extend_o_matic

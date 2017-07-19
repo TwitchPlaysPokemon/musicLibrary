@@ -1,7 +1,8 @@
 ---
 id: terraria
 title: "Terraria"
-platform: "Various"
+platform: ["Wii U", "Various"]
+#other platforms: ["PC", "360", "PS3", "Vita", "Android", "iOS", "Windows Phone", "Mobile", "PS4", "XBone", "3DS", "Switch"]
 year: 2011
 songs: 
   - id: alternate_day_terraria

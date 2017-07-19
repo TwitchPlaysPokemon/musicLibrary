@@ -2,7 +2,8 @@ id: street_fighter_alpha_3
 title: "Street Fighter Alpha 3"
 year: 1998
 series: streetfighter
-platform: "Various"
+platform: ["DC", "Various"]
+#other platforms: ["Arcade", "PS1", "Saturn", "GBA", "PSP"]
 songs:
   - id: cody_sfa3
     title: "Cody"

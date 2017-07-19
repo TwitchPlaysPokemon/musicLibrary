@@ -2,7 +2,7 @@
 id: tales_of_symphonia
 title: "Tales of Symphonia"
 year: 2003
-platform: "GCN+PS2"
+platform: ["GC", "PS2"]
 songs:
   - id: escape_from_enemy_base
     title: "Escape from Enemy Base"

@@ -1,7 +1,7 @@
 ---
 id: danganronpa_2
 title: "Danganronpa 2: Goodbye Despair"
-platform: "PSP+Vita+PC"
+platform: ["PSP", "Vita", "PC"]
 year: 2012
 songs: 
   - id: beautiful_ruin

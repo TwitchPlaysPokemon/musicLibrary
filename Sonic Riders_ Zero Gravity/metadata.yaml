@@ -3,7 +3,7 @@ id: sonic_riders_zero_gravity
 title: "Sonic Riders: Zero Gravity"
 year: 2008
 series: sonic
-platform: "Wii, PS2"
+platform: ["Wii", "PS2"]
 songs:
   - id: main_menu_sonic_riders_zerog
     title: "Main Menu"

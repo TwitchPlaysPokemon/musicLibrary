@@ -1,7 +1,7 @@
 id: animaniacs
-title: "Animaniacs"
+title: "Animaniacs [SNES]"
 year: 1994
-platform: "SNES"
+platform: ["SNES", "Genesis", "GB"]
 songs:
   - id: title_screen_animaniacs
     title: "Title Screen"

@@ -2,7 +2,7 @@
 id: metal_gear_rising
 title: "Metal Gear Rising: Revengeance"
 series: metalgear
-platform: "PS3+360+PC"
+platform: ["360", "PS3", "PC"]
 year: 2013
 songs:
   - id: stains_of_time

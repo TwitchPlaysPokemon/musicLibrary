@@ -3,7 +3,7 @@ id: marvel_vs_capcom_3_fate_of_two_worlds
 title: "Marvel vs. Capcom 3: Fate of Two Worlds"
 series: mvc
 year: 2011
-platform: "360+PS3"
+platform: ["360", "PS3"]
 songs:
   - id: dr_dooms_theme
     title: "Dr. Doom's Theme"

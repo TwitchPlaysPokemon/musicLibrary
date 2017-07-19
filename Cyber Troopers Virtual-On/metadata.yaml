@@ -1,7 +1,7 @@
 ---
 id: cyber_troopers_virtual_on
 title: "Cyber Troopers Virtual-On"
-platform: "Arcade+Saturn+PC"
+platform: ["Arcade", "Saturn", "PC"]
 year: 1995
 songs: 
   - id: shes_lost_control

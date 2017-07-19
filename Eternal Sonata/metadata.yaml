@@ -1,7 +1,7 @@
 id: eternal_sonata
 title: "Eternal Sonata"
 year: 2007
-platform: "360+PS3"
+platform: ["360", "PS3"]
 songs:
   - id: leap_the_precipice
     title: "Leap The Precipice"

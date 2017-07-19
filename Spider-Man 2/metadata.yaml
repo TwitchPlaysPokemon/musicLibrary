@@ -1,6 +1,7 @@
 id: spider_man_2
 title: "Spider-Man 2"
-platform: "Various"
+platform: ["GC", "Various"]
+#other platforms: ["Xbox", "PS2", "PC", "NDS", "PSP", "GBA", "N-Gage"]
 year: 2004
 songs:
   - id: pizza_delivery

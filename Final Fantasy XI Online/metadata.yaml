@@ -1,7 +1,7 @@
 ---
 id: final_fantasy_xi_online
 title: "Final Fantasy XI Online"
-platform: "PS2+PC+360"
+platform: ["PS2", "360", "PC"]
 year: 2002
 songs: 
   - id: battle_in_the_dungeon_2

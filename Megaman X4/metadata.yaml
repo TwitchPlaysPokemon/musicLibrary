@@ -3,7 +3,7 @@ id: megaman_x4
 title: "Mega Man X4"
 series: megaman
 year: 1997
-platform: "Saturn"
+platform: ["Saturn", "PS1"]
 songs:
   - id: boss_battle_mmx4
     title: "Boss Battle"

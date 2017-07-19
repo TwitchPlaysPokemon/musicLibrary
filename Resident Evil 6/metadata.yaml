@@ -2,7 +2,7 @@
 id: resident_evil_6
 title: "Resident Evil 6"
 series: residentevil
-platform: "Various"
+platform: ["360", "PS3", "PC"]
 year: 2012
 songs:
   - id: the_mercenaries_resident_evil_6

@@ -2,7 +2,7 @@ id: mass_effect
 title: "Mass Effect"
 series: masseffect
 year: 2007
-platform: "360+PC"
+platform: ["360", "PC"]
 songs: 
   - id: uncharted_worlds
     title: "Uncharted Worlds"

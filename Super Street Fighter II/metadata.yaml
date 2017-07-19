@@ -1,9 +1,9 @@
 ---
 id: super_street_fighter_ii
-title: "Super Street Fighter II"
+title: "Super Street Fighter II [SNES]"
 series: streetfighter
 year: 1994
-platform: "SNES"
+platform: ["SNES", "Genesis", "Arcade"]
 songs:
   - id: super_street_fighter_ii_guile
     title: "Guile Stage"
@@ -13,12 +13,12 @@ songs:
     title: "Ken Stage"
     path: "210 Ken.spc"
     type: battle
-#      - id: fei_long
-#        title: "Fei Long Stage"
-#        path: "219 Fei Long.spc"
-#        type: battle #Not tense and charged enough
-#      - id: continue
-#        title: "Continue?"
-#        path: "223 Continue.spc"
-#        type: warning
+  - id: fei_long
+    title: "Fei Long Stage"
+    path: "219 Fei Long.spc"
+    type: warning
+  - id: continue
+    title: "Continue?"
+    path: "223 Continue.spc"
+    type: warning
 ...

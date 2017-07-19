@@ -1,6 +1,7 @@
+---
 id: phalanx_gba
-title: "Phalanx - The Enforce Fighter A-144"
-platform: "GBA"
+title: "Phalanx - The Enforce Fighter A-144 [GBA]"
+platform: ["GBA", "SNES", "X68000"]
 year: 2001
 songs: 
   - id: assault_phalanx_gba
@@ -19,3 +20,4 @@ songs:
     title: "Charge"
     path: "15 Charge.minigsf"
     type: betting
+...

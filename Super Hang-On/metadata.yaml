@@ -2,7 +2,7 @@
 id: super_hang_on
 title: "Super Hang-On"
 year: 1987
-platform: "Arcade"
+platform: ["Arcade", "Genesis"]
 songs:
   - id: hard_road
     title: "Hard Road"

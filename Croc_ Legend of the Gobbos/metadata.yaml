@@ -3,7 +3,7 @@ id: croc_legend_of_the_gobbos
 title: "Croc: Legend of the Gobbos"
 series: croc
 year: 1997
-platform: "Various"
+platform: ["PS1", "Saturn", "PC"]
 songs:
   - id: title_theme_croc_legend_of_the_gobbos
     title: "Title Theme"

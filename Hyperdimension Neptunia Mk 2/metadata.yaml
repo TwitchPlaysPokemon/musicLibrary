@@ -3,7 +3,7 @@ id: hyperdimension_neptunia_mk_2
 title: "Hyperdimension Neptunia Mk 2"
 series: neptunia
 year: 2011
-platform: "PC+PS3+Vita"
+platform: ["PS3", "Vita", "PC"]
 songs:
   - id: rebeat_resort
     title: "Rebeat Resort"

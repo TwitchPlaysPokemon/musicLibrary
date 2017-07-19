@@ -3,7 +3,7 @@ id: sonic_gems_collection
 title: "Sonic Gems Collection"
 series: sonic
 year: 2005
-platform: "PS2+GCN"
+platform: ["GC", "PS2"]
 songs:
   - id: manuals
     title: "Manuals"

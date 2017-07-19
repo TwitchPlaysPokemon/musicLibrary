@@ -2,7 +2,8 @@
 id: mushihimesama
 title: "Mushihimesama"
 series: mushihimesama
-platform: "Various"
+platform: ["360", "Various"]
+#other platforms: ["Arcade", "PS2", "iOS", "PC"]
 year: 2004
 songs:
   - id: furthermore_cross_the_desert_too

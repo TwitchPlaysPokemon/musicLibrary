@@ -1,7 +1,7 @@
 id: sonic_mega_collection
 title: "Sonic Mega Collection"
 series: sonic
-platform: "GCN+PS2+Xbox"
+platform: ["GC", "PS2", "Xbox"]
 year: 2002
 songs: 
   - id: ending_sonic_mega_collection

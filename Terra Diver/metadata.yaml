@@ -1,7 +1,7 @@
 ---
 id: terra_diver
 title: "Terra Diver"
-platform: "Arcade+Saturn+PS1"
+platform: ["Arcade", "Saturn", "PS1"]
 year: 1996
 songs: 
   - id: otaku_sky

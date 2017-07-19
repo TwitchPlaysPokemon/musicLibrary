@@ -1,7 +1,8 @@
 ---
 id: the_lion_king
-title: "The Lion King"
-platform: "SMD"
+title: "The Lion King [Genesis]"
+platform: ["Genesis", "Various"]
+#other platforms: ["SNES", "Amiga", "PC", "NES", "SMS", "GG", "GB"]
 year: 1994
 songs:
   - id: i_just_cant_wait_to_be_king

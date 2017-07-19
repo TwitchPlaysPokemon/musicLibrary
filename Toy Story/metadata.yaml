@@ -1,7 +1,7 @@
 id: toy_story
-title: "Toy Story"
+title: "Toy Story [Genesis]"
 year: 1995
-platform: "Genesis"
+platform: ["Genesis", "SNES", "PC"]
 songs:
   - id: food_and_drink
     title: "Food and Drink"

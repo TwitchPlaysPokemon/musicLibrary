@@ -1,7 +1,7 @@
 ---
 id: batsugun
 title: "Batsugun"
-platform: "Arcade+Saturn"
+platform: ["Arcade", "Saturn"]
 year: 1993
 songs: 
   - id: complimentary_ticket

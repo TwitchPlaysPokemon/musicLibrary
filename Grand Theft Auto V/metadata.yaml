@@ -2,7 +2,8 @@
 id: grand_theft_auto_v
 title: "Grand Theft Auto V"
 series: grandtheftauto
-platform: "Various"
+platform: ["360", "Various"]
+#other platforms: ["PS3", "XBone", "PS4", "PC"]
 year: 2013
 songs:
   - id: something_sensible_chase

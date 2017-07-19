@@ -1,7 +1,7 @@
 id: virtua_racing
 title: "Virtua Racing"
 year: 1992
-platform: "Arcade"
+platform: ["Arcade", "Genesis", "32X"]
 songs:
   - id: transmission_selection
     title: "Course/Transmission Selection"

@@ -1,6 +1,7 @@
 id: guacamelee
 title: "Guacamelee!"
-platform: "Various"
+platform: ["Wii U", "Various"]
+#other platforms: ["PC", "PS3", "360", "Vita", "PS4", "XBone"]
 year: 2013
 songs: 
   - id: temple_of_rain_living

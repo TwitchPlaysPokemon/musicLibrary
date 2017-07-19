@@ -1,7 +1,7 @@
 id: shin_megami_tensei_devil_summoner_soul_hackers
 title: "Shin Megami Tensei: Devil Summoner: Soul Hackers"
 series: shinmegamitensei
-platform: "Saturn+PS1+3DS"
+platform: ["Saturn", "PS1"]
 year: 1997
 songs: 
   - id: normal_battle_arranged

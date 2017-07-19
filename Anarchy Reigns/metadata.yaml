@@ -2,7 +2,7 @@
 id: anarchy_reigns
 title: "Anarchy Reigns"
 year: 2012
-platform: "360+PS3"
+platform: ["360", "PS3"]
 songs:
   - id: play_for_keeps_(instrumental)
     title: "Play for Keeps (Instrumental)"

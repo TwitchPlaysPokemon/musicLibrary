@@ -3,7 +3,7 @@ id: castlevania_harmony_of_despair
 title: "Castlevania Harmony of Despair"
 series: castlevania
 year: 2010
-platform: "360+PS3"
+platform: ["360", "PS3"]
 songs:
   - id: dance_of_illusions
     title: "Dance of Illusions"

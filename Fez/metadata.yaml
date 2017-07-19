@@ -1,6 +1,6 @@
 id: fez
 title: "Fez"
-platform: "360+PC"
+platform: ["360", "PC"]
 year: 2012
 songs: 
   - id: home_fez

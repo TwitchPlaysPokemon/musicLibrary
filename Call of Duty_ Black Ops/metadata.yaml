@@ -3,7 +3,8 @@ id: call_of_duty_black_ops
 title: "Call of Duty: Black Ops"
 series: callofduty
 year: 2010
-platform: "Various"
+platform: ["360", "Various"]
+#other platforms: ["PS3", "PC", "Wii", "NDS"]
 songs:
   - id: twilight_dead_ops_arcade
     title: "Twilight (Dead Ops Arcade)"

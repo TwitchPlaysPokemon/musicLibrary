@@ -1,7 +1,7 @@
 id: jackbox_party_pack
 title: "Jackbox Party Pack"
-platform: "Various"
-year: 2015
+platform: ["PC", "Various"]
+year: 2014
 songs: 
   - id: drawful_02_drawtime
     title: "Drawful 02 DrawTime"

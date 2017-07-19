@@ -1,8 +1,8 @@
 ---
 id: lego_racers_2
-title: "Lego Racers 2"
+title: "LEGO Racers 2"
 series: lego
-platform: "GBA"
+platform: ["PS2", "PC", "GBA"]
 year: 2001
 songs:
   - id: arctic_boss_race

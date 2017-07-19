@@ -1,6 +1,6 @@
 id: yooka_laylee
 title: "Yooka-Laylee"
-platform: "Various"
+platform: ["PC", "PS4", "XBone"]
 year: 2017
 songs:
   - id: armed_and_dangerous

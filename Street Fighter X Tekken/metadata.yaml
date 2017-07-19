@@ -1,9 +1,9 @@
 ---
 id: street_fighter_x_tekken
 title: "Street Fighter X Tekken"
-series: crossover
+series: streetfighter
 year: 2012
-platform: "Various"
+platform: ["360", "PS3", "PC"]
 songs:
   - id: vs_street_fighter_rivals_arrange_1_sfxt
     title: "Vs. Street Fighter Rivals (Arrange #1)"

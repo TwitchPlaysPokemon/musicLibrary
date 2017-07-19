@@ -1,7 +1,7 @@
 id: dragon_ball_z_budokai_tenkaichi_2
 title: "Dragon Ball Z: Budokai Tenkaichi 2"
 series: dragonball
-platform: "PS2+Wii"
+platform: ["PS2", "Wii"]
 year: 2006
 songs: 
   - id: gatebreaker

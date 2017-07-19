@@ -1,7 +1,7 @@
 id: fate_unlimited_codes
 title: "Fate/unlimited codes"
 year: 2008
-platform: "Arcade+PS2+PSP"
+platform: ["Arcade", "PS2", "PSP"]
 songs:
   - id: character_select_fuc
     title: "Character Select"

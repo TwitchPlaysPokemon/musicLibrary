@@ -1,6 +1,6 @@
 id: mega_turrican
 title: "Mega Turrican"
-platform: "Genesis+Amiga"
+platform: ["Genesis", "Amiga"]
 year: 1993
 songs: 
   - id: base_part_1

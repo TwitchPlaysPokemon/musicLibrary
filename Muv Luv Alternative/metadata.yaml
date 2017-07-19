@@ -1,7 +1,7 @@
 ---
 id: muv_luv_alternative
 title: "Muv Luv Alternative"
-platform: "PC+360+PS3"
+platform: ["360", "PS3", "PC"]
 year: 2006
 songs: 
   - id: crash

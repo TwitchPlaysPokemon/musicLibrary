@@ -1,7 +1,8 @@
 id: enduro_racer
 title: "Enduro Racer"
 year: 1986
-platform: "Arcade"
+platform: ["Arcade", "SMS"]
+#other platforms: ["ZX Spectrum", "C64", "Atari ST", "Amstrad CPC"]
 songs:
   - id: main_music_ym2151
     title: "Main Music (YM2151)"

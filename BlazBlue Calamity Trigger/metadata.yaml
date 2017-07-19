@@ -2,7 +2,8 @@
 id: blazblue_calamity_trigger
 title: "BlazBlue: Calamity Trigger"
 series: blazblue
-platform: "Various"
+platform: ["360", "Various"]
+#other platforms: ["Arcade", "PS3", "PSP", "PC"]
 year: 2008
 songs:
   - id: awakening_the_chaos

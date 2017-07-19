@@ -1,8 +1,8 @@
 id: sonic_3d_blast_saturn
-title: "Sonic 3D Blast (Saturn)"
+title: "Sonic 3D Blast [Saturn]"
 series: sonic
 year: 1996
-platform: "Saturn"
+platform: ["Saturn", "Genesis"]
 songs:
   - id: green_grove_zone_act1
     title: "Green Grove Zone Act 1"

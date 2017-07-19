@@ -1,7 +1,8 @@
 id: half_life_2
 title: "Half-Life 2"
 year: 2004
-platform: "PC"
+platform: ["PC", "Xbox"]
+#other platforms: "Shield"
 songs:
   - id: cp_violation
     title: "CP Violation"

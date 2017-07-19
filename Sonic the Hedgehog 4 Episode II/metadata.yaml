@@ -2,7 +2,8 @@ id: sonic_the_hedgehog_4_episode_ii
 title: "Sonic the Hedgehog 4: Episode II"
 series: sonic
 year: 2012
-platform: "Various"
+platform: ["360", "Various"]
+#other platforms: ["PC", "PS3", "Android", "iOS", "Mobile", "Shield", "OUYA"]
 songs:
   - id: metal_sonic
     title: "Metal Sonic"

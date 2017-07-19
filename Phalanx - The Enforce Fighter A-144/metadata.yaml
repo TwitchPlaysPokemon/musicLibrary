@@ -1,7 +1,7 @@
 ---
 id: phalanx
-title: "Phalanx - The Enforce Fighter A-144"
-platform: "X68000+SNES+GBA"
+title: "Phalanx - The Enforce Fighter A-144 [SNES]"
+platform: ["SNES", "X68000", "GBA"]
 year: 1991
 songs: 
   - id: under_water

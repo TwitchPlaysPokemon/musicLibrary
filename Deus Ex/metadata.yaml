@@ -1,6 +1,6 @@
 id: deus_ex
 title: "Deus Ex"
-platform: "PC+PS2"
+platform: ["PC","PS2"]
 year: 2000
 songs: 
   - id: new_york_city_streets_1_action

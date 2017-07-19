@@ -3,7 +3,8 @@ id: marvel_vs_capcom_2_new_age_of_heroes
 title: "Marvel vs. Capcom 2: New Age of Heroes"
 series: mvc
 year: 2000
-platform: "Arcade+Various"
+platform: ["Arcade", "Various"]
+#other platforms: ["DC", "PS2", "Xbox"]
 songs:
   - id: swamp
     title: "Swamp"

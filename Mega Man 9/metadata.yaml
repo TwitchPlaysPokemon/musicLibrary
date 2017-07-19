@@ -1,7 +1,7 @@
 id: mega_man_9
 title: "Mega Man 9"
 series: megaman
-platform: "Wii+PS3+360"
+platform: ["Wii", "360", "PS3"]
 year: 2008
 songs:
   - id: endless_mode_maze_of_death

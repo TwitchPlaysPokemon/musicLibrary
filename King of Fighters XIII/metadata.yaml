@@ -1,6 +1,6 @@
 id: king_of_fighters_xiii
 title: "King of Fighters XIII"
-platform: "Arcade"
+platform: ["Arcade", "360", "PS3"]
 year: 2010
 songs: 
   - id: kyokugen_training

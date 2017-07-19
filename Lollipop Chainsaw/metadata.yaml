@@ -1,6 +1,6 @@
 id: lollipop_chainsaw
 title: "Lollipop Chainsaw"
-platform: "PS3+360"
+platform: ["360", "PS3"]
 year: 2012
 songs: 
   - id: psychedelic_zombie_phase_3
