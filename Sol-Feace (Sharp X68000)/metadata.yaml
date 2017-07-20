@@ -1,7 +1,7 @@
 ---
 id: sol_feace
 title: "Sol-Feace"
-platform: "X68000"
+platform: ["X68000", "SCD", "Genesis"]
 year: 1990
 songs: 
   - id: enemys_arsenal_mission_2

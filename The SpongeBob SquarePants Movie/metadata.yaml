@@ -4,6 +4,18 @@ title: "The SpongeBob SquarePants Movie"
 platform: ["GC", "Xbox", "PS2"]
 year: 2004
 songs:
+  - id: dennis_strikes_back
+    title: "Dennis Strikes Back!"
+    path: "Dennis Strikes Back!.brstm"
+    type: warning
+  - id: big_fight_spongebob_movie
+    title: "Big Fight"
+    path: "Big Fight.brstm"
+    type: warning
+  - id: welcome_to_planktopolis_minions
+    title: "Welcome to Planktopolis... Minions"
+    path: "Welcome to Planktopolis... Minions.brstm"
+    type: warning
   - id: three_thousand_miles_to_shell_city
     title: "Three... Thousand Miles to Shell City"
     path: "Three Thousand Miles to Shell City.brstm"

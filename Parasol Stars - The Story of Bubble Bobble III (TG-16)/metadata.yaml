@@ -2,7 +2,7 @@
 id: parasol_stars_the_story_of_bubble_bobble_iii_pce
 title: "Parasol Stars: The Story of Bubble Bobble III"
 series: bubblebobble
-platform: "PCE"
+platform: ["TG-16", "NES", "Amiga"]
 year: 1991
 songs: 
   - id: main_bgm_parasol_stars_pce

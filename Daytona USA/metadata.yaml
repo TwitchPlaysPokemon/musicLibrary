@@ -1,6 +1,6 @@
 id: daytona_usa
 title: "Daytona USA"
-platform: "Arcade"
+platform: ["Arcade", "Saturn", "PC"]
 year: 1993
 songs: 
   - id: the_king_of_speed_arcade

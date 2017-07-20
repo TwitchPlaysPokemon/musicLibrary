@@ -1,7 +1,7 @@
 ---
 id: grind_stormer
 title: "Grind Stormer"
-platform: "Arcade"
+platform: ["Arcade", "Genesis"]
 year: 1993
 songs: 
   - id: wonderful_dreamer_stage_1

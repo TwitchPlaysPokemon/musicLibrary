@@ -2,7 +2,7 @@
 id: wonder_boy_iii_the_dragons_trap
 title: "Wonder Boy III The Dragon's Trap"
 series: wonderboy
-platform: "PCE"
+platform: ["TG-16", "SMS", "GG"]
 year: 1989
 songs: 
   - id: the_last_dungeon_wonder_boy_iii

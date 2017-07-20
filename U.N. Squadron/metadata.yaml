@@ -1,13 +1,13 @@
 ---
 id: un_squadron
-title: "U.N. Squadron"
+title: "U.N. Squadron [SNES]"
 year: 1991
-platform: "SNES"
+platform: ["SNES", "Arcade"]
 songs:
-#      - id: enemy_airforce
-#        title: "Enemy Airforce"
-#        path: "05 Enemy Airforce.spc"
-#        type: betting #Borderline doesn't fit. Unsure about this deletion.
+  - id: enemy_airforce
+    title: "Enemy Airforce"
+    path: "05 Enemy Airforce.spc"
+    type: betting
   - id: front_line
     title: "Front Line Base"
     path: "04 Front Line Base.spc"

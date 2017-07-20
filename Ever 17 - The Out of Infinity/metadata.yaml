@@ -2,7 +2,8 @@
 id: ever_17_the_out_of_infinity
 title: "Ever 17: The Out of Infinity"
 series: infinity
-platform: "Various"
+platform: ["DC", "Various"]
+#other platforms: ["PS2", "PC", "PSP", "360", "Android", "iOS", "Mobile"]
 year: 2002
 songs: 
   - id: insel_null

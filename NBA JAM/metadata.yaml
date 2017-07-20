@@ -1,7 +1,7 @@
 id: nba_jam
 title: "NBA Jam"
 year: 1993
-platform: "SNES"
+platform: ["SNES", "Genesis", "Arcade"]
 songs:
   - id: main_theme_nba_jam
     title: "Main Theme"

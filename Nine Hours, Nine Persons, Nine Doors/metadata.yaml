@@ -5,7 +5,11 @@ title: "Nine Hours, Nine Persons, Nine Doors"
 year: 2009
 songs: 
   - id: nonary_game
-    path: "Nonary Game.brstm"
     title: "Nonary Game"
+    path: "Nonary Game.brstm"
     type: warning
+  - id: ternary_game
+    title: "Ternary Game"
+    path: "Ternary Game.brstm"
+    type: betting
 ...

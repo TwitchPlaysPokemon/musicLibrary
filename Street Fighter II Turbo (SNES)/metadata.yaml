@@ -21,4 +21,8 @@ songs:
     title: "Balrog"
     path: "Balrog.spc"
     type: betting
+  - id: guile
+    path: "Guile.spc"
+    title: "Theme of Guile"
+    type: battle
 ...

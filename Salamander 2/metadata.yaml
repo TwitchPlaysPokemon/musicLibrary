@@ -2,7 +2,7 @@
 id: salamander_2
 title: "Salamander 2"
 series: gradius
-platform: "Various"
+platform: ["Arcade", "Saturn", "PS1"]
 year: 1996
 songs: 
   - id: silvery_wings_again

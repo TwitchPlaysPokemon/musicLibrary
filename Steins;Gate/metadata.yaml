@@ -2,7 +2,8 @@
 id: steins_gate
 title: "Steins;Gate"
 series: scienceadventure
-platform: "Various"
+platform: ["360", "Various"]
+#other platforms: ["PC", "PSP", "Vita", "PS3", "PS4", "iOS", "Android"]
 year: 2009
 songs: 
   - id: gate_of_steiner_main_theme

@@ -1,7 +1,7 @@
 ---
 id: knights_of_the_round_arcade
 title: "Knights Of The Round"
-platform: "Arcade"
+platform: ["Arcade", "SNES"]
 year: 1991
 songs: 
   - id: stage_2 _confused_fight

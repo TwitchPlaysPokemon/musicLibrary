@@ -1,7 +1,7 @@
 ---
 id: marvel_land
 title: "Marvel Land"
-platform: "Arcade"
+platform: ["Arcade", "Genesis"]
 year: 1989
 songs: 
   - id: roller_coaster_side

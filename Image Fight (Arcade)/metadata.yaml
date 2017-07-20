@@ -1,7 +1,8 @@
 ---
 id: image_fight_arcade
 title: "Image Fight"
-platform: "Arcade"
+platform: ["Arcade", "Various"]
+#other platforms: ["NES", "PCE", "X68000", "FM Towns"]
 year: 1988
 songs: 
   - id: final_mission_stage_8
