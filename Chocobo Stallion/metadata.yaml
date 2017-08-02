@@ -1,0 +1,14 @@
+id: chocobo_stallion
+title: "Chocobo Stallion"
+year: 1999
+series: chocobo
+platform: "PS1"
+songs:
+  - id: along_with_the_sun
+    title: "Along with the Sun"
+    path: "Along with the Sun.psf"
+    type: break
+  - id: jungle_chocobo_stallion
+    title: "Jungle"
+    path: "Jungle.psf"
+    type: betting

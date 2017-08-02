@@ -7,3 +7,19 @@ songs:
     title: "Area 1"
     path: "Area 1.vgz"
     type: betting
+  - id: area_3_bm
+    title: "Area 3"
+    path: "03 Area 3.vgz"
+    type: betting
+  - id: blaster_master_intro
+    title: "Blaster Master Intro"
+    path: "14 Blaster Master Intro.vgz"
+    type: warning
+  - id: area_8_bm
+    title: "Area 8"
+    path: "08 Area 8.vgz"
+    type: warning
+  - id: ending_bm
+    title: "Ending"
+    path: "12 Ending.vgz"
+    type: result

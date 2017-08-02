@@ -1,0 +1,17 @@
+id: tetris_classic
+title: "Tetris Classic"
+platform: "DOS"
+year: 1992
+songs: 
+  - id: high_score_tetris_classic
+    title: "High Score"
+    path: "16_HighScore.vgm"
+    type: break
+  - id: title_tetris_classic
+    title: "Title Screen / Main Menu"
+    path: "02_Title.vgm"
+    type: result
+  - id: level_8_tetris_classic
+    title: "Level 8"
+    path: "11_Level8.vgm"
+    type: warning

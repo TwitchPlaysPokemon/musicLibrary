@@ -1,0 +1,37 @@
+id: universe
+title: "Universe"
+platform: "PC"
+year: 1994
+songs: 
+  - id: opening_universe
+    title: "Opening / Ending"
+    path: "01 Opening.vgz"
+    type: break
+  - id: inside_ptv
+    title: "Inside PTV"
+    path: "06 Inside PTV.vgz"
+    type: break
+  - id: on_the_planet_surface
+    title: "On the Planet Surface"
+    path: "08 On the Planet Surface.vgz"
+    type: break
+  - id: pinch
+    title: "Pinch"
+    path: "05 Pinch.vgz"
+    type: warning
+  - id: sentiel_guard_robots
+    title: "Sentiel Guard Robots"
+    path: "16 Sentiel Guard Robots.vgz"
+    type: warning
+  - id: chase_universe
+    title: "Chase"
+    path: "11 Chase.vgz"
+    type: betting
+  - id: escaping_from_abandoned_city
+    title: "Escaping from Abadoned City"
+    path: "14 Escaping from Abadoned City.vgz"
+    type: betting
+  - id: good_end_universe
+    title: "Good End"
+    path: "20 Good End.vgz"
+    type: result

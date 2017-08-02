@@ -1,0 +1,29 @@
+id: wild_arms
+title: "Wild Arms"
+year: 1996
+platform: "PS1"
+songs:
+  - id: getting_rich_quick
+    title: "Getting Rich Quick!"
+    path: "112 Getting Rich Quick!.psf"
+    type: result
+  - id: ancient_culture_exhibition
+    title: "Ancient Culture Exhibition"
+    path: "119 Ancient Culture Exhibition.psf"
+    type: betting
+  - id: migrant_bird_of_the_wilderness
+    title: "Migrant Bird of the Wilderness"
+    path: "132 Migrant Bird of the Wilderness.psf"
+    type: betting
+  - id: waterside_wild_arms
+    title: "Waterside Where Migratory Birds Gather"
+    path: "133 Waterside Where Migratory Birds Gather.psf"
+    type: break
+  - id: town_wild_arms
+    title: "Town"
+    path: "205 Town.psf"
+    type: betting
+  - id: false_wedding_on_the_sea
+    title: "False Wedding on the Sea"
+    path: "209 False Wedding on the Sea.psf"
+    type: betting

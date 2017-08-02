@@ -1,0 +1,14 @@
+id: sonic_blast
+title: "Sonic Blast"
+year: 1996
+series: sonic
+platform: ["GG", "SMS"]
+songs:
+  - id: green_hill_zone_blast
+    title: "Green Hill Zone"
+    path: "Green Hill Zone.vgm"
+    type: betting
+  - id: yellow_desert_zone
+    title: "Yellow Desert Zone"
+    path: "Yellow Desert Zone.vgm"
+    type: betting

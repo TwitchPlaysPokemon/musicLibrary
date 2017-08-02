@@ -1,0 +1,26 @@
+id: chocobo_land_a_game_of_dice
+title: "Chocobo Land: A Game of Dice"
+year: 2002
+series: chocobo
+platform: "GBA"
+songs:
+  - id: ancient_ruins_chocobo_dice
+    title: "Ancient Ruins"
+    path: "Ancient Ruins.minigsf"
+    type: betting
+  - id: main_menu_chocobo_dice
+    title: "Main Menu"
+    path: "Main Menu.minigsf"
+    type: betting
+  - id: multiplayer_board_1_chocobo_dice
+    title: "Multiplayer Board 1"
+    path: "Multiplayer Board 1.minigsf"
+    type: betting
+  - id: unknown_tune_3_chocobo_dice
+    title: "Unknown Tune 3"
+    path: "Unknown Tune 3.minigsf"
+    type: betting
+  - id: world_map_chocobo_dice
+    title: "World Map"
+    path: "World Map.minigsf"
+    type: betting

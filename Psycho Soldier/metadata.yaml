@@ -1,0 +1,33 @@
+id: psycho_soldier
+title: "Psycho Soldier"
+year: 1987
+platform: "Arcade"
+songs:
+  - id: psycho_soldier_theme_us
+    title: "Psycho Solier Theme (US Instumental)"
+    path: "06 Psycho Soldier Theme Inst Version (Area 1 US).vgz"
+    type: betting
+  - id: town_conflict
+    title: "Town Conflict (Area 2)"
+    path: "07 Town Conflict (Area 2).vgz"
+    type: betting
+  - id: underground_cave
+    title: "Underground Cave (Area 3)"
+    path: "08 Underground Cave (Area 3).vgz"
+    type: betting
+  - id: blue_underground_lake
+    title: "Blue Underground Lake (Area 4)"
+    path: "09 Blue Underground Lake (Area 4).vgz"
+    type: betting
+  - id: blazing_lava_area
+    title: "Blazing Lava Area (Area 5)"
+    path: "10 Blazing Lava Area (Area 5).vgz"
+    type: betting
+  - id: last_boss_psycho_soldier
+    title: "Last Boss"
+    path: "12 Last Boss.vgz"
+    type: warning
+  - id: badly_scarred_blue_moon
+    title: "Badly Scarred Blue Moon (Ending)"
+    path: "13 Badly Scarred Blue Moon (Ending).vgz"
+    type: result

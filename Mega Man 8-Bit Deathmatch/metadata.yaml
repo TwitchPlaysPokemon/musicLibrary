@@ -1,3 +1,4 @@
+---
 id: megaman_8-bit_deathmatch
 title: "Mega Man 8-Bit Deathmatch"
 platform: "PC"
@@ -12,3 +13,8 @@ songs:
     title: "Genesis Unit Fight - MegaMan & Bass / Wily Tower Chapter Boss"
     path: "Genesis Unit Fight - MegaMan&BassWily Tower Chapter Boss.brstm"
     type: battle
+  - id: ctf13_penguins_of_the_apocolyps
+    title: "CTF13 - Penguins of the Apocalypse"
+    path: "CTF13 - Penguins of the Apocalypse.brstm"
+    type: betting
+...

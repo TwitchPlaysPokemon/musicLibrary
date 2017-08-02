@@ -1,0 +1,10 @@
+id: super_mario_all_stars
+title: "Super Mario All-Stars"
+year: 1993
+series: mario
+platform: "SNES"
+songs:
+  - id: swimming_smb1_all_stars
+    title: "Swimming"
+    path: "Swimming.spc"
+    type: break

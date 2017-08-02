@@ -1,0 +1,14 @@
+id: chocobos_mysterious_dungeon
+title: "Chocobo's Mysterious Dungeon"
+year: 1997
+series: chocobo
+platform: "PS1"
+songs:
+  - id: chocobo_village
+    title: "Chocobo Village"
+    path: "Chocobo Village.psf"
+    type: betting
+  - id: store_man
+    title: "Store Man"
+    path: "Store Man.psf"
+    type: break

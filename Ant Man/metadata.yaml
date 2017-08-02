@@ -1,0 +1,37 @@
+id: ant_man
+title: "Ant Man"
+platform: "PC"
+year: 1995
+songs: 
+  - id: title_screen_ant_man
+    title: "Title Screen"
+    path: "03 Title Screen.vgz"
+    type: result
+  - id: stage_1_ant_man
+    title: "Stage 1"
+    path: "04 Stage 1.vgz"
+    type: betting
+  - id: stage_2_ant_man
+    title: "Stage 2"
+    path: "05 Stage 2.vgz"
+    type: betting
+  - id: stage_3_ant_man
+    title: "Stage 3"
+    path: "07 Stage 3.vgz"
+    type: betting
+  - id: stage_4_ant_man
+    title: "Stage 4"
+    path: "08 Stage 4.vgz"
+    type: warning
+  - id: stage_2_3_5_boss_ant_man
+    title: "Stage 2, 3 Boss, Stage 5"
+    path: "06 Stage 2, 3 Boss, Stage 5.vgz"
+    type: warning
+  - id: stage_4_5_boss_ant_man
+    title: "Stage 4, 5 Boss"
+    path: "09 Stage 4, 5 Boss.vgz"
+    type: warning
+  - id: ending_theme_ant_man
+    title: "Ending Theme"
+    path: "10 Ending Theme.vgz"
+    type: warning

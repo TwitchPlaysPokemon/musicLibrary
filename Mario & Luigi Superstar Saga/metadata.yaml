@@ -80,3 +80,15 @@ songs:
     title: "Warp Pipe"
     path: "Warp Pipe.minigsf"
     type: break
+  - id: ghostly_enouncter
+    title: "Ghostly Encounter"
+    path: "Ghostly Encounter.minigsf"
+    type: warning
+  - id: mini_game_mlsaga
+    title: "Mini Game"
+    path: "Mini Game.minigsf"
+    type: result
+  - id: underground_mlsaga
+    title: "Underground"
+    path: "Underground.minigsf"
+    type: betting

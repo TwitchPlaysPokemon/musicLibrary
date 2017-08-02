@@ -1,0 +1,16 @@
+---
+id: robopon_sun
+title: "Robopon: Sun Version"
+series: robopon
+platform: "GBC"
+year: 1998
+songs:
+  - id: starting_town_robopon
+    title: "Capri Town"
+    path: "Capri Town.brstm"
+    type: betting
+  - id: victory_robopon_sun
+    title: "Victory!"
+    path: "Victory.brstm"
+    type: result
+...
