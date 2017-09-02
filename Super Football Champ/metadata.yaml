@@ -1,0 +1,19 @@
+---
+id: super_football_champ
+title: "Super Football Champ"
+platform: "Arcade"
+year: 1996
+songs: 
+  - id: team_select_super_football_champ
+    title: "Team Select"
+    path: "02 Team Select.vgz"
+    type: result
+  - id: staff_roll_super_football_champ
+    title: "Staff Roll"
+    path: "05 Staff Roll.vgz"
+    type: result
+  - id: unused_super_football_champ
+    title: "Unused"
+    path: "06 Unused.vgz"
+    type: result
+...

@@ -1,10 +1,11 @@
+---
 id: disgaea
 title: "Disgaea: Hour of Darkness"
-year: 2003
 platform: ["PS2", "PSP", "PC"]
+year: 2003
 songs:
-  - id: dark_adonis
-    title: "Dark Adonis"
+  - id: beauty_baron
+    title: "Beauty Baron"
     path: "Dark Adonis.brstm"
     type: betting
   - id: dark_whisper
@@ -23,3 +24,4 @@ songs:
     title: "Welcome to the Dark Castle"
     path: "Welcome to the Dark Castle.brstm"
     type: betting
+...

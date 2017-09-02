@@ -1,8 +1,9 @@
+---
 id: dark_souls_3
 title: "Dark Souls III"
 series: darksouls
-year: 2016
 platform: ["PS4", "XBone", "PC"]
+year: 2016
 songs:
   - id: firelink_shrine
     title: "Firelink Shrine"
@@ -16,3 +17,20 @@ songs:
     title: "Soul of Cinder (Phase 1)"
     path: "soul_of_cinder_phase_1.brstm"
     type: battle
+  - id: darkeater_midir_phase_1
+    title: "Darkeater Midir (Phase 1)"
+    path: "Darkeater Midir (Phase 1).brstm"
+    type: warning
+  - id: nameless_king
+    title: "Nameless King"
+    path: "Nameless King.brstm"
+    type: warning
+  - id: sister_friede
+    title: "Sister Friede"
+    path: "Sister Friede.brstm"
+    type: break
+  - id: slave_knight_gael_phase_1
+    title: "Slave Knight Gael (Phase 1)"
+    path: "Slave Knight Gael (Phase 1).brstm"
+    type: betting
+...

@@ -1,0 +1,24 @@
+---
+id: blaster_master_boy
+title: "Blaster Master Boy"
+series: blastermaster
+platform: "GB"
+year: 1991
+songs: 
+  - id: bomber_king_theme
+    title: "Bomber King Theme"
+    path: "02 Bomber King Theme.vgz"
+    type: betting
+  - id: underground_blaster_master_boy
+    title: "Underground"
+    path: "03 Underground.vgz"
+    type: warning
+  - id: idol_room
+    title: "Idol Room"
+    path: "04 Idol Room.vgz"
+    type: warning
+  - id: boss_room_blaster_master_boy
+    title: "Boss Room"
+    path: "07 Boss Room.vgz"
+    type: warning
+...

@@ -4,8 +4,24 @@ title: "Knight Arms: The Hyblid Framer"
 platform: "X68000"
 year: 1989
 songs: 
+  - id: opening_knight_arms
+    title: "Opening \"Knight Arms\""
+    path: "03 Opening 'Knight Arms'.vgz"
+    type: betting
+  - id: title_knight_arms
+    title: "Title"
+    path: "04 Title.vgz"
+    type: result
   - id: stage_1_1_bad_shooter
-    title: "Stage 1-1 'Bad Shooter'"
+    title: "Stage 1-1 \"Bad Shooter\""
     path: "05 Stage 1-1 'Bad Shooter'.vgz"
     type: betting
+  - id: clear_demo
+    title: "Clear Demo"
+    path: "15 Clear Demo.vgz"
+    type: result
+  - id: ending_last_drive
+    title: "Ending \"Last Drive\""
+    path: "16 Ending 'Last Drive'.vgz"
+    type: break
 ...

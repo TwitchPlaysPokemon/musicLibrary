@@ -1,8 +1,9 @@
+---
 id: the_simpsons_hit_and_run
 title: "The Simpsons: Hit & Run"
-year: 2003
 series: thesimpsons
 platform: ["GC", "PS2", "PC"]
+year: 2003
 songs:
   - id: saving_springfield
     title: "Saving Springfield"
@@ -24,3 +25,136 @@ songs:
     title: "Operation Hellfish"
     path: "Operation Hellfish.brstm"
     type: battle
+  - id: bart_n_frink
+    title: "Bart 'n' Frink"
+    path: "Bart 'n' Frink.brstm"
+    type: betting
+  - id: blind_big_brother
+    title: "Blind Big Brother"
+    path: "Blind Big Brother.brstm"
+    type: warning
+  - id: bonestorm_storm
+    title: "Bonestorm Storm"
+    path: "Bonestorm Storm.brstm"
+    type: betting
+  - id: cell_outs
+    title: "Cell-Outs"
+    path: "Cell-Outs.brstm"
+    type: betting
+  - id: circuit_race_1_hit_and_run
+    title: "Circuit Race 1"
+    path: "Circuit Race 1.brstm"
+    type: battle
+  - id: circuit_race_2_hit_and_run
+    title: "Circuit Race 2"
+    path: "Circuit Race 2.brstm"
+    type: betting
+  - id: detention_deficit_disorder
+    title: "Detention Deficit Disorder"
+    path: "Detention Deficit Disorder.brstm"
+    type: betting
+  - id: downtown_springfield
+    title: "Downtown Springfield"
+    path: "Downtown Springfield.brstm"
+    type: betting
+  - id: duff_brewery
+    title: "Duff Brewery"
+    path: "Duff Brewery.brstm"
+    type: result
+  - id: eight_is_too_much
+    title: "Eight is Too Much"
+    path: "Eight is Too Much.brstm"
+    type: betting
+  - id: end_credits_hit_and_run
+    title: "End Credits"
+    path: "End Credits.brstm"
+    type: result
+  - id: evergreen_terrace
+    title: "Evergreen Terrace"
+    path: "Evergreen Terrace.brstm"
+    type: betting
+  - id: evergreen_terror
+    title: "Evergreen Terror"
+    path: "Evergreen Terror.brstm"
+    type: warning
+  - id: flowers_by_irene
+    title: "Flowers By Irene"
+    path: "Flowers By Irene.brstm"
+    type: betting
+  - id: for_a_few_donuts_more
+    title: "For a Few Donuts More"
+    path: "For a Few Donuts More.brstm"
+    type: warning
+  - id: hit_and_run
+    title: "Hit & Run!"
+    path: "Hit & Run.brstm"
+    type: warning
+  - id: incriminating_caffeine
+    title: "Incriminating Caffeine"
+    path: "Incriminating Caffeine.brstm"
+    type: betting
+  - id: ketchup_logic
+    title: "Ketchup Logic"
+    path: "Ketchup Logic.brstm"
+    type: betting
+  - id: long_black_probes
+    title: "Long Black Probes"
+    path: "Long Black Probes.brstm"
+    type: battle
+  - id: milking_the_pigs
+    title: "Milking the Pigs"
+    path: "Milking the Pigs.brstm"
+    type: betting
+  - id: never_trust_a_snake
+    title: "Never Trust a Snake"
+    path: "Never Trust a Snake.brstm"
+    type: betting
+  - id: office_spaced_destroy_smithers_vehicle
+    title: "Office Spaced - Destroy Smithers Vehicle!"
+    path: "Office Spaced - Destroy Smithers Vehicle!.brstm"
+    type: warning
+  - id: office_spaced
+    title: "Office Spaced"
+    path: "Office Spaced.brstm"
+    type: battle
+  - id: petty_theft_homer
+    title: "Petty Theft Homer"
+    path: "Petty Theft Homer.brstm"
+    type: betting
+  - id: simpsons_hotline
+    title: "Simpsons Hotline"
+    path: "Simpsons Hotline.brstm"
+    type: break
+  - id: s_m_r_t
+    title: "S-M-R-T"
+    path: "S-M-R-T.brstm"
+    type: betting
+  - id: springfield_squidport
+    title: "Springfield Squidport"
+    path: "Springfield Squidport.brstm"
+    type: betting
+  - id: stonecutter_spoof_unused
+    title: "Stonecutter Spoof (unused)"
+    path: "Stonecutter Spoof (unused).brstm"
+    type: warning
+  - id: stonecutter_tunnel
+    title: "Stonecutter Tunnel"
+    path: "Stonecutter Tunnel.brstm"
+    type: break
+  - id: the_fat_and_furious
+    title: "The Fat and Furious"
+    path: "The Fat and Furious.brstm"
+    type: battle
+  - id: this_little_piggy
+    title: "This Little Piggy"
+    path: "This Little Piggy.brstm"
+    type: betting
+  - id: vox_nerduli
+    title: "Vox Nerduli"
+    path: "Vox Nerduli.brstm"
+    type: warning
+  - id: wolves_stole_my_pills
+    title: "Wolves Stole My Pills"
+    path: "Wolves Stole My Pills.brstm"
+    type: betting
+...

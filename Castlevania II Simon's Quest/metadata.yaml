@@ -1,8 +1,9 @@
 ---
 id: castlevania_ii__simon's_quest
 title: "Castlevania II: Simon's Quest"
-year: 1987
+series: castlevania
 platform: "NES"
+year: 1987
 songs:
   - id: dwelling_of_doom
     title: "Dwelling of Doom"
@@ -11,7 +12,7 @@ songs:
   - id: bloddy_tears_simon_quest
     title: "Bloody Tears"
     path: "Bloody Tears.vgz"
-    type: warning
+    type: betting
   - id: message_of_darkness_simon_quest
     title: "Message of Darkness"
     path: "Message of Darkness.vgz"
@@ -24,4 +25,8 @@ songs:
     title: "The Silence of The Daylight"
     path: "The Silence of The Daylight.vgz"
     type: betting
+  - id: message_of_darkness
+    title: "Message of Darkness"
+    path: "08 Message of Darkness.vgz"
+    type: warning
 ...

@@ -1,12 +1,20 @@
 ---
 id: pokemon_rumble_u
-platform: "Wii U"
 title: "Pokémon Rumble U"
 series: pokemon
+platform: "Wii U"
 year: 2013
 songs: 
   - id: main_theme_rumble_u
-    path: "Main Theme.brstm"
     title: "Main Theme"
-    type: betting #Borderline WutFace; leaving it in
+    path: "Main Theme.brstm"
+    type: betting
+  - id: the_place_to_return_to
+    title: "The Place to Return To"
+    path: "23 The Place to Return To.brstm"
+    type: battle
+  - id: the_battle_for_sky_and_land
+    title: "The Battle for Sky and Land"
+    path: "28 The Battle for Sky and Land.brstm"
+    type: warning
 ...

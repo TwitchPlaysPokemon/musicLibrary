@@ -1,0 +1,60 @@
+---
+id: kirbys_dream_land_2
+title: "Kirby's Dream Land 2"
+series: kirby
+platform: "GB"
+year: 1995
+songs: 
+  - id: grass_land_kdl2
+    title: "Grass Land"
+    path: "04 Grass Land.vgz"
+    type: betting
+  - id: rick_the_hamster_kdl2
+    title: "Rick the Hamster"
+    path: "06 Rick's Theme.vgz"
+    type: betting
+  - id: big_forest_kdl2
+    title: "Big Forest"
+    path: "16 Big Forest.vgz"
+    type: betting
+  - id: coo_the_owl_kdl2
+    title: "Coo the Owl"
+    path: "18 Coo's Theme.vgz"
+    type: betting
+  - id: ripple_field_kdl2
+    title: "Ripple Field"
+    path: "19 Ripple Field.vgz"
+    type: betting
+  - id: kine_the_fish_kdl2
+    title: "Kine the Fish"
+    path: "21 Kine's Theme.vgz"
+    type: betting
+  - id: red_canyon_kdl2
+    title: "Red Canyon"
+    path: "24 Red Canyon.vgz"
+    type: betting
+  - id: cloudy_park_kdl2
+    title: "Cloudy Park"
+    path: "26 Cloudy Park.vgz"
+    type: betting
+  - id: ice_berg_kdl2
+    title: "Ice Berg"
+    path: "22 Iceberg.vgz"
+    type: betting
+  - id: dark_castle_kdl2
+    title: "Dark Castle"
+    path: "28 Dark Castle.vgz"
+    type: betting
+  - id: duel_in_the_darkened_sky_kdl2
+    title: "Duel in the Darkened Sky"
+    path: "33 Dark Matter Battle 1.vgz"
+    type: warning
+  - id: dark_matter_kdl2
+    title: "Dark Matter"
+    path: "34 Dark Matter Battle 2.vgz"
+    type: warning
+  - id: wielder_of_the_rainbow_sword
+    title: "Wielder of the Rainbow Sword"
+    path: "35 Staff Roll.vgz"
+    type: result
+...

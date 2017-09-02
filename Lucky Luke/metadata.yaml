@@ -1,0 +1,31 @@
+---
+id: lucky_luke
+title: "Lucky Luke"
+platform: ["GB", "GBC"]
+year: 1996
+songs: 
+  - id: options_menu_bonus_level_results
+    title: "Options Menu ~ Bonus Level ~ Results"
+    path: "02 Options Menu ~ Bonus Level ~ Results.vgz"
+    type: result
+  - id: mexico_city
+    title: "Mexico City"
+    path: "04 Mexico City.vgz"
+    type: betting
+  - id: stagecoach
+    title: "Stagecoach"
+    path: "05 Stagecoach.vgz"
+    type: betting
+  - id: train_buffalo_tornado
+    title: "Train ~ Buffalo ~ Tornado"
+    path: "07 Train ~ Buffalo ~ Tornado.vgz"
+    type: warning
+  - id: the_prairie
+    title: "The Prairie"
+    path: "09 The Prairie.vgz"
+    type: betting
+  - id: cheyenne_mountains
+    title: "Cheyenne Mountains"
+    path: "11 Cheyenne Mountains.vgz"
+    type: betting
+...

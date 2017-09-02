@@ -1,7 +1,7 @@
 ---
 id: super_monkey_ball_2
-platform: "GC"
 title: "Super Monkey Ball 2"
+platform: "GCN"
 year: 2002
 songs: 
   - id: world_1_jungle
@@ -64,4 +64,16 @@ songs:
     path: "Hurry Up.brstm"
     title: "Hurry Up"
     type: warning
+  - id: monkey_shot_advanced
+    title: "Monkey Shot - Advanced"
+    path: "shot_advan_L.dsp"
+    type: betting
+  - id: monkey_race_2_advanced_stage
+    title: "Monkey Race 2 - Advanced Stage"
+    path: "race_advan_L.dsp"
+    type: betting
+  - id: monkey_race_2_beginner_stage
+    title: "Monkey Race 2 - Beginner Stage"
+    path: "race_L.dsp"
+    type: betting
 ...

@@ -1,0 +1,32 @@
+---
+id: princess_maker_2
+title: "Princess Maker 2"
+series: princess_maker
+platform: "PCE CD"
+year: 1995
+songs: 
+  - id: main_screen_spring
+    title: "Main Screen Spring"
+    path: "01 Main Screen Spring.vgz"
+    type: result
+  - id: go_to_town
+    title: "Go to Town"
+    path: "06 Go to Town.vgz"
+    type: betting
+  - id: to_the_church
+    title: "To the Church"
+    path: "07 To The Church.vgz"
+    type: break
+  - id: battle_princess_maker_2
+    title: "Battle"
+    path: "13 Battle.vgz"
+    type: battle
+  - id: warriors_tournament
+    title: "Warrior's Tournament"
+    path: "16 Warrior's Tournament.vgz"
+    type: betting
+  - id: tension_event_princess_maker_2
+    title: "Tension (Event)"
+    path: "23 Tension (Event).vgz"
+    type: warning
+...

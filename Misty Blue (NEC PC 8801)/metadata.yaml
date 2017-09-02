@@ -8,10 +8,26 @@ songs:
     title: "In the Morning"
     path: "01 In the Morning.vgz"
     type: break
+  - id: broken_beats
+    title: "Broken Beats"
+    path: "02 Broken Beats.vgz"
+    type: warning
+  - id: opening_misty_blue
+    title: "Opening"
+    path: "03 Opening.vgz"
+    type: battle
+  - id: lovers
+    title: "Lovers"
+    path: "04 Lovers.vgz"
+    type: result
   - id: illusion
     title: "Illusion"
     path: "07 Illusion.vgz"
     type: result
+  - id: i_wanna_close_to_you
+    title: "I Wanna Close to You"
+    path: "08 I Wanna Close to You.vgz"
+    type: betting
   - id: misty_blue
     title: "Misty Blue"
     path: "09 Misty Blue.vgz"
@@ -30,8 +46,20 @@ songs:
     path: "12 Catch the Step.vgz"
     ends: 2:06
     type: betting
+  - id: theme_of_enix_quest
+    title: "Theme of Enix Quest"
+    path: "13 Theme of Enix Quest.vgz"
+    type: warning
+  - id: escape_enix_quest
+    title: "Escape (Enix Quest)"
+    path: "14 Escape (Enix Quest).vgz"
+    type: warning
   - id: battle_enix_quest
     title: "Battle (Enix Quest)"
     path: "15 Battle (Enix Quest).vgz"
+    type: warning
+  - id: police
+    title: "Police"
+    path: "17 Police.vgz"
     type: warning
 ...

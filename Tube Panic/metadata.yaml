@@ -1,0 +1,19 @@
+---
+id: tube_panic
+title: "Tube Panic"
+platform: "Arcade"
+year: 1984
+songs: 
+  - id: attract_mode_tube_panic
+    title: "Attract Mode"
+    path: "01 Attract Mode.vgz"
+    type: betting
+  - id: ending_tube_panic
+    title: "Ending"
+    path: "05 Ending.vgz"
+    type: result
+  - id: attract_mode_game_completed_tube_panic
+    title: "Attract Mode (Game Completed)"
+    path: "07 Attract Mode (Game Completed).vgz"
+    type: betting
+...

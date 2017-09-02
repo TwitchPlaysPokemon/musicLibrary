@@ -1,7 +1,8 @@
-id: furry_of_the_furries
-title: "Furry of the Furries"
-year: 1993
+---
+id: fury_of_the_furries
+title: "Fury of the Furries"
 platform: ["PC", "Amiga"]
+year: 1993
 songs:
   - id: lagoon_classic
     title: "Lagoon (Classic)"
@@ -11,3 +12,4 @@ songs:
     title: "Lagoon (Fun)"
     path: "Lagoon (Fun).vgm"
     type: betting
+...

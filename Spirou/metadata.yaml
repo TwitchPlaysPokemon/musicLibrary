@@ -1,0 +1,31 @@
+---
+id: spirou
+title: "Spirou"
+platform: "GB"
+year: 1996
+songs: 
+  - id: title_screen_spirou
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: new_york_spirou
+    title: "New York"
+    path: "02 New York.vgz"
+    type: betting
+  - id: toy_factory_spirou
+    title: "Toy Factory"
+    path: "03 Toy Factory.vgz"
+    type: betting
+  - id: metro_spirou
+    title: "Metro"
+    path: "04 Metro.vgz"
+    type: betting
+  - id: mountain_spirou
+    title: "Mountain"
+    path: "05 Mountain.vgz"
+    type: betting
+  - id: ending_spirou
+    title: "Ending"
+    path: "13 Ending.vgz"
+    type: result
+...

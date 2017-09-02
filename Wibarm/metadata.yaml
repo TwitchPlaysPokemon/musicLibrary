@@ -1,0 +1,31 @@
+---
+id: wibarm
+title: "Wibarm"
+platform: "Tandy 1000"
+year: 1989
+songs: 
+  - id: title_wibarm
+    title: "Title"
+    path: "01 Title.vgz"
+    type: betting
+  - id: base_wibarm
+    title: "Base"
+    path: "03 Base.vgz"
+    type: warning
+  - id: inside_a_building
+    title: "Inside a Building"
+    path: "06 Inside a Building.vgz"
+    type: warning
+  - id: last_stage_wibarm
+    title: "Last Stage"
+    path: "11 Last Stage.vgz"
+    type: result
+  - id: security_code_input
+    title: "Security Code Input"
+    path: "12 Security Code Input.vgz"
+    type: warning
+  - id: staff_roll_wibarm
+    title: "Staff Roll"
+    path: "15 Staff Roll.vgz"
+    type: result
+...

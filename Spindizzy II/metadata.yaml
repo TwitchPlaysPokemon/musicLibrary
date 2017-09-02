@@ -1,0 +1,28 @@
+---
+id: spindizzy_ii
+title: "Spindizzy II"
+series: spindizzy
+platform: "X68000"
+year: 1992
+songs: 
+  - id: zoom_up
+    title: "Zoom Up"
+    path: "02 Zoom Up.vgz"
+    type: betting
+  - id: paradise
+    title: "Paradise"
+    path: "03 Paradise.vgz"
+    type: break
+  - id: woo
+    title: "Woo!!"
+    path: "04 Woo!!.vgz"
+    type: warning
+  - id: uranus_spindizzy_ii
+    title: "URANUS"
+    path: "14 URANUS.vgz"
+    type: betting
+  - id: pak_attack
+    title: "Pak Attack"
+    path: "19 Pak Attack.vgz"
+    type: betting
+...

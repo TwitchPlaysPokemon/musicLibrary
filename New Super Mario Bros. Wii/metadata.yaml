@@ -1,8 +1,9 @@
+---
 id: new_super_mario_bros_wii
 title: "New Super Mario Bros. Wii"
 series: mario
-year: 2009
 platform: "Wii"
+year: 2009
 songs:
   - id: airship_nsmbwii
     title: "Airship"
@@ -40,3 +41,8 @@ songs:
     title: "Battle"
     path: "Battle.brstm"
     type: warning
+  - id: final_boss_phase_2_main
+    title: "Final Boss Phase 2 - Main"
+    path: "STRM_BGM_LAST_BOSS2.brstm"
+    type: warning
+...

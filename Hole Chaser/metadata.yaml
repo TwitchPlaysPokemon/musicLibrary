@@ -1,0 +1,27 @@
+---
+id: hole_chaser
+title: "Hole Chaser"
+platform: "PC-88"
+year: 1990
+songs: 
+  - id: opening_hole_chaser
+    title: "Opening"
+    path: "01 Opening.vgz"
+    type: betting
+  - id: bgm_3_hole_chaser
+    title: "BGM 3"
+    path: "04 BGM 3.vgz"
+    type: betting
+  - id: bgm_5_hole_chaser
+    title: "BGM 5"
+    path: "06 BGM 5.vgz"
+    type: battle
+  - id: bgm_6_hole_chaser
+    title: "BGM 6"
+    path: "07 BGM 6.vgz"
+    type: betting
+  - id: ending_hole_chaser
+    title: "Ending"
+    path: "10 Ending.vgz"
+    type: result
+...

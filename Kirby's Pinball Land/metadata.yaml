@@ -1,0 +1,16 @@
+---
+id: kirbys_pinball_land
+title: "Kirby's Pinball Land"
+series: kirby
+platform: "GB"
+year: 1993
+songs: 
+  - id: high_score_entry_kirbys_pinball_land
+    title: "High Score Entry"
+    path: "14 High Score Entry.vgz"
+    type: result
+  - id: dedede_battle_no_intro_kirbys_pinball_land
+    title: "Dedede Battle (No Intro)"
+    path: "18 Dedede Battle (No Intro).vgz"
+    type: warning
+...

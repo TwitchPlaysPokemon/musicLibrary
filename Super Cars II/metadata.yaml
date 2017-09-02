@@ -1,0 +1,16 @@
+---
+id: super_cars_ii
+title: "Super Cars II"
+series: supercars
+platform: "Amiga"
+year: 1991
+songs: 
+  - id: title_super_cars_ii
+    title: "Title"
+    path: "Super Cars 2 - Title.mod"
+    type: betting
+  - id: ingame_super_cars_ii
+    title: "Ingame"
+    path: "Super Cars 2 - Ingame.mod"
+    type: betting
+...

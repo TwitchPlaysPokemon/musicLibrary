@@ -1,0 +1,35 @@
+---
+id: chaos_world
+title: "Chaos World"
+platform: "FC"
+year: 1991
+songs: 
+  - id: field_chaos_world
+    title: "Field"
+    path: "05 Field.vgz"
+    type: break
+  - id: underground_exploration
+    title: "Underground Exploration"
+    path: "08 Underground Exploration.vgz"
+    type: warning
+  - id: welcome_to_the_village
+    title: "Welcome to the Village"
+    path: "09 Welcome to the Village.vgz"
+    type: betting
+  - id: now_lets_set_sail
+    title: "Now, Let's Set Sail!"
+    path: "13 Now, Let's Set Sail!.vgz"
+    type: result
+  - id: mid_boss_battle_chaos_world
+    title: "Mid-Boss Battle"
+    path: "14 Mid-Boss Battle.vgz"
+    type: warning
+  - id: getting_rich_quick_in_the_town_of_temptation
+    title: "Getting Rich Quick in the Town of Temptation!"
+    path: "16 Getting Rich Quick in the Town of Temptation!.vgz"
+    type: betting
+  - id: into_the_labyrinth
+    title: "Into the Labyrinth"
+    path: "17 Into the Labyrinth.vgz"
+    type: warning
+...

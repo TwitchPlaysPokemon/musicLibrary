@@ -1,0 +1,16 @@
+---
+id: virtua_fighter
+title: "Virtua Fighter"
+series: virtuafighter
+platform: ["Arcade", "32X", "Saturn"]
+year: 1993
+songs: 
+  - id: game_start_virtua_fighter
+    title: "Game Start"
+    path: "03 Game Start.vgz"
+    type: betting
+  - id: name_entry_virtua_fighter
+    title: "Name Entry"
+    path: "16 Name Entry.vgz"
+    type: result
+...

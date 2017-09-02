@@ -1,36 +1,72 @@
 ---
 id: pokemon_card_gb2
-platform: "GBC"
 title: "Pokémon Card GB2: Here Comes Team GR!"
 series: pokemon
+platform: "GBC"
 year: 2001
 songs: 
   - id: duel_vs_fortress_leader
-    path: "Duel Vs. Fortress Leader.brstm"
-    title: "Duel Vs. Fortress Leader"
+    path: "Duel vs. Fortress Leader.vgz"
+    title: "Duel vs. Fortress Leader"
     type: battle
   - id: duel_vs_team_gr
-    path: "Duel Vs. Team GR.brstm"
-    title: "Duel Vs. Team GR"
+    path: "Duel vs. Team GR.vgz"
+    title: "Duel vs. Team GR"
     type: battle
-  - id: walking_on_gr_island
-    path: "Walking on GR Island.brstm"
-    title: "Walking on GR Island"
-    type: result
+  - id: gr_island
+    path: "GR Island.vgz"
+    title: "GR Island"
+    type: betting
   - id: grs_grass_and_water_forts
-    path: "GR's Grass and Water Forts.brstm"
-    title: "GR's Grass and Water Forts"
+    path: "GR Grass Fort ~ GR Water Fort.vgz"
+    title: "GR Grass Fort ~ GR Water Fort"
     type: betting
   - id: the_final_duel_grs_king_villicci
-    title: "The Final Duel ~ GR's King Villicci"
-    path: "The Final Duel ~ GR's King Biruricchi.brstm"
+    title: "Final Duel vs. King Biruritchi"
+    path: "Final Duel vs. King Biruritchi.vgz"
     type: betting
   - id: gr_castle
     title: "GR Castle"
-    path: "GR Castle.brstm"
+    path: "GR Castle.vgz"
     type: betting
   - id: grs_lightning_and_psychic_forts
-    title: "GR's Lightning and Psychic Forts"
-    path: "GR's Lightning and Psychic Forts.brstm"
+    title: "GR Lightning Fort ~ GR Psychic Stronghold"
+    path: "GR Lightning Fort ~ GR Psychic Stronghold.vgz"
     type: betting
+  - id: title_screen_pokemon_card_gb2
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: invasion_of_team_gr
+    title: "Invasion of Team GR"
+    path: "02 Invasion of Team GR.vgz"
+    type: betting
+  - id: to_gr_island
+    title: "To GR Island"
+    path: "04 To GR Island.vgz"
+    type: result
+  - id: grs_fire_and_fighting_forts
+    title: "GR Fire Fort ~ GR Fighting Fort"
+    path: "08 GR Fire Fort ~ GR Fighting Fort.vgz"
+    type: betting
+  - id: colorless_altar
+    title: "Colorless Altar"
+    path: "09 Colorless Altar.vgz"
+    type: betting
+  - id: challenge_cup_pokemon_card_gb2
+    title: "Challenge Cup"
+    path: "11 Challenge Cup.vgz"
+    type: warning
+  - id: mr_ishiharas_villa
+    title: "Mr. Ishihara's Villa"
+    path: "13 Mr. Ishihara's Villa.vgz"
+    type: betting
+  - id: game_center_pokemon_card_gb2
+    title: "Game Center"
+    path: "14 Game Center.vgz"
+    type: betting
+  - id: imakunis_theme_pokemon_card_gb2
+    title: "Imakuni?'s Theme"
+    path: "15 Imakuni's Theme.vgz"
+    type: warning
 ...

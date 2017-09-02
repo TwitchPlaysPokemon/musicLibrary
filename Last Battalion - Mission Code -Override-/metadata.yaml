@@ -1,0 +1,15 @@
+---
+id: last_battalion_mission_code_override
+title: "Last Battalion: Mission Code -Override-"
+platform: ["X68000", "TG-16"]
+year: 1991
+songs: 
+  - id: opening_1_last_battalion
+    title: "Opening 1"
+    path: "02 Opening 1.vgz"
+    type: warning
+  - id: ending_1_last_battalion
+    title: "Ending 1"
+    path: "15 Ending 1.vgz"
+    type: result
+...

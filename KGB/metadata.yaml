@@ -1,0 +1,23 @@
+---
+id: kgb
+title: "KGB"
+platform: "DOS"
+year: 1992
+songs: 
+  - id: kursk
+    title: "Kursk"
+    path: "02 Kursk.vgz"
+    type: betting
+  - id: gulag
+    title: "Gulag"
+    path: "04 Gulag.vgz"
+    type: betting
+  - id: paradise_kgb
+    title: "Paradise"
+    path: "05 Paradise.vgz"
+    type: betting
+  - id: machine_kgb
+    title: "Machine"
+    path: "06 Machine.vgz"
+    type: warning
+...

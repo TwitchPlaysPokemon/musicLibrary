@@ -1,8 +1,8 @@
 ---
 id: tomodachi_life
 title: "Tomodachi Life"
-year: 2013
 platform: "3DS"
+year: 2013
 songs:
   - id: map_-_day
     title: "Map - Day"
@@ -80,4 +80,8 @@ songs:
     title: "Proposal - Fancy Restaurant"
     path: "Proposal - Fancy Restaurant.bcstm"
     type: break
+  - id: city_hall_collection
+    title: "City Hall - Collection"
+    path: "Clone_cityhall_album01.dspadpcm.bcstm"
+    type: betting
 ...

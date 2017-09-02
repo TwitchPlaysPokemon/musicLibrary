@@ -13,4 +13,16 @@ songs:
     title: "Rainbow Road (Final Lap)"
     path: "22 Rainbow Road (Final Lap).spc"
     type: warning
+  - id: toads_ranks
+    title: "Toad's Ranks"
+    path: "31 Toad's Ranks.spc"
+    type: result
+  - id: yoshis_ranks
+    title: "Yoshi's Ranks"
+    path: "32 Yoshi's Ranks.spc"
+    type: result
+  - id: donkey_kong_jrs_ranks
+    title: "Donkey Kong Jr.'s Ranks"
+    path: "33 Donkey Kong Jr.'s Ranks.spc"
+    type: result
 ...

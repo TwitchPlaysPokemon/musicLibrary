@@ -50,4 +50,20 @@ songs:
     title: "Challenge Hall"
     path: "Challenge Hall.vgz"
     type: result
+  - id: title_screen_pokemon_tcg
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: great_hall_pokemon_tcg
+    title: "Great Hall"
+    path: "18 Great Hall.vgz"
+    type: result
+  - id: hall_of_honor_pokemon_tcg
+    title: "Hall of Honor"
+    path: "21 Hall of Honor.vgz"
+    type: break
+  - id: battle_center_pokemon_tcg
+    title: "Battle Center"
+    path: "25 Battle Center.vgz"
+    type: betting
 ...

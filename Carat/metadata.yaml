@@ -1,0 +1,35 @@
+---
+id: carat
+title: "Carat"
+platform: "X68000"
+year: 1993
+songs: 
+  - id: title_carat
+    title: "Title"
+    path: "02 Title.vgz"
+    type: result
+  - id: bgm_1_carat
+    title: "BGM 1"
+    path: "04 BGM 1.vgz"
+    type: result
+  - id: pinch_1
+    title: "Pinch 1"
+    path: "05 Pinch 1.vgz"
+    type: warning
+  - id: bgm_2_carat
+    title: "BGM 2"
+    path: "06 BGM 2.vgz"
+    type: result
+  - id: bgm_7_carat
+    title: "BGM 7"
+    path: "12 BGM 7.vgz"
+    type: battle
+  - id: bgm_8_carat
+    title: "BGM 8"
+    path: "14 BGM 8.vgz"
+    type: result
+  - id: pinch_4
+    title: "Pinch 4"
+    path: "15 Pinch 4.vgz"
+    type: warning
+...

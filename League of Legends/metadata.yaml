@@ -69,4 +69,14 @@ songs:
     title: "Tidecaller"
     path: "Tidecaller.brstm"
     type: break
+  - id: galio_the_colossus
+    title: "Galio, the Colossus"
+    path: "Galio.brstm"
+    ends: 1:57
+    type: betting
+  - id: pulsefire_caitlyn
+    title: "Pulsefire Caitlyn"
+    path: "Pulsefire_Caitlyn_Final.brstm"
+    ends: 2:20
+    type: betting
 ...

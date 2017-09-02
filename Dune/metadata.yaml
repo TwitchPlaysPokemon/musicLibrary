@@ -1,0 +1,23 @@
+---
+id: dune
+title: "Dune"
+platform: "DOS"
+year: 1992
+songs: 
+  - id: spice_opera
+    title: "Spice Opera"
+    path: "02 Spice Opera.vgz"
+    type: warning
+  - id: water_dune
+    title: "Water"
+    path: "03 Water.vgz"
+    type: warning
+  - id: wake_up
+    title: "Wake Up"
+    path: "05 Wake Up.vgz"
+    type: betting
+  - id: too
+    title: "Too"
+    path: "08 Too.vgz"
+    type: betting
+...

@@ -1,0 +1,16 @@
+---
+id: hudsons_adventure_island
+title: "Hudson's Adventure Island"
+series: adventureisland
+platform: "NES"
+year: 1986
+songs: 
+  - id: jungle_adventure_island
+    title: "Jungle"
+    path: "02 Jungle.vgz"
+    type: result
+  - id: evil_spirit
+    title: "Evil Spirit"
+    path: "11 Evil Spirit.vgz"
+    type: warning
+...

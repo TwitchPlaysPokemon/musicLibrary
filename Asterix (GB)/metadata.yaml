@@ -1,0 +1,15 @@
+---
+id: asterix_gb
+title: "Astérix [GB]"
+platform: ["NES", "GB"]
+year: 1993
+songs: 
+  - id: helvetia_asterix_gb
+    title: "Helvetia"
+    path: "04 Helvetia.vgz"
+    type: betting
+  - id: rome_asterix_gb
+    title: "Rome"
+    path: "06 Rome.vgz"
+    type: betting
+...

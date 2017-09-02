@@ -1,0 +1,36 @@
+---
+id: kirbys_blowout_blast
+title: "Kirby's Blowout Blast"
+series: kirby
+platform: "3DS"
+year: 2017
+songs: 
+  - id: green_greens_kirbys_blowout_blast
+    title: "Green Greens"
+    path: "Green Greens.brstm"
+    type: betting
+  - id: float_islands_kirbys_blowout_blast
+    title: "Float Islands"
+    path: "Float Islands.brstm"
+    type: betting
+  - id: castle_lololo_kirbys_blowout_blast
+    title: "Castle Lololo"
+    path: "Castle Lololo.brstm"
+    type: betting
+  - id: bubbly_clouds_kirbys_blowout_blast
+    title: "Bubbly Clouds"
+    path: "Bubbly Clouds.brstm"
+    type: betting
+  - id: mt_dedede_kirbys_blowout_blast
+    title: "Mt. Dedede"
+    path: "Mt. Dedede.brstm"
+    type: warning
+  - id: boss_theme_kirbys_blowout_blast
+    title: "Boss Theme"
+    path: "Boss Theme.brstm"
+    type: warning
+  - id: title_theme_kirbys_blowout_blast
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    type: result
+...

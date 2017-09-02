@@ -1,0 +1,51 @@
+---
+id: spiral_knights
+title: "Spiral Knights"
+platform: "PC"
+year: 2011
+songs: 
+  - id: battle_1_spiral_knights
+    title: "Battle 1"
+    path: "battle_1.brstm"
+    type: battle
+  - id: battle_2_spiral_knights
+    title: "Battle 2"
+    path: "battle_2.brstm"
+    type: battle
+  - id: blast_network_sd
+    title: "Blast Network SD"
+    path: "blast_network_sd.brstm"
+    type: warning
+  - id: boss_2_spiral_knights
+    title: "Boss 2"
+    path: "boss_2.brstm"
+    type: battle
+  - id: comlink_spiral_knights
+    title: "Comlink"
+    path: "comlink.brstm"
+    type: break
+  - id: creepy_battle
+    title: "Creepy Battle"
+    path: "creepy_battle.brstm"
+    type: warning
+  - id: haven
+    title: "Haven"
+    path: "haven.brstm"
+    type: break
+  - id: haven_winter
+    title: "Haven (Winter)"
+    path: "haven_winter.brstm"
+    type: break
+  - id: lockdown_sd
+    title: "Lockdown SD"
+    path: "lockdown_sd.brstm"
+    type: warning
+  - id: main_theme_spiral_knights
+    title: "Main Theme"
+    path: "main_theme.brstm"
+    type: betting
+  - id: whitespace_swarm_spiral_knights
+    title: "Whitespace Swarm"
+    path: "whitespace_swarm.brstm"
+    type: betting
+...

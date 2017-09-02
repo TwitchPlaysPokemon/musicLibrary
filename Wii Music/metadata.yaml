@@ -1,0 +1,15 @@
+---
+id: wii_music
+title: "Wii Music"
+platform: "Wii"
+year: 2008
+songs: 
+  - id: mii_maestro_menu
+    title: "Mii Maestro - Menu"
+    path: "Orch_bgm01.my.32.c4.brstm"
+    type: break
+  - id: jam_basics
+    title: "Jam Basics"
+    path: "tutorial.w.32.c4.brstm"
+    type: betting
+...

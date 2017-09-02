@@ -1,17 +1,31 @@
+---
 id: target_renegade
-platform: "NES"
 title: "Target: Renegade"
+platform: "NES"
 year: 1989
 songs: 
   - id: cutscene_target
-    path: "03 Cutscene (Ready to Rumble!).vgz"
     title: "Cutscene (Ready to Rumble!)"
+    path: "03 Cutscene (Ready to Rumble!).vgz"
     type: warning
   - id: stage_1_target
-    path: "04 Parking Garage (Stage 1-3).vgz"
     title: "Parking Garage (Stage 1-3)"
+    path: "04 Parking Garage (Stage 1-3).vgz"
+    type: battle
+  - id: downtown_stage_4_6
+    title: "Downtown (Stage 4, 6)"
+    path: "05 Downtown (Stage 4, 6).vgz"
+    type: betting
+  - id: the_park_stage_5
+    title: "The Park (Stage 5)"
+    path: "06 The Park (Stage 5).vgz"
     type: betting
   - id: stage_7_target
-    path: "07 The Pig Pen (Stage 7).vgz"
     title: "The Pig Pen (Stage 7)"
+    path: "07 The Pig Pen (Stage 7).vgz"
     type: betting
+  - id: name_entry_target_renegade
+    title: "Name Entry"
+    path: "09 Name Entry.vgz"
+    type: result
+...

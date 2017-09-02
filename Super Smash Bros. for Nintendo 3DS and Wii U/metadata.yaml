@@ -7,181 +7,185 @@ year: 2014
 songs:
   - id: yoshi's_woolly_world_(remix)
     title: "Yoshi's Woolly World (Remix)"
-    path: "Yoshi's Woolly World (Remix).brstm"
+    path: "snd_bgm_E08_KNY_KeitoNoYoshi.nus3bank"
     type: betting
   - id: battle_team_flare_smash4
     title: "Battle! Team Flare"
-    path: "Battle! Team Flare.brstm"
+    path: "snd_bgm_H19_XY_VS_Flare.nus3bank"
     type: battle
   - id: rosalina_in_the_observatory_luma's_theme
     title: "Rosalina in the Observatory / Luma's Theme"
-    path: "Rosalina in the Observatory  Luma's Theme.brstm"
+    path: "snd_bgm_A39_GLX_TenmondaiNoRosetta.nus3bank"
     type: betting
   - id: master_hand
-    path: "Master Hand.brstm"
     title: "Master Hand"
+    path: "snd_bgm_CRS05_MasterHand.nus3bank"
     type: battle
   - id: tourney_results
-    path: "Tournament_ Final Results.brstm"
     title: "Tournament: Final Results"
+    path: "snd_bgm_CRS38_Tournament_Result_Final.nus3bank"
     type: result
   - id: tourney_registration
-    path: "Tournament_ Registration.brstm"
     title: "Tournament: Registration"
+    path: "snd_bgm_CRS34_Tournament_Entry.nus3bank"
     type: betting
   - id: air_man_stage_mega_man_2
-    path: "Air Man Stage (Mega Man 2).brstm"
     title: "Air Man Stage (Mega Man 2)"
+    path: "snd_bgm_S02_RM2_AirMan_Stage.nus3bank"
     type: battle
   - id: album
-    path: "Album.brstm"
     title: "Album"
+    path: "snd_bgm_CRS21_Album.nus3bank"
     type: betting
   - id: battle_trainer_battle
-    path: "Battle! (Trainer Battle).brstm"
     title: "Battle! (Trainer Battle)"
+    path: "snd_bgm_H13_XY_Sentou_Trainer.nus3bank"
     type: battle
   - id: route_10_bw
-    path: "Route 10 (BW).brstm"
     title: "Route 10 (Black / White)"
+    path: "snd_bgm_H17_BW_10banDouro.nus3bank"
     type: betting
   - id: outdoors_at_7_pm_sunny_main_street
-    path: "Outdoors at 7 p.m. (Sunny) Main Street.brstm"
     title: "Outdoors at 7 p.m. (Sunny) / Main Street"
+    path: "snd_bgm_N16_TBD_Feild19Ji_Hare.nus3bank"
     type: betting
   - id: menu_melee_ver_2
-    path: "Menu (Melee)_ Ver. 2.brstm"
     title: "Menu (Melee): Ver. 2"
+    path: "snd_bgm_W35_SBDX_Menu_ver2.nus3bank"
     type: battle
   - id: cut_man_stage
     title: "Cut Man Stage (Mega Man)"
-    path: "Cut Man Stage (Mega Man).brstm"
+    path: "snd_bgm_S05_RM_CutMan_Stage.nus3bank"
     type: betting
   - id: minor_circuit_remix
     title: "Minor Circuit (Remix)"
-    path: "Minor Circuit (Remix).brstm"
+    path: "snd_bgm_Q21_MPO_ShiaiTyuu.nus3bank"
     type: betting
   - id: quick_man_stage
     title: "Quick Man Stage (Mega Man 2)"
-    path: "Quick Man Stage (Mega Man 2).brstm"
+    path: "snd_bgm_S06_RM2_QuickMan_Stage.nus3bank"
     type: betting
   - id: online_waiting_room_smash4
     title: "Online Waiting Room"
-    path: "Online Waiting Room.brstm"
+    path: "snd_bgm_CRS07_Online.nus3bank"
     type: betting
   - id: balloon_trip
     title: "Balloon Trip"
-    path: "Balloon Trip.brstm"
+    path: "snd_bgm_Q16_BFT_BalloonTrip.nus3bank"
     type: betting
   - id: cloudtop_cruise_smash4
     title: "Cloudtop Cruise"
-    path: "Cloudtop Cruise.brstm"
+    path: "snd_bgm_A37_MKT8_SkyGarden.nus3bank"
     type: betting
   - id: ice_cream_island_kirby's_adventure
     title: "Ice Cream Island (Kirby's Adventure)"
-    path: "Ice Cream Island (Kirby's Adventure).brstm"
+    path: "snd_bgm_F30_YIM_IceCreamIsland.nus3bank"
     type: betting
   - id: luigi's_mansion_series_medley
     title: "Luigi's Mansion Series Medley"
-    path: "Luigi's Mansion Series Medley.brstm"
+    path: "snd_bgm_A42_LM_Medley.nus3bank"
     type: betting
   - id: magicant_eight_melodies
     title: "Magicant / Eight Melodies"
-    path: "Magicant _ Eight Melodies.brstm"
+    path: "snd_bgm_K11_MTR_Magicant_EightMelodies.nus3bank"
     type: betting
   - id: mega_man_2_medley
     title: "Mega Man 2 Medley"
-    path: "Mega Man 2 Medley.brstm"
+    path: "snd_bgm_S01_RM2_Medley.nus3bank"
     type: betting
   - id: onett_theme_winters_theme
     title: "Onett Theme / Winters Theme"
-    path: "Onett Theme _ Winters Theme.brstm"
+    path: "snd_bgm_K13_MTR2_OnettNoTheme.nus3bank"
     type: betting
+  - id: super_mario_bros_the_lost_levels_medley
+    title: "Super Mario Bros.: The Lost Levels Medley"
+    path: "snd_bgm_A33_SMB2_Medley.nus3bank"
+    type: result
+  - id: the_mysterious_murasame_castle_medley
+    title: "The Mysterious Murasame Castle Medley"
+    path: "snd_bgm_Q17_NMJ_Medley.nus3bank"
+    type: betting
+  - id: title_metroid
+    title: "Title (Metroid)"
+    path: "snd_bgm_D11_MR_Title.nus3bank"
+    type: betting
+  - id: jogging_countdown
+    title: "Jogging / Countdown"
+    path: "snd_bgm_Q18_PO_Running_CountDown.nus3bank"
+    type: battle
+  - id: spark_man_stage
+    title: "Spark Man Stage (Mega Man 3)"
+    path: "snd_bgm_S03_RM3_SparkMan_Stage.nus3bank"
+    type: battle
+  - id: style_savvy_trendsetters
+    title: "Style Savvy: Trendsetters"
+    path: "snd_bgm_R43_WGF_Title.nus3bank"
+    type: betting
+  - id: tournament_spectating
+    title: "Tournament: Spectating"
+    path: "snd_bgm_CRS37_Tournament_Table_Watching.nus3bank"
+    type: result
+  - id: gamer_mom
+    title: "Gamer: Mom"
+    path: "snd_bgm_M21b_GAW_Gamer_Mom.nus3bank"
+    type: warning
+  - id: super_mario_world_medley
+    title: "Super Mario World Medley"
+    path: "snd_bgm_A35_WLD_Medley.nus3bank"
+    type: betting
+  - id: n_castle_medley
+    title: "N's Castle Medley (Pokémon Black & White)"
+    path: "snd_bgm_H11_BW_N_Medley.nus3bank"
+    type: betting
+  - id: classic_results_ssbu
+    title: "Classic: Results"
+    path: "snd_bgm_CRS11_Simple_Result.nus3bank"
+    type: result
+  - id: battlefield_ssbu
+    title: "Battlefield"
+    path: "snd_bgm_CRS02_Senjyou.nus3bank"
+    type: betting
+  - id: pac_man_park_blocktown
+    title: "Pac-Man's Park/BlockTown"
+    path: "snd_bgm_V03_MNA_PacMansPark_BlockTown.nus3bank"
+    type: battle
+  - id: final_destination_ssbu
+    title: "Final Destination"
+    path: "snd_bgm_CRS03_Shuuten.nus3bank"
+    type: battle
+  - id: route_23_black2_white2_ssbu
+    title: "Route 23 (Black 2/White 2)"
+    path: "snd_bgm_H18_B2W2_23banDouro.nus3bank"
+    type: result
+  - id: plaza_title_city_folk_wild_world
+    title: "Plaza - Title (City Folk/Wild World)"
+    path: "snd_bgm_N15_MHI_Town_Main.nus3bank"
+    type: result
+  - id: stage_select_pikmin_2_ssbu
+    title: "Stage Select (Pikmin 2)"
+    path: "snd_bgm_L09_PIK2_StageSelect.nus3bank"
+    type: result
+  - id: sky_kid_retro_medley
+    title: "Sky Kid Retro Medley"
+    path: "snd_bgm_V08_SKD_SkyKid_Medley.nus3bank"
+    type: result
+  - id: crazy_orders_ticket_selection
+    title: "Crazy Orders: Ticket Selection"
+    path: "snd_bgm_CRS40_Order_CrazySide.nus3bank"
+    type: warning
+  - id: all_star_rest_area_ssbu
+    title: "All-Star Rest Area"
+    path: "snd_bgm_CRS15_Rest.nus3bank"
+    type: break
   - id: ryu_stage
     title: "Ryu Stage (Normal)"
     path: "Ryu Stage (Normal).brstm"
     ends: 2:57
     type: betting
-  - id: super_mario_bros_the_lost_levels_medley
-    title: "Super Mario Bros.: The Lost Levels Medley"
-    path: "Super Mario Bros._ The Lost Levels Medley.brstm"
-    type: result
-  - id: the_mysterious_murasame_castle_medley
-    title: "The Mysterious Murasame Castle Medley"
-    path: "The Mysterious Murasame Castle Medley.brstm"
-    type: betting
-  - id: title_metroid
-    title: "Title (Metroid)"
-    path: "Title (Metroid).brstm"
-    type: betting
-  - id: jogging_countdown
-    title: "Jogging / Countdown"
-    path: "Jogging _ Countdown.brstm"
-    type: battle
-  - id: spark_man_stage
-    title: "Spark Man Stage (Mega Man 3)"
-    path: "Spark Man Stage (Mega Man 3).brstm"
-    type: battle
-  - id: style_savvy_trendsetters
-    title: "Style Savvy: Trendsetters"
-    path: "Style Savvy_ Trendsetters.brstm"
-    type: betting
-  - id: tournament_spectating
-    title: "Tournament: Spectating"
-    path: "Tournament_ Spectating.brstm"
-    type: result
-  - id: gamer_mom
-    title: "Gamer: Mom"
-    path: "Gamer_ Mom.brstm"
+  - id: ryu_stage_critical_ssbu
+    title: "Ryu Stage (Critical)"
+    path: "Ryu Stage (Critical).brstm"
     type: warning
-  - id: super_mario_world_medley
-    title: "Super Mario World Medley"
-    path: "Super Mario World Medley.brstm"
-    type: betting
-  - id: n_castle_medley
-    title: "N's Castle Medley (Pokémon Black & White)"
-    path: "N's Castle Medley (Pokemon Black & White).brstm"
-    type: betting
-  - id: classic_results_ssbu
-    title: "Classic: Results"
-    path: "Classic - Results.brstm"
-    type: result
-  - id: battlefield_ssbu
-    title: "Battlefield"
-    path: "Battlefield.brstm"
-    type: betting
-  - id: pac_man_park_blocktown
-    title: "Pac-Man's Park/BlockTown"
-    path: "Pac-Man's Park - BlockTown.brstm"
-    type: battle
-  - id: final_destination_ssbu
-    title: "Final Destination"
-    path: "Final Destination.brstm"
-    type: battle
-  - id: route_23_black2_white2_ssbu
-    title: "Route 23 (Black 2/White 2)"
-    path: "Route 23 (Black 2 - White 2).brstm"
-    type: result
-  - id: plaza_title_city_folk_wild_world
-    title: "Plaza - Title (City Folk/Wild World)"
-    path: "Plaza - Title (City Folk - Wild World).brstm"
-    type: result
-  - id: stage_select_pikmin_2_ssbu
-    title: "Stage Select (Pikmin 2)"
-    path: "Stage Select (Pikmin 2).brstm"
-    type: result
-  - id: sky_kid_retro_medley
-    title: "Sky Kid Retro Medley"
-    path: "Sky Kid Retro Medley.brstm"
-    type: result
-  - id: crazy_orders_ticket_selection
-    title: "Crazy Orders: Ticket Selection"
-    path: "Crazy Orders - Ticket Selection.brstm"
-    type: warning
-  - id: all_star_rest_area_ssbu
-    title: "All-Star Rest Area"
-    path: "All-Star Rest Area.brstm"
-    type: break
   - id: ken_stage_ssbu
     title: "Ken Stage"
     path: "Ken Stage (Normal).brstm"
@@ -190,52 +194,52 @@ songs:
     title: "Ken Stage (Critical)"
     path: "Ken Stage (Critical).brstm"
     type: warning
-  - id: ryu_stage_critical_ssbu
-    title: "Ryu Stage (Critical)"
-    path: "Ryu Stage (Critical).brstm"
-    type: warning
   - id: tour_animal_crossing_new_leaf
     title: "Tour (Animal Crossing: New Leaf)"
-    path: "Tour (Animal Crossing New Leaf).brstm"
+    path: "snd_bgm_N17_TBD_Tour.nus3bank"
     type: result
   - id: lost_in_thoughts_all_alone
     title: "Lost in Thoughts All Alone"
-    path: "Lost in Thoughts All Alone.brstm"
+    path: "snd_bgm_J24_IF_HitoriOmou.nus3bank"
     type: betting
   - id: trophy_rush
-    path: "Trophy Rush.brstm"
     title: "Trophy Rush"
+    path: "snd_bgm_CRS20_FigureRush.nus3bank"
     type: battle
   - id: trophy_gallery
-    path: "Trophy Gallery.brstm"
     title: "Trophy Gallery"
+    path: "snd_bgm_CRS18_FigureMeikan.nus3bank"
     type: betting
   - id: battle_resh_zek
-    path: "Battle! Reshiram - Zekrom.brstm"
     title: "Battle! Reshiram - Zekrom"
+    path: "snd_bgm_H12_BW_Sentou_Zekrom_Reshiram.nus3bank"
     type: battle
   - id: tomodachi_life_smash
-    path: "Tomodachi Life.brstm"
     title: "Tomodachi Life"
+    path: "snd_bgm_R22_TDCS_TomodachiCollection.nus3bank"
     type: betting
   - id: bramble_blast
-    path: "Bramble Blast.brstm"
     title: "Bramble Blast"
+    path: "snd_bgm_B06_SPR2_TogetogeTaruMeiro.nus3bank"
     type: betting
   - id: multiplayer_results
-    path: "Multiplayer Results.brstm"
     title: "Multiplayer Results"
+    path: "snd_bgm_CRS24_VS_Result.nus3bank"
     type: result
   - id: rainbow_road_medley
     title: "Rainbow Road Medley"
-    path: "Rainbow Road Medley.brstm"
+    path: "snd_bgm_A30_MKT_RainbowRoad_Medley.nus3bank"
     type: battle
   - id: master_core
     title: "Master Core"
-    path: "Master Core.brstm"
+    path: "snd_bgm_CRS06_MasterCore.nus3bank"
     type: battle
   - id: the_great_cave_offensive
     title: "The Great Cave Offensive"
-    path: "The Great Cave Offensive.brstm"
+    path: "snd_bgm_F21_SDX_DoukutsuDaiSakusen.nus3bank"
+    type: betting
+  - id: mission_mode_pikmin_3
+    title: "Mission Mode (Pikmin 3)"
+    path: "snd_bgm_L10_PIK3_MissionMode.nus3bank"
     type: betting
 ...

@@ -8,13 +8,33 @@ songs:
     title: "Area A"
     path: "03 Area A.vgz"
     type: betting
+  - id: boss_shatterhand
+    title: "Boss"
+    path: "04 Boss.vgz"
+    type: warning
+  - id: stage_select_shatterhand
+    title: "Stage Select"
+    path: "06 Stage Select.vgz"
+    type: warning
   - id: area_b_shatterhand
     title: "Area B"
     path: "Area B.vgz"
     type: betting
+  - id: area_c_shatterhand
+    title: "Area C"
+    path: "08 Area C.vgz"
+    type: betting
   - id: area_c_f_jp_shatterhand
     title: "Area C, Area F (JP)"
     path: "Area C (JP).vgz"
+    type: betting
+  - id: area_d_shatterhand
+    title: "Area D"
+    path: "10 Area D.vgz"
+    type: betting
+  - id: area_e_area_f
+    title: "Area E, Area F"
+    path: "11 Area E, Area F.vgz"
     type: betting
   - id: area_g_shatterhand
     title: "Area G"

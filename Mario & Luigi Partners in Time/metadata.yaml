@@ -45,4 +45,8 @@ songs:
     title: "Boss Fight"
     path: "Boss Fight.mini2sf"
     type: battle
+  - id: final_battle_mario_luigi_partners
+    title: "Final Battle"
+    path: "34 Final Battle [MUS_SEQ_LASTBOSS2].mini2sf"
+    type: warning
 ...

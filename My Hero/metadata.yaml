@@ -1,0 +1,19 @@
+---
+id: my_hero
+title: "My Hero"
+platform: "Arcade"
+year: 1985
+songs: 
+  - id: round_1_my_hero
+    title: "Round 1"
+    path: "02 Round 1.vgz"
+    type: warning
+  - id: round_2_my_hero
+    title: "Round 2"
+    path: "03 Round 2.vgz"
+    type: warning
+  - id: round_3_my_hero
+    title: "Round 3"
+    path: "04 Round 3.vgz"
+    type: warning
+...

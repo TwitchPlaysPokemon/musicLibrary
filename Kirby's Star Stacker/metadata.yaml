@@ -1,0 +1,16 @@
+---
+id: kirbys_star_stacker
+title: "Kirby's Star Stacker"
+series: kirby
+platform: "GB"
+year: 1997
+songs: 
+  - id: competition_kirbys_star_stacker
+    title: "Competition"
+    path: "20 Competition.vgz"
+    type: warning
+  - id: challenge_game_kirbys_star_stacker
+    title: "Challenge Game"
+    path: "28 Challenge Game.vgz"
+    type: warning
+...
