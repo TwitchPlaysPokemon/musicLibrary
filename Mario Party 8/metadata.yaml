@@ -9,4 +9,28 @@ songs:
     title: "King Boo's Haunted Hideaway"
     path: "MP8_MU105.brstm"
     type: betting
+  - id: free_play_arcade
+    title: "Free Play Arcade"
+    path: "MP8_MU301.brstm"
+    type: betting
+  - id: everyones_runnin
+    title: "Everyone's Runnin'"
+    path: "MP8_MU403.brstm"
+    type: warning
+  - id: all_messed_up
+    title: "All Messed Up"
+    path: "MP8_MU404.brstm"
+    type: warning
+  - id: chase_and_overtake
+    title: "Chase and Overtake"
+    path: "MP8_MU405.brstm"
+    type: result
+  - id: its_on_now
+    title: "It's on, Now!"
+    path: "MP8_MU411.brstm"
+    type: warning
+  - id: friendly_competition
+    title: "Friendly Competition"
+    path: "MP8_MU414.brstm"
+    type: warning
 ...

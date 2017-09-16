@@ -1,12 +1,24 @@
 ---
-id: kirby_dream_collection
+id: kirbys_dream_collection
 title: "Kirby's Dream Collection"
 series: kirby
-year: 2012
 platform: "Wii"
-songs:
-  - id: grand_title2
-    title: "Title Theme"
-    path: "GrandTitle2.brstm"
-    type: result
+year: 2012
+songs: 
+  - id: distant_traveler
+    title: "Distant Traveler"
+    path: "DarkMahoroaRace.brstm"
+    type: battle
+  - id: history_of_kirby
+    title: "History of Kirby"
+    path: "timeline01.brstm"
+    type: break
+  - id: magolor_race
+    title: "Magolor Race"
+    path: "MahoroaRace01.brstm"
+    type: betting
+  - id: staff_roll_kirbys_dream_collection
+    title: "Staff Roll"
+    path: "StaffRoll.brstm"
+    type: betting
 ...

@@ -73,11 +73,6 @@ songs:
     path: "Select your Pokemon.brstm"
     title: "Select your Pokémon"
     type: betting
-      # file missing
-      #- id: first_battle
-      #  path: "First Battle.brstm"
-      #  title: "First Battle"
-      #  type: battle
   - id: sashays_theme
     title: "Sashay's Theme"
     path: "Colosseum Leader - Sashay's Theme.brstm"
@@ -93,5 +88,9 @@ songs:
   - id: pokemon_wheel
     title: "Pokémon Wheel"
     path: "Pokemon Wheel.brstm"
+    type: betting
+  - id: beta_track_pbr
+    title: "Beta Track"
+    path: "525 - Beta Track.brstm"
     type: betting
 ...

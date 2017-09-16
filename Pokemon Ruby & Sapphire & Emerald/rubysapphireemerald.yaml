@@ -1,0 +1,324 @@
+---
+id: pokemon_ruby_sapphire_emerald
+title: "Pokémon Ruby/Sapphire/Emerald"
+series: pokemon
+platform: "GBA"
+year: 2002
+songs: 
+  - id: littleroot_town_rse
+    title: "Littleroot Town"
+    path: "105 Littleroot Town.minigsf"
+    type: betting
+  - id: birch_pokemon_lab_rse
+    title: "Birch Pokémon Lab"
+    path: "106 Birch Research Institute.minigsf"
+    type: betting
+  - id: may_rse
+    title: "May"
+    path: "107 May (Girl's Theme).minigsf"
+    type: warning
+  - id: h_help_me_rse
+    title: "H-Help Me!"
+    path: "108 Help!.minigsf"
+    type: warning
+  - id: battle_wild_pokemon_rse
+    title: "Battle! (Wild Pokémon)"
+    path: "109 Battle! Wild Pokemon.minigsf"
+    type: battle
+  - id: route_101_rse
+    title: "Route 101"
+    path: "111 Route 101.minigsf"
+    type: betting
+  - id: oldale_town_rse
+    title: "Oldale Town"
+    path: "112 Oldale Town.minigsf"
+    type: betting
+  - id: pokemon_center_rse
+    title: "Pokémon Center"
+    path: "113 Pokemon Center.minigsf"
+    type: betting
+  - id: trainers_eyes_meet_youngster_rse
+    title: "Trainers' Eyes Meet (Youngster)"
+    path: "115 Look! Little Kid.minigsf"
+    type: warning
+  - id: battle_trainer_battle_rse
+    title: "Battle! (Trainer Battle)"
+    path: "117 Battle! Trainer.minigsf"
+    type: battle
+  - id: petalburg_city_rse
+    title: "Petalburg City"
+    path: "120 Petalburg City.minigsf"
+    type: betting
+  - id: route_104_rse
+    title: "Route 104"
+    path: "122 Route 104.minigsf"
+    type: betting
+  - id: petalburg_woods_rse
+    title: "Petalburg Woods"
+    path: "123 Petalburg Forest.minigsf"
+    type: betting
+  - id: team_magma_appears_rse
+    title: "Team Magma Appears!"
+    path: "124 Aqua & Magma Teams Appear!.minigsf"
+    type: warning
+  - id: battle_team_aqua_team_magma_rse
+    title: "Battle! (Team Aqua / Team Magma)"
+    path: "125 Aqua & Magma Team Battle!.minigsf"
+    type: battle
+  - id: victory_team_aqua_team_magma_rse
+    title: "Victory! (Team Aqua / Team Magma)"
+    path: "126 Aqua & Magma Teams Defeated!.minigsf"
+    type: result
+  - id: rustboro_city_rse
+    title: "Rustboro City"
+    path: "127 Rustboro City.minigsf"
+    type: betting
+  - id: crossing_the_sea_rse
+    title: "Crossing the Sea"
+    path: "129 Crossing The Sea.minigsf"
+    type: result
+  - id: dewford_town_rse
+    title: "Dewford Town"
+    path: "130 Dewford Town.minigsf"
+    type: betting
+  - id: slateport_city_rse
+    title: "Slateport City"
+    path: "132 Slateport City.minigsf"
+    type: betting
+  - id: oceanic_museum_rse
+    title: "Oceanic Museum"
+    path: "133 Marine Science Museum.minigsf"
+    type: betting
+  - id: route_110_rse
+    title: "Route Theme 110"
+    path: "134 Route 110.minigsf"
+    type: betting
+  - id: cycling_rse
+    title: "Cycling"
+    path: "135 Cycling.minigsf"
+    type: result
+  - id: game_corner_rse
+    title: "Game Corner"
+    path: "136 Game Corner.minigsf"
+    type: betting
+  - id: verdanturf_town_rse
+    title: "Verdanturf Town"
+    path: "141 Verdanturf Town.minigsf"
+    type: break
+  - id: route_113_rse
+    title: "Route 113"
+    path: "142 Route 113.minigsf"
+    type: betting
+  - id: twins_rse
+    title: "Twins"
+    path: "143 My Twins.minigsf"
+    type: warning
+  - id: fallarbor_town_rse
+    title: "Fallarbor Town"
+    path: "144 Fall Arbor Town.minigsf"
+    type: betting
+  - id: mt_chimney_rse
+    title: "Mt. Chimney"
+    path: "146 Chimney Mountain.minigsf"
+    type: betting
+  - id: trainers_eyes_meet_hiker_rse
+    title: "Trainers' Eyes Meet (Hiker)"
+    path: "147 Look! Giant.minigsf"
+    type: warning
+  - id: route_111_rse
+    title: "Route 111"
+    path: "148 Route 111.minigsf"
+    type: betting
+  - id: pokemon_gym_rse
+    title: "Pokémon Gym"
+    path: "149 Gym Theme.minigsf"
+    type: betting
+  - id: battle_gym_leader_rse
+    title: "Battle! (Gym Leader)"
+    path: "150 Battle! Gym Leader.minigsf"
+    type: battle
+  - id: surf_rse
+    title: "Surf"
+    path: "154 Surfing Theme.minigsf"
+    type: break
+  - id: route_119_rse
+    title: "Route 119"
+    path: "201 Route 119.minigsf"
+    type: betting
+  - id: fortree_city_rse
+    title: "Fortree City"
+    path: "202 Fortree City.minigsf"
+    type: betting
+  - id: route_120_rse
+    title: "Route 120"
+    path: "203 Route 120.minigsf"
+    type: betting
+  - id: interviewers_rse
+    title: "Interviewers"
+    path: "204 Interviewer.minigsf"
+    type: warning
+  - id: safari_zone_rse
+    title: "Safari Zone"
+    path: "205 Safari Zone.minigsf"
+    type: warning
+  - id: lilycove_city_rse
+    title: "Lilycove City"
+    path: "207 Lilycove City.minigsf"
+    type: betting
+  - id: museum_rse
+    title: "Museum"
+    path: "208 Art Museum.minigsf"
+    type: betting
+  - id: brendan_rse
+    title: "Brendan"
+    path: "210 Brendan's Theme.minigsf"
+    type: warning
+  - id: battle_brendan_may_rse
+    title: "Battle! (Brendan/May)"
+    path: "211 Rival Duels! VS May & Brendan.minigsf"
+    type: battle
+  - id: evolution_rse
+    title: "Evolution"
+    path: "212b Evolution.minigsf"
+    type: warning
+  - id: poke_mart_rse
+    title: "Poké Mart"
+    path: "214 Friendly Shop.minigsf"
+    type: betting
+  - id: mt_pyre_rse
+    title: "Mt. Pyre"
+    path: "215 Mount Pyre.minigsf"
+    type: betting
+  - id: mt_pyre_exterior_rse
+    title: "Mt. Pyre Exterior"
+    path: "218 Mount Pyre (Outer Wall).minigsf"
+    type: betting
+  - id: hideout_rse
+    title: "Hideout"
+    path: "219 Magma & Aqua Hideout.minigsf"
+    type: betting
+  - id: team_aqua_appears_rse
+    title: "Team Aqua Appears!"
+    path: "221 Team Aqua Appears!.minigsf"
+    type: warning
+  - id: battle_team_aqua_team_magma_leaders_rse
+    title: "Battle! (Team Aqua/Team Magma Leaders)"
+    path: "222 Aqua & Magma Leader Battle!.minigsf"
+    type: battle
+  - id: drought_rse
+    title: "Drought"
+    path: "224 Drought.minigsf"
+    type: warning
+  - id: heavy_rain_rse
+    title: "Heavy Rain"
+    path: "225 Heavy Rainfall.minigsf"
+    type: warning
+  - id: dive_rse
+    title: "Dive"
+    path: "226 Dive.minigsf"
+    type: betting
+  - id: sootopolis_city_rse
+    title: "Sootopolis City"
+    path: "227 Sootopolis City.minigsf"
+    type: betting
+  - id: cave_of_origin_rse
+    title: "Cave of Origin"
+    path: "228 Cave of Origin & Meteor Falls.minigsf"
+    type: betting
+  - id: battle_super_ancient_pokemon_rse
+    title: "Battle! (Super-Ancient Pokémon)"
+    path: "229 Battle! Ancient Pokemon.minigsf"
+    type: battle
+  - id: ever_grande_city_rse
+    title: "Ever Grande City"
+    path: "231 Ever Grande City.minigsf"
+    type: betting
+  - id: contest_lobby_rse
+    title: "Contest Lobby"
+    path: "233 Contest Lobby.minigsf"
+    type: betting
+  - id: pokemon_contest_rse
+    title: "Pokémon Contest!"
+    path: "234 Contest!.minigsf"
+    type: betting
+  - id: results_announcement_rse
+    title: "Results Announcement"
+    path: "235 Result Announcement!.minigsf"
+    type: result
+  - id: sealed_chamber_rse
+    title: "Sealed Chamber"
+    path: "237 Ancient Braille Cave.minigsf"
+    type: betting
+  - id: battle_regirock_regice_registeel_rse
+    title: "Battle! (Regirock/Regice/Registeel)"
+    path: "238 Battle! Regirock, Regice, Registeel.minigsf"
+    type: battle
+  - id: the_trick_house_rse
+    title: "The Trick House"
+    path: "239 Trick Mansion.minigsf"
+    type: betting
+  - id: abandoned_ship_rse
+    title: "Abandoned Ship"
+    path: "240 Suterarebune.minigsf"
+    type: betting
+  - id: battle_tower_rse
+    title: "Battle Tower"
+    path: "241 Battle Tower.minigsf"
+    type: betting
+  - id: victory_road_rse
+    title: "Victory Road"
+    path: "242 Champion Road.minigsf"
+    type: betting
+  - id: trainers_eyes_meet_cooltrainer_rse
+    title: "Trainers' Eyes Meet (Cooltrainer)"
+    path: "243 Look! Elite Trainer.minigsf"
+    type: warning
+  - id: the_elite_four_appear_rse
+    title: "The Elite Four Appear!"
+    path: "244 Elite Four Intro!.minigsf"
+    type: warning
+  - id: battle_elite_four_rse
+    title: "Battle! (Elite Four)"
+    path: "245 Battle! Elite Four.minigsf"
+    type: battle
+  - id: champion_steven_rse
+    title: "Champion Steven"
+    path: "246 Champion Steven Stone!.minigsf"
+    type: warning
+  - id: battle_steven_rse
+    title: "Battle! (Steven)"
+    path: "247 Decisive Battle! VS Steven Stone.minigsf"
+    type: battle
+  - id: victory_steven_rse
+    title: "Victory! (Steven)"
+    path: "248 Steven Stone Defeated!.minigsf"
+    type: result
+  - id: the_hall_of_fame_rse
+    title: "The Hall of Fame"
+    path: "250 Induction Into the Hall of Fame.minigsf"
+    type: result
+  - id: the_end_rse
+    title: "The End"
+    path: "252 The End.minigsf"
+    type: break
+  - id: encounter_team_rocket_unused
+    title: "Encounter! Team Rocket (Unused)"
+    path: "253 Unused Battle Theme.minigsf"
+    type: warning
+  - id: route_38_unused_rse
+    title: "Route 38 (Unused)"
+    path: "254 Unused Song.minigsf"
+    type: betting
+  - id: pewter_city_pinball_red_unused_rse
+    title: "Pewter City, Pinball Red (Unused)"
+    path: "255 Pewter City, Pinball Red (Unused).minigsf"
+    type: break
+  - id: vs_legendary_beasts_unused_rse
+    title: "Vs. Legendary Beasts (Unused)"
+    path: "256 Classic Battle Theme (Unused).minigsf"
+    type: battle
+  - id: pokemon_communication_center_unused_rse
+    title: "Pokémon Communication Center (Unused)"
+    path: "903 Pokemon Center Classic (Unused).minigsf"
+    type: break
+...

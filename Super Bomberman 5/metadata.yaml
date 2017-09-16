@@ -2,15 +2,23 @@
 id: super_bomberman_5
 title: "Super Bomberman 5"
 series: bomberman
+platform: "SFC"
 year: 1997
-platform: "SNES"
 songs:
-  - id: battle_theme_2
-    title: "Battle Theme 2"
-    path: "Battle Theme 2.spc"
+  - id: extreme_chaos
+    title: "Extreme Chaos"
+    path: "07a Extreme Chaos.spc"
     type: warning
-  - id: boss_super_bomberman_5
-    title: "Boss"
-    path: "Boss.brstm"
+  - id: bomber_bowling
+    title: "Bomber Bowling"
+    path: "11 Bomber Bowling.spc"
+    type: result
+  - id: where_it_all_began
+    title: "Where it All Began"
+    path: "15 Where it All Began.spc"
+    type: betting
+  - id: fight_with_bad_bomber
+    title: "Fight with Bad Bomber"
+    path: "17 Fight with Bad Bomber.spc"
     type: warning
 ...

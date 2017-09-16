@@ -2,8 +2,8 @@
 id: pokémon_rumble_blast
 title: "Pokémon Rumble Blast"
 series: pokemon
-year: 2011
 platform: "3DS"
+year: 2011
 songs:
   - id: cobalions_theme
     title: "Cobalion's Theme"
@@ -20,5 +20,9 @@ songs:
   - id: dark_rust_battle
     title: "Vs. Dark Rust (Final Battle)"
     path: "Final Battle - Dark Rust - Pokémon Rumble Blast.brstm"
+    type: battle
+  - id: mewtwo_battle_rumble
+    title: "Mewtwo Battle"
+    path: "Mewtwo Battle.brstm"
     type: battle
 ...

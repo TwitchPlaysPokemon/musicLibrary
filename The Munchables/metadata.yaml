@@ -4,8 +4,40 @@ title: "The Munchables"
 platform: "Wii"
 year: 2009
 songs:
+  - id: happiness_all_around_happy_event
+    title: "Happiness All Around (Happy Event)"
+    path: "BGM_EVENT_HAPPY.brstm"
+    type: result
+  - id: full_check_result
+    title: "Full Check (Result)"
+    path: "BGM_RESULT.brstm"
+    type: result
   - id: panic_restaurant
     title: "Panic Restaurant"
-    path: "Panic Restaurant.brstm"
+    path: "BGM_ST_BOSS.brstm"
     type: battle
+  - id: boss_escaping
+    title: "Boss Escaping"
+    path: "BGM_ST_BOSS_ESCAPE.brstm"
+    type: warning
+  - id: king_pumpkin_last_boss
+    title: "King Pumpkin (Last Boss)"
+    path: "BGM_ST_BOSS_LAST.brstm"
+    type: battle
+  - id: star_ving_island
+    title: "Star Ving Island"
+    path: "BGM_ST_ISLAND.brstm"
+    type: betting
+  - id: sizzling_paradise
+    title: "Sizzling Paradise"
+    path: "BGM_ST_JUNGLE.brstm"
+    type: betting
+  - id: hellfire_stew_remix
+    title: "Hellfire Stew Remix"
+    path: "BGM_ST_MOUNTAIN_RMX.brstm"
+    type: betting
+  - id: power_up_the_munchables
+    title: "Power Up"
+    path: "SE_ALL_POWERUP.brstm"
+    type: warning
 ...

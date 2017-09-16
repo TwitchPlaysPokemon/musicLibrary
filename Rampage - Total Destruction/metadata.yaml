@@ -1,0 +1,54 @@
+---
+id: rampage_total_destruction
+title: "Rampage: Total Destruction"
+series: rampage
+platform: ["Wii", "GCN", "PS2"]
+year: 2006
+songs: 
+  - id: city_1
+    title: "City 1"
+    path: "City 1.brstm"
+    type: betting
+  - id: city_2
+    title: "City 2"
+    path: "City 2.brstm"
+    type: betting
+  - id: city_3
+    title: "City 3"
+    path: "City 3.brstm"
+    type: betting
+  - id: city_4
+    title: "City 4"
+    path: "City 4.brstm"
+    ends: 1:54
+    type: betting
+  - id: city_5
+    title: "City 5"
+    path: "City 5.brstm"
+    type: warning
+  - id: city_6
+    title: "City 6"
+    path: "City 6.brstm"
+    type: betting
+  - id: city_7
+    title: "City 7"
+    path: "City 7.brstm"
+    type: betting
+  - id: city_8
+    title: "City 8"
+    path: "City 8.brstm"
+    type: betting
+  - id: city_9
+    title: "City 9"
+    path: "City 9.brstm"
+    ends: 2:02
+    type: betting
+  - id: city_10
+    title: "City 10"
+    path: "City 10.brstm"
+    type: betting
+  - id: main_menu_rampage_total_destruction
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+...

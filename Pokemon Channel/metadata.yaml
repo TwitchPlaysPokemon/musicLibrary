@@ -1,6 +1,8 @@
+---
 id: pokemon_channel
 title: "Pokémon Channel"
-platform: "GC"
+series: pokemon
+platform: "GCN"
 year: 2003
 songs: 
   - id: binder
@@ -39,3 +41,40 @@ songs:
     title: "Mareep Farm"
     path: "Mareep Farm.brstm"
     type: break
+  - id: bus_ride
+    title: "Bus Ride"
+    path: "Bus Ride.brstm"
+    type: result
+  - id: chanseys_fortune_cookie
+    title: "Chansey's Fortune Cookie"
+    path: "Chansey's Fortune Cookie.brstm"
+    type: result
+  - id: delivery
+    title: "Delivery"
+    path: "Delivery.brstm"
+    type: result
+  - id: home_pokemon_channel
+    title: "Home"
+    path: "Home.brstm"
+    type: break
+  - id: pokemon_news_flash
+    title: "Pokemon News Flash"
+    path: "Pokemon News Flash.brstm"
+    type: warning
+  - id: ruins_of_truth
+    title: "Ruins of Truth"
+    path: "Ruins of Truth.brstm"
+    type: break
+  - id: smoochum_shape_up
+    title: "Smoochum Shape-Up"
+    path: "Smoochum Shape-Up.brstm"
+    type: result
+  - id: stargazing
+    title: "Stargazing"
+    path: "Stargazing.brstm"
+    type: betting
+  - id: viridian_forest_pokemon_channel
+    title: "Viridian Forest"
+    path: "Viridian Forest.brstm"
+    type: betting
+...

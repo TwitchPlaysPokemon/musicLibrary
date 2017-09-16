@@ -2,8 +2,8 @@
 id: sonic_colors
 title: "Sonic Colors"
 series: sonic
-year: 2010
 platform: "Wii"
+year: 2010
 songs:
   - id: aquarium_park_1
     title: "Aquarium Park - Act 1"
@@ -57,4 +57,8 @@ songs:
     title: "Sonic Simulator - Main Screen"
     path: "Sonic Simulator - Main Screen.brstm"
     type: warning
+  - id: vs_captain_jelly_and_admiral_jelly
+    title: "vs. Captain Jelly & Admiral Jelly"
+    path: "bgm_boss_Jellyboss_normal_wav.aax"
+    type: battle
 ...

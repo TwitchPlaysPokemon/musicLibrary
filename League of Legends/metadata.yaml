@@ -71,7 +71,7 @@ songs:
     type: break
   - id: galio_the_colossus
     title: "Galio, the Colossus"
-    path: "Galio.brstm"
+    path: "Galio, the Colossus.brstm"
     ends: 1:57
     type: betting
   - id: pulsefire_caitlyn
@@ -79,4 +79,29 @@ songs:
     path: "Pulsefire_Caitlyn_Final.brstm"
     ends: 2:20
     type: betting
+  - id: burning_bright
+    title: "Burning Bright"
+    path: "Burning Bright (Unoffical Extended In-Game Version).brstm"
+    type: break
+  - id: ornn_the_fire_below_the_mountain
+    title: "Ornn, the Fire Below the Mountain"
+    path: "Ornn, the Fire Below the Mountain.brstm"
+    type: betting
+  - id: star_guardian_2017
+    title: "Star Guardian 2017"
+    path: "Star Guardian 2017.brstm"
+    type: betting
+  - id: tahm_kench_the_river_king
+    title: "Tahm Kench, the River King"
+    path: "Tahm Kench, the River King.brstm"
+    type: break
+  - id: taric_the_shield_of_valoran
+    title: "Taric, the Shield of Valoran"
+    path: "Taric, the Shield of Valoran.brstm"
+    type: betting
+  - id: xayah_the_rebel_and_rakan_the_charmer
+    title: "Xayah, the Rebel and Rakan, the Charmer"
+    path: "Xayah, the Rebel and Rakan, the Charmer.brstm"
+    type: betting
+
 ...

@@ -4,10 +4,6 @@ title: "SpongeBob SquarePants: Battle for Bikini Bottom"
 platform: ["GC", "Xbox", "PS2"]
 year: 2003
 songs:
-  - id: big_fight_mini_boss_spongebob
-    title: "Big Fight / Mini-Boss"
-    path: "Mini-Boss.brstm"
-    type: betting
   - id: bikini_bottom
     title: "Bikini Bottom"
     path: "Bikini Bottom.brstm"
@@ -28,4 +24,36 @@ songs:
     title: "Downtown Bikini Bottom"
     path: "MNU5 music_02_bb_44.ss2"
     type: break
+  - id: goo_lagoon
+    title: "Goo Lagoon"
+    path: "MNU5 music_03_gl_44.ss2"
+    type: betting
+  - id: rock_bottom_sb
+    title: "Rock Bottom"
+    path: "MNU5 music_05_rb_44.ss2"
+    type: warning
+  - id: mermalair
+    title: "Mermalair"
+    path: "MNU5 music_06_bc_44.ss2"
+    type: betting
+  - id: industrial_park
+    title: "Industrial Park"
+    path: "MNU5 music_08_b2_44.ss2"
+    type: betting
+  - id: kelp_forest
+    title: "Kelp Forest"
+    path: "MNU5 music_09_kf_44.ss2"
+    type: betting
+  - id: the_flying_dutchmans_graveyard
+    title: "The Flying Dutchman's Graveyard"
+    path: "MNU5 music_10_gy_44.ss2"
+    type: betting
+  - id: spongeBobs_dream
+    title: "SpongeBob's Dream"
+    path: "MNU5 music_11_db_44.ss2"
+    type: betting
+  - id: slide
+    title: "Slide"
+    path: "MNU5 music_15_slide_44.ss2"
+    type: betting
 ...
