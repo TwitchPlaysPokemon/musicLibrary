@@ -4,11 +4,19 @@ title: "Sheep, Dog 'n' Wolf"
 platform: ["PC", "PS1"]
 year: 2001
 songs: 
+  - id: track_02_sheep_dog_n_wolf
+    title: "Track 02"
+    path: "Track 02 (Level 2).brstm"
+    type: betting
   - id: track_05_5_sheep_dog_n_wolf
     title: "Track 05"
     path: "track5.XA"
     type: betting
-  - id: track_07_7_sheep_dog_n_wolf
+  - id: track_06_sheep_dog_n_wolf
+    title: "Track 06"
+    path: "Track 06 (Level 7).brstm"
+    type: betting
+  - id: track_07_sheep_dog_n_wolf
     title: "Track 07"
     path: "track7.XA"
     type: betting

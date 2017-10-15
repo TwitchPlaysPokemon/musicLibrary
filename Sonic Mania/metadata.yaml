@@ -85,6 +85,10 @@ songs:
     title: "Lava Reef Zone, Act 1"
     path: "LavaReef1.logg"
     type: betting
+  - id: lava_reef_zone_act_2_sonic_mania
+    title: "Lava Reef Zone, Act 2"
+    path: "LavaReef2.logg"
+    type: betting
   - id: main_menu_sonic_mania
     title: "Main Menu"
     path: "MainMenu.logg"

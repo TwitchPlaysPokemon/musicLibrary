@@ -5,88 +5,92 @@ series: mario
 platform: "N64"
 year: 2000
 songs:
-  - id: jr_troopa
-    title: "Jr Troopa"
-    path: "Jr Troopa.miniusf"
+  - id: goomba_village
+    title: "Goomba Village"
+    path: "106 Goomba Village.miniusf"
     type: betting
-  - id: kammy_koopa
-    title: "Kammy Koopa"
-    path: "Kammy Koopa.miniusf"
-    type: warning
-  - id: k64_train_ride
-    title: "K64 Train Ride"
-    path: "K64 Train Ride.miniusf"
-    type: warning
-  - id: mario_bros'_home
-    title: "Mario Bros' Home"
-    path: "Mario Bros' Home.miniusf"
+  - id: toad_town
+    title: "Toad Town"
+    path: "111 Toad Town.miniusf"
+    type: betting
+  - id: koopa_village
+    title: "Koopa Village"
+    path: "116 Koopa Village.miniusf"
+    type: break
+  - id: mt_rugged
+    title: "Mt Rugged"
+    path: "123 Mt Rugged.miniusf"
     type: betting
   - id: chomp_attack
     title: "Chomp Attack"
-    path: "Chomp Attack.miniusf"
+    path: "127 Chomp Attack.miniusf"
     type: warning
-  - id: king_of_the_koopas
-    title: "King of the Koopas"
-    path: "King of the Koopas.miniusf"
-    type: battle
+  - id: approach_to_the_mansion
+    title: "Approach to the Mansion"
+    path: "129 Approach to the Mansion.miniusf"
+    type: break
   - id: the_castle_crumbles
     title: "The Castle Crumbles"
-    path: "The Castle Crumbles.miniusf"
+    path: "133 The Castle Crumbles.miniusf"
     type: warning
   - id: ghost_gulping
     title: "Ghost Gulping"
     path: "135 Ghost Gulping.miniusf"
     type: battle
-  - id: mt_rugged
-    title: "Mt Rugged"
-    path: "Mt Rugged.miniusf"
-    type: betting
-  - id: shy_guy_toybox
+  - id: shy_guys_toy_box
     title: "Shy Guy's Toy Box"
-    path: "Shy Guy's Toy Box.miniusf"
+    path: "136 Shy Guy's Toy Box.miniusf"
     type: betting
-  - id: toad_town
-    title: "Toad Town"
-    path: "Toad Town.miniusf"
-    type: betting
-  - id: cold_reception_in_shiver_city
-    title: "Cold Reception in Shiver City"
-    path: "Cold Reception in Shiver City.miniusf"
-    type: betting
-  - id: crystal_palace_crawl
-    title: "Crystal Palace Crawl"
-    path: "Crystal Palace Crawl.miniusf"
-    type: betting
-  - id: go_mario_go_phase_2
-    title: "Go! Mario! Go! (Phase 2)"
-    path: "211b Go! Mario! Go!.miniusf"
-    type: warning
   - id: search_for_the_fearsome_5
     title: "Search for the Fearsome 5"
     path: "206 Search for the Fearsome 5.miniusf"
+    type: warning
+  - id: lava_piranha_attack
+    title: "Lava Piranha Attack"
+    path: "210 Lava Piranha Attack.miniusf"
+    type: warning
+  - id: go_mario_go_phase_2
+    title: "Go! Mario! Go! (Phase 2)"
+    path: "211b Go! Mario! Go!.miniusf"
     type: warning
   - id: huffin_and_puffin
     title: "Huffin' and Puffin'"
     path: "216 Huffin' and Puffin'.miniusf"
     type: battle
+  - id: cold_reception_in_shiver_city
+    title: "Cold Reception in Shiver City"
+    path: "217 Cold Reception in Shiver City.miniusf"
+    type: betting
+  - id: detective_mario
+    title: "Detective Mario"
+    path: "218 Detective Mario.miniusf"
+    type: betting
+  - id: crystal_palace_crawl
+    title: "Crystal Palace Crawl"
+    path: "222 Crystal Palace Crawl.miniusf"
+    type: betting
+  - id: king_of_the_koopas
+    title: "King of the Koopas"
+    path: "232 King of the Koopas.miniusf"
+    type: battle
+  - id: kammy_koopa
+    title: "Kammy Koopa"
+    path: "915 Kammy Koopa.miniusf"
+    type: warning
+  - id: jr_troopa
+    title: "Jr Troopa"
+    path: "917 Jr Troopa.miniusf"
+    type: betting
+  - id: mario_bros'_home
+    title: "Mario Bros' Home"
+    path: "926 Mario Bros' Home.miniusf"
+    type: betting
   - id: master_battle
     title: "Master Battle"
     path: "935 Master Battle.miniusf"
     type: betting
-  - id: lava_piranha_attack
-    title: "Lava Piranha Attack"
-    path: "210 Lava Piranha Attack.miniusf"
+  - id: k64_train_ride
+    title: "K64 Train Ride"
+    path: "940 K64 Train Ride.miniusf"
     type: warning
-  - id: detective_mario
-    title: "Detective Mario"
-    path: "Detective Mario.miniusf"
-    type: betting
-  - id: goomba_village
-    title: "Goomba Village"
-    path: "Goomba Village.miniusf"
-    type: betting
-  - id: koopa_village
-    title: "Koopa Village"
-    path: "Koopa Village.miniusf"
-    type: break
 ...

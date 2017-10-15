@@ -1,50 +1,52 @@
+---
 id: mega_man_the_wily_wars
 title: "Mega Man: The Wily Wars"
 series: megaman
 platform: "Genesis"
 year: 1994
 songs:
-  - id: buster_rod_g_stage
-    title: "Buster Rod G. Stage"
-    path: "68 Wily's Tower - Buster Rod-G Stage.vgm"
-    type: betting
-  - id: dr_wily_tower_stage_1_wily_wars
-    title: "Dr. Wily Tower Stage 1"
-    path: "75 Wily's Tower - Wily's Tower Stage 1.vgm"
-    type: betting
-  - id: dr_wily_tower_stage_3_wily_wars
-    title: "Dr. Wily Tower Stage 3"
-    path: "77 Wily's Tower - Wily's Tower Stage 3.vgm"
-    type: betting
   - id: title_theme_wily_wars
     title: "Title Theme"
     path: "02 Title Theme.vgm"
     type: result
-  - id: dr_wily_tower_stage_2_wily_wars
-    title: "Dr. Wily Tower Stage 2"
-    path: "76 Wily's Tower - Wily's Tower Stage 2.vgm"
-    type: result
-  - id: ending_theme_wily_wars
-    title: "Ending Theme"
-    path: "80 Wily's Tower - Ending Theme.vgm"
-    type: result
-  - id: hyper_storm_h_stage
-    title: "Hyper Storm H. Stage"
-    path: "70 Wily's Tower - Hyper Storm-H Stage.vgm"
+  - id: stage_select_wily_wars
+    title: "Stage Select"
+    path: "65 Wily's Tower - Stage Select.vgm"
+    type: warning
+  - id: buster_rod_g_stage
+    title: "Buster Rod G. Stage"
+    path: "68 Wily's Tower - Buster Rod-G Stage.vgm"
     type: betting
   - id: mega_water_s_stage
     title: "Mega Water S. Stage"
     path: "69 Wily's Tower - Mega Water-S Stage.vgm"
     type: betting
-  - id: dr_wily_tower_stage_4_wily_wars
-    title: "Dr. Wily Tower Stage 4"
-    path: "78 Wily's Tower - Wily's Tower Stage 4.vgm"
-    type: warning
-  - id: stage_select_wily_wars
-    title: "Stage Select"
-    path: "65 Wily's Tower - Stage Select.vgm"
-    type: warning
+  - id: hyper_storm_h_stage
+    title: "Hyper Storm H. Stage"
+    path: "70 Wily's Tower - Hyper Storm-H Stage.vgm"
+    type: betting
   - id: boss_theme_wily_wars
     title: "Boss Theme"
     path: "71 Wily's Tower - Boss Theme.vgm"
     type: warning
+  - id: dr_wily_tower_stage_1_wily_wars
+    title: "Dr. Wily Tower Stage 1"
+    path: "75 Wily's Tower - Wily's Tower Stage 1.vgm"
+    type: betting
+  - id: dr_wily_tower_stage_2_wily_wars
+    title: "Dr. Wily Tower Stage 2"
+    path: "76 Wily's Tower - Wily's Tower Stage 2.vgm"
+    type: result
+  - id: dr_wily_tower_stage_3_wily_wars
+    title: "Dr. Wily Tower Stage 3"
+    path: "77 Wily's Tower - Wily's Tower Stage 3.vgm"
+    type: betting
+  - id: dr_wily_tower_stage_4_wily_wars
+    title: "Dr. Wily Tower Stage 4"
+    path: "78 Wily's Tower - Wily's Tower Stage 4.vgm"
+    type: warning
+  - id: ending_theme_wily_wars
+    title: "Ending Theme"
+    path: "80 Wily's Tower - Ending Theme.vgm"
+    type: result
+...

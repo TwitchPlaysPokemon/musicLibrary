@@ -1,0 +1,10 @@
+id: cuphead
+title: "Cuphead"
+platform: ["PC", "XB1"]
+year: 2017
+songs:
+  - id: inkwell_isle_one
+    title: "Inkwell Isle One"
+    path: "InkwellIsleOne.fsb"
+    ends: 3:00
+    type: betting

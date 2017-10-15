@@ -1,54 +1,91 @@
 ---
 id: pokemon_colosseum
-platform: "GC"
 title: "Pokémon Colosseum"
 series: pokemon
+platform: "GCN"
 year: 2004
 songs: 
-  - id: world_map_colosseum
-    title: "World Map"
-    path: "World Map.brstm"
-    type: result
-  - id: miror_b.s_retro_groove
-    title: "Miror B.'s Retro Groove"
-    path: "Miror B.s Retro Groove.brstm"
-    type: betting
-  - id: agate_village
-    title: "Agate Village"
-    path: "Agate Village.brstm"
-    type: break
-  - id: relic_forest
-    title: "Relic Forest"
-    path: "Relic Forest.brstm"
-    type: break
-  - id: cipher_syndicates_theme
-    title: "Cipher Syndicate's Theme"
-    path: "Cipher Syndicates Theme.brstm"
-    type: warning
-  - id: nascours_theme
-    title: "Nascour's Theme"
-    path: "Nascours Theme.brstm"
-    type: warning
-  - id: es_cades_theme
-    title: "Es Cade's Theme"
-    path: "Es Cades Theme.brstm"
-    type: warning
-  - id: realgam_tower_colosseum
-    title: "Realgam Tower"
-    path: "Realgam Tower.brstm"
+  - id: battle_mode_menu
+    title: "Battle Mode - Menu"
+    path: "Battle Mode - Menu.brstm"
     type: betting
   - id: main_menu_colosseum
     title: "Main Menu"
     path: "Main Menu.brstm"
     type: betting
-  - id: the_under
-    title: "The Under"
-    path: "The Under.brstm"
+  - id: miror_b.s_retro_groove
+    title: "Miror B.'s Retro Groove"
+    path: "Miror B.s Retro Groove.brstm"
+    type: betting
+  - id: pokemon_center_pokemon_colosseum
+    title: "Pokémon Center"
+    path: "Pokemon Center.brstm"
+    type: betting
+  - id: realgam_tower_colosseum
+    title: "Realgam Tower"
+    path: "Realgam Tower.brstm"
     type: betting
   - id: snagem_hideout
     title: "Snagem Hideout"
     path: "Snagem Hideout.brstm"
     type: betting
+  - id: staff_credits_colosseum
+    title: "Staff Credits"
+    path: "Staff Credits - No Intro.brstm"
+    ends: 2:43
+    type: betting
+  - id: the_under
+    title: "The Under"
+    path: "The Under.brstm"
+    type: betting
+  - id: cipher_syndicates_theme
+    title: "Cipher Syndicate's Theme"
+    path: "Cipher Syndicates Theme.brstm"
+    type: warning
+  - id: es_cades_theme
+    title: "Es Cade's Theme"
+    path: "Es Cades Theme.brstm"
+    type: warning
+  - id: nascours_theme
+    title: "Nascour's Theme"
+    path: "Nascours Theme.brstm"
+    type: warning
+  - id: news_imposter_wes
+    title: "News - Imposter Wes"
+    path: "News - Imposter Wes.brstm"
+    type: warning
+  - id: news_news_news
+    title: "News 1"
+    path: "News 1.brstm"
+    type: warning
+  - id: news_the_under_time
+    title: "News - The Under Time"
+    path: "News - The Under Time.brstm"
+    type: warning
+  - id: ciper_admin_battle_colosseum
+    title: "Cipher Admin Battle"
+    path: "Cipher Admin Battle.brstm"
+    type: battle
+  - id: final_battle_pokemon_colosseum
+    title: "Final Battle"
+    path: "Final Battle.brstm"
+    type: battle
+  - id: first_battle
+    path: "First Battle.brstm"
+    title: "First Battle"
+    type: battle
+  - id: world_map_colosseum
+    title: "World Map"
+    path: "World Map.brstm"
+    type: result
+  - id: agate_village
+    title: "Agate Village"
+    path: "Agate Village.brstm"
+    type: break
+  - id: mt_battle_break_room_pokemon_colosseum
+    title: "Mt. Battle Break Room"
+    path: "Mt. Battle Break Room.brstm"
+    type: break
   - id: phenac_city
     title: "Phenac City"
     path: "Phenac City.brstm"
@@ -57,29 +94,8 @@ songs:
     title: "Pre Gym"
     path: "Pre Gym.brstm"
     type: break
-  - id: first_battle
-    path: "First Battle.brstm"
-    title: "First Battle"
-    type: battle
-  - id: news_news_news
-    title: "News 1"
-    path: "News 1.brstm"
-    type: warning
-  - id: pokemon_center_pokemon_colosseum
-    title: "Pokémon Center"
-    path: "Pokemon Center.brstm"
-    type: betting
-  - id: mt_battle_break_room_pokemon_colosseum
-    title: "Mt. Battle Break Room"
-    path: "Mt. Battle Break Room.brstm"
+  - id: relic_forest
+    title: "Relic Forest"
+    path: "Relic Forest.brstm"
     type: break
-  - id: final_battle_pokemon_colosseum
-    title: "Final Battle"
-    path: "Final Battle.brstm"
-    type: battle
-  - id: ciper_admin_battle_colosseum
-    title: "Cipher Admin Battle"
-    path: "Cipher Admin Battle.brstm"
-    type: battle
-    
 ...

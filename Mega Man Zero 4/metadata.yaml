@@ -1,0 +1,25 @@
+---
+id: megaman_zero_4
+title: "Mega Man Zero 4"
+series: megaman
+platform: "GBA"
+year: 2005
+songs:
+  - id: holy_land_area_zero_camp
+    title: "Holy Land (Area Zero Camp)"
+    path: "05 Holy Land (Area Zero Camp).minigsf"
+    type: break
+  - id: esperanto
+    title: "Esperanto"
+    path: "07 Esperanto (2nd Opening Stage).minigsf"
+    type: betting
+  - id: falling_down
+    title: "Falling Down (Final Battle)"
+    path: "31 Falling Down (Final Battle).minigsf"
+    type: battle
+  - id: esperanto_mythos_ver
+    title: "Esperanto -Mythos Ver.-"
+    path: "Esperanto -Mythos Ver.- (Full Looped).brstm"
+    ends: 2:50
+    type: betting
+...

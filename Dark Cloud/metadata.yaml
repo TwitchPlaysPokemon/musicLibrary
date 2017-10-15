@@ -31,3 +31,11 @@ songs:
     title: "Wise Owl Forest"
     path: "Wise Owl Forest.psf2"
     type: betting
+  - id: last_battle_dark_cloud
+    title: "Last Battle"
+    path: "Last Battle.psf2"
+    type: warning
+  - id: yellow_drops
+    title: "Yellow Drops"
+    path: "Yellow Drops.psf2"
+    type: break

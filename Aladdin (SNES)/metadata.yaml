@@ -13,4 +13,12 @@ songs:
     title: "Storming Jafar's Palace"
     path: "Storming Jafar's Palace.spc"
     type: warning
+  - id: group_hug
+    title: "''Group Hug!''"
+    path: "''Group Hug!''.spc"
+    type: result
+  - id: one_step_ahead
+    title: "One Step Ahead"
+    path: "One Step Ahead.spc"
+    type: betting
 ...

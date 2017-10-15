@@ -3,17 +3,18 @@ id: touhou_puppet_dance_performance
 title: "Touhou Puppet Dance Performance"
 series: touhou
 is_fanwork: true
-year: 2014
 platform: "PC"
+year: 2014
 songs:
-  - id: battle_fantasy_maiden
-    title: "Battle! Fantasy Maiden"
-    path: "Battle! Fantasy Maiden.brstm"
-    type: battle
-  - id: battle_puppeteer
-    title: "Battle! Puppeteer"
-    path: "Battle! Puppeteer.brstm"
-    type: battle
+  - id: preparing_for_battle
+    title: "Preparing for Battle"
+    path: "Preparing for Battle.brstm"
+    type: betting
+  - id: shards_of_dreams_yume_no_kakera_main_theme
+    title: "Shards of Dreams (Yume No Kakera Main Theme)"
+    path: "Intro & Title- Yume no Kakera.brstm"
+    ends: 2:06
+    type: betting
   - id: spotted_human
     title: "Spotted! Human"
     path: "Spotted! Human.brstm"
@@ -22,38 +23,25 @@ songs:
     title: "Spotted! Puppet Liberation Front"
     path: "Spotted! Puppet Liberation Front.brstm"
     type: warning
-  - id: battle_puppet_liberation_front
-    title: "Battle! Puppet Liberation Front"
-    path: "Battle! Puppet Liberation Front.brstm"
-    type: battle
-  - id: battle_puppet_liberation_front_executive
-    title: "Battle! Puppet Liberation Front Executive"
-    path: "Battle! Puppet Liberation Front Executive.brstm"
-    type: battle
-  - id: shards_of_dreams_yume_no_kakera_main_theme
-    title: "Shards of Dreams (Yume No Kakera Main Theme)"
-    path: "Intro & Title- Yume no Kakera.brstm"
-    ends: 2:06
-    type: betting
+  - id: spotted_youkai
+    title: "Spotted! Youkai"
+    path: "Spotted! Youkai.brstm"
+    type: warning
   - id: the_last_battle_touhou_puppet_dance_performance
     title: "The Last Battle"
     path: "Last Battle.brstm"
     type: warning
+  - id: yuukas_theme
+    title: "Yuuka's Theme"
+    path: "Yuuka's Theme.brstm"
+    type: warning
+  - id: battle_fantasy_maiden
+    title: "Battle! Fantasy Maiden"
+    path: "Battle! Fantasy Maiden.brstm"
+    type: battle
   - id: battle_flandre_scarlet
     title: "Battle! Flandre Scarlet"
     path: "Battle! Flandre Scarlet.brstm"
-    type: battle
-  - id: battle_yukari_yakumo
-    title: "Battle! Yukari Yakumo"
-    path: "Battle! Yukari Yakumo.brstm"
-    type: battle
-  - id: preparing_for_battle
-    title: "Preparing for Battle"
-    path: "Preparing for Battle.brstm"
-    type: betting
-  - id: battle_yuuka_kazami
-    title: "Battle! Yuuka Kazami"
-    path: "Battle! Yuuka Kazami.brstm"
     type: battle
   - id: battle_kanako_yasaka_unused
     title: "Battle! Kanako Yasaka (Unused)"
@@ -63,8 +51,24 @@ songs:
     title: "Battle! Medicine Melancholy"
     path: "Battle! Medicine Melancholy.brstm"
     type: battle
-  - id: yuukas_theme
-    title: "Yuuka's Theme"
-    path: "Yuuka's Theme.brstm"
-    type: warning
+  - id: battle_puppet_liberation_front
+    title: "Battle! Puppet Liberation Front"
+    path: "Battle! Puppet Liberation Front.brstm"
+    type: battle
+  - id: battle_puppet_liberation_front_executive
+    title: "Battle! Puppet Liberation Front Executive"
+    path: "Battle! Puppet Liberation Front Executive.brstm"
+    type: battle
+  - id: battle_puppeteer
+    title: "Battle! Puppeteer"
+    path: "Battle! Puppeteer.brstm"
+    type: battle
+  - id: battle_yukari_yakumo
+    title: "Battle! Yukari Yakumo"
+    path: "Battle! Yukari Yakumo.brstm"
+    type: battle
+  - id: battle_yuuka_kazami
+    title: "Battle! Yuuka Kazami"
+    path: "Battle! Yuuka Kazami.brstm"
+    type: battle
 ...

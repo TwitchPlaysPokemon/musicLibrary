@@ -1,0 +1,92 @@
+---
+id: megaman_x3
+title: "Mega Man X3"
+series: megaman
+platform: "SNES"
+year: 1995
+songs:
+  - id: opening_stage_mmx3
+    title: "Opening"
+    path: "03 Opening.spc"
+    type: betting
+  - id: zero_appears_mmx3
+    title: "Zero"
+    path: "04 Zero.spc"
+    type: result
+  - id: stage_select_1_mmx3
+    title: "Stage Select"
+    path: "05 Stage Select.spc"
+    type: warning
+  - id: neon_tiger
+    title: "Neon Tiger"
+    path: "07 Neon Tiger.spc"
+    type: betting
+  - id: gravity_beetle
+    title: "Gravity Beetle"
+    path: "08 Gravity Beetle.spc"
+    type: betting
+  - id: blast_hornet
+    title: "Blast Hornet"
+    path: "09 Blast Hornet.spc"
+    type: betting
+  - id: blizzard_buffalo
+    title: "Blizzard Buffalo"
+    path: "10 Blizzard Buffalo.spc"
+    type: betting
+  - id: toxic_seahorse
+    title: "Toxic Seahorse"
+    path: "11 Toxic Seahorse.spc"
+    type: betting
+  - id: tunnel_rhino
+    title: "Tunnel Rhino"
+    path: "12 Tunnel Rhino.spc"
+    type: betting
+  - id: volt_catfish
+    title: "Volt Catfish"
+    path: "13 Volt Catfish.spc"
+    type: betting
+  - id: crush_crawfish
+    title: "Crush Crawfish"
+    path: "14 Crush Crawfish.spc"
+    type: betting
+  - id: maverick_battle_mmx3
+    title: "Maverick Battle"
+    path: "16 Maverick Battle.spc"
+    type: warning
+  - id: password_screen_mmx3
+    title: "Password"
+    path: "19 Password.spc"
+    type: warning
+  - id: vile_mmx3
+    title: "Vile"
+    path: "21 Vile.spc"
+    type: warning
+  - id: stage_select_2_mmx3
+    title: "Doppler Stage Revealed"
+    path: "23 Doppler Stage Revealed.spc"
+    type: warning
+  - id: doppler_stage
+    title: "Doppler Stage"
+    path: "24 Doppler Stage.spc"
+    type: battle
+  - id: doppler_final
+    title: "Doppler Final Stage"
+    path: "25 Doppler Final Stage.spc"
+    type: warning
+  - id: doppler_appears
+    title: "Doppler"
+    path: "26 Doppler.spc"
+    type: warning
+  - id: doppler_fight
+    title: "Doppler Battle"
+    path: "27 Doppler Battle.spc"
+    type: warning
+  - id: sigma_1_mmx3
+    title: "Sigma"
+    path: "28 Sigma.spc"
+    type: warning
+  - id: sigma_2_mmx3
+    title: "Kaiser Sigma"
+    path: "29 Kaiser Sigma.spc"
+    type: warning
+...

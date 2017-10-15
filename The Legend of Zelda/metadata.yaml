@@ -12,3 +12,11 @@ songs:
     title: "Title BGM"
     path: "Title BGM.vgz"
     type: betting
+  - id: death_mountain_bgm
+    title: "Death Mountain BGM"
+    path: "Death Mountain BGM.vgz"
+    type: warning
+  - id: underworld_bgm_zelda
+    title: "Underworld BGM"
+    path: "Underworld BGM.vgz"
+    type: warning

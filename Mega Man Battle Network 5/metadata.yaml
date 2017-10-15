@@ -1,0 +1,16 @@
+---
+id: mega_man_battle_network_5
+title: "Mega Man Battle Network 5"
+series: megaman
+platform: ["GBA", "NDS"]
+year: 2003
+songs: 
+  - id: network_space_mmbn5
+    title: "Network Space"
+    path: "Network Space.minigsf"
+    type: betting
+  - id: vs_nebula_grey
+    title: "VS Nebula Grey"
+    path: "vs Nebula Grey.minigsf"
+    type: battle
+...

@@ -1,31 +1,37 @@
+---
 id: street_fighter_alpha_3
 title: "Street Fighter Alpha 3"
-year: 1998
 series: streetfighter
 platform: ["DC", "Various"]
 #other platforms: ["Arcade", "PS1", "Saturn", "GBA", "PSP"]
+year: 1998
 songs:
-  - id: cody_sfa3
-    title: "Cody"
-    path: "Cody.brstm"
+  - id: wholl_be_your_double_character_select
+    title: "Who'll Be Your Double (Character Select)"
+    path: "06 Who'll Be Your Double (Character Select).vgz"
     type: warning
-  - id: karin_sfa3
-    title: "Karin"
-    path: "Karin.brstm"
-    type: result
-  - id: character_select_sfa3
-    title: "Character Select"
-    path: "Character Select (Loop Fix).brstm"
-    type: warning
-  - id: final_stage_scene_sfa3
-    title: "Final Stage Scene"
-    path: "Final Stage Scene.brstm"
-    type: warning
-  - id: rainbow_mika_sfa3
-    title: "Rainbow Mika"
-    path: "Rainbow Mika.brstm"
-    type: warning
-  - id: ryu_sfa3
-    title: "Ryu"
-    path: "Ryu.brstm"
+  - id: the_road_theme_of_ryu_type_1
+    title: "The Road (Theme of Ryu Type 1)"
+    path: "08 The Road (Theme of Ryu Type 1).vgz"
     type: battle
+  - id: doll_eyes_theme_of_cammy
+    title: "Doll Eyes (Theme of Cammy)"
+    path: "21 Doll Eyes (Theme of Cammy).vgz"
+    type: betting
+  - id: simple_rating_theme_of_karin
+    title: "Simple Rating (Theme of Karin)"
+    path: "24 Simple Rating (Theme of Karin).vgz"
+    type: betting
+  - id: stripes_theme_of_cody
+    title: "Stripes (Theme of Cody)"
+    path: "27 Stripes (Theme of Cody).vgz"
+    type: betting
+  - id: prismatic_stars_theme_of_r_mika
+    title: "Prismatic Stars (Theme of R.Mika)"
+    path: "34 Prismatic Stars (Theme of R Mika).vgz"
+    type: betting
+  - id: last_duel_story_demo_3
+    title: "Last Duel (Story Demo 3)"
+    path: "42 Last Duel (Story Demo 3).vgz"
+    type: warning
+...

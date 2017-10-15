@@ -1,78 +1,88 @@
+---
 id: pokemon_super_mystery_dungeon
 title: "Pokémon Super Mystery Dungeon"
 series: pokemon
 platform: "3DS"
 year: 2015
 songs: 
-  - id: amp_plains_2015
+  - id: air_continent_baram_town
+    title: "Air Continent: Baram Town"
+    path: "BGM_MAP_TAIRIKU_KAZE.dspadpcm.bcstm"
+    type: betting
+  - id: amp_plains_smd
     title: "Amp Plains"
-    path: "Amp Plains.brstm"
+    path: "BGM_DUN_31.dspadpcm.bcstm"
+    type: betting
+  - id: ancient_barrow
+    title: "Ancient Barrow"
+    path: "BGM_DUN_09.dspadpcm.bcstm"
     type: betting
   - id: beach_cave
     title: "Beach Cave"
-    path: "Beach Cave.brstm"
+    path: "BGM_DUN_29.dspadpcm.bcstm"
     type: betting
-  - id: sand_dune_of_spirits_great_canyon
-    title: "Sand Dune of Spirits (Great Canyon)"
-    path: "Sand Dune of Spirits (Great Canyon).brstm"
-    type: betting
-  - id: legendary_boss_battle_rock_version
-    title: "Legendary Boss Battle: Rock Version!"
-    path: "Legendary Boss Battle_ Rock Version!.brstm"
-    type: battle
-  - id: dark_matter_phase_2
-    title: "Dark Matter (Phase 2)"
-    path: "Dark Matter (Phase 2).brstm"
-    type: battle
-  - id: dark_matter_phase_1
-    title: "Dark Matter (Phase 1)"
-    path: "Dark Matter (Phase 1).brstm"
-    type: battle
-  - id: we_definitely_take_you_down
-    title: "We'll Definitely... Take You Down!"
-    path: "We'll Definitely... Take You Down!.brstm"
-    type: warning
   - id: fire_island_volcano
     title: "Fire Island Volcano"
-    path: "Fire Island Volcano.brstm"
+    path: "BGM_DUN_14.dspadpcm.bcstm"
+    type: betting
+  - id: foreboding_forest
+    title: "Foreboding Forest"
+    path: "BGM_DUN_03.dspadpcm.bcstm"
     type: betting
   - id: lush_forest
     title: "Lush Forest"
-    path: "Lush Forest.brstm"
-    type: betting
-  - id: open_pass_psmd
-    title: "Open Pass"
-    path: "Open Pass.brstm"
-    type: betting
-  - id: partner_theme_psmd
-    title: "Partner's Theme"
-    path: "Partner's Theme.brstm"
-    type: break
-  - id: showdown_psmd
-    title: "Showdown"
-    path: "Showdown.brstm"
-    type: warning
-  - id: ancient_barrow
-    title: "Ancient Barrow"
-    path: "Ancient Barrow.brstm"
-    type: betting
-  - id: forebodding_forest
-    title: "Foreboding Forest"
-    path: "Foreboding Forest.brstm"
+    path: "BGM_DUN_00.dspadpcm.bcstm"
     type: betting
   - id: mystery_jungle
     title: "Mystery Jungle"
-    path: "Mystery Jungle.brstm"
+    path: "BGM_DUN_26.dspadpcm.bcstm"
     type: betting
   - id: nectar_meadow
     title: "Nectar Meadow"
-    path: "Nectar Meadow.brstm"
+    path: "BGM_DUN_07.dspadpcm.bcstm"
     type: betting
-  - id: poliwrath_river
-    title: "Poliwrath River"
-    path: "Poliwrath River.brstm"
-    type: break
+  - id: open_pass_psmd
+    title: "Open Pass"
+    path: "BGM_DUN_01.dspadpcm.bcstm"
+    type: betting
+  - id: sand_continent_sahra_town
+    title: "Sand Continent: Sahra Town"
+    path: "BGM_MAP_TAIRIKU_SUNA.dspadpcm.bcstm"
+    type: betting
+  - id: sand_dune_of_spirits
+    title: "Sand Dune of Spirits"
+    path: "BGM_DUN_27.dspadpcm.bcstm"
+    type: betting
   - id: tree_of_life_roots
     title: "Tree of Life: Roots"
-    path: "Tree of Life - Roots.brstm"
+    path: "BGM_DUN_24.dspadpcm.bcstm"
     type: betting
+  - id: we_definitely_take_you_down
+    title: "We'll Definitely... Take You Down!"
+    path: "BGM_EVE_POKEMON_NO_CHIKARA_02.dspadpcm.bcstm"
+    type: warning
+  - id: first_dark_matter_battle
+    title: "First Dark Matter Battle"
+    path: "BGM_EVE_BOSS_DARKMATTER_01.dspadpcm.bcstm"
+    type: battle
+  - id: legendary_boss_battle_rock_version
+    title: "Legendary Boss Battle: Rock Version!"
+    path: "BGM_EVE_BOSS_02_ROCK.dspadpcm.bcstm"
+    type: battle
+  - id: second_dark_matter_battle
+    title: "Second Dark Matter Battle"
+    path: "BGM_EVE_BOSS_DARKMATTER_02.dspadpcm.bcstm"
+    type: battle
+  - id: showdown_with_a_volcanic_entei
+    title: "Showdown with a Volcanic Entei!"
+    path: "BGM_EVE_BOSS_03.dspadpcm.bcstm"
+    type: battle
+  - id: partners_theme_psmd
+    title: "Partner's Theme"
+    path: "BGM_EVE_THEME_PARTNER_01.dspadpcm.bcstm"
+    type: break
+  - id: poliwrath_river
+    title: "Poliwrath River"
+    path: "BGM_DUN_08.dspadpcm.bcstm"
+    type: break
+...

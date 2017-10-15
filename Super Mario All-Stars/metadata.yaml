@@ -5,6 +5,18 @@ series: mario
 platform: "SNES"
 songs:
   - id: swimming_smb1_all_stars
-    title: "Swimming"
+    title: "Swimming (Super Mario Bros.)"
     path: "Swimming.spc"
     type: break
+  - id: bonus_smb1_all_stars
+    title: "Bonus (Super Mario Bros.)"
+    path: "Bonus (Super Mario Bros.).spc"
+    type: result
+  - id: overworld_smb2_all_stars
+    title: "Overworld (Super Mario Bros. 2)"
+    path: "Overworld (Super Mario Bros. 2).spc"
+    type: betting
+  - id: toad_house_smb3_all_stars
+    title: "Toad's House (Super Mario Bros. 3)"
+    path: "Toad's House (Super Mario Bros. 3).spc"
+    type: warning

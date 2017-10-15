@@ -1,0 +1,24 @@
+---
+id: megaman_zero_2
+title: "Mega Man Zero 2"
+series: megaman
+platform: "GBA"
+year: 2003
+songs:
+  - id: ice_brain_south_pole
+    title: "Ice Brain (South Pole)"
+    path: "10 Ice Brain (South Pole).minigsf"
+    type: betting
+  - id: break_resultofmission_mmz2
+    title: "Result of Mission II"
+    path: "26 Result of Mission II.minigsf"
+    type: result
+  - id: the_wish_punished
+    title: "The Wish Punished (Final Battle 2)"
+    path: "35 The Wish Punished (Final Battle 2).minigsf"
+    type: warning
+  - id: ice_brain_remastered
+    title: "Ice Brain (Remastered)"
+    path: "Ice Brain (Remastered).brstm"
+    type: betting
+...

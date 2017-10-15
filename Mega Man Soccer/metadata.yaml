@@ -1,21 +1,22 @@
 ---
 id: mega_man_soccer
 title: "Mega Man Soccer"
-year: 1994
+series: megaman
 platform: "SNES"
+year: 1994
 songs:
-  - id: wood_field
-    title: "Wood Field"
-    path: "10 Woodman.spc"
-    type: betting
-  - id: sports_news
-    title: "Sports News"
-    path: "02 Sports News.spc"
-    type: result
   - id: title_theme_mmsoccer
     title: "Title Theme"
     path: "01 Title Screen.spc"
     type: result
+  - id: sports_news
+    title: "Sports News"
+    path: "02 Sports News.spc"
+    type: result
+  - id: wood_field
+    title: "Wood Field"
+    path: "10 Woodman.spc"
+    type: betting
   - id: pharaoh_field
     title: "Pharaoh Field"
     path: "12 Pharaohman.spc"

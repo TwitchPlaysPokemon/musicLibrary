@@ -1,0 +1,32 @@
+---
+id: turok_2_seeds_of_evil_gbc
+title: "Turok 2: Seeds of Evil [GBC]"
+series: turok
+platform: ["N64", "PC", "GBC"]
+year: 1998
+songs: 
+  - id: base_stage_turok_2_gbc
+    title: "Base Stage"
+    path: "Base Stage.brstm"
+    type: betting
+  - id: cave_stage_turok_2_gbc
+    title: "Cave Stage"
+    path: "Cave Stage.brstm"
+    type: betting
+  - id: cemetery_stage_turok_2_gbc
+    title: "Cemetery Stage"
+    path: "Cemetery Stage.brstm"
+    type: betting
+  - id: ending_turok_2_gbc
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+  - id: jungle_stage_turok_2_gbc
+    title: "Jungle Stage"
+    path: "Jungle Stage.brstm"
+    type: betting
+  - id: scroll_stage_turok_2_gbc
+    title: "Scroll Stage"
+    path: "Scroll Stage.brstm"
+    type: betting
+...

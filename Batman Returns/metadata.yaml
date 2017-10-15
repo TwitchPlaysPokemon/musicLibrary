@@ -12,3 +12,11 @@ songs:
     title: "Shreck's Department Store"
     path: "Shreck's Department Store.vgz"
     type: betting
+  - id: boss_batman_returns
+    title: "Boss"
+    path: "Boss.vgz"
+    type: warning
+  - id: prologue_1_batman_returns
+    title: "Prologue 1"
+    path: "Prologue 1.vgz"
+    type: warning

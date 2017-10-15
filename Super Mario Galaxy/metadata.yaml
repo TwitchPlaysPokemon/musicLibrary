@@ -5,38 +5,10 @@ series: mario
 platform: "Wii"
 year: 2007
 songs: 
-  - id: speedy_comet_in_orbit
-    title: "Speedy Comet"
-    path: "SMG_galaxy02_hurry_strm.ast"
-    type: warning
-  - id: king_kaliente
-    title: "King Kaliente"
-    path: "SMG_boss01a_strm.ast"
-    type: battle
-  - id: megaleg
-    title: "Megaleg"
-    path: "SMG_boss02a_strm.ast"
-    type: battle
-  - id: course_select_super_mario_galaxy
-    title: "Course Select"
-    path: "Course Select.brstm"
-    type: warning
-  - id: the_fiery_stronghold
-    title: "The Fiery Stronghold"
-    path: "SMG_galaxy15_strm.ast"
+  - id: battlerock_galaxy
+    title: "Battlerock Galaxy"
+    path: "SMG_galaxy11_multi0.ast"
     type: betting
-  - id: space_junk_road
-    title: "Space Junk Galaxy"
-    path: "SMG_galaxy08_strm.ast"
-    type: betting
-  - id: gusty_garden_galaxy
-    title: "Gusty Garden Galaxy"
-    path: "SMG_galaxy14_strm.ast"
-    type: betting
-  - id: the_galaxy_reactor
-    title: "The Galaxy Reactor"
-    path: "SMG_galaxy28_strm.ast"
-    type: warning
   - id: buoy_base_galaxy_-_above_water
     title: "Buoy Base Galaxy"
     path: "SMG_galaxy04_multi0.ast"
@@ -45,41 +17,73 @@ songs:
     title: "Egg Planet"
     path: "SMG_galaxy01_strm.ast"
     type: betting
-  - id: final_battle_with_bowser
-    title: "Final Battle with Bowser"
-    path: "SMG_boss10_strm.ast"
-    type: battle
-  - id: bowser_jr_smg
-    title: "Enter Bowser Jr.!"
-    path: "SMG_boss06a_strm.ast"
-    type: battle
-  - id: big_staircase_smg
-    title: "The Big Staircase"
-    path: "SMG_galaxy15_hurry_strm.ast"
-    type: warning
-  - id: king_bowser_main_smg
-    title: "King Bowser"
-    path: "SMG_boss07_multi0.ast"
-    type: warning
-  - id: battlerock_galaxy
-    title: "Battlerock Galaxy"
-    path: "SMG_galaxy11_multi0.ast"
+  - id: gusty_garden_galaxy
+    title: "Gusty Garden Galaxy"
+    path: "SMG_galaxy14_strm.ast"
     type: betting
-  - id: the_honeyhive
-    title: "The Honeyhive"
-    path: "SMG_galaxy10_strm.ast"
-    type: betting
-  - id: star_babies
-    title: "Star Child"
-    path: "SMG_ev_epilogue_b_strm.ast"
-    type: break
   - id: hell_prominence
     title: "Melty Molten Galaxy"
     ends: 2:21
     path: "SMG_Hellpro_strm.ast"
     type: betting
+  - id: purple_comet
+    title: "Purple Comet"
+    path: "SMG_galaxy21_strm.ast"
+    type: betting
+  - id: space_junk_road
+    title: "Space Junk Galaxy"
+    path: "SMG_galaxy08_strm.ast"
+    type: betting
   - id: super_mario_2007
     title: "Super Mario 2007"
     path: "SMG_galaxy22_strm.ast"
     type: betting
+  - id: the_fiery_stronghold
+    title: "The Fiery Stronghold"
+    path: "SMG_galaxy15_strm.ast"
+    type: betting
+  - id: the_honeyhive
+    title: "The Honeyhive"
+    path: "SMG_galaxy10_strm.ast"
+    type: betting
+  - id: big_staircase_smg
+    title: "The Big Staircase"
+    path: "SMG_galaxy15_hurry_strm.ast"
+    type: warning
+  - id: course_select_super_mario_galaxy
+    title: "Course Select"
+    path: "Course Select.brstm"
+    type: warning
+  - id: king_bowser_main_smg
+    title: "King Bowser"
+    path: "SMG_boss07_multi0.ast"
+    type: warning
+  - id: speedy_comet_in_orbit
+    title: "Speedy Comet"
+    path: "SMG_galaxy02_hurry_strm.ast"
+    type: warning
+  - id: the_galaxy_reactor
+    title: "The Galaxy Reactor"
+    path: "SMG_galaxy28_strm.ast"
+    type: warning
+  - id: bowser_jr_smg
+    title: "Enter Bowser Jr.!"
+    path: "SMG_boss06a_strm.ast"
+    type: battle
+  - id: final_battle_with_bowser
+    title: "Final Battle with Bowser"
+    path: "SMG_boss10_strm.ast"
+    type: battle
+  - id: king_kaliente
+    title: "King Kaliente"
+    path: "SMG_boss01a_strm.ast"
+    type: battle
+  - id: megaleg
+    title: "Megaleg"
+    path: "SMG_boss02a_strm.ast"
+    type: battle
+  - id: star_babies
+    title: "Star Child"
+    path: "SMG_ev_epilogue_b_strm.ast"
+    type: break
 ...

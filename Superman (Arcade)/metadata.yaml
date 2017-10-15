@@ -1,0 +1,23 @@
+---
+id: superman_arcade
+title: "Superman (Arcade)"
+platform: "Arcade"
+year: 1988
+songs:
+  - id: main_theme_superman_arcade
+    title: "Main Theme 1"
+    path: "03 Main BGM 1.vgz"
+    type: result
+  - id: main_theme_2_superman_arcade
+    title: "Main Theme 2"
+    path: "05 Main BGM 2.vgz"
+    type: warning
+  - id: main_theme_3_superman_arcade
+    title: "Main Theme 3"
+    path: "08 Main BGM 3.vgz"
+    type: betting
+  - id: boss_theme_4_superman_arcade
+    title: "Boss Theme 4"
+    path: "10 Boss BGM 4.vgz"
+    type: betting
+...

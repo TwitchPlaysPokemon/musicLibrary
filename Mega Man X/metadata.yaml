@@ -1,0 +1,88 @@
+---
+id: megaman_x
+title: "Mega Man X"
+series: megaman
+platform: "SNES"
+year: 1993
+songs:
+  - id: password_mmx
+    title: "Password Screen"
+    path: "03 Password.spc"
+    type: break
+  - id: central_highway_mmx
+    title: "Opening Stage"
+    path: "04 Opening Stage.spc"
+    type: battle
+  - id: vile_appears_mmx
+    title: "Vile Appears"
+    path: "05 Vile 1.spc"
+    type: warning
+  - id: launch_octopus
+    title: "Launch Octopus"
+    path: "11 Launch Octopus.spc"
+    type: betting
+  - id: chill_penguin
+    title: "Chill Penguin"
+    path: "12 Chill Penguin.spc"
+    type: betting
+  - id: flame_mammoth
+    title: "Flame Mammoth"
+    path: "13 Flame Mammoth.spc"
+    type: battle
+  - id: boomer_kuwanger
+    title: "Boomer Kuwanger"
+    path: "14 Boomer Kuwanger.spc"
+    type: betting
+  - id: sting_chameleon
+    title: "Sting Chameleon"
+    path: "15 Sting Chameleon.spc"
+    type: betting
+  - id: spark_mandrill
+    title: "Spark Mandrill"
+    path: "16 Spark Mandrill.spc"
+    type: battle
+  - id: storm_eagle
+    title: "Storm Eagle"
+    path: "17 Storm Eagle.spc"
+    type: battle
+  - id: armored_armadillo
+    title: "Armored Armadillo"
+    path: "18 Armored Armadillo.spc"
+    type: betting
+  - id: boss_warning_mmx
+    title: "Maverick Warning"
+    path: "19 Boss 1.spc"
+    type: warning
+  - id: boss_mmx
+    title: "Maverick Battle"
+    path: "20 Boss 2.spc"
+    type: battle
+  - id: stage_select_2_mmx
+    title: "Stage Select 2"
+    path: "23 Stage Select 2.spc"
+    type: warning
+  - id: sigma_1_mmx
+    title: "Sigma Stage 1"
+    path: "24 Sigma Stage 1.spc"
+    type: betting
+  - id: sigma_2_mmx
+    title: "Sigma Stage 2"
+    path: "25 Sigma Stage 2.spc"
+    type: betting
+  - id: sigma_3_mmx
+    title: "Sigma Stage 3"
+    path: "26 Sigma Stage 3.spc"
+    type: betting
+  - id: sigma_4_mmx
+    title: "Sigma Stage 4"
+    path: "27 Sigma Stage 4.spc"
+    type: warning
+  - id: sigma_fight_2_mmx
+    title: "Sigma 2nd"
+    path: "30 Sigma 2nd.spc"
+    type: warning
+  - id: staff_roll_mmx
+    title: "Staff Roll"
+    path: "34 Staff Roll.spc"
+    type: result
+...

@@ -1,0 +1,32 @@
+---
+id: spear_of_destiny
+title: "Spear of Destiny"
+platform: "DOS"
+series: wolfenstien
+year: 1992
+songs:
+  - id: the_tower_spear
+    title: "The Tower"
+    path: "01 The Tower.vgz"
+    type: warning
+  - id: funkie_colonel_bill
+    title: "The Tower"
+    path: "04 Funkie Colonel Bill.vgz"
+    type: betting
+  - id: death_to_the_nazis
+    title: "Death to the Nazis"
+    path: "05 Death to the Nazis.vgz"
+    type: betting
+  - id: putting_it_to_the_enemy
+    title: "Puttin' It to the Enemy"
+    path: "17 Puttin' It to the Enemy.vgz"
+    type: warning
+  - id: jazzing_them_nazis
+    title: "Jazzin' Them Nazis"
+    path: "19 Jazzin' Them Nazis.vgz"
+    type: betting
+  - id: award_ceremony_spear
+    title: "Award Ceremony"
+    path: "23 Award Ceremony.vgz"
+    type: result
+...

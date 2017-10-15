@@ -1,0 +1,23 @@
+---
+id: marble_madness_arcade
+title: "Marble Madness"
+platform: "Arcade"
+year: 1984
+songs:
+  - id: level_1_marble_madness
+    title: "Level 1"
+    path: "02 Level 1.vgz"
+    type: break
+  - id: level_2_marble_madness
+    title: "Level 2"
+    path: "05 Level 2.vgz"
+    type: betting
+  - id: level_4_1_marble_madness
+    title: "Level 4-1"
+    path: "07 Level 4-1.vgz"
+    type: warning
+  - id: level_5_marble_madness
+    title: "Level 5"
+    path: "09 Level 5.vgz"
+    type: betting
+...

@@ -1,0 +1,40 @@
+---
+id: mega_man_x8
+title: "Mega Man X8"
+series: megaman
+platform: ["PS2", "PC"]
+year: 2004
+songs:
+  - id: dynasty
+    title: "Dynasty"
+    path: "Dynasty (Variation).brstm"
+    type: betting
+  - id: angry_8boss
+    title: "Angry 8Boss"
+    path: "Angry Boss.brstm"
+    type: warning
+  - id: pitch_black_discovery
+    title: "Pitch Black - Discovery"
+    path: "Pitch Black - Discovery.brstm"
+    type: warning
+  - id: vs_boss_demo
+    title: "VS Boss (Demo)"
+    path: "Boss Confrontation (Demo 3).brstm"
+    type: warning
+  - id: jakob
+    title: "Jakob"
+    path: "Jakob Orbital Elevator.brstm"
+    type: battle
+  - id: demo_with_the_hunter_base
+    title: "Demo - With the Hunter Base"
+    path: "With Hunter Base.brstm"
+    type: break
+  - id: dr_lights_capsule_mmx8
+    title: "Dr. Light's Capsule"
+    path: "Dr. Light Capsule.brstm"
+    type: break
+  - id: save_and_load
+    title: "Save & Load"
+    path: "Save and Load.brstm"
+    type: break
+...

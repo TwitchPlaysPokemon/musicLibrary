@@ -5,22 +5,10 @@ series: mario
 platform: "Wii U"
 year: 2014
 songs:
-  - id: animal_crossing_results
-    path: "Animal Crossing Results.brstm"
-    title: "Results (Animal Crossing)"
-    type: result
-#      - id: 3ds_dk_jungle
-#        title: "3DS DK Jungle"
-#        path: "3DS DK Jungle.brstm"
-#        type: battle #Borderline doesn't fit
-  - id: big_blue_mk8
-    title: "Big Blue"
-    path: "Big Blue.brstm"
-    type: battle
-#      - id: 3ds_music_park #Borderline too repetitive
-#        title: "3DS Music Park #Chat was asked whether this song fit or not."
-#        path: "3DS Music Park.brstm #The result: barely anybody cared enough to answer."
-#        type: betting 
+  - id: 3ds_music_park_metronome
+    title: "3DS Music Park (Metronome)"
+    path: "3DS Music Park (Metronome).brstm"
+    type: betting
   - id: 3ds_neo_bowser_city
     title: "3DS Neo Bowser City"
     path: "3DS Neo Bowser City.brstm"
@@ -37,34 +25,22 @@ songs:
     title: "Animal Crossing (Spring)"
     path: "Animal Crossing (Spring).brstm"
     type: betting
-  - id: animal_crossing_winter
-    title: "Animal Crossing (Winter)"
-    path: "Animal Crossing (Winter).brstm"
-    type: betting
   - id: animal_crossing_summer
     title: "Animal Crossing (Summer)"
     path: "Animal Crossing (Summer).brstm"
+    type: betting
+  - id: animal_crossing_winter
+    title: "Animal Crossing (Winter)"
+    path: "Animal Crossing (Winter).brstm"
     type: betting
   - id: bone_dry_dunes
     title: "Bone Dry Dunes"
     path: "Bone Dry Dunes.brstm"
     type: betting
-#      - id: bowsers_castle
-#        title: "Bowser's Castle"
-#        path: "Bowser's Castle.brstm"
-#        type: betting #Feels too tense to fit for betting, but not enough for battle
   - id: cloudtop_cruise
     title: "Cloudtop Cruise"
     path: "Cloudtop Cruise.brstm"
     type: betting
-#      - id: dolphin_shoals_highlight_reel
-#        title: "Dolphin Shoals (Highlight Reel)"
-#        path: "Dolphin Shoals (Highlight Reel).brstm"
-#        type: betting #Jazz gets too distracting later in the song; does not fit
-  - id: dragon_driftway
-    title: "Dragon Driftway"
-    path: "Dragon Driftway.brstm"
-    type: warning
   - id: ds_cheep_cheep_beach
     title: "DS Cheep Cheep Beach"
     path: "DS Cheep Cheep Beach.brstm"
@@ -73,50 +49,26 @@ songs:
     title: "DS Tick Tock Clock"
     path: "DS Tick Tock Clock.brstm"
     type: betting
-#      - id: ds_wario_stadium
-#        title: "DS Wario Stadium"
-#        path: "DS Wario Stadium.brstm"
-#        type: betting #Borderline does not fit
   - id: electrodrome
     title: "Electrodrome"
     path: "Electrodrome.brstm"
     type: betting
-  - id: excitebike_arena
-    title: "Excitebike Arena"
-    path: "Excitebike Arena.brstm"
-    type: result
   - id: gba_cheese_land
     title: "GBA Cheese Land"
     path: "GBA Cheese Land.brstm"
     type: betting
-#      - id: gba_mario_circuit
-#        title: "GBA Mario Circuit"
-#        path: "GBA Mario Circuit.brstm"
-#        type: betting #Borderline does not fit
   - id: gba_ribbon_road
     title: "GBA Ribbon Road"
     path: "GBA Ribbon Road.brstm"
     type: betting
-  - id: gcn_baby_park
-    title: "GCN Baby Park"
-    path: "GCN Baby Park.brstm"
-    type: warning
-#      - id: gcn_dry_dry_desert
-#        title: "GCN Dry Dry Desert"
-#        path: "GCN Dry Dry Desert.brstm"
-#        type: betting #Borderline kinda boring
   - id: gcn_sherbet_land
     title: "GCN Sherbet Land"
     path: "GCN Sherbet Land.brstm"
     type: betting
-  - id: cdn_yoshi_circuit
+  - id: gcn_yoshi_circuit
     title: "GCN Yoshi Circuit"
     path: "GCN Yoshi Circuit.brstm"
     type: betting
-#      - id: get_trophy
-#        title: "Get Trophy"
-#        path: "Get Trophy.brstm"
-#        type: result #Borderline does not fit; without the electric guitars it would be perfect
   - id: good_results
     title: "Good Results"
     path: "Good Results.brstm"
@@ -133,22 +85,10 @@ songs:
     title: "Mario Circuit"
     path: "Mario Circuit.brstm"
     type: betting
-#      - id: mario_kart_stadium
-#        title: "Mario Kart Stadium"
-#        path: "Mario Kart Stadium.brstm"
-#        type: betting #Less-fitting remix of Mario Circuit
-#      - id: mute_city
-#        title: "Mute City"
-#        path: "Mute City.brstm"
-#        type: betting #Already in for battle
   - id: mario_kart_tv
     title: "Mario Kart TV"
     path: "Mario Kart TV.brstm"
     type: betting
-#      - id: mount_wario
-#        title: "Mount Wario"
-#        path: "Mount Wario (Full Custom Loop).brstm"
-#        type: result
   - id: n64_rainbow_road
     title: "N64 Rainbow Road"
     path: "N64 Rainbow Road.brstm"
@@ -161,10 +101,6 @@ songs:
     title: "N64 Toad's Turnpike"
     path: "N64 Toad's Turnpike.brstm"
     type: betting
-#      - id: n64_yoshi_valley
-#        title: "N64 Yoshi Valley"
-#        path: "N64 Yoshi Valley.brstm"
-#        type: betting #Borderline does not fit. Warning?
   - id: online_waiting_room
     title: "Online Waiting Room"
     path: "Online Waiting Room.brstm"
@@ -173,14 +109,6 @@ songs:
     title: "Rainbow Road"
     path: "Rainbow Road.brstm"
     type: betting
-#      - id: shy_guy_falls
-#        title: "Shy Guy Falls"
-#        path: "Shy Guy Falls.brstm"
-#        type: betting #Borderline does not fit; too fast for betting
-#      - id: snes_donut_plains_3
-#        title: "SNES Donut Plains 3"
-#        path: "SNES Donut Plains 3.brstm"
-#        type: betting #Does not fit
   - id: snes_rainbow_road
     title: "SNES Rainbow Road"
     path: "SNES Rainbow Road.brstm"
@@ -189,10 +117,6 @@ songs:
     title: "Sunshine Airport"
     path: "Sunshine Airport.brstm"
     type: betting
-#      - id: super_bell_subway
-#        title: "Super Bell Subway"
-#        path: "Super Bell Subway.brstm"
-#        type: betting #Borderline doesn't fit
   - id: sweet_sweet_canyon
     title: "Sweet Sweet Canyon"
     path: "Sweet Sweet Canyon.brstm"
@@ -201,30 +125,22 @@ songs:
     title: "Thwomp Ruins"
     path: "Thwomp Ruins.brstm"
     type: betting
-#      - id: title_screen
-#        title: "Title Screen"
-#        path: "Title Screen.brstm"
-#        type: betting #Mario Circuit is a more betting-like remix of this
-#      - id: toad_harbor
-#        title: "Toad Harbor"
-#        path: "Toad Harbor.brstm"
-#        type: betting #Borderline doesn't fit; almost too happy
-#      - id: twister_mansion
-#        title: "Twisted Mansion"
-#        path: "Twisted Mansion.brstm"
-#        type: betting #Borderline too WutFace to fit
   - id: water_park
     title: "Water Park"
     path: "Water Park.brstm"
     type: betting
+  - id: dragon_driftway
+    title: "Dragon Driftway"
+    path: "Dragon Driftway.brstm"
+    type: warning
+  - id: gcn_baby_park
+    title: "GCN Baby Park"
+    path: "GCN Baby Park.brstm"
+    type: warning
   - id: wii_grumble_volcano
     title: "Wii Grumble Volcano"
     path: "Wii Grumble Volcano.brstm"
     type: warning
-#      - id: wii_moo_moo_meadows
-#        title: "Wii Moo Moo Meadows"
-#        path: "Wii Moo Moo Meadows.brstm"
-#        type: betting #Borderline does not fit
   - id: wii_warios_gold_mine
     title: "Wii Wario's Gold Mine"
     path: "Wii Wario's Gold Mine.brstm"
@@ -233,12 +149,20 @@ songs:
     title: "Wild Woods"
     path: "Wild Woods.brstm"
     type: betting
+  - id: big_blue_mk8
+    title: "Big Blue"
+    path: "Big Blue.brstm"
+    type: battle
   - id: dragon_driftway_final_lap
     title: "Dragon Driftway (Final Lap)"
     path: "Dragon Driftway (Final Lap).brstm"
     type: battle
-  - id: mount_wario
-    title: "Mount Wario"
-    path: "Mount Wario (Full Custom Loop).brstm"
-    type: betting
+  - id: animal_crossing_results
+    path: "Animal Crossing Results.brstm"
+    title: "Results (Animal Crossing)"
+    type: result
+  - id: excitebike_arena
+    title: "Excitebike Arena"
+    path: "Excitebike Arena.brstm"
+    type: result
 ...

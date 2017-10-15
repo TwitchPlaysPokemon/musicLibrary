@@ -1,0 +1,80 @@
+---
+id: megaman_legends
+title: "Mega Man Legends"
+series: megaman
+platform: "Various"
+year: 1997
+songs:
+  - id: apple_market
+    title: "Apple Market"
+    path: "Apple Market.PSF"
+    type: betting
+  - id: bonne_forces_in_field
+    title: "Bonne Forces in the Field"
+    path: "Bonne Forces in the Field.PSF"
+    type: betting
+  - id: main_gate_mml
+    title: "Main Gate"
+    path: "Main Gate.PSF"
+    type: betting
+  - id: original_hito_unit_residence
+    title: "Original Hito Unit Residence"
+    path: "Original Hito Unit Residence.PSF"
+    type: betting
+  - id: police_station_mml
+    title: "Police Station"
+    path: "Police Station.PSF"
+    type: betting
+  - id: at_a_place_nobody_knows
+    title: "At A Place Nobody Knows"
+    path: "At A Place Nobody Knows.PSF"
+    type: warning
+  - id: city_hall_under_siege
+    title: "City Hall under Siege"
+    path: "City Hall under Siege.PSF"
+    type: warning
+  - id: drache_launch
+    title: "Drache Launch"
+    path: "Drache Launch.PSF"
+    type: warning
+  - id: hanmaru_doll_appears
+    title: "Hanmaru Doll Appears"
+    path: "Hanmaru Doll Appears.PSF"
+    type: warning
+  - id: marlwolf
+    title: "Marlwolf"
+    path: "Marlwolf.PSF"
+    type: warning
+  - id: marlwolf_appears
+    title: "Marlwolf Appears"
+    path: "Marlwolf Appears.PSF"
+    type: warning
+  - id: sumeter_links_bon_bonne
+    title: "Sumeter links, Bon Bonne"
+    path: "Sumeter links, Bon Bonne.PSF"
+    type: warning
+  - id: the_gesellschaft
+    title: "The Gesellschaft"
+    path: "The Gesellschaft.PSF"
+    type: warning
+  - id: water_battle_mml
+    title: "Water Battle"
+    path: "Water Battle.PSF"
+    type: warning
+  - id: fokker_wolf
+    title: "Fokker Wolf"
+    path: "Fokker Wolf.PSF"
+    type: battle
+  - id: city_hall_mml
+    title: "City Hall"
+    path: "City Hall.PSF"
+    type: break
+  - id: kattelox_museum
+    title: "Kattelox Museum"
+    path: "Kattelox Museum.PSF"
+    type: break
+  - id: library_mml
+    title: "Library"
+    path: "Library.PSF"
+    type: break
+...

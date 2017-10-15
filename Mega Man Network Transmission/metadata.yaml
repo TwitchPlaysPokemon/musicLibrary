@@ -1,0 +1,32 @@
+---
+id: megaman_network_transmission
+title: "Mega Man Network Transmission"
+series: megaman
+platform: "GCN"
+year: 2003
+songs: 
+  - id: water_service_bureau
+    path: "Water Service Bureau.brstm"
+    title: "Water Service Bureau"
+    type: betting
+  - id: zero_gravity_area
+    path: "Zero Gravity Area.brstm"
+    title: "Zero Gravity Area"
+    type: betting
+  - id: blazing_internet
+    path: "Blazing Internet.brstm"
+    title: "Blazing Internet"
+    type: battle
+  - id: boss_battle_mmnt
+    path: "Boss Theme.brstm"
+    title: "Boss Theme"
+    type: battle
+  - id: heros_theme
+    path: "Hero's Theme.brstm"
+    title: "Hero's Theme"
+    type: result
+  - id: relaxation_mmnt
+    path: "Relaxation.brstm"
+    title: "Relaxation"
+    type: break
+...

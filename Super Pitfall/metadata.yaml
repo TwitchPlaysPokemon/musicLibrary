@@ -1,0 +1,9 @@
+id: super_pitfall
+title: "Super Pitfall"
+year: 1986
+platform: "NES"
+songs:
+  - id: level_3_pitfall
+    title: "Level 3"
+    path: "Level 3.vgz"
+    type: result

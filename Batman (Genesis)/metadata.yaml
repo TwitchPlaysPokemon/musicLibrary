@@ -1,0 +1,14 @@
+id: batman_genesis
+title: "Batman"
+platform: "Genesis"
+series: batman
+year: 1990
+songs: 
+  - id: stage_1_batman_gen
+    title: "Stage 1 ~Gotham City Streets 1~"
+    path: "Stage 1 ~Gotham City Streets 1~.vgz"
+    type: betting
+  - id: stage_4_5_batman_gen
+    title: "Stage 4-1 ~Gotham City Streets 2~ & Stage 5 ~ In the Sky Over Gotham City~"
+    path: "Stage 4-1 ~Gotham City Streets 2~ & Stage 5 ~ In the Sky Over Gotham City~.vgz"
+    type: battle

@@ -1,0 +1,33 @@
+---
+id: yo_noid_ii
+title: "Yo! Noid II: Enter the Void"
+series: noid
+is_fanwork: true
+platform: "PC"
+year: 2017
+songs:
+  - id: title_theme_noid_ii
+    title: "Title Theme"
+    path: "01 Title Theme.brstm"
+    type: result
+  - id: first_stage_noid_ii
+    title: "First Stage (Pier)"
+    path: "03 First Stage.brstm"
+    type: betting
+  - id: swing_factory_outside
+    title: "Swing Factory Outside"
+    path: "05 Swing Factory Outside.brstm"
+    type: betting
+  - id: swing_factory_inside
+    title: "Swing Factory Inside"
+    path: "06 Swing Factory Inside.brstm"
+    type: betting
+  - id: plizzanet
+    title: "Plizzanet"
+    path: "08 Plizzanet.brstm"
+    type: betting
+  - id: domino_dungeon
+    title: "Domino Dungeon"
+    path: "11 Domino Dungeon.brstm"
+    type: break
+...

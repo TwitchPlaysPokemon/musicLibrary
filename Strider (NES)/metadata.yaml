@@ -1,0 +1,16 @@
+---
+id: strider_nes
+title: "Strider [NES]"
+series: strider
+platform: ["NES", "Arcade", "Genesis"]
+year: 1989
+songs:
+  - id: japan_los_angeles_1_australia_nes
+    title: "Japan, Los Angeles 1, Australia"
+    path: "07 Japan, Los Angeles 1, Australia.vgz"
+    type: result
+  - id: boss_strider_nes
+    title: "Boss"
+    path: "08 Boss.vgz"
+    type: warning
+...

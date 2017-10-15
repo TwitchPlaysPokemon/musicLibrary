@@ -1,0 +1,23 @@
+---
+id: sonic_boom_arcade
+title: "Sonic Boom"
+platform: "Arcade"
+year: 1987
+songs:
+  - id: boss_sonic_boom
+    title: "Boss"
+    path: "03 Boss.vgz"
+    type: warning
+  - id: stage_2_6_sonic_boom
+    title: "Stage 2 & 6"
+    path: "05 Stage 2, 6.vgz"
+    type: betting
+  - id: stage_3_5_sonic_boom
+    title: "Stage 3 & 5"
+    path: "06 Stage 3, 5.vgz"
+    type: betting
+  - id: name_entry_sonic_boom
+    title: "Name Entry"
+    path: "07 Name Entry.vgz"
+    type: result
+...

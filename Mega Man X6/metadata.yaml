@@ -1,0 +1,76 @@
+---
+id: megaman_x6
+title: "Mega Man X6"
+series: megaman
+platform: "PS1"
+year: 2001
+songs:
+  - id: blizzard_wolfang_stage
+    title: "Blizzard Wolfang Stage"
+    path: "Blizzard Wolfang (North Pole Area).brstm"
+    type: betting
+  - id: opening_stage_prototype_mmx6
+    title: "Opening Stage (Prototype)"
+    path: "Crash Site Ruins (Prototype).brstm"
+    type: betting
+  - id: ground_scaravich_stage
+    title: "Ground Scaravich Stage"
+    path: "Ground Svaravich (Central Museum).brstm"
+    type: betting
+  - id: infinity_mijinion_stage
+    title: "Infinity Mijinion Stage"
+    path: "Infinity Mijinion (Weapon Center).brstm"
+    type: betting
+  - id: metal_shark_player_stage
+    title: "Metal Shark Player Stage"
+    path: "Metal Shark Player (Recycle Lab).brstm"
+    type: betting
+  - id: rainy_turtloid_stage
+    title: "Rainy Turtloid Stage"
+    path: "Rainy Turtloid (Inami Temple).brstm"
+    type: betting
+  - id: shieldner_sheldon_stage
+    title: "Shieldner Sheldon Stage"
+    path: "Shield Sheldon.brstm"
+    type: betting
+  - id: boss_mmx6
+    title: "Boss"
+    path: "Boss.brstm"
+    type: warning
+  - id: d_1000
+    title: "D-1000"
+    path: "Intro Boss (D-1000).brstm"
+    type: warning
+  - id: high_max
+    title: "High Max"
+    path: "Hi-MAX.brstm"
+    type: warning
+  - id: gate_mmx6
+    title: "Gate"
+    path: "518 Gate [ROCK_X6_0009].psf"
+    type: warning
+  - id: sigma_1st_mmx6
+    title: "Sigma 1st"
+    path: "Sigma Reborn_Gate's Laboratory 3.brstm"
+    type: warning
+  - id: stage_select_mmx6
+    title: "Stage Select"
+    path: "503 Stage Select [ROCK_X6_0004].psf"
+    type: warning
+  - id: blaze_heatnix_stage
+    title: "Blaze Heatnix Stage"
+    path: "Blaze Heatnix (Magma Area).brstm"
+    type: battle
+  - id: gates_laboratory_stage
+    title: "Gate's Laboratory Stage"
+    path: "Gate's Laboratory Stage 1-2 (Secret Lab).brstm"
+    type: battle
+  - id: sigma_2nd_mmx6
+    title: "Sigma 2nd"
+    path: "Sigma 2nd.brstm"
+    type: battle
+  - id: alia_and_gate
+    title: "Alia and Gate"
+    path: "523 Alia & Gate [ROCK_X6_0008].psf"
+    type: break
+...

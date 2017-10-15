@@ -1,0 +1,31 @@
+---
+id: aoki_okami_to_shiroki_mejika_gencho_hishi
+title: "Aoki Okami to Shiroki Mejika: Gencho Hishi"
+platform: "PCE CD"
+year: 1993
+songs:
+  - id: nomads_mongolian_strategy
+    title: "Nomads (Mongolian Strategy)"
+    path: "01 Nomads (Mongolian Strategy).vgz"
+    type: break
+  - id: central_asian_strategy
+    title: "Central Asian Strategy"
+    path: "02 Central Asian Strategy.vgz"
+    type: break
+  - id: pagan_land_1
+    title: "Pagan Land 1 (Islamic Strategy)"
+    path: "04 Pagan Land 1 (Islamic Strategy).vgz"
+    type: warning
+  - id: pagan_land_2
+    title: "Pagan Land 2 (West European Strategy)"
+    path: "05 Pagan Land 2 (West European Strategy).vgz"
+    type: warning
+  - id: east_european_strategy
+    title: "East European Strategy"
+    path: "06 East European Strategy.vgz"
+    type: break
+  - id: wolves_on_horseback
+    title: "Wolves on Horseback (Battle Command)"
+    path: "13 Wolves on Horseback (Battle Command).vgz"
+    type: result
+...

@@ -1,0 +1,60 @@
+---
+id: megaman_x4
+title: "Mega Man X4"
+series: megaman
+platform: ["Saturn", "PS1"]
+year: 1997
+songs:
+  - id: cyber_peacock_stage
+    title: "Cyber Peacock Stage"
+    path: "Cyber Peacock (Cyber Space).brstm"
+    type: betting
+  - id: final_weapon_stage_1
+    title: "Final Weapon Stage 1"
+    path: "Final Weapon (Spaceport) (Saturn Loop).brstm"
+    type: betting
+  - id: frost_walrus_stage_2
+    title: "Frost Walrus Stage 2"
+    path: "Frost Walrus Snow Base (Saturn Version).brstm"
+    type: betting
+  - id: magma_dragoon_stage
+    title: "Magma Dragoon Stage"
+    path: "Magma Dragoon.brstm"
+    type: betting
+  - id: opening_stage_x_mmx4
+    title: "Opening Stage X"
+    path: "Sky Lagoon (X).brstm"
+    type: betting
+  - id: opening_stage_zero_mmx4
+    title: "Opening Stage Zero"
+    path: "Sky Lagoon (Zero) (Saturn Loop).brstm"
+    type: betting
+  - id: demo_1_mmx4
+    title: "Demo 1"
+    path: "Demo 1.brstm"
+    type: warning
+  - id: stage_select_1_mmx4
+    title: "Stage Select"
+    path: "Stage Select.brstm"
+    type: warning
+  - id: stage_select_2_mmx4
+    title: "Stage Select 2"
+    path: "Stage Select (Sigma).brstm"
+    type: warning
+  - id: boss_mmx4
+    title: "Boss"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: jet_stingray_stage
+    title: "Jet Stingray Stage"
+    path: "Jet Stingray Stage (Marine Base).brstm"
+    type: battle
+  - id: sigma_2nd_mmx4
+    title: "Sigma 2nd"
+    path: "Sigma 2nd.brstm"
+    type: battle
+  - id: frost_walrus_stage_1
+    title: "Frost Walrus Stage 1"
+    path: "Frost Walrus (Outskirts) (Saturn Loop).brstm"
+    type: break
+...

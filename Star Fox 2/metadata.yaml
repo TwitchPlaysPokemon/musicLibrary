@@ -3,31 +3,31 @@ id: star_fox_2
 title: "Star Fox 2"
 series: starfox
 platform: "SNES"
-year: Unreleased
+year: 2017
 songs:
   - id: macbeth_starfox2
     title: "Macbeth"
-    path: "Macbeth.spc"
+    path: "15 Macbeth.spc"
     type: betting
   - id: unused_beta_starfox2
     title: "Unused Beta"
-    path: "Unused Beta.spc"
+    path: "99 Unused Beta.spc"
     type: warning
   - id: taitania_starfox2
     title: "Taitania"
-    path: "Taitania.spc"
+    path: "13 Taitania.spc"
     type: betting
   - id: fortuna_starfox2
     title: "Fortuna"
-    path: "Fortuna.spc"
+    path: "24 Fortuna.spc"
     type: result
   - id: star_map_select_starfox2
     title: "Star Map Select"
-    path: "Star Map Select.spc"
+    path: "09 Star Map Select.spc"
     type: warning
   - id: surprise_attack_starfox2
     title: "Surprise Attack"
-    path: "Surprise Attack.spc"
+    path: "32 Surprise Attack.spc"
     type: warning
   - id: eladard
     title: "Eladard"

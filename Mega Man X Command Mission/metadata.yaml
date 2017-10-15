@@ -1,0 +1,48 @@
+---
+id: megaman_x_command_mission
+title: "Mega Man X: Command Mission"
+series: megaman
+platform: ["PS2", "GCN"]
+year: 2004
+songs:
+  - id: rebellions_mission
+    title: "Rebellion's Mission"
+    path: "F01_00010.adx"
+    type: warning
+  - id: undaunted
+    title: "Undaunted"
+    path: "F01_00018.adx"
+    type: warning
+  - id: rebellions_ambition
+    title: "Rebellion's Ambition"
+    path: "F01_00019.adx"
+    type: warning
+  - id: certain_victory_ninetails
+    title: "Certain Victory! Ninetails"
+    path: "F01_00020.adx"
+    type: battle
+  - id: hunter_base
+    title: "Hunter Base"
+    path: "F01_00025.adx"
+    type: break
+  - id: land_of_oblivion
+    title: "Land of Oblivion"
+    path: "F01_00036.adx"
+    type: betting
+  - id: jungles_treasures
+    title: "Jungle's Treasures"
+    path: "F01_00039.adx"
+    type: betting
+  - id: unknown_energy
+    title: "Unknown Energy"
+    path: "F01_00040.adx"
+    type: betting
+  - id: executive_battle
+    title: "Executive Battle"
+    path: "F01_00047.adx"
+    type: battle
+  - id: standby_zero
+    title: "Standby Zero"
+    path: "F01_00059.adx"
+    type: battle
+...

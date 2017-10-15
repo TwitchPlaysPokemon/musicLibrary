@@ -5,28 +5,56 @@ series: kirby
 platform: "NDS"
 year: 2008
 songs: 
+  - id: you_must_recover_main_menu_and_recovery_room
+    title: "You Must Recover! ~ Main Menu & Recovery Room"
+    path: "002 File Select.mini2sf"
+    type: break
   - id: jovial_ascent_candy_mountain
     title: "Jovial Ascent ~ Candy Mountain"
     path: "020 Candy Mountain.mini2sf"
     type: betting
+  - id: a_formidable_foe_dyna_blade_wham_bam_rock_battle
+    title: "A Formidable Foe ~ Dyna Blade & Wham Bam Rock Battle"
+    path: "025 Big Boss Battle.mini2sf"
+    type: warning
   - id: an_adventurous_song_for_all_occasions
     title: "An Adventurous Song for All Occasions ~ Great Cave Offensive Intro, Title Screen & Credits"
-    path: "The Great Cave Offensive.brstm"
+    path: "037 The Great Cave Offensive.mini2sf"
     type: betting
+  - id: fight_to_the_death_in_the_cargo_hold_heavy_lobster_battle
+    title: "Fight to the Death in the Cargo Hold ~ Heavy Lobster Battle"
+    path: "048 Heavy Lobster.mini2sf"
+    type: warning
   - id: tribulations_from_an_insane_jester
     title: "Tribulations from an Insane Jester ~ Versus Marx & Soul Marx"
-    path: "Vs Marx.brstm"
+    path: "060 Vs. Marx.mini2sf"
     type: warning
   - id: dededes_flying_fortress_kabula_airship_battle
     title: "Dedede's Flying Fortress ~ Kabula Airship Battle"
     path: "082 Flying Fortress Kabula.mini2sf"
     type: warning
-  - id: you_must_recover_main_menu_and_recovery_room
-    title: "You Must Recover! ~ Main Menu & Recovery Room"
-    path: "You Must Recover! ~ Main Menu & Recovery Room.brstm"
-    type: break
+  - id: the_kings_revenge_masked_dedede_battle
+    title: "The King's Revenge ~ Masked Dedede Battle"
+    path: "083 Masked Dedede Theme.mini2sf"
+    type: battle
+  - id: the_great_king_defeated_for_now_revenge_of_the_king_clear
+    title: "The Great King Defeated... For Now ~ Revenge of the King Clear"
+    path: "084 The King and the Sun.mini2sf"
+    type: result
   - id: lay_your_weary_head_to_rest_arena_rest_areas
     title: "Lay Your Weary Head to Rest ~ Arena Rest Areas"
     path: "089 Helpers' Rest.mini2sf"
     type: break
+  - id: meta_knight_battle_ost_medley_version
+    title: "Meta Knight Battle (OST Medley version)"
+    path: "Meta Knight Battle.brstm"
+    type: battle
+  - id: kirby_64_miniboss_dyna_blade_ost_boss_battle_medley version)
+    title: "Kirby 64 Miniboss/Dyna Blade (OST Boss Battle Medley version)"
+    path: "Mini Boss Dyna Blade.brstm"
+    type: battle
+  - id: vs_marx_ost_boss_battle_medley_version
+    title: "Vs. Marx (OST Boss Battle Medley version)"
+    path: "Vs Marx.brstm"
+    type: battle
 ...

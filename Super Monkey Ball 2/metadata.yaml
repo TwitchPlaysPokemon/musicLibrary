@@ -1,73 +1,10 @@
 ---
 id: super_monkey_ball_2
 title: "Super Monkey Ball 2"
+series: supermonkeyball
 platform: "GCN"
 year: 2002
 songs: 
-  - id: world_1_jungle
-    path: "World 1 - Jungle.brstm"
-    title: "World 1 - Jungle"
-    type: betting
-  - id: world_3_ocean
-    path: "World 3 - Ocean.brstm"
-    title: "World 3 - Ocean"
-    type: betting
-  - id: world_4_whale
-    path: "World 4 - Whale.brstm"
-    title: "World 4 - Whale"
-    type: betting
-  - id: world_5_amusement_park
-    path: "World 5 - Amusement Park.brstm"
-    title: "World 5 - Amusement Park"
-    type: result
-  - id: world_6_boiling_pot
-    path: "World 6 - Boiling Pot.brstm"
-    title: "World 6 - Boiling Pot"
-    type: betting
-  - id: world_7_bubbly_washing_machine
-    path: "World 7 - Bubbly Washing Machine.brstm"
-    title: "World 7 - Bubbly Washing Machine"
-    type: betting
-  - id: world_8_clock_tower
-    path: "World 8 - Clock Tower.brstm"
-    title: "World 8 - Clock Tower"
-    type: battle
-  - id: world_9_space_colony
-    path: "World 9 - Space Colony.brstm"
-    title: "World 9 - Space Colony"
-    type: betting
-  - id: world_10_dr_bad_boons_base
-    path: "World 10 - Dr. Bad Boon's Base.brstm"
-    title: "World 10 - Dr. Bad Boon's Base"
-    type: betting
-  - id: monkey_race_2_expert_track
-    path: "Monkey Race 2 - Expert Track.brstm"
-    title: "Monkey Race 2 - Expert Track"
-    type: battle
-  - id: monkey_dogfight
-    path: "Monkey Dogfight.brstm"
-    title: "Monkey Dogfight"
-    type: battle
-  - id: monkey_target_2
-    path: "Monkey Target 2.brstm"
-    title: "Monkey Target 2"
-    type: betting
-  - id: award_ceremony_monkeyball
-    path: "Award Ceremony.brstm"
-    title: "Award Ceremony"
-    type: result
-  - id: monkey_soccer
-    path: "Monkey Soccer.brstm"
-    title: "Monkey Soccer"
-    type: betting
-  - id: hurry_up_monkeyball2
-    path: "Hurry Up.brstm"
-    title: "Hurry Up"
-    type: warning
-  - id: monkey_shot_advanced
-    title: "Monkey Shot - Advanced"
-    path: "shot_advan_L.dsp"
-    type: betting
   - id: monkey_race_2_advanced_stage
     title: "Monkey Race 2 - Advanced Stage"
     path: "race_advan_L.dsp"
@@ -76,4 +13,76 @@ songs:
     title: "Monkey Race 2 - Beginner Stage"
     path: "race_L.dsp"
     type: betting
+  - id: monkey_shot_advanced
+    title: "Monkey Shot - Advanced"
+    path: "shot_advan_L.dsp"
+    type: betting
+  - id: monkey_soccer
+    title: "Monkey Soccer"
+    path: "futsal_L.dsp"
+    type: betting
+  - id: monkey_target_2
+    title: "Monkey Target 2"
+    path: "target_L.dsp"
+    type: betting
+  - id: world_1_jungle
+    title: "World 1 - Jungle"
+    path: "jungle_L.dsp"
+    type: betting
+  - id: world_2_volcano
+    title: "World 2: Volcano"
+    path: "cave_L.dsp"
+    type: betting
+  - id: world_3_ocean
+    title: "World 3 - Ocean"
+    path: "water_L.dsp"
+    type: betting
+  - id: world_4_whale
+    title: "World 4 - Whale"
+    path: "kujira_L.dsp"
+    type: betting
+  - id: world_6_boiling_pot
+    title: "World 6 - Boiling Pot"
+    path: "nabe_L.dsp"
+    type: betting
+  - id: world_7_bubbly_washing_machine
+    title: "World 7 - Bubbly Washing Machine"
+    path: "sentaku_L.dsp"
+    type: betting
+  - id: world_9_space_colony
+    title: "World 9 - Space Colony"
+    path: "colony_L.dsp"
+    type: betting
+  - id: world_10_dr_bad_boons_base
+    title: "World 10 - Dr. Bad Boon's Base"
+    path: "sf_L.dsp"
+    type: betting
+  - id: hurry_up_monkeyball2
+    title: "Hurry Up"
+    path: "10min1_L.dsp"
+    type: warning
+  - id: story_mode_stage_select
+    title: "Story Mode - Stage Select"
+    path: "sel_world_L.dsp"
+    type: warning
+  - id: monkey_dogfight
+    title: "Monkey Dogfight"
+    path: "dog_L.dsp"
+    type: battle
+  - id: monkey_race_2_expert_track
+    title: "Monkey Race 2 - Expert Track"
+    path: "race_expert_L.dsp"
+    type: battle
+  - id: world_8_clock_tower
+    title: "World 8 - Clock Tower"
+    path: "clocktower_L.dsp"
+    type: battle
+  - id: award_ceremony_monkeyball
+    title: "Award Ceremony"
+    path: "hyosho_L.dsp"
+    type: result
+  - id: world_5_amusement_park
+    title: "World 5 - Amusement Park"
+    path: "yuenchi_L.dsp"
+    type: result
 ...

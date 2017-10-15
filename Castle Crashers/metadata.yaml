@@ -1,18 +1,40 @@
+---
 id: castle_crashers
 title: "Castle Crashers"
-year: 2008
 platform: ["360", "Various"]
 #other platforms: ["PS3", "PC", "XBone"]
+year: 2008
 songs:
-  - id: dark_skies_castle_crashers
-    title: "_-={Dark Skies}=-_"
-    path: "_-={Dark Skies}=-_.brstm"
-    type: warning
-  - id: rage_of_the_champions_castle_crashers
-    title: "_-={Rage of the Champions}=-_"
-    path: "_-={Rage of the Champions}=-_.brstm"
-    type: battle
+  - id: four_brave_champions_castle_crashers
+    title: "Four Brave Champions"
+    path: "-Orr- Four Brave Champions.brstm"
+    type: betting
+  - id: jumper_castle_crashers
+    title: "Jumper"
+    path: "-Jumper-.brstm"
+    type: betting
   - id: space_pirates_castle_crashers
-    title: "-Space pirates-"
+    title: "Space Pirates"
     path: "-Space pirates-.brstm"
     type: betting
+  - id: dark_skies_castle_crashers
+    title: "Dark Skies"
+    path: "_-={Dark Skies}=-_.brstm"
+    type: warning
+  - id: race_around_the_world_castle_crashers
+    title: "Race Around the World"
+    path: "-Race around the world-.brstm"
+    type: warning
+  - id: the_show_castle_crashers
+    title: "The Show"
+    path: "The Show.brstm"
+    type: warning
+  - id: rage_of_the_champions_castle_crashers
+    title: "Rage of the Champions"
+    path: "_-={Rage of the Champions}=-_.brstm"
+    type: battle
+  - id: simple_sight_castle_crashers
+    title: "Simple Sight"
+    path: "Simple Sight (Necromancer Boss theme).brstm"
+    type: battle
+...

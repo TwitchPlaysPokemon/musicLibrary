@@ -8,4 +8,20 @@ songs:
     title: "Aqua Tunnel"
     path: "05 Aqua Tunnel.spc"
     type: betting
+  - id: easy_ride
+    title: "Easy Ride"
+    path: "Easy Ride.spc"
+    type: betting
+  - id: kings_forest
+    title: "King's Forest"
+    path: "King's Forest.spc"
+    type: betting
+  - id: sky_ramp
+    title: "Sky Ramp"
+    path: "Sky Ramp.spc"
+    type: betting
+  - id: unused_song_1_stunt_race_fx
+    title: "Unused Song 1"
+    path: "Unused Song 1.spc"
+    type: result
 ...

@@ -1,13 +1,20 @@
+---
 id: super_monkey_ball
 title: "Super Monkey Ball"
-year: 2001
+series: supermonkeyball
 platform: ["Arcade", "GC"]
+year: 2001
 songs:
-  - id: arctic_monkeyball
+  - id: arctic_super_monkey_ball
     title: "Arctic"
     path: "Arctic.brstm"
     type: betting
-  - id: monkey_race
+  - id: master_super_monkey_ball
+    title: "Master"
+    path: "Master.brstm"
+    type: betting
+  - id: monkey_race_super_monkey_ball
     title: "Monkey Race"
     path: "Monkey Race.brstm"
     type: betting
+...

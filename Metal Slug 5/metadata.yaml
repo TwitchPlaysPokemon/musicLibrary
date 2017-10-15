@@ -1,14 +1,16 @@
+---
 id: metal_slug_5
 title: "Metal Slug 5"
 series: metalslug
-year: 2003
 platform: ["Neo-Geo", "Xbox"]
+year: 2003
 songs:
-  - id: fierce_battle_metal_slug
-    title: "Fierce Battle"
-    path: "Fierce Battle.vgz"
-    type: battle
   - id: zoom_down
     title: "Zoom Down"
-    path: "Zoom Down.vgz"
+    path: "06 Zoom Down.vgz"
     type: betting
+  - id: fierce_battle_metal_slug
+    title: "Fierce Battle"
+    path: "12 Fierce Battle.vgz"
+    type: battle
+...

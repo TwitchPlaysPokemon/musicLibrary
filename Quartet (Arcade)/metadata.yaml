@@ -1,0 +1,23 @@
+---
+id: quartet_arcade
+title: "Quartet"
+platform: ["Arcade", "SMS"]
+year: 1987
+songs:
+  - id: quartet_theme
+    title: "Quartet Theme"
+    path: "02 - Quartet Theme.vgz"
+    type: betting
+  - id: fm_funk_quartet
+    title: "FM Funk"
+    path: "04 - FM Funk.vgz"
+    type: betting
+  - id: sky_quartet
+    title: "Sky"
+    path: "05 - Sky.vgz"
+    type: betting
+  - id: oki_rap
+    title: "OKI RAP"
+    path: "06 - OKI_RAP.vgz"
+    type: betting
+...

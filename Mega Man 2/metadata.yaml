@@ -1,32 +1,32 @@
 ---
 id: mega_man_2
-platform: "NES"
 title: "Mega Man 2"
 series: megaman
+platform: "NES"
 year: 1988
 songs: 
-  - id: dr_wily_stage_1_2
-    path: "Dr. Wily Stage 1 & 2.brstm"
-    title: "Dr. Wily Stage 1 & 2"
-    type: betting
-  - id: main_theme_mm2
-    title: "Main Theme"
-    path: "Mega Man 2 Main Theme.brstm"
+  - id: title_mm2
+    title: "Title"
+    path: "02 Title.vgz"
     type: result
-  - id: dr_wily_stage_3_and_4_mm2
-    title: "Dr. Wily Stage 3 & 4"
-    path: "Dr. Wily Stage 3 4.brstm"
-    type: warning
   - id: stage_select_mm2
     title: "Stage Select"
-    path: "Stage Select.brstm"
+    path: "04 Stage Select.vgz"
     type: warning
-  - id: mm2wood
-    title: "Wood Man Stage"
-    path: "Wood Man Stage.vgz"
-    type: betting
   - id: metal_man_stage_mm2
     title: "Metal Man Stage"
     path: "06 Metal Man Stage.vgz"
     type: betting
+  - id: wood_man_stage_mm2
+    title: "Wood Man Stage"
+    path: "13 Wood Man Stage.vgz"
+    type: betting
+  - id: dr_wily_stage_1_mm2
+    title: "Dr. Wily Stage 1"
+    path: "18 Dr. Wily Stage 1.vgz"
+    type: betting
+  - id: dr_wily_stage_2_mm2
+    title: "Dr. Wily Stage 2"
+    path: "19 Dr. Wily Stage 2.vgz"
+    type: warning
 ...

@@ -2,6 +2,7 @@
 id: asterix_gb
 title: "Astérix [GB]"
 platform: ["NES", "GB"]
+series: asterix
 year: 1993
 songs: 
   - id: helvetia_asterix_gb
@@ -12,4 +13,20 @@ songs:
     title: "Rome"
     path: "06 Rome.vgz"
     type: betting
+  - id: egypt_asterix_gb
+    title: "Egypt"
+    path: "Egypt.vgz"
+    type: betting
+  - id: ending_asterix_gb
+    title: "Ending ~ Staff Roll"
+    path: "Ending ~ Staff Roll.vgz"
+    type: result
+  - id: game_over_asterix_gb
+    title: "Game Over"
+    path: "Game Over.vgz"
+    type: warning
+  - id: secret_level_asterix_gb
+    title: "Secret Level"
+    path: "Secret Level.vgz"
+    type: warning
 ...

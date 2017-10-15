@@ -2,43 +2,47 @@
 id: marvel_vs_capcom_clash_of_super_heroes
 title: "Marvel vs. Capcom: Clash of Super Heroes"
 series: mvc
-year: 1998
 platform: ["Arcade", "DC", "PS1"]
+year: 1998
 songs:
-  - id: theme_of_spider-man
-    title: "Theme of Spider-Man"
-    path: "Theme of Spider-Man.brstm"
-    type: betting
-  - id: theme_of_captain_commando
-    title: "Theme of Captain Commando"
-    path: "Theme of Captain Commando.brstm"
-    type: betting
   - id: theme_of_captain_america
     title: "Theme of Captain America"
-    path: "Theme of Captain America.brstm"
+    path: "06 Theme of Captain America.vgz"
     type: battle
-  - id: theme_of_strider_hiryu
-    title: "Theme of Strider Hiryu"
-    path: "Theme of Strider Hiryu.brstm"
-    type: battle
+  - id: theme_of_spider-man
+    title: "Theme of Spider-Man"
+    path: "12 Theme of Spider-Man.vgz"
+    type: betting
   - id: theme_of_venom
     title: "Theme of Venom"
-    path: "Theme of Venom.brstm"
+    path: "13 Theme of Venom.vgz"
     type: warning
-  - id: theme_of_zangief
-    title: "Theme of Zangief"
-    path: "Theme of Zangief.brstm"
+  - id: theme_of_captain_commando
+    title: "Theme of Captain Commando"
+    path: "18 Theme of Captain Commando.vgz"
+    type: betting
+  - id: theme_of_chun_li
+    title: "Theme of Chun-Li"
+    path: "19 Theme of Chun-Li.vgz"
     type: betting
   - id: theme_of_jin
     title: "Theme of Jin"
-    path: "Theme of Jin.brstm"
+    path: "20 Theme of Jin.vgz"
+    type: battle
+  - id: theme_of_zangief
+    title: "Theme of Zangief"
+    path: "21 Theme of Zangief.vgz"
+    type: betting
+  - id: theme_of_strider_hiryu
+    title: "Theme of Strider Hiryu"
+    path: "24 Theme of Strider Hiryu.vgz"
     type: battle
   - id: boss_introduction_mvc
     title: "Boss Introduction"
-    path: "Boss Introduction.brstm"
+    path: "29 Boss Introduction.vgz"
     type: warning
   - id: ending_after_the_battle_mvc
     title: "Ending ~After the Battle~"
-    path: "Ending ~After the Battle~.brstm"
+    path: "32 Ending -After The Battle-.vgz"
     type: warning
 ...

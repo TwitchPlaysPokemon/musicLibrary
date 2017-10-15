@@ -1,33 +1,37 @@
 ---
 id: ducktales_remastered
 title: "DuckTales Remastered"
-year: 2013
 platform: ["Wii U", "Various"]
 #other platforms: ["PC", "360", "PS3", "Andriod", "iOS", "Windows Phone", "Mobile", "FireTV"]
+year: 2013
 songs:
-  - id: moon
-    title: "The Moon"
-    path: "The Moon.brstm"
-    type: betting
   - id: african_mines
     title: "African Mines"
-    path: "African Mines.brstm"
+    path: "m_stage_african_mines.fsb"
     ends: 3:00
+    type: betting
+  - id: the_moon_ducktales_remastered
+    title: "The Moon"
+    path: "m_stage_moon.fsb"
     type: betting
   - id: mount_vesuvius
     title: "Mount Vesuvius"
-    path: "Mount Vesuvius.brstm"
+    path: "m_stage_vesuvius.fsb"
     type: betting
-  - id: dracula_duck
-    title: "Dracula Duck"
-    path: "Dracula Duck.brstm"
-    type: battle
   - id: the_dime_chase
     title: "The Dime Chase"
-    path: "The Dime Chase.brstm"
+    path: "m_stage_vesuvius_final.fsb"
     type: warning
-  - id: hub_world_ducktales
+  - id: dracula_duck
+    title: "Dracula Duck"
+    path: "m_finalboss.fsb"
+    type: battle
+  - id: title_screen_ducktales_remastered
+    title: "Title Screen"
+    path: "m_stage_title.fsb"
+    type: result
+  - id: hub_world_ducktales_remastered
     title: "Hub World"
-    path: "Hub World.brstm"
+    path: "m_stage_hubworld.fsb"
     type: break
 ...

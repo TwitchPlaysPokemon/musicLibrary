@@ -5,28 +5,28 @@ series: megaman
 platform: "NDS"
 year: 2007
 songs: 
-  - id: hometown_mmsf2
-    title: "Hometown"
+  - id: shooting_star_ver_sf2
+    title: "Shooting Star (Ver. SF2)"
+    path: "01 Title.strm"
+    type: betting
+  - id: home_town_echo_ridge
+    title: "Home Town (Echo Ridge)"
     path: "02 Hometown.mini2sf"
     type: break
-  - id: main_theme_shooting_star
-    title: "Main Theme - Shooting Star"
-    path: "Main Theme - Shooting Star.brstm"
-    type: betting
+  - id: melody_of_isolation_theme_of_rogue
+    title: "Melody of Isolation (Theme of Rogue)"
+    path: "19 Melody of Isolation.mini2sf"
+    type: warning
   - id: ride_on_battle_theme
     title: "Ride On (Battle Theme)"
-    path: "Ride On (Battle Theme).brstm"
+    path: "26 Ride On.mini2sf"
+    type: battle
+  - id: wave_battle_boss_theme
+    title: "Wave Battle (Boss Theme)"
+    path: "27 Wave Battle.mini2sf"
     type: battle
   - id: road_to_victory_vs_battle
-    title: "Road to Victory (VS Battle)"
-    path: "Road to Victory (VS Battle).brstm"
+    title: "Road to Victory (VS. Battle)"
+    path: "30 Road to Victory.mini2sf"
     type: battle
-  - id: wave_battle_boss_battle_theme
-    title: "Wave Battle (Boss Battle Theme)"
-    path: "Wave Battle (Boss Battle Theme).brstm"
-    type: battle
-  - id: theme_of_rogue_altered
-    title: "Theme of Rogue (Altered)"
-    path: "Theme of Rogue (Altered).brstm"
-    type: warning
 ...

@@ -1,0 +1,56 @@
+﻿---
+id: mega_man_and_bass
+title: "Mega Man & Bass [SFC]"
+series: megaman
+platform: ["SFC", "GBA"]
+year: 1998
+songs:
+  - id: file_select_mega_man_and_bass
+    title: "File Select"
+    path: "03 File Select.spc"
+    type: result
+  - id: intro_stage_museum
+    title: "Intro Stage - Museum"
+    path: "05 Museum.spc"
+    type: betting
+  - id: data_base_mega_man_and_bass
+    title: "Data Base"
+    path: "08 Database.spc"
+    type: break
+  - id: cold_man_stage
+    title: "Cold Man Stage"
+    path: "10 Coldman.spc"
+    type: betting
+  - id: tengu_man_stage
+    title: "Tengu Man Stage"
+    path: "14 Tenguman.spc"
+    type: break
+  - id: magic_man_stage
+    title: "Magic Man Stage"
+    path: "15 Magicman.spc"
+    type: result
+  - id: dynamo_man_stage
+    title: "Dynamo Man Stage"
+    path: "17 Dynamoman.spc"
+    type: betting
+  - id: new_weapon_presentation
+    title: "New Weapon Presentation"
+    path: "21 New Weapon Presentation.spc"
+    type: warning
+  - id: seals
+    title: "Seals"
+    path: "22 Seals.spc"
+    type: warning
+  - id: dr_wily_castle_stages
+    title: "Dr. Wily Castle Stages"
+    path: "26 Wily Castle.spc"
+    type: warning
+  - id: credits_mega_man_and_bass
+    title: "Credits"
+    path: "28 Staff Roll.spc"
+    type: result
+  - id: last_boss_mega_man_and_bass
+    title: "Last Boss"
+    path: "27 Major Boss Battle.spc"
+    type: warning
+...

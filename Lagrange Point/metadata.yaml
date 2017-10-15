@@ -6,18 +6,18 @@ platform: "FC"
 songs:
   - id: fighters_awaken
     title: "Fighters Awaken"
-    path: "Fighters Awaken.brstm"
+    path: "04 Fighters Awaken.vgz"
     type: battle
   - id: fighters_sadness
     title: "Fighters' Sadness"
-    path: "Fighters' Sadness.brstm"
+    path: "14 Fighters Sadness.vgz"
     type: warning
   - id: departure_and_arrival
     title: "Departure and Arrival"
-    path: "Departure and Arrival.brstm"
+    path: "15 Departure and Arrival.vgz"
     type: betting
   - id: satellite_base
     title: "Satellite Base"
-    path: "Satellite Base.brstm"
+    path: "06 Satellite Base.vgz"
     type: betting
 ...
