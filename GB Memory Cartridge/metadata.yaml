@@ -1,9 +1,0 @@
-id: gb_memory_cartridge
-title: "GB Memory Cartridge"
-platform: ["GB", "GBC"]
-year: 2000
-songs:
-  - id: menu_gbc
-    title: "Menu (GBC)"
-    path: "02 Menu (GBC).vgz"
-    type: result
