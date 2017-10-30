@@ -4,129 +4,65 @@ title: "Super Paper Mario"
 series: mario
 platform: "Wii"
 year: 2007
-songs:
-  - id: champion_of_destruction
-    title: "Champion of Destruction"
-    path: "evt_zigen_appear1_44k_lp.brstmspm"
-    type: betting
-  - id: flipside
-    title: "Flipside"
-    path: "map_town_omote1_44k_lp.brstmspm"
-    type: betting
-  - id: flopside
-    title: "Flopside"
-    path: "map_town_ura1_44k_lp.brstmspm"
-    type: betting
-  - id: floro_sapien_caverns
-    title: "Floro Sapien Caverns"
-    path: "map_stg5_2_e14_lp.brstmspm"
-    type: betting
-  - id: gloam_valley
-    title: "Gloam Valley"
-    path: "map_stg2_gloamV.brstmspm"
-    type: betting
-  - id: lineland_road
-    title: "Lineland Road"
-    path: "map_stg1_1_44k_e_lp.brstmspm"
-    type: betting
-  - id: mount_lineland
-    title: "Mount Lineland"
-    path: "map_stg1_sabaku_lp.brstmspm"
-    type: betting
-  - id: pit_of_100_trials
-    title: "Pit of 100 Trials"
-    path: "map_100f_44k_lp.brstmspm"
-    type: betting
-  - id: sammers_kingdom
-    title: "Sammer's Kingdom"
-    path: "map_stg6_44k_lp.brstmspm"
-    type: betting
-  - id: an_unrivaled_battle
-    title: "An Unrivaled Battle"
-    path: "evt_star1_44k_lp.brstmspm"
+songs: 
+  - id: birth_of_the_chaos_heart
+    title: "Birth of the Chaos Heart"
+    path: "evt_konton1_44k_lp.brstmspm"
     type: warning
-  - id: count_bleck_plan
-    title: "Count Bleck's Plan"
-    path: "evt_exective_soudan1_44k_lp.brstmspm"
+  - id: the_evil_count_bleck
+    title: "The Evil Count Bleck"
+    path: "evt_op_peach1_e1_lp.brstmspm"
     type: warning
-  - id: dimentio_charming_magician
-    title: "Dimentio, Charming Magician"
-    path: "evt_demen_appear1_44k_lp.brstmspm"
+  - id: merlees_mansion
+    title: "Merlee's Mansion"
+    path: "map_stg2_yakata_e6_lp.brstmspm"
+    type: betting
+  - id: big_blooper_appears
+    title: "Big Blooper Appears"
+    path: "evt_gesso_appear1_44k_lp.brstmspm"
     type: warning
-  - id: evil_king_bowser_here
-    title: "Evil King Bowser Here!"
-    path: "evt_koopa_catsle_44k_lp.brstmspm"
+  - id: the_underwhere
+    title: "The Underwhere"
+    path: "map_stg7_44k_lp.brstmspm"
+    type: betting
+  - id: river_twygz_bed
+    title: "River Twygz Bed"
+    path: "map_stg7_sanzu1_44k_lp.brstmspm"
     type: warning
-  - id: fight_fight
-    title: "Fight Fight"
-    path: "evt_dotabata1_44k_e4_lp.brstmspm"
+  - id: bonechill_appears
+    title: "Bonechill Appears"
+    path: "evt_sini_appear_44k_lp.brstmspm"
     type: warning
-  - id: francis_battle
-    title: "Francis Battle"
-    path: "btl_boss_stg3_44k_lp.brstmspm"
-    type: warning
+  - id: castle_bleck
+    title: "Castle Bleck"
+    path: "map_stg8_1_44k_lp.brstmspm"
+    type: betting
+  - id: closing_battle
+    title: "Closing Battle"
+    path: "btl_mr_zigen1_44k_lp.brstmspm"
+    type: battle
+  - id: end_of_the_world
+    title: "End of The World"
+    path: "evt_stg8_escape1_lp.brstmspm"
+    type: battle
+  - id: mansion_patrol_episode_2
+    title: "Mansion Patrol (Episode 2)"
+    path: "minigame_hayauti1_44k_e2_lp.brstmspm"
+    type: betting
+  - id: outside_merlees_mansion
+    title: "Outside Merlee's Mansion"
+    path: "map_stg2_yakata_out1_lp.brstmspm"
+    type: break
   - id: im_not_nice
     title: "I'm Not Nice"
     path: "btl_manera1_44k_lp.brstmspm"
-    type: warning
-  - id: mimi_the_copycat
-    title: "Mimi the Copycat"
-    path: "evt_manela_appear2_44k_lp.brstmspm"
-    type: warning
-  - id: mr_l_green_thunder
-    title: "Mr. L, Green Thunder"
-    path: "evt_Dliigi_appear1_44k_lp.brstmspm"
-    type: warning
-  - id: whoa_zone
-    title: "Whoa Zone"
-    path: "map_stg4_4d1_44k_lp.brstmspm"
-    type: warning
-  - id: world_of_nothing
-    title: "World of Nothing"
-    path: "map_stg6_3_44k_lp.brstmspm"
-    type: warning
-  - id: battle_time_super_paper_mario
-    title: "Battle Time"
-    path: "map_stg6_2_44k_lp.brstmspm"
     type: battle
-  - id: bonechill_battle
-    title: "Bonechill Battle"
-    path: "btl_boss_stg7_44k_lp.brstmspm"
+  - id: mimi_battle
+    title: "Mimi Battle"
+    path: "btl_boss_stg2_22k_lp.brstmspm"
     type: battle
-  - id: bowser_battle_super_paper_mario
-    title: "Bowser Battle"
-    path: "btl_koopa1_44k_lp.brstmspm"
-    type: battle
-  - id: brobot_battle
-    title: "Brobot"
-    path: "btl_boss_stg4_lp.brstmspm"
-    type: battle
-  - id: fracktail_battle
-    title: "Fracktail Battle"
-    path: "btl_boss_stg1_22k_lp.brstmspm"
-    type: battle
-  - id: its_showtime
-    title: "It's Showtime"
-    path: "btl_demen1_44k_lp.brstmspm"
-    type: battle
-  - id: brobot_l_type
-    title: "Brobot L-Type Battle"
-    path: "btl_boss_stg6_44k_lp.brstmspm"
-    type: battle
-  - id: king_croacus_battle
-    title: "King Croacus Battle"
-    path: "btl_boss_stg5_e3_44k_lp.brstmspm"
-    type: battle
-  - id: ready_go
-    title: "Ready, GO!"
-    path: "btl_dodontas2_44k_lp.brstmspm"
-    type: battle
-  - id: the_ultimate_show
-    title: "The Ultimate Show"
-    path: "btl_demenL_44k_lp.brstmspm"
-    type: battle
-  - id: tokens_please
-    title: "Tokens, Please"
-    path: "map_yuugizyou_e8_lp_32k.brstmspm"
-    type: break
+  - id: in_the_darkness
+    title: "In the Darkness"
+    path: "evt_peach_hen1_44k_lp.brstmspm"
+    type: betting
 ...

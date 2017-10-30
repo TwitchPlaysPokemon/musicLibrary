@@ -1,12 +1,11 @@
 ---
 id: conkers_bad_fur_day
 title: "Conker's Bad Fur Day"
-series: conker
-year: 2001
 platform: "N64"
-songs:
-  - id: rock_solid
-    title: "Rock Solid"
-    path: "sparse3d.miniusf"
-    type: betting
+year: 2001
+songs: 
+  - id: count_bacula
+    title: "Count Bacula"
+    path: "sparse5a.miniusf"
+    type: battle
 ...

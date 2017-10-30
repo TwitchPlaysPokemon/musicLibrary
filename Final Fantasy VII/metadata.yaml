@@ -1,89 +1,12 @@
 ---
 id: final_fantasy_vii
-platform: "PS1"
 title: "Final Fantasy VII"
 series: finalfantasy
+platform: ["PS1", "PC"]
 year: 1997
 songs: 
-  - id: cosmo_canyon
-    title: "Cosmo Canyon"
-    path: "Cosmo Canyon.brstm"
-    type: betting
-  - id: fighting
-    path: "110 Fighting.psf"
-    title: "Fighting"
-    type: battle
-  - id: fanfare_ffvii
-    path: "111 Fanfare.psf"
-    title: "Fanfare"
-    type: result
-  - id: still_more_fighting
-    path: "120 Still More Fighting.psf"
-    title: "Still More Fighting"
-    type: battle
-  - id: crazy_motorcycle
-    path: "122 Crazy Motorcycle.psf"
-    title: "Crazy Motorcycle"
-    type: battle
-  - id: electric_de_chocobo
-    path: "207 Electric de Chocobo.psf"
-    title: "Electric de Chocobo"
-    type: betting
-  - id: jenova
-    path: "214 J-E-N-O-V-A.psf"
-    title: "J-E-N-O-V-A"
-    type: battle
-#      - id: descendant_of_shinobi
-#        path: "304 Descendant of Shinobi.psf"
-#        title: "Descendant of Shinobi"
-#        type: result
-# unfitting result song
-  - id: cids_theme
-    path: "307 Cid's Theme.psf"
-    title: "Cid's Theme"
-    type: betting
-  - id: racing_chocobos
-    path: "311 Racing Chocobos.psf"
-    title: "Racing Chocobos"
-    type: result
-  - id: fiddle_de_chocobo
-    path: "312 Fiddle de Chocobo.psf"
-    title: "Fiddle de Chocobo"
-    type: warning
-  - id: a_great_success
-    path: "313 A Great Success.psf"
-    title: "A Great Success"
-    type: result
-  - id: buried_in_the_snow
-    path: "320 Buried in the Snow.psf"
-    title: "Buried in the Snow"
-    type: betting
-  - id: hurry_faster
-    path: "408 Hurry Faster!.psf"
-    title: "Hurry Faster!"
-    type: battle
-  - id: the_countdown_begins
-    path: "410 The Countdown Begins.psf"
-    title: "The Countdown Begins"
-    type: warning
-  - id: judgment_day
-    path: "413 Judgment Day.psf"
-    title: "Judgment Day"
-    type: betting
-  - id: jenova_absolute
-    path: "414 Jenova Absolute.psf"
-    title: "Jenova Absolute"
-    type: betting
-  - id: the_birth_of_god
-    path: "415 The Birth of God.psf"
-    title: "The Birth of God"
-    type: betting
-  - id: one-winged_angel
-    path: "416 One-Winged Angel.psf"
+  - id: one_winged_angel
     title: "One-Winged Angel"
+    path: "416 One-Winged Angel.minipsf"
     type: battle
-  - id: aerith_theme_ffvii
-    path: "Aerith's Theme.brstm"
-    title: "Aerith's Theme"
-    type: break
 ...

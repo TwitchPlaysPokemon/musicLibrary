@@ -5,68 +5,16 @@ series: sonic
 platform: ["GC", "Xbox", "PS2"]
 year: 2004
 songs: 
-  - id: boss_2
-    title: "Boss 2"
-    path: "Boss 2.adx"
-    type: battle
-  - id: bingo_highway
-    title: "Bingo Highway"
-    path: "Bingo Highway.adx"
-    type: battle
-  - id: egg_emperor
-    title: "Egg Emperor"
-    path: "Egg Emperor.adx"
-    type: battle
-  - id: seaside_hill_zone
-    title: "Seaside Hill Zone"
-    path: "Seaside Hill Zone.adx"
-    type: betting
-  - id: battle_4
-    title: "Battle 4"
-    path: "Battle 4.adx"
+  - id: hang_castle_upside_down
+    title: "Hang Castle (Upside Down)"
+    path: "Hang Castle (Upside Down).adx"
     type: warning
-  - id: casino_park_zone
-    title: "Casino Park Zone"
-    path: "Casino Park Zone.adx"
+  - id: hang_castle
+    title: "Hang Castle"
+    path: "Hang Castle.adx"
     type: betting
-  - id: grand_metropolis_zone_heroes
-    title: "Grand Metropolis Zone"
-    path: "Grand Metropolis Zone.adx"
+  - id: mystic_mansion
+    title: "Mystic Mansion"
+    path: "Mystic Mansion.adx"
     type: betting
-  - id: frog_forest_zone
-    title: "Frog Forest Zone"
-    path: "Frog Forest Zone.adx"
-    type: betting
-  - id: system_2_heroes
-    title: "System 2"
-    path: "System 2.adx"
-    type: betting
-  - id: special_stage_2_heroes
-    title: "Special Stage 2"
-    path: "Special Stage 2.adx"
-    type: battle
-  - id: ocean_palace_zone
-    title: "Ocean Palace Zone"
-    path: "Ocean Palace Zone.adx"
-    type: betting
-  - id: power_plant_zone
-    title: "Power Plant Zone"
-    path: "Power Plant Zone.adx"
-    type: betting
-  - id: rail_canyon_zone
-    title: "Rail Canyon Zone"
-    path: "Rail Canyon Zone.adx"
-    type: betting
-  - id: final_fortress_zone
-    title: "Final Fortress Zone"
-    path: "Final Fortress Zone.adx"
-    type: warning
-  - id: egg_albatross
-    title: "Egg Albatross"
-    path: "Egg Albatross.adx"
-    type: warning
-  - id: no_past_to_remember
-    path: "Event - No Past to Remember.adx"
-    title: "Event: No Past to Remember"
-    type: warning
 ...

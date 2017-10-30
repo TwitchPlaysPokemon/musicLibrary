@@ -1,10 +1,36 @@
+---
 id: rayman_2_the_great_escape
 title: "Rayman 2: The Great Escape"
-platform: ["N64", "Various"]
-#other platforms: ["PS1", "DC", "PC", "NDS", "3DS", "iOS", "GBC"]
+series: rayman
+platform: "Various"
 year: 1999
-songs:
-  - id: the_hall_of_doors
-    title: "The Hall of Doors"
-    path: "The Hall of Doors.brstm"
+songs: 
+  - id: the_fairy_glade_beginning
+    title: "The Fairy Glade - Beginning"
+    path: "003a Level 02 - The Fairy Glade - (P1) Beginning.miniusf"
     type: betting
+  - id: the_fairy_glade_swamp
+    title: "The Fairy Glade - Swamp"
+    path: "003b Level 02 - The Fairy Glade - (P2) At The Swamp.miniusf"
+    type: warning
+  - id: the_bayou_beginning
+    title: "The Bayou - Beginning"
+    path: "005a Level 04 - The Bayou - (P1) Beginning.miniusf"
+    type: betting
+  - id: the_bayou_the_respawn_after_the_death
+    title: "The Bayou - The Respawn After The Death"
+    path: "005b Level 04 - The Bayou - (P2) The Respawn After The Death.miniusf"
+    type: betting
+  - id: tomb_of_the_ancients_beginning
+    title: "Tomb of the Ancients - Beginning"
+    path: "017a Level 16 - Tomb of the Ancients - (P1) Beginning.miniusf"
+    type: break
+  - id: tomb_of_the_ancients_the_spider_attacks
+    title: "Tomb of the Ancients - The Spider Attacks!"
+    path: "017b Level 16 - Tomb of the Ancients - (P2) The Spider Attacks!.miniusf"
+    type: battle
+  - id: the_prison_ship_final_fight
+    title: "The Prison Ship - Final Fight!"
+    path: "019i Level 18 - The Prison Ship - (P9) Final Fight!.miniusf"
+    type: battle
+...

@@ -2,32 +2,27 @@
 id: call_of_duty_black_ops
 title: "Call of Duty: Black Ops"
 series: callofduty
+platform: "Various"
 year: 2010
-platform: ["360", "Various"]
-#other platforms: ["PS3", "PC", "Wii", "NDS"]
-songs:
-  - id: twilight_dead_ops_arcade
-    title: "Twilight (Dead Ops Arcade)"
-    path: "Twilight (Dead Ops Arcade).brstm"
-    type: betting
-  - id: death_on_the_dance_floor_dead_ops_arcade
-    title: "Death on the Dance Floor (Dead Ops Arcade)"
-    path: "Death on the Dance Floor (Dead Ops Arcade).brstm"
-    type: betting
+songs: 
   - id: damned_zombies_mode
     title: "Damned (Zombies Mode)"
     path: "Damned (Zombies Mode).brstm"
     type: betting
-  - id: undone_cod
+  - id: death_on_the_dance_floor_dead_ops_arcade
+    title: "Death on the Dance Floor (Dead Ops Arcade)"
+    path: "Death on the Dance Floor (Dead Ops Arcade).brstm"
+    type: battle
+  - id: laughing_corpses_dead_ops_arcade
+    title: "Laughing Corpses (Dead Ops Arcade)"
+    path: "Laughing Corpses (Dead Ops Arcade).brstm"
+    type: betting
+  - id: raining_teddy_bears_dead_ops_arcade
+    title: "Raining Teddy Bears (Dead Ops Arcade)"
+    path: "Raining Teddy Bears (Dead Ops Arcade).brstm"
+    type: battle
+  - id: undone
     title: "Undone"
     path: "Undone.brstm"
-    type: betting
-  - id: multiplayer_menu_cod
-    title: "Multiplayer Menu"
-    path: "Multiplayer Menu.brstm"
-    type: betting
-  - id: temple_dead_ops_arcade
-    title: "Temple (Dead Ops Arcade)"
-    path: "Temple (Dead Ops Arcade).brstm"
     type: betting
 ...

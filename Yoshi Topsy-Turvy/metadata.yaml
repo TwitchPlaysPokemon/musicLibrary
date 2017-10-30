@@ -1,46 +1,12 @@
+---
 id: yoshi_topsy_turvy
 title: "Yoshi Topsy-Turvy"
-year: 2004
-platform: "GBA"
 series: yoshi
-songs:
-  - id: boat_yoshi
-    title: "Boat Yoshi"
-    path: "Boat Yoshi.minigsf"
-    type: break
-  - id: bye_bye_bowser
-    title: "Bye Bye, Bowser!"
-    path: "Bye Bye, Bowser!.minigsf"
-    type: result
-  - id: farewell_friends
-    title: "Farewell, Friends!"
-    path: "Farewell, Friends!.minigsf"
-    type: break
-  - id: hide_the_bombs
-    title: "Hide The Bombs!"
-    path: "Hide The Bombs!.minigsf"
+platform: "GBA"
+year: 2004
+songs: 
+  - id: this_guy_scares_me
+    title: "This Guy Scares Me!"
+    path: "This Guy Scares Me!.minigsf"
     type: warning
-  - id: tale_of_the_spirit_of_cuteness
-    title: "Tale of the Spirit of Cuteness"
-    path: "Tale of the Spirit of Cuteness.minigsf"
-    type: betting
-  - id: tale_of_the_spirit_of_fright
-    title: "Tale of the Spirit of Fright"
-    path: "Tale of the Spirit of Fright.minigsf"
-    type: warning
-  - id: tale_of_the_spirit_of_kindness
-    title: "Tale of the Spirit of Kindness"
-    path: "Tale of the Spirit of Kindness.minigsf"
-    type: betting
-  - id: tale_of_the_spirit_of_money
-    title: "Tale of the Spirit of Money"
-    path: "Tale of the Spirit of Money.minigsf"
-    type: betting
-  - id: tale_of_the_spirit_of_power
-    title: "Tale of the Spirit of Power"
-    path: "Tale of the Spirit of Power.minigsf"
-    type: warning
-  - id: tale_of_the_spirit_of_speed
-    title: "Tale of the Spirit of Speed"
-    path: "Tale of the Spirit of Speed.minigsf"
-    type: result
+...

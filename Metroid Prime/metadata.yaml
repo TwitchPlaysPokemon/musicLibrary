@@ -1,52 +1,40 @@
 ---
 id: metroid_prime
-platform: "GC"
 title: "Metroid Prime"
 series: metroid
+platform: "GCN"
 year: 2002
 songs: 
-  - id: underwater_frigate_reactor_core
-    title: "Underwater Frigate Reactor Core"
-    path: "Underwater Frigate Reactor Core.brstm"
-    type: betting
-  - id: metroid_prime_essence_battle
-    title: "Metroid Prime Essence Battle"
-    path: "Metroid Prime Essence Battle.brstm"
+  - id: metroid_prime_boss
+    title: "Metroid Prime Boss"
+    path: "cra_mprime1L.dsp"
     type: battle
-  - id: chozo_artifact_temple
-    title: "Chozo Artifact Temple"
-    path: "Chozo Artifact Temple.brstm"
+  - id: chozo_ghost_battle
+    title: "Chozo Ghost Battle"
+    path: "gen_ShortBattle2L.dsp"
     type: warning
-  - id: chozo_ruins
-    title: "Chozo Ruins"
-    path: "Chozo Ruins.brstm"
-    type: break
-  - id: phendrana_drifts_depths
-    title: "Phendrana Drifts Depths"
-    path: "Phendrana Drifts Depths.brstm"
+  - id: magmoor_caverns_ambience
+    title: "Magmoor Caverns Ambience"
+    path: "lav_lavamaeL.dsp"
     type: betting
-  - id: thardus_battle
-    title: "Thardus Battle"
-    path: "Thardus Battle.brstm"
-    type: warning
-  - id: vs_hive_totem
-    title: "Vs. Hive Totem"
-    path: "Vs. Hive Totem.brstm"
-    type: warning
-  - id: magmoor_caverns
-    title: "Magmoor Caverns"
-    path: "Magmoor Caverns.brstm"
+  - id: omega_pirate_battle
+    title: "Omega Pirate Battle"
+    path: "min_omegapirateL.dsp"
+    type: battle
+  - id: meta_ridley_battle
+    title: "Meta Ridley Battle"
+    path: "over-ridleyL.dsp"
+    type: battle
+  - id: space_pirates_main_theme
+    title: "Space Pirates Main Theme"
+    path: "pir_isogiL.dsp"
+    type: battle
+  - id: flaahgra_battle
+    title: "Flaahgra Battle"
+    path: "rui_flaaghraL.dsp"
+    type: battle
+  - id: title_theme_metroid_prime
+    title: "Title Theme"
+    path: "Title Theme.brstm"
     type: betting
-  - id: planet_tallon_iv
-    title: "Planet Tallon IV"
-    path: "Planet Tallon IV.brstm"
-    type: break
-  - id: tallon_overworld_depths
-    title: "Tallon Overworld Depths"
-    path: "Tallon Overworld Depths.brstm"
-    type: betting
-  - id: vs_parasite_queen
-    title: "Vs. Parasite Queen"
-    path: "Vs Parasite Queen.brstm"
-    type: warning
 ...

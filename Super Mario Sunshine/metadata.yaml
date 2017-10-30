@@ -2,59 +2,11 @@
 id: super_mario_sunshine
 title: "Super Mario Sunshine"
 series: mario
-platform: "GCN"
-year: 2002
+platform: "2002"
+year: GCN
 songs: 
-  - id: bianco_hills_medley_mariosunshine
-    title: "Bianco Hills - Medley"
-    path: "Bianco Hills - Medley.brstm"
+  - id: hotel_delfino
+    title: "Hotel Delfino"
+    path: "Hotel Delfino.brstm"
     type: betting
-  - id: delfino_plaza
-    title: "Delfino Plaza"
-    path: "Delfino Plaza.brstm"
-    type: betting
-  - id: gelato_beach_medley
-    title: "Gelato Beach - Medley"
-    path: "Gelato Beach - Medley.brstm"
-    type: betting
-  - id: ricco_harbor
-    title: "Ricco Harbor"
-    path: "Ricco Harbor.brstm"
-    type: betting
-  - id: secret_course_mariosunshine
-    title: "Secret Course"
-    path: "Secret Course.brstm"
-    type: betting
-  - id: event_mariosunshine
-    title: "Event"
-    path: "Event.brstm"
-    type: warning
-  - id: shadow_mario_mariosunshine
-    title: "Shadow Mario"
-    path: "Shadow Mario.brstm"
-    type: warning
-  - id: vs_boss_mariosunshine
-    title: "Vs. Boss"
-    path: "Vs. Boss.brstm"
-    type: warning
-  - id: vs_phantamanta
-    title: "Vs. Phantamanta"
-    path: "Vs. Phantamanta.brstm"
-    type: warning
-  - id: casino_delfino
-    title: "Casino Delfino"
-    path: "Casino Delfino.brstm"
-    type: break
-  - id: noki_bay_medley
-    title: "Noki Bay - Medley"
-    path: "Noki Bay - Medley.brstm"
-    type: break
-  - id: pinna_park_beach
-    title: "Pinna Park Beach"
-    path: "Pinna Park Beach.brstm"
-    type: break
-  - id: sirena_beach
-    title: "Sirena Beach"
-    path: "Sirena Beach.brstm"
-    type: break
 ...

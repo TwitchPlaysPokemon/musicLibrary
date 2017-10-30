@@ -1,21 +1,24 @@
+---
 id: animal_crossing
 title: "Animal Crossing"
-platform: ["GC", "N64"]
+series: animalcrossing
+platform: ["N64", "GCN"]
 year: 2001
-songs:
-  - id: 600_659_pm
-    title: "6:00-6:59 P.M"
-    path: "6_00-6_59 P.M.brstm"
+songs: 
+  - id: 600_659_am
+    title: "6-00-6-59 A.M."
+    path: "6-00-6-59 A.M..brstm"
     type: betting
-  - id: 700_759_pm
-    title: "7:00-7:59 P.M"
-    path: "7_00-7_59 P.M.brstm"
+  - id: 800_859_pm
+    title: "8-00-8-59 P.M."
+    path: "8-00-8-59 P.M..brstm"
+    type: betting
+  - id: harvest_festival
+    title: "Harvest Festival"
+    path: "Harvest Festival.brstm"
+    type: betting
+  - id: midnight_to_1259_am
+    title: "Midnight to 12-59 A.M."
+    path: "Midnight to 12-59 A.M..brstm"
     type: break
-  - id: nookingtons
-    title: "Nookingtons"
-    path: "Nookingtons.brstm"
-    type: warning
-  - id: kk_condor_aircheck
-    title: "K.K. Condor (Aircheck)"
-    path: "K.K. Condor (Aircheck).brstm"
-    type: betting
+...

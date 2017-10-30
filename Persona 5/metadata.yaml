@@ -1,60 +1,20 @@
 ---
 id: persona_5
 title: "Persona 5"
-series: shinmegamitensei
+series: persona
 platform: ["PS3", "PS4"]
 year: 2016
-songs:
-  - id: tokyo_daylight
-    title: "Tokyo Daylight"
-    path: "Tokyo Daylight.brstm"
-    type: break
-  - id: tokyo_emergency
-    title: "Tokyo Emergency"
-    path: "Tokyo Emergency.brstm"
-    type: warning
-  - id: rivers_in_the_desert_instrumental
-    title: "Rivers In the Desert (Instrumental)"
-    path: "Rivers In the Desert -Instrumental Version-.brstm"
-    type: warning
-  - id: king_queen_and_slave
-    title: "King, Queen, and Slave"
-    path: "King, Queen, and Slave.brstm"
-    type: betting
-  - id: a_woman
-    title: "A Woman"
-    path: "A Woman.brstm"
-    type: break
-  - id: butterfly_kiss
-    title: "Butterfly Kiss"
-    path: "Butterfly Kiss.brstm"
-    type: break
-  - id: blooming_villain
-    title: "Blooming Villain"
-    path: "Blooming Villain.brstm"
-    type: battle
-  - id: jaldabaoth
-    title: "Jaldabaoth"
-    path: "Jaldabaoth.brstm"
-    type: battle
-  - id: whats_going_on
-    title: "What's Going On?"
-    path: "What's Going On.brstm"
-    type: betting
-  - id: beneath_the_mask
-    title: "Beneath the Mask"
-    path: "Beneath the Mask.adx"
-    type: break
-  - id: life_will_change_inst
-    title: "Life Will Change (Instrumental)"
-    path: "Life Will Change (Instrumental).adx"
-    type: battle
-  - id: victory_p5
-    title: "Victory"
-    path: "Victory.adx"
+songs: 
+  - id: the_spirit
+    title: "The Spirit"
+    path: "bgm_00000007.adx"
     type: result
-  - id: alleycat
-    title: "Alleycat"
-    path: "Alleycat.adx"
-    type: break
+  - id: awakening
+    title: "Awakening"
+    path: "bgm_00000027.adx"
+    type: warning
+  - id: sweatshop
+    title: "Sweatshop"
+    path: "bgm_00000030.adx"
+    type: battle
 ...

@@ -1,10 +1,104 @@
+---
 id: metroid_fusion
 title: "Metroid Fusion"
 series: metroid
-year: 2002
 platform: "GBA"
-songs:
-  - id: sa_x_chase
-    title: "SA-X Chase"
-    path: "40 SA-X Chase.minigsf"
+year: 2002
+songs: 
+  - id: sector_1_srx_sr388_simulation_area
+    title: "Sector 1 (SRX) SR388 Simulation Area"
+    path: "03 Sector 1 (SRX) SR388 Simulation Area.minigsf"
+    type: betting
+  - id: environment_sound_silence_1
+    title: "Environment Sound (Silence 1)"
+    path: "04 Environment Sound (Silence 1).minigsf"
+    type: break
+  - id: environment_sound_tension
+    title: "Environment Sound (Tension)"
+    path: "05 Environment Sound (Tension).minigsf"
     type: warning
+  - id: facing_a_huge_reaction
+    title: "Facing a Huge Reaction"
+    path: "07 Facing a Huge Reaction.minigsf"
+    type: betting
+  - id: vs_arachnus
+    title: "VS. Arachnus"
+    path: "09 VS. Arachnus.minigsf"
+    type: battle
+  - id: x_invasion_detection
+    title: "X Invasion Detection"
+    path: "10 X Invasion Detection.minigsf"
+    type: warning
+  - id: vs_fake_chozo_statue
+    title: "VS. Fake Chozo Statue"
+    path: "12 VS. Fake Chozo Statue.minigsf"
+    type: warning
+  - id: environment_sound_disquieting
+    title: "Environment Sound (Disquieting)"
+    path: "13 Environment Sound (Disquieting).minigsf"
+    type: warning
+  - id: sector_2_tro_tropic_area
+    title: "Sector 2 (TRO) Tropic Area"
+    path: "14 Sector 2 (TRO) Tropic Area.minigsf"
+    type: betting
+  - id: sector_4_aqa_aquatic_level_control_zone
+    title: "Sector 4 (AQA) Aquatic Level Control Zone"
+    path: "17 Sector 4 (AQA) Aquatic Level Control Zone.minigsf"
+    type: betting
+  - id: vs_serris
+    title: "VS. Serris"
+    path: "18 VS. Serris.minigsf"
+    type: battle
+  - id: sector_3_pyr_high_temperature_area
+    title: "Sector 3 (PYR) High-Temperature Area"
+    path: "19 Sector 3 (PYR) High-Temperature Area.minigsf"
+    type: break
+  - id: vs_box
+    title: "VS. B.O.X."
+    path: "20 VS. B.O.X..minigsf"
+    type: warning
+  - id: sector_6_noc_dark_area
+    title: "Sector 6 (NOC) Dark Area"
+    path: "21 Sector 6 (NOC) Dark Area.minigsf"
+    type: betting
+  - id: sector_5_arc_low_temperature_area
+    title: "Sector 5 (ARC) Low-Temperature Area"
+    path: "23 Sector 5 (ARC) Low-Temperature Area.minigsf"
+    type: betting
+  - id: sector_3_emergency_situation
+    title: "Sector 3 Emergency Situation"
+    path: "24 Sector 3 Emergency Situation.minigsf"
+    type: warning
+  - id: environment_sound_intrigue
+    title: "Environment Sound (Intrigue)"
+    path: "26 Environment Sound (Intrigue).minigsf"
+    type: betting
+  - id: vs_mother_plant
+    title: "VS. Mother Plant"
+    path: "27 VS. Mother Plant.minigsf"
+    type: break
+  - id: vs_nightmare
+    title: "VS. Nightmare"
+    path: "28 VS. Nightmare.minigsf"
+    type: warning
+  - id: sector_4_aqa_underwater_area
+    title: "Sector 4 (AQA) Underwater Area"
+    path: "29 Sector 4 (AQA) Underwater Area.minigsf"
+    type: betting
+  - id: vs_ridley
+    title: "VS. Ridley"
+    path: "30 VS. Ridley.minigsf"
+    type: battle
+  - id: the_final_command
+    title: "The Final Command"
+    path: "31 The Final Command.minigsf"
+    type: betting
+  - id: vs_sa_x
+    title: "VS. SA-X"
+    path: "32 VS. SA-X.minigsf"
+    type: warning
+  - id: station_escape_timer_mission
+    title: "Station Escape Timer Mission"
+    path: "33 Station Escape Timer Mission.minigsf"
+    type: warning
+...

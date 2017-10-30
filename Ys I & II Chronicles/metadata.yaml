@@ -1,16 +1,12 @@
 ---
-id: ys_i_and_ii_chronicles
-title: "Ys I & II Chronicles"
+id: ys_1_and_2_chronicles
+title: "Ys 1&2 Chronicles"
 series: ys
 platform: ["PSP", "PC"]
 year: 2009
-songs:
-  - id: final_battle
-    title: "Final Battle"
-    path: "Final Battle.brstm"
-    type: battle
-  - id: dreaming_ys_i_and_ii
-    title: "Dreaming"
-    path: "Dreaming.brstm"
-    type: battle
+songs: 
+  - id: beat_of_the_terror
+    title: "Beat of the Terror"
+    path: "ys1_09.at3"
+    type: betting
 ...

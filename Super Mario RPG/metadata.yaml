@@ -1,141 +1,32 @@
 ---
-id: super_mario_rpg
+id: super_mario_rpg_legend_of_the_seven_stars
 title: "Super Mario RPG: Legend of the Seven Stars"
 series: mario
 platform: "SNES"
 year: 1996
-songs:
-  - id: my_names_booster
-    title: "And My Name's Booster"
-    path: "And My Name's Booster.spc"
+songs: 
+  - id: sunken_ship_super_mario_rpg
+    title: "Sunken Ship"
+    path: "204 Sunken Ship.spc"
     type: betting
-  - id: barrel_volcano
-    title: "Barrel Volcano"
-    path: "Barrel Volcano.spc"
+  - id: game_over_battle
+    title: "Game Over (Battle)"
+    path: "999 Game Over (Battle).spc"
+    type: result
+  - id: game_over_boss_battle
+    title: "Game Over (Boss Battle)"
+    path: "999 Game Over (Boss Battle).spc"
     type: betting
-  - id: beware_of_the_forests_mushrooms
-    title: "Beware the Forest's Mushrooms"
-    path: "Beware the Forest's Mushrooms.spc"
-    type: betting
-  - id: fight_against_smithy
-    title: "Fight Against Smithy"
-    path: "Fight Against Smithy.spc"
+  - id: game_over_smithy_1
+    title: "Game Over (Smithy 1)"
+    path: "999 Game Over (Smithy 1).spc"
     type: battle
-  - id: heart_beating_a_little_faster
-    title: "Heart Beating a Little Faster"
-    path: "Heart Beating a Little Faster.spc"
-    type: warning
-  - id: margarie_margarita
-    title: "Margarie Margarita"
-    path: "Margarie Margarita.brstm"
-    type: betting
-  - id: my_paradise_monstro_town
-    title: "My Paradise ~ Monstro Town"
-    path: "My Paradise ~ Monstro Town.spc"
-    type: break
-  - id: super_pipe_house
-    title: "Super Pipe House"
-    path: "Super Pipe House.spc"
-    type: betting
-  - id: welcome_to_booser_tower
-    title: "Welcome to Booster Tower"
-    path: "Welcome to Booster Tower.spc"
-    type: break
-  - id: still_the_road_is_full_of_dangers
-    title: "Still, the Road is Full of Dangers"
-    path: "Still, the Road is Full of Dangers.spc"
-    type: betting
-  - id: lets_go_down_the_wine_river
-    title: "Let's Go Down the Wine River"
-    path: "Let's Go Down the Wine River.spc"
-    type: result
-  - id: docaty_mountain_railroad
-    title: "Docaty Mountain Railroad"
-    path: "Docaty Mountain Railroad.spc"
-    type: warning
-  - id: geno_awakens
-    title: "Geno Awakens"
-    path: "Geno Awakens.spc"
-    type: result
-  - id: going_shopping_in_seaside_town
-    title: "Going Shopping in Seaside Town"
-    path: "Going Shopping in Seaside Town.spc"
-    type: betting
-  - id: lets_play_geno
-    title: "Let's Play 'Geno'"
-    path: "Let's Play _Geno_.spc"
-    type: result
-  - id: rose_town
-    title: "Rose Town"
-    path: "Rose Town.spc"
-    type: betting
-  - id: fight_against_culex
-    title: "Fight Against Culex"
-    path: "Fight Against Culex.spc"
+  - id: game_over_smithy_2
+    title: "Game Over (Smithy 2)"
+    path: "999 Game Over (Smithy 2).spc"
     type: battle
-  - id: victory_smrpg
-    title: "Victory!!"
-    path: "Victory!!.spc"
-    type: result
-  - id: welcome_yoster_island
-    title: "Welcome! Yo'ster Island!!"
-    path: "Welcome! Yo'ster Island!!.spc"
-    type: betting
-  - id: goodbye_geno
-    title: "Goodbye Geno"
-    path: "Goodbye Geno.spc"
-    type: result
-  - id: the_axem_rangers_drop_in
-    title: "The Axem Rangers Drop in"
-    path: "The Axem Rangers Drop in.spc"
-    type: warning
-  - id: fight_against_bowser_smrpg
-    title: "Fight Against Bowser"
-    path: "Fight Against Bowser.spc"
-    type: warning
-  - id: fight_against_smithy_who_likes_transforming
-    title: "Fight Against Smithy, Who Likes Transforming"
-    path: "Fight Against Smithy, Who Likes Transforming.spc"
-    type: battle
-  - id: hello_happy_kingdom
-    title: "Hello, Happy Kingdom"
-    path: "Hello, Happy Kingdom.spc"
-    type: betting
-  - id: heres_some_weapons
-    title: "Here's Some Weapons!"
-    path: "Here's Some Weapons!.spc"
-    type: betting
-  - id: lets_do_the_fooka_fooka
-    title: "Let's Do the Fooka-Fooka!"
-    path: "Let's Do the Fooka-Fooka!.spc"
-    type: betting
-  - id: weapons_factory
-    title: "Weapons Factory"
-    path: "Weapons Factory.spc"
-    type: betting
-  - id: fight_against_an_armed_boss
-    title: "Fight Against an Armed Boss"
-    path: "119 Fight Against an Armed Boss.spc"
-    type: warning
-  - id: fight_against_a_somewhat_stronger_monster
-    title: "Fight Against a Somewhat Stronger Monster"
-    path: "117 Fight Against a Stronger Monster.spc"
-    type: warning
-  - id: bowsers_castle_second_time
-    title: "Bowser's Castle (Second Time)"
-    path: "216 Bowser's Castle (Second Time).spc"
-    type: betting
-  - id: slope
-    title: "Slope"
-    ends: 2:44
-    path: "139 Slope.spc"
-    type: betting
-  - id: happy_parade_delightful_parade
-    title: "Happy Parade, Delightful Parade"
-    path: "Happy Parade, Delightful Parade.spc"
-    type: betting
-  - id: the_merry_marry_bell_rings
-    title: "The Merry Marry Bell Rings"
-    path: "The Merry Marry Bell Rings.spc"
+  - id: quiz_master_lose
+    title: "Quiz Master Lose"
+    path: "999 Quiz Master Lose.spc"
     type: betting
 ...

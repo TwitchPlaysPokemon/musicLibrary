@@ -1,40 +1,16 @@
 ---
-id: phantasy_star_online_episode_i_ii
-title: "Phantasy Star Online Episode I & II"
+id: phantasy_star_online_episode_1_and_2
+title: "Phantasy Star Online Episode 1 & 2"
 series: phantasystar
-platform: ["GC", "Xbox"]
-year: 2002
+platform: "Various"
+year: 2000
 songs: 
-  - id: crossing3084
-    title: "Crossing3084"
-    path: "Crossing3084.adx"
+  - id: revolution_to_the_origin_part_1
+    title: "Revolution to the Origin (Part 1)"
+    path: "SHIP_N.ADX"
     type: break
-  - id: chaotic_bar
-    title: "Chaotic Bar"
-    path: "SHOP.adx"
-    type: break
-  - id: idola_have_the_immortal_feather
-    title: "'IDOLA' Have the Immortal Feather"
-    path: "proto1.adx"
-    type: battle
-  - id: tricktrack_part_2
-    title: "Tricktrack Part 2"
-    path: "S_B.adx"
+  - id: revolution_to_the_origin_part_2
+    title: "Revolution to the Origin (Part 2)"
+    path: "SHIP_B.ADX"
     type: betting
-  - id: the_frenzy_wilds
-    title: "The Frenzy Wilds"
-    path: "gryphon.adx"
-    type: warning
-  - id: growl_from_the_depths_of_earth
-    title: "Growl from the Depths of Earth"
-    path: "DRAGON.adx"
-    type: warning
-  - id: a_song_for_eternal_story
-    title: "A Song for Eternal Story"
-    path: "TITLE.adx"
-    type: break
-  - id: day_dawns
-    title: "Day Dawns"
-    path: "LOBBY.adx"
-    type: break
 ...

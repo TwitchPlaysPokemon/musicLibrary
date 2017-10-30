@@ -1,114 +1,15 @@
 ---
 id: okami
-title: "Ōkami"
-series: okami
+title: "Okami"
+platform: "Various"
 year: 2006
-platform: "PS2"
-songs:
-  - id: demon_lord_ninetales
-    title: "Demon Lord Nine-Tail's Extermination"
-    path: "Demon Lord Nine-Tail's Extermination.brstm"
-    type: battle
-  - id: the_emperor_of_eternal_darkness
-    path: "The Emperor of Eternal Darkness.brstm"
-    title: "The Emperor of Eternal Darkness"
+songs: 
+  - id: a_great_spirit_lies_in_wait
+    title: "A Great Spirit Lies in Wait"
+    path: "A Great Spirit Lies in Wait.brstm"
+    type: break
+  - id: a_monsters_presence
+    title: "A Monster's Presence"
+    path: "A Monster's Presence.mp3"
     type: warning
-  - id: reset_thank_you_version
-    path: "''Reset'' ~''Thank You'' Version~.brstm"
-    title: "Reset ~ 'Thank you' Version ~"
-    type: break
-  - id: the_sun_rises
-    path: "The Sun Rises.brstm"
-    title: "The Sun Rises"
-    type: betting
-  - id: shinshuu_plains
-    path: "Shinshuu Plains.brstm"
-    title: "Shinshuu Plains"
-    type: betting
-  - id: brave_warrior_oki
-    path: "Okami - Brave Warrior Oki.brstm"
-    title: "Brave Warrior Oki"
-    type: betting
-  - id: twin_devils_extermination
-    path: "Twin Devils Moshirechik and Kotanechik's Extermination.brstm"
-    title: "Twin Devils Moshirechik and Kotanechik's Extermination"
-    type: battle
-  - id: kusa_village_cursed
-    path: "Kusa Village(Cursed).brstm"
-    title: "Kusa Village (Cursed)"
-    type: break
-  - id: kusa_village
-    path: "Kusa Village.brstm"
-    title: "Kusa Village"
-    type: betting
-  - id: mr_orange_appears
-    path: "Mr Orange Appears.brstm"
-    title: "Mr. Orange Appears"
-    type: break
-  - id: issun_theme
-    path: "Issun's Theme.brstm"
-    title: "Issun's Theme"
-    type: betting
-  - id: agata_forest
-    path: "Agata Forest.brstm"
-    title: "Agata Forest"
-    type: break
-  - id: dojo_entrance
-    path: "Dojo Entrance.brstm"
-    title: "Dojo Entrance"
-    type: betting
-  - id: kokari_dilemma
-    path: "Kokari's Dilemma.brstm"
-    title: "Kokari's Dilemma"
-    type: betting
-  - id: oki_theme
-    path: "Oki's Theme.brstm"
-    title: "Oki's Theme"
-    type: betting
-  - id: tama_theme
-    path: "Tama's Theme.brstm"
-    title: "Tama's Theme"
-    type: betting
-  - id: impatient_susanoo
-    path: "Impatient Susano-o.brstm"
-    title: "Impatient Susano-o"
-    type: warning
-  - id: cherry_blossom_storm
-    path: "Cherry Blossom Storm.brstm"
-    title: "Cherry Blossom Storm"
-    type: betting
-  - id: kamui_of_the_northern_lands
-    path: "Kamui of the Northern Lands.brstm"
-    title: "Kamui of the Northern Lands"
-    ends: 3:05
-    type: betting
-  - id: good_news_for_kokari
-    path: "Good News for Kokari.brstm"
-    title: "Good News for Kokari"
-    type: result
-  - id: wepkeer
-    path: "Wep'keer.brstm"
-    title: "Wep'keer"
-    ends: 3:00
-    type: betting
-  - id: helping_with_the_fishing
-    path: "Helping with the Fishing.brstm"
-    title: "Helping with the Fishing"
-    type: betting
-  - id: shinto_priest_mikazuki
-    path: "Shinto Priest Mikazuki's Theme.brstm"
-    title: "Shinto Priest Mikazuki's Theme"
-    type: break
-  - id: seiankyou_commoners
-    path: "Seiankyou Commoners' Quarter.brstm"
-    title: "Seiankyou Commoners' Quarter"
-    type: betting
-  - id: giving_susano_a_ride
-    path: "Giving Susano-o a Ride.brstm"
-    title: "Giving Susano-o a Ride"
-    type: betting
-  - id: red_helmets_extermination
-    path: "Red Helmet's Extermination.brstm"
-    title: "Red Helmet's Extermination"
-    type: battle
 ...

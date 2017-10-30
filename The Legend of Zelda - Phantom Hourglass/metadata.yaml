@@ -1,0 +1,20 @@
+---
+id: the_legend_of_zelda_phantom_hourglass
+title: "The Legend of Zelda: Phantom Hourglass"
+series: zelda
+platform: "NDS"
+year: 2007
+songs: 
+  - id: the_ghost_ship
+    title: "The Ghost Ship"
+    path: "051 The Ghost Ship.mini2sf"
+    type: warning
+  - id: bellum_battle
+    title: "Bellum Battle"
+    path: "081 Bellum Battle.mini2sf"
+    type: battle
+  - id: phantom_linebeck_battle
+    title: "Phantom Linebeck Battle"
+    path: "094 Phantom Linebeck Battle.mini2sf"
+    type: battle
+...

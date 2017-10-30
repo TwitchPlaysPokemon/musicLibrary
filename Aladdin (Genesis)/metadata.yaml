@@ -1,23 +1,16 @@
+---
 id: aladdin_genesis
 title: "Aladdin [Genesis]"
 platform: ["Genesis, Various"]
 #other platforms: 	["Amiga", "DOS", "NES", "GB", "GBC"]
 year: 1993
 songs:
-  - id: camel_jazz
-    title: "Camel Jazz"
-    path: "Camel Jazz.vgz"
-    ends: 3:00
-    type: betting
-  - id: prince_ali
-    title: "Prince Ali"
-    path: "Prince Ali.vgz"
-    type: betting
-  - id: storyline_aladdin
-    title: "Storyline"
-    path: "Storyline.vgz"
+  - id: drama_aladdin
+    title: "Drama"
+    path: "Drama.vgz"
     type: warning
-  - id: turban_jazz
-    title: "Turban Jazz"
-    path: "Turban Jazz.vgz"
+  - id: gloomy_tune
+    title: "Gloomy Tune"
+    path: "Gloomy Tune.vgz"
     type: betting
+...

@@ -1,0 +1,16 @@
+---
+id: pokemon_ruby_sapphire_emerald
+title: "Pokémon Ruby/Sapphire/Emerald"
+series: pokemon
+platform: "GBA"
+year: 2002
+songs: 
+  - id: mt_pyre
+    title: "Mt. Pyre"
+    path: "215 Mount Pyre.minigsf"
+    type: betting
+  - id: sealed_chamber
+    title: "Sealed Chamber"
+    path: "237 Ancient Braille Cave.minigsf"
+    type: warning
+...

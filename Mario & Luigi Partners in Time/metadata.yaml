@@ -1,52 +1,28 @@
 ---
-id: mario_luigi_partners
-title: "Mario & Luigi: Partners in Time"
+id: mario_and_luigi_partners_in_time
+title: "Mario & Luigi: Partners In Time"
 series: mario
 platform: "NDS"
 year: 2005
-songs:
-  - id: gritzy_desert
-    title: "Gritzy Desert"
-    path: "Gritzy Desert.mini2sf"
+songs: 
+  - id: toadwood_forest
+    title: "Toadwood Forest"
+    path: "16 Toadwood Forest [MUS_SEQ_KINOPL].mini2sf"
     type: betting
-  - id: shroobs
-    title: "Shroobs!"
-    path: "Shroobs!.mini2sf"
-    type: warning
-  - id: holli_jolli_village
-    title: "Holli Jolli Village"
-    path: "Holli Jolli Village.mini2sf"
+  - id: vim_factory
+    title: "Vim Factory"
+    path: "17 Vim Factory [MUS_SEQ_FACTORY].mini2sf"
     type: betting
-  - id: the_time_machine
-    title: "The Time Machine"
-    path: "The Time Machine.mini2sf"
-    type: betting
-  - id: serious_trouble
-    title: "Serious Trouble"
-    path: "Serious Trouble.mini2sf"
-    type: warning
-  - id: thwomp_volcano
-    title: "Thwomp Volcano"
-    path: "Thwomp Volcano.mini2sf"
-    type: betting
-  - id: listen_up_now
-    title: "Listen Up, Now"
-    path: "Listen Up, Now - Tutorial.mini2sf"
-    type: betting
-  - id: princess_shroob_battle
-    title: "Princess Shroob Battle"
-    path: "Princess Shroob Battle.mini2sf"
-    type: warning
-  - id: file_select_mlpit
-    title: "File Select"
-    path: "File Select.mini2sf"
-    type: break
-  - id: boss_fight_mlpit
-    title: "Boss Fight"
-    path: "Boss Fight.mini2sf"
+  - id: bowser_battle_mario_and_luigi_partners_in_time
+    title: "Bowser Battle"
+    path: "27 Bowser Battle [MUS_SEQ_KUPPABTL].mini2sf"
     type: battle
-  - id: final_battle_mario_luigi_partners
-    title: "Final Battle"
-    path: "34 Final Battle [MUS_SEQ_LASTBOSS2].mini2sf"
-    type: warning
+  - id: toad_town_mario_and_luigi_partners_in_time
+    title: "Toad Town"
+    path: "28 Toad Town [MUS_SEQ_KINOTOWN].mini2sf"
+    type: betting
+  - id: shroob_castle
+    title: "Shroob Castle"
+    path: "31 Shroob Castle [MUS_SEQ_INVASION_C].mini2sf"
+    type: betting
 ...

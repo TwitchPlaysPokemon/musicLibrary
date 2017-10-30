@@ -1,36 +1,60 @@
 ---
 id: super_metroid
-platform: "SNES"
 title: "Super Metroid"
 series: metroid
+platform: "SNES"
 year: 1994
 songs: 
-  - id: brinstar_-_plant_overgrowth_area
-    path: "Brinstar - Plant Overgrowth Area.spc"
-    title: "Brinstar (Plant Overgrowth)"
+  - id: opening_destruction_of_the_space_colony
+    title: "Opening ~ Destruction of the Space Colony"
+    path: "01 Opening ~ Destruction of the Space Colony.spc"
     type: betting
-  - id: big_boss_confrontation_kraid_crocomire_phantoon
-    title: "Big Boss Confrontation (Kraid, Crocomire, Phantoon)"
-    path: "15 Big Boss Confrontation 2.spc"
-    type: warning
-  - id: big_boss_confrontation_ridley_draygon
-    title: "Big Boss Confrontation (Ridley, Draygon)"
-    path: "14 Big Boss Confrontation 1.spc"
-    type: warning
-  - id: mother_brain_super_metroid
-    title: "Mother Brain"
-    path: "21 Mother Brain.spc"
-    type: warning
+  - id: planet_zebes_arrival_on_crateria
+    title: "Planet Zebes ~ Arrival on Crateria"
+    path: "03 Planet Zebes ~ Arrival on Crateria.spc"
+    type: break
+  - id: crateria_the_space_pirates_appear
+    title: "Crateria ~ The Space Pirates Appear"
+    path: "04 Crateria ~ The Space Pirates Appear.spc"
+    type: betting
   - id: brinstar_red_soil_swampy_area
     title: "Brinstar Red Soil Swampy Area"
-    path: "Brinstar Red Soil Swampy Area.spc"
+    path: "06 Brinstar Red Soil Swampy Area.spc"
     type: betting
-  - id: theme_of_super_metroid
-    title: "Theme of Super Metroid"
-    path: "Theme of Super Metroid.spc"
-    type: warning
-  - id: tension_metroid
+  - id: norfair_hot_lava_area
+    title: "Norfair Hot Lava Area"
+    path: "07 Norfair Hot Lava Area.spc"
+    type: break
+  - id: wrecked_ship
+    title: "Wrecked Ship"
+    path: "09 Wrecked Ship.spc"
+    type: break
+  - id: maridia_rocky_underwater_area
+    title: "Maridia Rocky Underwater Area"
+    path: "10 Maridia Rocky Underwater Area.spc"
+    type: betting
+  - id: maridia_drifting_sand_underwater_area
+    title: "Maridia Drifting Sand Underwater Area"
+    path: "11 Maridia Drifting Sand Underwater Area.spc"
+    type: betting
+  - id: norfair_ancient_ruins_area
+    title: "Norfair Ancient Ruins Area"
+    path: "12 Norfair Ancient Ruins Area.spc"
+    type: betting
+  - id: mini_boss_confrontation
+    title: "Mini Boss Confrontation"
+    path: "13 Mini Boss Confrontation.spc"
+    type: betting
+  - id: crateria_underground
+    title: "Crateria Underground"
+    path: "91 Crateria Underground.spc"
+    type: break
+  - id: wrecked_ship_activated
+    title: "Wrecked Ship (Activated)"
+    path: "91 Wrecked Ship (Activated).spc"
+    type: betting
+  - id: tension_super_metroid
     title: "Tension"
-    path: "Tension.spc"
+    path: "95 Tension.spc"
     type: warning
 ...

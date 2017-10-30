@@ -4,117 +4,13 @@ title: "Mother 3"
 series: mother
 platform: "GBA"
 year: 2006
-songs:
-  - id: fire
-    path: "F-F-Fire!.brstm"
-    title: "F-F-Fire!"
-    type: warning
-  - id: dangerous_highway
-    path: "Dangerous Highway.brstm"
-    title: "Dangerous Highway"
-    type: betting
-  - id: hard_rain
-    path: "Hard Rain.brstm"
-    title: "Hard Rain"
-    type: betting
-  - id: unfounded_revenge
-    path: "Unfounded Revenge.brstm"
-    title: "Unfounded Revenge"
+songs: 
+  - id: battle_against_the_masked_man
+    title: "Battle Against the Masked Man"
+    path: "Battle Against the Masked Man.minigsf"
     type: battle
-  - id: time_passage
-    path: "Time Passage.brstm"
-    title: "Time Passage"
+  - id: forest_prayer_sanctuary
+    title: "Forest Prayer Sanctuary"
+    path: "Forest Prayer Sanctuary.minigsf"
     type: result
-  - id: bothersome_guys
-    path: "Bothersome Guys.brstm"
-    title: "Bothersome Guys"
-    type: warning
-  - id: fate
-    title: "Fate"
-    path: "Fate.brstm"
-    type: betting
-  - id: fight_mecha_drago
-    title: "Fight with Mecha-Drago"
-    path: "Fight with Mecha-Drago.brstm"
-    type: battle
-  - id: fun_naming
-    title: "Fun Naming"
-    path: "Fun Naming.brstm"
-    type: betting
-  - id: mind_of_a_thief
-    title: "Mind of a Thief"
-    path: "Mind of a Thief.brstm"
-    type: betting
-  - id: natural_killer_cyborg
-    title: "Natural Killer Cyborg"
-    path: "Natural Killer Cyborg.brstm"
-    type: warning
-  - id: the_waters_great
-    title: "The Water's Great"
-    path: "The Water's Great.brstm"
-    type: result
-  - id: vs_ultimate_chimera
-    title: "Vs Ultimate Chimera"
-    path: "Vs Ultimate Chimera.brstm"
-    type: warning
-  - id: monkeys_delivery_service
-    title: "Monkey's Delivery Service"
-    path: "Monkey's Delivery Service.brstm"
-    type: betting
-  - id: a_master_a_father_a_thief
-    title: "A Master, a Father, a Thief"
-    path: "A Master, a Father, a Thief.brstm"
-    type: betting
-  - id: snowman_mother3
-    title: "Snowman"
-    path: "Snowman.minigsf"
-    type: break
-  - id: a_letter_to_you_honey
-    title: "A Letter to You, Honey"
-    path: "A Letter to You, Honey.minigsf"
-    type: break
-  - id: his_highness_theme
-    title: "His Highness' Theme"
-    path: "His Highness' Theme.minigsf"
-    type: betting
-  - id: mom_hometown
-    title: "Mom's Hometown"
-    path: "Mom's Hometown.minigsf"
-    type: betting
-  - id: monkey_love_song
-    title: "Monkey's Love Song"
-    path: "Monkey's Love Song.minigsf"
-    type: betting
-  - id: mr_batty_twist
-    title: "Mr. Batty Twist"
-    path: "Mr. Batty Twist.minigsf"
-    type: warning
-  - id: name_these_children
-    title: "Name These Children"
-    path: "Name These Children.minigsf"
-    type: break
-  - id: ode_to_ancestors_8
-    title: "Ode to Ancestors: 8th Movement"
-    path: "Ode to Ancestors- 8th Movement.minigsf"
-    type: warning
-  - id: to_sunshine_forest
-    title: "To Sunshine Forest"
-    path: "To Sunshine Forest.minigsf"
-    type: betting
-  - id: fairies_mother3
-    title: "Fairies (Neckbeard's Recommendation)"
-    path: "Fairies (Neckbeard's Recommend.).minigsf"
-    type: break
-  - id: samba_de_combo
-    title: "Samba de Combo"
-    path: "Samba de Combo.minigsf"
-    type: betting
-  - id: gentle_rain
-    title: "Gentle Rain"
-    path: "033 Gentle Rain.minigsf"
-    type: break
-  - id: murasaki_forest
-    title: "Murasaki Forest"
-    path: "130 Murasaki Forest.minigsf"
-    type: betting
 ...

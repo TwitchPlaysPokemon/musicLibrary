@@ -1,72 +1,28 @@
 ---
 id: the_legend_of_zelda_ocarina_of_time
-platform: "N64"
-title: "The Legend Of Zelda: Ocarina of Time"
+title: "The Legend of Zelda: Ocarina of Time"
 series: zelda
+platform: "N64"
 year: 1998
 songs: 
-  - id: battle_osv
-    path: "Battle (OSV).brstm"
-    title: "Battle"
+  - id: dodongos_cavern
+    title: "Dodongo's Cavern"
+    path: "36 Dodongo's Cavern.miniusf"
+    type: break
+  - id: ganondorfs_theme
+    title: "Ganondorf's Theme"
+    path: "47 Ganondorf's Theme.miniusf"
     type: warning
-  - id: gerudo_valley
-    title: "Gerudo Valley"
-    path: "Gerudo Valley.miniusf"
-    type: break
-  - id: last_battle_oot
-    title: "Last Battle"
-    path: "79 Last Battle.miniusf"
-    type: warning
-  - id: inside_the_deku_tree
-    title: "Inside the Deku Tree"
-    path: "Inside the Deku Tree.brstm"
-    type: break
-  - id: kakariko_village_oot
-    title: "Kakariko Village"
-    path: "Kakariko Village.brstm"
-    type: break
-  - id: zoras_domain_oot
-    title: "Zora's Domain"
-    path: "Zora's Domain.miniusf"
-    type: break
-  - id: house_oot
-    title: "House"
-    path: "House.brstm"
-    type: break
-  - id: boss_battle_oot
-    title: "Boss Battle"
-    path: "Boss Battle.brstm"
-    type: warning
-  - id: great_fairy_fountain_oot
-    title: "Great Fairy's Fountain"
-    path: "Great Fairy's Fountain.brstm"
-    type: break
-  - id: horse_race_oot
-    title: "Horse Race"
-    path: "Horse Race.brstm"
-    type: warning
-  - id: kokiri_forest_oot
-    title: "Kokiri Forest"
-    path: "Kokiri Forest.brstm"
-    type: betting
-  - id: lost_woods_oot
-    title: "Lost Woods"
-    path: "Lost Woods.brstm"
-    type: betting
-  - id: market_oot
-    title: "Market"
-    path: "Market.brstm"
-    type: break
-  - id: shop_oot
-    title: "Shop"
-    path: "Shop.brstm"
-    type: break
-  - id: windmill_hut_oot
-    title: "Windmill Hut"
-    path: "Windmill Hut.brstm"
-    type: betting
-  - id: forest_temple_oot
+  - id: forest_temple
     title: "Forest Temple"
     path: "59 Forest Temple.miniusf"
+    type: betting
+  - id: shadow_temple
+    title: "Shadow Temple"
+    path: "67 Shadow Temple.miniusf"
     type: break
+  - id: inside_ganons_castle
+    title: "Inside Ganon's Castle"
+    path: "76 Inside Ganon's Castle.miniusf"
+    type: betting
 ...

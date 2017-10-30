@@ -5,8 +5,24 @@ series: castlevania
 platform: "SNES"
 year: 1991
 songs: 
+  - id: password
+    title: "Password"
+    path: "04 Password.spc"
+    type: result
   - id: theme_of_simon
     title: "Theme of Simon"
     path: "06 Theme of Simon.spc"
+    type: battle
+  - id: forest_of_monsters
+    title: "Forest of Monsters"
+    path: "07 Forest of Monsters.spc"
     type: betting
+  - id: entrance_hall
+    title: "Entrance Hall"
+    path: "18 Entrance Hall.spc"
+    type: result
+  - id: beginning_super_castlevania_iv
+    title: "Beginning"
+    path: "29 Beginning.spc"
+    type: battle
 ...

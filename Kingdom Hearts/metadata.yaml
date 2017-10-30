@@ -1,60 +1,12 @@
 ---
 id: kingdom_hearts
-platform: "PS2"
 title: "Kingdom Hearts"
 series: kingdomhearts
+platform: "PS2"
 year: 2002
 songs: 
-  - id: forze_del_male
-    path: "Forze del Male.brstm"
-    title: "Forze del Male"
+  - id: spooks_of_halloween_town_kingdom_hearts
+    title: "Spooks of Halloween Town"
+    path: "Spooks of Halloween Town.psf2"
     type: battle
-  - id: hollow_bastion
-    title: "Hollow Bastion"
-    path: "Hollow Bastion.brstm"
-    type: betting
-  - id: traverse_town
-    title: "Traverse Town"
-    path: "Traverse Town.brstm"
-    type: betting
-  - id: scherzo_di_notte
-    title: "Scherzo di Notte"
-    path: "Scherzo di Notte.brstm"
-    type: warning
-  - id: the_deep_end
-    title: "The Deep End"
-    path: "The Deep End.brstm"
-    type: battle
-  - id: squirming_evil
-    title: "Squirming Evil"
-    path: "Squirming Evil.brstm"
-    type: warning
-  - id: shrouding_dark_cloud
-    title: "Shrouding Dark Cloud"
-    path: "Shrouding Dark Cloud.brstm"
-    type: betting
-  - id: hand_in_hand
-    title: "Hand in Hand"
-    path: "Hand in Hand.brstm"
-    type: betting
-  - id: guardando_nel_buio
-    title: "Guardando nel Buio"
-    path: "Guardando Nel Buio.brstm"
-    type: battle
-  - id: end_of_the_world
-    title: "End of the World"
-    path: "End of the World.brstm"
-    type: warning
-  - id: to_our_surprise_kh1
-    title: "To Our Surprise"
-    path: "To Our Surprise.brstm"
-    type: warning
-  - id: kairi_i_kh1
-    title: "Kairi I"
-    path: "Kairi I.brstm"
-    type: break
-  - id: merlins_magical_house
-    title: "Merlin's Magical House"
-    path: "Merlin's Magical House.psf2"
-    type: break
 ...

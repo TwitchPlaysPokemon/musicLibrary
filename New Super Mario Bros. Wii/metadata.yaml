@@ -4,45 +4,9 @@ title: "New Super Mario Bros. Wii"
 series: mario
 platform: "Wii"
 year: 2009
-songs:
-  - id: airship_nsmbwii
-    title: "Airship"
-    path: "Airship.brstm"
+songs: 
+  - id: ghost_house_nsmbw
+    title: "Ghost House"
+    path: "BGM_OBAKE.32.brstm"
     type: betting
-  - id: castle_nsmbwii
-    title: "Castle"
-    path: "Castle.brstm"
-    type: betting
-  - id: fortress_nsmbwii
-    title: "Fortress"
-    path: "Fortress.brstm"
-    type: betting
-  - id: world_9_map
-    title: "World 9 Map"
-    path: "World 9 Map.brstm"
-    type: betting
-  - id: bowser_jr_nsmbwii
-    title: "Bowser Jr."
-    path: "Bowser Jr..brstm"
-    type: warning
-  - id: world_2_map
-    title: "World 2 Map"
-    path: "World 2 Map.brstm"
-    type: warning
-  - id: world_8_map
-    title: "World 8 Map"
-    path: "World 8 Map.brstm"
-    type: warning
-  - id: mid_boss_nsmbwii
-    title: "Mid Boss"
-    path: "Mid Boss.brstm"
-    type: battle
-  - id: battle_nsmbwii
-    title: "Battle"
-    path: "Battle.brstm"
-    type: warning
-  - id: final_boss_phase_2_main
-    title: "Final Boss Phase 2 - Main"
-    path: "STRM_BGM_LAST_BOSS2.brstm"
-    type: warning
 ...

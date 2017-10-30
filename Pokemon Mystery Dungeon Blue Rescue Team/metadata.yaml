@@ -1,73 +1,32 @@
-﻿---
+---
 id: pokemon_mystery_dungeon_blue_rescue_team
-title: "Pokémon Mystery Dungeon: Blue Rescue Team"
+title: "Pokémon Mystery Dungeon Blue Rescue Team"
 series: pokemon
 platform: "NDS"
 year: 2005
 songs: 
-  - id: thunderwave_cave_pmd_blue
-    title: "Thunderwave Cave"
-    path: "Thunderwave Cave.mini2sf"
+  - id: theres_trouble
+    title: "There's Trouble!"
+    path: "06 There's Trouble! [SND_BGM_M_EVENT_KINPAKU].mini2sf"
+    type: warning
+  - id: sinister_woods
+    title: "Sinister Woods"
+    path: "18 Sinister Woods [SND_BGM_M_DUNGEON_AYASHIIMORI_01].mini2sf"
     type: betting
-  - id: friend_area_pond_pmd_blue
-    title: "Friend Area ~ Pond"
-    path: "Friend Area Pond.brstm"
-    type: betting
-  - id: mt_thunder_pmd_blue
-    title: "Mt. Thunder"
-    path: "Mt. Thunder.mini2sf"
-    type: betting
-  - id: great_canyon_pmd_blue
-    path: "Great Canyon.mini2sf"
-    title: "Great Canyon"
-    type: betting
-  - id: the_legend_of_ninetales_pmd_blue
-    title: "The Legend of Ninetales"
-    path: "The Legend of Ninetales.mini2sf"
-    type: betting
-  - id: mt_blaze_pmd_blue
-    path: "Mt. Blaze.mini2sf"
-    title: "Mt. Blaze"
-    type: betting
-  - id: magma_cavern_pmd_blue
-    title: "Magma Cavern"
-    path: "Magma Cavern.mini2sf"
-    type: betting
-  - id: sky_tower_pmd_blue
-    title: "Sky Tower"
-    path: "Sky Tower.mini2sf"
-    ends: 3:43
-    type: betting
-  - id: buried_relic_pmd_blue
-    title: "Buried Relic"
-    path: "Buried Relic.mini2sf"
-    type: betting
-  - id: final_battle_vs_rayquaza_pmd_blue
-    title: "Final Battle Vs. Rayquaza"
-    path: "Vs. Rayquaza.mini2sf"
+  - id: thief
+    title: "Thief!"
+    path: "30 Thief! [SND_BGM_M_SYS_STEAL].mini2sf"
+    type: warning
+  - id: gardevoir_inside_of_a_dream
+    title: "Gardevoir Inside of a Dream"
+    path: "34 Gardevoir Inside of a Dream [SND_BGM_M_EVENT_DREAM_02].mini2sf"
+    type: break
+  - id: its_a_monster_house
+    title: "It's a Monster House!"
+    path: "37 It's a Monster House! [SND_BGM_M_SYS_MONSTER].mini2sf"
     type: battle
-  - id: happiness_pmd_blue
-    title: "Happiness"
-    path: "Happiness.brstm"
-    type: result
-  - id: danger_theres_trouble_pmd_blue
-    title: "Danger! There's Trouble!"
-    path: "Danger.brstm"
-    type: warning
-  - id: magma_cavern_pit_pmd_blue
-    path: "Magma Cavern Pit.mini2sf"
-    title: "Magma Cavern Pit"
-    type: warning
-  - id: world_calamity_pmd_blue
-    title: "World Calamity"
-    path: "World Calamity.mini2sf"
-    type: warning
-  - id: rescue_team_base_pmd_blue
-    title: "Rescue Team Base"
-    path: "Rescue Team Base.mini2sf"
-    type: break
-  - id: kecleon_shop_pmd_blue
-    title: "Kecleon Shop"
-    path: "Kecleon Shop.mini2sf"
-    type: break
+  - id: battle_with_rayquaza
+    title: "Battle with Rayquaza"
+    path: "43 Battle with Rayquaza [SND_BGM_M_BOSS02].mini2sf"
+    type: battle
 ...

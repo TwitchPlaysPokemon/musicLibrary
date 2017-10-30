@@ -1,41 +1,15 @@
+---
 id: dark_cloud
 title: "Dark Cloud"
-year: 2000
 platform: "PS2"
+year: 2000
 songs:
-  - id: departure_dark_cloud
-    title: "Departure"
-    path: "Departure.psf2"
-    type: betting
-  - id: the_daily_life
-    title: "The Daily Life"
-    path: "The Daily Life.psf2"
-    type: break
-  - id: demon_shaft
-    title: "Demon Shaft"
-    path: "Demon Shaft.psf2"
-    type: break
-  - id: queens
-    title: "Queens"
-    path: "Queens.psf2"
-    type: break
-  - id: muska_lacka
-    title: "Muska Lacka"
-    path: "Muska Lacka.psf2"
-    type: betting
-  - id: sun_and_moon_temple
-    title: "Sun and Moon Temple"
-    path: "Sun and Moon Temple.psf2"
-    type: betting
-  - id: wise_owl_forest
-    title: "Wise Owl Forest"
-    path: "Wise Owl Forest.psf2"
-    type: betting
-  - id: last_battle_dark_cloud
-    title: "Last Battle"
-    path: "Last Battle.psf2"
+  - id: resurrection_of_the_dark_genie
+    title: "Resurrection of the Dark Genie"
+    path: "Resurrection of the Dark Genie.psf2"
     type: warning
-  - id: yellow_drops
-    title: "Yellow Drops"
-    path: "Yellow Drops.psf2"
-    type: break
+  - id: the_ice_queen
+    title: "The Ice Queen"
+    path: "The Ice Queen.psf2"
+    type: warning
+...

@@ -4,29 +4,13 @@ title: "Mario Kart Wii"
 series: mario
 platform: "Wii"
 year: 2008
-songs:
-  - id: boss_mkwii
-    title: "Boss"
-    path: "Boss.brstm"
+songs: 
+  - id: gba_bowser_castle_3
+    title: "GBA Bowser Castle 3"
+    path: "r_AGB_Kuppa32_n.brstm"
+    type: battle
+  - id: snes_ghost_valley_2
+    title: "SNES Ghost Valley 2"
+    path: "r_SFC_Obake32_n.brstm"
     type: warning
-  - id: maple_treeway_mkwii
-    title: "Maple Treeway"
-    path: "Maple Treeway.brstm"
-    type: betting
-  - id: ds_peach_gardens
-    title: "DS Peach Gardens"
-    path: "DS Peach Gardens.brstm"
-    type: betting
-  - id: toad_factory_inside
-    title: "Toad's Factory - Inside"
-    path: "Toad's Factory - Inside.brstm"
-    type: betting
-  - id: coconut_mall
-    title: "Coconut Mall"
-    path: "Coconut Mall.brstm"
-    type: betting
-  - id: moo_moo_meadows
-    title: "Moo Moo Meadows"
-    path: "n_Farm_n.brstm"
-    type: betting
 ...

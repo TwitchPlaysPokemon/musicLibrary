@@ -2,39 +2,11 @@
 id: metal_gear_solid_2_sons_of_liberty
 title: "Metal Gear Solid 2: Sons of Liberty"
 series: metalgear
-year: 2001
 platform: "PS2"
-songs:
-  - id: confronting_olga
-    title: "Confronting Olga"
-    path: "Confronting Olga.brstm"
-    type: battle
-  - id: yell_dead_cell
-    title: "Yell Dead Cell (Album Version)"
-    path: "Yell Dead Cell (Album Version).brstm"
-    type: warning
-  - id: father_and_son
-    title: "Father And Son"
-    path: "Father And Son.brstm"
-    type: warning
-  - id: battle_on_the_big_shell
-    title: "Battle On The Big Shell (Album Version)"
-    path: "Battle On The Big Shell (Album Version).brstm"
-    type: betting
-  - id: tanker_incident
-    title: "Tanker Incident (Album Version)"
-    path: "Tanker Incident (Album Version).brstm"
-    type: warning
-  - id: main_menu_metal_gear_solid_2_sons_of_liberty
+year: 2001
+songs: 
+  - id: main_menu
     title: "Main Menu"
     path: "Main Menu.brstm"
     type: break
-  - id: power_room
-    title: "Power Room"
-    path: "Power Room.brstm"
-    type: break
-  - id: twilight_sniping_album_version
-    title: "Twilight Sniping (Album Version)"
-    path: "Twilight Sniping (Album Version).brstm"
-    type: betting
 ...

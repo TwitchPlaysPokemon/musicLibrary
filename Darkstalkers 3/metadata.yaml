@@ -1,0 +1,16 @@
+---
+id: darkstalkers_3
+title: "Darkstalkers 3"
+series: darkstalker
+platform: ["Arcade", "Saturn", "PS1"]
+year: 1997
+songs: 
+  - id: green_scream
+    title: "GREEN SCREAM"
+    path: "18 GREEN SCREAM.vgz"
+    type: betting
+  - id: war_agony
+    title: "WAR AGONY"
+    path: "35 WAR AGONY.vgz"
+    type: battle
+...

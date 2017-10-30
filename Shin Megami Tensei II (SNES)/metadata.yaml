@@ -1,0 +1,51 @@
+---
+id: shin_megami_tensei_ii_sfc
+title: "Shin Megami Tensei II (SFC)"
+platform: "Various"
+year: 1994
+songs: 
+  - id: neutral_smt_ii_sfc
+    title: "Neutral"
+    path: "07 Neutral.spc"
+    type: warning
+  - id: 2d_field_smt_ii_sfc
+    title: "2D - Field"
+    path: "08 2D - Field.spc"
+    type: betting
+  - id: encounter_smt_ii_sfc
+    title: "Encounter"
+    path: "09 Encounter.spc"
+    type: warning
+  - id: battle_smt_ii_sfc
+    title: "Battle"
+    path: "10 Battle.spc"
+    type: battle
+  - id: jakyou_no_yakata_smt_ii_sfc
+    title: "Jakyou no Yakata"
+    path: "15 Jakyou no Yakata.spc"
+    type: betting
+  - id: devils_fusion_smt_ii_sfc
+    title: "Devils Fusion"
+    path: "16 Devils Fusion.spc"
+    type: warning
+  - id: 3d_underground_smt_ii_sfc
+    title: "3D - Underground"
+    path: "18 3D - Underground.spc"
+    type: betting
+  - id: boss_battle_smt_ii_sfc
+    title: "Boss Battle"
+    path: "19 Boss Battle.spc"
+    type: battle
+  - id: disco_smt_ii_sfc
+    title: "Disco"
+    path: "23 Disco.spc"
+    type: betting
+  - id: 2d_makai_smt_ii_sfc
+    title: "2D - Makai"
+    path: "24 2D - Makai.spc"
+    type: betting
+  - id: game_over_smt_ii_sfc
+    title: "Game Over"
+    path: "28 Game Over.spc"
+    type: result
+...

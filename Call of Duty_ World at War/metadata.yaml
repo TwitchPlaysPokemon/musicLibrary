@@ -1,23 +1,12 @@
-id: cod_world_at_war
+---
+id: call_of_duty_world_at_war
 title: "Call of Duty: World at War"
-platform: ["360", "Various"]
-#other platforms: ["PS3", "PC", "Wii", "NDS"]
 series: callofduty
+platform: "Various"
 year: 2008
-songs:
-  - id: dusk_cod
-    title: "Dusk"
-    path: "Dusk (UST) (No Intro).brstm"
-    type: battle
-  - id: hell_gate_cod
-    title: "Hell's Gate"
-    path: "Hell's Gate.brstm"
-    type: warning
-  - id: dog_fire_cod
-    title: "Dog Fire"
-    path: "Dog Fire.brstm"
-    type: warning
-  - id: areia_cod
-    title: "Areia"
-    path: "Areia (In-Game).brstm"
-    type: betting
+songs: 
+  - id: brave_soldat
+    title: "Brave Soldat"
+    path: "Brave Soldat.brstm"
+    type: break
+...

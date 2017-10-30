@@ -1,48 +1,40 @@
 ---
-id: fire_emblem_fates
+id: fire Emblem Fates
 title: "Fire Emblem Fates"
 series: fireemblem
 platform: "3DS"
 year: 2015
-songs:
-  - id: resolve_light
-    title: "Resolve (Light)"
-    path: "sys_base_A1.dspadpcm.bcstm"
-    type: betting
-  - id: resolve_dark
-    title: "Resolve (Dark)"
-    path: "sys_base_B1.dspadpcm.bcstm"
-    type: betting
-  - id: those_who_visit
-    title: "Those Who Visit"
-    path: "sys_base_C1.dspadpcm.bcstm"
-    type: betting
-  - id: dusk_falls
-    title: "Dusk Falls"
-    path: "Dusk Falls.brstm"
-    type: betting
-  - id: no_justice
-    title: "No Justice"
-    path: "No Justice.brstm"
-    type: betting
-  - id: vanity_judge
-    title: "Vanity Judge"
-    path: "Vanity Judge.brstm"
-    type: betting
-  - id: endless_nightmare
-    title: "Endless Nightmare"
-    path: "Endless Nightmare.brstm"
+songs: 
+  - id: dark_wastes
+    title: "Dark Wastes"
+    path: "Dark Wastes.brstm"
+    type: battle
+  - id: spreading_shadow
+    title: "Spreading Shadow"
+    path: "evt_enemy_E1.dspadpcm.bcstm"
     type: warning
-  - id: boss_marth_fef
-    title: "Boss - Marth"
-    path: "Boss - Marth.brstm"
-    type: battle
-  - id: road_taken_roar
-    title: "Road Taken (Roar)"
-    path: "Road Taken (Roar).brstm"
-    type: battle
-  - id: past_below
-    title: "Past Below"
-    path: "Past Below.brstm"
+  - id: coming_demise
+    title: "Coming Demise"
+    path: "evt_evil_C1.dspadpcm.bcstm"
+    type: warning
+  - id: prelude_to_disaster
+    title: "Prelude to Disaster"
+    path: "evt_strain_E2.dspadpcm.bcstm"
+    type: warning
+  - id: the_dim_abyss
+    title: "The Dim Abyss"
+    path: "evt_uncanny_E1.dspadpcm.bcstm"
+    type: betting
+  - id: puppets_feast
+    title: "Puppet's Feast"
+    path: "Puppet's Feast.brstm"
+    type: betting
+  - id: thorn_in_you
+    title: "Thorn in You"
+    path: "Thorn in You.brstm"
     type: break
+  - id: you_of_the_dark
+    title: "You of the Dark"
+    path: "You of the Dark.brstm"
+    type: battle
 ...

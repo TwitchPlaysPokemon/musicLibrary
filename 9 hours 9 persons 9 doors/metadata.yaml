@@ -1,15 +1,20 @@
 ---
 id: nine_hours_nine_persons_nine_doors
-platform: "NDS"
 title: "Nine Hours, Nine Persons, Nine Doors"
+series: zeroescape
+platform: "NDS"
 year: 2009
 songs: 
-  - id: nonary_game
-    title: "Nonary Game"
-    path: "Nonary Game.brstm"
-    type: warning
-  - id: ternary_game
-    title: "Ternary Game"
-    path: "Ternary Game.brstm"
+  - id: quinary_game
+    title: "Quinary Game"
+    path: "Quinary Game.brstm"
+    type: betting
+  - id: quietus
+    title: "Quietus"
+    path: "Quietus.brstm"
+    type: betting
+  - id: foreboding
+    title: "Foreboding"
+    path: "Foreboding.brstm"
     type: betting
 ...

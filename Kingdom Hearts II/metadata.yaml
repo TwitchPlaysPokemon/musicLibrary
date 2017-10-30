@@ -2,51 +2,19 @@
 id: kingdom_hearts_ii
 title: "Kingdom Hearts II"
 series: kingdomhearts
-year: 2005
 platform: "PS2"
-songs:
-  - id: the_13th_struggle
-    title: "The 13th Struggle"
-    path: "The 13th Struggle.brstm"
-    type: battle
-  - id: sora
-    title: "Sora"
-    path: "Sora.brstm"
-    type: result
-  - id: sacred_moon
-    title: "Sacred Moon"
-    path: "Sacred Moon.brstm"
-    type: warning
-  - id: vim_and_vigor
-    title: "Vim and Vigor"
-    path: "Vim and Vigor.brstm"
-    type: battle
-  - id: the_corrupted
-    title: "The Corrupted"
-    path: "The Corrupted.brstm"
-    type: warning
-  - id: the_afternoon_streets
-    title: "The Afternoon Streets"
-    path: "The Afternoon Streets.brstm"
-    type: break
-  - id: reviving_hollow_bastion
-    title: "Reviving Hollow Bastion"
-    path: "Reviving Hollow Bastion.brstm"
+year: 2005
+songs: 
+  - id: waltz_of_the_damned
+    title: "Waltz of the Damned"
+    path: "130 - Waltz of the DAM0ned.psf2"
     type: betting
-  - id: darkness_of_the_unknown_xemnas
-    title: "Darkness Of The Unknown (Xemnas)"
-    path: "Darkness Of The Unknown (Xemnas).brstm"
-    type: warning
-  - id: crossing_the_finish_line
-    title: "Crossing the Finish Line"
-    path: "Crossing the Finish Line.brstm"
-    type: result
-  - id: apprehension
-    title: "Apprehension"
-    path: "Apprehension.brstm"
-    type: warning
   - id: this_is_halloween
-    title: "This Is Halloween"
-    path: "This Is Halloween.brstm"
+    title: "This is Halloween"
+    path: "214 - This is Halloween.psf2"
     type: betting
+  - id: spooks_of_halloween_town_kingdom_hearts_ii
+    title: "Spooks of Halloween Town"
+    path: "215 - Spooks of Halloween Town.psf2"
+    type: battle
 ...

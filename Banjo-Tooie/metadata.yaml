@@ -2,207 +2,59 @@
 id: banjo_tooie
 title: "Banjo-Tooie"
 series: banjo
-year: 2000
 platform: "N64"
-songs:
-  - id: hag_1
-    title: "Hag 1 - Monstrous Mechanical Mud-Muncher"
-    path: "Hag 1 - Monstrous Mechanical Mud-Muncher.brstm"
-    type: battle
-  - id: party_at_bottles
-    title: "Party at Bottles'"
-    path: "Party at Bottles.brstm"
+year: 2000
+songs: 
+  - id: an_evil_plan_2nd_half
+    title: "An Evil Plan (2nd half)"
+    path: "an evil plan (second half).miniusf"
     type: betting
-  - id: jiggywiggys_temple
-    title: "Jiggywiggy's Temple"
-    path: "Jiggywiggy's Temple.brstm"
+  - id: bob_sucking
+    title: "B.O.B Sucking"
+    path: "b.o.b. sucking.miniusf"
     type: warning
-  - id: jamjar_lesson
-    title: "Sergeant Jamjars' Lesson"
-    path: "Sergeant Jamjar's Lesson.brstm"
-    type: warning
+  - id: cauldron_keep_gun_chamber
+    title: "Cauldron Keep: Gun Chamber"
+    path: "cauldron keep - gun chamber.miniusf"
+    type: betting
+  - id: flying_saucer_happy
+    title: "Flying Saucer (Happy)"
+    path: "flying saucer (happy).miniusf"
+    type: result
+  - id: flying_saucer_sad
+    title: "Flying Saucer (Sad)"
+    path: "flying saucer (sad).miniusf"
+    type: betting
+  - id: grunty_industries_elevator
+    title: "Grunty Industries (Elevator)"
+    path: "grunty industries - elevator shaft.miniusf"
+    type: betting
+  - id: hag_1
+    title: "Hag 1"
+    path: "hag 1.miniusf"
+    type: battle
   - id: here_comes_trouble
-    title: "Here Comes Trouble..."
+    title: "Here Comes Trouble"
     path: "here comes trouble.miniusf"
     type: warning
-  - id: jinjo_village_Main
-    title: "Jinjo Village (Main)"
-    path: "Jinjo Village - Main.brstm"
-    type: betting
-  - id: joly_roger_lagoon_atlantis
-    title: "Jolly Roger's Lagoon - Atlantis"
-    path: "Jolly Roger's Lagoon - Atlantis.brstm"
-    type: break
-  - id: chilli_billi_chilly_willy
-    title: "Chilli Billi and Chilly Willy Battle"
-    path: "Chilli Billi and Chilly Willy Battle.brstm"
-    type: battle
-  - id: cloud_cuckooland_cloud_race
-    title: "Cloud Cuckooland - Cloud Race"
-    path: "Cloud Cuckooland - Cloud Race.brstm"
-    type: warning
-  - id: lord_woo_fak_fak
-    title: "Lord Woo Fak Fak - Self-Important Anglerfish"
-    path: "Lord Woo Fak Fak - Self-Important Anglerfish.brstm"
-    type: battle
-  - id: mingy_jongo
-    title: "Mingy Jongo - Crafty Shaman Impersonator"
-    path: "Mingy Jongo - Crafty Shaman Impersonator.brstm"
-    type: warning
-  - id: mr_patch_banjo
-    title: "Mr. Patch - Strange Wobbly Inflatable Thing"
-    path: "Mr. Patch - Strange Wobbly Inflatable Thing.brstm"
-    type: warning
-  - id: old_king_coal
-    title: "Old King Coal - Grubby Boiler Monarch"
-    path: "Old King Coal - Grubby Boiler Monarch.brstm"
-    type: battle
-  - id: pause_screen_tooie
-    title: "Pause Screen"
-    path: "Pause Screen.brstm"
-    type: break
-  - id: shootin_with_the_fishes
-    title: "Shootin' with the Fishes"
-    path: "Shootin' with the Fishes.brstm"
-    type: warning
-  - id: targitzan
-    title: "Targitzan - Despotic Dizzy Totem God"
-    path: "Targitzan - Despotic Dizzy Totem God.brstm"
-    type: warning
-  - id: terry_disgrunted_pterodactyl_parent
-    title: "Terry - Disgruntled Pterodactyl Parent"
-    path: "Terry - Disgruntled Pterodactyl Parent.brstm"
-    type: warning
-  - id: tower_of_tragedy_tooie
-    title: "Tower of Tragedy"
-    path: "Tower of Tragedy.brstm"
-    type: result
-  - id: weldar
-    title: "Weldar - Visually-Impaired Welding Torch"
-    path: "Weldar - Visually-Impaired Welding Torch.brstm"
-    type: battle
-  - id: racin_with_mary
-    title: "Glitter Gulch Mine - Racin' With Mary"
-    path: "Glitter Gulch Mine - Racin' With Mary.brstm"
-    type: warning
-  - id: hailfire_peaks_ice_side
-    title: "Hailfire Peaks: Ice Side"
-    path: "Hailfire Peaks - Ice Side.brstm"
-    type: betting
-  - id: cauldron_keep_gun_chamber
-    title: "Cauldron Keep - Gun Chamber"
-    path: "Cauldron Keep - Gun Chamber.brstm"
-    type: betting
-  - id: cloud_cuckooland_central_cavern
-    title: "Cloud Cuckooland - Central Cavern"
-    path: "Cloud Cuckooland - Central Cavern.brstm"
-    type: betting
-  - id: cloud_cuckooland_main
-    title: "Cloud Cuckooland - Main"
-    path: "Cloud Cuckooland - Main.brstm"
-    type: betting
-  - id: glitter_gulch_mine_main
-    title: "Glitter Gulch Mine - Main"
-    path: "Glitter Gulch Mine - Main.brstm"
-    type: betting
-  - id: gruntilda_bt
-    title: "Gruntilda's Lair"
-    path: "Gruntilda's Lair.brstm"
-    type: betting
-  - id: grunty_industries_main
-    title: "Grunty Industries - Main"
-    path: "Grunty Industries - Main.brstm"
-    type: betting
-  - id: hailfire_peaks_lava
-    title: "Hailfire Peaks - Lava Side"
-    path: "Hailfire Peaks - Lava.brstm"
-    type: betting
-  - id: jolly_roger_lagoon_main
-    title: "Jolly Roger's Lagoon - Main"
-    path: "Jolly Roger's Lagoon - Main.brstm"
-    type: betting
-  - id: mayahem_temple_main
-    title: "Mayahem Temple - Main"
-    path: "Mayahem Temple - Main.brstm"
-    type: betting
-  - id: witchyworld_haunted
-    title: "Witchyworld - Haunted Zone"
-    path: "Witchyworld - Haunted Zone.brstm"
-    type: betting
-  - id: witchyworld_space
-    title: "Witchyworld - Space Zone"
-    path: "Witchyworld - Space Zone.brstm"
-    type: betting
-  - id: bottles_revived
-    title: "Bottles Revived"
-    path: "Bottles Revived.brstm"
-    type: warning
-  - id: clockwork_kazooie_bomb
-    title: "Clockwork Kazooie Bomb"
-    path: "Clockwork Kazooie Bomb.brstm"
-    type: warning
-  - id: enter_the_heroes
-    title: "Enter the Heroes"
-    path: "Enter the Heroes.brstm"
-    type: warning
-  - id: fun_n_games
-    title: "Fun 'N' Games"
-    path: "Fun 'N' Games.brstm"
-    type: battle
-  - id: jiggywiggy_challenge
-    title: "Jiggywiggy's Challenge"
-    path: "Jiggywiggy's Challenge.brstm"
-    type: betting
   - id: klungo
     title: "Klungo"
-    path: "Klungo.brstm"
+    path: "klungo.miniusf"
     type: betting
-  - id: mayahem_temple_kickball
-    title: "Mayahem Temple - Kickball Stadium Approach"
-    path: "Mayahem Temple - Kickball Stadium Approach.brstm"
-    type: warning
-  - id: glitter_gulch_mile_ordinance_storage
-    title: "Glitter Gulch Mine - Ordinance Storage"
-    path: "Glitter Gulch Mine - Ordinance Storage.brstm"
+  - id: mingy_jonjo
+    title: "Mingy Jonjo"
+    path: "mingy jongo.miniusf"
+    type: battle
+  - id: weldar
+    title: "Weldar"
+    path: "weldar.miniusf"
+    type: battle
+  - id: witchyworld_outside_inferno
+    title: "Witchyworld (Outside Inferno)"
+    path: "witchyworld - outside inferno area.miniusf"
     type: betting
-  - id: credits_roll_bt
-    title: "Credits Roll"
-    path: "Credits Roll.brstm"
-    type: result
-  - id: jinjo_village_happy_jinjo_house
-    title: "Jinjo Village - Happy Jinjo House"
-    path: "Jinjo Village - Happy Jinjo House.brstm"
-    type: result
-  - id: king_jingaling_throne_room
-    title: "King Jingaling's Throne Room"
-    path: "King Jingaling's Throne Room.brstm"
-    type: result
-  - id: the_end_bt
-    title: "The End"
-    path: "The End.brstm"
-    type: result
-  - id: cloud_cuckooland_pot_o_gold
-    title: "Cloud Cuckooland - Inside the Pot O' Gold"
-    path: "Cloud Cuckooland - Inside the Pot O' Gold.brstm"
-    type: break
-  - id: glitter_gulch_mine_crushing_shed
-    title: "Glitter Gulch Mine - Crushing Shed"
-    path: "Glitter Gulch Mine - Crushing Shed.brstm"
-    type: break
-  - id: grunty_industries_aquatic
-    title: "Grunty Industries - Aquatic"
-    path: "Grunty Industries - Aquatic.brstm"
-    type: break
-  - id: hailfire_peaks_colosseum
-    title: "Hailfire Peaks - Colosseum"
-    path: "Hailfire Peaks - Colosseum.brstm"
-    type: break
-  - id: mumbo_skull
-    title: "Mumbo's Skull"
-    path: "Mumbo's Skull.brstm"
-    type: break
-  - id: terrydactyland_interiors
-    title: "Terrydactyland - Interiors"
-    path: "Terrydactyland - Interiors.brstm"
-    type: break
+  - id: witchyworld_the_inferno
+    title: "Witchyworld - The Inferno"
+    path: "witchyworld - the inferno.miniusf"
+    type: betting
 ...

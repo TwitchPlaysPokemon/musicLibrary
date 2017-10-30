@@ -4,86 +4,49 @@ title: "Chrono Trigger"
 series: chrono
 platform: "SNES"
 year: 1995
-songs:
-  - id: guardia_millennial_fair
-    title: "Guardia Millennial Fair"
-    path: "106 Guardia Millennial Fair.spc"
+songs: 
+  - id: a_strange_happening
+    title: "A Strange Happening"
+    path: "108 A Strange Happening.spc"
+    type: warning
+  - id: ruined_world
+    title: "Ruined World"
+    path: "201 Ruined World.spc"
+    type: break
+  - id: underground_sewer_no_water
+    title: "Underground Sewer (No Water)"
+    path: "216 Underground Sewer (No Water).spc"
     type: betting
-  - id: guardia_castle_courage_and_pride
-    title: "Guardia Castle ~Courage and Pride~"
-    path: "Guardia Castle.brstm"
+  - id: confusing_melody
+    title: "Confusing Melody"
+    path: "223 Confusing Melody.spc"
+    type: warning
+  - id: battle_with_magus
+    title: "Battle with Magus"
+    path: "224 Battle with Magus.spc"
+    type: battle
+  - id: tyran_castle
+    title: "Tyran Castle"
+    path: "302 Tyran Castle.spc"
     type: betting
-  - id: kingdom_trial
-    title: "Kingdom Trial"
-    path: "121 Kingdom Trial.spc"
-    type: betting
-  - id: delightful_spekkio
-    title: "Delightful Spekkio"
-    path: "214 Delightful Spekkio.spc"
+  - id: zeal_palace
+    title: "Zeal Palace"
+    path: "305 Zeal Palace.spc"
     type: betting
   - id: undersea_palace
     title: "Undersea Palace"
-    path: "Undersea Palace.spc"
-    type: betting
+    path: "308 Undersea Palace.spc"
+    type: battle
   - id: black_omen
     title: "Black Omen"
     path: "311 Black Omen.spc"
     type: betting
-  - id: battle_with_magus
-    title: "Battle with Magus"
-    path: "Battle with Magus.spc"
+  - id: last_battle
+    title: "Last Battle"
+    path: "314 Last Battle.spc"
     type: battle
-  - id: chrono_trigger
-    title: "Chrono Trigger"
-    path: "102 Chrono Trigger (Looped).spc"
-    type: result
-  - id: frogs_theme
-    title: "Frog's Theme"
-    path: "Frog's Theme.brstm"
-    type: result
-  - id: fanfare_1
-    title: "Fanfare 1"
-    path: "120 Fanfare 1.spc"
-    type: result
-  - id: robos_theme
-    title: "Robo's Theme"
-    path: "Robo's Theme.spc"
-    type: result
-  - id: to_far_away_times
-    title: "To Far Away Times"
-    ends: 3:14
-    path: "317 To Far Away Times.spc"
-    type: betting
-  - id: gatos_song
-    title: "Gato's Song"
-    path: "Gato's Song.spc"
-    type: warning
-  - id: the_hidden_truth
-    title: "The Hidden Truth"
-    path: "122 The Hidden Truth (Looped).spc"
-    type: warning
-  - id: lavos_theme
-    title: "Lavos' Theme"
-    path: "205 Lavos' Theme.spc"
-    type: warning
-  - id: aylas_theme
-    title: "Ayla's Theme"
-    path: "Ayla's Theme.spc"
-    type: warning
-  - id: burn_bobonga
-    title: "Burn! Bobonga!"
-    path: "221 Burn! Bobonga!.spc"
-    type: warning
-  - id: a_meeting_with_destiny
-    title: "A Meeting With Destiny"
-    path: "A Meeting With Destiny.psf"
-    type: break
-  - id: corridors_of_time
-    title: "Corridors of Time"
-    path: "304 Corridors of Time.spc"
-    type: break
-  - id: secret_of_the_forest
-    title: "Secret of the Forest"
-    path: "111 Secret of the Forest.spc"
+  - id: time_vortex
+    title: "Time Vortex"
+    path: "999 Time Vortex.spc"
     type: break
 ...

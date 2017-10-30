@@ -1,0 +1,12 @@
+---
+id: super_mario_64_ds
+title: "Super Mario 64 DS"
+series: mario
+platform: "NDS"
+year: 2004
+songs: 
+  - id: stage_boss
+    title: "Stage Boss"
+    path: "19 BGM #19 [NCS_BGM_BOSS].mini2sf"
+    type: battle
+...

@@ -5,60 +5,16 @@ series: mario
 platform: "Wii"
 year: 2010
 songs: 
-  - id: bowsers_galaxy_generator_smg2
-    title: "Bowser's Galaxy Generator"
-    path: "SMG2_galaxy20_strm.ast"
+  - id: haunty_halls_galaxy_yoshi
+    title: "Haunty Halls Galaxy (Yoshi)"
+    path: "Haunty Halls Galaxy (Yoshi).brstm"
     type: betting
-  - id: bowser_jr_fiery_flotilla
-    title: "Bowser Jr.'s Fiery Flotilla"
-    path: "SMG2_galaxy31_strm.ast"
-    type: betting
-  - id: melty_monster_galaxy
-    title: "Melty Monster Galaxy"
-    path: "SMG2_galaxy30_strm.ast"
-    type: betting
-  - id: puzzle_plank_galaxy
-    title: "Puzzle Plank Galaxy"
-    path: "SMG2_galaxy29_strm.ast"
-    type: betting
-  - id: sky_station_galaxy_1
-    title: "Sky Station Galaxy"
-    path: "SMG2_galaxy06_strm.ast"
-    type: betting
-  - id: space_storm_galaxy
-    title: "Space Storm Galaxy"
-    path: "SMG2_galaxy12_strm.ast"
-    type: betting
-  - id: starshine_beach_galaxy_-_underwater
-    title: "Starshine Beach Galaxy ~Underwater~"
-    path: "Starshine Beach Galaxy - Underwater.brstm"
-    type: betting
-  - id: throwback_galaxy
-    title: "Throwback Galaxy"
-    path: "SMG2_galaxy21_strm.ast"
-    type: betting
-  - id: yoshi_star_galaxy
-    title: "Yoshi Star Galaxy"
-    path: "SMG2_galaxy32_strm.ast"
-    type: betting
-  - id: a-wa-wa-wa-wa-wa
-    title: "A-wa-wa-wa-wa-wa"
-    path: "A-wa-wa-wa-wa-wa!.brstm"
+  - id: tension_super_mario_galaxy_2
+    title: "Tension"
+    path: "SMG2_galaxy_danger_strm.ast"
     type: warning
-  - id: boss_blitz_galaxy
-    title: "Boss Blitz Galaxy"
-    path: "Boss Blitz Galaxy.brstm"
-    type: warning
-  - id: final_bowser_battle
-    title: "Final Bowser Battle"
-    path: "SMG2_boss10_strm.ast"
-    type: warning
-  - id: hurry_smg2
-    title: "Speed Run"
-    path: "SMG2_galaxy_hurry_strm.ast"
-    type: warning
-  - id: starship_mario_dispatch
-    title: "Starship Mario, Launch!"
-    path: "Starship Mario, Dispatch!.brstm"
-    type: warning
+  - id: bowsers_lava_lair
+    title: "Bowser's Lava Lair"
+    path: "SMG2_galaxy15_strm.ast"
+    type: betting
 ...

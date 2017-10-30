@@ -1,22 +1,12 @@
+---
 id: dissidia_final_fantasy
 title: "Dissidia Final Fantasy"
 series: finalfantasy
 platform: "PSP"
 year: 2008
 songs:
-  - id: ff5_clash_on_the_big_bridge
-    title: "FF5 - Clash on the Big Bridge"
-    path: "FF5 - Clash on the Big Bridge.brstm"
-    type: battle
   - id: original_victory_fanfare_chaos
     path: "Original - Victory Fanfare [Chaos].brstm"
     title: "Original - Victory Fanfare [Chaos]"
     type: result
-  - id: original_victory_fanfare_cosmos
-    path: "Original - Victory Fanfare [Cosmos].brstm"
-    title: "Original - Victory Fanfare [Cosmos]"
-    type: result
-#  - id: original_chaos_battle_3
-#    path: "Original - Chaos Battle 3.brstm"
-#   title: "Original - Chaos Battle 3"
-#   type: battle # contains lyrics
+...

@@ -1,56 +1,28 @@
 ---
 id: secret_of_mana
 title: "Secret of Mana"
-series: seikendensetsu
-year: 1993
+series: mana
 platform: "SNES"
-songs:
-  - id: what_the_forest_taught_me
-    title: "What the Forest Taught Me"
-    path: "What the Forest Taught Me.spc"
+year: 1993
+songs: 
+  - id: phantom_and_a_rose
+    title: "Phantom and a Rose"
+    path: "03 Phantom and a Rose.spc"
     type: betting
-  - id: meridian_dance
-    title: "Meridian Dance"
-    path: "Meridian Dance.spc"
-    type: battle
-  - id: danger_somsnes
-    title: "Danger!"
-    path: "Danger!.spc"
+  - id: in_the_dead_of_the_night
+    title: "In the Dead of the Night"
+    path: "12 In the Dead of the Night.spc"
     type: warning
-  - id: calm_before_the_storm
-    title: "Calm Before the Storm"
-    path: "Calm Before the Storm.spc"
-    type: result
-  - id: distant_thunder
-    title: "Distant Thunder"
-    path: "Distant Thunder.spc"
+  - id: ceremony_secret_of_mana
+    title: "Ceremony"
+    path: "32 Ceremony.spc"
     type: betting
-  - id: into_the_thick_of_it
-    title: "Into the Thick of it"
-    path: "Into the Thick of it.spc"
+  - id: the_curse
+    title: "The Curse"
+    path: "36 The Curse.spc"
     type: betting
-  - id: leave_time_for_love_mana_fortress
-    title: "Leave Time for Love (Mana Fortress)"
-    path: "Leave Time For Love (Mana Fortress).spc"
-    type: betting
-  - id: secret_of_the_arid_sands
-    title: "Secret of the Arid Sands"
-    path: "Secret of the Arid Sands.spc"
-    type: betting
-  - id: it_happened_late_one_evening
-    title: "It Happened Late One Evening"
-    path: "It Happened Late One Evening.spc"
-    type: betting
-  - id: the_little_sprite
-    title: "The Little Sprite"
-    path: "The Little Sprite.spc"
-    type: betting
-  - id: mystic_invasion
-    title: "Mystic Invasion"
-    path: "13 Mystic Invasion.spc"
-    type: betting
-  - id: the_color_of_the_summer_sky
-    title: "The Color of the Summer Sky"
-    path: "The Color of the Summer Sky.spc"
-    type: betting
+  - id: the_oracle
+    title: "The Oracle"
+    path: "37 The Oracle.spc"
+    type: battle
 ...

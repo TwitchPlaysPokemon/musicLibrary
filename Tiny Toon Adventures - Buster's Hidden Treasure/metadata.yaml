@@ -1,29 +1,11 @@
-id: tiny_toon_adventures
+---
+id: tiny_toon_adventures_busters_hudden_treasure
 title: "Tiny Toon Adventures: Buster's Hidden Treasure"
 platform: "Genesis"
 year: 1993
 songs: 
-  - id: boss_clear_tiny_toon
-    title: "Boss Clear, Buddy Rescued"
-    path: "Boss Clear, Buddy Rescued.vgz"
-    type: result
-  - id: boss_fight_tiny_toon
-    title: "Boss Fight"
-    path: "Boss Fight.vgz"
-    type: warning
-  - id: continue_tiny_toon
-    title: "Continue?"
-    path: "Continue.vgz"
-    type: result
-  - id: elmyra
-    title: "Elmyra"
-    path: "Elmyra.vgz"
-    type: warning
-  - id: the_forest_tiny_toon
-    title: "The Forest"
-    path: "The Forest.vgz"
+  - id: inside_the_caverns
+    title: "Inside the Caverns"
+    path: "Inside the Caverns.vgz"
     type: betting
-  - id: wackyland
-    title: "Wackyland"
-    path: "Wackyland.vgz"
-    type: betting
+...

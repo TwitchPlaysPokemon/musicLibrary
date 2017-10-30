@@ -4,33 +4,9 @@ title: "Seiken Densetsu 3"
 series: seikendensetsu
 platform: "SFC"
 year: 1995
-songs:
-  - id: nuclear_fusion
-    path: "Nuclear Fusion.spc"
-    title: "Nuclear Fusion"
+songs: 
+  - id: three_of_darkside
+    title: "Three of Darkside"
+    path: "Three of Darkside.spc"
     type: warning
-  - id: little_sweet_cafe
-    title: "Little Sweet Cafe"
-    path: "107 Little Sweet Cafe.spc"
-    type: break
-  - id: positive_sd3
-    title: "Positive"
-    path: "211 Positive.spc"
-    type: result
-  - id: can_you_fly_sister
-    title: "Can You Fly, Sister?"
-    path: "Can You Fly, Sister_.spc"
-    type: result
-  - id: few_paths_forbidden
-    title: "Few Paths Forbidden"
-    path: "Few Paths Forbidden.spc"
-    type: betting
-  - id: secret_of_mana_sd3
-    title: "Secret of Mana"
-    path: "Secret of Mana.spc"
-    type: warning
-  - id: swivel_sd3
-    title: "Swivel"
-    path: "Swivel.spc"
-    type: betting
 ...

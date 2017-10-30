@@ -1,11 +1,12 @@
+---
 id: call_of_duty_ghosts
 title: "Call of Duty: Ghosts"
 series: callofduty
+platform: "Various"
 year: 2013
-platform: ["PS4", "Various"]
-#other platforms: ["PS3", "360", "PC", "XBone"]
-songs:
-  - id: machine_warfare_cod_ghosts
+songs: 
+  - id: machine_warfare
     title: "Machine Warfare"
     path: "Machine Warfare.brstm"
     type: betting
+...

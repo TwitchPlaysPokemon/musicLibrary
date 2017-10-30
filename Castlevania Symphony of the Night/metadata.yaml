@@ -1,22 +1,16 @@
+---
 id: castlevania_symphony_of_the_night
 title: "Castlevania: Symphony of the Night"
 series: castlevania
-year: 1997
 platform: ["PS1", "Saturn"]
-songs:
-  - id: wandering_ghosts
-    title: "Wandering Ghosts"
-    path: "Wandering Ghosts.brstm"
-    type: betting
-  - id: dracula_castle_sotn
+year: 1997
+songs: 
+  - id: draculas_castle
     title: "Dracula's Castle"
-    path: "Dracula's Castle.brstm"
+    path: "SLUS-00067_06 - Michiru Yamane - Dracula's Castle (Arranged by Akira Yamaoka) [1].XA"
+    type: battle
+  - id: abandoned_pit
+    title: "Abandoned Pit"
+    path: "SLUS-00067_17 - Michiru Yamane - Abandoned Pit [Duplicate 1].XA"
     type: betting
-  - id: lost_painting_sotn
-    title: "Lost Painting"
-    path: "Lost Painting.brstm"
-    type: betting
-  - id: marble_gallery_sotn
-    title: "Marble Gallery"
-    path: "Marble Gallery.brstm"
-    type: betting
+...

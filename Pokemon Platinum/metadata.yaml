@@ -1,52 +1,16 @@
 ---
 id: pokemon_platinum
-platform: "NDS"
 title: "Pokémon Platinum"
 series: pokemon
+platform: "NDS"
 year: 2008
 songs: 
-  - id: global_terminal
-    path: "Global Terminal.brstm"
-    title: "Global Terminal"
-    type: betting
-  - id: resort_area_audio_system
-    path: "Resort Area - Audio System.brstm"
-    title: "Resort Area - Audio System"
-    type: betting
-  - id: battle_hall
-    path: "Battle Hall.brstm"
-    title: "Battle Hall"
-    type: betting
-  - id: frontier_brain_defeated
-    path: "Frontier Brain Defeated.brstm"
-    title: "Frontier Brain Defeated"
-    type: result
-  - id: battle_arcade_platinum
-    path: "Battle Arcade.brstm"
-    title: "Battle Arcade"
-    type: battle
-  - id: battle_giratina
-    path: "30 Battle! Giratina.mini2sf"
-    title: "Battle! Giratina"
-    type: battle
-  - id: battle_regi_trio_platinum
-    path: "99 Battle! Regirock, Regiice & Registeel.mini2sf"
-    title: "Battle! Regirock, Regice & Registeel"
-    type: battle
   - id: distortion_world
-    path: "29 Distortion World.mini2sf"
     title: "Distortion World"
+    path: "29 Distortion World.mini2sf"
     type: betting
-  - id: resort_area_twinleaf_town_music_box
-    path: "Resort Area - Twinleaf Town Music Box.brstm"
-    title: "Resort Area - Twinleaf Town Music Box"
-    type: break
-  - id: battle_castle_platinum
-    path: "45 Battle Castle.mini2sf"
-    title: "Battle Castle"
-    type: break
-  - id: battle_factory_platinum
-    path: "44 Battle Factory.mini2sf"
-    title: "Battle Factory"
-    type: betting
+  - id: battle_giratina
+    title: "Battle! Giratina"
+    path: "30 Battle! Giratina.mini2sf"
+    type: battle
 ...

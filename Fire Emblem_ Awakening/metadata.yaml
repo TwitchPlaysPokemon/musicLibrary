@@ -1,49 +1,16 @@
 ---
 id: fire_emblem_awakening
-platform: "3DS"
-title: "Fire Emblem: Awakening"
+title: "Fire Emblem Awakening"
 series: fireemblem
-year: 2013
+platform: "3DS"
+year: 2012
 songs: 
-#      - id: dont_say_her_name
-#        path: "Don't say her name!.brstm"
-#        title: "Don't say her name!"
-#        type: result
-# unfitting result song
-  - id: id_purpose
-    path: "Id ~ Purpose.brstm"
-    title: "Id ~ Purpose"
+  - id: id_darkness
+    title: "Id (Darkness)"
+    path: "STRM_BGM_EVT_MYUNIT4.bcstm"
     type: betting
-  - id: agh_won_goph_in_mah_mouph_blech_ptooey
-    title: "Agh! Won goph in mah mouph! Blech! Ptooey!"
-    path: "Agh! Won goph in mah mouph! Blech! Ptooey!.brstm"
-    type: betting
-  - id: conquest_ablaze
-    title: "Conquest (Ablaze)"
-    path: "Conquest (Ablaze).brstm"
-    type: betting
-  - id: duty_ablaze
-    title: "Duty (Ablaze)"
-    path: "Duty (Ablaze).brstm"
-    type: betting
-  - id: mastermind
-    title: "Mastermind"
-    path: "Mastermind.brstm"
-    type: warning
-  - id: annihilation_awakening
-    title: "Annihilation"
-    path: "Annihilation.brstm"
-    type: warning
-  - id: conquest_awakening
-    title: "Conquest"
-    path: "Conquest.brstm"
-    type: betting
-  - id: duty_awakening
-    title: "Duty"
-    path: "Duty.brstm"
-    type: betting
-  - id: open_for_business
-    title: "Open for Business!"
-    path: "Open for Business!.brstm"
-    type: break
+  - id: storm_clouds_ablaze
+    title: "Storm Clouds (Ablaze)"
+    path: "STRM_BGM_MAP_BATTLE6.bcstm"
+    type: battle
 ...

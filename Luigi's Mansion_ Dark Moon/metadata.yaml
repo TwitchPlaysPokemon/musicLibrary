@@ -1,14 +1,56 @@
-id: luigi_mansion_dark_moon
+---
+id: luigis_mansion_dark_moon
 title: "Luigi's Mansion: Dark Moon"
-series: mario
+series: luigi
 platform: "3DS"
 year: 2013
-songs:
-  - id: tower_totals
-    title: "Tower Totals"
-    path: "Tower Totals.brstm"
+songs: 
+  - id: catching_ghosts_1
+    title: "Catching Ghosts 1"
+    path: "Catching Ghosts 1.brstm"
+    type: warning
+  - id: gloomy_manor_interior
+    title: "Gloomy Manor - Interior"
+    path: "Gloomy Manor - Interior.brstm"
+    type: betting
+  - id: gloomy_manor_library_piano
+    title: "Gloomy Manor - Library Piano"
+    path: "Gloomy Manor - Library Piano.brstm"
     type: result
-  - id: mission_results_luigi
-    title: "Mission Results"
-    path: "Mission Results.brstm"
+  - id: haunted_graveyard
+    title: "Haunted Graveyard"
+    path: "Haunted Graveyard.brstm"
+    type: break
+  - id: haunted_towers_exterior
+    title: "Haunted Towers - Exterior"
+    path: "Haunted Towers - Exterior.brstm"
+    type: betting
+  - id: old_clockworks_interior
+    title: "Old Clockworks - Interior"
+    path: "Old Clockworks - Interior.brstm"
+    type: betting
+  - id: pause_menu
+    title: "Pause Menu"
+    path: "Pause Menu.brstm"
+    type: break
+  - id: professor_e_gadds_theme
+    title: "Professor E. Gadd's Theme"
+    path: "Professor E. Gadd's Theme.brstm"
+    type: betting
+  - id: secret_mine_interior
+    title: "Secret Mine - Interior"
+    path: "Secret Mine - Interior.brstm"
+    type: betting
+  - id: staff_roll_luigis_mansion_dark_moon
+    title: "Staff Roll"
+    path: "Staff Roll.brstm"
     type: result
+  - id: treacherous_mansion_interior
+    title: "Treacherous Mansion - Interior"
+    path: "Treacherous Mansion - Interior.brstm"
+    type: betting
+  - id: treacherous_mansion_terrifying_invasion_1
+    title: "Treacherous Mansion - Terrifying Invasion 1"
+    path: "Treacherous Mansion - Terrifying Invasion 1.brstm"
+    type: result
+...

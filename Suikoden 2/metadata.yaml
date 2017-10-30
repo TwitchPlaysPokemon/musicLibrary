@@ -5,52 +5,44 @@ series: suikoden
 platform: "PS1"
 year: 1998
 songs: 
-  - id: the_will
-    title: "The Will"
-    path: "1105 The Will.psf"
-    type: battle
-  - id: a_peaceful_mountain_village
-    title: "A Peaceful Mountain Village"
-    path: "1113 A Peaceful Mountain Village.psf"
-    type: break
+  - id: results_suikoden_2
+    title: "Results"
+    path: "1106 Results.psf"
+    type: result
+  - id: labyrinth_penpe_2
+    title: "Labyrinth, Penpe 2"
+    path: "1116 Labyrinth, Penpe 2.psf"
+    type: betting
   - id: a_worthy_foe_appears
     title: "A Worthy Foe Appears"
     path: "1117 A Worthy Foe Appears (no intro).psf"
     type: battle
-  - id: homesickness
-    title: "Homesickness"
-    path: "1118 Homesickness.psf"
-    type: break
-  - id: reminiscence_ensemble_version
-    title: "Reminiscence - Ensemble Version"
-    path: "1122 Reminiscence - Ensemble Version.psf"
-    type: break
-  - id: tension_suikoden2
-    title: "Tension"
-    path: "1125 Tension.psf"
+  - id: ghost_story
+    title: "Ghost Story"
+    path: "2125 Ghost Story.psf"
     type: warning
-  - id: if_you_listen_carefully
-    title: "If You Listen Carefully"
-    path: "1208 If You Listen Carefully.psf"
-    type: break
-  - id: one_minute_showdown
-    title: "One-Minute Showdown"
-    path: "2117 One-Minute Showdown.psf"
-    type: warning
-  - id: imprisoned_town
-    title: "Imprisoned Town"
-    path: "2124 Imprisoned Town.psf"
+  - id: pursuit_suikoden_2
+    title: "Pursuit"
+    path: "2126 Pursuit.psf"
     type: betting
-  - id: even_farther
-    title: "Even Farther"
-    path: "2130 Even Farther.psf"
+  - id: the_chase
+    title: "The Chase"
+    path: "2207 The Chase.psf"
+    type: battle
+  - id: mad_luca
+    title: "Mad Luca"
+    path: "2208 Mad Luka.psf"
+    type: warning
+  - id: the_evil_one
+    title: "The Evil One"
+    path: "2209 The Evil One.psf"
     type: betting
   - id: gothic_neclord
     title: "Gothic Neclord"
     path: "2212 Gothic Neclord.psf"
     type: battle
-  - id: tension_alternate_suikoden2
-    title: "Tension (alternate)"
-    path: "9003 Tension (alternate).psf"
-    type: warning
+  - id: silver_wolf
+    title: "Silver Wolf"
+    path: "2217 Silver Wolf.psf"
+    type: battle
 ...

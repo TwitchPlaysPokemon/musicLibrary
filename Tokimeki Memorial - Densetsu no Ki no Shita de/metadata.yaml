@@ -1,0 +1,36 @@
+---
+id: tokimeki_memorial_densetsu_no_ki_no_shita_de
+title: "Tokimeki Memorial: Densetsu no Ki no Shita de"
+series: tokimekimemorial
+platform: "SFC"
+year: 1996
+songs: 
+  - id: ghost_house_tokimeki_memorial
+    title: "Ghost House"
+    path: "060 Ghost House.spc"
+    type: betting
+  - id: magic_bell
+    title: "Magic Bell"
+    path: "065 Magic Bell.spc"
+    type: warning
+  - id: night_parade
+    title: "Night Parade"
+    path: "066 Night Parade.spc"
+    type: warning
+  - id: horror_movie_1
+    title: "Horror Movie 1"
+    path: "076 Horror Movie 1.spc"
+    type: warning
+  - id: horror_movie_2
+    title: "Horror Movie 2"
+    path: "077 Horror Movie 2.spc"
+    type: warning
+  - id: horror_movie_3
+    title: "Horror Movie 3"
+    path: "078 Horror Movie 3.spc"
+    type: warning
+  - id: samurai_play
+    title: "Samurai Play"
+    path: "114 Samurai Play.spc"
+    type: warning
+...

@@ -1,0 +1,32 @@
+---
+id: pokemon_gold_silver_crystal
+title: "Pokémon Gold/Silver/Crystal"
+series: pokemon
+platform: "GBC"
+year: 2001
+songs: 
+  - id: burned_tower
+    title: "Burned Tower"
+    path: "Burned Tower.brstm"
+    type: result
+  - id: dark_cave
+    title: "Dark Cave"
+    path: "Dark Cave.brstm"
+    type: betting
+  - id: dragons_den
+    title: "Dragon's Den"
+    path: "Dragon's Den.brstm"
+    type: warning
+  - id: lavender_town
+    title: "Lavender Town"
+    path: "Lavender Town.brstm"
+    type: betting
+  - id: radio_unown
+    title: "Radio (Unown)"
+    path: "Radio (Unown).brstm"
+    type: warning
+  - id: tin_tower
+    title: "Tin Tower"
+    path: "Tin Tower.brstm"
+    type: betting
+...

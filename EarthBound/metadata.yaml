@@ -1,96 +1,60 @@
 ---
 id: earthbound
-title: "EarthBound"
+title: "Earthbound"
 series: mother
 platform: "SNES"
 year: 1994
-songs:
-  - id: new_age_retro_hippie
-    title: "New Age Retro Hippie"
-    path: "New Age Retro Hippie.spc"
-    type: warning
-  - id: hi_hi_hi
-    title: "Hi Hi Hi (Saturn Valley)"
-    path: "Hi Hi Hi.spc"
-    type: betting
-  - id: onett
-    title: "Onett"
-    path: "Onett.brstm"
-    type: betting
-  - id: buy_somethin_will_ya
-    title: "Buy Somethin' Will Ya!"
-    path: "Buy Somethin' Will Ya!.spc"
+songs: 
+  - id: one_fateful_night
+    title: "One Fateful Night..."
+    path: "007 One Fateful Night....spc"
     type: break
-  - id: the_metropolis_of_fourside
-    title: "The Metropolis of Fourside"
-    path: "The Metropolis of Fourside.spc"
+  - id: alien_invasion_2
+    title: "Alien Invasion 2"
+    path: "009b Alien Invasion 2.spc"
+    type: warning
+  - id: onett_night_2
+    title: "Onett Night 2"
+    path: "015b Onett Night 2.spc"
+    type: break
+  - id: otherworldly_foe
+    title: "Otherworldly Foe"
+    path: "017 Otherworldly Foe.spc"
     type: betting
-  - id: battle_against_a_machine
-    title: "Battle Against a Machine"
-    path: "109 Battle Against a Machine.spc"
-    type: warning
-  - id: pokey_means_business
-    title: "Pokey Means Business!"
-    path: "Pokey Means Business!.spc"
-    type: battle
-  - id: battle_against_a_weird_opponent
-    title: "Battle Against a Weird Opponent"
-    path: "Battle Against a Weird Opponent.spc"
-    type: warning
+  - id: dangerous_caves
+    title: "Dangerous Caves"
+    path: "039 Dangerous Caves.spc"
+    type: break
+  - id: happy_happy_is_blue
+    title: "Happy-Happy is Blue"
+    path: "053 Happy-Happy is Blue.spc"
+    type: betting
+  - id: dead_end_chaos_theatre
+    title: "Dead-End Chaos Theatre"
+    path: "055 Dead-End Chaos Theatre.spc"
+    type: betting
+  - id: threed_zombie_central
+    title: "Threed, Zombie Central"
+    path: "059 Threed, Zombie Central.spc"
+    type: betting
+  - id: heartless_hotel
+    title: "Heartless Hotel"
+    path: "060 Heartless Hotel.spc"
+    type: betting
+  - id: moonside_swing
+    title: "Moonside Swing"
+    path: "089 Moonside Swing.spc"
+    type: break
   - id: kraken_of_the_sea
     title: "Kraken of the Sea"
-    path: "Kraken of the Sea.spc"
+    path: "099 Kraken of the Sea.spc"
     type: betting
-  - id: boy_meets_girl_twoson
-    title: "Boy Meets Girl (Twoson)"
-    path: "Boy Meets Girl.spc"
-    type: result
-  - id: winters_white
-    title: "Winters White"
-    path: "Winters White.spc"
+  - id: pyramid_earthbound
+    title: "Pyramid"
+    path: "103 Pyramid.spc"
     type: betting
-  - id: pokey
-    title: "Pokey"
-    path: "Pokey.spc"
-    type: warning
-  - id: giygas_intimidation
-    title: "Giygas' Intimidation"
-    path: "Giygas' Intimidation.spc"
-    type: warning
-  - id: threed_freed_at_last
-    title: "Threed, Freed at Last"
-    path: "Threed, Freed at Last.brstm"
-    type: result
-  - id: home_sweet_home_earthbound
-    title: "Home Sweet Home"
-    path: "Home Sweet Home.brstm"
+  - id: the_place
+    title: "The Place"
+    path: "126 The Place.spc"
     type: break
-  - id: your_name_please_earthbound
-    title: "Your Name, Please"
-    path: "Your Name, Please.spc"
-    type: break
-  - id: summers_eternal_tourist_trap
-    title: "Summers, Eternal Tourist Trap"
-    path: "Summers, Eternal Tourist Trap.spc"
-    type: break
-  - id: hospital_earthbound
-    title: "Hospital"
-    path: "Hospital.spc"
-    type: break
-  - id: youve_come_far_coffee_break
-    title: "You've Come Far (Coffee Break)"
-    path: "You've Come Far (Coffee Break).brstm"
-    type: break
-  - id: apple_kid_theme
-    title: "Apple Kid's Theme"
-    path: "Apple Kid's Theme.spc"
-    type: break
-  - id: what_a_great_picture
-    title: "What a Great Picture!"
-    path: "What a Great Picture!.brstm"
-    type: result
-  - id: weak_opponent
-    title: "Battle Against a Weak Opponent"
-    path: "Battle Against a Weak Opponent.spc"
-    type: warning
 ...
