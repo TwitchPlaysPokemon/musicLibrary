@@ -1,0 +1,47 @@
+---
+id: majyuuou
+title: "Majyūō"
+platform: "SFC"
+year: 1995
+songs: 
+  - id: the_bridge_majyuuou
+    title: "The Bridge"
+    path: "03 The Bridge.spc"
+    type: betting
+  - id: catacombs_majyuuou
+    title: "Catacombs"
+    path: "04 Catacombs.spc"
+    type: betting
+  - id: ruined_city_majyuuou
+    title: "Ruined City"
+    path: "05 Ruined City.spc"
+    type: betting
+  - id: ice_palace_majyuuou
+    title: "Ice Palace"
+    path: "07 Ice Palace.spc"
+    type: betting
+  - id: lava_pits_majyuuou
+    title: "Lava Pits"
+    path: "08 Lava Pits.spc"
+    type: betting
+  - id: inner_lair_majyuuou
+    title: "Inner Lair"
+    path: "09 Inner Lair.spc"
+    type: warning
+  - id: boss_1_majyuuou
+    title: "Boss 1"
+    path: "10 Boss 1.spc"
+    type: battle
+  - id: boss_2_majyuuou
+    title: "Boss 2"
+    path: "11 Boss 2.spc"
+    type: battle
+  - id: bad_ending_majyuuou
+    title: "Bad Ending"
+    path: "14 Bad Ending.spc"
+    type: result
+  - id: good_ending_majyuuou
+    title: "Good Ending"
+    path: "15 Good Ending.spc"
+    type: result
+...

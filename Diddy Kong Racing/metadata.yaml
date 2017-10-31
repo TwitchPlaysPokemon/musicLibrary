@@ -1,0 +1,15 @@
+---
+id: diddy_kong_racing
+title: "Diddy Kong Racing"
+platform: "N64"
+year: 1997
+songs:
+  - id: haunted_woods_dkr
+    title: "Haunted Woods"
+    path: "19a Haunted Wood.miniusf"
+    type: betting
+  - id: wizpig_race
+    title: "WizPig Race"
+    path: "46 WizPig Race.miniusf"
+    type: battle
+...

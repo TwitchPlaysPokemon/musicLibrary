@@ -1,0 +1,16 @@
+---
+id: panorama_cotton
+title: "Panorama Cotton"
+series: cotton
+platform: "Genesis"
+year: 1994
+songs: 
+  - id: title_panorama_cotton
+    title: "Title"
+    path: "01 - Title.vgz"
+    type: result
+  - id: ending_panorama_cotton
+    title: "Ending"
+    path: "23 - Ending.vgz"
+    type: result
+...

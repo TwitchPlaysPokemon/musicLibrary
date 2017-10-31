@@ -1,0 +1,28 @@
+---
+id: clock_tower
+title: "Clock Tower"
+series: clocktower
+platform: "Various"
+year: 1995
+songs: 
+  - id: im_looking_for_mary
+    title: "I'm Looking For Mary"
+    path: "05 I'm Looking For Mary.spc"
+    type: warning
+  - id: dont_cry_jennifer
+    title: "Don't Cry, Jennifer"
+    path: "09 Don't Cry, Jennifer.spc"
+    type: betting
+  - id: karosene
+    title: "Karosene"
+    path: "17 Karosene.spc"
+    type: warning
+  - id: death_in_the_elevator
+    title: "Death in the Elevator"
+    path: "19 Death in the Elevator.spc"
+    type: betting
+  - id: the_nightmare_is_finally_over
+    title: "The Nightmare is Finally Over..."
+    path: "22 The Nightmare is Finally Over... .spc"
+    type: betting
+...

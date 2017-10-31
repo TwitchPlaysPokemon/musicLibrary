@@ -1,0 +1,15 @@
+---
+id: rayman_3d 
+title: "Rayman 3D"
+platform: "3DS"
+year: 2001
+songs: 
+  - id: the_cave_of_bad_dreams_part1
+    title: "The Cave of Bad Dreams (Part 1)"
+    path: "Play_VULCA1.bcstm"
+    type: betting
+  - id: the_cave_of_bad_dreams_part_2
+    title: "The Cave of Bad Dreams (Part 2)"
+    path: "Play_VULCA2.bcstm"
+    type: betting
+...

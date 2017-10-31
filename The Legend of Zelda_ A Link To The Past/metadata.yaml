@@ -1,0 +1,28 @@
+---
+id: the_legend_of_zelda_a_link_to_the_past
+title: "The Legend of Zelda: A Link To The Past"
+series: zelda
+platform: "SNES"
+year: 1991
+songs: 
+  - id: lost_ancient_ruins
+    title: "Lost Ancient Ruins"
+    path: "14 Lost Ancient Ruins.spc"
+    type: warning
+  - id: priest_of_the_dark_order
+    title: "Priest of the Dark Order"
+    path: "20 Priest of the Dark Order.spc"
+    type: warning
+  - id: dark_golden_land
+    title: "Dark Golden Land"
+    path: "21 Dark Golden Land.spc"
+    type: betting
+  - id: black_mist
+    title: "Black Mist"
+    path: "22a Black Mist.spc"
+    type: betting
+  - id: dungeon_of_shadows
+    title: "Dungeon of Shadows"
+    path: "23 Dungeon of Shadows.spc"
+    type: betting
+...

@@ -1,0 +1,63 @@
+---
+id: miitopia
+title: "Miitopia"
+platform: "3DS"
+year: 2016
+songs: 
+  - id: battle_darker_lords_left_hand
+    title: "Battle: Darker Lord's Left Hand"
+    path: "Battle- Darker Lord's Left Hand.brstm"
+    type: battle
+  - id: battle_darker_lords_right_hand
+    title: "Battle: Darker Lord's Right Hand"
+    path: "Battle- Darker Lord's Right Hand.brstm"
+    type: battle
+  - id: battle_karkaton
+    title: "Battle: Karkaton"
+    path: "Battle- Karkaton.brstm"
+    type: battle
+  - id: battle_the_darkest_lord
+    title: "Battle: The Darkest Lord"
+    path: "Battle- The Darkest Lord.brstm"
+    type: battle
+  - id: boss_the_dark_lord
+    title: "Boss: The Dark Lord"
+    path: "Boss- The Dark Lord.brstm"
+    type: betting
+  - id: dark_lords_theme
+    title: "Dark Lord's Theme"
+    path: "Dark Lord's Theme.brstm"
+    type: warning
+  - id: losing_face
+    title: "Losing Face"
+    path: "Losing Face.brstm"
+    type: warning
+  - id: map_dark_lords_castle
+    title: "Map: Dark Lord's Castle"
+    path: "Map- Dark Lord's Castle.brstm"
+    type: break
+  - id: map_horrific_place
+    title: "Map: Horrific Place"
+    path: "Map- Horrific Place.brstm"
+    type: break
+  - id: origin_of_the_Curse
+    title: "Origin of the Curse"
+    path: "Origin of the Curse.brstm"
+    type: warning
+  - id: prebattle_calamity_bringer
+    title: "Prebattle: Calamity Bringer"
+    path: "Prebattle- Calamity Bringer.brstm"
+    type: warning
+  - id: the_darker_lords_theme
+    title: "The Darker Lord's Theme"
+    path: "The Darker Lord's Theme.brstm"
+    type: warning
+  - id: the_darkest_hour
+    title: "The Darkest Hour"
+    path: "The Darkest Hour.brstm"
+    type: warning
+  - id: the_unrelenting_dark_curse
+    title: "The Unrelenting Dark Curse"
+    path: "The Unrelenting Dark Curse.brstm"
+    type: warning
+...

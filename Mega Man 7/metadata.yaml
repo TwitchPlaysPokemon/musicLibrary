@@ -1,0 +1,16 @@
+---
+id: mega_man_7
+title: "Mega Man 7"
+series: megaman
+platform: "SNES"
+year: 1995
+songs:
+  - id: shade_man_stage
+    title: "Shade Man Stage"
+    path: "17 Shademan.spc"
+    type: betting
+  - id: shade_man_stage_ghouls_and_ghosts
+    title: "Shade Man Stage - Ghouls and Ghosts"
+    path: "94 The Haunted Graveyard.spc"
+    type: battle
+...
