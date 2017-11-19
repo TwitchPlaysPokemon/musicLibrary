@@ -4,7 +4,7 @@ title: "Super Smash Bros. Brawl"
 series: smash
 platform: "Wii"
 year: 2008
-songs:
+songs: 
   - id: winning_road_-_roy's_hope
     title: "Winning Road - Roy's Hope"
     path: "Winning Road - Roy's Hope.brstm"
@@ -290,5 +290,17 @@ songs:
   - id: warioware_inc
     title: "WarioWare, Inc."
     path: "WarioWare, Inc..brstm"
+    type: betting
+  - id: step_subspace
+    title: "Step: Subspace"
+    path: "Step- Subspace.brstm"
+    type: betting
+  - id: step_subspace_ver_2
+    title: "Step: Subspace Ver.2"
+    path: "Step- Subspace Ver.2.brstm"
+    type: betting
+  - id: step_subspace_ver_3
+    title: "Step: Subspace Ver.3"
+    path: "Step- Subspace Ver.3.brstm"
     type: betting
 ...

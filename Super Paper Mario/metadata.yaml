@@ -5,6 +5,10 @@ series: mario
 platform: "Wii"
 year: 2007
 songs:
+  - id: castle_bleck
+    title: "Castle Bleck"
+    path: "map_stg8_1_44k_lp.brstmspm"
+    type: betting
   - id: champion_of_destruction
     title: "Champion of Destruction"
     path: "evt_zigen_appear1_44k_lp.brstmspm"
@@ -29,6 +33,14 @@ songs:
     title: "Lineland Road"
     path: "map_stg1_1_44k_e_lp.brstmspm"
     type: betting
+  - id: mansion_patrol_episode_2
+    title: "Mansion Patrol (Episode 2)"
+    path: "minigame_hayauti1_44k_e2_lp.brstmspm"
+    type: betting
+  - id: merlees_mansion
+    title: "Merlee's Mansion"
+    path: "map_stg2_yakata_e6_lp.brstmspm"
+    type: betting
   - id: mount_lineland
     title: "Mount Lineland"
     path: "map_stg1_sabaku_lp.brstmspm"
@@ -41,9 +53,25 @@ songs:
     title: "Sammer's Kingdom"
     path: "map_stg6_44k_lp.brstmspm"
     type: betting
+  - id: the_underwhere
+    title: "The Underwhere"
+    path: "map_stg7_44k_lp.brstmspm"
+    type: betting
   - id: an_unrivaled_battle
     title: "An Unrivaled Battle"
     path: "evt_star1_44k_lp.brstmspm"
+    type: warning
+  - id: big_blooper_appears
+    title: "Big Blooper Appears"
+    path: "evt_gesso_appear1_44k_lp.brstmspm"
+    type: warning
+  - id: birth_of_the_chaos_heart
+    title: "Birth of the Chaos Heart"
+    path: "evt_konton1_44k_lp.brstmspm"
+    type: warning
+  - id: bonechill_appears
+    title: "Bonechill Appears"
+    path: "evt_sini_appear_44k_lp.brstmspm"
     type: warning
   - id: count_bleck_plan
     title: "Count Bleck's Plan"
@@ -65,9 +93,9 @@ songs:
     title: "Francis Battle"
     path: "btl_boss_stg3_44k_lp.brstmspm"
     type: warning
-  - id: im_not_nice
-    title: "I'm Not Nice"
-    path: "btl_manera1_44k_lp.brstmspm"
+  - id: mimi_battle
+    title: "Mimi Battle"
+    path: "btl_boss_stg2_22k_lp.brstmspm"
     type: warning
   - id: mimi_the_copycat
     title: "Mimi the Copycat"
@@ -76,6 +104,10 @@ songs:
   - id: mr_l_green_thunder
     title: "Mr. L, Green Thunder"
     path: "evt_Dliigi_appear1_44k_lp.brstmspm"
+    type: warning
+  - id: the_evil_count_bleck
+    title: "The Evil Count Bleck"
+    path: "evt_op_peach1_e1_lp.brstmspm"
     type: warning
   - id: whoa_zone
     title: "Whoa Zone"
@@ -101,9 +133,17 @@ songs:
     title: "Brobot"
     path: "btl_boss_stg4_lp.brstmspm"
     type: battle
+  - id: closing_battle
+    title: "Closing Battle"
+    path: "btl_mr_zigen1_44k_lp.brstmspm"
+    type: battle
   - id: fracktail_battle
     title: "Fracktail Battle"
     path: "btl_boss_stg1_22k_lp.brstmspm"
+    type: battle
+  - id: im_not_nice
+    title: "I'm Not Nice"
+    path: "btl_manera1_44k_lp.brstmspm"
     type: battle
   - id: its_showtime
     title: "It's Showtime"

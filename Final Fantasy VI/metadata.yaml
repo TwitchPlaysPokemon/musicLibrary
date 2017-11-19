@@ -2,19 +2,19 @@
 id: final_fantasy_vi
 title: "Final Fantasy VI"
 series: finalfantasy
-year: 1994
 platform: "SNES"
+year: 1994
 songs:
   - id: battle_theme_ffvi
     title: "Battle Theme"
     path: "105 Battle Theme.spc"
     type: battle
-  - id: victory_fanfare
-    title: "Victory Fanfare"
+  - id: fanfare_ffvi
+    title: "Fanfare"
     path: "106 Fanfare.spc"
     type: result
-  - id: edgar_sabin
-    title: "Edgar & Sabin's Theme / Figaro Castle"
+  - id: edgar_and_sabin
+    title: "Edgar & Sabin"
     path: "107 Edgar and Sabin.spc"
     type: betting
   - id: save_them
@@ -22,7 +22,7 @@ songs:
     path: "123 Save Them!.spc"
     type: warning
   - id: decisive_battle
-    title: "The Decisive Battle (vs. Boss)"
+    title: "The Decisive Battle"
     path: "124 The Decisive Battle.spc"
     type: battle
   - id: fierce_battle_ffvi
@@ -37,16 +37,16 @@ songs:
     title: "The Unforgiven"
     path: "114 The Unforgiven.spc"
     type: warning
-  - id: terras_theme
-    title: "Terra's Theme"
+  - id: terra_ffvi
+    title: "Terra"
     path: "201 Terra.spc"
     type: betting
-  - id: setzers_theme
-    title: "Setzer's Theme"
+  - id: setzer_ffvi
+    title: "Setzer"
     path: "211 Setzer.spc"
     type: result
-  - id: kefkas_tower
-    title: "Kefka's Tower"
+  - id: last_dungeon
+    title: "Last Dungeon"
     path: "313 Last Dungeon.spc"
     type: warning
   - id: the_phantom_forest
@@ -81,4 +81,8 @@ songs:
     title: "Searching for Friends"
     path: "307 Searching for Friends.spc"
     type: betting
+  - id: relm
+    title: "Relm"
+    path: "219 Relm.spc"
+    type: break
 ...

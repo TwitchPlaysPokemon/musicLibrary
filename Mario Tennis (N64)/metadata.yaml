@@ -1,10 +1,28 @@
-id: mario_tennis_n64
-title: "Mario Tennis [N64]"
+---
+id: mario_tennis
+title: "Mario Tennis"
 series: mario
+platform: "N64"
 year: 2000
-platform: ["N64", "GBC"]
-songs:
+songs: 
+  - id: opening_warios_enter_the_scene
+    title: "Opening - Warios Enter the Scene"
+    path: "02 - Opening - Warios Enter the Scene.miniusf"
+    type: warning
+  - id: game_point_break_point
+    title: "Game Point - Break Point"
+    path: "11 - Game Point - Break Point.miniusf"
+    type: warning
   - id: game_point_break_point_2
     title: "Game Point - Break Point 2"
     path: "13 Game Point - Break Point 2.miniusf"
     type: battle
+  - id: koopa_stage
+    title: "Koopa Stage"
+    path: "27 - Koopa Stage.miniusf"
+    type: betting
+  - id: wario_and_waluigi_court
+    title: "Wario & Waluigi Court"
+    path: "29 - Wario & Waluigi Court.miniusf"
+    type: betting
+...

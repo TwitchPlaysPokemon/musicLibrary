@@ -1,0 +1,12 @@
+---
+id: namco_museum_ps2_xbox_gcn
+title: "Namco Museum"
+series: namcomuseum
+platform: ["PS2", "Xbox", "GCN"]
+year: 2001
+songs: 
+  - id: main_menu_namco_museum_ps2_xbox_gcn
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+...

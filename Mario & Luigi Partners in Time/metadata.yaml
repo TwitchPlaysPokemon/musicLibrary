@@ -1,10 +1,10 @@
 ---
-id: mario_luigi_partners
-title: "Mario & Luigi: Partners in Time"
+id: mario_and_luigi_partners_in_time
+title: "Mario & Luigi: Partners In Time"
 series: mario
 platform: "NDS"
 year: 2005
-songs:
+songs: 
   - id: gritzy_desert
     title: "Gritzy Desert"
     path: "Gritzy Desert.mini2sf"
@@ -49,4 +49,24 @@ songs:
     title: "Final Battle"
     path: "34 Final Battle [MUS_SEQ_LASTBOSS2].mini2sf"
     type: warning
+  - id: toadwood_forest
+    title: "Toadwood Forest"
+    path: "16 Toadwood Forest [MUS_SEQ_KINOPL].mini2sf"
+    type: betting
+  - id: vim_factory
+    title: "Vim Factory"
+    path: "17 Vim Factory [MUS_SEQ_FACTORY].mini2sf"
+    type: betting
+  - id: bowser_battle_mario_and_luigi_partners_in_time
+    title: "Bowser Battle"
+    path: "27 Bowser Battle [MUS_SEQ_KUPPABTL].mini2sf"
+    type: battle
+  - id: toad_town_mario_and_luigi_partners_in_time
+    title: "Toad Town"
+    path: "28 Toad Town [MUS_SEQ_KINOTOWN].mini2sf"
+    type: betting
+  - id: shroob_castle
+    title: "Shroob Castle"
+    path: "31 Shroob Castle [MUS_SEQ_INVASION_C].mini2sf"
+    type: betting
 ...

@@ -61,4 +61,25 @@ songs:
     title: "Vs. Kracko"
     path: "Vs. Kracko.brstm"
     type: warning
+  - id: lava_landing
+    title: "Lava Landing"
+    path: "29. Lava Landing - Temper Temple.brstm"
+    type: warning
+  - id: stellar_way
+    title: "Stellar Way"
+    path: "59. Stellar Way.brstm"
+    ends: 2:10
+    type: betting
+  - id: vs_squashini
+    title: "Vs. Squashini"
+    path: "39. VS. Squashini.brstm"
+    type: battle
+  - id: mushroom_run
+    title: "Mushroom Run"
+    path: "37. Mushroom Run.brstm"
+    type: betting
+  - id: melody_town
+    title: "Melody Town"
+    path: "38. Melody Town.brstm"
+    type: break
 ...

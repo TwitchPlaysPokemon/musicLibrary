@@ -4,7 +4,7 @@ title: "Chrono Trigger"
 series: chrono
 platform: "SNES"
 year: 1995
-songs:
+songs: 
   - id: guardia_millennial_fair
     title: "Guardia Millennial Fair"
     path: "106 Guardia Millennial Fair.spc"
@@ -21,18 +21,6 @@ songs:
     title: "Delightful Spekkio"
     path: "214 Delightful Spekkio.spc"
     type: betting
-  - id: undersea_palace
-    title: "Undersea Palace"
-    path: "Undersea Palace.spc"
-    type: betting
-  - id: black_omen
-    title: "Black Omen"
-    path: "311 Black Omen.spc"
-    type: betting
-  - id: battle_with_magus
-    title: "Battle with Magus"
-    path: "Battle with Magus.spc"
-    type: battle
   - id: chrono_trigger
     title: "Chrono Trigger"
     path: "102 Chrono Trigger (Looped).spc"
@@ -86,4 +74,44 @@ songs:
     title: "Secret of the Forest"
     path: "111 Secret of the Forest.spc"
     type: break
+  - id: a_strange_happening
+    title: "A Strange Happening"
+    path: "108 A Strange Happening.spc"
+    type: warning
+  - id: ruined_world
+    title: "Ruined World"
+    path: "201 Ruined World.spc"
+    type: break
+  - id: underground_sewer_no_water
+    title: "Underground Sewer (No Water)"
+    path: "216 Underground Sewer (No Water).spc"
+    type: betting
+  - id: confusing_melody
+    title: "Confusing Melody"
+    path: "223 Confusing Melody.spc"
+    type: warning
+  - id: battle_with_magus
+    title: "Battle with Magus"
+    path: "224 Battle with Magus.spc"
+    type: battle
+  - id: tyran_castle
+    title: "Tyran Castle"
+    path: "302 Tyran Castle.spc"
+    type: betting
+  - id: zeal_palace
+    title: "Zeal Palace"
+    path: "305 Zeal Palace.spc"
+    type: betting
+  - id: undersea_palace
+    title: "Undersea Palace"
+    path: "308 Undersea Palace.spc"
+    type: betting
+  - id: black_omen
+    title: "Black Omen"
+    path: "311 Black Omen.spc"
+    type: betting
+  - id: last_battle_ct
+    title: "Last Battle"
+    path: "314 Last Battle.spc"
+    type: battle
 ...

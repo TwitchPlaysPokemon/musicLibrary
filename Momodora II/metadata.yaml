@@ -1,0 +1,56 @@
+---
+id: momodora_ii
+title: "Momodora II"
+series: momodora
+platform: "PC"
+year: 2011
+songs: 
+  - id: boss_momodora_ii
+    title: "Verge ~ Battle"
+    path: "Boss.brstm"
+    type: warning
+  - id: choele_choel_momodora_ii
+    title: "Rite of Death ~ Choele Choel"
+    path: "Choele Choel.brstm"
+    type: betting
+  - id: doras_theme_momodora_ii
+    title: "Nonchalant Queen ~ Dora's Theme"
+    path: "Dora's Theme.brstm"
+    type: warning
+  - id: ending_momodora_ii
+    title: "Ending"
+    path: "Ending.brstm"
+    type: break
+  - id: eris_theme_momodora_ii
+    title: "Vanity Princess ~ Eri's Theme"
+    path: "Eri's Theme.brstm"
+    type: result
+  - id: final_boss_momodora_ii
+    title: "Resolution ~ Final Battle"
+    path: "Final Boss.brstm"
+    type: warning
+  - id: ivory_netherworld_momodora_ii
+    title: "IMMEMORIAL REALM ~ Ivory Netherworld"
+    path: "Ivory Netherworld.brstm"
+    type: betting
+  - id: koho_plains
+    title: "Koho Plains"
+    path: "Koho Plains.brstm"
+    type: betting
+  - id: milory_sanctuary_momodora_ii
+    title: "Starry ~ Milory Sanctuary"
+    path: "Milory Sanctuary.brstm"
+    type: betting
+  - id: mint_end_momodora_ii
+    title: "Moonlit Mint ~ Mint End"
+    path: "Mint End.brstm"
+    type: betting
+  - id: rahart_hall_momodora_ii
+    title: "Demon Jazz ~ Rahart Hall"
+    path: "Rahart Hall.brstm"
+    type: betting
+  - id: title_momodora_ii
+    title: "Title"
+    path: "Title.brstm"
+    type: break
+...

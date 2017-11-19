@@ -1,3 +1,4 @@
+---
 id: plants_vs_zombies
 title: "Plants vs. Zombies"
 platform: ["PC", "Various"]
@@ -23,4 +24,12 @@ songs:
   - id: front_yard_daytime
     title: "Front Yard (Daytime)"
     path: "Front Yard (Daytime).brstm"
+    type: betting
+  - id: ultimate_battle
+    title: "Ultimate Battle"
+    path: "Ultimate Battle.brstm"
+    type: betting
+  - id: pool_daytime
+    title: "Pool (Daytime)"
+    path: "Pool (Daytime).brstm"
     type: betting

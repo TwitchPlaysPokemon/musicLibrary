@@ -1,0 +1,48 @@
+---
+id: kyuuyaku_megami_tensei
+title: "Kyuuyaku Megami Tensei"
+series: shinmegamitensei
+platform: "SFC"
+year: 1995
+songs: 
+  - id: daedalos_kyuuyaku_megami_tensei
+    title: "Daedalos"
+    path: "10 Daedalos.spc"
+    type: battle
+  - id: bien_kyuuyaku_megami_tensei
+    title: "Bien"
+    path: "14 Bien.spc"
+    type: result
+  - id: mazurka_kyuuyaku_megami_tensei
+    title: "Mazurka"
+    path: "16 Mazurka.spc"
+    type: betting
+  - id: genshitsu_kyuuyaku_megami_tensei
+    title: "Genshitsu"
+    path: "18 Genshitsu.spc"
+    type: betting
+  - id: infini_kyuuyaku_megami_tensei
+    title: "Infini"
+    path: "20 Infini.spc"
+    type: betting
+  - id: ending_1_kyuuyaku_megami_tensei
+    title: "Ending 1"
+    path: "22 Ending 1.spc"
+    type: result
+  - id: pazs_kyuuyaku_megami_tensei
+    title: "Pazs"
+    path: "23 Pazs.spc"
+    type: betting
+  - id: 3d_tokyo_1_kyuuyaku_megami_tensei
+    title: "3D: Tokyo 1"
+    path: "24 3D_ Tokyo 1.spc"
+    type: battle
+  - id: 3d_tokyo_3_kyuuyaku_megami_tensei
+    title: "3D: Tokyo 3"
+    path: "38 3D_ Tokyo 3.spc"
+    type: betting
+  - id: game_over_kyuuyaku_megami_tensei
+    title: "Game Over"
+    path: "46 Game Over.spc"
+    type: result
+...

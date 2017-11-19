@@ -1,7 +1,9 @@
-id: zero_escape_virtue_last_reward
+---
+id: zero_escape_virtues_last_reward
 title: "Zero Escape: Virtue's Last Reward"
-year: 2012
+series: zeroescape
 platform: ["3DS", "Vita"]
+year: 2012
 songs: 
   - id: ambidexterity
     title: "Ambidexterity"
@@ -21,5 +23,30 @@ songs:
     type: betting
   - id: divulgation
     title: "Divulgation"
-    path: "Divulgation.brstm"
+    path: "BGM22.bcstm"
     type: betting
+  - id: monitor
+    title: "Monitor"
+    path: "BGM12.bcstm"
+    type: betting
+  - id: pantry
+    title: "Pantry"
+    path: "BGM24.bcstm"
+    type: betting
+  - id: cabin
+    title: "Cabin"
+    path: "BGM04.bcstm"
+    type: betting
+  - id: recreation
+    title: "Recreation"
+    path: "BGM03.bcstm"
+    type: betting
+  - id: gaulem
+    title: "Gaulem"
+    path: "BGM28.bcstm"
+    type: betting
+  - id: gltm_km506
+    title: "GLTM-KM506"
+    path: "BGMM28.bcstm"
+    type: break
+...

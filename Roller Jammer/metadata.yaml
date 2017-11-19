@@ -1,0 +1,15 @@
+---
+id: roller_jammer
+title: "Roller Jammer"
+platform: "Arcade"
+year: 1984
+songs: 
+  - id: amateur_class_time_trial
+    title: "Amateur Class Time Trial"
+    path: "04 Amateur Class Time Trial.vgz"
+    type: result
+  - id: professional_class_time_trial
+    title: "Professional Class Time Trial"
+    path: "05 Professional Class Time Trial.vgz"
+    type: warning
+...

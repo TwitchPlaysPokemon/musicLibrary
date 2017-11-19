@@ -242,4 +242,8 @@ songs:
     title: "Mission Mode (Pikmin 3)"
     path: "snd_bgm_L10_PIK3_MissionMode.nus3bank"
     type: betting
+  - id: menu_ssbu
+    title: "Menu"
+    path: "snd_bgm_CRS01_Menu.nus3bank"
+    type: betting
 ...

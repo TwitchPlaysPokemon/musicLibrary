@@ -1,15 +1,10 @@
 ---
 id: fire_emblem_awakening
-platform: "3DS"
-title: "Fire Emblem: Awakening"
+title: "Fire Emblem Awakening"
 series: fireemblem
-year: 2013
+platform: "3DS"
+year: 2012
 songs: 
-#      - id: dont_say_her_name
-#        path: "Don't say her name!.brstm"
-#        title: "Don't say her name!"
-#        type: result
-# unfitting result song
   - id: id_purpose
     path: "Id ~ Purpose.brstm"
     title: "Id ~ Purpose"
@@ -46,4 +41,12 @@ songs:
     title: "Open for Business!"
     path: "Open for Business!.brstm"
     type: break
+  - id: id_darkness
+    title: "Id (Darkness)"
+    path: "STRM_BGM_EVT_MYUNIT4.bcstm"
+    type: betting
+  - id: storm_clouds_ablaze
+    title: "Storm Clouds (Ablaze)"
+    path: "STRM_BGM_MAP_BATTLE6.bcstm"
+    type: battle
 ...

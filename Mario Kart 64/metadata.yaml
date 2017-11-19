@@ -4,11 +4,23 @@ title: "Mario Kart 64"
 series: mario
 platform: "N64"
 year: 1996
-songs:
+songs: 
   - id: frappe_snowland
     title: "Frappe Snowland, Sherbet Land"
     path: "Frappe Snowland, Sherbet Land.miniusf"
     type: betting
+  - id: banshee_boardwalk
+    title: "Banshee Boardwalk"
+    path: "07a - Banshee Boardwalk.miniusf"
+    type: betting
+  - id: bowsers_castle_mk64
+    title: "Bowser's Castle"
+    path: "09a - Bowser's Castle.miniusf"
+    type: betting
+  - id: bowsers_castle_fast
+    title: "Bowser's Castle (Fast)"
+    path: "09b - Bowser's Castle (Fast).miniusf"
+    type: warning
   - id: rainbow_road_mk64
     title: "Rainbow Road"
     path: "18a Rainbow Road.miniusf"

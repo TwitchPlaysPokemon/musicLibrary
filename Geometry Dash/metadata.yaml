@@ -1,0 +1,39 @@
+---
+id: geometry_dash
+title: "Geometry Dash"
+platform: ["PC", "Mobile"]
+year: 2013
+songs: 
+  - id: back_on_track
+    title: "Back On Track"
+    path: "Back On Track.brstm"
+    ends: 2:17
+    type: betting
+  - id: blast_processing
+    title: "Blast Processing"
+    path: "Blast Processing.brstm"
+    ends: 2:55
+    type: betting
+  - id: cycles
+    title: "Cycles"
+    path: "Cycles.brstm"
+    ends: 2:35
+    type: betting
+  - id: electroman_adventures_v2
+    title: "Electroman Adventures V2"
+    path: "Electroman Adventures V2.brstm"
+    type: battle
+  - id: geometrical_dominator
+    title: "Geometrical Dominator"
+    path: "Geometrical Dominator.brstm"
+    type: battle
+  - id: time_machine
+    title: "Time Machine"
+    path: "Time Machine.brstm"
+    ends: 3:15
+    type: betting
+  - id: xstep
+    title: "xStep"
+    path: "xStep.brstm"
+    type: betting
+...

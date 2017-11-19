@@ -1,8 +1,9 @@
+---
 id: mario_and_luigi_superstar_saga
 title: "Mario & Luigi: Superstar Saga"
 series: mario
-year: 2003
 platform: "GBA"
+year: 2003
 songs:
   - id: final_cackletta_battle
     title: "Final Cackletta Battle"
@@ -71,7 +72,7 @@ songs:
   - id: chateau_de_chucklehuck
     title: "Chateau de Chucklehuck"
     path: "Chateau de Chucklehuck.minigsf"
-    type: warning
+    type: betting
   - id: chucklehuck_woods
     title: "Chucklehuck Woods"
     path: "Chucklehuck Woods.minigsf"
@@ -92,3 +93,8 @@ songs:
     title: "Underground"
     path: "Underground.minigsf"
     type: betting
+  - id: koopa_cruiser
+    title: "Koopa Cruiser"
+    path: "Koopa Cruiser.minigsf"
+    type: betting
+...

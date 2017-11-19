@@ -1,3 +1,4 @@
+---
 id: sonic_after_the_sequel
 title: "Sonic: After the Sequel"
 series: sonic
@@ -30,3 +31,8 @@ songs:
     path: "Sonic After the Sequel (F) - Technology Tree Act 1.brstm"
     ends: 2:04
     type: betting
+  - id: the_schizophrenic_tower_for_moon_mansion_boss_act
+    title: "The Schizophrenic Tower - For Moon Mansion Boss Act"
+    path: "The Schizophrenic Tower - For Moon Mansion Boss Act.brstm"
+    type: battle
+...

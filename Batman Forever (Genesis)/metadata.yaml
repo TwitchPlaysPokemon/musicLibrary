@@ -1,0 +1,19 @@
+---
+id: batman_forever_genesis
+title: "Batman Forever [Genesis]"
+platform: "Various"
+year: 1995
+songs: 
+  - id: stages_2_and_5_second_bank_of_gotham
+    title: "Stages 2 & 5 ~Second Bank of Gotham~"
+    path: "04 - Stages 2 & 5 ~Second Bank of Gotham~.vgz"
+    type: betting
+  - id: stage_3_hippodrome_circus
+    title: "Stage 3 ~Hippodrome Circus~"
+    path: "05 - Stage 3 ~Hippodrome Circus~.vgz"
+    type: betting
+  - id: stages_4_and_8_warehouse_claw_island
+    title: "Stages 4 & 8 ~Warehouse - Claw Island~"
+    path: "06 - Stages 4 & 8 ~Warehouse - Claw Island~.vgz"
+    type: warning
+...

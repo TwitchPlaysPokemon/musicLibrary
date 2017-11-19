@@ -1,0 +1,12 @@
+---
+id: rollercoaster_tycoon
+title: "RollerCoaster Tycoon"
+series: rollercoastertycoon
+platform: ["PC", "Xbox"]
+year: 1999
+songs: 
+  - id: title_screen_rollercoaster_tycoon
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+...

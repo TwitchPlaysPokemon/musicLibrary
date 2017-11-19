@@ -13,4 +13,20 @@ songs:
     title: "Circle of Life"
     path: "01 - Circle of Life.vgz"
     type: betting
+  - id: this_land
+    title: "This Land"
+    path: "02 - This Land.vgz"
+    type: betting
+  - id: be_prepared
+    title: "Be Prepared"
+    path: "05 - Be Prepared.vgz"
+    type: warning
+  - id: hakuna_matata
+    title: "Hakuna Matata"
+    path: "08 - Hakuna Matata.vgz"
+    type: betting
+  - id: can_you_feel_the_love_tonight
+    title: "Can You Feel the Love Tonight?"
+    path: "14 - Can You Feel the Love Tonight.vgz"
+    type: break
 ...

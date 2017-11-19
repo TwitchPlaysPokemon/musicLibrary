@@ -1,9 +1,10 @@
+---
 id: pokemon_shuffle
 title: "Pokémon Shuffle"
 series: pokemon
-year: 2015
 platform: ["3DS", "Mobile"]
-songs:
+year: 2015
+songs: 
   - id: against_a_mega_evolved_pokemon
     title: "Against a Mega-Evolved Pokémon"
     path: "Battle! Against a Mega-Evolved Pokemon.brstm"
@@ -36,3 +37,8 @@ songs:
     title: "Mt. Vinter"
     path: "Mt. Vinter.brstm"
     type: break
+  - id: castle_noapte
+    title: "Castle Noapte"
+    path: "BGM_MAP_MAIN10.dspadpcm.bcstm"
+    type: betting
+...

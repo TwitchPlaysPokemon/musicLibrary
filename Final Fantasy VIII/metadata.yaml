@@ -1,68 +1,72 @@
 ---
 id: final_fantasy_viii
-platform: "PS1"
 title: "Final Fantasy VIII"
 series: finalfantasy
+platform: ["PS1", "PC"]
 year: 1999
 songs: 
   - id: force_your_way
-    path: "Force Your Way.brstm"
     title: "Force Your Way"
+    path: "Force Your Way.brstm"
     type: battle
   - id: never_look_back
-    path: "112 Never Look Back.psf"
     title: "Never Look Back"
+    path: "112 Never Look Back.psf"
     type: battle
   - id: shuffle_or_boogie
-    path: "115 Shuffle Or Boogie.psf"
     title: "Shuffle Or Boogie"
+    path: "115 Shuffle Or Boogie.psf"
     type: battle
   - id: the_man_with_the_machine_gun
-    path: "119 The Man With the Machine Gun.psf"
     title: "The Man With the Machine Gun"
+    path: "119 The Man With the Machine Gun.psf"
     type: battle
   - id: the_mission
-    path: "202 The Mission.psf"
     title: "The Mission"
+    path: "202 The Mission.psf"
     type: battle
   - id: only_a_plank_between_one_and_perdition
-    path: "205 Only a Plank Between One and Perdition.psf"
     title: "Only a Plank Between One and Perdition"
+    path: "205 Only a Plank Between One and Perdition.psf"
     type: battle
   - id: the_stage_is_set
-    path: "210 The Stage is Set.psf"
     title: "The Stage is Set"
+    path: "210 The Stage is Set.psf"
     type: battle
   - id: premonition
-    path: "214 Premonition.psf"
     title: "Premonition"
+    path: "214 Premonition.psf"
     type: battle
   - id: movin
-    path: "303 Movin'.psf"
     title: "Movin'"
+    path: "303 Movin'.psf"
     type: battle
   - id: mods_de_chocobo
-    path: "401 Mods de Chocobo.psf"
     title: "Mods de Chocobo"
+    path: "401 Mods de Chocobo.psf"
     type: betting
   - id: the_legendary_beast
-    path: "407 The Legendary Beast.psf"
     title: "The Legendary Beast"
+    path: "407 The Legendary Beast.psf"
     type: battle
   - id: maybe_im_a_lion
-    path: "Maybe I'm a Lion.brstm"
     title: "Maybe I'm a Lion"
+    path: "Maybe I'm a Lion.brstm"
     type: battle
   - id: overture
-    path: "412 Overture.psf"
     title: "Overture"
+    path: "412 Overture.psf"
     type: betting
   - id: dont_be_afraid
-    path: "104 Don't Be Afraid.psf"
     title: "Don't Be Afraid"
+    path: "104 Don't Be Afraid.psf"
     type: battle
   - id: the_winner
-    path: "105 The Winner.psf"
     title: "The Winner"
+    path: "105 The Winner.psf"
     type: result
+  - id: the_extreme
+    title: "The Extreme (No Intro)"
+    path: "The Extreme (No Intro).brstm"
+    type: battle
 ...

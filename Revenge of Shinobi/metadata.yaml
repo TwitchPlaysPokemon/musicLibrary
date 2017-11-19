@@ -1,0 +1,36 @@
+---
+id: the_revenge_of_shinobi
+title: "The Revenge of Shinobi"
+series: shinobi
+platform: ["Genesis", "Mobile"]
+year: 1989
+songs: 
+  - id: the_shinobi
+    title: "The Shinobi"
+    path: "03 - The Shinobi.vgz"
+    type: betting
+  - id: make_me_dance
+    title: "Make Me Dance"
+    path: "07 - Make Me Dance.vgz"
+    type: betting
+  - id: the_dark_city
+    title: "The Dark City"
+    path: "11 - The Dark City.vgz"
+    type: betting
+  - id: china_town
+    title: "China Town"
+    path: "12 - China Town.vgz"
+    type: betting
+  - id: over_the_bay
+    title: "Over the Bay"
+    path: "13 - Over the Bay.vgz"
+    type: betting
+  - id: my_lover
+    title: "My Lover"
+    path: "17 - My Lover.vgz"
+    type: warning
+  - id: china_town_arranged_version
+    title: "China Town (Arranged Version)"
+    path: "China Town (Arranged Version).brstm"
+    type: betting
+...

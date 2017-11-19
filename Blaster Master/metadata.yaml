@@ -1,8 +1,9 @@
-id: blaster_master
+---
+id: blaster_baster
 title: "Blaster Master"
-year: 1988
 platform: "NES"
-songs:
+year: 1988
+songs: 
   - id: area_1_bm
     title: "Area 1"
     path: "Area 1.vgz"
@@ -11,6 +12,10 @@ songs:
     title: "Area 3"
     path: "03 Area 3.vgz"
     type: betting
+  - id: area_4_bm
+    title: "Area 4"
+    path: "Area 4.vgz"
+    type: warning
   - id: blaster_master_intro
     title: "Blaster Master Intro"
     path: "14 Blaster Master Intro.vgz"
@@ -23,3 +28,4 @@ songs:
     title: "Ending"
     path: "12 Ending.vgz"
     type: result
+...

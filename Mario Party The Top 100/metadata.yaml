@@ -1,0 +1,60 @@
+---
+id: mario_party_the_top_100
+title: "Mario Party: The Top 100"
+series: marioparty
+platform: "3DS"
+year: 2017
+songs: 
+  - id: try_hard_folks_mp_top_100
+    title: "Try Hard, Folks"
+    path: "SM_BGM_MG020.dspadpcm.bcstm"
+    type: battle
+  - id: soar_to_score_mp_top_100
+    title: "Soar to Score"
+    path: "SM_BGM_MG041.dspadpcm.bcstm"
+    type: warning
+  - id: lets_limbo_mp_top_100
+    title: "Let's Limbo"
+    path: "SM_BGM_MG002.dspadpcm.bcstm"
+    type: warning
+  - id: relaxed_mp_top_100
+    title: "Relaxed"
+    path: "SM_BGM_MG029.dspadpcm.bcstm"
+    type: betting
+  - id: nervous_tension_mp_top_100
+    title: "Nervous Tension"
+    path: "SM_BGM_MG047.dspadpcm.bcstm"
+    type: warning
+  - id: come_on_chop_chop_mp_top_100
+    title: "Come On, Chop-Chop!"
+    path: "SM_BGM_MG012.dspadpcm.bcstm"
+    type: betting
+  - id: can_it_be_done_mp_top_100
+    title: "Can It Be Done?"
+    path: "SM_BGM_MG042.dspadpcm.bcstm"
+    type: warning
+  - id: bustling_noisily_mp_top_100
+    title: "Bustling Noisily"
+    path: "SM_BGM_MG023.dspadpcm.bcstm"
+    type: warning
+  - id: jazzy_mp_top_100
+    title: "Jazzy"
+    path: "SM_BGM_MG026.dspadpcm.bcstm"
+    type: warning
+  - id: who_else_is_playing_mp_top_100
+    title: "Who Else is Playing?"
+    path: "SM_BGM_MENU_COMMUNICATION.dspadpcm.bcstm"
+    type: betting
+  - id: cool_as_a_cucumber_mp_top_100
+    title: "Cool as a Cucumber"
+    path: "SM_BGM_MG030.dspadpcm.bcstm"
+    type: result
+  - id: gaming_with_bowser_mp_top_100
+    title: "Gaming with Bowser"
+    path: "SM_BGM_MG027.dspadpcm.bcstm"
+    type: warning
+  - id: island_activities_mp_top_100
+    title: "Island Activities"
+    path: "SM_BGM_MG038.dspadpcm.bcstm"
+    type: result
+...

@@ -1,9 +1,9 @@
 ---
 id: undertale
-title: "Undertale"
+title: "UNDERTALE"
+platform: "Various"
 year: 2015
-platform: "PC"
-songs:
+songs: 
   - id: asgore
     title: "ASGORE"
     path: "ASGORE (Game Loop).brstm"
@@ -90,4 +90,28 @@ songs:
     title: "Fallen Down (Reprise)"
     path: "Fallen Down (Reprise).brstm"
     type: break
+  - id: empty_house
+    title: "Empty House"
+    path: "Empty House.brstm"
+    type: break
+  - id: ghost_fight
+    title: "Ghost Fight"
+    path: "Ghost Fight.brstm"
+    type: battle
+  - id: premonition_ut
+    title: "Premonition"
+    path: "Premonition.brstm"
+    type: break
+  - id: spider_dance
+    title: "Spider Dance"
+    path: "Spider Dance.brstm"
+    type: battle
+  - id: bonetrousle
+    title: "Bonetrousle"
+    path: "Bonetrousle.brstm"
+    type: betting
+  - id: unneccessary_tension
+    title: "Unneccessary Tension"
+    path: "mus_tension.brstm"
+    type: warning
 ...

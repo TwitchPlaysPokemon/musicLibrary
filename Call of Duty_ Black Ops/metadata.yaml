@@ -2,10 +2,10 @@
 id: call_of_duty_black_ops
 title: "Call of Duty: Black Ops"
 series: callofduty
-year: 2010
 platform: ["360", "Various"]
 #other platforms: ["PS3", "PC", "Wii", "NDS"]
-songs:
+year: 2010
+songs: 
   - id: twilight_dead_ops_arcade
     title: "Twilight (Dead Ops Arcade)"
     path: "Twilight (Dead Ops Arcade).brstm"
@@ -30,4 +30,12 @@ songs:
     title: "Temple (Dead Ops Arcade)"
     path: "Temple (Dead Ops Arcade).brstm"
     type: betting
+  - id: laughing_corpses_dead_ops_arcade
+    title: "Laughing Corpses (Dead Ops Arcade)"
+    path: "Laughing Corpses (Dead Ops Arcade).brstm"
+    type: betting
+  - id: raining_teddy_bears_dead_ops_arcade
+    title: "Raining Teddy Bears (Dead Ops Arcade)"
+    path: "Raining Teddy Bears (Dead Ops Arcade).brstm"
+    type: battle
 ...

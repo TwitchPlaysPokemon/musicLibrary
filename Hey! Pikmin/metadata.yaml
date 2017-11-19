@@ -1,0 +1,128 @@
+---
+id: hey_pikmin
+title: "Hey! Pikmin"
+series: pikmin
+platform: "3DS"
+year: 2017
+songs: 
+  - id: brilliant_garden_area_select
+    title: "Brilliant Garden - Area Select"
+    path: "BGM_05_W1_course_select.dspadpcm.bcstm"
+    type: break
+  - id: brilliant_garden - Overworld
+    title: "Brilliant Garden - Overworld"
+    path: "BGM_14_W1_course_head.dspadpcm.bcstm"
+    type: betting
+  - id: cave_hey_pikmin
+    title: "Cave"
+    path: "BGM_30_special_course_1_head.dspadpcm.bcstm"
+    type: betting
+  - id: leafswirl_lagoon_area_select
+    title: "Leafswirl Lagoon - Area Select"
+    path: "BGM_09__5_course_select.dspadpcm.bcstm"
+    type: break
+  - id: leafswirl_lagoon_overworld
+    title: "Leafswirl Lagoon - Overworld"
+    path: "BGM_22__5_course_head.dspadpcm.bcstm"
+    type: betting
+  - id: logbook
+    title: "Logbook"
+    path: "BGM_69_zukan_kyotu.dspadpcm.bcstm"
+    type: betting
+  - id: lushlike_murk_area_select
+    title: "Lushlike Murk - Area Select"
+    path: "BGM_12__8_course_select.dspadpcm.bcstm"
+    type: break
+  - id: lushlike_murk_overworld
+    title: "Lushlike Murk - Overworld"
+    path: "BGM_28__8_course_head.dspadpcm.bcstm"
+    type: betting
+  - id: olimars_madcap_dash
+    title: "Olimar's Madcap Dash"
+    path: "BGM_38_special_course_5_head.dspadpcm.bcstm"
+    type: betting
+  - id: over_wintry_mountains
+    title: "Over Wintry Mountains"
+    path: "BGM_36_special_course_4_head.dspadpcm.bcstm"
+    type: betting
+  - id: ravaged_rustworks_area_select
+    title: "Ravaged Rustworks - Area Select"
+    path: "BGM_08__4_course_select.dspadpcm.bcstm"
+    type: betting
+  - id: ravaged_rustworks_overworld
+    title: "Ravaged Rustworks - Overworld"
+    path: "BGM_20_W4_course_head.dspadpcm.bcstm"
+    type: betting
+  - id: sizzling_precipice
+    title: "Sizzling Precipice"
+    path: "BGM_34_special_course_3_head.dspadpcm.bcstm"
+    type: betting
+  - id: snowball_field_area_select
+    title: "Snowball Field - Area Select"
+    path: "BGM_11__7_course_select.dspadpcm.bcstm"
+    type: break
+  - id: snowball_field_overworld
+    title: "Snowball Field - Overworld"
+    path: "BGM_26_W7_course_head.dspadpcm.bcstm"
+    type: betting
+  - id: sparkling_labyrinth_area_select
+    title: "Sparkling Labyrinth - Area Select"
+    path: "BGM_07_W3_course_select.dspadpcm.bcstm"
+    type: betting
+  - id: sparking_labyrinth_overworld
+    title: "Sparking Labyrinth - Overworld"
+    path: "BGM_18_W3_course_head.dspadpcm.bcstm"
+    type: betting
+  - id: sparklium_springs
+    title: "Sparklium Springs"
+    path: "BGM_76_kirakira_no_izumi_kyotsu.dspadpcm.bcstm"
+    type: betting
+  - id: sweltering_parchlands_area_select
+    title: "Sweltering Parchlands - Area Select"
+    path: "BGM_10__6_course_select.dspadpcm.bcstm"
+    type: break
+  - id: sweltering_parchlands_overworld
+    title: "Sweltering Parchlands - Overworld"
+    path: "BGM_24_W6_course_head.dspadpcm.bcstm"
+    type: betting
+  - id: valley_of_the_breeze
+    title: "Valley of the Breeze"
+    path: "BGM_32_special_course_2_head.dspadpcm.bcstm"
+    type: betting
+  - id: verdant_waterfront_area_select
+    title: "Verdant Waterfront - Area Select"
+    path: "BGM_06_W2_course_select.dspadpcm.bcstm"
+    type: betting
+  - id: verdant_waterfront_overworld
+    title: "Verdant Waterfront - Overworld"
+    path: "BGM_16_W2_course_head.dspadpcm.bcstm"
+    type: betting
+  - id: vs_armurk
+    title: "VS. Armurk"
+    path: "BGM_90_boss_stg3.dspadpcm.bcstm"
+    type: battle
+  - id: vs_berserk_leech_hydroe_phase_1
+    title: "VS. Berserk Leech Hydroe - Phase 1"
+    path: "BGM_108_boss_stg9_1.dspadpcm.bcstm"
+    type: battle
+  - id: vs_berserk_leech_hydroe_phase_2
+    title: "VS. Berserk Leech Hydroe - Phase 2"
+    path: "BGM_109_boss_stg9_2.dspadpcm.bcstm"
+    type: warning
+  - id: vs_berserk_leech_hydroe_phase_3
+    title: "VS. Berserk Leech Hydroe - Phase 3"
+    path: "BGM_110_boss_stg9_3.dspadpcm.bcstm"
+    type: warning
+  - id: vs_bulborb
+    title: "VS. Bulborb"
+    path: "BGM_46_boss_stg1.dspadpcm.bcstm"
+    type: warning
+  - id: vs_emperor_bulblax
+    title: "VS. Emperor Bulblax"
+    path: "BGM_107_boss_stg8.dspadpcm.bcstm"
+    type: battle
+  - id: vs_lurking_slurker
+    title: "VS. Lurking Slurker"
+    path: "BGM_106_boss_stg7.dspadpcm.bcstm"
+    type: battle
+...

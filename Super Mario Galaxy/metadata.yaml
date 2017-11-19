@@ -13,6 +13,14 @@ songs:
     title: "Buoy Base Galaxy"
     path: "SMG_galaxy04_multi0.ast"
     type: betting
+  - id: buoy_base_galaxy_underwater
+    title: "Buoy Base Galaxy - Underwater"
+    path: "SMG_galaxy04_multi1.ast"
+    type: betting
+  - id: deep_dark_galaxy
+    title: "Deep Dark Galaxy"
+    path: "SMG_galaxy05_strm.ast"
+    type: betting
   - id: egg_planet
     title: "Egg Planet"
     path: "SMG_galaxy01_strm.ast"
@@ -30,6 +38,10 @@ songs:
     title: "Purple Comet"
     path: "SMG_galaxy21_strm.ast"
     type: betting
+  - id: space_fantasy
+    title: "Space Fantasy"
+    path: "SMG_galaxy12_strm.ast"
+    type: break
   - id: space_junk_road
     title: "Space Junk Galaxy"
     path: "SMG_galaxy08_strm.ast"
@@ -49,6 +61,10 @@ songs:
   - id: big_staircase_smg
     title: "The Big Staircase"
     path: "SMG_galaxy15_hurry_strm.ast"
+    type: warning
+  - id: bowser_appears
+    title: "Bowser Appears"
+    path: "SMG_ev_kuppabt01_strm.ast"
     type: warning
   - id: course_select_super_mario_galaxy
     title: "Course Select"
@@ -82,6 +98,10 @@ songs:
     title: "Megaleg"
     path: "SMG_boss02a_strm.ast"
     type: battle
+  - id: pipe_interior
+    title: "Pipe Interior"
+    path: "SMG_galaxy18_strm.ast"
+    type: break
   - id: star_babies
     title: "Star Child"
     path: "SMG_ev_epilogue_b_strm.ast"

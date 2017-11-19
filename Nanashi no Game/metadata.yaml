@@ -1,0 +1,19 @@
+---
+id: nanashi_no_game
+title: "Nanashi no Game"
+platform: "NDS"
+year: 2008
+songs: 
+  - id: nameless_theme
+    title: "Nameless Theme"
+    path: "0000 SEQ_2D_NOMAL.mini2sf"
+    type: betting
+  - id: not_long_until_morning
+    title: "Not Long Until Morning"
+    path: "STRM_TimeCount.strm"
+    type: warning
+  - id: nameless_theme_music_box_version
+    title: "Nameless Theme (Music Box Version)"
+    path: "000a SEQ_MusicBox.mini2sf"
+    type: break
+...

@@ -111,4 +111,12 @@ songs:
     path: "Red Helmet's Extermination.brstm"
     title: "Red Helmet's Extermination"
     type: battle
+  - id: a_great_spirit_lies_in_wait
+    title: "A Great Spirit Lies in Wait"
+    path: "A Great Spirit Lies in Wait.brstm"
+    type: break
+  - id: a_monsters_presence
+    title: "A Monster's Presence"
+    path: "A Monster's Presence.mp3"
+    type: warning
 ...

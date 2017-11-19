@@ -1,3 +1,4 @@
+---
 id: super_mario_bros_2
 title: "Super Mario Bros. 2"
 series: mario
@@ -8,3 +9,8 @@ songs:
     title: "Overworld"
     path: "Overworld.vgz"
     type: betting
+  - id: ending_super_mario_bros_2
+    title: "Ending"
+    path: "12 Ending.vgz"
+    type: result
+...

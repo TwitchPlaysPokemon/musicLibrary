@@ -1,5 +1,7 @@
+---
 id: jackbox_party_pack
 title: "Jackbox Party Pack"
+series: thejackboxpartypack
 platform: ["PC", "Various"]
 year: 2014
 songs: 
@@ -11,3 +13,52 @@ songs:
     title: "Fibbage 01 Lobby Music:Credits"
     path: "Fibbage 01 Lobby Music_Credits.brstm"
     type: break
+  - id: drawful_01_lobby_score_review_instructions
+    title: "Drawful 01 Lobby:Score Review:Instructions"
+    path: "Drawful 01 Lobby-Score Review-Instructions.brstm"
+    type: break
+  - id: drawful_03_writelie
+    title: "Drawful 03 WriteLie"
+    path: "Drawful 03 WriteLie.brstm"
+    type: result
+  - id: drawful_15_credits
+    title: "Drawful 15 Credits"
+    path: "Drawful 15 Credits.brstm"
+    type: result
+  - id: fibbage_19_score_review_before_ff
+    title: "Fibbage 19 Score Review Before FF"
+    path: "Fibbage 19 Score Review before FF.brstm"
+    type: warning
+  - id: fibbage_05_question_music
+    title: "Fibbage 05 Question Music"
+    path: "Fibbage 05 Question Music.brstm"
+    type: warning
+  - id: lieswatter_02_lobby_score_review
+    title: "LieSwatter 02 Lobby:Score Review"
+    path: "LieSwatter 02 Lobby-Score Review.brstm"
+    type: break
+  - id: lieswatter_03_category_reveal
+    title: "LieSwatter 03 Category Reveal"
+    path: "LieSwatter 03 Category Reveal.brstm"
+    type: warning
+  - id: lieswatter_10_credits
+    title: "LieSwatter 10 Credits"
+    path: "LieSwatter 10 Credits.brstm"
+    type: result
+  - id: ydkj_answer_bed_2
+    title: "YDKJ Answer Bed 2"
+    path: "YDKJ Answer Bed 2.brstm"
+    type: warning
+  - id: ydkj_answer_bed_3
+    title: "YDKJ Answer Bed 3"
+    path: "YDKJ Answer Bed 3.brstm"
+    type: warning
+  - id: ydkj_banter_4
+    title: "YDKJ Banter 4"
+    path: "YDKJ Banter 4.brstm"
+    type: result
+  - id: drawful_04_chooselie
+    title: "Drawful 04 ChooseLie"
+    path: "Drawful 04 ChooseLie.brstm"
+    type: warning
+...

@@ -1,9 +1,14 @@
+---
 id: chocobos_mysterious_dungeon
 title: "Chocobo's Mysterious Dungeon"
+series: mysterydungeon
+platform: ["PS1", "WS"]
 year: 1997
-series: chocobo
-platform: "PS1"
-songs:
+songs: 
+  - id: scythe_man_is_coming
+    title: "Scythe Man Is Coming!"
+    path: "Scythe Man Is Coming!.psf"
+    type: warning
   - id: chocobo_village
     title: "Chocobo Village"
     path: "Chocobo Village.psf"
@@ -12,3 +17,4 @@ songs:
     title: "Store Man"
     path: "Store Man.psf"
     type: break
+...

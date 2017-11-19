@@ -1,9 +1,15 @@
+---
 id: wii_system
 title: "Wii System"
-year: 2006
 platform: "Wii"
+year: 2006
 songs:
   - id: mii_channel_wii
     title: "Mii Channel"
     path: "Mii Channel Music.brstm"
     type: break
+  - id: wii_shop_channel_wii
+    title: "Wii Shop Channel"
+    path: "Wii Shop Channel.brstm"
+    type: break
+...

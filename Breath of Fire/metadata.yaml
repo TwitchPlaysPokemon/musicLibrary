@@ -1,12 +1,49 @@
 ---
 id: breath_of_fire
 title: "Breath of Fire"
+series: breathoffire
 platform: "SNES"
 year: 1993
 songs: 
   - id: profit
     title: "Profit"
     path: "09 Profit.spc"
+    type: betting
+  - id: sorrow
+    title: "Sorrow"
+    path: "10 Sorrow.spc"
+    type: betting
+  - id: culvert
+    title: "Culvert"
+    path: "18 Culvert.spc"
+    type: betting
+  - id: skyscraper
+    title: "Skyscraper"
+    path: "19 Skyscraper.spc"
+    type: betting
+  - id: a_brave_general
+    title: "A Brave General"
+    path: "20 A Brave General.spc"
+    type: warning
+  - id: deep_forest
+    title: "Deep Forest"
+    path: "21 Deep Forest.spc"
+    type: betting
+  - id: secret_city
+    title: "Secret City"
+    path: "29 Secret City.spc"
+    type: betting
+  - id: the_empire
+    title: "The Empire"
+    path: "43 The Empire.spc"
+    type: betting
+  - id: gods_footprints
+    title: "God's Footprints"
+    path: "45 God's Footprints.spc"
+    type: break
+  - id: the_final_level
+    title: "The Final Level"
+    path: "46 The Final Level.spc"
     type: betting
   - id: dungeon_2_ancient_ruins
     title: "Dungeon 2 [Ancient Ruins]"

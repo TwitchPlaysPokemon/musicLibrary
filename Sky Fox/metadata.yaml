@@ -1,0 +1,15 @@
+---
+id: sky_fox
+title: "Sky Fox"
+platform: "Arcade"
+year: 1987
+songs: 
+  - id: bgm_1_sky_fox
+    title: "BGM 1"
+    path: "02 BGM 1.vgz"
+    type: betting
+  - id: name_entry
+    title: "Name Entry"
+    path: "05 Name Entry.vgz"
+    type: result
+...

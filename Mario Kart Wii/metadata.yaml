@@ -4,7 +4,7 @@ title: "Mario Kart Wii"
 series: mario
 platform: "Wii"
 year: 2008
-songs:
+songs: 
   - id: boss_mkwii
     title: "Boss"
     path: "Boss.brstm"
@@ -29,4 +29,8 @@ songs:
     title: "Moo Moo Meadows"
     path: "n_Farm_n.brstm"
     type: betting
+  - id: gba_bowser_castle_3
+    title: "GBA Bowser Castle 3"
+    path: "r_AGB_Kuppa32_n.brstm"
+    type: battle
 ...

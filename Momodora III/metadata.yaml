@@ -1,0 +1,56 @@
+---
+id: momodora_iii
+title: "Momodora III"
+series: momodora
+platform: "PC"
+year: 2014
+songs: 
+  - id: artemisias_grave
+    title: "Artemisia's Grave"
+    path: "Artemisia's Grave.brstm"
+    type: betting
+  - id: belltower_garden
+    title: "Belltower Garden"
+    path: "Belltower Garden.brstm"
+    type: betting
+  - id: boss_2_momodora_iii
+    title: "Battle C"
+    path: "Boss 2.brstm"
+    type: warning
+  - id: boss_3_momodora_iii
+    title: "Battle B"
+    path: "Boss 3.brstm"
+    type: warning
+  - id: dim_hideout
+    title: "Dim Hideout"
+    path: "Dim Hideout.brstm"
+    type: betting
+  - id: ending_momodora_iii
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+  - id: final_boss_momodora_iii
+    title: "Final Boss"
+    path: "Final Boss.brstm"
+    type: warning
+  - id: ishlith_shrine
+    title: "Ishlith Shrine"
+    path: "Ishlith Shrine.brstm"
+    type: betting
+  - id: melilots_theme
+    title: "Melilot's Theme"
+    path: "Melilot's Theme.brstm"
+    type: result
+  - id: old_madryn
+    title: "Old Madryn"
+    path: "Old Madryn.brstm"
+    type: betting
+  - id: ishlith_shrine_b
+    title: "Ishlith Shrine B"
+    path: "Ishlith Shrine B.brstm"
+    type: betting
+  - id: title_momodora_iii
+    title: "Title Screen"
+    path: "Title.brstm"
+    type: result
+...

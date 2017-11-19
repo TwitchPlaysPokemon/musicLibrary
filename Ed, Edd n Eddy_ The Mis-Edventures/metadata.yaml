@@ -1,10 +1,21 @@
+---
 id: ed_edd_n_eddy_the_mis_edventures
-title: "Ed, Edd n Eddy: The Mis-Edventures"
-platform: ["GC", "Various"]
-#other platforms: ["PC", "Xbox", "PS2", "GBA"]
+title: "Ed, Edd n Eddy: The Mis-Edventures [GCN/PS2/Xbox]"
+platform: "Various"
+#other platforms: ["PC", "GBA"]
 year: 2005
 songs: 
+  - id: bgm01_ed
+    title: "BGM01"
+    path: "BGM01.brstm"
+    ends: 2:23
+    type: betting
   - id: bgm03_ed
     title: "BGM03"
     path: "BGM03.brstm"
     type: warning
+  - id: bgm05_ed
+    title: "BGM05"
+    path: "BGM05.brstm"
+    type: warning
+...

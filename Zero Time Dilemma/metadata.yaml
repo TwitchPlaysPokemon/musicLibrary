@@ -9,4 +9,20 @@ songs:
     title: "Transient Tranquility"
     path: "Transient Tranquility.bcstm"
     type: betting
+  - id: ustulate_pathos
+    title: "Ustulate Pathos"
+    path: "BGM_40.dspadpcm.bcstm"
+    type: break
+  - id: trash_disposal_room
+    title: "Trash Disposal Room"
+    path: "BGM_10.dspadpcm.bcstm"
+    type: warning
+  - id: reminiscence_ztd
+    title: "Reminiscence"
+    path: "BGM_41.dspadpcm.bcstm"
+    type: break
+  - id: tough_decision
+    title: "Tough Decision"
+    path: "BGM_16.dspadpcm.bcstm"
+    type: betting
 ...

@@ -9,6 +9,14 @@ songs:
     path: "The Genie's Lamp.spc"
     ends: 3:10
     type: betting
+  - id: one_step_ahead
+    title: "One Step Ahead"
+    path: "One Step Ahead.spc"
+    type: betting
+  - id: the_cave_of_wonders
+    title: "The Cave of Wonders"
+    path: "09 The Cave of Wonders.spc"
+    type: betting
   - id: storming_jafars_palace
     title: "Storming Jafar's Palace"
     path: "Storming Jafar's Palace.spc"
@@ -17,8 +25,4 @@ songs:
     title: "''Group Hug!''"
     path: "''Group Hug!''.spc"
     type: result
-  - id: one_step_ahead
-    title: "One Step Ahead"
-    path: "One Step Ahead.spc"
-    type: betting
 ...

@@ -1,0 +1,43 @@
+---
+id: baby_felix_halloween
+title: "Baby Felix - Halloween"
+platform: "GBC"
+year: 2001
+songs: 
+  - id: main_menu_baby_felix_halloween
+    title: "Main Menu"
+    path: "01 Main Menu.vgz"
+    type: result
+  - id: character_select_baby_felix_halloween
+    title: "Character Select"
+    path: "02 Character Select.vgz"
+    type: result
+  - id: stage_select_baby_felix_halloween
+    title: "Stage Select"
+    path: "03 Stage Select.vgz"
+    type: warning
+  - id: halloween_world
+    title: "Halloween World"
+    path: "05 Halloween World.vgz"
+    type: betting
+  - id: west_world
+    title: "West World"
+    path: "06 West World.vgz"
+    type: betting
+  - id: space_world
+    title: "Space World"
+    path: "07 Space World.vgz"
+    type: betting
+  - id: prehistoric_world
+    title: "Prehistoric World"
+    path: "08 Prehistoric World.vgz"
+    type: betting
+  - id: pirate_island
+    title: "Pirate Island"
+    path: "09 Pirate Island.vgz"
+    type: betting
+  - id: boss_baby_felix_halloween
+    title: "Boss"
+    path: "10 Boss.vgz"
+    type: warning
+...

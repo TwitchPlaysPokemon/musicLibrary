@@ -45,4 +45,24 @@ songs:
     title: "Twilit Cargo Game"
     path: "Twilit Cargo Game.brstm"
     type: warning
+  - id: palace_of_twilight_exterior
+    title: "Palace of Twilight - Exterior"
+    path: "Palace of Twilight - Outside.brstm"
+    type: break
+  - id: hyrule_field_night_theme
+    title: "Hyrule Field Night Theme"
+    path: "Hyrule Field Night Theme.brstm"
+    type: break
+  - id: snowpeak_ruins
+    title: "Snowpeak Ruins"
+    path: "Snowpeak Ruins.brstm"
+    type: betting
+  - id: blizzeta_battle_second_half
+    title: "Blizzeta Battle Second Half"
+    path: "Blizzeta Battle Second Half.brstm"
+    type: battle
+  - id: lakebed_temple
+    title: "Lakebed Temple"
+    path: "Lakebed Temple.brstm"
+    type: betting
 ...

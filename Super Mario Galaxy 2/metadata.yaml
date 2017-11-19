@@ -13,6 +13,10 @@ songs:
     title: "Bowser Jr.'s Fiery Flotilla"
     path: "SMG2_galaxy31_strm.ast"
     type: betting
+  - id: bowsers_lava_lair
+    title: "Bowser's Lava Lair"
+    path: "SMG2_galaxy15_strm.ast"
+    type: betting
   - id: melty_monster_galaxy
     title: "Melty Monster Galaxy"
     path: "SMG2_galaxy30_strm.ast"
@@ -60,5 +64,9 @@ songs:
   - id: starship_mario_dispatch
     title: "Starship Mario, Launch!"
     path: "Starship Mario, Dispatch!.brstm"
+    type: warning
+  - id: tension_super_mario_galaxy_2
+    title: "Tension"
+    path: "SMG2_galaxy_danger_strm.ast"
     type: warning
 ...

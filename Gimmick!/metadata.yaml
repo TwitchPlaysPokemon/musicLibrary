@@ -1,9 +1,67 @@
+---
 id: gimmick
 title: "Gimmick!"
-platform: "NES"
+platform: ["NES", "PS1"]
 year: 1992
 songs:
   - id: happy_birthday_gimmick
     title: "Happy Birthday (Stage 1)"
     path: "Happy Birthday (Stage 1).vgz"
     type: betting
+  - id: no_limits_map
+    title: "No Limits (Map)"
+    path: "02 No Limits (Map).vgz"
+    type: warning
+  - id: good_weather_stage_2
+    title: "Good Weather (Stage 2)"
+    path: "04 Good Weather (Stage 2).vgz"
+    type: betting
+  - id: paradox_stage_3_underground
+    title: "Paradox (Stage 3 Underground)"
+    path: "05 Paradox (Stage 3 Underground).vgz"
+    type: warning
+  - id: slow_illusion_stage_3_aboveground
+    title: "Slow Illusion (Stage 3 Aboveground)"
+    path: "06 Slow Illusion (Stage 3 Aboveground).vgz"
+    type: betting
+  - id: paradigm_stage_4
+    title: "Paradigm (Stage 4)"
+    path: "07 Paradigm (Stage 4).vgz"
+    type: betting
+  - id: lion_heart_stage_5
+    title: "Lion Heart (Stage 5)"
+    path: "08 Lion Heart (Stage 5).vgz"
+    type: betting
+  - id: cadbury_stage_6_interior
+    title: "Cadbury (Stage 6 Interior)"
+    path: "09 Cadbury (Stage 6 Interior).vgz"
+    type: betting
+  - id: innocent_stage_6_exterior
+    title: "Innocent (Stage 6 Exterior)"
+    path: "10 Innocent (Stage 6 Exterior).vgz"
+    type: result
+  - id: aporia_boss
+    title: "Aporia (Boss)"
+    path: "11 Aporia (Boss).vgz"
+    type: betting
+  - id: just_friends_secret_item_stage
+    title: "Just Friends (Secret Item Stage)"
+    path: "14 Just Friends (Secret Item Stage).vgz"
+    type: betting
+  - id: sophia_stage_7
+    title: "Sophia (Stage 7)"
+    path: "15 Sophia (Stage 7).vgz"
+    type: betting
+  - id: evidence_of_my_life_last_battle_part_1
+    title: "Evidence of My Life (Last Battle Part 1)"
+    path: "16 Evidence of My Life (Last Battle Part 1).vgz"
+    type: warning
+  - id: long_tomorrow_last_battle_part_2
+    title: "Long Tomorrow (Last Battle Part 2)"
+    path: "17 Long Tomorrow (Last Battle Part 2).vgz"
+    type: betting
+  - id: strange_memories_of_death_unused
+    title: "Strange Memories of Death (Unused)"
+    path: "19 Strange Memories of Death (Unused).vgz"
+    type: betting
+...

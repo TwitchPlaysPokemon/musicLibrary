@@ -2,15 +2,63 @@
 id: castlevania_bloodlines
 title: "Castlevania: Bloodlines"
 series: castlevania
-platform: "SMD"
+platform: "Genesis"
 year: 1994
 songs: 
+  - id: a_vision_of_dark_secrets_opening_theme
+    title: "A Vision of Dark Secrets (Opening Theme)"
+    path: "03 - A Vision of Dark Secrets (Opening Theme).vgz"
+    type: betting
   - id: reincarnated_soul_part_2_stage_1
     title: "Reincarnated Soul, Part 2 (Stage 1)"
     path: "07 - Reincarnated Soul, Part 2 (Stage 1).vgz"
     type: betting
+  - id: the_sinking_old_santuary_stage_2
+    title: "The Sinking Old Sanctuary (Stage 2)"
+    path: "08 - The Sinking Old Sanctuary (Stage 2).vgm"
+    type: betting
+  - id: the_discolored_wall_stage_3
+    title: "The Discolored Wall (Stage 3)"
+    path: "09 - The Discolored Wall (Stage 3).vgz"
+    type: warning
+  - id: beginning_classic_tune_1
+    title: "Beginning (Classic Tune 1)"
+    path: "10 - Beginning (Classic Tune 1).vgz"
+    type: battle
+  - id: bloody_tears_classic_tune_2
+    title: "Bloody Tears (Classic Tune 2)"
+    path: "11 - Bloody Tears (Classic Tune 2).vgz"
+    type: betting
+  - id: vampire_killer_classic_tune_3
+    title: "Vampire Killer (Classic Tune 3)"
+    path: "12 - Vampire Killer (Classic Tune 3).vgz"
+    type: betting
+  - id: mysterious_curse_password
+    title: "Mysterious Curse (Password)"
+    path: "14 - Mysterious Curse (Password).vgz"
+    type: warning
   - id: iron_blue_intention_stage_4
     title: "Iron-Blue Intention (Stage 4)"
     path: "15 - Iron-Blue Intention (Stage 4).vgz"
     type: betting
+  - id: pressure_invincibility
+    title: "Pressure (Invincibility)"
+    path: "18 - Pressure (Invincibility).vgz"
+    type: warning
+  - id: messenger_from_devil_area_boss_theme
+    title: "Messenger From Devil (Area Boss Theme)"
+    path: "19 - Messenger From Devil (Area Boss Theme).vgz"
+    type: warning
+  - id: theme_of_simon_classic_tune_4
+    title: "Theme of Simon (Classic Tune 4)"
+    path: "22 - Theme of Simon (Classic Tune 4).vgz"
+    type: betting
+  - id: the_vampires_stomach_final_boss_theme
+    title: "The Vampire's Stomach (Final Boss Theme)"
+    path: "23 - The Vampire's Stomach (Final Boss Theme).vgz"
+    type: warning
+  - id: together_forever_ending_theme
+    title: "Together Forever (Ending Theme)"
+    path: "29 - Together Forever (Ending Theme).vgz"
+    type: result
 ...

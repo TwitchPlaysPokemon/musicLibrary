@@ -1,8 +1,13 @@
+---
 id: pocky_and_rocky
 title: "Pocky & Rocky"
-year: 1992
 platform: "SNES"
-songs:
+year: 1992
+songs: 
+  - id: the_haunted_shrine
+    title: "The Haunted Shrine"
+    path: "07 The Haunted Shrine.spc"
+    type: betting
   - id: haunted_house_pocky_rocky
     title: "Haunted House"
     path: "Pocky & Rocky - 18 - Haunted House.spc"
@@ -11,3 +16,4 @@ songs:
     title: "The Forbidden Castle"
     path: "Pocky & Rocky - 21 - The Forbidden Castle.spc"
     type: betting
+...

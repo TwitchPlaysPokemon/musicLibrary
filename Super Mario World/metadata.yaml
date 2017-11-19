@@ -2,9 +2,9 @@
 id: super_mario_world
 title: "Super Mario World"
 series: mario
-year: 1990
 platform: "SNES"
-songs:
+year: 1990
+songs: 
   - id: valley_of_bowser
     path: "Valley of Bowser.brstm"
     title: "Valley of Bowser"
@@ -29,4 +29,20 @@ songs:
     title: "Underwater"
     path: "Underwater.brstm"
     type: betting
+  - id: haunted_house_super_mario_world
+    title: "Haunted House"
+    path: "15a Haunted House.spc"
+    type: betting
+  - id: haunted_house_hurry_super_mario_world
+    title: "Haunted House (Hurry)"
+    path: "15b Haunted House (Hurry).spc"
+    type: warning
+  - id: fortress_super_mario_world
+    title: "Fortress"
+    path: "16a Fortress.spc"
+    type: betting
+  - id: fortress_fortress_super_mario_world
+    title: "Fortress (Hurry)"
+    path: "16b Fortress (Hurry).spc"
+    type: warning
 ...

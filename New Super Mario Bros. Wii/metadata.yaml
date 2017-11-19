@@ -4,20 +4,20 @@ title: "New Super Mario Bros. Wii"
 series: mario
 platform: "Wii"
 year: 2009
-songs:
-  - id: airship_nsmbwii
+songs: 
+  - id: airship_nsmbw
     title: "Airship"
     path: "Airship.brstm"
     type: betting
-  - id: castle_nsmbwii
+  - id: castle_nsmbw
     title: "Castle"
     path: "Castle.brstm"
     type: betting
-  - id: fortress_nsmbwii
+  - id: fortress_nsmbw
     title: "Fortress"
     path: "Fortress.brstm"
     type: betting
-  - id: world_9_map
+  - id: world_9_map_nsmbw
     title: "World 9 Map"
     path: "World 9 Map.brstm"
     type: betting
@@ -25,24 +25,72 @@ songs:
     title: "Bowser Jr."
     path: "Bowser Jr..brstm"
     type: warning
-  - id: world_2_map
+  - id: world_2_map_nsmbw
     title: "World 2 Map"
     path: "World 2 Map.brstm"
     type: warning
-  - id: world_8_map
+  - id: world_8_map_nsmbw
     title: "World 8 Map"
     path: "World 8 Map.brstm"
     type: warning
-  - id: mid_boss_nsmbwii
+  - id: mid_boss_nsmbw
     title: "Mid Boss"
     path: "Mid Boss.brstm"
     type: battle
-  - id: battle_nsmbwii
+  - id: battle_nsmbw
     title: "Battle"
     path: "Battle.brstm"
     type: warning
-  - id: final_boss_phase_2_main
+  - id: final_boss_phase_2_main_nsmbw
     title: "Final Boss Phase 2 - Main"
     path: "STRM_BGM_LAST_BOSS2.brstm"
     type: warning
+  - id: ghost_house_nsmbw
+    title: "Ghost House"
+    path: "BGM_OBAKE.32.brstm"
+    type: betting
+  - id: athletic_nsmbw
+    title: "Athletic"
+    path: "athletic_lr.n.32.brstm"
+    type: betting
+  - id: beach_main_track_nsmbw
+    title: "Beach - Main Track"
+    path: "Beach - Main Track.brstm"
+    type: betting
+  - id: bonus_main_track_nsmbw
+    title: "Bonus - Main Track"
+    path: "Bonus - Main Track.brstm"
+    type: warning
+  - id: desert_main_track_nsmbw
+    title: "Desert - Main Track"
+    path: "Desert - Main Track.brstm"
+    type: betting
+  - id: forest_nsmbw
+    title: "Forest"
+    path: "mori_lr.ry.32.brstm"
+    type: betting
+  - id: peachs_castle_nsmbw
+    title: "Peach's Castle"
+    path: "peach_castle_lr.n.32.brstm"
+    type: break
+  - id: staff_credits_nsmbw
+    title: "Staff Credits"
+    path: "staffcredit_lr.ry.32.brstm"
+    type: result
+  - id: title_nsmbw
+    title: "Title"
+    path: "title_lr.ry.32.brstm"
+    type: result
+  - id: underwater_nsmbw
+    title: "Underwater"
+    path: "BGM_SUICHU.32.brstm"
+    type: break
+  - id: volcano_outside_nsmbw
+    title: "Volcano (Outside)"
+    path: "kazan_lr.n.32.brstm"
+    type: betting
+  - id: world_4_map_nsmbw
+    title: "World 4 Map"
+    path: "select_map04_umii.ry.32.brstm"
+    type: break
 ...

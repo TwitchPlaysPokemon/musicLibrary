@@ -1,0 +1,23 @@
+---
+id: majyuuou
+title: "Majyūō"
+platform: "SFC"
+year: 1995
+songs: 
+  - id: lava_pits_majyuuou
+    title: "Lava Pits"
+    path: "08 Lava Pits.spc"
+    type: betting
+  - id: inner_lair_majyuuou
+    title: "Inner Lair"
+    path: "09 Inner Lair.spc"
+    type: warning
+  - id: boss_2_majyuuou
+    title: "Boss 2"
+    path: "11 Boss 2.spc"
+    type: battle
+  - id: good_ending_majyuuou
+    title: "Good Ending"
+    path: "15 Good Ending.spc"
+    type: result
+...

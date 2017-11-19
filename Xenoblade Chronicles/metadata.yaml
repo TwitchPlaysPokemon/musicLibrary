@@ -1,8 +1,8 @@
 ---
 id: xenoblade_chronicles
-platform: "Wii"
 title: "Xenoblade Chronicles"
-series: xenoblade
+series: xeno
+platform: ["Wii", "3DS"]
 year: 2010
 songs: 
   - id: you_will_know_our_names
@@ -78,4 +78,13 @@ songs:
     title: "Mechonis Field"
     path: "Mechonis Field.adx"
     type: betting
+  - id: sword_valley
+    title: "Sword Valley"
+    path: "406 Manami Kiyota - The Great Sword's Canyon.adx"
+    ends: 2:09
+    type: betting
+  - id: tephra_cave
+    title: "Tephra Cave"
+    path: "306 Manami Kiyota - Tephra Cave.adx"
+    type: break
 ...

@@ -1,8 +1,9 @@
+---
 id: yooka_laylee
 title: "Yooka-Laylee"
-platform: ["PC", "PS4", "XBone"]
+platform: "Various"
 year: 2017
-songs:
+songs: 
   - id: armed_and_dangerous
     title: "Armed and Dangerous"
     path: "Armed and Dangerous.logg"
@@ -31,3 +32,8 @@ songs:
     title: "World 4 Variant 2"
     path: "World 4 Variant 2.logg"
     type: betting
+  - id: moodymaze_marsh
+    title: "Moodymaze Marsh"
+    path: "Moodymaze Marsh.brstm"
+    type: betting
+...

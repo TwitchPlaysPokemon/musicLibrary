@@ -1,7 +1,8 @@
+---
 id: super_meat_boy
 title: "Super Meat Boy"
-platform: ["Wii U", "Various"]
-#other platforms: ["360", "PC", "PS4", "Vita", "Android"]
+platform: "Various"
+#other platforms: ["Wii U", "360", "PC", "PS4", "Vita", "Android"]
 year: 2010
 songs: 
   - id: betus_blues
@@ -24,3 +25,52 @@ songs:
     title: "It Ends RETRO"
     path: "It Ends RETRO (Ch 5 Warp Zone).brstm"
     type: betting
+  - id: ballad_of_the_burning_squirrel_ch_1_dark_world
+    title: "Ballad of the Burning Squirrel (Ch 1 Dark World)"
+    path: "Ballad of the Burning Squirrel (Ch 1 Dark World).brstm"
+    type: betting
+  - id: chads_broken_wind
+    title: "C.H.A.D.'s Broken Wind"
+    path: "C.H.A.D.'s Broken Wind.brstm"
+    type: betting
+  - id: devil_n_bass_ch_4_dark_world
+    title: "Devil N' Bass (Ch 4 Dark World)"
+    path: "Devil N' Bass (Ch 4 Dark World).brstm"
+    type: battle
+  - id: dr_fetus_castle_ch_5_dark_world
+    title: "Dr. Fetus' Castle (Ch 5 Dark World)"
+    path: "Dr. Fetus' Castle (Ch 5 Dark World).brstm"
+    type: betting
+  - id: it_ends_ch_5_light_world
+    title: "It Ends (Ch 5 Light World)"
+    path: "It Ends (Ch 5 Light World).brstm"
+    type: betting
+  - id: it_ends_with_a_whimper
+    title: "It Ends with a Whimper"
+    path: "It Ends with a Whimper.brstm"
+    type: break
+  - id: lights_out_vita_ch_2_dark
+    title: "Lights Out (Vita Ch 2 Dark)"
+    path: "Lights Out (Vita Ch 2 Dark).brstm"
+    type: betting
+  - id: lil_slugger_battle_rb3_version
+    title: "Lil' Slugger Battle (RB3 Version)"
+    path: "Lil' Slugger Battle (RB3 version).brstm"
+    type: battle
+  - id: mclarty_party_people_cotton_alley_levels
+    title: "McLarty Party People (Cotton Alley Levels)"
+    path: "McLarty Party People (Cotton Alley Levels).brstm"
+    type: betting
+  - id: meat_spin
+    title: "Meat Spin"
+    path: "Meat Spin.brstm"
+    type: betting
+  - id: rocket_rider_ch_3_dark_world
+    title: "Rocket Rider (Ch 3 Dark World)"
+    path: "Rocket Rider (Ch 3 Dark World).brstm"
+    type: betting
+  - id: world_map_theme_super_meat_boy
+    title: "World Map Theme"
+    path: "World Map Theme.brstm"
+    type: result
+...

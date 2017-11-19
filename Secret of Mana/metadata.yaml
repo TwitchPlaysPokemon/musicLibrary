@@ -1,10 +1,10 @@
 ---
 id: secret_of_mana
 title: "Secret of Mana"
-series: seikendensetsu
-year: 1993
+series: mana
 platform: "SNES"
-songs:
+year: 1993
+songs: 
   - id: what_the_forest_taught_me
     title: "What the Forest Taught Me"
     path: "What the Forest Taught Me.spc"
@@ -53,4 +53,20 @@ songs:
     title: "The Color of the Summer Sky"
     path: "The Color of the Summer Sky.spc"
     type: betting
+  - id: phantom_and_a_rose
+    title: "Phantom and a Rose"
+    path: "03 Phantom and a Rose.spc"
+    type: betting
+  - id: in_the_dead_of_the_night
+    title: "In the Dead of the Night"
+    path: "12 In the Dead of the Night.spc"
+    type: warning
+  - id: ceremony_secret_of_mana
+    title: "Ceremony"
+    path: "32 Ceremony.spc"
+    type: betting
+  - id: the_oracle
+    title: "The Oracle"
+    path: "37 The Oracle.spc"
+    type: battle
 ...

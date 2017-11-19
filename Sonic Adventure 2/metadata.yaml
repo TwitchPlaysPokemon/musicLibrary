@@ -4,12 +4,7 @@ title: "Sonic Adventure 2"
 series: sonic
 platform: "DC"
 year: 2001
-songs:
-#      - id: biolizard
-#        title: "Boss - Biolizard"
-#        path: "Boss - Biolizard.brstm"
-#        type: battle
-# too many lyrics in the song
+songs: 
   - id: eggman_vs_tails
     title: "Boss - Eggman vs. Tails"
     path: "Boss - Eggman vs. Tails.brstm"
@@ -22,11 +17,6 @@ songs:
     title: "Boss - King Boom Boo"
     path: "Boss - King Boom Boo.brstm"
     type: battle
-#      - id: sonic_vs_shadow_final
-#        title: "Boss - Sonic vs. Shadow - Final"
-#        path: "Boss - Sonic vs. Shadow - Final.brstm"
-#        type: battle
-# too many lyrics in the song
   - id: sonic_vs_shadow_first
     title: "Boss - Sonic vs. Shadow, First"
     path: "Boss - Sonic vs. Shadow, First.brstm"
@@ -55,11 +45,6 @@ songs:
     title: "Chao Race - Dark"
     path: "Chao Race - Dark.brstm"
     type: betting
-#      - id: city_escape_1
-#        title: "City Escape 1"
-#        path: "City Escape 1.brstm"
-#        type: betting
-# stealth nuke of a meme song, sorry, trying to address the sonic issue and this cannot stay anymore
   - id: cosmic_wall
     title: "Cosmic Wall"
     path: "Cosmic Wall.brstm"
@@ -112,11 +97,6 @@ songs:
     title: "Pyramid Cave"
     path: "Pyramid Cave.brstm"
     type: betting
-#      - id: radical_highway
-#        title: "Radical Highway"
-#        path: "Radical Highway.brstm"
-#        type: battle
-# duplicate of battle mode from ShTH
   - id: sand_ocean_sa2
     title: "Sand Ocean"
     path: "Sand Ocean.brstm"
@@ -137,11 +117,6 @@ songs:
     title: "Metal Harbor 1 - In Game Version"
     path: "Metal Harbor 1 - In Game Version.brstm"
     type: result
-#      - id: tutorial_sa2
-#        title: "Tutorial"
-#        path: "Tutorial.brstm"
-#        type: result
-# unfitting result song
   - id: cannons_core_3
     title: "Cannon's Core 3"
     path: "Cannon's Core 3.brstm"
@@ -178,11 +153,6 @@ songs:
     title: "Sky Rail"
     path: "Sky Rail.brstm"
     type: warning
-#      - id: intro_theme_sa2
-#        title: "Intro Theme"
-#        path: "Intro Theme.brstm"
-#        type: warning
-# song is missing, probably mistakenly added by hellenah.
   - id: weapons_bed
     title: "Weapons Bed"
     path: "Weapons Bed.brstm"
@@ -235,4 +205,20 @@ songs:
     title: "White Jungle"
     path: "Rhythm And Balance for White Jungle.brstm"
     type: warning
+  - id: goodbye_chao
+    title: "Goodbye Chao"
+    path: "Goodbye Chao.brstm"
+    type: break
+  - id: nostalgic_vengeance
+    title: "Nostalgic Vengeance"
+    path: "Nostalgic Vengeance.brstm"
+    type: battle
+  - id: the_supernatural_for_final_chase
+    title: "The Supernatural ...for Final Chase"
+    path: "The Supernatural ...for Final Chase.brstm"
+    type: battle
+  - id: unknown_from_me_instrumental_sa2
+    title: "Unknown from M.E. [Theme of Knuckles] (Instrumental)"
+    path: "Unknown from M.E. [Theme of Knuckles] (Instrumental).brstm"
+    type: betting
 ...

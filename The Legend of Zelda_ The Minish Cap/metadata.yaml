@@ -5,12 +5,48 @@ series: zelda
 platform: "GBA"
 year: 2005
 songs: 
-  - id: hyrule_town
-    title: "Hyrule Town"
-    path: "Hyrule Town.minigsf"
+  - id: princess_zelda_minish_cap
+    title: "Princess Zelda"
+    path: "04 Princess Zelda.minigsf"
+    type: break
+  - id: hyrule_field_minish_cap
+    title: "Hyrule Field"
+    path: "11 Hyrule Field.minigsf"
     type: betting
+  - id: the_minish_cap
+    title: "The Minish Cap"
+    path: "13 The Minish Cap.minigsf"
+    type: warning
   - id: minish_village
     title: "Minish Village"
     path: "16 Minish Village.minigsf"
     type: betting
+  - id: boss_minish_cap
+    title: "Boss"
+    path: "20 Boss.minigsf"
+    type: warning
+  - id: hyrule_town
+    title: "Hyrule Town"
+    path: "24 Hyrule Town.minigsf"
+    type: betting
+  - id: cucco_chase
+    title: "Cucco Chase"
+    path: "25 Cucco Chase.minigsf"
+    type: warning
+  - id: cave_minish_cap
+    title: "Cave"
+    path: "29 Cave.minigsf"
+    type: warning
+  - id: cloud_tops
+    title: "Cloud Tops"
+    path: "48 Cloud Tops.minigsf"
+    type: result
+  - id: palace_of_winds
+    title: "Palace of Winds"
+    path: "49 Palace of Winds.minigsf"
+    type: betting
+  - id: vaatis_wrath
+    title: "Vaati's Wrath"
+    path: "54 Vaati's Wrath.minigsf"
+    type: warning
 ...

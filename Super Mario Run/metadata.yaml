@@ -1,0 +1,20 @@
+---
+id: super_mario_run
+title: "Super Mario Run"
+series: mario
+platform: "Mobile"
+year: 2016
+songs: 
+  - id: athletic_super_mario_run
+    title: "Athletic"
+    path: "Athletic.brstm"
+    type: betting
+  - id: overworld_super_mario_run
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: betting
+  - id: underground_super_mario_run
+    title: "Underground"
+    path: "Underground.brstm"
+    type: warning
+...

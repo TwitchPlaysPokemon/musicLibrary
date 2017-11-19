@@ -69,4 +69,12 @@ songs:
     path: "Event - No Past to Remember.adx"
     title: "Event: No Past to Remember"
     type: warning
+  - id: hang_castle
+    title: "Hang Castle"
+    path: "Hang Castle.adx"
+    type: betting
+  - id: mystic_mansion
+    title: "Mystic Mansion"
+    path: "Mystic Mansion.adx"
+    type: betting
 ...

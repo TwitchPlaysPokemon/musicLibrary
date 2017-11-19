@@ -5,6 +5,10 @@ platform: ["360", "Various"]
 #other platforms: ["PS3", "PC", "XBone"]
 year: 2008
 songs:
+  - id: barracks_tune_castle_crashers
+    title: "Barracks Tune"
+    path: "Castle Crashers Barracks Tune.brstm"
+    type: betting
   - id: four_brave_champions_castle_crashers
     title: "Four Brave Champions"
     path: "-Orr- Four Brave Champions.brstm"
@@ -17,9 +21,18 @@ songs:
     title: "Space Pirates"
     path: "-Space pirates-.brstm"
     type: betting
+  - id: vain_star_castle_crashers
+    title: "Vain Star"
+    path: "Vain Star.brstm"
+    ends: 3:05
+    type: betting
   - id: dark_skies_castle_crashers
     title: "Dark Skies"
     path: "_-={Dark Skies}=-_.brstm"
+    type: warning
+  - id: mudholes_castle_crashers
+    title: "Mudholes"
+    path: "Mudholes.brstm"
     type: warning
   - id: race_around_the_world_castle_crashers
     title: "Race Around the World"
@@ -29,6 +42,10 @@ songs:
     title: "The Show"
     path: "The Show.brstm"
     type: warning
+  - id: chaoz_japan_castle_crashers
+    title: "Chaoz Japan"
+    path: "ParagonX9 - Chaoz Japan.brstm"
+    type: battle
   - id: rage_of_the_champions_castle_crashers
     title: "Rage of the Champions"
     path: "_-={Rage of the Champions}=-_.brstm"

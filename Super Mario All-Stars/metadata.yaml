@@ -1,9 +1,10 @@
+---
 id: super_mario_all_stars
 title: "Super Mario All-Stars"
-year: 1993
 series: mario
 platform: "SNES"
-songs:
+year: 1993
+songs: 
   - id: swimming_smb1_all_stars
     title: "Swimming (Super Mario Bros.)"
     path: "Swimming.spc"
@@ -20,3 +21,12 @@ songs:
     title: "Toad's House (Super Mario Bros. 3)"
     path: "Toad's House (Super Mario Bros. 3).spc"
     type: warning
+  - id: dark_land_super_mario_all_stars
+    title: "Dark Land"
+    path: "Dark Land.spc"
+    type: warning
+  - id: fortress_super_mario_all_stars
+    title: "Fortress"
+    path: "Fortress.spc"
+    type: betting
+...
