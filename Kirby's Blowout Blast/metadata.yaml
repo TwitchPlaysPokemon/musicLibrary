@@ -5,6 +5,38 @@ series: kirby
 platform: "3DS"
 year: 2017
 songs: 
+  - id: green_greens_kirbys_blowout_blast
+    title: "Green Greens"
+    path: "Green Greens.brstm"
+    type: betting
+  - id: float_islands_kirbys_blowout_blast
+    title: "Float Islands"
+    path: "TRT_LP_TTSAMBA22.dspadpcm.bcstm"
+    type: betting
+  - id: castle_lololo_kirbys_blowout_blast
+    title: "Castle Lololo"
+    path: "GB_LoLoLo.dspadpcm.bcstm"
+    type: betting
+  - id: bubbly_clouds_kirbys_blowout_blast
+    title: "Bubbly Clouds"
+    path: "GB_Bubbly.dspadpcm.bcstm"
+    type: betting
+  - id: mt_dedede_kirbys_blowout_blast
+    title: "Mt. Dedede"
+    path: "GB_QKJyo.dspadpcm.bcstm"
+    type: warning
+  - id: boss_theme_kirbys_blowout_blast
+    title: "Boss Theme"
+    path: "GB_Boss.dspadpcm.bcstm"
+    type: warning
+  - id: title_theme_kirbys_blowout_blast
+    title: "Title Theme"
+    path: "FC_Title.dspadpcm.bcstm"
+    type: result
+  - id: giant_masked_dedede
+    title: "Giant Masked Dedede"
+    path: "DynaDDDElecBoss.dspadpcm.bcstm"
+    type: battle
   - id: ending_kirbys_blowout_blast
     title: "Ending"
     path: "GB_StaffRoll.dspadpcm.bcstm"
