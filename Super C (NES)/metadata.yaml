@@ -1,0 +1,20 @@
+---
+id: super_C
+title: "Super C [NES]"
+series: contra
+platform: "Various"
+year: 1988
+songs: 
+  - id: thunder_landing_area_1
+    title: "Thunder Landing (Area 1)"
+    path: "01 Thunder Landing (Area 1).vgz"
+    type: betting
+  - id: m_3_area_5
+    title: "M-3 (Area 5)"
+    path: "09 M-3 (Area 5).vgz"
+    type: warning
+  - id: deathbed_area_8
+    title: "Deathbed (Area 8)"
+    path: "11 Deathbed (Area 8).vgz"
+    type: warning
+...

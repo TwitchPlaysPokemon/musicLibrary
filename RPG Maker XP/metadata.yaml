@@ -9,4 +9,12 @@ songs:
     title: "Theme 01"
     path: "Theme 01.brstm"
     type: betting
+  - id: boss_03_rpg_maker_xp
+    title: "Boss 03"
+    path: "Boss 03.brstm"
+    type: battle
+  - id: last_boss_03_rpg_maker_xp
+    title: "Last Boss 03"
+    path: "Last Boss 03.brstm"
+    type: battle
 ...

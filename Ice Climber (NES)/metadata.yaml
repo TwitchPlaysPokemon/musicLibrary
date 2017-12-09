@@ -1,0 +1,11 @@
+---
+id: ice_climber
+title: "Ice Climber [NES]"
+platform: "Various"
+year: 1985
+songs: 
+  - id: bonus_stage_ice_climber
+    title: "Bonus Stage"
+    path: "03 Bonus Stage.vgz"
+    type: result
+...

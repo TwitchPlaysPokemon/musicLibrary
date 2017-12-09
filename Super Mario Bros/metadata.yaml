@@ -1,18 +1,24 @@
+---
 id: super_mario_bros
 title: "Super Mario Bros."
+series: mario
 platform: "NES"
 year: 1985
-series: mario
 songs: 
-  - id: overworld_smb
+  - id: above_ground_smb
     title: "Above Ground (Overworld BGM)"
     path: "Above Ground.vgz"
     type: betting
-  - id: invincible_smb
+  - id: bowsers_castle_smb
+    title: "Bowser's Castle"
+    path: "04 Bowser's Castle.vgz"
+    type: warning
+  - id: starman_smb
     title: "Starman"
     path: "Invincible.vgz"
     type: warning
-  - id: saved_the_princess
+  - id: saved_the_princess_smb
     title: "Saved the Princess"
     path: "Saved the Princess.vgz"
     type: result
+...

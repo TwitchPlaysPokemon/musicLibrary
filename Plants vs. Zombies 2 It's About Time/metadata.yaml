@@ -9,4 +9,16 @@ songs:
     title: "Pirate Seas - Ultimate Battle"
     path: "Pirate Seas - Ultimate Battle.brstm"
     type: betting
+  - id: front_yard_classic
+    title: "Front Yard (Classic)"
+    path: "Front Yard (Classic).brstm"
+    type: betting
+  - id: ancient_egypt_demonstration_mini_game
+    title: "Ancient Egypt - Demonstration Mini-Game"
+    path: "Ancient Egypt - Demonstration Mini-Game.brstm"
+    type: betting
+  - id: far_future_3rd_final_wave 
+    title: "Far Future - 3rd Final Wave "
+    path: "Far Future - 3rd Final Wave .brstm"
+    type: warning
 ...

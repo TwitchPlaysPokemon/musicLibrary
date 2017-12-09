@@ -1,0 +1,28 @@
+---
+id: dig_dug_arrangement
+title: "Dig Dug Arrangement"
+series: digdug
+platform: "Various"
+year: 1996
+songs: 
+  - id: area_6_moons_surface
+    title: "Area 6: Moon's Surface"
+    path: "Area 6_ Moon's Surface.brstm"
+    type: betting
+  - id: boss_land
+    title: "Boss Land"
+    path: "Boss Land.brstm"
+    type: warning
+  - id: area_2_factory
+    title: "Area 2: Factory"
+    path: "Area 2_ Factory.brstm"
+    type: result
+  - id: map_dig_dug_arrangement
+    title: "Map"
+    path: "Map.brstm"
+    type: result
+  - id: one_enemy_left
+    title: "One Enemy Left"
+    path: "One Enemy Left.brstm"
+    type: result
+...

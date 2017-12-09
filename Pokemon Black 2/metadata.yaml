@@ -1,8 +1,8 @@
 ﻿---
 id: pokemon_black_2_and_white_2
-platform: "NDS"
 title: "Pokémon Black 2/White 2"
 series: pokemon
+platform: "NDS"
 year: 2012
 songs: 
   - id: encounter_cyclist_b2w2
@@ -393,4 +393,8 @@ songs:
     path: "266 SEQ_BGM_EV_GIANTHOLE_03 (04f7).mini2sf"
     title: "Unwavering Emotions"
     type: break
+  - id: xtransceiver_minigames_b2w2
+    path: "218 SEQ_BGM_LCG_01 (04c7).mini2sf"
+    title: "Xtransceiver Minigames"
+    type: result
 ...

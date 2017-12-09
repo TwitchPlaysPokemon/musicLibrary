@@ -5,30 +5,22 @@ series: starfox
 platform: "SNES"
 year: 2017
 songs:
-  - id: macbeth_starfox2
-    title: "Macbeth"
-    path: "15 Macbeth.spc"
-    type: betting
-  - id: unused_beta_starfox2
-    title: "Unused Beta"
-    path: "99 Unused Beta.spc"
+  - id: records_starfox2
+    title: "Records"
+    path: "04 Records.spc"
+    type: break
+  - id: star_map_select_starfox2
+    title: "Star Map Select"
+    path: "09 Star Map Select.spc"
     type: warning
   - id: taitania_starfox2
     title: "Taitania"
     path: "13 Taitania.spc"
     type: betting
-  - id: fortuna_starfox2
-    title: "Fortuna"
-    path: "24 Fortuna.spc"
-    type: result
-  - id: star_map_select_starfox2
-    title: "Star Map Select"
-    path: "09 Star Map Select.spc"
-    type: warning
-  - id: surprise_attack_starfox2
-    title: "Surprise Attack"
-    path: "32 Surprise Attack.spc"
-    type: warning
+  - id: macbeth_starfox2
+    title: "Macbeth"
+    path: "15 Macbeth.spc"
+    type: betting
   - id: eladard
     title: "Eladard"
     path: "17 Eladard.spc"
@@ -36,5 +28,17 @@ songs:
   - id: eladard_inside
     title: "Eladard Inside"
     path: "18 Eladard Inside.spc"
+    type: warning
+  - id: fortuna_starfox2
+    title: "Fortuna"
+    path: "24 Fortuna.spc"
+    type: result
+  - id: surprise_attack_starfox2
+    title: "Surprise Attack"
+    path: "32 Surprise Attack.spc"
+    type: warning
+  - id: unused_beta_starfox2
+    title: "Unused Beta"
+    path: "99 Unused Beta.spc"
     type: warning
 ...

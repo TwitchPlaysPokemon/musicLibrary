@@ -1,14 +1,20 @@
+---
 id: hotel_mario
-platform: "CD-i"
 title: "Hotel Mario"
 series: mario
+platform: "CD-i"
 year: 1994
 songs: 
-  - id: credits_hotel_mario
-    path: "Credits.brstm"
-    title: "Credits"
-    type: result
   - id: main_menu_map_hotel_mario
-    path: "Main Menu - Map.brstm"
     title: "Main Menu/Map"
+    path: "Main Menu - Map.brstm"
     type: warning
+  - id: reading_the_letter
+    title: "Reading the Letter"
+    path: "Reading the Letter.brstm"
+    type: warning
+  - id: credits_hotel_mario
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+...

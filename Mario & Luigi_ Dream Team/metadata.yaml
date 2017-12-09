@@ -1,36 +1,89 @@
 ---
 id: mario_and_luigi_dream_team
-platform: "3DS"
 title: "Mario & Luigi: Dream Team"
 series: mario
+platform: "3DS"
 year: 2013
 songs: 
-  - id: dreambattle
-    path: "Victory in the Dream World.brstm"
-    title: "Victory in the Dream World"
-    type: battle
-  - id: giantbattle
-    path: "Size Up Your Enemy.brstm"
-    title: "Size Up Your Enemy"
-    type: battle
-  - id: bossbattle
-    path: "Never Let Up!.brstm"
-    title: "Never Let Up!"
-    type: battle
-  - id: joyous_occasion
-    path: "Joyous Occasion.brstm"
-    title: "Joyous Occasion"
-    type: result
-  - id: challenging_actions
-    path: "Challenging Actions!.brstm"
-    title: "Challenging Actions!"
+  - id: break_at_piillo_castle
+    title: "Break at Pi'illo Castle"
+    path: "Break at Pi'illo Castle.rsd"
     type: betting
+  - id: breezy_mushrise_park
+    title: "Breezy Mushrise Park"
+    path: "Breezy Mushrise Park.rsd"
+    type: betting
+  - id: challenging_actions
+    title: "Challenging Actions!"
+    path: "Challenging Actions!.rsd"
+    type: betting
+  - id: dozing_sands_secret
+    title: "Dozing Sands Secret"
+    path: "Dozing Sands Secret.rsd"
+    type: betting
+  - id: dreamy_castle_rendezvous
+    title: "Dreamy Castle Rendezvous"
+    path: "Dreamy Castle Rendezvous.rsd"
+    type: betting
+  - id: dreamy_wakeport_repose
+    title: "Dreamy Wakeport Repose"
+    path: "Dreamy Wakeport Repose.rsd"
+    type: betting
+  - id: piillo_vacation!
+    title: "Pi'illo Vacation!"
+    path: "Pi'illo Vacation!.rsd"
+    ends: 3:32
+    type: betting
+  - id: sacred_somnom_woods
+    title: "Sacred Somnom Woods"
+    path: "Sacred Somnom Woods.rsd"
+    type: betting
+  - id: antasmas_theme
+    title: "Antasma's Theme"
+    path: "Antasma's Theme.rsd"
+    type: warning
+  - id: bowsers_theme_dream_team
+    title: "Bowser's Theme"
+    path: "Bowser's Theme.rsd"
+    type: warning
   - id: panic_pit
-    path: "Panic Pit.brstm"
     title: "Panic Pit"
+    path: "Panic Pit.rsd"
+    type: warning
+  - id: stand_and_fight_luigi
+    title: "Stand And Fight, Luigi!"
+    path: "Stand And Fight, Luigi.rsd"
     type: warning
   - id: adventures_end
     title: "Adventure's End"
-    path: "Adventure's End.brstm"
+    path: "Adventure's End.rsd"
     type: battle
+  - id: never_let_up
+    title: "Never Let Up!"
+    path: "Never Let Up!.rsd"
+    type: battle
+  - id: size_up_your_enemy
+    title: "Size Up Your Enemy"
+    path: "Size Up Your Enemy.rsd"
+    type: battle
+  - id: the_final_antasma_battle
+    title: "The Final Antasma Battle"
+    path: "The Final Antasma Battle.rsd"
+    type: battle
+  - id: victory_in_the_dream_world
+    title: "Victory in the Dream World"
+    path: "Victory in the Dream World.rsd"
+    type: battle
+  - id: joyous_occasion
+    title: "Joyous Occasion"
+    path: "Joyous Occasion.rsd"
+    type: result
+  - id: peachs_castle_theme
+    title: "Peach's Castle Theme"
+    path: "Peach's Castle Theme.rsd"
+    type: break
+  - id: shopping_in_wakeport
+    title: "Shopping in Wakeport"
+    path: "Shopping in Wakeport.rsd"
+    type: break
 ...

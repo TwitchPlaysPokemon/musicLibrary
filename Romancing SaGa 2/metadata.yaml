@@ -1,0 +1,26 @@
+id: romancing_saga_2
+title: "Romancing SaGa 2"
+platform: ["SFC", "Mobile", "Vita"]
+year: 1993
+series: saga
+songs: 
+  - id: victory_saga_2
+    title: "Victory"
+    path: "09 Victory.spc"
+    type: result
+  - id: the_dragons_hole
+    title: "The Dragon's Hole"
+    path: "12 The Dragon's Hole.spc"
+    type: betting
+  - id: run_saga_2
+    title: "Run!"
+    path: "19 Run!.spc"
+    type: warning
+  - id: last_battle_saga_2
+    title: "Last Battle"
+    path: "27 Last Battle.spc"
+    type: battle
+  - id: successive_emperor
+    title: "Successive Emperor"
+    path: "29 Successive Emperor.spc"
+    type: result

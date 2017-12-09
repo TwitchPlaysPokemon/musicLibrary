@@ -65,4 +65,8 @@ songs:
     title: "Infiltrate the Junk Factory!"
     path: "Infiltrate the Junk Factory!.bfstm"
     type: betting
+  - id: reading_the_secret_diary
+    title: "Reading the Secret Diary"
+    path: "BGM_STR_DIARY.dspadpcm.bfstm"
+    type: break
 ...

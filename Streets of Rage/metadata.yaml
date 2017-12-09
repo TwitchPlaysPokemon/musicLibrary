@@ -24,4 +24,12 @@ songs:
     title: "Attack the Barbarian"
     path: "12 - Attack the Barbarian.vgz"
     type: warning
+  - id: dilapidated_town
+    title: "Dilapidated Town"
+    path: "04 - Dilapidated Town.vgz"
+    type: betting
+  - id: stealthy_steps
+    title: "Stealthy Steps"
+    path: "08 - Stealthy Steps.vgz"
+    type: betting
 ...

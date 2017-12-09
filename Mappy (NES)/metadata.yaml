@@ -1,0 +1,12 @@
+---
+id: mappy
+title: "Mappy [NES]"
+series: mappy
+platform: "Various"
+year: 1983
+songs: 
+  - id: main_mappy
+    title: "Main"
+    path: "Main.brstm"
+    type: betting
+...

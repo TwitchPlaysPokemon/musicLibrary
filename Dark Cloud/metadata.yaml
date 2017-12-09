@@ -48,4 +48,12 @@ songs:
     title: "The Ice Queen"
     path: "The Ice Queen.psf2"
     type: warning
+  - id: open_your_eyes
+    title: "Open Your Eyes"
+    path: "06 Open Your Eyes.psf2"
+    type: break
+  - id: the_land_of_hope
+    title: "The Land of Hope"
+    path: "36 Land of Hope.psf2"
+    type: break
 ...

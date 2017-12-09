@@ -1,9 +1,14 @@
 ---
 id: mario_party_9
 title: "Mario Party 9"
+series: mario
 platform: "Wii"
 year: 2012
 songs: 
+  - id: dont_freeze
+    title: "Don't Freeze"
+    path: "Don't Freeze.brstm"
+    type: betting
   - id: hoopla
     title: "Hoopla"
     path: "Hoopla.brstm"

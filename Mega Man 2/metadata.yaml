@@ -17,6 +17,10 @@ songs:
     title: "Metal Man Stage"
     path: "06 Metal Man Stage.vgz"
     type: betting
+  - id: air_man_stage_mm2
+    title: "Air Man Stage"
+    path: "07 Air Man Stage.vgz"
+    type: betting
   - id: wood_man_stage_mm2
     title: "Wood Man Stage"
     path: "13 Wood Man Stage.vgz"
@@ -28,5 +32,9 @@ songs:
   - id: dr_wily_stage_2_mm2
     title: "Dr. Wily Stage 2"
     path: "19 Dr. Wily Stage 2.vgz"
+    type: warning
+  - id: boss_mm2
+    title: "Boss"
+    path: "21 Boss.vgz"
     type: warning
 ...

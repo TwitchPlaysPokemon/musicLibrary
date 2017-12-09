@@ -1,0 +1,16 @@
+---
+id: rpg_tsukuru_super_dante
+title: "RPG Tsukūru: Super Dante"
+series: rpgmaker
+platform: "SFC"
+year: 1995
+songs: 
+  - id: overworld_rpg_tsukuru_super_dante
+    title: "Overworld"
+    path: "22 Overworld.spc"
+    type: betting
+  - id: opening_rpg_tsukuru_super_dante
+    title: "Opening"
+    path: "01 Opening.spc"
+    type: result
+...

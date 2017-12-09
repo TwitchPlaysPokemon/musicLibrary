@@ -1,20 +1,24 @@
 ---
 id: pokemon_go
-title: "Pokémon Go"
+title: "Pokémon GO"
 series: pokemon
 platform: "Mobile"
 year: 2016
 songs: 
-  - id: battle_wild_pokemon_go
-    title: "Battle! Wild Pokémon"
-    path: "Battle! Wild Pokemon.brstm"
-    type: battle
   - id: overworld_map_pokemon_go
     title: "Overworld Map"
     path: "Overworld Map.brstm"
     type: betting
+  - id: gym_pokemon_go
+    title: "Gym"
+    path: "Gym.brstm"
+    type: warning
   - id: battle_gym_trainer_gym_leader_pokemon_go
     title: "Battle! Gym Trainer / Gym Leader"
     path: "Battle! Gym Trainer  Gym Leader.brstm"
+    type: battle
+  - id: battle_wild_pokemon_go
+    title: "Battle! Wild Pokémon"
+    path: "Battle! Wild Pokemon.brstm"
     type: battle
 ...

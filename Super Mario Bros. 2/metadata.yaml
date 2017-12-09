@@ -9,6 +9,10 @@ songs:
     title: "Overworld"
     path: "Overworld.vgz"
     type: betting
+  - id: birdo_mario_bros_2
+    title: "Birdo"
+    path: "07 Birdo.vgz"
+    type: warning
   - id: ending_super_mario_bros_2
     title: "Ending"
     path: "12 Ending.vgz"

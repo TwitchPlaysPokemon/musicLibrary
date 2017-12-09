@@ -5,6 +5,10 @@ series: pokemon
 platform: "NDS"
 year: 2010
 songs: 
+  - id: title_black_white
+    path: "103 - Title.mini2sf"
+    title: "Title"
+    type: result
   - id: nuvema_town
     path: "106 - Kanoko Town.mini2sf"
     title: "Nuvema Town"
@@ -501,10 +505,6 @@ songs:
     path: "308 - Spin Trade.mini2sf"
     title: "Spin Trade"
     type: warning
-#  - id: the_curtain_rises_on_the_musical
-#    path: "318 - The Curtain Rises on the Musical.mini2sf"
-#    title: "The Curtain Rises on the Musical"
-#    type: warning  #This song isn't even 30 seconds long, and it doesn't loop.
   - id: trainers_eyes_meet_encounter_cyclist
     path: "333 - Encounter! Cyclist.mini2sf"
     title: "Trainers' Eyes Meet (Cyclist)"

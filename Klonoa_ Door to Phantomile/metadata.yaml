@@ -2,23 +2,27 @@
 id: klonoa_door_to_phantomile
 title: "Klonoa: Door to Phantomile"
 series: klonoa
-year: 1997
 platform: "PS1"
+year: 1997
 songs:
-  - id: facade_and_blade
-    title: "Facade & Blade"
-    path: "Facade & Blade.brstm"
-    type: battle
+  - id: count_three
+    title: "Count Three"
+    path: "SLUS-00585_STR00_01026401_0000.xa"
+    type: betting
   - id: the_windmill_song
     title: "The Windmill Song"
     path: "The Windmill Song.brstm"
+    type: betting
+  - id: untamed_heart
+    title: "Untamed Heart"
+    path: "Untamed Heart.brstm"
     type: betting
   - id: the_rongo_lango
     title: "The Rongo Lango"
     path: "The Rongo Lango.brstm"
     type: warning
-  - id: untamed_heart
-    title: "Untamed Heart"
-    path: "Untamed Heart.brstm"
-    type: betting
+  - id: facade_and_blade
+    title: "Facade & Blade"
+    path: "Facade & Blade.brstm"
+    type: battle
 ...

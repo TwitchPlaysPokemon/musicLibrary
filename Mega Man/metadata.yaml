@@ -1,0 +1,20 @@
+---
+id: mega_man
+title: "Mega Man"
+series: megaman
+platform: "NES"
+year: 1987
+songs: 
+  - id: iceman_stage
+    title: "Iceman Stage"
+    path: "05 Iceman Stage.vgz"
+    type: betting
+  - id: elecman_stage
+    title: "Elecman Stage"
+    path: "08 Elecman Stage.vgz"
+    type: betting
+  - id: boss_mega_man
+    title: "Boss"
+    path: "09 Boss.vgz"
+    type: warning
+...

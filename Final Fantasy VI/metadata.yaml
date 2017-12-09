@@ -5,6 +5,10 @@ series: finalfantasy
 platform: "SNES"
 year: 1994
 songs:
+  - id: locke_ff6
+    title: "Locke"
+    path: "104 Locke.spc"
+    type: result
   - id: battle_theme_ffvi
     title: "Battle Theme"
     path: "105 Battle Theme.spc"
@@ -17,6 +21,30 @@ songs:
     title: "Edgar & Sabin"
     path: "107 Edgar and Sabin.spc"
     type: betting
+  - id: kefka
+    title: "Kefka"
+    path: "108 Kefka.spc"
+    type: warning
+  - id: mt_koltz
+    title: "Mt. Koltz"
+    path: "109 Mt. Koltz.spc"
+    type: betting
+  - id: the_unforgiven
+    title: "The Unforgiven"
+    path: "114 The Unforgiven.spc"
+    type: warning
+  - id: the_phantom_forest
+    title: "The Phantom Forest"
+    path: "115 The Phantom Forest.spc"
+    type: betting
+  - id: the_phantom_train
+    title: "The Phantom Train"
+    path: "116 The Phantom Train.spc"
+    type: betting
+  - id: kids_run_through_the_city
+    title: "Kids Run Through the City"
+    path: "120 Kids Run Through the City.spc"
+    type: break
   - id: save_them
     title: "Save Them!"
     path: "123 Save Them!.spc"
@@ -25,64 +53,52 @@ songs:
     title: "The Decisive Battle"
     path: "124 The Decisive Battle.spc"
     type: battle
-  - id: fierce_battle_ffvi
-    title: "The Fierce Battle"
-    path: "303 The Fierce Battle.spc"
-    type: battle
-  - id: spinach_rag
-    title: "Spinach Rag"
-    path: "Spinach Rag.brstm"
-    type: result
-  - id: the_unforgiven
-    title: "The Unforgiven"
-    path: "114 The Unforgiven.spc"
-    type: warning
   - id: terra_ffvi
     title: "Terra"
     path: "201 Terra.spc"
     type: betting
+  - id: slam_shuffle
+    title: "Slam Shuffle"
+    path: "205 Slam Shuffle.spc"
+    type: betting
+  - id: spinach_rag
+    title: "Spinach Rag"
+    path: "206 Spinach Rag.spc"
+    type: result
   - id: setzer_ffvi
     title: "Setzer"
     path: "211 Setzer.spc"
     type: result
-  - id: last_dungeon
-    title: "Last Dungeon"
-    path: "313 Last Dungeon.spc"
-    type: warning
-  - id: the_phantom_forest
-    title: "The Phantom Forest"
-    path: "115 The Phantom Forest.spc"
-    type: betting
-  - id: kefka
-    title: "Kefka"
-    path: "Kefka.brstm"
-    type: warning
   - id: johnny_c_bad
-    title: "Johnny C. Bad"
+    title: "Johnny C Bad"
     path: "212 Johnny C. Bad.spc"
     type: result
-  - id: locke_ff6
-    title: "Locke"
-    path: "104 Locke.spc"
-    type: result
   - id: magitek_research_facility
-    title: "Magitek Research Facility"
-    path: "Magitek Research Facility.brstm"
+    title: "Devil's Lab"
+    path: "214 Devil's Lab.spc"
     type: betting
-  - id: the_phantom_train
-    title: "The Phantom Train"
-    path: "116 The Phantom Train.spc"
+  - id: blackjack
+    title: "Blackjack"
+    path: "215 Blackjack.spc"
     type: betting
   - id: what_ffvi
-    title: "What?"
+    title: "??"
     path: "216 ____.spc"
     type: warning
-  - id: searching_for_friends
-    title: "Searching for Friends"
-    path: "307 Searching for Friends.spc"
-    type: betting
   - id: relm
     title: "Relm"
     path: "219 Relm.spc"
     type: break
+  - id: fierce_battle_ffvi
+    title: "The Fierce Battle"
+    path: "303 The Fierce Battle.spc"
+    type: battle
+  - id: searching_for_friends
+    title: "Searching for Friends"
+    path: "307 Searching for Friends.spc"
+    type: betting
+  - id: last_dungeon
+    title: "Last Dungeon"
+    path: "313 Last Dungeon.spc"
+    type: warning
 ...

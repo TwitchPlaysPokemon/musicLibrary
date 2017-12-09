@@ -1,0 +1,15 @@
+---
+id: chess_smd
+title: "Chess"
+platform: "SMD"
+year: 1998
+songs: 
+  - id: main_bgm_chess_smd
+    title: "Main BGM"
+    path: "Main BGM.brstm"
+    type: betting
+  - id: settings_chess_smd
+    title: "Settings"
+    path: "Settings.brstm"
+    type: betting
+...

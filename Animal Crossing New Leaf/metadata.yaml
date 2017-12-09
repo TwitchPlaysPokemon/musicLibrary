@@ -73,4 +73,24 @@ songs:
     title: "Talking to Isabelle"
     path: "STRM_BGM_PLAYERSELECT.bcstm"
     type: break
+  - id: town_tree
+    title: "Town Tree"
+    path: "STRM_BGM_FLD_SYMBOLTREE.bcstm"
+    type: break
+  - id: new_year_2_am_to_6_am
+    title: "New Year (2 AM to 6 AM)"
+    path: "STRM_BGM_EVT_COUNTDOWN_0200.bcstm"
+    type: break
+  - id: christmas_acnl
+    title: "Christmas"
+    path: "STRM_BGM_EVT_CHRISTMAS.bcstm"
+    type: break
+  - id: inside_the_igloo
+    title: "Inside the Igloo"
+    path: "STRM_BGM_IND_IGLOO.bcstm"
+    type: break
+  - id: train_station
+    title: "Train Station"
+    path: "STRM_BGM_IND_STATION.bcstm"
+    type: break
 ...

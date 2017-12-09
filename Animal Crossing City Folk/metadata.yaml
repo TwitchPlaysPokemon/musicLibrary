@@ -1,8 +1,8 @@
 ---
 id: animal_crossing_city_folk
-platform: "Wii"
 title: "Animal Crossing: City Folk"
 series: animalcrossing
+platform: "Wii"
 year: 2008
 songs: 
   - id: 8_am_city_folk
@@ -14,51 +14,59 @@ songs:
     path: "2 AM.brstm"
     type: break
   - id: 1am_city_folk
-    path: "1 AM.brstm"
     title: "1 AM"
+    path: "1 AM.brstm"
     type: break
   - id: 1pm_acrosscity
-    path: "1 PM.brstm"
     title: "1 PM"
+    path: "1 PM.brstm"
     type: break
   - id: 2pm_city_folk
-    path: "2 PM.brstm"
     title: "2 PM"
+    path: "2 PM.brstm"
     type: break
   - id: 3pm_city_folk
-    path: "3 PM.brstm"
     title: "3 PM"
+    path: "3 PM.brstm"
     type: break
   - id: 12pm_city_folk
-    path: "12 PM.brstm"
     title: "12 PM"
+    path: "12 PM.brstm"
     type: break
   - id: 10pm_city_folk
-    path: "10 PM (Normal).brstm"
     title: "10 PM"
+    path: "10 PM (Normal).brstm"
     type: break
   - id: 11am_city_folk
-    path: "11 AM.brstm"
     title: "11 AM"
+    path: "11 AM.brstm"
     type: break
   - id: 11pm_city_folk
-    path: "11 PM.brstm"
     title: "11 PM"
+    path: "11 PM.brstm"
     type: break
   - id: 12am_city_folk
-    path: "12 AM.brstm"
     title: "12 AM"
+    path: "12 AM.brstm"
     type: break
   - id: the_city_day_ac
-    path: "The City (Day).brstm"
     title: "The City (Day)"
+    path: "The City (Day).brstm"
     type: break
   - id: christmas_eve_ac
-    path: "Christmas Eve.brstm"
     title: "Christmas Eve"
+    path: "Christmas Eve.brstm"
     type: betting
   - id: k_k_house_ost_remix
-    path: "K.K. House (OST Remix).brstm"
     title: "K.K. House (OST Remix)"
+    path: "K.K. House (OST Remix).brstm"
     type: betting
+  - id: 10_pm_snow
+    title: "10 PM (Snow)"
+    path: "10 PM (Snow).brstm"
+    type: break
+  - id: mr_resetti
+    title: "Mr. Resetti"
+    path: "Mr. Resetti.brstm"
+    type: warning
 ...

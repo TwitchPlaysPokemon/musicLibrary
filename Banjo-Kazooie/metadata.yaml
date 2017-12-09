@@ -5,72 +5,76 @@ series: banjo
 platform: "N64"
 year: 1998
 songs: 
-  - id: spiral_mountain
-    title: "Spiral Mountain"
-    path: "006b - Spiral Mountain (Normal).miniusf"
-    type: betting
-  - id: gruntys_beauty_steal_machine
-    title: "Grunty's Beauty Steal Machine"
-    path: "009 Grunty's Beauty Steal Machine.miniusf"
-    type: break
-  - id: gruntildas_lair
-    title: "Gruntilda's Lair"
-    path: "010b Gruntilda's Lair (Normal).miniusf"
-    type: betting
   - id: bubblegloop_swamp
     title: "Bubblegloop Swamp"
     path: "028 - Bubblegloop Swamp.miniusf"
     type: betting
-  - id: gruntildas_lair_mad_monster_mansion
-    title: "Gruntilda's Lair (Mad Monster Mansion)"
-    path: "045d Gruntilda's Lair (Mad Monster Mansion).miniusf"
-    type: betting
-  - id: Mad Monster Mansion
-    title: "Mad Monster Mansion"
-    path: "047b Mad Monster Mansion (Normal).miniusf"
-    type: betting
-  - id: inside_the_mansion
-    title: "Inside the Mansion"
-    path: "048 Inside the Mansion.miniusf"
-    type: betting
-  - id: tubulars_oujia
-    title: "Tubular's Oujia"
-    path: "050 Tubular's Oujia.miniusf"
-    type: break
-  - id: cemetery_banjo_kazooie
-    title: "Cemetery"
-    path: "051 Cemetery.miniusf"
-    type: break
-  - id: inside_the_church
-    title: "Inside the Church"
-    path: "052 Inside the Church.miniusf"
-    type: betting
-  - id: click_clock_wood_(spring)
+  - id: click_clock_wood_spring
     title: "Click Clock Wood (Spring)"
     path: "060b - Click Clock Wood (Spring, Normal).miniusf"
     type: betting
-  - id: end_credits_bk64
-    title: "End Credits"
-    path: "074 - End Credits.miniusf"
-    type: result
-  - id: final_battle_bk64
-    title: "Final Battle"
-    path: "077 - Final Battle.miniusf"
-    type: battle
+  - id: click_clock_wood_winter
+    title: "Click Clock Wood (Winter)"
+    path: "068 Click Clock Wood (Winter).miniusf"
+    type: betting
   - id: freezeezy_peak_xmas
     title: "Freezeezy Peak (Christmas Bells)"
     path: "Freezeezy Peak (Normal with Christmas Bells).miniusf"
-    type: betting
-  - id: main_title_bk
-    title: "Main Title"
-    path: "Main Title.miniusf"
-    type: result
-  - id: mumbo_mountain_bk
-    title: "Mumbo's Mountain"
-    path: "Mumbo's Mountain.miniusf"
     type: betting
   - id: gobis_valley
     title: "Gobi's Valley"
     path: "Gobi's Valley (Normal).miniusf"
     type: betting
+  - id: gruntildas_lair
+    title: "Gruntilda's Lair"
+    path: "010b Gruntilda's Lair (Normal).miniusf"
+    type: betting
+  - id: gruntildas_lair_mad_monster_mansion
+    title: "Gruntilda's Lair (Mad Monster Mansion)"
+    path: "045d Gruntilda's Lair (Mad Monster Mansion).miniusf"
+    type: betting
+  - id: inside_the_church
+    title: "Inside the Church"
+    path: "052 Inside the Church.miniusf"
+    type: betting
+  - id: inside_the_mansion
+    title: "Inside the Mansion"
+    path: "048 Inside the Mansion.miniusf"
+    type: betting
+  - id: Mad Monster Mansion
+    title: "Mad Monster Mansion"
+    path: "047b Mad Monster Mansion (Normal).miniusf"
+    type: betting
+  - id: mumbo_mountain_bk
+    title: "Mumbo's Mountain"
+    path: "Mumbo's Mountain.miniusf"
+    type: betting
+  - id: spiral_mountain
+    title: "Spiral Mountain"
+    path: "006b - Spiral Mountain (Normal).miniusf"
+    type: betting
+  - id: final_battle_bk64
+    title: "Final Battle"
+    path: "077 - Final Battle.miniusf"
+    type: battle
+  - id: end_credits_bk64
+    title: "End Credits"
+    path: "074 - End Credits.miniusf"
+    type: result
+  - id: main_title_bk
+    title: "Main Title"
+    path: "Main Title.miniusf"
+    type: result
+  - id: cemetery_banjo_kazooie
+    title: "Cemetery"
+    path: "051 Cemetery.miniusf"
+    type: break
+  - id: gruntys_beauty_steal_machine
+    title: "Grunty's Beauty Steal Machine"
+    path: "009 Grunty's Beauty Steal Machine.miniusf"
+    type: break
+  - id: tubulars_oujia
+    title: "Tubular's Oujia"
+    path: "050 Tubular's Oujia.miniusf"
+    type: break
 ...

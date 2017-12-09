@@ -1,24 +1,36 @@
 ---
 id: the_legend_of_zelda_a_link_between_worlds
-platform: "3DS"
 title: "The Legend of Zelda: A Link Between Worlds"
 series: zelda
+platform: "3DS"
 year: 2013
 songs: 
-  - id: lorule_field_no_intro
-    path: "Lorule Field (no Intro).brstm"
-    title: "Lorule Field (no Intro)"
+  - id: a_trip_toturtle_rock
+    title: "A Trip To Turtle Rock"
+    path: "UraDanjon-Honookei.ry.32.dspadpcm.bcstm"
     type: betting
-  - id: death_mountain_albw
-    path: "Death Mountain.brstm"
-    title: "Death Mountain"
+  - id: lorule_theme_no_intro
+    title: "Lorule Theme"
+    path: "ura1.ry.32.dspadpcm.bcstm"
     type: betting
-  - id: turtle_rock
-    path: "Turtle Rock.brstm"
-    title: "Turtle Rock"
+  - id: scaling_death_mountain
+    title: "Scaling Death Mountain"
+    path: "Urayama.ry.32.dspadpcm.bcstm"
     type: betting
-  - id: zora_domain_albw
-    path: "Zora's Domain.brstm"
-    title: "Zora's Domain"
+  - id: streetpass_battle_theme_albw
+    title: "StreetPass Battle Theme"
+    path: "SurechigaiBattle.ry.32.dspadpcm.bcstm"
+    type: betting
+  - id: thieves_hideout_albw
+    title: "Thieves' Hideout"
+    path: "Uradanjon.ry.32.dspadpcm.bcstm"
+    type: betting
+  - id: completing_the_triforce_albw
+    title: "Completing the Triforce"
+    path: "TriforceEvent.ry.32.dspadpcm.bcstm"
+    type: break
+  - id: restoring_queen_oren
+    title: "Restoring Queen Oren"
+    path: "ZoraEventAfter.ry.32.dspadpcm.bcstm"
     type: break
 ...

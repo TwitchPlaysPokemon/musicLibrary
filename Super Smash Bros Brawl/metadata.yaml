@@ -9,10 +9,6 @@ songs:
     title: "Winning Road - Roy's Hope"
     path: "Winning Road - Roy's Hope.brstm"
     type: betting
-  - id: corneria_brawl
-    title: "Corneria"
-    path: "Corneria.brstm"
-    type: battle
   - id: angel_island_zone
     path: "Angel Island Zone.brstm"
     title: "Angel Island Zone"
@@ -21,26 +17,6 @@ songs:
     path: "Boss Battle.brstm"
     title: "Boss Battle"
     type: betting
-  - id: boss_battle_song_1
-    path: "Boss Battle Song 1.brstm"
-    title: "Boss Battle Song 1"
-    type: battle
-  - id: battlefield
-    path: "Battlefield.brstm"
-    title: "Battlefield"
-    type: battle
-  - id: boss_battle_song_2
-    path: "Boss Battle Song 2.brstm"
-    title: "Boss Battle Song 2"
-    type: battle
-  - id: boss_theme_medley
-    path: "Boss Theme Medley.brstm"
-    title: "Boss Theme Medley"
-    type: battle
-  - id: final_destination
-    path: "Final Destination.brstm"
-    title: "Final Destination"
-    type: battle
   - id: menu_1
     path: "Menu 1.brstm"
     title: "Menu 1"
@@ -53,30 +29,14 @@ songs:
     path: "Pokémon Center.brstm"
     title: "Pokémon Center"
     type: betting
-  - id: pokemon_main_theme
-    path: "Pokémon Main Theme.brstm"
-    title: "Pokémon Main Theme"
-    type: result
   - id: pokemon_gym_evolution
     path: "Pokémon Gym - Evolution.brstm"
     title: "Pokémon Gym - Evolution"
     type: betting
-  - id: encounter
-    path: "Encounter.brstm"
-    title: "Encounter"
-    type: battle
   - id: coin_launcher
     path: "Coin Launcher.brstm"
     title: "Coin Launcher"
     type: betting
-  - id: classic_-_results_screen
-    path: "Classic - Results Screen.brstm"
-    title: "Classic - Results Screen"
-    type: result
-  - id: battle_in_the_base
-    title: "Battle in the Base"
-    path: "Battle in the Base.brstm"
-    type: battle
   - id: route_209
     title: "Route 209"
     path: "Route 209.brstm"
@@ -89,30 +49,6 @@ songs:
     title: "Yoshi's Island"
     path: "Yoshi's Island.brstm"
     type: betting
-  - id: with_mila's_divine_protection_celica_map_1
-    title: "With Mila's Divine Protection (Celica Map 1)"
-    path: "With Mila's Divine Protection (Celica Map 1).brstm"
-    type: battle
-  - id: wild_pokemon_battle_ruby_sapphire
-    title: "Wild Pokémon Battle! (Ruby / Sapphire)"
-    path: "Wild Pokemon Battle! (Ruby _ Sapphire).brstm"
-    type: battle
-  - id: wild_pokemon_battle_diamond_pearl
-    title: "Wild Pokémon Battle! (Diamond / Pearl)"
-    path: "Wild Pokemon Battle! (Diamond _ Pearl).brstm"
-    type: battle
-  - id: wild_pokemon_battle_gold_silver_melee
-    title: "Wild Pokémon Battle (Gold / Silver) (Melee)"
-    path: "Wild Pokemon Battle (Gold _ Silver) (Melee).brstm"
-    type: battle
-  - id: victory_road
-    title: "Victory Road"
-    path: "Victory Road.brstm"
-    type: battle
-  - id: unfounded_revenge_smashing_song_of_praise
-    title: "Unfounded Revenge / Smashing Song of Praise"
-    path: "Unfounded Revenge _ Smashing Song of Praise.brstm"
-    type: battle
   - id: title_the_legend_of_zelda
     title: "Title (The Legend of Zelda)"
     path: "Title (The Legend of Zelda).brstm"
@@ -125,10 +61,6 @@ songs:
     title: "The Legendary Air Ride Machine"
     path: "The Legendary Air Ride Machine.brstm"
     type: betting
-  - id: team_galactic_battle
-    title: "Team Galactic Battle!"
-    path: "Team Galactic Battle!.brstm"
-    type: battle
   - id: star_wolf_star_fox_assault
     title: "Star Wolf (Star Fox: Assault)"
     path: "Star Wolf (Star Fox_ Assault).brstm"
@@ -137,62 +69,22 @@ songs:
     title: "Song of Storms"
     path: "Song of Storms.brstm"
     type: betting
-  - id: snowman
-    title: "Snowman"
-    path: "Snowman.brstm"
-    type: break
-  - id: shin_onigashima
-    title: "Shin Onigashima"
-    path: "Shin Onigashima.brstm"
-    type: battle
-  - id: mute_city_brawl
-    title: "Mute City"
-    path: "Mute City.brstm"
-    type: battle
   - id: mother_3_love_theme
     title: "Mother 3 Love Theme"
     path: "Mother 3 Love Theme.brstm"
     type: betting
-  - id: meta_knight's_revenge
-    title: "Meta Knight's Revenge"
-    path: "Meta Knight's Revenge.brstm"
-    type: battle
-  - id: main_theme_star_fox_64
-    title: "Main Theme (Star Fox 64)"
-    path: "Main Theme (Star Fox 64).brstm"
-    type: result
   - id: luigi's_mansion_theme
     title: "Luigi's Mansion Theme"
     path: "Luigi's Mansion Theme.brstm"
     type: betting
-  - id: king_dedede's_theme
-    title: "King Dedede's Theme"
-    path: "King Dedede's Theme.brstm"
-    type: battle
   - id: green_greens_melee
     title: "Green Greens (Melee)"
     path: "Green Greens (Melee).brstm"
     type: betting
-  - id: gourmet_race
-    title: "Gourmet Race"
-    path: "Gourmet Race.brstm"
-    type: battle
-  - id: final_destination_melee
-    title: "Final Destination (Melee)"
-    path: "Final Destination (Melee).brstm"
-    type: battle
   - id: dr_mario_melee
     title: "Dr. Mario (Melee)"
     path: "Dr. Mario (Melee).brstm"
     type: betting
-  - id: area_6
-    title: "Area 6"
-    path: "Area 6.brstm"
-    type: warning
-  - id: airship_theme_super_mario_bros_3
-    title: "Airship Theme (Super Mario Bros. 3)"
-    path: "Airship Theme (Super Mario Bros. 3).brstm"
-    type: warning
   - id: skyworld
     title: "Skyworld"
     path: "Skyworld.brstm"
@@ -201,14 +93,6 @@ songs:
     title: "Gritzy Desert"
     path: "Gritzy Desert.brstm"
     type: betting
-  - id: results_display_screen_brawl
-    title: "Results Display Screen"
-    path: "Results Display Screen.brstm"
-    type: result
-  - id: final_boss_golden_sun
-    title: "Battle Scene / Final Boss (Golden Sun)"
-    path: "Final Boss (Golden Sun).brstm"
-    type: battle
   - id: wii_shop_channel_brawl
     title: "Wii Shop Channel"
     path: "Wii Shop Channel.brstm"
@@ -243,14 +127,6 @@ songs:
     path: "MGS4 ~Theme of Love~ Smash Bros. Brawl Version.brstm"
     ends: 2:01
     type: betting
-  - id: adventure_map_brawl
-    title: "Adventure Map"
-    path: "Adventure Map.brstm"
-    type: warning
-  - id: all_star_rest_area_brawl
-    title: "All-Star Rest Area"
-    path: "All-Star Rest Area.brstm"
-    type: result
   - id: road_to_viridian_brawl
     title: "Road to Viridian City (From Pallet Town / Pewter City)"
     path: "Road to Viridian City (From Pallet Town _ Pewter City).brstm"
@@ -271,10 +147,6 @@ songs:
     title: "Obstacle Course (Spring / Summer)"
     path: "Obstacle Course (Spring  Summer).brstm"
     type: betting
-  - id: cruel_brawl
-    title: "Cruel Brawl"
-    path: "Cruel Brawl.brstm"
-    type: warning
   - id: step_the_plain
     title: "Step: The Plain"
     path: "Step_ The Plain.brstm"
@@ -303,4 +175,132 @@ songs:
     title: "Step: Subspace Ver.3"
     path: "Step- Subspace Ver.3.brstm"
     type: betting
+  - id: underworld_brawl
+    title: "Underworld"
+    path: "P01 - Underworld - Kid Icarus (Composer - Hirokazu Tanaka - Artist - Shogo Sakai).brstm"
+    type: betting
+  - id: adventure_map_brawl
+    title: "Adventure Map"
+    path: "Adventure Map.brstm"
+    type: warning
+  - id: airship_theme_super_mario_bros_3
+    title: "Airship Theme (Super Mario Bros. 3)"
+    path: "Airship Theme (Super Mario Bros. 3).brstm"
+    type: warning
+  - id: area_6
+    title: "Area 6"
+    path: "Area 6.brstm"
+    type: warning
+  - id: cruel_brawl
+    title: "Cruel Brawl"
+    path: "Cruel Brawl.brstm"
+    type: warning
+  - id: battle_in_the_base
+    title: "Battle in the Base"
+    path: "Battle in the Base.brstm"
+    type: battle
+  - id: final_boss_golden_sun
+    title: "Battle Scene / Final Boss (Golden Sun)"
+    path: "Final Boss (Golden Sun).brstm"
+    type: battle
+  - id: battlefield
+    path: "Battlefield.brstm"
+    title: "Battlefield"
+    type: battle
+  - id: boss_battle_song_1
+    path: "Boss Battle Song 1.brstm"
+    title: "Boss Battle Song 1"
+    type: battle
+  - id: boss_battle_song_2
+    path: "Boss Battle Song 2.brstm"
+    title: "Boss Battle Song 2"
+    type: battle
+  - id: boss_theme_medley
+    path: "Boss Theme Medley.brstm"
+    title: "Boss Theme Medley"
+    type: battle
+  - id: corneria_brawl
+    title: "Corneria"
+    path: "Corneria.brstm"
+    type: battle
+  - id: encounter
+    path: "Encounter.brstm"
+    title: "Encounter"
+    type: battle
+  - id: final_destination
+    path: "Final Destination.brstm"
+    title: "Final Destination"
+    type: battle
+  - id: final_destination_melee
+    title: "Final Destination (Melee)"
+    path: "Final Destination (Melee).brstm"
+    type: battle
+  - id: gourmet_race
+    title: "Gourmet Race"
+    path: "Gourmet Race.brstm"
+    type: battle
+  - id: king_dedede's_theme
+    title: "King Dedede's Theme"
+    path: "King Dedede's Theme.brstm"
+    type: battle
+  - id: meta_knight's_revenge
+    title: "Meta Knight's Revenge"
+    path: "Meta Knight's Revenge.brstm"
+    type: battle
+  - id: mute_city_brawl
+    title: "Mute City"
+    path: "Mute City.brstm"
+    type: battle
+  - id: shin_onigashima
+    title: "Shin Onigashima"
+    path: "Shin Onigashima.brstm"
+    type: battle
+  - id: team_galactic_battle
+    title: "Team Galactic Battle!"
+    path: "Team Galactic Battle!.brstm"
+    type: battle
+  - id: unfounded_revenge_smashing_song_of_praise
+    title: "Unfounded Revenge / Smashing Song of Praise"
+    path: "Unfounded Revenge _ Smashing Song of Praise.brstm"
+    type: battle
+  - id: victory_road
+    title: "Victory Road"
+    path: "Victory Road.brstm"
+    type: battle
+  - id: wild_pokemon_battle_diamond_pearl
+    title: "Wild Pokémon Battle! (Diamond / Pearl)"
+    path: "Wild Pokemon Battle! (Diamond _ Pearl).brstm"
+    type: battle
+  - id: wild_pokemon_battle_ruby_sapphire
+    title: "Wild Pokémon Battle! (Ruby / Sapphire)"
+    path: "Wild Pokemon Battle! (Ruby _ Sapphire).brstm"
+    type: battle
+  - id: with_mila's_divine_protection_celica_map_1
+    title: "With Mila's Divine Protection (Celica Map 1)"
+    path: "With Mila's Divine Protection (Celica Map 1).brstm"
+    type: battle
+  - id: all_star_rest_area_brawl
+    title: "All-Star Rest Area"
+    path: "All-Star Rest Area.brstm"
+    type: result
+  - id: classic_-_results_screen
+    path: "Classic - Results Screen.brstm"
+    title: "Classic - Results Screen"
+    type: result
+  - id: main_theme_star_fox_64
+    title: "Main Theme (Star Fox 64)"
+    path: "Main Theme (Star Fox 64).brstm"
+    type: result
+  - id: pokemon_main_theme
+    path: "Pokémon Main Theme.brstm"
+    title: "Pokémon Main Theme"
+    type: result
+  - id: results_display_screen_brawl
+    title: "Results Display Screen"
+    path: "Results Display Screen.brstm"
+    type: result
+  - id: snowman
+    title: "Snowman"
+    path: "Snowman.brstm"
+    type: break
 ...

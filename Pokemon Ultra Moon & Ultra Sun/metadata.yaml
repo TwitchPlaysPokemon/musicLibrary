@@ -1,0 +1,132 @@
+---
+id: pokemon_ultra_sun_ultra_moon
+title: "Pokémon Ultra Sun/Ultra Moon"
+series: pokemon
+platform: "3DS"
+year: 2017
+songs: 
+  - id: ultra_recon_squad_theme_usum
+    title: "Ultra Recon Squad's Theme"
+    path: "bgm_mj_e01.dspadpcm.bcstm"
+    type: warning
+  - id: rainbow_rocket_hideout_usum
+    title: "Rainbow Rocket Hideout"
+    path: "bgm_mj_e02.dspadpcm.bcstm"
+    type: betting
+  - id: giovannis_theme_usum
+    title: "Giovanni's Theme"
+    path: "bgm_mj_e03.dspadpcm.bcstm"
+    type: warning
+  - id: unsettling_ambience_usum
+    title: "Unsettling Ambience"
+    path: "bgm_mj_e04.dspadpcm.bcstm"
+    type: warning
+  - id: kantonian_gym_usum
+    title: "Kantonian Gym"
+    path: "bgm_mj_g01.dspadpcm.bcstm"
+    type: betting
+  - id: ultra_megalopolis_usum
+    title: "Ultra Megalopolis"
+    path: "bgm_mj_m01.dspadpcm.bcstm"
+    type: betting
+  - id: ultra_plant_theme_xurkitree_usum
+    title: "Ultra Plant Theme (Xurkitree)"
+    path: "bgm_mj_m03.dspadpcm.bcstm"
+    type: betting
+  - id: ultra_crater_theme_celesteela_usum
+    title: "Ultra Crater Theme (Celesteela)"
+    path: "bgm_mj_m04.dspadpcm.bcstm"
+    type: betting
+  - id: ultra_desert_theme_pheromosa_usum
+    title: "Ultra Desert Theme (Pheromosa)"
+    path: "bgm_mj_m05.dspadpcm.bcstm"
+    type: break
+  - id: ultra_forest_theme_kartana_usum
+    title: "Ultra Forest Theme (Kartana)"
+    path: "bgm_mj_m06.dspadpcm.bcstm"
+    type: betting
+  - id: ultra_jungle_theme_buzzwole_usum
+    title: "Ultra Jungle Theme (Buzzwole)"
+    path: "bgm_mj_m07.dspadpcm.bcstm"
+    type: betting
+  - id: ultra_ruin_theme_guzzlord_usum
+    title: "Ultra Ruin Theme (Guzzlord)"
+    path: "bgm_mj_m08.dspadpcm.bcstm"
+    type: warning
+  - id: ultra_space_wilds_usum
+    title: "Ultra Space Wilds"
+    path: "bgm_mj_m09.dspadpcm.bcstm"
+    type: warning
+  - id: photo_club_usum
+    title: "Alola Photo Club"
+    path: "bgm_mj_s01.dspadpcm.bcstm"
+    type: betting
+  - id: beach_spot_usum
+    title: "Beach Spot"
+    path: "bgm_mj_s02.dspadpcm.bcstm"
+    type: betting
+  - id: battle_agency_usum
+    title: "Battle Agency"
+    path: "bgm_mj_s03.dspadpcm.bcstm"
+    type: warning
+  - id: ultra_wormhole_usum
+    title: "Ultra Wormhole"
+    path: "bgm_mj_sys01.dspadpcm.bcstm"
+    type: betting
+  - id: mantine_surf_usum
+    title: "Mantine Surf"
+    path: "bgm_mj_sys02.dspadpcm.bcstm"
+    type: betting
+  - id: battle_champion_usum
+    title: "Battle! (Champion)"
+    path: "bgm_mj_vs_champ.dspadpcm.bcstm"
+    type: battle
+  - id: battle_wild_pokemon_ultra_version_usum
+    title: "Battle! (Wild Pokémon - Ultra Version)"
+    path: "bgm_mj_vs_norapoke.dspadpcm.bcstm"
+    type: battle
+  - id: battle_trainer_ultra_version_usum
+    title: "Battle! (Trainer - Ultra Version)"
+    path: "bgm_mj_vs_trainer.dspadpcm.bcstm"
+    type: battle
+  - id: battle_team_rainbow_rocket_usum
+    title: "Battle! (Team Rainbow Rocket)"
+    path: "bgm_mj_vs01.dspadpcm.bcstm"
+    type: battle
+  - id: battle_team_rocket_boss_giovanni_usum
+    title: "Battle! (Team Rocket Boss Giovanni)"
+    path: "bgm_mj_vs02.dspadpcm.bcstm"
+    type: battle
+  - id: battle_team_magma_aqua_boss_archie_maxie_usum
+    title: "Battle! (Team Magma/Aqua Boss Maxie & Archie)"
+    path: "bgm_mj_vs03.dspadpcm.bcstm"
+    type: battle
+  - id: battle_team_galactic_boss_cyrus_usum
+    title: "Battle! (Team Galactic Boss Cyrus)"
+    path: "bgm_mj_vs04.dspadpcm.bcstm"
+    type: battle
+  - id: battle_team_plasma_boss_ghestis_usum
+    title: "Battle! (Team Plasma Boss Ghetsis)"
+    path: "bgm_mj_vs05.dspadpcm.bcstm"
+    type: battle
+  - id: battle_team_flare_boss_lysandre_usum
+    title: "Battle! (Team Flare Boss Lysandre)"
+    path: "bgm_mj_vs06.dspadpcm.bcstm"
+    type: battle
+  - id: battle_ultra_recon_squad_usum
+    title: "Battle! (Ultra Recon Squad)"
+    path: "bgm_mj_vs07.dspadpcm.bcstm"
+    type: battle
+  - id: battle_dusk_mane_dawn_wings_necrozma_usum
+    title: "Battle! (Dusk Mane / Dawn Wings Necrozma)"
+    path: "bgm_mj_vs08.dspadpcm.bcstm"
+    type: battle
+  - id: battle_ultra_necrozma_usum
+    title: "Battle! (Ultra Necrozma)"
+    path: "bgm_mj_vs09.dspadpcm.bcstm"
+    type: battle
+  - id: encounter_team_rainbow_rocket_usum
+    title: "Encounter! (Team Rainbow Rocket)"
+    path: "bgm_mj_vsdivezone15.dspadpcm.bcstm"
+    type: warning
+...

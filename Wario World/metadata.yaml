@@ -2,12 +2,20 @@
 id: wario_world
 title: "Wario World"
 series: wario
-platform: "GC"
+platform: "GCN"
 year: 2003
 songs:
+  - id: courtyard
+    title: "Courtyard"
+    path: "title_0.dsp"
+    type: betting
   - id: greenhorn_forest
     title: "Greenhorn Forest"
-    path: "Greenhorn Forest.brstm"
+    path: "wario_0.dsp"
+    type: betting
+  - id: horror_manor
+    title: "Horror Manor"
+    path: "nightwalk_0.dsp"
     type: betting
   - id: snow_mountain_wario_world
     title: "Snow Mountain"

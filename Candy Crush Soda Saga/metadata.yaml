@@ -1,0 +1,13 @@
+---
+id: candy_crush_soda_saga
+title: "Candy Crush Soda Saga"
+series: candycrushsaga
+platform: ["Mobile", "PC"]
+year: 2014
+songs: 
+  - id: level_theme_candy_crush_soda_saga
+    title: "Level Theme"
+    path: "Level Theme.brstm"
+    ends: 3:30
+    type: betting
+...

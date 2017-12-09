@@ -93,4 +93,24 @@ songs:
     title: "World 4 Map"
     path: "select_map04_umii.ry.32.brstm"
     type: break
+  - id: world_3_map_nsmbw
+    title: "World 3 Map"
+    path: "select_map03_yuki.ry.32.brstm"
+    type: warning
+  - id: switch_nsmbw
+    title: "Switch"
+    path: "switch_lr.n.32.brstm"
+    type: warning
+  - id: snow_main_track_nsmbw
+    title: "Snow - Main Track"
+    path: "Snow - Main Track.brstm"
+    type: betting
+  - id: battle_2_nsmbw
+    title: "Battle"
+    path: "BGM_MG_BTL.32.brstm"
+    type: betting
+  - id: world_1_map_nsmbw
+    title: "World 1 Map"
+    path: "select_map01_nohara_lr.n.32.brstm"
+    type: break
 ...

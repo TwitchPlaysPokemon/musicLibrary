@@ -1,0 +1,63 @@
+---
+id: angry_video_game_nerd_adventures
+title: "Angry Video Game Nerd Adventures"
+platform: ["PC", "Wii U", "3DS"]
+year: 2013
+songs: 
+  - id: assholevania
+    title: "Assholevania"
+    path: "Assholevania.brstm"
+    type: betting
+  - id: avgn_adventures_main_theme
+    title: "AVGN Adventures Main Theme"
+    path: "AVGN Adventures Main Theme.brstm"
+    type: result
+  - id: beat_it_and_eat_tt
+    title: "Beat It & Eat It"
+    path: "Beat It & Eat It.brstm"
+    type: betting
+  - id: boo_haunted_house
+    title: "Boo! Haunted House"
+    path: "Boo! Haunted House.brstm"
+    type: betting
+  - id: boss_battle_avgn
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: dungeons_and_dickholes
+    title: "Dungeons & Dickholes"
+    path: "Dungeons & Dickholes.brstm"
+    type: betting
+  - id: future_fuckballs_2010
+    title: "Future Fuckballs 2010"
+    path: "Future Fuckballs 2010.brstm"
+    type: betting
+  - id: happy_fun_candy_time
+    title: "Happy Fun Candy Time"
+    path: "Happy Fun Candy Time.brstm"
+    type: betting
+  - id: laughin_jokin_numbnuts
+    title: "Laughin' Jokin' Numbnuts"
+    path: "Laughin' Jokin' Numbnuts.brstm"
+    type: battle
+  - id: naggi_sucks_tutorial
+    title: "Naggi Sucks! (Tutorial)"
+    path: "Naggi Sucks! (Tutorial).brstm"
+    type: warning
+  - id: the_final_battle_avgn
+    title: "The Final Battle"
+    path: "The Final Battle.brstm"
+    type: warning
+  - id: thy_farts_consumed
+    title: "Thy Farts Consumed"
+    path: "Thy Farts Consumed.brstm"
+    type: battle
+  - id: welcome_to_game_land
+    title: "Welcome to Game Land"
+    path: "Welcome to Game Land.brstm"
+    type: result
+  - id: welcome_to_glitched_game_land
+    title: "Welcome to Glitched Game Land"
+    path: "Welcome to Glitched Game Land.brstm"
+    type: betting
+...

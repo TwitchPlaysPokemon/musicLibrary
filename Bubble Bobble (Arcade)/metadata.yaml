@@ -10,4 +10,12 @@ songs:
     path: "01 Introduction - Main Theme.vgz"
     ends: 2:01
     type: betting
+  - id: secret_room_bubble_bobble_arcade
+    title: "Secret Room"
+    path: "04 Secret Room.vgz"
+    type: warning
+  - id: super_drunk
+    title: "Super Drunk"
+    path: "06 Super Drunk.vgz"
+    type: warning
 ...
