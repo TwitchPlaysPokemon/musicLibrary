@@ -2,7 +2,7 @@
 id: fire_emblem_path_of_radiance
 title: "Fire Emblem: Path of Radiance"
 series: fireemblem
-platform: "GC"
+platform: "GCN"
 year: 2005
 songs:
   - id: crimea_attacks
@@ -29,4 +29,12 @@ songs:
     title: "Bittersweet Victory"
     path: "Bittersweet Victory.brstm"
     type: result
+  - id: beautiful_princess_elincia
+    title: "Beautiful Princess Elincia"
+    path: "39 - Beautiful Princess Elincia.dsp"
+    type: betting
+  - id: after_the_war
+    title: "After the War"
+    path: "61 - After the War.dsp"
+    type: break
 ...

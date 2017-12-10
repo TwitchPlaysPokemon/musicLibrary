@@ -2,7 +2,7 @@
 id: phoenix_wright_ace_attorney_spirit_of_justice
 title: "Phoenix Wright: Ace Attorney: Spirit of Justice"
 series: aceattorney
-platform: "3DS"
+platform: ["3DS", "Mobile"]
 year: 2016
 songs: 
   - id: cross_examination_moderato_2016
@@ -73,4 +73,36 @@ songs:
     title: "Athena Cykes ~ Courtroom Révolutionnaire 2016"
     path: "Athena Cykes ~ Courtroom Revolutionnaire 2016.brstm"
     type: battle
+  - id: maya_fey_turnabout_sisters_2016
+    title: "Maya Fey ~ Turnabout Sisters 2016"
+    path: "bgm033_1632.mca"
+    type: break
+  - id: spirit_of_justice_court_begins
+    title: "Spirit of Justice ~ Court Begins"
+    path: "bgm001_1632.mca"
+    type: betting
+  - id: spirit_of_justice_court_begins_abroad
+    title: "Spirit of Justice ~ Court Begins Abroad"
+    path: "bgm003_1632.mca"
+    type: break
+  - id: apollo_justice_a_new_chapter_of_trials_2016
+    title: "Apollo Justice ~ A New Chapter of Trials! 2016"
+    path: "bgm008_1632.mca"
+    type: betting
+  - id: divination_seance_last_sights
+    title: "Divination Seance ~ Last Sights"
+    path: "bgm021_1632.mca"
+    type: betting
+  - id: won_the_case_each_of_their_victories
+    title: "Won the Case! ~ Each of Their Victories"
+    path: "bgm013_1632.mca"
+    type: result
+  - id: phoenix_wright_objection_2016
+    title: "Phoenix Wright ~ Objection! 2016"
+    path: "bgm007_1632.mca"
+    type: betting
+  - id: the_court_of_resignation
+    title: "The Court of Resignation"
+    path: "bgm031_1632.mca"
+    type: betting
 ...

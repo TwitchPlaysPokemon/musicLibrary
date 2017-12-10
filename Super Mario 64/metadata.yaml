@@ -5,52 +5,60 @@ series: mario
 platform: "N64"
 year: 1996
 songs:
-  - id: slider
-    title: "Slider (OST Version)"
-    path: "06 Slider.miniusf"
+  - id: cave_dungeon
+    title: "Cave Dungeon"
+    path: "Cave Dungeon.brstm"
+    type: betting
+  - id: cool_cool_mountain
+    title: "Cool, Cool Mountain"
+    path: "Snow Mountain.miniusf"
+    type: betting
+  - id: dire_dire_docks_ost_version
+    title: "Dire, Dire Docks (OST Version)"
+    path: "Dire, Dire Docks (OST Version).brstm"
+    type: betting
+  - id: koopas_road_sm64
+    title: "Koopa's Road"
+    path: "29 Koopa's Road.miniusf"
+    type: betting
+  - id: koopa_theme_sm64
+    title: "Koopa's Theme"
+    path: "Koopa's Theme.miniusf"
     type: warning
   - id: looping_steps
     title: "Looping Steps (OST Version)"
     path: "Looping Steps (OST Version).brstm"
     type: warning
-  - id: ultimate_koopa_ost_version
-    title: "Ultimate Koopa (OST Version)"
-    path: "Ultimate Koopa (OST Version).brstm"
-    type: warning
-  - id: dire_dire_docks_ost_version
-    title: "Dire, Dire Docks (OST Version)"
-    path: "Dire, Dire Docks (OST Version).brstm"
-    type: betting
-  - id: cave_dungeon
-    title: "Cave Dungeon"
-    path: "Cave Dungeon.brstm"
-    type: betting
-  - id: inside_the_castle_walls
-    title: "Inside the Castle Walls"
-    path: "Inside the Castle Walls.miniusf"
-    type: break
-  - id: koopa_theme_sm64
-    title: "Koopa's Theme"
-    path: "Koopa's Theme.miniusf"
+  - id: merry_go_round
+    title: "Merry-Go-Round"
+    path: "Merry-Go-Round.miniusf"
     type: warning
   - id: metallic_mario
     title: "Metallic Mario"
     path: "Metallic Mario.miniusf"
     type: warning
-  - id: staff_roll_sm64
-    title: "Staff Roll"
-    path: "Staff Roll.miniusf"
-    type: break
-  - id: cool_cool_mountain
-    title: "Cool, Cool Mountain"
-    path: "Snow Mountain.miniusf"
-    type: betting
-  - id: merry_go_round
-    title: "Merry-Go-Round"
-    path: "Merry-Go-Round.miniusf"
+  - id: slider
+    title: "Slider (OST Version)"
+    path: "06 Slider.miniusf"
+    type: warning
+  - id: ultimate_koopa_ost_version
+    title: "Ultimate Koopa (OST Version)"
+    path: "Ultimate Koopa (OST Version).brstm"
     type: warning
   - id: file_select_sm64
     title: "File Select"
     path: "18 File Select.miniusf"
+    type: break
+  - id: inside_the_castle_walls
+    title: "Inside the Castle Walls"
+    path: "Inside the Castle Walls.miniusf"
+    type: break
+  - id: piranha_plants_lullaby
+    title: "Piranha Plant's Lullaby"
+    path: "15 Piranha Plant's Lullaby.miniusf"
+    type: break
+  - id: staff_roll_sm64
+    title: "Staff Roll"
+    path: "Staff Roll.miniusf"
     type: break
 ...

@@ -1,8 +1,8 @@
 ---
 id: kingdom_hearts
-platform: "PS2"
 title: "Kingdom Hearts"
 series: kingdomhearts
+platform: "PS2"
 year: 2002
 songs: 
   - id: forze_del_male
@@ -57,4 +57,8 @@ songs:
     title: "Merlin's Magical House"
     path: "Merlin's Magical House.psf2"
     type: break
+  - id: spooks_of_halloween_town_kingdom_hearts
+    title: "Spooks of Halloween Town"
+    path: "Spooks of Halloween Town.psf2"
+    type: battle
 ...

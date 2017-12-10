@@ -5,36 +5,44 @@ series: kirby
 platform: "GB"
 year: 1992
 songs:
-  - id: boss_battle_kirbys_dream_land
-    title: "Boss Battle"
-    path: "Boss Battle.brstm"
-    type: warning
   - id: bubbly_clouds_kirbys_dream_land
     title: "Bubbly Clouds"
-    path: "Bubbly Clouds.brstm"
+    path: "Kirby's Dream Land - 08 - Bubbly Clouds.vgm"
     type: betting
   - id: castle_lololo_kirbys_dream_land
     title: "Castle Lololo"
-    path: "Castle Lololo.brstm"
+    path: "Kirby's Dream Land - 06 - Castle Lololo.vgm"
     type: betting
   - id: float_islands_kirbys_dream_land
     title: "Float Islands"
-    path: "Float Islands.brstm"
+    path: "Kirby's Dream Land - 07 - Float Islands.vgm"
     type: betting
   - id: green_greens_kirbys_dream_land
     title: "Green Greens"
-    path: "Green Greens.brstm"
+    path: "Kirby's Dream Land - 02 - Green Greens.vgm"
     type: betting
-  - id: mint_breath_kirbys_dream_land
-    title: "Mint Breath"
-    path: "Mint Breath.brstm"
+  - id: boss_kirbys_dream_land
+    title: "Boss"
+    path: "Kirby's Dream Land - 03 - Boss.vgm"
+    type: warning
+  - id: boss_selection_kirbys_dream_land
+    title: "Boss Selection"
+    path: "Kirby's Dream Land - 10 - Boss Selection.vgm"
+    type: warning
+  - id: curry_kirbys_dream_land
+    title: "Curry"
+    path: "Kirby's Dream Land - 12 - Curry.vgm"
+    type: warning
+  - id: invincible_kirbys_dream_land
+    title: "Invincible"
+    path: "Kirby's Dream Land - 13 -  Invincible.vgm"
     type: warning
   - id: mt_dedede_kirbys_dream_land
     title: "Mt. Dedede"
-    path: "Mt Dedede.brstm"
+    path: "Kirby's Dream Land - 09 - Mt Dedede.vgm"
     type: warning
-  - id: title_theme_kirbys_dream_land
-    title: "Title Theme"
-    path: "Title Theme.brstm"
+  - id: spring_in_your_step_kirbys_dream_land
+    title: "Spring in Your Step"
+    path: "Kirby's Dream Land - 01 - Spring in Your Step.vgm"
     type: result
 ...

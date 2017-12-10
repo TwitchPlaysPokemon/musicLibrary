@@ -1,0 +1,20 @@
+---
+id: game_and_watch_gallery
+title: "Game & Watch Gallery"
+series: gameandwatchgallery
+platform: "GB"
+year: 1997
+songs: 
+  - id: credits_game_and_watch_gallery
+    title: "Credits"
+    path: "Credits.brstm"
+    type: betting
+  - id: octopus_game_and_watch_gallery
+    title: "Octopus"
+    path: "Octopus.brstm"
+    type: betting
+  - id: oil_panic_game_and_watch_gallery
+    title: "Oil Panic"
+    path: "Oil Panic.brstm"
+    type: warning
+...

@@ -1,0 +1,24 @@
+---
+id: resident_evil_2
+title: "Resident Evil 2"
+series: residentevil
+platform: "Various"
+year: 1998
+songs: 
+  - id: the_front_hall
+    title: "The Front Hall"
+    path: "08 The Front Hall.psf"
+    type: break
+  - id: secure_place
+    title: "Secure Place"
+    path: "11 Secure Place.psf"
+    type: break
+  - id: t_a
+    title: "T-A"
+    path: "16 T-A.psf"
+    type: warning
+  - id: good_bye_leon
+    title: "Good Bye, Leon..."
+    path: "25 Good Bye, Leon....psf"
+    type: warning
+...

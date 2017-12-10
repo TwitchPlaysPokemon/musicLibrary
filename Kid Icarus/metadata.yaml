@@ -1,21 +1,28 @@
+---
 id: kid_icarus
 title: "Kid Icarus"
+series: kidicarus
 platform: "NES"
 year: 1986
 songs: 
-  - id: underworld_theme
-    title: "Underworld Theme"
-    path: "Underworld Theme.brstm"
-    type: betting
-  - id: fortress_theme
-    title: "Fortress Theme"
-    path: "Fortress Theme.brstm"
-    type: warning
-  - id: medusa
-    title: "Medusa"
-    path: "Medusa.brstm"
-    type: warning
-  - id: palace_in_the_sky
-    title: "Palace in the Sky"
-    path: "Palace in the Sky.brstm"
+  - id: title_bgm_kid_icarus
+    title: "Title BGM"
+    path: "01 Title BGM.vgz"
     type: result
+  - id: the_underworld_kid_icarus
+    title: "The Underworld"
+    path: "02 The Underworld.vgz"
+    type: betting
+  - id: labyrinth_kid_icarus
+    title: "Labyrinth"
+    path: "05 Labyrinth.vgz"
+    type: warning
+  - id: the_palace_in_the_sky_kid_icarus
+    title: "The Palace in the Sky"
+    path: "09 The Palace in the Sky.vgz"
+    type: result
+  - id: last_boss_kid_icarus
+    title: "Last Boss"
+    path: "10 Last Boss.vgz"
+    type: warning
+...

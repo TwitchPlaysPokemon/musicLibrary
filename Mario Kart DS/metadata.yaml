@@ -5,9 +5,17 @@ series: mario
 platform: "NDS"
 year: 2005
 songs: 
+  - id: luigis_mansion_mkds
+    title: "Luigi's Mansion"
+    path: "055 Luigi's Mansion.mini2sf"
+    type: betting
   - id: dk_pass_mkds
     title: "DK Pass"
     path: "060 DK Pass.mini2sf"
+    type: betting
+  - id: bowsers_castle_mkds
+    title: "Bowser's Castle"
+    path: "064 Bowser's Castle.mini2sf"
     type: betting
   - id: circuit_2_beta
     title: "Circuit 2 (Beta)"

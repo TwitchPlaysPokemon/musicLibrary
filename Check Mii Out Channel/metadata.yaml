@@ -1,13 +1,23 @@
+---
 id: check_mii_out_channel
 title: "Check Mii Out Channel"
-year: 2007
 platform: "Wii"
+year: 2007
 songs:
-  - id: contest_winner_parade_cmo
-    title: "Contest Winner Parade"
-    path: "Contest Winner Parade.brstm"
-    type: break
-  - id: mii_parade_cmo
+  - id: mii_parade_cmoc
     title: "Mii Parade"
     path: "Mii Parade.brstm"
     type: betting
+  - id: mii_contest_cmoc
+    title: "Mii Contest"
+    path: "Mii Contest.brstm"
+    type: result
+  - id: welcome_to_the_menu_cmoc
+    title: "Welcome to the Menu"
+    path: "Welcome to the Menu.brstm"
+    type: result
+  - id: contest_winner_parade_cmoc
+    title: "Contest Winner Parade"
+    path: "Contest Winner Parade.brstm"
+    type: break
+...

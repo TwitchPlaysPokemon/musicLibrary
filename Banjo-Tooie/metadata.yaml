@@ -2,13 +2,57 @@
 id: banjo_tooie
 title: "Banjo-Tooie"
 series: banjo
-year: 2000
 platform: "N64"
-songs:
+year: 2000
+songs: 
+  - id: an_evil_plan_2nd_half
+    title: "An Evil Plan (2nd half)"
+    path: "an evil plan (second half).miniusf"
+    type: betting
+  - id: bob_sucking
+    title: "B.O.B Sucking"
+    path: "b.o.b. sucking.miniusf"
+    type: warning
+  - id: cauldron_keep_gun_chamber
+    title: "Cauldron Keep: Gun Chamber"
+    path: "cauldron keep - gun chamber.miniusf"
+    type: betting
+  - id: flying_saucer_happy
+    title: "Flying Saucer (Happy)"
+    path: "flying saucer (happy).miniusf"
+    type: result
+  - id: flying_saucer_sad
+    title: "Flying Saucer (Sad)"
+    path: "flying saucer (sad).miniusf"
+    type: betting
+  - id: grunty_industries_elevator
+    title: "Grunty Industries (Elevator)"
+    path: "grunty industries - elevator shaft.miniusf"
+    type: betting
   - id: hag_1
-    title: "Hag 1 - Monstrous Mechanical Mud-Muncher"
-    path: "Hag 1 - Monstrous Mechanical Mud-Muncher.brstm"
+    title: "Hag 1"
+    path: "hag 1.miniusf"
     type: battle
+  - id: klungo
+    title: "Klungo"
+    path: "klungo.miniusf"
+    type: betting
+  - id: mingy_jonjo
+    title: "Mingy Jonjo"
+    path: "mingy jongo.miniusf"
+    type: battle
+  - id: weldar
+    title: "Weldar"
+    path: "weldar.miniusf"
+    type: battle
+  - id: witchyworld_outside_inferno
+    title: "Witchyworld (Outside Inferno)"
+    path: "witchyworld - outside inferno area.miniusf"
+    type: betting
+  - id: witchyworld_the_inferno
+    title: "Witchyworld - The Inferno"
+    path: "witchyworld - the inferno.miniusf"
+    type: betting
   - id: party_at_bottles
     title: "Party at Bottles'"
     path: "Party at Bottles.brstm"
@@ -45,10 +89,6 @@ songs:
     title: "Lord Woo Fak Fak - Self-Important Anglerfish"
     path: "Lord Woo Fak Fak - Self-Important Anglerfish.brstm"
     type: battle
-  - id: mingy_jongo
-    title: "Mingy Jongo - Crafty Shaman Impersonator"
-    path: "Mingy Jongo - Crafty Shaman Impersonator.brstm"
-    type: warning
   - id: mr_patch_banjo
     title: "Mr. Patch - Strange Wobbly Inflatable Thing"
     path: "Mr. Patch - Strange Wobbly Inflatable Thing.brstm"
@@ -77,10 +117,6 @@ songs:
     title: "Tower of Tragedy"
     path: "Tower of Tragedy.brstm"
     type: result
-  - id: weldar
-    title: "Weldar - Visually-Impaired Welding Torch"
-    path: "Weldar - Visually-Impaired Welding Torch.brstm"
-    type: battle
   - id: racin_with_mary
     title: "Glitter Gulch Mine - Racin' With Mary"
     path: "Glitter Gulch Mine - Racin' With Mary.brstm"
@@ -88,10 +124,6 @@ songs:
   - id: hailfire_peaks_ice_side
     title: "Hailfire Peaks: Ice Side"
     path: "Hailfire Peaks - Ice Side.brstm"
-    type: betting
-  - id: cauldron_keep_gun_chamber
-    title: "Cauldron Keep - Gun Chamber"
-    path: "Cauldron Keep - Gun Chamber.brstm"
     type: betting
   - id: cloud_cuckooland_central_cavern
     title: "Cloud Cuckooland - Central Cavern"
@@ -152,10 +184,6 @@ songs:
   - id: jiggywiggy_challenge
     title: "Jiggywiggy's Challenge"
     path: "Jiggywiggy's Challenge.brstm"
-    type: betting
-  - id: klungo
-    title: "Klungo"
-    path: "Klungo.brstm"
     type: betting
   - id: mayahem_temple_kickball
     title: "Mayahem Temple - Kickball Stadium Approach"

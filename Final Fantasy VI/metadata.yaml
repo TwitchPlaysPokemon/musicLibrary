@@ -2,83 +2,103 @@
 id: final_fantasy_vi
 title: "Final Fantasy VI"
 series: finalfantasy
-year: 1994
 platform: "SNES"
+year: 1994
 songs:
+  - id: locke_ff6
+    title: "Locke"
+    path: "104 Locke.spc"
+    type: result
   - id: battle_theme_ffvi
     title: "Battle Theme"
     path: "105 Battle Theme.spc"
     type: battle
-  - id: victory_fanfare
-    title: "Victory Fanfare"
+  - id: fanfare_ffvi
+    title: "Fanfare"
     path: "106 Fanfare.spc"
     type: result
-  - id: edgar_sabin
-    title: "Edgar & Sabin's Theme / Figaro Castle"
+  - id: edgar_and_sabin
+    title: "Edgar & Sabin"
     path: "107 Edgar and Sabin.spc"
     type: betting
-  - id: save_them
-    title: "Save Them!"
-    path: "123 Save Them!.spc"
+  - id: kefka
+    title: "Kefka"
+    path: "108 Kefka.spc"
     type: warning
-  - id: decisive_battle
-    title: "The Decisive Battle (vs. Boss)"
-    path: "124 The Decisive Battle.spc"
-    type: battle
-  - id: fierce_battle_ffvi
-    title: "The Fierce Battle"
-    path: "303 The Fierce Battle.spc"
-    type: battle
-  - id: spinach_rag
-    title: "Spinach Rag"
-    path: "Spinach Rag.brstm"
-    type: result
+  - id: mt_koltz
+    title: "Mt. Koltz"
+    path: "109 Mt. Koltz.spc"
+    type: betting
   - id: the_unforgiven
     title: "The Unforgiven"
     path: "114 The Unforgiven.spc"
-    type: warning
-  - id: terras_theme
-    title: "Terra's Theme"
-    path: "201 Terra.spc"
-    type: betting
-  - id: setzers_theme
-    title: "Setzer's Theme"
-    path: "211 Setzer.spc"
-    type: result
-  - id: kefkas_tower
-    title: "Kefka's Tower"
-    path: "313 Last Dungeon.spc"
     type: warning
   - id: the_phantom_forest
     title: "The Phantom Forest"
     path: "115 The Phantom Forest.spc"
     type: betting
-  - id: kefka
-    title: "Kefka"
-    path: "Kefka.brstm"
-    type: warning
-  - id: johnny_c_bad
-    title: "Johnny C. Bad"
-    path: "212 Johnny C. Bad.spc"
-    type: result
-  - id: locke_ff6
-    title: "Locke"
-    path: "104 Locke.spc"
-    type: result
-  - id: magitek_research_facility
-    title: "Magitek Research Facility"
-    path: "Magitek Research Facility.brstm"
-    type: betting
   - id: the_phantom_train
     title: "The Phantom Train"
     path: "116 The Phantom Train.spc"
     type: betting
+  - id: kids_run_through_the_city
+    title: "Kids Run Through the City"
+    path: "120 Kids Run Through the City.spc"
+    type: break
+  - id: save_them
+    title: "Save Them!"
+    path: "123 Save Them!.spc"
+    type: warning
+  - id: decisive_battle
+    title: "The Decisive Battle"
+    path: "124 The Decisive Battle.spc"
+    type: battle
+  - id: terra_ffvi
+    title: "Terra"
+    path: "201 Terra.spc"
+    type: betting
+  - id: slam_shuffle
+    title: "Slam Shuffle"
+    path: "205 Slam Shuffle.spc"
+    type: betting
+  - id: spinach_rag
+    title: "Spinach Rag"
+    path: "206 Spinach Rag.spc"
+    type: result
+  - id: setzer_ffvi
+    title: "Setzer"
+    path: "211 Setzer.spc"
+    type: result
+  - id: johnny_c_bad
+    title: "Johnny C Bad"
+    path: "212 Johnny C. Bad.spc"
+    type: result
+  - id: magitek_research_facility
+    title: "Devil's Lab"
+    path: "214 Devil's Lab.spc"
+    type: betting
+  - id: blackjack
+    title: "Blackjack"
+    path: "215 Blackjack.spc"
+    type: betting
   - id: what_ffvi
-    title: "What?"
+    title: "??"
     path: "216 ____.spc"
     type: warning
+  - id: relm
+    title: "Relm"
+    path: "219 Relm.spc"
+    type: break
+  - id: fierce_battle_ffvi
+    title: "The Fierce Battle"
+    path: "303 The Fierce Battle.spc"
+    type: battle
   - id: searching_for_friends
     title: "Searching for Friends"
     path: "307 Searching for Friends.spc"
     type: betting
+  - id: last_dungeon
+    title: "Last Dungeon"
+    path: "313 Last Dungeon.spc"
+    type: warning
 ...

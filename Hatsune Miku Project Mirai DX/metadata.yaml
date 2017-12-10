@@ -1,0 +1,16 @@
+---
+id: hatsune_miku_project_mirai_dx
+title: "Hatsune Miku: Project Mirai DX"
+series: hatsunemikuprojectdiva
+platform: "3DS"
+year: 2015
+songs: 
+  - id: results_hatsune_miku_project_mirai_dx
+    title: "Results"
+    path: "Results.brstm"
+    type: result
+  - id: options_hatsune_miku_project_mirai_dx
+    title: "Options"
+    path: "Options.brstm"
+    type: break
+...

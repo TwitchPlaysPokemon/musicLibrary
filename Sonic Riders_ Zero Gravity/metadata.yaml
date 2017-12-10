@@ -1,16 +1,60 @@
 ---
 id: sonic_riders_zero_gravity
 title: "Sonic Riders: Zero Gravity"
-year: 2008
 series: sonic
 platform: ["Wii", "PS2"]
+year: 2008
 songs:
-  - id: main_menu_sonic_riders_zerog
+  - id: aquatic_time
+    title: "Aquatic Time"
+    path: "B04M.ADX"
+    ends: 2:53
+    type: betting
+  - id: blast_town
+    title: "Blast Town"
+    path: "B08M.ADX"
+    ends: 3:00
+    type: betting
+  - id: main_menu_sonic_riders_zero_gravity
     title: "Main Menu"
-    path: "Main Menu.brstm"
+    path: "B10_SELECT.ADX"
+    type: betting
+  - id: options_sonic_riders_zero_gravity
+    title: "Options"
+    path: "B11_OPTION.ADX"
+    type: betting
+  - id: sealed_ground
+    title: "Sealed Ground"
+    path: "B05M.ADX"
+    ends: 3:21
+    type: betting
+  - id: spiral_madness
+    title: "Spiral Madness"
+    path: "B02M.ADX"
+    ends: 2:47
     type: betting
   - id: through_traffic
     title: "Through Traffic"
-    path: "Through Traffic.brstm"
+    path: "B01M.ADX"
     type: betting
+  - id: un_gravitify_instrumental
+    title: "Un-Gravitify - Instrumental"
+    path: "B20_WII_NET_RANK.ADX"
+    type: betting
+  - id: multi_attack
+    title: "Multi Attack"
+    path: "B09M.ADX"
+    type: warning
+  - id: dive_into_gravity
+    title: "Dive Into Gravity"
+    path: "B06M.ADX"
+    type: battle
+  - id: gadget_round
+    title: "Gadget Round"
+    path: "B03M.ADX"
+    type: battle
+  - id: the_core
+    title: "The Core"
+    path: "B07M.ADX"
+    type: battle
 ...

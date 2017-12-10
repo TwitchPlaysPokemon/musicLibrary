@@ -1,0 +1,88 @@
+---
+id: momodora_reverie_under_the_moonlight
+title: "Momodora: Reverie Under The Moonlight"
+series: momodora
+platform: ["PC", "PS4", "XB1"]
+year: 2016
+songs: 
+  - id: alabaster
+    title: "Alabaster"
+    path: "Alabaster.brstm"
+    type: break
+  - id: alone_bonus_track
+    title: "Alone (Bonus Track)"
+    path: "Alone (Bonus Track).brstm"
+    type: break
+  - id: assault_momodora_rutm
+    title: "Assault"
+    path: "Assault.brstm"
+    type: warning
+  - id: confrontation_momodora_rutm
+    title: "Confrontation"
+    path: "Confrontation.brstm"
+    type: warning
+  - id: file_select_momodora_rutm
+    title: "File Select"
+    path: "File Select.brstm"
+    type: break
+  - id: fragmented_majesty
+    title: "Fragmented Majesty"
+    path: "Fragmented Majesty.brstm"
+    type: betting
+  - id: gardens_of_stone
+    title: "Gardens Of Stone"
+    path: "Gardens Of Stone.brstm"
+    type: break
+  - id: house_of_cinders
+    title: "House Of Cinders"
+    path: "House Of Cinders.brstm"
+    type: betting
+  - id: malevolence
+    title: "Malevolence"
+    path: "Malevolence.brstm"
+    type: warning
+  - id: momodora_theme
+    title: "Momodora Theme"
+    path: "Momodora Theme.brstm"
+    type: break
+  - id: overture_momodora_rutm
+    title: "Overture"
+    path: "Overture.brstm"
+    type: betting
+  - id: pardoners_dance_chiptune
+    title: "Pardoner's Dance (Chiptune)"
+    path: "Pardoner's Dance (Chiptune).brstm"
+    type: betting
+  - id: pardoners_dance
+    title: "Pardoner's Dance"
+    path: "Pardoner's Dance.brstm"
+    type: betting
+  - id: reprise
+    title: "Reprise"
+    path: "Reprise.brstm"
+    type: break
+  - id: reverie
+    title: "Reverie"
+    path: "Reverie.brstm"
+    type: break
+  - id: sunken_ruin_bonus_track
+    title: "Sunken Ruin (Bonus Track)"
+    path: "Sunken Ruin (Bonus Track).brstm"
+    type: break
+  - id: the_lovely_queen_ver_1
+    title: "The Lovely Queen Ver. 1"
+    path: "The Lovely Queen Ver. 1.brstm"
+    type: warning
+  - id: the_lovely_queen_ver_2
+    title: "The Lovely Queen Ver. 2"
+    path: "The Lovely Queen Ver. 2.brstm"
+    type: warning
+  - id: the_royal_garden_bonus_track
+    title: "The Royal Garden (Bonus Track)"
+    path: "The Royal Garden (Bonus Track).brstm"
+    type: break
+  - id: title_momodora_rutm
+    title: "Title"
+    path: "Title.brstm"
+    type: break
+...

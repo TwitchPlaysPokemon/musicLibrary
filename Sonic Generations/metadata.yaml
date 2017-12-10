@@ -1,9 +1,9 @@
 ---
 id: sonic_generations
 title: "Sonic Generations"
-series: sonic
-year: 2011
+series: sonicthehedgehog
 platform: ["360", "PS3", PC"]
+year: 2011
 songs:
   - id: boss_death_egg
     title: "Boss - Death Egg Robot (OST)"
@@ -61,4 +61,12 @@ songs:
     title: "Seaside Hill - Modern"
     path: "Seaside Hill - Modern.brstm"
     type: betting
+  - id: boss_battle_death_egg_robot
+    title: "Boss Battle: Death Egg Robot"
+    path: "Boss - Death Egg Robot (Medley).brstm"
+    type: warning
+  - id: crisis_city_modern
+    title: "Crisis City - Modern"
+    path: "Crisis City - Modern.brstm"
+    type: battle
 ...

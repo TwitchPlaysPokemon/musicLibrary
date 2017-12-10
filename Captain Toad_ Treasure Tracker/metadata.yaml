@@ -1,8 +1,9 @@
+---
 id: captain_toad_treasure_tracker
 title: "Captain Toad: Treasure Tracker"
-year: 2014
-platform: "Wii U"
 series: mario
+platform: "Wii U"
+year: 2014
 songs:
   - id: beach_toad
     title: "Beach"
@@ -28,3 +29,12 @@ songs:
     title: "After Boss"
     path: "After Boss.brstm"
     type: result
+  - id: staff_roll_toad
+    title: "Staff Roll"
+    path: "Kp_bgm_Demo_Staffroll.nk.32.dspadpcm.bfstm"
+    type: result
+  - id: snowy_plains
+    title: "Snowy Plains"
+    path: "Snowy Plains.brstm"
+    type: betting
+...

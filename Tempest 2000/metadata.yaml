@@ -1,12 +1,21 @@
+---
 id: tempest_2000
 title: "Tempest 2000"
 platform: "Jaguar"
 year: 1994
 songs:
+  - id: 2000_dub
+    title: "2000 Dub"
+    path: "2000 Dub.brstm"
+    type: betting
   - id: minds_eye
     title: "Mind's Eye"
     path: "Mind's Eye.brstm"
     ends: 2:05
+    type: betting
+  - id: t2k
+    title: "T2K"
+    path: "t2k.brstm"
     type: betting
   - id: tracking_death
     title: "Tracking Death"
@@ -20,3 +29,4 @@ songs:
     title: "Hyper Prism"
     path: "Hyper Prism.brstm"
     type: warning
+...

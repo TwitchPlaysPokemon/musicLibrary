@@ -1,9 +1,20 @@
+---
 id: snowboard_kids_2
 title: "Snowboard Kids 2"
-year: 1999
+series: snowboardkids
 platform: "N64"
-songs:
+year: 1999
+songs: 
+  - id: haunted_house_snowboard_kids_2
+    title: "Haunted House"
+    path: "19 Haunted House.miniusf"
+    type: battle
   - id: vs_snowman_robot
-    title: "VS Snowman Robot/Dinosaur"
+    title: "VS Snowman Robot"
     path: "21 VS Snowman Robot.miniusf"
     type: battle
+  - id: damiens_theme
+    title: "Damien's Theme"
+    path: "31 Damien's Theme.miniusf"
+    type: warning
+...

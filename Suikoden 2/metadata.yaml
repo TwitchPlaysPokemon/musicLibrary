@@ -9,10 +9,18 @@ songs:
     title: "The Will"
     path: "1105 The Will.psf"
     type: battle
+  - id: results_suikoden_2
+    title: "Results"
+    path: "1106 Results.psf"
+    type: result
   - id: a_peaceful_mountain_village
     title: "A Peaceful Mountain Village"
     path: "1113 A Peaceful Mountain Village.psf"
     type: break
+  - id: labyrinth_penpe_2
+    title: "Labyrinth, Penpe 2"
+    path: "1116 Labyrinth, Penpe 2.psf"
+    type: betting
   - id: a_worthy_foe_appears
     title: "A Worthy Foe Appears"
     path: "1117 A Worthy Foe Appears (no intro).psf"
@@ -45,9 +53,17 @@ songs:
     title: "Even Farther"
     path: "2130 Even Farther.psf"
     type: betting
+  - id: the_chase
+    title: "The Chase"
+    path: "2207 The Chase.psf"
+    type: battle
   - id: gothic_neclord
     title: "Gothic Neclord"
     path: "2212 Gothic Neclord.psf"
+    type: battle
+  - id: silver_wolf
+    title: "Silver Wolf"
+    path: "2217 Silver Wolf.psf"
     type: battle
   - id: tension_alternate_suikoden2
     title: "Tension (alternate)"

@@ -2,63 +2,148 @@
 id: kirbys_epic_yarn
 title: "Kirby's Epic Yarn"
 series: kirby
-year: 2010
 platform: "Wii"
+year: 2010
 songs:
-  - id: vs_yin_yarn
-    title: "Vs. Yin-Yarn"
-    path: "Vs. Yin-Yarn.brstm"
-    type: battle
-  - id: halberd
-    title: "Halberd"
-    path: "Halberd.brstm"
-    type: betting
-  - id: kirbys_pad
-    title: "Kirby's Pad"
-    path: "Kirby's Pad.brstm"
-    type: break
-  - id: vs_king_dedede_kirbys_epic_yarn
-    title: "Vs. King Dedede"
-    path: "Vs. King Dedede.brstm"
-    type: battle
-  - id: secret_island_kirbys_epic_yarn
-    title: "Secret Island"
-    path: "Secret Island.brstm"
+  - id: big_bean_vine
+    title: "Big-Bean Vine"
+    path: "18. Big-Bean Vine.brstm"
     type: betting
   - id: butter_building_kirbys_epic_yarn
     title: "Butter Building"
     path: "Butter Building.brstm"
     type: betting
-  - id: outer_rings
-    title: "Outer Rings"
-    path: "Outer Rings.brstm"
+  - id: cozy_cabin
+    title: "Cozy Cabin"
+    path: "51. Cozy Cabin.brstm"
     type: betting
-  - id: future_city
-    title: "Future City"
-    path: "Future City.brstm"
-    type: betting
-  - id: fountain_gardens
-    title: "Fountain Gardens"
-    path: "Fountain Gardens.brstm"
+  - id: dino_jungle
+    title: "Dino Jungle"
+    path: "31. Dino Jungle.brstm"
     type: betting
   - id: dusk_dunes_epicyarn
     title: "Dusk Dunes"
     path: "Dusk Dunes.brstm"
     type: betting
-  - id: apt_102_epicyarn
-    title: "Apt. 102"
-    path: "Apt. 102.brstm"
-    type: break
+  - id: fountain_gardens
+    title: "Fountain Gardens"
+    path: "Fountain Gardens.brstm"
+    type: betting
+  - id: future_city
+    title: "Future City"
+    path: "Future City.brstm"
+    type: betting
   - id: gourment_race_epicyarn
     title: "Gourmet Race"
     path: "Gourmet Race.brstm"
     type: betting
+  - id: halberd
+    title: "Halberd"
+    path: "Halberd.brstm"
+    type: betting
+  - id: mt_slide
+    title: "Mt. Slide"
+    path: "52. Mt. Slide.brstm"
+    type: betting
+  - id: mushroom_run
+    title: "Mushroom Run"
+    path: "37. Mushroom Run.brstm"
+    type: betting
+  - id: outer_rings
+    title: "Outer Rings"
+    path: "Outer Rings.brstm"
+    type: betting
+  - id: patch_castle
+    title: "Patch Castle"
+    path: "05. Patch Castle.brstm"
+    type: betting
+  - id: quilty_square
+    title: "Quilty Square"
+    path: "04. Quilty Square.brstm"
+    type: betting
+  - id: secret_island_kirbys_epic_yarn
+    title: "Secret Island"
+    path: "Secret Island.brstm"
+    type: betting
+  - id: snowy_fields_evergreen_lift
+    title: "Snowy Fields - Evergreen Lift"
+    path: "50. Snowy Fields - Evergreen Lift.brstm"
+    type: betting
+  - id: stellar_way
+    title: "Stellar Way"
+    path: "59. Stellar Way.brstm"
+    ends: 2:10
+    type: betting
+  - id: toy_tracks_cocoa_station
+    title: "Toy Tracks - Cocoa Station"
+    path: "36. Toy Tracks - Cocoa Station.brstm"
+    type: betting
+  - id: lava_landing
+    title: "Lava Landing"
+    path: "29. Lava Landing - Temper Temple.brstm"
+    type: warning
   - id: tankbot_epicyarn
     title: "Tankbot"
     path: "Tankbot.brstm"
+    type: warning
+  - id: vs_hot_wings
+    title: "VS. Hot Wings"
+    path: "32. VS. Hot Wings.brstm"
     type: warning
   - id: vs_cracko_epicyarn
     title: "Vs. Kracko"
     path: "Vs. Kracko.brstm"
     type: warning
+  - id: vs_meta_knight_epicyarn
+    title: "VS. Meta Knight"
+    path: "60. VS. Meta Knight.brstm"
+    type: warning
+  - id: vs_king_dedede_kirbys_epic_yarn
+    title: "Vs. King Dedede"
+    path: "Vs. King Dedede.brstm"
+    type: battle
+  - id: vs_squashini
+    title: "Vs. Squashini"
+    path: "39. VS. Squashini.brstm"
+    type: battle
+  - id: vs_yin_yarn
+    title: "Vs. Yin-Yarn"
+    path: "Vs. Yin-Yarn.brstm"
+    type: battle
+  - id: rainbow_falls_sweets_park
+    title: "Rainbow Falls - Sweets Park"
+    path: "17. Rainbow Falls - Sweets Park.brstm"
+    type: result
+  - id: apt_102_epicyarn
+    title: "Apt. 102"
+    path: "Apt. 102.brstm"
+    type: break
+  - id: frosty_wheel
+    title: "Frosty Wheel"
+    path: "53. Frosty Wheel.brstm"
+    type: break
+  - id: cutscene_staff_credits
+    title: "Cutscene ~ Staff Credits"
+    path: "75. Cutscene ~ Staff Credits.brstm"
+    type: break
+  - id: kirbys_pad
+    title: "Kirby's Pad"
+    path: "Kirby's Pad.brstm"
+    type: break
+  - id: melody_town
+    title: "Melody Town"
+    path: "38. Melody Town.brstm"
+    type: break
+  - id: world_4_water_land
+    title: "World 4 ~ Water Land"
+    path: "42. World 4 ~ Water Land.brstm"
+    type: break
+  - id: world_5_snow_land
+    title: "World 5 ~ Snow Land"
+    path: "49. World 5 ~ Snow Land.brstm"
+    type: break
+  - id: world_7_dream_land
+    title: "World 7 ~ Dream Land"
+    path: "64. World 7 ~ Dream Land.brstm"
+    type: break
 ...

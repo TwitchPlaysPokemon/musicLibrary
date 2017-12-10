@@ -1,7 +1,8 @@
+---
 id: dark_cloud
 title: "Dark Cloud"
-year: 2000
 platform: "PS2"
+year: 2000
 songs:
   - id: departure_dark_cloud
     title: "Departure"
@@ -39,3 +40,20 @@ songs:
     title: "Yellow Drops"
     path: "Yellow Drops.psf2"
     type: break
+  - id: resurrection_of_the_dark_genie
+    title: "Resurrection of the Dark Genie"
+    path: "Resurrection of the Dark Genie.psf2"
+    type: warning
+  - id: the_ice_queen
+    title: "The Ice Queen"
+    path: "The Ice Queen.psf2"
+    type: warning
+  - id: open_your_eyes
+    title: "Open Your Eyes"
+    path: "06 Open Your Eyes.psf2"
+    type: break
+  - id: the_land_of_hope
+    title: "The Land of Hope"
+    path: "36 Land of Hope.psf2"
+    type: break
+...

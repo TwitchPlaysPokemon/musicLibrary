@@ -1,8 +1,8 @@
 ---
 id: super_metroid
-platform: "SNES"
 title: "Super Metroid"
 series: metroid
+platform: "SNES"
 year: 1994
 songs: 
   - id: brinstar_-_plant_overgrowth_area
@@ -33,4 +33,12 @@ songs:
     title: "Tension"
     path: "Tension.spc"
     type: warning
+  - id: maridia_rocky_underwater_area
+    title: "Maridia Rocky Underwater Area"
+    path: "10 Maridia Rocky Underwater Area.spc"
+    type: break
+  - id: norfair_ancient_ruins_area
+    title: "Norfair Ancient Ruins Area"
+    path: "12 Norfair Ancient Ruins Area.spc"
+    type: betting
 ...

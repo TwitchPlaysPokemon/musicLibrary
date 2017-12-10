@@ -6,28 +6,28 @@ platform: "GBA"
 year: 2006
 songs:
   - id: fire
-    path: "F-F-Fire!.brstm"
     title: "F-F-Fire!"
+    path: "F-F-Fire!.brstm"
     type: warning
   - id: dangerous_highway
-    path: "Dangerous Highway.brstm"
     title: "Dangerous Highway"
+    path: "Dangerous Highway.brstm"
     type: betting
   - id: hard_rain
-    path: "Hard Rain.brstm"
     title: "Hard Rain"
+    path: "Hard Rain.brstm"
     type: betting
   - id: unfounded_revenge
-    path: "Unfounded Revenge.brstm"
     title: "Unfounded Revenge"
+    path: "Unfounded Revenge.brstm"
     type: battle
   - id: time_passage
-    path: "Time Passage.brstm"
     title: "Time Passage"
+    path: "Time Passage.brstm"
     type: result
   - id: bothersome_guys
-    path: "Bothersome Guys.brstm"
     title: "Bothersome Guys"
+    path: "Bothersome Guys.brstm"
     type: warning
   - id: fate
     title: "Fate"
@@ -117,4 +117,8 @@ songs:
     title: "Murasaki Forest"
     path: "130 Murasaki Forest.minigsf"
     type: betting
+  - id: porkys_porkies
+    title: "Porky's Porkies"
+    path: "240 Porky's Porkies.minigsf"
+    type: warning
 ...

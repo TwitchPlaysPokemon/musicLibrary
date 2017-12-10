@@ -1,4 +1,5 @@
-id: tiny_toon_adventures
+---
+id: tiny_toon_adventures_busters_hudden_treasure
 title: "Tiny Toon Adventures: Buster's Hidden Treasure"
 platform: "Genesis"
 year: 1993
@@ -27,3 +28,8 @@ songs:
     title: "Wackyland"
     path: "Wackyland.vgz"
     type: betting
+  - id: inside_the_caverns
+    title: "Inside the Caverns"
+    path: "Inside the Caverns.vgz"
+    type: betting
+...

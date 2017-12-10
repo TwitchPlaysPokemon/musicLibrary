@@ -1,9 +1,9 @@
 ﻿---
 id: kirby_squeak_squad
 title: "Kirby: Squeak Squad"
+series: kirby
 platform: "NDS"
 year: 2006
-series: kirby
 songs: 
   - id: march_of_the_pink_soldier
     title: "March of the Pink Soldier"
@@ -19,11 +19,11 @@ songs:
     type: result
   - id: the_hero_of_dreamland
     title: "The Hero of Dreamland"
-    path: "The Hero of Dreamland.brstm"
+    path: "15 The Hero of Dreamland.mini2sf"
     type: result
   - id: troubling_situation
     title: "Troubling Situation"
-    path: "Troubling Situation.brstm"
+    path: "20 Troubling Situation.mini2sf"
     type: warning
   - id: ultimate_squeak_battle
     title: "Ultimate Squeak Battle"
@@ -43,6 +43,10 @@ songs:
     type: warning
   - id: file_select_squeak_squad
     title: "File Select"
-    path: "File Select.brstm"
+    path: "02 File Select.mini2sf"
     type: break
+  - id: here_come_the_squeaks
+    title: "Here Come the Squeaks!"
+    path: "19 Here Come the Squeaks!.mini2sf"
+    type: warning
 ...

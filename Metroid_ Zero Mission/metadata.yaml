@@ -1,10 +1,40 @@
+---
 id: metroid_zero_mission
 title: "Metroid: Zero Mission"
 series: metroid
-year: 2004
 platform: "GBA"
-songs:
+year: 2004
+songs: 
+  - id: vs_deorem_mua
+    title: "VS. Deorem, Mua"
+    path: "09 VS. Deorem, Mua.minigsf"
+    type: warning
+  - id: mother_brain_sees_you
+    title: "Mother Brain Sees You"
+    path: "12 Mother Brain Sees You.minigsf"
+    type: warning
   - id: kraids_lair
     title: "Kraid's Lair"
     path: "19 Kraid's Lair.minigsf"
     type: betting
+  - id: vs_kraid
+    title: "VS. Kraid"
+    path: "20b VS. Kraid.minigsf"
+    type: warning
+  - id: tourian
+    title: "Tourian"
+    path: "32 Tourian.minigsf"
+    type: betting
+  - id: space_pirate_mother_ship
+    title: "Space Pirate Mother Ship"
+    path: "35 Space Pirate Mother Ship.minigsf"
+    type: betting
+  - id: vs_chozo_guardian
+    title: "VS. Chozo Guardian"
+    path: "40b VS. Chozo Guardian.minigsf"
+    type: warning
+  - id: vs_mecha_ridley
+    title: "VS. Mecha Ridley"
+    path: "45 VS. Mecha Ridley.minigsf"
+    type: battle
+...

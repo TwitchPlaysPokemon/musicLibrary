@@ -1,8 +1,8 @@
 ---
 id: fire_emblem_the_sacred_stones
-platform: "GBA"
 title: "Fire Emblem: The Sacred Stones"
 series: fireemblem
+platform: "GBA"
 year: 2005
 songs: 
   - id: truth_despair_and_hope
@@ -13,7 +13,7 @@ songs:
     title: "The Prince's Despair"
     path: "The Prince's Despair.minigsf"
     type: warning
-  - id: powerful_foe
+  - id: powerful_foe_fess
     title: "Powerful Foe"
     path: "Powerful Foe.minigsf"
     type: warning
@@ -45,4 +45,12 @@ songs:
     title: "Reunion"
     path: "Reunion.minigsf"
     type: break
+  - id: rise_above_fess
+    title: "Rise Above"
+    path: "10 Rise Above.minigsf"
+    type: betting
+  - id: shadows_approach_fess
+    title: "Shadows Approach"
+    path: "18 Shadows Approach.minigsf"
+    type: betting
 ...

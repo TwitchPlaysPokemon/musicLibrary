@@ -1,0 +1,16 @@
+---
+id: ikari_warriors_arcade
+title: "Ikari Warriors [Arcade]"
+series: ikariwarriors
+platform: "Various"
+year: 1986
+songs: 
+  - id: theme_of_ikari
+    title: "Theme of Ikari"
+    path: "03 Theme of Ikari.vgz"
+    type: betting
+  - id: gate_ikari_warriors_arcade
+    title: "Gate"
+    path: "04 Gate.vgz"
+    type: warning
+...

@@ -13,7 +13,7 @@ songs:
   - id: ersteboden
     title: "Ersteboden"
     path: "03 Ersteboden.psf2"
-    type: break
+    type: betting
   - id: lemurianische_ruine
     title: "Lemurianische Ruine"
     path: "06 Lemurianische Ruine.psf2"
@@ -30,10 +30,18 @@ songs:
     title: "Tief Blau"
     path: "12 Tief Blau.psf2"
     type: warning
+  - id: traum_in_der_dunkelheit
+    title: "Traum in der Dunkelheit"
+    path: "14 Traum in der Dunkelheit.psf2"
+    type: betting
   - id: hologramm
     title: "Hologramm"
     path: "15 Hologramm.psf2"
     type: break
+  - id: gedaechtnisschwund
+    title: "Gedaechtnisschwund"
+    path: "17 Gedaechtnisschwund.psf2"
+    type: betting
   - id: heilmittel
     title: "Heilmittel"
     path: "20 Heilmittel.psf2"

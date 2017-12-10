@@ -1,9 +1,21 @@
 ---
 id: harmoknight
 title: "HarmoKnight"
-year: 2012
 platform: "3DS"
+year: 2012
 songs:
+  - id: city_lights_and_jazz_city
+    title: "City Lights & Jazz City"
+    path: "City Lights & Jazz City.brstm"
+    type: betting
+  - id: coastal_hideaway
+    title: "Coastal Hideaway"
+    path: "Coastal Hideaway.brstm"
+    type: betting
+  - id: the_gym_harmoknight
+    title: "The Gym"
+    path: "The Gym.brstm"
+    type: betting
   - id: champion_battle
     title: "Champion Battle!"
     path: "Champion Battle!.brstm"
@@ -12,10 +24,6 @@ songs:
     title: "Your Bicycle"
     path: "Your Bicycle.brstm"
     type: result
-  - id: the_gym_harmoknight
-    title: "The Gym"
-    path: "The Gym.brstm"
-    type: betting
   - id: route_26_harmoknight
     title: "Route 26"
     path: "Route 26.brstm"

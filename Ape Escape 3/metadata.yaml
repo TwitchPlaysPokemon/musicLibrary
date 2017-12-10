@@ -1,19 +1,32 @@
 ---
 id: ape_escape_3
 title: "Ape Escape 3"
-year: 2005
+series: apeescape
 platform: "PS2"
+year: 2005
 songs:
-  - id: specter_face_off_
-    title: "Specter Face Off!"
-    path: "Specter Face Off! .brstm"
-    type: warning
   - id: freeze_continent
     title: "Freeze Continent (OST Version)"
     path: "Freeze Continent (OST Version).brstm"
+    type: betting
+  - id: mount_amazing_part_1
+    title: "Mount Amazing (Part 1)"
+    path: "Mount Amazing (Part 1).brstm"
     type: betting
   - id: super_monkey_throw_stadium
     title: "Super Monkey Throw Stadium!"
     path: "Super Monkey Throw Stadium!.brstm"
     type: betting
+  - id: saru_mons_castle_part_1
+    title: "Saru-Mon's Castle (Part 1)"
+    path: "Saru-Mon's Castle (Part 1).brstm"
+    type: betting
+  - id: monkey_white
+    title: "Monkey White"
+    path: "Monkey White.brstm"
+    type: warning
+  - id: specter_face_off
+    title: "Specter Face Off!"
+    path: "Specter Face Off! .brstm"
+    type: warning
 ...

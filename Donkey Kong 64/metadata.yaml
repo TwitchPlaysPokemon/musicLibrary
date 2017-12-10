@@ -2,33 +2,9 @@
 id: donkey_kong_64
 title: "Donkey Kong 64"
 series: donkeykong
-year: 1999
 platform: "N64"
-songs:
-  - id: crystal_caves_boss
-    title: "Crystal Caves Boss"
-    path: "083 - Crystal Caves Boss.miniusf"
-    type: battle
-  - id: creepy_castle
-    title: "Creepy Castle"
-    path: "085 - Creepy Castle.miniusf"
-    type: betting
-  - id: banana_fairy_isle
-    title: "Banana Fairy Isle"
-    path: "039 - Banana Fairy Isle.miniusf"
-    type: break
-  - id: snides_hq
-    title: "Snide's HQ"
-    path: "106 - Snide's HQ.miniusf"
-    type: break
-  - id: k_rool
-    title: "K Rool"
-    path: "105 - K Rool.miniusf"
-    type: warning
-  - id: fungi_forst_day
-    title: "Fungi Forest Day"
-    path: "Fungi Forest Day.brstm"
-    type: betting
+year: 1999
+songs: 
   - id: dk_rap
     title: "DK Rap"
     path: "002 DK Rap.miniusf"
@@ -38,13 +14,92 @@ songs:
     title: "Jungle Japes - 1"
     path: "018 Jungle Japes.miniusf"
     type: betting
+  - id: jungle_japes_underground
+    title: "Jungle Japes Underground"
+    path: "025 Jungle Japes Underground.miniusf"
+    type: break
+  - id: angry_aztec_underground
+    title: "Angry Aztec Underground"
+    path: "032 Angry Aztec Underground.miniusf"
+    type: break
+  - id: banana_fairy_isle
+    title: "Banana Fairy Isle"
+    path: "039 - Banana Fairy Isle.miniusf"
+    type: break
+  - id: krem_isle
+    title: "Krem Isle"
+    path: "040 Krem Isle.miniusf"
+    type: betting
+  - id: frantic_factory
+    title: "Frantic Factory"
+    path: "043 Frantic Factory.miniusf"
+    type: betting
   - id: frantic_factory_boss_mad_jack
     title: "Frantic Factory Boss"
     path: "048 Frantic Factory Boss.miniusf"
     type: warning
+  - id: gloomy_galleon_submarine
+    title: "Gloomy Galleon Submarine"
+    path: "059 Gloomy Galleon Submarine.miniusf"
+    type: break
+  - id: fungi_forest_spider
+    title: "Fungi Forest Spider"
+    path: "067 Fungi Forest Spider.miniusf"
+    type: warning
+  - id: creepy_castle_lobby
+    title: "Creepy Castle Lobby"
+    path: "084 Creepy Castle Lobby.miniusf"
+    type: break
+  - id: creepy_castle_dungeon_1
+    title: "Creepy Castle (Dungeon 1)"
+    path: "088 Creepy Castle Dungeons.miniusf"
+    type: break
+  - id: creepy_castle_caves
+    title: "Creepy Castle Caves"
+    path: "089 Creepy Castle Caves.miniusf"
+    type: betting
+  - id: creepy_castle_rubbish_bin
+    title: "Creepy Castle Rubbish Bin"
+    path: "091 Creepy Castle Rubbish Bin.miniusf"
+    type: warning
+  - id: creepy_castle_library
+    title: "Creepy Castle Library"
+    path: "093 Creepy Castle Library.miniusf"
+    type: betting
+  - id: creepy_castle_ballroom
+    title: "Creepy Castle Ballroom"
+    path: "094 Creepy Castle Ballroom.miniusf"
+    type: betting
+  - id: creepy_castle_dungeon_4
+    title: "Creepy Castle (Dungeon 4)"
+    path: "097 Creepy Castle Dungeons.miniusf"
+    type: betting
+  - id: creepy_castle_mine_cart
+    title: "Creepy Castle Mine Cart"
+    path: "098 Creepy Castle Mine Cart.miniusf"
+    type: battle
+  - id: crystal_caves_boss
+    title: "Crystal Caves Boss"
+    path: "083 - Crystal Caves Boss.miniusf"
+    type: battle
+  - id: creepy_castle
+    title: "Creepy Castle"
+    path: "085 - Creepy Castle.miniusf"
+    type: betting
+  - id: k_rool
+    title: "K Rool"
+    path: "105 - K Rool.miniusf"
+    type: warning
+  - id: snides_hq
+    title: "Snide's HQ"
+    path: "106 - Snide's HQ.miniusf"
+    type: break
+  - id: fungi_forst_day
+    title: "Fungi Forest Day"
+    path: "Fungi Forest Day.brstm"
+    type: betting
   - id: bonus_barrel
     title: "Bonus Barrel"
     path: "Bonus Barrel.miniusf"
     type: warning
 ...
-

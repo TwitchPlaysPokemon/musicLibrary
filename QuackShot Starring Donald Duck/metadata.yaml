@@ -1,13 +1,23 @@
+---
 id: quackshot_starring_donald_duck
 title: "QuackShot Starring Donald Duck"
-year: 1991
 platform: "Genesis"
-songs:
-  - id: staff_roll_quackshot
-    title: "Staff Roll"
-    path: "Staff Roll.vgz"
-    type: result
+year: 1991
+songs: 
+  - id: transylvania_quackshot
+    title: "Transylvania"
+    path: "Transylvania.vgz"
+    type: betting
   - id: viking_ship_quackshot
     title: "Viking Ship"
     path: "Viking Ship.vgz"
     type: betting
+  - id: staff_roll_quackshot
+    title: "Staff Roll"
+    path: "Staff Roll.vgz"
+    type: result
+  - id: room_2_quackshot
+    title: "Room 2"
+    path: "Room 2.vgz"
+    type: break
+...

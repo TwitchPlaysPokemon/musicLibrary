@@ -4,16 +4,16 @@ title: "Mamoru Has Been Cursed!"
 platform: ["Arcade", "360", "PS3"]
 year: 2008
 songs: 
+  - id: yo_kai_disco
+    title: "YO-KAI Disco"
+    path: "bgm02_v02.brstm"
+    type: betting
   - id: bless_you_boy
     title: "Bless you! boy"
-    path: "Bless you! boy.brstm"
+    path: "bgm20_v01.brstm"
     type: result
   - id: superhero
     title: "Superhero"
-    path: "Superhero.brstm"
+    path: "bgm33_v01.brstm"
     type: battle
-  - id: yo_kai_disco
-    title: "YO-KAI Disco"
-    path: "YO-KAI Disco.brstm"
-    type: betting
 ...

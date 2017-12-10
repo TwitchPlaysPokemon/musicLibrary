@@ -1,0 +1,60 @@
+---
+id: momodora_i
+title: "Momodora I"
+series: momodora
+platform: "PC"
+year: 2010
+songs: 
+  - id: boss_momodora_i
+    title: "Boss"
+    path: "Boss.brstm"
+    type: battle
+  - id: ending_1_momodora_i
+    title: "Ending 1"
+    path: "Ending 1.brstm"
+    type: break
+  - id: ending_2_momodora_i
+    title: "Ending 2"
+    path: "Ending 2.brstm"
+    type: result
+  - id: final_boss_momodora_i
+    title: "Final Boss"
+    path: "Final Boss.brstm"
+    type: battle
+  - id: stage_1_momodora_i
+    title: "Stage 1"
+    path: "Stage 1.brstm"
+    type: betting
+  - id: stage_2_momodora_i
+    title: "Stage 2"
+    path: "Stage 2.brstm"
+    type: betting
+  - id: stage_3_momodora_i
+    title: "Stage 3"
+    path: "Stage 3.brstm"
+    type: betting
+  - id: stage_4_momodora_i
+    title: "Stage 4"
+    path: "Stage 4.brstm"
+    type: betting
+  - id: stage_5_momodora_i
+    title: "Stage 5"
+    path: "Stage 5.brstm"
+    type: break
+  - id: stage_6_momodora_i
+    title: "Stage 6"
+    path: "Stage 6.brstm"
+    type: betting
+  - id: stage_7_momodora_i
+    title: "Stage 7"
+    path: "Stage 7.brstm"
+    type: betting
+  - id: stage_8_momodora_i
+    title: "Stage 8"
+    path: "Stage 8.brstm"
+    type: betting
+  - id: title_momodora_i
+    title: "Title"
+    path: "Title.brstm"
+    type: result
+...

@@ -1,17 +1,14 @@
+---
 id: super_mario_all_stars
 title: "Super Mario All-Stars"
-year: 1993
 series: mario
 platform: "SNES"
+year: 1993
 songs:
-  - id: swimming_smb1_all_stars
-    title: "Swimming (Super Mario Bros.)"
-    path: "Swimming.spc"
-    type: break
-  - id: bonus_smb1_all_stars
-    title: "Bonus (Super Mario Bros.)"
-    path: "Bonus (Super Mario Bros.).spc"
-    type: result
+  - id: fortress_smb3_all_stars
+    title: "Fortress (Super Mario Bros. 3)"
+    path: "Fortress.spc"
+    type: betting
   - id: overworld_smb2_all_stars
     title: "Overworld (Super Mario Bros. 2)"
     path: "Overworld (Super Mario Bros. 2).spc"
@@ -20,3 +17,28 @@ songs:
     title: "Toad's House (Super Mario Bros. 3)"
     path: "Toad's House (Super Mario Bros. 3).spc"
     type: warning
+  - id: wart_smb2_all_stars
+    title: "Wart (Super Mario Bros. 2)"
+    path: "211 Wart.spc"
+    type: warning
+  - id: world_5_sky_land_part_2_coin_heaven_smb3_all_stars
+    title: "World 5 - Sky Land Part 2 / Coin Heaven	 (Super Mario Bros. 3)"
+    path: "315 In the Clouds.spc"
+    type: warning
+  - id: world_6_ice_land_smb3_all_stars
+    title: "World 6 - Ice Land (Super Mario Bros. 3)"
+    path: "307 Ice Land.spc"
+    type: warning
+  - id: world_8_dark_land_smb3_all_stars
+    title: "World 8 - Dark Land (Super Mario Bros. 3)"
+    path: "Dark Land.spc"
+    type: warning
+  - id: bonus_smb1_all_stars
+    title: "Bonus (Super Mario Bros.)"
+    path: "Bonus (Super Mario Bros.).spc"
+    type: result
+  - id: swimming_smb1_all_stars
+    title: "Swimming (Super Mario Bros.)"
+    path: "Swimming.spc"
+    type: break
+...

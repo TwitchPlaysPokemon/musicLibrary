@@ -1,0 +1,30 @@
+---
+id: xenoblade_chronicles_2
+title: "Xenoblade Chronicles 2"
+series: xeno
+platform: "Switch"
+year: 2017
+songs: 
+  - id: gormott
+    title: "Gormott"
+    path: "Gormott.brstm"
+    ends: 2:15
+    type: betting
+  - id: mor_ardain_roaming_the_wastes
+    title: "Mor Ardain - Roaming the Wastes -"
+    path: "Mor Ardain - Roaming the Wastes -.brstm"
+    ends: 2:52
+    type: betting
+  - id: battle_xc2
+    title: "Battle!!"
+    path: "Battle!!.brstm"
+    type: battle
+  - id: incoming_xc2
+    title: "Incoming!"
+    path: "Incoming!.brstm"
+    type: battle
+  - id: the_ancient_vessel
+    title: "The Ancient Vessel"
+    path: "The Ancient Vessel.brstm"
+    type: break
+...

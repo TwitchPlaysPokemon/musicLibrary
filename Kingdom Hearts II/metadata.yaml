@@ -2,9 +2,9 @@
 id: kingdom_hearts_ii
 title: "Kingdom Hearts II"
 series: kingdomhearts
-year: 2005
 platform: "PS2"
-songs:
+year: 2005
+songs: 
   - id: the_13th_struggle
     title: "The 13th Struggle"
     path: "The 13th Struggle.brstm"
@@ -45,8 +45,20 @@ songs:
     title: "Apprehension"
     path: "Apprehension.brstm"
     type: warning
-  - id: this_is_halloween
-    title: "This Is Halloween"
-    path: "This Is Halloween.brstm"
+  - id: waltz_of_the_damned
+    title: "Waltz of the Damned"
+    path: "130 - Waltz of the DAM0ned.psf2"
     type: betting
+  - id: this_is_halloween
+    title: "This is Halloween"
+    path: "214 - This is Halloween.psf2"
+    type: betting
+  - id: spooks_of_halloween_town_kingdom_hearts_ii
+    title: "Spooks of Halloween Town"
+    path: "215 - Spooks of Halloween Town.psf2"
+    type: battle
+  - id: riku
+    title: "Riku"
+    path: "228 - Riku.psf2"
+    type: break
 ...

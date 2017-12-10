@@ -4,7 +4,59 @@ title: "EarthBound"
 series: mother
 platform: "SNES"
 year: 1994
-songs:
+songs: 
+  - id: one_fateful_night
+    title: "One Fateful Night..."
+    path: "007 One Fateful Night....spc"
+    type: break
+  - id: alien_invasion_2
+    title: "Alien Invasion 2"
+    path: "009b Alien Invasion 2.spc"
+    type: warning
+  - id: onett_night_2
+    title: "Onett Night 2"
+    path: "015b Onett Night 2.spc"
+    type: break
+  - id: otherworldly_foe
+    title: "Otherworldly Foe"
+    path: "017 Otherworldly Foe.spc"
+    type: betting
+  - id: dangerous_caves
+    title: "Dangerous Caves"
+    path: "039 Dangerous Caves.spc"
+    type: break
+  - id: happy_happy_is_blue
+    title: "Happy-Happy is Blue"
+    path: "053 Happy-Happy is Blue.spc"
+    type: betting
+  - id: dead_end_chaos_theatre
+    title: "Dead-End Chaos Theatre"
+    path: "055 Dead-End Chaos Theatre.spc"
+    type: betting
+  - id: threed_zombie_central
+    title: "Threed, Zombie Central"
+    path: "059 Threed, Zombie Central.spc"
+    type: betting
+  - id: heartless_hotel
+    title: "Heartless Hotel"
+    path: "060 Heartless Hotel.spc"
+    type: betting
+  - id: moonside_swing
+    title: "Moonside Swing"
+    path: "089 Moonside Swing.spc"
+    type: break
+  - id: kraken_of_the_sea
+    title: "Kraken of the Sea"
+    path: "099 Kraken of the Sea.spc"
+    type: betting
+  - id: pyramid_earthbound
+    title: "Pyramid"
+    path: "103 Pyramid.spc"
+    type: betting
+  - id: the_place
+    title: "The Place"
+    path: "126 The Place.spc"
+    type: break
   - id: new_age_retro_hippie
     title: "New Age Retro Hippie"
     path: "New Age Retro Hippie.spc"
@@ -37,10 +89,6 @@ songs:
     title: "Battle Against a Weird Opponent"
     path: "Battle Against a Weird Opponent.spc"
     type: warning
-  - id: kraken_of_the_sea
-    title: "Kraken of the Sea"
-    path: "Kraken of the Sea.spc"
-    type: betting
   - id: boy_meets_girl_twoson
     title: "Boy Meets Girl (Twoson)"
     path: "Boy Meets Girl.spc"

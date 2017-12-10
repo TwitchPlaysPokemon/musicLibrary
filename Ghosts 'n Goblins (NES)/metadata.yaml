@@ -1,0 +1,16 @@
+---
+id: ghosts_n_goblins_nes
+title: "Ghosts 'n Goblins [NES]"
+series: ghostsngoblins
+platform: ["Arcade", "NES", "C64"]
+year: 1985
+songs: 
+  - id: ground_bgm_1_2_stage)
+    title: "Ground BGM (1, 2 Stage)"
+    path: "Ground BGM (1, 2 Stage).vgz"
+    type: betting
+  - id: theme_of_satan_5_6_stage_boss
+    title: "Theme of Satan (5, 6 Stage Boss)"
+    path: "Theme of Satan (5, 6 Stage Boss).vgz"
+    type: warning
+...

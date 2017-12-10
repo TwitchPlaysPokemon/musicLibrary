@@ -1,0 +1,20 @@
+---
+id: legend_of_the_mystical_ninja
+title: "Legend of the Mystical Ninja"
+series: ganbaregoemon
+platform: "SNES"
+year: 1991
+songs: 
+  - id: invasion_of_evil_spirits
+    title: "Invasion of Evil Spirits"
+    path: "09 Invasion of Evil Spirits.spc"
+    type: betting
+  - id: in_your_future_i_see
+    title: "In Your Future, I see..."
+    path: "50 In Your Future, I see....spc"
+    type: betting
+  - id: lost_in_the_labyrinth
+    title: "Lost in the Labyrinth"
+    path: "65 Lost in the Labyrinth.spc"
+    type: warning
+...

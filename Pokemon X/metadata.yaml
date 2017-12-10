@@ -1,8 +1,8 @@
 ---
 id: pokemon_x
 title: "Pokémon X/Y"
-platform: "3DS"
 series: pokemon
+platform: "3DS"
 year: 2013
 songs: 
   - id: battle_elite_four_x
@@ -365,11 +365,6 @@ songs:
     title: "Trainers' Eyes Meet (Youngster)"
     path: "Trainers' Eyes Meet (Youngster).brstm"
     type: warning
-#      - id: try_again
-#        path: "Try Again.brstm"
-#        title: "Try Again"
-#        type: result
-# unfitting result song
   - id: vaniville_town
     title: "Vaniville Town"
     path: "Vaniville Town.brstm"
@@ -438,4 +433,8 @@ songs:
     title: "Wonder Trade"
     path: "Wonder Trade.brstm"
     type: betting
+  - id: hurry_along_1_xy
+    title: "Hurry Along 1"
+    path: "Hurry Along 1.brstm"
+    type: warning
 ...

@@ -1,9 +1,9 @@
 ---
 id: undertale
-title: "Undertale"
+title: "UNDERTALE"
+platform: "Various"
 year: 2015
-platform: "PC"
-songs:
+songs: 
   - id: asgore
     title: "ASGORE"
     path: "ASGORE (Game Loop).brstm"
@@ -90,4 +90,36 @@ songs:
     title: "Fallen Down (Reprise)"
     path: "Fallen Down (Reprise).brstm"
     type: break
+  - id: empty_house
+    title: "Empty House"
+    path: "Empty House.brstm"
+    type: break
+  - id: ghost_fight
+    title: "Ghost Fight"
+    path: "Ghost Fight.brstm"
+    type: battle
+  - id: premonition_ut
+    title: "Premonition"
+    path: "Premonition.brstm"
+    type: break
+  - id: spider_dance
+    title: "Spider Dance"
+    path: "Spider Dance.brstm"
+    type: battle
+  - id: bonetrousle
+    title: "Bonetrousle"
+    path: "Bonetrousle.brstm"
+    type: betting
+  - id: unneccessary_tension
+    title: "Unneccessary Tension"
+    path: "mus_tension.brstm"
+    type: warning
+  - id: can_you_really_call_this_a_hotel_i_didnt_receive_a_mint_on_my_pillow
+    title: "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow"
+    path: "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow.brstm"
+    type: betting
+  - id: dating_fight
+    title: "Dating Fight!"
+    path: "Dating Fight!.brstm"
+    type: warning
 ...

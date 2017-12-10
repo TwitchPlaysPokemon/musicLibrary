@@ -20,6 +20,10 @@ songs:
     title: "Battle: Realm of the Fey"
     path: "BGM_BATTLE_WORLD3.bcstm"
     type: betting
+  - id: boss_the_dark_lord
+    title: "Boss: The Dark Lord"
+    path: "Boss- The Dark Lord.brstm"
+    type: betting
   - id: getting_changed
     title: "Getting Changed"
     path: "bgm_system_equipment.dspadpcm.bcstm"
@@ -28,18 +32,34 @@ songs:
     title: "Greenhorne"
     path: "bgm_town_1_normal.dspadpcm.bcstm"
     type: betting
+  - id: greenhorne_castle
+    title: "Greenhorne Castle"
+    path: "Greenhorne Castle.brstm"
+    type: betting
+  - id: map_dark_lords_castle
+    title: "Map: Dark Lord's Castle"
+    path: "Map- Dark Lord's Castle.brstm"
+    type: betting
   - id: map_greenhorne
     title: "Map: Greenhorne"
     path: "bgm_map_world_1.dspadpcm.bcstm"
+    type: betting
+  - id: map_horrific_place
+    title: "Map: Horrific Place"
+    path: "Map- Horrific Place.brstm"
+    type: betting
+  - id: map_powdered_peaks
+    title: "Map: Powdered Peaks"
+    path: "Map- Powdered Peaks.brstm"
     type: betting
   - id: mmmmm
     title: "Mmmmm!"
     path: "bgm_inn_meal.dspadpcm.bcstm"
     type: betting
-  - id: battle_darker_lords_left_hand
-    title: "Battle: Darker Lord's Left Hand"
-    path: "BGM_BATTLE_BOSS_SUPER_SATAN_LEFT.bcstm"
-    type: warning
+  - id: travelers_hub
+    title: "Travelers' Hub"
+    path: "Travelers' Hub.brstm"
+    type: betting
   - id: battle_nows_our_chance
     title: "Battle: Now's Our Chance!"
     path: "BGM_BATTLE_RARE.bcstm"
@@ -56,13 +76,13 @@ songs:
     title: "Boss Battle III"
     path: "BGM_BATTLE_BOSS_BIGBOSS.bcstm"
     type: warning
-  - id: boss_the_dark_lord
-    title: "Boss: The Dark Lord"
-    path: "BGM_BATTLE_BOSS_SATAN.bcstm"
-    type: warning
   - id: dark_lords_theme
     title: "Dark Lord's Theme"
     path: "bgm_Satan_theme.dspadpcm.bcstm"
+    type: warning
+  - id: prebattle_calamity_bringer
+    title: "Prebattle: Calamity Bringer"
+    path: "Prebattle- Calamity Bringer.brstm"
     type: warning
   - id: got_my_eye_on_you
     title: "Got My Eye On You"
@@ -72,10 +92,50 @@ songs:
     title: "Losing Your Face"
     path: "bgm_face_stolen.dspadpcm.bcstm"
     type: warning
+  - id: the_darker_lords_theme
+    title: "The Darker Lord's Theme"
+    path: "The Darker Lord's Theme.brstm"
+    type: warning
+  - id: the_darkest_hour
+    title: "The Darkest Hour"
+    path: "The Darkest Hour.brstm"
+    type: warning
+  - id: the_fab_fairies_dance
+    title: "The Fab Fairies Dance"
+    path: "The Fab Fairies Dance.brstm"
+    type: warning
+  - id: the_genies_theme
+    title: "The Genie's Theme"
+    path: "The Genie's Theme.brstm"
+    type: warning
+  - id: the_princes_theme
+    title: "The Prince's Theme"
+    path: "The Prince's Theme.brstm"
+    type: warning
+  - id: the_unrelenting_dark_curse
+    title: "The Unrelenting Dark Curse"
+    path: "The Unrelenting Dark Curse.brstm"
+    type: warning
   - id: your_first_battle
     title: "Your First Battle"
     path: "bgm_demo_rescue_child_03.dspadpcm.bcstm"
     type: warning
+  - id: battle_karkaton
+    title: "Battle: Karkaton"
+    path: "Battle- Karkaton.brstm"
+    type: battle
+  - id: battle_the_darkest_lord
+    title: "Battle: The Darkest Lord"
+    path: "Battle- The Darkest Lord.brstm"
+    type: battle
+  - id: battle_darker_lords_left_hand
+    title: "Battle: Darker Lord's Left Hand"
+    path: "Battle- Darker Lord's Left Hand.brstm"
+    type: battle
+  - id: battle_darker_lords_right_hand
+    title: "Battle: Darker Lord's Right Hand"
+    path: "Battle- Darker Lord's Right Hand.brstm"
+    type: battle
   - id: battle_the_sky_scraper
     title: "Battle: The Sky Scraper"
     path: "BGM_BATTLE_WORLD6.bcstm"
@@ -83,10 +143,6 @@ songs:
   - id: battle_greenhorne
     title: "Battle: Greenhorne"
     path: "BGM_BATTLE_WORLD1.bcstm"
-    type: battle
-  - id: battle_karkaton
-    title: "Battle: Karkaton"
-    path: "BGM_BATTLE_WORLD4.bcstm"
     type: battle
   - id: battle_neksdor
     title: "Battle: Neksdor"
@@ -96,13 +152,13 @@ songs:
     title: "Battle: Powdered Peak"
     path: "BGM_BATTLE_EXTRA_ICE.bcstm"
     type: battle
-  - id: battle_the_darkest_lord
-    title: "Battle: The Darkest Lord"
-    path: "BGM_BATTLE_BOSS_SUPER_SATAN_BODY.bcstm"
-    type: battle
   - id: boss_battle_miitopia
     title: "Boss Battle"
     path: "BGM_BATTLE_EVENT.bcstm"
+    type: battle
+  - id: boss_the_dark_lords_wrath
+    title: "Boss: The Dark Lord's Wrath"
+    path: "Boss- The Dark Lord's Wrath.brstm"
     type: battle
   - id: a_happy_ending
     title: "A Happy Ending"
@@ -151,5 +207,13 @@ songs:
   - id: elven_retreat
     title: "Elven Retreat"
     path: "bgm_town_3_elf.dspadpcm.bcstm"
+    type: break
+  - id: map_the_sky_scraper
+    title: "Map: The Sky Scraper"
+    path: "Map- The Sky Scraper.brstm"
+    type: break
+  - id: spin_the_roulette
+    title: "Spin the Roulette?"
+    path: "Spin the Roulette-.brstm"
     type: break
 ...

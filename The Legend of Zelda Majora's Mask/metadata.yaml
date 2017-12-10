@@ -1,10 +1,18 @@
-﻿---
-id: the_legend_of_zelda_majora's_mask
+---
+id: the_legend_of_zelda_majoras_mask
 title: "The Legend of Zelda: Majora's Mask"
 series: zelda
-platform: "N64"
+platform: ["N64", "3DS"]
 year: 2000
-songs:
+songs: 
+  - id: chase_theme
+    title: "Chase Theme"
+    path: "103 - Chase Theme.miniusf"
+    type: warning
+  - id: majoras_theme
+    title: "Majora's Theme"
+    path: "105 - Majora's Theme.miniusf"
+    type: warning
   - id: happy_mask_salesmans_theme
     title: "Happy Mask Salesman’s Theme"
     path: "107 Happy Mask Salesman.miniusf"
@@ -29,6 +37,10 @@ songs:
     title: "Owl"
     path: "135 Owl's Theme.miniusf"
     type: warning
+  - id: southern_swamp
+    title: "Southern Swamp"
+    path: "141 - Southern Swamp.miniusf"
+    type: betting
   - id: deku_palace
     title: "Deku Palace"
     path: "145 Deku Palace.miniusf"
@@ -36,6 +48,14 @@ songs:
   - id: giants_theme
     title: "Giants' Theme"
     path: "154 Giants' Theme.miniusf"
+    type: break
+  - id: snow_mountain
+    title: "Snow Mountain"
+    path: "201 - Snow Mountain.miniusf"
+    type: betting
+  - id: snowhead_temple
+    title: "Snowhead Temple"
+    path: "206 - Snowhead Temple.miniusf"
     type: break
   - id: boss_battle_majora
     title: "Boss Battle"
@@ -45,14 +65,30 @@ songs:
     title: "Goron Race"
     path: "210 Goron Race.miniusf"
     type: warning
+  - id: marine_research_laboratory
+    title: "Marine Research Laboratory"
+    path: "223 - Marine Research Laboratory.miniusf"
+    type: betting
+  - id: great_bay_temple
+    title: "Great Bay Temple"
+    path: "233 - Great Bay Temple.miniusf"
+    type: betting
+  - id: ikana_valley
+    title: "Ikana Valley"
+    path: "236 - Ikana Valley.miniusf"
+    type: betting
   - id: sharps_curse
     title: "Sharp's Curse"
-    path: "238 Sharp's Curse.miniusf"
+    path: "238 - Sharp's Curse.miniusf"
     type: warning
   - id: stone_tower_temple
     title: "Stone Tower Temple"
     path: "243 Stone Tower Temple (Reality).miniusf"
     type: betting
+  - id: majoras_mask_moon
+    title: "Majora's Mask Moon"
+    path: "247 - Majora's Mask Moon.miniusf"
+    type: warning
   - id: majoras_wrath_battle
     title: "Majora’s Wrath Battle"
     path: "250 Majora's Wrath Battle.miniusf"

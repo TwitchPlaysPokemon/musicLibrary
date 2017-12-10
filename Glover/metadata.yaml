@@ -1,8 +1,9 @@
+---
 id: glover
 title: "Glover"
-year: 1998
 platform: "N64"
-songs:
+year: 1998
+songs: 
   - id: carnival_1
     title: "Carnival Realm Lobby, Level 1"
     path: "Glover - 15 - Carnival 1.miniusf"
@@ -11,3 +12,28 @@ songs:
     title: "Prehistoric Realm Lobby, Level 1"
     path: "Glover - 33 - Prehistoric 1.miniusf"
     type: break
+  - id: fortress_of_fear_realm_lobby_level_1
+    title: "Fortress of Fear Realm Lobby, Level 1"
+    path: "42 - Fortress of Fear Realm Lobby, Level 1.miniusf"
+    type: betting
+  - id: fortress_of_fear_realm_level_2
+    title: "Fortress of Fear Realm Level 2"
+    path: "44 - Fortress of Fear Realm Level 2.miniusf"
+    type: betting
+  - id: fortress_of_fear_realm_level_3
+    title: "Fortress of Fear Realm Level 3"
+    path: "46 - Fortress of Fear Realm Level 3.miniusf"
+    type: break
+  - id: fortress_of_fear_realm_boss
+    title: "Fortress of Fear Realm Boss"
+    path: "48 - Fortress of Fear Realm Boss.miniusf"
+    type: battle
+  - id: out_of_this_world_realm_level_3
+    title: "Out Of This World Realm Level 3"
+    path: "55 - Out Of This World Realm Level 3.miniusf"
+    type: betting
+  - id: out_of_this_world_realm_boss
+    title: "Out Of This World Realm Boss"
+    path: "57 - Out Of This World Realm Boss.miniusf"
+    type: battle
+...

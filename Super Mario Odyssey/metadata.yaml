@@ -1,0 +1,60 @@
+---
+id: super_mario_odyssey
+title: "Super Mario Odyssey"
+series: mario
+platform: "Switch"
+year: 2017
+songs: 
+  - id: ice_super_mario_odyssey
+    title: "Ice"
+    path: "Ice.brstm"
+    type: betting
+  - id: jump_up_super_star
+    title: "Jump Up, Super Star!"
+    path: "Jump Up, Super Star! (Looped).brstm"
+    type: betting
+  - id: metro_kingdom_new_donk_city_daytime
+    title: "Metro Kingdom - New Donk City: Daytime"
+    path: "Metro Kingdom - New Donk City_ Daytime.brstm"
+    type: betting
+  - id: rc_car
+    title: "RC Car"
+    path: "RC Car.brstm"
+    type: betting
+  - id: sand_kingdom_tostarena_jaxi
+    title: "Sand Kingdom - Tostarena: Jaxi"
+    path: "Sand Kingdom - Tostarena_ Jaxi.brstm"
+    type: betting
+  - id: seaside_kingdom_bubblaine
+    title: "Seaside Kingdom - Bubblaine"
+    path: "Seaside Kingdom - Bubblaine.brstm"
+    type: break
+  - id: wooded_kingdom_steam_gardens
+    title: "Wooded Kingdom - Steam Gardens"
+    path: "Wooded Kingdom - Steam Gardens.brstm"
+    type: betting
+  - id: wooded_kingdom_steam_gardens_8_bit
+    title: "Wooded Kingdom - Steam Gardens (8-Bit)"
+    path: "Wooded Kingdom - Steam Gardens (8-Bit).brstm"
+    type: betting
+  - id: broodals_battle
+    title: "Broodals Battle"
+    path: "Broodals Battle.brstm"
+    type: warning
+  - id: mollusque_lanceur_battle
+    title: "Mollusque-Lanceur Battle"
+    path: "Mollusque-Lanceur Battle.brstm"
+    type: warning
+  - id: madame_broode_battle
+    title: "Madame Broode Battle"
+    path: "Madame Broode Battle.brstm"
+    type: battle
+  - id: mechawiggler_battle
+    title: "Mechawiggler Battle"
+    path: "Mechawiggler Battle.brstm"
+    type: battle
+  - id: metro_kingdom_new_donk_city_band_performance
+    title: "New Donk City (Band Performance)"
+    path: "Metro Kingdom - New Donk City (Band Performance).brstm"
+    type: result
+...

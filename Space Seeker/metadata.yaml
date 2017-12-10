@@ -1,0 +1,11 @@
+---
+id: space_seeker
+title: "Space Seeker"
+platform: "Arcade"
+year: 1981
+songs: 
+  - id: bgm_1_space_seeker
+    title: "BGM 1"
+    path: "01 BGM 1.vgz"
+    type: warning
+...

@@ -2,19 +2,71 @@
 id: super_monkey_ball
 title: "Super Monkey Ball"
 series: supermonkeyball
-platform: ["Arcade", "GC"]
+platform: ["Arcade", "GCN"]
 year: 2001
 songs:
   - id: arctic_super_monkey_ball
     title: "Arctic"
     path: "Arctic.brstm"
     type: betting
+  - id: bonus_stage_super_monkey_ball
+    title: "Bonus Stage"
+    path: "Bonus Floor.brstm"
+    type: betting
+  - id: desert_super_monkey_ball
+    title: "Desert"
+    path: "Desert.brstm"
+    type: betting
+  - id: extra_stages_super_monkey_ball
+    title: "Extra Stages"
+    path: "Extra Stages (Higher Quaility).brstm"
+    type: betting
+  - id: intro_super_monkey_ball
+    title: "Intro"
+    path: "Intro & Title Screen.brstm"
+    type: betting
+  - id: jungle_super_monkey_ball
+    title: "Jungle"
+    path: "Jungle.brstm"
+    type: betting
   - id: master_super_monkey_ball
     title: "Master"
     path: "Master.brstm"
+    type: betting
+  - id: monkey_fight
+    title: "Monkey Fight"
+    path: "Monkey Fight.brstm"
+    type: betting
+  - id: monkey_mall
+    title: "Monkey Mall"
+    path: "Monkey Mall.brstm"
     type: betting
   - id: monkey_race_super_monkey_ball
     title: "Monkey Race"
     path: "Monkey Race.brstm"
     type: betting
+  - id: sky_high_super_monkey_ball
+    title: "Sky High"
+    path: "Sky High.brstm"
+    type: betting
+  - id: underwater_super_monkey_ball
+    title: "Underwater"
+    path: "Underwater.brstm"
+    type: betting
+  - id: alternate_option_menu
+    title: "Alternate Option Menu"
+    path: "Alternate Main Menu.brstm"
+    type: result
+  - id: credits_super_monkey_ball
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+  - id: option_menu_super_monkey_ball
+    title: "Option Menu"
+    path: "Main Menu.brstm"
+    type: result
+  - id: storm_super_monkey_ball
+    title: "Storm"
+    path: "Storm.brstm"
+    type: battle
 ...

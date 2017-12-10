@@ -1,0 +1,52 @@
+---
+id: doom_ii_hell_on_earth_ost
+title: "Doom II: Hell on Earth (OST)"
+series: doom
+platform: "PC"
+year: 1994
+songs: 
+  - id: between_levels
+    title: "Between Levels"
+    path: "d_betwee.brstm"
+    type: betting
+  - id: countdown_to_death
+    title: "Countdown to Death"
+    path: "d_countd.brstm"
+    type: betting
+  - id: the_demons_dead
+    title: "The Demon's Dead"
+    path: "d_dead.brstm"
+    type: betting
+  - id: intermission_doom_ii_ost
+    title: "Intermission"
+    path: "d_dm2int.brstm"
+    type: betting
+  - id: doom_doom_ii_ost
+    title: "DOOM"
+    path: "d_doom.brstm"
+    type: betting
+  - id: evil_incarnate
+    title: "Evil Incarnate"
+    path: "d_evil.brstm"
+    type: warning
+  - id: into_sandys_city
+    title: "Into Sandy's City"
+    path: "d_in_cit.brstm"
+    type: betting
+  - id: endgame_doom_ii_ost
+    title: "Endgame"
+    path: "d_read_m.brstm"
+    type: betting
+  - id: waiting_for_roemro_to_play
+    title: "Waiting for Roemro to Play"
+    path: "d_romero.brstm"
+    type: break
+  - id: running_from_evil
+    title: "Running From Evil"
+    path: "d_runnin.brstm"
+    type: battle
+  - id: shawns_got_the_shotgun
+    title: "Shawn's Got The Shotgun"
+    path: "d_shawn.brstm"
+    type: betting
+...

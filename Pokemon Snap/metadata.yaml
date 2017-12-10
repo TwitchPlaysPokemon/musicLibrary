@@ -5,13 +5,25 @@ series: pokemon
 platform: "N64"
 year: 1999
 songs:
-  - id: pokemon_report_pokemon_snap
-    title: "Pokémon Report"
-    path: "Pokemon Report.miniusf"
-    type: result
+  - id: beach_pokemon_snap
+    title: "Beach"
+    path: "Beach.miniusf"
+    type: betting
   - id: prof_oak_lab_pokemon_snap
     title: "Prof. Oak's Lab"
     path: "Prof Oak's Lab.miniusf"
+    type: betting
+  - id: rainbow_pokemon_snap
+    title: "Rainbow"
+    path: "Rainbow.miniusf"
+    type: betting
+  - id: valley_pokemon_snap
+    title: "Valley"
+    path: "Valley.miniusf"
+    type: betting
+  - id: volcano_pokemon_snap
+    title: "Volcano"
+    path: "Volcano.miniusf"
     type: betting
   - id: prof_oak_check_pokemon_snap
     title: "Prof. Oak's Check"
@@ -21,22 +33,10 @@ songs:
     title: "Tunnel - Power Activated"
     path: "Tunnel - Power Activated.brstm"
     type: warning
-  - id: valley_pokemon_snap
-    title: "Valley"
-    path: "Valley.miniusf"
-    type: betting
-  - id: volcano_pokemon_snap
-    title: "Volcano"
-    path: "Volcano.miniusf"
-    type: betting
-  - id: river_pokemon_snap
-    title: "River"
-    path: "River.miniusf"
-    type: break
-  - id: beach_pokemon_snap
-    title: "Beach"
-    path: "Beach.miniusf"
-    type: betting
+  - id: pokemon_report_pokemon_snap
+    title: "Pokémon Report"
+    path: "Pokemon Report.miniusf"
+    type: result
   - id: title_pokemon_snap
     title: "Title"
     path: "02 Title.miniusf"
@@ -49,8 +49,12 @@ songs:
     title: "Options Menu"
     path: "04 Options Menu.miniusf"
     type: break
-  - id: rainbow_pokemon_snap
-    title: "Rainbow"
-    path: "Rainbow.miniusf"
-    type: betting
+  - id: photo_album_snap
+    title: "Photo Album"
+    path: "14 Photo Album.miniusf"
+    type: break
+  - id: river_pokemon_snap
+    title: "River"
+    path: "River.miniusf"
+    type: break
 ...

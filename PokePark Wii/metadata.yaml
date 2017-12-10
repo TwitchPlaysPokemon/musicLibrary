@@ -28,4 +28,8 @@ songs:
     title: "Salamence's Air Ace"
     path: "Salamence's Air Ace.brstm"
     type: warning
+  - id: battle_strong_pokemon
+    title: "Battle (Strong Pokémon)"
+    path: "battle_normal.brstm"
+    type: battle
 ...

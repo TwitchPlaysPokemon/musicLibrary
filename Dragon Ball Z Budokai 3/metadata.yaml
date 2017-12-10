@@ -1,0 +1,28 @@
+---
+id: dragon_ball_z_budokai_3
+title: "Dragon Ball Z: Budokai 3"
+series: dragonball
+platform: "Various"
+year: 2004
+songs: 
+  - id: 12am_shuffle
+    title: "12AM Shuffle"
+    path: "BGM59.adx"
+    type: betting
+  - id: embrace_the_blue_sky
+    title: "Embrace The Blue Sky"
+    path: "BGM27.adx"
+    type: betting
+  - id: evil_power
+    title: "Evil Power"
+    path: "BGM16.adx"
+    type: betting
+  - id: archipelago
+    title: "Archipelago"
+    path: "BGM11.adx"
+    type: battle
+  - id: daybreak_battle
+    title: "Daybreak Battle"
+    path: "BGM31.adx"
+    type: battle
+...

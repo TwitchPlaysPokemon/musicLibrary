@@ -1,10 +1,16 @@
+---
 id: rayman_2_the_great_escape
 title: "Rayman 2: The Great Escape"
-platform: ["N64", "Various"]
-#other platforms: ["PS1", "DC", "PC", "NDS", "3DS", "iOS", "GBC"]
+platform: "Various"
+#other platforms: ["N64", "PS1", "DC", "PC", "NDS", "3DS", "iOS", "GBC"]
 year: 1999
 songs:
   - id: the_hall_of_doors
     title: "The Hall of Doors"
     path: "The Hall of Doors.brstm"
     type: betting
+  - id: the_cave_of_bad_dreams
+    title: "The Cave of Bad Dreams)"
+    path: "2-12-the-cave-of-bad-dreams.mp3"
+    type: betting
+...

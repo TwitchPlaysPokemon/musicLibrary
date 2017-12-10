@@ -1,0 +1,86 @@
+---
+id: minecraft
+title: "Minecraft"
+platform: "Various"
+year: 2009
+songs: 
+  - id: blocks
+    title: "Blocks"
+    path: "Blocks.brstm"
+    ends: 2:08
+    type: betting
+  - id: cat_dog_danny
+    title: "Cat ~ Dog ~ Danny"
+    path: "Cat - Dog - Danny.brstm"
+    type: betting
+  - id: droopy_likes_ricochet
+    title: "Droopy Likes Ricochet"
+    path: "Droopy Likes Ricochet.brstm"
+    type: betting
+  - id: stal
+    title: "Stal"
+    path: "Stal.brstm"
+    ends: 2:31
+    type: betting
+  - id: ward
+    title: "Ward"
+    path: "Ward.brstm"
+    ends: 2:48
+    type: betting
+  - id: alpha_mc
+    title: "Alpha"
+    path: "Alpha.brstm"
+    type: break
+  - id: aria_math
+    title: "Aria Math"
+    path: "Aria Math.brstm"
+    type: break
+  - id: biome_fest
+    title: "Biome Fest"
+    path: "Biome Fest.brstm"
+    type: break
+  - id: blind_spots
+    title: "Blind Spots"
+    path: "Blind Spots.brstm"
+    type: break
+  - id: clark
+    title: "Clark"
+    path: "Clark.brstm"
+    type: break
+  - id: door
+    title: "Door"
+    path: "Door (Looped).brstm"
+    type: break
+  - id: haggstrom
+    title: "Haggstrom"
+    path: "Haggstrom.brstm"
+    type: break
+  - id: kyoto
+    title: "Kyoto"
+    path: "Kyoto.brstm"
+    type: break
+  - id: mall
+    title: "Mall"
+    path: "Mall (Looped).brstm"
+    type: break
+  - id: minecraft_song
+    title: "Minecaft"
+    path: "Minecraft.brstm"
+    type: break
+  - id: mutation
+    title: "Mutation"
+    path: "Mutation.brstm"
+    type: break
+  - id: strad
+    title: "Strad"
+    path: "Strad.brstm"
+    type: break
+  - id: subwoofer_lullaby
+    title: "Subwoofer Lullaby"
+    path: "Subwoofer Lullaby.brstm"
+    type: break
+  - id: wait
+    title: "Wait"
+    path: "Wait.brstm"
+    type: break
+...

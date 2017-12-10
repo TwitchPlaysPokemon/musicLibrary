@@ -1,9 +1,9 @@
 ---
 id: crypt_of_the_necrodancer
 title: "Crypt of the Necrodancer"
-year: 2015
 platform: ["PC", "Various"]
 #other platforms: ["PS4", "Vita", "XBone", "iOS"]
+year: 2015
 songs:
   - id: last_dance_(necrodancer_fight_2nd_phase)
     title: "Last Dance (Necrodancer Fight 2nd Phase)"
@@ -20,5 +20,9 @@ songs:
   - id: lobby_(eq_edit)
     title: "Lobby (EQ Edit)"
     path: "Lobby (EQ Edit).brstm"
+    type: betting
+  - id: king_conga_kappa
+    title: "King Conga Kappa"
+    path: "King Conga Kappa.brstm"
     type: betting
 ...

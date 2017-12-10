@@ -1,0 +1,11 @@
+---
+id: star_wars_nes
+title: "Star Wars [NES]"
+platform: "Various"
+year: 1991
+songs: 
+  - id: title_screen_star_wars_nes
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+...

@@ -13,4 +13,124 @@ songs:
     title: "Inferno!"
     path: "MP7_Str_00017.pdt"
     type: warning
+  - id: bowsers_revenge
+    title: "Bowser’s Revenge"
+    path: "MP7_Str_00068.pdt"
+    type: warning
+  - id: climb_the_peak
+    title: "Climb the Peak"
+    path: "MP7_Str_00013.pdt"
+    type: betting
+  - id: closing_in
+    title: "Closing In"
+    path: "MP7_Str_00027.pdt"
+    type: warning
+  - id: cool_as_a_cucumber
+    title: "Cool as a Cucumber"
+    path: "MP7_Str_00061.pdt"
+    type: result
+  - id: cruise_choices
+    title: "Cruise Choices"
+    path: "MP7_Str_00005.pdt"
+    type: result
+  - id: decathlon_castle
+    title: "Decathlon Castle"
+    path: "MP7_Str_00042.pdt"
+    type: result
+  - id: dont_look_down
+    title: "Don't Look Down"
+    path: "MP7_Str_00056.pdt"
+    type: result
+  - id: fun_in_the_sun_mp7
+    title: "Fun in the Sun"
+    path: "MP7_Str_00054.pdt"
+    type: result
+  - id: hail_to_the_king
+    title: "Hail to the King"
+    path: "MP7_Str_00031.pdt"
+    type: result
+  - id: happy_memories
+    title: "Happy Memories"
+    path: "MP7_Str_00076.pdt"
+    type: result
+  - id: its_a_duel
+    title: "It’s a Duel"
+    path: "MP7_Str_00019.pdt"
+    type: warning
+  - id: jump_mp7
+    title: "Jump!"
+    path: "MP7_Str_00066.pdt"
+    type: warning
+  - id: keep_it_up
+    title: "Keep it Up"
+    path: "MP7_Str_00053.pdt"
+    type: warning
+  - id: look_out
+    title: "Look Out!"
+    path: "MP7_Str_00060.pdt"
+    type: warning
+  - id: minigame_madness
+    title: "Minigame Madness"
+    path: "MP7_Str_00018.pdt"
+    type: warning
+  - id: neon_nation
+    title: "Neon Nation"
+    path: "MP7_Str_00015.pdt"
+    type: betting
+  - id: park_it
+    title: "Park It"
+    path: "MP7_Str_00014.pdt"
+    type: betting
+  - id: ready_set_fun
+    title: "Ready, Set, Fun"
+    path: "MP7_Str_00051.pdt"
+    type: result
+  - id: sail_the_canals
+    title: "Sail the Canals"
+    path: "MP7_Str_00012.pdt"
+    type: betting
+  - id: skyward_bound
+    title: "Skyward Bound"
+    path: "MP7_Str_00055.pdt"
+    type: result
+  - id: slow_and_steady
+    title: "Slow and Steady"
+    path: "MP7_Str_00057.pdt"
+    type: warning
+  - id: solo_dk
+    title: "Solo DK"
+    path: "MP7_Str_00069.pdt"
+    type: result
+  - id: stop_bowser_time
+    title: "Stop! Bowser Time!"
+    path: "MP7_Str_00023.pdt"
+    type: warning
+  - id: the_bowser_boogie
+    title: "The Bowser Boogie"
+    path: "MP7_Str_00022.pdt"
+    type: warning
+  - id: the_free_play_sub
+    title: "The Free Play Sub"
+    path: "MP7_Str_00038.pdt"
+    type: result
+  - id: the_mic_shuffle
+    title: "The Mic Shuffle"
+    path: "MP7_Str_00020.pdt"
+    type: result
+  - id: tough_luck
+    title: "Tough Luck"
+    path: "MP7_Str_00045.pdt"
+    type: warning
+  - id: watch_yourself
+    title: "Watch Yourself"
+    path: "MP7_Str_00062.pdt"
+    type: warning
+  - id: what_a_mess
+    title: "What a Mess!"
+    path: "MP7_Str_00059.pdt"
+    type: warning
+  - id: whats_the_score
+    title: "What’s The Score?"
+    path: "MP7_Str_00025.pdt"
+    type: result
 ...

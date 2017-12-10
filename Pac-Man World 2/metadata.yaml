@@ -1,7 +1,9 @@
+---
 id: pac_man_world_2
 title: "Pac-Man World 2"
-year: 2002
+series: pacman
 platform: ["GC", "Xbox", "PS2"]
+year: 2002
 songs:
   - id: spooky_finish_him
     title: "Spooky (Finish Him!)"
@@ -15,3 +17,8 @@ songs:
     title: "Ghost Bayou"
     path: "Ghost Bayou.brstm"
     type: betting
+  - id: magma_opus
+    title: "Magma Opus"
+    path: "Lava3_L.dsp"
+    type: warning
+...

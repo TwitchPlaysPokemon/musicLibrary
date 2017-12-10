@@ -1,31 +1,48 @@
 ---
 id: chibi-robo
-title: "Chibi-Robo"
+title: "Chibi-Robo!"
+series: chibirobo
+platform: "GCN"
 year: 2005
-platform: "GC"
 songs:
-  - id: reunion_giga-robo_&_aliens'_theme
-    title: "Reunion / Giga-Robo & Aliens' Theme"
-    path: "Reunion  Giga-Robo & Aliens' Theme.brstm"
-    type: warning
-  - id: final_boss
-    title: "Final Boss"
-    path: "Final Boss.brstm"
-    type: warning
-  - id: dinah's_theme
-    title: "Dinah's Theme"
-    path: "Dinah's Theme.brstm"
-    type: warning
-  - id: main_theme_chibirobo
-    title: "Main Theme"
-    path: "Main Theme.brstm"
-    type: result
   - id: bgm_day
     title: "BGM (Day)"
-    path: "BGM (Day).brstm"
+    path: "bgm.hps"
+    type: betting
+  - id: bgm_night
+    title: "BGM (Night)"
+    path: "bgm_night.hps"
+    type: betting
+  - id: drake_redcrests_theme_instrumental
+    title: "Drake Redcrest's Theme (Instrumental)"
+    path: "k_sabi.hps"
     type: betting
   - id: the_drain_chibirobo
     title: "The Drain"
-    path: "The Drain.brstm"
+    path: "pipe.hps"
     type: betting
+  - id: dinah's_theme
+    title: "Dinah's Theme"
+    path: "toyrex.hps"
+    type: warning
+  - id: final_boss
+    title: "Final Boss"
+    path: "battle2.hps"
+    type: warning
+  - id: reunion_giga_robo_and_aliens_theme
+    title: "Reunion / Giga-Robo & Aliens' Theme"
+    path: "reunion.hps"
+    type: warning
+  - id: funky_phils_theme
+    title: "Funky Phil's Theme"
+    path: "ff.hps"
+    type: result
+  - id: main_theme_chibirobo
+    title: "Main Theme"
+    path: "theme.hps"
+    type: result
+  - id: party_chibirobo
+    title: "Party"
+    path: "party.hps"
+    type: result
 ...

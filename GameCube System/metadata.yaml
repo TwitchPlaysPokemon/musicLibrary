@@ -1,0 +1,11 @@
+---
+id: gamecube_system
+title: "GameCube System"
+platform: "GCN"
+year: 2001
+songs: 
+  - id: menu_gamecube_system
+    title: "Menu"
+    path: "Menu.brstm"
+    type: break
+...

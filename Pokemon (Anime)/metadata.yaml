@@ -5,6 +5,10 @@ series: pokemon
 platform: "TV"
 year: 1997
 songs: 
+  - id: abandoned_ship_anime
+    title: "Abandoned Ship"
+    path: "Abandoned Ship.brstm"
+    type: betting
   - id: aqua_magma_hideout_anime
     title: "Aqua/Magma Hideout"
     path: "Aqua_Magma Hideout.brstm"
@@ -25,6 +29,10 @@ songs:
     title: "Pokémon, I Choose You!"
     path: "Pokemon, I Choose You!.brstm"
     type: betting
+  - id: route_1_anime
+    title: "Route 1"
+    path: "Route 1.brstm"
+    type: betting
   - id: route_206_day_anime
     title: "Route 206 (Day)"
     path: "Route 206 (Day).brstm"
@@ -41,6 +49,10 @@ songs:
     title: "Route 38"
     path: "Route 38.brstm"
     type: betting
+  - id: sealed_chamber_anime
+    title: "Sealed Chamber"
+    path: "Sealed Chamber.brstm"
+    type: betting
   - id: title_r_s_e_anime
     title: "Title (R/S/E)"
     path: "Title (R_S_E).brstm"
@@ -49,6 +61,22 @@ songs:
     title: "Victory Road (Hoenn)"
     path: "Victory Road (Hoenn).brstm"
     type: betting
+  - id: a_trainer_appears_kanto_boy_version_anime
+    title: "A Trainer Appears! (Kanto Boy Version)"
+    path: "A Trainer Appears! (Kanto Boy Version).brstm"
+    type: warning
+  - id: eye_contact_rocket_gang_anime
+    title: "Eye Contact! Rocket Gang"
+    path: "Eye Contact! Rocket Gang.brstm"
+    type: warning
+  - id: team_aqua_appears_anime
+    title: "Team Aqua Appears!"
+    path: "Team Aqua Appears!.brstm"
+    type: warning
+  - id: team_magma_appears_anime
+    title: "Team Magma Appears!"
+    path: "Team Magma Appears!.brstm"
+    type: warning
   - id: battle_johto_rival_anime
     title: "Battle! Johto Rival"
     path: "Battle! Johto Rival.brstm"
@@ -73,6 +101,10 @@ songs:
     title: "Fight! (Hoenn) Elite Four"
     path: "Fight! (Hoenn) Elite Four.brstm"
     type: battle
+  - id: fight_ancient_pokemon_anime
+    title: "Fight! Ancient Pokémon"
+    path: "Fight! Ancient Pokémon.brstm"
+    type: battle
   - id: fight_team_aqua_magma_anime
     title: "Fight! Team Aqua/Magma"
     path: "Fight! Team Aqua_Magma.brstm"
@@ -80,6 +112,10 @@ songs:
   - id: kanto_trainer_battle_burning_battlefield_anime
     title: "Kanto Trainer Battle (Burning Battlefield)"
     path: "Kanto Trainer Battle (Burning Battlefield).brstm"
+    type: battle
+  - id: kanto_trainer_battle_ii
+    title: "Kanto Trainer Battle II"
+    path: "Kanto Trainer Battle II.brstm"
     type: battle
   - id: regi_battle_anime
     title: "Regi Battle"
@@ -133,22 +169,6 @@ songs:
     title: "S.S. Aqua"
     path: "SS Aqua.brstm"
     type: result
-  - id: a_trainer_appears_kanto_boy_version_anime
-    title: "A Trainer Appears! (Kanto Boy Version)"
-    path: "A Trainer Appears! (Kanto Boy Version).brstm"
-    type: warning
-  - id: eye_contact_rocket_gang_anime
-    title: "Eye Contact! Rocket Gang"
-    path: "Eye Contact! Rocket Gang.brstm"
-    type: warning
-  - id: team_aqua_appears_anime
-    title: "Team Aqua Appears!"
-    path: "Team Aqua Appears!.brstm"
-    type: warning
-  - id: team_magma_appears_anime
-    title: "Team Magma Appears!"
-    path: "Team Magma Appears!.brstm"
-    type: warning
   - id: eterna_forest_anime
     title: "Eterna Forest"
     path: "Eterna Forest.brstm"
@@ -165,20 +185,24 @@ songs:
     title: "Oldale Town"
     path: "Oldale Town.brstm"
     type: break
-  - id: route_1_anime
-    title: "Route 1"
-    path: "Route 1.brstm"
-    type: betting
   - id: route_201_day_anime
     title: "Route 201 (Day)"
     path: "Route 201 (Day).brstm"
+    type: break
+  - id: route_29_anime
+    title: "Route 29"
+    path: "Route 29.brstm"
     type: break
   - id: viridian_city_anime
     title: "Viridian City"
     path: "Viridian City.brstm"
     type: break
-  - id: kanto_trainer_battle_ii
-    title: "Kanto Trainer Battle II"
-    path: "Kanto Trainer Battle II.brstm"
-    type: battle
+  - id: bicycle_kanto_anime
+    title: "Bicycle (Kanto)"
+    path: "Pokémon Anime BGM - Bicycle (1997_1998-M35).mp3"
+    type: result
+  - id: bicycle_johto_anime
+    title: "Bicycle (Johto)"
+    path: "Pokémon Anime BGM - Bicycle (1999_2001-M06).mp3"
+    type: result
 ...

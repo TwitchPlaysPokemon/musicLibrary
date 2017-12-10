@@ -1,0 +1,19 @@
+id: south_park_the_fractured_but_whole
+title: "South Park: The Fractured But Whole"
+series: southpark
+platform: ["PC", "PS4", "XOne"]
+year: 2017
+songs:
+  - id: the_broflovskis
+    title: "The Broflovskis"
+    path: "The Broflovskis.wav"
+    ends: 2:03
+    type: betting
+  - id: morgan_freeman
+    title: "Morgan Freeman"
+    path: "Morgan Freeman.brstm"
+    type: battle
+  - id: spontaneous_bootay
+    title: "Spontaneous Bootay"
+    path: "Spontaneous Bootay.wav"
+    type: warning

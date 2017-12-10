@@ -39,3 +39,21 @@ songs:
     title: "Incoming Blast Bots"
     path: "Incoming Blast Bots.VAG"
     type: betting
+  - id: haven_city_war
+    title: "Haven City War Theme"
+    path: "Haven City War Theme.VAG"
+    type: warning
+  - id: metal_head_city
+    title: "Metal Head City"
+    path: "Metal Head City.VAG"
+    type: betting
+  - id: monk_glider
+    title: "Monk Glider"
+    path: "Monk Glider.VAG"
+    type: betting
+    ends: 3:03
+  - id: stadium_ruins
+    title: "Stadium Ruins"
+    path: "Stadium Ruins.VAG"
+    type: betting
+    ends: 2:08

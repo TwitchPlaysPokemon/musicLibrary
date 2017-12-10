@@ -1,0 +1,29 @@
+---
+id: sonic_the_hedgehog_2_hd
+title: "Sonic the Hedgehog 2 HD"
+series: sonicthehedgehog
+platform: "PC"
+is_fanwork: true
+year: UNRELEASED
+songs: 
+  - id: aquatic_ruin_zone_alpha_ver
+    title: "Aquatic Ruin Zone (Alpha ver.)"
+    path: "Aquatic Ruin Zone (Alpha ver.).brstm"
+    type: betting
+  - id: chemical_plant_zone_alpha_ver
+    title: "Chemical Plant Zone (Alpha ver.)"
+    path: "Chemical Plant Zone (Alpha ver.).brstm"
+    type: betting
+  - id: hill_top_zone_act_1_alpha_ver
+    title: "Hill Top Zone, Act 1 (Alpha ver.)"
+    path: "Hill Top Zone, Act 1 (Alpha ver.).brstm"
+    type: betting
+  - id: mystic_cave_zone_alpha_ver
+    title: "Mystic Cave Zone (Alpha ver.)"
+    path: "Mystic Cave Zone (Alpha ver.).brstm"
+    type: betting
+  - id: boss_alpha_ver
+    title: "Boss (Alpha ver.)"
+    path: "Boss (Alpha ver.).brstm"
+    type: warning
+...

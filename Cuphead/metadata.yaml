@@ -1,10 +1,64 @@
+---
 id: cuphead
 title: "Cuphead"
 platform: ["PC", "XB1"]
 year: 2017
 songs:
+  - id: floral_fury
+    title: "Floral Fury"
+    path: "MUS_Flower.snd.fsb"
+    type: betting
+  - id: funfair_fever
+    title: "Funfair Fever"
+    path: "Funfair Fever.brstm"
+    type: betting
   - id: inkwell_isle_one
     title: "Inkwell Isle One"
     path: "InkwellIsleOne.fsb"
     ends: 3:00
     type: betting
+  - id: inkwell_isle_two
+    title: "Inkwell Isle Two"
+    path: "MUS_InkwellIsleTwo_MixA.snd.fsb"
+    type: betting
+  - id: murine_corps
+    title: "Murine Corps"
+    path: "MUS_Mouse.snd.fsb"
+    type: betting
+  - id: porkrinds_shop
+    title: "Porkrind's Shop"
+    path: "Porkrind's Shop.brstm"
+    type: betting
+  - id: hurry_up_cuphead
+    title: "Hurry Up"
+    path: "Hurry Up.brstm"
+    type: warning
+  - id: the_mausoleum
+    title: "The Mausoleum"
+    path: "MUS_Mausoleum.snd.fsb"
+    type: warning
+  - id: aviary_action
+    title: "Aviary Action"
+    path: "Aviary Action.brstm"
+    type: battle
+  - id: botanic_panic
+    title: "Botanic Panic"
+    path: "Botanic Panic.brstm"
+    type: battle
+  - id: introduction_cuphead
+    title: "Introduction"
+    path: "Introduction.brstm"
+    type: battle
+  - id: tutorial_cuphead
+    title: "Tutorial"
+    path: "MUS_Tutorial.snd.fsb"
+    type: result
+  - id: victory_tune_cuphead
+    title: "Victory Tune"
+    path: "MUS_VictoryScreen.snd.fsb"
+    type: result
+  - id: elder_kettle
+    title: "Elder Kettle"
+    path: "MUS_ElderKettle_Orch.snd.fsb"
+    type: break
+...

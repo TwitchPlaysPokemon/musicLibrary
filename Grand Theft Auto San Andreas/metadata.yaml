@@ -17,3 +17,19 @@ songs:
     path: "Odyssey.brstm"
     ends: 3:00
     type: betting
+  - id: bike_boat_results
+    title: "Bike and Boat School Level Results"
+    path: "Bike and Boat School Level Results.brstm"
+    type: result
+  - id: driving_results
+    title: "Driving School Level Results"
+    path: "Driving School Level Results.brstm"
+    type: result
+  - id: lets_get_ready_to_bumble
+    title: "Let's Get Ready to Bumble"
+    path: "Let's Get Ready to Bumble.brstm"
+    type: result
+  - id: saint_mark_bistro
+    title: "Saint Mark's Bistro"
+    path: "Saint Mark's Bistro.brstm"
+    type: break

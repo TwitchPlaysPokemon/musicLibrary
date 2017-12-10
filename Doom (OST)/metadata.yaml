@@ -1,0 +1,40 @@
+---
+id: doom_ost
+title: "DOOM (OST)"
+series: doom
+platform: "PC"
+year: 1993
+songs: 
+  - id: e1m5_suspense
+    title: "E1M5 - Suspense"
+    path: "d_e1m5.brstm"
+    type: betting
+  - id: e1m7_demons_on_the_prey
+    title: "E1M7 - Demons on the Prey"
+    path: "d_e1m7.brstm"
+    type: betting
+  - id: e1m8_sign_of_evil
+    title: "E1M8 - Sign of Evil"
+    path: "d_e1m8.brstm"
+    type: betting
+  - id: e2m1_i_sawed_the_demons
+    title: "E2M1 - I Sawed the Demons"
+    path: "d_e2m1.brstm"
+    type: battle
+  - id: e2m2_the_demons_from_adrians_pen
+    title: "E2M2 - The Demons from Adrians Pen"
+    path: "d_e2m2.brstm"
+    type: betting
+  - id: e2m6_sinister
+    title: "E2M6 - Sinister"
+    path: "d_e2m6.brstm"
+    type: betting
+  - id: e2m7_waltz_of_the_demons
+    title: "E2M7 - Waltz of the Demons"
+    path: "d_e2m7.brstm"
+    type: betting
+  - id: victory_doom_ost
+    title: "Victory"
+    path: "d_victor.brstm"
+    type: betting
+...

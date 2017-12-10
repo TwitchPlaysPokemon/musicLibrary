@@ -1,0 +1,28 @@
+---
+id: victory_road_arcade
+title: "Victory Road [Arcade]"
+series: ikariwarriors
+platform: "Various"
+year: 1986
+songs: 
+  - id: a_storm_of_cheers_area_1
+    title: "A Storm of Cheers (Area 1)"
+    path: "02 A Storm of Cheers (Area 1).vgz"
+    type: betting
+  - id: cruel_killers_area_2
+    title: "Cruel Killers (Area 2)"
+    path: "04 Cruel Killers (Area 2).vgz"
+    type: betting
+  - id: run_to_the_field_area_3
+    title: "Run to the Field (Area 3)"
+    path: "05 Run to the Field (Area 3).vgz"
+    type: battle
+  - id: invasion_gate_keeper
+    title: "Invasion (Gate Keeper)"
+    path: "06 Invasion (Gate Keeper).vgz"
+    type: warning
+  - id: countdown_area_4_and_5
+    title: "Count Down (Area 4 & 5)"
+    path: "07 Count Down (Area 4 & 5).vgz"
+    type: betting
+...

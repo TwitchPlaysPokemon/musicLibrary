@@ -1,0 +1,20 @@
+---
+id: rpg_maker_vx
+title: "RPG Maker VX"
+series: rpgmaker
+platform: "PC"
+year: 2007
+songs: 
+  - id: battle1_rpg_maker_vx
+    title: "Battle1"
+    path: "Battle1.brstm"
+    type: battle
+  - id: battle5_rpg_maker_vx
+    title: "Battle5"
+    path: "Battle5.brstm"
+    type: betting
+  - id: theme1_rpg_maker_vx
+    title: "Theme1"
+    path: "Theme1.brstm"
+    type: battle
+...

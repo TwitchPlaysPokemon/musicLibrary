@@ -5,6 +5,10 @@ series: kirby
 platform: "NES"
 year: 1993
 songs: 
+  - id: boss_kirbys_adventure
+    title: "Boss"
+    path: "07 Boss.vgz"
+    type: warning
   - id: final_boss_kirbys_adventure
     title: "Final Boss"
     path: "27 Final Boss.vgz"

@@ -1,0 +1,32 @@
+---
+id: you_dont_know_jack
+title: "You Don't Know Jack"
+series: youdontknowjack
+platform: "Various"
+year: 2011
+songs: 
+  - id: answer_bed_2
+    title: "Answer Bed 2"
+    path: "Answer Bed 2.brstm"
+    type: warning
+  - id: answer_bed_4
+    title: "Answer Bed 4"
+    path: "Answer Bed 4.brstm"
+    type: warning
+  - id: banter_5
+    title: "Banter - 5"
+    path: "Banter - 5.brstm"
+    type: result
+  - id: dod_2_explain_and_banter_loop
+    title: "DoD - 2 Explain and Banter Loop"
+    path: "DoD - 2 Explain and Banter Loop.brstm"
+    type: warning
+  - id: dod_3_play
+    title: "DoD - 3 Play"
+    path: "DoD - 3 Play (With End).brstm"
+    type: warning
+  - id: others_02_intro_loop
+    title: "Others - 02 Intro Loop"
+    path: "Others - 02 Intro Loop.brstm"
+    type: result
+...

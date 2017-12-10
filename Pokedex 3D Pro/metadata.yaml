@@ -5,12 +5,16 @@ series: pokemon
 platform: "3DS"
 year: 2012
 songs:
-  - id: pokedex
-    title: "Pokedex"
-    path: "Pokedex.brstm"
-    type: break
+  - id: pokemon_challenge_taking_a_challenge
+    title: "Pokémon Challenge - Taking a Challenge"
+    path: "Pokémon Challenge - Taking a Challenge.brstm"
+    type: betting
   - id: move_dex
     title: "Move Dex"
     path: "Move Dex.brstm"
+    type: break
+  - id: pokedex
+    title: "Pokédex"
+    path: "Pokedex.brstm"
     type: break
 ...

@@ -32,3 +32,15 @@ songs:
     title: "Tutorial"
     path: "Tutorial.vgz"
     type: warning
+  - id: victory_lufia_tlr
+    title: "Victory"
+    path: "10 Victory.vgz"
+    type: result
+  - id: lidal_continent
+    title: "Lidal Continent"
+    path: "18 Lidal Continent.vgz"
+    type: betting
+  - id: town_of_redwood
+    title: "Town of Redwood"
+    path: "35 Town of Redwood.vgz"
+    type: betting

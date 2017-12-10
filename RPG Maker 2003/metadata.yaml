@@ -1,0 +1,44 @@
+---
+id: rpg_maker_2003
+title: "RPG Maker 2003"
+series: rpgmaker
+platform: "PC"
+year: 2002
+songs: 
+  - id: ancient_castle_rpg_maker_2003
+    title: "Ancient Castle"
+    path: "Ancient Castle.brstm"
+    type: betting
+  - id: waltz_rpg_maker_2003
+    title: "Waltz"
+    path: "Waltz.brstm"
+    type: betting
+  - id: battle_1_rpg_maker_2003
+    title: "Battle 1"
+    path: "Battle 1.brstm"
+    type: warning
+  - id: battle_2_rpg_maker_2003
+    title: "Battle 2"
+    path: "Battle 2.brstm"
+    type: warning
+  - id: battle_3_rpg_maker_2003
+    title: "Battle 3"
+    path: "Battle 3.brstm"
+    type: warning
+  - id: dimension_rpg_maker_2003
+    title: "Dimension"
+    path: "Dimension.brstm"
+    type: warning
+  - id: panic_rpg_maker_2003
+    title: "Panic"
+    path: "Panic.brstm"
+    type: warning
+  - id: ending_3_rpg_maker_2003
+    title: "Ending 3"
+    path: "Ending 3.brstm"
+    type: break
+  - id: snow_town_rpg_maker_2003
+    title: "Snow Town"
+    path: "Snow Town.brstm"
+    type: break
+...

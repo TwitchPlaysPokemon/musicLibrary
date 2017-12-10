@@ -1,11 +1,21 @@
+---
 id: portal_2
 title: "Portal 2"
-platform: "PC"
+series: portal
+platform: ["PC", "360", "PS3"]
 year: 2011
 songs: 
   - id: an_accent_beyond
     title: "An Accent Beyond"
     path: "An Accent Beyond.brstm"
+    type: warning
+  - id: some_assembly_required
+    title: "Some Assembly Required"
+    path: "Some Assembly Required.brstm"
+    type: warning
+  - id: wheatley_science
+    title: "Wheatley Science"
+    path: "Wheatley Science.brstm"
     type: warning
   - id: robot_waiting_room_1
     title: "Robot Waiting Room #1"
@@ -15,7 +25,4 @@ songs:
     title: "TEST"
     path: "TEST.brstm"
     type: break
-  - id: some_assembly_required
-    title: "Some Assembly Required"
-    path: "Some Assembly Required.brstm"
-    type: warning
+...

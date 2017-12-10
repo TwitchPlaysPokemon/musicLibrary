@@ -25,4 +25,20 @@ songs:
     title: "I am Octavio"
     path: "I am Octavio (Final Boss Phase 1).brstm"
     type: battle
+  - id: tutorial_plaza
+    title: "Tutorial (Plaza)"
+    path: "Tutorial (Plaza).brstm"
+    type: result
+  - id: splattack
+    title: "Splattack!"
+    path: "Splattack! (Squid Squad).brstm"
+    type: betting
+  - id: kraken_up
+    title: "Kraken Up!"
+    path: "Kraken Up (Squid Squad).brstm"
+    type: betting
+  - id: ink_or_sink
+    title: "Ink or Sink"
+    path: "Ink or Sink (Squid Squad).brstm"
+    type: betting
 ...

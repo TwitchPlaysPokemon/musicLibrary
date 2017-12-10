@@ -2,7 +2,7 @@
 id: phoenix_wright_ace_attorney_dual_destinies
 title: "Phoenix Wright: Ace Attorney: Dual Destinies"
 series: aceattorney
-platform: "3DS"
+platform: ["3DS", "Mobile"]
 year: 2013
 songs:
   - id: bobby_fulbright_~_our_secret_word_is_justice
@@ -10,47 +10,71 @@ songs:
     path: "Bobby Fulbright ~ Our Secret Word is Justice!.brstm"
     type: betting
   - id: pursuit_demo_pv_version
-    path: "Pursuit ~ Demo PV version.brstm"
     title: "Pursuit ~ Demo PV version"
+    path: "Pursuit ~ Demo PV version.brstm"
     type: warning
   - id: apollo_justice_a_new_chapter_of_trials_2013
-    path: "Apollo Justice ~ A New Chapter of Trials 2013.brstm"
     title: "Apollo Justice ~ A New Chapter of Trials 2013"
+    path: "Apollo Justice ~ A New Chapter of Trials 2013.brstm"
     type: betting
   - id: yuri_cosmos_head_of_the_center_of_the_universe
-    path: "Yuri Cosmos ~ Head of the Center of the Universe.brstm"
     title: "Yuri Cosmos ~ Head of the Center of the Universe"
+    path: "Yuri Cosmos ~ Head of the Center of the Universe.brstm"
     type: betting
   - id: running_wild_-_mood_matrix_get_a_grip_on_yourself
-    path: "Running Wild - Mood Matrix ~ Get A Grip On Yourself.brstm"
     title: "Running Wild - Mood Matrix · Get A Grip On Yourself"
+    path: "Running Wild - Mood Matrix ~ Get A Grip On Yourself.brstm"
     type: warning
   - id: phoenix_wright_objection_2013
-    path: "Phoenix Wright ~ Objection! 2013.brstm"
     title: "Phoenix Wright ~ Objection! 2013"
+    path: "Phoenix Wright ~ Objection! 2013.brstm"
     type: result
   - id: reminiscence_wandering_heart
-    path: "Reminiscence ~ Wandering Heart.brstm"
     title: "Reminiscence ~ Wandering Heart"
+    path: "Reminiscence ~ Wandering Heart.brstm"
     type: betting
   - id: athena_cykes_courtroom_revolutionnaire
-    path: "Athena Cykes ~ Courtroom Revolutionnaire.brstm"
     title: "Athena Cykes ~ Courtroom Revolutionnaire"
+    path: "Athena Cykes ~ Courtroom Revolutionnaire.brstm"
     type: battle
   - id: athena_cykes_lets_do_this
-    path: "Athena Cykes ~ Let's Do This!.brstm"
     title: "Athena Cykes ~ Let's Do This!"
+    path: "Athena Cykes ~ Let's Do This!.brstm"
     type: betting
   - id: pursuit_keep_pressing_on_dual_destinies
-    path: "Pursuit ~ Keep Pressing On.brstm"
     title: "Pursuit ~ Keep Pressing On"
+    path: "Pursuit ~ Keep Pressing On.brstm"
     type: battle
   - id: reminiscence_tragic_memories
-    path: "Reminiscence ~ Tragic Memories.brstm"
     title: "Reminiscence ~ Tragic Memories"
+    path: "Reminiscence ~ Tragic Memories.brstm"
     type: break
   - id: simon_blackquill_twisted_samurai
-    path: "Simon Blackquill ~ Twisted Samurai.brstm"
     title: "Simon Blackquill ~ Twisted Samurai"
+    path: "Simon Blackquill ~ Twisted Samurai.brstm"
     type: betting
+  - id: apollo_justice_im_fine
+    title: "Apollo Justice ~ I’m Fine!"
+    path: "bgm22_1632b.mca"
+    type: break
+  - id: cross_examination_moderato_2013
+    title: "Cross Examination ~ Moderato 2013"
+    path: "bgm03_32.mca"
+    type: betting
+  - id: miles_edgeworth_great_awakening_2013
+    title: "Miles Edgeworth ~ Great Awakening 2013"
+    path: "bgm29_1632.mca"
+    type: result
+  - id: won_the_case_everyones_victory
+    title: "Won the Case! ~ Everyone's Victory"
+    path: "bgm12_1632b.mca"
+    type: result
+  - id: court_begins
+    title: "Court Begins"
+    path: "bgm02_32.mca"
+    type: betting
+  - id: chains_of_the_heart_psyche_lock_2013
+    title: "Chains of the Heart ~ Psyche-Lock 2013"
+    path: "bgm13_1632b.mca"
+    type: break
 ...

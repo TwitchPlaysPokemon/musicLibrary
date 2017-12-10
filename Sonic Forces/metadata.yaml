@@ -1,0 +1,128 @@
+---
+id: sonic_forces
+title: "Sonic Forces"
+series: sonicthehedgehog
+platform: "Various"
+year: 2017
+songs: 
+  - id: lost_valley
+    title: "Lost Valley"
+    path: "00010_bgm_stg01_s.hca"
+    type: betting
+  - id: ghost_town
+    title: "Ghost Town"
+    path: "00039_bgm_stg03_c_spdup.hca"
+    type: betting
+  - id: cutscene_zavok_appears
+    title: "Cutscene - Zavok Appears"
+    path: "00060_bgm_stg06_s.hca"
+    type: battle
+  - id: egg_gate
+    title: "Egg Gate"
+    path: "00069_bgm_stg06_s_qte.hca"
+    type: battle
+  - id: arsenal_pyramid
+    title: "Arsenal Pyramid"
+    path: "00080_bgm_stg08_s.hca"
+    type: betting
+  - id: arsenal_pyramid_interior
+    title: "Arsenal Pyramid - Interior"
+    path: "00090_bgm_stg09_boss.hca"
+    type: betting
+  - id: luminous_forest
+    title: "Luminous Forest"
+    path: "00109_bgm_stg10_c_spdup.hca"
+    type: battle
+  - id: faded_hills_green_hill
+    title: "Faded Hills - Green Hill"
+    path: "00130_bgm_stg13_c.hca"
+    type: betting
+  - id: eggman_battle
+    title: "Eggman Battle"
+    path: "00140_bgm_stg14_b.hca"
+    type: betting
+  - id: casino_forest
+    title: "Casino Forest"
+    path: "00170_bgm_stg17_boss.hca"
+    type: betting
+  - id: sunset_heights
+    title: "Sunset Heights"
+    path: "00190_bgm_stg19_t.hca"
+    type: battle
+  - id: chemical_flow_chemical_plant
+    title: "Chemical Flow - Chemical Plant"
+    path: "00202_bgm_stg20_b_2.hca"
+    type: betting
+  - id: red_gate_bridge
+    title: "Red Gate Bridge"
+    path: "00212_bgm_stg21_s_2.hca"
+    type: betting
+  - id: guardian_rock_qte
+    title: "Guardian Rock (QTE)"
+    path: "00250_bgm_stg25_b.hca"
+    type: warning
+  - id: network_terminal
+    title: "Network Terminal"
+    path: "00260_bgm_stg26_s.hca"
+    type: battle
+  - id: network_terminal_interior
+    title: "Network Terminal - Interior"
+    path: "00280_bgm_stg28_c.hca"
+    type: betting
+  - id: death_prison_death_egg
+    title: "Death Prison - Death Egg"
+    path: "00290_bgm_stg29_t.hca"
+    type: betting
+  - id: metropolitan_highway
+    title: "Metropolitan Highway"
+    path: "00300_bgm_stg30_boss.hca"
+    type: betting
+  - id: null_space
+    title: "Null Space"
+    path: "00410_bgm_sys_worldmap.hca"
+    type: warning
+  - id: mortar_canyon
+    title: "Mortar Canyon"
+    path: "00420_bgm_sys_mybuddy.hca"
+    type: battle
+  - id: iron_fortress
+    title: "Iron Fortress"
+    path: "00450_bgm_sys_option.hca"
+    type: betting
+  - id: last_judgment
+    title: "Last Judgment"
+    path: "00490_bgm_sys_sos_fail.hca"
+    type: warning
+  - id: final_judgment_reactor
+    title: "Final Judgment - Reactor"
+    path: "00701_bgm_stg_ex01.hca"
+    type: warning
+  - id: mission_sonic_forces
+    title: "Mission"
+    path: "bgm_wars.awb.00070.hca"
+    type: warning
+  - id: fitting_room
+    title: "Fitting Room"
+    path: "bgm_wars.awb.00071.hca"
+    type: betting
+  - id: avatar_creation
+    title: "Avatar Creation"
+    path: "bgm_wars.awb.00072.hca"
+    type: betting
+  - id: theater_sonic_forces
+    title: "Theater"
+    path: "bgm_wars.awb.00073.hca"
+    type: break
+  - id: stage_clear_results
+    title: "Stage Clear (Results)"
+    path: "bgm_wars.awb.00074.hca"
+    type: result
+  - id: world_map_1_sonic_forces
+    title: "World Map 1"
+    path: "00904_bgm_stg_sp04.hca"
+    type: betting
+  - id: world_map_3_sonic_forces
+    title: "World Map 3"
+    path: "00906_bgm_stg_sp06.hca"
+    type: betting
+...

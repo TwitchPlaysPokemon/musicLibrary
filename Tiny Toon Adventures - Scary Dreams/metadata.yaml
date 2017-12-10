@@ -1,0 +1,19 @@
+---
+id: tiny_toon_adventures_scary_dreams
+title: "Tiny Toon Adventures: Scary Dreams"
+platform: "GBA"
+year: 2002
+songs: 
+  - id: stage_1_1_tiny_toon_adventures_scary_dreams
+    title: "Stage 1-1"
+    path: "Stage 1-1.minigsf"
+    type: betting
+  - id: stage_1_2_tiny_toon_adventures_scary_dreams
+    title: "Stage 1-2"
+    path: "Stage 1-2.minigsf"
+    type: warning
+  - id: stage_3_1_tiny_toon_adventures_scary_dreams
+    title: "Stage 3-1"
+    path: "Stage 3-1.minigsf"
+    type: betting
+...

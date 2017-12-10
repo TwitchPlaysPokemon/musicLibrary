@@ -1,24 +1,28 @@
 ---
 id: super_street_fighter_iv
-platform: ["Arcade", "360", "PS3", "PC"]
 title: "Super Street Fighter IV"
 series: streetfighter
+platform: "Various"
 year: 2010
 songs: 
   - id: challenge_mode
-    path: "Challenge Mode.brstm"
     title: "Challenge Mode"
+    path: "Challenge Mode.brstm"
     type: battle
   - id: crumbling_laboratory
-    path: "Crumbling Laboratory.brstm"
     title: "Crumbling Laboratory"
+    path: "Crumbling Laboratory.brstm"
     type: battle
   - id: blanka_theme_ssfiv
-    path: "Blanka's Theme.brstm"
     title: "Blanka's Theme"
+    path: "Blanka's Theme.brstm"
     type: battle
   - id: character_select_versus_mode_ssfiv
-    path: "Character Select (Versus Mode).brstm"
     title: "Character Select (Versus Mode)"
+    path: "Character Select (Versus Mode).brstm"
+    type: betting
+  - id: balrogs_theme_ssfiv
+    title: "Balrog's Theme"
+    path: "Balrog's Theme.brstm"
     type: betting
 ...

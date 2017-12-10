@@ -1,10 +1,10 @@
 ---
 id: luigis_mansion
 title: "Luigi's Mansion"
-series: mario
-platform: "GC"
+series: luigi
+platform: "GCN"
 year: 2001
-songs:
+songs: 
   - id: angry_spirits
     title: "Angry Spirits"
     path: "Angry Spirits.brstm"
@@ -22,4 +22,24 @@ songs:
     title: "Training"
     path: "Training.brstm"
     type: warning
+  - id: bogmire_battle
+    title: "Bogmire Battle"
+    path: "Bogmire Battle.brstm"
+    type: warning
+  - id: catching_boos
+    title: "Catching Boos"
+    path: "Catching Boos.brstm"
+    type: warning
+  - id: gameboy_horror
+    title: "Gameboy Horror"
+    path: "Gameboy Horror.brstm"
+    type: betting
+  - id: mansion_dark_hallways
+    title: "Mansion (Dark Hallways)"
+    path: "Mansion (Dark Hallways).brstm"
+    type: betting
+  - id: mansion_exterior
+    title: "Mansion (Exterior)"
+    path: "Mansion (Exterior).brstm"
+    type: betting
 ...

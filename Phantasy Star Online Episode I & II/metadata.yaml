@@ -2,8 +2,8 @@
 id: phantasy_star_online_episode_i_ii
 title: "Phantasy Star Online Episode I & II"
 series: phantasystar
-platform: ["GC", "Xbox"]
-year: 2002
+platform: "Various"
+year: 2000
 songs: 
   - id: crossing3084
     title: "Crossing3084"
@@ -37,4 +37,12 @@ songs:
     title: "Day Dawns"
     path: "LOBBY.adx"
     type: break
+  - id: revolution_to_the_origin_part_1
+    title: "Revolution to the Origin (Part 1)"
+    path: "SHIP_N.ADX"
+    type: break
+  - id: revolution_to_the_origin_part_2
+    title: "Revolution to the Origin (Part 2)"
+    path: "SHIP_B.ADX"
+    type: betting
 ...

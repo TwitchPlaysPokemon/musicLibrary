@@ -1,0 +1,48 @@
+---
+id: super_monkey_ball_touch_and_roll
+title: "Super Monkey Ball: Touch & Roll"
+series: supermonkeyball
+platform: "NDS"
+year: 2005
+songs: 
+  - id: junglistic_journey
+    title: "Junglistic Journey"
+    path: "03 BGM #03 [SEQ_JUNGLE].mini2sf"
+    type: betting
+  - id: blistering_sands
+    title: "Blistering Sands"
+    path: "09 BGM #09 [SEQ_DESERT].mini2sf"
+    type: betting
+  - id: wet_n_windy
+    title: "Wet 'N Windy"
+    path: "10 BGM #10 [SEQ_ALPS].mini2sf"
+    type: betting
+  - id: fantascene_falls
+    title: "Fantascene Falls"
+    path: "11 BGM #11 [SEQ_CASCADE].mini2sf"
+    type: betting
+  - id: studio_one
+    title: "Studio One"
+    path: "12 BGM #12 [SEQ_EXTRA01].mini2sf"
+    type: betting
+  - id: mesh_mosh
+    title: "Mesh Mosh"
+    path: "13 BGM #13 [SEQ_EXTRA02].mini2sf"
+    type: betting
+  - id: monkey_mini_golf
+    title: "Monkey Mini Golf"
+    path: "16 BGM #16 [SEQ_GOLF].mini2sf"
+    type: betting
+  - id: minigame_winner
+    title: "Minigame: Winner"
+    path: "18 BGM #18 [SEQ_RESULT_WIN].mini2sf"
+    type: result
+  - id: minigame_loser
+    title: "Minigame: Loser"
+    path: "19 BGM #19 [SEQ_RESULT_LOSE].mini2sf"
+    type: result
+  - id: big_bang_boom
+    title: "Big Bang Boom"
+    path: "24 BGM #24 [SEQ_WARP].mini2sf"
+    type: betting
+...

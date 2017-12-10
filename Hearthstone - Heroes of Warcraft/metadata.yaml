@@ -1,0 +1,19 @@
+id: hearthstone
+title: "Hearthstone: Heroes of Warcraft"
+platform: ["PC", "Mobile"]
+year: 2014
+songs: 
+  - id: pull_up_a_chair
+    title: "Pull up a Chair"
+    path: "Pull up a Chair.wav"
+    type: betting
+    ends: 2:05
+  - id: tricks_of_the_trade
+    title: "Tricks of the Trade"
+    path: "Tricks of the Trade.wav"
+    type: break
+  - id: two_rogues_one_mark
+    title: "Two Rogues, One Mark"
+    path: "Two Rogues, One Mark.wav"
+    type: betting
+    ends: 3:07

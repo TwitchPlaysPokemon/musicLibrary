@@ -1,0 +1,28 @@
+---
+id: ape_escape_2
+title: "Ape Escape 2"
+series: apeescape
+platform: "PS2"
+year: 2003
+songs: 
+  - id: breezy_village
+    title: "Breezy Village"
+    path: "Breezy Village.brstm"
+    type: betting
+  - id: casino_city
+    title: "Casino City"
+    path: "Casino City.brstm"
+    type: betting
+  - id: snowball_mountain
+    title: "Snowball Mountain"
+    path: "Snowball Mountain.brstm"
+    type: betting
+  - id: giant_yellow_monkey_battle
+    title: "Giant Yellow Monkey Battle!"
+    path: "Giant Yellow Monkey Battle!.brstm"
+    type: warning
+  - id: battle_with_specter
+    title: "Battle with Specter!"
+    path: "Battle with Specter!.brstm"
+    type: battle
+...

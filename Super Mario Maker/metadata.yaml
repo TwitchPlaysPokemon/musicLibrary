@@ -2,8 +2,8 @@
 id: super_mario_maker
 title: "Super Mario Maker"
 series: mario
+platform: ["Wii U", "3DS"]
 year: 2015
-platform: "Wii U"
 songs:
   - id: castle_super_mario_bros_3_edit
     title: "Castle (Super Mario Bros. 3) - Edit"
@@ -48,5 +48,9 @@ songs:
   - id: 100_mario_challenge_map_expert
     title: "100 Mario Challenge - Map (Expert)"
     path: "100 Mario Challenge - Map (Expert).brstm"
+    type: warning
+  - id: airship_super_mario_bros
+    title: "Airship (Super Mario Bros.)"
+    path: "M1_BGM_Airship_Play.bfstm"
     type: warning
 ...

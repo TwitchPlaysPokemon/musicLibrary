@@ -1,9 +1,10 @@
+---
 id: golden_axe_iii
 title: "Golden Axe III"
 series: goldenaxe
-year: 1993
 platform: "Genesis"
-songs:
+year: 1993
+songs: 
   - id: ancient_mound
     title: "Ancient Mound"
     path: "Ancient Mound (Stage 2A).vgz"
@@ -44,3 +45,8 @@ songs:
     title: "Campsite"
     path: "Campsite.vgz"
     type: result
+  - id: cursed_city_stage_6b
+    title: "Cursed City (Stage 6B)"
+    path: "Cursed City (Stage 6B).vgz"
+    type: betting
+...

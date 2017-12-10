@@ -1,0 +1,35 @@
+---
+id: game_boy_camera
+title: "Game Boy Camera"
+platform: "GB"
+year: 1998
+songs: 
+  - id: animation_game_boy_camera
+    title: "Animation"
+    path: "Animation.brstm"
+    type: betting
+  - id: animation_theme_13_symphony_no_5_in_c_minor
+    title: "Animation Theme 13 (Symphony No. 5 in C minor)"
+    path: "Animation Theme 13 (Symphony No. 5 in C minor).brstm"
+    type: warning
+  - id: ball_bgm_1_mayim_mayim
+    title: "Ball BGM 1 (Mayim Mayim)"
+    path: "Ball BGM 1 (Mayim Mayim).brstm"
+    type: warning
+  - id: credits_game_boy_camera
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+  - id: play_run_run_run_first_place_raising_the_flag
+    title: "Play - Run! Run! Run! - First Place (Raising The Flag)"
+    path: "Play - Run! Run! Run! - First Place (Raising The Flag).brstm"
+    type: result
+  - id: play_run_run_run_results
+    title: "Play - Run! Run! Run! - Results"
+    path: "Play - Run! Run! Run! - Results.brstm"
+    type: result
+  - id: user_name
+    title: "User Name"
+    path: "User Name.brstm"
+    type: result
+...

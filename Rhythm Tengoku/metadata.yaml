@@ -1,8 +1,8 @@
 ---
 id: rhythm_tengoku
 title: "Rhythm Tengoku"
-year: 2006
 platform: ["GBA", "Arcade"]
+year: 2006
 songs:
   - id: space_dance_rhythm_tengoku
     title: "Space Dance"
@@ -35,5 +35,14 @@ songs:
   - id: title_rhythm_tengoku
     title: "Title"
     path: "Title.brstm"
+    type: betting
+  - id: remix_7_rhythm_tengoku
+    title: "Remix 7"
+    path: "Remix 7.brstm"
+    type: betting
+  - id: remix_8_rhythm_tengoku
+    title: "Remix 8"
+    path: "Remix 8.brstm"
+    ends: 2:42
     type: betting
 ...

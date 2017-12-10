@@ -2,15 +2,59 @@
 id: sonic_riders
 title: "Sonic Riders"
 series: sonic
-year: 2006
 platform: "Various"
+year: 2006
 songs:
+  - id: babylon_garden
+    title: "Babylon Garden"
+    path: "S6.ADX"
+    type: betting
+  - id: digital_dimension
+    title: "Digital Dimension"
+    path: "S7.ADX"
+    type: battle
+  - id: egg_factory
+    title: "Egg Factory"
+    path: "S3.ADX"
+    type: betting
+  - id: green_cave
+    title: "Green Cave"
+    path: "S4.ADX"
+    type: betting
   - id: high_flying_groove
     title: "High Flying Groove"
-    path: "High Flying Groove.brstm"
+    path: "S25.ADX"
+    type: betting
+  - id: options_sonic_riders
+    title: "Options"
+    path: "S21.ADX"
+    type: betting
+  - id: sega_carnival
+    title: "Sega Carnival"
+    path: "S8.ADX"
+    type: betting
+  - id: splash_canyon
+    title: "Splash Canyon"
+    path: "S2.ADX"
+    type: betting
+  - id: start_up_your_ex_gear
+    title: "Start-Up Your EX Gear!"
+    path: "S20.ADX"
     type: betting
   - id: metal_city
     title: "Metal City"
-    path: "Metal City.brstm"
-    type: battle # This isn't metal, it's techno DansGame
+    path: "S1.ADX"
+    type: battle
+  - id: sand_ruins
+    title: "Sand Ruins"
+    path: "S5.ADX"
+    type: battle
+  - id: survival_step
+    title: "Survival Step"
+    path: "SV1.ADX"
+    type: battle
+  - id: race_finished
+    title: "Race Finished"
+    path: "S30.ADX"
+    type: result
 ...

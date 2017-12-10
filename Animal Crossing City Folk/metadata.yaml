@@ -1,64 +1,72 @@
 ---
 id: animal_crossing_city_folk
-platform: "Wii"
 title: "Animal Crossing: City Folk"
 series: animalcrossing
+platform: "Wii"
 year: 2008
 songs: 
-  - id: 8_am
+  - id: 8_am_city_folk
     title: "8 AM"
     path: "8 AM.brstm"
     type: break
-  - id: 2_am
+  - id: 2_am_city_folk
     title: "2 AM"
     path: "2 AM.brstm"
     type: break
-  - id: 1am
-    path: "1 AM.brstm"
+  - id: 1am_city_folk
     title: "1 AM"
+    path: "1 AM.brstm"
     type: break
   - id: 1pm_acrosscity
-    path: "1 PM.brstm"
     title: "1 PM"
+    path: "1 PM.brstm"
     type: break
-  - id: 2pm
-    path: "2 PM.brstm"
+  - id: 2pm_city_folk
     title: "2 PM"
+    path: "2 PM.brstm"
     type: break
-  - id: 3pm
-    path: "3 PM.brstm"
+  - id: 3pm_city_folk
     title: "3 PM"
+    path: "3 PM.brstm"
     type: break
-  - id: 12pm
-    path: "12 PM.brstm"
+  - id: 12pm_city_folk
     title: "12 PM"
+    path: "12 PM.brstm"
     type: break
-  - id: 10pm
-    path: "10 PM (Normal).brstm"
+  - id: 10pm_city_folk
     title: "10 PM"
+    path: "10 PM (Normal).brstm"
     type: break
-  - id: 11am
-    path: "11 AM.brstm"
+  - id: 11am_city_folk
     title: "11 AM"
+    path: "11 AM.brstm"
     type: break
-  - id: 11pm
-    path: "11 PM.brstm"
+  - id: 11pm_city_folk
     title: "11 PM"
+    path: "11 PM.brstm"
     type: break
-  - id: 12am
-    path: "12 AM.brstm"
+  - id: 12am_city_folk
     title: "12 AM"
+    path: "12 AM.brstm"
     type: break
   - id: the_city_day_ac
-    path: "The City (Day).brstm"
     title: "The City (Day)"
+    path: "The City (Day).brstm"
     type: break
   - id: christmas_eve_ac
-    path: "Christmas Eve.brstm"
     title: "Christmas Eve"
+    path: "Christmas Eve.brstm"
     type: betting
   - id: k_k_house_ost_remix
-    path: "K.K. House (OST Remix).brstm"
     title: "K.K. House (OST Remix)"
+    path: "K.K. House (OST Remix).brstm"
     type: betting
+  - id: 10_pm_snow
+    title: "10 PM (Snow)"
+    path: "10 PM (Snow).brstm"
+    type: break
+  - id: mr_resetti
+    title: "Mr. Resetti"
+    path: "Mr. Resetti.brstm"
+    type: warning
 ...

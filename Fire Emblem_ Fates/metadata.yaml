@@ -1,10 +1,10 @@
 ---
-id: fire_emblem_fates
+id: fire Emblem Fates
 title: "Fire Emblem Fates"
 series: fireemblem
 platform: "3DS"
 year: 2015
-songs:
+songs: 
   - id: resolve_light
     title: "Resolve (Light)"
     path: "sys_base_A1.dspadpcm.bcstm"
@@ -44,5 +44,45 @@ songs:
   - id: past_below
     title: "Past Below"
     path: "Past Below.brstm"
+    type: break
+  - id: dark_wastes
+    title: "Dark Wastes"
+    path: "Dark Wastes.brstm"
+    type: battle
+  - id: spreading_shadow
+    title: "Spreading Shadow"
+    path: "evt_enemy_E1.dspadpcm.bcstm"
+    type: warning
+  - id: coming_demise
+    title: "Coming Demise"
+    path: "evt_evil_C1.dspadpcm.bcstm"
+    type: warning
+  - id: prelude_to_disaster
+    title: "Prelude to Disaster"
+    path: "evt_strain_E2.dspadpcm.bcstm"
+    type: warning
+  - id: the_dim_abyss
+    title: "The Dim Abyss"
+    path: "evt_uncanny_E1.dspadpcm.bcstm"
+    type: betting
+  - id: puppets_feast
+    title: "Puppet's Feast"
+    path: "Puppet's Feast.brstm"
+    type: betting
+  - id: thorn_in_you
+    title: "Thorn in You"
+    path: "Thorn in You.brstm"
+    type: break
+  - id: you_of_the_dark
+    title: "You of the Dark"
+    path: "You of the Dark.brstm"
+    type: battle
+  - id: alight_storm
+    title: "Alight (Storm)"
+    path: "Alight (Storm).brstm"
+    type: battle
+  - id: road_taken
+    title: "Road Taken"
+    path: "Road Taken.brstm"
     type: break
 ...

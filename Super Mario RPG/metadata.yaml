@@ -1,10 +1,10 @@
 ---
-id: super_mario_rpg
+id: super_mario_rpg_legend_of_the_seven_stars
 title: "Super Mario RPG: Legend of the Seven Stars"
 series: mario
 platform: "SNES"
 year: 1996
-songs:
+songs: 
   - id: my_names_booster
     title: "And My Name's Booster"
     path: "And My Name's Booster.spc"
@@ -137,5 +137,9 @@ songs:
   - id: the_merry_marry_bell_rings
     title: "The Merry Marry Bell Rings"
     path: "The Merry Marry Bell Rings.spc"
+    type: betting
+  - id: sunken_ship_super_mario_rpg
+    title: "Sunken Ship"
+    path: "204 Sunken Ship.spc"
     type: betting
 ...

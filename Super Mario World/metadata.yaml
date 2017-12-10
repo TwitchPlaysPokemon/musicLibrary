@@ -2,31 +2,63 @@
 id: super_mario_world
 title: "Super Mario World"
 series: mario
-year: 1990
 platform: "SNES"
-songs:
-  - id: valley_of_bowser
-    path: "Valley of Bowser.brstm"
-    title: "Valley of Bowser"
+year: 1990
+songs: 
+  - id: athletic_bgm_smw
+    title: "Athletic BGM"
+    path: "12a Athletic.spc"
+    type: betting
+  - id: haunted_house_bgm_smw
+    title: "Haunted House BGM"
+    path: "15a Haunted House.spc"
+    type: betting
+  - id: overworld_bgm_smw
+    title: "Overworld BGM"
+    path: "11a Overworld.spc"
+    type: betting
+  - id: sub_castle_bgm_smw
+    title: "Sub Castle BGM"
+    path: "16a Fortress.spc"
+    type: betting
+  - id: swimming_bgm_smw
+    title: "Swimming BGM"
+    path: "14a Swimming.spc"
+    type: betting
+  - id: haunted_house_bgm_hurry_smw
+    title: "Haunted House BGM (Hurry)"
+    path: "15b Haunted House (Hurry).spc"
     type: warning
-  - id: vanilla_dome
-    path: "Vanilla Dome.brstm"
-    title: "Vanilla Dome"
+  - id: koopaling_bgm_smw
+    title: "Koopaling BGM"
+    path: "21a Boss Battle.spc"
     type: warning
-  - id: bowser_jr 
-    title: "Boss"
-    path: "Bowser Junior.brstm"
+  - id: map_3_vanilla_dome_smw
+    title: "MAP 3 (Vanilla Dome)"
+    path: "05 Vanilla Dome.spc"
+    type: warning
+  - id: map_5_forest_of_illusion_smw
+    title: "MAP 5 (Forest Of Illusion)"
+    path: "06 Forest of Illusion.spc"
+    type: warning
+  - id: map_6_bowser_castle_smw
+    title: "MAP 6 (Bowser Castle)"
+    path: "08 Valley of Bowser.spc"
+    type: warning
+  - id: sub_castle_bgm_hurry_smw
+    title: "Sub Castle BGM (Hurry)"
+    path: "16b Fortress (Hurry).spc"
+    type: warning
+  - id: underground_bgm_smw
+    title: "Underground BGM"
+    path: "13a Underground.spc"
     type: warning
   - id: ending_smw
     title: "Ending"
-    path: "Ending.brstm"
+    path: "35 Staff Roll.spc"
     type: result
-  - id: overworld
-    title: "Overworld"
-    path: "Overworld.brstm"
-    type: betting
-  - id: underwater
-    title: "Underwater"
-    path: "Underwater.brstm"
-    type: betting
+  - id: title_bgm_smw
+    title: "Title BGM"
+    path: "02 Title.spc"
+    type: result
 ...

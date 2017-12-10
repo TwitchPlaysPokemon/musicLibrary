@@ -1,0 +1,32 @@
+---
+id: sonic_free_riders
+title: "Sonic Free Riders"
+series: sonic
+platform: "360"
+year: 2010
+songs: 
+  - id: dolphin_resort
+    title: "Dolphin Resort"
+    path: "BGM_01_Dubai_wav.aax"
+    type: betting
+  - id: forgotten_tomb
+    title: "Forgotten Tomb"
+    path: "BGM_06_wav.aax"
+    type: betting
+  - id: frozen_forest
+    title: "Frozen Forest"
+    path: "BGM_03_wav.aax"
+    type: betting
+  - id: get_ready_for_the_big_event
+    title: "Get Ready for the Big Event"
+    path: "event_wav.aax"
+    type: betting
+  - id: magma_rift
+    title: "Magma Rift"
+    path: "BGM_05_wav.aax"
+    type: betting
+  - id: final_factory
+    title: "Final Factory"
+    path: "BGM_07_wav.aax"
+    type: battle
+...
