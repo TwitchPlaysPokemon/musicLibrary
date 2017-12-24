@@ -7,6 +7,7 @@ songs:
   - id: dancing_christmas_in_the_13th_month
     title: "Dancing Christmas in the 13th Month"
     path: "Dancing Christmas in the 13th Month.brstm"
+    tags: [xmas]
     type: battle
   - id: hamatan
     title: "Hamatan"
@@ -15,6 +16,7 @@ songs:
   - id: jingle_bell_on_ragnarok
     title: "Jingle Bell on Ragnarok"
     path: "Jingle Bell on Ragnarok.brstm"
+    tags: [xmas]
     type: betting
   - id: nano_east
     title: "Nano East"
@@ -35,17 +37,21 @@ songs:
   - id: come_on_my_deer
     title: "Come on my deer!!"
     path: "Come on my deer!!.brstm"
+    tags: [xmas]
     type: betting
   - id: dont_cry_baby
     title: "Don't cry, baby"
     path: "Don't cry, baby.brstm"
+    tags: [xmas]
     type: betting
   - id: theme_of_lutie_snow_in_my_heart
     title: "Theme of Lutie - Snow In My Heart"
     path: "Theme of Lutie - Snow In My He.brstm"
+    tags: [xmas]
     type: break
   - id: welcome_my_lord
     title: "Welcome, my lord"
     path: "Welcome, my lord.brstm"
+    tags: [xmas]
     type: betting
 ...

@@ -21,6 +21,11 @@ songs:
     title: "Vs. Dark Rust (Final Battle)"
     path: "Final Battle - Dark Rust - Pokémon Rumble Blast.brstm"
     type: battle
+  - id: ice_battle
+    title: "Ice Battle"
+    path: "Ice Battle.brstm"
+    tags: [xmas]
+    type: battle
   - id: mewtwo_battle_rumble
     title: "Mewtwo Battle"
     path: "Mewtwo Battle.brstm"

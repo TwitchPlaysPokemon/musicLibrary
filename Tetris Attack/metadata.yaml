@@ -1,7 +1,8 @@
+---
 id: tetris_attack
 title: "Tetris Attack"
-year: 1995
 platform: "SNES"
+year: 1995
 songs:
   - id: lesson_from_yoshi
     title: "Lesson from Yoshi"
@@ -22,6 +23,7 @@ songs:
   - id: ice_world
     title: "Ice World"
     path: "Ice World.brstm"
+    tags: [xmas]
     type: betting
   - id: flower_world
     title: "Flower World"
@@ -48,3 +50,4 @@ songs:
     title: "Water World"
     path: "Water World.brstm"
     type: break
+...

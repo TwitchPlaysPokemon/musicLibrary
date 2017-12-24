@@ -5,112 +5,153 @@ series: smash
 platform: "GCN"
 year: 2002
 songs: 
-  - id: fire_emblem
-    title: "Fire Emblem"
-    path: "Fire Emblem.brstm"
-    type: battle
-  - id: battlefield_melee
-    title: "Battlefield"
-    path: "Battlefield.brstm"
-    type: battle
-  - id: poke_floats
-    title: "Poké Floats"
-    path: "Poke Floats.brstm"
-    type: battle
-  - id: mother_2
-    title: "Mother 2"
-    path: "Mother 2.brstm"
+  - id: brinstar_melee
+    title: "Brinstar"
+    path: "zebes.hps"
     type: betting
-  - id: mother
-    title: "Mother"
-    path: "Mother.brstm"
+  - id: dr_mario_ssbm
+    title: "Dr. Mario"
+    path: "docmari.hps"
     type: betting
-  - id: icicle_mountain
-    title: "Icicle Mountain"
-    path: "Icicle Mountain.brstm"
-    type: result
-  - id: fourside
-    title: "Fourside"
-    path: "Fourside.brstm"
+  - id: flatzone_melee
+    title: "Flatzone"
+    path: "flatzone.hps"
     type: betting
   - id: fountain_of_dreams
     title: "Fountain of Dreams"
-    path: "Fountain of Dreams.brstm"
+    path: "izumi.hps"
     type: betting
-  - id: multi_man_melee_1
-    title: "Multi-Man Melee 1"
-    path: "Multi Man Melee 1.brstm"
-    type: battle
-  - id: multi_man_melee_2
-    title: "Multi-Man Melee 2"
-    path: "Multi-Man Melee 2.brstm"
-    type: battle
-  - id: lottery_ssbm
-    title: "Lottery"
-    path: "Lottery.brstm"
-    type: break
-  - id: dr_mario_ssbm
-    title: "Dr. Mario"
-    path: "Dr. Mario.brstm"
-    type: betting
-  - id: brinstar_melee
-    title: "Brinstar"
-    path: "Brinstar.brstm"
-    type: betting
-  - id: mach_rider_melee
-    title: "Mach Rider"
-    path: "Mach Rider.brstm"
-    type: betting
-  - id: pokemon_battle_melee
-    title: "Pokémon Battle"
-    path: "Pokemon Battle.brstm"
-    type: battle
-  - id: warning_siren_melee
-    title: "Warning Siren"
-    path: "Warning Siren.brstm"
-    type: warning
-  - id: targets_melee
-    title: "Targets!"
-    path: "Targets!.brstm"
-    type: warning
-  - id: all_star_rest_area_melee
-    title: "All Star Rest Area"
-    path: "All Star Rest Area.brstm"
-    type: break
-  - id: yoshi_story_melee
-    title: "Yoshi's Story"
-    path: "Yoshi's Story.brstm"
+  - id: fourside
+    title: "Fourside"
+    path: "fourside.hps"
     type: betting
   - id: great_bay_melee
     title: "Great Bay"
-    path: "Great Bay.brstm"
+    path: "greatbay.hps"
+    type: betting
+  - id: green_greens_melee
+    title: "Green Greens"
+    path: "greens.hps"
+    type: betting
+  - id: icicle_mountain
+    title: "Icicle Mountain"
+    path: "icemt.hps"
+    tags: [xmas]
+    type: betting
+  - id: jungle_japes_melee
+    title: "Jungle Japes"
+    path: "kongo.hps"
+    type: betting
+  - id: mach_rider_melee
+    title: "Mach Rider"
+    path: "mrider.hps"
+    type: betting
+  - id: menu_1_melee
+    title: "Menu 1"
+    path: "menu01.hps"
+    type: betting
+  - id: mother
+    title: "Mother"
+    path: "onetto.hps"
+    type: betting
+  - id: mother_2
+    title: "Mother 2"
+    path: "onetto2.hps"
+    type: betting
+  - id: peachs_castle_melee
+    title: "Peach's Castle"
+    path: "castle.hps"
+    type: betting
+  - id: pokemon_stadium_melee
+    title: "Pokémon Stadium"
+    path: "pstadium.hps"
+    type: betting
+  - id: rainbow_cruise_melee
+    title: "Rainbow Cruise"
+    path: "rcruise.hps"
+    type: betting
+  - id: sarias_song_melee
+    title: "Saria's Song"
+    path: "saria.hps"
+    type: betting
+  - id: super_mario_bros_3_melee
+    title: "Super Mario Bros. 3"
+    path: "smari3.hps"
+    type: betting
+  - id: targets_melee
+    title: "Targets!"
+    path: "target.hps"
     type: betting
   - id: temple_melee
     title: "Temple"
-    path: "Temple.brstm"
-    type: betting
-  - id: corneria_melee
-    title: "Corneria"
-    path: "Corneria.brstm"
-    type: battle
-  - id: giga_bowser_melee
-    title: "Giga Bowser"
-    path: "Giga Bowser.brstm"
-    type: battle
-  - id: metal_battle_melee
-    title: "Metal Battle"
-    path: "Metal Battle.brstm"
-    type: battle
-  - id: rainbow_cruise_melee
-    title: "Rainbow Cruise"
-    path: "Rainbow Cruise.brstm"
+    path: "shrine.hps"
     type: betting
   - id: venom_melee
     title: "Venom"
-    path: "Venom.brstm"
+    path: "venom.hps"
+    type: betting
+  - id: yoshi_story_melee
+    title: "Yoshi's Story"
+    path: "ystory.hps"
     type: betting
   - id: yoshis_island_melee
     title: "Yoshi's Island"
-    path: "Yoshi's Island.brstm"
+    path: "yorster.hps"
     type: betting
+  - id: warning_siren_melee
+    title: "Warning Siren"
+    path: "siren.hps"
+    type: warning
+  - id: tournament_mode_1_melee 
+    title: "Tournament Mode 1"
+    path: "vs_hyou1.hps"
+    type: warning
+  - id: battlefield_melee
+    title: "Battlefield"
+    path: "sp_zako.hps"
+    type: battle
+  - id: corneria_melee
+    title: "Corneria"
+    path: "corneria.hps"
+    type: battle
+  - id: fire_emblem
+    title: "Fire Emblem"
+    path: "akaneia.hps"
+    type: battle
+  - id: giga_bowser_melee
+    title: "Giga Bowser"
+    path: "sp_giga.hps"
+    type: battle
+  - id: metal_battle_melee
+    title: "Metal Battle"
+    path: "sp_metal.hps"
+    type: battle
+  - id: multi_man_melee_1
+    title: "Multi-Man Melee 1"
+    path: "hyaku.hps"
+    type: battle
+  - id: multi_man_melee_2
+    title: "Multi-Man Melee 2"
+    path: "hyaku2.hps"
+    type: battle
+  - id: mute_city_melee
+    title: "Mute City"
+    path: "mutecity.hps"
+    type: battle
+  - id: poke_floats
+    title: "Poké Floats"
+    path: "pura.hps"
+    type: battle
+  - id: pokemon_battle_melee
+    title: "Pokémon Battle"
+    path: "pokesta.hps"
+    type: battle
+  - id: all_star_rest_area_melee
+    title: "All Star Rest Area"
+    path: "1p_qk.hps"
+    type: break
+  - id: lottery_ssbm
+    title: "Lottery"
+    path: "menu02.hps"
+    type: break
 ...

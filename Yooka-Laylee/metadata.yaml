@@ -36,4 +36,14 @@ songs:
     title: "Moodymaze Marsh"
     path: "Moodymaze Marsh.brstm"
     type: betting
+  - id: frosty_fray_glitterglaze_glacier_boss
+    title: "Frosty Fray [Glitterglaze Glacier Boss]"
+    path: "Frosty Fray [Glitterglaze Glacier Boss].brstm"
+    tags: [xmas]
+    type: battle
+  - id: glitterglaze_glacier
+    title: "Glitterglaze Glacier"
+    path: "Glitterglaze Glacier.brstm"
+    tags: [xmas]
+    type: betting
 ...

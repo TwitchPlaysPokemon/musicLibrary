@@ -25,4 +25,9 @@ songs:
     title: "Metroid Xenoresearch at SkyTown"
     path: "Metroid Xenoresearch at SkyTown.brstm"
     type: warning
+  - id: bryyo_ice
+    title: "Bryyo Ice"
+    path: "Bryyo Ice.brstm"
+    tags: [xmas]
+    type: break
 ...

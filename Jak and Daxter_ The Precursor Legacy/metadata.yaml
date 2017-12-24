@@ -1,3 +1,4 @@
+---
 id: jak_and_daxter_the_precursor_legacy
 title: "Jak & Daxter: The Precursor Legacy"
 series: jakanddaxter
@@ -16,3 +17,9 @@ songs:
     title: "Mountain Pass"
     path: "Mountain Pass.brstm"
     type: betting
+  - id: snowy_mountain
+    title: "Snowy Mountain"
+    path: "snowy mountain.brstm"
+    tags: [xmas]
+    type: betting
+...

@@ -1,52 +1,57 @@
 ---
 id: chrono_cross
-platform: "PS1"
 title: "Chrono Cross"
 series: chrono
+platform: "PS1"
 year: 1999
 songs: 
-  - id: the_brink_of_death
+  - id: chrono_cross_scars_of_time
+    title: "Chrono Cross ~ Scars of Time ~"
+    path: "101 Chrono Cross ~ Time's Scar.mp3"
+    ends: 2:22
+    type: betting
+  - id: between_life_and_death
+    title: "Between Life and Death"
     path: "102 The Brink of Death.psf"
-    title: "The Brink of Death"
     type: battle
-  - id: victory_springs_gift
+  - id: fields_of_time_home_world
+    title: "Fields of Time - Home World"
+    path: "104 Time's Grasslands - Home World.psf"
+    type: break
+  - id: victory_a_gift_of_springs
+    title: "Victory ~ A Gift of Spring ~"
     path: "116 Victory - Spring's Gift.psf"
-    title: "Victory - Spring's Gift"
     type: result
-  - id: dragonrider
+  - id: fortress_of_ancient_dragons
+    title: "Fortress of Ancient Dragons"
+    path: "124 Ancient Dragon's Fort.psf"
+    type: betting
+  - id: dragon_knight
+    title: "Dragon Knight"
     path: "204 Dragonrider.psf"
-    title: "Dragonrider"
     type: betting
   - id: zelbess
-    path: "208 Zelbess.psf"
     title: "Zelbess"
+    path: "208 Zelbess.psf"
     type: betting
   - id: optimism
-    path: "213 Optimism.psf"
     title: "Optimism"
+    path: "213 Optimism.psf"
     type: result
   - id: gale
-    path: "220 Gale.psf"
     title: "Gale"
+    path: "220 Gale.psf"
     type: battle
-  - id: victory_summers_cry
+  - id: victory_a_cry_in_summer
+    title: "Victory ~ A Cry in Summer ~"
     path: "221 Victory - Summer's Cry.psf"
-    title: "Victory - Summer's Cry"
     type: result
-  - id: fates_gods_of_destiny
+  - id: fate_the_god_of_destiny
+    title: "Fate ~ The God of Destiny ~"
     path: "303 Fates - Gods of Destiny.psf"
-    title: "Fates - Gods of Destiny"
     type: battle
-  - id: scars_of_time
-    title: "Scars of Time"
-    path: "Scars of Time.brstm"
-    type: betting
-  - id: fields_of_time
-    title: "Fields of Time"
-    path: "Fields of Time.brstm"
-    type: break
-  - id: time_of_the_dreamwatch
-    title: "Time of the Dreamwatch"
-    path: "Time of the Dreamwatch.brstm"
+  - id: the_dream_that_time_dreams
+    title: "The Dream that Time Dreams"
+    path: "307 Time of the Dreamwatch.psf"
     type: betting
 ...

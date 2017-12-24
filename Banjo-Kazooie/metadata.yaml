@@ -77,4 +77,49 @@ songs:
     title: "Tubular's Oujia"
     path: "050 Tubular's Oujia.miniusf"
     type: break
+  - id: gruntilda_s_lair_freezeezy_peak
+    title: "Gruntilda's Lair (Freezeezy Peak)"
+    path: "026d Gruntilda's Lair (Freezeezy Peak).miniusf"
+    tags: [xmas]
+    type: betting
+  - id: twinklies_journey
+    title: "Twinklies' Journey"
+    path: "034 Twinklies' Journey.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: inside_the_christmas_tree
+    title: "Inside the Christmas Tree"
+    path: "035 Inside the Christmas Tree.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: boggy_s_igloo_happy
+    title: "Boggy's Igloo (Happy)"
+    path: "037 Boggy's Igloo (Happy).miniusf"
+    tags: [xmas]
+    type: result
+  - id: boggy_s_race
+    title: "Boggy's Race"
+    path: "039 Boggy's Race.miniusf"
+    tags: [xmas]
+    type: battle
+  - id: click_clock_wood_lobby_winter
+    title: "Click Clock Wood (Lobby, Winter)"
+    path: "059f Click Clock Wood (Lobby, Winter).miniusf"
+    tags: [xmas]
+    type: break
+  - id: nabnut_s_house_winter
+    title: "Nabnut's House (Winter)"
+    path: "062e Nabnut's House (Winter).miniusf"
+    tags: [xmas]
+    type: betting
+  - id: click_clock_wood_winter
+    title: "Click Clock Wood (Winter)"
+    path: "068 Click Clock Wood (Winter).miniusf"
+    tags: [xmas]
+    type: break
+  - id: secret_fanfare_2_freezeezy_peak
+    title: "Secret Fanfare 2 (Freezeezy Peak)"
+    path: "088 Secret Fanfare 2 (Freezeezy Peak).miniusf"
+    tags: [xmas]
+    type: result
 ...

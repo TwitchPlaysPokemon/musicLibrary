@@ -7,6 +7,42 @@ year: 2017
 songs: 
   - id: now_or_never_splatfest
     title: "Now or Never! (Splatfest)"
-    path: "One_Minute_Left_Splatfest_30s_cut_version.flac"
+    path: "Now or Never! (Splatfest).brstm"
     type: warning
+  - id: acid_hues_off_the_hook
+    title: "Acid Hues [Off the Hook]"
+    path: "Acid Hues [Off the Hook].brstm"
+    type: betting
+  - id: buoyant_boogie_turquoise_october
+    title: "Buoyant Boogie [Turquoise October]"
+    path: "Buoyant Boogie [Turquoise October].brstm"
+    type: betting
+  - id: deluge_dirge_omega_3
+    title: "Deluge Dirge [ω-3]"
+    path: "Deluge Dirge [ω-3].brstm"
+    type: warning
+  - id: dubble_bath_diy_remix_bob_dub
+    title: "Dubble Bath (DIY Remix) [Bob Dub]"
+    path: "Dubble Bath (DIY Remix) [Bob Dub].brstm"
+    type: break
+  - id: happy_little_workers_grizzco_industries
+    title: "Happy Little Workers [Grizzco Industries]"
+    path: "Happy Little Workers [Grizzco Industries].brstm"
+    type: betting
+  - id: inkoming_wet_floor
+    title: "Inkoming! [Wet Floor]"
+    path: "Inkoming! [Wet Floor].brstm"
+    type: betting
+  - id: riptide_rupture_ink_theory
+    title: "Riptide Rupture [Ink Theory]"
+    path: "Riptide Rupture [Ink Theory].brstm"
+    type: warning
+  - id: spicy_calamari_inkantation_squid_sisters
+    title: "Spicy Calamari Inkantation [Squid Sisters]"
+    path: "Spicy Calamari Inkantation [Squid Sisters].brstm"
+    type: betting
+  - id: tutorial_splatoon_2
+    title: "Tutorial"
+    path: "Tutorial (Phase 9).brstm"
+    type: betting
 ...

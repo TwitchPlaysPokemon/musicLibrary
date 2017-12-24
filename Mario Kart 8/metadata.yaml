@@ -32,6 +32,7 @@ songs:
   - id: animal_crossing_winter
     title: "Animal Crossing (Winter)"
     path: "Animal Crossing (Winter).brstm"
+    tags: [xmas]
     type: betting
   - id: bone_dry_dunes
     title: "Bone Dry Dunes"
@@ -80,6 +81,7 @@ songs:
   - id: ice_ice_outpost
     title: "Ice Ice Outpost"
     path: "Ice Ice Outpost.brstm"
+    tags: [xmas]
     type: betting
   - id: mario_circuit_mk8
     title: "Mario Circuit"
@@ -168,5 +170,30 @@ songs:
   - id: 3ds_music_park_medley
     title: "3DS Music Park (Medley)"
     path: "3DS Music Park (Medley).brstm"
+    type: betting
+  - id: animal_crossing_winter_frontrunning
+    title: "Animal Crossing (Winter) (Frontrunning)"
+    path: "Animal Crossing (Winter) (Frontrunning).brstm"
+    tags: [xmas]
+    type: betting
+  - id: gcn_sherbet_land_final_lap_frontrunning
+    title: "GCN Sherbet Land (Final Lap) (Frontrunning)"
+    path: "GCN Sherbet Land (Final Lap) (Frontrunning).brstm"
+    tags: [xmas]
+    type: result
+  - id: ice_ice_outpost_frontrunning
+    title: "Ice Ice Outpost (Frontrunning)"
+    path: "Ice Ice Outpost (Frontrunning).brstm"
+    tags: [xmas]
+    type: warning
+  - id: mount_wario_ost_version
+    title: "Mount Wario (OST Version)"
+    path: "Mount Wario (OST Version).brstm"
+    tags: [xmas]
+    type: betting
+  - id: sweet_sweet_canyon
+    title: "Sweet Sweet Canyon"
+    path: "Sweet Sweet Canyon.brstm"
+    tags: [xmas]
     type: betting
 ...

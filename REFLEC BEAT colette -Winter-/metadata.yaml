@@ -1,10 +1,13 @@
+---
 id: reflec_beat_colette_winter
 title: "REFLEC BEAT colette -Winter-"
-year: 2012
 series: reflecbeat
 platform: "Arcade"
+year: 2012
 songs:
   - id: valanga
     title: "Valanga"
     path: "Valanga [Better Loop].brstm"
+    tags: [xmas]
     type: battle
+...

@@ -5,16 +5,74 @@ series: snowboardkids
 platform: "N64"
 year: 1999
 songs: 
+  - id: theme_of_snow_town
+    title: "Theme Of Snow Town"
+    path: "06 Theme Of Snow Town.miniusf"
+    tags: [xmas]
+    type: result
+  - id: snowboard_street
+    title: "Snowboard Street"
+    path: "10 Snowboard Street.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: x_course
+    title: "X-Course"
+    path: "11 X-Course.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: sunny_mountain
+    title: "Sunny Mountain"
+    path: "12 Sunny Mountain.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: jingle_town
+    title: "Jingle Town"
+    path: "14 Jingle Town.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: wendy_s_house
+    title: "Wendy's House"
+    path: "15 Wendy's House.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: linda_s_castle
+    title: "Linda's Castle"
+    path: "16 Linda's Castle.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: crazy_jungle
+    title: "Crazy Jungle"
+    path: "17 Crazy Jungle.miniusf"
+    tags: [xmas]
+    type: betting
   - id: haunted_house_snowboard_kids_2
     title: "Haunted House"
     path: "19 Haunted House.miniusf"
+    tags: [xmas]
     type: battle
+  - id: ice_land_snowboard_kids_2
+    title: "Ice Land"
+    path: "20 Ice Land.miniusf"
+    tags: [xmas]
+    type: betting
   - id: vs_snowman_robot
     title: "VS Snowman Robot"
     path: "21 VS Snowman Robot.miniusf"
+    tags: [xmas]
     type: battle
+  - id: let_all_be_noisy
+    title: "Let All Be Noisy"
+    path: "27 Let All Be Noisy.miniusf"
+    tags: [xmas]
+    type: warning
+  - id: let_s_go_snowboard_kids_2
+    title: "Let's Go!"
+    path: "29 Let's Go!.miniusf"
+    tags: [xmas]
+    type: warning
   - id: damiens_theme
     title: "Damien's Theme"
     path: "31 Damien's Theme.miniusf"
+    tags: [xmas]
     type: warning
 ...

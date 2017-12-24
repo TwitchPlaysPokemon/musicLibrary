@@ -1,14 +1,20 @@
-id: puzzle_and_dragons_mario
+---
+id: puzzle_and_dragons_super_mario_bros_edition
 title: "Puzzle & Dragons: Super Mario Bros. Edition"
-series: crossover
+series: puzzleanddragons
 platform: "3DS"
 year: 2015
 songs: 
-  - id: overworld_puzzle_mario
+  - id: overworld_super_mario_bros_pad_smb_edition
     title: "Overworld (Super Mario Bros.)"
-    path: "Overworld (Super Mario Bros.).brstm"
+    path: "BGM_047.dspadpcm.bcstm"
     type: betting
-  - id: world_3_puzzle_mario
+  - id: overworld_super_mario_world_pad_smb_edition
+    title: "Overworld (Super Mario World)"
+    path: "BGM_048.dspadpcm.bcstm"
+    type: betting
+  - id: world_3_pad_smb_edition
     title: "World 3"
-    path: "World 3.brstm"
+    path: "BGM_008.dspadpcm.bcstm"
     type: betting
+...

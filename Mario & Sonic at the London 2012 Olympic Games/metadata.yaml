@@ -1,8 +1,9 @@
+---
 id: mario_sonic_at_the_london_2012_olympic_games
 title: "Mario & Sonic at the London 2012 Olympic Games"
-series: crossover
-year: 2011
+series: mario&sonic
 platform: "Wii"
+year: 2011
 songs:
   - id: dream_hurdles_battlerock_galaxy_super_mario_galaxy
     title: "Dream Hurdles - Battlerock Galaxy (Super Mario Galaxy)"
@@ -72,3 +73,24 @@ songs:
     title: "Rhythmetic Ribbon - Radetzky March"
     path: "Rhythmetic Ribbon - Radetzky March (With Clapping).brstm"
     type: result
+  - id: circuit_theme_mario_kart_double_dash
+    title: "Circuit Theme (Mario Kart: Double Dash!!)"
+    path: "Circuit Theme (Mario Kart_ Double Dash!!).brstm"
+    type: betting
+  - id: main_theme_super_mario_64
+    title: "Main Theme (Super Mario 64)"
+    path: "Main Theme (Super Mario 64).brstm"
+    type: betting
+  - id: rhythmetic_ribbon_the_blue_danube_easy_with_clapping
+    title: "Rhythmetic Ribbon - The Blue Danube (Easy) (With Clapping)"
+    path: "Rhymetic Ribbon -  The Blue Danube (Easy) (With Clapping).brstm"
+    type: result
+  - id: rhythmetic_ribbon_csikos_post_hard_with_clapping
+    title: "Rhythmetic Ribbon - Csikós Post (Hard) (With Clapping)"
+    path: "Rhythmetic Ribbon - Csikós Post (Hard) (With Clapping).brstm"
+    type: warning
+  - id: synchronized_swimming_hungarian_dance_no_5_hard_with_clapping
+    title: "Synchronized Swimming - Hungarian Dance No. 5 (Hard) (With Clapping)"
+    path: "Synchronized Swimming - Hungarian Dance No. 5 (Hard) (With Clapping).brstm"
+    type: warning
+...

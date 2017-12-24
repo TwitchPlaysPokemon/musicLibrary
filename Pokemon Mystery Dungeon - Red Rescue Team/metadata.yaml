@@ -5,12 +5,32 @@ series: pokemon
 platform: "GBA"
 year: 2005
 songs: 
-  - id: rescue_team_base_pmd_red
-    title: "Rescue Team Base"
-    path: "10 Rescue Team Base [0001].minigsf"
+  - id: rescue_base_pmd_red
+    title: "Rescue Base"
+    path: "10 Rescue Base [SND_BGM_M_HABITAT_HOME01].minigsf"
     type: break
+  - id: frosty_forest_pmd_red
+    title: "Frosty Forest"
+    path: "32 Frosty Forest [SND_BGM_M_DUNGEON_JUHYOU_01].minigsf"
+    tags: [xmas]
+    type: betting
+  - id: frosty_grotto_pmd_red
+    title: "Frosty Grotto"
+    path: "33 Frosty Grotto [SND_BGM_M_DUNGEON_JUHYOU_02].minigsf"
+    tags: [xmas]
+    type: warning
+  - id: mt_freeze_pmd_red
+    title: "Mt. Freeze"
+    path: "35 Mt. Freeze [SND_BGM_M_DUNGEON_REIHOU_01].minigsf"
+    tags: [xmas]
+    type: betting
+  - id: mt_freeze_peak_pmd_red
+    title: "Mt. Freeze Peak"
+    path: "36 Mt. Freeze Peak [SND_BGM_M_DUNGEON_REIHOU_02].minigsf"
+    tags: [xmas]
+    type: betting
   - id: sky_tower_pmd_red
     title: "Sky Tower"
-    path: "49 Sky Tower [0016].minigsf"
+    path: "41 Sky Tower [SND_BGM_M_DUNGEON_TENKUU_01].minigsf"
     type: betting
 ...

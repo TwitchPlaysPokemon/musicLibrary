@@ -8,6 +8,7 @@ songs:
   - id: vast_ice_mountain_peak
     title: "Vast Ice Mountain Peak"
     path: "Vast Ice Mountain Peak.mini2sf"
+    tags: [xmas]
     type: betting
   - id: sky_peak_prairie
     title: "Sky Peak Prairie"
@@ -16,6 +17,7 @@ songs:
   - id: dark_ice_mountain
     title: "Dark Ice Mountain"
     path: "Dark Ice Mountain.mini2sf"
+    tags: [xmas]
     type: betting
   - id: barren_valley
     title: "Barren Valley"
@@ -24,6 +26,7 @@ songs:
   - id: vast_ice_mountain
     title: "Vast Ice Mountain"
     path: "Vast Ice Mountain.mini2sf"
+    tags: [xmas]
     type: betting
   - id: shaymin_village
     title: "Shaymin Village"
@@ -49,5 +52,14 @@ songs:
     title: "Living Spirit"
     path: "Living Spirit.mini2sf"
     type: break
-
+  - id: sky_peak_snowfield
+    title: "Sky Peak Snowfield"
+    path: "085 Sky Peak Snowfield [0157].mini2sf"
+    tags: [xmas]
+    type: betting
+  - id: icicle_forest
+    title: "Icicle Forest"
+    path: "132 Icicle Forest [0152].mini2sf"
+    tags: [xmas]
+    type: betting
 ...

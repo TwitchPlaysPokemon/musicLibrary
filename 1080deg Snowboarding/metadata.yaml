@@ -1,9 +1,12 @@
+---
 id: 1080_snowboarding
 title: "1080° Snowboarding"
-year: 1998
 platform: "N64"
+year: 1998
 songs:
   - id: this_is_a_test
     title: "This Is A Test"
     path: "This Is A Test.brstm"
+    tags: [xmas]
     type: warning
+...

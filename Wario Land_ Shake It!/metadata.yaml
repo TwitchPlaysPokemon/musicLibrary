@@ -2,8 +2,8 @@
 id: wario_land_shake_it
 title: "Wario Land: Shake It!"
 series: wario
-year: 2008
 platform: "Wii"
+year: 2008
 songs:
   - id: stonecarving_city
     title: "Stonecarving City"
@@ -18,4 +18,14 @@ songs:
     title: "Aboard the Sweet Stuff"
     path: "Aboard the Sweet Stuff.brstm"
     type: result
+  - id: freezing_fields
+    title: "Freezing Fields"
+    path: "Freezing Fields.brstm"
+    tags: [xmas]
+    type: betting
+  - id: slipshod_slopes
+    title: "Slipshod Slopes"
+    path: "Slipshod Slopes.brstm"
+    tags: [xmas]
+    type: betting
 ...

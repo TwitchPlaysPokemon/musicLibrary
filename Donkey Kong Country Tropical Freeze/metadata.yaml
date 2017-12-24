@@ -1,69 +1,90 @@
 ---
 id: donkey_kong_country_tropical_freeze
-platform: "Wii U"
 title: "Donkey Kong Country: Tropical Freeze"
 series: donkeykong
+platform: "Wii U"
 year: 2014
 songs: 
-#      - id: trunk_twister_underwater
-#        path: "Trunk Twister Underwater.brstm"
-#        title: "Trunk Twister (Underwater)"
-#        type: result
-# unfitting result song
   - id: irate_eight_tension
-    path: "Irate Eight - Tension.brstm"
     title: "Irate Eight (Tension)"
+    path: "Irate Eight - Tension.brstm"
     type: battle
   - id: irate_eight_chase
-    path: "Irate Eight - Chase.brstm"
     title: "Irate Eight (Chase)"
+    path: "Irate Eight - Chase.brstm"
     type: battle
   - id: horn_top_hop_pipeworks
-    path: "Horn Top Hop (Pipeworks).brstm"
     title: "Horn Top Hop (Pipeworks)"
+    path: "Horn Top Hop (Pipeworks).brstm"
     type: betting
   - id: harvest_hazards_underwater
-    path: "Harvest Hazards (Underwater).brstm"
     title: "Harvest Hazards (Underwater)"
+    path: "Harvest Hazards (Underwater).brstm"
     type: betting
   - id: bashmaster_the_unbreakable
-    path: "Bashmaster, the Unbreakable.brstm"
     title: "Bashmaster, the Unbreakable"
+    path: "Bashmaster, the Unbreakable.brstm"
+    tags: [xmas]
     type: battle
   - id: pompy_the_presumptuous
-    path: "Pompy, the Presumptuous.brstm"
     title: "Pompy, the Presumptuous"
+    path: "Pompy, the Presumptuous.brstm"
+    tags: [xmas]
     type: battle
   - id: trunk_twister_mine_cart
-    path: "1-4- Trunk Twister (Mine Cart).brstm"
     title: "Trunk Twister (Mine Cart)"
+    path: "1-4- Trunk Twister (Mine Cart).brstm"
     type: betting
-#      - id: rocket_barrel_medley
-#        path: "Rocket Barrel Medley.brstm"
-#        title: "Rocket Barrel (Medley)"
-#        type: battle #borderline not tense and charged enough until 2m, where it's definitely not tense and charged enough.
   - id: boss_mountaintop_tussle
-    path: "2-Boss- Mountaintop Tussle.brstm"
     title: "2-Boss- Mountaintop Tussle"
+    path: "2-Boss- Mountaintop Tussle.brstm"
+    tags: [xmas]
     type: battle
   - id: mountain_mania_medley
-    path: "2-2- Mountain Mania (Medley).brstm"
     title: "Mountain Mania (Medley)"
+    path: "2-2- Mountain Mania (Medley).brstm"
     type: betting
   - id: seashore_war
-    path: "Seashore War.brstm"
     title: "Seashore War"
+    path: "Seashore War.brstm"
+    tags: [xmas]
     type: betting
   - id: harvest_hazards
-    path: "Harvest Hazards.brstm"
     title: "Harvest Hazards"
+    path: "Harvest Hazards.brstm"
     type: betting
   - id: busted_bayou
-    path: "Busted Bayou.brstm"
     title: "Busted Bayou"
+    path: "Busted Bayou.brstm"
     type: betting
   - id: volcano_dome_boss_battle
-    path: "Volcano Dome (Boss Battle).brstm"
     title: "Volcano Dome (Boss Battle)"
+    path: "Volcano Dome (Boss Battle).brstm"
+    tags: [xmas]
+    type: betting
+  - id: freezie_breezie
+    title: "Freezie Breezie"
+    path: "Frozen_Music_3.ddsp"
+    tags: [xmas]
+    type: betting
+  - id: frosty_fruits
+    title: "Frosty Fruits"
+    path: "Juice_Music_4.ddsp"
+    tags: [xmas]
+    type: betting
+  - id: frozen_frenzy
+    title: "Frozen Frenzy"
+    path: "Frozen_Music_2.ddsp"
+    tags: [xmas]
+    type: betting
+  - id: snowmads_theme
+    title: "Snowmads Theme"
+    path: "Frozen_Music_1.ddsp"
+    tags: [xmas]
+    type: betting
+  - id: jam_jam_smash
+    title: "Jam Jam Smash"
+    path: "Juice_JamminJams.ddsp"
+    tags: [xmas]
     type: betting
 ...

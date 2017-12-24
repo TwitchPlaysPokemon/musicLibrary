@@ -1,0 +1,13 @@
+---
+id: clay_fighter
+title: "Clay Fighter [SNES]"
+series: clayfighter
+platform: ["SNES", "SMD"]
+year: 1993
+songs: 
+  - id: bad_mr_frosty
+    title: "Bad Mr. Frosty"
+    path: "10 Bad Mr. Frosty.spc"
+    tags: [xmas]
+    type: betting
+...

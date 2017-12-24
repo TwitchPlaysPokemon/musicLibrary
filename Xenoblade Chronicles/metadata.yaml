@@ -5,86 +5,96 @@ series: xeno
 platform: ["Wii", "3DS"]
 year: 2010
 songs: 
-  - id: you_will_know_our_names
-    path: "You Will Know Our Names.brstm"
-    title: "You Will Know Our Names"
-    type: battle
-  - id: unfinished_battle
-    path: "Unfinished Battle (Custom Loop).brstm"
-    title: "Unfinished Battle"
-    type: battle
-  - id: mechanical_rhythm
-    path: "Mechanical Rhythm.brstm"
-    title: "Mechanical Rhythm"
-    type: battle
-  - id: gaur_plains
-    path: "Gaur Plains.brstm"
-    title: "Gaur Plains"
-    type: betting
-  - id: gaur_plains_night
-    path: "Gaur Plains - Night.brstm"
-    title: "Gaur Plains (Night)"
-    type: break
-  - id: colony_6_restoration
-    path: "Colony 6 ~Restoration~.brstm"
-    title: "Colony 6 ~Restoration~"
-    type: betting
-  - id: irregular_bound
-    path: "Irregular Bound.brstm"
-    title: "Irregular Bound"
-    type: warning
-  - id: searching_glance
-    path: "Searching Glance.brstm"
-    title: "Searching Glance"
-    type: warning
-  - id: one_who_gets_in_our_way
-    path: "One Who Gets in Our Way.brstm"
-    title: "One Who Gets in Our Way"
-    type: battle
   - id: central_factory
-    path: "Central Factory.brstm"
     title: "Central Factory"
+    path: "418 ACE+ - Central Arsenal.adx"
     type: betting
-  - id: satorl_marsh_-_night
-    path: "Satorl Marsh - Night.brstm"
-    title: "Satorl Marsh (Night)"
-    ends: 2:50
-    type: betting
-  - id: frontier_village
-    path: "Frontier Village.brstm"
-    title: "Frontier Village"
-    type: betting
-  - id: forest_of_the_nopon
-    path: "Forest of the Nopon.brstm"
-    title: "Makna Forest (Day)"
-    type: betting
-  - id: colony_9_-_night
-    path: "Colony 9 - Night.brstm"
-    title: "Colony 9 - Night"
+  - id: colony_6_restoration
+    title: "Colony 6 ~Restoration~"
+    path: "325 Manami Kiyota - Colony 6 ~Restoration~.adx"
     type: betting
   - id: colony_9
-    path: "Colony 9.brstm"
     title: "Colony 9"
+    path: "303 Yoko Shimomura - Colony 9.adx"
     type: betting
-  - id: time_to_fight
-    title: "Time to Fight!"
-    path: "Time to Fight!.brstm"
-    type: battle
-  - id: vision_reacts_xenoblade
-    title: "Vision Reacts"
-    path: "Vision Reacts.brstm"
-    type: warning
+  - id: forest_of_the_nopon
+    title: "Makna Forest (Day)"
+    path: "316 Manami Kiyota - Macuna Woods.adx"
+    type: betting
+  - id: frontier_village
+    title: "Frontier Village"
+    path: "318 Manami Kiyota - Saihate Village.adx"
+    type: betting
+  - id: gaur_plains
+    title: "Gaur Plains"
+    path: "307 ACE+ - Gaur Plains.adx"
+    type: betting
   - id: mechonis_field
     title: "Mechonis Field"
-    path: "Mechonis Field.adx"
+    path: "414 ACE+ - Field of the Machinae.adx"
+    type: betting
+  - id: satorl_marsh_-_night
+    title: "Satorl Marsh (Night)"
+    path: "313 Manami Kiyota - Sator, Phosphorescent Land - Night.adx"
+    ends: 2:50
     type: betting
   - id: sword_valley
     title: "Sword Valley"
     path: "406 Manami Kiyota - The Great Sword's Canyon.adx"
     ends: 2:09
     type: betting
+  - id: irregular_bound
+    title: "Irregular Bound"
+    path: "419 ACE+ - Irregular Bound.adx"
+    type: warning
+  - id: searching_glance
+    title: "Searching Glance"
+    path: "314 ACE+ - Searching Glance.adx"
+    type: warning
+  - id: vision_reacts
+    title: "Vision Reacts"
+    path: "403 ACE+ - Vision Reacts.adx"
+    type: warning
+  - id: mechanical_rhythm
+    title: "Mechanical Rhythm"
+    path: "415 ACE+ - Mechanical Rhythm.adx"
+    type: battle
+  - id: one_who_gets_in_our_way
+    title: "One Who Gets in Our Way"
+    path: "311 ACE+ - One Who Gets in Our Way.adx
+    type: battle
+  - id: time_to_fight
+    title: "Time to Fight!"
+    path: "305 Yoko Shimomura - Fight!.adx"
+    type: battle
+  - id: unfinished_battle
+    title: "Unfinished Battle"
+    path: "Unfinished Battle (Custom Loop).brstm"
+    type: battle
+  - id: you_will_know_our_names
+    title: "You Will Know Our Names"
+    path: "409 ACE+ - Those Who Bear Their Name.adx"
+    type: battle
+  - id: colony_9_-_night
+    title: "Colony 9 - Night"
+    path: "304 Yoko Shimomura, ACE+ - Colony 9 - Night.adx"
+    type: break
+  - id: gaur_plains_night
+    title: "Gaur Plains (Night)"
+    path: "308 ACE+ - Gaur Plains - Night.adx"
+    type: break
   - id: tephra_cave
     title: "Tephra Cave"
     path: "306 Manami Kiyota - Tephra Cave.adx"
+    type: break
+  - id: snowy_valak_mountain
+    title: "Snowy Valak Mountain"
+    path: "404 ACE+ - Snowy Mt. Valac.adx"
+    tags: [xmas]
+    type: break
+  - id: snowy_valak_mountain_night
+    title: "Snowy Valak Mountain - Night"
+    path: "405 ACE+ - Snowy Mt. Valac - Night.adx"
+    tags: [xmas]
     type: break
 ...

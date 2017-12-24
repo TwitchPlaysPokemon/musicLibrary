@@ -2,8 +2,8 @@
 id: sonic_the_hedgehog_3
 title: "Sonic the Hedgehog 3"
 series: sonic
-year: 1994
 platform: "Genesis"
+year: 1994
 songs:
   - id: blue_spheres
     title: "Special Stage (Blue Spheres)"
@@ -48,6 +48,7 @@ songs:
   - id: icecap_zone_act_1
     title: "IceCap Zone Act 1"
     path: "11 - IceCap Zone Act 1.vgz"
+    tags: [xmas]
     type: betting
   - id: launch_base_zone_act_1
     title: "Launch Base Zone Act 1"

@@ -4,6 +4,78 @@ title: "UNDERTALE"
 platform: "Various"
 year: 2015
 songs: 
+  - id: another_medium
+    title: "Another Medium"
+    path: "Another Medium.brstm"
+    ends: 2:21
+    type: betting
+  - id: bonetrousle
+    title: "Bonetrousle"
+    path: "Bonetrousle.brstm"
+    type: betting
+  - id: can_you_really_call_this_a_hotel_i_didnt_receive_a_mint_on_my_pillow
+    title: "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow"
+    path: "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow.brstm"
+    type: betting
+  - id: core
+    title: "CORE"
+    path: "CORE.brstm"
+    type: betting
+  - id: dating_start
+    title: "Dating Start!"
+    path: "Dating Start!.brstm"
+    tags: [xmas]
+    type: betting
+  - id: dummy_fight
+    title: "Dummy!"
+    path: "Dummy!.brstm"
+    ends: 2:26
+    type: betting
+  - id: heartache
+    title: "Heartache"
+    path: "Heartache.brstm"
+    type: betting
+  - id: here_we_are_undertale
+    title: "Here We Are"
+    path: "Here We Are.brstm"
+    type: betting
+  - id: ruins_undertale
+    title: "Ruins"
+    path: "Ruins.brstm"
+    type: betting
+  - id: snowdin_town
+    title: "Snowdin Town"
+    path: "Snowdin Town.brstm"
+    tags: [xmas]
+    type: betting
+  - id: amalgam
+    title: "Amalgam"
+    path: "Amalgam.brstm"
+    type: warning
+  - id: dating_fight
+    title: "Dating Fight!"
+    path: "Dating Fight!.brstm"
+    type: warning
+  - id: death_report
+    title: "Death Report"
+    path: "Death Report.brstm"
+    type: warning
+  - id: metal_crusher
+    title: "Metal Crusher"
+    path: "Metal Crusher.brstm"
+    type: warning
+  - id: stronger_monsters
+    title: "Stronger Monsters"
+    path: "Stronger Monsters.brstm"
+    type: warning
+  - id: thundersnail
+    title: "ThunderSnail"
+    path: "ThunderSnail.brstm"
+    type: warning
+  - id: unneccessary_tension
+    title: "Unneccessary Tension"
+    path: "mus_tension.brstm"
+    type: warning
   - id: asgore
     title: "ASGORE"
     path: "ASGORE (Game Loop).brstm"
@@ -15,6 +87,10 @@ songs:
   - id: death_by_glamour
     title: "Death By Glamour"
     path: "Death by Glamour.brstm"
+    type: battle
+  - id: ghost_fight
+    title: "Ghost Fight"
+    path: "Ghost Fight.brstm"
     type: battle
   - id: hopes_and_dreams
     title: "Hopes and Dreams"
@@ -28,98 +104,37 @@ songs:
     title: "Spear of Justice"
     path: "Spear of Justice.brstm"
     type: battle
-  - id: stronger_monsters
-    title: "Stronger Monsters"
-    path: "Stronger Monsters.brstm"
-    type: warning
-  - id: another_medium
-    title: "Another Medium"
-    path: "Another Medium.brstm"
-    ends: 2:21
-    type: betting
-  - id: core
-    title: "CORE"
-    path: "CORE.brstm"
-    type: betting
-  - id: dating_start
-    title: "Dating Start!"
-    path: "Dating Start!.brstm"
-    type: betting
-  - id: ruins_undertale
-    title: "Ruins"
-    path: "Ruins.brstm"
-    type: betting
-  - id: sans
-    title: "sans."
-    path: "sans..brstm"
-    type: break
-  - id: uwa_so_temperate
-    title: "Uwa!! So Temperate"
-    path: "Uwa!! So Temperate.brstm"
-    type: break
-  - id: death_report
-    title: "Death Report"
-    path: "Death Report.brstm"
-    type: warning
-  - id: here_we_are_undertale
-    title: "Here We Are"
-    path: "Here We Are.brstm"
-    type: betting
-  - id: hotel_undertale
-    title: "Hotel"
-    path: "Hotel.brstm"
-    type: break
-  - id: snowdin_town
-    title: "Snowdin Town"
-    path: "Snowdin Town.brstm"
-    type: betting
-  - id: uwa_so_holiday
-    title: "Uwa!! So Holiday♫"
-    path: "Uwa!! So Holiday.brstm"
-    type: break
-  - id: dummy_fight
-    title: "Dummy!"
-    path: "Dummy!.brstm"
-    ends: 2:26
-    type: betting
-  - id: metal_crusher
-    title: "Metal Crusher"
-    path: "Metal Crusher.brstm"
-    type: warning
-  - id: fallen_down_reprise
-    title: "Fallen Down (Reprise)"
-    path: "Fallen Down (Reprise).brstm"
-    type: break
-  - id: empty_house
-    title: "Empty House"
-    path: "Empty House.brstm"
-    type: break
-  - id: ghost_fight
-    title: "Ghost Fight"
-    path: "Ghost Fight.brstm"
-    type: battle
-  - id: premonition_ut
-    title: "Premonition"
-    path: "Premonition.brstm"
-    type: break
   - id: spider_dance
     title: "Spider Dance"
     path: "Spider Dance.brstm"
     type: battle
-  - id: bonetrousle
-    title: "Bonetrousle"
-    path: "Bonetrousle.brstm"
-    type: betting
-  - id: unneccessary_tension
-    title: "Unneccessary Tension"
-    path: "mus_tension.brstm"
-    type: warning
-  - id: can_you_really_call_this_a_hotel_i_didnt_receive_a_mint_on_my_pillow
-    title: "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow"
-    path: "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow.brstm"
-    type: betting
-  - id: dating_fight
-    title: "Dating Fight!"
-    path: "Dating Fight!.brstm"
-    type: warning
+  - id: empty_house
+    title: "Empty House"
+    path: "Empty House.brstm"
+    type: break
+  - id: fallen_down_reprise
+    title: "Fallen Down (Reprise)"
+    path: "Fallen Down (Reprise).brstm"
+    type: break
+  - id: hotel_undertale
+    title: "Hotel"
+    path: "Hotel.brstm"
+    type: break
+  - id: premonition_undertale
+    title: "Premonition"
+    path: "Premonition.brstm"
+    type: break
+  - id: sans
+    title: "sans."
+    path: "sans..brstm"
+    type: break
+  - id: uwa_so_holiday
+    title: "Uwa!! So Holiday♫"
+    path: "Uwa!! So Holiday.brstm"
+    tags: [xmas]
+    type: break
+  - id: uwa_so_temperate
+    title: "Uwa!! So Temperate♫"
+    path: "Uwa!! So Temperate.brstm"
+    type: break
 ...

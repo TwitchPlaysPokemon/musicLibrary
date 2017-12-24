@@ -5,46 +5,142 @@ series: mario
 platform: "Switch"
 year: 2017
 songs: 
+  - id: bonneton
+    title: "Bonneton"
+    path: "Cap Kingdom - Bonneton.brstm"
+    type: betting
+  - id: bowser_s_castle_1
+    title: "Bowser's Castle 1"
+    path: "Bowser's Kingdom - Bowser's Castle 1.brstm"
+    type: betting
+  - id: bowser_s_castle_2
+    title: "Bowser's Castle 2"
+    path: "Bowser's Kingdom - Bowser's Castle 2.brstm"
+    type: betting
+  - id: caves_super_mario_odyssey
+    title: "Caves"
+    path: "Caves.brstm"
+    type: betting
+  - id: forgotten_isle_2
+    title: "Forgotten Isle 2"
+    path: "Lost Kingdom - Forgotten Isle 2.brstm"
+    type: betting
+  - id: fossil_falls
+    title: "Fossil Falls"
+    path: "Cascade Kingdom - Fossil Falls.brstm"
+    type: betting
+  - id: fossil_falls_8_bit
+    title: "Fossil Falls (8-Bit)"
+    path: "Cascade Kingdom - Fossil Falls (8-Bit).brstm"
+    type: betting
+  - id: honeylune_ridge_caves
+    title: "Honeylune Ridge: Caves"
+    path: "Moon Kingdom - Honeylune Ridge_ Caves.brstm"
+    type: betting
+  - id: honeylune_ridge_escape
+    title: "Honeylune Ridge: Escape"
+    path: "Moon Kingdom - Honeylune Ridge_ Escape.brstm"
+    type: betting
+  - id: honeylune_ridge_escape_8_bit
+    title: "Honeylune Ridge: Escape (8-Bit)"
+    path: "Moon Kingdom - Honeylune Ridge_ Escape (8-Bit).brstm"
+    type: betting
   - id: ice_super_mario_odyssey
     title: "Ice"
     path: "Ice.brstm"
+    tags: [xmas]
     type: betting
   - id: jump_up_super_star
     title: "Jump Up, Super Star!"
     path: "Jump Up, Super Star! (Looped).brstm"
     type: betting
-  - id: metro_kingdom_new_donk_city_daytime
-    title: "Metro Kingdom - New Donk City: Daytime"
+  - id: mount_volbono
+    title: "Mount Volbono"
+    path: "Luncheon Kingdom - Mount Volbono.brstm"
+    type: betting
+  - id: mount_volbono_town
+    title: "Mount Volbono: Town"
+    path: "Luncheon Kingdom - Mount Volbono_ Town.brstm"
+    type: betting
+  - id: ndc_festival_instrumental
+    title: "NDC Festival (Instrumental)"
+    path: "Metro Kingdom - NDC Festival (Instrumental).brstm"
+    ends: 3:23
+    type: betting
+  - id: new_donk_city_daytime
+    title: "New Donk City: Daytime"
     path: "Metro Kingdom - New Donk City_ Daytime.brstm"
     type: betting
   - id: rc_car
     title: "RC Car"
     path: "RC Car.brstm"
     type: betting
-  - id: sand_kingdom_tostarena_jaxi
-    title: "Sand Kingdom - Tostarena: Jaxi"
-    path: "Sand Kingdom - Tostarena_ Jaxi.brstm"
+  - id: shiveria_race_course_entrance
+    title: "Shiveria: Race Course Entrance"
+    path: "Snow Kingdom - Shiveria_ Race Course Entrance.brstm"
+    tags: [xmas]
     type: betting
-  - id: seaside_kingdom_bubblaine
-    title: "Seaside Kingdom - Bubblaine"
-    path: "Seaside Kingdom - Bubblaine.brstm"
-    type: break
-  - id: wooded_kingdom_steam_gardens
-    title: "Wooded Kingdom - Steam Gardens"
+  - id: shiveria_town
+    title: "Shiveria: Town"
+    path: "Snow Kingdom - Shiveria_ Town.brstm"
+    tags: [xmas]
+    type: betting
+  - id: steam_gardens
+    title: "Steam Gardens"
     path: "Wooded Kingdom - Steam Gardens.brstm"
     type: betting
-  - id: wooded_kingdom_steam_gardens_8_bit
-    title: "Wooded Kingdom - Steam Gardens (8-Bit)"
+  - id: steam_gardens_8_bit
+    title: "Steam Gardens (8-Bit)"
     path: "Wooded Kingdom - Steam Gardens (8-Bit).brstm"
+    type: betting
+  - id: tostarena_jaxi
+    title: "Tostarena: Jaxi"
+    path: "Sand Kingdom - Tostarena_ Jaxi.brstm"
+    type: betting
+  - id: tostarena_ruins
+    title: "Tostarena: Ruins"
+    path: "Sand Kingdom - Tostarena_ Ruins.brstm"
+    type: betting
+  - id: tostarena_town
+    title: "Tostarena: Town"
+    path: "Sand Kingdom - Tostarena_ Town.brstm"
     type: betting
   - id: broodals_battle
     title: "Broodals Battle"
     path: "Broodals Battle.brstm"
     type: warning
+  - id: cookatiel_battle
+    title: "Cookatiel Battle"
+    path: "Cookatiel Battle.brstm"
+    type: warning
+  - id: honeylune_ridge_collapse
+    title: "Honeylune Ridge: Collapse"
+    path: "Moon Kingdom - Honeylune Ridge_ Collapse.brstm"
+    type: warning
   - id: mollusque_lanceur_battle
     title: "Mollusque-Lanceur Battle"
     path: "Mollusque-Lanceur Battle.brstm"
     type: warning
+  - id: robobrood_battle
+    title: "RoboBrood Battle"
+    path: "RoboBrood Battle.brstm"
+    type: warning
+  - id: ruined_dragon_battle
+    title: "Ruined Dragon battle"
+    path: "Ruined Dragon Battle.brstm"
+    type: warning
+  - id: bowser_battle_1
+    title: "Bowser Battle 1"
+    path: "Bowser Battle 1.brstm"
+    type: battle
+  - id: bowser_battle_2
+    title: "Bowser Battle 2"
+    path: "Bowser Battle 2.brstm"
+    type: battle
+  - id: knucklotec_battle
+    title: "Knucklotec Battle"
+    path: "Knucklotec Battle.brstm"
+    type: battle
   - id: madame_broode_battle
     title: "Madame Broode Battle"
     path: "Madame Broode Battle.brstm"
@@ -53,8 +149,36 @@ songs:
     title: "Mechawiggler Battle"
     path: "Mechawiggler Battle.brstm"
     type: battle
-  - id: metro_kingdom_new_donk_city_band_performance
+  - id: above_the_clouds
+    title: "Above the Clouds"
+    path: "Above the Clouds.brstm"
+    type: result
+  - id: new_donk_city_band_performance
     title: "New Donk City (Band Performance)"
     path: "Metro Kingdom - New Donk City (Band Performance).brstm"
     type: result
+  - id: bubblaine
+    title: "Bubblaine"
+    path: "Seaside Kingdom - Bubblaine.brstm"
+    type: break
+  - id: crazy_cap
+    title: "Crazy Cap"
+    path: "Crazy Cap.brstm"
+    type: break
+  - id: honeylune_ridge
+    title: "Honeylune Ridge"
+    path: "Moon Kingdom - Honeylune Ridge.brstm"
+    type: break
+  - id: lake_lamode_2
+    title: "Lake Lamode 2"
+    path: "Lake Kingdom - Lake Lamode 2.brstm"
+    type: break
+  - id: new_donk_city_cafe
+    title: "New Donk City: Cafe"
+    path: "Metro Kingdom - New Donk City_ Cafe.brstm"
+    type: break
+  - id: peach_s_castle_super_mario_odyssey
+    title: "Peach's Castle"
+    path: "Mushroom Kingdom - Peach's Castle.brstm"
+    type: break
 ...

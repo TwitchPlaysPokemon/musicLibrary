@@ -1,0 +1,18 @@
+---
+id: harvest_moon
+title: "Harvest Moon"
+series: storyofseasons
+platform: "SNES"
+year: 1996
+songs: 
+  - id: winter_harvest_moon
+    title: "Winter"
+    path: "13 Winter.spc"
+    tags: [xmas]
+    type: betting
+  - id: star_night_festival
+    title: "Star Night Festival"
+    path: "14 Star Night Festival.spc"
+    tags: [xmas]
+    type: break
+...

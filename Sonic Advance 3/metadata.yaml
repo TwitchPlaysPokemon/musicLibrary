@@ -32,6 +32,7 @@ songs:
   - id: twinkle_snow_act_1
     title: "Twinkle Snow Act 1"
     path: "Twinkle Snow Act 1.minigsf"
+    tags: [xmas]
     type: betting
   - id: chaos_angel_map
     title: "Chaos Angel Map"
@@ -60,6 +61,7 @@ songs:
   - id: twinkle_snow_map
     title: "Twinkle Snow Map"
     path: "Twinkle Snow Map.minigsf"
+    tags: [xmas]
     type: break
   - id: character_select
     title: "Character Select"

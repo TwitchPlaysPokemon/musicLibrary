@@ -12,6 +12,7 @@ songs:
   - id: cool_cool_mountain
     title: "Cool, Cool Mountain"
     path: "Snow Mountain.miniusf"
+    tags: [xmas]
     type: betting
   - id: dire_dire_docks_ost_version
     title: "Dire, Dire Docks (OST Version)"
@@ -20,6 +21,10 @@ songs:
   - id: koopas_road_sm64
     title: "Koopa's Road"
     path: "29 Koopa's Road.miniusf"
+    type: betting
+  - id: lethal_lava_land
+    title: "Lethal Lava Land"
+    path: "10 Lethal Lava Land.miniusf"
     type: betting
   - id: koopa_theme_sm64
     title: "Koopa's Theme"
@@ -45,6 +50,10 @@ songs:
     title: "Ultimate Koopa (OST Version)"
     path: "Ultimate Koopa (OST Version).brstm"
     type: warning
+  - id: ending_demo_sm64
+    title: "Ending Demo"
+    path: "34 Ending Demo.miniusf"
+    type: result
   - id: file_select_sm64
     title: "File Select"
     path: "18 File Select.miniusf"

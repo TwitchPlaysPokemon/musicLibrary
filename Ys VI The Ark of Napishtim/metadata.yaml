@@ -1,19 +1,37 @@
 ---
 id: ys_vi_the_ark_of_napishtim
 title: "Ys VI: The Ark of Napishtim"
+series: ys
 platform: ["PC", "PS2", "PSP"]
 year: 2003
 songs: 
+  - id: mountain_zone
+    title: "MOUNTAIN ZONE"
+    path: "110 - Hayato Sonoda & Wataru Ishibashi - MOUNTAIN ZONE.logg"
+    type: betting
+  - id: the_depth_napishtim
+    title: "THE DEPTH NAPISHTIM"
+    path: "211 - Hayato Sonoda & Wataru Ishibashi - THE DEPTH NAPISHTIM.logg"
+    ends: 2:09
+    type: betting
   - id: the_ruined_city_kishgal
-    title: "The Ruined City Kishgal"
-    path: "The Ruined City Kishgal.brstm"
+    title: "THE RUINED CITY KISHGAL"
+    path: "206 - Hayato Sonoda & Wataru Ishibashi - THE RUINED CITY KISHGAL.logg"
+    type: betting
+  - id: the_ruined_city_kishgal_ys_zanmai_ver
+    title: "The Ruined City "Kishgal" (Ys ZANMAI ver.)"
+    path: ".brstm"
     type: betting
   - id: ultramarine_deep
-    title: "Ultramarine Deep"
-    path: "Ultramarine Deep.brstm"
+    title: "ULTRAMARINE DEEP"
+    path: "107 - Hayato Sonoda & Wataru Ishibashi - ULTRAMARINE DEEP.logg"
     type: betting
   - id: windslash_steps
-    title: "Windslash Steps"
-    path: "Windslash Steps.brstm"
+    title: "WINDSLASH STEPS"
+    path: "109 - Hayato Sonoda & Wataru Ishibashi - WINDSLASH STEPS.logg"
     type: betting
+  - id: mighty_obstacle
+    title: "MIGHTY OBSTACLE"
+    path: "106 - Hayato Sonoda & Wataru Ishibashi - MIGHTY OBSTACLE.logg"
+    type: battle
 ...

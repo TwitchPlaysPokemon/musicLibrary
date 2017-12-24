@@ -5,16 +5,47 @@ series: ys
 platform: ["PSP", "PC"]
 year: 2009
 songs:
-  - id: final_battle
-    title: "Final Battle"
-    path: "Final Battle.brstm"
-    type: battle
-  - id: dreaming_ys_i_and_ii
-    title: "Dreaming"
-    path: "Dreaming.brstm"
-    type: battle
   - id: beat_of_the_terror
-    title: "Beat of the Terror"
+    title: "BEAT OF THE TERROR"
     path: "ys1_09.at3"
     type: betting
+  - id: ice_ridge_of_noltia
+    title: "ICE RIDGE OF NOLTIA"
+    path: "Ice Ridge of Noltia.brstm"
+    tags: [xmas]
+    ends: 1:53
+    type: betting
+  - id: palace_of_salmon
+    title: "PALACE OF SALMON"
+    path: "Palace of Solomon.brstm"
+    type: betting
+  - id: the_syonin
+    title: "THE SYONIN"
+    path: "The Merchant.brstm"
+    ends: 1:24
+    type: betting
+  - id: campanile_of_lane
+    title: "COMPANILE OF LANE"
+    path: "Campanile of Lane.brstm"
+    type: warning
+  - id: dreaming_ys_i_and_ii
+    title: "DREAMING"
+    path: "Dreaming.brstm"
+    type: battle
+  - id: final_battle_ys_i_and_ii
+    title: "FINAL BATTLE"
+    path: "Final Battle.brstm"
+    type: battle
+  - id: palace_of_destruction
+    title: "PALACE OF DESTRUCTION"
+    path: "Palace Of Destruction.brstm"
+    type: battle
+  - id: fountain_of_love
+    title: "FOUNTAIN OF LOVE"
+    path: "Fountain of Love.brstm"
+    type: break
+  - id: tender_people
+    title: "TENDER PEOPLE"
+    path: "Tender People.brstm"
+    type: break
 ...

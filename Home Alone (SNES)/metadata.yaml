@@ -1,0 +1,33 @@
+---
+id: home_alone_snes
+title: "Home Alone [SNES]"
+series: homealone
+platform: "Various"
+year: 1991
+songs: 
+  - id: main_theme_home_alone_snes
+    title: "Main Theme"
+    path: "01 Main Theme.spc"
+    tags: [xmas]
+    type: warning
+  - id: waltz_of_the_flowers
+    title: "Waltz of the Flowers"
+    path: "02 Waltz of the Flowers.spc"
+    tags: [xmas]
+    type: warning
+  - id: harry_and_marv
+    title: "Harry and Marv"
+    path: "03 Harry and Marv.spc"
+    tags: [xmas]
+    type: betting
+  - id: the_electronics_wing
+    title: "The Electronics Wing"
+    path: "06 The Electronics Wing.spc"
+    tags: [xmas]
+    type: warning
+  - id: ending_home_alone_snes
+    title: "Ending"
+    path: "07 Ending.spc"
+    tags: [xmas]
+    type: break
+...

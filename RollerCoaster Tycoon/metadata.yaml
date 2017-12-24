@@ -9,4 +9,14 @@ songs:
     title: "Title Screen"
     path: "Title Screen.brstm"
     type: betting
+  - id: ice_rollercoaster_tycoon
+    title: "Ice"
+    path: "Ice.brstm"
+    tags: [xmas]
+    type: break
+  - id: wonderland_rollercoaster_tycoon
+    title: "Wonderland"
+    path: "Wonderland.brstm"
+    tags: [xmas]
+    type: break
 ...

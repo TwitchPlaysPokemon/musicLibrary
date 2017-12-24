@@ -9,69 +9,150 @@ songs:
     title: "Akkala Ancient Tech Lab"
     path: "Akkala Ancient Tech Lab.brstm"
     type: betting
-  - id: great_fairy_fountain_botw
-    title: "Great Fairy Fountain"
-    path: "Great Fairy Fountain.brstm"
-    type: break
-  - id: shrine_guardian
-    title: "Battle - Shrine Guardian"
-    path: "Battle - Shrine Guardian.brstm"
-    type: warning
-  - id: vast_world
-    title: "Vast World"
-    path: "Vast World.brstm"
-    type: break
-  - id: taloh_naegs_teaching_shield_parry
-    title: "Ta'loh Naeg's Teaching (Shield Parry)"
-    path: "Ta'loh Naeg's Teaching (Shield Parry).brstm"
-    type: warning
-  - id: hinox_battle
-    title: "Hinox Battle"
-    path: "Hinox Battle.brstm"
-    type: warning
-  - id: dragon_breath_of_the_wild
-    title: "Dragon"
-    path: "Dragon.brstm"
-    type: break
+  - id: attacking_divine_beast_vah_rudania
+    title: "Attacking Divine Beast Vah Rudania"
+    path: "Attacking Divine Beast Vah Rudania.brstm"
+    type: betting
+  - id: attacking_divine_beast_vah_ruta
+    title: "Attacking Divine Beast Vah Ruta"
+    path: "Attacking Divine Beast Vah Ruta.brstm"
+    tags: [xmas]
+    type: betting
   - id: dark_beast_ganon_hatred_and_malice_incarnate_phase_one
     title: "Dark Beast Ganon ~ Hatred and Malice Incarnate (Phase One)"
     path: "Dark Beast Ganon ~ Matred and Malice Incarnate (Phase One).brstm"
     type: betting
-  - id: calamity_ganon_scourge_of_hyrule_castle_phase_two
-    title: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase Two)"
-    path: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase Two).brstm"
-    type: battle
-  - id: battle_guardian
-    title: "Battle - Guardian"
-    path: "Battle - Guardian.brstm"
-    type: warning
-  - id: talus_battle
-    title: "Talus Battle"
-    path: "Talus Battle.brstm"
-    type: warning
-  - id: yiga_master_kohga_the_leader_of_the_yiga_clan
-    title: "Yiga Master Kohga ~ The Leader of the Yiga Clan"
-    path: "Yiga Master Kohga ~ The Leader of the Yiga Clan.brstm"
-    type: battle
+  - id: goron_city_day
+    title: "Goron City - Day"
+    path: "Goron City - Day.brstm"
+    type: betting
+  - id: horse_riding_night
+    title: "Horse Riding - Night"
+    path: "Riding (Night).brstm"
+    type: betting
   - id: hyrule_castle_full_channel_mix
     title: "Hyrule Castle (Full Channel Mix)"
     path: "Hyrule Castle (Full Channel Mix).brstm"
     type: betting
-  - id: main_theme_the_legend_of_zelda_breath_of_the_wild
+  - id: kakariko_village_day
+    title: "Kakariko Village - Day"
+    path: "Kakariko Village - Day.brstm"
+    type: betting
+  - id: korok_forest_day
+    title: "Korok Forest - Day"
+    path: "Korok Forest - Day.brstm"
+    type: betting
+  - id: main_theme_botw
     title: "Main Theme"
     path: "Main Theme.brstm"
     ends: 1:56
     type: betting
-  - id: calamity_ganon_scourge_of_hyrule_castle_phase_one
-    title: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase One)"
-    path: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase One).brstm"
-    type: warning
-  - id: goron_city_day
-    title: "Goron City - Day"
-    path: "Goron City - Day.brstm"
+  - id: rito_village_day_feat_kass_rito_children
+    title: "Rito Village - Day (feat. Kass & Rito Children)"
+    path: "Rito Village - Day (Kass and Children Whistling).brstm"
+    type: betting
+  - id: tarrey_town_married
+    title: "Tarrey Town - Married"
+    path: "Tarrey Town - Married.brstm"
+    type: betting
+  - id: the_final_trial_3_terminals
+    title: "The Final Trial - 3 Terminals"
+    path: "The Champion's Ballad - The Final Trial - (3 Terminals Active).brstm"
+    type: betting
+  - id: the_final_trial_all_terminals
+    title: "The Final Trial - All Terminals"
+    path: "The Champion's Ballad - The Final Trial - (All Terminals Active).brstm"
     type: betting
   - id: zoras_domain_day
     title: "Zora's Domain - Day"
     path: "Zora's Domain - Day.brstm"
     type: betting
+  - id: attacking_divine_beast_vah_medoh
+    title: "Attacking Divine Beast Vah Medoh"
+    path: "Attacking Divine Beast Vah Medoh.brstm"
+    type: warning
+  - id: battle_guardian
+    title: "Battle - Guardian"
+    path: "Battle - Guardian.brstm"
+    type: warning
+  - id: battle_molduga_submerged
+    title: "Battle - Molduga (Submerged)"
+    path: "Battle - Molduga.brstm"
+    type: warning
+  - id: calamity_ganon_scourge_of_hyrule_castle_phase_one
+    title: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase One)"
+    path: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase One).brstm"
+    type: warning
+  - id: hinox_battle
+    title: "Hinox Battle"
+    path: "Hinox Battle.brstm"
+    type: warning
+  - id: shrine_guardian
+    title: "Battle - Shrine Guardian"
+    path: "Battle - Shrine Guardian.brstm"
+    type: warning
+  - id: taloh_naegs_teaching_shield_parry
+    title: "Ta'loh Naeg's Teaching (Shield Parry)"
+    path: "Ta'loh Naeg's Teaching (Shield Parry).brstm"
+    type: warning
+  - id: talus_battle
+    title: "Talus Battle"
+    path: "Talus Battle.brstm"
+    type: warning
+  - id: attacking_divine_beast_vah_naboris
+    title: "Attacking Divine Beast Vah Naboris"
+    path: "Attacking Divine Beast Vah Naboris (Nearby).brstm"
+    type: battle
+  - id: battle_molduga_vulnerable
+    title: "Battle - Molduga (Vulnerable)"
+    path: "Battle - Molduga (Vulnerable).brstm"
+    type: battle
+  - id: calamity_ganon_scourge_of_hyrule_castle_phase_two
+    title: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase Two)"
+    path: "Calamity Ganon ~ Scourge of Hyrule Castle (Phase Two).brstm"
+    type: battle
+  - id: monk_maz_koshia_the_divine_trial
+    title: "Monk Maz Koshia ~ The Divine Trial"
+    path: "The Champion's Ballad - Boss - Monk Maz Koshia (Medley).brstm"
+    type: battle
+  - id: monk_maz_koshia_the_divine_trial_phase_1
+    title: "Monk Maz Koshia - The Divine Trial (Phase 1)"
+    path: "The Champion's Ballad - Boss - Monk Maz Koshia (Phase One).brstm"
+    type: battle
+  - id: yiga_master_kohga_the_leader_of_the_yiga_clan
+    title: "Yiga Master Kohga ~ The Leader of the Yiga Clan"
+    path: "Yiga Master Kohga ~ The Leader of the Yiga Clan.brstm"
+    type: battle
+  - id: dragon_botw
+    title: "Dragon"
+    path: "Dragon.brstm"
+    type: break
+  - id: gerudo_town_day
+    title: "Gerudo Town - Day"
+    path: "Gerudo Town - Day.brstm"
+    type: break
+  - id: great_fairy_fountain_botw
+    title: "Great Fairy Fountain"
+    path: "Great Fairy Fountain.brstm"
+    type: break
+  - id: hateno_village_day
+    title: "Hateno Village - Day"
+    path: "Hateno Village - Day.brstm"
+    type: break
+  - id: horse_god_spring
+    title: "Horse God Spring"
+    path: "Horse God Spring.brstm"
+    type: break
+  - id: horse_stable
+    title: "Horse Stable"
+    path: "Horse Stable.brstm"
+    type: break
+  - id: lurelin_village_day
+    title: "Lurelin Village - Day"
+    path: "Lurelin Village - Day.brstm"
+    type: break
+  - id: vast_world
+    title: "Vast World"
+    path: "Vast World.brstm"
+    type: break
 ...

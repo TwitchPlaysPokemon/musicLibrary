@@ -2,8 +2,8 @@
 id: final_fantasy_v
 title: "Final Fantasy V"
 series: finalfantasy
-year: 1992
 platform: "SFC"
+year: 1992
 songs:
   - id: four_valiant_hearts
     title: "Four Valiant Hearts"
@@ -44,6 +44,7 @@ songs:
   - id: walking_the_snowy_mountains
     title: "Walking the Snowy Mountains"
     path: "117 Walking the Snowy Mountains.spc"
+    tags: [xmas]
     type: result
   - id: the_dragon_spreads_its_wings
     title: "The Dragon Spreads Its Wings"

@@ -5,6 +5,11 @@ series: tokimekimemorial
 platform: "SFC"
 year: 1996
 songs: 
+  - id: winter_tokimeki_memorial_snes
+    title: "Winter"
+    path: "022 Winter.spc"
+    tags: [xmas]
+    type: result
   - id: magic_bell
     title: "Magic Bell"
     path: "065 Magic Bell.spc"
@@ -28,5 +33,25 @@ songs:
   - id: samurai_play
     title: "Samurai Play"
     path: "114 Samurai Play.spc"
+    type: warning
+  - id: christmas_tokimeki_memorial_snes
+    title: "Christmas"
+    path: "122 Christmas.spc"
+    tags: [xmas]
+    type: result
+  - id: christmas_party
+    title: "Christmas Party"
+    path: "123 Christmas Party.spc"
+    tags: [xmas]
+    type: result
+  - id: new_year_s_day
+    title: "New Year's Day"
+    path: "127 New Year's Day.spc"
+    tags: [xmas]
+    type: betting
+  - id: new_year_s_fortune
+    title: "New Year's Fortune"
+    path: "128 New Year's Fortune.spc"
+    tags: [xmas]
     type: warning
 ...

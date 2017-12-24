@@ -1,0 +1,32 @@
+---
+id: excite_truck
+title: "Excite Truck"
+series: excite
+platform: "Wii"
+year: 2006
+songs: 
+  - id: fiji
+    title: "Fiji"
+    path: "Fiji.brstm"
+    type: betting
+  - id: canada
+    title: "Canada"
+    path: "Canada.brstm"
+    type: warning
+  - id: china
+    title: "China"
+    path: "China.brstm"
+    type: warning
+  - id: mexico
+    title: "Mexico"
+    path: "Mexico.brstm"
+    type: warning
+  - id: finland
+    title: "Finland"
+    path: "Finland.brstm"
+    type: battle
+  - id: scotland
+    title: "Scotland"
+    path: "Scotland.brstm"
+    type: battle
+...

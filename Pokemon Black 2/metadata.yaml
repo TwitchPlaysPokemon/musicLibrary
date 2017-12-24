@@ -160,10 +160,12 @@ songs:
   - id: battle_kyuewm
     path: "251 SEQ_BGM_VS_KYUROMU (04e8).mini2sf"
     title: "Battle! Kyurem" #Song needs to have its title changed to specify whether it plays for White or Black Kyurem.
+    tags: [xmas]
     type: battle
   - id: battle_kyurem_b2w2
     path: "Battle! Kyurem.mini2sf"
     title: "Battle! Kyurem" #Song needs to have its title changed to specify whether it plays for White or Black Kyurem.
+    tags: [xmas]
     type: battle
   - id: nimbasa_city_gym_2
     path: "Nimbasa City Gym.mini2sf"
@@ -320,6 +322,7 @@ songs:
   - id: frozen_city_b2w2
     path: "Frozen City.brstm"
     title: "Frozen City"
+    tags: [xmas]
     type: warning
   - id: infiltrate_the_plasma_frigate
     path: "Infiltrate the Plasma Frigate!.brstm"
@@ -397,4 +400,19 @@ songs:
     path: "218 SEQ_BGM_LCG_01 (04c7).mini2sf"
     title: "Xtransceiver Minigames"
     type: result
+  - id: zinzolin_s_theme
+    path: "235 SEQ_BGM_E_7_SAGE (04d8).mini2sf"
+    title: "Zinzolin's Theme"
+    tags: [xmas]
+    type: warning
+  - id: route_22_autumn_winter
+    path: "178 SEQ_BGM_SW_R_22_WI (049f).mini2sf"
+    title: "Route 22 (Winter)"
+    tags: [xmas]
+    type: betting
+  - id: route_19_autumn_winter
+    path: "174 SEQ_BGM_SW_R_19_WI (049b).mini2sf"
+    title: "Route 19 (Winter)"
+    tags: [xmas]
+    type: betting
 ...

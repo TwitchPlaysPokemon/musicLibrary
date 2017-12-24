@@ -1,17 +1,89 @@
+---
 id: toy_story_2_buzz_lightyear_to_the_rescue
 title: "Toy Story 2: Buzz Lightyear to the Rescue"
+platform: "Various"
+#other platforms: ["N64", "PS1", "GBC", "DC", "PC"]
 year: 1999
-platform: ["N64", "PS1", "DC", "PC"]
 songs:
+  - id: airport_infiltration
+    title: "Airport Infiltration"
+    path: "Airport Infiltration.brstm"
+    ends: 3:07
+    type: betting
+  - id: alleys_and_gullies
+    title: "Alleys and Gullies"
+    path: "Alleys and Gullies.brstm"
+    ends: 2:42
+    type: betting
+  - id: als_penthouse
+    title: "Al's Penthouse"
+    path: "Al's Penthouse.brstm"
+    type: betting
+  - id: als_toy_barn
+    title: "Al's Toy Barn"
+    path: "Al's Toy Barn.brstm"
+    type: betting
+  - id: andys_house
+    title: "Andy's House"
+    path: "Andy's House.brstm"
+    ends: 3:04
+    type: betting
+  - id: andys_neighborhood
+    title: "Andy's Neighborhood"
+    path: "Andy's Neighborhood.brstm"
+    type: betting
+  - id: challenge_theme_toy_story_2_buzz_lightyear_to_the_rescue
+    title: "Challenge Theme"
+    path: "Challenge Theme.brstm"
+    type: betting
+  - id: menu_screen_toy_story_2_buzz_lightyear_to_the_rescue
+    title: "Menu Screen"
+    path: "Menu Screen.brstm"
+    type: betting
+  - id: slime_time
+    title: "Slime Time"
+    path: "Slime Time.brstm"
+    ends: 2:44
+    type: betting
+  - id: tarmac_trouble
+    title: "Tarmac Trouble"
+    path: "Tarmac Trouble.brstm"
+    ends: 3:00
+    type: betting
+  - id: als_space_land
+    title: "Al's Space Land"
+    path: "Al's Space Land.brstm"
+    type: warning
+  - id: bombs_away
+    title: "Bombs Away"
+    path: "Bombs Away.brstm"
+    type: warning
+  - id: credits_toy_story_2_buzz_lightyear_to_the_rescue
+    title: "Credits"
+    path: "Credits.brstm"
+    type: warning
+  - id: elevator_hop
+    title: "Elevator Hop"
+    path: "Elevator Hop.brstm"
+    type: warning
+  - id: final_showdown_toy_story_2_buzz_lightyear_to_the_rescue
+    title: "Final Showdown"
+    path: "Final Showdown.brstm"
+    type: warning
+  - id: mini_boss_theme_toy_story_2_buzz_lightyear_to_the_rescue
+    title: "Mini Boss Theme"
+    path: "Mini Boss Theme.brstm"
+    type: warning
+  - id: the_evil_emperor_zurg
+    title: "The Evil Emperor Zurg"
+    path: "The Evil Emperor Zurg.brstm"
+    type: warning
+  - id: toy_barn_encounter
+    title: "Toy Barn Encounter"
+    path: "Toy Barn Encounter.brstm"
+    type: warning
   - id: construction_yard
     title: "Construction Yard"
     path: "Construction Yard.brstm"
     type: break
-  - id: andy_neighborhood
-    title: "Andy's Neighborhood"
-    path: "Andy's Neighborhood.brstm"
-    type: betting
-  - id: al_toy_barn
-    title: "Al's Toy Barn"
-    path: "Al's Toy Barn.brstm"
-    type: betting
+...

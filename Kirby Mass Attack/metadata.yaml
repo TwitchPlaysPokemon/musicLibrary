@@ -1,8 +1,9 @@
+---
 id: kirby_mass_attack
 title: "Kirby Mass Attack"
 series: kirby
-year: 2011
 platform: "NDS"
+year: 2011
 songs:
   - id: way_blocked
     title: "Way Blocked"
@@ -11,6 +12,7 @@ songs:
   - id: ice_realm
     title: "Icy Realm"
     path: "Icy Realm.brstm"
+    tags: [xmas]
     type: betting
   - id: scalding_spring
     title: "Scalding Spring"
@@ -32,3 +34,4 @@ songs:
     title: "The Skull Gang"
     path: "The Skull Gang.brstm"
     type: warning
+...

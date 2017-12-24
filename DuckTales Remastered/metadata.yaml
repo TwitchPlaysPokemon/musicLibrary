@@ -34,4 +34,9 @@ songs:
     title: "Hub World"
     path: "m_stage_hubworld.fsb"
     type: break
+  - id: himalayas_ducktales_remastered
+    title: "Himalayas"
+    path: "m_stage_himalayas.fsb"
+    tags: [xmas]
+    type: betting
 ...

@@ -52,6 +52,7 @@ songs:
   - id: snowball_park_smw3d
     title: "Snowball Park"
     path: "Snowball Park.brstm"
+    tags: [xmas]
     type: betting
   - id: a_boss_approaches
     title: "A Boss Approaches"
@@ -65,4 +66,9 @@ songs:
     title: "SUPER MARIO 3D WORLD Theme"
     path: "Super Mario 3D World Theme.brstm"
     type: result
+  - id: world_3_3d_world_theme
+    title: "World 3"
+    path: "World 3.brstm"
+    tags: [xmas]
+    type: break
 ...

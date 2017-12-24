@@ -2,17 +2,9 @@
 id: knuckles_chaotix
 title: "Knuckles' Chaotix"
 series: sonic
-year: 1995
 platform: "32X"
+year: 1995
 songs:
-  - id: soda_pop
-    title: "Soda Pop"
-    path: "Soda Pop.vgz"
-    type: warning
-  - id: combination
-    title: "Combination"
-    path: "Combination.vgz"
-    type: break
   - id: door_into_summer_kc
     title: "Door Into Summer"
     path: "Door Into Summer.vgz"
@@ -23,14 +15,6 @@ songs:
     path: "Electoria.vgz"
     ends: 2:02
     type: betting
-  - id: evening_star
-    title: "Evening Star"
-    path: "Evening Star.vgz"
-    type: break
-  - id: hyper_hyper
-    title: "Hyper-Hyper"
-    path: "Hyper-Hyper.vgz"
-    type: result
   - id: midnight_greenhouse
     title: "Midnight Greenhouse"
     path: "Midnight Greenhouse.vgz"
@@ -39,26 +23,6 @@ songs:
     title: "Speed of Sound"
     path: "Speed of Sound.vgz"
     type: betting
-  - id: walkin_kc
-    title: "Walkin"
-    path: "Walkin.vgz"
-    type: result
-#      - id: electoria_beta
-#        title: "Electoria (Beta)"
-#        path: "Electoria (Beta).brstm"
-#        type: result
-#      - id: evening_star_beta
-#        title: "Evening Star (Beta)"
-#        path: "Evening Star (Beta).brstm"
-#        type: result
-#      - id: hyper_hyper_beta
-#        title: "Hyper-Hyper (Beta)"
-#        path: "Hyper-Hyper (Beta).brstm"
-#        type: result
-#      - id: walkin_beta
-#        title: "Walkin (Beta)"
-#        path: "Walkin (Beta).brstm"
-#        type: result
   - id: childs_song
     title: "Child's Song"
     path: "Child's Song.vgz"
@@ -79,6 +43,10 @@ songs:
     title: "Silver Screen"
     path: "Silver Screen.vgz"
     type: warning
+  - id: soda_pop
+    title: "Soda Pop"
+    path: "Soda Pop.vgz"
+    type: warning
   - id: steel_heart_kc
     title: "Steel Heart"
     path: "Steel Heart.vgz"
@@ -87,4 +55,24 @@ songs:
     title: "Surprise!"
     path: "Surprise.vgz"
     type: warning
+  - id: hyper_hyper
+    title: "Hyper-Hyper"
+    path: "Hyper-Hyper.vgz"
+    type: result
+  - id: this_horizon_kc
+    title: "This Horizon"
+    path: "16 - This Horizon.vgz"
+    type: result
+  - id: walkin_kc
+    title: "Walkin"
+    path: "Walkin.vgz"
+    type: result
+  - id: combination
+    title: "Combination"
+    path: "Combination.vgz"
+    type: break
+  - id: evening_star
+    title: "Evening Star"
+    path: "Evening Star.vgz"
+    type: break
 ...

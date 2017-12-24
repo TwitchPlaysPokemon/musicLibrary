@@ -1,6 +1,7 @@
 ---
 id: pokepark_wii_pikachus_adventure
 title: "PokéPark Wii: Pikachu's Adventure"
+series: pokemon
 platform: "Wii"
 year: 2009
 songs: 
@@ -32,4 +33,14 @@ songs:
     title: "Battle (Strong Pokémon)"
     path: "battle_normal.brstm"
     type: battle
+  - id: iceberg_zone
+    title: "Iceberg Zone"
+    path: "Iceberg Zone.brstm"
+    tags: [xmas]
+    type: break
+  - id: iceberg_zone_empoleon
+    title: "Iceberg Zone (Empoleon)"
+    path: "Iceberg Zone (Empoleon).brstm"
+    tags: [xmas]
+    type: betting
 ...

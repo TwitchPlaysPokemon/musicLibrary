@@ -7,6 +7,18 @@ year: 2010
 songs: 
   - id: clover_club_off_vocal
     title: "Clover♣Club (Off Vocal)"
-    path: "pv_061.ogg"
+    path: "Clover♣Club (Off Vocal).brstm"
     type: betting
+  - id: play_status_hatsune_miku_project_diva_2nd
+    title: "Play Status"
+    path: "Play Status.brstm"
+    type: betting
+  - id: title_screen_hatsune_miku_project_diva_2nd
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: gallery_hatsune_miku_project_diva_2nd
+    title: "Gallery"
+    path: "Gallery.brstm"
+    type: break
 ...

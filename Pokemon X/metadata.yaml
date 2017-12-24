@@ -224,6 +224,7 @@ songs:
   - id: route_15
     title: "Route 15"
     path: "Route 15.brstm"
+    tags: [xmas]
     type: betting
   - id: route_18
     title: "Route 18"
@@ -268,6 +269,7 @@ songs:
   - id: snowbelle_city
     title: "Snowbelle City"
     path: "Snowbelle City.brstm"
+    tags: [xmas]
     type: betting
   - id: super_training
     title: "Super Training!"

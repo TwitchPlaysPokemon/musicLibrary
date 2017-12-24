@@ -44,6 +44,7 @@ songs:
   - id: over_wintry_mountains
     title: "Over Wintry Mountains"
     path: "BGM_36_special_course_4_head.dspadpcm.bcstm"
+    tags: [xmas]
     type: betting
   - id: ravaged_rustworks_area_select
     title: "Ravaged Rustworks - Area Select"
@@ -60,10 +61,12 @@ songs:
   - id: snowball_field_area_select
     title: "Snowball Field - Area Select"
     path: "BGM_11__7_course_select.dspadpcm.bcstm"
+    tags: [xmas]
     type: break
   - id: snowball_field_overworld
     title: "Snowball Field - Overworld"
     path: "BGM_26_W7_course_head.dspadpcm.bcstm"
+    tags: [xmas]
     type: betting
   - id: sparkling_labyrinth_area_select
     title: "Sparkling Labyrinth - Area Select"

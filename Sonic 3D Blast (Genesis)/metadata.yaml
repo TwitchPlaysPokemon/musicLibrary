@@ -27,6 +27,7 @@ songs:
   - id: diamond_dust_zone_1
     title: "Diamond Dust Zone Act 1"
     path: "Diamond Dust Zone Act 1.vgz"
+    tags: [xmas]
     type: betting
   - id: rusty_ruin_zone_1
     title: "Rusty Ruin Zone Act 1"
@@ -55,6 +56,7 @@ songs:
   - id: diamond_dust_zone_2
     title: "Diamond Dust Zone Act 2"
     path: "Diamond Dust Zone Act 2.vgz"
+    tags: [xmas]
     type: result
   - id: special_stage_s3dblast_genesis
     title: "Special Stage"

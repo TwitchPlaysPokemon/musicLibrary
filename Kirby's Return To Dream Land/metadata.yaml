@@ -52,6 +52,7 @@ songs:
   - id: chilly_area_return_to_dreamland
     title: "Chilly Area"
     path: "chilly.brstm"
+    tags: [xmas]
     type: break
   - id: key_challenge_return_to_dreamland
     title: "Key Challenge"
@@ -72,17 +73,21 @@ songs:
   - id: frosty_area_kirbys_return_to_dreamland
     title: "Frosty Area"
     path: "KbyW_COLD2.brstm"
+    tags: [xmas]
     type: betting
   - id: icy_cavern_kirbys_return_to_dreamland
     title: "Icy Cavern"
     path: "KbyW_HEN1.brstm"
+    tags: [xmas]
     type: betting
   - id: aurora_area_kirbys_return_to_dreamland
     title: "Aurora Area"
     path: "KbyW_TOUT1.brstm"
+    tags: [xmas]
     type: betting
   - id: white_wafers_kirbys_return_to_dreamland
     title: "White Wafers"
     path: "st_ice.brstm"
+    tags: [xmas]
     type: warning
 ...

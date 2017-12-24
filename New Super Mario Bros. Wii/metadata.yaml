@@ -96,6 +96,7 @@ songs:
   - id: world_3_map_nsmbw
     title: "World 3 Map"
     path: "select_map03_yuki.ry.32.brstm"
+    tags: [xmas]
     type: warning
   - id: switch_nsmbw
     title: "Switch"
@@ -104,6 +105,7 @@ songs:
   - id: snow_main_track_nsmbw
     title: "Snow - Main Track"
     path: "Snow - Main Track.brstm"
+    tags: [xmas]
     type: betting
   - id: battle_2_nsmbw
     title: "Battle"

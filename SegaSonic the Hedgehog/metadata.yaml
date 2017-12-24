@@ -1,13 +1,14 @@
 ---
 id: segasonic_the_hedgehog
-platform: "Arcade"
 title: "SegaSonic the Hedgehog"
 series: sonic
+platform: "Arcade"
 year: 1993
 songs: 
   - id: ice_and_water
     path: "Ice & Water.vgz"
     title: "Ice & Water"
+    tags: [xmas]
     type: betting
   - id: quick_escape
     path: "Quick! Escape!.vgz"

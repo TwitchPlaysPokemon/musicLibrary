@@ -16,10 +16,12 @@ songs:
   - id: jangle_bells
     title: "Jangle Bells"
     path: "08 Jangle Bells.spc"
+    tags: [xmas]
     type: betting
   - id: frosty_frolics
     title: "Frosty Frolics"
     path: "09 Frosty Frolics.spc"
+    tags: [xmas]
     type: betting
   - id: treetop_tumble
     title: "Treetop Tumble"
@@ -104,6 +106,7 @@ songs:
   - id: northern_kremisphere
     title: "Northern Kremisphere"
     path: "04 Northern Kremisphere.spc"
+    tags: [xmas]
     type: break
   - id: submap_shuffle
     title: "Submap Shuffle"

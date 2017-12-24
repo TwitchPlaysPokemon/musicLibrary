@@ -33,4 +33,19 @@ songs:
     title: "GBA Bowser Castle 3"
     path: "r_AGB_Kuppa32_n.brstm"
     type: battle
+  - id: dk_s_snowboard_cross_dk_summit
+    title: "DK’s Snowboard Cross_DK Summit"
+    path: "DK’s Snowboard Cross_DK Summit.brstm"
+    tags: [xmas]
+    type: betting
+  - id: dk_s_snowboard_cross_fast
+    title: "DK’s Snowboard Cross (Fast)"
+    path: "DK’s Snowboard Cross (Fast).brstm"
+    tags: [xmas]
+    type: warning
+  - id: n64_sherbet_land_frontrunning
+    title: "N64 Sherbet Land (Frontrunning)"
+    path: "N64 Sherbet Land (Frontrunning).brstm"
+    tags: [xmas]
+    type: betting
 ...

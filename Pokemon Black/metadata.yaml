@@ -96,6 +96,7 @@ songs:
   - id: cool_storage
     path: "203 - Freezer Containers.mini2sf"
     title: "Cool Storage"
+    tags: [xmas]
     type: betting
   - id: route_6_spring
     path: "204a - Route 6 (Spring).mini2sf"
@@ -176,6 +177,7 @@ songs:
   - id: route_2_winter
     path: "302b - Route 2 (Winter).mini2sf"
     title: "Route 2 (Winter)"
+    tags: [xmas]
     type: betting
   - id: wifi_connection
     path: "305 - Wi-Fi Connection.mini2sf"
@@ -356,6 +358,7 @@ songs:
   - id: battle_kyurem
     path: "410 - Battle! Kyurem.mini2sf"
     title: "Battle! (Kyurem)"
+    tags: [xmas]
     type: battle
   - id: battle_champion_black_white
     path: "412 - Battle! Champion.mini2sf"
@@ -497,10 +500,14 @@ songs:
     path: "230 - Siege on the Pokémon League.mini2sf"
     title: "The Pokémon League Besieged!"
     type: warning
-  - id: ghetsis_ambitions_geechisu
+  - id: ghetsis_ambitions
     path: "238 - Geechisu's Ambitions.mini2sf"
     title: "Ghetsis' Ambitions"
     type: warning
+  - id: farewell
+    path: "240 - Farewell.mini2sf"
+    title: "Farewell"
+    type: break
   - id: spin_trade
     path: "308 - Spin Trade.mini2sf"
     title: "Spin Trade"

@@ -299,8 +299,9 @@ songs:
     title: "Results Display Screen"
     path: "Results Display Screen.brstm"
     type: result
-  - id: snowman
+  - id: snowman_brawl
     title: "Snowman"
     path: "Snowman.brstm"
+    tags: [xmas]
     type: break
 ...

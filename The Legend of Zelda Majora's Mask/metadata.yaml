@@ -52,10 +52,12 @@ songs:
   - id: snow_mountain
     title: "Snow Mountain"
     path: "201 - Snow Mountain.miniusf"
+    tags: [xmas]
     type: betting
   - id: snowhead_temple
     title: "Snowhead Temple"
     path: "206 - Snowhead Temple.miniusf"
+    tags: [xmas]
     type: break
   - id: boss_battle_majora
     title: "Boss Battle"

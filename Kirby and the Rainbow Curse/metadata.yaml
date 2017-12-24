@@ -37,7 +37,7 @@ songs:
     title: "Rainbow Across The Skies"
     path: "Rainbow Across the Skies.brstm"
     type: result
-  - id: revenge_of_the_enemy_rainbow_curse
+  - id: revenge_of_the_enemy_kirby_and_the_rainbow_curse
     title: "Revenge of the Enemy"
     path: "Revenge of the Enemy.brstm"
     type: battle
@@ -69,4 +69,53 @@ songs:
     title: "Reading the Secret Diary"
     path: "BGM_STR_DIARY.dspadpcm.bfstm"
     type: break
+  - id: boss_battle_kirby_super_star
+    title: "Boss Battle (Kirby Super Star)"
+    path: "BGM_STR_SDX_MID_BOSS.dspadpcm.bfstm"
+    type: battle
+  - id: boss_battle_kirby_s_dream_land
+    title: "Boss Battle (Kirby's Dream Land)"
+    path: "BGM_STR_ANI_POMP_MARCHE1.dspadpcm.bfstm"
+    type: warning
+  - id: challenge_mode_kirby_and_the_rainbow_curse
+    title: "Challenge Mode"
+    path: "BGM_STR_GB1_TITLE.dspadpcm.bfstm"
+    type: betting
+  - id: dethskullk_jam
+    title: "Dethskullk Jam"
+    path: "BGM_STR_STAGE_3_2_MELODYLESS.dspadpcm.bfstm"
+    type: betting
+  - id: kirby_medley
+    title: "Kirby Medley"
+    path: "BGM_STR_KIRBY_MEDLAY.dspadpcm.bfstm"
+    type: betting
+  - id: snowball_scuffle
+    title: "Snowball Scuffle"
+    path: "BGM_STR_ST_KBYW_COLD2.dspadpcm.bfstm"
+    tags: [xmas]
+    type: betting
+  - id: green_greens_kirby_and_the_rainbow_curse
+    title: "Green Greens"
+    path: "BGM_STR_ANI_GREEN_8.dspadpcm.bfstm"
+    type: betting
+  - id: milky_way_wishes
+    title: "Milky Way Wishes"
+    path: "BGM_STR_SDX_GALAXY_TITLE.dspadpcm.bfstm"
+    type: break
+  - id: king_dedede_s_theme_kirby_mass_attack
+    title: "King Dedede's Theme (Kirby Mass Attack)"
+    path: "BGM_STR_BOSS_01.dspadpcm.bfstm"
+    type: battle
+  - id: moonlight_capital
+    title: "Moonlight Capital"
+    path: "BGM_STR_PARUFE_ELEC1.dspadpcm.bfstm"
+    type: betting
+  - id: the_legendary_halberd_kirby_and_the_rainbow_curse
+    title: "The Legendary Halberd"
+    path: "BGM_STR_DORO_4_4.dspadpcm.bfstm"
+    type: betting
+  - id: watch_out_for_that_sloth
+    title: "Watch Out For That Sloth"
+    path: "BGM_STR_STAGE_5_3_MAP4.dspadpcm.bfstm"
+    type: betting
 ...

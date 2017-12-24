@@ -62,28 +62,44 @@ songs:
     title: "Kecleon Shop"
     path: "Kecleon Shop.mini2sf"
     type: break
-  - id: theres_trouble
+  - id: theres_trouble_pmd_blue
     title: "There's Trouble!"
     path: "06 There's Trouble! [SND_BGM_M_EVENT_KINPAKU].mini2sf"
     type: warning
-  - id: sinister_woods
+  - id: sinister_woods_pmd_blue
     title: "Sinister Woods"
     path: "18 Sinister Woods [SND_BGM_M_DUNGEON_AYASHIIMORI_01].mini2sf"
     type: betting
-  - id: thief
+  - id: thief_pmd_blue
     title: "Thief!"
     path: "30 Thief! [SND_BGM_M_SYS_STEAL].mini2sf"
     type: warning
-  - id: gardevoir_inside_of_a_dream
+  - id: gardevoir_inside_of_a_dream_pmd_blue
     title: "Gardevoir Inside of a Dream"
     path: "34 Gardevoir Inside of a Dream [SND_BGM_M_EVENT_DREAM_02].mini2sf"
     type: break
-  - id: its_a_monster_house
+  - id: its_a_monster_house_pmd_blue
     title: "It's a Monster House!"
     path: "37 It's a Monster House! [SND_BGM_M_SYS_MONSTER].mini2sf"
     type: battle
-  - id: battle_with_rayquaza
+  - id: battle_with_rayquaza_pmd_blue
     title: "Battle with Rayquaza"
     path: "43 Battle with Rayquaza [SND_BGM_M_BOSS02].mini2sf"
     type: battle
+  - id: frosty_forest_pmd_blue
+    title: "Frosty Forest"
+    path: "32 Frosty Forest [SND_BGM_M_DUNGEON_JUHYOU_01].mini2sf"
+    type: betting
+  - id: frosty_grotto_pmd_blue
+    title: "Frosty Grotto"
+    path: "33 Frosty Grotto [SND_BGM_M_DUNGEON_JUHYOU_02].mini2sf"
+    type: warning
+  - id: mt_freeze_pmd_blue
+    title: "Mt. Freeze"
+    path: "35 Mt. Freeze [SND_BGM_M_DUNGEON_REIHOU_01].mini2sf"
+    type: betting
+  - id: mt_freeze_peak_pmd_blue
+    title: "Mt. Freeze Peak"
+    path: "36 Mt. Freeze Peak [SND_BGM_M_DUNGEON_REIHOU_02].mini2sf"
+    type: betting
 ...

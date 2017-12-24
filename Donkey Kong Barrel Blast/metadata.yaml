@@ -1,0 +1,18 @@
+---
+id: donkey_kong_barrel_blast
+title: "Donkey Kong: Barrel Blast"
+series: donkeykong
+platform: "Wii"
+year: 2007
+songs: 
+  - id: alpine_peaks
+    title: "Alpine Peaks"
+    path: "Alpine Peaks.brstm"
+    tags: [xmas]
+    type: betting
+  - id: mammoth_glacier
+    title: "Mammoth Glacier"
+    path: "Mammoth Glacier.brstm"
+    tags: [xmas]
+    type: betting
+...

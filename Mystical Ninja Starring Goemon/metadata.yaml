@@ -1,8 +1,9 @@
+---
 id: mystical_ninja_starring_goemon
 title: "Mystical Ninja Starring Goemon"
-year: 1997
+series: ganbaregoemon
 platform: "N64"
-series: goemon
+year: 1997
 songs:
   - id: rescue_the_feudal_lord_a
     title: "Rescue the Feudal Lord! A"
@@ -12,7 +13,18 @@ songs:
     title: "Farm Village Legend"
     path: "31 Farm Village Legend.miniusf"
     type: betting
+  - id: the_melting_snow_goes_along_with_the_festival
+    title: "The Melting Snow Goes Along With the Festival"
+    path: "43 The Melting Snow Goes Along With the Festival.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: the_deep_flickering_white_shadow
+    title: "The Deep, Flickering White Shadow"
+    path: "44 The Deep, Flickering White Shadow.miniusf"
+    tags: [xmas]
+    type: betting
   - id: kabuking
     title: "Kabuking"
     path: "51 Kabuking.miniusf"
     type: betting
+...

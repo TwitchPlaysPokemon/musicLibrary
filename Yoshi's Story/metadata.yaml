@@ -9,11 +9,6 @@ songs:
     title: "Yo-Yo-Yoshi"
     path: "Yo-Yo-Yoshi.miniusf"
     type: break
-#      - id: yoshis_disco
-#        title: "Yoshi's Disco"
-#        path: "Yoshi's Disco.brstm"
-#        type: betting
-# nope
   - id: love_is_in_the_air
     title: "Love Is In The Air"
     path: "07a Love Is In The Air.miniusf"
@@ -38,4 +33,13 @@ songs:
     title: "Yoshi's Mood"
     path: "Yoshi's Mood.brstm"
     type: break
+  - id: yoshi_mood
+    title: "Yoshi's Mood"
+    path: "Yoshi's Mood.brstm"
+    type: break
+  - id: alpina_blue
+    title: "Alpina Blue"
+    path: "09a Alpina Blue.miniusf"
+    tags: [xmas]
+    type: betting
 ...

@@ -9,18 +9,26 @@ songs:
     title: "Betus Blues"
     path: "Betus Blues.brstm"
     type: betting
+  - id: betus_blues_retro_ch_2_warp_zone
+    title: "Betus Blues RETRO (Ch 2 Warp Zone)"
+    path: "Betus Blues RETRO (Ch 2 Warp Zone).brstm"
+    type: betting
   - id: can_o_salt
     title: "Can o' Salt"
     path: "Can o' Salt.brstm"
+    type: betting
+  - id: can_o_salt_retro_ch_3_warp_zone
+    title: "Can O'Salt RETRO (Ch 3 Warp Zone)"
+    path: "Can O'Salt RETRO (Ch 3 Warp Zone).brstm"
     type: betting
   - id: forest_funk
     title: "Forest Funk"
     path: "Forest Funk.brstm"
     type: betting
-  - id: hot_damned
-    title: "Hot Damned"
-    path: "Hot Damned.brstm"
-    type: battle
+  - id: forest_funk_retro
+    title: "Forest Funk RETRO"
+    path: "Forest Funk RETRO.brstm"
+    type: betting
   - id: it_ends_retro
     title: "It Ends RETRO"
     path: "It Ends RETRO (Ch 5 Warp Zone).brstm"
@@ -33,10 +41,6 @@ songs:
     title: "C.H.A.D.'s Broken Wind"
     path: "C.H.A.D.'s Broken Wind.brstm"
     type: betting
-  - id: devil_n_bass_ch_4_dark_world
-    title: "Devil N' Bass (Ch 4 Dark World)"
-    path: "Devil N' Bass (Ch 4 Dark World).brstm"
-    type: battle
   - id: dr_fetus_castle_ch_5_dark_world
     title: "Dr. Fetus' Castle (Ch 5 Dark World)"
     path: "Dr. Fetus' Castle (Ch 5 Dark World).brstm"
@@ -45,18 +49,10 @@ songs:
     title: "It Ends (Ch 5 Light World)"
     path: "It Ends (Ch 5 Light World).brstm"
     type: betting
-  - id: it_ends_with_a_whimper
-    title: "It Ends with a Whimper"
-    path: "It Ends with a Whimper.brstm"
-    type: break
   - id: lights_out_vita_ch_2_dark
     title: "Lights Out (Vita Ch 2 Dark)"
     path: "Lights Out (Vita Ch 2 Dark).brstm"
     type: betting
-  - id: lil_slugger_battle_rb3_version
-    title: "Lil' Slugger Battle (RB3 Version)"
-    path: "Lil' Slugger Battle (RB3 version).brstm"
-    type: battle
   - id: mclarty_party_people_cotton_alley_levels
     title: "McLarty Party People (Cotton Alley Levels)"
     path: "McLarty Party People (Cotton Alley Levels).brstm"
@@ -69,8 +65,36 @@ songs:
     title: "Rocket Rider (Ch 3 Dark World)"
     path: "Rocket Rider (Ch 3 Dark World).brstm"
     type: betting
+  - id: 165_vita_ch_2_boss
+    title: "165° (Vita Ch 2 Boss)"
+    path: "165° (Vita Ch 2 Boss).brstm"
+    type: warning
+  - id: dash_assault_vita_ch_3_boss
+    title: "Dash Assault (Vita Ch 3 Boss)"
+    path: "Dash Assault (Vita Ch 3 Boss).brstm"
+    type: warning
+  - id: hot_damned_retro_ch_4_warp_zone
+    title: "Hot Damned RETRO (Ch 4 Warp Zone)"
+    path: "Hot Damned RETRO (Ch 4 Warp Zone).brstm"
+    type: warning
+  - id: devil_n_bass_ch_4_dark_world
+    title: "Devil N' Bass (Ch 4 Dark World)"
+    path: "Devil N' Bass (Ch 4 Dark World).brstm"
+    type: battle
+  - id: hot_damned
+    title: "Hot Damned"
+    path: "Hot Damned.brstm"
+    type: battle
+  - id: lil_slugger_battle_rb3_version
+    title: "Lil' Slugger Battle (RB3 Version)"
+    path: "Lil' Slugger Battle (RB3 version).brstm"
+    type: battle
   - id: world_map_theme_super_meat_boy
     title: "World Map Theme"
     path: "World Map Theme.brstm"
     type: result
+  - id: it_ends_with_a_whimper
+    title: "It Ends with a Whimper"
+    path: "It Ends with a Whimper.brstm"
+    type: break
 ...

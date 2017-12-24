@@ -1,11 +1,23 @@
 ---
 id: kahoot
-title: "Kahoot"
+title: "Kahoot!"
 platform: ["PC", "Mobile"]
 year: 2013
 songs: 
+  - id: 10_second_countdown_groovy
+    title: "10 Second Countdown (Groovy)"
+    path: "10 Second Countdown (Groovy).brstm"
+    type: warning
+  - id: 20_second_countdown_groovy
+    title: "20 Second Countdown (Groovy)"
+    path: "20 Second Countdown (Groovy).brstm"
+    type: warning
   - id: 20_second_countdown_original
     title: "20 Second Countdown (Original)"
     path: "20 Second Countdown (Original).brstm"
+    type: warning
+  - id: 30_second_countdown_groovy
+    title: "30 Second Countdown (Groovy)"
+    path: "30 Second Countdown (Groovy).brstm"
     type: warning
 ...

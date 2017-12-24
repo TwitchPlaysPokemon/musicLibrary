@@ -2,29 +2,25 @@
 id: the_legend_of_zelda_twilight_princess
 title: "The Legend of Zelda: Twilight Princess"
 series: zelda
-platform: ["Wii", "GC"]
+platform: ["Wii", "GCN"]
 year: 2006
 songs:
-  - id: after_the_battle
-    title: "After the Battle"
-    path: "After the Battle.brstm"
-    type: result
-  - id: zoras_domain_tloztp
-    title: "Zora's Domain"
-    path: "Zora's Domain.brstm"
-    type: break
   - id: agitha_castle
     title: "Agitha's Castle"
     path: "Agitha's Castle.brstm"
+    type: betting
+  - id: death_mountain_loztp
+    title: "Death Mountain"
+    path: "Death Mountain.brstm"
     type: betting
   - id: hyrule_castle_town_central_square
     title: "Hyrule Castle Town - Central Square"
     path: "Hyrule Castle Town - Central Square.brstm"
     type: betting
-  - id: wild_goat
-    title: "Wild Goat"
-    path: "Wild Goat.brstm"
-    type: warning
+  - id: lakebed_temple
+    title: "Lakebed Temple"
+    path: "Lakebed Temple.brstm"
+    type: betting
   - id: midna_in_distress
     title: "Midna in Distress"
     path: "Midna in Distress.brstm"
@@ -32,37 +28,54 @@ songs:
   - id: sled_game_loztp
     title: "Sled Game"
     path: "Sled Game.brstm"
+    tags: [xmas]
     type: betting
-  - id: cargo_game_loztp
-    title: "Cargo Game"
-    path: "Cargo Game.brstm"
-    type: result
-  - id: death_mountain_loztp
-    title: "Death Mountain"
-    path: "Death Mountain.brstm"
+  - id: snowpeak_ruins
+    title: "Snowpeak Ruins"
+    path: "Snowpeak Ruins.brstm"
+    tags: [xmas]
     type: betting
   - id: twilit_cargo_game
     title: "Twilit Cargo Game"
     path: "Twilit Cargo Game.brstm"
     type: warning
-  - id: palace_of_twilight_exterior
-    title: "Palace of Twilight - Exterior"
-    path: "Palace of Twilight - Outside.brstm"
-    type: break
+  - id: wild_goat
+    title: "Wild Goat"
+    path: "Wild Goat.brstm"
+    type: warning
+  - id: blizzeta_battle_second_half
+    title: "Blizzeta Battle Second Half"
+    path: "Blizzeta Battle Second Half.brstm"
+    tags: [xmas]
+    type: battle
+  - id: after_the_battle
+    title: "After the Battle"
+    path: "After the Battle.brstm"
+    type: result
+  - id: cargo_game_loztp
+    title: "Cargo Game"
+    path: "Cargo Game.brstm"
+    type: result
   - id: hyrule_field_night_theme
     title: "Hyrule Field Night Theme"
     path: "Hyrule Field Night Theme.brstm"
     type: break
-  - id: snowpeak_ruins
-    title: "Snowpeak Ruins"
-    path: "Snowpeak Ruins.brstm"
-    type: betting
+  - id: palace_of_twilight_exterior
+    title: "Palace of Twilight - Exterior"
+    path: "Palace of Twilight - Outside.brstm"
+    type: break
+  - id: snowpeak
+    title: "Snowpeak"
+    path: "Snowpeak.brstm"
+    tags: [xmas]
+    type: break
+  - id: zoras_domain_tloztp
+    title: "Zora's Domain"
+    path: "Zora's Domain.brstm"
+    type: break
   - id: blizzeta_battle_second_half
-    title: "Blizzeta Battle Second Half"
-    path: "Blizzeta Battle Second Half.brstm"
-    type: battle
-  - id: lakebed_temple
-    title: "Lakebed Temple"
-    path: "Lakebed Temple.brstm"
-    type: betting
+    title: "Blizzeta Battle First Half"
+    path: "Blizzeta Battle First Half.brstm"
+    tags: [xmas]
+    type: warning
 ...

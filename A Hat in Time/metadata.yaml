@@ -8,4 +8,349 @@ songs:
     title: "Title Screen"
     path: "Title Screen.brstm"
     type: betting
+  - id: clocktowers_beneath_the_sea
+    title: "Clocktowers Beneath The Sea"
+    path: "Clocktowers Beneath The Sea.brstm"
+    type: break
+  - id: picture_perfect
+    title: "Picture Perfect"
+    path: "Picture Perfect - Short Intro.brstm"
+    type: betting
+  - id: the_battle_of_award_42
+    title: "The Battle of Award 42"
+    path: "The Battle of Award 42.brstm"
+    type: battle
+  - id: your_contract_has_expired
+    title: "Your Contract Has Expired"
+    path: "Your Contract Has Expired.brstm"
+    type: battle
+  - id: a_forsaken_place
+    title: "A Forsaken Place"
+    path: "A Forsaken Place.brstm"
+    type: warning
+  - id: a_forsaken_place_vanessa_s_manor
+    title: "A Forsaken Place - Vanessa's Manor"
+    path: "A Forsaken Place - Vanessa's Manor.brstm"
+    type: warning
+  - id: alpine_skyline_birdhouse_path
+    title: "Alpine Skyline - Birdhouse Path"
+    path: "Alpine Skyline - Birdhouse Path.brstm"
+    ends: 2:54
+    type: betting
+  - id: alpine_skyline_center_peaks
+    title: "Alpine Skyline - Center Peaks"
+    path: "Alpine Skyline - Center Peaks.brstm"
+    ends: 2:54
+    type: betting
+  - id: alpine_skyline_lava_cake_path
+    title: "Alpine Skyline - Lava Cake Path"
+    path: "Alpine Skyline - Lava Cake Path.brstm"
+    ends: 2:54
+    type: betting
+  - id: alpine_skyline_lava_windmill_path
+    title: "Alpine Skyline - Windmill Path"
+    path: "Alpine Skyline - Windmill Path.brstm"
+    ends: 2:54
+    type: betting
+  - id: alpine_skyline_twilight_bell_path
+    title: "Alpine Skyline - Twilight Bell Path"
+    path: "Alpine Skyline - Twilight Bell Path.brstm"
+    type: warning
+  - id: alpine_skyline_at_night
+    title: "Alpine Skyline at Night"
+    path: "Alpine Skyline at Night.brstm"
+    ends: 2:46
+    type: betting
+  - id: alpine_skyline_intro_mountain_peak
+    title: "Alpine Skyline Intro Mountain Peak"
+    path: "Alpine Skyline Intro Mountain Peak.brstm"
+    type: betting
+  - id: alpine_skyline_time_rift_curios
+    title: "Alpine Skyline Time Rift - Curios"
+    path: "Alpine Skyline Time Rift - Curios.brstm"
+    type: result
+  - id: alpine_skyline_time_rift_stressful
+    title: "Alpine Skyline Time Rift - Stressful"
+    path: "Alpine Skyline Time Rift - Stressfull.brstm"
+    type: break
+  - id: alpine_skyline_time_rift_time_piece_floor
+    title: "Alpine Skyline Time Rift - Time Piece Floor"
+    path: "Alpine Skyline Time Rift - Time Piece Floor.brstm"
+    type: break
+  - id: barrel_battle
+    title: "Barrel Battle"
+    path: "Barrel Battle.brstm"
+    type: battle
+  - id: battle_of_the_birds_time_rift_curios
+    title: "Battle of the Birds Time Rift - Curios"
+    path: "Battle of the Birds Time Rift - Curios.brstm"
+    type: warning
+  - id: cave_rave
+    title: "Cave Rave"
+    path: "Cave Rave.brstm"
+    type: betting
+  - id: cheating_the_race
+    title: "Cheating the Race"
+    path: "Cheating The Race (Looped).brstm"
+    type: warning
+  - id: cozy_bubblegum_town
+    title: "Cozy Bubblegum Town"
+    path: "Cozy Bubblegum Town.brstm"
+    type: betting
+  - id: dead_bird_studio_western
+    title: "Dead Bird Studio - Western"
+    path: "Dead Bird Studio - Western.brstm"
+    type: betting
+  - id: credits_a_hat_in_time
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+  - id: dead_bird_studio_basement
+    title: "Dead Bird Studio Basement"
+    path: "Dead Bird Studio Basement.brstm"
+    type: betting
+  - id: dead_bird_studio_is_closed
+    title: "Dead Bird Studio is Closed"
+    path: "Dead Bird Studio is Closed.brstm"
+    type: warning
+  - id: dead_bird_studio_reception
+    title: "Dead Bird Studio Reception"
+    path: "Deadbird Studio Reception.brstm"
+    type: betting
+  - id: down_with_the_mafia
+    title: "Down with the Mafia"
+    path: "Down With the Mafia.brstm"
+    type: warning
+  - id: ending_cutscene_a_hat_in_time
+    title: "Ending Cutscene"
+    path: "Ending Cutscene.brstm"
+    type: result
+  - id: file_select_a_hat_in_time
+    title: "File Select"
+    path: "File Select.brstm"
+    type: result
+  - id: get_lost
+    title: "Get Lost"
+    path: "Get Lost.brstm"
+    type: result
+  - id: goodbye_everyone
+    title: "Goodbye Everyone"
+    path: "Goodbye Everyone.brstm"
+    type: break
+  - id: heart_to_heart
+    title: "Heart to Heart"
+    path: "Heart to Heart.brstm"
+    type: break
+  - id: heat_gusts
+    title: "Heat Gusts"
+    path: "Heat Gusts.brstm"
+    type: betting
+  - id: heating_up_mafia_town
+    title: "Heating Up Mafia Town"
+    path: "Heating Up Mafia Town.brstm"
+    type: betting
+  - id: her_spaceship
+    title: "Her Spaceship"
+    path: "Her Spaceship.brstm"
+    type: betting
+  - id: her_spaceship_decoration_mode
+    title: "Her Spaceship - Decoration Mode"
+    path: "Her Spaceship - decorationmode.brstm"
+    type: break
+  - id: jury_judge_and_executioner_inside_castle
+    title: "Jury, Judge, and Executioner - Inside Castle"
+    path: "Judge, Jury and Executioner - Inside Castle.brstm"
+    type: warning
+  - id: little_help_from_my_friends
+    title: "Little Help From My Friends"
+    path: "Little Help From My Friends.brstm"
+    type: break
+  - id: mafia_boss_big_showdown
+    title: "Mafia Boss' Big Showdown"
+    path: "Mafia Boss' Big Showdown.brstm"
+    type: battle
+  - id: mafia_hq
+    title: "Mafia HQ"
+    path: "Mafia HQ.brstm"
+    type: betting
+  - id: mafia_of_cooks_time_rift_stressful
+    title: "Mafia of Cooks Time Rift - Stressful"
+    path: "Mafia of Cooks Time Rift - Stressfull.brstm"
+    type: warning
+  - id: mafia_town_is_asleep
+    title: "Mafia Town is Asleep"
+    path: "Mafia Town Is Asleep.brstm"
+    type: betting
+  - id: moonjumper_s_theme
+    title: "Moonjumper's Theme"
+    path: "Moonjumper's Theme.brstm"
+    type: betting
+  - id: murder_on_the_owl_express
+    title: "Murder on the Owl Express"
+    path: "Murder on the Owl Express.brstm"
+    type: break
+  - id: mustache_girl_defeated
+    title: "Mustache Girl Defeated"
+    path: "Mustache Girl Defeated.brstm"
+    type: break
+  - id: new_adventure
+    title: "New Adventure"
+    path: "New Adventure.brstm"
+    type: betting
+  - id: no_more_mafia_boss
+    title: "No More Mafia Boss"
+    path: "No More Mafia Boss.brstm"
+    type: betting
+  - id: oh_it_s_you
+    title: "Oh It's You"
+    path: "Oh It's You (No Intro).brstm"
+    type: warning
+  - id: roll_the_slots
+    title: "Roll the Slots"
+    path: "Roll the Slots.brstm"
+    type: result
+  - id: sandmobile_jazz
+    title: "Sandmobile Jazz"
+    path: "Sandmobile Jazz.brstm"
+    type: betting
+  - id: scootin_through_clocktowers_beneath_the_sea
+    title: "Scootin' Through Clocktowers Beneath The Sea"
+    path: "Scootin' Through Clocktowers Beneath The Sea.brstm"
+    type: betting
+  - id: scootin_through_mafia_town
+    title: "Scootin' Through Mafia Town"
+    path: "Scootin' Through Mafia Town.brstm"
+    type: betting
+  - id: scootin_through_subcon_forest
+    title: "Scootin' Through Subcon Forest"
+    path: "Scootin' Through Subcon Forest.brstm"
+    type: betting
+  - id: she_came_from_outer_space_phase_4
+    title: "She Came From Outer Space - Phase 4"
+    path: "She Came From Outer Space - Phase 4.brstm"
+    type: warning
+  - id: snatcher_s_contractual_obligations
+    title: "Snatcher's Contractual Obligations"
+    path: "Snatcher's Contractual Obligations (No Intro).brstm"
+    type: warning
+  - id: so_what_s_the_plan
+    title: "So, What's the Plan?"
+    path: "So, Whats The Plan.brstm"
+    type: betting
+  - id: subcon_forest
+    title: "Subcon Forest"
+    path: "Subcon Forest.brstm"
+    type: betting
+  - id: subcon_forest_off_path
+    title: "Subcon Forest (Off Path)"
+    path: "Subcon Forest (Off Path).brstm"
+    type: warning
+  - id: subcon_forest_time_rift_normal
+    title: "Subcon Forest Time Rift - Normal"
+    path: "Subcon Forest Time Rift - Normal.brstm"
+    type: break
+  - id: subcon_village
+    title: "Subcon Village"
+    path: "Subcon Village.brstm"
+    type: betting
+  - id: swing_of_the_moon
+    title: "Swing of the Moon"
+    path: "Swing of the Moon.brstm"
+    type: betting
+  - id: the_annual_bird_movie_award
+    title: "The Annual Bird Movie Award"
+    path: "The Annual Bird Movie Award.brstm"
+    type: betting
+  - id: the_badge_seller
+    title: "The Badge Seller"
+    path: "The Badge Seller.brstm"
+    type: warning
+  - id: the_big_parade
+    title: "The Big Parade"
+    path: "The Big Parade.brstm"
+    type: result
+  - id: the_birdhouse_peak_bomb_egg
+    title: "The Birdhouse Peak - Bomb Egg"
+    path: "The Birdhouse Peak - Bomb Egg.brstm"
+    type: warning
+  - id: the_conductor_s_train
+    title: "The Conductor's Train"
+    path: "The Conductors Train.brstm"
+    type: betting
+  - id: the_end_a_hat_in_time
+    title: "The End"
+    path: "The End.brstm"
+    type: break
+  - id: the_fire_spirits
+    title: "The Fire Spirits"
+    path: "The Fire Spirits.brstm"
+    type: betting
+  - id: the_lava_cake_peak
+    title: "The Lava Cake Peak"
+    path: "The Lava Cake Peak.brstm"
+    type: betting
+  - id: the_phone_s_ringing
+    title: "The Phone's Ringing"
+    path: "The Phone's Ringing.brstm"
+    type: warning
+  - id: the_ratings_are_in
+    title: "The Ratings Are In"
+    path: "The Ratings Are In.brstm"
+    type: betting
+  - id: the_subcon_caves
+    title: "The Subcon Caves"
+    path: "The Subcon Caves.brstm"
+    type: betting
+  - id: the_subcon_caves_water_rising
+    title: "The Subcon Caves - Water Rising"
+    path: "The Subcon Caves - Water Rising.brstm"
+    type: betting
+  - id: the_weather_has_cleared
+    title: "The Weather Has Cleared"
+    path: "The Weather Has Cleared.brstm"
+    type: result
+  - id: the_windmill_peak_outdoor
+    title: "The Windmill Peak - Outdoor"
+    path: "The Windmill Peak - Outdoor.brstm"
+    type: betting
+  - id: tick_tock
+    title: "Tick Tock"
+    path: "Tick Tock.brstm"
+    type: warning
+  - id: timepiece_released
+    title: "Timepiece Released"
+    path: "Timepiece Released.brstm"
+    type: break
+  - id: toilet_of_doom
+    title: "Toilet of Doom"
+    path: "Toilet Of Doom.brstm"
+    type: warning
+  - id: train_rush
+    title: "Train Rush"
+    path: "Train Rush.brstm"
+    type: betting
+  - id: turn_on_the_pyrotechnics
+    title: "Turn on the Pyrotechnics"
+    path: "Turn on the Pyrotechnics.brstm"
+    type: warning
+  - id: welcome_to_mafia_town
+    title: "Welcome to Mafia Town"
+    path: "Welcome to Mafia Town.brstm"
+    type: betting
+  - id: you_are_all_bad_guys_phase_2
+    title: "You Are All Bad Guys (Phase 2)"
+    path: "You Are All Bad Guys (Phase 2).brstm"
+    type: battle
+  - id: you_are_all_bad_guys_phase_3
+    title: "You Are All Bad Guys (Phase 3)"
+    path: "You Are All Bad Guys (Phase 3).brstm"
+    type: result
+  - id: you_are_now_legally_a_bird
+    title: "You Are Now Legally A Bird"
+    path: "You Are Now Legally a Bird.brstm"
+    type: betting
+  - id: you_are_now_legally_a_bird_drawing
+    title: "You Are Now Legally A Bird (Drawing)"
+    path: "You Are Now Legally a Bird (Drawing).brstm"
+    type: break
 ...

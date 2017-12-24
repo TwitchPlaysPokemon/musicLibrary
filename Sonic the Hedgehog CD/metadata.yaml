@@ -2,47 +2,243 @@
 id: sonic_cd
 title: "Sonic CD"
 series: sonic
-year: 1993
 platform: "SCD"
+year: 1993
 songs:
-  - id: special_stage_(jpnpal)_(long)
-    title: "Special Stage (JPN/PAL)"
-    path: "Special Stage (JPNPAL) (Long).brstm"
+  - id: collision_chaos_bad_future_jpn_pal
+    title: "Collision Chaos Bad Future (JPN/PAL)"
+    path: "Collision Chaos Bad Future (JPN_PAL).brstm"
+    type: betting
+  - id: collision_chaos_bad_future_us
+    title: "Collision Chaos Bad Future (US)"
+    path: "Collision Chaos Bad Future (US).brstm"
+    type: betting
+  - id: collision_chaos_good_future_jpn_pal
+    title: "Collision Chaos Good Future (JPN/PAL)"
+    path: "Collision Chaos Good Future (JPN_PAL).brstm"
+    type: betting
+  - id: collision_chaos_good_future_us
+    title: "Collision Chaos Good Future (US)"
+    path: "Collision Chaos Good Future (US).brstm"
+    type: betting
+  - id: collision_chaos_past
+    title: "Collision Chaos Past"
+    path: "Collision Chaos Past.brstm"
+    type: betting
+  - id: collision_chaos_present_jpn_pal
+    title: "Collision Chaos Present (JPN/PAL)"
+    path: "Collision Chaos Present (JPN_PAL).brstm"
+    type: betting
+  - id: collision_chaos_present_us
+    title: "Collision Chaos Present (US)"
+    path: "Collision Chaos Present (US).brstm"
+    type: betting
+  - id: d_a_garden_jpn_pal
+    title: "D.A. Garden (JPN/PAL)"
+    path: "D.A. Garden (JPN_PAL).brstm"
+    type: betting
+  - id: d_a_garden_us
+    title: "D.A. Garden (US)"
+    path: "D.A. Garden (US).brstm"
+    type: betting
+  - id: metallic_madness_bad_future_jpn_pal
+    title: "Metallic Madness Bad Future (JPN/PAL)"
+    path: "Metallic Madness Bad Future (JPN_PAL).brstm"
+    type: betting
+  - id: metallic_madness_bad_future_us
+    title: "Metallic Madness Bad Future (US)"
+    path: "Metallic Madness Bad Future (US).brstm"
+    type: betting
+  - id: metallic_madness_good_future_jpn_pal
+    title: "Metallic Madness Good Future (JPN/PAL)"
+    path: "Metallic Madness Good Future (JPN_PAL).brstm"
+    type: betting
+  - id: metallic_madness_past
+    title: "Metallic Madness Past"
+    path: "Metallic Madness Past.brstm"
+    type: betting
+  - id: metallic_madness_present_jpn_pal
+    title: "Metallic Madness Present (JPN/PAL)"
+    path: "Metallic Madness Present (JPN_PAL).brstm"
+    type: betting
+  - id: palmtree_panic_bad_future_us
+    title: "Palmtree Panic Bad Future (US)"
+    path: "Palmtree Panic Bad Future (US).brstm"
+    type: betting
+  - id: palmtree_panic_good_future_jpn_pal
+    title: "Palmtree Panic Good Future (JPN/PAL)"
+    path: "Palmtree Panic Good Future (JPN_PAL).brstm"
+    type: betting
+  - id: palmtree_panic_good_future_us
+    title: "Palmtree Panic Good Future (US)"
+    path: "Palmtree Panic Good Future (US).brstm"
+    type: betting
+  - id: palmtree_panic_past
+    title: "Palmtree Panic Past"
+    path: "Palmtree Panic Past.brstm"
     type: betting
   - id: palmtree_panic_present_us
     title: "Palmtree Panic Present (US)"
     path: "Palmtree Panic Present (US).brstm"
     type: betting
-  - id: boss_us
-    title: "Boss (US)"
-    path: "Boss (US).brstm"
-    type: warning
-  - id: invincibility_us
-    title: "Invincibility (US)"
-    path: "Invincibility (US).brstm"
-    type: warning
-  - id: title_screen_jpeu
-    title: "Title Screen (JP/EU)"
-    path: "Title Screen (JP_EU) (Looped).brstm"
-    type: result
+  - id: quartz_quadrant_bad_future_jpn_pal
+    title: "Quartz Quadrant Bad Future (JPN/PAL)"
+    path: "Quartz Quadrant Bad Future (JPN_PAL).brstm"
+    type: betting
+  - id: quartz_quadrant_bad_future_us
+    title: "Quartz Quadrant Bad Future (US)"
+    path: "Quartz Quadrant Bad Future (US).brstm"
+    type: betting
+  - id: quartz_quadrant_good_future_jpn_pal
+    title: "Quartz Quadrant Good Future (JPN/PAL)"
+    path: "Quartz Quadrant Good Future (JPN_PAL).brstm"
+    type: betting
+  - id: quartz_quadrant_good_future_us
+    title: "Quartz Quadrant Good Future (US)"
+    path: "Quartz Quadrant Good Future (US).brstm"
+    type: betting
   - id: quartz_quadrant_past
     title: "Quartz Quadrant Past"
     path: "Quartz Quadrant Past.brstm"
     type: betting
-  - id: wacky_workbench_past
-    title: "Wacky Workbench Past"
-    path: "Wacky Workbench Past.brstm"
+  - id: quartz_quadrant_present_jpn_pal
+    title: "Quartz Quadrant Present (JPN/PAL)"
+    path: "Quartz Quadrant Present (JPN_PAL).brstm"
+    type: betting
+  - id: quartz_quadrant_present_us
+    title: "Quartz Quadrant Present (US)"
+    path: "Quartz Quadrant Present (US).brstm"
+    type: betting
+  - id: special_stage_jpn_pal
+    title: "Special Stage (JPN/PAL)"
+    path: "Special Stage (JPNPAL) (Long).brstm"
+    type: betting
+  - id: special_stage_us
+    title: "Special Stage (US)"
+    path: "Special Stage (US).brstm"
+    type: betting
+  - id: stardust_speedway_bad_future_jpn_pal
+    title: "Stardust Speedway Bad Future (JPN/PAL)"
+    path: "Stardust Speedway Bad Future (JPN_PAL).brstm"
+    type: betting
+  - id: stardust_speedway_bad_future_us
+    title: "Stardust Speedway Bad Future (US)"
+    path: "Stardust Speedway Bad Future (US).brstm"
+    type: betting
+  - id: stardust_speedway_good_future_jpn_pal
+    title: "Stardust Speedway Good Future (JPN/PAL)"
+    path: "Stardust Speedway Good Future (JPN_PAL).brstm"
+    type: betting
+  - id: stardust_speedway_good_future_us
+    title: "Stardust Speedway Good Future (US)"
+    path: "Stardust Speedway Good Future (US).brstm"
     type: betting
   - id: stardust_speedway_past
     title: "Stardust Speedway Past"
     path: "Stardust Speedway Past.brstm"
     type: betting
+  - id: stardust_speedway_present_us
+    title: "Stardust Speedway Present (US)"
+    path: "Stardust Speedway Present (US).brstm"
+    type: betting
+  - id: tidal_tempest_bad_future_jpn_pal
+    title: "Tidal Tempest Bad Future (JPN/PAL)"
+    path: "Tidal Tempest Bad Future (JPN_PAL).brstm"
+    type: betting
+  - id: tidal_tempest_bad_future_us
+    title: "Tidal Tempest Bad Future (US)"
+    path: "Tidal Tempest Bad Future (US).brstm"
+    type: betting
+  - id: tidal_tempest_good_future_us
+    title: "Tidal Tempest Good Future (US)"
+    path: "Tidal Tempest Good Future (US).brstm"
+    type: betting
+  - id: tidal_tempest_past
+    title: "Tidal Tempest Past"
+    path: "Tidal Tempest Past.brstm"
+    type: betting
+  - id: tidal_tempest_present_jpn_pal
+    title: "Tidal Tempest Present (JPN/PAL)"
+    path: "Tidal Tempest Present (JPN_PAL).brstm"
+    type: betting
+  - id: tidal_tempest_present_us
+    title: "Tidal Tempest Present (US)"
+    path: "Tidal Tempest Present (US).brstm"
+    type: betting
+  - id: time_attack_jpn_pal
+    title: "Time Attack (JPN/PAL)"
+    path: "Time Attack (JPN_PAL).brstm"
+    type: betting
+  - id: wacky_workbench_bad_future_us
+    title: "Wacky Workbench Bad Future (US)"
+    path: "Wacky Workbench Bad Future (US).brstm"
+    type: betting
+  - id: wacky_workbench_good_future_jpn_pal
+    title: "Wacky Workbench Good Future (JPN/PAL)"
+    path: "Wacky Workbench Good Future (JPN_PAL).brstm"
+    type: betting
+  - id: wacky_workbench_good_future_us
+    title: "Wacky Workbench Good Future (US)"
+    path: "Wacky Workbench Good Future (US).brstm"
+    type: betting
+  - id: wacky_workbench_past
+    title: "Wacky Workbench Past"
+    path: "Wacky Workbench Past.brstm"
+    type: betting
+  - id: wacky_workbench_present_jpn_pal
+    title: "Wacky Workbench Present (JPN/PAL)"
+    path: "Wacky Workbench Present (JPN_PAL).brstm"
+    type: betting
+  - id: wacky_workbench_present_us
+    title: "Wacky Workbench Present (US)"
+    path: "Wacky Workbench Present (US).brstm"
+    type: betting
+  - id: boss_us
+    title: "Boss (US)"
+    path: "Boss (US).brstm"
+    type: warning
+  - id: final_fever_jpn_pal
+    title: "Final Fever (JPN/PAL)"
+    path: "Final Fever (JPN_PAL).brstm"
+    type: warning
+  - id: invincibility_us
+    title: "Invincibility (US)"
+    path: "Invincibility (US).brstm"
+    type: warning
+  - id: speed_up_510_prototype_looped
+    title: "Speed Up (510 Prototype)(Looped)"
+    path: "Speed Up (510 Prototype)(Looped).brstm"
+    type: warning
+  - id: speed_up_jpn_pal_looped
+    title: "Speed Up (JPN/PAL) (Looped)"
+    path: "Speed Up (JPN_PAL) (Looped).brstm"
+    type: warning
   - id: title_screen_510_prototype
     title: "Title Screen (510 prototype)"
     path: "Title Screen (510 prototype).brstm"
     type: warning
+  - id: wacky_workbench_bad_future_jpn_pal
+    title: "Wacky Workbench Bad Future (JPN/PAL)"
+    path: "Wacky Workbench Bad Future (JPN_PAL).brstm"
+    type: warning
+  - id: palmtree_panic_bad_future_jpn_pal
+    title: "Palmtree Panic Bad Future (JPN/PAL)"
+    path: "Palmtree Panic Bad Future (JPN_PAL).brstm"
+    type: battle
+  - id: invincibility_jpn_pal_looped
+    title: "Invincibility (JAP/PAL) (Looped)"
+    path: "Invincibility (JAP_PAL) (Looped).brstm"
+    type: result
+  - id: title_screen_jpeu
+    title: "Title Screen (JP/EU)"
+    path: "Title Screen (JP_EU) (Looped).brstm"
+    type: result
   - id: sonic_boom_ending_version
     title: "Sonic Boom - Ending Version (Instrumental)"
     path: "Sonic Boom - Ending Version (Instrumental).brstm"
+    type: break
+  - id: tidal_tempest_good_future_jpn_pal
+    title: "Tidal Tempest Good Future (JPN/PAL)"
+    path: "Tidal Tempest Good Future (JPN_PAL).brstm"
     type: break
 ...

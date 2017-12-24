@@ -2,8 +2,8 @@
 id: yoshis_woolly_world
 title: "Yoshi's Woolly World"
 series: yoshi
-year: 2015
 platform: ["Wii U", "3DS"]
+year: 2015
 songs:
   - id: up_shuttlethread_pass
     title: "Up Shuttlethread Pass"
@@ -20,5 +20,31 @@ songs:
   - id: frozen_solid_and_chilled
     title: "Frozen Solid and Chilled"
     path: "Frozen Solid and Chilled.brstm"
+    tags: [xmas]
+    type: betting
+  - id: fluffy_snow_here_we_go
+    title: "Fluffy Snow, Here We Go!"
+    path: "Fluffy Snow, Here We Go!.brstm"
+    tags: [xmas]
+    type: betting
+  - id: vs_snifberg_the_unfeeling
+    title: "vs. Snifberg the Unfeeling"
+    path: "vs. Snifberg the Unfeeling.brstm"
+    tags: [xmas]
+    type: battle
+  - id: world_5_yoshis_woolly_world
+    title: "World 5"
+    path: "World 5.brstm"
+    tags: [xmas]
+    type: betting
+  - id: fluffy_snow_here_we_go_underground
+    title: "Fluffy Snow, Here We Go! (Underground)"
+    path: "Fluffy Snow, Here We Go! (Underground).brstm"
+    tags: [xmas]
+    type: break
+  - id: a_little_light_snowfall
+    title: "A Little Light Snowfall"
+    path: "A Little Light Snowfall.brstm"
+    tags: [xmas]
     type: betting
 ...

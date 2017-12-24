@@ -41,4 +41,14 @@ songs:
     title: "Rainbow Road"
     path: "Rainbow Road.brstm"
     type: betting
+  - id: sherbet_land
+    title: "Sherbet Land"
+    path: "Sherbet Land.brstm"
+    tags: [xmas]
+    type: betting
+  - id: sherbet_land_final_lap
+    title: "Sherbet Land (Final Lap)"
+    path: "Sherbet Land (Final Lap).brstm"
+    tags: [xmas]
+    type: warning
 ...

@@ -1,0 +1,23 @@
+---
+id: new_super_mario_bros_u
+title: "New Super Mario Bros. U"
+series: mario
+platform: "Wii U"
+year: 2012
+songs: 
+  - id: frosted_glacier_map
+    title: "Frosted Glacier Map"
+    path: "Frosted Glacier Map.brstm"
+    tags: [xmas]
+    type: result
+  - id: snow_overworld_baby_yoshi
+    title: "Snow Overworld (Baby Yoshi)"
+    path: "Snow Overworld (Baby Yoshi).brstm"
+    tags: [xmas]
+    type: betting
+  - id: snow_overworld
+    title: "Snow Overworld"
+    path: "Snow Overworld.brstm"
+    tags: [xmas]
+    type: betting
+...

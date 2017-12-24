@@ -40,10 +40,12 @@ songs:
   - id: snowflake_lake_night
     title: "Snowflake Lake (Nighttime)"
     path: "Snowflake Lake (Nighttime).brstm"
+    tags: [xmas]
     type: betting
   - id: snowflake_lake_day
     title: "Snowflake Lake (Daytime)"
     path: "Snowflake Lake (Daytime).brstm"
+    tags: [xmas]
     type: betting
   - id: towering_treetop_night
     title: "Towering Treetop (Nighttime)"

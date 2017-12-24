@@ -12,6 +12,7 @@ songs:
   - id: blizzard_on_the_star_express
     title: "Blizzard on the Star Express"
     path: "Blizzard on the Star Express.brstm"
+    tags: [xmas]
     type: betting
   - id: mine_cart_toad
     title: "Mine Cart"
@@ -36,5 +37,6 @@ songs:
   - id: snowy_plains
     title: "Snowy Plains"
     path: "Snowy Plains.brstm"
+    tags: [xmas]
     type: betting
 ...

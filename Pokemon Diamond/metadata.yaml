@@ -9,6 +9,10 @@ songs:
     title: "Opening"
     path: "102 Opening.mini2sf"
     type: betting
+  - id: special_report_search_for_the_red_gyarados
+    title: "Special Report: \"Search for the Red Gyarados!\""
+    path: "103a Special program 'Search for the Red Gyarados!' (Part 1).mini2sf"
+    type: warning
   - id: twinleaf_town_daytime
     title: "Twinleaf Town (Daytime)"
     path: "104 Twinleaf Town (Daytime).mini2sf"
@@ -200,10 +204,12 @@ songs:
   - id: route_216_midday
     title: "Route 216 (Midday)"
     path: "162 Route 216 (Midday).mini2sf"
+    tags: [xmas]
     type: betting
   - id: snowpoint_city_daytime
     title: "Snowpoint City (Daytime)"
     path: "163 Snowpoint City (Daytime).mini2sf"
+    tags: [xmas]
     type: betting
   - id: team_galactic_hideout
     title: "Team Galactic Hideout"
@@ -388,10 +394,12 @@ songs:
   - id: snowpoint_city_nighttime
     title: "Snowpoint City (Nighttime)"
     path: "234 Snowpoint City (Nighttime).mini2sf"
+    tags: [xmas]
     type: betting
   - id: route_216_nighttime
     title: "Route 216 (Nighttime)"
     path: "235 Route 216 (Nighttime).mini2sf"
+    tags: [xmas]
     type: betting
   - id: cavern_on_the_lake_dp
     title: "Cavern on the Lake"
