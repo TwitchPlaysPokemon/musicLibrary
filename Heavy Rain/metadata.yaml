@@ -1,11 +1,71 @@
 ---
 id: heavy_rain
 title: "Heavy Rain"
-year: 2010
 platform: "PS3"
+year: 2010
 songs:
   - id: the_bulldozer
     title: "The Bulldozer"
     path: "The Bulldozer.brstm"
+    type: warning
+  - id: countdown_mars_action_soundtrack)
+    title: "Countdown (Mars' Action Soundtrack)"
+    path: "Countdown (Mars' Action Soundtrack).brstm"
+    type: warning
+  - id: crime_scene_from_crime_scene
+    title: "Crime Scene (from Crime Scene)"
+    path: "Crime Scene (from Crime Scene).brstm"
+    type: break
+  - id: ethan_mars_main_theme
+    title: "Ethan Mars' Main Theme"
+    path: "Ethan Mars' Main Theme.brstm"
+    type: break
+  - id: ethan_mars'_main_theme_1_from_prologue
+    title: "Ethan Mars' Main Theme 1 (from Prologue)"
+    path: "Ethan Mars' Main Theme 1 (from Prologue)[Full].brstm"
+    type: break
+  - id: ethan_mars_main_theme_2_from_prologue
+    title: "Ethan Mars' Main Theme 2 (from Prologue)"
+    path: "Ethan Mars' Main Theme 2 (from Prologue).brstm"
+    type: break
+  - id: ethan_mars_main_theme_2_from_prologue
+    title: "Ethan Mars' Main Theme 3 (from Prologue)"
+    path: "Ethan Mars' Main Theme 3 (from Prologue).brstm"
+    type: break
+  - id: high_tension_jayden_s_action_soundtrack
+    title: "High Tension (Jayden's Action Soundtrack)"
+    path: "High Tension (Jayden's Action Soundtrack).brstm"
+    type: warning
+  - id: last_breath
+    title: "Last Breath"
+    path: "Last Breath.brstm"
+    type: break
+  - id: lauren_winter_s_main_theme
+    title: "Lauren Winter's Main Theme"
+    path: "Lauren Winter's Main Theme.brstm"
+    type: break
+  - id: redemption
+    title: "Redemption"
+    path: "Redemption.brstm"
+    type: break
+  - id: the_fight_from_face_to_face_part_2
+    title: "The Fight (from Face to Face) Part 2"
+    path: "The Fight (from Face to Face) Part 2.brstm"
+    type: warning
+  - id: the_hold_up_from_sleazy_place_part_1
+    title: "The Hold Up (from Sleazy Place) Part 1"
+    path: "The Hold Up (from Sleazy Place) Part 1.brstm"
+    type: warning
+  - id: the_hold_up_from_sleazy_place_part_2
+    title: "The Hold Up (from Sleazy Place) Part 2"
+    path: "The Hold Up (from Sleazy Place) Part 2.brstm"
+    type: warning
+  - id: the_chase_madison_s_action_soundtrack
+    title: "The Chase (Madison's Action Soundtrack)"
+    path: "The Chase (Madison's Action Soundtrack).brstm"
+    type: warning
+  - id: the_fight_from_face_to_face_part_1
+    title: "The Fight (from Face To Face) Part 1"
+    path: "The Fight (from Face To Face) Part 1.brstm"
     type: warning
 ...

@@ -1,16 +1,16 @@
 ---
 id: teleroboxer
 title: "TeleroBoxer"
-year: 1995
 platform: "VB"
+year: 1995
 songs:
   - id: bamsham
     title: "Bamsham"
     path: "Bamsham.vgz"
     type: battle
-  - id: face_the_legendary_champ
-    title: "Face the Legendary Champ"
-    path: "Face the Legendary Champ.brstm"
+  - id: you_ve_done_great
+    title: "You've Done Great"
+    path: "22 You've Done Great.vgz"
     type: warning
   - id: ikanger
     title: "Ikanger"
@@ -20,12 +20,56 @@ songs:
     title: "Tukikage"
     path: "Tukikage.vgz"
     type: warning
-  - id: final_battle_teleroboxer
-    title: "Final Battle"
-    path: "Final Battle.brstm"
+  - id: legendary_champ_profile
+    title: "Legendary Champ Profile"
+    path: "24 Legendary Champ Profile.vgz"
     type: warning
-  - id: opponent_list
+  - id: opponent_list_take_a_break
     title: "Opponent List (Take a Break)"
     path: "Opponent List (Take a Break).vgz"
     type: warning
+  - id: bomkun
+    title: "Bomkun"
+    path: "17 Bomkun.vgz"
+    type: result
+  - id: dorihey
+    title: "Dorihey"
+    path: "16 Dorihey.vgz"
+    type: warning
+  - id: file_select_teleroboxer
+    title: "File Select"
+    path: "05 File Select.vgz"
+    type: warning
+  - id: opponent_profile
+    title: "Opponent Profile"
+    path: "07 Opponent Profile.vgz"
+    type: warning
+  - id: winning
+    title: "Winning"
+    path: "10 Winning.vgz"
+    type: warning
+  - id: pagero
+    title: "Pagero"
+    path: "09 Pagero.vgz"
+    type: betting
+  - id: prin
+    title: "Prin"
+    path: "18 Prin.vgz"
+    type: betting
+  - id: you_win
+    title: "You Win!"
+    path: "13 You Win!.vgz"
+    type: warning
+  - id: spokong
+    title: "Spokong"
+    path: "14 Spokong.vgz"
+    type: result
+  - id: staff_roll_teleroboxer
+    title: "Staff Roll"
+    path: "27 Staff Roll.vgz"
+    type: betting
+  - id: title_screen_teleroboxer
+    title: "Title Sceen"
+    path: "03 Title Sceen.vgz"
+    type: result
 ...

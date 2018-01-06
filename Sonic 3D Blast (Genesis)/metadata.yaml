@@ -1,8 +1,9 @@
+---
 id: sonic_3d_blast_genesis
 title: "Sonic 3D Blast [Genesis]"
 series: sonic
-year: 1996
 platform: ["Genesis", "Saturn"]
+year: 1996
 songs:
   - id: rusty_ruin_zone_2
     title: "Rusty Ruin Zone 2"
@@ -12,10 +13,6 @@ songs:
     title: "Panic Puppet Zone Act 2"
     path: "Panic Puppet Zone Act 2.vgz"
     type: betting
-  - id: boss_s3dblast
-    title: "Boss"
-    path: "Boss.vgz"
-    type: battle
   - id: green_grove_zone_1_genesis_blast
     title: "Green Grove Zone Act 1"
     path: "Green Grove Zone Act 1.vgz"
@@ -41,6 +38,10 @@ songs:
     title: "Panic Puppet Zone Act 1"
     path: "Panic Puppet Zone Act 1.vgz"
     type: betting
+  - id: the_final_fight_s3dblast
+    title: "The Final Fight"
+    path: "17 - The Final Fight.vgz"
+    type: betting
   - id: boss_theme_825_version
     title: "Boss Theme (825 version)"
     path: "Boss Theme (825 version).vgz"
@@ -49,6 +50,10 @@ songs:
     title: "Invincibility"
     path: "Invincibility.vgz"
     type: warning
+  - id: boss_s3dblast
+    title: "Boss"
+    path: "Boss.vgz"
+    type: battle
   - id: spring_stadium_zone_1_genesis
     title: "Spring Stadium Zone Act 1"
     path: "Spring Stadium Zone Act 1.vgz"
@@ -66,3 +71,4 @@ songs:
     title: "Credits"
     path: "Credits.vgz"
     type: result
+...

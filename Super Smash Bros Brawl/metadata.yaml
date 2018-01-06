@@ -5,17 +5,41 @@ series: smash
 platform: "Wii"
 year: 2008
 songs: 
-  - id: winning_road_-_roy's_hope
-    title: "Winning Road - Roy's Hope"
-    path: "Winning Road - Roy's Hope.brstm"
-    type: betting
   - id: angel_island_zone
     path: "Angel Island Zone.brstm"
     title: "Angel Island Zone"
     type: betting
+  - id: balloon_trip_brawl
+    title: "Balloon Trip"
+    path: "Balloon Trip.brstm"
+    type: betting
+  - id: butter_building_brawl
+    title: "Butter Building"
+    path: "F04 - Butter Building - Kirby's Adventure (Composer - Jun Ishikawa - and Hirokazu Ando - Artist - Jun Fukuda).brstm"
+    type: betting
   - id: boss_battle_brawl
     path: "Boss Battle.brstm"
     title: "Boss Battle"
+    type: betting
+  - id: coin_launcher
+    path: "Coin Launcher.brstm"
+    title: "Coin Launcher"
+    type: betting
+  - id: gritzy_desert_brawl
+    title: "Gritzy Desert"
+    path: "Gritzy Desert.brstm"
+    type: betting
+  - id: humoresque_of_a_little_dog
+    title: "Humoresque of a Little Dog"
+    path: "Humoresque of a Little Dog.brstm"
+    type: betting
+  - id: luigi's_mansion_theme
+    title: "Luigi's Mansion Theme"
+    path: "Luigi's Mansion Theme.brstm"
+    type: betting
+  - id: main_theme_brawl
+    title: "Main Theme"
+    path: "Super Smash Bros Brawl Main Theme.brstm"
     type: betting
   - id: menu_1
     path: "Menu 1.brstm"
@@ -24,99 +48,6 @@ songs:
   - id: menu_2
     path: "Menu 2.brstm"
     title: "Menu 2"
-    type: betting
-  - id: pokemon_center
-    path: "Pokémon Center.brstm"
-    title: "Pokémon Center"
-    type: betting
-  - id: pokemon_gym_evolution
-    path: "Pokémon Gym - Evolution.brstm"
-    title: "Pokémon Gym - Evolution"
-    type: betting
-  - id: coin_launcher
-    path: "Coin Launcher.brstm"
-    title: "Coin Launcher"
-    type: betting
-  - id: route_209
-    title: "Route 209"
-    path: "Route 209.brstm"
-    type: betting
-  - id: you_call_this_a_utopia_mother_3
-    title: "You Call This a Utopia?! (Mother 3)"
-    path: "You Call This a Utopia!.brstm"
-    type: betting
-  - id: yoshi's_island
-    title: "Yoshi's Island"
-    path: "Yoshi's Island.brstm"
-    type: betting
-  - id: title_the_legend_of_zelda
-    title: "Title (The Legend of Zelda)"
-    path: "Title (The Legend of Zelda).brstm"
-    type: betting
-  - id: theme_of_tara
-    title: "Theme of Tara"
-    path: "Theme of Tara.brstm"
-    type: betting
-  - id: the_legendary_air_ride_machine
-    title: "The Legendary Air Ride Machine"
-    path: "The Legendary Air Ride Machine.brstm"
-    type: betting
-  - id: star_wolf_star_fox_assault
-    title: "Star Wolf (Star Fox: Assault)"
-    path: "Star Wolf (Star Fox_ Assault).brstm"
-    type: betting
-  - id: song_of_storms
-    title: "Song of Storms"
-    path: "Song of Storms.brstm"
-    type: betting
-  - id: mother_3_love_theme
-    title: "Mother 3 Love Theme"
-    path: "Mother 3 Love Theme.brstm"
-    type: betting
-  - id: luigi's_mansion_theme
-    title: "Luigi's Mansion Theme"
-    path: "Luigi's Mansion Theme.brstm"
-    type: betting
-  - id: green_greens_melee_brawl
-    title: "Green Greens (Melee)"
-    path: "Green Greens (Melee).brstm"
-    type: betting
-  - id: dr_mario_melee
-    title: "Dr. Mario (Melee)"
-    path: "Dr. Mario (Melee).brstm"
-    type: betting
-  - id: skyworld
-    title: "Skyworld"
-    path: "Skyworld.brstm"
-    type: betting
-  - id: gritzy_desert_brawl
-    title: "Gritzy Desert"
-    path: "Gritzy Desert.brstm"
-    type: betting
-  - id: wii_shop_channel_brawl
-    title: "Wii Shop Channel"
-    path: "Wii Shop Channel.brstm"
-    type: betting
-  - id: snake_eater_instrumental
-    title: "Snake Eater (Instrumental)"
-    path: "Snake Eater (Instrumental).brstm"
-    ends: 2:47
-    type: betting
-  - id: balloon_trip_brawl
-    title: "Balloon Trip"
-    path: "Balloon Trip.brstm"
-    type: betting
-  - id: brinstar_depths_melee
-    title: "Brinstar Depths (Melee)"
-    path: "Brinstar Depths (Melee).brstm"
-    type: betting
-  - id: pictochat_brawl
-    title: "PictoChat"
-    path: "PictoChat.brstm"
-    type: betting
-  - id: theme_of_samus_aran_space_warrior
-    title: "Theme of Samus Aran, Space Warrior"
-    path: "Theme of Samus Aran, Space Warrior.brstm"
     type: betting
   - id: menu_metroid_prime
     title: "Menu (Metroid Prime)"
@@ -127,41 +58,50 @@ songs:
     path: "MGS4 ~Theme of Love~ Smash Bros. Brawl Version.brstm"
     ends: 2:01
     type: betting
-  - id: road_to_viridian_brawl
-    title: "Road to Viridian City (From Pallet Town / Pewter City)"
-    path: "Road to Viridian City (From Pallet Town _ Pewter City).brstm"
-    type: betting
-  - id: tal_tal_heights_brawl
-    title: "Tal Tal Heights"
-    path: "Tal Tal Heights.brstm"
-    type: betting
-  - id: main_theme_brawl
-    title: "Main Theme"
-    path: "Super Smash Bros Brawl Main Theme.brstm"
-    type: betting
-  - id: humoresque_of_a_little_dog
-    title: "Humoresque of a Little Dog"
-    path: "Humoresque of a Little Dog.brstm"
+  - id: mother_3_love_theme
+    title: "Mother 3 Love Theme"
+    path: "Mother 3 Love Theme.brstm"
     type: betting
   - id: obstacle_course_spring_summer
     title: "Obstacle Course (Spring / Summer)"
     path: "Obstacle Course (Spring  Summer).brstm"
     type: betting
-  - id: step_the_plain
-    title: "Step: The Plain"
-    path: "Step_ The Plain.brstm"
+  - id: pictochat_brawl
+    title: "PictoChat"
+    path: "PictoChat.brstm"
     type: betting
-  - id: underground_brawl
-    title: "Underground Theme (Super Mario Land)"
-    path: "Underground Theme (Super Mario Land).brstm"
+  - id: pokemon_center
+    path: "Pokémon Center.brstm"
+    title: "Pokémon Center"
     type: betting
-  - id: waluigi_pinball_ssbb
-    title: "Waluigi Pinball"
-    path: "Waluigi Pinball.brstm"
+  - id: pokemon_gym_evolution
+    path: "Pokémon Gym - Evolution.brstm"
+    title: "Pokémon Gym - Evolution"
     type: betting
-  - id: warioware_inc
-    title: "WarioWare, Inc."
-    path: "WarioWare, Inc..brstm"
+  - id: road_to_viridian_brawl
+    title: "Road to Viridian City (From Pallet Town / Pewter City)"
+    path: "Road to Viridian City (From Pallet Town _ Pewter City).brstm"
+    type: betting
+  - id: route_209
+    title: "Route 209"
+    path: "Route 209.brstm"
+    type: betting
+  - id: skyworld
+    title: "Skyworld"
+    path: "Skyworld.brstm"
+    type: betting
+  - id: snake_eater_instrumental
+    title: "Snake Eater (Instrumental)"
+    path: "Snake Eater (Instrumental).brstm"
+    ends: 2:47
+    type: betting
+  - id: song_of_storms
+    title: "Song of Storms"
+    path: "Song of Storms.brstm"
+    type: betting
+  - id: star_wolf_star_fox_assault
+    title: "Star Wolf (Star Fox: Assault)"
+    path: "Star Wolf (Star Fox_ Assault).brstm"
     type: betting
   - id: step_subspace
     title: "Step: Subspace"
@@ -175,9 +115,61 @@ songs:
     title: "Step: Subspace Ver.3"
     path: "Step- Subspace Ver.3.brstm"
     type: betting
+  - id: step_the_plain
+    title: "Step: The Plain"
+    path: "Step_ The Plain.brstm"
+    type: betting
+  - id: tal_tal_heights_brawl
+    title: "Tal Tal Heights"
+    path: "Tal Tal Heights.brstm"
+    type: betting
+  - id: the_legendary_air_ride_machine
+    title: "The Legendary Air Ride Machine"
+    path: "The Legendary Air Ride Machine.brstm"
+    type: betting
+  - id: theme_of_samus_aran_space_warrior
+    title: "Theme of Samus Aran, Space Warrior"
+    path: "Theme of Samus Aran, Space Warrior.brstm"
+    type: betting
+  - id: theme_of_tara
+    title: "Theme of Tara"
+    path: "Theme of Tara.brstm"
+    type: betting
+  - id: title_the_legend_of_zelda
+    title: "Title (The Legend of Zelda)"
+    path: "Title (The Legend of Zelda).brstm"
+    type: betting
+  - id: underground_theme_super_mario_land
+    title: "Underground Theme (Super Mario Land)"
+    path: "Underground Theme (Super Mario Land).brstm"
+    type: betting
   - id: underworld_brawl
     title: "Underworld"
     path: "P01 - Underworld - Kid Icarus (Composer - Hirokazu Tanaka - Artist - Shogo Sakai).brstm"
+    type: betting
+  - id: vs_marx_brawl
+    title: "Vs. Marx"
+    path: "F07 - Marx - Kirby Super Star (Composer - Jun Ishikawa and Dan Miyakawa).brstm"
+    type: betting
+  - id: waluigi_pinball_ssbb
+    title: "Waluigi Pinball"
+    path: "Waluigi Pinball.brstm"
+    type: betting
+  - id: warioware_inc
+    title: "WarioWare, Inc."
+    path: "WarioWare, Inc..brstm"
+    type: betting
+  - id: winning_road_-_roy's_hope
+    title: "Winning Road - Roy's Hope"
+    path: "Winning Road - Roy's Hope.brstm"
+    type: betting
+  - id: yoshi's_island
+    title: "Yoshi's Island"
+    path: "Yoshi's Island.brstm"
+    type: betting
+  - id: you_call_this_a_utopia_mother_3
+    title: "You Call This a Utopia?! (Mother 3)"
+    path: "You Call This a Utopia!.brstm"
     type: betting
   - id: adventure_map_brawl
     title: "Adventure Map"
@@ -255,6 +247,10 @@ songs:
     title: "Shin Onigashima"
     path: "Shin Onigashima.brstm"
     type: battle
+  - id: squeak_squad_theme_brawl
+    title: "Squeak Squad Theme"
+    path: "F12 - Squeak Battle - Kirby- Squeak Squad (Composer - Jun Ishikawa - Hirokazu Ando - Tadashi Ikegami - Shogo Sakai).brstm"
+    type: battle
   - id: team_galactic_battle
     title: "Team Galactic Battle!"
     path: "Team Galactic Battle!.brstm"
@@ -278,6 +274,10 @@ songs:
   - id: with_mila's_divine_protection_celica_map_1
     title: "With Mila's Divine Protection (Celica Map 1)"
     path: "With Mila's Divine Protection (Celica Map 1).brstm"
+    type: battle
+  - id: zero_two_battle
+    title: "0² Battle"
+    path: "F08 - Zero Two - Kirby 64- The Crystal Shards (Composer - Jun Ishikawa and Hirokazu Ando).brstm"
     type: battle
   - id: all_star_rest_area_brawl
     title: "All-Star Rest Area"

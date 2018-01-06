@@ -1,8 +1,8 @@
 ---
 id: the_legend_of_zelda_ocarina_of_time
-platform: "N64"
 title: "The Legend Of Zelda: Ocarina of Time"
 series: zelda
+platform: "N64"
 year: 1998
 songs: 
   - id: battle_oot
@@ -73,5 +73,9 @@ songs:
     title: "Ice Cavern"
     path: "62 Ice Cavern.miniusf"
     tags: [xmas]
+    type: break
+  - id: water_temple_oot
+    title: "Water Temple"
+    path: "64 Water Temple.miniusf"
     type: break
 ...

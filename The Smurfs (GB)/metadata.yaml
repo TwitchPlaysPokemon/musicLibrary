@@ -1,6 +1,7 @@
+---
 id: the_smurfs_gb
 title: "The Smurfs [GB]"
-platform: ["GB", "NES", "SMS", "GG"]
+platform: "Various"
 year: 1994
 songs: 
   - id: act_10_the_sledge_race_gb_ver
@@ -15,3 +16,48 @@ songs:
     title: "Act 1 - The Forest / Act 11 - The Cliff"
     path: "Act 1 - The Forest _ Act 11 - The Cliff.brstm"
     type: break
+  - id: act_2_the_river_smurf_gb_ver
+    title: "Act 2 - The River Smurf"
+    path: "Act 2 - The River Smurf.brstm"
+    type: betting
+  - id: act_3_the_bridge_gb_ver
+    title: "Act 3 - The Bridge"
+    path: "Act 3 - The Bridge.brstm"
+    type: betting
+  - id: act_4_the_swamps_act_12_gargamel_s_manor_house_gb_ver
+    title: "Act 4 - The Swamps / Act 12 - Gargamel's Manor House"
+    path: "Act 4 - The Swamps _ Act 12 - Gargamel's Manor House.brstm"
+    type: betting
+  - id: act_5_the_sarsaparilla_fields_gb_ver
+    title: "Act 5 - The Sarsaparilla Fields"
+    path: "Act 5 - The Sarsaparilla Fields.brstm"
+    type: betting
+  - id: act_6_the_mountains_gb_ver
+    title: "Act 6 - The Mountains"
+    path: "Act 6 - The Mountains.brstm"
+    type: betting
+  - id: act_8_the_old_gold_mine_gb_ver
+    title: "Act 8 - The Old Gold Mine"
+    path: "Act 8 - The Old Gold Mine.brstm"
+    type: result
+  - id: act_9_inside_the_volcano_gb_ver
+    title: "Act 9 - Inside the Volcano"
+    path: "Act 9 - Inside the Volcano.brstm"
+    type: betting
+  - id: bonus_game_gb_ver
+    title: "Bonus Game"
+    path: "Bonus Game.brstm"
+    type: result
+  - id: boss_gb_ver
+    title: "Boss"
+    path: "Boss.brstm"
+    type: warning
+  - id: game_over_gb_ver
+    title: "Game Over"
+    path: "Game Over.brstm"
+    type: warning
+  - id: title_screen_gb_ver
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+...

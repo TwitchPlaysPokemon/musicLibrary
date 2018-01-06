@@ -1,10 +1,17 @@
+---
 id: metal_gear_solid_3_snake_eater
-platform: "PS2"
 title: "Metal Gear Solid 3: Snake Eater"
 series: metalgear
+platform: "PS2"
 year: 2004
 songs: 
-  - id: takin_on_the_shagohod
-    path: "Takin' on the Shagohod.brstm"
-    title: "Takin' on the Shagohod"
+  - id: snake_eater
+    title: "Snake Eater"
+    path: "Snake Eater.brstm"
+    ends: 2:33
     type: betting
+  - id: takin_on_the_shagohod
+    title: "Takin' on the Shagohod"
+    path: "Takin' on the Shagohod.brstm"
+    type: betting
+...

@@ -9,6 +9,10 @@ songs:
     title: "A Trip To Turtle Rock"
     path: "UraDanjon-Honookei.ry.32.dspadpcm.bcstm"
     type: betting
+  - id: lorule_castle_top_floor
+    title: "Lorule Castle (Top Floor)"
+    path: "Lorule Castle (Top Floor).brstm"
+    type: betting
   - id: lorule_theme_no_intro
     title: "Lorule Theme"
     path: "ura1.ry.32.dspadpcm.bcstm"
@@ -25,9 +29,37 @@ songs:
     title: "Thieves' Hideout"
     path: "Uradanjon.ry.32.dspadpcm.bcstm"
     type: betting
+  - id: a_painting_of_princess_zelda
+    title: "A Painting Of Princess Zelda"
+    path: "YugaDrawZeldaPictureInHighrallu.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: between_worlds
+    title: "Between Worlds"
+    path: "YugaBossHighralluWait.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: facing_ganon
+    title: "Facing Ganon"
+    path: "MediumGanon.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: facing_yuga_in_hyrule_castle
+    title: "Facing Yuga In Hyrule Castle"
+    path: "YugaHighlaluBoss.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: yuga_s_theme
+    title: "Yuga's Theme"
+    path: "YugaDemoDefault.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: meeting_princess_zelda
+    title: "Meeting Princess Zelda"
+    path: "ZeldaFirstTime.ry.32.dspadpcm.bcstm"
+    type: result
   - id: completing_the_triforce_albw
     title: "Completing the Triforce"
     path: "TriforceEvent.ry.32.dspadpcm.bcstm"
+    type: break
+  - id: princess_hilda_appears
+    title: "Princess Hilda Appears"
+    path: "HildaTheme.ry.32.dspadpcm.bcstm"
     type: break
   - id: restoring_queen_oren
     title: "Restoring Queen Oren"

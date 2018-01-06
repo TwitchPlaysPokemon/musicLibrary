@@ -42,4 +42,16 @@ songs:
     ends: 2:55
     path: "Secret Credits.bcstm"
     type: betting
+  - id: mura
+    title: "Mura"
+    path: "mura.dspadpcm.bcstm"
+    type: break
+  - id: mura_half
+    title: "Mura Half"
+    path: "mura_Half.dspadpcm.bcstm"
+    type: break
+  - id: mura_big
+    title: "Mura Big"
+    path: "MuraBig.dspadpcm.bcstm"
+    type: result
 ...

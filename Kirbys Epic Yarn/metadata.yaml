@@ -42,6 +42,10 @@ songs:
     title: "Halberd"
     path: "Halberd.brstm"
     type: betting
+  - id: mole_hole_digger
+    title: "Mole Hole - Digger"
+    path: "25. Mole Hole - Digger.brstm"
+    type: betting
   - id: mt_slide
     title: "Mt. Slide"
     path: "52. Mt. Slide.brstm"
@@ -137,6 +141,10 @@ songs:
   - id: melody_town
     title: "Melody Town"
     path: "38. Melody Town.brstm"
+    type: break
+  - id: weird_woods
+    title: "Weird Woods"
+    path: "26. Weird Woods.brstm"
     type: break
   - id: world_4_water_land
     title: "World 4 ~ Water Land"

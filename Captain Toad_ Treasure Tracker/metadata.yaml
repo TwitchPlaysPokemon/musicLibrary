@@ -39,4 +39,8 @@ songs:
     path: "Snowy Plains.brstm"
     tags: [xmas]
     type: betting
+  - id: final_boss_phase_2_toad
+    title: "Final Boss - Phase 2"
+    path: "Kp_bgm_LastBoss02.nk.32.dspadpcm.bfstm"
+    type: battle
 ...
