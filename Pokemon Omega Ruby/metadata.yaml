@@ -5,379 +5,379 @@ series: pokemon
 platform: "3DS"
 year: 2014
 songs: 
-  - id: abandoned_ship_omega_ruby
-    path: "Abandoned Ship.brstm"
+  - id: abandoned_ship_oras
     title: "Abandoned Ship"
+    path: "Abandoned Ship.brstm"
     type: betting
-  - id: aqua_magma_hideout
-    path: "Aqua - Magma Hideout.brstm"
+  - id: aqua_magma_hideout_oras
     title: "Aqua - Magma Hideout"
+    path: "Aqua - Magma Hideout.brstm"
     type: betting
-  - id: art_museum_omega_ruby
-    path: "Art Museum.brstm"
+  - id: art_museum_oras
     title: "Art Museum"
+    path: "Art Museum.brstm"
     type: result
-  - id: battle_resort
-    path: "Battle Resort.brstm"
+  - id: battle_resort_oras
     title: "Battle Resort"
+    path: "Battle Resort.brstm"
     type: betting
-  - id: battle_archie_maxie
-    path: "Battle! Archie - Maxie.brstm"
+  - id: battle_archie_maxie_oras
     title: "Battle! Archie - Maxie"
+    path: "Battle! Archie - Maxie.brstm"
     type: battle
-  - id: battle_champion_omega_ruby
-    path: "Battle! Champion.brstm"
+  - id: battle_champion_oras
     title: "Battle! Champion"
+    path: "Battle! Champion.brstm"
     type: battle
-  - id: battle_deoxys_omega_ruby
-    path: "Battle! Deoxys.brstm"
+  - id: battle_deoxys_oras
     title: "Battle! Deoxys"
+    path: "Battle! Deoxys.brstm"
     type: battle
-  - id: battle_elite_four_omega_ruby
-    path: "Battle! Elite Four.brstm"
+  - id: battle_elite_four_oras
     title: "Battle! Elite Four"
+    path: "Battle! Elite Four.brstm"
     type: battle
-  - id: battle_frontier_brain_omega_ruby
-    path: "Battle! Frontier Brain.brstm"
+  - id: battle_frontier_brain_oras
     title: "Battle! Frontier Brain"
+    path: "Battle! Frontier Brain.brstm"
     type: battle
-  - id: battle_gym_leader_omega_ruby
-    path: "Battle! Gym Leader.brstm"
+  - id: battle_gym_leader_oras
     title: "Battle! Gym Leader"
+    path: "Battle! Gym Leader.brstm"
     type: battle
-  - id: battle_primal_groudon_primal_kyogre
-    path: "Battle! Primal Groudon - Primal Kyogre.brstm"
+  - id: battle_primal_groudon_primal_kyogre_oras
     title: "Battle! Primal Groudon - Primal Kyogre"
+    path: "Battle! Primal Groudon - Primal Kyogre.brstm"
     type: battle
-  - id: battle_rayquaza
-    path: "Battle! Rayquaza.brstm"
+  - id: battle_rayquaza_oras
     title: "Battle! Rayquaza"
+    path: "Battle! Rayquaza.brstm"
     type: battle
-  - id: battle_regi_trio
-    path: "Battle! Regi Trio.brstm"
+  - id: battle_regi_trio_oras
     title: "Battle! Regi Trio"
+    path: "Battle! Regi Trio.brstm"
     type: battle
-  - id: battle_rival_omega_ruby
-    path: "Battle! Rival.brstm"
+  - id: battle_rival_oras
     title: "Battle! Rival"
+    path: "Battle! Rival.brstm"
     type: battle
-  - id: battle_team_aqua_team_magma
-    path: "Battle! Team Aqua - Team Magma.brstm"
+  - id: battle_team_aqua_team_magma_oras
     title: "Battle! Team Aqua - Team Magma"
+    path: "Battle! Team Aqua - Team Magma.brstm"
     type: battle
-  - id: battle_trainer_omega_ruby
-    path: "Battle! Trainer.brstm"
+  - id: battle_trainer_oras
     title: "Battle! Trainer"
+    path: "Battle! Trainer.brstm"
     type: battle
-  - id: battle_wally
-    path: "Battle! Wally.brstm"
+  - id: battle_wally_oras
     title: "Battle! Wally"
+    path: "Battle! Wally.brstm"
     type: warning
-  - id: battle_wild_pokemon_omega_ruby
-    path: "Battle! Wild Pokémon.brstm"
+  - id: battle_wild_pokemon_oras
     title: "Battle! Wild Pokémon"
+    path: "Battle! Wild Pokémon.brstm"
     type: battle
-  - id: battle_world_championship_finals_omega_ruby
-    path: "Battle! World Championship Finals.brstm"
+  - id: battle_world_championship_finals_oras
     title: "Battle! World Championship Finals"
+    path: "Battle! World Championship Finals.brstm"
     type: battle
-  - id: battle_zinnia
-    path: "Battle! Zinnia.brstm"
+  - id: battle_zinnia_oras
     title: "Battle! Zinnia"
+    path: "Battle! Zinnia.brstm"
     type: battle
-  - id: bicycle_omega_ruby
-    path: "Bicycle.brstm"
+  - id: bicycle_oras
     title: "Bicycle"
+    path: "Bicycle.brstm"
     type: result
-  - id: contest_hall_lobby
-    path: "Contest Hall Lobby.brstm"
+  - id: contest_hall_lobby_oras
     title: "Contest Hall Lobby"
+    path: "Contest Hall Lobby.brstm"
     type: result
-  - id: contest_results_omega_ruby
-    path: "Contest Results.brstm"
+  - id: contest_results_oras
     title: "Contest Results"
+    path: "Contest Results.brstm"
     type: result
-  - id: contest_win
-    path: "Contest Win!.brstm"
+  - id: contest_win_oras
     title: "Contest Win!"
+    path: "Contest Win!.brstm"
     type: result
-  - id: contest
-    path: "Contest!.brstm"
+  - id: contest_oras
     title: "Contest!"
+    path: "Contest!.brstm"
     type: result
-  - id: contest_variation
-    path: "Contest! (Variation).brstm"
+  - id: contest_variation_oras
     title: "Contest! (Variation)"
+    path: "Contest! (Variation).brstm"
     type: result
-  - id: dewford_town
-    path: "Dewford Town.brstm"
+  - id: dewford_town_oras
     title: "Dewford Town"
+    path: "Dewford Town.brstm"
     type: betting
-  - id: diving
-    path: "Diving.brstm"
+  - id: diving_oras
     title: "Diving"
+    path: "Diving.brstm"
     type: betting
-  - id: drought
-    path: "Drought.brstm"
+  - id: drought_oras
     title: "Drought"
+    path: "Drought.brstm"
     type: warning
-  - id: encounter_ace_trainer_omega_ruby
-    path: "Encounter! Ace Trainer.brstm"
+  - id: encounter_ace_trainer_oras
     title: "Encounter! Ace Trainer"
+    path: "Encounter! Ace Trainer.brstm"
     type: warning
-  - id: encounter_bikini_sister
-    path: "Encounter! Bikini Sister.brstm"
+  - id: encounter_bikini_sister_oras
     title: "Encounter! Bikini Sister"
+    path: "Encounter! Bikini Sister.brstm"
     type: warning
-  - id: encounter_brendan
-    path: "Encounter! Brendan.brstm"
+  - id: encounter_brendan_oras
     title: "Encounter! Brendan"
+    path: "Encounter! Brendan.brstm"
     type: warning
-  - id: encounter_champion
-    path: "Encounter! Champion.brstm"
+  - id: encounter_champion_oras
     title: "Encounter! Champion"
+    path: "Encounter! Champion.brstm"
     type: warning
-  - id: encounter_elite_four
-    path: "Encounter! Elite Four.brstm"
+  - id: encounter_elite_four_oras
     title: "Encounter! Elite Four"
+    path: "Encounter! Elite Four.brstm"
     type: warning
-  - id: encounter_gentleman_omega_ruby
-    path: "Encounter! Gentleman.brstm"
+  - id: encounter_gentleman_oras
     title: "Encounter! Gentleman"
+    path: "Encounter! Gentleman.brstm"
     type: warning
-  - id: encounter_hiker_omega_ruby
-    path: "Encounter! Hiker.brstm"
+  - id: encounter_hiker_oras
     title: "Encounter! Hiker"
+    path: "Encounter! Hiker.brstm"
     type: warning
-  - id: encounter_maxie_archie
-    path: "Encounter! Maxie - Archie.brstm"
+  - id: encounter_maxie_archie_oras
     title: "Encounter! Maxie - Archie"
+    path: "Encounter! Maxie - Archie.brstm"
     type: warning
-  - id: encounter_may
-    path: "Encounter! May.brstm"
+  - id: encounter_may_oras
     title: "Encounter! May"
+    path: "Encounter! May.brstm"
     type: warning
-  - id: encounter_psychic_omega_ruby
-    path: "Encounter! Psychic.brstm"
+  - id: encounter_psychic_oras
     title: "Encounter! Psychic"
+    path: "Encounter! Psychic.brstm"
     type: warning
-  - id: encounter_team_aqua
-    path: "Encounter! Team Aqua.brstm"
+  - id: encounter_team_aqua_oras
     title: "Encounter! Team Aqua"
+    path: "Encounter! Team Aqua.brstm"
     type: warning
-  - id: encounter_youngster_omega_ruby
-    path: "Encounter! Youngster.brstm"
+  - id: encounter_youngster_oras
     title: "Encounter! Youngster"
+    path: "Encounter! Youngster.brstm"
     type: warning
-  - id: encounter_team_magma
-    path: "Encounter! Team Magma.brstm"
+  - id: encounter_team_magma_oras
     title: "Encounter! Team Magma"
+    path: "Encounter! Team Magma.brstm"
     type: warning
-  - id: encounter_zinnia
-    path: "Encounter! Zinnia.brstm"
+  - id: encounter_zinnia_oras
     title: "Encounter! Zinnia"
+    path: "Encounter! Zinnia.brstm"
     type: warning
   - id: ever_grande_city_oras
-    path: "Ever Grande City.brstm"
     title: "Ever Grande City"
+    path: "Ever Grande City.brstm"
     type: betting
-  - id: fallarbor_town
-    path: "Fallarbor Town.brstm"
+  - id: fallarbor_town_oras
     title: "Fallarbor Town"
+    path: "Fallarbor Town.brstm"
     type: betting
-  - id: follow_me
-    path: "Follow Me!.brstm"
+  - id: follow_me_oras
     title: "Follow Me!"
+    path: "Follow Me!.brstm"
     type: warning
-  - id: fortree_city
-    path: "Fortree City.brstm"
+  - id: fortree_city_oras
     title: "Fortree City"
+    path: "Fortree City.brstm"
     type: betting
-  - id: help_me
-    path: "H-Help Me!.brstm"
+  - id: help_me_oras
     title: "H-Help Me!"
+    path: "H-Help Me!.brstm"
     type: warning
-  - id: hall_of_fame_omega_ruby
-    path: "Hall of Fame.brstm"
+  - id: hall_of_fame_oras
     title: "Hall of Fame"
+    path: "Hall of Fame.brstm"
     type: betting
-  - id: hall_of_fame_introduction
-    path: "Hall of Fame Induction.brstm"
+  - id: hall_of_fame_introduction_oras
     title: "Hall of Fame Induction"
+    path: "Hall of Fame Induction.brstm"
     type: result
-  - id: heavy_rainfall_omega_ruby
-    path: "Heavy Rainfall.brstm"
+  - id: heavy_rainfall_oras
     title: "Heavy Rainfall"
+    path: "Heavy Rainfall.brstm"
     type: warning
-  - id: lilycove_city
-    path: "Lilycove City.brstm"
+  - id: lilycove_city_oras
     title: "Lilycove City"
+    path: "Lilycove City.brstm"
     type: betting
-  - id: littleroot_town
-    path: "Littleroot Town.brstm"
+  - id: littleroot_town_oras
     title: "Littleroot Town"
+    path: "Littleroot Town.brstm"
     type: betting
-  - id: marine_science_museum
-    path: "Marine Science Museum.brstm"
+  - id: marine_science_museum_oras
     title: "Marine Science Museum"
+    path: "Marine Science Museum.brstm"
     type: betting
-  - id: meteor_falls
-    path: "Meteor Falls.brstm"
+  - id: meteor_falls_oras
     title: "Meteor Falls"
+    path: "Meteor Falls.brstm"
     type: betting
-  - id: mt_chimney
-    path: "Mt. Chimney.brstm"
+  - id: mt_chimney_oras
     title: "Mt. Chimney"
+    path: "Mt. Chimney.brstm"
     type: betting
-  - id: mt_pyre
-    path: "Mt. Pyre.brstm"
+  - id: mt_pyre_oras
     title: "Mt. Pyre"
+    path: "Mt. Pyre.brstm"
     type: betting
-  - id: oldale_town
-    path: "Oldale Town.brstm"
+  - id: oldale_town_oras
     title: "Oldale Town"
+    path: "Oldale Town.brstm"
     type: betting
-  - id: petalburg_city
-    path: "Petalburg City.brstm"
+  - id: petalburg_city_oras
     title: "Petalburg City"
+    path: "Petalburg City.brstm"
     type: betting
-  - id: petalburg_woods
-    path: "Petalburg Woods.brstm"
+  - id: petalburg_woods_oras
     title: "Petalburg Woods"
+    path: "Petalburg Woods.brstm"
     type: betting
-  - id: pokemart_omega_ruby
-    path: "Poké Mart.brstm"
+  - id: pokemart_oras
     title: "Poké Mart"
+    path: "Poké Mart.brstm"
     type: betting
-  - id: pokemon_gym_omega_ruby
-    path: "Pokémon Gym.brstm"
+  - id: pokemon_gym_oras
     title: "Pokémon Gym"
+    path: "Pokémon Gym.brstm"
     type: betting
-  - id: pokemon_center_omega_ruby
-    path: "Pokémon Center.brstm"
+  - id: pokemon_center_oras
     title: "Pokémon Center"
+    path: "Pokémon Center.brstm"
     type: betting
-  - id: professor_birchs_lab
-    path: "Professor Birch's Laboratory.brstm"
+  - id: professor_birchs_lab_oras
     title: "Professor Birch's Laboratory"
+    path: "Professor Birch's Laboratory.brstm"
     type: betting
-  - id: route_101
-    path: "Route 101.brstm"
+  - id: route_101_oras
     title: "Route 101"
+    path: "Route 101.brstm"
     type: betting
-  - id: route_110
-    path: "Route 110.brstm"
+  - id: route_110_oras
     title: "Route 110"
+    path: "Route 110.brstm"
     type: betting
-  - id: route_104
-    path: "Route 104.brstm"
+  - id: route_104_oras
     title: "Route 104"
+    path: "Route 104.brstm"
     type: betting
-  - id: route_111
-    path: "Route 111.brstm"
+  - id: route_111_oras
     title: "Route 111"
+    path: "Route 111.brstm"
     type: betting
-  - id: route_113
-    path: "Route 113.brstm"
+  - id: route_113_oras
     title: "Route 113"
+    path: "Route 113.brstm"
     type: betting
-  - id: route_120
-    path: "Route 120.brstm"
+  - id: route_120_oras
     title: "Route 120"
+    path: "Route 120.brstm"
     type: betting
-  - id: route_119
-    path: "Route 119.brstm"
+  - id: route_119_oras
     title: "Route 119"
+    path: "Route 119.brstm"
     type: betting
-  - id: city
-    path: "Rustboro - Mauville - Mossdeep City.brstm"
+  - id: rustboro_mauville_mossdeep_city_oras
     title: "Rustboro - Mauville - Mossdeep City"
+    path: "Rustboro - Mauville - Mossdeep City.brstm"
     type: betting
-  - id: safari_zone_omega_ruby
-    path: "Safari Zone.brstm"
+  - id: safari_zone_oras
     title: "Safari Zone"
+    path: "Safari Zone.brstm"
     type: betting
-  - id: sealed_chamber
-    path: "Sealed Chamber.brstm"
+  - id: sealed_chamber_oras
     title: "Sealed Chamber"
+    path: "Sealed Chamber.brstm"
     type: betting
-  - id: secret_base
-    path: "Secret Base.brstm"
+  - id: secret_base_oras
     title: "Secret Base"
+    path: "Secret Base.brstm"
     type: betting
-  - id: slateport_city
-    path: "Slateport City.brstm"
+  - id: slateport_city_oras
     title: "Slateport City"
+    path: "Slateport City.brstm"
     type: betting
-  - id: southern_island
-    path: "Southern Island.brstm"
+  - id: southern_island_oras
     title: "Southern Island"
+    path: "Southern Island.brstm"
     type: betting
-  - id: surfing_omega_ruby
-    path: "Surfing.brstm"
+  - id: surfing_oras
     title: "Surfing"
+    path: "Surfing.brstm"
     type: betting
-  - id: title_screen_omega_ruby
-    path: "Title Screen.brstm"
+  - id: title_screen_oras
     title: "Title Screen"
+    path: "Title Screen.brstm"
     type: result
-  - id: trainers_school
-    path: "Trainer's School.brstm"
+  - id: trainers_school_oras
     title: "Trainer's School"
+    path: "Trainer's School.brstm"
     type: betting
-  - id: verdanturf_town
-    path: "Verdanturf Town.brstm"
+  - id: verdanturf_town_oras
     title: "Verdanturf Town"
+    path: "Verdanturf Town.brstm"
     type: betting
-  - id: trick_house_omega_ruby
-    path: "Trick House.brstm"
+  - id: trick_house_oras
     title: "Trick House"
+    path: "Trick House.brstm"
     type: betting
-  - id: victory_road_omega_ruby
-    path: "Victory Road.brstm"
+  - id: victory_road_oras
     title: "Victory Road"
+    path: "Victory Road.brstm"
     type: betting
-  - id: victory_champion_omega_ruby
-    path: "Victory! Champion.brstm"
+  - id: victory_champion_oras
     title: "Victory! Champion"
+    path: "Victory! Champion.brstm"
     type: result
-  - id: victory_gym_leader_omega_ruby
-    path: "Victory! Gym Leader.brstm"
+  - id: victory_gym_leader_oras
     title: "Victory! Gym Leader"
+    path: "Victory! Gym Leader.brstm"
     type: result
-  - id: victory_team_aqua-magma
-    path: "Victory! Team Aqua-Magma.brstm"
+  - id: victory_team_aqua_magma_oras
     title: "Victory! Team Aqua-Magma"
+    path: "Victory! Team Aqua-Magma.brstm"
     type: result
-  - id: victory_trainer_omega_ruby
-    path: "Victory! Trainer.brstm"
+  - id: victory_trainer_oras
     title: "Victory! Trainer"
+    path: "Victory! Trainer.brstm"
     type: result
-  - id: victory_wild_pokemon_omega_ruby
-    path: "Victory! Wild Pokémon.brstm"
+  - id: victory_wild_pokemon_oras
     title: "Victory! Wild Pokémon"
+    path: "Victory! Wild Pokémon.brstm"
     type: result
-  - id: sootopolis_city
+  - id: sootopolis_city_oras
     title: "Sootopolis City"
     path: "Sootopolis City.brstm"
     type: betting
-  - id: sea_mauville
+  - id: sea_mauville_oras
     title: "Sea Mauville"
     path: "Sea Mauville.brstm"
     type: betting
-  - id: encounter_wally
+  - id: encounter_wally_oras
     title: "Encounter! Wally"
     path: "Encounter! Wally.brstm"
     type: result
-  - id: encounter_lisia
+  - id: encounter_lisia_oras
     title: "Encounter! Lisia"
     path: "Encounter! Lisia.brstm"
     type: warning
-  - id: soaring_dreams
+  - id: soaring_dreams_oras
     title: "Soaring Dreams"
     path: "Soaring Dreams.brstm"
     type: result
-  - id: soaring_illusions
+  - id: soaring_illusions_oras
     title: "Soaring Illusions"
     path: "Soaring Illusions.brstm"
     type: break
@@ -389,16 +389,24 @@ songs:
     title: "Sky Pillar"
     path: "Sky Pillar.brstm"
     type: warning
-  - id: per_aspera_ad_astra
+  - id: per_aspera_ad_astra_oras
     title: "Per Aspera Ad Astra"
     path: "Per Aspera Ad Astra (Looped).brstm"
     type: result
-  - id: explosive_encounters_red_and_blue
+  - id: explosive_encounters_red_and_blue_oras
     title: "Explosive Encounters! Red and Blue"
     path: "Explosive Encounters! Red and Blue.brstm"
     type: warning
-  - id: encounter_triathlete
+  - id: encounter_triathlete_oras
     title: "Encounter! Triathlete"
     path: "Encounter! Triathlete.brstm"
     type: warning
+  - id: ending_theme_oras
+    title: "Ending Theme"
+    path: "bgm_sg_ending.dspadpcm.bcstm"
+    type: break
+  - id: introductions_oras
+    title: "Introductions"
+    path: "bgm_sg_starting2.dspadpcm.bcstm"
+    type: betting
 ...

@@ -1,13 +1,13 @@
 ---
 id: kirby_and_the_amazing_mirror
-platform: "GBA"
 title: "Kirby & The Amazing Mirror"
 series: kirby
+platform: "GBA"
 year: 2004
 songs: 
   - id: area_3_cabbage_cavern
-    path: "Area 3 - Cabbage Cavern.minigsf"
     title: "Area 3 - Cabbage Cavern"
+    path: "Area 3 - Cabbage Cavern.minigsf"
     type: betting
   - id: area_6_olive_ocean
     title: "Area 6 - Olive Ocean"
@@ -20,63 +20,67 @@ songs:
     type: betting
     ends: 2:11
   - id: intro_stage_amazing_mirror
-    path: "Intro Stage.minigsf"
     title: "Intro Stage"
+    path: "Intro Stage.minigsf"
     type: result
   - id: area_2_moonlight_mansion_area_5_carrot_castle
-    path: "Area 2 - Moonlight Mansion, Area 5 - Carrot Castle.minigsf"
     title: "Area 2 - Moonlight Mansion / Area 5 - Carrot Castle"
+    path: "Area 2 - Moonlight Mansion, Area 5 - Carrot Castle.minigsf"
     type: betting
   - id: area_9_candy_constellation
-    path: "Area 9 - Candy Constellation.minigsf"
     title: "Area 9 - Candy Constellation"
+    path: "Area 9 - Candy Constellation.minigsf"
     type: result
   - id: bonus_chance_amazing_mirror
-    path: "Bonus Chance.minigsf"
     title: "Bonus Chance"
+    path: "Bonus Chance.minigsf"
     type: warning
   - id: ending_amazing_mirror
-    path: "Ending.minigsf"
     title: "Ending"
+    path: "Ending.minigsf"
     type: result
   - id: kirby_wave_ride
-    path: "Kirby Wave Ride.minigsf"
     title: "Kirby Wave Ride"
+    path: "Kirby Wave Ride.minigsf"
     type: result
   - id: speed_eaters
-    path: "Speed Eaters.minigsf"
     title: "Speed Eaters"
+    path: "Speed Eaters.minigsf"
     type: result
   - id: dark_meta_knight_attacks_amazing_mirror
-    path: "Dark Meta Knight Attacks.minigsf"
     title: "Dark Meta Knight Attacks"
+    path: "Dark Meta Knight Attacks.minigsf"
     type: warning
   - id: area_4_mustard_mountain
-    path: "Area 4 - Mustard Mountain.minigsf"
     title: "Area 4 - Mustard Mountain"
+    path: "Area 4 - Mustard Mountain.minigsf"
     type: betting
   - id: mini_boss_battle_amazing_mirror
-    path: "Mini-Boss Battle.minigsf"
     title: "Mini-Boss Battle"
+    path: "Mini-Boss Battle.minigsf"
     type: warning
   - id: boss_battle_amazing_mirror
-    path: "Boss Battle.minigsf"
     title: "Boss Battle"
+    path: "Boss Battle.minigsf"
     type: warning
   - id: dark_meta_knight_battle
-    path: "Dark Meta Knight Battle.minigsf"
     title: "Dark Meta Knight Battle"
+    path: "Dark Meta Knight Battle.minigsf"
     type: warning
   - id: dark_minds_second_form
-    path: "Dark Mind's Second Form.minigsf"
     title: "Dark Mind's Second Form"
+    path: "Dark Mind's Second Form.minigsf"
     type: warning
   - id: fighting_dark_mind_in_the_sky
-    path: "Fighting Dark Mind in the Sky.minigsf"
     title: "Fighting Dark Mind in the Sky"
+    path: "Fighting Dark Mind in the Sky.minigsf"
     type: warning
   - id: overworld_amazing_mirror
-    path: "Overworld.minigsf"
     title: "Overworld"
+    path: "Overworld.minigsf"
     type: break
+  - id: forest_natural_area_amazing_mirror
+    title: "Forest & Natural Area"
+    path: "07 Area 1 - Rainbow Route.minigsf"
+    type: betting
 ...

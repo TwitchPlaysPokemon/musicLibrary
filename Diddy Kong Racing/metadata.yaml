@@ -1,8 +1,8 @@
 ---
 id: diddy_kong_racing
 title: "Diddy Kong Racing"
-year: 1997
 platform: "N64"
+year: 1997
 songs:
   - id: end_boss
     title: "End Boss"
@@ -102,7 +102,7 @@ songs:
   - id: tt
     title: "TT"
     path: "50 - TT.miniusf"
-    type: break
+    type: betting
   - id: end_boss_level_start
     title: "End Boss Level Start"
     path: "41 - End Boss Level Start.miniusf"

@@ -2,8 +2,8 @@
 id: donkey_kong_country_3
 title: "Donkey Kong Country 3: Dixie Kong's Double Trouble!"
 series: donkeykong
-year: 1996
 platform: "SNES"
+year: 1996
 songs:
   - id: stilt_village
     title: "Stilt Village"
@@ -85,7 +85,7 @@ songs:
     type: result
   - id: dixie_beat
     title: "Dixie Beat"
-    path: "02 Dixie Beat.spc"
+    path: "01 Dixie Beat.brstm"
     type: betting
   - id: boss_boogie
     title: "Boss Boogie"

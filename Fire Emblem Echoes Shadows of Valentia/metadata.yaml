@@ -9,4 +9,64 @@ songs:
     title: "Pride and Arrogance"
     path: "Pride and Arrogance.brstm"
     type: warning
+  - id: warring_powers
+    title: "Warring Powers"
+    path: "BGM_BTL_Boss1.dspadpcm.bcstm"
+    type: warning
+  - id: a_blade_on_the_wind
+    title: "A Blade on the Wind"
+    path: "BGM_BTL_C1.dspadpcm.bcstm"
+    type: warning
+  - id: borders
+    title: "Borders"
+    path: "BGM_EVT_Amb2.dspadpcm.bcstm"
+    type: warning
+  - id: an_ordinary_day
+    title: "An Ordinary Day"
+    path: "BGM_EVT_Daily.dspadpcm.bcstm"
+    type: break
+  - id: a_distant_promise
+    title: "A Distant Promise"
+    path: "BGM_EVT_Love_ABC.dspadpcm.bcstm"
+    type: break
+  - id: march_to_deliverance
+    title: "March to Deliverance"
+    path: "BGM_MAP_B_A2.dspadpcm.bcstm"
+    type: betting
+  - id: with_mila_s_divine_protection
+    title: "With Mila's Divine Protection"
+    path: "BGM_MAP_B_C2.dspadpcm.bcstm"
+    type: betting
+  - id: the_sacrifice_and_the_saint
+    title: "The Sacrifice and The Saint"
+    path: "BGM_MAP_B_C3.dspadpcm.bcstm"
+    type: betting
+  - id: the_air_of_brutality
+    title: "The Air of Brutality"
+    path: "BGM_MAP_B_E1.dspadpcm.bcstm"
+    type: warning
+  - id: the_slumbering_labyrinth
+    title: "The Slumbering Labyrinth"
+    path: "BGM_MAP_D_Hard.dspadpcm.bcstm"
+    type: break
+  - id: sea_winds_and_travellers
+    title: "Sea Winds and Travellers"
+    path: "BGM_MAP_D_Port.dspadpcm.bcstm"
+    type: break
+  - id: preparations_deliverance
+    title: "Preparations: Deliverance"
+    path: "BGM_SYS_Base_A1.dspadpcm.bcstm"
+    type: betting
+  - id:  preparations_pilgrimage
+    title: "Preparations: Pilgrimage"
+    path: "BGM_SYS_Base_C1.dspadpcm.bcstm"
+    type: betting
+  - id: the_voice_that_calls_you
+    title: "The Voice that Calls You"
+    path: "BGM_SYS_ED2.dspadpcm.bcstm"
+    type: break
+  - id: revelations
+    title: "Revelations"
+    path: "BGM_SYS_Menu.dspadpcm.bcstm"
+    type: break
 ...
