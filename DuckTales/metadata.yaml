@@ -8,4 +8,9 @@ songs:
     title: "The Amazon"
     path: "03 The Amazon.vgz"
     type: betting
+  - id: the_himalayas_ducktales_nes
+    title: "The Himalayas"
+    path: "06 The Himalayas.vgz"
+    tags: [xmas]
+    type: betting
 ...

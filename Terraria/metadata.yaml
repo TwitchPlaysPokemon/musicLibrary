@@ -1,18 +1,14 @@
 ---
 id: terraria
 title: "Terraria"
-platform: ["Wii U", "Various"]
-#other platforms: ["PC", "360", "PS3", "Vita", "Android", "iOS", "Windows Phone", "Mobile", "PS4", "XBone", "3DS", "Switch"]
+platform: "Various"
+#other platforms: ["PC", "360", "PS3", "Wii U", "Vita", "Android", "iOS", "Windows Phone", "Mobile", "PS4", "XBone", "3DS", "Switch"]
 year: 2011
 songs: 
   - id: alternate_day_terraria
     title: "Alternate Day"
     path: "Alternate Day.brstm"
     type: betting
-  - id: boss_1_terraria
-    title: "Boss 1"
-    path: "Boss 1.brstm"
-    type: warning
   - id: corruption_terraria
     title: "Corruption"
     path: "Corruption.brstm"
@@ -21,18 +17,24 @@ songs:
     title: "Desert"
     path: "Desert.brstm"
     type: betting
+  - id: eclipse_terraria
+    title: "Eclipse"
+    path: "Eclipse.brstm"
+    type: betting
+  - id: frost_moon
+    title: "Frost Moon"
+    path: "Frost Moon.brstm"
+    tags: [xmas]
+    type: betting
   - id: ice_terraria
     title: "Ice"
     path: "Ice.brstm"
+    tags: [xmas]
     type: betting
   - id: jungle_terraria
     title: "Jungle"
     path: "Jungle.brstm"
     type: betting
-  - id: lunar_boss_terraria
-    title: "Lunar Boss"
-    path: "Lunar Boss.brstm"
-    type: warning
   - id: overworld_day_terraria
     title: "Overworld Day"
     path: "Overworld Day.brstm"
@@ -49,8 +51,12 @@ songs:
     title: "Underground Hallow"
     path: "Underground Hallow.brstm"
     type: betting
-  - id: eclipse_terraria
-    title: "Eclipse"
-    path: "Eclipse.brstm"
-    type: betting
+  - id: boss_1_terraria
+    title: "Boss 1"
+    path: "Boss 1.brstm"
+    type: warning
+  - id: lunar_boss_terraria
+    title: "Lunar Boss"
+    path: "Lunar Boss.brstm"
+    type: warning
 ...

@@ -2,8 +2,8 @@
 id: sonic_the_hedgehog_2006
 title: "Sonic the Hedgehog '06"
 series: sonic
-year: 2006
 platform: ["360", "PS3"]
+year: 2006
 songs:
   - id: egg_cerebus_genesis
     title: "Boss - Egg-Cerebus & Egg Genesis"
@@ -72,6 +72,7 @@ songs:
   - id: white_acropolis_peak
     title: "White Acropolis - Snowy Peak"
     path: "White Acropolis - Snowy Peak.brstm"
+    tags: [xmas]
     type: betting
   - id: white_acropolis_base
     title: "White Acropolis - The Base"

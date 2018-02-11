@@ -49,6 +49,14 @@ songs:
     title: "Route 38"
     path: "Route 38.brstm"
     type: betting
+  - id: route_4_movie_07_anime
+    title: "Route 4 (Movie 07)"
+    path: "Route 4 (Movie 07).brstm"
+    type: betting
+  - id: route_4_movie_13_anime
+    title: "Route 4 (Movie 13)"
+    path: "Route 4 (Movie 13).brstm"
+    type: betting
   - id: sealed_chamber_anime
     title: "Sealed Chamber"
     path: "Sealed Chamber.brstm"
@@ -144,6 +152,10 @@ songs:
   - id: ending_rby_movie_06_anime
     title: "Ending (RBY - Movie 06)"
     path: "Ending (RBY - Movie 06).brstm"
+    type: result
+  - id: ending_rby_movie_17_anime
+    title: "Ending (RBY - Movie 17)"
+    path: "Ending (RBY - Movie 17).brstm"
     type: result
   - id: follow_me_anime
     title: "Follow Me!"

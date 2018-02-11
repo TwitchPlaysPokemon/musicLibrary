@@ -1,0 +1,39 @@
+---
+id: christmas_nights_into_dreams
+title: "Christmas NiGHTS into Dreams..."
+series: nights
+platform: "Saturn"
+year: 1996
+songs: 
+  - id: winter_sleep
+    title: "Winter Sleep"
+    path: "Winter Sleep.brstm"
+    tags: [xmas]
+    type: break
+  - id: dream_bells
+    title: "Dream Bells"
+    path: "chirsmas_cdda_07.adx"
+    tags: [xmas]
+    type: betting
+  - id: the_dragon_gave_a_loud_scream_holy_night
+    title: "The Dragon Gave A Loud Scream - Holy Night -"
+    path: "chirsmas_cdda_08.adx"
+    ends: 1:59
+    tags: [xmas]
+    type: betting
+  - id: rolling_eggman
+    title: "Rolling Eggman"
+    path: "chirsmas_cdda_10.adx"
+    tags: [xmas]
+    type: warning
+  - id: welcome_to_christmas_nights
+    title: "Welcome To Christmas NiGHTS"
+    path: "chirsmas_cdda_13.adx"
+    tags: [xmas]
+    type: break
+  - id: new_year_s_9th
+    title: "New Year's \"9th\""
+    path: "chirsmas_cdda_15.adx"
+    tags: [xmas]
+    type: result
+...

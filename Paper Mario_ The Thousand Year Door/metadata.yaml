@@ -13,6 +13,11 @@ songs:
     title: "Bowser's Quest - World 1-1"
     path: "stgk_fld1_32k.dsp"
     type: betting
+  - id: fahr_outpost
+    title: "Fahr Outpost"
+    path: "stg_bmm1_32k.dsp"
+    tags: [xmas]
+    type: betting
   - id: glitzville_ttyd
     title: "Glitzville"
     path: "stg_urg11_32k.dsp"

@@ -69,4 +69,9 @@ songs:
     title: "Tension"
     path: "SMG2_galaxy_danger_strm.ast"
     type: warning
+  - id: freezy_flake_galaxy
+    title: "Freezy Flake Galaxy"
+    path: "SMG2_galaxy19_strm.ast"
+    tags: [xmas]
+    type: break
 ...

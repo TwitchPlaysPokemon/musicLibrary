@@ -1,0 +1,89 @@
+---
+id: kirby_battle_royale
+title: "Kirby Battle Royale"
+series: kirby
+platform: "3DS"
+year: 2017
+songs: 
+  - id: battle_arena_kirby_battle_royale
+    title: "Battle Arena"
+    path: "Battle 1 - Battle Arena.brstm"
+    type: battle
+  - id: apple_scramble
+    title: "Apple Scramble"
+    path: "Battle 2 - Apple Scramble.brstm"
+    type: betting
+  - id: coin_clash
+    title: "Coin Clash"
+    path: "Battle 4 - Coin Clash.brstm"
+    type: betting
+  - id: attack_riders
+    title: "Attack Riders"
+    path: "Battle 6 - Attack Riders.brstm"
+    type: betting
+  - id: robo_bonkers
+    title: "Robo Bonkers"
+    path: "Battle 15 - Robo Bonkers.brstm"
+    type: betting
+  - id: robo_bonkers_final_phase
+    title: "Robo Bonkers (Final Phase)"
+    path: "Battle 16 - Robo Bonkers (Final Phase).brstm"
+    type: battle
+  - id: ore_express
+    title: "Ore Express"
+    path: "Battle 19 - Ore Express.brstm"
+    type: betting
+  - id: flagball
+    title: "Flagball"
+    path: "Battle 21 - Flagball.brstm"
+    type: betting
+  - id: stadium_entrance
+    title: "Stadium Entrance"
+    path: "Cake Royale 1 - Stadium Entrance.brstm"
+    type: betting
+  - id: king_dedede_appears_kirby_battle_royale
+    title: "King Dedede Appears"
+    path: "Cake Royale 2 - King Dedede Appears.brstm"
+    type: break
+  - id: king_dedede_s_temper_tantrum
+    title: "King Dedede's Temper Tantrum"
+    path: "Cake Royale 10 - King Dedede's Temper Tantrum.brstm"
+    type: warning
+  - id: dededestroyer_z_battle
+    title: "Dededestroyer Z Battle"
+    path: "Cake Royale 13 - Dededestroyer Z Battle.brstm"
+    type: battle
+  - id: staff_credits_kirby_battle_royale
+    title: "Staff Credits"
+    path: "Cake Royale 15 - Staff Credits.brstm"
+    ends: 2:25
+    type: betting
+  - id: main_theme_kirby_battle_royale
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: main_menu_kirby_battle_royale
+    title: "Main Menu"
+    path: "Menu 2 - Main Menu.brstm"
+    type: betting
+  - id: collection_mode
+    title: "Collection Mode"
+    path: "Menu 4 - Collection Mode.brstm"
+    type: break
+  - id: training_mode_kirby_battle_royale
+    title: "Training Mode"
+    path: "Menu 6 - Training Mode.brstm"
+    type: betting
+  - id: prologue_demo_kirby_battle_royale
+    title: "Prologue Demo"
+    path: "Prologue 1 - Prologue Demo.brstm"
+    type: result
+  - id: changing_view
+    title: "Changing View"
+    path: "Prologue 2 - Changing View.brstm"
+    type: betting
+  - id: final_results_kirby_battle_royale
+    title: "Final Results"
+    path: "Results 2 - Final Results.brstm"
+    type: result
+...

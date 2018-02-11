@@ -5,6 +5,26 @@ series: rhythmheaven
 platform: "NDS"
 year: 2008
 songs:
+  - id: blue_birds
+    title: "Blue Birds"
+    path: "Blue Birds.brstm"
+    type: betting
+  - id: blue_birds_2_rhythm_heaven
+    title: "Blue Birds 2"
+    path: "Blue Birds 2.brstm"
+    type: betting
+  - id: dj_school_rhythm_heaven
+    title: "DJ School"
+    path: "DJ School.brstm"
+    type: betting
+  - id: dog_ninja_rhythm_heaven
+    title: "Dog Ninja"
+    path: "Dog Ninja.brstm"
+    type: warning
+  - id: drummer_duel_rhythm_heaven
+    title: "Drummer Duel"
+    path: "Drummer Duel.brstm"
+    type: betting
   - id: lockstep_rhythm_heaven
     title: "Lockstep"
     path: "Lockstep.brstm"
@@ -13,30 +33,6 @@ songs:
     title: "Love Lab"
     path: "Love Lab.brstm"
     type: break
-  - id: moai_doo_wop_2_rhythm_heaven
-    title: "Moai-Doo-Wop 2"
-    path: "Moai-Doo-Wop 2.brstm"
-    type: betting
-  - id: munchy_monk_2_rhythm_heaven
-    title: "Munchy Monk 2"
-    path: "Munchy Monk 2.brstm"
-    type: betting
-  - id: dj_school_rhythm_heaven
-    title: "DJ School"
-    path: "DJ School.brstm"
-    type: betting
-  - id: blue_birds_2_rhythm_heaven
-    title: "Blue Birds 2"
-    path: "Blue Birds 2.brstm"
-    type: betting
-  - id: drummer_duel_rhythm_heaven
-    title: "Drummer Duel"
-    path: "Drummer Duel.brstm"
-    type: betting
-  - id: dog_ninja_rhythm_heaven
-    title: "Dog Ninja"
-    path: "Dog Ninja.brstm"
-    type: warning
   - id: menu_rhythm_heaven
     title: "Menu"
     path: "Menu.brstm"
@@ -45,46 +41,22 @@ songs:
     title: "Menu 2"
     path: "Menu 2.brstm"
     type: betting
-  - id: rhythm_rally_2_rhythm_heaven
-    title: "Rhythm Rally 2"
-    path: "Rhythm Rally 2.brstm"
-    type: battle
-  - id: remix_10_rhythm_heaven
-    title: "Remix 10"
-    path: "Remix 10.brstm"
+  - id: moai_doo_wop_2_rhythm_heaven
+    title: "Moai-Doo-Wop 2"
+    path: "Moai-Doo-Wop 2.brstm"
     type: betting
-  - id: space_soccer_rhythm_heaven
-    title: "Space Soccer"
-    path: "Space Soccer.brstm"
+  - id: munchy_monk_2_rhythm_heaven
+    title: "Munchy Monk 2"
+    path: "Munchy Monk 2.brstm"
     type: betting
-  - id: glee_club
-    title: "Glee Club"
-    path: "Glee Club.brstm"
-    type: break
-  - id: blue_birds
-    title: "Blue Birds"
-    path: "Blue Birds.brstm"
+  - id: remix_1_rhythm_heaven
+    title: "Remix 1"
+    path: "Remix 1.brstm"
     type: betting
-  - id: remix_8
-    title: "Remix 8"
-    path: "Remix 8.brstm"
+  - id: remix_2_rhythm_heaven
+    title: "Remix 2"
+    path: "Remix 2.brstm"
     type: betting
-  - id: ok_rhythm_heaven
-    title: "OK"
-    path: "OK.brstm"
-    type: result
-  - id: try_again_rhythm_heaven
-    title: "Try Again"
-    path: "Try Again.brstm"
-    type: result
-  - id: title_screen_rhythm_heaven
-    title: "Title Screen"
-    path: "Title Screen.brstm"
-    type: result
-  - id: superb_rhythm_heaven
-    title: "Superb"
-    path: "Superb.brstm"
-    type: result
   - id: remix_3_rhythm_heaven
     title: "Remix 3"
     path: "Remix 3.brstm"
@@ -93,8 +65,56 @@ songs:
     title: "Remix 4"
     path: "Remix 4.brstm"
     type: betting
+  - id: remix_5_rhythm_heaven
+    title: "Remix 5"
+    path: "Remix 5.brstm"
+    type: betting
+  - id: remix_6_rhythm_heaven
+    title: "Remix 6"
+    path: "Remix 6.brstm"
+    type: betting
   - id: remix_7_rhythm_heaven
     title: "Remix 7"
     path: "Remix 7.brstm"
     type: betting
+  - id: remix_8_rhythm_heaven
+    title: "Remix 8"
+    path: "Remix 8.brstm"
+    type: betting
+  - id: remix_9_rhythm_heaven
+    title: "Remix 9"
+    path: "Remix 9.brstm"
+    type: betting
+  - id: remix_10_rhythm_heaven
+    title: "Remix 10"
+    path: "Remix 10.brstm"
+    type: betting
+  - id: space_soccer_rhythm_heaven
+    title: "Space Soccer"
+    path: "Space Soccer.brstm"
+    type: betting
+  - id: rhythm_rally_2_rhythm_heaven
+    title: "Rhythm Rally 2"
+    path: "Rhythm Rally 2.brstm"
+    type: battle
+  - id: ok_rhythm_heaven
+    title: "OK"
+    path: "OK.brstm"
+    type: result
+  - id: superb_rhythm_heaven
+    title: "Superb"
+    path: "Superb.brstm"
+    type: result
+  - id: title_screen_rhythm_heaven
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: try_again_rhythm_heaven
+    title: "Try Again"
+    path: "Try Again.brstm"
+    type: result
+  - id: glee_club
+    title: "Glee Club"
+    path: "Glee Club.brstm"
+    type: break
 ...

@@ -8,6 +8,7 @@ songs:
   - id: ice_brain_south_pole
     title: "Ice Brain (South Pole)"
     path: "10 Ice Brain (South Pole).minigsf"
+    tags: [xmas]
     type: betting
   - id: break_resultofmission_mmz2
     title: "Result of Mission II"
@@ -20,5 +21,6 @@ songs:
   - id: ice_brain_remastered
     title: "Ice Brain (Remastered)"
     path: "Ice Brain (Remastered).brstm"
+    tags: [xmas]
     type: betting
 ...

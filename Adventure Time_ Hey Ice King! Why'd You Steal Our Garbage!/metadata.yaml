@@ -1,8 +1,40 @@
+---
 id: adventure_time_hey_ice_king_whyd_you_steal_our_garbage
 title: "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!!"
-year: 2012
 platform: ["DS", "3DS"]
+year: 2012
 songs:
+  - id: candy_kingdom_action
+    title: "Candy Kingdom Action"
+    path: "Candy Kingdom Action.brstm"
+    type: betting
+  - id: candy_kingdom_overworld
+    title: "Candy Kingdom Overworld"
+    path: "Candy Kingdom Overworld.brstm"
+    type: betting
+  - id: dungeon_theme_adventure_time
+    title: "Dungeon Theme"
+    path: "Dungeon Theme.brstm"
+    type: betting
+  - id: grassland_action
+    title: "Grassland Action"
+    path: "Grassland Action.brstm"
+    type: betting
+  - id: ice_kingdom
+    title: "Ice Kingdom"
+    path: "Ice Kingdom.brstm"
+    tags: [xmas]
+    type: betting
+  - id: ice_kingdom_overworld
+    title: "Ice Kingdom Overworld"
+    path: "Ice Kingdom Overworld.brstm"
+    tags: [xmas]
+    type: betting
+  - id: 100_penguin_rush
+    title: "100 Penguin Rush"
+    path: "100 Penguin Rush.brstm"
+    tags: [xmas]
+    type: warning
   - id: cloud_kingdom
     title: "Cloud Kingdom"
     path: "Cloud Kingdom.brstm"
@@ -11,7 +43,4 @@ songs:
     title: "Boss Theme"
     path: "Boss Theme.brstm"
     type: battle
-  - id: candy_kingdom_overworld
-    title: "Candy Kingdom Overworld"
-    path: "Candy Kingdom Overworld.brstm"
-    type: betting
+...

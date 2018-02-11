@@ -5,36 +5,41 @@ series: donkeykong
 platform: "GB"
 year: 1995
 songs:
-  - id: blimp_donkey_kong_land
-    title: "Blimp"
+  - id: blimp_off
+    title: "Blimp Off"
     path: "Blimp.brstm"
     type: betting
-  - id: boss_donkey_kong_land
-    title: "Boss"
+  - id: k_rool_s_acid_punk
+    title: "K. Rool's Acid Punk"
     path: "Boss.brstm"
     type: battle
-  - id: construction_site_donkey_kong_land
-    title: "Construction Site"
+  - id: great_girder_grapple
+    title: "Great Girder Grapple"
     path: "Construction Site.brstm"
     type: betting
-  - id: temple_donkey_kong_land
-    title: "Temple"
+  - id: ancient_beaver_bop
+    title: "Ancient Beaver Bop"
     path: "Temple.brstm"
     type: betting
-  - id: mountain_donkey_kong_land
-    title: "Mountain"
+  - id: monkey_mountain
+    title: "Monkey Mountain"
     path: "Mountain.brstm"
     type: betting
-  - id: coral_donkey_kong_land
-    title: "Coral"
+  - id: aquatic_ambiance_remix
+    title: "Aquatic Ambiance Remix"
     path: "Coral.brstm"
     type: betting
-  - id: flooded_ruins__donkey_kong_land
-    title: "Flooded Ruins"
+  - id: kremlantis
+    title: "Kremlantis"
     path: "Flooded Ruins.brstm"
     type: betting
-  - id: cave_donkey_kong_land
-    title: "Cave"
+  - id: cavey_cavey
+    title: "Cavey Cavey"
     path: "Cave.brstm"
+    type: betting
+  - id: snowy_pig_wings
+    title: "Snowy Pig Wings"
+    path: "Snow.brstm"
+    tags: [xmas]
     type: betting
 ...

@@ -20,6 +20,7 @@ songs:
   - id: vs_final_boss_bittercold_last_battle
     path: "vs. Final Boss (Bittercold Last Battle).brstm"
     title: "vs. Final Boss (Bittercold Last Battle)"
+    tags: [xmas]
     type: battle
   - id: ragged_mountain
     title: "Ragged Mountain"
@@ -32,9 +33,45 @@ songs:
   - id: great_glacier
     title: "Great Glacier"
     path: "Great Glacier.brstm"
+    tags: [xmas]
     type: betting
   - id: stone_cave
     title: "Stone Cave"
     path: "Stone Cave.brstm"
+    type: betting
+  - id: glacier_palace_east_spire
+    title: "Glacier Palace: East Spire"
+    path: "Glacier Palace_ East Spire.brstm"
+    tags: [xmas]
+    type: betting
+  - id: glacier_palace_great_spire
+    title: "Glacier Palace: Great Spire"
+    path: "Glacier Palace_ Great Spire.brstm"
+    tags: [xmas]
+    type: betting
+  - id: glacier_palace_west_spire
+    title: "Glacier Palace: West Spire"
+    path: "Glacier Palace_ West Spire.brstm"
+    tags: [xmas]
+    type: betting
+  - id: kyurem_approaching
+    title: "Kyurem Approaching"
+    path: "Kyurem Approaching.brstm"
+    tags: [xmas]
+    type: warning
+  - id: unexplored_region_of_ice_1
+    title: "Unexplored Region of Ice 1"
+    path: "Unexplored Region of Ice 1.brstm"
+    tags: [xmas]
+    type: warning
+  - id: unexplored_region_of_ice_2
+    title: "Unexplored Region of Ice 2"
+    path: "Unexplored Region of Ice 2.brstm"
+    tags: [xmas]
+    type: break
+  - id: vast_ice_mountain_peak_remix_unused
+    title: "Vast Ice Mountain Peak"
+    path: "Vast Ice Mountain Peak Remix (Unused DLC Song).brstm"
+    tags: [xmas]
     type: betting
 ...

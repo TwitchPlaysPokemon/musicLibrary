@@ -60,19 +60,38 @@ songs:
   - id: cold_reception_in_shiver_city
     title: "Cold Reception in Shiver City"
     path: "217 Cold Reception in Shiver City.miniusf"
+    tags: [xmas]
     type: betting
   - id: detective_mario
     title: "Detective Mario"
     path: "218 Detective Mario.miniusf"
+    tags: [xmas]
     type: betting
+  - id: snow_road
+    title: "Snow Road"
+    path: "219 Snow Road.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: starborn_valley_trail
+    title: "Starborn Valley Trail"
+    path: "220 Starborn Valley Trail.miniusf"
+    tags: [xmas]
+    type: result
   - id: over_shiver_mountain
     title: "Over Shiver Mountain"
     path: "221 Over Shiver Mountain.miniusf"
+    tags: [xmas]
     type: betting
   - id: crystal_palace_crawl
     title: "Crystal Palace Crawl"
     path: "222 Crystal Palace Crawl.miniusf"
+    tags: [xmas]
     type: betting
+  - id: freeze
+    title: "Freeze!"
+    path: "223 Freeze!.miniusf"
+    tags: [xmas]
+    type: battle
   - id: king_of_the_koopas
     title: "King of the Koopas"
     path: "232 King of the Koopas.miniusf"
@@ -96,5 +115,15 @@ songs:
   - id: k64_train_ride
     title: "K64 Train Ride"
     path: "940 K64 Train Ride.miniusf"
+    type: warning
+  - id: shiver_city_mayor
+    title: "Shiver City Mayor"
+    path: "976 Shiver City Mayor.miniusf"
+    tags: [xmas]
+    type: result
+  - id: crystal_king
+    title: "Crystal King"
+    path: "979 Crystal King.miniusf"
+    tags: [xmas]
     type: warning
 ...

@@ -65,11 +65,10 @@ songs:
     title: "Space Gadget"
     path: "Space Gadget.adx"
     type: betting
-#      - id: the_ark
-#        title: "The Ark"
-#        path: "The Ark.brstm"
-#        type: betting
-# this was a meme song waiting to happen, noone played it though
+  - id: the_ark
+    title: "The Ark"
+    path: "The Ark.brstm"
+    type: betting
   - id: the_doom
     title: "The Doom"
     path: "The Doom.adx"

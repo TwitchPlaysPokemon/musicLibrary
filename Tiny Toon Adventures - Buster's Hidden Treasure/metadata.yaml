@@ -32,4 +32,9 @@ songs:
     title: "Inside the Caverns"
     path: "Inside the Caverns.vgz"
     type: betting
+  - id: snowy_highlands_lakeside_at_sunset
+    title: "Snowy Highlands, Lakeside at Sunset"
+    path: "11 - Snowy Highlands, Lakeside at Sunset.vgz"
+    tags: [xmas]
+    type: result
 ...

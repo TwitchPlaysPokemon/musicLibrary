@@ -1,53 +1,67 @@
+---
 id: ape_escape
 title: "Ape Escape"
-year: 1999
+series: apeescape
 platform: "PS1"
+year: 1999
 songs:
   - id: briefing_ape_escape
     title: "Briefing"
-    path: "Briefing.minipsf"
+    path: "02 - Briefing.psf"
     type: warning
-  - id: crumbling_castle
-    title: "Medieval Mayhem ~ Crumbling Castle"
-    path: "Crumbling Castle.minipsf"
-    type: warning
-  - id: fossil_field
-    title: "The Lost Land ~ Molten Lava"
-    path: "Fossil Field.minipsf"
-    type: betting
-  - id: frosty_retreat
-    title: "New Freezeland ~ Frosty Retreat"
-    path: "Frosty Retreat.minipsf"
-    type: warning
-  - id: galaxy_monkey
-    title: "Galaxy Monkey"
-    path: "Galaxy Monkey.minipsf"
-    type: betting
-  - id: molten_lava
-    title: "The Lost Land ~ Molten Lava"
-    path: "Molten Lava.minipsf"
-    type: betting
-  - id: thick_jungle
-    title: "Mysterious Age ~ Thick Jungle"
-    path: "Mysterious Age ~ Thick Jungle.minipsf"
-    type: betting
-  - id: crabby_beach
-    title: "Oceana ~ Crabby Beach"
-    path: "Oceana ~ Crabby Beach.minipsf"
-    type: betting
-  - id: specter_factory
-    title: "Futurama ~ Specter's Factory"
-    path: "Specter's Factory.minipsf"
-    type: betting
   - id: time_station
     title: "Time Station"
-    path: "Time Station.minipsf"
+    path: "05 - Time Station.psf"
     type: break
-  - id: wabi_sabi_wall
-    title: "Medieval Mayhem ~ Wabi Sabi Wall"
-    path: "Wabi Sabi Wall.minipsf"
+  - id: the_lost_land_fossil_field
+    title: "The Lost Land ~ Fossil Field"
+    path: "07 - The Lost Land ~ Fossil Field.psf"
     type: betting
-  - id: western_land
+  - id: the_lost_land_molten_lava
+    title: "The Lost Land ~ Molten Lava"
+    path: "09 - The Lost Land ~ Molten Lava.psf"
+    type: betting
+  - id: mysterious_age_thick_jungle
+    title: "Mysterious Age ~ Thick Jungle"
+    path: "11 - Mysterious Age ~ Thick Jungle.psf"
+    type: betting
+  - id: oceana_crabby_beach
+    title: "Oceana ~ Crabby Beach"
+    path: "15 - Oceana ~ Crabby Beach.psf"
+    type: betting
+  - id: new_freezeland_snowy_mammoth
+    title: "New Freezeland ~ Snowy Mammoth"
+    path: "18 - New Freezeland ~ Snowy Mammoth.psf"
+    tags: [xmas]
+    type: betting
+  - id: new_freezeland_frosty_retreat
+    title: "New Freezeland ~ Frosty Retreat"
+    path: "19 - New Freezeland ~ Frosty Retreat.psf"
+    tags: [xmas]
+    type: warning
+  - id: new_freezeland_hot_springs
+    title: "New Freezeland ~ Hot Springs"
+    path: "21 - New Freezeland ~ Hot Springs.psf"
+    tags: [xmas]
+    type: betting
+  - id: medieval_mayhem_wabi_sabi_wall
+    title: "Medieval Mayhem ~ Wabi Sabi Wall"
+    path: "24 - Medieval Mayhem ~ Wabi Sabi Wall.psf"
+    type: betting
+  - id: medieval_mayhem_crumbling_castle
+    title: "Medieval Mayhem ~ Crumbling Castle"
+    path: "25 - Medieval Mayhem ~ Crumbling Castle.psf"
+    type: betting
+  - id: futurama_specter_factory
+    title: "Futurama ~ Specter's Factory"
+    path: "27 - Futurama ~ Specter's Factory.psf"
+    type: betting
+  - id: specter_land_western_land
     title: "Specter Land ~ Western Land"
-    path: "Western Land.minipsf"
+    path: "34 - Specter Land ~ Western Land.psf"
     type: battle
+  - id: galaxy_monkey
+    title: "Galaxy Monkey"
+    path: "46 - Galaxy Monkey.psf"
+    type: betting
+...

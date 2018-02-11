@@ -1,23 +1,34 @@
 ---
 id: xenoblade_chronicles_x
 title: "Xenoblade Chronicles X"
-year: 2015
+series: xeno
 platform: "Wii U"
+year: 2015
 songs:
-  - id: sylvalum_night
-    title: "Sylvalum (Night)"
-    path: "Sylvalum (Night).brstm"
-    type: betting
   - id: new_los_angeles
     title: "New Los Angeles"
-    path: "New Los Angeles.brstm"
-    type: betting
-  - id: primordia
-    title: "Primordia"
-    path: "Primordia.brstm"
+    path: "x63_00.adx"
     type: betting
   - id: noctilum_day
     title: "Noctilum (Day)"
-    path: "Noctilum (Day) (Looped).brstm"
+    path: "x67_00.adx"
+    type: betting
+  - id: primordia
+    title: "Primordia"
+    path: "x65_00.adx"
+    type: betting
+  - id: primordia_night
+    title: "Primordia (Night)"
+    path: "x66_00.adx"
+    type: betting
+  - id: sylvalum_day
+    title: "Sylvalum (Day)"
+    path: "x71_00.adx"
+    tags: [xmas]
+    type: break
+  - id: sylvalum_night
+    title: "Sylvalum (Night)"
+    path: "x72_00.adx"
+    tags: [xmas]
     type: betting
 ...

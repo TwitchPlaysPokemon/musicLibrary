@@ -4,6 +4,14 @@ title: "Cosmo Tank"
 platform: "GB"
 year: 1990
 songs: 
+  - id: cave_theme_1
+    title: "Cave Theme 1"
+    path: "Cave Theme 1.brstm"
+    type: warning
+  - id: credits_cosmo_tank
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
   - id: hyperspace
     title: "Hyperspace"
     path: "Hyperspace.brstm"

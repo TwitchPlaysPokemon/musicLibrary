@@ -1,3 +1,4 @@
+---
 id: sonic_lost_world
 title: "Sonic Lost World"
 series: sonic
@@ -15,6 +16,7 @@ songs:
   - id: frozen_factory_zone_1
     title: "Frozen Factory - Zone 1"
     path: "Frozen Factory - Zone 1.adx"
+    tags: [xmas]
     type: betting
   - id: honeycomb_highway
     title: "Honeycomb Highway"
@@ -110,3 +112,9 @@ songs:
     title: "NiGHTMARE Zone ~Boss~"
     path: "NiGHTMARE Zone ~Boss~.brstm"
     type: battle
+  - id: snowball_waltz
+    title: "Snowball Waltz"
+    path: "Snowball Waltz.brstm"
+    tags: [xmas]
+    type: betting
+...

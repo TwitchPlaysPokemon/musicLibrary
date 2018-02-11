@@ -1,0 +1,26 @@
+---
+id: dx_ball_2
+title: "DX-Ball 2"
+platform: "PC"
+year: 1998
+songs: 
+  - id: beatwave
+    title: "Beatwave"
+    path: "beatwave.brstm"
+    ends: 3:00
+    type: betting
+  - id: jasmine
+    title: "Jasmine"
+    path: "jasmine.brstm"
+    ends: 2:44
+    type: betting
+  - id: just_break_n_out
+    title: "Just Break'n Out"
+    path: "justbreaknout.brstm"
+    ends: 2:37
+    type: betting
+  - id: final_destiny
+    title: "Final Destiny"
+    path: "finaldestiny.brstm"
+    type: battle
+...

@@ -1,8 +1,8 @@
 ---
 id: diddy_kong_racing
 title: "Diddy Kong Racing"
-year: 1997
 platform: "N64"
+year: 1997
 songs:
   - id: end_boss
     title: "End Boss"
@@ -39,14 +39,17 @@ songs:
   - id: everfrost_peak_snowball_valley
     title: "Everfrost Peak, Snowball Valley"
     path: "14a - Everfrost Peak, Snowball Valley.miniusf"
+    tags: [xmas]
     type: betting
   - id: walrus_cove
     title: "Walrus Cove"
     path: "15a - Walrus Cove.miniusf"
+    tags: [xmas]
     type: betting
   - id: frosty_village
     title: "Frosty Village"
     path: "16a - Frosty Village.miniusf"
+    tags: [xmas]
     type: betting
   - id: boulder_canyon_(outside_castle)
     title: "Boulder Canyon (Outside Castle)"
@@ -99,7 +102,7 @@ songs:
   - id: tt
     title: "TT"
     path: "50 - TT.miniusf"
-    type: break
+    type: betting
   - id: end_boss_level_start
     title: "End Boss Level Start"
     path: "41 - End Boss Level Start.miniusf"

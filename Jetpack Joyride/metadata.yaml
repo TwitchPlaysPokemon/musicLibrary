@@ -1,0 +1,45 @@
+---
+id: jetpack_joyride
+title: "Jetpack Joyride"
+platform: "Mobile"
+year: 2011
+songs: 
+  - id: dj_headphones_dubstep_joyride
+    title: "DJ Headphones (Dubstep Joyride)"
+    path: "DJ Headphones (Dubstep Joyride).brstm"
+    type: betting
+  - id: level_theme_jetpack_joyride
+    title: "Level Theme"
+    path: "Level Theme.brstm"
+    type: betting
+  - id: serious_joyride_jetpack_joyride
+    title: "Serious Joyride"
+    path: "Serious Joyride.brstm"
+    ends: 3:11
+    type: betting
+  - id: slot_machine_jetpack_joyride
+    title: "Slot Machine"
+    path: "Slot Machine.brstm"
+    type: betting
+  - id: xmas_jetpack_joyride
+    title: "Xmas"
+    path: "Xmas.brstm"
+    tags: [xmas]
+    type: betting
+  - id: hardcore_joyride
+    title: "Hardcore Joyride"
+    path: "Hardcore Joyride.brstm"
+    type: warning
+  - id: whale_jetpack_joyride
+    title: "Whale"
+    path: "Whale.brstm"
+    type: result
+  - id: shop_jetpack_joyride
+    title: "Shop"
+    path: "Shop.brstm"
+    type: break
+  - id: title_screen_jetpack_joyride
+    title: "Title Screen"
+    path: "Title Screen (Looped).brstm"
+    type: break
+...

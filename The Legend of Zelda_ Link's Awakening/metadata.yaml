@@ -25,4 +25,36 @@ songs:
     title: "On The Beach With Marin"
     path: "On The Beach With Marin.brstm"
     type: break
+  - id: level_1_tail_cave
+    title: "Level 1: Tail Cave"
+    path: "Level 1_ Tail Cave.brstm"
+    type: betting
+  - id: level_2_bottle_grotto
+    title: "Level 2: Bottle Grotto"
+    path: "Level 2_ Bottle Grotto.brstm"
+    type: warning
+  - id: level_3_key_cavern
+    title: "Level 3: Key Cavern"
+    path: "Level 3_ Key Cavern.brstm"
+    type: betting
+  - id: level_4_angler_s_tunnel
+    title: "Level 4: Angler's Tunnel"
+    path: "Level 4_ Angler's Tunnel.brstm"
+    type: warning
+  - id: level_5_catfish_s_maw
+    title: "Level 5: Catfish's Maw"
+    path: "Level 5_ Catfish's Maw.brstm"
+    type: betting
+  - id: level_7_eagle_s_tower
+    title: "Level 7: Eagle's Tower"
+    path: "Level 7_ Eagle's Tower.brstm"
+    type: betting
+  - id: level_8_turtle_rock
+    title: "Level 8: Turtle Rock"
+    path: "Level 8_ Turtle Rock.brstm"
+    type: betting
+  - id: richard_s_villa
+    title: "Richard's Villa"
+    path: "Richard's Villa.brstm"
+    type: break
 ...

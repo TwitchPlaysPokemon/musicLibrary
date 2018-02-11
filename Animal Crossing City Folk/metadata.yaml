@@ -56,6 +56,7 @@ songs:
   - id: christmas_eve_ac
     title: "Christmas Eve"
     path: "Christmas Eve.brstm"
+    tags: [xmas]
     type: betting
   - id: k_k_house_ost_remix
     title: "K.K. House (OST Remix)"
@@ -64,6 +65,7 @@ songs:
   - id: 10_pm_snow
     title: "10 PM (Snow)"
     path: "10 PM (Snow).brstm"
+    tags: [xmas]
     type: break
   - id: mr_resetti
     title: "Mr. Resetti"

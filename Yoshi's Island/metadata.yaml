@@ -1,17 +1,17 @@
 ---
-id: super_mario_world_2_yoshis_island
-platform: "SNES"
+id: super_mario_world_2_yoshi_s_island
 title: "Super Mario World 2: Yoshi's Island"
 series: mario
+platform: "SNES"
 year: 1995
 songs: 
   - id: underground_smw2
-    path: "Underground.spc"
     title: "Underground"
+    path: "Underground.spc"
     type: betting
   - id: flower_garden_smw2
-    path: "Flower Garden.spc"
     title: "Flower Garden"
+    path: "Flower Garden.spc"
     type: betting
   - id: bowser_smw2
     title: "Bowser"
@@ -21,15 +21,15 @@ songs:
     title: "Room Before Boss"
     path: "Room Before Boss.spc"
     type: warning
-  - id: big_boss_world_3_5
-    title: "Big Boss (Worlds 3 and 5)"
-    path: "Big Boss (Worlds 3 and 5).brstm"
+  - id: big_boss_smw2
+    title: "Big Boss"
+    path: "118 Big Boss.spc"
     type: warning
-  - id: fortress_boss_yoshi_island
-    title: "Fortress Boss"
-    path: "Fortress Boss.brstm"
-    type: betting
-  - id: castle_and_fortress_yoshi_island
+  - id: mini_boss_smw2
+    title: "Mini-Boss"
+    path: "112 Mini-Boss.spc"
+    type: warning
+  - id: castle_and_fortress_smw2
     title: "Castle & Fortress"
     path: "Castle & Fortress.spc"
     type: betting
@@ -45,4 +45,20 @@ songs:
     title: "Score"
     path: "Score.spc"
     type: result
+  - id: training_course_smw2
+    title: "Training Course"
+    path: "105 Training Course.spc"
+    type: warning
+  - id: kamek_s_theme_smw2
+    title: "Kamek's Theme"
+    path: "111 Kamek's Theme.spc"
+    type: warning
+  - id: overworld_smw2
+    title: "Overworld"
+    path: "114 Overworld.spc"
+    type: betting
+  - id: ending_part_1
+    title: "Ending (part 1)"
+    path: "126 Ending (part 1).spc"
+    type: break
 ...

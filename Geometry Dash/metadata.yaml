@@ -19,14 +19,10 @@ songs:
     path: "Cycles.brstm"
     ends: 2:35
     type: betting
-  - id: electroman_adventures_v2
-    title: "Electroman Adventures V2"
-    path: "Electroman Adventures V2.brstm"
-    type: battle
-  - id: geometrical_dominator
-    title: "Geometrical Dominator"
-    path: "Geometrical Dominator.brstm"
-    type: battle
+  - id: jackpot
+    title: "Jackpot"
+    path: "Jackpot.brstm"
+    type: betting
   - id: time_machine
     title: "Time Machine"
     path: "Time Machine.brstm"
@@ -36,4 +32,20 @@ songs:
     title: "xStep"
     path: "xStep.brstm"
     type: betting
+  - id: the_challenge
+    title: "The Challenge"
+    path: "The Challenge.brstm"
+    type: warning
+  - id: electroman_adventures_v2
+    title: "Electroman Adventures V2"
+    path: "Electroman Adventures V2.brstm"
+    type: battle
+  - id: geometrical_dominator
+    title: "Geometrical Dominator"
+    path: "Geometrical Dominator.brstm"
+    type: battle
+  - id: milky_ways
+    title: "Milky Ways"
+    path: "Milky Ways.brstm"
+    type: battle
 ...

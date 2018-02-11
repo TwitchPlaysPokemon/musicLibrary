@@ -12,6 +12,7 @@ songs:
   - id: rosalinas_ice_world
     title: "Rosalina's Ice World"
     path: "Rosalina's Ice World.brstm"
+    tags: [xmas]
     type: betting
   - id: watch_race
     title: "Watch Race"
@@ -25,9 +26,20 @@ songs:
   - id: rosalinas_ice_world_final_lap
     title: "Rosalina's Ice World (Final Lap)"
     path: "Rosalina's Ice World (Final Lap).brstm"
+    tags: [xmas]
     type: warning
   - id: single_player_menu_course_select
     title: "Single Player Menu (Course Select)"
     path: "Single Player Menu (Course Select).brstm"
     type: result
+  - id: sherbet_rink
+    title: "Sherbet Rink"
+    path: "STRM_BN_ICE_RINK_N.bcstm"
+    tags: [xmas]
+    type: battle
+  - id: sherbet_rink_hurry_up
+    title: "Sherbet Rink (Hurry Up!)"
+    path: "STRM_BN_ICE_RINK_F.bcstm"
+    tags: [xmas]
+    type: warning
 ...

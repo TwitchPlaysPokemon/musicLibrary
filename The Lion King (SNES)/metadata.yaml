@@ -1,0 +1,12 @@
+---
+id: the_lion_king_snes
+title: "The Lion King [SNES]"
+platform: "Various"
+#other platforms: ["SNES", "Amiga", "PC", "NES", "SMS", "GG", "GB"]
+year: 1994
+songs: 
+  - id: be_prepared_the_lion_king_snes
+    title: "Be Prepared"
+    path: "07 Be Prepared.spc"
+    type: betting
+...

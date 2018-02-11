@@ -133,4 +133,9 @@ songs:
     title: "What’s The Score?"
     path: "MP7_Str_00025.pdt"
     type: result
+  - id: on_the_ice
+    title: "On the Ice"
+    path: "MP7_Str_00080.pdt"
+    type: warning
+    tags: [xmas]
 ...

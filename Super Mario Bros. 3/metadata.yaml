@@ -21,6 +21,14 @@ songs:
     title: "Athletic BGM"
     path: "06 Athletic BGM.vgz"
     type: betting
+  - id: world_3_map_smb3
+    title: "World 3 Map"
+    path: "08 World 3 Map.vgz"
+    type: result
+  - id: underwater_bgm_smb3
+    title: "Underwater BGM"
+    path: "09 Underwater BGM.vgz"
+    type: betting
   - id: world_4_map_smb3
     title: "World 4 Map"
     path: "12 World 4 Map.vgz"
@@ -32,6 +40,7 @@ songs:
   - id: world_6_map_smb3
     title: "World 6 Map"
     path: "17 World 6 Map.vgz"
+    tags: [xmas]
     type: warning
   - id: fortress_bgm_smb3
     title: "Fortress BGM"

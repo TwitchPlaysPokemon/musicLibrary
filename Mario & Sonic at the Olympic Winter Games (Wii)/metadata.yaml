@@ -1,13 +1,68 @@
+---
 id: mario_and_sonic_at_the_olympic_winter_games_wii
-platform: "Wii"
 title: "Mario & Sonic at the Olympic Winter Games"
+series: mario&sonicattheolympicwintergames
+platform: "Wii"
 year: 2009
 songs: 
-  - id: main_menu_wintergames
-    path: "Main Menu.brstm"
-    title: "Main Menu"
-    type: result
+  - id: alpine_downhill
+    title: "Alpine (Downhill)"
+    path: "Alpine (Downhill).brstm"
+    tags: [xmas]
+    type: betting
+  - id: ice_hockey_wintergames
+    title: "Ice Hockey"
+    path: "Ice Hockey.brstm"
+    tags: [xmas]
+    type: betting
   - id: vs_omega_speed_skate
-    path: "Vs. Omega (Speed Skate).brstm"
     title: "Vs. Omega (Speed Skate)"
+    path: "Vs. Omega (Speed Skate).brstm"
+    tags: [xmas]
     type: battle
+  - id: main_menu_wintergames
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    tags: [xmas]
+    type: result
+  - id: alpine_large
+    title: "Alpine (Large)"
+    path: "Alpine (Large).brstm"
+    tags: [xmas]
+    type: battle
+  - id: dream_curling_sherbet_land
+    title: "Dream Curling (Sherbet Land)"
+    path: "Dream Curling (Sherbet Land).brstm"
+    tags: [xmas]
+    type: battle
+  - id: dream_freestyle_ski_cross_mario_circuit
+    title: "Dream Freestyle Ski Cross (Mario Circuit)"
+    path: "Dream Freestyle Ski Cross (Mario Circuit).brstm"
+    tags: [xmas]
+    type: betting
+  - id: dream_ski_jumping_good_egg_galaxy
+    title: "Dream Ski Jumping (Good Egg Galaxy)"
+    path: "Dream Ski Jumping (Good Egg Galaxy).brstm"
+    tags: [xmas]
+    type: betting
+  - id: dream_snowball_fight_cool_cool_mountain
+    title: "Dream Snowball Fight (Cool Cool Mountain)"
+    path: "Dream Snowball Fight (Cool Cool Mountain).brstm"
+    tags: [xmas]
+    type: betting
+  - id: freestyle_ski_cross
+    title: "Freestyle Ski Cross"
+    path: "Freestyle Ski Cross.brstm"
+    tags: [xmas]
+    type: betting
+  - id: snowboard_cross
+    title: "Snowboard Cross"
+    path: "Snowboard Cross.brstm"
+    tags: [xmas]
+    type: battle
+  - id: snowboarding_half_pipe
+    title: "Snowboarding - Half Pipe"
+    path: "Snowboarding - Half Pipe.brstm"
+    tags: [xmas]
+    type: battle
+...

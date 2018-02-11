@@ -1,0 +1,52 @@
+---
+id: ys_viii_lacrimosa_of_dana
+title: "Ys VIII: Lacrimosa of Dana"
+series: ys
+platform: ["Vita", "PS4"]
+year: 2015
+songs: 
+  - id: a_footbreak_in_the_wet_sand
+    title: "A FOOTPRINT IN THE WET SAND"
+    path: "A Footprint in the Wet Sand.brstm"
+    ends: 2:03
+    type: betting
+  - id: overcome_the_rocky_path
+    title: "OVERCOME THE ROCKY PATH"
+    path: "Overcome the Rocky Path.brstm"
+    ends: 1:49
+    type: betting
+  - id: tangled_jungle_trick
+    title: "TANGLED JUNGLE TRICK"
+    path: "Tangled Jungle Trick.brstm"
+    ends: 1:40
+    type: betting
+  - id: the_valley_of_the_kings
+    title: "THE VALLEY OF THE KINGS"
+    path: "The Valley of the Kings.brstm"
+    ends: 2:05
+    type: betting
+  - id: crimson_fighter
+    title: "CRIMSON FIGHTER"
+    path: "Crimson Fighter.brstm"
+    type: battle
+  - id: gens_d_armes
+    title: "GENS D’ARMES"
+    path: "Gens D'Armes.brstm"
+    type: battle
+  - id: great_plains_pan_gaia
+    title: "GREAT PLAINS: PAN-GAIA"
+    path: "Great Plains - Pan-Gaia.brstm"
+    type: battle
+  - id: deadly_temptation
+    title: "DEADLY TEMPTATION"
+    path: "Deadly Temptation.brstm"
+    type: battle
+  - id: next_step_toward_the_unknown
+    title: "NEXT STEP TOWARD THE UNKNOWN"
+    path: "Next Step Toward the Unknown.brstm"
+    type: battle
+  - id: you_ll_see_out_the_end_of_the_tales
+    title: "YOU’LL SEE OUT THE END OF THE TALES"
+    path: "You'll See Out the End of the Tales.brstm"
+    type: battle
+...

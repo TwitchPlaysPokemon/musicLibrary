@@ -4,6 +4,10 @@ title: "Angry Video Game Nerd II: ASSimilation"
 platform: "PC"
 year: 2016
 songs: 
+  - id: boss_battle_avgn_ii
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
   - id: virtual_insanity
     title: "Virtual Insanity"
     path: "Virtual Insanity.brstm"

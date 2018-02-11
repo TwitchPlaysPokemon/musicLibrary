@@ -28,10 +28,12 @@ songs:
   - id: ice_mountain_zone_act_1
     title: "Ice Mountain Zone Act 1"
     path: "Ice Mountain Zone Act 1.minigsf"
+    tags: [xmas]
     type: break
   - id: ice_mountain_zone_act_2
     title: "Ice Mountain Zone Act 2"
     path: "Ice Mountain Zone Act 2.minigsf"
+    tags: [xmas]
     type: betting
   - id: neo_green_hill_zone_act_2
     title: "Neo Green Hill Zone Act 2"

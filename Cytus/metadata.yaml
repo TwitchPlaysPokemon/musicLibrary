@@ -1,0 +1,19 @@
+---
+id: cytus
+title: "Cytus"
+platform: ["Mobile", "Vita"]
+year: 2012
+songs: 
+  - id: finite_circuit
+    title: "Finite circuit"
+    path: "Finite Circuit.brstm"
+    type: betting
+  - id: biotonic
+    title: "BIOTONIC"
+    path: "Ani - Biotonic.brstm"
+    type: battle
+  - id: vitmaster
+    title: "VITMaster"
+    path: "VitMaster - Sakuzyo.brstm"
+    type: battle
+...

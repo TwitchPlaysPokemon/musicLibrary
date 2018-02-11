@@ -86,4 +86,14 @@ songs:
     title: "Shopping in Wakeport"
     path: "Shopping in Wakeport.rsd"
     type: break
+  - id: glorious_pajamaja_dreams
+    title: "Glorious Pajamaja Dreams"
+    path: "Glorious Pajamaja Dreams.rsd"
+    tags: [xmas]
+    type: betting
+  - id: lofty_mount_pajamaja
+    title: "Lofty Mount Pajamaja"
+    path: "Lofty Mount Pajamaja.rsd"
+    tags: [xmas]
+    type: betting
 ...

@@ -2,16 +2,84 @@
 id: dance_dance_revolution_mario_mix
 title: "Dance Dance Revolution Mario Mix"
 series: mario
-platform: "GC"
+platform: "GCN"
 year: 2005
 songs:
+  - id: blooper_bop
+    title: "Blooper Bop"
+    path: "Blooper Bop.brstm"
+    type: betting
+  - id: boo_boogie
+    title: "Boo Boogie"
+    path: "Boo Boogie.brstm"
+    type: betting
+  - id: deep_freeze
+    title: "Deep Freeze"
+    path: "Deep Freeze.brstm"
+    type: betting
+  - id: destruction_dance
+    title: "Destruction Dance"
+    path: "Destruction Dance.brstm"
+    type: betting
+  - id: frozen_pipes
+    title: "Frozen Pipes"
+    path: "Frozen Pipes.brstm"
+    type: betting
+  - id: here_we_go
+    title: "Here We Go!"
+    path: "Here We Go!.brstm"
+    type: betting
+  - id: hop_mario
+    title: "Hop, Mario!"
+    path: "Hop, Mario!.brstm"
+    type: betting
+  - id: in_the_whirlpool
+    title: "In the Whirlpool"
+    path: "In the Whirlpool.brstm"
+    type: betting
   - id: jump_jump_jump_ddr
     title: "Jump! Jump! Jump!"
     path: "Jump! Jump! Jump!.brstm"
     type: betting
+  - id: mario_starring_wario
+    title: "Mario - Starring Wario!"
+    path: "Mario - Starring Wario! (custom loop).brstm"
+    type: betting
   - id: moustache_barrel_gorilla
     title: "Moustache, Barrel, and Gorilla"
     path: "Moustache, Barrel, and Gorilla.brstm"
+    type: betting
+  - id: ms_mowz_s_song_theme_of_ms_mows_x_naut_fortress
+    title: "Ms. Mowz's Song (Theme of Ms Mows/X-Naut Fortress)"
+    path: "Ms. Mowz's Song (Theme of Ms Mows_X-Naut Fortress).brstm"
+    type: betting
+  - id: pipe_pop
+    title: "Pipe Pop"
+    path: "Pipe Pop.brstm"
+    type: betting
+  - id: pirate_dance
+    title: "Pirate Dance"
+    path: "Pirate Dance.brstm"
+    type: betting
+  - id: piroli
+    title: "Piroli"
+    path: "Piroli.brstm"
+    type: betting
+  - id: rendezvous_on_ice
+    title: "Rendezvous on Ice"
+    path: "Rendezvous on Ice.brstm"
+    type: betting
+  - id: rollercoasting
+    title: "Rollercoasting"
+    path: "Rollercoasting.brstm"
+    type: betting
+  - id: step_by_step
+    title: "Step by Step"
+    path: "Step by Step.brstm"
+    type: betting
+  - id: underground_mozart
+    title: "Underground Mozart"
+    path: "Underground Mozart.brstm"
     type: betting
   - id: wheres_the_exit
     title: "Where's the Exit?"

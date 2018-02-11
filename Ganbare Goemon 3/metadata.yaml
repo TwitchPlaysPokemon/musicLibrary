@@ -1,6 +1,7 @@
 ---
 id: ganbare_goemon_3
-title: "Ganbare Goemon 3"
+title: "Ganbare Goemon 3: Shishijūrokubē no Karakuri Manji Gatame"
+series: ganbaregoemon
 platform: "SFC"
 year: 1994
 songs:
@@ -11,5 +12,10 @@ songs:
   - id: run_faster
     title: "Run Faster!"
     path: "17 Run Faster!.spc"
+    type: warning
+  - id: frozen_cave
+    title: "Frozen Cave"
+    path: "50 Frozen Cave.spc"
+    tags: [xmas]
     type: warning
 ...

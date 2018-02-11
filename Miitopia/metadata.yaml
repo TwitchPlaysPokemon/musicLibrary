@@ -51,6 +51,7 @@ songs:
   - id: map_powdered_peaks
     title: "Map: Powdered Peaks"
     path: "Map- Powdered Peaks.brstm"
+    tags: [xmas]
     type: betting
   - id: mmmmm
     title: "Mmmmm!"
@@ -151,6 +152,7 @@ songs:
   - id: battle_powdered_peak
     title: "Battle: Powdered Peak"
     path: "BGM_BATTLE_EXTRA_ICE.bcstm"
+    tags: [xmas]
     type: battle
   - id: boss_battle_miitopia
     title: "Boss Battle"
@@ -187,6 +189,7 @@ songs:
   - id: a_cozy_campfire
     title: "A Cozy Campfire"
     path: "bgm_event_camp_start.dspadpcm.bcstm"
+    tags: [xmas]
     type: break
   - id: a_lively_inn
     title: "A Lively Inn"

@@ -4,13 +4,60 @@ title: "Cuphead"
 platform: ["PC", "XB1"]
 year: 2017
 songs:
+  - id: all_bets_are_off
+    title: "All Bets Are Off!"
+    path: "MUS_DiceGate_Empty.snd.fsb"
+    type: betting
+  - id: carnival_kerfuffle
+    title: "Carnival Kerfuffle"
+    path: "MUS_CarnivalKerfuffle_MixB.snd.fsb"
+    type: betting
+  - id: clip_joint_calamity
+    title: "Clip Joint Calamity"
+    path: "MUS_Frogs.snd.fsb"
+    ends: 3:11
+    type: betting
+  - id: coin_op_bop
+    title: "Coin-Op Bop"
+    path: "Coin-Op Bop.brstm"
+    type: betting
+  - id: dramatic_fanatic
+    title: "Dramatic Fanatic"
+    path: "MUS_Sally.snd.fsb"
+    ends: 2:55
+    type: betting
+  - id: fiery_frolic
+    title: "Fiery Frolic"
+    path: "MUS_FieryFrolic_MixB3.snd.fsb"
+    type: betting
   - id: floral_fury
     title: "Floral Fury"
     path: "MUS_Flower.snd.fsb"
     type: betting
+  - id: forest_follies
+    title: "Forest Follies"
+    path: "MUS_ForestFollies.snd.fsb"
+    type: betting
+  - id: funhouse_frazzle
+    title: "Funhouse Frazzle"
+    path: "MUS_FunhouseFrazzles.snd.fsb"
+    ends: 3:04
+    type: betting
   - id: funfair_fever
     title: "Funfair Fever"
     path: "Funfair Fever.brstm"
+    type: betting
+  - id: high_sea_hi_jinx
+    title: "High Sea Hi-Jinx"
+    path: "High Sea Hi-Jinx.brstm"
+    type: betting
+  - id: honeycomb_herald
+    title: "Honeycomb Herald"
+    path: "MUS_HoneyCombHerald_MixB1.snd.fsb"
+    type: betting
+  - id: inkwell_hell
+    title: "Inkwell Hell"
+    path: "MUS_InkwellHell.snd.fsb"
     type: betting
   - id: inkwell_isle_one
     title: "Inkwell Isle One"
@@ -21,17 +68,77 @@ songs:
     title: "Inkwell Isle Two"
     path: "MUS_InkwellIsleTwo_MixA.snd.fsb"
     type: betting
+  - id: inkwell_isle_three
+    title: "Inkwell Isle Three"
+    path: "MUS_InkwellIsleThree.snd.fsb"
+    ends: 2:45
+    type: betting
+  - id: legendary_ghost
+    title: "Legendary Ghost"
+    path: "MUS_LegendaryGhost.snd.fsb"
+    type: betting
   - id: murine_corps
     title: "Murine Corps"
     path: "MUS_Mouse.snd.fsb"
+    type: betting
+  - id: one_hell_of_a_time
+    title: "One Hell Of A Time"
+    path: "One Hell Of A Time.brstm"
     type: betting
   - id: porkrinds_shop
     title: "Porkrind's Shop"
     path: "Porkrind's Shop.brstm"
     type: betting
+  - id: pyramid_peril
+    title: "Pyramid Peril"
+    path: "MUS_Genie_A.snd.fsb"
+    type: betting
+  - id: railroad_wrath
+    title: "Railroad Wrath"
+    path: "MUS_RailroadWrath.snd.fsb"
+    type: betting
+  - id: rugged_ridge
+    title: "Rugged Ridge"
+    path: "MUS_3_2.snd.fsb"
+    type: betting
+  - id: shootin_n_lootin
+    title: "Shootin n' Lootin"
+    path: "MUS_Pirate.snd.fsb"
+    ends: 2:51
+    type: betting
+  - id: sugarland_shimmy
+    title: "Sugarland Shimmy"
+    path: "MUS_SugarlandShimmy.snd.fsb"
+    ends: 2:49
+    type: betting
+  - id: the_airship
+    title: "The Airship"
+    path: "The Airship.brstm"
+    type: betting
+  - id: threatnin_zeppelin
+    title: "Threatnin' Zeppelin"
+    path: "MUS_Blimp.snd.fsb"
+    ends: 3:20
+    type: betting
+  - id: treetop_trouble
+    title: "Treetop Trouble"
+    path: "MUS_TreetopTrouble.snd.fsb"
+    type: betting
+  - id: admission_to_perdition
+    title: "Admission To Perdition"
+    path: "MUS_DevilPhase1_2.snd.fsb"
+    type: warning
+  - id: chief_evil_officer
+    title: "Chief Evil Officer"
+    path: "MUS_DevilCinematic.snd.fsb"
+    type: warning
   - id: hurry_up_cuphead
     title: "Hurry Up"
     path: "Hurry Up.brstm"
+    type: warning
+  - id: perilious_piers
+    title: "Perilious Piers"
+    path: "MUS_PerilousPiers.snd.fsb"
     type: warning
   - id: the_mausoleum
     title: "The Mausoleum"
@@ -49,6 +156,22 @@ songs:
     title: "Introduction"
     path: "Introduction.brstm"
     type: battle
+  - id: junkyard_jive
+    title: "Junkyard Jive"
+    path: "MUS_Robot.snd.fsb"
+    type: battle
+  - id: ruse_of_an_ooze
+    title: "Ruse of an Ooze"
+    path: "MUS_Slime.snd.fsb"
+    type: battle
+  - id: the_king_s_court
+    title: "The King's Court"
+    path: "temp_unmastered_boss_king_dice_miniboss(full).snd.fsb"
+    type: battle
+  - id: high_score_cuphead
+    title: "High Score"
+    path: "High Score.brstm"
+    type: result
   - id: tutorial_cuphead
     title: "Tutorial"
     path: "MUS_Tutorial.snd.fsb"

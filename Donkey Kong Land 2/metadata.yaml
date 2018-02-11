@@ -9,4 +9,9 @@ songs:
     title: "Funky the Main Monkey"
     path: "Funky the Main Monkey.brstm"
     type: betting
+  - id: in_a_snow_bound_land
+    title: "In a Snow-Bound Land"
+    path: "In a Snow-Bound Land.brstm"
+    tags: [xmas]
+    type: betting
 ...

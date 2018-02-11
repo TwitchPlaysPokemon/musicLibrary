@@ -53,10 +53,18 @@ songs:
     title: "Chemical Flow - Chemical Plant"
     path: "00202_bgm_stg20_b_2.hca"
     type: betting
+  - id: battle_with_infinite_metropolis
+    title: "Battle with Infinite (Metropolis)"
+    path: "00200_bgm_stg20_b.hca"
+    type: battle
   - id: red_gate_bridge
     title: "Red Gate Bridge"
     path: "00212_bgm_stg21_s_2.hca"
     type: betting
+  - id: battle_with_metal_sonic
+    title: "Battle with Metal Sonic"
+    path: "00229_bgm_stg22_c_spdup.hca"
+    type: warning
   - id: guardian_rock_qte
     title: "Guardian Rock (QTE)"
     path: "00250_bgm_stg25_b.hca"
@@ -84,6 +92,10 @@ songs:
   - id: mortar_canyon
     title: "Mortar Canyon"
     path: "00420_bgm_sys_mybuddy.hca"
+    type: battle
+  - id: battle_with_infinite_eggman_empire_fortress
+    title: "Battle with Infinite (Eggman Empire Fortress)"
+    path: "00440_bgm_sys_mission.hca"
     type: battle
   - id: iron_fortress
     title: "Iron Fortress"
@@ -117,9 +129,17 @@ songs:
     title: "Stage Clear (Results)"
     path: "bgm_wars.awb.00074.hca"
     type: result
+  - id: the_light_of_hope_instrumental
+    title: "The Light of Hope (Instrumental)"
+    path: "bgm_wars.awb.00077.hca"
+    type: break
   - id: world_map_1_sonic_forces
     title: "World Map 1"
     path: "00904_bgm_stg_sp04.hca"
+    type: betting
+  - id: world_map_2_sonic_forces
+    title: "World Map 2"
+    path: "00905_bgm_stg_sp05.hca"
     type: betting
   - id: world_map_3_sonic_forces
     title: "World Map 3"

@@ -1,23 +1,40 @@
 ---
 id: ys_origin
 title: "Ys Origin"
+series: ys
+platform: ["PC", "Vita", "PS4"]
 year: 2006
-platform: "PC"
 songs:
-  - id: tension_ys
-    title: "Tension"
-    path: "Tension.brstm"
+  - id: tension_ys_origin
+    title: "TENSION"
+    path: "YSO_011.logg"
     type: betting
-  - id: genesis_beyond_the_beginning
-    title: "Genesis ~ Beyond the Beginning (Bonus)"
+  - id: tower_of_the_shadow_of_death_ys_origin
+    title: "TOWER OF THE SHADOW OF DEATH"
+    path: "YSO_004.logg"
+    type: betting
+  - id: water_prison_ys_origin
+    title: "WATER PRISON"
+    path: "YSO_005.logg"
+    type: betting
+  - id: samsara_and_paramnesia
+    title: "SAMSARA AND PARAMNESIA"
+    path: "YSO_008.logg"
+    type: warning
+  - id: bonus_track_genesis_beyond_the_beginning
+    title: "-Bonus track- GENESIS BEYOND THE BEGINNING"
     path: "Genesis ~ Beyond the Beginning (Bonus).brstm"
     type: battle
-  - id: tower_of_the_shadow_of_death_ys_origin
-    title: "Tower of the Shadow of Death"
-    path: "Tower of the Shadow of Death.brstm"
-    type: betting
-  - id: water_prison_ys
-    title: "Water Prison"
-    path: "Water Prison.brstm"
-    type: betting
+  - id: oboro_ys_origin
+    title: "OBORO"
+    path: "YSO_015.logg"
+    type: battle
+  - id: prelude_to_the_omen
+    title: "PRELUDE TO THE OMEN"
+    path: "YSO_009.logg"
+    type: battle
+  - id: scarlet_tempest
+    title: "SCARLET TEMPEST"
+    path: "YSO_006.logg"
+    type: battle
 ...

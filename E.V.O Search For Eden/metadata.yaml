@@ -1,7 +1,8 @@
+---
 id: evo_search_for_eden
 title: "E.V.O.: Search for Eden"
-year: 1992
 platform: "SNES"
+year: 1992
 songs:
   - id: birthplace_of_all_life
     title: "Birthplace of All Life"
@@ -12,3 +13,8 @@ songs:
     title: "Tension"
     path: "08 Tension.spc"
     type: warning
+  - id: undersea_maze
+    title: "Undersea Maze"
+    path: "07 Undersea Maze.spc"
+    type: warning
+...

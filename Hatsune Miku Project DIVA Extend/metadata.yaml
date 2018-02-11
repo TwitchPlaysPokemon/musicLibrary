@@ -1,0 +1,28 @@
+---
+id: hatsune_miku_project_diva_extend
+title: "Hatsune Miku: Project DIVA Extend"
+series: hatsunemikuprojectdiva
+platform: ["PSP", "PS3"]
+year: 2011
+songs: 
+  - id: song_select_hatsune_miku_project_diva_extend
+    title: "Song Select"
+    path: "BGM_HOME_00.aix"
+    type: result
+  - id: main_menu_hatsune_miku_project_diva_extend
+    title: "Main Menu"
+    path: "BGM_HOME_01.aix"
+    type: result
+  - id: diva_room_hatsune_miku_project_diva_extend
+    title: "DIVA Room"
+    path: "DIVA Room.brstm"
+    type: betting
+  - id: gallery_hatsune_miku_project_diva_extend
+    title: "Gallery"
+    path: "Gallery.brstm"
+    type: break
+  - id: title_screen_hatsune_miku_project_diva_extend
+    title: "Title Screen"
+    path: "BGM_TITLE_00.aix"
+    type: result
+...

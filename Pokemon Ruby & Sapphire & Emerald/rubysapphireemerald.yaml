@@ -5,6 +5,14 @@ series: pokemon
 platform: "GBA"
 year: 2002
 songs: 
+  - id: title_screen_main_theme_rse
+    title: "Title Screen: Main Theme"
+    path: "103 Title Demo 3 (Main Theme).minigsf"
+    type: result
+  - id: introductions_rse
+    title: "Introductions"
+    path: "104 Opening Selection.minigsf"
+    type: betting
   - id: littleroot_town_rse
     title: "Littleroot Town"
     path: "105 Littleroot Town.minigsf"

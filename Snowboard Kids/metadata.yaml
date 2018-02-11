@@ -1,9 +1,53 @@
+---
 id: snowboard_kids
 title: "Snowboard Kids"
-year: 1997
+series: snowboardkids
 platform: "N64"
+year: 1997
 songs:
-  - id: silver_mountain_snowboard
+  - id: title_theme_snowboard_kids
+    title: "Title Theme"
+    path: "01 Title Theme.miniusf"
+    tags: [xmas]
+    type: result
+  - id: options_results_snowboard_kids
+    title: "Options, Results"
+    path: "02 Options, Results.miniusf"
+    tags: [xmas]
+    type: result
+  - id: battle_race_level_and_board_selection
+    title: "Battle Race - Level and Board Selection"
+    path: "04 Battle Race - Level and Board Selection.miniusf"
+    tags: [xmas]
+    type: result
+  - id: skill_game_congratulations
+    title: "Skill Game, Congratulations"
+    path: "05 Skill Game, Congratulations.miniusf"
+    tags: [xmas]
+    type: result
+  - id: rookie_mountain_ninja_land_animal_land
+    title: "Rookie Mountain, Ninja Land, Animal Land"
+    path: "11 Rookie Mountain, Ninja Land, Animal Land.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: big_snowman
+    title: "Big Snowman"
+    path: "12 Big Snowman.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: sunset_rock
+    title: "Sunset Rock"
+    path: "13 Sunset Rock.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: silver_mountain_snowboard_kids
     title: "Silver Mountain"
     path: "17 Silver Mountain.miniusf"
+    tags: [xmas]
     type: betting
+  - id: training_snowboard_kids
+    title: "Training"
+    path: "18 Training.miniusf"
+    tags: [xmas]
+    type: betting
+...

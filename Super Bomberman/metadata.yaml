@@ -1,15 +1,48 @@
 ---
 id: super_bomberman
 title: "Super Bomberman"
+series: bomberman
 platform: "SNES"
 year: 1993
 songs:
-  - id: super_bomberman_boss
-    title: "Boss"
-    path: "Boss.brstm"
-    type: warning
-  - id: super_bomberman_level_1
-    title: "Level 1"
-    path: "Level 1.spc"
+  - id: area_1_super_bomberman
+    title: "Area 1"
+    path: "04 Level 1.spc"
     type: betting
+  - id: area_2_super_bomberman
+    title: "Area 2"
+    path: "05 Level 2.spc"
+    type: betting
+  - id: area_3_super_bomberman
+    title: "Area 3"
+    path: "06 Level 3.spc"
+    type: betting
+  - id: area_4_super_bomberman
+    title: "Area 4"
+    path: "07 Level 4.spc"
+    type: betting
+  - id: area_5_super_bomberman
+    title: "Area 5"
+    path: "08 Level 5.spc"
+    type: warning
+  - id: area_6_super_bomberman
+    title: "Area 6"
+    path: "09 Level 6.spc"
+    type: betting
+  - id: battle_super_bomberman
+    title: "Battle"
+    path: "12 Battle.spc"
+    type: warning
+  - id: boss_stage_super_bomberman
+    title: "Boss Stage"
+    path: "15 Boss.spc"
+    type: battle
+  - id: credits_super_bomberman
+    title: "Credits"
+    path: "16 Ending.spc"
+    type: result
+  - id: password_super_bomberman
+    title: "Password"
+    path: "17 Password.spc"
+    type: result
 ...

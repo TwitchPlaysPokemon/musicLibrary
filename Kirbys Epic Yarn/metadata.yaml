@@ -16,6 +16,7 @@ songs:
   - id: cozy_cabin
     title: "Cozy Cabin"
     path: "51. Cozy Cabin.brstm"
+    tags: [xmas]
     type: betting
   - id: dino_jungle
     title: "Dino Jungle"
@@ -41,9 +42,14 @@ songs:
     title: "Halberd"
     path: "Halberd.brstm"
     type: betting
+  - id: mole_hole_digger
+    title: "Mole Hole - Digger"
+    path: "25. Mole Hole - Digger.brstm"
+    type: betting
   - id: mt_slide
     title: "Mt. Slide"
     path: "52. Mt. Slide.brstm"
+    tags: [xmas]
     type: betting
   - id: mushroom_run
     title: "Mushroom Run"
@@ -68,6 +74,7 @@ songs:
   - id: snowy_fields_evergreen_lift
     title: "Snowy Fields - Evergreen Lift"
     path: "50. Snowy Fields - Evergreen Lift.brstm"
+    tags: [xmas]
     type: betting
   - id: stellar_way
     title: "Stellar Way"
@@ -121,6 +128,7 @@ songs:
   - id: frosty_wheel
     title: "Frosty Wheel"
     path: "53. Frosty Wheel.brstm"
+    tags: [xmas]
     type: break
   - id: cutscene_staff_credits
     title: "Cutscene ~ Staff Credits"
@@ -134,6 +142,10 @@ songs:
     title: "Melody Town"
     path: "38. Melody Town.brstm"
     type: break
+  - id: weird_woods
+    title: "Weird Woods"
+    path: "26. Weird Woods.brstm"
+    type: break
   - id: world_4_water_land
     title: "World 4 ~ Water Land"
     path: "42. World 4 ~ Water Land.brstm"
@@ -141,6 +153,7 @@ songs:
   - id: world_5_snow_land
     title: "World 5 ~ Snow Land"
     path: "49. World 5 ~ Snow Land.brstm"
+    tags: [xmas]
     type: break
   - id: world_7_dream_land
     title: "World 7 ~ Dream Land"

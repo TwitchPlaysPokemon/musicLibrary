@@ -69,4 +69,19 @@ songs:
     title: "The Oracle"
     path: "37 The Oracle.spc"
     type: battle
+  - id: a_wish
+    title: "A Wish"
+    path: "16 A Wish.spc"
+    tags: [xmas]
+    type: break
+  - id: a_bell_is_tolling
+    title: "A Bell is Tolling"
+    path: "25 A Bell is Tolling.spc"
+    tags: [xmas]
+    type: betting
+  - id: still_of_the_night
+    title: "Still of the Night"
+    path: "35 Still of the Night.spc"
+    tags: [xmas]
+    type: break
 ...

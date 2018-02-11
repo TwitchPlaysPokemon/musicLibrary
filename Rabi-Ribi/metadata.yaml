@@ -1,7 +1,8 @@
+---
 id: rabi_ribi
 title: "Rabi-Ribi"
-year: 2016
 platform: "PC"
+year: 2016
 songs: 
   - id: boss_battle_3_rabiribi
     title: "Boss Battle #3 / Hi-Tech Duel"
@@ -31,6 +32,7 @@ songs:
   - id: azure_snow_land
     title: "Azure Snow Land"
     path: "Azure Snow Land.brstm"
+    tags: [xmas]
     type: betting
   - id: boss_battle_0_midstream_jam
     title: "Boss Battle #0/Midstream Jam"

@@ -69,4 +69,19 @@ songs:
     title: "That Guy Who Got Baffled in the Bafflewoods"
     path: "That Guy Who Got Baffled in the Bafflewoods.brstm"
     type: break
+  - id: mizzter_blizzard_s_snow_bowser_statue_battle
+    title: "Mizzter Blizzard's Snow Bowser Statue Battle"
+    path: "Mizzter Blizzard's Snow Bowser Statue Battle.brstm"
+    tags: [xmas]
+    type: battle
+  - id: snow_rise
+    title: "Snow Rise"
+    path: "Snow Rise.brstm"
+    tags: [xmas]
+    type: betting
+  - id: world_4_map_sticker_star
+    title: "World 4 Map"
+    path: "World 4 Map.brstm"
+    tags: [xmas]
+    type: result
 ...

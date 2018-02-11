@@ -1,0 +1,23 @@
+---
+id: iji
+title: "Iji"
+platform: "PC"
+year: 2008
+songs: 
+  - id: level_clear_iji
+    title: "Level Clear"
+    path: "Level Clear.brstm"
+    type: warning
+  - id: for_stronger_bones
+    title: "For Stronger Bones"
+    path: "For Stronger Bones.brstm"
+    type: warning
+  - id: 3_cans_later
+    title: "3 Cans Later"
+    path: "3 Cans Later.brstm"
+    type: warning
+  - id: hero_3d
+    title: "Hero 3D"
+    path: "Hero 3D.brstm"
+    type: battle
+...

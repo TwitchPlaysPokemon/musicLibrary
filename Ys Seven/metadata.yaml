@@ -1,0 +1,27 @@
+---
+id: ys_seven
+title: "Ys Seven"
+series: ys
+platform: "PSP"
+year: 2009
+songs: 
+  - id: great_tree_shannoa
+    title: "GREAT TREE (SHANNOA)"
+    path: "y7_d101.vgmstream"
+    ends: 1:45
+    type: betting
+  - id: in_the_busting_square
+    title: "IN THE BUSTING SQUARE"
+    path: "y7_t001.vgmstream"
+    ends: 2:19
+    type: betting
+  - id: the_sacred_wind
+    title: "THE SACRED WIND"
+    path: "y7_d305.vgmstream"
+    ends: 2:05
+    type: betting
+  - id: vacant_interference
+    title: "VACANT INTERFERENCE"
+    path: "y7_b001.vgmstream"
+    type: battle
+...

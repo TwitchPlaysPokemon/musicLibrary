@@ -12,9 +12,19 @@ songs:
     title: "Sky Garden"
     path: "13 Sky Garden.minigsf"
     type: result
+  - id: snow_land
+    title: "Snow Land"
+    path: "15 Snow Land.minigsf"
+    tags: [xmas]
+    type: betting
   - id: rainbow_road_circuit
     title: "Rainbow Road"
     path: "20 Rainbow Road.minigsf"
+    type: betting
+  - id: snes_vanilla_lake
+    title: "SNES Vanilla Lake"
+    path: "27 SNES Vanilla Lake.minigsf"
+    tags: [xmas]
     type: betting
   - id: battle_circuit
     title: "Battle"

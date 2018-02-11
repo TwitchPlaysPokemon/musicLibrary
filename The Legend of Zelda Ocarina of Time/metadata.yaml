@@ -1,17 +1,17 @@
 ---
 id: the_legend_of_zelda_ocarina_of_time
-platform: "N64"
 title: "The Legend Of Zelda: Ocarina of Time"
 series: zelda
+platform: "N64"
 year: 1998
 songs: 
-  - id: battle_osv
-    path: "Battle (OSV).brstm"
+  - id: battle_oot
     title: "Battle"
+    path: "11 Battle.miniusf"
     type: warning
   - id: gerudo_valley
     title: "Gerudo Valley"
-    path: "Gerudo Valley.miniusf"
+    path: "68 Gerudo Valley.miniusf"
     type: break
   - id: last_battle_oot
     title: "Last Battle"
@@ -19,54 +19,63 @@ songs:
     type: warning
   - id: inside_the_deku_tree
     title: "Inside the Deku Tree"
-    path: "Inside the Deku Tree.brstm"
+    path: "12 Inside the Deku Tree.miniusf"
     type: break
   - id: kakariko_village_oot
     title: "Kakariko Village"
-    path: "Kakariko Village.brstm"
+    path: "30 Kakariko Village.miniusf"
     type: break
-  - id: zoras_domain_oot
+  - id: zora_s_domain_oot
     title: "Zora's Domain"
-    path: "Zora's Domain.miniusf"
+    path: "39 Zora's Domain.miniusf"
     type: break
   - id: house_oot
     title: "House"
-    path: "House.brstm"
+    path: "05 House.miniusf"
     type: break
   - id: boss_battle_oot
     title: "Boss Battle"
-    path: "Boss Battle.brstm"
+    path: "13 Boss Battle.miniusf"
     type: warning
   - id: great_fairy_fountain_oot
     title: "Great Fairy's Fountain"
-    path: "Great Fairy's Fountain.brstm"
+    path: "40 Great Fairy's Fountain.miniusf"
     type: break
   - id: horse_race_oot
     title: "Horse Race"
-    path: "Horse Race.brstm"
+    path: "51 Horse Race.miniusf"
     type: warning
   - id: kokiri_forest_oot
     title: "Kokiri Forest"
-    path: "Kokiri Forest.brstm"
+    path: "06 Kokiri Forest.miniusf"
     type: betting
   - id: lost_woods_oot
     title: "Lost Woods"
-    path: "Lost Woods.brstm"
+    path: "35 Lost Woods.miniusf"
     type: betting
   - id: market_oot
     title: "Market"
-    path: "Market.brstm"
+    path: "21 Market.miniusf"
     type: break
   - id: shop_oot
     title: "Shop"
-    path: "Shop.brstm"
+    path: "10 Shop.miniusf"
     type: break
   - id: windmill_hut_oot
     title: "Windmill Hut"
-    path: "Windmill Hut.brstm"
+    path: "57 Windmill Hut.miniusf"
     type: betting
   - id: forest_temple_oot
     title: "Forest Temple"
     path: "59 Forest Temple.miniusf"
+    type: break
+  - id: ice_cavern_oot
+    title: "Ice Cavern"
+    path: "62 Ice Cavern.miniusf"
+    tags: [xmas]
+    type: break
+  - id: water_temple_oot
+    title: "Water Temple"
+    path: "64 Water Temple.miniusf"
     type: break
 ...

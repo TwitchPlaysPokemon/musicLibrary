@@ -1,10 +1,11 @@
+---
 id: the_smurfs_nes
 title: "The Smurfs [NES]"
-platform: ["NES", "GB", "SMS", "GG"]
+platform: "Various"
 year: 1994
 songs: 
   - id: act_6_the_swamps_nes
-    title: "Act 6 - The Swamps"
+    title: "Act 3 - The Swamps ~ Act 10 - Gargamel's Manor"
     path: "The Swamps.brstm"
     type: betting
   - id: boss_battle_smurfs_nes
@@ -31,3 +32,8 @@ songs:
     title: "Game Over"
     path: "15 Game Over.vgz"
     type: warning
+  - id: act_6_the_mountains_smurfs_nes
+    title: "Act 6 - The Mountains"
+    path: "08 Act 6 - The Mountains.vgz"
+    type: betting
+...

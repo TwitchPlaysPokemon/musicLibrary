@@ -1,0 +1,12 @@
+---
+id: felix_the_cat
+title: "Felix the Cat [NES]"
+platform: ["NES", "GB"]
+year: 1992
+songs: 
+  - id: northpole
+    title: "Northpole"
+    path: "09 Northpole.vgz"
+    tags: [xmas]
+    type: result
+...

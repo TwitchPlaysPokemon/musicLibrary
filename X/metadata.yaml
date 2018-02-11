@@ -1,0 +1,15 @@
+---
+id: x
+title: "X"
+platform: "GB"
+year: 1992
+songs: 
+  - id: tunnel_scene
+    title: "Tunnel Scene"
+    path: "Tunnel Scene.brstm"
+    type: betting
+  - id: tunnel_scene_2
+    title: "Tunnel Scene 2"
+    path: "Tunnel Scene 2.brstm"
+    type: result
+...

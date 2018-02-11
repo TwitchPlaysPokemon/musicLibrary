@@ -81,6 +81,7 @@ songs:
   - id: crystal_caves_boss
     title: "Crystal Caves Boss"
     path: "083 - Crystal Caves Boss.miniusf"
+    tags: [xmas]
     type: battle
   - id: creepy_castle
     title: "Creepy Castle"
@@ -101,5 +102,35 @@ songs:
   - id: bonus_barrel
     title: "Bonus Barrel"
     path: "Bonus Barrel.miniusf"
+    type: warning
+  - id: crystal_caves_lobby
+    title: "Crystal Caves Lobby"
+    path: "075 Crystal Caves Lobby.miniusf"
+    tags: [xmas]
+    type: break
+  - id: crystal_caves
+    title: "Crystal Caves"
+    path: "076 Crystal Caves.miniusf"
+    tags: [xmas]
+    type: betting
+  - id: crystal_caves_barrel_course
+    title: "Crystal Caves Barrel Course"
+    path: "077 Crystal Caves Barrel Course.miniusf"
+    tags: [xmas]
+    type: break
+  - id: crystal_caves_igloo
+    title: "Crystal Caves Igloo"
+    path: "078 Crystal Caves Igloo.miniusf"
+    tags: [xmas]
+    type: break
+  - id: crystal_caves_board_game
+    title: "Crystal Caves Board Game"
+    path: "079 Crystal Caves Board Game.miniusf"
+    tags: [xmas]
+    type: battle
+  - id: crystal_caves_race
+    title: "Crystal Caves Race"
+    path: "082 Crystal Caves Race.miniusf"
+    tags: [xmas]
     type: warning
 ...

@@ -5,72 +5,88 @@ series: metroid
 platform: "GCN"
 year: 2002
 songs: 
-  - id: underwater_frigate_reactor_core
-    title: "Underwater Frigate Reactor Core"
-    path: "Underwater Frigate Reactor Core.brstm"
-    type: betting
-  - id: metroid_prime_essence_battle
-    title: "Metroid Prime Essence Battle"
-    path: "Metroid Prime Essence Battle.brstm"
-    type: battle
-  - id: chozo_artifact_temple
-    title: "Chozo Artifact Temple"
-    path: "Chozo Artifact Temple.brstm"
-    type: warning
-  - id: chozo_ruins
-    title: "Chozo Ruins"
-    path: "Chozo Ruins.brstm"
-    type: break
-  - id: phendrana_drifts_depths
-    title: "Phendrana Drifts Depths"
-    path: "Phendrana Drifts Depths.brstm"
-    type: betting
-  - id: thardus_battle
-    title: "Thardus Battle"
-    path: "Thardus Battle.brstm"
-    type: warning
-  - id: vs_hive_totem
-    title: "Vs. Hive Totem"
-    path: "Vs. Hive Totem.brstm"
-    type: warning
   - id: magmoor_caverns
     title: "Magmoor Caverns"
-    path: "Magmoor Caverns.brstm"
+    path: "lav_lavamainL.dsp"
     type: betting
-  - id: planet_tallon_iv
-    title: "Planet Tallon IV"
-    path: "Planet Tallon IV.brstm"
-    type: break
+  - id: magmoor_caverns_ambience
+    title: "Magmoor Caverns Ambience"
+    path: "lav_lavamaeL.dsp"
+    type: betting
+  - id: phendrana_drifts
+    title: "Phendrana Drifts"
+    path: "ice_worldmainL.dsp"
+    tags: [xmas]
+    type: betting
+  - id: phendrana_drifts_depths
+    title: "Phendrana Drifts Depths"
+    tags: [xmas]
+    path: "ice_kincyoL.dsp"
+    type: betting
   - id: tallon_overworld_depths
     title: "Tallon Overworld Depths"
-    path: "Tallon Overworld Depths.brstm"
+    path: "over-worldL.dsp"
     type: betting
-  - id: vs_parasite_queen
-    title: "Vs. Parasite Queen"
-    path: "Vs Parasite Queen.brstm"
+  - id: title_theme_metroid_prime
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    type: betting
+  - id: underwater_frigate_reactor_core
+    title: "Underwater Frigate Reactor Core"
+    path: "crash-ship-3L.dsp"
+    type: betting
+  - id: chozo_artifact_temple
+    title: "Chozo Artifact Temple"
+    path: "over-stonehengeL.dsp"
     type: warning
   - id: chozo_ghost_battle
     title: "Chozo Ghost Battle"
     path: "gen_ShortBattle2L.dsp"
     type: warning
-  - id: magmoor_caverns_ambience
-    title: "Magmoor Caverns Ambience"
-    path: "lav_lavamaeL.dsp"
-    type: betting
   - id: omega_pirate_battle
     title: "Omega Pirate Battle"
     path: "min_omegapirateL.dsp"
+    type: warning
+  - id: space_pirates_main_theme
+    title: "Space Pirates Main Theme"
+    path: "pir_isogiL.dsp"
+    type: warning
+  - id: thardus_battle
+    title: "Thardus Battle"
+    path: "ice_thardusL.dsp"
+    type: warning
+  - id: vs_hive_totem
+    title: "Vs. Hive Totem"
+    path: "rui_hivetotemL.dsp"
+    type: warning
+  - id: vs_parasite_queen
+    title: "Vs. Parasite Queen"
+    path: "int_parasitequeenL.dsp"
     type: warning
   - id: meta_ridley_battle
     title: "Meta Ridley Battle"
     path: "over-ridleyL.dsp"
     type: battle
-  - id: space_pirates_main_theme
-    title: "Space Pirates Main Theme"
-    path: "pir_isogiL.dsp"
-    type: warning
-  - id: title_theme_metroid_prime
-    title: "Title Theme"
-    path: "Title Theme.brstm"
+  - id: metroid_prime_essence_battle
+    title: "Metroid Prime Essence Battle"
+    path: "cra_mprime2L.dsp"
+    type: battle
+  - id: chozo_ruins
+    title: "Chozo Ruins"
+    path: "rui_samusL.dsp"
+    type: break
+  - id: planet_tallon_iv
+    title: "Planet Tallon IV"
+    path: "over-world-daichiL.dsp"
+    type: break
+  - id: chapel_of_the_elders
+    title: "Chapel of the Elders"
+    path: "ice_chapelL.dsp"
+    tags: [xmas]
+    type: betting
+  - id: phendrana_drifts_puzzle_theme
+    title: "Phendrana Drifts Puzzle Theme"
+    path: "ice_shorelinesL.dsp"
+    tags: [xmas]
     type: betting
 ...

@@ -1,0 +1,74 @@
+---
+id: sonic_runners
+title: "Sonic Runners"
+series: sonic
+platform: "Mobile"
+year: 2015
+songs: 
+  - id: ambition_ost_version
+    title: "Ambition (OST Version)"
+    path: "Ambition (Original Soundtrack).brstm"
+    ends: 3:00
+    type: betting
+  - id: beyond_the_speed_Of_windy_hill_full
+    title: "Beyond The Speed Of / Windy Hill (Full)"
+    path: "Beyond The Speed Of  _ Windy Hill (Full).brstm"
+    type: betting
+  - id: end_Of_the_summer_ost_version
+    title: "End Of The Summer (OST Version)"
+    path: "End Of The Summer (Original Soundtrack).brstm"
+    ends: 2:56
+    type: betting
+  - id: endless_possibilities
+    title: "Endless Possibilities"
+    path: "Endless Possibilities.brstm"
+    ends: 2:21
+    type: betting
+  - id: fiery_passion_ost_version
+    title: "Fiery Passion (OST Version)"
+    path: "Fiery Passion (Original Soundtrack).brstm"
+    type: betting
+  - id: go_quickly_ost_version
+    title: "Go Quickly! (OST Version)"
+    path: "Go Quickly! (Original Soundtrack).brstm"
+    type: battle
+  - id: going_my_way_ost_version
+    title: "Going My Way (OST Version)"
+    path: "Going My Way (Original Soundtrack).brstm"
+    type: result
+  - id: lava_mountain_ost_version
+    title: "Lava Mountain (OST Version)"
+    path: "Lava Mountain (OST Version).brstm"
+    type: battle
+  - id: magical_snow_day_ost_version
+    title: "Magical Snow Day (OST Version)"
+    path: "Magical Snow Day (Original Soundtrack).brstm"
+    ends: 2:35
+    tags: [xmas]
+    type: betting
+  - id: main_menu_sonic_runners
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: reach_for_the_stars
+    title: "Reach for the Stars"
+    path: "Reach for the Stars.brstm"
+    type: battle
+  - id: sky_road
+    title: "Sky Road"
+    path: "Sky Road.brstm"
+    type: betting
+  - id: strange_parade_ost_version
+    title: "Strange Parade (OST Version)"
+    path: "Strange Parade (Original Soundtrack).brstm"
+    ends: 2:39
+    type: betting
+  - id: vs_eggman_ost_version
+    title: "Vs. Eggman (OST Version)"
+    path: "Vs. Eggman (OST Version).brstm"
+    type: battle
+  - id: windy_hill_spring_ost_version
+    title: "Windy Hill - Spring (OST Version)"
+    path: "Windy Hill - Spring (OST Version).brstm"
+    type: betting
+...

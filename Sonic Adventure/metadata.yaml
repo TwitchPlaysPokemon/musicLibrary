@@ -84,6 +84,7 @@ songs:
   - id: snowy_mountain
     title: "Snowy Mountain for Icecap"
     path: "Snowy Mountain for Icecap.brstm"
+    tags: [xmas]
     type: betting
   - id: the_air_windy_valley
     title: "The Air for Windy Valley"
@@ -137,6 +138,7 @@ songs:
   - id: be_cool_wild_and_groovy
     title: "Be Cool, Be Wild and Be Groovy for Icecap"
     path: "Be Cool, Be Wild and Be Groovy for Icecap.brstm"
+    tags: [xmas]
     type: warning
   - id: danger_chased_by_rock
     title: "Danger Chased by Rock for Lost World"

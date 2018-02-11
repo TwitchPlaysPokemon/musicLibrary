@@ -6,395 +6,461 @@ platform: "NDS"
 year: 2012
 songs: 
   - id: encounter_cyclist_b2w2
-    path: "Encounter! Cyclist.mini2sf"
     title: "Encounter! Cyclist"
+    path: "Encounter! Cyclist.mini2sf"
     type: warning
   - id: battle_cynthia_b2w2
-    path: "Battle! Cynthia.mini2sf"
     title: "Battle! Cynthia"
+    path: "Battle! Cynthia.mini2sf"
     type: battle
   - id: encounter_ace_trainer_b2w2
-    path: "Encounter! Ace Trainer.mini2sf"
     title: "Encounter! Ace Trainer"
+    path: "Encounter! Ace Trainer.mini2sf"
     type: warning
   - id: encounter_cynthia_b2w2
-    path: "Encounter! Cynthia.mini2sf"
     title: "Encounter! Cynthia"
+    path: "Encounter! Cynthia.mini2sf"
     type: betting
   - id: aspertia_city_gym
-    path: "Aspertia City Gym.mini2sf"
     title: "Aspertia City Gym"
+    path: "Aspertia City Gym.mini2sf"
     type: betting
   - id: victory_in_the_pwt
-    path: "Victory in the PWT!.mini2sf"
     title: "Victory in the PWT!"
+    path: "Victory in the PWT!.mini2sf"
     type: result
   - id: battle_rare_wild_pokemon_b2w2
-    path: "Battle! Rare Wild Pokemon.mini2sf"
     title: "Battle! Rare Wild Pokémon"
+    path: "Battle! Rare Wild Pokemon.mini2sf"
     type: battle
   - id: battle_johto_gym_leader_pwt
-    path: "Battle! Johto Gym Leader (PWT).mini2sf"
     title: "Battle! Johto Gym Leader (PWT)"
+    path: "Battle! Johto Gym Leader (PWT).mini2sf"
     type: battle
   - id: battle_n_b2w2
-    path: "Battle! N.mini2sf"
     title: "Battle! N"
+    path: "Battle! N.mini2sf"
     type: battle
   - id: victory_lies_before_you
-    path: "Victory Lies Before You!.mini2sf"
     title: "Victory Lies Before You!"
+    path: "Victory Lies Before You!.mini2sf"
     type: result
   - id: victory_neo_plasma
-    path: "Victory! Neo Plasma.mini2sf"
     title: "Victory! Neo Plasma"
+    path: "Victory! Neo Plasma.mini2sf"
     type: result
   - id: staff_roll_b2w2
-    path: "Staff Roll.mini2sf"
     title: "Staff Roll"
+    path: "Staff Roll.mini2sf"
     type: betting
   - id: battle_johto_champion_pwt
-    path: "Battle! Johto Champion (PWT).mini2sf"
     title: "Battle! Johto Champion (PWT)"
+    path: "Battle! Johto Champion (PWT).mini2sf"
     type: battle
   - id: battle_trainer_b2w2
-    path: "Battle! Trainer.mini2sf"
     title: "Battle! Trainer"
+    path: "Battle! Trainer.mini2sf"
     type: battle
   - id: battle_champion_iris
-    path: "Battle! Champion Iris.mini2sf"
     title: "Battle! Champion Iris"
+    path: "Battle! Champion Iris.mini2sf"
     type: battle
   - id: battle_pwt_finals
-    path: "Battle! PWT Finals!.mini2sf"
     title: "Battle! PWT Finals!"
+    path: "Battle! PWT Finals!.mini2sf"
     type: battle
   - id: battle_regis_b2w2
-    path: "VS Regi.mini2sf"
     title: "Battle! Regirock/Regice/Registeel"
+    path: "VS Regi.mini2sf"
     type: battle
   - id: battle_neo_ghetsis
-    path: "Battle! Neo Plasma Leader Ghetsis.mini2sf"
     title: "Battle! Neo Plasma Leader Ghetsis"
+    path: "Battle! Neo Plasma Leader Ghetsis.mini2sf"
     type: battle
   - id: victory_champion_b2w2
-    path: "Victory! Champion.mini2sf"
     title: "Victory! Champion"
+    path: "Victory! Champion.mini2sf"
     type: result
   - id: battle_gym_leader_b2w2
-    path: "Battle! Gym Leader.mini2sf"
     title: "Battle! Gym Leader"
+    path: "Battle! Gym Leader.mini2sf"
     type: battle
   - id: battle_hoenn_gym_leader_pwt
-    path: "Battle! Hoenn Gym Leader (PWT).mini2sf"
     title: "Battle! Hoenn Gym Leader (PWT)"
+    path: "Battle! Hoenn Gym Leader (PWT).mini2sf"
     type: battle
   - id: virbank_city_gym
-    path: "Virbank City Gym.mini2sf"
     title: "Virbank City Gym"
+    path: "Virbank City Gym.mini2sf"
     type: betting
   - id: route_4_spring_b2w2
-    path: "Route 4 (Spring).mini2sf"
     title: "Route 4 (Spring)"
+    path: "Route 4 (Spring).mini2sf"
     type: betting
   - id: route_4_summer_b2w2
-    path: "Route 4 (Summer).mini2sf"
     title: "Route 4 (Summer)"
+    path: "Route 4 (Summer).mini2sf"
     type: betting
   - id: pwt_venue
-    path: "PWT Venue.mini2sf"
     title: "PWT Venue"
+    path: "PWT Venue.mini2sf"
     type: warning
   - id: battle_kanto_champion_pwt
-    path: "Battle! Kanto Champion (PWT).mini2sf"
     title: "Battle! Kanto Champion (PWT)"
+    path: "Battle! Kanto Champion (PWT).mini2sf"
     type: battle
   - id: encounter_shadow_triad
-    path: "Encounter! Shadow Triad.mini2sf"
     title: "Encounter! Shadow Triad"
+    path: "Encounter! Shadow Triad.mini2sf"
     type: warning
   - id: driftveil_city_gym
-    path: "Driftveil City Gym.mini2sf"
     title: "Driftveil City Gym"
+    path: "Driftveil City Gym.mini2sf"
     type: betting
   - id: route_4_autumn_bw2
-    path: "Route 4 (Autumn).mini2sf"
     title: "Route 4 (Autumn)"
+    path: "Route 4 (Autumn).mini2sf"
     type: betting
   - id: battle_colress_b2w2
-    path: "Battle! Colress.mini2sf"
     title: "Battle! Colress"
+    path: "Battle! Colress.mini2sf"
     type: battle
   - id: battle_elite_four_b2w2
-    path: "Battle! Elite Four.mini2sf"
     title: "Battle! Elite Four"
+    path: "Battle! Elite Four.mini2sf"
     type: battle
   - id: encounter_colress_b2w2
-    path: "Encounter! Colress.mini2sf"
     title: "Encounter! Colress"
+    path: "Encounter! Colress.mini2sf"
     type: warning
   - id: battle_hoenn_champion_pwt
-    path: "Battle! Hoenn Champion (PWT).mini2sf"
     title: "Battle! Hoenn Champion (PWT)"
+    path: "Battle! Hoenn Champion (PWT).mini2sf"
     type: battle
   - id: battle_subway_trainer_b2w2
-    path: "Battle! Subway Trainer.mini2sf"
     title: "Battle! Subway Trainer"
+    path: "Battle! Subway Trainer.mini2sf"
     type: battle
   - id: battle_world_championships_b2w2
-    path: "Battle! Pokemon World Championships.mini2sf"
     title: "Battle! Pokémon World Championships"
+    path: "Battle! Pokemon World Championships.mini2sf"
     type: battle
   - id: battle_unova_champion_pwt
-    path: "Battle! Unova Champion (PWT).mini2sf"
     title: "Battle! Unova Champion (PWT)"
+    path: "Battle! Unova Champion (PWT).mini2sf"
     type: battle
   - id: battle_subway_b2w2
-    path: "Battle Subway.mini2sf"
     title: "Battle Subway"
+    path: "Battle Subway.mini2sf"
     type: betting
   - id: battle_sinnoh_champion_pwt
-    path: "Battle! Sinnoh Champion (PWT).mini2sf"
     title: "Battle! Sinnoh Champion (PWT)"
+    path: "Battle! Sinnoh Champion (PWT).mini2sf"
     type: battle
   - id: battle_kyuewm
-    path: "251 SEQ_BGM_VS_KYUROMU (04e8).mini2sf"
     title: "Battle! Kyurem" #Song needs to have its title changed to specify whether it plays for White or Black Kyurem.
+    path: "251 SEQ_BGM_VS_KYUROMU (04e8).mini2sf"
+    tags: [xmas]
     type: battle
   - id: battle_kyurem_b2w2
-    path: "Battle! Kyurem.mini2sf"
     title: "Battle! Kyurem" #Song needs to have its title changed to specify whether it plays for White or Black Kyurem.
+    path: "Battle! Kyurem.mini2sf"
+    tags: [xmas]
     type: battle
   - id: nimbasa_city_gym_2
-    path: "Nimbasa City Gym.mini2sf"
     title: "Nimbasa City Gym: Stage"
+    path: "Nimbasa City Gym.mini2sf"
     type: betting
   - id: battle_reshiram_zekrom_b2w2
-    path: "Battle! Reshiram-Zekrom.mini2sf"
     title: "Battle! Reshiram/Zekrom" #These three songs have the same title but different files, are they different?
+    path: "Battle! Reshiram-Zekrom.mini2sf"
     type: battle
   - id: vs_shin
-    path: "135 SEQ_BGM_VS_SHIN (0474).mini2sf"
     title: "Battle! Reshiram/Zekrom" #These three songs have the same title but different files, are they different?
+    path: "135 SEQ_BGM_VS_SHIN (0474).mini2sf"
     type: battle
   - id: vs_mu
-    path: "136 SEQ_BGM_VS_MU (0475).mini2sf"
     title: "Battle! Reshiram/Zekrom" #These three songs have the same title but different files, are they different?
+    path: "136 SEQ_BGM_VS_MU (0475).mini2sf"
     type: battle
   - id: encounter_gentleman_b2w2
-    path: "Encounter! Gentleman.mini2sf"
     title: "Encounter! Gentleman"
+    path: "Encounter! Gentleman.mini2sf"
     type: warning
   - id: encounter_pokefan_b2w2
-    path: "Encounter! Pokefan.mini2sf"
     title: "Encounter! Pokéfan"
+    path: "Encounter! Pokefan.mini2sf"
     type: warning
   - id: encounter_twins_b2w2
-    path: "Encounter! Twins.mini2sf"
     title: "Encounter! Twins"
+    path: "Encounter! Twins.mini2sf"
     type: warning
   - id: encounter_parasol_lady_b2w2
-    path: "Encounter! Parasol Lady.mini2sf"
     title: "Encounter! Parasol Lady"
+    path: "Encounter! Parasol Lady.mini2sf"
     type: warning
   - id: two_people_on_the_ferris_wheel
-    path: "Two People on the Ferris Wheel.mini2sf"
     title: "Two People on the Ferris Wheel"
+    path: "Two People on the Ferris Wheel.mini2sf"
     type: result
   - id: battle_trainer_wifi
-    path: "Battle! Trainer (WiFi).mini2sf"
     title: "Battle! Trainer (WiFi)"
+    path: "Battle! Trainer (WiFi).mini2sf"
     type: battle
   - id: battl_sinnoh_legendary_b2w2
-    path: "Battle! Sinnoh Legendary Pokemon.mini2sf"
     title: "Battle! Sinnoh Legendary Pokémon"
+    path: "Battle! Sinnoh Legendary Pokemon.mini2sf"
     type: battle
   - id: battle_kanto_gym_leader_pwt
-    path: "Battle! Kanto Gym Leader (PWT).mini2sf"
     title: "Battle! Kanto Gym Leader (PWT)"
+    path: "Battle! Kanto Gym Leader (PWT).mini2sf"
     type: battle
   - id: route_1_b2w2
-    path: "Route 1.mini2sf"
     title: "Route 1"
+    path: "Route 1.mini2sf"
     type: betting
   - id: battle_rival_bw
-    path: "Battle! Rival (Black-White).mini2sf"
     title: "Battle! Rival (Black/White)"
+    path: "Battle! Rival (Black-White).mini2sf"
     type: battle
   - id: battle_sinnoh_gym_leader_pwt
-    path: "Battle! Sinnoh Gym Leader (PWT).mini2sf"
     title: "Battle! Sinnoh Gym Leader (PWT)"
+    path: "Battle! Sinnoh Gym Leader (PWT).mini2sf"
     type: battle
   - id: battle_champion_alder_b2w2
-    path: "Battle! Champion.mini2sf"
     title: "Battle! Champion"
+    path: "Battle! Champion.mini2sf"
     type: battle
   - id: encounter_clerk_b2w2
-    path: "Encounter! Clerk.mini2sf"
     title: "Encounter! Clerk"
+    path: "Encounter! Clerk.mini2sf"
     type: warning
   - id: battle_neo_plasma
-    path: "Battle! Neo Plasma.mini2sf"
     title: "Battle! Neo Plasma"
+    path: "Battle! Neo Plasma.mini2sf"
     type: battle
   - id: castelia_city_gym
-    path: "Castelia City Gym.mini2sf"
     title: "Castelia City Gym"
+    path: "Castelia City Gym.mini2sf"
     type: betting
   - id: pokemon_league_b2w2
-    path: "Pokemon League.mini2sf"
     title: "Pokémon League"
+    path: "Pokemon League.mini2sf"
     type: betting
   - id: battle_uxie_mesprit_azelf_b2w2
-    path: "Battle! Uxie-Mesprit-Azelf.mini2sf"
     title: "Battle! Uxie/Mesprit/Azelf"
+    path: "Battle! Uxie-Mesprit-Azelf.mini2sf"
     type: battle
   - id: battle_wild_pokemon_b2w2
-    path: "Battle! Wild Pokemon.mini2sf"
     title: "Battle! Wild Pokémon"
+    path: "Battle! Wild Pokemon.mini2sf"
     type: battle
   - id: encounter_neo_plasma
-    path: "Encounter! Neo Plasma.mini2sf"
     title: "Encounter! Neo Plasma"
+    path: "Encounter! Neo Plasma.mini2sf"
     type: warning
   - id: battle_rival_hugh
-    path: "Battle! Rival Hugh.mini2sf"
     title: "Battle! Rival Hugh"
+    path: "Battle! Rival Hugh.mini2sf"
     type: battle
   - id: battle_unova_legendary
-    path: "Battle! Unova Legendary Pokemon.mini2sf"
     title: "Battle! Unova Legendary Pokémon"
+    path: "Battle! Unova Legendary Pokemon.mini2sf"
     type: battle
   - id: route_4_winter_b2w2
-    path: "Route 4 (Winter).mini2sf"
     title: "Route 4 (Winter)"
+    path: "Route 4 (Winter).mini2sf"
     type: betting
   - id: encounter_lass_b2w2
-    path: "Encounter! Lass.mini2sf"
     title: "Encounter! Lass"
+    path: "Encounter! Lass.mini2sf"
     type: warning
   - id: encounter_youngster_b2w2
-    path: "Encounter! Youngster.mini2sf"
     title: "Encounter! Youngster"
+    path: "Encounter! Youngster.mini2sf"
     type: warning
   - id: route_23_b2w2
-    path: "Route 23.brstm"
     title: "Route 23"
+    path: "Route 23.brstm"
     type: betting
   - id: route_19_fall_b2w2
-    path: "Route 19 - Fall.brstm"
     title: "Route 19 - Fall"
+    path: "Route 19 - Fall.brstm"
     type: betting
   - id: pokestar_studios_filming_b2w2
-    path: "Pokestar Studios - Filming.brstm"
     title: "Pokéstar Studios - Filming"
+    path: "Pokestar Studios - Filming.brstm"
     type: break
   - id: aspetia_city_b2w2
-    path: "Aspertia City.brstm"
     title: "Aspertia City"
+    path: "Aspertia City.brstm"
     type: break
   - id: route_22_summer_b2w2
-    path: "Route 22 - Summer.brstm"
     title: "Route 22 - Summer"
+    path: "Route 22 - Summer.brstm"
     type: betting
   - id: floccesy_ranch_b2w2
-    path: "Floccesy Ranch.brstm"
     title: "Floccesy Ranch"
+    path: "Floccesy Ranch.brstm"
     type: betting
   - id: humilau_city_b2w2
-    path: "Humilau City.brstm"
     title: "Humilau City"
+    path: "Humilau City.brstm"
     type: betting
   - id: virbank_city_b2w2
-    path: "Virbank City.brstm"
     title: "Virbank City"
+    path: "Virbank City.brstm"
     type: betting
   - id: flocessy_town_b2w2
-    path: "Floccesy Town.brstm"
     title: "Floccesy Town"
+    path: "Floccesy Town.brstm"
     type: break
   - id: lentimas_town_b2w2
-    path: "Lentimas Town.brstm"
     title: "Lentimas Town"
+    path: "Lentimas Town.brstm"
     type: betting
   - id: frozen_city_b2w2
-    path: "Frozen City.brstm"
     title: "Frozen City"
+    path: "Frozen City.brstm"
+    tags: [xmas]
     type: warning
   - id: infiltrate_the_plasma_frigate
-    path: "Infiltrate the Plasma Frigate!.brstm"
     title: "Infiltrate the Plasma Frigate!"
+    path: "Infiltrate the Plasma Frigate!.brstm"
     type: betting
   - id: join_avenue_b2w2
-    path: "Join Avenue.brstm"
     title: "Join Avenue"
+    path: "Join Avenue.brstm"
     type: result
   - id: plasma_frigate_deck
-    path: "Plasma Frigate - Deck.brstm"
     title: "Plasma Frigate - Deck"
+    path: "Plasma Frigate - Deck.brstm"
     type: warning
   - id: pokestar_studios_b2w2
-    path: "Pokestar Studios.brstm"
     title: "Pokéstar Studios"
+    path: "Pokestar Studios.brstm"
     type: result
   - id: pwt_lobby_b2w2
-    path: "PWT - Lobby.brstm"
     title: "PWT - Lobby"
+    path: "PWT - Lobby.brstm"
     type: betting
   - id: reversal_mountain_white_2
-    path: "Reversal Mountain (White 2).brstm"
     title: "Reversal Mountain (White 2)"
+    path: "Reversal Mountain (White 2).brstm"
     type: betting
   - id: mistralton_city_gym
-    path: "Skyla's Gym.brstm"
     title: "Mistralton City Gym"
+    path: "Skyla's Gym.brstm"
     type: betting
   - id: the_road_to_reversal_mountain
-    path: "The Road to Reversal Mountain.brstm"
     title: "The Road to Reversal Mountain"
+    path: "The Road to Reversal Mountain.brstm"
     type: betting
   - id: title_screen_b2w2
-    path: "Title Screen.brstm"
     title: "Title Screen"
+    path: "Title Screen.brstm"
     type: betting
   - id: virbank_complex_castelia_sewers
-    path: "Virbank ComplexCastelia Sewers.brstm"
     title: "Virbank Complex / Castelia Sewers"
+    path: "Virbank ComplexCastelia Sewers.brstm"
     type: betting
   - id: white_tree_hollow
-    path: "White Tree Hollow.brstm"
     title: "White Tree Hollow"
+    path: "White Tree Hollow.brstm"
     type: break
   - id: black_tower
-    path: "Black Tower.brstm"
     title: "Black Tower"
+    path: "Black Tower.brstm"
     type: betting
   - id: reversal_mountain_black_2
-    path: "Reversal Mountain (Black 2).brstm"
     title: "Reversal Mountain (Black 2)"
+    path: "Reversal Mountain (Black 2).brstm"
     type: betting
   - id: pokestar_confrontation
-    path: "Pokestar Studios - Theme of Confrontation.brstm"
     title: "Pokéstar Studios - Theme of Confrontation"
+    path: "Pokestar Studios - Theme of Confrontation.brstm"
     type: warning
   - id: black_tower_entrance
-    path: "Black Tower - Entrance.brstm"
     title: "Black Tower - Entrance"
+    path: "Black Tower - Entrance.brstm"
     type: result
   - id: white_treehollow_entrance
-    path: "White Tree Hollow - Entrance.brstm"
     title: "White Tree Hollow - Entrance"
+    path: "White Tree Hollow - Entrance.brstm"
     type: result
   - id: encounter_rival_hugh
-    path: "Encounter! Rival Hugh!.brstm"
     title: "Encounter! Rival Hugh!"
+    path: "Encounter! Rival Hugh!.brstm"
     type: warning
   - id: unwavering_emotions_b2w2
-    path: "266 SEQ_BGM_EV_GIANTHOLE_03 (04f7).mini2sf"
     title: "Unwavering Emotions"
+    path: "266 SEQ_BGM_EV_GIANTHOLE_03 (04f7).mini2sf"
     type: break
   - id: xtransceiver_minigames_b2w2
-    path: "218 SEQ_BGM_LCG_01 (04c7).mini2sf"
     title: "Xtransceiver Minigames"
+    path: "218 SEQ_BGM_LCG_01 (04c7).mini2sf"
     type: result
+  - id: zinzolin_s_theme
+    title: "Zinzolin's Theme"
+    path: "235 SEQ_BGM_E_7_SAGE (04d8).mini2sf"
+    tags: [xmas]
+    type: warning
+  - id: route_22_autumn_winter
+    title: "Route 22 (Winter)"
+    path: "178 SEQ_BGM_SW_R_22_WI (049f).mini2sf"
+    tags: [xmas]
+    type: betting
+  - id: route_19_autumn_winter
+    title: "Route 19 (Winter)"
+    path: "174 SEQ_BGM_SW_R_19_WI (049b).mini2sf"
+    tags: [xmas]
+    type: betting
+  - id: pokestar_studios_glory
+    title: "Pokéstar Studios: Glory"
+    path: "201 SEQ_BGM_PW_SCENARIO_01_L (04b6).mini2sf"
+    type: result
+  - id: pokestar_studios_defeat
+    title: "Pokéstar Studios: Defeat"
+    path: "202 SEQ_BGM_PW_SCENARIO_02_F (04b7).mini2sf"
+    type: result
+  - id: pokestar_studios_invasion
+    title: "Pokéstar Studios: Invasion"
+    path: "203 SEQ_BGM_PW_SCENARIO_02_L (04b8).mini2sf"
+    type: warning
+  - id: pokestar_studios_success
+    title: "Pokéstar Studios: Success"
+    path: "204 SEQ_BGM_PW_SCENARIO_03_F (04b9).mini2sf"
+    type: result
+  - id: pokestar_studios_retreat
+    title: "Pokéstar Studios: Retreat"
+    path: "205 SEQ_BGM_PW_SCENARIO_03_L (04ba).mini2sf"
+    type: warning
+  - id: pokestar_studios_weird
+    title: "Pokéstar Studios: Weird"
+    path: "206 SEQ_BGM_PW_SCENARIO_04_F (04bb).mini2sf"
+    type: warning
+  - id: pokestar_studios_love
+    title: "Pokéstar Studios: Love"
+    path: "207 SEQ_BGM_PW_SCENARIO_04_L (04bc).mini2sf"
+    type: result
+  - id: pokestar_studios_horror
+    title: "Pokéstar Studios: Horror"
+    path: "209 SEQ_BGM_PW_SCENARIO_05_L (04be).mini2sf"
+    type: warning
+  - id: pokestar_studios_fear
+    title: "Pokéstar Studios: Fear"
+    path: "211 SEQ_BGM_PW_SCENARIO_06_L (04c0).mini2sf"
+    type: warning
+  - id: pokestar_studios_humor
+    title: "Pokéstar Studios: Humor"
+    path: "212 SEQ_BGM_PW_SCENARIO_07_F (04c1).mini2sf"
+    type: warning
+  - id: pokestar_studios_despair
+    title: "Pokéstar Studios: Despair"
+    path: "213 SEQ_BGM_PW_SCENARIO_07_L (04c2).mini2sf"
+    type: warning
+  - id: pokestar_studios_shock
+    title: "Pokéstar Studios: Shock"
+    path: "214 SEQ_BGM_PW_SCENARIO_08_F (04c3).mini2sf"
+    type: warning
 ...

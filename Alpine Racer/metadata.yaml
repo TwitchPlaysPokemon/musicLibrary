@@ -1,17 +1,22 @@
+---
 id: alpine_racer
 title: "Alpine Racer"
-year: 1994
 platform: "Arcade"
+year: 1994
 songs:
   - id: endless_season
     title: "Endless Season"
     path: "Endless Season.vgz"
+    tags: [xmas]
     type: betting
   - id: give_it_together
     title: "Give It Together"
     path: "Give It Together.vgz"
+    tags: [xmas]
     type: betting
   - id: snowbound_landscape
     title: "Snowbound Landscape"
     path: "Snowbound Landscape (Alpine Racer Ending Theme).vgz"
+    tags: [xmas]
     type: break
+...

@@ -2,8 +2,8 @@
 id: donkey_kong_country_3
 title: "Donkey Kong Country 3: Dixie Kong's Double Trouble!"
 series: donkeykong
-year: 1996
 platform: "SNES"
+year: 1996
 songs:
   - id: stilt_village
     title: "Stilt Village"
@@ -16,10 +16,12 @@ songs:
   - id: jangle_bells
     title: "Jangle Bells"
     path: "08 Jangle Bells.spc"
+    tags: [xmas]
     type: betting
   - id: frosty_frolics
     title: "Frosty Frolics"
     path: "09 Frosty Frolics.spc"
+    tags: [xmas]
     type: betting
   - id: treetop_tumble
     title: "Treetop Tumble"
@@ -83,7 +85,7 @@ songs:
     type: result
   - id: dixie_beat
     title: "Dixie Beat"
-    path: "02 Dixie Beat.spc"
+    path: "01 Dixie Beat.brstm"
     type: betting
   - id: boss_boogie
     title: "Boss Boogie"
@@ -104,6 +106,7 @@ songs:
   - id: northern_kremisphere
     title: "Northern Kremisphere"
     path: "04 Northern Kremisphere.spc"
+    tags: [xmas]
     type: break
   - id: submap_shuffle
     title: "Submap Shuffle"

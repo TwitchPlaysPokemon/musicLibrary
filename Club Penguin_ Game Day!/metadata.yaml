@@ -1,9 +1,12 @@
+---
 id: club_penguin_game_day
 title: "Club Penguin: Game Day!"
-year: 2010
 platform: "Wii"
+year: 2010
 songs:
   - id: java_jump
     title: "Java Jump"
     path: "Java Jump.brstm"
+    tags: [xmas]
     type: warning
+...

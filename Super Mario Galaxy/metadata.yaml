@@ -70,6 +70,11 @@ songs:
     title: "Course Select"
     path: "Course Select.brstm"
     type: warning
+  - id: ice_mario
+    title: "Ice Mario"
+    path: "Ice Mario.brstm"
+    tags: [xmas]
+    type: warning
   - id: king_bowser_main_smg
     title: "King Bowser"
     path: "SMG_boss07_multi0.ast"
@@ -98,6 +103,11 @@ songs:
     title: "Megaleg"
     path: "SMG_boss02a_strm.ast"
     type: battle
+  - id: ice_mountain
+    title: "Ice Mountain"
+    path: "SMG_galaxy16_multi1.ast"
+    tags: [xmas]
+    type: break
   - id: pipe_interior
     title: "Pipe Interior"
     path: "SMG_galaxy18_strm.ast"

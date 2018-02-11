@@ -53,4 +53,25 @@ songs:
     title: "Options Menu"
     path: "Options Menu.brstm"
     type: break
+  - id: credits_punchout
+    title: "Credits"
+    path: "156 - Credits 926906583.lwav"
+    type: betting
+  - id: main_theme_punchout
+    title: "Main Theme"
+    path: "157 - Trailer Music 385254258.lwav"
+    type: betting
+  - id: soda_popinski_player_down
+    title: "Soda Popinski - Player Down"
+    path: "Soda Popinski - Player Down.brstm"
+    type: warning
+  - id: soda_popinski_pause
+    title: "Soda Popinski (Pause)"
+    path: "113 - Soda Popinski Fight Pause 923978048.lwav"
+    type: warning
+  - id: title_screen_punchout
+    title: "Title Screen"
+    path: "003 - Title Screen 517352032.lwav"
+    ends: 3:00
+    type: betting
 ...

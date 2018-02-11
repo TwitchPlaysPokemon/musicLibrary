@@ -1,8 +1,8 @@
 ---
 id: sonic_unleashed
-platform: ["Wii", "360", "PS3"]
 title: "Sonic Unleashed"
 series: sonic
+platform: ["Wii", "360", "PS3"]
 year: 2008
 songs: 
   - id: adabat_jungle_joyride_day
@@ -80,5 +80,10 @@ songs:
   - id: holoska_day
     title: "Holoska Day"
     path: "Holoska Day.brstm"
+    tags: [xmas]
     type: break
+  - id: result_screen_e_rank
+    title: "Result Screen - E Rank"
+    path: "Result - Level Failed.brstm"
+    type: result
 ...

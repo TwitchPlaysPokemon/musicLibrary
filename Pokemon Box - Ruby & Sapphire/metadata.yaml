@@ -1,7 +1,8 @@
+---
 id: pokemon_box_ruby_and_sapphire
 title: "Pokémon Box: Ruby and Sapphire"
-platform: "GC"
 series: pokemon
+platform: "GCN"
 year: 2003
 songs:
   - id: arrange_boxes
@@ -51,4 +52,6 @@ songs:
   - id: pokemon_center_music_box
     title: "Pokémon Center (Music Box Arrangement)"
     path: "Pokémon Center (Music Box Arrangement).brstm"
+    tags: [xmas]
     type: break
+...

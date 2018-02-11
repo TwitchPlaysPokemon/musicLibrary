@@ -1,0 +1,15 @@
+---
+id: wreck_it_ralph
+title: "Wreck-It Ralph"
+platform: "Wii"
+year: 2012
+songs: 
+  - id: sugar_rush
+    title: "Sugar Rush"
+    path: "Sugar Rush.brstm"
+    type: betting
+  - id: main_menu_wreck_it_ralph
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: result
+...

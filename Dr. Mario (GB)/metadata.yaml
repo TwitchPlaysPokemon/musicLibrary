@@ -1,0 +1,12 @@
+---
+id: dr_mario_gb
+title: " Dr. Mario [GB]"
+series: mario
+platform: ["NES", "GB", "Arcade"]
+year: 1990
+songs: 
+  - id: ending_dr_mario_gb
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+...

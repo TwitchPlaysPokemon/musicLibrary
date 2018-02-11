@@ -1,12 +1,18 @@
 ---
 id: goldeneye_007_n64
 title: "GoldenEye 007"
+series: jamesbond
 platform: "N64"
 year: 1997
 songs:
   - id: runway
     title: "Runway"
     path: "103 Runway.miniusf"
+    type: betting
+  - id: severnaya_installation_day_siberia
+    title: "Severnaya Installation(Day), Siberia"
+    path: "104 Surface 1.miniusf"
+    tags: [xmas]
     type: betting
   - id: soviet_missile_silo_kyrgyzstan
     title: "Soviet Missile Silo, Kyrgyzstan"
@@ -16,6 +22,11 @@ songs:
     title: "Frigate 'La Fayette', Monte Carlo"
     path: "107 Frigate.miniusf"
     type: betting
+  - id: severnaya_installation_night_siberia
+    title: "Severnaya Installation(Night), Siberia"
+    path: "108 Surface 2.miniusf"
+    tags: [xmas]
+    type: betting
   - id: escape_from_arkhangelsk_facility_x
     title: "Escape From Arkhangelsk (Facility X)"
     path: "202 Facility X.miniusf"
@@ -24,6 +35,11 @@ songs:
     title: "Escape Missile Silo (Silo X)"
     path: "206 Silo X.miniusf"
     type: warning
+  - id: surface_2_x
+    title: "Surface 2 X"
+    path: "208 Surface 2 X.miniusf"
+    tags: [xmas]
+    type: betting
   - id: watch_pause_theme
     title: "Watch Pause Theme"
     path: "309 007 Watch Theme.miniusf"

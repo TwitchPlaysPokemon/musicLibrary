@@ -1,7 +1,8 @@
+---
 id: street_fighter_ex2_plus
 title: "Street Fighter EX2 Plus"
-year: 1999
 platform: ["Arcade", "PS1"]
+year: 1999
 songs:
   - id: digital_ignition_str
     title: "Digital Ignition"
@@ -10,4 +11,6 @@ songs:
   - id: white_field_sfex2
     title: "White Field"
     path: "Street Fighter EX2 Plus - White Field.mp3"
+    tags: [xmas]
     type: betting
+...

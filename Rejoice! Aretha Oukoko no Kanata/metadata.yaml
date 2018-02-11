@@ -1,3 +1,4 @@
+---
 id: rejoice_aretha_oukoko_no_kanata
 title: "Rejoice: Aretha Ōkoku no Kanata"
 platform: "SFC"
@@ -6,6 +7,7 @@ songs:
   - id: snowy_town_rejoice
     title: "Snowy Town"
     path: "Rejoice! Aretha Oukoku no Kanata - 09 - Snowy Town.spc"
+    tags: [xmas]
     type: betting
   - id: feel_sad
     title: "Feel Sad..."
@@ -15,3 +17,4 @@ songs:
     title: "Pig Up!!"
     path: "Rejoice! Aretha Oukoku no Kanata - 51 - Pig Up!!.spc"
     type: warning
+...

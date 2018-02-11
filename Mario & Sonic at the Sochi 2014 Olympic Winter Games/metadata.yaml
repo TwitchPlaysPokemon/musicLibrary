@@ -6,8 +6,8 @@ year: 2013
 platform: "Wii U"
 songs:
   - id: bowsers_galaxy_generator
-    path: "Bowser's Galaxy Generator (Super Mario Galaxy 2).brstm"
     title: "Bowser's Galaxy Generator (Super Mario Galaxy 2)"
+    path: "Bowser's Galaxy Generator (Super Mario Galaxy 2).brstm"
     type: betting
   - id: staff_credits_super_mario_64
     title: "Staff Credits (Super Mario 64)"
@@ -18,7 +18,62 @@ songs:
     path: "Super Mario Land Medley.brstm"
     type: result
   - id: ending_mario_world
-    path: "Ending (Super Mario World).brstm"
     title: "Ending (Super Mario World)"
+    path: "Ending (Super Mario World).brstm"
     type: result
+  - id: alpine_skiing_downhill
+    title: "Alpine Skiing Downhill"
+    path: "Alpine Skiing Downhill.brstm"
+    tags: [xmas]
+    type: betting
+  - id: blizzard_peaks_act_1
+    title: "Blizzard Peaks, Act 1"
+    path: "Blizzard Peaks, Act 1 (Sonic Rush Adventure).brstm"
+    tags: [xmas]
+    type: battle
+  - id: freestyle_ski_cross_sochi
+    title: "Freestyle Ski Cross"
+    path: "Freestyle Ski Cross.brstm"
+    tags: [xmas]
+    type: betting
+  - id: freestyle_skiing_moguls
+    title: "Freestyle Skiing Moguls"
+    path: "Freestyle Skiing Moguls.brstm"
+    tags: [xmas]
+    type: warning
+  - id: groove_pipe_snowboard_mushroom_bridge
+    title: "Groove Pipe Snowboard (Mushroom Bridge)"
+    path: "Groove Pipe Snowboard (Mushroom Bridge).brstm"
+    tags: [xmas]
+    type: betting
+  - id: short_track_speed_skating_1000m
+    title: "Short Track Speed Skating 1000m"
+    path: "Short Track Speed Skating 1000m.brstm"
+    tags: [xmas]
+    type: battle
+  - id: ski_jumping_large_hill
+    title: "Ski Jumping Large Hill"
+    path: "Ski Jumping Large Hill.brstm"
+    tags: [xmas]
+    type: battle
+  - id: snowball_scrimmage_sherbet_land
+    title: "Snowball Scrimmage (Sherbet Land)"
+    path: "Snowball Scrimmage (Snow Colosseum) [Sherbet Land] (Full).brstm"
+    tags: [xmas]
+    type: betting
+  - id: snowboard_cross_sochi
+    title: "Snowboard Cross"
+    path: "Snowboard Cross.brstm"
+    tags: [xmas]
+    type: battle
+  - id: snowboard_parallel_giant_slalom
+    title: "Snowboard Parallel Giant Slalom"
+    path: "Snowboard Parallel Giant Slalom.brstm"
+    tags: [xmas]
+    type: battle
+  - id: snowboard_slopestyle
+    title: "Snowboard Slopestyle"
+    path: "Snowboard Slopestyle.brstm"
+    tags: [xmas]
+    type: warning
 ...

@@ -44,4 +44,9 @@ songs:
     title: "Final Destination"
     path: "Final Destination.brstm"
     type: battle
+  - id: a_snow_light
+    title: "a snow light"
+    path: "A Snow Light.brstm"
+    tags: [xmas]
+    type: break
 ...

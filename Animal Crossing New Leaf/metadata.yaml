@@ -21,6 +21,26 @@ songs:
     title: "K.K. Disco"
     path: "K.K. Disco.brstm"
     type: betting
+  - id: new_year_countdown_1_hour
+    title: "New Year Countdown (1 Hour)"
+    path: "STRM_BGM_EVT_COUNTDOWN_2300.bcstm"
+    tags: [xmas]
+    type: betting
+  - id: new_year_countdown_10_mins
+    title: "New Year Countdown (10 mins)"
+    path: "STRM_BGM_EVT_COUNTDOWN_2350.bcstm"
+    tags: [xmas]
+    type: betting
+  - id: new_year_countdown_30_mins
+    title: "New Year Countdown (30 mins)"
+    path: "STRM_BGM_EVT_COUNTDOWN_2330.bcstm"
+    tags: [xmas]
+    type: betting
+  - id: new_year_countdown_5_mins
+    title: "New Year Countdown (5 mins)"
+    path: "STRM_BGM_EVT_COUNTDOWN_2355.bcstm"
+    tags: [xmas]
+    type: betting
   - id: bubblegum_kk_8bit
     title: "Bubblegum K.K. (8-Bit)"
     path: "Bubblegum K.K. (8-Bit).brstm"
@@ -80,14 +100,22 @@ songs:
   - id: new_year_2_am_to_6_am
     title: "New Year (2 AM to 6 AM)"
     path: "STRM_BGM_EVT_COUNTDOWN_0200.bcstm"
+    tags: [xmas]
     type: break
   - id: christmas_acnl
     title: "Christmas"
     path: "STRM_BGM_EVT_CHRISTMAS.bcstm"
+    tags: [xmas]
     type: break
   - id: inside_the_igloo
     title: "Inside the Igloo"
     path: "STRM_BGM_IND_IGLOO.bcstm"
+    tags: [xmas]
+    type: break
+  - id: new_year_s_day_acnl
+    title: "New Year's Day"
+    path: "STRM_BGM_EVT_GANTAN.bcstm"
+    tags: [xmas]
     type: break
   - id: train_station
     title: "Train Station"

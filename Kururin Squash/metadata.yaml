@@ -1,15 +1,17 @@
 ---
 id: kururin_squash
-platform: "GC"
 title: "Kururin Squash!"
+series: kururin
+platform: "GCN"
 year: 2004
 songs: 
   - id: winter_village
-    path: "Winter Village.brstm"
     title: "Winter Village"
+    path: "Winter Village.brstm"
+    tags: [xmas]
     type: betting
   - id: sweets_land
-    path: "Sweets Land.brstm"
     title: "Sweets Land"
+    path: "Sweets Land.brstm"
     type: betting
 ...
