@@ -1,9 +1,34 @@
 ---
 id: kirby_s_dream_course
 title: "Kirby's Dream Course"
-platform: "SNES"
+series: kirby
 year: 1994
-songs: 
+platform: "SNES"
+songs:
+  - id: the_first_hole
+    title: "The First Hole"
+    path: "The First Hole.spc"
+    type: betting
+  - id: iceberg_ocean
+    title: "Iceberg Ocean"
+    path: "Iceberg Ocean.spc"
+    type: betting
+  - id: green_fields
+    title: "Green Fields"
+    path: "Green Fields.spc"
+    type: betting
+  - id: cloudy_mountain_peaks
+    title: "Cloudy Mountain Peaks"
+    path: "Cloudy Mountain Peaks.spc"
+    type: betting
+  - id: dedede_is_getting_closer
+    title: "Dedede is Getting Closer!"
+    path: "Dedede is Getting Closer!.spc"
+    type: warning
+  - id: showdown_with_dedede
+    title: "Showdown with Dedede"
+    path: "Showdown with Dedede.spc"
+    type: warning
   - id: space_valley
     title: "Space Valley"
     path: "11 Space Valley.spc"
@@ -15,10 +40,6 @@ songs:
   - id: castles_of_cake
     title: "Castles of Cake"
     path: "15 Castles of Cake.spc"
-    type: betting
-  - id: iceberg_ocean
-    title: "Iceberg Ocean"
-    path: "16 Iceberg Ocean.spc"
     type: betting
   - id: game_over_kirby_s_dream_course
     title: "Game Over"
