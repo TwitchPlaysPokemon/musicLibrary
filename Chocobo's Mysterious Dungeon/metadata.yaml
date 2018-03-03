@@ -17,4 +17,16 @@ songs:
     title: "Store Man"
     path: "Store Man.psf"
     type: break
+  - id: chocobos_house
+    title: "Chocobo's House"
+    path: "103 Chocobo's House.psf"
+    type: result
+  - id: fight_chocobo
+    title: "Fight, Chocobo!"
+    path: "129 Fight, Chocobo!.psf"
+    type: 
+  - id: chocobo_christmas
+    title: "Chocobo's Happy Christmas"
+    path: "201 Chocobo's Happy Christmas.mp3"
+    type: betting
 ...

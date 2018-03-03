@@ -1,0 +1,16 @@
+---
+id: team_innocent_the_point_of_no_return
+title: "Team Innocent: The Point of No Return"
+platform: "PC-FX"
+year: 1994
+songs: 
+  - id: bgm_02_chiptune_team_innocent
+    title: "BGM #02 (Chiptune)"
+    path: "BGM #02 (Chiptune).brstm"
+    type: betting
+  - id: bgm_04_team_innocent
+    title: "BGM 04"
+    path: "BGM 04.mp3"
+    ends: 2:14
+    type: betting
+...

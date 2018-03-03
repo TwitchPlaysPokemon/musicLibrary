@@ -1,0 +1,21 @@
+---
+id: wartech_senko_no_ronde
+title: "WarTech: Senko no Ronde"
+platform: ["Arcade", "360"]
+year: 2005
+songs: 
+  - id: assemble
+    title: "assemble"
+    path: "mika.adx"
+    ends: 3:30
+    type: betting
+  - id: imitation_blue
+    title: "Imitation Blue"
+    path: "sakurako_ex1.adx"
+    type: betting
+  - id: grey_lips
+    title: "Grey Lips"
+    path: "ura_saku.adx"
+    ends: 3:00
+    type: betting
+...

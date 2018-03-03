@@ -1,0 +1,27 @@
+---
+id: kirby_s_dream_course
+title: "Kirby's Dream Course"
+platform: "SNES"
+year: 1994
+songs: 
+  - id: space_valley
+    title: "Space Valley"
+    path: "11 Space Valley.spc"
+    type: betting
+  - id: jigsaw_plains
+    title: "Jigsaw Plains"
+    path: "12 Jigsaw Plains.spc"
+    type: betting
+  - id: castles_of_cake
+    title: "Castles of Cake"
+    path: "15 Castles of Cake.spc"
+    type: betting
+  - id: iceberg_ocean
+    title: "Iceberg Ocean"
+    path: "16 Iceberg Ocean.spc"
+    type: betting
+  - id: game_over_kirby_s_dream_course
+    title: "Game Over"
+    path: "24 Game Over.spc"
+    type: result
+...

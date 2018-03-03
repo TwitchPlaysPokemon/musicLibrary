@@ -13,11 +13,10 @@ songs:
     path: "121 Battle 2.psf"
     title: "Battle 2"
     type: battle
-#      - id: ukulele_de_chocobo
-#        path: "209 Ukulele de Chocobo.psf"
-#        title: "Ukulele de Chocobo"
-#        type: result
-# unfitting result song
+  - id: ukulele_de_chocobo
+    path: "209 Ukulele de Chocobo.psf"
+    title: "Ukulele de Chocobo"
+    type: betting
   - id: assault_of_the_white_dragons
     path: "412 Assault of the White Dragons.psf"
     title: "Assault of the White Dragons"
@@ -58,4 +57,12 @@ songs:
     title: "Aloha de Chocobo"
     path: "Aloha de Chocobo.psf"
     type: break
+  - id: rustling_forest
+    title: "Rustling Forest"
+    path: "117 Awakening the Forest.psf"
+    type: betting
+  - id: esto_gaza_the_sacred_grounds
+    title: "Esto Gaza, the Sacred Grounds"
+    path: "324 Esto Gaza.psf"
+    type: betting
 ...

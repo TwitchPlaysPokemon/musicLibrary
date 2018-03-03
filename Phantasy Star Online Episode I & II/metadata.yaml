@@ -45,4 +45,12 @@ songs:
     title: "Revolution to the Origin (Part 2)"
     path: "SHIP_B.ADX"
     type: betting
+  - id: day_light
+    title: "Day Light"
+    path: "Event.adx"
+    type: betting
+  - id: day_dawns
+    title: "Day Dawns"
+    path: "LOBBY.adx"
+    type: break
 ...

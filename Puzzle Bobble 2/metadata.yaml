@@ -1,0 +1,13 @@
+---
+id: puzzle_bobble_2_arcade
+title: "Puzzle Bobble 2"
+series: puzzlebobble
+platform: "Various"
+#other platforms: Arcade, PS1, Saturn, PC, GB, N64
+year: 1995
+songs: 
+  - id: step_skip_go_go_bgm_1
+    title: "Step, Skip, Go Go! (BGM 1)"
+    path: "00 background 1.mp3"
+    type: betting
+...

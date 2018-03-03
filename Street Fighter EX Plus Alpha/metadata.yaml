@@ -1,0 +1,17 @@
+---
+id: street_fighter_ex_plus_alpha
+title: "Street Fighter EX plus α"
+platform: ["Arcade", "PS1"]
+year: 1996
+songs: 
+  - id: strange_sunset_guile_allen_stage
+    title: "Strange Sunset (Guile / Allen Stage)"
+    path: "SLUS-00548_01036401_0001.xa"
+    ends: 3:08
+    type: betting
+  - id: sakura_mankai_hokuto_kairi_stage
+    title: "Sakura Mankai (Hokuto / Kairi Stage)"
+    path: "SLUS-00548_01076401_0001.xa"
+    ends: 2:56
+    type: betting
+...

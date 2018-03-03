@@ -1,3 +1,4 @@
+---
 id: shin_megami_tensei_devil_summoner_soul_hackers
 title: "Shin Megami Tensei: Devil Summoner: Soul Hackers"
 series: shinmegamitensei
@@ -12,3 +13,8 @@ songs:
     title: "2D Field"
     path: "SMT_Soul_Hackers-2D_Field.brstm"
     type: break
+  - id: paradigm_bank
+    title: "Paradigm Bank"
+    path: "146 Paradigm Bank.ssf"
+    type: betting
+...

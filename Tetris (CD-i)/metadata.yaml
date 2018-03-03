@@ -1,0 +1,11 @@
+---
+id: tetris_cd_i
+title: "Tetris [CD-i]"
+platform: "CD-i"
+year: 1992
+songs: 
+  - id: level_0_tetris_cd_i
+    title: "Level 0"
+    path: "Level 0.brstm"
+    type: break
+...

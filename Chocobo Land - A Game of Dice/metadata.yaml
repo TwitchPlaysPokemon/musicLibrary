@@ -24,3 +24,11 @@ songs:
     title: "World Map"
     path: "World Map.minigsf"
     type: betting
+  - id: winning_chocobo
+    title: "Winning Chocobo"
+    path: "21 Winning Chocobo.minigsf"
+    type: result
+  - id: losing_chocobo
+    title: "Losing Chocobo"
+    path: "22 Losing Chocobo.minigsf"
+    type: result

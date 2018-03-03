@@ -1,0 +1,16 @@
+---
+id: gyruss_nes
+title: "Gyruss [NES]"
+platform: "Various"
+year: 1989
+songs: 
+  - id: stage_music_1
+    title: "Stage Music 1"
+    path: "Stage Music 1.brstm"
+    type: betting
+  - id: stage_music_2
+    title: "Stage Music 2"
+    path: "Stage Music 2.brstm"
+    ends: 2:00
+    type: betting
+...

@@ -1,5 +1,6 @@
 id: goemon_great_adventure
 title: "Goemon's Great Adventure"
+series: ganbaregoemon
 platform: "N64"
 year: 1998
 songs:
@@ -43,3 +44,7 @@ songs:
     title: "Sanshirou (All 3 Parts)"
     path: "966 Sanshirou (All 3 Parts).miniusf"
     type: battle
+  - id: frogs_and_frogs_again
+    title: "Frogs, and Frogs again"
+    path: "031 Frogs, and Frogs again.miniusf"
+    type: betting

@@ -1,0 +1,16 @@
+---
+id: cybersled
+title: "CyberSled"
+platform: ["Arcade", "PS1"]
+year: 1993
+songs: 
+  - id: night_command
+    title: "Night command"
+    path: "SLUS-00008_42.mp3"
+    type: betting
+  - id: be_warped_time
+    title: "Be warped time"
+    path: "SLUS-00008_43.mp3"
+    ends: 3:10
+    type: betting
+...

@@ -1,15 +1,28 @@
 ---
 id: einhander
-title: "Einhander"
+title: "Einhänder"
 platform: "PS1"
 year: 1997
 songs: 
-  - id: bloody_battle
-    title: "Bloody Battle"
+  - id: badlands_stage2_2_desert
+    title: "[BADLANDS] -Stage2 #2: Desert-"
+    path: "SCUS-94243_08 - Badlands (Stage2 #2 - Desert).xa"
+    type: betting
+  - id: impatience_stage6_1_stratosphere
+    title: "[IMPATIENCE] -Stage6 #1: Stratosphere-"
+    path: "SCUS-94243_16 - Impatience (Stage6 #1 - Stratosphere).xa"
+    ends: 2:42
+    type: betting
+  - id: bloody_battle_versus_large_enemy_type_2
+    title: "[BLOODY BATTLE] -Versus Large Enemy: Type 2-"
     path: "Bloody Battle.brstm"
-    type: warning
-  - id: thermosphere
-    title: "Thermosphere"
+    type: battle
+  - id: thermosphere_stage6_2_versus_schwarzgeist
+    title: "[THERMOSPHERE] -Stage6 #2: Versus Schwarzgeist-"
     path: "Thermosphere.brstm"
     type: battle
+  - id: earthlight_staff_roll
+    title: "[EARTHLIGHT] -Staff Roll-"
+    path: "SCUS-94243_27 - Earthlight (Staff Roll).xa"
+    type: break
 ...

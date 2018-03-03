@@ -20,6 +20,10 @@ songs:
     title: "G.D. [Mid Boss]"
     path: "23 G.D. [Mid Boss].vgz"
     type: battle
+  - id: dynamic_big_boss
+    title: "Dynamic [Big Boss]"
+    path: "24 Dynamic [Big Boss].vgz"
+    type: battle
   - id: groundlife_e_ver_maze_of_spirits
     title: "Groundlife (E-Ver.) [Maze of Spirits]"
     path: "26 Groundlife (E-Ver.) [Maze of Spirits].vgz"
@@ -32,4 +36,9 @@ songs:
     title: "Mis.T (Terpsichore night mix) [Village 2, Town 3]"
     path: "30 Mis.T (Terpsichore night mix) [Village 2, Town 3].vgz"
     type: break
+  - id: grounseed_shop_demo
+    title: "Grounseed Shop Demo"
+    path: "42 Grounseed Shop Demo.vgz"
+    ends: 3:30
+    type: betting
 ...

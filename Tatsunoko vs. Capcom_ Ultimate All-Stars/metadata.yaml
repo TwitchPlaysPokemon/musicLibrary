@@ -1,9 +1,9 @@
 ---
 id: tatsunoko_vs._capcom_ultimate_all-stars
 title: "Tatsunoko vs. Capcom: Ultimate All-Stars"
-series: tvc
-year: 2010
+series: vs.
 platform: "Wii"
+year: 2010
 songs:
   - id: yami_part_2
     title: "Yami Part 2"
@@ -16,5 +16,13 @@ songs:
   - id: character_select_tatsunoko
     title: "Character Select"
     path: "Character Select.brstm"
+    type: betting
+  - id: orbital_ring_systems_cargo_bay
+    title: "Orbital Ring Systems Cargo Bay"
+    path: "Orbital Ring Systems Cargo Bay.brstm"
+    type: betting
+  - id: galactor_base
+    title: "Galactor Base"
+    path: "Galactor Base.brstm"
     type: betting
 ...

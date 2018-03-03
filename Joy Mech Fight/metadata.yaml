@@ -1,3 +1,4 @@
+---
 id: joy_mech_fight
 title: "Joy Mech Fight"
 platform: "FC"
@@ -11,3 +12,12 @@ songs:
     title: "Main Menu"
     path: "Main Menu.brstm"
     type: warning
+  - id: ancient_village
+    title: "Ancient Village"
+    path: "Ancient Village.brstm"
+    type: betting
+  - id: robot_city
+    title: "Robot City"
+    path: "Robot City.brstm"
+    type: betting
+...

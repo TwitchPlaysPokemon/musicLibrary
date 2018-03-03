@@ -5,10 +5,14 @@ series: blazblue
 platform: ["Arcade", "360", "PS3"]
 #other platforms: "PC"
 year: 2009
-songs:
+songs: 
   - id: active_angel
     title: "Active Angel"
     path: "Active Angel.brstm"
+    type: betting
+  - id: alexandrite
+    title: "Alexandrite"
+    path: "Alexandrite.brstm"
     type: betting
   - id: condemnation_wings
     title: "Condemnation Wings"

@@ -1,0 +1,12 @@
+---
+id: puyo_puyo_sun_saturn
+title: "Puyo Puyo SUN (Saturn)"
+platform: "Various"
+#other platforms: Arcade, N64, PS1, PC, GB
+year: 1996
+songs: 
+  - id: normal_mode_puyo_puyo_sun_saturn
+    title: "NORMAL MODE"
+    path: "NORMALMO.AIF"
+    type: betting
+...

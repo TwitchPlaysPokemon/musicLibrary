@@ -92,6 +92,16 @@ songs:
     path: "223 Freeze!.miniusf"
     tags: [xmas]
     type: battle
+  - id: a_city_in_the_stars
+    title: "A City in the Stars"
+    path: "224 A City in the Stars.miniusf"
+    tags: [xmas]
+    type: break
+  - id: shooting_star_summit
+    title: "Shooting Star Summit"
+    path: "225 Shooting Star Summit.miniusf"
+    tags: [xmas]
+    type: break
   - id: king_of_the_koopas
     title: "King of the Koopas"
     path: "232 King of the Koopas.miniusf"
@@ -125,5 +135,25 @@ songs:
     title: "Crystal King"
     path: "979 Crystal King.miniusf"
     tags: [xmas]
+    type: warning
+  - id: attack_of_the_koopa_bros
+    title: "Attack of the Koopa Bros"
+    path: "121 Attack of the Koopa Bros.miniusf"
+    type: battle
+  - id: dry_dry_outpost
+    title: "Mysterious Dry Dry Outpost"
+    path: "125 Mysterious Dry Dry Outpost.miniusf"
+    type: betting
+  - id: gusty_gulch_adventure
+    title: "Gusty Gulch Adventure"
+    path: "131 Gusty Gulch Adventure.miniusf"
+    type: break
+  - id: main_menu_paper_mario
+    title: "Main Menu"
+    path: "901 Main Menu.miniusf"
+    type: result
+  - id: moustafa
+    title: "Moustafa"
+    path: "942 Moustafa.miniusf"
     type: warning
 ...

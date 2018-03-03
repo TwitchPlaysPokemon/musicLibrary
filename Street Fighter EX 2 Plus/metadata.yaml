@@ -4,13 +4,18 @@ title: "Street Fighter EX2 Plus"
 platform: ["Arcade", "PS1"]
 year: 1999
 songs:
-  - id: digital_ignition_str
-    title: "Digital Ignition"
+  - id: digital_ignition_space_shuttle_stage
+    title: "DIGITAL IGNITION ~Space Shuttle Stage"
     path: "Digital Ignition.brstm"
     type: betting
-  - id: white_field_sfex2
-    title: "White Field"
+  - id: white_field_snow_mountain_stage
+    title: "WHITE FIELD ~Snow Mountain Stage"
     path: "Street Fighter EX2 Plus - White Field.mp3"
     tags: [xmas]
+    type: betting
+  - id: green_shower_jungle_stage
+    title: "GREEN SHOWER ~Jungle Stage"
+    path: "Street Fighter EX2 Plus - Green Shower.mp3"
+    ends: 3:15
     type: betting
 ...

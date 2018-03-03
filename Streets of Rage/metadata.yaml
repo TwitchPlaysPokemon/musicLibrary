@@ -23,7 +23,7 @@ songs:
   - id: attack_the_barbarian
     title: "Attack the Barbarian"
     path: "12 - Attack the Barbarian.vgz"
-    type: warning
+    type: betting
   - id: dilapidated_town
     title: "Dilapidated Town"
     path: "04 - Dilapidated Town.vgz"
@@ -31,5 +31,13 @@ songs:
   - id: stealthy_steps
     title: "Stealthy Steps"
     path: "08 - Stealthy Steps.vgz"
+    type: betting
+  - id: moon_beach
+    title: "Moon Beach"
+    path: "05 - Moon Beach.vgz"
+    type: betting
+  - id: beatnik_on_the_ship
+    title: "Beatnik on the Ship"
+    path: "07 - Beatnik on the Ship.vgz"
     type: betting
 ...

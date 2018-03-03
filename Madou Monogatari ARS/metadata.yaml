@@ -9,4 +9,52 @@ songs:
     title: "Temporal Temple"
     path: "Temporal Temple.brstm"
     type: break
+  - id: cavernous_depths
+    title: "Cavernous Depths"
+    path: "Cavernous Depths.brstm"
+    type: betting
+  - id: fiend_empire
+    title: "Fiend Empire"
+    path: "Fiend Empire.brstm"
+    type: betting
+  - id: fun_time_at_the_shop
+    title: "Fun Time at the Shop~!"
+    path: "Fun Time at the Shop~!.brstm"
+    type: betting
+  - id: interloping_the_castle
+    title: "Interloping the Castle"
+    path: "Interloping the Castle.brstm"
+    type: betting
+  - id: my_heart_goes_out_to_you_satan_sama
+    title: "My Heart goes out to you, Satan-sama"
+    path: "My Heart goes out to you, Satan-sama.brstm"
+    type: betting
+  - id: oddity_of_shenanigans
+    title: "Oddity of Shenanigans"
+    path: "Oddity of Shenanigans.brstm"
+    type: betting
+  - id: reunited_with_family
+    title: "Reunited with Family"
+    path: "Reunited with Family.brstm"
+    type: result
+  - id: stories_of_summer_vacation
+    title: "Stories of Summer Vacation"
+    path: "Stories of Summer Vacation.brstm"
+    type: betting
+  - id: summer_strolling
+    title: "Summer Strolling"
+    path: "Summer Strolling.brstm"
+    type: break
+  - id: symphony_of_ars
+    title: "Symphony of ARS"
+    path: "Symphony of ARS.brstm"
+    type: result
+  - id: the_beginnings_of_the_dark_wizard_revised
+    title: "The Beginnings of the Dark Wizard ~Revised~"
+    path: "The Beginnings of the Dark Wizard ~Revised~.brstm"
+    type: break
+  - id: total_beatdown_of_the_count
+    title: "Total Beatdown of The Count"
+    path: "Total Beatdown of The Count.brstm"
+    type: betting
 ...

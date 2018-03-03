@@ -1,10 +1,15 @@
 ---
 id: gundam_wing_endless_duel
 title: "Gundam Wing: Endless Duel"
+series: gundam
 platform: "SFC"
 year: 1996
 songs: 
-  - id: arctic
+  - id: airport_gundam
+    title: "Airport"
+    path: "04 Airport.spc"
+    type: betting
+  - id: arctic_gundam
     title: "Arctic"
     path: "05 Arctic.spc"
     type: battle
@@ -12,4 +17,16 @@ songs:
     title: "City"
     path: "06 City.spc"
     type: battle
+  - id: port_gundam
+    title: "Port"
+    path: "08 Port.spc"
+    type: betting
+  - id: seaside_gundam
+    title: "Seaside"
+    path: "09 Seaside.spc"
+    type: betting
+  - id: space_ship_gundam
+    title: "Space Ship"
+    path: "10 Space Ship.spc"
+    type: betting
 ...

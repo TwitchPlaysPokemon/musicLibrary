@@ -1,0 +1,11 @@
+---
+id: fz_senki_axis
+title: "FZ Senki Axis [X68000]"
+platform: ["X68000", "SMD"]
+year: 1990
+songs: 
+  - id: danger_zone
+    title: "Danger Zone"
+    path: "Danger Zone.brstm"
+    type: betting
+...

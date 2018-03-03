@@ -1,8 +1,9 @@
 ---
 id: final_fantasy_xv
 title: "Final Fantasy XV"
-year: 2016
+series: finalfantasy
 platform: ["PS4", "XB1"]
+year: 2016
 songs:
   - id: daemons
     title: "Daemons"
@@ -31,5 +32,9 @@ songs:
   - id: urban_chrome
     title: "Urban Chrome"
     path: "Urban Chrome.brstm"
+    type: betting
+  - id: cartanica
+    title: "Cartanica"
+    path: "Cartanica.brstm"
     type: betting
 ...

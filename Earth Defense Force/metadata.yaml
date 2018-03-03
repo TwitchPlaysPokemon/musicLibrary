@@ -4,6 +4,10 @@ title: "Earth Defense Force"
 platform: ["Arcade", "SNES"]
 year: 1991
 songs: 
+  - id: first_encounter_stage_1
+    title: "First Encounter (Stage 1)"
+    path: "02 First Encounter (Stage 1).vgz"
+    type: betting
   - id: midnight_intercept_stage_2
     title: "Midnight Intercept (Stage 2)"
     path: "Midnight Intercept (Stage 2).vgz"

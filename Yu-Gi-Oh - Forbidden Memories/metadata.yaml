@@ -1,3 +1,4 @@
+---
 id: yu_gi_oh_forbidden_memories
 title: "Yu-Gi-Oh: Forbidden Memories"
 series: yugioh
@@ -16,3 +17,8 @@ songs:
     title: "3D Battle"
     path: "3D Battle.brstm"
     type: warning
+  - id: library_forbidden_memories
+    title: "Library"
+    path: "Library.brstm"
+    type: betting
+...

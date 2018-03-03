@@ -4,8 +4,12 @@ title: "Crisis Force"
 platform: "FC"
 year: 1991
 songs: 
-  - id: stage_2_land_and_sea
-    title: "Stage 2 - Land and Sea"
+  - id: stage_2_crisis_force
+    title: "STAGE 2"
     path: "Stage 2, 5.vgz"
+    type: betting
+  - id: stage_7_crisis_force
+    title: "STAGE 7"
+    path: "09 Stage 7.vgz"
     type: betting
 ...

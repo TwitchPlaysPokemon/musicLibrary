@@ -4,9 +4,17 @@ title: "Crusader of Centy"
 platform: "Genesis"
 year: 1994
 songs: 
+  - id: overworld_map
+    title: "Overworld Map"
+    path: "06 - Overworld Map.vgm"
+    type: betting
   - id: rafflesia_training_grounds
     title: "Rafflesia Training Grounds"
     path: "07 - Rafflesia Training Grounds.vgm"
+    type: betting
+  - id: anemone_beach
+    title: "Anemone Beach"
+    path: "11 - Anemone Beach.vgm"
     type: betting
   - id: root_temple
     title: "Root Temple"

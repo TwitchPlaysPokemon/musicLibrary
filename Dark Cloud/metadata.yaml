@@ -56,4 +56,20 @@ songs:
     title: "The Land of Hope"
     path: "36 Land of Hope.psf2"
     type: break
+  - id: divine_beast_cave
+    title: "Divine Beast Cave"
+    path: "08 Divine Beast Cave.psf2"
+    type: betting
+  - id: matataki_village
+    title: "Matataki Village"
+    path: "11 Matataki Village.psf2"
+    type: break
+  - id: mission_dc
+    title: "Mission!!"
+    path: "34 Mission!!.psf2"
+    type: betting
+  - id: gallery_of_time
+    title: "Gallery of Time"
+    path: "40 Gallery of Time.psf2"
+    type: betting
 ...
