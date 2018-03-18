@@ -463,4 +463,36 @@ songs:
     title: "Pokéstar Studios: Shock"
     path: "214 SEQ_BGM_PW_SCENARIO_08_F (04c3).mini2sf"
     type: warning
+  - id: cheren_s_theme
+    title: "Cheren's Theme"
+    path: "082 SEQ_BGM_E_CHEREN (043f).mini2sf"
+    type: warning
+  - id: trainers_eyes_meet_beauty
+    title: "Trainers' Eyes Meet (Beauty)"
+    path: "238 SEQ_BGM_EYE_DANCER (04db).mini2sf"
+    type: warning
+  - id: trainers_eyes_meet_harlequin
+    title: "Trainers' Eyes Meet (Harlequin)"
+    path: "239 SEQ_BGM_EYE_CLOWN (04dc).mini2sf"
+    type: warning
+  - id: n_s_castle
+    title: "N's Castle"
+    path: "N's Castle.brstm"
+    type: betting
+  - id: musical_pokemon_party
+    title: "Musical: Pokémon Party!"
+    path: "Musical Pokémon Party!.brstm"
+    type: result
+  - id: musical_carnival_ludicolo
+    title: "Musical: Carnival Ludicolo"
+    path: "Musical Carnival Ludicolo.brstm"
+    type: result
+  - id: musical_carnival_pokemon
+    title: "Musical: Carnival Pokémon"
+    path: "Musical Carnival Pokémon.brstm"
+    type: result
+  - id: musical_meloettaaa
+    title: "Musical: Meloettaaa!!!"
+    path: "Musical Meloettaaa!!!.brstm"
+    type: result
 ...

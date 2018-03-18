@@ -1,0 +1,48 @@
+---
+id: tmnt_gba_2003
+title: "Teenage Mutant Ninja Turtles"
+series: teenage_mutant_ninja_turtles
+platform: "GBA"
+year: 2003
+songs:
+  - id: raphael_v_s_casey_jones_tmnt_gba_2003
+    title: "Raphael V.s. Casey Jones"
+    path: "Casey Jones.brstm"
+    type: battle
+  - id: donatello_s_flight_tmnt_gba_2003
+    title: "Donatello's Flight"
+    path: "Flight.mp3"
+    type: warning
+  - id: hangin_out_tmnt_gba_2003
+    title: "Hangin' Out"
+    path: "Hangout.mp3"
+    type: betting
+  - id: main_menu_tmnt_gba_2003
+    title: "Main Menu"
+    path: "Main Menu.mp3"
+    type: warning
+  - id: raphael_casey_purple_dragons_tmnt_gba_2003
+    title: "Raphael & Casey V.s. Purple Dragons"
+    path: "Purple Drags.brstm"
+    type: battle
+  - id: sewer_sweet_sewer_tmnt_gba_2003
+    title: "Sewer, Sweet Sewer"
+    path: "Sewer Sweet Sewer.brstm"
+    type: battle
+  - id: turtles_v_s_shredder_tmnt_gba_2003
+    title: "Turtles V.s. Shredder"
+    path: "Shredder.mp3"
+    type: warning
+  - id: raphael_act_1_tmnt_gba_2003
+    title: "Raphael Act 1"
+    path: "Streets.brstm"
+    type: battle
+  - id: tension_tmnt_gba_2003
+    title: "Tension!"
+    path: "Tension.mp3"
+    type: warning
+  - id: upbeat_mood_tmnt_gba_2003
+    title: "Upbeat Mood"
+    path: "Upbeat.mp3"
+    type: result
+...

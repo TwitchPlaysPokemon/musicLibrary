@@ -1,0 +1,20 @@
+---
+id: power_rangers_lightspeed_rescue_gbc
+title: "Power Rangers Lightspeed Rescue (GBC)"
+series: power_rangers
+platform: "Various"
+year: 2000
+songs:
+  - id: battle_mission_power_rangers_lightspeed_rescue_gbc
+    title: "Battle Mission"
+    path: "Battle.brstm"
+    type: battle
+  - id: megazord_fight_power_rangers_lightspeed_rescue_gbc
+    title: "Megazord Fight"
+    path: "Megazord.brstm"
+    type: battle
+  - id: mission_cleared_power_rangers_lightspeed_rescue_gbc
+    title: "Mission Cleared!"
+    path: "Mission Cleared.brstm"
+    type: result
+...
