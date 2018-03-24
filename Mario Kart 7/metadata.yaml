@@ -42,4 +42,8 @@ songs:
     path: "STRM_BN_ICE_RINK_F.bcstm"
     tags: [xmas]
     type: warning
+  - id: rock_rock_mountain
+    title: "Rock Rock Mountain"
+    path: "STRM_CN_RALLY_COURCE_N.bcstm"
+    type: betting
 ...

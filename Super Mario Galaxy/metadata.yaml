@@ -1,5 +1,5 @@
 ---
-id: super_mario_galaxy
+id: super_mario_galaxy_1
 title: "Super Mario Galaxy"
 series: mario
 platform: "Wii"
@@ -20,6 +20,10 @@ songs:
   - id: deep_dark_galaxy
     title: "Deep Dark Galaxy"
     path: "SMG_galaxy05_strm.ast"
+    type: betting
+  - id: dusty_dune_galaxy
+    title: "Dusty Dune Galaxy"
+    path: "SMG_galaxy19_strm.ast"
     type: betting
   - id: egg_planet
     title: "Egg Planet"
@@ -49,6 +53,10 @@ songs:
   - id: super_mario_2007
     title: "Super Mario 2007"
     path: "SMG_galaxy22_strm.ast"
+    type: betting
+  - id: super_mario_galaxy
+    title: "Super Mario Galaxy"
+    path: "SMG_staffroll_strm.ast"
     type: betting
   - id: the_fiery_stronghold
     title: "The Fiery Stronghold"
@@ -83,6 +91,14 @@ songs:
     title: "Speedy Comet"
     path: "SMG_galaxy02_hurry_strm.ast"
     type: warning
+  - id: star_ball
+    title: "Star Ball"
+    path: "Star Ball.brstm"
+    type: warning
+  - id: star_ball_2
+    title: "Star Ball 2"
+    path: "Star Ball.brstm"
+    type: warning
   - id: the_galaxy_reactor
     title: "The Galaxy Reactor"
     path: "SMG_galaxy28_strm.ast"
@@ -90,6 +106,10 @@ songs:
   - id: bowser_jr_smg
     title: "Enter Bowser Jr.!"
     path: "SMG_boss06a_strm.ast"
+    type: battle
+  - id: dino_piranha
+    title: "Dino Piranha"
+    path: "SMG_boss03a_strm.ast"
     type: battle
   - id: final_battle_with_bowser
     title: "Final Battle with Bowser"
@@ -103,6 +123,18 @@ songs:
     title: "Megaleg"
     path: "SMG_boss02a_strm.ast"
     type: battle
+  - id: flying_mario
+    title: "Flying Mario"
+    path: "Flying Mario.brstm"
+    type: result
+  - id: the_toad_brigade
+    title: "The Toad Brigade"
+    path: "SMG_ev_kinotan_strm.ast"
+    type: result
+  - id: drip_drop_galaxy
+    title: "Drip Drop Galaxy"
+    path: "SMG_galaxy23_strm.ast"
+    type: break
   - id: ice_mountain
     title: "Ice Mountain"
     path: "SMG_galaxy16_multi1.ast"

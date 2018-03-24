@@ -5,6 +5,10 @@ series: mario
 platform: "N64"
 year: 2000
 songs:
+  - id: main_title_paper_mario
+    title: "Main Title"
+    path: "102 Main Title.miniusf"
+    type: betting
   - id: goomba_village
     title: "Goomba Village"
     path: "106 Goomba Village.miniusf"
@@ -17,9 +21,17 @@ songs:
     title: "Koopa Village"
     path: "116 Koopa Village.miniusf"
     type: break
+  - id: attack_of_the_koopa_bros
+    title: "Attack of the Koopa Bros"
+    path: "121 Attack of the Koopa Bros.miniusf"
+    type: battle
   - id: mt_rugged
     title: "Mt Rugged"
     path: "123 Mt Rugged.miniusf"
+    type: betting
+  - id: dry_dry_outpost
+    title: "Mysterious Dry Dry Outpost"
+    path: "125 Mysterious Dry Dry Outpost.miniusf"
     type: betting
   - id: chomp_attack
     title: "Chomp Attack"
@@ -28,6 +40,10 @@ songs:
   - id: approach_to_the_mansion
     title: "Approach to the Mansion"
     path: "129 Approach to the Mansion.miniusf"
+    type: break
+  - id: gusty_gulch_adventure
+    title: "Gusty Gulch Adventure"
+    path: "131 Gusty Gulch Adventure.miniusf"
     type: break
   - id: the_castle_crumbles
     title: "The Castle Crumbles"
@@ -136,24 +152,24 @@ songs:
     path: "979 Crystal King.miniusf"
     tags: [xmas]
     type: warning
-  - id: attack_of_the_koopa_bros
-    title: "Attack of the Koopa Bros"
-    path: "121 Attack of the Koopa Bros.miniusf"
-    type: battle
-  - id: dry_dry_outpost
-    title: "Mysterious Dry Dry Outpost"
-    path: "125 Mysterious Dry Dry Outpost.miniusf"
-    type: betting
-  - id: gusty_gulch_adventure
-    title: "Gusty Gulch Adventure"
-    path: "131 Gusty Gulch Adventure.miniusf"
-    type: break
   - id: main_menu_paper_mario
     title: "Main Menu"
     path: "901 Main Menu.miniusf"
     type: result
+  - id: mini_game_paper_mario
+    title: "Mini Game"
+    path: "933 Mini Game.miniusf"
+    type: warning
   - id: moustafa
     title: "Moustafa"
     path: "942 Moustafa.miniusf"
     type: warning
+  - id: petunia_under_attack
+    title: "Petunia Under Attack!"
+    path: "963 Petunia Under Attack!.miniusf"
+    type: warning
+  - id: cloudy_climb
+    title: "Cloudy Climb"
+    path: "973 Cloudy Climb.miniusf"
+    type: break
 ...

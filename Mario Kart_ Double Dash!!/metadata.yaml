@@ -2,53 +2,61 @@
 id: mario_kart_double_dash
 title: "Mario Kart: Double Dash!!"
 series: mario
-platform: "GC"
+platform: "GCN"
 year: 2003
 songs: 
-  - id: menu_mario_kart_double_dash
+  - id: menu_mkdd
     title: "Menu"
     path: "Menu.brstm"
     type: break
-  - id: unlock_feature_double_dash
-    title: "Unlock Feature"
+  - id: reward_mkdd
+    title: "Reward"
     path: "Unlock Feature.brstm"
     type: result
   - id: luigi_mario_yoshi_circuit
-    title: "Luigi Circuit, Mario Circuit & Yoshi Circuit"
+    title: "Luigi Circuit, Mario Circuit, Yoshi Circuit"
     path: "Luigi Circuit, Mario Circuit & Yoshi Circuit.brstm"
     type: betting
-  - id: baby_park_double_dash
+  - id: baby_park_mkdd
     title: "Baby Park"
     path: "Baby Park.brstm"
     type: warning
   - id: mushroom_bridge_mushroom_city
-    title: "Mushroom Bridge & Mushroom City"
+    title: "Mushroom Bridge, Mushroom City"
     path: "Mushroom Bridge & Mushroom City.brstm"
     type: betting
   - id: waluigi_stadium_wario_colosseum
-    title: "Waluigi Stadium & Wario Colosseum"
+    title: "Waluigi Stadium, Wario Colosseum"
     path: "Waluigi Stadium & Wario Colosseum.brstm"
     type: betting
-  - id: 1st_place_goal_results
-    title: "1st Place Goal + Results"
+  - id: goal_1st_mkdd
+    title: "Goal 1st"
     path: "1st Place Goal + Results.brstm"
     type: result
-  - id: title_double_dash
-    title: "Title"
+  - id: main_theme_mkdd
+    title: "Main Theme"
     path: "Title.brstm"
     type: result
-  - id: rainbow_road
+  - id: rainbow_road_mkdd
     title: "Rainbow Road"
     path: "Rainbow Road.brstm"
     type: betting
-  - id: sherbet_land
+  - id: sherbet_land_mkdd
     title: "Sherbet Land"
     path: "Sherbet Land.brstm"
     tags: [xmas]
     type: betting
-  - id: sherbet_land_final_lap
+  - id: sherbet_land_final_lap_mkdd
     title: "Sherbet Land (Final Lap)"
     path: "Sherbet Land (Final Lap).brstm"
     tags: [xmas]
     type: warning
+  - id: bowser_s_castle_mkdd
+    title: "Bowser's Castle"
+    path: "COURSE_CASTLE_0.x.32.c4.ast"
+    type: betting
+  - id: no_trophy_for_you
+    title: "No Trophy For You"
+    path: "COMMENDATION2_0.x.32.c4.ast"
+    type: result
 ...

@@ -64,6 +64,10 @@ songs:
     title: "Metal Crusher"
     path: "Metal Crusher.brstm"
     type: warning
+  - id: oh_dungeon
+    title: "Oh! Dungeon"
+    path: "Oh! Dungeon.brstm"
+    type: warning
   - id: stronger_monsters
     title: "Stronger Monsters"
     path: "Stronger Monsters.brstm"
@@ -124,9 +128,17 @@ songs:
     title: "Premonition"
     path: "Premonition.brstm"
     type: break
+  - id: reunited_undertale
+    title: "Reunited"
+    path: "Reunited.brstm"
+    type: break
   - id: sans
     title: "sans."
     path: "sans..brstm"
+    type: break
+  - id: shop_undertale
+    title: "Shop"
+    path: "Shop.brstm"
     type: break
   - id: uwa_so_holiday
     title: "Uwa!! So Holiday♫"

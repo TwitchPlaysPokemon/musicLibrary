@@ -6,9 +6,21 @@ platform: "N64"
 year: 1996
 songs: 
   - id: frappe_snowland
-    title: "Frappe Snowland, Sherbet Land"
+    title: "Frappe Snowland/Sherbet Land"
     path: "Frappe Snowland, Sherbet Land.miniusf"
     tags: [xmas]
+    type: betting
+  - id: 3_raceways_wario_stadium
+    title: "3 Raceways/Wario Stadium"
+    path: 03a 3 Raceways, Wario Stadium.miniusf"
+    type: betting
+  - id: moo_moo_farm_yoshi_valley
+    title: "Moo Moo Farm/Yoshi Valley"
+    path: 04a Moo Moo Farm, Yoshi Valley.miniusf"
+    type: betting
+  - id: choco_mountain_battle_arenas
+    title: "Choco Mountain/Battle Arenas"
+    path: 05a Choco Mountain, Battle Arenas.miniusf"
     type: betting
   - id: banshee_boardwalk
     title: "Banshee Boardwalk"

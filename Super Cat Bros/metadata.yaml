@@ -1,0 +1,75 @@
+﻿---
+id: super_cat_bros
+title: "Super Cat Bros."
+platform: "Mobile"
+year: 2016
+songs:
+  - id: cedar_woods_part_1
+    title: "Cedar Woods - Part 1"
+    path: "Cedar Woods - Part 1.brstm"
+    type: betting
+  - id: cedar_woods_part_2
+    title: "Cedar Woods - Part 2"
+    path: "Cedar Woods - Part 2.brstm"
+    type: betting
+  - id: sandy_shore_part_1
+    title: "Sandy Shore - Part 1"
+    path: "Sandy Shore - Part 1.brstm"
+    type: betting
+  - id: nugget_canyon_part_1
+    title: "Nugget Canyon - Part 1"
+    path: "Nugget Canyon - Part 1.brstm"
+    type: betting
+  - id: snowy_plains_part_1
+    title: "Snowy Plains - Part 1"
+    path: "Snowy Plains - Part 1.brstm"
+    type: betting
+  - id: lava_ruins_part_1
+    title: "Lava Ruins - Part 1"
+    path: "Lava Ruins - Part 1.brstm"
+    type: betting
+  - id: temple_jungle_part_1
+    title: "Temple Jungle - Part 1"
+    path: "Temple Jungle - Part 1.brstm"
+    type: betting
+  - id: splash_screen_scb
+    title: "Splash Screen"
+    path: "Splash Screen.brstm"
+    type: result
+  - id: golden_cat
+    title: "Golden Cat"
+    path: "Golden Cat.brstm"
+    type: result
+  - id: nugget_canyon_part_2
+    title: "Nugget Canyon - Part 2"
+    path: "Nugget Canyon - Part 2.brstm"
+    type: warning
+  - id: lava_ruins_part_2
+    title: "Lava Ruins - Part 2"
+    path: "Lava Ruins - Part 2.brstm"
+    type: warning
+  - id: temple_jungle_part_2
+    title: "Temple Jungle - Part 2"
+    path: "Temple Jungle - Part 2.brstm"
+    type: warning
+  - id: boss_battle_scb
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: overworld_map_scb
+    title: "Overworld Map"
+    path: "Overworld Map.brstm"
+    type: break
+  - id: sandy_shore_part_2
+    title: "Sandy Shore - Part 2"
+    path: "Sandy Shore - Part 2.brstm"
+    type: break
+  - id: snowy_plains_part_2
+    title: "Snowy Plains - Part 2"
+    path: "Snowy Plains - Part 2.brstm"
+    type: break
+  - id: shop_scb
+    title: "Shop"
+    path: "Shop.brstm"
+    type: break
+...
