@@ -109,8 +109,8 @@ songs:
   - id: each_to_his_own_world_return_to_dream_land
     title: "Each To His Own World"
     path: "ending_all.brstm"
+    ends: 2:41
     type: betting
-    time: 2:41
   - id: exciting_boss_battle_return_to_dream_land
     title: "Exciting! Boss Battle"
     path: "b_dedede01.brstm"
@@ -126,8 +126,8 @@ songs:
   - id: let_me_explain_everything_return_to_dream_land
     title: "Let Me Explan Everything"
     path: "mahoroayabou4.brstm"
+    ends: 2:14
     type: betting
-    time: 2:14
   - id: lor_starcutter_return_to_dream_land
     title: "Lor Starcutter"
     path: "st_comic02.brstm"
