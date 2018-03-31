@@ -5,61 +5,69 @@ series: zelda
 platform: "N64"
 year: 1998
 songs: 
+  - id: house_oot
+    title: "House"
+    path: "05 House.miniusf"
+    type: break
+  - id: kokiri_forest_oot
+    title: "Kokiri Forest"
+    path: "06 Kokiri Forest.miniusf"
+    type: betting
+  - id: shop_oot
+    title: "Shop"
+    path: "10 Shop.miniusf"
+    type: break
   - id: battle_oot
     title: "Battle"
     path: "11 Battle.miniusf"
-    type: warning
-  - id: gerudo_valley
-    title: "Gerudo Valley"
-    path: "68 Gerudo Valley.miniusf"
-    type: break
-  - id: last_battle_oot
-    title: "Last Battle"
-    path: "79 Last Battle.miniusf"
     type: warning
   - id: inside_the_deku_tree
     title: "Inside the Deku Tree"
     path: "12 Inside the Deku Tree.miniusf"
     type: break
-  - id: kakariko_village_oot
-    title: "Kakariko Village"
-    path: "30 Kakariko Village.miniusf"
-    type: break
-  - id: zora_s_domain_oot
-    title: "Zora's Domain"
-    path: "39 Zora's Domain.miniusf"
-    type: break
-  - id: house_oot
-    title: "House"
-    path: "05 House.miniusf"
-    type: break
   - id: boss_battle_oot
     title: "Boss Battle"
     path: "13 Boss Battle.miniusf"
     type: warning
+  - id: market_oot
+    title: "Market"
+    path: "21 Market.miniusf"
+    type: break
+  - id: lon_lon_ranch_oot
+    title: "Lon Lon Ranch"
+    path: "28 Lon Lon Ranch.miniusf"
+    type: break
+  - id: kakariko_village_oot
+    title: "Kakariko Village"
+    path: "30 Kakariko Village.miniusf"
+    type: break
+  - id: lost_woods_oot
+    title: "Lost Woods"
+    path: "35 Lost Woods.miniusf"
+    type: betting
+  - id: dinosaur_boss_battle_oot
+    title: "Dinosaur Boss Battle"
+    path: "38 Dinosaur Boss Battle.miniusf"
+    type: warning
+  - id: zora_s_domain_oot
+    title: "Zora's Domain"
+    path: "39 Zora's Domain.miniusf"
+    type: break
   - id: great_fairy_fountain_oot
     title: "Great Fairy's Fountain"
     path: "40 Great Fairy's Fountain.miniusf"
+    type: break
+  - id: temple_of_time_oot
+    title: "Temple of Time"
+    path: "44 Temple of Time.miniusf"
     type: break
   - id: horse_race_oot
     title: "Horse Race"
     path: "51 Horse Race.miniusf"
     type: warning
-  - id: kokiri_forest_oot
-    title: "Kokiri Forest"
-    path: "06 Kokiri Forest.miniusf"
-    type: betting
-  - id: lost_woods_oot
-    title: "Lost Woods"
-    path: "35 Lost Woods.miniusf"
-    type: betting
-  - id: market_oot
-    title: "Market"
-    path: "21 Market.miniusf"
-    type: break
-  - id: shop_oot
-    title: "Shop"
-    path: "10 Shop.miniusf"
+  - id: kakariko_village_orchestra_version_oot
+    title: "Kakariko Village Orchestra Version"
+    path: "55 Kakariko Village Orchestral Version.miniusf"
     type: break
   - id: windmill_hut_oot
     title: "Windmill Hut"
@@ -69,6 +77,10 @@ songs:
     title: "Forest Temple"
     path: "59 Forest Temple.miniusf"
     type: break
+  - id: fire_temple_oot
+    title: "Fire Temple"
+    path: "61 Fire Temple.miniusf"
+    type: betting
   - id: ice_cavern_oot
     title: "Ice Cavern"
     path: "62 Ice Cavern.miniusf"
@@ -78,4 +90,16 @@ songs:
     title: "Water Temple"
     path: "64 Water Temple.miniusf"
     type: break
+  - id: gerudo_valley
+    title: "Gerudo Valley"
+    path: "68 Gerudo Valley.miniusf"
+    type: break
+  - id: kotake_koume_s_theme
+    title: "Kotake & Koume's Theme"
+    path: "71 Kotake & Koume's Theme.miniusf"
+    type: warning
+  - id: last_battle_oot
+    title: "Last Battle"
+    path: "79 Last Battle.miniusf"
+    type: warning
 ...

@@ -5,72 +5,64 @@ series: zelda
 platform: "SNES"
 year: 1991
 songs: 
-  - id: seal_of_seven_maidens
-    title: "Seal of Seven Maidens"
+  - id: opening_demo
+    title: "Opening Demo"
     path: "03 Seal of Seven Maidens.spc"
     type: betting
-  - id: lost_ancient_ruins
-    title: "Lost Ancient Ruins"
-    path: "14 Lost Ancient Ruins.spc"
-    type: betting
-  - id: priest_of_the_dark_order
-    title: "Priest of the Dark Order"
-    path: "20 Priest of the Dark Order.spc"
-    type: warning
-  - id: dark_golden_land
-    title: "Dark Golden Land"
-    path: "21 Dark Golden Land.spc"
-    type: betting
-  - id: black_mist
-    title: "Black Mist"
-    path: "22a Black Mist.spc"
-    type: betting
-  - id: dungeon_of_shadows
-    title: "Dungeon of Shadows"
-    path: "23 Dungeon of Shadows.spc"
-    type: betting
-  - id: beautiful_hyrule
-    title: "Beautiful Hyrule"
-    path: "30 Epilogue - Beautiful Hyrule.spc"
-    type: result
-  - id: agahnim
-    title: "Agahnim"
-    path: "Agahnim.brstm"
-    type: warning
-  - id: boss_alttp
-    title: "Boss"
-    path: "Boss.brstm"
-    type: warning
   - id: hyrule_castle_alttp
     title: "Hyrule Castle"
-    path: "Hyrule Castle.brstm"
-    type: betting
-  - id: light_world_overworld_alttp
-    title: "Light World Overworld"
-    path: "Light World Overworld.brstm"
-    type: betting
-  - id: dark_world_overworld_alttp
-    title: "Dark World Overworld"
-    path: "Dark World Overworld.brstm"
+    path: "05a Majestic Castle.spc"
     type: betting
   - id: princess_zeldas_rescue_alttp
     title: "Princess Zelda's Rescue"
-    path: "Princess Zelda's Rescue.brstm"
+    path: "06 Princess Zelda's Rescue.spc"
     type: result
-  - id: dark_world_dungeon_alttp
-    title: "Dark World Dungeon"
-    path: "Dark World Dungeon.brstm"
-    type: warning
-  - id: ganon_battle_alttp
-    title: "Ganon Battle"
-    path: "Ganon Battle.brstm"
-    type: warning
-  - id: ganons_message_alttp
-    title: "Ganon's Message"
-    path: "Ganon's Message.brstm"
-    type: warning
+  - id: overworld_alttp
+    title: "Overworld"
+    path: "08 Hyrule Field Main Theme.spc"
+    type: betting
   - id: kakariko_village_alttp
     title: "Kakariko Village"
-    path: "Kakariko Village.brstm"
+    path: "09 Kakariko Village.spc"
     type: break
+  - id: cave_alttp
+    title: "Cave"
+    path: "13 Dank Dungeons.spc"
+    type: warning
+  - id: sanctuary_dungeon
+    title: "Sanctuary Dungeon"
+    path: "14 Lost Ancient Ruins.spc"
+    type: betting
+  - id: boss_bgm_alttp
+    title: "Boss ~BGM~"
+    path: "15 Anger of the Guardians.spc"
+    type: warning
+  - id: priest
+    title: "Priest"
+    path: "20 Priest of the Dark Order.spc"
+    type: warning
+  - id: dark_world_alttp
+    title: "Dark World"
+    path: "21 Dark Golden Land.spc"
+    type: betting
+  - id: dark_mountain_forest
+    title: "Dark Mountain Forest"
+    path: "22a Black Mist.spc"
+    type: betting
+  - id: dark_world_dungeon
+    title: "Dark World Dungeon"
+    path: "23 Dungeon of Shadows.spc"
+    type: betting
+  - id: ganons_message_alttp
+    title: "Ganon's Message"
+    path: "27 Ganon's Message.spc"
+    type: warning
+  - id: battle_with_ganon_alttp
+    title: "Battle With Ganon"
+    path: "28 The Prince of Darkness.spc"
+    type: warning
+  - id: ending_alttp
+    title: "Ending"
+    path: "30 Epilogue - Beautiful Hyrule.spc"
+    type: result
 ...

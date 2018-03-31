@@ -89,4 +89,20 @@ songs:
     title: "Quirky Questions"
     path: "question_1127.dspadpcm.bcstm"
     type: break
+  - id: food_mart
+    title: "Food Mart"
+    path: "Clone_food_shop07.dspadpcm.bcstm"
+    type: result
+  - id: mii_homes_love
+    title: "Mii Homes - Love"
+    path: "house_love1226.dspadpcm.bcstm"
+    type: break
+  - id: mii_homes_sleep
+    title: "Mii Homes - Sleep"
+    path: "house_sleep1226.dspadpcm.bcstm"
+    type: break
+  - id: office_tomodachi_life
+    title: "Office"
+    path: "Office.brstm"
+    type: betting
 ...

@@ -5,6 +5,18 @@ series: supermonkeyball
 platform: "GCN"
 year: 2002
 songs: 
+  - id: monkey_baseball_banana_stadium
+    title: "Monkey Baseball - Banana Stadium"
+    path: "Monkey Baseball - Banana Stadium.brstm"
+    type: betting
+  - id: monkey_billiards_2
+    title: "Monkey Billiards 2"
+    path: "bili_L.dsp"
+    type: betting
+  - id: monkey_golf_2
+    title: "Monkey Golf 2"
+    path: "golf_L.dsp"
+    type: betting
   - id: monkey_race_2_advanced_stage
     title: "Monkey Race 2 - Advanced Stage"
     path: "race_advan_L.dsp"
@@ -77,9 +89,17 @@ songs:
     title: "World 8 - Clock Tower"
     path: "clocktower_L.dsp"
     type: battle
-  - id: award_ceremony_monkeyball
+  - id: award_ceremony_monkeyball2
     title: "Award Ceremony"
     path: "hyosho_L.dsp"
+    type: result
+  - id: continue_monkeyball2
+    title: "Continue"
+    path: "continue_L.dsp"
+    type: result
+  - id: menu_monkey_boat
+    title: "Menu - Monkey Boat"
+    path: "sel_boat_L.dsp"
     type: result
   - id: world_5_amusement_park
     title: "World 5 - Amusement Park"

@@ -5,28 +5,10 @@ series: xeno
 platform: "Switch"
 year: 2017
 songs: 
-  - id: gormott
-    title: "Gormott"
-    path: "Gormott.brstm"
-    ends: 2:15
-    type: betting
-  - id: mor_ardain_roaming_the_wastes
-    title: "Mor Ardain - Roaming the Wastes -"
-    path: "Mor Ardain - Roaming the Wastes -.brstm"
-    ends: 2:52
-    type: betting
-  - id: battle_xc2
-    title: "Battle!!"
-    path: "Battle!!.brstm"
-    type: battle
   - id: incoming_xc2
     title: "Incoming!"
     path: "Incoming!.brstm"
     type: battle
-  - id: the_ancient_vessel
-    title: "The Ancient Vessel"
-    path: "The Ancient Vessel.brstm"
-    type: break
   - id: where_we_used_to_be
     title: "Where We Used To Be"
     path: "005 - Where We Used To Be.nop"
@@ -34,6 +16,36 @@ songs:
   - id: desolation
     title: "Desolation"
     path: "026 - Desolation.nop"
+    type: break
+  - id: gormott
+    title: "Gormott"
+    path: "043 - Gormott.nop"
+    ends: 2:15
+    type: betting
+  - id: mor_ardain_roaming_the_wastes
+    title: "Mor Ardain - Roaming the Wastes -"
+    path: "047 - Mor Ardain - Roaming the Wastes -.nop"
+    ends: 2:52
+    type: betting
+  - id: battle_xc2
+    title: "Battle!!"
+    path: "077 - Battle!!.nop"
+    type: battle
+  - id: leftherian_archipelago_night
+    title: "Leftherian Archipelago - Night"
+    path: "052 - Leftherian Archipelago - Night.nop"
+    type: break
+  - id: tantal_night
+    title: "Tantal - Night"
+    path: "054 - Tantal - Night.nop"
+    type: betting
+  - id: yggdrasil
+    title: "Yggdrasil"
+    path: "055 - Yggdrasil.nop"
+    type: betting
+  - id: alba_cavanich_night
+    title: "Alba Cavanich - Night"
+    path: "069 - Alba Cavanich - Night.nop"
     type: break
   - id: spirit_crucible_elpys
     title: "Spirit Crucible Elpys"
@@ -63,6 +75,10 @@ songs:
     title: "Death Match With Torna"
     path: "085 - Death Match With Torna.nop"
     type: battle
+  - id: the_ancient_vessel
+    title: "The Ancient Vessel"
+    path: "093 - The Ancient Vessel.nop"
+    type: break
   - id: gormotti_forest
     title: "Gormotti Forest"
     path: "095 - Gormotti Forest.nop"

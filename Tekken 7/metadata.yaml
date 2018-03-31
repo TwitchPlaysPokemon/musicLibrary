@@ -1,0 +1,20 @@
+---
+id: tekken_7
+title: "Tekken 7"
+platform: "Various"
+#other platforms: Arcade, PS4, Xbox One, PC,
+year: 2015
+songs: 
+  - id: volcano_1st
+    title: "Volcano 1st"
+    path: "132349274.wem"
+    type: betting
+  - id: volcano_2nd
+    title: "Volcano 2nd"
+    path: "73579780.wem"
+    type: battle
+  - id: kazumi_s_theme
+    title: "KAZUMI's Theme"
+    path: "502908192.wem"
+    type: warning
+...

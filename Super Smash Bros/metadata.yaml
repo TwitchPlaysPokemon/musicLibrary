@@ -1,7 +1,7 @@
 ---
 id: super_smash_bros
-platform: "N64"
 title: "Super Smash Bros."
+platform: "N64"
 series: smash
 year: 1999
 songs:
@@ -41,4 +41,28 @@ songs:
     title: "Starman"
     path: "Starman.brstm"
     type: warning
+  - id: kongo_jungle_ssb64
+    title: "Kongo Jungle"
+    path: "07 Congo Jungle.miniusf"
+    type: betting
+  - id: menu_ssb64
+    title: "Menu"
+    path: "04 Main Menu.miniusf"
+    type: betting
+  - id: peach_s_castle_ssb64
+    title: "Peach's Castle"
+    path: "06 Peach's Castle.miniusf"
+    type: betting
+  - id: planet_zebes_ssb64
+    title: "Planet Zebes"
+    path: "09 Planet Zebes.miniusf"
+    type: betting
+  - id: training_ssb64
+    title: "Training"
+    path: "29 Practice.miniusf"
+    type: betting
+  - id: pokemon_theme_ssb64
+    title: "Pokémon Theme"
+    path: "13 Saffron City.miniusf"
+    type: betting
 ...

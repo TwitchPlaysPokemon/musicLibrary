@@ -4,12 +4,20 @@ title: "Wii Party"
 platform: "Wii"
 year: 2010
 songs:
-  - id: final_challenge_wii_party
-    title: "Final Challenge"
-    path: "Final Challenge.brstm"
-    type: warning
+  - id: board_game_island
+    title: "Board Game Island"
+    path: "Board Game Island.brstm"
+    type: betting
   - id: main_menu_wii_party
     title: "Main Menu"
     path: "Main Menu.brstm"
     type: betting
+  - id: final_challenge_wii_party
+    title: "Final Challenge"
+    path: "Final Challenge.brstm"
+    type: warning
+  - id: mini_game_rules_wii_party
+    title: "Mini Game Rules"
+    path: "Mini Game Rules.brstm"
+    type: result
 ...
