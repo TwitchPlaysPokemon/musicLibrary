@@ -138,4 +138,12 @@ songs:
     path: "MP7_Str_00080.pdt"
     type: warning
     tags: [xmas]
+  - id: take_me_to_partytown
+    title: "Take Me to Partytown"
+    path: "MP7_Str_00032.pdt"
+    type: result
+  - id: the_motherlode
+    title: "The Motherlode"
+    path: "MP7_Str_00049.pdt"
+    type: result
 ...

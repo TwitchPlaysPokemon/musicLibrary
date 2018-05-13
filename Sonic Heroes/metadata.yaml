@@ -81,4 +81,23 @@ songs:
     title: "This Machine (Theme of Team Dark)"
     path: "SNG_V03_TD.adx"
     type: betting
+  - id: we_can_theme_of_team_sonic
+    title: "We Can (Theme of Team Sonic)"
+    path: "SNG_V02_TS.adx"
+    ends: 2:25
+    type: betting
+  - id: follow_me_theme_of_team_rose
+    title: "Follow Me (Theme of Team Rose)"
+    path: "SNG_V04_TR.adx"
+    type: betting
+  - id: what_i_m_made_of_last_boss_metal_overlord_version_2
+    title: "What I’m Made of... : Last Boss / Metal Overlord [Version 2]"
+    path: "SNG_STG28.adx"
+    ends: 2:25
+    type: betting
+  - id: what_i_m_made_of_last_boss_metal_overlord_version_2_instrumental
+    title: "What I’m Made of... : Last Boss / Metal Overlord [Version 2] (Instrumental)"
+    path: "What Im Made Of... (Karaoke).brstm"
+    ends: 2:25
+    type: betting
 ...

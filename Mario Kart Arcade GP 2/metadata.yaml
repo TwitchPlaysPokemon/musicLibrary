@@ -1,0 +1,47 @@
+---
+id: mario_kart_arcade_gp_2
+title: "Mario Kart Arcade GP 2"
+series: mario
+platform: "Arcade"
+year: 2007
+songs: 
+  - id: bowser_cup
+    title: "Bowser Cup"
+    path: "Bowser Cup.brstm"
+    ends: 2:43
+    type: betting
+  - id: challenge_mode_mario_kart_arcade_gp_2
+    title: "Challenge Mode"
+    path: "Challenge Mode.brstm"
+    type: warning
+  - id: dk_cup
+    title: "DK Cup"
+    path: "DK Cup.brstm"
+    ends: 2:51
+    type: betting
+  - id: mario_cup
+    title: "Mario Cup"
+    path: "Mario Cup.brstm"
+    ends: 2:44
+    type: betting
+  - id: pacman_cup
+    title: "Pacman Cup"
+    path: "Pacman Cup.brstm"
+    ends: 2:51
+    type: betting
+  - id: rainbow_cup
+    title: "Rainbow Cup"
+    path: "Rainbow Cup.brstm"
+    ends: 2:31
+    type: betting
+  - id: waluigi_cup
+    title: "Waluigi Cup"
+    path: "Waluigi Cup.brstm"
+    ends: 2:56
+    type: betting
+  - id: yoshi_cup
+    title: "Yoshi Cup"
+    path: "Yoshi Cup.brstm"
+    ends: 2:46
+    type: betting
+...

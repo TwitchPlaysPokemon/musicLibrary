@@ -21,4 +21,40 @@ songs:
     title: "Night of Tragedy"
     path: "Night of Tragedy.brstm"
     type: warning
+  - id: daydream_upon_neverland
+    title: "Daydream upon Neverland"
+    path: "BBS0 00121.at3"
+    type: betting
+  - id: dearly_dreams
+    title: "Dearly Dreams"
+    path: "BBS0 00130.at3"
+    type: break
+  - id: destiny_s_union
+    title: "Destiny's Union"
+    path: "BBS0 00161.at3"
+    type: break
+  - id: fresh_fruit_balls
+    title: "Fresh Fruit Balls"
+    path: "BBS1_00000000.at3"
+    type: result
+  - id: future_masters
+    title: "Future Masters"
+    path: "BBS0 00114.at3"
+    type: battle
+  - id: hau_oli_hau_oli
+    title: "Hau'oli, Hau'oli"
+    path: "BBS0 00125.at3"
+    type: break
+  - id: keyblade_graveyard_horizon
+    title: "Keyblade Graveyard Horizon"
+    path: "BBS0 00128.at3"
+    type: warning
+  - id: mkaukau
+    title: "Mkaukau?"
+    path: "BBS0 00126.at3"
+    type: battle
+  - id: shaded_truths
+    title: "Shaded Truths"
+    path: "BBS0 00136.at3"
+    type: warning
 ...

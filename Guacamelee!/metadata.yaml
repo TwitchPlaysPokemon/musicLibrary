@@ -1,3 +1,4 @@
+---
 id: guacamelee
 title: "Guacamelee!"
 platform: ["Wii U", "Various"]
@@ -8,3 +9,18 @@ songs:
     title: "Temple of Rain (Living)"
     path: "Temple of Rain (Living).brstm"
     type: betting
+  - id: leaderboards
+    title: "Leaderboards"
+    path: "Leaderboards.brstm"
+    ends: 2:51
+    type: betting
+  - id: desierto_caliente_dead
+    title: "Desierto Caliente (Dead)"
+    path: "Desierto Caliente (Dead).brstm"
+    ends: 3:11
+    type: betting
+  - id: pueblucho_dead
+    title: "Pueblucho (Dead)"
+    path: "Pueblucho (Dead).brstm"
+    type: break
+...

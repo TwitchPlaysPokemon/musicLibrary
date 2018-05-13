@@ -30,4 +30,12 @@ songs:
     title: "Dimension Stage ~ Decisive Battle"
     path: "BGM_TA04_lastboss.dspadpcm.bcstm"
     type: battle
+  - id: worldwide_connectivity
+    title: "Worldwide Connectivity"
+    path: "BGM_S05_internet.dspadpcm.bcstm"
+    type: betting
+  - id: challenge_go_puyo_2_tetris
+    title: "Challenge GO! → Puyo 2 Tetris!"
+    path: "BGM_T00_classic.dspadpcm.bcstm"
+    type: betting
 ...

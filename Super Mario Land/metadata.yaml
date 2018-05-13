@@ -1,25 +1,41 @@
 ---
 id: super_mario_land
-platform: "GB"
 title: "Super Mario Land"
 series: mario
+platform: "GB"
 year: 1989
 songs: 
   - id: muda_kingdom
-    path: "Muda Kingdom (World 2).brstm"
     title: "Muda Kingdom (World 2)"
+    path: "Muda Kingdom (World 2).brstm"
     type: betting
   - id: chai_kingdom
-    path: "Chai Kingdom (World 4).brstm"
     title: "Chai Kingdom (World 4)"
+    path: "Chai Kingdom (World 4).brstm"
     ends: 2:00
     type: betting
   - id: ending_credits_sml
-    path: "Ending & Credits.brstm"
     title: "Ending & Credits"
+    path: "Ending & Credits.brstm"
     type: result
   - id: last_boss
-    path: "Last Boss.brstm"
     title: "Last Boss"
+    path: "Last Boss.brstm"
     type: warning
+  - id: invincible_galop_infernal
+    title: "Invincible (Galop Infernal)"
+    path: "Invincible (Galop Infernal) (Looped).brstm"
+    type: warning
+  - id: birabuto_kingdom
+    title: "Birabuto Kingdom"
+    path: "Birabuto Kingdom.brstm"
+    type: betting
+  - id: bonus_game_super_mario_land
+    title: "Bonus Game"
+    path: "Bonus Game.brstm"
+    type: warning
+  - id: easton_kingdom
+    title: "Easton Kingdom"
+    path: "Easton Kingdom.brstm"
+    type: betting
 ...

@@ -53,6 +53,11 @@ songs:
     title: "Sammer's Kingdom"
     path: "map_stg6_44k_lp.brstmspm"
     type: betting
+  - id: staff_credits_super_paper_mario
+    title: "Staff Credits"
+    path: "evt_staff1_44k_lp.brstmspm"
+    ends: 3:24
+    type: betting
   - id: the_underwhere
     title: "The Underwhere"
     path: "map_stg7_44k_lp.brstmspm"

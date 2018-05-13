@@ -1,9 +1,19 @@
-id: tloh_trails_of_cold_steel_ii
+---
+id: the_legend_of_heroes_trails_of_cold_steel_ii
 title: "The Legend of Heroes: Trails of Cold Steel II"
-platform: ["PS3", "Vita"]
+platform: ["PS3", "Vita", "PC", "PS4"]
 year: 2014
 songs:
   - id: ymir_valley_road
     title: "Ymir Valley Road"
     path: "Ymir Valley Road.brstm"
     type: break
+  - id: altina
+    title: "Altina"
+    path: "ed8558.lwav"
+    type: betting
+  - id: severe_blow
+    title: "Severe Blow"
+    path: "ed8424.lwav"
+    type: battle
+...

@@ -1,10 +1,38 @@
+---
 id: we_love_katamari
 title: "We Love Katamari"
-year: 2005
 series: katamari
 platform: "PS2"
+year: 2005
 songs:
-  - id: royal_academy_of_katamari
-    title: "Royal Academy of Katamari"
-    path: "Royal Academy of Katamari.mp3"
+  - id: the_royal_academy_of_katamari
+    title: "The Royal Academy of Katamari"
+    path: "022.MIB"
+    ends: 3:33
+    type: betting
+  - id: big_cosmos_salon
+    title: "Big Cosmos Salon"
+    path: "024.MIB"
+    ends: 2:59
+    type: betting
+  - id: blue_orb
+    title: "Blue Orb"
+    path: "021.MIB"
     type: break
+  - id: chaotic_ambience
+    title: "Chaotic Ambience"
+    path: "010.MIB"
+    type: break
+  - id: love_and_peace_and_katamari_damacy
+    title: "LOVE & PEACE & Katamari Damacy"
+    path: "027.MIB"
+    type: warning
+  - id: meadowtronic
+    title: "Meadowtronic"
+    path: "005.MIB"
+    type: betting
+  - id: one_chip_march
+    title: "One Chip March"
+    path: "006.MIB"
+    type: result
+...

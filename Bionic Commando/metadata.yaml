@@ -1,9 +1,11 @@
+---
 id: bionic_commando
 title: "Bionic Commando"
-year: 1988
 platform: "NES"
+year: 1988
 songs:
   - id: area_5_bionic_commando
     title: "Area 5"
     path: "Area 5.brstm"
-    type: warning
+    type: betting
+...

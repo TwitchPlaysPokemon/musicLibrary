@@ -1,0 +1,15 @@
+---
+id: mr_driller_2_gba
+title: "Mr. Driller 2 [GBA]"
+platform: ["Arcade", "GBA", "PC"]
+year: 2000
+songs: 
+  - id: bgm_01
+    title: "BGM #01"
+    path: "01 BGM #01.minigsf"
+    type: betting
+  - id: bgm_02
+    title: "BGM #02"
+    path: "02 BGM #02.minigsf"
+    type: betting
+...

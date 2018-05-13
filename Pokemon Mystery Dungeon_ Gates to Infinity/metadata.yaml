@@ -2,8 +2,8 @@
 id: pokémon_mystery_dungeon_gates_to_infinity
 title: "Pokémon Mystery Dungeon: Gates to Infinity"
 series: pokemon
-year: 2012
 platform: "3DS"
+year: 2012
 songs:
   - id: outlaw
     title: "Outlaw!"
@@ -74,4 +74,285 @@ songs:
     path: "Vast Ice Mountain Peak Remix (Unused DLC Song).brstm"
     tags: [xmas]
     type: betting
+  - id: beartic_slide
+    title: "Beartic Slide"
+    path: "BGM_SYS_MINIGAME_03.bcstm"
+    type: warning
+  - id: boss_battle_pmd_gates_to_infinity
+    title: "Boss Battle"
+    path: "BGM_EVE_BOSS_01.bcstm"
+    type: warning
+  - id: bring_back_the_rainbows
+    title: "Bring Back the Rainbows!"
+    path: "BGM_EVE_BOSS_HYOUSHOKU_02_INTRO.bcstm"
+    type: warning
+  - id: celebration_of_peace
+    title: "Celebration of Peace"
+    path: "BGM_EVE_ENDING_03.bcstm"
+    type: betting
+  - id: colorful_forest
+    title: "Colorful Forest"
+    path: "BGM_DUN_04.bcstm"
+    type: betting
+  - id: committed_thoughts
+    title: "Committed Thoughts"
+    path: "BGM_EVE_SEND_OFF.bcstm"
+    type: result
+  - id: craggy_coast_remix
+    title: "Craggy Coast"
+    path: "BGM_DLC_025.bcstm"
+    type: betting
+  - id: danger_pmd_gates_to_infinity
+    title: "Danger!"
+    path: "BGM_EVE_FEAR_01.bcstm"
+    type: warning
+  - id: daybreak_bridge
+    title: "Daybreak Bridge"
+    path: "BGM_DUN_11.bcstm"
+    type: betting
+  - id: daybreak_bridge_highlands
+    title: "Daybreak Bridge (Highlands)"
+    path: "BGM_DUN_28.bcstm"
+    type: betting
+  - id: desolate_valley
+    title: "Desolate Valley"
+    path: "BGM_DUN_05.bcstm"
+    type: betting
+  - id: desperation
+    title: "Desperation"
+    path: "BGM_EVE_THEME_DESPAIR.bcstm"
+    type: break
+  - id: dreams_and_hope
+    title: "Dreams and Hope"
+    path: "BGM_MAP_TOWN_02.bcstm"
+    type: break
+  - id: ending_staff_credits_pmd_gates_to_infinity
+    title: "Ending (Staff Credits)"
+    path: "BGM_EVE_STAFF_CREDIT.bcstm"
+    ends: 2:56
+    type: betting
+  - id: even_if_you_forget_me
+    title: "Even If You Forget Me"
+    path: "BGM_EVE_ENDING_07.bcstm"
+    type: result
+  - id: fellow_pokemon
+    title: "Fellow Pokemon"
+    path: "BGM_EVE_OFFENSIV_02.bcstm"
+    type: betting
+  - id: forest_of_shadows
+    title: "Forest of Shadows"
+    path: "BGM_DUN_08.bcstm"
+    type: betting
+  - id: glacial_underpass
+    title: "Glacial Underpass"
+    path: "BGM_DUN_16.bcstm"
+    type: betting
+  - id: glacier_palace
+    title: "Glacier Palace"
+    path: "BGM_DUN_06.bcstm"
+    type: betting
+  - id: glacier_palace_reaches
+    title: "Glacier Palace (Reaches)"
+    path: "BGM_DUN_27.bcstm"
+    type: betting
+  - id: goodnight
+    title: "Goodnight"
+    path: "BGM_EVE_GOODNIGHT.bcstm"
+    type: break
+  - id: guardian_of_fate
+    title: "Guardian of Fate"
+    path: "BGM_EVE_BOSSAPPEAR.bcstm"
+    type: warning
+  - id: hazy_pass
+    title: "Hazy Pass"
+    path: "BGM_DUN_03.bcstm"
+    type: betting
+  - id: holehills
+    title: "Holehills"
+    path: "BGM_DUN_10.bcstm"
+    type: betting
+  - id: hydreigon_s_ambush
+    title: "Hydreigon's Ambush!"
+    path: "BGM_EVE_SAZANDORA_01.bcstm"
+    type: warning
+  - id: hydreigon_s_rescue
+    title: "Hydreigon's Rescue!"
+    path: "BGM_EVE_GLIDE.bcstm"
+    type: warning
+  - id: icy_sanctum
+    title: "Icy Sanctum"
+    path: "BGM_EVE_THEME_DAIHYOUGA_01.bcstm"
+    type: betting
+  - id: illusory_hazy_pass
+    title: "Illusory Hazy Pass"
+    path: "BGM_DUN_25_2.bcstm"
+    type: betting
+  - id: illusory_holehills
+    title: "Illusory Holehills"
+    path: "BGM_DUN_10_2.bcstm"
+    type: betting
+  - id: illusory_ragged_mountain
+    title: "Illusory Ragged Mountain"
+    path: "BGM_DUN_01_2.bcstm"
+    type: betting
+  - id: in_the_dark
+    title: "In the Dark..."
+    path: "BGM_EVE_TENSION_01.bcstm"
+    type: warning
+  - id: in_the_depths_of_the_pit
+    title: "In the Depths of the Pit"
+    path: "BGM_EVE_OKUSOKO_01.bcstm"
+    type: warning
+  - id: infinite_dungeon_1
+    title: "Infinite Dungeon 1"
+    path: "BGM_DUN_12.bcstm"
+    type: betting
+  - id: infinite_dungeon_2
+    title: "Infinite Dungeon 2"
+    path: "BGM_DUN_30.bcstm"
+    type: betting
+  - id: infinite_dungeon_3
+    title: "Infinite Dungeon 3"
+    path: "BGM_DUN_31.bcstm"
+    type: betting
+  - id: kilionea_road
+    title: "Kilionea Road"
+    path: "BGM_DUN_18.bcstm"
+    type: betting
+  - id: kyurem_approaching
+    title: "Kyurem Approaching!"
+    path: "BGM_EVE_FEAR_02.bcstm"
+    type: warning
+  - id: kyurem_battle
+    title: "Kyurem Battle"
+    path: "BGM_EVE_BOSS_KYUREMU.bcstm"
+    type: warning
+  - id: legendary_pokemon_battle_pmd_gates_to_infinity
+    title: "Legendary Pokémon Battle"
+    path: "BGM_EVE_BOSS_04.bcstm"
+    type: battle
+  - id: magnagate
+    title: "Magnagate"
+    path: "BGM_EVE_MAGNAGATE.bcstm"
+    type: betting
+  - id: monster_house
+    title: "Monster House!"
+    path: "BGM_DUN_MONSTERHOUSE.bcstm"
+    type: warning
+  - id: mysterious_world
+    title: "Mysterious World"
+    path: "BGM_EVE_METAMORPHOSIS_02.bcstm"
+    type: break
+  - id: one_last_look_at_paradise
+    title: "One Last Look at Paradise"
+    path: "BGM_EVE_ENDING_06.bcstm"
+    type: break
+  - id: orchre_quarry
+    title: "Orchre Quarry"
+    path: "BGM_DUN_09.bcstm"
+    type: betting
+  - id: our_first_meeting
+    title: "Our First Meeting"
+    path: "BGM_EVE_HAPPY.bcstm"
+    type: result
+  - id: pokemon_paradise
+    title: "Pokémon Paradise"
+    path: "BGM_MAP_PARADISE_04.bcstm"
+    type: betting
+  - id: post_town
+    title: "Post Town"
+    path: "BGM_MAP_TOWN_01.bcstm"
+    type: betting
+  - id: sincerity_and_compassion
+    title: "Sincerity and Compassion"
+    path: "BGM_EVE_REFORM.bcstm"
+    type: break
+  - id: star_cave
+    title: "Star Cave"
+    path: "BGM_DLC_051.bcstm"
+    type: betting
+  - id: stompstump_peak
+    title: "Stompstump Peak"
+    path: "BGM_DUN_14.bcstm"
+    type: betting
+  - id: telluric_path
+    title: "Telluric Path"
+    path: "BGM_DUN_17.bcstm"
+    type: betting
+  - id: the_bittercold
+    title: "The Bittercold"
+    path: "BGM_EVE_FUON_02.bcstm"
+    type: warning
+  - id: the_bittercold_first_battle
+    title: "The Bittercold (First Battle)"
+    path: "BGM_EVE_BOSS_HYOUSHOKU_01.bcstm"
+    type: betting
+  - id: the_frism
+    title: "The Frism"
+    path: "BGM_EVE_ENDING_08.bcstm"
+    type: break
+  - id: the_heroes_of_holehills
+    title: "The Heroes of Holehills"
+    path: "BGM_EVE_DOGFIGHT.bcstm"
+    type: warning
+  - id: the_rainbows_of_hope
+    title: "The Rainbows of Hope"
+    path: "BGM_EVE_ENDING_02.bcstm"
+    type: break
+  - id: the_trap_is_set
+    title: "The Trap is Set"
+    path: "BGM_EVE_TORIDE.bcstm"
+    type: warning
+  - id: the_voice_in_the_dream
+    title: "The Voice in the Dream"
+    path: "BGM_EVE_NAZO_01.bcstm"
+    type: betting
+  - id: theme_of_hope_march
+    title: "Theme of Hope March"
+    path: "BGM_EVE_THEME_HOPE_MARCH.bcstm"
+    type: result
+  - id: touched_by_kindness
+    title: "Touched by Kindness"
+    path: "BGM_EVE_CALM_01.bcstm"
+    type: break
+  - id: tyrian_maze
+    title: "Tyrian Maze"
+    path: "BGM_DUN_21.bcstm"
+    type: betting
+  - id: tyrian_maze_inner_chamber
+    title: "Tyrian Maze (Inner Chamber)"
+    path: "BGM_DUN_29.bcstm"
+    type: betting
+  - id: voices_of_support
+    title: "Voices of Support"
+    path: "BGM_EVE_GANBARE.bcstm"
+    type: result
+  - id: wailing_valley
+    title: "Wailing Valley"
+    path: "BGM_DUN_15.bcstm"
+    type: betting
+  - id: we_re_back_and_now
+    title: "We're Back... And Now..."
+    path: "BGM_EVE_ENDING_01.bcstm"
+    type: break
+  - id: what_s_wrong_with_everyone
+    title: "What's Wrong With Everyone?"
+    path: "BGM_EVE_COMICAL.bcstm"
+    type: warning
+  - id: winds_of_despair
+    title: "Winds of Despair"
+    path: "BGM_EVE_ZETSUBOU_RETURN.bcstm"
+    type: betting
+  - id: withered_savannah
+    title: "Withered Savannah"
+    path: "BGM_DUN_19.bcstm"
+    type: betting
+  - id: within_the_crags_of_lament
+    title: "Within the Crags of Lament"
+    path: "BGM_DUN_26.bcstm"
+    type: betting
+  - id: wrapped_in_light
+    title: "Wrapped in Light"
+    path: "BGM_EVE_ENDING_05.bcstm"
+    type: break
 ...

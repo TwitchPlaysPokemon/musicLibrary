@@ -24,7 +24,7 @@ songs:
   - id: end_roll
     path: "End Roll.minigsf"
     title: "End Roll"
-    type: warning
+    type: result
   - id: red_or_blue
     title: "Red or Blue"
     path: "Red or Blue.minigsf"

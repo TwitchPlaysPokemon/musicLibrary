@@ -1,10 +1,20 @@
+---
 id: puyo_pop_fever
 title: "Puyo Pop Fever"
-year: 2004
 platform: ["GC", "Various"]
 #other platforms: ["DC", "PS2", "Xbox", "PC", "GBA", "NDS", "PSP"]
+year: 2004
 songs:
   - id: arle_stage
     title: "Arle Stage"
     path: "Arle Stage.brstm"
     type: result
+  - id: fun_puyo_puyo_hell
+    title: "Fun Puyo Puyo Hell!"
+    path: "11.adx"
+    type: battle
+  - id: fever_mode
+    title: "Fever Mode"
+    path: "15.adx"
+    type: result
+...

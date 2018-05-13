@@ -1,0 +1,13 @@
+---
+id: pop_n_music_gb
+title: "Pop'n Music GB"
+platform: "GBC"
+series: popnmusic
+year: 2000
+songs: 
+  - id: texas_no_gunman
+    title: "Texas no gunman"
+    path: "23 Texas Gunfighter.vgz"
+    ends: 1:37
+    type: betting
+...

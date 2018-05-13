@@ -1,0 +1,55 @@
+---
+id: cat_quest
+title: "Cat Quest"
+platform: "Various"
+year: 2013
+songs: 
+  - id: a_feline_epic
+    title: "A Feline Epic"
+    path: ".brstm"
+    type: betting
+  - id: adventure_kitten
+    title: "Adventure Kitten"
+    path: "Adventure Kitten.brstm"
+    type: betting
+  - id: cat_naps
+    title: "Cat Naps"
+    path: "Cat Naps.brstm"
+    type: break
+  - id: cat_tales
+    title: "Cat Tales"
+    path: "Cat Tales.brstm"
+    type: break
+  - id: snow_kitten
+    title: "Snow Kitten"
+    path: "Snow Kitten.brstm"
+    type: result
+  - id: the_ruins_of_an_ancient_kitty_kingdom
+    title: "The Ruins of An Ancient Kitty Kingdom"
+    path: "The Ruins of An Ancient Kitty Kingdom.brstm"
+    type: betting
+  - id: cat_fight
+    title: "Cat Fight"
+    path: "Cat Fight.brstm"
+    type: betting
+  - id: scaredy_cat
+    title: "Scaredy Cat"
+    path: "Scaredy Cat.brstm"
+    type: warning
+  - id: the_kitten_caboodle
+    title: "The Kitten Caboodle"
+    path: "The Kitten Caboodle.brstm"
+    type: betting
+  - id: kitty_magic
+    title: "Kitty Magic"
+    path: "Kitty Magic.brstm"
+    type: break
+  - id: a_kitten_more_evil_than_you_could_possibly_imagine
+    title: "A Kitten More Evil Than You Could Possibly Imagine"
+    path: "A Kitten More Evil Than You Could Possibly Imagine.brstm"
+    type: warning
+  - id: dungeon_crawling_kitten
+    title: "Dungeon Crawling Kitten"
+    path: "Dungeon Crawling Kitten.brstm"
+    type: betting
+...

@@ -1,3 +1,4 @@
+---
 id: dragon_ball_z_budokai_tenkaichi_2
 title: "Dragon Ball Z: Budokai Tenkaichi 2"
 series: dragonball
@@ -32,3 +33,12 @@ songs:
     title: "Sky Is In Our Hands"
     path: "Sky Is In Our Hands.brstm"
     type: betting
+  - id: belief_of_steel
+    title: "Belief of Steel"
+    path: "Belief of Steel.brstm"
+    type: battle
+  - id: lost_courage
+    title: "Lost Courage"
+    path: "Lost Courage.brstm"
+    type: battle
+...

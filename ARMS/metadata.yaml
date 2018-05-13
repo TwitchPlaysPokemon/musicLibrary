@@ -68,4 +68,28 @@ songs:
     title: "Snake Park (Kid Cobra's Theme)"
     path: "BGM_Stage_KomaPark.bfstm"
     type: betting
+  - id: via_dolce_lola_pop_s_theme
+    title: "Via Dolce (Lola Pop's Theme)"
+    path: "BGM_Stage_Crank.bfstm"
+    type: betting
+  - id: temple_grounds_misango_s_theme
+    title: "Temple Grounds (Misango's Theme)"
+    path: "BGM_Stage_Wild.bfstm"
+    type: betting
+  - id: tournament_lobby_arms
+    title: "Tournament Lobby"
+    path: "BGM_OfficialLobby.bfstm"
+    type: betting
+  - id: buster_beach_byte_barq_s_theme
+    title: "Buster Beach (Byte & Barq's Theme)"
+    path: "BGM_Stage_Seaside.bfstm"
+    type: betting
+  - id: sparring_ring
+    title: "Sparring Ring"
+    path: "BGM_Stage_Square.bfstm"
+    type: betting
+  - id: arms_title
+    title: "ARMS"
+    path: "BGM_Title.bfwav"
+    type: betting
 ...

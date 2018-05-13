@@ -69,6 +69,10 @@ songs:
     title: "Go! Mario! Go! (Phase 2)"
     path: "211b Go! Mario! Go!.miniusf"
     type: warning
+  - id: lakilester_the_great
+    title: "Lakilester the Great!"
+    path: "214 Lakilester the Great!.miniusf"
+    type: betting
   - id: huffin_and_puffin
     title: "Huffin' and Puffin'"
     path: "216 Huffin' and Puffin'.miniusf"
@@ -118,10 +122,18 @@ songs:
     path: "225 Shooting Star Summit.miniusf"
     tags: [xmas]
     type: break
+  - id: angry_bowser
+    title: "Angry Bowser"
+    path: "229 Angry Bowser.miniusf"
+    type: warning
   - id: king_of_the_koopas
     title: "King of the Koopas"
     path: "232 King of the Koopas.miniusf"
     type: battle
+  - id: main_menu_paper_mario
+    title: "Main Menu"
+    path: "901 Main Menu.miniusf"
+    type: result
   - id: kammy_koopa
     title: "Kammy Koopa"
     path: "915 Kammy Koopa.miniusf"
@@ -134,6 +146,14 @@ songs:
     title: "Mario Bros' Home"
     path: "926 Mario Bros' Home.miniusf"
     type: betting
+  - id: golden_oldies
+    title: "Golden Oldies"
+    path: "932 Golden Oldies.miniusf"
+    type: result
+  - id: mini_game_paper_mario
+    title: "Mini Game"
+    path: "933 Mini Game.miniusf"
+    type: warning
   - id: master_battle
     title: "Master Battle"
     path: "935 Master Battle.miniusf"
@@ -141,24 +161,6 @@ songs:
   - id: k64_train_ride
     title: "K64 Train Ride"
     path: "940 K64 Train Ride.miniusf"
-    type: warning
-  - id: shiver_city_mayor
-    title: "Shiver City Mayor"
-    path: "976 Shiver City Mayor.miniusf"
-    tags: [xmas]
-    type: result
-  - id: crystal_king
-    title: "Crystal King"
-    path: "979 Crystal King.miniusf"
-    tags: [xmas]
-    type: warning
-  - id: main_menu_paper_mario
-    title: "Main Menu"
-    path: "901 Main Menu.miniusf"
-    type: result
-  - id: mini_game_paper_mario
-    title: "Mini Game"
-    path: "933 Mini Game.miniusf"
     type: warning
   - id: moustafa
     title: "Moustafa"
@@ -172,4 +174,14 @@ songs:
     title: "Cloudy Climb"
     path: "973 Cloudy Climb.miniusf"
     type: break
+  - id: shiver_city_mayor
+    title: "Shiver City Mayor"
+    path: "976 Shiver City Mayor.miniusf"
+    tags: [xmas]
+    type: result
+  - id: crystal_king
+    title: "Crystal King"
+    path: "979 Crystal King.miniusf"
+    tags: [xmas]
+    type: warning
 ...

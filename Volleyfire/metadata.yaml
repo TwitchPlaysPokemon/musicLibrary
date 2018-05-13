@@ -1,0 +1,15 @@
+---
+id: volleyfire
+title: "Volleyfire"
+platform: "GB"
+year: 1990
+songs: 
+  - id: main_bgm_1_volleyfire
+    title: "Main BGM 1"
+    path: "03 Main BGM 1.vgz"
+    type: betting
+  - id: main_bgm_2_volleyfire
+    title: "Main BGM 2"
+    path: "04 Main BGM 2.vgz"
+    type: betting
+...

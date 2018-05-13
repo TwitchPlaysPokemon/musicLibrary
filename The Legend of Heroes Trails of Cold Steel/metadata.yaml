@@ -1,6 +1,7 @@
-id: tloh_trails_of_cold_steel
+---
+id: the_legend_of_heroes_trails_of_cold_steel
 title: "The Legend of Heroes: Trails of Cold Steel"
-platform: ["PS3", "Vita"]
+platform: ["PS3", "Vita", "PC", "PS4"]
 year: 2013
 songs: 
   - id: to_become_the_foundation_of_an_era
@@ -11,3 +12,12 @@ songs:
     title: "To Grasp Tomorrow"
     path: "To Grasp Tomorrow.brstm"
     type: battle
+  - id: even_if_driven_to_the_wall
+    title: "Even if Driven to the Wall"
+    path: "ed8403.lwav"
+    type: battle
+  - id: don_t_be_defeated_by_a_friend
+    title: "Don't Be Defeated by a Friend!"
+    path: "ed8406.lwav"
+    type: battle
+...

@@ -2,8 +2,8 @@
 id: sonic_advance_2
 title: "Sonic Advance 2"
 series: sonic
-year: 2002
 platform: "GBA"
+year: 2002
 songs:
   - id: knuckles_boss
     title: "Knuckles Boss"
@@ -13,11 +13,6 @@ songs:
     title: "Egg Utopia Act 2"
     path: "Egg Utopia Act 2.minigsf"
     type: warning
-#      - id: final_zone_xx
-#        title: "Final Zone XX"
-#        path: "Final Zone XX.minigsf"
-#        type: betting
-# fits a final_betting more better, if such a thing existed
   - id: hot_crater_act_2
     title: "Hot Crater Act 2"
     path: "Hot Crater Act 2.minigsf"
@@ -75,4 +70,8 @@ songs:
     title: "Egg Utopia Zone (Both Acts)"
     path: "Egg Utopia Zone (Both Acts).brstm"
     type: betting
+  - id: vs_wait
+    title: "VS Wait"
+    path: "51 VS Wait.minigsf"
+    type: result
 ...

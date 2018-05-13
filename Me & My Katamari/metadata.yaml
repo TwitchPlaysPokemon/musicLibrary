@@ -1,0 +1,22 @@
+---
+id: me_my_katamari
+title: "Me & My Katamari"
+platform: "PSP"
+series: katamari
+year: 2005
+songs: 
+  - id: shabadoobie
+    title: "Shabadoobie"
+    path: "06 Yoshihito Yano - Shabadoobie [M05_COLLECTION].npsf"
+    ends: 2:59
+    type: betting
+  - id: katamari_on_the_funk
+    title: "Katamari on the Funk"
+    path: "04 Yu Miyake, Katamari Soul Trains - Katamari on the Funk [M33_KT3BGM].npsf"
+    ends: 3:15
+    type: betting
+  - id: katamari_on_the_moog
+    title: "Katamari on the Moog"
+    path: "Katamari_on_the_Moog.flac"
+    type: warning
+...

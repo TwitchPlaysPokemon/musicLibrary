@@ -1,7 +1,7 @@
 ---
 id: mario_and_sonic_at_the_olympic_winter_games_wii
 title: "Mario & Sonic at the Olympic Winter Games"
-series: mario&sonicattheolympicwintergames
+series: mario&sonic
 platform: "Wii"
 year: 2009
 songs: 
@@ -34,7 +34,7 @@ songs:
     title: "Dream Curling (Sherbet Land)"
     path: "Dream Curling (Sherbet Land).brstm"
     tags: [xmas]
-    type: battle
+    type: betting
   - id: dream_freestyle_ski_cross_mario_circuit
     title: "Dream Freestyle Ski Cross (Mario Circuit)"
     path: "Dream Freestyle Ski Cross (Mario Circuit).brstm"
@@ -59,10 +59,10 @@ songs:
     title: "Snowboard Cross"
     path: "Snowboard Cross.brstm"
     tags: [xmas]
-    type: battle
+    type: betting
   - id: snowboarding_half_pipe
     title: "Snowboarding - Half Pipe"
     path: "Snowboarding - Half Pipe.brstm"
     tags: [xmas]
-    type: battle
+    type: betting
 ...
