@@ -1,0 +1,20 @@
+---
+id: call_of_duty_4_modern_warfare_ds
+title: "Call of Duty 4: Modern Warfare (DS)"
+series: callofduty
+platform: "NDS"
+year: 2007
+songs:
+  - id: ambush_call_of_duty_4_modern_warfare_ds
+    title: "Ambush!"
+    path: "Ambush.mp3"
+    type: betting
+  - id: alone_call_of_duty_4_modern_warfare_ds
+    title: "Alone"
+    path: "Alone.mp3"
+    type: betting
+  - id: preparation_call_of_duty_4_modern_warfare_ds
+    title: "Preparation"
+    path: "Preparation.mp3"
+    type: warning
+...

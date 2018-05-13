@@ -1,0 +1,12 @@
+---
+id: super_mario_advance
+title: "Super Mario Advance"
+series: mario
+platform: "GBA"
+year: 2001
+songs: 
+  - id: boss_nearby
+    title: "Boss Nearby"
+    path: "08 Boss Nearby.minigsf"
+    type: warning
+...

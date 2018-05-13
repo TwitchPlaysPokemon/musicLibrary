@@ -1,0 +1,35 @@
+---
+id: dragon_saber
+title: "Dragon Saber [Arcade]"
+platform: ["Arcade", "PCE"]
+year: 1990
+songs: 
+  - id: submerged_city_stage_1
+    title: "Submerged City (Stage 1)"
+    path: "04 Submerged City (Stage 1).vgz"
+    type: betting
+  - id: volcano_stage_2
+    title: "Volcano (Stage 2)"
+    path: "06 Volcano (Stage 2).vgz"
+    type: betting
+  - id: waste_land_stage_4
+    title: "Waste Land (Stage 4)"
+    path: "09 Waste Land (Stage 4).vgz"
+    type: betting
+  - id: canyon_stage_5
+    title: "Canyon (Stage 5)"
+    path: "11 Canyon (Stage 5).vgz"
+    type: betting
+  - id: ice_cave_stage_6
+    title: "Ice Cave (Stage 6)"
+    path: "12 Ice Cave (Stage 6).vgz"
+    type: betting
+  - id: the_paleozoic_era_hidden_stage_1
+    title: "The Paleozoic Era (Hidden Stage 1)"
+    path: "22 The Paleozoic Era (Hidden Stage 1).vgz"
+    type: betting
+  - id: glacier_land_hidden_stage_6
+    title: "Glacier Land (Hidden Stage 6)"
+    path: "27 Glacier Land (Hidden Stage 6).vgz"
+    type: betting
+...

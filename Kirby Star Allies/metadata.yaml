@@ -1,0 +1,174 @@
+---
+id: kirby_star_allies
+title: "Kirby Star Allies"
+series: kirby
+platform: "Switch"
+year: 2018
+songs: 
+  - id: green_gardens
+    title: "Green Gardens"
+    path: "EcGreens_Fast.dspadpcm.bfstm"
+    type: betting
+  - id: donut_dome
+    title: "Donut Dome"
+    path: "bouken.dspadpcm.bfstm"
+    type: betting
+  - id: honey_hill
+    title: "Honey Hill"
+    path: "iukMori.dspadpcm.bfstm"
+    type: betting
+  - id: clash_at_castle_dedede
+    title: "Clash at Castle Dedede"
+    path: "d3castle.dspadpcm.bfstm"
+    type: betting
+  - id: friendly_field
+    title: "Friendly Field"
+    path: "ECL_LP_ECHEITI1.dspadpcm.bfstm"
+    type: betting
+  - id: reef_resort
+    title: "Reef Resort"
+    path: "ECL_LP_ECUMI1.dspadpcm.bfstm"
+    type: betting
+  - id: echo_s_edge
+    title: "Echo's Edge"
+    path: "ECL_LP_ECSNOW1.dspadpcm.bfstm"
+    type: betting
+  - id: nature_s_navel
+    title: "Nature's Navel"
+    path: "ECL_LP_ECFIRESTEP2.dspadpcm.bfstm"
+    type: betting
+  - id: sacred_square
+    title: "Sacred Square"
+    path: "ECL_LP_ECYUUHI1.dspadpcm.bfstm"
+    type: betting
+  - id: jambastion_exterior
+    title: "Jambastion Exterior"
+    path: "BossMid.dspadpcm.bfstm"
+    type: betting
+  - id: jambastion_interior
+    title: "Jambastion Interior"
+    path: "yousai.dspadpcm.bfstm"
+    type: betting
+  - id: heavenly_hall
+    title: "Heavenly Hall"
+    path: "yousai2.dspadpcm.bfstm"
+    type: betting
+  - id: challenge_room_far_flung_starlight_heroes
+    title: "Challenge Room (Far-Flung Starlight Heroes)"
+    path: "fami_kkt.dspadpcm.bfstm"
+    type: betting
+  - id: planet_earthfall
+    title: "Planet Earthfall"
+    path: "BGM_LP_ECMORI2.dspadpcm.bfstm"
+    type: betting
+  - id: planet_misteen
+    title: "Planet Misteen"
+    path: "ECL_LP_ECBEACHK3.dspadpcm.bfstm"
+    type: betting
+  - id: planet_caverna
+    title: "Planet Caverna"
+    path: "tower.dspadpcm.bfstm"
+    type: betting
+  - id: planet_frostak
+    title: "Planet Frostak"
+    path: "RRes.dspadpcm.bfstm"
+    type: betting
+  - id: planet_towara
+    title: "Planet Towara"
+    path: "ECL_LP_ECTOU1.dspadpcm.bfstm"
+    type: betting
+  - id: star_lavadom
+    title: "Star Lavadom"
+    path: "ECL_LP_ECFIRESTEP1.dspadpcm.bfstm"
+    type: betting
+  - id: jambandra_base
+    title: "Jambandra Base"
+    path: "lastGreens.dspadpcm.bfstm"
+    type: betting
+  - id: select_mode_kirby_star_allies
+    title: "Select Mode"
+    path: "title_pf.dspadpcm.bfstm"
+    type: break
+  - id: world_of_peace_dream_land
+    title: "World of Peace: Dream Land"
+    path: "map_heiti.dspadpcm.bfstm"
+    type: break
+  - id: far_flung_starlight_heroes
+    title: "Far-Flung Starlight Heroes"
+    path: ".bfstm"
+    type: betting
+  - id: dream_palace
+    title: "Dream Palace"
+    path: "pf_kakuto.dspadpcm.bfstm"
+    type: betting
+  - id: friend_star_friend_train
+    title: "Friend Star/Friend Train"
+    path: "star.dspadpcm.bfstm"
+    type: warning
+  - id: results_kirby_star_allies
+    title: "Results"
+    path: "lololo.dspadpcm.bfstm"
+    type: result
+  - id: gallery_kirby_star_allies
+    title: "Gallery"
+    path: "akarui.dspadpcm.bfstm"
+    type: result
+  - id: star_slam_heroes
+    title: "Star Slam Heroes"
+    path: "BGM_LP_ECSUBHOMERUN.dspadpcm.bfstm"
+    type: warning
+  - id: credits_kirby_star_allies
+    title: "Credits"
+    path: "sroll.dspadpcm.bfstm"
+    ends: 3:38
+    type: betting
+  - id: the_ultimate_choice
+    title: "The Ultimate Choice"
+    path: "BGM_LP_ECKAKUTO1.dspadpcm.bfstm"
+    type: betting
+  - id: guest_star_checkpoint
+    title: "Guest Star Checkpoint"
+    path: "pf_torteStg.dspadpcm.bfstm"
+    type: result
+  - id: guest_star_credits
+    title: "Guest Star Credits"
+    path: "staff_medley.dspadpcm.bfstm"
+    ends: 3:40
+    type: betting
+  - id: boss_battle_kirby_star_allies
+    title: "Boss Battle"
+    path: "BossLong.dspadpcm.bfstm"
+    type: battle
+  - id: his_royal_nemesis_king_dedede
+    title: "His Royal Nemesis: King Dedede"
+    path: "ddd.dspadpcm.bfstm"
+    type: battle
+  - id: the_lone_swordsman_meta_knight
+    title: "The Lone Swordsman: Meta Knight"
+    path: "ECL_LP_ECMETABOSS1.dspadpcm.bfstm"
+    type: betting
+  - id: song_of_supplication
+    title: "Song of Supplication"
+    path: "EP3BOSS.dspadpcm.bfstm"
+    type: betting
+  - id: song_of_supplication_zan_partizanne
+    title: "Song of Supplication (Zan Partizanne)"
+    path: "sanmaHead.dspadpcm.bfstm"
+    type: battle
+  - id: officiant_of_doom_hyness
+    title: "Officiant of Doom: Hyness"
+    path: "ECL_LP_BOSSLAST2.dspadpcm.bfstm"
+    type: battle
+  - id: void_soul
+    title: "Void Soul"
+    path: "LastBoass4.dspadpcm.bfstm"
+    type: battle
+  - id: star_allies_sparkler
+    title: "Star Allies Sparkler"
+    path: "akarui4.dspadpcm.bfstm"
+    type: battle
+  - id: reborn_butterfly_morpho_knight
+    title: "Reborn Butterfly: Morpho Knight"
+    path: "B_Night.dspadpcm.bfstm"
+    type: battle
+...

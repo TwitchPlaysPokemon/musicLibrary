@@ -1,0 +1,13 @@
+---
+id: panzer_dragoon
+title: "Panzer Dragoon"
+series: panzerdragoon
+platform: ["Saturn", "PC", "PS2"]
+year: 1995
+songs: 
+  - id: flight
+    title: "Flight"
+    path: "GS-9015_03.mp3"
+    ends: 3:23
+    type: betting
+...

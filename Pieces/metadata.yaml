@@ -1,0 +1,43 @@
+﻿---
+id: pieces
+title: "Pieces"
+platform: "SNES"
+year: 1994
+songs:
+  - id: puzzle_music_1
+    title: "Puzzle Music 1"
+    path: "Puzzle Music 1.spc"
+    type: betting
+  - id: puzzle_music_2
+    title: "Puzzle Music 2"
+    path: "Puzzle Music 2.spc"
+    type: betting
+  - id: main_theme_pieces
+    title: "Main Theme"
+    path: "Main Theme.spc"
+    type: result
+  - id: menus_pieces
+    title: "Menus"
+    path: "Menus.spc"
+    type: result
+  - id: bonus_game_results_pieces
+    title: "Bonus Game Results"
+    path: "Bonus Game Results.spc"
+    type: result
+  - id: character_introduction_pieces
+    title: "Character Introduction"
+    path: "Character Introduction.spc"
+    type: warning
+  - id: bonus_game_pieces
+    title: "Bonus Game"
+    path: "Bonus Game.spc"
+    type: warning
+  - id: puzzle_music_3
+    title: "Puzzle Music 3"
+    path: "Puzzle Music 3.spc"
+    type: break
+  - id: puzzle_music_4
+    title: "Puzzle Music 4"
+    path: "Puzzle Music 4.spc"
+    type: break
+...

@@ -5,6 +5,10 @@ series: mario
 platform: "Wii"
 year: 2010
 songs: 
+  - id: beat_block_galaxy
+    title: "Beat Block Galaxy"
+    path: "Beat Block Galaxy.brstm"
+    type: betting
   - id: bowsers_galaxy_generator_smg2
     title: "Bowser's Galaxy Generator"
     path: "SMG2_galaxy20_strm.ast"
@@ -17,6 +21,18 @@ songs:
     title: "Bowser's Lava Lair"
     path: "SMG2_galaxy15_strm.ast"
     type: betting
+  - id: flip_swap_galaxy
+    title: "Flip-Swap Galaxy"
+    path: "SMG2_galaxy04_strm.ast"
+    type: betting
+  - id: flipville_galaxy
+    title: "Flipsville Galaxy"
+    path: "SMG2_galaxy14_strm.ast"
+    type: betting
+  - id: green_star
+    title: "Green Star"
+    path: "World 1 Map (After 120 Stars).brstm"
+    type: betting
   - id: melty_monster_galaxy
     title: "Melty Monster Galaxy"
     path: "SMG2_galaxy30_strm.ast"
@@ -24,6 +40,10 @@ songs:
   - id: puzzle_plank_galaxy
     title: "Puzzle Plank Galaxy"
     path: "SMG2_galaxy29_strm.ast"
+    type: betting
+  - id: rightside_down_galaxy
+    title: "Rightside Down Galaxy"
+    path: "SMG2_galaxy03_multi.ast"
     type: betting
   - id: sky_station_galaxy_1
     title: "Sky Station Galaxy"
@@ -33,9 +53,13 @@ songs:
     title: "Space Storm Galaxy"
     path: "SMG2_galaxy12_strm.ast"
     type: betting
-  - id: starshine_beach_galaxy_-_underwater
+  - id: starshine_beach_galaxy_underwater
     title: "Starshine Beach Galaxy ~Underwater~"
     path: "Starshine Beach Galaxy - Underwater.brstm"
+    type: betting
+  - id: starship_mario_3
+    title: "Starship Mario 3"
+    path: "SMG2_mario_ship03_strm.ast"
     type: betting
   - id: throwback_galaxy
     title: "Throwback Galaxy"
@@ -53,9 +77,21 @@ songs:
     title: "Boss Blitz Galaxy"
     path: "Boss Blitz Galaxy.brstm"
     type: warning
+  - id: cosmic_clones
+    title: "Cosmic Clones"
+    path: "SMG2_galaxy22_multi.ast"
+    type: warning
+  - id: digga_leg
+    title: "Digga-Leg"
+    path: "SMG2_boss08a_strm.ast"
+    type: warning
   - id: final_bowser_battle
     title: "Final Bowser Battle"
     path: "SMG2_boss10_strm.ast"
+    type: warning
+  - id: glamdozer
+    title: "Glamdozer"
+    path: "SMG2_boss02a_strm.ast"
     type: warning
   - id: hurry_smg2
     title: "Speed Run"
@@ -69,6 +105,10 @@ songs:
     title: "Tension"
     path: "SMG2_galaxy_danger_strm.ast"
     type: warning
+  - id: glider_minigame
+    title: "Glider Minigame"
+    path: "SMG2_ev_glider_strm.ast"
+    type: result
   - id: freezy_flake_galaxy
     title: "Freezy Flake Galaxy"
     path: "SMG2_galaxy19_strm.ast"

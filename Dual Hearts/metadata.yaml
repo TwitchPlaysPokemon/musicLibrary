@@ -1,4 +1,4 @@
----
+﻿---
 id: dual_hearts
 title: "Dual Hearts"
 year: 2002
@@ -6,38 +6,118 @@ platform: "PS2"
 songs:
   - id: sonno_village
     title: "Sonno Village"
-    path: "Sonno Village.brstm"
+    path: "Sonno Village.GENH"
     type: betting
   - id: florences_dream
     title: "Florence's Dream"
-    path: "Florence's Dream.brstm"
+    path: "Florence's Dream.GENH"
+    type: betting
+  - id: yuris_dream_ruins
+    title: "Yuri's Dream (Ruins)"
+    path: "Yuri's Dream (Ruins).GENH"
+    type: betting
+  - id: santas_dream_2
+    title: "Santa's Dream 2"
+    path: "Santa's Dream 2.GENH"
+    type: betting
+  - id: hannahs_dream
+    title: "Hannah's Dream"
+    path: "Hannah's Dream.GENH"
     type: betting
   - id: emmas_dream
     title: "Emma's Dream"
-    path: "Emma's Dream.brstm"
+    path: "Emma's Dream.GENH"
     type: betting
-  - id: lilians_dream_2
-    title: "Lilian's Dream 2"
-    path: "Lilian's Dream 2.brstm"
-    type: result
+  - id: race_theme_1_dual_hearts
+    title: "Race Theme 1"
+    path: "Race Theme 1.GENH"
+    type: battle
+  - id: mini_game_theme_dual_hearts
+    title: "Mini Game Theme"
+    path: "Mini Game Theme.GENH"
+    type: battle
+  - id: boss_battle_dual_hearts
+    title: "Boss Battle"
+    path: "Boss Battle.GENH"
+    type: battle
   - id: bar_dual_hearts
     title: "Bar"
-    path: "Bar.brstm"
-    type: betting
+    path: "Bar.GENH"
+    type: result
+  - id: gameplay_demo_dual_hearts
+    title: "Gameplay Demo"
+    path: "Gameplay Demo.GENH"
+    type: result
+  - id: race_theme_2
+    title: "Race Theme 2"
+    path: "Race Theme 2.GENH"
+    type: result
+  - id: bakus_theme
+    title: "Baku's Theme"
+    path: "Baku's Theme.GENH"
+    type: result
+  - id: vals_dream
+    title: "Val's Dream"
+    path: "Val's Dream.GENH"
+    type: warning
+  - id: yuris_dream_deeper_ruins
+    title: "Yuri's Dream (Deeper Ruins)"
+    path: "Yuri's Dream (Deeper Ruins).GENH"
+    type: warning
+  - id: santas_dream_1
+    title: "Santa's Dream 1"
+    path: "Santa's Dream 1.GENH"
+    type: warning
+  - id: mctuves_dream
+    title: "McTuve's Dream"
+    path: "McTuve's Dream.GENH"
+    type: warning
+  - id: battle_theme_2_dual_hearts
+    title: "Battle Theme 2"
+    path: "Battle Theme 2.GENH"
+    type: warning
+  - id: queen_battle_dual_hearts
+    title: "Queen Battle"
+    path: "Queen Battle.GENH"
+    type: warning
   - id: sleepy_hill
     title: "Sleepy Hill"
-    path: "Sleepy Hill.brstm"
+    path: "Sleepy Hill.GENH"
+    type: break
+  - id: vals_dream_true_feelings
+    title: "Val's Dream (True Feelings)"
+    path: "Val's Dream (True Feelings).GENH"
+    type: break
+  - id: santas_dream_ice_temple
+    title: "Santa's Dream (Ice Temple)"
+    path: "Santa's Dream (Ice Temple).GENH"
+    type: break
+  - id: chiffons_dream_frozen
+    title: "Chiffon's Dream (Frozen)"
+    path: "Chiffon's Dream (Frozen).GENH"
+    type: break
+  - id: chiffons_dream_restored
+    title: "Chiffon's Dream (Restored)"
+    path: "Chiffon's Dream (Restored).GENH"
+    type: break
+  - id: lilians_dream
+    title: "Lilian's Dream"
+    path: "Lilian's Dream.GENH"
+    type: break
+  - id: gregors_dream
+    title: "Gregor's Dream"
+    path: "Gregor's Dream.GENH"
+    type: break
+  - id: phoebes_dream
+    title: "Phoebe's Dream"
+    path: "Phoebe's Dream.GENH"
+    type: break
+  - id: dual_hearts
+    title: "Dual Hearts"
+    path: "Dual Hearts.GENH"
     type: break
   - id: sheeps_dream
     title: "Sheep's Dream"
-    path: "Sheep's Dream.brstm"
-    type: break
-  - id: chiffons_dream_1
-    title: "Chiffon's Dream 1"
-    path: "Chiffon's Dream 1.brstm"
-    type: break
-  - id: chiffons_dream_2
-    title: "Chiffon's Dream 2"
-    path: "Chiffon's Dream 2.brstm"
+    path: "Sheep's Dream.GENH"
     type: break
 ...

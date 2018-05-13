@@ -6,7 +6,7 @@ platform: "Various"
 year: 2017
 songs: 
   - id: blue_sphere_bonus_sonic_mania
-    title: "Blue Sphere Bonus"
+    title: "Blue Spheres"
     path: "BlueSpheres.logg"
     type: betting
   - id: ruby_delusions_eggman_boss_1
@@ -18,7 +18,7 @@ songs:
     path: "BossFinal.logg"
     type: battle
   - id: hi_spec_robo_go_hard_boiled_heavies_boss
-    title: "Hi Spec Robo Go! (Hard Boiled Heavies Boss)"
+    title: "Hi-Spec Robo Go! (Hard Boiled Heavies Boss)"
     path: "BossHBH.logg"
     type: betting
   - id: danger_on_the_dance_floor_mini_boss
@@ -42,15 +42,15 @@ songs:
     path: "Competition.logg"
     type: result
   - id: credits_sonic_mania
-    title: "Credits"
+    title: "Guided Tour (Credits)"
     path: "Credits.logg"
     type: result
   - id: egg_reverie_boss
-    title: "Egg Reverie Boss"
+    title: "Egg Reverie Zone Boss"
     path: "EggReverie.logg"
     type: battle
   - id: egg_reverie_pinch_mode
-    title: "Egg Reverie Pinch Mode"
+    title: "Egg Panicky (Egg Reverie Pinch Mode)"
     path: "EggReveriePinch.logg"
     type: warning
   - id: flying_battery_zone_act_1_sonic_mania
@@ -66,7 +66,7 @@ songs:
     path: "GreenHill2.logg"
     type: betting
   - id: hard_boiled_heavies_mischief_theme
-    title: "Hard Boiled Heavies Mischief Theme"
+    title: "Who's the Boss? (Hard Boiled Heavies Mischief Theme)"
     path: "HBHMischief.logg"
     type: warning
   - id: hydrocity_zone_act_1_sonic_mania
@@ -78,7 +78,7 @@ songs:
     path: "Hydrocity2.logg"
     type: betting
   - id: invincible_sonic_mania
-    title: "Invincible"
+    title: "Undefeated (Invincible)"
     path: "Invincible.logg"
     type: result
   - id: lava_reef_zone_act_1_sonic_mania
@@ -90,7 +90,7 @@ songs:
     path: "LavaReef2.logg"
     type: betting
   - id: main_menu_sonic_mania
-    title: "Main Menu"
+    title: "Comfort Zone (Main Menu)"
     path: "MainMenu.logg"
     type: result
   - id: metallic_madness_zone_act_1
@@ -106,15 +106,15 @@ songs:
     path: "MetalSonic.logg"
     type: battle
   - id: mirage_saloon_zone_act_1_st
-    title: "Mirage Saloon Zone, Act 1 ST"
+    title: "Skyway Octane (Mirage Saloon Zone, Act 1 ST)"
     path: "MirageSaloon1.logg"
     type: betting
   - id: mirage_saloon_zone_act_1_k
-    title: "Mirage Saloon Zone, Act 1 K"
+    title: "Wildstyle Pistolero (Mirage Saloon Zone, Act 1 K)"
     path: "MirageSaloon1K.logg"
     type: betting
   - id: mirage_saloon_zone_act_2
-    title: "Mirage Saloon Zone, Act 2"
+    title: "Rogues Gallery (Mirage Saloon Zone, Act 2)"
     path: "MirageSaloon2.logg"
     type: betting
   - id: oil_ocean_zone_act_1_sonic_mania
@@ -126,15 +126,15 @@ songs:
     path: "OilOcean2.logg"
     type: betting
   - id: press_garden_zone_act_1
-    title: "Press Garden Zone, Act 1"
+    title: "Tabloid Jargon (Press Garden Zone, Act 1)"
     path: "PulpSolstice1.logg"
     type: betting
   - id: press_garden_zone_act_2
-    title: "Press Garden Zone, Act 2"
+    title: "Blossom Haze (Press Garden Zone, Act 2)"
     path: "PulpSolstice2.logg"
     type: betting
   - id: results_screen_sonic_mania
-    title: "Results Screen"
+    title: "The Winner! (Results Screen)"
     path: "Results.logg"
     type: result
   - id: sunshine_cassette_save_select
@@ -142,7 +142,7 @@ songs:
     path: "SaveSelect.logg"
     type: betting
   - id: speed_up_sonic_mania
-    title: "Speed Up"
+    title: "The Blur (Speed Up)"
     path: "Sneakers.logg"
     type: warning
   - id: stardust_speedway_zone_act_1_sonic_mania
@@ -162,15 +162,15 @@ songs:
     path: "Studiopolis2.logg"
     type: betting
   - id: super_sonic_mania
-    title: "Super"
+    title: "Glimmering Gift (Super Transformation)"
     path: "Super.logg"
     type: warning
   - id: titanic_monarch_zone_act_1
-    title: "Titanic Monarch Zone, Act 1"
+    title: "Built to Rule (Titanic Monarch Zone, Act 1)"
     path: "TitanicMonarch1.logg"
     type: betting
   - id: titanic_monarch_zone_act_2
-    title: "Titanic Monarch Zone, Act 2"
+    title: "Steel Cortex (Titanic Monarch Zone, Act 2)"
     path: "TitanicMonarch2.logg"
     type: betting
   - id: this_horizon_knuckles_and_knuckles_ending

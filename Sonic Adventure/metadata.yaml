@@ -6,43 +6,43 @@ platform: "DC"
 year: 1998
 songs:
   - id: boss_chaos_ver_6
-    title: "Boss Chaos ver. 6"
+    title: "Boss: CHAOS ver.6"
     path: "Boss Chaos ver. 6.brstm"
     type: battle
   - id: chaos_ver_0_2_4
-    title: "Chaos Ver. 0, 2, 4"
+    title: "Boss: CHAOS ver.0, 2, 4"
     path: "Chaos Ver. 0, 2, 4.brstm"
     type: battle
   - id: crazy_robo_boss_e101r
-    title: "Crazy Robo Boss E-101r"
+    title: "Crazy Robo ...Boss: E-101R"
     path: "Crazy Robo Boss E-101r.brstm"
     type: battle
   - id: egg_mobile_boss_egg_hornet
-    title: "Egg Mobile Boss Egg Hornet"
+    title: "Egg Mobile ...Boss: Egg Hornet"
     path: "Egg Mobile Boss Egg Hornet.brstm"
     type: battle
   - id: fight_for_my_own_way
-    title: "Fight for My Own Way Boss Event"
+    title: "Fight for My Own Way ...Boss Event"
     path: "Fight for My Own Way Boss Event.brstm"
     type: battle
   - id: heartless_colleague_boss
-    title: "Heartless Colleague Boss E-Series Targets"
+    title: "Heartless Colleague ...Boss E-Series Targets"
     path: "Heartless Colleague Boss E-Series Targets.brstm"
     type: battle
   - id: zero_the_chase_master
-    title: "Zero the Chase-Master Boss Eggman Robot Zero"
+    title: "Zero the Chase-Master ...Boss Eggman Robot Zero"
     path: "Zero the Chase-Master Boss Eggman Robot Zero.brstm"
     type: battle
   - id: at_dawn_for_speed_highway
-    title: "At Dawn for Speed Highway"
+    title: "At Dawn ...for Speed Highway"
     path: "At Dawn for Speed Highway.brstm"
     type: betting
   - id: azure_blue_world
-    title: "Azure Blue World for Emerald Coast"
+    title: "Azure Blue World ...for Emerald Coast"
     path: "Azure Blue World for Emerald Coast.brstm"
     type: betting
   - id: bad_taste_aquarium
-    title: "Bad Taste Aquarium for Hot Shelter"
+    title: "Bad Taste Aquarium ...for Hot Shelter"
     path: "Bad Taste Aquarium for Hot Shelter.brstm"
     type: betting
   - id: big_fishes_emerald_coast
@@ -50,60 +50,60 @@ songs:
     path: "Big Fishes at Emerald Coast.brstm"
     type: betting
   - id: blue_star_ casinopolis
-    title: "Blue Star for Casinopolis"
+    title: "Blue Star ...for Casinopolis"
     path: "Blue Star for Casinopolis.brstm"
     type: betting
   - id: crank_the_heat_up
-    title: "Crank the Heat Up for Final Egg"
+    title: "Crank the Heat Up for ...Final Egg"
     path: "Crank the Heat Up for Final Egg.brstm"
     type: betting
   - id: dilapidated_way_casinopolis
-    title: "Dilapidated Way for Casinopolis"
+    title: "Dilapidated Way ...for Casinopolis"
     path: "Dilapidated Way for Casinopolis.brstm"
     type: betting
   - id: mt_red_symbol_of_thrill
-    title: "Mt. Red, a Symbol of Thrill for Red Mountain"
+    title: "Mt. Red: a Symbol of Thrill ...for Red Mountain"
     path: "Mt. Red, a Symbol of Thrill for Red Mountain.brstm"
     type: betting
   - id: pleasure_castle
-    title: "Pleasure Castle for Twinkle Park"
+    title: "Pleasure Castle ...for Twinkle Park"
     path: "Pleasure Castle for Twinkle Park.brstm"
     type: betting
   - id: red_barrage_area
-    title: "Red Barrage Area for Hot Shelter"
+    title: "Red Barrage Area ...for Hot Shelter"
     path: "Red Barrage Area for Hot Shelter.brstm"
     type: betting
   - id: run_through_the_speed_highway
-    title: "Run Through the Speed Highway for Speed Highway"
+    title: "Run Through the Speed Highway ...for Speed Highway"
     path: "Run Through the Speed Highway for Speed Highway.brstm"
     type: betting
   - id: skydeck_a_go_go
-    title: "Skydeck a Go Go for Sky Deck"
+    title: "Skydeck A Go! Go! ...for Sky Deck"
     path: "Skydeck a Go Go for Sky Deck.brstm"
     type: betting
   - id: snowy_mountain
-    title: "Snowy Mountain for Icecap"
+    title: "Snowy Mountain ...for Icecap"
     path: "Snowy Mountain for Icecap.brstm"
     tags: [xmas]
     type: betting
   - id: the_air_windy_valley
-    title: "The Air for Windy Valley"
+    title: "The Air ...for Windy Valley"
     path: "The Air for Windy Valley.brstm"
     type: betting
   - id: the_dreamy_stage
-    title: "The Dreamy Stage for Casinopolis"
+    title: "The Dreamy Stage ...for Casinopolis"
     path: "The Dreamy Stage for Casinopolis.brstm"
     type: betting
   - id: theme_of_e102_gamma
-    title: "Theme of E-102 Gamma"
+    title: "Theme of \"E-102γ\""
     path: "Theme of E-102 Gamma.brstm"
     type: betting
   - id: tricky_maze_lost_world
-    title: "Tricky Maze for Lost World"
+    title: "Tricky Maze for ...Lost World"
     path: "Tricky Maze for Lost World.brstm"
     type: betting
   - id: twinkle_cart
-    title: "Twinkle Cart for Twinkle Park"
+    title: "Twinkle Cart ...for Twinkle Park"
     path: "Twinkle Cart for Twinkle Park.brstm"
     type: betting
   - id: twinkle_circuit
@@ -111,7 +111,7 @@ songs:
     path: "Twinkle Circuit.brstm"
     type: betting
   - id: egg_carrier_on_the_move
-    title: "Egg Carrier, A Song That Keeps Us on the Move"
+    title: "Egg Carrier - A Song That Keeps Us On The Move"
     path: "Egg Carrier A Song That Keeps Us on the Move.brstm"
     type: break
 #      - id: event_sadness
@@ -120,28 +120,28 @@ songs:
 #        type: result
 # how did I miss this
   - id: join_us_4_happy_time
-    title: "Join Us 4 Happy Time"
+    title: "Join Us 4 Happy Time ...for CHAO Race"
     path: "Join Us 4 Happy Time.brstm"
     type: result
   - id: leading_lights_lost_world
-    title: "Leading Lights for Lost World"
+    title: "Leading Lights ...for Lost World"
     path: "Leading Lights for Lost World.brstm"
     type: result
   - id: hedgehog_hammer
-    title: "Sweet Punch for Hedgehog Hammer"
+    title: "Sweet Punch ...for Hedgehog Hammer"
     path: "Sweet Punch for Hedgehog Hammer.brstm"
     type: result
   - id: and_fish_hits
-    title: "And Fish Hits"
+    title: "And ...Fish Hits"
     path: "And Fish Hits.brstm"
     type: warning
   - id: be_cool_wild_and_groovy
-    title: "Be Cool, Be Wild and Be Groovy for Icecap"
+    title: "Be Cool, Be Wild and Be Groovy ...for Ice Cap"
     path: "Be Cool, Be Wild and Be Groovy for Icecap.brstm"
     tags: [xmas]
     type: warning
   - id: danger_chased_by_rock
-    title: "Danger Chased by Rock for Lost World"
+    title: "Danger Chased by Rock for ...Lost World"
     path: "Danger Chased by Rock for Lost World.brstm"
     type: warning
   - id: danger_is_imminent
@@ -153,23 +153,23 @@ songs:
     path: "Event - Strain.brstm"
     type: warning
   - id: general_offensive
-    title: "General Offensive for Sky Deck"
+    title: "General Offensive ...for Sky Deck"
     path: "General Offensive for Sky Deck.brstm"
     type: battle
   - id: goin_down_speed_highway
-    title: "Goin Down' for Speed Highway (Autodemo)"
+    title: "Goin Down' ...for Speed Highway (Autodemo)"
     path: "Goin Down' for Speed Highway (Autodemo).brstm"
     type: warning
   - id: militant_missionary_egg_walker_viper
-    title: "Militant Missionary Boss Egg Walker & Egg Viper"
+    title: "Militant Missionary ...Boss Egg Walker & Egg Viper"
     path: "Militant Missionary Boss Egg Walker & Egg Viper.brstm"
     type: battle
   - id: tornado_and_scramble
-    title: "Tornado & Scramble for Sky Chase"
+    title: "Tornado & Scramble ...for Sky Chase"
     path: "Tornado & Scramble for Sky Chase.brstm"
     type: warning
   - id: tornado_windy_valley
-    title: "Tornado for Windy Valley"
+    title: "Tornado ...for Windy Valley"
     path: "Tornado for Windy Valley.brstm"
     type: warning
   - id: unknown_from_me

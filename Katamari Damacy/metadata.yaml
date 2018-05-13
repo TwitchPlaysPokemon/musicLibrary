@@ -14,9 +14,26 @@ songs:
     title: "Yuri Misumi - The Wonderful Star's Walk is Wonderful"
     path: "The Wonderful Star's Walk is Wonderful.flac"
     type: betting
+  - id: que_sera_sera
+    title: "Que Sera Sera"
+    path: "12 - Asuka Sakai & Charlie Kosei - Que Sera Sera.mib"
+    type: betting
+  - id: katamaritaino_roll_me_in
+    title: "Katamaritaino (Roll Me In)"
+    path: "14 - Hideki Tobeta & Yui Asaka - Katamaritaino.mib"
+    ends: 2:43
+    type: betting
   - id: katamari_stars
     title: "Hideki Tobeta - Katamari Stars"
-    ends: 1:36
     path: "15 - Hideki Tobeta - Katamari Stars.mib"
+    ends: 1:36
     type: break
+  - id: lovely_angel
+    title: "Lovely Angel"
+    path: "17 - Yu Miyake - Lovely Angel.mib"
+    type: result
+  - id: katamari_march_damacy
+    title: "Katamari March Damacy"
+    path: "BGM02.mib"
+    type: result
 ...

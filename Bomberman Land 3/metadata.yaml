@@ -1,0 +1,20 @@
+﻿---
+id: bomberman_land_3
+title: "Bomberman Land 3"
+series: bomberman
+platform: "PS2"
+year: 2005
+songs:
+  - id: blue_zone_theme
+    title: "Blue Zone Theme"
+    path: "Blue Zone Theme.psf2"
+    type: betting
+  - id: yellow_zone_theme
+    title: "Yellow Zone Theme"
+    path: "Yellow Zone Theme.psf2"
+    type: betting
+  - id: bom_paradise
+    title: "Bom Paradise"
+    path: "Bom Paradise.psf2"
+    type: break
+...

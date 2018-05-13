@@ -1,9 +1,8 @@
 ---
 id: nintendo_3ds_system
 title: "Nintendo 3DS System"
-series: systemfirmware
-year: 2011
 platform: "3DS"
+year: 2011
 songs:
   - id: find_mii_to_battle_heroes
     title: "Find Mii - To Battle, Heroes!"
@@ -30,5 +29,33 @@ songs:
     title: "Ground Theme (Holiday Version) (Custom Menu Theme)"
     path: "Ground Theme (Holiday Version) (Custom Menu Theme).brstm"
     tags: [xmas]
+    type: betting
+  - id: find_mii_ii_save_the_world_heroes
+    title: "Find Mii II - Save the World, Heroes!"
+    path: "Find Mii II - Save the World, Heroes!.brstm"
+    type: betting
+  - id: nintendo_eshop_3ds
+    title: "Nintendo eShop"
+    path: "Nintendo eShop.brstm"
+    type: break
+  - id: famicom_memories
+    title: "Famicom Memories"
+    path: "Famicom Memories (Custom Menu theme).brstm"
+    type: betting
+  - id: flower_garden
+    title: "Flower Garden"
+    path: "Flower Garden (Custom Menu Theme).brstm"
+    type: betting
+  - id: gourmet_race_brass_band_version
+    title: "Gourmet Race (Brass Band Version)"
+    path: "Gourmet Race (Brass Band Version) (Custom Menu Theme).brstm"
+    type: betting
+  - id: green_greens_pop_version
+    title: "Green Greens (Pop Version)"
+    path: "Green Greens (Pop Version) (Custom Menu Theme).brstm"
+    type: betting
+  - id: green_greens_peanut_plains_acoustic_version
+    title: "Green Greens & Peanut Plains (Acoustic Version)"
+    path: "Green Greens & Peanut Plains (Acoustic Version) (Custom Menu Theme).brstm"
     type: betting
 ...

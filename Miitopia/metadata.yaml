@@ -8,6 +8,10 @@ songs:
     title: "A Pioneer's Pride"
     path: "bgm_map_stage_explorer.dspadpcm.bcstm"
     type: betting
+  - id: a_simple_traveler
+    title: "A Simple Traveler"
+    path: "bgm_demo_intro_plain.dspadpcm.bcstm"
+    type: betting
   - id: battle_nimbus
     title: "Battle: Nimbus"
     path: "BGM_BATTLE_EXTRA_CLOUD.bcstm"

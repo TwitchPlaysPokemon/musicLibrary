@@ -73,4 +73,12 @@ songs:
     title: "Will Power"
     path: "bgm_0000003F.adx"
     type: battle
+  - id: destiny_land
+    title: "Destiny Land"
+    path: "Destiny Land.brstm"
+    type: result
+  - id: wicked_plan
+    title: "Wicked Plan"
+    path: "Wicked Plan.adx"
+    type: betting
 ...

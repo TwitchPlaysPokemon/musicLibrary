@@ -1,0 +1,56 @@
+---
+id: power_rangers_time_force_gbc
+title: "Power Rangers Time Force"
+series: power_rangers
+platform: "GBC"
+year: 2001
+songs:
+  - id: a_new_mission_power_rangers_time_force_gbc
+    title: "A New Mission!"
+    path: "New Mission.mp3"
+    type: warning
+  - id: boss_battle_power_rangers_time_force_gbc
+    title: "Boss Battle"
+    path: "Boss Battle.mp3"
+    type: betting
+  - id: continue_power_rangers_time_force_gbc
+    title: "Continue?"
+    path: "Continue.mp3"
+    type: warning
+  - id: main_menu_power_rangers_time_force_gbc
+    title: "Main Menu"
+    path: "Main Menu.mp3"
+    type: betting
+  - id: title_screen_power_rangers_time_force_gbc
+    title: "Title Screen"
+    path: "Title Screen.mp3"
+    type: warning
+  - id: ranger_selection_power_rangers_time_force_gbc
+    title: "Ranger Selection"
+    path: "Selection.mp3"
+    type: betting
+  - id: unused_track_2_power_rangers_time_force_gbc
+    title: "Unused Track 2"
+    path: "Unused Track 2.mp3"
+    type: warning
+  - id: silver_hills_present_day_power_rangers_time_force_gbc
+    title: "Silver Hills - Present Day"
+    path: "Silver Hills.brstm"
+    type: battle
+  - id: secret_base_present_day_power_rangers_time_force_gbc
+    title: "Secret Base - Present Day"
+    path: "Secret Base.brstm"
+    type: battle
+  - id: jungle_in_the_past_power_rangers_time_force_gbc
+    title: "Jungle - In the Past"
+    path: "Jungle.mp3"
+    type: result
+  - id: times_is_running_out_power_rangers_time_force_gbc
+    title: "Time is Running Out!"
+    path: "Time Up.mp3"
+    type: warning
+  - id: credits_power_rangers_time_force_gbc
+    title: "Credits"
+    path: "Credits.brstm"
+    type: break
+...

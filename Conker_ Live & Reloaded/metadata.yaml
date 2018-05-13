@@ -1,20 +1,33 @@
 ---
-id: conker__live__reloaded
+id: conker_live_reloaded
 title: "Conker: Live & Reloaded"
 series: conker
-year: 2005
 platform: "Xbox"
+year: 2005
 songs:
-  - id: windy
+  - id: windy_conker_live_reloaded
     title: "Windy"
     path: "Windy.GENH"
     type: betting
-  - id: ole
+  - id: ole_conker_live_reloaded
     title: "Olé"
     path: "Ole.GENH"
     type: battle
-  - id: the_old_chap
+  - id: the_old_chap_conker_live_reloaded
     title: "The Old Chap"
     path: "The Old Chap.GENH"
     type: result
+  - id: bats_conker_live_reloaded
+    title: "Bats"
+    path: "M Spooky Lp - 00001.GENH"
+    type: betting
+  - id: rock_solid_conker_live_reloaded
+    title: "Rock Solid"
+    path: "M Ugabuga Lp - 00010.GENH"
+    ends: 3:08
+    type: betting
+  - id: surf_punks_conker_live_reloaded
+    title: "Surf Punks"
+    path: "M Ugabuga Lp - 00009.GENH"
+    type: betting
 ...

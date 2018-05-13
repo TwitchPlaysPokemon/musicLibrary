@@ -33,13 +33,13 @@ songs:
     title: "GBA Bowser Castle 3"
     path: "r_AGB_Kuppa32_n.brstm"
     type: battle
-  - id: dk_s_snowboard_cross_dk_summit
-    title: "DK’s Snowboard Cross_DK Summit"
+  - id: dk_summit
+    title: "DK Summit"
     path: "DK’s Snowboard Cross_DK Summit.brstm"
     tags: [xmas]
     type: betting
-  - id: dk_s_snowboard_cross_fast
-    title: "DK’s Snowboard Cross (Fast)"
+  - id: dk_summit_fast
+    title: "DK Summit (Fast)"
     path: "DK’s Snowboard Cross (Fast).brstm"
     tags: [xmas]
     type: warning
@@ -47,5 +47,21 @@ songs:
     title: "N64 Sherbet Land (Frontrunning)"
     path: "N64 Sherbet Land (Frontrunning).brstm"
     tags: [xmas]
+    type: betting
+  - id: funky_stadium
+    title: "Funky Stadium"
+    path: "n_skate_n.brstm"
+    type: betting
+  - id: start_your_engines_wi_fi
+    title: "Start Your Engines (Wi-Fi)"
+    path: "o_Crs_In_Fan_Wifi.brstm"
+    type: warning
+  - id: toad_s_factory
+    title: "Toad's Factory"
+    path: "STRM_N_FACTORY_N.brstm"
+    type: betting
+  - id: wario_s_gold_mine
+    title: "Wario's Gold Mine"
+    path: "STRM_N_TRUCK_N.brstm"
     type: betting
 ...

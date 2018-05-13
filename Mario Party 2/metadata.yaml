@@ -121,4 +121,12 @@ songs:
     title: "Going Somewhere"
     path: "36 Going Somewhere.miniusf"
     type: result
+  - id: welcome_to_mario_land_mp2
+    title: "Welcome to Mario Land"
+    path: "05 Welcome to Mario Land.miniusf"
+    type: betting
+  - id: take_the_coin_mp2
+    title: "Take the Coin"
+    path: "44 Take the Coin.miniusf"
+    type: result
 ...

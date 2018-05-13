@@ -29,11 +29,6 @@ songs:
     title: "Dessert"
     path: "07 - Dessert.miniusf"
     type: betting
-#       - id: realtor
-#         title: "Realtor"
-#         path: "08 - Realtor.miniusf"
-#         type: betting
-#     Team voted to Remove
   - id: mimesis
     title: "Mimesis"
     path: "11 - Mimesis.miniusf"
@@ -54,11 +49,10 @@ songs:
     title: "Fatidic"
     path: "09 - Fatidic.miniusf"
     type: break
-#      - id: milky
-#        title: "Milky"
-#        path: "16 - Milky.miniusf"
-#        type: result
-# unfitting result song
+  - id: milky
+    title: "Milky"
+    path: "16 - Milky.miniusf"
+    type: break
   - id: spiral
     title: "Spiral"
     path: "13 - Spiral.miniusf"

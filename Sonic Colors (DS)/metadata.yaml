@@ -5,8 +5,136 @@ series: sonic
 platform: ["Wii", "NDS"]
 year: 2010
 songs:
-  - id: vs_nega_wisp_armor_phase_2_final_boss_ds
+  - id: tropical_resort_act_1_ds
+    title: "Tropical Resort - Act 1"
+    path: "02 - Tropical Resort - Act 1.mini2sf"
+    type: betting
+  - id: area_tropical_resort_ds
+    title: "Area - Tropical Resort"
+    path: "03 - Area - Tropical Resort.mini2sf"
+    type: betting
+  - id: tropical_resort_act_2_ds
+    title: "Tropical Resort - Act 2"
+    path: "04 - Tropical Resort - Act 2.mini2sf"
+    type: betting
+  - id: tropical_resort_act_3_ds
+    title: "Tropical Resort - Act 3"
+    path: "06 - Tropical Resort - Act 3.mini2sf"
+    type: betting
+  - id: vs_globotron_drillinator_ds
+    title: "vs. Globotron & Drillinator"
+    path: "08 - vs. Globotron & Drillinator.mini2sf"
+    type: warning
+  - id: cutscene_yacker_s_plea_ds
+    title: "Cutscene - Yacker's Plea"
+    path: "09 - Cutscene - Yacker's Plea.mini2sf"
+    type: warning
+  - id: vs_captain_jelly_admiral_jelly_ds
+    title: "vs. Captain Jelly & Admiral Jelly"
+    path: "16 - vs. Captain Jelly & Admiral Jelly.mini2sf"
+    type: battle
+  - id: starlight_carnival_act_1_ds
+    title: "Starlight Carnival - Act 1"
+    path: "19 - Starlight Carnival - Act 1.mini2sf"
+    type: betting
+  - id: area_starlight_carnival_ds
+    title: "Area - Starlight Carnival"
+    path: "20 - Area - Starlight Carnival.mini2sf"
+    type: betting
+  - id: starlight_carnival_act_2_ds
+    title: "Starlight Carnival - Act 2"
+    path: "21 - Starlight Carnival - Act 2.mini2sf"
+    type: betting
+  - id: starlight_carnival_act_3_ds
+    title: "Starlight Carnival - Act 3"
+    path: "22 - Starlight Carnival - Act 3.mini2sf"
+    type: betting
+  - id: area_planet_wisp_ds
+    title: "Area - Planet Wisp"
+    path: "24 - Area - Planet Wisp.mini2sf"
+    type: betting
+  - id: planet_wisp_act_1_ds
+    title: "Planet Wisp - Act 1"
+    path: "25 - Planet Wisp - Act 1.mini2sf"
+    type: betting
+  - id: planet_wisp_act_2_ds
+    title: "Planet Wisp - Act 2"
+    path: "28 - Planet Wisp - Act 2.mini2sf"
+    type: betting
+  - id: planet_wisp_act_3_ds
+    title: "Planet Wisp - Act 3"
+    path: "30 - Planet Wisp - Act 3.mini2sf"
+    type: betting
+  - id: aquarium_park_act_1_ds
+    title: "Aquarium Park - Act 1"
+    path: "33 - Aquarium Park - Act 1.mini2sf"
+    type: betting
+  - id: area_aquarium_park_ds
+    title: "Area - Aquarium Park"
+    path: "34 - Area - Aquarium Park.mini2sf"
+    type: betting
+  - id: aquarium_park_act_2_ds
+    title: "Aquarium Park - Act 2"
+    path: "35 - Aquarium Park - Act 2.mini2sf"
+    type: betting
+  - id: aquarium_park_act_3_ds
+    title: "Aquarium Park - Act 3"
+    path: "36 - Aquarium Park - Act 3.mini2sf"
+    type: betting
+  - id: area_asteroid_coaster_ds
+    title: "Area - Asteroid Coaster"
+    path: "37 - Area - Asteroid Coaster.mini2sf"
+    type: betting
+  - id: asteroid_coaster_act_1_ds
+    title: "Asteroid Coaster - Act 1"
+    path: "38 - Asteroid Coaster - Act 1.mini2sf"
+    type: betting
+  - id: asteroid_coaster_act_2_ds
+    title: "Asteroid Coaster - Act 2"
+    path: "39 - Asteroid Coaster - Act 2.mini2sf"
+    type: betting
+  - id: asteroid_coaster_act_3_ds
+    title: "Asteroid Coaster - Act 3"
+    path: "40 - Asteroid Coaster - Act 3.mini2sf"
+    type: betting
+  - id: area_terminal_velocity_ds
+    title: "Area - Terminal Velocity"
+    path: "41 - Area - Terminal Velocity.mini2sf"
+    type: betting
+  - id: cutscene_hyper_go_on_surge_ds
+    title: "Cutscene - Hyper-go-on Surge"
+    path: "42 - Cutscene - Hyper-go-on Surge.mini2sf"
+    type: warning
+  - id: terminal_velocity_act_1_ds
+    title: "Terminal Velocity - Act 1"
+    path: "43 - Terminal Velocity - Act 1.mini2sf"
+    type: betting
+  - id: vs_nega_wisp_armor_phase_1_ds
+    title: "vs. Nega-Wisp Armor - Phase 1"
+    path: "44 - vs. Nega-Wisp Armor - Phase 1.mini2sf"
+    type: warning
+  - id: vs_nega_wisp_armor_phase_2_ds
     title: "vs. Nega Wisp Armor - Phase 2"
     path: "45 - vs. Nega Wisp Armor - Phase 2.mini2sf"
     type: battle
+  - id: vs_globotron_drillinator_allegro_ds
+    title: "vs. Globotron & Drillinator - Allegro"
+    path: "47 - vs. Globotron & Drillinator - Allegro.mini2sf"
+    type: warning
+  - id: vs_captain_jelly_admiral_jelly_allegro_ds
+    title: "vs. Captain Jelly & Admiral Jelly - Allegro"
+    path: "48 - vs. Captain Jelly & Admiral Jelly - Allegro.mini2sf"
+    type: warning
+  - id: color_power_violet_void_7_ds
+    title: "Color Power - Violet Void #7"
+    path: "57 - Color Power - Violet Void #7.mini2sf"
+    type: warning
+  - id: game_land_title_screen_ds
+    title: "Game Land - Title Screen"
+    path: "60 - Game Land - Title Screen - DS Ver..mini2sf"
+    type: warning
+  - id: special_stage_ds
+    title: "Special Stage"
+    path: "67 - Special Stage.mini2sf"
+    type: betting
 ...

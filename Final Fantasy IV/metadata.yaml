@@ -9,4 +9,12 @@ songs:
     title: "Boss Battle"
     path: "Boss Battle.spc"
     type: battle
+  - id: hello_big_chocobo
+    title: "Hello! Big Chocobo!"
+    path: "10 Hello! Big Chocobo!.spc"
+    type: warning
+  - id: chocobo_ffiv
+    title: "Chocobo ~ Chocobo"
+    path: "11 Chocobo ~ Chocobo.spc"
+    type: result
 ...

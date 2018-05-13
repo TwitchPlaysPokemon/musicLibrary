@@ -1,3 +1,4 @@
+---
 id: kingdom_hearts_hd_1_5_remix
 title: "Kingdom Hearts HD 1.5 ReMIX"
 series: kingdomhearts
@@ -32,3 +33,16 @@ songs:
     title: "Vector to the Heavens"
     path: "Vector to the Heavens (OST).brstm"
     type: break
+  - id: blast_away_gummi_ship_i
+    title: "Blast Away! -Gummi Ship I-"
+    path: "music122.scd"
+    type: betting
+  - id: blast_away_gummi_ship_ii
+    title: "Blast Away! -Gummi Ship II-"
+    path: "music123.scd"
+    type: betting
+  - id: blast_away_gummi_ship_iii
+    title: "Blast Away! -Gummi Ship III-"
+    path: "music148.scd"
+    type: warning
+...

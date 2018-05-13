@@ -1,3 +1,4 @@
+---
 id: monster_hunter_4
 title: "Monster Hunter 4 Ultimate"
 year: 2013
@@ -20,3 +21,8 @@ songs:
     title: "Zamtrios ~ Fangs Lurking on the Surface of Ice"
     path: "Zamtrios ~ Fangs Lurking on the Surface of Ice.brstm"
     type: warning
+  - id: gather_everyone_sunsung_isle
+    title: "Gather, Everyone! ~ Sunsnug Isle"
+    path: "bgm_mura_03_2.mca"
+    type: betting
+...

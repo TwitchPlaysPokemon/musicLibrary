@@ -1,8 +1,8 @@
 ---
 id: call_of_duty_world_at_war
 title: "Call of Duty: World at War"
-platform: ["360", "Various"]
-#other platforms: ["PS3", "PC", "Wii", "NDS"]
+platform: ["Various"]
+#other platforms: ["360","PS3", "PC", "Wii", "NDS"]
 series: callofduty
 year: 2008
 songs: 
@@ -26,4 +26,12 @@ songs:
     title: "Brave Soldat"
     path: "Brave Soldat.brstm"
     type: break
+  - id: black_cats
+    title: "Black Cats"
+    path: "Black Cats.mp3"
+    type: betting
+  - id: black_cats_variant
+    title: "Black Cats (Variant)"
+    path: "Black Cats (Variant).mp3"
+    type: warning
 ...

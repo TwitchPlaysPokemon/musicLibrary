@@ -1,0 +1,16 @@
+---
+id: saturn_bomberman
+title: "Saturn Bomberman"
+series: bomberman
+platform: "Saturn"
+year: 1996
+songs: 
+  - id: amusement_world_saturn_bomberman
+    title: "Amusement World"
+    path: "T-14302G_03.mp3"
+    type: betting
+  - id: option_mode_saturn_bomberman
+    title: "Option Mode"
+    path: "Option Mode.brstm"
+    type: betting
+...

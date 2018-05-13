@@ -13,13 +13,8 @@ songs:
     title: "Victory Fanfare"
     path: "05 Victory.mini2sf"
     type: result
-      # disabled due to missing file
-      #- id: battle_2
-      #  title: "Battle 2 (Boss Battle)"
-      #  path: "Battle 2 (Boss Battle).mini2sf"
-      #  type: battle
-#      - id: final_battle
-#        title: "The Final Battle (vs. Cloud of Darkness)"
-#        path: "56 The Final Battle -3-.mini2sf"
-#        type: battle #Not tense and charged enough
+  - id: chocobo_ff3_ds
+    title: "Chocobo Theme"
+    path: "19 Chocobo Theme.mini2sf"
+    type: result
 ...

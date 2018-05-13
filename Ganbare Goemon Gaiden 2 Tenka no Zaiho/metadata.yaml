@@ -10,4 +10,16 @@ songs:
     path: "67 Ice Palace, Frost Pillar House.vgz"
     tags: [xmas]
     type: warning
+  - id: level_up_ggg2
+    title: "Level Up"
+    path: "15 Level Up.vgz"
+    type: result
+  - id: simon_appears
+    title: "Simon Appears"
+    path: "41 Simon Appears.vgz"
+    type: warning
+  - id: warning_emergency
+    title: "Warning ~ Emergency"
+    path: "57 Warning ~ Emergency.vgz"
+    type: warning
 ...

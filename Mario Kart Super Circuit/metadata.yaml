@@ -1,44 +1,66 @@
+---
 id: mario_kart_super_circuit
 title: "Mario Kart Super Circuit"
-year: 2001
 series: mario
 platform: "GBA"
+year: 2001
 songs:
-  - id: bowser_castle_circuit
+  - id: bowser_castle_mksc
     title: "Bowser Castle"
     path: "10 Bowser Castle.minigsf"
     type: warning
-  - id: sky_garden
+  - id: cheese_land_mksc
+    title: "Cheese Land"
+    path: "12 Cheese Land.minigsf"
+    type: betting
+  - id: sky_garden_mksc
     title: "Sky Garden"
     path: "13 Sky Garden.minigsf"
     type: result
-  - id: snow_land
+  - id: sunset_wilds_mksc
+    title: "Sunset Wilds"
+    path: "14 Sunset Wilds.minigsf"
+    type: betting
+  - id: snow_land_mksc
     title: "Snow Land"
     path: "15 Snow Land.minigsf"
     tags: [xmas]
     type: betting
-  - id: rainbow_road_circuit
+  - id: ribbon_road_mksc
+    title: "Ribbon Road"
+    path: "16 Ribbon Road.minigsf"
+    type: betting
+  - id: rainbow_road_mksc
     title: "Rainbow Road"
     path: "20 Rainbow Road.minigsf"
     type: betting
-  - id: snes_vanilla_lake
+  - id: snes_vanilla_lake_mksc
     title: "SNES Vanilla Lake"
     path: "27 SNES Vanilla Lake.minigsf"
     tags: [xmas]
     type: betting
-  - id: battle_circuit
+  - id: battle_mksc
     title: "Battle"
     path: "30 Battle.minigsf"
     type: warning
-  - id: gp_result_circuit
-    title: "Grand Prix Results"
+  - id: gp_result_mksc
+    title: "GP Results"
     path: "39 GP Results.minigsf"
     type: result
-  - id: tt_result_circuit
-    title: "Time Trial Results"
+  - id: tt_result_mksc
+    title: "TT Results"
     path: "40 TT results.minigsf"
     type: result
-  - id: credits_circuit
+  - id: qr_results_mksc
+    title: "QR Results"
+    path: "41 QR Results.minigsf"
+    type: result
+  - id: credits_mksc
     title: "Credits"
     path: "47 Credits.minigsf"
     type: betting
+  - id: ranked_out_mksc
+    title: "Ranked Out"
+    path: "49 Ranked Out .minigsf"
+    type: result
+...

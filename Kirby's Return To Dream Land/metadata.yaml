@@ -5,89 +5,187 @@ series: kirby
 platform: "Wii"
 year: 2011
 songs: 
-  - id: super_copy_boss_3_return_to_dreamland
-    title: "Super Copy Boss 3"
+  - id: ultra_super_boss_battle_return_to_dream_land
+    title: "Ultra Super Boss Battle"
     path: "Super Copy Boss 3.brstm"
     type: battle
-  - id: king_dededes_theme_return_to_dreamland
-    title: "King Dedede's Theme"
+  - id: king_dededes_theme_return_to_dream_land
+    title: "Clash! Mid-Boss Tower (King Dedede's Theme)"
     path: "King Dedede's Theme.brstm"
     type: battle
-  - id: dangerous_dinner_map_return_to_dreamland
-    title: "Dangerous Dinner - Map"
+  - id: dangerous_dinner_return_to_dream_land
+    title: "Dangerous Dinner"
     path: "Dangerous Dinner - Map.brstm"
     type: warning
-  - id: crowned_return_to_dreamland
+  - id: crowned_return_to_dream_land
     title: "CROWNED"
     path: "CROWNED.brstm"
     type: battle
-  - id: heavy_lobster_return_to_dreamland
+  - id: heavy_lobster_return_to_dream_land
     title: "Heavy Lobster"
     path: "Heavy Lobster.brstm"
     type: battle
-  - id: galacta_knights_theme_return_to_dreamland
-    title: "Galacta Knight's Theme"
+  - id: warrior_from_another_world_return_to_dream_land
+    title: "Warrior from Another World"
     path: "Galacta Knight's Theme.brstm"
     type: battle
-  - id: aqua_area_return_to_dreamland
+  - id: aqua_area_return_to_dream_land
     title: "Aqua Area"
     path: "Aqua Area.brstm"
     type: betting
-  - id: boss_prelude_return_to_dreamland
-    title: "Boss Prelude"
+  - id: signs_of_battle_return_to_dream_land
+    title: "Signs of Battle"
     path: "Boss Prelude.brstm"
     type: warning
-  - id: funky_area_return_to_dreamland
+  - id: funky_area_return_to_dream_land
     title: "Funky Area"
     path: "Funky Area.brstm"
     type: betting
-  - id: main_menu_200_completed_return_to_dreamland
+  - id: main_menu_200_completed_return_to_dream_land
     title: "Main Menu - 200% Completed"
     path: "Main Menu - 200% Completed.brstm"
     type: result
-  - id: looming_darkness_return_to_dreamland
+  - id: looming_darkness_return_to_dream_land
     title: "Looming Darkness"
     path: "Looming Darkness.brstm"
     type: betting
-  - id: chilly_area_return_to_dreamland
+  - id: chilly_area_return_to_dream_land
     title: "Chilly Area"
     path: "chilly.brstm"
     tags: [xmas]
     type: break
-  - id: key_challenge_return_to_dreamland
+  - id: key_challenge_return_to_dream_land
     title: "Key Challenge"
     path: "key_challenge.brstm"
     type: betting
-  - id: nutty_noon_return_to_dreamland
+  - id: nutty_noon_return_to_dream_land
     title: "Nutty Noon"
     path: "nuttyNOON.brstm"
     type: betting
-  - id: rocky_area_return_to_dreamland
+  - id: rocky_area_return_to_dream_land
     title: "Rocky Area"
     path: "rocky.brstm"
     type: betting
-  - id: forest_area_kirbys_return_to_dreamland
-    title: "Forest Area"
+  - id: through_the_woods_return_to_dream_land
+    title: "Through the Woods"
     path: "st_mori.brstm"
     type: betting
-  - id: frosty_area_kirbys_return_to_dreamland
-    title: "Frosty Area"
-    path: "KbyW_COLD2.brstm"
+  - id: snowball_fight_kirbys_return_to_dream_land
+    title: "Snowball Fight"
+    path: "ST_KbyW_COLD2.brstm"
     tags: [xmas]
     type: betting
-  - id: icy_cavern_kirbys_return_to_dreamland
+  - id: icy_cavern_kirbys_return_to_dream_land
     title: "Icy Cavern"
-    path: "KbyW_HEN1.brstm"
+    path: "IUK_HEN1.brstm"
     tags: [xmas]
     type: betting
-  - id: aurora_area_kirbys_return_to_dreamland
+  - id: aurora_area_kirbys_return_to_dream_land
     title: "Aurora Area"
-    path: "KbyW_TOUT1.brstm"
+    path: "ST_IUK_TOUT1.brstm"
     tags: [xmas]
     type: betting
-  - id: white_wafers_kirbys_return_to_dreamland
+  - id: white_wafers_kirbys_return_to_dream_land
     title: "White Wafers"
     path: "st_ice.brstm"
     tags: [xmas]
     type: warning
+  - id: a_dream_of_clouds_return_to_dream_land
+    title: "A Dream of Clouds"
+    path: "kumo_1_a.brstm"
+    type: betting
+  - id: a_visitor_from_afar_return_to_dream_land
+    title: "A Visitor From Afar"
+    path: "Movie_opening.brstm"
+    type: betting
+  - id: cave_area_return_to_dream_land
+    title: "Cave Area"
+    path: "ST_KbyW_CAVE1.brstm"
+    type: betting
+  - id: desert_return_to_dream_land
+    title: "Desert"
+    path: "ST_KBYW_DESERT1.brstm"
+    type: betting
+  - id: each_to_his_own_world_return_to_dream_land
+    title: "Each To His Own World"
+    path: "ending_all.brstm"
+    ends: 2:41
+    type: betting
+  - id: exciting_boss_battle_return_to_dream_land
+    title: "Exciting! Boss Battle"
+    path: "b_dedede01.brstm"
+    type: battle
+  - id: fly_kirby_return_to_dream_land
+    title: "Fly, Kirby!"
+    path: "st_halberd.brstm"
+    type: betting
+  - id: haldera_volcano_return_to_dream_land
+    title: "Haldera Volcano"
+    path: "st_magma.brstm"
+    type: betting
+  - id: let_me_explain_everything_return_to_dream_land
+    title: "Let Me Explan Everything"
+    path: "mahoroayabou4.brstm"
+    ends: 2:14
+    type: betting
+  - id: lor_starcutter_return_to_dream_land
+    title: "Lor Starcutter"
+    path: "st_comic02.brstm"
+    type: betting
+  - id: oasis_area_return_to_dream_land
+    title: "Oasis Area"
+    path: "st_sawayaka.brstm"
+    type: betting
+  - id: over_the_hills_return_to_dream_land
+    title: "Over The Hills"
+    path: "ST_IUK_KBYW_CANYON1.brstm"
+    type: betting
+  - id: return_to_dream_land_return_to_dream_land
+    title: "Return to Dream Land"
+    path: "StaffRoll_0622.brstm"
+    type: betting
+  - id: robo_kawasaki_return_to_dream_land
+    title: "Robo Kawasaki"
+    path: "kawasaki02.brstm"
+    type: betting
+  - id: sky_tower_return_to_dream_land
+    title: "Sky Tower"
+    path: "st_castle.brstm"
+    type: betting
+  - id: steel_hometown_return_to_dream_land
+    title: "Steel Hometown"
+    path: "st_machine02.brstm"
+    type: betting
+  - id: techno_factory_return_to_dream_land
+    title: "Techno Factory"
+    path: "IUK_LP_TECH1.brstm"
+    type: betting
+  - id: the_adventure_begins_return_to_dream_land
+    title: "The Adventure Begins"
+    path: "st_plants.brstm"
+    type: betting
+  - id: under_my_control_return_to_dream_land
+    title: "Under My Control"
+    path: "IUK_LP_LASTBOSS1.brstm"
+    type: betting
+  - id: unlimited_power_return_to_dream_land
+    title: "Unlimited Power"
+    path: "st_dark.brstm"
+    type: betting
+  - id: waddle_dee_tank_return_to_dream_land
+    title: "Waddle Dee Tank"
+    path: "Wado2.brstm"
+    type: battle
+  - id: walking_in_the_sea_return_to_dream_land
+    title: "Walking in the Sea"
+    path: "ST_KBYW_RAIN1.brstm"
+    type: betting
+  - id: waltz_in_the_sky_return_to_dream_land
+    title: "Waltz in the Sky"
+    path: "st_kumo.brstm"
+    type: betting
+  - id: with_four_buddies_cookie_country_dream_land
+    title: "With Four Buddies: Cookie Country"
+    path: "Level_1.brstm"
+    type: betting
 ...

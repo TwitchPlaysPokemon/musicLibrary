@@ -1,0 +1,69 @@
+---
+id: pac_man_championship_edition_2
+title: "Pac-Man Championship Edition 2"
+series: pac-man
+platform: "Various"
+year: 2016
+songs: 
+  - id: boss_battle_pac_man_championship_edition_2
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: galaga35_2281_3_minutes
+    title: "Galaga35;2281 (3 Minutes)"
+    path: "Galaga35;2281 (3 Minutes).brstm"
+    ends: 3:04
+    type: betting
+  - id: game_menu_pac_man_championship_edition_2
+    title: "Game Menu"
+    path: "Game Menu.brstm"
+    type: betting
+  - id: horinesian_sundance_3_minutes
+    title: "Horinesian Sundance (3 Minutes)"
+    path: "Horinesian Sundance (3 Minutes).brstm"
+    ends: 3:04
+    type: betting
+  - id: pac_baby_3_minutes
+    title: "Pac Baby (3 Minutes)"
+    path: "Pac Baby (3 Minutes).brstm"
+    ends: 2:46
+    type: betting
+  - id: pac_drive_3_minutes
+    title: "Pac Drive (3 Minutes)"
+    path: "Pac Drive (3 Minutes).brstm"
+    type: battle
+  - id: pac_is_pac_3_minutes
+    title: "Pac Is Pac (3 Minutes)"
+    path: "Pac Is Pac (3 Minutes).brstm"
+    ends: 3:04
+    type: betting
+  - id: pac_jump_up_3_minutes
+    title: "Pac Jump Up! (3 Minutes)"
+    path: "Pac Jump Up! (3 Minutes).brstm"
+    type: battle
+  - id: pac_level_cap_3_minutes
+    title: "Pac Level Cap (3 Minutes)"
+    path: "Pac Level Cap (3 Minutes).brstm"
+    ends: 3:18
+    type: betting
+  - id: pac_madness_3_minutes
+    title: "Pac Madness (3 Minutes)"
+    path: "Pac Madness (3 Minutes).brstm"
+    ends: 3:06
+    type: betting
+  - id: pac_oi_oi_oi_3_minutes
+    title: "Pac Oi Oi Oi (3 Minutes)"
+    path: "Pac Oi Oi Oi (3 Minutes).brstm"
+    ends: 3:12
+    type: betting
+  - id: pac_toy_box_3_minutes
+    title: "Pac Toy-Box (3 Minutes)"
+    path: "Pac Toy-Box (3 Minutes).brstm"
+    ends: 2:51
+    type: betting
+  - id: pac_tronica_3_minutes
+    title: "Pac Tronica (3 Minutes)"
+    path: "Pac Tronica (3 Minutes).brstm"
+    ends: 3:14
+    type: betting
+...

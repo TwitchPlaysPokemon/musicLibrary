@@ -1,3 +1,4 @@
+---
 id: secret_of_evermore
 title: "Secret of Evermore"
 platform: "SNES"
@@ -19,3 +20,8 @@ songs:
     title: "City of Ebony"
     path: "Secret of Evermore 51 City of Ebony.spc"
     type: break
+  - id: deserted_castle
+    title: "Deserted Castle"
+    path: "52 Deserted Castle.spc"
+    type: break
+...

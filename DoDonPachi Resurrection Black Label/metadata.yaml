@@ -1,8 +1,8 @@
 ---
-id: dodonpachi_daifukkatsu_black_label
-platform: "360"
-title: "DoDonPachi DaiFukkatsu Black Label"
+id: dodonpachi_ressurection_black_label
+title: "DoDonPachi Resurrection Black Label"
 series: dodonpachi
+platform: ["360", "PC"]
 year: 2011
 songs: 
   - id: darkened
@@ -48,9 +48,5 @@ songs:
   - id: resurrection_ending
     path: "Resurrection (Ending).brstm"
     title: "Resurrection (Ending)"
-    type: break
-  - id: saidaioujou_ending_arrange
-    path: "SaiDaiOuJou (Ending) - Arrange.brstm"
-    title: "SaiDaiOuJou (Ending) - Arrange"
     type: break
 ...

@@ -33,4 +33,12 @@ songs:
     title: "Friendly Competition"
     path: "MP8_MU414.brstm"
     type: warning
+  - id: battle_winner_mp8
+    title: "Battle Winner"
+    path: "MP8_MU202.brstm"
+    type: result
+  - id: happy_go_lucky
+    title: "Happy-Go-Lucky"
+    path: "MP8_MU410.brstm"
+    type: result
 ...

@@ -221,4 +221,18 @@ songs:
     title: "Unknown from M.E. [Theme of Knuckles] (Instrumental)"
     path: "Unknown from M.E. [Theme of Knuckles] (Instrumental).brstm"
     type: betting
+  - id: live_learn_main_theme_of_sonic_adventure_2
+    title: "Live & Learn ...Main Theme of "SONIC ADVENTURE 2""
+    path: "Live & Learn [Main Theme of SA2].brstm"
+    ends: 3:00
+    type: battle
+  - id: escape_from_the_city_for_city_escape_instrumental_ver
+    title: "Escape From The City ...for City Escape (Instrumental Ver.)"
+    path: "Escape From the City ...for City Escape (Instrumental Ver.).brstm"
+    type: betting
+  - id: supporting_me_for_biolizard
+    title: "Supporting Me ...for Biolizard"
+    path: "BOSS_06.ADX"
+    ends: 2:49
+    type: betting
 ...

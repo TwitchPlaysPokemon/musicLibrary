@@ -4,6 +4,10 @@ title: "Last Bible III"
 platform: "SFC"
 year: 1995
 songs: 
+  - id: val_ship
+    title: "Val Ship"
+    path: "30 Val Ship.spc"
+    type: betting
   - id: underworld_forest
     title: "Underworld Forest"
     path: "53 Underworld Forest.spc"

@@ -5,105 +5,114 @@ series: sonic
 platform: ["360", "PS3"]
 year: 2006
 songs:
-  - id: egg_cerebus_genesis
-    title: "Boss - Egg-Cerebus & Egg Genesis"
+  - id: boss_egg_cerberus_ehh_genesis
+    title: "[BOSS] EGG-CERBERUS & EGG-GENESIS"
     path: "Boss - Egg-Cerebus & Egg Genesis.brstm"
     type: battle
   - id: egg_wyvern
-    title: "Boss - Egg-Wyvern"
+    title: "[BOSS] EGG-WYVERN"
     path: "Boss - Egg-Wyvern.brstm"
     type: battle
   - id: iblis_phase_3
-    title: "Boss - Iblis Phase 3"
+    title: "[BOSS] IBLIS PHASE 3"
     path: "Boss - Iblis Phase 3.brstm"
     type: battle
-  - id: mephiles_s06
-    title: "Boss - Mephiles"
+  - id: boss_mephiles
+    title: "[BOSS] MEPHILES"
     path: "Boss - Mephiles.brstm"
     type: battle
-  - id: vs_character_s06
-    title: "Boss - Vs. Character"
+  - id: boss_vs_character
+    title: "[BOSS] VS. CHARACTER"
     path: "Boss - Vs. Character.brstm"
     type: battle
-  - id: aquatic_base_lv1
-    title: "Aquatic Base - Level 1"
+  - id: aquatic_base_level_1
+    title: "AQUATIC BASE ~LEVEL 1~"
     path: "Aquatic Base - Level 1.brstm"
     type: betting
-  - id: aquatic_base_lv2
-    title: "Aquatic Base - Level 2"
+  - id: aquatic_base_level_2
+    title: "AQUATIC BASE ~LEVEL 2~"
     path: "Aquatic Base - Level 2.brstm"
     type: betting
-  - id: crisis_city_all
-    title: "Crisis City - All"
-    path: "Crisis City - All.brstm"
-    type: betting
   - id: dusty_desert_quicksand
-    title: "Dusty Desert - Quicksand"
+    title: "DUSTY DESERT ~QUICKSAND~"
     path: "Dusty Desert - Quicksand.brstm"
     type: betting
-  - id: dusty_desert_ruins
-    title: "Dusty Desert - The Ruins"
+  - id: dusty_desert_the_ruins
+    title: "DUSTY DESERT ~THE RUINS~"
     path: "Dusty Desert - The Ruins.brstm"
     type: betting
   - id: kingdom_valley_wind
-    title: "Kingdom Valley - The Wind"
+    title: "KINGDOM VALLEY ~WIND~"
     path: "Kingdom Valley - The Wind.brstm"
     type: betting
-  - id: radical_train_abandoned
-    title: "Radical Train - The Abadoned Mine"
+  - id: radical_train_the_abandoned_mine
+    title: "RADICAL TRAIN ~THE ABANDONED MINE~"
     path: "Radical Train - The Abadoned Mine.brstm"
     type: battle
-  - id: tropical_jungle_jungle
-    title: "Tropical Jungle - The Jungle"
+  - id: tropical_jungle_the_jungle
+    title: "TROPICAL JUNGLE ~THE JUNGLE~"
     path: "Tropical Jungle - The Jungle.brstm"
     type: betting
   - id: tropical_jungle_ruins
-    title: "Tropical Jungle - The Ruins"
+    title: "TROPICAL JUNGLE ~THE RUINS~"
     path: "Tropical Jungle - The Ruins.brstm"
     type: betting
-  - id: tropical_jungle_swamp
-    title: "Tropical Jungle - The Swamp"
+  - id: tropical_jungle_the_swamp
+    title: "TROPICAL JUNGLE ~THE SWAMP~"
     path: "Tropical Jungle - The Swamp.brstm"
     type: betting
   - id: wave_ocean_edge
-    title: "Wave Ocean - The Water's Edge"
+    title: "WAVE OCEAN ~THE WATER'S EDGE~"
     path: "Wave Ocean - The Water's Edge.brstm"
     type: betting
   - id: white_acropolis_peak
-    title: "White Acropolis - Snowy Peak"
+    title: "WHITE ACROPOLIS ~SNOWY PEAK~"
     path: "White Acropolis - Snowy Peak.brstm"
     tags: [xmas]
     type: betting
   - id: white_acropolis_base
-    title: "White Acropolis - The Base"
+    title: "WHITE ACROPOLIS ~THE BASE~"
     path: "White Acropolis - The Base.brstm"
     type: betting
-  - id: town_mission_fast
-    title: "Town Mission - Fast"
+  - id: town_mission_4
+    title: "TOWN MISSION 4"
     path: "Town Mission - Fast.brstm"
     type: warning
   - id: wave_ocean_inlet
-    title: "Wave Ocean - The Inlet"
+    title: "WAVE OCEAN ~THE INLET~"
     path: "Wave Ocean - The Inlet.brstm"
     type: warning
   - id: soleanna_castle_town
-    title: "Soleanna Castle Town"
+    title: "SOLEANNA CASTLE TOWN"
     path: "Soleanna Castle Town.brstm"
     type: betting
-#      - id: mission_clear_and_results
-#        title: "Mission Clear and Results"
-#        path: "Mission Clear and Results.brstm"
-#        type: result
   - id: boss_solaris_phase_2
-    title: "Boss - Solaris Phase 2"
+    title: "[BOSS] SOLARIS PHASE 2"
     path: "Boss - Solaris Phase 2.brstm"
     type: battle
-  - id: town_mission
-    title: "Town Mission"
+  - id: town_mission_1
+    title: "TOWN MISSION 1"
     path: "Town_Mission.brstm"
     type: break
   - id: extras
-    title: "Extras"
+    title: "EXTRAS"
     path: "Extras.brstm"
     type: break
+  - id: crisis_city_skyscraper
+    title: "CRISIS CITY ~SKYSCRAPER~"
+    path: "303b - Tomoya Ohtani - CRISIS CITY ~SKYSCRAPER~.xma"
+    type: betting
+  - id: crisis_city_whirlwind
+    title: "CRISIS CITY ~WHIRLWIND~"
+    path: "303c - Tomoya Ohtani - CRISIS CITY ~WHIRLWIND~.xma"
+    type: betting
+  - id: crisis_city_tornado
+    title: "CRISIS CITY ~TORNADO~"
+    path: "303d - Tomoya Ohtani - CRISIS CITY ~TORNADO~.xma"
+    type: betting
+  - id: end_of_the_world
+    title: "END OF THE WORLD"
+    path: "End of the World - All.brstm"
+    ends: 2:59
+    type: betting
 ...

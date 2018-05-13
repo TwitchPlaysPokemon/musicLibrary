@@ -5,6 +5,10 @@ series: mario
 platform: "N64"
 year: 2000
 songs:
+  - id: main_title_paper_mario
+    title: "Main Title"
+    path: "102 Main Title.miniusf"
+    type: betting
   - id: goomba_village
     title: "Goomba Village"
     path: "106 Goomba Village.miniusf"
@@ -17,9 +21,17 @@ songs:
     title: "Koopa Village"
     path: "116 Koopa Village.miniusf"
     type: break
+  - id: attack_of_the_koopa_bros
+    title: "Attack of the Koopa Bros"
+    path: "121 Attack of the Koopa Bros.miniusf"
+    type: battle
   - id: mt_rugged
     title: "Mt Rugged"
     path: "123 Mt Rugged.miniusf"
+    type: betting
+  - id: dry_dry_outpost
+    title: "Mysterious Dry Dry Outpost"
+    path: "125 Mysterious Dry Dry Outpost.miniusf"
     type: betting
   - id: chomp_attack
     title: "Chomp Attack"
@@ -28,7 +40,11 @@ songs:
   - id: approach_to_the_mansion
     title: "Approach to the Mansion"
     path: "129 Approach to the Mansion.miniusf"
-    type: warning
+    type: break
+  - id: gusty_gulch_adventure
+    title: "Gusty Gulch Adventure"
+    path: "131 Gusty Gulch Adventure.miniusf"
+    type: break
   - id: the_castle_crumbles
     title: "The Castle Crumbles"
     path: "133 The Castle Crumbles.miniusf"
@@ -53,6 +69,10 @@ songs:
     title: "Go! Mario! Go! (Phase 2)"
     path: "211b Go! Mario! Go!.miniusf"
     type: warning
+  - id: lakilester_the_great
+    title: "Lakilester the Great!"
+    path: "214 Lakilester the Great!.miniusf"
+    type: betting
   - id: huffin_and_puffin
     title: "Huffin' and Puffin'"
     path: "216 Huffin' and Puffin'.miniusf"
@@ -92,10 +112,28 @@ songs:
     path: "223 Freeze!.miniusf"
     tags: [xmas]
     type: battle
+  - id: a_city_in_the_stars
+    title: "A City in the Stars"
+    path: "224 A City in the Stars.miniusf"
+    tags: [xmas]
+    type: break
+  - id: shooting_star_summit
+    title: "Shooting Star Summit"
+    path: "225 Shooting Star Summit.miniusf"
+    tags: [xmas]
+    type: break
+  - id: angry_bowser
+    title: "Angry Bowser"
+    path: "229 Angry Bowser.miniusf"
+    type: warning
   - id: king_of_the_koopas
     title: "King of the Koopas"
     path: "232 King of the Koopas.miniusf"
     type: battle
+  - id: main_menu_paper_mario
+    title: "Main Menu"
+    path: "901 Main Menu.miniusf"
+    type: result
   - id: kammy_koopa
     title: "Kammy Koopa"
     path: "915 Kammy Koopa.miniusf"
@@ -108,6 +146,14 @@ songs:
     title: "Mario Bros' Home"
     path: "926 Mario Bros' Home.miniusf"
     type: betting
+  - id: golden_oldies
+    title: "Golden Oldies"
+    path: "932 Golden Oldies.miniusf"
+    type: result
+  - id: mini_game_paper_mario
+    title: "Mini Game"
+    path: "933 Mini Game.miniusf"
+    type: warning
   - id: master_battle
     title: "Master Battle"
     path: "935 Master Battle.miniusf"
@@ -116,6 +162,18 @@ songs:
     title: "K64 Train Ride"
     path: "940 K64 Train Ride.miniusf"
     type: warning
+  - id: moustafa
+    title: "Moustafa"
+    path: "942 Moustafa.miniusf"
+    type: warning
+  - id: petunia_under_attack
+    title: "Petunia Under Attack!"
+    path: "963 Petunia Under Attack!.miniusf"
+    type: warning
+  - id: cloudy_climb
+    title: "Cloudy Climb"
+    path: "973 Cloudy Climb.miniusf"
+    type: break
   - id: shiver_city_mayor
     title: "Shiver City Mayor"
     path: "976 Shiver City Mayor.miniusf"

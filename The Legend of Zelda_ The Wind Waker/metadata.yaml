@@ -25,10 +25,6 @@ songs:
     path: "Gohdan battle.brstm"
     title: "Gohdan Battle"
     type: battle
-      #- id: farewell_hyrule_king
-      #  path: "Farewell Hyrule King.brstm"
-      #  title: "Farewell Hyrule King"
-      #  type: result
   - id: molgera_battle
     path: "Molgera Battle.brstm"
     title: "Molgera Battle"
@@ -62,5 +58,12 @@ songs:
     title: "Outset Island"
     path: "Outset Island.brstm"
     type: betting
+  - id: dragon_roost_island_ww
+    title: "Dragon Roost Island"
+    path: "Dragon Roost Island (OST Version).brstm"
+    type: betting
+  - id: the_2nd_maritime_battle
+    title: "The 2nd Maritime Battle"
+    path: "The 2nd Maritime Battle.brstm"
+    type: warning
 ...
-

@@ -1,0 +1,16 @@
+---
+id: policenauts
+title: "Policenauts"
+platform: "Various"
+#other platforms: PC-98, 3DO, PS1, Saturn
+year: 1994
+songs: 
+  - id: living_in_the_real_world
+    title: "LIVING IN THE REAL WORLD"
+    path: "SLPS-00215_38.pona"
+    type: break
+  - id: first_triangle
+    title: "FIRST TRIANGLE"
+    path: "SLPS-00215_56.pona"
+    type: break
+...

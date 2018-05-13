@@ -5,113 +5,121 @@ series: mario
 platform: "GCN"
 year: 2004
 songs:
-  - id: battle_theme
-    title: "Battle Theme"
+  - id: a_puni_presence
+    title: "A Puni Presence"
+    path: "evt_pun1_32k.dsp"
+    type: betting
+  - id: it_s_battle_time
+    title: "It's Battle Time!"
     path: "btl_zak1_32k.dsp"
     type: betting
-  - id: bowser's_quest_-_world_1-1
-    title: "Bowser's Quest - World 1-1"
-    path: "stgk_fld1_32k.dsp"
-    type: betting
-  - id: fahr_outpost
-    title: "Fahr Outpost"
+  - id: freezy_fahr_outpost
+    title: "Freezy Fahr Outpost"
     path: "stg_bmm1_32k.dsp"
     tags: [xmas]
     type: betting
-  - id: glitzville_ttyd
-    title: "Glitzville"
-    path: "stg_urg11_32k.dsp"
+  - id: peaceful_petalburg
+    title: "Peaceful Petalburg"
+    path: "stg_nok1_32k.dsp"
     type: betting
-  - id: main_menu_ttyd
-    title: "Main Menu"
-    path: "sys_tit1_32k.dsp"
+  - id: super_koopa_bros_world_1
+    title: "Super Koopa Bros. World 1"
+    path: "stgk_fld1_32k.dsp"
     type: betting
-  - id: petal_meadows
-    title: "Petal Meadows"
+  - id: the_breeze_of_petal_meadows
+    title: "The Breeze of Petal Meadows"
     path: "stg_dor1_32k.dsp"
     type: betting
-  - id: rogueport
-    title: "Rogueport"
+  - id: the_floating_town_glitzville_ttyd
+    title: "The Floating Town, Glitzville"
+    path: "stg_urg11_32k.dsp"
+    type: betting
+  - id: title_theme_ttyd
+    title: "Title Theme"
+    path: "sys_tit1_32k.dsp"
+    type: betting
+  - id: rogueport_town_of_thieves
+    title: "Rogueport, Town of Thieves"
     path: "stg_gor2_32k.dsp"
     type: betting
-  - id: rogueport_sewers
-    title: "Rogueport Sewers"
+  - id: rogueport_underground_city
+    title: "Rogueport's Underground City"
     path: "stg_tik2_32k.dsp"
     type: betting
   - id: x-naut_fortress
     title: "X-Naut Fortress"
     path: "stg_tkd2_32k.dsp"
     type: betting
-  - id: a_dragon_in_the_sky
-    title: "A Dragon in the Sky"
-    path: "evt_gnb1_32k.dsp"
-    type: warning
-  - id: boss_-_cortez
-    title: "Boss - Cortez"
-    path: "btl_krt1_32k.dsp"
-    type: warning
-  - id: boss_-_doopliss
-    title: "Boss - Doopliss"
-    path: "btl_rpl1_32k.dsp"
-    type: warning
-  - id: boss_hooktail
-    title: "Boss - Hooktail"
-    path: "btl_gnb1_32k.dsp"
-    type: warning
-  - id: boss_-_macho_grubba
-    title: "Boss - Macho Grubba"
-    path: "btl_gns1_32k.dsp"
-    type: warning
-  - id: boss_-_magnus_von_grapple
-    title: "Boss - Magnus von Grapple"
-    path: "btl_mag1_32k.dsp"
-    type: warning
-  - id: boss_the_shadow_sirens
-    title: "Boss - The Shadow Sirens"
-    path: "btl_wom1_32k.dsp"
-    type: warning
-  - id: bowser_theme_ttyd
-    title: "Bowser's Theme"
-    path: "evt_kpa1_32k.dsp"
-    type: warning
-  - id: character_abilities
-    title: "Character Abilities"
+  - id: a_new_thing_to_learn
+    title: "A New Thing to Learn"
     path: "evt_lec1_32k.dsp"
     type: warning
-  - id: curse_of_the_black_chest
-    title: "Curse of the Black Chest"
+  - id: curse_of_the_black_box
+    title: "Curse of the Black Box"
     path: "evt_prm1_32k.dsp"
     type: warning
-  - id: doopliss'_theme
-    title: "Doopliss' Theme"
+  - id: dragon_slaying_battle
+    title: "Dragon Slaying Battle"
+    path: "btl_gnb1_32k.dsp"
+    type: warning
+  - id: fight_against_mario_no_doopliss
+    title: "Fight Against Mario... No, Doopliss!"
+    path: "btl_rpl1_32k.dsp"
+    type: warning
+  - id: here_comes_bowser
+    title: "Here Comes Bowser!"
+    path: "evt_kpa1_32k.dsp"
+    type: warning
+  - id: it_s_a_me_no_it_s_doopliss
+    title: "It's-a Me! No, It's Doopliss!"
     path: "ff_r_apr2_32k.dsp"
     type: warning
-  - id: mini_game_ttyd
-    title: "Mini Game"
+  - id: macho_grubba
+    title: "MACHO GRUBBA!!!"
+    path: "btl_gns1_32k.dsp"
+    type: warning
+  - id: magnus_von_punish
+    title: "Magnus Von PUNISH!!!"
+    path: "btl_mag1_32k.dsp"
+    type: warning
+  - id: pinata_parlor_game
+    title: "Pianta Parlor Game"
     path: "btl_zak3_32k.dsp"
+    type: warning
+  - id: shadow_sirens_scuffle
+    title: "Shadow Sirens Scuffle"
+    path: "btl_wom1_32k.dsp"
+    type: warning
+  - id: ship_battle_with_cortez
+    title: "Ship Battle with Cortez"
+    path: "btl_krt1_32k.dsp"
     type: warning
   - id: the_glitz_pit
     title: "The Glitz Pit"
     path: "stg_tgm1_32k.dsp"
     type: warning
-  - id: boss_bowser_ttyd
-    title: "Boss - Bowser"
+  - id: up_in_the_sky_it_s_a_dragon
+    title: "Up in the Sky! It's a Dragon!"
+    path: "evt_gnb1_32k.dsp"
+    type: warning
+  - id: big_bowser_bowser_koopa_krush
+    title: "Big Bowser Koopa Krush"
     path: "btl_kpa3_32k.dsp"
     type: battle
-  - id: boss_-_rawk_hawk
-    title: "Boss - Rawk Hawk"
+  - id: rawk_hawk_rock
+    title: "Rawk Hawk Rock"
     path: "btl_cap1_32k.dsp"
     type: battle
-  - id: boss_-_shadow_queen_part_1_(peach_form)
-    title: "Boss - Shadow Queen Part 1 (Peach Form)"
+  - id: shadow_peach
+    title: "Shadow Peach"
     path: "btl_wit1_32k.dsp"
     type: battle
-  - id: boss_-_shadow_queen_part_2
-    title: "Boss - Shadow Queen Part 2"
+  - id: the_final_battle_ttyd
+    title: "The Final Battle"
     path: "btl_wth3_32k.dsp"
     type: battle
   - id: level_up
-    title: "Level Up"
+    title: "Level Up!"
     path: "btl_win3_32k.dsp"
     type: result
   - id: dusk_at_excess_express

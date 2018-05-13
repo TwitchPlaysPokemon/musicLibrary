@@ -1,0 +1,33 @@
+---
+id: pac_man_championship_edition_2_plus
+title: "Pac-Man Championship Edition 2 Plus"
+series: pac-man
+platform: "Switch"
+year: 2018
+songs: 
+  - id: game_menu_pac_man_championship_edition_2_plus
+    title: "Game Menu"
+    path: "pce2p_bgm_entrance.fsb"
+    type: betting
+  - id: pac_sky_emotion_3_minutes
+    title: "Pac Sky Emotion (3 Minutes)"
+    path: "pce2p_bgm_ajurika_1_3min.fsb"
+    ends: 2:58
+    type: betting
+  - id: pac_connection_3_minutes
+    title: "Pac Connection (3 Minutes)"
+    path: "pce2p_bgm_okubo_3min.fsb"
+    type: battle
+  - id: pac_twin_attack_3_minutes
+    title: "Pac Twin Attack (3 Minutes)"
+    path: "pce2p_bgm_ajurika_2_3min.fsb"
+    type: battle
+  - id: pac_terror_3_minutes
+    title: "Pac Terror (3 Minutes)"
+    path: "pce2p_bgm_inoue_3min.fsb"
+    type: battle
+  - id: babylonian_rhapsody_3_minutes
+    title: "Babylonian Rhapsody (3 Minutes)"
+    path: "pce2p_bgm_druaga_3min.fsb"
+    type: warning
+...

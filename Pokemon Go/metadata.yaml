@@ -21,4 +21,8 @@ songs:
     title: "Battle! Wild Pokémon"
     path: "Battle! Wild Pokemon.brstm"
     type: battle
+  - id: raid_battle
+    title: "Raid Battle"
+    path: "Raid Battle.brstm"
+    type: battle
 ...

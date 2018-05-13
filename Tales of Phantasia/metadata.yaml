@@ -4,12 +4,7 @@ title: "Tales of Phantasia"
 series: talesof
 platform: "SNES"
 year: 1995
-songs:
-#      - id: fighting_of_the_spirit_(ssh_remix)
-#        title: "Fighting of the Spirit (SSH Remix)"
-#        path: "Fighting of the Spirit (SSH Remix).brstm"
-#        type: battle
-# no fan remixes allowed, even if its good
+songs: 
   - id: morlia_gallery
     title: "Morlia Gallery"
     path: "Morlia Gallery.spc"
@@ -34,4 +29,8 @@ songs:
     title: "Final Act"
     path: "139 Final Act.spc"
     type: betting
+  - id: fighting_of_the_spirit_tales_of_phantasia
+    title: "Fighting of the Spirit"
+    path: "221 Fighting of the Spirit.spc"
+    type: battle
 ...

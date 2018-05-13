@@ -1,0 +1,35 @@
+---
+id: shinobi_arcade
+title: "Shinobi [Arcade]"
+platform: "Various"
+year: 1987
+songs: 
+  - id: bgm_1_shinobi_arcade
+    title: "BGM 1"
+    path: "BGM 1.vgz"
+    type: betting
+  - id: bgm_2_shinobi_arcade
+    title: "BGM 2"
+    path: "BGM 2.vgz"
+    type: betting
+  - id: bgm_3_shinobi_arcade
+    title: "BGM 3"
+    path: "BGM 3.vgz"
+    type: betting
+  - id: bgm_4_shinobi_arcade
+    title: "BGM 4"
+    path: "BGM 4.vgz"
+    type: betting
+  - id: boss_bgm_1_shinobi_arcade
+    title: "Boss BGM 1"
+    path: "Boss BGM 1.vgz"
+    type: betting
+  - id: boss_bgm_2_shinobi_arcade
+    title: "Boss BGM 2"
+    path: "Boss BGM 2.vgz"
+    type: warning
+  - id: continue_shinobi_arcade
+    title: "Continue"
+    path: "Continue.brstm"
+    type: warning
+...

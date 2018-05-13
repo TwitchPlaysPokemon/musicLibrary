@@ -2,8 +2,8 @@
 id: super_monkey_ball__banana_blitz
 title: "Super Monkey Ball: Banana Blitz"
 series: supermonkeyball
-year: 2006
 platform: "Wii"
+year: 2006
 songs:
   - id: ultra_heaven
     title: "Ultra Heaven"
@@ -12,5 +12,9 @@ songs:
   - id: monkey_island_smbbb
     title: "Monkey Island"
     path: "Monkey Island.brstm"
+    type: betting
+  - id: sinking_swamp
+    title: "Sinking Swamp"
+    path: "swamp.brstm"
     type: betting
 ...

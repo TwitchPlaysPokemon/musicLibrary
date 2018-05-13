@@ -1,0 +1,16 @@
+---
+id: chaindive
+title: "ChainDive"
+platform: "PS2"
+year: 2003
+songs: 
+  - id: movin_on_1st_stage_bgm
+    title: "Movin' on ~ 1st STAGE BGM"
+    path: "31.psf2"
+    type: betting
+  - id: 9th_stage_bgm
+    title: "9th STAGE BGM"
+    path: "41.psf2"
+    ends: 3:30
+    type: betting
+...

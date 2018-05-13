@@ -5,19 +5,67 @@ series: mario
 platform: "NDS"
 year: 2005
 songs: 
+  - id: failure_mkds
+    title: "Failure"
+    path: "018 Failure.mini2sf"
+    type: result
+  - id: battle_mode_mkds
+    title: "Battle Mode"
+    path: "031 Battle Mode.mini2sf"
+    type: betting
+  - id: mission_mode_mkds
+    title: "Mission Mode"
+    path: "038 Mission Mode.mini2sf"
+    type: betting
+  - id: boss_battle_mkds
+    title: "Boss Battle"
+    path: "047 Boss Battle.mini2sf"
+    type: warning
   - id: luigis_mansion_mkds
     title: "Luigi's Mansion"
     path: "055 Luigi's Mansion.mini2sf"
+    type: betting
+  - id: desert_hill_mkds
+    title: "Desert Hill"
+    path: "056 Desert Hill.mini2sf"
+    type: betting
+  - id: delfino_plaza_mkds
+    title: "Delfino Plaza"
+    path: "057 Delfino Plaza.mini2sf"
+    type: betting
+  - id: waluigi_pinball_wario_stadium
+    title: "Waluigi Pinball, Wario Stadium"
+    path: "058 Waluigi Pinball, Wario Stadium.mini2sf"
     type: betting
   - id: dk_pass_mkds
     title: "DK Pass"
     path: "060 DK Pass.mini2sf"
     tags: [xmas]
     type: betting
+  - id: tick_tock_clock
+    title: "Tick Tock Clock"
+    path: "061 Tick Tock Clock.mini2sf"
+    type: betting
+  - id: airship_fortress_mkds
+    title: "Airship Fortress"
+    path: "062 Airship Fortress.mini2sf"
+    type: betting
   - id: bowsers_castle_mkds
     title: "Bowser's Castle"
     path: "064 Bowser's Castle.mini2sf"
     type: betting
+  - id: rainbow_road_mkds
+    title: "Rainbow Road"
+    path: "065 Rainbow Road.mini2sf"
+    type: betting
+  - id: ngc_baby_park
+    title: "GCN - Baby Park"
+    path: "087 NGC - Baby Park.mini2sf"
+    type: betting
+  - id: gba_sky_garden
+    title: "GBA - Sky Garden"
+    path: "093 GBA - Sky Garden.mini2sf"
+    type: result
   - id: circuit_2_beta
     title: "Circuit 2 (Beta)"
     path: "Circuit 2 (Beta).brstm"

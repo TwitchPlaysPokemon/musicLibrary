@@ -13,6 +13,10 @@ songs:
     title: "The Champion (Variation)"
     path: "114b The Champion (Variation).psf"
     type: betting
+  - id: battle_in_the_coming_days
+    title: "Battle in the Coming Days"
+    path: "125 Everyday Battle.psf"
+    type: betting
   - id: healing
     title: "Healing"
     path: "901 Healing.psf"
@@ -33,6 +37,10 @@ songs:
     title: "Pursued"
     path: "928 Pursued.psf"
     type: warning
+  - id: to_a_distant_place
+    title: "To a Distant Place"
+    path: "949 Exploring the World.psf"
+    type: betting
   - id: final_battle_bofiii
     title: "Final Battle"
     path: "967 Final Battle.psf"

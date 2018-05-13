@@ -1,0 +1,27 @@
+---
+id: garfield_the_search_for_pooky
+title: "Garfield: The Search for Pooky"
+platform: "GBA"
+year: 2004
+songs: 
+  - id: title_screen_garfield_the_search_for_pooky
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: main_menu_garfield_the_search_for_pooky
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: level_intro_garfield_the_search_for_pooky
+    title: "Level Intro"
+    path: "Level Intro.brstm"
+    type: betting
+  - id: story_intro_garfield_the_search_for_pooky
+    title: "Story Intro"
+    path: "Story Intro.brstm"
+    type: warning
+  - id: john_s_house_level_1
+    title: "John's House (Level 1)"
+    path: "Level 1.brstm"
+    type: betting
+...

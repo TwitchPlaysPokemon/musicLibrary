@@ -98,13 +98,17 @@ songs:
     title: "Yoshi's Island"
     path: "yorster.hps"
     type: betting
-  - id: warning_siren_melee
-    title: "Warning Siren"
-    path: "siren.hps"
+  - id: how_to_play_melee 
+    title: "How to Play"
+    path: "howto_s.hps"
     type: warning
   - id: tournament_mode_1_melee 
     title: "Tournament Mode 1"
     path: "vs_hyou1.hps"
+    type: warning
+  - id: warning_siren_melee
+    title: "Warning Siren"
+    path: "siren.hps"
     type: warning
   - id: battlefield_melee
     title: "Battlefield"

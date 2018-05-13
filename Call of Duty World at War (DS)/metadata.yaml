@@ -1,0 +1,20 @@
+---
+id: call_of_duty_world_at_war_ds
+title: "Call of Duty: World at War (DS)"
+series: callofduty
+platform: "Various"
+year: 2008
+songs:
+  - id: incoming_call_of_duty_world_at_war_ds
+    title: "Incoming!"
+    path: "Incoming.mp3"
+    type: warning
+  - id: threatened_call_of_duty_world_at_war_ds
+    title: "Threatened"
+    path: "Threat.mp3"
+    type: betting
+  - id: into_the_jungle_call_of_duty_world_at_war_ds
+    title: "Into the Jungle"
+    path: "Jungle.mp3"
+    type: betting
+...

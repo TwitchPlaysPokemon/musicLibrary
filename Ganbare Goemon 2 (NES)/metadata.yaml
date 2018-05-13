@@ -1,0 +1,14 @@
+id: ganabre_goemon_2_nes
+title: "Ganbare Goemon 2"
+series: ganbaregoemon
+year: 1989
+platform: "FC"
+songs:
+  - id: journey_started_gg2
+    title: "The Journey Started (Stage 1, 5, 8)"
+    path: "01 The Journey Started (Stage 1, 5, 8).vgz"
+    type: betting
+  - id: chugoku_hokkaido_gg2
+    title: "Chugoku, Hokkaido (Stage 4,9)"
+    path: "04 Chugoku, Hokkaido (Stage 4,9).vgz"
+    type: betting

@@ -1,0 +1,12 @@
+---
+id: syvalion_snes
+title: "Syvalion [SNES]"
+platform: ["Arcade", "SNES"]
+year: 1988
+songs: 
+  - id: chapter_3_syvalion_snes
+    title: "Chapter 3"
+    path: "04 Chapter 3.spc"
+    ends: 2:40
+    type: betting
+...

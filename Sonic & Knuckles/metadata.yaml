@@ -29,6 +29,10 @@ songs:
     title: "Lava Reef Zone Act 1"
     path: "09 - Lava Reef Zone Act 1.vgz"
     type: betting
+  - id: lava_reef_zone_act_2
+    title: "Lava Reef Zone Act 2"
+    path: "10 - Lava Reef Zone Act 2.vgz"
+    type: betting
   - id: sky_sanctuary_zone
     title: "Sky Sanctuary Zone"
     path: "11 - Sky Sanctuary Zone.vgz"
@@ -37,6 +41,14 @@ songs:
     title: "Death Egg Zone Act 1"
     path: "12 - Death Egg Zone Act 1.vgz"
     type: betting
+  - id: the_doomsday_zone
+    title: "The Doomsday Zone"
+    path: "14 - The Doomsday Zone.vgz"
+    type: warning
+  - id: miniboss_sonic_and_knuckles
+    title: "Miniboss"
+    path: "19 - Miniboss.vgz"
+    type: warning
   - id: invincibility_sonic_and_knuckles
     title: "Invincibility"
     path: "24 - Invincibility.vgz"

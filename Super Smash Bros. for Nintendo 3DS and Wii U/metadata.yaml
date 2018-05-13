@@ -110,6 +110,10 @@ songs:
     path: "Ryu Stage (Normal).brstm"
     ends: 2:57
     type: betting
+  - id: save_the_world_heroes
+    title: "Save the World, Heroes!"
+    path: "snd_bgm_R26_SCD2_SekaiWoSukueYuushayo.nus3bank"
+    type: betting
   - id: smiles_and_tears
     title: "Smiles and Tears"
     path: "snd_bgm_K12_MTR2_SmileAndTears.nus3bank"
@@ -197,6 +201,10 @@ songs:
   - id: battle_trainer_battle
     title: "Battle! (Trainer Battle) (Pokémon X / Pokémon Y)"
     path: "snd_bgm_H13_XY_Sentou_Trainer.nus3bank"
+    type: battle
+  - id: dark_lord_smash4
+    title: "Dark Lord"
+    path: "snd_bgm_R27_SCD2_YamiNoOu.nus3bank"
     type: battle
   - id: final_destination_smash4
     title: "Final Destination"

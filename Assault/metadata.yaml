@@ -1,0 +1,12 @@
+---
+id: assault_arcade
+title: "Assault"
+platform: "Arcade"
+year: 1988
+songs: 
+  - id: bgm_4_stage_d
+    title: "BGM 4 (STAGE D)"
+    path: "06 BGM 4 (Stage D).vgz"
+    ends: 3:00
+    type: betting
+...

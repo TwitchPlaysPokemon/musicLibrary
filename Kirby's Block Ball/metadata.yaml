@@ -9,4 +9,20 @@ songs:
     title: "Stage 2"
     path: "Stage 2.brstm"
     type: betting
+  - id: stage_3_kirbys_block_ball
+    title: "Stage 3"
+    path: "Stage 3.brstm"
+    type: betting
+  - id: stage_5_kirbys_block_ball
+    title: "Stage 5"
+    path: "Stage 5.brstm"
+    type: betting
+  - id: stage_7_kirbys_block_ball
+    title: "Stage 7"
+    path: "Stage 7.brstm"
+    type: betting
+  - id: stage_8_kirbys_block_ball
+    title: "Stage 8"
+    path: "Stage 8.brstm"
+    type: betting
 ...

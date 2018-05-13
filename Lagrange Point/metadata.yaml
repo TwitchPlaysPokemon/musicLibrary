@@ -1,13 +1,17 @@
 ---
 id: lagrange_point
 title: "Lagrange Point"
-year: 1991
 platform: "FC"
-songs:
+year: 1991
+songs: 
   - id: fighters_awaken
     title: "Fighters Awaken"
     path: "04 Fighters Awaken.vgz"
     type: battle
+  - id: satellite_base
+    title: "Satellite Base"
+    path: "06 Satellite Base.vgz"
+    type: betting
   - id: fighters_sadness
     title: "Fighters' Sadness"
     path: "14 Fighters Sadness.vgz"
@@ -16,8 +20,8 @@ songs:
     title: "Departure and Arrival"
     path: "15 Departure and Arrival.vgz"
     type: betting
-  - id: satellite_base
-    title: "Satellite Base"
-    path: "06 Satellite Base.vgz"
-    type: betting
+  - id: the_resurrection_of_sabbath_ending
+    title: "The Resurrection of Sabbath (Ending)"
+    path: "26 The Resurrection of Sabbath.vgz"
+    type: break
 ...

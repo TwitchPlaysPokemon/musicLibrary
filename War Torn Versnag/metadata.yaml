@@ -1,0 +1,15 @@
+---
+id: war_torn_versnag_versnag_senran
+title: "War Torn Versnag: Versnag Senran"
+platform: "X68000"
+year: 1993
+songs: 
+  - id: battle_1_war_torn_versnag
+    title: "Battle 1"
+    path: "Battle 1.brstm"
+    type: battle
+  - id: fog
+    title: "Fog"
+    path: "Fog.brstm"
+    type: betting
+...

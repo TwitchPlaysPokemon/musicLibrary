@@ -1,0 +1,15 @@
+---
+id: perfect_dark
+title: "Perfect Dark"
+platform: "N64"
+year: 2000
+songs: 
+  - id: datadyne_central_investigation
+    title: "dataDyne Central: Investigation"
+    path: "18b Investigation.miniusf"
+    type: betting
+  - id: datadyne_central_investigation_x
+    title: "dataDyne Central: Investigation X"
+    path: "18c Investigation X.miniusf"
+    type: warning
+...

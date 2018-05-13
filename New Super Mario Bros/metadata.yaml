@@ -21,26 +21,10 @@ songs:
     title: "Desert"
     path: "Desert.mini2sf"
     type: betting
-#      - id: final_boss
-#        title: "Final Boss"
-#        path: "Final Boss.brstm"
-#        type: battle #Not tense and charged enough
   - id: fortress_nsmb
     title: "Fortress"
     path: "Fortress.mini2sf"
     type: betting
-      #- id: spooooooky_ghost_house_ooooooo
-      #  title: "Ghost House"
-      #  path: "Ghost House.brstm"
-      #  type: warning
-#      - id: mario_vs_luigi_plain_1
-#        title: "Mario Vs. Luigi - Plain 1"
-#        path: "Mario Vs. Luigi - Plain 1.brstm"
-#        type: battle
-#      - id: mario_vs_luigi_plain_2
-#        title: "Mario Vs. Luigi - Plain 2"
-#        path: "Mario Vs. Luigi - Plain 2.brstm"
-#        type: battle #Doesn't fit. Warning?
   - id: mega_mushroom
     title: "Mega Mushroom"
     path: "Mega Mushroom.mini2sf"
@@ -65,31 +49,15 @@ songs:
     title: "Volcano"
     path: "Volcano.mini2sf"
     type: betting
-#      - id: world_1
-#        title: "World 1 Map"
-#        path: "World 1 Map.brstm"
-#        type: warning #Does not fit.
   - id: world_2_nsmb
     title: "World 2 Map"
     path: "World 2 Map.mini2sf"
     type: warning
-#      - id: world_3
-#        title: "World 3 Map"
-#        path: "World 3 Map.brstm"
-#        type: betting #Does not fit. 
-#      - id: world_4
-#        title: "World 4 Map"
-#        path: "World 4 Map.brstm"
-#        type: warning #Does not fit.
-#      - id: world_5
-#        title: "World 5 Map"
-#        path: "World 5 Map.brstm"
-#        type: warning #Does not fit.
-#      - id: world_6
-#        title: "World 6 Map"
-#        path: "World 6 Map.brstm"
-#        type: warning #Borderline doesn't fit.
-  - id: world_7
+  - id: world_6_the_canyon
+    title: "World 6 - The Canyon"
+    path: "45 World 6 - The Canyon.mini2sf"
+    type: warning
+  - id: world_7_nsmb
     title: "World 7 Map"
     path: "World 7 Map.mini2sf"
     type: betting

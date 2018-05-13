@@ -6,23 +6,27 @@ platform: ["Wii U", "Various"]
 year: 2014
 songs: 
   - id: strike_the_earth_plains_of_passage
-    path: "Strike the Earth! (Plains of Passage).brstm"
     title: "Strike the Earth! (Plains of Passage)"
+    path: "Strike the Earth! (Plains of Passage).brstm"
     type: betting
   - id: the_fateful_return_tower_approach
-    path: "The Fateful Return (Tower Approach).brstm"
     title: "The Fateful Return (Tower Approach)"
+    path: "The Fateful Return (Tower Approach).brstm"
     type: betting
   - id: high_above_the_land_the_flying_machine
-    path: "High Above the Land (The Flying Machine).brstm"
     title: "High Above the Land (The Flying Machine)"
+    path: "High Above the Land (The Flying Machine).brstm"
     type: betting
   - id: of_devious_machinations_clockwork_tower
-    path: "Of Devious Machinations (Clockwork Tower).brstm"
     title: "Of Devious Machinations (Clockwork Tower)"
+    path: "Of Devious Machinations (Clockwork Tower).brstm"
     type: battle
   - id: the_decadent_dandy_king_knight_battle
-    path: "The Decadent Dandy (King Knight Battle).brstm"
     title: "The Decadent Dandy (King Knight Battle)"
+    path: "The Decadent Dandy (King Knight Battle).brstm"
     type: warning
+  - id: an_underlying_problem_the_lost_city
+    path: "An Underlying Problem (The Lost City).brstm"
+    title: "An Underlying Problem (The Lost City)"
+    type: betting
 ...

@@ -1,0 +1,27 @@
+---
+id: yu_no_pc_9801
+title: "YU-NO: A girl who chants love at the bound of this world [PC-9801]"
+platform: ["PC-9801", "Saturn", "PC"]
+year: 1996
+songs: 
+  - id: ayumi_yu_no_pc_9801
+    title: "Ayumi"
+    path: "07 Ayumi.vgz"
+    type: break
+  - id: fate_yu_no_pc_9801
+    title: "Fate"
+    path: "12 Fate.vgz"
+    type: betting
+  - id: impatience_yu_no_pc_9801
+    title: "Impatience"
+    path: "26 Impatience.vgz"
+    type: betting
+  - id: yu_no_yu_no_pc_9801
+    title: "YU-NO"
+    path: "36 YU-NO.vgz"
+    type: break
+  - id: other_world_1_yu_no_pc_9801
+    title: "Other World 1"
+    path: "67 Other World 1.vgz"
+    type: break
+...

@@ -5,14 +5,18 @@ series: mario
 platform: "GB"
 year: 1992
 songs:
-  - id: athletic
+  - id: athletic_sml2
     title: "Athletic"
     path: "Athletic.brstm"
     type: betting
-  - id: haunted_house
-    title: "Haunted House"
-    path: "Haunted House.brstm"
-    type: break
+  - id: overworld_sml2
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: betting
+  - id: wario_s_castle
+    title: "Wario's Castle"
+    path: "Wario's Castle.brstm"
+    type: betting
   - id: outside_warios_castle
     title: "Outside Wario's Castle"
     path: "Outside Wario's Castle.brstm"
@@ -29,8 +33,8 @@ songs:
     title: "Wario Battle 2"
     path: "Wario Battle 2.brstm"
     type: warning
-  - id: warios_castle
-    title: "Wario's Castle"
-    path: "Wario's Castle.brstm"
-    type: betting
+  - id: haunted_house
+    title: "Haunted House"
+    path: "Haunted House.brstm"
+    type: break
 ...
