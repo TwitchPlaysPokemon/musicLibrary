@@ -5,7 +5,7 @@ series: sonic
 platform: "GBA"
 year: 2002
 songs:
-  - id: knuckles_boss
+  - id: knuckles_boss_sadv2
     title: "Knuckles Boss"
     path: "Knuckles Boss.minigsf"
     type: battle
@@ -62,7 +62,7 @@ songs:
     title: "Final Boss"
     path: "Final Boss.minigsf"
     type: warning
-  - id: 7_boss
+  - id: 7_boss_sadv2
     title: "7 Boss"
     path: "7 Boss.minigsf"
     type: warning
@@ -70,7 +70,7 @@ songs:
     title: "Egg Utopia Zone (Both Acts)"
     path: "Egg Utopia Zone (Both Acts).brstm"
     type: betting
-  - id: vs_wait
+  - id: vs_wait_sadv2
     title: "VS Wait"
     path: "51 VS Wait.minigsf"
     type: result

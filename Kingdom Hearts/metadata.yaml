@@ -13,7 +13,7 @@ songs:
     title: "Hollow Bastion"
     path: "Hollow Bastion.brstm"
     type: betting
-  - id: traverse_town
+  - id: traverse_town_kh1
     title: "Traverse Town"
     path: "Traverse Town.brstm"
     type: betting
@@ -21,7 +21,7 @@ songs:
     title: "Scherzo di Notte"
     path: "Scherzo di Notte.brstm"
     type: warning
-  - id: the_deep_end
+  - id: the_deep_end_kh1
     title: "The Deep End"
     path: "The Deep End.brstm"
     type: battle
@@ -33,7 +33,7 @@ songs:
     title: "Shrouding Dark Cloud"
     path: "Shrouding Dark Cloud.brstm"
     type: betting
-  - id: hand_in_hand
+  - id: hand_in_hand_kh1
     title: "Hand in Hand"
     path: "Hand in Hand.brstm"
     type: betting
@@ -41,7 +41,7 @@ songs:
     title: "Guardando nel Buio"
     path: "Guardando Nel Buio.brstm"
     type: battle
-  - id: end_of_the_world
+  - id: end_of_the_world_kh1
     title: "End of the World"
     path: "End of the World.brstm"
     type: warning

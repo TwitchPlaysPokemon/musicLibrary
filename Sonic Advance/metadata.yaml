@@ -43,15 +43,14 @@ songs:
     title: "Secret Base Zone Act 1"
     path: "Secret Base Zone Act 1.minigsf"
     type: betting
-  - id: vs_wait
+  - id: vs_wait_sadv
     title: "VS Wait"
     path: "VS Wait.minigsf"
     type: break
-#      - id: x-zone
-#        title: "X-Zone"
-#        path: "X-Zone.minigsf"
-#        type: betting
-# another final_betting potential category?
+  - id: x-zone_sadv
+    title: "X-Zone"
+    path: "X-Zone.minigsf"
+    type: warning
   - id: special_stage_results
     title: "Special Stage Results"
     path: "Special Stage Results.minigsf"
@@ -60,7 +59,7 @@ songs:
     title: "Boss (Knuckles)"
     path: "Boss (Knuckles).minigsf"
     type: warning
-  - id: boss_intro
+  - id: boss_intro_sadv
     title: "Boss Intro"
     path: "Boss Intro.minigsf"
     type: warning

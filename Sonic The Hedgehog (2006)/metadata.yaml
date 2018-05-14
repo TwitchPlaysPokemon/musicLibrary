@@ -9,7 +9,7 @@ songs:
     title: "[BOSS] EGG-CERBERUS & EGG-GENESIS"
     path: "Boss - Egg-Cerebus & Egg Genesis.brstm"
     type: battle
-  - id: egg_wyvern
+  - id: egg_wyvern_s06
     title: "[BOSS] EGG-WYVERN"
     path: "Boss - Egg-Wyvern.brstm"
     type: battle
@@ -21,7 +21,7 @@ songs:
     title: "[BOSS] MEPHILES"
     path: "Boss - Mephiles.brstm"
     type: battle
-  - id: boss_vs_character
+  - id: boss_vs_character_s06
     title: "[BOSS] VS. CHARACTER"
     path: "Boss - Vs. Character.brstm"
     type: battle
@@ -74,7 +74,7 @@ songs:
     title: "WHITE ACROPOLIS ~THE BASE~"
     path: "White Acropolis - The Base.brstm"
     type: betting
-  - id: town_mission_4
+  - id: town_mission_4_s06
     title: "TOWN MISSION 4"
     path: "Town Mission - Fast.brstm"
     type: warning
@@ -90,7 +90,7 @@ songs:
     title: "[BOSS] SOLARIS PHASE 2"
     path: "Boss - Solaris Phase 2.brstm"
     type: battle
-  - id: town_mission_1
+  - id: town_mission_1_s06
     title: "TOWN MISSION 1"
     path: "Town_Mission.brstm"
     type: break
@@ -110,7 +110,7 @@ songs:
     title: "CRISIS CITY ~TORNADO~"
     path: "303d - Tomoya Ohtani - CRISIS CITY ~TORNADO~.xma"
     type: betting
-  - id: end_of_the_world
+  - id: end_of_the_world_s06
     title: "END OF THE WORLD"
     path: "End of the World - All.brstm"
     ends: 2:59

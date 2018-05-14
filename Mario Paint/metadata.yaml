@@ -5,7 +5,7 @@ series: mario
 year: 1992
 platform: "SNES"
 songs:
-  - id: monkeys
+  - id: monkeys_mario_paint
     title: "Monkeys"
     path: "Monkeys.spc"
     type: betting
@@ -25,7 +25,7 @@ songs:
     title: "Flyswatter ~ Level 2"
     path: "16 Flyswatter ~ Level 2.spc"
     type: betting
-  - id: flower_garden
+  - id: flower_garden_mario_paint
     title: "Flower Garden"
     path: "04 Flower Garden.spc"
     type: break

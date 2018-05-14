@@ -5,15 +5,15 @@ platform: ["GC", "Various"]
 #other platforms: ["DC", "PS2", "Xbox", "PC", "GBA", "NDS", "PSP"]
 year: 2004
 songs:
-  - id: arle_stage
+  - id: arle_stage_ppf
     title: "Arle Stage"
     path: "Arle Stage.brstm"
     type: result
-  - id: fun_puyo_puyo_hell
+  - id: fun_puyo_puyo_hell_ppf
     title: "Fun Puyo Puyo Hell!"
     path: "11.adx"
     type: battle
-  - id: fever_mode
+  - id: fever_mode_ppf
     title: "Fever Mode"
     path: "15.adx"
     type: result

@@ -4,23 +4,23 @@ platform: "Wii"
 title: "Puyo Puyo!! 20th Anniversary"
 year: 2011
 songs: 
-  - id: puyo_puyo_theme
+  - id: puyo_puyo_theme_pp20th
     path: "bgm_24 (Puyo Puyo theme).brstm"
     title: "Puyo Puyo theme"
     type: betting
-  - id: fever_mode
+  - id: fever_mode_pp20th
     path: "bgm_21 (PP20 Fever Mode).brstm"
     title: "Fever Mode"
     type: result
-  - id: bgm22
+  - id: bgm22_pp20th
     path: "bgm_22.brstm"
     title: "BGM 22"
     type: battle
-  - id: bgm51
+  - id: bgm51_pp20th
     path: "bgm_51.brstm"
     title: "BGM 51"
     type: battle
-  - id: bgm54
+  - id: bgm54_pp20th
     path: "bgm_54 (PPF taisen 4).brstm"
     title: "BGM 54 (PPF taisen 4)"
     type: battle

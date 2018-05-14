@@ -5,7 +5,7 @@ series: pokemon
 platform: "3DS"
 year: 2012
 songs:
-  - id: outlaw
+  - id: outlaw_pmd_gti
     title: "Outlaw!"
     path: "Outlaw!.brstm"
     type: warning
@@ -13,7 +13,7 @@ songs:
     title: "Job Clear!"
     path: "Job Clear!.brstm"
     type: result
-  - id: rising_fear
+  - id: rising_fear_pmd_gti
     title: "Rising Fear"
     path: "Rising Fear.brstm"
     type: warning
@@ -22,7 +22,7 @@ songs:
     title: "vs. Final Boss (Bittercold Last Battle)"
     tags: [xmas]
     type: battle
-  - id: ragged_mountain
+  - id: ragged_mountain_pmd_gti
     title: "Ragged Mountain"
     path: "Ragged Mountain.brstm"
     type: betting
@@ -35,7 +35,7 @@ songs:
     path: "Great Glacier.brstm"
     tags: [xmas]
     type: betting
-  - id: stone_cave
+  - id: stone_cave_pmd_gti
     title: "Stone Cave"
     path: "Stone Cave.brstm"
     type: betting
@@ -54,7 +54,7 @@ songs:
     path: "Glacier Palace_ West Spire.brstm"
     tags: [xmas]
     type: betting
-  - id: kyurem_approaching
+  - id: kyurem_approaching_pmd_gti
     title: "Kyurem Approaching"
     path: "Kyurem Approaching.brstm"
     tags: [xmas]
@@ -199,7 +199,7 @@ songs:
     title: "In the Dark..."
     path: "BGM_EVE_TENSION_01.bcstm"
     type: warning
-  - id: in_the_depths_of_the_pit
+  - id: in_the_depths_of_the_pit_pmd_gti
     title: "In the Depths of the Pit"
     path: "BGM_EVE_OKUSOKO_01.bcstm"
     type: warning

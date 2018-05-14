@@ -17,19 +17,19 @@ songs:
     title: "Amp Plains"
     path: "Amp Plains.mini2sf"
     type: betting
-  - id: northern_desert
+  - id: northern_desert_pmde
     title: "Northern Desert"
     path: "Northern Desert.mini2sf"
     type: betting
-  - id: quicksand_pit
+  - id: quicksand_pit_pmde
     title: "Quicksand Pit"
     path: "Quicksand Pit.mini2sf"
     type: betting
-  - id: chasm_cave
+  - id: chasm_cave_pmde
     title: "Chasm Cave"
     path: "Chasm Cave.mini2sf"
     type: betting
-  - id: sealed_ruin
+  - id: sealed_ruin_pmde
     title: "Sealed Ruin"
     path: "Sealed Ruin.mini2sf"
     type: betting
@@ -57,7 +57,7 @@ songs:
     title: "Do Your Best, As Always!"
     path: "Do Your Best, as Always!.mini2sf"
     type: betting
-  - id: concealed_ruins
+  - id: concealed_ruins_pmde
     title: "Concealed Ruins"
     path: "Concealed Ruins.mini2sf"
     type: betting
@@ -65,19 +65,19 @@ songs:
     title: "Random Dungeon Theme 3"
     path: "Random Dungeon Theme 3.brstm"
     type: betting
-  - id: defy_the_legends
+  - id: defy_the_legends_pmde
     title: "Defy the Legends"
     path: "Defy the Legends.mini2sf"
     type: battle
-  - id: job_clear
+  - id: job_clear_pmde
     title: "Job Clear!"
     path: "Job Clear!.mini2sf"
     type: result
-  - id: ending_theme
+  - id: ending_theme_pmde
     title: "Ending Theme"
     path: "Ending Theme.mini2sf"
     type: result
-  - id: in_the_depths_of_the_pit
+  - id: in_the_depths_of_the_pit_pmde
     title: "In the Depths of the Pit"
     path: "In the Depths of the Pit.mini2sf"
     type: warning
@@ -89,7 +89,7 @@ songs:
     title: "Outlaw!"
     path: "Outlaw!.mini2sf"
     type: warning
-  - id: team_skull
+  - id: team_skull_pmde
     title: "Team Skull"
     path: "Team Skull.mini2sf"
     type: warning
@@ -97,7 +97,7 @@ songs:
     title: "Upper Steam Cave"
     path: "Upper Steam Cave.mini2sf"
     type: warning
-  - id: monster_house
+  - id: monster_house_pmde
     title: "Monster House!"
     path: "Monster House!.mini2sf"
     type: warning
@@ -117,7 +117,7 @@ songs:
     title: "Battle Against Dusknoir"
     path: "Battle against Dusknoir.mini2sf"
     type: warning
-  - id: temporal_spire
+  - id: temporal_spire_pmde
     title: "Temporal Spire"
     path: "Temporal Spire.mini2sf"
     type: warning
@@ -133,11 +133,11 @@ songs:
     title: "Goodnight"
     path: "Goodnight.mini2sf"
     type: break
-  - id: at_the_end_of_the_day
+  - id: at_the_end_of_the_day_pmde
     title: "At the End of the Day"
     path: "At the End of the Day.mini2sf"
     type: break
-  - id: time_restored
+  - id: time_restored_pmde
     title: "Time Restored"
     path: "Time Restored.mini2sf"
     type: break
@@ -150,7 +150,7 @@ songs:
     path: "78 Blizzard Island Rescue Team Medley [0053].mini2sf"
     tags: [xmas]
     type: betting
-  - id: hidden_land
+  - id: hidden_land_pmde
     title: "Hidden Land"
     path: "56 Hidden Land [0048].mini2sf"
     type: break
