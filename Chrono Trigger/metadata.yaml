@@ -5,99 +5,94 @@ series: chrono
 platform: "SNES"
 year: 1995
 songs: 
-  - id: guardia_millennial_fair
-    title: "Guardia Millennial Fair"
-    path: "106 Guardia Millennial Fair.spc"
-    type: betting
-  - id: guardia_castle_courage_and_pride
-    title: "Guardia Castle ~Courage and Pride~"
+  - id: a_meeting_with_destiny
+    title: "A Meeting with Destiny"
+    path: "A Meeting With Destiny.psf"
+    type: break
+  - id: gatos_song
+    title: "Gato's Song"
+    path: "Gato's Song.spc"
+    type: warning
+  - id: guardia_castle_pride_glory
+    title: "Guardia Castle ~Pride & Glory~"
     path: "Guardia Castle.brstm"
     type: betting
-  - id: kingdom_trial
-    title: "Kingdom Trial"
-    path: "121 Kingdom Trial.spc"
-    type: betting
-  - id: delightful_spekkio
-    title: "Delightful Spekkio"
-    path: "214 Delightful Spekkio.spc"
-    type: betting
-  - id: chrono_trigger
-    title: "Chrono Trigger"
-    path: "102 Chrono Trigger (Looped).spc"
-    type: result
   - id: frogs_theme
     title: "Frog's Theme"
     path: "Frog's Theme.brstm"
-    type: result
-  - id: fanfare_1
-    title: "Fanfare 1"
-    path: "120 Fanfare 1.spc"
     type: result
   - id: robos_theme
     title: "Robo's Theme"
     path: "Robo's Theme.spc"
     type: result
-  - id: to_far_away_times
-    title: "To Far Away Times"
-    ends: 3:14
-    path: "317 To Far Away Times.spc"
-    type: betting
-  - id: gatos_song
-    title: "Gato's Song"
-    path: "Gato's Song.spc"
-    type: warning
-  - id: the_hidden_truth
-    title: "The Hidden Truth"
-    path: "122 The Hidden Truth (Looped).spc"
-    type: warning
-  - id: lavos_theme
-    title: "Lavos' Theme"
-    path: "205 Lavos' Theme.spc"
-    type: warning
   - id: aylas_theme
     title: "Ayla's Theme"
     path: "Ayla's Theme.spc"
     type: warning
-  - id: burn_bobonga
-    title: "Burn! Bobonga!"
-    path: "221 Burn! Bobonga!.spc"
+  - id: chrono_trigger_looped
+    title: "Chrono Trigger (Looped)"
+    path: "102 Chrono Trigger (Looped).spc"
+    type: result
+  - id: guardia_s_millennial_fair
+    title: "Guardia's Millennial Fair"
+    path: "106 Guardia Millennial Fair.spc"
+    type: betting
+  - id: strange_occurrences
+    title: "Strange Occurrences"
+    path: "108 A Strange Happening.spc"
     type: warning
-  - id: a_meeting_with_destiny
-    title: "A Meeting With Destiny"
-    path: "A Meeting With Destiny.psf"
-    type: break
-  - id: corridors_of_time
-    title: "Corridors of Time"
-    path: "304 Corridors of Time.spc"
-    type: break
   - id: secret_of_the_forest
     title: "Secret of the Forest"
     path: "111 Secret of the Forest.spc"
     type: break
-  - id: a_strange_happening
-    title: "A Strange Happening"
-    path: "108 A Strange Happening.spc"
+  - id: fanfare_1
+    title: "Fanfare 1"
+    path: "120 Fanfare 1.spc"
+    type: result
+  - id: the_trial
+    title: "The Trial"
+    path: "121 Kingdom Trial.spc"
+    type: betting
+  - id: the_hidden_truth
+    title: "The Hidden Truth"
+    path: "122 The Hidden Truth (Looped).spc"
     type: warning
-  - id: ruined_world
-    title: "Ruined World"
+  - id: a_desolate_world
+    title: "A Desolate World"
     path: "201 Ruined World.spc"
     type: break
-  - id: underground_sewer_no_water
-    title: "Underground Sewer (No Water)"
+  - id: lavos_s_theme
+    title: "Lavos's Theme"
+    path: "205 Lavos' Theme.spc"
+    type: warning
+  - id: jolly_ol_spekkio
+    title: "Jolly Ol' Spekkio"
+    path: "214 Delightful Spekkio.spc"
+    type: betting
+  - id: burn_bobonga
+    title: "Burn! Bobonga!"
+    path: "221 Burn! Bobonga!.spc"
+    type: warning
+  - id: creeping_through_the_sewers_no_water
+    title: "Creeping through the Sewers (No Water)"
     path: "216 Underground Sewer (No Water).spc"
     type: betting
-  - id: confusing_melody
-    title: "Confusing Melody"
+  - id: strains_of_insanity
+    title: "Strains of Insanity"
     path: "223 Confusing Melody.spc"
     type: warning
-  - id: battle_with_magus
-    title: "Battle with Magus"
+  - id: magus_confronted
+    title: "Magus Confronted"
     path: "224 Battle with Magus.spc"
     type: battle
-  - id: tyran_castle
-    title: "Tyran Castle"
+  - id: tyranno_lair
+    title: "Tyranno Lair"
     path: "302 Tyran Castle.spc"
     type: betting
+  - id: corridor_of_time
+    title: "Corridor of Time"
+    path: "304 Corridors of Time.spc"
+    type: break
   - id: zeal_palace
     title: "Zeal Palace"
     path: "305 Zeal Palace.spc"
@@ -106,16 +101,21 @@ songs:
     title: "Schala's Theme"
     path: "306 Schala's Theme.spc"
     type: betting
-  - id: undersea_palace
-    title: "Undersea Palace"
+  - id: ocean_palace
+    title: "Ocean Palace"
     path: "308 Undersea Palace.spc"
     type: betting
   - id: black_omen
     title: "Black Omen"
     path: "311 Black Omen.spc"
     type: betting
-  - id: last_battle_ct
-    title: "Last Battle"
+  - id: the_final_battle_ct
+    title: "The Final Battle"
     path: "314 Last Battle.spc"
     type: battle
+  - id: outskirts_of_times
+    title: "Outskirts of Time"
+    path: "317 To Far Away Times.spc"
+    ends: 3:14
+    type: betting
 ...

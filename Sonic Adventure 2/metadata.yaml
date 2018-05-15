@@ -5,32 +5,32 @@ series: sonic
 platform: "DC"
 year: 2001
 songs: 
-  - id: eggman_vs_tails
-    title: "Boss - Eggman vs. Tails"
+  - id: boss_suitable_opponent
+    title: "Boss: Suitable Opponent"
     path: "Boss - Eggman vs. Tails.brstm"
     type: battle
-  - id: gun_mobile_sa2
-    title: "Boss - GUN-Mobile"
+  - id: boss_gun_mobile
+    title: "Boss: -GUN- Mobile"
     path: "Boss - GUN-Mobile.brstm"
     type: battle
-  - id: king_boom_boo
-    title: "Boss - King Boom Boo"
+  - id: boss_masters_of_The_desert_king_boom_boo
+    title: "Boss: Masters Of The Desert [King Boom Boo]"
     path: "Boss - King Boom Boo.brstm"
     type: battle
-  - id: sonic_vs_shadow_first
-    title: "Boss - Sonic vs. Shadow, First"
+  - id: boss_shut_up_faker
+    title: "Boss: Shut Up Faker!"
     path: "Boss - Sonic vs. Shadow, First.brstm"
     type: battle
   - id: chao_karate
     title: "Chao Karate"
     path: "Chao Karate.brstm"
     type: battle
-  - id: cannons_core_1
-    title: "Cannon's Core 1"
+  - id: scramble_for_the_core_for_cannon_s_core_ver_1
+    title: "Scramble For The Core ...for Cannon's Core ver.1"
     path: "Cannon's Core 1.brstm"
     type: betting
-  - id: cannons_core_2
-    title: "Cannon's Core 2"
+  - id: cooperation_for_cannon_s_core_ver_2
+    title: "Cooperation ...for Cannon's Core ver.2"
     path: "Cannon's Core 2.brstm"
     type: betting
   - id: chao_race_beginner
@@ -45,60 +45,60 @@ songs:
     title: "Chao Race - Dark"
     path: "Chao Race - Dark.brstm"
     type: betting
-  - id: cosmic_wall
-    title: "Cosmic Wall"
+  - id: soarin_over_the_space_for_cosmic_wall
+    title: "Soarin' Over The Space ...for Cosmic Wall"
     path: "Cosmic Wall.brstm"
     type: betting
-  - id: crazy_gadget
-    title: "Crazy Gadget"
+  - id: unstable_world_for_crazy_gadget
+    title: "Unstable World ...for Crazy Gadget"
     path: "Crazy Gadget.brstm"
     type: betting
-  - id: eternal_engine
-    title: "Eternal Engine"
+  - id: on_the_edge_for_eternal_engine
+    title: "On The Edge ...for Eternal Engine"
     path: "Eternal Engine.brstm"
     type: betting
   - id: event_strategy_slower
-    title: "Event - Strategy (Slower)"
+    title: "Event: Strategy (Slower)"
     path: "Event - Strategy (Slower).brstm"
     type: betting
-  - id: final_rush
-    title: "Final Rush"
+  - id: highway_in_the_sky_for_final_rush
+    title: "Highway In The Sky ...for Final Rush"
     path: "Final Rush.brstm"
     type: betting
-  - id: green_forest_sa2
-    title: "Green Forest"
+  - id: won_t_stop_just_go_for_green_forest
+    title: "Won't Stop, Just Go! ...for Green Forest"
     path: "Green Forest.brstm"
     type: betting
-  - id: hidden_base_sa2
-    title: "Hidden Base"
+  - id: down_in_the_base_for_hidden_base
+    title: "Down In The Base ...for Hidden Base"
     path: "Hidden Base.brstm"
     type: betting
-  - id: iron_gate_sa2
-    title: "Iron Gate"
+  - id: remember_me_m_f_m_for_iron_gate
+    title: "Remember Me? - M.F.M. ...for Iron Gate"
     path: "Iron Gate.brstm"
     type: betting
-  - id: kart_stages_sa2
-    title: "Kart Stages"
+  - id: chasing_drive_for_kart
+    title: "Chasing Drive ...for Kart"
     path: "Kart Stages.brstm"
     type: betting
-  - id: lost_colony
-    title: "Lost Colony"
+  - id: trespasser_for_lost_colony
+    title: "Trespasser ...for Lost Colony"
     path: "Lost Colony.brstm"
     type: betting
-  - id: mission_street
-    title: "Mission Street"
+  - id: rumbling_hwy_for_mission_street
+    title: "Rumbling HWY ...for Mission Street"
     path: "Mission Street.brstm"
     type: betting
-  - id: prison_lane
-    title: "Prison Lane"
+  - id: this_way_out_for_prison_lane
+    title: "This Way Out ...for Prison Lane"
     path: "Prison Lane.brstm"
     type: betting
-  - id: pyramid_cave
-    title: "Pyramid Cave"
+  - id: keys_the_ruin_for_pyramid_cave
+    title: "Keys The Ruin ...for Pyramid Cave"
     path: "Pyramid Cave.brstm"
     type: betting
-  - id: sand_ocean_sa2
-    title: "Sand Ocean"
+  - id: way_to_the_base_for_sand_ocean
+    title: "Way To The Base ...for Sand Ocean"
     path: "Sand Ocean.brstm"
     type: betting
   - id: chao_race_hero
@@ -113,64 +113,64 @@ songs:
     title: "Menu - Options"
     path: "Menu - Options.brstm"
     type: result
-  - id: metal_harbor_1
-    title: "Metal Harbor 1 - In Game Version"
+  - id: that_s_the_way_i_like_it_for_metal_harbor
+    title: "That's The Way I Like It ...for Metal Harbor"
     path: "Metal Harbor 1 - In Game Version.brstm"
-    type: result
-  - id: cannons_core_3
-    title: "Cannon's Core 3"
+    type: betting
+  - id: deep_inside_of_for_cannon_s_core_ver_3
+    title: "Deep Inside Of... ...for Cannon's Core ver.3"
     path: "Cannon's Core 3.brstm"
-    type: warning
-  - id: city_escape_2
-    title: "City Escape 2"
+    type: betting
+  - id: the_mad_convoy_race_for_city_escape
+    title: "The Mad Convoy Race ...for City Escape"
     path: "City Escape 2.brstm"
     type: warning
   - id: event_strategy
-    title: "Event - Strategy"
+    title: "Event: Strategy"
     path: "Event - Strategy.brstm"
     type: warning
-  - id: speed_up_sa2
+  - id: hey_you_it_s_time_to_speed_up_again
     title: "Hey You! It's Time To Speed Up Again!!!"
     path: "Hey You! It's Time To Speed Up Again!!!.brstm"
     type: warning
-  - id: invincible_sa2
-    title: "Invincible (Looped)"
+  - id: still_invincible_no_fear
+    title: "Still Invincible ...No Fear!"
     path: "Invincible (Looped).brstm"
     type: warning
   - id: menu_story_select
     title: "Menu - Story Select"
     path: "Menu - Story Select.brstm"
     type: warning
-  - id: metal_harbor_2
-    title: "Metal Harbor 2"
+  - id: can_t_stop_so_what_for_metal_harbor
+    title: "Can't Stop, So What!? ...for Metal Harbor"
     path: "Metal Harbor 2.brstm"
     type: warning
-  - id: pyramid_cave_multiplayer
-    title: "Pyramid Cave - Multiplayer"
+  - id: keys_the_ruin_for_pyramid_cave_multiplayer
+    title: "Keys The Ruin ...for Pyramid Cave (Multiplayer)"
     path: "Pyramid Cave - Multiplayer.brstm"
     type: warning
-  - id: sky_rail_sa2
-    title: "Sky Rail"
+  - id: mr_unsmiley_for_sky_rail
+    title: "Mr.Unsmiley ...for Sky Rail"
     path: "Sky Rail.brstm"
     type: warning
-  - id: weapons_bed
-    title: "Weapons Bed"
+  - id: crush_em_all_for_weapons_bed
+    title: "Crush'em All ...for Weapons Bed"
     path: "Weapons Bed.brstm"
-    type: warning
-  - id: mad_space
-    title: "Mad Space"
+    type: betting
+  - id: 34_n_12_e_for_mad_space
+    title: "34ºN, 12ºE ...for Mad Space"
     path: "Mad Space.brstm"
     type: betting
-  - id: throw_it_all_away
-    title: "Throw it All Away"
+  - id: throw_it_all_away_theme_of_shadow_the_hedgehog
+    title: "Throw It All Away ...Theme of \"Shadow The Hedgehog\""
     path: "Throw it All Away.brstm"
     type: warning
-  - id: meteor_herd
-    title: "Meteor Herd"
+  - id: space_trip_steps_for_meteor_herd
+    title: "Space Trip Steps ...for Meteor Herd"
     path: "Meteor Herd.brstm"
     type: betting
-  - id: boss_sonic_vs_shadow_final
-    title: "Boss - Sonic vs. Shadow - Final"
+  - id: for_true_story_for_sonic_vs_shadow
+    title: "For True Story ...for Sonic vs. Shadow"
     path: "For True Story [Sonic vs Shadow 2].brstm"
     type: battle
   - id: chao_garden_hero
@@ -178,41 +178,37 @@ songs:
     path: "Chao Garden ~Hero Ver~.brstm"
     type: break
   - id: event_lets_make_it
-    title: "Event - Let's Make It!"
+    title: "Event: Let's Make It!"
     path: "Event - Let's Make It!.brstm"
     type: result
   - id: green_hill_zone_sa2
     title: "Green Hill Zone"
     path: "Green Hill Zone.brstm"
     type: betting
-  - id: radical_highway
-    title: "Radical Highway"
+  - id: vengence_is_mine_for_radical_highway
+    title: "Vengence Is Mine ...for Radical Highway"
     path: "Vengeance Is Mine for Radical Highway.brstm"
     type: warning
-  - id: security_hall
-    title: "Security Hall"
+  - id: i_m_a_spy_for_security_hall
+    title: "I'm A Spy ...for Security Hall"
     path: "Security Hall.brstm"
     type: betting
-  - id: theme_of_eggman_sa2
-    title: "Theme Of Eggman"
+  - id: e_g_g_m_a_n_instrumental
+    title: "E.G.G.M.A.N. (Instrumental)"
     path: "EGGMAN (Instrumental).brstm"
     type: warning
   - id: tutorial_sa2
     title: "Tutorial"
     path: "Tutorial.brstm"
     type: break
-  - id: white_jungle_sa2
-    title: "White Jungle"
+  - id: rhythm_and_balance_for_white_jungle_sa2
+    title: "Rhythm And Balance ...for White Jungle"
     path: "Rhythm And Balance for White Jungle.brstm"
     type: warning
   - id: goodbye_chao
     title: "Goodbye Chao"
     path: "Goodbye Chao.brstm"
     type: break
-  - id: nostalgic_vengeance
-    title: "Nostalgic Vengeance"
-    path: "Nostalgic Vengeance.brstm"
-    type: battle
   - id: the_supernatural_for_final_chase
     title: "The Supernatural ...for Final Chase"
     path: "The Supernatural ...for Final Chase.brstm"
@@ -222,12 +218,12 @@ songs:
     path: "Unknown from M.E. [Theme of Knuckles] (Instrumental).brstm"
     type: betting
   - id: live_learn_main_theme_of_sonic_adventure_2
-    title: "Live & Learn ...Main Theme of 'SONIC ADVENTURE 2'"
+    title: "Live & Learn ...Main Theme of \"SONIC ADVENTURE 2\""
     path: "Live & Learn [Main Theme of SA2].brstm"
     ends: 3:00
     type: betting
-  - id: escape_from_the_city_for_city_escape_instrumental_ver
-    title: "Escape From The City ...for City Escape (Instrumental Ver.)"
+  - id: escape_from_the_city_for_city_escape_instrumental
+    title: "Escape From The City ...for City Escape (Instrumental)"
     path: "Escape From the City ...for City Escape (Instrumental Ver.).brstm"
     type: betting
   - id: supporting_me_for_biolizard
