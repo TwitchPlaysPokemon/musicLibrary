@@ -7,11 +7,11 @@ year: 1997
 songs: 
   - id: bombing_mission
     title: "Bombing Mission"
-    path: "102b Bombing Mission.psf"
+    path: "102b Bombing Mission.minipsf"
     type: battle
   - id: mako_reactor
     title: "Mako Reactor"
-    path: "103 Mako Reactor.psf"
+    path: "103 Mako Reactor.minipsf"
     type: betting
   - id: those_who_fight
     title: "Those Who Fight"
@@ -23,7 +23,7 @@ songs:
     type: result
   - id: oppressed_people
     title: "Oppressed People"
-    path: "115 Oppressed People.psf"
+    path: "115 Oppressed People.minipsf"
     type: break
   - id: those_who_fight_further
     title: "Those Who Fight Further"
@@ -39,7 +39,7 @@ songs:
     type: betting
   - id: rufus_s_welcoming_ceremony
     title: "Rufus's Welcoming Ceremony"
-    path: "211 Rufus' Welcoming Ceremony.psf"
+    path: "211 Rufus' Welcoming Ceremony.minipsf"
     type: betting
   - id: jenova
     title: "J-E-N-O-V-A"
@@ -47,19 +47,19 @@ songs:
     type: battle
   - id: coast_of_the_sun
     title: "Coast of the Sun"
-    path: "216 Costa del Sol.psf"
+    path: "216 Costa del Sol.minipsf"
     type: break
   - id: gold_saucer
     title: "Gold Saucer"
-    path: "219 Gold Saucer.psf"
+    path: "219 Gold Saucer.minipsf"
     type: result
   - id: cait_sith_s_theme
     title: "Cait Sith's Theme"
-    path: "220 Cait Sith's Theme.psf"
+    path: "220 Cait Sith's Theme.minipsf"
     type: break
   - id: cosmo_canyon
     title: "Cosmo Canyon"
-    path: "301 Cosmo Canyon.psf"
+    path: "301 Cosmo Canyon.minipsf"
     type: betting
   - id: cids_theme
     title: "Cid's Theme"
