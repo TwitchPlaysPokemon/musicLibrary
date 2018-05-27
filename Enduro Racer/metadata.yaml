@@ -4,6 +4,10 @@ title: "Enduro Racer"
 platform: "Arcade"
 year: 1986
 songs: 
+  - id: main_theme_enduro_racer
+    title: "Main Theme"
+    path: "Main Music (YM2151).brstm"
+    type: betting 
   - id: name_entry_enduro_racer
     title: "Name Entry.brstm"
     path: "Name Entry (YM2151).brstm"
