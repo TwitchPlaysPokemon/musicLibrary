@@ -1,10 +1,11 @@
+---
 id: enduro_racer
 title: "Enduro Racer"
+platform: "Arcade"
 year: 1986
-platform: ["Arcade", "SMS"]
-#other platforms: ["ZX Spectrum", "C64", "Atari ST", "Amstrad CPC"]
-songs:
-  - id: main_music_ym2151
-    title: "Main Music (YM2151)"
-    path: "Main Music (YM2151).brstm"
-    type: betting
+songs: 
+  - id: name_entry_enduro_racer
+    title: "Name Entry.brstm"
+    path: "Name Entry (YM2151).brstm"
+    type: result
+...

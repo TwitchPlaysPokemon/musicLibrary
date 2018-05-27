@@ -1,68 +1,96 @@
 ---
 id: final_fantasy_ix
-platform: "PS1"
 title: "Final Fantasy IX"
 series: finalfantasy
+platform: "PS1"
 year: 2000
 songs: 
-  - id: battle_1
-    path: "118 Battle 1.psf"
-    title: "Battle 1"
-    type: battle
-  - id: battle_2
-    path: "121 Battle 2.psf"
-    title: "Battle 2"
-    type: battle
-  - id: ukulele_de_chocobo
-    path: "209 Ukulele de Chocobo.psf"
-    title: "Ukulele de Chocobo"
+  - id: vamo_alla_flamenco
+    title: "Vamo' alla Flamenco"
+    path: "107 Vamo' Alla Flamenco.psf"
     type: betting
-  - id: assault_of_the_white_dragons
-    path: "412 Assault of the White Dragons.psf"
-    title: "Assault of the White Dragons"
-    type: battle
-  - id: attack_city_under_siege
-    title: "Attack/City Under Siege"
-    path: "301 Ambush Attack.psf"
-    type: warning
-  - id: jesters_of_the_moon
-    title: "Jesters of the Moon"
+  - id: court_jesters
+    title: "Court Jesters"
     path: "109 Jesters of the Moon.psf"
     type: betting
+  - id: steiner_s_theme
+    title: "Steiner's Theme"
+    path: "110 Steiner's Theme.psf"
+    type: betting
+  - id: danger_in_the_forest
+    title: "Danger in the Forest"
+    path: "117 Awakening the Forest.psf"
+    type: betting
+  - id: battle_1
+    title: "Battle 1"
+    path: "118 Battle 1.psf"
+    type: battle
+  - id: battle_2
+    title: "Battle 2"
+    path: "121 Battle 2.psf"
+    type: battle
+  - id: over_the_hill
+    title: "Over the Hill"
+    path: "125 Crossing Those Hills.psf"
+    type: break
+  - id: ice_cavern_ffix
+    title: "Ice Cavern"
+    path: "126 Ice Caverns.psf"
+    type: betting
+  - id: lindblum
+    title: "Lindblum"
+    path: "203 Lindblum.psf"
+    type: break
   - id: hunters_chance_ffix
     title: "Hunter's Chance"
     path: "205 Hunter's Chance.psf"
     type: battle
+  - id: qu_s_marsh
+    title: "Qu's Marsh"
+    path: "206 Qu's Marsh.psf"
+    type: betting
+  - id: aloha_de_chocobo
+    title: "Aloha de Chocobo"
+    path: "208 Aloha de Chocobo.psf"
+    type: break
+  - id: ukulele_de_chocobo
+    title: "Ukulele de Chocobo"
+    path: "209 Ukulele de Chocobo.psf"
+    type: betting
   - id: freyas_theme
     title: "Freya's Theme"
     path: "210 Freya's Theme.psf"
+    type: betting
+  - id: gargan_roo
+    title: "Gargan Roo"
+    path: "221 Gargan Roo.psf"
+    type: betting
+  - id: city_under_siege
+    title: "City Under Siege"
+    path: "301 Ambush Attack.psf"
+    type: warning
+  - id: conde_petie
+    title: "Conde Petie"
+    path: "304 Mountain Pass.psf"
     type: betting
   - id: black_mage_village
     title: "Black Mage Village"
     path: "305 Black Mage's Village.psf"
     type: betting
-  - id: crossing_those_hills
-    title: "Crossing Those Hills"
-    path: "125 Crossing Those Hills.psf"
+  - id: madain_sari_village_of_the_lost_summoners
+    title: "Madain Sari, Village of the Lost Summoners"
+    path: "309 Ruins of Madain Sari.psf"
     type: break
-  - id: vamo_alla_flamenco
-    title: "Vamo' alla Flamenco"
-    path: "Vamo' alla Flamenco.brstm"
-    type: betting
-  - id: final_battle_ffix
-    title: "Final Battle"
-    path: "Final Battle.brstm"
-    type: battle
-  - id: aloha_de_chocobo
-    title: "Aloha de Chocobo"
-    path: "Aloha de Chocobo.psf"
-    type: break
-  - id: rustling_forest
-    title: "Rustling Forest"
-    path: "117 Awakening the Forest.psf"
-    type: betting
   - id: esto_gaza_the_sacred_grounds
     title: "Esto Gaza, the Sacred Grounds"
     path: "324 Esto Gaza.psf"
     type: betting
+  - id: silver_dragon
+    title: "Silver Dragon"
+    path: "412 Assault of the White Dragons.psf"
+    type: battle
+  - id: the_final_battle_ffix
+    title: "The Final Battle"
+    path: "416 Final Battle.psf"
+    type: battle
 ...

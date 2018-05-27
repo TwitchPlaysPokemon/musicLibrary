@@ -1,0 +1,116 @@
+---
+id: detective_pikachu
+title: "Detective Pikachu"
+series: pokemon
+platform: "3DS"
+year: 2016
+songs: 
+  - id: vicinity_of_tahnti_station
+    title: "Vicinity of Tahnti Station"
+    path: "ep1_free_01.dspadpcm.bcstm"
+    type: betting
+  - id: tahnti_park
+    title: "Tahnti Park"
+    path: "free_09.dspadpcm.bcstm"
+    type: betting
+  - id: baker_detective_agency
+    title: "Baker Detective Agency"
+    path: "free_07.dspadpcm.bcstm"
+    type: break
+  - id: goodman_s_apartment
+    title: "Goodman's Apartment"
+    path: "free_08.dspadpcm.bcstm"
+    type: break
+  - id: hi_hat_cafe
+    title: "Hi-Hat Café"
+    path: "free_06.dspadpcm.bcstm"
+    type: break
+  - id: litwick_cave
+    title: "Litwick Cave"
+    path: "free_10.dspadpcm.bcstm"
+    type: betting
+  - id: defeat_the_glalie
+    title: "Defeat the Glalie!"
+    path: "bgm_ep2_qt_hellocave.dspadpcm.bcstm"
+    type: warning
+  - id: pcl
+    title: "PCL"
+    path: "free_04.dspadpcm.bcstm"
+    type: break
+  - id: inside_pcl
+    title: "Inside PCL"
+    path: "free_05.dspadpcm.bcstm"
+    type: break
+  - id: capture_gengar
+    title: "Capture Gengar!"
+    path: "bgm_ep3_qt_capturegangar.dspadpcm.bcstm"
+    type: warning
+  - id: heading_to_cappucci_island
+    title: "Heading to Cappucci Island"
+    path: "bgm_ep4_boat_01.dspadpcm.bcstm"
+    type: result
+  - id: cappuci_island_1
+    title: "Cappuci Island 1"
+    path: "bgm_ep4_free_01.dspadpcm.bcstm"
+    type: break
+  - id: cappuci_island_2
+    title: "Cappuci Island 2"
+    path: "bgm_ep4_free_02.dspadpcm.bcstm"
+    type: betting
+  - id: fine_park
+    title: "Fine Park"
+    path: "bgm_ep5_free_01.dspadpcm.bcstm"
+    type: break
+  - id: gnn_1
+    title: "GNN 1"
+    path: "bgm_ep6_free_01.dspadpcm.bcstm"
+    type: betting
+  - id: gnn_2
+    title: "GNN 2"
+    path: "bgm_ep6_free_02.dspadpcm.bcstm"
+    type: break
+  - id: gnn_3
+    title: "GNN 3"
+    path: "bgm_ep6_free_03.dspadpcm.bcstm"
+    type: break
+  - id: gnn_4
+    title: "GNN 4"
+    path: "bgm_ep6_free_04.dspadpcm.bcstm"
+    type: warning
+  - id: yanma_cameras_2
+    title: "Yanma Cameras 2"
+    path: "bgm_ep6_yanyancam_01.dspadpcm.bcstm"
+    type: warning
+  - id: ryme_wharf
+    title: "Ryme Wharf"
+    path: "bgm_ep7_free_01.dspadpcm.bcstm"
+    type: betting
+  - id: ryme_wharf_warehouse
+    title: "Ryme Wharf Warehouse"
+    path: "bgm_ep7_free_02.dspadpcm.bcstm"
+    type: betting
+  - id: infiltrating_the_warehouse
+    title: "Infiltrating the Warehouse"
+    path: "bgm_ep7_qt_infiltration_01.dspadpcm.bcstm"
+    type: betting
+  - id: s_s_prime_treasure_storage
+    title: "S.S. Prime Treasure Storage"
+    path: "bgm_ep8_free_01.dspadpcm.bcstm"
+    type: break
+  - id: s_s_prime_treasure_deck
+    title: "S.S. Prime Treasure Deck"
+    path: "bgm_ep8_free_02.dspadpcm.bcstm"
+    type: betting
+  - id: s_s_prime_treasure_interior_2
+    title: "S.S. Prime Treasure Interior 2"
+    path: "bgm_ep8_free_04.dspadpcm.bcstm"
+    type: betting
+  - id: capture_keith
+    title: "Capture Keith!"
+    path: "bgm_ep8_qt_keith_01.dspadpcm.bcstm"
+    type: warning
+  - id: pokemon_carnival
+    title: "Pokémon Carnival"
+    path: "bgm_ep9_free_01.dspadpcm.bcstm"
+    type: betting
+...

@@ -1,0 +1,43 @@
+---
+id: zombies_ate_my_neighbors_snes
+title: "Zombies Ate My Neighbors [SNES]"
+platform: ["SNES", "SMD"]
+year: 1993
+songs: 
+  - id: chainsaw_hedgemaze_mayhem
+    title: "Chainsaw Hedgemaze Mayhem"
+    path: "Boss Battle.spc"
+    type: betting
+  - id: curse_of_the_tongue
+    title: "Curse of the Tongue"
+    path: "Curse of the Tongue.spc"
+    type: betting
+  - id: evening_of_the_undead
+    title: "Evening of the Undead"
+    path: "Evening of the Undead.spc"
+    type: betting
+  - id: mars_needs_cheerleaders
+    title: "Mars Needs Cheerleaders"
+    path: "Mars Needs Cheerleaders.spc"
+    type: betting
+  - id: no_assembly_required
+    title: "No Assembly Required"
+    path: "No Assembly Required.spc"
+    type: betting
+  - id: pyramid_of_fear
+    title: "Pyramid of Fear"
+    path: "Pyramid of Fear.spc"
+    type: betting
+  - id: titanic_toddler
+    title: "Titanic Toddler"
+    path: "Titanic Toddler.spc"
+    type: warning
+  - id: weird_kids_on_the_block
+    title: "Weird Kids on the Block"
+    path: "Weird Kids on the Block.spc"
+    type: betting
+  - id: zombie_panic
+    title: "Zombie Panic"
+    path: "Zombie Panic.spc"
+    type: betting
+...

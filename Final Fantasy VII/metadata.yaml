@@ -1,90 +1,113 @@
 ---
 id: final_fantasy_vii
-platform: "PS1"
 title: "Final Fantasy VII"
 series: finalfantasy
+platform: "PS1"
 year: 1997
 songs: 
-  - id: cosmo_canyon
-    title: "Cosmo Canyon"
-    path: "Cosmo Canyon.brstm"
+  - id: bombing_mission
+    title: "Bombing Mission"
+    path: "102b Bombing Mission.psf"
+    type: battle
+  - id: mako_reactor
+    title: "Mako Reactor"
+    path: "103 Mako Reactor.psf"
     type: betting
-  - id: fighting
+  - id: those_who_fight
+    title: "Those Who Fight"
     path: "110 Fighting.psf"
-    title: "Fighting"
     type: battle
   - id: fanfare_ffvii
-    path: "111 Fanfare.psf"
     title: "Fanfare"
+    path: "111 Fanfare.psf"
     type: result
-  - id: still_more_fighting
+  - id: oppressed_people
+    title: "Oppressed People"
+    path: "115 Oppressed People.psf"
+    type: break
+  - id: those_who_fight_further
+    title: "Those Who Fight Further"
     path: "120 Still More Fighting.psf"
-    title: "Still More Fighting"
     type: battle
   - id: crazy_motorcycle
-    path: "122 Crazy Motorcycle.psf"
     title: "Crazy Motorcycle"
+    path: "122 Crazy Motorcycle.psf"
     type: battle
   - id: electric_de_chocobo
-    path: "207 Electric de Chocobo.psf"
     title: "Electric de Chocobo"
+    path: "207 Electric de Chocobo.psf"
+    type: betting
+  - id: rufus_s_welcoming_ceremony
+    title: "Rufus's Welcoming Ceremony"
+    path: "211 Rufus' Welcoming Ceremony.psf"
     type: betting
   - id: jenova
-    path: "214 J-E-N-O-V-A.psf"
     title: "J-E-N-O-V-A"
+    path: "214 J-E-N-O-V-A.psf"
     type: battle
-#      - id: descendant_of_shinobi
-#        path: "304 Descendant of Shinobi.psf"
-#        title: "Descendant of Shinobi"
-#        type: result
-# unfitting result song
+  - id: coast_of_the_sun
+    title: "Coast of the Sun"
+    path: "216 Costa del Sol.psf"
+    type: break
+  - id: gold_saucer
+    title: "Gold Saucer"
+    path: "219 Gold Saucer.psf"
+    type: result
+  - id: cait_sith_s_theme
+    title: "Cait Sith's Theme"
+    path: "220 Cait Sith's Theme.psf"
+    type: break
+  - id: cosmo_canyon
+    title: "Cosmo Canyon"
+    path: "301 Cosmo Canyon.psf"
+    type: betting
   - id: cids_theme
-    path: "307 Cid's Theme.psf"
     title: "Cid's Theme"
+    path: "307 Cid's Theme.psf"
     type: betting
   - id: racing_chocobos
-    path: "311 Racing Chocobos.psf"
     title: "Racing Chocobos"
+    path: "311 Racing Chocobos.psf"
     type: result
   - id: fiddle_de_chocobo
-    path: "312 Fiddle de Chocobo.psf"
     title: "Fiddle de Chocobo"
+    path: "312 Fiddle de Chocobo.psf"
     type: warning
   - id: a_great_success
-    path: "313 A Great Success.psf"
     title: "A Great Success"
+    path: "313 A Great Success.psf"
     type: result
   - id: buried_in_the_snow
-    path: "320 Buried in the Snow.psf"
     title: "Buried in the Snow"
+    path: "320 Buried in the Snow.psf"
     tags: [xmas]
     type: betting
   - id: hurry_faster
-    path: "408 Hurry Faster!.psf"
     title: "Hurry Faster!"
+    path: "408 Hurry Faster!.psf"
     type: battle
   - id: the_countdown_begins
-    path: "410 The Countdown Begins.psf"
     title: "The Countdown Begins"
+    path: "410 The Countdown Begins.psf"
     type: warning
   - id: judgment_day
-    path: "413 Judgment Day.psf"
     title: "Judgment Day"
+    path: "413 Judgment Day.psf"
     type: betting
   - id: jenova_absolute
-    path: "414 Jenova Absolute.psf"
     title: "Jenova Absolute"
+    path: "414 Jenova Absolute.psf"
     type: betting
   - id: the_birth_of_god
-    path: "415 The Birth of God.psf"
     title: "The Birth of God"
+    path: "415 The Birth of God.psf"
     type: betting
   - id: one-winged_angel
-    path: "416 One-Winged Angel.psf"
     title: "One-Winged Angel"
+    path: "416 One-Winged Angel.psf"
     type: battle
   - id: aerith_theme_ffvii
-    path: "Aerith's Theme.brstm"
     title: "Aerith's Theme"
+    path: "Aerith's Theme.brstm"
     type: break
 ...

@@ -171,4 +171,24 @@ songs:
     title: "Reborn Butterfly: Morpho Knight"
     path: "B_Night.dspadpcm.bfstm"
     type: battle
+  - id: real_dark_matter
+    title: "Real Dark Matter"
+    path: "Kirby2_Boss.dspadpcm.bfstm"
+    type: battle
+  - id: meddlesome_marx
+    title: "Meddlesome Marx"
+    path: "BGM_LP_ECDLBOSSMARK1.dspadpcm.bfstm"
+    type: battle
+  - id: hyper_zone_1_kirby_star_allies
+    title: "Hyper Zone 1"
+    path: "Kirby3_Boss.dspadpcm.bfstm"
+    type: battle
+  - id: destroyer_of_worlds_void_termina_winged
+    title: "Destroyer of Worlds: Void Termina (Winged)"
+    path: "Last3rg.dspadpcm.bfstm"
+    type: betting
+  - id: destroyer_of_worlds_void_termina_heart
+    title: "Destroyer of Worlds: Void Termina (Heart)"
+    path: "Last2rg1201.dspadpcm.bfstm"
+    type: betting
 ...

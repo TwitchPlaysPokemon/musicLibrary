@@ -1,0 +1,59 @@
+---
+id: dragon_ball_fighterz
+title: "Dragon Ball FighterZ"
+platform: ["PS4", "XB1", "PC"]
+year: 2018
+songs: 
+  - id: theme_of_beerus_dbfighterz
+    title: "Theme of Beerus"
+    path: "Beerus.brstm"
+    type: battle
+  - id: theme_of_frieza_dbfighterz
+    title: "Theme of Frieza"
+    path: "Frieza.brstm"
+    type: betting
+  - id: theme_of_hit_dbfighterz
+    title: "Theme of Hit"
+    path: "Hit.brstm"
+    type: betting
+  - id: space_stage_dbfighterz
+    title: "Space Stage"
+    path: "Space.brstm"
+    type: warning
+  - id: wasteland_stage_dbfighterz
+    title: "Wasteland Stage"
+    path: "Wasteland.brstm"
+    type: battle
+  - id: west_city_dbfighterz
+    title: "West City"
+    path: "West City.brstm"
+    type: betting
+  - id: west_city_destroyed_stage_dbfighterz
+    title: "West City (Destroyed) Stage"
+    path: "West City (Destroyed).brstm"
+    type: battle
+  - id: theme_of_goku_dbfighterz
+    title: "Theme of Goku"
+    path: "Goku.brstm"
+    type: battle
+  - id: theme_of_goku_black_dbfighterz
+    title: "Theme of Goku Black"
+    path: "Goku Black.brstm"
+    type: battle
+  - id: islands_stage_dbfighterz
+    title: "Islands Stage"
+    path: "Islands.brstm"
+    type: betting
+  - id: theme_of_buu_dbfighterz
+    title: "Theme of Buu"
+    path: "Majin Buu.brstm"
+    type: battle
+  - id: theme_of_vegeta_dbfighterz
+    title: "Theme of Vegeta"
+    path: "Vegeta.brstm"
+    type: battle
+  - id: theme_of_trunks_dbfighterz
+    title: "Theme of Trunks"
+    path: "Trunks.brstm"
+    type: battle
+...

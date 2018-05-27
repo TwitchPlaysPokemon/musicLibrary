@@ -5,9 +5,21 @@ series: finalfantasy
 platform: ["PS1", "PC"]
 year: 1999
 songs: 
+  - id: dont_be_afraid
+    title: "Don't Be Afraid"
+    path: "104 Don't Be Afraid.psf"
+    type: battle
+  - id: the_winner
+    title: "The Winner"
+    path: "105 The Winner.psf"
+    type: result
+  - id: seed
+    title: "SeeD"
+    path: "107 SeeD.psf"
+    type: result
   - id: force_your_way
     title: "Force Your Way"
-    path: "Force Your Way.brstm"
+    path: "110 Force Your Way.psf"
     type: battle
   - id: never_look_back
     title: "Never Look Back"
@@ -18,8 +30,12 @@ songs:
     path: "115 Shuffle Or Boogie.psf"
     type: battle
   - id: the_man_with_the_machine_gun
-    title: "The Man With the Machine Gun"
+    title: "The Man with the Machine Gun"
     path: "119 The Man With the Machine Gun.psf"
+    type: battle
+  - id: timber_owls
+    title: "Timber Owls"
+    path: "123 Timber Owls.psf"
     type: battle
   - id: the_mission
     title: "The Mission"
@@ -29,10 +45,18 @@ songs:
     title: "Only a Plank Between One and Perdition"
     path: "205 Only a Plank Between One and Perdition.psf"
     type: battle
+  - id: galbadia_garden
+    title: "Galbadia GARDEN"
+    path: "207a Galbadia Garden.psf"
+    type: break
   - id: the_stage_is_set
     title: "The Stage is Set"
     path: "210 The Stage is Set.psf"
     type: battle
+  - id: a_sacrifice
+    title: "A Sacrifice"
+    path: "211 A Sacrifice.psf"
+    type: betting
   - id: premonition
     title: "Premonition"
     path: "214 Premonition.psf"
@@ -41,8 +65,12 @@ songs:
     title: "Movin'"
     path: "303 Movin'.psf"
     type: battle
-  - id: mods_de_chocobo
-    title: "Mods de Chocobo"
+  - id: residents
+    title: "Residents"
+    path: "319 Residents.psf"
+    type: betting
+  - id: mods_de_chocobo_feauturing_n_s_telecaster
+    title: "Mods de Chocobo(featuring N's Telecaster)"
     path: "401 Mods de Chocobo.psf"
     type: betting
   - id: the_legendary_beast
@@ -51,21 +79,13 @@ songs:
     type: battle
   - id: maybe_im_a_lion
     title: "Maybe I'm a Lion"
-    path: "Maybe I'm a Lion.brstm"
+    path: "408 Maybe I'm a Lion.psf"
     type: battle
   - id: overture
     title: "Overture"
     path: "412 Overture.psf"
     type: betting
-  - id: dont_be_afraid
-    title: "Don't Be Afraid"
-    path: "104 Don't Be Afraid.psf"
-    type: battle
-  - id: the_winner
-    title: "The Winner"
-    path: "105 The Winner.psf"
-    type: result
-  - id: the_extreme
+  - id: the_extreme_no_intro
     title: "The Extreme (No Intro)"
     path: "The Extreme (No Intro).brstm"
     type: battle

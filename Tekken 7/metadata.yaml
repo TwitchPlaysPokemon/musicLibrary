@@ -1,6 +1,7 @@
 ---
 id: tekken_7
 title: "Tekken 7"
+series: tekken
 platform: "Various"
 #other platforms: Arcade, PS4, Xbox One, PC,
 year: 2015
@@ -19,6 +20,14 @@ songs:
     type: warning
   - id: duomo_di_sirio_1st
     title: "DUOMO DI SIRIO 1st"
-    path: "TK7CS_Stage10_Normal_LRCLfLsRs_LP.wem"
+    path: "TK7CS_Stage10_Normal_2MIX_LP_ALT.wem"
+    type: battle
+  - id: dojo_1st
+    title: "Dojo 1st"
+    path: "TK7_Stage00_Wanoma_Normal_2MIX_LP.wem"
+    type: betting
+  - id: dojo_2nd
+    title: "Dojo 2nd"
+    path: "TK7_Stage00_Wanoma_Final_2MIX_LP.wem"
     type: battle
 ...

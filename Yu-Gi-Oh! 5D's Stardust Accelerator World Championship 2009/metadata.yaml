@@ -9,4 +9,8 @@ songs:
     title: "Tournament Duel Won"
     path: "0038 SEQ_EV_05.mini2sf"
     type: result
+  - id: duel_music_8
+    title: "Duel Music 8"
+    path: "0048 SEQ_DU_R_FURI1.mini2sf"
+    type: warning
 ...

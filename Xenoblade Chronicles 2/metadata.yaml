@@ -31,6 +31,10 @@ songs:
     title: "Battle!!"
     path: "077 - Battle!!.nop"
     type: battle
+  - id: leftherian_archipelago
+    title: "Leftherian Archipelago"
+    path: "051 - Leftherian Archipelago.nop"
+    type: break
   - id: leftherian_archipelago_night
     title: "Leftherian Archipelago - Night"
     path: "052 - Leftherian Archipelago - Night.nop"
@@ -79,6 +83,10 @@ songs:
     title: "Death Match With Torna"
     path: "085 - Death Match With Torna.nop"
     type: battle
+  - id: the_power_of_jin
+    title: "The Power of Jin"
+    path: "087 - The Power of Jin.nop"
+    type: betting
   - id: the_ancient_vessel
     title: "The Ancient Vessel"
     path: "093 - The Ancient Vessel.nop"

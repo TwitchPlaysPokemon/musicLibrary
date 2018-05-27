@@ -5,25 +5,9 @@ platform: ["Arcade", "PS3", "PC"]
 year: 2012
 songs:
   - id: gathers_under_night
-    title: "Gathers Under Night (Character Select)"
-    path: "Gathers Under Night (Character Select).brstm"
+    title: "Gathers Under Night..."
+    path: "sys_chrselect.msf"
     type: result
-  - id: sethuniel
-    title: "Monochrome Memory (Seth Theme)"
-    path: "SethUNIEL.brstm"
-    type: battle
-  - id: hildauniel
-    title: "Overwhelm Despair (Hilda Theme)"
-    path: "HildaUNIEL.brstm"
-    type: warning
-  - id: blood_drain_again_eltnum
-    title: "Blood Drain -Again- (Eltnum Theme)"
-    path: "chr_11Elt.msf"
-    type: battle
-  - id: beat_eat_nest_byakuya_theme
-    title: "Beat Eat Nest (Byakuya Theme)"
-    path: "chr_13Bya.msf"
-    type: battle
   - id: night_walker_linne
     title: "Night Walker (Linne Theme)"
     path: "chr_01Lin.msf"
@@ -35,5 +19,21 @@ songs:
   - id: rushing_heart_gordeau_theme
     title: "Rushing Heart (Gordeau Theme)"
     path: "chr_05Gor.msf"
+    type: battle
+  - id: sethuniel
+    title: "Monochrome Memory (Seth Theme)"
+    path: "chr_08Set.msf"
+    type: battle
+  - id: hildauniel
+    title: "Overwhelm Despair (Hilda Theme)"
+    path: "chr_10Hil.msf"
+    type: warning
+  - id: blood_drain_again_eltnum
+    title: "Blood Drain -Again- (Eltnum Theme)"
+    path: "chr_11Elt.msf"
+    type: battle
+  - id: beat_eat_nest_byakuya_theme
+    title: "Beat Eat Nest (Byakuya Theme)"
+    path: "chr_13Bya.msf"
     type: battle
 ...

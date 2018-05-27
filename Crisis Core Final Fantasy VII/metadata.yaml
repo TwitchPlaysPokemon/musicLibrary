@@ -1,18 +1,36 @@
+---
 id: crisis_core_final_fantasy_vii
 title: "Crisis Core: Final Fantasy VII"
 series: finalfantasy
-year: 2007
 platform: "PSP"
+year: 2007
 songs:
-  - id: the_clandestine_dark_suits
-    title: "The Clandestine Dark Suits (FFVII - 'Turk's Theme')"
-    path: "The Clandestine Dark Suits (FFVII - 'Turk's Theme').brstm"
+  - id: the_clandestine_dark_suits_from_ffvii_turk_s_theme
+    title: "The Clandestine Dark Suits (from FFVII \"Turk's Theme\")"
+    path: "file001422.at3"
     type: betting
-  - id: those_who_accept_protection_of_stars
-    title: "Those Who Accept Protection of Stars"
-    path: "Those Who Accept Protection of Stars.brstm"
+  - id: those_who_accept_the_protection_of_the_stars
+    title: "Those Who Accept the Protection of the Stars"
+    path: "file001424.at3"
     type: battle
-  - id: on_the_verge_of_the_assault
-    title: "On the Verge of the Assault"
-    path: "On the Verge of the Assault (Those Who Fight).brstm"
+  - id: on_the_verge_of_the_assault_from_ffvii_those_who_fight
+    title: "On the Verge of the Assault (from FFVII \"Those Who Fight\")"
+    path: "file001410.at3"
     type: battle
+  - id: a_closed_off_village_from_ffviii_anxious_heart
+    title: "A Closed Off Village (from FFVII \"Anxious Heart\")"
+    path: "file001423.at3"
+    type: break
+  - id: the_mako_city
+    title: "The Mako City"
+    path: "file001390.at3"
+    type: betting
+  - id: the_summoned_ffrom_ffvii_those_who_fight_further
+    title: "The Summoned (from FFVII \"Those Who Fight Further\")"
+    path: "file001387.at3"
+    type: battle
+  - id: the_world_s_enemy_from_ffvii_one_winged_angel
+    title: "The World's Enemy (from FFVII \"One-Winged Angel\")"
+    path: "file001429.at3"
+    type: battle
+...

@@ -1,0 +1,20 @@
+---
+id: lemmings_2_the_tribes
+title: "Lemmings 2: The Tribes [Amiga]"
+series: lemmings
+platform: "Various"
+year: 1993
+songs: 
+  - id: beacb_lemmings_2_the_tribes
+    title: "Beach"
+    path: "Beach.brstm"
+    type: betting
+  - id: classic_lemmings_2_the_tribes
+    title: "Classic"
+    path: "Classic.brstm"
+    type: betting
+  - id: sports_lemmings_2_the_tribes
+    title: "Sports"
+    path: "Sports.brstm"
+    type: betting
+...

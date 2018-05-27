@@ -1,9 +1,17 @@
+---
 id: persona_3_portable
 title: "Persona 3 Portable"
-year: 2009
+series: shinmegamitensei
 platform: "PSP"
+year: 2009
 songs:
+  - id: a_way_of_life
+    title: "A Way of Life"
+    path: "A Way of Life.mp3"
+    ends: 2:19
+    type: betting
   - id: danger_zone_p3_portable
     title: "Danger Zone"
     path: "Danger Zone.brstm"
     type: battle
+...

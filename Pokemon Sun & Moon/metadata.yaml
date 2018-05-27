@@ -376,7 +376,109 @@ songs:
     title: "Battle! Team Skull Admin"
     path: "Battle! Team Skull Admin.brstm"
     type: battle
-  - id: lillies_theme_sunmoon
-    title: "Lillie's Theme"
-    path: "Lillie's Theme (ver 2).brstm"
+  - id: lively_lillie_sunmoon
+    title: "Lively Lillie"
+    path: "bgm_nj_e01.dspadpcm.bcstm"
     type: betting
+  - id: mahalo_trail_sunmoon
+    title: "Mahalo Trail"
+    path: "bgm_nj_d01.dspadpcm.bcstm"
+    type: betting
+  - id: lusamine_s_theme_sunmoon
+    title: "Lusamine's Theme"
+    path: "bgm_nj_e06.dspadpcm.bcstm"
+    type: betting
+  - id: guzma_s_theme_sunmoon
+    title: "Guzma's Theme"
+    path: "bgm_nj_e08.dspadpcm.bcstm"
+    type: warning
+  - id: lillie_s_resolve_sunmoon
+    title: "Lillie's Resolve"
+    path: "bgm_nj_demo15.dspadpcm.bcstm"
+    type: warning
+  - id: lonely_lillie_sunmoon
+    title: "Lonely Lillie"
+    path: "bgm_nj_e29.dspadpcm.bcstm"
+    type: betting
+  - id: have_a_break_at_the_cafe_sunmoon
+    title: "Have a Break at the Café"
+    path: "bgm_nj_e19.dspadpcm.bcstm"
+    type: break
+  - id: unsettling_atmosphere_sunmoon
+    title: "Unsettling Atmosphere"
+    path: "bgm_nj_e20.dspadpcm.bcstm"
+    type: warning
+  - id: an_encounter_sunmoon
+    title: "An Encounter"
+    path: "bgm_nj_e23.dspadpcm.bcstm"
+    type: result
+  - id: a_totem_pokemon_appears_sunmoon
+    title: "A Totem Pokémon Appears!"
+    path: "bgm_nj_e25.dspadpcm.bcstm"
+    type: warning
+  - id: mallow_s_trial_sunmoon
+    title: "Mallow's Trial"
+    path: "bgm_nj_e27.dspadpcm.bcstm"
+    type: result
+  - id: credits_sunmoon
+    title: "Credits"
+    path: "bgm_nj_ending02.dspadpcm.bcstm"
+    ends: 3:08
+    type: betting
+  - id: trainers_eyes_meet_trainer_sunmoon
+    title: "Trainers' Eyes Meet (Trainer)"
+    path: "bgm_nj_eye01.dspadpcm.bcstm"
+    type: warning
+  - id: trainers_eyes_meet_team_skull_sunmoon
+    title: "Trainers' Eyes Meet (Team Skull)"
+    path: "bgm_nj_eye02.dspadpcm.bcstm"
+    type: warning
+  - id: trainers_eyes_meet_aether_foundation_sunmoon
+    title: "Trainers' Eyes Meet (Aether Foundation)"
+    path: "bgm_nj_eye03.dspadpcm.bcstm"
+    type: warning
+  - id: paniola_ranch_sunmoon
+    title: "Paniola Ranch"
+    path: "bgm_nj_farm.dspadpcm.bcstm"
+    type: betting
+  - id: festival_plaza_mission_results_sunmoon
+    title: "Festival Plaza Mission Results"
+    path: "bgm_nj_festa_eventend.dspadpcm.bcstm"
+    type: result
+  - id: the_summit_of_mount_lanakila_sunmoon
+    title: "The Summit of Mount Lanakila"
+    path: "bgm_nj_league01.dspadpcm.bcstm"
+    type: betting
+  - id: aether_paradise_sunmoon
+    title: "Aether Paradise"
+    path: "bgm_nj_megafloat01.dspadpcm.bcstm"
+    type: betting
+  - id: the_secret_side_of_aether_paradise_sunmoon
+    title: "The Secret Side of Aether Paradise"
+    path: "bgm_nj_megafloat02.dspadpcm.bcstm"
+    type: betting
+  - id: aether_paradise_labs_sunmoon
+    title: "Aether Paradise Labs"
+    path: "bgm_nj_megafloat03.dspadpcm.bcstm"
+    type: break
+  - id: the_protector_of_the_island_sunmoon
+    title: "The Protector of the Island"
+    path: "bgm_nj_ruin.dspadpcm.bcstm"
+    type: break
+  - id: a_champion_is_born_sunmoon
+    title: "A Champion is Born!"
+    path: "bgm_nj_win6.dspadpcm.bcstm"
+    type: result
+  - id: battle_royale_results_sunmoon
+    title: "Battle Royale Results"
+    path: "bgm_nj_win8.dspadpcm.bcstm"
+    type: result
+  - id: victory_island_kahuna_sunmoon
+    title: "Victory! (Island Kahuna)"
+    path: "bgm_nj_win3.dspadpcm.bcstm"
+    type: result
+  - id: salon_sunmoon
+    title: "Salon"
+    path: "bgm_xy_salon.dspadpcm.bcstm"
+    type: break
+...

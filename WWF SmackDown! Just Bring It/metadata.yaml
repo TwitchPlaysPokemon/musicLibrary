@@ -1,0 +1,15 @@
+---
+id: wwf_smackDown_just_bring_it
+title: "WWF SmackDown! Just Bring It"
+platform: "PS2"
+year: 2001
+songs: 
+  - id: bgm001_wrestler_select_menu
+    title: "BGM001 (Wrestler select menu)"
+    path: "0 ~ BGM001.ADS"
+    type: betting
+  - id: bgm003_wrestler_select_menu
+    title: "BGM003 (Season menu)"
+    path: "0 ~ BGM003.ADS"
+    type: betting
+...

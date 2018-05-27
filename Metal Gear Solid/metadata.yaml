@@ -2,23 +2,35 @@
 id: metal_gear_solid
 title: "Metal Gear Solid"
 series: metalgear
-year: 1998
 platform: "PS1"
+year: 1998
 songs:
   - id: duel
-    title: "Duel"
+    title: "DUEL"
     path: "Duel.brstm"
     type: warning
   - id: encounter_mgs1
-    title: "Encounter"
+    title: "ENCOUNTER"
     path: "Encounter.brstm"
     type: warning
-  - id: main_theme_e3_1997
-    title: "Main Theme (1997 E3 Ver.)"
+  - id: metal_gear_solid_main_theme_1997_e3_edit
+    title: "METAL GEAR SOLID MAIN THEME (1997 E3 EDIT)"
     path: "Main Theme (1997 E3 Ver.).brstm"
     type: betting
   - id: vr_training_mg
-    title: "VR Training"
+    title: "VR TRAINING"
     path: "VR Training.brstm"
+    type: betting
+  - id: blast_furnace
+    title: "BLAST FURNACE"
+    path: "Blast Furnace.brstm"
+    type: betting
+  - id: escape
+    title: "ESCAPE"
+    path: "Escape.brstm"
+    type: warning
+  - id: warhead_storage
+    title: "WARHEAD STORAGE"
+    path: "Warhead Storage.brstm"
     type: betting
 ...

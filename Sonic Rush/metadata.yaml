@@ -1,0 +1,32 @@
+---
+id: sonic_rush
+title: "Sonic Rush"
+series: sonic
+platform: "NDS"
+year: 2005
+songs: 
+  - id: ska_cha_cha
+    title: "Ska Cha Cha"
+    path: "113 Ska Cha Cha.mini2sf"
+    type: betting
+  - id: ethno_circus
+    title: "Ethno Circus"
+    path: "116 Ethno Circus.mini2sf"
+    type: betting
+  - id: back_2_back
+    title: "Back 2 Back"
+    path: "121 Back 2 Back.mini2sf"
+    type: betting
+  - id: jeh_jeh_rocket
+    title: "Jeh Jeh Rocket"
+    path: "125 Jeh Jeh Rocket.mini2sf"
+    type: betting
+  - id: what_u_need
+    title: "What U Need"
+    path: "131 What U Need.mini2sf"
+    type: betting
+  - id: wrapped_in_black
+    title: "Wrapped in Black"
+    path: "141 Wrapped in Black.mini2sf"
+    type: betting
+...

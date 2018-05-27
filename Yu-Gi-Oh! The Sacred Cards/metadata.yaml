@@ -1,9 +1,16 @@
+---
 id: yugioh_the_sacred_cards
 title: "Yu-Gi-Oh! The Sacred Cards"
-year: 2002
+series: yugioh
 platform: "GBA"
+year: 2002
 songs:
   - id: title_screen_sacred_cards
     title: "Title Screen"
     path: "Title Screen.minigsf"
     type: warning
+  - id: bgm_03_clock_tower_square
+    title: "BGM #03 (Clock Tower Square)"
+    path: "03 BGM #03.minigsf"
+    type: betting
+...

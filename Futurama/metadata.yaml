@@ -1,0 +1,44 @@
+---
+id: futurama
+title: "Futurama"
+platform: ["PS2", "Xbox"]
+year: 2003
+songs: 
+  - id: sewers_futurama
+    title: "Sewers"
+    path: "03 - sewers.vag"
+    ends: 3:09
+    type: betting
+  - id: planet_express
+    title: "Planet Express"
+    path: "01 - planet express.vag"
+    ends: 3:05
+    type: betting
+  - id: credits_futurama
+    title: "Credits"
+    path: "02 - credits.vag"
+    ends: 2:06
+    type: betting
+  - id: red_light_district
+    title: "Red Light District"
+    path: "03 - redlight district.vag"
+    ends: 2:05
+    type: betting
+  - id: new_new_york
+    title: "New New York"
+    path: "04 - nny.vag"
+    type: betting
+  - id: mom_s_headquarters
+    title: "Mom's Headquarters"
+    path: "11 - track mom factory.vag"
+    type: betting
+  - id: last_battle_futurama
+    title: "Last Battle"
+    path: "12 - track end battle level 5.vag"
+    type: betting
+  - id: bogad_swamp
+    title: "Bogad Swamp"
+    path: "12 - track swamp race.vag"
+    ends: 3:24
+    type: betting
+...

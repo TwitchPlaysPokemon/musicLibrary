@@ -1,0 +1,11 @@
+---
+id: wwf_royal_rumble_snes
+title: "WWF Royal Rumble [SNES]"
+platform: ["SNES", "SMD"]
+year: 1993
+songs: 
+  - id: million_dollar_man
+    title: "Million Dollar Man"
+    path: "14 Million Dollar Man.spc"
+    type: warning
+...

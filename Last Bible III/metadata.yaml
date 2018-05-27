@@ -8,8 +8,112 @@ songs:
     title: "Val Ship"
     path: "30 Val Ship.spc"
     type: betting
-  - id: underworld_forest
-    title: "Underworld Forest"
+  - id: devil_forest
+    title: "Devil Forest"
     path: "53 Underworld Forest.spc"
+    type: betting
+  - id: memories_last_bible_iii
+    title: "Memories"
+    path: "04 Memories.spc"
+    type: break
+  - id: hometown_last_bible_iii
+    title: "Hometown"
+    path: "09 Hometown.spc"
+    type: betting
+  - id: field_i
+    title: "Field I"
+    path: "11 Field Theme 1.spc"
+    type: break
+  - id: before_the_battle
+    title: "Before The Battle"
+    path: "12 Before Battle.spc"
+    type: warning
+  - id: battle_i
+    title: "Battle I"
+    path: "13 Battle 1.spc"
+    type: warning
+  - id: dinner
+    title: "Dinner"
+    path: "18 Dinner.spc"
+    type: result
+  - id: battle_ii
+    title: "Battle II"
+    path: "22 Boss Battle 1.spc"
+    type: warning
+  - id: dragon_fang
+    title: "Dragon Fang"
+    path: "24 Dragon's Fang.spc"
+    type: betting
+  - id: harry
+    title: "Harry"
+    path: "26 Harry's Theme.spc"
+    type: result
+  - id: bad_letter
+    title: "Bad Letter"
+    path: "27 Bad News.spc"
+    type: warning
+  - id: battle_iii
+    title: "Battle III"
+    path: "31 Boss Battle 2.spc"
+    type: betting
+  - id: red_owl
+    title: "Red Owl"
+    path: "34 Red Owl.spc"
+    type: betting
+  - id: megalopolis
+    title: "Megalopolis"
+    path: "36 Megalopolis.spc"
+    type: betting
+  - id: mochowa
+    title: "Mochowa"
+    path: "40 Mochoa.spc"
+    type: break
+  - id: lake_ii
+    title: "Lake II"
+    path: "43 North Lake.spc"
+    type: break
+  - id: gafi_service
+    title: "Gafi Service"
+    path: "44 Garfy Service.spc"
+    type: betting
+  - id: battle_arena_last_bible_iii
+    title: "Battle Arena"
+    path: "45 Battle Arena.spc"
+    type: warning
+  - id: village_last_bible_iii
+    title: "Village"
+    path: "46 Village.spc"
+    type: break
+  - id: sodom
+    title: "Sodom"
+    path: "48 Sodom.spc"
+    type: break
+  - id: sky_wing
+    title: "Sky Wing"
+    path: "49 Sky Wing.spc"
+    type: betting
+  - id: felest_tower
+    title: "Felest Tower"
+    path: "50 Felest Tower.spc"
+    type: betting
+  - id: devil_city_usher
+    title: "Devil City Usher"
+    path: "52 Underworld Town.spc"
+    type: break
+  - id: battle_iv
+    title: "Battle IV"
+    path: "54 Battle 2.spc"
+    type: betting
+  - id: alec
+    title: "Alec"
+    path: "55 Arec's Revenge.spc"
+    type: warning
+  - id: battle_with_alec
+    title: "Battle With Alec"
+    path: "58 Battle with Arec.spc"
+    type: warning
+  - id: final_battle_last_bible_iii
+    title: "Final Battle"
+    path: "59 Last Battle.spc"
     type: betting
 ...

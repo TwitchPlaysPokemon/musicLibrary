@@ -1,0 +1,20 @@
+---
+id: the_secret_of_monkey_island
+title: "The Secret of Monkey Island"
+series: monkeyisland
+platform: "Various"
+year: 1990
+songs: 
+  - id: monkey_island
+    title: "Monkey Island"
+    path: "Monkey Island.brstm"
+    type: betting
+  - id: stan_s_previously_owned_vessels
+    title: "Stan's Previously Owned Vessels"
+    path: "Stan's Previously Owned Vessels.brstm"
+    type: betting
+  - id: the_scumm_bar
+    title: "The Scumm Bar"
+    path: "The Scumm Bar.brstm"
+    type: betting
+...

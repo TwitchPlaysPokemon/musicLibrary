@@ -1,0 +1,23 @@
+---
+id: wwf_wrestlemania_the_arcade_game_snes
+title: "WWF WrestleMania: The Arcade Game [SNES]"
+platform: "Various"
+year: 1995
+songs: 
+  - id: doink_the_clown
+    title: "Doink the Clown"
+    path: "03 Doink the Clown.spc"
+    type: warning
+  - id: bret_hart
+    title: "Bret Hart"
+    path: "04 Bret Hart.spc"
+    type: warning
+  - id: the_undertaker
+    title: "The Undertaker"
+    path: "05 The Undertaker.spc"
+    type: warning
+  - id: shawn_michaels
+    title: "Shawn Michaels"
+    path: "07 Shawn Michaels.spc"
+    type: result
+...

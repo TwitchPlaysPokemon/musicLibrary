@@ -2,7 +2,7 @@
 id: metal_gear_solid_3_snake_eater
 title: "Metal Gear Solid 3: Snake Eater"
 series: metalgear
-platform: "PS2"
+platform: "Various"
 year: 2004
 songs: 
   - id: snake_eater
@@ -10,8 +10,32 @@ songs:
     path: "Snake Eater.brstm"
     ends: 2:33
     type: betting
+  - id: battle_in_the_jungle_alert
+    title: "Battle in the Jungle ~ Alert"
+    path: "BGM_00001_0011.mtaf"
+    type: battle
   - id: takin_on_the_shagohod
-    title: "Takin' on the Shagohod"
-    path: "Takin' on the Shagohod.brstm"
+    title: "Takin' On The Shagohod"
+    path: "BGM_00017_0011.mtaf"
+    type: betting
+  - id: clash_with_evil_personified
+    title: "Clash With Evil Personified"
+    path: "BGM_00012_0011.mtaf"
+    type: battle
+  - id: cqc
+    title: "CQC"
+    path: "BGM_00022_0011.mtaf"
+    type: betting
+  - id: ocelot_youth_confrontation
+    title: "Ocelot Youth~Confrontation"
+    path: "BGM_00007_0011.mtaf"
+    type: betting
+  - id: ocelot_evasion
+    title: "Ocelot - Evasion"
+    path: "Ocelot - Evasion.brstm"
+    type: betting
+  - id: the_fury
+    title: "The Fury"
+    path: "BGM_00011_0011.mtaf"
     type: betting
 ...
