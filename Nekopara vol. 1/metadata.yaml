@@ -1,19 +1,31 @@
 ---
 id: nekopara_vol._1
-title: "Nekopara vol. 1"
-year: 2014
+title: "NEKOPARA Vol. 1"
 platform: "PC"
+year: 2014
 songs:
   - id: nekoparaopeninginstrumental
-    title: "Opening (Instrumental)"
+    title: "Taiyou Paradise (Inst Ver.)"
     path: "NekoparaOpeningInstrumental.brstm"
-    type: betting 
+    type: betting
   - id: nekoparanekotosanpo
-    title: "Neko To Sanpo"
+    title: "Neko to sanpo"
     path: "NekoparaNekoToSanpo.brstm"
-    type: betting 
+    type: betting
   - id: nekoparacatwork
     title: "Cat Work"
     path: "NekoparaCatWork.brstm"
-    type: betting 
+    type: betting
+  - id: neko_maturi
+    title: "Neko Maturi"
+    path: "Neko Maturi.brstm"
+    type: betting
+  - id: neko_will_be
+    title: "Neko will be..."
+    path: "Neko Will Be....brstm"
+    type: break
+  - id: nya_soleil
+    title: "Nya soleil"
+    path: "Nya Soleil.brstm"
+    type: betting
 ...

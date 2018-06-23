@@ -1,0 +1,80 @@
+---
+id: labo_robo
+title: "Nintendo Labo - Toy-Con 01: Variety Kit"
+series: labo
+platform: "Switch"
+year: 2018
+songs:
+  - id: aquarium_labo
+    title: "Fishing: Aquarium"
+    path: "Fsh_BGM_Aquarium.bfstm"
+    type: break
+  - id: reeling_labo
+    title: "Fishing: Reeling"
+    path: "Fsh_BGM_Reeling.bfstm"
+    type: warning
+  - id: reeling_b_labo
+    title: "Fishing: Reeling B"
+    path: "Fsh_BGM_Reeling_B_01.bfstm"
+    type: warning
+  - id: reeling_c_labo
+    title: "Fishing: Reeling C"
+    path: "Fsh_BGM_Reeling_C_01.bfstm"
+    type: warning
+  - id: sea_a_labo
+    title: "Fishing: Sea A"
+    path: "Fsh_BGM_Sea_A.bfstm"
+    type: break
+  - id: sea_b_labo
+    title: "Fishing: Sea B"
+    path: "Fsh_BGM_Sea_B.bfstm"
+    type: break
+  - id: balloon_a_labo
+    title: "Stadium: Balloon Game A"
+    path: "Hus_BGM_Balloon_Playing_Normal_A.bfstm"
+    type: warning
+  - id: balloon_waiting_labo
+    title: "Stadium: Balloon Waiting"
+    path: "Hus_BGM_Balloon_Waiting_B.bfstm"
+    type: warning
+  - id: main_stadium_night_labo
+    title: "Stadium: Main Theme (Night)"
+    path: "Hus_BGM_Main_Night.bfstm"
+    type: break
+  - id: basic_viewer_labo
+    title: "Stadium: Viewer"
+    path: "Hus_BGM_Viewer_Basic.bfstm"
+    type: break
+  - id: water_game_labo
+    title: "Stadium: Water Game"
+    path: "Hus_BGM_Water_Game.bfstm"
+    type: break
+  - id: chat_labo
+    title: "Learn: Chat"
+    path: "Lab_BGM_Learn_Chat.bfstm"
+    type: betting
+  - id: chat_master_labo
+    title: "Learn: Master Chat"
+    path: "Lab_BGM_Learn_Chat_Master.bfstm"
+    type: result
+  - id: chat_logicon_labo
+    title: "Learn: Logicon Chat"
+    path: "Lab_BGM_Learn_Logicaon_Chat.bfstm"
+    type: break
+  - id: learn_main_labo
+    title: "Learn: Main Theme"
+    path: "Lab_BGM_Learn_MainTrack.bfstm"
+    type: break
+  - id: make_finish_labo
+    title: "Make: Finish"
+    path: "Lab_BGM_Make_Finish.bfstm"
+    type: result
+  - id: menu_bike_labo
+    title: "Motorbike: Menu"
+    path: "Mbk_BGM_Bike_Menu.bfstm"
+    type: break
+  - id: car_battle_labo
+    title: "RC Car: Battle"
+    path: "Rcn_BGM_Battle.bfstm"
+    type: battle
+...

@@ -1,33 +1,35 @@
+---
 id: the_scheme
 title: "The Scheme"
-year: 1988
 platform: "PC-88"
+year: 1988
 songs:
   - id: into_the_lair
-    title: "Into The Lair"
+    title: "INTO THE LAIR"
     path: "01 Into The Lair.vgz"
     type: warning
   - id: death_world
-    title: "Death World"
+    title: "DEATH WORLD"
     path: "02 Death World.vgz"
     type: warning
   - id: coward
-    title: "Coward!"
+    title: "COWARD!"
     path: "04 Coward!.vgz"
     type: warning
   - id: ha_ha
-    title: "Ha! Ha!"
+    title: "HA! HA!"
     path: "05 Ha! Ha!.vgz"
     type: warning
-  - id: hardy_is_the_strongest
-    title: "Hardy is the Strongest"
-    path: "14 Hardy is the Strongest.vgz"
-    type: battle
   - id: the_force_rotted_away
-    title: "The Force Rotted Away"
+    title: "THE FORCE ROTTED AWAY"
     path: "12 The Force Rotted Away.vgz"
     type: warning
+  - id: hardy_is_the_strongest
+    title: "HARDY IS THE STRONGEST"
+    path: "14 Hardy is the Strongest.vgz"
+    type: battle
   - id: challenging_tomorrow
-    title: "Challenging Tomorrow"
+    title: "CHALLENGING TOMORROW"
     path: "15 Challenging Tomorrow.vgz"
     type: betting
+...

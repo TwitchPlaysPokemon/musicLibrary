@@ -5,7 +5,11 @@ platform: "X68000"
 year: 1992
 songs: 
   - id: gather_way_stage_1
-    title: "GATHER WAY! -STAGE 1- "
+    title: "GATHER WAY! -STAGE 1-"
     path: "02 Gather Way!.vgz"
+    type: betting
+  - id: it_doesn_t_amount_to_anything
+    title: "IT DOESN'T AMOUNT TO ANYTHING. -STAGE 3-"
+    path: "04 It Doesn't Amount to Anything..vgz"
     type: betting
 ...

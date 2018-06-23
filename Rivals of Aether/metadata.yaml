@@ -1,7 +1,8 @@
+---
 id: rivals_of_aether
 title: "Rivals of Aether"
+platform: ["PC", "XB1"]
 year: 2017
-platform: ["PC", "XBone"]
 songs:
   - id: fight_and_flight_roa
     title: "Fight and Flight"
@@ -12,6 +13,40 @@ songs:
     path: "Rock Wall.brstm"
     type: result
   - id: oceanic_breeze_beta_roa
-    title: "Oceanic Breeze [Early Access]"
+    title: "Oceanic Breeze (Beta)"
     path: "Merchant Port.brstm"
     type: result
+  - id: formless_onslaught
+    title: "Formless Onslaught"
+    path: "Formless Onslaught.brstm"
+    type: battle
+  - id: glacial_bastion
+    title: "Glacial Bastion"
+    path: "Glacial Bastion.brstm"
+    type: battle
+  - id: fighter_select_rivals_of_aether
+    title: "Fighter Select"
+    path: "Fighter Select.brstm"
+    type: betting
+  - id: decisive_encounter
+    title: "Decisive Encounter"
+    path: "Decisive Encounter.brstm"
+    type: battle
+  - id: luna_ascension_ex
+    title: "Luna Ascension EX"
+    path: "Luna Ascension EX.brstm"
+    type: betting
+  - id: moonlight_inferno
+    title: "Moonlight Inferno"
+    path: "Moonlight Inferno.brstm"
+    type: betting
+  - id: sylvian_radiance
+    title: "Sylvian Radiance"
+    path: "Sylvian Radiance.brstm"
+    type: battle
+  - id: ori_and_the_blind_forest_medley
+    title: "Ori and the Blind Forest Medley"
+    path: "flashygoodness - Rivals of Aether (Special Tracks) - 01 Ori and the Blind Forest Medley.brstm"
+    ends: 3:26
+    type: betting
+...

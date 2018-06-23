@@ -1,0 +1,43 @@
+---
+id: sink_or_swim
+title: "Sink or Swim"
+platform: "PC"
+year: 1993
+songs:
+  - id: bgm_0_sos
+    title: "Ingame 0"
+    path: "05 Ingame 0.vgz"
+    type: betting
+  - id: bgm_1_sos
+    title: "Ingame 1"
+    path: "06 Ingame 1.vgz"
+    type: betting
+  - id: bgm_3_sos
+    title: "Ingame 3"
+    path: "08 Ingame 3.vgz"
+    type: betting
+  - id: bgm_6_sos
+    title: "Ingame 6"
+    path: "11 Ingame 6.vgz"
+    type: betting
+  - id: bgm_7_sos
+    title: "Ingame 7"
+    path: "12 Ingame 7.vgz"
+    type: warning
+  - id: bgm_8_sos
+    title: "Ingame 8"
+    path: "13 Ingame 8.vgz"
+    type: break
+  - id: bgm_9_sos
+    title: "Ingame 9"
+    path: "14 Ingame 9.vgz"
+    type: warning
+  - id: winner_sos
+    title: "Winner"
+    path: "15 Winner.vgz"
+    type: result
+  - id: loser_sos
+    title: "Loser"
+    path: "16 Looser.vgz"
+    type: result
+...

@@ -1,13 +1,13 @@
 ---
 id: street_fighter_ii_cps1
-title: "Street Fighter II'"
+title: "Street Fighter II"
 series: streetfighter
 platform: ["Arcade", "Various"]
 year: 1991
 songs: 
-  - id: e_honda_ending_cps1
-    title: "E. Honda's Ending"
-    path: "37 E. Honda Ending.vgz"
+  - id: guile_theme_cps1
+    title: "Guile's Theme"
+    path: "10 Guile Stage I.vgz"
     type: result
   - id: bonus_stage_cps1
     title: "Bonus Stage"
@@ -17,8 +17,8 @@ songs:
     title: "E. Honda's Theme (Near K.O.)"
     path: "17 E. Honda Stage II.vgz"
     type: warning
-  - id: guile_theme_cps1
-    title: "Guile's Theme"
-    path: "10 Guile Stage I.vgz"
+  - id: e_honda_ending_cps1
+    title: "E. Honda's Ending"
+    path: "37 E. Honda Ending.vgz"
     type: result
 ...

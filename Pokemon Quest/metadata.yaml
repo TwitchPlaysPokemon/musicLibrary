@@ -1,0 +1,116 @@
+---
+id: pokemon_quest
+title: "Pokémon Quest"
+series: pokemon
+platform: ["Switch", "Mobile"]
+year: 2018
+songs:
+  - id: base_pkq
+    title: "Base Camp"
+    path: "BGM_BASE.wem"
+    type: betting
+  - id: boss2_pkq
+    title: "Boss Battle 2"
+    path: "BGM_Boss_Battle.wem"
+    type: battle
+  - id: boss1_pkq
+    title: "Boss Battle 1"
+    path: "BGM_Boss_Stage_1.wem"
+    type: battle
+  - id: boss_stage1_pkq
+    title: "Boss Stage 1"
+    path: "BGM_Boss_Stage.wem"
+    type: warning
+  - id: belly_button_cave
+    title: "Belly Button Cave"
+    path: "BGM_CAVE_1.wem"
+    type: betting
+  - id: nightlight_nook
+    title: "Nightlight Nook"
+    path: "BGM_CAVE_2.wem"
+    type: betting
+  - id: happenstance_island_cave
+    title: "Happenstance Island (Cave)"
+    path: "BGM_Cave_3.wem"
+    type: betting
+  - id: tutorial_pkq
+    title: "Tutorial"
+    path: "BGM_demo_170810.wem"
+    type: betting
+  - id: credits_pkq
+    title: "Staff Roll"
+    path: "BGM_Ending_Fade.wem"
+    type: betting
+  - id: gloomy_grove_pkq
+    title: "Gloomy Grove"
+    path: "BGM_Forest_1.wem"
+    type: betting
+  - id: miasma_moor_pkq
+    title: "Miasma Moor"
+    path: "BGM_Forest_2.wem"
+    type: betting
+  - id: happenstance_island_forest
+    title: "Happenstance Island (Forest)"
+    path: "BGM_Forest_3.wem"
+    type: betting
+  - id: pincushion_plain_pkq
+    title: "Pincushion Plain"
+    path: "BGM_Grassland.wem"
+    type: betting
+  - id: first_steppe_pkq
+    title: "First Steppe"
+    path: "BGM_Grassland_1.wem"
+    type: betting
+  - id: happenstance_island_grassland
+    title: "Happenstance Island (Grassland)"
+    path: "BGM_Grassland_3.wem"
+    type: betting
+  - id: parched_peak_pkq
+    title: "Parched Peak"
+    path: "BGM_Mountain_1.wem"
+    type: betting
+  - id: hushed_highlands_pkq
+    title: "Hushed Highlands"
+    path: "BGM_Mountain_2.wem"
+    type: betting
+  - id: happenstance_island_mountain
+    title: "Happenstance Island (Mountain)"
+    path: "BGM_Mountain_3.wem"
+    type: betting
+  - id: intro_pkq
+    title: "Intro"
+    path: "BGM_Opening.wem"
+    type: result
+  - id: expedition_results_pkq
+    title: "Expedition Results"
+    path: "BGM_Stage_Clear.wem"
+    type: result
+  - id: expedition_selection_pkq
+    title: "Expedition Selection"
+    path: "BGM_Stage_Select.wem"
+    type: result
+  - id: story_emergency_pkq
+    title: "Story Emergency"
+    path: "BGM_Story_Emergency.wem"
+    type: warning
+  - id: story_talk_pkq
+    title: "Story Talk"
+    path: "BGM_Story_Talk.wem"
+    type: result
+  - id: title_pkq
+    title: "Title Theme"
+    path: "BGM_Title.wem"
+    type: betting
+  - id: backforth_brook_pkq
+    title: "Backforth Brook"
+    path: "BGM_Waterside_1.wem"
+    type: betting
+  - id: farside_fjord_pkq
+    title: "Farside Fjord"
+    path: "BGM_Waterside_2.wem"
+    type: betting
+  - id: happenstance_island_waterside
+    title: "Happenstance Island (Waterside)"
+    path: "BGM_Waterside_3.wem"
+    type: betting
+...

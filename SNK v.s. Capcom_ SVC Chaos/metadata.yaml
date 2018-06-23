@@ -1,9 +1,58 @@
 id: snk_vs_capcom_svc_chaos
 title: "SNK vs Capcom: SVC Chaos"
+series: kof
 platform: ["Neo-Geo", "Xbox", "PS2"]
 year: 2003
 songs: 
-  - id: continue_snk_vs_capcom
-    title: "Continue?"
+  - id: countdown_to_defeat_continue
+    title: "Countdown to Defeat ~Continue~"
     path: "Continue.brstm"
     type: warning
+  - id: the_winds_of_struggle
+    title: "The Winds of Struggle ~Title~"
+    path: "01 Wind of Death Fight.vgz"
+    type: warning
+  - id: select_player_select_svc
+    title: "Select ~Player Select~"
+    path: "03 Select.vgz"
+    type: warning
+  - id: svc_poem_of_heaven_heaven_stage
+    title: "SVC Poem of Heaven ~Heaven Stage~"
+    path: "19 Poem of SVC Heaven.vgz"
+    tags: [hween]
+    type: betting
+  - id: svc_poem_of_hell_hell_stage
+    title: "SVC Poem of Hell ~Hell Stage~"
+    path: "21 Poem of SVC Hell.vgz"
+    tags: [hween]
+    type: betting
+  - id: run_to_the_dark_ending_a
+    title: "Run to the dark ~Ending A~"
+    path: "22 Run to the Dark.vgz"
+    tags: [hween]
+    type: warning
+  - id: it_s_so_cool_ending_b
+    title: "It's so Cool! ~Ending B~"
+    path: "23 It's so Cool!.vgz"
+    type: betting
+  - id: short_relief_ending_c
+    title: "Short Relief ~Ending C~"
+    path: "24 Break.vgz"
+    type: result
+  - id: heyeyey_ending_d
+    title: "Heyeyey! ~Ending D~"
+    path: "25 Heyeyey!.vgz"
+    type: warning
+  - id: silence_ending_e
+    title: "Silence ~Ending E~"
+    path: "26 Silence.vgz"
+    type: warning
+  - id: preparedness_ending_f
+    title: "Preparedness ~Ending F~"
+    path: "27 Preparedness.vgz"
+    type: warning
+  - id: endless_journey_bad_ending
+    title: "Endless Journey ~BAD Ending~"
+    path: "29 Endless Journey.vgz"
+    type: warning
+...

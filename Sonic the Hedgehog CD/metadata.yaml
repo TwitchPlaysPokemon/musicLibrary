@@ -233,7 +233,7 @@ songs:
     title: "Title Screen (JP/EU)"
     path: "Title Screen (JP_EU) (Looped).brstm"
     type: result
-  - id: sonic_boom_ending_version
+  - id: sonic_boom_ending_version_instrumental
     title: "Sonic Boom - Ending Version (Instrumental)"
     path: "Sonic Boom - Ending Version (Instrumental).brstm"
     type: break
@@ -241,4 +241,13 @@ songs:
     title: "Tidal Tempest Good Future (JPN/PAL)"
     path: "Tidal Tempest Good Future (JPN_PAL).brstm"
     type: break
+  - id: sonic_boom_ending_version
+    title: "Sonic Boom - Ending Version"
+    path: "Sonic Boom - Ending Version.brstm"
+    ends: 2:42
+    type: betting
+  - id: stardust_speedway_present_jpn_pal
+    title: "Stardust Speedway Present (JPN/PAL)"
+    path: "Stardust Speedway Present (JPN_PAL).brstm"
+    type: betting
 ...

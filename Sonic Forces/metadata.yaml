@@ -17,7 +17,7 @@ songs:
     title: "Cutscene - Zavok Appears"
     path: "00060_bgm_stg06_s.hca"
     type: battle
-  - id: egg_gate
+  - id: egg_gate_sonic_forces
     title: "Egg Gate"
     path: "00069_bgm_stg06_s_qte.hca"
     type: battle
@@ -37,7 +37,7 @@ songs:
     title: "Faded Hills - Green Hill"
     path: "00130_bgm_stg13_c.hca"
     type: betting
-  - id: eggman_battle
+  - id: eggman_battle_sonic_forces
     title: "Eggman Battle"
     path: "00140_bgm_stg14_b.hca"
     type: betting
@@ -144,5 +144,13 @@ songs:
   - id: world_map_3_sonic_forces
     title: "World Map 3"
     path: "00906_bgm_stg_sp06.hca"
+    type: betting
+  - id: egg_dragoon_battle
+    title: "Egg Dragoon Battle"
+    path: "00150_bgm_stg15_s.hca"
+    type: battle
+  - id: super_sonic_classic_sonic_forces
+    title: "Super Sonic (Classic)"
+    path: "Fist Bump (FM Ver.).brstm"
     type: betting
 ...

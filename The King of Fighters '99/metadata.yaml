@@ -1,0 +1,32 @@
+---
+id: kof_99
+title: "The King of Fighters '99: Millennium Battle"
+series: kof
+platform: "Neo-Geo"
+year: 1999
+songs:
+  - id: burning_dna_beta_mvs_title
+    title: "Burning D.N.A. β (MVS Title)"
+    path: "02 Burning D.N.A. Beta (MVS Title).vgz"
+    type: warning
+  - id: standby_how_to_play_player_select
+    title: "Standby (How To Play ~ Player Select)"
+    path: "03 Standby (How to Play _ Player Select).vgz"
+    type: warning
+  - id: the_way_to_rebirth_korea_team_theme
+    title: "The way to rebirth (Korea Team Theme)"
+    path: "13 The Way to Rebirth (Korea Team Theme).vgz"
+    type: battle
+  - id: esaka_acid_mix_kyo_kusanagi_1_2_theme
+    title: "ESAKA? (Acid Mix) (Kyo Kusanagi 1, 2 Theme)"
+    path: "14 Esaka (Acid Mix) (Kyo-1 and Kyo-2 Theme).vgz"
+    type: battle
+  - id: tears_kyo_kusanagi_theme
+    title: "Tears (Kyo Kusanagi Theme)"
+    path: "15 Tears (Kyo Kusanagi Theme).vgz"
+    type: betting
+  - id: final_battle_?_mid_boss_appearance_demo
+    title: "Final Battle ? (Mid Boss Appearance Demo)"
+    path: "17 Final Battle (Midboss Appearance Demo).vgz"
+    type: warning
+...

@@ -2,11 +2,31 @@
 id: starcraft
 title: "StarCraft"
 series: starcraft
-year: 1998
 platform: ["PC", "N64"]
+year: 1998
 songs:
-  - id: terran_1
-    title: "Terran 1"
+  - id: terran_one
+    title: "Terran One"
     path: "Terran 1.brstm"
+    type: betting
+  - id: terran_two
+    title: "Terran Two"
+    path: "Terran 2.brstm"
+    type: betting
+  - id: protoss_one
+    title: "Protoss One"
+    path: "Protoss 1.brstm"
+    type: betting
+  - id: protoss_four
+    title: "Protoss Four"
+    path: "Protoss 4.brstm"
+    type: betting
+  - id: zerg_one
+    title: "Zerg One"
+    path: "Zerg 1.brstm"
+    type: betting
+  - id: zerg_two
+    title: "Zerg Two"
+    path: "Zerg 2.brstm"
     type: betting
 ...

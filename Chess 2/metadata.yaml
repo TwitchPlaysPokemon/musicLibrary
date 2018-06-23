@@ -1,0 +1,23 @@
+---
+id: chess_2_the_sequel
+title: "Chess 2: The Sequel"
+platform: ["OUYA", "PC"]
+year: 2014
+songs:
+  - id: oboe_concerto_in_d_minor_op_2_no_2_albinoni
+    title: "Oboe Concerto in D minor, Op.9 No.2 (Albinoni)"
+    path: "Albinoni_OboeConcertoOp9No2 (I).brstm"
+    type: betting
+  - id: premiere_gymnopedie_satie_chess2
+    title: "1ère Gymnopédie (Satie)"
+    path: "La ere gymnopedie.brstm"
+    type: break
+  - id: nocturne_op_9_no_2_chopin_chess2
+    title: "Nocturne Op.9 No. 2 (Chopin)"
+    path: "La ere gymnopedie.brstm"
+    type: break
+  - id: fur_elise_beethoven_chess2
+    title: "Für Elise (Beethoven)"
+    path: "Beethoven Fur Elise.brstm"
+    type: betting
+...

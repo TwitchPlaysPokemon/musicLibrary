@@ -1,0 +1,23 @@
+---
+id: spanky_s_quest_gb
+title: "Spanky's Quest [GB]"
+platform: ["SNES", "GB"]
+year: 1991
+songs:
+  - id: tower_select_spank
+    title: "Tower Select"
+    path: "02 Tower Select.vgz"
+    type: result
+  - id: bonus_tower_spank
+    title: "Bonus Tower"
+    path: "08 Bonus Tower.vgz"
+    type: result
+  - id: boss_battle_spank
+    title: "Boss Battle"
+    path: "09 Boss Battle.vgz"
+    type: warning
+  - id: ending_spank
+    title: "Ending"
+    path: "11 Ending.vgz"
+    type: result
+...

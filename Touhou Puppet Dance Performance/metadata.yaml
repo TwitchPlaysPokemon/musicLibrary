@@ -71,4 +71,52 @@ songs:
     title: "Battle! Yuuka Kazami"
     path: "Battle! Yuuka Kazami.brstm"
     type: battle
+  - id: battle_formidable_foe_of_gensokyo
+    title: "Battle! Formidable Foe of Gensokyo"
+    path: "Battle! Formidable Foe of Gensokyo.brstm"
+    type: battle
+  - id: battle_shinki
+    title: "Battle! Shinki"
+    path: "Battle! Goddess of Makai.brstm"
+    type: battle
+  - id: battle_marisa_kirisame
+    title: "Battle! Marisa Kirisame"
+    path: "Battle! Marisa Kirisame.brstm"
+    type: battle
+  - id: battle_reimu_hakurei
+    title: "Battle! Reimu Hakurei"
+    path: "Battle! Reimu Hakurei.brstm"
+    type: battle
+  - id: hakurei_shrine
+    title: "Hakurei Shrine"
+    path: "Hakurei Shrine.brstm"
+    type: break
+  - id: marisa_s_theme
+    title: "Marisa's Theme"
+    path: "Marisa's Theme.brstm"
+    type: warning
+  - id: moriya_shrine
+    title: "Moriya Shrine"
+    path: "Moriya Shrine.brstm"
+    type: betting
+  - id: reimu_s_theme
+    title: "Reimu's Theme"
+    path: "Reimu's Theme.brstm"
+    type: warning
+  - id: scarlet_devil_mansion
+    title: "Scarlet Devil Mansion"
+    path: "Scarlet Devil Mansion.brstm"
+    type: betting
+  - id: spotted_fairy
+    title: "Spotted! Fairy"
+    path: "Spotted! Fairy.brstm"
+    type: result
+  - id: spotted_ghost
+    title: "Spotted! Ghost"
+    path: "Spotted! Ghost.brstm"
+    type: warning
+  - id: youkai_mountain
+    title: "Youkai Mountain"
+    path: "Youkai Mountain.brstm"
+    type: betting
 ...

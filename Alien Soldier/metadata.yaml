@@ -1,0 +1,35 @@
+---
+id: alien_soldier
+title: "Alien Soldier"
+platform: "SMD"
+year: 1995
+songs:
+  - id: slap_up_as
+    title: "Slap-Up"
+    path: "05 - Slap-Up.vgz"
+    type: betting
+  - id: runner_ad2025
+    title: "Runner AD2025"
+    path: "07 - Runner AD2025.vgz"
+    type: betting
+  - id: shade_as
+    title: "!!!...Shade..."
+    path: "11 - !!!...Shade....vgz"
+    type: betting
+  - id: epsilon_ally
+    title: "Epsilons-Ally"
+    path: "12 - Epsilons-Ally.vgz"
+    type: warning
+  - id: silent_as
+    title: "Silent"
+    path: "13 - Silent.vgz"
+    type: warning
+  - id: galaxy_desert_as
+    title: "Galaxy Desert"
+    path: "18 - Galaxy Desert.vgz"
+    type: betting
+  - id: alone_z_as
+    title: "Alone'Z'"
+    path: "19 - Alone'Z'.vgz"
+    type: warning
+...

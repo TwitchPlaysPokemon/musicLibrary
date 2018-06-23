@@ -17,8 +17,8 @@ songs:
     title: "Main Gate"
     path: "Main Gate.PSF"
     type: betting
-  - id: original_hito_unit_residence
-    title: "Original Hito Unit Residence"
+  - id: original_hito_unit_residential_area
+    title: "Original Hito Unit Residental Area"
     path: "Original Hito Unit Residence.PSF"
     type: betting
   - id: police_station_mml
@@ -26,7 +26,7 @@ songs:
     path: "Police Station.PSF"
     type: betting
   - id: at_a_place_nobody_knows
-    title: "At A Place Nobody Knows"
+    title: "At a Place Nobody Knows"
     path: "At A Place Nobody Knows.PSF"
     type: warning
   - id: city_hall_under_siege
@@ -38,31 +38,31 @@ songs:
     path: "Drache Launch.PSF"
     type: warning
   - id: hanmaru_doll_appears
-    title: "Hanmaru Doll Appears"
+    title: "Hanmuru Doll Appears!"
     path: "Hanmaru Doll Appears.PSF"
     type: warning
   - id: marlwolf
-    title: "Marlwolf"
+    title: "Marlwolf!"
     path: "Marlwolf.PSF"
     type: warning
-  - id: marlwolf_appears
-    title: "Marlwolf Appears"
+  - id: approaching_the_marlwolf
+    title: "Approaching the Marlwolf"
     path: "Marlwolf Appears.PSF"
     type: warning
-  - id: sumeter_links_bon_bonne
-    title: "Sumeter links, Bon Bonne"
+  - id: schmetterling_s_bon_bonne
+    title: "Schmetterling's Bon Bonne"
     path: "Sumeter links, Bon Bonne.PSF"
     type: warning
   - id: the_gesellschaft
-    title: "The Gesellschaft"
+    title: "The Flutter VS The Gesellschaft"
     path: "The Gesellschaft.PSF"
-    type: warning
+    type: betting
   - id: water_battle_mml
     title: "Water Battle"
     path: "Water Battle.PSF"
     type: warning
-  - id: fokker_wolf
-    title: "Fokker Wolf"
+  - id: focke_wulf
+    title: "Focke-Wulf!"
     path: "Fokker Wolf.PSF"
     type: battle
   - id: city_hall_mml

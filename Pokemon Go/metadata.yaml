@@ -25,4 +25,12 @@ songs:
     title: "Raid Battle"
     path: "Raid Battle.brstm"
     type: battle
+  - id: title_pokemon_go
+    title: "Title Screen"
+    path: "Title.brstm"
+    type: result
+  - id: battle_wild_night_pokemon_go
+    title: "Battle! Wild Pokémon (Night)"
+    path: "Battle! (Wild Pokémon) (Night).brstm"
+    type: battle
 ...

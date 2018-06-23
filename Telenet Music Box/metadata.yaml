@@ -1,0 +1,19 @@
+---
+id: telenet_music_box
+title: "Telenet Music Box"
+platform: "X68000"
+year: 1989
+songs:
+  - id: pop_kiss_tmb
+    title: "Pop Kiss"
+    path: "002 Pop Kiss.vgz"
+    type: betting
+  - id: the_american_truck
+    title: "The American Truck"
+    path: "003 The American Truck.vgz"
+    type: result
+  - id: rising_up_tmb
+    title: "Rising Up"
+    path: "006 Rising Up.vgz"
+    type: betting
+...

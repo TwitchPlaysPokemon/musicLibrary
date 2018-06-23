@@ -1,0 +1,23 @@
+---
+id: puyo_puyo_smd
+title: "Puyo Puyo [SMD]"
+platform: "Various"
+year: 1992
+songs: 
+  - id: warning_of_puyo_puyo
+    title: "Warning of Puyo Puyo"
+    path: "04 - Warning.vgz"
+    type: warning
+  - id: memories_of_puyo_puyo
+    title: "Memories of Puyo Puyo"
+    path: "05 - Memories.vgz"
+    type: betting
+  - id: ondo_of_puyo_puyo
+    title: "Ondo of Puyo Puyo"
+    path: "08 - Ondo.vgz"
+    type: result
+  - id: rejection_of_puyo_puyo
+    title: "Rejection of Puyo Puyo"
+    path: "15 - Rejection.vgz"
+    type: warning
+...

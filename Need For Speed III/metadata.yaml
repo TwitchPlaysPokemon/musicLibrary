@@ -1,12 +1,28 @@
 ---
-id: nfs3
+id: need_for_speed_iii
 title: "Need for Speed III"
 series: needforspeed
-year: 1998
 platform: ["PC", "PS1"]
+year: 1998
 songs:
   - id: triton
     title: "Triton"
     path: "Triton.brstm"
+    type: betting
+  - id: aquila_303
+    title: "Aquila 303"
+    path: "Aquila 303.brstm"
+    type: betting
+  - id: hydrus_606
+    title: "Hydrus 606"
+    path: "Hydrus 606.brstm"
+    type: betting
+  - id: monster
+    title: "Monster"
+    path: "Monster.brstm"
+    type: betting
+  - id: pi
+    title: "Pi"
+    path: "Pi.brstm"
     type: betting
 ...

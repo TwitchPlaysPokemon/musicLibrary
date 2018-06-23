@@ -1,30 +1,60 @@
+---
 id: soulcalibur_iii
 title: "SoulCalibur III"
 series: soulcalibur
-year: 2005
 platform: "PS2"
+year: 2005
 songs:
   - id: approaching_tempest
-    title: "Approaching Tempest"
+    title: "APPROACHING TEMPEST"
     path: "Approaching Tempest.brstm"
     type: result
   - id: crimson_feast
-    title: "Crimson Feast"
+    title: "CRIMSON FEAST"
     path: "Crimson Feast.brstm"
     type: betting
   - id: nameless_calamity
-    title: "Nameless Calamity"
+    title: "NAMELESS CALAMITY"
     path: "Nameless Calamity.brstm"
     type: betting
   - id: if_there_were_any_other_way
-    title: "If There Were Any Other Way"
+    title: "IF THERE WERE ANY OTHER WAY"
     path: "If There Were Any Other Way.brstm"
     type: betting
   - id: forsaken_sanctuary
-    title: "Forsaken Sanctuary"
+    title: "FORSAKEN SANCTUARY"
     path: "Forsaken Sanctuary.brstm"
     type: betting
   - id: world_distortion
-    title: "World Distortion"
+    title: "WORLD DISTORTION"
     path: "World Distortion.brstm"
     type: battle
+  - id: battle_for_the_crown
+    title: "BATTLE FOR THE CROWN"
+    path: "Battle For The Crown.brstm"
+    type: betting
+  - id: beyond_the_horizon
+    title: "BEYOND THE HORIZON"
+    path: "Beyond The Horizon.brstm"
+    type: betting
+  - id: catastrophe
+    title: "CATASTROPHE"
+    path: "Catastrophe.brstm"
+    type: battle
+  - id: fearless_eyes
+    title: "FEARLESS EYES"
+    path: "Fearless Eyes.brstm"
+    type: battle
+  - id: labyrinth_of_moonlight
+    title: "LABYRINTH OF MOONLIGHT"
+    path: "Labyrinth Of Moonlight.brstm"
+    type: betting
+  - id: radiant_souls
+    title: "RADIANT SOULS"
+    path: "Radiant Souls.brstm"
+    type: betting
+  - id: time_marches_on
+    title: "TIME MARCHES ON"
+    path: "Time Marches On.brstm"
+    type: betting
+...

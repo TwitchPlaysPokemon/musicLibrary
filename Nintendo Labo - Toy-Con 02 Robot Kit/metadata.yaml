@@ -1,0 +1,40 @@
+---
+id: nintendo_labo_toy_con_02_robot_kit
+title: "Nintendo Labo - Toy-Con 02: Robot Kit"
+series: labo
+platform: "Switch"
+year: 2018
+songs:
+  - id: free_giant_labo
+    title: "Free Mode Giant"
+    path: "BGM_FreeMode_Giant_44k.dspadpcm.bfstm"
+    type: betting
+  - id: challenge_4_a_labo
+    title: "Challenge: Level 4-A"
+    path: "Rbt_BGM_Challenge_Area4-A_44k.dspadpcm.bfstm"
+    type: battle
+  - id: challenge_4_b_labo
+    title: "Challenge: Level 4-B"
+    path: "Rbt_BGM_Challenge_Area4-B_44k.dspadpcm.bfstm"
+    type: warning
+  - id: challenge_4_c_labo
+    title: "Challenge: Level 4-C"
+    path: "Rbt_BGM_Challenge_Area4-C_44k.dspadpcm.bfstm"
+    type: battle
+  - id: challenge_4_d_labo
+    title: "Challenge: Level 4-D"
+    path: "Rbt_BGM_Challenge_Area4-D_44k.dspadpcm.bfstm"
+    type: betting
+  - id: challenge_selecter_labo
+    title: "Challenge Selecter"
+    path: "Rbt_BGM_Challenge_Selecter.bfstm"
+    type: betting
+  - id: calorie_labo
+    title: "View Calorie"
+    path: "Rbt_BGM_Menu_Calorie.bfstm"
+    type: result
+  - id: retry_labo
+    title: "Retry?"
+    path: "Rbt_BGM_Retry.dspadpcm.bfstm"
+    type: warning
+...

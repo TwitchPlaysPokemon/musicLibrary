@@ -1,37 +1,57 @@
 ---
 id: star_fox_assault
-platform: "GC"
 title: "Star Fox: Assault"
 series: starfox
+platform: "GCN"
 year: 2005
 songs: 
   - id: corneria_foxassault
-    path: "Corneria.dsp"
     title: "Corneria"
+    path: "Corneria.dsp"
     type: battle
   - id: menu_starfox_assault
-    path: "Menu.dsp"
     title: "Menu"
+    path: "Menu.dsp"
     type: betting
   - id: meteo
-    path: "Meteo.dsp"
     title: "Meteo"
+    path: "Meteo.dsp"
     type: battle
   - id: sauria
-    path: "Sauria.dsp"
     title: "Sauria"
+    path: "Sauria.dsp"
     type: battle
   - id: mission_complete_starfox_assault
-    path: "Mission Complete.dsp"
     title: "Mission Complete"
+    path: "Mission Complete.dsp"
     type: result
   - id: vs_simple_map_5
-    path: "Vs. Simple Map 5.dsp"
     title: "Vs. Simple Map 5"
+    path: "Vs. Simple Map 5.dsp"
     type: betting
   - id: fortuna
     title: "Fortuna"
     path: "Fortuna.dsp"
     ends: 2:12
+    type: betting
+  - id: aparoid_city
+    title: "Aparoid City"
+    path: "A00030.dsp"
+    type: warning
+  - id: aparoid_tunnel
+    title: "Aparoid Tunnel"
+    path: "A00018.dsp"
+    type: warning
+  - id: aparoid_queen_1
+    title: "Aparoid Queen 1"
+    path: "A00031.dsp"
+    type: battle
+  - id: aparoid_queen_2
+    title: "Aparoid Queen 2"
+    path: "A00032.dsp"
+    type: battle
+  - id: sargasso
+    title: "Sargasso"
+    path: "A00027.dsp"
     type: betting
 ...

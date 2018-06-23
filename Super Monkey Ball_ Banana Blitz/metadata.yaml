@@ -17,4 +17,32 @@ songs:
     title: "Sinking Swamp"
     path: "swamp.brstm"
     type: betting
+  - id: jumble_jungle
+    title: "Jumble Jungle"
+    path: "jungle.brstm"
+    type: betting
+  - id: smooth_sherbet
+    title: "Smooth Sherbet"
+    path: "ice.brstm"
+    type: betting
+  - id: detritus_desert
+    title: "Detritus Desert"
+    path: "sand.brstm"
+    type: betting
+  - id: pirates_ocean
+    title: "Pirates Ocean"
+    path: "grave.brstm"
+    type: warning
+  - id: cobalt_cavern
+    title: "Cobalt Cavern"
+    path: "cave.brstm"
+    type: betting
+  - id: volcanic_pools
+    title: "Volcanic Pools"
+    path: "lava.brstm"
+    type: betting
+  - id: space_case
+    title: "Space Case"
+    path: "space.brstm"
+    type: betting
 ...
