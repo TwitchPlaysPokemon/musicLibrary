@@ -21,10 +21,11 @@ songs:
     title: "Challenge: Level 4-C"
     path: "Rbt_BGM_Challenge_Area4-C_44k.dspadpcm.bfstm"
     type: battle
-  - id: challenge_4_d_labo
-    title: "Challenge: Level 4-D"
-    path: "Rbt_BGM_Challenge_Area4-D_44k.dspadpcm.bfstm"
-    type: betting
+     #  - id: challenge_4_d_labo
+     #    title: "Challenge: Level 4-D"
+     #    path: "Rbt_BGM_Challenge_Area4-D_44k.dspadpcm.bfstm"
+     #    type: betting
+     #borked songfile
   - id: challenge_selecter_labo
     title: "Challenge Selecter"
     path: "Rbt_BGM_Challenge_Selecter.bfstm"
