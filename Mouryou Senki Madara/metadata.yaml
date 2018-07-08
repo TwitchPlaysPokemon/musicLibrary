@@ -1,0 +1,32 @@
+---
+id: mouryou_senki_madara
+title: "Mouryou Senki Madara"
+series: madara
+platform: "FC"
+year: 1990
+songs: 
+  - id: a_warrior_s_departure_map1_main_bgm
+    title: "A Warrior's Departure (Map1 Main BGM)"
+    path: "Departing Soldiers.brstm"
+    type: betting
+  - id: labyrinth_road_dungeon_1
+    title: "Labyrinth Road (Dungeon 1)"
+    path: "Labyrinth Road.brstm"
+    type: betting
+  - id: ma_da_ra_map2_main_bgm
+    title: "MA-DA-RA (Map2 Main BGM)"
+    path: "Ma-Da-Ra.brstm"
+    type: betting
+  - id: symphony_of_destruction_eight_generals
+    title: "Symphony of Destruction (Eight Generals)"
+    path: "Symphony of Destruction.brstm"
+    type: warning
+  - id: true_king_resurrection_prophecy_fairy_bgm
+    title: "True King!! Resurrection Prophecy (Fairy BGM)"
+    path: "True King! The Honorable Word of Revival.brstm"
+    type: betting
+  - id: peace_to_you_town_bgm
+    title: "Peace to You (Town BGM)"
+    path: "With Your Serenity.brstm"
+    type: break
+...

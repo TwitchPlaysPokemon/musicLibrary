@@ -1,0 +1,35 @@
+---
+id: them_s_fightin_herds
+title: "Them's Fightin' Herds"
+platform: "PC"
+year: 2018
+songs: 
+  - id: title_theme_them_s_fightin_herds
+    title: "Title Theme"
+    path: "Main Theme.brstm"
+    type: battle
+  - id: oleander_character_theme
+    title: "Oleander (Character Theme)"
+    path: "Oleander-Static.brstm"
+    type: battle
+  - id: arizona_character_theme
+    title: "Arizona (Character Theme)"
+    path: "Arizona-Static.brstm"
+    type: battle
+  - id: paprika_character_theme
+    title: "Paprika (Character Theme)"
+    path: "Paprika-Static.brstm"
+    type: battle
+  - id: tianhuo_character_theme
+    title: "Tianhuo (Character Theme)"
+    path: "Tianhuo-Static.brstm"
+    type: battle
+  - id: title_theme_variation
+    title: "Title Theme (Variation)"
+    path: "TFHThemeDirtyLoop.brstm"
+    type: battle
+  - id: predator_fight
+    title: "Predator Fight"
+    path: "PredFight.brstm"
+    type: warning
+...

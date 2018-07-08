@@ -1,3 +1,4 @@
+---
 id: pokemon_sunmoon
 title: "Pokémon Sun/Moon"
 platform: "3DS"
@@ -376,9 +377,13 @@ songs:
     title: "Battle! Team Skull Admin"
     path: "Battle! Team Skull Admin.brstm"
     type: battle
-  - id: lively_lillie_sunmoon
-    title: "Lively Lillie"
+  - id: lillie_s_theme_sunmoon
+    title: "Lillie's Theme"
     path: "bgm_nj_e01.dspadpcm.bcstm"
+    type: betting
+  - id: lively_lillie_sunmoon
+    title: "Lively Lillie!"
+    path: "bgm_nj_e09.dspadpcm.bcstm"
     type: betting
   - id: mahalo_trail_sunmoon
     title: "Mahalo Trail"
