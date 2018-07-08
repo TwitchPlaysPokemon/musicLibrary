@@ -13,6 +13,10 @@ songs:
     title: "Noctilum (Day)"
     path: "x67_00.adx"
     type: betting
+  - id: noctilum_night
+    title: "Noctilum (Night)"
+    path: "x68_00.adx"
+    type: betting
   - id: primordia
     title: "Primordia"
     path: "x65_00.adx"
@@ -38,5 +42,10 @@ songs:
   - id: ares_boss
     title: "Ares Boss"
     path: "x56_00.adx"
+    type: betting
+  - id: requiem_xcx
+    title: "Requiem"
+    path: "x26_00.adx"
+    ends: 3:30
     type: betting
 ...

@@ -5,249 +5,238 @@ series: kirby
 platform: "3DS"
 year: 2016
 songs:
-  - id: pink_ball_activate_robobot_armor
-    title: "Pink Ball Activate! Robobot Armor"
-    path: "Robobot Kirby.brstm"
+  - id: pink_ball_activate
+    title: "Pink Ball Activate!"
+    path: "kaen.dspadpcm.bcstm"
     type: warning
   - id: faded_flower
-    title: "Faded Flower"
-    path: "Sullied Grace (Vs. Queen Sectonia Clone).brstm"
+    title: "Faded & Flower"
+    path: "TRT_LP_TTQUEEN1.dspadpcm.bcstm"
     type: battle
-  - id: white_office_march
-    title: "White Office March"
-    path: "Acciss Arcs - Laser Lab.brstm"
+  - id: pristine_office_march
+    title: "Pristine Office March"
+    path: "TRT_LP_TTELEC1.dspadpcm.bcstm"
     type: betting
-  - id: neon_laboratory_dark_castle
-    title: "Neon Laboratory (Dark Castle)"
-    path: "Dark Castle.brstm"
+  - id: neon_laboratory
+    title: "Neon Laboratory"
+    path: "DarkCastle.dspadpcm.bcstm"
     type: betting
-  - id: amount_of_victories_float_islands
-    title: "Amount of Victories (Float Islands)"
-    path: "Float Islands (Kirby's Dream Land).brstm"
+  - id: streetpass_wins_normal
+    title: "StreetPass Wins (Normal)"
+    path: "TRT_LP_TTSAMBA2.dspadpcm.bcstm"
     type: betting
   - id: venturing_into_the_mechanized_world
     title: "Venturing into the Mechanized World"
-    path: "Grass Area.brstm"
+    path: "NormalStageElectric.dspadpcm.bcstm"
     type: betting
-  - id: residence_laboratory_sky_tower
-    title: "Residence Laboratory (Sky Tower)"
-    path: "Sky Tower.brstm"
+  - id: residential_laboratory
+    title: "Residential Laboratory"
+    path: "SkyTower.dspadpcm.bcstm"
     type: betting
-  - id: yogurt_yard_remaster
-    title: "Yogurt Yard (Remaster)"
-    path: "Yogurt Yard (Remaster).brstm"
-    type: betting
-  - id: vs_masher
-    title: "Vs. Masher"
-    path: "Boss (Kirby 64 - Masher) (Kirby 3D Rumble).brstm"
+  - id: vs_mini_masher
+    title: "Vs. Mini Masher"
+    path: "TRT_LP_TTCFBOSS64.dspadpcm.bcstm"
     type: warning
   - id: reproduction_of_darkness
     title: "Reproduction of Darkness"
-    path: "Darkness Returns (Vs Dark Matter Clone).brstm"
+    path: "K2Boss.dspadpcm.bcstm"
     type: warning
   - id: intermezzo_without_a_leader
     title: "Intermezzo Without a Leader"
-    path: "Last Fight (Second Phase - Virtual Space Manipulator).brstm"
+    path: "TRT_LP_TTSPACE1.dspadpcm.bcstm"
     type: warning
-  - id: battle_with_the_spirit_of_self
-    title: "Battle with the Spirit of Self"
-    path: "Mecha Knightmare (Vs Mecha Knight ).brstm"
+  - id: inner_struggle
+    title: "Inner Struggle"
+    path: "TRT_LP_TTMETABOSS1.dspadpcm.bcstm"
     type: warning
   - id: vagrant_counting_song_of_retrospection
     title: "Vagrant Counting Song of Retrospection"
-    path: "Last Fight - Super Nova (vs Star Dream Soul OS).brstm"
+    path: "Last1.dspadpcm.bcstm"
     type: battle
-  - id: crowned_dededes_drum_dash_deluxe
-    title: "CROWNED (Dedede's Drum Dash Deluxe)"
-    path: "CROWNED (Dedede's Drum Dash Deluxe).brstm"
+  - id: dedede's_tridimensional_canon
+    title: "Dedede's Tridimensional Cannon"
+    path: "DDDMeta.dspadpcm.bcstm"
     type: battle
-  - id: tridimensional_cannon_ddd
-    title: "Tridimensional Cannon: D.D.D."
-    path: "Dedede Three (Vs Dedede Clones & D3).brstm"
-    type: battle
-  - id: the_greatest_time_travelling_warrior_in_the_galaxy
-    title: "The Greatest Time Travelling Warrior in the Galaxy"
-    path: "Warrior from Another World (Galacta Knight).brstm"
+  - id: the_greatest_warrior_in_the_galaxy_ever
+    title: "The Greatest Warrior in the Galaxy Ever"
+    path: "TRT_LP_TTGNIGHT1.dspadpcm.bcstm"
     type: battle
   - id: l86
     title: "L86"
-    path: "Acciss Arcs 3 - Virtual Dimension.brstm"
+    path: "TRT_LP_TTIDM1.dspadpcm.bcstm"
     type: warning
   - id: soul_0_system
     title: "Soul 0 System"
-    path: "Heart of Nova.brstm"
+    path: "Last3Nova.dspadpcm.bcstm"
     type: warning
   - id: vs_the_wicked_company
     title: "Vs. The Wicked Company"
-    path: "Haltmann Works Elite Management (Boss Battle).brstm"
+    path: "Company.dspadpcm.bcstm"
     type: warning
-  - id: restored_earth
-    title: "Restored Earth"
-    path: "Grass Area (Orchestral).brstm"
+  - id: homeland_restored
+    title: "Homeland Restored"
+    path: "NormalStageOrchestra.dspadpcm.bcstm"
     type: betting
   - id: bountiful_star
-    title: "Bountiful Star (Float Islands)"
-    path: "Aqua Harbor (Kirby Super Star - Float Islands).brstm"
+    title: "Bountiful Star"
+    path: "TRT_LP_TTSAMBA1.dspadpcm.bcstm"
     type: betting
-  - id: haltmann_works_company_hq
-    title: "Haltmann Works Company HQ"
-    path: "Haltmann Works Co (HQ Area).brstm"
+  - id: haltmann_works_co_hq
+    title: "Haltmann Works Co. HQ"
+    path: "DarkStage.dspadpcm.bcstm"
     type: betting
-  - id: core_kabula
-    title: "Core Kabula"
-    path: "Core Kabula Battle.brstm"
+  - id: core_kabula_surprise
+    title: "Core Kabula Surprise!"
+    path: "yakiimo.dspadpcm.bcstm"
     type: betting
-  - id: super_express_future_canary
-    title: "Super Express Future Canary"
-    path: "Acciss Arcs 2 - Loud Locomotive.brstm"
+  - id: loud_locomotive
+    title: "Loud Locomotive"
+    path: "TRT_LP_TTELEC2.dspadpcm.bcstm"
     type: betting
-  - id: planet_of_wonders_pop_star
-    title: "Planet of Wonders: Pop Star"
-    path: "World Map.brstm"
+  - id: magical_planet_pop_star
+    title: "Magical Planet Pop Star"
+    path: "worldmap.dspadpcm.bcstm"
     type: break
   - id: kirby_3d_rumble
     title: "Kirby 3D Rumble"
-    path: "Kirby 3D Rumble.brstm"
+    path: "GBTitlle.dspadpcm.bcstm"
     type: break
-  - id: chef_kawasaki_kirby_star_stacker
-    title: "Chef Kawasaki (Kirby Star Stacker)"
-    path: "Chief Kawasaki (Kirby Star Stacker).brstm"
+  - id: rhythm_code
+    title: "Rhythm Code"
+    path: "TRT_LP_TTCCOMINER2.dspadpcm.bcstm"
     type: warning
-  - id: program_rhythm
-    title: "Program Rhythm"
-    path: "Problem Solver (Puzzle Room).brstm"
-    type: warning
-  - id: combine_laboratory_float_islands
-    title: "Complex Laboratory (Float Islands)"
-    path: "Float Islands (Blue Lab Area).brstm"
+  - id: industrial_laboratory
+    title: "Industrial Laboratory"
+    path: "ShootingStage.dspadpcm.bcstm"
     type: betting
-  - id: now_loading_robobot
-    title: "Now Loading"
-    path: "Threat Beyond Enemy Doors (Approaching Boss).brstm"
+  - id: loading_robobot
+    title: "Loading..."
+    path: "BossMae.dspadpcm.bcstm"
     type: warning
   - id: crazy_rolling_in_money
     title: "Crazy Rolling in Money"
-    path: "Money Machine (Vs Max Proffit Haltmann).brstm"
+    path: "TRT_LP_TTIDM2.dspadpcm.bcstm"
     type: warning
   - id: final_takeoff
     title: "Final Takeoff"
-    path: "ROBOBOT HALBERD MODE.brstm"
+    path: "Sh6SpRockElec.dspadpcm.bcstm"
     type: betting
-  - id: combat_strength_measurement_program
-    title: "Combat Strength Measurement Program"
-    path: "The True Arena - Battle.brstm"
+  - id: combat_evaluation_program
+    title: "Combat Evaluation Program"
+    path: "Sh5_DarkHeavy.dspadpcm.bcstm"
     type: battle
   - id: vs_star_dream
     title: "Vs. Star Dream"
     path: "Vs. Star Dream (Shortened Intro).brstm"
     type: battle
-  - id: the_noble_haltmann
-    title: "The Noble Haltmann"
-    ends: 2:09
-    path: "The Noble Haltmann (looped).brstm"
+  - id: the_noble_haltmann_final_recital
+    title: "The Noble Haltmann: Final Recital"
+    ends: 2:10
+    path: "SyakaMovie.dspadpcm.bcstm"
     type: betting
   - id: access_ark
     title: "Access Ark"
-    path: "Access Ark.brstm"
+    path: "TRT_LP_TTLV6ELEC1.dspadpcm.bcstm"
     type: warning
-  - id: befuddling_skyscraper
-    title: "Befuddling Skyscraper"
-    path: "Befuddling Skyscraper.brstm"
+  - id: sky_high_and_smitten
+    title: "Sky-High and Smitten"
+    path: "TRT_LP_TTCITY1.dspadpcm.bcstm"
     type: betting
-  - id: comrades_in_arms
-    title: "Comrades in Arms"
-    path: "Comrades in Arms.brstm"
+  - id: brothers_in_arms_robobot
+    title: "Brothers in Arms"
+    path: "MetaEnd.dspadpcm.bcstm"
     type: result
-  - id: depleted_sea
-    title: "Depleted Sea"
-    path: "Depleted Sea.brstm"
+  - id: dried_up_sea
+    title: "Dried-Up Sea"
+    path: "TRT_LP_TTARABIC1.dspadpcm.bcstm"
     type: betting
   - id: fatal_error
     title: "Fatal Error"
-    path: "Fatal Error.brstm"
+    path: "ShortLoopOrch.dspadpcm.bcstm"
     type: warning
   - id: first_contact
     title: "First Contact"
-    path: "First Contact.brstm"
+    path: "OpMovie.dspadpcm.bcstm"
     type: warning
   - id: game_over_robobot
     title: "Game Over"
-    path: "Game Over.brstm"
+    path: "TRT_LP_TTCCOGOUKA1.dspadpcm.bcstm"
     type: result
   - id: gigabyte_grounds
     title: "Gigabyte Grounds"
-    path: "Gigabyte Grounds.brstm"
+    path: "TRT_LP_TTLV4ARABIC1.dspadpcm.bcstm"
     type: betting
   - id: gorgeous_go_round
     title: "Gorgeous-Go-Round"
-    path: "Gorgeous-Go-Round.brstm"
+    path: "TRT_LP_TTHONKY1.dspadpcm.bcstm"
     type: betting
-  - id: green_laboratory_sand_canyon_3
-    title: "Green Laboratory (Sand Canyon 3)"
-    path: "Green Laboratory (Sand Canyon 3).brstm"
+  - id: green_laboratory
+    title: "Green Laboratory"
+    path: "K3Stage.dspadpcm.bcstm"
     type: betting
-  - id: haltmann_works_company
-    title: "Haltmann Works Company"
-    path: "Haltmann Works Company.brstm"
+  - id: haltmann_works_co_theme_song
+    title: "Haltmann Works Co. Theme Song"
+    path: "Ayasii.dspadpcm.bcstm"
     type: warning
-  - id: lovely_yellow_va_va_vrooms
-    title: "Lovely Yellow Va-Va-Vrooms"
-    path: "Lovely Yellow Va-Va-Vrooms.brstm"
+  - id: yearning_for_yellow_vroom
+    title: "Yearning for Yellow (Vroom!)"
+    path: "Refresh.dspadpcm.bcstm"
     type: betting
-  - id: memories_i_wont_forget_our_memories
-    title: "Memories I Won't Forget Our Memories"
-    path: "Memories I Won't Forget Our Memories.brstm"
+  - id: memories_i'll_never_forget_you
+    title: "Memories (I'll Never Forget You)"
+    ends: 3:46
+    path: "StaffRoll_2015_0916e_ishi.dspadpcm.bcstm"
     type: betting
-  - id: mothers_caption
-    title: "Mother's Caption"
-    path: "Mother's Caption.brstm"
+  - id: mothers_intuition
+    title: "Mother's Intuition"
+    path: "Pause_Ver2_2015_0513.dspadpcm.bcstm"
     type: break
-  - id: my_happy_sweet_time
-    title: "My Happy Sweet Time"
-    path: "My Happy Sweet Time.brstm"
+  - id: time_for_dessert
+    title: "Time for Dessert!"
+    path: "MonoGanaC.dspadpcm.bcstm"
     type: break
-  - id: outrow_driver
-    title: "Outrow Driver"
-    path: "Outrow Driver.brstm"
+  - id: outlaw_driver
+    title: "Outlaw Driver"
+    path: "SuperRock.dspadpcm.bcstm"
     type: warning
   - id: overload_ocean
     title: "Overload Ocean"
-    path: "Overload Ocean.brstm"
+    path: "Lv3Umi.dspadpcm.bcstm"
     type: break
   - id: patched_plains
     title: "Patched Plains"
-    path: "Patched Plains.brstm"
+    path: "Lv1Kusa.dspadpcm.bcstm"
     type: break
-  - id: pink_ball_revolution_one_last_shot
-    title: "Pink Ball Revolution! One Last Shot"
-    path: "Pink Ball Revolution! One Last Shot.brstm"
+  - id: pink_ball_revolution
+    title: "Pink Ball Revolution"
+    path: "Dark2.dspadpcm.bcstm"
     type: battle
-  - id: power_plant_inspection
-    title: "Power Plant Inspection"
-    path: "Power Plant Inspection.brstm"
+  - id: studying_the_power_plant
+    title: "Studying the Power Plant"
+    path: "TRT_LP_TTKOUJOU1.dspadpcm.bcstm"
     type: betting
   - id: resolution_road
     title: "Resolution Road"
-    path: "Resolution Road.brstm"
+    path: "TRT_LP_TTLV2CITY1.dspadpcm.bcstm"
     type: result
   - id: rhythm_route
     title: "Rhythm Route"
-    path: "Rhythm Route.brstm"
+    path: "Lv2Town.dspadpcm.bcstm"
     type: break
-  - id: sky_blue_flight
-    title: "Sky Blue Flight"
-    path: "Sky Blue Flight.brstm"
+  - id: flight_of_azure
+    title: "Flight of Azure"
+    path: "pop.dspadpcm.bcstm"
     type: betting
   - id: steel_beat
     title: "Steel Beat"
-    path: "Steel Beat.brstm"
+    path: "karankoron.dspadpcm.bcstm"
     type: betting
-  - id: the_secretary_that_forgot_love
-    title: "The Secretary That Forgot Love"
-    path: "The Secretary That Forgot Love.brstm"
+  - id: loveless_command
+    title: "Loveless Command"
+    path: "ShortLoop_Dark2.dspadpcm.bcstm"
     type: warning
-  - id: underwater_quarter
-    title: "Underwater Quarter"
-    path: "Underwater Quarter.brstm"
+  - id: submarine_suburbs
+    title: "Submarine Suburbs"
+    path: "TRT_LP_TTCITY2.dspadpcm.bcstm"
     type: betting
 ...

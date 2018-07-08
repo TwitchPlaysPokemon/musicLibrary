@@ -1,22 +1,32 @@
+---
 id: dissidia_final_fantasy
 title: "Dissidia Final Fantasy"
 series: finalfantasy
 platform: "PSP"
 year: 2008
 songs:
-  - id: ff5_clash_on_the_big_bridge
-    title: "FF5 - Clash on the Big Bridge"
+  - id: clash_on_the_big_bridge_arrange_from_final_fantasy_v
+    title: "\"Clash on the Big Bridge - arrange -\" from FINAL FANTASY V"
     path: "FF5 - Clash on the Big Bridge.brstm"
     type: battle
-  - id: original_victory_fanfare_chaos
+  - id: victory_fanfare_chaos_from_dissidia_final_fantasy
+    title: "\"Victory Fanfare - Chaos -\" from DISSIDIA FINAL FANTASY"
     path: "Original - Victory Fanfare [Chaos].brstm"
-    title: "Original - Victory Fanfare [Chaos]"
     type: result
-  - id: original_victory_fanfare_cosmos
+  - id: victory_fanfare_cosmos_from_dissidia_final_fantasy
+    title: "\"Victory Fanfare - Cosmos -\" from DISSIDIA FINAL FANTASY"
     path: "Original - Victory Fanfare [Cosmos].brstm"
-    title: "Original - Victory Fanfare [Cosmos]"
     type: result
-#  - id: original_chaos_battle_3
-#    path: "Original - Chaos Battle 3.brstm"
-#   title: "Original - Chaos Battle 3"
-#   type: battle # contains lyrics
+  - id: chaos_last_battle_3_from_dissidia_final_fantasy
+    title: "\"Chaos - Last Battle 3 -\" from DISSIDIA FINAL FANTASY"
+    path: "B11_03.AT3"
+    type: result
+  - id: one_winged_angel_orchestra_version_from_final_fantasy_vii
+    title: "\"One-Winged Angel - orchestra version -\" from FINAL FANTASY VII"
+    path: "B07_01.AT3"
+    type: battle
+  - id: battle_scene_arrange_from_from_final_fantasy_i
+    title: "\"Battle Scene - arrange -\" from FINAL FANTASY I"
+    path: "B01_01.AT3"
+    type: battle
+...

@@ -1,9 +1,9 @@
 ---
-id: shantae_and_the_pirates_curse
-platform: ["3DS", "Wii U"]
-#other platforms: ["PC", "FireTV", "PS4", "XBone"]
+id: shantae_and_the_pirate_s_curse
 title: "Shantae and the Pirate's Curse"
 series: shantae
+platform: ["3DS", "Wii U"]
+#other platforms: ["PC", "FireTV", "PS4", "XBone"]
 year: 2014
 songs: 
   - id: we_love_burning_town
@@ -11,15 +11,23 @@ songs:
     path: "We Love Burning Town.brstm"
     type: betting
   - id: yo_go_crazy
-    path: "Yo, Go Crazy!.brstm"
     title: "Yo, Go Crazy!"
+    path: "Yo, Go Crazy!.brstm"
     type: warning
   - id: the_nightmare_woods_run_run_rottytops
-    path: "The Nightmare Woods (Run Run Rottytops!).brstm"
     title: "The Nightmare Woods (Run Run Rottytops!)"
+    path: "The Nightmare Woods (Run Run Rottytops!).brstm"
     type: warning
   - id: file_select
-    path: "File Select.brstm"
     title: "File Select"
+    path: "File Select.brstm"
+    type: betting
+  - id: boss_battle_shantae_and_the_pirate_s_curse
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: do_u_even_whip
+    title: "DO U EVEN WHIP?"
+    path: "DO U EVEN WHIP_.brstm"
     type: betting
 ...

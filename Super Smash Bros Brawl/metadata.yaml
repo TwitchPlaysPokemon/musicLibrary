@@ -627,4 +627,28 @@ songs:
     title: "World Map (Pikmin 2)"
     path: "L01 - World Map - Pikmin 2 (Composer - Hajime Wakai - Artist - Yasunori Mitsuda).brstm"
     type: betting
+  - id: battlefield_melee_ssbb
+    title: "Battlefield (Melee)"
+    path: "W21 - Battlefield - Super Smash Bros. Melee.brstm"
+    type: battle
+  - id: brinstar_depths_melee_ssbb
+    title: "Brinstar Depths (Melee)"
+    path: "W04 - Brinstar Depths - Super Smash Bros. Melee.brstm"
+    type: betting
+  - id: fire_emblem_melee_ssbb
+    title: "Fire Emblem (Melee)"
+    path: "W17 - Fire Emblem - Super Smash Bros. Melee.brstm"
+    type: battle
+  - id: icicle_mountain_melee_ssbb
+    title: "Icicle Mountain (Melee)"
+    path: "W13 - Icicle Mountain - Super Smash Bros. Melee.brstm"
+    type: betting
+  - id: princess_peach_s_castle_melee_ssbb
+    title: "Princess Peach's Castle (Melee)"
+    path: "W01 - Princess Peach's Castle - Super Smash Bros. Melee.brstm"
+    type: betting
+  - id: super_mario_bros_3_melee_ssbb
+    title: "Super Mario Bros. 3 (Melee)"
+    path: "W15 - Super Mario Bros. 3 - Super Smash Bros. Melee.brstm"
+    type: betting
 ...

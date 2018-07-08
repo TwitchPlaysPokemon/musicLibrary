@@ -86,4 +86,8 @@ songs:
     title: "Result Screen - E Rank"
     path: "Result - Level Failed.brstm"
     type: result
+  - id: result_screen_sonic_unleashed
+    title: "Result Screen"
+    path: "Result.brstm"
+    type: result
 ...

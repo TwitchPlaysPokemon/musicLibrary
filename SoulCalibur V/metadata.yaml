@@ -1,10 +1,52 @@
+---
 id: soulcalibur_v
 title: "SoulCalibur V"
 series: soulcalibur
-year: 2012
 platform: ["PS3", "360"]
+year: 2012
 songs:
-  - id: venice_rooftops_scv_remix
-    title: "Venice Rooftops (SCV Remix)"
+  - id: venice_rooftops_scv_mix
+    title: "Venice Rooftops (SCV mix)"
     path: "Venice Rooftops (SCV Remix).brstm"
     type: betting
+  - id: pavor_nocturnus
+    title: "Pavor Nocturnus"
+    path: "Pavor Nocturnus.brstm"
+    type: warning
+  - id: master_of_edges
+    title: "Master of Edges"
+    path: "Master of Edge.brstm"
+    type: betting
+  - id: sacred_dawn
+    title: "Sacred Dawn"
+    path: "Sacred Dawn.brstm"
+    type: betting
+  - id: chaos_and_cosmos
+    title: "Chaos and Cosmos"
+    path: "Chaos and Cosmos.brstm"
+    type: warning
+  - id: till_fate_writes_my_epitaph
+    title: "Till Fate Writes My Epitaph"
+    path: "Till Fate Writes My Epitaph.brstm"
+    type: betting
+  - id: virtuous_heart
+    title: "Virtuous Heart"
+    path: "Virtuous Heart.brstm"
+    type: betting
+  - id: dance_of_the_oracle
+    title: "Dance of the Oracle"
+    path: "Dance of the Oracle  .brstm"
+    type: betting
+  - id: legend_unveiled
+    title: "Legend Unveiled"
+    path: "Legend Unveiled.brstm"
+    type: warning
+  - id: a_high_spirited_tiger
+    title: "A High-Spirited Tiger"
+    path: "A High-Spirited Tiger.brstm"
+    type: betting
+  - id: brutal_instinct
+    title: "Brutal Instinct"
+    path: "Brutal Instinct.brstm"
+    type: warning
+...

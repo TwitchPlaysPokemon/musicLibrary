@@ -2,39 +2,59 @@
 id: soulcalibur_ii
 title: "SoulCalibur II"
 series: soulcalibur
-year: 2003
 platform: ["GC", "PS2", "Xbox"]
+year: 2003
 songs:
   - id: raise_thy_sword
-    title: "Raise Thy Sword"
+    title: "RAISE THY SWORD"
     path: "Raise Thy Sword.brstm"
     type: warning
-  - id: soulcalibur_confrontation
-    title: "Confrontation"
+  - id: confrontation_sc2
+    title: "CONFRONTATION"
     path: "Confrontation.brstm"
     type: battle
-  - id: brave_sword,_braver_soul
-    title: "Brave Sword, Braver Soul"
+  - id: brave_sword_braver_soul
+    title: "BRAVE SWORD, BRAVER SOUL"
     path: "Brave Sword, Braver Soul.brstm"
     type: battle
-  - id: link's_theme
-    title: "Link's Theme"
+  - id: legend_of_zelda_link_s_theme
+    title: "Legend of Zelda (Link's Theme)"
     path: "Link's Theme.brstm"
-    type: result
+    type: betting
   - id: unwavering_resolve_sc2
-    title: "Unwavering Resolve"
+    title: "UNWAVERING RESOLVE"
     path: "Unwavering Resolve.brstm"
     type: battle
   - id: hubris_sc2
-    title: "Hubris"
+    title: "HUBRIS"
     path: "Hubris.brstm"
     type: betting
   - id: history_unfolds_sc2
-    title: "History Unfolds"
+    title: "HISTORY UNFOLDS"
     path: "History Unfolds.brstm"
     type: warning
   - id: into_the_whirlwind_sc2
-    title: "Into The Whirlwind"
+    title: "INTO THE WHIRLWIND"
     path: "Into The Whirlwind.brstm"
     type: warning
+  - id: healing_winds
+    title: "HEALING WINDS"
+    path: "Healing Winds.brstm"
+    type: result
+  - id: chasing_death
+    title: "CHASING DEATH"
+    path: "Chasing Death.brstm"
+    type: betting
+  - id: slave_of_desire
+    title: "SLAVE OF DESIRE"
+    path: "Slave of Desire.brstm"
+    type: warning
+  - id: eternal_struggle
+    title: "ETERNAL STRUGGLE"
+    path: "Eternal Struggle.brstm"
+    type: betting
+  - id: path_of_destiny
+    title: "PATH OF DESTINY"
+    path: "Path of Destiny (Arcade Mode Staff Roll).brstm"
+    type: result
 ...

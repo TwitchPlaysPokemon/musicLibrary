@@ -1,16 +1,68 @@
 ---
-id: kirbys_adventure
+id: kirby_s_adventure
 title: "Kirby's Adventure"
 series: kirby
 platform: "NES"
 year: 1993
 songs: 
-  - id: boss_kirbys_adventure
+  - id: title_screen_demo
+    title: "Title Screen ~ Demo"
+    path: "02 Title Screen ~ Demo.vgz"
+    type: result
+  - id: plains_level
+    title: "Plains Level"
+    path: "03 Plains Level.vgz"
+    type: betting
+  - id: invincibility_kirby_s_adventure
+    title: "Invincibility"
+    path: "04 Invincibility.vgz"
+    type: warning
+  - id: boss_kirby_s_adventure
     title: "Boss"
     path: "07 Boss.vgz"
     type: warning
-  - id: final_boss_kirbys_adventure
+  - id: sea_and_ship_level
+    title: "Sea and Ship Level"
+    path: "09 Sea and Ship Level.vgz"
+    type: betting
+  - id: castle_level
+    title: "Castle Level"
+    path: "12 Castle Level.vgz"
+    type: betting
+  - id: crane_fever
+    title: "Crane Fever"
+    path: "16 Crane Fever.vgz"
+    type: result
+  - id: level_map_select_of_level_4
+    title: "Level Map Select of LEVEL 4"
+    path: "17 Level Map Select of LEVEL 4.vgz"
+    type: result
+  - id: mountain_level
+    title: "Mountain Level"
+    path: "18 Mountain Level.vgz"
+    type: betting
+  - id: dream_and_cold_level
+    title: "Dream and Cold Level"
+    path: "23 Dream and Cold Level.vgz"
+    type: betting
+  - id: black_and_white_plains_level
+    title: "Black and White Plains Level"
+    path: "25 Black and White Plains Level.vgz"
+    type: betting
+  - id: final_boss_kirby_s_adventure
     title: "Final Boss"
     path: "27 Final Boss.vgz"
     type: battle
+  - id: ending_demo_kirby_s_adventure
+    title: "Ending Demo"
+    path: "28 Ending Demo.vgz"
+    type: result
+  - id: crane_fever_faster
+    title: "Crane Fever (Faster)"
+    path: "32 Crane Fever (faster).vgz"
+    type: warning
+  - id: kirby_s_dream_land_title_screen
+    title: "Kirby's Dream Land Title Screen"
+    path: "42 Kirby's Dream Land Title Screen.vgz"
+    type: result
 ...

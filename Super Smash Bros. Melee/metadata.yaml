@@ -146,16 +146,16 @@ songs:
     title: "Poké Floats"
     path: "pura.hps"
     type: battle
-  - id: pokemon_battle_melee
-    title: "Pokémon Battle"
+  - id: battle_theme_melee
+    title: "Battle Theme"
     path: "pokesta.hps"
     type: battle
-  - id: all_star_rest_area_melee
-    title: "All Star Rest Area"
+  - id: all_star_melee
+    title: "All-Star"
     path: "1p_qk.hps"
     type: break
-  - id: lottery_ssbm
-    title: "Lottery"
+  - id: trophy_ssbm
+    title: "Trophy"
     path: "menu02.hps"
     type: break
 ...

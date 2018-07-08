@@ -5,6 +5,10 @@ series: kirby
 platform: "SFC"
 year: 1999
 songs:
+  - id: chef_kawasaki_kirbys_super_star_stacker
+    title: "Chef Kawasaki"
+    path: "16 Kawasaki.spc"
+    type: warning
   - id: dedede_kirbys_super_star_stacker
     title: "Dedede"
     path: "30 Dedede.spc"

@@ -6,15 +6,15 @@ platform: "Wii U"
 year: 2014
 songs: 
   - id: bazaar
-    title: "Bazaar- Skyward Sword"
+    title: "Bazaar: Skyward Sword"
     path: "Bazaar- Skyward Sword.brstm"
     type: betting
   - id: hyrule_field_twilight_princess
-    title: "Hyrule Field- Twilight Princess"
+    title: "Hyrule Field: Twilight Princess"
     path: "Hyrule Field- Twilight Princess.brstm"
-    type: battle #Borderline doesn't fit; leaving it in
+    type: battle
   - id: skyloft_skyward_sword
-    title: "Skyloft- Skyward Sword"
+    title: "Skyloft: Skyward Sword"
     path: "Skyloft- Skyward Sword.brstm"
     type: betting
   - id: silent_guardians
@@ -45,4 +45,32 @@ songs:
     title: "Eclipse of the Moon GT"
     path: "Eclipse of the Moon GT.brstm"
     type: battle
+  - id: clock_town_majora_s_mask
+    title: "Clock Town: Majora's Mask"
+    path: "Clock Town_ Majora's Mask.brstm"
+    type: betting
+  - id: clock_town_3rd_day_majora_s_mask
+    title: "Clock Town (3rd Day): Majora's Mask"
+    path: "Clock Town (3rd Day)_ Majora's Mask.brstm"
+    type: warning
+  - id: focal_line
+    title: "Focal Line"
+    path: "Focal Line.brstm"
+    type: battle
+  - id: hard_linked
+    title: "Hard Linked"
+    path: "Hard Linked.brstm"
+    type: battle
+  - id: main_theme_the_legend_of_zelda_1st
+    title: "Main Theme: The Legend of Zelda: 1st"
+    path: "Main Theme_ The Legend of Zelda_ 1st.brstm"
+    type: betting
+  - id: psychostorm
+    title: "Psychostorm"
+    path: "Psychostorm.brstm"
+    type: battle
+  - id: remnant_of_twilight
+    title: "Remnant of Twilight"
+    path: "Remnant of Twilight.brstm"
+    type: betting
 ...

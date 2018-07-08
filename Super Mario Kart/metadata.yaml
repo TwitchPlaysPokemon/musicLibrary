@@ -5,6 +5,10 @@ series: mario
 platform: "SNES"
 year: 1992
 songs:
+  - id: donut_plains_super_mario_kart
+    title: "Donut Plains"
+    path: "09 Donut Plains.spc"
+    type: betting
   - id: rainbow_road_super_mario_kart
     title: "Rainbow Road"
     path: "21 Rainbow Road.spc"

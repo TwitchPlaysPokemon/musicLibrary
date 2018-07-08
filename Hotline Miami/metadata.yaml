@@ -1,9 +1,9 @@
 ---
 id: hotline_miami
 title: "Hotline Miami"
-year: 2012
 series: hotlinemiami
 platform: "PC"
+year: 2012
 songs:
   - id: crystals
     title: "Crystals"
@@ -41,5 +41,9 @@ songs:
     title: "Hydrogen"
     ends: 3:02
     path: "Hydrogen.mp3"
+    type: betting
+  - id: knock_knock
+    title: "Knock Knock"
+    path: "Hotline Miami - Knock-knock.brstm"
     type: betting
 ...

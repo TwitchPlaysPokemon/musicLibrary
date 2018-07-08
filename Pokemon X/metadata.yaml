@@ -5,8 +5,8 @@ series: pokemon
 platform: "3DS"
 year: 2013
 songs: 
-  - id: battle_elite_four_x
-    title: "Battle! Elite Four"
+  - id: battle_elite_four_xy
+    title: "Battle! (Elite Four)"
     path: "Battle! Elite Four.brstm"
     type: battle
   - id: anistar_city
@@ -17,51 +17,47 @@ songs:
     title: "Aquacorde Town"
     path: "Aquacorde Town.brstm"
     type: betting
-  - id: battle_champion_x
-    title: "Battle! Champion"
+  - id: battle_champion_xy
+    title: "Battle! (Champion)"
     path: "Battle! Champion.brstm"
     type: battle
   - id: battle_friend
-    title: "Battle! Friend"
+    title: "Battle! (Friend)"
     path: "Battle! Friend.brstm"
     type: battle
-  - id: battle_gym_leader_x
-    title: "Battle! Gym Leader"
+  - id: battle_gym_leader_xy
+    title: "Battle! (Gym Leader)"
     path: "Battle! Gym Leader.brstm"
     type: battle
-  - id: battle_gym_leader_dance_mix
-    title: "Battle! Gym Leader (Dance Mix)"
-    path: "Battle! Gym Leader (Dance Mix).brstm"
-    type: battle
   - id: battle_lysandre
-    title: "Battle! Lysandre"
+    title: "Battle! (Lysandre)"
     path: "Battle! Lysandre.brstm"
     type: battle
-  - id: battle_team_flare_x
-    title: "Battle! Team Flare"
+  - id: battle_team_flare_xy
+    title: "Battle! (Team Flare)"
     path: "Battle! Team Flare.brstm"
     type: battle
-  - id: battle_trainer_x
-    title: "Battle! Trainer"
+  - id: battle_trainer_battle_xy
+    title: "Battle! (Trainer Battle)"
     path: "Battle! Trainer.brstm"
     type: battle
-  - id: battle_wild_pokemon_x
-    title: "Battle! Wild Pokémon"
+  - id: battle_wild_pokemon_xy
+    title: "Battle! (Wild Pokémon)"
     path: "Battle! Wild Pokémon.brstm"
     type: battle
-  - id: battle_world_championship_finals
-    title: "Battle! World Championship Finals"
+  - id: pokemon_world_championship_finals_xy
+    title: "Pokemon World Championships Final"
     path: "Battle! World Championship Finals.brstm"
     type: battle
-  - id: battle_xerneas_yveltal
-    title: "Battle! Xerneas-Yveltal"
+  - id: battle_xerneas_yveltal_zygarde
+    title: "Battle! (Xerneas/Yveltal/Zygarde)"
     path: "Battle! Xerneas-Yveltal.brstm"
     type: battle
   - id: berry_picker
     title: "Berry Picker"
     path: "Berry Picker.brstm"
     type: betting
-  - id: bicycle_x
+  - id: bicycle_xy
     title: "Bicycle"
     path: "Bicycle.brstm"
     type: result
@@ -77,7 +73,7 @@ songs:
     title: "Coiffure Clips"
     path: "Coiffure Clips.brstm"
     type: betting
-  - id: hall_of_fame_x
+  - id: hall_of_fame_xy
     title: "Congratulations on Entering the Hall of Fame!"
     path: "Congratulations on Entering the Hall of Fame!.brstm"
     type: result
@@ -97,7 +93,7 @@ songs:
     title: "Dendemille Town"
     path: "Dendemille Town.brstm"
     type: betting
-  - id: evolution_x
+  - id: evolution_xy
     title: "Evolution"
     path: "Evolution.brstm"
     type: warning
@@ -105,23 +101,23 @@ songs:
     title: "Friend Safari"
     path: "Friend Safari.brstm"
     type: betting
-  - id: friends_theme_a_new_metting
-    title: "Friends Theme - A New Meeting"
+  - id: friends_theme_a_new_meeting
+    title: "Friends Theme \"A New Meeting\""
     path: "Friends Theme - A New Meeting.brstm"
     type: betting
   - id: friends_theme_friends_forever
-    title: "Friends Theme - Friends Forever"
+    title: "Friends Theme \"Friends Forever\""
     path: "Friends Theme - Friends Forever.brstm"
     type: break
   - id: friends_theme_reunited
-    title: "Friends Theme - Reunited"
+    title: "Friends Theme \"Reunited\""
     path: "Friends Theme - Reunited.brstm"
     type: betting
-  - id: game_sync_x
+  - id: game_sync_xy
     title: "Game Sync"
     path: "Game Sync.brstm"
     type: break
-  - id: gate_x
+  - id: gate_xy
     title: "Gate"
     path: "Gate.brstm"
     type: betting
@@ -133,7 +129,7 @@ songs:
     title: "Glittering Cave"
     path: "Glittering Cave.brstm"
     type: betting
-  - id: gts_x
+  - id: gts_xy
     title: "GTS"
     path: "GTS.brstm"
     type: betting
@@ -149,8 +145,8 @@ songs:
     title: "It's a Pokémon Battle!"
     path: "It's a Pokémon Battle!.brstm"
     type: warning
-  - id: jubilife_city
-    title: "Jubilife City"
+  - id: how_about_a_song_jubilife_city
+    title: "How About a Song? \"Jubilife City\""
     path: "Jubilife City.brstm"
     type: betting
   - id: kiloude_city
@@ -158,14 +154,14 @@ songs:
     path: "Kiloude City.brstm"
     type: betting
   - id: kiseki
-    title: "Kiseki"
+    title: "KISEKI"
     path: "Kiseki.brstm"
     type: break
   - id: laverre_city
     title: "Laverre City"
     path: "Laverre City.brstm"
     type: betting
-  - id: lookers_theme_x
+  - id: lookers_theme_xy
     title: "Looker's Theme"
     path: "Looker's Theme.brstm"
     type: warning
@@ -189,26 +185,27 @@ songs:
     title: "Parfum Palace"
     path: "Parfum Palace.brstm"
     type: betting
-  - id: pokemon_center_x
+  - id: pokemon_center_xy
     title: "Pokémon Center"
     path: "Pokémon Center.brstm"
     type: betting
-  - id: pokemon_gyn
+  - id: pokemon_gym_xy
     title: "Pokémon Gym"
     path: "Pokémon Gym.brstm"
     type: betting
-  - id: pokemon_league_x
-    title: "Pokémon League"
+  - id: the_pokemon_league_xy
+    title: "The Pokémon League"
     path: "Pokémon League.brstm"
     type: betting
   - id: pokemon_village
     title: "Pokémon Village"
     path: "Pokémon Village.brstm"
     type: betting
-  - id: pokemon_center_birthday_x
-    title: "Pokémon Center (Birthday)"
+  - id: happy_birthday_from_the_pokemon_center_xy
+    title: "Happy Birthday from the Pokémon Center!"
     path: "Pokémon Center (Birthday).brstm"
     type: betting
+    #to move to Pokemon Omega Ruby folder
   - id: pr_video_studio
     title: "PR Video Studio"
     path: "PR Video Studio.brstm"
@@ -217,7 +214,7 @@ songs:
     title: "Professor Sycamore's Theme"
     path: "Professor Sycamore's Theme.brstm"
     type: betting
-  - id: route_1_x
+  - id: route_1_xy
     title: "Route 1"
     path: "Route 1.brstm"
     type: betting
@@ -230,11 +227,11 @@ songs:
     title: "Route 18"
     path: "Route 18.brstm"
     type: betting
-  - id: route_2_x
+  - id: route_2_xy
     title: "Route 2"
     path: "Route 2.brstm"
     type: betting
-  - id: route_4_x
+  - id: route_4_xy
     title: "Route 4"
     path: "Route 4.brstm"
     type: betting
@@ -279,7 +276,7 @@ songs:
     title: "Success!"
     path: "Success!.brstm"
     type: result
-  - id: surf_x
+  - id: surf_xy
     title: "Surf"
     path: "Surf.brstm"
     type: betting
@@ -307,7 +304,7 @@ songs:
     title: "Trainer's Eyes Meet (Male Swimmer)"
     path: "Trainer's Eyes Meet (Male Swimmer).brstm"
     type: warning
-  - id: encounter_ace_trainer_x
+  - id: encounter_ace_trainer_xy
     title: "Trainers' Eyes Meet (Ace Trainer)"
     path: "Trainers' Eyes Meet (Ace Trainer).brstm"
     type: warning
@@ -323,7 +320,7 @@ songs:
     title: "Trainers' Eyes Meet (Furisode Girl)"
     path: "Trainers' Eyes Meet (Furisode Girl).brstm"
     type: warning
-  - id: encounter_hiker_x
+  - id: encounter_hiker_xy
     title: "Trainers' Eyes Meet (Hiker)"
     path: "Trainers' Eyes Meet (Hiker).brstm"
     type: warning
@@ -331,7 +328,7 @@ songs:
     title: "Trainers' Eyes Meet (Honeymooners)"
     path: "Trainers' Eyes Meet (Honeymooners).brstm"
     type: warning
-  - id: encounter_lass_x
+  - id: encounter_lass_xy
     title: "Trainers' Eyes Meet (Lass)"
     path: "Trainers' Eyes Meet (Lass).brstm"
     type: warning
@@ -339,11 +336,11 @@ songs:
     title: "Trainers' Eyes Meet (Maid)"
     path: "Trainers' Eyes Meet (Maid).brstm"
     type: warning
-  - id: encounter_pokefan_x
+  - id: encounter_pokefan_xy
     title: "Trainers' Eyes Meet (Poké Fan)"
     path: "Trainers' Eyes Meet (Poké Fan).brstm"
     type: warning
-  - id: encounter_psychic_x
+  - id: encounter_psychic_xy
     title: "Trainers' Eyes Meet (Psychic)"
     path: "Trainers' Eyes Meet (Psychic).brstm"
     type: warning
@@ -359,11 +356,11 @@ songs:
     title: "Trainers' Eyes Meet (Tourist)"
     path: "Trainers' Eyes Meet (Tourist).brstm"
     type: warning
-  - id: encounter_twins_x
+  - id: encounter_twins_xy
     title: "Trainers' Eyes Meet (Twins)"
     path: "Trainers' Eyes Meet (Twins).brstm"
     type: warning
-  - id: encounter_youngster_x
+  - id: encounter_youngster_xy
     title: "Trainers' Eyes Meet (Youngster)"
     path: "Trainers' Eyes Meet (Youngster).brstm"
     type: warning
@@ -371,11 +368,11 @@ songs:
     title: "Vaniville Town"
     path: "Vaniville Town.brstm"
     type: betting
-  - id: victory_road_x
+  - id: victory_road_xy
     title: "Victory Road"
     path: "Victory Road.brstm"
     type: betting
-  - id: victory_champion_x
+  - id: victory_champion_xy
     title: "Victory! (Champion)"
     path: "Victory! (Champion).brstm"
     type: result
@@ -395,12 +392,12 @@ songs:
     title: "Victory! (Team Flare)"
     path: "Victory! (Team Flare).brstm"
     type: result
-  - id: battle_mewtwo_x
+  - id: battle_mewtwo_xy
     title: "Battle! Mewtwo"
     path: "Battle! Mewtwo.brstm"
     type: battle
-  - id: a_terrible_past_az
-    title: "A Terrible Past"
+  - id: az
+    title: "AZ"
     path: "AZ.brstm"
     type: break
   - id: riding_skiddo
@@ -439,4 +436,16 @@ songs:
     title: "Hurry Along 1"
     path: "Hurry Along 1.brstm"
     type: warning
+  - id: how_about_a_song_an_unwavering_heart
+    title: "How About a Song? \"An Unwavering Heart\""
+    path: "bgm_xy_e_tip_01.laac"
+    type: break
+  - id: battle_successor_korrina
+    title: "Battle! (Successor Korrina)"
+    path: "bgm_xy_vs_gymleader2.laac"
+    type: battle
+  - id: try_again_xy
+    title: "Try Again..."
+    path: "bgm_xy_sp_gameover.laac"
+    type: result
 ...

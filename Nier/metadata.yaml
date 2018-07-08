@@ -1,6 +1,6 @@
 ---
 id: nier
-title: "Nier"
+title: "NieR"
 series: drakengard
 platform: ["PS3", "360"]
 year: 2010
@@ -13,16 +13,68 @@ songs:
     title: "The Lost Forest"
     path: "The Lost Forest.brstm"
     type: betting
-  - id: shadowlords_castle_memory_pad
-    title: "Shadowlord's Castle / Memory (Pad)"
+  - id: shadowlords_castle_memory
+    title: "Shadowlord's Castle / Memory"
     path: "Shadowlord's Castle  Memory (Pad).brstm"
     type: break
-  - id: dark_colossus_destroys_all
-    title: "Dark Colossus Destroys All"
+  - id: the_dark_colossus_destroys_all
+    title: "The Dark Colossus Destroys All"
     path: "Dark Colossus Destroys All.brstm"
     type: warning
   - id: deep_crimson_foe
     title: "Deep Crimson Foe"
     path: "Deep Crimson Foe.brstm"
     type: warning
+  - id: emil_karma
+    title: "Emil / Karma"
+    path: "Emil, Karma.brstm"
+    type: betting
+  - id: gods_bound_by_rules
+    title: "Gods Bound by Rules"
+    path: "Gods Bound by Rules.brstm"
+    type: betting
+  - id: hills_of_radiant_winds
+    title: "Hills of Radiant Winds"
+    path: "Hills of Radiant Winds.brstm"
+    type: betting
+  - id: kaine_escape
+    title: "Kainé / Escape"
+    path: "Kainé - Escape.brstm"
+    type: betting
+  - id: shadowlord_s_castle_roar
+    title: "Shadowlord's Castle / Roar"
+    path: "Shadowlord's Castle _ Roar.brstm"
+    type: betting
+  - id: song_of_the_ancients_fate
+    title: "Song of the Ancients / Fate"
+    path: "Song of the Ancients - Fate.brstm"
+    type: betting
+  - id: song_of_the_ancients_hollow_dreams
+    title: "Song of the Ancients / Hollow Dreams"
+    path: "Song of the Ancients - Hollow Dreams.brstm"
+    type: break
+  - id: song_of_the_ancients_devola
+    title: "Song of the Ancients / Devola"
+    path: "Song of the Ancients (Devola).brstm"
+    type: break
+  - id: song_of_the_ancients_popola
+    title: "Song of the Ancients / Popola"
+    path: "Song of the Ancients (Popola).brstm"
+    type: break
+  - id: the_wretched_automatons
+    title: "The Wretched Automatons"
+    path: "The Wretched Automatons.brstm"
+    type: betting
+  - id: blu_bird
+    title: "Blu-bird"
+    path: "Blu Bird (Hansel und Gretel).brstm"
+    type: warning
+  - id: emil_karma_medley
+    title: "Emil - Karma (Medley)"
+    path: "Emil - Karma (Medley).brstm"
+    type: betting
+  - id: emil_dlc_remix
+    title: "Emil (DLC Remix)"
+    path: "Emil (DLC Remix).brstm"
+    type: betting
 ...

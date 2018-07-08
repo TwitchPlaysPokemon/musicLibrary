@@ -1,0 +1,17 @@
+---
+id: sonic_and_the_secret_rings
+title: "Sonic and the Secret Rings"
+series: sonic
+platform: "Wii"
+year: 2007
+songs: 
+  - id: high_and_broken
+    title: "HIGH AND BROKEN"
+    path: "stg06_bgm.adx"
+    ends: 2:51
+    type: betting
+  - id: sandstorm_sonic_and_the_secret_rings
+    title: "SANDSTORM"
+    path: "bgm_event_06.adx"
+    type: betting
+...

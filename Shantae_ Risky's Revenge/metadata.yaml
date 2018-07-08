@@ -1,16 +1,24 @@
 ---
-id: shantae_riskys_revenge
-platform: ["DSi", "PC"]
+id: shantae_risky_s_revenge
 title: "Shantae: Risky's Revenge"
 series: shantae
+platform: ["DSi", "PC"]
 year: 2010
 songs: 
   - id: day_travel
-    path: "Day Travel.brstm"
     title: "Day Travel"
+    path: "Day Travel.brstm"
     type: betting
-  - id: boss_battle_shantaerr
-    path: "Boss Battle.brstm"
+  - id: boss_battle_shantae_risky_s_revenge
     title: "Boss Battle"
+    path: "Boss Battle.brstm"
     type: battle
+  - id: file_select_shantae_risky_s_revenge
+    title: "File Select"
+    path: "seq_file_select.brstm"
+    type: betting
+  - id: burning_town_shantae_risky_s_revenge
+    title: "Burning Town"
+    path: "seq_burning_town.fsb"
+    type: betting
 ...

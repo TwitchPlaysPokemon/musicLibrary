@@ -192,4 +192,16 @@ songs:
     path: "Sweet Sweet Canyon.brstm"
     tags: [xmas]
     type: betting
+  - id: gcn_baby_park_in_game_style
+    title: "GCN Baby Park (In-Game Style)"
+    path: "GCN Baby Park (In-Game Style).brstm"
+    type: betting
+  - id: gcn_baby_park_final_lap
+    title: "GCN Baby Park (Final Lap)"
+    path: "GCN Baby Park (Final Lap).brstm"
+    type: warning
+  - id: snes_donut_plains_3
+    title: "SNES Donut Plains 3"
+    path: "SNES Donut Plains 3.brstm"
+    type: betting
 ...

@@ -1,0 +1,23 @@
+---
+id: hyrule_warriors_legends
+title: "Hyrule Warriors Legends"
+platform: "3DS"
+year: 2016
+songs: 
+  - id: title_dragon_wind_waker
+    title: "Title & Dragon: Wind Waker"
+    path: "BGMProduct_00000046.g1l"
+    type: betting
+  - id: molgera_wind_waker
+    title: "Molgera: Wind Waker"
+    path: "BGMProduct_00000047.g1l"
+    type: battle
+  - id: adventure_map_the_great_sea
+    title: "Adventure Map: The Great Sea"
+    path: "BGMProduct_00000048.g1l"
+    type: betting
+  - id: linkle
+    title: "Linkle"
+    path: "BGMProduct_00000049.g1l"
+    type: betting
+...

@@ -114,11 +114,6 @@ songs:
     title: "Egg Carrier - A Song That Keeps Us On The Move"
     path: "Egg Carrier A Song That Keeps Us on the Move.brstm"
     type: break
-#      - id: event_sadness
-#        title: "Event - Sadness"
-#        path: "Event - Sadness.brstm"
-#        type: result
-# how did I miss this
   - id: join_us_4_happy_time
     title: "Join Us 4 Happy Time ...for CHAO Race"
     path: "Join Us 4 Happy Time.brstm"
@@ -175,5 +170,38 @@ songs:
   - id: unknown_from_me
     title: "Unknown from M.E."
     path: "Unknown from ME (Knuckles' Theme) (Short No Vocals).brstm"
+    type: betting
+  - id: calm_after_the_storm_egg_carrier_the_ocean
+    title: "Calm After the Storm ...Egg Carrier -the ocean-"
+    path: "EGCARER2.ADX"
+    type: betting
+  - id: event_the_past
+    title: "Event: The Past"
+    path: "EVTBGM04.ADX"
+    type: warning
+  - id: lazy_days_livin_in_paradise_theme_of_big
+    title: "Lazy Days ~Livin' in Paradise~ ...Theme of \"BIG\""
+    path: "THEBIG.ADX"
+    type: betting
+  - id: perfect_chaos_revival_boss_perfect_chaos
+    title: "Perfect CHAOS Revival! ...Boss: Perfect CHAOS"
+    path: "CHAOS_P2.ADX"
+    type: warning
+  - id: sand_hill
+    title: "Sand Hill"
+    path: "SANDHILL.ADX"
+    type: betting
+  - id: theme_of_dr_eggman
+    title: "Theme of \"Dr. EGGMAN\""
+    path: "EGGMAN.ADX"
+    type: betting
+  - id: theme_of_super_sonic
+    title: "Theme of \"SUPER SONIC\""
+    path: "SPRSONIC.ADX"
+    type: warning
+  - id: unknown_from_m_e_theme_of_knuckles_sa1
+    title: "Unknown from M.E. ...Theme of \"KNUCKLES\""
+    path: "KNUCKLES.ADX"
+    ends: 3:00
     type: betting
 ...

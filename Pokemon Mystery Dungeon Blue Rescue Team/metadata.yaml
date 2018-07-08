@@ -102,4 +102,100 @@ songs:
     title: "Mt. Freeze Peak"
     path: "36 Mt. Freeze Peak [SND_BGM_M_DUNGEON_REIHOU_02].mini2sf"
     type: betting
+  - id: top_menu_pmd_blue
+    title: "Top Menu"
+    path: "03 Top Menu [SND_BGM_M_HABITAT_HOME_SHINKA].mini2sf"
+    type: break
+  - id: tiny_woods_pmd_blue
+    title: "Tiny Woods"
+    path: "07 Tiny Woods [SND_BGM_M_DUNGEON_CHIISANAMORI_01].mini2sf"
+    type: betting
+  - id: pokemon_square_pmd_blue
+    title: "Pokémon Square"
+    path: "13 Pokemon Square [SND_BGM_M_HABITAT_HIROBA].mini2sf"
+    type: betting
+  - id: mt_steel_pmd_blue
+    title: "Mt. Steel"
+    path: "15 Mt. Steel [SND_BGM_M_DUNGEON_HAGANE_01].mini2sf"
+    type: betting
+  - id: boss_battle_pmd_blue
+    title: "Boss Battle!"
+    path: "16 Boss Battle! [SND_BGM_M_BOSS01].mini2sf"
+    type: warning
+  - id: makuhita_dojo_pmd_blue
+    title: "Makuhita Dojo"
+    path: "17 Makuhita Dojo [SND_BGM_M_DUNGEON_TUTORIAL_01].mini2sf"
+    type: betting
+  - id: friend_area_grasslands_pmd_blue
+    title: "Friend Area ~ Grasslands"
+    path: "50 Friend Area - Grasslands [SND_BGM_M_HABITAT_CALMLY_03].mini2sf"
+    type: result
+  - id: friend_area_steppe_pmd_blue
+    title: "Friend Area ~ Steppe"
+    path: "51 Friend Area - Steppe [SND_BGM_M_HABITAT_CALMLY_01].mini2sf"
+    type: betting
+  - id: friend_area_forest_pmd_blue
+    title: "Friend Area ~ Forest"
+    path: "52 Friend Area - Forest [SND_BGM_M_HABITAT_MYSTIC_04].mini2sf"
+    type: betting
+  - id: friend_area_wilds_pmd_blue
+    title: "Friend Area ~ Wilds"
+    path: "53 Friend Area - Wilds [SND_BGM_M_HABITAT_MYSTIC_03].mini2sf"
+    type: betting
+  - id: friend_area_swamp_pmd_blue
+    title: "Friend Area ~ Swamp"
+    path: "54 Friend Area - Swamp [SND_BGM_M_HABITAT_DARK_01].mini2sf"
+    type: betting
+  - id: friend_area_lab_pmd_blue
+    title: "Friend Area ~ Lab"
+    path: "56 Friend Area - Lab [SND_BGM_M_HABITAT_MYSTIC_06].mini2sf"
+    type: break
+  - id: friend_area_ocean_pmd_blue
+    title: "Friend Area ~ Ocean"
+    path: "57 Friend Area - Ocean [SND_BGM_M_HABITAT_MYSTIC_02].mini2sf"
+    type: break
+  - id: friend_area_cave_pmd_blue
+    title: "Friend Area ~ Cave"
+    path: "58 Friend Area - Cave [SND_BGM_M_HABITAT_MYSTIC_01].mini2sf"
+    type: betting
+  - id: rising_fear_pmd_blue
+    title: "Rising Fear"
+    path: "20 Rising Fear [SND_BGM_M_EVENT_FEAR].mini2sf"
+    type: warning
+  - id: silent_chasm_pmd_blue
+    title: "Silent Chasm"
+    path: "19 Silent Chasm [SND_BGM_M_DUNGEON_CHINMOKU_01].mini2sf"
+    type: betting
+  - id: journey_of_fugitives_pmd_blue
+    title: "Journey of Fugitives"
+    path: "25 Journey of Fugitives [SND_BGM_M_EVENT_ESCAPE_01].mini2sf"
+    type: break
+  - id: lapis_cave_pmd_blue
+    title: "Lapis Cave"
+    path: "26 Lapis Cave [SND_BGM_M_DUNGEON_GUNJYOU_01].mini2sf"
+    type: betting
+  - id: mt_blaze_peak_pmd_blue
+    title: "Mt. Blaze Peak"
+    path: "28 Mt. Blaze Peak [SND_BGM_M_DUNGEON_HONOU_02].mini2sf"
+    type: betting
+  - id: at_the_snowy_mountain_pmd_blue
+    title: "At the Snowy Mountain"
+    path: "31 At the Snowy Mountain [SND_BGM_M_EVENT_ESCAPE_02].mini2sf"
+    type: break
+  - id: sky_tower_summit_pmd_blue
+    title: "Sky Tower Summit"
+    path: "42 Sky Tower Summit [SND_BGM_M_DUNGEON_TENKUU_02].mini2sf"
+    type: betting
+  - id: time_for_farewell_pmd_blue
+    title: "Time for Farewell..."
+    path: "45 Time for Farewell... [SND_BGM_M_EVENT_SEPARATION_02].mini2sf"
+    type: break
+  - id: ending_pmd_blue
+    title: "Ending"
+    path: "46 Ending [SND_BGM_M_SYS_ENDING_01].mini2sf"
+    type: break
+  - id: stormy_sea_pmd_blue
+    title: "Stormy Sea"
+    path: "48 Stormy Sea [SND_BGM_M_DUNGEON_GENERAL_02].mini2sf"
+    type: betting
 ...

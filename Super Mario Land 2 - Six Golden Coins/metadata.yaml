@@ -21,8 +21,8 @@ songs:
     title: "Outside Wario's Castle"
     path: "Outside Wario's Castle.brstm"
     type: warning
-  - id: star_maze
-    title: "Star Maze"
+  - id: star_course_space_zone
+    title: "Star Course (Space Zone)"
     path: "Star Maze.brstm"
     type: betting
   - id: wario_battle_1
@@ -37,4 +37,24 @@ songs:
     title: "Haunted House"
     path: "Haunted House.brstm"
     type: break
+  - id: boss_battle_super_mario_land_2
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: file_select_bonus_cave
+    title: "File Select & Bonus Cave"
+    path: "File Select & Bonus Cave.brstm"
+    type: result
+  - id: macro_zone
+    title: "Macro Zone"
+    path: "Macro Zone.brstm"
+    type: result
+  - id: maze_underwater
+    title: "Maze/Underwater"
+    path: "Maze_Underwater.brstm"
+    type: betting
+  - id: moon_super_mario_land_2
+    title: "Moon"
+    path: "Moon.brstm"
+    type: betting
 ...

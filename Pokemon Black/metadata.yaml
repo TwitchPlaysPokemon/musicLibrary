@@ -13,12 +13,20 @@ songs:
     title: "Nuvema Town"
     path: "106 - Kanoko Town.mini2sf"
     type: betting
+  - id: battle_cheren_and_bianca_belle
+    title: "Battle! (Cheren/Bianca)"
+    path: "107 - Battle! Cheren & Belle.mini2sf"
+    type: battle
+  - id: hurry_along_1
+    title: "Hurry Along 1"
+    path: "108 - Come Along 1.mini2sf"
+    type: warning
   - id: professor_juniper
     title: "Professor Juniper"
     path: "109 - Professor Araragi.mini2sf"
     type: betting
-  - id: pokemon_laboratory
-    title: "Pokémon Laboratory"
+  - id: juniper_pokemon_lab
+    title: "Juniper Pokémon Lab"
     path: "110 - Pokémon Laboratory.mini2sf"
     type: betting
   - id: lets_go_together
@@ -29,14 +37,30 @@ songs:
     title: "Route 1"
     path: "113 - Route 1.mini2sf"
     type: betting
-  - id: accumula_town_karakusa
+  - id: battle_wild_pokemon_black_white
+    title: "Battle! (Wild Pokémon)"
+    path: "114 - Battle! Wild Pokémon.mini2sf"
+    type: battle
+  - id: victory_against_wild_pokemon
+    title: "Victory! (Wild Pokémon)"
+    path: "115 - Victory Against Wild Pokémon.mini2sf"
+    type: result
+  - id: accumula_town
     title: "Accumula Town"
     path: "117 - Karakusa Town.mini2sf"
     type: betting
+  - id: hurry_along_2
+    title: "Hurry Along 2"
+    path: "118 - Come Along 2.mini2sf"
+    type: warning
   - id: pokemon_center_black_white
     title: "Pokémon Center"
     path: "119 - Pokémon Center.mini2sf"
     type: betting
+  - id: team_plasma_plots
+    title: "Team Plasma Plots"
+    path: "122 - Team Plasma's Secret Maneuvers.mini2sf"
+    type: warning
   - id: route_2_spring
     title: "Route 2 (Spring)"
     path: "123a - Route 2 (Spring).mini2sf"
@@ -45,22 +69,82 @@ songs:
     title: "Route 2 (Summer)"
     path: "123b - Route 2 (Summer).mini2sf"
     type: betting
+  - id: trainers_eyes_meet_encounter_youngster_black_white
+    title: "Trainers' Eyes Meet (Youngster)"
+    path: "125 - Encounter! Youngster.mini2sf"
+    type: warning
+  - id: battle_trainer_black_white
+    title: "Battle! (Trainer Battle)"
+    path: "126 - Battle! Trainer.mini2sf"
+    type: battle
+  - id: victory_against_trainer_battle
+    title: "Victory! (Trainer Battle)"
+    path: "127 - Victory Against Trainer.mini2sf"
+    type: result
+  - id: trainers_eyes_meet_encounter_lass_black_white
+    title: "Trainers' Eyes Meet (Lass)"
+    path: "128 - Encounter! Lass.mini2sf"
+    type: warning
   - id: striaton_city
     title: "Striaton City"
     path: "130 - Sanyou City.mini2sf"
     type: betting
-  - id: the_dreamyard_abandoned_lot_of_dreams
+  - id: the_dreamyard
     title: "The Dreamyard"
     path: "132 - Abandoned Lot of Dreams.mini2sf"
     type: betting
+  - id: team_plasma_appears
+    title: "Team Plasma Appears!"
+    path: "133 - Team Plasma Appears!.mini2sf"
+    type: warning
+  - id: battle_team_plasma
+    title: "Battle! (Team Plasma)"
+    path: "134 - Battle! Team Plasma.mini2sf"
+    type: battle
+  - id: victory_against_team_plasma
+    title: "Victory! (Team Plasma)"
+    path: "135 - Victory Against Team Plasma.mini2sf"
+    type: result
+  - id: evolution_black_white
+    title: "Evolution"
+    path: "136b - Evolution.mini2sf"
+    type: warning
+  - id: trainers_eyes_meet_encounter_twins_black_white
+    title: "Trainers' Eyes Meet (Twins)"
+    path: "138 - Encounter! Twins.mini2sf"
+    type: warning
+  - id: cheren_s_theme
+    title: "Cheren's Theme"
+    path: "139 - Cheren's Theme.mini2sf"
+    type: warning
+  - id: there_s_trouble
+    title: "There's Trouble!"
+    path: "140 - Trouble Occurs!.mini2sf"
+    type: warning
   - id: nacrene_city
     title: "Nacrene City"
     path: "141 - Shippou City.mini2sf"
     type: betting
-  - id: gym_black_white
-    title: "Gym"
+  - id: pokemon_gym_black_white
+    title: "Pokémon Gym"
     path: "143 - Gym.mini2sf"
     type: betting
+  - id: battle_gym_leader_black_white
+    title: "Battle! (Gym Leader)"
+    path: "144 - Battle! Gym Leader.mini2sf"
+    type: battle
+  - id: victory_lies_before_you
+    title: "Victory Lies Before You!"
+    path: "145 - Victory Is Right Before Your Eyes!.mini2sf"
+    type: battle
+  - id: victory_against_gym_leader
+    title: "Victory! (Gym Leader)"
+    path: "146 - Victory Against Gym Leader.mini2sf"
+    type: result
+  - id: gate_black_white
+    title: "Gate"
+    path: "149 - Gate.mini2sf"
+    type: break
   - id: skyarrow_bridge
     title: "Skyarrow Bridge"
     path: "Skyarrow Bridge.brstm"
@@ -69,18 +153,46 @@ songs:
     title: "Castelia City"
     path: "151 - Hiun City.mini2sf"
     type: betting
+  - id: trainers_eyes_meet_encounter_clerk
+    title: "Trainers' Eyes Meet (Clerk ♂)"
+    path: "152 - Encounter! Businessman.mini2sf"
+    type: warning
   - id: route_4_spring
     title: "Route 4 (Spring)"
     path: "153 - Route 4 (Spring).mini2sf"
     type: betting
-  - id: nimbasa_city_raimon
+  - id: trainers_eyes_meet_encounter_backpacker
+    title: "Trainers' Eyes Meet (Backpacker)"
+    path: "154 - Encounter! Backpacker.mini2sf"
+    type: warning
+  - id: nimbasa_city
     title: "Nimbasa City"
     path: "155 - Raimon City.mini2sf"
     type: betting
-  - id: biancas_theme
+  - id: bianca_s_theme
     title: "Bianca's Theme"
     path: "156 - Belle's Theme.mini2sf"
     type: betting
+  - id: an_unwavering_heart
+    title: "An Unwavering Heart"
+    path: "157 - Unwavering Emotions.mini2sf"
+    type: betting
+  - id: prisoner_to_a_formula
+    title: "Prisoner to a Formula"
+    path: "158 - The Equated Captives.mini2sf"
+    type: warning
+  - id: battle_n
+    title: "Battle! (N)"
+    path: "159 - Battle! N.mini2sf"
+    type: battle
+  - id: a_tight_spot_during_battle
+    title: "A Tight Spot During Battle!"
+    path: "160 - Battle Trouble!.mini2sf"
+    type: warning
+  - id: bicycle_black_white
+    title: "Bicycle"
+    path: "161 - Bicycle.mini2sf"
+    type: result
   - id: champion_alder
     title: "Champion Alder"
     path: "162 - Champion Adeku.mini2sf"
@@ -93,8 +205,8 @@ songs:
     title: "Driftveil City"
     path: "202 - Hodomoe City.mini2sf"
     type: betting
-  - id: cool_storage
-    title: "Cool Storage"
+  - id: cold_storage
+    title: "Cold Storage"
     path: "203 - Freezer Containers.mini2sf"
     tags: [xmas]
     type: betting
@@ -106,15 +218,23 @@ songs:
     title: "Route 6 (Summer)"
     path: "204b - Route 6 (Summer).mini2sf"
     type: betting
+  - id: trainers_eyes_meet_encounter_parasol_lady
+    title: "Trainers' Eyes Meet (Parasol Lady)"
+    path: "205 - Encounter! Parasol Lady.mini2sf"
+    type: warning
+  - id: trainers_eyes_meet_encounter_scientist
+    title: "Trainers' Eyes Meet (Scientist)"
+    path: "206 - Encounter! Scientist.mini2sf"
+    type: warning
   - id: chargestone_cave
     title: "Chargestone Cave"
     path: "207 - Electric Rock Cave.mini2sf"
     type: betting
-  - id: mistralton_city_fukiyose
+  - id: mistralton_city
     title: "Mistralton City"
     path: "208 - Fukiyose City.mini2sf"
     type: betting
-  - id: cedric_juniper_araragis_father
+  - id: cedric_juniper
     title: "Cedric Juniper"
     path: "209 - Araragi's Father.mini2sf"
     type: betting
@@ -126,12 +246,24 @@ songs:
     title: "Dragonspiral Tower"
     path: "214 - Dragon Spiral Tower.mini2sf"
     type: betting
+  - id: trainers_eyes_meet_encounter_psychic
+    title: "Trainers' Eyes Meet (Psychic)"
+    path: "212 - Encounter! Psychic.mini2sf"
+    type: warning
+  - id: trainers_eyes_meet_encounter_team_plasma
+    title: "Trainers' Eyes Meet (Team Plasma)"
+    path: "215 - Encounter! Team Plasma.mini2sf"
+    type: warning
+  - id: dragonspiral_tower_top_floor
+    title: "Dragonspiral Tower Top Floor"
+    path: "216 - Top Floor of Dragon Spiral Tower.mini2sf"
+    type: warning
   - id: route_4_summer
     title: "Route 4 (Summer)"
     path: "217 - Route 4 (Summer).mini2sf"
     type: betting
-  - id: ancient_castle
-    title: "Ancient Castle"
+  - id: relic_castle
+    title: "Relic Castle"
     path: "218 - Ancient Castle.mini2sf"
     type: betting
   - id: tubeline_bridge
@@ -142,9 +274,17 @@ songs:
     title: "Shopping Mall Nine"
     path: "221 - Shopping Mall R9.mini2sf"
     type: betting
+  - id: trainers_eyes_meet_encounter_roughneck
+    title: "Trainers' Eyes Meet (Roughneck)"
+    path: "222 - Encounter! Roughneck.mini2sf"
+    type: warning
   - id: opelucid_city_black
     title: "Opelucid City (Black)"
     path: "223 - Souryuu City (Black).mini2sf"
+    type: betting
+  - id: opelucid_city_pokemon_white
+    title: "Opelucid City (Pokémon White)"
+    path: "224 - Souryuu City (White).mini2sf"
     type: betting
   - id: route_10
     title: "Route 10"
@@ -154,19 +294,59 @@ songs:
     title: "Victory Road"
     path: "226 - Victory Road.mini2sf"
     type: betting
-  - id: pokemon_league_black_white
-    title: "Pokémon League"
+  - id: trainers_eyes_meet_encounter_ace_trainer_black_white
+    title: "Trainers' Eye Meet (Ace Trainer)"
+    path: "227 - Encounter! Ace Trainer.mini2sf"
+    type: warning
+  - id: the_pokemon_league_black_white
+    title: "The Pokémon League"
     path: "228 - Pokémon League.mini2sf"
     type: betting
-  - id: receive_a_mission
-    title: "Receive a Mission"
+  - id: battle_elite_four_black_white
+    title: "Battle! (Elite Four)"
+    path: "229 - Battle! Elite Four.mini2sf"
+    type: battle
+  - id: the_pokemon_league_besieged
+    title: "The Pokémon League Besieged!"
+    path: "230 - Siege on the Pokémon League.mini2sf"
+    type: warning
+  - id: embracing_one_s_duty
+    title: "Embracing One's Duty"
     path: "231 - Receive a Mission.mini2sf"
     type: betting
-  - id: ns_castle
+  - id: n_s_castle
     title: "N's Castle"
     path: "232 - N's Castle.mini2sf"
     type: betting
-  - id: lookers_theme_black_white
+  - id: the_pokemon_child_n
+    title: "The Pokémon Child, N"
+    path: "233 - The Child of Pokémon, N.mini2sf"
+    type: warning
+  - id: battle_reshiram_zekrom
+    title: "Battle! (Reshiram/Zekrom)"
+    path: "236a - Battle! Reshiram.mini2sf"
+    type: battle
+  - id: decisive_battle_n
+    title: "Decisive Battle! (N)"
+    path: "237 - Decisive Battle! N.mini2sf"
+    type: battle
+  - id: ghetsis_ambitions
+    title: "Ghetsis' Ambitions"
+    path: "238 - Geechisu's Ambitions.mini2sf"
+    type: warning
+  - id: battle_ghetsis
+    title: "Battle! (Ghetsis)"
+    path: "239 - Battle! Geechisu.mini2sf"
+    type: battle
+  - id: farewell
+    title: "Farewell"
+    path: "240 - Farewell.mini2sf"
+    type: break
+  - id: ending_onward_to_our_own_futures
+    title: "Ending \"Onward to Our Own Futures\""
+    path: "241 - ENDING ~To Their Respective Futures~.mini2sf"
+    type: result
+  - id: looker_s_theme_black_white
     title: "Looker's Theme"
     path: "301 - Looker's Theme.mini2sf"
     type: betting
@@ -179,8 +359,12 @@ songs:
     path: "302b - Route 2 (Winter).mini2sf"
     tags: [xmas]
     type: betting
-  - id: wifi_connection
-    title: "Wi-Fi Connection"
+  - id: the_royal_unova_pleasure_boat
+    title: "The Royal Unova"
+    path: "304 - The Pleasure Cruise Ship, ''The Royal Isshu''.mini2sf"
+    type: break
+  - id: nintendo_wi_fi_connection
+    title: "Nintendo Wi-Fi Connection"
     path: "305 - Wi-Fi Connection.mini2sf"
     type: betting
   - id: global_terminal_black_white
@@ -191,6 +375,10 @@ songs:
     title: "GTS"
     path: "307 - GTS.mini2sf"
     type: betting
+  - id: spin_trade
+    title: "Spin Trade"
+    path: "308 - Spin Trade.mini2sf"
+    type: warning
   - id: route_4_autumn
     title: "Route 4 (Autumn)"
     path: "310 - Route 4 (Autumn).mini2sf"
@@ -199,15 +387,23 @@ songs:
     title: "Gear Station"
     path: "311 - Gear Station.mini2sf"
     type: betting
-  - id: battle_subway
-    title: "Battle Subway"
+  - id: the_battle_subway
+    title: "The Battle Subway"
     path: "312 - Battle Subway.mini2sf"
     type: betting
-  - id: musical_hall
-    title: "Musical Hall"
+  - id: battle_battle_subway_trainer
+    title: "Battle! (Battle Subway Trainer)"
+    path: "313 - Battle! Subway Trainer.mini2sf"
+    type: battle
+  - id: musical_theater
+    title: "Musical Theater"
     path: "315 - Musical Hall.mini2sf"
     type: betting
-  - id: a_ferris_wheel_ride_together_two_people
+  - id: musical_stardom
+    title: "Musical \"Stardom\""
+    path: "319 - Musical ''Stardom!''.mini2sf"
+    type: result
+  - id: a_ferris_wheel_ride_together
     title: "A Ferris Wheel Ride Together"
     path: "323 - Two People on the Ferris Wheel.mini2sf"
     type: betting
@@ -219,6 +415,10 @@ songs:
     title: "Route 6 (Winter)"
     path: "328b - Route 6 (Winter).mini2sf"
     type: betting
+  - id: battle_legendary_pokemon_roaming_black_white
+    title: "Battle! (Legendary Pokémon)"
+    path: "329a - Battle! Legendary Pokémon.mini2sf"
+    type: battle
   - id: anville_town
     title: "Anville Town"
     path: "330 - Kanawa Town.mini2sf"
@@ -235,10 +435,26 @@ songs:
     title: "Route 12 (Summer)"
     path: "332b - Route 12 (Summer).mini2sf"
     type: betting
-  - id: poke_transfer_lab_shift_factory
+  - id: trainers_eyes_meet_encounter_cyclist
+    title: "Trainers' Eyes Meet (Cyclist)"
+    path: "333 - Encounter! Cyclist.mini2sf"
+    type: warning
+  - id: poke_transfer_lab
     title: "Poké Transfer Lab"
     path: "334 - Shift Factory.mini2sf"
     type: betting
+  - id: poke_transfer_choose_your_pokemon_pokeshifter
+    title: "Poké Transfer: Choose Your Pokémon!"
+    path: "335 - PokéShifter Choose a Pokemon!.mini2sf"
+    type: warning
+  - id: poke_transfer_catch_your_pokemon_pokeshifter
+    title: "Poké Transfer: Catch Your Pokémon!"
+    path: "336 - PokéShifter Catch a Pokemon!.mini2sf"
+    type: warning
+  - id: trainers_eyes_meet_encounter_pokefan_black_white
+    title: "Trainers' Eyes Meet (Pokéfan)"
+    path: "337 - Encounter! PokéFan.mini2sf"
+    type: warning
   - id: black_city
     title: "Black City"
     path: "338 - Black City.mini2sf"
@@ -255,19 +471,43 @@ songs:
     title: "Entralink"
     path: "341 - High Link.mini2sf"
     type: betting
-  - id: undella_town_autumn_winter_spring_sazanami
+  - id: someone_s_entralink
+    title: "Someone's Entralink"
+    path: "343 - Someone's High Link.mini2sf"
+    type: warning
+  - id: trainers_eyes_meet_encounter_gentleman_black_white
+    title: "Trainers' Eyes Meet (Gentleman)"
+    path: "346 - Encounter! Gentleman.mini2sf"
+    type: warning
+  - id: undella_town_autumn_winter_spring
     title: "Undella Town (Autumn/Winter/Spring)"
     path: "347a - Sazanami Town (Autumn).mini2sf"
     type: betting
-  - id: undella_town_summer_sazanami
+  - id: undella_town_summer
     title: "Undella Town (Summer)"
     path: "348 - Sazanami Town (Summer).mini2sf"
     type: betting
+  - id: cynthia_s_theme_black_white
+    title: "Cynthia's Theme"
+    path: "349 - Cynthia's Theme.mini2sf"
+    type: warning
+  - id: battle_cynthia_black_white
+    title: "Battle! (Cynthia)"
+    path: "350 - Battle! Cynthia.mini2sf"
+    type: battle
   - id: lostlorn_forest
     title: "Lostlorn Forest"
     path: "351 - Lost Forest.mini2sf"
     type: betting
-  - id: abyssal_ruins_undersea
+  - id: battle_strong_wild_pokemon
+    title: "Battle! (Strong Wild Pokémon)"
+    path: "352 - Battle! Strong Wild Pokémon.mini2sf"
+    type: battle
+  - id: surf_black_white
+    title: "Surf"
+    path: "401 - Surf.mini2sf"
+    type: result
+  - id: abyssal_ruins
     title: "Abyssal Ruins"
     path: "402 - Undersea Ruins.mini2sf"
     type: betting
@@ -279,8 +519,8 @@ songs:
     title: "Route 12 (Winter)"
     path: "403b - Route 12 (Winter).mini2sf"
     type: betting
-  - id: summer_in_lacunosa_kagome_town
-    title: "Summer in Lacunosa"
+  - id: lacunosa_town
+    title: "Lacunosa Town"
     path: "404 - Kagome Town.mini2sf"
     type: betting
   - id: village_bridge
@@ -295,66 +535,14 @@ songs:
     title: "Route 4 (Winter)"
     path: "407 - Route 4 (Winter).mini2sf"
     type: betting
-  - id: battle_cheren_and_bianca_belle
-    title: "Battle! (Cheren/Bianca)"
-    path: "107 - Battle! Cheren & Belle.mini2sf"
-    type: battle
-  - id: battle_wild_pokemon_black_white
-    title: "Battle! (Wild Pokémon)"
-    path: "114 - Battle! Wild Pokémon.mini2sf"
-    type: battle
-  - id: battle_trainer_black_white
-    title: "Battle! (Trainer Battle)"
-    path: "126 - Battle! Trainer.mini2sf"
-    type: battle
-  - id: battle_team_plasma
-    title: "Battle! (Team Plasma)"
-    path: "134 - Battle! Team Plasma.mini2sf"
-    type: battle
-  - id: battle_gym_leader_black_white
-    title: "Battle! (Gym Leader)"
-    path: "144 - Battle! Gym Leader.mini2sf"
-    type: battle
-  - id: victory_is_right_before_your_eyes
-    title: "Victory Is Right Before Your Eyes!"
-    path: "145 - Victory Is Right Before Your Eyes!.mini2sf"
-    type: battle
-  - id: battle_n
-    title: "Battle! (N)"
-    path: "159 - Battle! N.mini2sf"
-    type: battle
-  - id: battle_elite_four_black_white
-    title: "Battle! (Elite Four)"
-    path: "229 - Battle! Elite Four.mini2sf"
-    type: battle
-  - id: battle_reshiram_zekrom
-    title: "Battle! (Reshiram/Zekrom)"
-    path: "236a - Battle! Reshiram.mini2sf"
-    type: battle
-  - id: decisive_battle_n
-    title: "Decisive Battle! (N)"
-    path: "237 - Decisive Battle! N.mini2sf"
-    type: battle
-  - id: battle_ghetsis
-    title: "Battle! (Ghetsis)"
-    path: "239 - Battle! Geechisu.mini2sf"
-    type: battle
-  - id: battle_subway_trainer
-    title: "Battle! (Battle Subway Trainer)"
-    path: "313 - Battle! Subway Trainer.mini2sf"
-    type: battle
-  - id: battle_legendary_pokemon_roaming_black_white
-    title: "Battle! (Legendary Pokémon)"
-    path: "329a - Battle! Legendary Pokémon.mini2sf"
-    type: battle
-  - id: battle_cynthia_black_white
-    title: "Battle! (Cynthia)"
-    path: "350 - Battle! Cynthia.mini2sf"
-    type: battle
-  - id: battle_strong_wild_pokemon
-    title: "Battle! (Strong Wild Pokémon)"
-    path: "352 - Battle! Strong Wild Pokémon.mini2sf"
-    type: battle
+  - id: challenging_a_battle_competition
+    title: "Challenging a Battle Competition"
+    path: "408 - Challenge the Battle Tournament.mini2sf"
+    type: warning
+  - id: team_rocket_black_white
+    title: "Team Rocket!?"
+    path: "409 - Team Rocket!.mini2sf"
+    type: warning
   - id: battle_kyurem
     title: "Battle! (Kyurem)"
     path: "410 - Battle! Kyurem.mini2sf"
@@ -364,216 +552,36 @@ songs:
     title: "Battle! (Champion)"
     path: "412 - Battle! Champion.mini2sf"
     type: battle
-  - id: last_final_battle_n_remix
-    title: "Final Battle! (N Remix)"
-    path: "LAST BATTLE -N^n mix- (N Final Battle Remix).brstm"
-    type: battle
-  - id: victory_against_wild_pokemon
-    title: "Victory! (Wild Pokémon)"
-    path: "115 - Victory Against Wild Pokémon.mini2sf"
-    type: result
-  - id: victory_against_trainer_battle
-    title: "Victory! (Trainer Battle)"
-    path: "127 - Victory Against Trainer.mini2sf"
-    type: result
-  - id: victory_against_team_plasma
-    title: "Victory! (Team Plasma)"
-    path: "135 - Victory Against Team Plasma.mini2sf"
-    type: result
-  - id: victory_against_gym_leader
-    title: "Victory! (Gym Leader)"
-    path: "146 - Victory Against Gym Leader.mini2sf"
-    type: result
-  - id: bicycle_black_white
-    title: "Bicycle"
-    path: "161 - Bicycle.mini2sf"
-    type: result
-  - id: ending_onward_to_our_own_futures_their_respective_futures
-    title: "Ending \"Onward to Our Own Futures\""
-    path: "241 - ENDING ~To Their Respective Futures~.mini2sf"
-    type: result
-  - id: musical_stardom
-    title: "Musical \"Stardom!\""
-    path: "319 - Musical ''Stardom!''.mini2sf"
-    type: result
-  - id: surf_black_white
-    title: "Surf"
-    path: "401 - Surf.mini2sf"
-    type: result
-  - id: victory_against_champion
-    title: "Victory Against Champion"
+  - id: victory_champion_black_white
+    title: "Victory! (Champion)"
     path: "413 - Victory Against Champion.mini2sf"
     type: result
-  - id: hall_of_fame_black_white
+  - id: congratulations_on_entering_the_hall_of_fame_black_white
     title: "Congratulations on Entering the Hall of Fame!"
     path: "414 - Congratulations on Entering the Hall of Fame!.mini2sf"
     type: result
   - id: united_nations
     title: "United Nations"
-    path: "United Nations.brstm"
+    path: "999 - (0430) BGM_UNITED_NATIONS.mini2sf"
     type: result
-  - id: hurry_along_come_1
-    title: "Hurry Along 1"
-    path: "108 - Come Along 1.mini2sf"
-    type: warning
-  - id: hurry_along_come_2
-    title: "Hurry Along 2"
-    path: "118 - Come Along 2.mini2sf"
-    type: warning
-  - id: team_plasma_plots_secret_maneuvers
-    title: "Team Plasma Plots"
-    path: "122 - Team Plasma's Secret Maneuvers.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_youngster_black_white
-    title: "Trainers' Eyes Meet (Youngster)"
-    path: "125 - Encounter! Youngster.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_lass_black_white
-    title: "Trainers' Eyes Meet (Lass)"
-    path: "128 - Encounter! Lass.mini2sf"
-    type: warning
-  - id: team_plasma_appears
-    title: "Team Plasma Appears!"
-    path: "133 - Team Plasma Appears!.mini2sf"
-    type: warning
-  - id: evolution_black_white
-    title: "Evolution"
-    path: "136b - Evolution.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_twins_black_white
-    title: "Trainers' Eyes Meet (Twins)"
-    path: "138 - Encounter! Twins.mini2sf"
-    type: warning
-  - id: cherens_theme
-    title: "Cheren's Theme"
-    path: "139 - Cheren's Theme.mini2sf"
-    type: warning
-  - id: theres_trouble_occurs
-    title: "There's Trouble!"
-    path: "140 - Trouble Occurs!.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_clerk_businessman
-    title: "Trainers' Eyes Meet (Clerk ♂)"
-    path: "152 - Encounter! Businessman.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_backpacker
-    title: "Trainers' Eyes Meet (Backpacker)"
-    path: "154 - Encounter! Backpacker.mini2sf"
-    type: warning
-  - id: prisoner_to_a_formula_the_equated_captives
-    title: "Prisoner to a Formula"
-    path: "158 - The Equated Captives.mini2sf"
-    type: warning
-  - id: a_tight_spot_during_battle_trouble
-    title: "A Tight Spot During Battle!"
-    path: "160 - Battle Trouble!.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_parasol_lady
-    title: "Trainers' Eyes Meet (Parasol Lady)"
-    path: "205 - Encounter! Parasol Lady.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_scientist
-    title: "Trainers' Eyes Meet (Scientist)"
-    path: "206 - Encounter! Scientist.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_psychic
-    title: "Trainers' Eyes Meet (Psychic)"
-    path: "212 - Encounter! Psychic.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_team_plasma
-    title: "Trainers' Eyes Meet (Team Plasma)"
-    path: "215 - Encounter! Team Plasma.mini2sf"
-    type: warning
-  - id: dragonspiral_tower_top_floor
-    title: "Dragonspiral Tower Top Floor"
-    path: "216 - Top Floor of Dragon Spiral Tower.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_roughneck
-    title: "Trainers' Eyes Meet (Roughneck)"
-    path: "222 - Encounter! Roughneck.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_ace_trainer_black_white
-    title: "Trainers' Eye Meet (Ace Trainer)"
-    path: "227 - Encounter! Ace Trainer.mini2sf"
-    type: warning
-  - id: the_pokemon_league_besieged_siege
-    title: "The Pokémon League Besieged!"
-    path: "230 - Siege on the Pokémon League.mini2sf"
-    type: warning
-  - id: ghetsis_ambitions
-    title: "Ghetsis' Ambitions"
-    path: "238 - Geechisu's Ambitions.mini2sf"
-    type: warning
-  - id: farewell
-    title: "Farewell"
-    path: "240 - Farewell.mini2sf"
-    type: break
-  - id: spin_trade
-    title: "Spin Trade"
-    path: "308 - Spin Trade.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_cyclist
-    title: "Trainers' Eyes Meet (Cyclist)"
-    path: "333 - Encounter! Cyclist.mini2sf"
-    type: warning
-  - id: trainers_eyes_meet_encounter_pokefan_black_white
-    path: "337 - Encounter! PokéFan.mini2sf"
-    title: "Trainers' Eyes Meet (Pokéfan)"
-    type: warning
-  - id: trainers_eyes_meet_encounter_gentleman_black_white
-    title: "Trainers' Eyes Meet (Gentleman)"
-    path: "346 - Encounter! Gentleman.mini2sf"
-    type: warning
-  - id: cynthias_theme_black_white
-    title: "Cynthia's Theme"
-    path: "349 - Cynthia's Theme.mini2sf"
-    type: warning
-  - id: challenging_a_battle_competition
-    title: "Challenging a Battle Competition"
-    path: "408 - Challenge the Battle Tournament.mini2sf"
-    type: warning
-  - id: team_rocket_black_white
-    title: "Team Rocket!"
-    path: "409 - Team Rocket!.mini2sf"
-    type: warning
-  - id: poke_transfer_choose_your_pokemon_pokeshifter
-    title: "Poké Transfer: Choose Your Pokémon!"
-    path: "335 - PokéShifter Choose a Pokemon!.mini2sf"
-    type: warning
-  - id: poke_transfer_catch_your_pokemon_pokeshifter
-    title: "Poké Transfer: Catch Your Pokémon!"
-    path: "336 - PokéShifter Catch a Pokemon!.mini2sf"
-    type: warning
-  - id: entralink_mission
-    title: "Entralink Mission"
-    path: "Entralink Mission.brstm"
-    type: warning
-  - id: gate_black_white
-    title: "Gate"
-    path: "149 - Gate.mini2sf"
+  - id: relic_song_black_white
+    title: "Relic Song"
+    path: "999 - (0448) BGM_E_INISHIE.mini2sf"
+    type: result
+  - id: summer_in_lacunosa
+    title: "Summer in Lacunosa"
+    path: "Summer in Kagome (Lacunosa Town Remix).brstm"
     type: break
   - id: a_lullaby_for_trains
     title: "A Lullaby for Trains"
     path: "Lullaby for Trains.brstm"
     type: break
+  - id: last_final_battle_n_remix
+    title: "Final Battle! (N Remix)"
+    path: "LAST BATTLE -N^n mix- (N Final Battle Remix).brstm"
+    type: battle
   - id: farewell_refrain_sayonara
     title: "Farewell (Refrain)"
     path: "Sayonara -Refrain- (Sayonara - N's Farewell Remix).brstm"
     type: break
-  - id: summer_in_kagome
-    title: "Summer in Kagome"
-    path: "Summer in Kagome (Lacunosa Town Remix).brstm"
-    type: break
-  - id: the_royal_unova_pleasure_boat
-    title: "The Royal Unova"
-    path: "Pleasure Boat.brstm"
-    type: break
-  - id: opelucid_city_white
-    title: "Opelucid City (White)"
-    path: "Opelucid City (White).brstm"
-    type: betting
-  - id: relic_song_black_white
-    title: "Relic Song"
-    path: "999 - (0448) BGM_E_INISHIE.mini2sf"
-    type: result
 ...

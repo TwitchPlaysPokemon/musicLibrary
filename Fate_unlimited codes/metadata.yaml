@@ -1,9 +1,59 @@
+---
 id: fate_unlimited_codes
 title: "Fate/unlimited codes"
-year: 2008
 platform: ["Arcade", "PS2", "PSP"]
+year: 2008
 songs:
   - id: character_select_fuc
     title: "Character Select"
     path: "Character Select.brstm"
     type: betting
+  - id: all_the_world_s_evil
+    title: "All The World's Evil"
+    path: "BGM_00017.ADX"
+    type: betting
+  - id: legend_reborn
+    title: "Legend Reborn"
+    path: "BGM_00013.ADX"
+    type: betting
+  - id: mighty_wind
+    title: "Mighty Wind"
+    path: "BGM_00015.ADX"
+    type: battle
+  - id: sonic_barrage
+    title: "Sonic Barrage"
+    path: "BGM_00008.ADX"
+    type: betting
+  - id: burst_up
+    title: "Burst Up"
+    path: "BGM_00012.ADX"
+    type: betting
+  - id: colliding_spirits_clashing_souls
+    title: "Colliding Spirits (Clashing Souls)"
+    path: "BGM_00009.ADX"
+    type: betting
+  - id: excalibur_sword_of_promised_victory
+    title: "Excalibur (Sword of Promised Victory)"
+    path: "BGM_00018.ADX"
+    type: betting
+  - id: final_effort_last_strength
+    title: "Final Effort (Last Strength)"
+    path: "BGM_00014.ADX"
+    type: warning
+  - id: emiya
+    title: "Emiya"
+    path: "BGM_00019.ADX"
+    type: battle
+  - id: tempest_knight_lightning_swordsman
+    title: "Tempest Knight (Lightning Swordsman)"
+    path: "BGM_00010.ADX"
+    type: battle
+  - id: two_kings
+    title: "Two Kings"
+    path: "BGM_00011.ADX"
+    type: warning
+  - id: victory_theme
+    title: "Victory Theme"
+    path: "BGM_00025.ADX"
+    type: result
+...

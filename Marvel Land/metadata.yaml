@@ -1,11 +1,11 @@
 ---
-id: marvel_land
-title: "Marvel Land"
+id: marvel_land_arcade
+title: "Marvel Land [Arcade]"
 platform: ["Arcade", "Genesis"]
 year: 1989
 songs: 
-  - id: roller_coaster_side
-    title: "Roller Coaster Side"
+  - id: jet_coaster_stage
+    title: "Jet Coaster Stage"
     path: "Roller Coaster Side.brstm"
     type: betting
 ...

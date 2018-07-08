@@ -1,0 +1,23 @@
+---
+id: shantae
+title: "Shantae"
+platform: "GBC"
+year: 2002
+songs: 
+  - id: file_menu_shantae
+    title: "File Menu"
+    path: "File Select Menu.brstm"
+    type: warning
+  - id: boss_shantae
+    title: "Boss"
+    path: "Genie in a Battle! [Boss Battle].brstm"
+    type: warning
+  - id: mini_game_shantae
+    title: "Mini-Game"
+    path: "Rottytops Race & Gecko Chamber [Minigame].brstm"
+    type: result
+  - id: burning_town_shantae
+    title: "Burning Town"
+    path: "Scuttle Town Ablaze! (Intro Stage).brstm"
+    type: betting
+...

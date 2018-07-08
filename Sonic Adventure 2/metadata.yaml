@@ -231,4 +231,30 @@ songs:
     path: "BOSS_06.ADX"
     ends: 2:49
     type: betting
+  - id: a_ghost_s_pumpkin_soup_for_pumpkin_hill
+    title: "A Ghost's Pumpkin Soup ...for Pumpkin Hill"
+    path: "P_HILL.ADX"
+    type: betting
+  - id: deeper_for_death_chamber
+    title: "Deeper... for Death Chamber"
+    path: "D_CHAMBR.ADX"
+    type: betting
+  - id: e_g_g_m_a_n_theme_of_dr_eggman
+    title: "E.G.G.M.A.N. ...Theme of \"Dr. Eggman\""
+    path: "E.G.G.M.A.N. (OST Version).brstm"
+    ends: 3:00
+    type: betting
+  - id: kick_the_rock_for_wild_canyon
+    title: "Kick The Rock! ...for Wild Canyon"
+    path: "W_CANYON.ADX"
+    type: betting
+  - id: unknown_from_m_e_theme_of_knuckles_sa2
+    title: "Unknown from M.E. ...Theme of \"Knuckles\""
+    path: "Unknown from M.E. [Theme of Knuckles] (Looped).brstm"
+    ends: 3:06
+    type: betting
+  - id: dive_into_the_mellow_for_aquatic_mine
+    title: "Dive into the Mellow ...for Aquatic Mine"
+    path: "A_MINE.ADX"
+    type: betting
 ...

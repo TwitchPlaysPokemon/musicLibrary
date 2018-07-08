@@ -85,4 +85,24 @@ songs:
     title: "Road Taken"
     path: "Road Taken.brstm"
     type: break
+  - id: lost_in_thoughts_all_alone_en
+    title: "Lost in Thoughts All Alone (EN)"
+    path: "Lost in Thoughts All Alone.brstm"
+    type: betting
+  - id: the_water_maiden
+    title: "The Water Maiden"
+    path: "evt_aqua_C1.dspadpcm.bcstm"
+    type: break
+  - id: end_of_all_sky_en
+    title: "End of All (Sky) (EN)"
+    path: "End of All (Sky).brstm"
+    type: betting
+  - id: end_of_all_land_en
+    title: "End of All (Land) (EN)"
+    path: "End of All (Land).brstm"
+    type: betting
+  - id: end_of_all_below_en
+    title: "End of All (Below) (EN)"
+    path: "End of All (Below).brstm"
+    type: betting
 ...

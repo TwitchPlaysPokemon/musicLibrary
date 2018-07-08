@@ -1,0 +1,44 @@
+---
+id: soulcalibur_iv
+title: "SoulCalibur IV"
+series: soulcalibur
+platform: ["PS3", "360"]
+year: 2008
+songs: 
+  - id: tempered_soul
+    title: "TEMPERED SOUL"
+    path: "Tempered Soul.brstm"
+    type: betting
+  - id: thanatos
+    title: "THANATOS"
+    path: "Thanatos.brstm"
+    type: battle
+  - id: righteous_blade
+    title: "RIGHTEOUS BLADE"
+    path: "Righteous Blade.brstm"
+    type: warning
+  - id: immaculate_pledge
+    title: "IMMACULATE PLEDGE"
+    path: "Immaculate Pledge.brstm"
+    type: battle
+  - id: phantasmagoria
+    title: "PHANTASMAGORIA"
+    path: "Phantasmagoria.brstm"
+    type: battle
+  - id: light_of_salvation
+    title: "LIGHT OF SALVATION"
+    path: "Light Of Salvation.brstm"
+    type: warning
+  - id: destiny_will_tell
+    title: "DESTINY WILL TELL"
+    path: "Destiny Will Tell.brstm"
+    type: betting
+  - id: fateful_encounter
+    title: "FATEFUL ENCOUNTER"
+    path: "Fateful Encounter.brstm"
+    type: break
+  - id: winds_and_memories
+    title: "WINDS AND MEMORIES"
+    path: "Winds And Memories.brstm"
+    type: break
+...
