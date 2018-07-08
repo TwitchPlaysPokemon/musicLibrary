@@ -1,6 +1,6 @@
 id: the_sims
 title: "The Sims"
-platform: "PC"
+platform: ["PC", "PS2"]
 year: 2000
 songs:
   - id: buy_mode_1

@@ -18,7 +18,7 @@ songs:
     title: "Driftveil Gym"
     path: "058 SEQ_BGM_GROUND_GYM_01 (0427).mini2sf"
     type: betting
-  - id: n_s_castle
+  - id: n_s_castle_b2w2
     title: "N's Castle"
     path: "N's Castle.brstm"
     type: betting
@@ -30,7 +30,7 @@ songs:
     title: "White Treehollow: Entrance"
     path: "078 SEQ_BGM_MUGEN_lobby_W (043b).mini2sf"
     type: result
-  - id: black_tower
+  - id: black_tower_b2w2
     title: "Black Tower"
     path: "079 SEQ_BGM_MUGEN_D_B (043c).mini2sf"
     type: betting
