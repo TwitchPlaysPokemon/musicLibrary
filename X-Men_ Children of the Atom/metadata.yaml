@@ -1,25 +1,27 @@
 id: xmen_children_of_the_atom
-platform: ["Arcade", "Saturn", "PS1"]
 title: "X-Men: Children of the Atom"
+series: mvc
+platform: ["Arcade", "Saturn", "PS1"]
 year: 1994
 songs: 
   - id: theme_of_juggernaut
-    path: "Theme of Juggernaut.brstm"
     title: "Theme of Juggernaut"
+    path: "Theme of Juggernaut.brstm"
     type: warning
   - id: theme_of_omega_red_atom
-    path: "Theme of Omega Red.brstm"
     title: "Theme of Omega Red"
+    path: "Theme of Omega Red.brstm"
     type: betting
   - id: theme_of_magneto
-    path: "Theme of Magneto.brstm"
     title: "Theme of Magneto"
+    path: "Theme of Magneto.brstm"
     type: battle
   - id: continue_children_of_atom
-    path: "Continue.brstm"
     title: "Continue"
+    path: "Continue.brstm"
     type: warning
   - id: player_select_children_of_atom
-    path: "Player Select.brstm"
     title: "Player Select"
+    path: "Player Select.brstm"
     type: warning
+...

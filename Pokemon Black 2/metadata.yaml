@@ -34,11 +34,11 @@ songs:
     title: "Black Tower"
     path: "079 SEQ_BGM_MUGEN_D_B (043c).mini2sf"
     type: betting
-  - id: white_treehollow
+  - id: white_treehollow_b2w2
     title: "White Treehollow"
     path: "080 SEQ_BGM_MUGEN_D_W (043d).mini2sf"
     type: betting
-  - id: cheren_s_theme
+  - id: cheren_s_theme_b2w2
     title: "Cheren's Theme"
     path: "082 SEQ_BGM_E_CHEREN (043f).mini2sf"
     type: warning
@@ -92,7 +92,7 @@ songs:
     type: battle
   - id: battle_n_b2w2
     title: "Battle! (N)"
-    path: "132 SEQ_BGM_VS_SWAN_N (0471)"
+    path: "132 SEQ_BGM_VS_SWAN_N (0471).mini2sf"
     type: battle
   - id: battle_azelf_mesprit_uxie_b2w2
     title: "Battle! (Azelf/Mesprit/Uxie)"

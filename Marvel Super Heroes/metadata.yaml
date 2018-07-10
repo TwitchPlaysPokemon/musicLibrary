@@ -1,14 +1,14 @@
 id: marvel_super_heroes_vs_street_fighter
-platform: ["Arcade", "Saturn", "PS1"]
 title: "Marvel Super Heroes"
+series: mvc
+platform: ["Arcade", "Saturn", "PS1"]
 year: 1995
 songs: 
   - id: dr_doom_msh
     path: "Dr. Doom.brstm"
     title: "Dr. Doom"
-    ends: 2:02
     type: betting
-  - id: shuma_gorath
+  - id: shuma_gorath_msh
     path: "Shuma Gorath.brstm"
     title: "Shuma Gorath"
     type: warning
@@ -20,3 +20,4 @@ songs:
     path: "Juggernaut.brstm"
     title: "Juggernaut"
     type: battle
+...
