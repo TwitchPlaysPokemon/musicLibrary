@@ -1,52 +1,76 @@
 ---
-id: pokémon_ranger_guardian_signs
+id: pokemon_ranger_guardian_signs
 title: "Pokémon Ranger: Guardian Signs"
 series: pokemon
-year: 2010
 platform: "NDS"
+year: 2010
 songs:
   - id: dolce_island
     title: "Dolce Island"
-    path: "Dolce Island.mini2sf"
+    path: "0000 - SEQ_BGM_FLD_DROP.mini2sf"
     type: betting
-  - id: normal_capture
-    title: "Normal Capture"
-    path: "Normal Capture.mini2sf"
+  - id: renbow_party_ukulele_pichu_s_theme
+    title: "Renbow Party (Ukulele Pichu's Theme)"
+    path: "000c - SEQ_BGM_FLD_NIJIPARTY.mini2sf"
     type: result
-  - id: renbow_party
-    title: "Renbow Party"
-    path: "Renbow Party.brstm"
-    type: result
-  - id: ranger_sign_1
-    title: "Ranger Sign 1"
-    path: "Ranger Sign 1.brstm"
-    type: warning
-  - id: thunder_temple
-    title: "Thunder Temple"
-    path: "Thunder Temple.brstm"
+  - id: mitonga_island
+    title: "Mitonga Island"
+    path: "0002 - SEQ_BGM_FLD_MIRONDA.mini2sf"
     type: betting
+  - id: wild_pokemon_battle_guardian_signs
+    title: "Wild Pokémon Battle"
+    path: "002a - SEQ_BGM_CAP_NORMAL.mini2sf"
+    type: result
   - id: pokemon_pinchers_admin_battle
     title: "Pokémon Pinchers Admin Battle"
-    path: "Pokemon Pinchers Admin Battle.brstm"
+    path: "002c - SEQ_BGM_CAP_NAPPERS_LEADER.mini2sf"
     type: battle
-  - id: pokemon_pinchers_admin_encounter
-    title: "Pokémon Pinchers Admin Encounter"
-    path: "Pokemon Pinchers Admin Encounter.brstm"
+  - id: ranger_sign_1
+    title: "Ranger Sign 1"
+    path: "002e - SEQ_BGM_SIGN.mini2sf"
     type: warning
-  - id: pokemon_pinchers_grunt_encounter
-    title: "Pokémon Pinchers Grunt Encounter"
-    path: "Pokemon Pinchers Grunt Encounter.brstm"
-    type: warning
+  - id: faldera_volcano
+    title: "Faldera Volcano"
+    path: "0003 - SEQ_BGM_FLD_SOARA.mini2sf"
+    type: betting
+  - id: sopian_highway
+    title: "Sopian Highway"
+    path: "003a - SEQ_BGM_SUIRUIN.mini2sf"
+    type: betting
+  - id: mt_sorbet
+    title: "Mt. Sorbet"
+    path: "0004 - SEQ_BGM_FLD_FAMILIA.mini2sf"
+    type: betting
+  - id: cocona_village
+    title: "Cocona Village"
+    path: "0007 - SEQ_BGM_FLD_KOKONAMURA.mini2sf"
+    type: betting
+  - id: tilt_village
+    title: "Tilt Village"
+    path: "0008 - SEQ_BGM_FLD_NANAMEMURA.mini2sf"
+    type: betting
   - id: riding_on_legendary_beast
     title: "Riding on Legendary Beast"
-    path: "Riding on Legendary Beast.brstm"
+    path: "0018 - SEQ_BGM_FLD_RIDE.mini2sf"
     type: betting
+  - id: pokemon_pinchers_grunt_encounter
+    title: "Pokémon Pinchers Grunt Encounter"
+    path: "0022 - SEQ_BGM_EVE_NAPPERS.mini2sf"
+    type: warning
+  - id: pokemon_pinchers_admin_encounter
+    title: "Pokémon Pinchers Admin Encounter"
+    path: "0023 - SEQ_BGM_EVE_NAPPERS_LEADER.mini2sf"
+    type: warning
   - id: ending_guardian_signs
     title: "Ending"
-    path: "Ending.brstm"
+    path: "0033 - SEQ_BGM_STAFFROLL.mini2sf"
     type: result
-  - id: dark_temple_signs
+  - id: thunder_temple
+    title: "Thunder Temple"
+    path: "0045 - SEQ_BGM_FLD_NET_04.mini2sf"
+    type: betting
+  - id: dark_temple_guardian_signs
     title: "Dark Temple"
-    path: "Dark Temple.brstm"
+    path: "0046 - SEQ_BGM_FLD_NET_05.mini2sf"
     type: warning
 ...

@@ -5,6 +5,10 @@ series: finalfantasy
 platform: "PS1"
 year: 2000
 songs: 
+  - id: a_place_to_call_home
+    title: "A Place to Call Home"
+    path: "101 The Place I'll Return to Someday.psf"
+    type: break
   - id: vamo_alla_flamenco
     title: "Vamo' alla Flamenco"
     path: "107 Vamo' Alla Flamenco.psf"
@@ -85,6 +89,10 @@ songs:
     title: "Esto Gaza, the Sacred Grounds"
     path: "324 Esto Gaza.psf"
     type: betting
+  - id: not_alone
+    title: "Not Alone"
+    path: "409 You're Not Alone!.psf"
+    type: betting
   - id: silver_dragon
     title: "Silver Dragon"
     path: "412 Assault of the White Dragons.psf"
@@ -93,4 +101,8 @@ songs:
     title: "The Final Battle"
     path: "416 Final Battle.psf"
     type: battle
+  - id: blank_turns_to_stone
+    title: "Blank Turns to Stone"
+    path: "Blank Petrificates_Blank Turns to Stone.brstm"
+    type: warning
 ...

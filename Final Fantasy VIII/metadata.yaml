@@ -16,7 +16,11 @@ songs:
   - id: seed
     title: "SeeD"
     path: "107 SeeD.psf"
-    type: result
+    type: betting
+  - id: the_landing
+    title: "The Landing"
+    path: "108 The Landing.psf"
+    type: betting
   - id: force_your_way
     title: "Force Your Way"
     path: "110 Force Your Way.psf"
@@ -29,6 +33,10 @@ songs:
     title: "Shuffle Or Boogie"
     path: "115 Shuffle Or Boogie.psf"
     type: battle
+  - id: waltz_for_the_moon
+    title: "Waltz for the Moon"
+    path: "116 Waltz For the Moon.psf"
+    type: betting
   - id: the_man_with_the_machine_gun
     title: "The Man with the Machine Gun"
     path: "119 The Man With the Machine Gun.psf"
@@ -65,6 +73,10 @@ songs:
     title: "Movin'"
     path: "303 Movin'.psf"
     type: battle
+  - id: fisherman_s_horizon
+    title: "Fisherman's Horizon"
+    path: "307 Fisherman's Horizon.psf"
+    type: break
   - id: residents
     title: "Residents"
     path: "319 Residents.psf"
@@ -72,6 +84,10 @@ songs:
   - id: mods_de_chocobo_feauturing_n_s_telecaster
     title: "Mods de Chocobo(featuring N's Telecaster)"
     path: "401 Mods de Chocobo.psf"
+    type: betting
+  - id: the_castle
+    title: "The Castle"
+    path: "406 The Castle.psf"
     type: betting
   - id: the_legendary_beast
     title: "The Legendary Beast"

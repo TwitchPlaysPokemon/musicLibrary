@@ -1,0 +1,21 @@
+---
+id: killer_instinct_snes
+title: "Killer Instinct [SNES]"
+series: killerinstinct
+platform: ["Arcade", "SNES", "GB"]
+year: 1994
+songs:
+  - id: player_select_ki_snes
+    title: "Player Select"
+    path: "02 Player Select.spc"
+    type: warning
+  - id: glacius_ki_snes
+    title: "Glacius"
+    path: "18 Glacius.spc"
+    tags: [xmas]
+    type: betting
+  - id: jago_theme_ki_snes
+    title: "Jago's Theme"
+    path: "21 Jago.spc"
+    type: betting
+...

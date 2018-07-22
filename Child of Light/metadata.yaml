@@ -13,4 +13,16 @@ songs:
     title: "Metal Gleamed in the Twilight"
     path: "Metal Gleamed in the Twilight.brstm"
     type: battle
+  - id: hymn_of_light_no_choir
+    title: "Hymn of Light (No Choir)"
+    path: "Hymn of Light (No Choir).brstm"
+    type: betting
+  - id: serpent_boss_battle
+    title: "Serpent Boss Battle"
+    path: "Serpent Boss Battle.brstm"
+    type: betting
+  - id: sword_of_mars
+    title: "Sword of Mars"
+    path: "Sword of Mars.brstm"
+    type: betting
 ...

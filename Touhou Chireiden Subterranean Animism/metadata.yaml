@@ -11,16 +11,16 @@ songs:
     ends: 3:00
     type: betting
   - id: solar_sect_of_mystic_wisdom_nuclear_fusion
-    path: "Solar Sect of Mystic Wisdom ~ Nuclear Fusion.brstm"
     title: "Utsuho's Theme: Solar Sect of Mystic Wisdom ~ Nuclear Fusion"
+    path: "Solar Sect of Mystic Wisdom ~ Nuclear Fusion.brstm"
     type: battle
   - id: hartmanns_youkai_girl_remix
-    path: "Hartmann Youkai Girl.brstm"
     title: "Hartmann's Youkai Girl (Remix)"
+    path: "Hartmann Youkai Girl.brstm"
     type: battle
   - id: the_sealed_away_youkai_lost_place
-    path: "Yamame's Theme - The Sealed-Away Youkai ~ Lost Place.brstm"
     title: "Yamame's Theme: The Sealed-Away Youkai ~ Lost Place"
+    path: "Yamame's Theme - The Sealed-Away Youkai ~ Lost Place.brstm"
     type: warning
   - id: a_flower_studded_sake_dish_on_mt_ooe
     title: "Yuugi's Theme: A Flower-Studded Sake Dish on Mt. Ooe"
@@ -31,7 +31,15 @@ songs:
     path: "Satori's Theme - Satori Maiden ~ 3rd Eye.brstm"
     type: warning
   - id: last_remote
-    path: "Last Remote.brstm"
     title: "Last Remote"
+    path: "Last Remote.brstm"
     type: warning
+  - id: parsee_s_theme_green_eyed_jealousy
+    title: "Parsee's Theme: Green-Eyed Jealousy"
+    path: "Green-Eyed Jealousy.brstm"
+    type: battle
+  - id: nuclear_fusion_arrange_by_demetori
+    title: "Nuclear Fusion (arrange by Demetori)"
+    path: "Nuclear Fusion (Demetori).brstm"
+    type: battle
 ...

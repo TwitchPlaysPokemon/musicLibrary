@@ -54,4 +54,29 @@ songs:
     title: "Simple Sight"
     path: "Simple Sight (Necromancer Boss theme).brstm"
     type: battle
+  - id: second_thoughts
+    title: "Second Thoughts"
+    path: "-Orr- Second Thoughts.brstm"
+    type: warning
+  - id: castle_crashers_menu_loop
+    title: "Castle Crashers Menu Loop"
+    path: "Castle Crashers Menu Loop.brstm"
+    type: betting
+  - id: sand_castle_crashing
+    title: "Sand Castle Crashing"
+    path: "Sand Castle Crashing.brstm"
+    type: betting
+  - id: spanish_waltz
+    title: "Spanish Waltz"
+    path: "Spanish Waltz (Shop Theme).brstm"
+    type: break
+  - id: techock
+    title: "Techock"
+    path: "Techock.brstm"
+    type: battle
+  - id: winterbliss
+    title: "Winterbliss"
+    path: "Winterbliss.brstm"
+    ends: 2:34
+    type: betting
 ...

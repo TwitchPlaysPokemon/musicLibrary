@@ -1,12 +1,25 @@
 ---
 id: beatmania_iidx_21_spada
-platform: "Arcade"
 title: "Beatmania IIDX 21: Spada"
 series: beatmania
+platform: "Arcade"
 year: 2012
 songs: 
   - id: extreme_mach_collider
-    path: "EXTREME MACH COLLIDER.brstm"
     title: "EXTREME MACH COLLIDER"
+    path: "EXTREME MACH COLLIDER.brstm"
+    type: battle
+  - id: adularia
+    title: "Adularia"
+    path: "Adularia.brstm"
+    type: battle
+  - id: deadball_de_homerun
+    title: "Deadball de Homerun"
+    path: "Deadball de Homerun.brstm"
+    ends: 1:46
+    type: betting
+  - id: pharaoh
+    title: "Pharaoh"
+    path: "Pharaoh.brstm"
     type: battle
 ...

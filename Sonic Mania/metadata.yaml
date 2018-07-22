@@ -181,4 +181,20 @@ songs:
     title: "Dimension Heist (UFO Special Stage)"
     path: "UFOSpecial.logg"
     type: betting
+  - id: angel_island_zone_mania
+    title: "Angel Island Zone"
+    path: "AngelIsland2.logg"
+    type: betting
+  - id: encore_save_select_double_take
+    title: "Encore Save Select (Double Take)"
+    path: "EncoreMenu.logg"
+    type: betting
+  - id: pinball_bonus_stage_trap_tower
+    title: "Pinball Stage (Trap Tower)"
+    path: "Pinball.logg"
+    type: betting
+  - id: mighty_ray_cutscene_back_in_action
+    title: "Mighty & Ray Cutscene (Back in Action)"
+    path: "Mighty & Ray Cutscene (Back in Action).brstm"
+    type: warning
 ...

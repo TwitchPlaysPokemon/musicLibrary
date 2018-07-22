@@ -65,4 +65,140 @@ songs:
     title: "Ink Another Day [Wet Floor]"
     path: "STRM_VersusResult_Lose.bfstm"
     type: result
+  - id: color_pulse_off_the_hook
+    title: "Color Pulse [Off the Hook]"
+    path: "STRM_Plaza_Fes.bfstm"
+    type: betting
+  - id: fresh_start_squid_sisters
+    title: "Fresh Start [Squid Sisters]"
+    path: "STRM_StaffRoll.bfstm"
+    type: betting
+  - id: into_the_kight_off_the_hook
+    title: "Into the Light [Off the Hook]"
+    path: "STRM_StaffRoll_Octa.bfstm"
+    type: betting
+  - id: tidal_rush_dj_octavio_feat_callie_vs_marie
+    title: "Tidal Rush [DJ Octavio feat. Callie vs. Marie]"
+    path: ".bfstm"
+    type: betting
+  - id: bomb_rush_blush_dj_octavio_feat_callie
+    title: "Bomb Rush Blush [DJ Octavio feat. Callie]"
+    path: "STRM_LastBoss2_Minigame.bfstm"
+    type: warning
+  - id: low_tide
+    title: "Low Tide"
+    path: "STRM_World_1stTime_Demo.bfstm"
+    type: break
+  - id: octarmaments_turquoise_october
+    title: "Octarmaments [Turquoise October]"
+    path: "STRM_Mission_Boss_Blitz_Minigame.bfstm"
+    type: warning
+  - id: splattack_octo_dedf1sh
+    title: "Splattack! (Octo) [Dedf1sh]"
+    path: "STRM_3GoBattle_Octa.bfstm"
+    type: warning
+  - id: broken_coral_ink_theory
+    title: "Broken Coral [Ink Theory]"
+    path: "STRM_Versus09.bfstm"
+    type: warning
+  - id: undertow_wet_floor
+    title: "Undertow [Wet Floor]"
+    path: "STRM_Versus03.bfstm"
+    type: betting
+  - id: without_a_dop_doubt
+    title: "Without a Dop Doubt"
+    path: "STRM_Lobby.bfstm"
+    type: betting
+  - id: muck_warfare_off_the_hook
+    title: "Muck Warfare [Off the Hook]"
+    path: "STRM_VersusFes03.bfstm"
+    type: betting
+  - id: shark_bytes_off_the_hook
+    title: "Shark Bytes [Off the Hook]"
+    path: "STRM_Daibutsu2_Octa.bfstm"
+    type: betting
+  - id: buoyant_boogie_turquoise_october
+    title: "Buoyant Boogie [Turquoise October]"
+    path: "STRM_Mission02_Blitz_Maji.bfstm"
+    type: betting
+  - id: blitz_it_chirpy_chips
+    title: "Blitz It [Chirpy Chips]"
+    path: "STRM_Versus11.bfstm"
+    type: betting
+  - id: acid_hues_off_the_hook
+    title: "Acid Hues [Off the Hook]"
+    path: "STRM_VersusFes02.bfstm"
+    type: betting
+  - id: the_shoal
+    title: "The Shoal"
+    path: "STRM_Lobby_Ikatcha.bfstm"
+    type: warning
+  - id: match_start_final_boss_octo
+    title: "Match Start (Final Boss) (Octo)"
+    path: "STRM_LastBossStartDemo_Octa.bfstm"
+    type: warning
+  - id: telephone_s_theme_octo
+    title: "Telephone's Theme (Octo)"
+    path: "STRM_DenwaTheme_Octa.bfstm"
+    type: warning
+  - id: 0_shell_dedf1sh
+    title: "#0 shell [Dedf1sh]"
+    path: "STRM_Stage_Start01_Octa.bfstm"
+    type: warning
+  - id: 1_progress_dedf1sh
+    title: "#1 progress [Dedf1sh]"
+    path: "STRM_Stage_test01_Octa.bfstm"
+    type: warning
+  - id: 2_ripped_dedf1sh
+    title: "#2 ripped [Dedf1sh]"
+    path: "STRM_Stage_test02_Octa.bfstm"
+    type: betting
+  - id: 4_dunno_dedf1sh
+    title: "#4 dunno [Dedf1sh]"
+    path: "STRM_Stage_think_Octa.bfstm"
+    type: warning
+  - id: 5_thirsty_dedf1sh
+    title: "#5 thirsty [Dedf1sh]"
+    path: "STRM_Departure03_1_Octa.bfstm"
+    type: betting
+  - id: 6_frisk_dedf1sh
+    title: "#6 frisk [Dedf1sh]"
+    path: "STRM_Stage_Sphere_Octa.bfstm"
+    type: betting
+  - id: 8_regret_dedf1sh
+    title: "#8 regret [Dedf1sh]"
+    path: "STRM_Stage_8ball_Octa.bfstm"
+    type: break
+  - id: 9_party_dedf1sh
+    title: "#9 party [Dedf1sh]"
+    path: "STRM_Stage_StrikeYoke_Octa.bfstm"
+    type: betting
+  - id: 11_above_dedf1sh
+    title: "#11 above [Dedf1sh]"
+    path: "STRM_Stage_test03_Octa.bfstm"
+    type: betting
+  - id: 12_awake_dedf1sh
+    title: "#12 awake [Dedf1sh]"
+    path: "STRM_Stage_ThinkMove_Octa.bfstm"
+    type: betting
+  - id: 13_shade_no_vocals_dedf1sh
+    title: "#13 shade (No Vocals) [Dedf1sh]"
+    path: "STRM_Stage_Sennyu_NoVocal_Octa.bfstm"
+    type: betting
+  - id: 14_crush_dedf1sh
+    title: "#14 crush [Dedf1sh]"
+    path: "STRM_Stage_March_Octa.bfstm"
+    type: betting
+  - id: 16_salty_dedf1sh
+    title: "#16 salty [Dedf1sh]"
+    path: "STRM_Stage_Aim_Octa.bfstm"
+    type: warning
+  - id: 19_bless_dedf1sh
+    title: "#19 bless [Dedf1sh]"
+    path: "STRM_Stage_Jingi_Octa.bfstm"
+    type: warning
+  - id: fly_octo_fly_ebb_flow_octo_off_the_hook
+    title: "Fly Octo Fly ~ Ebb & Flow (Octo) [Off the Hook]"
+    path: "STRM_LastBoss01_Octa.bfstm"
+    type: betting
 ...

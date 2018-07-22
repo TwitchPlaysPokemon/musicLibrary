@@ -2,8 +2,8 @@
 id: kingdom_hearts_3d_dream_drop_distance
 title: "Kingdom Hearts 3D: Dream Drop Distance"
 series: kingdomhearts
-year: 2012
 platform: "3DS"
+year: 2012
 songs:
   - id: xehanort_the_early_years
     title: "Xehanort -The Early Years-"
@@ -97,4 +97,8 @@ songs:
     title: "Xigbar"
     path: "Xigbar.brstm"
     type: warning
+  - id: l_eminenza_oscura_ii
+    title: "L'Eminenza Oscura II"
+    path: "bgm_031.bcstm"
+    type: battle
 ...

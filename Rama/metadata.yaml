@@ -1,0 +1,27 @@
+---
+id: rama
+title: "Rama"
+platform: ["PC", "PS1"]
+year: 1996
+songs: 
+  - id: theme_rama
+    title: "Theme"
+    path: "01RamaTheme.brstm"
+    type: betting
+  - id: avian_theatre
+    title: "Avian Theatre"
+    path: "04RamaAvianTheatre.brstm"
+    type: result
+  - id: octo_theme
+    title: "Octo Theme"
+    path: "06RamaOctoTheme.brstm"
+    type: break
+  - id: human_stereo
+    title: "Human Stereo"
+    path: "08HumanStereo.brstm"
+    type: betting
+  - id: new_york_danger
+    title: "New York Danger"
+    path: "19NewYorkDanger.brstm"
+    type: warning
+...

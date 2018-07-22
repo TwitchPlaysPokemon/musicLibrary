@@ -5,33 +5,153 @@ series: kirby
 platform: "NDS"
 year: 2011
 songs:
-  - id: way_blocked
-    title: "Way Blocked"
-    path: "Way Blocked.brstm"
-    type: warning
+  - id: meadow_breeze
+    title: "Meadow Breeze"
+    path: "001 Meadow Breeze.mini2sf"
+    type: betting
+  - id: dark_clouds_mass_attack
+    title: "Dark Clouds"
+    path: "003 Dark Clouds.mini2sf"
+    type: betting
+  - id: night_desert
+    title: "Night Desert"
+    path: "006 Night Desert.mini2sf"
+    type: betting
+  - id: ruins_at_night
+    title: "Ruins at Night"
+    path: "007 Ruins at Night.mini2sf"
+    type: betting
+  - id: fun_castle
+    title: "Fun Castle"
+    path: "011 Fun Castle.mini2sf"
+    type: result
+  - id: snowy_zone
+    title: "Snowy Zone"
+    path: "012 Snowy Zone.mini2sf"
+    type: betting
   - id: ice_realm
     title: "Icy Realm"
-    path: "Icy Realm.brstm"
+    path: "013 Icy Realm.mini2sf"
     tags: [xmas]
     type: betting
   - id: scalding_spring
     title: "Scalding Spring"
-    path: "Scalding Spring.brstm"
+    path: "014 Scalding Spring.mini2sf"
     type: battle
-  - id: strongest_sword
-    title: "Strongest Sword"
-    path: "Strongest Sword.brstm"
+  - id: off_into_space
+    title: "Off Into Space"
+    path: "017 Off into Space.mini2sf"
+    type: betting
+  - id: tree_to_tree
+    title: "Tree to Tree"
+    path: "019 Tree to Tree.mini2sf"
+    type: betting
+  - id: tough_enemy_mass_attack
+    title: "Tough Enemy"
+    path: "021 Tough Enemy.mini2sf"
+    type: battle
+  - id: piggy_enemy
+    title: "Piggy Enemy"
+    path: "022 Piggy Enemy.mini2sf"
     type: warning
-  - id: survival_lobby_mass_attack
-    title: "Survival Lobby"
-    path: "Survival Lobby.brstm"
-    type: warning
+  - id: terrifying_fiend
+    title: "Terrifying Fiend"
+    path: "023 Terrifying Fiend.mini2sf"
+    type: betting
+  - id: fetching_fruit
+    title: "Fetching Fruit"
+    path: "024 Fetching Fruit.mini2sf"
+    type: betting
   - id: base_infiltration_mass_attack
     title: "Base Infiltration"
-    path: "Base Infiltration.brstm"
+    path: "025 Base Infiltration.mini2sf"
+    type: betting
+  - id: underground_mass_attack
+    title: "Underground"
+    path: "028 Underground.mini2sf"
+    type: break
+  - id: surfing_stars
+    title: "Surfing Stars"
+    path: "035 Surfing Stars.mini2sf"
     type: betting
   - id: the_skull_gang
     title: "The Skull Gang"
-    path: "The Skull Gang.brstm"
+    path: "039 The Skull Gang.mini2sf"
+    type: warning
+  - id: foes_spring_up
+    title: "Foes Spring Up"
+    path: "043 Foes Spring Up.mini2sf"
+    type: warning
+  - id: kirby_collecting
+    title: "Kirby Collecting"
+    path: "045 Kirby Collecting.mini2sf"
+    type: betting
+  - id: daroach_reunion
+    title: "Daroach Reunion"
+    path: "046 Daroach Reunion.mini2sf"
+    type: break
+  - id: well_played
+    title: "Well Played"
+    path: "052 Well Played.mini2sf"
+    type: result
+  - id: necro_nebula
+    title: "Necro Nebula"
+    path: "061 Necro Nebula.mini2sf"
+    type: break
+  - id: eerie_island
+    title: "Eerie Island"
+    path: "064 Eerie Island.mini2sf"
+    type: betting
+  - id: down_to_one
+    title: "Down to One"
+    path: "066 Down to One.mini2sf"
+    type: result
+  - id: staff_collection_mass_attack
+    title: "Staff Collection"
+    path: "068 Staff Collection.mini2sf"
+    type: break
+  - id: slots_aplenty
+    title: "Slots Aplenty"
+    path: "073 Slots Aplenty.mini2sf"
+    type: result
+  - id: showdown_mass_attack
+    title: "Showdown"
+    path: "075 Showdown.mini2sf"
+    type: warning
+  - id: team_triumph
+    title: "Team Triumph"
+    path: "081 Team Triumph.mini2sf"
+    type: result
+  - id: way_blocked
+    title: "Way Blocked"
+    path: "082 Way Blocked.mini2sf"
+    type: warning
+  - id: the_asteroid
+    title: "The Asteroid"
+    path: "086 The Asteroid.mini2sf"
+    type: betting
+  - id: kirby_quest
+    title: "Kirby Quest"
+    path: "089 Kirby Quest.mini2sf"
+    type: warning
+  - id: kirby_conflict
+    title: "Kirby Conflict"
+    path: "090 Kirby Conflict.mini2sf"
+    type: warning
+  - id: strongest_sword
+    title: "Strongest Sword"
+    path: "094 Strongest Sword.mini2sf"
+    type: warning
+  - id: time_to_shine
+    title: "Time to Shine"
+    path: "095 Time to Shine.mini2sf"
+    type: warning
+  - id: action_heaven
+    title: "Action Heaven"
+    path: "096 Action Heaven.mini2sf"
+    type: warning
+  - id: survival_lobby_mass_attack
+    title: "Survival Lobby"
+    path: "100 Survival Lobby.mini2sf"
     type: warning
 ...

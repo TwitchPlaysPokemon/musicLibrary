@@ -5,9 +5,37 @@ series: mario
 platform: "SNES"
 year: 1992
 songs:
+  - id: main_theme_super_mario_kart
+    title: "Main Theme"
+    path: "02 Main Theme.spc"
+    type: result
+  - id: choose_your_driver_super_mario_kart
+    title: "Choose Your Driver"
+    path: "03 Choose Your Driver.spc"
+    type: result
   - id: donut_plains_super_mario_kart
     title: "Donut Plains"
     path: "09 Donut Plains.spc"
+    type: betting
+  - id: ghost_valley_super_mario_kart
+    title: "Ghost Valley"
+    path: "11 Ghost Valley.spc"
+    type: warning
+  - id: bowser_s_castle_super_mario_kart
+    title: "Bowser's Castle"
+    path: "13 Bowser's Castle.spc"
+    type: warning
+  - id: choco_island_super_mario_kart
+    title: "Choco Island"
+    path: "15 Choco Island.spc"
+    type: betting
+  - id: koopa_beach_super_mario_kart
+    title: "Koopa Beach"
+    path: "17 Koopa Beach.spc"
+    type: betting
+  - id: vanilla_lake_super_mario_kart
+    title: "Vanilla Lake"
+    path: "19 Vanilla Lake.spc"
     type: betting
   - id: rainbow_road_super_mario_kart
     title: "Rainbow Road"
@@ -17,16 +45,56 @@ songs:
     title: "Rainbow Road (Final Lap)"
     path: "22 Rainbow Road (Final Lap).spc"
     type: warning
-  - id: toads_ranks
+  - id: invincible_super_mario_kart
+    title: "Invincible"
+    path: "24 Invincible.spc"
+    type: warning
+  - id: mario_s_ranks_super_mario_kart
+    title: "Mario's Ranks"
+    path: "28 Mario's Ranks.spc"
+    type: result
+  - id: luigi_s_ranks_super_mario_kart
+    title: "Luigi's Ranks"
+    path: "29 Luigi's Ranks.spc"
+    type: result
+  - id: peach_s_ranks_super_mario_kart
+    title: "Peach's Ranks"
+    path: "30 Peach's Ranks.spc"
+    type: result
+  - id: toad_s_ranks
     title: "Toad's Ranks"
     path: "31 Toad's Ranks.spc"
     type: result
-  - id: yoshis_ranks
+  - id: yoshi_s_ranks
     title: "Yoshi's Ranks"
     path: "32 Yoshi's Ranks.spc"
     type: result
-  - id: donkey_kong_jrs_ranks
+  - id: donkey_kong_jr_s_ranks
     title: "Donkey Kong Jr.'s Ranks"
     path: "33 Donkey Kong Jr.'s Ranks.spc"
     type: result
+  - id: bowser_s_ranks_super_mario_kart
+    title: "Bowser's Ranks"
+    path: "34 Bowser's Ranks.spc"
+    type: warning
+  - id: koopa_troopa_s_ranks_super_mario_kart
+    title: "Koopa Troopa's Ranks"
+    path: "35 Koopa Troopa's Ranks.spc"
+    type: result
+  - id: tournament_win_super_mario_kart
+    title: "Tournament Win"
+    path: "36 Tournament Win.spc"
+    type: result
+  - id: tournament_lose_super_mario_kart
+    title: "Tournament Lose"
+    path: "37 Tournament Lose.spc"
+    type: result
+  - id: battle_mode_super_mario_kart
+    title: "Battle Mode"
+    path: "38 Battle Mode.spc"
+    type: betting
+  - id: vanilla_lake_beta_super_mario_kart
+    title: "Vanilla Lake (Beta)"
+    path: "Vanilla Lake (Beta).brstm"
+    type: betting
 ...

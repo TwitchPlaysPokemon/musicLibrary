@@ -9,4 +9,12 @@ songs:
     title: "Rising Sun"
     path: "Rising Sun.brstm"
     type: break
+  - id: battle_1_final_fantasy_adventure
+    title: "Battle 1"
+    path: "Battle 1.brstm"
+    type: warning
+  - id: battle_2_final_fantasy_adventure
+    title: "Battle 2"
+    path: "Battle 2.brstm"
+    type: warning
 ...

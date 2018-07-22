@@ -1,24 +1,28 @@
 ﻿---
 id: touhou_youyoumu_perfect_cherry_blossom
-platform: "PC"
 title: "Touhou Youyoumu ~ Perfect Cherry Blossom"
 series: touhou
+platform: "PC"
 year: 2003
 songs: 
   - id: bloom_nobly_cherry_blossoms_of_sumizone_arranged
-    path: "Bloom Nobly, Cherry Blossoms of Sumizone ~ Border of Life (Arranged).brstm"
     title: "Bloom Nobly, Cherry Blossoms of Sumizone ~ Border of Life (Arranged)"
+    path: "Bloom Nobly, Cherry Blossoms of Sumizone ~ Border of Life (Arranged).brstm"
     type: betting
   - id: doll_judgement_remix
-    path: "Doll Judgement.brstm"
     title: "Doll Judgement ~ The Girl Who Played with People's Shapes (Remix)"
+    path: "Doll Judgement.brstm"
     type: battle
   - id: demetori_necrofantasia
-    path: "Demetori Necrofantasia.brstm"
     title: "Necrofantasia (Arranged by Demetori)"
+    path: "Demetori Necrofantasia.brstm"
     type: battle
   - id: yukaris_theme_necrofantasia
-    path: "Yukari's Theme - Necrofantasia.brstm"
     title: "Yukari's Theme: Necrofantasia"
+    path: "Yukari's Theme - Necrofantasia.brstm"
     type: warning
+  - id: primsriver_sisters_theme_ghostly_band_phantom_ensemble
+    title: "Primsriver Sisters' Theme - Ghostly Band ~ Phantom Ensemble"
+    path: "Primsriver Sisters' Theme - Ghostly Band _ Phantom Ensemble.brstm"
+    type: battle
 ...

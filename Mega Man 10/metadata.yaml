@@ -5,57 +5,133 @@ series: megaman
 platform: ["Wii", "360", "PS3"]
 year: 2010
 songs:
+  - id: usual_day_mm10
+    title: "USUAL DAY"
+    path: "rm10_bgm 00033.at3"
+    type: result
+  - id: future_world
+    title: "FUTURE WORLD"
+    path: "rm10_bgm 00034.at3"
+    type: warning
+  - id: king_of_blades_blade_man_stage
+    title: "KING OF BLADES (BLADE MAN STAGE)"
+    path: "rm10_bgm 00007.at3"
+    type: betting
+  - id: desert_commando_commando_man_stage
+    title: "DESERT COMMANDO (COMMANDO MAN STAGE)"
+    path: "rm10_bgm 00010.at3"
+    type: betting
   - id: absolute_chill_chill_man_stage
-    title: "Absolute Chill (Chill Man Stage)"
+    title: "ABSOLUTE CHILL (CHILL MAN STAGE)"
     path: "rm10_bgm 00009.at3"
     tags: [xmas]
     type: betting
-  - id: silent_rain_dr_wily_stage_1
-    title: "Silent Rain (Dr. Wily Stage 1)"
-    path: "rm10_bgm 00017.at3"
-    type: warning
-  - id: no_turning_back_dr_wily_stage_3
-    title: "No Turning Back (Dr. Wily Stage 3)"
-    path: "rm10_bgm 00020.at3"
+  - id: cybersheep_s_dream_sheep_man_stage
+    title: "CYBERSHEEP'S DREAM (SHEEP MAN STAGE)"
+    path: "rm10_bgm 00011.at3"
     type: betting
-  - id: stairway_to_darkness_dr_wily_stage_4
-    title: "Stairway to Darkness (Dr. Wily Stage 4)"
-    path: "rm10_bgm 00021.at3"
+  - id: fireball_strike_strike_man_stage
+    title: "FIREBALL STRIKE (STRIKE MAN STAGE)"
+    path: "rm10_bgm 00012.at3"
+    type: betting
+  - id: nitro_rider_nitro_man_stage
+    title: "NITRO RIDER (NITRO MAN STAGE)"
+    path: "rm10_bgm 00013.at3"
+    type: betting
+  - id: solar_inferno_solar_man_stage
+    title: "SOLAR INFERNO (SOLAR MAN STAGE)"
+    path: "rm10_bgm 00014.at3"
+    type: betting
+  - id: boss_mm10
+    title: "BOSS"
+    path: "rm10_bgm 00015.at3"
     type: warning
+  - id: get_a_weapon_mm10
+    title: "GET A WEAPON"
+    path: "rm10_bgm 00005.at3"
+    type: result
+  - id: shop_rock
+    title: "SHOP -ROCK-"
+    path: "rm10_bgm 00024.at3"
+    type: result
+  - id: shop_blues
+    title: "SHOP -BLUES-"
+    path: "rm10_bgm 00025.at3"
+    type: result
   - id: shop_forte
-    title: "Shop -Forte-"
+    title: "SHOP -FORTE-"
     path: "rm10_bgm 00026.at3"
     type: warning
-  - id: endless_struggle_endless_stage
-    title: "Endless Struggle (Endless Stage)"
-    path: "rm10_bgm 00027.at3"
-    type: betting
-  - id: heart_of_enker_special_stage_1
-    title: "Heart of Enker (Special Stage 1)"
-    path: "rm10_bgm 00028.at3"
-    type: betting
-  - id: get_the_punk_out_special_stage_2
-    title: "Get the Punk Out (Special Stage 2)"
-    path: "rm10_bgm 00029.at3"
-    type: betting
-  - id: farewell_to_ballade_special_stage_3
-    title: "Farewell to Ballade (Special Stage 3)"
-    path: "rm10_bgm 00030.at3"
-    type: betting
-  - id: future_world
-    title: "Future World"
-    path: "rm10_bgm 00034.at3"
-    type: warning
   - id: crisis_mm10
-    title: "Crisis"
+    title: "CRISIS"
     path: "rm10_bgm 00037.at3"
     type: warning
   - id: evil_wily
-    title: "Evil Wily"
+    title: "EVIL WILY"
     path: "rm10_bgm 00038.at3"
     type: warning
+  - id: for_you_roll_s_theme
+    title: "FOR YOU -ROLL'S THEME-"
+    path: "rm10_bgm 00039.at3"
+    type: break
+  - id: silent_rain_dr_wily_stage_1
+    title: "SILENT RAIN (DR. WILY STAGE 1)"
+    path: "rm10_bgm 00017.at3"
+    type: warning
+  - id: dr_wily_stage_boss_mm10
+    title: "DR. WILY STAGE BOSS"
+    path: "rm10_bgm 00023.at3"
+    type: warning
+  - id: abandoned_memory_dr_wily_stage_1
+    title: "ABANDONED MEMORY (DR. WILY STAGE 1)"
+    path: "rm10_bgm 00018.at3"
+    type: betting
+  - id: against_the_pressure_dr_wily_stage_2
+    title: "AGAINST THE PRESSURE (DR. WILY STAGE 2)"
+    path: "rm10_bgm 00019.at3"
+    type: betting
+  - id: no_turning_back_dr_wily_stage_3
+    title: "NO TURNING BACK (DR. WILY STAGE 3)"
+    path: "rm10_bgm 00020.at3"
+    type: betting
+  - id: stairway_to_darkness_dr_wily_stage_4
+    title: "STAIRWAY TO DARKNESS (DR. WILY STAGE 4)
+    path: "rm10_bgm 00021.at3"
+    type: warning
+  - id: dr_wily_machine_mm10
+    title: "DR. WILY MACHINE"
+    path: "rm10_bgm 00031.at3"
+    type: warning
+  - id: deep_in_space_dr_wily_stage_5
+    title: "DEEP IN SPACE (DR. WILY STAGE 5)"
+    path: "rm10_bgm 00022.at3"
+    type: betting
+  - id: dr_wily_capsule_mm10
+    title: "DR. WILY CAPSULE"
+    path: "rm10_bgm 00032.at3"
+    type: warning
   - id: staff_roll_mm10
-    title: "Staff Roll"
+    title: "STAFF ROLL"
     path: "rm10_bgm 00043.at3"
     type: result
+  - id: challenges
+    title: "CHALLENGES"
+    path: "rm10_bgm 00044.at3"
+    type: betting
+  - id: endless_struggle_endless_stage
+    title: "ENDLESS STRUGGLE (ENDLESS STAGE)"
+    path: "rm10_bgm 00027.at3"
+    type: betting
+  - id: heart_of_enker_special_stage_1
+    title: "HEART OF ENKER (SPECIAL STAGE 1)"
+    path: "rm10_bgm 00028.at3"
+    type: betting
+  - id: get_the_punk_out_special_stage_2
+    title: "GET THE PUNK OUT (SPECIAL STAGE 2)"
+    path: "rm10_bgm 00029.at3"
+    type: betting
+  - id: farewell_to_ballade_special_stage_3
+    title: "FAREWELL TO BALLADE (SPECIAL STAGE 3)"
+    path: "rm10_bgm 00030.at3"
+    type: betting
 ...

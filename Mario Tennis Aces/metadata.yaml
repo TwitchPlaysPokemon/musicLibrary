@@ -1,0 +1,96 @@
+---
+id: mario_tennis_aces
+title: "Mario Tennis Aces"
+series: mariotennis
+platform: "Switch"
+year: 2018
+songs: 
+  - id: bask_ruins
+    title: "Bask Ruins"
+    path: "song_sand.dspadpcm.bfstm"
+    type: battle
+  - id: boss_mario_tennis_aces
+    title: "Boss"
+    path: "song_boss.dspadpcm.bfstm"
+    type: battle
+  - id: break_point_mario_tennis_aces
+    title: "Break Point"
+    path: "song_breakpoint.dspadpcm.bfstm"
+    type: warning
+  - id: challenge_mario_tennis_aces
+    title: "Challenge"
+    path: "song_mini.dspadpcm.bfstm"
+    type: battle
+  - id: final_boss_bowcien
+    title: "Final Boss - Bowcien"
+    path: "song_lboss.dspadpcm.bfstm"
+    type: battle
+  - id: game_point_mario_tennis_aces
+    title: "Game Point"
+    path: "song_gamepoint.dspadpcm.bfstm"
+    type: battle
+  - id: inferno_island
+    title: "Inferno Island"
+    path: "song_volcano.dspadpcm.bfstm"
+    type: betting
+  - id: lose_mario_tennis_aces
+    title: "Lose"
+    path: "song_resultlose.dspadpcm.bfstm"
+    type: result
+  - id: marina_stadium
+    title: "Marina Stadium"
+    path: "song_stadium.dspadpcm.bfstm"
+    type: battle
+  - id: match_point_mario_tennis_aces
+    title: "Match Point"
+    path: "song_matchpoint.dspadpcm.bfstm"
+    type: betting
+  - id: menu_mario_tennis_aces
+    title: "Menu"
+    path: "song_tennismenu.dspadpcm.bfstm"
+    type: betting
+  - id: mirage_mansion
+    title: "Mirage Mansion"
+    path: "song_hunted.dspadpcm.bfstm"
+    type: betting
+  - id: piranha_plant_forest
+    title: "Piranha Plant Forest"
+    path: "song_forest.dspadpcm.bfstm"
+    type: battle
+  - id: savage_sea
+    title: "Savage Sea"
+    path: "song_battleship.dspadpcm.bfstm"
+    type: betting
+  - id: set_point_mario_tennis_aces
+    title: "Set Point"
+    path: "song_setpoint.dspadpcm.bfstm"
+    type: warning
+  - id: snowfall_mountain
+    title: "Snowfall Mountain"
+    path: "song_snow.dspadpcm.bfstm"
+    type: betting
+  - id: staff_roll_mario_tennis_aces
+    title: "Staff Roll"
+    path: "song_end.dspadpcm.bfstm"
+    type: result
+  - id: tiebreaker_mario_tennis_aces
+    title: "Tiebreaker"
+    path: "song_tiebreak.dspadpcm.bfstm"
+    type: warning
+  - id: tournament_mario_tennis_aces
+    title: "Tournament"
+    path: "song_tournament.dspadpcm.bfstm"
+    type: betting
+  - id: trophy_win_mario_tennis_aces
+    title: "Trophy Win"
+    path: "song_award.dspadpcm.bfstm"
+    type: result
+  - id: win_mario_tennis_aces
+    title: "Win"
+    path: "song_resultwin.dspadpcm.bfstm"
+    type: result
+  - id: world_map_mario_tennis_aces
+    title: "World Map"
+    path: "song_worldmap.dspadpcm.bfstm"
+    type: betting
+...

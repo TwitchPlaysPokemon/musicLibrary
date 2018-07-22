@@ -1,0 +1,35 @@
+---
+id: octopath_traveler
+title: "Octopath Traveler"
+platform: "Switch"
+year: 2018
+songs: 
+  - id: battle_i_octopath_traveler
+    title: "Battle I"
+    path: "bgm_bat_battle01.hca"
+    type: battle
+  - id: victory_fanfare_octopath_traveler
+    title: "Victory Fanfare"
+    path: "bgm_jin_win.hca"
+    type: result
+  - id: sunshade_city_of_pleasures
+    title: "Sunshade, City of Pleasures"
+    path: "bgm_map_t_desert_sp.hca"
+    type: break
+  - id: tension_octopath_traveler
+    title: "Tension"
+    path: "bgm_event_kinpaku.hca"
+    type: warning
+  - id: the_sunlands
+    title: "The Sunlands"
+    path: "bgm_map_f_desert.hca"
+    type: betting
+  - id: decisive_battle_i
+    title: "Decisive Battle I"
+    path: "bgm_bat_mboss1.hca"
+    type: battle
+  - id: decisive_battle_ii
+    title: "Decisive Battle II"
+    path: "bgm_bat_mboss2.hca"
+    type: battle
+...

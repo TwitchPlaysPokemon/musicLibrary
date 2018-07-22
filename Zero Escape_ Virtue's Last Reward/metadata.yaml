@@ -7,19 +7,19 @@ year: 2012
 songs: 
   - id: ambidexterity
     title: "Ambidexterity"
-    path: "Ambidexterity.brstm"
+    path: "BGM01.bcstm"
     type: warning
   - id: biotope
     title: "Biotope"
-    path: "Biotope.brstm"
+    path: "BGM10.bcstm"
     type: betting
   - id: blue_bird_lamentation
     title: "Blue Bird Lamentation"
-    path: "Blue Bird Lamentation.brstm"
+    path: "BGM15_2.bcstm"
     type: break
   - id: demise_zero_escape
     title: "Demise"
-    path: "Demise.brstm"
+    path: "BGM18.bcstm"
     type: betting
   - id: divulgation
     title: "Divulgation"
@@ -49,4 +49,9 @@ songs:
     title: "GLTM-KM506"
     path: "BGMM28.bcstm"
     type: break
+  - id: virtue_s_last_reward_piano
+    title: "Virtue's Last Reward ~Piano~"
+    path: "BGM08_3.bcstm"
+    ends: 2:50
+    type: betting
 ...

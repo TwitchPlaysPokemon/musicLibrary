@@ -5,6 +5,10 @@ series: zelda
 platform: "N64"
 year: 1998
 songs: 
+  - id: title_theme_oot
+    title: "Title Theme"
+    path: "01 Title Theme.miniusf"
+    type: break
   - id: house_oot
     title: "House"
     path: "05 House.miniusf"

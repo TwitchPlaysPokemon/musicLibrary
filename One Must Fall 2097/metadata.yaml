@@ -1,0 +1,35 @@
+---
+id: one_must_fall_2097
+title: "One Must Fall 2097"
+platform: "PC"
+year: 1994
+songs: 
+  - id: main_theme_one_must_fall_2097
+    title: "Main Theme"
+    path: "03-MENU.S3M"
+    type: betting
+  - id: stadium_one_must_fall_2097
+    title: "Stadium"
+    path: "04-ARENA0.S3M"
+    type: betting
+  - id: danger_room_one_must_fall_2097
+    title: "Danger Room"
+    path: "05-ARENA1.S3M"
+    type: betting
+  - id: power_plant_one_must_fall_2097
+    title: "Power Plant"
+    path: "06-ARENA2.S3M"
+    type: battle
+  - id: fire_pit_one_must_fall_2097
+    title: "Fire Pit"
+    path: "07-ARENA3.S3M"
+    type: betting
+  - id: the_desert_one_must_fall_2097
+    title: "The Desert"
+    path: "08-ARENA4.S3M"
+    type: betting
+  - id: ending_one_must_fall_2097
+    title: "Ending"
+    path: "09-END.S3M"
+    type: break
+...

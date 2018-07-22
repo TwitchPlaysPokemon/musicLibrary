@@ -5,65 +5,169 @@ series: pokemon
 platform: "NDS"
 year: 2009
 songs:
-  - id: vast_ice_mountain_peak
-    title: "Vast Ice Mountain Peak"
-    path: "Vast Ice Mountain Peak.mini2sf"
-    tags: [xmas]
-    type: betting
-  - id: sky_peak_prairie
-    title: "Sky Peak Prairie"
-    path: "Sky Peak Prairie.mini2sf"
-    type: betting
-  - id: dark_ice_mountain
-    title: "Dark Ice Mountain"
-    path: "Dark Ice Mountain.mini2sf"
-    tags: [xmas]
-    type: betting
-  - id: barren_valley
-    title: "Barren Valley"
-    path: "Barren Valley.mini2sf"
-    type: betting
-  - id: vast_ice_mountain
-    title: "Vast Ice Mountain"
-    path: "Vast Ice Mountain.mini2sf"
-    tags: [xmas]
+  - id: spinda's_cafe
+    title: "Spinda's Cafe"
+    path: "027 Spinda's Cafe [0159].mini2sf"
     type: betting
   - id: shaymin_village
     title: "Shaymin Village"
-    path: "Shaymin Village.mini2sf"
+    path: "080 Shaymin Village [0177].mini2sf"
     type: betting
-  - id: team_charms_theme
-    title: "Team Charm's Theme"
-    path: "Team Charm's Theme.mini2sf"
-    type: battle
-  - id: a_fun_exploration
-    title: "A Fun Exploration"
-    path: "A Fun Exploration.mini2sf"
-    type: warning
-  - id: spinda's_cafe
-    title: "Spinda's Cafe"
-    path: "Spinda's Cafe.mini2sf"
+  - id: sky_peak_forest
+    title: "Sky Peak Forest"
+    path: "081 Sky Peak Forest [0155].mini2sf"
     type: betting
-  - id: for_a_new_life
-    title: "For a New Life"
-    path: "For a New Life.mini2sf"
+  - id: sky_peak_cave
+    title: "Sky Peak Cave"
+    path: "082 Sky Peak Cave [0095].mini2sf"
     type: betting
-  - id: living_spirit
-    title: "Living Spirit"
-    path: "Living Spirit.mini2sf"
-    type: break
+  - id: sky_peak_prairie
+    title: "Sky Peak Prairie"
+    path: "083 Sky Peak Prairie [0156].mini2sf"
+    type: betting
+  - id: sky_peak_coast
+    title: "Sky Peak Coast"
+    path: "084 Sky Peak Coast [0097].mini2sf"
+    type: betting
   - id: sky_peak_snowfield
     title: "Sky Peak Snowfield"
     path: "085 Sky Peak Snowfield [0157].mini2sf"
     tags: [xmas]
     type: betting
+  - id: sky_peak_final_pass
+    title: "Sky Peak Final Pass"
+    path: "086 Sky Peak Final Pass [0158].mini2sf"
+    type: betting
+  - id: sympathy
+    title: "Sympathy"
+    path: "103 Sympathy [0135].mini2sf"
+    type: break
+  - id: beyond_the_dream
+    title: "Beyond the Dream"
+    path: "104 Beyond the Dream [0136].mini2sf"
+    type: break
+  - id: air_of_unease
+    title: "Air of Unease"
+    path: "105 Air of Unease [0137].mini2sf"
+    type: warning
+  - id: star_cave
+    title: "Star Cave"
+    path: "106 Star Cave [0141].mini2sf"
+    type: betting
+  - id: deep_star_cave
+    title: "Deep Star Cave"
+    path: "107 Deep Star Cave [0142].mini2sf"
+    type: betting
+  - id: one_for_all_all_for_one
+    title: "One for All, All for One!"
+    path: "108 One for All, All for One! [0138].mini2sf"
+    type: betting
+  - id: murky_forest
+    title: "Murky Forest"
+    path: "109 Murky Forest [0094].mini2sf"
+    type: betting
+  - id: a_fun_exploration
+    title: "A Fun Exploration"
+    path: "110 A Fun Exploration [0176].mini2sf"
+    type: warning
+  - id: fortune_ravine
+    title: "Fortune Ravine"
+    path: "111 Fortune Ravine [0146].mini2sf"
+    type: betting
+  - id: fortune_ravine_depths
+    title: "Fortune Ravine Depths"
+    path: "112 Fortune Ravine Depths [0147].mini2sf"
+    type: warning
+  - id: defend_globe
+    title: "Defend Globe"
+    path: "114 Defend Globe [0163].mini2sf"
+    type: break
+  - id: spring_cave
+    title: "Spring Cave"
+    path: "116 Spring Cave [0098].mini2sf"
+    type: betting
+  - id: spring_cave_depths
+    title: "Spring Cave Depths"
+    path: "118 Spring Cave Depths [0140].mini2sf"
+    type: warning
+  - id: southern_jungle
+    title: "Southern Jungle"
+    path: "120 Southern Jungle [0096].mini2sf"
+    type: betting
+  - id: boulder_quarry
+    title: "Boulder Quarry"
+    path: "121 Boulder Quarry [0139].mini2sf"
+    type: betting
+  - id: illusion_stone_chamber
+    title: "Illusion Stone Chamber"
+    path: "122 Illusion Stone Chamber [0161].mini2sf"
+    type: break
+  - id: limestone_cavern
+    title: "Limestone Cavern"
+    path: "123 Limestone Cavern [0143].mini2sf"
+    type: betting
+  - id: team_charms_theme
+    title: "Team Charm's Theme"
+    path: "125a Team Charm's Theme [0165].mini2sf"
+    type: battle
+  - id: for_a_new_life
+    title: "For a New Life"
+    path: "126 For a New Life [0167].mini2sf"
+    type: betting
+  - id: barren_valley
+    title: "Barren Valley"
+    path: "127 Barren Valley [0148].mini2sf"
+    type: betting
+  - id: dark_wasteland
+    title: "Dark Wasteland"
+    path: "128 Dark Wasteland [0149].mini2sf"
+    type: betting
+  - id: spacial_cliffs
+    title: "Spacial Cliffs"
+    path: "129 Spacial Cliffs [0150].mini2sf"
+    type: betting
+  - id: dark_ice_mountain
+    title: "Dark Ice Mountain"
+    path: "130 Dark Ice Mountain [0151].mini2sf"
+    tags: [xmas]
+    type: betting
+  - id: living_spirit
+    title: "Living Spirit"
+    path: "131 Living Spirit [0168].mini2sf"
+    type: break
   - id: icicle_forest
     title: "Icicle Forest"
     path: "132 Icicle Forest [0152].mini2sf"
     tags: [xmas]
     type: betting
-  - id: fortune_ravine
-    title: "Fortune Ravine"
-    path: "111 Fortune Ravine [0146].mini2sf"
+  - id: proud_accomplishment
+    title: "Proud Accomplishment"
+    path: "133 Proud Accomplishment [0169].mini2sf"
+    type: break
+  - id: vast_ice_mountain
+    title: "Vast Ice Mountain"
+    path: "134 Vast Ice Mountain [0153].mini2sf"
+    tags: [xmas]
+    type: betting
+  - id: vast_ice_mountain_peak
+    title: "Vast Ice Mountain Peak"
+    path: "135 Vast Ice Mountain Peak [0154].mini2sf"
+    tags: [xmas]
+    type: betting
+  - id: in_the_morning_sun
+    title: "In the Morning Sun"
+    path: "136 In the Morning Sun [170].mini2sf"
+    type: break
+  - id: a_new_eorld
+    title: "A New World"
+    path: "137 A New World [0171].mini2sf"
+    type: break
+  - id: a_message_on_the_wind
+    title: "A Message on the Wind"
+    path: "140 A Message on the Wind [0175].mini2sf"
+    type: result
+  - id: life_goes_on
+    title: "Life Goes On!"
+    path: "141 Life Goes On! (Ending) [0173].mini2sf"
     type: betting
 ...

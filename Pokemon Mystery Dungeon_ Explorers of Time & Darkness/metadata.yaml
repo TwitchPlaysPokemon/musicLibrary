@@ -1,158 +1,342 @@
 ﻿---
-id: pokemon_mystery_dungeon_time_and_darkness
+id: pokemon_mystery_dungeon_explorers_of_time_darkness
 title: "Pokémon Mystery Dungeon: Explorers of Time & Darkness"
 series: pokemon
 platform: "NDS"
 year: 2007
 songs:
+  - id: top_menu_theme_pmdtad
+    title: "Top Menu Theme"
+    path: "02 Top Menu Theme [0002].mini2sf"
+    type: break
+  - id: welcome_to_the_world_of_pokemon_pmdtad
+    title: "Welcome to the World of Pokémon!"
+    path: "03 Welcome to the World of Pokemon! [0006].mini2sf"
+    type: break
+  - id: on_the_beach_at_dusk
+    title: "On the Beach at Dusk"
+    path: "04a On the Beach at Dusk [0069].mini2sf"
+    type: break
+  - id: beach_cave
+    title: "Beach Cave"
+    path: "05 Beach Cave [0021].mini2sf"
+    type: betting
+  - id: in_the_depths_of_the_pit_pmdtad
+    title: "In the Depths of the Pit"
+    path: "06 In the Depths of the Pit [0014].mini2sf"
+    type: warning
   - id: wigglytuffs_guild
     title: "Wigglytuff's Guild"
-    path: "Wigglytuff's Guild.mini2sf"
+    path: "08 Wigglytuff's Guild [0007].mini2sf"
     type: betting
+  - id: guildmaster_wigglytuff
+    title: "Guildmaster Wigglytuff"
+    path: "09 Guildmaster Wigglytuff [0073].mini2sf"
+    type: result
+  - id: goodnight_pmdtad
+    title: "Goodnight"
+    path: "10a Goodnight [0070].mini2sf"
+    type: break
   - id: drenched_bluff
     title: "Drenched Bluff"
-    path: "Drenched Bluff.mini2sf"
+    path: "12 Drenched Bluff [0022].mini2sf"
     type: betting
+  - id: job_clear_pmdtad
+    title: "Job Clear!"
+    path: "13 Job Clear! [0005].mini2sf"
+    type: result
+  - id: treasure_town
+    title: "Treasure Town"
+    path: "14 Treasure Town [0009].mini2sf"
+    type: betting
+  - id: heartwarming
+    title: "Heartwarming"
+    path: "15 Heartwarming [0131].mini2sf"
+    type: result
+  - id: growing_anxiety
+    title: "Growing Anxiety"
+    path: "16 Growing Anxiety [0074].mini2sf"
+    type: warning
+  - id: oh_no
+    title: "Oh No!"
+    path: "17 Oh No! [0078].mini2sf"
+    type: warning
+  - id: mt_bristle
+    title: "Mt. Bristle"
+    path: "18 Mt. Bristle [0023].mini2sf"
+    type: betting
+  - id: boss_battle_pmdtad
+    title: "Boss Battle!"
+    path: "19 Boss Battle! [0015].mini2sf"
+    type: warning
+  - id: the_gatekeepers
+    title: "The Gatekeepers"
+    path: "21 The Gatekeepers [0004].mini2sf"
+    type: betting
+  - id: outlaw_pmdtad
+    title: "Outlaw!"
+    path: "22 Outlaw! [0013].mini2sf"
+    type: warning
+  - id: i_saw_something_again
+    title: "I Saw Something Again..."
+    path: "23 I Saw Something Again... [0079].mini2sf"
+    type: warning
+  - id: waterfall_cave
+    title: "Waterfall Cave"
+    path: "24 Waterfall Cave [0024].mini2sf"
+    type: betting
+  - id: kecleon_s_shop_pmdtad
+    title: "Kecleon's Shop"
+    path: "25 Kecleon's Shop [0012].mini2sf"
+    type: betting
+  - id: team_skull_pmdtad
+    title: "Team Skull"
+    path: "26 Team Skull [0134].mini2sf"
+    type: warning
+  - id: apple_woods
+    title: "Apple Woods"
+    path: "27 Apple Woods [0025].mini2sf"
+    type: betting
+  - id: craggy_coast
+    title: "Craggy Coast"
+    path: "28 Craggy Coast [0026].mini2sf"
+    type: betting
+  - id: cave_and_side_path
+    title: "Cave and Side Path"
+    path: "29 Cave and Side Path [0027].mini2sf"
+    type: betting
+  - id: mt_horn
+    title: "Mt. Horn"
+    path: "30 Mt. Horn [0028].mini2sf"
+    type: betting
+  - id: foggy_forest
+    title: "Foggy Forest"
+    path: "31 Foggy Forest [0029].mini2sf"
+    type: betting
+  - id: steam_cave
+    title: "Steam Cave"
+    path: "32 Steam Cave [0030].mini2sf"
+    type: betting
+  - id: upper_steam_cave
+    title: "Upper Steam Cave"
+    path: "33 Upper Steam Cave [0031].mini2sf"
+    type: warning
   - id: amp_plains
     title: "Amp Plains"
-    path: "Amp Plains.mini2sf"
+    path: "34 Amp Plains [0032].mini2sf"
     type: betting
-  - id: northern_desert_pmde
+  - id: far_amp_plains
+    title: "Far Amp Plains"
+    path: "35 Far Amp Plains [0033].mini2sf"
+    type: betting
+  - id: monster_house_pmdtad
+    title: "Monster House!"
+    path: "36 Monster House! [0011].mini2sf"
+    type: warning
+  - id: rising_fear
+    title: "Rising Fear"
+    path: "37 Rising Fear [0133].mini2sf"
+    type: warning
+  - id: northern_desert_pmdtad
     title: "Northern Desert"
-    path: "Northern Desert.mini2sf"
+    path: "38 Northern Desert [0034].mini2sf"
     type: betting
-  - id: quicksand_pit_pmde
+  - id: quicksand_cave
+    title: "Quicksand Cave"
+    path: "39 Quicksand Cave [0035].mini2sf"
+    type: betting
+  - id: quicksand_pit_pmdtad
     title: "Quicksand Pit"
-    path: "Quicksand Pit.mini2sf"
+    path: "40 Quicksand Pit [0036].mini2sf"
     type: betting
-  - id: chasm_cave_pmde
+  - id: crystal_cave
+    title: "Crystal Cave"
+    path: "41 Crystal Cave [0037].mini2sf"
+    type: break
+  - id: crystal_crossing
+    title: "Crystal Crossing"
+    path: "42 Crystal Crossing [0038].mini2sf"
+    type: betting
+  - id: at_the_end_of_the_day_pmdtad
+    title: "At the End of the Day"
+    path: "43 At the End of the Day [0072].mini2sf"
+    type: break
+  - id: in_the_future
+    title: "In the Future"
+    path: "44 In the Future [0080].mini2sf"
+    type: warning
+  - id: planet_s_paralysis
+    title: "Planet's Paralysis"
+    path: "45 Planet's Paralysis [0081].mini2sf"
+    type: warning
+  - id: chasm_cave_pmdtad
     title: "Chasm Cave"
-    path: "Chasm Cave.mini2sf"
+    path: "46 Chasm Cave [0039].mini2sf"
     type: betting
-  - id: sealed_ruin_pmde
+  - id: dark_hill
+    title: "Dark Hill"
+    path: "47 Dark Hill [0040].mini2sf"
+    type: betting
+  - id: sealed_ruin_pmdtad
     title: "Sealed Ruin"
-    path: "Sealed Ruin.mini2sf"
+    path: "48 Sealed Ruin [0041].mini2sf"
+    type: betting
+  - id: deep_sealed_ruin
+    title: "Deep Sealed Ruin"
+    path: "49 Deep Sealed Ruin [0042].mini2sf"
+    type: warning
+  - id: dusk_forest
+    title: "Dusk Forest"
+    path: "50 Dusk Forest [0043].mini2sf"
+    type: betting
+  - id: deep_dusk_forest
+    title: "Deep Dusk Forest"
+    path: "51 Deep Dusk Forest [0044].mini2sf"
+    type: betting
+  - id: the_power_of_darkness
+    title: "The Power of Darkness"
+    path: "52 The Power of Darkness [0075].mini2sf"
+    type: warning
+  - id: treeshroud_forest
+    title: "Treeshroud Forest"
+    path: "53 Treeshroud Forest [0061].mini2sf"
     type: betting
   - id: brine_cave
     title: "Brine Cave"
-    path: "Brine Cave.mini2sf"
+    path: "54 Brine Cave [0046].mini2sf"
     type: betting
-  - id: through_the_sea_of_time
-    title: "Through the Sea of Time"
-    path: "Through the Sea of Time.mini2sf"
+  - id: lower_brine_cave
+    title: "Lower Brine Cave"
+    path: "55 Lower Brine Cave [0047].mini2sf"
     type: betting
-  - id: temporal_tower
-    title: "Temporal Tower"
-    path: "Temporal Tower.mini2sf"
-    type: betting
-  - id: primal_dialga
-    title: "Dialga's Fight to the Finish!"
-    path: "Dialga's Fight to the Finish!.mini2sf"
-    type: battle
-  - id: dont_ever_forget
-    title: "Don't Ever Forget..."
-    path: "Don't Ever Forget....mini2sf"
+  - id: hidden_land_pmdtad
+    title: "Hidden Land"
+    path: "56 Hidden Land [0048].mini2sf"
     type: break
-  - id: do_your_best_as_always
-    title: "Do Your Best, As Always!"
-    path: "Do Your Best, as Always!.mini2sf"
+  - id: hidden_highland
+    title: "Hidden Highland"
+    path: "57 Hidden Highland [0049].mini2sf"
     type: betting
-  - id: concealed_ruins_pmde
-    title: "Concealed Ruins"
-    path: "Concealed Ruins.mini2sf"
-    type: betting
-  - id: random_dungeon_theme_3
-    title: "Random Dungeon Theme 3"
-    path: "Random Dungeon Theme 3.brstm"
-    type: betting
-  - id: defy_the_legends_pmde
-    title: "Defy the Legends"
-    path: "Defy the Legends.mini2sf"
-    type: battle
-  - id: job_clear_pmde
-    title: "Job Clear!"
-    path: "Job Clear!.mini2sf"
-    type: result
-  - id: ending_theme_pmde
-    title: "Ending Theme"
-    path: "Ending Theme.mini2sf"
-    type: result
-  - id: in_the_depths_of_the_pit_pmde
-    title: "In the Depths of the Pit"
-    path: "In the Depths of the Pit.mini2sf"
-    type: warning
-  - id: boss_battle_pmde
-    title: "Boss Battle!"
-    path: "Boss Battle!.mini2sf"
-    type: warning
-  - id: outlaw_pmde
-    title: "Outlaw!"
-    path: "Outlaw!.mini2sf"
-    type: warning
-  - id: team_skull_pmde
-    title: "Team Skull"
-    path: "Team Skull.mini2sf"
-    type: warning
-  - id: upper_steam_cave
-    title: "Upper Steam Cave"
-    path: "Upper Steam Cave.mini2sf"
-    type: warning
-  - id: monster_house_pmde
-    title: "Monster House!"
-    path: "Monster House!.mini2sf"
-    type: warning
-  - id: planets_paralysis
-    title: "Planet's Paralysis"
-    path: "Planet's Paralysis.mini2sf"
-    type: warning
-  - id: sealed_ruin_pit
-    title: "Sealed Ruin Pit"
-    path: "Sealed Ruin Pit.brstm"
-    type: warning
-  - id: the_power_of_darkness
-    title: "The Power of Darkness"
-    path: "The Power of Darkness.mini2sf"
-    type: warning
   - id: battle_against_dusknoir
     title: "Battle Against Dusknoir"
-    path: "Battle against Dusknoir.mini2sf"
+    path: "58 Battle against Dusknoir [0017].mini2sf"
     type: warning
-  - id: temporal_spire_pmde
+  - id: time_gear
+    title: "Time Gear"
+    path: "59 Time Gear [0077].mini2sf"
+    type: break
+  - id: through_the_sea_of_time
+    title: "Through the Sea of Time"
+    path: "60 Through the Sea of Time [0082].mini2sf"
+    type: betting
+  - id: in_the_hands_of_fate
+    title: "In the Hands of Fate"
+    path: "61 In the Hands of Fate [0083].mini2sf"
+    type: break
+  - id: temporal_tower
+    title: "Temporal Tower"
+    path: "62 Temporal Tower [0050].mini2sf"
+    type: betting
+  - id: temporal_spire_pmdtad
     title: "Temporal Spire"
-    path: "Temporal Spire.mini2sf"
+    path: "63 Temporal Spire [0051].mini2sf"
     type: warning
   - id: down_a_dark_path
     title: "Down a Dark Path"
-    path: "Down a Dark Path.mini2sf"
+    path: "65 Down a Dark Path [0132].mini2sf"
     type: warning
-  - id: palkias_onslaught!
-    title: "Palkia's Onslaught!"
-    path: "Palkia's Onslaught!.mini2sf"
-    type: warning
-  - id: goodnight_pmde
-    title: "Goodnight"
-    path: "Goodnight.mini2sf"
-    type: break
-  - id: at_the_end_of_the_day_pmde
-    title: "At the End of the Day"
-    path: "At the End of the Day.mini2sf"
-    type: break
-  - id: time_restored_pmde
+  - id: primal_dialga
+    title: "Dialga's Fight to the Finish!"
+    path: "66 Dialga's Fight to the Finish! [0016].mini2sf"
+    type: battle
+  - id: time_restored_pmdtad
     title: "Time Restored"
-    path: "Time Restored.mini2sf"
+    path: "67 Time Restored [0084].mini2sf"
+    type: break
+  - id: dont_ever_forget
+    title: "Don't Ever Forget..."
+    path: "68 Don't Ever Forget... [0085].mini2sf"
     type: break
   - id: a_wish_for_peace
     title: "A Wish For Peace"
-    path: "A Wish for Peace.mini2sf"
+    path: "71 A Wish for Peace [0086].mini2sf"
     type: break
+  - id: memories_returned
+    title: "Memories Returned"
+    path: "72 Memories Returned [0088].mini2sf"
+    type: break
+  - id: ending_theme_pmdtad
+    title: "Ending Theme"
+    path: "74 Ending Theme [0090].mini2sf"
+    type: result
+  - id: mystifying_forest
+    title: "Mystifying Forest"
+    path: "76 Mystifying Forest [0052].mini2sf"
+    type: betting
+  - id: do_your_best_as_always
+    title: "Do Your Best, As Always!"
+    path: "77 Do Your Best, as Always! [0010].mini2sf"
+    type: betting
   - id: blizzard_island_rescue_team_medley
     title: "Blizzard Island Rescue Team Medley"
     path: "78 Blizzard Island Rescue Team Medley [0053].mini2sf"
     ends: 3:54
     tags: [xmas]
     type: betting
-  - id: hidden_land_pmde
-    title: "Hidden Land"
-    path: "56 Hidden Land [0048].mini2sf"
+  - id: surrounded_sea
+    title: "Surrounded Sea"
+    path: "79 Surrounded Sea [0054].mini2sf"
+    type: betting
+  - id: miracle_sea
+    title: "Miracle Sea"
+    path: "80 Miracle Sea [0060].mini2sf"
+    type: betting
+  - id: aegis_cave
+    title: "Aegis Cave"
+    path: "81 Aegis Cave [0056].mini2sf"
+    type: betting
+  - id: defy_the_legends_pmdtad
+    title: "Defy the Legends"
+    path: "82 Defy the Legends [0018].mini2sf"
+    type: battle
+  - id: concealed_ruins_pmdtad
+    title: "Concealed Ruins"
+    path: "83 Concealed Ruins [0057].mini2sf"
+    type: betting
+  - id: mt_travail
+    title: "Mt. Travail"
+    path: "84 Mt. Travail [0058].mini2sf"
+    type: betting
+  - id: in_the_nightmare
+    title: "In the Nightmare"
+    path: "85 In the Nightmare [0059].mini2sf"
+    type: betting
+  - id: palkias_onslaught!
+    title: "Palkia's Onslaught!"
+    path: "86 Palkia's Onslaught! [0123].mini2sf"
+    type: battle
+  - id: dark_crater
+    title: "Dark Crater"
+    path: "87 Dark Crater [0062].mini2sf"
+    type: betting
+  - id: deep_dark_crater
+    title: "Deep Dark Crater"
+    path: "88 Deep Dark Crater [0063].mini2sf"
+    type: betting
+  - id: random_dungeon_theme_1
+    title: "Random Dungeon Theme 1"
+    path: "89 Random Dungeon Theme 1 [0055].mini2sf"
+    type: betting
+  - id: random_dungeon_theme_2
+    title: "Random Dungeon Theme 2"
+    path: "90 Random Dungeon Theme 2 [0045].mini2sf"
+    type: betting
+  - id: marowak_dojo
+    title: "Marowak Dojo"
+    path: "91 Marowak Dogo [0003].mini2sf"
+    type: betting
+  - id: pelipper_island
+    title: "Pelipper Island"
+    path: "92 Pelipper Island [0192].mini2sf"
     type: break
 ...

@@ -1,23 +1,24 @@
+---
 id: xmen_vs_street_fighter
 title: "X-Men vs. Street Fighter"
 series: mvc
 platform: ["Arcade", "Saturn", "PS1"]
 year: 1996
 songs: 
-  - id: cyclops_xvsf
-    title: "Cyclos's Theme"
+  - id: cyclops_stage
+    title: "CYCLOPS STAGE"
     path: "CYCLOPS STAGE.brstm"
     type: betting
-  - id: gambit_xvsf
-    title: "Gambit's Theme"
+  - id: gambit_stage
+    title: "GAMBIT STAGE"
     path: "Gambit.brstm"
-    type: result
-  - id: charlie_xvsf
-    title: "Charlie's Theme"
+    type: betting
+  - id: nash_stage
+    title: "NASH STAGE"
     path: "Charlie's Theme.brstm"
     type: battle
-  - id: cammy_xvsf
-    title: "Cammy's Theme"
+  - id: cammy_stage
+    title: "CAMMY STAGE"
     path: "Cammy's Theme.brstm"
     type: battle
 ...

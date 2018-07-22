@@ -5,17 +5,25 @@ series: sonic
 platform: "Arcade"
 year: 1993
 songs: 
+  - id: quick_escape
+    title: "Quick! Escape!"
+    path: "01 Quick Escape.vgz"
+    type: warning
+  - id: run_run_run
+    title: "Run Run Run!"
+    path: "02 Run Run Run.vgz"
+    type: warning
+  - id: trap_tower
+    title: "Trap Tower"
+    path: "03 Trap Tower.vgz"
+    type: betting
   - id: ice_and_water
-    path: "Ice & Water.vgz"
     title: "Ice & Water"
+    path: "05 Ice & Water.vgz"
     tags: [xmas]
     type: betting
-  - id: quick_escape
-    path: "Quick! Escape!.vgz"
-    title: "Quick! Escape!"
-    type: warning
   - id: all_over
-    path: "All Over - Credits.vgz"
     title: "All Over - Credits"
+    path: "10 All Over - Credits.vgz"
     type: result
 ...

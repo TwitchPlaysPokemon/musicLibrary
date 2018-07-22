@@ -5,44 +5,72 @@ series: megaman
 platform: ["Wii", "360", "PS3"]
 year: 2008
 songs:
-  - id: dr_wily_stage_2_were_the_robots
-    title: "Dr. Wily Stage 2 - We're the Robots"
-    path: "We're the Robots (Dr. Wily Stage 2).brstm"
-    type: betting
-  - id: endless_mode_maze_of_death
-    title: "Endless Mode - Maze of Death"
-    path: "Endless Stage.brstm"
-    type: betting
-  - id: flash_in_the_dark
-    title: "Flash In The Dark (Dr. Wily Stage 1)"
-    path: "Flash In The Dark (Dr. Wily Stage 1).brstm"
-    type: betting
-  - id: hornet_dance_hornet_man
-    title: "Hornet Dance (Hornet Man Stage)"
-    path: "Hornet Dance (Hornet Man Stage).brstm"
-    type: betting
-  - id: jewel_man_stage_jewel_temptation
-    title: "Jewel Man Stage - Jewel Temptation"
-    path: "Jewel Temptation (Jewel Man Stage).brstm"
-    type: betting
-  - id: plug_electric_plug_man
-    title: "Plug Electric (Plug Man Stage)"
-    path: "Plug Electric (Plug Man Stage).brstm"
-    type: betting
-  - id: special_stage_mm9
-    title: "Special Stage (Fake Man)"
-    path: "Special Stage.brstm"
-    type: betting
-  - id: splash_woman_stage_splash_blue
-    title: "Splash Woman Stage - Splash Blue"
-    path: "Splash Blue (Splash Woman Stage).brstm"
-    type: betting
-  - id: thunder_tornado_tornado_man
-    title: "Thunder Tornado (Tornado Man Stage)"
-    path: "Thunder Tornado (Tornado Man Stage).brstm"
-    type: betting
+  - id: opening_1_mm9
+    title: "OPENING 1"
+    path: "OPENING 1.brstm"
+    type: result
   - id: opening_2_mm9
-    title: "Opening 2"
+    title: "OPENING 2"
     path: "OPENING 2.brstm"
     type: break
+  - id: concrete_jungle_concrete_man_stage
+    title: "CONCRETE JUNGLE (CONCRETE MAN STAGE)"
+    path: "Concrete Jungle (Concrete Man Stage).brstm"
+    type: betting
+  - id: thunder_tornado_tornado_man_stage
+    title: "THUNDER TORNADO (TORNADO MAN STAGE)"
+    path: "Thunder Tornado (Tornado Man Stage).brstm"
+    type: betting
+  - id: splash_blue_splash_woman_stage
+    title: "SPLASH BLUE (SPLASH WOMAN STAGE)"
+    path: "Splash Blue (Splash Woman Stage).brstm"
+    type: betting
+  - id: plug_electric_plug_man_stage
+    title: "PLUG ELECTRIC (PLUG MAN STAGE)"
+    path: "Plug Electric (Plug Man Stage).brstm"
+    type: betting
+  - id: jewel_temptation_jewel_man_stage
+    title: "JEWEL TEMPTATION (JEWEL MAN STAGE)"
+    path: "Jewel Temptation (Jewel Man Stage).brstm"
+    type: betting
+  - id: hornet_dance_hornet_man_stage
+    title: "HORNET DANCE (HORNET MAN STAGE)"
+    path: "Hornet Dance (Hornet Man Stage).brstm"
+    type: betting
+  - id: magma_burning_magma_man_stage
+    title: "MAGMA BURNING (MAGMA MAN STAGE)"
+    path: "Magma Burning (Magma Man Stage).brstm"
+    type: betting
+  - id: galaxy_fantasy_galaxy_man_stage
+    title: "GALAXY FANTASY (GALAXY MAN STAGE)"
+    path: "Galaxy Man.brstm"
+    type: betting
+  - id: boss_mm9
+    title: "BOSS"
+    path: "Boss.brstm"
+    type: warning
+  - id: flash_in_the_dark_dr_wily_stage_1
+    title: "FLASH IN THE DARK (DR. WILY STAGE 1)"
+    path: "Flash In The Dark (Dr. Wily Stage 1).brstm"
+    type: betting
+  - id: we_re_the_robots_dr_wily_stage_2
+    title: "WE'RE THE ROBOTS (DR. WILY STAGE 2)"
+    path: "We're the Robots (Dr. Wily Stage 2).brstm"
+    type: betting
+  - id: stange_world_dr_wily_stage_3
+    title: "STRANGE WORLD (DR. WILY STAGE 3)"
+    path: "Strange World (Dr. Wily Stage 3).brstm"
+    type: betting
+  - id: overdrive_scramble_special_stage
+    title: "OVERDRIVE SCRAMBLE (SPECIAL STAGE)"
+    path: "Special Stage.brstm"
+    type: betting
+  - id: maze_of_death_endless_stage
+    title: "MAZE OF DEATH (ENDLESS STAGE)"
+    path: "Endless Stage.brstm"
+    type: betting
+  - id: wily_machine_mm9
+    title: "WILY MACHINE"
+    path: "Wily Machine.brstm"
+    type: warning
 ...

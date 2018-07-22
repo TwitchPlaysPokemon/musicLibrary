@@ -1,0 +1,35 @@
+---
+id: mighty_morphin_power_rangers_the_movie_smd
+title: "Mighty Morphin' Power Rangers The Movie [SMD]"
+platform: "Various"
+year: 1994
+songs: 
+  - id: fight_mighty_morphin_power_rangers_the_movie_smd
+    title: "Fight"
+    path: "01 - Fight.vgz"
+    type: battle
+  - id: we_need_a_hero
+    title: "We Need a Hero"
+    path: "06 - We Need a Hero.vgz"
+    type: betting
+  - id: combat_mighty_morphin_power_rangers_the_movie_smd
+    title: "Combat"
+    path: "07 - Combat.vgz"
+    type: warning
+  - id: zords
+    title: "Zords"
+    path: "08 - Zords.vgz"
+    type: warning
+  - id: go_green_ranger_go
+    title: "Go Green Ranger Go"
+    path: "09 - Go Green Ranger Go.vgz"
+    type: warning
+  - id: 5_4_1
+    title: "5-4-1"
+    path: "10 - 5-4-1.vgz"
+    type: warning
+  - id: white_ranger_tiger_power
+    title: "White Ranger Tiger Power"
+    path: "19 - White Ranger Tiger Power.vgz"
+    type: warning
+...
