@@ -38,6 +38,10 @@ songs:
     title: "Sky Peak Final Pass"
     path: "086 Sky Peak Final Pass [0158].mini2sf"
     type: betting
+  - id: random_dungeon_theme_3
+    title: "Random Dungeon Theme 3"
+    path: "100 Random Dungeon Theme 3 [0145].mini2sf"
+    type: betting
   - id: sympathy
     title: "Sympathy"
     path: "103 Sympathy [0135].mini2sf"
@@ -156,7 +160,7 @@ songs:
     type: betting
   - id: in_the_morning_sun
     title: "In the Morning Sun"
-    path: "136 In the Morning Sun [170].mini2sf"
+    path: "136 In the Morning Sun [0170].mini2sf"
     type: break
   - id: a_new_eorld
     title: "A New World"
