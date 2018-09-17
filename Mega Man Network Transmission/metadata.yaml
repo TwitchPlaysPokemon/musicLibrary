@@ -5,28 +5,28 @@ series: megaman
 platform: "GCN"
 year: 2003
 songs: 
-  - id: water_service_bureau
+  - id: waterworks_cyberspace
+    title: "Waterworks Cyberspace"
     path: "Water Service Bureau.brstm"
-    title: "Water Service Bureau"
     type: betting
   - id: zero_gravity_area
-    path: "Zero Gravity Area.brstm"
     title: "Zero Gravity Area"
+    path: "Zero Gravity Area.brstm"
     type: betting
-  - id: blazing_internet
+  - id: internet_on_fire
+    title: "Internet on Fire"
     path: "Blazing Internet.brstm"
-    title: "Blazing Internet"
     type: battle
-  - id: boss_battle_mmnt
+  - id: navi_battle
+    title: "Navi Battle"
     path: "Boss Theme.brstm"
-    title: "Boss Theme"
     type: battle
-  - id: heros_theme
+  - id: new_determination
+    title: "New Determination"
     path: "Hero's Theme.brstm"
-    title: "Hero's Theme"
     type: result
-  - id: relaxation_mmnt
+  - id: peaceful_event
+    title: "Peaceful Event"
     path: "Relaxation.brstm"
-    title: "Relaxation"
     type: break
 ...

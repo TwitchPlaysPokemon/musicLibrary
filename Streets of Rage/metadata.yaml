@@ -1,43 +1,43 @@
 ---
 id: streets_of_rage
 title: "Streets of Rage"
+platform: "SMD"
 year: 1991
-platform: "Genesis"
 songs:
-  - id: fighting_in_the_street
-    title: "Fighting in the Street"
+  - id: fighting_in_the_street_round_1
+    title: "Fighting in the Street (ROUND 1)"
     path: "03 - Fighting in the Street.vgz"
     type: betting
-  - id: keep_the_groovin
-    title: "Keep the Groovin'"
-    path: "06 - Keep the Groovin'.vgz"
-    type: betting
-  - id: violent_breathing
-    title: "Violent Breathing"
-    path: "09 - Violent Breathing.vgz"
-    type: betting
-  - id: the_last_soul
-    title: "The Last Soul"
-    path: "10 - The Last Soul.vgz"
-    type: betting
-  - id: attack_the_barbarian
-    title: "Attack the Barbarian"
-    path: "12 - Attack the Barbarian.vgz"
-    type: betting
-  - id: dilapidated_town
-    title: "Dilapidated Town"
+  - id: dilapidated_town_round_2
+    title: "Dilapidated Town (ROUND 2)"
     path: "04 - Dilapidated Town.vgz"
     type: betting
-  - id: stealthy_steps
-    title: "Stealthy Steps"
-    path: "08 - Stealthy Steps.vgz"
-    type: betting
-  - id: moon_beach
-    title: "Moon Beach"
+  - id: moon_beach_round_3
+    title: "Moon Beach (ROUND 3)"
     path: "05 - Moon Beach.vgz"
     type: betting
-  - id: beatnik_on_the_ship
-    title: "Beatnik on the Ship"
+  - id: keep_the_groovin_round_4
+    title: "Keep the groovin' (ROUND 4)"
+    path: "06 - Keep the Groovin'.vgz"
+    type: betting
+  - id: beatnik_on_the_ship_round_5
+    title: "Beatnik on the Ship (ROUND 5)"
     path: "07 - Beatnik on the Ship.vgz"
+    type: betting
+  - id: stealthy_steps_round_6
+    title: "Stealthy Steps (ROUND 6)"
+    path: "08 - Stealthy Steps.vgz"
+    type: betting
+  - id: violent_breathing_round_7
+    title: "Violent Breathing (ROUND 7)"
+    path: "09 - Violent Breathing.vgz"
+    type: betting
+  - id: the_last_soul_round_8
+    title: "The Last Soul (ROUND 8)"
+    path: "10 - The Last Soul.vgz"
+    type: betting
+  - id: attack_the_barbarian_boss
+    title: "Attack the Barbarian (BOSS)"
+    path: "12 - Attack the Barbarian.vgz"
     type: betting
 ...

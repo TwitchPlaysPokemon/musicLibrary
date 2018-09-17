@@ -8,11 +8,7 @@ songs:
   - id: an_unpopular_location_hm
     title: "An Unpopular Location"
     path: "HMAnUnpopularLocation.brstm"
-    type: betting 
-  - id: magus_night_dbu #Song is under the incorrect game, move to "Touhou Sangetsusei ~ Great Fairy Wars".
-    title: "Magus Night (dBU Music)"
-    path: "magus_night_dbu.brstm"
-    type: battle
+    type: betting
   - id: futatsuiwa_from_sado_hm
     title: "Mamizou's Theme: Futatsuiwa from Sado"
     path: "HMMamizouThemeFutatsuiwafromSado.brstm"
@@ -30,7 +26,7 @@ songs:
     path: "Hartmann's Youkai Girl.brstm"
     type: warning
   - id: the_lost_emotion_hm
-    path: "The Lost Emotion.brstm"
     title: "Kokoro's Theme: The Lost Emotion"
+    path: "The Lost Emotion.brstm"
     type: warning
 ...

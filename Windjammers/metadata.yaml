@@ -1,0 +1,35 @@
+---
+id: windjammers_neo_geo
+title: "Windjammers"
+platform: "Neo Geo"
+year: 1994
+songs: 
+  - id: shoot_tiled_court
+    title: "SHOOT (TILED COURT)"
+    path: "03 Shoot!!.vgz"
+    type: battle
+  - id: windjammers_lawn_court
+    title: "WINDJAMMERS (LAWN COURT)"
+    path: "06 Windjammers.vgz"
+    type: betting
+  - id: hurry_dog_distance_disc_bowling_stage
+    title: "HURRY! (DOG DISTANCE & DISC BOWLING STAGE)"
+    path: "07 Hurry!.vgz"
+    type: result
+  - id: flying_power_disc_beach_court
+    title: "FLYING POWER DISC (BEACH COURT)"
+    path: "08 Flying Power Disc.vgz"
+    type: betting
+  - id: you_got_a_power_concrete_court
+    title: "YOU GOT A POWER (CONCRETE COURT)"
+    path: "09 You Got a Power.vgz"
+    type: betting
+  - id: reach_for_the_top_clay_court
+    title: "REACH FOR THE TOP (CLAY COURT)"
+    path: "10 Reach for the Top.vgz"
+    type: betting
+  - id: break_point_champs_stadium_court
+    title: "BREAK POINT CHAMPS (STADIUM COURT)"
+    path: "11 Break Point Champs.vgz"
+    type: battle
+...

@@ -17,9 +17,29 @@ songs:
     title: "Falling Down (Final Battle)"
     path: "31 Falling Down (Final Battle).minigsf"
     type: battle
+  - id: ciel_d_aube_epilogue
+    title: "Ciel d'aube (Epilogue)"
+    path: "32 Ciel d'aube (Epilogue).minigsf"
+    type: break
+  - id: promise_next_new_world_ending_theme
+    title: "33a Promise - Next New World (Ending Theme)"
+    path: "33a Promise - Next New World (Ending Theme).minigsf"
+    type: break
   - id: esperanto_mythos_ver
     title: "Esperanto -Mythos Ver.-"
     path: "Esperanto -Mythos Ver.- (Full Looped).brstm"
     ends: 2:50
     type: betting
+  - id: esperanto_physis_ver
+    title: "Esperanto -Physis Ver.-"
+    path: "Esperanto -Physis Ver.-.brstm"
+    type: betting
+  - id: falling_down_physis_ver
+    title: "Falling Down -Physis Ver.-"
+    path: "Falling Down -Physis Ver.-.brstm"
+    type: battle
+  - id: power_field_physis_ver
+    title: "Power Field -Physis Ver.-"
+    path: "Power Field -Physis Ver.-.brstm"
+    type: battle
 ...

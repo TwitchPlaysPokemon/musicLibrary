@@ -13,10 +13,25 @@ songs:
     title: "Where We Used To Be"
     path: "005 - Where We Used To Be.nop"
     type: break
+  - id: counterattack
+    title: "Counterattack"
+    path: "008 - Counterattack.nop"
+    ends: 2:59
+    type: betting
   - id: desolation
     title: "Desolation"
     path: "026 - Desolation.nop"
     type: break
+  - id: eye_of_shining_justice
+    title: "Eye of Shining Justice"
+    path: "037 - Eye of Shining Justice.nop"
+    ends: 1:54
+    type: betting
+  - id: one_last_you
+    title: "One Last You"
+    path: "041 - One Last You.nop"
+    ends: 3:50
+    type: betting
   - id: gormott
     title: "Gormott"
     path: "043 - Gormott.nop"
@@ -31,12 +46,17 @@ songs:
     title: "Battle!!"
     path: "077 - Battle!!.nop"
     type: battle
+  - id: disappearing_world
+    title: "Disappearing World"
+    path: "050 - Disappearing World.nop"
+    ends: 2:47
+    type: betting
   - id: leftherian_archipelago
     title: "Leftherian Archipelago"
     path: "051 - Leftherian Archipelago.nop"
     type: break
   - id: leftherian_archipelago_night
-    title: "Leftherian Archipelago - Night"
+    title: "Leftherian Archipelago / Night"
     path: "052 - Leftherian Archipelago - Night.nop"
     type: break
   - id: tantal
@@ -44,7 +64,7 @@ songs:
     path: "053 - Tantal.nop"
     type: betting
   - id: tantal_night
-    title: "Tantal - Night"
+    title: "Tantal / Night"
     path: "054 - Tantal - Night.nop"
     type: betting
   - id: yggdrasil
@@ -52,8 +72,12 @@ songs:
     path: "055 - Yggdrasil.nop"
     type: betting
   - id: alba_cavanich_night
-    title: "Alba Cavanich - Night"
+    title: "Alba Cavanich / Night"
     path: "069 - Alba Cavanich - Night.nop"
+    type: break
+  - id: shadow_of_the_lowlands
+    title: "Shadow of the Lowlands"
+    path: "071 - Shadow of the Lowlands.nop"
     type: break
   - id: spirit_crucible_elpys
     title: "Spirit Crucible Elpys"
@@ -87,6 +111,14 @@ songs:
     title: "The Power of Jin"
     path: "087 - The Power of Jin.nop"
     type: betting
+  - id: after_despair_and_hope
+    title: "After Despair and Hope"
+    path: "089 - After Despair and Hope.nop"
+    type: battle
+  - id: bringer_of_chaos_ultimate
+    title: "Bringer of Chaos! Ultimate"
+    path: "090 - Bringer of Chaos! Ultimate.nop"
+    type: battle
   - id: the_ancient_vessel
     title: "The Ancient Vessel"
     path: "093 - The Ancient Vessel.nop"

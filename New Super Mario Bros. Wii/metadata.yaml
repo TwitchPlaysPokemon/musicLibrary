@@ -5,6 +5,10 @@ series: mario
 platform: "Wii"
 year: 2009
 songs: 
+  - id: aboveground_bgm_nsmbw
+    title: "Aboveground BGM"
+    path: "Overworld - Main Track.brstm"
+    type: betting
   - id: airship_nsmbw
     title: "Airship"
     path: "Airship.brstm"

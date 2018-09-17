@@ -1,0 +1,59 @@
+---
+id: galaxy_fight_universal_warriors
+title: "Galaxy Fight: Universal Warriors"
+platform: "Various"
+year: 1995
+songs: 
+  - id: power_of_fire_rolf_stage
+    title: "Power of Fire (Rolf Stage)"
+    path: "05 Power Of Fire.vgz"
+    type: battle
+  - id: yami_kagura_kazuma_stage
+    title: "Yami Kagura (Kazuma Stage)"
+    path: "07 Yami-Kagura.vgz"
+    type: warning
+  - id: eternal_beauty_forever_juri_stage
+    title: "Eternal Beauty Forever (Juri Stage)"
+    path: "09 Eternal Beauty Forever.vgz"
+    type: battle
+  - id: ancient_wrath_gunter_stage
+    title: "Ancient Wrath (Gunter Stage)"
+    path: "13 Ancient Wrath.vgz"
+    type: betting
+  - id: ba_rock_alvan_stage
+    title: "Ba-Rock (Alvan Stage)"
+    path: "15 Ba-Rock.vgz"
+    type: warning
+  - id: ethereal_dance_g_done_stage
+    title: "Ethereal Dance (G. Done Stage)"
+    path: "17 Ethereal Dance.vgz"
+    type: betting
+  - id: strong_of_bring_the_noise_musafar_stage
+    title: "Strong Of Bring The NOISE (Musafar Stage)"
+    path: "19 Strong of Bring The Noise.vgz"
+    type: betting
+  - id: trip_trip_trip_yacopu_stage
+    title: "Trip! Trip! Trip! (Yacopu Stage)"
+    path: "22 Trip! Trip! Trip!.vgz"
+    type: warning
+  - id: pressure_drop_felden_crais_stage
+    title: "Pressure Drop (Felden Crais Stage)"
+    path: "24 Pressure Drop.vgz"
+    type: warning
+  - id: you_will_not_a_mysterious_hermit_rouwe
+    title: "You Will Not A Mysterious Hermit (Rouwe)"
+    path: "26 You Will Not A Mysterious Hermit.vgz"
+    type: warning
+  - id: full_of_fight_rolf_musafar_ending
+    title: "FULL OF FIGHT (Rolf, Musafar Ending)"
+    path: "28 Full of Fight.vgz"
+    type: warning
+  - id: bloody_sabbath_kazuma_g_done_ending
+    title: "Bloody Sabbath (Kazuma, G. Done Ending)"
+    path: "29 Bloody Sabbath Day.vgz"
+    type: result
+  - id: good_fortune_gunter_alvan_ending
+    title: "GOOD FORTUNE! (Gunter, Alvan Ending)"
+    path: "30 Good Fortune!.vgz"
+    type: result
+...

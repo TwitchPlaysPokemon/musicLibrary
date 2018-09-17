@@ -5,25 +5,25 @@ series: metalgear
 platform: ["360", "PS3", "PC"]
 year: 2013
 songs:
-  - id: stains_of_time
+  - id: stains_of_time_instrumental
     title: "The Stains of Time (Instrumental)"
     path: "The Stains of Time (Instrumental).brstm"
     type: battle
-  - id: sukhumi_-_downtown_area
+  - id: sukhumi_downtown_area
     title: "Sukhumi - Downtown Area"
     path: "Sukhumi - Downtown Area.brstm"
     type: betting
-      #- id: rules_of_nature
-      #  title: "Rules of Nature"
-      #  path: "Rules of Nature.brstm"
-      #  type: betting
-      # too unfitting, and vocals not allowed
-  - id: it_has_to_be_this_way_(instrumental)
+  - id: it_has_to_be_this_way_instrumental
     title: "It Has to Be This Way (Instrumental)"
     path: "It Has to Be This Way (Instrumental).brstm"
     type: battle
-  - id: a_stranger_i_remain_(short_instrumental)
+  - id: a_stranger_i_remain_short_instrumental
     title: "A Stranger I Remain (Short Instrumental)"
     path: "A Stranger I Remain (Short Instrumental).brstm"
     type: battle
+  - id: rules_of_nature
+    title: "Rules of Nature"
+    path: "Rules of Nature.brstm"
+    ends: 3:30
+    type: betting
 ...

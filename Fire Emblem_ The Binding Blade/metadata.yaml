@@ -2,19 +2,31 @@
 id: fire_emblem_the_binding_blade
 title: "Fire Emblem: The Binding Blade"
 series: fireemblem
-year: 2002
 platform: "GBA"
+year: 2002
 songs:
-  - id: the_king_of_bern
-    title: "The King of Bern"
-    path: "41 The King of Bern.minigsf"
-    type: warning
-  - id: in_the_name_of_bern
-    title: "In the Name of Bern"
-    path: "23 In the Name of Bern.minigsf"
-    type: warning
+  - id: land_of_the_dragons
+    title: "Land of the Dragons"
+    path: "05 Land of the Dragons.minigsf"
+    type: betting
   - id: beyond_the_distant_skies_roys_journey
     title: "Beyond the Distant Skies - Roy's Journey"
     path: "10 Beyond the Sky (Roy's Journey).minigsf"
     type: betting
+  - id: path_of_the_divine_generals_roy_s_challenge
+    title: "Path of the Divine Generals (Roy's Challenge)"
+    path: "14 Path of the Divine Generals (Roy's Challenge).minigsf"
+    type: betting
+  - id: in_the_name_of_bern
+    title: "In the Name of Bern"
+    path: "23 In the Name of Bern.minigsf"
+    type: warning
+  - id: the_king_of_bern
+    title: "The King of Bern"
+    path: "41 The King of Bern.minigsf"
+    type: warning
+  - id: shaman_in_the_dark_ost
+    title: "Shaman in the Dark (OST)"
+    path: "Shaman in the Dark (OST).brstm"
+    type: warning
 ...

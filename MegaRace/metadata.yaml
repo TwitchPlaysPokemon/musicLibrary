@@ -1,0 +1,35 @@
+---
+id: megarace
+title: "MegaRace"
+platform: ["DOS", "Sega CD", "3DO"]
+year: 1993
+songs: 
+  - id: newsan
+    title: "Newsan"
+    path: "01 NewSan.vgm"
+    ends: 3:00
+    type: betting
+  - id: maeva
+    title: "Maeva"
+    path: "02 Magical Maeva.vgm"
+    type: betting
+  - id: factory_land
+    title: "Factory Land"
+    path: "03 Factory Land.vgm"
+    ends: 3:19
+    type: betting
+  - id: fractalian_space
+    title: "Fractalian Space"
+    path: "04 Fractalian Space.vgm"
+    ends: 2:49
+    type: betting
+  - id: skyholder
+    title: "Skyholder"
+    path: "05 Skyholder, The Last Chance Speedway, Credits.vgm"
+    ends: 3:10
+    type: betting
+  - id: terminal_city
+    title: "Terminal City"
+    path: "06 Terminal City.vgm"
+    type: betting
+...

@@ -1,8 +1,8 @@
 ﻿---
 id: touhou_kishinjou_double_dealing_character
-platform: "PC"
 title: "Touhou Kishinjou ~ Double Dealing Character"
 series: touhou
+platform: "PC"
 year: 2013
 songs: 
   - id: touhou_kishinjou_shining_needle
@@ -32,7 +32,7 @@ songs:
   - id: seijas_theme_reverse_ideology
     path: "Reverse Ideology.brstm"
     title: "Seija's Theme: Reverse Ideology"
-    type: warning
+    type: battle
   - id: primordial_beat_pristine_beat
     path: "Primordial Beat ~ Pristine Beat.brstm"
     title: "Raiko's Theme: Primordial Beat ~ Pristine Beat"

@@ -194,23 +194,27 @@ songs:
     path: "Wacky Workbench Present (US).brstm"
     type: betting
   - id: boss_us
-    title: "Boss (US)"
+    title: "Boss!! (US)"
     path: "Boss (US).brstm"
     type: warning
+  - id: boss_jpn_pal
+    title: "Boss!! (JPN/PAL)"
+    path: "Boss (JPN_PAL) (Real Loop).brstm"
+    type: betting
   - id: final_fever_jpn_pal
     title: "Final Fever (JPN/PAL)"
     path: "Final Fever (JPN_PAL).brstm"
     type: warning
-  - id: invincibility_us
-    title: "Invincibility (US)"
+  - id: invincible_us
+    title: "Invincible!! (US)"
     path: "Invincibility (US).brstm"
     type: warning
   - id: speed_up_510_prototype_looped
-    title: "Speed Up (510 Prototype)(Looped)"
+    title: "Speed Up!! (510 Prototype)(Looped)"
     path: "Speed Up (510 Prototype)(Looped).brstm"
     type: warning
   - id: speed_up_jpn_pal_looped
-    title: "Speed Up (JPN/PAL) (Looped)"
+    title: "Speed Up!! (JPN/PAL) (Looped)"
     path: "Speed Up (JPN_PAL) (Looped).brstm"
     type: warning
   - id: title_screen_510_prototype
@@ -225,8 +229,8 @@ songs:
     title: "Palmtree Panic Bad Future (JPN/PAL)"
     path: "Palmtree Panic Bad Future (JPN_PAL).brstm"
     type: battle
-  - id: invincibility_jpn_pal_looped
-    title: "Invincibility (JAP/PAL) (Looped)"
+  - id: invincible_jpn_pal_looped
+    title: "Invincible!! (JAP/PAL) (Looped)"
     path: "Invincibility (JAP_PAL) (Looped).brstm"
     type: result
   - id: title_screen_jpeu

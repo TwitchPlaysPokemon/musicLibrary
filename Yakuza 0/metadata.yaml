@@ -1,0 +1,57 @@
+---
+id: yakuza_0
+title: "Yakuza 0"
+series: yakuza
+platform: ["PS3", "PS4", "PC"]
+year: 2015
+songs: 
+  - id: pandora_s_place
+    title: "Pandora's Place"
+    path: "102 Pandora's Place.brstm"
+    type: break
+  - id: force_addiction
+    title: "Force Addiction"
+    path: "103 Force Addiction.brstm"
+    type: battle
+  - id: parry_addiction
+    title: "Parry Addiction"
+    path: "104 Parry Addiction.brstm"
+    type: battle
+  - id: receive_you_tech_trance_arrange
+    title: "Receive You 〜Tech Trance Arrange〜"
+    path: "114 Receive You 〜Tech Trance Arrange〜.brstm"
+    type: battle
+  - id: customer_creed
+    title: "Customer Creed"
+    path: "115 Customer Creed.brstm"
+    type: battle
+  - id: one_eyed_assassin
+    title: "One-Eyed Assassin"
+    path: "116 One-Eyed Assassin.brstm"
+    type: battle
+  - id: one_eyed_dancer
+    title: "One-Eyed Dancer"
+    path: "118 One-Eyed Dancer.brstm"
+    type: battle
+  - id: t_u_s_k
+    title: "t u s k"
+    path: "134 tusk.brstm"
+    type: battle
+  - id: 怨魔の契り
+    title: "怨魔の契り"
+    path: "138 怨魔の契り.brstm"
+    type: battle
+  - id: with_vengeance
+    title: "With Vengeance"
+    path: "141 With Vengeance.brstm"
+    type: betting
+  - id: two_dragons
+    title: "Two Dragons"
+    path: "143 Two Dragons.brstm"
+    type: battle
+  - id: friday_night
+    title: "Friday Night"
+    path: "235 Friday Night.brstm"
+    ends: 2:25
+    type: betting
+...

@@ -2,11 +2,11 @@
 id: one_piece_pirate_warriors_2
 title: "One Piece: Pirate Warriors 2"
 series: onepiece
+platform: ["PS3", "Vita"]
 year: 2013
-platform: "PS3+Vita"
 songs:
-  - id: speed_of_sound_op_pp2
-    title: "Speed Of Sound"
+  - id: speed_of_sound
+    title: "Speed of Sound 音速バトル"
     path: "Speed Of Sound.brstm"
     type: battle
 ...

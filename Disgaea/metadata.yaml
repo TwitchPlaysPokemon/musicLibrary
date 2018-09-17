@@ -1,5 +1,5 @@
 ---
-id: disgaea
+id: disgaea_hour_of_darkness
 title: "Disgaea: Hour of Darkness"
 platform: ["PS2", "PSP", "PC"]
 year: 2003
@@ -8,20 +8,20 @@ songs:
     title: "Beauty Baron"
     path: "Dark Adonis.brstm"
     type: betting
-  - id: dark_whisper
-    title: "Dark Whisper (instrumental)"
+  - id: hell_s_whisper_music_box_version
+    title: "Hell's Whisper: Music Box Version"
     path: "Dark Whisper (instrumental).brstm"
     type: break
-  - id: rosenqueen_netherworld_branch
-    title: "RosenQueen Netherworld Branch"
+  - id: rosen_queen_c_underworld_branch
+    title: "Rosen Queen Co., Underworld Branch"
     path: "RosenQueen Netherworld Branch.brstm"
     type: betting
   - id: running_fire_disgaea
     title: "Running Fire"
     path: "Running Fire.brstm"
     type: betting
-  - id: welcome_to_the_dark_castle
-    title: "Welcome to the Dark Castle"
+  - id: welcome_to_the_overlord_s_castle
+    title: "Welcome to the Overlord's Castle"
     path: "Welcome to the Dark Castle.brstm"
     type: betting
 ...

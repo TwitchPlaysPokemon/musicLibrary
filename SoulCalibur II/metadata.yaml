@@ -5,56 +5,56 @@ series: soulcalibur
 platform: ["GC", "PS2", "Xbox"]
 year: 2003
 songs:
-  - id: raise_thy_sword
-    title: "RAISE THY SWORD"
-    path: "Raise Thy Sword.brstm"
-    type: warning
-  - id: confrontation_sc2
-    title: "CONFRONTATION"
-    path: "Confrontation.brstm"
-    type: battle
-  - id: brave_sword_braver_soul
-    title: "BRAVE SWORD, BRAVER SOUL"
-    path: "Brave Sword, Braver Soul.brstm"
-    type: battle
-  - id: legend_of_zelda_link_s_theme
-    title: "Legend of Zelda (Link's Theme)"
-    path: "Link's Theme.brstm"
-    type: betting
-  - id: unwavering_resolve_sc2
-    title: "UNWAVERING RESOLVE"
-    path: "Unwavering Resolve.brstm"
-    type: battle
-  - id: hubris_sc2
-    title: "HUBRIS"
-    path: "Hubris.brstm"
-    type: betting
   - id: history_unfolds_sc2
     title: "HISTORY UNFOLDS"
-    path: "History Unfolds.brstm"
+    path: "102 - Junichi Nakatsuru - History Unfolds.adx"
     type: warning
+  - id: unwavering_resolve_sc2
+    title: "UNWAVERING RESOLVE"
+    path: "103 - Junichi Nakatsuru - Unwavering Resolve.adx"
+    type: battle
+  - id: raise_thy_sword
+    title: "RAISE THY SWORD"
+    path: "106 - Yoshihito Yano - Raise Thy Sword.adx"
+    type: warning
+  - id: brave_sword_braver_soul
+    title: "BRAVE SWORD, BRAVER SOUL"
+    path: "107 - Yoshihito Yano - Brave Sword, Braver Soul.adx"
+    type: battle
+  - id: chasing_death
+    title: "CHASING DEATH"
+    path: "108 - Juninchi Nakatsuru - Chasing Death.adx"
+    type: betting
+  - id: eternal_struggle
+    title: "ETERNAL STRUGGLE"
+    path: "111 - Junichi Nakatsuru - Eternal Struggle.adx"
+    type: betting
+  - id: hubris_sc2
+    title: "HUBRIS"
+    path: "112 - Junichi Nakatsuru - Hubris.adx"
+    type: betting
+  - id: confrontation_sc2
+    title: "CONFRONTATION"
+    path: "113 - Junichi Nakatsuru - Confrontation.adx"
+    type: battle
+  - id: slave_of_desire
+    title: "SLAVE OF DESIRE"
+    path: "120 - Junichi Nakatsuru - Slave of Desire.adx"
+    type: warning
+  - id: path_of_destiny
+    title: "PATH OF DESTINY"
+    path: "207 - Junichi Nakatsuru - Path of Destiny.adx"
+    type: result
   - id: into_the_whirlwind_sc2
     title: "INTO THE WHIRLWIND"
-    path: "Into The Whirlwind.brstm"
+    path: "208 - Junichi Nakatsuru - Into The Whirlwind.adx"
     type: warning
   - id: healing_winds
     title: "HEALING WINDS"
-    path: "Healing Winds.brstm"
+    path: "209 - Junichi Nakatsuru - Healing Winds.adx"
     type: result
-  - id: chasing_death
-    title: "CHASING DEATH"
-    path: "Chasing Death.brstm"
+  - id: legend_of_zelda_sc2
+    title: "THE LEGEND OF ZELDA"
+    path: "Link's Theme.brstm"
     type: betting
-  - id: slave_of_desire
-    title: "SLAVE OF DESIRE"
-    path: "Slave of Desire.brstm"
-    type: warning
-  - id: eternal_struggle
-    title: "ETERNAL STRUGGLE"
-    path: "Eternal Struggle.brstm"
-    type: betting
-  - id: path_of_destiny
-    title: "PATH OF DESTINY"
-    path: "Path of Destiny (Arcade Mode Staff Roll).brstm"
-    type: result
 ...

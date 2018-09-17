@@ -1,0 +1,119 @@
+---
+id: slap_city
+title: "Slap City"
+platform: "PC"
+year: 2018
+songs:
+  - id: lobby_slapcity
+    title: "Online Lobby"
+    path: "Lobby.brstm"
+    type: break
+  - id: blobbers
+    title: "Blobbers"
+    path: "Blobbers.brstm"
+    type: betting
+  - id: slapball
+    title: "Slap Ball"
+    path: "SlapBall.brstm"
+    type: battle
+  - id: slap_crystals
+    title: "Smack the Crystals!"
+    path: "CuteTrapDnB.brstm"
+    type: betting
+  - id: minigame_slapcity
+    title: "Minigame"
+    path: "Minigame.brstm"
+    type: battle
+  - id: winner_slapcity
+    title: "Winner!"
+    path: "Winner.brstm"
+    type: result
+  - id: straightintothesun
+    title: "...straight into the Sun"
+    path: "StraightIntoTheSun.brstm"
+    type: result
+  - id: bumpertown
+    title: "Bumpertown"
+    path: "GetRicked.brstm"
+    type: betting
+  - id: summit_slapcity
+    title: "Summit"
+    path: "Summit.brstm"
+    type: battle
+  - id: temple_slapcity
+    title: "Temple of Null"
+    path: "Temple.brstm"
+    type: warning
+  - id: public_transit_slapcity
+    title: "Public Transit"
+    path: "NoisyCity.brstm"
+    type: battle
+  - id: slap_in_the_park
+    title: "Slap in the Park"
+    path: "SlapInThePark.brstm"
+    type: betting
+  - id: frozen_court_slapcity
+    title: "Frozen Court"
+    path: "WinterRemix.brstm"
+    type: betting
+  - id: mecha_santa_slapcity
+    title: "Mecha Santa's Fortress"
+    path: "blobbers.brstm"
+    type: battle
+  - id: healing_mode_slapcity
+    title: "Healing Mode"
+    path: "Guts.brstm"
+    type: warning
+  - id: skovde_slapcity
+    title: "Skövde"
+    path: "MURI.brstm"
+    type: betting
+  - id: fire_zone_slapcity
+    title: "Fire Zone"
+    path: "Fire.brstm"
+    type: betting
+  - id: jungle_zone_slapcity
+    title: "Jungle Zone"
+    path: "JungleDeathDance.brstm"
+    type: betting
+  - id: meadowvally_slapcity
+    title: "Meadowvalley"
+    path: "BerriesInTheClouds.brstm"
+    type: betting
+  - id: turnip_corp_slapcity
+    title: "Turnip Corp."
+    path: "OfficeSurfer.brstm"
+    type: betting
+  - id: hurtlnd_slapcity
+    title: "Hurtland"
+    path: "Hurtland.brstm"
+    type: battle
+  - id: harbor_street_slapcity
+    title: "Harbor Street"
+    path: "HunkBump.brstm"
+    type: betting
+  - id: fancy_ruins_slapcity
+    title: "Fancy Ruins"
+    path: "Fancy_Slap.brstm"
+    type: betting
+  - id: castle_slapcity
+    title: "The Castle" 
+    path: "CastleWall.brstm"
+    type: betting
+  - id: saturnian_palace"
+    title: "Saturnian Palace"
+    path: "RuinsOrch.brstm"
+    type: betting
+  - id: pepperpain
+    title: "Pepperpain"
+    path: "PepperNew.brstm"
+    type: betting
+  - id: bear_mine
+    title: "Bear Mine"
+    path: "ReNights.brstm"
+    type: betting
+  - id: working_in_retail
+    title: "Working in Retail (Dino Theme)"
+    path: "DinoTheme.brstm"
+    type: betting
+...

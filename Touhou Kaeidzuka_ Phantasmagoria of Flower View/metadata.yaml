@@ -1,16 +1,20 @@
 ﻿---
 id: touhou_kaeidzuka_phantasmagoria_of_flower_view
-platform: "PC"
 title: "Touhou Kaeidzuka ~ Phantasmagoria of Flower View"
 series: touhou
+platform: "PC"
 year: 2005
 songs: 
-  - id: higan_retour_riverside_view_house_set
+  - id: higan_retour_riverside_view_komachi_onozuka_s_theme_house_set_ver
+    title: "Higan Retour ~ Riverside View (Komachi Onozuka's theme)(House Set Ver.)"
     path: "Higan Retour (House Set Ver.).brstm"
-    title: "Higan Retour ~ Riverside View (House Set Ver.)"
     type: betting
-  - id: sakuyas_theme_flowering_night
+  - id: flowering_night_sakuya_izayoi_s_theme
+    title: "Flowering Night (Sakuya Izayoi's theme)"
     path: "Sakuya's Theme_ Flowering Night.brstm"
-    title: "Sakuya's Theme: Flowering Night"
+    type: battle
+  - id: wind_god_girl_aya_shameimaru_s_theme
+    title: "Wind God Girl (Aya Shameimaru's theme)"
+    path: "Wind God Girl.brstm"
     type: battle
 ...

@@ -14,4 +14,8 @@ songs:
     path: "Ice Cavern.brstm"
     tags: [xmas]
     type: warning
+  - id: big_boss_battles
+    title: "Big Boss Battles"
+    path: "Boss.brstm"
+    type: battle
 ...

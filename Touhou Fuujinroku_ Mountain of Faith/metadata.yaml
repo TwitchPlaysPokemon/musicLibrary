@@ -6,53 +6,61 @@ platform: "PC"
 year: 2007
 songs: 
   - id: fall_of_fall_autumnal_waterfall
-    path: "Fall of Fall ~ Autumnal Waterfall.brstm"
     title: "Fall of Fall ~ Autumnal Waterfall"
+    path: "Fall of Fall ~ Autumnal Waterfall.brstm"
     ends: 3:00
     type: betting
-  - id: the_primal_scene_of_japan_arranged
+  - id: the_primal_scene_of_japan_arrange_by_clover
+    title: "The Primal Scene of Japan the Girl Saw (arrange by Clover)"
     path: "Stage 5 (Arranged by Clover).brstm"
-    title: "The Primal Scene of Japan the Girl Saw (Arranged)"
     ends: 3:00
     type: betting
   - id: tomorrow_will_be_special_yesterday_was_not
+    title: "Tomorrow will be Special; Yesterday was Not"
     path: "Tomorrow will be Special; Yesterday was Not .brstm"
-    title: "Tomorrow will be Special, Yesterday was Not"
     type: betting
-  - id: hinas_theme_dark_side_of_fate
+  - id: dark_side_of_fate
+    title: "Dark Side of Fate"
     path: "Dark Side of Fate.brstm"
-    title: "Hina's Theme: Dark Side of Fate"
     type: battle
-  - id: ayas_theme_the_youkai_mountain_mysterious_mountain
+  - id: the_youkai_mountain_mysterious_mountain
+    title: "The Youkai Mountain ~ Mysterious Mountain"
     path: "Youkai Mountain.brstm"
-    title: "Aya's Theme: The Youkai Mountain ~ Mysterious Mountain"
     type: battle
-  - id: sanaes_theme_faith_is_for_the_transient_people_mof
+  - id: faith_is_for_the_transient_people
+    title: "Faith is for the Transient People"
     path: "Faith is for the Transient People.brstm"
-    title: "Sanae's Theme: Faith is for the Transient People"
     type: battle
-  - id: kanakos_theme_suwa_foughten_field
+  - id: the_venerable_ancient_battlefield_suwa_foughten_field
+    title: "The Venerable Ancient Battlefield ~ Suwa Foughten Field"
     path: "The Venerable Ancient Battlefield ~ Suwa Foughten Field.brstm"
-    title: "Kanako's Theme: The Venerable Ancient Battlefield ~ Suwa Foughten Field"
     type: battle
   - id: the_gensokyo_the_gods_loved
-    path: "The Gensokyo the Gods Loved.brstm"
     title: "The Gensokyo the Gods Loved"
-    type: result
-  - id: akutagawa_ryuunosukes_kappa_candid_friend
+    path: "The Gensokyo the Gods Loved.brstm"
+    type: betting
+  - id: akutagawa_ryuunosuke_s_kappa_candid_friend
+    title: "Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend"
     path: "Akutagawa Ryuunosuke's Kappa ~ Candid Friend.brstm"
-    title: "Nitori's theme: Akutagawa Ryuunosuke's Kappa ~ Candid Friend"
-    type: warning
-  - id: suwakos_theme_native_faith
+    type: battle
+  - id: native_faith
+    title: "Native Faith"
     path: "Native Faith.brstm"
-    title: "Suwako's Theme: Native Faith"
-    type: warning
+    type: battle
   - id: shrine_at_the_foot_of_the_mountain
-    path: "Shrine at the Foot of the Mountain.brstm"
     title: "Shrine at the Foot of the Mountain"
+    path: "Shrine at the Foot of the Mountain.brstm"
     type: break
-  - id: players_score_touhou_fuujinroku
-    path: "Player's Score.brstm"
+  - id: player_s_score_touhou_fuujinroku
     title: "Player's Score"
+    path: "Player's Score.brstm"
     type: break
+  - id: faith_is_for_the_transient_people_arrange_by_jun_a
+    title: "Faith is for the Transient People (arrange by Jun.A)"
+    path: "Faith is for the Transient People - Jun.A.brstm"
+    type: battle
+  - id: faith_is_for_the_transient_people_house_set_ver
+    title: "Faith is for the Transient People (House Set Ver.)"
+    path: "Faith is for the Transient People (House Set Ver.).brstm"
+    type: betting
 ...

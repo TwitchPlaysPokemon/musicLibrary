@@ -1,11 +1,37 @@
 ---
 id: anarchy_reigns
 title: "Anarchy Reigns"
-year: 2012
 platform: ["360", "PS3"]
+year: 2012
 songs:
-  - id: play_for_keeps_(instrumental)
-    title: "Play for Keeps (Instrumental)"
+  - id: play_for_keeps_instrumental
+    title: "Play For Keeps (Instrumental)"
     path: "Play for Keeps (Instrumental).brstm"
+    type: betting
+  - id: demise_anarchy_reigns
+    title: "Demise"
+    path: "Demise.brstm"
+    type: betting
+  - id: find_you
+    title: "Find You"
+    path: "Find You.brstm"
+    ends: 3:00
+    type: betting
+  - id: here_we_go
+    title: "Here We Go"
+    path: "Here We Go.brstm"
+    type: betting
+  - id: jaw
+    title: "Jaw"
+    path: "Jaw.brstm"
+    ends: 2:40
+    type: betting
+  - id: my_town_my_city
+    title: "My Town, My City"
+    path: "My Town, My City.brstm"
+    type: betting
+  - id: over_in_a_flash
+    title: "Over In A Flash"
+    path: "Over in a Flash.brstm"
     type: betting
 ...

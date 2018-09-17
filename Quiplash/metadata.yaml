@@ -1,9 +1,24 @@
+---
 id: quiplash
 title: "Quiplash"
 platform: "Various"
 year: 2015
 songs: 
-  - id: 37_round_2_vote_h
-    title: "37 Round 2 vote h"
+  - id: lobby_music
+    title: "Lobby Music"
+    path: "01 Lobby Music.brstm"
+    ends: 2:34
+    type: betting
+  - id: round_1_write
+    title: "Round 1 write"
+    path: "05 Round 1 write.brstm"
+    type: betting
+  - id: round_2_write
+    title: "Round 2 write"
+    path: "22 Round 2 write.brstm"
+    type: betting
+  - id: round_2_vote_h
+    title: "Round 2 vote h"
     path: "37 Round 2 vote h.brstm"
     type: warning
+...

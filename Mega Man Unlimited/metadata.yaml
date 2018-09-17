@@ -1,0 +1,68 @@
+---
+id: mega_man_unlimited
+title: "Mega Man Unlimited"
+is_fanwork: true
+platform: "PC"
+year: 2013
+songs: 
+  - id: a_glimmer_of_hope_cutscene_happy
+    title: "A Glimmer of Hope (Cutscene Happy)"
+    path: "A Glimmer of Hope (Cutscene Happy).brstm"
+    type: result
+  - id: an_unbreakable_will_occupied_wily_fortress_stage_2
+    title: "An Unbreakable Will (Occupied Wily Fortress Stage 2)"
+    path: "An Unbreakable Will (Occupied Wily Fortress Stage 2).brstm"
+    type: betting
+  - id: climb_the_walls_occupied_wily_fortress_stage_1
+    title: "Climb the Walls (Occupied Wily Fortress Stage 1)"
+    path: "Climb the Walls (Occupied Wily Fortress Stage 1).brstm"
+    type: betting
+  - id: countdown_to_void_unknown_stage
+    title: "Countdown to Void (Unknown Stage)"
+    path: "Countdown to Void (Unknown Stage).brstm"
+    type: betting
+  - id: crisis_mega_man_unlimited
+    title: "Crisis"
+    path: "Crisis.brstm"
+    type: warning
+  - id: endless_potential_robot_master_cast
+    title: "Endless Potential (Robot Master Cast)"
+    path: "Endless Potential (Robot Master Cast).brstm"
+    type: betting
+  - id: occupied_wily_fortress_boss_battle_1_crab_octo_crusher
+    title: "Occupied Wily Fortress Boss Battle 1 (Crab & Octo Crusher)"
+    path: "Occupied Wily Fortress Boss Battle 1 (Crab & Octo Crusher).brstm"
+    type: warning
+  - id: occupied_wily_fortress_boss_battle_2_vs_protoman
+    title: "Occupied Wily Fortress Boss Battle 2 (Vs. Protoman)"
+    path: "Occupied Wily Fortress Boss Battle 2 (Vs. Protoman).brstm"
+    type: warning
+  - id: occupied_wily_fortress_boss_battle_3_vs_bass
+    title: "Occupied Wily Fortress Boss Battle 3 (Vs. Bass)"
+    path: "Occupied Wily Fortress Boss Battle 3 (Vs. Bass).brstm"
+    type: warning
+  - id: occupied_wily_fortress_boss_battle_4_wily_plow_wily_hopper
+    title: "Occupied Wily Fortress Boss Battle 4 (Wily Plow & Wily Hopper)"
+    path: "Occupied Wily Fortress Boss Battle 4 (Wily Plow & Wily Hopper).brstm"
+    type: warning
+  - id: standing_on_tattered_feet_occupied_wily_fortress_stage_3
+    title: "Standing on Tattered Feet (Occupied Wily Fortress Stage 3)"
+    path: "Standing on Tattered Feet (Occupied Wily Fortress Stage 3).brstm"
+    type: betting
+  - id: the_menace_lurks_near_occupied_wily_fortress_stage_4
+    title: "The Menace Lurks Near (Occupied Wily Fortress Stage 4)"
+    path: "The Menace Lurks Near (Occupied Wily Fortress Stage 4).brstm"
+    type: warning
+  - id: the_robot_revolution_new_occupied_wily_fortress_stage_1
+    title: "The Robot Revolution (New Occupied Wily Fortress Stage 1)"
+    path: "The Robot Revolution (New Occupied Wily Fortress Stage 1).brstm"
+    type: betting
+  - id: uncertain_future_cutscene_sad
+    title: "Uncertain Future (Cutscene Sad)"
+    path: "Uncertain Future (Cutscene Sad).brstm"
+    type: break
+  - id: unknown_stage_boss_battle
+    title: "Unknown Stage Boss Battle"
+    path: "Unknown Stage Boss Battle.brstm"
+    type: warning
+...

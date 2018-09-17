@@ -1,10 +1,27 @@
+---
 id: touhou_puppet_play_enhanced
 title: "Touhou Ningyougeki ~ Touhou Puppet Play Enhanced"
-year: 2012
-platform: "GBA"
-is_fanwork: true
 series: touhou
+is_fanwork: true
+platform: "GBA"
+year: 2012
 songs:
+  - id: 001_bokura_no_hisoutensoku
+    title: "Bokura no Hisoutensoku"
+    path: "001 - Bokura no Hisoutensoku.brstm"
+    type: warning
+  - id: 002_touhou_judgement_in_the_60th_year
+    title: "Touhou Judgement in the 60th Year - Fate of Sixty Years"
+    path: "002 - Touhou Judgement in the 60th Year - Fate of 60 Years.brstm"
+    type: battle
+  - id: 004_super_neo_express
+    title: "Super Neo Express"
+    path: "004 - Super Neo Express.brstm"
+    type: warning
+  - id: 005_oriental_story_of_forgathering_dream
+    title: "Oriental Story of Forgathering Dream"
+    path: "005 - Oriental Story of Forgathering Dream.brstm"
+    type: result
   - id: 006_deaf_to_all_but_the_song
     title: "Deaf to All but the Song"
     path: "006 - Deaf to All But the Song.brstm"
@@ -17,6 +34,10 @@ songs:
     title: "Interdimensional Voyage of a Ghostly Passenger Ship"
     path: "010 - Interdimensional Voyage of a Ghostly Passenger Ship.brstm"
     type: betting
+  - id: 011_akutagawa_ryuunosukes_kappa_candid_friend
+    title: "Akutagawa Ryuunosuke's Kappa - Candid Friend (Surfing)"
+    path: "011 - Akutagawa Ryuunosuke's Kappa - Candid Friend (Surfing).brstm"
+    type: break
   - id: 012_mystic_oriental_dream_ancient_temple
     title: "Mystic Oriental Dream - Ancient Temple"
     path: "012 - Mystic Oriental Dream - Ancient Temple.brstm"
@@ -29,6 +50,14 @@ songs:
     title: "Vanishing Dream - Lost Dream"
     path: "015 - Vanishing Dream - Lost Dream.brstm"
     type: betting
+  - id: 019_emotional_skyscraper_cosmic_mind
+    title: "Emotional Skyscraper - Cosmic Mind"
+    path: "019 - Emotional Skyscraper - Cosmic Mind.brstm"
+    type: warning
+  - id: 021_touhou_medley_end_credits
+    title: "Touhou Medley - End Credits"
+    path: "021 - Touhou Medley - End Credits.brstm"
+    type: result
   - id: 022_a_soul_as_red_as_an_onis_lantern
     title: "A Soul as Red as an Oni's Lantern"
     path: "022 - A Soul as Red as an Oni's Lantern.brstm"
@@ -38,6 +67,14 @@ songs:
     title: "Lunate Elf"
     path: "023 - Lunate Elf.brstm"
     type: betting
+  - id: 024_the_gensokyo_the_gods_loved
+    title: "The Gensokyo the Gods Loved"
+    path: "024 - The Gensokyo the Gods Loved.brstm"
+    type: result
+  - id: 025_heian_alien
+    title: "Heian Alien"
+    path: "025 - Heian Alien.brstm"
+    type: warning
   - id: 026_beloved_tomboyish_girl
     title: "Beloved Tomboyish Girl"
     path: "026 - Beloved Tomboyish Girl.brstm"
@@ -46,28 +83,31 @@ songs:
     title: "Tomorrow Will be Special, Yesterday Was Not"
     path: "027 - Tomorrow Will be Special, Yesterday Was Not.brstm"
     type: betting
+  - id: beware_the_umbrella_left_there_forever
+    title: "Beware the Umbrella Left There Forever"
+    path: "028 - Beware the Umbrella Left There Forever.brstm"
+    type: betting
+  - id: 034_maidens_capriccio
+    title: "Maiden's Capriccio (Title Screen)"
+    path: "034 - Maiden's Capriccio (Title Screen).brstm"
+    type: warning
+  - id: 035_hellfire_mantle
+    title: "Hellfire Mantle"
+    path: "035 - Hellfire Mantle.brstm"
+    type: warning
+  - id: ultimate_truth
+    title: "Ultimate Truth"
+    path: "036 - Ultimate truth.brstm"
+    type: betting
+  - id: 037_septette_for_the_dead_princess
+    title: "Septette for the Dead Princess"
+    path: "037 - Septette for the Dead Princess.brstm"
+    type: warning
   - id: 038_first_suite_from_far_east
     title: "First Suite - From Far EAST (Tokyo Active NEETs)"
     path: "038 - First Suite - From Far EAST (Tokyo Active NEETs).brstm"
     type: betting
     ends: 3:21
-  - id: 041_nostalgic_blood_of_the_east_old_world
-    title: "Nostalgic Blood of the East - Old World"
-    path: "041 - Nostalgic Blood of the East - Old World.brstm"
-    type: betting
-  - id: 054_spring_lane_colorful_path
-    title: "Spring Lane - Colorful Path"
-    path: "054 - Spring Lane - Colorful Path.brstm"
-    type: betting
-  - id: 057_gensokyo_millenium_long_version
-    title: "Gensokyo Millenium - History of the Moon (Long Version)"
-    path: "057 - Gensokyo Millenium - History of the Moon (Long Version).brstm"
-    ends: 2:29
-    type: betting
-  - id: 002_touhou_judgement_in_the_60th_year
-    title: "Touhou Judgement in the 60th Year - Fate of Sixty Years"
-    path: "002 - Touhou Judgement in the 60th Year - Fate of 60 Years.brstm"
-    type: battle
   - id: 039_faith_is_for_the_transient_people
     title: "Faith is for the Transient People (Cosplay Cafe Nyan-Nyan)"
     path: "039 - Faith is for the Transient People (Cosplay Cafe Nyan-Nyan).brstm"
@@ -76,6 +116,47 @@ songs:
     title: "How Many Miles to Gensokyo? (Golden City Factory)"
     path: "040 - How Many Miles to Gensokyo (Golden City Factory).brstm"
     type: battle
+  - id: 041_nostalgic_blood_of_the_east_old_world
+    title: "Nostalgic Blood of the East - Old World"
+    path: "041 - Nostalgic Blood of the East - Old World.brstm"
+    type: betting
+  - id: 042_fly_above_hatoyama_at_night_power_mix
+    title: "Fly Above Hatoyama at Night - Power MIX"
+    path: "042 - Fly above Hatoyama at Night - Power MIX.brstm"
+    type: warning
+  - id: 046_legend_of_hourai
+    title: "Legend of Hourai"
+    path: "046 - Legend of Hourai.brstm"
+    type: result
+  - id: 049_wind_god_girl
+    title: "Wind God Girl (Bicycle)"
+    path: "049 - Wind God Girl (Bicycle).brstm"
+    type: result
+  - id: 054_spring_lane_colorful_path
+    title: "Spring Lane - Colorful Path"
+    path: "054 - Spring Lane - Colorful Path.brstm"
+    type: betting
+  - id: 055_plain_asia
+    title: "Plain Asia"
+    path: "055 - Plain Asia.brstm"
+    type: result
+  - id: 056_a_dream_that_is_more_scarlet_than_red
+    title: "A Dream that is More Scarlet than Red"
+    path: "056 - A Dream that is More Scarlet than Red.brstm"
+    type: warning
+  - id: 057_gensokyo_millenium_long_version
+    title: "Gensokyo Millenium - History of the Moon (Long Version)"
+    path: "057 - Gensokyo Millenium - History of the Moon (Long Version).brstm"
+    ends: 2:29
+    type: betting
+  - id: 060_kids_festival_innocent_treasures
+    title: "Kid's Festival - Innocent Treasures"
+    path: "060 - Kid's Festival - Innocent Treasures.brstm"
+    type: result
+  - id: 081_megamari_opening_alternate
+    title: "MegaMari Opening (Alternate)"
+    path: "081 - MegaMari Opening (Alternate).brstm"
+    type: break
   - id: 097_sun_worship_of_gnosis_nuclear_fusion
     title: "Sun Worship of Gnosis - Nuclear Fusion"
     path: "097 - Sun Worship of Gnosis - Nuclear Fusion.brstm"
@@ -88,75 +169,4 @@ songs:
     title: "Afraid (Frontier Aja)"
     path: "113 - Afraid (Frontier Aja).brstm"
     type: battle
-  - id: 005_oriental_story_of_forgathering_dream
-    title: "Oriental Story of Forgathering Dream"
-    path: "005 - Oriental Story of Forgathering Dream.brstm"
-    type: result
-  - id: 021_touhou_medley_end_credits
-    title: "Touhou Medley - End Credits"
-    path: "021 - Touhou Medley - End Credits.brstm"
-    type: result
-  - id: 024_the_gensokyo_the_gods_loved
-    title: "The Gensokyo the Gods Loved"
-    path: "024 - The Gensokyo the Gods Loved.brstm"
-    type: result
-  - id: 046_legend_of_hourai
-    title: "Legend of Hourai"
-    path: "046 - Legend of Hourai.brstm"
-    type: result
-  - id: 049_wind_god_girl
-    title: "Wind God Girl (Bicycle)"
-    path: "049 - Wind God Girl (Bicycle).brstm"
-    type: result
-  - id: 055_plain_asia
-    title: "Plain Asia"
-    path: "055 - Plain Asia.brstm"
-    type: result
-  - id: 060_kids_festival_innocent_treasures
-    title: "Kid's Festival - Innocent Treasures"
-    path: "060 - Kid's Festival - Innocent Treasures.brstm"
-    type: result
-  - id: 001_bokura_no_hisoutensoku
-    title: "Bokura no Hisoutensoku"
-    path: "001 - Bokura no Hisoutensoku.brstm"
-    type: warning
-  - id: 004_super_neo_express
-    title: "Super Neo Express"
-    path: "004 - Super Neo Express.brstm"
-    type: warning
-  - id: 019_emotional_skyscraper_cosmic_mind
-    title: "Emotional Skyscraper - Cosmic Mind"
-    path: "019 - Emotional Skyscraper - Cosmic Mind.brstm"
-    type: warning
-  - id: 025_heian_alien
-    title: "Heian Alien"
-    path: "025 - Heian Alien.brstm"
-    type: warning
-  - id: 034_maidens_capriccio
-    title: "Maiden's Capriccio (Title Screen)"
-    path: "034 - Maiden's Capriccio (Title Screen).brstm"
-    type: warning
-  - id: 035_hellfire_mantle
-    title: "Hellfire Mantle"
-    path: "035 - Hellfire Mantle.brstm"
-    type: warning
-  - id: 037_septette_for_the_dead_princess
-    title: "Septette for the Dead Princess"
-    path: "037 - Septette for the Dead Princess.brstm"
-    type: warning
-  - id: 042_fly_above_hatoyama_at_night_power_mix
-    title: "Fly Above Hatoyama at Night - Power MIX"
-    path: "042 - Fly above Hatoyama at Night - Power MIX.brstm"
-    type: warning
-  - id: 056_a_dream_that_is_more_scarlet_than_red
-    title: "A Dream that is More Scarlet than Red"
-    path: "056 - A Dream that is More Scarlet than Red.brstm"
-    type: warning
-  - id: 011_akutagawa_ryuunosukes_kappa_candid_friend
-    title: "Akutagawa Ryuunosuke's Kappa - Candid Friend (Surfing)"
-    path: "011 - Akutagawa Ryuunosuke's Kappa - Candid Friend (Surfing).brstm"
-    type: break
-  - id: 081_megamari_opening_alternate
-    title: "MegaMari Opening (Alternate)"
-    path: "081 - MegaMari Opening (Alternate).brstm"
-    type: break
+...

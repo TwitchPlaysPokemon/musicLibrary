@@ -1,13 +1,9 @@
 ---
 id: streets_of_rage_ii
 title: "Streets of Rage II"
+platform: "SMD"
 year: 1992
-platform: "Genesis"
 songs:
-  - id: expander
-    title: "Expander"
-    path: "15 - Expander.vgz"
-    type: battle
   - id: go_straight
     title: "Go Straight"
     path: "02 - Go Straight.vgz"
@@ -16,6 +12,18 @@ songs:
     title: "In the Bar"
     path: "03 - In the Bar.vgz"
     type: betting
+  - id: never_return_alive
+    title: "Never Return Alive"
+    path: "04 - Never Return Alive.vgz"
+    type: warning
+  - id: spin_on_the_bridge
+    title: "Spin on the Bridge"
+    path: "05 - Spin on the Bridge.vgz"
+    type: warning
+  - id: ready_funk
+    title: "Ready Funk"
+    path: "06 - Ready Funk.vgz"
+    type: result
   - id: dreamer
     title: "Dreamer"
     path: "07 - Dreamer.vgz"
@@ -40,22 +48,10 @@ songs:
     title: "Back to the Industry"
     path: "14 - Back to the Industry.vgz"
     type: betting
-  - id: ready_funk
-    title: "Ready Funk"
-    path: "06 - Ready Funk.vgz"
-    type: result
-  - id: little_money_avenue
-    title: "Little Money Avenue"
-    path: "24 - Little Money Avenue.vgz"
-    type: betting
-  - id: never_return_alive
-    title: "Never Return Alive"
-    path: "04 - Never Return Alive.vgz"
-    type: warning
-  - id: spin_on_the_bridge
-    title: "Spin on the Bridge"
-    path: "05 - Spin on the Bridge.vgz"
-    type: warning
+  - id: expander
+    title: "Expander"
+    path: "15 - Expander.vgz"
+    type: battle
   - id: max_man
     title: "Max Man"
     path: "17 - Max Man.vgz"
@@ -68,4 +64,8 @@ songs:
     title: "Good Ending"
     path: "19 Good Ending.vgm"
     type: result
+  - id: little_money_avenue
+    title: "Little Money Avenue"
+    path: "24 - Little Money Avenue.vgz"
+    type: betting
 ...

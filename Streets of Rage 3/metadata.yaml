@@ -2,11 +2,11 @@
 id: streets_of_rage_iii
 title: "Streets of Rage III"
 series: streetsofrage
-platform: "Genesis"
+platform: "SMD"
 year: 1994
 songs:
-  - id: dance_club
-    title: "Dance Club"
+  - id: disco_sor3
+    title: "Disco"
     path: "05 - Dance Club.vgz"
     type: warning
   - id: moon_sor3
@@ -17,8 +17,8 @@ songs:
     title: "The Poets I"
     path: "15 - The Poets I.vgz"
     type: betting
-  - id: good_ending_sor3
-    title: "Good Ending"
+  - id: ending_sor3
+    title: "Ending"
     path: "24 - Good Ending.vgz"
     type: result
 ...

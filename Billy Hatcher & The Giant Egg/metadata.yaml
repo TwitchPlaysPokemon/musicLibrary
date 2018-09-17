@@ -1,8 +1,8 @@
 ---
 id: billy_hatcher
 title: "Billy Hatcher & The Giant Egg"
+platform: "GCN"
 year: 2003
-platform: "GC"
 songs:
   - id: bang_bang_big_hornes_explosion
     title: "Bang! Bang! Big Hornes Explosion!"
@@ -41,11 +41,11 @@ songs:
     title: "Head for the Top"
     path: "Head for the Top.adx"
     type: betting
-  - id: jack_in_the_box
-    title: "Jack-in-the-Box!"
+  - id: a_jack_in_the_box
+    title: "A Jack-in-the-Box!"
     path: "Jack-in-the-Box!.adx"
     type: betting
-  - id: lets_go_easy
+  - id: let_s_go_easy
     title: "Let's Go Easy"
     path: "Let's Go Easy.adx"
     type: betting
@@ -59,7 +59,7 @@ songs:
     path: "Odd March.adx"
     type: betting
   - id: pinball_like_echo
-    title: "Pinball-like Echo"
+    title: "Pinball-Like Echo"
     path: "Pinball-like Echo.adx"
     type: betting
   - id: pop_a_parade
@@ -74,8 +74,8 @@ songs:
     title: "Sandstorm Sitar"
     path: "Sandstorm Sitar.adx"
     type: betting
-  - id: silent_passionate_sea
-    title: "Silent & Passionate Sea"
+  - id: passionate_silent_sea
+    title: "Passionate & Silent Sea"
     path: "Silent & Passionate Sea.adx"
     type: betting
   - id: take_upper_fruit
@@ -86,8 +86,8 @@ songs:
     title: "Thanks for the Peaceful Today"
     path: "Thanks for the Peaceful Today.adx"
     type: betting
-  - id: the_beginning_of_an_adventure
-    title: "The Beginning of an Adventure"
+  - id: the_beginning_of_adventure
+    title: "The Beginning of Adventure"
     path: "The Beginning of an Adventure.adx"
     type: betting
   - id: tumbling_xylophone
@@ -98,8 +98,8 @@ songs:
     title: "Volcanic Orchestra"
     path: "Volcanic Orchestra.adx"
     type: betting
-  - id: desert_afternoon
-    title: "Desert Afternoon"
+  - id: afternoon_desert
+    title: "Afternoon Desert"
     path: "Desert Afternoon.adx"
     type: result
   - id: sound_of_fanfare

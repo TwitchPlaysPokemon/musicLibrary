@@ -5,14 +5,6 @@ series: kirby
 platform: "SNES"
 year: 1996
 songs: 
-  - id: candy_mountain
-    title: "Dyna Blade - Candy Mountain"
-    path: "19 Candy Mountain.spc"
-    type: betting
-  - id: cocoa_cave
-    title: "Cocoa Cave"
-    path: "18 Cocoa Cave.spc"
-    type: betting
   - id: float_islands_kirby_super_star
     title: "Float Islands"
     path: "06 Float Islands.spc"
@@ -21,10 +13,22 @@ songs:
     title: "Peanut Plain"
     path: "16 Peanut Plain.spc"
     type: betting
-  - id: run_kirby_run
-    title: "Run, Kirby, Run!"
+  - id: cocoa_cave
+    title: "Cocoa Cave"
+    path: "18 Cocoa Cave.spc"
+    type: betting
+  - id: candy_mountain
+    title: "Candy Mountain"
+    path: "19 Candy Mountain.spc"
+    type: betting
+  - id: gourmet_race_super_star
+    title: "Gourmet Race"
     path: "27 Run, Kirby, Run!.spc"
     type: betting
+  - id: kirby_wins
+    title: "Kirby Wins!"
+    path: "31 Kirby Wins!.spc"
+    type: result
   - id: tutorial_kirby_super_star
     title: "Tutorial"
     path: "Tutorial.spc"
@@ -33,16 +37,12 @@ songs:
     title: "Dyna Blade's Nest"
     path: "Dyna Blade's Nest.spc"
     type: warning
-  - id: heart_of_nova
-    title: "Heart of Nova"
+  - id: galactic_nova
+    title: "Galactic Nova"
     path: "Milky Way Wishes - Heart of Nova.spc"
     type: warning
-  - id: kirby_wins
-    title: "Kirby Wins!"
-    path: "31 Kirby Wins!.spc"
-    type: result
-  - id: meta_knight_defeated
-    title: "Meta Knight Defeated"
+  - id: my_friend_and_the_sunset
+    title: "My Friend and the Sunset..."
     path: "Meta Knight Defeated.spc"
     type: result
 ...

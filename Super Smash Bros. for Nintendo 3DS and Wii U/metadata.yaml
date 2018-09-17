@@ -17,9 +17,13 @@ songs:
     title: "Battlefield"
     path: "snd_bgm_CRS02_Senjyou.nus3bank"
     type: betting
-  - id: bramble_blast
-    title: "Bramble Blast"
+  - id: stickerbush_symphony_smash4
+    title: "Stickerbush Symphony"
     path: "snd_bgm_B06_SPR2_TogetogeTaruMeiro.nus3bank"
+    type: betting
+  - id: bravoman_retro Medley
+    title: "Bravoman Retro Medley"
+    path: "snd_bgm_V09_BRV_BravoMan_Medley.nus3bank"
     type: betting
   - id: battle_champion_champion_cynthia
     title: "Battle! (Champion) / Champion Cynthia"
@@ -49,6 +53,10 @@ songs:
     title: "King Dedede's Theme Ver. 2"
     path: "snd_bgm_F20_SDX_DededeDaiouNoTheme.nus3bank"
     type: betting
+  - id: libble_rabble_retro_medley
+    title: "Libble Rabble Retro Medley"
+    path: "snd_bgm_V04_LBL_LibbleLabble_Medley.nus3bank"
+    type: betting
   - id: lost_in_thoughts_all_alone
     title: "Lost in Thoughts All Alone"
     path: "snd_bgm_J24_IF_HitoriOmou.nus3bank"
@@ -61,6 +69,10 @@ songs:
     title: "Magicant / Eight Melodies"
     path: "snd_bgm_K11_MTR_Magicant_EightMelodies.nus3bank"
     type: betting
+  - id: mario_paint_medley
+    title: "Mario Paint Medley"
+    path: "snd_bgm_A41_MPT_Medley.nus3bank"
+    type: betting
   - id: mega_man_2_medley
     title: "Mega Man 2 Medley"
     path: "snd_bgm_S01_RM2_Medley.nus3bank"
@@ -68,6 +80,10 @@ songs:
   - id: menu_smash4
     title: "Menu"
     path: "snd_bgm_CRS01_Menu.nus3bank"
+    type: betting
+  - id: metro_cross_retro_medley
+    title: "Metro-Cross Retro Medley"
+    path: "snd_bgm_V05_MCR_MetroCross_Medley.nus3bank"
     type: betting
   - id: minor_circuit_remix
     title: "Minor Circuit (Remix)"
@@ -81,6 +97,14 @@ songs:
     title: "N's Castle Medley"
     path: "snd_bgm_H11_BW_N_Medley.nus3bank"
     type: betting
+  - id: namco_arcade_80s_retro_medley_1
+    title: "Namco Arcade '80s Retro Medley 1"
+    path: "snd_bgm_V06_NMC_80sMedley1.nus3bank"
+    type: betting
+  - id: namco_arcade_80s_retro_medley_2
+    title: "Namco Arcade '80s Retro Medley 2"
+    path: "snd_bgm_V07_NMC_80sMedley2.nus3bank"
+    type: betting
   - id: onett_theme_winters_theme
     title: "Onett Theme / Winters Theme"
     path: "snd_bgm_K13_MTR2_OnettNoTheme.nus3bank"
@@ -92,6 +116,10 @@ songs:
   - id: outdoors_at_7_pm_sunny_main_street
     title: "Outdoors at 7 p.m. (Sunny) / Main Street"
     path: "snd_bgm_N16_TBD_Feild19Ji_Hare.nus3bank"
+    type: betting
+  - id: pac_man_smash4
+    title: "PAC-MAN"
+    path: "snd_bgm_V01_PAC_PacMan.nus3bank"
     type: betting
   - id: quick_man_stage_smash4
     title: "Quick Man Stage"
@@ -110,6 +138,10 @@ songs:
     path: "Ryu Stage (Normal).brstm"
     ends: 2:57
     type: betting
+  - id: saria_s_song_middle_boss_battle
+    title: "Saria's Song / Middle Boss Battle"
+    path: "snd_bgm_C25_TNO_SariaNoUta.nus3bank"
+    type: betting
   - id: save_the_world_heroes
     title: "Save the World, Heroes!"
     path: "snd_bgm_R26_SCD2_SekaiWoSukueYuushayo.nus3bank"
@@ -126,6 +158,10 @@ songs:
     title: "Super Mario 3D Land Theme / Beach Theme"
     path: "snd_bgm_A27_3DL_SMB_Theme.nus3bank"
     type: betting
+  - id: super_mario_bros_medley_smash4
+    title: "Super Mario Bros. Medley"
+    path: "snd_bgm_A32_SMB_Medley.nus3bank"
+    type: betting
   - id: super_mario_bros_3_medley
     title: "Super Mario Bros. 3 Medley"
     path: "snd_bgm_A25_SMB3_Medley.nus3bank"
@@ -137,6 +173,10 @@ songs:
   - id: the_great_cave_offensive
     title: "The Great Cave Offensive"
     path: "snd_bgm_F21_SDX_DoukutsuDaiSakusen.nus3bank"
+    type: betting
+  - id: the_legend_of_zelda_medley_smash4
+    title: "The Legend Of Zelda Medley"
+    path: "snd_bgm_C36_ZLD_Medley.nus3bank"
     type: betting
   - id: the_mysterious_murasame_castle_medley
     title: "The Mysterious Murasame Castle Medley"
@@ -162,6 +202,10 @@ songs:
     title: "Trophy Shop"
     path: "snd_bgm_CRS19_FigureShop.nus3bank"
     type: betting
+  - id: yokai_sochuki_retro_medley
+    title: "Yokai Dochuki Retro Medley"
+    path: "snd_bgm_V10_YKD_YoukaiDouchuki_Medley.nus3bank"
+    type: betting
   - id: yoshi's_woolly_world_(remix)
     title: "Yoshi's Woolly World (Remix)"
     path: "snd_bgm_E08_KNY_KeitoNoYoshi.nus3bank"
@@ -181,6 +225,14 @@ songs:
   - id: ken_stage_critical_smash4
     title: "Ken Stage (Critical)"
     path: "Ken Stage (Critical).brstm"
+    type: warning
+  - id: master_fortress_first_wave
+    title: "Master Fortress: First Wave"
+    path: "snd_bgm_CRS27_MasterFortress01.nus3bank"
+    type: warning
+  - id: master_fortress_second_wave
+    title: "Master Fortress: Second Wave"
+    path: "snd_bgm_CRS28_MasterFortress02.nus3bank"
     type: warning
   - id: ryu_stage_critical_smash4
     title: "Ryu Stage (Critical)"
@@ -202,6 +254,10 @@ songs:
     title: "Battle! (Trainer Battle) (Pokémon X / Pokémon Y)"
     path: "snd_bgm_H13_XY_Sentou_Trainer.nus3bank"
     type: battle
+  - id: battle_wild_pokemon_pokemon_diamond_pokemon_pearl
+    title: "Battle! (Wild Pokémon) (Pokémon Diamond / Pokémon Pearl)"
+    path: "snd_bgm_H15_DP_Sentou_YaseiPokemon.nus3bank"
+    type: battle
   - id: dark_lord_smash4
     title: "Dark Lord"
     path: "snd_bgm_R27_SCD2_YamiNoOu.nus3bank"
@@ -209,6 +265,10 @@ songs:
   - id: final_destination_smash4
     title: "Final Destination"
     path: "snd_bgm_CRS03_Shuuten.nus3bank"
+    type: battle
+  - id: final_destination_ver_2
+    title: "Final Destination Ver. 2"
+    path: "snd_bgm_CRS26_Shuuten_ver2.nus3bank"
     type: battle
   - id: jogging_countdown
     title: "Jogging/Countdown"
@@ -229,6 +289,10 @@ songs:
   - id: menu_melee_ver_2
     title: "Menu (Melee): Ver. 2"
     path: "snd_bgm_W35_SBDX_Menu_ver2.nus3bank"
+    type: battle
+  - id: multi_man_smash
+    title: "Multi-Man Smash"
+    path: "snd_bgm_CRS04_Kumite.nus3bank"
     type: battle
   - id: pac_mans_park_block_town
     title: "PAC-MAN'S PARK / BLOCK TOWN"
@@ -293,5 +357,9 @@ songs:
   - id: all_star_rest_area_smash4
     title: "All-Star Rest Area"
     path: "snd_bgm_CRS15_Rest.nus3bank"
+    type: break
+  - id: pedal_glider
+    title: "Pedal Glider"
+    path: "snd_bgm_R40_PWR_HangGlider.nus3bank"
     type: break
 ...

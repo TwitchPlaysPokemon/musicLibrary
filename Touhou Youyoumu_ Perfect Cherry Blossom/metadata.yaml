@@ -5,22 +5,22 @@ series: touhou
 platform: "PC"
 year: 2003
 songs: 
-  - id: bloom_nobly_cherry_blossoms_of_sumizone_arranged
-    title: "Bloom Nobly, Cherry Blossoms of Sumizone ~ Border of Life (Arranged)"
+  - id: bloom_nobly_ink_black_cherry_blossoms_arranged
+    title: "Bloom Nobly, Ink-black Cherry Blossoms ~ Border of Life (Arranged)"
     path: "Bloom Nobly, Cherry Blossoms of Sumizone ~ Border of Life (Arranged).brstm"
     type: betting
-  - id: doll_judgement_remix
-    title: "Doll Judgement ~ The Girl Who Played with People's Shapes (Remix)"
+  - id: doll_judgement_the_girl_who_played_with_people_s_shapes_remix
+    title: "Doll Judgment ~ The Girl who Played with People's Shapes (Remix)"
     path: "Doll Judgement.brstm"
     type: battle
-  - id: demetori_necrofantasia
-    title: "Necrofantasia (Arranged by Demetori)"
+  - id: necrofantasia_arranged_by_demetori
+    title: "Necrofantasia (arranged by Demetori)"
     path: "Demetori Necrofantasia.brstm"
     type: battle
-  - id: yukaris_theme_necrofantasia
-    title: "Yukari's Theme: Necrofantasia"
+  - id: necrofantasia
+    title: "Necrofantasia"
     path: "Yukari's Theme - Necrofantasia.brstm"
-    type: warning
+    type: battle
   - id: primsriver_sisters_theme_ghostly_band_phantom_ensemble
     title: "Primsriver Sisters' Theme - Ghostly Band ~ Phantom Ensemble"
     path: "Primsriver Sisters' Theme - Ghostly Band _ Phantom Ensemble.brstm"

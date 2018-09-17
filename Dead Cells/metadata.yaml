@@ -1,0 +1,20 @@
+---
+id: dead_cells
+title: "Dead Cells"
+platform: "Various"
+year: 2017
+songs: 
+  - id: the_village
+    title: "The Village"
+    path: "The Village.mp3"
+    type: betting
+  - id: conjonctivius
+    title: "Conjonctivius"
+    path: "Conjonctivius.mp3"
+    type: betting
+  - id: collector
+    title: "Collector"
+    path: "Collector.mp3"
+    ends: 1:45
+    type: betting
+...

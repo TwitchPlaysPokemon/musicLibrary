@@ -5,32 +5,40 @@ series: kirby
 platform: "NDS"
 year: 2006
 songs: 
-  - id: march_of_the_pink_soldier
-    title: "March of the Pink Soldier"
+  - id: file_select_squeak_squad
+    title: "File Select"
+    path: "02 File Select.mini2sf"
+    type: break
+  - id: forest_nature_area_squeak_squad
+    title: "Forest/Nature Area"
     path: "05 March of the Pink Soldier.mini2sf"
     type: betting
-  - id: moving_forward
-    title: "Moving Forward"
-    path: "25 Moving Forwards.mini2sf"
-    type: betting
-  - id: having_fun_outside
-    title: "Having Fun Outside"
+  - id: prism_plains
+    title: "Prism Plains"
     path: "11 Having Fun Outside.mini2sf"
     type: result
-  - id: the_hero_of_dreamland
-    title: "The Hero of Dreamland"
+  - id: gamble_galaxy_squeak_squad
+    title: "Gamble Galaxy"
     path: "15 The Hero of Dreamland.mini2sf"
     type: result
-  - id: troubling_situation
-    title: "Troubling Situation"
+  - id: squeak_squad_theme
+    title: "Squeak Squad Theme"
+    path: "19 Here Come the Squeaks!.mini2sf"
+    type: warning
+  - id: boss_daroach_doc_s_machines
+    title: "Boss: Doc's Machines & Daroach"
     path: "20 Troubling Situation.mini2sf"
     type: warning
-  - id: ultimate_squeak_battle
-    title: "Ultimate Squeak Battle"
+  - id: ruins_area_squeak_squad
+    title: "Ruins Area"
+    path: "25 Moving Forwards.mini2sf"
+    type: betting
+  - id: vocal_volcano
+    title: "Vocal Volcano"
     path: "28 Ultimate Squeak Battle.mini2sf"
     type: warning
-  - id: the_final_stretch
-    title: "The Final Stretch"
+  - id: chasing_dark_nebula
+    title: "Chasing Dark Nebula"
     path: "29 The Final Stretch.mini2sf"
     type: warning
   - id: star_ride
@@ -40,13 +48,5 @@ songs:
   - id: stormy_area
     title: "Stormy Area"
     path: "99 Unknown 2.mini2sf"
-    type: warning
-  - id: file_select_squeak_squad
-    title: "File Select"
-    path: "02 File Select.mini2sf"
-    type: break
-  - id: here_come_the_squeaks
-    title: "Here Come the Squeaks!"
-    path: "19 Here Come the Squeaks!.mini2sf"
     type: warning
 ...

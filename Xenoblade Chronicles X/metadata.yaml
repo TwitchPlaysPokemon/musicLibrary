@@ -5,46 +5,46 @@ series: xeno
 platform: "Wii U"
 year: 2015
 songs:
-  - id: new_los_angeles
-    title: "New Los Angeles"
+  - id: n_l_a_new_los_angeles_day
+    title: "N市L街A (New Los Angeles Day)"
     path: "x63_00.adx"
     type: betting
-  - id: noctilum_day
-    title: "Noctilum (Day)"
+  - id: nofcotreisltum_noctilum_day
+    title: "NOfCoTreIsLtUM (Noctilum Day)"
     path: "x67_00.adx"
     type: betting
-  - id: noctilum_night
-    title: "Noctilum (Night)"
+  - id: nofcotreisltum_noctilum_night
+    title: "NOfCoTreIsLtUM (Noctilum Night)"
     path: "x68_00.adx"
     type: betting
-  - id: primordia
-    title: "Primordia"
+  - id: anrleaa_primordia_day
+    title: "aNrLeAa (Primordia Day)"
     path: "x65_00.adx"
     type: betting
-  - id: primordia_night
-    title: "Primordia (Night)"
+  - id: anrleaa_primordia_night
+    title: "aNrLeAa (Primordia Night)"
     path: "x66_00.adx"
     type: betting
-  - id: sylvalum_day
-    title: "Sylvalum (Day)"
+  - id: 46_ri9_sylvalum_day
+    title: "46-:ri9 (Sylvalum Day)"
     path: "x71_00.adx"
     tags: [xmas]
     type: break
-  - id: sylvalum_night
-    title: "Sylvalum (Night)"
+  - id: 46_ri9_sylvalum_night
+    title: "46-:ri9 (Sylvalum Night)"
     path: "x72_00.adx"
     tags: [xmas]
     type: betting
-  - id: growth_f_S_k_o
-    title: "Growth F.S.K.O"
+  - id: no7_g_low_s_f_s_k_o
+    title: "no7=G-LOW-S→F.S.K.O"
     path: "x05_00.adx"
     type: betting
-  - id: ares_boss
-    title: "Ares Boss"
+  - id: aboresss
+    title: "aBOreSSs"
     path: "x56_00.adx"
     type: betting
-  - id: requiem_xcx
-    title: "Requiem"
+  - id: no4_d91m
+    title: "no4=D91M"
     path: "x26_00.adx"
     ends: 3:30
     type: betting
@@ -52,4 +52,8 @@ songs:
     title: "raTEoREkiSImeAra"
     path: "x57_00.adx"
     type: betting
+  - id: uncontrollabl_instrumental
+    title: "Uncontrollable (Instrumental)"
+    path: "x53_01.adx"
+    type: battle
 ...

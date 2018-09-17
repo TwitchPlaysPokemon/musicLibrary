@@ -105,6 +105,10 @@ songs:
     title: "Muck Warfare [Off the Hook]"
     path: "STRM_VersusFes03.bfstm"
     type: betting
+  - id: nasty_majesty_off_the_hook
+    title: "Nasty Majesty [Off the Hook]"
+    path: "STRM_Daibutsu1_Octa.bfstm"
+    type: betting
   - id: shark_bytes_off_the_hook
     title: "Shark Bytes [Off the Hook]"
     path: "STRM_Daibutsu2_Octa.bfstm"
@@ -176,6 +180,10 @@ songs:
   - id: 13_shade_no_vocals_dedf1sh
     title: "#13 shade (No Vocals) [Dedf1sh]"
     path: "STRM_Stage_Sennyu_NoVocal_Octa.bfstm"
+    type: betting
+  - id: 13_shade_dedf1sh
+    title: "#13 shade [Dedf1sh]"
+    path: "STRM_Stage_Sennyu_Octa.bfstm"
     type: betting
   - id: 14_crush_dedf1sh
     title: "#14 crush [Dedf1sh]"

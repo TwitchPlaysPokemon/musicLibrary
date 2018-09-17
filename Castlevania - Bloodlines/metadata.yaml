@@ -5,60 +5,60 @@ series: castlevania
 platform: "Genesis"
 year: 1994
 songs: 
-  - id: a_vision_of_dark_secrets_opening_theme
-    title: "A Vision of Dark Secrets (Opening Theme)"
+  - id: a_vision_of_dark_secrets_opening_demo_bgm
+    title: "A VISION OF DARK SECRETS (Opening Demo BGM)"
     path: "03 - A Vision of Dark Secrets (Opening Theme).vgz"
     type: betting
-  - id: reincarnated_soul_part_2_stage_1
-    title: "Reincarnated Soul, Part 2 (Stage 1)"
+  - id: reincarnated_soul_start_demo_stage_1_bgm_old_castle_dracula
+    title: "REINCARNATED SOUL (Start Demo ~ Stage 1 BGM · Old Castle Dracula)"
     path: "07 - Reincarnated Soul, Part 2 (Stage 1).vgz"
     type: betting
-  - id: the_sinking_old_santuary_stage_2
-    title: "The Sinking Old Sanctuary (Stage 2)"
+  - id: the_sinking_old_santuary_stage_2_bgm_greek_temple
+    title: "THE SINKING OLD SANCTUARY (Stage 2 BGM · Greek Temple)"
     path: "08 - The Sinking Old Sanctuary (Stage 2).vgm"
     type: betting
-  - id: the_discolored_wall_stage_3
-    title: "The Discolored Wall (Stage 3)"
+  - id: the_discolored_wall_stage_3_bgm_the_leaning_tower_of_pisa
+    title: "THE DISCOLORED WALL (Stage 3 BGM · The Leaning Tower of Pisa)"
     path: "09 - The Discolored Wall (Stage 3).vgz"
     type: warning
-  - id: beginning_classic_tune_1
-    title: "Beginning (Classic Tune 1)"
+  - id: beginning_item_bgm_1_from_akumajo_densetsu
+    title: "BEGINNING (Item BGM 1 · From Akumajō Densetsu)"
     path: "10 - Beginning (Classic Tune 1).vgz"
     type: battle
-  - id: bloody_tears_classic_tune_2
-    title: "Bloody Tears (Classic Tune 2)"
+  - id: bloody_tears_item_bgm_2_from_dracula_ii
+    title: "BLOODY TEARS (Item BGM 2 · From Dracula II)"
     path: "11 - Bloody Tears (Classic Tune 2).vgz"
     type: betting
-  - id: vampire_killer_classic_tune_3
-    title: "Vampire Killer (Classic Tune 3)"
+  - id: vampire_killer_tem_bgm_3_from_akumajo_dracula
+    title: "VAMPIRE KILLER (Item BGM 3 · From Akumajō Dracula)"
     path: "12 - Vampire Killer (Classic Tune 3).vgz"
     type: betting
-  - id: mysterious_curse_password
-    title: "Mysterious Curse (Password)"
+  - id: mysterious_curse_password_bgm
+    title: "MYSTERIOUS CURSE (Password BGM)"
     path: "14 - Mysterious Curse (Password).vgz"
     type: warning
-  - id: iron_blue_intention_stage_4
-    title: "Iron-Blue Intention (Stage 4)"
+  - id: iron_blue_intention_stage_4_bgm_german_iron_and_steel_factory
+    title: "IRON-BLUE INTENTION (Stage 4 BGM · German Iron and Steel Factory)"
     path: "15 - Iron-Blue Intention (Stage 4).vgz"
     type: betting
-  - id: pressure_invincibility
-    title: "Pressure (Invincibility)"
+  - id: pressure_invincibility_bgm
+    title: "PRESSURE (Invincibility BGM)"
     path: "18 - Pressure (Invincibility).vgz"
     type: warning
-  - id: messenger_from_devil_area_boss_theme
-    title: "Messenger From Devil (Area Boss Theme)"
+  - id: messenger_from_devil_mini_boss_bgm
+    title: "MESSENGER FROM DEVIL (Mini-Boss BGM)"
     path: "19 - Messenger From Devil (Area Boss Theme).vgz"
     type: warning
-  - id: theme_of_simon_classic_tune_4
-    title: "Theme of Simon (Classic Tune 4)"
+  - id: theme_of_simon_before_last_boss_bgm_from_sfc_akumajo_dracula
+    title: "THEME OF SIMON (Before Last Boss BGM · From SFC Akumajō Dracula)"
     path: "22 - Theme of Simon (Classic Tune 4).vgz"
     type: betting
-  - id: the_vampires_stomach_final_boss_theme
-    title: "The Vampire's Stomach (Final Boss Theme)"
+  - id: the_vampires_stomach_last_boss_bgm
+    title: "THE VAMPIRE'S STOMACH (Last Boss BGM)"
     path: "23 - The Vampire's Stomach (Final Boss Theme).vgz"
     type: warning
-  - id: together_forever_ending_theme
-    title: "Together Forever (Ending Theme)"
+  - id: together_forever_ending_demo_bgm
+    title: "TOGETHER FOREVER (Ending Demo BGM)"
     path: "29 - Together Forever (Ending Theme).vgz"
     type: result
 ...

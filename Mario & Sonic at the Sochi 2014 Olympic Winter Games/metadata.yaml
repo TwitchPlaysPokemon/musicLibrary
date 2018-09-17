@@ -50,12 +50,12 @@ songs:
     title: "Short Track Speed Skating 1000m"
     path: "Short Track Speed Skating 1000m.brstm"
     tags: [xmas]
-    type: battle
+    type: betting
   - id: ski_jumping_large_hill
     title: "Ski Jumping Large Hill"
     path: "Ski Jumping Large Hill.brstm"
     tags: [xmas]
-    type: battle
+    type: result
   - id: snowball_scrimmage_sherbet_land
     title: "Snowball Scrimmage (Sherbet Land)"
     path: "Snowball Scrimmage (Snow Colosseum) [Sherbet Land] (Full).brstm"
@@ -65,12 +65,12 @@ songs:
     title: "Snowboard Cross"
     path: "Snowboard Cross.brstm"
     tags: [xmas]
-    type: battle
+    type: betting
   - id: snowboard_parallel_giant_slalom
     title: "Snowboard Parallel Giant Slalom"
     path: "Snowboard Parallel Giant Slalom.brstm"
     tags: [xmas]
-    type: battle
+    type: result
   - id: snowboard_slopestyle
     title: "Snowboard Slopestyle"
     path: "Snowboard Slopestyle.brstm"

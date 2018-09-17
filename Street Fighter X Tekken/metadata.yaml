@@ -2,31 +2,39 @@
 id: street_fighter_x_tekken
 title: "Street Fighter X Tekken"
 series: streetfighter
-year: 2012
 platform: ["360", "PS3", "PC"]
+year: 2012
 songs:
-  - id: vs_street_fighter_rivals_arrange_1_sfxt
-    title: "Vs. Street Fighter Rivals (Arrange #1)"
+  - id: vs_rival_battle_sf_arrange1
+    title: "VS Rival Battle SF Arrange1"
     path: "Vs Street Fighter Rivals (Arrange #1).brstm"
     type: battle
-  - id: results_screen_street_fighter_sfxt
-    title: "Results Screen (Street Fighter)"
+  - id: results_screen_sf
+    title: "Results Screen SF"
     path: "Results Screen (Street Fighter).brstm"
     type: result
   - id: training_stage_sfxt
     title: "Training Stage"
     path: "Training Stage.brstm"
     type: betting
-  - id: vs_jin_xiaoyu_tekken_mid_boss
-    title: "Vs. Jin & Xiaoyu (Tekken Mid Boss)"
+  - id: mid_boss_battle_tk
+    title: "Mid Boss Battle TK"
     path: "Vs Jin & Xiaoyu (Tekken Mid Boss).brstm"
     type: battle
-  - id: vs_dictator_juri_street_fighter_mid_boss
-    title: "Vs. Dictator & Juri (Street Fighter Mid Boss)"
+  - id: mid_boss_battle_sf
+    title: "Mid Boss Battle SF"
     path: "Vs Dictator & Juri (Street Fighter Mid Boss).brstm"
     type: battle
   - id: pitstop_109_night
     title: "Pitstop 109 -Night-"
     path: "Pitstop 109 -Night-.brstm"
+    type: battle
+  - id: network_screen
+    title: "Network Screen"
+    path: "Network Menu.brstm"
+    type: battle
+  - id: last_boss_battle_tk
+    title: "Last Boss Battle TK"
+    path: "Ogre (Tekken Final Boss).brstm"
     type: battle
 ...

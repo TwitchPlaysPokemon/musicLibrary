@@ -7,25 +7,33 @@ year: 2008
 songs:
   - id: stonecarving_city
     title: "Stonecarving City"
-    path: "Stonecarving City.brstm"
+    path: "ninten_W1_kari_MIX-32k16b.brstm"
     ends: 2:28
     type: betting
   - id: vs_the_shake_king
     title: "Vs. The Shake King"
-    path: "Vs. The Shake King.brstm"
+    path: "KING0710.brstm"
     type: battle
   - id: aboard_the_sweet_stuff
     title: "Aboard the Sweet Stuff"
-    path: "Aboard the Sweet Stuff.brstm"
+    path: "SHIP5010.brstm"
     type: result
   - id: freezing_fields
     title: "Freezing Fields"
-    path: "Freezing Fields.brstm"
+    path: "snow_ret0717.brstm"
     tags: [xmas]
     type: betting
   - id: slipshod_slopes
     title: "Slipshod Slopes"
-    path: "Slipshod Slopes.brstm"
+    path: "SNOW2.brstm"
     tags: [xmas]
+    type: betting
+  - id: derailed_express
+    title: "Derailed Express"
+    path: "train-ret1102.brstm"
+    type: warning
+  - id: wreck_train
+    title: "Wreck Train"
+    path: "TRAIN0727.brstm"
     type: betting
 ...

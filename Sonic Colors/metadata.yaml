@@ -5,60 +5,64 @@ series: sonic
 platform: "Wii"
 year: 2010
 songs:
-  - id: aquarium_park_1
-    title: "Aquarium Park - Act 1"
-    path: "Aquarium Park 1.brstm"
-    type: battle
-  - id: tropical_resort_1
+  - id: tropical_resort_act_1
     title: "Tropical Resort - Act 1"
-    path: "Tropical Resort - Act 1.brstm"
+    path: "bgm_stg110_rso_wav.aax"
     type: betting
-  - id: terminal_velocity_-_act_1
-    path: "Terminal Velocity - Act 1.brstm"
-    title: "Terminal Velocity - Act 1"
-    type: battle
-  - id: asteroid_coaster_3
-    path: "Asteroid Coaster 3.brstm"
-    title: "Asteroid Coaster 3"
+  - id: tropical_resort_act_2
+    title: "Tropical Resort - Act 2"
+    path: "bgm_stg130_rso_wav.aax"
     type: betting
-  - id: aquarium_park_3
-    path: "Aquarium Park 3.brstm"
-    title: "Aquarium Park 3"
-    type: betting
-  - id: tropical_resort_act_4
-    title: "Tropical Resort - Act 4"
-    path: "Tropical Resort - Act 4.brstm"
-    type: betting
-  - id: sweet_mountain_3
-    title: "Sweet Mountain 3"
-    path: "Sweet Mountain 3.brstm"
-    type: betting
-  - id: aquarium_park_2
-    title: "Aquarium Park 2"
-    path: "Aquarium Park 2.brstm"
-    type: betting
-  - id: result_sonic_colors
-    title: "Result"
-    path: "Result.brstm"
+  - id: world_map_sonic_colors
+    title: "World Map"
+    path: "bgm_worldmap_wav.aax"
     type: result
-  - id: worldmap_colors
-    title: "Worldmap"
-    path: "Worldmap.brstm"
-    type: result
-  - id: save_screen_colors
-    title: "Save Screen"
-    path: "Save Screen.brstm"
-    type: break
-  - id: blue_cube
-    title: "Blue Cube"
-    path: "Blue Cube.brstm"
-    type: warning
-  - id: sonic_simulator_main_screen
-    title: "Sonic Simulator - Main Screen"
-    path: "Sonic Simulator - Main Screen.brstm"
-    type: warning
+  - id: sweet_mountain_act_3
+    title: "Sweet Mountain - Act 3"
+    path: "bgm_stg230_fct_wav.aax"
+    type: betting
   - id: vs_captain_jelly_and_admiral_jelly
     title: "vs. Captain Jelly & Admiral Jelly"
     path: "bgm_boss_Jellyboss_normal_wav.aax"
+    type: battle
+  - id: result_screen_sonic_colors
+    title: "Result Screen"
+    path: "bgm_sys_result_wav.aax"
+    type: result
+  - id: save_screen_sonic_colors
+    title: "Save Screen"
+    path: "bgm_sys_save_wav.aax"
+    type: break
+  - id: color_power_blue_cube
+    title: "Color Power - Blue Cube"
+    path: "bgm_pha_united_pzl_wav.aax"
+    type: warning
+  - id: game_land_title_screen
+    title: "Game Land - Title Screen"
+    path: "bgm_mlt_title_wav.aax"
+    type: warning
+  - id: aquarium_park_act_1
+    title: "Aquarium Park - Act 1"
+    path: "bgm_stg510_qua_nomal_wav.aax"
+    type: betting
+  - id: aquarium_park_act_2
+    title: "Aquarium Park - Act 2"
+    path: "bgm_stg520_qua_nomal_wav.aax"
+    type: betting
+  - id: aquarium_park_act_3
+    title: "Aquarium Park - Act 3"
+    path: "bgm_stg530_qua_nomal_wav.aax"
+    type: betting
+  - id: asteroid_coaster_act_3
+    title: "Asteroid Coaster - Act 3"
+    path: "bgm_stg630_ast_normal_wav.aax"
+    type: betting
+  - id: terminal_velocity_act_1
+    title: "Terminal Velocity - Act 1"
+    path: "bgm_stg710_elv_wav.aax"
+    type: battle
+  - id: vs_nega_wisp_armor_phase_1
+    title: "vs. Nega-Wisp Armor - Phase 1"
+    path: "bgm_boss_lastboss_1_wav.aax"
     type: battle
 ...

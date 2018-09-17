@@ -5,21 +5,17 @@ series: metalgear
 platform: "PS1"
 year: 1998
 songs:
-  - id: duel
-    title: "DUEL"
-    path: "Duel.brstm"
-    type: warning
   - id: encounter_mgs1
     title: "ENCOUNTER"
     path: "Encounter.brstm"
     type: warning
-  - id: metal_gear_solid_main_theme_1997_e3_edit
-    title: "METAL GEAR SOLID MAIN THEME (1997 E3 EDIT)"
-    path: "Main Theme (1997 E3 Ver.).brstm"
-    type: betting
-  - id: vr_training_mg
-    title: "VR TRAINING"
-    path: "VR Training.brstm"
+  - id: duel
+    title: "DUEL"
+    path: "Duel.brstm"
+    type: warning
+  - id: warhead_storage
+    title: "WARHEAD STORAGE"
+    path: "Warhead Storage.brstm"
     type: betting
   - id: blast_furnace
     title: "BLAST FURNACE"
@@ -29,8 +25,16 @@ songs:
     title: "ESCAPE"
     path: "Escape.brstm"
     type: warning
-  - id: warhead_storage
-    title: "WARHEAD STORAGE"
-    path: "Warhead Storage.brstm"
+  - id: end_title_the_best_is_yet_to_come
+    title: "END TITLE / THE BEST IS YET TO COME"
+    path: "18 THE BEST IS YET TO COME.xa"
+    type: break
+  - id: vr_training_mg
+    title: "VR TRAINING"
+    path: "VR Training.brstm"
+    type: betting
+  - id: metal_gear_solid_main_theme_1997_e3_edit
+    title: "METAL GEAR SOLID MAIN THEME (1997 E3 EDIT)"
+    path: "Main Theme (1997 E3 Ver.).brstm"
     type: betting
 ...

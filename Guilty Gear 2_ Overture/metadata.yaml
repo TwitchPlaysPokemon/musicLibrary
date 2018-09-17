@@ -2,11 +2,11 @@
 id: guilty_gear_2_overture
 title: "Guilty Gear 2: Overture"
 series: guiltygear
-year: 2007
 platform: ["360", "PC"]
+year: 2007
 songs:
-  - id: the_re_coming
-    title: "The Re-coming"
+  - id: the_re_coming_sol_vs_ky_bgm
+    title: "The Re-coming (Sol VS Ky BGM)"
     path: "The Re-coming.brstm"
     type: battle
 ...

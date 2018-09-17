@@ -1,28 +1,41 @@
 ﻿---
 id: touhou_eiyashou_imperishable_night
-platform: "PC"
 title: "Touhou Eiyashou ~ Imperishable Night"
 series: touhou
+platform: "PC"
 year: 2004
 songs: 
-  - id: illusionary_night_~_ghostly_eyes
-    path: "Illusionary Night ~ Ghostly Eyes.brstm"
+  - id: illusionary_night_ghostly_eyes
     title: "Illusionary Night ~ Ghostly Eyes"
+    path: "Illusionary Night ~ Ghostly Eyes.brstm"
     type: betting
-  - id: plain_asia_(house_set_ver.)
-    path: "Plain Asia (House Set Ver.).brstm"
+  - id: plain_asia_house_set_ver
     title: "Plain Asia (House Set Ver.)"
+    path: "Plain Asia (House Set Ver.).brstm"
     type: betting
   - id: deaf_to_all_but_the_song
+    title: "Deaf to all but the song"
     path: "Deaf to all but the Song.brstm"
-    title: "Mystia's Theme: Deaf to All but the Song"
     type: battle
   - id: love_coloured_master_spark_dppt_soundfont
+    title: "Love-colored Master Spark (Pokémon DPPt Soundfont)"
     path: "Love Coloured Master Spark - Pokémon DPP Soundfont.brstm"
-    title: "Love-Coloured Master Spark (Pokémon DPPt Soundfont)"
     type: battle
-  - id: imperishable_night_eastern_night
+  - id: eternal_night_vignette_eastern_night
+    title: "Eternal Night Vignette ~ Eastern Night"
     path: "Title Screen - Imperishable Night ~ Eastern Night.brstm"
-    title: "Title Screen: Imperishable Night ~ Eastern Night"
     type: break
+  - id: maiden_s_capriccio_dream_battle
+    title: "Maiden's Capriccio ~ Dream Battle"
+    path: "Maiden's Capriccio _ Dream Battle.brstm"
+    type: battle
+  - id: maiden_s_capriccio_dream_battle_house_set_ver
+    title: "Maiden's Capriccio ~ Dream Battle (House Set Ver.)"
+    path: "Maiden's Capriccio _ Dream Battle (House Set Ver.).brstm"
+    ends: 3:26
+    type: betting
+  - id: reach_for_the_moon_immortal_smoke
+    title: "Reach for the Moon, Immortal Smoke"
+    path: "Reach for the Moon, Immortal Smoke.brstm"
+    type: battle
 ...

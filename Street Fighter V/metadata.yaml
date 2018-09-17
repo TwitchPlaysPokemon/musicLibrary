@@ -5,6 +5,10 @@ series: streetfighter
 platform: ["PC", "PS4"]
 year: 2016
 songs:
+  - id: street_fighter_v_sfv
+    title: "Street Fighter V"
+    path: "Main Theme (Looped).brstm"
+    type: battle
   - id: character_select_sfv
     title: "Character Select"
     path: "Character Select.brstm"

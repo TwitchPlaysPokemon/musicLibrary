@@ -18,8 +18,8 @@ songs:
     title: "Dire, Dire Docks (OST Version)"
     path: "Dire, Dire Docks (OST Version).brstm"
     type: betting
-  - id: koopas_road_sm64
-    title: "Koopa's Road"
+  - id: bowsers_road_sm64
+    title: "Bowser's Road"
     path: "29 Koopa's Road.miniusf"
     type: betting
   - id: lethal_lava_land
@@ -30,8 +30,8 @@ songs:
     title: "Super Mario 64 Main Theme"
     path: "05 Main Theme.miniusf"
     type: betting
-  - id: koopa_theme_sm64
-    title: "Koopa's Theme"
+  - id: bowser_theme_sm64
+    title: "Bowser's Theme"
     path: "Koopa's Theme.miniusf"
     type: warning
   - id: looping_steps
@@ -50,8 +50,8 @@ songs:
     title: "Slider (OST Version)"
     path: "06 Slider.miniusf"
     type: warning
-  - id: ultimate_koopa_ost_version
-    title: "Ultimate Koopa (OST Version)"
+  - id: ultimate_bowser_ost_version
+    title: "Ultimate Bowser (OST Version)"
     path: "Ultimate Koopa (OST Version).brstm"
     type: warning
   - id: ending_demo_sm64

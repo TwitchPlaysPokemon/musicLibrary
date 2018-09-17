@@ -1,9 +1,11 @@
+---
 id: puzzle_bobble
-platform: "Arcade"
-title: "Puzzle Bobble"
+title: "Puzzle Bobble [Arcade]"
+platform: "Various"
 year: 1994
 songs: 
-  - id: journey_to_paopao_island
-    path: "Journey To PaoPao Island.brstm"
-    title: "Journey To PaoPao Island"
+  - id: let_s_go_to_pao_pao_island_bgm_1
+    title: "Let's Go to Pao Pao Island! (BGM 1)"
+    path: "03 Let's Go to Pao Pao Island!.vgz"
     type: betting
+...

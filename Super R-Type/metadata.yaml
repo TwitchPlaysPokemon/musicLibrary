@@ -1,0 +1,29 @@
+---
+id: super_r_type
+title: "Super R-Type"
+platform: "SNES"
+year: 1991
+songs: 
+  - id: as_wet_as_a_fish
+    title: "As Wet as a Fish"
+    path: "04 As Wet as a Fish.spc"
+    type: betting
+  - id: a_submerging_titan
+    title: "A Submerging Titan"
+    path: "05 A Submerging Titan.spc"
+    ends: 2:14
+    type: betting
+  - id: national_anthem_of_bydo_empire
+    title: "National Anthem of Bydo Empire"
+    path: "08 National Anthem of Bydo Empire.spc"
+    type: warning
+  - id: escape_from_the_bydo_empire_part_1
+    title: "Escape from the Bydo Empire (part 1)"
+    path: "10a Escape from the Bydo Empire (part 1).spc"
+    type: break
+  - id: r_type_medley
+    title: "R-Type Medley"
+    path: "15 R-Type Medley.spc"
+    ends: 2:07
+    type: betting
+...

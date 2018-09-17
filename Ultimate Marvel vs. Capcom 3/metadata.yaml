@@ -2,8 +2,8 @@
 id: ultimate_marvel_vs._capcom_3
 title: "Ultimate Marvel vs. Capcom 3"
 series: mvc
-year: 2011
 platform: ["360", "PS3", "Vita"]
+year: 2011
 songs:
   - id: phoenix_wright's_theme_(turnabout_mode)
     title: "Phoenix Wright's Theme (Turnabout Mode)"
@@ -25,4 +25,8 @@ songs:
     title: "Main Menu (Dynamic)"
     path: "Main Menu (Dynamic).brstm"
     type: result
+  - id: novas_theme_umvc3
+    title: "Nova's Theme"
+    path: "Nova's Theme.brstm"
+    type: battle
 ...

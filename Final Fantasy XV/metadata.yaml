@@ -37,4 +37,53 @@ songs:
     title: "Cartanica"
     path: "Cartanica.brstm"
     type: betting
+  - id: somnus
+    title: "Somnus"
+    path: "Somnus.brstm"
+    ends: 2:24
+    type: betting
+  - id: veiled_in_black
+    title: "Veiled in Black"
+    path: "Veiled in Black.brstm"
+    type: battle
+  - id: invidia
+    title: "Invidia"
+    path: "Invidia.brstm"
+    type: battle
+  - id: ravus_aeterna
+    title: "RAVUS AETERNA"
+    path: "RAVUS AETERNA.brstm"
+    type: betting
+  - id: hellfire_ffxv
+    title: "Hellfire"
+    path: "Hellfire (Full).brstm"
+    type: betting
+  - id: magna_insomnia
+    title: "Magna Insomnia"
+    path: "Magna Insomnia (Full).brstm"
+    type: betting
+  - id: ardyn
+    title: "ARDYN"
+    path: "ARDYN.brstm"
+    type: betting
+  - id: ardyn_ii
+    title: "ARDYN II"
+    path: "ARDYN II.brstm"
+    type: betting
+  - id: crystalline_chill
+    title: "Crystalline Chill"
+    path: "Crystalline Chill.brstm"
+    type: betting
+  - id: valse_di_fantastica
+    title: "Valse di Fantastica"
+    path: "Valse di Fantastica.brstm"
+    type: betting
+  - id: noctis
+    title: "NOCTIS"
+    path: "NOCTIS.brstm"
+    type: betting
+  - id: what_lies_within
+    title: "What Lies Within"
+    path: "What Lies Within.brstm"
+    type: betting
 ...

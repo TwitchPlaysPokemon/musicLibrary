@@ -1,21 +1,23 @@
+---
 id: castlevania_rondo_of_blood
 title: "Castlevania: Rondo of Blood"
 series: castlevania
 platform: "PC Engine"
 year: 1993
 songs:
-  - id: bloody_tears_rondoblood
-    title: "Bloody Tears"
-    path: "Bloody Tears.brstm"
-    ends: 2:40
-    type: betting
-  - id: opposing_bloodlines
-    title: "Opposing Bloodlines"
+  - id: blood_relations_of_heaven_and_earth_stage_1_bgm
+    title: "Blood Relations of Heaven and Earth (Stage 1 BGM)"
     path: "Opposing Bloodlines.brstm"
     ends: 3:12
     type: betting
-  - id: opus_13_rondoblood
-    title: "Opus 13"
+  - id: bloody_tears_stage_3_normal_side_bgm
+    title: "Bloody Tears (Stage 3 Normal Side BGM)"
+    path: "Bloody Tears.brstm"
+    ends: 2:40
+    type: betting
+  - id: op_13_stage_5_other_side_bhm
+    title: "OP. 13 (Stage 5 Other Side BGM)"
     path: "Opus 13.brstm"
     ends: 2:26
     type: betting
+...

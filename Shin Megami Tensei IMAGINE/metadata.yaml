@@ -1,0 +1,35 @@
+---
+id: shin_megami_tensei_imagine
+title: "Shin Megami Tensei IMAGINE"
+platform: "PC"
+year: 2007
+songs: 
+  - id: digitalize_system
+    title: "Digitalize System"
+    path: "Digitalise.brstm"
+    type: betting
+  - id: battle_2013_version
+    title: "Battle (2013 Version)"
+    path: "Battle (2013 Remix).brstm"
+    type: warning
+  - id: fiend_battle_variation_2
+    title: "Fiend Battle ~Variation 2~"
+    path: "Fiend Battle _Variation 2_.brstm"
+    type: battle
+  - id: fierce_battle
+    title: "Fierce Battle"
+    path: "SMT Nocturne Fierce Battle Remix.brstm"
+    type: battle
+  - id: demi_fiend_battle
+    title: "Demi-Fiend Battle"
+    path: "SMT Nocturne Normal Battle Remix.brstm"
+    type: battle
+  - id: the_final_battle_chaos
+    title: "The Final Battle ~Chaos~"
+    path: "The Final Battle _Chaos_.brstm"
+    type: battle
+  - id: the_final_battle_law
+    title: "The Final Battle ~Law~"
+    path: "The Final Battle _Law_.brstm"
+    type: battle
+...

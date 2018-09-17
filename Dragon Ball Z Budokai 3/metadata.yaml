@@ -5,12 +5,12 @@ series: dragonball
 platform: "Various"
 year: 2004
 songs: 
-  - id: 12am_shuffle
-    title: "12AM Shuffle"
+  - id: 12am_shuffle_time
+    title: "12AM Shuffle Time"
     path: "BGM59.adx"
     type: betting
   - id: embrace_the_blue_sky
-    title: "Embrace The Blue Sky"
+    title: "Embrace the Blue Sky"
     path: "BGM27.adx"
     type: betting
   - id: evil_power
@@ -25,4 +25,8 @@ songs:
     title: "Daybreak Battle"
     path: "BGM31.adx"
     type: battle
+  - id: capsule_obtain
+    title: "Capsule Obtain"
+    path: "BGM33.adx"
+    type: result
 ...

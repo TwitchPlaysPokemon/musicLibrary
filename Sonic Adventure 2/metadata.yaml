@@ -161,8 +161,8 @@ songs:
     title: "34ºN, 12ºE ...for Mad Space"
     path: "Mad Space.brstm"
     type: betting
-  - id: throw_it_all_away_theme_of_shadow_the_hedgehog
-    title: "Throw It All Away ...Theme of \"Shadow The Hedgehog\""
+  - id: throw_it_all_away_theme_of_shadow
+    title: "Throw It All Away ...Theme of \"SHADOW\""
     path: "Throw it All Away.brstm"
     type: warning
   - id: space_trip_steps_for_meteor_herd
@@ -193,10 +193,6 @@ songs:
     title: "I'm A Spy ...for Security Hall"
     path: "Security Hall.brstm"
     type: betting
-  - id: e_g_g_m_a_n_instrumental
-    title: "E.G.G.M.A.N. (Instrumental)"
-    path: "EGGMAN (Instrumental).brstm"
-    type: warning
   - id: tutorial_sa2
     title: "Tutorial"
     path: "Tutorial.brstm"
@@ -213,10 +209,6 @@ songs:
     title: "The Supernatural ...for Final Chase"
     path: "The Supernatural ...for Final Chase.brstm"
     type: battle
-  - id: unknown_from_me_instrumental_sa2
-    title: "Unknown from M.E. [Theme of Knuckles] (Instrumental)"
-    path: "Unknown from M.E. [Theme of Knuckles] (Instrumental).brstm"
-    type: betting
   - id: live_learn_main_theme_of_sonic_adventure_2
     title: "Live & Learn ...Main Theme of \"SONIC ADVENTURE 2\""
     path: "Live & Learn [Main Theme of SA2].brstm"
@@ -240,18 +232,26 @@ songs:
     path: "D_CHAMBR.ADX"
     type: betting
   - id: e_g_g_m_a_n_theme_of_dr_eggman
-    title: "E.G.G.M.A.N. ...Theme of \"Dr. Eggman\""
+    title: "E.G.G.M.A.N. ...Theme of \"Dr. EGGMAN\""
     path: "E.G.G.M.A.N. (OST Version).brstm"
     ends: 3:00
+    type: betting
+  - id: e_g_g_m_a_n_theme_of_dr_eggman_instrumental
+    title: "E.G.G.M.A.N. ...Theme of \"Dr. EGGMAN\" (Instrumental)"
+    path: "EGGMAN (Instrumental).brstm"
     type: betting
   - id: kick_the_rock_for_wild_canyon
     title: "Kick The Rock! ...for Wild Canyon"
     path: "W_CANYON.ADX"
     type: betting
   - id: unknown_from_m_e_theme_of_knuckles_sa2
-    title: "Unknown from M.E. ...Theme of \"Knuckles\""
+    title: "Unknown from M.E. ...Theme of \"KNUCKLES\""
     path: "Unknown from M.E. [Theme of Knuckles] (Looped).brstm"
     ends: 3:06
+    type: betting
+  - id: unknown_from_me_theme_of_knuckles_instrumental_sa2
+    title: "Unknown from M.E. ...Theme of \"KNUCKLES\" (Instrumental)"
+    path: "Unknown from M.E. [Theme of Knuckles] (Instrumental).brstm"
     type: betting
   - id: dive_into_the_mellow_for_aquatic_mine
     title: "Dive into the Mellow ...for Aquatic Mine"

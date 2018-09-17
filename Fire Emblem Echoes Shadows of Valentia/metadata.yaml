@@ -69,4 +69,8 @@ songs:
     title: "Revelations"
     path: "BGM_SYS_Menu.dspadpcm.bcstm"
     type: break
+  - id: twilight_of_the_gods
+    title: "Twilight of the Gods"
+    path: "BGM_MAP_B_A4.dspadpcm.bcstm"
+    type: betting
 ...

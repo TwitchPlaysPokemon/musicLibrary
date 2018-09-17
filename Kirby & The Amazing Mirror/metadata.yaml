@@ -5,34 +5,34 @@ series: kirby
 platform: "GBA"
 year: 2004
 songs: 
-  - id: area_3_cabbage_cavern
-    title: "Area 3 - Cabbage Cavern"
+  - id: cave_rock_area_amazing_mirror
+    title: "Cave/Rock Area"
     path: "Area 3 - Cabbage Cavern.minigsf"
     type: betting
-  - id: area_6_olive_ocean
-    title: "Area 6 - Olive Ocean"
+  - id: deep_sea_area_amazing_mirror
+    title: "Deep Sea Area"
     path: "11 Area 6 - Olive Ocean.minigsf"
     type: betting
-  - id: area_7_peppermint_palace
-    title: "Area 7 - Peppermint Palace"
+  - id: ice_crystal_area_amazing_mirror
+    title: "Ice/Crystal Area"
     path: "Area 7 - Peppermint Palace.minigsf"
     tags: [xmas]
     type: betting
     ends: 2:11
-  - id: intro_stage_amazing_mirror
-    title: "Intro Stage"
+  - id: labyrinth_entrance_stage_amazing_mirror
+    title: "Labyrinth Entrance Stage"
     path: "Intro Stage.minigsf"
     type: result
-  - id: area_2_moonlight_mansion_area_5_carrot_castle
-    title: "Area 2 - Moonlight Mansion / Area 5 - Carrot Castle"
+  - id: castle_building_area_amazing_mirror
+    title: "Castle/Building Area"
     path: "Area 2 - Moonlight Mansion, Area 5 - Carrot Castle.minigsf"
     type: betting
-  - id: area_9_candy_constellation
-    title: "Area 9 - Candy Constellation"
+  - id: space_area_amazing_mirror
+    title: "Space Area"
     path: "Area 9 - Candy Constellation.minigsf"
     type: result
-  - id: bonus_chance_amazing_mirror
-    title: "Bonus Chance"
+  - id: goal_game_amazing_mirror
+    title: "Goal Game"
     path: "Bonus Chance.minigsf"
     type: warning
   - id: ending_amazing_mirror
@@ -47,40 +47,40 @@ songs:
     title: "Speed Eaters"
     path: "Speed Eaters.minigsf"
     type: result
-  - id: dark_meta_knight_attacks_amazing_mirror
-    title: "Dark Meta Knight Attacks"
+  - id: dark_meta_knight_appears_amazing_mirror
+    title: "Dark Meta Knight Appears"
     path: "Dark Meta Knight Attacks.minigsf"
     type: warning
-  - id: area_4_mustard_mountain
-    title: "Area 4 - Mustard Mountain"
+  - id: flame_lava_area_amazing_mirror
+    title: "Flame/Lava Area"
     path: "Area 4 - Mustard Mountain.minigsf"
     type: betting
   - id: mini_boss_battle_amazing_mirror
     title: "Mini-Boss Battle"
     path: "Mini-Boss Battle.minigsf"
     type: warning
-  - id: boss_battle_amazing_mirror
-    title: "Boss Battle"
+  - id: boss_amazing_mirror
+    title: "Boss"
     path: "Boss Battle.minigsf"
     type: warning
-  - id: dark_meta_knight_battle
-    title: "Dark Meta Knight Battle"
+  - id: dark_meta_knight_amazing_mirror
+    title: "Dark Meta Knight"
     path: "Dark Meta Knight Battle.minigsf"
     type: warning
-  - id: dark_minds_second_form
-    title: "Dark Mind's Second Form"
+  - id: last_boss_second_form_amazing_mirror
+    title: "Last Boss/Second Form"
     path: "Dark Mind's Second Form.minigsf"
     type: warning
-  - id: fighting_dark_mind_in_the_sky
-    title: "Fighting Dark Mind in the Sky"
+  - id: last_boss_third_form_amazing_mirror
+    title: "Last Boss/Third Form"
     path: "Fighting Dark Mind in the Sky.minigsf"
     type: warning
-  - id: overworld_amazing_mirror
-    title: "Overworld"
+  - id: start_stage_amazing_mirror
+    title: "Start Stage"
     path: "Overworld.minigsf"
     type: break
-  - id: forest_natural_area_amazing_mirror
-    title: "Forest & Natural Area"
+  - id: forest_nature_area_amazing_mirror
+    title: "Forest/Nature Area"
     path: "07 Area 1 - Rainbow Route.minigsf"
     type: betting
 ...

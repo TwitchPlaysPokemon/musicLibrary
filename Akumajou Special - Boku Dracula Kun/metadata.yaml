@@ -5,12 +5,12 @@ series: castlevania
 platform: "FC"
 year: 1990
 songs: 
-  - id: go_go_at_the_castle_stage_1
-    title: "Go Go at the Castle [Stage 1]"
+  - id: go_go_in_the_great_castle_1st_bgm
+    title: "Go-Go in the Great Castle (1st.BGM)"
     path: "Go Go at the Castle [Stage 1].brstm"
     type: betting
-  - id: hop_and_step_above_the_clouds_stage_2a
-    title: "Hop and Step Above the Clouds [Stage 2a]"
+  - id: hop_and_step_above_the_clouds_2st_bgm_roller_coaster
+    title: "Hop and Step Above the Clouds (2st.BGM ~ Roller Coaster)"
     path: "Hop and Step Above the Clouds [Stage 2a].brstm"
     type: betting
 ...

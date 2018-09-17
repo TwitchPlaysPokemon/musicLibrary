@@ -6,46 +6,46 @@ platform: "PC"
 year: 2015
 songs:
   - id: love_coloured_master_spark_ulil
-    title: "Marisa's Theme: Love-Coloured Master Spark"
+    title: "Love-Coloured Master Spark"
     path: "Love Coloured Master Spark.brstm"
     type: betting
-  - id: reach_for_the_moon_immortal_smoke_ulil
-    title: "Mokou's Theme: Reach for the Moon, Immortal Smoke"
+  - id: reach_for_the_moon_mokou_s_theme_ulil
+    title: "Reach for the Moon, Immortal Smoke (Mokou's Theme)"
     path: "Reach for the Moon, Immortal Smoke.brstm"
     type: betting
   - id: shoutoku_legend_true_administrator_ulil
-    title: "Miko's Theme: Shoutoku Legend ~ True Administrator"
+    title: "Shoutoku Legend ~ True Administrator"
     path: "Shoutoku Legend ~ True Administrator.brstm"
     type: betting
-  - id: dichromatic_lotus_butterfly_red_and_white
-    title: "Reimu's Theme: Dichromatic Lotus Butterfly ~ Red and White"
+  - id: dichromatic_lotus_butterfly_red_and_white_ulil
+    title: "Dichromatic Lotus Butterfly ~ Red and White"
     path: "Dichromatic Lotus Butterfly ~ Red and White.brstm"
     type: battle
   - id: emotional_skycraper_cosmic_mind_ulil
-    title: "Byakuren's Theme: Emotional Skyscraper ~ Cosmic Mind"
+    title: "Emotional Skyscraper ~ Cosmic Mind"
     path: "Emotional Skyscraper ~ Cosmic Mind.brstm"
     type: battle
   - id: hartmanns_youkai_girl_ulil
-    title: "Koishi's Theme: Hartmann's Youkai Girl"
+    title: "Hartmann's Youkai Girl"
     path: "Hartmann's Youkai Girl.brstm"
     type: battle
   - id: futasuiwa_from_gensokyo_ulil
-    title: "Mamizou's Theme: Futatsuiwa from Gensokyo"
+    title: "Futatsuiwa from Gensokyo"
     path: "Futatsuiwa from Gensokyo.brstm"
     type: battle
   - id: the_lost_emotion_ulil
-    title: "Kokoro's Theme: The Lost Emotion"
+    title: "The Lost Emotion"
     path: "The Lost Emotion.brstm"
     type: battle
-  - id: battlefield_of_hanahazama
-    title: "Kasen's Theme: Battlefield of Hanahazama"
+  - id: battlefield_of_the_hanahazama_ulil
+    title: "Battlefield of the Hanahazama"
     path: "Battlefield of Hanahazama.brstm"
     type: battle
-  - id: last_occultism_esotericist_of_the_present_world
-    title: "Sumireko's Theme: Last Occultism ~ Esotericist of the Present World"
+  - id: last_occultism_esotericist_of_the_present_world_ulil
+    title: "Last Occultism ~ Esotericist of the Present World"
     path: "Last Occultism ~ Esotericist of the Present World.brstm"
     type: battle
-  - id: last_occultism_esotericist_of_the_present_world_aether
+  - id: last_occultism_esotericist_of_the_present_world_arrange_by_aether
     title: "Last Occultism ~ Esotericist of the Present World (Arrange by Aether)"
     path: "Last Occultism ~ Esotericist of the Present World (arrange by Aether).brstm"
     type: battle
@@ -53,3 +53,24 @@ songs:
     title: "Fair Scramble"
     path: "Fair Scramble.brstm"
     type: result
+  - id: akutagawa_ryuunosuke_s_kappa_candid_friend_ulil
+    title: "Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend"
+    path: "Akutagawa Ryuunosuke's Kappa _ Candid Friend.brstm"
+    type: battle
+  - id: bamboo_forest_in_flames
+    title: "Bamboo Forest in Flames"
+    path: "Bamboo Forest in Flames.brstm"
+    type: battle
+  - id: bell_of_the_antipodes
+    title: "Bell of the Antipodes"
+    path: "Bell of the Antipodes.brstm"
+    type: betting
+  - id: inchings_of_the_shining_needle_little_princess
+    title: "Inchlings of the Shining Needle ~ Little Princess"
+    path: "Kobito of the Shining Needle _ Little Princess.brstm"
+    type: battle
+  - id: occult_a_la_carte
+    title: "Occult à la Carte"
+    path: "Occult to the Menu.brstm"
+    type: battle
+...

@@ -5,124 +5,128 @@ series: mother
 platform: "GBA"
 year: 2006
 songs:
-  - id: fire
-    title: "F-F-Fire!"
-    path: "F-F-Fire!.brstm"
-    type: warning
-  - id: dangerous_highway
-    title: "Dangerous Highway"
-    path: "Dangerous Highway.brstm"
-    type: betting
-  - id: hard_rain
-    title: "Hard Rain"
-    path: "Hard Rain.brstm"
-    type: betting
-  - id: unfounded_revenge
-    title: "Unfounded Revenge"
-    path: "Unfounded Revenge.brstm"
-    type: battle
-  - id: time_passage
-    title: "Time Passage"
-    path: "Time Passage.brstm"
-    type: result
-  - id: bothersome_guys
-    title: "Bothersome Guys"
-    path: "Bothersome Guys.brstm"
-    type: warning
-  - id: fate
-    title: "Fate"
-    path: "Fate.brstm"
-    type: betting
-  - id: fight_mecha_drago
-    title: "Fight with Mecha-Drago"
-    path: "Fight with Mecha-Drago.brstm"
-    type: battle
   - id: fun_naming
     title: "Fun Naming"
-    path: "Fun Naming.brstm"
+    path: "002 Fun Naming.minigsf"
     type: betting
-  - id: mind_of_a_thief
-    title: "Mind of a Thief"
-    path: "Mind of a Thief.brstm"
+  - id: mom_s_hometown
+    title: "Mom's Hometown"
+    path: "006 Mom's Hometown.minigsf"
     type: betting
-  - id: natural_killer_cyborg
-    title: "Natural Killer Cyborg"
-    path: "Natural Killer Cyborg.brstm"
+  - id: bothersome_guys
+    title: "Bothersome Guys"
+    path: "010 Bothersome Guys.minigsf"
     type: warning
-  - id: the_waters_great
-    title: "The Water's Great"
-    path: "The Water's Great.brstm"
-    type: result
-  - id: vs_ultimate_chimera
-    title: "Vs Ultimate Chimera"
-    path: "Vs Ultimate Chimera.brstm"
-    type: warning
-  - id: monkeys_delivery_service
-    title: "Monkey's Delivery Service"
-    path: "Monkey's Delivery Service.brstm"
-    type: betting
-  - id: a_master_a_father_a_thief
-    title: "A Master, a Father, a Thief"
-    path: "A Master, a Father, a Thief.brstm"
-    type: betting
-  - id: snowman_mother3
-    title: "Snowman"
-    path: "Snowman.minigsf"
-    type: break
   - id: a_letter_to_you_honey
     title: "A Letter to You, Honey"
-    path: "A Letter to You, Honey.minigsf"
+    path: "014 A Letter to You, Honey.minigsf"
     type: break
-  - id: his_highness_theme
-    title: "His Highness' Theme"
-    path: "His Highness' Theme.minigsf"
-    type: betting
-  - id: mom_hometown
-    title: "Mom's Hometown"
-    path: "Mom's Hometown.minigsf"
-    type: betting
-  - id: monkey_love_song
-    title: "Monkey's Love Song"
-    path: "Monkey's Love Song.minigsf"
-    type: betting
-  - id: mr_batty_twist
-    title: "Mr. Batty Twist"
-    path: "Mr. Batty Twist.minigsf"
-    type: warning
-  - id: name_these_children
-    title: "Name These Children"
-    path: "Name These Children.minigsf"
-    type: break
-  - id: ode_to_ancestors_8
-    title: "Ode to Ancestors: 8th Movement"
-    path: "Ode to Ancestors- 8th Movement.minigsf"
+  - id: f_f_fire
+    title: "F-F-Fire!"
+    path: "018 F-F-Fire!.minigsf"
     type: warning
   - id: to_sunshine_forest
     title: "To Sunshine Forest"
-    path: "To Sunshine Forest.minigsf"
+    path: "022 To Sunshine Forest.minigsf"
     type: betting
-  - id: fairies_mother3
-    title: "Fairies (Neckbeard's Recommendation)"
-    path: "Fairies (Neckbeard's Recommend.).minigsf"
-    type: break
-  - id: samba_de_combo
-    title: "Samba de Combo"
-    path: "Samba de Combo.minigsf"
-    type: betting
+  - id: mr_batty_twist
+    title: "Mr. Batty Twist"
+    path: "026 Mr. Batty Twist.minigsf"
+    type: warning
+  - id: the_water_s_great
+    title: "The Water's Great"
+    path: "027 The Water's Great.minigsf"
+    type: result
   - id: gentle_rain
     title: "Gentle Rain"
     path: "033 Gentle Rain.minigsf"
     type: break
+  - id: hard_rain
+    title: "Hard Rain"
+    path: "036 Hard Rain.minigsf"
+    type: betting
+  - id: run_my_dog_run
+    title: "Run, My Dog, Run!"
+    path: "038 Run, My Dog, Run!.minigsf"
+    type: warning
+  - id: fight_with_mecha_drago
+    title: "Fight with Mecha-Drago"
+    path: "064 Fight with Mecha-Drago.minigsf"
+    type: battle
+  - id: mind_of_a_thief
+    title: "Mind of a Thief"
+    path: "070 Mind of a Thief.minigsf"
+    type: betting
+  - id: fate
+    title: "Fate"
+    path: "075 Fate.minigsf"
+    type: betting
+  - id: unfounded_revenge
+    title: "Unfounded Revenge"
+    path: "088 Unfounded Revenge.minigsf"
+    type: battle
+  - id: a_master_a_father_a_thief
+    title: "A Master, a Father, a Thief"
+    path: "094 A Master, a Father, a Thief.minigsf"
+    type: betting
+  - id: ode_to_ancestors_8th_movement
+    title: "Ode to Ancestors: 8th Movement"
+    path: "100 Ode to Ancestors- 8th Movement.minigsf"
+    type: warning
+  - id: monkey_s_love_song
+    title: "Monkey's Love Song"
+    path: "104 Monkey's Love Song.minigsf
+    type: betting
+  - id: monkey_s_delivery_service
+    title: "Monkey's Delivery Service"
+    path: "109 Monkey's Delivery Service.minigsf"
+    type: betting
   - id: murasaki_forest
     title: "Murasaki Forest"
     path: "130 Murasaki Forest.minigsf"
     type: betting
+  - id: dangerous_highway
+    title: "Dangerous Highway"
+    path: "150 Dangerous Highway.minigsf"
+    type: betting
+  - id: fairies_neckbeard_s_recommendation
+    title: "Fairies (Neckbeard's Recommendation)"
+    path: "154 Fairies (Neckbeard's Recommend.).minigsf"
+    type: break
+  - id: name_these_children
+    title: "Name These Children"
+    path: "167 Name These Children.minigsf"
+    type: break
+  - id: let_s_ride_the_train
+    title: "Let's Ride the Train!"
+    path: "179 Let's Ride the Train!.minigsf"
+    type: result
+  - id: snowman_mother3
+    title: "Snowman"
+    path: "186 Snowman.minigsf"
+    type: break
+  - id: his_highness_theme
+    title: "His Highness' Theme"
+    path: "187 His Highness' Theme.minigsf"
+    type: betting
+  - id: samba_de_combo
+    title: "Samba de Combo"
+    path: "226 Samba de Combo.minigsf"
+    type: betting
+  - id: natural_killer_cyborg
+    title: "Natural Killer Cyborg"
+    path: "236 Natural Killer Cyborg.minigsf"
+    type: warning
+  - id: time_passage
+    title: "Time Passage"
+    path: "237 Time Passage.minigsf"
+    type: result
   - id: porkys_porkies
     title: "Porky's Porkies"
     path: "240 Porky's Porkies.minigsf"
     type: warning
-  - id: run_my_dog_run
-    title: "Run, My Dog, Run!"
-    path: "038 Run, My Dog, Run!.minigsf"
+  - id: vs_ultimate_chimera
+    title: "Vs. Ultimate Chimera"
+    path: "926 Vs. Ultimate Chimera.minigsf"
     type: warning
 ...

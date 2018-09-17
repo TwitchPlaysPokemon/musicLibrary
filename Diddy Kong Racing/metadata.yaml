@@ -4,10 +4,14 @@ title: "Diddy Kong Racing"
 platform: "N64"
 year: 1997
 songs:
-  - id: end_boss
-    title: "End Boss"
-    path: "42 - End Boss.miniusf"
-    type: battle
+  - id: lobby_theme_tune
+    title: "Lobby Theme Tune"
+    path: "03 - Options, Level Selection.miniusf"
+    type: break
+  - id: player_select_(diddy)
+    title: "Player Select (Diddy)"
+    path: "04c - Player Select (Diddy).miniusf"
+    type: break
   - id: ancient_lake
     title: "Ancient Lake"
     path: "07a - Ancient Lake.miniusf"
@@ -28,16 +32,16 @@ songs:
     title: "Whale Bay"
     path: "11a - Whale Bay.miniusf"
     type: betting
-  - id: pirate_lagoon,_treasure_caves
-    title: "Pirate Lagoon, Treasure Caves"
+  - id: pirate_lagoon
+    title: "Pirate Lagoon"
     path: "12a - Pirate Lagoon, Treasure Caves.miniusf"
     type: betting
-  - id: crescent_island_credits_2
-    title: "Crescent Island, Credits 2"
+  - id: crescent_island
+    title: "Crescent Island"
     path: "13a - Crescent Island, Credits 2.miniusf"
     type: betting
-  - id: everfrost_peak_snowball_valley
-    title: "Everfrost Peak, Snowball Valley"
+  - id: everfrost_peak
+    title: "Everfrost Peak"
     path: "14a - Everfrost Peak, Snowball Valley.miniusf"
     tags: [xmas]
     type: betting
@@ -55,64 +59,56 @@ songs:
     title: "Boulder Canyon (Outside Castle)"
     path: "17b - Boulder Canyon (Outside Castle).miniusf"
     type: betting
-  - id: greenwood_village,_windmill_plains
-    title: "Greenwood Village, Windmill Plains"
+  - id: greenwood_village
+    title: "Greenwood Village"
     path: "18a - Greenwood Village, Windmill Plains.miniusf"
     type: betting
-  - id: haunted_wood
+  - id: haunted_woods
     title: "Haunted Woods"
     path: "19a - Haunted Wood.miniusf"
     type: betting
-  - id: spacedust_alley,_star_city
-    title: "Spacedust Alley, Star City"
+  - id: star_city
+    title: "Star City"
     path: "21a - Spacedust Alley, Star City.miniusf"
     type: betting
   - id: spaceport_alpha
     title: "Spaceport Alpha"
     path: "22a - Spaceport Alpha.miniusf"
     type: betting
-  - id: darkmoon_caverns,_credits
-    title: "Darkmoon Caverns, Credits"
+  - id: darkmoon_caverns
+    title: "Darkmoon Caverns"
     path: "23a - Darkmoon Caverns, Credits.miniusf"
     type: betting
-  - id: genie_race
-    title: "Genie Race"
+  - id: taj's_challenge
+    title: "Taj's Challenge"
     path: "31a - Genie Race.miniusf"
+    type: betting
+  - id: taj's_theme
+    title: "Taj's Theme"
+    path: "33 - Genie.miniusf"
+    type: break
+  - id: meet_a_boss
+    title: "Meet a Boss"
+    path: "41 - End Boss Level Start.miniusf"
+    type: result
+  - id: boss_challenge_2
+    title: "Boss Challenge 2"
+    path: "42 - End Boss.miniusf"
+    type: battle
+  - id: wizpig_challenge
+    title: "Wizpig Challenge"
+    path: "46 - WizPig Race.miniusf"
+    type: warning
+  - id: central_area_theme_(basic)
+    title: "Central Area Theme (Basic)"
+    path: "49b - Island (Basic).miniusf"
+    type: break
+  - id: tt's_theme
+    title: "T.T.'s Theme"
+    path: "50 - TT.miniusf"
     type: betting
   - id: the_secret_tune
     title: "The Secret Tune"
     path: "62 - The Secret Tune.miniusf"
-    type: betting
-  - id: options,_level_selection
-    title: "Options, Level Selection"
-    path: "03 - Options, Level Selection.miniusf"
-    type: break
-  - id: player_select_(diddy)
-    title: "Player Select (Diddy)"
-    path: "04c - Player Select (Diddy).miniusf"
-    type: break
-  - id: genie
-    title: "Genie"
-    path: "33 - Genie.miniusf"
-    type: break
-  - id: island_(basic)
-    title: "Island (Basic)"
-    path: "49b - Island (Basic).miniusf"
-    type: break
-  - id: tt
-    title: "TT"
-    path: "50 - TT.miniusf"
-    type: betting
-  - id: end_boss_level_start
-    title: "End Boss Level Start"
-    path: "41 - End Boss Level Start.miniusf"
-    type: result
-  - id: wizpig_race
-    title: "WizPig Race"
-    path: "46 - WizPig Race.miniusf"
-    type: warning
-  - id: darkmoon_caverns_credits
-    title: "Darkmoon Caverns/Credits"
-    path: "Darkmoon Caverns - Credits.brstm"
     type: betting
 ...

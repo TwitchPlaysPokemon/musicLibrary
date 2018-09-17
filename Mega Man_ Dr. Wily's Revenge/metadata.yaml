@@ -1,27 +1,28 @@
-id: mega_man_dr_wilys_revenge
+---
+id: mega_man_dr_wily_s_revenge
 title: "Mega Man: Dr. Wily's Revenge"
 series: megaman
 platform: "GB"
 year: 1991
 songs:
-  - id: dr_wily_stage_1_wily_base
-    title: "Dr. Wily Stage 1 - Wily Base"
-    path: "Wily Stage 1 - Wily Base.brstm"
-    ends: 2:33
-    type: betting
-  - id: password_wilys_revenge
+  - id: password_mm_wily_s_revenge
     title: "Password"
-    path: "Password.brstm"
+    path: "02 Password.vgz"
     type: result
-  - id: stage_select_wilys_revenge
+  - id: stage_select_mm_wily_s_revenge
     title: "Stage Select"
-    path: "Stage Select.brstm"
+    path: "03 Stage Select.vgz"
     type: result
-  - id: dr_wily_station
-    title: "Dr. Wily Station"
-    path: "Final Stage - Wily Station.brstm"
+  - id: wily_castle_stage
+    title: "Wily Castle Stage"
+    path: "13 Wily Castle Stage.vgz"
+    type: betting
+  - id: wily_station_stage
+    title: "Wily Station Stage"
+    path: "14 Wily Station Stage.vgz"
     type: result
   - id: stage_select_prototype
     title: "Stage Select (Prototype)"
     path: "Stage Select (Prototype).brstm"
     type: warning
+...

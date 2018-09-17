@@ -4,8 +4,52 @@ title: "Shin Megami Tensei: Synchronicity Prologue"
 platform: "PC"
 year: 2017
 songs: 
+  - id: stage_0_smt_synchronicity_prologue
+    title: "Stage 0"
+    path: "Stage 0.brstm"
+    type: betting
+  - id: stage_1_smt_synchronicity_prologue
+    title: "Stage 1"
+    path: "Stage 1.brstm"
+    type: betting
+  - id: stage_2_smt_synchronicity_prologue
+    title: "Stage 2"
+    path: "Stage 2.brstm"
+    type: betting
   - id: stage_3_smt_synchronicity_prologue
     title: "Stage 3"
-    path: "st03.ogg"
+    path: "Stage 3.brstm"
     type: betting
+  - id: stage_4_smt_synchronicity_prologue
+    title: "Stage 4"
+    path: "Stage 4.brstm"
+    type: warning
+  - id: stage_5_smt_synchronicity_prologue
+    title: "Stage 5"
+    path: "Stage 5.brstm"
+    type: warning
+  - id: boss_0_smt_synchronicity_prologue
+    title: "Boss 0"
+    path: "Boss 0.brstm"
+    type: warning
+  - id: boss_1_smt_synchronicity_prologue
+    title: "Boss 1"
+    path: "Boss 1.brstm"
+    type: warning
+  - id: talk_1_smt_synchronicity_prologue
+    title: "Talk 1"
+    path: "Talk 1.brstm"
+    type: warning
+  - id: talk_2_smt_synchronicity_prologue
+    title: "Talk 2"
+    path: "Talk 2.brstm"
+    type: betting
+  - id: talk_3_smt_synchronicity_prologue
+    title: "Talk 3"
+    path: "Talk 3.brstm"
+    type: betting
+  - id: talk_4_smt_synchronicity_prologue
+    title: "Talk 4"
+    path: "Talk 4.brstm"
+    type: break
 ...

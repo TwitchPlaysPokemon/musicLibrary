@@ -1,0 +1,44 @@
+---
+id: monster_hunter_generations_ultimate_xx
+title: "Monster Hunter Generations Ultimate/XX"
+series: monsterhunter
+platform: ["3DS", "Switch"]
+year: 2015
+songs: 
+  - id: the_awe_inspiring_brave_figure
+    title: "The Awe-Inspiring Brave Figure"
+    path: "bgm_map09_bt.mca"
+    type: battle
+  - id: scorching_blade_glavenus
+    title: "Scorching Blade ~ Glavenus"
+    path: "bgm_em080_Dinobalde.mca"
+    type: battle
+  - id: electric_rebel_astalos
+    title: "Electric Rebel ~ Astalos"
+    path: "bgm_em081_Cocotte.mca"
+    type: battle
+  - id: immovable_mountain_god_gammoth
+    title: "Immovable Mountain God ~ Gammoth"
+    path: "bgm_em083_Pokke.mca"
+    type: battle
+  - id: bewitching_dance_mizutsune
+    title: "Bewitching Dance ~ Mizutsune"
+    path: "bgm_em082_Yukumo.mca"
+    type: battle
+  - id: silver_winged_scarlet_star_valfalk
+    title: "Silver Winged Scarlet Star ~ Valfalk"
+    path: "bgm_em086_Shinmain.mca"
+    type: battle
+  - id: mon_nyan_corps_fire_away
+    title: "Mon-Nyan Corps Fire Away!"
+    path: "bgm_minigame.mca"
+    type: result
+  - id: village_bringing_color_to_the_wind_and_grassland_belna_village
+    title: "Village Bringing Color to the Wind and Grassland ~ Belna Village"
+    path: "bgm_v01.mca"
+    type: break
+  - id: pallico_square_theme
+    title: "Palico Square Theme"
+    path: "bgm_v05.mca"
+    type: break
+...

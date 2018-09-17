@@ -105,4 +105,16 @@ songs:
     title: "Office"
     path: "Office.brstm"
     type: betting
+  - id: successful_proposal
+    title: "Successful Proposal!"
+    path: "propose_success1130.dspadpcm.bcstm"
+    type: result
+  - id: romance_rejected_second_try
+    title: "Romance - Rejected (Second Try)"
+    path: "Clone_room_love11.dspadpcm.bcstm"
+    type: warning
+  - id: marriage_divorcee
+    title: "Marriage - Divorcee"
+    path: "Clone_room_down_marrige06.dspadpcm.bcstm"
+    type: break
 ...

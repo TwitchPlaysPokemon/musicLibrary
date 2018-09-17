@@ -1,10 +1,15 @@
+---
 id: shantae_half_genie_hero
 title: "Shantae: Half-Genie Hero"
-year: 2016
 series: shantae
 platform: ["Wii U", "Various"]
 #other platforms: ["PS4", "XBone", "PC", "Vita", "Switch"]
+year: 2016
 songs:
+  - id: dance_through_the_danger_half_genie_hero
+    title: "Dance Through the Danger"
+    path: "Dance Through the Danger (Main Theme).brstm"
+    type: betting
   - id: break_time_shantae_half_genie_hero
     title: "Break Time"
     path: "Bonus Song 2 Break Time.brstm"
@@ -53,3 +58,16 @@ songs:
     title: "Sky's Song"
     path: "Sky's Song.brstm"
     type: break
+  - id: dynamo_half_genie_hero
+    title: "Dynamo"
+    path: "Dynamo.brstm"
+    type: battle
+  - id: rottytops_song_half_genie_hero
+    title: "Rottytops' Song"
+    path: "Rottytops' Song.brstm"
+    type: betting
+  - id: let_s_go_shopping_half_genie_hero
+    title: "Let's Go Shopping"
+    path: "Let's Go Shopping.brstm"
+    type: break
+...

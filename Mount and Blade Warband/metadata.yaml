@@ -1,0 +1,16 @@
+---
+id: mount_and_blade_warband
+title: "Mount and Blade: Warband"
+platform: "PC"
+year: 2010
+songs: 
+  - id: bandit_fight
+    title: "Bandit Fight"
+    path: "bandit_fight.ogg"
+    type: betting
+  - id: arena_1
+    title: "Arena 1"
+    path: "arena_1.ogg"
+    ends: 3:07
+    type: betting
+...

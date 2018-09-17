@@ -1,6 +1,6 @@
 ---
-id: nintendo_wii_u
-title: "Nintendo Wii U"
+id: wii_u_system
+title: "Wii U System"
 platform: "Wii U"
 year: 2012
 songs: 
@@ -12,5 +12,9 @@ songs:
   - id: miiverse_boot
     title: "Miiverse - Boot"
     path: "Miiverse - Boot.brstm"
+    type: break
+  - id: mii_maker_main_menu_tv_gamepad_mix
+    title: "Mii Maker - Main Menu (TV Gamepad Mix)"
+    path: "Mii Maker - Main Menu (TV Gamepad Mix).brstm"
     type: break
 ...

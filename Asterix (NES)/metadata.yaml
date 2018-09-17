@@ -32,4 +32,12 @@ songs:
     title: "Egypt"
     path: "Egypt.vgz"
     type: betting
+  - id: gb_rome_unused
+    title: "GB Rome (Unused)"
+    path: "GB Rome.brstm"
+    type: betting
+  - id: unused_asterix_nes
+    title: "Unused"
+    path: "Unused.brstm"
+    type: result
 ...

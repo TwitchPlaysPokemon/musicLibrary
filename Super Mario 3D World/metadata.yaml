@@ -71,4 +71,52 @@ songs:
     path: "World 3.brstm"
     tags: [xmas]
     type: break
+  - id: motley_bossblob
+    title: "Motley Bossblob"
+    path: "Redc_bgm_Boss01.my.32.dspadpcm.bfstm"
+    type: battle
+  - id: mount_must_dash
+    title: "Mount Must Dash"
+    path: "Redc_bgm_Dashridge.my.32.dspadpcm.bfstm"
+    type: betting
+  - id: the_great_tower_showdown_1
+    title: "The Great Tower Showdown 1"
+    path: "Redc_bgm_Finkoopa01.my.32.dspadpcm.bfstm"
+    type: warning
+  - id: the_great_tower_showdown_2
+    title: "The Great Tower Showdown 2"
+    path: "Redc_bgm_Finkoopa03.my.32.dspadpcm.bfstm"
+    type: warning
+  - id: final_curtain_for_meowser
+    title: "Final Curtain for Meowser"
+    path: "Redc_bgm_Finkoopa04.my.32.dspadpcm.bfstm"
+    type: result
+  - id: fort_fire_bros
+    title: "Fort Fire Bros."
+    path: "Redc_bgm_Fort.g.32.dspadpcm.bfstm"
+    type: betting
+  - id: shifty_boo_mansion
+    title: "Shifty Boo Mansion"
+    path: "Redc_bgm_Ghost.my.32.dspadpcm.bfstm"
+    type: betting
+  - id: bowser_s_highway_showdown
+    title: "Bowser's Highway Showdown"
+    path: "Redc_bgm_Koopa01.g.32.dspadpcm.bfstm"
+    type: battle
+  - id: the_great_tower
+    title: "The Great Tower"
+    path: "Redc_bgm_Lastfield.g.32.dspadpcm.bfstm"
+    type: betting
+  - id: champion_s_road
+    title: "Champion's Road"
+    path: "Redc_bgm_Milkyway.my.32.dspadpcm.bfstm"
+    type: betting
+  - id: the_bullet_bill_express
+    title: "The Bullet Bill Express"
+    path: "Redc_bgm_Train.my.32.dspadpcm.bfstm"
+    type: betting
+  - id: sunshine_seaside
+    title: "Sunshine Seaside"
+    path: "Sunshine Seaside.brstm"
+    type: betting
 ...

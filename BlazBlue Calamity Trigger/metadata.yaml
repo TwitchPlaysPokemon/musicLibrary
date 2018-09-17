@@ -2,65 +2,65 @@
 id: blazblue_calamity_trigger
 title: "BlazBlue: Calamity Trigger"
 series: blazblue
-platform: ["360", "Various"]
-#other platforms: ["Arcade", "PS3", "PSP", "PC"]
+platform: "Various"
+#other platforms: ["Arcade", "360", "PS3", "PSP", "PC"]
 year: 2008
 songs:
-  - id: awakening_the_chaos
-    title: "Awakening the Chaos"
+  - id: awakening_the_chaos_nu_13
+    title: "Awakening The Chaos (ν -13-)"
     path: "Awakening the Chaos.brstm"
     ends: 3:25
     type: betting
-  - id: blood_pain
-    title: "Blood Pain"
+  - id: blood_pain_same_character
+    title: "Blood Pain (Same Character)"
     path: "Blood Pain.brstm"
     type: battle
-  - id: bullet_dance
-    title: "Bullet Dance"
+  - id: bullet_dance_noel_vermillion
+    title: "Bullet Dance (Noel Vermillion)"
     path: "Bullet Dance.brstm"
     type: battle
-  - id: catus_carnival
-    title: "Catus Carnival"
+  - id: catus_carnival_taokaka
+    title: "Catus Carnival (Taokaka)"
     path: "Catus Carnival.brstm"
     type: betting
-  - id: gale_blazblue
-    title: "Gale"
+  - id: gale_bang_shishigami
+    title: "Gale (Bang Shishigami)"
     path: "Gale.brstm"
     type: battle
-  - id: marionette_purple
-    title: "Marionette Purple"
+  - id: marionette_purple_carl_clover
+    title: "Marionette Purple (Carl Clover)"
     path: "Marionette Purple.brstm"
     type: battle
-  - id: queen_of_rose
-    title: "Queen of Rose"
+  - id: queen_of_rose_rachel_alucard
+    title: "Queen of rose (Rachel Alucard)"
     path: "Queen of Rose.brstm"
     type: battle
-  - id: rebellion
-    title: "Rebellion"
+  - id: rebellion_ragna_the_bloodedge
+    title: "Rebellion (Ragna the Bloodedge)"
     path: "Rebellion.brstm"
     type: battle
-  - id: susanooh
-    title: "SUSANOOH"
+  - id: susanooh_hakumen
+    title: "SUSANOOH (Hakumen)"
     path: "SUSANOOH.brstm"
     type: battle
-  - id: thin_red_line
-    title: "Thin RED Line"
+  - id: thin_red_line_arakune
+    title: "Thin RED Line (Arakune)"
     path: "Thin RED Line.brstm"
     type: battle
-  - id: under_heaven_destruction
-    title: "Under Heaven Destruction"
+  - id: under_heaven_destruction_ragna_vs_jin
+    title: "Under Heaven Destruction (Ragna VS Jin)"
     path: "Under Heaven Destruction.brstm"
     type: battle
-  - id: weak_executioner
-    title: "Weak Executioner"
+  - id: weak_executioner_litchi_vs_arakune
+    title: "Weak Executioner (Litchi VS Arakune)"
     path: "Weak Executioner.brstm"
     type: battle
-  - id: lust_sin
-    title: "Lust SIN"
+  - id: lust_sin_jin_kisaragi
+    title: "Lust SIN (Jin Kisaragi)"
     path: "Lust SIN.brstm"
     type: battle
-  - id: white_requiem
-    title: "White Requiem"
+  - id: white_requiem_rachel_vs_ragna
+    title: "White Requiem (Rachel VS Ragna)"
     path: "White Requiem.brstm"
     type: battle
 ...

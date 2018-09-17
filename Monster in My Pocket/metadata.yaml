@@ -1,0 +1,15 @@
+---
+id: monster_in_my_pocket
+title: "Monster in My Pocket"
+platform: "NES"
+year: 1992
+songs: 
+  - id: boss_battle_monster_in_my_pocket
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: character_select_monster_in_my_pocket
+    title: "Character Select"
+    path: "Character Select.brstm"
+    type: warning
+...

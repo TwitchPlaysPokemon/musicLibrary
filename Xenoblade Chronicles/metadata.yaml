@@ -5,6 +5,10 @@ series: xeno
 platform: ["Wii", "3DS"]
 year: 2010
 songs: 
+  - id: zanza_the_divine
+    title: "Zanza the Divine"
+    path: "214 Manami Kiyota - Xanthe.adx"
+    type: battle
   - id: colony_9
     title: "Colony 9"
     path: "303 Yoko Shimomura - Colony 9.adx"
