@@ -17,7 +17,7 @@ songs:
     path: "World Flower.brstm"
     title: "World Flower"
     type: betting
-  - id: sunshine_seaside
+  - id: sunshine_seaside_smw3d
     path: "Sunshine Seaside.brstm"
     title: "Sunshine Seaside"
     type: betting
@@ -66,7 +66,7 @@ songs:
     title: "SUPER MARIO 3D WORLD Theme"
     path: "Super Mario 3D World Theme.brstm"
     type: result
-  - id: world_3_3d_world_theme
+  - id: world_3_smw3d
     title: "World 3"
     path: "World 3.brstm"
     tags: [xmas]
@@ -114,9 +114,5 @@ songs:
   - id: the_bullet_bill_express
     title: "The Bullet Bill Express"
     path: "Redc_bgm_Train.my.32.dspadpcm.bfstm"
-    type: betting
-  - id: sunshine_seaside
-    title: "Sunshine Seaside"
-    path: "Sunshine Seaside.brstm"
     type: betting
 ...

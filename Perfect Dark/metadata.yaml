@@ -12,7 +12,7 @@ songs:
     title: "Carrington Institute"
     path: "04 Carrington Institute.miniusf"
     type: betting
-  - id: dark_combat
+  - id: dark_combat_pd
     title: "Dark Combat"
     path: "07 Dark Combat.miniusf"
     type: betting
@@ -20,11 +20,11 @@ songs:
     title: "Combat Simulator Complete"
     path: "13b Multiplayer Completed.miniusf"
     type: result
-  - id: pause_menu
+  - id: pause_menu_pd
     title: "Pause Menu"
     path: "14 Pause.miniusf"
     type: break
-  - id: mission_completed
+  - id: mission_completed_pd
     title: "Mission Completed"
     path: "16a Mission Completed.miniusf"
     type: result
@@ -64,7 +64,7 @@ songs:
     title: "Area 51: Escape"
     path: "25b Escape.miniusf"
     type: betting
-  - id: area_51_escape
+  - id: area_51_escape_pd
     title: "Area 51: Escape X"
     path: "25d Escape X.miniusf"
     type: warning
@@ -100,7 +100,7 @@ songs:
     title: "Skedar Ruins: Battle shrine"
     path: "33b Skedar Ruins.miniusf"
     type: betting
-  - id: skedar_ruins_battle_shrine
+  - id: skedar_ruins_battle_shrine_pd
     title: "Skedar Ruins: Battle shrine X"
     path: "33c Skedar Ruins X.miniusf"
     type: warning

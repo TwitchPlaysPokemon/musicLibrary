@@ -11,7 +11,7 @@ songs:
   - id: blobbers
     title: "Blobbers"
     path: "Blobbers.brstm"
-    type: betting
+    type: battle
   - id: slapball
     title: "Slap Ball"
     path: "SlapBall.brstm"
@@ -56,10 +56,10 @@ songs:
     title: "Frozen Court"
     path: "WinterRemix.brstm"
     type: betting
-  - id: mecha_santa_slapcity
-    title: "Mecha Santa's Fortress"
-    path: "blobbers.brstm"
-    type: battle
+    #  - id: mecha_santa_slapcity
+    #    title: "Mecha Santa's Fortress"
+    #    path: ".brstm"
+    #    type: battle
   - id: healing_mode_slapcity
     title: "Healing Mode"
     path: "Guts.brstm"
