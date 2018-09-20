@@ -1,3 +1,4 @@
+---
 id: star_wars_the_force_unleashed_ii
 title: "Star Wars: The Force Unleashed II"
 platform: ["PS3", "360", "PC"]
@@ -7,7 +8,4 @@ songs:
     title: "Fighting The Gorog"
     path: "Fighting The Gorog.brstm"
     type: warning
-  - id: credits_theme_swfu2
-    title: "Credits Theme"
-    path: "Credits Theme.brstm"
-    type: result
+...
