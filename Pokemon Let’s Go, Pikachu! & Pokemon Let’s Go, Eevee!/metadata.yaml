@@ -1,0 +1,212 @@
+---
+id: pokemon_let_s_go_pikachu_pokemon_let_s_go_eevee
+title: "Pokémon: Let’s Go, Pikachu! & Pokémon: Let’s Go, Eevee!"
+platform: "Switch"
+year: 2018
+songs: 
+  - id: choose_your_language_lgpe
+    title: "Choose Your Language"
+    path: "Choose Your Language.brstm"
+    type: result
+  - id: title_screen_lgpe
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: pallet_town_theme_lgpe
+    title: "Pallet Town Theme"
+    path: "Pallet Town Theme.brstm"
+    type: betting
+  - id: professor_oak_lgpe
+    title: "Professor Oak"
+    path: "Professor Oak.brstm"
+    type: warning
+  - id: guide_lgpe
+    title: "Guide"
+    path: "Guide.brstm"
+    type: warning
+  - id: professor_oak_s_laboratory_lgpe
+    title: "Professor Oak's Laboratory"
+    path: "Professor Oak's Laboratory.brstm"
+    type: betting
+  - id: road_to_viridian_city_leaving_pallet_town_lgpe
+    title: "Road to Viridian City: Leaving Pallet Town"
+    path: "Road to Viridian City Leaving Pallet Town.brstm"
+    type: betting
+  - id: pokemon_center_lgpe
+    title: "Pokémon Center"
+    path: "Pokémon Center.brstm"
+    type: betting
+  - id: a_trainer_appears_boy_version_lgpe
+    title: "A Trainer Appears (Boy Version)"
+    path: "A Trainer Appears (Boy Version).brstm"
+    type: warning
+  - id: battle_trainer_battle_lgpe
+    title: "Battle! (Trainer Battle)"
+    path: "Battle! (Trainer Battle).brstm"
+    type: battle
+  - id: victory_trainer_battle_lgpe
+    title: "Victory! (Trainer Battle)"
+    path: "Victory! (Trainer Battle).brstm"
+    type: result
+  - id: viridian_forest_lgpe
+    title: "Viridian Forest"
+    path: "Viridian Forest.brstm"
+    type: betting
+  - id: catch_wild_pokemon_lgpe
+    title: "Catch! (Wild Pokémon)"
+    path: "Catch! (Wild Pokémon).brstm"
+    type: battle
+  - id: successful_catch_wild_pokemon_lgpe
+    title: "Successful Catch! (Wild Pokémon)"
+    path: "Successful Catch! (Wild Pokémon).brstm"
+    type: result
+  - id: a_trainer_appears_girl_version_lgpe
+    title: "A Trainer Appears (Girl Version)"
+    path: "A Trainer Appears (Girl Version).brstm"
+    type: warning
+  - id: pewter_city_theme_lgpe
+    title: "Pewter City Theme"
+    path: "Pewter City Theme.brstm"
+    type: betting
+  - id: pokemon_gym_lgpe
+    title: "Pokémon Gym"
+    path: "Pokémon Gym.brstm"
+    type: betting
+  - id: battle_gym_leader_battle_lgpe
+    title: "Battle! (Gym Leader Battle)"
+    path: "Battle! (Gym Leader Battle).brstm"
+    type: battle
+  - id: victory_gym_leader_battle_lgpe
+    title: "Victory! (Gym Leader Battle)"
+    path: "Victory! (Gym Leader Battle).brstm"
+    type: result
+  - id: blue_s_theme_lgpe
+    title: "Blue’s Theme"
+    path: "Blue’s Theme.brstm"
+    type: warning
+  - id: road_to_cerulean_city_leaving_mt_moon_lgpe
+    title: "Road to Cerulean City: Leaving Mt. Moon"
+    path: "Road to Cerulean City Leaving Mt. Moon.brstm"
+    type: betting
+  - id: caves_of_mt_moon_lgpe
+    title: "Caves of Mt. Moon"
+    path: "Caves of Mt. Moon.brstm"
+    type: betting
+  - id: a_trainer_appears_bad_guy_version_lgpe
+    title: "A Trainer Appears (Bad Guy Version)"
+    path: "A Trainer Appears (Bad Guy Version).brstm"
+    type: warning
+  - id: theme_of_jessie_and_james_lgpe
+    title: "Theme of Jessie and James"
+    path: "Theme of Jessie and James.brstm"
+    type: warning
+  - id: evolution_lgpe
+    title: "Evolution"
+    path: "Evolution.brstm"
+    type: warning
+  - id: cerulean_city_theme_lgpe
+    title: "Cerulean City Theme"
+    path: "Cerulean City Theme.brstm"
+    type: betting
+  - id: to_bill_leaving_cerulean_city_lgpe
+    title: "To Bill: Leaving Cerulean City"
+    path: "To Bill Leaving Cerulean City.brstm"
+    type: betting
+  - id: vermilion_city_theme_lgpe
+    title: "Vermilion City Theme"
+    path: "Vermilion City Theme.brstm"
+    type: betting
+  - id: the_s_s_anne_lgpe
+    title: "The S.S. Anne"
+    path: "The S.S. Anne.brstm"
+    type: betting
+  - id: road_to_lavender_town_leaving_vermilion_city_lgpe
+    title: "Road to Lavender Town: Leaving Vermilion City"
+    path: "Road to Lavender Town Leaving Vermilion City.brstm"
+    type: betting
+  - id: lavender_town_theme_lgpe
+    title: "Lavender Town Theme"
+    path: "Lavender Town Theme.brstm"
+    type: betting
+  - id: pokemon_tower_lgpe
+    title: "Pokémon Tower"
+    path: "Pokémon Tower.brstm"
+    type: betting
+  - id: celadon_city_theme_lgpe
+    title: "Celadon City Theme"
+    path: "Celadon City Theme.brstm"
+    type: betting
+  - id: game_corner_lgpe
+    title: "Game Corner"
+    path: "Game Corner.brstm"
+    type: betting
+  - id: rocket_hideout_lgpe
+    title: "Rocket Hideout"
+    path: "Rocket Hideout.brstm"
+    type: betting
+  - id: battle_wild_pokemon_lgpe
+    title: "Battle! (Wild Pokémon)"
+    path: "Battle! (Wild Pokémon).brstm"
+    type: battle
+  - id: pokemon_road_lgpe
+    title: "Pokémon Road"
+    path: "Pokémon Road.brstm"
+    type: result
+  - id: go_park_lgpe
+    title: "GO Park"
+    path: "GO Park.brstm"
+    type: betting
+  - id: catch_go_park_lgpe
+    title: "Catch! (GO Park)"
+    path: "Catch! (GO Park).brstm"
+    type: battle
+  - id: silph_co_lgpe
+    title: "Silph Co."
+    path: "Silph Co..brstm"
+    type: betting
+  - id: the_sea_lgpe
+    title: "The Sea"
+    path: "The Sea.brstm"
+    type: betting
+  - id: cinnabar_island_theme_lgpe
+    title: "Cinnabar Island Theme"
+    path: "Cinnabar Island Theme.brstm"
+    type: betting
+  - id: pokemon_mansion_lgpe
+    title: "Pokémon Mansion"
+    path: "Pokémon Mansion.brstm"
+    type: betting
+  - id: the_final_road_lgpe
+    title: "The Final Road"
+    path: "The Final Road.brstm"
+    type: warning
+  - id: final_battle_rival_lgpe
+    title: "Final Battle! (Rival)"
+    path: "Final Battle! (Rival).brstm"
+    type: battle
+  - id: hall_of_fame_lgpe
+    title: "Hall of Fame"
+    path: "Hall of Fame.brstm"
+    type: result
+  - id: congratulations_lgpe
+    title: "Congratulations!"
+    path: "Congratulations!.brstm"
+    type: break
+  - id: ending_theme_lgpe
+    title: "Ending Theme"
+    path: "Ending Theme.brstm"
+    ends: 3:28
+    type: betting
+  - id: connection_lgpe
+    title: "Connection"
+    path: "Connection.brstm"
+    type: betting
+  - id: mystery_gift_lgpe
+    title: "Mystery Gift"
+    path: "Mystery Gift.brstm"
+    type: break
+  - id: battle_master_trainer_battle_lgpe
+    title: "Battle! (Master Trainer Battle)"
+    path: "Battle! (Master Trainer Battle).brstm"
+    type: battle
+...

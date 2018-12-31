@@ -1,17 +1,19 @@
+---
 id: black_knight_2000
 title: "Black Knight 2000"
-year: 1989
 platform: "Pinball"
+year: 1989
 songs:
   - id: main_theme_instrumental_black_knight
-    title: "Main Theme (Instrumental)"
+    title: "MAIN THEME (Instrumental)"
     path: "Main Theme (Instrumental).brstm"
     type: betting
-  - id: restart_multiball_black_knight
-    title: "Restart Multiball"
-    path: "BK2K Restart Multiball.brstm"
+  - id: multiball_black_knight
+    title: "MULTIBALL"
+    path: "06 Multiball.vgz"
     type: warning
   - id: hurry_up_black_knight
-    title: "Hurry Up"
-    path: "BK2K Hurry Up.brstm"
+    title: "HURRY UP"
+    path: "07 Hurry Up.vgz"
     type: warning
+...

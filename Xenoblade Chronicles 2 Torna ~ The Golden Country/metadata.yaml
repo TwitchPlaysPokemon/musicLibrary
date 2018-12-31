@@ -1,0 +1,54 @@
+---
+id: xenoblade_chronicles_2_torna_the_golden_country
+title: "Xenoblade Chronicles 2: Torna ~ The Golden Country"
+platform: "Switch"
+year: 2018
+songs: 
+  - id: the_beginning_of_our_memory
+    title: "The Beginning of Our Memory"
+    path: "m204.nop"
+    ends: 3:19
+    type: betting
+  - id: lasaria_woodland
+    title: "Lasaria Woodland"
+    path: "m252.nop"
+    ends: 2:42
+    type: betting
+  - id: battle_torna
+    title: "Battle!!/Torna"
+    path: "m281.nop"
+    type: battle
+  - id: four_limbed_titan_gormott
+    title: "Four-Limbed Titan/Gormott"
+    path: "m253.nop"
+    ends: 3:30
+    type: betting
+  - id: kingdom_of_torna
+    title: "Kingdom of Torna"
+    path: "m240.nop"
+    ends: 3:30
+    type: betting
+  - id: kingdom_of_torna_night
+    title: "Kingdom of Torna/Night"
+    path: "m241.nop"
+    ends: 3:21
+    type: betting
+  - id: auresco_royal_capital
+    title: "Auresco, Royal Capital"
+    path: "m248.nop"
+    type: betting
+  - id: auresco_royal_capital_night
+    title: "Auresco, Royal Capital/Night"
+    path: "m249.nop"
+    type: break
+  - id: over_despair_and_animus
+    title: "Over Despair and Animus"
+    path: "m203.nop"
+    ends: 2:41
+    type: betting
+  - id: our_paths_may_never_cross
+    title: "Our Paths May Never Cross"
+    path: "m202.nop"
+    ends: 2:53
+    type: betting
+...

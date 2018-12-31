@@ -1,0 +1,91 @@
+---
+id: rodea_the_sky_soldier
+title: "Rodea the Sky Soldier"
+platform: ["Wii", "3DS", "Wii U"]
+year: 2015
+songs:
+  - id: title_rodea_the_sky_soldier
+    title: "Title"
+    path: "title.brstm"
+    type: betting
+  - id: the_exit_of_maze
+    title: "THE EXIT OF MAZE"
+    path: "Chap0.brstm"
+    type: betting
+  - id: sky_high_rodea_the_sky_soldier
+    title: "SKY HIGH"
+    path: "012_BGM_Chap1.dspadpcm.brstm"
+    type: betting
+  - id: in_the_sky
+    title: "IN THE SKY"
+    path: "Chap1.brstm"
+    type: betting
+  - id: 2d_stage
+    title: "2D Stage"
+    path: "2dstage.brstm"
+    type: betting
+  - id: regain_the_memory
+    title: "REGAIN THE MEMORY"
+    path: "Chap3.brstm"
+    type: betting
+  - id: patience
+    title: "PATIENCE"
+    path: "middle_boss.brstm"
+    type: warning
+  - id: fight_to_dance
+    title: "FIGHT TO DANCE"
+    path: "battle.brstm"
+    type: battle
+  - id: fate_of_robots
+    title: "FATE OF ROBOTS"
+    path: "Chap6.brstm"
+    type: betting
+  - id: heart_of_gold
+    title: "HEART OF GOLD"
+    path: "Chap8.brstm"
+    type: betting
+  - id: the_end_of_this_dream
+    title: "THE END OF THIS DREAM"
+    path: "Chap11.brstm"
+    type: betting
+  - id: views_of_the_edge
+    title: "VIEWS OF THE EDGE"
+    path: "Chap15.brstm"
+    type: betting
+  - id: the_purpose_of_him
+    title: "THE PURPOSE OF HIM"
+    path: "Chap16.brstm"
+    type: betting
+  - id: her_crisis
+    title: "HER CRISIS"
+    path: "Chap20.brstm"
+    type: warning
+  - id: conjunction
+    title: "CONJUNCTION"
+    path: "Chap21.brstm"
+    type: battle
+  - id: the_face_reality
+    title: "THE FACE REALITY"
+    path: "Chap23.brstm"
+    type: betting
+  - id: kimito
+    title: "KIMITO"
+    path: "Chap24.brstm"
+    type: betting
+  - id: the_last
+    title: "THE LAST"
+    path: "Chap25.brstm"
+    type: betting
+  - id: conversation_3
+    title: "Conversation 3"
+    path: "conversation3.brstm"
+    type: warning
+  - id: menu_2_rodea_the_sky_soldier
+    title: "Menu 2"
+    path: "menu2.brstm"
+    type: result
+  - id: vs_result_rodea_the_sky_soldier
+    title: "Vs. Result"
+    path: "vs_result.brstm"
+    type: result
+...

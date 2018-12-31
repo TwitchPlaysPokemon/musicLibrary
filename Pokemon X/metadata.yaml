@@ -448,4 +448,74 @@ songs:
     title: "Try Again..."
     path: "bgm_xy_sp_gameover.laac"
     type: result
+  - id: battle_maison_xy
+    title: "Battle Maison"
+    path: "bgm_xy_battle_house.laac"
+    type: betting
+  - id: happy_birthday_xy
+    title: "Happy Birthday!"
+    path: "bgm_xy_bd_02.laac"
+    type: result
+  - id: a_mysterious_figure_xy
+    title: "A Mysterious Figure"
+    path: "bgm_xy_e_05.laac"
+    type: warning
+  - id: together_with_shauna
+    title: "Together with Shauna"
+    path: "bgm_xy_e_07.laac"
+    type: result
+  - id: emma_s_theme
+    title: "Emma's Theme"
+    path: "bgm_xy_e_11.laac"
+    type: break
+  - id: hurry_along_2_xy
+    title: "Hurry Along 2"
+    path: "bgm_xy_e_tsureteke2.laac"
+    type: warning
+  - id: fin_xy
+    title: "FIN"
+    path: "bgm_xy_epilogue.laac"
+    type: break
+  - id: trainers_eyes_meet_roller_skater_xy
+    title: "Trainers' Eyes Meet (Roller Skater)"
+    path: "bgm_xy_eye_08.laac"
+    type: warning
+  - id: the_sycamore_pokemon_lab
+    title: "The Sycamore Pokémon Lab"
+    path: "bgm_xy_labo.laac"
+    type: betting
+  - id: wi_fi_xy
+    title: "Wi-Fi"
+    path: "bgm_xy_pokemon_link.laac"
+    type: break
+  - id: poke_radar_chain
+    title: "Poké Radar Chain!"
+    path: "bgm_xy_poketore_fever.laac"
+    type: warning
+  - id: battle_spot_xy
+    title: "Battle Spot"
+    path: "bgm_xy_random_match.laac"
+    type: warning
+  - id: let_s_super_train
+    title: "Let's Super Train!"
+    path: "bgm_xy_sp_menu.laac"
+    type: warning
+  - id: mystery_gift_xy
+    title: "Mystery Gift"
+    path: "bgm_xy_wifi_present.laac"
+    type: break
+  - id: an_eternal_prison
+    title: "An Eternal Prison"
+    path: "bgm_xy_demo_07.aac"
+    type: break
+  - id: the_sun_shines_down
+    title: "The Sun Shines Down"
+    path: "bgm_xy_demo_09.aac"
+    ends: 1:55
+    type: betting
+  - id: i_ll_go_with_you
+    title: "I'll Go With You"
+    path: "bgm_xy_ending.aac"
+    ends: 2:38
+    type: betting
 ...

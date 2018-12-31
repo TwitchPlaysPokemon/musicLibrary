@@ -17,6 +17,18 @@ songs:
     title: "Parry Addiction"
     path: "104 Parry Addiction.brstm"
     type: battle
+  - id: crash_addiction
+    title: "Crash Addiction"
+    path: "105 Crash Addiction.brstm"
+    type: battle
+  - id: money_makes_money
+    title: "Money Makes Money"
+    path: "109 Money Makes Money.brstm"
+    type: break
+  - id: trouble_shooting_star
+    title: "Trouble Shooting Star"
+    path: "110 Trouble Shooting Star.brstm"
+    type: battle
   - id: receive_you_tech_trance_arrange
     title: "Receive You 〜Tech Trance Arrange〜"
     path: "114 Receive You 〜Tech Trance Arrange〜.brstm"
@@ -29,9 +41,21 @@ songs:
     title: "One-Eyed Assassin"
     path: "116 One-Eyed Assassin.brstm"
     type: battle
+  - id: one_eyed_slugger
+    title: "One-Eyed Slugger"
+    path: "117 One-Eyed Slugger.brstm"
+    type: battle
   - id: one_eyed_dancer
     title: "One-Eyed Dancer"
     path: "118 One-Eyed Dancer.brstm"
+    type: battle
+  - id: try_to_have_some_fun_for_me_!!
+    title: "Try to have some fun for me !!"
+    path: "126 Try to have some fun for me !!.brstm"
+    type: result
+  - id: fever_time
+    title: "Fever ☆ Time"
+    path: "127 Fever ☆ Time.brstm"
     type: battle
   - id: t_u_s_k
     title: "t u s k"

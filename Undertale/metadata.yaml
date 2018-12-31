@@ -149,4 +149,24 @@ songs:
     title: "Uwa!! So Temperate♫"
     path: "Uwa!! So Temperate.brstm"
     type: break
+  - id: dog_room
+    title: "Dog Room"
+    path: "mus_dogroom.logg"
+    type: betting
+  - id: dog_shrine
+    title: "Dog Shrine"
+    path: "mus_dogshrine_1.logg"
+    type: betting
+  - id: dog_shrine_2
+    title: "Dog Shrine 2"
+    path: "mus_dogshrine_2.logg"
+    type: warning
+  - id: alphys
+    title: "Alphys"
+    path: "mus_lab.logg"
+    type: betting
+  - id: mad_mew_mew
+    title: "Mad Mew Mew"
+    path: "mus_mewmew.logg"
+    type: battle
 ...

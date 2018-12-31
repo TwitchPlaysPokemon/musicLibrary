@@ -1,0 +1,47 @@
+---
+id: famicom_tantei_club_kieta_kokeisha
+title: "Famicom Tantei Club: Kieta Kōkeisha"
+platform: ["FDS", "GBA"]
+year: 1988
+songs:
+  - id: opening_famicom_tantei_club_kieta_kokeisha
+    title: "Opening"
+    path: "18 - Track 18.brstm"
+    type: warning
+  - id: investigation_famicom_tantei_club_kieta_kokeisha
+    title: "Investigation"
+    path: "2 - Track 2.brstm"
+    type: betting
+  - id: ayashiro_manor
+    title: "Ayashiro Manor"
+    path: "7 - Track 7.brstm"
+    type: betting
+  - id: kagura_temple
+    title: "Kagura Temple"
+    path: "9 - Track 9.brstm"
+    type: warning
+  - id: assassin_incident
+    title: "Assassin Incident"
+    path: "5 - Track 5.brstm"
+    type: warning
+  - id: deepening_mystery
+    title: "Deepening Mystery"
+    path: "6 - Track 6.brstm"
+    type: warning
+  - id: kiku_s_hand_mirror
+    title: "Kiku's Hand-mirror"
+    path: "16 - Track 16.brstm"
+    type: warning
+  - id: truth
+    title: "Truth"
+    path: "13 - Track 13.brstm"
+    type: betting
+  - id: welcoming_maze
+    title: "Welcoming Maze"
+    path: "15 - Track 15.brstm"
+    type: warning
+  - id: staff_roll_famicom_tantei_club_kieta_kokeisha
+    title: "Staff Roll"
+    path: "17 - Track 17.brstm"
+    type: break
+...

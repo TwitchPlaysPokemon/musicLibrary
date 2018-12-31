@@ -1,0 +1,87 @@
+---
+id: mobius_final_fantasy
+title: "Mobius Final Fantasy"
+platform: ["PC", "Mobile"]
+year: 2015
+songs: 
+  - id: dancing_edge_extended_mix
+    title: "Dancing Edge – Extended Mix"
+    path: "music_battle_ranger_ver01.akb"
+    type: betting
+  - id: dancing_edge
+    title: "Dancing Edge"
+    path: "music_battle_ranger.akb"
+    type: battle
+  - id: honor_s_fanfare
+    title: "Honor's Fanfare"
+    path: "11. 栄誉のファンファーレ.flac"
+    type: result
+  - id: reward_time
+    title: "Reward Time!"
+    path: "music_arearesult.akb"
+    type: result
+  - id: legend_warrior_of_light
+    title: "Legend –Warrior of Light–"
+    path: "music_hikarinosenshinotheme.akb"
+    type: betting
+  - id: magic_madness
+    title: "Magic Madness"
+    path: "music_battle_mage.akb"
+    type: battle
+  - id: palamecian_breeze
+    title: "Palamecian Breeze"
+    path: "music_saranotheme_ver02.akb"
+    type: break
+  - id: sarah_s_theme
+    title: "Sarah's Theme"
+    path: "music_saranotheme.akb"
+    type: break
+  - id: palamecian_rule
+    title: "Palamecian Rule"
+    path: "music_mezame_a.akb"
+    type: warning
+  - id: blessed_fanfare
+    title: "Blessed Fanfare"
+    path: "Blessed Fanfare.brstm"
+    type: result
+  - id: warrior_of_light_mobius_final_fantasy
+    title: "Warrior of Light –MOBIUS FINAL FANTASY–"
+    path: "music_battle_soldier.akb"
+    type: battle
+  - id: wol_s_theme_journey
+    title: "Wol's Theme ~Journey~"
+    path: "music_wolnotheme_ver01.akb"
+    type: betting
+  - id: warrior_of_light_extended_mix
+    title: "Warrior of Light – Extended Mix"
+    path: "music_battle_soldier_ver01.akb"
+    type: betting
+  - id: always_there
+    title: "Always There"
+    path: "12. Always There.mp3"
+    type: break
+  - id: battle_princess
+    title: "Battle Princess"
+    path: "music_battle_sarah.logg"
+    type: battle
+  - id: blurred_strikes
+    title: "Blurred Strikes"
+    path: "music_battle_monk.akb"
+    type: battle
+  - id: reckoning
+    title: "Reckoning"
+    path: "music_bossbattle3.akb"
+    type: battle
+  - id: runic_saber
+    title: "Runic Saber"
+    path: "Runic Saber.brstm"
+    type: battle
+  - id: the_final_battle_mobius_final_fantasy
+    title: "The Final Battle"
+    path: "music_chapter8_lastbattle #5080.logg"
+    type: battle
+  - id: the_infinite_warrior
+    title: "The Infinite Warrior"
+    path: "music_wol_guitar.akb"
+    type: battle
+...

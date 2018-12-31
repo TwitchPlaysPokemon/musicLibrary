@@ -1,8 +1,8 @@
 ---
 id: the_legend_of_zelda_the_wind_waker
-platform: "GC"
 title: "The Legend of Zelda: The Wind Waker"
 series: zelda
+platform: "GCN"
 year: 2003
 songs: 
   - id: middle_boss_battle
@@ -66,4 +66,9 @@ songs:
     title: "The 2nd Maritime Battle"
     path: "The 2nd Maritime Battle.brstm"
     type: warning
+  - id: ceremony_in_the_woods
+    title: "Ceremony in the Woods"
+    path: "1-63 - Ceremony in the Woods.flac"
+    ends: 2:09
+    type: betting
 ...

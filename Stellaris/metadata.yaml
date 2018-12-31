@@ -1,0 +1,23 @@
+---
+id: stellaris
+title: "Stellaris"
+platform: ["PC", "PS4", "XB1"]
+year: 2016
+songs: 
+  - id: dragon_breath
+    title: "Dragon Breath"
+    path: "dragonbreath.ogg"
+    type: betting
+  - id: hostile_fleet_detected
+    title: "Hostile Fleet Detected"
+    path: "hostilefleetdetected.ogg"
+    type: betting
+  - id: one_galaxy
+    title: "One Galaxy"
+    path: "onegalaxy.ogg"
+    type: break
+  - id: robo_sapiens
+    title: "Robo Sapiens"
+    path: "robo_sapiens.ogg"
+    type: betting
+...

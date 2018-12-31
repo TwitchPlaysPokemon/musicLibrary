@@ -1,0 +1,76 @@
+---
+id: etrian_odyssey_v_beyond_the_myth
+title: "Etrian Odyssey V: Beyond the Myth"
+platform: "3DS"
+year: 2016
+songs: 
+  - id: unrest_ordeal_of_stars
+    title: "Unrest - Ordeal of Stars"
+    path: "BGM_BATTLE_LASTBOSS.dspadpcm.bcstm"
+    type: battle
+  - id: labyrinth_i_guardian_spirit_s_woodland
+    title: "Labyrinth I - Guardian Spirit's Woodland"
+    path: "BGM_DUNGEON_1.dspadpcm.bcstm"
+    ends: 3:15
+    type: betting
+  - id: battlefield_activation
+    title: "Battlefield - Activation"
+    path: "BGM_BATTLE1_FR.dspadpcm.bcstm"
+    type: battle
+  - id: labyrinth_ii_shrine_of_the_monoliths
+    title: "Labyrinth II - Shrine of the Monoliths"
+    path: "BGM_DUNGEON_2.dspadpcm.bcstm"
+    ends: 2:59
+    type: betting
+  - id: money_blossom_get_the_treasure
+    title: "Money Blossom - Get the Treasure"
+    path: "BGM_RESULT.dspadpcm.bcstm"
+    type: result
+  - id: battlefield_critical_situation
+    title: "Battlefield - Critical Situation"
+    path: "BGM_BATTLE_FOE.dspadpcm.bcstm"
+    type: battle
+  - id: labyrinth_iii_graveyard_of_darkness
+    title: "Labyrinth III - Graveyard of Darkness"
+    path: "BGM_DUNGEON_3.dspadpcm.bcstm"
+    ends: 3:03
+    type: betting
+  - id: unrest_empty_ringing_the_earth_splits
+    title: "Unrest - Empty Ringing, The Earth Splits"
+    path: "BGM_BATTLE_BOSS.dspadpcm.bcstm"
+    type: battle
+  - id: labyrinth_iv_rainbow_druse
+    title: "Labyrinth IV - Rainbow Druse"
+    path: "BGM_DUNGEON_4.dspadpcm.bcstm"
+    ends: 3:34
+    type: betting
+  - id: battlefield_life_or_death_struggle_to_seize_the_future
+    title: "Battlefield - Life or Death Struggle to Seize the Future"
+    path: "BGM_BATTLE2_FR.dspadpcm.bcstm"
+    type: battle
+  - id: scene_unknown_menace
+    title: "Scene - Unknown Menace"
+    path: "BGM_EVENT_CRISIS.dspadpcm.bcstm"
+    type: warning
+  - id: labyrinth_v_primeval_forest_ring
+    title: "Labyrinth V - Primeval Forest Ring"
+    path: "BGM_DUNGEON_5.dspadpcm.bcstm"
+    ends: 3:23
+    type: betting
+  - id: labyrinth_vi_redshift_corridor
+    title: "Labyrinth VI - Redshift Corridor"
+    path: "BGM_DUNGEON_6.dspadpcm.bcstm"
+    type: betting
+  - id: battlefield_shining_dagger_shadow_blade
+    title: "Battlefield - Shining Dagger, Shadow Blade"
+    path: "BGM_BATTLE3_FR.dspadpcm.bcstm"
+    type: battle
+  - id: unrest_lord_of_the_beyond
+    title: "Unrest - Lord of the Beyond"
+    path: "BGM_BATTLE_LASTBOSS02.dspadpcm.bcstm"
+    type: battle
+  - id: unrest_end_of_the_raging_waves_arranged_version
+    title: "Unrest - End of the Raging Waves (Arranged Version)"
+    path: "BGM_BATTLE_FINAL.dspadpcm.bcstm"
+    type: battle
+...

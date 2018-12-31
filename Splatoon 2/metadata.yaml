@@ -32,7 +32,7 @@ songs:
   - id: spicy_calamari_inkantation_squid_sisters
     title: "Spicy Calamari Inkantation [Squid Sisters]"
     path: "Spicy Calamari Inkantation [Squid Sisters].brstm"
-    type: betting
+    type: battle
   - id: tutorial_splatoon_2
     title: "Tutorial"
     path: "Tutorial (Phase 9).brstm"
@@ -200,5 +200,25 @@ songs:
   - id: fly_octo_fly_ebb_flow_octo_off_the_hook
     title: "Fly Octo Fly ~ Ebb & Flow (Octo) [Off the Hook]"
     path: "STRM_LastBoss01_Octa.bfstm"
+    type: battle
+  - id: chopscrewey_sashimori
+    title: "Chopscrewey [SashiMori]"
+    path: "STRM_Versus15.bfstm"
+    type: betting
+  - id: entropical_sashimori
+    title: "Entropical [SashiMori]"
+    path: "STRM_Versus16.bfstm"
+    type: betting
+  - id: frantic_aspic_omega_3
+    title: "Frantic Aspic [ω-3]"
+    path: "STRM_CoopHeavy_Minigame.bfstm"
+    type: warning
+  - id: seasick_diss_pair
+    title: "Seasick [Diss-Pair]"
+    path: "STRM_Versus13.bfstm"
+    type: betting
+  - id: kinetosis_diss_pair
+    title: "Kinetosis [Diss-Pair]"
+    path: "STRM_Versus14.bfstm"
     type: betting
 ...

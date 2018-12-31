@@ -9,8 +9,8 @@ songs:
     title: "Runway"
     path: "103 Runway.miniusf"
     type: betting
-  - id: severnaya_installation_day_siberia
-    title: "Severnaya Installation(Day), Siberia"
+  - id: severnaya_installation
+    title: "Severnaya Installation"
     path: "104 Surface 1.miniusf"
     tags: [xmas]
     type: betting
@@ -22,17 +22,17 @@ songs:
     title: "Frigate 'La Fayette', Monte Carlo"
     path: "107 Frigate.miniusf"
     type: betting
-  - id: severnaya_installation_night_siberia
-    title: "Severnaya Installation(Night), Siberia"
+  - id: severnaya_installation_night
+    title: "Severnaya Installation (Night)"
     path: "108 Surface 2.miniusf"
     tags: [xmas]
     type: betting
-  - id: escape_from_arkhangelsk_facility_x
-    title: "Escape From Arkhangelsk (Facility X)"
+  - id: escape_from_arkhangelsk
+    title: "Escape From Arkhangelsk"
     path: "202 Facility X.miniusf"
     type: betting
-  - id: escape_missile_silo_silo_x
-    title: "Escape Missile Silo (Silo X)"
+  - id: silo_escape
+    title: "Silo Escape"
     path: "206 Silo X.miniusf"
     type: warning
   - id: surface_2_x
@@ -40,8 +40,8 @@ songs:
     path: "208 Surface 2 X.miniusf"
     tags: [xmas]
     type: betting
-  - id: watch_pause_theme
-    title: "Watch Pause Theme"
+  - id: mission_status
+    title: "Mission Status"
     path: "309 007 Watch Theme.miniusf"
     type: break
 ...

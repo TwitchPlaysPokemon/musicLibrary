@@ -1,0 +1,19 @@
+---
+id: the_machine_bride_of_pin_bot
+title: "The Machine: Bride of Pin-Bot"
+platform: "Pinball"
+year: 1992
+songs: 
+  - id: face_2_music
+    title: "Face 2 Music"
+    path: "Face 2 Music.brstm"
+    type: betting
+  - id: face_4_music
+    title: "Face 4 Music"
+    path: "Face 4 Music.brstm"
+    type: warning
+  - id: hstd_music
+    title: "HSTD Music"
+    path: "HSTD Music.brstm"
+    type: result
+...

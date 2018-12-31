@@ -1,0 +1,583 @@
+---
+id: super_smash_bros_ultimate
+title: "Super Smash Bros. Ultimate"
+platform: "Switch"
+year: 2018
+songs: 
+  - id: lifelight_jp
+    title: "Lifelight (JP)"
+    path: "crs2_00a_maintheme_jp.lopus"
+    type: betting
+  - id: lifelight
+    title: "Lifelight"
+    path: "crs2_00b_maintheme_en.lopus"
+    type: betting
+  - id: menu_ssbu
+    title: "Menu"
+    path: "crs2_01_menu.lopus"
+    type: betting
+  - id: battlefield_ssbu
+    title: "Battlefield"
+    path: "crs2_02_senjyou.lopus"
+    type: battle
+  - id: final_destination_ssbu
+    title: "Final Destination"
+    path: "crs2_03_shuuten.lopus"
+    type: battle
+  - id: mob_smash
+    title: "Mob Smash"
+    path: "crs2_04_kumite.lopus"
+    type: battle
+  - id: classic_mode_mural
+    title: "Classic Mode: Mural"
+    path: "crs2_28_classic_dificulty.lopus"
+    type: warning
+  - id: classic_mode_defeat
+    title: "Classic Mode: Defeat"
+    path: "crs2_31_classic_result_failure.lopus"
+    type: result
+  - id: classic_mode_final_results
+    title: "Classic Mode: Final Results"
+    path: "crs2_33_classic_result_final.lopus"
+    type: result
+  - id: classic_mode_bonus_stage
+    title: "Classic Mode: Bonus Stage"
+    path: "crs2_16_bonusstage.lopus"
+    type: battle
+  - id: master_hand_ssbu
+    title: "Master Hand"
+    path: "crs2_05_masterhand.lopus"
+    type: battle
+  - id: crazy_hand
+    title: "Crazy Hand"
+    path: "crs2_42_crazyhand.lopus"
+    type: battle
+  - id: master_hand_crazy_hand
+    title: "Master Hand / Crazy Hand"
+    path: "crs2_43_masterhand_crazyhand.lopus"
+    type: battle
+  - id: the_light_realm_prologue
+    title: "The Light Realm: Prologue"
+    path: "crs2_12_adv_map_light.lopus"
+    type: betting
+  - id: the_light_realm_march
+    title: "The Light Realm: March"
+    path: "crs2_48_adv_map_light_later.lopus"
+    type: betting
+  - id: the_light_realm_base
+    title: "The Light Realm: Base"
+    path: "crs2_13_adv_map_light_subcommon.lopus"
+    type: betting
+  - id: the_dark_realm
+    title: "The Dark Realm"
+    path: "crs2_14_adv_map_dark.lopus"
+    type: betting
+  - id: the_dark_realm_the_mysterious_space
+    title: "The Dark Realm: The Mysterious Space"
+    path: "crs2_45_adv_map_dark_subcommon.lopus"
+    type: betting
+  - id: the_final_battle_ssbu
+    title: "The Final Battle"
+    path: "crs2_15_adv_map_final.lopus"
+    type: betting
+  - id: the_final_battle_after_the_transformation
+    title: "The Final Battle: After the Transformation"
+    path: "crs2_46_adv_map_final_later.lopus"
+    type: betting
+  - id: galeem
+    title: "Galeem"
+    path: "crs2_17_vs_kiila1.lopus"
+    type: battle
+  - id: dharkon
+    title: "Dharkon"
+    path: "crs2_19_vs_darz1.lopus"
+    type: battle
+  - id: galeem_dharkon
+    title: "Galeem/Dharkon"
+    path: "crs2_21_vs_kiila_darz.lopus"
+    type: battle
+  - id: main_theme_piano_solo
+    title: "Main Theme Piano Solo"
+    path: "crs2_47_maintheme_piano.lopus"
+    type: break
+  - id: free_the_spirit
+    title: "Free the Spirit!"
+    path: "crs2_22_spiritsboard_roulette.lopus"
+    type: warning
+  - id: spirits_collection
+    title: "Spirits: Collection"
+    path: "crs2_23_edit_common.lopus"
+    type: betting
+  - id: spirits_inventory_items
+    title: "Spirits: Inventory/Items"
+    path: "crs2_27_spirits_organize.lopus"
+    type: betting
+  - id: tourney_battle_list
+    title: "Tourney: Battle List"
+    path: "crs2_07_vs_table.lopus"
+    type: warning
+  - id: tourney_winner_announcement
+    title: "Tourney: Winner Announcement"
+    path: "crs2_08_vs_victory.lopus"
+    type: result
+  - id: training_ssbu
+    title: "Training"
+    path: "crs2_11_trainingstage.lopus"
+    type: betting
+  - id: vault
+    title: "Vault"
+    path: "crs2_40_collection.lopus"
+    type: betting
+  - id: shop_ssbu
+    title: "Shop"
+    path: "crs2_41_shop.lopus"
+    type: betting
+  - id: practice_fights
+    title: "Practice Fights"
+    path: "crs2_36_simulationstage.lopus"
+    type: warning
+  - id: spectate
+    title: "Spectate"
+    path: "crs2_38_online_watching.lopus"
+    type: warning
+  - id: how_to_play_super_smash_bros_melee_ssbu
+    title: "How to Play - Super Smash Bros. Melee"
+    path: "w48_sbdx_asobikata.lopus"
+    type: betting
+  - id: ground_theme_super_mario_bros_2_ssbu
+    title: "Ground Theme - Super Mario Bros. 2"
+    path: "aa22_musa_chijyou.lopus"
+    type: betting
+  - id: ground_theme_super_mario_bros_3
+    title: "Ground Theme - Super Mario Bros. 3"
+    path: "a85_smb3_chijyou.lopus"
+    type: betting
+  - id: fortress_boss_super_mario_bros_3
+    title: "Fortress Boss - Super Mario Bros. 3"
+    path: "a86_smb3_toridenoboss.lopus"
+    type: battle
+  - id: king_bowser_super_mario_bros_3
+    title: "King Bowser - Super Mario Bros. 3"
+    path: "a84_smb3_maoukuppa.lopus"
+    type: battle
+  - id: delfino_plaza_ssbu
+    title: "Delfino Plaza"
+    path: "a83_sms_dolpiktown.lopus"
+    type: betting
+  - id: main_theme_luigi_s_mansion_ssbu
+    title: "Main Theme - Luigi's Mansion"
+    path: "a82_lm_theme.lopus"
+    type: betting
+  - id: donkey_kong_donkey_kong_jr_medley
+    title: "Donkey Kong / Donkey Kong Jr. Medley"
+    path: "b20_dk_medley.lopus"
+    type: betting
+  - id: the_map_page_bonus_level_ssbu
+    title: "The Map Page / Bonus Level"
+    path: "b22_spr_mappage_bonuslevel.lopus"
+    type: betting
+  - id: snakey_chantey_ssbu
+    title: "Snakey Chantey"
+    path: "b23_spr_shipdeck2.lopus"
+    type: betting
+  - id: gang_plank_galleon_ssbu
+    title: "Gang-Plank Galleon"
+    path: "b24_spr_thepirateship.lopus"
+    type: battle
+  - id: crocodile_cacophony_ssbu
+    title: "Crocodile Cacophony"
+    path: "b21_spr2_crocodilecacophony.lopus"
+    type: battle
+  - id: death_mountain_ssbu
+    title: "Death Mountain"
+    path: "c45_zld_deathmountain.lopus"
+    type: battle
+  - id: termina_field_ssbu
+    title: "Termina Field"
+    path: "c46_mnk_terminaheigen.lopus"
+    type: betting
+  - id: molgera_ssbu
+    title: "Molgera"
+    path: "c44_kzt_morudogeira.lopus"
+    type: battle
+  - id: midna_s_lament_ssbu
+    title: "Midna's Lament"
+    path: "c42_tpr_kizudarakenomidna.lopus"
+    type: battle
+  - id: main_theme_the_legend_of_zelda_tri_force_heroes_ssbu
+    title: "Main Theme - The Legend of Zelda: Tri Force Heroes"
+    path: "c43_tri3_maintheme.lopus"
+    type: betting
+  - id: nintendo_switch_presentation_2017_trailer_bgm
+    title: "Nintendo Switch Presentation 2017 Trailer BGM"
+    path: "c41_zds_3rdtrailertheme.lopus"
+    type: battle
+  - id: main_theme_the_legend_of_zelda_breath_of_the_wild
+    title: "Main Theme - The Legend of Zelda: Breath of the Wild"
+    path: "c40_bow_maintheme.lopus"
+    type: battle
+  - id: kass_s_theme_ssbu
+    title: "Kass's Theme"
+    path: "c39_bow_kasstheme.lopus"
+    type: battle
+  - id: brinstar_depths_ssbu
+    title: "Brinstar Depths"
+    path: "d19_mr_brinstarshinbu.lopus"
+    type: battle
+  - id: vs_ridley_ssbu
+    title: "Vs. Ridley"
+    path: "d18_smr_vsridley.lopus"
+    type: battle
+  - id: vs_parasite_queen_ssbu
+    title: "Vs. Parasite Queen"
+    path: "d17_prm_vsparasitequeen.lopus"
+    type: battle
+  - id: main_theme_yoshi_s_new_island_ssbu
+    title: "Main Theme - Yoshi's New Island"
+    path: "e12_nild_maintheme.lopus"
+    type: betting
+  - id: kirby_retro_medley
+    title: "Kirby Retro Medley"
+    path: "f42_kby_gb_medley.lopus"
+    type: betting
+  - id: staff_credits_kirby_s_dream_land_ssbu
+    title: "Staff Credits - Kirby's Dream Land"
+    path: "f32_kby_staffroll.lopus"
+    type: betting
+  - id: city_trial_ssbu
+    title: "City Trial"
+    path: "f31_air_citytrial.lopus"
+    type: battle
+  - id: battle_steven_ssbu
+    title: "Battle! (Steven)"
+    path: "h24_oras_kessen_daigo.lopus"
+    type: battle
+  - id: battle_lorekeeper_zinnia_ssbu
+    title: "Battle! (Lorekeeper Zinnia)"
+    path: "h29_oras_sentou_higana.lopus"
+    type: battle
+  - id: battle_wild_pokemon_pokemon_sun_pokemon_moon_ssbu
+    title: "Battle! (Wild Pokémon) - Pokémon Sun / Pokémon Moon"
+    path: "h23_sm_sentou_yaseipokemon.lopus"
+    type: battle
+  - id: battle_trainer_pokemon_sun_pokemon_moon_ssbu
+    title: "Battle! (Trainer) - Pokémon Sun / Pokémon Moon"
+    path: "h28_sm_sentou_trainer.lopus"
+    type: battle
+  - id: battle_island_kahuna_ssbu
+    title: "Battle! (Island Kahuna)"
+    path: "h25_sm_sentou_shimakingshimaqueen.lopus"
+    type: battle
+  - id: battle_gladion_ssbu
+    title: "Battle! (Gladion)"
+    path: "h26_sm_sentou_gladion.lopus"
+    type: battle
+  - id: battle_elite_four_battle_solgaleo_lunala_ssbu
+    title: "Battle! (Elite Four) / Battle! (Solgaleo/Lunala)"
+    path: "h27_sm_sentou_shitennou_solgaleo_lunala.lopus"
+    type: battle
+  - id: the_battle_at_the_summit_ssbu
+    title: "The Battle at the Summit!"
+    path: "h30_sm_choujoukessen.lopus"
+    type: battle
+  - id: big_blue_ssbu
+    title: "Big Blue"
+    path: "i25_fzr_bigblue.lopus"
+    type: battle
+  - id: sand_ocean_ssbu
+    title: "Sand Ocean"
+    path: "i16_fzr_sandocean.lopus"
+    type: battle
+  - id: f_zero_medley
+    title: "F-ZERO Medley"
+    path: "i15_fzr_medley.lopus"
+    type: betting
+  - id: magicant_ssbu
+    title: "Magicant"
+    path: "k14_mtr_magicant.lopus"
+    type: battle
+  - id: fourside_ssbu
+    title: "Fourside"
+    path: "k15_mtr2_fourside.lopus"
+    type: betting
+  - id: fire_emblem_theme_heroic_origins_ssbu
+    title: "Fire Emblem Theme (Heroic Origins)"
+    path: "j40_hr_menutitle.lopus"
+    type: betting
+  - id: under_this_banner_ssbu
+    title: "Under This Banner"
+    path: "j36_mnn_konohatanomotoni.lopus"
+    type: betting
+  - id: advance_ssbu
+    title: "Advance"
+    path: "j37_mnn_singeki.lopus"
+    type: betting
+  - id: edge_of_adversity_ssbu
+    title: "Edge of Adversity"
+    path: "j30_ssk_shituinohate.lopus"
+    type: betting
+  - id: beyond_distant_skies_roy_s_departure_ssbu
+    title: "Beyond Distant Skies - Roy's Departure"
+    path: "j38_fnk_anosoranomukouni_roynotabidachi.lopus"
+    type: betting
+  - id: prelude_ablaze_ssbu
+    title: "Prelude (Ablaze)"
+    path: "j29_ksi_jomaku_honoo.lopus"
+    type: betting
+  - id: destiny_ablaze_ssbu
+    title: "Destiny (Ablaze)"
+    path: "j31_ksi_shukumei_honoo.lopus"
+    type: battle
+  - id: id_purpose_ssbu
+    title: "Id (Purpose)"
+    path: "j39_ksi_i_i.lopus"
+    type: betting
+  - id: lost_in_thoughts_all_alone_ssbu
+    title: "Lost in Thoughts All Alone"
+    path: "j28_if_hitoriomou.lopus"
+    type: betting
+  - id: gear_up_for_ssbu
+    title: "Gear Up For..."
+    path: "j27_hr_menu.lopus"
+    type: betting
+  - id: main_theme_pikmin_ssbu
+    title: "Main Theme - Pikmin"
+    path: "l17_pik_maintheme.lopus"
+    type: betting
+  - id: garden_of_hope_ssbu
+    title: "Garden of Hope"
+    path: "l12_pik3_saikainohanazono.lopus"
+    type: betting
+  - id: title_theme_animal_crossing_ssbu
+    title: "Title Theme - Animal Crossing"
+    path: "n21_dmp_title.lopus"
+    type: betting
+  - id: title_theme_animal_crossing_wild_world_ssbu
+    title: "Title Theme - Animal Crossing: Wild World"
+    path: "n20_dnm_title.lopus"
+    type: betting
+  - id: title_theme_animal_crossing_happy_home_designer_ssbu
+    title: "Title Theme - Animal Crossing: Happy Home Designer"
+    path: "n19_hhd_title.lopus"
+    type: betting
+  - id: main_menu_wii_fit_ssbu
+    title: "Main Menu - Wii Fit"
+    path: "r82_wft_mainmenu.lopus"
+    type: betting
+  - id: training_menu_wii_fit_u_ssbu
+    title: "Training Menu - Wii Fit U"
+    path: "r73_wftu_trainingmenu.lopus"
+    type: betting
+  - id: splattack_ssbu
+    title: "Splattack!"
+    path: "sp17_sp_splattack.lopus"
+    type: battle
+  - id: seaskape_ssbu
+    title: "Seaskape"
+    path: "sp16_sp_seaskape.lopus"
+    type: betting
+  - id: now_or_never_ssbu
+    title: "Now or Never!"
+    path: "sp14_sp_nowornever.lopus"
+    type: betting
+  - id: bomb_rush_blush_ssbu
+    title: "Bomb Rush Blush"
+    path: "sp15_sp_tokimekibombrush.lopus"
+    type: betting
+  - id: theme_of_solid_snake_ssbu
+    title: "Theme of Solid Snake"
+    path: "mg13_mg2_themeofsolidsnake.lopus"
+    type: betting
+  - id: snake_eater_ssbu
+    title: "Snake Eater"
+    path: "mg12_mgs3_snakeeater.lopus"
+    type: betting
+  - id: guts_man_stage_ssbu
+    title: "Guts Man Stage"
+    path: "s24_rm_gutsmanstage.lopus"
+    type: betting
+  - id: ice_man_stage_ssbu
+    title: "Ice Man Stage"
+    path: "s14_rm_icemanstage.lopus"
+    type: betting
+  - id: bomb_man_stage_ssbu
+    title: "Bomb Man Stage"
+    path: "s15_rm_bombmanstage.lopus"
+    type: betting
+  - id: fire_man_stage_ssbu
+    title: "Fire Man Stage"
+    path: "s16_rm_firemanstage.lopus"
+    type: betting
+  - id: metal_man_stage_ssbu
+    title: "Metal Man Stage"
+    path: "s17_rm2_metalmanstage.lopus"
+    type: betting
+  - id: crash_man_stage_ssbu
+    title: "Crash Man Stage"
+    path: "s18_rm2_crashmanstage.lopus"
+    type: betting
+  - id: flash_man_stage_ssbu
+    title: "Flash Man Stage"
+    path: "s31_rm2_flashmanstage.lopus"
+    type: betting
+  - id: wood_man_stage_ssbu
+    title: "Wood Man Stage"
+    path: "s11_rm2_woodmanstage.lopus"
+    type: battle
+  - id: hard_man_stage_ssbu
+    title: "Hard Man Stage"
+    path: "s25_rm3_hardmanstage.lopus"
+    type: betting
+  - id: top_man_stage_ssbu
+    title: "Top Man Stage"
+    path: "s13_rm3_topmanstage.lopus"
+    type: battle
+  - id: snake_man_stage_ssbu
+    title: "Snake Man Stage"
+    path: "s30_rm3_snakemanstage.lopus"
+    type: betting
+  - id: mega_man_4_medley
+    title: "Mega Man 4 Medley"
+    path: "s19_rm4_medley.lopus"
+    type: betting
+  - id: gravity_man_stage_ssbu
+    title: "Gravity Man Stage"
+    path: "s20_rm5_gravitymanstage.lopus"
+    type: betting
+  - id: napalm_man_stage_ssbu
+    title: "Napalm Man Stage"
+    path: "s21_rm5_napalmmanstage.lopus"
+    type: battle
+  - id: dark_man_stage_ssbu
+    title: "Dark Man Stage"
+    path: "s12_rm5_darkmanstage.lopus"
+    type: battle
+  - id: we_re_robots_dr_wily_stage_2_ssbu
+    title: "We're Robots (Dr. Wily Stage 2)"
+    path: "s22_rm9_weretherobots_wilystage2.lopus"
+    type: betting
+  - id: opening_stage_ssbu
+    title: "Opening Stage"
+    path: "s23_rmx_openingstage.lopus"
+    type: battle
+  - id: galaga_medley
+    title: "Galaga Medley"
+    path: "v11_glg_medley.lopus"
+    type: betting
+  - id: mappy_medley
+    title: "Mappy Medley"
+    path: "v12_mpy_medley.lopus"
+    type: betting
+  - id: area_1_dragon_spirit_ssbu
+    title: "Area 1 - Dragon Spirit"
+    path: "v13_dsp_area1.lopus"
+    type: betting
+  - id: guile_stage_ssbu
+    title: "Guile Stage"
+    path: "sf07_sf2_guilestage.lopus"
+    type: battle
+  - id: vega_stage_ssbu
+    title: "Vega Stage"
+    path: "sf08_sf2_balrogstage.lopus"
+    type: betting
+  - id: vampire_killer_ssbu
+    title: "Vampire Killer"
+    path: "ad15_ju_vampirekiller.lopus"
+    type: battle
+  - id: starker_wicked_child_ssbu
+    title: "Starker / Wicked Child"
+    path: "ad01_fc_starker.lopus"
+    type: betting
+  - id: out_of_time_ssbu
+    title: "Out of Time"
+    path: "ad03_fc_outoftime.lopus"
+    type: battle
+  - id: bloody_tears_monster_dance_ssbu
+    title: "Bloody Tears / Monster Dance"
+    path: "ad04_dc2_bloodytears.lopus"
+    type: battle
+  - id: cross_your_heart_ssbu
+    title: "Cross Your Heart"
+    path: "ad21_ac_jyujikawomuneni.lopus"
+    type: battle
+  - id: beginning_ssbu
+    title: "Beginning"
+    path: "ad20_ac_beginning.lopus"
+    type: battle
+  - id: aquarius_ssbu
+    title: "Aquarius"
+    path: "ad32_hd_aquarius.lopus"
+    type: battle
+  - id: divine_bloodlines_ssbu
+    title: "Divine Bloodlines"
+    path: "ad14_gl_keishou_kekkonnoketsuzoku.lopus"
+    type: battle
+  - id: iron_blue_intention_ssbu
+    title: "Iron-Blue Intention"
+    path: "ad08_vk_ironblueintention.lopus"
+    type: battle
+  - id: dance_of_gold_ssbu
+    title: "Dance of Gold"
+    path: "ad36_gy_ougonnobukyoku.lopus"
+    type: betting
+  - id: lost_painting_ssbu
+    title: "Lost Painting"
+    path: "ad27_hd_ushinawaretasaiga.lopus"
+    type: betting
+  - id: awake_ssbu
+    title: "Awake"
+    path: "ad09_cm_awake.lopus"
+    type: betting
+  - id: lament_of_innocence_ssbu
+    title: "Lament of Innocence"
+    path: "ad10_cv_shinjitsunonageki.lopus"
+    type: betting
+  - id: duck_hunt_medley
+    title: "Duck Hunt Medley"
+    path: "q28_dkh_medley.lopus"
+    type: betting
+  - id: wrecking_crew_medley
+    title: "Wrecking Crew Medley"
+    path: "q29_wcr_bgmb.lopus"
+    type: betting
+  - id: yuyuki_medley
+    title: "Yūyūki Medley"
+    path: "q30_yyk_medley.lopus"
+    type: betting
+  - id: light_plane_ssbu
+    title: "Light Plane"
+    path: "q27_pw_lightplane.lopus"
+    type: betting
+  - id: electroplankton_ssbu
+    title: "Electroplankton"
+    path: "r75_electroplankton.lopus"
+    type: betting
+  - id: bathtime_theme_ssbu
+    title: "Bathtime Theme"
+    path: "r78_ntd_shower.lopus"
+    type: betting
+  - id: title_theme_wii_sports_ssbu
+    title: "Title Theme - Wii Sports"
+    path: "r81_wsp_openingtheme.lopus"
+    type: betting
+  - id: title_theme_wii_sports_club_ssbu
+    title: "Title Theme - Wii Sports Club"
+    path: "r74_wsc_maintitle.lopus"
+    type: betting
+  - id: afternoon_on_the_island_ssbu
+    title: "Afternoon on the Island"
+    path: "r80_tdcs_tomodachicollection.lopus"
+    type: betting
+  - id: find_mii_find_mii_ii_medley
+    title: "Find Mii / Find Mii II Medley"
+    path: "r76_scd_seriesmedley.lopus"
+    type: betting
+  - id: trouble_brewing_ii_ssbu
+    title: "Trouble Brewing II"
+    path: "r77_stm_hotspot2.lopus"
+    type: battle
+  - id: noisy_notebook_ssbu
+    title: "Noisy Notebook"
+    path: "r79_snp_w1stage.lopus"
+    type: betting
+...

@@ -1,0 +1,19 @@
+---
+id: puyo_puyo_esports
+title: "Puyo Puyo eSports"
+platform: ["Switch, PS4"]
+year: 2018
+songs: 
+  - id: main_menu_puyo_puyo_esports
+    title: "Main Menu"
+    path: "bgm_es02_menu.dspadpcm.bfstm"
+    type: betting
+  - id: last_from_puyo_puyo_2
+    title: "Last from Puyo Puyo 2"
+    path: "bgm_es07_taikai_bgm1.dspadpcm.bfstm"
+    type: battle
+  - id: the_untrained_demon_king_ultimate_legend_medley
+    title: "The Untrained Demon King Ultimate Legend (Medley)"
+    path: "bgm_es45_heppoko_sen.dspadpcm.bfstm"
+    type: battle
+...

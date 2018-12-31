@@ -1,0 +1,68 @@
+---
+id: etrian_mystery_dungeon
+title: "Etrian Mystery Dungeon"
+platform: "3DS"
+year: 2015
+songs: 
+  - id: engrave_your_name_adventurer_s_guild
+    title: "Engrave Your Name (Adventurer's Guild)"
+    path: "1-02 Engrave Your Name.brstm"
+    type: betting
+  - id: their_name_was_engraved_into_the_100_volume_1st_labyrinth_mysterious_labyrinth
+    title: "Their Name Was Engraved Into the 100th Volume! (1st Labyrinth - Mysterious Labyrinth)"
+    path: "1-03 Their Name Was Engraved Into the 100th Volume!.brstm"
+    type: betting
+  - id: town_of_aslarga_town_except_adventurer_s_guild
+    title: "Town of Aslarga (Town (Except Adventurer's Guild))"
+    path: "1-04 Asuraga Quarter.brstm"
+    type: betting
+  - id: waterfall_woodlands_3rd_labyrinth_pristine_stream
+    title: "Waterfall Woodlands (3rd Labyrinth - Pristine Stream)"
+    path: "1-06 Waterfall Woodlands.brstm"
+    type: break
+  - id: a_sudden_gust_of_wind_before_your_eyes_4th_labyrinth_haunted_woods
+    title: "A Sudden Gust of Wind Before Your Eyes (4th Labyrinth - Haunted Woods)"
+    path: "1-09 A Sudden Gust of Wind Before Your Eyes.brstm"
+    type: warning
+  - id: hoist_the_sword_and_pride_in_the_heart_boss_battle_first_part
+    title: "Hoist the Sword and Pride in the Heart (Boss Battle (First Part))"
+    path: "1-10 Hoist the Sword and Pride in the Heart.brstm"
+    type: battle
+  - id: waltz_of_the_red_lion_labyrinth_shop
+    title: "Waltz of the Red Lion (Labyrinth Shop)"
+    path: "1-11 Waltz of the Red Lion.brstm"
+    type: betting
+  - id: recapture_the_treasure_contest_the_soul_labyrinth_shop_robbery
+    title: "Recapture the Treasure, Contest the Soul (Labyrinth Shop (Robbery))"
+    path: "1-12 Recapture the Treasure, Contest the Soul.brstm"
+    type: warning
+  - id: that_fresh_blood_is_thine_or_the_enemy_s_d_o_e_battle
+    title: "That Fresh Blood Is Thine or the Enemy's (D.O.E Battle)"
+    path: "1-13 That Fresh Blood is Thine or the Enemy's_.brstm"
+    type: battle
+  - id: one_step_from_death_monster_house
+    title: "One Step from Death (Monster House)"
+    path: "2-01 One Step from Death.brstm"
+    type: battle
+  - id: the_end_of_raging_winds_7th_labyrinth_muspelheim
+    title: "The End of Raging Winds (7th Labyrinth - Muspelheim)"
+    path: "2-04 The End of Raging Winds.brstm"
+    ends: 2:48
+    type: betting
+  - id: your_adventure_has_ended_ending_1
+    title: "Your Adventure Has Ended (Ending 1)"
+    path: "2-06 Your Adventure Has Ended.brstm"
+    type: result
+  - id: chalky_woods_8th_labyrinth_forest_of_gates
+    title: "Chalky Woods (8th Labyrinth - Forest of Gates)"
+    path: "2-07 Chalky Woods.brstm"
+    type: betting
+  - id: faith_is_my_pillar_11th_labyrinth_1_phantom_depths
+    title: "Faith Is My Pillar (11th Labyrinth 1 - Phantom Depths)"
+    path: "2-10 Faith is My Pillar.brstm"
+    type: betting
+  - id: calling_that_detestable_name_lowest_last_boss_battle
+    title: "Calling That Detestable Name (Lowest Last Boss Battle)"
+    path: "2-15 Calling That Detestable Name.brstm"
+    type: battle
+...

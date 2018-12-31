@@ -7,30 +7,42 @@ year: 2006
 songs: 
   - id: boss_battle_ffxii
     title: "Boss Battle"
-    path: "Boss Battle.brstm"
+    path: "105 - Boss Battle.psf2"
     type: battle
-  - id: desperate_fight_ffxii
-    title: "Desperate Fight"
-    path: "Desperate Fight.brstm"
-    type: warning
-  - id: esper_battle_ffxii
-    title: "Esper Battle"
-    path: "Esper Battle.brstm"
-    type: warning
-  - id: eruyt_village_ffxii
-    title: "Eruyt Village"
-    path: "Eruyt Village.brstm"
-    type: warning
   - id: the_dalmasca_estersand_ffxii
     title: "The Dalmasca Estersand"
-    path: "The Dalmasca Estersand.brstm"
+    path: "113 - The Damalsca Eastersand.psf2"
     type: betting
-  - id: clash_of_swords_ffxii
-    title: "Clash of Swords"
-    path: "Clash of Swords.brstm"
-    type: battle
   - id: rabanastre_downtown
     title: "Rabanastre Downtown"
     path: "119 - Rabanastre Downtown.psf2"
     type: betting
+  - id: clash_of_swords_ffxii
+    title: "Clash of Swords"
+    path: "202 - Clash of Swords.psf2"
+    type: battle
+  - id: sorrow_liberation_army_version
+    title: "Sorrow (Liberation Army Version)"
+    path: "214 - Sorrow (Liberation Army Version).psf2"
+    type: break
+  - id: coexistence_liberation_army_version
+    title: "Coexistence (Liberation Army Version)"
+    path: "216 - Coexistence (Liberation Army Version).psf2"
+    type: break
+  - id: esper_battle_ffxii
+    title: "Esper Battle"
+    path: "302 - Esper Battle.psf2"
+    type: battle
+  - id: desperate_fight_life_and_death
+    title: "Desperate Fight / Life and Death"
+    path: "305 - Desperate Fight.psf2"
+    type: battle
+  - id: eruyt_village_ffxii
+    title: "Eruyt Village"
+    path: "309 - Eruyt Village.psf2"
+    type: warning
+  - id: end_of_the_battle
+    title: "End of the Battle"
+    path: "417 - End of the Battle.psf2"
+    type: result
 ...

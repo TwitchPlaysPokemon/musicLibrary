@@ -1,0 +1,39 @@
+---
+id: the_getaway_high_speed_ii
+title: "The Getaway: High Speed II"
+platform: "Pinball"
+year: 1992
+songs: 
+  - id: high_speed
+    title: "High Speed"
+    path: "High Speed.brstm"
+    type: warning
+  - id: la_grange
+    title: "La Grange"
+    path: "La Grange.brstm"
+    type: betting
+  - id: super_jackpot
+    title: "Super Jackpot"
+    path: "Super Jackpot.brstm"
+    type: result
+  - id: getaway_time
+    title: "Getaway Time"
+    path: "Getaway Time.brstm"
+    type: warning
+  - id: jackpot_the_getaway_high_speed_ii
+    title: "Jackpot"
+    path: "Jackpot.brstm"
+    type: result
+  - id: redline_mania
+    title: "Redline Mania"
+    path: "Redline Mania.brstm"
+    type: warning
+  - id: run_the_red_light
+    title: "Run the Red Light"
+    path: "Run the Red Light.brstm"
+    type: warning
+  - id: supercharger_mode
+    title: "Supercharger Mode"
+    path: "Supercharger Mode.brstm"
+    type: warning
+...

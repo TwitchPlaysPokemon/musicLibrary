@@ -13,4 +13,8 @@ songs:
     path: "arena_1.ogg"
     ends: 3:07
     type: betting
+  - id: beautiful_land
+    title: "Beautiful Land"
+    path: "Beautiful Land.brstm"
+    type: break
 ...

@@ -5,28 +5,36 @@ series: touhou
 platform: "PC"
 year: 2013
 songs:
-  - id: an_unpopular_location_hm
+  - id: an_unpopular_location
     title: "An Unpopular Location"
     path: "HMAnUnpopularLocation.brstm"
     type: betting
-  - id: futatsuiwa_from_sado_hm
-    title: "Mamizou's Theme: Futatsuiwa from Sado"
+  - id: futatsuiwa_from_sado
+    title: "Futatsuiwa from Sado"
     path: "HMMamizouThemeFutatsuiwafromSado.brstm"
     type: warning
-  - id: emotional_skyscraper_cosmic_mind_hm
-    path: "Emotional Skyscraper ~ Cosmic Mind.brstm"
+  - id: emotional_skyscraper_cosmic_mind
     title: "Byakuren's Theme: Emotional Skyscraper ~ Cosmic Mind"
+    path: "Emotional Skyscraper ~ Cosmic Mind.brstm"
     type: warning
   - id: akutagawa_ryuunosukes_kappa_candid_friend_hm
+    title: "Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend"
     path: "Akutagawa Ryuunosuke's Kappa ~ Candid Friend.brstm"
-    title: "Nitori's Theme: Akutagawa Ryuunosuke's Kappa ~ Candid Friend"
     type: warning
-  - id: hartmanns_youkai_girl_hm
-    title: "Koishi's Theme: Hartmann's Youkai Girl"
+  - id: hartmann_s_youkai_girl
+    title: "Hartmann's Youkai Girl"
     path: "Hartmann's Youkai Girl.brstm"
     type: warning
-  - id: the_lost_emotion_hm
-    title: "Kokoro's Theme: The Lost Emotion"
+  - id: the_lost_emotion
+    title: "The Lost Emotion"
     path: "The Lost Emotion.brstm"
     type: warning
+  - id: legend_of_the_great_gods
+    title: "Legend of the Great Gods"
+    path: "[1.07] Legend of the Great Gods.mp3"
+    type: betting
+  - id: magus_night
+    title: "Magus Night"
+    path: "Magus Night.brstm"
+    type: betting
 ...

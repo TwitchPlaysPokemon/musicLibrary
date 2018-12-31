@@ -1,0 +1,20 @@
+---
+id: nintendo_sound_selection_vol_3_b_side_music
+title: "Nintendo Sound Selection Vol.3: B-Side Music"
+platform: "Album"
+year: 2005
+songs: 
+  - id: the_legend_of_zelda_ocarina_of_time_epona_s_song
+    title: "The Legend of Zelda: Ocarina of Time - Epona's Song"
+    path: "325 Epona's Song.brstm"
+    type: break
+  - id: luigi_s_mansion_luigi_s_mansion
+    title: "Luigi's Mansion - Luigi's Mansion"
+    path: "326 Luigi's Mansion.brstm"
+    ends: 3:06
+    type: betting
+  - id: animal_crossing_k_k_soul
+    title: "Animal Crossing - K.K. Soul"
+    path: "327 K.K. Soul.brstm"
+    type: break
+...

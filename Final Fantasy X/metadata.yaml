@@ -5,44 +5,44 @@ series: finalfantasy
 platform: "PS2"
 year: 2002
 songs: 
-  - id: seymour_battle
-    title: "Seymour Battle"
-    path: "Seymour Battle.brstm"
-    type: battle
   - id: battle_theme_ffx
     title: "Battle Theme"
-    path: "Battle Theme.brstm"
+    path: "109 Battle.minipsf2"
     type: battle
-  - id: a_fleeting_dream
-    title: "A Fleeting Dream"
-    path: "A Fleeting Dream.brstm"
-    type: betting
-  - id: challenge
-    title: "Challenge"
-    path: "Final_Fantasy_X-Challenge.brstm"
-    type: warning
-  - id: at_the_end_of_the_abyss_beyond_darkness
-    title: "At the End of the Abyss / Beyond Darkness"
-    path: "At the End of the Abyss - Beyond Darkness.brstm"
-    type: betting
-  - id: assault_ffx
-    title: "Assault"
-    path: "Assault.brstm"
-    type: warning
+  - id: illusion_phantoms_ffx
+    title: "Illusion / Phantoms"
+    path: "121 Phantoms.minipsf2"
+    type: break
   - id: blitz_off
-    title: "Blitz Off"
-    path: "Blitz Off.brstm"
+    title: "Blitz Off!"
+    path: "211 Blitz Off.minipsf2"
     type: betting
   - id: thunder_plains
     title: "Thunder Plains"
-    path: "Thunder Plains.brstm"
+    path: "301 Thunder Plains.minipsf2"
     type: break
-  - id: illusion_phantoms_ffx
-    title: "Illusion / Phantoms"
-    path: "Illusion _ Phantoms.brstm"
-    type: break
+  - id: assault_ffx
+    title: "Assault"
+    path: "314 Assault.minipsf2"
+    type: battle
   - id: wandering_flame
     title: "Wandering Flame"
     path: "407 Wandering Flames.minipsf2"
     type: break
+  - id: a_fleeting_dream
+    title: "A Fleeting Dream"
+    path: "408 Someday the Dream Will End.minipsf2"
+    type: betting
+  - id: challenge
+    title: "Challenge"
+    path: "410 Challenge.minipsf2"
+    type: battle
+  - id: beyond_the_darkness
+    title: "Beyond the Darkness"
+    path: "411 To the End of the Abyss.minipsf2"
+    type: betting
+  - id: fight_with_seymour
+    title: "Fight With Seymour"
+    path: "415 Seymour Battle.minipsf2"
+    type: battle
 ...

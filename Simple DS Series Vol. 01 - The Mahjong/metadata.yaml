@@ -1,0 +1,43 @@
+---
+id: simple_ds_series_vol_01_the_mahjong
+title: "Simple DS Series Vol. 01 - The Mahjong"
+platform: "NDS"
+year: 2005
+songs: 
+  - id: bgm_01_simple_ds_series_vol_01
+    title: "BGM #01"
+    path: "01 BGM #01.mini2sf"
+    type: betting
+  - id: bgm_02_simple_ds_series_vol_01
+    title: "BGM #02"
+    path: "02 BGM #02.mini2sf"
+    type: battle
+  - id: bgm_03_simple_ds_series_vol_01
+    title: "BGM #03"
+    path: "03 BGM #03.mini2sf"
+    type: warning
+  - id: bgm_04_simple_ds_series_vol_01
+    title: "BGM #04"
+    path: "04 BGM #04.mini2sf"
+    type: break
+  - id: bgm_05_simple_ds_series_vol_01
+    title: "BGM #05"
+    path: "05 BGM #05.mini2sf"
+    type: betting
+  - id: bgm_06_simple_ds_series_vol_01
+    title: "BGM #06"
+    path: "06 BGM #06.mini2sf"
+    type: betting
+  - id: bgm_07_simple_ds_series_vol_01
+    title: "BGM #07"
+    path: "07 BGM #07.mini2sf"
+    type: warning
+  - id: bgm_08_simple_ds_series_vol_01
+    title: "BGM #08"
+    path: "08 BGM #08.mini2sf"
+    type: battle
+  - id: bgm_09_simple_ds_series_vol_01
+    title: "BGM #09"
+    path: "09 BGM #09.mini2sf"
+    type: warning
+...

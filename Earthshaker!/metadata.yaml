@@ -1,0 +1,27 @@
+---
+id: earthshaker
+title: "Earthshaker!"
+platform: "Pinball"
+year: 1989
+songs: 
+  - id: head_for_shelter
+    title: "Head for Shelter"
+    path: ".brstm"
+    type: warning
+  - id: jackpot_earthshaker
+    title: "Jackpot"
+    path: "Jackpot.brstm"
+    type: result
+  - id: lock_lit_earthshaker
+    title: "Lock Lit"
+    path: "Lock Lit.brstm"
+    type: warning
+  - id: main_theme_earthshaker
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: multiball_earthshaker
+    title: "Multiball"
+    path: "Multiball.brstm"
+    type: result
+...

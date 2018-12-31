@@ -2,9 +2,13 @@
 id: pokemon_battle_revolution
 title: "Pokémon Battle Revolution"
 series: pokemon
-year: 2007
 platform: "Wii"
+year: 2007
 songs: 
+  - id: title_screen_pbr
+    title: "Title Screen"
+    path: "001 - Title Screen.brstm"
+    type: result
   - id: nintendo_wfc_menu
     title: "Nintendo WFC Menu"
     path: "Nintendo WFC Menu.brstm"

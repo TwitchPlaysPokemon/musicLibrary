@@ -9,4 +9,92 @@ songs:
     title: "Enemy Hall - Mythos Ver. -"
     path: "Enemy Hall - Mythos Ver. -.brstm"
     type: betting
+  - id: crash_short_loop
+    title: "Crash - Short Loop -"
+    path: "02 Crash -Short Loop-.minigsf"
+    type: warning
+  - id: the_ruins_of_lab
+    title: "The Ruins of Lab"
+    path: "03 The Ruins of Lab.minigsf"
+    type: break
+  - id: captive_legend
+    title: "Captive Legend"
+    path: "04 Captive Legend.mingsf"
+    type: break
+  - id: cyberelf
+    title: "Cyberelf"
+    path: "05 Cyberelf.minigsf"
+    type: result
+  - id: theme_of_zero_from_rockman_x
+    title: "Theme of ZERO (from Rockman X)"
+    path: "06 Theme of ZERO (from Rockman X).minigsf"
+    type: warning
+  - id: intermission_mega_man_zero
+    title: "Intermission"
+    path: "07 Intermission.minigsf"
+    type: betting
+  - id: resistance
+    title: "Resistance"
+    path: "08 Resistance.minigsf"
+    type: betting
+  - id: express_ug
+    title: "EXPRESS UG"
+    path: "09 EXPRESS UG.minigsf"
+    type: warning
+  - id: deadzone
+    title: "Deadzone"
+    path: "10 Deadzone.minigsf"
+    type: betting
+  - id: scorching_desert
+    title: "Scorching Desert"
+    path: "11 Scorching Desert.minigsf"
+    type: betting
+  - id: hell_plant
+    title: "Hell Plant"
+    path: "12 Hell Plant.minigsf"
+    type: betting
+  - id: infiltration
+    title: "Infiltration"
+    path: "13 Infiltraction.minigsf"
+    type: break
+  - id: emergency
+    title: "Emergency"
+    path: "14 Emergency.minigsf"
+    type: warning
+  - id: guarder_room
+    title: "Guarder Room"
+    path: "15 Guarder Room.minigsf"
+    type: warning
+  - id: crash
+    title: "Crash"
+    path: "16 Crash (Mid Boss Battle).minigsf"
+    type: warning
+  - id: result_of_mission
+    title: "Result of Mission"
+    path: "17 Result of Mission.minigsf"
+    type: result
+  - id: neo_arcadia
+    title: "Neo Arcadia"
+    path: "19 Neo Arcadia.minigsf"
+    type: betting
+  - id: x_the_legend
+    title: "X, The Legend"
+    path: "20 X, The Legend.minigsf"
+    type: warning
+  - id: fake
+    title: "Fake"
+    path: "21 Fake.minigsf"
+    type: warning
+  - id: the_end_of_legend
+    title: "The End of Legend"
+    path: "22 The End of Legend.minigsf"
+    type: warning
+  - id: for_endless_fight
+    title: "For Endless Fight"
+    path: "23 For Endless Fight.minigsf"
+    type: betting
+  - id: area_of_zero_main_theme_of_zero
+    title: "Area of ZERO / Main Theme of ZERO"
+    path: "25 Area of ZERO ~ Main Theme of ZERO.minigsf"
+    type: betting
 ...

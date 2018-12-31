@@ -1,0 +1,43 @@
+---
+id: spider_man_venom_maximum_carnage_snes
+title: "Spider-Man & Venom: Maximum Carnage [SNES]"
+platform: ["SNES", "SMD"]
+year: 1994
+songs: 
+  - id: main_theme_maximum_carnage
+    title: "Main Theme ~ Maximum Carnage"
+    path: "01 Main Theme ~ Maximum Carnage.spc"
+    type: warning
+  - id: story_interlude_maximum_carnage
+    title: "Story Interlude"
+    path: "02 Story Interlude.spc"
+    type: warning
+  - id: streets_of_new_york
+    title: "Streets of New York"
+    path: "04 Streets of New York.spc"
+    type: betting
+  - id: chasing_insanity
+    title: "Chasing Insanity"
+    path: "05 Chasing Insanity.spc"
+    type: battle
+  - id: heroic_assault
+    title: "Heroic Assault"
+    path: "06 Heroic Assault.spc"
+    type: betting
+  - id: heated_battle
+    title: "Heated Battle"
+    path: "07 Heated Battle.spc"
+    type: warning
+  - id: decisive_dance
+    title: "Decisive Dance"
+    path: "08 Decisive Dance.spc"
+    type: warning
+  - id: ending_staff_roll_maximum_carnage
+    title: "Ending ~ Staff Roll"
+    path: "10 Ending ~ Staff Roll.spc"
+    type: result
+  - id: game_over_maximum_carnage
+    title: "Game Over"
+    path: "11 Game Over.spc"
+    type: warning
+...

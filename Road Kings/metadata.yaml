@@ -1,0 +1,19 @@
+---
+id: road_kings
+title: "Road Kings"
+platform: "Pinball"
+year: 1986
+songs: 
+  - id: game_theme_road_kings
+    title: "Game Theme"
+    path: "Game Theme.brstm"
+    type: betting
+  - id: high_score_theme_road_kings
+    title: "High Score Theme"
+    path: "High Score Theme.brstm"
+    type: result
+  - id: multiball_theme_road_kings
+    title: "Multiball Theme"
+    path: "Multiball Theme.brstm"
+    type: betting
+...

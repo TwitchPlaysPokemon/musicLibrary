@@ -1,0 +1,19 @@
+---
+id: swords_of_fury
+title: "Swords of Fury"
+platform: "Pinball"
+year: 1988
+songs: 
+  - id: lock_2_theme
+    title: "Lock 2 Theme"
+    path: "Lock 2 Theme.brstm"
+    type: betting
+  - id: main_theme_swords_of_fury
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: multiball_theme_swords_of_fury
+    title: "Multiball Theme"
+    path: "Multiball Theme.brstm"
+    type: warning
+...

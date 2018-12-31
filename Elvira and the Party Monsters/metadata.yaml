@@ -1,0 +1,15 @@
+---
+id: elvira_and_the_party_monsters
+title: "Elvira and the Party Monsters"
+platform: "Pinball"
+year: 1989
+songs: 
+  - id: jackpot_awarded_elvira
+    title: "Jackpot Awarded"
+    path: "Jackpot Awarded.brstm"
+    type: result
+  - id: multiball_elvira
+    title: "Multiball"
+    path: "Multiball.brstm"
+    type: warning
+...

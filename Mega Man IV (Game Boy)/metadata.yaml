@@ -1,18 +1,20 @@
+---
 id: mega_man_iv
 title: "Mega Man IV"
 series: megaman
 platform: "GB"
 year: 1993
 songs:
-  - id: wily_stages_mmiv
-    title: "Wily Stages"
-    path: "17 Dr. Wily's Stages 1, 2 & 4.m3u"
+  - id: wily_battleship_stage
+    title: "Wily Battleship Stage"
+    path: "24 Wily Battleship Stage.vgz"
     type: betting
-  - id: ballade
-    title: "Ballade"
-    path: "18 Dr. Wily's Stage Boss Battle 2 & Dr. Wily's Stage 3.m3u"
+  - id: ballade_battle_escape
+    title: "Ballade Battle - Escape"
+    path: "22 Ballade Battle - Escape.vgz"
     type: warning
-  - id: wily_battle_medley
-    title: "Wily Battle Medley"
-    path: "Wily Battle Medley.brstm"
+  - id: final_battle_mega_man_iv
+    title: "Final Battle"
+    path: "26 Final Battle.vgz"
     type: battle
+...

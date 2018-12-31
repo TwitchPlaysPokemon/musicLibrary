@@ -1,0 +1,16 @@
+---
+id: brain_spasm
+title: "Brain Spasm"
+platform: "C64"
+year: 
+songs: 
+  - id: in_game
+    title: "In-Game"
+    path: "Gameplay Theme.brstm"
+    ends: 3:07
+    type: betting
+  - id: title_brain_spasm
+    title: "Title"
+    path: "Title Theme.brstm"
+    type: betting
+...

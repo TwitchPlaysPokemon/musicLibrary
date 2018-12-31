@@ -1,0 +1,27 @@
+---
+id: banzai_run
+title: "Banzai Run"
+platform: "Arcade"
+year: 1988
+songs: 
+  - id: a_ball_is_in_timed_lock
+    title: "A BALL IS IN TIMED LOCK"
+    path: "A Ball Is In Timed Lock.brstm"
+    type: warning
+  - id: king_of_hill
+    title: "KING OF HILL"
+    path: "King of Hill.brstm"
+    type: result
+  - id: lock_is_lit
+    title: "LOCK IS LIT"
+    path: "Lock is Lit.brstm"
+    type: betting
+  - id: main_theme_banzai_run
+    title: "MAIN THEME"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: multiball_banzai_run
+    title: "MULTIBALL"
+    path: "Multiball.brstm"
+    type: result
+...

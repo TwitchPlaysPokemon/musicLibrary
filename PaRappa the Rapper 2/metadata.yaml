@@ -8,4 +8,33 @@ songs:
     title: "Hair Scare (Instrumental)"
     path: "Hair Scare (Instrumental).brstm"
     type: betting
+  - id: toasty_buns_instrumental
+    title: "Toasty Buns (Instrumental)"
+    path: "ST01GM0G.INT"
+    ends: 2:41
+    type: betting
+  - id: romantic_love_instrumental
+    title: "Romantic Love (Instrumental)"
+    path: "ST02GM0G.INT"
+    ends: 2:47
+    type: betting
+  - id: big_unstrumental
+    title: "BIG (Instrumental)"
+    path: "ST03GM0G.INT"
+    ends: 2:11
+    type: betting
+  - id: sista_moosesha_instrumental
+    title: "Sista Moosesha (Instrumental)"
+    path: "ST04GM0G.INT"
+    ends: 2:35
+    type: betting
+  - id: noodles_can_t_be_beat_instrumental
+    title: "Noodles Can't Be Beat (Instrumental)"
+    path: "Noodles Can't Be Beat (Instrumental).INT"
+    ends: 2:19
+    type: betting
+  - id: always_love_instrumental
+    title: "Always Love (Instrumental)"
+    path: "ST08GM0G.INT"
+    type: result
 ...

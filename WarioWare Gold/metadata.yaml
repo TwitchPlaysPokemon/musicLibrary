@@ -1,0 +1,51 @@
+---
+id: warioware_gold
+title: "WarioWare Gold"
+platform: "3DS"
+year: 2018
+songs: 
+  - id: wario_kard_battle
+    title: "Wario Kard Battle"
+    path: "BGM_CARDGAME_BATTLE1_22k.dspadpcm.bcstm"
+    type: warning
+  - id: main_menu_warioware_gold
+    title: "Main Menu"
+    path: "BGM_MainMenu_32k_lp.dspadpcm.bcstm"
+    type: betting
+  - id: pumpkin_panic
+    title: "Pumpkin Panic"
+    path: "BGM_Mini_Ashley1.dspadpcm.bcstm"
+    type: betting
+  - id: pumpkin_panic_gallery
+    title: "Pumpkin Panic Gallery"
+    path: "BGM_Mini_Ashley_Gallery1.dspadpcm.bcstm"
+    type: break
+  - id: pumpkin_panic_boss
+    title: "Pumpkin Panic Boss"
+    path: "BGM_Mini_Ashley_Boss1.dspadpcm.bcstm"
+    type: warning
+  - id: autograph_warioware_gold
+    title: "Autograph!"
+    path: "BGM_Mini_Penmanship1.dspadpcm.bcstm"
+    type: betting
+  - id: nintendo_collection
+    title: "Nintendo Collection"
+    path: "BGM_NintendoCollection_22k_lp.dspadpcm.bcstm"
+    type: break
+  - id: love_tester_2_0
+    title: "Love Tester 2.0"
+    path: "BGM_NewLoveTester1.dspadpcm.bcstm"
+    type: result
+  - id: wario_de_mucho
+    title: "Wario de Mucho"
+    path: "BGM_Record_24_Boss_Dancing_JPEN_22k.dspadpcm.bcstm"
+    type: warning
+  - id: introducing_wario_deluxe
+    title: "Introducing Wario Deluxe"
+    path: "BGM_Record_23_Ultra3_22k.dspadpcm.bcstm"
+    type: betting
+  - id: work_those_muscles
+    title: "Work Those Muscles!"
+    path: "BGM_Record_20_Muscle_22k.dspadpcm.bcstm"
+    type: betting
+...

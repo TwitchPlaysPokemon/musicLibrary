@@ -107,4 +107,80 @@ songs:
     title: "Dunkmaster Darius"
     path: "Dunkmaster Darius.brstm"
     type: betting
+  - id: gun_goddess_miss_fortune
+    title: "Gun Goddess Miss Fortune"
+    path: "Gun Goddess Miss Fortune.brstm"
+    ends: 3:06
+    type: betting
+  - id: lunar_revel_2018
+    title: "Lunar Revel 2018"
+    path: "Lunar Revel 2018.brstm"
+    ends: 3:23
+    type: betting
+  - id: neeko_the_curious_chameleon
+    title: "Neeko, the Curious Chameleon"
+    path: "Neeko, the Curious Chameleon.brstm"
+    ends: 3:44
+    type: betting
+  - id: arcade_2017
+    title: "Arcade 2017"
+    path: "Arcade 2017.brstm"
+    ends: 2:37
+    type: betting
+  - id: irelia_the_defiant_blade
+    title: "Irelia, the Defiant Blade"
+    path: "Irelia, the Defiant Blade.brstm"
+    ends: 2:40
+    type: betting
+  - id: aurelion_sol_the_star_forger
+    title: "Aurelion Sol, the Star Forger"
+    path: "Aurelion Sol, the Star Forger.brstm"
+    type: betting
+  - id: daylight_s_end
+    title: "Daylight's End"
+    path: "Daylight's End.brstm"
+    type: break
+  - id: ivern_the_green_father
+    title: "Ivern, the Green Father"
+    path: "Ivern, the Green Father.brstm"
+    type: break
+  - id: jhin_the_virtuoso
+    title: "Jhin, the Virtuoso"
+    path: "Jhin, the Virtuoso.brstm"
+    ends: 3:24
+    type: betting
+  - id: kalista_the_spear_of_vengeance
+    title: "Kalista, the Spear of Vengeance"
+    path: "Kalista, the Spear of Vengeance.brstm"
+    ends: 2:23
+    type: betting
+  - id: kindred_the_eternal_hunters
+    title: "Kindred, the Eternal Hunters"
+    path: "Kindred, the Eternal Hunters.brstm"
+    ends: 2:29
+    type: betting
+  - id: lunar_revel_2014
+    title: "Lunar Revel 2014"
+    path: "Lunar Revel 2014.brstm"
+    ends: 3:45
+    type: betting
+  - id: poppy_keeper_of_the_hammer
+    title: "Poppy, Keeper of the Hammer"
+    path: "Poppy, Keeper of the Hammer.brstm"
+    ends: 3:05
+    type: betting
+  - id: tales_from_the_rift
+    title: "Tales From the Rift"
+    path: "Tales From the Rift.brstm"
+    type: warning
+  - id: zoe_the_aspect_of_twilight
+    title: "Zoe, the Aspect of Twilight"
+    path: "Zoe, the Aspect of Twilight.brstm"
+    ends: 2:51
+    type: betting
+  - id: slayer_jinx
+    title: "Slayer Jinx"
+    path: "Slayer Jinx.brstm"
+    ends: 2:40
+    type: betting
 ...

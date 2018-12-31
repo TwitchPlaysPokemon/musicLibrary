@@ -1,22 +1,24 @@
+---
 id: mario_hoops_3_on_3
 title: "Mario Hoops 3-on-3"
 series: mario
-year: 2006
 platform: "NDS"
+year: 2006
 songs:
   - id: junior_street
     title: "Junior Street"
     path: "Junior Street.brstm"
     type: betting
-  - id: sherbet_land_game_version
-    title: "Sherbet Land (Game version)"
-    path: "Sherbet Land (Game version).brstm"
+  - id: luigi_s_mansion_ds_version
+    title: "Luigi's Mansion"
+    path: "11 Luigi Mansion.mini2sf"
     type: betting
-  - id: luigi_mansion_game_version
-    title: "Luigi Mansion (Game version)"
-    path: "Luigi Mansion (Game version).brstm"
+  - id: sherbet_land_ds_version
+    title: "Sherbet Land"
+    path: "16 Sherbet Land.mini2sf"
     type: warning
   - id: bowser_castle_cd_version
     title: "Bowser Castle (CD Version)"
     path: "Bowser Castle (CD Version).brstm"
     type: warning
+...

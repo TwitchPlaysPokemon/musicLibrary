@@ -9,8 +9,23 @@ songs:
     title: "Main Theme"
     path: "Main Theme.brstm"
     type: break
-  - id: mission_complete_theme_gta3
-    title: "Mission Complete Theme"
+  - id: mission_complete_gta3
+    title: "Mission Complete"
     path: "Mission Complete Theme.brstm"
     type: result
+  - id: craig_gray_fade_away
+    title: "Craig Gray - Fade Away"
+    path: "02 Fade Away.m4a"
+    ends: 3:00
+    type: betting
+  - id: frankie_fame_see_through_you
+    title: "Frankie Fame - See Through You"
+    path: "05 See Through You.m4a"
+    ends: 2:55
+    type: betting
+  - id: whatever_good_thing
+    title: "Whatever - Good Thing"
+    path: "07 Good Thing.m4a"
+    ends: 2:52
+    type: betting
 ...

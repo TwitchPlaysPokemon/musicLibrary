@@ -3,10 +3,15 @@ id: 1080_snowboarding
 title: "1080° Snowboarding"
 platform: "N64"
 year: 1998
-songs:
+songs: 
+  - id: work_your_body
+    title: "Work Your Body"
+    path: "02 Work Your Body.miniusf"
+    ends: 1:52
+    type: betting
   - id: this_is_a_test
-    title: "This Is A Test"
-    path: "This Is A Test.brstm"
+    title: "This is a Test"
+    path: "04 This is a Test.miniusf"
     tags: [xmas]
-    type: warning
+    type: betting
 ...

@@ -5,10 +5,30 @@ series: mario
 year: 2000
 platform: "N64"
 songs:
-  - id: stardust_battle
-    title: "Stardust Battle"
-    path: "56 - Stardust Battle.miniusf"
-    type: battle
+  - id: castle_grounds_mp3
+    title: "Castle Grounds"
+    path: "04 - Castle Grounds.miniusf"
+    type: break
+  - id: staff_credits_mp3
+    title: "Staff Credits"
+    path: "05 - Staff Credits.miniusf"
+    type: break
+  - id: free_play_room
+    title: "Free Play Room"
+    path: "07 - Free Play Room.miniusf"
+    type: break
+  - id: preparations_mp3
+    title: "Preparations"
+    path: "09 - Preparations.miniusf"
+    type: break
+  - id: the_adventure_ends
+    title: "The Adventure Ends"
+    path: "12 - The Adventure Ends.miniusf"
+    type: result
+  - id: still_going
+    title: "Still Going"
+    path: "15 - Still Going.miniusf"
+    type: warning
   - id: chilly_waters
     title: "Chilly Waters"
     path: "20 - Chilly Waters.miniusf"
@@ -34,46 +54,22 @@ songs:
     title: "Waluigi's Island"
     path: "25 - Waluigi's Island.miniusf"
     type: betting
-  - id: castle_grounds_mp3
-    title: "Castle Grounds"
-    path: "04 - Castle Grounds.miniusf"
-    type: break
-  - id: staff_credits_mp3
-    title: "Staff Credits"
-    path: "05 - Staff Credits.miniusf"
-    type: break
-  - id: free_play_room
-    title: "Free Play Room"
-    path: "07 - Free Play Room.miniusf"
-    type: break
-  - id: preparations_mp3
-    title: "Preparations"
-    path: "09 - Preparations.miniusf"
-    type: break
-  - id: the_end_mp3
-    title: "The End"
-    path: "34 - The End.miniusf"
-    type: break
-  - id: the_adventure_ends
-    title: "The Adventure Ends"
-    path: "12 - The Adventure Ends.miniusf"
-    type: result
-  - id: victory_mp3
-    title: "Victory!"
-    path: "31 - Victory!.miniusf"
-    type: result
-  - id: game_guy_winner
-    title: "Game Guy Winner!"
-    path: "61 - Game Guy Winner!.miniusf"
-    type: result
-  - id: still_going
-    title: "Still Going"
-    path: "15 - Still Going.miniusf"
-    type: warning
   - id: bowser_event
     title: "Bowser Event"
     path: "30 - Bowser Event.miniusf"
     type: warning
+  - id: victory_mp3
+    title: "Victory!"
+    path: "31 - Victory!.miniusf"
+    type: result
+  - id: heeeeres_waluigi
+    title: "Heeeere's Waluigi!"
+    path: "32 Heeeere's Waluigi!.miniusf"
+    type: warning
+  - id: the_end_mp3
+    title: "The End"
+    path: "34 - The End.miniusf"
+    type: break
   - id: panic_mp3
     title: "Panic!"
     path: "38 - Panic!.miniusf"
@@ -98,6 +94,10 @@ songs:
     title: "Start Battle"
     path: "53 - Start Battle.miniusf"
     type: warning
+  - id: stardust_battle
+    title: "Stardust Battle"
+    path: "56 - Stardust Battle.miniusf"
+    type: battle
   - id: chance_time_mp3
     title: "Chance Time"
     path: "57 - Chance Time.miniusf"
@@ -106,8 +106,8 @@ songs:
     title: "Game Guy Mini-Game"
     path: "58 - Game Guy Mini-Game.miniusf"
     type: warning
-  - id: heeeeres_waluigi
-    title: "Heeeere's Waluigi!"
-    path: "Heeeere's Waluigi!.brstm"
-    type: warning
+  - id: game_guy_winner
+    title: "Game Guy Winner!"
+    path: "61 - Game Guy Winner!.miniusf"
+    type: result
 ...
