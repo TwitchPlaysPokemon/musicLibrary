@@ -18,11 +18,11 @@ songs:
     path: "Dangerous Dinner - Map.brstm"
     type: warning
   - id: crowned_return_to_dream_land
-    title: "CROWNED"
+    title: "C-R-O-W-N-E-D"
     path: "CROWNED.brstm"
     type: battle
-  - id: heavy_lobster_return_to_dream_land
-    title: "Heavy Lobster"
+  - id: vs_robo_dedede_phase_2_return_to_dream_land
+    title: "VS. Robo Dedede (Phase 2)"
     path: "Heavy Lobster.brstm"
     type: battle
   - id: warrior_from_another_world_return_to_dream_land
@@ -144,8 +144,8 @@ songs:
     title: "Return to Dream Land"
     path: "StaffRoll_0622.brstm"
     type: betting
-  - id: robo_kawasaki_return_to_dream_land
-    title: "Robo Kawasaki"
+  - id: vs_mecha_kawasaki_return_to_dream_land
+    title: "VS. Mecha Kawasaki"
     path: "kawasaki02.brstm"
     type: betting
   - id: sky_tower_return_to_dream_land
@@ -172,8 +172,8 @@ songs:
     title: "Unlimited Power"
     path: "st_dark.brstm"
     type: betting
-  - id: waddle_dee_tank_return_to_dream_land
-    title: "Waddle Dee Tank"
+  - id: vs_waddle_tank_return_to_dream_land
+    title: "VS. Waddle Tank"
     path: "Wado2.brstm"
     type: battle
   - id: walking_in_the_sea_return_to_dream_land
@@ -187,5 +187,9 @@ songs:
   - id: with_four_buddies_cookie_country_dream_land
     title: "With Four Buddies: Cookie Country"
     path: "Level_1.brstm"
+    type: betting
+  - id: green_greens_return_to_dream_land
+    title: "Green Greens / Kirby's Return to Dream Land ver."
+    path: "ST_IUK_KbyGB1.brstm"
     type: betting
 ...

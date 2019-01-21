@@ -13,8 +13,8 @@ songs:
     title: "Ghost Town"
     path: "00039_bgm_stg03_c_spdup.hca"
     type: betting
-  - id: cutscene_zavok_appears
-    title: "Cutscene - Zavok Appears"
+  - id: battle_with_death_queen
+    title: "Battle with Death Queen"
     path: "00060_bgm_stg06_s.hca"
     type: battle
   - id: egg_gate_sonic_forces
@@ -53,8 +53,8 @@ songs:
     title: "Chemical Flow - Chemical Plant"
     path: "00202_bgm_stg20_b_2.hca"
     type: betting
-  - id: battle_with_infinite_metropolis
-    title: "Battle with Infinite (Metropolis)"
+  - id: battle_with_infinite_second_bout
+    title: "Battle with Infinite - Second Bout"
     path: "00200_bgm_stg20_b.hca"
     type: battle
   - id: red_gate_bridge
@@ -65,8 +65,8 @@ songs:
     title: "Battle with Metal Sonic"
     path: "00229_bgm_stg22_c_spdup.hca"
     type: warning
-  - id: guardian_rock_qte
-    title: "Guardian Rock (QTE)"
+  - id: death_crab_pursuit
+    title: "Death Crab Pursuit"
     path: "00250_bgm_stg25_b.hca"
     type: warning
   - id: network_terminal
@@ -93,8 +93,8 @@ songs:
     title: "Mortar Canyon"
     path: "00420_bgm_sys_mybuddy.hca"
     type: battle
-  - id: battle_with_infinite_eggman_empire_fortress
-    title: "Battle with Infinite (Eggman Empire Fortress)"
+  - id: battle_with_infinite_showdown
+    title: "Battle with Infinite - Showdown"
     path: "00440_bgm_sys_mission.hca"
     type: battle
   - id: iron_fortress
@@ -109,48 +109,48 @@ songs:
     title: "Final Judgment - Reactor"
     path: "00701_bgm_stg_ex01.hca"
     type: warning
-  - id: mission_sonic_forces
-    title: "Mission"
+  - id: up_to_the_challenge
+    title: "Up To The Challenge"
     path: "bgm_wars.awb.00070.hca"
     type: warning
-  - id: fitting_room
-    title: "Fitting Room"
+  - id: this_is_who_you_are
+    title: "This Is Who You Are"
     path: "bgm_wars.awb.00071.hca"
     type: betting
-  - id: avatar_creation
-    title: "Avatar Creation"
+  - id: this_is_our_world_a_new_hero
+    title: "This Is Our World - A New Hero"
     path: "bgm_wars.awb.00072.hca"
     type: betting
-  - id: theater_sonic_forces
-    title: "Theater"
+  - id: fist_bump_piano_ver
+    title: "Fist Bump - Piano ver."
     path: "bgm_wars.awb.00073.hca"
     type: break
-  - id: stage_clear_results
-    title: "Stage Clear (Results)"
+  - id: taking_it_back
+    title: "Taking It Back"
     path: "bgm_wars.awb.00074.hca"
     type: result
-  - id: the_light_of_hope_instrumental
-    title: "The Light of Hope (Instrumental)"
+  - id: the_light_of_hope_title_screen_Verq
+    title: "The Light of Hope - Title Screen ver."
     path: "bgm_wars.awb.00077.hca"
     type: break
-  - id: world_map_1_sonic_forces
-    title: "World Map 1"
+  - id: this_is_our_world_phase_1
+    title: "This is Our World - Phase 1"
     path: "00904_bgm_stg_sp04.hca"
     type: betting
-  - id: world_map_2_sonic_forces
-    title: "World Map 2"
+  - id: this_is_our_world_phase_2
+    title: "This is Our World - Phase 2"
     path: "00905_bgm_stg_sp05.hca"
     type: betting
-  - id: world_map_3_sonic_forces
-    title: "World Map 3"
+  - id: this_is_our_world
+    title: "This is Our World"
     path: "00906_bgm_stg_sp06.hca"
     type: betting
-  - id: egg_dragoon_battle
-    title: "Egg Dragoon Battle"
+  - id: battle_with_egg_dragoon_mk_ii
+    title: "Battle with Egg Dragoon Mk. II"
     path: "00150_bgm_stg15_s.hca"
     type: battle
-  - id: super_sonic_classic_sonic_forces
-    title: "Super Sonic (Classic)"
+  - id: fist_bump_fm_ver
+    title: "Fist Bump (FM Ver.)"
     path: "Fist Bump (FM Ver.).brstm"
     type: betting
 ...

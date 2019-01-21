@@ -1,8 +1,8 @@
 ---
 id: wii_fit
 title: "Wii Fit"
-year: 2007
 platform: "Wii"
+year: 2007
 songs: 
   - id: result_d02_g_44_c4
     title: "Results (Failure)"
@@ -19,5 +19,13 @@ songs:
   - id: result_ver_a
     title: "Result ver. A"
     path: "Result_A.brstm"
+    type: result
+  - id: yoga
+    title: "Yoga"
+    path: "Yoga.brstm"
+    type: break
+  - id: advanced_step
+    title: "Advanced Step"
+    path: "r83_wft_fumidaidance.lopus"
     type: result
 ...

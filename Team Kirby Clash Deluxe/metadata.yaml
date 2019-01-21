@@ -5,8 +5,8 @@ series: kirby
 platform: "3DS"
 year: 2017
 songs:
-  - id: landia_EX_team_kirby_clash_deluxe
-    title: "Landia EX"
+  - id: decisive_battle_with_a_mighty_boss
+    title: "Decisive Battle with a Mighty Boss"
     path: "Dynablade Dark.brstm"
     type: warning
   - id: grand_doomer_team_kirby_clash_deluxe
@@ -21,16 +21,16 @@ songs:
     title: "Magolor the Wayfarer"
     path: "Magolor the Wayfarer.brstm"
     type: break
-  - id: ordeal_boss
-    title: "Ordeal Boss"
+  - id: rescue_the_kingdom_ordeal_quest
+    title: "Rescue the Kingdom! Ordeal Quest"
     path: "Ordeal Boss Orchestra.brstm"
     type: battle
-  - id: tougher_ordeal_boss
-    title: "Tougher Ordeal Boss"
+  - id: save_the_world_ordeal_quest
+    title: "Save the World! Ordeal Quest"
     path: "Ordeal Boss Electronic.brstm"
     type: warning
-  - id: quest_board_team_kirby_clash_deluxe
-    title: "Quest Board"
+  - id: the_challenge_of_the_brave_quest_board
+    title: "The Challenge of the Brave! Quest Board"
     path: "Quest Board.brstm"
     type: warning
   - id: dark_taranza
@@ -42,16 +42,16 @@ songs:
     ends: 2:55
     path: "Secret Credits.bcstm"
     type: betting
-  - id: mura
-    title: "Mura"
+  - id: village_team_kirby_clash_deluxe
+    title: "Village"
     path: "mura.dspadpcm.bcstm"
     type: break
-  - id: mura_half
-    title: "Mura Half"
+  - id: small_village_team_kirby_clash_deluxe
+    title: "Small Village"
     path: "mura_Half.dspadpcm.bcstm"
     type: break
-  - id: mura_big
-    title: "Mura Big"
+  - id: big_village_team_kirby_clash_deluxe
+    title: "Big Village"
     path: "MuraBig.dspadpcm.bcstm"
     type: result
 ...

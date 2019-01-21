@@ -38,4 +38,64 @@ songs:
     title: "Challenge GO! → Puyo 2 Tetris!"
     path: "BGM_T00_classic.dspadpcm.bcstm"
     type: betting
+  - id: welcome_to_puyotetris
+    title: "Welcome to PUYOTETRIS!!"
+    path: "BGM_MZ00_opening.dspadpcm.bfstm"
+    type: betting
+  - id: it_s_main_menu
+    title: "It's Main Menu!"
+    path: "BGM_S02_menu.dspadpcm.bfstm"
+    type: break
+  - id: where_shall_we_go
+    title: "Where Shall We Go?"
+    path: "BGM_S04_adv.dspadpcm.bfstm"
+    type: betting
+  - id: happy_days_like_usual
+    title: "Happy Days like Usual~!"
+    path: "BGM_MZ01_normal.dspadpcm.bfstm"
+    type: betting
+  - id: in_the_end_we_all_laugh
+    title: "In The End we all Laugh!"
+    path: "BGM_MZ04_gogo.dspadpcm.bfstm"
+    type: result
+  - id: listen_up_it_s_your_lesson_for_today
+    title: "Listen Up, it's your Lesson for Today!"
+    path: "BGM_TS04_lesson.dspadpcm.bfstm"
+    type: betting
+  - id: play_throughly_the_puyopuyo_puyo_puyo_20th_anniversary
+    title: "Play throughly the Puyopuyo - (Puyo Puyo 20th Anniversary)"
+    path: "BGM_T07_toko_p.dspadpcm.bfstm"
+    type: betting
+  - id: block_by_block_beat_by_beat
+    title: "Block by Block ~ Beat by Beat"
+    path: "BGM_T08_toko_t.dspadpcm.bfstm"
+    type: betting
+  - id: folktales_from_the_motherland
+    title: "Folktales From the Motherland!"
+    path: "BGM_T02_swap_t.dspadpcm.bfstm"
+    type: betting
+  - id: puyotetromix
+    title: "PuyoTetroMix"
+    path: "BGM_T06_mix.dspadpcm.bfstm"
+    type: betting
+  - id: the_finale_is_underway
+    title: "The Finale is Underway!"
+    path: "BGM_MZ07_boss.dspadpcm.bfstm"
+    type: warning
+  - id: faceoff_in_puyopuyo_world_magical_confrontation!
+    title: "Faceoff in Puyopuyo World! ~ Magical Confrontation!"
+    path: "BGM_TA03_boss_p2.dspadpcm.bfstm"
+    type: battle
+  - id: the_true_conspiracy
+    title: "The True Conspiracy!"
+    path: "BGM_MZ08_last.dspadpcm.bfstm"
+    type: betting
+  - id: dimension_stage_decisive_battle
+    title: "Dimension Stage ~ Decisive Battle"
+    path: "BGM_TA04_lastboss.dspadpcm.bfstm"
+    type: battle
+  - id: staff_credits_puyo_puyo_tetris
+    title: "Staff Credits"
+    path: "BGM_MZE2_staff.dspadpcm.bfstm"
+    type: break
 ...

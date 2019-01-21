@@ -8,4 +8,12 @@ songs:
     title: "Bloody Tears"
     path: "Bloody Tears.brstm"
     type: battle
+  - id: simon_belmont_theme
+    title: "Simon Belmont Theme"
+    path: "ad22_ac_simonnotheme.lopus"
+    type: battle
+  - id: black_night
+    title: "Black Night"
+    path: "ad37_ac_blacknight_lasstboss2.lopus"
+    type: warning
 ...

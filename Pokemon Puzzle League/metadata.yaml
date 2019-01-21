@@ -12,28 +12,92 @@ songs:
     title: "Richie's Theme"
     path: "Richie's Theme.miniusf"
     type: break
-  - id: vs_erika_puzzle
+  - id: vs_erika
     title: "Vs. Erika"
     path: "Vs. Erika.miniusf"
     type: break
-  - id: vs_ash_puzzle
+  - id: vs_ash
     title: "Vs. Ash"
     path: "Vs Ash.brstm"
     type: warning
-  - id: vs_ash_fast_puzzle
+  - id: vs_ash_fast
     title: "Vs. Ash (Fast)"
     path: "Vs Ash (Fast).brstm"
     type: warning
-  - id: vs_brock_puzzle
+  - id: vs_brock
     title: "Vs. Brock"
     path: "Vs Brock.brstm"
     type: result
-  - id: vs_lorelei_fast_puzzle
+  - id: vs_lorelei_fast
     title: "Vs. Lorelei (Fast)"
     path: "Vs Lorelei (Fast).brstm"
     type: warning
-  - id: vs_misty_puzzle
+  - id: vs_misty
     title: "Vs. Misty"
     path: "Vs Misty.brstm"
     type: betting
+  - id: settings_puzzle_league
+    title: "Settings"
+    path: "sparse3e.miniusf"
+    type: result
+  - id: vs_gary
+    title: "Vs. Gary"
+    path: "sparse02.miniusf"
+    type: warning
+  - id: vs_gary_fast
+    title: "Vs. Gary (Fast)"
+    path: "sparse03.miniusf"
+    type: warning
+  - id: vs_brock_fast
+    title: "Vs. Brock (Fast)"
+    path: "sparse05.miniusf"
+    type: warning
+  - id: vs_sabrina
+    title: "Vs. Sabrina"
+    path: "sparse0e.miniusf"
+    type: break
+  - id: vs_blaine_fast
+    title: "Vs. Blaine (Fast)"
+    path: "sparse11.miniusf"
+    type: result
+  - id: vs_team_rocket
+    title: "Vs. Team Rocket"
+    path: "sparse14.miniusf"
+    type: warning
+  - id: vs_team_rocket_fast
+    title: "Vs. Team Rocket (Fast)"
+    path: "sparse15.miniusf"
+    type: warning
+  - id: vs_giovanni_fast
+    title: "Vs. Giovanni (Fast)"
+    path: "sparse17.miniusf"
+    type: warning
+  - id: vs_bruno
+    title: "Vs. Bruno"
+    path: "sparse1c.miniusf"
+    type: warning
+  - id: vs_bruno_fast
+    title: "Vs. Bruno (Fast)"
+    path: "sparse1d.miniusf"
+    type: warning
+  - id: vs_mewtwo
+    title: "Vs. Mewtwo"
+    path: "sparse20.miniusf"
+    type: break
+  - id: vs_mewtwo_fast
+    title: "Vs. Mewtwo (Fast)"
+    path: "sparse21.miniusf"
+    type: warning
+  - id: award
+    title: "Award"
+    path: "sparse41.miniusf"
+    type: result
+  - id: credits_puzzle_league
+    title: "Credits"
+    path: "sparse47.miniusf"
+    type: betting
+  - id: vs_giovanni
+    title: "Vs. Giovanni"
+    path: "sparse16.miniusf"
+    type: warning
 ...

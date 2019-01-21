@@ -1,0 +1,142 @@
+---
+id: deltarune_chapter_1
+title: "DELTARUNE Chapter 1"
+platform: "PC"
+year: 2018
+songs: 
+  - id: another_him
+    title: "ANOTHER HIM"
+    path: "AUDIO_ANOTHERHIM.logg"
+    type: break
+  - id: susie
+    title: "Susie"
+    path: "s_neo.logg"
+    type: warning
+  - id: the_door
+    title: "The Door"
+    path: "creepydoor.logg"
+    type: break
+  - id: lancer
+    title: "Lancer"
+    path: "lancer.logg"
+    type: warning
+  - id: rude_buster
+    title: "Rude Buster"
+    path: "battle.logg"
+    type: battle
+  - id: empty_town
+    title: "Empty Town"
+    path: "castletown_empty.logg"
+    type: betting
+  - id: field_of_hopes_and_dreams
+    title: "Field of Hopes and Dreams"
+    path: "field_of_hopes.logg"
+    ends: 2:40
+    type: betting
+  - id: lantern
+    title: "Lantern"
+    path: "shop1.logg"
+    type: betting
+  - id: checker_dance
+    title: "Checker Dance"
+    path: "checkers.logg"
+    type: battle
+  - id: quiet_autumn
+    title: "Quiet Autumn"
+    path: "quiet_autumn.logg"
+    type: break
+  - id: scarlet_forest
+    title: "Scarlet Forest"
+    path: "forest.logg"
+    type: betting
+  - id: thrash_machine
+    title: "Thrash Machine"
+    path: "thrashmachine.logg"
+    type: result
+  - id: vs_lancer
+    title: "Vs. Lancer"
+    path: "lancerfight.logg"
+    type: battle
+  - id: vs_susie
+    title: "Vs. Susie"
+    path: "vs_susie.logg"
+    type: battle
+  - id: card_castle
+    title: "Card Castle"
+    path: "card_castle.logg"
+    type: betting
+  - id: rouxls_kaard
+    title: "Rouxls Kaard"
+    path: "ruruskaado.logg"
+    type: warning
+  - id: hip_shop
+    title: "Hip Shop"
+    path: "hip_shop.logg"
+    type: break
+  - id: gallery_deltarune
+    title: "Gallery"
+    path: "GALLERY.logg"
+    type: warning
+  - id: chaos_king
+    title: "Chaos King"
+    path: "kingboss.logg"
+    type: battle
+  - id: the_world_revolving
+    title: "THE WORLD REVOLVING"
+    path: "joker.logg"
+    type: battle
+  - id: friendship
+    title: "Friendship"
+    path: "friendship.logg"
+    ends: 2:38
+    type: betting
+  - id: a_town_called_hometown
+    title: "A Town Called Hometown"
+    path: "town.logg"
+    type: betting
+  - id: you_can_always_come_home
+    title: "You Can Always Come Home"
+    path: "home.logg"
+    type: betting
+  - id: dog_check
+    title: "Dog Check"
+    path: "dogcheck.logg"
+    type: break
+  - id: april_2012
+    title: "April 2012"
+    path: "april_2012.logg"
+    type: warning
+  - id: the_legend
+    title: "The Legend"
+    path: "legend.ogg"
+    ends: 1:49
+    type: betting
+  - id: basement
+    title: "Basement"
+    path: "basement.logg"
+    type: warning
+  - id: the_chase_deltarune
+    title: "The Chase"
+    path: "creepychase.logg"
+    type: warning
+  - id: the_circus
+    title: "The Circus"
+    path: "prejoker.logg"
+    type: warning
+  - id: imminent_death
+    title: "Imminent Death"
+    path: "tense.logg"
+    type: warning
+  - id: beginning_deltarune
+    title: "Beginning"
+    path: "mus_introcar.ogg"
+    type: result
+  - id: school
+    title: "School"
+    path: "mus_school.logg"
+    type: betting
+  - id: before_the_story
+    title: "Before the Story"
+    path: "AUDIO_STORY.logg"
+    type: break
+...

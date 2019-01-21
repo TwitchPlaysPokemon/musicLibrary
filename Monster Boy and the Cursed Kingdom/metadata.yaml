@@ -1,0 +1,175 @@
+---
+id: monster_boy_and_the_cursed_kingdom
+title: "Monster Boy and the Cursed Kingdom"
+platform: ["Switch", "PS4", "XB1"]
+year: 2018
+songs: 
+  - id: monster_boy_main_menu
+    title: "Monster Boy Main Menu"
+    path: "MainTheme.lopus"
+    ends: 3:13
+    type: betting
+  - id: nabu_s_theme
+    title: "Nabu's Theme"
+    path: "NabuTheme.lopus"
+    type: warning
+  - id: welcome_to_monster_world
+    title: "Welcome to Monster World"
+    path: "1c-Beach-Calm.lopus"
+    type: betting
+  - id: skullrock_beach
+    title: "Skullrock Beach"
+    path: "1a-Beach.lopus"
+    type: betting
+  - id: underwater_monster_boy
+    title: "Underwater"
+    path: "1b-Underwater.lopus"
+    type: betting
+  - id: the_sewers
+    title: "The Sewers"
+    path: "2a-Sewers.lopus"
+    ends: 3:00
+    type: betting
+  - id: village_of_lupia
+    title: "Village of Lupia"
+    path: "2b-Village.lopus"
+    type: betting
+  - id: the_sanctuary
+    title: "The Sanctuary"
+    path: "Church.lopus"
+    type: break
+  - id: green_fields_monster_boy
+    title: "Green Fields"
+    path: "2c-Fields.lopus"
+    ends: 3:39
+    type: betting
+  - id: misty_woods
+    title: "Misty Woods"
+    path: "2d-Forest.lopus"
+    type: betting
+  - id: foximus_treehouse
+    title: "Foximus' Treehouse"
+    path: "FoxHome.lopus"
+    type: break
+  - id: crystal_caves_monster_boy
+    title: "Crystal Caves"
+    path: "3a-MazeCave.lopus"
+    ends: 3:10
+    type: betting
+  - id: the_lost_temples
+    title: "The Lost Temples"
+    path: "4a-AztecTemple.lopus"
+    type: betting
+  - id: temple_raider
+    title: "Temple Raider"
+    path: "DW-2b-Village.lopus"
+    ends: 2:46
+    type: betting
+  - id: pirate_ship
+    title: "Pirate Ship"
+    path: "4b-PirateShip.lopus"
+    ends: 2:45
+    type: betting
+  - id: sky_elevator
+    title: "Sky Elevator"
+    path: "Elevator.lopus"
+    type: break
+  - id: skies_of_aeria
+    title: "Skies of Aeria"
+    path: "5a-SkyClouds.lopus"
+    type: betting
+  - id: abandoned_mines
+    title: "Abandoned Mines"
+    path: "4c-Mines.lopus"
+    type: betting
+  - id: the_volcano
+    title: "The Volcano"
+    path: "5b-Volcano.lopus"
+    type: betting
+  - id: the_ancient_tribe
+    title: "The Ancient Tribe"
+    path: "5b-Volcano-Hub.lopus"
+    type: break
+  - id: volcanic_eruption
+    title: "Volcanic Eruption"
+    path: "5c-Shooter.lopus"
+    ends: 3:24
+    type: betting
+  - id: observatory
+    title: "Observatory"
+    path: "5f-Observatory.lopus"
+    type: break
+  - id: castle_entrance
+    title: "Castle Entrance"
+    path: "7-Castle.lopus"
+    type: betting
+  - id: castle_prison
+    title: "Castle Prison"
+    path: "5e-Prison.lopus"
+    ends: 3:05
+    type: betting
+  - id: the_falls
+    title: "The Falls"
+    path: "5d-Falls.lopus"
+    type: betting
+  - id: deadwood_graveyard
+    title: "Deadwood Graveyard"
+    path: "6a-Graveyard.lopus"
+    ends: 2:49
+    type: betting
+  - id: haunted_manor
+    title: "Haunted Manor"
+    path: "6b-HauntedHouse.lopus"
+    ends: 2:33
+    type: betting
+  - id: dancing_ghosts
+    title: "Dancing Ghosts"
+    path: "6c-HHLivingRoom.lopus"
+    type: betting
+  - id: pepelogoo
+    title: "Pepelogoo"
+    path: "6d-HHPepelogoo.lopus"
+    type: betting
+  - id: chaos_in_the_castle
+    title: "Chaos In The Castle"
+    path: "8-CastleIndoor.lopus"
+    ends: 2:37
+    type: betting
+  - id: castle_of_lupia
+    title: "Castle of Lupia"
+    path: "8c-CastleAfterNabu.lopus"
+    ends: 3:05
+    type: betting
+  - id: the_dark_realm
+    title: "The Dark Realm"
+    path: "9-LordXarosCastle.lopus"
+    type: betting
+  - id: break_free_16_bit
+    title: "Break Free (16-Bit)"
+    path: "9-LordXarosCastle-Statue.lopus"
+    type: betting
+  - id: challenge_room
+    title: "Challenge Room"
+    path: "ChallengeRoom.lopus"
+    type: warning
+  - id: temple_mayhem
+    title: "Temple Mayhem"
+    path: "ChallengeRoom2.lopus"
+    type: warning
+  - id: super_truffle_room
+    title: "Super Truffle Room"
+    path: "TruffleRoom.lopus"
+    type: break
+  - id: boss_monster_boy
+    title: "Boss"
+    path: "BossBattle.lopus"
+    type: battle
+  - id: big_venom
+    title: "Big Venom"
+    path: "BossSnake.lopus"
+    type: battle
+  - id: final_boss_monster_boy
+    title: "Final Boss"
+    path: "FinalBossBattle.lopus"
+    type: battle
+...

@@ -6,19 +6,59 @@ year: 1994
 songs: 
   - id: live_a_live
     title: "Live A Live"
-    path: "Live A Live.spc"
+    path: "01 Live-A-Live.spc"
     type: betting
-  - id: megalomania
-    title: "Megalomania"
-    path: "Megalomania.brstm"
-    type: warning
+  - id: sound_of_shinobi
+    title: "Sound of Shinobi"
+    path: "04 Sound of Shinobi.spc"
+    type: betting
+  - id: killing_field
+    title: "Killing Field!"
+    path: "05 Killing Field!.spc"
+    type: battle
+  - id: nice_weather_ain_t_it
+    title: "Nice Weather Ain't it!"
+    path: "11 Nice Weather Ain't it!.spc"
+    type: betting
+  - id: captain_square
+    title: "Captain Square"
+    path: "15 Captain Square.spc"
+    type: betting
   - id: war_in_china
     title: "War in China"
-    path: "War in China.spc"
+    path: "19 War in China.spc"
     type: warning
+  - id: go_go_buriki_daioh
+    title: "Go Go Buriki Daioh!"
+    path: "24a Go Go Buriki Daioh!.spc"
+    type: result
+  - id: wait_for_truth
+    title: "Wait for Truth"
+    path: "25 Wait for Truth.spc"
+    type: betting
+  - id: a_painful_death_at_the_hands_of_a_psycho
+    title: "A Painful Death at the Hands of a Psycho"
+    path: "26 A Painful Death at the Hands of a Psycho.spc"
+    type: battle
+  - id: prelude_to_the_demon_king
+    title: "Prelude to the Demon King"
+    path: "27 Prelude to the Demon King.spc"
+    type: betting
+  - id: wings_that_don_t_reach
+    title: "Wings That Don't Reach"
+    path: "28 Wings That Don't Reach.spc"
+    type: betting
+  - id: journey_to_the_mountain_of_the_demon_king
+    title: "Journey to the Mountain of the Demon King"
+    path: "30 Journey to the Mountain of the Demon King.spc"
+    type: betting
   - id: city_of_hopelessness
     title: "City of Hopelessness"
     path: "31 City of Hopelessness.spc"
+    type: betting
+  - id: silent_labyrinth
+    title: "Silent Labyrinth"
+    path: "32 Silent Labyrinth.spc"
     type: betting
   - id: cry_a_live
     title: "Cry-A-Live"
@@ -28,6 +68,10 @@ songs:
     title: "The Demon King Odio"
     path: "35 The Demon King Odio.spc"
     type: warning
+  - id: megalomania
+    title: "Megalomania"
+    path: "36 Megalomania.spc"
+    type: battle
   - id: illusion_live_a_live
     title: "Illusion..."
     path: "37 Illusion....spc"
@@ -36,4 +80,13 @@ songs:
     title: "Pure Odio"
     path: "38 Pure Odio.spc"
     type: battle
+  - id: armageddon
+    title: "Armageddon"
+    path: "39 Armageddon.spc"
+    ends: 2:55
+    type: betting
+  - id: live_over_again
+    title: "Live Over Again"
+    path: "40 Live Over Again.spc"
+    type: break
 ...

@@ -6,35 +6,59 @@ platform: "NES"
 year: 1988
 songs: 
   - id: title_mm2
-    title: "Title"
+    title: "TITLE"
     path: "02 Title.vgz"
     type: result
+  - id: pass_word_mm2
+    title: "PASS WORD"
+    path: "03 Pass Word.vgz"
+    type: result
   - id: stage_select_mm2
-    title: "Stage Select"
+    title: "STAGE SELECT"
     path: "04 Stage Select.vgz"
     type: warning
   - id: metal_man_stage_mm2
-    title: "Metal Man Stage"
+    title: "METAL MAN STAGE"
     path: "06 Metal Man Stage.vgz"
     type: betting
   - id: air_man_stage_mm2
-    title: "Air Man Stage"
+    title: "AIR MAN STAGE"
     path: "07 Air Man Stage.vgz"
     type: betting
+  - id: bubble_man_stage_mm2
+    title: "BUBBLE MAN STAGE"
+    path: "08 Bubble Man Stage.vgz"
+    type: betting
+  - id: quick_man_stage_mm2
+    title: "QUICK MAN STAGE"
+    path: "09 Quick Man Stage.vgz"
+    type: betting
+  - id: crash_man_stage_mm2
+    title: "CRASH MAN STAGE"
+    path: "10 Crash Man Stage.vgz"
+    type: betting
+  - id: flash_man_stage_mm2
+    title: "FLASH MAN STAGE"
+    path: "11 Flash Man Stage.vgz"
+    type: betting
+  - id: heat_man_stage_mm2
+    title: "HEAT MAN STAGE"
+    path: "12 Heat Man Stage.vgz"
+    type: betting
   - id: wood_man_stage_mm2
-    title: "Wood Man Stage"
+    title: "WOOD MAN STAGE"
     path: "13 Wood Man Stage.vgz"
     type: betting
   - id: dr_wily_stage_1_mm2
-    title: "Dr. Wily Stage 1"
+    title: "Dr.WILY STAGE 1"
     path: "18 Dr. Wily Stage 1.vgz"
     type: betting
   - id: dr_wily_stage_2_mm2
-    title: "Dr. Wily Stage 2"
+    title: "Dr.WILY STAGE 2"
     path: "19 Dr. Wily Stage 2.vgz"
     type: warning
   - id: boss_mm2
-    title: "Boss"
+    title: "BOSS"
     path: "21 Boss.vgz"
     type: warning
 ...

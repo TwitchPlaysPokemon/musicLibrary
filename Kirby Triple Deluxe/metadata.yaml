@@ -7,129 +7,124 @@ year: 2014
 songs: 
   - id: soul_of_sectonia
     title: "Sectonia Soul"
-    path: "Soul of Sectonia.brstm"
+    path: "BGM_LP_BIGSUIKOMI22.dspadpcm.bcstm"
     type: battle
-#      - id: arena
-#        title: "Arena Battle"
-#        path: "The Arena [from Kirby Super Star].brstm"
-#        type: battle 
-#Not tense and charged enough; possibly betting?
   - id: bouncing_boss_battle_kirby_triple_deluxe
     title: "Bouncing Boss Battle"
-    path: "Attack! (Boss Battle).brstm"
+    path: "BGM_LP_BOSS1.dspadpcm.bcstm"
     type: battle
   - id: dark_clouds_kirby_triple_deluxe
     title: "Dark Clouds"
-    path: "Danger (Approaching Boss).brstm"
+    path: "PLF_BOSSMAE1.dspadpcm.bcstm"
     type: warning
-#      - id: drum_dash_results
-#        title: "Drum Dash Results"
-#        path: "King Dedede Drum Dash - Results.brstm"
-#        type: result
-#      - id: sullied_grace
-#        title: "Sullied Grace"
-#        path: "Dirty & Beauty (Queen Sectonia 1).brstm"
-#        type: battle #Not tense and charged enough until the 1st minute; which is too much for PBR
+  - id: drum_dash_results
+    title: "Drum Dash Results"
+    path: "BGM_LP_PUZZLE2.dspadpcm.bcstm"
+    type: result
+  - id: sullied_grace
+    title: "Sullied Grace"
+    path: "PLF_QUEEN1.dspadpcm.bcstm"
+    type: warning
   - id: mountains_in_an_angry_sky
     title: "Mountains in an Angry Sky"
-    path: "Ever Explosion.brstm"
+    path: "PLF_DSTEP1.dspadpcm.bcstm"
     type: betting
   - id: floral_fields
     title: "Floral Fields"
-    path: "Fine Field 1 (Beanstalk Area).brstm"
+    path: "PLF_HEITI1.dspadpcm.bcstm"
     type: betting
   - id: king_dedede_theme_drum_dash_version_stage3
     title: "King Dedede's Theme (Drum Dash Version)"
-    path: "King Dedede Drum Dash - Stage 3.brstm"
+    path: "HUE_VSDDD.dspadpcm.bcstm"
     type: battle
   - id: main_menu_kirby_triple_deluxe
     title: "Main Menu"
-    path: "Main Menu [''Save Area'' from Kirby Super Star].brstm"
+    path: "BGM_LP_SELECT1.dspadpcm.bcstm"
     type: betting
   - id: dededes_royal_payback_masked_dedede_kirby_triple_deluxe
     title: "Dedede's Royal Payback"
-    path: "Masked Dedede.brstm"
+    path: "PLF_DEDE_MASK1.dspadpcm.bcstm"
     type: battle
-  - id: moonstruck_blossom
-    title: "Moonstruck Blossom"
-    path: "F-L-O-W-E-R (Queen Sectonia 2).brstm"
+  - id: fatal_blooms_in_moonlight_moonstruck_blossom
+    title: "Fatal Blooms in Moonlight / Moonstruck Blossom"
+    path: "BGM_LP_QUEEN2.dspadpcm.bcstm"
     type: battle
-  - id: fine_fields_prairie
-    title: "Fine Fields Prairie"
-    path: "Fine Field 3 (Prairie Area).brstm"
+  - id: strange_boulder_from_the_background
+    title: "Strange Boulder from the Background"
+    path: "BGM_LP_PARUFE1.dspadpcm.bcstm"
     type: betting
   - id: beautiful_prison
     title: "Beautiful Prison"
-    path: "Prison of Beauty.brstm"
+    path: "PLF_STRANGE1.dspadpcm.bcstm"
     type: betting
   - id: revenge_of_the_enemy
     title: "Revenge of the Enemy"
-    path: "Revenge of the Enemy.brstm"
+    path: "BGM_LP_KAZAN1.dspadpcm.bcstm"
     type: battle
   - id: ripple_red
     title: "Ripple Red"
-    path: "Ripple Red[from Crystal Shards].brstm"
+    path: "PLF_K64JAZZ01.dspadpcm.bcstm"
     type: betting
   - id: silver_snow_story
     title: "Silver Snow Story"
-    path: "Old Odyssey 2 (Sky Area) [''Peanut Plain'' from Kirby Super Star].brstm"
+    path: "BGM_LP_SNOW1.dspadpcm.bcstm"
     tags: [xmas]
     type: betting
   - id: the_world_to_win
     title: "The World to Win"
-    path: "Sectonia vs. Hypernova.brstm"
+    path: "BGM_LP_BIGSUIKOMI2.dspadpcm.bcstm"
     type: battle
-  - id: toy_area
-    title: "Toy Area"
-    path: "Lollipop Land 3 (Toy Area).brstm"
+  - id: spring_smash_factory
+    title: "Spring Smash Factory"
+    path: "BGM_LP_OMOTYA1.dspadpcm.bcstm"
     type: betting
   - id: true_arena_battle_kirby_triple_deluxe
     title: "True Arena Battle"
-    path: "True Arena Battle.brstm"
+    path: "PLF_TOUGI1SIN.dspadpcm.bcstm"
     type: battle
   - id: green_greens_kirby_triple_deluxe
     title: "Green Greens"
-    path: "World Map [''Green Greens'' from Kirby's Dream Land].brstm"
+    path: "BGM_LP_GREENS1.dspadpcm.bcstm"
     type: betting
   - id: the_arena_kirby_triple_deluxe
     title: "The Arena"
-    path: "The Arena [from Kirby Super Star].brstm"
+    path: "PLF_TOUGIMAIN1.dspadpcm.bcstm"
     type: warning
   - id: four_way_fight_in_coos_forest
     title: "Four-Way Fight in Coo´s Forest"
-    path: "Kirby Fighters - Big Forest [from Kirby's Dream Land 2].brstm"
+    path: "BGM_LP_SIMOBE1.dspadpcm.bcstm"
     type: betting
   - id: arena_showdown
     title: "Arena Showdown"
-    path: "Colosseum Battle (The Arena) [from Kirby Super Star].brstm"
+    path: "PLF_TOUGI1.dspadpcm.bcstm"
     type: warning
   - id: shadow_strike
     title: "Shadow Strike"
-    path: "Dark Meta Knight.brstm"
+    path: "PLF_DARKMETA1.dspadpcm.bcstm"
     type: warning
-  - id: taranza_master_of_puppetry
-    title: "Taranza, Master of Puppetry"
-    path: "Taranza, Master of Puppetry!.brstm"
+  - id: taranza_the_master_of_puppetry
+    title: "Taranza, the Master of Puppetry"
+    path: "BGM_NOLP_MOVIE61.dspadpcm.bcstm"
     type: warning
-  - id: walking_to_a_flowery_coup_opening
-    title: "Walking to a Flowery Coup"
-    path: "Opening.brstm"
+  - id: waking_to_a_flowery_coup_opening
+    title: "Waking to a Flowery Coup!"
+    path: "BGM_NOLP_MOVIEOPENING2.dspadpcm.bcstm"
     ends: 2:27
     type: betting
   - id: flowered
     title: "FLOWERED"
-    path: "FLOWERED.brstm"
+    path: "BGM_NOLP_MOVIE72.dspadpcm.bcstm"
     type: result
   - id: hypernova_all_stars
     title: "Hypernova All-Stars"
-    path: "Hypernova All-Stars.brstm"
+    path: "BGM_LP_BIGSUIKOMI3.dspadpcm.bcstm"
     type: betting
   - id: royal_road
     title: "Royal Road"
-    path: "Royal Road.brstm"
+    path: "PLF_ELEC1.dspadpcm.bcstm"
     type: betting
   - id: dededeluxe
-    title: "Dededeluxe"
+    title: "Dededeluxe!"
     ends: 3:06
     path: "Dededeluxe.brstm"
     type: betting
@@ -140,15 +135,15 @@ songs:
     type: betting
   - id: golden_legend
     title: "Golden Legend"
-    path: "Golden Legend.brstm"
+    path: "PLF_EXO1.dspadpcm.bcstm"
     type: betting
   - id: last_minute_hero
     title: "Last-Minute Hero"
-    path: "Last-Minute Hero.brstm"
+    path: "BGM_NOLP_MOVIE73.dspadpcm.bcstm"
     type: warning
   - id: midnight_moonlight_forever_sleeping_flower
     title: "Midnight Moonlight (Forever-Sleeping Flower)"
-    ends: 3:25
     path: "Midnight Moonlight (Forever-Sleeping Flower).brstm"
+    ends: 3:25
     type: betting
 ...

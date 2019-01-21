@@ -1,0 +1,39 @@
+---
+id: x_scape
+title: "X-Scape"
+platform: "DSi"
+year: 2010
+songs: 
+  - id: title_screen_x_scape
+    title: "Title Screen"
+    path: "NTR-KDXE-USA-0000.brstm"
+    type: warning
+  - id: training_planet
+    title: "Training: Planet"
+    path: "NTR-KDXE-USA-0003.brstm"
+    type: result
+  - id: tunnel_theme
+    title: "Tunnel Theme"
+    path: "NTR-KDXE-USA-003d.brstm"
+    type: betting
+  - id: training_tunnel
+    title: "Training: Tunnel"
+    path: "NTR-KDXE-USA-003f.brstm"
+    type: break
+  - id: k_r_a_b_fight
+    title: "K.R.A.B. Fight"
+    path: "NTR-KDXE-USA-0012.brstm"
+    type: betting
+  - id: tif_train_defense
+    title: "Tif Train Defense"
+    path: "NTR-KDXE-USA-0017.brstm"
+    type: betting
+  - id: xenomantix
+    title: "Xenomantix"
+    path: "NTR-KDXE-USA-0028.brstm"
+    type: warning
+  - id: ending_x_scape
+    title: "Ending"
+    path: "NTR-KDXE-USA-0046.brstm"
+    type: result
+...

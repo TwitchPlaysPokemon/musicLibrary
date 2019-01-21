@@ -17,4 +17,32 @@ songs:
     title: "Beautiful Land"
     path: "Beautiful Land.brstm"
     type: break
+  - id: nordic_town_theme
+    title: "Nordic Town Theme"
+    path: "Nordic Town Theme.brstm"
+    type: betting
+  - id: rhodok_castle_theme
+    title: "Rhodok Castle Theme"
+    path: "Rhodok Castle Theme.brstm"
+    type: betting
+  - id: snowy_travels
+    title: "Snowy Travels"
+    path: "Snowy Travels.brstm"
+    type: betting
+  - id: swadian_castle_theme
+    title: "Swadian Castle Theme"
+    path: "Swadian Castle Theme.brstm"
+    type: betting
+  - id: town_theme
+    title: "Town Theme"
+    path: "Town Theme.brstm"
+    type: break
+  - id: uncertain_homestead
+    title: "Uncertain Homestead"
+    path: "Uncertain Homestead.brstm"
+    type: betting
+  - id: vaegir_castle_theme
+    title: "Vaegir Castle Theme"
+    path: "Vaegir Castle Theme.brstm"
+    type: break
 ...

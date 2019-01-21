@@ -5,6 +5,11 @@ series: xeno
 platform: ["Wii", "3DS"]
 year: 2010
 songs: 
+  - id: engage_the_enemy
+    title: "Engage the Enemy"
+    path: "109 ACE+ - Confrontation with the Enemy.adx"
+    ends: 3:44
+    type: betting
   - id: zanza_the_divine
     title: "Zanza the Divine"
     path: "214 Manami Kiyota - Xanthe.adx"

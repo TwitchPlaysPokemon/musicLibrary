@@ -204,11 +204,11 @@ songs:
   - id: chopscrewey_sashimori
     title: "Chopscrewey [SashiMori]"
     path: "STRM_Versus15.bfstm"
-    type: betting
+    type: battle
   - id: entropical_sashimori
     title: "Entropical [SashiMori]"
     path: "STRM_Versus16.bfstm"
-    type: betting
+    type: battle
   - id: frantic_aspic_omega_3
     title: "Frantic Aspic [ω-3]"
     path: "STRM_CoopHeavy_Minigame.bfstm"
@@ -216,9 +216,9 @@ songs:
   - id: seasick_diss_pair
     title: "Seasick [Diss-Pair]"
     path: "STRM_Versus13.bfstm"
-    type: betting
+    type: battle
   - id: kinetosis_diss_pair
     title: "Kinetosis [Diss-Pair]"
     path: "STRM_Versus14.bfstm"
-    type: betting
+    type: battle
 ...

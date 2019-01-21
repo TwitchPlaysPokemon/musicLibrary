@@ -37,18 +37,42 @@ songs:
     title: "Princess Shroob Battle"
     path: "Princess Shroob Battle.mini2sf"
     type: warning
-  - id: file_select_mlpit
+  - id: file_select_mario_and_luigi_partners_in_time
     title: "File Select"
     path: "File Select.mini2sf"
     type: break
-  - id: boss_fight_mlpit
+  - id: boss_fight_mario_and_luigi_partners_in_time
     title: "Boss Fight"
     path: "Boss Fight.mini2sf"
     type: battle
-  - id: final_battle_mario_luigi_partners
-    title: "Final Battle"
-    path: "34 Final Battle [MUS_SEQ_LASTBOSS2].mini2sf"
+  - id: peach_s_castle_mario_and_luigi_partners_in_time
+    title: "Peach's Castle"
+    path: "04 Peach's Castle [MUS_SEQ_KINOCASTLE].mini2sf"
+    type: betting
+  - id: battle_mario_and_luigi_partners_in_time
+    title: "Battle"
+    path: "06 Battle [MUS_SEQ_ZAKO].mini2sf"
     type: warning
+  - id: victory_mario_and_luigi_partners_in_time
+    title: "Victory!"
+    path: "07 Victory! [MUS_SEQ_BTLEND].mini2sf"
+    type: result
+  - id: shroob_attack
+    title: "Shroob Attack"
+    path: "08 Shroob Attack [MUS_SEQ_FUANKAGE].mini2sf"
+    type: warning
+  - id: professor_e_gadd_mario_and_luigi_partners_in_time
+    title: "Professor E. Gadd"
+    path: "11 Professor E. Gadd [MUS_SEQ_OYAMA].mini2sf"
+    type: betting
+  - id: prince_bowser
+    title: "Prince Bowser"
+    path: "14 Prince Bowser [MUS_SEQ_BABYKUPA].mini2sf"
+    type: warning
+  - id: bowser_s_castle_mario_and_luigi_partners_in_time
+    title: "Bowser's Castle"
+    path: "15 Bowser's Castle [MUS_SEQ_KUPACASTLE].mini2sf"
+    type: betting
   - id: toadwood_forest
     title: "Toadwood Forest"
     path: "16 Toadwood Forest [MUS_SEQ_KINOPL].mini2sf"
@@ -56,6 +80,34 @@ songs:
   - id: vim_factory
     title: "Vim Factory"
     path: "17 Vim Factory [MUS_SEQ_FACTORY].mini2sf"
+    type: betting
+  - id: the_yoshi_village
+    title: "The Yoshi Village"
+    path: "18 The Yoshi Village [MUS_SEQ_YOSVILLAGE].mini2sf"
+    type: betting
+  - id: yoshi_mountain
+    title: "Yoshi Mountain"
+    path: "19 Yoshi Mountain [MUS_SEQ_YOSTER].mini2sf"
+    type: betting
+  - id: yoob_s_belly
+    title: "Yoob's Belly"
+    path: "20 Yoob's Belly [MUS_SEQ_GESSY].mini2sf"
+    type: betting
+  - id: dark_dungeons
+    title: "Dark Dungeons"
+    path: "21 Dark Dungeons [MUS_SEQ_DOME_UNDER].mini2sf"
+    type: betting
+  - id: koopaseum
+    title: "Koopaseum"
+    path: "23 Koopaseum [MUS_SEQ_DOME].mini2sf"
+    type: betting
+  - id: king_bowser_mario_and_luigi_partners_in_time
+    title: "King Bowser"
+    path: "24 King Bowser [MUS_SEQ_KUPPA].mini2sf"
+    type: warning
+  - id: thwomp_caverns
+    title: "Thwomp Caverns"
+    path: "26 Thwomp Caverns [MUS_SEQ_DOSUN_IN].mini2sf"
     type: betting
   - id: bowser_battle_mario_and_luigi_partners_in_time
     title: "Bowser Battle"
@@ -65,8 +117,32 @@ songs:
     title: "Toad Town"
     path: "28 Toad Town [MUS_SEQ_KINOTOWN].mini2sf"
     type: betting
+  - id: star_hill
+    title: "Star Hill"
+    path: "29 Star Hill [MUS_SEQ_STARHILL].mini2sf"
+    type: betting
+  - id: star_shrine
+    title: "Star Shrine"
+    path: "30 Star Shrine [MUS_SEQ_STARCASTLE].mini2sf"
+    type: break
   - id: shroob_castle
     title: "Shroob Castle"
     path: "31 Shroob Castle [MUS_SEQ_INVASION_C].mini2sf"
     type: betting
+  - id: destroy
+    title: "DESTROY!!"
+    path: "33 DESTROY!! [MUS_SEQ_BOS_TOUJOU].mini2sf"
+    type: warning
+  - id: final_battle_mario_and_luigi_partners_in_time
+    title: "Final Battle"
+    path: "34 Final Battle [MUS_SEQ_LASTBOSS2].mini2sf"
+    type: warning
+  - id: bye_bye_babies
+    title: "Bye-Bye, Babies!"
+    path: "35 Bye-Bye, Babies! [MUS_SEQ_ENDING].mini2sf"
+    type: result
+  - id: the_end_japan_and_pal_only
+    title: "The End (Japan and PAL Only)"
+    path: "37 The End (Japan and PAL Only) [MUS_SEQ_ENDORGOR].mini2sf"
+    type: break
 ...

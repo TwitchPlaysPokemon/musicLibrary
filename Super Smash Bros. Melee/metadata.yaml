@@ -5,11 +5,16 @@ series: smash
 platform: "GCN"
 year: 2002
 songs: 
+  - id: opening_melee
+    title: "Opening"
+    path: "w43_sbdx_opening.lopus"
+    ends: 1:31
+    type: betting
   - id: brinstar_melee
     title: "Brinstar"
     path: "zebes.hps"
     type: betting
-  - id: dr_mario_ssbm
+  - id: dr_mario_melee
     title: "Dr. Mario"
     path: "docmari.hps"
     type: betting
@@ -154,7 +159,7 @@ songs:
     title: "All-Star"
     path: "1p_qk.hps"
     type: break
-  - id: trophy_ssbm
+  - id: trophy_melee
     title: "Trophy"
     path: "menu02.hps"
     type: break

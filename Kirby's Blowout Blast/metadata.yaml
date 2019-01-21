@@ -5,10 +5,6 @@ series: kirby
 platform: "3DS"
 year: 2017
 songs: 
-  - id: green_greens_kirbys_blowout_blast
-    title: "Green Greens"
-    path: "Green Greens.brstm"
-    type: betting
   - id: float_islands_kirbys_blowout_blast
     title: "Float Islands"
     path: "TRT_LP_TTSAMBA22.dspadpcm.bcstm"
@@ -21,16 +17,16 @@ songs:
     title: "Bubbly Clouds"
     path: "GB_Bubbly.dspadpcm.bcstm"
     type: betting
-  - id: mt_dedede_kirbys_blowout_blast
-    title: "Mt. Dedede"
+  - id: entrance_kirbys_blowout_blast
+    title: "Entrance"
     path: "GB_QKJyo.dspadpcm.bcstm"
     type: warning
   - id: boss_theme_kirbys_blowout_blast
     title: "Boss Theme"
     path: "GB_Boss.dspadpcm.bcstm"
     type: warning
-  - id: title_theme_kirbys_blowout_blast
-    title: "Title Theme"
+  - id: a_new_3d_adventure
+    title: "A New 3D Adventure"
     path: "FC_Title.dspadpcm.bcstm"
     type: result
   - id: giant_masked_dedede
@@ -41,32 +37,32 @@ songs:
     title: "Ending"
     path: "GB_StaffRoll.dspadpcm.bcstm"
     type: result
-  - id: king_dedede_amiibo_king_dededes_theme
-    title: "King Dedede Amiibo (King Dedede's Theme)"
+  - id: king_dedede_s_theme_amiibo_special_ver
+    title: "King Dedede's Theme / amiibo Special ver."
     path: "dddnddd.dspadpcm.bcstm"
     type: result
   - id: king_dededes_theme_kirbys_blowout_blast
     title: "King Dedede's Theme"
     path: "GBDDD_Long.dspadpcm.bcstm"
     type: battle
-  - id: kirby_amiibo_the_adventure_begins
-    title: "Kirby Amiibo (The Adventure Begins)"
+  - id: the_adventure_begins_amiibo_special_ver
+    title: "The Adventure Begins / amiibo Special ver."
     path: "amiiboKirbyWii.dspadpcm.bcstm"
     type: betting
-  - id: meta_knight_amiibo_meta_knights_revenge
-    title: "Meta Knight Amiibo (Meta Knight's Revenge)"
+  - id: meta_knights_revenge_amiibo_special_ver
+    title: "Meta Knight's Revenge / amiibo Special ver."
     path: "amiiboMeta.dspadpcm.bcstm"
     type: betting
   - id: mid_boss_kirbys_blowout_blast
     title: "Mid-Boss"
     path: "FC_Tamago.dspadpcm.bcstm"
     type: warning
-  - id: secret_path
-    title: "Secret Path"
+  - id: tommorrow_is_tommorows_great_battle
+    title: "Tommorow is Tommorow's Great Battle"
     path: "EndLastBoss.dspadpcm.bcstm"
     type: betting
-  - id: waddle_dee_amiibo_floral_fields
-    title: "Waddle Dee Amiibo (Floral Fields)"
+  - id: floral_fields_amiibo_special_ver
+    title: "Floral Fields / amiibo Special ver."
     path: "amiiboWado.dspadpcm.bcstm"
     type: betting
 ...
