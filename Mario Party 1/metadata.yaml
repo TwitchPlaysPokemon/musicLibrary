@@ -114,16 +114,16 @@ songs:
 #    title: "Bowsers Chance Game"
 #    path: "35 - Bowsers Chance Game.miniusf"
 #    type: warning
-  - id: bowsers_theme_mp1
-    title: "Bowser's Theme"
-    path: "40 - Bowser's Theme.miniusf"
-    type: warning
+#  - id: bowsers_theme_mp1
+#    title: "Bowser's Theme"
+#    path: "40 - Bowser's Theme.miniusf"
+#    type: warning
 #  - id: the_stolen_star
 #    title: "The Stolen Star"
 #    path: "69 - The Stolen Star.miniusf"
 #    type: warning
-#  - id: everyones_a_super_star
-#    title: "Everyone's a Super Star"
-#    path: "Everyone's a Super Star.brstm"
-#    type: result
+  - id: everyones_a_super_star
+    title: "Everyone's a Super Star"
+    path: "Everyone's a Super Star.brstm"
+    type: result
 ...
