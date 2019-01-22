@@ -37,12 +37,12 @@ songs:
     title: "Nature's Navel"
     path: "ECL_LP_ECFIRESTEP2.dspadpcm.bfstm"
     type: betting
-  - id: sacred_square
+  - id: sacred_square_ksa
     title: "Sacred Square"
     path: "ECL_LP_ECYUUHI1.dspadpcm.bfstm"
     type: betting
   - id: to_the_land_where_grass_doesn_t_grow
-    title: "To the Land Where Grass Doesn't Grow
+    title: "To the Land Where Grass Doesn't Grow"
     path: "BossMid.dspadpcm.bfstm"
     type: betting
   - id: jambastion_adventure
@@ -191,7 +191,7 @@ songs:
     title: "Second Movement: The Embryo's Vessel"
     path: "Last2rg1201.dspadpcm.bfstm"
     type: betting
-  - id: friends_getaway
+  - id: friends_getaway_ksa
     title: "Friends' Getaway"
     path: "BGM_LP_ECDLIZUMI1.dspadpcm.bfstm"
     type: betting
@@ -240,7 +240,7 @@ songs:
     title: "Hallway to the Origin"
     path: "WiiBossMae.dspadpcm.bfstm"
     type: warning
-  - id: final_movement: Sparkling Star
+  - id: final_movement_sparkling_star
     title: "Final Movement: Sparkling Star"
     path: "LastBoss2nd.dspadpcm.bfstm"
     type: battle

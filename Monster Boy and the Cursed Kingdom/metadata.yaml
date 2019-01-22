@@ -1,7 +1,7 @@
 ---
 id: monster_boy_and_the_cursed_kingdom
 title: "Monster Boy and the Cursed Kingdom"
-platform: ["Switch", "PS4", "XB1"]
+platform: ["Switch", "PS4", "XBone"]
 year: 2018
 songs: 
   - id: monster_boy_main_menu
@@ -25,7 +25,7 @@ songs:
     title: "Underwater"
     path: "1b-Underwater.lopus"
     type: betting
-  - id: the_sewers
+  - id: the_sewers_monster_boy
     title: "The Sewers"
     path: "2a-Sewers.lopus"
     ends: 3:00
@@ -34,7 +34,7 @@ songs:
     title: "Village of Lupia"
     path: "2b-Village.lopus"
     type: betting
-  - id: the_sanctuary
+  - id: the_sanctuary_monster_boy
     title: "The Sanctuary"
     path: "Church.lopus"
     type: break
@@ -43,7 +43,7 @@ songs:
     path: "2c-Fields.lopus"
     ends: 3:39
     type: betting
-  - id: misty_woods
+  - id: misty_woods_monster_boy
     title: "Misty Woods"
     path: "2d-Forest.lopus"
     type: betting
@@ -56,21 +56,21 @@ songs:
     path: "3a-MazeCave.lopus"
     ends: 3:10
     type: betting
-  - id: the_lost_temples
+  - id: the_lost_temples_monster_boy
     title: "The Lost Temples"
     path: "4a-AztecTemple.lopus"
     type: betting
-  - id: temple_raider
+  - id: temple_raider_monster_boy
     title: "Temple Raider"
     path: "DW-2b-Village.lopus"
     ends: 2:46
     type: betting
-  - id: pirate_ship
+  - id: pirate_ship_monster_boy
     title: "Pirate Ship"
     path: "4b-PirateShip.lopus"
     ends: 2:45
     type: betting
-  - id: sky_elevator
+  - id: sky_elevator_monster_boy
     title: "Sky Elevator"
     path: "Elevator.lopus"
     type: break
@@ -78,37 +78,37 @@ songs:
     title: "Skies of Aeria"
     path: "5a-SkyClouds.lopus"
     type: betting
-  - id: abandoned_mines
+  - id: abandoned_mines_monster_boy
     title: "Abandoned Mines"
     path: "4c-Mines.lopus"
     type: betting
-  - id: the_volcano
+  - id: the_volcano_monster_boy
     title: "The Volcano"
     path: "5b-Volcano.lopus"
     type: betting
-  - id: the_ancient_tribe
+  - id: the_ancient_tribe_monster_boy
     title: "The Ancient Tribe"
     path: "5b-Volcano-Hub.lopus"
     type: break
-  - id: volcanic_eruption
+  - id: volcanic_eruption_monster_boy
     title: "Volcanic Eruption"
     path: "5c-Shooter.lopus"
     ends: 3:24
     type: betting
-  - id: observatory
+  - id: observatory_monster_boy
     title: "Observatory"
     path: "5f-Observatory.lopus"
     type: break
-  - id: castle_entrance
+  - id: castle_entrance_monster_boy
     title: "Castle Entrance"
     path: "7-Castle.lopus"
     type: betting
-  - id: castle_prison
+  - id: castle_prison_monster_boy
     title: "Castle Prison"
     path: "5e-Prison.lopus"
     ends: 3:05
     type: betting
-  - id: the_falls
+  - id: the_falls_monster_boy
     title: "The Falls"
     path: "5d-Falls.lopus"
     type: betting
@@ -117,12 +117,12 @@ songs:
     path: "6a-Graveyard.lopus"
     ends: 2:49
     type: betting
-  - id: haunted_manor
+  - id: haunted_manor_monster_boy
     title: "Haunted Manor"
     path: "6b-HauntedHouse.lopus"
     ends: 2:33
     type: betting
-  - id: dancing_ghosts
+  - id: dancing_ghosts_monster_boy
     title: "Dancing Ghosts"
     path: "6c-HHLivingRoom.lopus"
     type: betting
@@ -140,7 +140,7 @@ songs:
     path: "8c-CastleAfterNabu.lopus"
     ends: 3:05
     type: betting
-  - id: the_dark_realm
+  - id: the_dark_realm_monster_boy
     title: "The Dark Realm"
     path: "9-LordXarosCastle.lopus"
     type: betting
@@ -148,7 +148,7 @@ songs:
     title: "Break Free (16-Bit)"
     path: "9-LordXarosCastle-Statue.lopus"
     type: betting
-  - id: challenge_room
+  - id: challenge_room_monster_boy
     title: "Challenge Room"
     path: "ChallengeRoom.lopus"
     type: warning
