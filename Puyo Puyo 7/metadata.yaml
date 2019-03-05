@@ -1,0 +1,23 @@
+---
+id: puyo_puyo_7
+title: "Puyo Puyo 7"
+platform: ["NDS", "Wii", "PSP"]
+year: 2009
+songs: 
+  - id: ruins_stage_from_puyopuyo_n
+    title: "Ruins stage from Puyopuyo-n (対戦BGM6)"
+    path: "11 Ruins stage from Puyopuyo-n (対戦BGM6).brstm"
+    type: betting
+  - id: insanity_of_dark_arle
+    title: "Insanity of Dark Arle (ダークアルル戦BGM)"
+    path: "13 Insanity of Dark Arle (ダークアルル戦BGM).brstm"
+    type: betting
+  - id: last_boss_battle_bgm
+    title: "宇宙の命運をかけて (Last Boss Battle BGM)"
+    path: "35 宇宙の命運をかけて (ラスボス対戦BGM).brstm"
+    type: battle
+  - id: last_boss_final_battle_bgm
+    title: "レッツ!最終ぷよ勝負! (Last Boss Final Battle BGM)"
+    path: "36 レッツ!最終ぷよ勝負! (ラスボス最終戦BGM).brstm"
+    type: battle
+...

@@ -1,0 +1,31 @@
+---
+id: puyo_puyo_fever_2
+title: "Puyo Puyo Fever 2"
+platform: ["PS2", "PSP", "NDS"]
+year: 2005
+songs: 
+  - id: continue_continue
+    title: "Continue?/Continue"
+    path: "CONTINUE.brstm"
+    type: warning
+  - id: meeting_place_park_bgm
+    title: "Meeting Place/Park BGM"
+    path: "PARK.brstm"
+    type: betting
+  - id: rising_comet_last_boss_lemres_bgm
+    title: "Rising Comet!/Last Boss Lemres BGM"
+    path: "TAISEN4.brstm"
+    type: betting
+  - id: surge_of_crimson_shouts_last_boss_strange_klug_bgm
+    title: "Surge of Crimson Shouts!/Last Boss Strange Klug BGM"
+    path: "TAISEN5.brstm"
+    type: battle
+  - id: request_from_puyo_puyo
+    title: "REQUEST from PUYO PUYO"
+    path: "BGM51.adx"
+    type: betting
+  - id: last_from_puyopuyo2
+    title: "LAST from PUYOPUYO2"
+    path: "BGM52.adx"
+    type: warning
+...

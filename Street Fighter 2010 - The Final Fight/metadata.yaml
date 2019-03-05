@@ -4,12 +4,12 @@ title: "Street Fighter 2010"
 platform: "NES"
 year: 1990
 songs: 
-  - id: cutscene_theme
-    title: "Cutscene Theme"
+  - id: the_pursuer
+    title: "The Pursuer"
     path: "Cutscene Theme.brstm"
     type: warning
-  - id: planet_theme_1
-    title: "Planet Theme 1"
+  - id: alleyway_street_fighter_2010
+    title: "Alleyway"
     path: "Planet Theme 1.brstm"
-    type: warning
+    type: battle
 ...

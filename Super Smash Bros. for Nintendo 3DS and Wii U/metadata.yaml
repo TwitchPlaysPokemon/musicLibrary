@@ -362,4 +362,8 @@ songs:
     title: "Pedal Glider"
     path: "snd_bgm_R40_PWR_HangGlider.nus3bank"
     type: break
+  - id: streetsmash
+    title: "StreetSmash"
+    path: "crs22_surechigaidairantou.lopus"
+    type: warning
 ...

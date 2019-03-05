@@ -1,0 +1,15 @@
+---
+id: puyo_puyo_chronicle
+title: "Puyo Puyo Chronicle"
+platform: "3DS"
+year: 2016
+songs: 
+  - id: fun_puyo_puyo_hell
+    title: "Fun Puyo Puyo Hell!"
+    path: "BGM_dungeon3_fire.hca"
+    type: betting
+  - id: the_untrained_demon_king_ultimate_legend_instrumental
+    title: "The Untrained Demon King Ultimate Legend (Instrumental)"
+    path: "BGM_ALL_DLCBGM_V40_heppoko2_00000000.hca"
+    type: battle
+...

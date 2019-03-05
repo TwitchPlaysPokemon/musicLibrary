@@ -1,0 +1,27 @@
+---
+id: donkey_konga
+title: "Donkey Konga"
+platform: "GCN"
+year: 2003
+songs: 
+  - id: donkey_konga_theme
+    title: "Donkey Konga"
+    path: "dktheme.dsp"
+    ends: 2:13
+    type: betting
+  - id: super_mario_theme
+    title: "Super Mario Theme"
+    path: "mario.dsp"
+    ends: 1:40
+    type: betting
+  - id: hungarian_dance
+    title: "Hungarian Dance"
+    path: "hungary.dsp"
+    ends: 2:09
+    type: betting
+  - id: turkish_march
+    title: "Turkish March"
+    path: "turkey.dsp"
+    ends: 2:03
+    type: betting
+...

@@ -1,0 +1,31 @@
+---
+id: tetris_99
+title: "TETRIS 99"
+platform: "Switch"
+year: 2019
+songs: 
+  - id: menu_matchmaking
+    title: "Menu / Matchmaking"
+    path: "bgm_menu.dspadpcm.bfstm"
+    type: betting
+  - id: game_theme_tetris_99
+    title: "Game Theme"
+    path: "bgm_game_def_1.dspadpcm.bfstm"
+    type: betting
+  - id: game_theme_50_players_remaining
+    title: "Game Theme (50 Players Remaining)"
+    path: "bgm_game_def_2.dspadpcm.bfstm"
+    type: betting
+  - id: game_theme_10_players_remaining
+    title: "Game Theme (10 Players Remaining)"
+    path: "bgm_game_def_3.dspadpcm.bfstm"
+    type: battle
+  - id: final_places_1st_place
+    title: "Final Places (1st Place)"
+    path: "bgm_result_A.dspadpcm.bfstm"
+    type: result
+  - id: final_places_loser
+    title: "Final Places (Loser)"
+    path: "bgm_result_B.dspadpcm.bfstm"
+    type: result
+...

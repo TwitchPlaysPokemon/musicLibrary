@@ -1,27 +1,84 @@
 ---
 id: puyo_puyo_20th
-platform: "Wii"
 title: "Puyo Puyo!! 20th Anniversary"
+platform: "Various"
 year: 2011
 songs: 
-  - id: puyo_puyo_theme_pp20th
-    path: "bgm_24 (Puyo Puyo theme).brstm"
-    title: "Puyo Puyo theme"
+  - id: it_s_been_a_long_time_since_we_passed_through_space_time_arle_s_theme
+    title: "It's Been a Long Time Since We Passed Through Space Time! (Arle's Theme)"
+    path: "BGM_ALL_streamfiles_0000000F.adx"
     type: betting
-  - id: fever_mode_pp20th
-    path: "bgm_21 (PP20 Fever Mode).brstm"
-    title: "Fever Mode"
+  - id: great_transformation_mode_competition_system
+    title: "Great Transformation Mode! (Competition System)"
+    path: "BGM_ALL_streamfiles_00000030.adx"
     type: result
-  - id: bgm22_pp20th
-    path: "bgm_22.brstm"
-    title: "BGM 22"
+  - id: final_pair_death_match_last_battle
+    title: "Final Pair DeathMatch!! (Last Battle)"
+    path: "BGM_ALL_streamfiles_00000031.adx"
     type: battle
-  - id: bgm51_pp20th
-    path: "bgm_51.brstm"
-    title: "BGM 51"
+  - id: puyo_puyo_song_game_version_ringo_s_theme
+    title: "Puyo Puyo Song Game Version (Ringo's Theme)"
+    path: "BGM_ALL_streamfiles_00000011.adx"
+    type: betting
+  - id: rapid_carefree_advice_sig_s_theme
+    title: "Rapid Carefree Advice (Sig's Theme)"
+    path: "BGM_ALL_streamfiles_00000012.adx"
+    type: betting
+  - id: suspicious_dance_shoes_suketoudara_s_theme
+    title: "Suspicious Dance Shoes (Suketoudara's Theme)"
+    path: "BGM_ALL_streamfiles_00000018.adx"
+    type: betting
+  - id: darkness_of_puyopuyo2_witch_s_theme
+    title: "Darkness of puyopuyo2 (Witch's Theme)"
+    path: "BGM_ALL_streamfiles_00000019.adx"
+    type: betting
+  - id: let_s_play_with_a_rival_draco_centauros_theme
+    title: "Let's play with a rival ! (Draco Centauros' Theme)"
+    path: "BGM_ALL_streamfiles_0000001A.adx"
+    type: betting
+  - id: nebula_step_klug_s_theme
+    title: "Nebula step (Klug's Theme)"
+    path: "BGM_ALL_streamfiles_0000001C.adx"
+    type: betting
+  - id: play_throughly_the_puyopuyo_thoroughly_puyo_puyo
+    title: "Play throughly the Puyopuyo (Thoroughly Puyo Puyo)"
+    path: "BGM_ALL_streamfiles_00000028.adx"
+    type: betting
+  - id: charming_glance_maguro_s_theme
+    title: "Charming Glance (Maguro's Theme)"
+    path: "BGM_ALL_streamfiles_00000024.adx"
+    type: break
+  - id: this_experiment_life_risukuma_s_theme
+    title: "This Experiment, Life (Risukuma's Theme)"
+    path: "BGM_ALL_streamfiles_00000025.adx"
+    type: betting
+  - id: puyo_boss_comic_dialog_demo_from_puyopuyo_boss_comic_dialog_demo_bgm
+    title: "Puyo!! ~Boss Comic Dialog (Demo from Puyopuyo)~ (Boss Comic Dialog Demo BGM)"
+    path: "BGM_ALL_streamfiles_00000005.adx"
+    type: betting
+  - id: the_gorgeous_man_who_defile_the_god_schezo_s_theme
+    title: "The gorgeous man who defile the God (Schezo's Theme)"
+    path: "BGM_ALL_streamfiles_00000014.adx"
     type: battle
-  - id: bgm54_pp20th
-    path: "bgm_54 (PPF taisen 4).brstm"
-    title: "BGM 54 (PPF taisen 4)"
+  - id: the_loving_strongest_fighting_queen_rulue_s_theme
+    title: "The Loving Strongest Fighting Queen (Rulue's Theme)"
+    path: "BGM_ALL_streamfiles_00000015.adx"
+    type: betting
+  - id: fly_over_the_dimension_ecolo_s_theme
+    title: "Fly over the dimension (Ecolo's Theme)"
+    path: "BGM_ALL_streamfiles_00000026.adx"
     type: battle
+  - id: creator_of_the_puyopuyo_hell_satan_s_theme
+    title: "Creator of the Puyopuyo hell (Satan's Theme)"
+    path: "BGM_ALL_streamfiles_00000016.adx"
+    type: battle
+  - id: pinch_pinch_pair_competition_pinch
+    title: "Pinch!Pinch!! (Pair Competition Pinch)"
+    path: "BGM_ALL_streamfiles_00000032.adx"
+    type: warning
+  - id: puyo_puyo_no_uta_piko_piko_mix
+    title: "Puyo Puyo no Uta Piko Piko Mix"
+    path: "ED_SONG_streamfiles_00000000.adx"
+    ends: 2:26
+    type: betting
 ...

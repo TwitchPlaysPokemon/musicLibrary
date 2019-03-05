@@ -1,9 +1,44 @@
+---
 id: dariusburst
-title: "Dariusburst"
-year: 2009
+title: "DARIUSBURST"
 platform: "PSP"
+year: 2009
 songs:
+  - id: good_bye_my_earth
+    title: "Good-bye my earth"
+    path: "stage1.hca"
+    ends: 1:44
+    type: betting
+  - id: hinder_one
+    title: "Hinder One"
+    path: "boss1.hca"
+    type: battle
+  - id: hinder_two
+    title: "Hinder Two"
+    path: "boss2.hca"
+    type: battle
+  - id: hinder_three
+    title: "Hinder Three"
+    path: "boss3.hca"
+    type: battle
+  - id: abyssal_holic
+    title: "Abyssal Holic"
+    path: "stage4.hca"
+    type: betting
+  - id: hinder_four
+    title: "Hinder Four"
+    path: "boss4.hca"
+    type: battle
+  - id: syvalion_arrange_mmix
+    title: "Syvalion arrange MMIX"
+    path: "boss5b.hca"
+    type: battle
   - id: hello_31337
     title: "Hello 31337"
-    path: "Hello 31337.brstm"
+    path: "boss5.hca"
     type: battle
+  - id: pay_blue_s_respects
+    title: "Pay blue's respects"
+    path: "28 Pay blue's respects.brstm"
+    type: break
+...

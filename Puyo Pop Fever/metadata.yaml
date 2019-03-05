@@ -1,20 +1,52 @@
 ---
 id: puyo_pop_fever
 title: "Puyo Pop Fever"
-platform: ["GC", "Various"]
+platform: "Various"
 #other platforms: ["DC", "PS2", "Xbox", "PC", "GBA", "NDS", "PSP"]
 year: 2004
 songs:
-  - id: arle_stage_ppf
-    title: "Arle Stage"
-    path: "Arle Stage.brstm"
-    type: result
-  - id: fun_puyo_puyo_hell_ppf
-    title: "Fun Puyo Puyo Hell!"
+  - id: it_s_the_menu_menu_bgm
+    title: "It's The Menu/Menu BGM"
+    path: "01.adx"
+    type: break
+  - id: it_s_the_teacher_s_lesson_rule_tutorial_bgm
+    title: "It's The Teacher's Lesson/Rule Tutorial BGM"
+    path: "02.adx"
+    type: betting
+  - id: once_upon_a_time_in_some_other_world_opening_bgm
+    title: "Once Upon A Time…In Some Other World…/Opening BGM"
+    path: "03.adx"
+    type: betting
+  - id: puyofe_comic_dialogue_calm_comic_dialogue_bgm1
+    title: "PuyoFe Comic Dialogue~Calm~/Comic Dialogue BGM1"
+    path: "04.adx"
+    type: break
+  - id: i_am_the_demon_king_meow_last_boss_bgm
+    title: "I Am The Demon King, Meow/Last Boss BGM"
+    path: "06.adx"
+    type: warning
+  - id: puyopuyo_match_here_i_go!_battle_bgm1
+    title: "PuyoPuyo Match, Here I Go!/Battle BGM1"
+    path: "10.adx"
+    type: betting
+  - id: fun_puyo_puyo_hell_battle_bgm2
+    title: "Fun Puyo Puyo Hell!/Battle BGM2"
     path: "11.adx"
     type: battle
-  - id: fever_mode_ppf
-    title: "Fever Mode"
+  - id: the_untrained_demon_king_ultimate_legend_last_boss_battle_bgm
+    title: "The Untrained Demon King Ultimate Legend /Last Boss Battle BGM"
+    path: "12.adx"
+    type: battle
+  - id: everyone_fight_puyopuyo_until_morning_battle_bgm3
+    title: "Everyone Fight! PuyoPuyo Until Morning Battle/BGM3"
+    path: "13.adx"
+    type: result
+  - id: rushing_in_to_fever_mode_fever_mode_bgm
+    title: "Rushing in to Fever Mode!/Fever Mode BGM"
     path: "15.adx"
     type: result
+  - id: carefree_puyo_tokoton_puyo_puyo_bgm
+    title: "Carefree Puyo/Tokoton Puyo Puyo BGM"
+    path: "17.adx"
+    type: break
 ...

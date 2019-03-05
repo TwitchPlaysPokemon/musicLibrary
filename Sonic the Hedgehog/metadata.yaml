@@ -2,10 +2,10 @@
 id: sonic_the_hedgehog
 title: "Sonic the Hedgehog"
 series: sonic
+platform: "SMD"
 year: 1991
-platform: "Genesis"
 songs:
-  - id: green_hill_zone_1991
+  - id: green_hill_zone_sonic_the_hedgehog
     title: "Green Hill Zone"
     path: "02 - Green Hill Zone.vgz"
     type: betting
@@ -29,14 +29,10 @@ songs:
     title: "Scrap Brain Zone"
     path: "07 - Scrap Brain Zone.vgz"
     type: betting
-  - id: special_stage_1991
+  - id: special_stage_sonic_the_hedgehog
     title: "Special Stage"
     path: "08 - Special Stage.vgz"
     type: break
-  - id: staff_roll_1991
-    title: "Staff Roll"
-    path: "13 - Staff Roll.vgz"
-    type: result
   - id: robotnik
     title: "Robotnik"
     path: "09 - Robotnik.vgz"
@@ -45,4 +41,8 @@ songs:
     title: "Final Zone"
     path: "10 - Final Zone.vgz"
     type: warning
+  - id: staff_roll_sonic_the_hedgehog
+    title: "Staff Roll"
+    path: "13 - Staff Roll.vgz"
+    type: result
 ...

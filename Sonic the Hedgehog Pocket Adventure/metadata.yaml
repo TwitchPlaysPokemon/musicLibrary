@@ -1,0 +1,83 @@
+---
+id: sonic_the_hedgehog_pocket_adventure
+title: "Sonic the Hedgehog Pocket Adventure"
+platform: "Neo Geo Pocket Color"
+year: 1999
+songs: 
+  - id: neo_south_island_zone_act_1
+    title: "Neo South Island Zone, Act 1"
+    path: "03 Neo South Island Zone Act 1.vgz"
+    type: betting
+  - id: neo_south_island_zone_act_2
+    title: "Neo South Island Zone, Act 2"
+    path: "05 Neo South Island Zone Act 2.vgz"
+    type: betting
+  - id: boss_theme_sonic_the_hedgehog_pocket_adventure
+    title: "Boss Theme"
+    path: "06 Boss Theme.vgz"
+    type: warning
+  - id: secret_plant_zone_act_1
+    title: "Secret Plant Zone, Act 1"
+    path: "07 Secret Plant Zone Act 1.vgz"
+    type: betting
+  - id: secret_plant_zone_act_2
+    title: "Secret Plant Zone, Act 2"
+    path: "09 Secret Plant Zone Act 2.vgz"
+    type: betting
+  - id: cosmic_casino_zone_act_1
+    title: "Cosmic Casino Zone, Act 1"
+    path: "10b Cosmic Casino Zone Act 1 (Full Loop).vgz"
+    type: result
+  - id: special_stage_sonic_the_hedgehog_pocket_adventure
+    title: "Special Stage"
+    path: "11 Special Stage.vgz"
+    type: betting
+  - id: cosmic_casino_zone_act_2
+    title: "Cosmic Casino Zone, Act 2"
+    path: "13 Cosmic Casino Zone Act 2.vgz"
+    type: betting
+  - id: aquatic_relix_zone_act_1
+    title: "Aquatic Relix Zone, Act 1"
+    path: "14 Aquatic Relix Zone Act 1.vgz"
+    type: betting
+  - id: aquatic_relix_zone_act_2
+    title: "Aquatic Relix Zone, Act 2"
+    path: "16 Aquatic Relix Zone Act 2.vgz"
+    type: betting
+  - id: knuckles_boss
+    title: "Knuckles Boss"
+    path: "17 Knuckles Boss.vgz"
+    type: betting
+  - id: sky_chase_zone
+    title: "Sky Chase Zone"
+    path: "20 Sky Chase Zone.vgz"
+    type: betting
+  - id: aerobase_zone
+    title: "Aerobase Zone"
+    path: "21 Aerobase Zone.vgz"
+    type: betting
+  - id: mecha_sonic_boss
+    title: "Mecha Sonic Boss"
+    path: "22 Metal Sonic Boss.vgz"
+    type: warning
+  - id: gigantic_angel_zone_act_1
+    title: "Gigantic Angel Zone, Act 1"
+    path: "23 Gigantic Angel Zone Act 1.vgz"
+    type: betting
+  - id: gigantic_angel_zone_act_2
+    title: "Gigantic Angel Zone, Act 2"
+    path: "24 Gigantic Angel Zone Act 2.vgz"
+    type: betting
+  - id: gigantic_angel_zone_boss
+    title: "Gigantic Angel Zone Boss"
+    path: "25 Gigantic Angel Zone Boss.vgz"
+    type: warning
+  - id: last_utopia_zone
+    title: "Last Utopia Zone"
+    path: "26 Last Utopia Zone.vgz"
+    type: battle
+  - id: chaotic_space_zone
+    title: "Chaotic Space Zone"
+    path: "29 Chaotic Space Zone.vgz"
+    type: betting
+...

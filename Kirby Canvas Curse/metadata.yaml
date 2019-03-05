@@ -5,8 +5,56 @@ series: kirby
 platform: "DS"
 year: 2005
 songs:
-  - id: growth_grass
-    title: "Growth Grass"
+  - id: growth_grasses
+    title: "Growth Grasses"
     path: "08 Growth Grasses.mini2sf"
+    type: betting
+  - id: mag_mount
+    title: "Mag Mount"
+    path: "09 Mag Mount.mini2sf"
+    type: betting
+  - id: rift_ruin
+    title: "Rift Ruin"
+    path: "10 Rift Ruin.mini2sf"
+    type: betting
+  - id: silver_submarine
+    title: "Silver Submarine"
+    path: "12 Silver Submarine.mini2sf"
+    type: betting
+  - id: palette_polis
+    title: "Palette Polis"
+    path: "15 Palette Polis.mini2sf"
+    type: betting
+  - id: canvas_canyon
+    title: "Canvas Canyon"
+    path: "18 Canvas Canyon.mini2sf"
+    type: betting
+  - id: volatile_volcano
+    title: "Volatile Volcano"
+    path: "20 Volatile Volcano.mini2sf"
+    type: betting
+  - id: mad_mechanism
+    title: "Mad Mechanism"
+    path: "23 Mad Mechanism.mini2sf"
+    type: betting
+  - id: spectacle_space
+    title: "Spectacle Space"
+    path: "24 Spectacle Space.mini2sf"
+    type: warning
+  - id: room_guarder
+    title: "Room Guarder"
+    path: "26 Room Guarder.mini2sf"
+    type: warning
+  - id: paint_panic
+    title: "Paint Panic"
+    path: "36 Paint Panic.mini2sf"
+    type: betting
+  - id: cart_run
+    title: "Cart Run"
+    path: "37 Cart Run.mini2sf"
+    type: battle
+  - id: drawcia_soul
+    title: "Drawcia Soul"
+    path: "43 Drawcia Soul.mini2sf"
     type: warning
 ...

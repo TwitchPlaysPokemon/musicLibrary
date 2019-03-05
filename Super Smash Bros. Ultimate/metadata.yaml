@@ -7,10 +7,12 @@ songs:
   - id: lifelight_jp
     title: "Lifelight (JP)"
     path: "crs2_00a_maintheme_jp.lopus"
+    ends: 3:25
     type: betting
   - id: lifelight
     title: "Lifelight"
     path: "crs2_00b_maintheme_en.lopus"
+    ends: 3:25
     type: betting
   - id: menu_ssbu
     title: "Menu"

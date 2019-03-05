@@ -1,0 +1,23 @@
+---
+id: downwell
+title: "Downwell"
+platform: "Various"
+year: 2015
+songs: 
+  - id: mochi_yasan
+    title: "Mochi yasan"
+    path: "game_00001.brstm"
+    type: break
+  - id: uroboros
+    title: "Uroboros"
+    path: "game_00003.brstm"
+    type: betting
+  - id: razor_girl
+    title: "Razor girl"
+    path: "game_00005.brstm"
+    type: break
+  - id: broken_ghost
+    title: "Broken ghost"
+    path: "game_00006.brstm"
+    type: betting
+...

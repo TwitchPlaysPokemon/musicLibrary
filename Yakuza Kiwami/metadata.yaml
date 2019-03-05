@@ -1,0 +1,35 @@
+---
+id: yakuza_kiwami
+title: "Yakuza Kiwami"
+platform: ["PS3", "PS4", "PC"]
+year: 2016
+songs: 
+  - id: breath_of_the_dragon_roar_of_the_dragon
+    title: "Breath of the Dragon ~ Roar of the Dragon"
+    path: "01 - 極龍の嘶き + 02 - 極龍の胎動.brstm"
+    type: break
+  - id: funk_goes_on
+    title: "Funk Goes On 極"
+    path: "05 - Funk Goes On 極.brstm"
+    type: battle
+  - id: flirt_with_bomb
+    title: "Flirt With Bomb"
+    path: "06 - Flirt With Bomb.brstm"
+    type: battle
+  - id: get_over_it
+    title: "Get Over It"
+    path: "09 - Get Over It.brstm"
+    type: betting
+  - id: pray_me_revive
+    title: "Pray Me -Revive-"
+    path: "12 - Pray Me -Revive-.brstm"
+    type: 
+  - id: receive_you_the_madtype
+    title: "Receive You the madtype"
+    path: "13 - Receive You the madtype.brstm"
+    type: battle
+  - id: for_who_s_sake
+    title: "誰がために・改 (For Who's Sake)"
+    path: "17 - 誰がために・改.brstm"
+    type: betting
+...

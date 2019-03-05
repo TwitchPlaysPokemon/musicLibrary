@@ -169,4 +169,36 @@ songs:
     title: "Mad Mew Mew"
     path: "mus_mewmew.logg"
     type: battle
+  - id: your_best_friend
+    title: "Your Best Friend"
+    path: "mus_flowey.logg"
+    type: warning
+  - id: gaster_s_theme
+    title: "Gaster's Theme"
+    path: "mus_st_him.logg"
+    type: warning
+  - id: star_unused
+    title: "Star (Unused)"
+    path: "mus_star.logg"
+    type: break
+  - id: temmie_village
+    title: "Temmie Village"
+    path: "mus_temvillage.logg"
+    type: betting
+  - id: snowy
+    title: "Snowy"
+    path: "mus_snowy.logg"
+    type: betting
+  - id: it_s_raining_somewhere_else
+    title: "It's Raining Somewhere Else"
+    path: "mus_sansdate.logg"
+    type: break
+  - id: pathetic_house
+    title: "Pathetic House"
+    path: "mus_napstahouse.logg"
+    type: warning
+  - id: finale
+    title: "Finale"
+    path: "mus_f_finale.logg"
+    type: battle
 ...

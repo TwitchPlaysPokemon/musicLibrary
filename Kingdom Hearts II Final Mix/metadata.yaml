@@ -1,12 +1,17 @@
 ---
 id: kingdom_hearts_ii_final_mix
-platform: "PS2"
-title: "Kingdom Hearts II Final Mix"
+title: "Kingdom Hearts II -Final Mix-"
 series: kingdomhearts
+platform: "PS2"
 year: 2007
 songs:
   - id: cavern_of_remembrance_khii_finalmix
-    path: "Cavern of Remembrance.brstm"
     title: "Cavern of Remembrance"
+    path: "Cavern of Remembrance.brstm"
+    type: betting
+  - id: fate_of_the_unknown
+    title: "Fate of the Unknown"
+    path: "Fate of the Unknown.brstm"
+    ends: 3:27
     type: betting
 ...

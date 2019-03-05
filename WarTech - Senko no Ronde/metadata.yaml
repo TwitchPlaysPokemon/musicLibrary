@@ -4,8 +4,8 @@ title: "WarTech: Senko no Ronde"
 platform: ["Arcade", "360"]
 year: 2005
 songs: 
-  - id: assemble
-    title: "assemble"
+  - id: assemble_mika_phase_1
+    title: "assemble (Mika phase 1)"
     path: "mika.adx"
     ends: 3:30
     type: betting
@@ -13,8 +13,8 @@ songs:
     title: "Imitation Blue"
     path: "sakurako_ex1.adx"
     type: betting
-  - id: grey_lips
-    title: "Grey Lips"
+  - id: grey_lips_sakurako_phase_2
+    title: "Grey Lips (Sakurako phase 2)"
     path: "ura_saku.adx"
     ends: 3:00
     type: betting

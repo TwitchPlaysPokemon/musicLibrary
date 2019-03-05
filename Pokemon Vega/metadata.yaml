@@ -1,10 +1,10 @@
 ﻿---
 id: pokemon_vega
 title: "Pokémon Vega"
-year: 2012
 series: pokemon
 is_fanwork: true
 platform: "GBA"
+year: 2012
 songs:
   - id: route_503
     title: "Route 503"
@@ -106,8 +106,8 @@ songs:
     title: "Double Board"
     path: "Double Board.minigsf"
     type: result
-  - id: battle_rowitsa_gatanoa
-    title: "Battle! Rowitsa/Gatanoa"
+  - id: battle_roytsar_gatanoia
+    title: "Battle! Roytsar/Gatanoia"
     path: "Battle! Rowitsa.minigsf"
     type: result
   - id: ending_credits_vega
@@ -146,8 +146,8 @@ songs:
     title: "Junopsis City"
     path: "Junopsis City.minigsf"
     type: break
-  - id: russette_city
-    title: "Russette City"
+  - id: seafin_city
+    title: "Seafin City"
     path: "Russette City.minigsf"
     type: break
   - id: spirit_mansion_vega

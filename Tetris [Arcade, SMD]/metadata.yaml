@@ -1,0 +1,15 @@
+---
+id: tetris_arcade_smd
+title: "Tetris [Arcade/SMD]"
+platform: "Various"
+year: 1988
+songs: 
+  - id: game_theme_tetris_arcade_smd
+    title: "Game Theme"
+    path: "BGM_DL00_TETRIS_MAIN.dspadpcm.bfstm"
+    type: betting
+  - id: deadlock
+    title: "Deadlock"
+    path: "BGM_DL01_TETRIS_PINCH.dspadpcm.bfstm"
+    type: warning
+...

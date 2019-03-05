@@ -1,9 +1,10 @@
+---
 id: sonic_robo_blast_2
 title: "Sonic Robo Blast 2"
 series: sonic
-year: 1998
 is_fanwork: true
 platform: "PC"
+year: 1998
 songs:
   - id: egg_rock_zone_1
     title: "Egg Rock Zone, Act 1"
@@ -21,3 +22,245 @@ songs:
     title: "Techno Hill Zone, Act 2"
     path: "Sonic Robo Blast 2 (F) - Techno Hill Zone, Act 2.brstm"
     type: betting
+  - id: aerial_garden_zone_acts_1_2
+    title: "Aerial Garden Zone Acts 1-2"
+    path: "Aerial Garden Zone Acts 1-2.logg"
+    type: betting
+  - id: aerial_garden_zone_acts_3_4
+    title: "Aerial Garden Zone Acts 3-4"
+    path: "Aerial Garden Zone Acts 3-4.logg"
+    type: betting
+  - id: alt_arid_canyon_zone_act_1_unused
+    title: "Alt. Arid Canyon Zone Act 1 (Unused)"
+    path: "Alt. Arid Canyon Zone Act 1 (Unused).logg"
+    type: betting
+  - id: alt_boss_Battle_unused
+    title: "Alt. Boss Battle (Unused)"
+    path: "Alt. Boss Battle (Unused).logg"
+    type: warning
+  - id: alt_deep_sea_zone_act_2_unused
+    title: "Alt. Deep Sea Zone Act 2 (Unused)"
+    path: "Alt. Deep Sea Zone Act 2 (Unused).logg"
+    type: betting
+  - id: alt_egg_rock_zone_act_1_unused
+    title: "Alt. Egg Rock Zone Act 1 (Unused)"
+    path: "Alt. Egg Rock Zone Act 1 (Unused).logg"
+    type: betting
+  - id: alt_greenflower_zone_1_unused
+    title: "Alt. Greenflower Zone 1 (Unused)"
+    path: "Alt. Greenflower Zone 1 (Unused).logg"
+    type: result
+  - id: alt_red_volcano_zone_act_1_unused
+    title: "Alt. Red Volcano Zone Act 1 (Unused)"
+    path: "Alt. Red Volcano Zone Act 1 (Unused).logg"
+    type: warning
+  - id: alt_special_stage_old_unused
+    title: "Alt. Special Stage (Old, Unused)"
+    path: "Alt. Special Stage (Old, Unused).logg"
+    type: warning
+  - id: alt_2_arid_canyon_zone_act_1_unused
+    title: "Alt.2 Arid Canyon Zone Act 1 (Unused)"
+    path: "Alt.2 Arid Canyon Zone Act 1 (Unused).logg"
+    type: betting
+  - id: arid_canyon_zone_act_1
+    title: "Arid Canyon Zone Act 1"
+    path: "Arid Canyon Zone Act 1.logg"
+    type: betting
+  - id: arid_canyon_zone_act_2_unused
+    title: "Arid Canyon Zone Act 2 (Unused)"
+    path: "Arid Canyon Zone Act 2 (Unused).logg"
+    type: betting
+  - id: azure_temple_zone
+    title: "Azure Temple Zone"
+    path: "Azure Temple Zone.logg"
+    type: betting
+  - id: blue_mountain_zone_act_2_unused
+    title: "Blue Mountain Zone Act 2 (Unused)"
+    path: "Blue Mountain Zone Act 2 (Unused).logg"
+    type: betting
+  - id: boss_battle_sonic_robo_blast_2
+    title: "Boss Battle"
+    path: "Boss Battle.logg"
+    type: warning
+  - id: castle_eggman_zone_act_1
+    title: "Castle Eggman Zone Act 1"
+    path: "Castle Eggman Zone Act 1.logg"
+    type: betting
+  - id: castle_eggman_zone_act_2
+    title: "Castle Eggman Zone Act 2"
+    path: "Castle Eggman Zone Act 2.logg"
+    type: betting
+  - id: character_select_sbr2
+    title: "Character Select"
+    path: "Character Select.logg"
+    type: warning
+  - id: credits_2_0_x
+    title: "Credits (2.0.x)"
+    path: "Credits (2.0.x).ogg"
+    ends: 1:52
+    type: betting
+  - id: dark_city_zone_act_1_unused
+    title: "Dark City Zone Act 1 (Unused)"
+    path: "Dark City Zone Act 1 (Unused).logg"
+    type: betting
+  - id: deep_sea_zone_act_1
+    title: "Deep Sea Zone Act 1"
+    path: "Deep Sea Zone Act 1.logg"
+    type: betting
+  - id: deep_sea_zone_act_2
+    title: "Deep Sea Zone Act 2"
+    path: "Deep Sea Zone Act 2.logg"
+    type: betting
+  - id: desolate_twilight_zone
+    title: "Desolate Twilight Zone"
+    path: "Desolate Twilight Zone.logg"
+    type: betting
+  - id: dusty_wasteland_zone
+    title: "Dusty Wasteland Zone"
+    path: "Dusty Wasteland Zone.logg"
+    type: betting
+  - id: egg_rock_core_zone
+    title: "Egg Rock Core Zone"
+    path: "Egg Rock Core Zone.logg"
+    type: betting
+  - id: egg_rock_zone_act_1
+    title: "Egg Rock Zone Act 1"
+    path: "Egg Rock Zone Act 1.logg"
+    type: betting
+  - id: egg_rock_zone_act_2
+    title: "Egg Rock Zone Act 2"
+    path: "Egg Rock Zone Act 2.logg"
+    type: betting
+  - id: egg_rock_zone_act_3
+    title: "Egg Rock Zone Act 3"
+    path: "Egg Rock Zone Act 3.logg"
+    type: warning
+  - id: flame_rift_zone
+    title: "Flame Rift Zone"
+    path: "Flame Rift Zone.logg"
+    type: betting
+  - id: grand_eggship_zone_act_1_unused
+    title: "Grand Eggship Zone Act 1 (Unused)"
+    path: "Grand Eggship Zone Act 1 (Unused).logg"
+    type: betting
+  - id: granite_lake_zone
+    title: "Granite Lake Zone"
+    path: "Granite Lake Zone.logg"
+    type: betting
+  - id: greenflower_zone_act_1
+    title: "Greenflower Zone Act 1"
+    path: "Greenflower Zone Act 1.logg"
+    type: betting
+  - id: greenflower_zone_act_2
+    title: "Greenflower Zone Act 2"
+    path: "Greenflower Zone Act 2.logg"
+    type: betting
+  - id: jade_coast_zone
+    title: "Jade Coast Zone"
+    path: "Jade Coast Zone.logg"
+    type: betting
+  - id: jade_valley_zone
+    title: "Jade Valley Zone"
+    path: "Jade Valley Zone.logg"
+    type: betting
+  - id: knothole_base_zone
+    title: "Knothole Base Zone"
+    path: "Knothole Base Zone.logg"
+    type: result
+  - id: mario_koopa_blast_zone_3_unused
+    title: "Mario Koopa Blast Zone 3 (Unused)"
+    path: "Mario Koopa Blast Zone 3 (Unused).logg"
+    type: warning
+  - id: meadow_match_zone
+    title: "Meadow Match Zone"
+    path: "Meadow Match Zone.logg"
+    type: betting
+  - id: metal_sonic_battle
+    title: "Metal Sonic Battle"
+    path: "Metal Sonic Battle.logg"
+    type: battle
+  - id: midnight_freeze_zone
+    title: "Midnight Freeze Zone"
+    path: "Midnight Freeze Zone.logg"
+    type: betting
+  - id: mine_maze_zone_act_1_unused
+    title: "Mine Maze Zone Act 1 (Unused)"
+    path: "Mine Maze Zone Act 1 (Unused).logg"
+    type: betting
+  - id: multiplayer_intermission
+    title: "Multiplayer Intermission"
+    path: "Multiplayer Intermission.logg"
+    type: result
+  - id: mystic_realm_boss
+    title: "Mystic Realm Boss"
+    path: "Mystic Realm Boss.logg"
+    type: battle
+  - id: mystic_realm_zone_mr_final_boss
+    title: "Mystic Realm Zone (MR Final Boss)"
+    path: "Mystic Realm Zone (MR Final Boss).logg"
+    type: betting
+  - id: nimbus_ruins_zone
+    title: "Nimbus Ruins Zone"
+    path: "Nimbus Ruins Zone.logg"
+    type: betting
+  - id: orbital_hangar_zone
+    title: "Orbital Hangar Zone"
+    path: "Orbital Hangar Zone.logg"
+    type: warning
+  - id: pipe_towers_zone_underground
+    title: "Pipe Towers Zone (Underground)"
+    path: "Pipe Towers Zone (Underground).logg"
+    type: warning
+  - id: pipe_towers_zone
+    title: "Pipe Towers Zone"
+    path: "Pipe Towers Zone.logg"
+    type: betting
+  - id: prismatic_angel_zone
+    title: "Prismatic Angel Zone"
+    path: "Prismatic Angel Zone.logg"
+    type: betting
+  - id: red_volcano_zone_act_1
+    title: "Red Volcano Zone Act 1"
+    path: "Red Volcano Zone Act 1.logg"
+    type: warning
+  - id: sapphire_falls_zone
+    title: "Sapphire Falls Zone"
+    path: "Sapphire Falls Zone.logg"
+    type: betting
+  - id: silver_cascade_zone
+    title: "Silver Cascade Zone"
+    path: "Silver Cascade Zone.logg"
+    type: betting
+  - id: special_stage_old_unused
+    title: "Special Stage (Old, Unused)"
+    path: "Special Stage (Old, Unused).logg"
+    type: betting
+  - id: spring_hill_zone
+    title: "Spring Hill Zone"
+    path: "Spring Hill Zone.logg"
+    type: betting
+  - id: sunken_plant_zone
+    title: "Sunken Plant Zone"
+    path: "Sunken Plant Zone.logg"
+    type: betting
+  - id: techno_hill_zone_act_1
+    title: "Techno Hill Zone Act 1"
+    path: "Techno Hill Zone Act 1.logg"
+    type: betting
+  - id: techno_hill_zone_act_2
+    title: "Techno Hill Zone Act 2"
+    path: "Techno Hill Zone Act 2.logg"
+    type: betting
+  - id: tempest_valley_zone
+    title: "Tempest Valley Zone"
+    path: "Tempest Valley Zone.logg"
+    type: betting
+  - id: verdant_forest_zone
+    title: "Verdant Forest Zone"
+    path: "Verdant Forest Zone.logg"
+    type: betting
+  - id: zero_ring_zone_unused
+    title: "Zero Ring Zone (Unused)"
+    path: "Zero Ring Zone (Unused).logg"
+    type: warning
+...

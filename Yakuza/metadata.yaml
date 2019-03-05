@@ -1,0 +1,32 @@
+---
+id: yakuza
+title: "Yakuza"
+platform: ["PS2", "PS3", "Wii U"]
+year: 2005
+songs: 
+  - id: receive_you
+    title: "Receive You"
+    path: "soundtrack01.adx"
+    ends: 2:11
+    type: betting
+  - id: unrest
+    title: "Unrest"
+    path: "mlt_unrest.adx"
+    type: betting
+  - id: funk_goes_on
+    title: "Funk Goes On"
+    path: "btl_zako.adx"
+    type: battle
+  - id: intelligence_for_violence
+    title: "Intelligence For Violence"
+    path: "btl_nishiki.adx"
+    type: battle
+  - id: receive_you_the_prototype
+    title: "Receive You The Prototype"
+    path: "btl_majima.adx"
+    type: betting
+  - id: theme_of_don_quijote_miracle_shopping
+    title: "Theme of Don Quijote \"Miracle Shopping\""
+    path: "donki_japan.adx"
+    type: betting
+...

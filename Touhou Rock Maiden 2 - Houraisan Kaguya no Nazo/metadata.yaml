@@ -1,0 +1,63 @@
+﻿---
+id: touhou_rock_maiden_2
+title: "Touhou Rock Maiden 2: Houraisan Kaguya no Nazo!?"
+platform: "PC"
+year: 2014
+songs:
+  - id: intro_stage_rm2
+    title: "Intro Stage"
+    path: "Intro Stage.brstm"
+    type: betting
+  - id: yuyuko_stage
+    title: "Yuyuko Stage"
+    path: "Yuyuko Stage.brstm"
+    type: betting
+  - id: komachi_stage
+    title: "Komachi Stage"
+    path: "Komachi Stage.brstm"
+    type: betting
+  - id: parsee_stage
+    title: "Parsee Stage"
+    path: "Parsee Stage.brstm"
+    type: betting
+  - id: flandre_stage
+    title: "Flandre Stage"
+    path: "Flandre Stage.brstm"
+    type: betting
+  - id: reisen_stage
+    title: "Reisen Stage"
+    path: "Reisen Stage.brstm"
+    type: betting
+  - id: eientei_fortress_1
+    title: "Eientei Fortress 1"
+    path: "Eientei Fortress 1.brstm"
+    type: betting
+  - id: suika_stage
+    title: "Suika Stage"
+    path: "Suika Stage.brstm"
+    type: result
+  - id: credits_rm2
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+  - id: boss_battle_rm2
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: yukkuri_kaguya
+    title: "Yukkuri Kaguya"
+    path: "Yukkuri Kaguya.brstm"
+    type: battle
+  - id: stage_select_rm2
+    title: "Stage Select"
+    path: "Stage Select.brstm"
+    type: warning
+  - id: iku_stage
+    title: "Iku Stage"
+    path: "Iku Stage.brstm"
+    type: break
+  - id: suwako_stage
+    title: "Suwako Stage"
+    path: "Suwako Stage.brstm"
+    type: break
+...

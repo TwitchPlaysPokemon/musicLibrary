@@ -1,0 +1,35 @@
+---
+id: jojo_s_bizarre_adventure_arcade
+title: "JoJo's Bizarre Adventure [Arcade]"
+platform: "Various"
+year: 1998
+songs: 
+  - id: jotaro_kujo_s_theme
+    title: "Jotaro Kujo's Theme"
+    path: "Theme of Jotaro Kujo.brstm"
+    type: battle
+  - id: noriaki_kakyoin_s_theme
+    title: "Noriaki Kakyoin's Theme"
+    path: "Theme of Noriaki Kakyoin.brstm"
+    type: betting
+  - id: theme_of_j_p_polnareff
+    title: "Theme of J.P. Polnareff"
+    path: "Theme of J.P. Polnareff.brstm"
+    type: battle
+  - id: joseph_joestar_s_theme
+    title: "Joseph Joestar's Theme"
+    path: "Theme of Joseph Joestar.brstm"
+    type: betting
+  - id: vanilla_ice_s_theme
+    title: "Vanilla Ice's Theme"
+    path: "Theme of Vanilla Ice.brstm"
+    type: warning
+  - id: dio_s_theme_1
+    title: "DIO's Theme 1"
+    path: "Theme of Shadow DIO.brstm"
+    type: warning
+  - id: dio_s_theme_2
+    title: "DIO's Theme 2"
+    path: "Theme of DIO.brstm"
+    type: battle
+...

@@ -1,20 +1,139 @@
 ---
-id: bishoujo_senshi_sailor_moon_smd
+id: bishoujo_senshi_sailor_moon
 title: "Bishoujo Senshi Sailor Moon"
-series: sailormoon
-platform: "Genesis"
-year: 1993
+platform: "SFC"
+year: 1995
 songs: 
-  - id: stage_1_1_street
-    title: "Stage 1-1 (Street)"
-    path: "09 - Stage 1-1 (Street).vgz"
+  - id: darkness_and_light
+    title: "Darkness and Light"
+    path: "01 Darkness and Light.spc"
+    type: break
+  - id: main_theme_of_sailor_moon
+    title: "Main Theme of Sailor Moon"
+    path: "02 Main Theme of Sailor Moon.spc"
     type: betting
-  - id: stage_1_2_elevator
-    title: "Stage 1-2 (Elevator)"
-    path: "10 - Stage 1-2 (Elevator).vgz"
+  - id: hello_welcome
+    title: "Hello! Welcome!"
+    path: "03 Hello! Welcome!.spc"
     type: betting
-  - id: stage_2_1_amusement_park
-    title: "Stage 2-1 (Amusement Park)"
-    path: "15 - Stage 2-1 (Amusement Park).vgz"
+  - id: unsettling_feeling
+    title: "Unsettling Feeling"
+    path: "04 Unsettling Feeling.spc"
     type: betting
+  - id: we_are_sailor_soldiers
+    title: "We Are Sailor Soldiers!"
+    path: "05 We Are Sailor Soldiers!.spc"
+    type: betting
+  - id: legendary_battle_bishoujo_senshi_sailor_moon
+    title: "Legendary Battle"
+    path: "06 Legendary Battle.spc"
+    type: battle
+  - id: we_did_it
+    title: "We Did It!"
+    path: "07 We Did It!!.spc"
+    type: result
+  - id: the_mysterious_oppositio_senshi
+    title: "The Mysterious Oppositio Senshi"
+    path: "08 The Mysterious Oppositio Senshi.spc"
+    type: break
+  - id: prophecy_by_fire
+    title: "Prophecy by Fire"
+    path: "09 Prophecy by Fire.spc"
+    type: break
+  - id: a_life_without_worry
+    title: "A Life Without Worry"
+    path: "10 A Life Without Worry.spc"
+    type: betting
+  - id: here_comes_the_enemy
+    title: "Here Comes the Enemy!"
+    path: "11 Here Comes the Enemy!.spc"
+    type: warning
+  - id: moon_prism_power_make_up
+    title: "Moon Prism Power! Make Up!"
+    path: "12 Moon Prism Power! Make Up!.spc"
+    type: warning
+  - id: good_morning
+    title: "Good Morning!"
+    path: "14 Good Morning!.spc"
+    type: betting
+  - id: i_challenge_you
+    title: "I Challenge You!"
+    path: "15 I Challenge You!.spc"
+    type: betting
+  - id: tuxedo_kamen_appears
+    title: "Tuxedo Kamen Appears"
+    path: "16 Tuxedo Kamen Appears.spc"
+    type: result
+  - id: Ghosts of the Dark Kingdom
+    title: "Ghosts of the Dark Kingdom"
+    path: "17 Ghosts of the Dark Kingdom.spc"
+    type: betting
+  - id: the_frozen_mountains
+    title: "The Frozen Mountains"
+    path: "18 The Frozen Mountains.spc"
+    type: betting
+  - id: danger_zone_bishoujo_senshi_sailor_moon
+    title: "Danger Zone"
+    path: "19 Danger Zone.spc"
+    type: betting
+  - id: fight_to_change_destiny
+    title: "Fight to Change Destiny"
+    path: "20 Fight to Change Destiny.spc"
+    type: warning
+  - id: land_of_spirituality
+    title: "Land of Spirituality"
+    path: "21 Land of Spirituality.spc"
+    type: betting
+  - id: a_moment_of_sadness
+    title: "A Moment of Sadness"
+    path: "22 A Moment of Sadness.spc"
+    type: break
+  - id: peaceful_woodlands
+    title: "Peaceful Woodlands"
+    path: "23 Peaceful Woodlands.spc"
+    type: betting
+  - id: beneath_the_sand
+    title: "Beneath the Sand"
+    path: "24 Beneath the Sand.spc"
+    type: betting
+  - id: silver_moon_cruiser
+    title: "Silver Moon Cruiser"
+    path: "25 Silver Moon Cruiser.spc"
+    type: betting
+  - id: downtown_juuban
+    title: "Downtown Juuban"
+    path: "26 Downtown Juuban.spc"
+    type: warning
+  - id: the_return_of_queen_beryl
+    title: "The Return of Queen Beryl"
+    path: "27 The Return of Queen Beryl.spc"
+    type: warning
+  - id: keeper_of_time
+    title: "Keeper of Time"
+    path: "28 Keeper of Time.spc"
+    type: betting
+  - id: to_the_far_north
+    title: "To the Far North"
+    path: "29 To the Far North.spc"
+    type: warning
+  - id: dream_of_the_moon_jingdom
+    title: "Dream of the Moon Kingdom"
+    path: "30 Dream of the Moon Kingdom.spc"
+    type: betting
+  - id: the_silver_age_of_peace
+    title: "The Silver Age of Peace"
+    path: "31 The Silver Age of Peace.spc"
+    type: break
+  - id: castle_of_destiny
+    title: "Castle of Destiny"
+    path: "32 Castle of Destiny.spc"
+    type: break
+  - id: demon_apsu
+    title: "Demon Apsu"
+    path: "33 Demon Apsu.spc"
+    type: warning
+  - id: it_s_finally_over
+    title: "It's Finally Over..."
+    path: "34 It's Finally Over....spc"
+    type: result
 ...

@@ -1,0 +1,35 @@
+﻿---
+id: touhou_rock_maiden
+title: "Touhou Rock Maiden: Houraisan Kaguya no Yabou!?"
+platform: "PC"
+year: 2013
+songs:
+  - id: remilia_stage
+    title: "Remilia Stage"
+    path: "Remilia Stage.brstm"
+    type: betting
+  - id: mokou_stage
+    title: "Mokou Stage"
+    path: "Mokou Stage.brstm"
+    type: betting
+  - id: tenshi_stage
+    title: "Tenshi Stage"
+    path: "Tenshi Stage.brstm"
+    type: betting
+  - id: eientei_fortress_2_rm
+    title: "Eientei Fortress 2"
+    path: "Eientei Fortress 2.brstm"
+    type: betting
+  - id: boss_battle_rm
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: betting
+  - id: kaguya_capsule
+    title: "Kaguya Capsule"
+    path: "Kaguya Capsule.brstm"
+    type: warning
+  - id: password_screen_rm
+    title: "Password Screen"
+    path: "Password Screen.brstm"
+    type: break
+...

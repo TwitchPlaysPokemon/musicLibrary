@@ -1,60 +1,128 @@
 ---
-id: kid_icarus_uprising
+id: kid_icarus_uprising_3ds
 title: "Kid Icarus: Uprising"
 series: kidicarus
 platform: "3DS"
 year: 2012
 songs: 
-  - id: boss_battle_1
+  - id: chapter_1_the_return_of_palutena
+    title: "Chapter 1: The Return of Palutena"
+    path: "1-02 Chapter 1 The Return of Palutena.brstm"
+    ends: 2:45
+    type: betting
+  - id: boss_battle_1_kid_icarus_uprising
     title: "Boss Battle 1"
-    path: "Boss Battle 1.brstm"
+    path: "SND_090_BGM_B010.bcstm"
     type: battle
-  - id: chapter_14_lightning_battle_looped
-    title: "Lightning Battle"
-    path: "Chapter 14_ Lightning Battle (Looped).brstm"
+  - id: chapter_2_dark_lord_gaol_s_castle
+    title: "Chapter 2: Dark Lord Gaol's Castle"
+    path: "SND_059_BGM_G020.bcstm"
     type: betting
-  - id: dark_pit's_theme
-    title: "Dark Pit's Theme"
-    path: "Dark Pit's Theme.brstm"
+  - id: magnus_theme
+    title: "Magnus' Theme"
+    path: "SND_126_BGM_G021.bcstm"
     type: betting
-  - id: kid_icarus_uprising
-    title: "Kid Icarus: Uprising"
-    path: "Kid Icarus - Uprising.brstm"
-    type: result
-  - id: chapter_18_little_girl_theme
-    title: "Chapter 18: Little Girl's Theme"
-    path: "Chapter 18 - Little Girl's Theme.brstm"
-    type: break
-  - id: chapter_8_in_the_space_pirate_ship
-    title: "Chapter 8: In the Space-Pirate Ship"
-    path: "Chapter 8_ In the Space-Pirate Ship.brstm"
-    type: result
-  - id: chapter_12_wrath_of_the_reset_bomb
-    title: "Chapter 12_ Wrath of the Reset Bomb"
-    path: "Chapter 12_ Wrath of the Reset Bomb (Looped).brstm"
-    type: warning
-  - id: chapter_1_the_return_of_palutena_part_1
-    title: "Chapter 1: The Return of Palutena (Part 1)"
-    path: "Chapter 1_ The Return of Palutena (Part 1).brstm"
-    type: result
-  - id: chapter_5_pandora_labyrinth_part_1
-    title: "Chapter 5: Pandora's Labyrinth of Deceit (Part 1)"
-    path: "Chapter 5_ Pandora's Labyrinth of Deceit (Part 1).brstm"
-    type: warning
-  - id: vault_menu
-    title: "Vault Menu"
-    path: "Vault Menu.brstm"
-    type: break
-  - id: mangus_theme
-    title: "Magnus's Theme"
-    path: "Magnus's Theme.brstm"
+  - id: chapter_4_the_reaper_s_line_of_sight
+    title: "Chapter 4: The Reaper's Line of Sight"
+    path: "1-10 Chapter 4 The Reaper's Line of Sight.brstm"
+    ends: 3:18
+    type: betting
+  - id: chapter_5_pandora_s_labyrinth_of_deceit
+    title: "Chapter 5: Pandora's Labyrinth of Deceit"
+    path: "SND_026_BGM_A050.bcstm"
     type: warning
   - id: chapter_6_dark_pit
-    title: "Chapter 6 - Dark Pit"
-    path: "Chapter 6 - Dark Pit.brstm"
+    title: "Chapter 6: Dark Pit"
+    path: "1-14 Chapter 6 Dark Pit.brstm"
+    ends: 2:42
     type: betting
-  - id: chapter_18_dogs_theme
-    title: "Chapter 18: Dog's Theme"
+  - id: dark_pit_s_theme
+    title: "Dark Pit's Theme"
+    path: "SND_063_BGM_G060.bcstm"
+    type: betting
+  - id: chapter_8_in_the_space_pirate_ship
+    title: "Chapter 8: In the Space-Pirate Ship"
+    path: "SND_066_BGM_G080.bcstm"
+    type: betting
+  - id: chapter_9_underworld_castle
+    title: "Chapter 9: Underworld Castle"
+    path: "SND_068_BGM_G091.bcstm"
+    type: betting
+  - id: boss_battle_2_kid_icarus_uprising
+    title: "Boss Battle 2"
+    path: "SND_091_BGM_B020.bcstm"
+    type: warning
+  - id: false_ending
+    title: "False Ending"
+    path: "1-27 False Ending.brstm"
+    type: result
+  - id: hades_s_infernal_theme
+    title: "Hades's Infernal Theme"
+    path: "SND_101_DEM_09040.bcstm"
+    type: warning
+  - id: chapter_11_viridi_goddess_of_nature
+    title: "Chapter 11: Viridi, Goddess of Nature"
+    path: "2-05 Chapter 11 Viridi, Goddess of Nature.brstm"
+    ends: 2:37
+    type: betting
+  - id: chapter_12_wrath_of_the_reset_bomb
+    title: "Chapter 12: Wrath of the Reset Bomb"
+    path: "2-07 Chapter 12 Wrath of the Reset Bomb.brstm"
+    ends: 3:23
+    type: betting
+  - id: chapter_13_silence_of_the_moon
+    title: "Chapter 13: Silence of the Moon"
+    path: "SND_043_BGM_A130.bcstm"
+    type: result
+  - id: chapter_14_lightning_battle
+    title: "Chapter 14: Lightning Battle"
+    path: "SND_044_BGM_A140.bcstm"
+    ends: 2:48
+    type: betting
+  - id: chapter_14_thunder_cloud_temple
+    title: "Chapter 14: Thunder Cloud Temple"
+    path: "SND_077_BGM_G140.bcstm"
+    type: betting
+  - id: chapter_15_aurum_island
+    title: "Chapter 15: Aurum Island"
+    path: "SND_078_BGM_G150.bcstm"
+    type: betting
+  - id: chapter_18_that_town_three_years_later_dog
+    title: "Chapter 18: That Town Three Years Later (Dog)"
     path: "SND_082_BGM_G181.bcstm"
     type: betting
+  - id: chapter_19_lightning_chariot_base
+    title: "Chapter 19: Lightning Chariot Base"
+    path: "SND_084_BGM_G190.bcstm"
+    ends: 3:11
+    type: betting
+  - id: chapter_20_destroyed_skyworld
+    title: "Chapter 20: Destroyed Skyworld"
+    path: "SND_085_BGM_G200.bcstm"
+    ends: 3:15
+    type: betting
+  - id: triumphal_return
+    title: "Triumphal Return"
+    path: "SND_193_BGM_A253.bcstm"
+    type: result
+  - id: kid_icarus_uprising
+    title: "Kid Icarus: Uprising"
+    path: "SND_011_BGM_M01.bcstm"
+    type: betting
+  - id: home_solo_menu
+    title: "HOME / Solo Menu"
+    path: "SND_012_BGM_M02.bcstm"
+    type: break
+  - id: everyone_together_menu
+    title: "Everyone / Together Menu"
+    path: "SND_014_BGM_M04.bcstm"
+    type: betting
+  - id: vault_menu
+    title: "Vault Menu"
+    path: "SND_015_BGM_M05.bcstm"
+    type: break
+  - id: home_solo_menu_viridi
+    title: "HOME / Solo Menu (Viridi)"
+    path: "SND_013_BGM_M03.bcstm"
+    type: break
 ...

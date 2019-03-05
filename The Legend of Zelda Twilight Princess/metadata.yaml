@@ -2,7 +2,7 @@
 id: the_legend_of_zelda_twilight_princess
 title: "The Legend of Zelda: Twilight Princess"
 series: zelda
-platform: ["Wii", "GCN"]
+platform: ["Wii", "GCN", "Wii U"]
 year: 2006
 songs:
   - id: agitha_castle
@@ -13,20 +13,20 @@ songs:
     title: "Death Mountain"
     path: "Death Mountain.brstm"
     type: betting
-  - id: hyrule_castle_town_central_square
-    title: "Hyrule Castle Town - Central Square"
-    path: "Hyrule Castle Town - Central Square.brstm"
+  - id: hyrule_castle_town
+    title: "Hyrule Castle Town"
+    path: "201 Castle Town.mp3"
     type: betting
   - id: lakebed_temple
     title: "Lakebed Temple"
     path: "Lakebed Temple.brstm"
     type: betting
-  - id: midna_in_distress
-    title: "Midna in Distress"
+  - id: midna_s_lament
+    title: "Midna's Lament"
     path: "Midna in Distress.brstm"
     type: betting
-  - id: sled_game_loztp
-    title: "Sled Game"
+  - id: sled_race
+    title: "Sled Race"
     path: "Sled Game.brstm"
     tags: [xmas]
     type: betting
@@ -39,29 +39,29 @@ songs:
     title: "Twilit Cargo Game"
     path: "Twilit Cargo Game.brstm"
     type: warning
-  - id: wild_goat
-    title: "Wild Goat"
+  - id: goat_herding
+    title: "Goat Herding"
     path: "Wild Goat.brstm"
     type: warning
-  - id: blizzeta_battle_second_half
-    title: "Blizzeta Battle Second Half"
+  - id: boss_battle_5_second_half
+    title: "Boss Battle #5 (Second Half)"
     path: "Blizzeta Battle Second Half.brstm"
     tags: [xmas]
     type: battle
-  - id: after_the_battle
-    title: "After the Battle"
+  - id: boss_battle_aftermath
+    title: "Boss Battle Aftermath"
     path: "After the Battle.brstm"
     type: result
-  - id: cargo_game_loztp
-    title: "Cargo Game"
+  - id: plumm_s_attraction
+    title: "Plumm's Attraction"
     path: "Cargo Game.brstm"
     type: result
-  - id: hyrule_field_night_theme
-    title: "Hyrule Field Night Theme"
+  - id: hyrule_field_night
+    title: "Hyrule Field (Night)"
     path: "Hyrule Field Night Theme.brstm"
     type: break
   - id: palace_of_twilight_exterior
-    title: "Palace of Twilight - Exterior"
+    title: "Palace of Twilight (Exterior)"
     path: "Palace of Twilight - Outside.brstm"
     type: break
   - id: snowpeak
@@ -73,9 +73,13 @@ songs:
     title: "Zora's Domain"
     path: "Zora's Domain.brstm"
     type: break
-  - id: blizzeta_battle_first_half
-    title: "Blizzeta Battle First Half"
-    path: "Blizzeta Battle First Half.brstm"
+  - id: boss_battle_5_first_half
+    title: "Boss Battle #5 (First Half)"
+    path: "Blizzeta Battle First Half - No Intro.brstm"
     tags: [xmas]
     type: warning
+  - id: the_hidden_village
+    title: "The Hidden Village"
+    path: "Hidden Village.brstm"
+    type: betting
 ...

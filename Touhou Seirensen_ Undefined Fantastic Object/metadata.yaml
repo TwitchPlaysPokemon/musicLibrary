@@ -1,8 +1,8 @@
 ﻿---
 id: touhou_seirensen_undefined_fantastic_object
-platform: "PC"
 title: "Touhou Seirensen ~ Undefined Fantastic Object"
 series: touhou
+platform: "PC"
 year: 2009
 songs: 
   - id: at_the_end_of_spring
@@ -10,27 +10,31 @@ songs:
     title: "At the End of Spring"
     type: betting
   - id: ufo_romance_in_the_sky
+    title: "UFO Romance in the Night Sky"
     path: "UFO Romance in the Sky.brstm"
-    title: "UFO Romance in the Sky"
     type: betting
-  - id: emotional_skyscraper_cosmic_mind_ufo
+  - id: emotional_skyscraper_cosmic_mind
+    title: "Emotional Skyscraper ~ Cosmic Mind"
     path: "Emotional Skyscraper ~ Cosmic Mind.brstm"
-    title: "Byakuren's Theme: Emotional Skyscraper ~ Cosmic Mind"
     type: battle
   - id: beware_the_umbrella_left_there_forever
+    title: "Beware the Umbrella Left There Forever"
     path: "Kogasa's Theme_ Beware the Umbrella Left There Forever.brstm"
-    title: "Kogasa's Theme: Beware the Umbrella Left There Forever"
     type: warning
   - id: the_traditional_old_man_and_the_stylish_girl
-    title: "Ichirin's Theme: The Traditional Old Man and the Stylish Girl"
+    title: "The Traditional Old Man and the Stylish Girl"
     path: "Ichirin's Theme - The Traditional Old Man and the Stylish Girl.brstm"
-    type: warning
-  - id: nues_theme_heian_alien
+    type: battle
+  - id: heian_alien
+    title: "Heian Alien"
     path: "Nue's Theme_ Heian Alien.brstm"
-    title: "Nue's Theme: Heian Alien"
-    type: warning
+    type: battle
   - id: youkai_temple
     title: "Youkai Temple"
     path: "Youkai Temple.brstm"
     type: break
+  - id: interdimensional_voyage_of_a_ghostly_passenger_ship_remix
+    title: "Interdimensional Voyage of a Ghostly Passenger Ship (Remix)"
+    path: "Interdimensional Voyage of a Ghostly Passenger Ship (Remix).brstm"
+    type: betting
 ...

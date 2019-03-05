@@ -1,0 +1,39 @@
+﻿---
+id: touhou_rock_maiden_3
+title: "Touhou Rock Maiden 3: Houraisan Kaguya no Saigo!?"
+platform: "PC"
+year: 2016
+songs:
+  - id: eientei_fortress_2_rm3
+    title: "Eientei Fortress 2"
+    path: "Eientei Fortress 2.brstm"
+    type: betting
+  - id: sakuya_stage
+    title: "Sakuya Stage"
+    path: "Sakuya Stage.brstm"
+    type: battle
+  - id: ichirin_stage
+    title: "Ichirin Stage"
+    path: "Ichirin Stage.brstm"
+    type: result
+  - id: boss_battle_rm3
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: stage_select_rm3
+    title: "Stage Select"
+    path: "Stage Select.brstm"
+    type: warning
+  - id: hina_stage_extra_mode
+    title: "Hina Stage (Extra Mode)"
+    path: "Hina Stage (Extra Mode).brstm"
+    type: break
+  - id: yuuka_stage
+    title: "Yuuka Stage"
+    path: "Yuuka Stage.brstm"
+    type: break
+  - id: credits_rm3
+    title: "Credits"
+    path: "Credits.brstm"
+    type: break
+...

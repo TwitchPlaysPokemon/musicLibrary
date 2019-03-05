@@ -5,16 +5,20 @@ series: touhou
 platform: "PC"
 year: 2005
 songs: 
-  - id: higan_retour_riverside_view_komachi_onozuka_s_theme_house_set_ver
-    title: "Higan Retour ~ Riverside View (Komachi Onozuka's theme)(House Set Ver.)"
+  - id: higan_retour_riverside_view_house_set_ver
+    title: "Higan Retour ~ Riverside View (House Set Ver.)"
     path: "Higan Retour (House Set Ver.).brstm"
     type: betting
-  - id: flowering_night_sakuya_izayoi_s_theme
-    title: "Flowering Night (Sakuya Izayoi's theme)"
+  - id: flowering_night
+    title: "Flowering Night"
     path: "Sakuya's Theme_ Flowering Night.brstm"
     type: battle
-  - id: wind_god_girl_aya_shameimaru_s_theme
-    title: "Wind God Girl (Aya Shameimaru's theme)"
+  - id: wind_god_girl
+    title: "Wind God Girl"
     path: "Wind God Girl.brstm"
+    type: battle
+  - id: night_of_nights_arrange_by_beatmario
+    title: "Night of Nights (beatMARIO Arrange)"
+    path: "Night of Nights.brstm"
     type: battle
 ...

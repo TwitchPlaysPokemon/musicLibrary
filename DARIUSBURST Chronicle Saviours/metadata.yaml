@@ -6,7 +6,28 @@ platform: ["PS4", "Vita", "PC"]
 year: 2014
 songs: 
   - id: devastating_powerful_enemy
-    title: "Devastating Powerful Enemy"
-    path: "Devastating Powerful Enemy.brstm"
+    title: "DEVASTATING POWERFUL ENEMY"
+    path: "md_arr02.hca"
+    type: battle
+  - id: freedom
+    title: "Freedom"
+    path: "vita_bgm02.hca"
+    ends: 1:52
+    type: betting
+  - id: abyssal_withdrawal
+    title: "Abyssal Withdrawal"
+    path: "vita_bgm04.hca"
+    type: battle
+  - id: shining_eyes
+    title: "Shining Eyes"
+    path: "vita_bgm05.hca" 
+    type: battle
+  - id: splendid_form
+    title: "Splendid Form"
+    path: "vita_bgm06.hca" 
+    type: battle
+  - id: expecting_you
+    title: "Expecting You"
+    path: "vita_bgm07.hca"
     type: battle
 ...

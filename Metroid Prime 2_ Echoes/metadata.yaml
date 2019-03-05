@@ -1,20 +1,37 @@
 ---
 id: metroid_prime_2_echoes
-platform: "GC"
 title: "Metroid Prime 2: Echoes"
 series: metroid
+platform: "GCN"
 year: 2004
 songs: 
-  - id: torvus_bog_subterranean_theme
-    path: "Torvus Bog Subterranean Theme.brstm"
-    title: "Torvus Bog Subterranean Theme"
-    type: betting
-  - id: torvus_bog_main_theme
-    title: "Torvus Bog Main Theme"
-    path: "Torvus Bog Main Theme.brstm"
-    type: betting
   - id: menu_theme_prime2echoes
     title: "Menu Theme"
-    path: "Menu Theme.brstm"
+    path: "02 - Menu Theme.dsp"
     type: betting
+  - id: vs_gfed_trooper
+    title: "VS GFed Trooper"
+    path: "10 - VS GFed Trooper.dsp"
+    type: warning
+  - id: torvus_bog
+    title: "Torvus Bog"
+    path: "40 - Torvus Bog.dsp"
+    type: betting
+  - id: submerged_temple
+    title: "Submerged Temple"
+    path: "42 - Submerged Temple.dsp"
+    type: betting
+  - id: sanctuary_sanctuary_fortress_1_long
+    title: "Sanctuary (Sanctuary Fortress 1 Long)"
+    path: "47 - Sanctuary (Sanctuary Fortress 1 Long).dsp"
+    ends: 3:35
+    type: betting
+  - id: dynamo_core_sanctuary_fortress_2_long
+    title: "Dynamo Core (Sanctuary Fortress 2 Long)"
+    path: "49 - Dynamo Core (Sanctuary Fortress 2 Long).dsp"
+    type: betting
+  - id: vs_quadraxis
+    title: "VS Quadraxis"
+    path: "50 - VS Quadraxis.dsp"
+    type: battle
 ...

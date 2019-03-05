@@ -6,7 +6,7 @@ platform: "Mobile"
 year: 2016
 songs: 
   - id: overworld_map_pokemon_go
-    title: "Overworld Map"
+    title: "Overworld"
     path: "Overworld Map.brstm"
     type: betting
   - id: gym_pokemon_go
@@ -33,4 +33,40 @@ songs:
     title: "Battle! Wild Pokémon (Night)"
     path: "Battle! (Wild Pokémon) (Night).brstm"
     type: battle
+  - id: entering_a_raid_battle_go
+    title: "Entering a Raid Battle"
+    path: "Enter a Gym Raid_GO.brstm"
+    type: warning
+  - id: entering_a_raid_battle_go
+    title: "Entering a Raid Battle"
+    path: "Enter a Gym Raid_GO.brstm"
+    type: warning
+  - id: evolution_pokemon_go
+    title: "Evolution"
+    path: "Evolution_GO.brstm"
+    type: warning 
+  - id: overworld_halloween_pokemon_go
+    title: "Overworld (Halloween)"
+    path: "Halloween_GO.brstm"
+    type:  betting
+  - id: new_pokemon_go
+    title: "New PokéDex Entry"
+    path: "New Pokémon Caught.brstm"
+    type: result
+  - id: overworld_night_pokemon_go
+    title: "Overworld (Night)"
+    path: "Overworld _Night.brstm"
+    type:  betting
+  - id: raid_countdown_timer_go
+    title: "Raid Countdown Timer"
+    path: "Raid Countdown Timer.brstm"
+    type: warning
+  - id: raid_starting_pokemon_go
+    title: "Raid Starting"
+    path: "Raid Starting.brstm"
+    type: warning
+  - id: research_pokemon_go
+    title: "Research"
+    path: "Research.brstm"
+    type: warning
 ...

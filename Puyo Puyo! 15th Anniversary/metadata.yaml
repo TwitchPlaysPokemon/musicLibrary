@@ -1,0 +1,23 @@
+---
+id: puyo_puyo_15th_anniversary 
+title: "Puyo Puyo! 15th Anniversary "
+platform: "Various"
+year: 2007
+songs: 
+  - id: i_want_you_r_power
+    title: "I want! you! ...r power...!"
+    path: "BGM26.adx"
+    type: battle
+  - id: combat_queen_rulue_sama
+    title: "Combat Queen Rulue-sama"
+    path: "BGM27.adx"
+    type: betting
+  - id: advent_of_primp_satan_sama
+    title: "Advent of Primp! Satan-sama"
+    path: "BGM28.adx"
+    type: battle
+  - id: fever_fever_fever
+    title: "FEVER! FEVER! FEVER!"
+    path: "BGM31.adx"
+    type: warning
+...

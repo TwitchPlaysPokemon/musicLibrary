@@ -1,0 +1,74 @@
+---
+id: need_for_madness_2
+title: "Need for Madness 2"
+platform: "PC"
+year: 2010
+songs: 
+  - id: ufo_tune
+    title: "UFO Tune"
+    path: "ufo_tune.mod"
+    ends: 2:14
+    type: betting
+  - id: overscan
+    title: "Overscan"
+    path: "ascender_-_overscan.mod"
+    type: betting
+  - id: ability
+    title: "Ability"
+    path: "ability.mod"
+    ends: 2:23
+    type: betting
+  - id: einstein
+    title: "Einstein"
+    path: "einstein_-_music.mod"
+    ends: 2:10
+    type: betting
+  - id: warez_by_night
+    title: "Warez by Night"
+    path: "warez_by_night.mod"
+    type: betting
+  - id: gina
+    title: "Gina"
+    path: "gina.mod"
+    type: betting
+  - id: uprising
+    title: "Uprising"
+    path: "UPRISING.MOD"
+    type: betting
+  - id: k7
+    title: "K7"
+    path: "k7_game.mod"
+    type: betting
+  - id: sauron
+    title: "Sauron"
+    path: "fleshbrain-sauron.mod"
+    type: betting
+  - id: hired_guns
+    title: "Hired Guns"
+    path: "hiredguns_static-05.mod"
+    type: warning
+  - id: winds
+    title: "Winds"
+    path: "winds.mod"
+    type: betting
+  - id: popcorn
+    title: "Popcorn"
+    path: "popcorn-12.mod"
+    type: betting
+  - id: ultrabass
+    title: "Ultrabass"
+    path: "ultrabass.mod"
+    type: betting
+  - id: ektoplasm_o_matic
+    title: "Ektoplasm'o'matic"
+    path: "ektoplasmomatic.mod"
+    type: betting
+  - id: shadowrun_need_for_madness_2
+    title: "Shadowrun"
+    path: "SHADOWRU.MOD"
+    type: betting
+  - id: family
+    title: "Family"
+    path: "family.mod"
+    type: betting
+...

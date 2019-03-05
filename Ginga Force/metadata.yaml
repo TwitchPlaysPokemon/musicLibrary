@@ -1,0 +1,15 @@
+---
+id: ginga_force
+title: "Ginga Force"
+platform: "Xbox 360"
+year: 2013
+songs: 
+  - id: strategic_beat_briefing
+    title: "Strategic Beat [Briefing]"
+    path: "bgm08_briefing.xwb"
+    type: warning
+  - id: zenith_chapter10
+    title: "Zenith [Chapter10]"
+    path: "bgm23_lastboss.xwb"
+    type: battle
+...

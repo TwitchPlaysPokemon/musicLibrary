@@ -1,0 +1,53 @@
+---
+id: need_for_madness
+title: "Need for Madness"
+platform: "PC"
+year: 2004
+songs: 
+  - id: lazerzad
+    title: "Lazerzad"
+    path: "lazerzad.mod"
+    type: betting
+  - id: occ_san_geen
+    title: "occ-san-geen"
+    path: "OCC-SAN.mod"
+    type: betting
+  - id: maleria
+    title: "Maleria"
+    path: "maleria.mod"
+    type: betting
+  - id: shahdan
+    title: "Shahdan"
+    path: "panserbataljonen.mod"
+    ends: 2:20
+    type: betting
+  - id: hell
+    title: "Hell"
+    path: "dance_inferno.mod"
+    type: betting
+  - id: paninaro
+    title: "Paninaro"
+    path: "paninaro.mod"
+    type: betting
+  - id: rap_various_by_maxim
+    title: "Rap Various by Maxim"
+    path: "ice_mc.mod"
+    type: betting
+  - id: legendaric
+    title: "Legendaric"
+    path: "legend.mod"
+    type: betting
+  - id: eagles
+    title: "Eagles"
+    path: "EAGLES.MOD"
+    ends: 1:24
+    type: betting
+  - id: paradise_city
+    title: "Paradise City"
+    path: "ascender_-_paradise_city.mod"
+    type: betting
+  - id: oberheim_power
+    title: "Oberheim Power"
+    path: "oberhmpw.mod"
+    type: betting
+...

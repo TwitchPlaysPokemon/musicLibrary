@@ -1,5 +1,5 @@
 ---
-id: kirby's_dream_land_3
+id: kirby_s_dream_land_3
 title: "Kirby's Dream Land 3"
 series: kirby
 platform: "SNES"
@@ -9,39 +9,54 @@ songs:
     title: "Grass Land"
     path: "09 Grass Land 1.spc"
     type: betting
-  - id: hyper_zone_kirby_dreamland_3
-    title: "Hyper Zone"
-    path: "40 Hyper Zone 1.spc"
-    type: warning
-  - id: zero
-    title: "Zero"
-    path: "41 Hyper Zone 2.spc"
-    type: warning
+  - id: grass_land_2
+    title: "Grass Land 2"
+    path: "10 Grass Land 2.spc"
+    type: betting
+  - id: grass_land_3
+    title: "Grass Land 3"
+    path: "11 Grass Land 3.spc"
+    type: betting
+  - id: grass_land_4
+    title: "Grass Land 4"
+    path: "12 Grass Land 4.spc"
+    type: betting
+  - id: ripple_field_map
+    title: "Ripple Field Map"
+    path: "13 Ripple Field Map.spc"
+    type: result
   - id: ripple_field
     title: "Ripple Field"
     path: "14 Ripple Field 1.spc"
-    type: betting
-  - id: sand_canyon
-    title: "Sand Canyon"
-    path: "18 Sand Canyon 1.spc"
-    type: betting
-  - id: hyper_zone_2_dreamland_3
-    title: "Hyper Zone 2"
-    path: "Hyper Zone 2.brstm"
-    type: warning
-  - id: iceberg_dreamland3
-    title: "Iceberg"
-    path: "Iceberg.brstm"
-    tags: [xmas]
-    type: betting
-  - id: ripple_field_3_dreamland_3
-    title: "Ripple Field 3"
-    path: "Ripple Field 3.brstm"
     type: betting
   - id: ripple_field_2
     title: "Ripple Field 2"
     path: "15 Ripple Field 2.spc"
     tags: [xmas]
+    type: betting
+  - id: ripple_field_3
+    title: "Ripple Field 3"
+    path: "16 Ripple Field 3.spc"
+    type: betting
+  - id: sand_canyon
+    title: "Sand Canyon"
+    path: "18 Sand Canyon 1.spc"
+    type: betting
+  - id: sand_canyon_2
+    title: "Sand Canyon 2"
+    path: "19 Sand Canyon 2.spc"
+    type: betting
+  - id: sand_canyon_3
+    title: "Sand Canyon 3"
+    path: "20 Sand Canyon 3.spc"
+    type: betting
+  - id: cloudy_park_map
+    title: "Cloudy Park Map"
+    path: "21 Cloudy Park Map.spc"
+    type: result
+  - id: cloudy_park
+    title: "Cloudy Park"
+    path: "22 Cloudy Park.spc"
     type: betting
   - id: friends_2
     title: "Friends 2"
@@ -51,8 +66,25 @@ songs:
     title: "Friends 3"
     path: "27 Friends 3.spc"
     type: result
-  - id: cloudy_park_map
-    title: "Cloudy Park Map"
-    path: "21 Cloudy Park Map.spc"
+  - id: mission_failed
+    title: "Mission Failed"
+    path: "31 Mission Failed.spc"
     type: result
+  - id: boss_battle_kirby_s_dream_land_3
+    title: "Boss Battle"
+    path: "37 Big Boss Battle.spc"
+    type: warning
+  - id: hyper_zone_kirby_s_dream_land_3
+    title: "Hyper Zone"
+    path: "40 Hyper Zone 1.spc"
+    type: warning
+  - id: hyper_zone_2
+    title: "Hyper Zone 2"
+    path: "41 Hyper Zone 2.spc"
+    type: warning
+  - id: iceberg_kirby_s_dream_land_3
+    title: "Iceberg"
+    path: "24 Iceberg.spc"
+    tags: [xmas]
+    type: betting
 ...

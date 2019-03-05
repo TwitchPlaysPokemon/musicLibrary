@@ -1,16 +1,20 @@
 ﻿---
 id: touhou_koumakyou_embodiment_of_scarlet_devil
-platform: "PC"
 title: "Touhou Koumakyou ~ Embodiment of Scarlet Devil"
 series: touhou
+platform: "PC"
 year: 2002
 songs: 
-  - id: patchoulis_theme_locked_girl_the_girls_secret_room_arrange_by_ssh_and_aether
-    title: "Patchouli's theme: Locked Girl ~ The Girl's Secret Room (arrange by SSH&Aether)"
+  - id: locked_girl_the_girl_s_secret_room
+    title: "Locked Girl ~ The Girl's Secret Room"
+    path: "Patchouli's Theme_ Locked Girl _ The Girl's Secret Room.brstm"
+    type: battle
+  - id: locked_girl_the_girls_secret_room_arrange_by_ssh_and_aether
+    title: "Locked Girl ~ The Girl's Secret Room (SSH&Aether Arrange)"
     path: "SSH&Aether - Locked Girl ~ The Girl's Secret Room.brstm"
     type: battle
-  - id: cirno_theme_beloved_tomboyish_daughter
-    title: "Cirno's Theme: Beloved Tomboyish Daughter"
+  - id: tomboyish_girl_in_love
+    title: "Tomboyish Girl in Love"
     path: "Cirno's Theme - Beloved Tomboyish Daughter.brstm"
     type: betting
   - id: shanghai_teahouse_chinese_tea_cosd
@@ -19,15 +23,31 @@ songs:
     ends: 3:00
     type: betting
   - id: apparitions_stalk_the_night_remix
-    path: "Rumia's Theme_ Apparitions Stalk the Night (Remix).brstm"
     title: "Apparitions Stalk the Night (Remix)"
+    path: "Rumia's Theme_ Apparitions Stalk the Night (Remix).brstm"
     type: battle
-  - id: un_ower_was_her_battle_arrangement_remix
-    path: "Flandre's Theme_ U.N. Owen Was Her Battle Arrangement Remix.brstm"
+  - id: u_n_owen_was_her
+    title: "U.N. Owen was her?"
+    path: "Flandre's Theme_ U.N. Owen Was Her_.brstm"
+    type: battle
+  - id: u_n_owen_was_her_cool_create_remix
+    title: "U.N. Owen was Her? (Cool&Create Remix)"
+    path: "UN Owen was Her - Cool&Create.brstm"
+    type: battle
+  - id: u_n_ower_was_her_battle_arrangement_remix
     title: "U.N. Owen Was Her? (Battle Arrangement Remix)"
+    path: "Flandre's Theme_ U.N. Owen Was Her Battle Arrangement Remix.brstm"
     type: battle
   - id: the_young_descendant_of_tepes
-    path: "The Young Descendant of Tepes.brstm"
     title: "The Young Descendant of Tepes"
+    path: "The Young Descendant of Tepes.brstm"
     type: warning
+  - id: septette_for_the_dead_princess
+    title: "Septette for the Dead Princess"
+    path: "Remilia's Theme_ Septette for the Dead Queen.brstm"
+    type: battle
+  - id: septette_for_the_dead_princess_ezel_ash_remix
+    title: "Septette for the Dead Princess (Ezel-Ash Remix)"
+    path: "Ezel Ash - Septette for the Dead Queen.brstm"
+    type: battle
 ...
