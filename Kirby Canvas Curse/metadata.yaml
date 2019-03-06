@@ -1,8 +1,8 @@
 ---
-id: kirbys_canvas_curse
-title: "Kirby Canvas Curse"
+id: kirby_canvas_curse
+title: "Kirby: Canvas Curse"
 series: kirby
-platform: "DS"
+platform: "NDS"
 year: 2005
 songs:
   - id: growth_grasses
@@ -41,7 +41,7 @@ songs:
     title: "Spectacle Space"
     path: "24 Spectacle Space.mini2sf"
     type: warning
-  - id: room_guarder
+  - id: room_guarder_kirby_canvas_curse
     title: "Room Guarder"
     path: "26 Room Guarder.mini2sf"
     type: warning
