@@ -1,125 +1,145 @@
 ---
 id: f-zero_gx
-platform: "GC"
 title: "F-Zero GX"
 series: fzero
+platform: "GCN"
 year: 2003
 songs: 
-  - id: fire_field
+  - id: feel_our_pain_fire_field
+    title: "Feel Our Pain (Fire Field)"
     path: "Fire Field (Normal Lap and Final Lap).brstm"
-    title: "Fire Field"
     type: battle
-  - id: aeropolis
+  - id: zen_aeropolis
+    title: "ZEN (Aeropolis)"
     path: "Aeropolis.brstm"
-    title: "Aeropolis"
     type: battle
-  - id: big_blue
+  - id: infinite_blue_big_blue
+    title: "Infinite Blue (Big Blue)"
     path: "Big Blue.brstm"
-    title: "Big Blue"
     type: battle
-  - id: characters_profile
+  - id: refresh_time_character_profile
+    title: "Refresh Time (Character Profile)"
     path: "Character's Profile.brstm"
-    title: "Character's Profile"
     type: betting
-  - id: cosmo_terminal
+  - id: one_ahead_system_cosmo_terminal
+    title: "One Ahead System (Cosmo Terminal)"
     path: "Cosmo Terminal.brstm"
-    title: "Cosmo Terminal"
     type: battle
-  - id: customize
+  - id: feather_customize
+    title: "Feather (Customize)"
     path: "Customize.brstm"
-    title: "Customize"
     type: betting
-  - id: emperor_breath
+  - id: emperor_breath_story_8
+    title: "Emperor Breath (Story #8)"
     path: "Emperor Breath.brstm"
-    title: "Emperor Breath"
     type: battle
-  - id: mute_city
+  - id: for_the_glory_feat_mute_city_s_theme_mute_city
+    title: "For The Glory -feat. Mutecity's Theme- (Mute City)"
     path: "Mute City.brstm"
-    title: "Mute City"
     type: battle
-  - id: finish
+  - id: finish_to_go_finish
+    title: "Finish to Go (Finish)"
     path: "Finish.brstm"
-    title: "Finish"
     type: result
-  - id: green_plant
+  - id: planet_colors_green_plant
+    title: "Planet Colors (Green Plant)"
     path: "Green Plant.brstm"
-    title: "Green Plant"
     type: battle
-  - id: lighting
+  - id: osc_sync_carnival_lighting
+    title: "Osc-Sync Carnival (Lightning)"
     path: "Lightning.brstm"
-    title: "Lightning"
     type: battle
-  - id: main_selector
+  - id: as_you_choose_3rd_main_selector
+    title: "As you choose "3rd" (Main Selector)"
     path: "Main Selector.brstm"
-    title: "Main Selector"
     type: betting
-  - id: night_of_big_blue
+  - id: night_of_big_blue_story_4
+    title: "Night Of Big Blue (Story #4)"
     path: "Night of Big Blue.brstm"
-    title: "Night of Big Blue"
     type: battle
-  - id: step_70s
+  - id: step_70_s_option
+    title: "Step 70's (Option)"
     path: "Option.brstm"
-    title: "Step 70's"
     type: break
-  - id: outer_space
+  - id: paper_engine_outer_space
+    title: "Paper Engine (Outer Space)"
     path: "Outer Space.brstm"
-    title: "Outer Space"
     type: battle
-  - id: phantom_road
+  - id: dizzy_phantom_road
+    title: "DIZZY (Phantom Road)"
     path: "Phantom Road.brstm"
-    title: "Phantom Road"
     type: battle
-  - id: port_town
+  - id: like_a_snake_port_town
+    title: "Like a Snake (Port Town)"
     path: "Port Town.brstm"
-    title: "Port Town"
     type: battle
-  - id: replay
+  - id: brain_cleaner_replay
+    title: "Brain Cleaner (Replay)"
     path: "Replay.brstm"
-    title: "Replay"
     type: battle
-  - id: sand_ocean
+  - id: 8_guitars_sand_ocean
+    title: "8 Guitars (Sand Ocean)"
     path: "Sand Ocean.brstm"
-    title: "Sand Ocean"
     type: battle
-  - id: shop
+  - id: your_garage_shop
+    title: "Your Garage (Shop)"
     path: "Shop.brstm"
-    title: "Shop"
     type: result
-  - id: staff_roll_fzgx
+  - id: respect_to_result_theme_of_f_zero_staff_roll
+    title: "Respect To \"RESULT THEME OF F-ZERO\" (Staff Roll)"
     path: "Staff Roll.brstm"
-    title: "Staff Roll"
     type: betting
-  - id: theme_of_antonio_guster
+  - id: antonio_guster
+    title: "ANTONIO GUSTER"
     path: "Theme of Antonio Guster.brstm"
-    title: "Theme of Antonio Guster"
     type: battle
-  - id: theme_of_baba
+  - id: baba
+    title: "BABA"
     path: "Theme of Baba.brstm"
-    title: "Theme of Baba"
     type: battle
-  - id: theme_of_beastman
+  - id: beastman
+    title: "BEASTMAN"
     path: "Theme of Beastman.brstm"
-    title: "Theme of Beastman"
     type: betting
-  - id: theme_of_dr_stewart
+  - id: dr_stewart
+    title: "Dr. STEWART"
     path: "Theme of Dr. Stewart.brstm"
-    title: "Theme of Dr. Stewart"
     ends: 3:00
     type: betting
-  - id: time_for_kill
+  - id: time_for_kill_story_6
+    title: "Time For Kill (Story #6)"
     path: "Time For Kill.brstm"
-    title: "Time For Kill"
     type: battle
-  - id: tutorial_fzgx
+  - id: u_rays_tutorial
+    title: "U-Rays (Tutorial)"
     path: "Tutorial.brstm"
-    title: "Tutorial"
     type: betting
-  - id: vegas_palace
+  - id: shotgun_kiss_vegas_palace
+    title: "Shotgun Kiss (Vegas Palace)"
     path: "Vegas Palace.brstm"
-    title: "Vegas Palace"
     type: battle
-  - id: winning_run
+  - id: hurrah_for_the_champion_winning_run
+    title: "Hurrah for the Champion (Winning Run)"
     path: "Winning Run.brstm"
-    title: "Winning Run"
     type: result
+  - id: captain_falcon
+    title: "CAPTAIN FALCON"
+    path: "101 - Captain Falcon.adx"
+    type: betting
+  - id: black_shadow
+    title: "BLACK SHADOW"
+    path: "129 - Black Shadow.adx"
+    type: betting
+  - id: jack_levin
+    title: "JACK LEVIN"
+    path: "118 - Jack Levin.adx"
+    type: betting
+  - id: james_mccloud
+    title: "JAMES MCCLOUD"
+    path: "119 - James McCloud.adx"
+    type: betting
+  - id: jody_summer
+    title: "JODY SUMMER"
+    path: "105 - Jody Summer.adx"
+    type: betting
 ...

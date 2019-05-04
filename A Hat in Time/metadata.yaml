@@ -493,4 +493,60 @@ songs:
     title: "Turn on the Pyrotechnics (Paused)"
     path: "Turn on the Pyrotechnics (Paused).brstm"
     type: warning
+  - id: collapsing_rift
+    title: "Collapsing Rift"
+    path: "Collapsing Rift (Looped).brstm"
+    type: battle
+  - id: bird_sanctuary
+    title: "Bird Sanctuary [Death Wish]"
+    path: "Death Wish - Bird Sanctuary.brstm"
+    type: betting
+  - id: boss_death_wish
+    title: "Boss [Death Wish]"
+    path: "Death Wish - Boss.brstm"
+    type: battle
+  - id: killing_two_birds_death_wish
+    title: "Killing Two Birds [Death Wish]"
+    path: "Death Wish - Killing Two Birds.brstm"
+    type: battle
+  - id: mustache_girl_ex_anticipation_death_wish
+    title: "Mustache Girl EX Anticipation [Death Wish]"
+    path: "Death Wish - Mustache Girl EX Anticipation.brstm"
+    type: warning
+  - id: mustache_girl_ex_death_wish
+    title: "Mustache Girl EX [Death Wish]"
+    path: "Death Wish - Mustache Girl EX.brstm"
+    type: battle
+  - id: security_breach_death_wish
+    title: "Security Breach [Death Wish]"
+    path: "Death Wish - Security Breach.brstm"
+    type: betting
+  - id: wound_up_windmill_death_wish
+    title: "Wound-up Windmill [Death Wish]"
+    path: "Death Wish - Wound-up Windmill.brstm"
+    type: betting
+  - id: her_spaceship_death_wish
+    title: "Her Spaceship [Death Wish]"
+    path: "Her Spaceship - Death Wish.brstm"
+    type: warning
+  - id: rhythm_jump_studio
+    title: "Rhythm Jump Studio"
+    path: "Rhythm Jump Studio Rift - Medley.brstm"
+    type: betting
+  - id: subcon_village_remix
+    title: "Subcon Village (Remix)"
+    path: "Subcon Village (Remix).brstm"
+    type: break
+  - id: bon_voyage_the_arctic_cruise
+    title: "Bon Voyage! [The Arctic Cruise]"
+    path: "The Arctic Cruise - Bon Voyage!.brstm"
+    type: break
+  - id: rock_the_boat_the_arctic_cruise
+    title: "Rock The Boat [The Arctic Cruise]"
+    path: "The Arctic Cruise - Rock The Boat.brstm"
+    type: warning
+  - id: ship_shape_the_arctic_cruise
+    title: "Ship Shape [The Arctic Cruise]"
+    path: "The Arctic Cruise - Ship Shape.brstm"
+    type: betting
 ...

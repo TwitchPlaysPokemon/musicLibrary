@@ -1,0 +1,19 @@
+---
+id: kingdom_hearts_iii
+title: "Kingdom Hearts III"
+platform: ["PS4", "XB1"]
+year: 2019
+songs: 
+  - id: misty_stream
+    title: "Misty Stream"
+    path: "Kingdom Hearts III Soundtrack - Misty Stream.brstm"
+    type: betting
+  - id: starlight_way
+    title: "Starlight Way"
+    path: "Kingdom Hearts III Soundtrack - Starlight Way.brstm"
+    type: betting
+  - id: gummi_ship_enemy_encounter
+    title: "Gummi Ship Enemy Encounter"
+    path: "Gummi Ship Enemy Encounter - Kingdom Hearts III.brstm"
+    type: battle
+...

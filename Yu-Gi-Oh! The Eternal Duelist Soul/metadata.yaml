@@ -5,40 +5,28 @@ series: yugioh
 platform: "GBA"
 year: 2001
 songs:
-  - id: kaiba_duel
-    title: "Kaiba Duel"
-    path: "Kaiba Duel.brstm"
-    type: warning
-  - id: main_menu_duelist_soul
-    title: "Main Menu"
-    path: "Main Menu.brstm"
+  - id: menu_yu_gi_oh_the_eternal_duelist_soul
+    title: "Menu"
+    path: "AGB-AY5E-USA-0003.minigsf"
     type: break
-  - id: stage_one_duel
-    title: "Stage One Duel"
-    path: "Stage One Duel.brstm"
+  - id: vs_tier1
+    title: "VS - Tier1"
+    path: "AGB-AY5E-USA-0005.minigsf"
     type: betting
-  - id: stage_two_duel
-    title: "Stage Two Duel"
-    path: "Stage Two Duel.brstm"
+  - id: vs_tier2
+    title: "VS - Tier2"
+    path: "AGB-AY5E-USA-0006.minigsf"
     type: betting
-  - id: stage_three_duel
-    title: "Stage Three Duel"
-    path: "Stage Three Duel.brstm"
+  - id: vs_tier3
+    title: "VS - Tier3"
+    path: "AGB-AY5E-USA-0007.minigsf"
+    type: betting
+  - id: vs_kaiba_seto
+    title: "VS - Kaiba Seto"
+    path: "AGB-AY5E-USA-0009.minigsf"
     type: warning
-  - id: duel_championship
-    title: "Duel! Championship"
-    path: "Championship.mp3"
-    type: betting
-  - id: duel_duelist_group_1
-    title: "Duel! Duelist Group 1"
-    path: "Group 1.brstm"
-    type: betting
-  - id: duel_duelist_group_2
-    title: "Duel! Duelist Group 2"
-    path: "Group 2.brstm"
-    type: betting
-  - id: duel_rare_hunter
-    title: "Duel! Rare Hunter"
-    path: "Rare Hunter.brstm"
+  - id: national_championship_dueling
+    title: "National Championship - Dueling"
+    path: "AGB-AY5E-USA-0019.minigsf"
     type: betting
 ...

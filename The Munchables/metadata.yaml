@@ -40,4 +40,16 @@ songs:
     title: "Power Up"
     path: "SE_ALL_POWERUP.brstm"
     type: warning
+  - id: boss_event
+    title: "Boss Event"
+    path: "BGM_EVENT_BOSS.brstm"
+    type: warning
+  - id: nom_nom_world_world_select
+    title: "Nom Nom World (World Select)"
+    path: "BGM_WORLD_SELECT.brstm"
+    type: result
+  - id: wonderful_ingredients_credits
+    title: "Wonderful Ingredients (Credits)"
+    path: "BGM_STUFF.brstm"
+    type: break
 ...

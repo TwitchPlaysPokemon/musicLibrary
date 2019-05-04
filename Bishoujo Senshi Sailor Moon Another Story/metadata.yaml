@@ -4,10 +4,6 @@ title: "Bishoujo Senshi Sailor Moon: Another Story"
 platform: "SFC"
 year: 1995
 songs: 
-  - id: darkness_and_light
-    title: "Darkness and Light"
-    path: "01 Darkness and Light.spc"
-    type: break
   - id: main_theme_of_sailor_moon
     title: "Main Theme of Sailor Moon"
     path: "02 Main Theme of Sailor Moon.spc"
@@ -60,10 +56,6 @@ songs:
     title: "I Challenge You!"
     path: "15 I Challenge You!.spc"
     type: betting
-  - id: tuxedo_kamen_appears
-    title: "Tuxedo Kamen Appears"
-    path: "16 Tuxedo Kamen Appears.spc"
-    type: result
   - id: Ghosts of the Dark Kingdom
     title: "Ghosts of the Dark Kingdom"
     path: "17 Ghosts of the Dark Kingdom.spc"

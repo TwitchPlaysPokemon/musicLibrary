@@ -22,7 +22,7 @@ songs:
     path: "Battle! Wild Pokemon.brstm"
     type: battle
   - id: raid_battle
-    title: "Raid Battle"
+    title: "Battle! Raid"
     path: "Raid Battle.brstm"
     type: battle
   - id: title_pokemon_go
@@ -33,6 +33,10 @@ songs:
     title: "Battle! Wild Pokémon (Night)"
     path: "Battle! (Wild Pokémon) (Night).brstm"
     type: battle
+  - id: entering_a_raid_battle_go
+    title: "Entering a Raid Battle"
+    path: "Enter a Gym Raid_GO.brstm"
+    type: warning
   - id: entering_a_raid_battle_go
     title: "Entering a Raid Battle"
     path: "Enter a Gym Raid_GO.brstm"
@@ -64,5 +68,29 @@ songs:
   - id: research_pokemon_go
     title: "Research"
     path: "Research.brstm"
+    type: warning
+  - id: gym_mine_pokemon_go
+    title: "Your Team's Gym"
+    path: "Gym (Owned).brstm"
+    type: warning
+  - id: pvp_pokemon_go
+    title: "Battle! Player"
+    path: "pvp.brstm"
+    type: battle
+  - id: pvp_lose_pokemon_go
+    title: "Loss! Player"
+    path: "pvp_lose.brstm"
+    type: result
+  - id: pvp_win_pokemon_go
+    title: "Victory! Player"
+    path: "pvp_win.brstm"
+    type: result
+  - id: raid_win_pokemon_go
+    title: "Victory! Raid"
+    path: "raid_battle_win.brstm"
+    type: result
+  - id: trade_pokemon_go
+    title: "Trade"
+    path: "trade.brstm"
     type: warning
 ...

@@ -29,8 +29,7 @@ songs:
   - id: dummy_fight
     title: "Dummy!"
     path: "Dummy!.brstm"
-    ends: 2:26
-    type: betting
+    type: battle
   - id: heartache
     title: "Heartache"
     path: "Heartache.brstm"
@@ -201,4 +200,70 @@ songs:
     title: "Finale"
     path: "mus_f_finale.logg"
     type: battle
+  - id: anticipation
+    title: "Anticipation"
+    path: "mus_prebattle1.logg"
+    type: warning
+  - id: bring_it_in_guys
+    title: "Bring It In, Guys!"
+    path: "Bring It In, Guys!.brstm"
+    ends: 3:27
+    type: betting
+  - id: burn_in_despair
+    title: "Burn in Despair!"
+    path: "mus_a2.logg"
+    type: warning
+  - id: don_t_give_up
+    title: "Don't Give Up"
+    path: "Don't Give Up.brstm"
+    type: warning
+  - id: dummy_threat
+    title: "Dummy Threat!"
+    path: "mus_predummy.logg"
+    type: warning
+  - id: enemy_approaching
+    title: "Enemy Approaching"
+    path: "mus_battle1.logg"
+    type: battle
+  - id: for_the_fans
+    title: "For the Fans"
+    path: "mus_mettsad.logg"
+    type: break
+  - id: his_theme
+    title: "His Theme"
+    path: "His Theme.brstm"
+    ends: 2:08
+    type: betting
+  - id: home
+    title: "Home"
+    path: "mus_house1.logg"
+    type: break
+  - id: it_s_raining_somewhere_else
+    title: "It's Raining Somewhere Else"
+    path: "mus_sansdate.logg"
+    type: break
+  - id: it_s_showtime
+    title: "It's Showtime!"
+    path: "mus_mtgameshow.logg"
+    type: result
+  - id: power_of_neo
+    title: "Power of \"NEO\""
+    path: "mus_mettaton_neo.logg"
+    type: warning
+  - id: run
+    title: "Run!"
+    path: "mus_undynefast.logg"
+    type: warning
+  - id: save_the_world
+    title: "SAVE the World"
+    path: "mus_xpart_2.logg"
+    type: battle
+  - id: waterfall
+    title: "Waterfall"
+    path: "mus_waterfall.logg"
+    type: betting
+  - id: wrong_enemy
+    title: "Wrong Enemy !?"
+    path: "mus_wrongworld.logg"
+    type: warning
 ...

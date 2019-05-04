@@ -86,4 +86,12 @@ songs:
     title: "What Lies Within"
     path: "What Lies Within.brstm"
     type: betting
+  - id: rodeo_de_chocobo
+    title: "Rodeo de Chocobo"
+    path: "Rodeo de Chocobo.brstm"
+    type: betting
+  - id: rodeo_de_chocobo_walking
+    title: "Rodeo de Chocobo (Walking)"
+    path: "Rodeo de Chocobo (Walking).brstm"
+    type: break
 ...

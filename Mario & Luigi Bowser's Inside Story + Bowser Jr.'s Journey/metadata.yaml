@@ -1,0 +1,123 @@
+---
+id: mario_luigi_bowser_s_inside_story_bowser_jr_s_journey
+title: "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey"
+platform: "3DS"
+year: 2019
+songs: 
+  - id: doing_it_right
+    title: "Doing It Right"
+    path: "03_tutorial_i32.dspadpcm.bcstm"
+    type: betting
+  - id: it_s_fawful
+    title: "It's Fawful!"
+    path: "09_gera_theme_i32.dspadpcm.bcstm"
+    type: warning
+  - id: persistent_joy
+    title: "Persistent Joy"
+    path: "11_youki_i32.dspadpcm.bcstm"
+    type: result
+  - id: battle_time
+    title: "Battle Time!"
+    path: "13_last_boss_toujou_i32.dspadpcm.bcstm"
+    type: warning
+  - id: a_gentle_breeze_at_cavi_cape
+    title: "A Gentle Breeze at Cavi Cape"
+    path: "15_gepu_a_i32.dspadpcm.bcstm"
+    type: betting
+  - id: beachside_dreaming
+    title: "Beachside Dreaming"
+    path: "17_mushiba_a_i32.dspadpcm.bcstm"
+    type: betting
+  - id: meet_me_at_wonder_woods
+    title: "Meet Me at Wonder Woods"
+    path: "19_ekubon_a_i32.dspadpcm.bcstm"
+    type: betting
+  - id: meet_me_at_wonder_woods_inside_bowser
+    title: "Meet Me at Wonder Woods (Inside Bowser)"
+    path: "20_ekubon_b_i32.dspadpcm.bcstm"
+    type: betting
+  - id: the_path_of_secrets
+    title: "The Path of Secrets"
+    path: "21_dark_area1_a_i32.dspadpcm.bcstm"
+    type: break
+  - id: bowser_s_stolen_castle
+    title: "Bowser's Stolen Castle"
+    path: "25_koopa_castle_a_i32.dspadpcm.bcstm"
+    type: betting
+  - id: resting_in_toad_town
+    title: "Resting in Toad Town"
+    path: "27_kinoko_town_a_i32.dspadpcm.bcstm"
+    type: betting
+  - id: forever_in_the_plains
+    title: "Forever in the Plains"
+    path: "29_otapuku_a_i32.dspadpcm.bcstm"
+    type: betting
+  - id: dark_regions
+    title: "Dark Regions"
+    path: "31_peach_garden_a_i32.dspadpcm.bcstm"
+    type: warning
+  - id: the_castle_depths
+    title: "The Castle Depths"
+    path: "33_peach_castle_inside_a_i32.dspadpcm.bcstm"
+    type: betting
+  - id: the_castle_depths_inside_bowser
+    title: "The Castle Depths (Inside Bowser)"
+    path: "34_peach_castle_inside_b_i32.dspadpcm.bcstm"
+    type: betting
+  - id: waltz_in_the_lake
+    title: "Waltz in the Lake"
+    path: "35_water_a_i32.dspadpcm.bcstm"
+    type: betting
+  - id: dr_toadley
+    title: "Dr. Toadley"
+    path: "37_clinic_i32.dspadpcm.bcstm"
+    type: betting
+  - id: pump_it_up
+    title: "Pump It Up"
+    path: "38_minigame_i32.dspadpcm.bcstm"
+    type: warning
+  - id: here_we_go
+    title: "Here We Go!"
+    path: "40_ml_zako_battle_i32.dspadpcm.bcstm"
+    type: battle
+  - id: showtime
+    title: "Showtime!"
+    path: "41_koopa_battle_i32.dspadpcm.bcstm"
+    type: warning
+  - id: tough_guy_alert
+    title: "Tough Guy Alert!"
+    path: "42_boss_battle_i32.dspadpcm.bcstm"
+    type: battle
+  - id: destroy_the_dark_power
+    title: "Destroy the Dark Power!"
+    path: "43_DarkStar_Master_i32.dspadpcm.bcstm"
+    type: battle
+  - id: a_fateful_clash
+    title: "A Fateful Clash!"
+    path: "44_DarkGeraBattle_Master_i32.dspadpcm.bcstm"
+    type: warning
+  - id: the_grand_finale
+    title: "The Grand Finale"
+    path: "45_last_boss_i32.dspadpcm.bcstm"
+    type: battle
+  - id: the_giant
+    title: "The Giant"
+    path: "46_big_battle_i32.dspadpcm.bcstm"
+    type: warning
+  - id: a_battle_brawl
+    title: "A Battle Brawl!"
+    path: "49_BokosukaBtl_Master_i32.dspadpcm.bcstm"
+    type: battle
+  - id: pushing_forward
+    title: "Pushing Forward!"
+    path: "50_BokosukaBoss_Master_i32.dspadpcm.bcstm"
+    type: battle
+  - id: charge_and_clash
+    title: "Charge and Clash!"
+    path: "51_BokosukaLastBoss_Master_i32.dspadpcm.bcstm"
+    type: battle
+  - id: bowser_jr_s_glory
+    title: "Bowser Jr.'s Glory!"
+    path: "54_KoopaJr_Theme_Master_i32.dspadpcm.bcstm"
+    type: warning
+...

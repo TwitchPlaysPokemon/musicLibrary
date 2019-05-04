@@ -17,6 +17,18 @@ songs:
     title: "Get Them Before They Get You"
     path: "03 Get Them Before They Get You.vgz"
     type: betting
+  - id: searching_for_the_enemy
+    title: "Searching For the Enemy"
+    path: "04 Searching For the Enemy.vgz"
+    type: warning
+  - id: p_o_w
+    title: "P.O.W"
+    path: "05 P.O.W.vgz"
+    type: warning
+  - id: suspense
+    title: "Suspense"
+    path: "06 Suspense.vgz"
+    type: warning
   - id: the_march_to_war
     title: "The March to War"
     path: "07 The March to War.vgz"
@@ -29,9 +41,29 @@ songs:
     title: "Lurking"
     path: "10 Lurking.vgz"
     type: break
+  - id: going_after_hitler
+    title: "Going After Hitler"
+    path: "11 Going After Hitler.vgz"
+    type: warning
   - id: pounding_headache
     title: "Pounding Headache"
     path: "12 Pounding Headache.vgz"
+    type: warning
+  - id: into_the_dungeons
+    title: "Into the Dungeons"
+    path: "13 Into the Dungeons.vgz"
+    type: break
+  - id: kill_the_s_o_b
+    title: "Kill the S.O.B"
+    path: "14 Kill the S.O.B.vgz"
+    type: warning
+  - id: the_nazi_rap
+    title: "The Nazi Rap"
+    path: "15 The Nazi Rap.vgz"
+    type: betting
+  - id: twelfth_hour
+    title: "Twelfth Hour"
+    path: "16 Twelfth Hour.vgz"
     type: warning
   - id: zero_hour_wolf3d
     title: "Zero Hour"
@@ -49,12 +81,32 @@ songs:
     title: "Funk You!"
     path: "20 Funk You.vgz"
     type: betting
+  - id: end_of_level
+    title: "End of Level"
+    path: "21 End of Level.vgz"
+    type: result
   - id: u_r_a_hero
     title: "U R A Hero"
     path: "22 U R A Hero.vgz"
     type: result
+  - id: roster
+    title: "Roster"
+    path: "23 Roster.vgz"
+    type: result
+  - id: hitler_waltz
+    title: "Hitler Waltz"
+    path: "24 Hitler Waltz.vgz"
+    type: warning
   - id: salute_wolf3d
     title: "Salute"
     path: "25 Salute.vgz"
+    type: result
+  - id: victors
+    title: "Victors"
+    path: "26 Victors.vgz"
+    type: result
+  - id: victory_march
+    title: "Victory March"
+    path: "27 Victory March.vgz"
     type: result
 ...

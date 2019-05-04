@@ -1,100 +1,104 @@
 ---
 id: golden_sun
-platform: "GBA"
 title: "Golden Sun"
 series: goldensun
+platform: "GBA"
 year: 2001
 songs: 
   - id: having_fun_gs
-    path: "01 The Lucky Slots.minigsf"
     title: "Having Fun"
+    path: "01 The Lucky Slots.minigsf"
     type: betting
   - id: the_first_book
-    path: "02 Main Theme.minigsf"
     title: "The First Book"
+    path: "02 Main Theme.minigsf"
     type: betting
   - id: page_one_gsgba
-    path: "03 Main Menu.minigsf"
     title: "Page One"
+    path: "03 Main Menu.minigsf"
     type: betting
   - id: suhalla_gate
-    path: "04 Lighthouse Theme.minigsf"
     title: "Suhalla Gate"
+    path: "04 Lighthouse Theme.minigsf"
     type: warning
   - id: the_second_book_gsgba
-    path: "05 The Title Screen.minigsf"
     title: "The Second Book"
+    path: "05 The Title Screen.minigsf"
     type: betting
   - id: battle_colosso
-    path: "07 Trial Road.minigsf"
     title: "Battle! [Colosso]"
+    path: "07 Trial Road.minigsf"
     type: battle
   - id: fanfare
-    path: "08 Fanfare.minigsf"
     title: "Victory Fanfare"
+    path: "08 Fanfare.minigsf"
     type: result
   - id: a_little_friendship
-    path: "10 Ivan's Theme.minigsf"
     title: "A Little Friendship"
+    path: "10 Ivan's Theme.minigsf"
     type: betting
   - id: saturos_and_menardi
-    path: "11 Villain Theme.minigsf"
     title: "Saturos and Menardi"
+    path: "11 Villain Theme.minigsf"
     type: warning
   - id: sol_sanctum_erupts
-    path: "13 Lighting The Beacons.minigsf"
     title: "Sol Sanctum Erupts"
+    path: "13 Lighting The Beacons.minigsf"
     type: warning
   - id: an_adept_home
-    path: "18 Vale and Vault.minigsf"
     title: "An Adept’s Home"
+    path: "18 Vale and Vault.minigsf"
     type: betting
   - id: tolbi
-    path: "27 Tolbi.minigsf"
     title: "Tolbi"
+    path: "27 Tolbi.minigsf"
     type: betting
   - id: sol_sanctum
-    path: "28 The Sanctums.minigsf"
     title: "Sol Sanctum"
+    path: "28 The Sanctums.minigsf"
     type: warning
+  - id: the_elemental_stars
+    title: "The Elemental Stars"
+    path: "30 Sol Sanctum.minigsf"
+    type: break
   - id: on_that_night_3_years_ago
-    path: "31 Lunpa's Hideout.minigsf"
     title: "On That Night, 3 Years Ago"
+    path: "31 Lunpa's Hideout.minigsf"
     type: betting
   - id: mysterious_caves
-    path: "32 Cave Theme.minigsf"
     title: "Mysterious Caves"
+    path: "32 Cave Theme.minigsf"
     type: betting
   - id: tunnel_ruins
-    path: "36 Tunnel Ruins.minigsf"
     title: "Tunnel Ruins"
+    path: "36 Tunnel Ruins.minigsf"
     type: warning
   - id: karagol_sea
-    path: "38 Tolbi Bound Ship.minigsf"
     title: "Set Sail! Through the Karagol Sea"
+    path: "38 Tolbi Bound Ship.minigsf"
     type: result
   - id: the_angarian_journey_gsgba
-    path: "39 World Map.minigsf"
     title: "The Angarian Journey"
+    path: "39 World Map.minigsf"
     type: betting
   - id: battle_isaac_gs
-    path: "41 Enemy Battle.minigsf"
     title: "Battle! [Isaac]"
+    path: "41 Enemy Battle.minigsf"
     type: battle
   - id: battle_saturos
-    path: "42 Battle with Saturos.minigsf"
     title: "Battle! [Saturos]"
+    path: "42 Battle with Saturos.minigsf"
     type: battle
   - id: boss_battle_gsgba
-    path: "43 Boss Battle.minigsf"
     title: "Battle! [Boss]"
+    path: "43 Boss Battle.minigsf"
     type: battle
   - id: battle_saturos_menardi
-    path: "44 Saturos and Menardi Battle.minigsf"
     title: "Battle! [Saturos and Menardi]"
+    path: "44 Saturos and Menardi Battle.minigsf"
     type: battle
   - id: fusion_dragon
-    path: "45 Fusion Dragon.minigsf"
     title: "Battle! [Fusion Dragon]"
+    path: "45 Fusion Dragon.minigsf"
     type: battle
 ...

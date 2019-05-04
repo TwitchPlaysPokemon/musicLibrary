@@ -1,0 +1,75 @@
+---
+id: mega_man_x_legacy_collection_1_2
+title: "Mega Man X Legacy Collection 1 & 2"
+platform: "Various"
+year: 2018
+songs: 
+  - id: the_world_of_x
+    title: "THE WORLD OF X"
+    path: "TITLE_OPENING.sngw"
+    type: result
+  - id: orbit
+    title: "ORBIT"
+    path: "LAUNCHER_SELECT.sngw"
+    type: betting
+  - id: gallery_relaxed
+    title: "GALLERY (Relaxed)"
+    path: "GALLARY.sngw"
+    type: break
+  - id: gravity
+    title: "GRAVITY"
+    path: "XC_WEAPON.sngw"
+    type: betting
+  - id: x_boss_2
+    title: "X - BOSS 2"
+    path: "XC_BATTLE01_X1.sngw"
+    type: battle
+  - id: x2_boss_2
+    title: "X2 - BOSS 2"
+    path: "XC_BATTLE01_X2.sngw"
+    type: battle
+  - id: x3_boss_2_extended
+    title: "X3 - BOSS 2 (Extended)"
+    path: "XC_BATTLE01_X3.sngw"
+    type: battle
+  - id: x4_boss
+    title: "X4 - BOSS"
+    path: "XC_BATTLE01_X4.sngw"
+    type: battle
+  - id: x5_boss_extended
+    title: "X5 - BOSS (Extended)"
+    path: "XC_BATTLE01_X5.sngw"
+    type: battle
+  - id: x6_boss
+    title: "X6 - BOSS"
+    path: "XC_BATTLE01_X6.sngw"
+    type: battle
+  - id: warning
+    title: "WARNING"
+    path: "XC_WARNING.sngw"
+    type: warning
+  - id: re_future
+    title: "RE;FUTURE"
+    path: "XC_BATTLE01_9_3.sngw"
+    type: battle
+  - id: give_it_a_shot_extended
+    title: "GIVE IT A SHOT (Extended)"
+    path: "XC_BATTLE01_9_4.sngw"
+    type: battle
+  - id: gravity_result
+    title: "GRAVITY (Result)"
+    path: "XC_RESULT.sngw"
+    type: result
+  - id: overcome
+    title: "OVERCOME"
+    path: "ENDING.sngw"
+    type: betting
+  - id: total_result
+    title: "TOTAL RESULT"
+    path: "XC_TOTAL_SCORE.sngw"
+    type: result
+  - id: gallery_mega_man_x_legacy_collection_1_2
+    title: "GALLERY"
+    path: "GOODS_GALLARY.sngw"
+    type: break
+...

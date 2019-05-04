@@ -1,0 +1,31 @@
+---
+id: yakuza_2
+title: "Yakuza 2"
+platform: ["PS2", "PS3", "Wii U"]
+year: 2006
+songs: 
+  - id: north_menace
+    title: "North Menace"
+    path: "btl_jing_gon.adx"
+    type: battle
+  - id: bad_fortune_flower
+    title: "Bad Fortune Flower"
+    path: "btl_ryuji01.adx"
+    type: battle
+  - id: outlaw_s_lullaby
+    title: "Outlaw's Lullaby"
+    path: "btl_zako_kansai.adx"
+    type: battle
+  - id: push_me_under_water
+    title: "Push Me Under Water"
+    path: "btl_zako_kmr.adx"
+    type: battle
+  - id: management
+    title: "Management"
+    path: "caba_system.adx"
+    type: break
+  - id: as_a_man_as_a_brother
+    title: "As a man, As a brother"
+    path: "soundtrack11.adx"
+    type: betting
+...

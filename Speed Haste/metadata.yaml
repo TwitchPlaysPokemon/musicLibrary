@@ -11,12 +11,10 @@ songs:
   - id: green_brain
     title: "Green Brain"
     path: "Green Brain.S3M"
-    ends: 1:55
     type: betting
   - id: machine_rage
     title: "Machine Rage"
     path: "Machine Rage.S3M"
-    ends: 2:08
     type: betting
   - id: menu_theme_speed_haste
     title: "Menu Theme"
@@ -25,7 +23,6 @@ songs:
   - id: over_again
     title: "Over Again"
     path: "Over Again.S3M"
-    ends: 1:46
     type: betting
   - id: que_mas_da
     title: "Que Mas Da"
@@ -42,22 +39,18 @@ songs:
   - id: rock_n_roll
     title: "Rock'n'Roll"
     path: "Rock'n'Roll.S3M"
-    ends: 1:32
     type: betting
   - id: sakara_bru
     title: "Sakara Bru"
     path: "Sakara Bru.S3M"
-    ends: 2:18
     type: betting
   - id: soul_road
     title: "Soul Road"
     path: "Soul Road.S3M"
-    ends: 1:22
     type: betting
   - id: speed_em
     title: "Speed'em"
     path: "Speed'em.S3M"
-    ends: 1:42
     type: betting
   - id: track_car_selection
     title: "Track/Car Selection"

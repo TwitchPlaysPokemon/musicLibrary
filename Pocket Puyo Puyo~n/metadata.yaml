@@ -1,0 +1,23 @@
+---
+id: pocket_puyo_puyo_n
+title: "Pocket Puyo Puyo~n"
+platform: "GBC"
+year: 2000
+songs: 
+  - id: sky_stage_teatime_under_the_sky
+    title: "Sky Stage ~ Teatime Under the Sky"
+    path: "41 BGM #38.brstm"
+    type: betting
+  - id: circus_stage_it_s_showtime
+    title: "Circus Stage ~ It's Showtime!"
+    path: "43 BGM #40.brstm"
+    type: betting
+  - id: preparation_ok_lady_2_fight
+    title: "Preparation OK! → Lady 2 Fight!"
+    path: "44 BGM #41.brstm"
+    type: betting
+  - id: last_decisive_battle
+    title: "Last Decisive Battle?"
+    path: "46 BGM #43.brstm"
+    type: warning
+...

@@ -36,4 +36,47 @@ songs:
     title: "Katamari March Damacy"
     path: "BGM02.mib"
     type: result
+  - id: the_moon_the_prince
+    title: "The Moon & The Prince"
+    path: "04 the moon and the prince.brstm"
+    ends: 3:50
+    type: betting
+  - id: fugue_7777
+    title: "Fugue #7777"
+    path: "05 fugue 7777.brstm"
+    type: result
+  - id: lonely_rolling_star
+    title: "LONELY ROLLING STAR"
+    path: "06 lonely rolling star.brstm"
+    ends: 3:47
+    type: betting
+  - id: katamari_mambo_katamari_syndrome_re_mix
+    title: "katamari mambo [Katamari Syndrome Re-mix]"
+    path: "08 katamari mambo _ katamari syndrome mix.brstm"
+    ends: 3:55
+    type: betting
+  - id: you_are_smart
+    title: "You Are Smart"
+    path: "09 you are smart.brstm"
+    ends: 3:03
+    type: betting
+  - id: gin_tonic_red_red_roses_a_crimson_rose_and_a_gin_tonic
+    title: "Gin & Tonic & Red Red Roses (A Crimson Rose and a Gin Tonic)"
+    path: "10 a crimson rose and a gin tonic.brstm"
+    ends: 2:57
+    type: betting
+  - id: wanda_wanda
+    title: "WANDA WANDA"
+    path: "11 wanda wanda.brstm"
+    ends: 3:20
+    type: betting
+  - id: angel_gifts_angel_flavor_s_present
+    title: "Angel Gifts (Angel Flavor's Present)"
+    path: "13 angel flavor's present.brstm"
+    type: break
+  - id: katamari_of_love_ending_theme
+    title: "Katamari of Love ~ Ending Theme"
+    path: "20 katamari love _ ending theme.brstm"
+    ends: 4:04
+    type: betting
 ...

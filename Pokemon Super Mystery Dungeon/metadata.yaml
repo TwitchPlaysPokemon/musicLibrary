@@ -5,84 +5,292 @@ series: pokemon
 platform: "3DS"
 year: 2015
 songs: 
-  - id: air_continent_baram_town
-    title: "Air Continent: Baram Town"
-    path: "BGM_MAP_TAIRIKU_KAZE.dspadpcm.bcstm"
-    type: betting
-  - id: amp_plains_smd
-    title: "Amp Plains"
-    path: "BGM_DUN_31.dspadpcm.bcstm"
-    type: betting
-  - id: ancient_barrow
-    title: "Ancient Barrow"
-    path: "BGM_DUN_09.dspadpcm.bcstm"
-    type: betting
-  - id: beach_cave_psmd
-    title: "Beach Cave"
-    path: "BGM_DUN_29.dspadpcm.bcstm"
-    type: betting
-  - id: fire_island_volcano
-    title: "Fire Island Volcano"
-    path: "BGM_DUN_14.dspadpcm.bcstm"
-    type: betting
-  - id: foreboding_forest
-    title: "Foreboding Forest"
-    path: "BGM_DUN_03.dspadpcm.bcstm"
-    type: betting
   - id: lush_forest
     title: "Lush Forest"
     path: "BGM_DUN_00.dspadpcm.bcstm"
-    type: betting
-  - id: mystery_jungle
-    title: "Mystery Jungle"
-    path: "BGM_DUN_26.dspadpcm.bcstm"
-    type: betting
-  - id: nectar_meadow
-    title: "Nectar Meadow"
-    path: "BGM_DUN_07.dspadpcm.bcstm"
     type: betting
   - id: open_pass_psmd
     title: "Open Pass"
     path: "BGM_DUN_01.dspadpcm.bcstm"
     type: betting
-  - id: sand_continent_sahra_town
-    title: "Sand Continent: Sahra Town"
-    path: "BGM_MAP_TAIRIKU_SUNA.dspadpcm.bcstm"
+  - id: foreboding_forest
+    title: "Foreboding Forest"
+    path: "BGM_DUN_03.dspadpcm.bcstm"
     type: betting
-  - id: sand_dune_of_spirits
-    title: "Sand Dune of Spirits"
-    path: "BGM_DUN_27.dspadpcm.bcstm"
+  - id: drilbur_coal_mine
+    title: "Drilbur Coal Mine"
+    path: "BGM_DUN_04.dspadpcm.bcstm"
+    type: betting
+  - id: school_forest
+    title: "School Forest"
+    path: "BGM_DUN_05.dspadpcm.bcstm"
+    type: betting
+  - id: glittering_mountain
+    title: "Glittering Mountain"
+    path: "BGM_DUN_06.dspadpcm.bcstm"
+    type: betting
+  - id: nectar_meadow
+    title: "Nectar Meadow"
+    path: "BGM_DUN_07.dspadpcm.bcstm"
+    type: betting
+  - id: poliwrath_river
+    title: "Poliwrath River"
+    path: "BGM_DUN_08.dspadpcm.bcstm"
+    type: break
+  - id: ancient_barrow
+    title: "Ancient Barrow"
+    path: "BGM_DUN_09.dspadpcm.bcstm"
+    type: betting
+  - id: revelation_mountain
+    title: "Revelation Mountain"
+    path: "BGM_DUN_10.dspadpcm.bcstm"
+    type: betting
+  - id: sheer_mountain_range
+    title: "Sheer Mountain Range"
+    path: "BGM_DUN_11.dspadpcm.bcstm"
+    type: betting
+  - id: gentle_slope_cave
+    title: "Gentle Slope Cave"
+    path: "BGM_DUN_12.dspadpcm.bcstm"
+    type: betting
+  - id: echoes_of_the_mystical_forest
+    title: "Echoes of the Mystical Forest"
+    path: "BGM_DUN_13.bcstm"
+    type: betting
+  - id: fire_island_volcano
+    title: "Fire Island Volcano"
+    path: "BGM_DUN_14.dspadpcm.bcstm"
+    type: betting
+  - id: showdown_mountain
+    title: "Showdown Mountain"
+    path: "BGM_DUN_15.dspadpcm.bcstm"
+    type: betting
+  - id: abyssal_badlands
+    title: "Abyssal Badlands"
+    path: "BGM_DUN_17.dspadpcm.bcstm"
+    type: betting
+  - id: cave_of_the_deep
+    title: "Cave of the Deep"
+    path: "BGM_DUN_18.dspadpcm.bcstm"
+    type: betting
+  - id: calm_craggy_area
+    title: "Calm Craggy Area"
+    path: "BGM_DUN_19.bcstm"
+    type: betting
+  - id: reverse_mountain
+    title: "Reverse Mountain"
+    path: "BGM_DUN_20.dspadpcm.bcstm"
+    type: betting
+  - id: depths_of_the_submerged_cave
+    title: "Depths of the Submerged Cave"
+    path: "BGM_DUN_21.bcstm"
+    type: betting
+  - id: prehistoric_ruins
+    title: "Prehistoric Ruins"
+    path: "BGM_DUN_22.dspadpcm.bcstm"
+    type: betting
+  - id: road_to_primeval_forest
+    title: "Road to Primeval Forest"
+    path: "BGM_DUN_23.dspadpcm.bcstm"
     type: betting
   - id: tree_of_life_roots
     title: "Tree of Life: Roots"
     path: "BGM_DUN_24.dspadpcm.bcstm"
     type: betting
-  - id: we_definitely_take_you_down
-    title: "We'll Definitely... Take You Down!"
-    path: "BGM_EVE_POKEMON_NO_CHIKARA_02.dspadpcm.bcstm"
+  - id: tree_of_life_trunk
+    title: "Tree of Life: Trunk"
+    path: "BGM_DUN_25.dspadpcm.bcstm"
+    type: betting
+  - id: mystery_jungle
+    title: "Mystery Jungle"
+    path: "BGM_DUN_26.dspadpcm.bcstm"
+    type: betting
+  - id: sand_dune_of_spirits
+    title: "Sand Dune of Spirits"
+    path: "BGM_DUN_27.dspadpcm.bcstm"
+    type: betting
+  - id: purifying_cave
+    title: "Purifying Cave"
+    path: "BGM_DUN_28.dspadpcm.bcstm"
+    type: betting
+  - id: beach_cave_psmd
+    title: "Beach Cave"
+    path: "BGM_DUN_29.dspadpcm.bcstm"
+    type: betting
+  - id: amp_plains_smd
+    title: "Amp Plains"
+    path: "BGM_DUN_31.dspadpcm.bcstm"
+    type: betting
+  - id: crystal_cave
+    title: "Crystal Cave"
+    path: "BGM_DUN_32.dspadpcm.bcstm"
+    type: break
+  - id: don_t_give_up
+    title: "Don't Give Up"
+    path: "BGM_EVE_AKIRAMERUNA.dspadpcm.bcstm"
+    type: break
+  - id: boss_battle_children_s_adventure
+    title: "Boss Battle: Children's Adventure!"
+    path: "BGM_EVE_BOSS_01.dspadpcm.bcstm"
     type: warning
-  - id: first_dark_matter_battle
-    title: "First Dark Matter Battle"
-    path: "BGM_EVE_BOSS_DARKMATTER_01.dspadpcm.bcstm"
+  - id: boss_battle_expedition_society_fight
+    title: "Boss Battle: Expedition Society Fight"
+    path: "BGM_EVE_BOSS_02.dspadpcm.bcstm"
     type: battle
   - id: legendary_boss_battle_rock_version
     title: "Legendary Boss Battle: Rock Version!"
     path: "BGM_EVE_BOSS_02_ROCK.dspadpcm.bcstm"
     type: battle
-  - id: second_dark_matter_battle
-    title: "Second Dark Matter Battle"
-    path: "BGM_EVE_BOSS_DARKMATTER_02.dspadpcm.bcstm"
-    type: battle
   - id: showdown_with_a_volcanic_entei
     title: "Showdown with a Volcanic Entei!"
     path: "BGM_EVE_BOSS_03.dspadpcm.bcstm"
     type: battle
+  - id: first_dark_matter_battle
+    title: "First Dark Matter Battle"
+    path: "BGM_EVE_BOSS_DARKMATTER_01.dspadpcm.bcstm"
+    type: battle
+  - id: second_dark_matter_battle
+    title: "Second Dark Matter Battle"
+    path: "BGM_EVE_BOSS_DARKMATTER_02.dspadpcm.bcstm"
+    type: battle
+  - id: fight_with_yveltal_and_others
+    title: "Fight with Yveltal and Others!"
+    path: "BGM_EVE_BOSS_IBERUTARU.dspadpcm.bcstm"
+    type: battle
+  - id: mellow
+    title: "Mellow"
+    path: "BGM_EVE_CALM_02.dspadpcm.bcstm"
+    type: result
+  - id: children_of_serene_village
+    title: "Children of Serene Village"
+    path: "BGM_EVE_CHILDREN_01.dspadpcm.bcstm"
+    type: result
+  - id: pancham_and_shelmet
+    title: "Pancham and Shelmet"
+    path: "BGM_EVE_CHILDREN_02.bcstm"
+    type: warning
+  - id: onward_expedition_society
+    title: "Onward, Expedition Society!"
+    path: "BGM_EVE_CHOUSADAN_01.dspadpcm.bcstm"
+    type: betting
+  - id: wandering_ampharos
+    title: "Wandering Ampharos"
+    path: "BGM_EVE_CHOUSADAN_02.dspadpcm.bcstm"
+    type: break
+  - id: expedition_society_music_box
+    title: "Expedition Society: Music Box"
+    path: "BGM_EVE_CHOUSADAN_04.dspadpcm.bcstm"
+    type: break
+  - id: welcome_home_and_thanks
+    title: "Welcome Home and Thanks!"
+    path: "BGM_EVE_ENDING_05_MIX.dspadpcm.bcstm"
+    type: betting
+  - id: time_to_part_ways
+    title: "Time to Part Ways"
+    path: "BGM_EVE_ENDING_08.dspadpcm.bcstm"
+    type: break
+  - id: the_coming_danger_arrangement_1
+    title: "The Coming Danger Arrangement 1"
+    path: "BGM_EVE_FEAR_03.dspadpcm.bcstm"
+    type: warning
+  - id: let_s_go_to_school
+    title: "Let's Go to School!"
+    path: "BGM_EVE_GAKKOU_01.dspadpcm.bcstm"
+    type: betting
+  - id: vice_principal_watchog_s_theme
+    title: "Vice Principal Watchog's Theme"
+    path: "BGM_EVE_GAKKOU_03.dspadpcm.bcstm"
+    type: result
+  - id: treasure_within_your_heart
+    title: "Treasure Within Your Heart"
+    path: "BGM_EVE_HAPPY.dspadpcm.bcstm"
+    type: result
+  - id: entrusted_hope
+    title: "Entrusted Hope"
+    path: "BGM_EVE_KIBOUNOTOBIRA.dspadpcm.bcstm"
+    type: betting
+  - id: voidlands
+    title: "Voidlands"
+    path: "BGM_EVE_KYOMUNOSEKAI.dspadpcm.bcstm"
+    type: break
+  - id: something_is_amiss
+    title: "Something is Amiss..."
+    path: "BGM_EVE_NANIKAGACHIGAU.dspadpcm.bcstm"
+    type: warning
+  - id: mystery_of_fossils
+    title: "Mystery of Fossils"
+    path: "BGM_EVE_NAZO_04.dspadpcm.bcstm"
+    type: warning
+  - id: serene_village
+    title: "Serene Village"
+    path: "BGM_EVE_ODAYAKA_01.dspadpcm.bcstm"
+    type: betting
+  - id: power_of_pokemon
+    title: "Power of Pokémon"
+    path: "BGM_EVE_POKEMON_NO_CHIKARA.dspadpcm.bcstm"
+    type: warning
+  - id: we_definitely_take_you_down
+    title: "We'll Definitely... Take You Down!"
+    path: "BGM_EVE_POKEMON_NO_CHIKARA_02.dspadpcm.bcstm"
+    type: warning
+  - id: within_the_sadness
+    title: "Within the Sadness"
+    path: "BGM_EVE_SAD.dspadpcm.bcstm"
+    type: break
+  - id: trio_of_sacred_legends
+    title: "Trio of Sacred Legends"
+    path: "BGM_EVE_SANSEIJUU.dspadpcm.bcstm"
+    type: warning
+  - id: the_end_pokemon_super_mystery_dungeon
+    title: "The End"
+    path: "BGM_EVE_STAFFCREDIT.dspadpcm.bcstm"
+    type: betting
+  - id: oh_no_this_is_bad
+    title: "Oh No! This is Bad!"
+    path: "BGM_EVE_TENSION_02.dspadpcm.bcstm"
+    type: warning
+  - id: void_shadows
+    title: "Void Shadows"
+    path: "BGM_EVE_THEME_DARKMATTER_01.dspadpcm.bcstm"
+    type: break
+  - id: tree_of_life_island_of_the_south
+    title: "Tree of Life: Island of the South"
+    path: "BGM_EVE_THEME_LIFETREE_04.dspadpcm.bcstm"
+    type: betting
   - id: partners_theme_psmd
     title: "Partner's Theme"
     path: "BGM_EVE_THEME_PARTNER_01.dspadpcm.bcstm"
     type: break
-  - id: poliwrath_river
-    title: "Poliwrath River"
-    path: "BGM_DUN_08.dspadpcm.bcstm"
+  - id: no_frustration_no_giving_up
+    title: "No Frustration, No Giving Up"
+    path: "BGM_EVE_THEME_PARTNER_02.dspadpcm.bcstm"
+    type: betting
+  - id: partner_s_theme_music_box
+    title: "Partner's Theme: Music Box"
+    path: "BGM_EVE_THEME_PARTNER_03.dspadpcm.bcstm"
     type: break
+  - id: lively_town
+    title: "Lively Town"
+    path: "BGM_EVE_WAIWAITOWN_01.dspadpcm.bcstm"
+    type: betting
+  - id: air_continent_baram_town
+    title: "Air Continent: Baram Town"
+    path: "BGM_MAP_TAIRIKU_KAZE.dspadpcm.bcstm"
+    type: betting
+  - id: mist_continent_noe_town
+    title: "Mist Continent: Noe Town"
+    path: "BGM_MAP_TAIRIKU_KIRI.dspadpcm.bcstm"
+    type: break
+  - id: grass_continent_capim_town
+    title: "Grass Continent: Capim Town"
+    path: "BGM_MAP_TAIRIKU_KUSA.dspadpcm.bcstm"
+    type: betting
+  - id: sand_continent_sahra_town
+    title: "Sand Continent: Sahra Town"
+    path: "BGM_MAP_TAIRIKU_SUNA.dspadpcm.bcstm"
+    type: betting
+  - id: sand_continent_sahra_town
+    title: "Sand Continent: Sahra Town"
+    path: "BGM_MAP_TAIRIKU_SUNA.dspadpcm.bcstm"
+    type: betting
 ...

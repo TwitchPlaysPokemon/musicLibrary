@@ -6,11 +6,11 @@ platform: "PC-98"
 year: 1998
 songs:
   - id: the_last_judgement
-    title: "The Last Judgement"
+    title: "the Last Judgement"
     path: "The Last Judgement.brstm"
     type: betting
-  - id: grimoire_of_alice_kaikidan
-    title: "Alice's Extra Theme: The Grimoire of Alice"
+  - id: the_grimoire_of_alice
+    title: "the Grimoire of Alice"
     path: "the Grimoire of Alice.brstm"
     type: betting
   - id: romantic_children
@@ -18,15 +18,27 @@ songs:
     path: "Romantic Children.brstm"
     type: result
   - id: spiritual_heaven
-    title: "Louise's Theme: Spiritual Heaven"
+    title: "Spiritual Heaven"
     path: "Louise's Theme - Spiritual Heaven.brstm"
     type: warning
   - id: legendary_illusion_infinite_being
-    title: "Shinki's Theme: Legendary Illusion ~ Infinite Being"
+    title: "Legendary Illusion ~ Infinite Being"
     path: "Shinki's Theme - Legendary Illusion ~ Infinite Being.brstm"
     type: battle
   - id: alice_in_wonderland
     title: "Alice in Wonderland"
     path: "Alice in Wonderland.brstm"
     type: warning
+  - id: doll_story_doll_of_misery
+    title: "Doll Story ~ Doll of Misery"
+    path: "Doll of Misery.brstm"
+    type: battle
+  - id: doll_story_doll_of_misery_remastered
+    title: "Doll Story ~ Doll of Misery (Remastered)"
+    path: "Doll's Story _ Doll of Misery (Remastered).brstm"
+    type: battle
+  - id: legendary_illusion_infinite_being_mana_kazami_arrange
+    title: "Legendary Illusion ~ Infinite Being (Mana Kazami Arrange)"
+    path: "Legendary Illusion _ Infinite Being (Mana Kazami Arrange).brstm"
+    type: battle
 ...

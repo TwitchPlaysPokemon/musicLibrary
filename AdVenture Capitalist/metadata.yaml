@@ -1,0 +1,20 @@
+---
+id: adventure_capitalist
+title: "AdVenture Capitalist"
+platform: ["PC", "Mobile"]
+year: 2014
+songs: 
+  - id: adventure_capitalist_theme
+    title: "AdVenture Capitalist"
+    path: "AdVenture Capitalist Theme.brstm"
+    type: betting
+  - id: mars
+    title: "Mars"
+    path: "Mars.brstm"
+    type: betting
+  - id: the_moon_adventure_capitalist
+    title: "The Moon"
+    path: "Moon.brstm"
+    ends: 2:55
+    type: betting
+...

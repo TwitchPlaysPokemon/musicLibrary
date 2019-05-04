@@ -6,15 +6,67 @@ is_fanwork: true
 year: 2010
 songs:
   - id: evil_robot_match_megaman_8
-    title: "Evil Robot Fight - MegaMan 8 Chapter Boss (Pre-V5)"
+    title: "Evil Robot (V3A)"
     path: "Evil Robot Fight - MegaMan 8 Chapter Boss (Pre-V5).brstm"
     type: battle
   - id: genesis_unit_fight
-    title: "Genesis Unit Fight - MegaMan & Bass / Wily Tower Chapter Boss"
+    title: "Journey To Genesis"
     path: "Genesis Unit Fight - MegaMan&BassWily Tower Chapter Boss.brstm"
     type: battle
   - id: ctf13_penguins_of_the_apocolyps
     title: "CTF13 - Penguins of the Apocalypse"
     path: "CTF13 - Penguins of the Apocalypse.brstm"
     type: betting
+  - id: fake_man_chase
+    title: "Untrustworthy Cops"
+    path: "FAKEBOSS.logg"
+    type: betting
+  - id: met_daddy
+    title: "Met Daddy"
+    path: "COSSBOSS.logg"
+    type: warning
+  - id: dr_lights_lab_mm8bdm
+    title: "Dr. Light's Lab"
+    path: "DRLIGHT.logg"
+    type: betting
+  - id: guts_dozer
+    title: "Guts Dozer"
+    path: "GUTSBOSS.logg"
+    type: warning
+  - id: intro_mm8bdm
+    title: "Main Theme"
+    path: "MM8BDM.logg"
+    type: result
+  - id: evil_robot_berserk
+    title: "Evil Robot (Berserk)"
+    path: "ERBESERK.logg"
+    type: warning
+  - id: gamma_into_mm8bdm
+    title: "Gamma Cometh"
+    path: "GTENSION.logg"
+    type: warning
+  - id: proto_man_boss_mm8bdm
+    title: "A Case Of The Blues"
+    path: "PROMBOSS.logg"
+    type: battle
+  - id: team_up_mm8bdm
+    title: "Against The Odds"
+    path: "PROMTEAM.logg"
+    type: betting
+  - id: dr_wily_mm8bdm
+    title: "The Great Genius Dr. Wily"
+    path: "MM1PWILY.logg"
+    type: warning
+  - id: quint_phase_1
+    title: "Quint Fight - Phase 1"
+    path: "QUIBOSS1.logg"
+    type: battle
+  - id: quint_phase_2
+    title: "Quint Fight - Phase 2"
+    path: "QUIBOSS2.logg"
+    type: warning
+  - id: your_world_our_world_mm8bdm
+    title: "Your World, Our World"
+    path: "RBNZAINT.logg"
+    type: warning
 ...

@@ -173,6 +173,11 @@ songs:
     title: "Tales From the Rift"
     path: "Tales From the Rift.brstm"
     type: warning
+  - id: april_fools_2019
+    title: "April Fools 2019"
+    path: "April Fools 2019.brstm"
+    ends: 2:20
+    type: betting
   - id: zoe_the_aspect_of_twilight
     title: "Zoe, the Aspect of Twilight"
     path: "Zoe, the Aspect of Twilight.brstm"
@@ -182,5 +187,20 @@ songs:
     title: "Slayer Jinx"
     path: "Zombie Slayers.brstm"
     ends: 2:40
+    type: betting
+  - id: dj_sona_kinetic_crescendo_rank_1
+    title: "DJ Sona - Kinetic (Crescendo Rank 1)"
+    path: "DJ Sona - Kinetic (Crescendo Rank 1).brstm"
+    ends: 4:00
+    type: betting
+  - id: dj_sona_kinetic_crescendo_rank_2
+    title: "DJ Sona - Kinetic (Crescendo Rank 2)"
+    path: "DJ Sona - Kinetic (Crescendo Rank 2).brstm"
+    ends: 4:00
+    type: betting
+  - id: dj_sona_kinetic_crescendo_rank_3
+    title: "DJ Sona - Kinetic (Crescendo Rank 3)"
+    path: "DJ Sona - Kinetic (Crescendo Rank 3).brstm"
+    ends: 4:00
     type: betting
 ...

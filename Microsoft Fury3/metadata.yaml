@@ -1,0 +1,31 @@
+---
+id: microsoft_fury3
+title: "Microsoft Fury³"
+platform: "PC"
+year: 1995
+songs: 
+  - id: into_the_fray_planet_fury
+    title: "Into The Fray - Planet Fury"
+    path: "Kyle Richards - Into The Fray [Fury3 1995].brstm"
+    type: battle
+  - id: city_boss
+    title: "City Boss"
+    path: "City Boss.brstm"
+    type: warning
+  - id: terran
+    title: "Terran"
+    path: "Fury 3- Kyle Richards - Terran.brstm"
+    type: betting
+  - id: terran_boss
+    title: "Terran Boss"
+    path: "Kyle Richards - Terran Boss [Fury3 1995] (Stereo Edit).brstm"
+    type: warning
+  - id: fury3_title_screen
+    title: "Fury³ Title Screen"
+    path: "Fury3 Intro.brstm"
+    type: betting
+  - id: mine_boss
+    title: "Mine Boss"
+    path: "Mine Boss.brstm"
+    type: warning
+...

@@ -1,0 +1,11 @@
+---
+id: sonic_dash
+title: "Sonic Dash"
+platform: ["PC", "Mobile"]
+year: 2013
+songs: 
+  - id: main_bgm_sonic_dash
+    title: "Main BGM"
+    path: "Main BGM.brstm"
+    type: betting
+...

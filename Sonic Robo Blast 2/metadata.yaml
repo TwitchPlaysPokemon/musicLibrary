@@ -74,7 +74,7 @@ songs:
     title: "Castle Eggman Zone Act 2"
     path: "Castle Eggman Zone Act 2.logg"
     type: betting
-  - id: character_select_sbr2
+  - id: character_select_srb2
     title: "Character Select"
     path: "Character Select.logg"
     type: warning
@@ -180,9 +180,9 @@ songs:
     path: "Mystic Realm Boss.logg"
     type: battle
   - id: mystic_realm_zone_mr_final_boss
-    title: "Mystic Realm Zone (MR Final Boss)"
+    title: "Mystic Realm Zone"
     path: "Mystic Realm Zone (MR Final Boss).logg"
-    type: betting
+    type: warning
   - id: nimbus_ruins_zone
     title: "Nimbus Ruins Zone"
     path: "Nimbus Ruins Zone.logg"

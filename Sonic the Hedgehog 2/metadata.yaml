@@ -57,13 +57,21 @@ songs:
     title: "Final Boss"
     path: "17 - Final Boss.vgz"
     type: warning
+  - id: ending_theme_sonic_the_hedgehog_2
+    title: "Ending Theme"
+    path: "19 - Ending Theme.vgz"
+    type: result
   - id: staff_roll_1992
     title: "Staff Roll"
     path: "20 - Staff Roll.vgz"
     type: result
-  - id: invincibility_sonic2
+  - id: invincibility_sonic_the_hedgehog_2
     title: "Invincibility"
     path: "22 - Invincibility.vgz"
+    type: warning
+  - id: super_sonic
+    title: "Super Sonic"
+    path: "23 - Super Sonic.vgz"
     type: warning
   - id: 2_player_results
     title: "2 Player Results"
@@ -80,5 +88,13 @@ songs:
   - id: mystic_cave_2p
     title: "Mystic Cave (2P)"
     path: "28 - Mystic Cave (2P).vgz"
+    type: betting
+  - id: special_stage_sonic_the_hedgehog_2
+    title: "Special Stage"
+    path: "29 - Special Stage.vgz"
+    type: warning
+  - id: hidden_palace_zone_sonic_the_hedgehog_2
+    title: "Hidden Palace Zone"
+    path: "31 - Hidden Palace Zone.vgz"
     type: betting
 ...

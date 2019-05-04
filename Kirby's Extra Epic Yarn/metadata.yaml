@@ -1,0 +1,19 @@
+---
+id: kirby_s_extra_epic_yarn
+title: "Kirby's Extra Epic Yarn"
+platform: "3DS"
+year: 2019
+songs: 
+  - id: dedede_gogogo
+    title: "Dedede Gogogo"
+    path: "BGM_DEDEDE_3DS.dspadpcm.bcstm"
+    type: betting
+  - id: slash_and_bead
+    title: "Slash and Bead"
+    path: "BGM_DEVIL_LOOP.dspadpcm.bcstm"
+    type: betting
+  - id: devil_appears
+    title: "Devil Appears"
+    path: "BGM_METAKINGHT_3DS.dspadpcm.bcstm"
+    type: warning
+...

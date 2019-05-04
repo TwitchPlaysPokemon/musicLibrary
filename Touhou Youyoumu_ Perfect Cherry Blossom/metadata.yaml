@@ -13,16 +13,33 @@ songs:
     title: "Doll Judgment ~ The Girl who Played with People's Shapes (Remix)"
     path: "Doll Judgement.brstm"
     type: battle
-  - id: necrofantasia_arranged_by_demetori
-    title: "Necrofantasia (arranged by Demetori)"
+  - id: necrofantasia_demetori_arrange
+    title: "Necrofantasia (Demetori arrange)"
     path: "Demetori Necrofantasia.brstm"
     type: battle
   - id: necrofantasia
     title: "Necrofantasia"
     path: "Yukari's Theme - Necrofantasia.brstm"
     type: battle
-  - id: primsriver_sisters_theme_ghostly_band_phantom_ensemble
-    title: "Primsriver Sisters' Theme - Ghostly Band ~ Phantom Ensemble"
+  - id: ghostly_band_phantom_ensemble
+    title: "Ghostly Band ~ Phantom Ensemble"
     path: "Primsriver Sisters' Theme - Ghostly Band _ Phantom Ensemble.brstm"
+    type: battle
+  - id: bloom_nobly_ink_black_cherry_blossoms_border_of_life
+    title: "Bloom Nobly, Ink-black Cherry Blossoms ~ Border of Life"
+    path: "Bloom Nobly, Cherry Blossoms of Sumizone _ Border of Life.brstm"
+    type: battle
+  - id: bloom_nobly_ink_black_cherry_blossoms_border_of_life_house_set_ver
+    title: "Bloom Nobly, Ink-black Cherry Blossoms ~ Border of Life (House Set Ver.)"
+    path: "Bloom Nobly, Cherry Blossoms of Sumizone _ Border of Life (House Set V.brstm"
+    ends: 3:40
+    type: betting
+  - id: the_fantastic_tales_from_tohno
+    title: "The Fantastic Tales from Tohno"
+    path: "The Fantastic Tales from Tono.brstm"
+    type: betting
+  - id: the_ultimate_truth_dnb_remix
+    title: "The Ultimate Truth (DnB remix)"
+    path: "The Ultimate Truth (DnB).brstm"
     type: battle
 ...

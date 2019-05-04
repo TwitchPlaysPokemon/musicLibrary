@@ -1,0 +1,19 @@
+---
+id: puyo_puyo_gb
+title: "Puyo Puyo [GB]"
+platform: "GB"
+year: 1994
+songs: 
+  - id: final_of_puyo_puyo_gb
+    title: "Final of Puyo Puyo"
+    path: "04 BGM #04.brstm"
+    type: betting
+  - id: sticker_of_puyo_puyo_gb
+    title: "Sticker of Puyo Puyo"
+    path: "10 BGM #08.brstm"
+    type: betting
+  - id: theme_of_puyo_puyo_gb
+    title: "Theme of Puyo Puyo"
+    path: "11 BGM #09.brstm"
+    type: betting
+...

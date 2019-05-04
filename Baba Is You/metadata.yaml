@@ -1,0 +1,63 @@
+---
+id: baba_is_you_game
+title: "Baba Is You"
+platform: ["PC, Switch"]
+year: 2019
+songs: 
+  - id: baba_is_you
+    title: "Baba Is You"
+    path: "menu.logg"
+    type: betting
+  - id: on_the_island
+    title: "On the island"
+    path: "map.logg"
+    type: break
+  - id: wall_is_stop_the_beginning
+    title: "Wall Is Stop - The beginning"
+    path: "baba.logg"
+    type: betting
+  - id: water_is_sink_the_lake
+    title: "Water Is Sink - The lake"
+    path: "float.logg"
+    type: betting
+  - id: cog_is_push_solitary_isle
+    title: "Cog Is Push - Solitary isle"
+    path: "factory.logg"
+    type: betting
+  - id: leaf_is_move_forest_of_fall
+    title: "Leaf Is Move - Forest of fall"
+    path: "burn.logg"
+    type: betting
+  - id: box_has_key_temple_ruins
+    title: "Box Has Key - Temple ruins"
+    path: "ruin.logg"
+    type: betting
+  - id: tree_is_shift_deep_forest
+    title: "Tree Is Shift - Deep forest"
+    path: "forest.logg"
+    type: betting
+  - id: rocket_is_dust_space
+    title: "Rocket Is Dust - Space"
+    path: "stars.logg"
+    ends: 3:04
+    type: betting
+  - id: fruit_on_grass_garden
+    title: "Fruit On Grass - Garden"
+    path: "garden.logg"
+    ends: 2:45
+    type: betting
+  - id: lava_is_hot_cavern
+    title: "Lava Is Hot - Cavern"
+    path: "cave.logg"
+    ends: 3:08
+    type: betting
+  - id: bird_is_float_mountain
+    title: "Bird Is Float - Mountain"
+    path: "mountain.logg"
+    type: break
+  - id: flag_is_win_ending_theme
+    title: "Flag Is Win - Ending theme"
+    path: "ending.ogg"
+    ends: 2:25
+    type: betting
+...

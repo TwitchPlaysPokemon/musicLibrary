@@ -1,0 +1,45 @@
+---
+id: ojisan_monster
+title: "Ojisan Monster"
+series: pokemon
+platform: "Mobile"
+is_fanwork: true
+year: 2013
+songs:
+  - id: underground_ojimon
+    title: "Underground Mine"
+    path: "chika.logg"
+    type: warning
+  - id: title_ojimon
+    title: "Title Screen"
+    path: "title.logg"
+    type: result
+  - id: level1_ojimon
+    title: "Level 1"
+    path: "level1.logg"
+    type: betting
+  - id: level2_ojimon
+    title: "Level 2"
+    path: "level2.logg"
+    type: betting
+  - id: level3_ojimon
+    title: "Level 3"
+    path: "level3.logg"
+    type: betting
+  - id: level4_ojimon
+    title: "Level 4"
+    path: "level4.logg"
+    type: betting
+  - id: level5_ojimon
+    title: "Level 5"
+    path: "level5.logg"
+    type: betting
+  - id: level6_ojimon
+    title: "Level 6"
+    path: "level6.logg"
+    type: betting
+  - id: level7_ojimon
+    title: "Level 7"
+    path: "level7.logg"
+    type: betting
+...

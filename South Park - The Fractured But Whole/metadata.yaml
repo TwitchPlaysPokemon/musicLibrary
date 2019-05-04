@@ -1,3 +1,4 @@
+---
 id: south_park_the_fractured_but_whole
 title: "South Park: The Fractured But Whole"
 series: southpark
@@ -17,3 +18,12 @@ songs:
     title: "Spontaneous Bootay"
     path: "Spontaneous Bootay.wav"
     type: warning
+  - id: the_broflovskis_unused
+    title: "The Broflovskis (Unused)"
+    path: "The Broflovskis (Unused).brstm"
+    type: betting
+  - id: ending_credits_south_park_the_fractured_but_whole
+    title: "Ending Credits"
+    path: "847889454.wav"
+    type: warning
+...

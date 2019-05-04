@@ -5,80 +5,80 @@ series: sonic
 platform: ["Wii", "360", "PS3"]
 year: 2008
 songs: 
-  - id: adabat_jungle_joyride_day
-    title: "Adabat - Jungle Joyride Day"
+  - id: jungle_joyride_day
+    title: "Jungle Joyride - Day"
     path: "Adabat - Jungle Joyride Day.brstm"
     type: battle
   - id: adabat_day
-    title: "Adabat Day"
+    title: "Adabat - Day"
     path: "Adabat Day.brstm"
     type: betting
-  - id: apotos_windmill_isle_day
-    title: "Apotos - Windmill Isle Day"
+  - id: windmill_isle_day
+    title: "Windmill Isle - Day"
     path: "Apotos - Windmill Isle Day.brstm"
     type: battle
-  - id: boss_dark_gaia_running
-    title: "Boss - Dark Gaia (Running)"
+  - id: dark_gaia_phase_1_running
+    title: "Dark Gaia Phase 1 (Running)"
     path: "Boss - Dark Gaia (Running).brstm"
     type: battle
-  - id: boss_perfect_dark_gaia
-    title: "Boss - Perfect Dark Gaia"
+  - id: super_sonic_vs_perfect_dark_gaia
+    title: "Super Sonic vs. Perfect Dark Gaia"
     path: "Boss - Perfect Dark Gaia.brstm"
     type: battle
-  - id: chun_nan_dragon_road_day
-    title: "Chun-Nan - Dragon Road Day"
+  - id: dragon_road_day
+    title: "Dragon Road - Day"
     path: "Chun-Nan - Dragon Road Day.brstm"
     type: battle
-  - id: chun_nan_dragon_road_night
-    title: "Chun-Nan - Dragon Road Night"
+  - id: dragon_road_night
+    title: "Dragon Road - Night"
     path: "Chun-Nan - Dragon Road Night.brstm"
     type: betting
-  - id: shamar_arid_sands_night
-    title: "Shamar - Arid Sands Night"
+  - id: arid_sands_night
+    title: "Arid Sands - Night"
     path: "Shamar - Arid Sands Night.brstm"
     type: betting
   - id: shamar_day
-    title: "Shamar Day"
+    title: "Shamar - Day"
     path: "Shamar Day.brstm"
     type: betting
   - id: chun_nan_night
-    title: "Chun-Nan Night"
+    title: "Chun-nan - Night"
     path: "Chun-Nan Night.brstm"
     type: break
-  - id: adabat_jungle_joyride_night
-    title: "Adabat - Jungle Joyride Night"
+  - id: jungle_joyride_night
+    title: "Jungle Joyride - Night"
     path: "Adabat - Jungle Joyride Night.brstm"
     type: betting
-  - id: apotos_windmill_isle_night
-    title: "Apotos - Windmill Isle Night"
+  - id: windmill_isle_night
+    title: "Windmill Isle - Night"
     path: "Apotos - Windmill Isle Night.brstm"
     type: betting
   - id: spagonia_night
-    title: "Spagonia Night"
+    title: "Spagonia - Night"
     path: "Spagonia Night.brstm"
     type: break
   - id: apotos_night
-    title: "Apotos Night"
+    title: "Apotos - Night"
     path: "Apotos Night.brstm"
     type: break
   - id: adabat_night
-    title: "Adabat Night"
+    title: "Adabat - Night"
     path: "Adabat Night.brstm"
     type: break
   - id: apotos_day
-    title: "Apotos Day"
+    title: "Apotos - Day"
     path: "Apotos Day.brstm"
     type: break
   - id: empire_city_day
-    title: "Empire City Day"
+    title: "Empire City - Day"
     path: "Empire City Day.brstm"
     type: break
   - id: spagonia_day
-    title: "Spagonia Day"
+    title: "Spagonia - Day"
     path: "Spagonia Day.brstm"
     type: break
   - id: holoska_day
-    title: "Holoska Day"
+    title: "Holoska - Day"
     path: "Holoska Day.brstm"
     tags: [xmas]
     type: break
@@ -90,4 +90,137 @@ songs:
     title: "Result Screen"
     path: "Result.brstm"
     type: result
+  - id: windmill_isle_suburbs_day
+    title: "Windmill Isle Suburbs - Day"
+    path: "105a - Tomoya Ohtani - Windmill Isle (Day - Act 1).aax"
+    type: betting
+  - id: vs_dark_gaia
+    title: "vs. Dark Gaia"
+    path: "322a - Hideaki Kobayashi - vs. Dark Gaia (Air).aax"
+    type: warning
+  - id: boss_battle_night
+    title: "Boss Battle - Night"
+    path: "206 - Hideaki Kobayashi - Boss Battle (Night).aax"
+    type: warning
+  - id: vs_egg_dragoon
+    title: "vs. Egg Dragoon"
+    path: "318 - Hideaki Kobayashi - vs. Egg Dragoon.aax"
+    type: battle
+  - id: boss_battle_day
+    title: "Boss Battle - Day"
+    path: "123a - Hideaki Kobayashi - Boss Battle (Day).aax"
+    type: battle
+  - id: vs_titan_big_mother
+    title: "vs. Titan & Big Mother"
+    path: "224 - Kenichi Tokoi - vs. Titan & Big Mother.aax"
+    type: warning
+  - id: chun_nan_day
+    title: "Chun-nan - Day"
+    path: "210 - Kenichi Tokoi - Chun-nan (Day).aax"
+    ends: 2:54
+    type: betting
+  - id: cutscene_opening
+    title: "Cutscene - Opening"
+    path: "Cutscene - Opening.brstm"
+    type: warning
+  - id: eggmanlan_day
+    title: "Eggmanland - Day"
+    path: "313a - Kenichi Tokoi - Eggmanland (Day).aax"
+    type: battle
+  - id: eggmanlan_night
+    title: "Eggmanland - Night"
+    path: "314 - Kenichi Tokoi - Eggmanland (Night).aax"
+    ends: 2:56
+    type: betting
+  - id: eggmanland_entrance
+    title: "Eggmanland Entrance"
+    path: "312 - Hideaki Kobayashi - Eggmanland Entrance.aax"
+    type: warning
+  - id: skyscraper_scamper_day
+    title: "Skyscraper Scamper - Day"
+    path: "226 - Fumie Kumatani - Skyscraper Scamper (Day).aax"
+    type: battle
+  - id: skyscraper_scamper_night
+    title: "Skyscraper Scamper - Night"
+    path: "220 - Fumie Kumatani - Skyscraper Scamper (Night).aax"
+    type: betting
+  - id: empire_city_night
+    title: "Empire City - Night"
+    path: "218 - Fumie Kumatami - Empire City (Night).aax"
+    type: break
+  - id: gaia_gate
+    title: "Gaia Gate"
+    path: "bgm_twn_ent.adx"
+    type: betting
+  - id: cool_edge_day
+    title: "Cool Edge - Day"
+    path: "128a - Tomoya Ohtani - Cool Edge (Day).aax"
+    type: battle
+  - id: cool_edge_night
+    title: "Cool Edge - Night"
+    path: "214 - Fumie Kumatani - Cool Edge (Night).aax"
+    type: betting
+  - id: holoska_night
+    title: "Holoska - Night"
+    path: "212 - Fumie Kumatani - Holoska (Night).aax"
+    type: break
+  - id: savannah_citadel_day
+    title: "Savannah Citadel - Day"
+    path: "121a - Tomoya Ohtani - Savannah Citadel (Day).aax"
+    type: betting
+  - id: savannah_citadel_night
+    title: "Savannah Citadel - Night"
+    path: "115 - Fumie Kumatani - Savannah Citadel (Night).aax"
+    ends: 2:32
+    type: betting
+  - id: mazuri_day
+    title: "Mazuri - Day"
+    path: "120 - Fumie Kumatani - Mazuri (Day).aax"
+    type: betting
+  - id: mazuri_night
+    title: "Mazuri - Night"
+    path: "113 - Fumie Kumatani - Mazuri (Night).aax"
+    type: break
+  - id: the_world_adventure_piano_version
+    title: "The World Adventure - Piano Version"
+    path: "229 - Tomoya Ohtani - The World Adventure (Piano Version).aax"
+    type: break
+  - id: menu_sonic_unleashed
+    title: "Menu"
+    path: "999 - Menu.aax"
+    type: result
+  - id: werehog_battle_theme
+    title: "Werehog Battle Theme"
+    path: "301a - Kenichi Tokoi - Werehog Battle Theme.aax"
+    type: battle
+  - id: arid_sands_day
+    title: "Arid Sands - Day"
+    path: "217a - Tomoya Ohtani - Arid Sands (Day).aax"
+    type: betting
+  - id: shamar_night
+    title: "Shamar - Night"
+    path: "221 - Kenichi Tokoi - Shamar (Night).aax"
+    ends: 3:01
+    type: betting
+  - id: rooftop_run_day
+    title: "Rooftop Run - Day"
+    path: "208a - Tomoya Ohtani - Rooftop Run (Day).aax"
+    type: battle
+  - id: rooftop_run_day_night
+    title: "Rooftop Run - Night"
+    path: "131 - Tomoya Ohtani - Rooftop Run (Night).aax"
+    ends: 2:45
+    type: betting
+  - id: tornado Defense_1st_battle
+    title: "Tornado Defense - 1st Battle"
+    path: "112 - Fumie Kumatani - Tornado Defence (1st Battle).aax"
+    type: betting
+  - id: tornado Defense_2nd_battle
+    title: "Tornado Defense - 2nd Battle"
+    path: "310 - Fumie Kumatani - Tornado Defense (2nd Battle).aax"
+    type: betting
+  - id: the_world_adventure_orchestral_theme
+    title: "The World Adventure - Orchestral Theme -"
+    path: "201a - Takahito Eguchi, Tomoya Ohtani, Tokyo Philharmonic Orchestra - The World Adventure.aax"
+    type: betting
 ...

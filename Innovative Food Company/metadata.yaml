@@ -1,0 +1,31 @@
+---
+id: innovative_food_company
+title: "Innovative Food Company"
+platform: "PC"
+year: 2017
+songs:
+  - id: credits_ifc
+    title: "Credits"
+    path: "m_credits.logg"
+    type: result
+  - id: easy_ifc
+    title: "Easy Mode"
+    path: "m_easy"
+    type: betting
+  - id: hard_ifc
+    title: "Hard Mode"
+    path: "m_hard.brstm"
+    type: battle
+  - id: intro_ifc
+    title: "Intro"
+    path: "m_intro.brstm"
+    type: break
+  - id: medium_ifc
+    title: "Medium Mode"
+    path: "m_medium.brstm"
+    type: betting
+  - id: menu_ifc
+    title: "Menu"
+    path: "m_menu.logg"
+    type: betting
+...

@@ -582,4 +582,16 @@ songs:
     title: "Noisy Notebook"
     path: "r79_snp_w1stage.lopus"
     type: betting
+  - id: beneath_the_mask_ssbu
+    title: "Beneath the Mask"
+    path: "ps11_p5_beneath_themask.lopus"
+    type: betting
+  - id: i_ll_face_myself_ssbu
+    title: "I'll Face Myself"
+    path: "ps04_p4_illface_myself.lopus"
+    type: battle
+  - id: aria_of_the_soul
+    title: "Aria of the Soul"
+    path: "ps10_p5_subetenohitono_tamashiinouta.lopus"
+    type: battle
 ...

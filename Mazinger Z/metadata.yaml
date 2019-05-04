@@ -1,0 +1,55 @@
+---
+id: mazinger_z
+title: "Mazinger Z"
+platform: "Arcade"
+year: 1994
+songs: 
+  - id: character_selection
+    title: "Character Selection"
+    path: "Character Selection.brstm"
+    type: warning
+  - id: final_story_boss
+    title: "Final Story Boss"
+    path: "Final Story Boss.brstm"
+    type: warning
+  - id: name_entry_mazinger_z
+    title: "Name Entry"
+    path: "Name Entry.brstm"
+    type: betting
+  - id: story_1
+    title: "Story 1"
+    path: "Story 1.brstm"
+    type: betting
+  - id: story_2
+    title: "Story 2"
+    path: "Story 2.brstm"
+    type: betting
+  - id: story_3
+    title: "Story 3"
+    path: "Story 3.brstm"
+    type: betting
+  - id: story_4
+    title: "Story 4"
+    path: "Story 4.brstm"
+    type: warning
+  - id: story_5
+    title: "Story 5"
+    path: "Story 5.brstm"
+    type: betting
+  - id: story_6
+    title: "Story 6"
+    path: "Story 6.brstm"
+    type: betting
+  - id: story_7
+    title: "Story 7"
+    path: "Story 7.brstm"
+    type: warning
+  - id: story_8
+    title: "Story 8"
+    path: "Story 8.brstm"
+    type: betting
+  - id: story_boss
+    title: "Story Boss"
+    path: "Story Boss.brstm"
+    type: warning
+...

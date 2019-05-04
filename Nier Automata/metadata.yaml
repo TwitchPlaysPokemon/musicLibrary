@@ -2,11 +2,15 @@
 id: nier_automata
 title: "Nier: Automata"
 series: drakengard
-year: 2017
 platform: ["PS4", "PC"]
+year: 2017
 songs:
   - id: combat_ii_nier_automata
     title: "Combat II"
     path: "Nier Automata - Combat II.brstm"
+    type: betting
+  - id: birth_of_a_wish
+    title: "Birth of a Wish"
+    path: "Birth of a Wish.brstm"
     type: betting
 ...

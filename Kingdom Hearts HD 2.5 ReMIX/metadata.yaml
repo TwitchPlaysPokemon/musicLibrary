@@ -2,8 +2,8 @@
 id: kingdom_hearts_hd_25_remix
 title: "Kingdom Hearts HD 2.5 ReMIX"
 series: kingdomhearts
-year: 2014
 platform: "PS3"
+year: 2014
 songs:
   - id: the_encounter
     title: "The Encounter"
@@ -53,4 +53,8 @@ songs:
     title: "Dearly Beloved"
     path: "Dearly Beloved.brstm"
     type: break
+  - id: dismiss
+    title: "Dismiss"
+    path: "Dismiss.brstm"
+    type: battle
 ...

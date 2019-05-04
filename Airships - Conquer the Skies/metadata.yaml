@@ -1,0 +1,69 @@
+---
+id: airships_conquer_the_skies
+title: "Airships - Conquer the Skies"
+platform: "PC"
+year: 2018
+songs: 
+  - id: airships
+    title: "Airships"
+    path: "Airships.mp3"
+    ends: 2:25
+    type: betting
+  - id: ares
+    title: "Ares"
+    path: "Ares.mp3"
+    ends: 2:09
+    type: betting
+  - id: brigands
+    title: "Brigands"
+    path: "Brigands.mp3"
+    ends: 2:21
+    type: betting
+  - id: hesperus
+    title: "Hesperus"
+    path: "Hesperus.mp3"
+    type: betting
+  - id: infernal_machines
+    title: "Infernal Machines"
+    path: "Infernal Machines.mp3"
+    ends: 2:50
+    type: betting
+  - id: kartikeya
+    title: "Kartikeya"
+    path: "Kartikeya.mp3"
+    ends: 2:48
+    type: betting
+  - id: mechanisms
+    title: "Mechanisms"
+    path: "Mechanisms.brstm"
+    type: battle
+  - id: monsters
+    title: "Monsters"
+    path: "Monsters.mp3"
+    ends: 2:12
+    type: betting
+  - id: occult
+    title: "Occult"
+    path: "Occult.mp3"
+    type: warning
+  - id: pirates
+    title: "Pirates"
+    path: "Pirates.mp3"
+    type: betting
+  - id: shipyards
+    title: "Shipyards"
+    path: "Shipyards.mp3"
+    type: betting
+  - id: stratospheres
+    title: "Stratospheres"
+    path: "Stratospheres.mp3"
+    type: break
+  - id: suspensions
+    title: "Suspensions"
+    path: "Suspensions.mp3"
+    type: betting
+  - id: xiuhtecuhtli
+    title: "Xiuhtecuhtli"
+    path: "Xiuhtecuhtli.mp3"
+    type: warning
+...

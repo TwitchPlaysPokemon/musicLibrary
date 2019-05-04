@@ -1,0 +1,55 @@
+---
+id: puzzle_dragons
+title: "Puzzle & Dragons"
+platform: "Mobile"
+year: 2012
+songs: 
+  - id: departure_pad
+    title: "Departure"
+    path: "bgm_02.logg"
+    type: betting
+  - id: walking_through_the_towers
+    title: "Walking Through The Towers"
+    path: "bgm_03.logg"
+    type: warning
+  - id: a_new_journey
+    title: "A New Journey"
+    path: "bgm_04.logg"
+    type: betting
+  - id: the_orb_festival
+    title: "The Orb Festival"
+    path: "bgm_05.logg"
+    type: battle
+  - id: holding_hands
+    title: "Holding Hands"
+    path: "bgm_06.logg"
+    type: betting
+  - id: unite_the_force
+    title: "Unite the Force"
+    path: "bgm_07.logg"
+    type: battle
+  - id: brand_new_days
+    title: "Brand-New Days"
+    path: "bgm_ldf.logg"
+    type: betting
+  - id: warriors_fest
+    title: "Warriors Fest"
+    path: "bgm_ldb.logg"
+    type: battle
+  - id: dragon_forest
+    title: "Dragon Forest"
+    path: "bgm_080.logg"
+    type: betting
+  - id: dragon_forest_boss
+    title: "Dragon Forest (Boss)"
+    path: "bgm_081.logg"
+    type: battle
+  - id: departure_a_new_journey_memorial_mix
+    title: "Departure & A New Journey (Memorial Mix)"
+    path: "bgm_090.logg"
+    type: betting
+  - id: future_gate
+    title: "Future Gate"
+    path: "bgm_091.logg"
+    type: battle
+...

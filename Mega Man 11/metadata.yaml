@@ -1,0 +1,192 @@
+---
+id: mega_man_11
+title: "Mega Man 11"
+platform: "Various"
+year: 2018
+songs: 
+  - id: prologue_mega_man_11
+    title: "PROLOGUE"
+    path: "bgm_ev_01.sngw"
+    ends: 1:24
+    type: betting
+  - id: title_mega_man_11
+    title: "TITLE"
+    path: "bgm_title.sngw"
+    type: betting
+  - id: another_day_in_the_lab
+    title: "ANOTHER DAY IN THE LAB"
+    path: "bgm_ev_02.sngw"
+    type: break
+  - id: evil_machinations
+    title: "EVIL MACHINATIONS"
+    path: "bgm_ev_03.sngw"
+    type: warning
+  - id: the_courage_to_fight
+    title: "THE COURAGE TO FIGHT"
+    path: "bgm_ev_04.sngw"
+    type: betting
+  - id: stage_select_mega_man_11
+    title: "STAGE SELECT"
+    path: "bgm_select_01.sngw"
+    type: betting
+  - id: block_man_stage
+    title: "BLOCK MAN STAGE"
+    path: "bgm_st001.sngw"
+    type: betting
+  - id: acid_man_stage
+    title: "ACID MAN STAGE"
+    path: "bgm_st002.sngw"
+    type: betting
+  - id: pile_man_stage
+    title: "PILE MAN STAGE"
+    path: "bgm_st003.sngw"
+    type: betting
+  - id: rubber_man_stage
+    title: "RUBBER MAN STAGE"
+    path: "bgm_st004.sngw"
+    type: betting
+  - id: fuse_man_stage
+    title: "FUSE MAN STAGE"
+    path: "bgm_st005.sngw"
+    type: betting
+  - id: tundra_man_stage
+    title: "TUNDRA MAN STAGE"
+    path: "bgm_st006.sngw"
+    type: betting
+  - id: torch_man_stage
+    title: "TORCH MAN STAGE"
+    path: "bgm_st007.sngw"
+    type: betting
+  - id: blast_man_stage
+    title: "BLAST MAN STAGE"
+    path: "bgm_st008.sngw"
+    type: betting
+  - id: boss_mega_man_11
+    title: "BOSS"
+    path: "bgm_boss.sngw"
+    type: battle
+  - id: get_a_weapon_mega_man_11
+    title: "GET A WEAPON"
+    path: "bgm_weaponget.sngw"
+    type: result
+  - id: shop_mega_man_11
+    title: "SHOP"
+    path: "bgm_shop.sngw"
+    type: result
+  - id: regretful_memories
+    title: "REGRETFUL MEMORIES"
+    path: "bgm_ev_01_v2.sngw"
+    type: betting
+  - id: dr_wily_stage_map_mega_man_11
+    title: "Dr.WILY STAGE MAP"
+    path: "bgm_select_02.sngw"
+    type: warning
+  - id: dr_wily_stage_mega_man_11
+    title: "Dr.WILY STAGE"
+    path: "bgm_st100.sngw"
+    type: betting
+  - id: dr_wily_stage_boss_mega_man_11
+    title: "Dr.WILY STAGE BOSS"
+    path: "bgm_boss_02.sngw"
+    type: warning
+  - id: dr_wily_machine_mega_man_11
+    title: "Dr.WILY MACHINE"
+    path: "bgm_boss_03.sngw"
+    type: warning
+  - id: last_battle_mega_man_11
+    title: "LAST BATTLE"
+    path: "bgm_boss_05.sngw"
+    type: battle
+  - id: wily_s_last_resort
+    title: "WILY'S LAST RESORT"
+    path: "bgm_ev_03_v2.sngw"
+    type: warning
+  - id: staff_roll_1_mega_man_11
+    title: "STAFF ROLL 1"
+    path: "bgm_ev_05_01.sngw"
+    type: result
+  - id: staff_roll_2_mega_man_11
+    title: "STAFF ROLL 2"
+    path: "bgm_ev_05_02.sngw"
+    type: betting
+  - id: game_menu_mega_man_11
+    title: "GAME MENU"
+    path: "bgm_menu.sngw"
+    type: betting
+  - id: challenges
+    title: "CHALLENGES"
+    path: "bgm_st400.sngw"
+    type: betting
+  - id: challenges_time_limit_ver
+    title: "CHALLENGES (TIME LIMIT VER.)"
+    path: "bgm_st401.sngw"
+    type: betting
+  - id: challenges_results
+    title: "CHALLENGES: RESULTS"
+    path: "bgm_result.sngw"
+    type: result
+  - id: block_man_stage_instrumental
+    title: "BLOCK MAN STAGE (INSTRUMENTAL)"
+    path: "bgm_st001_dl.sngw"
+    type: betting
+  - id: acid_man_stage_instrumental
+    title: "ACID MAN STAGE (INSTRUMENTAL)"
+    path: "bgm_st002_dl.sngw"
+    type: betting
+  - id: pile_man_stage_instrumental
+    title: "PILE MAN STAGE (INSTRUMENTAL)"
+    path: "bgm_st003_dl.sngw"
+    type: betting
+  - id: rubber_man_stage_instrumental
+    title: "RUBBER MAN STAGE (INSTRUMENTAL)"
+    path: "bgm_st004_dl.sngw"
+    type: betting
+  - id: fuse_man_stage_instrumental
+    title: "FUSE MAN STAGE (INSTRUMENTAL)"
+    path: "bgm_st005_dl.sngw"
+    type: betting
+  - id: tundra_man_stage_instrumental
+    title: "TUNDRA MAN STAGE (INSTRUMENTAL)"
+    path: "bgm_st006_dl.sngw"
+    type: betting
+  - id: torch_man_stage_instrumental
+    title: "TORCH MAN STAGE (INSTRUMENTAL)"
+    path: "bgm_st007_dl.sngw"
+    type: betting
+  - id: blast_man_stage_instrumental
+    title: "BLAST MAN STAGE (INSTRUMENTAL)"
+    path: "bgm_st008_dl.sngw"
+    type: betting
+  - id: block_man_stage_arranged
+    title: "BLOCK MAN STAGE (ARRANGED)"
+    path: "BLOCK MAN STAGE (ARRANGED).mp3"
+    type: betting
+  - id: acid_man_stage_arranged
+    title: "ACID MAN STAGE (ARRANGED)"
+    path: "ACID MAN STAGE (ARRANGED).mp3"
+    type: betting
+  - id: pile_man_stage_arranged
+    title: "PILE MAN STAGE (ARRANGED)"
+    path: "PILE MAN STAGE (ARRANGED).mp3"
+    type: betting
+  - id: rubber_man_stage_arranged
+    title: "RUBBER MAN STAGE (ARRANGED)"
+    path: "RUBBER MAN STAGE (ARRANGED).mp3"
+    type: betting
+  - id: fuse_man_stage_arranged
+    title: "FUSE MAN STAGE (ARRANGED)"
+    path: "FUSE MAN STAGE (ARRANGED).mp3"
+    type: betting
+  - id: tundra_man_stage_arranged
+    title: "TUNDRA MAN STAGE (ARRANGED)"
+    path: "TUNDRA MAN STAGE (ARRANGED).mp3"
+    type: betting
+  - id: torch_man_stage_arranged
+    title: "TORCH MAN STAGE (ARRANGED)"
+    path: "TORCH MAN STAGE (ARRANGED).mp3"
+    type: betting
+  - id: blast_man_stage_arranged
+    title: "BLAST MAN STAGE (ARRANGED)"
+    path: "BLAST MAN STAGE (ARRANGED).mp3"
+    type: betting
+...

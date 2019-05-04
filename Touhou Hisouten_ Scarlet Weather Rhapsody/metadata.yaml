@@ -1,76 +1,80 @@
 ﻿---
 id: touhou_hisouten_scarlet_weather_rhapsody
-platform: "PC"
 title: "Touhou Hisouten ~ Scarlet Weather Rhapsody"
 series: touhou
+platform: "PC"
 year: 2008
 songs: 
-  - id: title_screen_evening_sky
+  - id: evening_sky
+    title: "Evening Sky"
     path: "Title Screen_ Evening Sky.brstm"
-    title: "Title Screen: Evening Sky"
     type: betting
-  - id: fragrant_flora
+  - id: fragrant_plants
+    title: "Fragrant Plants"
     path: "Fragrant Flora.brstm"
-    title: "Fragrant Flora"
     type: betting
   - id: ridiculous_game
-    path: "Ridiculous Game.brstm"
     title: "Ridiculous Game"
+    path: "Ridiculous Game.brstm"
     type: betting
-  - id: doll_maker_of_bucuresti_swr
+  - id: the_doll_maker_of_bucuresti
+    title: "The Doll Maker of Bucuresti"
     path: "Doll Maker of Bucuresti.brstm"
-    title: "Alice's Theme: Doll Maker of Bucuresti"
     type: betting
-  - id: skies_beyond_the_clouds
+  - id: skies_and_beyond_the_clouds
+    title: "Skies and Beyond the Clouds"
     path: "Skies Beyond the Clouds.brstm"
-    title: "Iku's Pre-Battle Theme: Skies Beyond the Clouds"
     type: betting
   - id: catastrophe_in_bhava_agra_arranged
+    title: "Catastrophe in Bhava-Agra ~ Wonderful Heaven (Arranged)"
     path: "Catastrophe in Bhava-agra ~ Wonderful Heaven (Arranged).brstm"
-    title: "Catastrophe in Bhava-agra ~ Wonderful Heaven (Arranged)"
     type: betting
   - id: mystic_oriental_love_consultation_swr
+    title: "Mystic Oriental Love Consultation"
     path: "Mystic Oriental Love Consultation.brstm"
-    title: "Reimu's Theme: Mystic Oriental Love Consultation"
     type: battle
   - id: vessel_of_stars_casket_of_star_swr
-    title: "Marisa's Theme: Vessel of Stars ~ Casket of Star"
+    title: "Vessel of Stars ~ Casket of Star"
     path: "Vessel of Stars ~ Casket of Star.brstm"
     type: battle
   - id: hiroari_shoots_a_strange_bird_till_when_swr
+    title: "Hiroari Shoots a Strange Bird ~ Till When?"
     path: "Hiroari Shoots a Strange Bird ~ Till When.brstm"
-    title: "Youmu's Theme: Hiroari Shoots a Strange Bird ~ Till When?"
     type: battle
   - id: septette_for_the_dead_princess_swr
+    title: "Septette for the Dead Princess"
     path: "Septette for the Dead Princess.brstm"
-    title: "Remilia's Theme: Septette for the Dead Princess"
     type: battle
   - id: catastrophe_in_bhava_agra_wonderful_heaven
+    title: "Catastrophe in Bhava-Agra ~ Wonderful Heaven"
     path: "Catastrophe in Bhava-agra ~ Wonderful Heaven.brstm"
-    title: "Tenshi's Theme: Catastrophe in Bhava-agra ~ Wonderful Heaven"
     type: warning
-  - id: bhava_agra_as_seen_through_a_childs_mind
+  - id: bhava_agra_as_seen_through_a_child_s_mind
+    title: "Bhava-Agra as Seen Through a Child's Mind"
     path: "Bhava-agra in a Child's Mind.brstm"
-    title: "Tenshi's Last Spell: Bhava-Agra as Seen Through a Child's Mind"
     type: warning
   - id: higan_retour_riverside_view_swr
+    title: "Higan Retour ~ Riverside View"
     path: "Higan Retour ~ Riverside View.brstm"
-    title: "Komachi's Theme: Higan Retour ~ Riverside View"
     type: warning
-  - id: ayas_wind_god_girl
+  - id: wind_god_girl_swr
+    title: "Wind God Girl"
     path: "Wind God Girl (Aya's theme).brstm"
-    title: "Aya's Theme: Wind God Girl"
     type: warning
-  - id: night_falls_evening_star_swr
+  - id: night_falls_swr
+    title: "Night Falls"
     path: "Night Falls ~ Evening Star.brstm"
-    title: "Yukari's Theme: Night Falls ~ Evening Star"
     type: warning
   - id: broken_moon_swr
+    title: "Broken Moon"
     path: "Broken Moon.brstm"
-    title: "Suika's Theme: Broken Moon"
     type: warning
   - id: flawless_clothing_of_the_celestials
+    title: "Flawless Clothing of the Celestials"
     path: "Flawless Clothing of the Celestials.brstm"
-    title: "Tenshi's Pre-Battle Theme: Flawless Clothing of the Celestials"
     type: result
+  - id: the_ground_s_color_is_yellow
+    title: "The Ground's Color is Yellow"
+    path: "The Ground's Color is Yellow.brstm"
+    type: battle
 ...

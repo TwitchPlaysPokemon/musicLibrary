@@ -1,0 +1,55 @@
+---
+id: katana_zero
+title: "Katana ZERO"
+platform: ["PC", "Switch"]
+year: 2019
+songs: 
+  - id: chinatown_katana_zero
+    title: "Chinatown"
+    path: "song_chinatown.logg"
+    type: betting
+  - id: delusive_bunker
+    title: "Delusive Bunker"
+    path: "song_bunker_2.logg"
+    type: betting
+  - id: hit_the_floor
+    title: "Hit The Floor"
+    path: "song_edm.logg"
+    type: betting
+  - id: full_confession
+    title: "Full Confession"
+    path: "song_fullconfession.logg"
+    type: betting
+  - id: prison_air_2
+    title: "Prison Air 2"
+    path: "song_graveyard_2.logg"
+    type: betting
+  - id: kill_your_tv
+    title: "Kill Your TV"
+    path: "song_killyourtv.logg"
+    type: betting
+  - id: psychotherapy
+    title: "Psychotherapy"
+    path: "song_mindgames.logg"
+    type: battle
+  - id: boss_boss_boss
+    title: "Boss Boss Boss"
+    path: "song_monster.logg"
+    type: battle
+  - id: nocturne_co_composed_by_justin_stander
+    title: "Nocturne (Co-composed by Justin Stander)"
+    path: "song_nocturne.logg"
+    type: betting
+  - id: rain_on_brick
+    title: "Rain On Brick"
+    path: "song_rainonbrick.logg"
+    type: break
+  - id: meat_gringer
+    title: "Meat Grinder"
+    path: "song_slaughterhouse.logg"
+    type: betting
+  - id: sneaky_driver
+    title: "Sneaky Driver"
+    path: "song_sneaky_driver.logg"
+    type: betting
+...

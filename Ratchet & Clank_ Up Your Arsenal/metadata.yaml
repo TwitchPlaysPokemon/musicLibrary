@@ -9,16 +9,16 @@ songs:
     path: "Zeldrin Starport.brstm"
     title: "Zeldrin Starport"
     type: betting
-  - id: courtney_gears_battle
-    path: "Courtney Gears Battle.brstm"
+  - id: courtney_gears
+    path: "Courtney Gears.brstm"
     title: "Courtney Gears Battle"
     type: battle
-  - id: the_launch_site_dr_nefarious_boss
-    title: "The Launch Site (Dr. Nefarious Boss)"
+  - id: launch_site
+    title: "Launch Site"
     path: "The Launch Site (Dr. Nefarious Boss).brstm"
     type: battle
-  - id: station_q9_annihilation_nation
-    title: "Station Q9 - Annihilation Nation"
+  - id: annihilation_nation
+    title: "Annihilation Nation"
     path: "Station Q9 - Annihilation Nation.brstm"
     type: break
   - id: koros
@@ -29,12 +29,20 @@ songs:
     title: "Arena Boss"
     path: "Arena Boss.brstm"
     type: battle
-  - id: marcadia_capital_city
-    title: "Marcadia - Capital City"
+  - id: marcadia
+    title: "Marcadia"
     path: "Marcadia - Capital City.brstm"
     type: betting
-  - id: veldin_f_sector
-    title: "Veldin - F-Sector"
+  - id: f_sector
+    title: "F-Sector"
     path: "Veldin - F-Sector.brstm"
     type: battle
+  - id: operation_iron_shield
+    title: "Operation Iron Shield"
+    path: "Marcadia - Operation Iron Shield.brstm"
+    type: battle
+  - id: weapons_facility
+    title: "Weapons Facility"
+    path: "Weapons Facility (Daxx).brstm"
+    type: betting
 ...

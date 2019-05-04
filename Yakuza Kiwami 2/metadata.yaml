@@ -1,0 +1,64 @@
+---
+id: yakuza_kiwami_2
+title: "Yakuza Kiwami 2"
+platform: ["PS4", "PC"]
+year: 2017
+songs: 
+  - id: rebellious_phase
+    title: "Rebellious Phase"
+    path: "bbg_a_00000000.hca"
+    type: battle
+  - id: a_scattered_moment
+    title: "散るは永遠の刹那 (A Scattered Moment)"
+    path: "bbg_a_00000002.hca"
+    ends: 3:31
+    type: betting
+  - id: heading_to_kamurocho_hills
+    title: "Heading to Kamurocho Hills"
+    path: "bbg_a_00000004.hca"
+    type: battle
+  - id: push_me_under_water_yakuza_kiwami_2
+    title: "Push Me Under Water"
+    path: "bbg_a_00000006.hca"
+    type: battle
+  - id: outlaw_s_lullaby_yakuza_kiwami_2
+    title: "Outlaw's Lullaby"
+    path: "bbg_a_00000008.hca"
+    type: battle
+  - id: update_with_gunfire
+    title: "Update With Gunfire"
+    path: "bbg_b_0000001D.hca"
+    type: battle
+  - id: fatally_injured
+    title: "Fatally Injured"
+    path: "bbg_b_00000009.hca"
+    type: warning
+  - id: street_boss
+    title: "Street Boss"
+    path: "bbg_b_00000018.hca"
+    type: battle
+  - id: osaka_castle_raid
+    title: "Osaka Castle Raid"
+    path: "bbg_c_00000005.hca"
+    type: betting
+  - id: unity_of_metal
+    title: "Unity of Metal"
+    path: "bbg_d_00000000.hca"
+    type: battle
+  - id: bad_fotune_not_bad
+    title: "Bad Fotune, Not Bad"
+    path: "bbg_d_00000002.hca"
+    type: battle
+  - id: beast_itself
+    title: "龍騰虎闘 (Beast Itself)"
+    path: "bbg_d_00000004.hca"
+    type: battle
+  - id: cabaret_gp_fever
+    title: "Cabaret GP Fever"
+    path: "caba_bgm_00000002.hca"
+    type: result
+  - id: cabaret_gp_bgm
+    title: "Cabaret GP BGM"
+    path: "caba_bgm_00000004.hca"
+    type: betting
+...

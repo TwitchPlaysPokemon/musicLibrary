@@ -1,32 +1,25 @@
+---
 id: wario_land_2
 title: "Wario Land 2"
 series: wario
 platform: ["GB", "GBC"]
 year: 1998
 songs:
-  - id: stop_that_train_daytime
-    title: "Stop That Train (Daytime)"
+  - id: stop_that_train
+    title: "Stop That Train!"
     path: "Stop That Train (Daytime).brstm"
     type: warning
-  - id: perfect_flagman_dd_title
-    title: "Perfect/Flagman DD Title"
+  - id: perfect_let_s_get_that_treasure
+    title: "Perfect! (Let's Get That Treasure!)"
     path: "Flagman DD Title.brstm"
     type: result
-  - id: anyone_for_bball_fast
-    title: "Anyone for B-Ball (Fast)"
+  - id: unknown_song_1
+    title: "Unknown Song 1"
     path: "Anyone for B-Ball (Fast).brstm"
     type: result
-  - id: flaming_wario
-    title: "Flaming Wario"
+  - id: hot_wario
+    title: "Hot Wario"
     path: "Flaming Wario.brstm"
-    type: warning
-  - id: defeat_the_giant_spearman_ruins_at_the_bottom_of_the_sea
-    title: "Defeat the Giant Spearman (Ruins at the Bottom of the Sea)"
-    path: "Defeat the Giant Spearman (Ruins at the Bottom of the Sea).brstm"
-    type: warning
-  - id: defeat_the_giant_snake
-    title: "Defeat the Giant Snake"
-    path: "Defeat the Giant Snake.brstm"
     type: warning
   - id: end_assessment
     title: "End Assessment"
@@ -36,4 +29,20 @@ songs:
     title: "Ending"
     path: "Ending.brstm"
     type: warning
+  - id: the_journey_home
+    title: "The Journey Home"
+    path: "Staff Roll.brstm"
+    type: betting
+  - id: one_noisy_morning
+    title: "One Noisy Morning"
+    path: "One Noisy Morning.brstm"
+    type: warning
+  - id: the_giant_faucet
+    title: "The Giant Faucet"
+    path: "The Giant Faucet.brstm"
+    type: warning
+  - id: underwater_tunnels
+    title: "Underwater Tunnels"
+    path: "Aquatic Tunnels.brstm"
+    type: break
 ...

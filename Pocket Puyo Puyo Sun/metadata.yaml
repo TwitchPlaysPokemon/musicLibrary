@@ -1,0 +1,31 @@
+---
+id: pocket_puyo_puyo_sun
+title: "Pocket Puyo Puyo Sun"
+platform: ["GB", "GBC"]
+year: 1998
+songs: 
+  - id: easy_mode_pocket_puyo_puyo_sun
+    title: "Easy Mode"
+    path: "11 BGM #09.brstm"
+    type: betting
+  - id: normal_mode_pocket_puyo_puyo_sun
+    title: "Normal Mode"
+    path: "12 BGM #10.brstm"
+    type: betting
+  - id: hard_mode_pocket_puyo_puyo_sun
+    title: "Hard Mode"
+    path: "13 BGM #11.brstm"
+    type: betting
+  - id: rival_mode_pocket_puyo_puyo_sun
+    title: "Rival Mode"
+    path: "14 BGM #12.brstm"
+    type: betting
+  - id: thoroughly_pocket_puyo_puyo_sun
+    title: "Thoroughly"
+    path: "15 BGM #13.brstm"
+    type: betting
+  - id: last_boss_pocket_puyo_puyo_sun
+    title: "Last Boss"
+    path: "16 BGM #14.brstm"
+    type: warning
+...

@@ -1,14 +1,20 @@
+---
 id: my_summer_car
 title: "My Summer Car"
 platform: "PC"
 year: 2016
 songs: 
+  - id: main_theme
+    title: "Main Theme"
+    path: "msc_theme.fsb"
+    type: result
   - id: nasta_lautaan
     title: "Nasta lautaan"
     path: "Nasta lautaan.flac"
-    type: betting
     ends: 2:51
+    type: betting
   - id: radio_chill
     title: "Radio Chill"
     path: "Radio Chill (Instrumental).flac"
     type: betting
+...

@@ -1,20 +1,100 @@
 ---
 id: ratchet_clank_going_commando
-platform: "PS2"
 title: "Ratchet & Clank: Going Commando"
 series: ratchetandclank
+platform: "PS2"
 year: 2003
 songs: 
-  - id: maktar_nebula_-_boss_battle
-    path: "Maktar Nebula - Boss Battle.brstm"
-    title: "Maktar Nebula - Boss Battle"
-    type: battle
+  - id: oozla_megacorp_store
+    title: "Oozla - Megacorp Store"
+    path: "Oozla - Megacorp Store.brstm"
+    type: break
+  - id: wupash_nebula
+    title: "Wupash Nebula"
+    path: "Wupash Nebula.brstm"
+    type: betting
+  - id: maktar_nebula_maktar_resort
+    title: "Maktar Nebula - Maktar Resort"
+    path: "Maktar Nebula - Maktar Resort.brstm"
+    type: betting
+  - id: maktar_nebula_jamming_array
+    title: "Maktar Nebula - Jamming Array"
+    path: "Maktar Nebula - Jamming Array.brstm"
+    type: betting
   - id: maktar_nebula_the_battle_arena
     title: "Maktar Nebula - The Battle Arena"
     path: "Maktar Nebula - The Battle Arena.brstm"
     type: battle
-  - id: flying_lab_obtaining_your_ship
-    title: "Flying Lab - Obtaining Your Ship"
-    path: "Flying Lab - Obtaining Your Ship.brstm"
+  - id: maktar_nebula_-_boss_battle
+    title: "Maktar Nebula - Boss Battle"
+    path: "Maktar Nebula - Boss Battle.brstm"
+    type: battle
+  - id: megapolis_planet_endako
+    title: "Megapolis - Planet Endako"
+    path: "Endako - Megapolis.brstm"
+    type: betting
+  - id: barlow_vukovar_canyon
+    title: "Barlow - Vukovar Canyon"
+    path: "Barlow - Vukovar Canyon.brstm"
+    type: betting
+  - id: feltzin_system_thug_rendezvous
+    title: "Feltzin System - Thug Rendezvous"
+    path: "Feltzin System - Thug Rendezvous.brstm"
+    type: betting
+  - id: siberius_frozen_base
+    title: "Siberius - Frozen Base"
+    path: "Siberius - Frozen Base.brstm"
+    type: betting
+  - id: tabora_crystal_desert
+    title: "Tabora - Crystal Desert"
+    path: "Tabora - Crystal Desert.brstm"
+    type: betting
+  - id: dobbo_testing_facility
+    title: "Dobbo - Testing Facility"
+    path: "Dobbo - Testing Facility.brstm"
+    type: betting
+  - id: dobbo_inside_the_facility
+    title: "Dobbo - Inside the Facility"
+    path: "Dobbo - Inside the Facility.brstm"
+    type: betting
+  - id: joba_megacorp_games
+    title: "Joba - Megacorp Games"
+    path: "Joba - Megacorp Games.brstm"
+    type: betting
+  - id: todano_megacorp_armory
+    title: "Todano - Megacorp Armory"
+    path: "Todano - Megacorp Armory.brstm"
+    type: betting
+  - id: boldan_silver_city
+    title: "Boldan - Silver City"
+    path: "Boldan - Silver City.brstm"
+    type: betting
+  - id: aranos_releasing_your_ship
+    title: "Aranos - Releasing Your Ship"
+    path: "Aranos - Releasing Your Ship.brstm"
+    type: battle
+  - id: gorn_thugs_4_less_fleet
+    title: "Gorn - Thugs-4-Less Fleet"
+    path: "Gorn - Thugs-4-Less Fleet.brstm"
     type: warning
+  - id: smolg_distribution_facility
+    title: "Smolg - Distribution Facility"
+    path: "Smolg - Distribution Facility.brstm"
+    type: betting
+  - id: damosel_riding_the_train_tracks
+    title: "Damosel - Riding the Train Tracks"
+    path: "Damosel - Riding the Train Tracks.brstm"
+    type: betting
+  - id: yeedil_protopet_factory
+    title: "Yeedil - Protopet Factory"
+    path: "Yeedil - Protopet Factory.brstm"
+    type: betting
+  - id: yeedil_megacorp_hq
+    title: "Yeedil - Megacorp HQ"
+    path: "Yeedil - Megacorp HQ.brstm"
+    type: betting
+  - id: yeedil_king_protopet
+    title: "Yeedil - King Protopet"
+    path: "Yeedil - King Protopet.brstm"
+    type: battle
 ...

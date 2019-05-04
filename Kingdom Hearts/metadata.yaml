@@ -5,60 +5,64 @@ series: kingdomhearts
 platform: "PS2"
 year: 2002
 songs: 
-  - id: forze_del_male
-    path: "Forze del Male.brstm"
-    title: "Forze del Male"
-    type: battle
-  - id: hollow_bastion
-    title: "Hollow Bastion"
-    path: "Hollow Bastion.brstm"
-    type: betting
-  - id: traverse_town_kh1
-    title: "Traverse Town"
-    path: "Traverse Town.brstm"
-    type: betting
-  - id: scherzo_di_notte
-    title: "Scherzo di Notte"
-    path: "Scherzo di Notte.brstm"
-    type: warning
-  - id: the_deep_end_kh1
-    title: "The Deep End"
-    path: "The Deep End.brstm"
-    type: battle
-  - id: squirming_evil
-    title: "Squirming Evil"
-    path: "Squirming Evil.brstm"
-    type: warning
-  - id: shrouding_dark_cloud
-    title: "Shrouding Dark Cloud"
-    path: "Shrouding Dark Cloud.brstm"
-    type: betting
-  - id: hand_in_hand_kh1
-    title: "Hand in Hand"
-    path: "Hand in Hand.brstm"
-    type: betting
-  - id: guardando_nel_buio
-    title: "Guardando nel Buio"
-    path: "Guardando Nel Buio.brstm"
-    type: battle
-  - id: end_of_the_world_kh1
-    title: "End of the World"
-    path: "End of the World.brstm"
-    type: warning
-  - id: to_our_surprise_kh1
-    title: "To Our Surprise"
-    path: "To Our Surprise.brstm"
-    type: warning
+  - id: destiny_islands
+    title: "Destiny Islands"
+    path: "105 - Destiny Islands.psf2"
+    type: break
   - id: kairi_i_kh1
     title: "Kairi I"
     path: "Kairi I.brstm"
     type: break
+  - id: traverse_town_kh1
+    title: "Traverse Town"
+    path: "116 - Traverse Town.psf2"
+    type: betting
+  - id: shrouding_dark_cloud
+    title: "Shrouding Dark Cloud"
+    path: "118 - Shrouding Dark Cloud.psf2"
+    type: betting
+  - id: to_our_surprise_kh1
+    title: "To Our Surprise"
+    path: "122 - To Our Surprise.psf2"
+    type: battle
+  - id: squirming_evil
+    title: "Squirming Evil"
+    path: "131 - Squirming Evil.psf2"
+    type: warning
+  - id: hand_in_hand_kh1
+    title: "Hand in Hand"
+    path: "132 - Hand in Hand.psf2"
+    type: betting
   - id: merlins_magical_house
     title: "Merlin's Magical House"
-    path: "Merlin's Magical House.psf2"
+    path: "134 - Merlin's Magical House.psf2"
     type: break
-  - id: spooks_of_halloween_town_kingdom_hearts
+  - id: the_deep_end_kh1
+    title: "The Deep End"
+    path: "211 - The Deep End.psf2"
+    type: battle
+  - id: spooks_of_halloween_town_kh1
     title: "Spooks of Halloween Town"
-    path: "Spooks of Halloween Town.psf2"
+    path: "213 - Spooks of Halloween Town.psf2"
+    type: battle
+  - id: hollow_bastion
+    title: "Hollow Bastion"
+    path: "220 - Hollow Bastion.psf2"
+    type: betting
+  - id: scherzo_di_notte
+    title: "Scherzo di notte"
+    path: "221 - Scherzo di notte.psf2"
+    type: warning
+  - id: forze_del_male
+    title: "Forze del male"
+    path: "222 - Forze Del Male.psf2"
+    type: battle
+  - id: end_of_the_world_kh1
+    title: "End of the World"
+    path: "225 - End of the World.psf2"
+    type: break
+  - id: guardando_nel_buio
+    title: "Guardando nel buio"
+    path: "227 - Guardando nel buio.psf2"
     type: battle
 ...
