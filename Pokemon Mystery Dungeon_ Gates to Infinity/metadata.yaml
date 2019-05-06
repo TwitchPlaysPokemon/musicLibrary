@@ -106,12 +106,12 @@ songs:
     title: "Danger!"
     path: "BGM_EVE_FEAR_01.bcstm"
     type: warning
-  - id: daybreak_bridge
-    title: "Daybreak Bridge"
+  - id: daybreak_ridge
+    title: "Daybreak Ridge"
     path: "BGM_DUN_11.bcstm"
     type: betting
-  - id: daybreak_bridge_highlands
-    title: "Daybreak Bridge (Highlands)"
+  - id: daybreak_ridge_highlands
+    title: "Daybreak Ridge (Highlands)"
     path: "BGM_DUN_28.bcstm"
     type: betting
   - id: desolate_valley

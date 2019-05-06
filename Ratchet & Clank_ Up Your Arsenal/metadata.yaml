@@ -1,17 +1,17 @@
 ---
 id: ratchet_clank_up_your_arsenal
-platform: "PS2"
 title: "Ratchet & Clank: Up Your Arsenal"
 series: ratchetandclank
+platform: "PS2"
 year: 2004
 songs: 
   - id: zeldrin_starport
-    path: "Zeldrin Starport.brstm"
     title: "Zeldrin Starport"
+    path: "Zeldrin Starport.brstm"
     type: betting
   - id: courtney_gears
-    path: "Courtney Gears.brstm"
-    title: "Courtney Gears Battle"
+    title: "Courtney Gears"
+    path: "Courtney Gears Battle.brstm"
     type: battle
   - id: launch_site
     title: "Launch Site"

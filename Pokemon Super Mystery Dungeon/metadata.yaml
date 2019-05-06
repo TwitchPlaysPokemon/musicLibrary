@@ -55,7 +55,7 @@ songs:
     type: betting
   - id: echoes_of_the_mystical_forest
     title: "Echoes of the Mystical Forest"
-    path: "BGM_DUN_13.bcstm"
+    path: "BGM_DUN_13.dspadpcm.bcstm"
     type: betting
   - id: fire_island_volcano
     title: "Fire Island Volcano"
@@ -75,7 +75,7 @@ songs:
     type: betting
   - id: calm_craggy_area
     title: "Calm Craggy Area"
-    path: "BGM_DUN_19.bcstm"
+    path: "BGM_DUN_19.dspadpcm.bcstm"
     type: betting
   - id: reverse_mountain
     title: "Reverse Mountain"
@@ -83,7 +83,7 @@ songs:
     type: betting
   - id: depths_of_the_submerged_cave
     title: "Depths of the Submerged Cave"
-    path: "BGM_DUN_21.bcstm"
+    path: "BGM_DUN_21.dspadpcm.bcstm"
     type: betting
   - id: prehistoric_ruins
     title: "Prehistoric Ruins"
@@ -121,7 +121,7 @@ songs:
     title: "Amp Plains"
     path: "BGM_DUN_31.dspadpcm.bcstm"
     type: betting
-  - id: crystal_cave
+  - id: crystal_cave_smd
     title: "Crystal Cave"
     path: "BGM_DUN_32.dspadpcm.bcstm"
     type: break
