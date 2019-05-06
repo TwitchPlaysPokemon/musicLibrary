@@ -1,0 +1,23 @@
+---
+id: earth_defense_force_arcade
+title: "Earth Defense Force [Arcade]"
+platform: ["Arcade", "SNES"]
+year: 1991
+songs: 
+  - id: stage_1_first_encounter
+    title: "STAGE 1 \"FIRST ENCOUNTER\""
+    path: "02 First Encounter (Stage 1).vgz"
+    type: betting
+  - id: stage_2_midnight_intercept
+    title: "STAGE 2 \"MIDNIGHT INTERCEPT\""
+    path: "Midnight Intercept (Stage 2).vgz"
+    type: betting
+  - id: stage_4_naval_battle
+    title: "STAGE 4 \"NAVAL BATTLE\""
+    path: "Naval Battle (Stage 4).vgz"
+    type: betting
+  - id: stage_6_armed_satellite
+    title: "STAGE 6 \"ARMED SATELLITE\""
+    path: "Armed Satellite (Stage 6).vgz"
+    type: betting
+... 
