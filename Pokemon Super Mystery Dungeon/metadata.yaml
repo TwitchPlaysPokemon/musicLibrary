@@ -167,7 +167,7 @@ songs:
     type: result
   - id: pancham_and_shelmet
     title: "Pancham and Shelmet"
-    path: "BGM_EVE_CHILDREN_02.bcstm"
+    path: "BGM_EVE_CHILDREN_02.dspadpcm.bcstm"
     type: warning
   - id: onward_expedition_society
     title: "Onward, Expedition Society!"
@@ -284,10 +284,6 @@ songs:
   - id: grass_continent_capim_town
     title: "Grass Continent: Capim Town"
     path: "BGM_MAP_TAIRIKU_KUSA.dspadpcm.bcstm"
-    type: betting
-  - id: sand_continent_sahra_town
-    title: "Sand Continent: Sahra Town"
-    path: "BGM_MAP_TAIRIKU_SUNA.dspadpcm.bcstm"
     type: betting
   - id: sand_continent_sahra_town
     title: "Sand Continent: Sahra Town"
