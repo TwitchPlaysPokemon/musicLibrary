@@ -52,7 +52,8 @@ songs:
   - id: staff_roll_luigis_mansion_dark_moon
     title: "Staff Roll"
     path: "Staff Roll.brstm"
-    type: result
+    ends: 2:11
+    type: betting
   - id: treacherous_mansion_interior
     title: "Treacherous Mansion - Interior"
     path: "Treacherous Mansion - Interior.brstm"

@@ -1,8 +1,9 @@
+---
 id: legend_of_mana
 title: "Legend of Mana"
-year: 1999
 series: seikendensetsu
 platform: "PS1"
+year: 1999
 songs:
   - id: world_of_mana
     title: "World of Mana"
@@ -24,8 +25,9 @@ songs:
   - id: marginal_beast
     title: "Marginal Beast"
     path: "Legend of Mana 112 Marginal Beast.psf"
-    type: warning
+    type: battle
   - id: southern_city_polpota
     title: "Southern City Polpota"
     path: "Legend of Mana 116 Southern City Polpota.psf"
     type: betting
+...

@@ -1,20 +1,20 @@
 ---
 id: cuphead
 title: "Cuphead"
-platform: ["PC", "XB1"]
+platform: ["PC", "XB1", "Switch"]
 year: 2017
 songs:
   - id: all_bets_are_off
     title: "All Bets Are Off!"
-    path: "MUS_DiceGate_Empty.snd.fsb"
+    path: "All Bets Are Off!.brstm"
     type: betting
   - id: carnival_kerfuffle
     title: "Carnival Kerfuffle"
-    path: "MUS_CarnivalKerfuffle_MixB.snd.fsb"
+    path: "Carnival Kerfuffle.brstm"
     type: betting
   - id: clip_joint_calamity
     title: "Clip Joint Calamity"
-    path: "MUS_Frogs.snd.fsb"
+    path: "Clip Joint Calamity.brstm"
     ends: 3:11
     type: betting
   - id: coin_op_bop
@@ -23,24 +23,24 @@ songs:
     type: betting
   - id: dramatic_fanatic
     title: "Dramatic Fanatic"
-    path: "MUS_Sally.snd.fsb"
+    path: "Dramatic Fanatic.brstm"
     ends: 2:55
     type: betting
   - id: fiery_frolic
     title: "Fiery Frolic"
-    path: "MUS_FieryFrolic_MixB3.snd.fsb"
+    path: "Fiery Frolic.brstm"
     type: betting
   - id: floral_fury
     title: "Floral Fury"
-    path: "MUS_Flower.snd.fsb"
+    path: "Floral Fury.brstm"
     type: betting
   - id: forest_follies
     title: "Forest Follies"
-    path: "MUS_ForestFollies.snd.fsb"
+    path: "Forest Follies.brstm"
     type: betting
   - id: funhouse_frazzle
     title: "Funhouse Frazzle"
-    path: "MUS_FunhouseFrazzles.snd.fsb"
+    path: "Funhouse Frazzle.brstm"
     ends: 3:04
     type: betting
   - id: funfair_fever
@@ -53,33 +53,33 @@ songs:
     type: betting
   - id: honeycomb_herald
     title: "Honeycomb Herald"
-    path: "MUS_HoneyCombHerald_MixB1.snd.fsb"
+    path: "Honeycomb Herald.brstm"
     type: betting
   - id: inkwell_hell
     title: "Inkwell Hell"
-    path: "MUS_InkwellHell.snd.fsb"
+    path: "Inkwell Hell.brstm"
     type: betting
   - id: inkwell_isle_one
     title: "Inkwell Isle One"
-    path: "InkwellIsleOne.fsb"
+    path: "Inkwell Isle One.brstm"
     ends: 3:00
     type: betting
   - id: inkwell_isle_two
     title: "Inkwell Isle Two"
-    path: "MUS_InkwellIsleTwo_MixA.snd.fsb"
+    path: "Inkwell Isle Two.brstm"
     type: betting
   - id: inkwell_isle_three
     title: "Inkwell Isle Three"
-    path: "MUS_InkwellIsleThree.snd.fsb"
+    path: "Inkwell Isle Three.brstm"
     ends: 2:45
     type: betting
   - id: legendary_ghost
     title: "Legendary Ghost"
-    path: "MUS_LegendaryGhost.snd.fsb"
+    path: "Legendary Ghost.brstm"
     type: betting
   - id: murine_corps
     title: "Murine Corps"
-    path: "MUS_Mouse.snd.fsb"
+    path: "Murine Corps.brstm"
     type: betting
   - id: one_hell_of_a_time
     title: "One Hell Of A Time"
@@ -91,24 +91,24 @@ songs:
     type: betting
   - id: pyramid_peril
     title: "Pyramid Peril"
-    path: "MUS_Genie_A.snd.fsb"
+    path: "Pyramid Peril.brstm"
     type: betting
   - id: railroad_wrath
     title: "Railroad Wrath"
-    path: "MUS_RailroadWrath.snd.fsb"
+    path: "Railroad Wrath.brstm"
     type: betting
   - id: rugged_ridge
     title: "Rugged Ridge"
-    path: "MUS_3_2.snd.fsb"
+    path: "Rugged Ridge.brstm"
     type: betting
   - id: shootin_n_lootin
     title: "Shootin n' Lootin"
-    path: "MUS_Pirate.snd.fsb"
+    path: "Shootin n' Lootin.brstm"
     ends: 2:51
     type: betting
   - id: sugarland_shimmy
     title: "Sugarland Shimmy"
-    path: "MUS_SugarlandShimmy.snd.fsb"
+    path: "Sugarland Shimmy.brstm"
     ends: 2:49
     type: betting
   - id: the_airship
@@ -117,20 +117,20 @@ songs:
     type: betting
   - id: threatnin_zeppelin
     title: "Threatnin' Zeppelin"
-    path: "MUS_Blimp.snd.fsb"
+    path: "Threatnin' Zeppelin.brstm"
     ends: 3:20
     type: betting
   - id: treetop_trouble
     title: "Treetop Trouble"
-    path: "MUS_TreetopTrouble.snd.fsb"
+    path: "Treetop Trouble.brstm"
     type: betting
   - id: admission_to_perdition
     title: "Admission To Perdition"
-    path: "MUS_DevilPhase1_2.snd.fsb"
+    path: "Admission To Perdition.brstm"
     type: warning
   - id: chief_evil_officer
     title: "Chief Evil Officer"
-    path: "MUS_DevilCinematic.snd.fsb"
+    path: "Chief Evil Officer.brstm"
     type: warning
   - id: hurry_up_cuphead
     title: "Hurry Up"
@@ -138,11 +138,11 @@ songs:
     type: warning
   - id: perilious_piers
     title: "Perilious Piers"
-    path: "MUS_PerilousPiers.snd.fsb"
-    type: warning
+    path: "Perilious Piers.brstm"
+    type: betting
   - id: the_mausoleum
     title: "The Mausoleum"
-    path: "MUS_Mausoleum.snd.fsb"
+    path: "The Mausoleum.brstm"
     type: warning
   - id: aviary_action
     title: "Aviary Action"
@@ -158,15 +158,15 @@ songs:
     type: battle
   - id: junkyard_jive
     title: "Junkyard Jive"
-    path: "MUS_Robot.snd.fsb"
+    path: "Junkyard Jive.brstm"
     type: battle
   - id: ruse_of_an_ooze
     title: "Ruse of an Ooze"
-    path: "MUS_Slime.snd.fsb"
+    path: "Ruse of an Ooze.brstm"
     type: battle
   - id: the_king_s_court
     title: "The King's Court"
-    path: "temp_unmastered_boss_king_dice_miniboss(full).snd.fsb"
+    path: "The King's Court.brstm"
     type: battle
   - id: high_score_cuphead
     title: "High Score"
@@ -174,14 +174,14 @@ songs:
     type: result
   - id: tutorial_cuphead
     title: "Tutorial"
-    path: "MUS_Tutorial.snd.fsb"
+    path: "Tutorial.brstm"
     type: result
   - id: victory_tune_cuphead
     title: "Victory Tune"
-    path: "MUS_VictoryScreen.snd.fsb"
+    path: "Victory Tune.brstm"
     type: result
   - id: elder_kettle
     title: "Elder Kettle"
-    path: "MUS_ElderKettle_Orch.snd.fsb"
+    path: "Elder Kettle.brstm"
     type: break
 ...

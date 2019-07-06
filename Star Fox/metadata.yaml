@@ -48,7 +48,7 @@ songs:
   - id: titania_boss
     title: "Boss (Titania)"
     path: "123 Boss (Titania).spc"
-    type: betting
+    type: warning
   - id: clear_band
     title: "Course Clear (Band)"
     path: "132 Course Clear (Band).spc"

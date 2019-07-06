@@ -45,4 +45,109 @@ songs:
     title: "Vaegir Castle Theme"
     path: "Vaegir Castle Theme.brstm"
     type: break
+  - id: ambushed
+    title: "Ambushed"
+    path: "ambushed_by_neutral.ogg"
+    type: warning
+  - id: ambushed_by_khergits
+    title: "Ambushed by Khergits"
+    path: "ambushed_by_khergit.ogg"
+    type: warning
+  - id: ambushed_by_nords
+    title: "Ambushed by Nords"
+    path: "ambushed_by_nord.ogg"
+    ends: 1:57
+    type: betting
+  - id: ambushed_by_rhodoks
+    title: "Ambushed by Rhodoks"
+    path: "ambushed_by_rhodok.ogg"
+    ends: 2:03
+    type: betting
+  - id: ambushed_by_swadians
+    title: "Ambushed by Swadians"
+    path: "ambushed_by_swadian.ogg"
+    type: warning
+  - id: ambushed_by_vaegirs
+    title: "Ambushed by Vaegirs"
+    path: "ambushed_by_vaegir.ogg"
+    ends: 2:29
+    type: betting
+  - id: calm_night
+    title: "Calm Night"
+    path: "calm_night_2.ogg"
+    ends: 2:11
+    type: betting
+  - id: fight_1_mount_and_blade_warband
+    title: "Fight 1"
+    path: "fight_1.ogg"
+    ends: 2:04
+    type: betting
+  - id: fight_2_mount_and_blade_warband
+    title: "Fight 2"
+    path: "fight_2.ogg"
+    ends: 1:54
+    type: betting
+  - id: fight_3_mount_and_blade_warband
+    title: "Fight 3"
+    path: "fight_3.ogg"
+    ends: 2:02
+    type: betting
+  - id: fight_while_mounted_1
+    title: "Fight While Mounted 1"
+    path: "fight_while_mounted_1.ogg"
+    ends: 2:55
+    type: betting
+  - id: fight_while_mounted_2
+    title: "Fight While Mounted 2"
+    path: "fight_while_mounted_2.ogg"
+    ends: 1:45
+    type: betting
+  - id: victorious_neutral_1
+    title: "Victorious Neutral 1"
+    path: "victorious_neutral_1.ogg"
+    type: result
+  - id: victorious_neutral_3
+    title: "Victorious Neutral 3"
+    path: "victorious_neutral_3.ogg"
+    type: result
+  - id: armorer
+    title: "Armorer"
+    path: "armorer.ogg"
+    ends: 1:17
+    type: betting
+  - id: travel_khergit
+    title: "Travel Khergit"
+    path: "travel_khergit.ogg"
+    ends: 2:02
+    type: betting
+  - id: travel_neutral
+    title: "Travel Neutral"
+    path: "travel_neutral.ogg"
+    ends: 3:26
+    type: betting
+  - id: travel_nord
+    title: "Travel Nord"
+    path: "travel_nord.ogg"
+    ends: 1:31
+    type: betting
+  - id: travel_rhodok
+    title: "Travel Rhodok"
+    path: "travel_rhodok.ogg"
+    ends: 1:46
+    type: betting
+  - id: travel_swadian
+    title: "Travel Swadian"
+    path: "travel_swadian.ogg"
+    ends: 1:42
+    type: betting
+  - id: travel_vaegir
+    title: "Travel Vaegir"
+    path: "travel_vaegir.ogg"
+    ends: 3:18
+    type: betting
+  - id: town_khergit
+    title: "Town Khergit"
+    path: "town_khergit.ogg"
+    ends: 2:02
+    type: betting
 ...
