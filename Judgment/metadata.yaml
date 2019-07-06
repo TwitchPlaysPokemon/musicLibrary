@@ -4,11 +4,11 @@ title: "Judgment"
 platform: "PS4"
 year: 2018
 songs: 
-  - id: door
+  - id: door_judgment
     title: "DOOR"
     path: "101. DOOR.brstm"
     type: break
-  - id: random_fire
+  - id: random_fire_judgment
     title: "Random Fire"
     path: "103. Random Fire.brstm"
     type: battle
@@ -32,7 +32,7 @@ songs:
     title: "Police Search"
     path: "110. Police Search.brstm"
     type: warning
-  - id: inharmonic
+  - id: inharmonic_judgment
     title: "inharmonic"
     path: "111. inharmonic.brstm"
     ends: 2:20
@@ -41,7 +41,7 @@ songs:
     title: "潜入ミッション"
     path: "112. 潜入ミッション.brstm"
     type: betting
-  - id: Λ
+  - id: Λ_judgment
     title: "Λ"
     path: "113. Λ.brstm"
     type: battle
@@ -93,7 +93,7 @@ songs:
     title: "決着・京浜同盟"
     path: "209. 決着.京浜同盟.brstm"
     type: warning
-  - id: craziness
+  - id: craziness_judgment
     title: "Craziness"
     path: "210. Craziness.brstm"
     type: warning
@@ -105,11 +105,11 @@ songs:
     title: "you are my dearest brother"
     path: "214. you are my dearest brother.brstm"
     type: break
-  - id: destination
+  - id: destination_judgment
     title: "Destination"
     path: "217. Destination.brstm"
     type: battle
-  - id: darkness
+  - id: darkness_judgment
     title: "Darkness"
     path: "218. Darkness.brstm"
     type: battle
@@ -152,7 +152,7 @@ songs:
     title: "Welcome to VR World"
     path: "315. Welcome to VR World.brstm"
     type: betting
-  - id: dive_in
+  - id: dive_in_judgment
     title: "Dive In"
     path: "317. Dive In.brstm"
     type: battle

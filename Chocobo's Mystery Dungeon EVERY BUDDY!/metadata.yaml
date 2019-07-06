@@ -29,7 +29,7 @@ songs:
     title: "The Town at Night"
     path: "BGM006.hca"
     type: break
-  - id: sealed_memories
+  - id: sealed_memories_erbuddy
     title: "Sealed Memories"
     path: "BGM008.hca"
     type: warning
@@ -61,7 +61,7 @@ songs:
     title: "Shinryu Battle"
     path: "BGM015.hca"
     type: battle
-  - id: together_forever
+  - id: together_forever_erbuddy
     title: "Together Forever"
     path: "BGM016.hca"
     type: break
@@ -69,7 +69,7 @@ songs:
     title: "Ending"
     path: "BGM018.hca"
     type: result
-  - id: nostalgia
+  - id: nostalgia_erbuddy
     title: "Nostalgia"
     path: "BGM019.hca"
     type: betting
@@ -105,7 +105,7 @@ songs:
     title: "Guardian of the Dark 2"
     path: "BGM029.hca"
     type: betting
-  - id: dueling_room
+  - id: dueling_room_erbuddy
     title: "Dueling Room"
     path: "BGM030.hca"
     type: battle
@@ -137,7 +137,7 @@ songs:
     title: "Freeing Memories"
     path: "BGM040.hca"
     type: break
-  - id: inside_the_church
+  - id: inside_the_church_erbuddy
     title: "Inside the Church"
     path: "BGM041.hca"
     type: break
@@ -165,7 +165,7 @@ songs:
     title: "That's Not Who I Am!"
     path: "BGM048.hca"
     type: betting
-  - id: secret_dungeon
+  - id: secret_dungeon_erbuddy
     title: "Secret Dungeon"
     path: "BGM050.hca"
     type: battle
@@ -213,7 +213,7 @@ songs:
     title: "Otherworldly Denizens 2"
     path: "BGM109.hca"
     type: betting
-  - id: treasured_memories
+  - id: treasured_memories_erbuddy
     title: "Treasured Memories"
     path: "BGM110.hca"
     type: battle

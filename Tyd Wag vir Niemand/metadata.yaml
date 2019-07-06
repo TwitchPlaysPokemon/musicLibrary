@@ -6,14 +6,14 @@ year: PC
 songs: 
   - id: horlosie
     title: "Horlosie"
-    path: "clocktrance.fsb.fsb"
+    path: "clocktrance.fsb"
     type: betting
   - id: grot_druppels
     title: "Grot Druppels"
-    path: "ShipCaves.fsb.fsb"
+    path: "ShipCaves.fsb"
     type: break
   - id: kristalle
     title: "Kristalle"
-    path: "strangetime.fsb.fsb"
+    path: "strangetime.fsb"
     type: break
 ...

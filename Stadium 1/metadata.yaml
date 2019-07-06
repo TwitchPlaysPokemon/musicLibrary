@@ -9,14 +9,13 @@ songs:
     title: "Title"
     path: "02 Title.miniusf"
     type: result
-  - id: game_demo
+  - id: game_demo_stadium
     title: "Game Demo"
     path: "03 Game Demo.miniusf"
     type: betting
   - id: map_pokemon_stadium
     title: "Map"
     path: "04 Map.miniusf"
-    ends: 1:30
     type: betting
   - id: hall_of_fame_pokemon_stadium
     title: "Hall of Fame"
@@ -27,7 +26,7 @@ songs:
     path: "06 Professor Oak's Lab.miniusf"
     ends: 2:00
     type: betting
-  - id: pokemon_transfer
+  - id: pokemon_transfer_stadium
     title: "Pokémon Transfer"
     path: "07 Pokémon Transfer.miniusf"
     type: warning
@@ -85,7 +84,7 @@ songs:
     path: "27 Stadium Selection.miniusf"
     ends: 2:00
     type: betting
-  - id: pokemon_selection
+  - id: pokemon_selection_stadium
     title: "Pokémon Selection"
     path: "28 Pokémon Selection.miniusf"
     type: warning
@@ -97,7 +96,7 @@ songs:
     title: "P97+98 Cup Semifinal"
     path: "31 P97+98 Cup Semifinal.miniusf"
     type: battle
-  - id: p97_98_cup_final
+  - id: p97_98_cup_final_stadium
     title: "P97+98 Cup Final"
     path: "32 P97+98 Cup Final.miniusf"
     type: battle
@@ -105,47 +104,47 @@ songs:
     title: "Pika Cup Battles 1-3"
     path: "33 Pika Cup Battles 1-3.miniusf"
     type: battle
-  - id: pika_cup_battles_4_6
+  - id: pika_cup_battles_4_6_stadium
     title: "Pika Cup Battles 4-6"
     path: "34 Pika Cup Battles 4-6.miniusf"
     type: battle
-  - id: pika_cup_semifinal
+  - id: pika_cup_semifinal_stadium
     title: "Pika Cup Semifinal"
     path: "35 Pika Cup Semifinal.miniusf"
     type: battle
-  - id: petit_cup_final
+  - id: petit_cup_final_stadium
     title: "Petit Cup Final"
     path: "36 Pika Cup Final.miniusf"
     type: battle
-  - id: petit_cup_battles_1_3
+  - id: petit_cup_battles_1_3_stadium
     title: "Petit Cup Battles 1-3"
     path: "37 Petit Cup Battles 1-3.miniusf"
     type: battle
-  - id: petit_cup_battles_4_6
+  - id: petit_cup_battles_4_6_stadium
     title: "Petit Cup Battles 4-6"
     path: "38 Petit Cup Battles 4-6.miniusf"
     type: battle
-  - id: petit_cup_semifinal
+  - id: petit_cup_semifinal_stadium
     title: "Petit Cup Semifinal"
     path: "39 Petit Cup Semifinal.miniusf"
     type: battle
-  - id: petit_cup_final
+  - id: petit_cup_final_stadium1
     title: "Petit Cup Final"
     path: "40 Petit Cup Final.miniusf"
     type: battle
-  - id: poke_cup_battles_1_3
+  - id: poke_cup_battles_1_3_stadium
     title: "Poké Cup Battles 1-3"
     path: "41 Poké Cup Battles 1-3.miniusf"
     type: battle
-  - id: poke_cup_battles_4_6
+  - id: poke_cup_battles_4_6_stadium
     title: "Poké Cup Battles 4-6"
     path: "42 Poké Cup Battles 4-6.miniusf"
     type: battle
-  - id: poke_cup_semifinal
+  - id: poke_cup_semifinal_stadium
     title: "Poké Cup Semifinal"
     path: "43 Poké Cup Semifinal.miniusf"
     type: battle
-  - id: poke_cup_final
+  - id: poke_cup_final_stadium
     title: "Poké Cup Final"
     path: "44 Poké Cup Final.miniusf"
     type: battle
@@ -189,7 +188,7 @@ songs:
     title: "Gym Leader Castle (Preliminary Battles)"
     path: "58 Gym Leader Castle (Preliminary Battles).miniusf"
     type: battle
-  - id: gym_leader_battle
+  - id: gym_leader_battle_stadium
     title: "Gym Leader Battle"
     path: "59 Gym Leader Battle.miniusf"
     type: battle
@@ -197,7 +196,7 @@ songs:
     title: "Gym Leader Castle (Elite Four)"
     path: "61 Gym Leader Castle (Elite Four).miniusf"
     type: warning
-  - id: battle_vs_rival
+  - id: battle_vs_rival_stadium
     title: "Battle vs. Rival"
     path: "62 Rival Battle.miniusf"
     type: battle
