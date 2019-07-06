@@ -8,4 +8,101 @@ songs:
     title: "Resting Grounds"
     path: "resources_00000044.brstm"
     type: break
+  - id: false_knight
+    title: "False Knight"
+    path: "Boss Battle 1.brstm"
+    type: battle
+  - id: dirtmouth
+    title: "Dirtmouth"
+    path: "Dirtmouth 1.brstm"
+    type: break
+  - id: the_white_lady
+    title: "The White Lady"
+    path: "RoyalTheme_QueenNew.brstm"
+    type: break
+  - id: greenpath
+    title: "Greenpath"
+    path: "Greenpath.mp3"
+    ends: 3:25
+    type: betting
+  - id: decisive_battle_hollow_knight
+    title: "Decisive Battle"
+    path: "S18 Enemy Battle-02 LOOP.brstm"
+    type: battle
+  - id: crossroads
+    title: "Crossroads"
+    path: "Crossroads.mp3"
+    ends: 2:27
+    type: betting
+  - id: city_of_tears
+    title: "City of Tears"
+    path: "City of Tears.mp3"
+    ends: 2:58
+    type: betting
+  - id: fungal_wastes
+    title: "Fungal Wastes"
+    path: "Fungal Wastes.mp3"
+    ends: 3:00
+    type: betting
+  - id: crystal_peak
+    title: "Crystal Peak"
+    path: "Crystal Peak.mp3"
+    type: betting
+  - id: white_palace
+    title: "White Palace"
+    path: "White Palace.mp3"
+    type: break
+  - id: kingdom_s_edge
+    title: "Kingdom's Edge"
+    path: "S39 Kingdoms Edge-23.brstm"
+    type: betting
+  - id: queen_s_garden
+    title: "Queen's Garden"
+    path: "Queen's Garden.mp3"
+    ends: 1:45
+    type: betting
+  - id: hornet
+    title: "Hornet"
+    path: "S45 HORNET-110.brstm"
+    type: battle
+  - id: mantis_lords
+    title: "Mantis Lords"
+    path: "S47-85 Mantis Lords.brstm"
+    type: battle
+  - id: dung_defender
+    title: "Dung Defender"
+    path: "S48-66 Dung Defender.brstm"
+    type: battle
+  - id: soul_sanctum
+    title: "Soul Sanctum"
+    path: "Soul Sanctum.mp3"
+    type: betting
+  - id: radiance
+    title: "Radiance"
+    path: "S72-140 FINAL FINAL BOSS.brstm"
+    type: battle
+  - id: white_defender
+    title: "White Defender"
+    path: "S76b-458 White Defender.brstm"
+    type: battle
+  - id: truth_beauty_and_hatred
+    title: "Truth, Beauty and Hatred"
+    path: "S81-195 Grey Prince Zote.brstm"
+    type: battle
+  - id: the_grimm_troupe
+    title: "The Grimm Troupe"
+    path: "29 - The Grimm Troupe Grimm.brstm"
+    type: battle
+  - id: nightmare_king
+    title: "Nightmare King"
+    path: "S87-168 Nightmare Grimm.brstm"
+    type: battle
+  - id: reflection
+    title: "Reflection"
+    path: "Safety.brstm"
+    type: break
+  - id: hollow_knight_title
+    title: "Hollow Knight"
+    path: "Title.brstm"
+    type: break
 ...

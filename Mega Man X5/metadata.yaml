@@ -5,84 +5,84 @@ series: megaman
 platform: ["PS1", "PC"]
 year: 2000
 songs:
-  - id: axle_the_red_stage
-    title: "Axle the Red Stage"
-    path: "Axle the Red.brstm"
-    type: betting
-  - id: dark_dizzy_stage
-    title: "Dark Dizzy Stage"
-    path: "Planetarium (Dark Dizzy).brstm"
-    type: betting
-  - id: duff_mcwhalen_stage
-    title: "Duff McWhalen Stage"
-    path: "Tidal Makkoeen.brstm"
-    type: betting
-  - id: grizzly_slash_stage
-    title: "Grizzly Slash Stage"
-    path: "Weapons Stockpile (Grizzly Slash).brstm"
-    type: betting
-  - id: izzy_glow_stage
-    title: "Izzy Glow Stage"
-    path: "Laser Lab (Izzy Glow).brstm"
-    type: betting
-  - id: mattrex_stage
-    title: "Mattrex Stage"
-    path: "Volcanic Inferno (Burn Dinorex).brstm"
-    type: betting
+  - id: character_select_mmx5
+    title: "CHARACTER SELECT"
+    path: "Character Select.brstm"
+    type: warning
   - id: opening_stage_x_mmx5
-    title: "Opening Stage X"
+    title: "OPENING STAGE X"
     path: "Eurasia City_ Broken Highway (X).brstm"
     type: betting
   - id: opening_stage_zero_mmx5
-    title: "Opening Stage Zero"
+    title: "OPENING STAGE ZERO"
     path: "Eurasia City_ Broken Highway (Zero).brstm"
     type: betting
-  - id: squid_alder_stage
-    title: "Squid Adler Stage"
+  - id: stage_select_1_mmx5
+    title: "STAGE SELECT 1"
+    path: "Stage Select (Mavericks).brstm"
+    type: warning
+  - id: crescent_grizzly_stage
+    title: "CRESCENT GRIZZLY STAGE"
+    path: "Weapons Stockpile (Grizzly Slash).brstm"
+    type: betting
+  - id: volt_kraken_stage
+    title: "VOLT KRAKEN STAGE"
     path: "Squid Adler.brstm"
     type: betting
+  - id: shining_hotarunicus_stage
+    title: "SHINING HOTARUNICUS STAGE"
+    path: "Laser Lab (Izzy Glow).brstm"
+    type: betting
+  - id: tidal_makkoeen_stage
+    title: "TIDAL MAKKOEEN STAGE"
+    path: "Tidal Makkoeen.brstm"
+    type: betting
+  - id: dynamo_mmx5
+    title: "DYNAMO"
+    path: "vs Dynamo.brstm"
+    type: battle
+  - id: spiral_pegacion_stage
+    title: "SPIRAL PEGACION STAGE"
+    path: "Repliforce Base (The Skiver).brstm"
+    type: betting
+  - id: spike_rosered_stage
+    title: "SPIKE ROSERED STAGE"
+    path: "Axle the Red.brstm"
+    type: betting
+  - id: dark_necrobat_stage
+    title: "DARK NECROBAT STAGE"
+    path: "Planetarium (Dark Dizzy).brstm"
+    type: betting
+  - id: burn_dinorex_stage
+    title: "BURN DINOREX STAGE"
+    path: "Volcanic Inferno (Burn Dinorex).brstm"
+    type: betting
+  - id: boss_mmx5
+    title: "BOSS"
+    path: "vs Maverick.brstm"
+    type: battle
   - id: zero_stage_1
-    title: "Zero Stage 1"
+    title: "ZERO STAGE 1"
     path: "Cyber Maze_Crater (Zero Stage 1).brstm"
     type: betting
   - id: zero_stage_2
-    title: "Zero Stage 2"
+    title: "ZERO STAGE 2"
     path: "Zero Stage 2.brstm"
     type: betting
-  - id: character_select_mmx5
-    title: "Character Select"
-    path: "Character Select.brstm"
-    type: warning
-  - id: boss_mmx5
-    title: "Boss"
-    path: "vs Maverick.brstm"
-    type: warning
-  - id: demo_mmx5
-    title: "Demo"
-    path: "ENIGMA.brstm"
-    type: warning
-  - id: sigma_2nd_mmx5
-    title: "Sigma 2nd"
-    path: "Gamma Sigma.brstm"
-    type: warning
-  - id: stage_select_1_mmx5
-    title: "Stage Select 1"
-    path: "Stage Select (Mavericks).brstm"
-    type: warning
-  - id: dynamo_mmx5
-    title: "Dynamo"
-    path: "vs Dynamo.brstm"
-    type: battle
-  - id: the_skiver_stage
-    title: "The Skiver Stage"
-    path: "Repliforce Base (The Skiver).brstm"
-    type: battle
   - id: x_vs_zero_mmx5
-    title: "X vs. Zero"
+    title: "X vs ZERO"
     path: "X vs Zero.brstm"
     type: battle
-  - id: ending_theme_mmx5
-    title: "Ending Theme"
+  - id: sigma_2nd_mmx5
+    title: "SIGMA 2nd"
+    path: "Gamma Sigma.brstm"
+    type: battle
+  - id: demo_mmx5
+    title: "DEMO"
+    path: "ENIGMA.brstm"
+    type: warning
+  - id: mega_man_x5_ending_theme
+    title: "MEGA MAN X5 ENDING THEME"
     path: "Ending.brstm"
     type: break
 ...

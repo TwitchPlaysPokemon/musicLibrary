@@ -45,4 +45,20 @@ songs:
     title: "Blast Away! -Gummi Ship III-"
     path: "music148.scd"
     type: warning
+  - id: fragments_of_sorrow
+    title: "Fragments of Sorrow"
+    path: "music155.scd"
+    type: battle
+  - id: go_for_it
+    title: "Go for It!"
+    path: "bgm_208.ps3.scd"
+    type: battle
+  - id: olympus_coliseum
+    title: "Olympus Coliseum"
+    path: "music103.scd"
+    type: betting
+  - id: never_land_sky
+    title: "Never Land Sky"
+    path: "music130.scd"
+    type: break
 ...

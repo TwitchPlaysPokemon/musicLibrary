@@ -1,7 +1,8 @@
+---
 id: nintendo_dsi_system
 title: "Nintendo DSi System"
-year: 2008
 platform: "DSi"
+year: 2008
 songs:
   - id: sparkle_ndsi
     title: "Sparkle"
@@ -16,3 +17,8 @@ songs:
     path: "Memories.brstm"
     ends: 2:30
     type: break
+  - id: nintendo_dsi_shop
+    title: "Nintendo DSi Shop"
+    path: "TWL_SHOP_BGM.brstm"
+    type: break
+...

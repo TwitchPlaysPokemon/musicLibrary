@@ -1,0 +1,244 @@
+---
+id: chocobo_s_mystery_dungeon_every_buddy
+title: "Chocobo's Mystery Dungeon EVERY BUDDY!"
+platform: ["Switch", "PS4"]
+year: 2019
+songs: 
+  - id: dungeons_of_lost_time
+    title: "Dungeons of Lost Time"
+    path: "BGM001.hca"
+    ends: 2:18
+    type: betting
+  - id: tower_in_the_sands
+    title: "Tower in the Sands"
+    path: "BGM002.hca"
+    type: warning
+  - id: stella_s_farm
+    title: "Stella's Farm"
+    path: "BGM003.hca"
+    type: break
+  - id: evening_on_the_farm
+    title: "Evening on the Farm"
+    path: "BGM004.hca"
+    type: break
+  - id: the_town_of_foundtime
+    title: "The Town of Foundtime"
+    path: "BGM005.hca"
+    type: betting
+  - id: the_town_at_night
+    title: "The Town at Night"
+    path: "BGM006.hca"
+    type: break
+  - id: sealed_memories
+    title: "Sealed Memories"
+    path: "BGM008.hca"
+    type: warning
+  - id: shirma_s_theme
+    title: "Shirma's Theme"
+    path: "BGM009.hca"
+    type: result
+  - id: treasure_hunter_s_theme
+    title: "Treasure Hunter's Theme"
+    path: "BGM010.hca"
+    type: battle
+  - id: dungeon_hero_x_theme
+    title: "Dungeon Hero X Theme"
+    path: "BGM011.hca"
+    type: battle
+  - id: chain_of_sadness
+    title: "Chain of Sadness"
+    path: "BGM012.hca"
+    type: betting
+  - id: the_airship_s_theme
+    title: "The Airship's Theme"
+    path: "BGM013.hca"
+    type: result
+  - id: memories_of_distant_days
+    title: "Memories of Distant Days"
+    path: "BGM014.hca"
+    type: break
+  - id: shinryu_battle
+    title: "Shinryu Battle"
+    path: "BGM015.hca"
+    type: battle
+  - id: together_forever
+    title: "Together Forever"
+    path: "BGM016.hca"
+    type: break
+  - id: ending_chocobo_s_mystery_dungeon_every_buddy
+    title: "Ending"
+    path: "BGM018.hca"
+    type: result
+  - id: nostalgia
+    title: "Nostalgia"
+    path: "BGM019.hca"
+    type: betting
+  - id: guardian_of_the_light_2
+    title: "Guardian of the Light 2"
+    path: "BGM021.hca"
+    type: betting
+  - id: guardian_of_the_flame_1
+    title: "Guardian of the Flame 1"
+    path: "BGM022.hca"
+    type: betting
+  - id: guardian_of_the_flame_2
+    title: "Guardian of the Flame 2"
+    path: "BGM023.hca"
+    type: betting
+  - id: guardian_of_the_water_1
+    title: "Guardian of the Water 1"
+    path: "BGM024.hca"
+    type: betting
+  - id: guardian_of_the_water_2
+    title: "Guardian of the Water 2"
+    path: "BGM025.hca"
+    type: betting
+  - id: guardian_of_the_light_1
+    title: "Guardian of the Light 1"
+    path: "BGM026.hca"
+    type: betting
+  - id: guardian_of_the_dark_1
+    title: "Guardian of the Dark 1"
+    path: "BGM028.hca"
+    type: betting
+  - id: guardian_of_the_dark_2
+    title: "Guardian of the Dark 2"
+    path: "BGM029.hca"
+    type: betting
+  - id: dueling_room
+    title: "Dueling Room"
+    path: "BGM030.hca"
+    type: battle
+  - id: battle_with_the_phoenix
+    title: "Battle with the Phoenix"
+    path: "BGM031.hca"
+    type: battle
+  - id: battle_with_the_leviathan
+    title: "Battle with the Leviathan"
+    path: "BGM032.hca"
+    type: battle
+  - id: battle_with_alexander
+    title: "Battle with Alexander"
+    path: "BGM033.hca"
+    type: battle
+  - id: the_mysterious_black_mage
+    title: "The Mysterious Black Mage"
+    path: "BGM034.hca"
+    type: battle
+  - id: last_battle_chocobo_s_mystery_dungeon_every_buddy
+    title: "Last Battle"
+    path: "BGM035.hca"
+    type: battle
+  - id: the_unfulfilled_promise
+    title: "The Unfulfilled Promise"
+    path: "BGM036.hca"
+    type: break
+  - id: freeing_memories
+    title: "Freeing Memories"
+    path: "BGM040.hca"
+    type: break
+  - id: inside_the_church
+    title: "Inside the Church"
+    path: "BGM041.hca"
+    type: break
+  - id: world_s_memories
+    title: "World's Memories"
+    path: "BGM042.hca"
+    type: betting
+  - id: battle_with_raffaello
+    title: "Battle with Raffaello"
+    path: "BGM043.hca"
+    type: battle
+  - id: croma_battle
+    title: "Croma Battle"
+    path: "BGM044.hca"
+    type: battle
+  - id: mog_house_x
+    title: "Mog House X"
+    path: "BGM046.hca"
+    type: warning
+  - id: shard_of_memories
+    title: "Shard of Memories"
+    path: "BGM047.hca"
+    type: break
+  - id: that_s_not_who_i_am
+    title: "That's Not Who I Am!"
+    path: "BGM048.hca"
+    type: betting
+  - id: secret_dungeon
+    title: "Secret Dungeon"
+    path: "BGM050.hca"
+    type: battle
+  - id: ancient_ruins_1
+    title: "Ancient Ruins 1"
+    path: "BGM090.hca"
+    type: betting
+  - id: ancient_ruins_2
+    title: "Ancient Ruins 2"
+    path: "BGM091.hca"
+    type: betting
+  - id: omega_battle
+    title: "Omega Battle"
+    path: "BGM092.hca"
+    type: battle
+  - id: devil_chocobo_battle
+    title: "Devil Chocobo Battle"
+    path: "BGM102.hca"
+    type: battle
+  - id: cryshale_battle
+    title: "Cryshale Battle"
+    path: "BGM103.hca"
+    type: battle
+  - id: insatiable_hunger
+    title: "Insatiable Hunger"
+    path: "BGM104.hca"
+    type: betting
+  - id: skullhammer_battle
+    title: "Skullhammer Battle"
+    path: "BGM105.hca"
+    type: warning
+  - id: glazguz_battle
+    title: "Glazguz Battle"
+    path: "BGM106.hca"
+    type: battle
+  - id: keeper_of_time_battle
+    title: "Keeper of Time Battle"
+    path: "BGM107.hca"
+    type: betting
+  - id: otherworldly_denizens_1
+    title: "Otherworldly Denizens 1"
+    path: "BGM108.hca"
+    type: betting
+  - id: otherworldly_denizens_2
+    title: "Otherworldly Denizens 2"
+    path: "BGM109.hca"
+    type: betting
+  - id: treasured_memories
+    title: "Treasured Memories"
+    path: "BGM110.hca"
+    type: battle
+  - id: a_woman_s_memories
+    title: "A Woman's Memories"
+    path: "BGM111.hca"
+    type: betting
+  - id: a_man_s_memories
+    title: "A Man's Memories"
+    path: "BGM112.hca"
+    type: betting
+  - id: revelations_of_the_oracles
+    title: "Revelations of the Oracles"
+    path: "BGM113.hca"
+    type: betting
+  - id: the_town_of_lostime
+    title: "The Town of Lostime"
+    path: "BGM114.hca"
+    type: break
+  - id: toybox_de_chocobo
+    title: "Toybox de Chocobo"
+    path: "Omocha_de_Chocobo.hca"
+    type: betting
+  - id: dubstep_de_chocobo
+    title: "Dubstep de Chocobo"
+    path: "Title.hca"
+    type: betting
+...

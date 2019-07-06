@@ -5,89 +5,97 @@ series: megaman
 platform: "SNES"
 year: 1995
 songs:
+  - id: pass_word_mmx3
+    title: "PASS WORD"
+    path: "19 Password.spc"
+    type: warning
   - id: opening_stage_mmx3
-    title: "Opening"
+    title: "OPENING STAGE"
     path: "03 Opening.spc"
     type: betting
   - id: zero_appears_mmx3
-    title: "Zero"
+    title: "ZERO"
     path: "04 Zero.spc"
     type: result
   - id: stage_select_1_mmx3
-    title: "Stage Select"
+    title: "STAGE SELECT"
     path: "05 Stage Select.spc"
     type: warning
-  - id: neon_tiger
-    title: "Neon Tiger"
-    path: "07 Neon Tiger.spc"
-    type: betting
-  - id: gravity_beetle
-    title: "Gravity Beetle"
-    path: "08 Gravity Beetle.spc"
-    type: betting
-  - id: blast_hornet
-    title: "Blast Hornet"
+  - id: explose_horneck_stage
+    title: "EXPLOSE HORNECK STAGE"
     path: "09 Blast Hornet.spc"
     type: betting
-  - id: blizzard_buffalo
-    title: "Blizzard Buffalo"
+  - id: frozen_buffalo_stage
+    title: "FROZEN BUFFALIO STAGE"
     path: "10 Blizzard Buffalo.spc"
     tags: [xmas]
     type: betting
-  - id: toxic_seahorse
-    title: "Toxic Seahorse"
+  - id: gravity_beetbood_stage
+    title: "GRAVITY BEETBOOD STAGE"
+    path: "08 Gravity Beetle.spc"
+    type: betting
+  - id: acid_seaforce_stage
+    title: "ACID SEAFORCE STAGE"
     path: "11 Toxic Seahorse.spc"
     type: betting
-  - id: tunnel_rhino
-    title: "Tunnel Rhino"
-    path: "12 Tunnel Rhino.spc"
-    type: betting
-  - id: volt_catfish
-    title: "Volt Catfish"
+  - id: electro_namazuros_stage
+    title: "ELECTRO NAMAZUROS STAGE"
     path: "13 Volt Catfish.spc"
     type: betting
-  - id: crush_crawfish
-    title: "Crush Crawfish"
+  - id: scissors_shrimper_stage
+    title: "SCISSORS SHRIMPER STAGE"
     path: "14 Crush Crawfish.spc"
     type: betting
-  - id: maverick_battle_mmx3
-    title: "Maverick Battle"
-    path: "16 Maverick Battle.spc"
-    type: warning
-  - id: password_screen_mmx3
-    title: "Password"
-    path: "19 Password.spc"
-    type: warning
-  - id: vile_mmx3
-    title: "Vile"
+  - id: screw_masaider_stage
+    title: "SCREW MASAIDER STAGE"
+    path: "12 Tunnel Rhino.spc"
+    type: betting
+  - id: shining_tigerd_stage
+    title: "SHINING TIGERD STAGE"
+    path: "07 Neon Tiger.spc"
+    type: betting
+  - id: vava_stage
+    title: "VAVA STAGE"
     path: "21 Vile.spc"
     type: warning
+  - id: boss_2_mmx3
+    title: "BOSS 2"
+    path: "16 Maverick Battle.spc"
+    type: warning
   - id: stage_select_2_mmx3
-    title: "Doppler Stage Revealed"
+    title: "STAGE SELECT 2"
     path: "23 Doppler Stage Revealed.spc"
     type: warning
-  - id: doppler_stage
-    title: "Doppler Stage"
+  - id: doppler_stage_1
+    title: "DOPPLER STAGE 1"
     path: "24 Doppler Stage.spc"
     type: battle
-  - id: doppler_final
-    title: "Doppler Final Stage"
+  - id: doppler_final_2
+    title: "DOPPLER STAGE 2"
     path: "25 Doppler Final Stage.spc"
     type: warning
-  - id: doppler_appears
-    title: "Doppler"
-    path: "26 Doppler.spc"
-    type: warning
-  - id: doppler_fight
-    title: "Doppler Battle"
+  - id: doppler_stage_boss
+    title: "DOPPLER STAGE BOSS"
     path: "27 Doppler Battle.spc"
     type: warning
-  - id: sigma_1_mmx3
-    title: "Sigma"
+  - id: sigma_1st_mmx3
+    title: "SIGMA 1st"
     path: "28 Sigma.spc"
     type: warning
-  - id: sigma_2_mmx3
-    title: "Kaiser Sigma"
+  - id: sigma_2nd_mmx3
+    title: "SIGMA 2nd"
     path: "29 Kaiser Sigma.spc"
     type: warning
+  - id: doppler_demo
+    title: "DOPPLER DEMO"
+    path: "26 Doppler.spc"
+    type: warning
+  - id: ending_mmx3
+    title: "ENDING"
+    path: "30 Ending.spc"
+    type: result
+  - id: cast_roll_mmx3
+    title: "CAST ROLL"
+    path: "31 Credits.spc"
+    type: betting
 ...

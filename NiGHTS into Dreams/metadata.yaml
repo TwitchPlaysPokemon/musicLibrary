@@ -2,7 +2,7 @@
 id: nights_into_dreams
 title: "NiGHTS into Dreams"
 series: nights
-platform: "Saturn"
+platform: "Various"
 year: 1997 
 songs: 
   - id: gloom_of_the_nhc
@@ -29,4 +29,16 @@ songs:
     title: "The Dragon Gave A Loud Scream"
     path: "The Dragon Gave a Loud Scream.brstm"
     type: battle
+  - id: growing_wings
+    title: "Growing Wings"
+    path: "Growing Wings.brstm"
+    type: betting
+  - id: suburban_museum
+    title: "Suburban Museum"
+    path: "Suburban Museum - Complete Ver.brstm"
+    type: betting
+  - id: under_construction_nights_into_dreams
+    title: "Under Construction"
+    path: "Under Construction - Complete Ver.brstm"
+    type: betting
 ...

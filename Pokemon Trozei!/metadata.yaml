@@ -1,0 +1,35 @@
+---
+id: pokemon_trozei
+title: "Pokémon Trozei!"
+platform: "NDS"
+year: 2005
+songs: 
+  - id: sol_base
+    title: "SOL Base"
+    path: "01 Tsukasa Tawada - BGM #01 [STRM_STAGE1_3].strm"
+    type: result
+  - id: mr_who
+    title: "Mr. Who"
+    path: "02 Tsukasa Tawada - BGM #02 [STRM_STAGE2_4].strm"
+    type: warning
+  - id: boss_theme_pokemon_trozei
+    title: "Boss Theme"
+    path: "03 Tsukasa Tawada - BGM #03 [STRM_STAGE_M3].strm"
+    type: warning
+  - id: phobosphere
+    title: "Phobosphere"
+    path: "04 Tsukasa Tawada - BGM #04 [STRM_STAGE_M4].strm"
+    type: warning
+  - id: phobos_batallion
+    title: "Phobos Batallion"
+    path: "06 Tsukasa Tawada - BGM #06 [STRM_STAGE_M6].strm"
+    type: warning
+  - id: ending_pokemon_trozei
+    title: "Ending"
+    path: "08 Tsukasa Tawada - BGM #08 [STRM_STAGE_M8].strm"
+    type: warning
+  - id: mr_who_s_den
+    title: "Mr. Who's Den"
+    path: "09 Tsukasa Tawada - BGM #09 [STRM_STAGE_M9].strm"
+    type: warning
+...

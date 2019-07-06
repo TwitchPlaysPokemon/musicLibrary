@@ -1,28 +1,123 @@
 ---
 id: crypt_of_the_necrodancer
-title: "Crypt of the Necrodancer"
+title: "Crypt of the NecroDancer"
 platform: ["PC", "Various"]
 #other platforms: ["PS4", "Vita", "XBone", "iOS"]
 year: 2015
 songs:
-  - id: last_dance_(necrodancer_fight_2nd_phase)
-    title: "Last Dance (Necrodancer Fight 2nd Phase)"
-    path: "Last Dance (Necrodancer Fight 2nd Phase).brstm"
+  - id: tombtorial_tutorial
+    title: "Tombtorial (Tutorial)"
+    path: "tutorial.logg"
+    type: betting
+  - id: rhythmortis_lobby_filtered
+    title: "Rhythmortis (Lobby Filtered)"
+    path: "lobby.logg"
+    type: betting
+  - id: watch_your_step_training
+    title: "Watch Your Step (Training)"
+    path: "training.logg"
+    type: betting
+  - id: disco_descent_1_1
+    title: "Disco Descent (1-1)"
+    path: "zone1_1.ogg"
+    ends: 3:00
+    type: betting
+  - id: crypteque_1_2
+    title: "Crypteque (1-2)"
+    path: "zone1_2.ogg"
+    ends: 2:45
+    type: betting
+  - id: mausoleum_mash_1_3
+    title: "Mausoleum Mash (1-3)"
+    path: "zone1_3.ogg"
+    ends: 2:54
+    type: betting
+  - id: king_conga_kappa_king_conga
+    title: "Konga Conga Kappa (King Conga)"
+    path: "boss_1.logg"
+    type: betting
+  - id: fungal_funk_2_1
+    title: "Fungal Funk (2-1)"
+    path: "zone2_1.ogg"
+    ends: 2:39
+    type: betting
+  - id: grave_throbbing_2_2
+    title: "Grave Throbbing (2-2)"
+    path: "zone2_2.ogg"
+    ends: 2:50
+    type: betting
+  - id: portabellohead_2_3
+    title: "Portabellohead (2-3)"
+    path: "zone2_3.ogg"
+    ends: 2:49
+    type: betting
+  - id: metalmancy_death_metal
+    title: "Metalmancy (Death Metal)"
+    path: "boss_2.logg"
     type: battle
-  - id: metalmancy
-    title: "Metalmancy"
-    path: "Metalmancy.brstm"
-    type: battle
-  - id: deep_sea_bass
-    title: "Deep Sea Bass"
+  - id: stone_cold_3_1_cold
+    title: "Stone Cold (3-1 Cold)"
+    path: "zone3_1c.ogg"
+    ends: 2:44
+    type: betting
+  - id: igneous_rock_3_1_hot
+    title: "Igneous Rock (3-1 Hot)"
+    path: "zone3_1h.ogg"
+    ends: 2:44
+    type: betting
+  - id: dance_of_the_decorous_3_2_cold
+    title: "Dance of the Decorous (3-2 Cold)"
+    path: "zone3_2c.ogg"
+    ends: 2:47
+    type: betting
+  - id: march_of_the_profane_3_2_hot
+    title: "March of the Profane (3-2 Hot)"
+    path: "zone3_2h.ogg"
+    ends: 2:47
+    type: betting
+  - id: a_cold_sweat_3_3_cold
+    title: "A Cold Sweat (3-3 Cold)"
+    path: "zone3_3c.ogg"
+    ends: 2:59
+    type: betting
+  - id: a_hot_mess_3_3_hot
+    title: "A Hot Mess (3-3 Hot)"
+    path: "zone3_3h.ogg"
+    ends: 2:59
+    type: betting
+  - id: knight_to_c_sharp_deep_blues
+    title: "Knight to C-Sharp (Deep Blues)"
+    path: "boss_3.logg"
+    type: betting
+  - id: styx_and_stones_4_1
+    title: "Styx and Stones (4-1)"
+    path: "zone4_1.ogg"
+    ends: 3:01
+    type: betting
+  - id: heart_of_the_crypt_4_2
+    title: "Heart of the Crypt (4-2)"
+    path: "zone4_2.ogg"
+    ends: 2:40
+    type: betting
+  - id: the_wight_to_remain_4_3
+    title: "The Wight to Remain (4-3)"
+    path: "zone4_3.ogg"
+    ends: 2:42
+    type: betting
+  - id: deep_sea_bass_coral_riff
+    title: "Deep Sea Bass (Coral Riff)"
     path: "Deep Sea Bass.brstm"
     type: betting
-  - id: lobby_(eq_edit)
-    title: "Lobby (EQ Edit)"
-    path: "Lobby (EQ Edit).brstm"
+  - id: for_whom_the_knell_tolls_dead_ringer
+    title: "For Whom the Knell Tolls (Dead Ringer)"
+    path: "boss_5.logg"
     type: betting
-  - id: king_conga_kappa
-    title: "King Conga Kappa"
-    path: "King Conga Kappa.brstm"
+  - id: momentum_mori_necrodancer_fight_1st_phase
+    title: "Momentum Mori (Necrodancer Fight 1st Phase)"
+    path: "boss_6.logg"
     type: betting
+  - id: last_dance_necrodancer_fight_2nd_phase
+    title: "Last Dance (Necrodancer Fight 2nd Phase)"
+    path: "boss_6_1a.logg"
+    type: battle
 ...

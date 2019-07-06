@@ -5,29 +5,61 @@ series: megaman
 platform: "NES"
 year: 1993
 songs: 
-  - id: blizzard_man_stage
-    title: "Blizzard Man Stage"
+  - id: pass_word_mm6
+    title: "PASS WORD"
+    path: "04 Pass Word.vgz"
+    type: result
+  - id: blizzardman_stage
+    title: "BLIZZARDMAN STAGE"
     path: "07 Blizzard Man Stage.vgz"
     tags: [xmas]
     type: betting
-  - id: flame_man_stage
-    title: "Flame Man Stage"
+  - id: centaurman_stage
+    title: "CENTAURMAN STAGE"
+    path: "08 Centaur Man Stage.vgz"
+    type: betting
+  - id: flameman_stage
+    title: "FLAMEMAN STAGE"
     path: "09 Flame Man Stage.vgz"
     type: betting
-  - id: knight_man_stage
-    title: "Knight Man Stage"
+  - id: knightman_stage
+    title: "KNIGHTMAN STAGE"
     path: "10 Knight Man Stage.vgz"
     type: betting
-  - id: wind_man_stage
-    title: "Wind Man Stage"
+  - id: plantman_stage
+    title: "PLANTMAN STAGE"
+    path: "11 Plant Man Stage.vgz"
+    type: betting
+  - id: tomahawkman_stage
+    title: "TOMAHAWKMAN STAGE"
+    path: "12 Tomahawk Man Stage.vgz"
+    type: betting
+  - id: windman_stage
+    title: "WINDMAN STAGE"
     path: "13 Wind Man Stage.vgz"
     type: betting
+  - id: yamatoman_stage
+    title: "YAMATOMAN STAGE"
+    path: "14 Yamato Man Stage.vgz"
+    type: betting
+  - id: boss_mm6
+    title: "BOSS"
+    path: "15 Boss.vgz"
+    type: betting
+  - id: get_a_weapon_mm6
+    title: "GET A WEAPON"
+    path: "17 Get A Weapon.vgz"
+    type: betting
   - id: mr_x_stage
-    title: "Mr. X Stage"
+    title: "Mr.X STAGE"
     path: "19 Mr. X Stage.vgz"
     type: betting
-  - id: credits_mm6
-    title: "Credits"
-    path: "33 Ending (Credit Roll).vgz"
-    type: result
+  - id: dr_wily_stage_mm6
+    title: "Dr.WILY STAGE"
+    path: "21 Dr. Wily Stage.vgz"
+    type: betting
+  - id: last_boss_mm6
+    title: "LAST BOSS"
+    path: "22 Last Boss.vgz"
+    type: warning
 ...

@@ -5,85 +5,97 @@ series: megaman
 platform: "SNES"
 year: 1993
 songs:
-  - id: password_mmx
-    title: "Password Screen"
+  - id: pass_word_mmx
+    title: "PASS WORD"
     path: "03 Password.spc"
     type: break
-  - id: central_highway_mmx
-    title: "Opening Stage"
+  - id: opening_stage_mmx
+    title: "OPENING STAGE"
     path: "04 Opening Stage.spc"
     type: battle
-  - id: vile_appears_mmx
-    title: "Vile Appears"
+  - id: vava_1
+    title: "VAVA 1"
     path: "05 Vile 1.spc"
     type: warning
-  - id: launch_octopus
-    title: "Launch Octopus"
+  - id: vava_2
+    title: "VAVA 2"
+    path: "06 Vile 2.spc"
+    type: warning
+  - id: zero_mmx
+    title: "ZERO"
+    path: "07 Zero.spc"
+    type: warning
+  - id: stage_select_1
+    title: "STAGE SELECT 1"
+    path: "09 Stage Select 1.spc"
+    type: warning
+  - id: launcher_octopuld_stage
+    title: "LAUNCHER OCTOPULD STAGE"
     path: "11 Launch Octopus.spc"
     type: betting
-  - id: chill_penguin
-    title: "Chill Penguin"
+  - id: icy_penguigo_stage
+    title: "ICY PENGUIGO STAGE"
     path: "12 Chill Penguin.spc"
     tags: [xmas]
     type: betting
-  - id: flame_mammoth
-    title: "Flame Mammoth"
+  - id: burnin_noumander_stage
+    title: "BURNIN' NOUMANDER STAGE"
     path: "13 Flame Mammoth.spc"
     type: battle
-  - id: boomer_kuwanger
-    title: "Boomer Kuwanger"
+  - id: boomer_kuwanger_stage
+    title: "BOOMER KUWANGER STAGE"
     path: "14 Boomer Kuwanger.spc"
     type: betting
-  - id: sting_chameleon
-    title: "Sting Chameleon"
+  - id: sting_chameleao_stage
+    title: "STING CHAMELEAO STAGE"
     path: "15 Sting Chameleon.spc"
     type: betting
-  - id: spark_mandrill
-    title: "Spark Mandrill"
+  - id: spark_mandriller_stage
+    title: "SPARK MANDRILLER STAGE"
     path: "16 Spark Mandrill.spc"
     type: battle
-  - id: storm_eagle
-    title: "Storm Eagle"
+  - id: storm_eagleed_stage
+    title: "STORM EAGLEED STAGE"
     path: "17 Storm Eagle.spc"
     type: battle
-  - id: armored_armadillo
-    title: "Armored Armadillo"
+  - id: armor_armarge_stage
+    title: "ARMOR ARMARGE STAGE"
     path: "18 Armored Armadillo.spc"
     type: betting
-  - id: boss_warning_mmx
-    title: "Maverick Warning"
+  - id: boss_1_mmx
+    title: "BOSS 1"
     path: "19 Boss 1.spc"
     type: warning
-  - id: boss_mmx
-    title: "Maverick Battle"
+  - id: boss_2_mmx
+    title: "BOSS 2"
     path: "20 Boss 2.spc"
     type: battle
   - id: stage_select_2_mmx
-    title: "Stage Select 2"
+    title: "STAGE SELECT 2"
     path: "23 Stage Select 2.spc"
     type: warning
-  - id: sigma_1_mmx
-    title: "Sigma Stage 1"
+  - id: sigma_stage_1_mmx
+    title: "SIGMA STAGE 1"
     path: "24 Sigma Stage 1.spc"
     type: betting
-  - id: sigma_2_mmx
-    title: "Sigma Stage 2"
+  - id: sigma_stage_2_mmx
+    title: "SIGMA STAGE 2"
     path: "25 Sigma Stage 2.spc"
     type: betting
-  - id: sigma_3_mmx
-    title: "Sigma Stage 3"
+  - id: sigma_stage_3_mmx
+    title: "SIGMA STAGE 3"
     path: "26 Sigma Stage 3.spc"
     type: betting
-  - id: sigma_4_mmx
-    title: "Sigma Stage 4"
+  - id: sigma_stage_4_mmx
+    title: "SIGMA STAGE 4"
     path: "27 Sigma Stage 4.spc"
     type: warning
-  - id: sigma_fight_2_mmx
-    title: "Sigma 2nd"
+  - id: sigma_2nd_mmx
+    title: "SIGMA 2nd"
     path: "30 Sigma 2nd.spc"
     type: warning
   - id: staff_roll_mmx
-    title: "Staff Roll"
+    title: "STAFF ROLL"
     path: "34 Staff Roll.spc"
     type: result
 ...

@@ -5,120 +5,222 @@ series: pokemon
 platform: "N64"
 year: 2000
 songs:
-  - id: battle_mewtwo_stadium
-    title: "Battle vs. Mewtwo"
-    path: "Battle with Mewtwo.brstm"
-    type: battle
-  - id: gym_leader_e4
-    title: "Gym Leader Castle (Elite Four)"
-    path: "Gym Leader Castle (Elite Four).brstm"
-    type: warning
-  - id: gym_leader_prelim
-    title: "Gym Leader Castle (Preliminary Battles)"
-    path: "Gym Leader Castle (Preliminary Battles).brstm"
-    type: battle
-#      - id: petit_final
-#        title: "Petit Cup Final"
-#        path: "Petit Cup Final.brstm"
-#        type: battle #Tempo changes, making it not fit
-#      - id: pika_battles1
-#        title: "Pika Cup Battles 1-3"
-#        path: "Pika Cup Battles 1-3.brstm"
-#        type: battle #Not tense and charged enough
-  - id: pokemon_selection
-    title: "Pokémon Selection"
-    path: "Pokémon Selection.brstm"
-    type: warning
-#      - id: prime_battles1
-#        title: "Prime Cup Battles 1-3"
-#        path: "Prime Cup Battles 1-3.brstm"
-#        type: battle #Borderline not tense and charged enough after the great intro :(
-  - id: prime_semi
-    title: "Prime Cup Semifinal"
-    path: "Prime Cup Semifinal.brstm"
+  - id: title_pokemon_stadium
+    title: "Title"
+    path: "02 Title.miniusf"
+    type: result
+  - id: game_demo
+    title: "Game Demo"
+    path: "03 Game Demo.miniusf"
     type: betting
-  - id: rival_battle_stadium
-    title: "Battle vs. Rival"
-    path: "Rival Battle.brstm"
-    type: battle
+  - id: map_pokemon_stadium
+    title: "Map"
+    path: "04 Map.miniusf"
+    ends: 1:30
+    type: betting
+  - id: hall_of_fame_pokemon_stadium
+    title: "Hall of Fame"
+    path: "05 Hall of Fame.miniusf"
+    type: result
+  - id: professor_oak_s_lab
+    title: "Professor Oak's Lab"
+    path: "06 Professor Oak's Lab.miniusf"
+    ends: 2:00
+    type: betting
+  - id: pokemon_transfer
+    title: "Pokémon Transfer"
+    path: "07 Pokémon Transfer.miniusf"
+    type: warning
+  - id: kids_club_menu
+    title: "Kids Club Menu"
+    path: "08 Kids Club Menu.miniusf"
+    type: result
+  - id: magikarp_s_splash
+    title: "Magikarp's Splash"
+    path: "09 Magikarp's Splash.miniusf"
+    type: warning
+  - id: clefairy_says_percussion
+    title: "Clefairy Says (Percussion)"
+    path: "10 Clefairy Says (Percussion).miniusf"
+    type: warning
+  - id: run_rattata_run
+    title: "Run, Rattata, Run"
+    path: "13 Run, Rattata, Run.miniusf"
+    type: warning
+  - id: snore_war
+    title: "Snore War"
+    path: "14 Snore War.miniusf"
+    type: warning
+  - id: thundering_dynamo
+    title: "Thundering Dynamo"
+    path: "15 Thundering Dynamo.miniusf"
+    type: warning
+  - id: sushi_go_round
+    title: "Sushi-Go-Round"
+    path: "16 Sushi-Go-Round.miniusf"
+    type: warning
+  - id: ekans_hoop_hurl
+    title: "Ekans' Hoop Hurl"
+    path: "17 Ekans' Hoop Hurl.miniusf"
+    type: result
   - id: rock_harden
     title: "Rock Harden"
-    path: "Rock Harden.brstm"
+    path: "18 Rock Harden.miniusf"
     type: warning
-#      - id: run_rattata_run
-#        title: "Run, Rattata, Run!"
-#        path: "Run, Rattata, Run.brstm"
-#        type: warning #borderline too WutFace to fit
-#      - id: thundering_dynamo
-#        title: "Thundering Dynamo"
-#        path: "Thundering Dynamo.brstm"
-#        type: warning #Borderline not exciting enough to fit
-  - id: vs_won
-    title: "Vs. Won"
-    path: "VS Won.brstm"
-    type: result
-  - id: vs_mewtwo_menu
-    title: "Vs. Mewtwo Menu"
-    path: "VS Mewtwo Menu.brstm"
+  - id: dig_dig_dig
+    title: "Dig! Dig! Dig!"
+    path: "19 Dig! Dig! Dig!.miniusf"
+    type: warning
+  - id: free_battle_menu
+    title: "Free Battle Menu"
+    path: "24 Free Battle Menu.miniusf"
+    ends: 2:05
     type: betting
-#  - id: pokemon_stadium_jpn
-#    title: "Pocket Monsters Stadium"
-#    series: pokemon
-#    platform: "N64"
-#    year: 1998
-#    path: "N64/Stadium 1"
-#    songs:
-#      - id: rounds_4
-#        title: "Rounds 4-6 Battle"
-#        path: "Rounds 4-6 Battle.brstm"
-#        type: battle #Worse remix of kanto trainer battle, which is already in the playlist
-#  - id: "1080"
-#    title: "1080 Snowboarding"
-#    platform: "N64"
-#    year: 1998
-#    path: "N64/1080"
-#    songs:
-#      - id: blue_flame
-#        title: "Blue Flame"
-#        path: "Blue Flame.brstm"
-#        type: battle #Borderline doesn't fit
-#      - id: vacant_lives
-#        title: "Vacant Lives"
-#        path: "Vacant Lives.brstm"
-#        type: betting #WutFace lyrics
-#  - id: winxp
-#    title: "Windows XP"
-#    series: frozen
-#    platform: "PC"
-#    year: 2001
-#    path: "PC/XP"
-#    songs:
-#      - id: windows_xp
-#        title: "Windows XP Welcome Theme"
-#        path: "Windows XP.brstm"
-#        type: betting #Not from a video game
+  - id: free_battle_pokemon_stadium
+    title: "Free Battle"
+    path: "26 Free Battle.miniusf"
+    type: battle
+  - id: stadium_selection
+    title: "Stadium Selection"
+    path: "27 Stadium Selection.miniusf"
+    ends: 2:00
+    type: betting
+  - id: pokemon_selection
+    title: "Pokémon Selection"
+    path: "28 Pokémon Selection.miniusf"
+    type: warning
+  - id: p97_98_cup_battle_4_6
+    title: "P97+98 Cup Battle 4-6"
+    path: "30 P97+98 Cup Battle 4-6.miniusf"
+    type: battle
+  - id: p97_98_cup_semifinal
+    title: "P97+98 Cup Semifinal"
+    path: "31 P97+98 Cup Semifinal.miniusf"
+    type: battle
+  - id: p97_98_cup_final
+    title: "P97+98 Cup Final"
+    path: "32 P97+98 Cup Final.miniusf"
+    type: battle
+  - id: pika_cup_battles_1_3
+    title: "Pika Cup Battles 1-3"
+    path: "33 Pika Cup Battles 1-3.miniusf"
+    type: battle
+  - id: pika_cup_battles_4_6
+    title: "Pika Cup Battles 4-6"
+    path: "34 Pika Cup Battles 4-6.miniusf"
+    type: battle
+  - id: pika_cup_semifinal
+    title: "Pika Cup Semifinal"
+    path: "35 Pika Cup Semifinal.miniusf"
+    type: battle
+  - id: petit_cup_final
+    title: "Petit Cup Final"
+    path: "36 Pika Cup Final.miniusf"
+    type: battle
+  - id: petit_cup_battles_1_3
+    title: "Petit Cup Battles 1-3"
+    path: "37 Petit Cup Battles 1-3.miniusf"
+    type: battle
+  - id: petit_cup_battles_4_6
+    title: "Petit Cup Battles 4-6"
+    path: "38 Petit Cup Battles 4-6.miniusf"
+    type: battle
+  - id: petit_cup_semifinal
+    title: "Petit Cup Semifinal"
+    path: "39 Petit Cup Semifinal.miniusf"
+    type: battle
+  - id: petit_cup_final
+    title: "Petit Cup Final"
+    path: "40 Petit Cup Final.miniusf"
+    type: battle
+  - id: poke_cup_battles_1_3
+    title: "Poké Cup Battles 1-3"
+    path: "41 Poké Cup Battles 1-3.miniusf"
+    type: battle
   - id: poke_cup_battles_4_6
     title: "Poké Cup Battles 4-6"
     path: "42 Poké Cup Battles 4-6.miniusf"
-    type: warning
-  - id: free_battle_pokestadium1
-    title: "Free Battle"
-    path: "Free Battle.brstm"
     type: battle
-  - id: credits_round_1_pokestadium1
-    title: "Credits (Round 1)"
-    path: "Credits (Round 1).brstm"
-    type: betting
-  - id: credits_round_2_pokestadium1
-    title: "Credits (Round 2)"
-    path: "Credits (Round 2).brstm"
-    type: betting
+  - id: poke_cup_semifinal
+    title: "Poké Cup Semifinal"
+    path: "43 Poké Cup Semifinal.miniusf"
+    type: battle
+  - id: poke_cup_final
+    title: "Poké Cup Final"
+    path: "44 Poké Cup Final.miniusf"
+    type: battle
   - id: prime_cup_battles_1_3_pokestadium1
     title: "Prime Cup Battles 1-3"
-    path: "Prime Cup Battles 1-3.brstm"
+    path: "45 Prime Cup Battles 1-3.miniusf"
     type: battle
-  - id: thundering_dynamo_pokestadium1
-    title: "Thundering Dynamo"
-    path: "Thundering Dynamo.brstm"
+  - id: prime_cup_battles_4_6
+    title: "Prime Cup Battles 4-6"
+    path: "46 Prime Cup Battles 4-6.miniusf"
+    type: battle
+  - id: prime_cup_semifinal
+    title: "Prime Cup Semifinal"
+    path: "47 Prime Cup Semifinal.miniusf"
+    type: battle
+  - id: prime_cup_final
+    title: "Prime Cup Final"
+    path: "48 Prime Cup Final.miniusf"
+    type: battle
+  - id: pokemon_victory_poses_cup_presentation
+    title: "Pokémon Victory Poses & Cup Presentation"
+    path: "51 Pokémon Victory Poses & Cup Presentation.miniusf"
+    type: result
+  - id: vs_won
+    title: "VS Won"
+    path: "53 VS Won.miniusf"
+    type: result
+  - id: vs_lost
+    title: "VS Lost"
+    path: "54 VS Lost.miniusf"
+    type: result
+  - id: gym_leader_castle
+    title: "Gym Leader Castle"
+    path: "56 Gym Leader Castle.miniusf"
+    type: betting
+  - id: gym_leader_castle_menu
+    title: "Gym Leader Castle Menu"
+    path: "57 Gym Leader Castle Menu.miniusf"
+    type: betting
+  - id: gym_leader_castle_preliminary_battles
+    title: "Gym Leader Castle (Preliminary Battles)"
+    path: "58 Gym Leader Castle (Preliminary Battles).miniusf"
+    type: battle
+  - id: gym_leader_battle
+    title: "Gym Leader Battle"
+    path: "59 Gym Leader Battle.miniusf"
+    type: battle
+  - id: gym_leader_castle_elite_four
+    title: "Gym Leader Castle (Elite Four)"
+    path: "61 Gym Leader Castle (Elite Four).miniusf"
     type: warning
+  - id: battle_vs_rival
+    title: "Battle vs. Rival"
+    path: "62 Rival Battle.miniusf"
+    type: battle
+  - id: credits_round_1_pokemon_stadium
+    title: "Credits (Round 1)"
+    path: "67 Credits (Round 1).miniusf"
+    ends: 2:44
+    type: betting
+  - id: credits_round_2_pokemon_stadium
+    title: "Credits (Round 2)"
+    path: "68 Credits (Round 2).miniusf"
+    ends: 2:46
+    type: betting
+  - id: vs_mewtwo_menu
+    title: "VS. Mewtwo Menu"
+    path: "69 VS. Mewtwo Menu.miniusf"
+    type: betting
+  - id: battle_with_mewtwo
+    title: "Battle with Mewtwo"
+    path: "70 Battle with Mewtwo.miniusf"
+    type: battle
+  - id: unknown_pokemon_stadium
+    title: "Unknown"
+    path: "99 Unknown.miniusf"
+    type: result
 ...

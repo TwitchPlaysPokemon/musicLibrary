@@ -1,0 +1,59 @@
+---
+id: motor_raid
+title: "Motor Raid"
+platform: "Arcade"
+year: 1997
+songs: 
+  - id: fearless_riders_advertise
+    title: "FEARLESS RIDERS (ADVERTISE)"
+    path: "Fearless Riders (Advertise).brstm"
+    type: warning
+  - id: chase_the_rival_tutorial
+    title: "CHASE THE RIVAL (TUTORIAL)"
+    path: "Chase the Rival (Tutorial).brstm"
+    type: warning
+  - id: no_mercy_entry_select
+    title: "NO MERCY! (ENTRY~SELECT)"
+    path: "No Mercy! (Entry Select).brstm"
+    type: betting
+  - id: preliminary_heat_from_yendas
+    title: "PRELIMINARY HEAT (from YENDAS)"
+    path: "Preliminaryheat (From Yendas).brstm"
+    type: battle
+  - id: hyper_scramble_from_ido
+    title: "HYPER SCRAMBLE (from IDO)"
+    path: "Hyper Scramble (From Ido).brstm"
+    type: battle
+  - id: outride_the_wind_from_reef8
+    title: "OUTRIDE THE WIND (from REEF8)"
+    path: "Outride the Wind (From Reef8).brstm"
+    type: battle
+  - id: frosty_night_from_junos
+    title: "FROSTY NIGHT (from JUNOS)"
+    path: "Frosty Night (From Junos).brstm"
+    type: betting
+  - id: scorching_battle_from_bowel
+    title: "SCORCHING BATTLE (from BOWEL)"
+    path: "Scorching Battle (From Bowel).brstm"
+    type: battle
+  - id: cryptic_finals_from_segal
+    title: "CRYPTIC FINALS (from SEGAL)"
+    path: "Cryptic Finals (From Segal).brstm"
+    type: betting
+  - id: get_the_future_finish
+    title: "GET THE FUTURE (FINISH)"
+    path: "Get the Future (Finish).brstm"
+    type: warning
+  - id: sky_high_winner_ending
+    title: "Sky-High Winner (Ending)"
+    path: "Sky-High Winner (Ending).brstm"
+    type: warning
+  - id: in_your_memories_staff_roll
+    title: "IN YOUR MEMORIES (STAFF ROLL)"
+    path: "In Your Memories (Staff Roll).brstm"
+    type: betting
+  - id: only_the_victor_name_entry
+    title: "ONLY THE VICTOR (NAME ENTRY)"
+    path: "Only the Victor (Name Entry).brstm"
+    type: result
+...

@@ -5,52 +5,68 @@ series: pokemon
 platform: "N64"
 year: 2001
 songs:
-  - id: battle_prep
-    title: "Battle Preparation"
+  - id: little_cup_battle_4_6
+    title: "Little Cup ~ Battle 4-6"
+    path: "sparse0a.brstm"
+    type: warning
+  - id: poke_cup_final
+    title: "Poké Cup ~ Final"
+    path: "sparse0b.brstm"
+    type: warning
+  - id: champion_red
+    title: "Champion: Red"
+    path: "sparse0c.brstm"
+    type: battle
+  - id: unused_gym
+    title: "Unused ~ Gym"
+    path: "sparse01.brstm"
+    type: battle
+  - id: player_select_ps2
+    title: "Player Select (PS2)"
     path: "Battle Preparation.brstm"
     type: warning
   - id: gutsy_golbat
     title: "Gutsy Golbat"
     path: "Gusty Golbat.brstm"
     type: warning
-  - id: quiz
-    title: "Quiz"
+  - id: quick_draw_quiz
+    title: "Quick-Draw Quiz"
     path: "Quiz.brstm"
     type: betting
   - id: tumbling_togepi
     title: "Tumbling Togepi"
     path: "Tumbling Togepi.brstm"
     type: warning
-  - id: vs_theme
-    title: "Versus Theme"
+  - id: trainer_s_challenge_ps2
+    title: "Trainer's Challenge (PS2)"
     path: "Versus Theme.brstm"
     type: warning
-  - id: victory_stadium_2
-    title: "Victory Theme"
+  - id: stage_results_ps2_good
+    title: "Stage Results (PS2) ~ Good"
     path: "Victory.brstm"
     type: result
-  - id: pokemon_registration_stadium_2
-    title: "Pokémon Registration"
+  - id: rental_pokemon_ps2
+    title: "Rental Pokémon (PS2)"
     path: "Pokemon Registration.brstm"
     type: warning
-  - id: challenge_cup_battle_stadium2
-    title: "Challenge Cup Battle"
+  - id: challenge_cup_battles_1_3
+    title: "Challenge Cup ~ Battles 1-3"
     path: "Challenge Cup Battle.brstm"
     type: betting
-  - id: event_battle_stadium2
-    title: "Event Battle"
+  - id: multiplayer_menu_ps2
+    title: "Multiplayer Menu (PS2)"
     path: "Event Battle.brstm"
     type: result
-  - id: poke_cup_battle_stadium2
-    title: "Poké Cup Battle"
+  - id: poke_cup_battles_1_3_ps2
+    title: "Poké Cup ~ Battles 1-3 (PS2)"
     path: "Poké Cup Battle.brstm"
-    type: betting
-  - id: poke_cup_battle_2_stadium2
-    title: "Poké Cup Battle 2"
+    type: battle
+  - id: poke_cup_battles_4_6_ps2
+    title: "Poké Cup ~ Battles 4-6 (PS2)"
     path: "Poké Cup Battle 2.brstm"
-    type: betting
-  - id: poke_cup_final_battle_stadium2
-    title: "Poké Cup Final Battle"
+    type: battle
+  - id: poke_cup_semifinal_ps2
+    title: "Poké Cup ~ Semifinal (PS2)"
     path: "Poké Cup Final Battle.brstm"
     type: battle
 ...

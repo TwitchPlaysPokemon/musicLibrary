@@ -1,0 +1,93 @@
+---
+id: mega_man_8_saturn
+title: "Mega Man 8 [Saturn]"
+series: megaman
+platform: ["PS1", "Saturn"]
+year: 1996
+songs:
+  - id: opening_stage_1_mm8_saturn
+    title: "OPENING STAGE 1"
+    path: "02 Opening Stage 1.ssf"
+    type: betting
+  - id: opening_stage_2_mm8_saturn
+    title: "OPENING STAGE 2"
+    path: "03 Opening Stage 2.ssf"
+    type: warning
+  - id: stage_select_mm8_saturn
+    title: "STAGE SELECT"
+    path: "06 Stage Select.ssf"
+    type: warning
+  - id: frost_man_stage_saturn
+    title: "FROST MAN STAGE"
+    path: "09 FrostMan Stage.ssf"
+    tags: [xmas]
+    type: betting
+  - id: clown_man_stage_saturn
+    title: "CLOWN MAN STAGE"
+    path: "10 ClownMan Stage.ssf"
+    type: betting
+  - id: grenade_man_stage_saturn
+    title: "GRENADE MAN STAGE"
+    path: "12 GrenadeMan Stage.ssf"
+    type: betting
+  - id: sword_man_stage_saturn
+    title: "SWORD MAN STAGE"
+    path: "15 SwordMan Stage.ssf"
+    type: betting
+  - id: aqua_man_stage_saturn
+    title: "AQUA MAN STAGE"
+    path: "16 AquaMan Stage.ssf"
+    type: betting
+  - id: astro_man_stage_saturn
+    title: "ASTRO MAN STAGE"
+    path: "17 AstroMan Stage.ssf"
+    type: betting
+  - id: search_man_stage_saturn
+    title: "SEARCH MAN STAGE"
+    path: "19 SearchMan Stage.ssf"
+    type: betting
+  - id: warning_mm8_saturn
+    title: "WARNING"
+    path: "20 Stage Boss Appear.ssf"
+    type: warning
+  - id: dr_right_laboratory_mm8_saturn
+    title: "DR. RIGHT LABORATORY"
+    path: "07 Dr.Right's Lab.ssf"
+    type: break
+  - id: dr_wily_stage_1_mm8_saturn
+    title: "DR. WILY STAGE 1"
+    path: "25 Wily Stage 1.ssf"
+    type: betting
+  - id: dr_wily_stage_2_mm8_saturn
+    title: "DR. WILY STAGE 2"
+    path: "26 Wily Stage 2.ssf"
+    type: betting
+  - id: dr_wily_stage_3_mm8_saturn
+    title: "DR. WILY STAGE 3"
+    path: "27 Wily Stage 3.ssf"
+    type: betting
+  - id: theme_of_forte_mm8_saturn
+    title: "THEME OF FORTE"
+    path: "28 Forte.ssf"
+    type: warning
+  - id: dr_wily_stage_4_mm8_saturn
+    title: "DR. WILY STAGE 4"
+    path: "29 Wily Stage 4.ssf"
+    type: warning
+  - id: wily_machine_mm8_saturn
+    title: "WILY MACHINE"
+    path: "30 Wily Machine.ssf"
+    type: battle
+  - id: tengu_man_stage_ss
+    title: "TENGU MAN STAGE (SS)"
+    path: "11 TenguMan Stage.ssf"
+    type: betting
+  - id: cut_man_stage_ss
+    title: "CUT MAN STAGE (SS)"
+    path: "13 CutMan.ssf"
+    type: betting
+  - id: wood_man_stage_ss
+    title: "WOOD MAN STAGE (SS)"
+    path: "18 WoodMan.ssf"
+    type: betting
+...

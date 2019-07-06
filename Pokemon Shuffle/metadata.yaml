@@ -13,14 +13,6 @@ songs:
     title: "Against Mega Mewtwo Y"
     path: "Battle! Against Mega Mewtwo Y.brstm"
     type: warning
-  - id: expert_stage
-    title: "Expert Stage"
-    path: "Battle! Expert Stage.brstm"
-    type: warning
-  - id: ranking_stage
-    title: "Ranking Stage"
-    path: "Battle! Ranking Stage.brstm"
-    type: betting
   - id: puerto_blanco
     title: "Puerto Blanco"
     path: "Puerto Blanco.brstm"
@@ -41,4 +33,88 @@ songs:
     title: "Castle Noapte"
     path: "BGM_MAP_MAIN10.dspadpcm.bcstm"
     type: betting
+  - id: special_stages_pokemon_shuffle
+    title: "Special Stages"
+    path: "BGM_MAP_EVENT.dspadpcm.bcstm"
+    type: betting
+  - id: wacky_worship
+    title: "Wacky Worship"
+    path: "BGM_MAP_MAIN12.dspadpcm.bcstm"
+    type: betting
+  - id: pedra_valley
+    title: "Pedra Valley"
+    path: "BGM_MAP_MAIN13.dspadpcm.bcstm"
+    type: result
+  - id: sandy_bazaar
+    title: "Sandy Bazaar"
+    path: "BGM_MAP_MAIN2.dspadpcm.bcstm"
+    type: betting
+  - id: night_festival
+    title: "Night Festival"
+    path: "BGM_MAP_MAIN3.dspadpcm.bcstm"
+    type: betting
+  - id: isla_asul
+    title: "Isla Asul"
+    path: "BGM_MAP_MAIN4.dspadpcm.bcstm"
+    type: break
+  - id: rainbow_park
+    title: "Rainbow Park"
+    path: "BGM_MAP_MAIN5.dspadpcm.bcstm"
+    type: betting
+  - id: galerie_rouge
+    title: "Galerie Rouge"
+    path: "BGM_MAP_MAIN6.dspadpcm.bcstm"
+    type: betting
+  - id: sweet_strasse
+    title: "Sweet Strasse"
+    path: "BGM_MAP_MAIN7.dspadpcm.bcstm"
+    type: betting
+  - id: silbern_museum
+    title: "Silbern Museum"
+    path: "BGM_MAP_MAIN8.dspadpcm.bcstm"
+    type: betting
+  - id: with_a_mega_evolved_pokemon
+    title: "With a Mega-Evolved Pokémon"
+    path: "BGM_MEGA.dspadpcm.bcstm"
+    type: result
+  - id: results_pokemon_shuffle
+    title: "Results"
+    path: "BGM_RESULT.dspadpcm.bcstm"
+    type: result
+  - id: against_an_easy_pokemon
+    title: "Against an Easy Pokémon"
+    path: "BGM_STAGE_EASY.dspadpcm.bcstm"
+    type: result
+  - id: expert_stages
+    title: "Expert Stages"
+    path: "BGM_STAGE_EXTRA.dspadpcm.bcstm"
+    type: betting
+  - id: against_a_fun_pokemon
+    title: "Against a Fun Pokémon"
+    path: "BGM_STAGE_FUN.dspadpcm.bcstm"
+    type: result
+  - id: against_a_hard_pokemon
+    title: "Against a Hard Pokémon"
+    path: "BGM_STAGE_HARD.dspadpcm.bcstm"
+    type: betting
+  - id: against_a_legendary_pokemon
+    title: "Against a Legendary Pokémon"
+    path: "BGM_STAGE_LEGEND.dspadpcm.bcstm"
+    type: warning
+  - id: against_a_normal_pokemon
+    title: "Against a Normal Pokémon"
+    path: "BGM_STAGE_NORMAL.dspadpcm.bcstm"
+    type: betting
+  - id: ranking_stage
+    title: "Ranking Stage"
+    path: "BGM_STAGE_RANKING.dspadpcm.bcstm"
+    type: betting
+  - id: against_a_rare_pokemon
+    title: "Against a Rare Pokémon"
+    path: "BGM_STAGE_RARE.dspadpcm.bcstm"
+    type: betting
+  - id: title_pokemon_shuffle
+    title: "Title"
+    path: "BGM_TITLE.dspadpcm.bcstm"
+    type: break
 ...

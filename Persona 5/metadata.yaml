@@ -7,45 +7,53 @@ year: 2016
 songs: 
   - id: tokyo_daylight
     title: "Tokyo Daylight"
-    path: "Tokyo Daylight.brstm"
+    path: "bgm_610.adx"
     type: break
   - id: tokyo_emergency
     title: "Tokyo Emergency"
-    path: "Tokyo Emergency.brstm"
-    type: warning
+    path: "bgm_001.adx"
+    type: betting
+  - id: rivers_in_the_desert
+    title: "Rivers In the Desert"
+    path: "bgm_336.adx"
+    type: betting
   - id: rivers_in_the_desert_instrumental
     title: "Rivers In the Desert (Instrumental)"
-    path: "Rivers In the Desert -Instrumental Version-.brstm"
-    type: warning
+    path: "bgm_332.adx"
+    type: battle
   - id: king_queen_and_slave
     title: "King, Queen, and Slave"
-    path: "King, Queen, and Slave.brstm"
+    path: "bgm_400.adx"
     type: betting
   - id: a_woman
     title: "A Woman"
-    path: "A Woman.brstm"
+    path: "bgm_410.adx"
     type: break
   - id: butterfly_kiss
     title: "Butterfly Kiss"
-    path: "Butterfly Kiss.brstm"
+    path: "bgm_502.adx"
     type: break
   - id: blooming_villain
     title: "Blooming Villain"
-    path: "Blooming Villain.brstm"
+    path: "bgm_013.adx"
     type: battle
   - id: jaldabaoth
     title: "Jaldabaoth"
-    path: "Jaldabaoth.brstm"
+    path: "bgm_333.adx"
     type: battle
   - id: whats_going_on
     title: "What's Going On?"
-    path: "What's Going On.brstm"
+    path: "bgm_004.adx"
     type: betting
   - id: beneath_the_mask
     title: "Beneath the Mask"
     path: "Beneath the Mask.adx"
     type: break
-  - id: life_will_change_inst
+  - id: life_will_change
+    title: "Life Will Change"
+    path: "bgm_471.adx"
+    type: betting
+  - id: life_will_change_instrumental
     title: "Life Will Change (Instrumental)"
     path: "Life Will Change (Instrumental).adx"
     type: battle
@@ -73,12 +81,17 @@ songs:
     title: "Will Power"
     path: "bgm_0000003F.adx"
     type: battle
-  - id: destiny_land
-    title: "Destiny Land"
+  - id: destinyland
+    title: "Destinyland"
     path: "Destiny Land.brstm"
     type: result
   - id: wicked_plan
     title: "Wicked Plan"
     path: "Wicked Plan.adx"
+    type: betting
+  - id: last_surprise
+    title: "Last Surprise"
+    path: "bgm_300.adx"
+    ends: 3:30
     type: betting
 ...

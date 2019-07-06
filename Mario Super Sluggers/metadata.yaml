@@ -2,43 +2,43 @@
 id: mario_super_sluggers
 title: "Mario Super Sluggers"
 series: mario
-year: 2008
 platform: "Wii"
+year: 2008
 songs:
   - id: stadium_yoshi_park
-    title: "Stadium - Yoshi Park"
-    path: "Stadium - Yoshi Park.brstm"
+    title: "Stadium ~ Yoshi Park"
+    path: "bgm_st_yoshi.brstm"
     type: betting
-  - id: challenge_mode_dk_stage_theme
-    title: "Challenge Mode - DK Stage Theme"
-    path: "Challenge Mode - DK Stage Theme.brstm"
+  - id: map_dk_jungle
+    title: "Map ~ DK Jungle"
+    path: "bgm_sub_donkey.brstm"
     type: betting
-  - id: challenge_mode_mario_stage_theme
-    title: "Challenge Mode - Mario Stage Theme"
-    path: "Challenge Mode - Mario Stage Theme.brstm"
+  - id: map_mario_stadium
+    title: "Map ~ Mario Stadium"
+    path: "bgm_sub_mario.brstm"
     type: betting
-  - id: challenge_mode_wario_stage_theme
-    title: "Challenge Mode - Wario Stage Theme"
-    path: "Challenge Mode - Wario Stage Theme.brstm"
+  - id: map_wario_city
+    title: "Map ~ Wario City"
+    path: "bgm_sub_wario.brstm"
     type: betting
   - id: stadium_daisy_cruiser
-    title: "Stadium - Daisy Cruiser"
-    path: "Stadium - Daisy Cruiser.brstm"
+    title: "Stadium ~ Daisy Cruiser"
+    path: "bgm_st_daisy.brstm"
     type: betting
   - id: stadium_peach_ice_garden
-    title: "Stadium - Peach Ice Garden"
-    path: "Stadium - Peach Ice Garden.brstm"
+    title: "Stadium ~ Peach Ice Garden"
+    path: "bgm_st_peach.brstm"
     type: betting
-  - id: character_selection_records
-    title: "Character Selection/Records"
-    path: "Character Selection_Records.brstm"
-    type: warning
-  - id: stadium_bowsers_castle
-    title: "Stadium - Bowser's Castle"
-    path: "Stadium - Bowser's Castle.brstm"
+  - id: character_select_mario_super_sluggers
+    title: "Character Select"
+    path: "bgm_select.brstm"
     type: betting
-  - id: results
-    title: "Results"
-    path: "Results.brstm"
+  - id: stadium_bowser_castle
+    title: "Stadium ~ Bowser Castle"
+    path: "bgm_st_koopa.brstm"
+    type: betting
+  - id: game_results
+    title: "Game Results"
+    path: "bgm_result.brstm"
     type: result
 ...

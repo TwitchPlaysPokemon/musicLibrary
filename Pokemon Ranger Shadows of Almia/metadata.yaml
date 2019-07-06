@@ -2,55 +2,67 @@
 id: pokemon_ranger_shadows
 title: "Pokémon Ranger: Shadows of Almia"
 series: pokemon
-year: 2008
 platform: "NDS"
+year: 2008
 songs:
   - id: tension_ranger_shadows
     title: "Tension"
-    path: "Tension.mini2sf"
+    path: "0000 SEQ_FLD_TENSION.mini2sf"
     type: warning
   - id: school_road
     title: "School Road"
-    path: "School Road.mini2sf"
+    path: "000d SEQ_FLD_BGM01.mini2sf"
     type: betting
   - id: trouble_ranger_shadows
     title: "Trouble"
-    path: "Trouble.mini2sf"
+    path: "000f SEQ_FLD_TROUBLE.mini2sf"
     type: warning
   - id: altru_tower
     title: "Altru Tower"
-    path: "Altru Tower.mini2sf"
-    type: warning
+    path: "001d SEQ_FLD_UNHELL03.mini2sf"
+    type: betting
   - id: wild_battle_ranger_shadows
     title: "Wild Pokémon Battle"
-    path: "Wild Pokemon Battle.mini2sf"
+    path: "0002 SEQ_CAP_BGM01.mini2sf"
     type: result
   - id: gorock_concert
     title: "Go-Rock Quads Concert"
-    path: "Go-Rock Quads Concert.mini2sf"
+    path: "004b SEQ_EVE_ENDING2.mini2sf"
     type: betting
   - id: new_almia
     title: "A New Almia"
-    path: "A New Almia.mini2sf"
+    path: "004a SEQ_EVE_ENDING1.mini2sf"
     type: result
   - id: darkrai_regigigas
     title: "Darkrai & Regigigas"
-    path: "Darkrai & Regigigas.mini2sf"
+    path: "004c SEQ_EVE_DARKRIVAL.mini2sf"
     type: battle
   - id: cargo_ship
     title: "Cargo Ship"
-    path: "Cargo Ship.mini2sf"
-    type: warning
+    path: "004d SEQ_FLD_BGM18.mini2sf"
+    type: betting
   - id: empoleon_ride
     title: "Empoleon Ride"
-    path: "Empoleon Ride.mini2sf"
+    path: "0010 SEQ_FLD_RIDE.mini2sf"
     type: betting
   - id: team_dim_sun_sinis
     title: "Team Dim Suns Sinis Trio Battle"
-    path: "Team Dim Suns Sinis Trio Battle.mini2sf"
+    path: "0025 SEQ_CAP_YAMI4.mini2sf"
     type: warning
   - id: capture_inside
     title: "Capture Arena (Inside)"
-    path: "Capture Arena (Inside).mini2sf"
+    path: "0037 SEQ_FLD_COLOCAPTURE.mini2sf"
     type: result
+  - id: team_dim_sun_admin_battle
+    title: "Team Dim Sun Admin Battle"
+    path: "0024 SEQ_CAP_YAMI3.mini2sf"
+    type: warning
+  - id: team_dim_sun_grunt_battle
+    title: "Team Dim Sun Grunt Battle"
+    path: "0023 SEQ_CAP_YAMI2.mini2sf"
+    type: warning
+  - id: chicole_village
+    title: "Chicole Village"
+    path: "002d SEQ_FLD_BGM10.mini2sf"
+    type: betting
 ...

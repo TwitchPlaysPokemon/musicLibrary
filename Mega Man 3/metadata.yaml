@@ -6,51 +6,75 @@ platform: "NES"
 year: 1990
 songs: 
   - id: title_mm3
-    title: "Title"
+    title: "TITLE"
     path: "01 Title.vgz"
     type: betting
   - id: pass_word_mm3
-    title: "Pass Word"
+    title: "PASS WORD"
     path: "02 Pass Word.vgz"
     type: result
   - id: needle_man_stage
-    title: "Needle Man Stage"
+    title: "NEEDLE MAN STAGE"
     path: "05 Needle Man Stage.vgz"
     type: betting
   - id: magnet_man_stage
-    title: "Magnet Man Stage"
+    title: "MAGNET MAN STAGE"
     path: "06 Magnet Man Stage.vgz"
     type: betting
   - id: gemini_man_stage
-    title: "Gemini Man Stage"
+    title: "GEMINI MAN STAGE"
     path: "07 Gemini Man Stage.vgz"
     type: betting
   - id: hard_man_stage
-    title: "Hard Man Stage"
+    title: "HARD MAN STAGE"
     path: "08 Hard Man Stage.vgz"
     type: betting
+  - id: top_man_stage
+    title: "TOP MAN STAGE"
+    path: "09 Top Man Stage.vgz"
+    type: betting
   - id: snake_man_stage
-    title: "Snake Man Stage"
+    title: "SNAKE MAN STAGE"
     path: "10 Snake Man Stage.vgz"
     type: betting
   - id: spark_man_stage
-    title: "Spark Man Stage"
+    title: "SPARK MAN STAGE"
     path: "11 Spark Man Stage.vgz"
     type: betting
+  - id: shadow_man_stage
+    title: "SHADOW MAN STAGE"
+    path: "12 Shadow Man Stage.vgz"
+    type: betting
   - id: boss_mm3
-    title: "Boss"
+    title: "BOSS"
     path: "14 Boss.vgz"
     type: warning
   - id: get_a_weapon_mm3
-    title: "Get A Weapon"
+    title: "GET A WEAPON"
     path: "16 Get A Weapon.vgz"
     type: result
+  - id: dr_wily_stage_1_mm3
+    title: "Dr.WILY STAGE 1"
+    path: "18 Dr. Wily Stage 1.vgz"
+    type: betting
+  - id: dr_wily_stage_2_mm3
+    title: "Dr.WILY STAGE 2"
+    path: "19 Dr. Wily Stage 2.vgz"
+    type: betting
+  - id: dr_wily_stage_3_mm3
+    title: "Dr.WILY STAGE 3"
+    path: "20 Dr. Wily Stage 3.vgz"
+    type: warning
+  - id: dr_wily_stage_boss
+    title: "Dr.WILY STAGE BOSS"
+    path: "21 Dr. Wily Stage Boss.vgz"
+    type: warning
   - id: ending_mm3
-    title: "Ending"
+    title: "ENDING"
     path: "23 Ending.vgz"
     type: break
-  - id: credit_roll_mm3
-    title: "Credit Roll"
+  - id: staff_roll_mm3
+    title: "STAFF ROLL"
     path: "24 Credit Roll.vgz"
     type: result
 ...

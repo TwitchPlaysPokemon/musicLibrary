@@ -98,4 +98,33 @@ songs:
     title: "Relic Forest"
     path: "Relic Forest.brstm"
     type: break
+  - id: evice_s_theme
+    title: "Evice's Theme"
+    path: "Evice's Theme.brstm"
+    type: warning
+  - id: mirakle_b_s_imitation_groove
+    title: "Mirakle B.'s Imitation Groove"
+    path: "Mirakle B.'s Imitation Groove.brstm"
+    type: warning
+  - id: fateen_the_fortune_teller
+    title: "Fateen the Fortune Teller"
+    path: "Mystery.brstm"
+    type: break
+  - id: opening_demo_pokemon_colosseum
+    title: "Opening Demo"
+    path: "Opening Demo.brstm"
+    ends: 1:30
+    type: betting
+  - id: pyrite_building
+    title: "Pyrite Building"
+    path: "Pyrite Building.brstm"
+    type: betting
+  - id: e_reader_pokemon_colosseum
+    title: "E-Reader"
+    path: "Virtual.brstm"
+    type: break
+  - id: ending_pokemon_colosseum
+    title: "Ending"
+    path: "Ending - Part 1.brstm"
+    type: result
 ...

@@ -5,36 +5,189 @@ series: megaman
 platform: ["PS2", "PC"]
 year: 2004
 songs:
+  - id: theme_of_rockmanx8
+    title: "Theme Of \"RockmanX8\""
+    path: "01 - Rockman X8 Theme.mp3"
+    ends: 1:48
+    type: betting
+  - id: noah_s_park
+    title: "Noah's Park"
+    path: "st00.adx"
+    type: betting
+  - id: intrusion_crabz_y
+    title: "Intrusion Crabz-Y"
+    path: "b01.adx"
+    type: warning
+  - id: vs_maverick
+    title: "VS Maverick"
+    path: "b02.adx"
+    type: battle
+  - id: troia_bass_forwarding
+    title: "Troia Bass ~ Forwarding"
+    path: "st01_a.adx"
+    type: betting
+  - id: primrose
+    title: "Primrose"
+    path: "st02.adx"
+    type: betting
+  - id: pitch_black_sneaking
+    title: "Pitch Black ~ Sneaking"
+    path: "st03_a.adx"
+    type: betting
+  - id: pitch_black_discovery
+    title: "Pitch Black ~ Discovery"
+    path: "st03_b.adx"
+    type: warning
   - id: dynasty
     title: "Dynasty"
-    path: "Dynasty (Variation).brstm"
+    path: "st04.adx"
     type: betting
+  - id: inferno_descending
+    title: "Inferno ~ Descending"
+    path: "st05_a.adx"
+    type: betting
+  - id: inferno_going_up
+    title: "Inferno ~ Going up"
+    path: "st05_b.adx"
+    type: warning
+  - id: central_white
+    title: "Central White"
+    path: "st06.adx"
+    type: betting
+  - id: metal_valley_evade
+    title: "Metal Valley ~ Evade"
+    path: "st07_a.adx"
+    type: betting
+  - id: metal_valley_overheat
+    title: "Metal Valley ~ Overheat"
+    path: "st07_b.adx"
+    type: betting
+  - id: booster_forest
+    title: "Booster Forest"
+    path: "st08_a.adx"
+    type: betting
+  - id: booster_forest_ride_armor_cyclops
+    title: "Booster Forest ~ Ride Armor \"CYCLOPS\""
+    path: "st08_b.adx"
+    type: betting
+  - id: vs_boss_demo
+    title: "VS Boss Demo"
+    path: "_3dd03.adx"
+    type: warning
+  - id: vs_8boss
+    title: "VS 8Boss"
+    path: "b03.adx"
+    type: battle
   - id: angry_8boss
     title: "Angry 8Boss"
-    path: "Angry Boss.brstm"
-    type: warning
-  - id: pitch_black_discovery
-    title: "Pitch Black - Discovery"
-    path: "Pitch Black - Discovery.brstm"
-    type: warning
-  - id: vs_boss_demo
-    title: "VS Boss (Demo)"
-    path: "Boss Confrontation (Demo 3).brstm"
+    path: "b08.adx"
     type: warning
   - id: jakob
     title: "Jakob"
-    path: "Jakob Orbital Elevator.brstm"
+    path: "st09.adx"
     type: battle
-  - id: demo_with_the_hunter_base
-    title: "Demo - With the Hunter Base"
-    path: "With Hunter Base.brstm"
+  - id: vs_vava
+    title: "VS VAVA"
+    path: "b09.adx"
+    type: battle
+  - id: gateway
+    title: "Gateway"
+    path: "st10_a.adx"
+    type: betting
+  - id: gateway_escape
+    title: "Gateway ~ Escape"
+    path: "st10_b.adx"
+    type: warning
+  - id: vs_copysigma
+    title: "VS CopySigma"
+    path: "b04.adx"
+    type: battle
+  - id: sigma_palace
+    title: "Sigma Palace"
+    path: "st11.adx"
+    type: betting
+  - id: vs_sigma_demo
+    title: "VS Sigma Demo"
+    path: "_3dd05.adx"
+    type: warning
+  - id: vs_sigma
+    title: "VS Sigma"
+    path: "b05.adx"
+    type: battle
+  - id: vs_lumine_the_first_form
+    title: "VS Lumine ~ The first form"
+    path: "b06.adx"
+    type: battle
+  - id: vs_lumine_demo
+    title: "VS Lumine Demo"
+    path: "_3dd04.adx"
+    type: warning
+  - id: vs_lumine_the_second_form
+    title: "VS Lumine ~ The second form"
+    path: "b07.adx"
+    type: battle
+  - id: paradise_lost
+    title: "Paradise lost"
+    path: "b10.adx"
+    type: warning
+  - id: lost_misc_intermission_select
+    title: "Lost Misc - Intermission Select"
+    path: "Intermission Select.brstm"
+    type: warning
+  - id: intermission_mmx8
+    title: "Intermission"
+    path: "st12.adx"
+    type: battle
+  - id: dr_right_s_capsule
+    title: "Dr.Right's Capsule"
+    path: "sd03.adx"
+    type: result
+  - id: title_mmx8
+    title: "Title"
+    path: "sy01.adx"
+    type: warning
+  - id: hunter_base_going_to_the_front
+    title: "Hunter Base ~ Going to the front"
+    path: "sy02.adx"
+    type: warning
+  - id: hunter_base_doubt
+    title: "Hunter Base ~ Doubt"
+    path: "sy03.adx"
+    type: warning
+  - id: hunter_base_wickedness
+    title: "Hunter Base ~ Wickedness"
+    path: "sy04.adx"
+    type: warning
+  - id: result_mmx8
+    title: "Result"
+    path: "sy06.adx"
+    type: result
+  - id: menu_mmx8
+    title: "Menu"
+    path: "sy07.adx"
     type: break
-  - id: dr_lights_capsule_mmx8
-    title: "Dr. Light's Capsule"
-    path: "Dr. Light Capsule.brstm"
-    type: break
-  - id: save_and_load
+  - id: save_load
     title: "Save & Load"
-    path: "Save and Load.brstm"
+    path: "sy08.adx"
+    type: break
+  - id: option_mmx8
+    title: "Option"
+    path: "sy09.adx"
+    type: break
+  - id: demo_sorrow
+    title: "Demo ~ Sorrow"
+    path: "_2dd02.adx"
+    type: break
+  - id: demo_perplexity
+    title: "Demo ~ Perplexity"
+    path: "_2dd03.adx"
+    type: warning
+  - id: demo_advancement
+    title: "Demo ~ Advancement"
+    path: "_2dd04.adx"
+    type: warning
+  - id: demo_with_the_hunter_base
+    title: "Demo ~ With The Hunter Base"
+    path: "_2dd05.adx"
     type: break
 ...

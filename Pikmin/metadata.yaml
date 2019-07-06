@@ -1,8 +1,8 @@
 ---
-id: pikmin
+id: pikmin_1
 title: "Pikmin"
 series: pikmin
-platform: "GC"
+platform: ["GCN", "Wii"]
 year: 2001
 songs:
   - id: creature_montage_pikmin1
@@ -21,4 +21,48 @@ songs:
     title: "The Distant Spring"
     path: "The Distant Spring.brstm"
     type: break
+  - id: ship_complete_now_to_outer_space
+    title: "Ship Complete, Now to Outer Space!"
+    path: "Chapter Complete.brstm"
+    type: result
+  - id: a_gigantic_creature_draws_near
+    title: "A Gigantic Creature Draws Near"
+    path: "Impending Doom.brstm"
+    type: warning
+  - id: choose_a_ship_s_log
+    title: "Choose a Ship's Log"
+    path: "Level Select.brstm"
+    type: break
+  - id: i_will_live_as_a_pikmin
+    title: "I Will Live as a Pikmin..."
+    path: "Live as a Pikmin.brstm"
+    type: result
+  - id: those_who_directed_this_journey
+    title: "Those Who Directed This Journey"
+    path: "People Who Helped.brstm"
+    type: betting
+  - id: pikmin
+    title: "Pikmin"
+    path: "Pikmin.brstm"
+    type: betting
+  - id: challenge_results_announced
+    title: "Challenge Results Announced"
+    path: "Results.brstm"
+    type: result
+  - id: the_final_trial
+    title: "The Final Trial"
+    path: "The Final Trial.brstm"
+    type: betting
+  - id: the_impact_site
+    title: "The Impact Site"
+    path: "The Impact Site.brstm"
+    type: betting
+  - id: today_s_record
+    title: "Today's Record"
+    path: "Today's Results.brstm"
+    type: result
+  - id: panoramic_view
+    title: "Panoramic View"
+    path: "View.brstm"
+    type: betting
 ...

@@ -185,4 +185,20 @@ songs:
     title: "PokéSpot"
     path: "PokeSpot.brstm"
     type: break
+  - id: battle_bingo_pokemon_xd
+    title: "Battle Bingo"
+    path: "Battle Bingo.brstm"
+    type: result
+  - id: cipher_lab_pokemon_xd
+    title: "Cipher Lab"
+    path: "Cipher Lab.brstm"
+    type: betting
+  - id: dr_kaminko_s_yard_pokemon_xd
+    title: "Dr. Kaminko's Yard"
+    path: "Dr. Kaminko's Yard.brstm"
+    type: break
+  - id: ending_pokemon_xd
+    title: "Ending"
+    path: "Greevil Redeemed.brstm"
+    type: break
 ...

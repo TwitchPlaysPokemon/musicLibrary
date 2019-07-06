@@ -5,17 +5,50 @@ series: megaman
 platform: "NES"
 year: 1987
 songs: 
+  - id: cutman_stage
+    title: "CUTMAN STAGE"
+    path: "03 Cutman Stage.vgz"
+    type: betting
+  - id: gutsman_stage
+    title: "GUTSMAN STAGE"
+    path: "04 Gutsman Stage.vgz"
+    type: betting
   - id: iceman_stage
-    title: "Iceman Stage"
+    title: "ICEMAN STAGE"
     path: "05 Iceman Stage.vgz"
     tags: [xmas]
     type: betting
+  - id: bombman_stage
+    title: "BOMBMAN STAGE"
+    path: "06 Bombman Stage.vgz"
+    type: betting
+  - id: fireman_stage
+    title: "FIREMAN STAGE"
+    path: "07 Fireman Stage.vgz"
+    type: betting
   - id: elecman_stage
-    title: "Elecman Stage"
+    title: "ELECMAN STAGE"
     path: "08 Elecman Stage.vgz"
     type: betting
   - id: boss_mega_man
-    title: "Boss"
+    title: "BOSS"
     path: "09 Boss.vgz"
     type: warning
+  - id: dr_wily_stage_1_mm1
+    title: "Dr.WILY STAGE 1"
+    path: "11 Dr. Wily Stage 1.vgz"
+    type: betting
+  - id: dr_wily_stage_2_mm1
+    title: "Dr.WILY STAGE 2"
+    path: "12 Dr. Wily Stage 2.vgz"
+    type: warning
+  - id: dr_wily_stage_boss_mm1
+    title: "Dr.WILY STAGE BOSS"
+    path: "13 Dr. Wily Stage Boss.vgz"
+    type: warning
+  - id: ending_mm1
+    title: "ENDING"
+    path: "15 Ending.vgz"
+    ends: 1:33
+    type: betting
 ...

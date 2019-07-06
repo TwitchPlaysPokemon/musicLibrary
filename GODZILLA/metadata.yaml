@@ -1,0 +1,19 @@
+---
+id: godzilla
+title: "GODZILLA"
+platform: ["PS3", "PS4"]
+year: 2014
+songs: 
+  - id: diorama_mode_epilogue
+    title: "Diorama Mode - Epilogue"
+    path: "Diorama Mode - Epilogue.brstm"
+    type: break
+  - id: results_godzilla
+    title: "Results"
+    path: "Results.brstm"
+    type: result
+  - id: vs_godzilla_2014
+    title: "VS. GODZILLA (2014)"
+    path: "VS. GODZILLA (2014).brstm"
+    type: battle
+...

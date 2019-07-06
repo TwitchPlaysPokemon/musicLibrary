@@ -1,0 +1,59 @@
+---
+id: pokemon_battle_trozei
+title: "Pokémon Battle Trozei"
+platform: "3DS"
+year: 2014
+songs: 
+  - id: boss_battle_pokemon_battle_trozei
+    title: "Boss Battle"
+    path: "BGM_BOSS2.dspadpcm.bcstm"
+    type: battle
+  - id: final_boss_zygarde
+    title: "Final Boss: Zygarde"
+    path: "BGM_BOSS3.dspadpcm.bcstm"
+    type: warning
+  - id: endless_pokemon_battle_trozei
+    title: "Endless"
+    path: "BGM_ENDLESS.dspadpcm.bcstm"
+    type: warning
+  - id: results_pokemon_battle_trozei
+    title: "Results"
+    path: "BGM_RESULT.dspadpcm.bcstm"
+    type: result
+  - id: stage_select_pokemon_battle_trozei
+    title: "Stage Select"
+    path: "BGM_SELECT.dspadpcm.bcstm"
+    type: betting
+  - id: stage_bgm_1
+    title: "Stage BGM 1"
+    path: "BGM_STAGE1.dspadpcm.bcstm"
+    type: betting
+  - id: stage_bgm_2
+    title: "Stage BGM 2"
+    path: "BGM_STAGE2.dspadpcm.bcstm"
+    type: betting
+  - id: stage_bgm_3
+    title: "Stage BGM 3"
+    path: "BGM_STAGE3.dspadpcm.bcstm"
+    type: battle
+  - id: stage_bgm_4
+    title: "Stage BGM 4"
+    path: "BGM_STAGE4.dspadpcm.bcstm"
+    type: battle
+  - id: stage_bgm_5
+    title: "Stage BGM 5"
+    path: "BGM_STAGE4.dspadpcm.bcstm"
+    type: battle
+  - id: title_pokemon_battle_trozei
+    title: "Title"
+    path: "BGM_TITLE.dspadpcm.bcstm"
+    type: result
+  - id: tutorial_pokemon_battle_trozei
+    title: "Tutorial"
+    path: "BGM_TUTRIAL.dspadpcm.bcstm"
+    type: break
+  - id: pokemon_list
+    title: "Pokémon List"
+    path: "BGM_ZUKAN.dspadpcm.bcstm"
+    type: break
+...

@@ -2,8 +2,8 @@
 id: pikmin_2
 title: "Pikmin 2"
 series: pikmin
+platform: ["GCN", "Wii"]
 year: 2004
-platform: "GC"
 songs:
   - id: piklopedia
     title: "Piklopedia"
@@ -12,5 +12,29 @@ songs:
   - id: wistful_wild
     title: "Wistful Wild"
     path: "Wistful Wild.brstm"
+    type: betting
+  - id: awakening_wood
+    title: "Awakening Wood"
+    path: "Awakening Wood (Olimar).brstm"
+    type: betting
+  - id: boss_battle_pikmin_2
+    title: "Boss Battle"
+    path: "Boss battle.brstm"
+    type: warning
+  - id: perplexing_pool
+    title: "Perplexing Pool"
+    path: "Perplexing Pool (Olimar).brstm"
+    type: betting
+  - id: submerged_castle
+    title: "Submerged Castle"
+    path: "Submerged Castle.brstm"
+    type: break
+  - id: treasure_results
+    title: "Treasure Results"
+    path: "Treasure Salvation Results.brstm"
+    type: result
+  - id: valley_of_repose
+    title: "Valley of Repose"
+    path: "Valley of Repose (Olimar).brstm"
     type: betting
 ...

@@ -1,0 +1,51 @@
+---
+id: cadillacs_and_dinosaurs
+title: "Cadillacs and Dinosaurs"
+platform: "Arcade"
+year: 1993
+songs: 
+  - id: opening_demo
+    title: "Opening Demo"
+    path: "04 Opening Demo.vgz"
+    type: break
+  - id: pursuit_stage_1_3_7_1
+    title: "Pursuit (STAGE 1-3,7-1)"
+    path: "08 Pursuit (Stage 1-3, 7-1).vgz"
+    type: battle
+  - id: the_forest_poachers_stage_2_1_6_2
+    title: "The Forest Poachers (STAGE 2-1,6-2)"
+    path: "13 In the Poachers' Forest (Stage 2-1, 6-2).vgz"
+    type: betting
+  - id: roaring_sound_stage_3_a
+    title: "Roaring Sound (STAGE 3-A)"
+    path: "16 Roaring Around (Stage 3-A).vgz"
+    type: battle
+  - id: boss_3_intro
+    title: "Boss 3 Intro"
+    path: "18 Boss 3 Intro.vgz"
+    type: warning
+  - id: boss_4_intro
+    title: "Boss 4 Intro"
+    path: "23 Boss 4 Intro.vgz"
+    type: warning
+  - id: boss_4_stage_4_7
+    title: "Boss 4 (STAGE 4,7)"
+    path: "24 Boss 4 (Stage 4, 7).vgz"
+    type: battle
+  - id: clear_demo_stage_7_8
+    title: "Clear Demo (STAGE 7,8)"
+    path: "28 Clear Demo (Stage 7, 8).vgz"
+    type: warning
+  - id: the_true_colours_of_evil_stage_8_1
+    title: "The True Colours of Evil (STAGE 8-1)"
+    path: "29 The True Form of Evil (Stage 8-1).vgz"
+    type: battle
+  - id: final_boss_cadillacs_and_dinosaurs
+    title: "Final Boss"
+    path: "32 Final Boss.vgz"
+    type: warning
+  - id: continue_cadillacs_and_dinosaurs
+    title: "Continue"
+    path: "35 Continue 1.vgz"
+    type: warning
+...

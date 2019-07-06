@@ -1,0 +1,89 @@
+---
+id: mega_man_8_ps1
+title: "Mega Man 8 [PS1]"
+series: megaman
+platform: ["PS1", "Saturn"]
+year: 1996
+songs:
+  - id: opening_stage_1_mm8_ps1
+    title: "OPENING STAGE 1"
+    path: "02 Ministage.psf"
+    type: betting
+  - id: opening_stage_2_mm8_ps1
+    title: "OPENING STAGE 2"
+    path: "03 Ministage 2.psf"
+    type: warning
+  - id: stage_select_mm8_ps1
+    title: "STAGE SELECT"
+    path: "06 Stage select.psf"
+    type: warning
+  - id: frost_man_stage_ps1
+    title: "FROST MAN STAGE"
+    path: "08 Frost Man.psf"
+    tags: [xmas]
+    type: betting
+  - id: clown_man_stage_ps1
+    title: "CLOWN MAN STAGE"
+    path: "09 Clown Man.psf"
+    type: betting
+  - id: tengu_man_stage_ps1
+    title: "TENGU MAN STAGE"
+    path: "10 Tengu Man.psf"
+    type: betting
+  - id: grenade_man_stage_ps1
+    title: "GRENADE MAN STAGE"
+    path: "11 Grenade Man.psf"
+    type: betting
+  - id: sword_man_stage_ps1
+    title: "SWORD MAN STAGE"
+    path: "12 Sword Man.psf"
+    type: betting
+  - id: aqua_man_stage_ps1
+    title: "AQUA MAN STAGE"
+    path: "13 Aqua Man.psf"
+    type: betting
+  - id: astro_man_stage_ps1
+    title: "ASTRO MAN STAGE"
+    path: "14 Astro Man.psf"
+    type: betting
+  - id: search_man_stage_ps1
+    title: "SEARCH MAN STAGE"
+    path: "15 Search Man.psf"
+    type: betting
+  - id: warning_mm8_ps1
+    title: "WARNING"
+    path: "16 Boss intro.psf"
+    type: warning
+  - id: dr_right_laboratory_mm8_ps1
+    title: "DR. RIGHT LABORATORY"
+    path: "30 Dr Light's Lab Theme.psf"
+    type: break
+  - id: dr_wily_stage_1_mm8_ps1
+    title: "DR. WILY STAGE 1"
+    path: "22 Wily stage 1.psf"
+    type: betting
+  - id: dr_wily_stage_2_mm8_ps1
+    title: "DR. WILY STAGE 2"
+    path: "23 Wily stage 2.psf"
+    type: betting
+  - id: dr_wily_stage_3_mm8_ps1
+    title: "DR. WILY STAGE 3"
+    path: "24 Wily stage 3.psf"
+    type: betting
+  - id: theme_of_forte_mm8_ps1
+    title: "THEME OF FORTE"
+    path: "29 Bass' theme.psf"
+    type: warning
+  - id: dr_wily_stage_4_mm8_ps1
+    title: "DR. WILY STAGE 4"
+    path: "25 Wily boss 1.psf"
+    type: warning
+  - id: wily_machine_mm8_ps1
+    title: "WILY MACHINE"
+    path: "Wily Battle 1 - Wily Machine #8.brstm"
+    type: battle
+  - id: staff_roll_mm8
+    title: "STAFF ROLL"
+    path: "Staff Roll.brstm"
+    type: break
+...

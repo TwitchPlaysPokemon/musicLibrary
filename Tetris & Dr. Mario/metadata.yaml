@@ -1,0 +1,31 @@
+---
+id: tetris_dr_mario
+title: "Tetris & Dr. Mario"
+platform: "SNES"
+year: 1994
+songs: 
+  - id: tetris_music_1
+    title: "Tetris Music 1"
+    path: "04a Tetris Music 1.spc"
+    type: betting
+  - id: tetris_music_2
+    title: "Tetris Music 2"
+    path: "05a Tetris Music 2.spc"
+    type: betting
+  - id: tetris_music_3
+    title: "Tetris Music 3"
+    path: "06a Tetris Music 3.spc"
+    type: betting
+  - id: dr_mario_theme_tetris_dr_mario
+    title: "Dr. Mario Theme"
+    path: "10 Dr. Mario Theme.spc"
+    type: break
+  - id: fever_tetris_dr_mario
+    title: "Fever"
+    path: "12 Fever.spc"
+    type: betting
+  - id: chill_tetris_dr_mario
+    title: "Chill"
+    path: "13 Chill.spc"
+    type: betting
+...

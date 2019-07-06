@@ -1,0 +1,15 @@
+---
+id: grandia_ii
+title: "Grandia II"
+platform: ["DC", "PS2", "PC"]
+year: 2000
+songs: 
+  - id: fight_ver_1
+    title: "FIGHT!! Ver. 1"
+    path: "GR20000.ADX"
+    type: battle
+  - id: fight_ver_4_the_final_battle
+    title: "FIGHT!! Ver.4 ~ The Final Battle"
+    path: "GR20007.ADX"
+    type: battle
+...

@@ -5,32 +5,104 @@ series: megaman
 platform: ["PS2", "PC"]
 year: 2003
 songs: 
-  - id: mod_electric_wave_radio_tower_stage
-    title: "Mod Electric Wave - Radio Tower Stage"
-    path: "Mod Electric Wave - Radio Tower Stage.brstm"
+  - id: conflict_escape_stage
+    title: "Conflict ~ Escape Stage"
+    path: "S01.ADS"
     type: betting
-  - id: black_plotting
-    title: "Black Plotting"
-    path: "Black Plotting.brstm"
+  - id: awake_road_again_highway_stage
+    title: "Awake Road Again ~ Highway Stage"
+    path: "S02.ADS"
+    type: betting
+  - id: burning_water_kombinat_stage
+    title: "Burning Water ~ Kombinat Stage"
+    path: "S03.ADS"
+    type: betting
+  - id: underground_tunnel_base_stage
+    title: "Underground ~ Tunnel Base Stage"
+    path: "S04.ADS"
+    type: betting
+  - id: mod_electric_wave_radio_tower_stage
+    title: "Mod Electric Wave ~ Radio Tower Stage"
+    path: "S05.ADS"
+    type: betting
+  - id: naval_battle_battleship_stage
+    title: "Naval Battle ~ Battleship Stage"
+    path: "S06.ADS"
+    type: betting
+  - id: ruins_n_vains_deep_forest_stage
+    title: "Ruins'n Vains ~ Deep Forest Stage"
+    path: "S07.ADS"
+    type: betting
+  - id: higher_the_air_air_force_stage
+    title: "Higher The Air ~ Air Force Stage"
+    path: "S08.ADS"
+    type: betting
+  - id: cyber_geometry_cyber_field_stage
+    title: "Cyber Geometry ~ Cyber Field Stage"
+    path: "S09.ADS"
+    type: betting
+  - id: bomb_recovery_central_circuit_stage
+    title: "Bomb Recovery ~ Central Circuit Stage"
+    path: "S10.ADS"
+    type: betting
+  - id: just_before_red_palace_road_stage
+    title: "Just before Red ~ Palace Road Stage"
+    path: "S11.ADS"
+    type: betting
+  - id: infiltration_crimson_palace_stage_1
+    title: "Infiltration ~ Crimson Palace Stage 1"
+    path: "S12.ADS"
+    type: betting
+  - id: combination_vs_mega_scorpio
+    title: "Combination ~ vs Mega Scorpio"
+    path: "B01.ADS"
+    type: battle
+  - id: decisive_battle_vs_boss
+    title: "Decisive Battle ~ vs Boss"
+    path: "B02.ADS"
+    type: battle
+  - id: relation_vs_red
+    title: "Relation ~ vs Red"
+    path: "B03.ADS"
+    type: battle
+  - id: our_blood_boils_vs_sigma_1st
+    title: "Our Blood Boils ~ vs Sigma 1st"
+    path: "B05.ADS"
+    type: battle
+  - id: conclusion_vs_sigma_final
+    title: "Conclusion ~ vs Sigma Final"
+    path: "B06.ADS"
+    type: battle
+  - id: stage_select_1_mmx7
+    title: "Stage Select 1"
+    path: "SY02.ADS"
     type: warning
-  - id: night_mare_ending_of_zero
-    title: "Night Mare - Ending of Zero"
-    path: "Nightmare - Ending Of Zero.brstm"
+  - id: result_mmx7
+    title: "Result"
+    path: "SY06.ADS"
+    type: result
+  - id: option_mmx7
+    title: "Option"
+    path: "SY07.ADS"
+    type: break
+  - id: stage_select_2_mmx7
+    title: "Stage Select 1"
+    path: "SY03.ADS"
     type: warning
   - id: provocation
     title: "Provocation"
     path: "Provocation.brstm"
     type: warning
-  - id: decisive_battle_vs_boss
-    title: "Decisive Battle - vs Boss"
-    path: "VS Boss.brstm"
-    type: battle
-  - id: result_mmx7
-    title: "Result"
-    path: "Result.brstm"
-    type: result
-  - id: option_mmx7
-    title: "Option"
-    path: "Option.brstm"
-    type: break
+  - id: black_plotting
+    title: "Black Plotting"
+    path: "Black Plotting.brstm"
+    type: warning
+  - id: fate_theme_of_sigma
+    title: "Fate ~ Theme Of Sigma"
+    path: "B04.ADS"
+    type: betting
+  - id: night_mare_ending_of_zero
+    title: "Night Mare - Ending of Zero"
+    path: "Nightmare - Ending Of Zero.brstm"
+    type: warning
 ...

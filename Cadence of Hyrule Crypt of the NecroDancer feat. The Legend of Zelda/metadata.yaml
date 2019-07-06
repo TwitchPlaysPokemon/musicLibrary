@@ -1,0 +1,117 @@
+---
+id: cadence_of_hyrule_vrypt_of_the_necroDancer_feat_the_legend_of_zelda
+title: "Cadence of Hyrule: Crypt of the NecroDancer feat. The Legend of Zelda"
+platform: "Switch"
+year: 2019
+songs: 
+  - id: title_top_menu
+    title: "Title / Top Menu"
+    path: "zd_menu [1].brstm"
+    type: betting
+  - id: disco_descent_combat
+    title: "Disco Descent (Combat)"
+    path: "zd_1-1_combat [1].brstm"
+    type: betting
+  - id: disco_descent_peaceful
+    title: "Disco Descent (Peaceful)"
+    path: "zd_1-1_peaceful [1].brstm"
+    type: break
+  - id: overworld_combat
+    title: "Overworld (Combat)"
+    path: "zd_overworld_combat [1].brstm"
+    ends: 3:20
+    type: betting
+  - id: overworld_peaceful
+    title: "Overworld (Peaceful)"
+    path: "zd_overworld_peaceful [1].brstm"
+    ends: 3:20
+    type: betting
+  - id: lost_woods_combat
+    title: "Lost Woods (Combat)"
+    path: "zd_lostwoods_combat [1].brstm"
+    ends: 3:05
+    type: betting
+  - id: lost_woods_peaceful
+    title: "Lost Woods (Peaceful)"
+    path: "zd_lostwoods_peaceful [1].brstm"
+    type: break
+  - id: cave_combat
+    title: "Cave (Combat)"
+    path: "zd_cave_combat [1].brstm"
+    type: warning
+  - id: kakariko_village_cadence_of_hyrule
+    title: "Kakariko Village"
+    path: "zd_kakariko [1].brstm"
+    type: break
+  - id: fairy_fountain_cadence_of_hyrule
+    title: "Fairy Fountain"
+    path: "zd_fountain [1].brstm"
+    type: betting
+  - id: gerudo_valley_combat
+    title: "Gerudo Valley (Combat)"
+    path: "zd_gerudo_combat [1].brstm"
+    type: betting
+  - id: gerudo_valley_peaceful
+    title: "Gerudo Valley (Peaceful)"
+    path: "zd_gerudo_peaceful [1].brstm"
+    type: betting
+  - id: death_mountain_combat
+    title: "Death Mountain (Combat)"
+    path: "zd_deathmountain_combat [1].brstm"
+    ends: 2:55
+    type: betting
+  - id: temple_of_storms_combat
+    title: "Temple of Storms (Combat)"
+    path: "zd_storm_dungeon [1].brstm"
+    type: betting
+  - id: gleeokenspiel
+    title: "Gleeokenspiel"
+    path: "zd_stormboss_combat [1].brstm"
+    type: betting
+  - id: lost_swamp_combat
+    title: "Lost Swamp (Combat)"
+    path: "zd_swamp_dungeon_combat [1].brstm"
+    type: betting
+  - id: lost_swamp_peaceful
+    title: "Lost Swamp (Peaceful)"
+    path: "zd_swamp_dungeon_peaceful [1].brstm"
+    type: break
+  - id: gohmaracas
+    title: "Gohmaracas"
+    path: "zd_swampdungeon_boss_revision1 [1].brstm"
+    type: battle
+  - id: frozen_grotto_combat
+    title: "Frozen Grotto (Combat)"
+    path: "zd_ice_dungeon_combat [1].brstm"
+    type: betting
+  - id: wizzroboe
+    title: "Wizzroboe"
+    path: "zd_ice_boss_combat [1].brstm"
+    type: battle
+  - id: gerudo_ruins_combat
+    title: "Gerudo Ruins (Combat)"
+    path: "zd_lava_dungeon_combat [1].brstm"
+    type: betting
+  - id: guitarmos
+    title: "Guitarmos"
+    path: "zd_lava_boss_combat [1].brstm"
+    type: battle
+  - id: hyrule_castle_combat
+    title: "Hyrule Castle (Combat)"
+    path: "zd_castle_dungeon_combat [1].brstm"
+    ends: 2:45
+    type: betting
+  - id: octavo
+    title: "Octavo"
+    path: "zd_castle_boss_combat [1].brstm"
+    type: warning
+  - id: dark_world_combat
+    title: "Dark World (Combat)"
+    path: "zd_darkworld_combat [1].brstm"
+    ends: 2:52
+    type: betting
+  - id: ganon_cadence_of_hyrule
+    title: "Ganon"
+    path: "zd_ganon [1].brstm"
+    type: betting
+...

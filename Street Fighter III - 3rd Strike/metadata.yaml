@@ -1,53 +1,61 @@
 ---
-id: street_fighter_iii__3rd_strike
-platform: ["Arcade", "DC"]
+id: street_fighter_iii_3rd_strike
 title: "Street Fighter III: 3rd Strike"
 series: streetfighter
+platform: ["Arcade", "DC", "PS2"]
 year: 1999
 songs:
-  - id: crazy_chili_dog_arranged
-    path: "Crazy Chili Dog (Arranged).brstm"
-    title: "Crazy Chili Dog"
-    type: battle
-  - id: theme_of_q
-    path: "Theme of Q.brstm"
-    title: "Theme of Q"
+  - id: alex_ken_stage_jazzy_nyc_99
+    title: "Alex & Ken Stage -JAZZY NYC '99-"
+    path: "Jazzy NYC '99 (Arranged).brstm"
     type: betting
-  - id: final_results
-    path: "Final Results.brstm"
-    title: "Final Results"
-    type: result
-  - id: ending_2
-    path: "Ending 2.brstm"
-    title: "Ending 2"
-    type: result
-  - id: snowland_arranged
-    title: "Snowland"
+  - id: makoto_stage_spunky
+    title: "Makoto Stage -SPUNKY-"
+    path: "Spunky (Arranged).brstm"
+    type: betting
+  - id: necro_twelve_stage_snowland
+    title: "Necro & Twelve Stage -SNOWLAND-"
     path: "Snowland (Arranged).brstm"
     tags: [xmas]
     type: betting
-  - id: jazzy_nyc_99
-    title: "Jazzy NYC 99"
-    path: "Jazzy NYC '99 (Arranged).brstm"
+  - id: elena_stage_beats_in_my_head_tribal_dance
+    title: "Elena Stage -BEATS IN MY HEAD [TRIBAL DANCE]-"
+    path: "Beats in my Head (Arranged).brstm"
     type: betting
-  - id: spunky_arranged
-    title: "Spunky"
-    path: "Spunky (Arranged).brstm"
-    type: betting
-  - id: twilight_sf3
-    title: "Twilight"
+  - id: ibuki_stage_twilight
+    title: "Ibuki Stage -TWILIGHT-"
     path: "Twilight.brstm"
     type: betting
-  - id: you_blow_my_mind_arranged
-    title: "You Blow My Mind"
-    path: "You Blow My Mind (Arranged).brstm"
-    type: betting
-  - id: killing_moon_arranged
-    title: "Killing Moon"
+  - id: gouki_stage_killing_moon
+    title: "Gouki Stage -KILLING MOON-"
     path: "Killing Moon (Arranged).brstm"
     type: battle
-  - id: stage_results_sf3
+  - id: dudley_stage_you_blow_my_mind
+    title: "Dudley Stage -YOU BLOW MY MIND-"
+    path: "You Blow My Mind (Arranged).brstm"
+    type: betting
+  - id: the_theme_of_q_q
+    title: "The Theme Of Q -Q-"
+    path: "Theme of Q.brstm"
+    type: betting
+  - id: urien_stage_crazy_chili_dog
+    title: "Urien Stage -CRAZY CHILI DOG-"
+    path: "Crazy Chili Dog (Arranged).brstm"
+    type: battle
+  - id: gill_stage_psych_out
+    title: "Gill Stage -PSYCH OUT-"
+    path: "Gill's Stage _Psyche Out_ (Arranged).brstm"
+    type: battle
+  - id: stage_results_3rd_strike
     title: "Stage Results"
     path: "Stage Results.adx"
+    type: result
+  - id: final_results
+    title: "Final Results"
+    path: "Final Results.brstm"
+    type: result
+  - id: ending_2
+    title: "Ending 2"
+    path: "Ending 2.brstm"
     type: result
 ...

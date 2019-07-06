@@ -1,0 +1,63 @@
+---
+id: yu_gi_oh_duel_links
+title: "Yu-Gi-Oh! Duel Links"
+platform: ["PC", "Mobile"]
+year: 2016
+songs: 
+  - id: 1000_life_points_theme_5ds_ver_1
+    title: "1000 Life Points Theme (5DS Ver.1)"
+    path: "1000 Life Points Theme (5DS Ver.1).brstm"
+    type: battle
+  - id: 1000_life_points_theme_5ds_ver_3
+    title: "1000 Life Points Theme (5DS Ver.3)"
+    path: "1000 Life Points Theme (5DS Ver.3).brstm"
+    type: battle
+  - id: 1000_life_points_theme_gx_ver
+    title: "1000 Life Points Theme (GX Ver.)"
+    path: "1000 Life Points Theme (GX Ver.).brstm"
+    type: battle
+  - id: akiza_izinski_theme
+    title: "Akiza Izinski Theme"
+    path: "Akiza Izinski Theme.brstm"
+    type: betting
+  - id: alexis_rhodes_theme
+    title: "Alexis Rhodes Theme"
+    path: "Alexis Rhodes Theme.brstm"
+    type: betting
+  - id: jack_atlas_theme
+    title: "Jack Atlas Theme"
+    path: "Jack Atlas Theme.brstm"
+    type: betting
+  - id: jaden_yuki_jesse_anderson_theme
+    title: "Jaden Yuki/Jesse Anderson Theme"
+    path: "Jaden Yuki-Jesse Anderson Theme.brstm"
+    type: betting
+  - id: joey_mai_tristan_ttheme
+    title: "Joey/Mai/Tristan Theme"
+    path: "Joey-Mai-Tristan theme.brstm"
+    type: battle
+  - id: leo_luna_theme
+    title: "Leo/Luna Theme"
+    path: "Leo - Luna Theme.brstm"
+    type: betting
+  - id: normal_duel_theme_5ds
+    title: "Normal Duel Theme (5DS)"
+    path: "Normal Duel Theme (5DS).brstm"
+    type: battle
+  - id: seto_kaiba_theme
+    title: "Seto Kaiba Theme"
+    path: "Seto Kaiba Theme.brstm"
+    type: battle
+  - id: tetsu_trudge_theme
+    title: "Tetsu Trudge Theme"
+    path: "Tetsu Trudge Theme.brstm"
+    type: battle
+  - id: yami_marik_yami_bakura_theme
+    title: "Yami Marik/Yami Bakura Theme"
+    path: "Yami Marik-Yami Bakura Theme.brstm"
+    type: battle
+  - id: yami_yugi_theme
+    title: "Yami Yugi Theme"
+    path: "Yami Yugi Theme.brstm"
+    type: battle
+...

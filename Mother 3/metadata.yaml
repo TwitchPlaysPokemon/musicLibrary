@@ -85,6 +85,14 @@ songs:
     title: "Murasaki Forest"
     path: "130 Murasaki Forest.minigsf"
     type: betting
+  - id: stringent
+    title: "Stringent"
+    path: "133 Stringent.minigsf"
+    type: warning
+  - id: club_titiboo_theme
+    title: "Club Titiboo Theme"
+    path: "135 Club Titiboo Theme.minigsf"
+    type: break
   - id: dangerous_highway
     title: "Dangerous Highway"
     path: "150 Dangerous Highway.minigsf"
@@ -101,6 +109,10 @@ songs:
     title: "Let's Ride the Train!"
     path: "179 Let's Ride the Train!.minigsf"
     type: result
+  - id: it_s_chimera_research
+    title: "It's Chimera Research"
+    path: "181 It's Chimera Research.minigsf"
+    type: betting
   - id: snowman_mother3
     title: "Snowman"
     path: "186 Snowman.minigsf"
@@ -109,6 +121,14 @@ songs:
     title: "His Highness' Theme"
     path: "187 His Highness' Theme.minigsf"
     type: betting
+  - id: tanetane_island
+    title: "Tanetane Island"
+    path: "202 Tanetane Island.minigsf"
+    type: betting
+  - id: and_then_there_were_none
+    title: "And Then There Were None"
+    path: "206 And Then There Were None.minigsf"
+    type: break
   - id: samba_de_combo
     title: "Samba de Combo"
     path: "226 Samba de Combo.minigsf"

@@ -5,8 +5,64 @@ series: megaman
 platform: "NES"
 year: 1992
 songs: 
+  - id: pass_word_mm5
+    title: "PASS WORD"
+    path: "03 Pass Word.vgz"
+    type: result
+  - id: gravity_man_stage
+    title: "GRAVITY MAN STAGE"
+    path: "06 Gravity Man Stage.vgz"
+    type: betting
+  - id: wave_man_stage
+    title: "WAVE MAN STAGE"
+    path: "07 Wave Man Stage.vgz"
+    type: betting
+  - id: stone_man_stage
+    title: "STONE MAN STAGE"
+    path: "08 Stone Man Stage.vgz"
+    type: betting
+  - id: gyro_man_stage
+    title: "GYRO MAN STAGE"
+    path: "09 Gyro Man Stage.vgz"
+    type: betting
+  - id: star_man_stage
+    title: "STAR MAN STAGE"
+    path: "10 Star Man Stage.vgz"
+    type: betting
+  - id: charge_man_stage
+    title: "CHARGE MAN STAGE"
+    path: "11 Charge Man Stage.vgz"
+    type: betting
   - id: napalm_man_stage
     title: "Napalm Man Stage"
     path: "12 Napalm Man Stage.vgz"
+    type: betting
+  - id: crystal_man_stage
+    title: "CRYSTAL MAN STAGE"
+    path: "13 Crystal Man Stage.vgz"
+    type: betting
+  - id: boss_mm5
+    title: "BOSS"
+    path: "14 Boss.vgz"
+    type: warning
+  - id: get_a_weapon_mm5
+    title: "GET A WEAPON"
+    path: "16 Get A Weapon.vgz"
+    type: result
+  - id: dark_man_stage
+    title: "DARK MAN STAGE"
+    path: "18 Dark Man Stage.vgz"
+    type: betting
+  - id: dr_wily_stage_mm5
+    title: "Dr.WILY STAGE"
+    path: "20 Dr. Wily Stage.vgz"
+    type: betting
+  - id: last_boss_mm5
+    title: "LAST BOSS"
+    path: "21 Last Boss.vgz"
+    type: battle
+  - id: ending_mm5
+    title: "ENDING"
+    path: "24 Ending.vgz"
     type: betting
 ...

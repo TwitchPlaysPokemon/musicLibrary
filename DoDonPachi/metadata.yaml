@@ -1,0 +1,23 @@
+---
+id: dodonpachi
+title: "DoDonPachi"
+platform: ["Arcade", "Saturn", "PS1"]
+year: 1997
+songs: 
+  - id: stages_1_4_bgm
+    title: "Stages 1 & 4 BGM"
+    path: "Stage 1 - 2.brstm"
+    type: betting
+  - id: stages_2_5_bgm
+    title: "Stages 2 & 5 BGM"
+    path: "Stage 2 - 5 - 2.brstm"
+    type: betting
+  - id: stages_3_6_bgm
+    title: "Stages 3 & 6 BGM"
+    path: "Stage 3 - 6.brstm"
+    type: betting
+  - id: boss_dodonpachi
+    title: "Boss"
+    path: "Boss - 1.brstm"
+    type: battle
+...

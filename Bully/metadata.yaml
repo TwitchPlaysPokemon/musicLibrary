@@ -1,7 +1,8 @@
+---
 id: bully
 title: "Bully"
-year: 2006
 platform: "Various"
+year: 2006
 songs: 
   - id: Fighting_johnny_vincent
     title: "Fighting Johnny Vincent"
@@ -22,3 +23,8 @@ songs:
     path: "13 Vendetta Preps.mp3"
     ends: 2:12
     type: betting
+  - id: english_class
+    title: "English Class"
+    path: "ms_englishclass.wav.fsb"
+    type: break
+...

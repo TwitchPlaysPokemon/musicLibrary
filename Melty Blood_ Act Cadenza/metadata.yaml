@@ -1,9 +1,15 @@
+---
 id: melty_blood_act_cadenza
 title: "Melty Blood: Act Cadenza"
 platform: "PS2"
 year: 2006
 songs: 
-  - id: break_modernismstreet_meltyblood
-    title: "Modernism Street"
-    path: "Break-ModernismStreet_MeltyBlood.brstm"
+  - id: break_modernism_street_special_stage
+    title: "Modernism Street (Special Stage)"
+    path: "BGMME20.ADX"
     type: betting
+  - id: assailant_character_select_ver_b
+    title: "Assailant / Character Select (ver.B)"
+    path: "Assailant.brstm"
+    type: warning
+...

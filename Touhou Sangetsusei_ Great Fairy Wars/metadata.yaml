@@ -6,15 +6,31 @@ platform: "PC"
 year: 2010
 songs: 
   - id: magus_night_gfw
-    title: "Marisa's Theme: Magus Night"
+    title: "Magus Night"
     path: "Magus Night.brstm"
     type: battle
-  - id: ruse_rain
-    title: "Ruse Rain"
+  - id: loose_rain
+    title: "Loose Rain"
     path: "Loose Rain.brstm"
     type: warning
-  - id: magus_night_dbu
-    title: "Magus Night (dBu Music)"
+  - id: magus_night_dbu_remix
+    title: "Magus Night (dBu Remix)"
     path: "magus_night_dbu.brstm"
     type: battle
+  - id: great_fairy_wars_fairy_wars
+    title: "Great Fairy Wars ~ Fairy Wars"
+    path: "Great Fairy Wars _ Fairy Wars.brstm"
+    type: battle
+  - id: staking_your_life_on_a_prank
+    title: "Staking Your Life on a Prank"
+    path: "Staking Your Life on a Prank.brstm"
+    type: warning
+  - id: the_refrain_of_the_lovely_great_war
+    title: "The Refrain of the Lovely Great War"
+    path: "The Refrain of the Lovely Great War.brstm"
+    type: betting
+  - id: year_round_absorbed_curiosity
+    title: "Year-Round Absorbed Curiosity"
+    path: "Year-Round Absorbed Curiosity.brstm"
+    type: betting
 ...

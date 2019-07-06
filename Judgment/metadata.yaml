@@ -1,0 +1,179 @@
+---
+id: judgment
+title: "Judgment"
+platform: "PS4"
+year: 2018
+songs: 
+  - id: door
+    title: "DOOR"
+    path: "101. DOOR.brstm"
+    type: break
+  - id: random_fire
+    title: "Random Fire"
+    path: "103. Random Fire.brstm"
+    type: battle
+  - id: puzzle_judgment
+    title: "Puzzle"
+    path: "105. Puzzle.brstm"
+    type: betting
+  - id: my_own_style
+    title: "My Own Style"
+    path: "106. My Own Style.brstm"
+    type: battle
+  - id: 八神探偵事務所
+    title: "八神探偵事務所"
+    path: "108. 八神探偵事務所.brstm"
+    type: betting
+  - id: drumfire
+    title: "Drumfire"
+    path: "109. Drumfire.brstm"
+    type: betting
+  - id: police_search
+    title: "Police Search"
+    path: "110. Police Search.brstm"
+    type: warning
+  - id: inharmonic
+    title: "inharmonic"
+    path: "111. inharmonic.brstm"
+    ends: 2:20
+    type: betting
+  - id: 潜入ミッション
+    title: "潜入ミッション"
+    path: "112. 潜入ミッション.brstm"
+    type: betting
+  - id: Λ
+    title: "Λ"
+    path: "113. Λ.brstm"
+    type: battle
+  - id: the_summary
+    title: "The Summary"
+    path: "115. The Summary.brstm"
+    type: warning
+  - id: faster_than_lightning
+    title: "Faster Than Lightning"
+    path: "116. Faster Than Lightning.brstm"
+    type: battle
+  - id: 邂逅_京浜同盟
+    title: "邂逅・京浜同盟"
+    path: "118. 邂逅.京浜同盟.brstm"
+    type: betting
+  - id: hyenas_wheezing
+    title: "Hyenas Wheezing"
+    path: "119. Hyenas Wheezing.brstm"
+    type: battle
+  - id: like_a_shadow
+    title: "Like a Shadow"
+    path: "120. Like a Shadow.brstm"
+    type: betting
+  - id: 義侠の華
+    title: "義侠の華"
+    path: "121. 義侠の華.brstm"
+    type: battle
+  - id: in_jeopardy
+    title: "in jeopardy"
+    path: "122. in jeopardy.brstm"
+    type: betting
+  - id: 罪の線
+    title: "罪の線"
+    path: "201. 罪の線.brstm"
+    type: betting
+  - id: the_laff_riot
+    title: "The Laff Riot"
+    path: "203. The Laff Riot.brstm"
+    type: battle
+  - id: rake_your_inside
+    title: "Rake Your Inside"
+    path: "205. Rake Your Inside.brstm"
+    type: betting
+  - id: a_vast_fire
+    title: "a Vast Fire"
+    path: "207. a Vast Fire.brstm"
+    type: warning
+  - id: 決着_京浜同盟
+    title: "決着・京浜同盟"
+    path: "209. 決着.京浜同盟.brstm"
+    type: warning
+  - id: craziness
+    title: "Craziness"
+    path: "210. Craziness.brstm"
+    type: warning
+  - id: last_summary
+    title: "Last Summary"
+    path: "213. Last Summary.brstm"
+    type: warning
+  - id: you_are_my_dearest_brother
+    title: "you are my dearest brother"
+    path: "214. you are my dearest brother.brstm"
+    type: break
+  - id: destination
+    title: "Destination"
+    path: "217. Destination.brstm"
+    type: battle
+  - id: darkness
+    title: "Darkness"
+    path: "218. Darkness.brstm"
+    type: battle
+  - id: 幻影
+    title: "幻影"
+    path: "219. 幻影.brstm"
+    type: break
+  - id: penumbra
+    title: "Penumbra"
+    path: "221. Penumbra.brstm"
+    type: battle
+  - id: デートしませんか？
+    title: "デートしませんか？"
+    path: "305. デートしませんか？.brstm"
+    type: break
+  - id: 貴方を好きになりました
+    title: "貴方を好きになりました"
+    path: "306. 貴方を好きになりました.brstm"
+    type: break
+  - id: 夢の途中
+    title: "夢の途中"
+    path: "308. 夢の途中.brstm"
+    ends: 3:15
+    type: betting
+  - id: it_s_show_time
+    title: "It's Show Time!!"
+    path: "309. It's Show Time!!.brstm"
+    ends: 3:10
+    type: betting
+  - id: open_the_drone_league
+    title: "Open The Drone League"
+    path: "311. Open The Drone League.brstm"
+    ends: 2:55
+    type: betting
+  - id: rth
+    title: "RTH"
+    path: "314. RTH.brstm"
+    type: result
+  - id: welcome_to_vr_world
+    title: "Welcome to VR World"
+    path: "315. Welcome to VR World.brstm"
+    type: betting
+  - id: dive_in
+    title: "Dive In"
+    path: "317. Dive In.brstm"
+    type: battle
+  - id: the_last_assassin_xiv_symphony_of_the_judgment
+    title: "The Last Assassin XIV: Symphony of The Judgment"
+    path: "318. The Last Assasin XIV_ Symphony of The Judgment.brstm"
+    type: battle
+  - id: special_record_vol_1
+    title: "Special Record Vol.1"
+    path: "319. Special Record Vol.1.brstm"
+    type: break
+  - id: special_record_vol_2
+    title: "Special Record Vol.2"
+    path: "320. Special Record Vol.2.brstm"
+    type: betting
+  - id: special_record_vol_3
+    title: "Special Record Vol.3"
+    path: "321. Special Record Vol.3.brstm"
+    type: break
+  - id: special_record_vol_4
+    title: "Special Record Vol.4"
+    path: "322. Special Record Vol.4.brstm"
+    type: break
+...

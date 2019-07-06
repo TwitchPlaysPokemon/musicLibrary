@@ -8,4 +8,56 @@ songs:
     title: "Mall Rat"
     path: "Buy Mode 1.brstm"
     type: betting
+  - id: groceries
+    title: "Groceries"
+    path: "Buy Mode 2.mp3"
+    ends: 2:31
+    type: betting
+  - id: decorator_s_touch
+    title: "Decorator's Touch"
+    path: "Buy Mode 3.mp3"
+    ends: 2:48
+    type: break
+  - id: the_market
+    title: "The Market"
+    path: "Buy Mode 4.mp3"
+    ends: 2:16
+    type: break
+  - id: under_construction
+    title: "Under Construction"
+    path: "Building Mode 1.mp3"
+    type: break
+  - id: buying_lumber
+    title: "Buying Lumber"
+    path: "Building Mode 2.mp3"
+    type: break
+  - id: planting
+    title: "Planting"
+    path: "Building Mode 3.mp3"
+    type: break
+  - id: dream_house
+    title: "Dream House"
+    path: "Building Mode 4.mp3"
+    type: break
+  - id: blueprint
+    title: "Blueprint"
+    path: "Building Mode 5.mp3"
+    type: break
+  - id: builder_s_motto
+    title: "Builder's Motto"
+    path: "Building Mode 6.mp3"
+    type: break
+  - id: now_entering
+    title: "Now Entering"
+    path: "Neighborhood 1.mp3"
+    type: betting
+  - id: neighborhood
+    title: "Neighborhood"
+    path: "Neighborhood 2.mp3"
+    type: break
+  - id: create_a_family
+    title: "Create a Family"
+    path: "Neighborhood 3.mp3"
+    ends: 2:07
+    type: betting
 ...

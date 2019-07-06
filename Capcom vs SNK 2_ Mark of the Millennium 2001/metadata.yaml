@@ -1,27 +1,35 @@
 ---
-id: capcom_vs_snk_mark_of_the_millennium_2001
+id: capcom_vs_snk_2_mark_of_the_millennium_2001
 title: "Capcom vs. SNK 2: Mark of the Millennium 2001"
-year: 2001
 platform: ["Arcade", "PS2", "GC"]
+year: 2001
 songs:
-  - id: happiness_barentsburg
-    title: "Happiness (Barentsburg)"
+  - id: happiness_capcom_vs_snk_2
+    title: "Happiness"
     path: "Happiness (barentsburg).brstm"
     type: result
-  - id: wipe_out_osaka
-    title: "Wipe Out (Osaka)"
+  - id: wipe_out
+    title: "Wipe out"
     path: "Wipe Out (Osaka).brstm"
     type: warning
-  - id: vs_display_snk_2001
+  - id: vs_display_capcom_vs_snk_2
     title: "VS. DISPLAY"
     path: "VS DISPLAY.brstm"
     type: warning
-  - id: fight_with_the_wind_kinderdijk
-    title: "Fight with the Wind (Kinderdijk)"
+  - id: fight_with_the_wind
+    title: "Fight with the wind"
     path: "Fight with the Wind (Kinderdijk).adx"
     type: betting
   - id: the_lord_god
-    title: "The Lord God"
+    title: "The lord GOD"
     path: "The Lord God.adx"
     type: battle
+  - id: this_is_true_love_makin
+    title: "This is true love makin'"
+    path: "ST04.ADX"
+    type: betting
+  - id: stimulation
+    title: "Stimulation"
+    path: "ST06.ADX"
+    type: betting
 ...

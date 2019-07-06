@@ -1,0 +1,11 @@
+---
+id: grandia
+title: "Grandia"
+platform: ["Saturn", "PS1"]
+year: 1997
+songs: 
+  - id: battle_1_grandia
+    title: "Battle 1"
+    path: "SCUS-94457_228.GMS"
+    type: battle
+...

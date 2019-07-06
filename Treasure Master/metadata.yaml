@@ -1,0 +1,19 @@
+---
+id: treasure_master
+title: "Treasure Master"
+platform: "NES"
+year: 1991
+songs: 
+  - id: title_treasure_master
+    title: "TITLE"
+    path: "Title.brstm"
+    type: betting
+  - id: world_1_the_island
+    title: "WORLD 1 [The Island]"
+    path: "World 1.brstm"
+    type: betting
+  - id: world_2_the_moon
+    title: "WORLD 2 [The Moon]"
+    path: "World 2.brstm"
+    type: betting
+...

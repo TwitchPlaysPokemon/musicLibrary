@@ -1,0 +1,157 @@
+---
+id: team_sonic_racing
+title: "Team Sonic Racing"
+platform: "Various"
+year: 2019
+songs: 
+  - id: system_start_screen
+    title: "System: Start Screen"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: system_main_menu
+    title: "System - Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: green_light_ride_main_theme_of_tsr
+    title: "Green Light Ride - Main Theme of TSR"
+    path: "1-01 Green Light Ride - Main Theme o.brstm"
+    ends: 3:10
+    type: betting
+  - id: wisp_circuit
+    title: "Wisp Circuit"
+    path: "1-04 Wisp Circuit_ Intro Fly-by_Lap.brstm"
+    type: betting
+  - id: mother_s_canyon
+    title: "Mother's Canyon"
+    path: "1-08 Mother's Canyon_ Lap Music.brstm"
+    type: betting
+  - id: doctor_s_mine
+    title: "Doctor's Mine"
+    path: "1-12 Doctor's Mine_ Lap Music.brstm"
+    type: battle
+  - id: ocean_view
+    title: "Ocean View"
+    path: "1-18 Ocean View_ Lap Music.brstm"
+    type: betting
+  - id: ocean_view_final_lap
+    title: "Ocean View: Final Lap"
+    path: "1-19 Ocean View_ Final Lap.brstm"
+    type: warning
+  - id: lost_palace
+    title: "Lost Palace"
+    path: "1-22 Lost Palace_ Lap Music.brstm"
+    type: betting
+  - id: whale_lagoon
+    title: "Whale Lagoon"
+    path: "1-26 Whale Lagoon_ Lap Music.brstm"
+    type: betting
+  - id: system_mod_pods
+    title: "System - Mod Pods"
+    path: "1-93 System - Mod Pods.brstm"
+    type: betting
+  - id: system_result_screen
+    title: "System - Result Screen"
+    path: "1-92 System - Result Screen.brstm"
+    type: result
+  - id: green_light_ride_the_qemists_scores_remix
+    title: "Green Light Ride - The Qemists Scores Remix"
+    path: "1-41 Green Light Ride - The Qemists.brstm"
+    ends: 2:45
+    type: betting
+  - id: ice_mountain_team_sonic_racing
+    title: "Ice Mountain"
+    path: "1-31 Ice Mountain_ Lap Music.brstm"
+    type: betting
+  - id: frozen_junkyard
+    title: "Frozen Junkyard"
+    path: "1-35 Frozen Junkyard_ Lap Music.brstm"
+    type: battle
+  - id: hidden_volcano
+    title: "Hidden Volcano"
+    path: "1-38 Hidden Volcano_ Lap Music.brstm"
+    type: battle
+  - id: hidden_volcano_final_lap
+    title: "Hidden Volcano: Final Lap"
+    path: "1-39 Hidden Volcano_ Final Lap.brstm"
+    type: warning
+  - id: roulette_road
+    title: "Roulette Road"
+    path: "1-43 Roulette Road_ Lap Music.brstm"
+    type: betting
+  - id: bingo_party
+    title: "Bingo Party"
+    path: "1-47 Bingo Party_ Lap Music.brstm"
+    type: battle
+  - id: pinball_highway
+    title: "Pinball Highway"
+    path: "1-51 Pinball Highway_ Lap Music.brstm"
+    type: betting
+  - id: sand_road
+    title: "Sand Road"
+    path: "1-56 Sand Road_ Lap Music.brstm"
+    type: betting
+  - id: boo_s_house
+    title: "Boo's House"
+    path: "1-60 Boo's House_ Lap Music.brstm"
+    type: battle
+  - id: clockwork_pyramid
+    title: "Clockwork Pyramid"
+    path: "1-64 Clockwork Pyramid_ Lap Music.brstm"
+    type: battle
+  - id: market_street
+    title: "Market Street"
+    path: "1-69 Market Street_ Lap Music.brstm"
+    type: battle
+  - id: sky_road
+    title: "Sky Road"
+    path: "1-73 Sky Road_ Lap Music.brstm"
+    type: battle
+  - id: sky_road_final_lap
+    title: "Sky Road: Final Lap"
+    path: "1-74 Sky Road_ Final Lap_Goal.brstm"
+    type: warning
+  - id: haunted_castle_team_sonic_racing
+    title: "Haunted Castle"
+    path: "1-76 Haunted Castle_ Lap Music.brstm"
+    type: battle
+  - id: thunder_deck
+    title: "Thunder Deck"
+    path: "1-81 Thunder Deck_ Lap Music.brstm"
+    type: battle
+  - id: dark_arsenal
+    title: "Dark Arsenal"
+    path: "1-85 Dark Arsenal_ Lap Music.brstm"
+    type: betting
+  - id: turbine_loop
+    title: "Turbine Loop"
+    path: "1-89 Turbine Loop_ Lap Music.brstm"
+    type: betting
+  - id: team_adventure_planet_wisp
+    title: "Team Adventure: Planet Wisp"
+    path: "3-11 Team Adventure_ Planet Wisp.brstm"
+    type: break
+  - id: team_adventure_seaside_hill
+    title: "Team Adventure: Seaside Hill"
+    path: "3-12 Team Adventure_ Seaside Hill.brstm"
+    type: break
+  - id: team_adventure_glacierland
+    title: "Team Adventure: Glacierland"
+    path: "3-13 Team Adventure_ Glacierland.brstm"
+    type: break
+  - id: team_adventure_casino_park
+    title: "Team Adventure: Casino Park"
+    path: "3-14 Team Adventure_ Casino Park.brstm"
+    type: break
+  - id: team_adventure_rooftop_run
+    title: "Team Adventure: Rooftop Run"
+    path: "3-15 Team Adventure_ Rooftop Run.brstm"
+    type: break
+  - id: team_adventure_sandopolis
+    title: "Team Adventure: Sandopolis"
+    path: "3-16 Team Adventure_ Sandopolis.brstm"
+    type: betting
+  - id: team_adventure_final_fortress
+    title: "Team Adventure: Final Fortress"
+    path: "3-17 Team Adventure_ Final Fortress.brstm"
+    type: warning
+...

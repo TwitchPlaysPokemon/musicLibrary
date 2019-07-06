@@ -5,44 +5,44 @@ series: teenage_mutant_ninja_turtles
 platform: "GBA"
 year: 2003
 songs:
-  - id: raphael_v_s_casey_jones_tmnt_gba_2003
-    title: "Raphael V.s. Casey Jones"
-    path: "Casey Jones.brstm"
-    type: battle
-  - id: donatello_s_flight_tmnt_gba_2003
-    title: "Donatello's Flight"
-    path: "Flight.mp3"
+  - id: mode_selection_tmnt_gba_2003
+    title: "Mode Selection"
+    path: "02 Mode Selection.minigsf"
     type: warning
   - id: hangin_out_tmnt_gba_2003
     title: "Hangin' Out"
-    path: "Hangout.mp3"
+    path: "04 Hangin' Out.minigsf"
     type: betting
-  - id: main_menu_tmnt_gba_2003
-    title: "Main Menu"
-    path: "Main Menu.mp3"
-    type: warning
-  - id: raphael_casey_purple_dragons_tmnt_gba_2003
-    title: "Raphael & Casey V.s. Purple Dragons"
-    path: "Purple Drags.brstm"
-    type: battle
-  - id: sewer_sweet_sewer_tmnt_gba_2003
-    title: "Sewer, Sweet Sewer"
-    path: "Sewer Sweet Sewer.brstm"
-    type: battle
-  - id: turtles_v_s_shredder_tmnt_gba_2003
-    title: "Turtles V.s. Shredder"
-    path: "Shredder.mp3"
-    type: warning
-  - id: raphael_act_1_tmnt_gba_2003
-    title: "Raphael Act 1"
-    path: "Streets.brstm"
-    type: battle
   - id: tension_tmnt_gba_2003
-    title: "Tension!"
-    path: "Tension.mp3"
+    title: "Tension"
+    path: "05 Tension.minigsf"
     type: warning
+  - id: sewers_and_streets_tmnt_gba_2003
+    title: "Sewers and Streets"
+    path: "06 Sewers and Streets.minigsf"
+    type: battle
   - id: upbeat_mood_tmnt_gba_2003
     title: "Upbeat Mood"
-    path: "Upbeat.mp3"
+    path: "12 Upbeat Mood.minigsf"
     type: result
+  - id: alleyway_tmnt_gba_2003
+    title: "Alleyway"
+    path: "13 Alleyway.minigsf"
+    type: battle
+  - id: casey_jones_tmnt_gba_2003
+    title: "Casey Jones"
+    path: "14 Casey Jones.minigsf"
+    type: battle
+  - id: big_fight_scene_tmnt_gba_2003
+    title: "Big Fight Scene"
+    path: "15 Big Fight Scene.minigsf"
+    type: battle
+  - id: flight_tmnt_gba_2003
+    title: "Flight"
+    path: "16 Flight.minigsf"
+    type: warning
+  - id: shredder_tmnt_gba_2003
+    title: "Shredder"
+    path: "22 Shredder.minigsf"
+    type: warning
 ...

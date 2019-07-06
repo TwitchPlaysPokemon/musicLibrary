@@ -5,8 +5,56 @@ series: megaman
 platform: "NES"
 year: 1991
 songs:
+  - id: bright_man_stage
+    title: "BRIGHT MAN STAGE"
+    path: "07 Bright Man Stage.vgz"
+    type: betting
+  - id: toad_man_stage
+    title: "TOAD MAN STAGE"
+    path: "08 Toad Man Stage.vgz"
+    type: betting
+  - id: drill_man_stage
+    title: "DRILL MAN STAGE"
+    path: "09 Drill Man Stage.vgz"
+    type: betting
+  - id: pharoah_man_stage
+    title: "PHARAOH MAN STAGE"
+    path: "10 Pharaoh Man Stage.vgz"
+    type: betting
+  - id: ring_man_stage
+    title: "RING MAN STAGE"
+    path: "11 Ring Man Stage.vgz"
+    type: betting
+  - id: dust_man_stage
+    title: "DUST MAN STAGE"
+    path: "12 Dust Man Stage.vgz"
+    type: betting
+  - id: dive_man_stage
+    title: "DIVE MAN STAGE"
+    path: "13 Dive Man Stage.vgz"
+    type: betting
+  - id: skull_man_stage
+    title: "SKULL MAN STAGE"
+    path: "14 Skull Man Stage.vgz"
+    type: betting
+  - id: boss_mm4
+    title: "BOSS"
+    path: "16 Boss.vgz"
+    type: warning
+  - id: dr_cossack_stage_1
+    title: "Dr.COSSACK STAGE 1"
+    path: "20 Dr. Cossack Stage 1.vgz"
+    type: betting
   - id: dr_cossack_stage_2
-    title: "Dr. Cossack Stage 3 & 4"
+    title: "Dr.COSSACK STAGE 2"
     path: "21 Dr. Cossack Stage 2.vgz"
+    type: betting
+  - id: dr_wily_stage_1_mm4
+    title: "Dr.WILY STAGE 1"
+    path: "23 Dr. Wily Stage 1.vgz"
+    type: betting
+  - id: dr_wily_stage_2_mm4
+    title: "Dr.WILY STAGE 2"
+    path: "24 Dr. Wily Stage 2.vgz"
     type: betting
 ...
