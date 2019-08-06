@@ -2,11 +2,73 @@
 id: yakuza_3
 title: "Yakuza 3"
 series: yakuza
-platform: "PS3"
+platform: "PS3, PS4"
 year: 2009
 songs:
   - id: fly_looped_version_yakuza_3
     title: "Fly"
     path: "Fly (Looped version).brstm"
     type: battle
+  - id: dead_run
+    title: "Dead Run"
+    path: "advbgm_chase.adx"
+    type: warning
+  - id: bruise
+    title: "Bruise"
+    path: "btlbgm_enc1_kmr.adx"
+    type: battle
+  - id: ryu_kyu_humming
+    title: "Ryu-Kyu Humming"
+    path: "btlbgm_enc2_rkg.adx"
+    type: battle
+  - id: crush_strike
+    title: "Crush & Strike"
+    path: "btlbgm_gang.adx"
+    type: battle
+  - id: takumi_2009
+    title: "TAKUMI 2009"
+    path: "btlbgm_training_kmr.adx"
+    type: betting
+  - id: end_point
+    title: "End Point"
+    path: "btlbgm_vs_arase.adx"
+    type: betting
+  - id: hear_this_in_the_game
+    title: "Hear this in the game"
+    path: "btlbgm_vs_amon.adx"
+    type: battle
+  - id: pure_malice
+    title: "Pure Malice"
+    path: "btlbgm_tama.adx"
+    type: battle
+  - id: independence_for_violence
+    title: "Independence For Violence"
+    path: "btlbgm_nishiki.adx"
+    type: battle
+  - id: illtreatment
+    title: "Illtreatment"
+    path: "btlbgm_long01.adx"
+    type: betting
+  - id: clay_doll_on_the_cradle
+    title: "Clay Doll On The Cradle"
+    path: "btlbgm_long03_hospital.adx"
+    ends: 3:09
+    type: betting
+  - id: receive_and_stab_you
+    title: "Receive And Stab You"
+    path: "btlbgm_vs_majima.adx"
+    type: battle
+  - id: lyricism_without_tears
+    title: "Lyricism Without Tears"
+    path: "btlbgm_vs_kazama1.adx"
+    type: battle
+  - id: let_s_produce_the_no_1_hostess
+    title: "Let's Produce the No.1 Hostess!"
+    path: "minig_caba_custmize_vo2.adx"
+    type: betting
+  - id: tears_of_father_overseas_edition
+    title: "Tears Of Father ~Overseas Edition~"
+    path: "ykz3_staffrole.adx"
+    ends: 2:39
+    type: betting
 ...

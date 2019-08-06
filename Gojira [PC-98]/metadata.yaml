@@ -1,0 +1,47 @@
+---
+id: gojira_pc_98
+title: "Gojira [PC-98]"
+platform: "PC-98"
+year: 1993
+songs: 
+  - id: ending_godzilla
+    title: "Ending (Godzilla)"
+    path: "Ending (Godzilla).brstm"
+    type: result
+  - id: ending_mothra_vs_godzilla
+    title: "Ending (Mothra vs. Godzilla)"
+    path: "Ending (Mothra vs. Godzilla).brstm"
+    type: result
+  - id: godzilla_and_nagoya
+    title: "Godzilla and Nagoya"
+    path: "Godzilla and Nagoya.brstm"
+    type: betting
+  - id: godzilla_vs_anguirus
+    title: "Godzilla vs. Anguirus"
+    path: "Godzilla vs. Anguirus.brstm"
+    type: betting
+  - id: main_title_godzilla
+    title: "Main Title (Godzilla)"
+    path: "Main Title (Godzilla).brstm"
+    type: warning
+  - id: main_title_invasion_of_astro_monster
+    title: "Main Title (Invasion of Astro-Monster)"
+    path: "Main Title (Invasion of Astro-Monster).brstm"
+    type: betting
+  - id: operation_l_march_i
+    title: "Operation L - March I"
+    path: "Operation L - March I.brstm"
+    type: betting
+  - id: radon_get_em!
+    title: "Radon, Get 'em!"
+    path: "Radon, Get 'em!.brstm"
+    type: betting
+  - id: the_first_round_of_battle
+    title: "The First Round of Battle"
+    path: "The First Round of Battle.brstm"
+    type: betting
+  - id: theme_9
+    title: "Theme 9"
+    path: "Theme 9.brstm"
+    type: warning
+...

@@ -1,11 +1,16 @@
 ---
 id: battleblock_theater
-title: "Battleblock Theater"
+title: "BattleBlock Theater"
 platform: ["360", "PC"]
 year: 2013
 songs: 
-  - id: finale_stage_chapter_8
-    title: "Finale Stage (Chapter 8)"
-    path: "Finale Stage (Chapter 8).brstm"
+  - id: mr_finale
+    title: "Mr. Finale"
+    path: "boss_music_01b.xma2"
     type: warning
+  - id: laidback_thrills
+    title: "Laidback Thrills"
+    path: "gameplay_8.xma2"
+    ends: 2:52
+    type: betting
 ...

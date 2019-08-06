@@ -1,0 +1,52 @@
+---
+id: lovers_of_aether
+title: "Lovers of Aether"
+series: roa
+platform: "PC"
+year: 2019
+songs:
+  - id: rivals_theme_pc_98
+    title: "Rivals Theme (PC-98 Remix)"
+    path: "01 Rivals Theme (PC-98 remix).brstm"
+    type: betting
+  - id: introduction_loa
+    title: "Introduction (Fire's Last Hope)"
+    path: "02 Fire's Last Hope (Introduction).logg"
+    type: warning
+  - id: fires_last_hope_love_ver
+    title: "Fire's Last Hope (Love Ver.)"
+    path: "03 Fire's Last Hope (Love ver).brstm"
+    type: result
+  - id: questions_and_answers_loa
+    title: "Questions and Answers"
+    path: "04 Questions and Answers.brstm"
+    type: break
+  - id: the_earthen_division_pc_98
+    title: "The Earthen Division (PC-98 Remix)"
+    path: "05 The Earthen Division (PC-98 remix).brstm"
+    type: warning
+  - id: customization_pc_98
+    title: "Customization (PC-98 Remix)"
+    path: "06 Customization (PC-98 remix).brstm"
+    type: betting
+  - id: tutorial_sessiong_pc_98
+    title: "Tutorial Session (PC-98 Remix)"
+    path: "07 Tutorial Session (PC-98 remix).logg"
+    type: break
+  - id: fight_and_flight_pc_98
+    title: "Fight and Flight (PC-98 Remix)"
+    path: "08 Fight and Flight (PC-98 remix).brstm"
+    type: betting
+  - id: fiery_ambitions_squarewave_ver
+    title: "Fiery Ambitions (Squarewave Ver.)"
+    path: "09 Fiery Ambitions (Squarewave ver).brstm"
+    type: warning
+  - id: rejection_loa
+    title: "Rejection"
+    path: "10 Rejection.brstm"
+    type: break
+  - id: acceptance_loa
+    title: "Acceptance"
+    path: "11 Acceptance.brstm"
+    type: result
+...

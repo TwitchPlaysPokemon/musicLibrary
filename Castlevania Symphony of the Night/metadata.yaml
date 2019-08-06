@@ -19,10 +19,11 @@ songs:
     type: betting
   - id: draculas_castle
     title: "Dracula's Castle"
-    path: "SLUS-00067_06 - Michiru Yamane - Dracula's Castle (Arranged by Akira Yamaoka) [1].XA"
-    type: battle
+    path: "Dracula's Castle.brstm"
+    type: betting
   - id: abandoned_pit
     title: "Abandoned Pit"
     path: "SLUS-00067_17 - Michiru Yamane - Abandoned Pit [Duplicate 1].XA"
+    ends: 2:13
     type: betting
 ...

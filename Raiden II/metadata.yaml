@@ -1,0 +1,35 @@
+---
+id: raiden_ii
+title: "Raiden II"
+platform: ["Arcade, PC"]
+year: 1993
+songs: 
+  - id: repeated_tragedy_level1
+    title: "Repeated tragedy (LEVEL1)"
+    path: "02 Repeated Tragedy.vgz"
+    type: betting
+  - id: tragedy_flame_level2_8
+    title: "Tragedy flame (LEVEL2/8)"
+    path: "05 Tragedy Flame.vgz"
+    type: betting
+  - id: all_or_nothing_level3
+    title: "All or nothing (LEVEL3)"
+    path: "06 All or Nothing.vgz"
+    type: betting
+  - id: burnt_field_level4
+    title: "Burnt Field (LEVEL4)"
+    path: "07 Burnt Field.vgz"
+    type: betting
+  - id: depression_level5
+    title: "Depression (LEVEL5)"
+    path: "08 Depression.vgz"
+    type: betting
+  - id: decisive_battle_level6
+    title: "Decisive battle (LEVEL6)"
+    path: "09 Decisive Battle.vgz"
+    type: betting
+  - id: flap_toward_the_hope_level7
+    title: "Flap toward the hope (LEVEL7)"
+    path: "10 Flap Toward the Hope.vgz"
+    type: betting
+...

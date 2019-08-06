@@ -1,9 +1,101 @@
+---
 id: godzilla_unleashed
 title: "Godzilla: Unleashed"
-year: 2007
 platform: ["PS2", "Wii"]
+year: 2007
 songs:
   - id: mecha_king_ghidorah
     title: "Mecha-King Ghidorah"
     path: "Mecha-King Ghidorah.brstm"
     type: warning
+  - id: anguirus
+    title: "Anguirus"
+    path: "Anguirus.brstm"
+    type: warning
+  - id: baragon
+    title: "Baragon"
+    path: "Baragon.brstm"
+    type: warning
+  - id: biollante_godzilla_unleashed
+    title: "Biollante"
+    path: "Biollante.brstm"
+    type: warning
+  - id: destoroyah_godzilla_unleashed
+    title: "Destoroyah"
+    path: "Destoroyah.brstm"
+    type: warning
+  - id: fire_rodan
+    title: "Fire Rodan"
+    path: "Fire Rodan.brstm"
+    type: warning
+  - id: gigan
+    title: "Gigan"
+    path: "Gigan.brstm"
+    type: warning
+  - id: godzilla
+    title: "Godzilla"
+    path: "Godzilla.brstm"
+    type: warning
+  - id: jet_jaguar
+    title: "Jet Jaguar"
+    path: "Jet Jaguar.brstm"
+    ends: 2:13
+    type: betting
+  - id: king_caesar
+    title: "King Caesar"
+    path: "King Caesar.brstm"
+    type: warning
+  - id: king_ghidorah_godzilla_unleashed
+    title: "King Ghidorah"
+    path: "King Ghidorah.brstm"
+    type: warning
+  - id: kiryu_mechagodzilla_2
+    title: "Kiryu - Mechagodzilla 2"
+    path: "Kiryu - Mechagodzilla 2.brstm"
+    type: warning
+  - id: krystalak_battra
+    title: "Krystalak - Battra"
+    path: "Krystalak - Battra.brstm"
+    type: warning
+  - id: mechagodzilla
+    title: "Mechagodzilla"
+    path: "Mechagodzilla.brstm"
+    type: warning
+  - id: megaguirus
+    title: "Megaguirus"
+    path: "Megaguirus.brstm"
+    type: warning
+  - id: megalon
+    title: "Megalon"
+    path: "Megalon.brstm"
+    type: warning
+  - id: moguera
+    title: "MOGUERA"
+    path: "MOGUERA.brstm"
+    ends: 2:02
+    type: betting
+  - id: mothra
+    title: "Mothra"
+    path: "Mothra.brstm"
+    type: warning
+  - id: obsidius
+    title: "Obsidius"
+    path: "Obsidius.brstm"
+    type: warning
+  - id: orga
+    title: "Orga"
+    path: "Orga.brstm"
+    type: warning
+  - id: spacegodzilla_godzilla_unleashed
+    title: "SpaceGodzilla"
+    path: "SpaceGodzilla.brstm"
+    type: warning
+  - id: titanosaurus
+    title: "Titanosaurus"
+    path: "Titanosaurus.brstm"
+    type: warning
+  - id: varan
+    title: "Varan"
+    path: "Varan.brstm"
+    type: warning
+...

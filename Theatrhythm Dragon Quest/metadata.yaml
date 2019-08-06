@@ -1,0 +1,19 @@
+---
+id: theatrhythm_dragon_quest
+title: "Theatrhythm Dragon Quest"
+platform: "3DS"
+year: 2015
+songs: 
+  - id: wagon_wheel_s_march
+    title: "Wagon Wheel's March"
+    path: "0301_FMS_002_music.dspadpcm.bcstm"
+    type: betting
+  - id: battle_for_the_glory_dragon_quest_iv
+    title: "Battle for the Glory - DRAGON QUEST IV"
+    path: "0401_BMS_001_music.dspadpcm.brstm"
+    type: battle
+  - id: fighting_spirits_dragon_quest_iii
+    title: "Fighting Spirits - DRAGON QUEST III"
+    path: "0301_BMS_001_music.dspadpcm.brstm"
+    type: battle
+...

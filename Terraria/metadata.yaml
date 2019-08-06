@@ -59,4 +59,76 @@ songs:
     title: "Lunar Boss"
     path: "Lunar Boss.brstm"
     type: warning
+  - id: boss_2_terraria
+    title: "Boss 2"
+    path: "Boss 2.brstm"
+    type: battle
+  - id: boss_3_terraria
+    title: "Boss 3"
+    path: "Boss 3.brstm"
+    type: warning
+  - id: dungeon_terraria
+    title: "Dungeon"
+    path: "Dungeon.brstm"
+    type: betting
+  - id: eerie
+    title: "Eerie"
+    path: "Eerie.brstm"
+    type: betting
+  - id: goblin_army
+    title: "Goblin Army"
+    path: "Goblin Army.brstm"
+    type: betting
+  - id: golem
+    title: "Golem"
+    path: "Golem.brstm"
+    type: battle
+  - id: lihzahrd
+    title: "Lihzahrd"
+    path: "Lihzahrd.brstm"
+    type: betting
+  - id: martian_madness
+    title: "Martian Madness"
+    path: "Martian Madness.brstm"
+    type: betting
+  - id: moon_lord
+    title: "Moon Lord"
+    path: "Moon Lord.brstm"
+    type: battle
+  - id: mushrooms
+    title: "Mushrooms"
+    path: "Mushrooms.brstm"
+    type: betting
+  - id: ocean
+    title: "Ocean"
+    path: "Ocean.brstm"
+    type: betting
+  - id: pirate_invasion
+    title: "Pirate Invasion"
+    path: "Pirate Invasion.brstm"
+    type: betting
+  - id: plantera
+    title: "Plantera"
+    path: "Plantera.brstm"
+    type: betting
+  - id: pumpkin_moon
+    title: "Pumpkin Moon"
+    path: "Pumpkin Moon.brstm"
+    type: betting
+  - id: space
+    title: "Space"
+    path: "Space.brstm"
+    type: betting
+  - id: the_crimson
+    title: "The Crimson"
+    path: "The Crimson.brstm"
+    type: betting
+  - id: underground_corruption
+    title: "Underground Corruption"
+    path: "Underground Corruption.brstm"
+    type: betting
+  - id: underground_ice
+    title: "Underground Ice"
+    path: "Underground Ice.brstm"
+    type: betting
 ...

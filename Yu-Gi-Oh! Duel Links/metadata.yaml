@@ -60,4 +60,36 @@ songs:
     title: "Yami Yugi Theme"
     path: "Yami Yugi Theme.brstm"
     type: battle
+  - id: arkana_theme
+    title: "Arkana Theme"
+    path: "Yu-Gi-Oh! Duel Links - Arkana Theme.brstm"
+    type: betting
+  - id: bandit_keith_weevil_underwood_rex_raptor_theme
+    title: "Bandit Keith/Weevil Underwood/Rex Raptor Theme"
+    path: "Yu-Gi-Oh! Duel Links - Bandit Keith_Weevil Underwood_Rex RaptorTheme.brstm"
+    type: betting
+  - id: dr_vellian_crowler_theme
+    title: "Dr. Vellian Crowler Theme"
+    path: "Yu-Gi-Oh! Duel Links - Dr. Vellian Crowler Theme.brstm"
+    type: betting
+  - id: ishizu_ishtar_odion_theme
+    title: "Ishizu Ishtar/Odion Theme"
+    path: "Yu-Gi-Oh! Duel Links - Ishizu Ishtar_Odion Theme.brstm"
+    type: betting
+  - id: maximillion_pegasus_theme
+    title: "Maximillion Pegasus Theme"
+    path: "Yu-Gi-Oh! Duel Links - Maximillion Pegasus Theme.brstm"
+    type: betting
+  - id: sartorius_kumar_theme
+    title: "Sartorius Kumar Theme"
+    path: "Yu-Gi-Oh! Duel Links - Sartorius Kumar Theme.brstm"
+    type: betting
+  - id: yubel_theme
+    title: "Yubel Theme"
+    path: "Yu-Gi-Oh! Duel Links - Yubel Theme.brstm"
+    type: betting
+  - id: yusei_fudo
+    title: "Yusei Fudo"
+    path: "Yu-Gi-Oh! Duel Links - Yusei Fudo Theme.brstm"
+    type: battle
 ...

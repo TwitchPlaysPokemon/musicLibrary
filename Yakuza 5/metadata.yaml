@@ -4,8 +4,102 @@ title: "Yakuza 5"
 platform: ["PS3", "PS4"]
 year: 2012
 songs: 
+  - id: the_battle_for_the_dream
+    title: "The Battle for the Dream"
+    path: "btlbgm_last_aizawa.adx"
+    type: battle
+  - id: isolated_fight
+    title: "Isolated fight"
+    path: "btlbgm_enc1_kiryu.adx"
+    type: battle
+  - id: hailstorm
+    title: "Hailstorm"
+    path: "btlbgm_enc2_saejima.adx"
+    type: battle
+  - id: affected_fight
+    title: "Affected fight"
+    path: "btlbgm_enc3_akiyama.adx"
+    type: battle
+  - id: what_a_funkastic_hit
+    title: "What a FUNKASTIC hit"
+    path: "btlbgm_enc4_shinada.adx"
+    type: battle
+  - id: victory_road_yakuza_5
+    title: "Victory Road"
+    path: "btlbgm_street.adx"
+    type: battle
+  - id: dynamic_magnificent
+    title: "Dynamic & Magnificent"
+    path: "btlbgm_vs_kanai.adx"
+    type: battle
+  - id: receive_and_slash_you
+    title: "Receive and Slash You"
+    path: "btlbgm_last_majima.adx"
+    type: battle
   - id: endless_fight
     title: "endless fight"
     path: "btlbgm_long_def.adx"
     type: battle
+  - id: christmas_night_raid
+    title: "Christmas Night Raid"
+    path: "btlbgm_lastlong_def.adx"
+    type: betting
+  - id: 36strings_nocturne
+    title: "36Strings Nocturne"
+    path: "btlbgm_lastlong.adx"
+    type: betting
+  - id: a_desperate_run
+    title: "A desperate run"
+    path: "btlbgm_chase.adx"
+    type: battle
+  - id: the_maximum_ill_luck
+    title: "The maximum ill luck"
+    path: "btlbgm_vs_amon.adx"
+    type: battle
+  - id: knowledge_of_the_hunter
+    title: "Knowledge of the Hunter"
+    path: "btlbgm_snowfuon.adx"
+    type: betting
+  - id: bright_eyes_in_snow
+    title: "bright eyes in snow"
+    path: "btlbgm_snow.adx"
+    type: warning
+  - id: battle_of_pride
+    title: "Battle of Pride"
+    path: "taxibgm_def.hca"
+    type: betting
+  - id: the_pursuit_of_speed
+    title: "The Pursuit of Speed"
+    path: "taxibgm_boss.hca"
+    type: battle
+  - id: be_the_star
+    title: "Be the Star!!"
+    path: "17-Be the Star!!.brstm"
+    type: betting
+  - id: コーチンズカップ・クラシック
+    title: "コーチンズカップ・クラシック"
+    path: "minig_kotin.hca"
+    type: warning
+  - id: olivier
+    title: "Olivier"
+    path: "35-Olivier.brstm"
+    type: break
+  - id: highway
+    title: "highway"
+    path: "41-highway.brstm"
+    type: break
+  - id: ばかみたい_jazz_version
+    title: "ばかみたい [Jazz Version]"
+    path: "42-ばかみたい [Jazz Version].brstm"
+    type: break
+  - id: rouge_of_love_feat_かぐや
+    title: "Rouge of Love ~feat.かぐや~"
+    path: "karaoke_rouge_of_love_kaguya.hca"
+    ends: 2:17
+    type: betting
+  - id: ばかみたい_feat_冴島&秋山
+    title: "ばかみたい ~feat.冴島&秋山~"
+    path: "karaoke_bakamitai_akiyama_saejima.hca"
+    ends: 2:00
+    type: betting
 ...

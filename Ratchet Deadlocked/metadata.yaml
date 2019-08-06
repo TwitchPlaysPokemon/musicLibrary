@@ -1,0 +1,35 @@
+---
+id: ratchet_deadlocked
+title: "Ratchet: Deadlocked"
+platform: ["PS2", "PS3"]
+year: 2005
+songs: 
+  - id: avenger_tournament_climb_the_tower_of_power
+    title: "Avenger Tournament – Climb the Tower of Power"
+    path: "36k_rcd_l05_aren~2.brstm"
+    type: battle
+  - id: kronos_introducing_shellshock
+    title: "Kronos - Introducing Shellshock"
+    path: "36k_rcd_l05_aren~4.brstm"
+    type: betting
+  - id: dreadzone_station
+    title: "DreadZone Station"
+    path: "36k_rcd_l06_tank~4.brstm"
+    type: break
+  - id: orxon_node_overload
+    title: "Orxon - Node Overload"
+    path: "36k_rcd_l08_node~2.brstm"
+    type: betting
+  - id: orxon_chains_of_villainy
+    title: "Orxon - Chains of Villainy"
+    path: "36k_rcd_l08_talk~2.brstm"
+    type: betting
+  - id: torval_the_turn_on
+    title: "Torval - The Turn On"
+    path: "36k_rcd_l10_node~2.brstm"
+    type: betting
+  - id: ghost_station_the_grinding_chase
+    title: "Ghost Station - The Grinding Chase"
+    path: "36k_rcd_l14_node~2.brstm"
+    type: betting
+...

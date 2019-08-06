@@ -1,0 +1,36 @@
+---
+id: dragon_ball_z_budokai_3
+title: "Dragon Ball Z: Budokai 3"
+platform: "PS2"
+year: 2004
+songs: 
+  - id: the_ultimate_energy
+    title: "The Ultimate Energy!!"
+    path: "BGM23.adx"
+    type: battle
+  - id: sky_battle_for_justice
+    title: "Sky Battle For Justice"
+    path: "BGM12.adx"
+    type: betting
+  - id: hurricane_challenger
+    title: "Hurricane Challenger
+    path: "BGM28.adx"
+    type: battle
+  - id: out_of_control
+    title: "ouT oF CoNTRoL"
+    path: "BGM14.adx"
+    type: betting
+  - id: over_the_galaxy
+    title: "Over The Galaxy"
+    path: "BGM25.adx"
+    type: battle
+  - id: flight_in_the_dark_side
+    title: "Flight in the Dark Side"
+    path: "BGM30.adx"
+    type: betting
+  - id: the_greatest_tactics_in_the_universe_great_tactics
+    title: "The Greatest Tactics In the Universe ~Great Tactics~"
+    path: "BGM09.adx"
+    ends: 3:33
+    type: betting
+...

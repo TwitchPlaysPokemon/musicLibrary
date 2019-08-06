@@ -1,0 +1,173 @@
+---
+id: bloodstained_ritual_of_the_night
+title: "Bloodstained: Ritual of the Night"
+platform: "Various"
+year: 2019
+songs: 
+  - id: theme_of_bloodstained
+    title: "Theme of Bloodstained"
+    path: "BGM_title.hca"
+    ends: 2:59
+    type: betting
+  - id: call_of_eternity
+    title: "Call of Eternity"
+    path: "BGM_nameentry.hca"
+    type: break
+  - id: luxurious_overture
+    title: "Luxurious Overture"
+    path: "BGM_m03ENT.hca"
+    type: betting
+  - id: lost_garden
+    title: "Lost Garden"
+    path: "BGM_m04GDN.hca"
+    type: betting
+  - id: holy_wisdom
+    title: "Holy Wisdom"
+    path: "BGM_m05SAN.hca"
+    type: betting
+  - id: gears_of_fortune
+    title: "Gears of Fortune"
+    path: "BGM_m08TWR.hca"
+    type: betting
+  - id: bibliotheca_ex_machina
+    title: "Bibliotheca Ex Machina"
+    path: "BGM_m07LIB.hca"
+    type: betting
+  - id: overdrive
+    title: "Overdrive"
+    path: "BGM_m09TRN.hca"
+    type: betting
+  - id: vestiges_of_corruption
+    title: "Vestiges of Corruption"
+    path: "BGM_m13ARC.hca"
+    type: betting
+  - id: forgotten_jade
+    title: "Forgotten Jade"
+    path: "BGM_m11UGD.hca"
+    type: betting
+  - id: interred_glory
+    title: "Interred Glory"
+    path: "BGM_m12SND.hca"
+    type: betting
+  - id: cursed_orphan
+    title: "Cursed Orphan"
+    path: "BGM_m17RVA.hca"
+    type: betting
+  - id: autumn_s_desolation
+    title: "Autumn's Desolation"
+    path: "BGM_m15JPN.hca"
+    type: betting
+  - id: goliath
+    title: "Goliath"
+    path: "BGM_m10BIG.hca"
+    type: betting
+  - id: terminus
+    title: "Terminus"
+    path: "BGM_m16MET.hca"
+    type: betting
+  - id: theme_of_gebel
+    title: "Theme of Gebel"
+    path: "BGM_siebel_sougu.hca"
+    type: betting
+  - id: theme_of_dominique
+    title: "Theme of Dominique"
+    path: "BGM_dominique_theme.hca"
+    type: betting
+  - id: theme_of_johannes
+    title: "Theme of Johannes"
+    path: "BGM_Johannes_theme.hca"
+    type: betting
+  - id: theme_of_zangetsu
+    title: "Theme of Zangetsu"
+    path: "BGM_zangetsu_theme.hca"
+    type: betting
+  - id: theme_of_alfred
+    title: "Theme of Alfred"
+    path: "BGM_alfred_theme.hca"
+    type: betting
+  - id: theme_of_od
+    title: "Theme of OD"
+    path: "BGM_OD_theme.hca"
+    type: betting
+  - id: in_peace_s_embrace
+    title: "In Peace's Embrace"
+    path: "BGM_ando.hca"
+    type: break
+  - id: foreboding
+    title: "Foreboding"
+    path: "BGM_kinchou.hca"
+    type: warning
+  - id: surpassing_grief
+    title: "Surpassing Grief"
+    path: "BGM_sad.hca"
+    type: break
+  - id: attack_of_the_grotesque
+    title: "Attack of the Grotesque"
+    path: "BGM_BOSS_A.hca"
+    type: battle
+  - id: the_executioners
+    title: "The Executioners"
+    path: "BGM_BOSS_B.hca"
+    type: battle
+  - id: honoring_the_oath
+    title: "Honoring the Oath"
+    path: "BGM_siebel_battle.hca"
+    type: battle
+  - id: exorschism
+    title: "Exorschism"
+    path: "BGM_zangetsu_battle.hca"
+    type: battle
+  - id: silent_howling
+    title: "Silent Howling"
+    path: "BGM_gremory_battle.hca"
+    type: battle
+  - id: repentance
+    title: "Repentance"
+    path: "BGM_dominique_battle.hca"
+    type: battle
+  - id: king_of_kings
+    title: "King of Kings"
+    path: "BGM_bael_battle.hca"
+    type: battle
+  - id: theme_of_bloodstained_piano_version
+    title: "Theme of Bloodstained Piano Version"
+    path: "BGM_piano_theme.hca"
+    ends: 1:12
+    type: betting
+  - id: an_unclouded_sky
+    title: "An Unclouded Sky"
+    path: "BGM_Afterbattle.hca"
+    type: result
+  - id: end_credits_bloodstained_ritual_of_the_night
+    title: "End Credits"
+    path: "BGM_staffroll.hca"
+    type: betting
+  - id: valiant_stride
+    title: "Valiant Stride"
+    path: "BGM_8bit_stage04.hca"
+    type: betting
+  - id: silent_howling_8bit
+    title: "Silent Howling 8bit"
+    path: "BGM_8bit_Boss_B.hca"
+    type: battle
+  - id: theme_of_tamako
+    title: "Theme of Tamako"
+    path: "SE_N3109_tamako_theme.hca"
+    type: warning
+  - id: brave_trigger
+    title: "Brave Trigger"
+    path: "BGM_8bit_stage01.hca"
+    type: betting
+  - id: sinister_sign
+    title: "Sinister Sign"
+    path: "BGM_8bit_stage02.hca"
+    type: betting
+  - id: everblack
+    title: "Everblack"
+    path: "BGM_8bit_stage05.hca"
+    type: betting
+  - id: fear
+    title: "Fear"
+    path: "BGM_8bit_Boss_A.hca"
+    type: battle
+...

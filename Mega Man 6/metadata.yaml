@@ -45,11 +45,11 @@ songs:
   - id: boss_mm6
     title: "BOSS"
     path: "15 Boss.vgz"
-    type: betting
+    type: warning
   - id: get_a_weapon_mm6
     title: "GET A WEAPON"
     path: "17 Get A Weapon.vgz"
-    type: betting
+    type: result
   - id: mr_x_stage
     title: "Mr.X STAGE"
     path: "19 Mr. X Stage.vgz"

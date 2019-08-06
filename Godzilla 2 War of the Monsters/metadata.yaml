@@ -1,0 +1,31 @@
+---
+id: godzilla_2_war_of_the_monsters
+title: "Godzilla 2: War of the Monsters"
+platform: "NES"
+year: 1992
+songs: 
+  - id: battle_godzilla_2_war_of_the_monsters
+    title: "Battle"
+    path: "Battle.brstm"
+    type: warning
+  - id: map_godzilla_2_war_of_the_monsters
+    title: "Map"
+    path: "Map.brstm"
+    type: result
+  - id: monster_phase
+    title: "Monster Phase"
+    path: "Monster Phase.brstm"
+    type:warning 
+  - id: select_scenario
+    title: "Select Scenario"
+    path: "Select Scenario.brstm"
+    type: warning
+  - id: title_screen_intro
+    title: "Title Screen - Intro"
+    path: "Title Screen - Intro.brstm"
+    type: result
+  - id: you_won
+    title: "You Won"
+    path: "You Won.brstm"
+    type: result
+...

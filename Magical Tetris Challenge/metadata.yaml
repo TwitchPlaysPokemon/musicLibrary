@@ -5,6 +5,14 @@ series: tetris
 platform: "Various"
 year: 1998
 songs: 
+  - id: versus_weasel
+    title: "Versus Weasel"
+    path: "08 Versus Weasel.miniusf"
+    type: betting
+  - id: versus_wolf
+    title: "Versus Wolf"
+    path: "09 Versus Wolf.miniusf"
+    type: betting
   - id: confrontation_with_pete
     title: "Confrontation with Pete"
     path: "10 Confrontation with Pete.miniusf"

@@ -1,0 +1,83 @@
+---
+id: pocket_card_jockey
+title: "Pocket Card Jockey"
+platform: "3DS"
+year: 2016
+songs: 
+  - id: title_screen_pocket_card_jockey
+    title: "Title Screen"
+    path: "bgm_sol_title01_32.dspadpcm.bcstm"
+    type: result
+  - id: opening_pocket_card_jockey
+    title: "Opening"
+    path: "bgm_sol_name_32.dspadpcm.bcstm"
+    type: warning
+  - id: in_the_underworld
+    title: "In The Underworld"
+    path: "bgm_sol_kamisama_32.dspadpcm.bcstm"
+    type: betting
+  - id: rhapsody_in_the_training_center
+    title: "Rhapsody in the Training Center"
+    path: "bgm_sol_young_house_adv00_32.dspadpcm.bcstm"
+    type: break
+  - id: start_running_hope
+    title: "Start Running Hope"
+    path: "bgm_sol_rece_01_32.dspadpcm.bcstm"
+    type: betting
+  - id: victory_pocket_card_jockey
+    title: "Victory"
+    path: "bgm_sol_victory01_32.dspadpcm.bcstm"
+    type: result
+  - id: yes_come_on_solitaiba
+    title: "Yes Come On Solitaiba!"
+    path: "bgm_sol_rece_02_32.dspadpcm.bcstm"
+    type: betting
+  - id: let_s_go_for_the_homestretch
+    title: "Let's Go for the Homestretch!"
+    path: "bgm_sol_straight01_32.dspadpcm.bcstm"
+    type: warning
+  - id: one_chance
+    title: "One Chance"
+    path: "bgm_sol_straight02_32.dspadpcm.bcstm"
+    type: result
+  - id: jazz_racing_jam
+    title: "Jazz Racing Jam"
+    path: "bgm_sol_rece_03_32.dspadpcm.bcstm"
+    type: battle
+  - id: victory_g1
+    title: "Victory (G1)"
+    path: "bgm_sol_victory02_32.dspadpcm.bcstm"
+    type: result
+  - id: mode_result
+    title: "Mode Result"
+    path: "bgm_sol_result_32.dspadpcm.bcstm"
+    type: result
+  - id: challenge_go_go
+    title: "Challenge Go Go!"
+    path: "bgm_sol_old_house_adv01_32.dspadpcm.bcstm"
+    type: betting
+  - id: funky_monkey_style
+    title: "Funky Monkey Style"
+    path: "bgm_sol_rece_04_32.dspadpcm.bcstm"
+    type: battle
+  - id: where_hope_is_born
+    title: "Where Hope is Born"
+    path: "bgm_sol_farm_32.dspadpcm.bcstm"
+    type: break
+  - id: challenge_to_the_vertex
+    title: "Challenge to the Vertex"
+    path: "bgm_sol_rece_05_32.dspadpcm.bcstm"
+    type: battle
+  - id: jinba_ittai_super_unity
+    title: "Jinba ittai (Super Unity)"
+    path: "bgm_sol_jinba_32.dspadpcm.bcstm"
+    type: warning
+  - id: boost_go
+    title: "Boost Go!!"
+    path: "bgm_sol_straight02_32.dspadpcm.bcstm"
+    type: warning
+  - id: running_my_road
+    title: "Running My Road"
+    path: "bgm_sol_ending_32.dspadpcm.bcstm"
+    type: break
+...

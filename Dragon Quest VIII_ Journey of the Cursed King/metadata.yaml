@@ -28,10 +28,10 @@ songs:
     title: "Intermezzo"
     path: "Intermezzo.mwv"
     type: break
-  - id: raising_the_war_cry
+  - id: war_cry
     title: "War Cry"
     path: "Raising the War Cry.mwv"
-    type: warning
+    type: battle
   - id: reminiscence_dq8
     title: "Reminiscence"
     path: "Reminiscence.mwv"
@@ -120,4 +120,8 @@ songs:
     title: "Poet's World"
     path: "Poet's World.mwv"
     type: break
+  - id: marching_through_the_fields
+    title: "Marching through the Fields"
+    path: "209 The Great Plains March.mwv"
+    type: betting
 ...

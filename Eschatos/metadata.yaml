@@ -1,23 +1,24 @@
 ---
 id: eschatos
-title: "Eschatos"
-platform: "360"
+title: "ESCHATOS"
+platform: "360, PC"
 year: 2011
 songs: 
   - id: silver_lining
-    title: "Silver Lining"
+    title: "SILVER LINING"
     path: "stage1.xwb"
     type: battle
   - id: survive
-    title: "Survive"
+    title: "SURVIVE"
     path: "stage2.xwb"
     type: battle
   - id: point_of_no_return
-    title: "Point of No Return"
+    title: "POINT OF NO RETURN"
     path: "stage3.xwb"
+    ends: 3:02
     type: betting
   - id: aces_back
-    title: "Ace's Back"
+    title: "ACE’S BACK"
     path: "nametry.xwb"
     type: warning
 ...

@@ -1,0 +1,35 @@
+---
+id: ultraman_arcade
+title: "Ultraman"
+platform: "Arcade"
+year: 1991
+songs: 
+  - id: opening_ultraman
+    title: "Opening"
+    path: "Ultraman no Uta (Arcade ver.).brstm"
+    type: result
+  - id: stage_2_nelonga
+    title: "Stage 2 Nelonga"
+    path: "Neronga.brstm"
+    type: warning
+  - id: stages_3_and_9_alien_baltan
+    title: "Stages 3 and 9 Alien Baltan"
+    path: "Baltan Seijin (Arcade ver.).brstm"
+    type: warning
+  - id: stage_4_jamyra
+    title: "Stage 4 Jamyra"
+    path: "Jamila (Arcade ver.).brstm"
+    type: warning
+  - id: stage_6_bullton
+    title: "Stage 6 Bullton"
+    path: "Bullton (Arcade ver.).brstm"
+    type: warning
+  - id: atage_7_antlar
+    title: "Stage 7 Antlar"
+    path: "Antlar.brstm"
+    type: warning
+  - id: stage_10_red_king
+    title: "Stage 10 Red-King"
+    path: "Red King (Arcade ver.).brstm"
+    type: warning
+...

@@ -1,12 +1,36 @@
 ---
 id: ratchet_clank
-platform: "PS2"
 title: "Ratchet & Clank"
 series: ratchetandclank
+platform: "PS2"
 year: 2002
 songs: 
   - id: kerwan_-_metropolis
-    path: "Kerwan - Metropolis.brstm"
     title: "Kerwan - Metropolis"
+    path: "Kerwan - Metropolis.brstm"
+    type: betting
+  - id: veldin_kyzil_plateau
+    title: "Veldin - Kyzil Plateau"
+    path: "Eudora - Logging Site.brstm"
+    type: betting
+  - id: novalis_tobruk_crater
+    title: "Novalis - Tobruk Crater"
+    path: "Novalis - Tobruk Crater.brstm"
+    type: betting
+  - id: eudora_logging_site
+    title: "Eudora - Logging Site"
+    path: "Veldin - Kyzil Plateau.brstm"
+    type: betting
+  - id: rilgar_blackwater_city
+    title: "Rilgar - Blackwater City"
+    path: "BGM13_LOOPED.brstm"
+    type: betting
+  - id: umbris_captain_qwark_s_snagglebeast
+    title: "Umbris - Captain Qwark's Snagglebeast"
+    path: "BGM20_LOOPED.brstm"
+    type: betting
+  - id: pokitaru_jowai_resort
+    title: "Pokitaru - Jowai Resort"
+    path: "Pokitaru - Jowai Resort.brstm"
     type: betting
 ...

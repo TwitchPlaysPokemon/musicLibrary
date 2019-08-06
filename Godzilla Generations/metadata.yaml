@@ -1,0 +1,19 @@
+---
+id: godzilla_generations
+title: "Godzilla Generations"
+platform: "DC"
+year: 1998
+songs: 
+  - id: collect_colosseum_menu
+    title: "Collect Colosseum Menu"
+    path: "Collect Colosseum Menu.brstm"
+    type: betting
+  - id: giant_dr_serizawa_s_theme
+    title: "Giant Dr. Serizawa's Theme"
+    path: "Giant Dr. Serizawa's Theme.brstm"
+    type: betting
+  - id: time_attack_godzilla_generations
+    title: "Time Attack"
+    path: "Time Attack.brstm"
+    type: betting
+...

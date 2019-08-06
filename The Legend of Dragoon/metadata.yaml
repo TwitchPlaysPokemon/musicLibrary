@@ -4,8 +4,24 @@ title: "The Legend of Dragoon"
 platform: "PS1"
 year: 1999
 songs: 
+  - id: battle_1_the_legend_of_dragoon
+    title: "Battle 1"
+    path: "107 - Battle 1.psf"
+    type: battle
+  - id: grassy_plains
+    title: "Grassy Plains"
+    path: "110 - Grassy Plains.psf"
+    type: betting
+  - id: battle_2_the_legend_of_dragoon
+    title: "Battle 2"
+    path: "126 - Battle 2.psf"
+    type: battle
   - id: forbidden_land
     title: "Forbidden Land"
     path: "135 - Forbidden Land.psf"
     type: betting
+  - id: boss_battle 3
+    title: "Boss Battle 3"
+    path: "138 - Boss Battle 3.psf"
+    type: battle
 ...

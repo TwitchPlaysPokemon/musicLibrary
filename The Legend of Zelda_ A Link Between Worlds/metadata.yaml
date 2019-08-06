@@ -41,10 +41,6 @@ songs:
     title: "Between Worlds"
     path: "YugaBossHighralluWait.ry.32.dspadpcm.bcstm"
     type: warning
-  - id: facing_ganon
-    title: "Facing Ganon"
-    path: "MediumGanon.ry.32.dspadpcm.bcstm"
-    type: warning
   - id: facing_yuga_in_hyrule_castle
     title: "Facing Yuga In Hyrule Castle"
     path: "YugaHighlaluBoss.ry.32.dspadpcm.bcstm"
@@ -53,6 +49,10 @@ songs:
     title: "Yuga's Theme"
     path: "YugaDemoDefault.ry.32.dspadpcm.bcstm"
     type: warning
+  - id: facing_ganon
+    title: "Facing Ganon"
+    path: "MediumGanon.ry.32.dspadpcm.bcstm"
+    type: battle
   - id: meeting_princess_zelda
     title: "Meeting Princess Zelda"
     path: "ZeldaFirstTime.ry.32.dspadpcm.bcstm"

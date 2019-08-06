@@ -1,0 +1,74 @@
+---
+id: black_white
+title: "Black & White"
+platform: "PC"
+year: 2001
+songs: 
+  - id: opening_black_white
+    title: "Opening"
+    path: "(mov) intro.mp2"
+    type: betting
+  - id: neutral_black_white
+    title: "Neutral"
+    path: "align~Neutral.mp2"
+    type: break
+  - id: credits_black_white
+    title: "Credits"
+    path: "Outro.mp2"
+    type: betting
+  - id: the_final_battle_black_white
+    title: "The Final Battle"
+    path: "script~CreatureBigFight.mp2"
+    ends: 2:18
+    type: betting
+  - id: creature_battle
+    title: "Creature Battle"
+    path: "script~CreatureFight.mp2"
+    type: warning
+  - id: the_guide
+    title: "The Guide"
+    path: "script~CreatureGuide.mp2"
+    ends: 2:35
+    type: betting
+  - id: khazar
+    title: "Khazar"
+    path: "script~khazar.mp2"
+    type: warning
+  - id: the_explorers
+    title: "The Explorers"
+    path: "script~MissionariesBackground.mp2"
+    type: result
+  - id: nemesis_and_lethys
+    title: "Nemesis and Lethys"
+    path: "script~Nemesis.mp2"
+    type: warning
+  - id: the_pied_piper
+    title: "The Pied Piper"
+    path: "script~PiperTune_M.mp2"
+    ends: 1:55
+    type: betting
+  - id: cutscene_bgm_1
+    title: "Cutscene BGM 1"
+    path: "script~Script01.mp2"
+    type: result
+  - id: cutscene_bgm_2
+    title: "Cutscene BGM 2"
+    path: "script~Script02.mp2"
+    type: warning
+  - id: cutscene_bgm_3
+    title: "Cutscene BGM 3"
+    path: "script~Script03.mp2"
+    type: warning
+  - id: cutscene_bgm_4
+    title: "Cutscene BGM 4"
+    path: "script~Script04.mp2"
+    type: warning
+  - id: the_singing_stones
+    title: "The Singing Stones"
+    path: "script~SingingStonesA.mp2"
+    type: warning
+  - id: sleg
+    title: "Sleg"
+    path: "script~Sleg.mp2"
+    type: warning
+...

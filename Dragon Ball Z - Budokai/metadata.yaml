@@ -9,4 +9,24 @@ songs:
     title: "Options Menu"
     path: "SBGM04.ADX"
     type: betting
+  - id: expectation
+    title: "Expectation"
+    path: "SBGM01.ADX"
+    type: result
+  - id: like_a_burning_wind
+    title: "Like a Burning Wind"
+    path: "PBGM03.ADX"
+    type: battle
+  - id: move_forward_fearlessly
+    title: "Move Forward Fearlessly"
+    path: "BBGM00.ADX"
+    type: battle
+  - id: challengers_dragon_ball_z_budokai
+    title: "Challengers"
+    path: "BBGM01.ADX"
+    type: battle
+  - id: countdown_to_the_decisive_battle
+    title: "Countdown to the Decisive Battle"
+    path: "PBGM12.ADX"
+    type: warning
 ...

@@ -1,5 +1,5 @@
 ---
-id: godzilla
+id: godzilla_ps3_ps4
 title: "GODZILLA"
 platform: ["PS3", "PS4"]
 year: 2014
@@ -8,7 +8,7 @@ songs:
     title: "Diorama Mode - Epilogue"
     path: "Diorama Mode - Epilogue.brstm"
     type: break
-  - id: results_godzilla
+  - id: results_godzilla_ps3_ps4
     title: "Results"
     path: "Results.brstm"
     type: result
@@ -16,4 +16,48 @@ songs:
     title: "VS. GODZILLA (2014)"
     path: "VS. GODZILLA (2014).brstm"
     type: battle
+  - id: final_stage_godzilla
+    title: "Final Stage"
+    path: "Final Stage.brstm"
+    type: warning
+  - id: stage_city_01
+    title: "Stage: City 01"
+    path: "Stage - City 01.brstm"
+    type: warning
+  - id: stage_city_02
+    title: "Stage: City 02"
+    path: "Stage - City 02.brstm"
+    type: warning
+  - id: stage_industrial_complex
+    title: "Stage: Industrial Complex"
+    path: "Stage - Industrial Complex.brstm"
+    type: warning
+  - id: stage_mountains
+    title: "Stage: Mountains"
+    path: "Stage - Mountains.brstm"
+    type: betting
+  - id: vs_showa_kaiju
+    title: "VS. Showa Kaiju"
+    path: "VS. Showa Kaiju.brstm"
+    type: warning
+  - id: vs_heisei_kaiju
+    title: "VS. Heisei Kaiju"
+    path: "VS. Heisei Kaiju.brstm"
+    type: battle
+  - id: vs_millennium_kaiju
+    title: "VS. Millennium Kaiju"
+    path: "VS. Millennium Kaiju.brstm"
+    type: warning
+  - id: vs_jet_jaguar
+    title: "VS. Jet Jaguar"
+    path: "VS. Jet Jaguar.brstm"
+    type: betting
+  - id: vs_super_x
+    title: "VS. Super X"
+    path: "VS. Super X.brstm"
+    type: battle
+  - id: vs_type_03_kiryu_super_mechagodzilla_gotengo
+    title: "VS. Type-03 Kiryu, Super Mechagodzilla, Gotengo"
+    path: "VS. Type-03 Kiryu, Super Mechagodzilla, Gotengo.brstm"
+    type: warning
 ...

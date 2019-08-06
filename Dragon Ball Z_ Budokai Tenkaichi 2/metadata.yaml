@@ -41,4 +41,46 @@ songs:
     title: "Lost Courage"
     path: "Lost Courage.brstm"
     type: battle
+  - id: open_wings
+    title: "Open Wings"
+    path: "zs2_01_US.adx"
+    ends: 2:14
+    type: betting
+  - id: arcadia_village
+    title: "Arcadia Village"
+    path: "zs2_02_US.adx"
+    type: break
+  - id: let_the_power_reigns
+    title: "Let the Power Reigns"
+    path: "zs2_08_US.adx"
+    ends: 2:20
+    type: betting
+  - id: jungle_dragon_ball_z_budokai_tenkaichi_2
+    title: "Jungle"
+    path: "zs2_12_US.adx"
+    ends: 2:12
+    type: betting
+  - id: king_s_uneasiness
+    title: "King's Uneasiness"
+    path: "zs2_14_US.adx"
+    type: warning
+  - id: morning_dew
+    title: "Morning Dew"
+    path: "zs2_17_US.adx"
+    type: break
+  - id: fly_high
+    title: "Fly High"
+    path: "zs2_24_US.adx"
+    ends: 2:15
+    type: betting
+  - id: escape_to_freedom
+    title: "Escape to Freedom"
+    path: "zs2_34_US.adx"
+    ends: 2:30
+    type: betting
+  - id: dark_half
+    title: "Dark Half"
+    path: "zs2_36_US.adx"
+    ends: 1:50
+    type: betting
 ...

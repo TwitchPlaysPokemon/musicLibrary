@@ -1,0 +1,67 @@
+---
+id: godzilla_generations_maximum_impact
+title: "Godzilla Generations: Maximum Impact"
+platform: "DC"
+year: 1999
+songs: 
+  - id: biollante
+    title: "Biollante"
+    path: "GG02.ADX"
+    type: warning
+  - id: chiba
+    title: "Chiba"
+    path: "GG07.ADX"
+    type: warning
+  - id: destoroyah
+    title: "Destoroyah"
+    path: "GG14.ADX"
+    type: warning
+  - id: fukuoka
+    title: "Fukuoka"
+    path: "GG10.ADX"
+    type: betting
+  - id: haneda
+    title: "Haneda"
+    path: "GG12.ADX"
+    type: warning
+  - id: king_ghidorah
+    title: "King Ghidorah"
+    path: "GG04.ADX"
+    type: warning
+  - id: mgr_iind
+    title: "MGR-IInd"
+    path: "GG09.ADX"
+    type: betting
+  - id: mothra_imago
+    title: "Mothra Imago"
+    path: "GG06.ADX"
+    type: warning
+  - id: mothra_larva
+    title: "Mothra Larva"
+    path: "GG05.ADX"
+    type: battle
+  - id: osaka
+    title: "Osaka"
+    path: "GG01.ADX"
+    type: betting
+  - id: smg_iind
+    title: "SMG-IInd"
+    path: "GG08.ADX"
+    type: warning
+  - id: spacegodzilla
+    title: "SpaceGodzilla"
+    path: "GG11.ADX"
+    type: warning
+  - id: super_x3
+    title: "Super X3"
+    path: "GG13.ADX"
+    type: betting
+  - id: tokyo
+    title: "Tokyo"
+    path: "GG03.ADX"
+    type: betting
+  - id: viewer
+    title: "Viewer"
+    path: "VIEWER.ADX"
+    type: betting
+...

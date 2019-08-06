@@ -1,0 +1,55 @@
+---
+id: dead_or_alive
+title: "Dead or Alive"
+platform: ["Arcade", "Saturn", "PS1"]
+year: 1996
+songs: 
+  - id: blade_of_ryu_ryu_hayabusa_stage_bgm
+    title: "Blade of \"RYU\" (Ryu Hayabusa Stage BGM)"
+    path: "Blade of RYU.brstm"
+    type: battle
+  - id: codename_bayman_bayman_stage_bgm
+    title: "Codename \"BAYMAN\" (Bayman Stage BGM)"
+    path: "Codename BAYMAN.brstm"
+    type: betting
+  - id: dead_or_alive_raidou_stage_bgm
+    title: "DEAD OR ALIVE (Raidou Stage BGM)"
+    path: "DEAD OR ALIVE.brstm"
+    type: battle
+  - id: the_secret_fist_of_legend_gen_fu_stage_bgm
+    title: "The Secret Fist of Legend (Gen Fu Stage BGM)"
+    path: "Densetsu no Hiken.brstm"
+    type: betting
+  - id: time_of_determination_kasumi_stage_bgm
+    title: "Time of Determination (Kasumi Stage BGM)"
+    path: "Ketsui no Toki.brstm"
+    type: betting
+  - id: lone_fighter_jann_lee_stage_bgm
+    title: "Lone Fighter (Jann Lee Stage BGM)"
+    path: "Kokou no Kenshi.brstm"
+    type: betting
+  - id: no_money_zack_stage_bgm
+    title: "NO MONEY (Zack Stage BGM)"
+    path: "NO MONEY.brstm"
+    type: battle
+  - id: physical_system_training_mode
+    title: "Physical System (Training Mode)"
+    path: "Physical System.brstm"
+    type: betting
+  - id: power_is_beauty_tina_stage_bgm
+    title: "Power is Beauty (Tina Stage BGM)"
+    path: "Power is Beauty.brstm"
+    type: battle
+  - id: show_down_character_select_bgm
+    title: "Show Down (Character Select BGM)"
+    path: "Showdown.brstm"
+    type: warning
+  - id: the_fist_of_taikyoku_blows_up_lei_fang_stage_bgm
+    title: "The Fist of TAIKYOKU Blows up(Lei Fang Stage BGM)"
+    path: "The Fist of TAIKYOKU Blows up.brstm"
+    type: betting
+  - id: your_name_is_name_entry_bgm
+    title: "Your Name is... (Name Entry BGM)"
+    path: "Your Name is....brstm"
+    type: result
+...

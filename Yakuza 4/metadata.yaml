@@ -4,8 +4,72 @@ title: "Yakuza 4"
 platform: ["PS3", "PS4"]
 year: 2010
 songs: 
+  - id: roarless_dragon
+    title: "Roarless Dragon"
+    path: "title_clr.adx"
+    type: break
+  - id: skirmish_another
+    title: "Skirmish \"Another\""
+    path: "btlbgm_arena.adx"
+    type: battle
+  - id: speed_star
+    title: "Speed Star"
+    path: "btlbgm_enc1_akiyama.adx"
+    type: battle
+  - id: theme_of_saigoh
+    title: "Theme of Saigoh"
+    path: "btlbgm_training_saigo.adx"
+    type: battle
+  - id: massive_fire
+    title: "Massive Fire"
+    path: "btlbgm_enc2_saejima.adx"
+    type: battle
+  - id: receive_and_bite_you
+    title: "Receive and Bite You"
+    path: "btlbgm_vs_majima.adx"
+    type: battle
+  - id: infinite_handcuff
+    title: "Infinite Handcuff"
+    path: "btlbgm_enc3_tanimura.adx"
+    type: battle
+  - id: the_myth
+    title: "The Myth"
+    path: "btlbgm_enc4_kiryu.adx"
+    type: battle
+  - id: smile_venomously
+    title: "Smile Venomously"
+    path: "btlbgm_vs_player.adx"
+    type: battle
+  - id: material_delights
+    title: "Material Delights"
+    path: "btlbgm_long01.adx"
+    type: battle
+  - id: solitude
+    title: "Solitude"
+    path: "btlbgm_long02_hills.adx"
+    type: battle
+  - id: four_face
+    title: "Four Face"
+    path: "btlbgm_last1.adx"
+    type: betting
+  - id: four_faith
+    title: "Four Faith"
+    path: "btlbgm_last2.adx"
+    type: betting
+  - id: for_face
+    title: "For Face"
+    path: "btlbgm_last3.adx"
+    type: betting
+  - id: for_faith_instruments
+    title: "For Faith (Instruments)"
+    path: "btlbgm_last4.adx"
+    type: betting
   - id: new_serena
     title: "New Serena"
     path: "New Serena.brstm"
     type: break
+  - id: big_fish_on
+    title: "Big Fish On!!"
+    path: "fishing_bighit.adx"
+    type: battle
 ...

@@ -1,9 +1,15 @@
+---
 id: shenmue
 title: "Shenmue"
+platform: "Various"
 year: 1999
-platform: "DC"
 songs:
   - id: ajiichi_chinese_restaurant
     title: "Ajiichi Chinese Restaurant"
     path: "Ajiichi Chinese Restaurant.brstm"
     type: break
+  - id: abe_store
+    title: "Abe Store"
+    path: "96j57s.brstm"
+    type: break
+...

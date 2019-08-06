@@ -1,0 +1,31 @@
+---
+id: gojira_kaiju_daikessen
+title: "Gojira Kaijū Daikessen"
+platform: "SFC"
+year: 1994
+songs: 
+  - id: opening_gojira_kaiju_daikessen
+    title: "Opening"
+    path: "112 Opening.spc"
+    type: warning
+  - id: player_s_monster_selecct
+    title: "Player's Monster Select"
+    path: "113 Player Monster Select.spc"
+    type: warning
+  - id: enemy_monster_select
+    title: "Enemy Monster Select"
+    path: "114 Enemy Monster Select.spc"
+    type: warning
+  - id: godzilla_s_theme_godzilla_stage
+    title: "Godzilla's Theme (Godzilla Stage)"
+    path: "115 Godzilla's Theme.spc"
+    type: betting
+  - id: mothra_s_song_mothra_stage
+    title: "Mothra's Song (Mothra Stage)"
+    path: "122 Mothra's Song.spc"
+    type: betting
+  - id: vs_select
+    title: "VS Select"
+    path: "130 Vs. Select.spc"
+    type: warning
+...

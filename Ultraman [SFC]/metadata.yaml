@@ -1,0 +1,43 @@
+---
+id: ultraman_sfc
+title: "Ultraman"
+platform: "SFC"
+year: 1991
+songs: 
+  - id: ultraman_s_song
+    title: "Ultraman's Song"
+    path: "02 Ultraman's Song.spc"
+    type: result
+  - id: science_patrol_s_theme
+    title: "Science Patrol's Theme"
+    path: "03 Science Patrol's Theme.spc"
+    type: betting
+  - id: go_ultraman
+    title: "Go, Ultraman!"
+    path: "05 Go, Ultraman!.spc"
+    type: betting
+  - id: bullton
+    title: "Bullton"
+    path: "10 Bullton.spc"
+    type: warning
+  - id: alien_baltan
+    title: "Alien Baltan"
+    path: "12 Alien Baltan.spc"
+    type: warning
+  - id: gomora
+    title: "Gomora"
+    path: "13 Gomora.spc"
+    type: warning
+  - id: alien_mephilas
+    title: "Alien Mephilas"
+    path: "14 Alien Mephilas.spc"
+    type: warning
+  - id: zetton
+    title: "Zetton"
+    path: "16 Zetton.spc"
+    type: betting
+  - id: name_entry
+    title: "Name Entry"
+    path: "20 Name Entry.spc"
+    type: warning
+...

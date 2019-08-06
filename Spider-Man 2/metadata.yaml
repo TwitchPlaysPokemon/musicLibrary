@@ -1,10 +1,35 @@
+---
 id: spider_man_2
 title: "Spider-Man 2"
-platform: ["GC", "Various"]
-#other platforms: ["Xbox", "PS2", "PC", "NDS", "PSP", "GBA", "N-Gage"]
+platform: ["PS2", "Xbox", "GCN", "PC"]
 year: 2004
 songs:
   - id: pizza_delivery
     title: "Pizza Delivery (Funiculi Funicula)"
-    path: "Pizza Delivery (Funiculi Funicula).brstm"
+    path: "MX_FINICULI.genh"
     type: betting
+  - id: hairy_legs
+    title: "Hairy Legs"
+    path: "MX_HAIRYLEGS_LOOP.genh"
+    type: battle
+  - id: karacho
+    title: "Karacho"
+    path: "MX_KARACHO_LOOP.genh"
+    type: betting
+  - id: vertical_dilemma
+    title: "Vertical Dilemma"
+    path: "MX_VERTICALDILEMMA.genh"
+    type: battle
+  - id: spider_eggs
+    title: "Spider Eggs"
+    path: "MX_SPIDEREGGS_LOOP.genh"
+    type: betting
+  - id: webhed
+    title: "Webhed"
+    path: "MX_WEBHED.genh"
+    type: warning
+  - id: hung_like_a_spider
+    title: "Hung Like A Spider"
+    path: "MX_HUNGLIKEASPIDER_LOOP1.genh"
+    type: battle
+...

@@ -1,0 +1,31 @@
+---
+id: bullet_sponge
+title: "Bullet Sponge"
+platform: "PC"
+year: 2019
+songs:
+  - id: nerves_of_steel_wool
+    title: "Nerves of Steel Wool"
+    path: "01_nerves_of_steel_wool.brstm"
+    type: betting
+  - id: level_complete_bs
+    title: "Level Complete"
+    path: "02_level_complete.brstm"
+    type: result
+  - id: punching_aerobics
+    title: "Punching Aerobics"
+    path: "03_punching_aerobics.brstm"
+    type: betting
+  - id: vs_phage_bs
+    title: "Vs. Phage"
+    path: "04_vs_phage.logg"
+    type: battle
+  - id: ending_bs
+    title: "Ending"
+    path: "05_ending.logg"
+    type: break
+  - id: cool_song_bs
+    title: "cool_song :)"
+    path: "06_cool_song.logg"
+    type: result
+...

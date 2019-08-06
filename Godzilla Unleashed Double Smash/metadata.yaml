@@ -1,0 +1,47 @@
+---
+id: godzilla_unleashed_double_smash
+title: "Godzilla Unleashed: Double Smash"
+platform: "NDS"
+year: 2007
+songs: 
+  - id: atlantis
+    title: "Atlantis"
+    path: "atlantis.strm"
+    type: betting
+  - id: bangkok
+    title: "Bangkok"
+    path: "bangkok.strm"
+    type: betting
+  - id: boss_godzilla_unleashed_double_smash
+    title: "Boss"
+    path: "boss.strm"
+    type: warning
+  - id: cairo
+    title: "Cairo"
+    path: "cairo.strm"
+    type: betting
+  - id: menu_godzilla_unleashed_double_smash
+    title: "Menu"
+    path: "menu.strm"
+    type: betting
+  - id: monster_island
+    title: "Monster Island"
+    path: "monster_island.strm"
+    type: battle
+  - id: paris
+    title: "Paris"
+    path: "paris.strm"
+    type: betting
+  - id: san_francisco
+    title: "San Francisco"
+    path: "san_francisco.strm"
+    type: betting
+  - id: sydney
+    title: "Sydney"
+    path: "sydney.strm"
+    type: betting
+  - id: tokyo_godzilla_unleashed_double_smash
+    title: "Tokyo"
+    path: "tokyo.strm"
+    type: betting
+...
