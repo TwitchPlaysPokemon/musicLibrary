@@ -40,7 +40,7 @@ songs:
     title: "Mothra Larva"
     path: "GG05.ADX"
     type: battle
-  - id: osaka
+  - id: osaka_ggmi
     title: "Osaka"
     path: "GG01.ADX"
     type: betting
@@ -56,11 +56,11 @@ songs:
     title: "Super X3"
     path: "GG13.ADX"
     type: betting
-  - id: tokyo
+  - id: tokyo_ggmi
     title: "Tokyo"
     path: "GG03.ADX"
     type: betting
-  - id: viewer
+  - id: viewer_ggmi
     title: "Viewer"
     path: "VIEWER.ADX"
     type: betting

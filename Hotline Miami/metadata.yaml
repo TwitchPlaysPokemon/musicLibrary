@@ -5,12 +5,12 @@ series: hotlinemiami
 platform: "PC"
 year: 2012
 songs:
-  - id: crystals
+  - id: crystals_miami
     title: "Crystals"
     path: "Crystals.brstm"
     ends: 3:15
     type: betting
-  - id: hotline_(hotline_miami_ep_version)
+  - id: hotline_hotline_miami_ep_version
     title: "Hotline"
     path: "Hotline (Hotline Miami EP Version).brstm"
     ends: 3:12
@@ -28,7 +28,7 @@ songs:
     title: "Inner Animal"
     path: "Inner Animal.mp3"
     type: betting
-  - id: paris
+  - id: paris_miami
     title: "Paris"
     path: "Paris.mp3"
     type: betting
@@ -37,7 +37,7 @@ songs:
     ends: 3:02
     path: "Musikk per automatikk.mp3"
     type: betting
-  - id: hydrogen
+  - id: hydrogen_miami
     title: "Hydrogen"
     ends: 3:02
     path: "Hydrogen.mp3"

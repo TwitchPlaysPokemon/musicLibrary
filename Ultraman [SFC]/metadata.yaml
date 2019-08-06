@@ -16,7 +16,7 @@ songs:
     title: "Go, Ultraman!"
     path: "05 Go, Ultraman!.spc"
     type: betting
-  - id: bullton
+  - id: bullton_ultraman
     title: "Bullton"
     path: "10 Bullton.spc"
     type: warning
@@ -24,7 +24,7 @@ songs:
     title: "Alien Baltan"
     path: "12 Alien Baltan.spc"
     type: warning
-  - id: gomora
+  - id: gomora_ultraman
     title: "Gomora"
     path: "13 Gomora.spc"
     type: warning
@@ -36,7 +36,7 @@ songs:
     title: "Zetton"
     path: "16 Zetton.spc"
     type: betting
-  - id: name_entry
+  - id: name_entry_ultraman
     title: "Name Entry"
     path: "20 Name Entry.spc"
     type: warning

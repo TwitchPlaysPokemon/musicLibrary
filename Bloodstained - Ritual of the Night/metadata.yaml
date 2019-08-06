@@ -17,11 +17,11 @@ songs:
     title: "Luxurious Overture"
     path: "BGM_m03ENT.hca"
     type: betting
-  - id: lost_garden
+  - id: lost_garden_rotn
     title: "Lost Garden"
     path: "BGM_m04GDN.hca"
     type: betting
-  - id: holy_wisdom
+  - id: holy_wisdom_rotn
     title: "Holy Wisdom"
     path: "BGM_m05SAN.hca"
     type: betting
@@ -57,7 +57,7 @@ songs:
     title: "Autumn's Desolation"
     path: "BGM_m15JPN.hca"
     type: betting
-  - id: goliath
+  - id: goliath_rotn
     title: "Goliath"
     path: "BGM_m10BIG.hca"
     type: betting
@@ -81,7 +81,7 @@ songs:
     title: "Theme of Zangetsu"
     path: "BGM_zangetsu_theme.hca"
     type: betting
-  - id: theme_of_alfred
+  - id: theme_of_alfred_rotn
     title: "Theme of Alfred"
     path: "BGM_alfred_theme.hca"
     type: betting
@@ -93,7 +93,7 @@ songs:
     title: "In Peace's Embrace"
     path: "BGM_ando.hca"
     type: break
-  - id: foreboding
+  - id: foreboding_rotn
     title: "Foreboding"
     path: "BGM_kinchou.hca"
     type: warning
@@ -121,11 +121,11 @@ songs:
     title: "Silent Howling"
     path: "BGM_gremory_battle.hca"
     type: battle
-  - id: repentance
+  - id: repentance_rotn
     title: "Repentance"
     path: "BGM_dominique_battle.hca"
     type: battle
-  - id: king_of_kings
+  - id: king_of_kings_rotn
     title: "King of Kings"
     path: "BGM_bael_battle.hca"
     type: battle
@@ -166,7 +166,7 @@ songs:
     title: "Everblack"
     path: "BGM_8bit_stage05.hca"
     type: betting
-  - id: fear
+  - id: fear_bloodstained_ritual_of_the_night
     title: "Fear"
     path: "BGM_8bit_Boss_A.hca"
     type: battle
