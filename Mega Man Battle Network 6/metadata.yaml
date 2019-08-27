@@ -5,12 +5,20 @@ series: megaman
 platform: "GBA"
 year: 2005
 songs: 
-  - id: title_screen_mmbn6
-    title: "Title Screen"
+  - id: theme_of_rockman_exe6
+    title: "Theme of ROCKMAN EXE6"
     path: "01 Title Screen.minigsf"
     type: result
   - id: central_town
     title: "Central Town"
     path: "03 Central Town.minigsf"
     type: break
+  - id: digital_strider
+    title: "Digital Strider"
+    path: "19 CyberWorld.minigsf"
+    type: betting
+  - id: surge_of_power
+    title: "Surge of Power!"
+    path: "22 Battle Against WWW.minigsf"
+    type: battle
 ...

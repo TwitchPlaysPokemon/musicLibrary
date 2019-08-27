@@ -5,20 +5,20 @@ series: sonicthehedgehog
 platform: ["360", "PS3", "PC"]
 year: 2011
 songs:
-  - id: boss_death_egg
-    title: "Boss - Death Egg Robot (OST)"
+  - id: boss_battle_death_egg_robot
+    title: "Boss Battle: Death Egg Robot"
     path: "Boss - Death Egg Robot (OST Version).brstm"
     type: battle
-  - id: boss_egg_dragoon
-    title: "Boss - Egg Dragoon"
+  - id: boss_battle_egg_dragoon
+    title: "Boss Battle: Egg Dragoon"
     path: "Boss - Egg Dragoon.brstm"
     type: battle
-  - id: casino_night
-    title: "Casino Night Zone"
+  - id: casino_night_act_2
+    title: "Casino Night: Act 2 "
     path: "Casino Night.brstm"
     type: betting
   - id: collection_room
-    title: "Collection Room (Door into Summer)"
+    title: "Collection Room"
     path: "Collection Room (Door into Summer).brstm"
     type: betting
   - id: hub_city_escape
@@ -29,44 +29,149 @@ songs:
     title: "Hub - Egg Dragoon"
     path: "Hub - Egg Dragoon.brstm"
     type: warning
-  - id: mission_3
-    title: "Mission 3 (Emerald Beach)"
+  - id: challenge_mission_3
+    title: "Challenge / Mission 3"
     path: "Mission 3 (Emerald Beach).brstm"
     type: battle
-  - id: crisis_city_classic
-    title: "Crisis City - Classic"
+  - id: crisis_city_act_1
+    title: "Crisis City: Act 1"
     path: "Crisis City - Classic.brstm"
     type: battle
   - id: hub_death_egg_robot
     title: "Hub - Death Egg Robot"
     path: "Hub - Death Egg Robot.brstm"
     type: warning
-  - id: invincibility_classic_sonic
-    title: "Invincibility (Classic Sonic)"
+  - id: jingle_invicible_ver_1
+    title: "Jingle: Invincible ver. 1"
     path: "Invincibility (Classic Sonic).brstm"
     type: warning
-  - id: gallery_sonic_3_file_select
-    title: "Gallery (Sonic 3 File Select)"
+  - id: gallery_sonic_generations
+    title: "Gallery"
     path: "Gallery (Sonic 3 File Select).brstm"
     type: break
-  - id: final_boss_time_eater_classic
-    title: "Final Boss - Time Eater (Classic)"
+  - id: boss_battle_time_eater_ver_1
+    title: "Boss Battle: Time Eater ver. 1"
     path: "Final Boss - Time Eater (Classic).brstm"
     type: battle
-  - id: stardust_speedway_bad_future_us_remix
-    title: "Stardust Speedway (Bad Future US) Remix"
+  - id: rival_battle_metal_sonic_us_ver_stardust_speedway
+    title: "Rival Battle: Metal Sonic (US ver.) "Stardust Speedway""
     path: "Stardust Speedway (Bad Future US) Remix.brstm"
     type: betting
   - id: seaside_hill_modern
-    title: "Seaside Hill - Modern"
+    title: "Seaside Hill: Act 2"
     path: "Seaside Hill - Modern.brstm"
     type: betting
   - id: boss_battle_death_egg_robot
     title: "Boss Battle: Death Egg Robot"
     path: "Boss - Death Egg Robot (Medley).brstm"
     type: warning
-  - id: crisis_city_modern
-    title: "Crisis City - Modern"
+  - id: crisis_city_act_2
+    title: "Crisis City: Act 2"
     path: "Crisis City - Modern.brstm"
     type: battle
+  - id: menu_1_sonic_generations
+    title: "Menu 1"
+    path: "EMBB002_Option_wav.aax"
+    type: betting
+  - id: green_hill_act_1
+    title: "Green Hill: Act 1"
+    path: "EMBB005_GHZ_2D_Normal_wav.aax"
+    type: betting
+  - id: green_hill_act_2_normal
+    title: "Green Hill: Act 2 - Normal"
+    path: "EMBB007_GHZ_3D_Normal_wav.aax"
+    type: betting
+  - id: chemical_plant_act_1
+    title: "Chemical Plant: Act 1"
+    path: "EMBB009_CPZ_2D_Normal_wav.aax"
+    type: betting
+  - id: chemical_plant_act_2
+    title: "Chemical Plant: Act 2"
+    path: "EMBB011_CPZ_3D_wav.aax"
+    type: betting
+  - id: sky_sanctuary_act_1
+    title: "Sky Sanctuary: Act 1"
+    path: "EMBB012_SSZ_2D_Normal_wav.aax"
+    type: betting
+  - id: sky_sanctuary_act_2_normal
+    title: "Sky Sanctuary: Act 2 - Normal"
+    path: "EMBB014_SSZ_3D_Normal_wav.aax"
+    type: betting
+  - id: speed_highway_act_1_run_through_the_speed_highway_cash_cash_rmx
+    title: "Speed Highway: Act 1 \"Run Through the Speed Highway - Cash Cash RMX\""
+    path: "EMBB016_SPH_2D_Normal_Mixed0623b_wav.aax"
+    type: betting
+  - id: speed_highway_act_2_run_through_the_speed_highway
+    title: "Speed Highway: Act 2 \"Run Through the Speed Highway\""
+    path: "EMBB018_SPH_3D_wav.aax"
+    type: betting
+  - id: speed_highway_act_2_skyscraper_downhill_goin_down_cash_cash_vs_jun_senoue_rmx
+    title: "Speed Highway: Act 2 - Skyscraper Downhill \"Goin' Down?! - Cash Cash vs. Jun Senoue RMX\""
+    path: "EMBB019_SPH_3D_GoingDown_LessVoice_Short_wav.aax"
+    type: warning
+  - id: city_escape_act_1_escape_from_the_city_cash_cash_rmx
+    title: "City Escape: Act 1 \"Escape from the City - Cash Cash RMX\""
+    path: "EMBB021_CTE_2D_GameMix_Mixed0711_wav.aax"
+    type: betting
+  - id: city_escape_act_2_escape_from_the_city_blue_blur_rmx
+    title: "City Escape: Act 2 \"Escape from the City - Blue Blur RMX\""
+    path: "EMBB023_CTE_3D_NoAdlib_Mixed0713_wav.aax"
+    ends: 3:26
+    type: betting
+  - id: city_escape_act_2_gun_convoy_battle_the_mad_convoy_race
+    title: "City Escape: Act 2 - Gun Convoy Battle \"The Mad Convoy Race\""
+    path: "EMBB024_CTE_3D_Convoy_wav.aax"
+    type: warning
+  - id: seaside_hill_act_1
+    title: "Seaside Hill: Act 1"
+    path: "EMBB025_SSH_2D_Mixed_Normal_wav.aax"
+    type: betting
+  - id: rooftop_run_act_1
+    title: "Rooftop Run: Act 1"
+    path: "EMBB031_RooftopRun_2D_Normal_wav.aax"
+    type: betting
+  - id: rooftop_run_act_2
+    title: "Rooftop Run: Act 2"
+    path: "EMBB033_RooftopRun_3D_Normal_wav.aax"
+    type: betting
+  - id: planet_wisp_act_1
+    title: "Planet Wisp: Act 1"
+    path: "EMBB034_PlanetWisp_2D_Normal_wav.aax"
+    type: betting
+  - id: planet_wisp_act_2
+    title: "Planet Wisp: Act 2"
+    path: "EMBB036_PlanetWisp_3D_wav.aax"
+    type: betting
+  - id: rival_battle_metal_sonic_stardust_speedway
+    title: "Rival Battle: Metal Sonic \"Stardust Speedway\""
+    path: "EMBB040_vs_Metal_Sonic_wav.aax"
+    type: battle
+  - id: rival_battle_shadow_the_hedgehog_for_true_story_circuit_freq_rmx
+    title: "Rival Battle: Shadow the Hedgehog \"For True Story - Circuit Freq RMX\""
+    path: "EMBB041_vs_Shadow_CFREQ_Remix_v2_wav.aax"
+    type: battle
+  - id: rival_battle_silver_the_hedgehog
+    title: "Rival Battle: Silver the Hedgehog"
+    path: "EMBB044_vs_Silver_Pt1_wav.aax"
+    type: battle
+  - id: boss_battle_perfect_chaos_pt_ii_perfect_chaos_revival
+    title: "Boss Battle: Perfect Chaos Pt-II \"Perfect Chaos Revival!\""
+    path: "EMBB048_Perfect_Chaos_wav.aax"
+    type: battle
+  - id: boss_battle_time_eater_ver_2
+    title: "Boss Battle: Time Eater ver. 2"
+    path: "EMBB050_Time_Eater_Type2_wav.aax"
+    type: battle
+  - id: challenge_mission_1_super_sonic_racing_cash_cash_vs_jun_senoue_rmx
+    title: "Challenge / Mission 1 \"Super Sonic Racing - Cash Cash vs. Jun Senoue RMX\""
+    path: "EMBB083_Mission1_SSR_Mixed0711_wav.aax"
+    type: betting
+  - id: challenge_mission_4
+    title: "Challenge / Mission 4"
+    path: "EMBB086_Mission4_S320_wav.aax"
+    type: betting
+  - id: challenge_mission_5
+    title: "Challenge / Mission 5"
+    path: "EMBB087_Mission5_Sonic3DB_wav.aax"
+    type: betting
 ...

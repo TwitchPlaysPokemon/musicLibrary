@@ -1,0 +1,20 @@
+---
+id: mega_man_battle_network_5_nds
+title: "Mega Man Battle Network 5 [NDS]"
+series: megaman
+platform: ["GBA", "NDS"]
+year: 2005
+songs: 
+  - id: battle_theme_from_rockman_exe_operation
+    title: "Battle Theme from Rockman EXE ~ Operation!"
+    path: "20 Battle Theme from Rockman EXE ~ Operation!.mini2sf"
+    type: battle
+  - id: battle_theme_from_rockman_exe_4_cyber_battle
+    title: "Battle Theme from Rockman EXE 4 ~ Cyber Battle"
+    path: "23 Battle Theme from Rockman EXE 4 ~ Cyber Battle.mini2sf"
+    type: battle
+  - id: vs_nebula_gray_mmbn5_nds
+    title: "Vs. Nebula Gray"
+    path: "41 Vs. Nebula Gray.mini2sf"
+    type: battle
+...

@@ -1,0 +1,107 @@
+---
+id: yakuza_dead_souls
+title: "Yakuza: Dead Souls"
+platform: "PS3"
+year: 2011
+songs: 
+  - id: start_of_the_end
+    title: "Start OF THE END"
+    path: "imagesong_lp.adx"
+    type: betting
+  - id: tension_yakuza_dead_souls
+    title: "Tension"
+    path: "advbgm_kinpaku.adx"
+    type: battle
+  - id: akiyama_battle_theme
+    title: "Akiyama \"Battle Theme\""
+    path: "btlbgm_nml_aki.adx"
+    type: betting
+  - id: akiyama_predicament
+    title: "Akiyama \"Predicament\""
+    path: "btlbgm_pinch_aki.adx"
+    type: battle
+  - id: akiyama_desperate_situation
+    title: "Akiyama "Desperate Situation""
+    path: "btlbgm_expinch_aki.adx"
+    type: warning
+  - id: screamer
+    title: "screamer"
+    path: "btlbgm_sp_scream.adx"
+    type: battle
+  - id: gary_s_theme
+    title: "Gary's Theme"
+    path: "kaiwabgm_garytheme.adx"
+    type: result
+  - id: gary_s_boot_camp
+    title: "Gary's Boot Camp"
+    path: "garys_bootcamp.adx"
+    type: battle
+  - id: moonlight_blade
+    title: "Moonlight Blade"
+    path: "btlbgm_vs_gekko.adx"
+    type: warning
+  - id: majima_battle_theme
+    title: "Majima \"Battle Theme\""
+    path: "btlbgm_nml_majima.adx"
+    type: battle
+  - id: majima_predicament
+    title: "Majima \"Predicament\""
+    path: "btlbgm_pinch_majima.adx"
+    type: battle
+  - id: majima_desperate_situation
+    title: "Majima \"Desperate Situation\""
+    path: "btlbgm_expinch_majima.adx"
+    type: warning
+  - id: assailed_from_all_sides
+    title: "Assailed from All Sides"
+    path: "btlbgm_vs_boss_nrm.adx"
+    type: battle
+  - id: octopus
+    title: "octopus"
+    path: "btlbgm_vs_octo1.adx"
+    type: battle
+  - id: inescapable_battle
+    title: "Inescapable Battle"
+    path: "btlbgm_vs_octo2.adx"
+    type: battle
+  - id: ryuji_battle_theme
+    title: "Ryuji \"Battle Theme\""
+    path: "btlbgm_nml_ryuji.adx"
+    type: betting
+  - id: ryuji_predicament
+    title: "Ryuji \"Predicament\""
+    path: "btlbgm_pinch_ryuji.adx"
+    type: battle
+  - id: ryuji_desperate_situation
+    title: "Ryuji \"Desperate Situation\""
+    path: "btlbgm_expinch_ryuji.adx"
+    type: warning
+  - id: tsuchigumo
+    title: "TSUCHIGUMO"
+    path: "btlbgm_vs_widow.adx"
+    type: betting
+  - id: kiryu_battle_theme
+    title: "Kiryu \"Battle Theme\""
+    path: "btlbgm_nml_kiryu.adx"
+    type: battle
+  - id: kiryu_predicament
+    title: "Kiryu \"Predicament\""
+    path: "btlbgm_pinch_kiryu.adx"
+    type: warning
+  - id: kiryu_desperate_situation
+    title: "Kiryu \"Desperate Situation\""
+    path: "btlbgm_expinch_kiryu.adx"
+    type: warning
+  - id: long_battle
+    title: "Long Battle"
+    path: "btlbgm_long01.adx"
+    type: battle
+  - id: cry
+    title: "Cry..."
+    path: "btlbgm_vs_nikaido1.adx"
+    type: betting
+  - id: return_to_nothingness
+    title: "Return to Nothingness"
+    path: "btlbgm_vs_nikaido2.adx"
+    type: betting
+...

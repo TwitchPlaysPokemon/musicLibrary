@@ -1,16 +1,68 @@
 ---
 id: sonic_generations_3ds
-platform: "3DS"
 title: "Sonic Generations [3DS]"
 series: sonic
+platform: "3DS"
 year: 2011
 songs: 
-  - id: boss_-_big_arms_sonic_3_final_boss_in-game
-    title: "Boss - Big Arms"
+  - id: boss_battle_big_arms_sonic_generations
+    title: "Boss Battle: Big Arms"
     path: "Boss - Big Arms (Sonic 3 Final Boss) (In-Game).brstm"
     type: battle
-  - id: radical_highway_classic_extended_ost_version
-    title: "Radical Highway - Classic"
+  - id: radical_highway_vengeance_is_mine_cash_cash_rmx
+    title: "Radical Highway: Act 1 "Vengeance Is Mine - Cash Cash RMX"
     path: "Radical Highway - Classic (Extended OST Version).brstm"
+    type: battle
+  - id: casino_night_act_1
+    title: "Casino Night: Act 1"
+    path: "BGM_3DSanniv_streamfiles_00000008.adx"
+    type: betting
+  - id: mushroom_hill_act_1
+    title: "Mushroom Hill: Act 1"
+    path: "BGM_3DSanniv_streamfiles_0000000B.adx"
+    type: betting
+  - id: mushroom_hill_act_2
+    title: "Mushroom Hill: Act 2"
+    path: "BGM_3DSanniv_streamfiles_0000000C.adx"
+    type: betting
+  - id: emerald_coast_act_1_blue_azure_world
+    title: "Emerald Coast: Act 1 - \"Blue Azure World\""
+    path: "BGM_3DSanniv_streamfiles_0000000E.adx"
+    type: betting
+  - id: emerald_coast_act_2_windy_and_ripply
+    title: "Emerald Coast: Act 2 - \"Windy And Ripply\""
+    path: "BGM_3DSanniv_streamfiles_0000000F.adx"
+    type: betting
+  - id: radical_highway_act_2_vengeance_is_mine_circuit_freq_rmx
+    title: "Radical Highway: Act 2 \"Vengeance Is Mine - Circuit Freq RMX\""
+    path: "BGM_3DSanniv_streamfiles_00000012.adx"
+    type: battle
+  - id: water_palace_act_1_back_2_back_digital_remakin_track
+    title: "Water Palace: Act 1 \"Back 2 Back - Digital Remakin' Track\""
+    path: "BGM_3DSanniv_streamfiles_00000014.adx"
+    type: betting
+  - id: water_palace_act_2_back_2_back_cash_cash_rmx
+    title: "Water Palace: Act 2 \"Back 2 Back - Cash Cash RMX\""
+    path: "BGM_3DSanniv_streamfiles_00000015.adx"
+    type: betting
+  - id: tropical_resort_act_1
+    title: "Tropical Resort: Act 1"
+    path: "BGM_3DSanniv_streamfiles_00000017.adx"
+    type: betting
+  - id: tropical_resort_act_2
+    title: "Tropical Resort: Act 2"
+    path: "BGM_3DSanniv_streamfiles_00000019.adx"
+    type: betting
+  - id: boss_battle_biolizard_supporting_me
+    title: "Boss Battle: Biolizard - \"Supporting Me...\""
+    path: "BGM_3DSanniv_streamfiles_00000020.adx"
+    type: battle
+  - id: boss_battle_egg_emperor
+    title: "Boss Battle: Egg Emperor"
+    path: "BGM_3DSanniv_streamfiles_00000021.adx"
+    type: battle
+  - id: special_stage_sonic_generations_3ds
+    title: "Special Stage"
+    path: "BGM_3DSanniv_streamfiles_00000024.adx"
     type: battle
 ...

@@ -1,21 +1,21 @@
 ---
-id: warios_woods_snes
+id: wario_s_woods_snes
 title: "Wario's Woods [SNES]"
 series: wario
 platform: ["SNES", "NES"]
 year: 1994
 songs: 
-  - id: round_game_warios_woods_snes
+  - id: round_game_wario_s_woods_snes
     title: "Round Game"
-    path: "Round Game.minisnsf"
+    path: "WariosWoods-0001.brstm"
     ends: 2:00
     type: betting
-  - id: time_race_warios_woods_snes
+  - id: time_race_wario_s_woods_snes
     title: "Time Race"
-    path: "Time Race.minisnsf"
+    path: "WariosWoods-0005.brstm"
     type: warning
-  - id: title_warios_woods_snes
+  - id: title_wario_s_woods_snes
     title: "Title"
-    path: "Title.minisnsf"
+    path: "WariosWoods-0003.brstm"
     type: result
 ...

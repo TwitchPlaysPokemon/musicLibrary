@@ -46,4 +46,25 @@ songs:
     title: "Flight of the Bamboo Cutter ~ Lunatic Princess (House Set Ver.)"
     path: "Flight in the Bamboo Cutter _ Lunatic Princess (House Set Ver.).brstm"
     type: betting
+  - id: plain_asia_touhou_8
+    title: "Plain Asia"
+    path: "07 Plain Asia [Stage 3 Boss - Keine Kamishirasawa's Theme].GENH"
+    type: battle
+  - id: love_colored_master_spark_touhou_8
+    title: "Love-colored Master Spark"
+    path: "10 Love-coloured Master Spark [Stage 4 powerful Boss - Marisa Kirisame's Theme].GENH"
+    type: battle
+  - id: lunatic_eyes_invisible_full_moon
+    title: "Lunatic Eyes ~ Invisible Full Moon"
+    path: "12 Lunatic Eyes ~ Invisible Full Moon [Stage 5 Boss - Reisen Udongein Inaba's Theme].GENH"
+    type: battle
+  - id: voyage_1969
+    title: "Voyage 1969"
+    path: "13 Voyager 1969 [Final Stage].GENH"
+    ends: 2:36
+    type: betting
+  - id: gensokyo_millenium_history_of_the_moon
+    title: "Gensokyo Millenium ~ History of the Moon"
+    path: "14 Gensokyo Millennium ~ History of the Moon [FinalA Boss - Eirin Yagokoro's Theme].GENH"
+    type: battle
 ...

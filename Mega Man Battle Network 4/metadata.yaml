@@ -4,9 +4,33 @@ title: "Mega Man Battle Network 4"
 series: megaman
 platform: "GBA"
 year: 2003
-songs:
-  - id: virus_busting
-    title: "Virus Busting"
-    path: "Virus Busting.minigsf"
+songs: 
+  - id: theme_of_rockman_exe4
+    title: "Theme of ROCKMAN EXE4"
+    path: "01 Title Screen.minigsf"
+    type: result
+  - id: hometown_mmbn4
+    title: "Hometown"
+    path: "03 ACDC Town.minigsf"
+    type: betting
+  - id: ansa
+    title: "ANSA"
+    path: "09 Naxa.minigsf"
+    type: betting
+  - id: global_network
+    title: "Global Network"
+    path: "21 Internet Area.minigsf"
+    type: betting
+  - id: heel_s_paradise
+    title: "Heel's Paradise"
+    path: "22 Undernet Area.minigsf"
+    type: warning
+  - id: cyber_battle
+    title: "Cyber Battle"
+    path: "23 Virus Busting.minigsf"
+    type: battle
+  - id: battle_pressure
+    title: "Battle Pressure"
+    path: "25 Tournament Battle.minigsf"
     type: battle
 ...

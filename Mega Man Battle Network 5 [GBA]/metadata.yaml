@@ -1,0 +1,68 @@
+---
+id: mega_man_battle_network_5_gba
+title: "Mega Man Battle Network 5 [GBA]"
+series: megaman
+platform: ["GBA", "NDS"]
+year: 2004
+songs: 
+  - id: theme_of_rockman_exe5
+    title: "Theme of ROCKMAN EXE5"
+    path: "01 Title Screen.minigsf"
+    type: result
+  - id: network_space_mmbn5_gba
+    title: "Network Space"
+    path: "04 Internet.minigsf"
+    type: betting
+  - id: hometown_mmbn5_gba
+    title: "Hometown"
+    path: "07 ACDC Town.minigsf"
+    type: betting
+  - id: scientific_forefront_mmbn5_gba
+    title: "Scientific Forefront"
+    path: "08 SciLab.minigsf"
+    type: betting
+  - id: incident_occurrence_mmbn5_gba
+    title: "Incident Occurrence!"
+    path: "10 Crisis Theme.minigsf"
+    type: warning
+  - id: seek_a_cord
+    title: "Seek a Cord"
+    path: "11 Colonel_Proto Man's Stage.minigsf"
+    type: betting
+  - id: powerful_enemy
+    title: "Powerful Enemy"
+    path: "12 Boss Battle.minigsf"
+    type: battle
+  - id: liberate_mission
+    title: "Liberate Mission"
+    path: "15 Liberate Mission.minigsf"
+    type: betting
+  - id: oran_island
+    title: "Oran Island"
+    path: "17 Oran Island.minigsf"
+    type: betting
+  - id: navi_customizer_mmbn5_gba
+    title: "Navi Customizer"
+    path: "20 Navi Customizer.minigsf"
+    type: betting
+  - id: luxury_liner
+    title: "Luxury Liner"
+    path: "21 Queen Bohemia.minigsf"
+    type: result
+  - id: quest_in_the_water
+    title: "Quest in the Water"
+    path: "22 Napalm Man_Tomahawk Man's Stage.minigsf"
+    type: betting
+  - id: depth
+    title: "Depth"
+    path: "26 Undernet.minigsf"
+    type: betting
+  - id: you_re_not_alone
+    title: "You're Not Alone!"
+    path: "28 Hero Theme.minigsf"
+    type: result
+  - id: vs_nebula_gray
+    title: "VS Nebula Gray"
+    path: "34 Nebula Gray Battle.minigsf"
+    type: battle
+...

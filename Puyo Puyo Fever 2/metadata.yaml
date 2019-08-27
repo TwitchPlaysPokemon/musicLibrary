@@ -12,6 +12,10 @@ songs:
     title: "Meeting Place/Park BGM"
     path: "PARK.brstm"
     type: betting
+  - id: fever_time_again_fever_mode_bgm
+    title: "Fever Time Again!/Fever Mode BGM"
+    path: "25 BGM #25 [M25_FEVER].at3"
+    type: warning
   - id: rising_comet_last_boss_lemres_bgm
     title: "Rising Comet!/Last Boss Lemres BGM"
     path: "TAISEN4.brstm"

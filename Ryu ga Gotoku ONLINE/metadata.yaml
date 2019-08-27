@@ -1,0 +1,19 @@
+---
+id: ryu_ga_gotoku_online
+title: "Ryu ga Gotoku ONLINE"
+platform: ["Mobile", "PC"]
+year: 2018
+songs: 
+  - id: main_theme_ryu_ga_gotoku_online
+    title: "Main Theme"
+    path: "bgm_keybgm.hca"
+    type: battle
+  - id: scenario_select_theme
+    title: "Scenario Select Theme"
+    path: "bgm_conf_top.hca"
+    type: break
+  - id: cabaret_club_spica
+    title: "Cabaret Club Spica"
+    path: "bgm_conf_caba_manage.hca"
+    type: break
+...

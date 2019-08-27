@@ -1,0 +1,88 @@
+---
+id: yakuza_6_the_song_of_life
+title: "Yakuza 6: The Song of Life"
+platform: "PS4"
+year: 2016
+songs: 
+  - id: 応龍の嘶き_young_dragon_s_breath
+    title: "応龍の嘶き (Young Dragon's Breath)"
+    path: "1-01.brstm"
+    type: betting
+  - id: brother_brother
+    title: "Brother, Brother"
+    path: "bbg_a_00000003.hca"
+    type: battle
+  - id: kamuro_again
+    title: "KAMURO again"
+    path: "bbg_bgm_fukuda_00000000.hca"
+    type: battle
+  - id: new_serena_ver_6
+    title: "New Serena Ver.6"
+    path: "1-10 New Serena Ver.6.brstm"
+    type: break
+  - id: through
+    title: "Through"
+    path: "bbg_y_00000001.hca"
+    type: battle
+  - id: town_bully
+    title: "Town Bully"
+    path: "bbg_y_0000000F.hca"
+    type: battle
+  - id: rushin
+    title: "Rushin'"
+    path: "bbg_y_00000014.hca"
+    type: battle
+  - id: bloodstained_philosophy
+    title: "Bloodstained Philosophy"
+    path: "bbg_s_00000004.hca"
+    type: betting
+  - id: theory_of_beauty
+    title: "Theory of Beauty"
+    path: "bbg_y_00000003.hca"
+    type: battle
+  - id: fist_law
+    title: "Fist Law"
+    path: "bbg_a_00000009.hca"
+    type: battle
+  - id: loyalty_oath
+    title: "Loyalty Oath"
+    path: "bbg_a_00000000.hca"
+    type: battle
+  - id: route_of_capsid
+    title: "Route of Capsid"
+    path: "bbg_a_00000011.hca"
+    type: battle
+  - id: qui_garde_un_secret
+    title: "Qui garde un secret"
+    path: "bbg_s_00000000.hca"
+    type: betting
+  - id: lots_of_lights
+    title: "Lots of Lights"
+    path: "bbg_s_0000000D.hca"
+    type: battle
+  - id: destiny_yakuza_6
+    title: "DESTINY"
+    path: "bbg_y_00000005.hca"
+    type: battle
+  - id: Body and Soul
+    title: "Body and Soul"
+    path: "bbg_y_00000009.hca"
+    type: battle
+  - id: the_way_of_life
+    title: "The Way of Life"
+    path: "2-19 The Way of Life.brstm"
+    type: battle
+  - id: dirty_boy
+    title: "Dirty Boy"
+    path: "bbg_a_00000012.hca"
+    type: betting
+  - id: sandlot_baseball
+    title: "Sandlot Baseball"
+    path: "3-09 Sandlot Baseball.brstm"
+    type: betting
+  - id: 本日はダイヤモンド_today_is_a_diamond
+    title: "本日はダイヤモンド (Today is a Diamond)"
+    path: "today_is_a_diamond.hca"
+    ends: 1:47
+    type: betting
+...

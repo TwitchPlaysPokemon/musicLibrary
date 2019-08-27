@@ -1,0 +1,67 @@
+---
+id: sonic_pinball_party
+title: "Sonic Pinball Party"
+platform: "GBA"
+year: 2003
+songs: 
+  - id: main_menu_sonic_pinball_party
+    title: "Main Menu"
+    path: "02 Main Menu.minigsf"
+    type: result
+  - id: credits_sonic_pinball_party
+    title: "Credits"
+    path: "06 Credits.minigsf"
+    type: betting
+  - id: egg_mode
+    title: "Egg Mode"
+    path: "13 Egg Mode.minigsf"
+    type: warning
+  - id: ring_mode
+    title: "Ring Mode"
+    path: "14 Ring Mode.minigsf"
+    type: betting
+  - id: jackpot_mode
+    title: "Jackpot Mode"
+    path: "15 Jackpot Mode.minigsf"
+    type: betting
+  - id: super_sonic_racing
+    title: "Super Sonic Racing"
+    path: "17 Super Sonic Racing.minigsf"
+    type: betting
+  - id: open_your_heart
+    title: "Open Your Heart"
+    path: "18 Open Your Heart.minigsf"
+    type: betting
+  - id: paternal_horn
+    title: "Paternal Horn"
+    path: "25 Spring Valley.minigsf"
+    type: betting
+  - id: take_the_snow_train
+    title: "Take the Snow Train"
+    path: "26 Splash Garden.minigsf"
+    type: betting
+  - id: gloom_of_the_n_h_c_national_highway_corporation
+    title: "Gloom of the N.H.C (National Highway Corporation)"
+    path: "27 Mystic Forest.minigsf"
+    type: betting
+  - id: the_amazing_water
+    title: "The Amazing Water"
+    path: "28 Frozen Bell.minigsf"
+    type: betting
+  - id: under_construction
+    title: "Under Construction"
+    path: "30 Stick Canyon.minigsf"
+    type: betting
+  - id: growing_wings
+    title: "Growing Wings"
+    path: "31 Twin Seeds.minigsf"
+    type: betting
+  - id: the_dragon_gave_a_loud_scream
+    title: "The Dragon Gave a Loud Scream"
+    path: "32 Nightmaren.minigsf"
+    type: battle
+  - id: dreams_dreams
+    title: "Dreams Dreams"
+    path: "33 Dreams Dreams.minigsf"
+    type: break
+...

@@ -6,23 +6,23 @@ year: 2001
 songs:
   - id: happiness_capcom_vs_snk_2
     title: "Happiness"
-    path: "Happiness (barentsburg).brstm"
-    type: result
+    path: "ST05.ADX"
+    type: betting
   - id: wipe_out
     title: "Wipe out"
-    path: "Wipe Out (Osaka).brstm"
-    type: warning
+    path: "ST07.ADX"
+    type: betting
   - id: vs_display_capcom_vs_snk_2
     title: "VS. DISPLAY"
-    path: "VS DISPLAY.brstm"
+    path: "VS.ADX"
     type: warning
   - id: fight_with_the_wind
     title: "Fight with the wind"
-    path: "Fight with the Wind (Kinderdijk).adx"
+    path: "ST03.ADX"
     type: betting
   - id: the_lord_god
     title: "The lord GOD"
-    path: "The Lord God.adx"
+    path: "ST0A.ADX"
     type: battle
   - id: this_is_true_love_makin
     title: "This is true love makin'"

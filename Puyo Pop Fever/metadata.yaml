@@ -25,6 +25,10 @@ songs:
     title: "I Am The Demon King, Meow/Last Boss BGM"
     path: "06.adx"
     type: warning
+  - id: raffine_and_the_teacher_s_reward_haraara_course_ending_bgm
+    title: "Raffine And The Teacher's Reward/HaraHara Course Ending BGM"
+    path: "08.adx"
+    type: result
   - id: puyopuyo_match_here_i_go!_battle_bgm1
     title: "PuyoPuyo Match, Here I Go!/Battle BGM1"
     path: "10.adx"
@@ -41,6 +45,10 @@ songs:
     title: "Everyone Fight! PuyoPuyo Until Morning Battle/BGM3"
     path: "13.adx"
     type: result
+  - id: r_i_s_k_y_pinch_bgm
+    title: "R・I・S・K・Y/Pinch BGM"
+    path: "14.adx"
+    type: warning
   - id: rushing_in_to_fever_mode_fever_mode_bgm
     title: "Rushing in to Fever Mode!/Fever Mode BGM"
     path: "15.adx"

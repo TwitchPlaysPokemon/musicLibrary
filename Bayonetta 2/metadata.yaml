@@ -1,7 +1,8 @@
+---
 id: bayonetta_2
 title: "Bayonetta 2"
-year: 2014
 platform: "Wii U"
+year: 2014
 songs:
   - id: time_for_the_climax
     title: "Time For The Climax!"
@@ -11,3 +12,54 @@ songs:
     title: "The Lumen Sage & Temperantia"
     path: "The Lumen Sage & Temperantia.brstm"
     type: warning
+  - id: moon_river_climax_mix_instrumental
+    title: "Moon River (∞ Climax Mix) (Instrumental)"
+    path: "All_000003B0.brstm"
+    ends: 2:50
+    type: betting
+  - id: theme_of_bayonetta_2_tomorrow_is_mine_instrumental
+    title: "Theme Of Bayonetta 2 - Tomorrow Is Mine (Instrumental)"
+    path: "All_00000242.brstm"
+    type: betting
+  - id: alraune_whispere_of_dementia
+    title: "Alraune - Whisperer Of Dementia"
+    path: "Alraune - Whisper Of Dementia.brstm"
+    type: battle
+  - id: beyond_time
+    title: "Beyond Time"
+    path: "Beyond Time.brstm"
+    type: battle
+  - id: gm02_chapter_complete
+    title: "GM02 Chapter Complete"
+    path: "Chapter Clear.brstm"
+    type: result
+  - id: gm01_chapter_start_bayonetta_2
+    title: "GM01 Chapter Start"
+    path: "Chapter Start.brstm"
+    type: betting
+  - id: let_s_dance_boys_2nd_climax_ver
+    title: "Let's Dance, Boys! (2nd Climax Ver.)"
+    path: "Let's Dance, Boys! (2nd Climax Ver.).brstm"
+    ends: 3:12
+    type: betting
+  - id: st03_noatun_the_cascade_foregrounds
+    title: "ST03 Noatun: The Cascade Foregrounds"
+    path: "Noatun_ The Cascade Foregrounds.brstm"
+    type: betting
+  - id: the_heavies_2nd_climax_ver
+    title: "The Heavies (2nd Climax Ver.)"
+    path: "The Heavies (2nd Climax Ver.).brstm"
+    type: battle
+  - id: the_legend_of_aesir
+    title: "The Legend Of Aesir"
+    path: "The Legend Of Aesir.brstm"
+    type: battle
+  - id: the_lumen_sage
+    title: "The Lumen Sage"
+    path: "The Lumen Sage.brstm"
+    type: battle
+  - id: st01_the_water_capital_of_noatun
+    title: "ST01 The Water Capital Of Noatun"
+    path: "The Water Capital Of Noatun.brstm"
+    type: betting
+...

@@ -40,20 +40,84 @@ songs:
     path: "Incoming Blast Bots.VAG"
     type: betting
   - id: haven_city_war
-    title: "Haven City War Theme"
+    title: "Haven City Battle"
     path: "Haven City War Theme.VAG"
     type: warning
   - id: metal_head_city
-    title: "Metal Head City"
+    title: "Metalhead City Area"
     path: "Metal Head City.VAG"
     type: betting
   - id: monk_glider
     title: "Monk Glider"
     path: "Monk Glider.VAG"
-    type: betting
     ends: 3:03
+    type: betting
   - id: stadium_ruins
     title: "Stadium Ruins"
     path: "Stadium Ruins.VAG"
-    type: betting
     ends: 2:08
+    type: betting
+  - id: calm_wasteland
+    title: "Calm Wasteland"
+    path: "Calm Wasteland.VAG"
+    type: break
+  - id: dark_maker_ship
+    title: "Dark Maker Ship"
+    path: "Dark Maker Ship.VAG"
+    type: warning
+  - id: eco_mine
+    title: "Eco Mine"
+    path: "Eco Mine.VAG"
+    ends: 3:01
+    type: betting
+  - id: gun_course
+    title: "Gun Course"
+    path: "Gun Course.VAG"
+    type: betting
+  - id: haven_city
+    title: "Haven City"
+    path: "Haven City.VAG"
+    type: break
+  - id: metalhead_hunt
+    title: "Metalhead Hunt"
+    path: "Metalhead Hunt.VAG"
+    ends: 2:42
+    type: betting
+  - id: metal_peads
+    title: "Metal-peads"
+    path: "Metal-peads.VAG"
+    type: warning
+  - id: monk_temple_under_attack
+    title: "Monk Temple Under Attack"
+    path: "Monk Temple Under Attack.VAG"
+    type: warning
+  - id: monk_temple
+    title: "Monk Temple"
+    path: "Monk Temple.VAG"
+    type: break
+  - id: palace_ruins
+    title: "Palace Ruins"
+    path: "Palace Ruins.VAG"
+    type: warning
+  - id: precursor_sub_rails
+    title: "Precursor Sub-rails"
+    path: "Precursor Sub-rails.VAG"
+    type: warning
+  - id: spargus_arena
+    title: "Spargus Arena"
+    path: "Spargus Arena.VAG"
+    type: warning
+  - id: war_factory
+    title: "War Factory"
+    path: "War Factory.VAG"
+    type: betting
+  - id: wasteland_run
+    title: "Wasteland Run"
+    path: "Wasteland Run.VAG"
+    ends: 2:50
+    type: warning
+  - id: artifact_race
+    title: "Artifact Race"
+    path: "Artifact Race.VAG"
+    type: warning
+...

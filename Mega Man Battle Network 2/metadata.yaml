@@ -4,13 +4,61 @@ title: "Mega Man Battle Network 2"
 series: megaman
 platform: "GBA"
 year: 2001
-songs:
-  - id: smokey_field_gas_comp_airmans_stage
-    title: "Smoky Field (Gas Comp - AirMan's Stage)"
-    path: "21 Air Man's Stage.minigsf"
+songs: 
+  - id: theme_of_rockman_exe2
+    title: "THEME OF ROCKMAN EXE2"
+    path: "01. THEME OF ROCKMAN EXE2.minigsf"
+    type: result
+  - id: hometown_mmbn2
+    title: "Hometown"
+    path: "04. Hometown.minigsf"
     type: betting
-  - id: battle_spirit_boss_theme
-    title: "Battle Spirit (Boss Theme)"
-    path: "31 Boss Battle.minigsf"
+  - id: official_center
+    title: "Official Center"
+    path: "06. Official Center.minigsf"
+    type: betting
+  - id: okuden_dani
+    title: "Okuden Dani"
+    path: "07. At Okuden.minigsf"
+    type: betting
+  - id: ameroppa_castle
+    title: "Ameroppa Castle"
+    path: "08. Castle Amerouppe.minigsf"
+    type: result
+  - id: departure_mmbn2
+    title: "Departure"
+    path: "12. Begin a Journey.minigsf"
+    type: betting
+  - id: incident_occurrence_mmbn2
+    title: "Incident Occurrence!"
+    path: "17. Incident Occurance!.minigsf"
+    type: warning
+  - id: proof_of_bravery
+    title: "Proof of Bravery"
+    path: "19. Proof of Courage.minigsf"
+    type: result
+  - id: smoky_field
+    title: "SMOKY FIELD"
+    path: "21. SMOKEY FIELD.minigsf"
+    type: betting
+  - id: you_can_t_go_back
+    title: "YOU CAN'T GO BACK"
+    path: "26. YOU CAN'T GO BACK.minigsf"
+    type: betting
+  - id: internet_world
+    title: "INTERNET WORLD"
+    path: "27. INTERNET WORLD.minigsf"
+    type: betting
+  - id: battle_spirit
+    title: "Battle Spirit"
+    path: "31. Battle Spirit.minigsf"
     type: battle
+  - id: vs_gospel
+    title: "VS. Gospel"
+    path: "32. Vs. Gospel.minigsf"
+    type: warning
+  - id: pressure
+    title: "PRESSURE"
+    path: "35. PRESSURE.minigsf"
+    type: warning
 ...

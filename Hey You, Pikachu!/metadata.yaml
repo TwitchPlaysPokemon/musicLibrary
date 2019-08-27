@@ -1,0 +1,79 @@
+---
+id: hey_you_pikachu
+title: "Hey You, Pikachu!"
+platform: "N64"
+year: 1998
+songs: 
+  - id: bedroom
+    title: "Bedroom"
+    path: "sparse00.miniusf"
+    type: result
+  - id: viridian_forest_edge
+    title: "Viridian Forest Edge"
+    path: "sparse06.miniusf"
+    type: betting
+  - id: bedroom_night
+    title: "Bedroom (Night)"
+    path: "sparse19.miniusf"
+    type: result
+  - id: quiz_hey_you_pikachu
+    title: "Quiz"
+    path: "sparse10.miniusf"
+    type: warning
+  - id: tutorial_hey_you_pikachu
+    title: "Tutorial"
+    path: "sparse07.miniusf"
+    type: betting
+  - id: pikachu_s_discovery_days
+    title: "Pikachu's Discovery Days"
+    path: "sparse09.miniusf"
+    type: betting
+  - id:  pikachu_s_play_days
+    title: "Pikachu's Play Days"
+    path: "sparse0a.miniusf"
+    type: result
+  - id: pikachu_s_daring_days
+    title: "Pikachu's Daring Days"
+    path: "sparse08.miniusf"
+    type: betting
+  - id: fishing_hole
+    title: "Fishing Hole"
+    path: "sparse13.miniusf"
+    type: result
+  - id: hungry_caterpie
+    title: "Hungry Caterpie"
+    path: "sparse02.miniusf"
+    type: warning
+  - id: olivine_lakeshore
+    title: "Olivine Lakeshore"
+    path: "sparse0b.miniusf"
+    type: betting
+  - id: springleaf_field
+    title: "Springleaf Field"
+    path: "sparse05.miniusf"
+    type: betting
+  - id: ochre_wood
+    title: "Ochre Wood"
+    path: "sparse18.miniusf"
+    type: betting
+  - id: abra_s_shop
+    title: "Abra's Shop"
+    path: "sparse0e.miniusf"
+    type: betting
+  - id: cobalt_coast
+    title: "Cobalt Coast"
+    path: "sparse12.miniusf"
+    type: betting
+  - id: wilderness_camp
+    title: "Wilderness Camp"
+    path: "sparse01.miniusf"
+    type: betting
+  - id: pikachu_returns
+    title: "Pikachu Returns"
+    path: "sparse03.miniusf"
+    type: break
+  - id: credits_hey_you_pikachu
+    title: "Credits"
+    path: "sparse0d.miniusf"
+    type: betting
+...

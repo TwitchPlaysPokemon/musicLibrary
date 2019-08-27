@@ -7,7 +7,7 @@ songs:
   - id: riders_of_the_light
     title: "Riders of the Light"
     path: "Riders of the Light.brstm"
-    type: warning
+    type: battle
   - id: the_gates_of_hell
     title: "The Gates of Hell"
     path: "The Gates of Hell.brstm"
@@ -21,4 +21,115 @@ songs:
     title: "Let's Hit The Climax!"
     path: "Lets Hit The Climax!.brstm"
     type: result
+  - id: ev12_2_action
+    title: "EV12-2 Action!"
+    path: "BGM000.awb.00172.adx"
+    type: battle
+  - id: after_burner_climax_mix
+    title: "After Burner (∞ Climax Mix)"
+    path: "BGM000.awb.00080.adx"
+    type: battle
+  - id: battle_for_the_umbra_throne
+    title: "Battle For The Umbra Throne"
+    path: "BGM000.awb.00127.adx"
+    type: battle
+  - id: ev15_cereza
+    title: "EV15 Cereza"
+    path: "BGM000.awb.00087.adx"
+    type: betting
+  - id: gm02_chapter_clear
+    title: "GM02 Chapter Clear"
+    path: "BGM000.awb.00007.adx"
+    type: result
+  - id: gm01_chapter_start
+    title: "GM01 Chapter Start"
+    path: "BGM000.awb.00008.adx"
+    type: warning
+  - id: climatic_battle
+    title: "Climatic Battle"
+    path: "BGM000.awb.00091.adx"
+    type: warning
+  - id: ev03_1_drive_with_enzo
+    title: "EV03-1 Drive with Enzo"
+    path: "BGM000.awb.00153.adx"
+    type: break
+  - id: friend
+    title: "Friend"
+    path: "BGM000.awb.00092.adx"
+    type: battle
+  - id: temperantia_in_foregoing_pleasures
+    title: "Temperantia - In Foregoing Pleasures"
+    path: "BGM000.awb.00036.adx"
+    type: battle
+  - id: iustitia_in_giving_every_man_his_due
+    title: "Iustitia - In Giving Every Man His Due"
+    path: "BGM000.awb.00074.adx"
+    type: battle
+  - id: fortitudo_in_labors_and_dangers
+    title: "Fortitudo - In Labors And Dangers"
+    path: "BGM000.awb.00045.adx"
+    type: battle
+  - id: sapientia_in_the_choice_between_good_and_evil
+    title: "Sapientia - In The Choice Between Good And Evil"
+    path: "BGM000.awb.00119.adx"
+    type: battle
+  - id: st04_town_area_swallowed_by_lava
+    title: "ST04 Town Area Swallowed by Lava"
+    path: "st_lavacity_(master)_16l_wav.aax"
+    type: betting
+  - id: st12_ithavoll_building_lower_floors
+    title: "ST12 Ithavoll Building Lower Floors"
+    path: "BGM000.awb.00084.adx"
+    type: betting
+  - id: let_s_dance_boys
+    title: "Let's Dance, Boys!"
+    path: "BGM000.awb.00149.adx"
+    ends: 3:30
+    type: betting
+  - id: magnificent_7_climax_mix
+    title: "Magnificent 7 (∞ Climax Mix)"
+    path: "BGM000.awb.00123.adx"
+    type: betting
+  - id: memory
+    title: "Memory"
+    path: "BGM000.awb.00128.adx"
+    type: break
+  - id: mysterious_destiny_retro_version
+    title: "Mysterious Destiny - Retro Version"
+    path: "BGM000.awb.00283.adx"
+    type: betting
+  - id: one_of_a_kind
+    title: "One Of A Kind"
+    path: "BGM000.awb.00002.adx"
+    type: betting
+  - id: red_black
+    title: "Red & Black"
+    path: "BGM000.awb.00035.adx"
+    type: betting
+  - id: st11_save_cereza
+    title: "ST11 Save Cereza!"
+    path: "BGM000.awb.00170.adx"
+    type: battle
+  - id: space_harrier_climax_mix
+    title: "Space Harrier (∞ Climax Mix)"
+    path: "BGM000.awb.00124.adx"
+    ends: 3:00
+    type: betting
+  - id: splash_wave_climax_mix
+    title: "Splash Wave (∞ Climax Mix)"
+    path: "BGM000.awb.00122.adx"
+    ends: 3:11
+    type: betting
+  - id: st01_the_crashing_military_transport
+    title: "ST01 The Crashing Military Transport"
+    path: "BGM000.awb.00195.adx"
+    type: battle
+  - id: the_greatest_jubilee
+    title: "The Greatest Jubilee"
+    path: "BGM000.awb.00121.adx"
+    type: battle
+  - id: the_heavies
+    title: "The Heavies"
+    path: "BGM000.awb.00015.adx"
+    type: battle
 ...

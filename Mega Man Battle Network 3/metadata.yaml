@@ -4,25 +4,57 @@ title: "Mega Man Battle Network 3"
 series: megaman
 platform: "GBA"
 year: 2002
-songs:
-  - id: internet_area
-    path: "Internet Area.minigsf"
-    title: "Internet Area"
+songs: 
+  - id: theme_of_rockman_exe3
+    title: "THEME OF ROCKMAN EXE3"
+    path: "01. THEME OF ROCKMAN EXE3.minigsf"
+    type: result
+  - id: hometown_mmbn3
+    title: "Hometown"
+    path: "04. Hometown.minigsf"
     type: betting
-  - id: navi_customizer
-    path: "Navi Customizer.minigsf"
-    title: "Navi Customizer"
+  - id: scientific_forefront_mmbn3
+    title: "Scientific Forefront"
+    path: "05. Scientific Forefront.minigsf"
     type: betting
-  - id: secret_area
-    title: "Secret Area"
-    path: "Secret Area.minigsf"
+  - id: proof_of_bravery_mmbn3
+    title: "Proof of Bravery"
+    path: "17. Proof of Courage.minigsf"
+    type: result
+  - id: network_is_spreading
+    title: "NETWORK IS SPREADING"
+    path: "23. NETWORK IS SPREADING.minigsf"
     type: betting
-  - id: alpha_battle
-    title: "Alpha Battle"
-    path: "Alpha Battle.minigsf"
+  - id: dangerous_black
+    title: "DANGEROUS BLACK"
+    path: "24. DANGEROUS BLACK.minigsf"
+    type: betting
+  - id: shine_in_the_dark
+    title: "SHINE IN THE DARK"
+    path: "25. SHINE IN THE DARK.minigsf"
+    type: betting
+  - id: shooting_enemy
+    title: "Shooting Enemy"
+    path: "26. Shooting Enemy.minigsf"
+    type: battle
+  - id: boss_battle_mmbn3
+    title: "Boss Battle!"
+    path: "27. Boss Battle!.minigsf"
     type: battle
   - id: great_battlers
-    path: "Great Battlers.minigsf"
     title: "Great Battlers"
+    path: "28. Great Battlers.minigsf"
     type: battle
+  - id: vs_proto
+    title: "VS. Proto"
+    path: "29. VS. Proto.minigsf"
+    type: battle
+  - id: navi_customizer_mmbn3
+    title: "Navi Customizer"
+    path: "33. Navi Customizer.minigsf"
+    type: betting
+  - id: farewell
+    title: "farewell"
+    path: "35. farewell.minigsf"
+    type: betting
 ...

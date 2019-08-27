@@ -1,11 +1,254 @@
 ---
-id: blue_reflection
+id: blue_reflection_2017
 title: "Blue Reflection"
 platform: ["PS4", "Vita", "PC"]
 year: 2017
 songs: 
+  - id: reflect_game_ver
+    title: "Reflect (Game ver.)"
+    path: "song_op02.at9"
+    ends: 2:07
+    type: betting
+  - id: blue_reflection
+    title: "BLUE REFLECTION"
+    path: "sy_title01.at9"
+    type: break
+  - id: i_sun
+    title: "I (Sun)"
+    path: "fm_school01.at9"
+    type: break
+  - id: aruella
+    title: "Aruella"
+    path: "ev_02.at9"
+    type: betting
+  - id: selectivity_filter
+    title: "Selectivity Filter"
+    path: "fm_ura01.at9"
+    type: betting
   - id: albireo_lake
     title: "Albireo Lake"
-    path: "Albireo Lake.brstm"
+    path: "bt_ex01.at9"
     type: betting
+  - id: hope_to_die
+    title: "hope to die"
+    path: "sy_btwin01.at9"
+    type: result
+  - id: a_captive_heart
+    title: "A Captive Heart"
+    path: "ev_01.at9"
+    type: break
+  - id: a_destiny_called_my_own
+    title: "A Destiny Called My Own"
+    path: "ev_03.at9"
+    type: break
+  - id: toshitake_hayabusa
+    title: "Toshitake -Hayabusa-"
+    path: "bt_boss01_a.at9"
+    type: battle
+  - id: toshitake_toryu
+    title: "Toshitake -Toryu-"
+    path: "bt_boss01_b.at9"
+    type: battle
+  - id: toshitake_hien
+    title: "Toshitake -Hien-"
+    path: "bt_boss01_c.at9"
+    type: battle
+  - id: a_small_distance
+    title: "A Small Distance"
+    path: "ev_17.at9"
+    type: break
+  - id: at_the_speed_of_calm
+    title: "At the Speed of Calm"
+    path: "ev_19.at9"
+    type: break
+  - id: qualia
+    title: "Qualia"
+    path: "fm_ura05.at9"
+    type: betting
+  - id: overdose
+    title: "OVERDOSE"
+    path: "bt_normal04.at9"
+    type: battle
+  - id: what_we_ve_built
+    title: "What We've Built"
+    path: "ev_06.at9"
+    type: break
+  - id: tigar_otto
+    title: "TIGAR -Otto-"
+    path: "bt_boss02_a.at9"
+    type: battle
+  - id: tigar_kurt
+    title: "TIGAR -Kurt-"
+    path: "bt_boss02_b.at9"
+    type: battle
+  - id: tigar_michael
+    title: "TIGAR -Michael-"
+    path: "bt_boss02_c.at9"
+    type: battle
+  - id: hedonistic_paradox
+    title: "Hedonistic Paradox"
+    path: "fm_ura03.at9"
+    type: break
+  - id: triangle_square_and_circle
+    title: "Triangle, Square and Circle"
+    path: "ev_21.at9"
+    type: betting
+  - id: reflective_blue_garment_theme
+    title: "Reflective Blue Garment Theme"
+    path: "me_trans01.at9"
+    type: warning
+  - id: contact_material
+    title: "Contact Material"
+    path: "me_trans02.at9"
+    type: warning
+  - id: violent_panda
+    title: "violent PANDA"
+    path: "me_trans03.at9"
+    type: warning
+  - id: reflect
+    title: "Reflect"
+    path: "song_op01.at9"
+    type: betting
+  - id: kosuichinokakusuranakiku_exe
+    title: "KOSUICHINOKAKUSURANAKIKU.EXE"
+    path: "bt_normal03.at9"
+    type: battle
+  - id: we_can_t_rewind
+    title: "We Can't Rewind"
+    path: "sy_btwin02.at9"
+    type: result
+  - id: i_cloud
+    title: "I (Cloud)"
+    path: "fm_school02.at9"
+    type: break
+  - id: to_no_one_but_you
+    title: "To No One But You"
+    path: "ev_08.at9"
+    type: break
+  - id: binge_c18h23no3
+    title: "binGe -C18H23NO3-"
+    path: "bt_boss03_a.at9"
+    type: battle
+  - id: binge_c10h15no
+    title: "binGe -C10H15NO-"
+    path: "bt_boss03_b.at9"
+    type: battle
+  - id: binge_c17h21no
+    title: "binGe -C17H21NO-"
+    path: "bt_boss03_c.at9"
+    type: battle
+  - id: talking_until_sunset_under_that_same_fateful_sky
+    title: "Talking Until Sunset Under that Same Fateful Sky"
+    path: "ev_13.at9"
+    type: break
+  - id: sitting_on_grass
+    title: "Sitting on Grass"
+    path: "ev_23.at9"
+    type: break
+  - id: if_i_were_you
+    title: "If I Were You"
+    path: "ev_04.at9"
+    type: break
+  - id: you_re_not_a_heroine_it_s_me
+    title: "\"You're not a heroine, it's me.\""
+    path: "ev_10.at9"
+    type: betting
+  - id: dnf_fw15c_i
+    title: "DNF FW15C -I-"
+    path: "bt_boss04_a.at9"
+    type: betting
+  - id: dnf_fw15c_ii
+    title: "DNF FW15C -II-"
+    path: "bt_boss04_b.at9"
+    type: battle
+  - id: dnf_fw15c_zero
+    title: "DNF FW15C -ZERO-"
+    path: "bt_boss04_c.at9"
+    type: battle
+  - id: i_rain
+    title: "I (rain)"
+    path: "fm_school03.at9"
+    type: break
+  - id: psychological_reactants
+    title: "Psychological Reactants"
+    path: "fm_ura02.at9"
+    type: betting
+  - id: hallucination_and_hope
+    title: "hallucination And hope"
+    path: "bt_qboss01.at9"
+    type: battle
+  - id: truthbearer_s_observance
+    title: "Truthbearer's Observance"
+    path: "ev_05.at9"
+    type: break
+  - id: vesicular_membrane_transporter
+    title: "Vesicular Membrane Transporter"
+    path: "fm_ura04.at9"
+    type: break
+  - id: the_unbroken_part_of_me
+    title: "The Unbroken Part of Me"
+    path: "ev_07.at9"
+    ends: 2:06
+    type: betting
+  - id: sayonara_kami_musubi
+    title: "Sayonara -Kami Musubi-"
+    path: "bt_boss05_a.at9"
+    type: betting
+  - id: sayonara_takami_musubi
+    title: "Sayonara -Takami Musubi-"
+    path: "bt_boss05_b.at9"
+    type: battle
+  - id: sayonara_ame_no_minaka_nushi
+    title: "Sayonara -Ame No Minaka Nushi-"
+    path: "bt_boss05_c.at9"
+    type: battle
+  - id: good_bye_laughingly
+    title: "Good-bye, laughingly"
+    path: "song_ed01.at9"
+    type: break
+  - id: blue_reflection_end_edit
+    title: "BLUE REFLECTION (END Edit)"
+    path: "3-02. BLUE REFLECTION (END Edit).mp3"
+    type: break
+  - id: reflect_off_vocal
+    title: "Reflect (Off Vocal)"
+    path: 3-03. リフレクト(Off Vocal).mp3"
+    type: betting
+  - id: good_bye_laughingly_off_vocal
+    title: "Good-bye, laughingly (Off Vocal)"
+    path: "3-04. さよなら、笑って(Off Vocal).mp3"
+    type: break
+  - id: concept_image_movie_music
+    title: "Concept Image Movie Music"
+    path: "3-10. コンセプトイメージム一ビー使用楽曲.mp3"
+    ends: 1:28
+    type: betting
+  - id: blue_reflection_christmas_special_distribution_music
+    title: "BLUE REFLECTION (Christmas Special Distribution Music)"
+    path: "3-11. BLUE REFLECTION (クリスマス特別配布楽曲).mp3"
+    ends: 1:48
+    type: betting
+  - id: unused_music_concept_image_movie_rejected_music_demo
+    title: "Unused Music (Concept Image Movie Rejected Music -DEMO-)"
+    path: "3-12. 未使用楽曲(コンセプトイメージムービーボツ曲-DEMO-).mp3"
+    ends: 1:34
+    type: betting
+  - id: unused_music_albireo_lake_arrange_demo
+    title: "Unused Music (Albireo Lake Arrange -DEMO-)"
+    path: "bt_normal01_b.kovs"
+    type: betting
+  - id: unused_music_concept_music_1st_draft_demo
+    title: "Unused Music (Concept Music 1st Draft -DEMO-)"
+    path: "3-14. 未使用楽曲(コンセプ卜楽曲第1案-DEMO-).mp3"
+    ends: 3:22
+    type: betting
+  - id: unused_music_concept_music_2nd_draft_demo
+    title: "Unused Music (Concept Music 2nd Draft -DEMO-)"
+    path: "3-15. 未使用楽曲(コンセブト楽曲第2案-DEMO-).mp3"
+    ends: 2:17
+    type: betting
+  - id: bonus_blue_reflection
+    title: "Bonus"
+    path: "sy_title02.at9"
+    type: break
 ...

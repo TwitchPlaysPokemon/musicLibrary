@@ -4,45 +4,85 @@ title: "Mega Man Battle Network"
 series: megaman
 platform: "GBA"
 year: 2001
-songs:
-  - id: fire_field_megabatnetwork1
-    path: "Fire Field.minigsf"
-    title: "Fire Field"
-    type: betting
-  - id: hometown
+songs: 
+  - id: theme_of_rockman_exe
+    title: "THEME OF ROCKMAN EXE"
+    path: "01 Theme of Rockman EXE.minigsf"
+    type: result
+  - id: hometown_mmbn1
     title: "Hometown"
-    path: "Hometown.minigsf"
+    path: "02 Hometown.minigsf"
+    type: betting
+  - id: fire_field_mmbn1
+    title: "FIRE FIELD"
+    path: "08 Fire Field.minigsf"
     type: betting
   - id: running_through_the_cyber_world
-    title: "Running Through the Cyber World"
-    path: "Running Through the Cyber World.minigsf"
+    title: "RUNNING THROUGH THE CYBER WORLD"
+    path: "09 Running Through the Cyber World.minigsf"
     type: betting
-  - id: time_of_destiny_mmbn1
-    title: "Time of Destiny"
-    path: "Time of Destiny.minigsf"
+  - id: moment_of_fate
+    title: "Moment of Fate"
+    path: "11 Time of Destiny.minigsf"
     type: betting
-  - id: end_roll
-    path: "End Roll.minigsf"
-    title: "End Roll"
-    type: result
   - id: red_or_blue
-    title: "Red or Blue"
-    path: "Red or Blue.minigsf"
+    title: "RED OR BLUE"
+    path: "13 Red or Blue.minigsf"
     type: warning
   - id: net_battle
     title: "Net Battle"
-    path: "Net Battle.minigsf"
+    path: "17 Net Battle.minigsf"
     type: battle
-  - id: loser
-    title: "Loser"
-    path: "Loser.minigsf"
-    type: result
-  - id: theme_of_megaman_exe
-    path: "Theme of MegaMan EXE.minigsf"
-    title: "Theme of Mega Man EXE"
-    type: result
   - id: winner_mmbn1
-    title: "Winner!"
-    path: "Winner!.minigsf"
+    title: "WINNER!"
+    path: "19 Winner!.minigsf"
     type: result
+  - id: loser
+    title: "LOSER"
+    path: "21 Loser.minigsf"
+    type: result
+  - id: end_roll
+    title: "end roll"
+    path: "22 End Roll.minigsf"
+    type: result
+  - id: boundless_network
+    title: "BOUNDLESS NETWORK"
+    path: "10 Boundless Network.minigsf"
+    type: betting
+  - id: cold_silent
+    title: "COLD & SILENT"
+    path: "12 Cold & Silent.minigsf"
+    type: betting
+  - id: strange_mood
+    title: "Strange Mood?"
+    path: "05 Doubtful Mood.minigsf"
+    type: warning
+  - id: electrical_crisis
+    title: "ELECTRICAL CRISIS"
+    path: "14 Electrical Crisis.minigsf"
+    type: warning
+  - id: incident_occurrence_mmbn1
+    title: "Incident Occurrence!"
+    path: "06 Incident Occuring!.minigsf"
+    type: warning
+  - id: indoors
+    title: "Indoors"
+    path: "04 Interior.minigsf"
+    type: result
+  - id: operation
+    title: "Operation!"
+    path: "16 Operation!.minigsf"
+    type: betting
+  - id: school
+    title: "School"
+    path: "03 School.minigsf"
+    type: betting
+  - id: void
+    title: "VOID"
+    path: "15 Void.minigsf"
+    type: betting
+  - id: vs_dream_virus
+    title: "VS. Dream Virus"
+    path: "18 VS Dream Virus.minigsf"
+    type: battle
 ...
