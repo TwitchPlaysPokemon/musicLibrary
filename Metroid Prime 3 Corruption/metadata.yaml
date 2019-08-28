@@ -6,19 +6,19 @@ series: metroid
 year: 2007
 songs: 
   - id: omega_ridley_boss_theme
+    title: "Omega Ridley Boss Theme"
     path: "Omega Ridley Boss Theme.brstm"
-    title: "Omega Ridley"
     type: battle
-  - id: dark_samus_battle
-    title: "Dark Samus Battle"
+  - id: dark_samus_boss_theme
+    title: "Dark Samus Boss Theme"
     path: "Dark Samus Boss Theme.brstm"
-    type: warning
+    type: battle
   - id: skytown
     title: "SkyTown"
     path: "SkyTown.brstm"
     type: betting
-  - id: bryyo
-    title: "Bryyo"
+  - id: bryyo_main_theme
+    title: "Bryyo Main Theme"
     path: "Bryyo.brstm"
     type: warning
   - id: metroid_xenoresearch_at_skytown
@@ -30,4 +30,8 @@ songs:
     path: "Bryyo Ice.brstm"
     tags: [xmas]
     type: break
+  - id: rundas_boss_theme
+    title: "Rundas Boss Theme"
+    path: "Bryyo_rundas_fight.fsb"
+    type: battle
 ...

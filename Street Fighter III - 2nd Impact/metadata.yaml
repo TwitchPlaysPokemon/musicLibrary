@@ -6,23 +6,27 @@ series: streetfighter
 year: 1997
 songs: 
   - id: player_select_sf3
+    title: "PLAYER SELECT"
     path: "Player Select.brstm"
-    title: "Player Select"
     type: result
-  - id: bottoms_up
+  - id: bottoms_up_germany_hugo_stage
+    title: "BOTTOMS UP : Germany-HUGO STAGE"
     path: "Bottoms Up.brstm"
-    title: "Bottoms Up"
     type: betting
-  - id: sharp_eyes_piano
+  - id: sharp_eyes_piano_melo_version_japan_ibuki_stage
+    title: "SHARP EYES (piano melo version) : Japan-IBUKI STAGE"
     path: "Sharp Eyes (piano melo version).brstm"
-    title: "Sharp Eyes"
     type: betting
-  - id: crowded_street_dnb
+  - id: crowded_street_drum_bass_mix_hong_kong_yang_stage
+    title: "CROWDED STREET (drum&bass mix) : Hong Kong-YANG STAGE"
     path: "Crowded Street (drum&bass mix).brstm"
-    title: "Crowded Street"
     type: betting
-  - id: sao_paulo
+  - id: sao_paulo_sao_paulo_sean_stage
+    title: "SÃO PAULO : Sao Paulo-SEAN STAGE"
     path: "Sao Paulo.brstm"
-    title: "Sao Paulo"
+    type: betting
+  - id: nile_drum_bass_mix_egypt_gill_stage
+    title: "NILE (drum&bass mix) : Egypt-GILL STAGE"
+    path: "M213.brstm"
     type: betting
 ...
