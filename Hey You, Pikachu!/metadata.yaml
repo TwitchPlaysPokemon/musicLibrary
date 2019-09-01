@@ -6,74 +6,74 @@ year: 1998
 songs: 
   - id: bedroom
     title: "Bedroom"
-    path: "sparse00.miniusf"
+    path: "sparse00.brstm"
     type: result
   - id: viridian_forest_edge
     title: "Viridian Forest Edge"
-    path: "sparse06.miniusf"
+    path: "sparse06.brstm"
     type: betting
   - id: bedroom_night
     title: "Bedroom (Night)"
-    path: "sparse19.miniusf"
+    path: "sparse19.brstm"
     type: result
   - id: quiz_hey_you_pikachu
     title: "Quiz"
-    path: "sparse10.miniusf"
+    path: "sparse10.brstm"
     type: warning
   - id: tutorial_hey_you_pikachu
     title: "Tutorial"
-    path: "sparse07.miniusf"
+    path: "sparse07.brstm"
     type: betting
   - id: pikachu_s_discovery_days
     title: "Pikachu's Discovery Days"
-    path: "sparse09.miniusf"
+    path: "sparse09.brstm"
     type: betting
   - id:  pikachu_s_play_days
     title: "Pikachu's Play Days"
-    path: "sparse0a.miniusf"
+    path: "sparse0a.brstm"
     type: result
   - id: pikachu_s_daring_days
     title: "Pikachu's Daring Days"
-    path: "sparse08.miniusf"
+    path: "sparse08.brstm"
     type: betting
   - id: fishing_hole
     title: "Fishing Hole"
-    path: "sparse13.miniusf"
+    path: "sparse13.brstm"
     type: result
   - id: hungry_caterpie
     title: "Hungry Caterpie"
-    path: "sparse02.miniusf"
+    path: "sparse02.brstm"
     type: warning
   - id: olivine_lakeshore
     title: "Olivine Lakeshore"
-    path: "sparse0b.miniusf"
+    path: "sparse0b.brstm"
     type: betting
   - id: springleaf_field
     title: "Springleaf Field"
-    path: "sparse05.miniusf"
+    path: "sparse05.brstm"
     type: betting
   - id: ochre_wood
     title: "Ochre Wood"
-    path: "sparse18.miniusf"
+    path: "sparse18.brstm"
     type: betting
   - id: abra_s_shop
     title: "Abra's Shop"
-    path: "sparse0e.miniusf"
+    path: "sparse0e.brstm"
     type: betting
   - id: cobalt_coast
     title: "Cobalt Coast"
-    path: "sparse12.miniusf"
+    path: "sparse12.brstm"
     type: betting
   - id: wilderness_camp
     title: "Wilderness Camp"
-    path: "sparse01.miniusf"
+    path: "sparse01.brstm"
     type: betting
   - id: pikachu_returns
     title: "Pikachu Returns"
-    path: "sparse03.miniusf"
+    path: "sparse03.brstm"
     type: break
   - id: credits_hey_you_pikachu
     title: "Credits"
-    path: "sparse0d.miniusf"
+    path: "sparse0d.brstm"
     type: betting
 ...

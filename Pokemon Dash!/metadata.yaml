@@ -7,10 +7,50 @@ year: 2004
 songs:
   - id: title_screen_dash
     title: "Title Screen"
-    path: "Title Screen.brstm"
+    path: "06 BGM #06 [SEQ_DASHTITLE].mini2sf"
     type: result
   - id: ending_dash
     title: "Ending"
-    path: "Ending.brstm"
+    path: "07 BGM #07 [SEQ_DASHENDING].mini2sf"
+    type: result
+  - id: blue_cup_dash
+    title: "Blue Cup"
+    path: "01 BGM #01 [SEQ_DASHBGM1].mini2sf"
+    type: betting
+  - id: green_cup_dash
+    title: "Geen Cup"
+    path: "02 BGM #02 [SEQ_DASHBGM2].mini2sf"
+    type: result
+  - id: red_cup_dash
+    title: "Red Cup"
+    path: "03 BGM #03 [SEQ_DASHBGM3].mini2sf"
+    type: battle
+  - id: white_cup_dash
+    title: "White Cup"
+    path: "04 BGM #04 [SEQ_DASHBGM4].mini2sf"
+    type: betting
+  - id: yellow_cup_dash
+    title: "Yellow Cup"
+    path: "05 BGM #05 [SEQ_DASHBGM5].mini2sf"
+    type: warning
+  - id: racing_on_lapras_dash
+    title: "Racing on Lapras"
+    path: "08 BGM #08 [SEQ_DASHRAPLUS].mini2sf"
+    type: result
+  - id: practice_dash
+    title: "Pracitce"
+    path: "09 BGM #09 [SEQ_DASHTUTORIAL].mini2sf"
+    type: warning
+  - id: cup_results_dash
+    title: "Cup Results"
+    path: "10 BGM #10 [SEQ_DASHWINPRIZE].mini2sf"
+    type: result
+  - id: lose_dash
+    title: "Lose"
+    path: "11 BGM #11 [SEQ_DASHLOSE].mini2sf"
+    type: result
+  - id: course_results_dash
+    title: "Course Results"
+    path: "13 BGM #13 [SEQ_DASHREPLAY].mini2sf"
     type: result
 ...

@@ -9,4 +9,84 @@ songs:
     title: "Main Menu"
     path: "Picca_BGM_Menu.dspadpcm.bcstm"
     type: result
+  - id: title_screen_pokemon_art_academy
+    title: "Title Screen"
+    path: "Picca_BGM_Title.dspadpcm.bcstm"
+    type: break
+  - id: bgm_1_pokemon_art_academy
+    title: "BGM 1"
+    path: "Picca_BGM_01.dspadpcm.bcstm"
+    type: break
+  - id: bgm_2_pokemon_art_academy
+    title: "BGM 2"
+    path: "Picca_BGM_02.dspadpcm.bcstm"
+    type: break
+  - id: bgm_3_pokemon_art_academy
+    title: "BGM 3"
+    path: "Picca_BGM_03.dspadpcm.bcstm"
+    type: break
+  - id: bgm_4_pokemon_art_academy
+    title: "BGM 4"
+    path: "Picca_BGM_04.dspadpcm.bcstm"
+    type: break
+  - id: bgm_5_pokemon_art_academy
+    title: "BGM 5"
+    path: "Picca_BGM_05.dspadpcm.bcstm"
+    type: break
+  - id: bgm_6_pokemon_art_academy
+    title: "BGM 6"
+    path: "Picca_BGM_06.dspadpcm.bcstm"
+    type: break
+  - id: bgm_7_pokemon_art_academy
+    title: "BGM 7"
+    path: "Picca_BGM_07.dspadpcm.bcstm"
+    type: break
+  - id: bgm_8_pokemon_art_academy
+    title: "BGM 8"
+    path: "Picca_BGM_08.dspadpcm.bcstm"
+    type: break
+  - id: bgm_9_pokemon_art_academy
+    title: "BGM 9"
+    path: "Picca_BGM_09.dspadpcm.bcstm"
+    type: break
+  - id: bgm_10_pokemon_art_academy
+    title: "BGM 10"
+    path: "Picca_BGM_10.dspadpcm.bcstm"
+    type: break
+  - id: bgm_11_pokemon_art_academy
+    title: "BGM 11"
+    path: "Picca_BGM_11.dspadpcm.bcstm"
+    type: break
+  - id: bgm_12_pokemon_art_academy
+    title: "BGM 12"
+    path: "Picca_BGM_12.dspadpcm.bcstm"
+    type: break
+  - id: bgm_13_pokemon_art_academy
+    title: "BGM 13"
+    path: "Picca_BGM_13.dspadpcm.bcstm"
+    type: break
+  - id: bgm_14_pokemon_art_academy
+    title: "BGM 14"
+    path: "Picca_BGM_14.dspadpcm.bcstm"
+    type: break
+  - id: bgm_15_pokemon_art_academy
+    title: "BGM 15"
+    path: "Picca_BGM_15.dspadpcm.bcstm"
+    type: break
+  - id: bgm_16_pokemon_art_academy
+    title: "BGM 16"
+    path: "Picca_BGM_16.dspadpcm.bcstm"
+    type: break
+  - id: bgm_17_pokemon_art_academy
+    title: "BGM 17"
+    path: "Picca_BGM_17.dspadpcm.bcstm"
+    type: break
+  - id: bgm_18_pokemon_art_academy
+    title: "BGM 18"
+    path: "Picca_BGM_18.dspadpcm.bcstm"
+    type: break
+  - id: lesson_finished_pokemon_art_academy
+    title: "Lesson Finished"
+    path: "Picca_JIN_Lesson_Start.dspadpcm.bcstm"
+    type: result
 ...

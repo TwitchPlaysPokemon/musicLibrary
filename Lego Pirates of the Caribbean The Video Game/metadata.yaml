@@ -1,11 +1,11 @@
 ---
 id: lego_pirates_of_the_caribbean_the_video_game
-title: "Lego Pirates of the Caribbean: The Video Game"
+title: "LEGO Pirates of the Caribbean: The Video Game"
 platform: "Various"
 year: 2011
 songs: 
   - id: the_kraken
     title: "The Kraken"
-    path: "The Kraken.brstm"
-    type: warning
+    path: "kraken_act.gcm"
+    type: battle
 ...

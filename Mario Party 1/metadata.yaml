@@ -7,118 +7,82 @@ year: 1998
 songs:
   - id: playing_the_game_mp1
     title: "Playing The Game"
-    path: "03 - Playing The Game.miniusf"
-    type: break
-  - id: peaceful_mushroom_village
-    title: "Peaceful Mushroom Village"
-    path: "04 - Peaceful Mushroom Village.miniusf"
+    path: "Playing the Game.brstm"
     type: break
   - id: option_house_mp1
     title: "Option House Theme"
-    path: "06 - Option House Theme.miniusf"
-    type: betting
-  - id: mushroom_shop_mp1
-    title: "Mushroom Shop Theme"
-    path: "07 - Mushroom Shop Theme.miniusf"
-    type: betting
-  - id: mini_game_house
-    title: "Mini-Game House Theme"
-    path: "08 - Mini-Game House Theme.miniusf"
-    type: break
+    path: "Option House.brstm"
+    type: warning
   - id: dks_jungle_adventure
     title: "Jungle Adventure"
-    path: "12 - Jungle Adventure.miniusf"
+    path: "Jungle Adventure.brstm"
     type: betting
   - id: peachs_birthday_cake
     title: "Birthday Cake"
-    path: "13 - Birthday Cake.miniusf"
+    path: "Birthday Cake.brstm"
     type: betting
   - id: yoshis_tropical_island
     title: "Tropical Island"
-    path: "14 - Tropical Island.miniusf"
+    path: "Tropical Island.brstm"
     type: betting
   - id: warios_battle_cannon
     title: "Battle Canyon"
-    path: "15 - Battle Canyon.miniusf"
+    path: "Battle Canyon.brstm"
     type: betting
   - id: luigis_engine_room
     title: "Engine Room"
-    path: "16 - Engine Room.miniusf"
+    path: "Engine Room.brstm"
     type: betting
   - id: marios_rainbow_castle
     title: "Rainbow Castle"
-    path: "17 - Rainbow Castle.miniusf"
+    path: "Rainbow Castle.brstm"
     type: betting
   - id: ducking_and_dodging
     title: "Ducking and Dodging"
-    path: "20 - Ducking and Dodging.miniusf"
+    path: "Ducking and Dodging.brstm"
     type: warning
   - id: faster_than_all
     title: "Faster Than All"
-    path: "26 - Faster Than All.miniusf"
+    path: "Faster than All.brstm"
     type: warning
   - id: slowly_slowly
     title: "Slowly, Slowly"
-    path: "28 - Slowly, Slowly.miniusf"
+    path: "Slowly, Slowly.brstm"
     type: warning
   - id: dodging_danger
     title: "Dodging Danger"
-    path: "30 - Dodging Danger.miniusf"
+    path: "Dodging Danger.brstm"
     type: warning
   - id: move_to_the_mambo
     title: "Move To The Mambo!"
-    path: "32 - Move To The Mambo!.miniusf"
-    type: warning
-  - id: lets_limbo_mp1
-    title: "Let's Limbo!"
-    path: "33 - Let's Limbo!.miniusf"
-    type: warning
-  - id: hit_or_miss_chancetime
-    title: "Hit Or Miss Chance Game"
-    path: "34 - Hit Or Miss Chance Game.miniusf"
-    type: warning
-  - id: bowsers_chance_game
-    title: "Bowsers Chance Game"
-    path: "35 - Bowsers Chance Game.miniusf"
-    type: warning
-  - id: bowsers_theme_mp1
-    title: "Bowser's Theme"
-    path: "40 - Bowser's Theme.miniusf"
+    path: "Move to the Mambo!.brstm"
     type: warning
   - id: outcome_of_adventure
     title: "Outcome Of Adventure"
-    path: "41 - Outcome Of Adventure.miniusf"
+    path: "Outcome of Adventure.brstm"
     type: result
-  - id: mini_game_island_aio
-    title: "Mini Game Island All-In-One"
-    path: "48 - Mini Game Island All-In-One.miniusf"
-    type: betting
   - id: mini_game_stadium_mp1
     title: "Mini Game Stadium"
-    path: "56 - Mini Game Stadium.miniusf"
+    path: "Mini Game Stadium Theme.brstm"
     type: betting
-  - id: winner_mp1
-    title: "Winner"
-    path: "65 - Winner.miniusf"
-    type: result
-  - id: after_the_victory_mp1
-    title: "After The Victory"
-    path: "66 - After The Victory.miniusf"
-    type: result
   - id: bowsers_magma_mountain
     title: "Magma Mountain"
-    path: "67 - Magma Mountain.miniusf"
+    path: "Bowser Magma Mountain.brstm"
     type: betting
   - id: the_eternal_star
     title: "Eternal Star"
-    path: "68 - Eternal Star.miniusf"
+    path: "Eternal Star.brstm"
     type: betting
   - id: the_stolen_star
     title: "The Stolen Star"
-    path: "69 - The Stolen Star.miniusf"
+    path: "The Stolen Star.brstm"
     type: warning
   - id: everyones_a_superstar
     title: "Everyone's A Super Star!"
-    path: "72 - Everyone's A Super Star!.miniusf"
+    path: "Everyone's a Super Star.brstm"
     type: result
+  - id: mushroom_forest
+    title: "Mushroom Forest"
+    path: "Mushroom Forest.brstm"
+    type: betting
 ...

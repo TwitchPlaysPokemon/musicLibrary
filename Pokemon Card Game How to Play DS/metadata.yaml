@@ -1,0 +1,40 @@
+---
+id: pokemon_card_game_how_to_play_ds
+title: "Pokémon Card Game: How to Play DS"
+series: pokemon
+platform: "DS"
+year: 2011
+songs:
+  - id: main_theme_tcgds
+    title: "Main Theme"
+    path: "0000 - SEQ_000.mini2sf"
+    type: beting
+  - id: menu_2_tcgds
+    title: "Menu 2"
+    path: "0001 - SEQ_001.mini2sf"
+    type: break
+  - id: home_tcgds
+    title: "Home"
+    path: "0002 - SEQ_002.mini2sf"
+    type: betting
+  - id: laboratory_tcgds
+    title: "Laboratory"
+    path: "0003 - SEQ_003.mini2sf"
+    type: result
+  - id: card_duel_1_tcgds
+    title: "Card Duel 1"
+    path: "0004 - SEQ_004.mini2sf"
+    type: battle
+  - id: card_duel_2_tcgds
+    title: "Card Duel 2"
+    path: "0005 - SEQ_005.mini2sf"
+    type: battle
+  - id: menu_1_tcgds
+    title: "Menu"
+    path: "0006 - SEQ_006.mini2sf"
+    type: break
+  - id: drum_roll_tcgds
+    title: "Opening a pack..."
+    path: "000a - SEQ_011.mini2sf"
+    type: warning
+...

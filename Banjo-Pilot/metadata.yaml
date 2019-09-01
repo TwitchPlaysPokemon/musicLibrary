@@ -1,0 +1,28 @@
+---
+id: banjo_pilot
+title: "Banjo-Pilot"
+series: banjo
+platform: "GBA"
+year: 2005
+songs:
+  - id: title_theme_bp
+    title: "Title Theme"
+    path: "01 Title Theme.minigsf"
+    type: result
+  - id: pre_race_bp
+    title: "Pre Race"
+    path: "03 Pre Race.minigsf"
+    type: warning
+  - id: spiral_mountain_clankers_river_mayahem_temple_bp
+    title: "Spiral Mountain/Clankers River/Mayahem Temple"
+    path: "05 Spiral Mountain-Clankers River-Mayahem Temple.minigsf"
+    type: betting
+  - id: after_race_bp
+    title: "After Race"
+    path: "23 After Race.minigsf"
+    type: warning
+  - id: unused_3_bp
+    title: "Unused 3"
+    path: "93 Unknown Song 3.minigsf"
+    type: break
+...

@@ -1,0 +1,17 @@
+---
+id: super_sponge_world
+title: "Super Sponge World"
+series: mario
+platform: "SNES"
+is_fanwork: true
+year: 2019
+songs:
+  - id: overworld_ssw
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: warning
+  - id: title_screen_ssw
+    title: "Title Screen"
+    path: "Title Screen S.brstm"
+    type: betting
+...

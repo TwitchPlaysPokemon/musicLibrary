@@ -1,0 +1,28 @@
+---
+id: great_ghost_duel
+title: "Great Ghost Duel"
+series: google
+platform: "PC"
+year: 2018
+songs:
+  - id: lobby_ggd
+    title: "Lobby"
+    path: "lobby loop.logg"
+    type: warning
+  - id: tutorial_ggd
+    title: "Tutorial"
+    path: "tutorial loop.logg"
+    type: betting
+  - id: outside_ggd
+    title: "Outside"
+    path: "outside loop.logg"
+    type: betting
+  - id: win_ggd
+    title: "Winner"
+    path: "win loop.logg"
+    type: result
+  - id: lose_ggd
+    title: "Loser"
+    path: "lose loop.logg"
+    type: warning
+...

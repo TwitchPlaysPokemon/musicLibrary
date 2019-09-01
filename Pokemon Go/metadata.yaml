@@ -89,4 +89,12 @@ songs:
     title: "Trade"
     path: "trade.brstm"
     type: warning
+  - id: purification_pokemon_go
+    title: "Purification"
+    path: "purify.brstm"
+    type: result
+  - id: go_rocket_battle_pokemon_go
+    title: "Battle! Team GO Rocket"
+    path: "rocket_battle.brstm"
+    type: battle
 ...
