@@ -1,0 +1,168 @@
+---
+id: super_kirby_clash
+title: "Super Kirby Clash"
+platform: "Switch"
+year: 2019
+songs: 
+  - id: port_village_1
+    title: "Port Village 1"
+    path: "LP_NEWTOWN1.dspadpcm.bfstm"
+    type: break
+  - id: port_village_2
+    title: "Port Village 2"
+    path: "LP_NEWTOWN2.dspadpcm.bfstm"
+    type: betting
+  - id: port_village_3
+    title: "Port Village 3"
+    path: "LP_NEWTOWN3.dspadpcm.bfstm"
+    type: betting
+  - id: port_village_4
+    title: "Port Village 4"
+    path: "LP_NEWTOWN4.dspadpcm.bfstm"
+    type: betting
+  - id: quest_board
+    title: "Quest Board"
+    path: "LP_QUESTBD_ARR.dspadpcm.bfstm"
+    type: warning
+  - id: quest_results
+    title: "Quest Results"
+    path: "BGM_LimeSimpleGreensOffMelody.dspadpcm.bfstm"
+    type: result
+  - id: quest_a
+    title: "Quest A"
+    path: "LP_QUEST_A.dspadpcm.bfstm"
+    type: battle
+  - id: quest_b
+    title: "Quest B"
+    path: "LP_QUEST_B.dspadpcm.bfstm"
+    type: battle
+  - id: quest_c
+    title: "Quest C"
+    path: "LP_QUEST_NML.dspadpcm.bfstm"
+    type: battle
+  - id: quest_d
+    title: "Quest D"
+    path: "LP_QUEST_OL.dspadpcm.bfstm"
+    type: battle
+  - id: party_quest_a
+    title: "Party Quest A"
+    path: "LP_TEAM_A.dspadpcm.bfstm"
+    type: battle
+  - id: party_quest_b
+    title: "Party Quest B"
+    path: "LP_TEAM_B.dspadpcm.bfstm"
+    type: battle
+  - id: white_hot_boss_battle
+    title: "White Hot! Boss Battle"
+    path: "BGM_b_dedede01_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: road_to_victory
+    title: "Road to Victory"
+    path: "BGM_st_orch_RMX.dspadpcm.bfstm"
+    type: betting
+  - id: true_arena_battle_super_kirby_clash
+    title: "True Arena Battle"
+    path: "BGM_PLF_TOUGI1SIN_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: combat_evaluation_program_super_kirby_clash
+    title: "Combat Evaluation Program"
+    path: "BGM_Sh5_DarkHeavy_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: rescue_the_kingdom_ordeal_quest_super_kirby_clash
+    title: "Rescue the Kingdom! Ordeal Quest"
+    path: "LP_SHIRENQST.dspadpcm.bfstm"
+    type: battle
+  - id: save_the_world_ordeal_quest_super_kirby_clash
+    title: "Save the World! Ordeal Quest"
+    path: "BGM_LimeBossElecBand_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: final_takeoff_super_kirby_clash
+    title: "Final Takeoff"
+    path: "BGM_Sh6SpRockElec_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: sphere_doomer_super_kirby_clash
+    title: "Sphere Doomer"
+    path: "LP_LMROPER_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: grand_doomer_super_kirby_clash
+    title: "Grand Doomer"
+    path: "BGM_b_machine01_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: revenge_of_the_enemy_super_kirby_clash
+    title: "Revenge of the Enemy"
+    path: "LP_TARANZA_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: four_headed_guardian_landia
+    title: "Four-Headed Guardian: Landia"
+    path: "LP_LANDIARMX.dspadpcm.bfstm"
+    type: battle
+  - id: fly_kirby_of_the_stars
+    title: "Fly, Kirby of the Stars!"
+    path: "BGM_st_halberd_RMX.dspadpcm.bfstm"
+    type: betting
+  - id: king_d_mind_super_kirby_clash
+    title: "King D-Mind"
+    path: "BGM_DynaDDDElecBoss_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: pres_parallel_susie
+    title: "Pres. Parallel Susie"
+    path: "LP_HAKUA.dspadpcm.bfstm"
+    type: battle
+  - id: approaching_parallel_nightmare
+    title: "Approaching Parallel Nightmare"
+    path: "BGM_STORY_ANTMR_LP.dspadpcm.bfstm"
+    type: warning
+  - id: parallel_nightmare_battle
+    title: "Parallel Nightmare Battle"
+    path: "NIGHTMARE_ARR.dspadpcm.bfstm"
+    type: battle
+  - id: tougher_parallel_nightmare_battle
+    title: "Tougher Parallel Nightmare Battle"
+    path: "NIGHTMARE_ARR2.dspadpcm.bfstm"
+    type: battle
+  - id: parallel_nightmare_s_revenge
+    title: "Parallel Nightmare's Revenge"
+    path: "NIGHTMARE_ARR3.dspadpcm.bfstm"
+    type: battle
+  - id: aeon_hero
+    title: "Aeon Hero"
+    path: "LP_GALACTIC_ARR.dspadpcm.bfstm"
+    type: battle
+  - id: aeon_hero_light_dark
+    title: "Aeon Hero (Light/Dark)"
+    path: "LP_GALACTIC_ARR2.dspadpcm.bfstm"
+    type: battle
+  - id: ending_super_kirby_clash
+    title: "Ending"
+    path: "BGM_HuntEnd_LP.dspadpcm.bfstm"
+    type: betting
+  - id: green_tree_memories_from_kirby
+    title: "Green Tree Memories from Kirby"
+    path: "BGM_LIME2_CREDIT3_EN.dspadpcm.bfstm"
+    ends: 3:12
+    type: betting
+  - id: ultra_super_boss_battle_super_kirby_clash
+    title: "Ultra Super Boss Battle"
+    path: "BGM_SuperCopyBoss07_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: deux_ex_machina_seen_in_childhood_super_kirby_clash
+    title: "Deus · Ex · Machina Seen in Childhood"
+    path: "BGM_RBBBoss_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: phantom_of_the_moon_super_kirby_clash
+    title: "Phantom of the Moon"
+    path: "BGM_Taranza_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: heroes_in_another_dimension_super_kirby_clash
+    title: "Heroes in Another Dimension"
+    path: "BGM_LP_ECDLANOTHERTITLE1_RMX.dspadpcm.bfstm"
+    type: battle
+  - id: king_d_mind_s_revenge_phase_1
+    title: "King D-Mind's Revenge (Phase 1)"
+    path: "LP_KINGDMIND_A.dspadpcm.bfstm"
+    type: battle
+  - id: king_d_mind_s_revenge_phase_2
+    title: "King D-Mind's Revenge (Phase 2)"
+    path: "LP_KINGDMIND_B.dspadpcm.bfstm"
+    type: battle
+...

@@ -1,29 +1,24 @@
 ---
 id: tales_of_vesperia
 title: "Tales of Vesperia"
+platform: Various
 year: 2008
-platform: ["360", "PS3"]
-songs:
+songs: 
+  - id: ring_a_bell
+    title: "Ring a Bell"
+    path: "I-13_en.adx"
+    ends: 2:14
+    type: betting
   - id: a_vow_of_unity
     title: "A Vow of Unity"
-    path: "A Vow of Unity.brstm"
+    path: "MUSIC_00009.bnsf"
     type: betting
   - id: the_final_showdown
     title: "The Final Showdown"
-    path: "The Final Showdown.brstm"
+    path: "MUSIC_00058.bnsf"
     type: battle
   - id: chance_for_a_big_reversal
     title: "Chance for a Big Reversal"
-    path: "Chance for a Big Reversal.brstm"
-    type: warning
-#  - id: melty_blood_actress_again
-#    title: "Melty Blood: Actress Again"
-#    year: 2002
-#    platform: "PC"
-#    path: "Other/Melty Blood_ Actress Again"
-#    songs:
-#      - id: kara_no_kyoukai
-#        title: "Kara no Kyoukai"
-#        path: "Kara no Kyoukai.brstm"
-#        type: battle
+    path: "MUSIC_00084.bnsf"
+    type: battle
 ...

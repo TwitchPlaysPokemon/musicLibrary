@@ -1,0 +1,279 @@
+---
+id: project_x_zone_2
+title: "Project X Zone 2"
+platform: "3DS"
+year: 2015
+songs: 
+  - id: theme_of_ryu_project_x_zone_2
+    title: "Theme of Ryu"
+    path: "3000_001.hca"
+    type: battle
+  - id: volcanic_rim_stage_oceania_project_x_zone_2
+    title: "Volcanic Rim Stage -Oceania-"
+    path: "3000_002.hca"
+    type: battle
+  - id: heartwarming_feelings
+    title: "Heartwarming Feelings"
+    path: "3000_003.hca"
+    type: betting
+  - id: seek_no_escape_project_x_zone_2
+    title: "Seek No Escape"
+    path: "3000_004.hca"
+    type: battle
+  - id: ultra_violet
+    title: "Ultra Violet"
+    path: "3000_005.hca"
+    type: battle
+  - id: vergil_battle_3
+    title: "Vergil Battle 3"
+    path: "3000_006.hca"
+    type: warning
+  - id: ship_battle
+    title: "Ship Battle"
+    path: "3000_007.hca"
+    type: warning
+  - id: ride_on_sea
+    title: "Ride on Sea"
+    path: "3000_008.hca"
+    type: battle
+  - id: main_theme_resident_evil_6
+    title: "Main Theme - Resident Evil 6"
+    path: "3000_009.hca"
+    type: warning
+  - id: feast_of_the_damned
+    title: "Feast of the Damned"
+    path: "3000_010.hca"
+    type: betting
+  - id: deserted_chateau
+    title: "Deserted Chateau"
+    path: "3000_011.hca"
+    type: betting
+  - id: felicia_stage_project_x_zone_2
+    title: "Felicia Stage"
+    path: "3000_012.hca"
+    type: betting
+  - id: opening_stage_mega_man_x3
+    title: "Opening Stage - Mega Man X3"
+    path: "3000_013.hca"
+    type: battle
+  - id: opening_stage_zero_mega_man_x4
+    title: "Opening Stage Zero - Mega Man X4"
+    path: "3000_014.hca"
+    type: battle
+  - id: raid_project_x_zone_2
+    title: "Raid!"
+    path: "3000_015.hca"
+    type: betting
+  - id: phoenix_wright_objection_2001_project_x_zone_2
+    title: "Phoenix Wright ~ Objection! 2001"
+    path: "3000_016.hca"
+    type: result
+  - id: pressing_pursuit_cornered_variation_project_x_zone_2
+    title: "Pressing Pursuit ~ Cornered Variation"
+    path: "3000_017.hca"
+    type: warning
+  - id: stage_1_city_captain_commando
+    title: "Stage 1 (City) - Captain Commando"
+    path: "3000_018.hca"
+    type: battle
+  - id: against_the_absolute
+    title: "Against the Absolute"
+    path: "3000_019.hca"
+    type: battle
+  - id: stage_1_forgotten_worlds
+    title: "Stage 1 - Forgotten Worlds"
+    path: "3000_020.hca"
+    type: betting
+  - id: ride_the_tiger
+    title: "Ride The Tiger"
+    path: "3000_021.hca"
+    type: betting
+  - id: love_is_not_enough
+    title: "Love is Not Enough"
+    path: "3000_022.hca"
+    type: betting
+  - id: attack_imperial_floral_assault_troop
+    title: "Attack! Imperial Floral Assault Troop"
+    path: "3000_023.hca"
+    type: betting
+  - id: under_the_imperial_flag
+    title: "Under the Imperial Flag"
+    path: "3000_024.hca"
+    type: betting
+  - id: warriors_of_the_earth
+    title: "Warriors of the Earth"
+    path: "3000_025.hca"
+    type: betting
+  - id: funk_goes_on_project_x_zone_2
+    title: "Funk Goes On"
+    path: "3000_026.hca"
+    type: battle
+  - id: kiryu_battle_theme_project_x_zone_2
+    title: "Kiryu \"Battle Theme\""
+    path: "3000_027.hca"
+    type: battle
+  - id: the_beginning_of_eternity
+    title: "The Beginning of Eternity"
+    path: "3000_028.hca"
+    type: betting
+  - id: irruption_b
+    title: "Irruption (B)"
+    path: "3000_029.hca"
+    type: battle
+  - id: patience_project_x_zone_2
+    title: "Patience"
+    path: "3000_030.hca"
+    type: betting
+  - id: vengeful_beauty
+    title: "Vengeful Beauty"
+    path: "3000_031.hca"
+    type: battle
+  - id: main_theme_shenmue_project_x_zone_2
+    title: "Main Theme - Shenmue"
+    path: "3000_032.hca"
+    type: break
+  - id: sega_saturn_shiro
+    title: "Sega Saturn, Shiro!"
+    path: "3000_033.hca"
+    type: betting
+  - id: mexican_flyer
+    title: "mexican flyer"
+    path: "3000_034.hca"
+    type: betting
+  - id: report_1_let_s_shoot_and_rescue
+    title: "Report 1 (Let's Shoot and Rescue!)"
+    path: "3000_035.hca"
+    type: betting
+  - id: go_straight_project_x_zone_2
+    title: "Go Straight"
+    path: "3000_036.hca"
+    type: betting
+  - id: angels_with_burning_hearts
+    title: "Angels With Burning Hearts"
+    path: "3000_037.hca"
+    type: betting
+  - id: burning
+    title: "Burning"
+    path: "3000_041.hca"
+    type: betting
+  - id: jin_kazama
+    title: "Jin Kazama"
+    path: "3000_042.hca"
+    type: battle
+  - id: piano_intro_tekken_tag_tournament
+    title: "Piano Intro - Tekken Tag Tournament"
+    path: "3000_043.hca"
+    type: battle
+  - id: ring_a_bell_project_x_zone_2
+    title: "Ring A Bell"
+    path: "3000_044.hca"
+    type: betting
+  - id: furnace_of_war_project_x_zone_2
+    title: "Furnace of War"
+    path: "3000_045.hca"
+    type: battle
+  - id: fury_sparks
+    title: "Fury Sparks"
+    path: "3000_046.hca"
+    type: battle
+  - id: f_a_t_e
+    title: "F.A.T.E."
+    path: "3000_047.hca"
+    type: betting
+  - id: no_way_back
+    title: "No Way Back"
+    path: "3000_048.hca"
+    type: battle
+  - id: gentle_hands
+    title: "Gentle Hands"
+    path: "3000_049.hca"
+    type: break
+  - id: stairs_of_time
+    title: "Stairs of Time"
+    path: "3000_050.hca"
+    type: betting
+  - id: cathedral_hidden_forbidden_holy_ground
+    title: "Cathedral ~ Hidden Forbidden Holy Ground"
+    path: "3000_051.hca"
+    type: betting
+  - id: arisu_in_fluxtown
+    title: "Arisu In Fluxtown"
+    path: "3000_052.hca"
+    type: battle
+  - id: brave_new_world_project_x_zone_2
+    title: "Brave New World"
+    path: "3000_053.hca"
+    type: betting
+  - id: someday_beneath_the_moonlight
+    title: "Someday, Beneath The Moonlight"
+    path: "3000_055.hca"
+    type: betting
+  - id: she_s_coming_back
+    title: "She's coming back"
+    path: "3000_056.hca"
+    type: betting
+  - id: faster_than_a_howling_wind
+    title: "Faster Than a Howling Wind"
+    path: "3000_057.hca"
+    type: battle
+  - id: summoned_by_the_sun
+    title: "Summoned by the Sun"
+    path: "3000_058.hca"
+    type: betting
+  - id: a_heart_to_be_clear
+    title: "A Heart to be Clear"
+    path: "3000_059.hca"
+    type: betting
+  - id: main_theme_adventures_of_valkyrie
+    title: "Main Theme - Adventures of Valkyrie"
+    path: "3000_060.hca"
+    type: betting
+  - id: level_1_ordyne
+    title: "Level 1 - Ordyne"
+    path: "3000_061.hca"
+    type: betting
+  - id: world_1_marvel_land
+    title: "World 1 - Marvel Land"
+    path: "3000_062.hca"
+    type: result
+  - id: ryuuguujou_mambo_ryuuguu
+    title: "Ryuuguujou ~ Mambo Ryuuguu"
+    path: "3000_063.hca"
+    type: betting
+  - id: engage_the_enemy_project_x_zone_2
+    title: "Engage the Enemy"
+    path: "3000_065.hca"
+    type: betting
+  - id: you_will_know_our_names_project_x_zone_2
+    title: "You Will Know Our Names"
+    path: "3000_066.hca"
+    type: battle
+  - id: divine_decree_ablaze_project_x_zone_2
+    title: "Divine Decree (Ablaze)"
+    path: "3000_067.hca"
+    type: battle
+  - id: conquest_ablaze_project_x_zone_2
+    title: "Conquest (Ablaze)"
+    path: "3000_068.hca"
+    type: betting
+  - id: new_world_project
+    title: "New World Project"
+    path: "3000_071.hca"
+    type: battle
+  - id: in_praise_of_tomorrow
+    title: "In Praise of Tomorrow"
+    path: "3000_083.hca"
+    type: betting
+  - id: rising_stage
+    title: "Rising Stage"
+    path: "3000_085.hca"
+    type: betting
+  - id: all_the_world_s_a_stage_orche_ver
+    title: "All the World's a Stage (Orche ver.)"
+    path: "3000_091.hca"
+    type: betting
+  - id: god_the_hundred
+    title: "God The Hundred"
+    path: "3000_092.hca"
+    type: battle
+...

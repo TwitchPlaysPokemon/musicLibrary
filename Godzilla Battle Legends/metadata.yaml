@@ -1,0 +1,70 @@
+---
+id: godzilla_battle_legends
+title: "Godzilla: Battle Legends"
+platform: "TurboDuo"
+year: 1993
+songs: 
+  - id: continue_godzilla_battle_legends
+    title: "Continue?"
+    path: "TGXCD1051_04.brstm"
+    type: warning
+  - id: stage_select_godzilla_battle_legends
+    title: "Stage Select"
+    path: "TGXCD1051_03.brstm"
+    type: warning
+  - id: versus_select
+    title: "Versus Select"
+    path: "TGXCD1051_22.brstm"
+    type: warning
+  - id: vs_anguirus
+    title: "VS. Anguirus"
+    path: "TGXCD1051_06.brstm"
+    ends: 2:21
+    type: betting
+  - id: vs_battra
+    title: "VS. Battra"
+    path: "TGXCD1051_15.brstm"
+    type: betting
+  - id: vs_biollante
+    title: "VS. Biollante"
+    path: "TGXCD1051_13.brstm"
+    type: betting
+  - id: vs_ghidorah
+    title: "VS. Ghidorah"
+    path: "TGXCD1051_09.brstm"
+    type: warning
+  - id: vs_gigan
+    title: "VS. Gigan"
+    path: "TGXCD1051_08.brstm"
+    type: warning
+  - id: vs_hedorah
+    title: "VS. Hedorah"
+    path: "TGXCD1051_10.brstm"
+    type: warning
+  - id: vs_king_ghidorah
+    title: "VS. King Ghidorah"
+    path: "TGXCD1051_14.brstm"
+    type: warning
+  - id: vs_mechagodzilla
+    title: "VS. Mechagodzilla"
+    path: "TGXCD1051_12.brstm"
+    type: warning
+  - id: vs_megalon
+    title: "VS. Megalon"
+    path: "TGXCD1051_11.brstm"
+    ends: 2:04
+    type: betting
+  - id: vs_rodan
+    title: "VS. Rodan"
+    path: "TGXCD1051_07.brstm"
+    ends: 2:03
+    type: betting
+  - id: vs_super_mechagodzilla
+    title: "VS. Super Mechagodzilla"
+    path: "VS. Super Mechagodzilla.brstm"
+    type: warning
+  - id: vs_sper_x2
+    title: "VS. Super X2"
+    path: "VS. Super X2.brstm"
+    type: warning
+...

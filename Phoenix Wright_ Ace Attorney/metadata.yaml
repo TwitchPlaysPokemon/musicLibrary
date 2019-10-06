@@ -1,88 +1,128 @@
 ---
 id: phoenix_wright_ace_attorney
-platform: ["GBA", "NDS"]
 title: "Phoenix Wright: Ace Attorney"
 series: aceattorney
+platform: Various
 year: 2001
 songs: 
-  - id: courtroom_lobby_beginning_overture
-    path: "Courtroom Lobby ~ Beginning Overture.brstm"
-    title: "Courtroom Lobby ~ Beginning Overture"
+  - id: courtroom_lounge_opening_prelude
+    title: "Courtroom Lounge ~ Opening Prelude"
+    path: "bgm008.fsb"
     type: betting
-  - id: trial_ace_attorney
-    path: "Trial.brstm"
-    title: "Trial"
+  - id: phoenix_wright_ace_attorney_court_begins
+    title: "Phoenix Wright: Ace Attorney – Court Begins"
+    path: "bgm013.fsb"
     type: betting
-  - id: investigation_opening_2001
-    path: "Investigation ~ Opening 2001.brstm"
-    title: "Investigation ~ Opening 2001"
+  - id: cross_examination_moderato_2001
+    title: "Cross-Examination ~ Moderato 2001"
+    path: "bgm010.fsb"
     type: betting
-  - id: ema_skye_turnabout_sisters_theme_2005
-    path: "Ema Skye ~ Turnabout Sisters' Theme 2005.brstm"
-    title: "Ema Skye ~ Turnabout Sisters Theme 2005"
+  - id: logic_and_tricks
+    title: "Logic and Tricks"
+    path: "bgm005.fsb"
     type: betting
-  - id: jake_marshall_wandering_detective
-    path: "Jake Marshall ~ Wandering Detective From the Wild West.brstm"
-    title: "Jake Marshall ~ Wandering Detective From the Wild West"
-    type: betting
-  - id: damon_gant_swimming_anyone
-    path: "Damon Gant ~ Swimming, Anyone.brstm"
-    title: "Damon Gant ~ Swimming, Anyone?"
-    type: betting
-  - id: congratulations_everybody
-    path: "Congratulations Everybody.brstm"
-    title: "Congratulations Everybody"
-    type: result
-  - id: the_steel_samurai_warrior_of_neo_olde_tokyo
-    path: "The Steel Samurai, Warrior of Neo Olde Tokyo.brstm"
-    title: "The Steel Samurai, Warrior of Neo Olde Tokyo"
-    type: result
-  - id: victory_the_first_victory
-    path: "Victory! ~ The First Victory.brstm"
-    title: "Victory! ~ The First Victory"
-    type: result
   - id: phoenix_wright_objection_2001
-    path: "Phoenix Wright ~ Objection! 2001.brstm"
     title: "Phoenix Wright ~ Objection! 2001"
+    path: "bgm004.fsb"
     type: warning
-  - id: questioning_allegro_2001
-    path: "Questioning ~ Allegro 2001.brstm"
-    title: "Questioning ~ Allegro 2001"
-    type: warning
-  - id: pressing_pursuit_cornered
-    path: "Pursuit ~ Cornered.brstm"
-    title: "Pressing Pursuit ~ Cornered"
-    type: warning
-  - id: telling_the_truth_2001
-    path: "Telling the Truth 2001.brstm"
-    title: "Telling the Truth 2001"
-    type: warning
-  - id: suspense_ace_attorney
-    path: "Suspense.brstm"
-    title: "Suspense"
-    type: warning
-  - id: dick_gumshoe_its_detective_gumshoe
-    path: "Dick Gumshoe ~ It's Detective Gumshoe.brstm"
-    title: "Dick Gumshoe ~ It's Detective Gumshoe"
+  - id: cross_examination_allegro_2001
+    title: "Cross-Examination ~ Allegro 2001"
+    path: "bgm011.fsb"
     type: betting
-  - id: investigation_core_2001
-    path: "Investigation ~ Core 2001.brstm"
-    title: "Investigation ~ Core 2001"
+  - id: pursuit_cornered
+    title: "Pursuit ~ Cornered"
+    path: "bgm002.fsb"
     type: warning
-  - id: recollection_school_trial
-    path: "Recollection ~ Elementary School Trial.brstm"
-    title: "Recollection ~ School Trial"
+  - id: confess_the_truth_2001
+    title: "Confess the Truth 2001"
+    path: "bgm024.fsb"
     type: warning
-  - id: detention_center_jailers_elegy
-    path: "Detention Center ~ Guard's Elegy.brstm"
-    title: "Detention Center ~ Jailers' Elegy"
-    type: break
+  - id: suspense_phoenix_wright_ace_attorney
+    title: "Suspense"
+    path: "bgm018.fsb"
+    type: warning
+  - id: pursuit_cornered_variation
+    title: "Pursuit ~ Cornered / Variation"
+    path: "bgm003.fsb"
+    type: warning
+  - id: investigation_opening_2001
+    title: "Investigation ~ Opening 2001"
+    path: "bgm025.fsb"
+    type: betting
   - id: maya_fey_turnabout_sisters_theme_2001
-    path: "Maya Fey ~ Turnabout Sisters' Theme 2001.brstm"
     title: "Maya Fey ~ Turnabout Sisters Theme 2001"
+    path: "bgm006.fsb"
+    type: betting
+  - id: detention_center_elegy_of_the_security_guards
+    title: "Detention Center ~ Elegy of the Security Guards"
+    path: "bgm000.fsb"
+    type: break
+  - id: dick_gumshoe_it_s_detective_gumshoe_pal
+    title: "Dick Gumshoe ~ It’s Detective Gumshoe, Pal!"
+    path: "bgm001.fsb"
+    type: betting
+  - id: reminiscing_maya_s_grief
+    title: "Reminiscing ~ Maya’s Grief"
+    path: "bgm028.fsb"
     type: break
   - id: marvin_grossberg_age_regret_retribution
-    path: "Marvin Grossberg ~ Age, Regret, Retribution.brstm"
     title: "Marvin Grossberg ~ Age, Regret, Retribution"
+    path: "bgm026.fsb"
     type: break
+  - id: blissful_people
+    title: "Blissful People"
+    path: "bgm022.fsb"
+    type: result
+  - id: reminiscing_light_and_shadow_of_the_film_studio
+    title: "Reminiscing ~ Light and Shadow of the Film Studio"
+    path: "bgm030.fsb"
+    type: break
+  - id: the_steel_samurai_warrior_of_neo_olde_tokyo
+    title: "The Steel Samurai: Warrior of Neo Olde Tokyo"
+    path: "bgm021.fsb"
+    type: betting
+  - id: reminiscing_the_dl_6_incident
+    title: "Reminiscing ~ The DL-6 Incident"
+    path: "bgm027.fsb"
+    type: break
+  - id: investigation_core_2001
+    title: "Investigation ~ Core 2001"
+    path: "bgm012.fsb"
+    type: betting
+  - id: reminiscing_the_class_trial
+    title: "Reminiscing ~ The Class Trial"
+    path: "bgm029.fsb"
+    type: warning
+  - id: won_the_case_first_victory
+    title: "Won the Case! ~ First Victory"
+    path: "bgm020.fsb"
+    type: result
+  - id: phoenix_wright_ace_attorney_epilogue
+    title: "Phoenix Wright: Ace Attorney – Epilogue"
+    path: "bgm007.fsb"
+    type: betting
+  - id: turnabout_sisters_ballad
+    title: "Turnabout Sisters Ballad"
+    path: "bgm019.fsb"
+    type: break
+  - id: reminiscing_the_sl_9_incident
+    title: "Reminiscing ~ The SL-9 Incident"
+    path: "bgm152.fsb"
+    type: break
+  - id: ema_skye_turnabout_sisters_theme_2005
+    title: "Ema Skye ~ Turnabout Sisters Theme 2005"
+    path: "bgm150.fsb"
+    type: betting
+  - id: jake_marshall_detective_from_the_wild_west
+    title: "Jake Marshall ~ Detective from the Wild West"
+    path: "bgm151.fsb"
+    type: betting
+  - id: damon_gant_swimming_anyone
+    title: "Damon Gant ~ Swimming, Anyone?"
+    path: "bgm153.fsb"
+    type: betting
+  - id: rise_from_the_ashes_epilogue
+    title: "Rise from the Ashes – Epilogue"
+    path: "bgm155.fsb"
+    type: betting
 ...

@@ -1,0 +1,27 @@
+---
+id: puyo_puyo_tsu_saturn
+title: "Puyo Puyo Tsu [Saturn]"
+platform: "Various"
+year: 1995
+songs: 
+  - id: title_theme_puyo_puyo_tsu_saturn
+    title: "Title Theme"
+    path: "TITLE.AIF"
+    type: result
+  - id: how_to_play_puyo_puyo_tsu_saturn
+    title: "How to Play"
+    path: "EXPLAIN.brstm"
+    type: betting
+  - id: practice_mode_puyo_puyo_tsu_saturn
+    title: "Practice Mode"
+    path: "PRACTICE.brstm"
+    type: break
+  - id: floor_2_and_3_puyo_puyo_tsu_saturn
+    title: "Floor 2 and 3"
+    path: "NRM_2F.brstm"
+    type: betting
+  - id: rally_mode_theme_a
+    title: "Rally Mode Theme A"
+    path: "EXP_1ST.brstm"
+    type: break
+...

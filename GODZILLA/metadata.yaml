@@ -60,4 +60,12 @@ songs:
     title: "VS. Type-03 Kiryu, Super Mechagodzilla, Gotengo"
     path: "VS. Type-03 Kiryu, Super Mechagodzilla, Gotengo.brstm"
     type: warning
+  - id: main_menu_godzilla_ps3_ps4
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: menu_navigation
+    title: "Menu Navigation"
+    path: "Menu Navigation.brstm"
+    type: betting
 ...

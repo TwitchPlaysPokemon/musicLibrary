@@ -1,0 +1,61 @@
+---
+id: fire_emblem_three_houses
+title: "Fire Emblem: Three Houses"
+platform: "Switch"
+year: 2019
+songs: 
+  - id: god_shattering_star
+    title: "God-Shattering Star"
+    path: "BGM_0014.kns"
+    type: battle
+  - id: between_heaven_and_earth
+    title: "Between Heaven and Earth"
+    path: "BGM_0012.kns"
+    type: battle
+  - id: fodlan_winds
+    title: "Fódlan Winds"
+    path: "BGM_0000.kns"
+    type: battle
+  - id: edge_of_dawn_seasons_of_warfare_short_version
+    title: "Edge of Dawn (Seasons of Warfare)(Short Version)"
+    path: "BGM_0101.kns"
+    ends: 1:45
+    type: betting
+  - id: chasing_daybreak
+    title: "Chasing Daybreak"
+    path: "BGM_0006.kns"
+    type: betting
+  - id: as_swift_as_wind
+    title: "As Swift as Wind"
+    path: "BGM_0088.kns"
+    type: betting
+  - id: as_fierce_as_fire
+    title: "As Fierce as Fire"
+    path: "BGM_0089.kns"
+    type: betting
+  - id: a_promise
+    title: "A Promise"
+    path: "BGM_0062.kns"
+    type: betting
+  - id: paths_that_will_never_cross
+    title: "Paths That Will Never Cross"
+    path: "BGM_0032.kns"
+    type: battle
+  - id: a_star_in_the_morning_sky
+    title: "A Star in the Morning Sky"
+    path: "BGM_0094.kns"
+    ends: 3:30
+    type: betting
+  - id: javelins_of_light
+    title: "Javelins of Light"
+    path: "BGM_0118.kns"
+    type: warning
+  - id: tearing_through_heaven
+    title: "Tearing Through Heaven"
+    path: "BGM_0002.kns"
+    type: betting
+  - id: apex_of_the_world
+    title: "Apex of The World"
+    path: "BGM_0018.kns"
+    type: battle
+...

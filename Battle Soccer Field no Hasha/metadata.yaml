@@ -1,0 +1,47 @@
+---
+id: battle Soccer_field_no_hasha
+title: "Battle Soccer: Field no Hasha"
+platform: "SFC"
+year: 1992
+songs: 
+  - id: title_battle_soccer_field_no_hasha
+    title: "Title"
+    path: "03 Title.spc"
+    type: warning
+  - id: exhibition_soccer_field_no_hasha
+    title: "Exhibition"
+    path: "04 Exhibition.spc"
+    type: result
+  - id: tournament_soccer_field_no_hasha
+    title: "Tournament"
+    path: "05 Tournament.spc"
+    type: result
+  - id: normal_world
+    title: "Normal World"
+    path: "06 Normal World.spc"
+    type: warning
+  - id: sand_world
+    title: "Sand World"
+    path: "07 Sand World.spc"
+    type: warning
+  - id: metal_world
+    title: "Metal World"
+    path: "08 Metal World.spc"
+    type: warning
+  - id: dark_world_battle_soccer_field_no_hasha
+    title: "Dark World"
+    path: "09 Dark World.spc"
+    type: betting
+  - id: last_fight_battle_soccer_field_no_hasha
+    title: "Last Fight"
+    path: "10 Last Fight.spc"
+    type: warning
+  - id: congratulations_battle_soccer_field_no_hasha
+    title: "Congratulations"
+    path: "12 Congratulations.spc"
+    type: result
+  - id: ending_battle_soccer_field_no_hasha
+    title: "Ending"
+    path: "13 Ending.spc"
+    type: result
+...

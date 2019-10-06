@@ -2,67 +2,119 @@
 id: phoenix_wright_ace_attorney_trials_and_tribulations
 title: "Phoenix Wright: Ace Attorney: Trials and Tribulations"
 series: aceattorney
-platform: ["GBA", "NDS"]
+platform: Various
 year: 2004
-songs:
-  - id: furio_tigre_swingin_tiger
-    path: "Furio Tigre ~ Swingin' Tiger.brstm"
-    title: "Furio Tigre ~ Swingin' Tiger"
+songs: 
+  - id: courtroom_lounge_unending_prelude
+    title: "Courtroom Lounge ~ Unending Prelude"
+    path: "bgm117.fsb"
     type: betting
-  - id: luke_atmey_i_just_want_love
-    path: "Luke Atmey ~ I Just Want Love.brstm"
-    title: "Luke Atmey ~ I Just Want Love"
+  - id: phoenix_wright_ace_attorney_trials_and_tribulations_court_begins
+    title: "Phoenix Wright: Ace Attorney: Trials and Tribulations – Court Begins"
+    path: "bgm118.fsb"
+    type: betting
+  - id: cross_examination_moderato_2004
+    title: "Cross-Examination ~ Moderato 2004"
+    path: "bgm119.fsb"
     type: betting
   - id: phoenix_wright_objection_2004
-    path: "Phoenix Wright ~ Objection! 2004.brstm"
     title: "Phoenix Wright ~ Objection! 2004"
+    path: "bgm121.fsb"
     type: betting
-  - id: beauty_hermitage
-    path: "Beauty Hermitage.brstm"
-    title: "Beauty Hermitage"
-    type: result
-  - id: courtroom_lounge_neverending_overture
-    path: "Courtroom Lounge ~ Neverending Overture.brstm"
-    title: "Courtroom Lounge ~ Neverending Overture"
+  - id: cross_examination_allegro_2004
+    title: "Cross-Examination ~ Allegro 2004"
+    path: "bgm120.fsb"
+    type: betting
+  - id: pursuit_caught
+    title: "Pursuit ~ Caught"
+    path: "bgm123.fsb"
     type: warning
-  - id: questioning_allegro_2004
-    path: "Questioning ~ Allegro 2004.brstm"
-    title: "Questioning ~ Allegro 2004"
+  - id: confess_the_truth_2004
+    title: "Confess the Truth 2004"
+    path: "bgm122.fsb"
     type: warning
-  - id: telling_the_truth_2004
-    path: "Telling the Truth 2004.brstm"
-    title: "Telling the Truth 2004"
+  - id: pursuit_caught_variation
+    title: "Pursuit ~ Caught / Variation"
+    path: "bgm124.fsb"
     type: warning
-  - id: pressing_pursuit_cross_examination_variation
-    path: "Pressing Pursuit ~ Cross-Examination Variation.brstm"
-    title: "Pressing Pursuit ~ Cross-Examination - Variation"
-    type: warning
-  - id: mask_demasque_pleeeeease_listen
-    path: "MaskDeMasque ~ Please Listen!.brstm"
-    title: "Mask☆DeMasque ~ Pleeeeease Listen!"
-    type: warning
-  - id: victor_kudo_a_painful_declaration_and_a_war_song
-    path: "Victor Kudo ~ War Song Must Inspect.brstm"
-    title: "Victor Kudo ~ A Painful Declaration, and a War Song"
-    type: warning
-  - id: pressing_pursuit_cornered_2004_variation
-    path: "PW1 Pursuit ~ Cornered - Variation.mini2sf"
-    title: "Pressing Pursuit ~ Cornered 2004 - Variation"
-    type: warning
-  - id: dahlia_hawthorne_distant_traces_of_beauty
-    path: "Dahlia Hawthorne ~ Distant Trace.brstm"
-    title: "Dahlia Hawthorne ~ Distant Traces of Beauty"
+  - id: dahlia_hawthorne_distant_image
+    title: "Dahlia Hawthorne ~ Distant Image"
+    path: "bgm114.fsb"
     type: break
   - id: godot_the_fragrance_of_dark_coffee
     title: "Godot ~ The Fragrance of Dark Coffee"
-    path: "Godot ~ The Fragrance of Dark-Colored Coffee.brstm"
+    path: "bgm116.fsb"
     type: break
-  - id: recolletion_the_scenery_seen_from_dusky_bridge
-    path: "Recollection ~ Scenery Where the Hazy Bridge is Seen.brstm"
-    title: "Recollection ~ The Scenery Seen from Dusky Bridge"
+  - id: investigation_opening_2004
+    title: "Investigation ~ Opening 2004"
+    path: "bgm126.fsb"
+    type: betting
+  - id: lordly_tailor_department_store
+    title: "Lordly Tailor Department Store"
+    path: "bgm105.fsb"
+    type: betting
+  - id: detention_center_elegy_of_the_detained
+    title: "Detention Center ~ Elegy of the Detained"
+    path: "bgm128.fsb"
+    type: break
+  - id: mask_demasque_pleeeeease_listen
+    title: "Mask☆DeMasque ~ Pleeeeease Listen!"
+    path: "bgm106.fsb"
+    type: warning
+  - id: luke_atmey_look_at_me
+    title: "Luke Atmey ~ Look at Me"
+    path: "bgm107.fsb"
+    type: betting
+  - id: larry_butz_when_something_smells_it_s_usually_me
+    title: "Larry Butz ~ When Something Smells, It’s Usually Me"
+    path: "bgm108.fsb"
+    type: betting
+  - id: tres_bien
+    title: "Trés Bien"
+    path: "bgm109.fsb"
+    type: result
+  - id: victor_kudo_how_sad_the_melody_of_this_war_song
+    title: "Victor Kudo ~ How Sad, the Melody of This War Song"
+    path: "bgm111.fsb"
+    type: warning
+  - id: furio_tigre_swingin_tiger
+    title: "Furio Tigre ~ Swingin’ Tiger"
+    path: "bgm110.fsb"
+    type: betting
+  - id: reminiscing_curse_you_dear
+    title: "Reminiscing ~ Curse You, Dear"
+    path: "bgm129.fsb"
+    type: break
+  - id: reminiscing_the_scenery_of_dusky_bridge
+    title: "Reminiscing ~ The Scenery of Dusky Bridge"
+    path: "bgm130.fsb"
+    type: break
+  - id: hazakura_temple
+    title: "Hazakura Temple"
+    path: "bgm112.fsb"
     type: break
   - id: elise_deauxnim_gentle_melody
-    path: "Elise Deauxnim ~ Gentle Melody.brstm"
     title: "Elise Deauxnim ~ Gentle Melody"
+    path: "bgm113.fsb"
+    type: betting
+  - id: investigation_middle_2004
+    title: "Investigation ~ Middle 2004"
+    path: "bgm137.fsb"
+    type: betting
+  - id: reminiscing_the_bitter_taste_of_truth
+    title: "Reminiscing ~ The Bitter Taste of Truth"
+    path: "bgm115.fsb"
     type: break
+  - id: pursuit_cornered_2004
+    title: "Pursuit ~ Cornered 2004"
+    path: "bgm142.fsb"
+    type: warning
+  - id: won_the_case_unending_victory
+    title: "Won the Case! ~ Unending Victory"
+    path: "bgm125.fsb"
+    type: result
+  - id: phoenix_wright_ace_attorney_trials_and_tribulations_epilogue
+    title: "Phoenix Wright: Ace Attorney: Trials and Tribulations – Epilogue"
+    path: "bgm132.fsb"
+    type: betting
 ...

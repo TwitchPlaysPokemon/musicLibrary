@@ -28,4 +28,8 @@ songs:
     title: "Main Menu"
     path: "Title Screen.brstm"
     type: break
+  - id: i_m_ready_depression
+    title: "I'm Ready... Depression"
+    path: "I'm Ready... Depression.brstm"
+    type: betting
 ...

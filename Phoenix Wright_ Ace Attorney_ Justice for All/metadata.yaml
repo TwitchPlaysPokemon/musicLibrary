@@ -1,69 +1,120 @@
 ---
 id: phoenix_wright_ace_attorney_justice_for_all
-platform: ["GBA", "NDS"]
 title: "Phoenix Wright: Ace Attorney: Justice for All"
 series: aceattorney
+platform: Various
 year: 2006
 songs: 
-#      - id: reminiscence_steel_samurais_ballad
-#        path: "Reminiscence ~ Steel Samurai's Ballad.brstm"
-#        title: "Reminiscence ~ Steel Samurai's Ballad"
-#        type: result
-# sad result song
-  - id: psyche_lock
-    path: "Psyche Lock.brstm"
-    title: "Psyche Lock"
-    type: warning
-  - id: hotline_of_fate
-    path: "Hotline of Fate.brstm"
-    title: "Hotline of Fate"
-    type: warning
-  - id: great_revival_franziska_von_karma
-    path: "Great Revival ~ Franziska von Karma.brstm"
-    title: "Great Revival ~ Franziska von Karma"
-    type: result
-  - id: pursuit_cornered_variation
-    path: "Pursuit ~ Cornered (Variation).brstm"
-    title: "Pressing Pursuit ~ Cross-Examine - Variation"
-    type: warning
-  - id: courtroom_lounge_overture_again
-    path: "Courtroom Lounge ~ Overture Again.brstm"
-    title: "Courtroom Lobby ~ Another Overture"
+  - id: courtroom_lounge_another_prelude
+    title: "Courtroom Lounge ~ Another Prelude"
+    path: "bgm077.fsb"
     type: betting
-  - id: announce_the_truth_2002
-    path: "Announce the Truth 2002.brstm"
-    title: "Telling the Truth 2002"
-    type: warning
-  - id: tachimi_circus_jfa
-    path: "Tachimi - Circus.brstm"
-    title: "Tachimi - Circus"
-    type: warning
-  - id: examination_allegro_2002
-    path: "Examination ~ Allegro 2002.brstm"
-    title: "Questioning ~ Allegro 2002"
-    type: warning
-  - id: examination_moderate_2002
-    path: "Examination ~ Moderate 2002.brstm"
-    title: "Questioning ~ Moderato 2002"
+  - id: phoenix_wright_ace_attorney_justice_for_all_court_begins
+    title: "Phoenix Wright: Ace Attorney: Justice For All – Court Begins"
+    path: "bgm069.fsb"
     type: betting
+  - id: cross_examination_moderato_2002
+    title: "Cross-Examination ~ Moderato 2002"
+    path: "bgm072.fsb"
+    type: betting
+  - id: tricks_and_magic
+    title: "Tricks and Magic"
+    path: "bgm071.fsb"
+    type: warning
   - id: phoenix_wright_objection_2002
-    path: "Phoenix Wright ~ Objection! 2002.brstm"
     title: "Phoenix Wright ~ Objection! 2002"
+    path: "bgm070.fsb"
     type: warning
-  - id: reminiscence_scars_etched_by_flame
-    path: "Reminiscence ~ Scars Etched by Flame.brstm"
-    title: "Recollection~ Scars Etched by Flame"
+  - id: cross_examination_allegro_2002
+    title: "Cross-Examination ~ Allegro 2002"
+    path: "bgm073.fsb"
+    type: betting
+  - id: pursuit_wanting_to_question
+    title: "Pursuit ~ Wanting to Question"
+    path: "bgm074.fsb"
+    type: warning
+  - id: confess_the_truth_2002
+    title: "Confess the Truth 2002"
+    path: "bgm078.fsb"
+    type: warning
+  - id: pursuit_wanting_to_question_variation
+    title: "Pursuit ~ Wanting to Question / Variation"
+    path: "bgm075.fsb"
+    type: warning
+  - id: psyche_locks
+    title: "Psyche-Locks"
+    path: "bgm085.fsb"
+    type: warning
+  - id: investigation_opening_2002
+    title: "Investigation ~ Opening 2002"
+    path: "bgm065.fsb"
+    type: betting
+  - id: maya_fey_turnabout_sisters_theme_2002
+    title: "Maya Fey ~ Turnabout Sisters Theme 2002"
+    path: "bgm054.fsb"
+    type: betting
+  - id: detention_center_elegy_of_the_security_cameras
+    title: "Detention Center ~ Elegy of the Security Cameras"
+    path: "bgm058.fsb"
     type: break
-  - id: congratulations_everyone_again
-    path: "Congratualtions Everyone, Again.mini2sf"
-    title: "Congratulations Everyone, Again"
+  - id: reminiscing_scars_carved_by_fire
+    title: "Reminiscing ~ Scars Carved by Fire"
+    path: "bgm062.fsb"
+    type: break
+  - id: eccentric
+    title: "Eccentric"
+    path: "bgm059.fsb"
+    type: betting
+  - id: more_blissful_people
+    title: "More Blissful People"
+    path: "bgm068.fsb"
     type: result
-  - id: prologue_part_1
-    path: "Prologue (Part 1).mini2sf"
-    title: "Prologue (Part 1)"
-    type: warning
-  - id: shelly_de_killer
-    path: "Shelly de Killer ~ The Whim of a Murderous Gentleman.mini2sf"
-    title: "Shelly de Killer ~ The Whim of a Murderous Gentleman"
+  - id: reminiscing_true_pain
+    title: "Reminiscing ~ True Pain"
+    path: "bgm063.fsb"
     type: break
+  - id: shelly_de_killer_the_whim_of_a_murderous_gentleman
+    title: "Shelly de Killer ~ The Whim of a Murderous Gentleman"
+    path: "bgm061.fsb"
+    type: break
+  - id: pearl_fey_together_with_pearly
+    title: "Pearl Fey ~ Together with Pearly"
+    path: "bgm092.fsb"
+    type: result
+  - id: investigation_middle_2002
+    title: "Investigation ~ Middle 2002"
+    path: "bgm088.fsb"
+    type: betting
+  - id: great_revival_miles_edgeworth
+    title: "Great Revival ~ Miles Edgeworth"
+    path: "bgm067.fsb"
+    type: result
+  - id: hotline_of_fate
+    title: "Hotline of Fate"
+    path: "bgm086.fsb"
+    type: warning
+  - id: investigation_core_2002
+    title: "Investigation ~ Core 2002"
+    path: "bgm064.fsb"
+    type: betting
+  - id: reminiscing_the_steel_samurai_s_ballad
+    title: "Reminiscing ~ The Steel Samurai’s Ballad"
+    path: "bgm053.fsb"
+    type: break
+  - id: great_revival_franziska_von_karma
+    title: "Great Revival ~ Franziska von Karma"
+    path: "bgm087.fsb"
+    type: result
+  - id: won_the_case_another_victory
+    title: "Won the Case! ~ Another Victory"
+    path: "bgm076.fsb"
+    type: result
+  - id: phoenix_wright_ace_attorney_justice_for_all_epilogue
+    title: "Phoenix Wright: Ace Attorney: Justice For All – Epilogue"
+    path: "bgm083.fsb"
+    type: betting
+  - id: prosecutor_s_murmur_until_we_meet_again
+    title: "Prosecutor’s Murmur ~ Until We Meet Again"
+    path: "bgm089.fsb"
+    type: result
 ...

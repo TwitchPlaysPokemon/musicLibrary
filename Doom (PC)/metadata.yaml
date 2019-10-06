@@ -1,10 +1,14 @@
 id: doom_pc
-title: "DOOM"
+title: "DOOM [PC]"
 series: doom
-platform: ["PC", "Various"]
+platform: "Various"
 #other platforms: ["DOS", "32X", "Jaguar", "SNES", "PS1", "3DO", "Saturn", "GBA", "360"]
 year: 1993
 songs: 
+  - id: e1m2_at_doom_s_gate
+    title: "E1M1 - At Doom's Gate"
+    path: "E1M1 - At Doom's Gate.brstm"
+    type: betting
   - id: e1m2_the_imps_song
     title: "E1M2 - The Imp's Song"
     path: "E1M2 - The Imp's Song.brstm"

@@ -1,0 +1,15 @@
+---
+id: super_puyo_puyo_tsu
+title: "Super Puyo Puyo Tsu"
+platform: "SFC"
+year: 1995
+songs: 
+  - id: demo_1
+    title: "Demo 1"
+    path: "05 Demo 1.spc"
+    type: betting
+  - id: 2nd_and_3rd_floor
+    title: "2nd and 3rd Floor"
+    path: "08 2nd and 3rd Floor.spc"
+    type: betting
+...

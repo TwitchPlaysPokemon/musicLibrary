@@ -1,0 +1,43 @@
+---
+id: godzilla_gb
+title: "Godzilla"
+platform: "GB"
+year: 1990
+songs: 
+  - id: title_screen_godzilla_gb
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: warning
+  - id: title_screen_monsters
+    title: "Title Screen - Monsters"
+    path: "Title Screen - Monsters.brstm"
+    type: result
+  - id: password_screen_godzilla_gb
+    title: "Password Screen"
+    path: "Password Screen.brstm"
+    type: betting
+  - id: level_1_godzilla_gb
+    title: "Level 1"
+    path: "Level 1.brstm"
+    type: betting
+  - id: level_2_godzilla_gb
+    title: "Level 2"
+    path: "Level 2.brstm"
+    type: betting
+  - id: level_3_godzilla_gb
+    title: "Level 3"
+    path: "Level 3.brstm"
+    type: result
+  - id: level_4_godzilla_gb
+    title: "Level 4"
+    path: "Level 4.brstm"
+    type: betting
+  - id: before_level
+    title: "Before Level"
+    path: "Before Level.brstm"
+    type: betting
+  - id: the_end_godzilla_gb
+    title: "The End"
+    path: "The End.brstm"
+    type: betting
+...

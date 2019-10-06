@@ -1,3 +1,4 @@
+---
 id: god_of_war_ii
 title: "God of War II"
 platform: "PS2"
@@ -15,3 +16,8 @@ songs:
     title: "The End Begins"
     path: "The End Begins.mp3"
     type: warning
+  - id: colossus_combat
+    title: "Colossus Combat"
+    path: "colossus-combat.dsp"
+    type: battle
+...

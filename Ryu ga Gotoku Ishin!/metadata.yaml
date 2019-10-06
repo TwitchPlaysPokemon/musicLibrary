@@ -1,0 +1,16 @@
+---
+id: ryu_ga_gotoku_ishin
+title: "Ryu ga Gotoku Ishin!"
+platform: "PS3, PS4"
+year: 2014
+songs: 
+  - id: 菩殺_phase_1
+    title: "菩殺 (Phase 1)"
+    path: "35 菩殺 1.brstm"
+    ends: 3:05
+    type: betting
+  - id: 菩殺_phase_2
+    title: "菩殺 (Phase 2)"
+    path: ".brstm"
+    type: battle
+...

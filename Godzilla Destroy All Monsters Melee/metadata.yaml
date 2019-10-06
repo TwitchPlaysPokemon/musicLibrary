@@ -1,13 +1,29 @@
 ---
 id: godzilla_destroy_all_monsters_melee
 title: "Godzilla: Destroy All Monsters Melee"
-platform: "GCN, Xbox"
+platform: ["GCN, Xbox"]
 year: 2002
 songs: 
+  - id: fight_theme_1
+    title: "Fight Theme 1"
+    path: "Fight Theme 1.brstm"
+    type: battle
+  - id: fight_theme_2
+    title: "Fight Theme 2"
+    path: "Fight Theme 2.brstm"
+    type: battle
   - id: fight_theme_3
     title: "Fight Theme 3"
     path: "Fight Theme 3.brstm"
     type: warning
+  - id: fight_theme_4
+    title: "Fight Theme 4"
+    path: "Fight Theme 4.brstm"
+    type: betting
+  - id: fight_theme_4
+    title: "Fight Theme 5"
+    path: "Fight Theme 5.brstm"
+    type: battle
   - id: fight_theme_6
     title: "Fight Theme 6"
     path: "Fight Theme 6.brstm"

@@ -1,0 +1,68 @@
+---
+id: dream_crafter
+title: "Dream Crafter"
+platform: "PC"
+is_fanwork: true
+year: 2019
+songs: 
+  - id: aerial_fortress_kabula_dream_crafter
+    title: "Aerial Fortress Kabula"
+    path: "Aerial Fortress Kabula.hca"
+    type: warning
+  - id: bouncing_boss_battle_dream_crafter
+    title: "Bouncing Boss Battle"
+    path: "Bouncing Boss Battle.hca"
+    type: battle
+  - id: core_kabula_dream_crafter
+    title: "Core Kabula"
+    path: "Core Kabula.hca"
+    type: warning
+  - id: duel_with_meta_knight_dream_crafter
+    title: "Duel With Meta Knight"
+    path: "Duel With Meta Knight.hca"
+    type: battle
+  - id: fountain_of_dreams_dream_crafter
+    title: "Fountain of Dreams"
+    path: "Fountain of Dreams.hca"
+    type: betting
+  - id: friendly_field_dream_crafter
+    title: "Friendly Field"
+    path: "Friendly Field.hca"
+    type: betting
+  - id: grab_grab_battle_dream_crafter
+    title: "Grab-Grab Battle"
+    path: "Grab-Grab Battle.hca"
+    type: warning
+  - id: hyper_zone_1_dream_crafter
+    title: "Hyper Zone 1"
+    path: "Hyper Zone 1.hca"
+    type: warning
+  - id: moonlight_capital_dream_crafter
+    title: "Moonlight Capital"
+    path: "Moonlight Capital.hca"
+    type: betting
+  - id: nutty_noon_nap_dream_crafter
+    title: "Nutty Noon Nap"
+    path: "Nutty Noon Nap.hca"
+    type: break
+  - id: revenge_dream_crafter
+    title: "Revenge"
+    path: "Revenge.hca"
+    type: battle
+  - id: skyscraper_dream_crafter
+    title: "Skyscraper"
+    path: "Skyscraper.hca"
+    type: betting
+  - id: squeak_squad_appears_dream_crafter
+    title: "Squeak Squad Appears"
+    path: "Squeak Squad Appears.hca"
+    type: warning
+  - id: sullied_grace_dream_crafter
+    title: "Sullied Grace"
+    path: "Sullied Grace.hca"
+    type: battle
+  - id: through_the_forest_dream_crafter
+    title: "Through The Forest"
+    path: "Through The Forest.hca"
+    type: betting
+...

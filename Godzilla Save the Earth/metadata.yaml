@@ -1,0 +1,63 @@
+---
+id: godzilla_save_the_earth
+title: "Godzilla: Save the Earth"
+platform: ["PS2", "Xbox"]
+year: 2004
+songs: 
+  - id: menu_godzilla_save_the_earth
+    title: "Menu"
+    path: "Menu.brstm"
+    type: betting
+  - id: fight_theme_1_godzilla_save_the_earth
+    title: "Fight Theme 1"
+    path: "Fight Theme 1.brstm"
+    type: battle
+  - id: fight_theme_2_godzilla_save_the_earth
+    title: "Fight Theme 2"
+    path: "Fight Theme 2.brstm"
+    type: betting
+  - id: fight_theme_3_godzilla_save_the_earth
+    title: "Fight Theme 3"
+    path: "Fight Theme 3.brstm"
+    type: battle
+  - id: fight_theme_4_godzilla_save_the_earth
+    title: "Fight Theme 4"
+    path: "Fight Theme 4.brstm"
+    type: battle
+  - id: fight_theme_5_godzilla_save_the_earth
+    title: "Fight Theme 5"
+    path: "Fight Theme 5.brstm"
+    type: battle
+  - id: fight_theme_6_godzilla_save_the_earth
+    title: "Fight Theme 6"
+    path: "Fight Theme 6.brstm"
+    type: battle
+  - id: fight_theme_7_godzilla_save_the_earth
+    title: "Fight Theme 7"
+    path: "Fight Theme 7.brstm"
+    type: battle
+  - id: fight_theme_8_godzilla_save_the_earth
+    title: "Fight Theme 8"
+    path: "Fight Theme 8.brstm"
+    type: battle
+  - id: fight_theme_9_godzilla_save_the_earth
+    title: "Fight Theme 9"
+    path: "Fight Theme 9.brstm"
+    type: battle
+  - id: fight_theme_10_godzilla_save_the_earth
+    title: "Fight Theme 10"
+    path: "Fight Theme 10.brstm"
+    type: battle
+  - id: fight_theme_11_godzilla_save_the_earth
+    title: "Fight Theme 11"
+    path: "Fight Theme 11.brstm"
+    type: warning
+  - id: undersea_attack
+    title: "Undersea Attack"
+    path: "Undersea Attack.brstm"
+    type: betting
+  - id: asteroid_field_godzilla_save_the_earth
+    title: "Asteroid Field"
+    path: "Asteroid Field.brstm"
+    type: battle
+...

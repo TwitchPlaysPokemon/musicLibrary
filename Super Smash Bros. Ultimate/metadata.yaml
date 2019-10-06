@@ -582,6 +582,10 @@ songs:
     title: "Noisy Notebook"
     path: "r79_snp_w1stage.lopus"
     type: betting
+  - id: megalovania_ssbu
+    title: "MEGALOVANIA"
+    path: "rr14_ut_megalovania.lopus"
+    type: battle
   - id: beneath_the_mask_ssbu
     title: "Beneath the Mask"
     path: "ps11_p5_beneath_themask.lopus"
@@ -593,5 +597,33 @@ songs:
   - id: aria_of_the_soul
     title: "Aria of the Soul"
     path: "ps10_p5_subetenohitono_tamashiinouta.lopus"
+    type: battle
+  - id: main_theme_banjo_kazooie_ssbu
+    title: "Main Theme - Banjo-Kazooie"
+    path: "bk02_bk_title.lopus"
+    type: betting
+  - id: spiral_mountain_ssbu
+    title: "Spiral Mountain"
+    path: "bk01_bk_kurukuruyamanofumoto.lopus"
+    type: betting
+  - id: mumbo_s_mountain_ssbu
+    title: "Mumbo's Mountain"
+    path: "bk03_bk_mumbomountain.lopus"
+    type: betting
+  - id: treasure_trove_cove_ssbu
+    title: "Treasure Trove Cove"
+    path: "bk04_bk_otakarazakuzakubeach.lopus"
+    type: betting
+  - id: gobi_s_valley_ssbu
+    title: "Gobi's Valley"
+    path: "bk06_bk_gobivalleysabaku.lopus"
+    type: betting
+  - id: mad_monster_mansion_ssbu
+    title: "Mad Monster Mansion"
+    path: "bk07_bk_madnightmansion.lopus"
+    type: battle
+  - id: vs_klungo
+    title: "Vs. Klungo"
+    path: "bk08_bk2_vsklungo.lopus"
     type: battle
 ...

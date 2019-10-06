@@ -20,10 +20,46 @@ songs:
     title: "Godzilla's Theme (Godzilla Stage)"
     path: "115 Godzilla's Theme.spc"
     type: betting
+  - id: the_ancient_roar_anguirus_stage
+    title: "The Ancient Roar (Anguirus Stage)"
+    path: "116 The Ancient Roar.spc"
+    type: warning
+  - id: total_destruction_king_ghidorah_stage
+    title: "Total Destruction (King Ghidorah Stage)"
+    path: "117 Total Destruction.spc"
+    type: warning
+  - id: pulsing_in_the_dark_gigan_stage
+    title: "Pulsing in the Dark (Gigan Stage)"
+    path: "118 Pulsing in the Dark.spc"
+    type: warning
+  - id: endless_wilderness_megalon_stage
+    title: "Endless Wilderness (Megalon Stage)"
+    path: "119 Endless Wilderness.spc"
+    type: betting
+  - id: the_squeaking_of_the_wheel_mechagodzilla_stage
+    title: "The Squeaking of the Wheel (MechaGodzilla Stage)"
+    path: "120 The Squeaking of the Wheel.spc"
+    type: warning
+  - id: raging_waters_biollante_stage
+    title: "Raging Waters (Biollante Stage)"
+    path: "121 Raging Waters.spc"
+    type: betting
   - id: mothra_s_song_mothra_stage
     title: "Mothra's Song (Mothra Stage)"
     path: "122 Mothra's Song.spc"
     type: betting
+  - id: the_final_battle_super_mechagodzilla_stage
+    title: "The Final Battle (Super MechaGodzilla Stage)"
+    path: "123 The Final Battle.spc"
+    type: warning
+  - id: armageddon_at_sea_???_stage
+    title: "Armageddon at Sea (??? Stage)"
+    path: "124 Armageddon at Sea.spc"
+    type: result
+  - id: continue_gojira_kaiju_daikessen
+    title: "Continue"
+    path: "128 Continue.spc"
+    type: warning
   - id: vs_select
     title: "VS Select"
     path: "130 Vs. Select.spc"

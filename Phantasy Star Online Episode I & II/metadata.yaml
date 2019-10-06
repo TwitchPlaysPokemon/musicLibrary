@@ -5,48 +5,197 @@ series: phantasystar
 platform: "Various"
 year: 2000
 songs: 
-  - id: crossing3084
-    title: "Crossing3084"
-    path: "Crossing3084.adx"
-    type: break
-  - id: chaotic_bar
-    title: "Chaotic Bar"
-    path: "SHOP.adx"
-    type: break
-  - id: idola_have_the_immortal_feather
-    title: "'IDOLA' Have the Immortal Feather"
-    path: "proto1.adx"
-    type: battle
-  - id: tricktrack_part_2
-    title: "Tricktrack Part 2"
-    path: "S_B.adx"
+  - id: phantasy_star_online_opening_theme_the_whole_new_world_lyric_version
+    title: "Phantasy Star Online OPENING THEME ~The whole new world~ (Lyric Version)"
+    path: "OPENING.ADX"
+    ends: 2:26
     type: betting
-  - id: the_frenzy_wilds
-    title: "The Frenzy Wilds"
-    path: "gryphon.adx"
-    type: warning
-  - id: growl_from_the_depths_of_earth
-    title: "Growl from the Depths of Earth"
-    path: "DRAGON.adx"
-    type: battle
   - id: a_song_for_eternal_story
-    title: "A Song for Eternal Story"
+    title: "A song for eternal story"
     path: "TITLE.adx"
     type: break
+  - id: prenotion
+    title: "Prenotion"
+    path: "ADVR.adx"
+    type: betting
+  - id: image_of_hero
+    title: "Image of hero"
+    path: "CHARA.adx"
+    type: betting
+  - id: crossing3084
+    title: "Crossing3084"
+    path: "GUILD.adx"
+    type: break
+  - id: healing
+    title: "Healing"
+    path: "MEDICAL.adx"
+    type: break
+  - id: chaotic_bar
+    title: "Chaotic bar"
+    path: "SHOP.adx"
+    type: break
   - id: day_dawns
-    title: "Day Dawns"
+    title: "Day dawns"
     path: "LOBBY.adx"
     type: break
+  - id: valentine
+    title: "Valentine"
+    path: "Valentine.adx"
+    type: break
+  - id: easter
+    title: "Easter"
+    path: "Easter.ADX"
+    type: betting
+  - id: day_light
+    title: "Day light"
+    path: "Event.adx"
+    type: betting
+  - id: weird_night
+    title: "Weird night"
+    path: "HALLOWEEN.adx"
+    type: betting
+  - id: pioneer2
+    title: "Pioneer2"
+    path: "CITY.adx"
+    type: betting
+  - id: codes_of_silence
+    title: "Codes of silence"
+    path: "soutoku.adx"
+    type: betting
+  - id: mother_earth_of_dishonesty_part1
+    title: "Mother earth of dishonesty PART1"
+    path: "FOREST_N.ADX"
+    type: betting
+  - id: mother_earth_of_dishonesty_part2
+    title: "Mother earth of dishonesty PART2"
+    path: "FOREST_B.ADX"
+    type: betting
+  - id: growl_from_the_depths_of_the_earth
+    title: "Growl, from the depths of the earth"
+    path: "DRAGON.adx"
+    type: battle
+  - id: after_the_story_1
+    title: "After the story 1"
+    path: "EPI1.adx"
+    type: betting
+  - id: the_kink_in_the_wind_and_the_way_part1
+    title: "The kink in the wind and the way PART1"
+    path: "CAVE_N.ADX"
+    type: betting
+  - id: the_kink_in_the_wind_and_the_way_part2
+    title: "The kink in the wind and the way PART2"
+    path: "CAVE_B.ADX"
+    type: betting
+  - id: from_seeing_the_rough_wave
+    title: "From seeing the rough wave"
+    path: "DELO.adx"
+    type: battle
+  - id: empty_space_out_of_control_part1
+    title: "Empty space out of control PART1"
+    path: "MACHIN_N.ADX"
+    type: betting
+  - id: empty_space_out_of_control_part2
+    title: "Empty space out of control PART2"
+    path: "MACHIN_B.ADX"
+    type: betting
+  - id: the_crazy_program
+    title: "The crazy program"
+    path: "vol_opt1.adx"
+    type: battle
+  - id: you_have_nowhere_to_go
+    title: "You have nowhere to go"
+    path: "vol_opt2.adx"
+    type: battle
+  - id: after_the_story_2
+    title: "After the story 2"
+    path: "EPI2.adx"
+    type: break
   - id: revolution_to_the_origin_part_1
-    title: "Revolution to the Origin (Part 1)"
+    title: "Revolution to the origin PART1"
     path: "SHIP_N.ADX"
     type: break
   - id: revolution_to_the_origin_part_2
-    title: "Revolution to the Origin (Part 2)"
+    title: "Revolution to the origin PART2"
     path: "SHIP_B.ADX"
     type: betting
-  - id: day_light
-    title: "Day Light"
-    path: "Event.adx"
+  - id: pray_for_idola_the_distorted
+    title: "Pray, for \"IDOLA\" the distorted"
+    path: "dark1.adx"
+    type: battle
+  - id: cry_for_idola_the_holy
+    title: "Cry, for \"IDOLA\" the holy"
+    path: "dark2.adx"
+    type: battle
+  - id: can_still_see_the_light_lyric_version_phantasy_star_online_ending_theme
+    title: "Can still see the light (Lyric Version) ~Phantasy Star Online ENDING THEME~"
+    path: "ENDING.ADX"
+    type: break
+  - id: can_still_see_the_light_phantasy_star_online_ending_theme_piano_version
+    title: "Can still see the light ~Phantasy Star Online ENDING THEME~ (Piano Version)"
+    path: "ED_PIANO.adx"
+    type: break
+  - id: leavin_flow
+    title: "Leavin flow"
+    path: "T2.adx"
+    type: break
+  - id: rose_confession
+    title: "Rose confession"
+    path: "T1.adx"
+    type: break
+  - id: silent_palace
+    title: "Silent palace"
+    path: "labo.adx"
     type: betting
+  - id: a_longing_to_ancient_times_part1
+    title: "A longing to ancient times PART1"
+    path: "R_N.adx"
+    type: betting
+  - id: a_longing_to_ancient_times_part2
+    title: "A longing to ancient times PART2"
+    path: "R_B.adx"
+    type: battle
+  - id: revive_the_secred_of_rough_wave
+    title: "Revive the secred of rough wave"
+    path: "delo2.adx"
+    type: battle
+  - id: tricktrack_part_1
+    title: "Tricktrack PART1"
+    path: "S_N.adx"
+    type: betting
+  - id: tricktrack_part_2
+    title: "Tricktrack PART2"
+    path: "S_B.adx"
+    type: betting
+  - id: growl_from_the_digital_haze
+    title: "Growl, from the digital haze"
+    path: "DRAGON2.adx"
+    type: battle
+  - id: jungle_a_lush_load
+    title: "Jungle -A lush load-"
+    path: "J_N.adx"
+    type: betting
+  - id: jungle_a_forest_cage
+    title: "Jungle -A forest cage-"
+    path: "J_B.adx"
+    type: betting
+  - id: the_frenzy_wilds
+    title: "The frenzy wilds"
+    path: "gryphon.adx"
+    type: battle
+  - id: abysmal_ball_intermission
+    title: "Abysmal ball -intermission-"
+    path: "W_N.adx"
+    type: betting
+  - id: abysmal_ball_banquet
+    title: "Abysmal ball -banquet-"
+    path: "W_B.adx"
+    type: battle
+  - id: idola_have_the_immortal_feather
+    title: "\"IDOLA\" have the immortal feather"
+    path: "proto1.adx"
+    type: battle
+  - id: idola_have_the_divine_blade
+    title: "\"IDOLA\" have the divine blade"
+    path: "proto2.adx"
+    type: battle
 ...

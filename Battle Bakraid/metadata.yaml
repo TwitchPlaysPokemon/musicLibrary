@@ -4,12 +4,12 @@ title: "Battle Bakraid"
 platform: "Arcade"
 year: 1999
 songs: 
-  - id: following_wind
-    title: "Following Wind"
+  - id: following_wind_random_stage_naval
+    title: "Following Wind (random stage - Naval)"
     path: "Following Wind.brstm"
     type: battle
-  - id: photograph_in_twilight
-    title: "Photograph in Twilight"
+  - id: photograph_in_twilight_name_entry
+    title: "Photograph in Twilight (name entry)"
     path: "Photograph in Twilight.brstm"
     type: break
 ...
