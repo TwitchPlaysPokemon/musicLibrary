@@ -4,77 +4,77 @@ title: "Etrian Odyssey"
 series: etrianodyssey
 platform: "NDS"
 year: 2007
-songs:
-  - id: the_lounge_where_we_speak_of_tomorrow_pc88
-    title: "Town ~ The Lounge Where We Speak of Tomorrow (PC-88)"
-    path: "Town ~ The Lounge Where We Speak of Tomorrow (PC-88).brstm"
-    type: betting
-  - id: that_name_was_engraved_into_the_100th_volume_pc88
-    title: "Town ~ That Name Was Engraved Into the 100th Volume! (PC-88)"
+songs: 
+  - id: town_their_name_was_engraved_into_the_100th_volume_town_facility_adventurer_guild
+    title: "Town - Their Name Was Engraved Into the 100th Volume! [Town Facility - Adventurer Guild]"
     path: "Town ~ That Name Was Engraved Into the 100th Volume! (PC-88).brstm"
     type: betting
-  - id: the_green_green_woodlands_pc88
-    title: "Labyrinth I ~ The Green Green Woodlands (PC-88)"
+  - id: labyrinth_i_emerald_woodlands_dungeon_1f_5f
+    title: "Labyrinth I - Emerald Woodlands [Dungeon 1F~5F]"
     path: "Labyrinth I ~ The Green Green Woodlands (PC-88).brstm"
     type: betting
-  - id: the_thousand_year_old_blue_woodlands_pc88
-    title: "Labyrinth III ~ The Thousand Year Old Blue Woodlands (PC-88)"
-    path: "Labyrinth III ~ The Thousand Year-Old Blue Woodlands (PC-88).brstm"
-    type: betting
-  - id: the_withered_forest_pc88
-    title: "Labyrinth IV ~ The Withered Forest (PC-88)"
-    path: "Labyrinth IV ~ The Withered Forest (PC-88).brstm"
-    type: betting
-  - id: the_capital_of_shinjuku_pc88
-    title: "Labyrinth V ~ The Capital of Shinjuku (PC-88)"
-    path: "Labyrinth V ~ The Capital of Shinjuku (PC-88).brstm"
-    type: betting
-  - id: get_the_treasure_pc88
-    title: "Battlefield ~ Get the Treasure (PC-88)"
+  - id: battle_get_the_treasure_battle_over
+    title: "Battle - Get the Treasure [Battle Over]"
     path: "Battlefield ~ Get the Treasure (PC-88).brstm"
     type: result
-  - id: festival_of_worship_pc88
-    title: "Town ~ Festival of Worship (PC-88)"
-    path: "Town ~ Festival of Worship (PC-88).brstm"
-    type: result
-  - id: the_story_of_the_heros_birth_continues_pc88
-    title: "The Story of the Hero's Birth Continues (PC-88)"
-    path: "The Story of the Hero's Birth Continues (PC-88).brstm"
-    type: result
-  - id: the_adventure_has_ended_for_your_group_pc88
-    title: "The Adventure Has Ended for Your Group (PC-88)"
-    path: "The Adventure Has Ended for Your Group (PC-88).brstm"
-    type: result
-  - id: a_sudden_gust_of_wind_before_your_eyes_pc88
-    title: "Battlefield ~ A Sudden Gust of Wind Before Your Eyes (PC-88)"
-    path: "Battlefield ~ A Sudden Gust of Wind Before Your Eyes (PC-88).brstm"
-    type: warning
-  - id: dyed_in_blood_pc88
-    title: "Battlefield ~ Dyed in Blood (PC-88)"
-    path: "Battlefield ~ Dyed in Blood (PC-88).brstm"
-    type: warning
-  - id: destruction_begets_decay_pc88
-    title: "Battlefield ~ Destruction Begets Decay (PC-88)"
-    path: "Battlefield ~ Destruction Begets Decay (PC-88).brstm"
-    type: warning
-  - id: rising_again_pc88
-    title: "Battlefield ~ Rising Again (PC-88)"
-    path: "Battlefield ~ Rising Again (PC-88).brstm"
-    type: warning
-  - id: throne_of_creation_pc88
-    title: "Battlefield ~ Throne of Creation (PC-88)"
-    path: "Battlefield ~ Throne of Creation (PC-88).brstm"
-    type: warning
-  - id: the_vast_primeval_hidden_grove_pc88
-    title: "Labyrinth II ~ The Vast Primeval Hidden Grove (PC-88)"
+  - id: labyrinth_ii_primitive_jungle_dungeon_6f_10f
+    title: "Labyrinth II - Primitive Jungle [Dungeon 6F~10F]"
     path: "Labyrinth II ~ The Vast Primeval Hidden Grove (PC-88).brstm"
     type: break
-  - id: the_roadside_trees_outside_the_window_pc88
-    title: "Town ~ The Roadside Trees Outside the Window (PC-88)"
+  - id: town_the_roadside_trees_outside_the_window_town_facility_etria_plaza_day
+    title: "Town - The Roadside Trees Outside the Window [Town Facility - Etria Plaza - Day]"
     path: "Town ~ The Roadside Trees Outside the Window (PC-88).brstm"
     type: break
-  - id: bird_shaped_vane_on_the_roof_pc88
-    title: "Town ~ Bird-Shaped Vane on the Roof (PC-88)"
+  - id: battlefield_a_sudden_gust_of_wind_before_your_eyes_f_o_e_battle
+    title: "Battlefield - A Sudden Gust of Wind Before Your Eyes [f.o.e. Battle]"
+    path: "Battlefield ~ A Sudden Gust of Wind Before Your Eyes (PC-88).brstm"
+    type: warning
+  - id: town_the_lounge_where_we_speak_of_tomorrow_town_facility_etria_plaza_night
+    title: "Town - The Lounge Where We Speak of Tomorrow [Town Facility - Etria Plaza - Night]"
+    path: "Town ~ The Lounge Where We Speak of Tomorrow (PC-88).brstm"
+    type: betting
+  - id: labyrinth_iii_the_millennial_azure_woodlands_dungeon_11f_15f
+    title: "Labyrinth III - The Millennial Azure Woodlands [Dungeon 11F~15F]"
+    path: "Labyrinth III ~ The Thousand Year-Old Blue Woodlands (PC-88).brstm"
+    type: betting
+  - id: battlefield_dyed_in_scarlet_boss_battle
+    title: "Battlefield - Dyed in Scarlet [Boss Battle]"
+    path: "Battlefield ~ Dyed in Blood (PC-88).brstm"
+    type: battle
+  - id: town_government_respect_town_facility_radha_administration_hall
+    title: "Town - Government Respect [Town Facility - Radha Administration Hall]"
+    path: "Town ~ Festival of Worship (PC-88).brstm"
+    type: result
+  - id: labyrinth_iv_the_withered_forest_dungeon_16f_20f
+    title: "Labyrinth IV - The Withered Forest [Dungeon 16F~20F]"
+    path: "Labyrinth IV ~ The Withered Forest (PC-88).brstm"
+    type: betting
+  - id: battle_destruction_begets_decay_normal_battle_last_part
+    title: "Battle - Destruction Begets Decay [Normal Battle - Last Part]"
+    path: "Battlefield ~ Destruction Begets Decay (PC-88).brstm"
+    type: warning
+  - id: labyrinth_v_the_fallen_capital_of_shinjuku_dungeon_21f_25f
+    title: "Labyrinth V - The Fallen Capital of Shinjuku [Dungeon 21F~25F]"
+    path: "Labyrinth V ~ The Capital of Shinjuku (PC-88).brstm"
+    type: betting
+  - id: battlefield_towering_pair_ren_tusukur_battle
+    title: "Battlefield - Towering Pair [Ren & Tusukur Battle]"
+    path: "Battlefield ~ Rising Again (PC-88).brstm"
+    type: warning
+  - id: battlefield_throne_of_creation_last_boss_battle
+    title: "Battlefield - Throne of Creation [Last Boss Battle]"
+    path: "Battlefield ~ Throne of Creation (PC-88).brstm"
+    type: warning
+  - id: the_story_of_the_hero_s_birth_continues_ending_1
+    title: "The Story of the Hero's Birth Continues [Ending 1]"
+    path: "The Story of the Hero's Birth Continues (PC-88).brstm"
+    type: result
+  - id: town_bird_shaped_vane_on_the_triangular_roof_town_facility_etria_plaza_day_2
+    title: "Town - Bird-Shaped Vane on the Triangular Roof [Town Facility - Etria Plaza - Day 2]"
     path: "Town ~ Bird-Shaped Vane on the Roof (PC-88).brstm"
     type: break
+  - id: 400_your_adventure_has_ended_ending_2
+    title: "400 - Your Adventure Has Ended [Ending 2]"
+    path: "The Adventure Has Ended for Your Group (PC-88).brstm"
+    type: result
 ...

@@ -2,27 +2,27 @@
 id: tekken_6_bloodline_rebellion
 title: "Tekken 6: Bloodline Rebellion"
 series: tekken
-platform: ["Arcade", "360", "PS3"]
+platform: Various
 year: 2007
 songs:
-  - id: edge_of_spring
-    title: "Edge of Spring"
+  - id: edge_of_spring_mystical_forest
+    title: "Edge of Spring (Mystical Forest)"
     path: "Edge of Spring.brstm"
     type: battle
-  - id: electric_fountain
-    title: "Electric Fountain"
+  - id: karma_electric_fountain
+    title: "Karma (Electric Fountain)"
     path: "Electric Fountain.brstm"
     type: betting
-  - id: fallen_colony_game_version
-    title: "Fallen Colony"
+  - id: g_blast_ver_fallen_colony
+    title: "G ~Blast ver.~ (Fallen Colony)"
     path: "Fallen Colony (Game version).brstm"
     type: betting
-  - id: yuki
-    title: "YUKI"
+  - id: yuki_manji_valley
+    title: "YUKI (Manji Valley)"
     path: "YUKI.brstm"
     type: betting
-  - id: midtown_roars
-    title: "Midtown Roars"
+  - id: midtown_roars_lightning_storm
+    title: "Midtown Roars (Lightning Storm)"
     path: "Midtown Roars.brstm"
     type: battle
 ...

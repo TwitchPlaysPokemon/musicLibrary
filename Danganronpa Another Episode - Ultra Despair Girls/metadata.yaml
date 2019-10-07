@@ -1,11 +1,11 @@
 ---
-id: absolute_despair_girl_danganronpa_another_episode
-title: "Absolute Despair Girl: Danganronpa Another Episode"
-platform: "Vita"
+id: danganronpa_another_episode_utlra_despair_girls
+title: "Danganronpa Another Episode: Ultra Despair Girls"
+platform: ["Vita", "PS4", "PC]
 year: 2014
 songs: 
   - id: shou_s_fever_time
     title: "Shou's Fever Time"
-    path: "Sho's Fever Time.brstm"
+    path: "M09_Genocider_no_Intro.at9"
     type: battle
 ...

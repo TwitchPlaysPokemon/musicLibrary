@@ -5,8 +5,8 @@ series: supermonkeyball
 platform: "GCN"
 year: 2002
 songs: 
-  - id: monkey_baseball_banana_stadium
-    title: "Monkey Baseball - Banana Stadium"
+  - id: monkey_baseball_grass_court
+    title: "Monkey Baseball ~ Grass Court"
     path: "Monkey Baseball - Banana Stadium.brstm"
     type: betting
   - id: monkey_billiards_2
@@ -17,16 +17,8 @@ songs:
     title: "Monkey Golf 2"
     path: "golf_L.dsp"
     type: betting
-  - id: monkey_race_2_advanced_stage
-    title: "Monkey Race 2 - Advanced Stage"
-    path: "race_advan_L.dsp"
-    type: betting
-  - id: monkey_race_2_beginner_stage
-    title: "Monkey Race 2 - Beginner Stage"
-    path: "race_L.dsp"
-    type: betting
-  - id: monkey_shot_advanced
-    title: "Monkey Shot - Advanced"
+  - id: monkey_shot_advanced_stage
+    title: "Monkey Shot ~ Advanced Stage"
     path: "shot_advan_L.dsp"
     type: betting
   - id: monkey_soccer
@@ -37,36 +29,44 @@ songs:
     title: "Monkey Target 2"
     path: "target_L.dsp"
     type: betting
-  - id: world_1_jungle
-    title: "World 1 - Jungle"
+  - id: world_1_jungle_island
+    title: "World 1 ~ Jungle Island"
     path: "jungle_L.dsp"
     type: betting
   - id: world_2_volcano
-    title: "World 2: Volcano"
+    title: "World 2 ~ Volcano"
     path: "cave_L.dsp"
     type: betting
-  - id: world_3_ocean
-    title: "World 3 - Ocean"
+  - id: world_3_under_the_ocean
+    title: "World 3 ~ Under the Ocean"
     path: "water_L.dsp"
     type: betting
-  - id: world_4_whale
-    title: "World 4 - Whale"
+  - id: world_4_inside_the_whale
+    title: "World 4 ~ Inside the Whale"
     path: "kujira_L.dsp"
     type: betting
+  - id: world_5_amusement_park
+    title: "World 5 ~ Amusement Park"
+    path: "yuenchi_L.dsp"
+    type: betting
   - id: world_6_boiling_pot
-    title: "World 6 - Boiling Pot"
+    title: "World 6 ~ Boiling Pot"
     path: "nabe_L.dsp"
     type: betting
   - id: world_7_bubbly_washing_machine
-    title: "World 7 - Bubbly Washing Machine"
+    title: "World 7 ~ Bubbly Washing Machine"
     path: "sentaku_L.dsp"
     type: betting
+  - id: world_8_clock_tower
+    title: "World 8 ~ Clock Tower"
+    path: "clocktower_L.dsp"
+    type: battle
   - id: world_9_space_colony
-    title: "World 9 - Space Colony"
+    title: "World 9 ~ Space Colony"
     path: "colony_L.dsp"
     type: betting
   - id: world_10_dr_bad_boons_base
-    title: "World 10 - Dr. Bad Boon's Base"
+    title: "World 10 ~ Dr. Bad-Boon's Base"
     path: "sf_L.dsp"
     type: betting
   - id: hurry_up_monkeyball2
@@ -74,20 +74,24 @@ songs:
     path: "10min1_L.dsp"
     type: warning
   - id: story_mode_stage_select
-    title: "Story Mode - Stage Select"
+    title: "Story Mode ~ Stage Select"
     path: "sel_world_L.dsp"
     type: warning
   - id: monkey_dogfight
     title: "Monkey Dogfight"
     path: "dog_L.dsp"
     type: battle
+  - id: monkey_race_2_beginner_track
+    title: "Monkey Race 2 ~ Beginner Track"
+    path: "race_L.dsp"
+    type: betting
+  - id: monkey_race_2_advanced_track
+    title: "Monkey Race 2 ~ Advanced Track"
+    path: "race_advan_L.dsp"
+    type: betting
   - id: monkey_race_2_expert_track
-    title: "Monkey Race 2 - Expert Track"
+    title: "Monkey Race 2 ~ Expert Track"
     path: "race_expert_L.dsp"
-    type: battle
-  - id: world_8_clock_tower
-    title: "World 8 - Clock Tower"
-    path: "clocktower_L.dsp"
     type: battle
   - id: award_ceremony_monkeyball2
     title: "Award Ceremony"
@@ -98,11 +102,7 @@ songs:
     path: "continue_L.dsp"
     type: result
   - id: menu_monkey_boat
-    title: "Menu - Monkey Boat"
+    title: "Menu ~ Monkey Boat"
     path: "sel_boat_L.dsp"
-    type: result
-  - id: world_5_amusement_park
-    title: "World 5 - Amusement Park"
-    path: "yuenchi_L.dsp"
     type: result
 ...

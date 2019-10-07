@@ -1,23 +1,23 @@
 ---
-id: outrun
-title: "Outrun"
-platform: "Genesis"
+id: outrun_smd
+title: "OutRun [SMD]"
+platform: "SMD"
 year: 1991
 songs:
-  - id: magical_sound_shower
-    title: "Magical Sound Shower"
+  - id: magical_sound_shower_smd
+    title: "MAGICAL SOUND SHOWER"
     path: "01 - Magical Sound Shower.vgz"
     type: betting
-  - id: splash_wave
-    title: "Splash Wave"
+  - id: splash_wave_smd
+    title: "SPLASH WAVE"
     path: "02 - Splash Wave.vgz"
     type: betting
-  - id: last_wave
-    title: "Last Wave"
+  - id: last_wave_smd
+    title: "LAST WAVE"
     path: "04 - Last Wave.vgz"
     type: break
-  - id: passing_breeze_outrun_genesis
-    title: "Passing Breeze"
+  - id: passing_breeze_outrun_smd
+    title: "PASSING BREEZE"
     path: "Passing Breeze.brstm"
     type: betting
 ...
