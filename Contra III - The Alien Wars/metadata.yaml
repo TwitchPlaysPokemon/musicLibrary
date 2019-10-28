@@ -1,0 +1,35 @@
+---
+id: contra_iii_the_alien_wars
+title: "Contra III: The Alien Wars"
+platform: "SNES"
+year: 1992
+songs: 
+  - id: ground_zero
+    title: "Ground Zero"
+    path: "02 Ground Zero.spc"
+    type: betting
+  - id: tearing_up_the_turnpike
+    title: "Tearing Up the Turnpike"
+    path: "04 Tearing Up the Turnpike.spc"
+    type: betting
+  - id: neo_kobe_steel_factory
+    title: "Neo Kobe Steel Factory"
+    path: "05 Neo Kobe Steel Factory.spc"
+    type: betting
+  - id: road_warriors
+    title: "Road Warriors"
+    path: "06 Road Warriors.spc"
+    type: betting
+  - id: nesting_in_the_sands
+    title: "Nesting in the Sands"
+    path: "07 Nesting in the Sands.spc"
+    type: betting
+  - id: no_man_s_land
+    title: "No Man's Land"
+    path: "11 No Man's Land.spc"
+    type: betting
+  - id: cease_fire
+    title: "Cease Fire"
+    path: "15 Cease Fire.spc"
+    type: result
+...

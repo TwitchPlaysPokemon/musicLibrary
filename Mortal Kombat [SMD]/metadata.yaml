@@ -1,0 +1,27 @@
+---
+id: mortal_kombat_smd
+title: "Mortal Kombat [SMD]"
+platform: ""
+year: 
+songs: 
+  - id: courtyard_mk1_smd
+    title: "Courtyard"
+    path: "03 - Courtyard.vgz"
+    type: betting
+  - id: warrior_s_shrine_mk1_smd
+    title: "Warrior's Shrine"
+    path: "05 - Warrior's Shrine.vgz"
+    type: betting
+  - id: the_pit_mk1_smd
+    title: "The Pit"
+    path: "07 - The Pit.vgz"
+    type: betting
+  - id: hall_mk1_smd
+    title: "Hall"
+    path: "09 - Hall.vgz"
+    type: betting
+  - id: goro_s_lair_mk1_smd
+    title: "Goro's Lair"
+    path: "11 - Goro's Lair.vgz"
+    type: warning
+...

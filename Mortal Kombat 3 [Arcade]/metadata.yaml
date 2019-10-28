@@ -1,0 +1,51 @@
+---
+id: mortal_kombat_3_arcade
+title: "Mortal Kombat 3 [Arcade]"
+platform: "Various"
+year: 1995
+songs: 
+  - id: the_roof
+    title: "The Roof"
+    path: "02-the roof.mp3"
+    ends: 1:48
+    type: betting
+  - id: the_bank
+    title: "The Bank"
+    path: "03-the bank.mp3"
+    ends: 2:19
+    type: betting
+  - id: the_street
+    title: "The Street"
+    path: "04-the street.mp3"
+    ends: 2:23
+    type: betting
+  - id: the_subway
+    title: "The Subway"
+    path: "05-the subway.mp3"
+    ends: 1:56
+    type: betting
+  - id: in_church
+    title: "In Church"
+    path: "06-the church.mp3"
+    ends: 1:52
+    type: betting
+  - id: the_bridge
+    title: "The Bridge"
+    path: "07-the bridge.mp3"
+    ends: 2:02
+    type: betting
+  - id: the_pit
+    title: "The Pit"
+    path: "08-the pit.mp3"
+    ends: 2:04
+    type: betting
+  - id: the_grave_yard
+    title: "The Grave Yard"
+    path: "09-the grave yard.mp3"
+    type: betting
+  - id: the_soul_chamber
+    title: "The Soul Chamber"
+    path: "10-the soul chamber.mp3"
+    ends: 2:14
+    type: betting
+...

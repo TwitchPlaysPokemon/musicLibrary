@@ -9,20 +9,200 @@ songs:
     title: "Transient Tranquility"
     path: "Transient Tranquility.bcstm"
     type: betting
-  - id: ustulate_pathos
-    title: "Ustulate Pathos"
-    path: "BGM_40.dspadpcm.bcstm"
-    type: break
+  - id: pantry_ztd
+    title: "Pantry"
+    path: "BGM_01.dspadpcm.bcstm"
+    type: betting
+  - id: infirmary_ztd
+    title: "Infirmary"
+    path: "BGM_02.dspadpcm.bcstm"
+    type: betting
+  - id: quondam_monitors
+    title: "Quondam Monitors"
+    path: "BGM_03.dspadpcm.bcstm"
+    type: betting
+  - id: power_room
+    title: "Power Room"
+    path: "BGM_04.dspadpcm.bcstm"
+    type: betting
+  - id: rec_room
+    title: "Rec Room"
+    path: "BGM_05.dspadpcm.bcstm"
+    type: betting
+  - id: unliberated_library
+    title: "Unliberated Library"
+    path: "BGM_06.dspadpcm.bcstm"
+    type: betting
+  - id: pod_room
+    title: "Pod Room"
+    path: "BGM_07.dspadpcm.bcstm"
+    type: betting
+  - id: biolab
+    title: "BioLab"
+    path: "BGM_08.dspadpcm.bcstm"
+    type: betting
+  - id: locker_room
+    title: "Locker Room"
+    path: "BGM_09.dspadpcm.bcstm"
+    type: betting
   - id: trash_disposal_room
     title: "Trash Disposal Room"
     path: "BGM_10.dspadpcm.bcstm"
     type: warning
-  - id: reminiscence_ztd
-    title: "Reminiscence"
-    path: "BGM_41.dspadpcm.bcstm"
-    type: break
+  - id: transporter_room
+    title: "Transporter Room"
+    path: "BGM_11.dspadpcm.bcstm"
+    type: betting
+  - id: manufacturing_room
+    title: "Manufacturing Room"
+    path: "BGM_12.dspadpcm.bcstm"
+    type: betting
+  - id: healing_room
+    title: "Healing Room"
+    path: "BGM_13.dspadpcm.bcstm"
+    type: betting
+  - id: moral_dilemma
+    title: "Moral Dilemma"
+    path: "BGM_14.dspadpcm.bcstm"
+    type: betting
+  - id: initiation
+    title: "Initiation"
+    path: "BGM_15.dspadpcm.bcstm"
+    type: betting
   - id: tough_decision
     title: "Tough Decision"
     path: "BGM_16.dspadpcm.bcstm"
     type: betting
+  - id: ambidexterity_ztd
+    title: "Ambidexterity"
+    path: "BGM_17.dspadpcm.bcstm"
+    type: betting
+  - id: extreme_extrication_ztd
+    title: "Extreme Extrication"
+    path: "BGM_18.dspadpcm.bcstm"
+    type: betting
+  - id: cqd_ward_bgm_1
+    title: "CQD Ward BGM 1"
+    path: "BGM_19.dspadpcm.bcstm"
+    type: betting
+  - id: placidity
+    title: "Placidity"
+    path: "BGM_20.dspadpcm.bcstm"
+    type: betting
+  - id: trepidation
+    title: "Trepidation"
+    path: "BGM_21.dspadpcm.bcstm"
+    type: warning
+  - id: consternation
+    title: "Consternation"
+    path: "BGM_23.dspadpcm.bcstm"
+    type: betting
+  - id: cqd_ward_bgm_2
+    title: "CQD Ward BGM 2"
+    path: "BGM_24.dspadpcm.bcstm"
+    type: betting
+  - id: portentousness
+    title: "Portentousness"
+    path: "BGM_28.dspadpcm.bcstm"
+    type: betting
+  - id: sinisterness_phase_1
+    title: "Sinisterness [Phase 1]"
+    path: "BGM_29.dspadpcm.bcstm"
+    type: betting
+  - id: sinisterness_phase_2
+    title: "Sinisterness [Phase 2]"
+    path: "BGM_30.dspadpcm.bcstm"
+    type: betting
+  - id: clarification
+    title: "Clarification"
+    path: "BGM_31.dspadpcm.bcstm"
+    type: betting
+  - id: divulgation_ztd
+    title: "Divulgation"
+    path: "BGM_33.dspadpcm.bcstm"
+    type: betting
+  - id: anxiousness_ztd
+    title: "Anxiousness"
+    path: "BGM_34.dspadpcm.bcstm"
+    type: betting
+  - id: strain_ztd
+    title: "Strain"
+    path: "BGM_35.dspadpcm.bcstm"
+    type: betting
+  - id: sacrificial_demise
+    title: "Sacrificial Demise"
+    path: "BGM_36.dspadpcm.bcstm"
+    type: betting
+  - id: ustulate_pathos
+    title: "Ustulate Pathos"
+    path: "BGM_40.dspadpcm.bcstm"
+    type: break
+  - id: reminiscence_ztd
+    title: "Reminiscence"
+    path: "BGM_41.dspadpcm.bcstm"
+    type: break
+  - id: blue_bird_lamentation_ztd
+    title: "Blue Bird Lamentation"
+    path: "BGM_43.dspadpcm.bcstm"
+    type: betting
+  - id: interminable_dilemma_cqd_end_1_credits
+    title: "Interminable Dilemma [CQD: END 1/Credits]"
+    path: "BGM_45.dspadpcm.bcstm"
+    type: break
+  - id: interminable_dilemma_cqd_end_2_payoff
+    title: "Interminable Dilemma [CQD: END 2/Payoff]"
+    path: "BGM_46.dspadpcm.bcstm"
+    type: break
+  - id: nostalgic_scenery
+    title: "Nostalgic Scenery"
+    path: "BGM_47.dspadpcm.bcstm"
+    type: break
+  - id: mischievousness
+    title: "Mischievousness"
+    path: "BGM_48.dspadpcm.bcstm"
+    type: warning
+  - id: sinisterness_phase_3
+    title: "Sinisterness [Phase 3]"
+    path: "BGM_49.dspadpcm.bcstm"
+    type: betting
+  - id: riddle_and_puzzle_ztd
+    title: "Riddle and Puzzle"
+    path: "BGM_50.dspadpcm.bcstm"
+    type: betting
+  - id: confession_ztd
+    title: "Confession"
+    path: "BGM_51.dspadpcm.bcstm"
+    type: break
+  - id: morphogenetic_sorrow
+    title: "Morphogenetic Sorrow"
+    path: "BGM_55.dspadpcm.bcstm"
+    type: betting
+  - id: cqd_ward_bgm_3
+    title: "CQD Ward BGM 3"
+    path: "BGM_58.dspadpcm.bcstm"
+    type: betting
+  - id: aftermath
+    title: "Aftermath"
+    path: "BGM_59.dspadpcm.bcstm"
+    type: betting
+  - id: zero_ztd
+    title: "Zero"
+    path: "BGM_60.dspadpcm.bcstm"
+    type: betting
+  - id: quantum_computer_dome
+    title: "Quantum Computer Dome"
+    path: "BGM_62.dspadpcm.bcstm"
+    type: betting
+  - id: solitary_snail
+    title: "Solitary Snail"
+    path: "BGM_63.dspadpcm.bcstm"
+    type: betting
+  - id: extreme_urgency
+    title: "Extreme Urgency"
+    path: "BGM_64.dspadpcm.bcstm"
+    type: warning
+  - id: glacial_solitude
+    title: "Glacial Solitude"
+    path: "BGM_66.dspadpcm.bcstm"
+    type: break
 ...

@@ -1,0 +1,11 @@
+---
+id: akumajo_dracula_x68000
+title: "Akumajō Dracula [X68000]"
+platform: ["X68000", "PS1"]
+year: 1993
+songs: 
+  - id: file_load_bgm
+    title: "File Load BGM"
+    path: "21 Load BGM.vgz"
+    type: betting
+...

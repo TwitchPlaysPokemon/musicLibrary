@@ -1,0 +1,46 @@
+---
+id: mortal_kombat_ii_arcade
+title: "Mortal Kombat II [Arcade]"
+platform: "Various"
+year: 1993
+songs: 
+  - id: the_dead_pool
+    title: "The Dead Pool"
+    path: "06 - The Dead Pool.mp3"
+    ends: 1:42
+    type: betting
+  - id: kombat_tomb
+    title: "Kombat Tomb"
+    path: "07 - Kombat Tomb.mp3"
+    ends: 1:44
+    type: betting
+  - id: wasteland
+    title: "Wasteland"
+    path: "08 - Wasteland.mp3"
+    ends: 1:50
+    type: betting
+  - id: the_tower
+    title: "The Tower"
+    path: "09 - The Tower.mp3"
+    ends: 1:31
+    type: betting
+  - id: the_screaming_forest
+    title: "The Screaming Forest"
+    path: "10 - Living Forest.mp3"
+    ends: 1:59
+    type: betting
+  - id: the_armory
+    title: "The Armory"
+    path: "11 - The Armory.mp3"
+    ends: 1:49
+    type: betting
+  - id: the_portal
+    title: "The Portal"
+    path: "12 - The Portal.mp3"
+    ends: 1:37
+    type: betting
+  - id: goro_s_lair
+    title: "Goro's Lair"
+    path: "13 - Goro's Lair.brstm"
+    type: warning
+...

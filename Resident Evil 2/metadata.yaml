@@ -14,9 +14,13 @@ songs:
     path: "11 Secure Place.psf"
     type: break
   - id: t_a
-    title: "T-A"
+    title: "\"T\" -A"
     path: "16 T-A.psf"
     type: warning
+  - id: the_marshaling_yard_the_latter_half
+    title: "The Marshaling Yard (The Latter Half)"
+    path: "20 The Marshalling Yard (The Second Half).psf"
+    type: break
   - id: good_bye_leon
     title: "Good Bye, Leon..."
     path: "25 Good Bye, Leon....psf"

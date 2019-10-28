@@ -1,9 +1,15 @@
+---
 id: the_adventures_of_batman_and_robin
 title: "The Adventures of Batman & Robin"
-year: 1995
 platform: "Genesis"
-songs:
+year: 1995
+songs: 
+  - id: moving_trucks
+    title: "Moving Trucks"
+    path: "04 - Moving Trucks.vgz"
+    type: betting
   - id: animal_boss
     title: "Animal Boss"
     path: "12 - Animal Boss.vgz"
     type: battle
+...

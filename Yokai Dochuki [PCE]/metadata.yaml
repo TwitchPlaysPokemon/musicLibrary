@@ -1,0 +1,12 @@
+---
+id: yokai_dochuki
+title: "Yōkai Dōchūki [PCE]"
+platform: ["Arcade", "PCE"]
+year: 1987
+songs: 
+  - id: main_bgm_yokai_dochuki
+    title: "Main BGM"
+    path: "02 BGM.vgz"
+    ends: 2:36
+    type: betting
+...

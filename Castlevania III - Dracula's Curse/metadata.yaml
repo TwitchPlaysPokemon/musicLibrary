@@ -5,8 +5,12 @@ series: castlevania
 platform: "NES"
 year: 1989
 songs: 
-  - id: beginning_castlevania_iii
-    title: "Beginning"
+  - id: beginning_church_town_graveyard_stage
+    title: "Beginning (Church, Town, Graveyard Stage)"
     path: "03 Beginning.vgz"
+    type: betting
+  - id: mad_forest_forest_stage
+    title: "Mad Forest (Forest Stage)"
+    path: "08 Mad Forest.vgz"
     type: betting
 ...

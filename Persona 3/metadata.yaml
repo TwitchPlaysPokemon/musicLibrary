@@ -49,4 +49,8 @@ songs:
     title: "That Which Escaped The Darkness"
     path: "Persona_3-That_Which_Escaped_the_Darkness.brstm"
     type: warning
+  - id: master_of_shadow
+    title: "Master of Shadow"
+    path: "BGM001a.adx"
+    type: battle
 ...

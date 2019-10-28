@@ -15,5 +15,10 @@ songs:
   - id: sneakman
     title: "Sneakman"
     path: "Sneakman.brstm"
-    type: betting #Borderline doesn't fit; leaving it in for now
+    type: betting
+  - id: grace_glory
+    title: "Grace & Glory"
+    path: "14. Grace & Glory - Hideki Naganuma.mp3"
+    ends: 3:16
+    type: betting
 ...

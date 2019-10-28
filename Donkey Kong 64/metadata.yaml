@@ -39,9 +39,13 @@ songs:
     path: "048 Frantic Factory Boss.miniusf"
     type: warning
   - id: gloomy_galleon_submarine
-    title: "Gloomy Galleon Submarine"
+    title: "Gloomy Galleon (Submarine)"
     path: "059 Gloomy Galleon Submarine.miniusf"
     type: break
+  - id: gloomy_galleon_ship_ruins
+    title: "Gloomy Galleon (Ship Ruins)"
+    path: "064 - Gloomy Galleon Ship Ruins.miniusf"
+    type: betting
   - id: fungi_forest_spider
     title: "Fungi Forest Spider"
     path: "067 Fungi Forest Spider.miniusf"

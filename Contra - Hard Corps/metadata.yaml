@@ -4,8 +4,80 @@ title: "Contra: Hard Corps"
 platform: "Genesis"
 year: 1994
 songs: 
+  - id: contra_overdrive
+    title: "Contra Overdrive"
+    path: "04 - Contra Overdrive.vgz"
+    type: betting
+  - id: something_wonderful
+    title: "Something Wonderful"
+    path: "05 - Something Wonderful.vgz"
+    type: betting
+  - id: jurassic_dope
+    title: "Jurassic Dope"
+    path: "06 - Jurassic Dope.vgz"
+    type: betting
+  - id: alien_s_den
+    title: "Alien's Den"
+    path: "07 - Alien's Den.vgz"
+    type: betting
+  - id: ac_violence
+    title: "AC Violence"
+    path: "08 - AC Violence.vgz"
+    type: betting
+  - id: yoru_no_nikusyokujyu
+    title: "Yoru no Nikusyokujyu"
+    path: "09 - Yoru no Nikusyokujyu.vgz"
+    type: betting
+  - id: the_hard_corps
+    title: "The Hard Corps"
+    path: "10 - The Hard Corps.vgz"
+    type: betting
+  - id: zephyr
+    title: "Zephyr"
+    path: "11 - Zephyr.vgz"
+    type: betting
+  - id: gekokujoh_norakura
+    title: "Gekokujoh Norakura"
+    path: "12 - Gekokujoh Norakura.vgz"
+    type: betting
+  - id: the_foggy_cave_in_the_darkness
+    title: "The Foggy Cave in the Darkness"
+    path: "13 - The Foggy Cave in the Darkness.vgz"
+    type: betting
+  - id: guillotine
+    title: "Guillotine"
+    path: "14 - Guillotine.vgz"
+    type: betting
+  - id: simon_1994rd
+    title: "Simon 1994RD"
+    path: "15 - Simon 1994RD.vgz"
+    type: battle
+  - id: r_a_v_e
+    title: "R.A.V.E."
+    path: "16 - R.A.V.E..vgz"
+    type: battle
+  - id: jb303
+    title: "JB303"
+    path: "17 - JB303.vgz"
+    type: battle
+  - id: a_spirit_of_bushi
+    title: "A Spirit of Bushi"
+    path: "18 - A Spirit of Bushi.vgz"
+    type: battle
   - id: gtr_attack
     title: "GTR Attack!"
     path: "19 - GTR Attack!.vgm"
+    type: battle
+  - id: moonlit_army
+    title: "Moonlit Army"
+    path: "20 - Moonlit Army.vgz"
+    type: betting
+  - id: format_x
+    title: "Format X"
+    path: "21 - Format X.vgz"
+    type: battle
+  - id: last_springsteen
+    title: "Last Springsteen"
+    path: "22 - Last Springsteen.vgz"
     type: battle
 ...

@@ -4,8 +4,12 @@ title: "Power Stone"
 platform: ["Arcade", "DC"]
 year: 1999
 songs: 
-  - id: tong_an_stage_wang_tang
-    title: "Tong-An Stage (Wang-Tang)"
+  - id: tong_an_stage
+    title: "Tong-An Stage"
     path: "ST_02.ADX"
+    type: betting
+  - id: manches_stage
+    title: "Manches Stage"
+    path: "ST_03.ADX"
     type: betting
 ...

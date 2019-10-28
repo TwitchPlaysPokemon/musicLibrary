@@ -1,0 +1,11 @@
+---
+id: skeleton_krew_amiga_cd32
+title: "Skeleton Krew [Amiga CD32]"
+platform: ["SMD", "Amiga CD32"]
+year: 1995
+songs: 
+  - id: bgm_3_skeleton_krew_amiga
+    title: "BGM #3"
+    path: "05_BGM 3 [CD32].mp3"
+    type: betting
+...

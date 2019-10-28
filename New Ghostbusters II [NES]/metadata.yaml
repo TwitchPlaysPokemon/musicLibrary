@@ -1,0 +1,15 @@
+---
+id: new_ghostbusters_ii_nes
+title: "New Ghostbusters II [NES]"
+platform: ["NES", "GB"]
+year: 1990
+songs: 
+  - id: stage_3_apartment
+    title: "STAGE 3 ~ Apartment"
+    path: "STAGE 3 ~ Apartment.brstm"
+    type: betting
+  - id: stage_4_river_of_slime
+    title: "STAGE 4 ~ River of Slime"
+    path: "STAGE 4 ~ River of Slime.brstm"
+    type: betting
+...
