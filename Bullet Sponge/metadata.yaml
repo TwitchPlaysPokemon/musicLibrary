@@ -18,14 +18,14 @@ songs:
     type: betting
   - id: vs_phage_bs
     title: "Vs. Phage"
-    path: "04_vs_phage.logg"
+    path: "04_vs_phage.brstm"
     type: battle
   - id: ending_bs
     title: "Ending"
-    path: "05_ending.logg"
+    path: "05_ending.brstm"
     type: break
   - id: cool_song_bs
     title: "cool_song :)"
-    path: "06_cool_song.logg"
+    path: "06_cool_song.brstm"
     type: result
 ...
