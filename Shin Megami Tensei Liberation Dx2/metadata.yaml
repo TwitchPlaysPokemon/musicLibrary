@@ -1,0 +1,31 @@
+---
+id: shin_megami_tensei_liberation_dx2
+title: "Shin Megami Tensei: Liberation Dx2"
+platform: "Mobile"
+year: 2018
+songs: 
+  - id: boss_battle_smt_dx2
+    title: "Boss Battle"
+    path: "bgm_btl_boss.hca"
+    type: battle
+  - id: normal_battle_smt_dx2
+    title: "Normal Battle"
+    path: "bgm_btl_normal.hca"
+    type: battle
+  - id: liberator_s_hideout
+    title: "Liberator's Hideout"
+    path: "bgm_facility.hca"
+    type: betting
+  - id: fusion
+    title: "Fusion"
+    path: "bgm_fusion.hca"
+    type: break
+  - id: home_smt_dx2
+    title: "Home"
+    path: "bgm_home.hca"
+    type: betting
+  - id: map_smt_dx2
+    title: "Map"
+    path: "bgm_map.hca"
+    type: betting
+...

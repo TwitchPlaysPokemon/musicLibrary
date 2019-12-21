@@ -1,0 +1,19 @@
+---
+id: the_king_of_fighters_2003
+title: "The King of Fighters 2003"
+platform: "Various"
+year: 2003
+songs: 
+  - id: select_player_select
+    title: "Select (Player Select)"
+    path: "03 Select (Player Select).vgz"
+    type: warning
+  - id: winner_winner_demo
+    title: "Winner (Winner Demo)"
+    path: "07 Winner (Winner Demo).vgz"
+    type: result
+  - id: sacredness_fairy_mid_boss_2_chizuru_maki_kagura_ver
+    title: "Sacredness ~ Fairy (Mid Boss 2 [Chizuru / Maki Kagura Ver.])"
+    path: "29 Sacredness _ Fairy (Mid Boss 2 [Chizuru, Maki Kagura Ver.]).vgz"
+    type: battle
+...

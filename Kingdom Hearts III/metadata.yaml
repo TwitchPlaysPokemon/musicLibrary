@@ -6,14 +6,38 @@ year: 2019
 songs: 
   - id: misty_stream
     title: "Misty Stream"
-    path: "Kingdom Hearts III Soundtrack - Misty Stream.brstm"
+    path: "BGM_gumi_field_2.mab"
     type: betting
   - id: starlight_way
     title: "Starlight Way"
-    path: "Kingdom Hearts III Soundtrack - Starlight Way.brstm"
+    path: "BGM_gumi_field_1.mab"
     type: betting
   - id: gummi_ship_enemy_encounter
     title: "Gummi Ship Enemy Encounter"
-    path: "Gummi Ship Enemy Encounter - Kingdom Hearts III.brstm"
+    path: "BGM_gumi_battle.mab"
+    type: battle
+  - id: enter_the_darkness
+    title: "Enter the Darkness"
+    path: "BGM_kg_xiii_c_battle.mab"
+    type: battle
+  - id: oscurita_di_xehanort
+    title: "Oscurità di Xehanort"
+    path: "BGM_kg874_battle.mab"
+    type: battle
+  - id: shrouding_dark_cloud_kingdom_hearts_iii
+    title: "Shrouding Dark Cloud"
+    path: "BGM_shrouding_battle.mab"
+    type: battle
+  - id: dearly_beloved_kingdom_hearts_iii
+    title: "Dearly Beloved"
+    path: "BGM_title.mab"
+    type: break
+  - id: key_to_all
+    title: "Key to All"
+    path: "BGM_xeha_bat_boss_3.mab"
+    type: battle
+  - id: thermosphere_kingdom_hearts_iii
+    title: "Thermosphere"
+    path: "BGM_gumi_therm.mab"
     type: battle
 ...

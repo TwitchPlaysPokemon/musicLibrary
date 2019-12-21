@@ -262,4 +262,12 @@ songs:
     title: "Wrong Enemy !?"
     path: "mus_wrongworld.logg"
     type: warning
+  - id: your_best_nightmare
+    title: "Your Best Nightmare"
+    path: "Your Best Nightmare.brstm"
+    type: battle
+  - id: song_that_might_play_when_you_fight_sans
+    title: "Song That Might Play When You Fight Sans"
+    path: "Song That Might Play When You Fight Sans.brstm"
+    type: battle
 ...

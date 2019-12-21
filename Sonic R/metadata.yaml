@@ -29,8 +29,12 @@ songs:
     title: "Work it Out (Instrumental)"
     path: "Work it Out (Instrumental).brstm"
     type: betting
-  - id: menu_sonicr
-    title: "Menu"
+  - id: options_screen_sonic_r
+    title: "Options Screen"
     path: "Menu.brstm"
     type: break
+  - id: super_sonic_racing
+    title: "Super Sonic Racing"
+    path: "11. Richard Jacques - Super Sonic Racing.flac"
+    type: betting
 ...

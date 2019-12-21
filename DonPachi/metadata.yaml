@@ -1,0 +1,31 @@
+---
+id: donpachi
+title: "DonPachi"
+platform: ["Arcade", "PS1", "Saturn"]
+year: 1995
+songs: 
+  - id: silent_outpost_base_stage_1
+    title: "Silent Outpost Base (Stage 1)"
+    path: "02 Silent Outpost Base (Stage 1).brstm"
+    type: betting
+  - id: gale_force_stage_2
+    title: "Gale Force (Stage 2)"
+    path: "03 Gale Force (Stage 2).brstm"
+    type: betting
+  - id: the_god_of_destruction_comes_stage_3
+    title: "The God of Destruction Comes (Stage 3)"
+    path: "04 The God of Destruction Comes (Stage 3).brstm"
+    type: betting
+  - id: advance_through_the_distant_sky_stage_4
+    title: "Advance Through the Distant Sky (Stage 4)"
+    path: "05 Advance Through the Distant Sky (Stage 4).brstm"
+    type: betting
+  - id: in_the_midst_of_the_intensifying_battle_stage_5
+    title: "In the Midst of the Intensifying Battle (Stage 5)"
+    path: "06 In the Midst of the Intensifying Battle (Stage 5).brstm"
+    type: betting
+  - id: a_worthy_rival_appears_boss
+    title: "A Worthy Rival Appears (Boss)"
+    path: "07 A Worthy Rival Appears (Boss).brstm"
+    type: battle
+...

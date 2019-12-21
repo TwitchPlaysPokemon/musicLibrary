@@ -105,4 +105,12 @@ songs:
     title: "Menu ~ Monkey Boat"
     path: "sel_boat_L.dsp"
     type: result
+  - id: beginner_shot_monkey_shot_beginner_stage
+    title: "BEGINNER SHOT (Monkey Shot ~ Beginner Stage)"
+    path: "world2_jungle.hca"
+    type: betting
+  - id: expert_boat_monkey_boat_expert_track
+    title: "EXPERT BOAT (Monkey Boat ~ Expert Track)"
+    path: "world6_cave.hca"
+    type: betting
 ...

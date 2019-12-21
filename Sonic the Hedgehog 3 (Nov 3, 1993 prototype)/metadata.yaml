@@ -1,0 +1,59 @@
+---
+id: sonic_the_hedgehog_3_nov_3_1993_prototype
+title: "Sonic the Hedgehog 3 (Nov 3, 1993 prototype)"
+platform: "SMD"
+year: 1993
+songs: 
+  - id: carnival_night_zone_act_1_sonic_3_prototype
+    title: "Carnival Night Zone Act 1"
+    path: "09 Carnival Night Zone Act 1.vgz"
+    type: betting
+  - id: carnival_night_zone_act_2_sonic_3_prototype
+    title: "Carnival Night Zone Act 2"
+    path: "10 Carnival Night Zone Act 2.vgz"
+    type: betting
+  - id: icecap_zone_act_1_sonic_3_prototype
+    title: "IceCap Zone Act 1"
+    path: "13 IceCap Zone Act 1.vgz"
+    type: betting
+  - id: icecap_zone_act_2_sonic_3_prototype
+    title: "IceCap Zone Act 2"
+    path: "14 IceCap Zone Act 2.vgz"
+    type: betting
+  - id: launch_base_zone_act_1_sonic_3_prototype
+    title: "Launch Base Zone Act 1"
+    path: "15 Launch Base Zone Act 1.vgz"
+    type: betting
+  - id: launch_base_zone_act_2_sonic_3_prototype
+    title: "Launch Base Zone Act 2"
+    path: "16 Launch Base Zone Act 2.vgz"
+    type: betting
+  - id: mushroom_valley_zone_act_1_sonic_3_prototype
+    title: "Mushroom Valley Zone Act 1"
+    path: "17 Mushroom Valley Zone Act 1.vgz"
+    type: betting
+  - id: mushroom_valley_zone_act_2_sonic_3_prototype
+    title: "Mushroom Valley Zone Act 2"
+    path: "18 Mushroom Valley Zone Act 2.vgz"
+    type: betting
+  - id: sky_sanctuary_zone_sonic_3_prototype
+    title: "Sky Sanctuary Zone"
+    path: "23 Sky Sanctuary Zone.vgz"
+    type: betting
+  - id: staff_roll_sonic_3_prototype
+    title: "Staff Roll"
+    path: "30 Staff Roll.vgz"
+    type: betting
+  - id: knuckles_theme_sonic_3_prototype
+    title: "Knuckles' Theme"
+    path: "35 Knuckles' Theme.vgz"
+    type: warning
+  - id: unused_sonic_3_prototype
+    title: "Unused"
+    path: "36 Unused (Track 2E).vgz"
+    type: betting
+  - id: competition_sonic_3_prototype
+    title: "Competition"
+    path: "37 Competition Menu.vgz"
+    type: betting
+...

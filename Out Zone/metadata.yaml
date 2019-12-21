@@ -1,0 +1,35 @@
+---
+id: out_zone
+title: "Out Zone"
+platform: "Arcade"
+year: 1990
+songs: 
+  - id: operation_start_to_the_earth_chapter_1
+    title: "Operation (Start) ~ To the Earth (Chapter 1)"
+    path: "02 Operation (Start) - To the Earth (Ver. 1.0) (Chapter 1).vgz"
+    type: battle
+  - id: pump_them_with_bullets_chapter_2
+    title: "Pump Them with Bullets (Chapter 2)"
+    path: "03 Pump Them with Bullets (Chapter 2).vgz"
+    type: battle
+  - id: hired_gun_in_o_z_chapter_3
+    title: "Hired Gun in O,Z (Chapter 3)"
+    path: "04 Hired Gun in O,Z (Chapter 3).vgz"
+    type: battle
+  - id: soldier_a_gogo_chapter_4
+    title: "Soldier a GoGo (Chapter 4)"
+    path: "05 Soldier a GoGo (Chapter 4).vgz"
+    type: battle
+  - id: secret_of_ogiwara_chapter_5
+    title: "Secret of Ogiwara (Chapter 5)"
+    path: "06 Secret of Ogiwara (Chapter 5).vgz"
+    type: betting
+  - id: close_to_finish_chapter_6
+    title: "Close to Finish (Chapter 6)"
+    path: "07 Close to Finish (Chapter 6).vgz"
+    type: betting
+  - id: get_the_last_laugh_chapter_7
+    title: "Get the Last Laugh (Chapter 7)"
+    path: "08 Get the Last Laugh (Chapter 7).vgz"
+    type: battle
+...

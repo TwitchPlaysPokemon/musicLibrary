@@ -17,18 +17,10 @@ songs:
     title: "Living With Determination -Iwatodai Dorm Arrange-"
     path: "Living With Determination -Iwatodai Dorm Arrange-.brstm"
     type: betting
-      #- id: iwatodai_dorm
-      #  path: "Iwatodai Dorm.brstm"
-      #  title: "Iwatodai Dorm"
-      #  type: betting
   - id: afternoon_break_persona3
     title: "Afternoon Break"
     path: "Afternoon Break.brstm"
     type: break
-      #- id: iwatodai_dorm
-      #  path: "Iwatodai Dorm.brstm"
-      #  title: "Iwatodai Dorm"
-      #  type: betting
   - id: shadow_persona3
     title: "Shadow"
     path: "Shadow.brstm"
@@ -53,4 +45,12 @@ songs:
     title: "Master of Shadow"
     path: "BGM001a.adx"
     type: battle
+  - id: iwatodai_dorm
+    title: "Iwatodai Dorm"
+    path: "BGM002f.adx"
+    type: betting
+  - id: mass_destruction
+    title: "Mass Destruction"
+    path: "BGM0019.adx"
+    type: betting
 ...

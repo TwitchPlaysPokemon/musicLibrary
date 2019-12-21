@@ -1,0 +1,207 @@
+---
+id: the_legend_of_zelda_link_s_awakening_switch
+title: "The Legend of Zelda: Link's Awakening [Switch]"
+platform: "Switch"
+year: 2019
+songs: 
+  - id: file_select_link_s_awakening_switch
+    title: "File Select"
+    path: "03_NameInput.ry.48.dspadpcm.bfstm"
+    type: break
+  - id: marin_s_house_link_s_awakening_switch
+    title: "Marin's House"
+    path: "04_House_First.ry.48.dspadpcm.bfstm"
+    type: break
+  - id: sword_search_link_s_awakening_switch
+    title: "Sword Search"
+    path: "06_Field_First.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: owl_link_s_awakening_switch
+    title: "Owl"
+    path: "07_Owl.ry.48.dspadpcm.bfstm"
+    type: warning
+  - id: overworld_link_s_awakening_switch
+    title: "Overworld"
+    path: "09_Field_Normal_Intro.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: mabe_village_link_s_awakening_switch
+    title: "Mabe Village"
+    path: "11_Meve.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: mysterious_forest_link_s_awakening_switch
+    title: "Mysterious Forest"
+    path: "12_StrangeForest.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: shop_link_s_awakening_switch
+    title: "Shop"
+    path: "15_Shop.ry.48.dspadpcm.bfstm"
+    type: break
+  - id: trendy_game_link_s_awakening_switch
+    title: "Trendy Game"
+    path: "18_GameShop.ry.48.dspadpcm.bfstm"
+    type: warning
+  - id: house_link_s_awakening_switch
+    title: "House"
+    path: "19_House.ry.48.dspadpcm.bfstm"
+    type: break
+  - id: ballad_of_the_wind_fish_marin_link_s_awakening_switch
+    title: "Ballad of the Wind Fish - Marin"
+    path: "20_MarineSing.ry.48.dspadpcm.bfstm"
+    type: break
+  - id: cave_link_s_awakening_switch
+    title: "Cave"
+    path: "22_Cave.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: level_1_tail_cave_link_s_awakening_switch
+    title: "Level 1: Tail Cave"
+    path: "23_Dangeon1_TailCave.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: mid_boss_link_s_awakening_switch
+    title: "Mid-Boss"
+    path: "25_Dangeon_BossMiddle.ry.48.dspadpcm.bfstm"
+    type: warning
+  - id: boss_link_s_awakening_switch
+    title: "Boss"
+    path: "26_Dangeon_Boss.ry.48.dspadpcm.bfstm"
+    type: warning
+  - id: mr_write_link_s_awakening_switch
+    title: "Mr. Write"
+    path: "32_Wright.ry.48.dspadpcm.bfstm"
+    type: result
+  - id: level_2_bottle_grotto_link_s_awakening_switch
+    title: "Level 2: Bottle Grotto"
+    path: "34_Dangeon2_PotCave.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: richard_s_villa_link_s_awakening_switch
+    title: "Richard's Villa"
+    path: "36_Richard.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: level_3_key_cavern_link_s_awakening_switch
+    title: "Level 3: Key Cavern"
+    path: "39_Dangeon_Key.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: christine_s_house_link_s_awakening_switch
+    title: "Christine's House"
+    path: "43_GoatHouse.ry.48.dspadpcm.bfstm"
+    type: result
+  - id: dream_shrine_link_s_awakening_switch
+    title: "Dream Shrine"
+    path: "46_DreamShrine.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: on_the_beach_with_marin_link_s_awakening_switch
+    title: "On The Beach With Marin"
+    path: "48_Event_DateWithMarine.ry.48.dspadpcm.bfstm"
+    type: break
+  - id: tal_tal_mountain_range_link_s_awakening_switch
+    title: "Tal Tal Mountain Range"
+    path: "50_TaruTaru.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: tal_tal_mountain_range_after_marin_rescue_link_s_awakening_switch
+    title: "Tal Tal Mountain Range - After Marin Rescue"
+    path: "50_TaruTaru_AfterRescue.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: level_4_angler_s_tunnel_link_s_awakening_switch
+    title: "Level 4: Angler's Tunnel"
+    path: "52_Dangeon4_BasinAngler.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: learning_manbo_s_mambo_link_s_awakening_switch
+    title: "Learning Manbo's Mambo"
+    path: "54_Ocarina_ManboOfManbow.ry.48.dspadpcm.bfstm"
+    type: warning
+  - id: house_by_the_bay_link_s_awakening_switch
+    title: "House by the Bay"
+    path: "55_GhostHouse.ry.48.dspadpcm.bfstm"
+    type: break
+  - id: level_5_catfish_s_maw_link_s_awakening_switch
+    title: "Level 5: Catfish's Maw"
+    path: "57_Dangeon5_CatFish.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: level_6_face_shrine_link_s_awakening_switch
+    title: "Level 6: Face Shrine"
+    path: "62_Dangeon6_TempleOfFace.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: color_dungeon_link_s_awakening_switch
+    title: "Color Dungeon"
+    path: "64_Dangeon_Clothes.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: hen_house_link_s_awakening_switch
+    title: "Hen House"
+    path: "66_ChikenHut.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: level_7_eagle_s_tower_link_s_awakening_switch
+    title: "Level 7: Eagle's Tower"
+    path: "67_Dangeon7_TowerOfEagle.ry.48.dspadpcm.bfstm"
+    type: break
+  - id: level_8_turtle_rock_link_s_awakening_switch
+    title: "Level 8: Turtle Rock"
+    path: "72_Dangeon7_TurtleRock.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: wind_fish_s_egg_link_s_awakening_switch
+    title: "Wind Fish's Egg"
+    path: "76_Dangeon_HolyEgg.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: shadow_nightmares_battle_link_s_awakening_switch
+    title: "Shadow Nightmares Battle"
+    path: "78_LastBoss_Appear-Battle.ry.48.dspadpcm.bfstm"
+    type: battle
+  - id: credits_link_s_awakening_switch
+    title: "Credits"
+    path: "82_Ending.ry.48.dspadpcm.wav"
+    type: break
+  - id: file_select_totakeke
+    title: "File Select \"TOTAKEKE\""
+    path: "85_TotakekeSong.ry.48.dspadpcm.bfstm"
+    type: result
+  - id: file_select_zelda
+    title: "File Select \"ZELDA\""
+    path: "86_ZeldaName.ry.48.dspadpcm.bfstm"
+    type: result
+  - id: ancient_ruins_link_s_awakening_switch
+    title: "Ancient Ruins"
+    path: "BGM_PLACE_OF_FACE_KEY.bfstm"
+    type: betting
+  - id: telephone_house_link_s_awakening_switch
+    title: "Telephone House"
+    path: "BGM_TELEPHONE.bfstm"
+    type: warning
+  - id: ballad_of_the_wind_fish_instruments_of_the_sirens_link_s_awakening_switch
+    title: "Ballad of the Wind Fish - Instruments of the Sirens"
+    path: "Ensemble_All.ry.48.dspadpcm.bfstm"
+    type: result
+  - id: dethi_battle_link_s_awakening_switch
+    title: "DethI Battle"
+    path: "LastBossFinal.ry.48.dspadpcm.bfstm"
+    type: warning
+  - id: file_select_marin
+    title: "File Select \"MARIN\""
+    path: "MarineName.ry.48.dspadpcm.bfstm"
+    type: result
+  - id: chamber_dungeon_result
+    title: "Chamber Dungeon - Result"
+    path: "PanelDanjeonResult.ry.48.dspadpcm.bfstm"
+    type: result
+  - id: chamber_dungeon_adventure
+    title: "Chamber Dungeon - Adventure"
+    path: "PanelDanjeonStrings+Wind+Timpani.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: chamber_dungeon_arrange
+    title: "Chamber Dungeon - Arrange"
+    path: "PanelDanpeiEdit.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: mysterious_forest_marin
+    title: "Mysterious Forest - Marin"
+    path: "RecorderField_FushigiNoMori.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: overworld_marin
+    title: "Overworld - Marin"
+    path: "RecorderField_Main.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: tal_tal_heights_marin
+    title: "Tal Tal Heights - Marin"
+    path: "RecorderField_TaruTaru.ry.48.dspadpcm.bfstm"
+    type: betting
+  - id: seashell_mansion_link_s_awakening_switch
+    title: "Seashell Mansion"
+    path: "ShellHouse.ry.48.dspadpcm.bfstm"
+    type: break
+...

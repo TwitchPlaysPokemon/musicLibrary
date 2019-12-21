@@ -1,0 +1,31 @@
+---
+id: super_monkey_ball_3d
+title: "Super Monkey Ball 3D"
+platform: "3DS"
+year: 2011
+songs: 
+  - id: bonus_bonus_stage
+    title: "Bonus! (Bonus Stage)"
+    path: "bonus.hca"
+    type: betting
+  - id: green_ship_fight
+    title: "Green Ship (Fight)"
+    path: "mechanic.hca"
+    type: battle
+  - id: world_6_skypolis
+    title: "World 6 (Skypolis)"
+    path: "saru.hca"
+    type: betting
+  - id: world_4_bananightmare
+    title: "World 4 (Bananightmare)"
+    path: "world5_grave.hca"
+    type: betting
+  - id: white_cliffs_fight
+    title: ""White Cliffs (Fight)
+    path: "world8_space.hca"
+    type: betting
+  - id: world_3_sweet_fountain
+    title: "World 3 (Sweet Fountain)"
+    path: "YETIE.hca"
+    type: betting
+...

@@ -1,0 +1,47 @@
+---
+id: etrian_odyssey_nexus
+title: "Etrian Odyssey NEXUS"
+platform: "3DS"
+year: 2018
+songs: 
+  - id: labyrinth_world_shrine
+    title: "Labyrinth - World Shrine"
+    path: "1.07 Meikyuu - Shihou no Reidou 【DUNGEON Shihou no Reidou】.brstm"
+    type: break
+  - id: battlefield_elation
+    title: "Battlefield - Elation"
+    path: "1.08 Senjou - Kouyou 【Tsujou BATTLE 1】.brstm"
+    type: battle
+  - id: battlefield_death_s_crossroad
+    title: "Battlefield - Death's Crossroad"
+    path: "1.12 Senjou - Shi ga Wakatsu Juujiro 【Tsujou BATTLE 9】.brstm"
+    type: battle
+  - id: tumult_twilight_of_all_life
+    title: "Tumult - Twilight of All Life"
+    path: "1.14 Senran - Ikitoshi Ikeru Mono no Tasogare 【BOSS BATTLE 7】.brstm"
+    type: battle
+  - id: labyrinth_i_waterfall_wood_etrian_odyssey_nexus_ver
+    title: "Labyrinth I - Waterfall Wood (Etrian Odyssey Nexus Ver.)"
+    path: "2.02 Meikyuu I - Tarumi no Jukai (Sekaiju no Meikyuu X Ver.) 【DUNGEON Dai Shi Meikyuu】.brstm"
+    type: break
+  - id: battlefield_the_first_battle_etrian_odyssey_nexus_ver
+    title: "Battlefield - The First Battle (Etrian Odyssey Nexus Ver.)"
+    path: "2.03 Senjou - Uijin (Sekaiju no Meikyuu X Ver.) 【Tsujou BATTLE 4】.brstm"
+    type: battle
+  - id: battlefield_is_this_blood_thine_or_the_enemy_s_etrian_odyssey_nexus_ver
+    title: "Battlefield - Is this Blood Thine or the Enemy's? (Etrian Odyssey Nexus Ver.)"
+    path: "2.04 Senjou - Sono Senketsu ha Teki ka Nanji ka (Sekaiju no Meikyuu X Ver.) 【F.O.E BATTLE 4】.brstm"
+    type: battle
+  - id: tumult_raise_thy_sword_in_pride_etrian_odyssey_nexus_ver
+    title: "Tumult - Raise Thy Sword in Pride (Etrian Odyssey Nexus Ver.)"
+    path: "2.05 Senran - Ken wo Kakage Hokori wo Mune ni (Sekaiju no Meikyuu X Ver.) 【BOSS BATTLE 4】.brstm"
+    type: battle
+  - id: labyrinth_ii_undersea_grotto_etrian_odyssey_nexus_ver
+    title: "Labyrinth II - Undersea Grotto (Etrian Odyssey Nexus Ver.)"
+    path: "2.06 Meikyuu II - Karei no Mizurin (Sekaiju no Meikyuu X Ver.) 【DUNGEON Dai Hachi Meikyuu】.brstm"
+    type: betting
+  - id: tumult_call_that_dreadful_name_etrian_odyssey_nexus_ver
+    title: "Tumult - Call that Dreadful Name (Etrian Odyssey Nexus Ver.)"
+    path: "2.07 Senran - Sono Imubeki na wo Yobe (Sekaiju no Meikyuu X Ver.) 【LAST BOSS BATTLE】.brstm"
+    type: battle
+...

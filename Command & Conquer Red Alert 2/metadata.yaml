@@ -1,0 +1,23 @@
+---
+id: command_conquer_red_alert_2
+title: "Command & Conquer: Red Alert 2"
+platform: "PC"
+year: 2000
+songs: 
+  - id: grinder
+    title: "Grinder"
+    path: "Grinder.brstm"
+    type: battle
+  - id: destroy
+    title: "Destroy"
+    path: "09 - Frank Klepacki - Destroy.wav"
+    type: betting
+  - id: brain_freeze
+    title: "Brain Freeze"
+    path: "thememd0005.wav"
+    type: betting
+  - id: trance_l_vania
+    title: "Trance L Vania"
+    path: "thememd0010.wav"
+    type: betting
+...

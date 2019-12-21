@@ -1,0 +1,35 @@
+---
+id: victoria_ii
+title: "Victoria II"
+platform: "PC"
+year: 2010
+songs: 
+  - id: russia_1917
+    title: "Russia 1917"
+    path: "Victoria 2 Soundtrack - Russia 1917.mp3"
+    type: break
+  - id: royal_march
+    title: "Royal March"
+    path: "Victoria 2 Soundtrack - The Royal March.mp3"
+    type: betting
+  - id: independence_march
+    title: "Independence March"
+    path: "Victoria 2 Soundtrack - We Have Independence.mp3"
+    type: result
+  - id: winter_victoria_ii
+    title: "Winter"
+    path: "Victoria 2 Soundtrack - Winter.mp3"
+    type: break
+  - id: lament_for_the_queen_finale
+    title: "Lament For The Queen - Finale"
+    path: "Victoria II OST Lament For The Queen.mp3"
+    type: break
+  - id: death_of_prince_albert
+    title: "Death Of Prince Albert"
+    path: "Victoria 2 Soundtrack - Death of Prince Albert.mp3"
+    type: break
+  - id: johans_waltz
+    title: "Johans Waltz"
+    path: "Victoria 2 Soundtrack - Johans Waltz.mp3"
+    type: betting
+...

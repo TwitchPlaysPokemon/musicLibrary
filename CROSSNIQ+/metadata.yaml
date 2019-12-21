@@ -1,0 +1,59 @@
+---
+id: cossingq
+title: "CROSSNIQ+"
+platform: ["Switch", "PC"]
+year: 2019
+songs: 
+  - id: academiq
+    title: "ACADEMIQ"
+    path: "ACADEMIQ.brstm"
+    type: break
+  - id: artistiq
+    title: "ARTISTIQ"
+    path: "ARTISTIQ.brstm"
+    type: break
+  - id: confliq
+    title: "CONFLIQ"
+    path: "CONFLIQ.brstm"
+    type: betting
+  - id: cosmiq
+    title: "COSMIQ"
+    path: "COSMIQ.fsb"
+    type: betting
+  - id: logistiq
+    title: "LOGISTIQ"
+    path: "LOGISTIQ.brstm"
+    type: betting
+  - id: mechaniq
+    title: "MECHANIQ"
+    path: "MECHANIQ.brstm"
+    type: betting
+  - id: mosaiq
+    title: "MOSAIQ"
+    path: "MOSAIQ.fsb"
+    type: betting
+  - id: optimistiq
+    title: "OPTIMISTIQ"
+    path: "OPTIMISTIQ.brstm"
+    type: betting
+  - id: seismiq
+    title: "SEISMIQ"
+    path: "SEISMIQ.brstm"
+    type: battle
+  - id: shopaholiq_cross_domestic_product
+    title: "SHOPAHOLIQ (Cross Domestic Product)"
+    path: "SHOPAHOLIQ.fsb"
+    type: betting
+  - id: statistiq
+    title: "STATISTIQ"
+    path: "STATISTIQ.fsb"
+    type: result
+  - id: supersoniq_tempus_cubiq
+    title: "SUPERSONIQ (Tempus Cubiq)"
+    path: "SUPERSONIQ.brstm"
+    type: betting
+  - id: crossinq_title
+    title: "CROSSNIQ (Title)"
+    path: "TITLE EQ.brstm"
+    type: break
+...

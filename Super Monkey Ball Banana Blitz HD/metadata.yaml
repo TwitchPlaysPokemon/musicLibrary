@@ -1,0 +1,31 @@
+---
+id: super_monkey_ball_banana_blitz_hd
+title: "Super Monkey Ball: Banana Blitz HD"
+platform: "Various"
+year: 2019
+songs: 
+  - id: banana_na_in_love _instrumental_main_menu
+    title: "BANANA~NA in Love （Instrumental） (Main Menu)"
+    path: "selector.hca"
+    type: result
+  - id: mollusk_king_octopocus
+    title: "Mollusk king (Octopocus)"
+    path: "tako.hca"
+    type: battle
+  - id: landing_on_a_new_island_monkey_island
+    title: "Landing On A New Island! (Monkey Island)"
+    path: "world1_island.hca"
+    type: betting
+  - id: khafre_s_trials_detritus_desert
+    title: "Khafre's Trials (Detritus Desert)"
+    path: "world4_sand.hca"
+    type: betting
+  - id: swamps_of_side_chain_sinking_Swamp
+    title: "Swamps Of Side Chain (Sinking Swamp)"
+    path: "world9_swamp.hca"
+    type: betting
+  - id: skies_ultra_heaven
+    title: "skies (Ultra Heaven)"
+    path: "world10_sky.hca"
+    type: betting
+...

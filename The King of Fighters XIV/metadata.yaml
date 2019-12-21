@@ -1,0 +1,23 @@
+---
+id: the_king_of_fighters_xiv
+title: "The King of Fighters XIV"
+platform: ["Arcade", "PS3", "PC"]
+year: 2016
+songs: 
+  - id: follow_me_full_ver
+    title: "FOLLOW ME (Full ver.)"
+    path: "The King of Fighters XIV - Follow Me.mp3"
+    type: betting
+  - id: follow_me_instrumental_ver
+    title: "FOLLOW ME (Instrumental ver.)"
+    path: "bgm_main_menu.pos"
+    type: battle
+  - id: tiger_dragon_art_of_fighting_team_bgm
+    title: "Tiger & Dragon (ART OF FIGHTING TEAM BGM)"
+    path: "bgm_st_02_ryu.pos"
+    type: betting
+  - id: independence_from_an_aggregate_verse_bgm
+    title: "Independence from an Aggregate (Verse BGM)"
+    path: "bgm_st_18_lbs.pos"
+    type: battle
+...

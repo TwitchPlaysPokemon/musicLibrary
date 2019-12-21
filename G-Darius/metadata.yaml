@@ -1,0 +1,15 @@
+---
+id: g_darius
+title: "G-Darius"
+platform: ["Arcade", "PS1", "PC"]
+year: 1997
+songs: 
+  - id: adam
+    title: "Adam"
+    path: "SLUS-00690_BGM2_000024fc.brstm"
+    type: battle
+  - id: kimera_ii
+    title: "KIMERA II"
+    path: "SLUS-00690_BGM1_00002e2c.XA"
+    type: betting
+...

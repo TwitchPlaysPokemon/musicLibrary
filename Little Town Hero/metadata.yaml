@@ -1,0 +1,103 @@
+---
+id: little_town_hero
+title: "Little Town Hero"
+platform: "2019"
+year: Switch
+songs: 
+  - id: field_coal_mine
+    title: "Field (Coal Mine)"
+    path: "bgm_cb_field_coal.wem"
+    type: betting
+  - id: angard_battle
+    title: "Angard Battle"
+    path: "bgm_cb_bt_000.wem"
+    type: battle
+  - id: the_past
+    title: "The Past"
+    path: "bgm_cb_ev_past.wem"
+    type: betting
+  - id: kids_plan
+    title: "Kids' Plan"
+    path: "bgm_cb_ev_kids_plan.wem"
+    type: warning
+  - id: matock_battle
+    title: "Matock Battle"
+    path: "bgm_cb_bt_kids.wem"
+    type: battle
+  - id: monster_battle_1
+    title: "Monster Battle 1"
+    path: "bgm_cb_bt_001.wem"
+    type: battle
+  - id: field_farm
+    title: "Field (Farm)"
+    path: "bgm_cb_field_farm.wem"
+    type: betting
+  - id: sheep_battle
+    title: "Sheep Battle"
+    path: "bgm_cb_bt_fun.wem"
+    type: battle
+  - id: monster_battle_2
+    title: "Monster Battle 2"
+    path: "bgm_cb_bt_002.wem"
+    type: battle
+  - id: pasmina_s_theme_ver_2
+    title: "Pasmina's Theme (Ver 2)"
+    path: "bgm_cb_ev_girl_02.wem"
+    type: result
+  - id: monster_battle_3
+    title: "Monster Battle 3"
+    path: "bgm_cb_bt_003.wem"
+    type: battle
+  - id: monster_battle_4
+    title: "Monster Battle 4"
+    path: "bgm_cb_bt_004.wem"
+    type: battle
+  - id: sad
+    title: "Sad"
+    path: "bgm_cb_ev_sad.wem"
+    type: break
+  - id: monster_battle_5
+    title: "Monster Battle 5"
+    path: "bgm_cb_bt_005.wem"
+    type: battle
+  - id: monster_battle_6
+    title: "Monster Battle 6"
+    path: "bgm_cb_bt_006.wem"
+    type: battle
+  - id: monster_battle_7
+    title: "Monster Battle 7"
+    path: "bgm_cb_bt_007.wem"
+    type: battle
+  - id: monster_battle_8
+    title: "Monster Battle 8"
+    path: "bgm_cb_bt_009.wem"
+    type: battle
+  - id: monster_battle_9
+    title: "Monster Battle 9"
+    path: "bgm_cb_bt_010.wem"
+    type: battle
+  - id: monster_battle_10
+    title: "Monster Battle 10"
+    path: "bgm_cb_bt_011.wem"
+    type: battle
+  - id: inside_the_castle
+    title: "Inside the Castle"
+    path: "bgm_cb_ev_castle_01.wem"
+    type: betting
+  - id: mystic_sonata_2
+    title: "Mystic Sonata 2"
+    path: "bgm_cb_sonota_mystic_02.wem"
+    type: warning
+  - id: last_battle_little_town_hero
+    title: "Last Battle"
+    path: "bgm_cb_bt_last.wem"
+    type: battle
+  - id: the_hero_s_theme
+    title: "The Hero's Theme"
+    path: "bgm_cb_sonota_hero.wem"
+    type: betting
+  - id: ending_little_town_hero
+    title: "Ending"
+    path: "bgm_cb_ending.wem"
+    type: betting
+...

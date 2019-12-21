@@ -1,0 +1,15 @@
+---
+id: the_king_of_fighters_xi
+title: "The King of Fighters XI"
+platform: ["Arcade", "PS2"]
+year: 2005
+songs: 
+  - id: playerselect
+    title: "PlayerSelect"
+    path: "Arcade - 03 - Player Select (SHA-V - SNK Playmore).adx"
+    type: warning
+  - id: an_improvised_concerto
+    title: "an improvised concerto"
+    path: "Arcade - 26 - An Improvised Concerto (SHA-V - SNK Playmore).adx"
+    type: battle
+...

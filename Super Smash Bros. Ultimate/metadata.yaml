@@ -626,4 +626,76 @@ songs:
     title: "Vs. Klungo"
     path: "bk08_bk2_vsklungo.lopus"
     type: battle
+  - id: haremar_faith_capoeira_school_song_of_the_fight_believers_will_be_saved_fatal_fury
+    title: "Haremar Faith Capoeira School - Song of the Fight (Believers Will Be Saved) - FATAL FURY"
+    path: "gd03_gd_halemakyocapoereha_tatakainouta.nus3audio"
+    ends: 3:05
+    type: betting
+  - id: kurikinton_fatal_fury_2
+    title: "Kurikinton - FATAL FURY 2"
+    path: "gd02_gd2_kurikinton.nus3audio"
+    type: battle
+  - id: pasta_fatal_fury_2
+    title: "Pasta - FATAL FURY 2"
+    path: "gd05_gd2_pasta.nus3audio"
+    type: betting
+  - id: tarkun_and_kitapy_fatal_fury_2
+    title: "Tarkun and Kitapy - FATAL FURY 2"
+    path: "gd07_gd2_takuntokitap.nus3audio"
+    type: battle
+  - id: let_s_go_to_seoul_fatal_fury_2
+    title: "Let's Go to Seoul! - FATAL FURY 2"
+    path: "gd08_gd2_seoulniikou.nus3audio"
+    type: battle
+  - id: the_london_march_fatal_fury_2
+    title: "The London March - FATAL FURY 2"
+    path: "gd09_gd2_londonmarch.nus3audio"
+    type: battle
+  - id: 11th_street_fatal_fury_wild_ambition
+    title: "11th Street - FATAL FURY WILD AMBITION"
+    path: "gd16_gdwa_11thstreet.nus3audio"
+    type: betting
+  - id: stormy_saxophone_2_kof_96
+    title: "Stormy Saxophone 2 - KOF '96"
+    path: "gd18_kof96_arashinosaxophone.nus3audio"
+    type: battle
+  - id: theme_of_syd_alpha_mission
+    title: "Theme of SYD - Alpha Mission"
+    path: "gd39_aso_themeofsyd.nus3audio"
+    type: battle
+  - id: forest_world_athena
+    title: "Forest World - Athena"
+    path: "gd40_atn_morinosekai.nus3audio"
+    type: betting
+  - id: psycho_soldier_theme
+    title: "Psycho Soldier Theme"
+    path: "gd41_psy_psychosoldiertheme_jp.nus3audio"
+    ends: 3:01
+    type: betting
+  - id: psycho_soldier_theme_overseas_version
+    title: "Psycho Soldier Theme (Overseas Version)"
+    path: "gd42_psy_psychosoldiertheme_en.nus3audio"
+    ends: 3:01
+    type: betting
+  - id: art_of_fight_art_of_fighting
+    title: "ART of FIGHT - Art of Fighting"
+    path: "gd43_ryk_artoffight.nus3audio"
+    type: battle
+  - id: banquet_of_nature_samurai_shodown
+    title: "Banquet of Nature - SAMURAI SHODOWN"
+    path: "gd45_ssp_shizennoutage.nus3audio"
+    ends: 2:35
+    type: betting
+  - id: gaia_samurai_shodown
+    title: "Gaia - SAMURAI SHODOWN"
+    path: "gd46_ssp_daichi.nus3audio"
+    type: battle
+  - id: main_theme_from_metal_slug_metal_slug
+    title: "Main Theme from Metal Slug - METAL SLUG"
+    path: "gd48_mts1_maintheme.nus3audio"
+    type: betting
+  - id: assault_theme_metal_slug_1_3
+    title: "Assault Theme - METAL SLUG 1-3"
+    path: "gd49_mts1_3_assaulttheme.nus3audio"
+    type: battle
 ...

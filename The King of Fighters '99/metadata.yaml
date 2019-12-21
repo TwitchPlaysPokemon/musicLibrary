@@ -1,5 +1,5 @@
 ---
-id: kof_99
+id: the_king_of_fighters_99_millennium_battle
 title: "The King of Fighters '99: Millennium Battle"
 series: kof
 platform: "Neo-Geo"
@@ -13,6 +13,10 @@ songs:
     title: "Standby (How To Play ~ Player Select)"
     path: "03 Standby (How to Play _ Player Select).vgz"
     type: warning
+  - id: kd_0079_hero_team_theme
+    title: "KD-0079 (Hero Team Theme)"
+    path: "05 KD-0079 (Hero Team Theme).vgz"
+    type: battle
   - id: the_way_to_rebirth_korea_team_theme
     title: "The way to rebirth (Korea Team Theme)"
     path: "13 The Way to Rebirth (Korea Team Theme).vgz"
