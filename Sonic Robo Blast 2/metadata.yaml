@@ -6,12 +6,12 @@ is_fanwork: true
 platform: "PC"
 year: 1998
 songs:
-  - id: aerial_garden_zone_acts_1_2
-    title: "Aerial Garden Zone Acts 1-2"
+  - id: aerial_garden_zone_acts_1_2_old
+    title: "Aerial Garden Zone Acts 1-2 (Pre-2.2)"
     path: "Aerial Garden Zone Acts 1-2.logg"
     type: betting
   - id: aerial_garden_zone_acts_3_4
-    title: "Aerial Garden Zone Acts 3-4"
+    title: "Aerial Garden Zone Acts 3-4 (Pre-2.2)"
     path: "Aerial Garden Zone Acts 3-4.logg"
     type: betting
   - id: alt_arid_canyon_zone_act_1_unused
@@ -46,36 +46,36 @@ songs:
     title: "Alt.2 Arid Canyon Zone Act 1 (Unused)"
     path: "Alt.2 Arid Canyon Zone Act 1 (Unused).logg"
     type: betting
-  - id: arid_canyon_zone_act_1
-    title: "Arid Canyon Zone Act 1"
+  - id: arid_canyon_zone_act_1_old
+    title: "Arid Canyon Zone Act 1 (Pre-2.2)"
     path: "Arid Canyon Zone Act 1.logg"
     type: betting
   - id: arid_canyon_zone_act_2_unused
     title: "Arid Canyon Zone Act 2 (Unused)"
     path: "Arid Canyon Zone Act 2 (Unused).logg"
     type: betting
-  - id: azure_temple_zone
-    title: "Azure Temple Zone"
+  - id: azure_temple_zone_old
+    title: "Azure Temple Zone (Pre-2.2)"
     path: "Azure Temple Zone.logg"
     type: betting
   - id: blue_mountain_zone_act_2_unused
     title: "Blue Mountain Zone Act 2 (Unused)"
     path: "Blue Mountain Zone Act 2 (Unused).logg"
     type: betting
-  - id: boss_battle_sonic_robo_blast_2
-    title: "Boss Battle"
+  - id: boss_battle_srb2_1
+    title: "Boss Battle (Pre-2.2)"
     path: "Boss Battle.logg"
     type: warning
-  - id: castle_eggman_zone_act_1
-    title: "Castle Eggman Zone Act 1"
+  - id: castle_eggman_zone_act_1_old
+    title: "Castle Eggman Zone Act 1 (Pre-2.2)"
     path: "Castle Eggman Zone Act 1.logg"
     type: betting
-  - id: castle_eggman_zone_act_2
-    title: "Castle Eggman Zone Act 2"
+  - id: castle_eggman_zone_act_2_old
+    title: "Castle Eggman Zone Act 2 (Pre-2.2)"
     path: "Castle Eggman Zone Act 2.logg"
     type: betting
-  - id: character_select_srb2
-    title: "Character Select"
+  - id: character_select_srb2_1
+    title: "Character Select (Pre-2.2)"
     path: "Character Select.logg"
     type: warning
   - id: credits_2_0_x
@@ -87,68 +87,68 @@ songs:
     title: "Dark City Zone Act 1 (Unused)"
     path: "Dark City Zone Act 1 (Unused).logg"
     type: betting
-  - id: deep_sea_zone_act_1
-    title: "Deep Sea Zone Act 1"
+  - id: deep_sea_zone_act_1_old
+    title: "Deep Sea Zone Act 1 (Pre-2.2)"
     path: "Deep Sea Zone Act 1.logg"
     type: betting
-  - id: deep_sea_zone_act_2
-    title: "Deep Sea Zone Act 2"
+  - id: deep_sea_zone_act_2_old
+    title: "Deep Sea Zone Act 2 (Pre-2.2)"
     path: "Deep Sea Zone Act 2.logg"
     type: betting
-  - id: desolate_twilight_zone
-    title: "Desolate Twilight Zone"
+  - id: desolate_twilight_zone_old
+    title: "Desolate Twilight Zone (Pre-2.2)"
     path: "Desolate Twilight Zone.logg"
     type: betting
-  - id: dusty_wasteland_zone
-    title: "Dusty Wasteland Zone"
+  - id: dusty_wasteland_zone_old
+    title: "Dusty Wasteland Zone (Pre-2.2)"
     path: "Dusty Wasteland Zone.logg"
     type: betting
-  - id: egg_rock_core_zone
-    title: "Egg Rock Core Zone"
+  - id: egg_rock_core_zone_old
+    title: "Egg Rock Core Zone (Pre-2.2)"
     path: "Egg Rock Core Zone.logg"
     type: betting
-  - id: egg_rock_zone_act_1
-    title: "Egg Rock Zone Act 1"
+  - id: egg_rock_zone_act_1_old
+    title: "Egg Rock Zone Act 1 (Pre-2.2)"
     path: "Egg Rock Zone Act 1.logg"
     type: betting
-  - id: egg_rock_zone_act_2
-    title: "Egg Rock Zone Act 2"
+  - id: egg_rock_zone_act_2_old
+    title: "Egg Rock Zone Act 2 (Pre-2.2)"
     path: "Egg Rock Zone Act 2.logg"
     type: betting
-  - id: egg_rock_zone_act_3
-    title: "Egg Rock Zone Act 3"
+  - id: egg_rock_zone_act_3_old
+    title: "Egg Rock Zone Act 3 (Pre-2.2)"
     path: "Egg Rock Zone Act 3.logg"
     type: warning
-  - id: flame_rift_zone
-    title: "Flame Rift Zone"
+  - id: flame_rift_zone_old
+    title: "Flame Rift Zone (Pre-2.2)"
     path: "Flame Rift Zone.logg"
     type: betting
   - id: grand_eggship_zone_act_1_unused
     title: "Grand Eggship Zone Act 1 (Unused)"
     path: "Grand Eggship Zone Act 1 (Unused).logg"
     type: betting
-  - id: granite_lake_zone
-    title: "Granite Lake Zone"
+  - id: granite_lake_zone_old
+    title: "Granite Lake Zone (Pre-2.2)"
     path: "Granite Lake Zone.logg"
     type: betting
-  - id: greenflower_zone_act_1
-    title: "Greenflower Zone Act 1"
+  - id: greenflower_zone_act_1_old
+    title: "Greenflower Zone Act 1 (Pre-2.2)"
     path: "Greenflower Zone Act 1.logg"
     type: betting
-  - id: greenflower_zone_act_2
-    title: "Greenflower Zone Act 2"
+  - id: greenflower_zone_act_2_old
+    title: "Greenflower Zone Act 2 (Pre-2.2)"
     path: "Greenflower Zone Act 2.logg"
     type: betting
-  - id: jade_coast_zone
-    title: "Jade Coast Zone"
+  - id: jade_coast_zone_old
+    title: "Jade Coast Zone (Pre-2.2)"
     path: "Jade Coast Zone.logg"
     type: betting
-  - id: jade_valley_zone
-    title: "Jade Valley Zone"
+  - id: jade_valley_zone_old
+    title: "Jade Valley Zone (Pre-2.2)"
     path: "Jade Valley Zone.logg"
     type: betting
-  - id: knothole_base_zone
-    title: "Knothole Base Zone"
+  - id: knothole_base_zone_ol
+    title: "Knothole Base Zone (Pre-2.2)"
     path: "Knothole Base Zone.logg"
     type: result
   - id: mario_koopa_blast_zone_3_unused
@@ -159,88 +159,88 @@ songs:
     title: "Meadow Match Zone"
     path: "Meadow Match Zone.logg"
     type: betting
-  - id: metal_sonic_battle
-    title: "Metal Sonic Battle"
+  - id: metal_sonic_battle_old
+    title: "Metal Sonic Battle (Pre-2.2)"
     path: "Metal Sonic Battle.logg"
     type: battle
-  - id: midnight_freeze_zone
-    title: "Midnight Freeze Zone"
+  - id: midnight_freeze_zone_old
+    title: "Midnight Freeze Zone (Pre-2.2)"
     path: "Midnight Freeze Zone.logg"
     type: betting
   - id: mine_maze_zone_act_1_unused
     title: "Mine Maze Zone Act 1 (Unused)"
     path: "Mine Maze Zone Act 1 (Unused).logg"
     type: betting
-  - id: multiplayer_intermission
-    title: "Multiplayer Intermission"
+  - id: multiplayer_intermission_old
+    title: "Multiplayer Intermission (Pre-2.2)"
     path: "Multiplayer Intermission.logg"
     type: result
-  - id: mystic_realm_boss
-    title: "Mystic Realm Boss"
+  - id: mystic_realm_boss_old
+    title: "Mystic Realm Boss (Pre-2.2)"
     path: "Mystic Realm Boss.logg"
     type: battle
-  - id: mystic_realm_zone_mr_final_boss
-    title: "Mystic Realm Zone"
+  - id: mystic_realm_zone_mr_final_boss_old
+    title: "Mystic Realm Zone (Pre-2.2)"
     path: "Mystic Realm Zone (MR Final Boss).logg"
     type: warning
-  - id: nimbus_ruins_zone
-    title: "Nimbus Ruins Zone"
+  - id: nimbus_ruins_zone_old
+    title: "Nimbus Ruins Zone (Pre-2.2)"
     path: "Nimbus Ruins Zone.logg"
     type: betting
-  - id: orbital_hangar_zone
-    title: "Orbital Hangar Zone"
+  - id: orbital_hangar_zone_old
+    title: "Orbital Hangar Zone (Pre-2.2)"
     path: "Orbital Hangar Zone.logg"
     type: warning
-  - id: pipe_towers_zone_underground
-    title: "Pipe Towers Zone (Underground)"
+  - id: pipe_towers_zone_underground_old
+    title: "Pipe Towers Zone (Underground) (Pre-2.2)"
     path: "Pipe Towers Zone (Underground).logg"
     type: warning
-  - id: pipe_towers_zone
-    title: "Pipe Towers Zone"
+  - id: pipe_towers_zone_old
+    title: "Pipe Towers Zone (Pre-2.2)"
     path: "Pipe Towers Zone.logg"
     type: betting
-  - id: prismatic_angel_zone
-    title: "Prismatic Angel Zone"
+  - id: prismatic_angel_zone_old
+    title: "Prismatic Angel Zone (Pre-2.2)"
     path: "Prismatic Angel Zone.logg"
     type: betting
-  - id: red_volcano_zone_act_1
-    title: "Red Volcano Zone Act 1"
+  - id: red_volcano_zone_act_1_old
+    title: "Red Volcano Zone Act 1 (Pre-2.2)"
     path: "Red Volcano Zone Act 1.logg"
     type: warning
-  - id: sapphire_falls_zone
-    title: "Sapphire Falls Zone"
+  - id: sapphire_falls_zone_old
+    title: "Sapphire Falls Zone (Pre-2.2)"
     path: "Sapphire Falls Zone.logg"
     type: betting
-  - id: silver_cascade_zone
-    title: "Silver Cascade Zone"
+  - id: silver_cascade_zone_old
+    title: "Silver Cascade Zone (Pre-2.2)"
     path: "Silver Cascade Zone.logg"
     type: betting
   - id: special_stage_old_unused
     title: "Special Stage (Old, Unused)"
     path: "Special Stage (Old, Unused).logg"
     type: betting
-  - id: spring_hill_zone
-    title: "Spring Hill Zone"
+  - id: spring_hill_zone_old
+    title: "Spring Hill Zone (Pre-2.2)"
     path: "Spring Hill Zone.logg"
     type: betting
-  - id: sunken_plant_zone
-    title: "Sunken Plant Zone"
+  - id: sunken_plant_zone_old
+    title: "Sunken Plant Zon (Pre-2.2)e"
     path: "Sunken Plant Zone.logg"
     type: betting
-  - id: techno_hill_zone_act_1
-    title: "Techno Hill Zone Act 1"
+  - id: techno_hill_zone_act_1_old
+    title: "Techno Hill Zone Act 1 (Pre-2.2)"
     path: "Techno Hill Zone Act 1.logg"
     type: betting
   - id: techno_hill_zone_act_2
-    title: "Techno Hill Zone Act 2"
+    title: "Techno Legacy Zone"
     path: "Techno Hill Zone Act 2.logg"
     type: betting
-  - id: tempest_valley_zone
-    title: "Tempest Valley Zone"
+  - id: tempest_valley_zone_old
+    title: "Tempest Valley Zone (Pre-2.2)"
     path: "Tempest Valley Zone.logg"
     type: betting
-  - id: verdant_forest_zone
-    title: "Verdant Forest Zone"
+  - id: verdant_forest_zone_old
+    title: "Verdant Forest Zone (Pre-2.2)"
     path: "Verdant Forest Zone.logg"
     type: betting
   - id: zero_ring_zone_unused
