@@ -231,7 +231,7 @@ songs:
     title: "The Legendary Pokémon Appears!"
     path: "169 The Legendary Pokemon Appears!.mini2sf"
     type: warning
-  - id: catastrophe
+  - id: catastrophe_dp
     title: "Catastrophe!"
     path: "170 Natural Disaster!.mini2sf"
     type: warning
@@ -375,7 +375,7 @@ songs:
     title: "Game Corner"
     path: "229 Game Corner.mini2sf"
     type: betting
-  - id: you_re_a_winner
+  - id: you_re_a_winner_dp
     title: "You're a Winner!"
     path: "230 Win at the Slots.mini2sf"
     type: result
@@ -413,7 +413,7 @@ songs:
     title: "Route 210 (Night)"
     path: "238 Route 210 (Nighttime).mini2sf"
     type: betting
-  - id: a_poke_radar_hit
+  - id: a_poke_radar_hit_dp
     title: "A Poké Radar Hit!"
     path: "239 As Seen on TV!.mini2sf"
     type: warning
@@ -437,7 +437,7 @@ songs:
     title: "Contest Hall"
     path: "245 Contest Hall.mini2sf"
     type: betting
-  - id: poffins
+  - id: poffins_dp
     title: "Poffins"
     path: "246 Poffin.mini2sf"
     type: betting
@@ -457,7 +457,7 @@ songs:
     title: "Contest: Results Announcement"
     path: "251 Announcing the Contest Results.mini2sf"
     type: result
-  - id: contest_winner
+  - id: contest_winner_dp
     title: "Contest: Winner"
     path: "252 Won the Contest!.mini2sf"
     type: result
@@ -533,7 +533,7 @@ songs:
     title: "Ending Theme"
     path: "271 Ending.mini2sf"
     type: betting
-  - id: battle_arceus
+  - id: battle_arceus_dp
     title: "Battle! Arceus!"
     path: "303 Battle! Arceus!.mini2sf"
     type: battle
