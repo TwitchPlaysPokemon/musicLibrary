@@ -9,4 +9,64 @@ songs:
     title: "Main Theme"
     path: "bgm_title02.logg"
     type: result
+  - id: battle_rainbow_rocket_giovanni_mewtwo_pokemon_masters
+    title: "Battle! (Rainbow Rocket Giovanni & Mewtwo)"
+    path: "Battle! (Rainbow Rocket Giovanni & Mewtwo) Pokémon Masters.brstm"
+    type: battle
+  - id: battle_rival_barry
+    title: "Battle! (Rival Barry)"
+    path: "Battle! (Rival Barry) Pokémon Masters Soundtrack.brstm"
+    type: battle
+  - id: battle_alola_elite_four
+    title: "Battle! (Alola Elite Four)"
+    path: "Battle! Alola Elite Four - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_alola_island_kahuna
+    title: "Battle! (Alola Island Kahuna)"
+    path: "Battle! Alola Island Kahuna - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_champion_blue
+    title: "Battle! (Champion Blue)"
+    path: "Battle! Champion Blue Pokémon Masters - Reach for the Top.brstm"
+    type: battle
+  - id: battle_hoenn_elite_four
+    title: "Battle! (Hoenn Elite Four)"
+    path: "Battle! Hoenn Elite Four - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_hoenn_gym_leader
+    title: "Battle! (Hoenn Gym Leader)"
+    path: "Battle! Hoenn Gym Leader - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_lear
+    title: "Battle! (Lear)"
+    path: "Battle! Lear Pokémon Masters Soundtrack.brstm"
+    type: battle
+  - id: battle_sinnoh_elite_four
+    title: "Battle! (Sinnoh Elite Four)"
+    path: "Battle! Sinnoh Elite Four - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_unova_elite_four
+    title: "Battle! (Unova Elite Four)"
+    path: "Battle! Unova Elite Four - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_unova_gym_leader
+    title: "Battle! (Unova Gym Leader)"
+    path: "Battle! Unova Gym Leader - Pokémon Masters Music.brstm"
+    type: battle
+  - id: encounter_blue
+    title: "Encounter! (Blue)"
+    path: "Encounter! Blue Pokémon Masters - Reach for the Top.brstm"
+    type: warning
+  - id: encounter_cynthia
+    title: "Encounter! (Cynthia)"
+    path: "Encounter! Cynthia Pokémon Masters.brstm"
+    type: betting
+  - id: pokemart_pokemon_masters
+    title: "Poké Mart"
+    path: "PokéMart Pokémon Masters Soundtrack.brstm"
+    type: betting
+  - id: battle_johto_gym_leader
+    title: "Battle! (Johto Gym Leader)"
+    path: "Pokémon Masters OST Johto Gym Leader Battle Music.brstm"
+    type: battle
 ...

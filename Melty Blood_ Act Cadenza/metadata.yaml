@@ -4,12 +4,16 @@ title: "Melty Blood: Act Cadenza"
 platform: "PS2"
 year: 2006
 songs: 
-  - id: break_modernism_street_special_stage
-    title: "Modernism Street (Special Stage)"
-    path: "BGMME20.ADX"
-    type: betting
   - id: assailant_character_select_ver_b
     title: "Assailant / Character Select (ver.B)"
-    path: "Assailant.brstm"
+    path: "99.txtp"
     type: warning
+  - id: wonderful_boy_shiki_stage
+    title: "Wonderful boy (Shiki Stage)"
+    path: "BGMME20.ADX"
+    type: betting
+  - id: modernism_street_special_stage
+    title: "Modernism Street (Special Stage)"
+    path: "28.txtp"
+    type: betting
 ...

@@ -1,96 +1,96 @@
 ---
 id: pokemon_diamond_pearl
-title: "Pokémon Diamond/Pearl"
+title: "Pokémon Diamond & Pearl"
 series: pokemon
 platform: "NDS"
 year: 2007
 songs: 
-  - id: opening_pokemon_dp
-    title: "Opening"
+  - id: opening_movie_dp
+    title: "Opening Movie"
     path: "102 Opening.mini2sf"
     type: betting
   - id: special_report_search_for_the_red_gyarados
     title: "Special Report: \"Search for the Red Gyarados!\""
     path: "103a Special program 'Search for the Red Gyarados!' (Part 1).mini2sf"
     type: warning
-  - id: twinleaf_town_daytime
-    title: "Twinleaf Town (Daytime)"
+  - id: twinleaf_town_day
+    title: "Twinleaf Town (Day)"
     path: "104 Twinleaf Town (Daytime).mini2sf"
     type: betting
   - id: rival_dp
     title: "Rival"
     path: "105 Rival.mini2sf"
     type: warning
-  - id: route_201_daytime
-    title: "Route 201 (Daytime)"
+  - id: route_201_day
+    title: "Route 201 (Day)"
     path: "106 Route 201 (Daytime).mini2sf"
     type: betting
   - id: lake_dp
     title: "Lake"
     path: "107 Lake.mini2sf"
     type: betting
-  - id: encounter_at_thelake
-    title: "Encounter at the Lake!"
+  - id: a_surprise_at_the_lake
+    title: "A Surprise at the Lake!"
     path: "108 Encounter at the Lake!.mini2sf"
     type: warning
   - id: battle_wild_pokemon_dp
-    title: "Battle! Wild Pokémon"
+    title: "Battle! (Wild Pokémon)"
     path: "109 Battle! Wild Pokemon.mini2sf"
     type: battle
   - id: wild_pokemon_defeated_dp
-    title: "Wild Pokémon Defeated!"
+    title: "Victory! (Wild Pokémon)"
     path: "110 Wild Pokemon Defeated!.mini2sf"
     type: result
   - id: dawn_dp
     title: "Dawn"
     path: "111 Dawn.mini2sf"
     type: betting
-  - id: sandgem_town_daytime
-    title: "Sandgem Town (Daytime)"
+  - id: sandgem_town_day
+    title: "Sandgem Town (Day)"
     path: "113 Sandgem Town (Daytime).mini2sf"
     type: betting
-  - id: research_lab_dp
-    title: "Research Lab"
+  - id: the_pokemon_lab_dp
+    title: "The Pokémon Lab"
     path: "114 Research Lab.mini2sf"
     type: betting
-  - id: come_with_me_dp
-    title: "Come With Me"
+  - id: hurry_along_dp
+    title: "Hurry Along"
     path: "115 Come With Me.mini2sf"
     type: warning
-  - id: pokemon_center_daytime
-    title: "Pokémon Center (Daytime)"
+  - id: pokemon_center_day
+    title: "Pokémon Center (Day)"
     path: "116 Pokemon Center (Daytime).mini2sf"
     type: betting
-  - id: encounter_kid_dp
-    title: "Encounter! Kid"
+  - id: trainers_eyes_meet_youngster_dp
+    title: "Trainers' Eyes Meet (Youngster)"
     path: "118 Encounter! Kid.mini2sf"
     type: warning
-  - id: encounter_miniskirt_dp
-    title: "Encounter! Miniskirt"
+  - id: trainers_eyes_meet_lass_dp
+    title: "Trainers' Eyes Meet (Lass)"
     path: "119 Encounter! Miniskirt.mini2sf"
     type: warning
-  - id: battle_trainer_dp
-    title: "Battle! Trainer"
+  - id: battle_trainer_battle_dp
+    title: "Battle! (Trainer Battle)"
     path: "120 Battle! Trainer.mini2sf"
     type: battle
-  - id: trainer_defeated_dp
-    title: "Trainer Defeated!"
+  - id: victory_trainer_battle_dp
+    title: "Victory! (Trainer Battle)"
     path: "121 Trainer Defeated!.mini2sf"
     type: result
-  - id: jubilife_city_daytime
-    title: "Jubilife City (Daytime)"
+  - id: jubilife_city_day
+    title: "Jubilife City (Day)"
     path: "122 Jubilife City (Daytime).mini2sf"
     type: betting
-  - id: pokemart_dp
-    title: "Pokemart"
+  - id: poke_mart_dp
+    title: "Poké Mart"
     path: "124 Pokemart.mini2sf"
     type: betting
-  - id: route_203_daytime
-    title: "Route 203 (Daytime)"
+  - id: route_203_day
+    title: "Route 203 (Day)"
     path: "125 Route 203 (Daytime).mini2sf"
     type: betting
   - id: battle_rival_dp
-    title: "Battle! Rival"
+    title: "Battle! (Rival)"
     path: "126 Battle! Rival.mini2sf"
     type: battle
   - id: oreburgh_gate
@@ -106,51 +106,51 @@ songs:
     path: "131 Pokemon Gym.mini2sf"
     type: betting
   - id: gym_leader_dp
-    title: "Battle! Gym Leader"
+    title: "Battle! (Gym Leader)"
     path: "132 Battle! Gym Leader.mini2sf"
     type: battle
-  - id: gym_leader_defeated_dp
-    title: "Gym Leader Defeated!"
+  - id: victory_gym_leader_dp
+    title: "Victory! (Gym Leader)"
     path: "133 Gym Leader Defeated!.mini2sf"
     type: result
-  - id: encounter_twins_dp
-    title: "Encounter! Twins"
+  - id: trainers_eyes_meet_twins
+    title: "Trainers' Eyes Meet (Twins)"
     path: "135 Encounter! Twins.mini2sf"
     type: warning
-  - id: floaroma_town_daytime
-    title: "Floaroma Town (Daytime)"
+  - id: floaroma_town_day
+    title: "Floaroma Town (Day)"
     path: "137 Floaroma Town (Daytime).mini2sf"
     type: betting
-  - id: route_205_daytime
-    title: "Route 205 (Daytime)"
+  - id: route_205_day
+    title: "Route 205 (Day)"
     path: "139 Route 205 (Daytime).mini2sf"
     type: betting
-  - id: encounter_galactic
-    title: "Team Galactic Appears"
+  - id: team_galactic_appears
+    title: "Team Galactic Appears!"
     path: "140 Team Galactic Appears.mini2sf"
     type: warning
-  - id: battle_galactic
-    title: "Battle! Team Galactic"
+  - id: battle_team_galactic
+    title: "Battle! (Team Galactic)"
     path: "141 Battle! Team Galactic.mini2sf"
     type: battle
   - id: eterna_forest
     title: "Eterna Forest"
     path: "142 Eterna Forest.mini2sf"
     type: betting
-  - id: eterna_city_daytime_dp
-    title: "Eterna City (Daytime)"
+  - id: eterna_city_day
+    title: "Eterna City (Day)"
     path: "144 Eterna City (Daytime).mini2sf"
     type: betting
-  - id: team_galactic_building
-    title: "Team Galactic Building"
+  - id: galactic_eterna_building
+    title: "Galactic Eterna Building"
     path: "145 Team Galactic Building.mini2sf"
     type: betting
-  - id: battle_galactic_commander
-    title: "Battle! Team Galactic Commander"
+  - id: battle_team_galactic_commander
+    title: "Battle! (Team Galactic Commander)"
     path: "146 Battle! Team Galactic Commander.mini2sf"
     type: battle
-  - id: team_galactic_defeated
-    title: "Team Galactic Defeated!"
+  - id: victory_team_galactic
+    title: "Victory! (Team Galactic)"
     path: "147 Team Galactic Defeated!.mini2sf"
     type: result
   - id: evolution_dp
@@ -161,62 +161,62 @@ songs:
     title: "Bicycle"
     path: "150 Bicycle.mini2sf"
     type: result
-  - id: encounter_biker_dp
-    title: "Encounter! Biker"
+  - id: trainers_eyes_meet_cyclist_dp
+    title: "Trainers' Eyes Meet (Cyclist)"
     path: "151 Encounter! Biker.mini2sf"
     type: warning
-  - id: route_206_daytime
-    title: "Route 206 (Daytime)"
+  - id: route_206_day
+    title: "Route 206 (Day)"
     path: "152 Route 206 (Daytime).mini2sf"
     type: betting
-  - id: hearthome_city_daytime
-    title: "Hearthome City (Daytime)"
+  - id: hearthome_city_day
+    title: "Hearthome City (Day)"
     path: "153 Hearthome City (Daytime).mini2sf"
     type: betting
-  - id: route_209_daytime
-    title: "Route 209 (Daytime)"
+  - id: route_209_day
+    title: "Route 209 (Day)"
     path: "154 Route 209 (Daytime).mini2sf"
     type: betting
-  - id: encounter_hiker_dp
-    title: "Encounter! Hiker"
+  - id: trainers_eyes_meet_hiker_dp
+    title: "Trainers' Eyes Meet (Hiker)"
     path: "155 Encounter! Hiker.mini2sf"
     type: warning
-  - id: solaceon_town_daytime
-    title: "Solaceon Town (Daytime)"
+  - id: solaceon_town_day
+    title: "Solaceon Town (Day)"
     path: "156 Solaceon Town (Daytime).mini2sf"
     type: betting
-  - id: route_210_daytime
-    title: "Route 210 (Daytime)"
+  - id: route_210_day
+    title: "Route 210 (Day)"
     path: "158 Route 210 (Daytime).mini2sf"
     type: betting
-  - id: veilstone_city_daytime
-    title: "Veilstone City (Daytime)"
+  - id: veilstone_city_day
+    title: "Veilstone City (Dayt)"
     path: "159 Veilstone City (Daytime).mini2sf"
     type: betting
-  - id: valor_lakefront_daytime
-    title: "Valor Lakefront (Daytime)"
+  - id: valor_lakefront_day
+    title: "Valor Lakefront (Day)"
     path: "160 Valor Lakefront (Daytime).mini2sf"
     type: betting
-  - id: canalave_city_daytime
-    title: "Canalave City (Daytime)"
+  - id: canalave_city
+    title: "Canalave City"
     path: "161 Canalave City (Daytime).mini2sf"
     type: betting
-  - id: route_216_midday
-    title: "Route 216 (Midday)"
+  - id: route_216_day
+    title: "Route 216 (Day)"
     path: "162 Route 216 (Midday).mini2sf"
     tags: [xmas]
     type: betting
-  - id: snowpoint_city_daytime
-    title: "Snowpoint City (Daytime)"
+  - id: snowpoint_city_day
+    title: "Snowpoint City (Day)"
     path: "163 Snowpoint City (Daytime).mini2sf"
     tags: [xmas]
     type: betting
-  - id: team_galactic_hideout
-    title: "Team Galactic Hideout"
+  - id: team_galactic_hq
+    title: "Team Galactic HQ"
     path: "164 Team Galactic Hideout.mini2sf"
     type: betting
-  - id: battle_galactic_boss
-    title: "Battle! Team Galactic Boss"
+  - id: battle_team_galactic_boss
+    title: "Battle! (Team Galactic Boss)"
     path: "165 Battle! Team Galactic Boss.mini2sf"
     type: battle
   - id: mt_coronet
@@ -231,214 +231,214 @@ songs:
     title: "The Legendary Pokémon Appears!"
     path: "169 The Legendary Pokemon Appears!.mini2sf"
     type: warning
-  - id: natural_disaster
-    title: "Natural Disaster!"
+  - id: catastrophe
+    title: "Catastrophe!"
     path: "170 Natural Disaster!.mini2sf"
     type: warning
   - id: battle_dialga_palkia
-    title: "Battle! Dialga & Palkia"
+    title: "Battle! (Dialga/Palkia)"
     path: "171 Battle! Dialga & Palkia.mini2sf"
     type: battle
-  - id: sunyshore_city_daytime
-    title: "Sunyshore City (Daytime)"
+  - id: sunyshore_city_day
+    title: "Sunyshore City (Day)"
     path: "172 Sunyshore City (Daytime).mini2sf"
     type: betting
   - id: victory_road_dp
     title: "Victory Road"
     path: "173 Victory Road.mini2sf"
     type: betting
-  - id: encounter_ace_trainer_dp
-    title: "Encounter! Ace Trainer"
+  - id: trainers_eyes_meet_ace_trainer_dp
+    title: "Trainers' Eyes Meet (Ace Trainer)"
     path: "174 Encounter! Ace Trainer.mini2sf"
     type: warning
-  - id: pokemon_league_daytime
-    title: "Pokémon League (Daytime)"
+  - id: pokemon_league_day
+    title: "Pokémon League (Day)"
     path: "175 Pokemon League (Daytime).mini2sf"
     type: betting
-  - id: fight_area_daytime
-    title: "Fight Area (Daytime)"
+  - id: fight_area_day
+    title: "Fight Area (Day)"
     path: "176 Fight Area (Daytime).mini2sf"
     type: betting
-  - id: route_225_daytime
-    title: "Route 225 (Daytime)"
+  - id: route_225_day
+    title: "Route 225 (Day)"
     path: "177 Route 225 (Daytime).mini2sf"
     type: betting
-  - id: route_228_daytime
-    title: "Route 228 (Daytime)"
+  - id: route_228_day
+    title: "Route 228 (Day)"
     path: "178 Route 228 (Daytime).mini2sf"
     type: betting
-  - id: twinleaf_town_nighttime
-    title: "Twinleaf Town (Nighttime)"
+  - id: twinleaf_town_night
+    title: "Twinleaf Town (Night)"
     path: "201 Twinleaf Town (Nighttime).mini2sf"
     type: betting
-  - id: route_201_nighttime
-    title: "Route 201 (Nighttime)"
+  - id: route_201_night
+    title: "Route 201 (Night)"
     path: "202 Route 201 (Nighttime).mini2sf"
     type: betting
-  - id: pokemon_center_nighttime
-    title: "Pokémon Center (Nighttime)"
+  - id: pokemon_center_night
+    title: "Pokémon Center (Night)"
     path: "203 Pokemon Center (Nighttime).mini2sf"
     type: break
-  - id: wi_fi_dp
-    title: "Wi-Fi"
+  - id: nintendo_wi_fi_connection_dp
+    title: "Nintendo Wi-Fi Connection"
     path: "204 Wi-Fi.mini2sf"
     type: break
-  - id: sandgem_town_nighttime
-    title: "Sandgem Town (Nighttime)"
+  - id: sandgem_town_night
+    title: "Sandgem Town (Night)"
     path: "205 Sandgem Town (Nighttime).mini2sf"
     type: betting
   - id: lucas
     title: "Lucas"
     path: "206 Lucas.mini2sf"
     type: betting
-  - id: jubilife_city_nighttime
-    title: "Jubilife City (Nighttime)"
+  - id: jubilife_city
+    title: "Jubilife City"
     path: "207 Jubilife City (Nighttime).mini2sf"
     type: betting
-  - id: tv
-    title: "TV"
+  - id: tv_station
+    title: "TV Station"
     path: "208 TV.mini2sf"
     type: betting
   - id: gts
-    title: "GTS"
+    title: "Gts"
     path: "209 GTS.mini2sf"
     type: betting
-  - id: surfing_dp
-    title: "Surfing"
+  - id: surf_dp
+    title: "Surf"
     path: "210 Surfing.mini2sf"
     type: betting
-  - id: canalave_city_nighttime
-    title: "Canalave City (Nighttime)"
+  - id: canalave_city_night
+    title: "Canalave City (Night)"
     path: "211 Canalave City (Nighttime).mini2sf"
     type: betting
-  - id: route_203_nighttime
-    title: "Route 203 (Nighttime)"
+  - id: route_203_night
+    title: "Route 203 (Night)"
     path: "213 Route 203 (Nighttime).mini2sf"
     type: betting
-  - id: encounter_martial_artist_dp
-    title: "Encounter! Martial Artist"
+  - id: trainers_eyes_meet_black_belt_dp
+    title: "Trainers' Eyes Meet (Black Belt)"
     path: "214 Encounter! Martial Artist.mini2sf"
     type: warning
-  - id: oreburgh_city_nighttime
-    title: "Oreburgh City (Nighttime)"
+  - id: oreburgh_city_night
+    title: "Oreburgh City (Night)"
     path: "215 Oreburgh City (Nighttime).mini2sf"
     type: betting
-  - id: route_205_nighttime
-    title: "Route 205 (Nighttime)"
+  - id: route_205_night
+    title: "Route 205 (Night)"
     path: "216 Route 205 (Nighttime).mini2sf"
     type: betting
-  - id: encounter_sailor_dp
-    title: "Encounter! Sailor"
+  - id: trainers_eyes_meet_sailor_dp
+    title: "Trainers' Eyes Meet (Sailor)"
     path: "217 Encounter! Sailor.mini2sf"
     type: warning
-  - id: eterna_night_nighttime
-    title: "Eterna City (Nighttime)"
+  - id: eterna_night_night
+    title: "Eterna City (Night)"
     path: "218 Eterna City (Nighttime).mini2sf"
     type: betting
-  - id: underground_dp
-    title: "Underground"
+  - id: the_underground_dp
+    title: "The Underground"
     path: "219 Underground.mini2sf"
     type: betting
-  - id: encounter_aroma_lady_dp
-    title: "Encounter! Aroma Lady"
+  - id: trainers_eyes_meet_aroma_lady_dp
+    title: "Trainers' Eyes Meet (Aroma Lady)"
     path: "221 Encounter! Aroma Lady.mini2sf"
     type: warning
-  - id: floaroma_town_nighttime
-    title: "Floaroma Town (Nighttime)"
+  - id: floaroma_town_night
+    title: "Floaroma Town (Night)"
     path: "222 Floaroma Town (Nighttime).mini2sf"
     type: betting
-  - id: forest_house
-    title: "Forest House"
+  - id: old_chateau
+    title: "Old Chateau"
     path: "223 Forest House.mini2sf"
     type: betting
-  - id: solaceon_town_nightime
-    title: "Solaceon Town (Nighttime)"
+  - id: solaceon_town_night
+    title: "Solaceon Town (Night)"
     path: "224 Solaceon Town (Nighttime).mini2sf"
     type: betting
   - id: great_marsh
     title: "Great Marsh"
     path: "225 Great Marsh.mini2sf"
     type: betting
-  - id: route_206_nighttime
-    title: "Route 206 (Nighttime)"
+  - id: route_206_night
+    title: "Route 206 (Night)"
     path: "226 Route 206 (Nighttime).mini2sf"
     type: betting
-  - id: pokemon_collector_dp
-    title: "Encounter! Pokémon Collector"
+  - id: trainers_eyes_meet_collector_dp
+    title: "Trainers' Eyes Meet (Collector)"
     path: "227 Encounter! Pokemon Collector.mini2sf"
     type: warning
-  - id: veilstone_city_nighttime
-    title: "Veilstone City (Nighttime)"
+  - id: veilstone_city_night
+    title: "Veilstone City (Night)"
     path: "228 Veilstone City (Nighttime).mini2sf"
     type: betting
   - id: game_corner_dp
     title: "Game Corner"
     path: "229 Game Corner.mini2sf"
     type: betting
-  - id: win_at_slots
-    title: "Win at the Slots"
+  - id: you_re_a_winner
+    title: "You're a Winner!"
     path: "230 Win at the Slots.mini2sf"
     type: result
-  - id: win_big_at_slots_dp
-    title: "Big Win at the Slots"
+  - id: you_re_a_jackpot_winner
+    title: "You're a Jackpot Winner!"
     path: "231 Big Win at the Slots.mini2sf"
     type: result
-  - id: encounter_gambler_dp
-    title: "Encounter! Gambler"
+  - id: trainers_eyes_meet_pi_dp
+    title: "Trainers' Eyes Meet (PI)"
     path: "232 Encounter! Gambler.mini2sf"
     type: warning
-  - id: route_209_nighttime
-    title: "Route 209 (Nighttime)"
+  - id: route_209_night
+    title: "Route 209 (Night)"
     path: "233 Route 209 (Nighttime).mini2sf"
     type: betting
-  - id: snowpoint_city_nighttime
-    title: "Snowpoint City (Nighttime)"
+  - id: snowpoint_city_night
+    title: "Snowpoint City (Night)"
     path: "234 Snowpoint City (Nighttime).mini2sf"
     tags: [xmas]
     type: betting
-  - id: route_216_nighttime
-    title: "Route 216 (Nighttime)"
+  - id: route_216_night
+    title: "Route 216 (Night)"
     path: "235 Route 216 (Nighttime).mini2sf"
     tags: [xmas]
     type: betting
-  - id: cavern_on_the_lake_dp
-    title: "Cavern on the Lake"
+  - id: lake_caverns
+    title: "Lake Caverns"
     path: "236 Cavern on the Lake.mini2sf"
     type: break
-  - id: battle_uxie_mesprit_azelf
-    title: "Battle! Uxie, Mesprit & Azelf"
+  - id: battle_azelf_mesprit_uxie
+    title: "Battle! (Azelf/Mesprit/Uxie)"
     path: "237 Battle! Uxie, Mesprit & Azelf.mini2sf"
     type: battle
-  - id: route_210_nighttime
-    title: "Route 210 (Nighttime)"
+  - id: route_210_night
+    title: "Route 210 (Night)"
     path: "238 Route 210 (Nighttime).mini2sf"
     type: betting
-  - id: as_seen_on_tv
-    title: "As Seen on TV!"
+  - id: a_poke_radar_hit
+    title: "A Poké Radar Hit!"
     path: "239 As Seen on TV!.mini2sf"
     type: warning
-  - id: sunyshore_city_nighttime
-    title: "Sunyshore City (Nighttime)"
+  - id: sunyshore_city_night
+    title: "Sunyshore City (Night)"
     path: "240 Sunyshore City (Nighttime).mini2sf"
     type: betting
-  - id: encounter_artist_dp
-    title: "Encounter! Artist"
+  - id: trainers_eyes_meet_artist_dp
+    title: "Trainers' Eyes Meet (Artist)"
     path: "241 Encounter! Artist.mini2sf"
     type: warning
   - id: amity_square
     title: "Amity Square"
     path: "242 Amity Square.mini2sf"
     type: betting
-  - id: hearthome_city_nighttime
-    title: "Hearthome City (Nighttime)"
+  - id: hearthome_city_night
+    title: "Hearthome City (Night)"
     path: "244 Hearthome City (Nighttime).mini2sf"
     type: betting
   - id: contest_hall_dp
     title: "Contest Hall"
     path: "245 Contest Hall.mini2sf"
     type: betting
-  - id: poffin
-    title: "Poffin"
+  - id: poffins
+    title: "Poffins"
     path: "246 Poffin.mini2sf"
     type: betting
   - id: super_contest
@@ -446,27 +446,27 @@ songs:
     path: "247 Super Contest!.mini2sf"
     type: betting
   - id: contest_dress_up
-    title: "Contest! Dress-up"
+    title: "Contest: Dress Up"
     path: "248 Contest! Dress-up.mini2sf"
     type: warning
-  - id: dance_hard
-    title: "Dance, Hard"
+  - id: dance_difficult
+    title: "Dance: Difficult"
     path: "250 Dance, Hard.mini2sf"
     type: result
-  - id: announcing_the_contest_results_dp
-    title: "Announcing the Contest Results"
+  - id: contest_results_announcement
+    title: "Contest: Results Announcement"
     path: "251 Announcing the Contest Results.mini2sf"
     type: result
-  - id: won_the_contest_dp
-    title: "Won the Contest!"
+  - id: contest_winner
+    title: "Contest: Winner"
     path: "252 Won the Contest!.mini2sf"
     type: result
-  - id: route_228_nighttime
-    title: "Route 228 (Nighttime)"
+  - id: route_228_night
+    title: "Route 228 (Night)"
     path: "253 Route 228 (Nighttime).mini2sf"
     type: betting
-  - id: valor_lakefront_nighttime
-    title: "Valor Lakefront (Nighttime)"
+  - id: valor_lakefront_night
+    title: "Valor Lakefront (Night)"
     path: "254 Valor Lakefront (Nighttime).mini2sf"
     type: betting
   - id: fight_area_night
@@ -477,36 +477,36 @@ songs:
     title: "Battle Tower"
     path: "256 Battle Tower.mini2sf"
     type: betting
-  - id: route_225_nighttime
-    title: "Route 225 (Nighttime)"
+  - id: route_225_night
+    title: "Route 225 (Night)"
     path: "257 Route 225 (Nighttime).mini2sf"
     type: betting
-  - id: iron_mountain
+  - id: stark_mountain
     title: "Stark Mountain"
     path: "258 Iron Mountain.mini2sf"
     type: betting
   - id: battle_legendary_pokemon_dp
-    title: "Battle! Legendary Pokémon"
+    title: "Battle! (Legendary Pokémon)"
     path: "259 Battle! Legendary Pokemon.mini2sf"
     type: battle
-  - id: pokemon_league_nighttime
-    title: "Pokémon League (Nighttime)"
+  - id: pokemon_league_night
+    title: "Pokémon League (Night)"
     path: "261 Pokemon League (Nighttime).mini2sf"
     type: break
-  - id: showdown_pokemon_league
-    title: "Showdown! Pokémon League"
+  - id: decisive_battle_pokemon_league
+    title: "Decisive Battle! (Pokémon League)"
     path: "262 Showdown! Pokemon League.mini2sf"
     type: betting
-  - id: the_elite_four_appear_dp
-    title: "The Elite Four Appear!"
+  - id: the_elite_four_appears_dp
+    title: "The Elite Four Appears!"
     path: "263 The Elite Four Appear!.mini2sf"
     type: warning
   - id: battle_elite_four_dp
-    title: "Battle! Elite Four"
+    title: "Battle! (Elite Four)"
     path: "264 Battle! Elite Four.mini2sf"
     type: battle
-  - id: elite_four_defeated_dp
-    title: "Elite Four Defeated!"
+  - id: victory_elite_four_dp
+    title: "Victory (Elite Four)"
     path: "265 Elite Four Defeated!.mini2sf"
     type: result
   - id: champion_cynthia
@@ -514,23 +514,23 @@ songs:
     path: "266 Champion Cynthia.mini2sf"
     type: warning
   - id: battle_champion_dp
-    title: "Battle! Champion"
+    title: "Battle! (Champion)"
     path: "267 Battle! Champion.mini2sf"
     type: battle
-  - id: champion_defeated_dp
-    title: "Champion Defeated!"
+  - id: victory_champion_dp
+    title: "Victory! (Champion)"
     path: "268 Champion Defeated!.mini2sf"
     type: result
   - id: hall_of_fame_dp
     title: "Hall of Fame"
     path: "269 Hall of Fame.mini2sf"
     type: result
-  - id: congratulations_dp
-    title: "Congratulations!"
+  - id: congratulations_on_entering_the_hall_of_fame_dp
+    title: "Congratulations on Entering the Hall of Fame!"
     path: "270 Congratulations!.mini2sf"
     type: result
-  - id: ending_dp
-    title: "Ending"
+  - id: ending_theme_dp
+    title: "Ending Theme"
     path: "271 Ending.mini2sf"
     type: betting
   - id: battle_arceus
