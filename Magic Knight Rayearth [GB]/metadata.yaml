@@ -1,0 +1,35 @@
+---
+id: magic_knight_rayearth_gb
+title: "Magic Knight Rayearth [GB]"
+platform: "GB"
+year: 1995
+songs: 
+  - id: yuzurenai_negai
+    title: "Yuzurenai Negai"
+    path: "Yuzurenai Negai.brstm"
+    type: betting
+  - id: power_of_magic_knight
+    title: "Power of Magic Knight"
+    path: "Power of Magic Knight.brstm"
+    type: battle
+  - id: i_did_it
+    title: "I did it!!"
+    path: "I did it!!.brstm"
+    type: result
+  - id: alone_in_the_dark_labyrinth
+    title: "Alone in the dark labyrinth..."
+    path: "Alone in the dark labyrinth....brstm"
+    type: betting
+  - id: black_shock
+    title: "BLACK SHOCK"
+    path: "BLACK SHOCK.brstm"
+    type: warning
+  - id: the_nightmare
+    title: "THE NIGHTMARE"
+    path: "THE NIGHTMARE.brstm"
+    type: battle
+  - id: thanx_umi_mix
+    title: "THANX -UMI MIX-"
+    path: "THANX -UMI MIX-.brstm"
+    type: betting
+...

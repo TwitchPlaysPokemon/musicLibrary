@@ -1,0 +1,87 @@
+---
+id: kurohyo_ryu_ga_gotoku_shinsho
+title: "Kurohyo: Ryu ga Gotoku Shinsho"
+platform: "PSP"
+year: 2010
+songs: 
+  - id: die_anyway
+    title: "Die anyway"
+    path: "btlbgm_zako01.sgd"
+    type: battle
+  - id: violence_with_violence
+    title: "Violence with violence"
+    path: "btlbgm_zako02.sgd"
+    type: battle
+  - id: digitalized
+    title: "DIGITALIZED"
+    path: "btlbgm_zako03.sgd"
+    type: battle
+  - id: kingdom_of_the_massacre
+    title: "Kingdom of the massacre"
+    path: "btlbgm_zako04.sgd"
+    type: battle
+  - id: dead_corps
+    title: "Dead Corps"
+    path: "btlbgm_zako05.sgd"
+    type: battle
+  - id: underground_dazzling
+    title: "Underground Dazzling \"Ghost\""
+    path: "btlbgm_zako06.sgd"
+    type: battle
+  - id: love_theme
+    title: "Love Theme"
+    path: "kaiwabgm_love.sgd"
+    type: break
+  - id: skirmish_diablo
+    title: "Skirmish \"Diablo\""
+    path: "btlbgm_zako08.sgd"
+    type: battle
+  - id: your_knife_feels_good
+    title: "YOUR KNIFE FEELS GOOD"
+    path: "btlbgm_zako09.sgd"
+    type: betting
+  - id: death_in_the_eye
+    title: "Death in the eye"
+    path: "btlbgm_zako10.sgd"
+    type: battle
+  - id: communication_fight
+    title: "Communication fight"
+    path: "btlbgm_adhoc02.sgd"
+    type: battle
+  - id: karate_monster
+    title: "Karate Monster"
+    path: "btlbgm_boss01.sgd"
+    type: battle
+  - id: the_naked_panther
+    title: "THE NAKED PANTHER"
+    path: "btlbgm_boss02.sgd"
+    type: battle
+  - id: so_unusual
+    title: "SO UNUSUAL"
+    path: "btlbgm_boss03.sgd"
+    type: betting
+  - id: revenge_of_the_father
+    title: "Revenge of the father"
+    path: "btlbgm_boss04.sgd"
+    type: betting
+  - id: certain_billionaire
+    title: "Certain Billionaire"
+    path: "amb_casino_LR.sgd"
+    type: break
+  - id: stupid_mad_dog
+    title: "Stupid Mad dog"
+    path: "btlbgm_boss05.sgd"
+    type: battle
+  - id: fatal_battle
+    title: "Fatal battle"
+    path: "btlbgm_boss10.sgd"
+    type: betting
+  - id: endless_battle
+    title: "Endless Battle"
+    path: "btlbgm_endless01.sgd"
+    type: battle
+  - id: exit_song
+    title: "Exit Song"
+    path: "30-Exit Song.brstm"
+    type: betting
+...

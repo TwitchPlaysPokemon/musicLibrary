@@ -1,31 +1,59 @@
 ---
 id: viewtiful_joe
 title: "Viewtiful Joe"
-year: 2003
 platform: ["GC", "PS2"]
+year: 2003
 songs:
-  - id: joe_the_hero_(viewtiful_joe's_theme)
-    title: "Joe the Hero (Viewtiful Joe's Theme)"
-    path: "Joe the Hero (Viewtiful Joe's Theme).brstm"
+  - id: joe_the_hero_viewtiful_joe_s_theme
+    title: "JOE THE HERO (Viewtiful Joe's Theme)"
+    path: "stage00_001.GENH"
     type: betting
+  - id: blue_the_justice_captain_blue_s_theme
+    title: "BLUE THE JUSTICE (Captain Blue's Theme)"
+    path: "stage00_010.GENH"
+    type: battle
   - id: henshin-a-go-go-baby
     title: "HENSHIN-A-GO-GO-BABY!"
     path: "HENSHIN-A-GO-GO-BABY!.brstm"
     type: warning
-  - id: another_joe_(another_joe's_theme)
-    title: "Another Joe (Another Joe's Theme)"
-    path: "Another Joe (Another Joe's Theme).brstm"
+  - id: dark_fiend_winged_flyer_of_mystery_charles_iii_s_theme
+    title: "DARK FIEND (Winged Flyer of Mystery Charles III's Theme)"
+    path: "stage00_004.GENH"
     type: battle
-  - id: dark_fiend_charles_the_third_theme
-    title: "Dark Fiend (Charles the Third's Theme)"
-    path: "Dark Fiend (Charles the Third's Theme).brstm"
-    type: battle
-  - id: some_like_it_red_hot
-    title: "Some Like it Red Hot (Town Area)"
-    path: "Some Like it Red Hot (Town Area).brstm"
-    type: betting
-  - id: stage_clear_next_preview
-    title: "Stage Clear ~ Next Preview"
-    path: "Stage Clear ~ Next Preview.brstm"
+  - id: gm04_stage_clear_upcoming_preview
+    title: "GM04 (Stage Clear ~ Upcoming Preview)"
+    path: "stage00_008.GENH"
     type: result
+  - id: some_like_it_red_hot_town_area
+    title: "SOME LIKE IT RED HOT (Town Area)"
+    path: "stage01_001.GENH"
+    type: betting
+  - id: iron_ogre_strongman_of_mystery_hulk_davidson_s_theme
+    title: "IRON OGRE (Strongman of Mystery Hulk Davidson's Theme)"
+    path: "stage01_004.GENH"
+    type: battle
+  - id: aquatic_terror_white_shark_of_mystery_gran_bruce_s_theme
+    title: "AQUATIC TERROR (White Shark of Mystery Gran Bruce's Theme)"
+    path: "stage02_004.GENH"
+    type: battle
+  - id: another_joe_another_joe_s_theme
+    title: "ANOTHER JOE (Another Joe's Theme)"
+    path: "stage03_003.GENH"
+    type: battle
+  - id: blade_master_electric_sword_demon_alastor_s_theme
+    title: "BLADE MASTER (Electric Sword Demon Alastor's Theme)"
+    path: "stage04_003.GENH"
+    type: battle
+  - id: inferno_lord_radiant_king_fire_leo_s_theme
+    title: "INFERNO LORD (Radiant King Fire Leo's Theme)"
+    path: "stage05_003.GENH"
+    type: battle
+  - id: the_omnipotent_omnipotent_emperor_king_blue_s_theme
+    title: "THE OMNIPOTENT (Omnipotent Emperor King Blue's Theme)"
+    path: "stage06_003.GENH"
+    type: battle
+  - id: blue_the_true_hero_young_captain_blue_s_theme
+    title: "BLUE THE TRUE HERO (Young Captain Blue's Theme)"
+    path: "Blue the True Hero (Young Captain Blue's Theme).brstm"
+    type: battle
 ...

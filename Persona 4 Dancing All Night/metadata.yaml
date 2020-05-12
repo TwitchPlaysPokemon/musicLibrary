@@ -2,11 +2,19 @@
 id: persona_4_dancing_all_night
 title: "Persona 4: Dancing All Night"
 series: shinmegamitensei
-year: 2015
 platform: "Vita"
+year: 2015
 songs:
   - id: the_fog_atlus_konishi_remix
     title: "The Fog (ATLUS Konishi Remix)"
     path: "The Fog (ATLUS Konishi Remix).brstm"
     type: battle
+  - id: backside_of_the_tv_lotus_juice_remix
+    title: "Backside Of The TV (Lotus Juice Remix)"
+    path: "Backside Of The TV (Lotus Juice Remix).brstm"
+    type: betting
+  - id: period_p4d_ver
+    title: "Period (\"P4D\" ver.)"
+    path: "bgm_107.at9"
+    type: result
 ...

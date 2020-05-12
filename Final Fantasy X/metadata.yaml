@@ -5,6 +5,10 @@ series: finalfantasy
 platform: "PS2"
 year: 2002
 songs: 
+  - id: otherworld
+    title: "Otherworld"
+    path: "B10_01.AT3"
+    type: betting
   - id: battle_theme_ffx
     title: "Battle Theme"
     path: "109 Battle.minipsf2"

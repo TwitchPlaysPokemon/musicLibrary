@@ -1,0 +1,131 @@
+---
+id: locoroco_2
+title: "LocoRoco 2"
+platform: ["PSP", "PS4"]
+year: 2008
+songs: 
+  - id: dadhi_dado_da
+    title: "Dadhi Dado Da"
+    path: "yel_flower#4 (12_flower_lv1-12_flower_lv4).brstm"
+    type: betting
+  - id: yare_yare
+    title: "Yare Yare"
+    path: "yel_bigtree#4 (18_bigtree_lv1-18_bigtree_lv4).brstm"
+    type: betting
+  - id: doda_doda
+    title: "Doda Doda"
+    path: "yel_snow#4 (13_snow_lv1-13_snow_lv4).brstm"
+    type: break
+  - id: moro_mojya_nga
+    title: "Moro Mojya Nga"
+    path: "yel_kinoko#4 (22_kinoko_lv1-22_kinoko_lv4).brstm"
+    type: betting
+  - id: uwauwau
+    title: "Uwauwau"
+    path: "yel_tainai#4 (21_tainai_lv1-21_tainai_lv4).brstm"
+    type: betting
+  - id: oreo
+    title: "Oreo"
+    path: "yel_jungle#4 (16_jungle_lv1-16_jungle_lv4).brstm"
+    type: betting
+  - id: kuttetekaruna
+    title: "Kuttetekaruna"
+    path: "yel_nightmare#4 (15_nightmare_lv1-15_nightmare_lv4).brstm"
+    type: betting
+  - id: consepontowa
+    title: "Consepontowa"
+    path: "pin_thema#4 (05_pin_ainote_v1-05_pin_ainote_v4).brstm"
+    type: betting
+  - id: aio_aio
+    title: "Aio Aio"
+    path: "yel_africa#4 (20_africa_lv1-20_africa_lv4).brstm"
+    type: betting
+  - id: yoi_yore
+    title: "Yoi Yore"
+    path: "yel_island#4 (14_island_lv1-14_island_lv4).brstm"
+    type: break
+  - id: tajya_natata
+    title: "Tajya Natata"
+    path: "blu_thema#4 (08_blu_ainote_v1-08_blu_ainote_v4).brstm"
+    type: betting
+  - id: panguraratta
+    title: "Panguraratta"
+    path: "red_thema#4 (06_red_ainote_v1-06_red_ainote_v4).brstm"
+    type: betting
+  - id: zappudo_geron
+    title: "Zappudo Geron"
+    path: "blk_thema#4 (09_blk_ainote_v1-09_blk_ainote_v4).brstm"
+    type: betting
+  - id: moinoi_moinoi
+    title: "Moinoi Moinoi"
+    path: "yel_yama#4 (17_yama_lv1-17_yama_lv4).brstm"
+    type: betting
+  - id: bucho_mio
+    title: "Bucho Mio"
+    path: "grn_thema#4 (07_grn_ainote_v1-07_grn_ainote_v4).brstm"
+    type: betting
+  - id: pupapu_poapoa
+    title: "Pupapu Poapoa"
+    path: "yel_star#4 (19_star_lv1-19_star_lv4).brstm"
+    type: betting
+  - id: merure_merure
+    title: "Merure Merure"
+    path: "boss4.lrmb"
+    type: warning
+  - id: etoule_pucoratte
+    title: "Etoule Pucoratte!"
+    path: "staffroll.lrmb"
+    type: betting
+  - id: muimui_crane
+    title: "Muimui Crane"
+    path: "crane_bgm.lrmb"
+    type: betting
+  - id: muimui
+    title: "Muimui"
+    path: "stamp_bgm.lrmb"
+    type: betting
+  - id: moja_s_song
+    title: "Moja's Song"
+    path: "boss3.lrmb"
+    type: betting
+  - id: buibui_attack
+    title: "BuiBui Attack"
+    path: "bui_attack.lrmb"
+    type: warning
+  - id: stage_clear_locoroco_2
+    title: "Stage Clear"
+    path: "clear_jingle.lrmb"
+    type: result
+  - id: muimui_king
+    title: "Muimui King"
+    path: "muiking_song.lrmb"
+    type: break
+  - id: nyokki_nyonyokki
+    title: "Nyokki Nyonyokki"
+    path: "nyokki_bgm.lrmb"
+    type: break
+  - id: arten_daffu
+    title: "Arten Daffu"
+    path: "pur_thema#4 (10_pur_ainote_v1-10_pur_ainote_v4).brstm"
+    type: betting
+  - id: locorider
+    title: "LocoRider"
+    path: "rider_bgm.lrmb"
+    type: betting
+  - id: buibui_booooon
+    title: "Buibui Booooon"
+    path: "shooting_bgm.lrmb"
+    type: betting
+  - id: loco_race
+    title: "Loco Race"
+    path: "uranai_bgm.lrmb"
+    type: betting
+  - id: buibui
+    title: "BuiBui"
+    path: "yel_buibui#4 (23_buibui_lv1-23_buibui_lv4).brstm"
+    type: betting
+  - id: locoroco_s_song
+    title: "LocoRoco's Song"
+    path: "yel_worldmap#1 (yel_worldmap-yel_worldmap).brstm"
+    type: betting
+...

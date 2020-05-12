@@ -1,0 +1,23 @@
+---
+id: mahou_kishi_rayearth_2nd_the_missing_colors
+title: "Mahou Kishi Rayearth 2nd: The Missing Colors"
+platform: "GB"
+year: 1995
+songs: 
+  - id: on_time_bgm_3
+    title: "On Time! (BGM #3)"
+    path: "On Time! (BGM #3).brstm"
+    type: warning
+  - id: peaceful_day_bgm_6
+    title: "Peaceful Day (BGM #6)"
+    path: "Peaceful Day (BGM #6).brstm"
+    type: break
+  - id: great_evil_bgm_9
+    title: "Great Evil (BGM #9)"
+    path: "Great Evil (BGM #9).brstm"
+    type: battle
+  - id: excellent_bgm_11
+    title: "Excellent!! (BGM #11)"
+    path: "Excellent!! (BGM #11).brstm"
+    type: result
+...

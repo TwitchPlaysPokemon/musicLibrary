@@ -6,8 +6,32 @@ platform: "Various"
 #other platforms: Amiga, Atari ST, PC, NES, X68000, SMD, PCE, Saturn, PS2, 3DS
 year: 1987
 songs: 
-  - id: after_burner_melody_version
-    title: "After Burner (Melody Version)"
+  - id: maximum_power
+    title: "MAXIMUM POWER"
+    path: "01 Maximum Power.vgz"
+    type: warning
+  - id: final_take_off
+    title: "FINAL TAKE OFF"
+    path: "02 Final Take Off.vgz"
+    type: betting
+  - id: red_out
+    title: "RED OUT"
+    path: "03 Red Out.vgz"
+    type: battle
+  - id: super_strife
+    title: "SUPER STRIPE"
+    path: "04 Super Stripe.vgz"
+    type: 
+  - id: after_burner_after_burner_ii_arcade
+    title: "AFTER BURNER"
+    path: "07 After Burner (Extended).vgz"
+    type: battle
+  - id: city_202
+    title: "CITY 202"
+    path: "06 City 202.vgz"
+    type: result
+  - id: after_burner_with_melody
+    title: "AFTER BURNER (with MELODY)"
     path: "After Burner (Melody Version).mp3"
     ends: 3:15
     type: betting

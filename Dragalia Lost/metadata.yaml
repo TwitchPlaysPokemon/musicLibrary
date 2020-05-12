@@ -20,4 +20,20 @@ songs:
     title: "Cinderella Step"
     path: "BGM_OUT_0002_03 (Vocal).txtp"
     type: betting
+  - id: the_agito_uprising_phase_1
+    title: "The Agito Uprising (Phase 1)"
+    path: "AgitoUprising.brstm"
+    type: battle
+  - id: polaris
+    title: "Polaris"
+    path: "BGM_OUT_0006_07.awb"
+    type: betting
+  - id: across_the_world
+    title: "Across the World"
+    path: "BGM_OUT_0006_08.awb"
+    type: betting
+  - id: quest_1_5
+    title: "Quest 1-5"
+    path: "BGM_IN_QUEST_0001_05.awb"
+    type: betting
 ...

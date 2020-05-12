@@ -1,0 +1,27 @@
+---
+id: star_fox_command
+title: "Star Fox Command"
+platform: ["NDS", "Wii U"]
+year: 2006
+songs: 
+  - id: destroy_the_missile
+    title: "Destroy The Missile!"
+    path: "34 BGM #34 [SSEQ0021].mini2sf"
+    type: warning
+  - id: the_loner_falco_lombardi
+    title: "The Loner, Falco Lombardi"
+    path: "20 BGM #20 [SSEQ0013].mini2sf"
+    type: battle
+  - id: mr_genius_slippy_toad
+    title: "Mr. Genius, Slippy Toad"
+    path: "21 BGM #21 [SSEQ0014].mini2sf"
+    type: battle
+  - id: great_leader_fox_mccloud
+    title: "Great Leader, Fox McCloud"
+    path: "17 BGM #17 [SSEQ0010].mini2sf"
+    type: battle
+  - id: fox_s_forgotten_love_krystal
+    title: "Fox's Forgotten Love, Krystal"
+    path: "23 BGM #23 [SSEQ0016].mini2sf"
+    type: betting
+...

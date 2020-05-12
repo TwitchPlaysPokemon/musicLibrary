@@ -1,43 +1,47 @@
 ---
 id: cave_story_3d
 title: "Cave Story 3D"
-year: 2011
 platform: "3DS"
+year: 2011
 songs:
-  - id: eyes_of_flame
+  - id: eyes_of_flame_cave_story_3d
     title: "Eyes of Flame"
     path: "Eyes of Flame.brstm"
     type: battle
-  - id: last_battle_cs3d
+  - id: last_battle_cave_story_3d
     title: "Last Battle"
     path: "Last Battle.brstm"
     type: battle
-  - id: last_cave
+  - id: last_cave_cave_story_3d
     title: "Last Cave"
     path: "Last Cave.brstm"
     type: betting
-  - id: moonsong_cavestory3d
+  - id: moonsong_cave_story_3d
     title: "Moonsong"
     path: "Moonsong.brstm"
     type: betting
-  - id: on_to_grasstown
+  - id: on_to_grasstown_cave_story_3d
     title: "On To Grasstown"
     path: "On To Grasstown.brstm"
     type: betting
-  - id: plantation
+  - id: plantation_cave_story_3d
     title: "Plantation"
     path: "Plantation.brstm"
     type: betting
-  - id: scorching_back_3d
+  - id: scorching_back_cave_story_3d
     title: "Scorching Back"
     path: "Scorching Back.brstm"
     type: betting
-  - id: gravity_cavestory3d
+  - id: gravity_cave_story_3d
     title: "Gravity"
     path: "Gravity.brstm"
     type: warning
-  - id: oppression
+  - id: oppression_cave_story_3d
     title: "Oppression"
     path: "Oppression.brstm"
     type: warning
+  - id: gestation_cave_story_3d
+    title: "Gestation"
+    path: "Gestation.brstm"
+    type: betting
 ...

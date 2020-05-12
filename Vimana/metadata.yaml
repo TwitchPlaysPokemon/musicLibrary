@@ -1,0 +1,36 @@
+---
+id: vimana
+title: "Vimana"
+platform: "Arcade"
+year: 1991
+songs: 
+  - id: opening_space_high
+    title: "OPENING ~ SPACE HIGH"
+    path: "02 Opening ~ Space High.vgz"
+    type: betting
+  - id: the_power_of_darkness
+    title: "THE POWER OF DARKNESS"
+    path: "03 The Power of Darkness.vgz"
+    type: battle
+  - id: max_power_up
+    title: "MAX POWER UP"
+    path: "04 Max. Power Up.vgz"
+    type: betting
+  - id: hyper_voltage_wars
+    title: "HYPER VOLTAGE WARS"
+    path: "05 Hyper Voltage Wars.vgz"
+    type: betting
+  - id: bit_man
+    title: "BIT MAN"
+    path: "06 Bit Man.vgz"
+    type: betting
+  - id: like_flames
+    title: "LIKE FLAMES"
+    path: "07 Like Flames.vgz"
+    type: battle
+  - id: back_to_the_earth
+    title: "BACK TO THE EARTH"
+    path: "08 Back to the Earth.vgz"
+    ends: 2:00
+    type: betting
+...

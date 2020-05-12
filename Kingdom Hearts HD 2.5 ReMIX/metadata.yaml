@@ -7,54 +7,58 @@ year: 2014
 songs:
   - id: the_encounter
     title: "The Encounter"
-    path: "The Encounter.brstm"
-    type: warning
+    path: "music110.ps4.scd"
+    type: battle
   - id: the_13th_struggle_khh25remix
     title: "The 13th Struggle"
-    path: "The 13th Struggle.brstm"
+    path: "music151.ps4.scd"
     type: battle
   - id: the_13th_reflection
     title: "The 13th Reflection"
-    path: "The 13th Reflection.brstm"
+    path: "music063.ps4.scd"
     type: battle
   - id: tension_rising
     title: "Tension Rising"
-    path: "Tension Rising.brstm"
-    type: warning
+    path: "music114.ps4.scd"
+    type: battle
   - id: sinister_sundown
     title: "Sinister Sundown"
-    path: "Sinister Sundown.brstm"
-    type: warning
+    path: "music119.ps4.scd"
+    type: battle
   - id: lazy_afternoons
     title: "Lazy Afternoons"
-    path: "Lazy Afternoons.brstm"
+    path: "music118.ps4.scd"
     type: break
   - id: deep_drive_kh
     title: "Deep Drive"
-    path: "Deep Drive.brstm"
-    type: warning
+    path: "music055.ps4.scd"
+    type: battle
   - id: deep_anxiety
     title: "Deep Anxiety"
-    path: "Deep Anxiety.brstm"
-    type: warning
+    path: "music069.ps4.scd"
+    type: battle
   - id: hazardous_highway_khh25remix
     title: "Hazardous Highway"
-    path: "Hazardous Highway.brstm"
+    path: "GM2_Highway.ps4.scd"
     type: betting
   - id: cavern_of_remembrance
     title: "Cavern of Remembrance"
-    path: "Cavern of Remembrance.brstm"
+    path: "music068.ps4.scd"
     type: betting
   - id: rowdy_rumble
     title: "Rowdy Rumble"
-    path: "Rowdy Rumble.brstm"
-    type: warning
+    path: "music117.ps4.scd"
+    type: battle
   - id: dearly_beloved
     title: "Dearly Beloved"
-    path: "Dearly Beloved.brstm"
+    path: "Title.ps4.scd"
     type: break
   - id: dismiss
     title: "Dismiss"
-    path: "Dismiss.brstm"
+    path: "047last_b2.ps4.scd"
     type: battle
+  - id: the_other_promise
+    title: "The Other Promise"
+    path: "music066.ps4.scd"
+    type: betting
 ...

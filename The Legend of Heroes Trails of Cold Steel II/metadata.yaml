@@ -6,14 +6,18 @@ year: 2014
 songs:
   - id: ymir_valley_road
     title: "Ymir Valley Road"
-    path: "Ymir Valley Road.brstm"
+    path: "ed8561.lwav"
     type: break
   - id: altina
-    title: "Altina"
+    title: "ALTINA"
     path: "ed8558.lwav"
     type: betting
   - id: severe_blow
     title: "Severe Blow"
     path: "ed8424.lwav"
+    type: battle
+  - id: blue_destination
+    title: "Blue Destination"
+    path: "ed8429.lwav"
     type: battle
 ...

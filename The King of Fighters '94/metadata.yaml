@@ -1,0 +1,71 @@
+---
+id: the_king_of_fighters_94
+title: "The King of Fighters '94"
+platform: "Neo Geo"
+year: 1994
+songs: 
+  - id: the_king_of_fighters_94_opening_mvs_title
+    title: "THE KING OF FIGHTERS '94 Opening (MVS Title)"
+    path: "03 The King of Fighters '94 (MVS Title).vgz"
+    type: warning
+  - id: the_choice_of_death_or_humiliation_player_select
+    title: "The Choice of Death or Humiliation (Player Select)"
+    path: "04 The Choice of Death or Humiliation (Player Selection).vgz"
+    type: warning
+  - id: jungle_bouncer_brazil_stage
+    title: "JUNGLE BOUNCER (Brazil Stage)"
+    path: "05 Jungle Bouncer (Brazil).vgz"
+    type: betting
+  - id: hey_england_stage
+    title: "Hey! (England Stage)"
+    path: "07 Hey! (England).vgz"
+    type: betting
+  - id: unusual_tiger_and_dragon_mexico_stage
+    title: "Unusual Tiger and Dragon (Mexico Stage)"
+    path: "08 Ryuuko no Hen (Mexico).vgz"
+    type: betting
+  - id: slum_no_5_america_stage
+    title: "SLUM No.5 (America Stage)"
+    path: "09 Slum No. 5 (America).vgz"
+    type: betting
+  - id: napolitan_blues_italy_stage
+    title: "NAPOLITAN BLUES (Italy Stage)"
+    path: "10 Napolitan Blues (Italy).vgz"
+    type: betting
+  - id: esaka_japan_stage
+    title: "ESAKA (Japan Stage)"
+    path: "11 Esaka (Japan).vgz"
+    type: betting
+  - id: fear_korea_stage
+    title: "Fear (Korea Stage)"
+    path: "12 Fear (Korea).vgz"
+    type: betting
+  - id: psycho_soldier_k_o_f_version_china_stage
+    title: "Psycho Soldier \"K.O.F Version\" (China Stage)"
+    path: "13 Psycho Soldier 'K.O.F Version' (China).vgz"
+    type: betting
+  - id: going_to_r_d_boss_interim_demo
+    title: "Going to R&D (Boss Interim Demo)"
+    path: "14 Going to R&D (Intermission).vgz"
+    type: warning
+  - id: duel_r_d_boss_stage_1
+    title: "Duel R&D (Boss Stage 1)"
+    path: "15 Duel R&D (Boss 1).vgz"
+    type: betting
+  - id: um_after_boss_stage_1_demo
+    title: "UM... (After Boss Stage 1 Demo)"
+    path: "16 Um... (Demo After Boss 1).vgz"
+    type: warning
+  - id: showdown_r_d_boss_stage_2
+    title: "Showdown R&D (Boss Stage 2)"
+    path: "17 Showdown R&D (Boss 2).vgz"
+    type: betting
+  - id: happy_jah_don_t_you_have_it_ending_2_1
+    title: "HAPPY JAH! Don't You Have It? (Ending 2-1)"
+    path: "19 HAPPY JAH! Don't You Have It (Ending 2-1).vgz"
+    type: break
+  - id: sunset_sky_part_4_papaya_version_ending_2_2
+    title: "SUNSET SKY Part 4 "PAPAYA Version" (Ending 2-2)"
+    path: "20 Sunset Sky Part 4 'PAPAYA Version' (Ending 2-2).vgz"
+    type: break
+...

@@ -1,0 +1,67 @@
+---
+id: the_king_of_fighters_2001
+title: "The King of Fighters 2001"
+platform: ["Arcade", "PS2"]
+year: 2001
+songs: 
+  - id: hit_me
+    title: "HIT ME!"
+    path: "04 Hit Me!.vgz"
+    type: warning
+  - id: hit_me_more
+    title: "HIT ME MORE!"
+    path: "05 Hit Me More!.vgz"
+    type: warning
+  - id: big_pain
+    title: "BIG PAIN"
+    path: "06 Big Pain.vgz"
+    type: warning
+  - id: the_invincible_flame
+    title: "The Invincible Flame"
+    path: "07 The Invincible Flame.vgz"
+    type: warning
+  - id: the_undying_sun
+    title: "The Undying Sun"
+    path: "08 The Undying Sun.vgz"
+    type: warning
+  - id: my_whip
+    title: "My Whip"
+    path: "09 My Whip.vgz"
+    type: warning
+  - id: all_ok
+    title: "ALL OK!"
+    path: "10 All OK!.vgz"
+    type: result
+  - id: kyokugen_fight
+    title: "Kyokugen Fight"
+    path: "11 Kyokugen Fight.vgz"
+    type: warning
+  - id: the_queen_of_fighters
+    title: "THE QUEEN OF FIGHTERS"
+    path: "12 The Queen of Fighters.vgz"
+    type: betting
+  - id: nests_ruler_company_in_the_darkness
+    title: "NESTS, Ruler Company in the Darkness"
+    path: "13 NESTS, the Rulers of Darkness.vgz"
+    type: battle
+  - id: psycho_guys
+    title: "Psycho Guys"
+    path: "14 Psycho Guys.vgz"
+    type: betting
+  - id: naeryeo_chagi
+    title: "Naeryeo Chagi"
+    path: "15 Naeryeo Chagi.vgz"
+    type: battle
+  - id: original_zero
+    title: "0"
+    path: "20 0.vgz"
+    type: betting
+  - id: i_m_truly_the_strongest
+    title: "I'm Truly the Strongest"
+    path: "22 I Am the Strongest.vgz"
+    type: warning
+  - id: the_king_of_fighters_2001_staff_roll_bgm
+    title: "THE KING OF FIGHTERS 2001 Staff Roll BGM"
+    path: "29 The King of Fighters 2001 Staff Roll BGM.vgz"
+    type: betting
+...

@@ -1,0 +1,75 @@
+---
+id: the_king_of_fighters_xi_arcade
+title: "The King of Fighters XI [Arcade]"
+platform: ["Arcade", "PS2"]
+year: 2005
+songs: 
+  - id: playerselect
+    title: "PlayerSelect"
+    path: "Arcade - 03 - Player Select (SHA-V - SNK Playmore).adx"
+    type: warning
+  - id: joker
+    title: "joker"
+    path: "Arcade - 05 - Joker (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: queen
+    title: "Queen"
+    path: "Arcade - 07 - Queen (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: street_dancer
+    title: "Street dancer"
+    path: "Arcade - 08 - Street Dancer (SHA-V - SNK Playmore).adx"
+    type: betting
+  - id: jack
+    title: "Jack"
+    path: "Arcade - 09 - Jack (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: after_a_long_absence
+    title: "After a long absence"
+    path: "Arcade - 10 - After a Long Absence (SHA-V - SNK Playmore).adx"
+    type: betting
+  - id: kiss_or_poison
+    title: "kiss or poison"
+    path: "Arcade - 12 - Kiss or Poison (SHA-V - SNK Playmore).adx"
+    type: betting
+  - id: smell_of_gunpowder
+    title: "Smell of gunpowder"
+    path: "Arcade - 13 - Smell of Gunpowder (SHA-V - SNK Playmore).adx"
+    type: betting
+  - id: pure_at_good_old_days
+    title: "PURE ~at good old days~"
+    path: "Arcade - 14 - Pure ~At Good Old Days ~ (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: king
+    title: "King"
+    path: "Arcade - 15 - King (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: secret_circumstances
+    title: "Secret Circumstances"
+    path: "Arcade - 16 - Secret Circumstances (SHA-V - SNK Playmore).adx"
+    type: betting
+  - id: triumphantly
+    title: "Triumphantly"
+    path: "Arcade - 19 - Triumphantly (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: kdd_0075
+    title: "KDD-0075"
+    path: "Arcade - 20 - KDD-0075 (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: new_order
+    title: "New Order"
+    path: "Arcade - 21 - New Order (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: cha_cha_cha
+    title: "\"Cha Cha Cha\""
+    path: "Arcade - 22 - Cha Cha Cha (SHA-V - SNK Playmore).adx"
+    type: battle
+  - id: anti_song
+    title: "Anti-Song"
+    path: "Arcade - 24 - Anti-Song (SHA-V - SNK Playmore).adx"
+    type: betting
+  - id: an_improvised_concerto
+    title: "an improvised concerto"
+    path: "Arcade - 26 - An Improvised Concerto (SHA-V - SNK Playmore).adx"
+    type: battle
+...

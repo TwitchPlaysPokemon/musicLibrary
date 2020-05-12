@@ -17,6 +17,10 @@ songs:
     title: "Battle with the Enormous Boss"
     path: "025 Big Boss Battle.mini2sf"
     type: warning
+  - id: let_s_live_healthily
+    title: "Let's Live Healthily"
+    path: "026 Live Healthy.mini2sf"
+    type: result
   - id: the_great_cave_offensive_super_star_ultra
     title: "The Great Cave Offensive"
     path: "037 The Great Cave Offensive.mini2sf"
@@ -28,6 +32,18 @@ songs:
   - id: vs_marx_super_star_ultra
     title: "Vs. Marx"
     path: "060 Vs. Marx.mini2sf"
+    type: warning
+  - id: kirby_on_the_draw
+    title: "Kirby on the Draw"
+    path: "071 Kirby on the Draw.mini2sf"
+    type: result
+  - id: snack_tracks_1
+    title: "Snack Tracks 1"
+    path: "072 Snack Tracks First Half.mini2sf"
+    type: warning
+  - id: snack_tracks_2
+    title: "Snack Tracks 2"
+    path: "073 Snack Tracks Second Half.mini2sf"
     type: warning
   - id: flying_fortress_kabula
     title: "Flying Fortress Kabula"
@@ -41,10 +57,22 @@ songs:
     title: "The King and the Sun"
     path: "084 The King and the Sun.mini2sf"
     type: result
+  - id: colosseum_battle_helper_to_hero
+    title: "Colosseum Battle (Helper to Hero)"
+    path: "088 Colosseum Battle (Helper to Hero).mini2sf"
+    type: betting
   - id: helpers_rest
     title: "Helpers' Rest"
     path: "089 Helpers' Rest.mini2sf"
     type: break
+  - id: marx_soul_appears
+    title: "Marx Soul Appears"
+    path: "098 Marx Soul Appears.mini2sf"
+    type: warning
+  - id: special_edition_blooper_reel
+    title: "Special-Edition Blooper Reel"
+    path: "102 Special-Edition Blooper Reel.mini2sf"
+    type: betting
   - id: vs_meta_knight_electronic_boss_medley_ver
     title: "Vs. Meta Knight (Electronic Boss Medley ver.)"
     path: "Meta Knight Battle.brstm"

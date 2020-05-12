@@ -1,0 +1,87 @@
+---
+id: daemon_x_machina
+title: "DAEMON X MACHINA"
+platform: ["Switch", "PC"]
+year: 2019
+songs: 
+  - id: daemon_x_machina_main_theme
+    title: "DAEMON X MACHINA"
+    path: "M01_MAINTHEME.hca"
+    type: betting
+  - id: hangar_daemon_x_machina
+    title: "Hangar"
+    path: "1-02. Hangar.brstm"
+    type: betting
+  - id: testing_ground
+    title: "Testing Ground"
+    path: "bgm_main_menu.hca"
+    type: betting
+  - id: ice_cream
+    title: "Ice Cream"
+    path: "M07_MENU_ICECREAM.hca"
+    type: result
+  - id: briefing_daemon_x_machina
+    title: "Briefing"
+    path: "bgm_mission_select.hca"
+    type: betting
+  - id: overkill
+    title: "Overkill"
+    path: "M11_MISSION01.hca"
+    type: battle
+  - id: battle_dance
+    title: "Battle Dance"
+    path: "M12_MISSION02.hca"
+    type: battle
+  - id: destiny_daemon_x_machina
+    title: "Destiny"
+    path: "1-10. Destiny.brstm"
+    type: betting
+  - id: grand_war
+    title: "Grand War"
+    path: "M14_MISSION04.hca"
+    type: battle
+  - id: mercenary_life
+    title: "Mercenary Life"
+    path: "1-12. Mercenary Life.brstm"
+    type: battle
+  - id: tears_of_the_hound
+    title: "Tears of the Hound"
+    path: "M16_MISSION06.hca"
+    type: battle
+  - id: arms_of_immortal
+    title: "Arms of Immortal"
+    path: "M18_MISSION_BOSS01.hca"
+    type: battle
+  - id: daemon_x_machina_resolve
+    title: "DAEMON X MACHINA Resolve"
+    path: "M08_INTRODUCTION.hca"
+    type: betting
+  - id: grief
+    title: "Grief"
+    path: "2-03. Grief.brstm"
+    type: battle
+  - id: terrors
+    title: "Terrors"
+    path: "2-04. Terrors.brstm"
+    type: battle
+  - id: west_vii
+    title: "West VII"
+    path: "M24_THEME_WEST7.hca"
+    type: battle
+  - id: panzer_crown
+    title: "Panzer Crown"
+    path: "2-08. Panzer Crown.brstm"
+    type: battle
+  - id: move_out
+    title: "Move Out"
+    path: "M35_DEMO_TALK01.hca"
+    type: betting
+  - id: inherit_the_stars
+    title: "Inherit the Stars"
+    path: "3-11. Inherit the Stars.brstm"
+    type: betting
+  - id: results_daemon_x_machina
+    title: "Results"
+    path: "bgm_result.hca"
+    type: result
+...

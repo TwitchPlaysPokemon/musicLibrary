@@ -4,6 +4,10 @@ title: "Command & Conquer: Red Alert 2"
 platform: "PC"
 year: 2000
 songs: 
+  - id: hell_march_2
+    title: "Hell March 2"
+    path: "Hell March 2.brstm"
+    type: battle
   - id: grinder_ccra2
     title: "Grinder"
     path: "Grinder.brstm"

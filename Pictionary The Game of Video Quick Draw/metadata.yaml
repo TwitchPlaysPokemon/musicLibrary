@@ -1,0 +1,28 @@
+---
+id: pictionary_the_game_of_video_quick_draw
+title: "Pictionary: The Game of Video Quick Draw"
+platform: "NES"
+year: 1990
+songs: 
+  - id: title_theme_pictionary
+    title: "Title Theme"
+    path: "01 Title Theme.vgz"
+    ends: 1:34
+    type: betting
+  - id: game_bgm_1
+    title: "Game BGM 1"
+    path: "02 Game BGM 1.vgz"
+    type: betting
+  - id: game_bgm_2
+    title: "Game BGM 2"
+    path: "03 Game BGM 2.vgz"
+    type: betting
+  - id: drawing_game
+    title: "Drawing Game"
+    path: "04 Drawing Game.vgz"
+    type: break
+  - id: board
+    title: "Board"
+    path: "05 Board.vgz"
+    type: warning
+...

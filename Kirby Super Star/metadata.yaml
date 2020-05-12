@@ -5,14 +5,42 @@ series: kirby
 platform: "SNES"
 year: 1996
 songs: 
+  - id: corkboard
+    title: "Corkboard"
+    path: "02 Corkboard.spc"
+    type: warning
+  - id: tutorial_kirby_super_star
+    title: "Tutorial"
+    path: "03 Time to Learn.spc"
+    type: betting
   - id: float_islands_kirby_super_star
     title: "Float Islands"
     path: "06 Float Islands.spc"
     type: betting
+  - id: bubbly_clouds_kirby_super_star
+    title: "Bubbly Clouds"
+    path: "07 Bubbly Clouds.spc"
+    type: betting
+  - id: battle_with_the_boss
+    title: "Battle with the Boss"
+    path: "08 Boss Battle.spc"
+    type: battle
+  - id: king_dedede_s_theme_kirby_super_star
+    title: "King Dedede's Theme"
+    path: "11 King Dedede's Theme.spc"
+    type: battle
+  - id: dyna_blade_title
+    title: "Dyna Blade: Title"
+    path: "14 White Wing Dynablade.spc"
+    type: result
   - id: peanut_plain
     title: "Peanut Plain"
     path: "16 Peanut Plain.spc"
     type: betting
+  - id: marshmallow_castle
+    title: "Marshmallow Castle"
+    path: "17 Marshmallow Castle.spc"
+    type: break
   - id: cocoa_cave
     title: "Cocoa Cave"
     path: "18 Cocoa Cave.spc"
@@ -21,28 +49,88 @@ songs:
     title: "Candy Mountain"
     path: "19 Candy Mountain.spc"
     type: betting
-  - id: gourmet_race_super_star
+  - id: dyna_blades_nest
+    title: "Dyna Blade's Nest"
+    path: "23 Dynablade's Nest.spc"
+    type: warning
+  - id: gourmet_race_title
+    title: "Gourmet Race: Title"
+    path: "26 Crash! Gourmet Race.spc"
+    type: warning
+  - id: gourmet_race_kirby_super_star
     title: "Gourmet Race"
     path: "27 Run, Kirby, Run!.spc"
+    type: betting
+  - id: corn_hall
+    title: "Corn Hall"
+    path: "28 Hilltop Chase.spc"
     type: betting
   - id: kirby_wins
     title: "Kirby Wins!"
     path: "31 Kirby Wins!.spc"
     type: result
-  - id: tutorial_kirby_super_star
-    title: "Tutorial"
-    path: "Tutorial.spc"
+  - id: the_great_cave_offensive_kirby_super_star
+    title: "The Great Cave Offensive"
+    path: "33 Great Cave Offensive.spc"
     type: betting
-  - id: dyna_blades_nest
-    title: "Dyna Blade's Nest"
-    path: "Dyna Blade's Nest.spc"
+  - id: underground_tree_area
+    title: "Underground Tree Area"
+    path: "34 Trees in the Depths of the Earth.spc"
+    type: betting
+  - id: minecart_area
+    title: "Minecart Area"
+    path: "36 Mine Cart Riding.spc"
     type: warning
-  - id: galactic_nova
-    title: "Galactic Nova"
-    path: "Milky Way Wishes - Heart of Nova.spc"
+  - id: crystal_field_area
+    title: "Crystal Field Area"
+    path: "37 Crystal Field and Mystery Paradise.spc"
+    type: betting
+  - id: battle_windows
+    title: "Battle Windows"
+    path: "38 Battle Windows.spc"
     type: warning
+  - id: battleship_halberd_deck
+    title: "Battleship Halberd: Deck"
+    path: "41 Halberd ~ Nightmare Warship.spc"
+    type: betting
+  - id: sea_stage
+    title: "Sea Stage"
+    path: "42 Grape Garden.spc"
+    type: betting
+  - id: battleship_halberd_inside_the_ship
+    title: "Battleship Halberd: Inside the Ship"
+    path: "43 Taking Over the Halberd.spc"
+    type: betting
+  - id: vs_meta_knight
+    title: "VS. Meta Knight"
+    path: "45 Meta Knight's Theme.spc"
+    type: battle
   - id: my_friend_and_the_sunset
     title: "My Friend and the Sunset..."
-    path: "Meta Knight Defeated.spc"
+    path: "47 Meta Knight Defeated.spc"
     type: result
+  - id: milky_way_wishes
+    title: "Milky Way Wishes"
+    path: "49 Milky Way Wishes.spc"
+    type: break
+  - id: milky_way_wishes_map
+    title: "Milky Way Wishes: Map"
+    path: "50 Flying Through Outer Space.spc"
+    type: betting
+  - id: galactic_nova
+    title: "Galactic Nova"
+    path: "53 Heart of Nova.spc"
+    type: warning
+  - id: megaton_punch
+    title: "Megaton Punch"
+    path: "61 Megaton Punch.spc"
+    type: warning
+  - id: colosseum_battle
+    title: "Colosseum Battle"
+    path: "64 Gladiator Kirby.spc"
+    type: battle
+  - id: milky_way_wishes_staff_roll
+    title: "Milky Way Wishes: Staff Roll"
+    path: "65 Staff Roll.spc"
+    type: betting
 ...

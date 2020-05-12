@@ -1,9 +1,15 @@
+---
 id: streetpass_mii_plaza
 title: "StreetPass Mii Plaza"
-year: 2011
 platform: "3DS"
+year: 2011
 songs:
   - id: mii_force_robo_bone
     title: "Mii Force - Robo-Bone"
     path: "Mii Force - Robo-Bone.brstm"
     type: warning
+  - id: puzzle_swap_main_theme
+    title: "Puzzle Swap (Main Theme)"
+    path: "Puzzle Swap - Main Theme.brstm"
+    type: betting
+...

@@ -4,16 +4,85 @@ title: "The King of Fighters 2003"
 platform: "Various"
 year: 2003
 songs: 
+  - id: 2003_title
+    title: "2003 (Title)"
+    path: "01 2003 (Title).vgz"
+    ends: 1:00
+    type: betting
   - id: select_player_select
     title: "Select (Player Select)"
     path: "03 Select (Player Select).vgz"
     type: warning
+  - id: splendid_evil_new_heroes_team_ash_duo_lon_shen
+    title: "Splendid Evil (New Heroes Team [Ash / Duo Lon / Shen])"
+    path: "05 Splendid Evil (New Hero Team [Ash, Duo Lon, Shen]).vgz"
+    type: betting
+  - id: prolongation_new_fatal_fury_team_1_terry_joe_griffon
+    title: "Prolongation (New Fatal Fury Team 1 [Terry / Joe / Griffon])"
+    path: "06 Prolongation (New Fatal Fury Team 1 [Terry, Joe, Tizoc]).vgz"
+    type: betting
   - id: winner_winner_demo
     title: "Winner (Winner Demo)"
     path: "07 Winner (Winner Demo).vgz"
     type: result
+  - id: i_m_hot_for_you_women_fighters_team_1_king_mai_mary
+    title: "I'm Hot for You (Women Fighters Team 1 [King / Mai / Mary])"
+    path: "08 I'm Hot for You (Women Fighters Team 1 [King, Mai, Mary]).vgz"
+    type: betting
+  - id: inside_skinny_ikari_team_leona_ralf_clark
+    title: "Inside Skinny (Ikari Team [Leona / Ralf / Clark])"
+    path: "09 Inside Skinny (Ikari Team [Leona, Ralf, Clark]).vgz"
+    type: betting
+  - id: fairy_chizuru_kagura
+    title: "Fairy (Chizuru Kagura)"
+    path: "10 Fairy (Chizuru Kagura).vgz"
+    type: betting
+  - id: esaka_03_kusanagi
+    title: "ESAKA? 03 (KUSANAGI)"
+    path: "12 Esaka_ 03 (Kusanagi).vgz"
+    type: battle
+  - id: you_feel_for_me_women_fighters_team_2_athena_hinako_malin
+    title: "You Feel for ME (Women Fighters Team 2 [Athena / Hinako / Malin])"
+    path: "13 You Feel for ME (Women Fighters Team 2 [Athena, Hinako, Malin]).vgz"
+    type: betting
+  - id: seoul_love_kim_team_kim_chang_jhun
+    title: "Seoul Love (Kim Team [Kim / Chang / Jhun])"
+    path: "14 Seoul Love (Kim Team [Kim, Chang, Jhun]).vgz"
+    type: warning
+  - id: kyoku_gen_art_of_fighting_team_ryo_robert_yuri
+    title: "Kyoku-Gen (Art of Fighting Team [Ryo / Robert / Yuri])"
+    path: "16 Kyoku-Gen (Art of Fighting Team [Ryo, Robert, Yuri]).vgz"
+    type: betting
+  - id: villainous_new_fatal_fury_team_2_gato_billy_yamazaki
+    title: "Villainous (New Fatal Fury Team 2 [Gato / Billy / Yamazaki])"
+    path: "18 Villainous (New Fatal Fury Team 2 [Gato, Billy, Yamazaki]).vgz"
+    type: betting
+  - id: kd_k_team_k_maxima_whip
+    title: "KD (K' Team [K' / Maxima / Whip])"
+    path: "19 KD (K' Team [K', Maxima, Whip]).vgz"
+    type: betting
+  - id: cool_jam_2_iori
+    title: "Cool Jam 2 (Iori)"
+    path: "20 Cool Jam 2 (Iori).vgz"
+    type: betting
+  - id: blaze_kyo
+    title: "Blaze (Kyo)"
+    path: "21 Blaze (Kyo).vgz"
+    type: battle
+  - id: etude_of_revolution_r_ii_mid_boss_4_adelheid_ver
+    title: "Etude of Revolution ~ R II (Mid Boss 4 [Adelheid Ver.])"
+    path: "25 Revolutionary Etude ~ R II (Mid Boss 4 [Adelheid Ver.]).vgz"
+    type: battle
   - id: sacredness_fairy_mid_boss_2_chizuru_maki_kagura_ver
     title: "Sacredness ~ Fairy (Mid Boss 2 [Chizuru / Maki Kagura Ver.])"
     path: "29 Sacredness _ Fairy (Mid Boss 2 [Chizuru, Maki Kagura Ver.]).vgz"
     type: battle
+  - id: styx_boss
+    title: "Styx (Boss)"
+    path: "32 Styx (Boss).vgz"
+    type: warning
+  - id: heavens_staff_roll
+    title: "Heavens (Staff Roll)"
+    path: "40 Heavens (Staff Roll).vgz"
+    type: betting
 ...

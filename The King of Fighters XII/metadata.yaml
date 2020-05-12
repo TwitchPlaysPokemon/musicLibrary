@@ -1,0 +1,76 @@
+---
+id: the_king_of_fighters_xii
+title: "The King of Fighters XII"
+platform: ["Arcade", "PS3", "360"]
+year: 2009
+songs: 
+  - id: select
+    title: "Select"
+    path: "File2464-broken.wem"
+    type: betting
+  - id: bye_bye_credits
+    title: "Bye-Bye (Credits)"
+    path: "File2514-broken.wem"
+    ends: 1:44
+    type: betting
+  - id: bye_bye_credits_arcade_ver
+    title: "Bye-Bye (Credits Arcade ver.)"
+    path: "File2500.wem"
+    type: result
+  - id: acceptance
+    title: "Acceptance"
+    path: "File2501.wem"
+    type: betting
+  - id: cafe_au_lait_gout_de_la_victorie_ver_1
+    title: "Cafe au Lait Gout de la Victorie (Ver.1)"
+    path: "File2472.wem"
+    type: battle
+  - id: cafe_au_lait_gout_de_la_victorie_ver_2
+    title: "Cafe au Lait Gout de la Victorie (Ver.2)"
+    path: "File2519-broken.wem"
+    type: battle
+  - id: cracker_ver_1
+    title: "Cracker (Ver.1)"
+    path: "File2491-broken.wem"
+    type: battle
+  - id: cracker_ver_2
+    title: "Cracker (Ver.2)"
+    path: "File2477-broken.wem"
+    type: battle
+  - id: esaka_full_version
+    title: "Esaka (Full Version)"
+    path: "File2492-broken.wem"
+    type: battle
+  - id: matryoshka_dance_ver_1
+    title: "Matryoshka Dance (Ver.1)"
+    path: "File2475.wem"
+    type: betting
+  - id: matryoshka_dance_ver_2
+    title: "Matryoshka Dance (Ver.2)"
+    path: "File2466-broken.brstm"
+    type: betting
+  - id: the_myths_of_geb_ver_1
+    title: "The Myths of Geb (Ver.1)"
+    path: "File2482-broken.wem"
+    type: betting
+  - id: the_myths_of_geb_ver_2
+    title: "The Myths of Geb (Ver.2)"
+    path: "File2481-broken.wem"
+    type: betting
+  - id: theme_of_xii_1_ver_1
+    title: "Theme OF XII-1 (Ver.1)"
+    path: "File2487-broken.wem"
+    type: battle
+  - id: theme_of_xii_1_ver_2
+    title: "Theme OF XII-1 (Ver.2)"
+    path: "File2489.wem"
+    type: battle
+  - id: theme_of_xii_2_ver_1
+    title: "Theme OF XII-2 (Ver.1)"
+    path: "File2498.wem"
+    type: battle
+  - id: theme_of_xii_2_ver_2
+    title: "Theme OF XII-2 (Ver.2)"
+    path: "File2461.wem"
+    type: battle
+...

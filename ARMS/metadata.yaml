@@ -4,69 +4,53 @@ title: "ARMS"
 platform: "Switch"
 year: 2017
 songs: 
-  - id: sky_arena_night_vs_hedlok
-    title: "Sky Arena (Night) [vs. Hedlok]"
-    path: "BGM_Stage_SkyArenaNight.bfstm"
-    type: battle
-  - id: spring_stadium_spring_mans_theme
-    title: "Spring Stadium (Spring Man's Theme)"
-    path: "BGM_Stage_SpringStadium.bfstm"
-    type: betting
-  - id: cinema_deux_twintelles_theme
-    title: "Cinema Deux (Twintelle's Theme)"
-    path: "BGM_Stage_Theater.bfstm"
-    type: betting
-  - id: dna_lab_helixs_theme
-    title: "DNA Lab (Helix's Theme)"
-    path: "BGM_Stage_Labo.bfstm"
-    type: betting
-  - id: mausoleum_master_mummys_theme
-    title: "Mausoleum (Master Mummy's Theme)"
-    path: "BGM_Stage_Graveyard.bfstm"
-    type: betting
-  - id: ramen_bowl_min_mins_theme
-    title: "Ramen Bowl (Min Min's Theme)"
-    path: "BGM_Stage_Bowl.bfstm"
-    type: betting
-  - id: scrapyard_mechanicas_theme
-    title: "Scrapyard (Mechanica's Theme)"
-    path: "BGM_Stage_Kouteisa.bfstm"
-    type: betting
-  - id: sky_arena_max_brass_theme
-    title: "Sky Arena (Max Brass' Theme)"
-    path: "BGM_Stage_SkyArena.bfstm"
-    type: betting
-  - id: get_arms
-    title: "Get ARMS"
-    path: "BGM_Shooting.bfstm"
-    type: betting
-  - id: ninja_college_ninjaras_theme
-    title: "Ninja College (Ninjara's Theme)"
-    path: "BGM_Stage_Ninja.bfstm"
+  - id: arms_main_theme
+    title: "ARMS (Main Theme)"
+    path: "BGM_Title.bfwav"
     type: betting
   - id: tutorial_arms
     title: "Tutorial"
     path: "BGM_Tutorial.bfstm"
     type: betting
-  - id: b_ball
-    title: "B-Ball"
-    path: "BGM_Minigame_Basket.bfstm"
+  - id: spring_stadium_spring_man_s_theme
+    title: "Spring Stadium (Spring Man's Theme)"
+    path: "BGM_Stage_SpringStadium.bfstm"
     type: betting
-  - id: v_ball
-    title: "V-Ball"
-    path: "BGM_Minigame_VolleyBall.bfstm"
+  - id: ribbon_ring_ribbon_girl_s_theme
+    title: "Ribbon Ring (Ribbon Girl's Theme)"
+    path: "BGM_Stage_Ribbon.bfstm"
     type: betting
-  - id: get_arms_results
-    title: "Get ARMS (Results)"
-    path: "BGM_ShootingResult.bfstm"
-    type: result
-  - id: champion_of_the_arms_grand_prix
-    title: "Champion of the ARMS Grand Prix"
-    path: "BGM_ChampDemo.bfstm"
-    type: result
-  - id: snake_park_kid_cobras_theme
+  - id: ninja_college_ninjara_s_theme
+    title: "Ninja College (Ninjara's Theme)"
+    path: "BGM_Stage_Ninja.bfstm"
+    type: betting
+  - id: mausoleum_master_mummy_s_theme
+    title: "Mausoleum (Master Mummy's Theme)"
+    path: "BGM_Stage_Graveyard.bfstm"
+    type: betting
+  - id: ramen_bowl_min_min_s_theme
+    title: "Ramen Bowl (Min Min's Theme)"
+    path: "BGM_Stage_Bowl.bfstm"
+    type: betting
+  - id: scrapyard_mechanica_s_theme
+    title: "Scrapyard (Mechanica's Theme)"
+    path: "BGM_Stage_Kouteisa.bfstm"
+    type: betting
+  - id: cinema_deux_twintelle_s_theme
+    title: "Cinema Deux (Twintelle's Theme)"
+    path: "BGM_Stage_Theater.bfstm"
+    type: betting
+  - id: buster_beach_byte_barq_s_theme
+    title: "Buster Beach (Byte & Barq's Theme)"
+    path: "BGM_Stage_Seaside.bfstm"
+    type: betting
+  - id: snake_park_kid_cobra_s_theme
     title: "Snake Park (Kid Cobra's Theme)"
     path: "BGM_Stage_KomaPark.bfstm"
+    type: betting
+  - id: dna_lab_helix_s_theme
+    title: "DNA Lab (Helix's Theme)"
+    path: "BGM_Stage_Labo.bfstm"
     type: betting
   - id: via_dolce_lola_pop_s_theme
     title: "Via Dolce (Lola Pop's Theme)"
@@ -76,20 +60,56 @@ songs:
     title: "Temple Grounds (Misango's Theme)"
     path: "BGM_Stage_Wild.bfstm"
     type: betting
+  - id: sparring_ring_springtron_s_theme
+    title: "Sparring Ring (Springtron's Theme)"
+    path: "BGM_Stage_Square.bfstm"
+    type: betting
+  - id: sky_arena_max_brass_theme
+    title: "Sky Arena (Max Brass' Theme)"
+    path: "BGM_Stage_SkyArena.bfstm"
+    type: betting
+  - id: sky_arena_night_max_brass_hedlok
+    title: "Sky Arena (Night) (Max Brass Hedlok)"
+    path: "BGM_Stage_SkyArenaNight.bfstm"
+    type: battle
+  - id: name_redacted_dr_coyle_s_theme
+    title: "[NAME REDACTED] (Dr. Coyle's Theme)"
+    path: "BGM_Stage_Coil.bfstm"
+    type: betting
+  - id: dr_coyle_hedlok
+    title: "Dr. Coyle Hedlok"
+    path: "BGM_Stage_Coil_Ashura.bfstm"
+    type: betting
+  - id: champion_of_the_arms_grand_prix
+    title: "Champion of the ARMS Grand Prix"
+    path: "BGM_ChampDemo.bfstm"
+    type: result
+  - id: staff_credits_arms
+    title: "Staff Credits"
+    path: "Ending.m4a"
+    type: break
+  - id: replay_arms
+    title: "Replay"
+    path: "BGM_Replay.bfstm"
+    type: betting
+  - id: v_ball
+    title: "V-Ball"
+    path: "BGM_Minigame_VolleyBall.bfstm"
+    type: betting
+  - id: hoops
+    title: "Hoops"
+    path: "BGM_Minigame_Basket.bfstm"
+    type: betting
+  - id: get_arms
+    title: "Get ARMS"
+    path: "BGM_Shooting.bfstm"
+    type: betting
+  - id: get_arms_results
+    title: "Get ARMS (Results)"
+    path: "BGM_ShootingResult.bfstm"
+    type: result
   - id: tournament_lobby_arms
     title: "Tournament Lobby"
     path: "BGM_OfficialLobby.bfstm"
-    type: betting
-  - id: buster_beach_byte_barq_s_theme
-    title: "Buster Beach (Byte & Barq's Theme)"
-    path: "BGM_Stage_Seaside.bfstm"
-    type: betting
-  - id: sparring_ring
-    title: "Sparring Ring"
-    path: "BGM_Stage_Square.bfstm"
-    type: betting
-  - id: arms_title
-    title: "ARMS"
-    path: "BGM_Title.bfwav"
     type: betting
 ...

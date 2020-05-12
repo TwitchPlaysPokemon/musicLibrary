@@ -342,6 +342,14 @@ songs:
     title: "Gear Up For..."
     path: "j27_hr_menu.lopus"
     type: betting
+  - id: fire_emblem_three_houses_main_theme_jp_ssbu
+    title: "Fire Emblem: Three Houses Main Theme (JP)"
+    path: "j41a_fsg_maintheme_jp.lopus"
+    type: battle
+  - id: fire_emblem_three_houses_main_theme_ssbu
+    title: "Fire Emblem: Three Houses Main Theme"
+    path: "j41b_fsg_maintheme_en.lopus"
+    type: battle
   - id: main_theme_pikmin_ssbu
     title: "Main Theme - Pikmin"
     path: "l17_pik_maintheme.lopus"

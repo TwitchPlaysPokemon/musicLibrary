@@ -4,8 +4,88 @@ title: "The King of Fighters '97"
 platform: "Various"
 year: 1997
 songs: 
+  - id: cool_jam_stormy_saxophone_3_iori_yagami
+    title: "COOL JAM ~Stormy Saxophone 3~ (Iori Yagami)"
+    path: "21 Cool Jam _Stormy Saxophone 3_ (Iori Yagami).vgz"
+    type: betting
   - id: the_origin_of_mind_???_stage
     title: "The Origin of Mind (??? Stage)"
     path: "31 The Origin of Mind (Secret Stage).vgz"
     type: battle
+  - id: order_player_select
+    title: "ORDER (Player Select)"
+    path: "03 Order (Player Select).vgz"
+    type: warning
+  - id: esaka_forever_kyo_kusanagi
+    title: "ESAKA FOREVER (Kyo Kusanagi)"
+    path: "05 Esaka Forever (Kyo Kusanagi).vgz"
+    type: battle
+  - id: with_kuri_forever_terry_bogard
+    title: "With Kuri Forever (Terry Bogard)"
+    path: "07 With Kuri Forever (Terry Bogard).vgz"
+    type: betting
+  - id: bloody_new_face_team
+    title: "Bloody (NEW FACE Team)"
+    path: "09 Bloody (New Face Team).vgz"
+    type: betting
+  - id: blue_mary_s_blues_blue_mary
+    title: "BLUE MARY'S BLUES (Blue Mary)"
+    path: "10 Blue Mary's Blues (Blue Mary).vgz"
+    type: betting
+  - id: psycho_soldier_remix_97_athena_asamiya
+    title: "Psycho Soldier REMIX'97 (Athena Asamiya)"
+    path: "12 Psycho Soldier Remix '97 (Athena Asamiya).vgz"
+    type: betting
+  - id: s_n_n_w_midway_demo
+    title: "S.N.N.W (Midway Demo)"
+    path: "13 S.N.N.W (Midway Demo).vgz"
+    type: warning
+  - id: still_green_shingo_yabuki
+    title: "Still Green (Shingo Yabuki)"
+    path: "15 Still Green (Shingo Yabuki).vgz"
+    type: betting
+  - id: c62_shirokuni- (Ryuji Yamazaki)
+    title: "C62 -Shirokuni- (Ryuji Yamazaki)"
+    path: "16 C62 -Shirokuni- (Ryuji Yamazaki).vgz"
+    type: betting
+  - id: london_march_billy_kane
+    title: "London March (Billy Kane)"
+    path: "18 London March (Billy Kane).vgz"
+    type: battle
+  - id: h_c_c_joining_in_player_select
+    title: "H.C.C (Joining In Player Select)"
+    path: "19 H.C.C (Joining In Player Select).vgz"
+    type: warning
+  - id: cool_jam_stormy_saxophone_3_iori_yagami
+    title: "COOL JAM ~Stormy Saxophone 3~ (Iori Yagami)"
+    path: "21 Cool Jam ~Stormy Saxophone 3~ (Iori Yagami).vgz"
+    type: betting
+  - id: control_crisis_?_stage
+    title: "CONTROL CRISIS (? Stage)"
+    path: "26 Control Crisis (Secret Stage).vgz"
+    type: betting
+  - id: rhythmic_hallucination_??_stage
+    title: "Rhythmic Hallucination (?? Stage)"
+    path: "29 Rhythmic Hallucination (Secret Stage).vgz"
+    type: betting
+  - id: nothingness_demo_4
+    title: "Nothingness (Demo 4)"
+    path: "32 Nothingness (Demo 4).vgz"
+    type: warning
+  - id: episode_i_ending_1
+    title: "Episode I (Ending 1)"
+    path: "33 Episode I (Ending 1).vgz"
+    type: result
+  - id: episode_ii_ending_2
+    title: "Episode II (Ending 2)"
+    path: "34 Episode II (Ending 2).vgz"
+    type: result
+  - id: episode_iii_ending_3
+    title: "Episode III (Ending 3)"
+    path: "35 Episode III (Ending 3).vgz"
+    type: break
+  - id: mirthless_staff_roll
+    title: "MIRTHLESS (Staff Roll)"
+    path: "40 Mirthless (Staff Roll).vgz"
+    type: break
 ...

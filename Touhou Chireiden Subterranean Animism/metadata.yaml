@@ -14,9 +14,9 @@ songs:
     title: "Solar Sect of Mystic Wisdom ~ Nuclear Fusion"
     path: "Solar Sect of Mystic Wisdom ~ Nuclear Fusion.brstm"
     type: battle
-  - id: hartmanns_youkai_girl_remix
-    title: "Hartmann's Youkai Girl (Remix)"
-    path: "Hartmann Youkai Girl.brstm"
+  - id: hartmann_s_youkai_girl
+    title: "Hartmann's Youkai Girl"
+    path: "Hartmann's Youkai Girl.brstm"
     type: battle
   - id: the_sealed_away_youkai_lost_place
     title: "The Sealed-Away Youkai ~ Lost Place"
@@ -33,13 +33,14 @@ songs:
   - id: last_remote
     title: "Last Remote"
     path: "Last Remote.brstm"
-    type: warning
+    ends: 3:05
+    type: betting
   - id: green_eyed_jealousy
     title: "Green-Eyed Jealousy"
     path: "Green-Eyed Jealousy.brstm"
     type: battle
-  - id: solar_sect_of_mystic_wisdom_nuclear_fusion_arrange_by_demetori
-    title: "Solar Sect of Mystic Wisdom ~ Nuclear Fusion (arrange by Demetori)"
+  - id: solar_sect_of_mystic_wisdom_nuclear_fusion_demetori_arrange
+    title: "Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Demetori arrange)"
     path: "Nuclear Fusion (Demetori).brstm"
     type: battle
   - id: the_bridge_people_no_longer_cross
@@ -56,7 +57,12 @@ songs:
     ends: 2:34
     type: betting
   - id: lullaby_of_deserted_hell_tam_keigo_kanzaki_arrange
-    title: "Lullaby of Deserted Hell (TAM & Keigo Kanzaki Arrange)"
+    title: "Lullaby of Deserted Hell (TAM & Keigo Kanzaki arrange)"
     path: "Lullaby of Deserted Hell (TAM and Keigo Kanzaki).brstm"
+    type: betting
+  - id: heartfelt_fancy
+    title: "Heartfelt Fancy"
+    path: "Heartfelt Fancy.brstm"
+    ends: 2:20
     type: betting
 ...

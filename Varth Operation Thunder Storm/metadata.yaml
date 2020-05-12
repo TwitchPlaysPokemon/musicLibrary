@@ -1,0 +1,99 @@
+---
+id: varth_operation_thunder_storm
+title: "Varth: Operation Thunder Storm"
+platform: "Arcade"
+year: 1992
+songs: 
+  - id: pod_type_select
+    title: "POD TYPE SELECT"
+    path: "02 Pod Type Select.vgz"
+    type: result
+  - id: stage_1_16
+    title: "Stage 1, 16"
+    path: "03 Stage 1, 16.vgz"
+    type: battle
+  - id: stage_1_boss_spider
+    title: "Stage 1 Boss \"SPIDER\""
+    path: "04 Stage 1 Boss SPIDER.vgz"
+    type: warning
+  - id: stage_2_varth
+    title: "Stage 2"
+    path: "06 Stage 2.vgz"
+    type: battle
+  - id: stage_3_varth
+    title: "Stage 3"
+    path: "07 Stage 3.vgz"
+    type: battle
+  - id: stage_4_21_boss_satellite
+    title: "Stage 4, 21 Boss \"SATELLITE\""
+    path: "08 Stage 4, 21 Boss SATELLITE.vgz"
+    type: warning
+  - id: stage_5_10
+    title: "Stage 5, 10"
+    path: "09 Stage 5, 10.vgz"
+    type: battle
+  - id: stage_6_26
+    title: "Stage 6, 26"
+    path: "10 Stage 6, 26.vgz"
+    type: battle
+  - id: stage_7_22_boss_dragon_fly
+    title: "Stage 7, 22 Boss \"DRAGON FLY\""
+    path: "11 Stage 7, 22 Boss DRAGON FLY.vgz"
+    type: warning
+  - id: stage_8_varth
+    title: "Stage 8"
+    path: "12 Stage 8.vgz"
+    type: betting
+  - id: stage_9_13
+    title: "Stage 9, 13"
+    path: "13 Stage 9, 13.vgz"
+    type: battle
+  - id: stage_11_23_boss_clover_fore
+    title: "Stage 11, 23 Boss \"CLOVER FORE\""
+    path: "14 Stage 11, 23 Boss CLOVER FORE.vgz"
+    type: warning
+  - id: stage_12_17
+    title: "Stage 12, 17"
+    path: "15 Stage 12, 17.vgz"
+    type: betting
+  - id: stage_14
+    title: "Stage 14"
+    path: "16 Stage 14.vgz"
+    type: battle
+  - id: stage_15_24_boss_iron_golem
+    title: "Stage 15, 24 Boss \"IRON GOLEM\""
+    path: "17 Stage 15, 24 Boss IRON GOLEM.vgz"
+    type: warning
+  - id: stage_18_28
+    title: "Stage 18, 28"
+    path: "18 Stage 18, 28.vgz"
+    type: battle
+  - id: stage_19_25_boss_bloody_hawk
+    title: "Stage 19, 25 Boss \"BLOODY HAWK\""
+    path: "19 Stage 19, 25 Boss BLOODY HAWK.vgz"
+    type: warning
+  - id: stage_20_bonus_stage
+    title: "Stage 20 BONUS STAGE"
+    path: "20 Stage 20 - Bonus Stage.vgz"
+    type: result
+  - id: stage_27
+    title: "Stage 27"
+    path: "21 Stage 27.vgz"
+    type: battle
+  - id: stage_29_boss_cartbridge_gunner
+    title: "Stage 29 Boss \"CARTBRIDGE GUNNER\""
+    path: "22 Stage 29 Boss CARTBRIDGE GUNNER.vgz"
+    type: warning
+  - id: stage_30_last_boss_duo_part_1
+    title: "Stage 30 LAST Boss "DUO" (Part 1)"
+    path: "23 Stage 30 Last Boss DUO (Part 1).vgz"
+    type: warning
+  - id: stage_30_last_boss_duo_part_2
+    title: "Stage 30 LAST Boss "DUO" (Part 2)"
+    path: "24 Stage 30 Last Boss DUO (Part 2).vgz"
+    type: warning
+  - id: staff_roll_varth
+    title: "STAFF ROLL"
+    path: "28 Staff Roll.vgz"
+    type: result
+...

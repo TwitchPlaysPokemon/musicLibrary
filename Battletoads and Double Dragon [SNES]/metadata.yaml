@@ -1,0 +1,35 @@
+---
+id: battletoads_and_double_dragon_snes
+title: "Battletoads & Double Dragon [SNES]"
+platform: ["SNES", "NES", "SMD"]
+year: 1993
+songs: 
+  - id: level_1_battletoads_and_double_dragon
+    title: "Level 1"
+    path: "03 Abobo.spc"
+    type: betting
+  - id: level_2_battletoads_and_double_dragon
+    title: "Level 2"
+    path: "04 Big Blag.spc"
+    type: betting
+  - id: level_3_battletoads_and_double_dragon
+    title: "Level 3"
+    path: "05 Roper.spc"
+    type: betting
+  - id: level_4_battletoads_and_double_dragon
+    title: "Level 4"
+    path: "06 Rat Ship.spc"
+    type: betting
+  - id: level_5_battletoads_and_double_dragon
+    title: "Level 5"
+    path: "07 Robo Manus.spc"
+    type: battle
+  - id: level_6_battletoads_and_double_dragon
+    title: "Level 6"
+    path: "08 Shadow Boss.spc"
+    type: betting
+  - id: level_7_battletoads_and_double_dragon
+    title: "Level 7"
+    path: "09 The Dark Queen.spc"
+    type: battle
+...

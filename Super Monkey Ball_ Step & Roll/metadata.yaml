@@ -2,9 +2,14 @@
 id: super_monkey_ball__step__roll
 title: "Super Monkey Ball: Step & Roll"
 series: supermonkeyball
-year: 2010
 platform: "Wii"
-songs:
+year: 2010
+songs: 
+  - id: just_beyond_the_rainbow
+    title: "Just Beyond The Rainbow"
+    path: "BGM_com_w1_staffroll_wav.aax"
+    ends: 3:20
+    type: betting
   - id: magma_valley
     title: "Magma Valley"
     path: "Magma Valley.brstm"

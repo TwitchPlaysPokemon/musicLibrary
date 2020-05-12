@@ -13,4 +13,9 @@ songs:
     title: "菩殺 (Phase 2)"
     path: "35 菩殺 2.brstm"
     type: battle
+  - id: with_you
+    title: "With You"
+    path: "39 With You.brstm"
+    ends: 3:33
+    type: betting
 ...

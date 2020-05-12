@@ -24,7 +24,7 @@ songs:
   - id: skies_and_beyond_the_clouds
     title: "Skies and Beyond the Clouds"
     path: "Skies Beyond the Clouds.brstm"
-    type: betting
+    type: warning
   - id: catastrophe_in_bhava_agra_arranged
     title: "Catastrophe in Bhava-Agra ~ Wonderful Heaven (Arranged)"
     path: "Catastrophe in Bhava-agra ~ Wonderful Heaven (Arranged).brstm"
@@ -48,7 +48,7 @@ songs:
   - id: catastrophe_in_bhava_agra_wonderful_heaven
     title: "Catastrophe in Bhava-Agra ~ Wonderful Heaven"
     path: "Catastrophe in Bhava-agra ~ Wonderful Heaven.brstm"
-    type: warning
+    type: battle
   - id: bhava_agra_as_seen_through_a_child_s_mind
     title: "Bhava-Agra as Seen Through a Child's Mind"
     path: "Bhava-agra in a Child's Mind.brstm"
@@ -76,5 +76,17 @@ songs:
   - id: the_ground_s_color_is_yellow
     title: "The Ground's Color is Yellow"
     path: "The Ground's Color is Yellow.brstm"
+    type: battle
+  - id: crimson_in_the_black_sea_legendary_fish
+    title: "Crimson in the Black Sea ~ Legendary Fish"
+    path: "Crimson in the Black Sea ~ Legendary Fish.brstm"
+    type: battle
+  - id: crimson_in_the_black_sea_legendary_fish_arranged
+    title: "Crimson in the Black Sea ~ Legendary Fish (Arranged)"
+    path: "Crimson in the Black Sea ~ Legendary Fish (Arranged).brstm"
+    type: battle
+  - id: lunatic_eyes_invisible_full_moon
+    title: "Lunatic Eyes ~ Invisible Full Moon"
+    path: "Lunatic Eyes ~ Invisible Full Moon.brstm"
     type: battle
 ...

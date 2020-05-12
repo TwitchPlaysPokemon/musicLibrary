@@ -1,0 +1,87 @@
+---
+id: the_king_of_fighters_98
+title: "The King of Fighters '98"
+platform: "Neo Geo"
+year: 1998
+songs: 
+  - id: cipher_beta_mvs_title
+    title: "CIPHER β (MVS Title)"
+    path: "02 Cipher B (MVS Title).vgz"
+    type: warning
+  - id: ok_operation_explanation
+    title: "OK? (Operation Explanation)"
+    path: "03 OK (Operation Explanation).vgz"
+    type: warning
+  - id: the_king_of_fighters_player_select
+    title: "The King Of Fighters (Player Select)"
+    path: "04 The King of Fighters (Player Select).vgz"
+    type: warning
+  - id: esaka_heroes_team
+    title: "ESAKA? (Heroes Team)"
+    path: "05 Esaka (Hero Team).vgz"
+    type: battle
+  - id: kurikinton_gomame_guitar_ver_fatal_fury_team
+    title: "Kurikinton ~Gomame Guitar Ver.~ (Fatal Fury Team)"
+    path: "06 Kurikinton ~Gomame Guitar Ver.~ (Fatal Fury Team).vgz"
+    type: betting
+  - id: art_of_fight_art_of_fighting_team
+    title: "Art Of Fight (Art of Fighting Team)"
+    path: "08 Art of Fight (Art of Fighting Team).vgz"
+    type: betting
+  - id: rumbling_on_the_city_ikari_team
+    title: "Rumbling on the City (Ikari Team)"
+    path: "09 Rumbling on the City (Ikari Team).vgz"
+    type: battle
+  - id: tremble_shuddering_gong_psycho_soldier_team
+    title: "Tremble! Shuddering Gong (Psycho Soldier Team)"
+    path: "10 Tremble! Shuddering Gong (Psycho Soldier Team).vgz"
+    type: betting
+  - id: fairy_women_fighters_team
+    title: "Fairy (Women Fighters Team)"
+    path: "11 Fairy (Women Fighters Team).vgz"
+    type: battle
+  - id: soul_town_kim_team
+    title: "Soul Town (Kim Team)"
+    path: "14 Soul Town (Kim Team).vgz"
+    type: battle
+  - id: in_spite_of_one_s_age_master_team
+    title: "IN SPITE OF ONE'S AGE (Master Team)"
+    path: "16 In Spite of One's Age (Oyaji Team).vgz"
+    type: betting
+  - id: stormy_saxophone_2_yagami_team
+    title: "Stormy Saxophone 2 (Yagami Team)"
+    path: "21 Stormy Saxophone 2 (Yagami Team).vgz"
+    type: betting
+  - id: rhythmic_hallucination_yashiro_of_the_parched_earth
+    title: "Rhythmic Hallucination (Yashiro of the Parched Earth)"
+    path: "28 Rhythmic Hallucination (Yashiro of the Dried Earth).vgz"
+    type: betting
+  - id: fanatic_waltz_shermie_of_the_raging_lightning
+    title: "FANATIC WALTZ (Shermie of the Raging Lightning)"
+    path: "29 Fanatic Waltz (Shermie of the Raging Lightning).vgz"
+    type: betting
+  - id: mad_fantasy_chris_of_the_flames_of_destiny
+    title: "MAD FANTASY (Chris of the Flames of Destiny)"
+    path: "30 Mad Fantasy (Chris of the Flames of Destiny).vgz"
+    type: betting
+  - id: hey_94_women_fighters_team
+    title: "Hey! ('94 Women Fighters Team)"
+    path: "31 Hey! ('94 Women Fighters Team).vgz"
+    type: betting
+  - id: stormy_saxophone_iori_yagami
+    title: "Stormy Saxophone (Iori Yagami)"
+    path: "33 Stormy Saxophone (Iori Yagami).vgz"
+    type: betting
+  - id: x_before_boss_order_select
+    title: "X (Before Boss Order Select)"
+    path: "36 X (Before Boss Order Select).vgz"
+    type: warning
+  - id: xxx_boss_stage
+    title: "XXX (Boss Stage)"
+    path: "40 XXX (Boss Stage).vgz"
+    type: battle
+  - id: zero_staff_roll
+    title: "ZERO (Staff Roll)"
+    path: "43 Zero (Staff Roll).vgz"
+    type: betting
+...

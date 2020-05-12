@@ -2,9 +2,9 @@
 id: touhou_reiiden_highly_responsive_to_prayers
 title: "Touhou Reiiden ~ Highly Responsive to Prayers"
 series: touhou
-year: 1995
 platform: "PC-98"
-songs:
+year: 1995
+songs: 
   - id: the_legend_of_kage_touhou
     title: "The Legend of KAGE"
     path: "The Legend of KAGE.brstm"
@@ -13,4 +13,12 @@ songs:
     title: "Theme of Eastern Story"
     path: "Theme of Eastern Story.brstm"
     type: result
+  - id: now_until_the_moment_you_die
+    title: "Now, Until the Moment You Die"
+    path: "Now, Die for the Debt You Have Accumulated.brstm"
+    type: battle
+  - id: civilization_of_magic
+    title: "Civilization of Magic"
+    path: "Civilization of Magic.brstm"
+    type: battle
 ...

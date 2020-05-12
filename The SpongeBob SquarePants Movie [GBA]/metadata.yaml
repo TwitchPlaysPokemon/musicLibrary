@@ -1,0 +1,31 @@
+---
+id: the_spongebob_squarepants_movie_gba
+title: "The SpongeBob SquarePants Movie [GBA]"
+platform: "GBA"
+year: 2004
+songs: 
+  - id: coral_reef
+    title: "Coral Reef"
+    path: "01 long_coral_reef.minigsf"
+    type: betting
+  - id: racing_level
+    title: "Racing Level"
+    path: "02 long_racing_level.minigsf"
+    type: result
+  - id: bikini_bottom
+    title: "Bikini Bottom"
+    path: "03 long_bikini_bottom.minigsf"
+    type: betting
+  - id: desert_the_spongebob_squarepants_movie_gba
+    title: "Desert"
+    path: "05 long_the_desert.minigsf"
+    type: betting
+  - id: caught_up_with_troublemakers
+    title: "Caught Up With Troublemakers"
+    path: "15 short_caught_up_with_troublemakers.minigsf"
+    type: warning
+  - id: caught_up_with_final_boss
+    title: "Caught Up With Final Boss"
+    path: "19 short_caught_up_with_final_boss.minigsf"
+    type: warning
+...

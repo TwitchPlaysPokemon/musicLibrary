@@ -1,0 +1,35 @@
+---
+id: truxton_ii
+title: "Truxton II"
+platform: ["Arcade", "FM Towns"]
+year: 1992
+songs: 
+  - id: stage_1_live_in_future
+    title: "STAGE 1 \"LIVE IN FUTURE\""
+    path: "02 Stage 1 - Live In Future.vgz"
+    type: betting
+  - id: stage_2_i_defend_stm
+    title: "STAGE 2 \"I DEFEND STM\""
+    path: "03 Stage 2 - I Defend STM.vgz"
+    type: betting
+  - id: stage_3_gratify
+    title: "STAGE 3 \"GRATIFY\""
+    path: "04 Stage 3 - Gratify.vgz"
+    type: betting
+  - id: stage_4_no_delusion
+    title: "STAGE 4 \"NO DELUSION\""
+    path: "05 Stage 4 - No Delusion.vgz"
+    type: betting
+  - id: stage_4_still_love_you
+    title: "STAGE 5 \"STILL LOVE YOU\""
+    path: "06 Stage 5 - Still Love You.vgz"
+    type: betting
+  - id: stage_6_faze
+    title: "STAGE 6 \"FAZE\""
+    path: "07 Stage 6 - Faze.vgz"
+    type: betting
+  - id: boss_heavy_long
+    title: "BOSS \"HEAVY LONG\""
+    path: "09 Boss - Heavy Long.vgz"
+    type: warning
+...

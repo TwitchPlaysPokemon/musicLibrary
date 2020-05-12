@@ -4,8 +4,100 @@ title: "The King of Fighters '96 [Neo Geo]"
 platform: "Various"
 year: 1996
 songs: 
+  - id: in_1996_title
+    title: "\"IN 1996\" (Title)"
+    path: "02 'In 1996' (Title).vgz"
+    type: warning
+  - id: roulette_player_select
+    title: "Roulette (Player Select)"
+    path: "03 Roulette (Player Select).vgz"
+    type: warning
+  - id: esaka_heroes_team_theme
+    title: "ESAKA? (Heroes Team Theme)"
+    path: "04 Esaka_ (Hero Team Theme).vgz"
+    type: battle
+  - id: big_shot_mellow_fatal_fury_team_theme
+    title: "Big Shot! \"Mellow\" (Fatal Fury Team Theme)"
+    path: "06 Big Shot! 'Mellow' (Fatal Fury Team Theme).vgz"
+    type: betting
+  - id: rumbling_on_the_city_new_ikari_team_theme
+    title: "Rumbling on the City (New Ikari Team Theme)"
+    path: "07 Rumbling on the City (New Ikari Team Theme).vgz"
+    type: battle
+  - id: psycho_soldier_remix_96_psycho_soldier_team_theme
+    title: "Psycho Soldier REMIX'96 (Psycho Soldier Team Theme)"
+    path: "08 Psycho Soldier Remix '96 (Psycho Soldier Team Theme).vgz"
+    type: betting
+  - id: seoul_road_kim_team_theme
+    title: "Seoul Road (Kim Team Theme)"
+    path: "09 Seoul Road (Kim Team Theme).vgz"
+    type: battle
   - id: long_horned_beetle_art_of_fighting_team
     title: "Long-horned Beetle (Art of Fighting Team)"
     path: "10 Long-horned Beetle (Art of Fighting Team).vgz"
     type: betting
+  - id: here_comes_challenger_intrusion_player_select
+    title: "HERE COMES CHALLENGER (Intrusion Player Select)"
+    path: "11 Here Comes Challenger (Intrusion Player Select).vgz"
+    type: warning
+  - id: get_n_up_new_women_fighters_team_theme
+    title: "Get'n Up (New Women Fighters Team Theme)"
+    path: "12 Get'n Up (New Women Fighters Team Theme).vgz"
+    type: betting
+  - id: stormy_saxophone_2_yagami_team_theme
+    title: "Stormy Saxophone 2 (Yagami Team Theme)"
+    path: "13 Stormy Saxophone 2 (Yagami Team Theme).vgz"
+    type: betting
+  - id: stiff_shoulders_for_geese_geese_theme
+    title: "Stiff Shoulders for Geese (Geese Theme)"
+    path: "14 Stiff Shoulders for Geese (Geese Theme).vgz"
+    type: battle
+  - id: dust_man_mr_big_theme
+    title: "Dust man (Mr.BIG Theme)"
+    path: "15 Dust Man (Mr. Big Theme).vgz"
+    type: betting
+  - id: requiem_in_d_minor_k_626_dies_irae_krauser_theme
+    title: "Requiem in D Minor K.626 Dies Irae (Krauser Theme)"
+    path: "16 Requiem in D Minor K.626 Dies Irae (Krauser Theme).vgz"
+    type: betting
+  - id: protector_demo_1
+    title: "Protector (Demo 1)"
+    path: "17 Protector (Demo 1).vgz"
+    type: betting
+  - id: fairy_chizuru_theme
+    title: "Fairy (Chizuru Theme)"
+    path: "18 Fairy (Chizuru Theme).vgz"
+    type: battle
+  - id: wind_demo_2
+    title: "Wind (Demo 2)"
+    path: "19 Wind (Demo 2).vgz"
+    type: warning
+  - id: trash_head_goenitz_theme
+    title: "TRASH HEAD (Goenitz Theme)"
+    path: "20 Trash Head (Goenitz Theme).vgz"
+    type: betting
+  - id: to_the_sky_demo_3
+    title: "To the Sky (Demo 3)"
+    path: "21 To the Sky (Demo 3).vgz"
+    type: warning
+  - id: den_ending_1
+    title: "Den! (Ending 1)"
+    path: "22 Den! (Ending 1).vgz"
+    type: result
+  - id: den_den_ending_2
+    title: "Den! Den! (Ending 2)"
+    path: "23 Den! Den! (Ending 2).vgz"
+    type: result
+  - id: den_den_den_ending_3
+    title: "Den! Den! Den! (Ending 3)"
+    path: "24 Den! Den! Den! (Ending 3).vgz"
+    type: result
+  - id: self_heroes_team_ending
+    title: "SELF (Heroes Team Ending)"
+    path: "25 Self (Protagonist Team Ending).vgz"
+    type: break
+  - id: rising_red_staff_roll
+    title: "RISING RED (Staff Roll)"
+    path: "26 Rising Red (Credits).vgz"
+    type: break
 ...

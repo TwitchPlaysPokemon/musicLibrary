@@ -4,49 +4,53 @@ title: "SoulCalibur V"
 series: soulcalibur
 platform: ["PS3", "360"]
 year: 2012
-songs:
-  - id: venice_rooftops_scv_mix
-    title: "Venice Rooftops (SCV mix)"
-    path: "Venice Rooftops (SCV Remix).brstm"
+songs: 
+  - id: till_fate_writes_my_epitaph
+    title: "Till Fate Writes My Epitaph"
+    path: "00012.hca"
     type: betting
-  - id: pavor_nocturnus
-    title: "Pavor Nocturnus"
-    path: "Pavor Nocturnus.brstm"
-    type: warning
+  - id: a_high_spirited_tiger
+    title: "A High-Spirited Tiger"
+    path: "00029.hca"
+    type: betting
   - id: master_of_edges
     title: "Master of Edges"
-    path: "Master of Edge.brstm"
+    path: "00014.hca"
+    type: battle
+  - id: virtuous_heart
+    title: "Virtuous Heart"
+    path: "00027.hca"
     type: betting
   - id: sacred_dawn
     title: "Sacred Dawn"
-    path: "Sacred Dawn.brstm"
-    type: betting
-  - id: chaos_and_cosmos
-    title: "Chaos and Cosmos"
-    path: "Chaos and Cosmos.brstm"
-    type: warning
-  - id: till_fate_writes_my_epitaph
-    title: "Till Fate Writes My Epitaph"
-    path: "Till Fate Writes My Epitaph.brstm"
-    type: betting
-  - id: virtuous_heart
-    title: "Virtuous Heart"
-    path: "Virtuous Heart.brstm"
-    type: betting
-  - id: dance_of_the_oracle
-    title: "Dance of the Oracle"
-    path: "Dance of the Oracle  .brstm"
-    type: betting
-  - id: legend_unveiled
-    title: "Legend Unveiled"
-    path: "Legend Unveiled.brstm"
-    type: warning
-  - id: a_high_spirited_tiger
-    title: "A High-Spirited Tiger"
-    path: "A High-Spirited Tiger.brstm"
+    path: "00033.hca"
     type: betting
   - id: brutal_instinct
     title: "Brutal Instinct"
-    path: "Brutal Instinct.brstm"
+    path: "00031.hca"
+    type: warning
+  - id: pavor_nocturnus
+    title: "Pavor Nocturnus"
+    path: "00015.hca"
+    type: warning
+  - id: dance_of_the_oracle
+    title: "Dance of the Oracle"
+    path: "00038.hca"
+    type: betting
+  - id: venice_rooftops_scv_mix
+    title: "Venice Rooftops (SCV mix)"
+    path: "00037.hca"
+    type: betting
+  - id: chaos_and_cosmos
+    title: "Chaos and Cosmos"
+    path: "00001.hca"
+    type: betting
+  - id: artificer_s_fancy
+    title: "Artificer's Fancy"
+    path: "00003.hca"
+    type: betting
+  - id: legend_unveiled
+    title: "Legend Unveiled"
+    path: "00002.hca"
     type: warning
 ...

@@ -1,0 +1,225 @@
+---
+id: pokemon_mystery_dungeon_rescue_team_dx
+title: "Pokémon Mystery Dungeon: Rescue Team DX"
+platform: "Switch"
+year: 2020
+songs: 
+  - id: pokemon_rescue_team_theme_pmd_rt_dx
+    title: "Pokémon Rescue Team Theme"
+    path: "BGM_SYS_TITLE_02.fsb"
+    type: result
+  - id: top_menu_pmd_rt_dx
+    title: "Top Menu"
+    path: "BGM_CAMP_HOME_SHINKA.fsb"
+    type: break
+  - id: welcome_to_the_world_of_pokemon_pmd_rt_dx
+    title: "Welcome to the World of Pokémon!"
+    path: "BGM_EVE_YUME.fsb"
+    type: break
+  - id: meeting_with_a_partner_pmd_rt_dx
+    title: "Meeting with a Partner"
+    path: "BGM_EVE_CALMLY.fsb"
+    type: betting
+  - id: there_s_trouble_pmd_rt_dx
+    title: "There's Trouble!"
+    path: "BGM_EVE_TENSION.fsb"
+    type: warning
+  - id: tiny_woods_pmd_rt_dx
+    title: "Tiny Woods"
+    path: "BGM_DUN_CHIISANAMORI_01.fsb"
+    type: betting
+  - id: in_the_depths_of_the_pit_pmd_rt_dx
+    title: "In the Depths of the Pit"
+    path: "BGM_DUN_EVENTFLOOR_01.fsb"
+    type: warning
+  - id: job_cleared_pmd_rt_dx
+    title: "Job Cleared!"
+    path: "BGM_EVE_CLEARED.fsb"
+    type: result
+  - id: rescue_base_pmd_rt_dx
+    title: "Rescue Base"
+    path: "BGM_CAMP_HOME01.fsb"
+    type: betting
+  - id: thunderwave_cave_pmd_rt_dx
+    title: "Thunderwave Cave"
+    path: "BGM_DUN_DENJIHA_01.fsb"
+    type: betting
+  - id: pokemon_square_pmd_rt_dx
+    title: "Pokémon Square"
+    path: "BGM_CAMP_HIROBA.fsb"
+    type: betting
+  - id: mt_steel_pmd_rt_dx
+    title: "Mt. Steel"
+    path: "BGM_DUN_HAGANE_01.fsb"
+    type: betting
+  - id: boss_battle_pmd_rt_dx
+    title: "Boss Battle!"
+    path: "BGM_EVE_BOSS01.fsb"
+    type: battle
+  - id: makuhita_dojo_pmd_rt_dx
+    title: "Makuhita Dojo"
+    path: "BGM_DUN_TUTORIAL_01.fsb"
+    type: betting
+  - id: sinister_woods_pmd_rt_dx
+    title: "Sinister Woods"
+    path: "BGM_DUN_AYASHIIMORI_01.fsb"
+    type: betting
+  - id: silent_chasm_pmd_rt_dx
+    title: "Silent Chasm"
+    path: "BGM_DUN_CHINMOKU_01.fsb"
+    type: betting
+  - id: rising_fear_pmd_rt_dx
+    title: "Rising Fear"
+    path: "BGM_EVE_FEAR.fsb"
+    type: warning
+  - id: mt_thunder_pmd_rt_dx
+    title: "Mt. Thunder"
+    path: "BGM_DUN_RAIMEI_01.fsb"
+    type: betting
+  - id: mt_thunder_peak_pmd_rt_dx
+    title: "Mt. Thunder Peak"
+    path: "BGM_DUN_RAIMEI_02.fsb"
+    type: betting
+  - id: great_canyon_pmd_rt_dx
+    title: "Great Canyon"
+    path: "BGM_DUN_KYOUKOKU_01.fsb"
+    type: betting
+  - id: the_legend_of_ninetales_pmd_rt_dx
+    title: "The Legend of Ninetales"
+    path: "BGM_EVE_LEGEND.fsb"
+    type: break
+  - id: journey_of_fugitives_pmd_rt_dx
+    title: "Journey of Fugitives"
+    path: "BGM_EVE_ESCAPE_01.fsb"
+    type: break
+  - id: lapis_cave_pmd_rt_dx
+    title: "Lapis Cave"
+    path: "BGM_DUN_GUNJYOU_01.fsb"
+    type: betting
+  - id: mt_blaze_pmd_rt_dx
+    title: "Mt. Blaze"
+    path: "BGM_DUN_HONOO_01.fsb"
+    type: betting
+  - id: mt_blaze_peak_pmd_rt_dx
+    title: "Mt. Blaze Peak"
+    path: "BGM_DUN_HONOO_02.fsb"
+    type: betting
+  - id: kecleon_shop_pmd_rt_dx
+    title: "Kecleon Shop"
+    path: "BGM_SYS_SHOP.fsb"
+    type: betting
+  - id: thief_pmd_rt_dx
+    title: "Thief!"
+    path: "BGM_SYS_STEAL.fsb"
+    type: warning
+  - id: at_the_snowy_mountain_pmd_rt_dx
+    title: "At the Snowy Mountain"
+    path: "BGM_EVE_ESCAPE_02.fsb"
+    type: break
+  - id: frosty_forest_pmd_rt_dx
+    title: "Frosty Forest"
+    path: "BGM_DUN_JUHYOU_01.fsb"
+    ends: 2:40
+    type: betting
+  - id: frosty_grotto_pmd_rt_dx
+    title: "Frosty Grotto"
+    path: "BGM_DUN_JUHYOU_02.fsb"
+    type: betting
+  - id: gardevoir_inside_of_a_dream_pmd_rt_dx
+    title: "Gardevoir Inside of a Dream"
+    path: "BGM_EVE_DREAM_02.fsb"
+    type: break
+  - id: mt_freeze_pmd_rt_dx
+    title: "Mt. Freeze"
+    path: "BGM_DUN_REIHOU_01.fsb"
+    type: betting
+  - id: mt_freeze_peak_pmd_rt_dx
+    title: "Mt. Freeze Peak"
+    path: "BGM_DUN_REIHOU_02.fsb"
+    type: betting
+  - id: it_s_a_monster_house_pmd_rt_dx
+    title: "It's a Monster House!"
+    path: "BGM_SYS_MONSTER.fsb"
+    type: battle
+  - id: magma_cavern_pmd_rt_dx
+    title: "Magma Cavern"
+    path: "BGM_DUN_CHITEI_01.fsb"
+    type: betting
+  - id: magma_cavern_pit_pmd_rt_dx
+    title: "Magma Cavern Pit"
+    path: "BGM_DUN_CHITEI_02.fsb"
+    type: betting
+  - id: world_calamity_pmd_rt_dx
+    title: "World Calamity"
+    path: "BGM_EVE_DISASTER.fsb"
+    type: warning
+  - id: sky_tower_pmd_rt_dx
+    title: "Sky Tower"
+    path: "BGM_DUN_TENKUU_01.fsb"
+    ends: 3:25
+    type: betting
+  - id: sky_tower_summit_pmd_rt_dx
+    title: "Sky Tower Summit"
+    path: "BGM_DUN_TENKUU_02.fsb"
+    type: betting
+  - id: defy_the_legends_battle_with_rayquaza_pmd_rt_dx
+    title: "Defy the Legends (Battle with Rayquaza)"
+    path: "BGM_EVE_BOSS02.fsb"
+    type: battle
+  - id: protected_world_peace_pmd_rt_dx
+    title: "Protected World Peace"
+    path: "BGM_EVE_SEPARATION_01.fsb"
+    type: break
+  - id: time_for_farewell_pmd_rt_dx
+    title: "Time for Farewell..."
+    path: "BGM_EVE_SEPARATION_02.fsb"
+    type: break
+  - id: ending_pmd_rt_dx
+    title: "Ending"
+    path: "BGM_SYS_ENDING_01.brstm"
+    type: break
+  - id: buried_relic_pmd_rt_dx
+    title: "Buried Relic"
+    path: "BGM_DUN_GENERAL_01.fsb"
+    type: betting
+  - id: stormy_sea_pmd_rt_dx
+    title: "Stormy Sea"
+    path: "BGM_DUN_GENERAL_02.fsb"
+    type: betting
+  - id: friend_area_grasslands_pmd_rt_dx
+    title: "Friend Area ~ Grasslands"
+    path: "BGM_CAMP_CALMLY_03.fsb"
+    type: result
+  - id: friend_area_steppe_pmd_rt_dx
+    title: "Friend Area ~ Steppe"
+    path: "BGM_CAMP_CALMLY_01.fsb"
+    type: betting
+  - id: friend_area_forest_pmd_rt_dx
+    title: "Friend Area ~ Forest"
+    path: "BGM_CAMP_MYSTIC_04.fsb"
+    type: betting
+  - id: friend_area_wilds_pmd_rt_dx
+    title: "Friend Area ~ Wilds"
+    path: "BGM_CAMP_MYSTIC_03.fsb"
+    type: betting
+  - id: friend_area_swamp_pmd_rt_dx
+    title: "Friend Area ~ Swamp"
+    path: "BGM_CAMP_DARK_01.fsb"
+    type: betting
+  - id: friend_area_pond_pmd_rt_dx
+    title: "Friend Area ~ Pond"
+    path: "BGM_CAMP_CALMLY_02.fsb"
+    type: betting
+  - id: friend_area_lab_pmd_rt_dx
+    title: "Friend Area ~ Lab"
+    path: "BGM_CAMP_MYSTIC_06.fsb"
+    type: betting
+  - id: friend_area_ocean_pmd_rt_dx
+    title: "Friend Area ~ Ocean"
+    path: "BGM_CAMP_MYSTIC_02.fsb"
+    type: break
+  - id: friend_area_cave_pmd_rt_dx
+    title: "Friend Area ~ Cave"
+    path: "BGM_CAMP_MYSTIC_01.fsb"
+    type: betting
+...

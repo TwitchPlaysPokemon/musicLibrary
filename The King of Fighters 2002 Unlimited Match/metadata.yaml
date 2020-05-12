@@ -12,4 +12,113 @@ songs:
     title: "Trash Head ~Spring has come~"
     path: "BGM41.adx"
     type: battle
+  - id: r_bite
+    title: "R-bite"
+    path: "BGM12.adx"
+    ends: 1:43
+    type: betting
+  - id: genocide_kof_2002_um
+    title: "Genocide"
+    path: "BGM08.adx"
+    type: warning
+  - id: asian_triple_alliance
+    title: "Asian Triple Alliance"
+    path: "BGM30.adx"
+    type: battle
+  - id: butterfly_emerges_from_chrysalis
+    title: "butterfly emerges from chrysalis"
+    path: "BGM23.adx"
+    type: battle
+  - id: cutting_edge
+    title: "Cutting Edge"
+    path: "BGM36.adx"
+    type: battle
+  - id: dark_gravitation
+    title: "Dark Gravitation"
+    path: "BGM37.adx"
+    type: battle
+  - id: decision_of_fate
+    title: "Decision of Fate"
+    path: "BGM03.adx"
+    type: battle
+  - id: desert_requiem_operation02um
+    title: "DESERT REQUIEM ~Operation02UM~"
+    path: "BGM18.adx"
+    type: battle
+  - id: destiny_kof_2002_um
+    title: "Destiny"
+    path: "BGM20.adx"
+    type: betting
+  - id: diamond_dust
+    title: "Diamond Dust"
+    path: "BGM33.adx"
+    type: battle
+  - id: esaka
+    title: "ESAKA!!"
+    path: "BGM15.adx"
+    type: battle
+  - id: falling_of_the_nightingale
+    title: "Falling of The Nightingale"
+    path: "BGM34.adx"
+    type: betting
+  - id: in_spite_of_one_s_age_ver_immortal
+    title: "In Spite of One's Age ~Ver.Immortal~"
+    path: "BGM29.adx"
+    type: betting
+  - id: kd_0079_plus
+    title: "KD-0079+"
+    path: "BGM26.adx"
+    type: battle
+  - id: masquerade
+    title: "Masquerade"
+    path: "BGM24.adx"
+    type: battle
+  - id: geese_with_mustard
+    title: "Geese with Mustard"
+    path: "BGM42.adx"
+    type: battle
+  - id: psycho_soldier_super_chinese_remix
+    title: "Psycho Soldier ~Super Chinese Remix~"
+    path: "BGM19.adx"
+    type: battle
+  - id: qt_ngel
+    title: "QT★@ngel"
+    path: "BGM35.adx"
+    type: battle
+  - id: re_bloody
+    title: "Re:Bloody"
+    path: "BGM22.adx"
+    type: battle
+  - id: shining_brave
+    title: "SHINING-BRAVE!"
+    path: "BGM28.adx"
+    type: battle
+  - id: soul_town_ver_justice
+    title: "Soul Town ~Ver.Justice~"
+    path: "BGM21.adx"
+    type: battle
+  - id: sun_shine_glory
+    title: "Sun Shine Glory"
+    path: "BGM16.adx"
+    type: betting
+  - id: testament_of_nests
+    title: "Testament of Nests"
+    path: "BGM38.adx"
+    type: betting
+  - id: tranquilizer
+    title: "Tranquilizer"
+    path: "BGM25.adx"
+    type: battle
+  - id: undercover
+    title: "Undercover"
+    path: "BGM27.adx"
+    type: battle
+  - id: unlimited_r
+    title: "Unlimited R"
+    path: "BGM40.adx"
+    type: battle
+  - id: nameless_theme
+    title: "Ж'"
+    path: "BGM32.adx"
+    type: battle
 ...

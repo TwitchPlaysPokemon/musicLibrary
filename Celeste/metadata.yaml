@@ -4,6 +4,34 @@ title: "Celeste"
 platform: "Various"
 year: 2018
 songs: 
+  - id: first_steps
+    title: "First Steps"
+    path: "02 First Steps.mp3"
+    type: betting
+  - id: resurrections
+    title: "Resurrections"
+    path: "03 Resurrections.mp3"
+    type: betting
+  - id: checking_in
+    title: "Checking In"
+    path: "06 Checking In.mp3"
+    type: betting
+  - id: scattered_and_lost
+    title: "Scattered and Lost"
+    path: "08 Scattered and Lost.mp3"
+    type: betting
+  - id: quiet_and_falling
+    title: "Quiet and Falling"
+    path: "11 Quiet and Falling.mp3"
+    type: break
+  - id: madeline_and_theo
+    title: "Madeline and Theo"
+    path: "13 Madeline and Theo.mp3"
+    type: break
+  - id: reflection
+    title: "Reflection"
+    path: "15 Reflection.mp3"
+    type: betting
   - id: confronting_myself
     title: "Confronting Myself"
     path: "16 Confronting Myself.mp3"
@@ -12,4 +40,40 @@ songs:
     title: "Reach for the Summit"
     path: "18 Reach for the Summit.mp3"
     type: betting
+  - id: forsaken_city_sever_the_skyline_mix
+    title: "Forsaken City (Sever the Skyline Mix)"
+    path: "Maxo - Forsaken City (Sever the Skyline Mix).brstm"
+    type: betting
+  - id: old_site_black_moonrise_mix
+    title: "Old Site (Black Moonrise Mix)"
+    path: "Ben Prunty - Old Site (Black Moonrise Mix).brstm"
+    type: betting
+  - id: celestial_resort_good_karma_mix
+    title: "Celestial Resort (Good Karma Mix)"
+    path: "mus_rmx_03_resort (mus_rmx_03_resort).brstm"
+    type: betting
+  - id: golden_ridge_golden_feather_mix
+    title: "Golden Ridge (Golden Feather Mix)"
+    path: "mus_rmx_04_cliffside (mus_rmx_04_cliffside).brstm"
+    type: betting
+  - id: mirror_temple_mirror_magic_mix
+    title: "Mirror Temple (Mirror Magic Mix)"
+    path: "mus_rmx_05_mirrortemple (mus_rmx_05_mirrortemple).brstm"
+    type: betting
+  - id: reflection_center_of_the_earth_mix
+    title: "Reflection (Center of the Earth Mix)"
+    path: "mus_rmx_06_reflection (mus_rmx_06_reflection).brstm"
+    type: betting
+  - id: summit_no_more_running_mix
+    title: "Summit (No More Running Mix)"
+    path: "mus_rmx_07_summit (mus_rmx_07_summit).brstm"
+    type: betting
+  - id: the_core_say_goodbye_mix
+    title: "The Core (Say Goodbye Mix)"
+    path: "mus_rmx_08_core (mus_rmx_08_core).brstm"
+    type: betting
+  - id: wavedash_ppt
+    title: "wavedash.ppt"
+    path: "wavedash.brstm"
+    type: break
 ...

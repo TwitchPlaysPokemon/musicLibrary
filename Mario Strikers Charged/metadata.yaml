@@ -5,23 +5,23 @@ series: mario
 platform: "Wii"
 year: 2007
 songs:
-#      - id: luigis_theme
-#        title: "Luigi's Theme"
-#        path: "Luigi's Theme.brstm"
-#        type: result #Borderline doesn't fit
-  - id: pause_menu_strikerscharged
+  - id: luigi_s_theme
+    title: "Luigi's Theme"
+    path: "Luigi's Theme.brstm"
+    type: betting
+  - id: pause_menu_mario_strikers_charged
     title: "Pause Menu"
     path: "Pause Menu.brstm"
     type: break
-  - id: results_striker_times
-    title: "Results-Striker Times"
+  - id: results_mario_strikers_charged
+    title: "Results"
     path: "Results-Striker Times.brstm"
-    type: betting #Borderline doesn't fit; leaving it in for now
-  - id: sudden_death_strikerscharged
+    type: betting
+  - id: sudden_death_mario_strikers_charged
     title: "Sudden Death"
     path: "Sudden Death.brstm"
     type: warning
-  - id: classroom_strikerscharged
+  - id: classroom_mario_strikers_charged
     title: "Classroom"
     path: "Classroom.brstm"
     type: betting
@@ -29,23 +29,19 @@ songs:
     title: "Galactic Stadium"
     path: "Galactic Stadium.brstm"
     type: betting
-  - id: warios_theme_strikerscharged
+  - id: wario_s_theme_mario_strikers_charged
     title: "Wario's Theme"
     path: "Wario's Theme.brstm"
     type: warning
-  - id: toads_theme_strikerscharged
+  - id: toad_s_theme_mario_strikers_charged
     title: "Toad's Theme"
     path: "Toad's Theme.brstm"
     type: warning
-#      - id: boos_theme
-#        title: "Boo's Theme"
-#        path: "Boos Theme.brstm"
-#        type: warning #Borderline doesn't fit for warning
-  - id: invincible_strikerscharged
-    title: "Invincible Theme"
+  - id: invincible_mario_strikers_charged
+    title: "Invincible"
     path: "Invincible Theme.brstm"
     type: warning
-  - id: peachs_theme_strikerscharged
+  - id: peach_s_theme_mario_strikers_charged
     title: "Peach's Theme"
     path: "Peach's Theme.brstm"
     type: betting
