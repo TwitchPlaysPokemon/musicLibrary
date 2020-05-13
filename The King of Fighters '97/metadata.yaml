@@ -4,14 +4,6 @@ title: "The King of Fighters '97"
 platform: "Various"
 year: 1997
 songs: 
-  - id: cool_jam_stormy_saxophone_3_iori_yagami
-    title: "COOL JAM ~Stormy Saxophone 3~ (Iori Yagami)"
-    path: "21 Cool Jam _Stormy Saxophone 3_ (Iori Yagami).vgz"
-    type: betting
-  - id: the_origin_of_mind_???_stage
-    title: "The Origin of Mind (??? Stage)"
-    path: "31 The Origin of Mind (Secret Stage).vgz"
-    type: battle
   - id: order_player_select
     title: "ORDER (Player Select)"
     path: "03 Order (Player Select).vgz"
@@ -68,6 +60,10 @@ songs:
     title: "Rhythmic Hallucination (?? Stage)"
     path: "29 Rhythmic Hallucination (Secret Stage).vgz"
     type: betting
+  - id: the_origin_of_mind_???_stage
+    title: "The Origin of Mind (??? Stage)"
+    path: "31 The Origin of Mind (Secret Stage).vgz"
+    type: battle
   - id: nothingness_demo_4
     title: "Nothingness (Demo 4)"
     path: "32 Nothingness (Demo 4).vgz"
