@@ -1,0 +1,47 @@
+---
+id: drawful_2
+title: "Drawful 2"
+platform: "Various"
+year: 2016
+songs: 
+  - id: answer_reveal_drawful_2
+    title: "Answer Reveal"
+    path: "Answer Reveal.brstm"
+    type: warning
+  - id: choose_tbeme_drawful_2
+    title: "Choose Theme"
+    path: "Choose Theme.brstm"
+    type: warning
+  - id: credits_drawful_2
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+  - id: draw_theme_1_drawful_2
+    title: "Draw Theme 1"
+    path: "Draw Theme 1.brstm"
+    type: betting
+  - id: draw_theme_2_drawful_2
+    title: "Draw Theme 2"
+    path: "Draw Theme 2.brstm"
+    type: betting
+  - id: draw_theme_3_drawful_2
+    title: "Draw Theme 3"
+    path: "Draw Theme 3.brstm"
+    type: betting
+  - id: lobby_drawful_2
+    title: "Lobby"
+    path: "Lobby.brstm"
+    type: betting
+  - id: main_theme_drawful_2
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: score_review_drawful_2
+    title: "Score Review"
+    path: "Score Review.brstm"
+    type: result
+  - id: write_theme_drawful_2
+    title: "Write Theme"
+    path: "Write Theme.brstm"
+    type: betting
+...

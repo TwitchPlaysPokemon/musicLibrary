@@ -26,4 +26,36 @@ songs:
     path: "Rules of Nature.brstm"
     ends: 3:30
     type: betting
+  - id: collective_consciousness
+    title: "Collective Consciousness"
+    path: "Collective Consciousness.brstm"
+    type: battle
+  - id: a_stranger_i_remain
+    title: "A Stranger I Remain"
+    path: "A Stranger I Remain.brstm"
+    type: battle
+  - id: it_has_to_be_this_way
+    title: "It Has to Be This Way"
+    path: "It Has to Be This Way.brstm"
+    type: battle
+  - id: the_stains_of_time
+    title: "The Stains of Time"
+    path: "The Stains of Time.brstm"
+    type: battle
+  - id: the_hot_wind_blowing
+    title: "The Hot Wind Blowing"
+    path: "The Hot Wind Blowing.brstm"
+    type: battle
+  - id: the_only_thing_i_know_for_real
+    title: "The Only Thing I Know for Real"
+    path: "The Only Thing I Know for Real.brstm"
+    type: battle
+  - id: red_sun
+    title: "Red Sun"
+    path: "Red Sun.brstm"
+    type: battle
+  - id: i_m_my_own_master_now
+    title: "I'm My Own Master Now"
+    path: "I'm My Own Master Now (Fixed Loop).brstm"
+    type: battle
 ...

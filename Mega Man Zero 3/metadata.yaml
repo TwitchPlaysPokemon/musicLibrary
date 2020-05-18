@@ -4,14 +4,13 @@ title: "Mega Man Zero 3"
 series: megaman
 platform: "GBA"
 year: 2004
-songs:
+songs: 
+  - id: cannon_ball
+    title: "Cannon Ball"
+    path: "37 Cannon Ball.minigsf"
+    type: battle
   - id: i_0_your_fellow
     title: "I, 0 Your Fellow"
     path: "38 I, 0 Your Fellow (Epilogue).minigsf"
     type: break
-  - id: labo_system_a_ciel_remastered
-    title: "Labo —System-a-Ciel— -Telos Ver.-"
-    path: "RTRZ Telos - 2-09 - Labo - System-a-Ciel -.mp3"
-    ends: 2:05
-    type: betting
 ...

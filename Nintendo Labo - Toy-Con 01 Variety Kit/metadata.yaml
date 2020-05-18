@@ -57,11 +57,10 @@ songs:
     title: "Learn: Master Chat"
     path: "Lab_BGM_Learn_Chat_Master.bfstm"
     type: result
-     #  - id: chat_logicon_labo
-     #    title: "Learn: Logicon Chat"
-     #    path: "Lab_BGM_Learn_Logicaon_Chat.bfstm"
-     #    type: break
-     #borked file
+  - id: chat_logicon_labo
+    title: "Learn: Logicon Chat"
+    path: "Lab_BGM_Learn_Logicon_Chat.bfstm"
+    type: break
   - id: learn_main_labo
     title: "Learn: Main Theme"
     path: "Lab_BGM_Learn_MainTrack.bfstm"

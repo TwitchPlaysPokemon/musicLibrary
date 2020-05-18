@@ -1,0 +1,24 @@
+---
+id: mighty_morphin_power_rangers_the_movie_gb
+title: "Mighty Morphin Power Rangers: The Movie [GB]"
+series: powerrangers
+platform: "GB"
+year: 1995
+songs: 
+  - id: bgm_06_mmprtm
+    title: "BGM #06"
+    path: "BGM #06.brstm"
+    type: betting
+  - id: bgm_08_mmprtm
+    title: "BGM #08"
+    path: "BGM #08.brstm"
+    type: betting
+  - id: bgm_09_mmprtm
+    title: "BGM #09"
+    path: "BGM #09.m3u"
+    type: betting
+  - id: bgm_11_mmprtm
+    title: "BGM #11"
+    path: "BGM #11.m3u"
+    type: battle
+...

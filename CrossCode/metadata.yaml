@@ -1,0 +1,15 @@
+---
+id: crosscode
+title: "CrossCode"
+platform: "Various"
+year: 2018
+songs: 
+  - id: s_rank
+    title: "S-Rank"
+    path: "CrossCode_S-Rank.logg"
+    type: battle
+  - id: ba_kii_kum
+    title: "Ba'kii Kum"
+    path: "muBakiikum.brstm"
+    type: betting
+...

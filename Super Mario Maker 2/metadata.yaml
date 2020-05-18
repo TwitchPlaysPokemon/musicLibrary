@@ -1,0 +1,87 @@
+---
+id: super_mario_maker_2
+title: "Super Mario Maker 2"
+platform: "Switch"
+year: 2019
+songs: 
+  - id: airship_super_mario_3d_world_edit
+    title: "Airship (Super Mario 3D World) - Edit"
+    path: "3W_BGM_Airship_Edit.brstm"
+    type: betting
+  - id: desert_new_super_mario_bros_u_edit
+    title: "Desert (New Super Mario Bros. U) - Edit"
+    path: "WU_BGM_Desert_Edit.brstm"
+    type: betting
+  - id: desert_super_mario_3d_world_edit
+    title: "Desert (Super Mario 3D World) - Edit"
+    path: "3W_BGM_Desert_Edit.brstm"
+    type: betting
+  - id: desert_super_mario_bros_3_edit
+    title: "Desert (Super Mario Bros. 3) - Edit"
+    path: "M3_BGM_Desert_Edit.brstm"
+    type: betting
+  - id: desert_super_mario_bros_edit
+    title: "Desert (Super Mario Bros.) - Edit"
+    path: "M1_BGM_Desert_Edit.brstm"
+    type: betting
+  - id: forest_super_mario_3d_world_edit
+    title: "Forest (Super Mario 3D World) - Edit"
+    path: "3W_BGM_Woods_Edit.brstm"
+    type: betting
+  - id: forest_super_mario_bros_3_edit
+    title: "Forest (Super Mario Bros. 3) - Edit"
+    path: "M3_BGM_Woods_Edit.brstm"
+    type: betting
+  - id: forest_super_mario_bros_edit
+    title: "Forest (Super Mario Bros.) - Edit"
+    path: "M1_BGM_Woods_Edit.brstm"
+    type: betting
+  - id: forest_super_mario_world_edit
+    title: "Forest (Super Mario World) - Edit"
+    path: "MW_BGM_Woods_Edit.brstm"
+    type: betting
+  - id: ghost_house_super_mario_3d_world_edit
+    title: "Ghost House (Super Mario 3D World) - Edit"
+    path: "3W_BGM_HauntedHouse_Edit.brstm"
+    type: betting
+  - id: overworld_super_mario_3d_world_edit
+    title: "Overworld (Super Mario 3D World) - Edit"
+    path: "3W_BGM_Plain_Edit.brstm"
+    type: betting
+  - id: sky_super_mario_3d_world_edit
+    title: "Sky (Super Mario 3D World) - Edit"
+    path: "3W_BGM_Athletic_Edit.brstm"
+    type: break
+  - id: sky_super_mario_bros_3_edit
+    title: "Sky (Super Mario Bros. 3) - Edit"
+    path: "M3_BGM_Athletic_Edit.brstm"
+    type: betting
+  - id: sky_super_mario_bros_edit
+    title: "Sky (Super Mario Bros.) - Edit"
+    path: "M1_BGM_Athletic_Edit.brstm"
+    type: betting
+  - id: sky_super_mario_world_edit
+    title: "Sky (Super Mario World) - Edit"
+    path: "MW_BGM_Athletic_Edit.brstm"
+    type: betting
+  - id: snow_new_super_mario_bros_u_edit
+    title: "Snow (New Super Mario Bros. U) - Edit"
+    path: "WU_BGM_Snow_Edit.brstm"
+    type: break
+  - id: snow_super_mario_3d_world_edit
+    title: "Snow (Super Mario 3D World) - Edit"
+    path: "3W_BGM_Snow_Edit.brstm"
+    type: break
+  - id: underground_super_mario_3d_world_edit
+    title: "Underground (Super Mario 3D World) - Edit"
+    path: "3W_BGM_UnderGround_Edit.brstm"
+    type: betting
+  - id: underwater_super_mario_3d_world_edit
+    title: "Underwater (Super Mario 3D World) - Edit"
+    path: "3W_BGM_Water_Edit.brstm"
+    type: betting
+  - id: woods_new_super_mario_bros_u_edit
+    title: "Woods (New Super Mario Bros. U) - Edit"
+    path: "WU_BGM_Woods_Edit.brstm"
+    type: betting
+...

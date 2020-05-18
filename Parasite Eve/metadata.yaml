@@ -5,11 +5,23 @@ platform: "PS1"
 year: 1998
 songs: 
   - id: arise_within_you
-    title: "Arise Within You"
+    title: "Arise within You"
     path: "109 Arise Within You.psf"
     type: warning
   - id: out_of_phase
     title: "Out of Phase"
     path: "113 Out of Phase.psf"
     type: betting
+  - id: influence_of_deep
+    title: "Influence of Deep"
+    path: "116 Influence of Deep.psf"
+    type: battle
+  - id: femmes_fatales
+    title: "Femmes Fatales"
+    path: "206 Femmes Fatales.psf"
+    type: battle
+  - id: someone_calls_me_someone_looks_for_me
+    title: "Someone calls me...., Someone looks for me......"
+    path: "216 Someone Calls Memorias.psf"
+    type: break
 ...

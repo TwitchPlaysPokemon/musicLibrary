@@ -1,0 +1,24 @@
+---
+id: animal_crossing_new_horizons
+title: "Animal Crossing: New Horizons"
+platform: "Switch"
+year: 2020
+songs: 
+  - id: 2_pm_acnh
+    title: "2 PM"
+    path: "BGM_24Hour_14_Sunny.bwav"
+    type: betting
+  - id: 5_pm_acnh
+    title: "5 PM"
+    path: "BGM_24Hour_17_Sunny.bwav"
+    type: break
+  - id: welcome_horizons
+    title: "Welcome Horizons"
+    path: "BGM_Audio_095_Minnaatsumare_Hifi.bwav"
+    type: break
+  - id: welcome_horizons_live_version
+    title: "Welcome Horizons (Live version)"
+    path: "BGM_Live_095_Minnaatsumare.bwav"
+    ends: 2:17
+    type: betting
+...

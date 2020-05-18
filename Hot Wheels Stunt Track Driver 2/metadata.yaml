@@ -1,0 +1,35 @@
+---
+id: hot_wheels_stunt_track_driver_2_get_n_dirty
+title: "Hot Wheels: Stunt Track Driver 2: GET 'N DIRTY"
+platform: "PC"
+year: 2000
+songs: 
+  - id: main_menu_stunt_track_driver_2
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: the_beach_stunt_track_driver_2
+    title: "The Beach"
+    path: "The Beach.brstm"
+    type: betting
+  - id: the_garden_stunt_track_driver_2
+    title: "The Garden"
+    path: "The Garden.brstm"
+    type: betting
+  - id: the_lake_stunt_track_driver_2
+    title: "The Lake"
+    path: "The Lake.brstm"
+    type: battle
+  - id: the_pond_stunt_track_driver_2
+    title: "The Pond"
+    path: "The Pond.brstm"
+    type: betting
+  - id: the_treehouse_stunt_track_driver_2
+    title: "The Treehouse"
+    path: "The Treehouse.brstm"
+    type: betting
+  - id: underground_stunt_track_driver_2
+    title: "Underground"
+    path: "Underground.brstm"
+    type: battle
+...

@@ -1,0 +1,252 @@
+---
+id: drakengard
+title: "Drakengard"
+platform: "PS2"
+year: 2003
+songs: 
+  - id: weapon_select
+    title: "Weapon Select"
+    path: "102 Takayuki Aihara - Weapon Select.SS2"
+    type: betting
+  - id: mission_select_drakengard
+    title: "Mission Select"
+    path: "101 Takayuki Aihara - Mission Select.SS2"
+    type: warning
+  - id: first_chapter_event
+    title: "First Chapter - Event"
+    path: "99 013.SS2"
+    type: warning
+  - id: first_chapter_sky
+    title: "First Chapter - Sky"
+    path: "103 Takayuki Aihara - First Chapter - Sky.SS2"
+    type: warning
+  - id: first_chapter_ground
+    title: "First Chapter - Ground"
+    path: "104 Takayuki Aihara - First Chapter - Ground.SS2"
+    type: warning
+  - id: first_chapter_castle_interior
+    title: "First Chapter - Castle Interior"
+    path: "105 Takayuki Aihara - First Chapter - Castle Interior.SS2"
+    type: battle
+  - id: second_chapter_event
+    title: "Second Chapter - Event"
+    path: "99 016.SS2"
+    type: warning
+  - id: second_chapter_sky
+    title: "Second Chapter - Sky"
+    path: "106 Takayuki Aihara - Second Chapter - Sky.SS2"
+    type: warning
+  - id: second_chapter_ground
+    title: "Second Chapter - Ground"
+    path: "107 Takayuki Aihara - Second Chapter - Ground.SS2"
+    type: betting
+  - id: third_chapter_event
+    title: "Third Chapter - Event"
+    path: "99 019.SS2"
+    type: warning
+  - id: third_chapter_sky
+    title: "Third Chapter - Sky"
+    path: "108 Takayuki Aihara - Third Chapter - Sky.SS2"
+    type: battle
+  - id: third_chapter_ground
+    title: "Third Chapter - Ground"
+    path: "109 Takayuki Aihara - Third Chapter - Ground.SS2"
+    type: warning
+  - id: third_chapter_unused
+    title: "Third Chapter - Unused.brstm"
+    path: "99 007.SS2"
+    type: warning
+  - id: fourth_chapter_event
+    title: "Fourth Chapter - Event"
+    path: "99 022.SS2"
+    type: warning
+  - id: fourth_chapter_sky
+    title: "Fourth Chapter - Sky"
+    path: "110 Nobuyoshi Sano - Fourth Chapter - Sky.SS2"
+    type: betting
+  - id: fourth_chapter_ground
+    title: "Fourth Chapter - Ground"
+    path: "111 Nobuyoshi Sano - Fourth Chapter - Ground.SS2"
+    type: warning
+  - id: fifth_chapter_event
+    title: "Fifth Chapter - Event"
+    path: "99 025.SS2"
+    type: warning
+  - id: fifth_chapter_sky_one
+    title: "Fifth Chapter - Sky, One"
+    path: "112 Takayuki Aihara - Fifth Chapter - Sky, One.SS2"
+    type: battle
+  - id: fifth_chapter_ground_one
+    title: "Fifth Chapter - Ground, One"
+    path: "113 Takayuki Aihara - Fifth Chapter - Ground, One.SS2"
+    type: battle
+  - id: fifth_chapter_sky_two
+    title: "Fifth Chapter - Sky, Two"
+    path: "114 Takayuki Aihara - Fifth Chapter - Sky, Two.SS2"
+    type: warning
+  - id: fifth_chapter_ground_two
+    title: "Fifth Chapter - Ground, Two"
+    path: "115 Takayuki Aihara - Fifth Chapter - Ground, Two.SS2"
+    type: battle
+  - id: fifth_chapter_unused
+    title: "Fifth Chapter - Unused"
+    path: "99 006.SS2"
+    type: warning
+  - id: sixth_chapter_event
+    title: "Sixth Chapter - Event"
+    path: "99 028.SS2"
+    type: warning
+  - id: sixth_chapter_sky
+    title: "Sixth Chapter - Sky"
+    path: "116 Takayuki Aihara - Sixth Chapter - Sky.SS2"
+    type: battle
+  - id: sixth_chapter_ground
+    title: "Sixth Chapter - Ground"
+    path: "117 Takayuki Aihara - Sixth Chapter - Ground.SS2"
+    type: warning
+  - id: seventh_chapter_sky
+    title: "Seventh Chapter - Sky"
+    path: "118 Nobuyoshi Sano - Seventh Chapter - Sky.SS2"
+    type: battle
+  - id: eighth_chapter_sky
+    title: "Eighth Chapter - Sky"
+    path: "119 Nobuyoshi Sano - Eighth Chapter - Sky.SS2"
+    type: warning
+  - id: eighth_chapter_ground
+    title: "Eighth Chapter - Ground"
+    path: "120 Nobuyoshi Sano - Eighth Chapter - Ground.SS2"
+    type: warning
+  - id: eighth_chapter_closing
+    title: "Eighth Chapter - Closing"
+    path: "121 Nobuyoshi Sano - Eighth Chapter - Closing.SS2"
+    type: betting
+  - id: mission_clear_drakengard
+    title: "Mission Clear"
+    path: "122 Nobuyoshi Sano - Mission Clear.SS2"
+    type: result
+  - id: game_over_continue
+    title: "Game Over ~ Continue"
+    path: "123 Nobuyoshi Sano - Game Over ~ Continue.SS2"
+    type: warning
+  - id: leonard_s_hunger_event
+    title: "Leonard's Hunger - Event"
+    path: "99 051.SS2"
+    type: warning
+  - id: leonard_s_hunger_sky
+    title: "Leonard's Hunger - Sky"
+    path: "201 Takayuki Aihara - Leonard's Hunger - Sky.SS2"
+    type: battle
+  - id: leonard_s_hunger_ground
+    title: "Leonard's Hunger - Ground"
+    path: "202 Takayuki Aihara - Leonard's Hunger - Ground.SS2"
+    type: battle
+  - id: arioach_s_strangeness_event
+    title: "Arioch's Strangeness - Event"
+    path: "99 054.SS2"
+    type: warning
+  - id: arioch_s_strangeness_sky
+    title: "Arioch's Strangeness - Sky"
+    path: "203 Takayuki Aihara - Arioch's Strangeness - Sky.SS2"
+    type: warning
+  - id: arioch_s_strangeness_ground
+    title: "Arioch's Strangeness - Ground"
+    path: "204 Takayuki Aihara - Arioch's Strangeness - Ground.SS2"
+    type: battle
+  - id: seere_s_prayer_event
+    title: "Seere's Prayer - Event"
+    path: "99 057.SS2"
+    type: warning
+  - id: seere_s_prayer_sky
+    title: "Seere's Prayer - Sky"
+    path: "205 Takayuki Aihara - Seere's Prayer - Sky.SS2"
+    type: battle
+  - id: seere_s_prayer_ground
+    title: "Seere's Prayer - Ground"
+    path: "206 Takayuki Aihara - Seere's Prayer - Ground.SS2"
+    type: warning
+  - id: seere_s_prayer_unused
+    title: "Seere's Prayer - Unused"
+    path: "99 008.SS2"
+    type: warning
+  - id: ninth_chapter_event
+    title: "Ninth Chapter - Event"
+    path: "99 037.SS2"
+    type: warning
+  - id: ninth_chapter_inuart_battle
+    title: "Ninth Chapter - Inuart Battle"
+    path: "99 036.SS2"
+    type: warning
+  - id: ninth_chapter_sky_one
+    title: "Ninth Chapter - Sky, One"
+    path: "207 Takayuki Aihara - Ninth Chapter - Sky, One.SS2"
+    type: warning
+  - id: ninth_chapter_sky_two
+    title: "Ninth Chapter - Sky, Two"
+    path: "208 Takayuki Aihara - Ninth Chapter - Sky, Two.SS2"
+    type: warning
+  - id: eleventh_chapter_event
+    title: "Eleventh Chapter - Event"
+    path: "99 044.SS2"
+    type: warning
+  - id: eleventh_chapter_ground
+    title: "Eleventh Chapter - Ground"
+    path: "214 Takayuki Aihara - Eleventh Chapter - Ground.SS2"
+    type: battle
+  - id: eleventh_chapter_sky
+    title: "Eleventh Chapter - Sky"
+    path: "213 Takayuki Aihara - Eleventh Chapter - Sky.SS2"
+    type: betting
+  - id: eleventh_chapter_sky_unused
+    title: "Eleventh Chapter - Sky - Unused"
+    path: "Eleventh Chapter - Sky - Unused.brstm"
+    type: battle
+  - id: ninth_chapter_closing
+    title: "Ninth Chapter - Closing"
+    path: "209 Takayuki Aihara - Ninth Chapter - Closing.SS2"
+    type: warning
+  - id: tenth_chapter_event
+    title: "Tenth Chapter - Event"
+    path: "99 040.SS2"
+    type: warning
+  - id: tenth_chapter_sky
+    title: "Tenth Chapter - Sky"
+    path: "211 Nobuyoshi Sano - Tenth Chapter - Sky.SS2"
+    type: warning
+  - id: tenth_chapter_ground
+    title: "Tenth Chapter - Ground"
+    path: "212 Nobuyoshi Sano - Tenth Chapter - Ground.SS2"
+    type: warning
+  - id: twelfth_chapter_sky
+    title: "Twelfth Chapter - Sky"
+    path: "215 Nobuyoshi Sano - Twelfth Chapter - Sky.SS2"
+    type: warning
+  - id: twelfth_chapter_ground
+    title: "Twelfth Chapter - Ground"
+    path: "216 Nobuyoshi Sano - Twelfth Chapter - Ground.SS2"
+    type: warning
+  - id: twelfth_chapter_closing
+    title: "Twelfth Chapter - Closing"
+    path: "217 Nobuyoshi Sano - Twelfth Chapter - Closing.SS2"
+    type: warning
+  - id: thirteenth_chapter_closing
+    title: "Thirteenth Chapter - Closing"
+    path: "218 Nobuyoshi Sano - Thirteenth Chapter - Closing.SS2"
+    ends: 2:30
+    type: betting
+  - id: route_a_staff_roll
+    title: "Route A Staff Roll"
+    path: "219 Nobuyoshi Sano - Route A Staff Roll.SS2"
+    type: break
+  - id: route_b_staff_roll_exhausted
+    title: "Route B Staff Roll \"Exhausted\""
+    path: "Route B Staff Roll - Growing Wings (Exhausted).brstm"
+    type: betting
+  - id: route_c_staff_roll
+    title: "Route C Staff Roll"
+    path: "221 Takayuki Aihara - Route C Staff Roll.SS2"
+    type: warning
+  - id: route_d_staff_roll
+    title: "Route D Staff Roll"
+    path: "222 Nobuyoshi Sano - Route D Staff Roll.SS2"
+    type: warning
+...
