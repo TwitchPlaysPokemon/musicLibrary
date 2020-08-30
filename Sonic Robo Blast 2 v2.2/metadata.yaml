@@ -1,0 +1,260 @@
+---
+id: sonic_robo_blast_2_v2_2
+title: "Sonic Robo Blast 2 v2.2"
+series: sonic
+is_fanwork: true
+platform: "PC"
+year: 2019
+  - id: aerial_garden_zone_boss_v2_2
+    title: "Aerial Garden Zone Boss"
+    path: "Aerial Garden Zone Boss.logg"
+    type: battle
+  - id: aerial_garden_zone_act_3_v2_2
+    title: "Aerial Garden Zone, Act 3"
+    path: "Aerial Garden Zone, Act 3.logg"
+    type: betting
+  - id: aerial_garden_zone_v2_2
+    title: "Aerial Garden Zone"
+    path: "Aerial Garden Zone.logg"
+    type: betting
+  - id: alpine_paradise_zone_act_1_v2_2
+    title: "Alpine Paradise Zone, Act 1"
+    path: "Alpine Paradise Zone, Act 1.logg"
+    type: betting
+  - id: alpine_paradise_zone_act_2_v2_2
+    title: "Alpine Paradise Zone, Act 2"
+    path: "Alpine Paradise Zone, Act 2.logg"
+    type: betting
+  - id: anticipation_v2_2
+    title: "Anticipation"
+    path: "Anticipation.logg"
+    type: warning
+  - id: arid_canyon_zone_act_1_v2_2
+    title: "Arid Canyon Zone, Act 1"
+    path: "Arid Canyon Zone, Act 1.logg"
+    type: betting
+  - id: arid_canyon_zone_act_2_v2_2
+    title: "Arid Canyon Zone, Act 2"
+    path: "Arid Canyon Zone, Act 2.logg"
+    type: betting
+  - id: azure_temple_zone_v2_2
+    title: "Azure Temple Zone"
+    path: "Azure Temple Zone.logg"
+    type: betting
+  - id: black_hole_zone_v2_2
+    title: "Black Hole Zone"
+    path: "Black Hole Zone.logg"
+    type: betting
+  - id: castle_eggman_zone_act_1_v2_2
+    title: "Castle Eggman Zone, Act 1"
+    path: "Castle Eggman Zone, Act 1.logg"
+    type: betting
+  - id: castle_eggman_zone_act_2_v2_2
+    title: "Castle Eggman Zone, Act 2"
+    path: "Castle Eggman Zone, Act 2.logg"
+    type: betting
+  - id: cavern_fortress_zone_v2_2
+    title: "Cavern Fortress Zone"
+    path: "Cavern Fortress Zone.logg"
+    type: betting
+  - id: character_select_v2_2
+    title: "Character Select"
+    path: "Character Select.logg"
+    type: result
+  - id: christmas_chime_zone_v2_2
+    title: "Christmas Chime Zone"
+    path: "Christmas Chime Zone.logg"
+    type: betting
+  - id: clockwork_towers_zone_v2_2
+    title: "Clockwork Towers Zone"
+    path: "Clockwork Towers Zone.logg"
+    type: betting
+  - id: credits_v2_2
+    title: "Credits"
+    path: "Credits.logg"
+    type: betting
+  - id: deep_Sea_Zone_act_1_v2_2
+    title: "Deep Sea Zone, Act 1"
+    path: "Deep Sea Zone, Act 1.logg"
+    type: betting
+  - id: deep_Sea_Zone_act_2_v2_2
+    title: "Deep Sea Zone, Act 2"
+    path: "Deep Sea Zone, Act 2.logg"
+    type: betting
+  - id: dream_hill_zone_v2_2
+    title: "Dream Hill Zone"
+    path: "Dream Hill Zone.logg"
+    type: betting
+  - id: dusty_wasteland_zone_v2_2
+    title: "Dusty Wasteland Zone"
+    path: "Dusty Wasteland Zone.logg"
+    type: betting
+  - id: egg_rock_zone_act_1_v2_2
+    title: "Egg Rock Zone, Act 1"
+    path: "Egg Rock Zone, Act 1.logg"
+    type: betting
+  - id: egg_rock_zone_act_2_v2_2
+    title: "Egg Rock Zone, Act 2"
+    path: "Egg Rock Zone, Act 2.logg"
+    type: betting
+  - id: egg_satellite_zone_v2_2
+    title: "Egg Satellite Zone"
+    path: "Egg Satellite Zone.logg"
+    type: battle
+  - id: flame_rift_zone_v2_2
+    title: "Flame Rift Zone"
+    path: "Flame Rift Zone.logg"
+    type: betting
+  - id: flooded_cove_zone_v2_2
+    title: "Flooded Cove Zone"
+    path: "Flooded Cove Zone.logg"
+    type: betting
+  - id: floral_field_zone_v2_2
+    title: "Floral Field Zone"
+    path: "Floral Field Zone.logg"
+    type: betting
+  - id: frozen_hillside_zone_v2_2
+    title: "Frozen Hillside Zone"
+    path: "Frozen Hillside Zone.logg"
+    type: betting
+  - id: greenflower_zone_act_1_v2_2
+    title: "Greenflower Zone, Act 1"
+    path: "Greenflower Zone, Act 1.logg"
+    type: betting
+  - id: greenflower_zone_act_2_v2_2
+    title: "Greenflower Zone, Act 2"
+    path: "Greenflower Zone, Act 2.logg"
+    type: betting
+  - id: haunted_heights_zone_v2_2
+    title: "Haunted Heights Zone"
+    path: "Haunted Heights Zone.logg"
+    type: betting
+  - id: jade_coast_zone_v2_2
+    title: "Jade Coast Zone"
+    path: "Jade Coast Zone.logg"
+    type: betting
+  - id: lime_forest_zone_v2_2
+    title: "Lime Forest Zone"
+    path: "Lime Forest Zone.logg"
+    type: betting
+  - id: magma_caves_zone_v2_2
+    title: "Magma Caves Zone"
+    path: "Magma Caves Zone.logg"
+    type: betting
+  - id: marathon_mode_v2_2
+    title: "Marathon Mode"
+    path: "Marathon Mode.logg"
+    type: betting
+  - id: midnight_freeze_zone_v2_2
+    title: "Midnight Freeze Zone"
+    path: "Midnight Freeze Zone.logg"
+    type: betting
+  - id: mine_maze_zone_unused_v2_2
+    title: "Mine Maze Zone (Unused)"
+    path: "Mine Maze Zone (Unused).logg"
+    type: betting
+  - id: mystic_realm_zone_v2_2
+    title: "Mystic Realm Zone"
+    path: "Mystic Realm Zone.logg"
+    type: battle
+  - id: nights_mode_v2_2
+    title: "NiGHTS Mode"
+    path: "NiGHTS Mode.logg"
+    type: result
+  - id: nimbus_ruins_zone_v2_2
+    title: "Nimbus Ruins Zone"
+    path: "Nimbus Ruins Zone.logg"
+    type: betting
+  - id: old_red_volcano_zone_act_2_unused_v2_2
+    title: "Old Red Volcano Zone, Act 2 (Unused)"
+    path: "Old Red Volcano Zone, Act 2 (Unused).logg"
+    type: betting
+  - id: old_special_stage_unused_v2_2
+    title: "Old Special Stage (Unused)"
+    path: "Old Special Stage (Unused).logg"
+    type: betting
+  - id: orbital_hangar_zone_v2_2
+    title: "Orbital Hangar Zone"
+    path: "Orbital Hangar Zone.logg"
+    type: betting
+  - id: pipe_towers_zone_underground_v2_2
+    title: "Pipe Towers Zone (Underground)"
+    path: "Pipe Towers Zone (Underground).logg"
+    type: betting
+  - id: pipe_towers_zone_v2_2
+    title: "Pipe Towers Zone"
+    path: "Pipe Towers Zone.logg"
+    type: betting
+  - id: race_against_metal_sonic_v2_2
+    title: "Race Against Metal Sonic"
+    path: "Race Against Metal Sonic.logg"
+    type: battle
+  - id: record_attack_v2_2
+    title: "Record Attack"
+    path: "Record Attack.logg"
+    type: betting
+  - id: red_volcano_zone_act_1_v2_2
+    title: "Red Volcano Zone, Act 1"
+    path: "Red Volcano Zone, Act 1.logg"
+    type: betting
+  - id: red_volcano_zone_act_2_v2_2
+    title: "Red Volcano Zone, Act 2"
+    path: "Red Volcano Zone, Act 2.logg"
+    type: betting
+  - id: sapphire_falls_zone_v2_2
+    title: "Sapphire Falls Zone"
+    path: "Sapphire Falls Zone.logg"
+    type: betting
+  - id: sunken_plant_zone_v2_2
+    title: "Sunken Plant Zone"
+    path: "Sunken Plant Zone.logg"
+    type: betting
+  - id: super_sonic_v2_2
+    title: "Super Sonic"
+    path: "Super Sonic.logg"
+    type: battle
+  - id: techno_hill_zone_act_1_v2_2
+    title: "Techno Hill Zone, Act 1"
+    path: "Techno Hill Zone, Act 1.logg"
+    type: betting
+  - id: techno_hill_zone_act_2_v2_2
+    title: "Techno Hill Zone, Act 2"
+    path: "Techno Hill Zone, Act 2.logg"
+    type: betting
+  - id: tempest_valley_zone_v2_2
+    title: "Tempest Valley Zone"
+    path: "Tempest Valley Zone.logg"
+    type: betting
+  - id: the_bridge_is_collapsing!_v2_2
+    title: "The Bridge Is Collapsing!"
+    path: "The Bridge Is Collapsing!.logg"
+    type: warning
+  - id: toxic_plateau_zone_v2_2
+    title: "Toxic Plateau Zone"
+    path: "Toxic Plateau Zone.logg"
+    type: betting
+  - id: tutorial_v2_2
+    title: "Tutorial"
+    path: "Tutorial.logg"
+    type: betting
+  - id: verdant_forest_zone_v2_2
+    title: "Verdant Forest Zone"
+    path: "Verdant Forest Zone.logg"
+    type: betting
+  - id: vs_black_eggman_v2_2
+    title: "Vs Black Eggman"
+    path: "Vs Black Eggman.logg"
+    type: battle
+  - id: vs_dr_eggman_v2_2
+    title: "Vs Dr. Eggman"
+    path: "Vs Dr. Eggman.logg"
+    type: battle
+  - id: vs_fang_the_sniper_v2_2
+    title: "Vs Fang the Sniper"
+    path: "Vs Fang the Sniper.logg"
+    type: battle
+  - id: vs_metal_sonic_v2_2
+    title: "Vs Metal Sonic"
+    path: "Vs Metal Sonic.logg"
+    type: battle
+...

@@ -1,0 +1,19 @@
+---
+id: ace_combat_04_shattered_skies
+title: "Ace Combat 04: Shattered Skies"
+platform: "PS2"
+year: 2001
+songs: 
+  - id: second_strike
+    title: "Second Strike"
+    path: "Second Strike.brstm"
+    type: betting
+  - id: megalith_agnus_dei
+    title: "Megalith -Agnus Dei-"
+    path: "Megalith -Agnus Dei-.brstm"
+    type: battle
+  - id: mobius
+    title: "Mobius"
+    path: "Mobius.brstm"
+    type: result
+...

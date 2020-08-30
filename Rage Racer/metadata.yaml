@@ -1,9 +1,23 @@
-id: rage_racer
+---
+id: rage_racer_ps1
 title: "Rage Racer"
-year: 1996
 platform: "PS1"
-songs:
-  - id: deep_drive_rage_racer
-    title: "Deep Drive"
+year: 1996
+songs: 
+  - id: rage_racer
+    title: "RAGE RACER"
+    path: "Rage Racer.brstm"
+    type: betting
+  - id: stimulation
+    title: "STIMULATION"
+    path: "Stimulation.brstm"
+    type: betting
+  - id: volcano_vehicle
+    title: "VOLCANO VEHICLE"
+    path: "Volcano Vehicle.brstm"
+    type: battle
+  - id: deep_drive
+    title: "DEEP DRIVE"
     path: "Deep Drive.brstm"
     type: betting
+...

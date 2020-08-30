@@ -1,0 +1,23 @@
+---
+id: soulcalibur_vi
+title: "SoulCalibur VI"
+platform: ["PC", "PS4", "XB1"]
+year: 2018
+songs: 
+  - id: undying_legend
+    title: "Undying Legend"
+    path: "Undying Legend.brstm"
+    type: battle
+  - id: under_a_pledge
+    title: "Under a Pledge"
+    path: "Under a Pledge.brstm"
+    type: battle
+  - id: the_lionhearted
+    title: "The Lionhearted"
+    path: "The Lionhearted.brstm"
+    type: battle
+  - id: doomsday
+    title: "Doomsday"
+    path: "Doomsday.brstm"
+    type: battle
+...

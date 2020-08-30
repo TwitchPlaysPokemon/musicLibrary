@@ -1,384 +1,372 @@
----
+﻿---
 id: pokemon_crystal
-platform: "GBC"
 title: "Pokémon Gold/Silver/Crystal"
 series: pokemon
+platform: "GBC"
 year: 2000
 songs: 
   - id: title_screen_gsc
-    path: "Pokemon Crystal_Title Screen.gbs"
     title: "Title Screen"
+    path: "Pokemon Crystal_Title Screen.gbs"
     type: result
   - id: kanto_route_1_gsc
+    title: "Route 1"
     path: "Pokemon Crystal_Kanto Route 29.gbs"
-    title: "Kanto Route 1"
     type: betting
   - id: johto_route_29_gsc
+    title: "Route 29"
     path: "Pokemon Crystal_Johto Route 29.gbs"
-    title: "Johto Route 29"
     type: betting
   - id: kanto_route_3_gsc
+    title: "Route 3"
     path: "Pokemon Crystal_Kanto Route 3.gbs"
-    title: "Kanto Route 3"
     type: betting
   - id: kanto_route_11_gsc
+    title: "Route 11"
     path: "Pokemon Crystal_Kanto Route 11.gbs"
-    title: "Kanto Route 11"
     type: betting
   - id: pokemon_center_gsc
-    path: "Pokemon Crystal_Pokemon Center.gbs"
     title: "Pokémon Center"
+    path: "Pokemon Crystal_Pokemon Center.gbs"
     type: betting
   - id: lavender_town_gsc
-    path: "Pokemon Crystal_Lavender Town.gbs"
     title: "Lavender Town"
+    path: "Pokemon Crystal_Lavender Town.gbs"
     type: betting
   - id: kanto_route_2_gsc
+    title: "Route 2 / Viridian Forest"
     path: "Pokemon Crystal_Kanto Route 2 _ Viridian Forest.gbs"
-    title: "Kanto Route 2 / Viridian Forest"
     type: betting
   - id: cave_kanto_gsc
-    path: "Pokemon Crystal_Cave (Kanto).gbs"
     title: "Cave (Kanto)"
+    path: "Pokemon Crystal_Cave (Kanto).gbs"
     type: betting
   - id: game_corner_gsc
-    path: "Pokemon Crystal_Game Corner.gbs"
     title: "Game Corner"
+    path: "Pokemon Crystal_Game Corner.gbs"
     type: betting
   - id: viridian_city_gsc
-    path: "Pokemon Crystal_Viridian_Pewter_Saffron_Cerulean City.gbs"
     title: "Viridian/Pewter/Saffron/Cerulean City"
+    path: "Pokemon Crystal_Viridian_Pewter_Saffron_Cerulean City.gbs"
     type: betting
   - id: celadon_city_gsc
-    path: "Pokemon Crystal_Celadon_Fuschia City.gbs"
     title: "Celadon/Fuschia City"
+    path: "Pokemon Crystal_Celadon_Fuschia City.gbs"
     type: betting
   - id: gym_gsc
-    path: "Pokemon Crystal_Gym.gbs"
     title: "Gym"
+    path: "Pokemon Crystal_Gym.gbs"
     type: betting
   - id: pallet_town_gsc
-    path: "Pokemon Crystal_Pallet Town.gbs"
     title: "Pallet Town"
+    path: "Pokemon Crystal_Pallet Town.gbs"
     type: betting
   - id: radio_prof_oaks_pokemon_talk_gsc
-    path: "Pokemon Crystal_Radio_ Prof. Oak's Pokemon Talk.gbs"
     title: "Radio: Prof. Oak's Pokémon Talk"
+    path: "Pokemon Crystal_Radio_ Prof. Oak's Pokemon Talk.gbs"
     type: result
   - id: surfing_gsc
-    path: "Pokemon Crystal_Surfing.gbs"
     title: "Surfing"
+    path: "Pokemon Crystal_Surfing.gbs"
     type: betting
   - id: national_park_gsc
-    path: "Pokemon Crystal_National Park.gbs"
     title: "National Park"
+    path: "Pokemon Crystal_National Park.gbs"
     type: betting
   - id: azalea_town_gsc
-    path: "Pokemon Crystal_Azalea Town.gbs"
     title: "Azalea Town"
+    path: "Pokemon Crystal_Azalea Town.gbs"
     type: betting
   - id: cherrygrove_city_gsc
-    path: "Pokemon Crystal_Cherrygrove City.gbs"
     title: "Cherrygrove City"
+    path: "Pokemon Crystal_Cherrygrove City.gbs"
     type: betting
   - id: ruins_of_alph_gsc
-    path: "Pokemon Crystal_Ruins of Alph_Ilex Forest.gbs"
     title: "Ruins of Alph/Ilex Forest"
+    path: "Pokemon Crystal_Ruins of Alph_Ilex Forest.gbs"
     type: betting
   - id: route_30_gsc
-    path: "Pokemon Crystal_Game Start_Route 30.gbs"
     title: "Game Start/Route 30"
+    path: "Pokemon Crystal_Game Start_Route 30.gbs"
     type: betting
   - id: ecruteak_city_gsc
-    path: "Pokemon Crystal_Ecruteak City.gbs"
     title: "Ecruteak City"
+    path: "Pokemon Crystal_Ecruteak City.gbs"
     type: betting
   - id: violet_city_gsc
-    path: "Pokemon Crystal_Violet City.gbs"
     title: "Violet City"
+    path: "Pokemon Crystal_Violet City.gbs"
     type: betting
   - id: prof_elms_lab_gsc
-    path: "Pokemon Crystal_Prof Elm's Lab.gbs"
     title: "Prof. Elm's Lab"
+    path: "Pokemon Crystal_Prof Elm's Lab.gbs"
     type: betting
   - id: cave_johto_gsc
-    path: "Pokemon Crystal_Cave (Johto).gbs"
     title: "Cave (Johto)"
+    path: "Pokemon Crystal_Cave (Johto).gbs"
     type: betting
   - id: johto_route_35_gsc
+    title: "Route 35"
     path: "Pokemon Crystal_Johto Route 35.gbs"
-    title: "Johto Route 35"
     type: betting
   - id: ss_aqua_gsc
-    path: "Pokemon Crystal_SS Aqua.gbs"
     title: "S.S. Aqua"
+    path: "Pokemon Crystal_SS Aqua.gbs"
     type: betting
   - id: new_bark_town_gsc
-    path: "Pokemon Crystal_New Bark Town.gbs"
     title: "New Bark Town"
+    path: "Pokemon Crystal_New Bark Town.gbs"
     type: betting
   - id: goldenrod_city_gsc
-    path: "Pokemon Crystal_Goldenrod City.gbs"
     title: "Goldenrod City"
+    path: "Pokemon Crystal_Goldenrod City.gbs"
     type: betting
   - id: vermilion_city_gsc
-    path: "Pokemon Crystal_Vermilion City.gbs"
     title: "Vermilion City"
+    path: "Pokemon Crystal_Vermilion City.gbs"
     type: betting
   - id: radio_poke_flute_gsc
-    path: "Pokemon Crystal_Radio_ Poke Flute.gbs"
     title: "Radio: Poké Flute"
+    path: "Pokemon Crystal_Radio_ Poke Flute.gbs"
     type: break
   - id: tin_tower_gsc
-    path: "Pokemon Crystal_Tin Tower.gbs"
     title: "Tin Tower"
+    path: "Pokemon Crystal_Tin Tower.gbs"
     type: betting
   - id: sprout_tower_gsc
-    path: "Pokemon Crystal_Sprout Tower.gbs"
     title: "Sprout Tower"
+    path: "Pokemon Crystal_Sprout Tower.gbs"
     type: betting
   - id: burned_tower_gsc
-    path: "Pokemon Crystal_Burned Tower.gbs"
     title: "Burned Tower"
+    path: "Pokemon Crystal_Burned Tower.gbs"
     type: betting
   - id: olivine_lighthouse_gsc
-    path: "Pokemon Crystal_Olivine Lighthouse.gbs"
     title: "Olivine Lighthouse"
+    path: "Pokemon Crystal_Olivine Lighthouse.gbs"
     type: betting
   - id: johto_route_42_gsc
+    title: "Route 42"
     path: "Pokemon Crystal_Johto Route 40.gbs"
-    title: "Johto Route 42"
     type: betting
   - id: indigo_plateau_gsc
+    title: "Route 23/Indigo Plateau/Outside Silver Cave"
     path: "Pokemon Crystal_Johto Route 23_Indigo Plateau_Outside Silver Cave.gbs"
-    title: "Johto Route 23/Indigo Plateau/Outside Silver Cave"
     type: betting
   - id: johto_route_38_gsc
+    title: "Route 38"
     path: "Pokemon Crystal_Johto Route 38.gbs"
-    title: "Johto Route 38"
     type: betting
   - id: team_rocket_hideout_gsc
-    path: "Pokemon Crystal_Team Rocket Hideout.gbs"
     title: "Team Rocket Hideout"
+    path: "Pokemon Crystal_Team Rocket Hideout.gbs"
     type: betting
   - id: kanto_route_27_gsc
+    title: "Route 27"
     path: "Pokemon Crystal_Kanto Route 27.gbs"
-    title: "Kanto Route 27"
     type: betting
   - id: victory_road_gsc
-    path: "Pokemon Crystal_Victory Road.gbs"
     title: "Victory Road"
+    path: "Pokemon Crystal_Victory Road.gbs"
     type: betting
   - id: radio_pokemon_march_gsc
-    path: "Pokemon Crystal_Radio_ Pokemon March.gbs"
     title: "Radio: Pokémon March"
+    path: "Pokemon Crystal_Radio_ Pokemon March.gbs"
     type: betting
   - id: main_menu_gsc
-    path: "Pokemon Crystal_Main Menu.gbs"
     title: "Main Menu"
+    path: "Pokemon Crystal_Main Menu.gbs"
     type: warning
   - id: inside_ruins_of_alph_gsc
-    path: "Pokemon Crystal_Inside Ruins of Alph.gbs"
     title: "Inside Ruins of Alph"
+    path: "Pokemon Crystal_Inside Ruins of Alph.gbs"
     type: warning
   - id: encounter_hiker_gsc
-    path: "Pokemon Crystal_Encounter! Hiker.gbs"
     title: "Encounter! Hiker"
+    path: "Pokemon Crystal_Encounter! Hiker.gbs"
     type: warning
   - id: encounter_lass_gsc
-    path: "Pokemon Crystal_Encounter! Lass.gbs"
     title: "Encounter! Lass"
+    path: "Pokemon Crystal_Encounter! Lass.gbs"
     type: warning
   - id: encounter_officer_gsc
-    path: "Pokemon Crystal_Encounter! Officer.gbs"
     title: "Encounter! Officer"
+    path: "Pokemon Crystal_Encounter! Officer.gbs"
     type: warning
   - id: encounter_rival_gsc
-    path: "Pokemon Crystal_Encounter! Rival.gbs"
     title: "Encounter! Rival"
+    path: "Pokemon Crystal_Encounter! Rival.gbs"
     type: warning
   - id: follow_me_gsc
-    path: "Pokemon Crystal_Follow Me.gbs"
     title: "Follow Me"
+    path: "Pokemon Crystal_Follow Me.gbs"
     type: warning
   - id: prof_oaks_theme_gsc
-    path: "Pokemon Crystal_Prof. Oak's Theme.gbs"
     title: "Prof. Oak's Theme"
+    path: "Pokemon Crystal_Prof. Oak's Theme.gbs"
     type: warning
   - id: rivals_theme_gsc
-    path: "Pokemon Crystal_Rival's Theme.gbs"
     title: "Rival's Theme"
+    path: "Pokemon Crystal_Rival's Theme.gbs"
     type: warning
   - id: evolution_gsc
-    path: "Pokemon Crystal_Pokemon Evolution.gbs"
     title: "Pokémon Evolution"
+    path: "Pokemon Crystal_Pokemon Evolution.gbs"
     type: warning
   - id: encounter_kimono_girl
-    path: "Pokemon Crystal_Encounter! Kimono Girl.gbs"
     title: "Encounter! Kimono Girl"
+    path: "Pokemon Crystal_Encounter! Kimono Girl.gbs"
     type: warning
   - id: encounter_youngster_gsc
-    path: "Pokemon Crystal_Encounter! Youngster.gbs"
     title: "Encounter! Youngster"
+    path: "Pokemon Crystal_Encounter! Youngster.gbs"
     type: warning
   - id: encounter_female_trainer_gsc
-    path: "Pokemon Crystal_Encounter! Female Trainer.gbs"
     title: "Encounter! Female Trainer"
+    path: "Pokemon Crystal_Encounter! Female Trainer.gbs"
     type: warning
   - id: encounter_rocket_in_radio_tower_gsc
-    path: "Pokemon Crystal_Encounter! Rocket in Goldenrod Radio Tower.gbs"
     title: "Encounter! Rocket in Goldenrod Radio Tower"
+    path: "Pokemon Crystal_Encounter! Rocket in Goldenrod Radio Tower.gbs"
     type: warning
   - id: encounter_pokemaniac_gsc
-    path: "Pokemon Crystal_Encounter! PokeManiac.gbs"
     title: "Encounter! PokéManiac"
+    path: "Pokemon Crystal_Encounter! PokeManiac.gbs"
     type: warning
   - id: encounter_sage_gsc
-    path: "Pokemon Crystal_Encounter! Sage.gbs"
     title: "Encounter! Sage"
+    path: "Pokemon Crystal_Encounter! Sage.gbs"
     type: warning
   - id: dragons_den_gsc
-    path: "Pokemon Crystal_Dragon's Den.gbs"
     title: "Dragon's Den"
+    path: "Pokemon Crystal_Dragon's Den.gbs"
     type: warning
   - id: moms_theme_gsc
-    path: "Pokemon Crystal_Mom's Theme.gbs"
     title: "Mom's Theme"
+    path: "Pokemon Crystal_Mom's Theme.gbs"
     type: warning
   - id: goldenrod_radio_tower_rocket_gsc
-    path: "Pokemon Crystal_Goldenrod Radio Tower (Rocket).gbs"
     title: "Goldenrod Radio Tower (Rocket)"
+    path: "Pokemon Crystal_Goldenrod Radio Tower (Rocket).gbs"
     type: betting
   - id: kimono_girls_gsc
-    path: "Pokemon Crystal_Kimono Girls.gbs"
     title: "Kimono Girls"
+    path: "Pokemon Crystal_Kimono Girls.gbs"
     type: warning
   - id: clairs_theme_gsc
-    path: "Pokemon Crystal_Clair's Theme.gbs"
     title: "Clair's Theme"
+    path: "Pokemon Crystal_Clair's Theme.gbs"
     type: warning
   - id: bicycle_gsc
-    path: "Pokemon Crystal_Bicycle.gbs"
     title: "Bicycle"
+    path: "Pokemon Crystal_Bicycle.gbs"
     type: result
   - id: hall_of_fame_gsc
-    path: "Pokemon Crystal_Hall of Fame.gbs"
     title: "Hall of Fame"
+    path: "Pokemon Crystal_Hall of Fame.gbs"
     type: result
   - id: victory_kanto_trainer_gsc
+    title: "Victory! Trainer"
     path: "Pokemon Crystal_Victory! Kanto Trainer.gbs"
-    title: "Victory! Kanto Trainer"
     type: result
   - id: victory_wild_pokemon_gsc
-    path: "Pokemon Crystal_Victory! Wild Pokemon.gbs"
     title: "Victory! Wild Pokémon"
+    path: "Pokemon Crystal_Victory! Wild Pokemon.gbs"
     type: result
   - id: victory_gym_leader_gsc
-    path: "Pokemon Crystal_Victory! Gym Leader.gbs"
     title: "Victory! Gym Leader"
+    path: "Pokemon Crystal_Victory! Gym Leader.gbs"
     type: result
   - id: staff_roll_gsc
-    path: "Pokemon Crystal_Staff Roll.gbs"
     title: "Staff Roll"
+    path: "Pokemon Crystal_Staff Roll.gbs"
     type: result
   - id: bug_catching_contest_preparation_gsc
-    path: "Pokemon Crystal_Bug Catching Contest (Preparation).gbs"
     title: "Bug Catching Contest (Preparation)"
+    path: "Pokemon Crystal_Bug Catching Contest (Preparation).gbs"
     type: warning
   - id: bug_catching_contest_gsc
-    path: "Pokemon Crystal_Bug Catching Contest.gbs"
     title: "Bug Catching Contest"
+    path: "Pokemon Crystal_Bug Catching Contest.gbs"
     type: result
   - id: mobile_adapter_gb
-    path: "Pokemon Crystal_Mobile Adapter GB.gbs"
     title: "Mobile Adapter GB"
+    path: "Pokemon Crystal_Mobile Adapter GB.gbs"
     type: break
   - id: mobile_adapter_gb2
-    path: "Pokemon Crystal_Mobile Adapter GB2.gbs"
     title: "Mobile Adapter GB2"
+    path: "Pokemon Crystal_Mobile Adapter GB2.gbs"
     type: result
   - id: battle_kanto_gym_leader_gsc
+    title: "Battle! Gym Leader (Kanto)"
     path: "Pokemon Crystal_Battle! Kanto Gym Leader.gbs"
-    title: "Battle! Kanto Gym Leader"
     type: battle
   - id: battle_kanto_trainer_gsc
+    title: "Battle! Trainer (Kanto)"
     path: "Pokemon Crystal_Battle! Kanto Trainer.gbs"
-    title: "Battle! Kanto Trainer"
     type: battle
   - id: battle_kanto_wild_pokemon_gsc
+    title: "Battle! Wild Pokémon (Kanto)"
     path: "Pokemon Crystal_Battle! Kanto Wild Pokemon.gbs"
-    title: "Battle! Kanto Wild Pokémon"
     type: battle
   - id: battle_johto_wild_pokemon_day_gsc
+    title: "Battle! Wild Pokémon (Johto, Day)"
     path: "Pokemon Crystal_Battle! Johto Wild Pokemon (Day).gbs"
-    title: "Battle! Johto Wild Pokémon (Day)"
     type: battle
   - id: battle_johto_wild_pokemon_night_gsc
+    title: "Battle! Wild Pokémon (Johto, Night)"
     path: "Pokemon Crystal_Battle! Johto Wild Pokemon (Night).gbs"
-    title: "Battle! Johto Wild Pokémon (Night)"
     type: battle
   - id: battle_johto_trainer
+    title: "Battle! Trainer (Johto)"
     path: "Pokemon Crystal_Battle! Johto Trainer.gbs"
-    title: "Battle! Johto Trainer"
     type: battle
   - id: battle_johto_gym_leader_gsc
+    title: "Battle! Gym Leader (Johto)"
     path: "Pokemon Crystal_Battle! Johto Gym Leader.gbs"
-    title: "Battle! Johto Gym Leader"
     type: battle
   - id: battle_champion_gsc
-    path: "Pokemon Crystal_Battle! Champion.gbs"
     title: "Battle! Champion"
+    path: "Pokemon Crystal_Battle! Champion.gbs"
     type: battle
   - id: battle_rival_gsc
-    path: "Pokemon Crystal_Battle! Rival.gbs"
     title: "Battle! Rival"
+    path: "Pokemon Crystal_Battle! Rival.gbs"
     type: battle
   - id: battle_team_rocket_gsc
-    path: "Pokemon Crystal_Battle! Team Rocket.gbs"
     title: "Battle! Team Rocket"
+    path: "Pokemon Crystal_Battle! Team Rocket.gbs"
     type: battle
   - id: battle_legendary_beasts_gsc
-    path: "Pokemon Crystal_Battle! Legendary Beasts.gbs"
     title: "Battle! Legendary Beasts"
+    path: "Pokemon Crystal_Battle! Legendary Beasts.gbs"
     type: battle
   - id: eusines_theme_crystal
-    path: "Pokemon Crystal_Eusine's Theme.gbs"
     title: "Eusine's Theme"
+    path: "Pokemon Crystal_Eusine's Theme.gbs"
     type: warning
   - id: battle_tower_inside_crystal
-    path: "Pokemon Crystal_Battle Tower (Inside).gbs"
     title: "Battle Tower (Inside)"
+    path: "Pokemon Crystal_Battle Tower (Inside).gbs"
     type: break
   - id: battle_tower_outside_crystal
-    path: "Pokemon Crystal_Battle Tower (Outside).gbs"
     title: "Battle Tower (Outside)"
+    path: "Pokemon Crystal_Battle Tower (Outside).gbs"
     type: betting
   - id: buenas_password_show_crystal
-    path: "Pokemon Crystal_Buena's Password Show.gbs"
     title: "Buena's Password Show"
+    path: "Pokemon Crystal_Buena's Password Show.gbs"
     type: betting
   - id: printer_error_gsc
+    title: "GB Printer"
     path: "Pokemon Crystal_Printer Error.gbs"
-    title: "Printer Error"
     type: break
   - id: pokemon_communication_center_crystal
-    path: "Pokemon Crystal_Pokemon Communication Center.gbs"
     title: "Pokémon Communication Center"
+    path: "Pokemon Crystal_Pokemon Communication Center.gbs"
     type: betting
   - id: unused_crystal
-    path: "Pokemon Crystal_079.gbs"
     title: "Unused"
+    path: "Pokemon Crystal_079.gbs"
     type: break
-    #  - id: clefairy_dance
-    #    path: "Pokemon Crystal_Clefairy Dance.gbs"
-    #    title: "Clefairy Dance"
-    #    type: result
-    #  - id: radio_unkown
-    #    path: "Pokemon Crystal_Radio_ Unkown.gbs"
-    #    title: "Radio: Unkown"
-    #    type: break
-    #  - id: the_end_crystal
-    #    path: "Pokemon Crystal_The End.gbs"
-    #    title: "The End"
-    #    type: result
 ...

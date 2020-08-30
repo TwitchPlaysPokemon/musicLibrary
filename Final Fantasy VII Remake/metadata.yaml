@@ -1,0 +1,111 @@
+---
+id: final_fantasy_vii_remake
+title: "Final Fantasy VII Remake"
+platform: "PS4"
+year: 2020
+songs: 
+  - id: let_the_battles_begin!_a_merc_s _job
+    title: "Let the Battles Begin! - A Merc's Job"
+    path: "bgm_battle_hanyo_1#2 (Music-Section1).brstm"
+    type: battle
+  - id: wild_de_chocobo
+    title: "Wild de Chocobo"
+    path: "bgm_chocobo.mab"
+    type: result
+  - id: electric_de_chocobo
+    title: "Electric de Chocobo"
+    path: "bgm_chocobo_elec.mab"
+    type: betting
+  - id: hip_hop_de_chocobo
+    title: "Hip Hop de Chocobo"
+    path: "bgm_chocobo_hip.mab"
+    type: betting
+  - id: game_over_ff7r
+    title: "Game Over"
+    path: "bgm_continue.mab"
+    type: result
+  - id: whack_a_box
+    title: "Whack-a-Box"
+    path: "bgm_crash_box.mab"
+    type: battle
+  - id: train_graveyard
+    title: "Train Graveyard"
+    path: "bgm_grav7_02#1 (Music-Section0).brstm"
+    type: betting
+  - id: haunted
+    title: "Haunted"
+    path: "bgm_grav7_03.mab"
+    type: battle
+  - id: come_on_this_way
+    title: "Come On, This Way"
+    path: "bgm_grav7_06.mab"
+    type: betting
+  - id: black_wind
+    title: "Black Wind"
+    path: "bgm_grav7_11.mab"
+    type: betting
+  - id: waiting_to_be_found
+    title: "Waiting to Be Found"
+    path: "bgm_grav7_16#1 (Music-Section0).brstm"
+    type: break
+  - id: eligor
+    title: "Eligor"
+    path: "bgm_grav7_15#1 (Music-Section0).brstm"
+    type: battle
+  - id: fight_for_survival
+    title: "Fight for Survival"
+    path: "bgm_slu7p_01.mab"
+    type: battle
+  - id: those_in_need
+    title: "Those in Need"
+    path: "bgm_slu7p_07.mab"
+    type: betting
+  - id: slums_on_fire
+    title: "Slums on Fire"
+    path: "bgm_slu7p_08.mab"
+    type: betting
+  - id: get_to_safety
+    title: "Get to Safety!"
+    path: "bgm_slu7p_09#1 (Music-Section0).brstm"
+    type: betting
+  - id: aerith_and_marlene_a_familiar_flower
+    title: "Aerith and Marlene - A Familiar Flower"
+    path: "bgm_slu7p_10#1 (Music-Section0).brstm"
+    type: break
+  - id: the_look_on_her_face
+    title: "The Look on Her Face"
+    path: "bgm_slu7p_11#1 (Music-Section0).brstm"
+    type: break
+  - id: rematch_atop_the_pillar
+    title: "Rematch atop the Pillar"
+    path: "bgm_slu7p_12#1 (Music-Section0).brstm"
+    type: battle
+  - id: run_run_run
+    title: "RUN RUN RUN"
+    path: "bgm_bike_good.mab"
+    type: result
+  - id: the_most_muscular
+    title: "The Most Muscular"
+    path: "bgm_squat_music.mab"
+    type: battle
+  - id: the_turks_reno
+    title: "The Turks: Reno"
+    path: "bgm_slu5b_03#1 (Music-Section0) part2.brstm"
+    type: battle
+  - id: high_five
+    title: "High Five"
+    path: "bgm_togijyo_bat_1_2.mab"
+    type: battle
+  - id: due_recompense
+    title: "Due Recompense"
+    path: "bgm_togijyo_bat_1_3.mab"
+    type: battle
+  - id: the_airbuster
+    title: "The Airbuster"
+    path: "The Airbuster.brstm"
+    type: battle
+  - id: one_winged_angel_rebirth
+    title: "One-Winged Angel - Rebirth"
+    path: "One-Winged Angel - Rebirth.brstm"
+    type: battle
+...

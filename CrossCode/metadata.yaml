@@ -12,4 +12,16 @@ songs:
     title: "Ba'kii Kum"
     path: "muBakiikum.brstm"
     type: betting
+  - id: basin_keep
+    title: "Basin Keep"
+    path: "Basin Keep.brstm"
+    type: betting
+  - id: boss_battle
+    title: "Boss_Battle"
+    path: "Boss_Battle.brstm"
+    type: battle
+  - id: crosscounter
+    title: "CrossCounter!"
+    path: "CrossCounter!.brstm"
+    type: warning
 ...

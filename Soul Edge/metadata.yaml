@@ -1,0 +1,23 @@
+---
+id: soul_edge_soul_blade
+title: "Soul Edge/Soul Blade"
+platform: ["Arcade", "PS1"]
+year: 1995
+songs: 
+  - id: bravely_folk_song
+    title: "Bravely Folk Song"
+    path: "Bravely Folk Song (Original).brstm"
+    type: betting
+  - id: future_dancin
+    title: "Future Dancin'"
+    path: "Future Dancin' (Original).brstm"
+    type: battle
+  - id: the_gears_of_madness
+    title: "The Gears of Madness"
+    path: "The Gears of Madness (Original).brstm"
+    type: battle
+  - id: soul_and_sword
+    title: "Soul and Sword"
+    path: "Soul And Sword (Original).brstm"
+    type: battle
+...

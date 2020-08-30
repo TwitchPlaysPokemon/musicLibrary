@@ -1,0 +1,15 @@
+---
+id: penny_arcade_adventures_on_the_rain_slick_precipice_of_darkness_episode_three
+title: "Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Three"
+platform: ["PC", "360", "Mobile"]
+year: 2012
+songs: 
+  - id: boss_battle_penny_arcade_ep3
+    title: "Boss Battle"
+    path: "battle_boss.brstm"
+    type: battle
+  - id: new_arcadia
+    title: "New Arcadia"
+    path: "new_arcadia.brstm"
+    type: betting
+...

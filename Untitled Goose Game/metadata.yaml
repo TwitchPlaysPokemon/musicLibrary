@@ -4,48 +4,48 @@ title: "Untitled Goose Game"
 platform: "Various"
 year: 2019
 songs: 
-  - id: backyardshigh
-    title: "BackyardsHigh"
-    path: "BackyardsHigh.brstm"
-    type: break
-  - id: backyardslow
-    title: "BackyardsLow"
-    path: "BackyardsLow.flac"
-    type: break
-  - id: finalehigh
-    title: "FinaleHigh"
-    path: "FinaleHigh.flac"
-    type: break
-  - id: finalelow
-    title: "FinaleLow"
-    path: "FinaleLow.flac"
-    type: break
-  - id: gardenhigh
-    title: "GardenHigh"
+  - id: preludes_book_1_l_117_minstrels
+    title: "Préludes / Book 1, L. 117: Minstrels"
     path: "GardenHigh.brstm"
     type: break
-  - id: gardenlow
-    title: "GardenLow"
-    path: "GardenLow.flac"
+  - id: preludes_book_2_l_123_hommage_a_s_pickwick_esq_p_p_m_p_c
+    title: "Préludes / Book 2, L. 123: Hommage à S. Pickwick Esq. P.P.M.P.C."
+    path: "BackyardsHigh.brstm"
     type: break
-  - id: menu_untitled_goose_game
-    title: "Menu"
-    path: "Menu.brstm"
-    type: break
-  - id: pubhigh
-    title: "PubHigh"
-    path: "PubHigh.brstm"
-    type: break
-  - id: publow
-    title: "PubLow"
-    path: "PubLow.flac"
-    type: break
-  - id: shopshigh
-    title: "ShopsHigh"
+  - id: preludes_book_1_l_117_les_collines_d_anacapri
+    title: "Préludes / Book 1, L. 117: Les collines d'Anacapri"
     path: "ShopsHigh.flac"
     type: break
-  - id: shopslow
-    title: "ShopsLow"
+  - id: preludes_book_1_l_117_la_serenade_interrompue
+    title: "Préludes / Book 1, L. 117: La sérénade interrompue"
+    path: "PubHigh.brstm"
+    type: break
+  - id: preludes_book_2_l_123_feux_d_artifice
+    title: "Préludes / Book 2, L. 123: Feux d'artifice"
+    path: "FinaleHigh.flac"
+    type: break
+  - id: preludes_book_1_l_117_minstrels_rake_in_the_lake
+    title: "Préludes / Book 1, L. 117: Minstrels (Rake in The Lake)"
+    path: "GardenLow.flac"
+    type: break
+  - id: preludes_book_2_l_123_hommage_a_s_pickwick_esq_p_p_m_p_c_do_the_washing
+    title: "Préludes / Book 2, L. 123: Hommage à S. Pickwick Esq. P.P.M.P.C. (Do The Washing)"
+    path: "BackyardsLow.flac"
+    type: break
+  - id: preludes_book_1_l_117_les_collines_d_anacapri_break_the_room
+    title: "Préludes / Book 1, L. 117: Les collines d'Anacapri (Break The Broom)"
     path: "ShopsLow.flac"
+    type: break
+  - id: preludes_book_1_l_117_la_serenade_interrompue_be_awarded_a_flower
+    title: "Préludes / Book 1, L. 117: La sérénade interrompue (Be Awarded A Flower)"
+    path: "PubLow.flac"
+    type: break
+  - id: preludes_book_2_l_123_feux_d_artifice_steal_the_beautiful_miniature_golden_bell
+    title: "Préludes / Book 2, L. 123: Feux d'artifice (Steal The Beautiful Miniature Golden Bell)"
+    path: "FinaleLow.flac"
+    type: break
+  - id: preludes_book_2_l_123_bruyeres_menu
+    title: "Préludes / Book 2, L. 123: Bruyères (Menu)"
+    path: "Menu.brstm"
     type: break
 ...

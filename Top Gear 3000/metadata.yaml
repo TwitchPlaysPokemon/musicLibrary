@@ -1,0 +1,35 @@
+---
+id: top_gear_3000
+title: "Top Gear 3000"
+platform: "SNES"
+year: 1995
+songs: 
+  - id: title_theme_top_gear_3000
+    title: "Title Theme"
+    path: "01 Title.spc"
+    type: betting
+  - id: misk
+    title: "Misk"
+    path: "02 Main Theme 1.spc"
+    type: battle
+  - id: measia
+    title: "Measia"
+    path: "03 Main Theme 2.spc"
+    type: battle
+  - id: nonet
+    title: "Nonet"
+    path: "04 Main Theme 3.spc"
+    type: battle
+  - id: haahe
+    title: "Haahe"
+    path: "05 Main Theme 4.spc"
+    type: betting
+  - id: results
+    title: "Results"
+    path: "06 Results.spc"
+    type: result
+  - id: ending_theme_top_gear_3000
+    title: "Ending Theme"
+    path: "07 Ending Theme.spc"
+    type: betting
+...

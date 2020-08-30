@@ -2,39 +2,39 @@
 id: donkey_kong_country_returns
 title: "Donkey Kong Country Returns"
 series: donkeykong
-year: 2010
 platform: "Wii"
+year: 2010
 songs:
-  - id: golden_temple
-    title: "Golden Temple"
-    path: "Golden Temple.brstm"
+  - id: banana_temple
+    title: "Banana Temple"
+    path: "Jungle(L04)Factory(L01)_32kBPM115.ras"
     type: betting
-  - id: life_in_the_mines_returns
-    path: "Life in the Mines Returns.brstm"
-    title: "Life in the Mines Returns"
+  - id: factory_friction
+    title: "Factory Friction"
+    path: "Factory06_only32kBPM144.ras"
     type: betting
   - id: factory_switch_room
-    path: "Factory Switch Room.brstm"
     title: "Factory Switch Room"
+    path: "Factory_SwitchRoom_32kBPM139.ras"
     type: betting
-  - id: crankys_theme_dkcr
-    path: "Cranky's Theme.brstm"
-    title: "Cranky's Theme"
+  - id: cranky_kong_s_shop
+    title: "Cranky Kong's Shop"
+    path: "Shop_32kBPM84.ras"
     type: betting
-  - id: gear_getaway
-    path: "Gear Getaway.brstm"
-    title: "Gear Getaway"
+  - id: conveyor_smasher
+    title: "Conveyor Smasher"
+    path: "Factory02_03_32kBPM134.ras"
     type: betting
   - id: sloppy_sands
-    path: "Sloppy Sands.brstm"
     title: "Sloppy Sands"
+    path: "Sloppy Sands.brstm"
     type: betting
   - id: music_madness
-    path: "Music Madness.brstm"
     title: "Music Madness"
+    path: "Factory07_32kBPM140.ras"
     type: betting
-  - id: tidal_terror
-    path: "Tidal Terror.brstm"
-    title: "Tidal Terror"
+  - id: storm_beach
+    title: "Storm Beach"
+    path: "beach_tidalwave_bpm120.ras"
     type: betting
 ...

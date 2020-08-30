@@ -1,0 +1,99 @@
+---
+id: donkey_kong_jungle_beat
+title: "Donkey Kong Jungle Beat"
+platform: ["GC", "Wii", "Wii U"]
+year: 2004
+songs: 
+  - id: ancient_foundry
+    title: "Ancient Foundry"
+    path: "Ancient Foundry.brstm"
+    type: betting
+  - id: arctic_plunge
+    title: "Arctic Plunge"
+    path: "Arctic Plunge.brstm"
+    type: betting
+  - id: clock_tower
+    title: "Clock Tower"
+    path: "Clock Tower.brstm"
+    type: betting
+  - id: cloudy_heights
+    title: "Cloudy Heights"
+    path: "Cloudy Heights.brstm"
+    type: betting
+  - id: dancing_bear
+    title: "Dancing Bear"
+    path: "Dancing Bear.brstm"
+    type: warning
+  - id: dawn_savanna
+    title: "Dawn Savanna"
+    path: "Dawn Savanna.brstm"
+    type: betting
+  - id: deep_sea_sprint
+    title: "Deep Sea Sprint"
+    path: "Deep Sea Sprint.brstm"
+    type: betting
+  - id: desert_oasis
+    title: "Desert Oasis"
+    path: "Desert Oasis.brstm"
+    type: betting
+  - id: dread_kong_intro
+    title: "Dread Kong - Intro"
+    path: "Dread Kong - Intro.brstm"
+    type: warning
+  - id: grim_volcano
+    title: "Grim Volcano"
+    path: "Grim Volcano.brstm"
+    type: betting
+  - id: jungle_deeps
+    title: "Jungle Deeps"
+    path: "Jungle Deeps.brstm"
+    type: betting
+  - id: karate_kong_phase_1
+    title: "Karate Kong - Phase 1"
+    path: "Karate Kong - Phase 1.brstm"
+    type: warning
+  - id: magma_coliseum
+    title: "Magma Coliseum"
+    path: "Magma Coliseum.brstm"
+    type: battle
+  - id: massive_canyon
+    title: "Massive Canyon"
+    path: "Massive Canyon.brstm"
+    type: betting
+  - id: ninja_kong_intro
+    title: "Ninja Kong - Intro"
+    path: "Ninja Kong - Intro.brstm"
+    type: warning
+  - id: rumble_falls
+    title: "Rumble Falls"
+    path: "Rumble Falls.brstm"
+    type: betting
+  - id: spirit_tree
+    title: "Spirit Tree"
+    path: "Spirit Tree.brstm"
+    type: betting
+  - id: sumo_kong_intro
+    title: "Sumo Kong - Intro"
+    path: "Sumo Kong - Intro.brstm"
+    type: warning
+  - id: sweet_paradise
+    title: "Sweet Paradise"
+    path: "Sweet Paradise.brstm"
+    type: betting
+  - id: vs_cactus_king_phase_1
+    title: "Vs. Cactus King - Phase 1"
+    path: "Vs. Cactus King - Phase 1.brstm"
+    type: battle
+  - id: vs_hog_phase_1
+    title: "Vs. Hog - Phase 1"
+    path: "Vs. Hog - Phase 1.brstm"
+    type: battle
+  - id: vs_roc_phase_1
+    title: "Vs. Roc - Phase 1"
+    path: "Vs. Roc - Phase 1.brstm"
+    type: battle
+  - id: vs_tusk_phase_1
+    title: "Vs. Tusk - Phase 1"
+    path: "Vs. Tusk - Phase 1.brstm"
+    type: battle
+...

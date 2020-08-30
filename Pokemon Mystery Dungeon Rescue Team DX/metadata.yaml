@@ -222,4 +222,29 @@ songs:
     title: "Rescue Camp ~ Cave"
     path: "BGM_CAMP_MYSTIC_01.fsb"
     type: betting
+  - id: gates_to_infinity_medley_pmd_rt_dx
+    title: "Gates to Infinity Medley"
+    path: "BGM_DUN_MAGNA.fsb"
+    ends: 3:54
+    type: betting
+  - id: in_a_dream_pmd_rt_dx
+    title: "In a Dream"
+    path: "BGM_EVE_DREAM_01.fsb"
+    type: break
+  - id: fugitives_no_more_pmd_rt_dx
+    title: "Fugitives No More"
+    path: "BGM_EVE_ESCAPE_03.fsb"
+    type: result
+  - id: mystery_pmd_rt_dx
+    title: "Mystery"
+    path: "BGM_EVE_NAZO.fsb"
+    type: warning
+  - id: sky_tower_clear_pmd_rt_dx
+    title: "Sky Tower Clear"
+    path: "BGM_EVE_TENKUU_CLEAR.fsb"
+    type: warning
+  - id: epilogue_pmd_rt_dx
+    title: "Epilogue"
+    path: "BGM_SYS_ENDING_02_B.fsb"
+    type: result
 ...

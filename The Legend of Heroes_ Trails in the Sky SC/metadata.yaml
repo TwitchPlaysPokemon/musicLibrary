@@ -1,17 +1,19 @@
+---
 id: the_legend_of_heroes_trails_in_the_sky_sc
-platform: ["PC", "PSP", "PS3"]
 title: "The Legend of Heroes: Trails in the Sky SC"
+platform: Various
 year: 2006
 songs: 
   - id: fateful_confrontation_tloh_sc
-    path: "Fateful Confrontation.brstm"
     title: "Fateful Confrontation"
+    path: "Fateful Confrontation.brstm"
     type: battle
   - id: enormous_fright_tloh_sc
-    path: "Enormous Fright.brstm"
     title: "Enormous Fright"
+    path: "Enormous Fright.brstm"
     type: warning
   - id: infiltration_tloh_sc
-    path: "Infiltration.brstm"
     title: "Infiltration"
+    path: "Infiltration.brstm"
     type: betting
+...

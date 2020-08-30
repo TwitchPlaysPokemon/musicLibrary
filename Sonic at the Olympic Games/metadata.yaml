@@ -1,0 +1,140 @@
+---
+id: sonic_at_the_olympic_games
+title: "Sonic at the Olympic Games"
+platform: "Mobile"
+year: 2020
+songs: 
+  - id: main_theme_sonic_at_the_olympic_games
+    title: "Main Theme"
+    path: "bgm_download#4 (BGM_TITLE_FULL).brstm"
+    ends: 2:08
+    type: betting
+  - id: asakusa_nihonbashi
+    title: "Asakusa & Nihonbashi"
+    path: "bgm_download#5 (BGM_HOME_NORMAL).brstm"
+    type: betting
+  - id: roppongi_shinjuku
+    title: "Roppongi & Shinjuku"
+    path: "bgm_download#6 (BGM_HOME_URBAN).brstm"
+    type: betting
+  - id: odaiba_yokohama
+    title: "Odaiba & Yokohama"
+    path: "bgm_download#7 (BGM_HOME_SEASIDE).brstm"
+    type: betting
+  - id: result_success
+    title: "Result - Success"
+    path: "bgm_download#11 (BGM_RESULT_CLEAR).brstm"
+    type: result
+  - id: result_failure
+    title: "Result - Failure"
+    path: "bgm_download#12 (BGM_RESULT_FAILED).brstm"
+    type: result
+  - id: story_tension
+    title: "Story - Tension"
+    path: "bgm_download#13 (BGM_STORY_KINPAKU).brstm"
+    type: warning
+  - id: athletics_100m
+    title: "Athletics - 100m"
+    path: "bgm_download#15 (BGM_ATHHUN_MAIN).brstm"
+    type: warning
+  - id: athletics_hammer_throw
+    title: "Athletics - Hammer Throw"
+    path: "bgm_download#24 (BGM_ATHDIN).brstm"
+    type: betting
+  - id: athletics_long_jump_block
+    title: "Athletics - Long Jump Block"
+    path: "bgm_download#25 (BGM_ATHLJN_BLOCK; BGM_ATHLJN_CLAPPING).brstm"
+    type: warning
+  - id: athletics_long_jump_hard
+    title: "Athletics - Long Jump Hard"
+    path: "bgm_download#27 (BGM_ATHLJN_HARD).brstm"
+    type: warning
+  - id: athletics_javelin_throw
+    title: "Athletics - Javelin Throw"
+    path: "bgm_download#30 (BGM_ATHJAN).brstm"
+    type: betting
+  - id: aquatics_diving
+    title: "Aquatics - Diving"
+    path: "bgm_download#31 (BGM_AQUDVN).brstm"
+    type: betting
+  - id: archery
+    title: "Archery"
+    path: "bgm_download#32 (BGM_ARCINN).brstm"
+    type: betting
+  - id: shooting_main
+    title: "Shooting - Main"
+    path: "bgm_download#33 (BGM_SHOTRN_MAIN).brstm"
+    type: betting
+  - id: shooting_special
+    title: "Shooting - Special"
+    path: "bgm_download#34 (BGM_SHOTRN_SP).brstm"
+    type: warning
+  - id: badminton
+    title: "Badminton"
+    path: "bgm_download#35 (BGM_BADSIN).brstm"
+    type: betting
+  - id: table_tennis
+    title: "Table Tennis"
+    path: "bgm_download#36 (BGM_TABSIN).brstm"
+    type: betting
+  - id: karate
+    title: "Karate"
+    path: "bgm_download#37 (BGM_KARINN).brstm"
+    type: betting
+  - id: fencing
+    title: "Fencing"
+    path: "bgm_download#38 (BGM_FENEIN).brstm"
+    type: betting
+  - id: cycling_bmx
+    title: "Cycling - BMX"
+    path: "bgm_download#39 (BGM_CYCBMN).brstm"
+    type: betting
+  - id: gym_trampoline
+    title: "Gym - Trampoline"
+    path: "bgm_download#40 (BGM_GYMTRN).brstm"
+    type: betting
+  - id: sports_climbing
+    title: "Sports Climbing"
+    path: "bgm_download#41 (BGM_SPOCLN).brstm"
+    type: betting
+  - id: boss_eggman_nega
+    title: "Boss - Eggman Nega"
+    path: "bgm_download#42 (BGM_BOSS_EGN).brstm"
+    type: battle
+  - id: boss_zavok
+    title: "Boss - Zavok"
+    path: "bgm_download#43 (BGM_BOSS_ZAV).brstm"
+    type: battle
+  - id: boss_zazz
+    title: "Boss - Zazz"
+    path: "bgm_download#44 (BGM_BOSS_ZAZ).brstm"
+    type: battle
+  - id: boss_dr_eggman
+    title: "Boss - Dr. Eggman"
+    path: "bgm_download#45 (BGM_BOSS_EGG).brstm"
+    type: battle
+  - id: boss_metal_sonic
+    title: "Boss - Metal Sonic"
+    path: "bgm_download#46 (BGM_BOSS_MET).brstm"
+    type: battle
+  - id: boss_jet_the_hawk
+    title: "Boss - Jet the Hawk"
+    path: "bgm_download#47 (BGM_BOSS_JET).brstm"
+    type: battle
+  - id: boss_rouge_the_bat
+    title: "Boss - Rouge the Bat"
+    path: "bgm_download#48 (BGM_BOSS_ROU).brstm"
+    type: betting
+  - id: boss_espio_the_chameleon
+    title: "Boss - Espio the Chameleon"
+    path: "bgm_download#49 (BGM_BOSS_ESP).brstm"
+    type: battle
+  - id: rival_shadow_the_hedgehog_1
+    title: "Rival - Shadow the Hedgehog 1"
+    path: "bgm_download#50 (BGM_RIVAL_SHA1).brstm"
+    type: warning
+  - id: rival_shadow_the_hedgehog_2
+    title: "Rival - Shadow the Hedgehog 2"
+    path: "bgm_download#51 (BGM_RIVAL_SHA2).brstm"
+    type: warning
+...

@@ -1,0 +1,91 @@
+---
+id: daytona_usa_2_battle_on_the_edge
+title: "Daytona USA 2: BATTLE ON THE EDGE"
+platform: "Arcade"
+year: 1998
+songs: 
+  - id: advanced_ending
+    title: "ADVANCED ENDING"
+    path: "ADVANCED ENDING.brstm"
+    type: result
+  - id: battle_on_the_edge
+    title: "BATTLE ON THE EDGE"
+    path: "BATTLE ON THE EDGE.brstm"
+    type: warning
+  - id: battle_on_the_edge_mitsuyoshi_ver
+    title: "BATTLE ON THE EDGE - Mitsuyoshi Ver. -"
+    path: "BATTLE ON THE EDGE - Mitsuyoshi Ver. -.brstm"
+    type: warning
+  - id: beginner_ending
+    title: "BEGINNER ENDING"
+    path: "BEGINNER ENDING.brstm"
+    type: result
+  - id: bgm_1_no_use
+    title: "BGM 1 (NO USE)"
+    path: "BGM 1 (NO USE).brstm"
+    type: betting
+  - id: bgm_2_no_use
+    title: "BGM 2 (NO USE)"
+    path: "BGM 2 (NO USE).brstm"
+    type: battle
+  - id: expert_ending
+    title: "EXPERT ENDING"
+    path: "EXPERT ENDING.brstm"
+    type: result
+  - id: extra_ending
+    title: "EXTRA ENDING"
+    path: "EXTRA ENDING.brstm"
+    type: result
+  - id: extra_ending_2_no_use
+    title: "EXTRA ENDING 2 (NO USE)"
+    path: "EXTRA ENDING 2 (NO USE).brstm"
+    type: result
+  - id: how_to_2_no_use
+    title: "HOW TO 2 (NO USE)"
+    path: "HOW TO 2 (NO USE).brstm"
+    type: battle
+  - id: i_can_do_it
+    title: "I CAN DO IT"
+    path: "I CAN DO IT.brstm"
+    type: battle
+  - id: i_can_do_it_mitsuyoshi_ver
+    title: "I CAN DO IT - Mitsuyoshi Ver. -"
+    path: "I CAN DO IT - Mitsuyoshi Ver. -.brstm"
+    type: battle
+  - id: name_entry
+    title: "NAME ENTRY"
+    path: "NAME ENTRY.brstm"
+    type: result
+  - id: select_2_no_use
+    title: "SELECT 2 (NO USE)"
+    path: "SELECT 2 (NO USE).brstm"
+    type: result
+  - id: selector
+    title: "SELECTOR"
+    path: "SELECTOR.brstm"
+    type: warning
+  - id: skyscraper_sequence
+    title: "SKYSCRAPER SEQUENCE"
+    path: "SKYSCRAPER SEQUENCE.brstm"
+    type: betting
+  - id: skyscraper_sequence_mitsuyoshi_ver
+    title: "SKYSCRAPER SEQUENCE - Mitsuyoshi Ver. -"
+    path: "SKYSCRAPER SEQUENCE - Mitsuyoshi Ver. -.brstm"
+    type: betting
+  - id: sling_shot
+    title: "SLING SHOT"
+    path: "SLING SHOT.brstm"
+    type: battle
+  - id: sling_shot_mitsuyoshi_ver
+    title: "SLING SHOT - Mitsuyoshi Ver. -"
+    path: "SLING SHOT - Mitsuyoshi Ver. -.brstm"
+    type: battle
+  - id: tips_to_win
+    title: "TIPS TO WIN"
+    path: "TIPS TO WIN.brstm"
+    type: warning
+  - id: wait_no_use
+    title: "WAIT (NO USE)"
+    path: "WAIT (NO USE).brstm"
+    type: result
+...

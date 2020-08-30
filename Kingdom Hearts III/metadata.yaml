@@ -40,4 +40,56 @@ songs:
     title: "Thermosphere"
     path: "BGM_gumi_therm.mab"
     type: battle
+  - id: garden_of_assemblage
+    title: "Garden of Assemblage"
+    path: "BGM_field_rg03 (music_DLC-Tres-rem_Cavern_of_Remembrance_LP[Quad]).brstm"
+    type: betting
+  - id: l_eminenza_oscura_kingdom_hearts_iii
+    title: "L'Eminenza Oscura"
+    path: "BGM_battle_rg11 (music_DLC-M02_Eminenza_Master[Quad]).brstm"
+    type: battle
+  - id: l_oscurita_dell_ignoto_kingdom_hearts_iii
+    title: "L'Oscurità dell'Ignoto"
+    path: "BGM_battle_rg12 (music_DLC-M03_Xemnas_Master[Quad]).brstm"
+    type: battle
+  - id: the_13th_dilemma_xigbar
+    title: "The 13th Dilemma (Xigbar)"
+    path: "BGM_battle_rg13#1 (music_DLC-LimicaXigbar_Battle_TD2).brstm"
+    type: battle
+  - id: the_13th_struggle_luxord
+    title: "The 13th Struggle (Luxord)"
+    path: "BGM_battle_rg14#1 (music_DLC-luxord1_take1).brstm"
+    type: battle
+  - id: the_13th_struggle_larxene
+    title: "The 13th Struggle (Larxene)"
+    path: "BGM_battle_rg15 (music_DLC-M08_Larxene_Master[Quad]).brstm"
+    type: battle
+  - id: lord_of_the_castle
+    title: "Lord of the Castle"
+    path: "BGM_battle_rg16 (music_DLC-M07_LordOfTheCastle_Master[Quad]).brstm"
+    type: battle
+  - id: the_13th_dilemma_saix
+    title: "The 13th Dilemma (Saíx)"
+    path: "BGM_battle_rg17 (music_DLC-The13thDilemma_Master[Quad]).brstm"
+    type: battle
+  - id: dismiss_kingdom_hearts_iii
+    title: "Dismiss"
+    path: "BGM_battle_rg18 (music_DLC-M10_TerraXehanort_Master[Quad]).brstm"
+    type: battle
+  - id: forze_de_male_kingdom_hearts_iii
+    title: "Forze de Male"
+    path: "BGM_battle_rg19 (music_DLC-kg853_v06loop[Quad]).brstm"
+    type: battle
+  - id: l_impeto_oscuro_kingdom_hearts_iii
+    title: "L'Impeto Oscuro"
+    path: "BGM_battle_rg21#1 (music_DLC-youngxehanort_TD2).brstm"
+    type: battle
+  - id: vector_to_the_heavens
+    title: "Vector to the Heavens"
+    path: "BGM_battle_rg22 (music_DLC-Vectortotheheavns_Master[Quad]).brstm"
+    type: battle
+  - id: forze_dell_oscurita
+    title: "Forze dell'Oscurita"
+    path: "BGM_battle_rg10 (music_DLC-M11_ForzeDell_Master[Quad]).brstm"
+    type: battle
 ...

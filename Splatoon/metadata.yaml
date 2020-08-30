@@ -4,41 +4,94 @@ title: "Splatoon"
 series: splatoon
 platform: "Wii U"
 year: 2015
-songs:
-  - id: sunken_scrolls
-    title: "Sunken Scrolls"
-    path: "Sunken Scrolls.brstm"
+songs: 
+  - id: splattack
+    title: "Splattack!"
+    path: "STRM_VS01.bfstm"
+    type: betting
+  - id: ink_or_sink
+    title: "Ink or Sink"
+    path: "STRM_VS02.bfstm"
+    type: betting
+  - id: seaskape
+    title: "Seaskape"
+    path: "STRM_VS03.bfstm"
+    type: battle
+  - id: kraken_up
+    title: "Kraken Up"
+    path: "STRM_VS04.bfstm"
+    type: betting
+  - id: metalopod
+    title: "Metalopod"
+    path: "STRM_VS05"
+    type: battle
+  - id: shellfie
+    title: "Shellfie"
+    path: "STRM_VS06.bfstm"
+    type: betting
+  - id: split_splat
+    title: "Split & Splat"
+    path: "STRM_VS07.bfstm"
+    type: betting
+  - id: hooked
+    title: "Hooked"
+    path: "STRM_VS08.bfstm"
+    type: battle
+  - id: inkopolis_tutorial
+    title: "Inkopolis Tutorial"
+    path: "STRM_Tutorial_Plaza.bfstm"
+    type: result
+  - id: lobby_splatoon
+    title: "Lobby"
+    path: "STRM_Lobby.bfstm"
+    type: betting
+  - id: dubble_bath
+    title: "Dubble Bath"
+    path: "STRM_Match.bfstm"
+    type: break
+  - id: lookin_fresh
+    title: "Lookin' Fresh"
+    path: "Booyah Base.brstm"
     type: break
   - id: inkopolis_news
     title: "Inkopolis News"
-    path: "Inkopolis News.brstm"
+    path: "STRM_Plaza_News.bfstm"
+    type: warning
+  - id: eight_legged_advance
+    title: "Eight-Legged Advance"
+    path: "Eight-Legged Advance.brstm"
+    type: betting
+  - id: tentacular_circus
+    title: "Tentacular Circus"
+    path: "Tentacular Circus.brstm"
+    type: warning
+  - id: inkstrike_shuffle
+    title: "Inkstrike Shuffle"
+    path: "Tornado Shuffle.brstm"
     type: warning
   - id: octoling_rendezvous
-    title: "Octoling Rendezvous (Battle Beat)"
+    title: "Octoling Rendezvous"
     path: "Octoling Rendezvous (Battle Beat).brstm"
-    type: warning
-  - id: calamari_inkantation
-    title: "Calamari Inkantation"
-    path: "Calamari Inkantation (Final Boss Phase 2).brstm"
     type: battle
+  - id: sunken_scroll
+    title: "Sunken Scroll"
+    path: "STRM_Komonjo.bfstm"
+    type: break
   - id: i_am_octavio
     title: "I am Octavio"
     path: "sp12_sp_iamoctavio.lopus"
     type: battle
-  - id: tutorial_plaza
-    title: "Tutorial (Plaza)"
-    path: "Tutorial (Plaza).brstm"
-    type: result
-  - id: splattack
-    title: "Splattack!"
-    path: "Splattack! (Squid Squad).brstm"
+  - id: calamari_inkantation
+    title: "Calamari Inkantation"
+    path: "STRM_LastBoss_idol.bfstm"
+    type: battle
+  - id: maritime_memory
+    title: "Maritime Memory"
+    path: "STRM_SCLive_Staffroll.bfstm"
+    ends: 2:40
     type: betting
-  - id: kraken_up
-    title: "Kraken Up!"
-    path: "Kraken Up (Squid Squad).brstm"
-    type: betting
-  - id: ink_or_sink
-    title: "Ink or Sink"
-    path: "Ink or Sink (Squid Squad).brstm"
-    type: betting
+  - id: tide_goes_out
+    title: "Tide Goes Out"
+    path: "STRM_SCLive_HotaruSong.bfstm"
+    type: break
 ...

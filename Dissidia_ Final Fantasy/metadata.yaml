@@ -5,9 +5,13 @@ series: finalfantasy
 platform: "PSP"
 year: 2008
 songs:
+  - id: fight_2_arrange_from_final_fantasy_iv
+    title: "\"Fight 2 - arrange -\" from FINAL FANTASY IV"
+    path: "B04_02.AT3"
+    type: battle
   - id: clash_on_the_big_bridge_arrange_from_final_fantasy_v
     title: "\"Clash on the Big Bridge - arrange -\" from FINAL FANTASY V"
-    path: "B04_02.AT3"
+    path: "B05_01.AT3"
     type: battle
   - id: victory_fanfare_chaos_from_dissidia_final_fantasy
     title: "\"Victory Fanfare - Chaos -\" from DISSIDIA FINAL FANTASY"

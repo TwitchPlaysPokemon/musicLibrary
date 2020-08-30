@@ -21,4 +21,52 @@ songs:
     path: "BGM_Live_095_Minnaatsumare.bwav"
     ends: 2:17
     type: betting
+  - id: shop_1_nook_s_cranny
+    title: "Shop 1 (Nook's Cranny)"
+    path: "BGM_Indoor_Market_01.bwav"
+    type: break
+  - id: shop_2_nook_s_cranny
+    title: "Shop 2 (Nook's Cranny)"
+    path: "BGM_Indoor_Market_02.bwav"
+    type: break
+  - id: new_year_1_hour_left
+    title: "New Year - 1 Hour Left"
+    path: "BGM_Event_NYC_2300.bwav"
+    type: betting
+  - id: museum_entrance
+    title: "Museum Entrance"
+    path: "BGM_Indoor_Museum_Entrance_01.bwav"
+    type: break
+  - id: island_tour_day
+    title: "Island Tour - Day"
+    path: "BGM_TourIsland_Day_Sunny.bwav"
+    type: betting
+  - id: item_get_fanfare
+    title: "Item Get Fanfare"
+    path: "BGM_Demo_GetFanfare.bwav"
+    type: result
+  - id: emergency_escape_service
+    title: "Emergency Escape Service"
+    path: "BGM_Demo_EmergencyEscapeService.bwav"
+    type: warning
+  - id: ceremony
+    title: "Ceremony"
+    path: "BGM_Demo_Ceremony.bwav"
+    type: break
+  - id: completion_fanfare
+    title: "Completion Fanfare"
+    path: "BGM_Demo_CompFanfare.bwav"
+    type: result
+  - id: isabelle_s_announcement
+    title: "Isabelle's Announcement"
+    path: "BGM_Demo_Announce_Shizue.bwav"
+    type: result
+  - id: wasp_chase
+    title: "Wasp Chase"
+    path: "BGM_Demo_Bee_Chasing.bwav"
+    type: warning
+  - id: sting_loop
+    title: "Sting (Loop)"
+    path: "BGM_Demo_Sting_Loop.bwav"
+    type: result
 ...

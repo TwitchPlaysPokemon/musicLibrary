@@ -1,18 +1,20 @@
+---
 id: monster_hunter_2_dos
 title: "Monster Hunter 2 (Dos)"
-year: 2006
 series: monsterhunter
 platform: "PS2"
+year: 2006
 songs:
-  - id: blangonga_dweller_in_the_frosty_dark
-    title: "Blangonga ~ Dweller in the Frosty Dark"
+  - id: dweller_of_the_white_darkness_blangonga
+    title: "Dweller of the White Darkness ~ Blangonga"
     path: "Blangonga ~ Dweller in the Frosty Dark.brstm"
     type: battle
-  - id: kushala_daora
-    title: "Kushala Daora ~ The Black Shadow Dancing in the Storm"
+  - id: black_shadow_dancing_in_the_tempest_kushala_daora
+    title: "Black Shadow Dancing in the Tempest ~ Kushala Daora"
     path: "Kushala Daora ~ The Black Shadow Dancing in the Storm.brstm"
     type: battle
-  - id: lunastra_teostra
-    title: "Lunastra & Teostra ~ Rulers of Flame"
+  - id: empress_of_a_blazing_kingdom_teostra_lunastra
+    title: "Empress of a Blazing Kingdom ~ Teostra & Lunastra"
     path: "Lunastra & Teostra ~ Rulers of Flame.brstm"
-    type: warning
+    type: battle
+...

@@ -1,0 +1,35 @@
+---
+id: penny_arcade_adventures_on_the_rain_slick_precipice_of_darkness_episode_four
+title: "Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Four"
+platform: ["PC", "360"]
+year: 2013
+songs: 
+  - id: battle_penny_arcade_ep4
+    title: "Battle!"
+    path: "battle_wav.xwb"
+    type: battle
+  - id: boss_battle_penny_arcade_ep4
+    title: "Boss Battle!"
+    path: "boss_wav.xwb"
+    type: battle
+  - id: castle_brahe
+    title: "Castle Brahe"
+    path: "castlebrahe_wav.xwb"
+    type: betting
+  - id: final_boss_penny_arcade_ep4
+    title: "Final Boss!"
+    path: "finalboss_wav.xwb"
+    type: battle
+  - id: in_the_belly_of_the_4th_god
+    title: "In the Belly of the 4th God"
+    path: "finaldungeon_wav.xwb"
+    type: betting
+  - id: fish_force
+    title: "Fish Force"
+    path: "fishforce_wav.xwb"
+    type: betting
+  - id: tycho
+    title: "Tycho"
+    path: "tycho_wav.xwb"
+    type: betting
+...

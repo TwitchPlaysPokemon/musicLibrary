@@ -1,0 +1,15 @@
+---
+id: columns_smd
+title: "Columns [SMD]"
+platform: Various
+#other platforms: ["GG", "Arcade", "PC Engine", "MSX2", "SMS", "FM Towns", "SFC", "PC-8801", "PC-98"]
+songs:
+  - id: arabian_jewelry
+    title: "Arabian Jewelry"
+    path: "Columns - 06 - Arabian Jewelry.vgm"
+    type: warning
+  - id: lathesis
+    title: "Lathesis"
+    path: "07 - Lathesis.vgm"
+    type: break
+...

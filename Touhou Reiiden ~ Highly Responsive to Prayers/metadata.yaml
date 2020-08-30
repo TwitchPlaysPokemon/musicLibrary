@@ -5,14 +5,38 @@ series: touhou
 platform: "PC-98"
 year: 1995
 songs: 
+  - id: a_sacred_lot
+    title: "A Sacred Lot"
+    path: "A Sacred Lot.brstm"
+    type: betting
+  - id: eternal_shrine_maiden
+    title: "Eternal Shrine Maiden"
+    path: "Eternal Shrine Maiden.brstm"
+    type: betting
+  - id: the_positive_and_negative
+    title: "The Positive and Negative"
+    path: "The Positive and Negative.brstm"
+    type: battle
+  - id: highly_responsive_to_prayers
+    title: "Highly Responsive to Prayers"
+    path: "Highly Responsive to Prayers.brstm"
+    type: betting
+  - id: strange_oriental_discourse
+    title: "Strange Oriental Discourse"
+    path: "Eastern Strange Discourse.brstm"
+    type: betting
+  - id: angel_s_legend
+    title: "Angel's Legend"
+    path: "Angel's Legend.brstm"
+    type: battle
+  - id: magic_mirror
+    title: "Magic Mirror"
+    path: "Magic Mirror.brstm"
+    type: battle
   - id: the_legend_of_kage_touhou
-    title: "The Legend of KAGE"
+    title: "The Legend of Kage"
     path: "The Legend of KAGE.brstm"
     type: betting
-  - id: theme_of_eastern_story
-    title: "Theme of Eastern Story"
-    path: "Theme of Eastern Story.brstm"
-    type: result
   - id: now_until_the_moment_you_die
     title: "Now, Until the Moment You Die"
     path: "Now, Die for the Debt You Have Accumulated.brstm"
@@ -21,4 +45,12 @@ songs:
     title: "Civilization of Magic"
     path: "Civilization of Magic.brstm"
     type: battle
+  - id: swordsman_of_a_distant_star
+    title: "Swordsman of a Distant Star"
+    path: "Angel of a Distant Star.brstm"
+    type: betting
+  - id: theme_of_eastern_story
+    title: "Theme of Eastern Story"
+    path: "Theme of Eastern Story.brstm"
+    type: result
 ...

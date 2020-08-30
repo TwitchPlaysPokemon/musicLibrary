@@ -131,4 +131,89 @@ songs:
     title: "Underground Ice"
     path: "Underground Ice.brstm"
     type: betting
+  - id: alt_title
+    title: "Alt Title"
+    path: "Alt Title.brstm"
+    type: betting
+  - id: day_remix
+    title: "Day Remix"
+    path: "Day Remix.wav"
+    path: 3:22
+    type: betting
+  - id: duke_fishron
+    title: "Duke Fishron"
+    path: "Duke Fishron.brstm"
+    type: battle
+  - id: empress_of_light
+    title: "Empress of Light"
+    path: "Empress of Light.brstm"
+    type: battle
+  - id: graveyard
+    title: "Graveyard"
+    path: "Graveyard.brstm"
+    type: betting
+  - id: underworld
+    title: "Underworld"
+    path: "Hell.brstm"
+    type: betting
+  - id: journey_s_end
+    title: "Journey's End"
+    path: "Journey's End.brstm"
+    type: betting
+  - id: jungle_night
+    title: "Jungle Night"
+    path: "Jungle Night.brstm"
+    type: betting
+  - id: morning_rain
+    title: "Morning Rain"
+    path: "Morning Rain.brstm"
+    type: betting
+  - id: ocean_night
+    title: "Ocean Night"
+    path: "Ocean Night.brstm"
+    type: betting
+  - id: old_one_s_army
+    title: "Old One's Army"
+    path: "Old One's Army.brstm"
+    type: battle
+  - id: queen_slime
+    title: "Queen Slime"
+    path: "Queen Slime.brstm"
+    type: betting
+  - id: sandstorm_terraria
+    title: "Sandstorm"
+    path: "Sandstorm.brstm"
+    type: betting
+  - id: Slime Rain
+    title: "Slime Rain"
+    path: "Slime Rain.brstm"
+    type: betting
+  - id: space_day
+    title: "Space Day"
+    path: "Space Day.brstm"
+    type: break
+  - id: storm
+    title: "Storm"
+    path: "Storm.brstm"
+    type: betting
+  - id: town_day
+    title: "Town Day"
+    path: "Town Day.brstm"
+    type: betting
+  - id: town_night
+    title: "Town Night"
+    path: "Town Night.brstm"
+    type: break
+  - id: underground_desert
+    title: "Underground Desert"
+    path: "Underground Desert.brstm"
+    type: betting
+  - id: underground_jungle
+    title: "Underground Jungle"
+    path: "Underground Jungle.brstm"
+    type: betting
+  - id: windy_day
+    title: "Windy Day"
+    path: "Windy Day.brstm"
+    type: betting
 ...

@@ -7,44 +7,48 @@ year: 2015
 songs:
   - id: up_shuttlethread_pass
     title: "Up Shuttlethread Pass"
-    path: "Up Shuttlethread Pass.brstm"
+    path: "Yoshi-Melo-0327FIX1.dspadpcm.bfstm"
     type: break
   - id: clawdaddy_beach 
     title: "Clawdaddy Beach"
-    path: "Clawdaddy Beach.brstm"
+    path: "Y-SeptemberPrec0410-332k.dspadpcm.bfstm"
     type: betting
   - id: yarn_yoshi_takes_shape
     title: "Yarn Yoshi Takes Shape!"
-    path: "Yarn Yoshi Takes Shape!.brstm"
+    path: "Merino_Main_20141009a.24-48_norm.dspadpcm.bfstm"
     type: betting
   - id: frozen_solid_and_chilled
     title: "Frozen Solid and Chilled"
-    path: "Frozen Solid and Chilled.brstm"
+    path: "Y-Lydian040932k.dspadpcm.bfstm"
     tags: [xmas]
     type: betting
   - id: fluffy_snow_here_we_go
     title: "Fluffy Snow, Here We Go!"
-    path: "Fluffy Snow, Here We Go!.brstm"
+    path: "Snow20150131d.16_32.dspadpcm.bfstm"
     tags: [xmas]
     type: betting
   - id: vs_snifberg_the_unfeeling
     title: "vs. Snifberg the Unfeeling"
-    path: "vs. Snifberg the Unfeeling.brstm"
+    path: "Packn0825-32k.dspadpcm.bfstm"
     tags: [xmas]
     type: battle
   - id: world_5_yoshis_woolly_world
     title: "World 5"
-    path: "World 5.brstm"
+    path: "Snow2-1017.dspadpcm.bfstm"
     tags: [xmas]
     type: betting
   - id: fluffy_snow_here_we_go_underground
     title: "Fluffy Snow, Here We Go! (Underground)"
-    path: "Fluffy Snow, Here We Go! (Underground).brstm"
+    path: "Y-Snow0212-New2A.dspadpcm.bfstm"
     tags: [xmas]
     type: break
   - id: a_little_light_snowfall
     title: "A Little Light Snowfall"
-    path: "A Little Light Snowfall.brstm"
+    path: "Snowland0820-32k.dspadpcm.bfstm"
     tags: [xmas]
+    type: betting
+  - id: lava_scarves_and_red_hot_blarggs
+    title: "Lava Scarves and Red-Hot Blarggs"
+    path: "Rock0930Wet.dspadpcm.bfstm"
     type: betting
 ...

@@ -58,4 +58,16 @@ songs:
     title: "Apex of The World"
     path: "BGM_0018.kns"
     type: battle
+  - id: the_forgotten
+    title: "The Forgotten"
+    path: "126 - The Forgotten.brstm"
+    type: break
+  - id: woven_by_fate
+    title: "Woven by Fate"
+    path: "127 - Woven by Fate.brstm"
+    type: betting
+  - id: the_shackled_wolves
+    title: "The Shackled Wolves"
+    path: "128 - The Shackled Wolves (Rain).brstm"
+    type: battle
 ...

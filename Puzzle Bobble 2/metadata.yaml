@@ -6,8 +6,32 @@ platform: "Various"
 #other platforms: Arcade, PS1, Saturn, PC, GB, N64
 year: 1995
 songs: 
+  - id: oppekepe_no_pe_demo_bgm
+    title: "Oppekepe no Pe~ (Demo BGM)"
+    path: "Pre-Match.brstm"
+    type: warning
   - id: step_skip_go_go_bgm_1
     title: "Step, Skip, Go Go! (BGM 1)"
-    path: "00 background 1.mp3"
+    path: "Stage Theme 1.brstm"
     type: betting
+  - id: let_s_go_to_pao_pao_island_nakayama_mix_bgm2
+    title: "Let's Go to Pao Pao Island! - Nakayama MIX - (BGM2)"
+    path: "Stage Theme 2.brstm"
+    type: betting
+  - id: april_forest_nakayama_mix_bgm3
+    title: "April Forest - Nakayama MIX - (BGM3)"
+    path: "Stage Theme 3.brstm"
+    type: warning
+  - id: travelers_dream_bgm4
+    title: "Travelers Dream (BGM4)"
+    path: "Stage Theme 5.brstm"
+    type: betting
+  - id: qi_qi_bgm5
+    title: "Qi-Qi (BGM5)"
+    path: "Stage Theme 4.brstm"
+    type: betting
+  - id: trembling_nightmare_drunk_bgm
+    title: "Trembling Nightmare (Drunk BGM)"
+    path: "Boss Round.brstm"
+    type: battle
 ...

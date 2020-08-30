@@ -1,3 +1,4 @@
+---
 id: castlevania_judgment
 title: "Castlevania Judgment"
 series: castlevania
@@ -36,3 +37,16 @@ songs:
     title: "Tower of Dolls"
     path: "Tower of Dolls.brstm"
     type: battle
+  - id: dance_of_illusions
+    title: "Dance of Illusions"
+    path: "bgm12.brstm"
+    type: battle
+  - id: dracula_s_castle
+    title: "Dracula's Castle"
+    path: "bgm11.brstm"
+    type: battle
+  - id: the_wolf_revealed
+    title: "The Wolf Revealed"
+    path: "bgm19.brstm"
+    type: battle
+...

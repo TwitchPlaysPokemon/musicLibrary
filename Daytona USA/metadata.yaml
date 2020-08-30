@@ -1,3 +1,4 @@
+---
 id: daytona_usa
 title: "Daytona USA"
 platform: ["Arcade", "Saturn", "PC"]
@@ -27,4 +28,16 @@ songs:
     title: "Could You Fly?"
     path: "Could You Fly.vgz"
     type: warning
+  - id: sky_high_daytona_usa
+    title: "Sky High"
+    path: "05 Sky High.vgz"
+    type: betting
+  - id: rolling_start
+    title: "Rolling Start"
+    path: "11 Rolling Start.vgz"
+    type: result
+  - id: dreaming_of_daytona_usa
+    title: "Dreaming of DAYTONA USA"
+    path: "12 Dreaming of Daytona USA.vgz"
+    type: result
 ...
