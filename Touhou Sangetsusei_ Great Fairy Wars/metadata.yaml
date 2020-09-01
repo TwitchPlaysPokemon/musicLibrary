@@ -38,4 +38,8 @@ songs:
     path: "A Midnight Fairy Dance.brstm"
     ends: 2:05
     type: betting
+  - id: player_s_score
+    title: "Player's Score"
+    path: "18 - Player_s Score.brstm"
+    type: result
 ...

@@ -2,77 +2,73 @@
 id: sonic_advance
 title: "Sonic Advance"
 series: sonic
-year: 2001
 platform: "GBA"
+year: 2001
 songs:
-  - id: cosmic_angel_zone_boss
-    title: "Cosmic Angel Zone Boss"
-    path: "Cosmic Angel Zone Boss.minigsf"
+  - id: neo_green_hill_zone_act_2
+    title: "Neo Green Hill Zone - Act 2"
+    path: "09. Neo Green Hill Zone - Act 2.minigsf"
     type: betting
-  - id: special_stage_sonicadvance
-    title: "Special Stage"
-    path: "Special Stage.minigsf"
-    type: battle
-  - id: x-zone_boss_3
-    title: "X-Zone Boss 3"
-    path: "X-Zone Boss 3.minigsf"
-    type: warning
-  - id: angel_island_zone_act_1
-    title: "Angel Island Zone Act 1"
-    path: "Angel Island Zone Act 1.minigsf"
+  - id: secret_base_zone_act_1
+    title: "Secret Base Zone - Act 1"
+    path: "10. Secret Base Zone - Act 1.minigsf"
     type: betting
   - id: casino_paradise_zone_act_1
-    title: "Casino Paradise Zone Act 1"
-    path: "Casino Paradise Zone Act 1.minigsf"
+    title: "Casino Paradise Zone - Act 1"
+    path: "12. Casino Paradise Zone - Act 1.minigsf"
     type: betting
   - id: ice_mountain_zone_act_1
-    title: "Ice Mountain Zone Act 1"
-    path: "Ice Mountain Zone Act 1.minigsf"
+    title: "Ice Mountain Zone - Act 1"
+    path: "14. Ice Mountain Zone - Act 1.minigsf"
     tags: [xmas]
     type: break
   - id: ice_mountain_zone_act_2
-    title: "Ice Mountain Zone Act 2"
-    path: "Ice Mountain Zone Act 2.minigsf"
+    title: "Mountain Zone - Act 2"
+    path: "15. Ice Mountain Zone - Act 2.minigsf"
     tags: [xmas]
     type: betting
-  - id: neo_green_hill_zone_act_2
-    title: "Neo Green Hill Zone Act 2"
-    path: "Neo Green Hill Zone Act 2.minigsf"
+  - id: angel_island_zone_act_1
+    title: "Angel Island Zone - Act 1"
+    path: "16. Angel Island Zone - Act 1.minigsf"
     type: betting
-  - id: secret_base_zone_act_1
-    title: "Secret Base Zone Act 1"
-    path: "Secret Base Zone Act 1.minigsf"
+  - id: egg_rocket_zone
+    title: "Egg Rocket Zone"
+    path: "18. Egg Rocket Zone.minigsf"
     type: betting
-  - id: vs_wait_sadv
-    title: "VS Wait"
-    path: "VS Wait.minigsf"
-    type: break
-  - id: x-zone_sadv
-    title: "X-Zone"
-    path: "X-Zone.minigsf"
-    type: warning
-  - id: special_stage_results
-    title: "Special Stage Results"
-    path: "Special Stage Results.minigsf"
-    type: result
-  - id: boss_(knuckles)
-    title: "Boss (Knuckles)"
-    path: "Boss (Knuckles).minigsf"
-    type: warning
-  - id: boss_intro_sadv
-    title: "Boss Intro"
-    path: "Boss Intro.minigsf"
+  - id: boss_demo_knuckles_boss
+    title: "Boss Demo & Knuckles Boss"
+    path: "20. Boss Demo & Knuckles Boss.minigsf"
     type: warning
   - id: boss_sadv
     title: "Boss"
-    path: "Boss.minigsf"
+    path: "21. Boss.minigsf"
     type: warning
-  - id: moon_zone
-    title: "Moon Zone"
-    path: "Moon Zone.minigsf"
+  - id: 6_boss_cosmic_angel_zone_boss
+    title: "6-Boss (Cosmic Angel Zone Boss)"
+    path: "23. 6-Boss (Cosmic Angel Zone Boss).minigsf"
+    type: battle
+  - id: final_zone_x_zone
+    title: "Final Zone (X-Zone)"
+    path: "24. Final Zone (X-Zone).minigsf"
     type: warning
-  - id: egg_rocket_zone
-    title: "Egg Rocket Zone"
-    path: "22 Egg Rocket Zone.minigsf"
-    type: betting
+  - id: x-zone_boss_final
+    title: "X-Zone Boss Final"
+    path: "27. X-Zone Boss Final.minigsf"
+    type: warning
+  - id: extra_zone_moon_zone
+    title: "Extra Zone (The Moon Zone)"
+    path: "28. Extra Zone (The Moon Zone).minigsf"
+    type: warning
+  - id: sp_stage
+    title: "SP Stage"
+    path: "33. SP Stage.minigsf"
+    type: battle
+  - id: sp_result_2_success
+    title: "SP Result 2 (Success)"
+    path: "45. SP Result 2 (Success).minigsf"
+    type: result
+  - id: vs_wait_connection_wait
+    title: "VS-Wait (Connection Wait)"
+    path: "49. VS-Wait (Connection Wait).minigsf"
+    type: break
 ...
