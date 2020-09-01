@@ -7,11 +7,11 @@ songs:
   - id: silent_beast_spirits
     title: "Silent Beast Spirits"
     path: "01 - Silent Beast Spirits.brstm"
-    type: battle
+    type: warning
   - id: the_lamentations_known_only_by_jizo
     title: "The Lamentations Known Only by Jizo"
     path: "02 - The Lamentations Known Only by Jizo.brstm"
-    type: battle
+    type: betting
   - id: jelly_stone
     title: "Jelly Stone"
     path: "03 - Jelly Stone.brstm"
@@ -19,7 +19,7 @@ songs:
   - id: lost_river
     title: "Lost River"
     path: "04 - Lost River.brstm"
-    type: battle
+    type: betting
   - id: the_stone_baby_and_the_submerged_bovine
     title: "The Stone Baby and the Submerged Bovine"
     path: "05 - The Stone Baby and the Submerged Bovine.brstm"
@@ -27,7 +27,7 @@ songs:
   - id: everlasting_red_spider_lily
     title: "Everlasting Red Spider Lily"
     path: "06 - Everlasting Red Spider Lily.brstm"
-    type: battle
+    type: betting
   - id: seraphic_chicken
     title: "Seraphic Chicken"
     path: "07 - Seraphic Chicken.brstm"
@@ -35,7 +35,7 @@ songs:
   - id: unlocated_hell
     title: "Unlocated Hell"
     path: "08 - Unlocated Hell.brstm"
-    type: battle
+    type: betting
   - id: tortoise_dragon_fortune_and_misfortune
     title: "Tortoise Dragon ~ Fortune and Misfortune"
     path: "09 - Tortoise Dragon ~ Fortune and Misfortune.brstm"
@@ -43,7 +43,7 @@ songs:
   - id: beast_metropolis
     title: "Beast Metropolis"
     path: "10 - Beast Metropolis.brstm"
-    type: battle
+    type: betting
   - id: joutounin_of_ceramics
     title: "Joutounin of Ceramics"
     path: "11 - Joutounin of Ceramics.brstm"
@@ -51,7 +51,7 @@ songs:
   - id: electric_heritage
     title: "Electric Heritage"
     path: "12 - Electric Heritage.brstm"
-    type: battle
+    type: betting
   - id: entrusting_this_world_to_idols_idolatrize_world
     title: "Entrusting this World to Idols ~ Idolatrize World"
     path: "13 - Entrusting this World to Idols ~ Idolatrize World.brstm"
@@ -63,13 +63,13 @@ songs:
   - id: prince_shoutoku_s_pegasus_dark_pegasus
     title: "Prince Shoutoku's Pegasus ~ Dark Pegasus"
     path: "15 - Prince Shoutoku's Pegasus ~ Dark Pegasus.brstm"
-    type: betting
+    type: battle
   - id: the_animals_rest
     title: "The Animals' Rest"
     path: "16 - The Animals_ Rest.brstm"
-    type: battle
+    type: break
   - id: returning_home_from_the_underground
     title: "Returning Home from the Underground"
     path: "17 - Returning Home from the Underground.brstm"
-    type: battle
+    type: result
 ...
