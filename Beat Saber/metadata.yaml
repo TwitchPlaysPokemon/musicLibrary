@@ -1,8 +1,8 @@
 ---
 id: beat_saber
 title: "Beat Saber"
-platform: "2018"
-year: ["PC", "PS4"]
+platform: ["PC", "PS4"]
+year: 2018
 songs: 
   - id: tanukichi_no_bouken
     title: "Tanukichi no Bouken (たぬきちの冒険)"
