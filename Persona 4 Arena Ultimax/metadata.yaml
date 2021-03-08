@@ -1,30 +1,36 @@
+---
 id: persona_4_arena_ultimax
 title: "Persona 4 Arena Ultimax"
 series: shinmegamitensei
-year: 2014
 platform: ["Arcade", "360", "PS3"]
-songs:
+year: 2014
+songs: 
   - id: break_out_of
-    title: "Break Out of... (Instrumental)"
-    path: "Break Out Of...-Instrumental-.brstm"
+    title: "Break Out Of..."
+    path: "014_title_p4u2.xwb"
+    type: betting
+  - id: break_out_of_instrumental
+    title: "Break Out Of... -Instrumental-"
+    path: "015_title2_p4u2.xwb"
     type: battle
-  - id: battle_bloodredmoon_p4au
-    title: "Blood Red Moon ~ Minazuki Theme"
-    path: "Battle-BloodRedMoon_P4AU.brstm"
+  - id: blood_red_moon
+    title: "Blood Red Moon"
+    path: "222_minazuki_u.xwb"
     type: battle
   - id: pink_sniper
-    title: "Pink Sniper [Yukari's Theme]"
-    path: "Pink Sniper [Yukari's Theme].brstm"
+    title: "Pink Sniper"
+    path: "220_yukari.xwb"
     type: battle
-  - id: sophisticated_attendant
-    title: "Sophisticated Attendant [Margaret's Theme]"
-    path: "Sophisticated Attendant [Margaret's Theme] (Better Quality).brstm"
+  - id: the_battle_for_everyone_s_souls_ush_ver
+    title: "The Battle for Everyone's Souls ~USH ver.~"
+    path: "269_margaret.xwb"
     type: battle
   - id: youthful_spirit
-    title: "Youthful Spirit [Ken & Koromaru's Theme]"
-    path: "Youthful Spirit [Ken & Koromaru's Theme].brstm"
+    title: "Youthful Spirit"
+    path: "265_amada.xwb"
     type: betting
-  - id: cabbage_detective
-    title: "Cabbage Detective [Adachi's Theme]"
-    path: "Cabbage Detective [Adachi's Theme].brstm"
+  - id: a_fool_or_clown
+    title: "A Fool or Clown?"
+    path: "267_adachi.xwb"
     type: betting
+...

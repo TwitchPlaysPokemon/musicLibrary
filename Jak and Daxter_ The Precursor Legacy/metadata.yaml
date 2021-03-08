@@ -5,21 +5,25 @@ series: jakanddaxter
 platform: "PS2"
 year: 2001
 songs: 
-  - id: boss_battle_klaww
-    title: "Boss Battle - Klaww"
-    path: "Boss Battle - Klaww.brstm"
-    type: warning
+  - id: mountain_pass_vs_klaww
+    title: "Mountain Pass (Vs. Klaww)"
+    path: "44 - Mountain Pass (vs. Klaww).brstm"
+    type: battle
   - id: geyser_rock
     title: "Geyser Rock"
-    path: "Geyser Rock.brstm"
+    path: "04 - Geyser Rock (Communicator Mix).brstm"
     type: break
   - id: mountain_pass
     title: "Mountain Pass"
-    path: "Mountain_Pass.brstm"
+    path: "45 - Mountain Pass.brstm"
     type: betting
   - id: snowy_mountain_jak_and_daxter
     title: "Snowy Mountain"
-    path: "snowy mountain.brstm"
+    path: "54 - Snowy Mountain.brstm"
     tags: [xmas]
     type: betting
+  - id: final_battle_part_4
+    title: "Final battle (Part 4)"
+    path: "finalbattlepart4.brstm"
+    type: battle
 ...

@@ -1,0 +1,23 @@
+--
+id: logical_journey_of_the_zoombinis
+title: "Logical Journey of the Zoombinis"
+platform: "PC"
+year: 1996
+songs: 
+  - id: hotel_dimensia_oh_so_hard
+    title: "Hotel Dimensia - Oh, So Hard"
+    path: "HotelDL2.brstm"
+    type: break
+  - id: bubblewonder_abyss_oh_so_hard
+    title: "Bubblewonder Abyss - Oh, So Hard"
+    path: "MazeL2.brstm"
+    type: break
+  - id: bubblewonder_abyss_very_very_hard
+    title: "Bubblewonder Abyss - Very Very Hard"
+    path: "MazeL4.brstm"
+    type: break
+  - id: zoombini_isle
+    title: "Zoombini Isle"
+    path: "ZBIsle.brstm"
+    type: break
+...

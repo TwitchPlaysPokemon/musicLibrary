@@ -1,0 +1,16 @@
+--
+id: super_smash_flash_2
+title: "Super Smash Flash 2"
+platform: "PC"
+year: 2007
+is_fanwork: true
+songs: 
+  - id: menu_2
+    title: "Menu 2"
+    path: "Menu.brstm"
+    type: betting
+  - id: mii_channel
+    title: "Mii Channel"
+    path: "Mii Channel (Wii).brstm"
+    type: betting
+...

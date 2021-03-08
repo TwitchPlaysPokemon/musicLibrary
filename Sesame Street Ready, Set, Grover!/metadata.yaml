@@ -1,0 +1,11 @@
+--
+id: sesame_street_ready_set_grover
+title: "Sesame Street: Ready, Set, Grover!"
+platform: ["Wii", "NDS"]
+year: 2011
+songs: 
+  - id: main_theme_sesame_street_ready_set_grover
+    title: "Main Theme"
+    path: "Main Menu.brstm"
+    type: result
+...

@@ -490,6 +490,22 @@ songs:
     title: "Vega Stage"
     path: "sf08_sf2_balrogstage.lopus"
     type: betting
+  - id: opening_bombing_mission
+    title: "Opening - Bombing Mission"
+    path: "ff03_ff7_opening_bakuhamission.lopus"
+    type: betting
+  - id: aerith_s_theme
+    title: "Aerith's Theme"
+    path: "ff07_ff7_aerithnotheme.lopus"
+    type: betting
+  - id: main_theme_of_final fantasy_vii
+    title: "Main Theme of FINAL FANTASY VII"
+    path: "ff04_ff7_maintheme.lopus"
+    type: battle
+  - id: cosmo_canyon
+    title: "Cosmo Canyon"
+    path: "ff06_ff7_hoshifurukyokoku.lopus"
+    type: betting
   - id: vampire_killer_ssbu
     title: "Vampire Killer"
     path: "ad15_ju_vampirekiller.lopus"
@@ -705,5 +721,26 @@ songs:
   - id: assault_theme_metal_slug_1_3
     title: "Assault Theme - METAL SLUG 1-3"
     path: "gd49_mts1_3_assaulttheme.nus3audio"
+    type: battle
+  - id: arms_grand_prix_official_theme_song
+    title: "ARMS Grand Prix Official Theme Song"
+    path: "am01_am_armsgrandprixtheme.lopus"
+    type: betting
+  - id: ramen_bowl
+    title: "Ramen Bowl"
+    path: "am02_am_ramenbowl_springstadium.lopus"
+    type: battle
+  - id: xenoblade_chronicles_2_medley
+    title: "Xenoblade Chronicles 2 Medley"
+    path: "rr16_xbd2_arrangemedley.lopus"
+    ends: 2:44
+    type: betting
+  - id: tiger_tiger
+    title: "Tiger! Tiger!"
+    path: "rr17_xbd2_tigertiger.lopus"
+    type: betting
+  - id: counterattack_ssbu
+    title: "Counterattack"
+    path: "rr18_xbd2_counterattack.lopus"
     type: battle
 ...

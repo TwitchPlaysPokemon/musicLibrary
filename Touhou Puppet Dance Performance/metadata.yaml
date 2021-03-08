@@ -30,7 +30,7 @@ songs:
   - id: the_last_battle_touhou_puppet_dance_performance
     title: "The Last Battle"
     path: "Last Battle.brstm"
-    type: warning
+    type: battle
   - id: yuukas_theme
     title: "Yuuka's Theme"
     path: "Yuuka's Theme.brstm"
@@ -126,5 +126,153 @@ songs:
   - id: former_hell_city
     title: "Former Hell City"
     path: "Former Hell City.brstm"
+    type: betting
+  - id: battle_ancient_puppeteer
+    title: "Battle! Ancient Puppeteer"
+    path: "Battle! Ancient Puppeteer.brstm"
+    type: warning
+  - id: battle_formidable_foe_of_dance
+    title: "Battle! Formidable Foe of Dance"
+    path: "Battle! Formidable Foe of Dance.brstm"
+    type: battle
+  - id: battle_makai_inhabitants
+    title: "Battle! Makai Inhabitants"
+    path: "Battle! Makai Inhabitants.brstm"
+    type: battle
+  - id: battle_puppets_of_the_ancient
+    title: "Battle! Puppets of the Ancient"
+    path: "Battle! Puppets of the Ancient.brstm"
+    type: battle
+  - id: battle_puppets_of_the_cave
+    title: "Battle! Puppets of the Cave"
+    path: "Battle! Puppets of the Cave.brstm"
+    type: warning
+  - id: battle_puppets_of_the_dream_world
+    title: "Battle! Puppets of the Dream World"
+    path: "Battle! Puppets of the Dream World.brstm"
+    type: warning
+  - id: battle_puppets_of_the_forest
+    title: "Battle! Puppets of the Forest"
+    path: "Battle! Puppets of the Forest.brstm"
+    type: warning
+  - id: battle_puppets_of_the_mountain
+    title: "Battle! Puppets of the Mountain"
+    path: "Battle! Puppets of the Mountain.brstm"
+    type: warning
+  - id: battle_puppets_of_the_underworld_unused
+    title: "Battle! Puppets of the Underworld (Unused)"
+    path: "Battle! Puppets of the Underworld (Unused).brstm"
+    type: warning
+  - id: battle_puppets
+    title: "Battle! Puppets"
+    path: "Battle! Puppets.brstm"
+    type: battle
+  - id: battle_remilia_scarlet_unused
+    title: "Battle! Remilia Scarlet (Unused)"
+    path: "Battle! Remilia Scarlet (Unused).brstm"
+    type: warning
+  - id: battle_secret_club
+    title: "Battle! Secret Club"
+    path: "Battle! Secret Club.brstm"
+    type: warning
+  - id: battle_seija_kijin
+    title: "Battle! Seija Kijin"
+    path: "Battle! Seija Kijin.brstm"
+    type: battle
+  - id: battle_shinmyoumaru_sukuna_unused
+    title: "Battle! Shinmyoumaru Sukuna (Unused)"
+    path: "Battle! Shinmyoumaru Sukuna (Unused).brstm"
+    type: battle
+  - id: credits_touhou_puppet_dance_performance
+    title: "Credits"
+    path: "Credits.brstm"
+    type: betting
+  - id: divine_spirit_mausoleum
+    title: "Divine Spirit Mausoleum"
+    path: "Divine Spirit Mausoleum.brstm"
+    type: betting
+  - id: dream_world
+    title: "Dream World"
+    path: "Dream World.brstm"
+    type: betting
+  - id: genbu_ravine_kappas_hideout
+    title: "Genbu Ravine / Kappas' Hideout"
+    path: "Genbu Ravine _ Kappas' Hideout.brstm"
+    type: betting
+  - id: hakurei_mountain_cave
+    title: "Hakurei Mountain Cave"
+    path: "Hakurei Mountain Cave.brstm"
+    type: betting
+  - id: heaven
+    title: "Heaven"
+    path: "Heaven.brstm"
+    type: break
+  - id: hell
+    title: "Hell"
+    path: "Hell.brstm"
+    type: betting
+  - id: intro_title
+    title: "Intro & Title"
+    path: "Intro & Title.brstm"
+    type: betting
+  - id: kourindou
+    title: "Kourindou"
+    path: "Kourindou.brstm"
+    type: result
+  - id: lunar_capital
+    title: "Lunar Capital"
+    path: "Lunar Capital.brstm"
+    type: betting
+  - id: makai
+    title: "Makai"
+    path: "Makai.brstm"
+    type: betting
+  - id: mayohiga_yakumos_residence
+    title: "Mayohiga / Yakumos' Residence"
+    path: "Mayohiga _ Yakumos' Residence.brstm"
+    type: break
+  - id: misty_lake
+    title: "Misty Lake"
+    path: "Misty Lake.brstm"
+    type: betting
+  - id: palace_of_the_earth_spirits
+    title: "Palace of the Earth Spirits"
+    path: "Palace of the Earth Spirits.brstm"
+    type: break
+  - id: remains_of_blazing_hell
+    title: "Remains of Blazing Hell"
+    path: "Remains of Blazing Hell.brstm"
+    type: betting
+  - id: rest_area
+    title: "Rest Area"
+    path: "Rest Area.brstm"
+    type: warning
+  - id: routes_3_4
+    title: "Routes 3 & 4"
+    path: "Routes 3 & 4.brstm"
+    type: betting
+  - id: scarlet_devil_mansion_basement
+    title: "Scarlet Devil Mansion Basement"
+    path: "Scarlet Devil Mansion Basement.brstm"
+    type: break
+  - id: suzuran_field
+    title: "Suzuran Field"
+    path: "Suzuran Field.brstm"
+    type: break
+  - id: underground_touhou_puppet_dance_performance
+    title: "Underground"
+    path: "Underground.brstm"
+    type: betting
+  - id: underworld_touhou_puppet_dance_performance
+    title: "Underworld"
+    path: "Underworld.brstm"
+    type: break
+  - id: world_of_ice_snow
+    title: "World of Ice & Snow"
+    path: "World of Ice & Snow.brstm"
+    type: betting
+  - id: youkai_mountain
+    title: "Youkai Mountain"
+    path: "Youkai Mountain.brstm"
     type: betting
 ...

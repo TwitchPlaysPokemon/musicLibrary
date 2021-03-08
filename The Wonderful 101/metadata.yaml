@@ -1,15 +1,35 @@
 ---
 id: the_wonderful_101
-platform: "Wii U"
 title: "The Wonderful 101"
+platform: ["Wii U", "Switch"]
 year: 2013
 songs: 
-  - id: jergingha_-_planet_destruction_form
-    path: "Jergingha - Planet Destruction Form.brstm"
-    title: "Jergingha - Planet Destruction Form"
-    type: battle
-  - id: st01_roll_out_wonderful_100
-    path: "ST01 Roll Out, Wonderful 100! Battle In The Blossom City Burbs.brstm"
+  - id: st01_roll_out_wonderful_100_battle_in_the_blossom_city_burbs
     title: "ST01 Roll Out, Wonderful 100! Battle In The Blossom City Burbs"
+    path: "ST01 Roll Out, Wonderful 100! Battle In The Blossom City Burbs.brstm"
     type: betting
+  - id: tables_turn
+    title: "Tables Turn"
+    path: "97386263.brstm"
+    type: betting
+  - id: st02_head_for_blossom_tower
+    title: "ST02 Head For Blossom Tower"
+    path: "240592992.brstm"
+    type: betting
+  - id: guyzoch_space_pirates
+    title: "Guyzoch Space Pirates"
+    path: "260690034.brstm"
+    type: warning
+  - id: ev22_intertwined
+    title: "EV22 Intertwined"
+    path: "52213242.brstm"
+    type: battle
+  - id: guyzoch_space_pirates_teio_form
+    title: "Guyzoch Space Pirate Teio Form"
+    path: "88537809.brstm"
+    type: battle
+  - id: jergingha_-_planet_destruction_form
+    title: "JERGINGHA - PLANET DESTRUCTION FORM"
+    path: "231919845.brstm"
+    type: battle
 ...

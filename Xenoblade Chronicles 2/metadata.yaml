@@ -5,10 +5,6 @@ series: xeno
 platform: "Switch"
 year: 2017
 songs: 
-  - id: incoming_xc2
-    title: "Incoming!"
-    path: "Incoming!.brstm"
-    type: battle
   - id: where_we_used_to_be
     title: "Where We Used To Be"
     path: "005 - Where We Used To Be.nop"
@@ -18,6 +14,10 @@ songs:
     path: "008 - Counterattack.nop"
     ends: 2:59
     type: betting
+  - id: incoming_xc2
+    title: "Incoming!"
+    path: "Incoming!.brstm"
+    type: battle
   - id: desolation
     title: "Desolation"
     path: "026 - Desolation.nop"
@@ -71,6 +71,14 @@ songs:
     title: "Yggdrasil"
     path: "055 - Yggdrasil.nop"
     type: betting
+  - id: argentum
+    title: "Argentum"
+    path: "060 - Argentum.nop"
+    type: betting
+  - id: torigoth
+    title: "Torigoth"
+    path: "062 - Torigoth.nop"
+    type: betting
   - id: alba_cavanich_night
     title: "Alba Cavanich / Night"
     path: "069 - Alba Cavanich - Night.nop"
@@ -83,9 +91,21 @@ songs:
     title: "Spirit Crucible Elpys"
     path: "074 - Spirit Crucible Elpys.nop"
     type: betting
+  - id: cliffs_of_morytha
+    title: "Cliffs of Morytha"
+    path: "075 - Cliffs of Morytha.nop"
+    type: betting
   - id: still_move_forward
     title: "Still, Move Forward!"
     path: "078 - Still, Move Forward!.nop"
+    type: battle
+  - id: exploration
+    title: "Exploration"
+    path: "079 - Exploration.nop"
+    type: battle
+  - id: battle_in_the_skies_above
+    title: "Battle in the Skies Above"
+    path: "080 - Battle in the Skies Above.nop"
     type: battle
   - id: you_will_recall_our_names
     title: "You Will Recall Our Names"
@@ -107,9 +127,17 @@ songs:
     title: "Death Match With Torna"
     path: "085 - Death Match With Torna.nop"
     type: battle
+  - id: song_of_giga_rosa
+    title: "Song of Giga Rosa"
+    path: "086 - Song of Giga Rosa.nop"
+    type: battle
   - id: the_power_of_jin
     title: "The Power of Jin"
     path: "087 - The Power of Jin.nop"
+    type: betting
+  - id: praetor_amalthus_the_acting_god
+    title: "Praetor Amalthus - The Acting God -"
+    path: "088 - Praetor Amalthus - The Acting God -.nop"
     type: betting
   - id: after_despair_and_hope
     title: "After Despair and Hope"

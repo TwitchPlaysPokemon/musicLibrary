@@ -1,0 +1,35 @@
+---
+id: adventure_time_explore_the_dungeon_because_i_don_t_know
+title: "Adventure Time: Explore the Dungeon Because I DON'T KNOW!"
+platform: "Various"
+year: 2013
+songs: 
+  - id: title_theme_atetdbidk
+    title: "Title Theme"
+    path: ".fsb"
+    type: betting
+  - id: opening_menus
+    title: "Opening Menus"
+    path: "music_opening_menus.brstm"
+    type: betting
+  - id: gum_lab_1
+    title: "Gum Lab 1"
+    path: "m_gumlab_01.fsb"
+    type: betting
+  - id: boss_battle_atetdbidk
+    title: "Boss Battle"
+    path: "m_normalboss.fsb"
+    type: warning
+  - id: laboratory_1
+    title: "Laboratory 1"
+    path: "music_lab_01.fsb"
+    type: betting
+  - id: monster_floor
+    title: "Monster Floor"
+    path: "m_monsterfloor.fsb"
+    type: warning
+  - id: nightosphere_2
+    title: "Nightosphere 2"
+    path: "m_nightosphere_02.fsb"
+    type: betting
+...

@@ -1,0 +1,23 @@
+---
+id: daraku_tenshi_the_fallen_angels
+title: "Daraku Tenshi: The Fallen Angels"
+platform: "Arcade"
+year: 1998
+songs: 
+  - id: advent_character_select
+    title: "Advent ~Character Select"
+    path: "02 Advent ~Character Select.vgz"
+    type: warning
+  - id: bodyguard_yuiran_stage
+    title: "Bodyguard ~Yuiran Stage"
+    path: "06 Bodyguard ~Yuiran Stage.vgz"
+    type: betting
+  - id: kill_you_trigger_demo
+    title: "Kill You! ~Trigger Demo"
+    path: "13 Kill You! ~Trigger Demo.vgz"
+    type: warning
+  - id: go_to_heaven_carlos_demo
+    title: "15 Go To Heaven ~Carlos Demo"
+    path: "15 Go To Heaven ~Carlos Demo.vgz"
+    type: warning
+...

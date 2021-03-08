@@ -1,0 +1,19 @@
+--
+id: niko
+title: "Niko"
+platform: "Mobile"
+year: 2012
+songs: 
+  - id: world_2_niko
+    title: "World 2"
+    path: "gameplay2.brstm"
+    type: betting
+  - id: world_4_niko
+    title: "World 4"
+    path: "gameplay4.brstm"
+    type: betting
+  - id: level_complete_niko
+    title: "Level Complete"
+    path: "level_complete.brstm"
+    type: result
+...

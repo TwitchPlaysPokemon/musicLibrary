@@ -1,0 +1,75 @@
+---
+id: game & Watch Gallery 4
+title: "Game & Watch Gallery 4"
+platform: "GBA"
+year: 2002
+songs: 
+  - id: boxing_gwg4
+    title: "Boxing"
+    path: "Boxing.brstm"
+    type: warning
+  - id: chef_gwg4
+    title: "Chef"
+    path: "Chef.brstm"
+    type: result
+  - id: credits_gwg4
+    title: "Credits"
+    path: "Credits.brstm"
+    type: betting
+  - id: donkey_kong_3_gwg4
+    title: "Donkey Kong 3"
+    path: "Donkey Kong 3.brstm"
+    type: betting
+  - id: donkey_kong_gwg4
+    title: "Donkey Kong"
+    path: "Donkey Kong.brstm"
+    type: result
+  - id: fire_gwg4
+    title: "Fire"
+    path: "Fire.brstm"
+    type: betting
+  - id: gallery_corner_gwg4
+    title: "Gallery Corner"
+    path: "Gallery Corner.brstm"
+    type: result
+  - id: game_watch_history_gwg4
+    title: "Game & Watch History"
+    path: "Game & Watch History.brstm"
+    type: result
+  - id: game_select_gwg4
+    title: "Game Select"
+    path: "Game Select.brstm"
+    type: result
+  - id: mario_s_cement_factory
+    title: "Mario's Cement Factory"
+    path: "Mario's Cement Factory.brstm"
+    type: betting
+  - id: museum_gwg4
+    title: "Museum"
+    path: "Museum.brstm"
+    type: break
+  - id: music_room_gwg4
+    title: "Music Room"
+    path: "Music Room.brstm"
+    type: warning
+  - id: note_gwg4
+    title: "Note"
+    path: "Note.brstm"
+    type: result
+  - id: rainshower_bowser_defeated
+    title: "Rainshower - Bowser Defeated"
+    path: "Rainshower - Bowser Defeated.brstm"
+    type: result
+  - id: rainshower_miss
+    title: "Rainshower - Miss"
+    path: "Rainshower - Miss.brstm"
+    type: warning
+  - id: rainshower_season_change
+    title: "Rainshower - Season Change"
+    path: "Rainshower - Season Change.brstm"
+    type: result
+  - id: title_screen_gwg4
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+...

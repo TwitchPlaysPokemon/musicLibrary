@@ -1,13 +1,15 @@
+---
 id: grim_fandango
 title: "Grim Fandango"
-year: 1998
 platform: "PC"
-songs:
-  - id: nuevo_marrow
-    title: "Nuevo Marrow"
-    path: "Nuevo Marrow.brstm"
+year: 1998
+songs: 
+  - id: scrimshaw
+    title: "Scrimshaw"
+    path: "Scrimshaw.brstm"
     type: betting
-  - id: smooth_hector
-    title: "Smooth Hector"
-    path: "Smooth Hector.brstm"
-    type: break
+  - id: swanky_maximino
+    title: "Swanky Maximino"
+    path: "Swanky Maximino.brstm"
+    type: betting
+...

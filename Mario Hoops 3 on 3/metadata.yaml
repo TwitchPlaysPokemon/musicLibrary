@@ -1,24 +1,36 @@
----
+--
 id: mario_hoops_3_on_3
 title: "Mario Hoops 3-on-3"
 series: mario
 platform: "NDS"
 year: 2006
-songs:
-  - id: junior_street
-    title: "Junior Street"
-    path: "Junior Street.brstm"
+songs: 
+  - id: basketball_kingdom
+    title: "Basketball Kingdom"
+    path: "05 Basketball Kingdom.mini2sf"
+    type: break
+  - id: mario_stadium_glare_desert
+    title: "Mario Stadium/Glare Desert"
+    path: "07 Mario Stadium.mini2sf"
     type: betting
   - id: luigi_s_mansion_ds_version
     title: "Luigi's Mansion"
     path: "11 Luigi Mansion.mini2sf"
     type: betting
+  - id: jr_street
+    title: "Jr. Street"
+    path: "13 Junior Street.mini2sf"
+    type: betting
+  - id: bowser_s_castle
+    title: "Bowser's Castle"
+    path: "15 Bowser Castle.mini2sf"
+    type: battle
   - id: sherbet_land_ds_version
     title: "Sherbet Land"
     path: "16 Sherbet Land.mini2sf"
     type: warning
-  - id: bowser_castle_cd_version
-    title: "Bowser Castle (CD Version)"
-    path: "Bowser Castle (CD Version).brstm"
+  - id: who_is_the_coin_hunter
+    title: "Who is the Coin Hunter?"
+    path: "28 Who is the CoinHunter.mini2sf"
     type: warning
 ...

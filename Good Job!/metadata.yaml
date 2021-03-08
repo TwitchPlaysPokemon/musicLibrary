@@ -1,0 +1,33 @@
+---
+id: good_job
+title: "Good Job!"
+platform: "Switch"
+year: 2020
+songs: 
+  - id: level_1_1
+    title: "Level 1-1"
+    path: "Level 1-1.brstm"
+    type: betting
+  - id: level_1_c
+    title: "Level 1-C"
+    path: "Level 1-c.brstm"
+    type: betting
+  - id: lobby_good_job
+    title: "Lobby"
+    path: "Lobby.brstm"
+    type: break
+  - id: queen_of_diamonds
+    title: "Queen of Diamonds"
+    path: "Queen of Diamonds.brstm"
+    ends: 2:35
+    type: betting
+  - id: life_as_we_make_it
+    title: "Life As We Make It"
+    path: "Life as we make it.brstm"
+    ends: 2:34
+    type: betting
+  - id: main_menu_good_job
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: break
+...

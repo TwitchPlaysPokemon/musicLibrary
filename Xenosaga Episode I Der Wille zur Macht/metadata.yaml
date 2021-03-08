@@ -1,0 +1,15 @@
+--
+id: xenosaga_episode_i_der_wille_zur_macht
+title: "Xenosaga Episode I: Der Wille zur Macht"
+platform: "PS2"
+year: 2002
+songs: 
+  - id: battle_xenosaga_episode_i
+    title: "Battle"
+    path: "Battle.brstm"
+    type: battle
+  - id: u_m_n_mode
+    title: "U.M.N.MODE"
+    path: "U.M.N. Mode.brstm"
+    type: betting
+...

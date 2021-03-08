@@ -1,0 +1,35 @@
+---
+id: tetris_the_absolute_the_grand_master_2 
+title: "Tetris the Absolute: The Grand Master 2 "
+platform: "Arcade"
+year: 2000
+songs: 
+  - id: mode_select_tetris_absolute
+    title: "Mode Select"
+    path: "02 Mode Select.vgz"
+    type: betting
+  - id: level_0_499
+    title: "Level 0-499"
+    path: "03 Level 0-499.vgz"
+    type: betting
+  - id: level_500_699
+    title: "Level 500-699"
+    path: "04 Level 500-699.vgz"
+    type: betting
+  - id: level_700_899
+    title: "Level 700-899"
+    path: "05 Level 700-899.vgz"
+    type: warning
+  - id: level_900_999
+    title: "Level 900-999"
+    path: "06 Level 900-999.vgz"
+    type: warning
+  - id: staff_roll_tetris_absolute
+    title: "Staff Roll"
+    path: "07 Staff Roll.vgz"
+    type: warning
+  - id: results_tetris_absolute
+    title: "Results"
+    path: "08 Results.vgz"
+    type: result
+...

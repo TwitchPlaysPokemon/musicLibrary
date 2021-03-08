@@ -2,39 +2,43 @@
 id: megadimension_neptunia_vii
 title: "Megadimension Neptunia VII"
 series: neptunia
-year: 2015
 platform: ["PS4", "PC"]
-songs:
-  - id: providence
-    title: "Providence"
-    path: "Providence.brstm"
+year: 2015
+songs: 
+  - id: encounter_of_destiny
+    title: "ENCOUNTER OF DESTINY"
+    path: "011.hca"
     type: battle
-  - id: rectifier_and_calculator
-    title: "Rectifier and Calculator"
-    path: "Rectifier And Calculator.brstm"
-    type: betting
-  - id: uranus
-    title: "URANUS"
-    path: "URANUS.brstm"
+  - id: drive_away
+    title: "DRIVE AWAY"
+    path: "014.hca"
     type: battle
   - id: will_be_venus
     title: "WILL BE VENUS"
-    path: "WILL BE VENUS.brstm"
+    path: "037.hca"
     type: battle
+  - id: rectifier_and_calculator
+    title: "Rectifier and Calculator"
+    path: "017.hca"
+    type: betting
   - id: desperado_nep7
     title: "DESPERADO"
-    path: "DESPERADO.brstm"
+    path: "003.hca"
     type: betting
   - id: dimension_zero
-    title: "Dimension Zero"
-    path: "Dimension Zero.brstm"
+    title: "DIMENSION ZERO"
+    path: "006.hca"
     type: betting
-  - id: drive_away
-    title: "Drive Away"
-    path: "Drive Away.brstm"
+  - id: providence
+    title: "PROVIDENCE"
+    path: "046.hca"
+    type: battle
+  - id: uranus
+    title: "URANUS"
+    path: "048.hca"
     type: battle
   - id: never_give_up
-    title: "Never Give Up"
-    path: "Never Give Up.brstm"
+    title: "NEVER GIVE UP"
+    path: "012.hca"
     type: battle
 ...

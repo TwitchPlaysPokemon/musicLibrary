@@ -1,0 +1,15 @@
+--
+id: shin_megami_tensei_sfc
+title: "Shin Megami Tensei [SFC]"
+platform: "SFC"
+year: 1992
+songs: 
+  - id: battle_smt_sfc
+    title: "Battle"
+    path: "13 Battle.spc"
+    type: battle
+  - id: boss_battle_smt_sfc
+    title: "Boss Battle"
+    path: "20 Boss Battle.spc"
+    type: battle
+...

@@ -1,64 +1,92 @@
 ---
 id: gyakuten_kenji_2
-platform: "NDS"
 title: "Gyakuten Kenji 2"
 series: aceattorney
+platform: "NDS"
 year: 2011
 songs: 
-  - id: confrontation_presto_2011
-    path: "Confrontation ~ Presto 2011.mini2sf"
-    title: "Confrontation ~ Presto 2011"
-    type: warning
-  - id: the_man_who_masterminds_the_game
-    path: "The Man Who Masterminds the Game.mini2sf"
-    title: "The Man Who Masterminds the Game"
-    type: warning
-  - id: reminiscence_the_girls_lost_memories
-    path: "Reminiscence ~ The Girl's Lost Memories.mini2sf"
-    title: "Reminiscence ~ The Girl's Lost Memories"
+  - id: logic_chess_opening
+    title: "Logic Chess ~ Opening"
+    path: "105 Logic Chess ~ Opening.mini2sf"
     type: betting
-  - id: raymond_shields_joking_motive
-    path: "Raymond Shields ~ Joking Motive.mini2sf"
-    title: "Raymond Shields ~ Joking Motive"
-    type: betting
-  - id: pursuit_wanting_to_find_the_truth
-    path: "Pursuit ~ Wanting to Find the Truth.mini2sf"
-    title: "Pursuit ~ Wanting to Find the Truth"
-    type: battle
-  - id: gk2_rigorous_justice
-    path: "Prosecutorial Investigation Committee ~ Rigorous Justice.mini2sf"
-    title: "Prosecutorial Investigation Committee ~ Rigorous Justice"
-    type: warning
   - id: miles_edgeworth_objection_2011
-    path: "Miles Edgeworth ~ Objection! 2011.mini2sf"
     title: "Miles Edgeworth ~ Objection! 2011"
+    path: "107 Miles Edgeworth ~ Objection! 2011.mini2sf"
     type: warning
-  - id: logic_chess_endgame
-    path: "Logic Chess ~ Endgame.mini2sf"
-    title: "Logic Chess ~ Endgame"
-    type: warning
-  - id: katherine_hall_sweet_dance
-    path: "Katherine Hall ~ Sweet Dance.mini2sf"
-    title: "Katherine Hall ~ Sweet Dance"
+  - id: ray_shields_joking_motive
+    title: "Ray Shields ~ Joking Motive"
+    path: "112 Ray Shields ~ Joking Motive.mini2sf"
     type: betting
   - id: justine_courtney_goddess_of_law
-    path: "Justine Courtney ~ Goddess of Law.mini2sf"
     title: "Justine Courtney ~ Goddess of Law"
+    path: "115 Justine Courtney ~ Goddess of Law.mini2sf"
     type: warning
-  - id: gregory_edgeworth__a_defense_attorneys_knowledge
-    path: "Gregory Edgeworth  ~ A Defense Attorney's Knowledge.mini2sf"
-    title: "Gregory Edgeworth ~ A Defense Attorney's Knowledge"
+  - id: prosecutorial_investigation_committee_rigorous_justice
+    title: "Prosecutorial Investigation Committee ~ Rigorous Justice"
+    path: "116 Prosecutorial Investigation Committee ~ Rigorous Justice.mini2sf"
+    type: warning
+  - id: lamenting_people
+    title: "Lamenting People"
+    path: "117 Lamenting People.mini2sf"
+    type: break
+  - id: strange_people
+    title: "Strange People"
+    path: "118 Strange People.mini2sf"
+    type: betting
+  - id: confrontation_presto_2011
+    title: "Confrontation ~ Presto 2011"
+    path: "123 Confrontation ~ Presto 2011.mini2sf"
+    type: warning
+  - id: pursuit_wanting_to_find_the_truth
+    title: "Pursuit ~ Wanting to Find the Truth"
+    path: "124 Pursuit ~ Wanting to Find the Truth.mini2sf"
+    type: battle
+  - id: gregory_edgeworth_defense_attorney_s_knowledge
+    title: "Gregory Edgeworth ~ Defense Attorney's Knowledge"
+    path: "202 Gregory Edgeworth ~ Defense Attorney's Knowledge.mini2sf"
+    type: betting
+  - id: restless_people
+    title: "Restless People"
+    path: "204 Restless People.mini2sf"
+    type: result
+  - id: katherine_hall_sweet_dance
+    title: "Katherine Hall ~ Sweet Dance"
+    path: "207 Katherine Hall ~ Sweet Dance.mini2sf"
     type: betting
   - id: dane_gustavia_brandished_flavor
-    path: "Dane Gustavia ~ Brandished Flavor.mini2sf"
     title: "Dane Gustavia ~ Brandished Flavor"
+    path: "208 Dane Gustavia ~ Brandished Flavor.mini2sf"
     type: betting
-  - id: reminiscence_the_fall_of_the_house_of_lang
-    path: "Reminiscence ~ The Fall of the House of Lang.brstm"
-    title: "Reminiscence ~ The Fall of the House of Lang"
+  - id: trial_of_fate
+    title: "Trial of Fate"
+    path: "210 Trial of Fate.mini2sf"
+    type: warning
+  - id: reminiscing_an_amnesiac_girl
+    title: "Reminiscing ~ An Amnesiac Girl"
+    path: "211 Reminiscing ~ An Amnesiac Girl.mini2sf"
     type: break
+  - id: john_marsh_pointed_age
+    title: "John Marsh ~ Pointed Age"
+    path: "214 John Marsh ~ Pointed Age.mini2sf"
+    type: betting
+  - id: reminiscing_downfall_of_the_house_of_lang
+    title: "Reminiscing ~ Downfall of the House of Lang"
+    path: "216 Reminiscing ~ Downfall of the House of Lang.brstm"
+    type: break
+  - id: logic_chess_endgame
+    title: "Logic Chess ~ Endgame"
+    path: "217 Logic Chess ~ Endgame.mini2sf"
+    type: warning
   - id: sebastian_debeste_first_class_farewell
-    path: "Sebastian Debeste  ~ First-Class Farewell.brstm"
     title: "Sebastian Debeste ~ First-Class Farewell"
-    type: break
+    path: "218 Sebastian Debeste ~ First-Class Farewell.brstm"
+    type: betting
+  - id: ringtone_justine_courtney
+    title: "Ringtone / Justine Courtney"
+    path: "Ringtone _ Justine Courtney.brstm"
+    type: warning
+  - id: the_man_who_masterminds_the_game
+    title: "The Man Who Masterminds the Game"
+    path: "222 The Man Who Masterminds the Game.mini2sf"
+    type: warning
 ...

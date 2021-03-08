@@ -4,10 +4,34 @@ title: "Touhou Hyouibana ~ The Antinomy of Common Flowers"
 platform: "PC"
 year: 2017
 songs: 
+  - id: seeds_of_the_incident
+    title: "Seeds of the Incident"
+    path: "th155op1.sfl"
+    type: warning
+  - id: the_ground_s_color_is_yellow_primrose
+    title: "The Ground's Color is Yellow ~ Primrose"
+    path: "bgst01.sfl"
+    type: battle
   - id: shinkirou_theatrical
     title: "Shinkirou Theatrical"
     path: "bgst10.sfl"
     type: betting
+  - id: the_inverted_castle_lit_by_the_setting_sun
+    title: "The Inverted Castle Lit by the Setting Sun"
+    path: "bgst13.sfl"
+    type: battle
+  - id: inchlings_of_the_shining_needle_little_princess
+    title: "Inchlings of the Shining Needle ~ Little Princess"
+    path: "155sinmyoumaru1.sfl"
+    type: battle
+  - id: overcome_a_thousand_trials
+    title: "Overcome a Thousand Trials"
+    path: "bgst11.sfl"
+    type: battle
+  - id: last_occultism_esotericist_of_the_present_world
+    title: "Last Occultism ~ Esotericist of the Present World"
+    path: "155usami1.sfl"
+    type: battle
   - id: lunatic_eyes_invisible_full_moon_touhou_hyouibana
     title: "Lunatic Eyes ~ Invisible Full Moon"
     path: "155udonge1.sfl"
@@ -16,10 +40,18 @@ songs:
     title: "Night Falls ~ Evening Star"
     path: "155yukari1.sfl"
     type: battle
+  - id: tonight_stars_an_easygoing_egoist_live_ver_egoistic_flowers
+    title: "Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers."
+    path: "lastboss.sfl"
+    type: battle
   - id: neo_bamboo_forest_in_flames
     title: "Neo Bamboo Forest in Flames"
     path: "145st02.sfl"
     type: battle
+  - id: catastrophe_in_bhavaagra_wonderful_heaven
+    title: "Catastrophe in Bhavaagra ~ Wonderful Heaven"
+    path: "155tenshi1.sfl"
+    type: betting
   - id: unknown_x_occultly_madness
     title: "Unknown X ~ Occultly Madness"
     path: "145st04.sfl"

@@ -5,20 +5,80 @@ series: xeno
 platform: ["Wii", "3DS"]
 year: 2010
 songs: 
+  - id: the_monado_awakens
+    title: "The Monado Awakens"
+    path: "107 ACE+ - Monado Reacts.adx"
+    type: warning
+  - id: prologue_a
+    title: "Prologue A"
+    path: "102 Yoko Shimomura, Tsutomu Narita - Prologue A.adx"
+    type: betting
+  - id: prologue_b
+    title: "Prologue B"
+    path: "103 Yoko Shimomura, Tsutomu Narita - Prologue B.adx"
+    type: betting
+  - id: everyday_life
+    title: "Everyday Life"
+    path: "104 Manami Kiyota - Daily Life.adx"
+    type: betting
+  - id: crisis
+    title: "Crisis"
+    path: "108 ACE+ - Crisis.adx"
+    type: warning
   - id: engage_the_enemy
     title: "Engage the Enemy"
     path: "109 ACE+ - Confrontation with the Enemy.adx"
     ends: 3:44
     type: betting
+  - id: reminiscence_xenoblade
+    title: "Reminiscence"
+    path: "112 Manami Kiyota - Reminiscence.adx"
+    type: break
+  - id: urgency
+    title: "Urgency"
+    path: "113 ACE+ - Impatience.adx"
+    type: warning
+  - id: face
+    title: "Face"
+    path: "116 Manami Kiyota - Looks.adx"
+    type: warning
+  - id: unfinished_business
+    title: "Unfinished Business"
+    path: "Unfinished Battle (Custom Loop).brstm"
+    type: battle
+  - id: riki_the_legendary_heropon
+    title: "Riki the Legendary Heropon"
+    path: "121 ACE+ - Riki the Legendary Hero.adx"
+    type: betting
+  - id: shulk_and_fiora
+    title: "Shulk and Fiora"
+    path: "204 Yoko Shimomura, ACE+ - Shulk and Fiorung.adx"
+    type: betting
+  - id: hope
+    title: "Hope"
+    path: "206 Manami Kiyota - Hope.adx"
+    type: betting
+  - id: the_battle_is_upon_us
+    title: "The Battle is Upon Us"
+    path: "209 ACE+ - The Night Before the Decisive Battle.adx"
+    type: betting
   - id: zanza_the_divine
     title: "Zanza the Divine"
     path: "214 Manami Kiyota - Xanthe.adx"
     type: battle
+  - id: the_god_slaying_sword
+    title: "The God-Slaying Sword"
+    path: "215 ACE+ - The God-Slaying Sword.adx"
+    type: battle
+  - id: ending_theme_beyond_the_sky
+    title: "Ending Theme - Beyond the Sky"
+    path: "219 Yasunori Mitsuda - Beyond the Sky.mp3"
+    type: break
   - id: colony_9
     title: "Colony 9"
     path: "303 Yoko Shimomura - Colony 9.adx"
     type: betting
-  - id: colony_9_-_night
+  - id: colony_9_night
     title: "Colony 9 - Night"
     path: "304 Yoko Shimomura, ACE+ - Colony 9 - Night.adx"
     type: break
@@ -38,11 +98,11 @@ songs:
     title: "Gaur Plains (Night)"
     path: "308 ACE+ - Gaur Plains - Night.adx"
     type: break
-  - id: one_who_gets_in_our_way
-    title: "One Who Gets in Our Way"
+  - id: an_obstacle_in_our_path
+    title: "An Obstacle in Our Path"
     path: "311 ACE+ - One Who Gets in Our Way.adx"
     type: battle
-  - id: satorl_marsh_-_night
+  - id: satorl_marsh_night
     title: "Satorl Marsh (Night)"
     path: "313 Manami Kiyota - Sator, Phosphorescent Land - Night.adx"
     ends: 2:50
@@ -63,8 +123,8 @@ songs:
     title: "Colony 6 ~Restoration~"
     path: "325 Manami Kiyota - Colony 6 ~Restoration~.adx"
     type: betting
-  - id: vision_reacts
-    title: "Vision Reacts"
+  - id: vision_of_the_future
+    title: "Visions of the Future"
     path: "403 ACE+ - Vision Reacts.adx"
     type: battle
   - id: snowy_valak_mountain
@@ -110,8 +170,4 @@ songs:
     title: "Irregular Bound"
     path: "419 ACE+ - Irregular Bound.adx"
     type: warning
-  - id: unfinished_business
-    title: "Unfinished Business"
-    path: "Unfinished Battle (Custom Loop).brstm"
-    type: battle
 ...

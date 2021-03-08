@@ -1,0 +1,19 @@
+---
+id: green_lantern
+title: "Green Lantern"
+platform: "SNES"
+year: Unreleased
+songs: 
+  - id: high_score_green_lantern
+    title: "High Score"
+    path: "High Score.brstm"
+    type: betting
+  - id: ingame_02
+    title: "Ingame 02"
+    path: "Ingame 02.brstm"
+    type: betting
+  - id: title_screen_green_lantern
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+...

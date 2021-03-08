@@ -8,4 +8,30 @@ songs:
     title: "Title & Final Battle (No Intro)"
     path: "Title & Final Battle (no intro).brstm"
     type: battle
+  - id: yagokoro_eirin_stage
+    title: "Yagokoro Eirin Stage"
+    path: "Yagokoro_Eirin_Stage.brstm"
+    ends: 2:04
+    type: betting
+  - id: hakurai_reimu_stage
+    title: "Hakurai Reimu Stage"
+    path: "Hakurai_Reimu_Stage.brstm"
+    ends: 2:46
+    type: betting
+  - id: saigyouji_yuyuko_stage
+    title: "Saigyouji Yuyuko Stage"
+    path: "Saigyouji_Yuyuko_Stage.brstm"
+    type: warning
+  - id: boss_battle_megamari
+    title: "Boss Battle"
+    path: "Boss_Battle.brstm"
+    type: warning
+  - id: patchouli_castle_boss_battle
+    title: "Patchouli Castle Boss Battle"
+    path: "Patchouli_Castle_Boss_Battle.brstm"
+    type: warning
+  - id: staff_megamari
+    title: "Staff"
+    path: "Staff.brstm"
+    type: result
 ...

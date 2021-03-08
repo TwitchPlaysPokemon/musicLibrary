@@ -1,0 +1,79 @@
+--
+id: legacy_of_kain_defiance
+title: "Legacy of Kain: Defiance"
+platform: ["PS2", "Xbox", "PC"]
+year: 2003
+songs: 
+  - id: main_title_legacy_of_kain_defiance
+    title: "Main Title"
+    path: "04254.emff"
+    type: betting
+  - id: avernus_cathedral_golem_battle
+    title: "Avernus Cathedral - Golem Battle"
+    path: "26 - Avernus Cathedral - Golem Battle.brstm"
+    type: betting
+  - id: cemetary
+    title: "Cemetary"
+    path: "09 - Cemetary.brstm"
+    type: break
+  - id: cemetary_battle
+    title: "Cemetary - Battle"
+    path: "11 - Cemetary - Battle.brstm"
+    type: battle
+  - id: dark_temple_battle
+    title: "Dark Temple - Battle"
+    path: "16 - Dark Temple - Battle.brstm"
+    type: battle
+  - id: dark_temple_danger
+    title: "Dark Temple - Danger"
+    path: "15 - Dark Temple - Danger.brstm"
+    type: betting
+  - id: dark_temple
+    title: "Dark Temple"
+    path: "02599.brstm"
+    type: break
+  - id: fire_shrine_battle
+    title: "Fire Shrine - Battle"
+    path: "Fire Shrine - Battle.brstm"
+    type: battle
+  - id: fire_shrine_danger
+    title: "Fire Shrine - Danger"
+    path: "Fire Shrine - Danger.brstm"
+    type: warning
+  - id: kain_vs_raziel
+    title: "Kain vs. Raziel"
+    path: "01128.emff"
+    type: battle
+  - id: ozaar_midrashim_battle_loop
+    title: "Ozar Midrashim ~battle loop"
+    path: "00620.emff"
+    type: warning
+  - id: ozar_midrashim
+    title: "Ozar Midrashim"
+    path: "02178.emff"
+    type: battle
+  - id: sarafan_ambush
+    title: "Sarafan Ambush"
+    path: "04 - Sarafan Ambush.brstm"
+    type: battle
+  - id: sarafan_stronghold_battle
+    title: "Sarafan Stronghold - Battle"
+    path: "05 - Sarafan Stronghold - Battle"
+    type: battle
+  - id: sarafan_stronghold_normal
+    title: "Sarafan Stronghold - Normal"
+    path: "00306.emff"
+    type: break
+  - id: sluagh_ambush
+    title: "Sluagh Ambush"
+    path: "07 - Sluagh Ambush.brstm"
+    type: warning
+  - id: the_vampire_citadel_inner_chamber
+    title: "The Vampire Citadel - Inner Chamber"
+    path: "00193.emff"
+    type: break
+  - id: turel
+    title: "Turel"
+    path: "00467.emff"
+    type: warning
+...

@@ -5,27 +5,27 @@ platform: "SFC"
 year: 1996
 songs: 
   - id: mission_complete
-    title: "Mission Complete"
+    title: "MISSION COMPLETE"
     path: "103 Mission Complete.spc"
     type: result
   - id: a_store_keeper
-    title: "A Store Keeper"
+    title: "A STORE KEEPER"
     path: "110 A Store Keeper.spc"
     type: betting
   - id: richard_millman
-    title: "Richard Millman"
+    title: "RICHARD MILLMAN"
     path: "116 Richard Millman.spc"
     type: break
   - id: warning_one
-    title: "Warning One"
+    title: "WARNING ONE"
     path: "121 Warning One.spc"
     type: warning
   - id: genoce
-    title: "Genoce"
+    title: "GENOCE"
     path: "123 Genoce.spc"
-    type: warning
-  - id: violent_chase
-    title: "Violent Chase"
+    type: battle
+  - id: pursuit
+    title: "Pursuit"
     path: "208 Violent Chase.spc"
     type: warning
   - id: impatience_part_2

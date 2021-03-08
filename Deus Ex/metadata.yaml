@@ -1,10 +1,11 @@
+---
 id: deus_ex
 title: "Deus Ex"
 platform: ["PC", "PS2"]
 year: 2000
 songs: 
-  - id: new_york_city_streets_1_action
-    title: "New York City Streets 1 (Action)"
+  - id: nyc_action
+    title: "NYC Action"
     path: "New York City Streets 1 (Action).brstm"
     type: warning
   - id: the_synapse_hong_kong_streets
@@ -12,6 +13,83 @@ songs:
     path: "The Synapse (Hong Kong Streets).brstm"
     type: betting
   - id: area_51_action
-    title: "Area 51 (Action)"
+    title: "Area 51 Action"
     path: "Area 51 (Action).brstm"
+    type: battle
+  - id: begin_the_end_bunker
+    title: "Begin the End (Bunker)"
+    path: "Area51Bunker_Music.brstm"
+    type: betting
+  - id: battery_park_outro
+    title: "Battery Park (Outro)"
+    path: "BatteryPark_Music [4].brstm"
     type: warning
+  - id: battery_park
+    title: "Battery Park"
+    path: "BatteryPark_Music.brstm"
+    type: betting
+  - id: the_illuminati
+    title: "The Illuminati"
+    path: "Credits_Music"
+    type: betting
+  - id: deus_ex_club_mix
+    title: "DX Club Mix"
+    path: "DeusExDanceMix_Music.brstm"
+    type: battle
+  - id: majestic_12_labs
+    title: "Majestic 12 Labs"
+    path: "MJ12_Music.brstm"
+    type: betting
+  - id: nyc_bar
+    title: "NYC Bar"
+    path: "NYCBar2_Music.brstm"
+    ends: 2:35
+    type: betting
+  - id: nyc_streets
+    title: "NYC Streets"
+    path: "NYCStreets_Music.brstm"
+    ends: 2:13
+    type: betting
+  - id: nyc_return_action
+    title: "NYC Return Action"
+    path: "NYCStreets2_Music [2].brstm"
+    type: warning
+  - id: paris_cathedral_action
+    title: "Paris Cathedral Action"
+    path: "ParisCathedral_Music [3].brstm"
+    type: warning
+  - id: paris_action
+    title: "Paris Action"
+    path: "ParisChateau_Music [2].brstm"
+    type: warning
+  - id: duclare_chateau
+    title: "DuClare Chateau"
+    path: "ParisChateau_Music.brstm"
+    type: betting
+  - id: deus_ex_main_title
+    title: "Deus Ex Main Title"
+    path: "Title_Music.brstm"
+    ends: 2:24
+    type: betting
+  - id: unatco_conversation
+    title: "UNATCO Conversation"
+    path: "UNATCO_Music [2].brstm"
+    type: betting
+  - id: unatco_action
+    title: "UNATCO Action"
+    path: "UNATCO_Music [3].brstm"
+    type: warning
+  - id: unatco
+    title: "UNATCO"
+    path: "UNATCO_Music.brstm"
+    type: betting
+  - id: unatco_escape_action
+    title: "UNATCO Escape Action"
+    path: "UNATCOReturn_Music [2].brstm"
+    type: battle
+  - id: enemy_within
+    title: "Enemy Within"
+    path: "UNATCOReturn_Music.brstm"
+    ends: 1:51
+    type: betting
+...

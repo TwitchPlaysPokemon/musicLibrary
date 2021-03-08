@@ -25,4 +25,8 @@ songs:
     title: "TEST"
     path: "TEST.brstm"
     type: break
+  - id: bombs_for_throwing_at_you
+    title: "Bombs for Throwing at You"
+    path: "Bombs for Throwing at You.brstm"
+    type: battle
 ...

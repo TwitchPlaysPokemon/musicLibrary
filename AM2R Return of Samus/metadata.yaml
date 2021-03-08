@@ -1,0 +1,71 @@
+---
+id: am2r_return_of_samus
+title: "AM2R: Return of Samus"
+platform: "PC"
+year: 2016
+songs: 
+  - id: hydro_station
+    title: "Hydro Station"
+    path: "musArea2A.txtp"
+    type: betting
+  - id: torizo
+    title: "Torizo"
+    path: "musTorizoA.txtp"
+    type: betting
+  - id: torizo_ascendant
+    title: "Torizo Ascendant"
+    path: "musTorizoB.txtp"
+    type: warning
+  - id: tower_offline
+    title: "Tower Offline"
+    path: "musCaveAmbienceA4.txtp"
+    type: warning
+  - id: alpha_metroid_fight
+    title: "Alpha Metroid Fight"
+    path: "musAlphaFight.txtp"
+    type: battle
+  - id: ancient_guardian
+    title: "Ancient Guardian"
+    path: "musAncientGuardian.txtp"
+    type: betting
+  - id: ancient_power
+    title: "Ancient Power"
+    path: "musArea5B.txtp"
+    type: betting
+  - id: arachnus
+    title: "Arachnus"
+    path: "musArachnus.txtp"
+    type: warning
+  - id: industrial_complex
+    title: "Industrial Complex"
+    path: "musArea3A.txtp"
+    type: betting
+  - id: forlorn_descent
+    title: "Forlorn Descent"
+    path: "musMainCave2.txtp"
+    type: betting
+  - id: initial_descent
+    title: "Initial Descent"
+    path: "musMainCave.txtp"
+    type: betting
+  - id: queen_battle_part_1
+    title: "Queen Battle Part 1"
+    path: "musQueenWithIntro.txtp"
+    type: warning
+  - id: the_tower
+    title: "The Tower"
+    path: "musArea4A.txtp"
+    type: betting
+  - id: escape
+    title: "Escape"
+    path: "musReactor.txtp"
+    type: warning
+  - id: genetics_lab
+    title: "Genetics Lab"
+    path: "musArea7A.txtp"
+    type: betting
+  - id: gamma_metroid_fight
+    title: "Gamma Metroid Fight"
+    path: "musGammaFight.txtp"
+    type: warning
+...

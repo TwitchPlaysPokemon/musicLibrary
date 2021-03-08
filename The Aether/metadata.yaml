@@ -1,0 +1,27 @@
+--
+id: the_aether
+title: "The Aether"
+platform: "PC"
+year: 2011
+songs: 
+  - id: approaches
+    title: "Approaches"
+    path: "Approaches Emile van Krieken.brstm"
+    type: betting
+  - id: ascending_dawn
+    title: "Ascending Dawn"
+    path: "Ascending Dawn Emile van Kriekenbrstm"
+    type: betting
+  - id: clouds
+    title: "Clouds"
+    path: "Clouds Emile van Krieken.brstm"
+    type: betting
+  - id: meadow_aether_3
+    title: "Meadow (Aether 3)"
+    path: "Meadow (Aether 3) Emile van Krieken.brstm"
+    type: break
+  - id: moa_s_song_aether_4
+    title: "Moa's Song (Aether 4)"
+    path: "Moa's Song (Aether 4) Emile van Krieken.brstm"
+    type: break
+...

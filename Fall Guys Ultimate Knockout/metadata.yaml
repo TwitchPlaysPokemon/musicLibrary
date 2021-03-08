@@ -1,0 +1,47 @@
+--
+id: fall_guys_ultimate_knockout
+title: "Fall Guys: Ultimate Knockout"
+platform: "Various"
+year: 2020
+songs: 
+  - id: everybody_falls_fall_guys_theme
+    title: "Everybody Falls (Fall Guys Theme)"
+    path: "Everybody Falls (Fall Guys Theme).brstm"
+    type: betting
+  - id: fall_n_roll
+    title: "Fall 'n' Roll"
+    path: "Fall 'N' Roll.brstm"
+    type: betting
+  - id: survive_the_fall
+    title: "Survive The Fall"
+    path: "Survive the Fall.brstm"
+    type: betting
+  - id: fall_for_the_team
+    title: "Fall For The Team"
+    path: "Fall for the Team.brstm"
+    type: betting
+  - id: final_fall
+    title: "Final Fall"
+    path: "Final Fall.brstm"
+    type: battle
+  - id: didn_t_fall_you_win
+    title: "Didn't Fall! (You Win)"
+    path: "Didn't Fall! (You Win).brstm"
+    type: result
+  - id: everybody_falls_to_the_middle_ages
+    title: "Everybody Falls (To the Middle Ages)"
+    path: "Everybody Falls (To the Middle Ages).brstm"
+    type: betting
+  - id: sir_falls_a_lot_william_fell
+    title: "Sir Falls-A-Lot (William Fell)"
+    path: "Sir Falls-A-Lot (William Fell).brstm"
+    type: betting
+  - id: beans_of_the_round_table
+    title: "Beans of the Round Table"
+    path: "Beans of the Round Table.brstm"
+    type: betting
+  - id: fall_for_the_queen_bean
+    title: "Fall for the Queen Bean"
+    path: "Fall for the Queen Bean.brstm"
+    type: betting
+...

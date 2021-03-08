@@ -1,0 +1,63 @@
+--
+id: final_fantasy_xiv_heavensward
+title: "Final Fantasy XIV: Heavensward"
+platform: ["PC", "PS3", "PS4"]
+year: 2015
+songs: 
+  - id: solid
+    title: "Solid"
+    path: "Solid.brstm"
+    type: betting
+  - id: against_the_wind
+    title: "Against the Wind"
+    path: "BGM_EX1_Field_IshSebu02.brstm"
+    type: break
+  - id: ominous_prognisticks
+    title: "Ominous Prognisticks"
+    path: "BGM_EX1_Boss_01.scd"
+    type: battle
+  - id: the_hand_that_gives_the_rose
+    title: "The Hand that Gives the Rose"
+    path: "BGM_EX1_Ban_Ravana_01.scd"
+    type: betting
+  - id: slumber_eternal
+    title: "Slumber Eternal"
+    path: "BGM_EX1_Dungeon_DravaniaH_01.scd"
+    type: betting
+  - id: the_mushroomery
+    title: "The Mushroomery"
+    path: "BGM_EX1_Rest_Matoya.scd"
+    type: break
+  - id: ink_long_dry
+    title: "Ink Long Dry"
+    path: "BGM_EX1_Dungeon_DravaniaL_01.scd"
+    type: betting
+  - id: stone_and_steel
+    title: "Stone and Steel"
+    path: "BGM_EX1_Event_IshWar.scd"
+    type: betting
+  - id: order_yet_undeciphered
+    title: "Order Yet Undeciphered"
+    path: "BGM_EX1_Field_MagicC02.scd"
+    type: betting
+  - id: imagination
+    title: "Imagination"
+    path: "BGM_EX1_Dungeon_MagicC_01.scd"
+    type: battle
+  - id: heroes_never_die
+    title: "Heroes Never Die"
+    path: "BGM_EX1_Boss03.scd"
+    type: battle
+  - id: heroes
+    title: "Heroes"
+    path: "BGM_EX1_Boss02.scd"
+    type: battle
+  - id: locus
+    title: "Locus"
+    path: "BGM_EX1_Alex02.scd"
+    type: battle
+  - id: battle_to_the_death_heavensward
+    title: "Battle to the Death - Heavensward"
+    path: "BGM_EX1_Ban_Sephiroth01.scd"
+    type: battle
+...

@@ -1,0 +1,88 @@
+--
+id: final_fantasy_xiv_a_realm_reborn
+title: "Final Fantasy XIV: A Realm Reborn"
+platform: ["PC", "PS3", "PS4", "PS5"]
+year: 2013
+songs: 
+  - id: prelude_rebirth
+    title: "Prelude - Rebirth"
+    path: "bgm_system_title.scd"
+    type: result
+  - id: hard_to_miss
+    title: "Hard to Miss"
+    path: "bgm_fate_mid.scd"
+    type: battle
+  - id: tenacity
+    title: "Tenacity"
+    path: "bgm_leves.scd"
+    type: battle
+  - id: on_westerly_winds
+    title: "On Westerly Winds"
+    path: "On Westerly Winds.brstm"
+    type: betting
+  - id: wailers_and_waterwheels
+    title: "Wailers And Waterwheels"
+    path: "bgm_town_gri_day.scd"
+    type: break
+  - id: serenity
+    title: "Serenity"
+    path: "Serenity.brstm"
+    type: break
+  - id: thunderer
+    title: "Thunderer"
+    path: "bgm_con_ascian.scd"
+    type: betting
+  - id: through_the_gloom
+    title: "Through the Gloom"
+    path: "bgm_dungeon_lim_04.scd"
+    ends: 1:51
+    type: betting
+  - id: ever_upwards
+    title: "Ever Upwards"
+    path: "Ever Upwards.brstm"
+    type: battle
+  - id: tumbling_down
+    title: "Tumbling Down"
+    path: "bgm_con_crystaltower_boss_01.scd"
+    type: battle
+  - id: bite_of_the_black_wolf
+    title: "Bite of the Black Wolf"
+    path: "bgm_con_teikoku_gaius.scd"
+    type: battle
+  - id: the_maker_s_ruin
+    title: "The Maker's Ruin"
+    path: "bgm_event_perfectaltima.scd"
+    type: battle
+  - id: ultima
+    title: "Ultima"
+    path: "bgm_con_altima.scd"
+    type: battle
+  - id: the_scars_of_battle
+    title: "The Scars of Battle"
+    path: "bgm_dungeon_gri_05.scd"
+    type: break
+  - id: wrath_of_the_eikons
+    title: "Wrath of the Eikons"
+    path: "Wrath of the Eikons.brstm"
+    type: battle
+  - id: big_boned
+    title: "Big-boned"
+    path: "bgm_ride_debuchocobo.scd"
+    type: result
+  - id: battle_on_the_big_bridge
+    title: "Battle on the Big Bridge"
+    path: "bgm_event_clashonthebigbridge.scd"
+    type: battle
+  - id: footsteps_in_the_snow
+    title: "Footsteps in the Snow"
+    path: "Footsteps in the Snow.brstm"
+    type: battle
+  - id: sport_of_kings
+    title: "Sport of Kings"
+    path: "Sport of Kings.brstm"
+    type: betting
+  - id: the_navigator_s_veil
+    title: "The Navigator's Veil"
+    path: "bgm_town_lim_day.scd"
+    type: betting
+...

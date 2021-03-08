@@ -1,0 +1,23 @@
+---
+id: segasonic_popcorn_shop
+title: "SegaSonic Popcorn Shop"
+platform: "Arcade"
+year: 1993
+songs: 
+  - id: choose_a_flavor
+    title: "Choose a Flavor"
+    path: "02 Choose a Flavor.vgz"
+    type: result
+  - id: chase_minigame
+    title: "Chase Minigame"
+    path: "03 Chase Minigame.vgz"
+    type: warning
+  - id: see_you_again
+    title: "See you again!"
+    path: "06 See you again.vgz"
+    type: result
+  - id: please_ask_for_assistance
+    title: "Please ask for assistance"
+    path: "07 Please ask for assistance.vgz"
+    type: warning
+...

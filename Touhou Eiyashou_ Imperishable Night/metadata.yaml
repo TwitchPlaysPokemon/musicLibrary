@@ -5,66 +5,106 @@ series: touhou
 platform: "PC"
 year: 2004
 songs: 
+  - id: eternal_night_vignette_eastern_night
+    title: "Eternal Night Vignette ~ Eastern Night"
+    path: "th08_01.txtp"
+    type: break
   - id: illusionary_night_ghostly_eyes
     title: "Illusionary Night ~ Ghostly Eyes"
-    path: "Illusionary Night ~ Ghostly Eyes.brstm"
+    path: "th08_00.txtp"
+    type: betting
+  - id: stirring_an_autumn_moon_mooned_insect
+    title: "Stirring an Autumn Moon ~ Mooned Insect"
+    path: "th08_03.txtp"
+    type: betting
+  - id: song_of_the_night_sparrow_night_bird
+    title: "Song of the Night Sparrow ~ Night Bird"
+    path: "th08_04.txtp"
+    type: betting
+  - id: deaf_to_all_but_the_song
+    title: "Deaf to all but the song"
+    path: "th08_05.txtp"
+    type: battle
+  - id: nostalgic_blood_of_the_east_old_world
+    title: "Nostalgic Blood of the East ~ Old World"
+    path: "th08_06.txtp"
+    type: betting
+  - id: plain_asia_touhou_8
+    title: "Plain Asia"
+    path: "th08_07.txtp"
+    type: battle
+  - id: retribution_for_the_eternal_night_imperishable_night
+    title: "Retribution for the Eternal Night ~ Imperishable Night"
+    path: "th08_08.txtp"
+    type: betting
+  - id: maiden_s_capriccio_dream_battle
+    title: "Maiden's Capriccio ~ Dream Battle"
+    path: "th08_09.txtp"
+    type: battle
+  - id: love_colored_master_spark_touhou_8
+    title: "Love-colored Master Spark"
+    path: "th08_10.txtp"
+    type: battle
+  - id: cinderella_cage_kagome_kagome
+    title: "Cinderella Cage ~ Kagome-Kagome"
+    path: "th08_11.txtp"
+    type: betting
+  - id: lunatic_eyes_invisible_full_moon
+    title: "Lunatic Eyes ~ Invisible Full Moon"
+    path: "th08_12.txtp"
+    type: battle
+  - id: voyage_1969
+    title: "Voyage 1969"
+    path: "th08_13.txtp"
+    ends: 2:36
+    type: betting
+  - id: gensokyo_millenium_history_of_the_moon
+    title: "Gensokyo Millenium ~ History of the Moon"
+    path: "th08_14.txtp"
+    type: battle
+  - id: flight_of_the_bamboo_cutter_lunatic_princess
+    title: "Flight of the Bamboo Cutter ~ Lunatic Princess"
+    path: "th08_15.txtp"
+    type: battle
+  - id: voyage_1970
+    title: "Voyage 1970"
+    path: "th08_13b.txtp"
+    type: warning
+  - id: extend_ash_person_of_hourai
+    title: "Extend Ash ~ Person of Hourai"
+    path: "th08_18.txtp"
+    type: battle
+  - id: reach_for_the_moon_immortal_smoke
+    title: "Reach for the Moon, Immortal Smoke"
+    path: "th08_19.txtp"
+    type: battle
+  - id: evening_primrose
+    title: "Evening Primrose"
+    path: "th08_16.txtp"
+    type: betting
+  - id: eternal_dream_mystic_maple
+    title: "Eternal Dream ~ Mystic Maple"
+    path: "th08_17.txtp"
+    type: betting
+  - id: eastern_youkai_beauty
+    title: "Eastern Youkai Beauty"
+    path: "th08_20.txtp"
     type: betting
   - id: plain_asia_house_set_ver
     title: "Plain Asia (House Set Ver.)"
     path: "Plain Asia (House Set Ver.).brstm"
     type: betting
-  - id: deaf_to_all_but_the_song
-    title: "Deaf to all but the song"
-    path: "Deaf to all but the Song.brstm"
-    type: battle
-  - id: love_coloured_master_spark_dppt_soundfont
-    title: "Love-colored Master Spark (Pokémon DPPt Soundfont)"
-    path: "Love Coloured Master Spark - Pokémon DPP Soundfont.brstm"
-    type: battle
-  - id: eternal_night_vignette_eastern_night
-    title: "Eternal Night Vignette ~ Eastern Night"
-    path: "Title Screen - Imperishable Night ~ Eastern Night.brstm"
-    type: break
-  - id: maiden_s_capriccio_dream_battle
-    title: "Maiden's Capriccio ~ Dream Battle"
-    path: "Maiden's Capriccio _ Dream Battle.brstm"
-    type: battle
   - id: maiden_s_capriccio_dream_battle_house_set_ver
     title: "Maiden's Capriccio ~ Dream Battle (House Set Ver.)"
     path: "Maiden's Capriccio _ Dream Battle (House Set Ver.).brstm"
     ends: 3:26
     type: betting
-  - id: reach_for_the_moon_immortal_smoke
-    title: "Reach for the Moon, Immortal Smoke"
-    path: "Reach for the Moon, Immortal Smoke.brstm"
-    type: battle
-  - id: flight_of_the_bamboo_cutter_lunatic_princess
-    title: "Flight of the Bamboo Cutter ~ Lunatic Princess"
-    path: "Flight of the Bamboo Cutter _ Lunatic Princess.brstm"
-    type: battle
   - id: flight_of_the_bamboo_cutter_lunatic_princess_house_set_ver
     title: "Flight of the Bamboo Cutter ~ Lunatic Princess (House Set Ver.)"
     path: "Flight in the Bamboo Cutter _ Lunatic Princess (House Set Ver.).brstm"
     type: betting
-  - id: plain_asia_touhou_8
-    title: "Plain Asia"
-    path: "07 Plain Asia [Stage 3 Boss - Keine Kamishirasawa's Theme].GENH"
-    type: battle
-  - id: love_colored_master_spark_touhou_8
-    title: "Love-colored Master Spark"
-    path: "10 Love-coloured Master Spark [Stage 4 powerful Boss - Marisa Kirisame's Theme].GENH"
-    type: battle
-  - id: lunatic_eyes_invisible_full_moon
-    title: "Lunatic Eyes ~ Invisible Full Moon"
-    path: "12 Lunatic Eyes ~ Invisible Full Moon [Stage 5 Boss - Reisen Udongein Inaba's Theme].GENH"
-    type: battle
-  - id: voyage_1969
-    title: "Voyage 1969"
-    path: "13 Voyager 1969 [Final Stage].GENH"
-    ends: 2:36
-    type: betting
-  - id: gensokyo_millenium_history_of_the_moon
-    title: "Gensokyo Millenium ~ History of the Moon"
-    path: "14 Gensokyo Millennium ~ History of the Moon [FinalA Boss - Eirin Yagokoro's Theme].GENH"
+  - id: love_coloured_master_spark_dppt_soundfont
+    title: "Love-colored Master Spark (Pokémon DPPt Soundfont)"
+    path: "Love Coloured Master Spark - Pokémon DPP Soundfont.brstm"
     type: battle
 ...

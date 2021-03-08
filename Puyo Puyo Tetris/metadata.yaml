@@ -5,97 +5,97 @@ platform: ["Switch", "Various"]
 #other platforms: ["Wii U", "3DS", "XBone", "PS4", "PS3", "Vita"]
 series: puyopuyo
 year: 2014
-songs:
-  - id: the_true_conspiracy_puyo_puyo_tetris
-    title: "The True Conspiracy!"
-    path: "BGM_MZ08_last.dspadpcm.bcstm"
-    type: battle
-  - id: who_shall_be_chosen
-    title: "Who Shall Be Chosen?"
-    path: "BGM_S03_select.dspadpcm.bcstm"
-    type: betting
-  - id: forever_frantic_fever
-    title: "Forever Frantic Fever!! ~ Lucky Attack Frenzy!!"
-    path: "BGM_T03_fever.dspadpcm.bcstm"
-    type: result
-  - id: tectonic_tetro_at_war
-    title: "Tectonic Tetro at War!"
-    path: "BGM_TA02_boss_t2.dspadpcm.bcstm"
-    type: battle
-  - id: faceoff_in_puyopuyo_world
-    title: "Faceoff in Puyopuyo World! - Magical Confrontation!"
-    path: "BGM_TA03_boss_p2.dspadpcm.bcstm"
-    type: warning
-  - id: dimension_stage_puyo
-    title: "Dimension Stage ~ Decisive Battle"
-    path: "BGM_TA04_lastboss.dspadpcm.bcstm"
-    type: battle
-  - id: worldwide_connectivity
-    title: "Worldwide Connectivity"
-    path: "BGM_S05_internet.dspadpcm.bcstm"
-    type: betting
-  - id: challenge_go_puyo_2_tetris
-    title: "Challenge GO! → Puyo 2 Tetris!"
-    path: "BGM_T00_classic.dspadpcm.bcstm"
-    type: betting
-  - id: welcome_to_puyotetris
-    title: "Welcome to PUYOTETRIS!!"
-    path: "BGM_MZ00_opening.dspadpcm.bfstm"
-    type: betting
-  - id: it_s_main_menu
-    title: "It's Main Menu!"
+songs: 
+  - id: puyo_puyo_tetris_menu
+    title: "Puyo Puyo Tetris Menu"
     path: "BGM_S02_menu.dspadpcm.bfstm"
     type: break
-  - id: where_shall_we_go
-    title: "Where Shall We Go?"
-    path: "BGM_S04_adv.dspadpcm.bfstm"
-    type: betting
-  - id: happy_days_like_usual
-    title: "Happy Days like Usual~!"
+  - id: puyo_tetris_dialogue_relaxed_and_high_spirited
+    title: "Puyo Tetris Dialogue ~ Relaxed and High-Spirited! ~"
     path: "BGM_MZ01_normal.dspadpcm.bfstm"
     type: betting
-  - id: in_the_end_we_all_laugh
-    title: "In The End we all Laugh!"
-    path: "BGM_MZ04_gogo.dspadpcm.bfstm"
-    type: result
-  - id: listen_up_it_s_your_lesson_for_today
-    title: "Listen Up, it's your Lesson for Today!"
-    path: "BGM_TS04_lesson.dspadpcm.bfstm"
+  - id: character_selection
+    title: "Character Selection!"
+    path: "BGM_S03_select.dspadpcm.bcstm"
     type: betting
-  - id: play_throughly_the_puyopuyo_puyo_puyo_20th_anniversary
-    title: "Play throughly the Puyopuyo - (Puyo Puyo 20th Anniversary)"
-    path: "BGM_T07_toko_p.dspadpcm.bfstm"
+  - id: vs_mode_set_up
+    title: "VS. MODE SET UP!"
+    path: "BGM_T00_classic.dspadpcm.bcstm"
     type: betting
-  - id: block_by_block_beat_by_beat
-    title: "Block by Block ~ Beat by Beat"
-    path: "BGM_T08_toko_t.dspadpcm.bfstm"
+  - id: puyo_tetris_dialogue_aboard_the_spaceship
+    title: "Puyo Tetris Dialogue ~ Aboard the Spaceship ~"
+    path: "BGM_MZ00_opening.dspadpcm.bfstm"
     type: betting
-  - id: folktales_from_the_motherland
-    title: "Folktales From the Motherland!"
+  - id: korobeiniki_ver_puyo_tetris
+    title: "Korobeiniki ver. Puyo Tetris"
     path: "BGM_T02_swap_t.dspadpcm.bfstm"
     type: betting
-  - id: puyotetromix
-    title: "PuyoTetroMix"
+  - id: let_s_advance_little_by_little
+    title: "Let's Advance Little by Little"
+    path: "BGM_S04_adv.dspadpcm.bfstm"
+    type: betting
+  - id: chaos_mix_difficultly
+    title: "Chaos mix Difficultly"
     path: "BGM_T06_mix.dspadpcm.bfstm"
     type: betting
-  - id: the_finale_is_underway
-    title: "The Finale is Underway!"
+  - id: puyo_tetris_dialogue_you_re_on
+    title: "Puyo Tetris Dialogue ~ You're On! ~"
     path: "BGM_MZ07_boss.dspadpcm.bfstm"
     type: warning
-  - id: faceoff_in_puyopuyo_world_magical_confrontation!
-    title: "Faceoff in Puyopuyo World! ~ Magical Confrontation!"
+  - id: real_fight
+    title: "Real Fight!"
+    path: "BGM_TA00_boss_t1.dspadpcm.bfstm"
+    type: betting
+  - id: tetris_pinch_sega_arcade_arrange_ver
+    title: "TETRIS PINCH SEGA Arcade arrange ver."
+    path: "BGM_00000023.hca"
+    type: warning
+  - id: puyo_tetris_dialogue_hunky_dory_beat
+    title: "Puyo Tetris Dialogue ~ Hunky-Dory Beat! ~"
+    path: "BGM_MZ04_gogo.dspadpcm.bfstm"
+    type: result
+  - id: bigbang_rule_fever
+    title: "BIGBANG RULE FEVER!!"
+    path: "BGM_T03_fever.dspadpcm.bcstm"
+    type: result
+  - id: the_puyo_never_stops
+    title: "The Puyo Never Stops!"
+    path: "BGM_T07_toko_p.dspadpcm.bfstm"
+    type: betting
+  - id: tetris_sega_arcade_arrange_ver
+    title: "TETRIS SEGA Arcade arrange ver."
+    path: "BGM_T08_toko_t.dspadpcm.bfstm"
+    type: betting
+  - id: ex_pla_na_tion
+    title: "Ex! Pla! Na! Tion!"
+    path: "BGM_TS04_lesson.dspadpcm.bfstm"
+    type: betting
+  - id: online_menu
+    title: "Online Menu!"
+    path: "BGM_S05_internet.dspadpcm.bcstm"
+    type: betting
+  - id: puyo_battle_in_serious_mode
+    title: "Puyo Battle in Serious Mode!"
     path: "BGM_TA03_boss_p2.dspadpcm.bfstm"
     type: battle
-  - id: the_true_conspiracy
-    title: "The True Conspiracy!"
+  - id: showdown
+    title: "Showdown"
+    path: "BGM_TA02_boss_t2.dspadpcm.bcstm"
+    type: battle
+  - id: puyo_tetris_dialogue_the_edge_of_space_time
+    title: "Puyo Tetris Dialogue ~ The Edge of Space-Time ~"
     path: "BGM_MZ08_last.dspadpcm.bfstm"
     type: betting
-  - id: dimension_stage_decisive_battle
-    title: "Dimension Stage ~ Decisive Battle"
+  - id: the_end_of_silent_conflict
+    title: "the End of Silent Conflict"
     path: "BGM_TA04_lastboss.dspadpcm.bfstm"
     type: battle
-  - id: staff_credits_puyo_puyo_tetris
-    title: "Staff Credits"
+  - id: homecoming_and_then
+    title: "Homecoming, and then..."
+    path: "BGM_MZE1_ending.dspadpcm.bfstm"
+    type: break
+  - id: puyo_puyo_tetris_staff_credits
+    title: "Puyo Puyo TETRIS STAFF CREDITS"
     path: "BGM_MZE2_staff.dspadpcm.bfstm"
     type: break
 ...

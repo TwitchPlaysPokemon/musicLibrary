@@ -9,7 +9,7 @@ songs:
     title: "TALK"
     path: "TALK.brstm"
     type: warning
-  - id: normal_battle_smt3
+  - id: normal_battle_smtiii
     title: "Normal Battle"
     path: "Normal Battle.brstm"
     type: battle
@@ -76,5 +76,50 @@ songs:
   - id: mansion_of_heresy_curse
     title: "Mansion of Heresy ~Curse~"
     path: "125 Heretic Mansion ~Curse~.psf2"
+    type: betting
+  - id: fierce_battle
+    title: "Fierce Battle"
+    path: "Fierce Battle.brstm"
+    type: battle
+  - id: boss_battle_smtiii
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: normal_battle_town
+    title: "Normal Battle ~Town~"
+    path: "Normal Battle _Town_.brstm"
+    type: battle
+  - id: normal_battle_large_map
+    title: "Normal Battle ~Large Map~"
+    path: "Normal Battle _Large Map_.brstm"
+    type: battle
+  - id: normal_battle_the_labyrinth_of_amala
+    title: "Normal Battle ~The Labyrinth of Amala~"
+    path: "Normal Battle _The Labyrinth of Amala_.brstm"
+    type: battle
+  - id: normal_battle_amala_network
+    title: "Normal Battle ~Amala Network~"
+    path: "Normal Battle _Amala Network_.brstm"
+    type: battle
+  - id: warp_zone
+    title: "Warp Zone"
+    path: "Warp Zone.brstm"
+    type: betting
+  - id: lord_of_the_netherworld
+    title: "Lord of the Netherworld"
+    path: "05. Master of Hell.mp3"
+    end: 2:07
+    type: betting
+  - id: showtime
+    title: "SHOWTIME!!"
+    path: "SHOWTIME!!.brstm"
+    type: warning
+  - id: puzzle_boy
+    title: "Puzzle Boy"
+    path: "Puzzle Boy.brstm"
+    type: betting
+  - id: playing_the_fool
+    title: "Playing the Fool"
+    path: "Playing the Fool.brstm"
     type: betting
 ...

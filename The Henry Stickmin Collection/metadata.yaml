@@ -1,0 +1,23 @@
+---
+id: the_henry_stickmin_collection
+title: "The Henry Stickmin Collection"
+platform: "PC"
+year: 2020
+songs: 
+  - id: red_headed_outlaw
+    title: "Red Headed Outlaw"
+    path: "955943_Red-Headed-Outlaw.brstm"
+    type: betting
+  - id: tickets_please
+    title: "Tickets Please"
+    path: "954943_Tickets-Please.brstm"
+    type: warning
+  - id: prison_blues
+    title: "Prison Blues"
+    path: "946175_Prison-Blues.brstm"
+    type: break
+  - id: flight_results
+    title: "Flight Results"
+    path: "955786_Flight-Results.brstm"
+    type: result
+...

@@ -4,20 +4,20 @@ title: "Mad Stalker: Full Metal Force"
 platform: "X68000"
 year: 1994
 songs: 
-  - id: player_select_mad_stalker_full_metal_force
-    title: "PLAYER SELECT"
+  - id: omega_drivin
+    title: "OMEGA DRIVIN'"
     path: "04 Player Select.vgz"
     type: warning
-  - id: stage_1_mad_stalker_full_metal_force
-    title: "STAGE 1"
+  - id: mad_dog
+    title: "MAD DOG"
     path: "05 Stage 1.vgz"
     type: betting
-  - id: stage_2_mad_stalker_full_metal_force
-    title: "STAGE 2"
+  - id: mud_stalker
+    title: "MUD STALKER"
     path: "06 Stage 2.vgz"
     type: betting
-  - id: stage_6_boss_stalker_full_metal_force
-    title: "STAGE 6/BOSS"
+  - id: boiling_point
+    title: "Boiling Point"
     path: "11 Stage 6 - Boss.vgz"
     type: warning
 ...

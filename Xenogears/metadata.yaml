@@ -5,8 +5,28 @@ series: xeno
 platform: "PS1"
 year: 1998
 songs: 
-  - id: the_wind_is_calling_shevat_of_the_azure_sky
-    title: "The Wind is Calling, Shevat of the Azure Sky"
+  - id: bons_of_sea_and_flame
+    title: "Bonds of Sea and Flame"
+    path: "103 Bonds of Sea and Fire.psf"
+    type: betting
+  - id: steel_giant
+    title: "Steel Giant"
+    path: "107 Steel Giant.psf"
+    type: warning
+  - id: invasion
+    title: "Invasion"
+    path: "118 Invasion.psf"
+    type: betting
+  - id: stage_of_death
+    title: "Stage of Death"
+    path: "119 Stage of Death.psf"
+    type: battle
+  - id: crimson_knight
+    title: "Crimson Knight"
+    path: "203 Knight of Fire.psf"
+    type: battle
+  - id: the_wind_calls_to_shevat_in_the_blue_sky
+    title: "The Wind Calls to Shevat in the Blue Sky"
     path: "205 Shevat ~ The Wind is Calling.psf"
     type: break
   - id: awakening_xenogears

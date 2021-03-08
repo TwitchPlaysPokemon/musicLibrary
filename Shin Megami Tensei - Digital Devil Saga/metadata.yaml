@@ -1,0 +1,28 @@
+---
+id: shin_megami_tensei_digital_devil_saga
+title: "Shin Megami Tensei: Digital Devil Saga"
+series: shinmegamitensei
+platform: "PS2"
+year: 2004
+songs:
+  - id: hunting
+    title: "Hunting"
+    path: "SMTDDS - Hunting.brstm"
+    type: battle
+  - id: muladhara
+    title: "Muladhara"
+    path: "SMTDDS - Muladhara.brstm"
+    type: betting
+  - id: sahasrara
+    title: "Sahasrara"
+    path: "Sahasrara.brstm"
+    type: betting
+  - id: river_of_samsara
+    title: "River of Samsara"
+    path: "River of Samsara.brstm"
+    type: betting
+  - id: karma_smtdds
+    title: "Karma"
+    path: "Shin_Megami_Tensei_Digital_Devil_Saga_1-Karma.brstm"
+    type: result
+...

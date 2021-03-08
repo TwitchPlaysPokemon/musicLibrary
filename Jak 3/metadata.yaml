@@ -12,13 +12,13 @@ songs:
     title: "Haven City Chase"
     path: "Haven City Chase.brstm"
     type: warning
-  - id: sewers_jak_3
-    title: "Sewers"
+  - id: subterranean
+    title: "Subterranean"
     path: "Sewers.brstm"
     ends: 3:00
     type: betting
-  - id: metalhead_nest
-    title: "Metalhead Nest"
+  - id: metal_head_nest
+    title: "Metal Head Nest"
     path: "Metalhead Nest.brstm"
     type: warning
   - id: harsh_wasteland
@@ -35,8 +35,8 @@ songs:
     path: "Credits.VAG"
     ends: 3:09
     type: betting
-  - id: incoming_blast_bots
-    title: "Incoming Blast Bots"
+  - id: mission_war
+    title: "Mission War"
     path: "Incoming Blast Bots.VAG"
     type: betting
   - id: haven_city_war
@@ -44,7 +44,7 @@ songs:
     path: "Haven City War Theme.VAG"
     type: warning
   - id: metal_head_city
-    title: "Metalhead City Area"
+    title: "Metal Head City"
     path: "Metal Head City.VAG"
     type: betting
   - id: monk_glider
@@ -61,12 +61,12 @@ songs:
     title: "Calm Wasteland"
     path: "Calm Wasteland.VAG"
     type: break
-  - id: dark_maker_ship
-    title: "Dark Maker Ship"
+  - id: dark_ship_maker
+    title: "Dark Ship Maker"
     path: "Dark Maker Ship.VAG"
     type: warning
-  - id: eco_mine
-    title: "Eco Mine"
+  - id: eco_mines
+    title: "Eco Mines"
     path: "Eco Mine.VAG"
     ends: 3:01
     type: betting
@@ -74,12 +74,12 @@ songs:
     title: "Gun Course"
     path: "Gun Course.VAG"
     type: betting
-  - id: haven_city
-    title: "Haven City"
+  - id: calm_haven_city
+    title: "Calm Haven City"
     path: "Haven City.VAG"
     type: break
-  - id: metalhead_hunt
-    title: "Metalhead Hunt"
+  - id: metal_head_hunt
+    title: "Metal Head Hunt"
     path: "Metalhead Hunt.VAG"
     ends: 2:42
     type: betting
@@ -87,8 +87,8 @@ songs:
     title: "Metal-peads"
     path: "Metal-peads.VAG"
     type: warning
-  - id: monk_temple_under_attack
-    title: "Monk Temple Under Attack"
+  - id: temple_under_attack
+    title: "Temple Under Attack"
     path: "Monk Temple Under Attack.VAG"
     type: warning
   - id: monk_temple
@@ -99,8 +99,8 @@ songs:
     title: "Palace Ruins"
     path: "Palace Ruins.VAG"
     type: warning
-  - id: precursor_sub_rails
-    title: "Precursor Sub-rails"
+  - id: precursor_subrails
+    title: "Precursor Subrails"
     path: "Precursor Sub-rails.VAG"
     type: warning
   - id: spargus_arena
@@ -120,4 +120,24 @@ songs:
     title: "Artifact Race"
     path: "Artifact Race.VAG"
     type: warning
+  - id: terraformer
+    title: "Terraformer"
+    path: darkmakerfinale.brstm"
+    type: battle
+  - id: metal_head_2_demo
+    title: "Metal Head 2 (Demo)"
+    path: dogshit2.brstm"
+    type: battle
+  - id: metal_head_hunt_unused
+    title: "Metal Head Hunt (Unused)"
+    path: metalheadunused.brstm"
+    type: battle
+  - id: tower_bombs
+    title: "Tower Bombs"
+    path: towerbombs.brstm"
+    type: betting
+  - id: light_speed_2_unused
+    title: "Light Speed 2 (Unused)"
+    path: unused2.brstm"
+    type: battle
 ...

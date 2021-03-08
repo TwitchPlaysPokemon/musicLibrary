@@ -1,0 +1,19 @@
+--
+id: echidna_wars_dx
+title: "Echidna Wars DX"
+platform: "PC"
+year: 2017
+songs: 
+  - id: journey_into_the_night
+    title: "Journey into the Night"
+    path: "journeyintothenight.brstm"
+    type: betting
+  - id: root_of_the_world
+    title: "Root of the World"
+    path: "rootoftheworld.brstm"
+    type: betting
+  - id: sacred_of_the_darkness
+    title: "Sacred of the Darkness"
+    path: "sacredtothedarkness.brstm"
+    type: betting
+...

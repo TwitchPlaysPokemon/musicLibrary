@@ -5,8 +5,36 @@ series: touhou
 platform: "PC"
 year: 1997
 songs: 
-  - id: mimas_theme_complete_darkness
-    title: "Mima's Theme: Complete Darkness"
+  - id: she_s_in_a_temper
+    title: "She's in a temper!!"
+    path: "She's in a temper!!.brstm"
+    type: warning
+  - id: world_of_empty_dreams
+    title: "World of Empty Dreams"
+    path: "World of Empty Dreams.brstm"
+    type: betting
+  - id: himorogi_burn_in_violet
+    title: "Himorogi, Burn in Violet"
+    path: "Himorogi, Burn in Violet.brstm"
+    type: warning
+  - id: love_coloured_magic
+    title: "Love-coloured Magic"
+    path: "Love-coloured Magic.brstm"
+    type: betting
+  - id: record_of_the_sealing of an Oriental Demon ~ A Phantom's Boisterous Dance
+    title: "Record of the Sealing of an Oriental Demon ~ A Phantom's Boisterous Dance"
+    path: "Record of the Sealing of an Oriental Demon ~ A Phantom's Boisterous Dance.brstm"
+    type: warning
+  - id: complete_darkness
+    title: "Complete Darkness"
     path: "Complete Darkness.brstm"
     type: battle
+  - id: extra_love
+    title: "Extra Love"
+    path: "Extra Love.brstm"
+    type: battle
+  - id: the_tank_girl_s_dream
+    title: "The Tank Girl's Dream"
+    path: "The Tank Girl's Dream.brstm"
+    type: betting
 ...

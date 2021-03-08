@@ -5,60 +5,64 @@ series: touhou
 platform: "PC"
 year: 2017
 songs: 
-  - id: eternitys_theme_a_midsummer_fairys_dream
-    title: "Eternity's Theme: A Midsummer Fairy's Dream"
-    path: "Touhou 16 OST - A Midsummer Fairys Dream.brstm"
-    type: battle
-  - id: aunns_themea_pair_of_divine_beasts
-    title: "Aunn's Theme: A Pair of Divine Beasts"
-    path: "Touhou 16 OST - A Pair of Divine Beasts.brstm"
-    type: battle
-  - id: a_star_of_hope_rises_in_the_blue_sky_stage_1_theme
-    title: "A Star of Hope Rises in the Blue Sky (Stage 1 theme)"
+  - id: the_sky_where_cherry_blossoms_flutter_down
+    title: "The Sky Where Cherry Blossoms Flutter Down"
+    path: "01 The Sky Where Cherry Blossoms Flutter Down [Title Screen].genh"
+    type: betting
+  - id: a_star_of_hope_rises_in_the_blue_sky
+    title: "A Star of Hope Rises in the Blue Sky"
     path: "Touhou 16 OST - A Star of Hope Rises in the Blue Sky.brstm"
     type: betting
-  - id: okinas_theme_concealed_four_seasons
-    title: "Okina's theme: Concealed Four Seasons"
-    path: "Touhou 16 OST - Concealed Four Seasons.brstm"
+  - id: a_midsummer_fairy_s_dream
+    title: "A Midsummer Fairy's Dream"
+    path: "Touhou 16 OST - A Midsummer Fairys Dream.brstm"
     type: battle
-  - id: mai_and_satonos_theme_crazy_back_dancers
-    title: "Mai and Satono's theme: Crazy Back Dancers"
-    path: "Touhou 16 OST - Crazy Back Dancer.brstm"
-    type: battle
-  - id: nemunos_theme_deep_mountain_encounter
-    title: "Nemuno's Theme: Deep-Mountain Encounter"
-    path: "Touhou 16 OST - Deep-Mountain Encounter.brstm"
-    type: battle
-  - id: does_the_forbidden_door_lead_to_this_world_or_to_the_next_stage_5_theme
-    title: "Does the Forbidden Door Lead to This World, or To The Next (Stage 5 theme)"
-    path: "Touhou 16 OST - Does the Forbidden Door Lead to This World, or To The Next.brstm"
-    type: betting
-  - id: illusionary_white_traveler_stage_4_theme
-    title: "Illusionary White Traveler (Stage 4 theme)"
-    path: "Touhou 16 OST - Illusionary White Traveler.brstm"
-    type: betting
-  - id: into_the_backdoor_stage_6_theme
-    title: "Into the Backdoor (Stage 6 theme)"
-    path: "Touhou 16 OST - Into the Backdoor.brstm"
-    type: betting
-  - id: no_more_going_through_doors_ex_theme
-    title: "No More Going Through Doors (EX theme)"
-    path: "Touhou 16 OST - No More Going Through Doors.brstm"
-    type: betting
-  - id: tlb_okinas_theme_secret_god_matara_hidden_star_in_all_seasons
-    title: "TLB Okina's theme: Secret God Matara ~ Hidden Star in All Seasons"
-    path: "Touhou 16 OST - Secret God Matara ~ Hidden Star in All Seasons.brstm"
-    type: battle
-  - id: swim_in_a_cherry_blossom_colored_sea_stage_3_theme
-    title: "Swim in a Cherry Blossom Colored Sea (Stage 3 theme)"
-    path: "Touhou 16 OST - Swim in a Cherry Blossom-Colored Sea.brstm"
-    type: betting
-  - id: the_colorless_wind_on_youkai_mountain_stage_2_theme
-    title: "The Colorless Wind on Youkai Mountain (Stage 2 theme)"
+  - id: the_colorless_wind_on_youkai_mountain
+    title: "The Colorless Wind on Youkai Mountain"
     path: "Touhou 16 OST - The Colorless Wind on Youkai Mountain.brstm"
     type: betting
-  - id: narumis_theme_the_magic_straw_hat_jizo
-    title: "Narumi's theme: The Magic Straw-Hat Jizo"
+  - id: deep_mountain_encounter
+    title: "Deep-Mountain Encounter"
+    path: "Touhou 16 OST - Deep-Mountain Encounter.brstm"
+    type: battle
+  - id: swim_in_a_cherry_blossom_colored_sea
+    title: "Swim in a Cherry Blossom-Colored Sea"
+    path: "Touhou 16 OST - Swim in a Cherry Blossom-Colored Sea.brstm"
+    type: betting
+  - id: a_pair_of_divine_beasts
+    title: "A Pair of Divine Beasts"
+    path: "Touhou 16 OST - A Pair of Divine Beasts.brstm"
+    type: battle
+  - id: illusionary_white_traveler
+    title: "Illusionary White Traveler"
+    path: "Touhou 16 OST - Illusionary White Traveler.brstm"
+    type: betting
+  - id: the_magic_straw_hat_jizo
+    title: "The Magic Straw-hat Jizo"
     path: "Touhou 16 OST - The Magic Straw-Hat Jizo.brstm"
     type: betting
+  - id: does_the_forbidden_door_lead_to_this_world_or_the_world_beyond
+    title: "Does the Forbidden Door Lead to This World, or the World Beyond"
+    path: "Touhou 16 OST - Does the Forbidden Door Lead to This World, or To The Next.brstm"
+    type: betting
+  - id: crazy_backup_dancers
+    title: "Crazy Backup Dancers"
+    path: "Touhou 16 OST - Crazy Back Dancer.brstm"
+    type: battle
+  - id: into_backdoor
+    title: "Into Backdoor"
+    path: "Touhou 16 OST - Into the Backdoor.brstm"
+    type: betting
+  - id: the_concealed_four_seasons
+    title: "The Concealed Four Seasons"
+    path: "Touhou 16 OST - Concealed Four Seasons.brstm"
+    type: battle
+  - id: no_more_going_through_doors
+    title: "No More Going Through Doors"
+    path: "Touhou 16 OST - No More Going Through Doors.brstm"
+    type: betting
+  - id: secret_god_matara_hidden_star_in_all_seasons
+    title: "Secret God Matara ~ Hidden Star in All Seasons"
+    path: "Touhou 16 OST - Secret God Matara ~ Hidden Star in All Seasons.brstm"
+    type: battle
 ...

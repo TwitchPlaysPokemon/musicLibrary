@@ -1,0 +1,19 @@
+--
+id: super_mario_bros_35
+title: "Super Mario Bros. 35"
+platform: "Switch"
+year: 2020
+songs: 
+  - id: menu_super_mario_bros_35
+    title: "Menu"
+    path: "013_BGM_MENU_200804.dspadpcm.bfstm"
+    type: betting
+  - id: result_a
+    title: "Result A"
+    path: "014_BGM_RESULT_A_200731.dspadpcm.bfstm"
+    type: result
+  - id: result_b
+    title: "Result B"
+    path: "015_BGM_RESULT_B_200731.dspadpcm.bfstm"
+    type: result
+...

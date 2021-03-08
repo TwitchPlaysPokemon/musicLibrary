@@ -1,0 +1,23 @@
+---
+id: ninjabread_man
+title: "Ninjabread Man"
+platform: ["PS2", "PC", "Wii"]
+year: 2005
+songs: 
+  - id: candy_cliffs
+    title: "Candy Cliffs"
+    path: "Candy Cliffs.brstm"
+    type: betting
+  - id: cookie_caves
+    title: "Cookie Caves"
+    path: "Cookie Caves.brstm"
+    type: betting
+  - id: menu_ninjabread_man
+    title: "Menu"
+    path: "Menu.brstm"
+    type: result
+  - id: training_dough_jo
+    title: "Training Dough-Jo"
+    path: "Training Dough-Jo_Lollipop Forest.brstm"
+    type: betting
+...

@@ -102,4 +102,9 @@ songs:
     path: "karaoke_bakamitai_akiyama_saejima.hca"
     ends: 2:00
     type: betting
+  - id: bakamitai_taxi_driver_edition
+    title: "Bakamitai [Taxi Driver Edition]"
+    path: "karaoke_bakamitai_inst_kiryu.brstm"
+    ends: 1:57
+    type: betting
 ...

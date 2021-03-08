@@ -1,0 +1,19 @@
+---
+id: don_t_starve
+title: "Don’t Starve"
+platform: "Various"
+year: 2013
+songs: 
+  - id: main
+    title: "Main"
+    path: "01 Main.brstm"
+    type: betting
+  - id: ragtime
+    title: "Ragtime"
+    path: "09 Ragtime.brstm"
+    type: break
+  - id: hoedown
+    title: "Hoedown"
+    path: "11 Hoedown.brstm"
+    type: result
+...

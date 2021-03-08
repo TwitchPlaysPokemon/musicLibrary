@@ -1,14 +1,20 @@
+---
 id: jak_ii
 title: "Jak II"
 series: jakanddaxter
 platform: "PS2"
 year: 2003
 songs: 
-  - id: haven_city_walking
-    title: "Haven City (Walking)"
+  - id: haven_exploration
+    title: "Haven Exploration"
     path: "Haven City (Walking).brstm"
     type: break
-  - id: haven_city_guard_pursuit
-    title: "Haven City (Guard Pursuit)"
+  - id: guard_pursuit
+    title: "Guard Pursuit"
     path: "Haven City (Guard Pursuit).brstm"
     type: warning
+  - id: metal_kor
+    title: "Metal Kor"
+    path: "finalbattlewithmetalkor.brstm"
+    type: battle
+...

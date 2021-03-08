@@ -4,56 +4,68 @@ title: "Xenoblade Chronicles X"
 series: xeno
 platform: "Wii U"
 year: 2015
-songs:
-  - id: n_l_a_new_los_angeles_day
-    title: "N市L街A (New Los Angeles Day)"
-    path: "x63_00.adx"
-    type: betting
-  - id: nofcotreisltum_noctilum_day
-    title: "NOfCoTreIsLtUM (Noctilum Day)"
-    path: "x67_00.adx"
-    type: betting
-  - id: nofcotreisltum_noctilum_night
-    title: "NOfCoTreIsLtUM (Noctilum Night)"
-    path: "x68_00.adx"
-    type: betting
-  - id: anrleaa_primordia_day
-    title: "aNrLeAa (Primordia Day)"
-    path: "x65_00.adx"
-    type: betting
-  - id: anrleaa_primordia_night
-    title: "aNrLeAa (Primordia Night)"
-    path: "x66_00.adx"
-    type: betting
-  - id: 46_ri9_sylvalum_day
-    title: "46-:ri9 (Sylvalum Day)"
-    path: "x71_00.adx"
-    tags: [xmas]
-    type: break
-  - id: 46_ri9_sylvalum_night
-    title: "46-:ri9 (Sylvalum Night)"
-    path: "x72_00.adx"
-    tags: [xmas]
-    type: betting
-  - id: no7_g_low_s_f_s_k_o
-    title: "no7=G-LOW-S→F.S.K.O"
-    path: "x05_00.adx"
-    type: betting
-  - id: aboresss
-    title: "aBOreSSs"
-    path: "x56_00.adx"
-    type: betting
+songs: 
   - id: no4_d91m
     title: "no4=D91M"
     path: "x26_00.adx"
     ends: 3:30
     type: betting
+  - id: no7_g_low_s_f_s_k_o
+    title: "no7=G-LOW-S→F.S.K.O"
+    path: "x05_00.adx"
+    type: betting
+  - id: wir_fliegen
+    title: "Wir fliegen"
+    path: "x49_00.adx"
+    type: battle
+  - id: black_tar
+    title: "Black tar"
+    path: "x61_00.adx"
+    type: battle
+  - id: uncontrollable
+    title: "Uncontrollable"
+    path: "x53_00.adx"
+    type: battle
+  - id: uncontrollable_instrumental
+    title: "Uncontrollable (Instrumental)"
+    path: "x53_01.adx"
+    type: battle
+  - id: n_l_a_1st_half_primordia_day
+    title: "N周L辺A 1st Half (Primordia - Day)"
+    path: "x65_00.adx"
+    type: betting
+  - id: n_l_a_2nd_half_primordia_night
+    title: "N周L辺A 2nd Half (Primordia - Night)"
+    path: "x66_00.adx"
+    type: betting
+  - id: n_ig_ht_l_1st_half_noctilum_day
+    title: "N木ig木ht木L 1st Half (Noctilum - Day)"
+    path: "x67_00.adx"
+    type: betting
+  - id: n_ig_ht_l_2nd_half_noctilum_night
+    title: "N木ig木ht木L 2nd Half (Noctilum - Night)"
+    path: "x68_00.adx"
+    type: betting
+  - id: n_l_a_1st_half_nla_day
+    title: "N市L街A 1st Half (NLA - Day)"
+    path: "x63_00.adx"
+    type: betting
+  - id: aboresss
+    title: "aBOreSSs"
+    path: "x56_00.adx"
+    type: battle
+  - id: 46_ri9_1st_half_sylvalum_day
+    title: "46-:ri9 1st Half (Sylvalum - Day)"
+    path: "x71_00.adx"
+    tags: [xmas]
+    type: break
+  - id: 46_ri9_2nd_half_sylvalum_night
+    title: "46-:ri9 2nd Half (Sylvalum - Night)"
+    path: "x72_00.adx"
+    tags: [xmas]
+    type: betting
   - id: rateorekisimeara
     title: "raTEoREkiSImeAra"
     path: "x57_00.adx"
-    type: betting
-  - id: uncontrollabl_instrumental
-    title: "Uncontrollable (Instrumental)"
-    path: "x53_01.adx"
     type: battle
 ...

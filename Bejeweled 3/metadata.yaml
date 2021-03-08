@@ -1,0 +1,82 @@
+--
+id: bejeweled_3
+title: "Bejeweled 3"
+platform: "Various"
+year: 2010
+songs: 
+  - id: bejeweled_3_theme
+    title: "Bejeweled 3 Theme"
+    path: "02 - Bejeweled 3 Theme.mp3"
+    ends: 1:38
+    type: betting
+  - id: classic_mode_part_1
+    title: "Classic Mode - Part 1"
+    path: "03 - Classic Mode - Part 1.mp3"
+    type: betting
+  - id: classic_mode_part_2
+    title: "Classic Mode - Part 2"
+    path: "04 - Classic Mode - Part 2.mp3"
+    type: betting
+  - id: classic_mode_part_3
+    title: "Classic Mode - Part 3"
+    path: "05 - Classic Mode - Part 3.mp3"
+    ends: 2:10
+    type: betting
+  - id: classic_mode_part_4
+    title: "Classic Mode - Part 4"
+    path: "06 - Classic Mode - Part 4.mp3"
+    ends: 2:21
+    type: betting
+  - id: kightning_aka_blitz
+    title: "Lightning (aka Blitz)"
+    path: "07 - Lightning (aka Blitz).mp3"
+    type: betting
+  - id: butterflies
+    title: "Butterflies"
+    path: "08 - Butterflies.mp3"
+    type: betting
+  - id: poker
+    title: "Poker"
+    path: "09 - Poker.mp3"
+    type: betting
+  - id: ice_storm
+    title: "Ice Storm"
+    path: "10 - Ice Storm.mp3"
+    type: betting
+  - id: zen_part_1
+    title: "Zen - Part 1"
+    path: "11 - Zen - Part 1.mp3"
+    type: betting
+  - id: zen_part_2_schein_zwei
+    title: "Zen - Part 2: Schein Zwei"
+    path: "12 - Zen - Part 2 - Schein Zwei.mp3"
+    type: betting
+  - id: zen_part_3_the_return
+    title: "Zen - Part 3: The Return"
+    path: "13 - Zen - Part 3 - The Return.mp3"
+    type: betting
+  - id: zen_part_4
+    title: "Zen - Part 4"
+    path: "14 - Zen - Part 4.mp3"
+    type: betting
+  - id: buried_treasure
+    title: "Buried Treasure"
+    path: "16 - Buried Treasure.mp3"
+    type: betting
+  - id: take_your_time
+    title: "Take Your Time"
+    path: "17 - Take Your Time.mp3"
+    type: betting
+  - id: turn_by_turn
+    title: "Turn by Turn"
+    path: "18 - Turn by Turn.mp3"
+    type: betting
+  - id: time_bombs
+    title: "Time Bombs"
+    path: "19 - Time Bombs.mp3"
+    type: betting
+  - id: game_over_bejeweled_3
+    title: "Game Over"
+    path: "Bejeweled 3 Game Over (Classic and Lightning).mp3"
+    type: result
+...

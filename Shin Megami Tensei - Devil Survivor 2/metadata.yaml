@@ -1,0 +1,33 @@
+---
+id: shin_megami_tensei_devil_survivor_2
+title: "Shin Megami Tensei: Devil Survivor 2"
+series: shinmegamitensei
+platform: "NDS"
+year: 2011
+songs:
+  - id: akashic_record
+    title: "Akashic Record"
+    path: "SMTDS2 - Akashic Record.brstm"
+    type: warning
+  - id: over_the_brink
+    title: "Over the Brink of Death"
+    path: "SMTDS2 - Over the Brink of Death.brstm"
+    type: result
+  - id: will_of_the_species
+    title: "Will of the Species"
+    path: "Will of the Species.brstm"
+    ends: 3:36
+    type: betting
+  - id: battle_of_the_brave_smtds2
+    title: "Battle of the Brave"
+    path: "Battle of the Brave.brstm"
+    type: betting
+  - id: septentrion_smtds2
+    title: "Septentrion"
+    path: "Septentrion.brstm"
+    type: betting
+  - id: heroes_don't_fear
+    title: "Heroes Don't Fear"
+    path: "Devil_Survivor_2-Heroes_Don't_Fear.brstm"
+    type: betting
+...

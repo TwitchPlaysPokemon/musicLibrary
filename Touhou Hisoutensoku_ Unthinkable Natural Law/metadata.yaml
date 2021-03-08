@@ -5,32 +5,40 @@ series: touhou
 platform: "PC"
 year: 2009
 songs: 
-  - id: love_coloured_magic_unl
-    title: "Marisa's Theme: Love-Coloured Magic"
-    path: "Love-Colored Magic.brstm"
-    type: betting
-  - id: faith_is_for_the_transient_people_unl
-    title: "Sanae's Theme: Faith is for the Transient People"
-    path: "Faith is for the Transient People.brstm"
-    type: battle
-  - id: dichromatic_lotus_butterfly_ancients_unl
-    title: "Reimu's Theme: Dichromatic Lotus Butterfly ~ Ancients"
-    path: "Dichromatic Lotus Butterfly ~ Ancients.brstm"
-    type: warning
-  - id: tomboyish_girl_in_love_unl
-    title: "Cirno's Theme: Tomboyish Girl in Love"
-    path: "Tomboyish Girl in Love.brstm"
-    type: warning
-  - id: the_grimoire_of_alice_unl
-    title: "Alice's Theme: The Grimoire of Alice"
-    path: "The Grimoire of Alice.brstm"
-    type: warning
   - id: memory_of_forgathering_dream_unl
     title: "Memory of Forgathering Dream"
-    path: "Memory of Forgathering Dream.brstm"
+    path: "02 Memory of Forgathering Dream [VS Select theme].sfl"
     type: break
   - id: the_scenery_of_living_dolls
     title: "The Scenery of Living Dolls"
-    path: "The Scenery of Living Dolls.brstm"
+    path: "05 The Scenery of Living Dolls [Pre-Battle].sfl"
     type: break
+  - id: faith_is_for_the_transient_people_unl
+    title: "Faith is for the Transient People"
+    path: "07 Faith Is for the Transient People [Sanae Kochiya's theme ~ Moriya Shrine].sfl"
+    type: battle
+  - id: tomboyish_girl_in_love_unl
+    title: "Tomboyish Girl in Love"
+    path: "08 Tomboyish Girl in Love [Cirno's theme ~ Around the Lake of Fog].sfl"
+    type: warning
+  - id: unknown_x_unfound_adventure
+    title: "Unknown X ~ Unfound Adventure"
+    path: "12 Unknown X ~ Unfound Adventure [Last Boss theme ~ Nuclear Reactor Fusion Core].sfl"
+    type: battle
+  - id: dichromatic_lotus_butterfly_ancients_unl
+    title: "Dichromatic Lotus Butterfly ~ Ancients"
+    path: "14 Dichromatic Lotus Butterfly ~ Ancients [Hakurei Reimu's theme ~ Pristine Hakurei Shrine].sfl"
+    type: warning
+  - id: love_coloured_magic_unl
+    title: "Love-Coloured Magic"
+    path: "15 Love-Colored Magic [Marisa Kirisame's theme ~ Kirisame Magic Shop new theme].sfl"
+    type: betting
+  - id: the_grimoire_of_alice_unl
+    title: "The Grimoire of Alice"
+    path: "16 The Grimoire of Alice [Alice Margatroid's theme ~ Forest of Dolls new theme].sfl"
+    type: betting
+  - id: unknown_x_unfound_adventure_arrange_ver
+    title: "Unknown X ~ Unfound Adventure (arrange ver.)"
+    path: "Unknown X _ Unfound Adventure.brstm"
+    type: betting
 ...

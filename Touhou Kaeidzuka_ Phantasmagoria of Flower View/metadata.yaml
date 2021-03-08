@@ -5,20 +5,88 @@ series: touhou
 platform: "PC"
 year: 2005
 songs: 
-  - id: higan_retour_riverside_view_house_set_ver
-    title: "Higan Retour ~ Riverside View (House Set Ver.)"
-    path: "Higan Retour (House Set Ver.).brstm"
+  - id: kaeidzuka_higan_retour
+    title: "Kaeidzuka ~ Higan Retour"
+    path: "th09_00.txtp"
     type: betting
+  - id: spring_lane_colorful_path
+    title: "Spring Lane ~ Colorful Path"
+    path: "th09_01.txtp"
+    type: betting
+  - id: oriental_dark_flight
+    title: "Oriental Dark Flight"
+    path: "th09_00b.txtp"
+    type: warning
   - id: flowering_night
     title: "Flowering Night"
-    path: "Sakuya's Theme_ Flowering Night.brstm"
+    path: "th09_02.txtp"
     type: battle
-  - id: wind_god_girl
-    title: "Wind God Girl"
-    path: "Wind God Girl.brstm"
+  - id: mystic_oriental_dream_ancient_temple
+    title: "Mystic Oriental Dream ~ Ancient Temple"
+    path: "th07_10_b.txtp"
+    type: betting
+  - id: lunatic_eyes_invisible_full_moon
+    title: "Lunatic Eyes ~ Invisible Full Moon"
+    path: "th08_12.txtp"
+    type: betting
+  - id: adventure_of_the_lovestruck_tomboy
+    title: "Adventure of the Lovestruck Tomboy"
+    path: "th09_05.txtp"
+    type: betting
+  - id: ghostly_band_phantom_ensemble
+    title: "Ghostly Band ~ Phantom Ensemble"
+    path: "th07_09.txtp"
+    type: betting
+  - id: deaf_to_all_but_the_song_flower_mix
+    title: "Deaf to all but the song ~ Flower Mix"
+    path: "th09_07.txtp"
     type: battle
+  - id: white_flag_of_usa_shrine
+    title: "White Flag of Usa Shrine"
+    path: "th09_10.txtp"
+    type: betting
+  - id: wind_god_girl_short_version
+    title: "Wind God Girl (Short Version)"
+    path: "th09_08_2.txtp"
+    type: battle
+  - id: poison_body_forsaken_doll
+    title: "Poison Body ~ Forsaken Doll"
+    path: "th09_12.txtp"
+    type: betting
+  - id: gensokyo_past_and_present_flower_land
+    title: "Gensokyo, Past and Present ~ Flower Land"
+    path: "th09_13.txtp"
+    type: betting
+  - id: higan_retour_riverside_view
+    title: "Higan Retour ~ Riverside View"
+    path: "th09_09.txtp"
+    type: betting
+  - id: eastern_judgment_in_the_sixtieth_year_fate_of_sixty_years
+    title: "Eastern Judgment in the Sixtieth Year ~ Fate of Sixty Years"
+    path: "th09_11.txtp"
+    type: battle
+  - id: the_mound_where_the_flowers_reflect
+    title: "The Mound where the Flowers Reflect"
+    path: "th09_00c.txtp"
+    type: break
+  - id: mound_of_life
+    title: "Mound of Life"
+    path: "th09_15.txtp"
+    type: warning
+  - id: the_flower_like_the_fantasy
+    title: "The Flower Like the Fantasy"
+    path: "th09_14.txtp"
+    type: betting
+  - id: flower_of_soul_another_dream
+    title: "Flower of Soul ~ Another Dream..."
+    path: "th09_17.txtp"
+    type: betting
   - id: night_of_nights_arrange_by_beatmario
     title: "Night of Nights (beatMARIO Arrange)"
     path: "Night of Nights.brstm"
     type: battle
+  - id: higan_retour_riverside_view_house_set_ver
+    title: "Higan Retour ~ Riverside View (House Set Ver.)"
+    path: "Higan Retour (House Set Ver.).brstm"
+    type: betting
 ...

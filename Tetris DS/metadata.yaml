@@ -1,0 +1,23 @@
+--
+id: tetris_ds
+title: "Tetris DS"
+platform: "NDS"
+year: 2006
+songs: 
+  - id: mario_tetris
+    title: "Mario Tetris"
+    path: "01 Mario Tetris.mini2sf"
+    type: betting
+  - id: mario_link_and_yoshi_title_screen
+    title: "Mario, Link, and Yoshi (Title Screen)"
+    path: "12 Mario, Link, and Yoshi (Title Screen).mini2sf"
+    type: result
+  - id: mario_tetris_3
+    title: "Mario Tetris 3"
+    path: "14 Mario Tetris 3.mini2sf"
+    type: betting
+  - id: star_tetris
+    title: "Star Tetris"
+    path: "35 Star Tetris.mini2sf"
+    type: warning
+...

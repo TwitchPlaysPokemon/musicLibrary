@@ -9,44 +9,48 @@ songs:
     title: "Darkness of Fear"
     path: "Darkness of Fear.brstm"
     type: battle
+  - id: vampire_killer_castlevania_judgment
+    title: "Vampire Killer"
+    path: "Vampire Killer.brstm"
+    type: battle
   - id: bloody_tears
     title: "Bloody Tears"
     path: "Bloody Tears.brstm"
     type: battle
-  - id: vampire_killer_2008
-    title: "Vampire Killer"
-    path: "Vampire Killer.brstm"
-    type: battle
-  - id: beginning
+  - id: beginning_castlevania_judgment
     title: "Beginning"
     path: "Beginning.brstm"
     type: betting
-  - id: clockwork
-    title: "Clockwork"
+  - id: clock_work
+    title: "Clock Work"
     path: "Clockwork.brstm"
-    type: betting
-  - id: an_empty_tome_judgement
-    title: "An Empty Tome"
-    path: "An Empty Tome.brstm"
-    type: betting
-  - id: iron_blue_intention_judgement
-    title: "Iron Blue Intention"
-    path: "Iron Blue Intention.brstm"
     type: betting
   - id: tower_of_dolls
     title: "Tower of Dolls"
     path: "Tower of Dolls.brstm"
     type: battle
-  - id: dance_of_illusions_judgement
-    title: "Dance of Illusions"
-    path: "bgm12.brstm"
+  - id: the_wolf_revealed
+    title: "The Wolf Revealed"
+    path: "bgm19.brstm"
     type: battle
   - id: dracula_s_castle
     title: "Dracula's Castle"
     path: "bgm11.brstm"
     type: battle
-  - id: the_wolf_revealed
-    title: "The Wolf Revealed"
-    path: "bgm19.brstm"
+  - id: iron_blue_intention_castlevania_judgment
+    title: "Iron Blue Intention"
+    path: "Iron Blue Intention.brstm"
+    type: betting
+  - id: dance_of_illusions_castlevania_judgment
+    title: "Dance of Illusions"
+    path: "bgm12.brstm"
     type: battle
+  - id: dance_of_illusions
+    title: "Dance Of Illusions"
+    path: "bgm12.brstm"
+    type: battle
+  - id: an_empty_tome_castlevania_judgment
+    title: "An Empty Tome"
+    path: "An Empty Tome.brstm"
+    type: betting
 ...

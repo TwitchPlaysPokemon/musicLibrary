@@ -16,7 +16,7 @@ songs:
   - id: shoutoku_legend_true_administrator_ulil
     title: "Shoutoku Legend ~ True Administrator"
     path: "Shoutoku Legend ~ True Administrator.brstm"
-    type: betting
+    type: battle
   - id: dichromatic_lotus_butterfly_red_and_white_ulil
     title: "Dichromatic Lotus Butterfly ~ Red and White"
     path: "Dichromatic Lotus Butterfly ~ Red and White.brstm"
@@ -73,4 +73,45 @@ songs:
     title: "Occult à la Carte"
     path: "Occult to the Menu.brstm"
     type: battle
+  - id: akasareru_shinpi
+    title: "Akasareru Shinpi"
+    path: "Akasareru Shinpi.brstm"
+    ends: 2:19
+    type: betting
+  - id: arrival_of_the_winds_of_the_era
+    title: "Arrival of the Winds of the Era"
+    path: "Arrival of the Winds of the Era.brstm"
+    type: warning
+  - id: battlefield_of_hanahazama_arrange_ver
+    title: "Battlefield of Hanahazama (arrange ver.)"
+    path: "Battlefield of Hanahazama (CD Arrange).brstm"
+    type: betting
+  - id: believe_in_possibilities
+    title: "Believe in Possibilities"
+    path: "Believe in Possibilities.brstm"
+    type: result
+  - id: each_ending
+    title: "Each Ending"
+    path: "Each Ending.brstm"
+    type: warning
+  - id: forms_of_manifested_folklore
+    title: "Forms of Manifested Folklore"
+    path: "Forms of Manifested Folklore.brstm"
+    type: result
+  - id: last_occultism_cd_arrange_ver
+    title: "Last Occultism (arrange ver.)"
+    path: "Last Occultism (CD Arrange).brstm"
+    type: betting
+  - id: seven_orb_collection_showdown
+    title: "Seven-Orb Collection Showdown"
+    path: "Seven-Orb Collection Showdown.brstm"
+    type: betting
+  - id: the_value_is_unrealized
+    title: "The Value is Unrealized"
+    path: "The Value is Unrealized.brstm"
+    type: warning
+  - id: those_who_know_the_truth
+    title: "Those who Know the Truth"
+    path: "Those who Know the Truth.brstm"
+    type: warning
 ...

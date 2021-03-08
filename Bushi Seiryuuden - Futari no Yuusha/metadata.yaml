@@ -4,6 +4,10 @@ title: "Bushi Seiryūden: Futari no Yūsha"
 platform: "SFC"
 year: 1997
 songs: 
+  - id: boss_with_earthshaker
+    title: "Battle with Earthshaker"
+    path: "35 Battle with Earthshaker.spc"
+    type: battle
   - id: boss_battle_with_shionchou
     title: "Boss Battle with Shionchou"
     path: "51 Boss Battle with Shionchou.spc"

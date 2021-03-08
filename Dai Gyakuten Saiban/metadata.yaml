@@ -1,54 +1,72 @@
+---
 id: dai_gyakuten_saiban
-platform: "3DS"
 title: "Dai Gyakuten Saiban: Naruhodō Ryūnosuke no Bōken"
 series: aceattorney
+platform: "3DS"
 year: 2015
 songs: 
+  - id: asougi_kazuma_samurai_with_a_mission
+    title: "Asougi Kazuma ~Samurai with a Mission"
+    path: "10_asougi_theme.mca"
+    type: betting
+  - id: the_great_cross_examination_allegro
+    title: "The Great Cross-Examination ~Allegro"
+    path: "35_jinmon_2.mca"
+    type: betting
   - id: naruhodou_ryuunosuke_objection
-    path: "Naruhodou Ryuunosuke ~ Objection!.brstm"
-    title: "Naruhodou Ryuunosuke ~ Objection!"
+    title: "Naruhodou Ryuunosuke ~Objection!"
+    path: "12_naruhodo_igiari.mca"
     type: result
-  - id: sherlock_holmes_detective_of_the_foggy_town
-    path: "Sherlock Holmes ~ The Great Detective of the Foggy Town.brstm"
-    title: "Sherlock Holmes ~ The Great Detective of the Foggy Town"
-    type: betting
-  - id: won_the_case_the_great_turnabout_for_my_friend
-    path: "Won the Case! ~ The Great Turnabout for My Friend.brstm"
-    title: "Won the Case! ~ The Great Turnabout for My Friend"
-    type: betting
+  - id: confess_the_truth_adventure_version
+    title: "Confess the Truth [Adventure Version]"
+    path: "36_shinjitsu.mca"
+    type: warning
+  - id: omen_dgs
+    title: "Omen"
+    path: "kyoutou.mca"
+    type: warning
+  - id: mikotoba_susato_blooming_flower_in_the_new_world
+    title: "Mikotoba Susato ~Blooming Flower in the New World"
+    path: "21_susato_theme.mca"
+    type: break
+  - id: the_core
+    title: "The Core"
+    path: "45_sousa_kakushin.mca"
+    type: warning
   - id: asougi_kazuma_nocturne
-    path: "Asougi Kazuma ~ Nocturne.brstm"
-    title: "Asougi Kazuma ~ Nocturne"
+    title: "Asougi Kazuma ~Nocturne"
+    path: "asougi_kaisou.mca"
+    type: betting
+  - id: sherlock_holmes_detective_of_the_foggy_town
+    title: "Sherlock Holmes ~The Great Detective of the Foggy Town"
+    path: "20_holmes_theme.mca"
+    type: betting
+  - id: barok_van_zieks_grim_reaper_of_the_great_court
+    title: "Barok van Zieks ~Grim Reaper of the Great Court"
+    path: "25_rivalkenji_theme.mca"
     type: betting
   - id: closing_argument_dgs
-    path: "Closing Argument.brstm"
     title: "Closing Argument"
-    type: betting
-  - id: confess_the_truth_adventure_version
-    path: "Confess the Truth [Adventure Version].brstm"
-    title: "Confess the Truth [Adventure Version]"
-    type: warning
-  - id: asougi_kazuma_samurai_with_a_mission
-    path: "Asougi Kazuma ~ Samurai with a Mission.brstm"
-    title: "Asougi Kazuma ~ Samurai with a Mission"
-    type: betting
-  - id: mikotoba_susato_blooming_flower_in_the_new_world
-    path: "Mikotoba Susato ~ Blooming Flower in the New World.brstm"
-    title: "Mikotoba Susato ~ Blooming Flower in the New World"
-    type: break
-  - id: omen_dgs
-    path: "Omen.brstm"
-    title: "Omen"
-    type: warning
-  - id: pursuit_time_for_a_great_turnabout
-    path: "Pursuit ~ Time for a Great Turnabout.brstm"
-    title: "Pursuit ~ Time for a Great Turnabout"
-    type: battle
-  - id: the_great_cross_examination_allegro
-    path: "The Great Cross-Examination ~ Allegro.brstm"
-    title: "The Great Cross-Examination ~ Allegro"
+    path: "40_baishin_battle.mca"
     type: betting
   - id: tobias_gregson_the_enemy_of_great_detective
-    path: "Tobias Gregson ~ The Enemy of Great Detective.brstm"
-    title: "Tobias Gregson ~ The Enemy of Great Detective"
+    title: "Tobias Gregson ~The Enemy of Great Detective"
+    path: "49_scotland_theme.mca"
     type: betting
+  - id: detention_center_rhapsody_of_darkness
+    title: "Detention Center ~Rhapsody of Darkness"
+    path: "46_ryuuchijo.mca"
+    type: break
+  - id: iris_watson_the_little_biographer
+    title: "Iris Watson ~The Little Biographer"
+    path: "24_watson_theme.mca"
+    type: betting
+  - id: pursuit_time_for_a_great_turnabout
+    title: "Pursuit ~Time for a Great Turnabout"
+    path: "14_tsuikyuu.mca"
+    type: battle
+  - id: won_the_case_the_great_turnabout_for_my_friend
+    title: "Won the Case ~The Great Turnabout for My Friend"
+    path: "37_syouso.mca"
+    type: betting
+...

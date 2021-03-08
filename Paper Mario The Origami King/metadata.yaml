@@ -1,0 +1,15 @@
+---
+id: paper_mario_the_origami_king
+title: "Paper Mario: The Origami King"
+platform: "Switch"
+year: 2020
+songs: 
+  - id: red_streamer_battle_theme
+    title: "Red Streamer Battle Theme"
+    path: ".brstm"
+    type: battle
+  - id: autumn_mountain_battle
+    title: "Autumn Mountain Battle"
+    path: "Autumn Mountain Battle.brstm"
+    type: battle
+...

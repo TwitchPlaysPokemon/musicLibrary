@@ -1,0 +1,20 @@
+---
+id: shin_megami_tensei_digital_devil_saga_2
+title: "Shin Megami Tensei: Digital Devil Saga 2"
+series: shinmegamitensei
+platform: "PS2"
+year: 2004
+songs:
+  - id: battle_for_survival
+    title: "Battle for Survival"
+    path: "SMTDDS2 - Battle for Survival.brstm"
+    type: battle
+  - id: madness
+    title: "Madness"
+    path: "Shin_Megami_Tensei_Digital_Devil_Saga_2-Madness.brstm"
+    type: warning
+  - id: divine_identity
+    title: "Divine Identity"
+    path: "Divine Identity.brstm"
+    type: warning
+...

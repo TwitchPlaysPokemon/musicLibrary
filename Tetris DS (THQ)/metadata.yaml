@@ -1,0 +1,55 @@
+--
+id: tetris_ds_thq
+title: "Tetris DS (THQ)"
+platform: "NDS"
+year: Unreleased
+songs: 
+  - id: qame_over_tetris_ds_thq
+    title: "Game Over"
+    path: "BGM_MENU_02.mini2sf"
+    type: result
+  - id: kalinka_techno
+    title: "Kalinka Techno"
+    path: "BGM_PLAY_02.mini2sf"
+    type: betting
+  - id: katsusha_retro
+    title: "Katsusha Retro"
+    path: "BGM_PLAY_04.mini2sf"
+    type: result
+  - id: main_menu_tetris_ds_thq
+    title: "Main Menu"
+    path: "BGM_MENU_01.mini2sf"
+    type: warning
+  - id: original
+    title: "Original"
+    path: "BGM_PLAY_07.mini2sf"
+    type: betting
+  - id: original_artcore
+    title: "Original Artcore"
+    path: "BGM_PLAY_05.mini2sf"
+    type: betting
+  - id: original_pop
+    title: "Original POP"
+    path: "BGM_PLAY_08.mini2sf"
+    type: betting
+  - id: original_trans
+    title: "Original Trans"
+    path: "BGM_PLAY_06.mini2sf"
+    type: betting
+  - id: title_tetris_ds_thq
+    title: "Title"
+    path: "BGM_OPENING.mini2sf"
+    type: betting
+  - id: troika_retro
+    title: "Troika Retro"
+    path: "BGM_PLAY_03.mini2sf"
+    type: betting
+  - id: troika_ska
+    title: "Troika Ska"
+    path: "BGM_PLAY_01.mini2sf"
+    type: warning
+  - id: troika_standard
+    title: "Troika Standard"
+    path: "BGM_PLAY_00.mini2sf"
+    type: betting
+...

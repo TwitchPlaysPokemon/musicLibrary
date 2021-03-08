@@ -1,0 +1,15 @@
+--
+id: fighter_s_history_mizoguchi_kiki_ippatsu
+title: "Fighter's History: Mizoguchi Kiki Ippatsu!!"
+platform: "SFC"
+year: 1995
+songs: 
+  - id: atmoic_runner_chelnov_stage
+    title: "ATOMIC RUNNER (Chelnov Stage)"
+    path: "20 Chelnov.spc"
+    type: battle
+  - id: mizoguchi_love_theme
+    title: "Mizoguchi Love Theme"
+    path: "23 Story.spc"
+    type: result
+...

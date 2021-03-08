@@ -12,6 +12,10 @@ songs:
     title: "Arctic Plunge"
     path: "Arctic Plunge.brstm"
     type: betting
+  - id: aurora_glacier
+    title: "Aurora Glacier"
+    path: "Aurora Glacier.brstm"
+    type: betting
   - id: clock_tower_donkey_kong_jungle_beat
     title: "Clock Tower"
     path: "Clock Tower.brstm"
@@ -64,9 +68,17 @@ songs:
     title: "Ninja Kong - Intro"
     path: "Ninja Kong - Intro.brstm"
     type: warning
+  - id: primeval_ruins
+    title: "Primeval Ruins"
+    path: "Primeval Ruins.brstm"
+    type: betting
   - id: rumble_falls
     title: "Rumble Falls"
     path: "Rumble Falls.brstm"
+    type: betting
+  - id: sky_garden_helibird_nest
+    title: "Sky Garden - Helibird Nest"
+    path: "Sky Garden - Helibird Nest.brstm"
     type: betting
   - id: spirit_tree
     title: "Spirit Tree"

@@ -1,0 +1,37 @@
+--
+id: hypnospace_outlaw
+title: "Hypnospace Outlaw"
+platform: "Various"
+year: 2019
+songs: 
+  - id: tuba_buffet_s_brass_shade
+    title: "Tuba Buffet's Brass Shade"
+    path: "06 Tuba Buffet's Brass Shade.brstm"
+    type: warning
+  - id: dimensional_voyager
+    title: "Dimensional Voyager"
+    path: "10 Dimensional Voyager.brstm"
+    type: betting
+  - id: hypnospace_2_0
+    title: "Hypnospace 2.0"
+    path: "11 Hypnospace 2.0.brstm"
+    ends: 1:58
+    type: betting
+  - id: leather_jacket_man
+    title: "Leather Jacket Man"
+    path: "15 Leather Jacket Man.brstm"
+    type: warning
+  - id: a_child_s_melody
+    title: "A Child's Melody"
+    path: "22 A Child's Melody.brstm"
+    type: betting
+  - id: millennium_anthem_hsm_version
+    title: "Millennium Anthem (.hsm version)"
+    path: "49 Millennium Anthem (.hsm version).brstm"
+    type: betting
+  - id: nothing_left_for_me_seepage
+    title: "Nothing Left for Me (Seepage)"
+    path: "seepage-nothingleftforme.logg"
+    ends: 1:50
+    type: betting
+...

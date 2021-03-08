@@ -6,7 +6,7 @@ platform: "PC"
 year: 2015
 songs:
   - id: the_space_shrine_maiden_appears
-    title: "Title Screen: The Space Shrine Maiden Appears"
+    title: "The Space Shrine Maiden Appears"
     path: "The Space Shrine Maiden Appears.brstm"
     type: betting
   - id: the_lake_reflects_the_cleansed_moonlight
@@ -26,38 +26,38 @@ songs:
     title: "The Sea Where One's Home Planet Reflects"
     path: "LoLKTheSeaWhereOnesHomePlanetReflects.brstm"
     type: betting
-  - id: the_rabbit_has_landed_dbu
-    title: "The Rabbit Has Landed (dBU Music)"
+  - id: the_rabbit_has_landed_dbu_arrange
+    title: "The Rabbit Has Landed (dBU arrange)"
     path: "The Rabbit Has Landed.brstm"
     type: battle
-  - id: junkos_theme_pure_furies_whereabouts_of_the_heart
-    title: "Junko's Theme: Pure Furies ~ Whereabouts of the Heart"
+  - id: pure_furies_whereabouts_of_the_heart
+    title: "Pure Furies ~ Whereabouts of the Heart"
     path: "LoLKJunkoThemePureFuriesWhereaboutsoftheHeart.brstm"
     type: battle
-  - id: junkos_theme_pure_furies_whereabouts_of_the_heart_arrange_by_dbu
-    title: "Junko's theme: Pure Furies ~ Whereabouts of the Heart (arrange by dBu)"
+  - id: pure_furies_whereabouts_of_the_heart_dbu_arrange
+    title: "Pure Furies ~ Whereabouts of the Heart (dBu arrange)"
     path: "dBu - Pure Furies.brstm"
     type: battle
-  - id: clownpieces_theme_pierrot_of_the_star_spangled_banner_arrange_by_demetori
-    title: "Clownpiece's theme: Pierrot of the Star-Spangled Banner (arrange by Demetori)"
+  - id: clownpieces_theme_pierrot_of_the_star_spangled_banner_demetori_arrange
+    title: "Pierrot of the Star-Spangled Banner (Demetori arrange)"
     path: "Demetori - The MadPiero Laughs.brstm"
     type: battle
-  - id: junkos_theme_pure_furies_whereabouts_of_the_heart_arrange_by_demetori
-    title: "Junko's theme: Pure Furies ~ Whereabouts of the Heart (arrange by Demetori)"
+  - id: pure_furies_whereabouts_of_the_heart_arrange_by_demetori
+    title: "Pure Furies ~ Whereabouts of the Heart (Demetori arrange)"
     path: "Demetori - Vengeance is Mine.brstm"
     type: battle
-  - id: ringos_theme_pumpkin_of_september
-    title: "Ringo's Theme: Pumpkin of September"
+  - id: september_pumpkin
+    title: "September Pumpkin"
     path: "Pumpkin of September.brstm"
     type: warning
   - id: the_mysterious_shrine_maiden_flying_through_space
     title: "The Mysterious Shrine Maiden Flying Through Space"
     path: "LoLKStage3ThemeTheMysteriousShrineMaidenFlyingThroughSpace.brstm"
-    type: warning
+    type: battle
   - id: pierrot_of_the_star_spangled_banner
-    title: "Clownpiece's Theme: Pierrot of the Star-Spangled Banner"
+    title: "Pierrot of the Star-Spangled Banner"
     path: "Pierrot of the Star Spangled Banner.brstm"
-    type: warning
+    type: battle
   - id: the_moon_as_seen_from_the_shrine
     title: "The Moon as Seen from the Shrine"
     path: "The Moon as Seen from the Shrine.brstm"
@@ -65,5 +65,9 @@ songs:
   - id: pandemonic_planet
     title: "Pandemonic Planet"
     path: "Pandemonic Planet.brstm"
+    type: battle
+  - id: the_wheel_of_fortune_turning_over
+    title: "The Wheel of Fortune Turning Over"
+    path: "The Reversed Wheel of Fortune.brstm"
     type: battle
 ...

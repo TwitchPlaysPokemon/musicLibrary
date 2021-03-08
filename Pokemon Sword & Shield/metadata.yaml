@@ -357,4 +357,8 @@ songs:
     title: "Energy Plant"
     path: "Energy Plant.brstm"
     type: warning
+  - id: battle_peony
+    title: "Battle! (Peony)"
+    path: "Battle! (Peony).brstm"
+    type: battle
 ...

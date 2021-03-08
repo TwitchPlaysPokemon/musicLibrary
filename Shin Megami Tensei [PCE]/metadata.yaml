@@ -1,0 +1,16 @@
+---
+id: shin_megami_tensei_pce_cd
+title: "Shin Megami Tensei [PCE CD]"
+series: shinmegamitensei
+platform: Various
+year: 1993
+songs: 
+  - id: dream_shin_megami_tensei
+    title: "Dream"
+    path: "01 Dream.vgz"
+    type: warning
+  - id: home_shin_megami_tensei
+    title: "Home"
+    path: "02 Home.vgz"
+    type: break
+...

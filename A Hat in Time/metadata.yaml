@@ -1,7 +1,7 @@
 ---
 id: a_hat_in_time
 title: "A Hat in Time"
-platform: ["PC", "PS4", "XB1"]
+platform: Various
 year: 2017
 songs: 
   - id: title_screen_a_hat_in_time
@@ -501,6 +501,10 @@ songs:
     title: "Bird Sanctuary [Death Wish]"
     path: "Death Wish - Bird Sanctuary.brstm"
     type: betting
+  - id: boss_anticipation_death_wish
+    title: "Boss Anticipation [Death Wish]"
+    path: "Death Wish - Boss Anticipation.brstm"
+    type: warning
   - id: boss_death_wish
     title: "Boss [Death Wish]"
     path: "Death Wish - Boss.brstm"
@@ -549,4 +553,8 @@ songs:
     title: "Ship Shape [The Arctic Cruise]"
     path: "The Arctic Cruise - Ship Shape.brstm"
     type: betting
+  - id: 
+    title: ""
+    path: ".brstm"
+    type: 
 ...

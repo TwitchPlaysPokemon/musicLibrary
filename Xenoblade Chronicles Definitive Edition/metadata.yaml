@@ -4,6 +4,14 @@ title: "Xenoblade Chronicles: Definitive Edition"
 platform: "Switch"
 year: 2020
 songs: 
+  - id: bionis_shoulder
+    title: "Bionis' Shoulder"
+    path: "242696794.wem"
+    type: break
+  - id: bionis_shoulder_night
+    title: "Bionis' Shoulder (Night)"
+    path: "148957989.wem"
+    type: break
   - id: time_to_fight_bionis_shoulder
     title: "Time to Fight! (Bionis' Shoulder)"
     path: "179046185.wem"
@@ -11,5 +19,153 @@ songs:
   - id: fogbeasts
     title: "Fogbeasts"
     path: "120228955.wem"
+    type: battle
+  - id: gran_dell
+    title: "Gran Dell"
+    path: "106152103.wem"
+    type: break
+  - id: gran_dell_night
+    title: "Gran Dell (Night)"
+    path: "756172798.wem"
+    type: break
+  - id: engage_the_enemy_de
+    title: "Engage the Enemy"
+    path: "932109089.wem"
+    type: betting
+  - id: a_tragic_decision_de
+    title: "A Tragic Decision"
+    path: "319256271.wem"
+    type: battle
+  - id: zanza_the_divine_de
+    title: "Zanza the Divine"
+    path: "556621459.wem"
+    type: battle
+  - id: colony_9_de
+    title: "Colony 9"
+    path: "986743606.wem"
+    type: betting
+  - id: colony_9_night_de
+    title: "Colony 9 (Night)"
+    path: "788057035.wem"
+    type: break
+  - id: time_to_fight_de
+    title: "Time to Fight!"
+    path: "670188534.wem"
+    type: battle
+  - id: tephra_cave_de
+    title: "Tephra Cave"
+    path: "264353584.wem"
+    type: betting
+  - id: gaur_plains_de
+    title: "Gaur Plains"
+    path: "1040189021.wem"
+    type: betting
+  - id: gaur_plains_night_de
+    title: "Gaur Plain (Night)"
+    path: "1027703067.wem"
+    type: break
+  - id: in_the_refugee_camp_de
+    title: "In the Refugee Camp"
+    path: "383625790.wem"
+    type: break
+  - id: an_obstacle_in_our_path_de
+    title: "An Obstacle in Our Path"
+    path: "971450303.wem"
+    type: battle
+  - id: satorl_marsh_night_de
+    title: "Satorl Marsh (Night)"
+    path: "436915415.wem"
+    type: betting
+  - id: forest_of_the_nopon_de
+    title: "Forest of the Nopon"
+    path: "999473895.wem"
+    type: betting
+  - id: forest_of_the_nopon_night_de
+    title: "Forest of the Nopon (Night)"
+    path: "229055338.wem"
+    type: break
+  - id: frontier_village_de
+    title: "Frontier Village"
+    path: "379716318.wem"
+    type: betting
+  - id: eryth_sea_de
+    title: "Eryth Sea"
+    path: "473996177.wem"
+    type: break
+  - id: eryth_sea_night_de
+    title: "Eryth Sea (Night)"
+    path: "327513560.wem"
+    type: break
+  - id: visions_of_the_future_de
+    title: "Visions of the Future"
+    path: "890738225.wem"
+    type: battle
+  - id: valak_mountain_de
+    title: "Valak Mountain"
+    path: "609746701.wem"
+    type: break
+  - id: valak_mountain_night_de
+    title: "Valak Mountain (Night)"
+    path: "683759796.wem"
+    type: break
+  - id: sword_valley_de
+    title: "Sword Valley"
+    path: "875040931.wem"
+    type: betting
+  - id: sword_valley_night_de
+    title: "Sword Valley (Night)"
+    path: "80754017.wem"
+    type: betting
+  - id: galahad_fortress_de
+    title: "Galahad Fortress"
+    path: "35398692.wem"
+    type: betting
+  - id: you_will_know_our_names_de
+    title: "You Will Know Our Names"
+    path: "182959614.wem"
+    type: battle
+  - id: the_fallen_land_de
+    title: "The Fallen Land"
+    path: "1034881634.wem"
+    type: break
+  - id: the_fallen_land_night_de
+    title: "The Fallen Land (Night)"
+    path: "766332243.wem"
+    type: break
+  - id: hidden_machina_village_de
+    title: "Hidden Machina Village"
+    path: "683084963.wem"
+    type: betting
+  - id: mechanical_rhythm_de
+    title: "Mechanical Rhythm"
+    path: "822330264.wem"
+    type: battle
+  - id: agniratha_night_capital_de
+    title: "Agniratha, Mechonis Capital"
+    path: "328698473.wem"
+    type: break
+  - id: agniratha_night_de
+    title: "Agniratha (Night)"
+    path: "860449910.wem"
+    type: break
+  - id: central_factory_de
+    title: "Central Factory"
+    path: "495219187.wem"
+    type: betting
+  - id: irregular_bound_de
+    title: "Irregular Bound"
+    path: "117014926.wem"
+    type: warning
+  - id: bionis_interior_pulse_de
+    title: "Bionis' Interior (Pulse)"
+    path: "408798060.wem"
+    type: betting
+  - id: the_end_lies_ahead_de
+    title: "The End Lies Ahead"
+    path: "915984883.wem"
+    type: betting
+  - id: zanza_s_world_de
+    title: "Zanza's World"
+    path: "137527001.wem"
     type: battle
 ...

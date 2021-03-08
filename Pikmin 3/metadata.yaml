@@ -1,10 +1,60 @@
+---
 id: pikmin_3
 title: "Pikmin 3"
 series: pikmin
 platform: "Wii U"
 year: 2013
 songs:
-  - id: garden_of_hope 
-    title: "Garden of Hope "
-    path: "Garden of Hope.brstm"
+  - id: tropical_wilds
+    title: "Tropical Wilds"
+    path: "STRM_BGM_mapA_Day.bfstm#C1,2.txtp"
     type: betting
+  - id: tropical_wilds_morning
+    title: "Tropical Wilds (Morning)"
+    path: "STRM_BGM_mapA_Morning.bfstm#C1,2.txtp"
+    type: betting
+  - id: garden_of_hope
+    title: "Garden of Hope"
+    path: "STRM_BGM_mapB_Day.bfstm#C1,2.txtp"
+    type: betting
+  - id: garden_of_hope_morning
+    title: "Garden of Hope (Morning)"
+    path: "STRM_BGM_mapB_Morning.bfstm#C1,2.txtp"
+    type: betting
+  - id: twilight_river
+    title: "Twilight River"
+    path: "STRM_BGM_mapD_Day.bfstm#C1,2.txtp"
+    type: betting
+  - id: twilight_river_morning
+    title: "Twilight River (Morning)"
+    path: "STRM_BGM_mapD_Morning.bfstm#C1,2.txtp"
+    type: betting
+  - id: bingo_battle_metallic
+    title: "Bingo Battle (Metallic)"
+    path: "STRM_BGM_VsBlues.bfstm#C1,2.txtp"
+    type: betting
+  - id: bingo_battle_nature
+    title: "Bingo Battle (Nature)"
+    path: "STRM_BGM_Vs.bfstm#C1,2.txtp"
+    type: betting
+  - id: bingo_battle_menu
+    title: "Bingo Battle Menu"
+    path: "Vsselect.aa.48.dspadpcm.bfstm"
+    type: betting
+  - id: boss_battle_pikmin_3
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: warning
+  - id: midboss_battle
+    title: "Midboss Battle!"
+    path: "072 Midboss Battle!.brstm"
+    type: battle
+  - id: mission_mode_levels_1_10
+    title: "Mission Mode Levels 1-10"
+    path: "STRM_BGM_Mission_Poko.bfstm#C1,2.txtp"
+    type: betting
+  - id: plasm_wraith
+    title: "Plasm Wraith"
+    path: "Metaboss02.aa.32.dspadpcm.bfstm"
+    type: battle
+...

@@ -1,0 +1,175 @@
+---
+id: pokemon_red_and_blue_versions
+title: "Pokémon Red and Blue Versions"
+platform: "GB"
+year: 1996
+songs: 
+  - id: title_screen_pokemon_red_and_blue
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: pallet_town_theme
+    title: "Pallet Town Theme"
+    path: "03 Pallet Town Theme.vgz"
+    type: betting
+  - id: professor_oak
+    title: "Professor Oak"
+    path: "04 Professor Oak.vgz"
+    type: warning
+  - id: professor_oak_s_laboratory
+    title: "Professor Oak's Laboratory"
+    path: "05 Professor Oak's Laboratory.vgz"
+    type: result
+  - id: a_rival_appears
+    title: "A Rival Appears"
+    path: "06 A Rival Appears.vgz"
+    type: warning
+  - id: road_to_viridian_city_leaving_pallet_town
+    title: "Road to Viridian City: Leaving Pallet Town"
+    path: "07 Road to Viridian City - Leaving Pallet Town.vgz"
+    type: betting
+  - id: battle_wild_pokemon_pokemon_red_and_blue
+    title: "Battle! (Wild Pokémon)"
+    path: "08 Battle! (Wild Pokemon).vgz"
+    type: battle
+  - id: victory_wild_pokemon_pokemon_red_and_blue
+    title: "Victory! (Wild Pokémon)"
+    path: "09 Victory! (Wild Pokemon).vgz"
+    type: result
+  - id: pewter_city_theme
+    title: "Pewter City Theme"
+    path: "10 Pewter City Theme.vgz"
+    type: betting
+  - id: pokemon_center_pokemon_red_and_blue
+    title: "Pokémon Center"
+    path: "11 Pokemon Center.vgz"
+    type: betting
+  - id: viridian_forest
+    title: "Viridian Forest"
+    path: "13 Viridian Forest.vgz"
+    type: betting
+  - id: guide
+    title: "Guide"
+    path: "14 Guide.vgz"
+    type: warning
+  - id: a_trainer_appears_girl_version
+    title: "A Trainer Appears (Girl Version)"
+    path: "15 A Trainer Appears (Girl Version).vgz"
+    type: warning
+  - id: battle_trainer_battle
+    title: "Battle! (Trainer Battle)"
+    path: "16 Battle! (Trainer Battle).vgz"
+    type: battle
+  - id: victory_trainer_battle
+    title: "Victory! (Trainer Battle)"
+    path: "17 Victory! (Trainer Battle).vgz"
+    type: result
+  - id: caves_of_mt_moon
+    title: "Caves of Mt. Moon"
+    path: "18 Caves of Mt. Moon.vgz"
+    type: betting
+  - id: road_to_cerulean_city_leaving_mt_moon
+    title: "Road to Cerulean City: Leaving Mt. Moon"
+    path: "19 Road to Cerulean City - Leaving Mt. Moon.vgz"
+    type: betting
+  - id: cerulean_city_theme
+    title: "Cerulean City Theme"
+    path: "20 Cerulean City Theme.vgz"
+    type: betting
+  - id: pokemon_gym
+    title: "Pokémon Gym"
+    path: "21 Pokemon Gym.vgz"
+    type: betting
+  - id: to_bill_leaving_cerulean_city
+    title: "To Bill: Leaving Cerulean City"
+    path: "22 To Bill - Leaving Cerulean City.vgz"
+    type: betting
+  - id: vermilion_city_theme
+    title: "Vermilion City Theme"
+    path: "24 Vermilion City Theme.vgz"
+    type: betting
+  - id: the_s_s_anne
+    title: "The S.S. Anne"
+    path: "25 The S.S. Anne.vgz"
+    type: betting
+  - id: road_to_lavender_town_leaving_vermilion_city
+    title: "Road to Lavender Town: Leaving Vermilion City"
+    path: "26 Road to Lavender Town - Leaving Vermilion City.vgz"
+    type: betting
+  - id: a_trainer_appears_boy_version
+    title: "A Trainer Appears (Boy Version)"
+    path: "28 A Trainer Appears (Boy Version).vgz"
+    type: warning
+  - id: battle_gym_leader_battle
+    title: "Battle! (Gym Leader Battle)"
+    path: "29 Battle! (Gym Leader Battle).vgz"
+    type: battle
+  - id: victory_gym_leader_battle
+    title: "Victory! (Gym Leader Battle)"
+    path: "30 Victory! (Gym Leader Battle).vgz"
+    type: result
+  - id: cycling
+    title: "Cycling"
+    path: "31 Cycling.vgz"
+    type: result
+  - id: lavender_town_theme
+    title: "Lavender Town Theme"
+    path: "32 Lavender Town Theme.vgz"
+    type: betting
+  - id: pokemon_tower
+    title: "Pokémon Tower"
+    path: "33 Pokemon Tower.vgz"
+    type: betting
+  - id: celadon_city_theme
+    title: "Celadon City Theme"
+    path: "34 Celadon City Theme.vgz"
+    type: betting
+  - id: rocket_game_corner
+    title: "Rocket Game Corner"
+    path: "35 Rocket Game Corner.vgz"
+    type: result
+  - id: a_trainer_appears_bad_guy_version
+    title: "A Trainer Appears (Bad Guy Version)"
+    path: "36 A Trainer Appears (Bad Guy Version).vgz"
+    type: warning
+  - id: rocket_hideout
+    title: "Rocket Hideout"
+    path: "37 Rocket Hideout.vgz"
+    type: betting
+  - id: silph_co
+    title: "Silph Co."
+    path: "38 Silph Co..vgz"
+    type: betting
+  - id: the_sea
+    title: "The Sea"
+    path: "39 The Sea.vgz"
+    type: result
+  - id: cinnabar_island_theme
+    title: "Cinnabar Island Theme"
+    path: "40 Cinnabar Island Theme.vgz"
+    type: betting
+  - id: pokemon_mansion
+    title: "Pokémon Mansion"
+    path: "41 Pokemon Mansion.vgz"
+    type: betting
+  - id: evolution_pokemon_red_and_blue
+    title: "Evolution"
+    path: "42 Evolution.vgz"
+    type: warning
+  - id: the_final_road
+    title: "The Final Road"
+    path: "43 The Final Road.vgz"
+    type: betting
+  - id: final_battle_rival
+    title: "Final Battle! (Rival)"
+    path: "44 Final Battle! (Rival).vgz"
+    type: battle
+  - id: hall_of_fame_pokemon_red_and_blue
+    title: "Hall of Fame"
+    path: "45 Hall of Fame.vgz"
+    type: result
+  - id: ending_theme_pokemon_red_and_blue
+    title: "Ending Theme"
+    path: "46 Ending Theme.vgz"
+    type: result
+...

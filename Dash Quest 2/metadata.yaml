@@ -1,0 +1,27 @@
+--
+id: dash_quest_2
+title: "Dash Quest 2"
+platform: "Mobile"
+year: 2019
+songs: 
+  - id: last_boss_dash_quest_2
+    title: "Last Boss"
+    path: "music_boss.brstm"
+    type: warning
+  - id: boss_theme_dash_quest_2
+    title: "Boss Theme"
+    path: "music_boss2.brstm"
+    type: battle
+  - id: undead_city
+    title: "Undead City"
+    path: "music_cityofthedead.brstm"
+    type: betting
+  - id: akami_desert
+    title: "Akami Desert"
+    path: "music_shiftingsands.brstm"
+    type: betting
+  - id: victory_dash_quest_2
+    title: "Victory"
+    path: "music_victory_loop.brstm"
+    type: result
+...

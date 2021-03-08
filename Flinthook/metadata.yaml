@@ -1,0 +1,31 @@
+---
+id: flinthook
+title: "Flinthook"
+platform: ["PC", "PS4", "XB1", "Switch"]
+year: 2017
+songs: 
+  - id: walking_the_planks
+    title: "Walking the Planks"
+    path: "1_1_WoodenShip_Exploration.logg"
+    type: betting
+  - id: hit_the_deck
+    title: "Hit the Deck"
+    path: "1_3_WoodenShip_Battle.logg"
+    type: warning
+  - id: the_feathered_foe
+    title: "The Feathered Foe"
+    path: "1_4_WoodenShip_Boss.logg"
+    type: battle
+  - id: storming_the_flying_castle
+    title: "Storming the Flying Castle"
+    path: "2_1_Medieval_Exploration.logg"
+    type: battle
+  - id: mining_machine
+    title: "Mining Machine"
+    path: "3_1_Factory_Exploration.logg"
+    type: betting
+  - id: gwarlock_unbound
+    title: "Gwarlock Unbound"
+    path: "4_Final_Boss_Phase2.logg"
+    type: battle
+...

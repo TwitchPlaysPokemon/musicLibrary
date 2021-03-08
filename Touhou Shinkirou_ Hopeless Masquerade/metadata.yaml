@@ -37,4 +37,55 @@ songs:
     title: "Magus Night"
     path: "Magus Night.brstm"
     type: betting
+  - id: a_popular_location
+    title: "A Popular Location"
+    path: "A Popular Location.brstm"
+    ends: 2:20
+    type: betting
+  - id: an_unpopular_location
+    title: "An Unpopular Location"
+    path: "An Unpopular Location.brstm"
+    type: warning
+  - id: last_word_unleashed
+    title: "Last Word Unleashed"
+    path: "Last Word Unleashed.brstm"
+    type: warning
+  - id: officially_sanctioned_tasogare_newspaper
+    title: "Officially Sanctioned Tasogare Newspaper"
+    path: "Officially-Sanctioned Tasogare Newspaper [2].brstm"
+    type: warning
+  - id: select_performer
+    title: "Select Performer"
+    path: "Select Performer.brstm"
+    type: warning
+  - id: shinkirou_festival_orchestra
+    title: "Shinkirou Festival Orchestra"
+    path: "Shinkirou Festival Orchestra.brstm"
+    ends: 2:50
+    type: betting
+  - id: shoutuku_legend_true_administrator
+    title: "Shoutuku Legend ~ True Administrator"
+    path: "Shoutoku Legend ~ True Administrator.brstm"
+    type: battle
+  - id: the_lost_emotion_cd_arrange
+    title: "The Lost Emotion (CD Arrange)"
+    path: "The Lost Emotion (CD Arrange).brstm"
+    ends: 3:02
+    type: betting
+  - id: this_dull_world_s_unchanging_pessimism_shinkirou_orchestra
+    title: "This Dull World's Unchanging Pessimism & Shinkirou Orchestra"
+    path: "This Dull World's Unchanging Pessimism & Shinkirou Orchestra.brstm"
+    type: betting
+  - id: today_s_front_page_headline
+    title: "Today's Front Page Headline"
+    path: "Today's Front-Page Headline.brstm"
+    type: warning
+  - id: morning_clouds
+    title: "Morning Clouds"
+    path: "Morning Clouds.brstm"
+    type: result
+  - id: the_village_in_the_dead_of_night
+    title: "The Village in the Dead of Night"
+    path: "The Village in the Dead of Night.brstm"
+    type: warning
 ...

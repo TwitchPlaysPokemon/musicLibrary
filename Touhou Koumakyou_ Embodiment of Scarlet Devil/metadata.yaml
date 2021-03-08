@@ -5,18 +5,82 @@ series: touhou
 platform: "PC"
 year: 2002
 songs: 
-  - id: locked_girl_the_girl_s_secret_room
-    title: "Locked Girl ~ The Girl's Secret Room"
-    path: "Patchouli's Theme_ Locked Girl _ The Girl's Secret Room.brstm"
+  - id: a_dream_that_is_more_scarlet_than_red
+    title: "A Dream that is more Scarlet than Red"
+    path: "th06_01.pos"
+    type: betting
+  - id: a_soul_as_red_as_a_ground_cherry
+    title: "A Soul as Red as a Ground Cherry"
+    path: "th06_02.pos"
+    type: betting
+  - id: apparitions_stalk_the_night
+    title: "Apparitions Stalk the Night"
+    path: "th06_03.pos"
     type: battle
-  - id: locked_girl_the_girls_secret_room_arrange_by_ssh_and_aether
-    title: "Locked Girl ~ The Girl's Secret Room (SSH&Aether Arrange)"
-    path: "SSH&Aether - Locked Girl ~ The Girl's Secret Room.brstm"
-    type: battle
+  - id: lunate_elf
+    title: "Lunate Elf"
+    path: "th06_04.pos"
+    type: betting
   - id: tomboyish_girl_in_love
     title: "Tomboyish Girl in Love"
-    path: "Cirno's Theme - Beloved Tomboyish Daughter.brstm"
+    path: "th06_05.pos"
     type: betting
+  - id: shanghai_teahouse_chinese_tea
+    title: "Shanghai Teahouse ~ Chinese Tea"
+    path: "th06_06.pos"
+    type: betting
+  - id: shanghai_alice_of_meiji_17
+    title: "Shanghai Alice of Meiji 17"
+    path: "th06_07.pos"
+    type: battle
+  - id: voile_the_magic_library
+    title: "Voile, the Magic Library"
+    path: "th06_08.pos"
+    type: betting
+  - id: locked_girl_the_girl_s_secret_room
+    title: "Locked Girl ~ The Girl's Secret Room"
+    path: "th06_09.pos"
+    type: battle
+  - id: the_maid_and_the_pocket_watch_of_blood
+    title: "The Maid and the Pocket Watch of Blood"
+    path: "th06_10.pos"
+    type: betting
+  - id: lunar_clock_luna_dial
+    title: "Lunar Clock ~ Luna Dial"
+    path: "th06_11.pos"
+    type: betting
+  - id: the_young_descendant_of_tepes
+    title: "The Young Descendant of Tepes"
+    path: "th06_12.pos"
+    type: warning
+  - id: septette_for_the_dead_princess
+    title: "Septette for the Dead Princess"
+    path: "th06_13.pos"
+    type: battle
+  - id: the_centennial_festival_for_magical_girls
+    title: "The Centennial Festival for Magical Girls"
+    path: "th06_14.pos"
+    type: betting
+  - id: u_n_owen_was_her
+    title: "U.N. Owen was her?"
+    path: "th06_15.pos"
+    type: battle
+  - id: an_eternity_that_is_more_transient_than_scarlet
+    title: "An Eternity that is More Transient than Scarlet"
+    path: "th06_16.pos"
+    type: betting
+  - id: crimson_tower_eastern_dream
+    title: "Crimson Tower ~ Eastern Dream..."
+    path: "th06_17.pos"
+    type: betting
+  - id: locked_girl_the_girls_secret_room_arrange_by_ssh_and_aether
+    title: "Locked Girl ~ The Girl's Secret Room (SSH & Aether Arrange)"
+    path: "SSH&Aether - Locked Girl ~ The Girl's Secret Room.brstm"
+    type: battle
+  - id: septette_for_the_dead_princess_ezel_ash_remix
+    title: "Septette for the Dead Princess (Ezel-Ash Remix)"
+    path: "Ezel Ash - Septette for the Dead Queen.brstm"
+    type: battle
   - id: shanghai_teahouse_chinese_tea_cosd
     title: "Shanghai Teahouse ~ Chinese Tea (CoSD Version)"
     path: "Nr. 6. Shangai Teahouse ~ Chinese Tea.brstm"
@@ -26,10 +90,6 @@ songs:
     title: "Apparitions Stalk the Night (Remix)"
     path: "Rumia's Theme_ Apparitions Stalk the Night (Remix).brstm"
     type: battle
-  - id: u_n_owen_was_her
-    title: "U.N. Owen was her?"
-    path: "Flandre's Theme_ U.N. Owen Was Her_.brstm"
-    type: battle
   - id: u_n_owen_was_her_cool_create_remix
     title: "U.N. Owen was Her? (Cool&Create Remix)"
     path: "UN Owen was Her - Cool&Create.brstm"
@@ -37,17 +97,5 @@ songs:
   - id: u_n_ower_was_her_battle_arrangement_remix
     title: "U.N. Owen Was Her? (Battle Arrangement Remix)"
     path: "Flandre's Theme_ U.N. Owen Was Her Battle Arrangement Remix.brstm"
-    type: battle
-  - id: the_young_descendant_of_tepes
-    title: "The Young Descendant of Tepes"
-    path: "The Young Descendant of Tepes.brstm"
-    type: warning
-  - id: septette_for_the_dead_princess
-    title: "Septette for the Dead Princess"
-    path: "Remilia's Theme_ Septette for the Dead Queen.brstm"
-    type: battle
-  - id: septette_for_the_dead_princess_ezel_ash_remix
-    title: "Septette for the Dead Princess (Ezel-Ash Remix)"
-    path: "Ezel Ash - Septette for the Dead Queen.brstm"
     type: battle
 ...
