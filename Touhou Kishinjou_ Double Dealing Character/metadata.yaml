@@ -4,7 +4,7 @@ title: "Touhou Kishinjou ~ Double Dealing Character"
 series: touhou
 platform: "PC"
 year: 2013
-songs: 
+songs:
   - id: touhou_kishinjou_shining_needle
     path: "The Shining Needle Castle that Sinks Through the Air.brstm"
     title: "The Shining Needle Castle that Sinks Through the Air"
@@ -36,5 +36,5 @@ songs:
   - id: primordial_beat_pristine_beat
     path: "Primordial Beat ~ Pristine Beat.brstm"
     title: "Raiko's Theme: Primordial Beat ~ Pristine Beat"
-    type: warning
+    type: battle
 ...
