@@ -1,38 +1,40 @@
+---
 id: dodonpachi_daifukkatsu
 title: "DoDonPachi DaiFukkatsu"
 series: dodonpachi
-platform: ["Arcade", "Mobile", "360"]
+platform: Various
 year: 2008
 songs: 
-  - id: element_daughter
-    title: "Element Daughter"
-    path: "Element Daughter.brstm"
-    type: battle
-  - id: the_battle_was_just_to_continue_that_future
-    title: "The Battle Was Just To Continue That Future"
-    path: "The Battle Was Just To Continue That Future.brstm"
+  - id: dividing_road_of_fate_stage_2_obverse
+    title: "Dividing Road of Fate (Stage2-Obverse)"
+    path: "Dividing Road of Fate (Stage 2 - Obverse).brstm"
     type: betting
-  - id: stage_3_daifukkatsu
-    title: "The Luminous Night Sky in the Shining Bright Future (Stage 3 - Obverse)"
+  - id: many_lights_twinkling_in_the_night_sky_into_a_shining_future_stage3_obverse
+    title: "Many Lights Twinkling in the Night Sky into a Shining Future (Stage3-Obverse)"
     path: "The Luminous Night Sky in the Shining Bright Future (Stage 3 - Obverse).brstm"
     type: betting
-  - id: ending_daifukkatsu
-    title: "Who Decided About 'Dying Peacefully' (Ending)"
-    path: "Who Decided About 'Dying Peacefully' (Ending).brstm"
-    type: break
-  - id: hibachi
-    title: "]-[|/34<#!"
-    path: "Hibachi.brstm"
-    type: warning
-  - id: boss_2_daifukkatsu
+  - id: element_daughter_boss_1
+    title: "Element Daughter (Boss1)"
+    path: "Element Daughter.brstm"
+    type: battle
+  - id: somebody_stop_me_boss_2
     title: "Somebody, Stop Me. (Boss 2)"
     path: "Somebody, Stop Me. (Boss 2).brstm"
     type: warning
-  - id: stage_2_daifukkatsu
-    title: "Dividing Road of Fate (Stage 2 - Obverse)"
-    path: "Dividing Road of Fate (Stage 2 - Obverse).brstm"
+  - id: the_battle_was_just_to_continue_that_future_stage_5
+    title: "The Battle Was Just \"To Continue that Future\" (Stage5)"
+    path: "The Battle Was Just To Continue That Future.brstm"
     type: betting
-  - id: longhena_cantata
-    title: "Longhena Cantata"
+  - id: longhena_cantata_final_boss
+    title: "Longhena Cantata (Final Boss)"
     path: "Longhena Cantata.brstm"
     type: battle
+  - id: hibachi_true_final_boss
+    title: "]-[|/34<#! (True Final Boss)"
+    path: "Hibachi.brstm"
+    type: battle
+  - id: who_decided_about_dying_peacefully_ending
+    title: "Who Decided About \"Dying Peacefully\"? (Ending)"
+    path: "Who Decided About 'Dying Peacefully' (Ending).brstm"
+    type: break
+...

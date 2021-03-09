@@ -1,5 +1,5 @@
 ---
-id: mario_luigi_bowser
+id: mario_luigi_bowser_s_inside_story
 title: "Mario & Luigi: Bowser's Inside Story"
 series: mario
 platform: "NDS"
@@ -29,7 +29,7 @@ songs:
     title: "Boss Battle"
     path: "Boss Battle.brstm"
     type: warning
-  - id: showtime
+  - id: showtime_mlbowser
     title: "SHOWTIME!"
     path: "SHOWTIME!.mini2sf"
     type: warning

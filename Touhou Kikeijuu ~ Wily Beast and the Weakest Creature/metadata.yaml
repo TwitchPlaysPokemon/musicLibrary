@@ -59,17 +59,17 @@ songs:
   - id: the_shining_law_of_the_strong_eating_the_weak
     title: "The Shining Law of the Strong Eating the Weak"
     path: "14 - The Shining Law of the Strong Eating the Weak.brstm"
-    type: betting
+    type: break
   - id: prince_shoutoku_s_pegasus_dark_pegasus
     title: "Prince Shoutoku's Pegasus ~ Dark Pegasus"
     path: "15 - Prince Shoutoku's Pegasus ~ Dark Pegasus.brstm"
-    type: battle
+    type: result
   - id: the_animals_rest
     title: "The Animals' Rest"
     path: "16 - The Animals_ Rest.brstm"
-    type: break
+    type: betting
   - id: returning_home_from_the_underground
     title: "Returning Home from the Underground"
     path: "17 - Returning Home from the Underground.brstm"
-    type: result
+    type: battle
 ...

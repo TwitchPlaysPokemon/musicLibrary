@@ -123,15 +123,15 @@ songs:
     type: warning
   - id: terraformer
     title: "Terraformer"
-    path: darkmakerfinale.brstm"
+    path: "darkmakerfinale.brstm"
     type: battle
   - id: metal_head_2_demo
     title: "Metal Head 2 (Demo)"
-    path: dogshit2.brstm"
+    path: "dogshit2.brstm"
     type: battle
   - id: metal_head_hunt_unused
     title: "Metal Head Hunt (Unused)"
-    path: metalheadunused.brstm"
+    path: "metalheadunused.brstm"
     type: battle
   - id: tower_bombs
     title: "Tower Bombs"
@@ -139,6 +139,6 @@ songs:
     type: betting
   - id: light_speed_2_unused
     title: "Light Speed 2 (Unused)"
-    path: unused2.brstm"
+    path: "unused2.brstm"
     type: battle
 ...

@@ -6,7 +6,7 @@ year: 2020
 songs: 
   - id: puyo_puyo_tetris_2_menu
     title: "Puyo Puyo Tetris 2 Menu"
-    path: "BGM_0000000C.hca.hca"
+    path: "BGM_0000000C.hca"
     type: break
   - id: let_s_character_select!
     title: "Let's Character Select!"
@@ -38,7 +38,7 @@ songs:
     type: betting
   - id: how_about_a_friendly_game
     title: "How About a Friendly Game?"
-    path: "BGM_0000001Bhca"
+    path: "BGM_0000001B.hca"
     type: betting
   - id: puyo_tetris_2_dialogue_let_s_go_for_the_next_one
     title: "Puyo Tetris 2 Dialogue ~ Let's Go for the Next One ~"
