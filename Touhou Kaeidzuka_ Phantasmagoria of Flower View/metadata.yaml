@@ -4,7 +4,7 @@ title: "Touhou Kaeidzuka ~ Phantasmagoria of Flower View"
 series: touhou
 platform: "PC"
 year: 2005
-songs: 
+songs:
   - id: kaeidzuka_higan_retour
     title: "Kaeidzuka ~ Higan Retour"
     path: "th09_00.txtp"
@@ -16,26 +16,14 @@ songs:
   - id: oriental_dark_flight
     title: "Oriental Dark Flight"
     path: "th09_00b.txtp"
-    type: warning
+    type: betting
   - id: flowering_night
     title: "Flowering Night"
     path: "th09_02.txtp"
     type: battle
-  - id: mystic_oriental_dream_ancient_temple
-    title: "Mystic Oriental Dream ~ Ancient Temple"
-    path: "th07_10_b.txtp"
-    type: betting
-  - id: lunatic_eyes_invisible_full_moon
-    title: "Lunatic Eyes ~ Invisible Full Moon"
-    path: "th08_12.txtp"
-    type: betting
   - id: adventure_of_the_lovestruck_tomboy
     title: "Adventure of the Lovestruck Tomboy"
     path: "th09_05.txtp"
-    type: betting
-  - id: ghostly_band_phantom_ensemble
-    title: "Ghostly Band ~ Phantom Ensemble"
-    path: "th07_09.txtp"
     type: betting
   - id: deaf_to_all_but_the_song_flower_mix
     title: "Deaf to all but the song ~ Flower Mix"
