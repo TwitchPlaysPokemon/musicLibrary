@@ -6,7 +6,7 @@ is_fanwork: true
 platform: "PC"
 year: 2014
 songs:
-  - id: preparing_for_battle
+  - id: preparing_for_battle_tpdp
     title: "Preparing for Battle"
     path: "Preparing for Battle.brstm"
     type: betting
@@ -31,7 +31,7 @@ songs:
     title: "The Last Battle"
     path: "Last Battle.brstm"
     type: battle
-  - id: yuukas_theme
+  - id: yuukas_theme_tpdp
     title: "Yuuka's Theme"
     path: "Yuuka's Theme.brstm"
     type: warning
@@ -91,19 +91,19 @@ songs:
     title: "Hakurei Shrine"
     path: "Hakurei Shrine.brstm"
     type: break
-  - id: marisa_s_theme
+  - id: marisa_s_theme_tpdp
     title: "Marisa's Theme"
     path: "Marisa's Theme.brstm"
     type: warning
-  - id: moriya_shrine
+  - id: moriya_shrine_tpdp
     title: "Moriya Shrine"
     path: "Moriya Shrine.brstm"
     type: betting
-  - id: reimu_s_theme
+  - id: reimu_s_theme_tpdp
     title: "Reimu's Theme"
     path: "Reimu's Theme.brstm"
     type: warning
-  - id: scarlet_devil_mansion
+  - id: scarlet_devil_mansion_tpdp
     title: "Scarlet Devil Mansion"
     path: "Scarlet Devil Mansion.brstm"
     type: betting
@@ -115,7 +115,7 @@ songs:
     title: "Spotted! Ghost"
     path: "Spotted! Ghost.brstm"
     type: warning
-  - id: youkai_mountain
+  - id: youkai_mountain_tpdp
     title: "Youkai Mountain"
     path: "Youkai Mountain.brstm"
     type: betting
@@ -191,7 +191,7 @@ songs:
     title: "Divine Spirit Mausoleum"
     path: "Divine Spirit Mausoleum.brstm"
     type: betting
-  - id: dream_world
+  - id: dream_world_tpdp
     title: "Dream World"
     path: "Dream World.brstm"
     type: betting
@@ -203,15 +203,15 @@ songs:
     title: "Hakurei Mountain Cave"
     path: "Hakurei Mountain Cave.brstm"
     type: betting
-  - id: heaven
+  - id: heaven_tpdp
     title: "Heaven"
     path: "Heaven.brstm"
     type: break
-  - id: hell
+  - id: hell_tpdp
     title: "Hell"
     path: "Hell.brstm"
     type: betting
-  - id: intro_title
+  - id: intro_title_tpdp
     title: "Intro & Title"
     path: "Intro & Title.brstm"
     type: betting
@@ -223,7 +223,7 @@ songs:
     title: "Lunar Capital"
     path: "Lunar Capital.brstm"
     type: betting
-  - id: makai
+  - id: makai_tpdp
     title: "Makai"
     path: "Makai.brstm"
     type: betting
@@ -231,7 +231,7 @@ songs:
     title: "Mayohiga / Yakumos' Residence"
     path: "Mayohiga _ Yakumos' Residence.brstm"
     type: break
-  - id: misty_lake
+  - id: misty_lake_tpdp
     title: "Misty Lake"
     path: "Misty Lake.brstm"
     type: betting
@@ -243,11 +243,11 @@ songs:
     title: "Remains of Blazing Hell"
     path: "Remains of Blazing Hell.brstm"
     type: betting
-  - id: rest_area
+  - id: rest_area_tpdp
     title: "Rest Area"
     path: "Rest Area.brstm"
     type: warning
-  - id: routes_3_4
+  - id: routes_3_4_tpdp
     title: "Routes 3 & 4"
     path: "Routes 3 & 4.brstm"
     type: betting
@@ -270,9 +270,5 @@ songs:
   - id: world_of_ice_snow
     title: "World of Ice & Snow"
     path: "World of Ice & Snow.brstm"
-    type: betting
-  - id: youkai_mountain
-    title: "Youkai Mountain"
-    path: "Youkai Mountain.brstm"
     type: betting
 ...
