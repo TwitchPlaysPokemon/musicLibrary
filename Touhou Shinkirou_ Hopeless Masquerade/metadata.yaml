@@ -4,88 +4,84 @@ title: "Touhou Shinkirou ~ Hopeless Masquerade"
 series: touhou
 platform: "PC"
 year: 2013
-songs:
-  - id: an_unpopular_location
-    title: "An Unpopular Location"
-    path: "HMAnUnpopularLocation.brstm"
-    type: betting
-  - id: futatsuiwa_from_sado_touhou_shinkirou
-    title: "Futatsuiwa from Sado"
-    path: "HMMamizouThemeFutatsuiwafromSado.brstm"
-    type: warning
-  - id: emotional_skyscraper_cosmic_mind_touhou_shinkirou
-    title: "Emotional Skyscraper ~ Cosmic Mind"
-    path: "Emotional Skyscraper ~ Cosmic Mind.brstm"
-    type: battle
-  - id: akutagawa_ryuunosukes_kappa_candid_friend_hm
-    title: "Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend"
-    path: "Akutagawa Ryuunosuke's Kappa ~ Candid Friend.brstm"
-    type: warning
-  - id: hartmann_s_youkai_girl_touhou_shinkirou
-    title: "Hartmann's Youkai Girl"
-    path: "Hartmann's Youkai Girl.brstm"
-    type: battle
-  - id: the_lost_emotion
-    title: "The Lost Emotion"
-    path: "The Lost Emotion.brstm"
-    type: battle
-  - id: legend_of_the_great_gods_touhou_shinkirou
-    title: "Legend of the Great Gods"
-    path: "[1.07] Legend of the Great Gods.mp3"
-    type: betting
-  - id: magus_night
-    title: "Magus Night"
-    path: "Magus Night.brstm"
+songs: 
+  - id: this_dull_world_s_unchanging_pessimism_shinkirou_orchestra
+    title: "This Dull World's Unchanging Pessimism & Shinkirou Orchestra"
+    path: "This Dull World's Unchanging Pessimism & Shinkirou Orchestra.brstm"
     type: betting
   - id: a_popular_location
     title: "A Popular Location"
     path: "A Popular Location.brstm"
     ends: 2:20
     type: betting
+  - id: magus_night
+    title: "Magus Night"
+    path: "Magus Night.brstm"
+    type: betting
+  - id: emotional_skyscraper_cosmic_mind_touhou_shinkirou
+    title: "Emotional Skyscraper ~ Cosmic Mind"
+    path: "Emotional Skyscraper ~ Cosmic Mind.brstm"
+    type: battle
+  - id: legend_of_the_great_gods_touhou_shinkirou
+    title: "Legend of the Great Gods"
+    path: "[1.07] Legend of the Great Gods.mp3"
+    type: betting
+  - id: hartmann_s_youkai_girl_touhou_shinkirou
+    title: "Hartmann's Youkai Girl"
+    path: "Hartmann's Youkai Girl.brstm"
+    type: battle
   - id: an_unpopular_location
     title: "An Unpopular Location"
     path: "An Unpopular Location.brstm"
+    type: betting
+  - id: futatsuiwa_from_sado_touhou_shinkirou
+    title: "Futatsuiwa from Sado"
+    path: "HMMamizouThemeFutatsuiwafromSado.brstm"
+    type: warning
+  - id: today_s_front_page_headline
+    title: "Today's Front Page Headline"
+    path: "Today's Front-Page Headline.brstm"
+    type: warning
+  - id: the_village_in_the_dead_of_night
+    title: "The Village in the Dead of Night"
+    path: "The Village in the Dead of Night.brstm"
+    type: warning
+  - id: the_lost_emotion
+    title: "The Lost Emotion"
+    path: "The Lost Emotion.brstm"
+    type: battle
+  - id: morning_clouds
+    title: "Morning Clouds"
+    path: "Morning Clouds.brstm"
+    type: result
+  - id: shinkirou_orchestra
+    title: "Shinkirou Orchestra"
+    path: "Shinkirou Festival Orchestra.brstm"
+    ends: 2:50
+    type: betting
+  - id: select_performer
+    title: "Select Performer"
+    path: "Select Performer.brstm"
+    type: warning
+  - id: officially_sanctioned_tasogare_newspaper
+    title: "Officially-Sanctioned Tasogare Newspaper"
+    path: "Officially-Sanctioned Tasogare Newspaper [2].brstm"
+    type: warning
+  - id: shoutuku_legend_true_administrator
+    title: "Shoutuku Legend ~ True Administrator"
+    path: "Shoutoku Legend ~ True Administrator.brstm"
+    type: battle
+  - id: akutagawa_ryuunosukes_kappa_candid_friend_hm
+    title: "Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend"
+    path: "Akutagawa Ryuunosuke's Kappa ~ Candid Friend.brstm"
     type: warning
   - id: last_word_unleashed
     title: "Last Word Unleashed"
     path: "Last Word Unleashed.brstm"
     type: warning
-  - id: officially_sanctioned_tasogare_newspaper
-    title: "Officially Sanctioned Tasogare Newspaper"
-    path: "Officially-Sanctioned Tasogare Newspaper [2].brstm"
-    type: warning
-  - id: select_performer
-    title: "Select Performer"
-    path: "Select Performer.brstm"
-    type: warning
-  - id: shinkirou_festival_orchestra
-    title: "Shinkirou Festival Orchestra"
-    path: "Shinkirou Festival Orchestra.brstm"
-    ends: 2:50
-    type: betting
-  - id: shoutuku_legend_true_administrator
-    title: "Shoutuku Legend ~ True Administrator"
-    path: "Shoutoku Legend ~ True Administrator.brstm"
-    type: battle
-  - id: the_lost_emotion_cd_arrange
-    title: "The Lost Emotion (CD Arrange)"
+  - id: the_lost_emotion_arrange_version
+    title: "The Lost Emotion (Arrange Version)"
     path: "The Lost Emotion (CD Arrange).brstm"
     ends: 3:02
     type: betting
-  - id: this_dull_world_s_unchanging_pessimism_shinkirou_orchestra
-    title: "This Dull World's Unchanging Pessimism & Shinkirou Orchestra"
-    path: "This Dull World's Unchanging Pessimism & Shinkirou Orchestra.brstm"
-    type: betting
-  - id: today_s_front_page_headline
-    title: "Today's Front Page Headline"
-    path: "Today's Front-Page Headline.brstm"
-    type: warning
-  - id: morning_clouds
-    title: "Morning Clouds"
-    path: "Morning Clouds.brstm"
-    type: result
-  - id: the_village_in_the_dead_of_night
-    title: "The Village in the Dead of Night"
-    path: "The Village in the Dead of Night.brstm"
-    type: warning
 ...

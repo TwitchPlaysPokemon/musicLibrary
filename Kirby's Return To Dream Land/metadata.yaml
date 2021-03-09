@@ -115,8 +115,8 @@ songs:
     title: "Exciting! Boss Battle"
     path: "b_dedede01.brstm"
     type: battle
-  - id: fly_kirby_return_to_dream_land
-    title: "Fly, Kirby!"
+  - id: fly_kirby_of_the_stars
+    title: "Fly! Kirby of the Stars"
     path: "st_halberd.brstm"
     type: betting
   - id: haldera_volcano_return_to_dream_land
@@ -194,6 +194,6 @@ songs:
     type: betting
   - id: another_dimension
     title: "Another Dimension"
-    path: "st_halberd.brstm"
-    type: battle
+    path: "ST_KbyW_CONGA1.brstm"
+    type: betting
 ...

@@ -2,8 +2,8 @@
 id: custom_robo
 title: "Custom Robo"
 series: customrobo
-year: 2001
 platform: "GC"
+year: 2001
 songs:
   - id: aurora
     title: "Aurora"
@@ -17,10 +17,10 @@ songs:
     title: "Lost World"
     path: "Lost World.brstm"
     type: battle
-      #- id: samsara
-      #  title: "Samsara"
-      #  path: "Samsara.brstm"
-      #  type: result
+  - id: samsara
+    title: "Samsara"
+    path: "Samsara.brstm"
+    type: betting
   - id: the_danger
     title: "The Danger"
     path: "The Danger.brstm"
@@ -61,7 +61,7 @@ songs:
     title: "Born Yesterday"
     path: "Born Yesterday.brstm"
     type: warning
-  - id: heaven
+  - id: heaven_custom_robo
     title: "Heaven"
     path: "Heaven.brstm"
     type: betting
