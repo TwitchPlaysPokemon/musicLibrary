@@ -4,7 +4,7 @@ title: "Touhou Eiyashou ~ Imperishable Night"
 series: touhou
 platform: "PC"
 year: 2004
-songs: 
+songs:
   - id: eternal_night_vignette_eastern_night
     title: "Eternal Night Vignette ~ Eastern Night"
     path: "th08_01.txtp"
@@ -21,10 +21,10 @@ songs:
     title: "Song of the Night Sparrow ~ Night Bird"
     path: "th08_04.txtp"
     type: betting
-  - id: deaf_to_all_but_the_song
-    title: "Deaf to all but the song"
-    path: "th08_05.txtp"
-    type: battle
+#  - id: deaf_to_all_but_the_song
+#    title: "Deaf to all but the song"
+#    path: "th08_05.txtp"
+#    type: battle
   - id: nostalgic_blood_of_the_east_old_world
     title: "Nostalgic Blood of the East ~ Old World"
     path: "th08_06.txtp"

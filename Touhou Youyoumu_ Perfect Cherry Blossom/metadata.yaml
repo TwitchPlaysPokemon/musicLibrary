@@ -4,7 +4,7 @@ title: "Touhou Youyoumu ~ Perfect Cherry Blossom"
 series: touhou
 platform: "PC"
 year: 2003
-songs: 
+songs:
   - id: mystic_dream_snow_or_cherry_petal
     title: "Mystic Dream ~ Snow or Cherry Petal"
     path: "th07_01.txtp"
@@ -44,7 +44,7 @@ songs:
   - id: mystic_oriental_dream_ancient_temple
     title: "Mystic Oriental Dream ~ Ancient Temple"
     path: "th07_10.txtp"
-    type: battle
+    type: betting
   - id: hiroari_shoots_a_strange_bird_till_when
     title: "Hiroari Shoots a Strange Bird ~ Till When?"
     path: "th07_11.txtp"
@@ -64,7 +64,7 @@ songs:
   - id: charming_domination
     title: "Charming Domination"
     path: "th07_16.txtp"
-    type: battle
+    type: betting
   - id: a_msiden_s_illusionary_funeral_necro_fantasy
     title: "A Maiden's Illusionary Funeral ~ Necro-Fantasy"
     path: "th07_17.txtp"
@@ -84,7 +84,7 @@ songs:
   - id: sakura_sakura_japanize_dream
     title: "Sakura, Sakura ~ Japanize Dream..."
     path: "th07_15.txtp"
-    type: battle
+    type: result
   - id: bloom_nobly_ink_black_cherry_blossoms_arranged
     title: "Bloom Nobly, Ink-black Cherry Blossoms ~ Border of Life (Arranged)"
     path: "Bloom Nobly, Cherry Blossoms of Sumizone ~ Border of Life (Arranged).brstm"
