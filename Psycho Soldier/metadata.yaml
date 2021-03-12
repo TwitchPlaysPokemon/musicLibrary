@@ -1,10 +1,11 @@
+---
 id: psycho_soldier
 title: "Psycho Soldier"
-year: 1987
 platform: "Arcade"
+year: 1987
 songs:
-  - id: psycho_soldier_theme_us
-    title: "Psycho Solier Theme (US Instumental)"
+  - id: psycho_soldier_theme_us_instrumental
+    title: "Psycho Soldier Theme (US Instumental)"
     path: "06 Psycho Soldier Theme Inst Version (Area 1 US).vgz"
     type: betting
   - id: town_conflict
@@ -31,3 +32,4 @@ songs:
     title: "Badly Scarred Blue Moon (Ending)"
     path: "13 Badly Scarred Blue Moon (Ending).vgz"
     type: result
+...
