@@ -6,10 +6,10 @@ year: 2018
 songs: 
   - id: fire_emblem_main_theme_dragalia_lost
     title: "Fire Emblem Main Theme"
-    path: "BGM_CLB_01_OUT_0006_01 (Vocal).txtp"
+    path: "BGM_CLB_01_OUT_0006_01 (Vocal).brstm"
     type: betting
-  - id: fire_emblem_main_theme_no_vocals_dragalia_lost
-    title: "Fire Emblem Main Theme (No Vocals)"
+  - id: fire_emblem_main_theme_off_vocals_dragalia_lost
+    title: "Fire Emblem Main Theme (Off-Vocals)"
     path: "BGM_CLB_01_OUT_0006_01.brstm"
     type: betting
   - id: quest_2_1
@@ -18,7 +18,7 @@ songs:
     type: betting
   - id: cinderella_step
     title: "Cinderella Step"
-    path: "BGM_OUT_0002_03 (Vocal).txtp"
+    path: "BGM_OUT_0002_03 (Vocal).brstm"
     type: betting
   - id: the_agito_uprising_phase_1
     title: "The Agito Uprising (Phase 1)"

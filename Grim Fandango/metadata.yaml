@@ -4,12 +4,20 @@ title: "Grim Fandango"
 platform: "PC"
 year: 1998
 songs: 
-  - id: scrimshaw
-    title: "Scrimshaw"
-    path: "Scrimshaw.brstm"
-    type: betting
   - id: swanky_maximino
     title: "Swanky Maximino"
     path: "Swanky Maximino.brstm"
+    type: betting
+  - id: smooth_hector
+    title: "Smooth Hector"
+    path: "Smooth Hector.brstm"
+    type: break
+  - id: nuevo_marrow
+    title: "Nuevo Marrow"
+    path: "Nuevo Marrow.brstm.brstm"
+    type: betting
+  - id: scrimshaw
+    title: "Scrimshaw"
+    path: "Scrimshaw.brstm"
     type: betting
 ...
