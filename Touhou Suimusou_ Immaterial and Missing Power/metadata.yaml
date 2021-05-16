@@ -24,11 +24,11 @@ songs:
   - id: dance_of_witches
     title: "Dance of Witches"
     path: "Dance of the Witches (Marisa's theme).brstm"
-    type: warning
+    type: betting
   - id: lunar_clock_luna_dial_touhou_suimusou
     title: "Lunar Clock ~ Luna Dial"
     path: "Lunar Dial (Sakuya's night theme).brstm"
-    type: warning
+    type: betting
   - id: night_falls_evening_star
     title: "Night Falls ~ Evening Star"
     path: "Night Falls ~ Evening Star.brstm"
@@ -36,7 +36,7 @@ songs:
   - id: demystify_feast
     title: "Demystify Feast"
     path: "Demystify Feast.brstm"
-    type: warning
+    type: battle
   - id: end_of_summer
     title: "End of Summer"
     path: "[15] End of Summer.brstm"
