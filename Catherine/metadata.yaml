@@ -1,7 +1,8 @@
+---
 id: catherine
 title: "Catherine"
-year: 2011
 platform: ["PS3", "360"]
+year: 2011
 songs:
   - id: william_tell_overture_parts_2_3
     title: "William Tell Overture ~Parts 2 & 3 (Clock Tower)"
@@ -11,3 +12,8 @@ songs:
     title: "Bizet - L'Arlesienne Second Suite Farandole (The Empireo)"
     path: "Bizet - L'Arlesienne Second Suite Farandole (The Empireo).brstm"
     type: betting
+  - id: wild_pokemon_battle_sinnoh_catherine
+    title: "Wild Pokemon Battle (Sinnoh) (Unused)"
+    path: "poke_btl_loop_aif.aax"
+    type: battle
+...

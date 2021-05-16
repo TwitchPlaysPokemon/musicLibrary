@@ -1,0 +1,35 @@
+---
+id: sutte_hakkun
+title: "Sutte Hakkun"
+platform: "SFC"
+year: 1998
+songs:
+  - id: title_sutte_hakkun
+    title: "Title"
+    path: "01 Title.spc"
+    type: result
+  - id: file_select_sutte_hakkun
+    title: "File Select"
+    path: "02 File Select.spc"
+    type: result
+  - id: stage01_sutte_hakkun
+    title: "Stage 1"
+    path: "07 Stage 1.spc"
+    type: betting
+  - id: stage02_sutte_hakkun
+    title: "Stage 2"
+    path: "08 Stage 2.spc"
+    type: betting
+  - id: stage09_sutte_hakkun
+    title: "Stage 9"
+    path: "15 Stage 9.spc"
+    type: break
+  - id: nice_clear_sutte_hakkun
+    title: "Nice Clear!"
+    path: "24 Nice Clear!.spc"
+    type: result
+  - id: vs_makkun
+    title: "Vs. Makkun"
+    path: "26 Vs. Makkun.spc"
+    type: warning
+...

@@ -1,0 +1,32 @@
+---
+id: mega_man_battle_chip_challenge
+title: "Mega Man Battle Chip Challenge"
+series: megaman
+platform: "GBA"
+year: 2003
+songs: 
+  - id: character_bgm2_dekao_mairi_pet_menu
+    title: "Character BGM2 (Dekao, Mairi) / PET Menu"
+    path: "06 PET Configuration.minigsf"
+    type: betting
+  - id: battle_chip_shop
+    title: "Battle Chip Shop"
+    path: "07 Battle Chip Shop.minigsf"
+    type: betting
+  - id: navi_clash
+    title: "Battle BGM1"
+    path: "10 Navi Clash.minigsf"
+    type: battle
+  - id: battle_bgm2_final_game
+    title: "Battle BGM2 (Final Game)"
+    path: "11 Strong Opponent.minigsf"
+    type: warning
+  - id: battle_chip_gp_championship
+    title: "Battle Chip GP Championship"
+    path: "15 Tournament Celebration.minigsf"
+    type: result
+  - id: staff_roll_mmbcc
+    title: "Staff Roll"
+    path: "16 Staff Roll.minigsf"
+    type: battle
+...

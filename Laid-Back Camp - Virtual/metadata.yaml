@@ -1,0 +1,19 @@
+---
+id: laid_back_camp_vr
+title: "Laid-Back Camp - Virtual - Lake Motosu/Fumoto Campsite"
+platform: ["PC", "PS4", "Switch", "Mobile"]
+year: 2021
+songs: 
+  - id: bgm_01_lbcvr
+    title: "BGM 01"
+    path: "bgm_0_0001.fsb"
+    type: break
+  - id: bgm_02_lbcvr
+    title: "BGM 02"
+    path: "bgm_0_0002.fsb"
+    type: break
+  - id: bgm_03_lbcvr
+    title: "BGM 03"
+    path: "bgm_0_0003.fsb"
+    type: break
+...

@@ -1,0 +1,48 @@
+---
+id: dragon_ball_z_kakarot
+title: "Dragon Ball Z: Kakarot"
+platform: ["PC", "PS4", "XB1"]
+series: dragon ball
+year: 2020 
+songs: 
+  - id: prologue_i_dbzk
+    title: "Prologue I"
+    path: "Bgm_M0710.adx"
+    type: betting
+  - id: prologue_ii_dbzk
+    title: "Prologue II"
+    path: "Bgm_M1711.adx"
+    type: warning
+  - id: lean_mean_driving_machine
+    title: "Lean Mean Driving Machine"
+    path: "BGM_driving.adx"
+    type: result
+  - id: galactic_showdown_with_majinn_buu
+    title: "Galactic Showdown with Majinn Buu"
+    path: "BGM_Buu.adx"
+    type: warning
+  - id: home_to_a_hero_satan_city
+    title: "Home to a Hero, Satan City"
+    path: "BGM_SatanCity.adx"
+    type: result
+  - id: dragon_ball_know_it_all
+    title: "Dragon Ball Know-It-All"
+    path: "BGM_Z_dictionary.adx"
+    type: break
+  - id: battle_against_a_fierce_foe
+    title: "Battle Against A Fierce Foe"
+    path: "BGM_boss01.adx"
+    type: battle
+  - id: battle_at_the_edge_of_the_galaxy
+    title: "Battle at the Edge of the Galaxy"
+    path: "BGM_boss02.adx"
+    type: battle
+  - id: fight_to_the_death
+    title: "Fight to the Death"
+    path: "BGM_boss04.adx"
+    type: battle
+  - id: cha_la_head_cha_la_variation
+    title: "CHA-LA HEAD-CHA-LA (Variation)"
+    path: "Bgm_M0703.adx"
+    type: break
+...

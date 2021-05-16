@@ -1,0 +1,32 @@
+---
+id: rockman_exe_n1_battle
+title: "Rockman.EXE N1 Battle"
+series: megaman
+platform: "Wonderswan"
+year: 2003
+songs:
+  - id: staff_roll_rockman_exe_n1_battle
+    title: "Staff Roll"
+    path: "Battle Chip Champion (Ending Theme).brstm"
+    type: battle
+  - id: battle_chip_shop_rockman_exe_n1_battle
+    title: "Battle Chip Shop"
+    path: "Battle Chip Shop.brstm"
+    type: betting
+  - id: battle_bgm3_final_game_rockman_exe_n1_battle
+    title: "Battle BGM3 (Final Game)"
+    path: "Final Slot-In! (Final Battle).brstm"
+    type: warning
+  - id: battle_bgm1_rockman_exe_n1_battle
+    title: "Battle BGM1"
+    path: "Navi Clash! (Regular Battle).brstm"
+    type: battle
+  - id: tender_moments_rockman_exe_n1_battle
+    title: "Internet Area"
+    path: "Tender Moments.brstm"
+    type: break
+  - id: battle_chip_gp_championship_rockman_exe_n1_battle
+    title: "Battle Chip GP Championship"
+    path: "Tournament Celebration.brstm"
+    type: result
+...

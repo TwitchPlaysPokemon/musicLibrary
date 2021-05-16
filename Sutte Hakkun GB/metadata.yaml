@@ -1,0 +1,51 @@
+---
+id: sutte_hakkun_gb
+title: "Sutte Hakkun GB"
+platform: "GBC"
+year: Unreleased
+songs:
+  - id: title_shgb
+    title: "Title Screen"
+    path: "Title.vgz"
+    type: result
+  - id: stage01_shgb
+    title: "Stage 1"
+    path: "Stage 1.vgz"
+    type: betting
+  - id: stage02_shgb
+    title: "Stage 2"
+    path: "Stage 2.vgz"
+    type: betting
+  - id: stage03_shgb
+    title: "Stage 3"
+    path: "Stage 3.vgz"
+    type: betting
+  - id: stage04_shgb
+    title: "Stage 4"
+    path: "Stage 4.vgz"
+    type: betting
+  - id: stage05_shgb
+    title: "Stage 5"
+    path: "Stage 5.vgz"
+    type: betting
+  - id: stage06_shgb
+    title: "Stage 6"
+    path: "Stage 6.vgz"
+    type: betting
+  - id: stage07_shgb
+    title: "Stage 7"
+    path: "Stage 7.vgz"
+    type: betting
+  - id: stage08_shgb
+    title: "Stage 8"
+    path: "Stage 8.vgz"
+    type: betting
+  - id: stage09_shgb
+    title: "Stage 9"
+    path: "Stage 9.vgz"
+    type: betting
+  - id: stage10_shgb
+    title: "Stage 10"
+    path: "Stage 10.vgz"
+    type: betting
+...

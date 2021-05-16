@@ -20,7 +20,7 @@ songs:
   - id: sunshine_seaside_smw3d
     path: "Sunshine Seaside.brstm"
     title: "Sunshine Seaside"
-    type: betting
+    type: break
   - id: world_mushroom
     path: "World Mushroom.brstm"
     title: "World Mushroom"
@@ -28,7 +28,7 @@ songs:
   - id: footlight_lane
     path: "Footlight Lane.brstm"
     title: "Footlight Lane"
-    type: betting
+    type: break
   - id: slot_machine_looped
     path: "Slot Machine (Looped).brstm"
     title: "Slot Machine (Looped)"
@@ -65,7 +65,7 @@ songs:
   - id: super_mario_3d_world_theme
     title: "SUPER MARIO 3D WORLD Theme"
     path: "Super Mario 3D World Theme.brstm"
-    type: result
+    type: betting
   - id: world_3_smw3d
     title: "World 3"
     path: "World 3.brstm"
@@ -86,7 +86,7 @@ songs:
   - id: the_great_tower_showdown_2
     title: "The Great Tower Showdown 2"
     path: "Redc_bgm_Finkoopa03.my.32.dspadpcm.bfstm"
-    type: warning
+    type: betting
   - id: final_curtain_for_meowser
     title: "Final Curtain for Meowser"
     path: "Redc_bgm_Finkoopa04.my.32.dspadpcm.bfstm"
@@ -106,7 +106,7 @@ songs:
   - id: the_great_tower
     title: "The Great Tower"
     path: "Redc_bgm_Lastfield.g.32.dspadpcm.bfstm"
-    type: betting
+    type: warning
   - id: champion_s_road
     title: "Champion's Road"
     path: "Redc_bgm_Milkyway.my.32.dspadpcm.bfstm"
@@ -115,4 +115,106 @@ songs:
     title: "The Bullet Bill Express"
     path: "Redc_bgm_Train.my.32.dspadpcm.bfstm"
     type: betting
+  - id: 3d_world_title_screen
+    title: "Title Screen"
+    path: "WS_RC_BGM_TITLE.bfwav"
+    type: result
+  - id: world_1_smw3d
+    title: "World 1"
+    path: "World 1.brstm"
+    type: result
+  - id: underground_theme_smw3d
+    title: "Underground Theme"
+    path: "Redc_bgm_Chika.my.32.dspadpcm.bfstm"
+    type: betting
+  - id: switch_scramble_circus
+    title: "Switch Scramble Circus"
+    path: "Switch Scramble Circus.brstm"
+    ends: 2:04
+    type: betting
+  - id: captain_toad_goes_forth
+    title: "Captain Toad Goes Forth"
+    path: "Captain Toad Goes Forth.brstm"
+    type: result
+  - id: blockade_smw3d
+    title: "Blockade"
+    path: "Redc_bgm_Smallboss.my.32.dspadpcm.bfstm"
+    type: warning
+  - id: chainlink_charge
+    title: "Chainlink Charge"
+    path: "Redc_bgm_Athletic.k.32.dspadpcm.bfstm"
+    type: betting
+  - id: the_showdown_looms
+    title: "The Showdown Looms"
+    path: "Redc_bgm_Bossfield.g.32.dspadpcm.bfstm"
+    type: warning
+  - id: world_4_smw3d
+    title: "World 4"
+    path: "Redc_bgm_Map04.g.32.dspadpcm.bfstm"
+    type: warning
+  - id: sprawling_savanna
+    title: "Sprawling Savanna"
+    path: "Redc_bgm_Mountain.g.32.dspadpcm.bfstm"
+    type: betting
+  - id: fuzzy_flood_mine
+    title: "Fuzzy Flood Mine"
+    path: "Redc_bgm_Strain.g.32.dspadpcm.bfstm"
+    type: warning
+  - id: world_5_smw3d
+    title: "World 5"
+    path: "Redc_bgm_Map05.yi.32.dspadpcm.bfstm"
+    type: betting
+  - id: credits_smw3d
+    title: "The Credits Roll"
+    path: "Redc_bgm_Staffroll.g.48.dspadpcm.bfstm"
+    ends: 2:07
+    type: betting
+  - id: conkdor_canyon
+    title: "Conkdor Canyon"
+    path: "Redc_bgm_Desert.yi.32.dspadpcm.bfstm"
+    type: betting
+  - id: world_6_smw3d
+    title: "World 6"
+    path: "Redc_bgm_Map06.my.32.dspadpcm.bfstm"
+    type: betting
+  - id: cap_toad_peekaboo
+    title: "Captain Toad Plays Peek-a-Boo"
+    path: "Redc_bgm_Kinotan02.my.32.dspadpcm.bfstm"
+    type: break
+  - id: world_castle_smw3d
+    title: "World Castle"
+    path: "Redc_bgm_Map07.my.32.dspadpcm.bfstm"
+    type: warning
+  - id: bowser_bullet_bill_brigade
+    title: "Bowser's Bullet Bill Brigade"
+    path: "Redc_bgm_Tankmarch.g.32.dspadpcm.bfstm"
+    type: betting
+  - id: piranha_creeper_creek
+    title: "Piranha Creeper Creek"
+    path: "Redc_bgm_Jungle.g.32.dspadpcm.bfstm"
+    type: betting
+  - id: bowser_lava_lake_keep
+    title: "Bowser's Lava Lake Keep"
+    path: "Bowser's Lava Lake Keep.brstm"
+    type: betting
+  - id: victory_parade_smw3d
+    title: "Victory Parade"
+    path: "Redc_bgm_Afterboss.my.32.dspadpcm.bfstm"
+    type: result
+  - id: world_star
+    title: "World Star"
+    path: "Redc_bgm_Map09.my.32.dspadpcm.bfstm"
+    type: betting
+  - id: rainbow_run
+    title: "Rainbow Run"
+    path: "Redc_bgm_Skybonus01.my.32.dspadpcm.bfstm"
+    type: betting
+  - id: super_block_land
+    title: "Super Block Land"
+    path: "Redc_bgm_Blockland.g.32.dspadpcm.bfstm"
+    type: betting
+  - id: captain_toad_fiery_finale
+    title: "Captain Toad's Fiery Finale"
+    path: "Captain Toad's Fiery Finale.brstm"
+    type: break
 ...

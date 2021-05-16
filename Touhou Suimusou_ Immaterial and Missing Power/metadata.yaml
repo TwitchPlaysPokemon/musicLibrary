@@ -41,4 +41,28 @@ songs:
     title: "End of Summer"
     path: "[15] End of Summer.brstm"
     type: break
+  - id: maidens_capriccio
+    title: "Maiden's Capriccio"
+    path: "[02] Maiden's Capriccio.brstm"
+    type: betting
+  - id: love_coloured_magic
+    title: "Love-Coloured Magic"
+    path: "[04] Love-coloured Magic.brstm"
+    type: betting
+  - id: mystic_oriental_dream_ancient_temple
+    title: "Mystic Oriental Dream ~ Ancient Temple"
+    path: "[12] Mystic Oriental Dream ~ Ancient Temple.brstm"
+    type: betting
+  - id: skygazer
+    title: "Skygazer"
+    path: "[13] Skygazer.brstm"
+    type: result
+  - id: swift_battle
+    title: "Swift Battle"
+    path: "[15] Swift Battle.brstm"
+    type: warning
+  - id: onigashima_in_the_fairyland_missing_power
+    title: "Onigashima in the Fairyland ~ Missing Power"
+    path: "Onigashima in the Fairyland.brstm"
+    type: battle
 ...

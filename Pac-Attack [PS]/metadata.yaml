@@ -1,0 +1,36 @@
+---
+id: pac_attack_playstation
+title: "Pac-Attack [PlayStation]"
+series: pacman
+platform: "Various"
+year: 1998
+songs:
+  - id: beginner_and_novice
+    title: "Beginner and Novice"
+    path: "Beginner and Novice.brstm"
+    type: betting
+  - id: beginner_and_novice_hurry_up
+    title: "Beginner and Novice (Hurry Up!)"
+    path: "Beginner and Novice (Hurry Up!).brstm"
+    type: warning
+  - id: credits_pac_attack
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+  - id: godhand
+    title: "Godhand"
+    path: "Godhand.brstm"
+    type: warning
+  - id: godhand_hurry_up
+    title: "Godhand (Hurry Up!)"
+    path: "Godhand (Hurry Up!).brstm"
+    type: warning
+  - id: high_score_pac_attack
+    title: "High Score"
+    path: "High Score.brstm"
+    type: result
+  - id: standard_pac_attack
+    title: "Standard"
+    path: "Standard.brstm"
+    type: betting
+...

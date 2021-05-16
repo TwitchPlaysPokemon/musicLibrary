@@ -8,3 +8,49 @@ songs:
     path: "MAGAMADIVER.brstm"
     ends: 2:17
     type: betting
+  - id: komm_susser_tod
+    title: "Komm, Süsser Tod"
+    path: "01 Komm, Süsser Tod.miniusf"
+    type: break
+  - id: souls_refrain
+    title: "Soul's Refrain"
+    path: "02 Soul's Refrain.miniusf"
+    ends: 2:24
+    type: betting
+  - id: the_beast_ii
+    title: "The Beast II"
+    path: "19 The Beast II.miniusf"
+    type: warning
+  - id: a_step_forward_into_terror
+    title: "A Step Forward into Terror"
+    path: "09 A Step Forward into Terror.miniusf"
+    ends: 2:09
+    type: betting
+  - id: cruel_angels_thesis
+    title: "Cruel Angel's Thesis"
+    path: "04 Cruel Angel's Thesis.miniusf"
+    ends: 1:38
+    type: betting
+  - id: thanatos_if_i_cant_be_yours
+    title: "THANATOS - If I can't be yours"
+    path: "03 THANATOS - If I can't be yours.miniusf"
+    ends: 2:03
+    type: betting
+  - id: a_crytalline_night_sky
+    title: "A Crystalline Night Sky"
+    path: "05 A Crystalline Night Sky.miniusf"
+    type: warning
+  - id: both_of_you_dance_like_you_want_to_win
+    title: "Both of You, Dance Like You Want to Win!"
+    path: "10 Both of You, Dance Like You Want to Win!.miniusf"
+    type: result
+  - id: dont_make_others_suffer
+    title: "She said, 'Don't make others suffer for your personal hatred'"
+    path: "20 She said, 'Don't make others suffer for your personal hatred'.miniusf"
+    ends: 2:56
+    type: betting
+  - id: halleluijah
+    title: "Messiah oratorio, 'Halleluijah' chorus"
+    path: "21 Messiah oratorio, 'Halleluijah' chorus.miniusf"
+    type: result
+...

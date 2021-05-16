@@ -1,0 +1,68 @@
+---
+id: pokemon_cafe_mix
+title: "Pokémon Café Mix"
+series: pokemon
+platform: ["Switch", "Mobile"]
+year: 2020
+songs: 
+  - id: cafe_fever
+    title: "Café - Fever"
+    path: "BGM_CAF_FEVER.fsb"
+    type: result
+  - id: cafe_pkmn_cafe
+    title: "Café"
+    path: "BGM_CAF_HOME.fsb"
+    type: break
+  - id: cafe_friendship_bonus_active
+    title: "Café - Friendship Bonus Active!"
+    path: "BGM_CAFE_CHANCE.fsb"
+    type: betting
+  - id: cafe_event
+    title: "Café - Event"
+    path: "BGM_CAFE_EVENT.fsb"
+    type: result
+  - id: master_cafe
+    title: "Master Café"
+    path: "BGM_CAFE_HOME_MASTER.fsb"
+    type: betting
+  - id: cafe_pokemon_invite
+    title: "Café - Pokémon Invite"
+    path: "BGM_CAFE_POKEMON.fsb"
+    type: result
+  - id: results_pkmn_cafe
+    title: "Results"
+    path: "BGM_RESULT1.fsb"
+    type: result
+  - id: orders_up_pkmn_cafe
+    title: "Order's Up"
+    path: "BGM_RESULT2.fsb"
+    type: result
+  - id: mix_drinks
+    title: "Mix - Drinks"
+    path: "BGM_STAGE_0.fsb"
+    type: result
+  - id: mix_unknown
+    title: "Mix - Unknown"
+    path: "BGM_STAGE_1.fsb"
+    type: warning
+  - id: mix_friendship_bonus
+    title: "Mix - Friendship Bonus Active!"
+    path: "BGM_STAGE_2.fsb"
+    type: betting
+  - id: mix_sweets
+    title: "Mix - Sweets"
+    path: "BGM_STAGE_3.fsb"
+    type: break
+  - id: mix_small_plates
+    title: "Mix - Small Plates"
+    path: "BGM_STAGE_4.fsb"
+    type: betting
+  - id: mix_entrees
+    title: "Mix - Entrées"
+    path: "BGM_STAGE_5.fsb"
+    type: betting
+  - id: title_pkmn_cafe
+    title: "Title Screen"
+    path: "BGM_TITLE.fsb"
+    type: break
+...

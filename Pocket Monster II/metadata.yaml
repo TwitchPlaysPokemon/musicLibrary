@@ -1,0 +1,16 @@
+---
+id: pocket_monster_ii
+title: "Pocket Monster II"
+series: pokemon
+platform: "SMD"
+year: 2001
+songs:
+  - id: main_theme_pokemon_ii
+    title: "Main Theme"
+    path: "Main Theme (Title, Ending).brstm"
+    type: result
+  - id: stage_1_plains_stage_4_lab
+    title: "Stage 1 (Plains), Stage 4 (Lab)"
+    path: "Stage 1 (Plains), Stage 4 (Lab).brstm"
+    type: betting
+...

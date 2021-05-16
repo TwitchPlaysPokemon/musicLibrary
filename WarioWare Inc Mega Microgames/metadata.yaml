@@ -1,0 +1,49 @@
+---
+id: warioware_inc_mega_microgames
+title: "Wario Ware, Inc. - Mega Microgame$!"
+series: wario
+platform: ["GBA"]
+year: 2003
+songs:
+  - id: ultra_machine
+    title: "Ultra Machine"
+    path: "F48 9-Volt Boss.minigsf"
+    type: warning
+  - id: nail_call
+    title: "Nail Call"
+    path: "E31 Mona Boss.minigsf"
+    type: break
+  - id: 9_volt_results
+    title: "9-Volt - Results"
+    path: "F49 9-Volt Epilogue.minigsf"
+    type: result
+  - id: the_frog_flap
+    title: "The Frog Flap"
+    path: "G42 Kat Boss.minigsf"
+    type: betting
+  - id: four_seasons
+    title: "Four Seasons"
+    path: "G46 Four Seasons (Full Version).minigsf"
+    type: betting
+  - id: crygors_bathroom_jam
+    title: "Crygor's Bathroom Jam"
+    path: "H33 Crygor's Bathroom Jam (Full Version).minigsf"
+    ends: 2:44
+    type: betting
+  - id: orbulon_results
+    title: "Orbulon - Results"
+    path: "I29 Orbulon Game Over.minigsf"
+    type: results
+  - id: dungeon_dilemma
+    title: "Dungeon Dilemma"
+    path: "I31 Orbulon Boss.minigsf"
+    type: warning
+  - id: warios_adventure
+    title: "Wario's Adventure"
+    path: "J20 Wario Boss.minigsf"
+    type: warning
+  - id: main_menu_after_credits_ww
+    title: "Main Menu (After Credits)"
+    path: "K52 Main Menu (After Credits).minigsf"
+    type: break
+...

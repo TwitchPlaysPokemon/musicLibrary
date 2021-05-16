@@ -16,4 +16,12 @@ songs:
     title: "Sacred of the Darkness"
     path: "sacredtothedarkness.brstm"
     type: betting
+  - id: awaken_one
+    title: "Awaken One"
+    path: "awakenone.brstm"
+    type: warning
+  - id: creators_ewdx
+    title: "Creators"
+    path: "creators.brstm"
+    type: betting
 ...

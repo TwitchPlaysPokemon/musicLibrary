@@ -1,0 +1,27 @@
+---
+id: clubhouse_games
+title: "Clubhouse Games"
+platform: "NDS"
+year: 2005
+songs: 
+  - id: lounge_japanese_games
+    title: "Lounge - Japanese Games"
+    path: "NTR-ATDE-USA-0046.mini2sf"
+    type: betting
+  - id: lounge_balance
+    title: "Lounge - Balance"
+    path: "NTR-ATDE-USA-0044.mini2sf"
+    type: betting
+  - id: lounge_concentration
+    title: "Lounge - Concentration"
+    path: "NTR-ATDE-USA-003a.mini2sf"
+    type: betting
+  - id: lounge_japanese_games_panic
+    title: "Lounge - Japanese Games (Panic)"
+    path: "NTR-ATDE-USA-004b.mini2sf"
+    type: warning
+  - id: mission_mode_clubhouse
+    title: "Mission Mode"
+    path: "NTR-ATDE-USA-002e.mini2sf"
+    type: result
+...

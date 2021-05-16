@@ -1,0 +1,85 @@
+---
+id: super_mario_3d_world_bowsers_fury
+title: "Super Mario 3D World + Bowser's Fury"
+series: mario
+platform: "Switch"
+year: 2021
+songs:
+  - id: opening_menu_bowsers_fury
+    title: "Opening Menu"
+    path: "WS_RCS_BGM_TITLE_MAIN.bfwav"
+    type: break
+  - id: bowsers_fury_title
+    title: "Bowser's Fury - Title Screen"
+    path: "WS_RCS_BGM_SINGLEMODETITLE.bfwav"
+    type: warning
+  - id: fury_bowser_assault_fur_step
+    title: "Fury Bowser's Assault on Fur Step Island"
+    path: "Redcs_bgm_Disaster_Phase0_bpm83.dspadpcm.bfstm"
+    type: warning
+  - id: lake_lapcat
+    title: "Lake Lapcat"
+    path: "Redcs_bgm_Ocean_bpm102.dspadpcm.bfstm"
+    type: break
+  - id: scamper_shores
+    title: "Scamper Shores"
+    path: "Redcs_bgm_Stage01_bpm196.dspadpcm.bfstm"
+    type: betting
+  - id: restless_fury_bowser
+    title: "Restless Fury Bowser"
+    path: "Redcs_bgm_Disaster_Before_bpm80.dspadpcm.bfstm"
+    type: warning
+  - id: fury_bowser_awakened
+    title: "Fury Bowser Awakened"
+    path: "Redcs_bgm_Disaster_bpm154.dspadpcm.bfstm"
+    type: battle
+  - id: bounce_pounce_isle
+    title: "Bounce Pounce Isle"
+    path: "Redcs_bgm_Stage02_bpm136.dspadpcm.bfstm"
+    type: battle
+  - id: fort_flaptrap
+    title: "Fort Flaptrap"
+    path: "Redcs_bgm_Stage03_bpm123.dspadpcm.bfstm"
+    type: betting
+  - id: giga_cat_mario_versus_fury_bowser
+    title: "Giga Cat Mario Vs. Fury Bowser"
+    path: "Redcs_bgm_Boss_Normal_bpm124.dspadpcm.bfstm"
+    type: battle
+  - id: cruising_lake_lapcat
+    title: "Cruising Lake Lapcat with Plessie"
+    path: "STM_RCS_BGM_PLESSIE_1.brstm"
+    type: result
+  - id: crisp_climb_castle
+    title: "Crisp Climb Castle"
+    path: "Redcs_bgm_Stage04_bpm188.dspadpcm.bfstm"
+    type: betting
+  - id: Furious_fury_bowser
+    title: "Furious Fury Bowser"
+    path: "Redcs_bgm_Disaster_Hard_bpm154.dspadpcm.bfstm"
+    type: battle
+  - id: mount_magmeow
+    title: "Mount Magmeow"
+    path: "Redcs_bgm_Stage05_bpm120.dspadpcm.bfstm"
+    type: battle
+  - id: giga_cat_mario_versus_fury_bowser
+    title: "Giga Cat Mario Vs. Fury Bowser"
+    path: "Redcs_bgm_Boss_Normal_bpm124.dspadpcm.bfstm"
+    type: battle
+  - id: ultimate_fury_bowser
+    title: "Ultimate Fury Bowser"
+    path: "Redcs_bgm_Disaster_SuperHard_bpm154.dspadpcm.bfstm"
+    type: result
+  - id: giga_cat_mario_versus_fury_bowser_final
+    title: "Giga Cat Mario Vs. Fury Bowser Final Round"
+    path: "Redcs_bgm_Boss_Final_bpm124.dspadpcm.bfstm"
+    type: battle
+  - id: mario_and_plessie_vs_bowser_last_ditch_effort
+    title: "Mario and Plessie Vs. Bowser's Last-Ditch Effort!"
+    path: "Redcs_bgm_Plessie_Chase_bpm178.dspadpcm.bfstm"
+    type: battle
+  - id: bowser_fury_staff_roll
+    title: "Bowser's Fury Staff Roll"
+    path: "Redcs_bgm_Demo_StaffRoll_bpm132.dspadpcm.bfstm"
+    ends: 2:08
+    type: battle
+...

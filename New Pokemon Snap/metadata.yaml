@@ -1,0 +1,68 @@
+---
+id: new_pokemon_snap
+title: "New Pokémon Snap"
+series: pokemon
+platform: "Switch"
+year: 2021
+songs: 
+  - id: research_camp
+    title: "Research Camp"
+    path: "Play_bgm_outgame (scene=basecamp_photo).txtp"
+    type: betting
+  - id: lab_new_pokemon_snap
+    title: "Lab"
+    path: "Play_bgm_outgame (scene=lab).txtp"
+    type: betting
+  - id: lental_map
+    title: "Lental Map"
+    path: "Play_bgm_outgame (scene=mapselect).txtp"
+    type: warning
+  - id: photodex
+    title: "Photodex"
+    path: "Play_bgm_outgame (scene=photo_zukan).txtp"
+    type: result
+  - id: tutorial_new_pokemon_snap
+    title: "Tutorial"
+    path: "Play_bgm_outgame (scene=tutorial).txtp"
+    type: betting
+  - id: results_new_pokemon_snap
+    title: "Results"
+    path: "Play_bgm_result.txtp"
+    type: result
+  - id: florio_nature_park_day
+    title: "Florio Nature Park (Day)"
+    path: "Play_bgm_map (route=route_01).txtp"
+    type: betting
+  - id: florio_nature_park_night
+    title: "Florio Nature Park (Night)"
+    path: "Play_bgm_map (route=route_02).txtp"
+    type: betting
+  - id: florio_nature_park_illumina_spot
+    title: "Florio Nature Park (Illumina Spot)"
+    path: "Play_bgm_map (route=route_05).txtp"
+    type: betting
+  - id: founja_jungle_day
+    title: "Founja Jungle (Day)"
+    path: "Play_bgm_map (route=route_06).txtp"
+    type: betting
+  - id: founja_jungle_night
+    title: "Founja Jungle (Night)"
+    path: "Play_bgm_map (route=route_07).txtp"
+    type: betting
+  - id: blushing_beach_day
+    title: "Blushing Beach (Day)"
+    path: "Play_bgm_map (route=route_12).txtp"
+    type: betting
+  - id: blushing_beach_night
+    title: "Blushing Beach (Night)"
+    path: "Play_bgm_map (route=route_13).txtp"
+    type: betting
+  - id: maricopia_reef_day
+    title: "Maricopia Reef (Day)"
+    path: "Play_bgm_map (route=route_14).txtp"
+    type: betting
+  - id: maricopia_reef_night
+    title: "Maricopia Reef (Night)"
+    path: "Play_bgm_map (route=route_15).txtp"
+    type: betting
+...

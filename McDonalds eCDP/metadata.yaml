@@ -1,0 +1,35 @@
+---
+id: mcdonalds_ecdp
+title: "McDonald's eCDP - eCrew Development Program"
+platform: ["NDS"]
+year: 2010
+songs: 
+  - id: bg00_mcd
+    title: "BG 00"
+    path: "0000 - BG_00.minincsf"
+    type: result
+  - id: bg00_alt_mcd
+    title: "BG 00 - alternate"
+    path: "000b - BG_00.minincsf"
+    type: betting
+  - id: bg01_mcd
+    title: "BG 01"
+    path: "000c - BG_01.minincsf"
+    type: break
+  - id: bg01_alt_mcd
+    title: "BG 01 - alternate"
+    path: "0001 - BG_01.minincsf"
+    type: result
+  - id: bg04_mcd
+    title: "BG 04"
+    path: "0004 - BG_04.minincsf"
+    type: result
+  - id: bg05_mcd
+    title: "BG 05"
+    path: "0005 - BG_05.minincsf"
+    type: warning
+  - id: bg09_mcd
+    title: "BG 09"
+    path: "0009 - BG_09.minincsf"
+    type: result
+...

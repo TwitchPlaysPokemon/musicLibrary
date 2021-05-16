@@ -1,0 +1,31 @@
+---
+id: friday_night_funkin
+title: "Friday Night Funkin'"
+platform: "PC"
+year: 2020 
+songs: 
+  - id: gettin_freaky
+    title: "Gettin' Freaky (Menu)"
+    path: "1. Menu - Gettin' Freaky.brstm"
+    type: betting
+  - id: fresh_instrumental
+    title: "Fresh (Instrumental)"
+    path: "47. Week 1 - Daddy Dearest - Fresh (Instrumental).brstm"
+    type: betting
+  - id: south_instrumental
+    title: "South (Instrumental)"
+    path: "51. Week 2 - Spooky Month - South (Instrumental).brstm"
+    type: betting
+  - id: breakfast_pause
+    title: "Breakfast (Pause Menu)"
+    path: "84. Pause Menu - Breakfast.brstm"
+    type: break
+  - id: game_over_fnf
+    title: "Game Over"
+    path: "Game Over - Normal.brstm"
+    type: result
+  - id: game_over_pixel_fnf
+    title: "Game Over (Week 6)"
+    path: "Game Over - Pixel.brstm"
+    type: result
+...

@@ -1,6 +1,7 @@
 ---
 id: touhou_hyouibana_the_antinomy_of_common_flowers
 title: "Touhou Hyouibana ~ The Antinomy of Common Flowers"
+series: touhou
 platform: "PC"
 year: 2017
 songs: 
@@ -56,4 +57,61 @@ songs:
     title: "Unknown X ~ Occultly Madness"
     path: "145st04.sfl"
     type: battle
+  - id: occult_attract
+    title: "Occult Attract"
+    path: "145st01.sfl"
+    type: battle
+  - id: battlefield_of_the_flower_threshold
+    title: "Battlefield of the Flower Threshold"
+    path: "155kasen1.sfl"
+    type: betting
+  - id: mushroom_walte
+    title: "Mushroom Waltz"
+    path: "bgst02.sfl"
+    type: betting
+  - id: equality_under_the_law_of_dharma
+    title: "Equality Under the Law of Dharma"
+    path: "bgst04.sfl"
+    type: battle
+  - id: yorimashi_between_dreams_and_reality_necro_fantasia
+    title: "Yorimashi Between Dreams and Reality ~ Necro-Fantasia"
+    path: "midboss.sfl"
+    type: battle
+  - id: yorimashi_between_dreams_and_reality_necro_fantasia_arrange
+    title: "Yorimashi Between Dreams and Reality ~ Necro-Fantasia (Arrange)"
+    path: "08. あきやまうに - 憑坐は夢と現の間に　～ Necro-Fantasia.brstm"
+    type: battle
+  - id: the_curtain_shall_rise_soon
+    title: "The Curtain Shall Rise Soon"
+    path: "About to Raise the Curtain.brstm"
+    type: warning
+  - id: an_odd_couple
+    title: "An Odd Couple"
+    path: "An Odd Couple.brstm"
+    type: warning
+  - id: grandiloquence
+    title: "Grandiloquence"
+    path: "Grandiloquence.brstm"
+    type: warning
+  - id: in_high_spirits
+    title: "In High Spirits"
+    path: "In High Spirits.brstm"
+    type: warning
+  - id: scheming_outside_the_box
+    title: "Scheming Outside the Box"
+    path: "Scheming Outside the Box.brstm"
+    type: warning
+  - id: the_one_jointly_responsible
+    title: "The One Jointly Responsible"
+    path: "The One Jointly Responsible.brstm"
+    type: warning
+  - id: two_minds_of_one_body
+    title: "Two Minds of One Body"
+    path: "Two Minds of One Body.brstm"
+    type: warning
+  - id: flawless_as_clothing_of_the_celestials_yellow_lily
+    title: "Flawless as Clothing of the Celestials ~ Yellow Lily"
+    path: "Flawless Clothing of the Celestials ~ Yellow Lily.brstm"
+    ends: 2:11
+    type: betting
 ...

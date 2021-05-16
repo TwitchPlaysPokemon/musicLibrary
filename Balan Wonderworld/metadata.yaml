@@ -1,0 +1,35 @@
+---
+id: balan_wonderworld
+title: "Balan Wonderworld"
+platform: "Various"
+year: 2021 
+songs: 
+  - id: balan_bout
+    title: "Balan Bout"
+    path: "BGM_BALANGAME_MAINTHEME.mab"
+    type: battle
+  - id: the_man_who_rages_against_the_storm
+    title: "The Man Who Rages Against The Storm"
+    path: "BGM_GRASSLAND.mab"
+    type: betting
+  - id: vs_barktholomew
+    title: "Vs. Barktholomew"
+    path: "BGM_GLASSLAND_BOSS.mab"
+    type: battle
+  - id: the_dolphin_and_the_diver
+    title: "The Dolphin And The Diver"
+    path: "BGM_SEA.mab"
+    type: betting
+  - id: vs_anjellica
+    title: "Vs. Anjellica"
+    path: "BGM_SEA_BOSS.mab"
+    type: battle
+  - id: the_firefighter_with_heroic_aspirations
+    title: "The Firefighter With Heroic Aspirations"
+    path: "BGM_MAGMA.mab"
+    type: betting
+  - id: vs_hydrag
+    title: "Vs. Hydrag"
+    path: "BGM_MAGMA_BOSS.mab"
+    type: battle
+...

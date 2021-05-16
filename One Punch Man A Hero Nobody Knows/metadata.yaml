@@ -1,0 +1,59 @@
+---
+id: one_punch_man_a_hero_nobody_knows
+title: "One Punch Man: A Hero Nobody Knows"
+platform: ["PC", "PS4", "XB1"]
+year: 2020 
+songs: 
+  - id: avatar_editor
+    title: "Avatar Editor"
+    path: "OPM_AVATAR_EDIT.hca"
+    type: betting
+  - id: back_street
+    title: "Back Street"
+    path: "OPM_BACK_STREET.hca"
+    type: battle
+  - id: character_select_opm
+    title: "Character Select"
+    path: "OPM_CHARACTER_SELECT.hca"
+    type: betting
+  - id: lobby_opm
+    title: "Lobby"
+    path: "OPM_LOBBY.hca"
+    type: betting
+  - id: lobby_emergency_opm
+    title: "Lobby - Emergency"
+    path: "OPM_LOBBY_EMERGENCY.hca"
+    type: warning
+  - id: mission_select_opm
+    title: "Mission Select"
+    path: "OPM_MISSION_SELECT.hca"
+    type: betting
+  - id: raid_battle_opm
+    title: "Raid Battle"
+    path: "OPM_RAID_BATTLE.hca"
+    type: battle
+  - id: shop_opm
+    title: "Shop"
+    path: "OPM_SHOP.hca"
+    type: betting
+  - id: story_saitama
+    title: "Story - Saitama"
+    path: "OPM_STORY_SAITAMA.hca"
+    type: break
+  - id: story_hostility
+    title: "Story - Hostility"
+    path: "OPM_STORY_TEKITAI.hca"
+    type: warning
+  - id: title_theme_opm
+    title: "Title Theme"
+    path: "OPM_TITLE.hca"
+    type: betting
+  - id: tournament_mode_opm
+    title: "Tournament Mode"
+    path: "OPM_TOURNAMENT.hca"
+    type: betting
+  - id: town_menu_opm
+    title: "Town Menu"
+    path: "OPM_TOWN_MENU.hca"
+    type: betting
+...

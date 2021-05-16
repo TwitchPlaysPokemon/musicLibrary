@@ -1,0 +1,159 @@
+---
+id: playstation_allstars_battle_royale
+title: "PlayStation All-Stars Battle Royale"
+platform: ["PS3", "Vita"]
+year: 2012
+songs: 
+  - id: black_rock_stadium_jak_daxter
+    title: "Black Rock Stadium - Jak & Daxter"
+    path: "Black Rock Stadium - Jak & Daxter.brstm"
+    type: betting
+  - id: black_rock_stadium_twisted_metal
+    title: "Black Rock Stadium - Twisted Metal"
+    path: "Black Rock Stadium - Twisted Metal.brstm"
+    type: battle
+  - id: dojo_parappa
+    title: "Dojo - PaRappa The Rapper"
+    path: "Dojo - PaRappa The Rapper.brstm"
+    type: betting
+  - id: dojo_killzone
+    title: "Dojo - Killzone"
+    path: "Dojo - Killzone.brstm"
+    type: battle
+  - id: dreamscape_lbp
+    title: "Dreamscape - LittleBigPlanet"
+    path: "Dreamscape - LittleBigPlanet.brstm"
+    type: break
+  - id: dreamscape_buzz
+    title: "Dreamscape - Buzz!"
+    path: "Dreamscape - Buzz!.brstm"
+    type: betting
+  - id: fearless_heavenly_sword
+    title: "Fearless - Heavenly Sword"
+    path: "Fearless - Heavenly Sword.brstm"
+    type: betting
+  - id: fearless_wipeout
+    title: "Fearless - WipEout"
+    path: "Fearless - WipEout.brstm"
+    type: battle
+  - id: franzea_locoroco
+    title: "Franzea - LocoRoco"
+    path: "Franzea - LocoRoco.brstm"
+    type: betting
+  - id: franzea_metal_gear
+    title: "Franzea - Metal Gear"
+    path: "Franzea - Metal Gear.brstm"
+    type: battle
+  - id: invasion_killzone
+    title: "Invasion - Killzone"
+    path: "Invasion - Killzone.brstm"
+    type: betting
+  - id: invasion_ape_escape
+    title: "Invasion - Ape Escape"
+    path: "Invasion - Ape Escape.brstm"
+    type: betting
+  - id: main_menu_psallstar
+    title: "Main Menu (Medium)"
+    path: "Main Menu (Medium).brstm"
+    type: betting
+  - id: match_summary_psallstar
+    title: "Match Summary"
+    path: "Match Summary.brstm"
+    type: result
+  - id: metropolis_ratchet_clank
+    title: "Metropolis - Ratchet & Clank"
+    path: "Metropolis - Ratchet & Clank.brstm"
+    type: betting
+  - id: metropolis_godofwar
+    title: "Metropolis - God of War"
+    path: "Metropolis - God of War.brstm"
+    type: battle
+  - id: paris_sly
+    title: "Paris - Sly Cooper"
+    path: "Paris - Sly Cooper.brstm"
+    type: betting
+  - id: paris_lbp
+    title: "Paris - LittleBigPlanet"
+    path: "Paris - LittleBigPlanet.brstm"
+    type: betting
+  - id: alden_tower_infamous
+    title: "Alden's Tower - inFAMOUS"
+    path: "Alden's Tower - inFAMOUS.brstm"
+    type: betting
+  - id: alden_tower_sly
+    title: "Alden's Tower - Sly Cooper"
+    path: "Alden's Tower - Sly Cooper.brstm"
+    type: betting
+  - id: columbia_bioshock
+    title: "Columbia - BioShock"
+    path: "Columbia - BioShock.brstm"
+    type: battle
+  - id: columbia_twisted_metal
+    title: "Columbia - Twisted Metal"
+    path: "Columbia - Twisted Metal.brstm"
+    type: battle
+  - id: hades_god_of_war
+    title: "Hades - God of War"
+    path: "Hades - God of War.brstm"
+    type: battle
+  - id: hades_patapon
+    title: "Hades - Patapon"
+    path: "Hades - Patapon.brstm"
+    type: result
+  - id: polygon_man_phase1
+    title: "Polygon Man - Phase 1.brstm"
+    path: "Polygon Man - Phase 1.brstm"
+    type: battle
+  - id: polygon_man_phase2
+    title: "Polygon Man - Phase 2.brstm"
+    path: "Polygon Man - Phase 2.brstm"
+    type: battle
+  - id: polygon_man_phase3
+    title: "Polygon Man - Phase 3.brstm"
+    path: "Polygon Man - Phase 3.brstm"
+    type: battle
+  - id: rival_light
+    title: "Rival Arena (Light)"
+    path: "Rival Arena (Light).brstm"
+    type: battle
+  - id: san_francisco_resistance
+    title: "San Francisco - Resistance"
+    path: "San Francisco - Resistance.brstm"
+    type: betting
+  - id: san_francisco_ratchet_clank
+    title: "San Francisco - Ratchet & Clank"
+    path: "San Francisco - Ratchet & Clank.brstm"
+    type: battle
+  - id: sandover_village_jak_daxter
+    title: "Sandover Village - Jak & Daxter"
+    path: "Sandover Village - Jak & Daxter.brstm"
+    type: betting
+  - id: sandover_village_hot_shots_golf
+    title: "Sandover Village - Hot Shots Golf"
+    path: "Sandover Village - Hot Shots Golf.brstm"
+    type: break
+  - id: stowaways_uncharted
+    title: "Stowaways - Uncharted"
+    path: "Stowaways - Uncharted.brstm"
+    type: betting
+  - id: stowaways_bioshock
+    title: "Stowaways - BioShock"
+    path: "Stowaways - BioShock.brstm"
+    type: break
+  - id: graveyard_medievil
+    title: "The Graveyard - MediEvil"
+    path: "The Graveyard - MediEvil.brstm"
+    type: betting
+  - id: graveyard_unfinished_swan
+    title: "The Graveyard - The Unfinished Swan"
+    path: "The Graveyard - The Unfinished Swan.brstm"
+    type: betting
+  - id: time_station_ape_escape
+    title: "Time Station - Ape Escape"
+    path: "Time Station - Ape Escape.brstm"
+    type: break
+  - id: time_station_resistance
+    title: "Time Station - Resistance"
+    path: "Time Station - Resistance.brstm"
+    type: betting
+...

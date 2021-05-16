@@ -1,0 +1,51 @@
+---
+id: metaware_high_school_demo
+title: "MetaWare High School (Demo)"
+platform: "PC"
+year: 2020
+songs: 
+  - id: title_metaware
+    title: "Title Screen"
+    path: "01. Title Screen.brstm"
+    type: result
+  - id: welcome_to_metaware
+    title: "Welcome to MetaWare High School (Demo)!"
+    path: "03. Welcome to MetaWare High School (Demo)!.brstm"
+    type: break
+  - id: too_intense_beat
+    title: "Too Intense Beat"
+    path: "04. Too Intense Beat.brstm"
+    type: warning
+  - id: demo_stuff
+    title: "Demo Stuff"
+    path: "05. Demo Stuff.brstm"
+    type: break
+  - id: mochi_shop
+    title: "Mochi Shop"
+    path: "06. Mochi Shop.brstm"
+    type: break
+  - id: until_next_time
+    title: "Until Next Time!"
+    path: "07. Until Next Time!.brstm"
+    type: break
+  - id: too_intense_beat2
+    title: "Too Intense Beat 2"
+    path: "09. Too Intense Beat 2.brstm"
+    type: betting
+  - id: aspen_grills_u
+    title: "Aspen Grills U"
+    path: "13. Aspen Grills U.brstm"
+    type: warning
+  - id: nari_grills_u
+    title: "Nari Grills U"
+    path: "	14. Nari Grills U.brstm"
+    type: warning
+  - id: the_smartest_person_in_the_gang
+    title: "the smartest person in the gang"
+    path: "16. the smartest person in the gang.brstm"
+    type: break
+  - id: we_are_immortal
+    title: "We Are Immortal"
+    path: "18. We Are Immortal.brstm"
+    type: betting
+...

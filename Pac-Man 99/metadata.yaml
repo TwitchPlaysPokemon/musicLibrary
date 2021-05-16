@@ -1,0 +1,36 @@
+---
+id: pacman_99
+title: "Pac-Man 99"
+series: pacman
+platform: ["Switch"]
+year: 2021
+songs:
+  - id: menu_pac99
+    title: "Menu/Matchmaking"
+    path: "bgm_menu.dspadpcm.bfstm"
+    type: betting
+  - id: game_theme_pac99
+    title: "Game Theme"
+    path: "bgm_game_def_1.dspadpcm.bfstm"
+    type: betting
+  - id: game_theme_50_pac99
+    title: "Game Theme (50 Players Remaining)"
+    path: "bgm_game_def_2.dspadpcm.bfstm"
+    type: warning
+  - id: game_theme_10_pac99
+    title: "Game Theme (10 Players Remaining)"
+    path: "bgm_game_def_3.dspadpcm.bfstm"
+    type: warning
+  - id: rank_pacone
+    title: "Ranking (PAC-ONE)"
+    path: "bgm_result_A.dspadpcm.bfstm"
+    type: result
+  - id: rank_pacnone
+    title: "Ranking (Loser)"
+    path: "bgm_result_B.dspadpcm.bfstm"
+    type: result
+  - id: staff_roll_pac99
+    title: "Staff Credits"
+    path: "bgm_staff_roll.dspadpcm.bfstm"
+    type: result
+...

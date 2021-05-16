@@ -13,4 +13,44 @@ songs:
     title: "Mii Channel"
     path: "Mii Channel (Wii).brstm"
     type: betting
+  - id: castlevania_retro_medley
+    title: "Castlevania Retro Medley"
+    path: "01 Castlevania Retro Medley (Castlevania).brstm"
+    type: betting
+  - id: ryu_stage
+    title: "Ryu Stage"
+    path: "02 Ryu Stage (Street Fighter II).brstm"
+    type: betting
+  - id: legend_of_zelda_main
+    title: "Main Theme (The Legend of Zelda)"
+    path: "03 Main Theme (The Legend of Zelda).brstm"
+    type: result
+  - id: sky_pillar
+    title: "Sky Pillar"
+    path: "04 Sky Pillar (Pokémon Emerald).brstm"
+    type: warning
+  - id: dont_think_twice
+    title: "Don't Think Twice"
+    path: "05 Don't Think Twice (Kingdom Hearts III).brstm"
+    type: betting
+  - id: ashley_theme
+    title: "Ashley's Theme"
+    path: "06 Ashley's Theme (WarioWare- Touched!).brstm"
+    type: warning
+  - id: flat_zone_2k19
+    title: "Flat Zone 2K19"
+    path: "07 Flat Zone 2K19 (Game & Watch).brstm"
+    type: betting
+  - id: storm_eagle
+    title: "Storm Eagle"
+    path: "08 Storm Eagle (Mega Man X).brstm"
+    type: battle
+  - id: sky_tower
+    title: "Sky Tower"
+    path: "10 Sky Tower (Pokémon Mystery Dungeon).brstm"
+    type: betting
+  - id: sacred_moon
+    title: "Sacred Moon"
+    path: "11 Sacred Moon (Kingdom Hearts II).brstm"
+    type: betting
 ...

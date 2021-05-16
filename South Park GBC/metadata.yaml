@@ -1,0 +1,19 @@
+---
+id: south_park_gb
+title: "South Park"
+platform: ["GBC"]
+year: Unreleased
+songs:
+  - id: title_spgb
+    title: "Main Theme"
+    path: "01 Main Theme.vgz"
+    type: result
+  - id: mus01_spgb
+    title: "On the Way to School ~ Cattle Ranch ~ Up the Mountain"
+    path: "02 On the Way to School ~ Cattle Ranch ~ Up the Mountain.vgz"
+    type: betting
+  - id: mus02_spgb
+    title: "On the Bus ~ At School ~ At the Mall ~ Stan's House ~ Genetic Research Lab ~ Alien Spacecraft"
+    path: "03 On the Bus ~ At School ~ At the Mall ~ Stan's House ~ Genetic Research Lab ~ Alien Spacecraft.vgz"
+    type: betting
+...

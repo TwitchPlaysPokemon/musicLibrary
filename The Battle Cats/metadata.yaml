@@ -1,0 +1,39 @@
+---
+id: the_battle_cats
+title: "The Battle Cats"
+platform: "Mobile"
+year: 2014
+songs: 
+  - id: japan_invasion
+    title: "Japan Invasion"
+    path: "JapanInvasion.brstm"
+    type: betting
+  - id: naniwas_lover
+    title: "Naniwa's Lover"
+    path: "NaniwasLover.brstm"
+    type: battle
+  - id: slown_battle
+    title: "Slown Battle"
+    path: "SlownBattle.brstm"
+    type: betting
+  - id: future_invaders
+    title: "Future Invaders"
+    path: "FutureInvaders.brstm"
+    type: battle
+  - id: space_romance_flight
+    title: "Space Romance Flight"
+    path: "SpaceRomanceFlight.brstm"
+    type: betting
+  - id: hero_of_the_galaxy
+    title: "Hero of the Galaxy"
+    path: "HerooftheGalaxy.brstm"
+    type: warning
+  - id: filibuster_obstructa
+    title: "Filibuster Obstructa"
+    path: "FilibusterObstructa.brstm"
+    type: battle
+  - id: heavenly_tower_floor_50
+    title: "Heavenly Tower (Floor 50)"
+    path: "HeavenlyTower50.brstm"
+    type: betting
+...

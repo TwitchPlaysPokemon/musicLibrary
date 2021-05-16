@@ -118,4 +118,20 @@ songs:
     title: "Cloudy Court Galaxy"
     path: "SMG2_galaxy07_strm.ast"
     type: betting
+  - id: unused_galaxy_theme
+    title: "Unused Galaxy Theme"
+    path: "SMG2_galaxy08_strm.ast"
+    type: betting
+  - id: unused_world_map_1
+    title: "Unused World Map 1"
+    path: "SMG2_worldmap01_strm.ast"
+    type: break
+  - id: unused_world_map_2
+    title: "Unused World Map 2"
+    path: "SMG2_worldmap02_strm.ast"
+    type: break
+  - id: digga_leg_fast
+    title: "Digga-Leg - Fast (Unused)"
+    path: "SMG2_boss08b_strm.ast"
+    type: battle
 ...

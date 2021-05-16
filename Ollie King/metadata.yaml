@@ -1,0 +1,35 @@
+---
+id: ollie_king
+title: "Ollie King"
+platform: "Arcade"
+year: 2004
+songs:
+  - id: boarder_70
+    title: "Boarder 70"
+    path: "Boarder 70.brstm"
+    type: warning
+  - id: brother_goes_away
+    title: "Brother Goes Away"
+    path: "Brother Goes Away.brstm"
+    type: betting
+  - id: funk_to_the_top
+    title: "Funk To The Top"
+    path: "Funk To The Top.brstm"
+    type: betting
+  - id: let_it_go
+    title: "Let It Go"
+    path: "Let It Go.brstm"
+    type: betting
+  - id: teknopathetic_e_pop_n_disco_80_s_mix
+    title: "Teknopathetic [e-Pop 'n' Disco 80's Mix]"
+    path: "Teknopathic (Pop n' Disco 80's Mix).brstm"
+    type: betting
+  - id: the_concept_of_love_the_concept_of_passion_mix
+    title: "The Concept of Love [The Concept of Passion Mix]"
+    path: "The Concept of Love [Concept of Passion Mix].brstm"
+    type: betting
+  - id: too_fast_ollie_king
+    title: "Too Fast"
+    path: "Too Fast.brstm"
+    type: battle
+...

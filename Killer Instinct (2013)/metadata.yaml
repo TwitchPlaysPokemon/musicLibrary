@@ -1,6 +1,7 @@
+---
 id: killer_instinct_2013
 title: "Killer Instinct (2013)"
-platform: ["XBone", "PC"]
+platform: ["XB1", "PC"]
 series: killerinstinct
 year: 2013
 songs:
@@ -8,3 +9,40 @@ songs:
     title: "Inferno (Cinder's Theme)"
     path: "Inferno (Cinder's Theme).brstm"
     type: battle
+  - id: polemos_aganos_theme
+    title: "Polemos (Aganos's Theme)"
+    path: "Polemos.brstm"
+    type: battle
+  - id: type_03_fulgore_theme
+    title: "Type-03 (Fulgore's Theme)"
+    path: "Type-03 (Fulgore's Theme) [OST Edit].brstm"
+    type: battle
+  - id: kneel_to_your_god_gargos_theme
+    title: "Kneel to Your God (Gargos' Theme)"
+    path: "Kneel to Your God (Gargos' Theme) [OST Edit].brstm"
+    type: battle
+  - id: sandstorm_kan_ra_theme
+    title: "Sandstorm (Kan-Ra's Theme)"
+    path: "Sandstorm (Kan-Ra's Theme) [OST Edit].brstm"
+    type: betting
+  - id: village_of_whispers_hisako_theme
+    title: "Village of Whispers (Hisako's Theme)"
+    path: "Village of Whispers [Short Loop].brstm"
+    type: betting
+  - id: touch_me_and_ill_break_your_face_orchid_theme
+    title: "Touch Me and I'll Break Your Face (Orchid's Theme)"
+    path: "Touch Me and I'll Break Your Face (Extended Ver.).brstm"
+    type: betting
+  - id: im_back_to_rise_tj_combo_theme
+    title: "I'm Back (to Rise) (TJ Combo's Theme)"
+    path: "I'm Back (to Rise) [Short Loop].brstm"
+    type: betting
+  - id: herald_of_gargos_omen_theme
+    title: "Herald of Gargos (Omen's Theme)"
+    path: "Herald of Gargos (Omen's Theme) [OST Edit].brstm"
+    type: betting
+  - id: a_shattered_eyedol_eyedol_theme
+    title: "A Shattered Eyedol (Eyedol's Theme)"
+    path: "A Shattered Eyedol (Eyedol's Theme) [OST Edit].brstm"
+    type: betting
+...

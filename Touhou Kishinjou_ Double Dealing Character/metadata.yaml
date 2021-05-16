@@ -6,35 +6,59 @@ platform: "PC"
 year: 2013
 songs:
   - id: touhou_kishinjou_shining_needle
-    path: "The Shining Needle Castle that Sinks Through the Air.brstm"
     title: "The Shining Needle Castle that Sinks Through the Air"
+    path: "The Shining Needle Castle that Sinks Through the Air.brstm"
     type: betting
   - id: illusionary_joururi
-    path: "Illusionary Shamisen Recital.brstm"
     title: "Illusionary Joururi"
+    path: "Illusionary Shamisen Recital.brstm"
     type: battle
   - id: the_antinomy_of_ideology_demetori
-    title: "The Antinomy of Ideology (Arrange by Demetori)"
     path: "The Antinomy of Ideology.brstm"
+    title: "The Antinomy of Ideology (Arrange by Demetori)"
     type: battle
   - id: kobito_of_the_shining_needle_little_princess
-    path: "Kobito of the Shining Needle ~ Little Princess.brstm"
     title: "Kobito of the Shining Needle ~ Little Princess"
+    path: "Kobito of the Shining Needle ~ Little Princess.brstm"
     type: battle
   - id: four_children_arrange_of_little_princess
-    path: "Four children.brstm"
     title: "~Four Children~ (Arrange of Little Princess by ルイージオ)"
+    path: "Four children.brstm"
     type: battle
   - id: kagerous_theme_lonesome_werewolf
     title: "Lonesome Werewolf"
     path: "Lonesome Werewolf.brstm"
     type: warning
   - id: seijas_theme_reverse_ideology
-    path: "Reverse Ideology.brstm"
     title: "Reverse Ideology"
+    path: "Reverse Ideology.brstm"
     type: battle
   - id: primordial_beat_pristine_beat
-    path: "Primordial Beat ~ Pristine Beat.brstm"
     title: "Primordial Beat ~ Pristine Beat"
+    path: "Primordial Beat ~ Pristine Beat.brstm"
     type: battle
+  - id: mysterious_purification_rod
+    title: "Mysterious Purification Rod"
+    path: "Mysterious Purification Rod.brstm"
+    type: betting
+  - id: mist_lake
+    title: "Mist Lake"
+    path: "Mist Lake.brstm"
+    ends: 2:32
+    type: betting
+  - id: the_exaggerated_caste_keep
+    title: "The Exaggerated Castle Keep"
+    path: "The Exaggerated Castle Keep.brstm"
+    ends: 2:36
+    type: betting
+  - id: magical_storm
+    title: "Magical Storm"
+    path: "Magical Storm.brstm"
+    ends: 2:34
+    type: betting
+  - id: thunderclouds_of_magic_power
+    title: "Thunderclouds of Magical Power"
+    path: "Thunderclouds of Magical Power.brstm"
+    ends: 2:32
+    type: betting
 ...

@@ -83,4 +83,8 @@ songs:
     title: "Wait"
     path: "Wait.brstm"
     type: break
+  - id: pigstep
+    title: "Pigstep"
+    path: "Pigstep.brstm"
+    type: betting
 ...

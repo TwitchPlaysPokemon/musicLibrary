@@ -9,11 +9,11 @@ songs:
     path: "013_BGM_MENU_200804.dspadpcm.bfstm"
     type: betting
   - id: result_a
-    title: "Result A"
+    title: "Ranking (1st Place)"
     path: "014_BGM_RESULT_A_200731.dspadpcm.bfstm"
     type: result
   - id: result_b
-    title: "Result B"
+    title: "Ranking (Loser)"
     path: "015_BGM_RESULT_B_200731.dspadpcm.bfstm"
     type: result
 ...

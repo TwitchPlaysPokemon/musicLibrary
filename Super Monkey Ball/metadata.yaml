@@ -69,4 +69,8 @@ songs:
     title: "Storm"
     path: "Storm.brstm"
     type: battle
+  - id: stream_stro
+    title: "StreamSTRO (Unused)"
+    path: "StreamSTRO.brstm"
+    type: betting
 ...

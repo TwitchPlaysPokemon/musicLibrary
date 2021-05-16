@@ -49,4 +49,32 @@ songs:
     title: "Playing with Danger"
     path: "Playing with Danger.brstm"
     type: betting
+  - id: rumble_tf2
+    title: "Rumble"
+    path: "eotl_riser_long_33.brstm"
+    type: warning
+  - id: faster_than_a_speeding_bullet
+    title: "Faster Than a Speeding Bullet"
+    path: "gamestartup5.brstm"
+    type: warning
+  - id: rise_of_the_living_bread
+    title: "Rise of the Living Bread"
+    path: "gamestartup18.brstm"
+    type: warning
+  - id: seduce_me
+    title: "Seduce Me!"
+    path: "gamestartup21.brstm"
+    type: betting
+  - id: it_hates_me_so_much
+    title: "It Hates Me So Much"
+    path: "gamestartup23.brstm"
+    type: betting
+  - id: mercenary_park
+    title: "Mercenary Park"
+    path: "gamestartup29.brstm"
+    type: betting
+  - id: upgrade_station
+    title: "Upgrade Station"
+    path: "tf_music_upgrade_machine.brstm"
+    type: break
 ...

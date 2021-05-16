@@ -1,10 +1,24 @@
+---
 id: the_simpsons_road_rage
 title: "The Simpsons: Road Rage"
 series: thesimpsons
-year: 2001
 platform: ["GC", "Xbox", "PS2"]
+year: 2001
 songs:
   - id: sunday_drive
     title: "Sunday Drive"
     path: "Sunday Drive.brstm"
     type: betting
+  - id: front_02_unused
+    title: "Front_02 (Unused)"
+    path: "Front_02.rsd"
+    type: warning
+  - id: front_07_unused
+    title: "Front_07 (Unused)"
+    path: "Front_07.rsd"
+    type: warning
+  - id: front_10_unused
+    title: "Front_10 (Unused)"
+    path: "Front_10.rsd"
+    type: warning
+...

@@ -57,4 +57,16 @@ songs:
     title: "River"
     path: "River.miniusf"
     type: break
+  - id: fantastic_horror_unused
+    title: "Fantastic Horror (Unused)"
+    path: "FantasicHorror-Lp32k.brstm"
+    type: betting
+  - id: horror_boss_theme_unused
+    title: "Horror Boss Theme (Unused)"
+    path: "HorrorBossTheme-Lp32k.brstm"
+    type: betting
+  - id: cave_orchestral_arrangement
+    title: "Cave (Orchestral Arrangement)"
+    path: "Poison.brstm"
+    type: betting
 ...

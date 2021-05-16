@@ -9,4 +9,19 @@ songs:
     title: "Vs. The Evil Twins"
     path: "Vs. The Evil Twins.brstm"
     type: battle
+  - id: orchard_worm_chase
+    title: "Orchard Worm Chase"
+    path: "06 - Totem Hokum, Part III (Orchard Worm Chase).GENH"
+    ends: 2:30
+    type: betting
+  - id: cortex_chase
+    title: "Cortex Chase"
+    path: "04 - Totem Hokum, Part I (Cortex Chase).GENH"
+    ends: 2:19
+    type: betting
+  - id: river_rollerbrawl
+    title: "River Rollerbrawl"
+    path: "05 - Totem Hokum, Part II (River Rollerbrawl Area).GENH"
+    ends: 2:12
+    type: betting
 ...
