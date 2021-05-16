@@ -9,7 +9,7 @@ songs:
     title: "Menu 2"
     path: "Menu.brstm"
     type: betting
-  - id: mii_channel
+  - id: mii_channel_ssf2
     title: "Mii Channel"
     path: "Mii Channel (Wii).brstm"
     type: betting
@@ -17,7 +17,7 @@ songs:
     title: "Castlevania Retro Medley"
     path: "01 Castlevania Retro Medley (Castlevania).brstm"
     type: betting
-  - id: ryu_stage
+  - id: ryu_stage_ssf2
     title: "Ryu Stage"
     path: "02 Ryu Stage (Street Fighter II).brstm"
     type: betting
@@ -25,7 +25,7 @@ songs:
     title: "Main Theme (The Legend of Zelda)"
     path: "03 Main Theme (The Legend of Zelda).brstm"
     type: result
-  - id: sky_pillar
+  - id: sky_pillar_ssf2
     title: "Sky Pillar"
     path: "04 Sky Pillar (Pokémon Emerald).brstm"
     type: warning
@@ -33,7 +33,7 @@ songs:
     title: "Don't Think Twice"
     path: "05 Don't Think Twice (Kingdom Hearts III).brstm"
     type: betting
-  - id: ashley_theme
+  - id: ashley_theme_ssf2
     title: "Ashley's Theme"
     path: "06 Ashley's Theme (WarioWare- Touched!).brstm"
     type: warning
@@ -41,11 +41,11 @@ songs:
     title: "Flat Zone 2K19"
     path: "07 Flat Zone 2K19 (Game & Watch).brstm"
     type: betting
-  - id: storm_eagle
+  - id: storm_eagle_ssf2
     title: "Storm Eagle"
     path: "08 Storm Eagle (Mega Man X).brstm"
     type: battle
-  - id: sky_tower
+  - id: sky_tower_ssf2
     title: "Sky Tower"
     path: "10 Sky Tower (Pokémon Mystery Dungeon).brstm"
     type: betting

@@ -9,11 +9,11 @@ songs:
     title: "The 13th Struggle"
     path: "The 13th Struggle.brstm"
     type: battle
-  - id: sora
+  - id: sora_kh2
     title: "Sora"
     path: "Sora.brstm"
     type: result
-  - id: sacred_moon
+  - id: sacred_moon_kh2
     title: "Sacred Moon"
     path: "Sacred Moon.brstm"
     type: betting
@@ -41,7 +41,7 @@ songs:
     title: "Crossing the Finish Line"
     path: "Crossing the Finish Line.brstm"
     type: result
-  - id: apprehension
+  - id: apprehension_kh2
     title: "Apprehension"
     path: "Apprehension.brstm"
     type: warning
@@ -57,7 +57,7 @@ songs:
     title: "Spooks of Halloween Town"
     path: "215 - Spooks of Halloween Town.psf2"
     type: battle
-  - id: riku
+  - id: riku_kh2
     title: "Riku"
     path: "228 - Riku.psf2"
     type: break
