@@ -33,10 +33,10 @@ songs:
     title: "Fury Bowser Awakened"
     path: "Redcs_bgm_Disaster_bpm154.dspadpcm.bfstm"
     type: battle
-  - id: bounce_pounce_isle
-    title: "Bounce Pounce Isle"
+  - id: pounce_bounce_isle
+    title: "Pounce Bounce Isle"
     path: "Redcs_bgm_Stage02_bpm136.dspadpcm.bfstm"
-    type: battle
+    type: betting
   - id: fort_flaptrap
     title: "Fort Flaptrap"
     path: "Redcs_bgm_Stage03_bpm123.dspadpcm.bfstm"
@@ -77,5 +77,5 @@ songs:
     title: "Bowser's Fury Staff Roll"
     path: "Redcs_bgm_Demo_StaffRoll_bpm132.dspadpcm.bfstm"
     ends: 2:08
-    type: battle
+    type: betting
 ...

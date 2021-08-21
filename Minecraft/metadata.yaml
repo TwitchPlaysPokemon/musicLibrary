@@ -3,7 +3,7 @@ id: minecraft
 title: "Minecraft"
 platform: "Various"
 year: 2009
-songs: 
+songs:
   - id: blocks
     title: "Blocks"
     path: "Blocks.brstm"
@@ -86,5 +86,6 @@ songs:
   - id: pigstep
     title: "Pigstep"
     path: "Pigstep.brstm"
+    ends: 2:17
     type: betting
 ...
