@@ -1,9 +1,9 @@
 ---
 id: apidya_ost
 title: "Apidya (OST)"
-platform: "Amiga, PC, Atari ST"
+platform: ["Amiga", "PC", "Atari ST"]
 year: 1992
-songs: 
+songs:
   - id: the_pond
     title: "The Pond"
     path: "03 the pond.mp3"

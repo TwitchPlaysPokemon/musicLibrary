@@ -2,7 +2,7 @@ id: dynasty_warriors_3
 title: "Dynasty Warriors 3"
 series: dynastywarriors
 year: 2001
-platform: "PS2+Xbox"
+platform: ["PS2", "Xbox"]
 songs:
   - id: divine_wind
     title: "Divine Wind (Chi Bi - Allied Forces)"
