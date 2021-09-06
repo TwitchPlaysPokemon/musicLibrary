@@ -1,0 +1,24 @@
+---
+id: touhou_hifuu_nightmare_diary_violet_detector
+title: "Touhou Hifuu Nightmare Diary ~ Violet Detector"
+series: touhou
+platform: "PC"
+year: 2018
+songs: 
+  - id: the_darkness_brought_in_by_swallowstone_naturalis_historia
+    title: "The Darkness Brought In By Swallowstone Naturalis Historia"
+    path: "Darkness Swallowstone Naturalis.brstm"
+    type: battle
+  - id: old_adam_bar
+    title: "Old Adam Bar"
+    path: "Old Adam Bar.brstm"
+    type: betting
+  - id: nightmare_diary
+    title: "Nightmare Diary"
+    path: "Nightmare Diary.brstm"
+    type: battle
+  - id: lunatic_dreamer
+    title: "Lunatic Dreamer"
+    path: "Lunatic Dreamer.brstm"
+    type: warning
+...

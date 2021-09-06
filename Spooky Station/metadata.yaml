@@ -1,0 +1,23 @@
+﻿---
+id: spooky_station
+title: "Spooky Station"
+platform: "PC"
+year: 2019
+songs:
+  - id: spookids_boss
+    title: "Spookids - Boss"
+    path: "Spookids - Boss.brstm"
+    type: battle
+  - id: spookids_game_over
+    title: "Spookids - Game Over"
+    path: "Spookids - Game Over.brstm"
+    type: result
+  - id: spookids_main_theme
+    title: "Spookids - Main Theme"
+    path: "Spookids - Main Theme.brstm"
+    type: break
+  - id: spookids_town_of_treats
+    title: "Spookids - Town of Treats"
+    path: "Spookids - Town of Treats.brstm"
+    type: betting
+...

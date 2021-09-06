@@ -5,6 +5,11 @@ series: touhou
 platform: "PC"
 year: 2007
 songs: 
+#a note from TheShmish from the submission:
+#The song "The Youkai Mountain ~ Mysterious Mountain" that is already in the music library 
+#is actually the remix from "Touhou Bunkachou ~ Double Spoiler" and should be moved. 
+#The version I have submitted here is the correct version from 
+#"Touhou Fuujinroku ~ Mountain of Faith"
   - id: fall_of_fall_autumnal_waterfall
     title: "Fall of Fall ~ Autumnal Waterfall"
     path: "Fall of Fall ~ Autumnal Waterfall.brstm"
@@ -62,5 +67,29 @@ songs:
   - id: faith_is_for_the_transient_people_house_set_ver
     title: "Faith is for the Transient People (House Set Ver.)"
     path: "Faith is for the Transient People (House Set Ver.).brstm"
+    type: betting
+  - id: a_god_that_misses_people_romantic_fall
+    title: "A God That Misses People ~ Romantic Fall"
+    path: "A God That Misses People ~ Romantic Fall.brstm"
+    type: betting
+  - id: because_princess_inada_is_scolding_me
+    title: "Because Princess Inada Is Scolding Me"
+    path: "Because Princess Inada Is Scolding Me.brstm"
+    type: warning
+  - id: the_road_of_the_misfortune_god_dark_road
+    title: "The Road of the Misfortune God ~ Dark Road"
+    path: "The Road of the Misfortune God ~ Dark Road.brstm"
+    type: betting
+  - id: the_youkai_mountain_mysterious_mountain
+    title: "The Youkai Mountain ~ Mysterious Mountain"
+    path: "The Youkai Mountain ~ Mysterious Mountain.brstm"
+    type: battle
+  - id: the_primal_scene_of_japan_the_girl_saw
+    title: "The Primal Scene of Japan the Girl Saw"
+    path: "The Primal Scene of Japan the Girl Saw.brstm"
+    type: betting
+  - id: cemetery_of_onbashira_grave_of_being
+    title: "Cemetery of Onbashira ~ Grave of Being"
+    path: "Cemetery of Onbashira ~ Grave of Being.brstm"
     type: betting
 ...

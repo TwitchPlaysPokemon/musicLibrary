@@ -1,0 +1,36 @@
+---
+id: dead_rising_2
+title: "Dead Rising 2"
+series: dead rising
+platform: Various
+year: 2010
+songs:
+  - id: bratwurst_polka
+    title: "Bratwurst Polka"
+    path: "Bratwurst Polka.brstm"
+    type: result
+  - id: cash_me_if_you_can
+    title: "Cash Me If You Can"
+    path: "Cash Me If You Can.brstm"
+    type: warning
+  - id: cheesecake_mania
+    title: "Cheesecake Mania"
+    path: "Cheesecake Mania.brstm"
+    type: break
+  - id: cucina_italianna
+    title: "Cucinna Italianna"
+    path: "Cucina Donnacci.brstm"
+    type: break
+  - id: hamburger_fiefdom
+    title: "Hamburger Fiefdom"
+    path: "Hamburger Fiefdom.brstm"
+    type: betting
+  - id: wild_west_grill
+    title: "Wild West Grill"
+    path: "Wild West Grill House.brstm"
+    type: result
+  - id: slappy
+    title: "Slappy"
+    path: "Mascot _Slappy_ (Instrumental).brstm"
+    type: battle
+...

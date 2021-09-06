@@ -1,28 +1,88 @@
 ---
-id: tatsunoko_vs._capcom_ultimate_all-stars
+id: tatsunoko_vs_capcom_ultimate_all_stars
 title: "Tatsunoko vs. Capcom: Ultimate All-Stars"
 series: mvc
 platform: "Wii"
 year: 2010
 songs:
-  - id: yami_part_2
-    title: "Yami Part 2"
-    path: "Yami Part 2.brstm"
+  - id: character_select_tvc
+    title: "Character Select"
+    path: "s_bgm_24.zwdsp"
+    type: betting
+  - id: stage_select_tvc
+    title: "Stage Select"
+    path: "s_bgm_25.zwdsp"
     type: warning
   - id: after_the_fight_tvc
     title: "After the Fight"
-    path: "After the Fight.brstm"
+    path: "s_bgm_26.zwdsp"
+    type: result
+  - id: yami_part_2
+    title: "Yami Part 2"
+    path: "s_bgm_33.zwdsp"
+    type: warning
+  - id: credits_tvc
+    title: "Credits"
+    path: "s_bgm_35.zwdsp"
     type: betting
-  - id: character_select_tvc
-    title: "Character Select"
-    path: "Character Select.brstm"
+  - id: wasteland_tvc
+    title: "Wasteland"
+    path: "stage_01.zwdsp"
+    type: battle
+  - id: yattermans_workshop
+    title: "Yatterman's Workshop"
+    path: "stage_02.zwdsp"
+    type: battle
+  - id: washinkyo
+    title: "Washinkyo"
+    path: "stage_03.zwdsp"
+    type: warning
+  - id: galactor_base
+    title: "Galactor Base"
+    path: "stage_04.zwdsp"
+    type: betting
+  - id: burning_wasteland_tvc
+    title: "Burning Wasteland"
+    path: "stage_05.zwdsp"
+    type: battle
+  - id: les_vagas
+    title: "Les Vagas"
+    path: "stage_06.zwdsp"
+    type: betting
+  - id: daigo_temple_cherry_blossom
+    title: "Daigo Temple (Cherry Blossom)"
+    path: "stage_07.zwdsp"
+    type: battle
+  - id: gesellschaft_clear_skies
+    title: "Gesellschaft (Clear Skies)"
+    path: "stage_08.zwdsp"
+    type: betting
+  - id: aensland_castle_tvc
+    title: "Aensland Castle"
+    path: "stage_09.zwdsp"
+    type: betting
+  - id: uncharted_region_of_china
+    title: "Uncharted Region of China"
+    path: "stage_10.zwdsp"
+    type: betting
+  - id: daigo_temple_moonlight
+    title: "Daigo Temple (Moonlight)"
+    path: "stage_11.zwdsp"
+    type: betting
+  - id: gesellschaft_storm
+    title: "Gesellschaft (Storm)"
+    path: "stage_12.zwdsp"
     type: betting
   - id: orbital_ring_systems_cargo_bay
     title: "Orbital Ring Systems Cargo Bay"
-    path: "Orbital Ring Systems Cargo Bay.brstm"
+    path: "stage_13.zwdsp"
     type: betting
-  - id: galactor_base
-    title: "Galactor Base"
-    path: "Galactor Base.brstm"
+  - id: willamette_parkview_mall
+    title: "Willamette Parkview Mall"
+    path: "stage_14.zwdsp"
+    type: betting
+  - id: training_stage_tvc
+    title: "Training Stage"
+    path: "stage_17.zwdsp"
     type: betting
 ...

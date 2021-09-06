@@ -1,23 +1,136 @@
+---
 id: marvel_super_heroes_vs_street_fighter
 title: "Marvel Super Heroes vs. Street Fighter"
 series: mvc
 platform: ["Arcade", "Saturn", "PS1"]
 year: 1997
 songs: 
-  - id: blackheart_theme_mvsf
-    path: "Blackheart's Theme.brstm"
-    title: "Blackheart's Theme"
+  - id: character_select_mvsf
+    title: "Character Select"
+    path: "03 Player Select.vgz"
     type: warning
-  - id: m_bison_theme_mvsf
-    path: "M. Bison's Theme.brstm"
-    title: "M. Bison's Theme"
-    type: battle
-  - id: theme_of_omega_red_mvsf
-    path: "Theme of Omega Red.brstm"
-    title: "Theme of Omega Red"
+  - id: continue_mvsf
+    title: "Continue?"
+    path: "07 Continue.vgz"
+    type: warning
+  - id: hurry_up_mvsf
+    title: "Hurry Up!"
+    path: "10 Hurry Up.vgz"
+    type: warning
+  - id: cyclops_theme_mvsf
+    title: "Theme of Cyclops"
+    path: "12 Theme of Cyclops.vgz"
+    type: betting
+  - id: cyclops_ending_mvsf
+    title: "Cyclops Ending"
+    path: "13 Cyclops Ending.vgz"
     type: result
   - id: wolverine_theme_mvsf
-    path: "Wolverine's Theme.brstm"
-    title: "Wolverine's Theme"
+    title: "Theme of Wolverine"
+    path: "14 Theme of Wolverine.vgz"
+    type: betting
+  - id: ryu_theme_mvsf
+    title: "Theme of Ryu"
+    path: "16 Theme of Ryu.vgz"
+    type: battle
+  - id: ryu_ending_mvsf
+    title: "Ryu Ending"
+    path: "17 Ryu Ending.vgz"
+    type: result
+  - id: ken_theme_mvsf
+    title: "Theme of Ken"
+    path: "18 Theme of Ken.vgz"
+    type: battle
+  - id: captain_america_theme_mvsf
+    title: "Theme of Captain America"
+    path: "19 Theme of Captain America.vgz"
+    type: betting
+  - id: captain_america_ending_mvsf
+    title: "Captain America Ending"
+    path: "20 Captain America Ending.vgz"
+    type: result
+  - id: hulk_theme_mvsf
+    title: "Theme of Hulk"
+    path: "21 Theme of Hulk.vgz"
+    type: betting
+  - id: hulk_ending_mvsf
+    title: "Hulk Ending"
+    path: "22 Hulk Ending.vgz"
+    type: result
+  - id: spider_man_theme_mvsf
+    title: "Theme of Spider-Man"
+    path: "23 Theme of Spider-Man.vgz"
+    type: betting
+  - id: spider_man_ending_mvsf
+    title: "Spider-Man Ending"
+    path: "24 Spider-Man Ending.vgz"
+    type: result
+  - id: chun_li_theme_mvsf
+    title: "Theme of Chun-Li"
+    path: "25 Theme of Chun-Li.vgz"
+    type: betting
+  - id: zangief_theme_mvsf
+    title: "Theme of Zangief"
+    path: "27 Theme of Zangief.vgz"
+    type: battle
+  - id: dhalsim_theme_mvsf
+    title: "Theme of Dhalsim"
+    path: "28 Theme of Dhalsim.vgz"
+    type: betting
+  - id: dhalsim_ending_mvsf
+    title: "Dhalsim Ending"
+    path: "29 Dhalsim Ending.vgz"
+    type: result
+  - id: shuma_gorath_theme_mvsf
+    title: "Theme of Shuma-Gorath"
+    path: "30 Theme of Shuma-Gorath.vgz"
+    type: betting
+  - id: shuma_gorath_ending_2_mvsf
+    title: "Shuma-Gorath Ending 2"
+    path: "32 Shuma-Gorath Ending 2.vgz"
+    type: warning
+  - id: dan_theme_mvsf
+    title: "Theme of Dan"
+    path: "33 Theme of Dan.vgz"
+    type: battle
+  - id: akuma_theme_mvsf
+    title: "Theme of Akuma"
+    path: "35 Theme of Akuma.vgz"
+    type: betting
+  - id: sakura_theme_mvsf
+    title: "Theme of Sakura"
+    path: "37 Theme of Sakura.vgz"
+    type: betting
+  - id: narimaro_theme_mvsf
+    title: "Theme of Norimaro"
+    path: "38 Theme of Norimaro.vgz"
+    type: betting
+  - id: narimaro_ending_1_mvsf
+    title: "Norimaro Ending 1"
+    path: "39 Norimaro Ending 1.vgz"
+    type: result
+  - id: blackheart_theme_mvsf
+    title: "Theme of Blackheart"
+    path: "41 Theme of Blackheart.vgz"
+    type: warning
+  - id: omega_red_theme_mvsf
+    title: "Theme of Omega Red"
+    path: "42 Theme of Omega Red.vgz"
+    type: betting
+  - id: m_bison_theme_mvsf
+    title: "Theme of M. Bison"
+    path: "43 Theme of M. Bison.vgz"
+    type: battle
+  - id: hidden_theme_mvsf
+    title: "Theme of Hidden Character"
+    path: "46 Theme of Hidden Character.vgz"
+    type: battle
+  - id: conqueror_ending_mvsf
+    title: "Conqueror Ending"
+    path: "47 Conqueror Ending.vgz"
+    type: warning
+  - id: tranquility_ending_mvsf
+    title: "Tranquility Ending"
+    path: "48 Tranquility Ending.vgz"
     type: result
 ...

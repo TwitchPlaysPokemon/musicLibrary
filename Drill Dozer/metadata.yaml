@@ -1,16 +1,9 @@
+---
 id: drill_dozer
-platform: "GBA"
 title: "Drill Dozer"
+platform: "GBA"
 year: 2005
 songs: 
-  - id: 3rd_gear_drill_dozer_acquired
-    title: "3rd Gear Drill Dozer Acquired!"
-    path: "09 3rd Gear Drill Dozer Acquired!.minigsf"
-    type: result
-  - id: sunken_kuru_ruins
-    title: "Sunken Kuru Ruins (Area 3-2)"
-    path: "24 Sunken Kuru Ruins (Area 3-2).minigsf"
-    type: betting
   - id: file_select_and_trailer_menu_screens
     title: "File Select & Trailer Menu Screens"
     path: "02 File Select & Trailer Menu Screens.minigsf"
@@ -19,11 +12,28 @@ songs:
     title: "Skullker Hideout & Factory (Area 1)"
     path: "08 Skullker Hideout & Factory (Area 1).minigsf"
     type: betting
+  - id: 3rd_gear_drill_dozer_acquired
+    title: "3rd Gear Drill Dozer Acquired!"
+    path: "09 3rd Gear Drill Dozer Acquired!.minigsf"
+    type: result
   - id: art_museum_and_clink_prison
     title: "Art Museum & Clink Prison (Area 2 & 5)"
     path: "18 Art Museum & Clink Prison (Area 2 & 5).minigsf"
+    type: betting
+  - id: sunken_kuru_ruins
+    title: "Sunken Kuru Ruins (Area 3-2)"
+    path: "24 Sunken Kuru Ruins (Area 3-2).minigsf"
+    type: betting
+  - id: metal_city_and_metal_city_skyline
+    title: "Metal City & Metal City Skyline (Area 4)"
+    path: "28 Metal City & Metal City Skyline (Area 4).minigsf"
     type: betting
   - id: skullker_drill_missile
     title: "Skullker Drill Missile (Area 6)"
     path: "37 Skullker Drill Missile (Area 6).minigsf"
     type: battle
+  - id: your_rank_is_crime_boss
+    title: "Your Rank Is Crime Boss!"
+    path: "48 Your Rank Is Crime Boss!.minigsf"
+    type: result
+...

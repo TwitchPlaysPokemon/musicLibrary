@@ -2,19 +2,47 @@
 id: touhou_yumejikuu_phantasmagoria_of_dim_dream
 title: "Touhou Yumejikuu ~ Phantasmagoria of Dim.Dream"
 series: touhou
-year: 1997
 platform: "PC-98"
+year: 1997
 songs: 
+  - id: selection_2hupodd
+    title: "Selection"
+    path: "02 Selection.vgm"
+    type: warning
+  - id: reincarnation_2hupodd
+    title: "Reincarnation"
+    path: "04 Reincarnation.vgm"
+    type: battle
+  - id: dim_dream
+    title: "Dim. Dream"
+    path: "05 Dim. Dream.vgm"
+    type: battle
   - id: tabula_rasa_the_empty_girl
     title: "Ellen's Theme: Tabula rasa ~ The Empty Girl"
-    path: "Tabula rasa ~ The Empty Girl.brstm"
+    path: "06 Tabula rasa ~ The Empty Girl.vgm"
     type: betting
+  - id: vanishing_dream_lost_dream
+    title: "Vanishing Dream ~ Lost Dream"
+    path: "08 Vanishing Dream ~ Lost Dream.vgm"
+    type: betting
+  - id: decisive_magic_battle_fight_it_out
+    title: "Decisive Magic Battle! ~ Fight it out!"
+    path: "10 Decisive Magic Battle! ~ Fight it out!.vgm"
+    type: battle
   - id: strawberry_crisis
     title: "Yumemi's Theme: Strawberry Crisis!!"
-    path: "Strawberry Crisis.brstm"
+    path: "12 Strawberry Crisis!!.vgm"
     type: battle
+  - id: disunified_field_theory_of_magic
+    title: "Disunified Field Theory of Magic"
+    path: "13 Disunified Field Theory of Magic.vgm"
+    type: warning
+  - id: dream_of_eternity
+    title: "Dream of Eternity"
+    path: "15 Dream of Eternity.vgm"
+    type: result
   - id: maple_dream
     title: "Maple Dream..."
-    path: "Maple Dream.vgz"
+    path: "18 Maple Dream.vgm"
     type: result
 ...

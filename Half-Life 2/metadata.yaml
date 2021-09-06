@@ -1,8 +1,9 @@
+---
 id: half_life_2
 title: "Half-Life 2"
-year: 2004
 platform: ["PC", "Xbox"]
 #other platforms: "Shield"
+year: 2004
 songs:
   - id: cp_violation
     title: "CP Violation"
@@ -12,3 +13,12 @@ songs:
     title: "You're Not Supposed to Be Here"
     path: "You're Not Supposed to Be Here.brstm"
     type: betting
+  - id: triage_at_dawn
+    title: "Triage At Dawn"
+    path: "Triage At Dawn.brstm"
+    type: betting
+  - id: vortal_combat
+    title: "Vortal Combat"
+    path: "VLVX_song22.brstm"
+    type: battle
+...

@@ -5,10 +5,34 @@ series: mvc
 platform: ["Arcade", "DC", "PS1"]
 year: 1998
 songs:
+  - id: opening_mvc
+    title: "OPENING"
+    path: "02 Opening.vgz"
+    type: result
+  - id: player_select_mvc
+    title: "PLAYER SELECT"
+    path: "03 Player Select.vgz"
+    type: warning
+  - id: theme_of_war_machine
+    title: "THEME of WAR WACHINE"
+    path: "05 Theme of War Machine.vgz"
+    type: betting
   - id: theme_of_captain_america
     title: "THEME of CAPTAIN AMERICA"
     path: "06 Theme of Captain America.vgz"
     type: battle
+  - id: theme_of_hulk
+    title: "THEME of HULK"
+    path: "07 Theme of Hulk.vgz"
+    type: betting
+  - id: theme_of_wolverine
+    title: "THEME of WOLVERINE"
+    path: "10 Theme of Wolverine.vgz"
+    type: battle
+  - id: theme_of_gambit
+    title: "THEME of GAMBIT"
+    path: "11 Theme of Gambit.vgz"
+    type: betting
   - id: theme_of_spider-man
     title: "THEME of SPIDER-MAN"
     path: "12 Theme of Spider-Man.vgz"
@@ -17,6 +41,14 @@ songs:
     title: "THEME of VENOM"
     path: "13 Theme of Venom.vgz"
     type: warning
+  - id: variable_cross
+    title: "VARIABLE CROSS"
+    path: "16 Variable Cross.vgz"
+    type: warning
+  - id: theme_of_ryu_mvc
+    title: "THEME of RYU"
+    path: "17 Theme of Ryu.vgz"
+    type: betting
   - id: theme_of_captain_commando
     title: "THEME of CAPTAIN COMMANDO"
     path: "18 Theme of Captain Commando.vgz"
@@ -33,10 +65,26 @@ songs:
     title: "THEME of ZANGIEF"
     path: "21 Theme of Zangief.vgz"
     type: betting
+  - id: continue_mvc
+    title: "CONTINUE?"
+    path: "22 Continue.vgz"
+    type: warning
   - id: theme_of_strider_hiryu
     title: "THEME of STRIDER HIRYU"
     path: "24 Theme of Strider Hiryu.vgz"
     type: battle
+  - id: theme_of_morrigan
+    title: "THEME of MORRIGAN"
+    path: "25 Theme of Morrigan.vgz"
+    type: betting
+  - id: theme_of_mega_man
+    title: "THEME of MEGA MAN"
+    path: "26 Theme of MegaMan.vgz"
+    type: betting
+  - id: theme_of_hidden_character
+    title: "THEME of HIDDEN CHARACTER"
+    path: "28 Theme of Hidden Character.vgz"
+    type: warning
   - id: boss_introduction_mvc
     title: "BOSS INTRODUCTION"
     path: "29 Boss Introduction.vgz"
@@ -45,4 +93,28 @@ songs:
     title: "ENDING -AFTER THE BATTLE-"
     path: "32 Ending -After The Battle-.vgz"
     type: warning
+  - id: ending_tension_mvc
+    title: "ENDING -TENSION-"
+    path: "34 Ending -Tension-.vgz"
+    type: warning
+  - id: ending_grief_mvc
+    title: "ENDING -GRIEF-"
+    path: "35 Ending -Grief-.vgz"
+    type: warning
+  - id: ending_roll_1_mvc
+    title: "ENDING -ROLL 1-"
+    path: "38 Ending -Roll 1-.vgz"
+    type: result
+  - id: ending_ryu_mvc
+    title: "ENDING -RYU-"
+    path: "40 Ending -Ryu-.vgz"
+    type: result
+  - id: ending_mega_man_2_mvc
+    title: "ENDING -MEGA MAN 2-"
+    path: "44 Ending -MegaMan 2-.vgz"
+    type: result
+  - id: theme_of_roll_instrumental
+    title: "THEME of ROLL ~Instrumental~"
+    path: "46 Theme of Roll ~Instrumental~.vgz"
+    type: battle
 ...

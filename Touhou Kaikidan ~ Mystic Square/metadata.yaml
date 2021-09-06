@@ -12,11 +12,11 @@ songs:
   - id: the_grimoire_of_alice
     title: "the Grimoire of Alice"
     path: "the Grimoire of Alice.brstm"
-    type: battle
+    type: betting
   - id: romantic_children
     title: "Romantic Children"
     path: "Romantic Children.brstm"
-    type: betting
+    type: result
   - id: spiritual_heaven
     title: "Spiritual Heaven"
     path: "Louise's Theme - Spiritual Heaven.brstm"
@@ -28,7 +28,7 @@ songs:
   - id: alice_in_wonderland
     title: "Alice in Wonderland"
     path: "Alice in Wonderland.brstm"
-    type: betting
+    type: warning
   - id: doll_story_doll_of_misery
     title: "Doll Story ~ Doll of Misery"
     path: "Doll of Misery.brstm"
@@ -41,4 +41,28 @@ songs:
     title: "Legendary Illusion ~ Infinite Being (Mana Kazami Arrange)"
     path: "Legendary Illusion _ Infinite Being (Mana Kazami Arrange).brstm"
     type: battle
+  - id: dimension_of_reverie
+    title: "Dimension of Reverie"
+    path: "Dimension of Reverie.brstm"
+    type: betting
+  - id: dream_express_ms
+    title: "Dream Express"
+    path: "Dream Express.brstm"
+    type: betting
+  - id: end_of_the_world_world_s_end
+    title: "End of the World ~ World's End"
+    path: "End of the World ~ World's End.brstm"
+    type: warning
+  - id: maple_wise
+    title: "Maple Wise"
+    path: "Maple Wise.brstm"
+    type: betting
+  - id: plastic_mind
+    title: "Plastic Mind"
+    path: "Plastic Mind.brstm"
+    type: battle
+  - id: wonderous_tales_of_romance_mystic_square
+    title: "Wonderous Tales of Romance ~ Mystic Square"
+    path: "Wonderous Tales of Romance ~ Mystic Square.brstm"
+    type: warning
 ...

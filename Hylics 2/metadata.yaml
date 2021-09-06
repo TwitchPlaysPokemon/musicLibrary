@@ -1,0 +1,44 @@
+---
+id: hylics_2
+title: "Hylics 2"
+series: hylics
+platform: "PC"
+year: 2020
+songs:
+  - id: thems_fighin_words
+    title: "Them’s Fightin’ Words"
+    path: "Them’s Fightin’ Words.brstm"
+    type: betting
+  - id: xeno_arcadia
+    title: "Xeno Arcadia"
+    path: "Xeno Arcadia.brstm"
+    type: betting
+  - id: thats_a_big_stick
+    title: "That’s a Big Stick..."
+    path: "That’s a Big Stick_.brstm"
+    type: battle
+  - id: prevailing_westerlies
+    title: "Prevailing Westerlies"
+    path: "Prevailing Westerlies.brstm"
+    type: break
+  - id: bistecha
+    title: "BisTechA"
+    path: "BisTechA.brstm"
+    type: betting
+  - id: singing_sand_h2
+    title: "Singing Sand"
+    path: "Singing Sand.brstm"
+    type: betting
+  - id: mystic_cryptic
+    title: "Mystic Cryptic"
+    path: "Mystic Cryptic.brstm"
+    type: betting
+  - id: look_ma_i_can_fly_now
+    title: "Look Ma, I Fly Now!"
+    path: "Look Ma, I Fly Now!.brstm"
+    type: betting
+  - id: fancy_meat_computer
+    title: "Fancy Meat Computer"
+    path: "Fancy Meat Computer.brstm"
+    type: battle
+...

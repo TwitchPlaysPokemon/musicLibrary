@@ -5,20 +5,124 @@ series: mvc
 platform: ["Arcade", "Saturn", "PS1"]
 year: 1996
 songs: 
-  - id: cyclops_stage
+  - id: wolverine_stage_xvsf
+    title: "WOLVERINE STAGE"
+    path: "03 Wolverine.vgz"
+    type: battle
+  - id: cyclops_stage_xvsf
     title: "CYCLOPS STAGE"
-    path: "CYCLOPS STAGE.brstm"
+    path: "04 Cyclops.vgz"
     type: betting
-  - id: gambit_stage
+  - id: storm_stage_xvsf
+    title: "STORM STAGE"
+    path: "05 Storm.vgz"
+    type: betting
+  - id: rogue_stage_xvsf
+    title: "ROGUE STAGE"
+    path: "06 Rogue.vgz"
+    type: betting
+  - id: gambit_stage_xvsf
     title: "GAMBIT STAGE"
-    path: "Gambit.brstm"
+    path: "07 Gambit.vgz"
+    type: battle
+  - id: sabertooth_stage_xvsf
+    title: "SABRETOOTH STAGE"
+    path: "08 Sabretooth.vgz"
     type: betting
-  - id: nash_stage
+  - id: juggernaut_stage_xvsf
+    title: "JUGGERNAUT STAGE"
+    path: "09 Juggernaut.vgz"
+    type: warning
+  - id: magneto_stage_xvsf
+    title: "MAGNETO STAGE"
+    path: "10 Magneto.vgz"
+    type: warning
+  - id: player_select_xvsf
+    title: "PLAYER SELECT"
+    path: "11 Player Select.vgz"
+    type: warning
+  - id: ryu_stage_xvsf
+    title: "RYU STAGE"
+    path: "14 Ryu.vgz"
+    type: betting
+  - id: ken_stage_xvsf
+    title: "KEN STAGE"
+    path: "15 Ken.vgz"
+    type: betting
+  - id: chun_li_stage_xvsf
+    title: "CHUN-LI STAGE"
+    path: "16 Chun-Li.vgz"
+    type: betting
+  - id: dhalsim_stage_xvsf
+    title: "DHALSIM STAGE"
+    path: "17 Dhalsim.vgz"
+    type: betting
+  - id: zangief_stage_xvsf
+    title: "ZANGIEF STAGE"
+    path: "18 Zangief.vgz"
+    type: betting
+  - id: vega_stage_xvsf
+    title: "VEGA STAGE"
+    path: "19 M. Bison.vgz"
+    type: betting
+  - id: gouki_stage_xvsf
+    title: "GOUKI STAGE"
+    path: "20 Akuma.vgz"
+    type: warning
+  - id: nash_stage_xvsf
     title: "NASH STAGE"
-    path: "Charlie's Theme.brstm"
+    path: "21 Charlie.vgz"
     type: battle
-  - id: cammy_stage
+  - id: cammy_stage_xvsf
     title: "CAMMY STAGE"
-    path: "Cammy's Theme.brstm"
+    path: "22 Cammy.vgz"
     type: battle
+  - id: apocalypse_stage_xvsf
+    title: "APOCALYPSE STAGE"
+    path: "24 Apocalypse.vgz"
+    type: warning
+  - id: continue_xvsf
+    title: "CONTINUE"
+    path: "25 Continue.vgz"
+    type: warning
+  - id: break_out_xvsf
+    title: "BREAK OUT"
+    path: "27 Break Out.vgz"
+    type: warning
+  - id: ending_spirits_xvsf
+    title: "Ending~SPIRITS~"
+    path: "29 Ending~Spirits~.vgz"
+    type: results
+  - id: ending_fight_xvsf
+    title: "Ending~FIGHT!!~"
+    path: "31 Ending~Fight!!~.vgz"
+    type: warning
+  - id: ending_temptation_xvsf
+    title: "Ending~TEMPTATION OF EVIL~"
+    path: "32 Ending~Temptation Of Evil~.vgz"
+    type: warning
+  - id: ending_peace_xvsf
+    title: "Ending~PEACE~"
+    path: "35 Ending~Peace~.vgz"
+    type: result
+  - id: ending_loving_you_xvsf
+    title: "Ending~LOVING YOU~"
+    path: "36 Ending~Loving You~.vgz"
+    type: result
+  - id: ending_a_scolding_xvsf
+    title: "Ending~A SCOLDING~"
+    path: "37 Ending~A Scolding~.vgz"
+    type: warning
+  - id: ending_ambition_xvsf
+    title: "Ending~AMBITION~"
+    path: "38 Ending~Ambition~.vgz"
+    type: warning
+  - id: ending_true_love_xvsf
+    title: "Ending~TRUE LOVE~"
+    path: "39 Ending~True Love~.vgz"
+    type: result
+  - id: staff_roll_xvsf
+    title: "STAFF ROLL"
+    path: "41 Staff Roll.vgz"
+    type: result
 ...

@@ -1,0 +1,48 @@
+---
+id: super_robot_wars_iii
+title: "Super Robot Wars III"
+series: superrobotwars
+platform: "SNES"
+year: 1993
+songs:
+  - id: main_theme_crossing_through_time
+    title: "Main Theme ~ Crossing through Time"
+    path: "03 Main Theme ~ Crossing through Time.spc"
+    type: betting
+  - id: combattler_v_theme
+    title: "Combattler V Theme"
+    path: "04 Combattler V Theme.spc"
+    type: betting
+  - id: dashing_char_gundam
+    title: "Dashing Char ~ Gundam"
+    path: "05 Dashing Char ~ Gundam.spc"
+    type: warning
+  - id: getta_robo_srw3
+    title: "Getta Robo!"
+    path: "06 Getta Robo!.spc"
+    type: betting
+  - id: mazinger_z_srw3
+    title: "Mazinger Z"
+    path: "07 Mazinger Z.spc"
+    type: result
+  - id: hero_raideen_srw3
+    title: "Hero Raideen"
+    path: "08 Hero Raideen.spc"
+    type: result
+  - id: come_here_diatarn_3_srw3
+    title: "Come Here! Daitarn 3"
+    path: "09 Come Here! Daitarn 3.spc"
+    type: result
+  - id: hot_wind_fierce_wind_psybuster
+    title: "Hot Wind! Fierce Wind! Psybuster"
+    path: "10 Hot Wind! Fierce Wind! Psybuster.spc"
+    type: battle
+  - id: soldier_s_rest_srw3
+    title: "Soldier's Rest"
+    path: "11 Soldier's Rest.spc"
+    type: result
+  - id: victory_srw3
+    title: "Victory!"
+    path: "25 Victory!.spc"
+    type: result    
+...

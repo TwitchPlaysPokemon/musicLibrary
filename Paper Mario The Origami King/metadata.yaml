@@ -1,6 +1,7 @@
 ---
 id: paper_mario_the_origami_king
 title: "Paper Mario: The Origami King"
+series: mario
 platform: "Switch"
 year: 2020
 songs: 
@@ -11,5 +12,33 @@ songs:
   - id: autumn_mountain_battle
     title: "Autumn Mountain Battle"
     path: "Autumn Mountain Battle.brstm"
+    type: battle
+  - id: disco_devil
+    title: "Disco Devil"
+    path: "Hole Punch Battle.brstm"
+    type: battle
+  - id: disco_devil_thinking
+    title: "Disco Devil (Thinking)"
+    path: "Hole Punch Battle (Thinking).brstm"
+    type: warning
+  - id: olivia_s_final_magic_circle
+    title: "Olivia's Final Magic Circle"
+    path: "Olivia's Final Magic Circle.brstm"
+    type: warning
+  - id: m_a_x_power
+    title: "M-A-X Power!"
+    path: "M-A-X Power!.brstm"
+    type: betting
+  - id: battle_with_king_olly
+    title: "Battle with King Olly"
+    path: "Battle with King Olly.brstm"
+    type: battle
+  - id: battle_lab_paper_mario_origami
+    title: "Battle Lab"
+    path: "Battle Lab.brstm"
+    type: warning
+  - id: the_final_battle_paper_mario_origami
+    title: "The Final Battle"
+    path: "The Final Battle.brstm"
     type: battle
 ...

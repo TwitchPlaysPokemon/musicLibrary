@@ -1,0 +1,15 @@
+---
+id: i_hate_this_game
+title: "I hate this game"
+platform: "PC"
+year: 2019
+songs:
+  - id: bgm5_ihtg
+    title: "BGM5"
+    path: "BGM5.brstm"
+    type: battle
+  - id: menu_ihtg
+    title: "Menu"
+    path: "MenuTrack.brstm"
+    type: betting
+...

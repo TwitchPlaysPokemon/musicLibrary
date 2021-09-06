@@ -5,408 +5,409 @@ series: pokemon
 platform: "3DS"
 year: 2014
 songs: 
-  - id: abandoned_ship_oras
-    title: "Abandoned Ship"
-    path: "Abandoned Ship.brstm"
-    type: betting
-  - id: aqua_magma_hideout_oras
-    title: "Aqua - Magma Hideout"
-    path: "Aqua - Magma Hideout.brstm"
-    type: betting
-  - id: art_museum_oras
-    title: "Art Museum"
-    path: "Art Museum.brstm"
+  - id: title_screen_main_theme_oras
+    title: "Title Screen: Main Theme"
+    path: "bgm_sg_pokemon_theme.dspadpcm.bcstm"
     type: result
-  - id: battle_resort_oras
-    title: "Battle Resort"
-    path: "Battle Resort.brstm"
-    type: betting
-  - id: battle_archie_maxie_oras
-    title: "Battle! Archie - Maxie"
-    path: "Battle! Archie - Maxie.brstm"
-    type: battle
-  - id: battle_champion_oras
-    title: "Battle! Champion"
-    path: "Battle! Champion.brstm"
-    type: battle
-  - id: battle_deoxys_oras
-    title: "Battle! Deoxys"
-    path: "Battle! Deoxys.brstm"
-    type: battle
-  - id: battle_elite_four_oras
-    title: "Battle! Elite Four"
-    path: "Battle! Elite Four.brstm"
-    type: battle
-  - id: battle_frontier_brain_oras
-    title: "Battle! Frontier Brain"
-    path: "Battle! Frontier Brain.brstm"
-    type: battle
-  - id: battle_gym_leader_oras
-    title: "Battle! Gym Leader"
-    path: "Battle! Gym Leader.brstm"
-    type: battle
-  - id: battle_primal_groudon_primal_kyogre_oras
-    title: "Battle! Primal Groudon - Primal Kyogre"
-    path: "Battle! Primal Groudon - Primal Kyogre.brstm"
-    type: battle
-  - id: battle_rayquaza_oras
-    title: "Battle! Rayquaza"
-    path: "Battle! Rayquaza.brstm"
-    type: battle
-  - id: battle_regi_trio_oras
-    title: "Battle! Regi Trio"
-    path: "Battle! Regi Trio.brstm"
-    type: battle
-  - id: battle_rival_oras
-    title: "Battle! Rival"
-    path: "Battle! Rival.brstm"
-    type: battle
-  - id: battle_team_aqua_team_magma_oras
-    title: "Battle! Team Aqua - Team Magma"
-    path: "Battle! Team Aqua - Team Magma.brstm"
-    type: battle
-  - id: battle_trainer_oras
-    title: "Battle! Trainer"
-    path: "Battle! Trainer.brstm"
-    type: battle
-  - id: battle_wally_oras
-    title: "Battle! Wally"
-    path: "Battle! Wally.brstm"
-    type: battle
-  - id: battle_wild_pokemon_oras
-    title: "Battle! Wild Pokémon"
-    path: "Battle! Wild Pokémon.brstm"
-    type: battle
-  - id: battle_world_championship_finals_oras
-    title: "Battle! World Championship Finals"
-    path: "Battle! World Championship Finals.brstm"
-    type: battle
-  - id: battle_zinnia_oras
-    title: "Battle! Zinnia"
-    path: "Battle! Zinnia.brstm"
-    type: battle
-  - id: bicycle_oras
-    title: "Bicycle"
-    path: "Bicycle.brstm"
-    type: result
-  - id: contest_hall_lobby_oras
-    title: "Contest Hall Lobby"
-    path: "Contest Hall Lobby.brstm"
-    type: result
-  - id: contest_results_oras
-    title: "Contest Results"
-    path: "Contest Results.brstm"
-    type: result
-  - id: contest_win_oras
-    title: "Contest Win!"
-    path: "Contest Win!.brstm"
-    type: result
-  - id: contest_oras
-    title: "Contest!"
-    path: "Contest!.brstm"
-    type: result
-  - id: contest_variation_oras
-    title: "Contest! (Variation)"
-    path: "Contest! (Variation).brstm"
-    type: result
-  - id: dewford_town_oras
-    title: "Dewford Town"
-    path: "Dewford Town.brstm"
-    type: betting
-  - id: diving_oras
-    title: "Diving"
-    path: "Diving.brstm"
-    type: betting
-  - id: drought_oras
-    title: "Drought"
-    path: "Drought.brstm"
-    type: warning
-  - id: encounter_ace_trainer_oras
-    title: "Encounter! Ace Trainer"
-    path: "Encounter! Ace Trainer.brstm"
-    type: warning
-  - id: encounter_bikini_sister_oras
-    title: "Encounter! Bikini Sister"
-    path: "Encounter! Bikini Sister.brstm"
-    type: warning
-  - id: encounter_brendan_oras
-    title: "Encounter! Brendan"
-    path: "Encounter! Brendan.brstm"
-    type: warning
-  - id: encounter_champion_oras
-    title: "Encounter! Champion"
-    path: "Encounter! Champion.brstm"
-    type: warning
-  - id: encounter_elite_four_oras
-    title: "Encounter! Elite Four"
-    path: "Encounter! Elite Four.brstm"
-    type: warning
-  - id: encounter_gentleman_oras
-    title: "Encounter! Gentleman"
-    path: "Encounter! Gentleman.brstm"
-    type: warning
-  - id: encounter_hiker_oras
-    title: "Encounter! Hiker"
-    path: "Encounter! Hiker.brstm"
-    type: warning
-  - id: encounter_maxie_archie_oras
-    title: "Encounter! Maxie - Archie"
-    path: "Encounter! Maxie - Archie.brstm"
-    type: warning
-  - id: encounter_may_oras
-    title: "Encounter! May"
-    path: "Encounter! May.brstm"
-    type: warning
-  - id: encounter_psychic_oras
-    title: "Encounter! Psychic"
-    path: "Encounter! Psychic.brstm"
-    type: warning
-  - id: encounter_team_aqua_oras
-    title: "Encounter! Team Aqua"
-    path: "Encounter! Team Aqua.brstm"
-    type: warning
-  - id: encounter_youngster_oras
-    title: "Encounter! Youngster"
-    path: "Encounter! Youngster.brstm"
-    type: warning
-  - id: encounter_team_magma_oras
-    title: "Encounter! Team Magma"
-    path: "Encounter! Team Magma.brstm"
-    type: warning
-  - id: encounter_zinnia_oras
-    title: "Encounter! Zinnia"
-    path: "Encounter! Zinnia.brstm"
-    type: warning
-  - id: ever_grande_city_oras
-    title: "Ever Grande City"
-    path: "Ever Grande City.brstm"
-    type: betting
-  - id: fallarbor_town_oras
-    title: "Fallarbor Town"
-    path: "Fallarbor Town.brstm"
-    type: betting
-  - id: follow_me_oras
-    title: "Follow Me!"
-    path: "Follow Me!.brstm"
-    type: warning
-  - id: fortree_city_oras
-    title: "Fortree City"
-    path: "Fortree City.brstm"
-    type: betting
-  - id: help_me_oras
-    title: "H-Help Me!"
-    path: "H-Help Me!.brstm"
-    type: warning
-  - id: hall_of_fame_oras
-    title: "Hall of Fame"
-    path: "Hall of Fame.brstm"
-    type: betting
-  - id: hall_of_fame_introduction_oras
-    title: "Hall of Fame Induction"
-    path: "Hall of Fame Induction.brstm"
-    type: result
-  - id: heavy_rainfall_oras
-    title: "Heavy Rainfall"
-    path: "Heavy Rainfall.brstm"
-    type: warning
-  - id: lilycove_city_oras
-    title: "Lilycove City"
-    path: "Lilycove City.brstm"
-    type: betting
-  - id: littleroot_town_oras
-    title: "Littleroot Town"
-    path: "Littleroot Town.brstm"
-    type: betting
-  - id: marine_science_museum_oras
-    title: "Marine Science Museum"
-    path: "Marine Science Museum.brstm"
-    type: betting
-  - id: meteor_falls_oras
-    title: "Meteor Falls"
-    path: "Meteor Falls.brstm"
-    type: betting
-  - id: mt_chimney_oras
-    title: "Mt. Chimney"
-    path: "Mt. Chimney.brstm"
-    type: betting
-  - id: mt_pyre_oras
-    title: "Mt. Pyre"
-    path: "Mt. Pyre.brstm"
-    type: betting
-  - id: oldale_town_oras
-    title: "Oldale Town"
-    path: "Oldale Town.brstm"
-    type: betting
-  - id: petalburg_city_oras
-    title: "Petalburg City"
-    path: "Petalburg City.brstm"
-    type: betting
-  - id: petalburg_woods_oras
-    title: "Petalburg Woods"
-    path: "Petalburg Woods.brstm"
-    type: betting
-  - id: pokemart_oras
-    title: "Poké Mart"
-    path: "Poké Mart.brstm"
-    type: betting
-  - id: pokemon_gym_oras
-    title: "Pokémon Gym"
-    path: "Pokémon Gym.brstm"
-    type: betting
-  - id: pokemon_center_oras
-    title: "Pokémon Center"
-    path: "Pokémon Center.brstm"
-    type: betting
-  - id: professor_birchs_lab_oras
-    title: "Professor Birch's Laboratory"
-    path: "Professor Birch's Laboratory.brstm"
-    type: betting
-  - id: route_101_oras
-    title: "Route 101"
-    path: "Route 101.brstm"
-    type: betting
-  - id: route_110_oras
-    title: "Route 110"
-    path: "Route 110.brstm"
-    type: betting
-  - id: route_104_oras
-    title: "Route 104"
-    path: "Route 104.brstm"
-    type: betting
-  - id: route_111_oras
-    title: "Route 111"
-    path: "Route 111.brstm"
-    type: betting
-  - id: route_113_oras
-    title: "Route 113"
-    path: "Route 113.brstm"
-    type: betting
-  - id: route_120_oras
-    title: "Route 120"
-    path: "Route 120.brstm"
-    type: betting
-  - id: route_119_oras
-    title: "Route 119"
-    path: "Route 119.brstm"
-    type: betting
-  - id: rustboro_mauville_mossdeep_city_oras
-    title: "Rustboro - Mauville - Mossdeep City"
-    path: "Rustboro - Mauville - Mossdeep City.brstm"
-    type: betting
-  - id: safari_zone_oras
-    title: "Safari Zone"
-    path: "Safari Zone.brstm"
-    type: betting
-  - id: sealed_chamber_oras
-    title: "Sealed Chamber"
-    path: "Sealed Chamber.brstm"
-    type: betting
-  - id: secret_base_oras
-    title: "Secret Base"
-    path: "Secret Base.brstm"
-    type: betting
-  - id: slateport_city_oras
-    title: "Slateport City"
-    path: "Slateport City.brstm"
-    type: betting
-  - id: southern_island_oras
-    title: "Southern Island"
-    path: "Southern Island.brstm"
-    type: betting
-  - id: surfing_oras
-    title: "Surfing"
-    path: "Surfing.brstm"
-    type: betting
-  - id: title_screen_oras
-    title: "Title Screen"
-    path: "Title Screen.brstm"
-    type: result
-  - id: trainers_school_oras
-    title: "Trainer's School"
-    path: "Trainer's School.brstm"
-    type: betting
-  - id: verdanturf_town_oras
-    title: "Verdanturf Town"
-    path: "Verdanturf Town.brstm"
-    type: betting
-  - id: trick_house_oras
-    title: "Trick House"
-    path: "Trick House.brstm"
-    type: betting
-  - id: victory_road_oras
-    title: "Victory Road"
-    path: "Victory Road.brstm"
-    type: betting
-  - id: victory_champion_oras
-    title: "Victory! Champion"
-    path: "Victory! Champion.brstm"
-    type: result
-  - id: victory_gym_leader_oras
-    title: "Victory! Gym Leader"
-    path: "Victory! Gym Leader.brstm"
-    type: result
-  - id: victory_team_aqua_magma_oras
-    title: "Victory! Team Aqua-Magma"
-    path: "Victory! Team Aqua-Magma.brstm"
-    type: result
-  - id: victory_trainer_oras
-    title: "Victory! Trainer"
-    path: "Victory! Trainer.brstm"
-    type: result
-  - id: victory_wild_pokemon_oras
-    title: "Victory! Wild Pokémon"
-    path: "Victory! Wild Pokémon.brstm"
-    type: result
-  - id: sootopolis_city_oras
-    title: "Sootopolis City"
-    path: "Sootopolis City.brstm"
-    type: betting
-  - id: sea_mauville_oras
-    title: "Sea Mauville"
-    path: "Sea Mauville.brstm"
-    type: betting
-  - id: encounter_wally_oras
-    title: "Encounter! Wally"
-    path: "Encounter! Wally.brstm"
-    type: result
-  - id: encounter_lisia_oras
-    title: "Encounter! Lisia"
-    path: "Encounter! Lisia.brstm"
-    type: warning
-  - id: soaring_dreams_oras
-    title: "Soaring Dreams"
-    path: "Soaring Dreams.brstm"
-    type: result
-  - id: soaring_illusions_oras
-    title: "Soaring Illusions"
-    path: "Soaring Illusions.brstm"
-    type: break
-  - id: mt_pyre_interior_oras
-    title: "Mt. Pyre (Interior)"
-    path: "Mt. Pyre (Interior).brstm"
-    type: betting
-  - id: sky_pillar_oras
-    title: "Sky Pillar"
-    path: "Sky Pillar.brstm"
-    type: warning
-  - id: per_aspera_ad_astra_oras
-    title: "Per Aspera Ad Astra"
-    path: "Per Aspera Ad Astra (Looped).brstm"
-    type: result
-  - id: explosive_encounters_red_and_blue_oras
-    title: "Explosive Encounters! Red and Blue"
-    path: "Explosive Encounters! Red and Blue.brstm"
-    type: warning
-  - id: encounter_triathlete_oras
-    title: "Encounter! Triathlete"
-    path: "Encounter! Triathlete.brstm"
-    type: warning
-  - id: ending_theme_oras
-    title: "Ending Theme"
-    path: "bgm_sg_ending.dspadpcm.bcstm"
-    type: break
   - id: introductions_oras
     title: "Introductions"
     path: "bgm_sg_starting2.dspadpcm.bcstm"
     type: betting
+  - id: littleroot_town_oras
+    title: "Littleroot Town"
+    path: "bgm_sg_t_01.dspadpcm.bcstm"
+    type: betting
+  - id: birch_pokemon_lab_oras
+    title: "Birch Pokémon Lab"
+    path: "bgm_sg_labo.dspadpcm.bcstm"
+    type: betting
+  - id: may_oras
+    title: "May"
+    path: "bgm_sg_e_haruka.dspadpcm.bcstm"
+    type: warning
+  - id: h_help_me_oras
+    title: "H-Help Me!"
+    path: "bgm_sg_e_01.dspadpcm.bcstm"
+    type: warning
+  - id: battle_wild_pokemon_oras
+    title: "Battle! (Wild Pokémon)"
+    path: "bgm_sg_vs_norapoke_sg.dspadpcm.bcstm"
+    type: battle
+  - id: victory_wild_pokemon_oras
+    title: "Victory! (Wild Pokémon)"
+    path: "bgm_sg_win1.dspadpcm.bcstm"
+    type: result
+  - id: route_101_oras
+    title: "Route 101"
+    path: "bgm_sg_r_a.dspadpcm.bcstm"
+    type: betting
+  - id: oldale_town_oras
+    title: "Oldale Town"
+    path: "bgm_sg_t_02.dspadpcm.bcstm"
+    type: betting
+  - id: hurry_along_oras
+    title: "Hurry Along"
+    path: "bgm_sg_e_tsureteke1.dspadpcm.bcstm"
+    type: warning
+  - id: pokemon_center_oras
+    title: "Pokémon Center"
+    path: "bgm_sg_pokecen.dspadpcm.bcstm"
+    type: betting
+  - id: trainers_eyes_meet_youngster_oras
+    title: "Trainers' eyes Meet (Youngster)"
+    path: "bgm_sg_eye_01.dspadpcm.bcstm"
+    type: warning
+  - id: battle_trainer_battle_oras
+    title: "Battle! (Trainer Battle)"
+    path: "bgm_sg_vs_trainer_sg.dspadpcm.bcstm"
+    type: battle
+  - id: victory_trainer_battle_oras
+    title: "Victory! (Trainer Battle)"
+    path: "bgm_sg_win2.dspadpcm.bcstm"
+    type: result
+  - id: petalburg_city_oras
+    title: "Petalburg City"
+    path: "bgm_sg_c_01.dspadpcm.bcstm"
+    type: betting
+  - id: wally_s_theme_oras
+    title: "Wally's Theme"
+    path: "bgm_sg_e_08.dspadpcm.bcstm"
+    type: result
+  - id: route_104_oras
+    title: "Route 104"
+    path: "bgm_sg_r_b.dspadpcm.bcstm"
+    type: betting
+  - id: petalburg_woods_oras
+    title: "Petalburg Woods"
+    path: "bgm_sg_d_01.dspadpcm.bcstm"
+    type: betting
+  - id: team_magma_appears_oras
+    title: "Team Magma Appears!"
+    path: "bgm_sg_eye_magma.dspadpcm.bcstm"
+    type: warning
+  - id: battle_team_aqua_team_magma_oras
+    title: "Battle! (Team Aqua / Team Magma)"
+    path: "bgm_sg_vs_aqua_magma.dspadpcm.bcstm"
+    type: battle
+  - id: victory_team_aqua_team_magma_oras
+    title: "Victory! (Team Aqua / Team Magma)"
+    path: "bgm_sg_win4.dspadpcm.bcstm"
+    type: result
+  - id: rustboro_city_oras
+    title: "Rustboro City"
+    path: "bgm_sg_c_02.dspadpcm.bcstm"
+    type: betting
+  - id: trainers_school_oras
+    title: "Trainers' School"
+    path: "bgm_sg_school.dspadpcm.bcstm"
+    type: betting
+  - id: dewford_town_oras
+    title: "Dewford Town"
+    path: "bgm_sg_t_03.dspadpcm.bcstm"
+    type: betting
+  - id: slateport_city_oras
+    title: "Slateport City"
+    path: "bgm_sg_c_03.dspadpcm.bcstm"
+    type: betting
+  - id: oceanic_museum_oras
+    title: "Oceanic Museum"
+    path: "bgm_sg_museum.dspadpcm.bcstm"
+    type: betting
+  - id: leader_s_theme_team_aqua_team_magma_oras
+    title: "Leader's Theme (Team Aqua / Team Magma)"
+    path: "bgm_sg_e_aq_mg_l.dspadpcm.bcstm"
+    type: warning
+  - id: route_110_oras
+    title: "Route 110"
+    path: "bgm_sg_r_c.dspadpcm.bcstm"
+    type: betting
+  - id: cycling_oras
+    title: "Cycling"
+    path: "bgm_sg_bicycle.dspadpcm.bcstm"
+    type: result
+  - id: trainers_eyes_meet_triathlete_oras
+    title: "Trainers' eyes Meet (Triathlete)"
+    path: "bgm_sg_eye_12.dspadpcm.bcstm"
+    type: warning
+  - id: verdanturf_town_oras
+    title: "Verdanturf Town"
+    path: "bgm_sg_t_04.dspadpcm.bcstm"
+    type: betting
+  - id: route_113_oras
+    title: "Route 113"
+    path: "bgm_sg_r_e.dspadpcm.bcstm"
+    type: betting
+  - id: fallarbor_town_oras
+    title: "Fallarbor Town"
+    path: "bgm_sg_t_05.dspadpcm.bcstm"
+    type: betting
+  - id: mt_chimney_oras
+    title: "Mt. Chimney"
+    path: "bgm_sg_d_02.dspadpcm.bcstm"
+    type: betting
+  - id: trainers_eyes_meet_hiker_oras
+    title: "Trainers' eyes Meet (Hiker)"
+    path: "bgm_sg_eye_05.dspadpcm.bcstm"
+    type: warning
+  - id: route_111_oras
+    title: "Route 111"
+    path: "bgm_sg_r_d.dspadpcm.bcstm"
+    type: betting
+  - id: pokemon_gym_oras
+    title: "Pokémon Gym"
+    path: "bgm_sg_gym.dspadpcm.bcstm"
+    type: betting
+  - id: battle_gym_leader_oras
+    title: "Battle! (Gym Leader)"
+    path: "bgm_sg_vs_gymleader_sg.dspadpcm.bcstm"
+    type: battle
+  - id: victory_gym_leader_elite_four_oras
+    title: "Victory! (Gym Leader / Elite Four)"
+    path: "bgm_sg_win3.dspadpcm.bcstm"
+    type: result
+  - id: surf_oras
+    title: "Surf"
+    path: "bgm_sg_naminori.dspadpcm.bcstm"
+    type: betting
+  - id: southern_island_oras
+    title: "Southern Island"
+    path: "bgm_sg_island.dspadpcm.bcstm"
+    type: betting
+  - id: route_119_oras
+    title: "Route 119"
+    path: "bgm_sg_r_f.dspadpcm.bcstm"
+    type: betting
+  - id: explosive_encounters_red_and_blue_oras
+    title: "Explosive Encounters! Red and Blue"
+    path: "bgm_sg_e_aqua_magma.dspadpcm.bcstm"
+    type: warning
+  - id: fortree_city_oras
+    title: "Fortree City"
+    path: "bgm_sg_c_04.dspadpcm.bcstm"
+    type: betting
+  - id: route_120_oras
+    title: "Route 120"
+    path: "bgm_sg_r_g.dspadpcm.bcstm"
+    type: betting
+  - id: safari_zone_oras
+    title: "Safari Zone"
+    path: "bgm_sg_safari.dspadpcm.bcstm"
+    type: betting
+  - id: trainers_eyes_meet_gentleman_oras
+    title: "Trainers' eyes Meet (Gentleman)"
+    path: "bgm_sg_eye_08.dspadpcm.bcstm"
+    type: warning
+  - id: lilycove_city_oras
+    title: "Lilycove City"
+    path: "bgm_sg_c_05.dspadpcm.bcstm"
+    type: betting
+  - id: museum_oras
+    title: "Museum"
+    path: "bgm_sg_art_gallery.dspadpcm.bcstm"
+    type: result
+  - id: brendan_oras
+    title: "Brendan"
+    path: "bgm_sg_e_yuuki.dspadpcm.bcstm"
+    type: warning
+  - id: battle_brendan_may_oras
+    title: "Battle! (Brendan / May)"
+    path: "bgm_sg_vs_rival_sg.dspadpcm.bcstm"
+    type: battle
+  - id: pokemart_oras
+    title: "Poké Mart"
+    path: "bgm_sg_fs.dspadpcm.bcstm"
+    type: betting
+  - id: mt_pyre_oras
+    title: "Mt. Pyre"
+    path: "bgm_sg_d_03.dspadpcm.bcstm"
+    type: betting
+  - id: trainers_eyes_meet_psychic_oras
+    title: "Trainers' Eyes Meet (Psychic)"
+    path: "bgm_sg_eye_06.dspadpcm.bcstm"
+    type: warning
+  - id: mt_pyre_exterior_oras
+    title: "Mt. Pyre Exterior"
+    path: "bgm_sg_d_04.dspadpcm.bcstm"
+    type: betting
+  - id: hideout_oras
+    title: "Hideout"
+    path: "bgm_sg_ajito.dspadpcm.bcstm"
+    type: betting
+  - id: dive_oras
+    title: "Dive"
+    path: "bgm_sg_diving.dspadpcm.bcstm"
+    type: betting
+  - id: team_aqua_appears_oras
+    title: "Team Aqua Appears!"
+    path: "bgm_sg_eye_aqua.dspadpcm.bcstm"
+    type: warning
+  - id: battle_team_aqua_team_magma_leaders_oras
+    title: "Battle! (Team Aqua/Team Magma Leaders)"
+    path: "bgm_sg_vs_aqua_magma_leader.dspadpcm.bcstm"
+    type: battle
+  - id: drought_oras
+    title: "Drought"
+    path: "bgm_sg_e_04.dspadpcm.bcstm"
+    type: warning
+  - id: heavy_rain_oras
+    title: "Heavy Rain"
+    path: "bgm_sg_e_05.dspadpcm.bcstm"
+    type: warning
+  - id: sootopolis_city_oras
+    title: "Sootopolis City"
+    path: "bgm_sg_c_06.dspadpcm.bcstm"
+    type: betting
+  - id: cave_of_origin_oras
+    title: "Cave of Origin"
+    path: "bgm_sg_d_05.dspadpcm.bcstm"
+    type: betting
+  - id: battle_primal_reversion
+    title: "Battle! (Primal Reversion)"
+    path: "bgm_sg_vs_legend_02_sg.dspadpcm.bcstm"
+    type: battle
+  - id: soaring_dreams_oras
+    title: "Soaring Dreams"
+    path: "bgm_sg_sky.dspadpcm.bcstm"
+    type: result
+  - id: soaring_illusions_oras
+    title: "Soaring Illusions"
+    path: "bgm_sg_sky2.dspadpcm.bcstm"
+    type: break
+  - id: trainers_eyes_meet_swimmer_female_oras
+    title: "Trainers' eyes Meet (Swimmer♀)"
+    path: "bgm_sg_eye_09.dspadpcm.bcstm"
+    type: warning
+  - id: ever_grande_city_oras
+    title: "Ever Grande City"
+    path: "bgm_sg_c_07.dspadpcm.bcstm"
+    type: betting
+  - id: victory_road_oras
+    title: "Victory Road"
+    path: "bgm_sg_d_champroad.dspadpcm.bcstm"
+    type: betting
+  - id: trainers_eyes_meet_ace_trainer_oras
+    title: "Trainers' eyes Meet (Ace Trainer)"
+    path: "bgm_sg_eye_10.dspadpcm.bcstm"
+    type: warning
+  - id: rival_s_theme_oras
+    title: "Rival's Theme"
+    path: "bgm_sg_e_09.dspadpcm.bcstm"
+    type: battle
+  - id: the_elite_four_appear_oras
+    title: "The Elite Four Appear!"
+    path: "bgm_sg_e_shitenno.dspadpcm.bcstm"
+    type: warning
+  - id: battle_elite_four_oras
+    title: "Battle! (Elite Four)"
+    path: "bgm_sg_vs_shitenno_sg.dspadpcm.bcstm"
+    type: battle
+  - id: champion_steven_oras
+    title: "Champion Steven"
+    path: "bgm_sg_e_champ.dspadpcm.bcstm"
+    type: warning
+  - id: battle_steven_oras
+    title: "Battle! (Steven)"
+    path: "bgm_sg_vs_champ_sg.dspadpcm.bcstm"
+    type: battle
+  - id: victory_steven_oras
+    title: "Victory! (Steven)"
+    path: "bgm_sg_win5.dspadpcm.bcstm"
+    type: result
+  - id: room_of_glory_oras
+    title: "Room of Glory"
+    path: "bgm_sg_legend_room.dspadpcm.bcstm"
+    type: betting
+  - id: the_hall_of_fame_oras
+    title: "The Hall of Fame"
+    path: "bgm_sg_dendouiri.dspadpcm.bcstm"
+    type: result
+  - id: ending_theme_oras
+    title: "Ending Theme"
+    path: "bgm_sg_ending.dspadpcm.bcstm"
+    type: break
+  - id: the_heirs_to_eternity
+    title: "The Heirs to Eternity"
+    path: "bgm_sg_e_higana.dspadpcm.bcstm"
+    type: warning
+  - id: sky_pillar_oras
+    title: "Sky Pillar"
+    path: "bgm_sg_sora.dspadpcm.bcstm"
+    type: warning
+  - id: battle_super_ancient_pokemon_oras
+    title: "Battle! (Super-Ancient Pokémon)"
+    path: "bgm_sg_vs_legend_sg.dspadpcm.bcstm"
+    type: battle
+  - id: battle_lorekeeper_zinnia
+    title: "Battle! (Lorekeeper Zinnia)"
+    path: "bgm_sg_vs_higana.dspadpcm.bcstm"
+    type: battle
+  - id: per_aspera_ad_astra_oras
+    title: "Per Aspera Ad Astra"
+    path: "Per Aspera Ad Astra.brstm"
+    type: result
+  - id: battle_deoxys_oras
+    title: "Battle! (Deoxys)"
+    path: "bgm_sg_vs_deoxys.dspadpcm.bcstm"
+    type: battle
+  - id: contest_lobby_oras
+    title: "Contest Lobby"
+    path: "bgm_sg_contest_lobby.dspadpcm.bcstm"
+    type: result
+  - id: lisia_s_theme_oras
+    title: "Lisia's Theme"
+    path: "bgm_sg_e_12.dspadpcm.bcstm"
+    type: warning
+  - id: pokemon_contest_spectacular_introductions_oras
+    title: "Pokémon Contest Spectacular: Introductions!"
+    path: "bgm_sg_contest.dspadpcm.bcstm"
+    type: result
+  - id: pokemon_contest_spectacular_appeals_oras
+    title: "Pokémon Contest Spectacular: Appeals!"
+    path: "bgm_sg_contest2.dspadpcm.bcstm"
+    type: result
+  - id: results_oras
+    title: "Results"
+    path: "bgm_sg_contest_result.dspadpcm.bcstm"
+    type: result
+  - id: contest_victor_oras
+    title: "Contest Victor"
+    path: "bgm_sg_contest_champ.dspadpcm.bcstm"
+    type: result
+  - id: trick_house_oras
+    title: "Trick House"
+    path: "bgm_sg_karakuri.dspadpcm.bcstm"
+    type: betting
+  - id: super_secret_bases_oras
+    title: "Super-Secret Bases"
+    path: "bgm_sg_secret_zone.dspadpcm.bcstm"
+    type: betting
+  - id: sea_maeville_oras
+    title: "Sea Mauville"
+    path: "bgm_sg_d_07.dspadpcm.bcstm"
+    type: betting
+  - id: sealed_chamber_oras
+    title: "Sealed Chamber"
+    path: "bgm_sg_d_06.dspadpcm.bcstm"
+    type: betting
+  - id: battle_regirock_regice_registeel_oras
+    title: "Battle! (Regirock / Regice / Registeel)"
+    path: "bgm_sg_vs_special_02.dspadpcm.bcstm"
+    type: battle
+  - id: battle_resort_oras
+    title: "Battle Resort"
+    path: "bgm_sg_battle_resort.dspadpcm.bcstm"
+    type: betting
+  - id: final_battle_world_championships_oras
+    title: "Final Battle! (World Championships)"
+    path: "bgm_xy_vs_secret_01.dspadpcm.bcstm"
+    type: battle
+  - id: appeal_love
+    title: "Appeal☆Love"
+    path: "Appeal☆Love (Lisia's Theme).brstm"
+    ends: 2:35
+    type: betting
+  - id: battle_frontier_brain_oras
+    title: "Battle! (Frontier Brain)"
+    path: "bgm_sg_vs_bfrontier.dspadpcm.bcstm"
+    type: battle
 ...

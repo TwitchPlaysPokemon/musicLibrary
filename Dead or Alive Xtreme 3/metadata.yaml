@@ -1,0 +1,59 @@
+---
+id: dead_or_alive_xtreme_3
+title: "Dead or Alive Xtreme 3"
+platform: ["PS4", "Vita"]
+year: 2016
+songs: 
+  - id: casino_doax3
+    title: "Casino"
+    path: "SND_BGM_STAGE_XHS 00001.at9"
+    type: break
+  - id: zack_island
+    title: "Zack Island"
+    path: "SND_BGM_STAGE_XHS 00002.at9"
+    type: betting
+  - id: marie_rose_theme_doax3
+    title: "Marie Rose's Theme"
+    path: "SND_BGM_STAGE_XHS 00003.at9"
+    type: betting
+  - id: when_i_lose_your_love_helena_theme
+    title: "When I Lose Your Love (Helena's Theme)"
+    path: "SND_BGM_STAGE_XHS 00004.at9"
+    type: betting
+  - id: paradise_theme_doax3
+    title: "Paradise Theme"
+    path: "SND_BGM_STAGE_XHS 00005.at9"
+    type: betting
+  - id: kokoro_theme_doax3
+    title: "Kokoro's Theme"
+    path: "SND_BGM_STAGE_XHS 00006.at9"
+    type: betting
+  - id: honoka_theme_doax3
+    title: "Honoka's Theme"
+    path: "SND_BGM_STAGE_XHS 00007.at9"
+    type: betting
+  - id: paradise_theme_2_doax3
+    title: "Paradise Theme 2"
+    path: "SND_BGM_STAGE_XHS 00008.at9"
+    type: betting
+  - id: kasumi_theme_doax3
+    title: "Kasumi's Theme"
+    path: "SND_BGM_STAGE_XHS 00009.at9"
+    type: break
+  - id: momiji_theme_doax3
+    title: "Momiji's Theme"
+    path: "SND_BGM_STAGE_XHS 00010.at9"
+    type: betting
+  - id: ayane_theme_doax3
+    title: "Ayane's Theme"
+    path: "SND_BGM_STAGE_XHS 00011.at9"
+    type: break
+  - id: i_just_want_to_tell_you_credits_doax3
+    title: "I Just Want To Tell You (Credits)"
+    path: "SND_BGM_STAGE_XHS 00012.at9"
+    type: betting
+  - id: pole_dance_doax3
+    title: "Pole Dance"
+    path: "SND_BGM_STAGE_XHS 00013.at9"
+    type: betting
+...

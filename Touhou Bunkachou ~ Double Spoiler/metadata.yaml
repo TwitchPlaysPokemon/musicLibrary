@@ -1,13 +1,17 @@
 ﻿---
 id: touhou_bunkachou_double_spoiler
-platform: "PC"
 title: "Touhou Bunkachou ~ Double Spoiler"
-year: 2010
 series: touhou
-songs:
+platform: "PC"
+year: 2010
+songs: 
+  - id: youkai_modern_colony
+    title: "Youkai Modern Colony"
+    path: "th125_03.txtp"
+    type: betting
   - id: bell_of_avici_infinity_nightmare
-    title: "Bell of Avici ~ Infinity Nightmare"
-    path: "Bell of Avici ~ Infinite Nightmare.brstm"
+    title: "Bell of Avici ~ Infinite Nightmare"
+    path: "th125_05.txtp"
     ends: 2:50
     type: betting
 ...

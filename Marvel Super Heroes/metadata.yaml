@@ -1,23 +1,112 @@
-id: marvel_super_heroes_vs_street_fighter
+---
+id: marvel_super_heroes
 title: "Marvel Super Heroes"
 series: mvc
 platform: ["Arcade", "Saturn", "PS1"]
 year: 1995
 songs: 
-  - id: dr_doom_msh
-    path: "Dr. Doom.brstm"
-    title: "Dr. Doom"
+  - id: ranking_msh
+    title: "Ranking Display"
+    path: "03 Ranking Display.vgz"
+    type: result
+  - id: character_select_msh
+    title: "Character Select"
+    path: "05 Player Select 1.vgz"
+    type: result
+  - id: spider_man_stage_msh
+    title: "SPIDER-MAN Stage"
+    path: "08 SPIDER-MAN Stage.vgz"
     type: betting
-  - id: shuma_gorath_msh
-    path: "Shuma Gorath.brstm"
-    title: "Shuma Gorath"
-    type: warning
-  - id: blackheart_msh
-    path: "Blackheart.brstm"
-    title: "Blackheart"
-    type: warning
-  - id: juggernaut_msh
-    path: "Juggernaut.brstm"
-    title: "Juggernaut"
+  - id: spider_man_ending_msh
+    title: "SPIDER-MAN ending"
+    path: "10 SPIDER-MAN Ending.vgz"
+    type: result
+  - id: captain_america_stage_msh
+    title: "CAPTAIN AMERICA Stage"
+    path: "11 CAPTAIN AMERICA Stage.vgz"
+    type: betting
+  - id: captain_america_ending_msh
+    title: "CAPTAIN AMERICA Ending"
+    path: "13 CAPTAIN AMERICA Ending.vgz"
+    type: result
+  - id: hulk_stage_msh
+    title: "HULK Stage"
+    path: "14 HULK Stage.vgz"
     type: battle
+  - id: hulk_winning_msh
+    title: "HULK Winning"
+    path: "15 HULK Winning.vgz"
+    type: warning
+  - id: hulk_ending_2_msh
+    title: "HULK Ending 2"
+    path: "17 HULK Ending 2.vgz"
+    type: result
+  - id: psylocke_stage_msh
+    title: "PSYLOCKE Stage"
+    path: "18 PSYLOCKE Stage.vgz"
+    type: betting
+  - id: psylocke_ending_1_msh
+    title: "PSYLOCKE Ending 1"
+    path: "20 PSYLOCKE Ending 1.vgz"
+    type: result
+  - id: iron_man_stage_msh
+    title: "IRON MAN Stage"
+    path: "22 IRON MAN Stage.vgz"
+    type: result
+  - id: dr_doom_stage_msh
+    title: "DOCTOR DOOM Stage"
+    path: "26 DOCTOR DOOM Stage.vgz"
+    type: betting
+  - id: dr_doom_theme_msh
+    title: "Theme Of DOCTOR DOOM"
+    path: "28 Theme Of DOCTOR DOOM.vgz"
+    type: warning
+  - id: juggernaut_stage_msh
+    title: "JUGGERNAUT Stage"
+    path: "30 JUGGERNAUT Stage.vgz"
+    type: battle
+  - id: juggernaut_ending_2_msh
+    title: "JUGGERNAUT Ending 2"
+    path: "33 JUGGERNAUT Ending 2.vgz"
+    type: result
+  - id: shuma_gorath_stage_msh
+    title: "SHUMA-GORATH Stage"
+    path: "34 SHUMA-GORATH Stage.vgz"
+    type: warning
+  - id: shuma_gorath_ending_msh
+    title: "SHUMA-GORATH Ending"
+    path: "36 SHUMA-GORATH Ending.vgz"
+    type: warning
+  - id: wolverine_stage_msh
+    title: "WOLVERINE Stage"
+    path: "37 WOLVERINE Stage.vgz"
+    type: battle
+  - id: wolverine_ending_msh
+    title: "WOLVERINE Ending"
+    path: "39 WOLVERINE Ending.vgz"
+    type: break
+  - id: blackheart_stage_msh
+    title: "BLACKHEART Stage"
+    path: "40 BLACKHEART Stage.vgz"
+    type: warning
+  - id: blackheart_ending_1_msh
+    title: "BLACKHEART Ending 1"
+    path: "42 BLACKHEART Ending 1.vgz"
+    type: warning
+  - id: magneto_stage_msh
+    title: "MAGNETO Stage"
+    path: "44 MAGNETO Stage.vgz"
+    type: warning
+  - id: thanos_stage_msh
+    title: "THANOS Stage"
+    path: "47 THANOS Stage.vgz"
+    type: betting
+  - id: thanos_theme_msh
+    title: "Theme Of THANOS"
+    path: "49 Theme Of THANOS.vgz"
+    type: warning
+  - id: unused_msh
+    title: "UNUSED"
+    path: "54 UNUSED.vgz"
+    type: result
 ...

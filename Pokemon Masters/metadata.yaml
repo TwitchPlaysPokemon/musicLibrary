@@ -1,6 +1,6 @@
 ---
 id: pokemon_masters
-title: "Pokémon Masters"
+title: "Pokémon Masters EX"
 series: pokemon
 platform: "Mobile"
 year: 2019
@@ -9,50 +9,6 @@ songs:
     title: "Main Theme"
     path: "bgm_title02.logg"
     type: result
-  - id: battle_rainbow_rocket_giovanni_mewtwo_pokemon_masters
-    title: "Battle! (Rainbow Rocket Giovanni & Mewtwo)"
-    path: "Battle! (Rainbow Rocket Giovanni & Mewtwo) Pokémon Masters.brstm"
-    type: battle
-  - id: battle_rival_barry
-    title: "Battle! (Rival Barry)"
-    path: "Battle! (Rival Barry) Pokémon Masters Soundtrack.brstm"
-    type: battle
-  - id: battle_alola_elite_four
-    title: "Battle! (Alola Elite Four)"
-    path: "Battle! Alola Elite Four - Pokémon Masters.brstm"
-    type: battle
-  - id: battle_alola_island_kahuna
-    title: "Battle! (Alola Island Kahuna)"
-    path: "Battle! Alola Island Kahuna - Pokémon Masters.brstm"
-    type: battle
-  - id: battle_champion_blue
-    title: "Battle! (Champion Blue)"
-    path: "Battle! Champion Blue Pokémon Masters - Reach for the Top.brstm"
-    type: battle
-  - id: battle_hoenn_elite_four
-    title: "Battle! (Hoenn Elite Four)"
-    path: "Battle! Hoenn Elite Four - Pokémon Masters.brstm"
-    type: battle
-  - id: battle_hoenn_gym_leader
-    title: "Battle! (Hoenn Gym Leader)"
-    path: "Battle! Hoenn Gym Leader - Pokémon Masters.brstm"
-    type: battle
-  - id: battle_lear
-    title: "Battle! (Lear)"
-    path: "Battle! Lear Pokémon Masters Soundtrack.brstm"
-    type: battle
-  - id: battle_sinnoh_elite_four
-    title: "Battle! (Sinnoh Elite Four)"
-    path: "Battle! Sinnoh Elite Four - Pokémon Masters.brstm"
-    type: battle
-  - id: battle_unova_elite_four
-    title: "Battle! (Unova Elite Four)"
-    path: "Battle! Unova Elite Four - Pokémon Masters.brstm"
-    type: battle
-  - id: battle_unova_gym_leader
-    title: "Battle! (Unova Gym Leader)"
-    path: "Battle! Unova Gym Leader - Pokémon Masters Music.brstm"
-    type: battle
   - id: encounter_blue
     title: "Encounter! (Blue)"
     path: "Encounter! Blue Pokémon Masters - Reach for the Top.brstm"
@@ -65,8 +21,259 @@ songs:
     title: "Poké Mart"
     path: "PokéMart Pokémon Masters Soundtrack.brstm"
     type: betting
+  - id: the_ideal_formula
+    title: "The Ideal Formula"
+    path: "Explore - The Ideal Formula (Unova Route 10).brstm"
+    type: betting
+  - id: an_unwavering_heart_pokemon_masters
+    title: "An Unwavering Heart"
+    path: "An Unwavering Heart (Pokemon Masters).brstm"
+    type: break
+    #tried to alphabetize the battle themes. I know the old ones and the new ones
+    #kinda clash, but if it's too much let me know and I can try to make things more
+    #uniform for the next update
+  - id: battle_agatha_pokemon_masters
+    title: "Battle! Agatha"
+    path: "Battle! Agatha (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_alder_pokemon_masters
+    title: "Battle! Alder"
+    path: "Battle! Alder (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_alola_elite_four
+    title: "Battle! (Alola Elite Four)"
+    path: "Battle! Alola Elite Four - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_alola_island_kahuna
+    title: "Battle! (Alola Island Kahuna)"
+    path: "Battle! Alola Island Kahuna - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_alola_trial_captain_pokemon_masters
+    title: "Battle! Alola Trial Captain"
+    path: "Battle! Alola Trial Captain (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_archie_pokemon_masters
+    title: "Battle! Archie"
+    path: "Battle! Archie (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_azelf_pokemon_masters
+    title: "Battle! Azelf"
+    path: "Battle! Azelf (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_battle_villa_boss_pokemon_masters
+    title: "Battle! Battle Villa Boss"
+    path: "Battle! Battle Villa Boss (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_battle_villa_trainer_pokemon_masters
+    title: "Battle! Battle Villa Trainer"
+    path: "Battle! Battle Villa Trainer (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_bianca_pokemon_masters
+    title: "Battle! Bianca"
+    path: "Battle! Bianca (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_boss_trainer_pokemon_masters
+    title: "Battle! Boss Trainer"
+    path: "Battle! Boss Trainer (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_bruno_johto_challenge_pokemon_masters
+    title: "Battle! Bruno (Johto Challenge)"
+    path: "Battle! Bruno (Johto Ver) (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_bruno_kanto_challenge_pokemon_masters
+    title: "Battle! Bruno (Kanto Challenge)"
+    path: "Battle! Bruno (Kanto Ver) (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_caitlin_pokemon_masters
+    title: "Battle! Caitlin"
+    path: "Battle! Caitlin (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_champion_blue
+    title: "Battle! (Champion Blue)"
+    path: "Battle! Champion Blue Pokémon Masters - Reach for the Top.brstm"
+    type: battle
+  - id: battle_cobalion_pokemon_masters
+    title: "Battle! Cobalion"
+    path: "Battle! Cobalion (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_cresselia_pokemon_masters
+    title: "Battle! Cresselia"
+    path: "Battle! Cresselia (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_cynthia_pokemon_masters
+    title: "Battle! Cynthia"
+    path: "Battle! Cynthia (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_entei_pokemon_masters
+    title: "Battle! Entei"
+    path: "Battle! Entei (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_galar_gym_leader_pokemon_masters
+    title: "Battle! Galar Gym Leader"
+    path: "Battle! Galar Gym Leader (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_ghetsis_pokemon_masters
+    title: "Battle! Ghetsis"
+    path: "Battle! Ghetsis (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_giovanni_pokemon_masters
+    title: "Battle! Giovanni"
+    path: "Battle! Giovanni (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_gladion_pokemon_masters
+    title: "Battle! Gladion"
+    path: "Battle! Gladion (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_grimsley_pokemon_masters
+    title: "Battle! Grimsley"
+    path: "Battle! Grimsley (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_guzma_pokemon_masters
+    title: "Battle! Guzma"
+    path: "Battle! Guzma (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_ho_oh_pokemon_masters
+    title: "Battle! Ho-Oh"
+    path: "Battle! Ho-Oh (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_hoenn_elite_four
+    title: "Battle! (Hoenn Elite Four)"
+    path: "Battle! Hoenn Elite Four - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_hoenn_gym_leader
+    title: "Battle! (Hoenn Gym Leader)"
+    path: "Battle! Hoenn Gym Leader - Pokémon Masters.brstm"
+    type: battle
   - id: battle_johto_gym_leader
     title: "Battle! (Johto Gym Leader)"
     path: "Pokémon Masters OST Johto Gym Leader Battle Music.brstm"
+    type: battle
+  - id: battle_karen_pokemon_masters
+    title: "Battle! Karen"
+    path: "Battle! Karen (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_koga_pokemon_masters
+    title: "Battle! Koga"
+    path: "Battle! Koga (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_lance_johto_challenge_pokemon_masters
+    title: "Battle! Lance (Johto Challenge)"
+    path: "Battle! Lance (Champion Ver) (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_lance_kanto_challenge_pokemon_masters
+    title: "Battle! Lance (Kanto Challenge)"
+    path: "Battle! Lance (Elite Four Ver) (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_lear
+    title: "Battle! (Lear)"
+    path: "Battle! Lear Pokémon Masters Soundtrack.brstm"
+    type: battle
+  - id: battle_leon_pokemon_masters
+    title: "Battle! Leon"
+    path: "Battle! Leon (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_lillie_pokemon_masters
+    title: "Battle! Lillie"
+    path: "Battle! Lillie (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_lisia_pokemon_masters
+    title: "Battle! Lisia"
+    path: "Battle! Lisia (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_lorelai_pokemon_masters
+    title: "Battle! Lorelai"
+    path: "Battle! Lorelai (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_lusamine_pokemon_masters
+    title: "Battle! Lusamine"
+    path: "Battle! Lusamine (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_lysandre_pokemon_masters
+    title: "Battle! Lysandre"
+    path: "Battle! Lysandre (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_marnie_pokemon_masters
+    title: "Battle! Marnie"
+    path: "Battle! Marnie (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_marshal_pokemon_masters
+    title: "Battle! Marshal"
+    path: "Battle! Marshal (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_maxie_pokemon_masters
+    title: "Battle! Maxie"
+    path: "Battle! Maxie (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_n_pokemon_masters
+    title: "Battle! N"
+    path: "Battle! N (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_plumeria_pokemon_masters
+    title: "Battle! Plumeria"
+    path: "Battle! Plumeria (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_professor_kukui_pokemon_masters
+    title: "Battle! Professor Kukui"
+    path: "Battle! Professor Kukui (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_rainbow_rocket_giovanni_mewtwo_pokemon_masters
+    title: "Battle! (Rainbow Rocket Giovanni & Mewtwo)"
+    path: "Battle! (Rainbow Rocket Giovanni & Mewtwo) Pokémon Masters.brstm"
+    type: battle
+  - id: battle_red_pokemon_masters
+    title: "Battle! Red (One Year Anniversary Mix)"
+    path: "Battle! Red (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_rival_barry
+    title: "Battle! (Rival Barry)"
+    path: "Battle! (Rival Barry) Pokémon Masters Soundtrack.brstm"
+    type: battle
+  - id: battle_shauntal_pokemon_masters
+    title: "Battle! Shauntal"
+    path: "Battle! Shauntal (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_silver_pokemon_masters
+    title: "Battle! Silver"
+    path: "Battle! Silver (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_sinnoh_elite_four
+    title: "Battle! (Sinnoh Elite Four)"
+    path: "Battle! Sinnoh Elite Four - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_steven_pokemon_masters
+    title: "Battle! Steven"
+    path: "Battle! Steven (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_team_break_pokemon_masters
+    title: "Battle! Team Break"
+    path: "Battle! Team Break (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_team_rocket_pokemon_masters
+    title: "Battle! Team Rocket"
+    path: "Battle! Team Rocket (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_unova_elite_four
+    title: "Battle! (Unova Elite Four)"
+    path: "Battle! Unova Elite Four - Pokémon Masters.brstm"
+    type: battle
+  - id: battle_unova_gym_leader
+    title: "Battle! (Unova Gym Leader)"
+    path: "Battle! Unova Gym Leader - Pokémon Masters Music.brstm"
+    type: battle
+  - id: battle_wallace_pokemon_masters
+    title: "Battle! Wallace"
+    path: "Battle! Wallace (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_wally_pokemon_masters
+    title: "Battle! Wally"
+    path: "Battle! Wally (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_will_pokemon_masters
+    title: "Battle! Will"
+    path: "Battle! Will (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_zinnia_pokemon_masters
+    title: "Battle! Zinnia"
+    path: "Battle! Zinnia (Pokemon Masters).brstm"
     type: battle
 ...

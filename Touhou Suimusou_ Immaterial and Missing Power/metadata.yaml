@@ -5,64 +5,64 @@ series: touhou
 platform: "PC"
 year: 2004
 songs: 
-  - id: doll_judgment_the_girl_who_played_with_people_s_shapes
-    title: "Doll Judgment ~ The Girl who Played with People's Shapes"
-    path: "Doll Judgment.brstm"
-    type: betting
-  - id: voile_magic_library
-    title: "Voile Magic Library"
-    path: "Voile Magic Library (Patchouli's Night Theme).brstm"
-    type: battle
-  - id: wanderings_2hiamp
-    title: "Wanderings"
-    path: "Wanderings.brstm"
-    type: betting
-  - id: broken_moon_2hiamp
-    title: "Broken Moon"
-    path: "Broken Moon.brstm"
-    type: result
-  - id: dance_of_witches
-    title: "Dance of Witches"
-    path: "Dance of the Witches (Marisa's theme).brstm"
-    type: betting
-  - id: lunar_clock_luna_dial_touhou_suimusou
-    title: "Lunar Clock ~ Luna Dial"
-    path: "Lunar Dial (Sakuya's night theme).brstm"
-    type: betting
-  - id: night_falls_evening_star
-    title: "Night Falls ~ Evening Star"
-    path: "Night Falls ~ Evening Star.brstm"
-    type: battle
-  - id: demystify_feast
-    title: "Demystify Feast"
-    path: "Demystify Feast.brstm"
-    type: battle
-  - id: end_of_summer
-    title: "End of Summer"
-    path: "[15] End of Summer.brstm"
-    type: break
   - id: maidens_capriccio
     title: "Maiden's Capriccio"
-    path: "[02] Maiden's Capriccio.brstm"
+    path: "03 Maiden's Capriccio [Hakurei Shrine 2].GENH"
     type: betting
   - id: love_coloured_magic_2hiamp
     title: "Love-Coloured Magic"
-    path: "[04] Love-coloured Magic.brstm"
+    path: "04 Love-coloured Magic [Forest of Magic (Kirisame's House 1)].GENH"
     type: betting
+  - id: dance_of_witches
+    title: "Dance of Witches"
+    path: "05 Dance of Witches [Forest of Magic (Kirisame's House 2)].GENH"
+    type: warning
+  - id: lunar_clock_luna_dial_touhou_suimusou
+    title: "Lunar Clock ~ Luna Dial"
+    path: "07 Lunar Clock ~ Lunar Dial [Clock Tower of Scarlet Devil Mansion 2].GENH"
+    type: betting
+  - id: doll_judgment_the_girl_who_played_with_people_s_shapes
+    title: "Doll Judgment ~ The Girl who Played with People's Shapes"
+    path: "09 Doll Judgment [Forest of Magic (Margatroid's House 2)].GENH"
+    type: betting
+  - id: voile_magic_library
+    title: "Voile Magic Library"
+    path: "11 Voile Magic Library [Great Library in Scarlet Devil Mansion 2].GENH"
+    type: battle
   - id: mystic_oriental_dream_ancient_temple
     title: "Mystic Oriental Dream ~ Ancient Temple"
-    path: "[12] Mystic Oriental Dream ~ Ancient Temple.brstm"
+    path: "13 Mystic Oriental Dream ~ Ancient Temple [Graveyard Standing a Big Tree 2].GENH"
+    type: betting
+  - id: demystify_feast
+    title: "Demystify Feast"
+    path: "16 Demystify Feast [Hakurei Shrine (Feast Day)].GENH"
+    type: battle
+  - id: night_falls_evening_star
+    title: "Night Falls ~ Evening Star"
+    path: "17 Night Falls ~ Evening Star [Hakurei Shrine (Border)].GENH"
+    type: battle
+  - id: onigashima_in_the_fairyland_missing_power
+    title: "Onigashima in the Fairyland ~ Missing Power"
+    path: "18 Onigashima in the Fairyland ~ Missing Power [Gensokyo].GENH"
+    type: battle
+  - id: end_of_summer
+    title: "End of Summer"
+    path: "19 End of Summer [Ending Theme].GENH"
+    type: break
+  - id: wanderings_2hiamp
+    title: "Wanderings"
+    path: "23 Wanderings [Pre-battle].GENH"
     type: betting
   - id: skygazer_2hiamp
     title: "Skygazer"
-    path: "[13] Skygazer.brstm"
+    path: "28 Skygazer [Pre-battle].GENH"
     type: result
   - id: swift_battle_2hiamp
     title: "Swift Battle"
-    path: "[15] Swift Battle.brstm"
+    path: "32 Swift Battle [Pre-battle].GENH"
     type: warning
-  - id: onigashima_in_the_fairyland_missing_power
-    title: "Onigashima in the Fairyland ~ Missing Power"
-    path: "Onigashima in the Fairyland.brstm"
-    type: battle
+  - id: broken_moon_2hiamp
+    title: "Broken Moon"
+    path: "34 Broken Moon [Pre-battle].GENH"
+    type: result
 ...

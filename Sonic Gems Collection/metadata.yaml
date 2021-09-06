@@ -2,15 +2,60 @@
 id: sonic_gems_collection
 title: "Sonic Gems Collection"
 series: sonic
-year: 2005
 platform: ["GC", "PS2"]
-songs:
+year: 2005
+songs: 
   - id: manuals
     title: "Manuals"
-    path: "Manuals.brstm"
+    path: "manual.adx"
     type: break
   - id: games_menu
     title: "Games Menu"
-    path: "Games Menu.brstm"
+    path: "history.adx"
     type: break
+  - id: menu_songem
+    title: "Menu"
+    path: "menu.adx"
+    type: bidding
+  - id: museum_songem
+    title: "Museum"
+    path: "museum01.adx"
+    type: betting
+  - id: are_you_brave
+    title: "Are You Brave?"
+    path: "museum02.adx"
+    type: betting
+  - id: fairy_of_a_i_f
+    title: "Fairy Of A.I.F."
+    path: "museum03.adx"
+    type: betting
+  - id: sonic_6290_mix
+    title: "Sonic 6290 Mix"
+    path: "museum04.adx"
+    ends: 2:48
+    type: betting
+  - id: sonic_boom_d_nb_mix
+    title: "Sonic Boom D'nB Mix"
+    path: "museum06.adx"
+    type: betting
+  - id: can_you_feel_the_sunshine_acid_mix
+    title: "Can You Feel The Sunshine ACID Mix"
+    path: "museum07.adx"
+    type: betting
+  - id: living_in_the_city_ltn_mix
+    title: "Living In The City LTN Mix"
+    path: "museum08.adx"
+    type: betting
+  - id: sonic3_megad_mix
+    title: "Sonic3 MegaD Mix"
+    path: "museum10.adx"
+    type: betting
+  - id: open_your_heart_mjz_mix
+    title: "Open Your Heart MJZ Mix"
+    path: "museum11.adx"
+    type: betting
+  - id: sonic_heroes_no_gtr_mix
+    title: "Sonic Heroes No-GTR Mix"
+    path: "museum12.adx"
+    type: betting
 ...

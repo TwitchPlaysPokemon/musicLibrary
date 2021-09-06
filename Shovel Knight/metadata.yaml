@@ -1,8 +1,9 @@
 ---
 id: shovel_knight
 title: "Shovel Knight"
-platform: ["Wii U", "Various"]
-#other platforms: ["3DS", "PC", "PS3", "PS4", "Vita", "XBone", "FireTV", "Switch"]
+series: shovelknight
+platform: "Various"
+#other platforms: ["3DS", "PC", "PS3", "PS4", "Vita", "XBone", "FireTV", "Wii U" "Switch"]
 year: 2014
 songs: 
   - id: strike_the_earth_plains_of_passage
@@ -29,4 +30,53 @@ songs:
     path: "An Underlying Problem (The Lost City).brstm"
     title: "An Underlying Problem (The Lost City)"
     type: betting
+  - id: the_starlit_wilds_campfire_scene
+    title: "The Starlit Wilds (Campfire Scene)"
+    path: "m_campfire.fsb"
+    type: break
+  - id: a_return_to_order_ending
+    title: "A Return To Order (Ending)"
+    path: "m_ending.fsb"
+    ends: 3:18
+    type: betting
+  - id: reprise_credits
+    title: "Reprise (Credits)"
+    path: "m_credits.fsb"
+    type: result
+  - id: fighting_with_all_of_our_might_guest_director_boss_battle
+    title: "Fighting With All Of Our Might (Guest Director Boss Battle)"
+    path: "m_boss_director.fsb"
+    type: betting
+  - id: the_schemer_tinker_knight_battle
+    title: "The Schemer (Tinker Knight Battle)"
+    path: "m_boss_tinker.fsb"
+    type: warning
+  - id: flowers_of_antimony_the_explodatorium
+    title: "Flowers of Antimony (The Explodatorium)"
+    path: "m_level_alchemylab.fsb"
+    type: betting
+  - id: la_danse_macabre_lich_yard
+    title: "La Danse Macabre (Lich Yard)"
+    path: "m_level_deathvillage.fsb"
+    type: betting
+  - id: a_cool_reception_stranded_ship
+    title: "A Cool Reception (Stranded Ship)"
+    path: "m_level_strandedship.fsb"
+    type: betting
+  - id: end_of_days_endgame_map_screen
+    title: "End of Days (Endgame Map Screen)"
+    path: "m_levelselect_final.fsb"
+    type: warning
+  - id: watch_me_dance
+    title: "Watch Me Dance!"
+    path: "m_minigame.fsb"
+    type: warning
+  - id: shield_knights_requiem
+    title: "Shield Knight's Requiem"
+    path: "m_shieldknight_requiem.fsb"
+    type: break
+  - id: spin_ye_bottle_minigame
+    title: "Spin Ye Bottle (Minigame)"
+    path: "m_mona_minigame.fsb"
+    type: warning
 ...

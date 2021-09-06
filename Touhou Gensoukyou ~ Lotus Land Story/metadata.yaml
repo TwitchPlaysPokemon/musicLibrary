@@ -24,13 +24,29 @@ songs:
   - id: vessel_of_stars_casket_of_star_lls
     title: "Vessel of Stars ~ Casket of Star"
     path: "Vessel of Stars ~ Casket of Star.vgz"
-    type: betting
+    type: result
   - id: faint_dream_inanimate_dream_unused
-    title: "Faint Dream ~ Inanimate Dream"
+    title: "Faint Dream ~ Inanimate Dream (Unused)"
     path: "15 Faint Dream _ Inanimate Dream.vgz"
     type: battle
   - id: cute_devil_innocence
     title: "Cute Devil ~ Innocence"
     path: "18 Cute Devil _ Innocence.vgz"
     type: battle
+  - id: decoration_battle_lls
+    title: "Decoration Battle"
+    path: "04 Decoration Battle.vgz"
+    type: warning
+  - id: bad_apple_lls
+    title: "Bad Apple!!"
+    path: "07 Bad Apple!!.vgz"
+    type: battle
+  - id: alice_maestra
+    title: "Alice Maestra"
+    path: "09 Alice Maestra.vgz"
+    type: betting
+  - id: the_inevitably_forbidden_game
+    title: "The Inevitably Forbidden Game"
+    path: "16 The Inevitably Forbidden Game.vgz"
+    type: betting
 ...

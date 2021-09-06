@@ -1,0 +1,62 @@
+---
+id: toejam_and_earl_back_in_the_groove
+title: "ToeJam & Earl: Back in the Groove"
+platform: "Various"
+year: 2019
+#not sure if the fsbs actually loop, so just to be safe I added in ending times
+songs: 
+  - id: aquajam_unchained
+    title: "Aquajam Unchained"
+    path: "Aquajam Unchained.fsb"
+    ends: 2:28
+    type: betting
+  - id: back_in_the_groove
+    title: "Back In the Groove"
+    path: "Back In the Groove.fsb"
+    ends: 2:10
+    type: betting
+  - id: big_earl_bump_back_in_the_groove
+    title: "Big Earl Bump"
+    path: "Big Earl Bump.fsb"
+    ends: 2:14
+    type: betting
+  - id: darkness_back_in_the_groove
+    title: "Darkness"
+    path: "Darkness LOOP.fsb"
+    type: betting
+  - id: funk_funk_funk_e
+    title: "Funk Funk Funk E"
+    path: "Funk Funk Funk E.fsb"
+    ends: 2:22
+    type: betting
+  - id: funktastic_planet
+    title: "Funktastic Planet"
+    path: "Funktastic Planet.fsb"
+    ends: 2:11
+    type: betting
+  - id: groove_ship
+    title: "Groove Ship"
+    path: "Groove Ship.fsb"
+    ends: 2:19
+    type: betting
+  - id: hyperfunk_zone
+    title: "Hyperfunk Zone"
+    path: "Hyperfunk Zone.fsb"
+    ends: 2:24
+    type: betting
+  - id: lewandas_love
+    title: "Lewanda's Love"
+    path: "Lewanda's Love.fsb"
+    ends: 2:40
+    type: betting
+  - id: old_school_otis
+    title: "Old School Otis"
+    path: "Old School Otis.fsb"
+    ends: 2:20
+    type: betting
+  - id: the_bass_master
+    title: "The Bass Master"
+    path: "The Bass Master.fsb"
+    ends: 2:39
+    type: betting
+...

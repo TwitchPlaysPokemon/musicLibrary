@@ -36,6 +36,10 @@ songs:
     title: "Puyo Puyo Tetris Mixed-Up Mix"
     path: "BGM_00000017.hca"
     type: betting
+  - id: puyo_tetris_2__bossdialogue_you_re_on
+    title: "Puyo Tetris 2 Boss Dialogue ~ You're On! ~"
+    path: "BGM_00000006.hca"
+    type: result
   - id: how_about_a_friendly_game
     title: "How About a Friendly Game?"
     path: "BGM_0000001B.hca"
@@ -44,6 +48,10 @@ songs:
     title: "Puyo Tetris 2 Dialogue ~ Let's Go for the Next One ~"
     path: "BGM_00000004.hca"
     type: result
+  - id: bigbang_fever_2
+    title: "BIGBANG FEVER 2!"
+    path: "BGM_00000014.hca"
+    type: warning
   - id: technotris_ver_pt2
     title: "TECHNOTRIS ver. PT2"
     path: "BGM_00000019.hca"
@@ -56,6 +64,10 @@ songs:
     title: "Lesson Start"
     path: "BGM_00000024.hca"
     type: break
+  - id: party_party_pt2
+    title: "PARTY! PARTY!"
+    path: "BGM_00000016.hca"
+    type: betting
   - id: online_menu_pt2
     title: "Online Menu PT2"
     path: "BGM_0000000F.hca"
@@ -64,6 +76,10 @@ songs:
     title: "Puyo Tetris 2 Dialogue ~ A Prank?? ~"
     path: "BGM_00000003.hca"
     type: warning
+  - id: puyo_tetris_2_dialogue_unknown
+    title: "Puyo Tetris 2 Dialogue ~ Unknown ~"
+    path: "puyo2unk.brstm"
+    type: break
   - id: versus_a_strong_opponent
     title: "Versus a Strong Opponent"
     path: "BGM_0000001E.hca"
@@ -84,4 +100,28 @@ songs:
     title: "Puyo Puyo TETRIS 2 STAFF CREDITS"
     path: "BGM_0000000A.hca"
     type: break
+  - id: request_from_puyo_puyo
+    title: "Request from Puyo Puyo"
+    path: "BGM_DL2_00000000.hca"
+    type: result
+  - id: i_will_seize_all
+    title: "I Will Seize All!"
+    path: "BGM_DL2_00000001.hca"
+    type: battle
+  - id: crimson_wave
+    title: "Crimson Wave!"
+    path: "BGM_DL2_00000002.hca"
+    type: battle
+  - id: supreme_fighting_queen_in_love
+    title: "Supreme Fighting Queen in Love"
+    path: "BGM_DL3_00000000.hca"
+    type: betting
+  - id: puyo_dialogue_boss_demo_from_puyo_puyo
+    title: "Puyo!! Dialogue - Boss (Demo from Puyo Puyo)"
+    path: "BGM_DL3_00000001.hca"
+    type: betting
+  - id: it_s_puyo_time_for_the_last_time
+    title: "It's Puyo Time... for the Last Time!"
+    path: "BGM_DL3_00000002.hca"
+    type: result
 ...

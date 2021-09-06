@@ -1,0 +1,39 @@
+﻿---
+id: cartoon_network_racing_ds
+title: "Cartoon Network Racing"
+platform: ["PS2", "NDS"]
+year: 2006
+songs:
+  - id: dexters_laboratory
+    title: "Dexter's Laboratory"
+    path: "0007 SEQARC_DEXTERSLAB.mini2sf"
+    type: betting
+  - id: aron_city_speedway_johnny_bravo
+    title: "Aron City Speedway"
+    path: "0006 SEQARC_ARONSPEED.mini2sf"
+    type: result
+  - id: cow_and_chickens_track_and_field
+    title: "Cow and Chicken's Track and Field"
+    path: "000A SEQARC_TRACKFIELD.mini2sf"
+    type: betting
+  - id: middle_of_nowhere_courage
+    title: "Middle of Nowhere"
+    path: "000B SEQARC_MIDNOWHERE.mini2sf"
+    type: result
+  - id: townsville_raceway
+    title: "Townsville Raceway"
+    path: "0004 SEQARC_CROSSTOWN.mini2sf"
+    type: betting
+  - id: wild_west_backlot
+    title: "Wild West Backlot"
+    path: "000C SEQARC_WILDWEST.mini2sf"
+    type: betting
+  - id: mandarks_laboratory
+    title: "Mandark's Laboratory"
+    path: "000F SEQARC_MANDARKLAB.mini2sf"
+    type: warning
+  - id: snow_sunday_drive
+    title: "Snow Sunday Drive"
+    path: "000E SEQARC_SNOWSUNDAY.mini2sf"
+    type: result
+...
