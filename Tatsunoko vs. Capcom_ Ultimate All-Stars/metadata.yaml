@@ -5,15 +5,15 @@ series: mvc
 platform: "Wii"
 year: 2010
 songs:
-  - id: character_select_tvc
+  - id: character_select_tvcuas
     title: "Character Select"
     path: "s_bgm_24.zwdsp"
     type: betting
-  - id: stage_select_tvc
+  - id: stage_select_tvcuas
     title: "Stage Select"
     path: "s_bgm_25.zwdsp"
     type: warning
-  - id: after_the_fight_tvc
+  - id: after_the_fight_tvcuas
     title: "After the Fight"
     path: "s_bgm_26.zwdsp"
     type: result
@@ -21,7 +21,7 @@ songs:
     title: "Yami Part 2"
     path: "s_bgm_33.zwdsp"
     type: warning
-  - id: credits_tvc
+  - id: credits_tvcuas
     title: "Credits"
     path: "s_bgm_35.zwdsp"
     type: betting
