@@ -2,9 +2,9 @@
 id: sonic_gems_collection
 title: "Sonic Gems Collection"
 series: sonic
-platform: ["GC", "PS2"]
+platform: ["GCN", "PS2"]
 year: 2005
-songs: 
+songs:
   - id: manuals
     title: "Manuals"
     path: "manual.adx"

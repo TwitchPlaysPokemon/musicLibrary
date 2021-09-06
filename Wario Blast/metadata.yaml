@@ -1,9 +1,10 @@
 ---
 id: wario_blast
 title: "Wario Blast"
+series: wario
 platform: "GB"
 year: 1994
-songs: 
+songs:
   - id: arrow_zone
     title: "Arrow Zone"
     path: "Arrow Zone.brstm"

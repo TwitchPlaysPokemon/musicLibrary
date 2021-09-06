@@ -3,7 +3,7 @@ id: drakengard
 title: "Drakengard"
 platform: "PS2"
 year: 2003
-songs: 
+songs:
   - id: weapon_select
     title: "Weapon Select"
     path: "102 Takayuki Aihara - Weapon Select.SS2"
@@ -53,7 +53,7 @@ songs:
     path: "109 Takayuki Aihara - Third Chapter - Ground.SS2"
     type: warning
   - id: third_chapter_unused
-    title: "Third Chapter - Unused.brstm"
+    title: "Third Chapter - Unused"
     path: "99 007.SS2"
     type: warning
   - id: fourth_chapter_event

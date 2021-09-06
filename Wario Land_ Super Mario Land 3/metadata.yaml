@@ -1,9 +1,10 @@
 ---
-id: wario_land_super_mario_land_3 
-title: "Wario Land: Super Mario Land 3 "
+id: wario_land_super_mario_land_3
+title: "Wario Land: Super Mario Land 3"
+series: wario
 platform: "GB"
 year: 1994
-songs: 
+songs:
   - id: train_stage
     title: "Train Stage"
     path: "Train Stage.brstm"
