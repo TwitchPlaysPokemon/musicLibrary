@@ -1,8 +1,8 @@
 ---
 id: j_stars_victory_versus_plus
 title: "J-Stars Victory VS+"
-year: 2015
 platform: ["PS3", "PS4", "Vita"]
+year: 2015
 songs:
   - id: raging_blast_goku
     title: "Raging Blast - Goku"
@@ -100,8 +100,8 @@ songs:
     title: "Battle Select"
     path: "BGM_BATTLESELECT.hca"
     type: warning
-  - id: battle_select_j_stars
-    title: "Battle Select"
+  - id: opening_theme_j_stars
+    title: "Opening Theme"
     path: "BGM_OPENING.hca"
     type: warning
 ...

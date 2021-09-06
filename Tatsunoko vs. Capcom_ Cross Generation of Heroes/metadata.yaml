@@ -5,10 +5,6 @@ series: mvc
 platform: ["Arcade", "Wii"]
 year: 2008
 songs:
-  - id: extra_menu_tvc
-    title: "Extra Menu"
-    path: "Break-ExtraMenu_Tatsunoko.brstm"
-    type: break
   - id: theme_of_ken_the_eagle
     title: "Theme of Ken the Eagle"
     path: "s_bgm_01.zwdsp"
@@ -101,4 +97,8 @@ songs:
     title: "Stage Select"
     path: "s_bgm_25.zwdsp"
     type: warning
+  - id: extra_menu_tvc
+    title: "Extra Menu"
+    path: "s_bgm_43.zwdsp"
+    type: break
 ...
