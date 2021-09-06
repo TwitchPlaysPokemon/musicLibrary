@@ -1,9 +1,10 @@
 ---
 id: warioware_gold
 title: "WarioWare Gold"
+series: wario
 platform: "3DS"
 year: 2018
-songs: 
+songs:
   - id: wario_kard_battle
     title: "Wario Kard Battle"
     path: "BGM_CARDGAME_BATTLE1_22k.dspadpcm.bcstm"
