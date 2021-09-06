@@ -1,0 +1,76 @@
+---
+id: xenosaga_episode_ii_jenseits_von_gut_und_bose
+title: "Xenosaga Episode II: Jenseits von Gut und Böse"
+series: xeno
+platform: "PS2"
+year: 2004
+songs: 
+  - id: character_battle_xenosaga_episode_ii
+    title: "Character Battle"
+    path: "03 Character Battle.brstm"
+    type: battle
+  - id: major_boss_battle
+    title: "Major Boss Battle"
+    path: "04 Major Boss Battle.brstm"
+    type: battle
+  - id: evading_the_u_tic_organization
+    title: "Evading the U-TIC Organization"
+    path: "06 Evading the U-TIC Organization.brstm"
+    type: betting
+  - id: the_elsa_von_brabant
+    title: "The Elsa von Brabant"
+    path: "17 The Elsa von Brabant.brstm"
+    type: betting
+  - id: ormus_stronghold
+    title: "Ormus Stronghold"
+    path: "19 Ormus Stronghold.brstm"
+    type: betting
+  - id: ormus_stronghold_countdown_to_self_destruct
+    title: "Ormus Stronghold - Countdown to Self-Destruct"
+    path: "20 Ormus Stronghold - Countdown to Self-Destruct.brstm"
+    type: warning
+  - id: the_durandal
+    title: "The Durandal"
+    path: "21 The Durandal.brstm"
+    type: betting
+  - id: final_battle_xenosaga_episode_ii
+    title: "Final Battle"
+    path: "28 Final Battle.brstm"
+    type: betting
+  - id: xenosaga_ii_opening_theme
+    title: "Xenosaga II Opening Theme"
+    path: "103 - xenosaga ii opening theme.brstm"
+    ends: 2:31
+    type: betting
+  - id: assault_xenosaga_episode_ii
+    title: "assault"
+    path: "104 - assault (deb lyons).brstm"
+    ends: 2:42
+    type: betting
+  - id: fatal_fight_jin_margulis
+    title: "fatal fight (Jin & Margulis)"
+    path: "107 - fatal fight (jin & margulis) (deb lyons).brstm"
+    type: battle
+  - id: chase_xenosaga_episode_ii
+    title: "chase"
+    path: "109 - chase.brstm"
+    ends: 2:21
+    type: betting
+  - id: lamentation
+    title: "lamentation"
+    path: "111 - lamentation.brstm"
+    type: betting
+  - id: final_crisis_xenosaga_episode_ii
+    title: "final crisis"
+    path: "204 - final crisis.brstm"
+    type: warning
+  - id: jr_xenosaga_episode_ii
+    title: "Jr."
+    path: "211 - jr. (margaret dorn).brstm"
+    ends: 3:22
+    type: betting
+  - id: jr_4_xenosaga_episode_ii
+    title: "Jr. #4"
+    path: "212 - jr. 4.brstm"
+    type: battle
+...

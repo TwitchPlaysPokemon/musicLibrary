@@ -13,4 +13,20 @@ songs:
     title: "Tutorial"
     path: "Tutorial.brstm"
     type: break
+  - id: kazeyotsutaete_mega_maker
+    title: "Kaze Yo Tsutaete (Theme of Roll)"
+    path: "KazeYoTsutaete.brstm"
+    type: betting
+  - id: editorb_mega_maker
+    title: "Stage Editor B"
+    path: "EditorB.nsf"
+    type: break
+  - id: editorc_mega_maker
+    title: "Stage Editor C"
+    path: "EditorC.nsf"
+    type: break
+  - id: editord_mega_maker
+    title: "Stage Editor D"
+    path: "EditorD.nsf"
+    type: break
 ...

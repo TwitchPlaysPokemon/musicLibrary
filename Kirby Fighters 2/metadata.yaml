@@ -4,8 +4,182 @@ title: "Kirby Fighters 2"
 platform: "Switch"
 year: 2020
 songs: 
+  - id: title_and_menu_kf2
+    title: "Title and Menu"
+    path: "BGM_FIZZTITLE.bfstm"
+    type: betting
+  - id: online_mode_and_local_play_mode
+    title: "Online Mode and Local Play Mode"
+    path: "BGM_FIZZTITLE_AR_01.dspadpcm.bfstm"
+    type: betting
+  - id: options_kf2
+    title: "Title and Menu"
+    path: "FizzOption_20200703.dspadpcm.bfstm"
+    type: result
+  - id: training_mode_calm
+    title: "Training Mode (Calm)"
+    path: "Fizz64TrainingArrange(Calm)_20200707.dspadpcm.bfstm"
+    type: break
+  - id: training_mode_intense
+    title: "Training Mode (Intense)"
+    path: "Fizz64TrainingArrange(Intense)_20200702.dspadpcm.bfstm"
+    type: betting
+  - id: training_mode_chiptune
+    title: "Training Mode (chiptune)"
+    path: "Fizz64TrainingArrange(Chiptune)_20200706.dspadpcm.bfstm"
+    type: betting
+  - id: single_handed_mode
+    title: "Single-Handed Mode"
+    path: "FizzPizzaTitleArrange_20200630.dspadpcm.bfstm"
+    type: betting
+  - id: credits_green_greens_bumper_crop_rump_medley
+    title: "Credits - Green Greens & Bumper Crop Rump Medley"
+    path: "FizzGreenGreensMedley_20200529.dspadpcm.bfstm"
+    type: betting
+  - id: bubbly_clouds_kf2
+    title: "Bubbly Clouds"
+    path: "BGM_BBLYCLOUDS_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: springy_hand_land
+    title: "Springy Hand Land"
+    path: "BGM_BOYOYONHAND_FIZZ.dspadpcm.bfstm"
+    type: battle
+  - id: butter_building_kf2
+    title: "Butter Building"
+    path: "BGM_BUTTERBLD_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: coo_s_forest
+    title: "Coo's Forest"
+    path: "BGM_COOFOREST_FIZZ.dspadpcm.bfstm"
+    type: battle
+  - id: dedede_arena
+    title: "Dedede Arena"
+    path: "BGM_DDDARENA_FIZZ.dspadpcm.bfstm"
+    type: battle
+  - id: dyna_blade_s_nest
+    title: "Dyna Blade's Nest"
+    path: "BGM_DYNABLADE_FIZZ.dspadpcm.bfstm"
+    type: battle
+  - id: factory_tour_kf2
+    title: "Factory Tour"
+    path: "BGM_FACTORY_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: dried_up_sea
+    title: "Dried-up Sea"
+    path: "BGM_GIGANTGRND_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: gigavolt_kf2
+    title: "Gigavolt"
+    path: "BGM_GIGAVOLT_FIZZ.dspadpcm.bfstm"
+    type: battle
+  - id: gourmet_go_go
+    title: "Gourmet Go Go"
+    path: "BGM_GRACE2_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: green_gardens_kf2
+    title: "Green Gardens"
+    path: "BGM_GREENS_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: haldera_volcano_kf2
+    title: "Haldera Volcano"
+    path: "BGM_HALDERAVOLC_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: jambastion_enterance
+    title: "Jambastion Enterance"
+    path: "BGM_JAMAHALDA_FIZZ.dspadpcm.bfstm"
+    type: battle
+  - id: castle_lololo_kf2
+    title: "Castle Lololo"
+    path: "BGM_LOLOLO_FIZZ.dspadpcm.bfstm"
+    type: battle
+  - id: training_kf2
+    title: "Training"
+    path: "BGM_TRAINING64_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: waddle_dee_train_tracks
+    title: "Waddle Dee Train Tracks"
+    path: "BGM_WDLDEETRAIN_FIZZ.dspadpcm.bfstm"
+    type: betting
+  - id: fountain_of_dreams_kf2
+    title: "Fountain of Dreams"
+    path: "BGM_YUMENOIZUMI_FIZZ.dspadpcm.bfstm"
+    type: battle
+  - id: the_empyrean
+    title: "The Empyrean"
+    path: "FizzLimeBossArrange_20200707.dspadpcm.bfstm"
+    type: battle
+  - id: story_mode_the_destined_rivals
+    title: "Story Mode - The Destined Rivals"
+    path: "BGM_FIZZTITLE_AR_02.dspadpcm.bfstm"
+    type: warning
+  - id: story_mode_the_partners_who_shook_the_heavens
+    title: "Story Mode - The Partners Who Shook the Heavens"
+    path: "FizzStoryTextStartRogue5_20200630.dspadpcm.bfstm"
+    type: warning
+  - id: item_room_kf2
+    title: "Item Room"
+    path: "FizzItemSelectRogue1~4_20200630.dspadpcm.bfstm"
+    type: warning
+  - id: item_room_chapter_5_kf2
+    title: "Item Room - Chapter 5"
+    path: "FizzItemSelectRogue5_20200616.dspadpcm.bfstm"
+    type: betting
+  - id: item_room_the_final_5_kf2
+    title: "Item Room - The Final 5"
+    path: "FizzItemSelectRogue5_Ver2_20200708.dspadpcm.bfstm"
+    type: warning
+  - id: vs_giant_tree_twins_twin_woods
+    title: "Vs. Giant Tree Twins - Twin Woods"
+    path: "StarAlliesNormalBossArrange_20200318.dspadpcm.bfstm"
+    type: battle
   - id: vs_duo_edge_kirby_64_boss
     title: "Vs. Duo Edge (Kirby 64 Boss)"
     path: "FizzVsTwinEdge_20200608.dspadpcm.bfstm"
+    type: battle
+  - id: vs_sworn_partners_king_dedede_meta_knight_ver_2
+    title: "Vs. Sworn Partners - King Dedede & Meta Knight (Ver 2)"
+    path: "FizzMainThemeBossArrangeLong_20200707.dspadpcm.bfstm"
+    type: battle
+  - id: vs_shadow_kirby
+    title: "Vs. Shadow Kirby"
+    path: "FizzVsShadowKirbyNormal_20200707.dspadpcm.bfstm"
+    type: warning
+  - id: vs_shadow_kirby_ver_2
+    title: "Vs. Shadow Kirby (Ver 2)"
+    path: "VsShadowKirby_20200520.dspadpcm.bfstm"
+    type: battle
+  - id: vs_moon_warriors_waning_crescent_masked_dedede_waxing_crescent_masked_meta_knight
+    title: "Vs. Moon Warriors - Waning Cresent Masked Dedede & Waxing Cresent Masked Meta Knight"
+    path: "DddMeta.dspadpcm.bfstm"
+    type: battle
+  - id: final_results_kf2
+    title: "Final Results"
+    path: "FizzResultBGM_20200518.dspadpcm.bfstm"
+    type: result
+  - id: final_results_chapter_4
+    title: "Final Results (Chapter 4)"
+    path: "FinalResultRogue4_20200623.dspadpcm.bfstm"
+    type: result
+  - id: final_results_chapter_5
+    title: "Final Results (Chapter 5)"
+    path: "FizzFinalResultRogue5_20200707.dspadpcm.bfstm"
+    type: result
+  - id: normal_credits_my_friends_and_the_sunset
+    title: "Normal Credits - My Friends and the Sunset"
+    path: "FizzEnding_MetaKnight_20200520.dspadpcm.bfstm"
+    ends: 3:30
+    type: betting
+  - id: secret_credits_the_king_the_knight_and_the_moon
+    title: "Secret Credits - The King, the Knight and the Moon"
+    path: "FizzEnding_DDD.dspadpcm.bfstm"
+    ends: 3:38
+    type: betting
+  - id: story_mode_epilogue_kf2
+    title: "Story Mode - Epilogue"
+    path: "FizzEpilogue_20200410.dspadpcm.bfstm"
+    type: break
+  - id: title_and_menu_alternate_kf2
+    title: "Title and Menu (Alternate)"
+    path: "UraTitle.dspadpcm.bfstm"
     type: battle
 ...

@@ -1,0 +1,27 @@
+---
+id: ghost_sweeper_mikami_joreishi_wa_nice_body
+title: "Ghost Sweeper Mikami: Joreishi wa Nice Body"
+platform: "SFC"
+year: 1993
+songs: 
+  - id: ghost_sweeper
+    title: "Ghost Sweeper"
+    path: "01 Mikami's Theme.spc"
+    type: betting
+  - id: make_your_choices
+    title: "Make Your Choices"
+    path: "02 Make your Choices.spc"
+    type: result
+  - id: all_is_fine
+    title: "All is Fine"
+    path: "20 All is Fine.spc"
+    type: result
+  - id: chit_chat_at_sweet_home
+    title: "Chit Chat at Sweet Home"
+    path: "10 Chit Chat at Sweet Home.spc"
+    type: result
+  - id: bad_man_is_mad
+    title: "Bad Man is Mad"
+    path: "15 Bad Man is Mad.spc"
+    type: warning
+...

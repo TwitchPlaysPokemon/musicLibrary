@@ -1,0 +1,39 @@
+﻿---
+id: cory_in_the_house
+title: "Cory In The House"
+platform: "NDS"
+year: 2008
+songs:
+  - id: main_theme_cory_in_the_house
+    title: "Main Theme"
+    path: "0000 SEQ_BGM_MAINTHEME.mini2sf"
+    type: result
+  - id: white_house
+    title: "White House"
+    path: "0001 SEQ_BGM_WHITEHOUSE.mini2sf"
+    type: betting
+  - id: dc3_beats_song_1
+    title: "DC3 Beats: Song 1"
+    path: "0004 SEQ_BGM_DCBEATSONE.mini2sf"
+    type: betting
+  - id: dc3_beats_song_2
+    title: "DC3 Beats: Song 2"
+    path: "0007 SEQ_BGM_DCBEATSTWO.mini2sf"
+    type: betting
+  - id: dc3_beats_song_3
+    title: "DC3 Beats: Song 3"
+    path: "0008 SEQ_BGM_DCBEATSTHREE.mini2sf"
+    type: betting
+  - id: dc3_beats_song_4
+    title: "DC3 Beats: Song 4"
+    path: "000a SEQ_BGM_DCBEATSFOUR.mini2sf"
+    type: betting
+  - id: chase_cory_in_the_house
+    title: "Chase"
+    path: "000b SEQ_BGM_CHASE.mini2sf"
+    type: warning
+  - id: buzzy_cory_in_the_house
+    title: "Buzzy"
+    path: "0005 SEQ_BGM_BUZZY.mini2sf"
+    type: warning
+...

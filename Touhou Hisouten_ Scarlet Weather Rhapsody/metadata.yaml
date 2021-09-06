@@ -56,11 +56,11 @@ songs:
   - id: higan_retour_riverside_view_swr
     title: "Higan Retour ~ Riverside View"
     path: "Higan Retour ~ Riverside View.brstm"
-    type: betting
+    type: warning
   - id: wind_god_girl_swr
     title: "Wind God Girl"
     path: "Wind God Girl (Aya's theme).brstm"
-    type: betting
+    type: warning
   - id: night_falls_swr
     title: "Night Falls"
     path: "Night Falls ~ Evening Star.brstm"
@@ -68,7 +68,7 @@ songs:
   - id: broken_moon_swr
     title: "Broken Moon"
     path: "Broken Moon.brstm"
-    type: betting
+    type: warning
   - id: flawless_clothing_of_the_celestials
     title: "Flawless Clothing of the Celestials"
     path: "Flawless Clothing of the Celestials.brstm"
@@ -89,4 +89,20 @@ songs:
     title: "Lunatic Eyes ~ Invisible Full Moon"
     path: "Lunatic Eyes ~ Invisible Full Moon.brstm"
     type: battle
+  - id: heaven_of_scarlet_perception
+    title: "Heaven of Scarlet Perception"
+    path: "[01] Sky of Scarlet Perception.brstm"
+    type: break
+  - id: usual_days_2husrw
+    title: "Usual Days"
+    path: "[02] Usual Days.brstm"
+    type: betting
+  - id: argue_for_and_against
+    title: "Argue For and Against"
+    path: "[04] Argue For and Against.brstm"
+    type: betting
+  - id: drunk_as_i_like
+    title: "Drunk as I like"
+    path: "[09] Drunk as I like.brstm"
+    type: betting
 ...

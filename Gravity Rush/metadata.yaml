@@ -2,20 +2,20 @@
 id: gravity_rush
 title: "Gravity Rush"
 series: gravityrush
-year: 2012
 platform: ["Vita", "PS4"]
+year: 2012
 songs:
-  - id: pleasure_quarter
-    title: "Pleasure Quarter"
-    path: "Pleasure Quarter.brstm"
+  - id: fighting_back
+    title: "Fighting Back"
+    path: "bgm23.sxd2"
+    type: battle
+  - id: pleajeune
+    title: "Pleajeune"
+    path: "bgm06.sxd2"
     type: betting
-  - id: resistance_and_extermination
-    title: "Resistance and Extermination"
-    path: "Resistance and Extermination.brstm"
-    type: result
-  - id: douse_shinundakara
-    title: "Douse Shinundakara"
-    path: "Douse Shinundakara.at9"
+  - id: jeuchalais_evule_plelat_you_will_die_so_don_t_worry
+    title: "Jeuchalais Evule Plelat / You Will Die (So Don't Worry)"
+    path: "bgm03.sxd2"
     ends: 2:57
     type: betting
 ...

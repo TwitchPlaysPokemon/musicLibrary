@@ -4,72 +4,72 @@ title: "Game & Watch Gallery 4"
 platform: "GBA"
 year: 2002
 songs: 
-  - id: boxing_gwg4
-    title: "Boxing"
-    path: "Boxing.brstm"
+  - id: title_screen_gwg4
+    title: "Title Screen"
+    path: "01 Title Screen.minigsf"
+    type: result
+  - id: fire_modern_mode
+    title: "Fire - Modern Mode"
+    path: "02 Fire - Modern Mode.minigsf"
+    type: betting
+  - id: boxing_modern_mode
+    title: "Boxing - Modern Mode"
+    path: "03 Boxing - Modern Mode.minigsf"
     type: warning
-  - id: chef_gwg4
-    title: "Chef"
-    path: "Chef.brstm"
+  - id: rain_shower_modern_mode_bowser_defeated
+    title: "Rain Shower - Modern Mode - Bowser Defeated"
+    path: "06 Rain Shower - Modern Mode - Bowser Defeated.minigsf"
     type: result
-  - id: credits_gwg4
-    title: "Credits"
-    path: "Credits.brstm"
-    type: betting
-  - id: donkey_kong_3_gwg4
-    title: "Donkey Kong 3"
-    path: "Donkey Kong 3.brstm"
-    type: betting
-  - id: donkey_kong_gwg4
-    title: "Donkey Kong"
-    path: "Donkey Kong.brstm"
+  - id: rain_shower_season_change
+    title: "Rain Shower - Modern Mode - Season Change"
+    path: "07 Rain Shower - Modern Mode - Season Change.minigsf"
     type: result
-  - id: fire_gwg4
-    title: "Fire"
-    path: "Fire.brstm"
+  - id: rain_shower_modern_mode_miss
+    title: "Rain Shower - Modern Mode - Miss"
+    path: "08 Rain Shower - Modern Mode - Miss.minigsf"
+    type: warning
+  - id: mario_s_cement_factory_modern_mode
+    title: "Mario's Cement Factory - Modern Mode"
+    path: "09 Mario's Cement Factory - Modern Mode.minigsf"
     type: betting
-  - id: gallery_corner_gwg4
-    title: "Gallery Corner"
-    path: "Gallery Corner.brstm"
+  - id: chef_modern_mode
+    title: "Chef - Modern Mode"
+    path: "16 Chef - Modern Mode.minigsf"
     type: result
-  - id: game_watch_history_gwg4
-    title: "Game & Watch History"
-    path: "Game & Watch History.brstm"
+  - id: donkey_kong_3_modern_mode
+    title: "Donkey Kong 3 - Modern Mode"
+    path: "14 Donkey Kong 3 - Modern Mode.minigsf"
+    type: betting
+  - id: donkey_kong_modern_mode
+    title: "Donkey Kong - Modern Mode"
+    path: "19 Donkey Kong - Modern Mode.minigsf"
     type: result
   - id: game_select_gwg4
     title: "Game Select"
-    path: "Game Select.brstm"
+    path: "22 Game Select.minigsf"
     type: result
-  - id: mario_s_cement_factory
-    title: "Mario's Cement Factory"
-    path: "Mario's Cement Factory.brstm"
-    type: betting
+  - id: gallery_corner_gwg4
+    title: "Gallery Corner"
+    path: "24 Gallery Corner.minigsf"
+    type: result
+  - id: view_message
+    title: "View Message"
+    path: "26 View Message.minigsf"
+    type: result
   - id: museum_gwg4
     title: "Museum"
-    path: "Museum.brstm"
+    path: "27 Museum.minigsf"
     type: break
+  - id: game_watch_history_gwg4
+    title: "Game & Watch History"
+    path: "29 Game and Watch History.minigsf"
+    type: result
   - id: music_room_gwg4
     title: "Music Room"
-    path: "Music Room.brstm"
+    path: "30 Music Room.minigsf"
     type: warning
-  - id: note_gwg4
-    title: "Note"
-    path: "Note.brstm"
-    type: result
-  - id: rainshower_bowser_defeated
-    title: "Rainshower - Bowser Defeated"
-    path: "Rainshower - Bowser Defeated.brstm"
-    type: result
-  - id: rainshower_miss
-    title: "Rainshower - Miss"
-    path: "Rainshower - Miss.brstm"
-    type: warning
-  - id: rainshower_season_change
-    title: "Rainshower - Season Change"
-    path: "Rainshower - Season Change.brstm"
-    type: result
-  - id: title_screen_gwg4
-    title: "Title Screen"
-    path: "Title Screen.brstm"
-    type: result
+  - id: credits_gwg4
+    title: "Credits"
+    path: "31 Credits.minigsf"
+    type: betting
 ...

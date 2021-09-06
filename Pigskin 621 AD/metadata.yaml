@@ -1,0 +1,27 @@
+---
+id: pigskin_621ad
+title: "Pigskin 621 A.D."
+platform: "Arcade"
+year: 1990
+songs:
+  - id: first_half_621ad
+    title: "First Half"
+    path: "03 First Half.vgz"
+    type: betting
+  - id: first_half_20_sec
+    title: "First Half - 20 Seconds Remaining"
+    path: "06 First Half - 20 Seconds Remaining.vgz"
+    type: warning
+  - id: second_half_621ad
+    title: "Second Half"
+    path: "07 Second Half.vgz"
+    type: battle
+  - id: second_half_20_sec
+    title: "Second Half - 20 Seconds Remaining"
+    path: "10 Second Half - 20 Seconds Remaining.vgz"
+    type: warning
+  - id: results_621ad
+    title: "Results"
+    path: "12 Results.vgz"
+    type: result
+...

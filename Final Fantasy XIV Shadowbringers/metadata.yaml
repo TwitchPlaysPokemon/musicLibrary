@@ -1,0 +1,80 @@
+---
+id: final_fantasy_xiv_shadowbringers
+title: "Final Fantasy XIV: Shadowbringers"
+series: finalfantasy
+platform: ["PC", "PS3", "PS4"]
+year: 2019
+songs: 
+  - id: return_to_oblivion
+    title: "Return to Oblivion"
+    path: "BGM_EX3_Raid_07.scd"
+    type: betting
+  - id: ultima_the_primals
+    title: "Ultima (The Primals)"
+    path: "BGM_EX3_Ban_09.scd"
+    type: battle
+  - id: what_angel_wakes_me
+    title: "What Angel Wakes Me"
+    path: "BGM_EX3_Ban_01.scd"
+    type: betting
+  - id: a_hopeless_race
+    title: "A Hopeless Race"
+    path: "BGM_EX3_Field_Rak_Night.brstm"
+    type: break
+  - id: a_long_fall
+    title: "A Long Fall"
+    path: "BGM_EX3_Dan_D08.scd"
+    type: battle
+  - id: a_world_divided
+    title: "A World Divided"
+    path: "BGM_EX3_Field_Kor_Day.brstm"
+    type: break
+  - id: civilizations
+    title: "Civilizations"
+    path: "BGM_EX3_Field_Rak_Day.brstm"
+    type: betting
+  - id: fierce_and_free
+    title: "Fierce and Free"
+    path: "Fierce and Free.brstm"
+    type: break
+  - id: full_fathom_five
+    title: "Full Fathom Five"
+    path: "BGM_EX3_Field_Tem_Day.scd"
+    type: betting
+  - id: neath_dark_waters
+    title: "Neath Dark Waters"
+    path: "BGM_EX3_Field_Tem_Night.scd"
+    type: break
+  - id: sands_of_amber
+    title: "Sands of Amber"
+    path: "BGM_EX3_Field_Ama_Day.brstm"
+    type: break
+  - id: sands_of_blood
+    title: "Sands of Blood"
+    path: "BGM_EX3_Field_Ama_Night.brstm"
+    type: break
+  - id: the_extreme_ff_xiv
+    title: "The Extreme"
+    path: "The Extreme.brstm"
+    type: battle
+  - id: the_faerie_ring
+    title: "The Faerie Ring"
+    path: "BGM_EX3_Field_Ilm_Night.brstm"
+    type: break
+  - id: the_quick_way
+    title: "The Quick Way"
+    path: "BGM_EX3_Field_Kor_Night.brstm"
+    type: break
+  - id: the_source
+    title: "The Source"
+    path: "The Source.brstm"
+    type: betting
+  - id: unchanging_everchanging
+    title: "Unchanging, Everchanging"
+    path: "BGM_EX3_Field_Lak_Night.brstm"
+    type: break
+  - id: unmatching_pieces
+    title: "Unmatching Pieces"
+    path: "BGM_EX3_Field_Kor_Day2.scd"
+    type: break
+...

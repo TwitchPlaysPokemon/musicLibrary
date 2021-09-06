@@ -1,6 +1,6 @@
 ﻿---
-id: touhou_hisoutensoku_unthinkable_natural_law
-title: "Touhou Hisoutensoku ~ Unthinkable Natural Law"
+id: touhou_hisoutensoku_choudokyuu_ginyoru_no_nazo_o_oe
+title: "Touhou Hisoutensoku ~ Choudokyuu Ginyoru no Nazo o Oe"
 series: touhou
 platform: "PC"
 year: 2009
@@ -41,4 +41,20 @@ songs:
     title: "Unknown X ~ Unfound Adventure (arrange ver.)"
     path: "Unknown X _ Unfound Adventure.brstm"
     type: betting
+  - id: tomorrow_will_be_special_yesterday_was_not
+    title: "Tomorrow will be Special, Yesterday was Not"
+    path: "[07] Tomorrow will be Special; Yesterday was Not.brstm"
+    type: betting
+  - id: x_the_floating_object_in_the_sky
+    title: "X, the Floating Object in the Sky"
+    path: "[09] X, the Floating Object in the Sky.brstm"
+    type: warning
+  - id: the_legendary_titan
+    title: "The Legendary Titan"
+    path: "[14] The Legendary Titan.brstm"
+    type: warning
+  - id: our_hisou_tensoku_full_ver
+    title: "Our Hisou Tensoku (Full ver.)"
+    path: "[19] Our Hisou Tensoku (Full ver.).brstm"
+    type: battle
 ...

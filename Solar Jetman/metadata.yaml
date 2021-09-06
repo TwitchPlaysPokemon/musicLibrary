@@ -1,0 +1,15 @@
+﻿---
+id: solar_jetman
+title: "Solar Jetman"
+platform: "NES"
+year: 1990
+songs:
+  - id: main_theme_solar_jetman
+    title: "Main Theme"
+    path: "01 Main Theme.vgz"
+    type: result
+  - id: end_credits_solar_jetman
+    title: "End Credits"
+    path: "33 End Credits.vgz"
+    type: betting
+...

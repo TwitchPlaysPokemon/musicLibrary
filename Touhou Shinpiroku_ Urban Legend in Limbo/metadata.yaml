@@ -38,7 +38,7 @@ songs:
     path: "The Lost Emotion.brstm"
     type: battle
   - id: battlefield_of_the_hanahazama_ulil
-    title: "Battlefield of the Flower Threshold"
+    title: "Battlefield of the Hanahazama"
     path: "Battlefield of Hanahazama.brstm"
     type: battle
   - id: last_occultism_esotericist_of_the_present_world_ulil
@@ -83,7 +83,7 @@ songs:
     path: "Arrival of the Winds of the Era.brstm"
     type: warning
   - id: battlefield_of_hanahazama_arrange_ver
-    title: "Battlefield of the Flower Threshold (arrange ver.)"
+    title: "Battlefield of Hanahazama (arrange ver.)"
     path: "Battlefield of Hanahazama (CD Arrange).brstm"
     type: betting
   - id: believe_in_possibilities
@@ -114,4 +114,12 @@ songs:
     title: "Those who Know the Truth"
     path: "Those who Know the Truth.brstm"
     type: warning
+  - id: an_everyday_life_with_balls
+    title: "An Everyday Life With Balls"
+    path: "[03] An Everyday Life With Balls.brstm"
+    type: betting
+  - id: outside_world_folklore
+    title: "Outside World Folklore"
+    path: "[15] Outside World Folklore.brstm"
+    type: betting
 ...

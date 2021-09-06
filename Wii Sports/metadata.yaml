@@ -1,15 +1,39 @@
 ---
 id: wii_sports
 title: "Wii Sports"
-year: 2006
 platform: "Wii"
-songs:
-  - id: tennis_results
-    title: "Tennis - Results"
-    path: "Tennis - Results.brstm"
-    type: result
+year: 2006
+songs: 
   - id: title_theme_wii_sports
     title: "Title Theme"
     path: "Title Screen.brstm"
     type: betting
+  - id: tennis_results
+    title: "Tennis - Results"
+    path: "Tennis - Results.brstm"
+    type: result
+  - id: boxing_results
+    title: "Boxing - Results"
+    path: "BoxResults.brstm"
+    type: result
+  - id: bowling_results
+    title: "Bowling - Results"
+    path: "BowlResults.brstm"
+    type: result
+  - id: bowling_training
+    title: "Bowling - Training"
+    path: "BowlTraining.brstm"
+    type: break
+  - id: boxing_training
+    title: "Boxing - Training"
+    path: "BoxTraining.brstm"
+    type: break
+  - id: baseball_training
+    title: "Baseball - Training"
+    path: "BSBTraining.brstm"
+    type: betting
+  - id: training_select
+    title: "Training - Select"
+    path: "Training - Select.brstm"
+    type: warning
 ...

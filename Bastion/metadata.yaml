@@ -1,11 +1,21 @@
+---
 id: bastion
 title: "Bastion"
-platform: ["360", "Various"]
-#other platforms: ["PC", "iOS", "PS4", "Vita", "XBone"]
+platform: Various
+#other platforms: ["360", "PC", "iOS", "PS4", "Vita", "XB1"]
 year: 2011
 songs:
   - id: bynn_the_breaker
     title: "Bynn the Breaker"
-    path: "Bynn the Breaker.brstm"
+    path: "IntroTest.at9"
     ends: 2:06
     type: betting
+  - id: spike_in_a_rail
+    title: "Spike in a Rail"
+    path: "World2Music1.at9"
+    type: betting
+  - id: percy_s_escape
+    title: "Percy's Escape"
+    path: "ZigguratChase.at9"
+    type: warning
+...

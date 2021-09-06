@@ -1,0 +1,100 @@
+---
+id: super_robot_wars_a
+title: "Super Robot Wars A"
+series: superrobotwars
+platform: "GBA"
+year: 2001
+songs:
+  - id: soldiers_of_sorrow_srwa
+    title: "Soldiers of Sorrow"
+    path: "01 Soldiers of Sorrow.minigsf"
+    type: betting
+  - id: here_comes_char_srwa
+    title: "Here Comes Char"
+    path: "02 Here Comes Char.minigsf"
+    type: betting
+  - id: shine_in_the_storm_srwa
+    title: "Shine in the Storm"
+    path: "03 Shine in the Storm.minigsf"
+    type: result
+  - id: men_of_destiny_srwa
+    title: "Men of Destiny"
+    path: "04 Men of Destiny.minigsf"
+    type: betting
+  - id: from_the_aqueous_star_with_love_srwa
+    title: "From the Aqueous Star with Love"
+    path: "05 From the Aqueous Star with Love.minigsf"
+    type: betting
+  - id: it_s_not_anime_srwa
+    title: "It's Not Anime"
+    path: "06 It's Not Anime.minigsf"
+    type: betting
+  - id: main_title_srwa
+    title: "Main Title"
+    path: "07 Main Title.minigsf"
+    type: result
+  - id: flying_in_the_sky_srwa
+    title: "Flying in the Sky"
+    path: "08 Flying in the Sky.minigsf"
+    type: result
+  - id: overcoming_a_burning_hatred_srwa
+    title: "Overcoming a Burning Hatred"
+    path: "09 Overcoming a Burning Hatred.minigsf"
+    type: battle    
+  - id: my_mind_is_clear_and_serene_srwa
+    title: "My Mind is Clear and Serene"
+    path: "10 My Mind is Clear and Serene.minigsf"
+    type: warning
+  - id: go_zambot_3_srwa
+    title: "Go! Zambot 3"
+    path: "13 Go! Zambot 3.minigsf"
+    type: betting
+  - id: come_here_daitarn_3_srwa
+    title: "Come Here! Daitarn 3"
+    path: "14 Come Here! Daitarn 3.minigsf"
+    type: result
+  - id: mazinger_z_srwa
+    title: "Mazinger Z"
+    path: "15 Mazinger Z.minigsf"
+    type: warning
+  - id: fly_grendizer_srwa
+    title: "Fly! Grendizer"
+    path: "17 Fly! Grendizer.minigsf"
+    type: warning
+  - id: getter_robo_srwa
+    title: "Getter Robo!"
+    path: "18 Getter Robo!.minigsf"
+    type: warning
+  - id: stand_up_battle_commander_daimos_srwa
+    title: "Stand Up! Battle Commander Daimos"
+    path: "21 Stand Up! Battle Commander Daimos.minigsf"
+    type: betting
+  - id: you_get_to_burning_srww
+    title: "You Get to Burning"
+    path: "22 You Get to Burning.minigsf"
+    type: betting
+  - id: dark_knight_srwa
+    title: "Dark Knight"
+    path: "23 Dark Knight.minigsf"
+    type: betting
+  - id: chaos_srwa
+    title: "Chaos"
+    path: "25 Chaos.minigsf"
+    type: warning
+  - id: exceedingly_near_in_a_world_endlessly_far_srwa
+    title: "Exceedingly Near, in a World Endlessly Far"
+    path: "26 Exceedingly Near, in a World Endlessly Far.minigsf"
+    type: battle
+  - id: daybreak_srwa
+    title: "Daybreak"
+    path: "33 Daybreak.minigsf"
+    type: result
+  - id: breakthrough_srwa
+    title: "Breakthrough"
+    path: "34 Breakthrough.minigsf"
+    type: betting
+  - id: the_two_strong_srwa
+    title: "The two strong"
+    path: "36 The two strong.minigsf"
+    type: warning
+...

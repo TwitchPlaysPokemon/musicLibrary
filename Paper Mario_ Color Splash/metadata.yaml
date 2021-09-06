@@ -33,4 +33,16 @@ songs:
     title: "A Fearsome Foe"
     path: "A Fearsome Foe.brstm"
     type: battle
+  - id: the_juggler_pentabros_battle
+    title: "The Juggler, Pentabros Battle"
+    path: "The Juggler, Pentabros Battle.brstm"
+    type: betting
+  - id: snifit_or_whiffit
+    title: "Snifit or Whiffit!"
+    path: "Snifit or Whiffit!.brstm"
+    type: result
+  - id: you_got_the_paint_star
+    title: "You Got the Paint Star!"
+    path: "You Got the Paint Star!.brstm"
+    type: break
 ...

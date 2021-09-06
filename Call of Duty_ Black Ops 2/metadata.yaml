@@ -2,10 +2,9 @@
 id: call_of_duty_black_ops_2
 title: "Call of Duty: Black Ops II"
 series: callofduty
-platform: ["WiiU", Various"]
-#other platforms: ["PS3", "PC", "360"]
+platform: Various
 year: 2012
-songs:
+songs: 
   - id: adrenaline
     title: "Adrenaline"
     path: "Adrenaline (Multiplayer Menu Theme).brstm"

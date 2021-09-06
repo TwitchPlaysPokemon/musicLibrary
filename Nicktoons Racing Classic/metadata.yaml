@@ -1,0 +1,40 @@
+﻿---
+id: nicktoons_racing_classic
+title: "Nicktoons Racing"
+platform: ["PC", "PSX", "Arcade"]
+year: 2000
+songs:
+  - id: bikini_bottom_blowout
+    title: "Bikini Bottom Blowout"
+    path: "Bikini Bottom Blowout (SpongeBob).brstm"
+    type: betting
+  - id: dam_prix_beaver_fever
+    title: "Dam Prix/Beaver Fever"
+    path: "Dam Prix_Beaver Fever (Angry Beavers).brstm"
+    type: warning
+  - id: gritty_city_circuit
+    title: "Gritty City Circuit"
+    path: "Gritty City Circuit (Hey Arnold!).brstm"
+    ends: 2:19
+    type: betting
+  - id: monster_mania
+    title: "Monster Mania"
+    path: "Monster Mania (Aaahh!!! Real Monsters).brstm"
+    type: warning
+  - id: race_madness
+    title: "Race Madness"
+    path: "Race Madness (Ren and Stimpy).brstm"
+    type: betting
+  - id: rancid_raceway_nearburg_rally
+    title: "Rancid Raceway/Nearburg Rally"
+    path: "Rancid Raceway_Nearburg Rally (CatDog).brstm"
+    type: betting
+  - id: reptar_raceway_pickles_parkway
+    title: "Reptar Raceway/Pickles' Parkway"
+    path: "Reptar Raceway_Pickles' Parkway (Rugrats).brstm"
+    type: betting
+  - id: safari_speedway_bongo_bangup
+    title: "Safari Speedway/Bongo Bangup"
+    path: "Safari Speedway_Bongo Bangup (The Wild Thornberrys).brstm"
+    type: betting
+...

@@ -7,10 +7,30 @@ year: 2001
 songs:
   - id: main_theme_pokemon_ii
     title: "Main Theme"
-    path: "Main Theme (Title, Ending).brstm"
+    path: "01 - Title Theme, Ending Theme.vgm"
     type: result
-  - id: stage_1_plains_stage_4_lab
+  - id: stage_1_plains_stage_4_lab_mezase_pokemon_masuta
     title: "Stage 1 (Plains), Stage 4 (Lab)"
-    path: "Stage 1 (Plains), Stage 4 (Lab).brstm"
+    path: "02 - Stage 1 (Plains), Stage 4 (Lab).vgm"
+    type: betting
+  - id: stage_2_forest_boss_weezing_hyakugojyuuichi
+    title: "Stage 2 (Forest), Boss - Weezing"
+    path: "03 - Stage 2 (Forest), Boss - Weezing.vgm"
+    type: result
+  - id: stage_3_castle_rest_my_pikachu
+    title: "Stage 3 (Castle)"
+    path: "04 - Stage 3 (Castle).vgm"
+    type: betting
+  - id: unused_track_1_pokemon_ii
+    title: "Unused Track 1"
+    path: "05 - Unused Track 1.vgm"
+    type: warning
+  - id: unused_track_2_pokemon_ii
+    title: "Unused Track 2"
+    path: "06 - Unused Track 2.vgm"
+    type: result
+  - id: unused_track_3_pokemon_ii
+    title: "Unused Track 3"
+    path: "07 - Unused Track 3.vgm"
     type: betting
 ...
