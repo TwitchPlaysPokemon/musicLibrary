@@ -1,6 +1,7 @@
 ---
 id: final_fantasy_xiv_heavensward
 title: "Final Fantasy XIV: Heavensward"
+series: finalfantasy
 platform: ["PC", "PS3", "PS4"]
 year: 2015
 songs: 
@@ -60,4 +61,12 @@ songs:
     title: "Battle to the Death - Heavensward"
     path: "BGM_EX1_Ban_Sephiroth01.scd"
     type: battle
+  - id: painted_foothills
+    title: "Painted Foothills"
+    path: "BGM_EX1_Field_DravaniaH02.brstm"
+    type: break
+  - id: sins_of_the_father_sins_of_the_son
+    title: "Sins of the Father, Sins of the Son"
+    path: "BGM_EX1_Alex01.scd"
+    type: warning
 ...

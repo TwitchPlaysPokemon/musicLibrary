@@ -2,7 +2,7 @@
 id: warioware_inc_mega_microgames
 title: "Wario Ware, Inc. - Mega Microgame$!"
 series: wario
-platform: ["GBA"]
+platform: GBA
 year: 2003
 songs:
   - id: ultra_machine
@@ -33,7 +33,7 @@ songs:
   - id: orbulon_results
     title: "Orbulon - Results"
     path: "I29 Orbulon Game Over.minigsf"
-    type: results
+    type: result
   - id: dungeon_dilemma
     title: "Dungeon Dilemma"
     path: "I31 Orbulon Boss.minigsf"

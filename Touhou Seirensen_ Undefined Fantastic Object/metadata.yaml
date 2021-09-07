@@ -20,7 +20,7 @@ songs:
   - id: beware_the_umbrella_left_there_forever
     title: "Beware the Umbrella Left There Forever"
     path: "Kogasa's Theme_ Beware the Umbrella Left There Forever.brstm"
-    type: battle
+    type: warning
   - id: the_traditional_old_man_and_the_stylish_girl
     title: "The Traditional Old Man and the Stylish Girl"
     path: "Ichirin's Theme - The Traditional Old Man and the Stylish Girl.brstm"
@@ -49,4 +49,16 @@ songs:
     title: "Captain Murasa"
     path: "Captain Murasa.brstm"
     type: battle
+  - id: interdimensional_voyage_of_a_ghostly_passenger_ship
+    title: "Interdimensional Voyage of a Ghostly Passenger Ship"
+    path: "Interdimensional Voyage of a Ghostly Passenger Ship.brstm"
+    type: betting
+  - id: rural_makai_city_esoteria
+    title: "Rural Makai City Esoteria"
+    path: "Rural Makai City Esoteria.brstm"
+    type: betting
+  - id: fires_of_hokkai
+    title: "Fires of Hokkai"
+    path: "Fires of Hokkai.brstm"
+    type: warning
 ...

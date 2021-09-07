@@ -5,12 +5,20 @@ series: drakengard
 platform: ["PS4", "PC"]
 year: 2017
 songs:
-  - id: combat_ii_nier_automata
-    title: "Combat II"
-    path: "Nier Automata - Combat II.brstm"
+  - id: alien_manifestation
+    title: "Alien Manifestation"
+    path: "BGM_Initialize (BGM_JukeBox=Out)(BGM_Stage_JB=-)(BGM_Stage=Bt_Battle_CD_Short) (BGM_Sp_Vocal=Off)(BGM_Vocal=On).txtp"
     type: betting
   - id: birth_of_a_wish
     title: "Birth of a Wish"
-    path: "Birth of a Wish.brstm"
-    type: betting
+    path: "32591196.brstm"
+    type: battle
+  - id: emil_despair
+    title: "Emil - Despair"
+    path: "BGM_Initialize (BGM_JukeBox=Out)(BGM_Stage_JB=-)(BGM_Stage=Bt_Battle_C) (BGM_Sp_Vocal=Off)(BGM_Vocal=On).txtp"
+    type: battle
+  - id: dark_colossus_kaiju_dynamic_instrumental
+    title: "Dark Colossus - Kaiju (Dynamic / Instrumental)"
+    path: "BGM_Initialize (BGM_JukeBox=Out)(BGM_Stage_JB=-)(BGM_Stage=St_SunkenCity) (BGM_Hacking=Out)(BGM_Sp_Vocal=Off)(BGM_Vocal=Off)(BGM_Layer_Override=-)(BGM_Layer=Dynamic).txtp"
+    type: battle
 ...

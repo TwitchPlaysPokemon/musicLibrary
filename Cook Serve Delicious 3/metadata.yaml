@@ -1,0 +1,31 @@
+﻿---
+id: cook_serve_delicious_3
+title: "Cook, Serve, Delicious! 3?!"
+platform: "PC"
+year: 2020
+songs:
+  - id: ayam_goreng_with_soto_ayam
+    title: "Ayam Goreng with Soto Ayam"
+    path: "Ayam Goreng with Soto Ayam.brstm"
+    type: warning
+  - id: rush_hour_2013
+    title: "Rush Hour 2013"
+    path: "Rush Hour 2013.brstm"
+    type: battle
+  - id: boba_tea_nights
+    title: "Boba Tea Nights"
+    path: "Boba Tea Nights.brstm"
+    type: betting
+  - id: dosa_and_drive
+    title: "Dosa and Drive"
+    path: "Dosa and Drive.brstm"
+    type: warning
+  - id: perfect_day_csd3
+    title: "Perfect Day"
+    path: "Perfect Day.brstm"
+    type: result
+  - id: seafood_boil
+    title: "Seafood Boil"
+    path: "Seafood Boil.brstm"
+    type: warning
+...

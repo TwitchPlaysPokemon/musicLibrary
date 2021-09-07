@@ -1,0 +1,20 @@
+---
+id: final_fantasy_xiv_stormblood
+title: "Final Fantasy XIV: Stormblood"
+series: finalfantasy
+platform: ["PC", "PS3", "PS4"]
+year: 2017
+songs: 
+  - id: triumph_ffxivsb
+    title: "Triumph"
+    path: "BGM_EX2_Boss_Battle_01.scd"
+    type: battle
+  - id: beauty_s_wicked_wiles
+    title: "Beauty's Wicked Wiles"
+    path: "BGM_EX2_Ban_02.scd"
+    type: betting
+  - id: wayward_daughter
+    title: "Wayward Daughter"
+    path: "BGM_EX2_Ban_18.scd"
+    type: battle
+...

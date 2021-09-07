@@ -5,28 +5,68 @@ series: mvc
 platform: ["360", "PS3", "Vita"]
 year: 2011
 songs:
-  - id: phoenix_wright's_theme_(turnabout_mode)
-    title: "Phoenix Wright's Theme (Turnabout Mode)"
-    path: "Phoenix Wright's Theme (Turnabout Mode).brstm"
-    type: result
-  - id: phoenix_wright's_theme
-    title: "Phoenix Wright's Theme"
-    path: "Phoenix Wright's Theme.brstm"
+  - id: phoenix_wright_theme_umvc3
+    title: "Theme of Phoenix Wright"
+    path: "bgm_cr_041.logg"
     type: betting
-  - id: rocket_racoon's_theme
-    title: "Rocket Raccoon's Theme"
-    path: "Rocket Raccoon's Theme.brstm"
+  - id: phoenix_wright_theme_turnabout
+    title: "Theme of Phoenix Wright (Turnabout)"
+    path: "bgm_cr_042.logg"
     type: battle
+  - id: virgil_theme
+    title: "Theme of Virgil"
+    path: "bgm_cr_043.logg"
+    type: battle
+  - id: nemesis_theme_umvc3
+    title: "Theme of Nemesis"
+    path: "bgm_cr_044.logg"
+    type: warning
+  - id: strider_theme_umvc3
+    title: "Theme of Strider"
+    path: "bgm_cr_045.logg"
+    type: battle
+  - id: firebrand_theme_umvc3
+    title: "Theme of Firebrand"
+    path: "bgm_cr_046.logg"
+    type: battle
+  - id: nova_theme_umvc3
+    title: "Theme of Nova"
+    path: "bgm_cr_047.logg"
+    type: battle
+  - id: iron_fist_theme
+    title: "Theme of Iron Fist"
+    path: "bgm_cr_048.logg"
+    type: betting
+  - id: ghost_rider_theme
+    title: "Theme of Ghost Rider"
+    path: "bgm_cr_049.logg"
+    type: battle
+  - id: rocket_raccoon_theme
+    title: "Theme of Rocket Raccoon"
+    path: "bgm_cr_050.logg"
+    type: battle
+  - id: dr_strange_theme
+    title: "Theme of Dr. Strange"
+    path: "bgm_cr_051.logg"
+    type: battle
+  - id: hawkeye_theme
+    title: "Theme of Hawkeye"
+    path: "bgm_cr_052.logg"
+    type: betting
+  - id: team_select_umvc3
+    title: "Team Select"
+    path: "bgm_gm_030.logg"
+    type: result
   - id: character_select_dynamic
     title: "Character Select (Dynamic)"
-    path: "Character Select (Dynamic).brstm"
+    path: "bgm_gm_031.logg"
+    type: result
+  - id: results_umvc3
+    title: "Results"
+    path: "bgm_gm_033.logg"
     type: result
   - id: main_menu_dynamic
     title: "Main Menu (Dynamic)"
-    path: "Main Menu (Dynamic).brstm"
+    path: "bgm_gm_036.logg"
     type: result
-  - id: novas_theme_umvc3
-    title: "Nova's Theme"
-    path: "Nova's Theme.brstm"
-    type: battle
 ...

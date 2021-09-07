@@ -13,4 +13,16 @@ songs:
     title: "U.M.N.MODE"
     path: "U.M.N. Mode.brstm"
     type: betting
+  - id: life_or_death_xenosaga_episode_i
+    title: "Life or Death"
+    path: "1-12 Life or Death.brstm"
+    type: warning
+  - id: panic_xenosaga_episode_i
+    title: "Panic"
+    path: "2-10 Panic.brstm"
+    type: warning
+  - id: last_battle_xenosaga_episode_i
+    title: "Last Battle"
+    path: "2-17 Last Battle.brstm"
+    type: betting
 ...

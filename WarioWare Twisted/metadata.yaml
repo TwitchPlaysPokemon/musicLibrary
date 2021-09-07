@@ -1,0 +1,52 @@
+---
+id: warioware_twisted
+title: "WarioWare: Twisted!"
+series: wario
+platform: GBA
+year: 2004
+songs:
+  - id: title_screen_wwt
+    title: "Title Screen"
+    path: "002 Title Screen.minigsf"
+    type: result
+  - id: one_step_at_a_time
+    title: "One Step At A Time"
+    path: "068 BOSS - Spiral Staircase.minigsf"
+    type: result
+  - id: stumblebot
+    title: "Stumblebot"
+    path: "135 BOSS - Long Walk.minigsf"
+    type: break
+  - id: crossing_guard
+    title: "Crossing Guard"
+    path: "188 BOSS - Pulley Place.minigsf"
+    type: warning
+  - id: skyway_highway
+    title: "Skyway Highway"
+    path: "242 Record - Twinkle Star Sky.minigsf"
+    type: warning
+  - id: road_work
+    title: "Road Work"
+    path: "243 Record - Make Road.minigsf"
+    type: betting
+  - id: taxi_sonata
+    title: "Taxi Sonata"
+    path: "246 Record - Taxi Sonata.minigsf"
+    type: result
+  - id: fami_fami_remix
+    title: "Fami Fami REMIX"
+    path: "250 Record - Fami Fami REMIX.minigsf"
+    type: result
+  - id: space_boomerang
+    title: "Space Boomerang"
+    path: "264 Game Soft - Space Boomerang.minigsf"
+    type: result
+  - id: long_jump_wwt
+    title: "Long Jump"
+    path: "268 Game Soft - Long Jump.minigsf"
+    type: result
+  - id: pyoro_r
+    title: "PYORO R"
+    path: "276 Game Soft - PYORO R.minigsf"
+    type: betting
+...

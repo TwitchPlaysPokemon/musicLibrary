@@ -20,4 +20,12 @@ songs:
     title: "Apropos"
     path: "Apropos.fsb"
     type: betting
+  - id: alchemy
+    title: "Alchemy"
+    path: "Alchemy.fsb"
+    type: betting
+  - id: titanium
+    title: "Titanium"
+    path: "Titanium.fsb"
+    type: betting
 ...

@@ -44,8 +44,16 @@ songs:
     title: "the smartest person in the gang"
     path: "16. the smartest person in the gang.brstm"
     type: break
+  - id: dance_metaware
+    title: "DANCE!!!!!!!"
+    path: "17. DANCE!!!!!!!.mp3"
+    type: betting
   - id: we_are_immortal
     title: "We Are Immortal"
     path: "18. We Are Immortal.brstm"
     type: betting
+  - id: goodbye_metaware
+    title: "Goodbye"
+    path: "25. Goodbye.mp3"
+    type: break
 ...

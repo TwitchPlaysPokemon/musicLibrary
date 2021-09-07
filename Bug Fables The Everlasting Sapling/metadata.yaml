@@ -1,0 +1,95 @@
+---
+id: bug_fables_the_everlasting_sapling
+title: "Bug Fables: The Everlasting Sapling"
+platform: ["PC", "PS4", "Switch", "XB1"]
+year: 2019
+songs:
+  - id: battle_against_ultimax_who_has_a_tank
+    title: "Battle Against Ultimax, Who Has a Tank"
+    path: "Battle Against Ultimax, Who Has a Tank.brstm"
+    type: battle
+  - id: cruest_beast_devourer_of_journeys
+    title: "Cruest Beast, Devourer of Journeys"
+    path: "Cruest Beast, Devourer of Journeys.brstm"
+    type: battle
+  - id: fight_bug_fables
+    title: "FIGHT!"
+    path: "FIGHT!.brstm"
+    type: battle
+  - id: frenzied_sunflower_dance
+    title: "Frenzied Sunflower Dance"
+    path: "Frenzied Sunflower Dance.brstm"
+    type: battle
+  - id: his_friends_call_him_spuder_dont_call_him_spuder
+    title: "His Friends Call Him Spuder (Don't Call Him Spuder)"
+    path: "His Friends Call Him Spuder (Don't Call Him Spuder).brstm"
+    type: battle
+  - id: getting_stronger
+    title: "Getting Stronger!"
+    path: "Getting Stronger!.brstm"
+    type: result
+  - id: its_getting_scary
+    title: "It's Getting Scary!"
+    path: "It's Getting Scary!.brstm"
+    type: warning
+  - id: mecha_bee_destroyer_blastlord
+    title: "MECHA BEE DESTROYER BLASTLORD"
+    path: "MECHA BEE DESTROYER BLASTLORD.brstm"
+    type: battle
+  - id: mothivas_grand_stand
+    title: "Mothiva's Grand Stand!"
+    path: "Mothiva's Grand Stand!.brstm"
+    type: battle
+  - id: oh_no_wasps
+    title: "Oh no! WASPS!!"
+    path: "Oh no! WASPS!!.brstm"
+    type: battle
+  - id: reckless_for_glory
+    title: "Reckless for Glory!"
+    path: "Reckless for Glory!.brstm"
+    type: battle
+  - id: team_its_getting_serious
+    title: "Team, It's Getting Serious!"
+    path: "Team, It's Getting Serious!.brstm"
+    type: battle
+  - id: team_this_ones_stronger
+    title: "Team, This One's Stronger!"
+    path: "Team, This One's Stronger!.brstm"
+    type: battle
+  - id: the_other_one
+    title: "The Other One"
+    path: "The Other One.brstm"
+    type: battle
+  - id: the_usurper_grasping_for_power
+    title: "The Usurper, Grasping for Power"
+    path: "The Usurper, Grasping for Power.brstm"
+    type: battle
+  - id: the_usurper
+    title: "The Usurper"
+    path: "The Usurper.brstm"
+    type: betting
+  - id: the_watcher
+    title: "The Watcher"
+    path: "The Watcher.brstm"
+    type: battle
+  - id: unknown_bug_fables
+    title: "???"
+    path: "Track 79.brstm"
+    type: warning
+  - id: transcending_overpowering_everlasting
+    title: "Transcending, Overpowering, Everlasting"
+    path: "Transcending, Overpowering, Everlasting.brstm"
+    type: battle
+  - id: golden_lands
+    title: "Golden Lands"
+    path: "golden_lands.brstm"
+    type: break
+  - id: harvest_festival_bug_fables
+    title: "Harvest Festival"
+    path: "harvest_festival.brstm"
+    type: break
+  - id: snakemouth_den
+    title: "Snakemouth Den"
+    path: "snakemouth_den.brstm"
+    type: break
+...

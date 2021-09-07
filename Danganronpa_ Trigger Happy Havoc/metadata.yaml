@@ -4,40 +4,48 @@ title: "Danganronpa: Trigger Happy Havoc"
 platform: "PSP"
 year: 2010
 songs:
-  - id: box_16
-    title: "BOX 16"
-    path: "BOX 16.brstm"
-    type: betting
   - id: beautiful_dead
-    path: "Beautiful Dead.brstm"
     title: "Beautiful Dead"
+    path: "dr1_bgm_hca_00000003.hca"
     type: break
   - id: mr_monokumas_extracurricular_lesson
-    path: "Mr. Monobear's Extracurricular Lesson.brstm"
     title: "Mr. Monokuma's Extracurricular Lesson"
+    path: "dr1_bgm_hca_0000000D.hca"
     type: warning
   - id: box_15
-    path: "BOX 15.brstm"
     title: "BOX 15"
+    path: "dr1_bgm_hca_0000000E.hca"
+    type: betting
+  - id: living_to_the_fullest
+    title: "Living to the Fullest"
+    path: "dr1_bgm_hca_00000005.hca"
     type: betting
   - id: beautiful_morning
     title: "Beautiful Morning"
-    path: "Danganronpa_Trigger_Happy_Havoc-Beautiful_Morning.brstm"
+    path: "dr1_bgm_hca_00000004.hca"
     type: break
+  - id: climax_inference
+    title: "Climax Inference"
+    path: "dr1_bgm_hca_0000001A.hca"
+    type: betting
+  - id: mr_monokuma_s_lesson
+    title: "Mr. Monokuma's Lesson"
+    path: "dr1_bgm_hca_00000008.hca"
+    type: betting
+  - id: box_16
+    title: "BOX 16"
+    path: "dr1_bgm_hca_0000000F.hca"
+    type: betting
+  - id: discussion_heat_up
+    title: "Discussion -HEAT UP-"
+    path: "dr1_bgm_hca_00000016.hca"
+    type: betting
+  - id: discussion_hope_vs_despair
+    title: "Discussion -HOPE VS DESPAIR-"
+    path: "dr1_bgm_hca_00000017.hca"
+    type: battle
   - id: new_world_order
     title: "New World Order"
-    path: "Danganronpa_Trigger_Happy_Havoc-New_World_Order.brstm"
-    type: warning
-  - id: buzzkill
-    title: "Buzzkill"
-    path: "Danganronpa_Trigger_Happy_Havoc-Buzzkill.brstm"
-    type: warning
-  - id: discussion_heat_up
-    title: "Discussion HEAT UP"
-    path: "Danganronpa_Trigger_Happy_Havoc-Discussion_HEAT_UP.brstm"
-    type: warning
-  - id: climax_reasoning
-    title: "Climax Reasoning"
-    path: "dr1_bgm_hca_0000001A.hca"
+    path: "dr1_bgm_hca_0000000C.hca"
     type: betting
 ...

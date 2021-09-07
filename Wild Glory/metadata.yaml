@@ -1,0 +1,15 @@
+﻿---
+id: wild_glory
+title: "Wild Glory"
+platform: "PC"
+year: 2018
+songs:
+  - id: arena_theme_wild_glory
+    title: "Arena Theme"
+    path: "Arena Theme.brstm"
+    type: battle
+  - id: sharpshooter_theme_wild_glory
+    title: "Sharpshooter Theme"
+    path: "Sharpshooter Theme.brstm"
+    type: battle
+...

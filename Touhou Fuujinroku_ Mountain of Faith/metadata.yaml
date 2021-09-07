@@ -15,17 +15,13 @@ songs:
     path: "Stage 5 (Arranged by Clover).brstm"
     ends: 3:00
     type: betting
-  - id: tomorrow_will_be_special_yesterday_was_not
+  - id: tomorrow_will_be_special_yesterday_was_not_touhou_fuujinroku
     title: "Tomorrow will be Special; Yesterday was Not"
     path: "Tomorrow will be Special; Yesterday was Not .brstm"
     type: betting
   - id: dark_side_of_fate
     title: "Dark Side of Fate"
     path: "Dark Side of Fate.brstm"
-    type: battle
-  - id: the_youkai_mountain_mysterious_mountain
-    title: "The Youkai Mountain ~ Mysterious Mountain"
-    path: "Youkai Mountain.brstm"
     type: battle
   - id: faith_is_for_the_transient_people
     title: "Faith is for the Transient People"
@@ -62,5 +58,29 @@ songs:
   - id: faith_is_for_the_transient_people_house_set_ver
     title: "Faith is for the Transient People (House Set Ver.)"
     path: "Faith is for the Transient People (House Set Ver.).brstm"
+    type: betting
+  - id: a_god_that_misses_people_romantic_fall
+    title: "A God That Misses People ~ Romantic Fall"
+    path: "A God That Misses People ~ Romantic Fall.brstm"
+    type: betting
+  - id: because_princess_inada_is_scolding_me
+    title: "Because Princess Inada Is Scolding Me"
+    path: "Because Princess Inada Is Scolding Me.brstm"
+    type: warning
+  - id: the_road_of_the_misfortune_god_dark_road
+    title: "The Road of the Misfortune God ~ Dark Road"
+    path: "The Road of the Misfortune God ~ Dark Road.brstm"
+    type: betting
+  - id: the_youkai_mountain_mysterious_mountain
+    title: "The Youkai Mountain ~ Mysterious Mountain"
+    path: "The Youkai Mountain ~ Mysterious Mountain.brstm"
+    type: battle
+  - id: the_primal_scene_of_japan_the_girl_saw
+    title: "The Primal Scene of Japan the Girl Saw"
+    path: "The Primal Scene of Japan the Girl Saw.brstm"
+    type: betting
+  - id: cemetery_of_onbashira_grave_of_being
+    title: "Cemetery of Onbashira ~ Grave of Being"
+    path: "Cemetery of Onbashira ~ Grave of Being.brstm"
     type: betting
 ...

@@ -1,27 +1,76 @@
+---
 id: xmen_children_of_the_atom
 title: "X-Men: Children of the Atom"
 series: mvc
 platform: ["Arcade", "Saturn", "PS1"]
 year: 1994
 songs: 
-  - id: theme_of_juggernaut
-    title: "Theme of Juggernaut"
-    path: "Theme of Juggernaut.brstm"
-    type: warning
-  - id: theme_of_omega_red_atom
-    title: "Theme of Omega Red"
-    path: "Theme of Omega Red.brstm"
-    type: betting
-  - id: theme_of_magneto
-    title: "Theme of Magneto"
-    path: "Theme of Magneto.brstm"
-    type: battle
-  - id: continue_children_of_atom
-    title: "Continue"
-    path: "Continue.brstm"
-    type: warning
-  - id: player_select_children_of_atom
+  - id: player_select_xmcota
     title: "Player Select"
-    path: "Player Select.brstm"
+    path: "04 Player Select.vgz"
     type: warning
+  - id: wolverine_stage_xmcota
+    title: "Savage Land -WOLVERLINE-"
+    path: "05 Savage Land -WOLVERLINE-.vgz"
+    type: betting
+  - id: psylocke_stage_xmcota
+    title: "Moon Night -PSYLOCKE-"
+    path: "06 Moon Night -PSYLOCKE-.vgz"
+    type: battle
+  - id: colosus_stage_xmcota
+    title: "Mutant Hunting -COLOSSUS-"
+    path: "07 Mutant Hunting -COLOSSUS-.vgz"
+    type: battle
+  - id: cyclops_stage_xmcota
+    title: "Danger Room -CYCLOPS-"
+    path: "08 Danger Room -CYCLOPS-.vgz"
+    type: betting
+  - id: storm_stage_xmcota
+    title: "On The Blackbird -STORM-"
+    path: "09 On The Blackbird -STORM-.vgz"
+    type: battle
+  - id: iceman_stage_xmcota
+    title: "Ice On The Beach -ICEMAN-"
+    path: "10 Ice On The Beach -ICEMAN-.vgz"
+    type: betting
+  - id: spiral_stage_xmcota
+    title: "Mojo World -SPIRAL-"
+    path: "12 Mojo World -SPIRAL-.vgz"
+    type: warning
+  - id: silver_samurai_stage_xmcota
+    title: "Samurai Shrine -SILVER SAMRAI-"
+    path: "13 Samurai Shrine -SILVER SAMRAI-.vgz"
+    type: betting
+  - id: omega_red_stage_xmcota
+    title: "The Deep -OMEGA RED-"
+    path: "14 The Deep -OMEGA RED-.vgz"
+    type: betting
+  - id: sentinel_stage_xmcota
+    title: "Genosha -SENTINEL-"
+    path: "15 Genosha -SENTINEL-.vgz"
+    type: warning
+  - id: juggernaut_stage
+    title: "Space Port -JUGGERNAUT-"
+    path: "17 Space Port -JUGGERNAUT-.vgz"
+    type: warning
+  - id: magneto_stage_xmcota
+    title: "Avalon -MAGNETO-"
+    path: "18 Avalon -MAGNETO-.vgz"
+    type: battle
+  - id: continue_xmcota
+    title: "Continue"
+    path: "19 Continue.vgz"
+    type: warning
+  - id: get_out_of_danger_xmcota
+    title: "Get Out Of Danger"
+    path: "21 Get Out Of Danger.vgz"
+    type: warning
+  - id: ending_theme_of_battle_xmcota
+    title: "Ending -The Theme Of Battle-"
+    path: "22 Ending -The Theme Of Battle-.vgz"
+    type: result
+  - id: ending_crossed_in_love_xmcota
+    title: "Ending -Crossed In Love-"
+    path: "27 Ending -Crossed In Love-.vgz"
+    type: result
 ...

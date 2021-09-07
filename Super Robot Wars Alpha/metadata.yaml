@@ -1,0 +1,166 @@
+---
+id: super_robot_wars_alpha
+title: "Super Robot Wars Alpha"
+series: superrobotwars
+platform: "PS1"
+year: 2000
+songs:
+  - id: mazinger_z_srwal
+    title: "Mazinger Z"
+    path: "02 Mazinger Z.psf"
+    type: betting
+  - id: mazinkaiser_srwal
+    title: "Mazinkaiser"
+    path: "03 Mazinkaiser.psf"
+    type: betting
+  - id: theme_of_z
+    title: "Theme of Z"
+    path: "04 Theme of Z.psf"
+    type: betting
+  - id: mazinger_z_flying_in_the_sky
+    title: "Mazinger Z: Flying in the Sky"
+    path: "05 Mazinger Z Flying in the Sky.psf"
+    type: betting
+  - id: i_am_great_mazinger
+    title: "I am Great Mazinger"
+    path: "06 I am Great Mazinger.psf"
+    type: warning
+  - id: getter_robo_srwal
+    title: "Getter Robo!"
+    path: "07 Getter Robo!.psf"
+    type: warning
+  - id: to_the_star_of_water_with_love
+    title: "To the star of water with love"
+    path: "14 To the star of water with love.psf"
+    type: betting
+  - id: main_title_gundam_cca
+    title: "Main Title (From Gundam CCA.)"
+    path: "16 Main Title (From Gundam CCA.).psf"
+    type: warning
+  - id: stand_up_to_the_victory
+    title: "Stand Up to the Victory"
+    path: "18 Stand Up to the Victory.psf"
+    type: result    
+  - id: just_communication
+    title: "Just Communication"
+    path: "20 Just Communication.psf"
+    ends: 2:13
+    type: betting
+  - id: rhythm_emotion
+    title: "Rhythm Emotion"
+    path: "21 Rhythm Emotion.psf"
+    type: betting
+  - id: yabarashi_mantake
+    title: "Yabarashi Mantake"
+    path: "25 Yabarashi Mantake.psf"
+    type: warning
+  - id: dunbine_flies
+    title: "Dunbine Flies"
+    path: "26 Dunbine Flies.psf"
+    type: betting
+  - id: song_of_voltes_v
+    title: "Song of Voltes V"
+    path: "29 Song of Voltes V.psf"
+    type: betting
+  - id: burning_love
+    title: "Burning Love"
+    path: "30 Burning Love .psf"
+    type: warning
+  - id: aim_for_the_top_fly_high
+    title: "Aim for the Top! ~ Fly High ~"
+    path: "31 Aim for the Top! ~ Fly High ~.psf"
+    type: betting
+  - id: strategy_beginning
+    title: "Strategy beginning"
+    path: "32 Strategy beginning.psf"
+    type: warning
+  - id: crisis_srwal
+    title: "Crisis"
+    path: "33 Crisis.psf"
+    type: warning
+  - id: gunbuster
+    title: "Gunbuster"
+    path: "34 Gunbuster.psf"
+    type: warning
+  - id: decisive_battle_srwal
+    title: "Decisive Battle"
+    path: "35 Decisive Battle.psf"
+    type: battle
+  - id: eva_02_srwal
+    title: "EVA-02"
+    path: "37 EVA-02.psf"
+    type: result
+  - id: the_beast_srwal
+    title: "The Beast"
+    path: "38 The Beast.psf"
+    type: warning
+  - id: from_4th_mov_presto_symphony_no_9
+    title: "From 4th Mov Presto (Symphony no. 9)"
+    path: "39 From 4th Mov Presto (Symphony no. 9).psf"
+    type: result
+  - id: cruel_angel_s_thesis_srwal
+    title: "Cruel Angel's Thesis"
+    path: "40 Cruel Angel's Thesis.psf"
+    type: betting
+  - id: soul_s_refrain_srwal
+    title: "Soul's Refrain"
+    path: "41 Soul's Refrain.psf"
+    ends: 2:34
+    type: betting
+  - id: dog_fighter_macross_ver
+    title: "Dog fighter (Macross Ver.)"
+    path: "43 Dog fighter (Macross Ver.).psf"
+    type: betting
+  - id: fight_of_500000_years
+    title: "Fight of 500,000 years"
+    path: "45 Fight of 500,000 years.psf"
+    type: warning
+  - id: my_boyfriend_is_a_pilot
+    title: "My Boyfriend is a Pilot"
+    path: "46 My Boyfriend is a Pilot.psf"
+    type: result
+  - id: do_you_remember_love
+    title: "Do You Remember Love"
+    path: "47 Do You Remember Love.psf"
+    type: break
+  - id: macross_srwal
+    title: "Macross"
+    path: "48 Macross.psf"
+    type: betting
+  - id: brave_man_raideen_srwal
+    title: "Brave man Raiden"
+    path: "50 Brave man Raiden.psf"
+    type: result
+  - id: sortie_is_the_name_giant_robo
+    title: "Sortie. Is the name Giant-Robo."
+    path: "52 Sortie. Is the name Giant-Robo..psf"
+    type: warning
+  - id: everywhere_you_go
+    title: "Everywhere You Go"
+    path: "54 Everywhere You Go.psf"
+    type: battle
+  - id: psychic_energy
+    title: "Psychic Energy"
+    path: "56 Psychic Energy.psf"
+    type: battle
+  - id: spirits_of_steel_super_robot_spirits
+    title: "Spirits of Steel ~ Super Robot Spirits"
+    path: "59 Spirits of Steel ~ Super Robot Spirits.psf"
+    type: battle
+  - id: time_driver
+    title: "Time Diver"
+    path: "60 Time Diver.psf"
+    type: battle
+  - id: vanishing_trooper
+    title: "Vanishing Trooper"
+    path: "66 Vanishing Trooper.psf"
+    type: battle
+  - id: to_eternal_harmony_in_space
+    title: "To eternal Harmony in space"
+    path: "69 To eternal Harmony in space.psf"
+    type: result
+  - id: far_repose_on_day
+    title: "Far repose on day"
+    path: "70 Far repose on day.psf"
+    type: result
+...

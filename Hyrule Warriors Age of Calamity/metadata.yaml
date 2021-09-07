@@ -1,0 +1,152 @@
+---
+id: hyrule_warriors_age_of_calamity
+title: "Hyrule Warriors: Age of Calamity"
+series: zelda
+platform: "Switch"
+year: 2020
+songs: 
+  - id: overlooking_hyrule_prelude_to_calamity_map
+    title: "Overlooking Hyrule - Prelude to Calamity (Map)"
+    path: "BGM_0001.kns"
+    type: betting
+  - id: overlooking_hyrule_amid_the_calamity_map
+    title: "Overlooking Hyrule - Amid the Calamity (Map)"
+    path: "BGM_0005.kns"
+    type: battle
+  - id: overlooking_hyrule_after_the_calamity_map
+    title: "Overlooking Hyrule - After the Calamity (Map)"
+    path: "BGM_0008.kns"
+    type: break
+  - id: meditative_training
+    title: "Meditative Training"
+    path: "BGM_0010.kns"
+    type: warning
+  - id: a_battle_s_conclusion
+    title: "A Battle's Conclusion"
+    path: "BGM_0012.kns"
+    type: result
+  - id: divine_beast_vah_ruta_looms
+    title: "Divine Beast Vah Ruta Looms"
+    path: "BGM_0016.kns"
+    type: betting
+  - id: divine_beast_vah_medoh_looms
+    title: "Divine Beast Vah Medoh Looms"
+    path: "BGM_0019.kns"
+    type: betting
+  - id: divine_beast_vah_rudania_looms
+    title: "Divine Beast Vah Rudania Looms"
+    path: "BGM_0022.kns"
+    type: warning
+  - id: divine_beast_vah_naboris_looms
+    title: "Divine Beast Vah Naboris Looms"
+    path: "BGM_0025.kns"
+    type: warning
+  - id: guardian_menace
+    title: "Guardian Menace"
+    path: "BGM_0028.kns"
+    type: battle
+  - id: the_champion_mipha
+    title: "The Champion Mipha"
+    path: "BGM_0031.kns"
+    type: betting
+  - id: the_champion_revali
+    title: "The Champion Revali"
+    path: "BGM_0034.kns"
+    type: betting
+  - id: the_champion_daruk
+    title: "The Champion Daruk"
+    path: "BGM_0041.kns"
+    type: betting
+  - id: the_champion_urbosa
+    title: "The Champion Urbosa"
+    path: "BGM_0044.kns"
+    type: betting
+  - id: searching_the_lost_woods
+    title: "Searching the Lost Woods"
+    path: "BGM_0050.kns"
+    type: betting
+  - id: the_calamity_s_revival_fierce
+    title: "The Calamity's Revival - Fierce"
+    path: "BGM_0062.kns"
+    type: battle
+  - id: mortal_struggle_beneath_a_blood_moon
+    title: "Mortal Struggle Beneath A Blood Moon"
+    path: "BGM_0066.kns"
+    type: battle
+  - id: decisive_fight_against_calamity_ganon
+    title: "Decisive Fight Against Calamity Ganon"
+    path: "BGM_0072.kns"
+    type: battle
+  - id: the_battle_of_hyrule_field
+    title: "The Battle of Hyrule Field"
+    path: "BGM_0078.kns"
+    type: battle
+  - id: battle_of_liberation
+    title: "Battle of Liberation"
+    path: "BGM_0081.kns"
+    type: betting
+  - id: hold_the_line
+    title: "Hold The Line"
+    path: "BGM_0084.kns"
+    type: warning
+  - id: rescue_operation
+    title: "Rescue Operation"
+    path: "BGM_0090.kns"
+    type: warning
+  - id: romp_across_the_battlefield
+    title: "Romp Across The Battlefield"
+    path: "BGM_0093.kns"
+    type: betting
+  - id: intense_battle_against_the_hinox_phase_2
+    title: "Intense Battle Against The Hinox (Phase 2)"
+    path: "BGM_0113.kns"
+    type: warning
+  - id: intense_battle_against_the_talus_phase_2
+    title: "Intense Battle Against The Talus (Phase 2)"
+    path: "BGM_0117.kns"
+    type: battle
+  - id: intense_battle_against_the_molduga
+    title: "Intense Battle Against The Molduga"
+    path: "BGM_0120.kns"
+    type: battle
+  - id: the_knight_who_seals_the_darkness
+    title: "The Knight Who Seals The Darkness"
+    path: "BGM_0127.kns"
+    type: betting
+  - id: crescendo_aoc
+    title: "Crescendo"
+    path: "BGM_0131.kns"
+    type: warning
+  - id: zelda_s_theme_interlude
+    title: "Zelda's Theme - Interlude"
+    path: "BGM_0147.kns"
+    type: result
+  - id: terrako_s_theme_interlude
+    title: "Terrako's Theme - Interlude"
+    path: "BGM_0148.kns"
+    type: break
+  - id: royal_research_lab
+    title: "Royal Research Lab"
+    path: "BGM_0155.kns"
+    type: betting
+  - id: lost_woods_aoc
+    title: "Lost Woods"
+    path: "BGM_0159.kns"
+    type: break
+  - id: master_kohga
+    title: "Master Kohga"
+    path: "BGM_0160.kns"
+    type: betting
+  - id: father_and_daughter
+    title: "Father And Daughter"
+    path: "BGM_0164.kns"
+    type: break
+  - id: zelda_s_lullaby_ancient_tune
+    title: "Zelda's Lullaby - Ancient Tune"
+    path: "BGM_0168.kns"
+    type: break
+  - id: desperate_situation
+    title: "Desperate Situation"
+    path: "BGM_0173.kns"
+    type: warning
+...

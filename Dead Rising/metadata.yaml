@@ -1,12 +1,36 @@
 ---
 id: dead_rising
 title: "Dead Rising"
-series: dead rising
+series: deadrising
+platform: "Various"
 year: 2006
-platform: "360"
 songs:
+  - id: mall_music_1
+    title: "Mall Music 1"
+    path: "Mall Music 1.brstm"
+    type: betting
+  - id: mall_music_2
+    title: "Mall Music 2"
+    path: "Mall Music 2.brstm"
+    type: break
   - id: mall_music_3
     title: "Mall Music 3"
     path: "Mall Music 3.brstm"
     type: break
+  - id: mall_music_4
+    title: "Mall Music 4"
+    path: "Mall Music 4.brstm"
+    type: betting
+  - id: mall_music_5
+    title: "Mall Music 5"
+    path: "Mall Music 5.brstm"
+    type: betting
+  - id: mall_music_6
+    title: "Mall Music 6"
+    path: "Mall Music 6.brstm"
+    type: break
+  - id: adam_crazy_clown
+    title: "Adam (Crazy Clown)"
+    path: "bgm019.brstm"
+    type: battle
 ...

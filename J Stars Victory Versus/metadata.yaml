@@ -1,0 +1,107 @@
+---
+id: j_stars_victory_versus_plus
+title: "J-Stars Victory VS+"
+platform: ["PS3", "PS4", "Vita"]
+year: 2015
+songs:
+  - id: raging_blast_goku
+    title: "Raging Blast - Goku"
+    path: "BGM_DRAGONBALL.hca"
+    type: battle
+  - id: never_ending_advenure_luffy
+    title: "Never Ending Adventure - Luffy"
+    path: "BGM_ONEPIECE.hca"
+    type: battle
+  - id: ninja_slayer_naruto
+    title: "Ninja Slayer - Naruto"
+    path: "BGM_NARUTO.hca"
+    type: battle
+  - id: good_appetite_toriko
+    title: "Good Appetite! - Toriko"
+    path: "BGM_TORIKO.hca"
+    type: betting
+  - id: bring_it_on_gintoki
+    title: "Bring it On! - Gintoki"
+    path: "BGM_GINTAMA.hca"
+    type: betting
+  - id: matsuri_revolution_ryotsu
+    title: "Matsuri! Revolution - Ryotsu"
+    path: "BGM_KOCHIKAME.hca"
+    type: betting
+  - id: brave_soldiers_seiya
+    title: "Brave Soldiers - Seiya"
+    path: "BGM_SEIYA.hca"
+    type: betting
+  - id: the_styx_ichigo
+    title: "The Styx - Ichigo"
+    path: "BGM_BLEACH.hca"
+    type: betting
+  - id: burning_sword_kenshin
+    title: "Burning Sword - Kenshin"
+    path: "BGM_RUROUNI.hca"
+    type: battle
+  - id: dark_inferno_yusuke
+    title: "Dark Inferno - Yusuke"
+    path: "BGM_YUYUHAKUSHO.hca"
+    type: battle
+  - id: man_of_men_momotaro
+    title: "Man of Men - Momotaro"
+    path: "BGM_OTOKOJYUKU.hca"
+    type: warning
+  - id: youre_easygoing_arale
+    title: "You're easygoing... - Arale"
+    path: "BGM_DRSLANP.hca"
+    type: result
+  - id: bravely_and_resolutely_gon
+    title: "Bravely and Resolutely - Gon"
+    path: "BGM_HUNTER.hca"
+    type: battle
+  - id: edge_of_the_fist_kenshiro
+    title: "Edge of the Fist - Kenshiro"
+    path: "BGM_HOKUTO.hca"
+    type: battle
+  - id: bad_boys_oga_and_beel
+    title: "Bad Boys - Oga and Beel"
+    path: "BGM_BEELUZEBUB.hca"
+    type: betting
+  - id: abnormal_psychology_medaka
+    title: "Abnormal Psychology - Medaka"
+    path: "BGM_MEDAKA.hca"
+    type: betting
+  - id: assassin_rendezvous_koro_sensei
+    title: "Assassin Rendezvous - Koro-Sensei"
+    path: "BGM_ANSATSU.hca"
+    type: betting
+  - id: psycho_circus_saiki
+    title: "Psycho Circus - Saiki"
+    path: "BGM_SAIKI.hca"
+    type: betting
+  - id: beat_tun_up_bobobo
+    title: "Beat tun Up! - Bobobo"
+    path: "BGM_BOBOBO.hca"
+    type: betting
+  - id: the_hitman_tsunayoshi
+    title: "The Hitman - Tsunayoshi"
+    path: "BGM_REBORN.hca"
+    type: betting
+  - id: good_luck_luckyman
+    title: "Good Luck! - Luckyman"
+    path: "BGM_LUCKYMAN.hca"
+    type: result
+  - id: the_incredibles_yamada
+    title: "The Incredibles - Yamada"
+    path: "BGM_CHINYUKI.hca"
+    type: betting
+  - id: two_steps_from_hell_nube
+    title: "Two Steps From Hell - Nube"
+    path: "BGM_NUBE.hca"
+    type: battle
+  - id: battle_select_j_stars
+    title: "Battle Select"
+    path: "BGM_BATTLESELECT.hca"
+    type: warning
+  - id: opening_theme_j_stars
+    title: "Opening Theme"
+    path: "BGM_OPENING.hca"
+    type: battle
+...

@@ -5,33 +5,33 @@ series: mvc
 platform: ["360", "PS3"]
 year: 2011
 songs:
-  - id: dr_dooms_theme_mvc3
-    title: "Dr. Doom's Theme"
-    path: "Dr. Doom's Theme.brstm"
+  - id: dr_doom_theme_mvc3
+    title: "Theme of Dr. Doom"
+    path: "bgm_cr_029.logg"
     type: battle
-  - id: captain_america's_theme_mvc3
-    title: "Captain America's Theme"
-    path: "Captain America's Theme.brstm"
+  - id: captain_america_theme_mvc3
+    title: "Theme of Captain America"
+    path: "bgm_cr_021.logg"
     type: betting
-  - id: haggars_theme_mvc3
-    title: "Haggar's Theme"
-    path: "Haggar's Theme.brstm"
+  - id: haggar_theme_mvc3
+    title: "Theme of Mike Haggar"
+    path: "bgm_cr_017.logg"
     type: betting
-  - id: taskmasters_theme
-    title: "Taskmaster's Theme"
-    path: "Taskmaster's Theme.brstm"
+  - id: taskmaster_theme
+    title: "Theme of Taskmaster"
+    path: "bgm_cr_026.logg"
     type: battle
   - id: arthur_theme_mvc3
-    title: "Arthur's Theme"
-    path: "Arthur's Theme.brstm"
+    title: "Theme of Arthur"
+    path: "bgm_cr_009.logg"
     type: battle
   - id: daily_bugle_mvc3
     title: "Daily Bugle"
     path: "Daily Bugle.brstm"
     type: battle
   - id: galactus_theme_mvc3
-    title: "Galactus's Theme"
-    path: "Galactus's Theme.brstm"
+    title: "Theme of Galactus"
+    path: "bgm_cr_040.logg"
     type: battle
   - id: kattelox_island
     title: "Kattelox Island"
@@ -39,28 +39,20 @@ songs:
     type: result
   - id: metro_city
     title: "Metro City"
-    path: "Metro City.brstm"
+    path: "bgm_st_003.logg"
     type: betting
-  - id: thors_theme
-    title: "Thor's Theme"
-    path: "Thor's Theme.brstm"
-    type: betting
-  - id: ghost_riders_theme
-    title: "Ghost Rider's Theme"
-    path: "Ghost Rider's Theme.brstm"
-    type: battle
-  - id: hawkeyes_theme
-    title: "Hawkeye's Theme"
-    path: "Hawkeye's Theme.brstm"
+  - id: thor_theme
+    title: "Theme of Thor"
+    path: "bgm_cr_028.logg"
     type: betting
   - id: amaterasu
-    title: "Amaterasu's Theme"
-    path: "Amaterasu's Theme.brstm"
-    type: result
+    title: "Theme of Amaterasu"
+    path: "bgm_cr_010.logg"
+    type: betting
   - id: felicia_mvc3
-    title: "Felicia's Theme"
-    path: "Felicia's Theme.brstm"
-    type: betting 
+    title: "Theme of Felicia"
+    path: "bgm_cr_014.logg"
+    type: betting
   - id: results_mvc3
     title: "Results"
     path: "Results.brstm"
@@ -70,15 +62,111 @@ songs:
     path: "Team Select.brstm"
     type: result
   - id: tron_bonne
-    title: "Tron Bonne's Theme"
-    path: "Tron Bonne's Theme.brstm"
-    type: result
-  - id: zero_mvc3
-    title: "Zero's Theme"
-    path: "Zero's Theme.brstm"
+    title: "Theme of Tron Bonne"
+    path: "bgm_cr_012.logg"
     type: betting
-  - id: chris_redfields_theme
-    path: "Chris Redfield's Theme.brstm"
-    title: "Chris Redfield's Theme"
+  - id: zero_mvc3
+    title: "Theme of Zero"
+    path: "bgm_cr_011.logg"
     type: battle
+  - id: chris_redfield_theme
+    title: "Theme of Chris Redfield"
+    path: "bgm_cr_002.logg"
+    type: battle
+  - id: ryu_theme_mvc3
+    title: "Theme of Ryu"
+    path: "bgm_cr_000.logg"
+    type: battle
+  - id: chun_li_theme_mvc3
+    title: "Theme of Chun-Li"
+    path: "bgm_cr_001.logg"
+    type: battle
+  - id: wesker_theme_mvc3
+    title: "Theme of Wesker"
+    path: "bgm_cr_003.logg"
+    type: battle
+  - id: viewtiful_joe_theme_mvc3
+    title: "Theme of Viewtiful Joe"
+    path: "bgm_cr_004.logg"
+    type: betting
+  - id: spencer_theme_mvc3
+    title: "Theme of Spencer"
+    path: "bgm_cr_008.logg"
+    type: betting
+  - id: morrigan_theme_mvc3
+    title: "Theme of Morrigan"
+    path: "bgm_cr_013.logg"
+    type: betting
+  - id: c_viper_theme_mvc3
+    title: "Theme of C. Viper"
+    path: "bgm_cr_015.logg"
+    type: betting
+  - id: akuma_theme_mvc3
+    title: "Theme of Akuma"
+    path: "bgm_cr_016.logg"
+    type: battle
+  - id: hsien_ko_theme_mvc3
+    title: "Theme of Hsien-Ko"
+    path: "bgm_cr_018.logg"
+    type: battle
+  - id: jill_theme_mvc3
+    title: "Theme of Jill"
+    path: "bgm_cr_019.logg"
+    type: battle
+  - id: spider_man_theme_mvc3
+    title: "Theme of Spider-Man"
+    path: "bgm_cr_020.logg"
+    type: battle
+  - id: wolverine_theme_mvc3
+    title: "Theme of Wolverine"
+    path: "bgm_cr_022.logg"
+    type: battle
+  - id: magneto_theme_mvc3
+    title: "Theme of Magneto"
+    path: "bgm_cr_023.logg"
+    type: betting
+  - id: hulk_theme_mvc3
+    title: "Theme of Hulk"
+    path: "bgm_cr_024.logg"
+    type: battle
+  - id: she_hulk_theme_mvc3
+    title: "Theme of She-Hulk"
+    path: "bgm_cr_025.logg"
+    type: battle
+  - id: iron_man_theme_mvc3
+    title: "Theme of Iron Man"
+    path: "bgm_cr_027.logg"
+    type: battle
+  - id: super_skrull_theme
+    title: "Theme of Super Skrull"
+    path: "bgm_cr_031.logg"
+    type: battle
+  - id: modok_theme
+    title: "Theme of M.O.D.O.K."
+    path: "bgm_cr_033.logg"
+    type: battle
+  - id: phoenix_theme_mvc3
+    title: "Theme of Phoenix"
+    path: "bgm_cr_034.logg"
+    type: battle
+  - id: dormamu_theme_mvc3
+    title: "Theme of Dormamu"
+    path: "bgm_cr_035.logg"
+    type: battle
+  - id: storm_theme_mvc3
+    title: "Theme of Storm"
+    path: "bgm_cr_037.logg"
+    type: battle
+  - id: sentinel_theme_mvc3
+    title: "Theme of Sentinel"
+    path: "bgm_cr_038.logg"
+    type: battle
+  - id: shuma_gorath_theme_mvc3
+    title: "Theme of Shuma-Gorath"
+    path: "bgm_cr_039.logg"
+    type: battle
+  - id: online_leaderboards_mvc3
+    title: "Online Leaderboards"
+    path: "Online Leaderboards.brstm"
+    type: result
 ...

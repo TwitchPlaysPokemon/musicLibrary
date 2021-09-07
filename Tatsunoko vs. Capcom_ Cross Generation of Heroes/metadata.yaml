@@ -5,16 +5,100 @@ series: mvc
 platform: ["Arcade", "Wii"]
 year: 2008
 songs:
-  - id: sokis_theme_onimusha_dawn_of_dreams
-    title: "Soki's Theme [Onimusha ~ Dawn of Dreams]"
-    path: "Soki's Theme [Onimusha ~ Dawn of Dreams].brstm"
+  - id: theme_of_ken_the_eagle
+    title: "Theme of Ken the Eagle"
+    path: "s_bgm_01.zwdsp"
+    type: betting
+  - id: theme_of_casshan
+    title: "Theme of Casshan"
+    path: "s_bgm_02.zwdsp"
+    type: betting
+  - id: theme_of_tekkaman
+    title: "Theme of Tekkaman"
+    path: "s_bgm_03.zwdsp"
+    type: betting
+  - id: theme_of_polimar
+    title: "Theme of Polimar"
+    path: "s_bgm_04.zwdsp"
+    type: betting
+  - id: theme_of_yatterman_1
+    title: "Theme of Yatterman-1"
+    path: "s_bgm_05.zwdsp"
+    type: betting
+  - id: theme_of_doronjo
+    title: "Theme of Doronjo"
+    path: "s_bgm_06.zwdsp"
+    type: break
+  - id: theme_of_ippatsuman
+    title: "Theme of Ippatsuman"
+    path: "s_bgm_07.zwdsp"
+    type: betting
+  - id: theme_of_jun_the_swan
+    title: "Theme of Jun the Swan"
+    path: "s_bgm_08.zwdsp"
+    type: betting
+  - id: theme_of_hakushon_daimao
+    title: "Theme of Hakushon Daimao"
+    path: "s_bgm_09.zwdsp"
+    type: betting
+  - id: theme_of_karas
+    title: "Theme of Karas"
+    path: "s_bgm_10.zwdsp"
     type: battle
-  - id: battle_ptx_tatsunoko
+  - id: theme_of_gold_lightan
+    title: "Theme of Gold Lightan"
+    path: "s_bgm_11.zwdsp"
+    type: battle
+  - id: theme_of_ryu_tvc
+    title: "Theme of Ryu"
+    path: "s_bgm_12.zwdsp"
+    type: battle
+  - id: theme_of_chun_li_tvc
+    title: "Theme of Chun-Li"
+    path: "s_bgm_13.zwdsp"
+    type: battle
+  - id: theme_of_batsu
+    title: "Theme of Batsu"
+    path: "s_bgm_14.zwdsp"
+    type: battle
+  - id: theme_of_morrigan_tvc
+    title: "Theme of Morrigan"
+    path: "s_bgm_15.zwdsp"
+    type: betting
+  - id: theme_of_alex_tvc
+    title: "Theme of Alex"
+    path: "s_bgm_16.zwdsp"
+    type: betting
+  - id: theme_of_viewtiful_joe_tvc
+    title: "Theme of Viewtiful Joe"
+    path: "s_bgm_17.zwdsp"
+    type: betting
+  - id: theme_of_megaman_vulnutt
+    title: "Theme of MegaMan Vuluntt"
+    path: "s_bgm_18.zwdsp"
+    type: betting
+  - id: theme_of_saki
+    title: "Theme of Saki"
+    path: "s_bgm_20.zwdsp"
+    type: betting
+  - id: theme_of_soki
+    title: "Theme of Soki"
+    path: "s_bgm_21.zwdsp"
+    type: battle
+  - id: theme_of_ptx_40a
     title: "Theme of PTX-40A"
-    path: "Battle-PTX_Tatsunoko.brstm"
+    path: "s_bgm_23.zwdsp"
     type: warning
-  - id: break_extramenu_tatsunoko
+  - id: character_select_tvc
+    title: "Character Select"
+    path: "s_bgm_24.zwdsp"
+    type: warning
+  - id: stage_select_tvc
+    title: "Stage Select"
+    path: "s_bgm_25.zwdsp"
+    type: warning
+  - id: extra_menu_tvc
     title: "Extra Menu"
-    path: "Break-ExtraMenu_Tatsunoko.brstm"
+    path: "s_bgm_43.zwdsp"
     type: break
 ...

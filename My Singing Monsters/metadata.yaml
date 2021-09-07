@@ -1,0 +1,19 @@
+﻿---
+id: my_singing_monsters
+title: "My Singing Monsters"
+platform: "Mobile"
+year: 2012
+songs:
+  - id: plant_island
+    title: "Plant Island"
+    path: "02 Plant Island.brstm"
+    type: betting
+  - id: earth_island
+    title: "Earth Island"
+    path: "06 Earth Island.brstm"
+    type: betting
+  - id: gold_island
+    title: "Gold Island"
+    path: "07 Gold Island.brstm"
+    type: betting
+...

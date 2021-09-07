@@ -2,9 +2,21 @@
 id: mario_party_2
 title: "Mario Party 2"
 series: mario
-year: 1999
 platform: "N64"
+year: 1999
 songs:
+  - id: welcome_to_mario_land_mp2
+    title: "Welcome to Mario Land"
+    path: "05 Welcome to Mario Land.miniusf"
+    type: betting
+  - id: laboratory_mp2
+    title: "Laboratory"
+    path: "06 - Laboratory.miniusf"
+    type: break
+  - id: in_the_pipe_mp2
+    title: "In the Pipe"
+    path: "07 - In the Pipe.miniusf"
+    type: warning
   - id: rule_land
     title: "Rule Land"
     path: "08 - Rule Land.miniusf"
@@ -29,50 +41,22 @@ songs:
     title: "Horror Land"
     path: "16 - Horror Land.miniusf"
     type: betting
-  - id: mini_game_stadium_mp2
-    title: "Mini-Game Stadium"
-    path: "21 - Mini-Game Stadium.miniusf"
-    type: betting
-  - id: laboratory_mp2
-    title: "Laboratory"
-    path: "06 - Laboratory.miniusf"
-    type: break
-  - id: mini_game_land_mp2
-    title: "Mini-Game Land"
-    path: "18 - Mini-Game Land.miniusf"
-    type: break
-  - id: let_the_game_begin
-    title: "Let the Game Begin"
-    path: "27 - Let the Game Begin.miniusf"
-    type: break
-  - id: credits_mp2
-    title: "Credits"
-    path: "50 - Credits.miniusf"
-    type: break
-  - id: a_ways_to_go
-    title: "A Ways to Go"
-    path: "45 - A Ways to Go.miniusf"
-    type: result
-  - id: the_adventure_ends_mp3
-    title: "The Adventure Ends"
-    path: "46 - The Adventure Ends.miniusf"
-    type: result
-  - id: the_star_appears
-    title: "The Star Appears"
-    path: "48 - The Star Appears.miniusf"
-    type: warning
-  - id: ending_mp2
-    title: "Ending"
-    path: "49 - Ending.miniusf"
-    type: result
-  - id: in_the_pipe_mp2
-    title: "In the Pipe"
-    path: "07 - In the Pipe.miniusf"
-    type: warning
   - id: bowser_land
     title: "Bowser Land"
     path: "17 - Bowser Land.miniusf"
     type: warning
+  - id: mini_game_land_mp2
+    title: "Mini-Game Land"
+    path: "18 - Mini-Game Land.miniusf"
+    type: break
+  - id: mini_game_stadium_mp2
+    title: "Mini-Game Stadium"
+    path: "21 - Mini-Game Stadium.miniusf"
+    type: betting
+  - id: let_the_game_begin
+    title: "Let the Game Begin"
+    path: "27 - Let the Game Begin.miniusf"
+    type: break
   - id: i_can_do_it_mp2
     title: "I Can Do It!"
     path: "22 - I Can Do It!.miniusf"
@@ -97,6 +81,14 @@ songs:
     title: "Not Gonna Lose"
     path: "29 - Not Gonna Lose.miniusf"
     type: warning
+  - id: keepin_on_the_path_mp2
+    title: "Keepin' On The Path"
+    path: "30 Keepin' on the Path.miniusf"
+    type: betting
+  - id: going_somewhere_mp2
+    title: "Going Somewhere"
+    path: "36 Going Somewhere.miniusf"
+    type: result
   - id: no_fright_no_fear
     title: "No Fright, No Fear"
     path: "37 - No Fright, No Fear.miniusf"
@@ -109,24 +101,36 @@ songs:
     title: "Walking Underwater"
     path: "41 - Walking Underwater.miniusf"
     type: warning
-  - id: bowser_appears_mp2
-    title: "Bowser Appears"
-    path: "47 - Bowser Appears.miniusf"
-    type: warning
-  - id: mushroom_genie_mp2
-    title: "Mushroom Genie"
-    path: "66 - Mushroom Genie.miniusf"
-    type: warning
-  - id: going_somewhere_mp2
-    title: "Going Somewhere"
-    path: "36 Going Somewhere.miniusf"
-    type: result
-  - id: welcome_to_mario_land_mp2
-    title: "Welcome to Mario Land"
-    path: "05 Welcome to Mario Land.miniusf"
-    type: betting
   - id: take_the_coin_mp2
     title: "Take the Coin"
     path: "44 Take the Coin.miniusf"
     type: result
+  - id: a_ways_to_go
+    title: "A Ways to Go"
+    path: "45 - A Ways to Go.miniusf"
+    type: result
+  - id: the_adventure_ends_mp3
+    title: "The Adventure Ends"
+    path: "46 - The Adventure Ends.miniusf"
+    type: result
+  - id: bowser_appears_mp2
+    title: "Bowser Appears"
+    path: "47 - Bowser Appears.miniusf"
+    type: warning
+  - id: the_star_appears
+    title: "The Star Appears"
+    path: "48 - The Star Appears.miniusf"
+    type: warning
+  - id: ending_mp2
+    title: "Ending"
+    path: "49 - Ending.miniusf"
+    type: result
+  - id: credits_mp2
+    title: "Credits"
+    path: "50 - Credits.miniusf"
+    type: break
+  - id: mushroom_genie_mp2
+    title: "Mushroom Genie"
+    path: "66 - Mushroom Genie.miniusf"
+    type: warning
 ...

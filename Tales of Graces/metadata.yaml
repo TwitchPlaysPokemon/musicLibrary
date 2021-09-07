@@ -1,8 +1,9 @@
 ---
 id: tales_of_graces
 title: "Tales of Graces"
+series: talesof
+platform: ["Wii", "PS3"]
 year: 2009
-platform: "Wii+PS3"
 songs:
   - id: raise_the_song_of_victory
     title: "Raise the Song of Victory!"
