@@ -130,7 +130,7 @@ songs:
   - id: battle_ancient_puppeteer
     title: "Battle! Ancient Puppeteer"
     path: "Battle! Ancient Puppeteer.brstm"
-    type: warning
+    type: battle
   - id: battle_formidable_foe_of_dance
     title: "Battle! Formidable Foe of Dance"
     path: "Battle! Formidable Foe of Dance.brstm"
@@ -158,7 +158,7 @@ songs:
   - id: battle_puppets_of_the_mountain
     title: "Battle! Puppets of the Mountain"
     path: "Battle! Puppets of the Mountain.brstm"
-    type: warning
+    type: battle
   - id: battle_puppets_of_the_underworld_unused
     title: "Battle! Puppets of the Underworld (Unused)"
     path: "Battle! Puppets of the Underworld (Unused).brstm"
