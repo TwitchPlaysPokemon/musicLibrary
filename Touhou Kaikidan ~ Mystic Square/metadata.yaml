@@ -12,11 +12,11 @@ songs:
   - id: the_grimoire_of_alice
     title: "the Grimoire of Alice"
     path: "the Grimoire of Alice.brstm"
-    type: betting
+    type: battle
   - id: romantic_children
     title: "Romantic Children"
     path: "Romantic Children.brstm"
-    type: result
+    type: betting
   - id: spiritual_heaven
     title: "Spiritual Heaven"
     path: "Louise's Theme - Spiritual Heaven.brstm"
@@ -28,7 +28,7 @@ songs:
   - id: alice_in_wonderland
     title: "Alice in Wonderland"
     path: "Alice in Wonderland.brstm"
-    type: warning
+    type: betting
   - id: doll_story_doll_of_misery
     title: "Doll Story ~ Doll of Misery"
     path: "Doll of Misery.brstm"
