@@ -9,12 +9,20 @@ songs:
     title: "Power of spirit"
     path: "loop_07_090730_24k.brstm"
     type: betting
-  - id: pandemic
-    title: "Pandemic"
-    path: "kyu_loza.brstm"
-    type: betting
+  - id: anyway_let_s_begin_the_diagnosis
+    title: "Anyway Let's begin the diagnosis"
+    path: "shindan1_090824.brstm"
+    type: break
   - id: uncover_the_truth
     title: "Uncover the truth"
     path: "kenshi_replay_22k.brstm"
+    type: betting
+  - id: glimpse_of_fear
+    title: "Glimpse of fear"
+    path: "shindan_loza.brstm"
+    type: betting
+  - id: pandemic
+    title: "Pandemic"
+    path: "kyu_loza.brstm"
     type: betting
 ...

@@ -92,4 +92,40 @@ songs:
     title: "Yusei Fudo"
     path: "Yu-Gi-Oh! Duel Links - Yusei Fudo Theme.brstm"
     type: battle
+  - id: jaden_yubel_theme
+    title: "Jaden/Yubel Theme"
+    path: "2-20 - Jaden Yubel Theme.brstm"
+    type: betting
+  - id: kc_cup_stage_1
+    title: "KC Cup - Stage 1"
+    path: "1-19 - KC Cup Duel Theme (1st Stage).brstm"
+    type: betting
+  - id: kc_cup_stage_2
+    title: "KC Cup - Stage 2"
+    path: "KC Cup Duel Theme (2nd Stage).brstm"
+    type: betting
+  - id: turbo_duel
+    title: "Turbo Duel"
+    path: "3-20 - Turbo Duel.brstm"
+    type: battle
+  - id: bastion_misawa_standard_duelist_theme
+    title: "Bastion Misawa/Standard Duelist Theme"
+    path: "2-16 - Bastion Misawa Theme.brstm"
+    type: battle
+  - id: antinomy_theme
+    title: "Antinomy Theme"
+    path: "3-27 - Antinomy Theme.brstm"
+    type: battle
+  - id: ceremonial_duel_yugi_muto_theme_dsod
+    title: "Ceremonial Duel / Yugi Muto Theme (DSOD)"
+    path: "1-25 - Ceremonial Duel (Yugi Muto vs Yami Yugi) Yugi Muto Theme (DSOD).brstm"
+    type: battle
+  - id: kite_tenjo_theme
+    title: "Kite Tenjo Theme"
+    path: "Kite Tenjo Theme.brstm"
+    type: battle
+  - id: reginald_shark_kastle_theme
+    title: "Reginald \"Shark\" Kastle Theme"
+    path: "5-09 - Reginald ''Shark'' Kastle Theme.brstm"
+    type: battle
 ...

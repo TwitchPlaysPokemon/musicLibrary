@@ -4,12 +4,24 @@ title: "Trauma Center: Under the Knife 2"
 platform: "NDS"
 year: 2008
 songs: 
-  - id: gentle_breeze
-    title: "Gentle Breeze"
-    path: "03 Manabu Namiki, Noriyuki Kamikura - Gentle Breeze.adx"
+  - id: gentle_wind
+    title: "Gentle Wind"
+    path: "04 Gentle Wind.brstm"
     type: betting
-  - id: severing_the_chains_of_fate
-    title: "Severing the Chains of Fate"
-    path: "13 Manabu Namiki, Noriyuki Kamikura - Severing the Chains of Fate.adx"
+  - id: sacrifice
+    title: "Sacrifice"
+    path: "10 Sacrifice.brstm"
+    type: break
+  - id: swaying_shadow_of_guilt
+    title: "Swaying Shadow of GUILT"
+    path: "12 Swaying Shadow of GUILT.brstm"
+    type: battle
+  - id: stand_up_against_the_threat
+    title: "Stand up Against the Threat"
+    path: "13 Stand up Against The Threat.brstm"
+    type: battle
+  - id: cut_off_the_fate
+    title: "Cut Off the Fate!!"
+    path: "14 Cut off The Fate!!.brstm"
     type: battle
 ...
