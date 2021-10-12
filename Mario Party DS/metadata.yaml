@@ -1,9 +1,10 @@
 ---
 id: mario_party_ds
 title: "Mario Party DS"
+series: mario
 platform: "NDS"
 year: 2007
-songs: 
+songs:
   - id: another_crazy_match
     title: "Another Crazy Match"
     path: "NTR-A8TJ-JPN-0069.mini2sf"

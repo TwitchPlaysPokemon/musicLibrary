@@ -1,9 +1,10 @@
 ---
 id: mario_luigi_bowser_s_inside_story_bowser_jr_s_journey
 title: "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey"
+series: mario
 platform: "3DS"
 year: 2019
-songs: 
+songs:
   - id: doing_it_right
     title: "Doing It Right"
     path: "03_tutorial_i32.dspadpcm.bcstm"
