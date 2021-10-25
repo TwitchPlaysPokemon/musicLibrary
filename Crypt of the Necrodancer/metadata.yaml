@@ -107,10 +107,6 @@ songs:
     title: "Deep Sea Bass (Coral Riff)"
     path: "Deep Sea Bass.brstm"
     type: betting
-  - id: danganronpa_trial_underground_coral_riff
-    title: "Danganronpa - Trial Underground (Coral Riff)"
-    path: "boss_4_6.logg"
-    type: betting
   - id: for_whom_the_knell_tolls_dead_ringer
     title: "For Whom the Knell Tolls (Dead Ringer)"
     path: "boss_5.logg"
@@ -127,4 +123,836 @@ songs:
     title: "Absolutetion (Golden Lute Fight)"
     path: "boss_8.logg"
     type: battle
+  - id: konga_conga_kappa_king_conga_the_melody_mixes
+    title: "Konga Conga Kappa (King Conga) [The Melody Mixes]"
+    path: "boss_1_1.logg"
+    type: betting
+  - id: stronger_konga_king_conga_aria_awakened
+    title: "Stronger Konga (King Conga) [Aria Awakened]"
+    path: "boss_1_2.logg"
+    type: betting
+  - id: konga_conga_kappa_king_conga_freestyle_retro
+    title: "Konga Conga Kappa (King Conga) [Freestyle Retro]"
+    path: "boss_1_3.logg"
+    type: betting
+  - id: konga_conga_kappa_king_conga_the_synthwave_cuts
+    title: "Konga Conga Kappa (King Conga) [The Synthwave Cuts]"
+    path: "boss_1_4.logg"
+    type: betting
+  - id: mr_monokuma_s_extracurricular_lesson_king_conga_danganronpa_ost
+    title: "Mr. Monokuma's Extracurricular Lesson (King Conga) [Danganronpa OST]"
+    path: "boss_1_6.logg"
+    type: betting
+  - id: konga_conga_kappa_king_conga_chipped_of_the_necrodancer
+    title: "Konga Conga Kappa (King Conga) [Chipped of the NecroDancer]"
+    path: "boss_1_chp.logg"
+    type: betting
+  - id: konga_conga_kappa_king_conga_overclocked
+    title: "Konga Conga Kappa (King Conga) [OverClocked]"
+    path: "boss_1_ocr.logg"
+    type: betting
+  - id: metalmancy_death_metal_the_melody_mixes
+    title: "Metalmancy (Death Metal) [The Melody Mixes]"
+    path: "boss_2_1.logg"
+    type: battle
+  - id: pyrodancer_death_metal_aria_awakened
+    title: "Pyrodancer (Death Metal) [Aria Awakened]"
+    path: "boss_2_2.logg"
+    type: battle
+  - id: metalmancy_death_metal_freestyle_retro
+    title: "Metalmancy (Death Metal) [Freestyle Retro]"
+    path: "boss_2_3.logg"
+    type: battle
+  - id: metalmancy_death_metal_the_synthwave_cuts
+    title: "Metalmancy (Death Metal) [The Synthwave Cuts]"
+    path: "boss_2_4.logg"
+    type: betting
+  - id: monster_that_shouts_its_love_in_the_center_of_hall_death_metal_danganronpa_ost
+    title: "Monster That Shouts Its Love in the Center of Hell (Death Metal) [Danganronpa OST]"
+    path: "boss_2_6.logg"
+    type: battle
+  - id: metalmancy_death_metal_chipped_of_the_necrodancer
+    title: "Metalmancy (Death Metal) [Chipped of the NecroDancer]"
+    path: "boss_2_chp.logg"
+    type: battle
+  - id: metalmancy_death_metal_overclocked
+    title: "Metalmancy (Death Metal) [OverClocked]"
+    path: "boss_2_ocr.logg"
+    type: battle
+  - id: death_polka_death_metal_aria_awakened
+    title: "Death Polka (Death Metal) [Aria Awakened]"
+    path: "boss_2_2a.logg"
+    type: battle
+  - id: knight_to_c_sharp_deep_blues_the_melody_mixes
+    title: "Knight to C-Sharp (Deep Blues) [The Melody Mixes]"
+    path: "boss_3_1.logg"
+    type: betting
+  - id: knight_fall_deep_blues_aria_awakened
+    title: "Knight Fall (Deep Blues) [Aria Awakened]"
+    path: "boss_3_2.logg"
+    type: betting
+  - id: knight_to_c_sharp_deep_blues_freestyle_retro
+    title: "Knight to C-Sharp (Deep Blues) [Freestyle Retro]"
+    path: "boss_3_3.logg"
+    type: betting
+  - id: knight_to_c_sharp_deep_blues_the_synthwave_cuts
+    title: "Knight to C-Sharp (Deep Blues) [The Synthwave Cuts]"
+    path: "boss_3_4.logg"
+    type: betting
+  - id: punishment_deep_blues_danganronpa_ost
+    title: "Punishment (Deep Blues) [Danganronpa OST]"
+    path: "boss_3_6.logg"
+    type: betting
+  - id: knight_to_c_sharp_deep_blues_chipped_of_the_necrodancer
+    title: "Knight to C-Sharp (Deep Blues) [Chipped of the NecroDancer]"
+    path: "boss_3_chp.logg"
+    type: betting
+  - id: knight_to_c_sharp_deep_blues_overclocked
+    title: "Knight to C-Sharp (Deep Blues) [OverClocked]"
+    path: "boss_3_ocr.logg"
+    type: betting
+  - id: deep_sea_bass_coral_riff_the_melody_mixes
+    title: "Deep Sea Bass (Coral Riff) [The Melody Mixes]"
+    path: "boss_4_1.logg"
+    type: betting
+  - id: deep_fear_octobass_coral_riff_aria_awakened
+    title: "Deep Fear Octobass (Coral Riff) [Aria Awakened]"
+    path: "boss_4_2.logg"
+    type: betting
+  - id: deep_sea_bass_coral_riff_freestyle_retro
+    title: "Deep Sea Bass (Coral Riff) [Freestyle Retro]"
+    path: "boss_4_3.logg"
+    type: betting
+  - id: deep_sea_bass_coral_riff_the_synthwave_cuts
+    title: "Deep Sea Bass (Coral Riff) [The Synthwave Cuts]"
+    path: "boss_4_4.logg"
+    type: betting
+  - id: trial_underground_coral_riff_danganronpa_ost
+    title: "Trial Underground (Coral Riff) [Danganronpa OST]"
+    path: "boss_4_6.logg"
+    type: betting
+  - id: deep_sea_bass_coral_riff_chipped_of_the_necrodancer
+    title: "Deep Sea Bass (Coral Riff) [Chipped of the NecroDancer]"
+    path: "boss_4_chp.logg"
+    type: betting
+  - id: deep_sea_bass_coral_riff_overclocked
+    title: "Deep Sea Bass (Coral Riff) [OverClocked]"
+    path: "boss_4_ocr.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_the_melody_mixes
+    title: "Notorious D.I.G. (Fortissimole) [The Melody Mixes]"
+    path: "boss_9_1.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_feat_mega_ran_the_melody_mixes
+    title: "Notorious D.I.G. (Fortissimole feat. Mega Ran) [The Melody Mixes]"
+    path: "boss_9_1.brstm"
+    type: betting
+  - id: molevolence_fortissimole_aria_awakened
+    title: "Molevolence (Fortissimole) [Aria Awakened]"
+    path: "boss_9_2.logg"
+    type: betting
+  - id: molevolence_fortissimole_feat_mega_ran_aria_awakened
+    title: "Molevolence (Fortissimole feat. Mega Ran) [Aria Awakened]"
+    path: "boss_9_2.brstm"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_freestyle_retro
+    title: "Notorious D.I.G. (Fortissimole) [Freestyle Retro]"
+    path: "boss_9_3.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_feat_mega_ran_freestyle_retro
+    title: "Notorious D.I.G. (Fortissimole feat. Mega Ran) [Freestyle Retro]"
+    path: "boss_9_3.brstm"
+    type: betting
+  - id: johnatron_notorious_d_i_g_fortissimole_the_synthwave_cuts
+    title: "Johnatron - Notorious D.I.G. (Fortissimole) [The Synthwave Cuts]"
+    path: "boss_9_4.logg"
+    type: betting
+  - id: johnatron_notorious_d_i_g_fortissimole_feat_mega_ran_the_synthwave_cuts
+    title: "Johnatron - Notorious D.I.G. (Fortissimole feat. Mega Ran) [The Synthwave Cuts]"
+    path: "boss_9_4.brstm"
+    type: betting
+  - id: sferro_notorious_d_i_g_fortissimole_the_synthwave_cuts
+    title: "Sferro - Notorious D.I.G. (Fortissimole) [The Synthwave Cuts]"
+    path: "boss_9_4a.logg"
+    type: betting
+  - id: sferro_notorious_d_i_g_fortissimole_feat_mega_ran_the_synthwave_cuts
+    title: "Sferro - Notorious D.I.G. (Fortissimole feat. Mega Ran) [The Synthwave Cuts]"
+    path: "boss_9_4a.brstm"
+    type: betting
+  - id: tommy_86_notorious_d_i_g_fortissimole_the_synthwave_cuts
+    title: "Tommy '86 - Notorious D.I.G. (Fortissimole) [The Synthwave Cuts]"
+    path: "boss_9_4b.logg"
+    type: betting
+  - id: tommy_86_notorious_d_i_g_fortissimole_feat_mega_ran_the_synthwave_cuts
+    title: "Tommy '86 - Notorious D.I.G. (Fortissimole feat. Mega Ran) [The Synthwave Cuts]"
+    path: "boss_9_4b.brstm"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_chipped_of_the_necrodancer
+    title: "Notorious D.I.G. (Fortissimole) [Chipped of the NecroDancer]"
+    path: "boss_9_chp.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_feat_mega_ran_chipped_of_the_necrodancer
+    title: "Notorious D.I.G. (Fortissimole feat. Mega Ran) [Chipped of the NecroDancer]"
+    path: "boss_9_chp.brstm"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_overclocked
+    title: "Notorious D.I.G. (Fortissimole) [OverClocked]"
+    path: "boss_9_ocr.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_feat_mega_ran_overclocked
+    title: "Notorious D.I.G. (Fortissimole feat. Mega Ran) [OverClocked]"
+    path: "boss_9_ocr.brstm"
+    type: betting
+  - id: dead_end_credits
+    title: "Dead End (Credits)"
+    path: "credits_1.ogg"
+    ends: 3:15
+    type: betting
+  - id: rhythmortis_lobby_the_melody_mixes
+    title: "Rhythmortis (Lobby) [The Melody Mixes]"
+    path: "lobby_1.logg"
+    type: betting
+  - id: breath_before_the_chaos_lobby_aria_awakened
+    title: "Breath Before the Chaos (Lobby) [Aria Awakened]"
+    path: "lobby_2.logg"
+    type: betting
+  - id: rhythmortis_lobby_freestyle_retro
+    title: "Rhythmortis (Lobby) [Freestyle Retro]"
+    path: "lobby_3.logg"
+    type: betting
+  - id: rhythmortis_lobby_the_synthwave_cuts
+    title: "Rhythmortis (Lobby) [The Synthwave Cuts]"
+    path: "lobby_4.logg"
+    type: betting
+  - id: danganronpa_lobby_danganronpa_ost
+    title: "DANGANRONPA (Lobby) [Danganronpa OST]"
+    path: "lobby_6.logg"
+    type: betting
+  - id: rhythmortis_lobby_chipped_of_the_necrodancer
+    title: "Rhythmortis (Lobby) [Chipped of the NecroDancer]"
+    path: "lobby_chp.logg"
+    type: betting
+  - id: rhythmortis_lobby_overclocked
+    title: "Rhythmortis (Lobby) [OverClocked]"
+    path: "lobby_ocr.logg"
+    type: betting
+  - id: watch_your_step_training_overclocked
+    title: "Watch Your Step (Training) [OverClocked]"
+    path: "training_ocr.logg"
+    type: betting
+  - id: disco_descent_1_1_the_melody_mixes
+    title: "Disco Descent (1-1) [The Melody Mixes]"
+    path: "zone1_1_1.ogg"
+    ends: 2:57
+    type: betting
+  - id: infernal_descent_1_1_aria_awakened
+    title: "Infernal Descent (1-1) [Aria Awakened]"
+    path: "zone1_1_2.ogg"
+    ends: 3:00
+    type: betting
+  - id: disco_descent_1_1_freestyle_retro
+    title: "Disco Descent (1-1) [Freestyle Retro]"
+    path: "zone1_1_3.ogg"
+    ends: 2:59
+    type: betting
+  - id: disco_descent_1_1_the_synthwave_cuts
+    title: "Disco Descent (1-1) [The Synthwave Cuts]"
+    path: "zone1_1_4.ogg"
+    ends: 3:02
+    type: betting
+  - id: last_versus_1_1_danganronpa_ost
+    title: "Last VERSUS (1-1) [Danganronpa OST]"
+    path: "zone1_1_6.ogg"
+    ends: 2:57
+    type: betting
+  - id: disco_descent_1_1_chipped_of_the_necrodancer
+    title: "Disco Descent (1-1) [Chipped of the NecroDancer]"
+    path: "zone1_1_chp.ogg"
+    ends: 2:58
+    type: betting
+  - id: disco_descent_1_1_overclocked
+    title: "Disco Descent (1-1) [OverClocked]"
+    path: "zone1_1_ocr.ogg"
+    ends: 3:00
+    type: betting
+  - id: crypteque_1_2_the_melody_mixes
+    title: "Crypteque (1-2) [The Melody Mixes]"
+    path: "zone1_2_1.ogg"
+    ends: 2:42
+    type: betting
+  - id: the_deranged_1_2_aria_awakened
+    title: "The Deranged (1-2) [Aria Awakened]"
+    path: "zone1_2_2.ogg"
+    ends: 2:42
+    type: betting
+  - id: crypteque_1_2_freestyle_retro
+    title: "Crypteque (1-2) [Freestyle Retro]"
+    path: "zone1_2_3.ogg"
+    ends: 2:45
+    type: betting
+  - id: crypteque_1_2_the_synthwave_cuts
+    title: "Crypteque (1-2) [The Synthwave Cuts]"
+    path: "zone1_2_4.ogg"
+    ends: 2:42
+    type: betting
+  - id: junk_food_for_a_dashing_youth_1_2_danganronpa_ost
+    title: "Junk Food for a Dashing Youth (1-2) [Danganronpa OST]"
+    path: "zone1_2_6.ogg"
+    ends: 2:42
+    type: betting
+  - id: crypteque_1_2_chipped_of_the_necrodancer
+    title: "Crypteque (1-2) [Chipped of the NecroDancer]"
+    path: "zone1_2_chp.ogg"
+    ends: 2:43
+    type: betting
+  - id: crypteque_1_2_overclocked
+    title: "Crypteque (1-2) [OverClocked]"
+    path: "zone1_2_ocr.ogg"
+    ends: 2:43
+    type: betting
+  - id: mausoleum_mash_1_3_the_melody_mixes
+    title: "Mausoleum Mash (1-3) [The Melody Mixes]"
+    path: "zone1_3_1.ogg"
+    ends: 2:57
+    type: betting
+  - id: spectral_storm_1_3_aria_awakened
+    title: "Spectral Storm (1-3) [Aria Awakened]"
+    path: "zone1_3_2.ogg"
+    ends: 2:54
+    type: betting
+  - id: mausoleum_mash_1_3_freestyle_retro
+    title: "Mausoleum Mash (1-3) [Freestyle Retro]"
+    path: "zone1_3_3.ogg"
+    ends: 2:57
+    type: betting
+  - id: mausoleum_mash_1_3_the_synthwave_cuts
+    title: "Mausoleum Mash (1-3) [The Synthwave Cuts]"
+    path: "zone1_3_4.ogg"
+    ends: 2:57
+    type: betting
+  - id: discussion_heat_up_1_3_danganronpa_ost
+    title: "Discussion -HEAT UP- (1-3) [Danganronpa OST]"
+    path: "zone1_3_6.ogg"
+    ends: 2:55
+    type: betting
+  - id: mausoleum_mash_1_3_chipped_of_the_necrodancer
+    title: "Mausoleum Mash (1-3) [Chipped of the NecroDancer]"
+    path: "zone1_3_chp.ogg"
+    ends: 2:56
+    type: betting
+  - id: mausoleum_mash_1_3_overclocked
+    title: "Mausoleum Mash (1-3) [OverClocked]"
+    path: "zone1_3_ocr.ogg"
+    ends: 3:03
+    type: betting
+  - id: fungal_funk_2_1_the_melody_mixes
+    title: "Fungal Funk (2-1) [The Melody Mixes]"
+    path: "zone2_1_1.ogg"
+    ends: 2:36
+    type: betting
+  - id: blaze_hazard_2_1_aria_awakened
+    title: "Blaze Hazard (2-1) [Aria Awakened]"
+    path: "zone2_1_2.ogg"
+    ends: 2:38
+    type: betting
+  - id: fungal_funk_2_1_freestyle_retro
+    title: "Fungal Funk (2-1) [Freestyle Retro]"
+    path: "zone2_1_3.ogg"
+    ends: 2:38
+    type: betting
+  - id: fungal_funk_2_1_the_synthwave_cuts
+    title: "Fungal Funk (2-1) [The Synthwave Cuts]"
+    path: "zone2_1_4.ogg"
+    ends: 2:37
+    type: betting
+  - id: 5th_island_theme_2_1_danganronpa_ost
+    title: "5th Island Theme (2-1) [Danganronpa OST]"
+    path: "zone2_1_6.ogg"
+    ends: 2:38
+    type: betting
+  - id: fungal_funk_2_1_chipped_of_the_necrodancer
+    title: "Fungal Funk (2-1) [Chipped of the NecroDancer]"
+    path: "zone2_1_chp.ogg"
+    ends: 2:39
+    type: betting
+  - id: fungal_funk_2_1_overclocked
+    title: "Fungal Funk (2-1) [OverClocked]"
+    path: "zone2_1_ocr.ogg"
+    ends: 2:39
+    type: betting
+  - id: grave_throbbing_2_2_the_melody_mixes
+    title: "Grave Throbbing (2-2) [The Melody Mixes]"
+    path: "zone2_2_1.ogg"
+    ends: 2:48
+    type: betting
+  - id: undead_desperation_2_2_aria_awakened
+    title: "Undead Desperation (2-2) [Aria Awakened]"
+    path: "zone2_2_2.ogg"
+    ends: 2:49
+    type: betting
+  - id: grave_throbbing_2_2_freestyle_retro
+    title: "Grave Throbbing (2-2) [Freestyle Retro]"
+    path: "zone2_2_3.ogg"
+    ends: 2:49
+    type: betting
+  - id: grave_throbbing_2_2_the_synthwave_cuts
+    title: "Grave Throbbing (2-2) [The Synthwave Cuts]"
+    path: "zone2_2_4.ogg"
+    ends: 2:50
+    type: betting
+  - id: wonderful_dead_2_2_danganronpa_ost
+    title: "Wonderful Dead (2-2) [Danganronpa OST]"
+    path: "zone2_2_6.ogg"
+    ends: 2:46
+    type: betting
+  - id: grave_throbbing_2_2_chipped_of_the_necrodancer
+    title: "Grave Throbbing (2-2) [Chipped of the NecroDancer]"
+    path: "zone2_2_chp.ogg"
+    ends: 2:48
+    type: betting
+  - id: grave_throbbing_2_2_overclocked
+    title: "Grave Throbbing (2-2) [OverClocked]"
+    path: "zone2_2_ocr.ogg"
+    ends: 2:49
+    type: betting
+  - id: portabellohead_2_3_the_melody_mixes
+    title: "Portabellohead (2-3) [The Melody Mixes]"
+    path: "zone2_3_1.ogg"
+    ends: 2:49
+    type: betting
+  - id: dark_means_2_3_aria_awakened
+    title: "Dark Means (2-3) [Aria Awakened]"
+    path: "zone2_3_2.ogg"
+    ends: 2:49
+    type: betting
+  - id: portabellohead_2_3_freestyle_retro
+    title: "Portabellohead (2-3) [Freestyle Retro]"
+    path: "zone2_3_3.ogg"
+    ends: 2:49
+    type: betting
+  - id: portabellohead_2_3_the_synthwave_cuts
+    title: "Portabellohead (2-3) [The Synthwave Cuts]"
+    path: "zone2_3_4.ogg"
+    ends: 2:49
+    type: betting
+  - id: alice_in_the_children_s_land_2_3_danganronpa_ost
+    title: "Alice in the Children's Land (2-3) [Danganronpa OST]"
+    path: "zone2_3_6.ogg"
+    ends: 2:48
+    type: betting
+  - id: portabellohead_2_3_chipped_of_the_necrodancer
+    title: "Portabellohead (2-3) [Chipped of the NecroDancer]"
+    path: "zone2_3_chp.ogg"
+    ends: 2:49
+    type: betting
+  - id: portabellohead_2_3_overclocked
+    title: "Portabellohead (2-3) [OverClocked]"
+    path: "zone2_3_ocr.ogg"
+    ends: 2:53
+    type: betting
+  - id: stone_cold_3_1_cold_the_melody_mixes
+    title: "Stone Cold (3-1 Cold) [The Melody Mixes]"
+    path: "zone3_1_1c.ogg"
+    ends: 2:41
+    type: betting
+  - id: igneous_rock_3_1_hot_the_melody_mixes
+    title: "Igneous Rock (3-1 Hot) [The Melody Mixes]"
+    path: "zone3_1_1h.ogg"
+    ends: 2:42
+    type: betting
+  - id: frozen_in_panic_3_1_cold_aria_awakened
+    title: "Frozen in Panic (3-1 Cold) [Aria Awakened]"
+    path: "zone3_1_2c.ogg"
+    ends: 2:44
+    type: betting
+  - id: scorched_volcanic_3_1_hot_aria_awakened
+    title: "Scorched Volcanic (3-1 Hot) [Aria Awakened]"
+    path: "zone3_1_2h.ogg"
+    ends: 2:44
+    type: betting
+  - id: stone_cold_3_1_cold_freestyle_retro
+    title: "Stone Cold (3-1 Cold) [Freestyle Retro]"
+    path: "zone3_1_3c.ogg"
+    ends: 2:42
+    type: betting
+  - id: igneous_rock_3_1_hot_freestyle_retro
+    title: "Igneous Rock (3-1 Hot) [Freestyle Retro]"
+    path: "zone3_1_3h.ogg"
+    ends: 2:44
+    type: betting
+  - id: stone_cold_3_1_cold_the_synthwave_cuts
+    title: "Stone Cold (3-1 Cold) [The Synthwave Cuts]"
+    path: "zone3_1_4c.ogg"
+    ends: 2:43
+    type: betting
+  - id: igneous_rock_3_1_hot_the_synthwave_cuts
+    title: "Igneous Rock (3-1 Hot) [The Synthwave Cuts]"
+    path: "zone3_1_4h.ogg"
+    ends: 2:41
+    type: betting
+  - id: box_15_3_1_cold_danganronpa_ost
+    title: "BOX 15 (3-1 Cold) [Danganronpa OST]"
+    path: "zone3_1_6c.ogg"
+    ends: 2:44
+    type: betting
+  - id: box_16_3_1_hot_danganronpa_ost
+    title: "BOX 16 (3-1 Hot) [Danganronpa OST]"
+    path: "zone3_1_6h.ogg"
+    ends: 2:44
+    type: betting
+  - id: stone_cold_3_1_cold_chipped_of_the_necrodancer
+    title: "Stone Cold (3-1 Cold) [Chipped of the NecroDancer]"
+    path: "zone3_1_chpc.ogg"
+    ends: 2:45
+    type: betting
+  - id: igneous_rock_3_1_hot_chipped_of_the_necrodancer
+    title: "Igneous Rock (3-1 Hot) [Chipped of the NecroDancer]"
+    path: "zone3_1_chph.ogg"
+    ends: 2:42
+    type: betting
+  - id: stone_cold_3_1_cold_overclocked
+    title: "Stone Cold (3-1 Cold) [OverClocked]"
+    path: "zone3_1_ocrc.ogg"
+    ends: 2:45
+    type: betting
+  - id: igneous_rock_3_1_hot_overclocked
+    title: "Igneous Rock (3-1 Hot) [OverClocked]"
+    path: "zone3_1_ocrh.ogg"
+    ends: 2:43
+    type: betting
+  - id: dance_of_the_decorous_3_2_cold_the_melody_mixes
+    title: "Dance of the Decorous (3-2 Cold) [The Melody Mixes]"
+    path: "zone3_2_1c.ogg"
+    ends: 2:46
+    type: betting
+  - id: march_of_the_profane_3_2_hot_the_melody_mixes
+    title: "March of the Profane (3-2 Hot) [The Melody Mixes]"
+    path: "zone3_2_1h.ogg"
+    ends: 2:45
+    type: betting
+  - id: anguish_of_the_frost_3_2_cold_aria_awakened
+    title: "Anguish of the Frost (3-2 Cold) [Aria Awakened]"
+    path: "zone3_2_2c.ogg"
+    ends: 2:45
+    type: betting
+  - id: heart_of_the_flame_3_2_hot_aria_awakened
+    title: "Heart of the Flame (3-2 Hot) [Aria Awakened]"
+    path: "zone3_2_2h.ogg"
+    ends: 2:45
+    type: betting
+  - id: dance_of_the_decorous_3_2_cold_freestyle_retro
+    title: "Dance of the Decorous (3-2 Cold) [Freestyle Retro]"
+    path: "zone3_2_3c.ogg"
+    ends: 2:46
+    type: betting
+  - id: march_of_the_profane_3_2_hot_freestyle_retro
+    title: "March of the Profane (3-2 Hot) [Freestyle Retro]"
+    path: "zone3_2_3h.ogg"
+    ends: 2:45
+    type: betting
+  - id: dance_of_the_decorous_3_2_cold_the_synthwave_cuts
+    title: "Dance of the Decorous (3-2 Cold) [The Synthwave Cuts]"
+    path: "zone3_2_4c.ogg"
+    ends: 2:44
+    type: betting
+  - id: march_of_the_profane_3_2_hot_the_synthwave_cuts
+    title: "March of the Profane (3-2 Hot) [The Synthwave Cuts]"
+    path: "zone3_2_4h.ogg"
+    ends: 2:44
+    type: betting
+  - id: it_s_a_monokuma_world_3_2_cold_danganronpa_ost
+    title: "It's a Monokuma World (3-2 Cold) [Danganronpa OST]"
+    path: "zone3_2_6c.ogg"
+    ends: 2:43
+    type: betting
+  - id: it_s_a_monokuma_world_3_2_hot_danganronpa_ost
+    title: "It's a Monokuma World (3-2 Hot) [Danganronpa OST]"
+    path: "zone3_2_6h.ogg"
+    ends: 2:43
+    type: betting
+  - id: dance_of_the_decorous_3_2_cold_chipped_of_the_necrodancer
+    title: "Dance of the Decorous (3-2 Cold) [Chipped of the NecroDancer]"
+    path: "zone3_2_chpc.ogg"
+    ends: 2:45
+    type: betting
+  - id: march_of_the_profane_3_2_hot_chipped_of_the_necrodancer
+    title: "March of the Profane (3-2 Hot) [Chipped of the NecroDancer]"
+    path: "zone3_2_chph.ogg"
+    ends: 2:47
+    type: betting
+  - id: dance_of_the_decorous_3_2_cold_overclocked
+    title: "Dance of the Decorous (3-2 Cold) [OverClocked]"
+    path: "zone3_2_ocrc.ogg"
+    ends: 2:49
+    type: betting
+  - id: march_of_the_profane_3_2_hot_overclocked
+    title: "March of the Profane (3-2 Hot) [OverClocked]"
+    path: "zone3_2_ocrh.ogg"
+    ends: 2:45
+    type: betting
+  - id: a_cold_sweat_3_3_cold_the_melody_mixes
+    title: "A Cold Sweat (3-3 Cold) [The Melody Mixes]"
+    path: "zone3_3_1c.ogg"
+    ends: 2:56
+    type: betting
+  - id: a_hot_mess_3_3_hot_the_melody_mixes
+    title: "A Hot Mess (3-3 Hot) [The Melody Mixes]"
+    path: "zone3_3_1h.ogg"
+    ends: 2:56
+    type: betting
+  - id: a_glacial_death_3_3_cold_aria_awakened
+    title: "A Glacial Death (3-3 Cold) [Aria Awakened]"
+    path: "zone3_3_2c.ogg"
+    ends: 2:59
+    type: betting
+  - id: a_dragon_s_breath_3_3_hot_aria_awakened
+    title: "A Dragon's Breath (3-3 Hot) [Aria Awakened]"
+    path: "zone3_3_2h.ogg"
+    ends: 2:59
+    type: betting
+  - id: a_cold_sweat_3_3_cold_freestyle_retro
+    title: "A Cold Sweat (3-3 Cold) [Freestyle Retro]"
+    path: "zone3_3_3c.ogg"
+    ends: 2:57
+    type: betting
+  - id: a_hot_mess_3_3_hot_freestyle_retro
+    title: "A Hot Mess (3-3 Hot) [Freestyle Retro]"
+    path: "zone3_3_3h.ogg"
+    ends: 2:58
+    type: betting
+  - id: a_cold_sweat_3_3_cold_the_synthwave_cuts
+    title: "A Cold Sweat (3-3 Cold) [The Synthwave Cuts]"
+    path: "zone3_3_4c.ogg"
+    ends: 2:59
+    type: betting
+  - id: a_hot_mess_3_3_hot_the_synthwave_cuts
+    title: "A Hot Mess (3-3 Hot) [The Synthwave Cuts]"
+    path: "zone3_3_4h.ogg"
+    ends: 2:59
+    type: betting
+  - id: supplementary_lessons_for_the_unlucky_3_3_cold_danganronpa_ost
+    title: "Supplementary Lessons for the Unlucky (3-3 Cold) [Danganronpa OST]"
+    path: "zone3_3_6c.ogg"
+    ends: 2:58
+    type: betting
+  - id: supplementary_lessons_for_the_mysterious_3_3_hot_danganronpa_ost
+    title: "Supplementary Lessons for the Mysterious (3-3 Hot) [Danganronpa OST]"
+    path: "zone3_3_6h.ogg"
+    ends: 2:58
+    type: betting
+  - id: a_cold_sweat_3_3_cold_chipped_of_the_necrodancer
+    title: "A Cold Sweat (3-3 Cold) [Chipped of the NecroDancer]"
+    path: "zone3_3_chpc.ogg"
+    ends: 2:59
+    type: betting
+  - id: a_hot_mess_3_3_hot_chipped_of_the_necrodancer
+    title: "A Hot Mess (3-3 Hot) [Chipped of the NecroDancer]"
+    path: "zone3_3_chph.ogg"
+    ends: 2:59
+    type: betting
+  - id: a_cold_sweat_3_3_cold_overclocked
+    title: "A Cold Sweat (3-3 Cold) [OverClocked]"
+    path: "zone3_3_ocrc.ogg"
+    ends: 2:57
+    type: betting
+  - id: a_cold_sweat_3_3_hot_overclocked
+    title: "A Hot Mess (3-3 Hot) [OverClocked]"
+    path: "zone3_3_ocrh.ogg"
+    ends: 2:57
+    type: betting
+  - id: styx_and_stones_4_1_the_melody_mixes
+    title: "Styx and Stones (4-1) [The Melody Mixes]"
+    path: "zone4_1_1.ogg"
+    ends: 3:00
+    type: betting
+  - id: apex_and_bones_4_1_aria_awakened
+    title: "Apex and Bones (4-1) [Aria Awakened]"
+    path: "zone4_1_2.ogg"
+    ends: 3:00
+    type: betting
+  - id: styx_and_stones_4_1_freestyle_retro
+    title: "Styx and Stones (4-1) [Freestyle Retro]"
+    path: "zone4_1_3.ogg"
+    ends: 3:00
+    type: betting
+  - id: styx_and_stones_4_1_the_synthwave_cuts
+    title: "Styx and Stones (4-1) [The Synthwave Cuts]"
+    path: "zone4_1_4.ogg"
+    ends: 2:59
+    type: betting
+  - id: distrust_4_1_danganronpa_ost
+    title: "DISTRUST (4-1) [Danganronpa OST]"
+    path: "zone4_1_6.ogg"
+    ends: 3:01
+    type: betting
+  - id: styx_and_stones_4_1_chipped_of_the_necrodancer
+    title: "Styx and Stones (4-1) [Chipped of the NecroDancer]"
+    path: "zone4_1_chp.ogg"
+    ends: 3:00
+    type: betting
+  - id: styx_and_stones_4_1_overclocked
+    title: "Styx and Stones (4-1) [OverClocked]"
+    path: "zone4_1_ocr.ogg"
+    ends: 3:04
+    type: betting
+  - id: heart_of_the_crypt_4_2_the_melody_mixes
+    title: "Heart of the Crypt (4-2) [The Melody Mixes]"
+    path: "zone4_2_1.ogg"
+    ends: 2:39
+    type: betting
+  - id: fury_of_the_crypt_4_2_aria_awakened
+    title: "Fury of the Crypt (4-2) [Aria Awakened]"
+    path: "zone4_2_2.ogg"
+    ends: 2:40
+    type: betting
+  - id: heart_of_the_crypt_4_2_freestyle_retro
+    title: "Heart of the Crypt (4-2) [Freestyle Retro]"
+    path: "zone4_2_3.ogg"
+    ends: 2:41
+    type: betting
+  - id: heart_of_the_crypt_4_2_the_synthwave_cuts
+    title: "Heart of the Crypt (4-2) [The Synthwave Cuts]"
+    path: "zone4_2_4.ogg"
+    ends: 2:39
+    type: betting
+  - id: kill_command_4_2_danganronpa_ost
+    title: "Kill Command (4-2) [Danganronpa OST]"
+    path: "zone4_2_6.ogg"
+    ends: 2:40
+    type: betting
+  - id: heart_of_the_crypt_4_2_chipped_of_the_necrodancer
+    title: "Heart of the Crypt (4-2) [Chipped of the NecroDancer]"
+    path: "zone4_2_chp.ogg"
+    ends: 2:41
+    type: betting
+  - id: heart_of_the_crypt_4_2_overclocked
+    title: "Heart of the Crypt (4-2) [OverClocked]"
+    path: "zone4_2_ocr.ogg"
+    ends: 2:42
+    type: betting
+  - id: the_wight_to_remain_4_3_the_melody_mixes
+    title: "The Wight to Remain (4-3) [The Melody Mixes]"
+    path: "zone4_3_1.ogg"
+    ends: 2:41
+    type: betting
+  - id: a_shadow_to_prevail_4_3_aria_awakened
+    title: "A Shadow to Prevail (4-3) [Aria Awakened]"
+    path: "zone4_3_2.ogg"
+    ends: 2:40
+    type: betting
+  - id: the_wight_to_remain_4_3_freestyle_retro
+    title: "The Wight to Remain (4-3) [Freestyle Retro]"
+    path: "zone4_3_3.ogg"
+    ends: 2:41
+    type: betting
+  - id: the_wight_to_remain_4_3_the_synthwave_cuts
+    title: "The Wight to Remain (4-3) [The Synthwave Cuts]"
+    path: "zone4_3_4.ogg"
+    ends: 2:40
+    type: betting
+  - id: class_trial_future_edition_4_3_danganronpa_ost
+    title: "Class Trial (Future Edition) (4-3) [Danganronpa OST]"
+    path: "zone4_3_6.ogg"
+    ends: 2:42
+    type: betting
+  - id: the_wight_to_remain_4_3_chipped_of_the_necrodancer
+    title: "The Wight to Remain (4-3) [Chipped of the NecroDancer]"
+    path: "zone4_3_chp.ogg"
+    ends: 2:41
+    type: betting
+  - id: the_wight_to_remain_4_3_overclocked
+    title: "The Wight to Remain (4-3) [OverClocked]"
+    path: "zone4_3_ocr.ogg"
+    ends: 2:43
+    type: betting
+  - id: voltzwaltz_5_1_the_melody_mixes
+    title: "Voltzwaltz (5-1) [The Melody Mixes]"
+    path: "zone5_1_1.ogg"
+    ends: 3:02
+    type: betting
+  - id: tesla_toil_5_1_aria_awakened
+    title: "Tesla Toil (5-1) [Aria Awakened]"
+    path: "zone5_1_2.ogg"
+    ends: 3:01
+    type: betting
+  - id: voltzwaltz_5_1_freestyle_retro
+    title: "Voltzwaltz (5-1) [Freestyle Retro]"
+    path: "zone5_1_3.ogg"
+    ends: 3:03
+    type: betting
+  - id: voltzwaltz_5_1_the_synthwave_cuts
+    title: "Voltzwaltz (5-1) [The Synthwave Cuts]"
+    path: "zone5_1_4.ogg"
+    ends: 3:04
+    type: betting
+  - id: voltzwaltz_5_1_chipped_of_the_necrodancer
+    title: "Voltzwaltz (5-1) [Chipped of the NecroDancer]"
+    path: "zone5_1_chp.ogg"
+    ends: 3:02
+    type: betting
+  - id: voltzwaltz_5_1_overclocked
+    title: "Voltzwaltz (5-1) [OverClocked]"
+    path: "zone5_1_ocr.ogg"
+    ends: 3:05
+    type: betting
+  - id: power_cords_5_2_the_melody_mixes
+    title: "Power Cords (5-2) [The Melody Mixes]"
+    path: "zone5_2_1.ogg"
+    ends: 2:31
+    type: betting
+  - id: power_corpse_5_2_aria_awakened
+    title: "Power Corpse (5-2) [Aria Awakened]"
+    path: "zone5_2_2.ogg"
+    ends: 2:30
+    type: betting
+  - id: power_cords_5_2_freestyle_retro
+    title: "Power Cords (5-2) [Freestyle Retro]"
+    path: "zone5_2_3.ogg"
+    ends: 2:30
+    type: betting
+  - id: power_cords_5_2_the_synthwave_cuts
+    title: "Power Cords (5-2) [The Synthwave Cuts]"
+    path: "zone5_2_4.ogg"
+    ends: 2:32
+    type: betting
+  - id: power_cords_5_2_chipped_of_the_necrodancer
+    title: "Power Cords (5-2) [The Synthwave Cuts]"
+    path: "zone5_2_chp.ogg"
+    ends: 2:32
+    type: betting
+  - id: power_cords_5_2_overclocked
+    title: "Power Cords (5-2) [OverClocked]"
+    path: "zone5_2_ocr.ogg"
+    ends: 2:31
+    type: betting
+  - id: six_feet_thunder_5_3_the_melody_mixes
+    title: "Six Feet Thunder (5-3) [The Melody Mixes]"
+    path: "zone5_3_1.ogg"
+    ends: 3:01
+    type: betting
+  - id: trial_of_thunder_5_3_aria_awakened
+    title: "Trial of Thunder (5-3) [Aria Awakened]"
+    path: "zone5_3_2.ogg"
+    ends: 2:59
+    type: betting
+  - id: six_feet_thunder_5_3_freestyle_retro
+    title: "Six Feet Thunder (5-3) [Freestyle Retro]"
+    path: "zone5_3_3.ogg"
+    ends: 2:58
+    type: betting
+  - id: six_feet_thunder_5_3_the_synthwave_cuts
+    title: "Six Feet Thunder (5-3) [The Synthwave Cuts]"
+    path: "zone5_3_4.ogg"
+    ends: 2:57
+    type: betting
+  - id: six_feet_thunder_5_3_chipped_of_the_necrodancer
+    title: "Six Feet Thunder (5-3) [Chipped of the NecroDancer]"
+    path: "zone5_3_chp.ogg"
+    ends: 2:58
+    type: betting
+  - id: six_feet_thunder_5_3_overclocked
+    title: "Six Feet Thunder (5-3) [OverClocked]"
+    path: "zone5_3_ocr.ogg"
+    ends: 2:59
+    type: betting
 ...

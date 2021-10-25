@@ -5,11 +5,6 @@ series: touhou
 platform: "PC"
 year: 2007
 songs: 
-#a note from TheShmish from the submission:
-#The song "The Youkai Mountain ~ Mysterious Mountain" that is already in the music library 
-#is actually the remix from "Touhou Bunkachou ~ Double Spoiler" and should be moved. 
-#The version I have submitted here is the correct version from 
-#"Touhou Fuujinroku ~ Mountain of Faith"
   - id: fall_of_fall_autumnal_waterfall
     title: "Fall of Fall ~ Autumnal Waterfall"
     path: "Fall of Fall ~ Autumnal Waterfall.brstm"
@@ -20,17 +15,13 @@ songs:
     path: "Stage 5 (Arranged by Clover).brstm"
     ends: 3:00
     type: betting
-  - id: tomorrow_will_be_special_yesterday_was_not
+  - id: tomorrow_will_be_special_yesterday_was_not_touhou_fuujinroku
     title: "Tomorrow will be Special; Yesterday was Not"
     path: "Tomorrow will be Special; Yesterday was Not .brstm"
     type: betting
   - id: dark_side_of_fate
     title: "Dark Side of Fate"
     path: "Dark Side of Fate.brstm"
-    type: battle
-  - id: the_youkai_mountain_mysterious_mountain
-    title: "The Youkai Mountain ~ Mysterious Mountain"
-    path: "Youkai Mountain.brstm"
     type: battle
   - id: faith_is_for_the_transient_people
     title: "Faith is for the Transient People"

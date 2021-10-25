@@ -36,7 +36,7 @@ songs:
     title: "Puyo Puyo Tetris Mixed-Up Mix"
     path: "BGM_00000017.hca"
     type: betting
-  - id: puyo_tetris_2__bossdialogue_you_re_on
+  - id: puyo_tetris_2_bossdialogue_you_re_on
     title: "Puyo Tetris 2 Boss Dialogue ~ You're On! ~"
     path: "BGM_00000006.hca"
     type: result
@@ -100,7 +100,7 @@ songs:
     title: "Puyo Puyo TETRIS 2 STAFF CREDITS"
     path: "BGM_0000000A.hca"
     type: break
-  - id: request_from_puyo_puyo
+  - id: request_from_puyo_puyo_pt2
     title: "Request from Puyo Puyo"
     path: "BGM_DL2_00000000.hca"
     type: result
