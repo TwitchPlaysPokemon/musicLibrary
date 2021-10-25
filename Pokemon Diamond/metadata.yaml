@@ -4,7 +4,7 @@ title: "Pokémon Diamond & Pearl"
 series: pokemon
 platform: "NDS"
 year: 2007
-songs: 
+songs:
   - id: opening_movie_dp
     title: "Opening Movie"
     path: "102 Opening.mini2sf"
@@ -190,7 +190,7 @@ songs:
     path: "158 Route 210 (Daytime).mini2sf"
     type: betting
   - id: veilstone_city_day
-    title: "Veilstone City (Dayt)"
+    title: "Veilstone City (Day)"
     path: "159 Veilstone City (Daytime).mini2sf"
     type: betting
   - id: valor_lakefront_day

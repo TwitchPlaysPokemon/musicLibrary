@@ -4,7 +4,7 @@ title: "Final Fantasy XIV 1.0"
 series: finalfantasy
 platform: "PC"
 year: 2010
-songs: 
+songs:
   - id: navigator_s_glory_the_theme_of_limsa_lominsa
     title: "Navigator's Glory - The Theme of Limsa Lominsa"
     path: "3B.scd"
@@ -176,7 +176,7 @@ songs:
   - id: imperium
     title: "Imperium"
     path: "13.scd"
-    type: betting
+    type: battle
   - id: fallen_angel
     title: "Fallen Angel"
     path: "68.scd"
