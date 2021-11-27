@@ -6,19 +6,30 @@ year: 2008
 songs:
   - id: sparkle_ndsi
     title: "Sparkle"
-    path: "Sparkle.brstm"
+    path: "Slideshow - Sparkle.minincsf"
     type: betting
   - id: showtime_ndsi
     title: "Showtime"
-    path: "Showtime.brstm"
+    path: "Slideshow - Showtime.minincsf"
     type: betting
+  - id: whistle_ndsi
+    title: "Whistle"
+    path: "Slideshow - Whistle.minincsf"
+    type: result
   - id: memories_ndsi
     title: "Memories"
-    path: "Memories.brstm"
-    ends: 2:30
+    path: "Slideshow - Memories.minincsf"
     type: break
   - id: nintendo_dsi_shop
     title: "Nintendo DSi Shop"
     path: "TWL_SHOP_BGM.brstm"
+    type: break
+  - id: taking_photos_ndsi
+    title: "Taking Photos"
+    path: "Taking Photos.minincsf"
+    type: betting
+  - id: transferring_to_3ds_ndsi
+    title: "Transferring to 3DS"
+    path: "Transferring.minincsf"
     type: break
 ...

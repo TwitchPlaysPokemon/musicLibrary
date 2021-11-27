@@ -9,18 +9,172 @@ songs:
     path: "Danny Baranowsky - Crypt of the Necrodancer- AMPLIFIED OST - 01 Voltzwaltz (5-1).ogg"
     ends: 3:04
     type: betting
+  - id: voltzwaltz_5_1_the_melody_mixes
+    title: "Voltzwaltz (5-1) [The Melody Mixes]"
+    path: "zone5_1_1.ogg"
+    ends: 3:02
+    type: betting
+  - id: tesla_toil_5_1_aria_awakened
+    title: "Tesla Toil (5-1) [Aria Awakened]"
+    path: "zone5_1_2.ogg"
+    ends: 3:01
+    type: betting
+  - id: voltzwaltz_5_1_freestyle_retro
+    title: "Voltzwaltz (5-1) [Freestyle Retro]"
+    path: "zone5_1_3.ogg"
+    ends: 3:03
+    type: betting
+  - id: voltzwaltz_5_1_the_synthwave_cuts
+    title: "Voltzwaltz (5-1) [The Synthwave Cuts]"
+    path: "zone5_1_4.ogg"
+    ends: 3:04
+    type: betting
+  - id: voltzwaltz_5_1_chipped_of_the_necrodancer
+    title: "Voltzwaltz (5-1) [Chipped of the NecroDancer]"
+    path: "zone5_1_chp.ogg"
+    ends: 3:02
+    type: betting
+  - id: voltzwaltz_5_1_overclocked
+    title: "Voltzwaltz (5-1) [OverClocked]"
+    path: "zone5_1_ocr.ogg"
+    ends: 3:05
+    type: betting
   - id: power_cords_5_2
     title: "Power Cords (5-2)"
     path: "Danny Baranowsky - Crypt of the Necrodancer- AMPLIFIED OST - 02 Power Cords (5-2).ogg"
+    type: betting
+  - id: power_cords_5_2_the_melody_mixes
+    title: "Power Cords (5-2) [The Melody Mixes]"
+    path: "zone5_2_1.ogg"
+    ends: 2:31
+    type: betting
+  - id: power_corpse_5_2_aria_awakened
+    title: "Power Corpse (5-2) [Aria Awakened]"
+    path: "zone5_2_2.ogg"
+    ends: 2:30
+    type: betting
+  - id: power_cords_5_2_freestyle_retro
+    title: "Power Cords (5-2) [Freestyle Retro]"
+    path: "zone5_2_3.ogg"
+    ends: 2:30
+    type: betting
+  - id: power_cords_5_2_the_synthwave_cuts
+    title: "Power Cords (5-2) [The Synthwave Cuts]"
+    path: "zone5_2_4.ogg"
+    ends: 2:32
+    type: betting
+  - id: power_cords_5_2_chipped_of_the_necrodancer
+    title: "Power Cords (5-2) [The Synthwave Cuts]"
+    path: "zone5_2_chp.ogg"
+    ends: 2:32
+    type: betting
+  - id: power_cords_5_2_overclocked
+    title: "Power Cords (5-2) [OverClocked]"
+    path: "zone5_2_ocr.ogg"
+    ends: 2:31
     type: betting
   - id: six_feet_thunder_5_3
     title: "Six Feet Thunder (5-3)"
     path: "Danny Baranowsky - Crypt of the Necrodancer- AMPLIFIED OST - 03 Six Feet Thunder (5-3).ogg"
     ends: 3:03
     type: betting
+  - id: six_feet_thunder_5_3_the_melody_mixes
+    title: "Six Feet Thunder (5-3) [The Melody Mixes]"
+    path: "zone5_3_1.ogg"
+    ends: 3:01
+    type: betting
+  - id: trial_of_thunder_5_3_aria_awakened
+    title: "Trial of Thunder (5-3) [Aria Awakened]"
+    path: "zone5_3_2.ogg"
+    ends: 2:59
+    type: betting
+  - id: six_feet_thunder_5_3_freestyle_retro
+    title: "Six Feet Thunder (5-3) [Freestyle Retro]"
+    path: "zone5_3_3.ogg"
+    ends: 2:58
+    type: betting
+  - id: six_feet_thunder_5_3_the_synthwave_cuts
+    title: "Six Feet Thunder (5-3) [The Synthwave Cuts]"
+    path: "zone5_3_4.ogg"
+    ends: 2:57
+    type: betting
+  - id: six_feet_thunder_5_3_chipped_of_the_necrodancer
+    title: "Six Feet Thunder (5-3) [Chipped of the NecroDancer]"
+    path: "zone5_3_chp.ogg"
+    ends: 2:58
+    type: betting
+  - id: six_feet_thunder_5_3_overclocked
+    title: "Six Feet Thunder (5-3) [OverClocked]"
+    path: "zone5_3_ocr.ogg"
+    ends: 2:59
+    type: betting
   - id: notorious_d_i_g_fortissimole
     title: "Notorious D.I.G. (Fortissimole)"
     path: "boss_9.brstm"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_the_melody_mixes
+    title: "Notorious D.I.G. (Fortissimole) [The Melody Mixes]"
+    path: "boss_9_1.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_feat_mega_ran_the_melody_mixes
+    title: "Notorious D.I.G. (Fortissimole feat. Mega Ran) [The Melody Mixes]"
+    path: "boss_9_1.brstm"
+    type: betting
+  - id: molevolence_fortissimole_aria_awakened
+    title: "Molevolence (Fortissimole) [Aria Awakened]"
+    path: "boss_9_2.logg"
+    type: betting
+  - id: molevolence_fortissimole_feat_mega_ran_aria_awakened
+    title: "Molevolence (Fortissimole feat. Mega Ran) [Aria Awakened]"
+    path: "boss_9_2.brstm"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_freestyle_retro
+    title: "Notorious D.I.G. (Fortissimole) [Freestyle Retro]"
+    path: "boss_9_3.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_feat_mega_ran_freestyle_retro
+    title: "Notorious D.I.G. (Fortissimole feat. Mega Ran) [Freestyle Retro]"
+    path: "boss_9_3.brstm"
+    type: betting
+  - id: johnatron_notorious_d_i_g_fortissimole_the_synthwave_cuts
+    title: "Johnatron - Notorious D.I.G. (Fortissimole) [The Synthwave Cuts]"
+    path: "boss_9_4.logg"
+    type: betting
+  - id: johnatron_notorious_d_i_g_fortissimole_feat_mega_ran_the_synthwave_cuts
+    title: "Johnatron - Notorious D.I.G. (Fortissimole feat. Mega Ran) [The Synthwave Cuts]"
+    path: "boss_9_4.brstm"
+    type: betting
+  - id: sferro_notorious_d_i_g_fortissimole_the_synthwave_cuts
+    title: "Sferro - Notorious D.I.G. (Fortissimole) [The Synthwave Cuts]"
+    path: "boss_9_4a.logg"
+    type: betting
+  - id: sferro_notorious_d_i_g_fortissimole_feat_mega_ran_the_synthwave_cuts
+    title: "Sferro - Notorious D.I.G. (Fortissimole feat. Mega Ran) [The Synthwave Cuts]"
+    path: "boss_9_4a.brstm"
+    type: betting
+  - id: tommy_86_notorious_d_i_g_fortissimole_the_synthwave_cuts
+    title: "Tommy '86 - Notorious D.I.G. (Fortissimole) [The Synthwave Cuts]"
+    path: "boss_9_4b.logg"
+    type: betting
+  - id: tommy_86_notorious_d_i_g_fortissimole_feat_mega_ran_the_synthwave_cuts
+    title: "Tommy '86 - Notorious D.I.G. (Fortissimole feat. Mega Ran) [The Synthwave Cuts]"
+    path: "boss_9_4b.brstm"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_chipped_of_the_necrodancer
+    title: "Notorious D.I.G. (Fortissimole) [Chipped of the NecroDancer]"
+    path: "boss_9_chp.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_feat_mega_ran_chipped_of_the_necrodancer
+    title: "Notorious D.I.G. (Fortissimole feat. Mega Ran) [Chipped of the NecroDancer]"
+    path: "boss_9_chp.brstm"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_overclocked
+    title: "Notorious D.I.G. (Fortissimole) [OverClocked]"
+    path: "boss_9_ocr.logg"
+    type: betting
+  - id: notorious_d_i_g_fortissimole_feat_mega_ran_overclocked
+    title: "Notorious D.I.G. (Fortissimole feat. Mega Ran) [OverClocked]"
+    path: "boss_9_ocr.brstm"
     type: betting
   - id: steinway_to_heaven_frankensteinway_fight
     title: "Steinway to Heaven (Frankensteinway Fight)"

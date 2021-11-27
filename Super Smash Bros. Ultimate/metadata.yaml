@@ -768,4 +768,37 @@ songs:
     title: "The Arch-Illager"
     path: "mc05_mcd_thearchillager.lopus"
     type: battle
+  - id: kazuya_mishima_devil_kazuya
+    title: "Kazuya Mishima, Devil Kazuya"
+    path: "tk05_tk2_kazuya_mishima_devil_kazuya.lopus"
+    type: battle
+  - id: dist_thins_out
+    title: "Dist Thins Out"
+    path: "tk24_tk6_dist_thins_out.lopus"
+    type: battle
+  - id: karma
+    title: "Karma"
+    path: "tk25_tk6br_karma.lopus"
+    type: battle
+  - id: dojo_japanese_style_mix
+    title: "Dojo (Japanese-Style Mix)"
+    path: "mc03_mce_earth.lopus"
+    type: battle
+  - id: landscape_under_the_ghost_kaminano
+    title: "Landscape Under the Ghost-Kaminano"
+    path: "tk30_tt2_landscape_under_the_ghost_kaminano.lopus"
+    ends: 2:34
+    type: betting
+  - id: moonsiders_1st
+    title: "Moonsiders 1st"
+    path: "tk36_tk7_moonsiders.lopus"
+    type: betting
+  - id: desperate_struggle
+    title: "Desperate Struggle"
+    path: "tk37_tk7_desperate_struggle.lopus"
+    type: battle
+  - id: aloneness
+    title: "Aloneness"
+    path: "tk38_tk7_aloneness.lopus"
+    type: battle
 ...

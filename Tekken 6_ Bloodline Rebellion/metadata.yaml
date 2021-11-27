@@ -29,4 +29,16 @@ songs:
     title: "Yodeling in meadow hill (Hidden Retreat)"
     path: "Hidden Retreat.brstm"
     type: betting
+  - id: ethno_evening_temple_grounds
+    title: "Ethno Evening (Temple Grounds)"
+    path: "tk21_tk6_ethno_evening.lopus"
+    type: betting
+  - id: only_one_fight_noh_theater
+    title: "Only One Fight (Noh Theater)"
+    path: "tk23_tk6_only_one_fight.lopus"
+    type: battle
+  - id: arisa_anger_of_the_earth
+    title: "Arisa (Anger Of The Earth)"
+    path: "tk26_tk6br_arisa.lopus"
+    type: battle
 ...

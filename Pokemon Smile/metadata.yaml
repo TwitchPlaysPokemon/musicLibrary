@@ -1,0 +1,68 @@
+---
+id: pokemon_smile
+title: "Pokémon Smile"
+series: pokemon
+platform: "Mobile"
+year: 2020
+songs:
+  - id: main_theme_initial_smile
+    title: "Main Theme (Initial)"
+    path: "Bgm_Main01.fsb"
+    type: break
+  - id: main_theme_final_smile
+    title: "Main Theme (Final)"
+    path: "Bgm_Main05.fsb"
+    type: result
+  - id: pokedex_final_smile
+    title: "Pokédex (Final)"
+    path: "Bgm_Pokedex05.fsb"
+    type: break
+  - id: pokedex_music_box_smile
+    title: "Pokédex (Music Box)"
+    path: "Bgm_Pokedex06.fsb"
+    type: break
+  - id: stage_1_smile
+    title: "Stage 1"
+    path: "Bgm_Stage01.fsbm"
+    type: betting
+  - id: stage_2_smile
+    title: "Stage 2"
+    path: "Bgm_Stage02.fsbm"
+    type: result
+  - id: stage_3_smile
+    title: "Stage 3"
+    path: "Bgm_Stage03.fsbm"
+    type: result
+  - id: stage_4_smile
+    title: "Stage 4"
+    path: "Bgm_Stage04.fsbm"
+    type: warning
+  - id: stage_5_smile
+    title: "Stage 5"
+    path: "Bgm_Stage05.fsbm"
+    type: betting
+  - id: stage_6_smile
+    title: "Stage 6"
+    path: "Bgm_Stage06.fsbm"
+    type: betting
+  - id: stage_7_smile
+    title: "Stage 7"
+    path: "Bgm_Stage07.fsbm"
+    type: result
+  - id: boss_1_smile
+    title: "Boss 1"
+    path: "Bgm_Boss01.fsbm"
+    type: result
+  - id: boss_2_smile
+    title: "Boss 2"
+    path: "Bgm_Boss02.fsbm"
+    type: result
+  - id: boss_3_smile
+    title: "Boss 3"
+    path: "Bgm_Boss03.fsbm"
+    type: result
+  - id: headgear_smile
+    title: "Headgear"
+    path: "Bgm_Headgear.fsbm"
+    type: result
+...

@@ -26,7 +26,7 @@ songs:
     path: "Vessel of Stars ~ Casket of Star.vgz"
     type: result
   - id: faint_dream_inanimate_dream_unused
-    title: "Faint Dream ~ Inanimate Dream"
+    title: "Faint Dream ~ Inanimate Dream (Unused)"
     path: "15 Faint Dream _ Inanimate Dream.vgz"
     type: battle
   - id: cute_devil_innocence
@@ -49,4 +49,32 @@ songs:
     title: "The Inevitably Forbidden Game"
     path: "16 The Inevitably Forbidden Game.vgz"
     type: betting
+  - id: border_land_unused
+    title: "Border Land (Unused)"
+    path: "Border Land.brstm"
+    type: betting
+  - id: crescent_dream_unused
+    title: "Crescent Dream (Unused)"
+    path: "Crescent Dream.brstm"
+    type: betting
+  - id: dreamy_pilot_unused
+    title: "Dreamy Pilot (Unused)"
+    path: "Dreamy pilot.brstm"
+    type: battle
+  - id: incomplete_plot_unused
+    title: "Incomplete Plot (Unused)"
+    path: "Incomplete Plot.brstm"
+    type: betting
+  - id: lotus_road_unused
+    title: "Lotus Road (Unused)"
+    path: "Lotus Road.brstm"
+    type: betting
+  - id: magic_shop_of_raspberry_unused
+    title: "Magic Shop of Raspberry (Unused)"
+    path: "Magic Shop of Raspberry.brstm"
+    type: betting
+  - id: alice_maestra_demetori_remix
+    title: "Alice Maestra (Demetori Remix)"
+    path: "Alice Maestra (Demetori Remix).brstm"
+    type: battle
 ...

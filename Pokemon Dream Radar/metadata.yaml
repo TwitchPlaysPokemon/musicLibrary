@@ -1,0 +1,33 @@
+---
+id: pokemon_dream_radar
+title: "Pokémon Dream Radar"
+series: pokemon
+platform: "3DS"
+year: 2012
+songs:
+  - id: main_theme_pokemon_dream_radar
+    title: "Main Theme"
+    path: "BGM_TITLE.bcstm"
+    type: result
+  - id: send_pokemon
+    title: "Send Pokémon"
+    path: "BGM_SEND.bcstm"
+    type: warning
+  - id: battle_vs_wild_pokemon_dr
+    title: "Battle Vs. Wild Pokémon"
+    path: "BGM_POKEMON_BATTLE.bcstm"
+    type: battle
+  - id: battle_vs_legendary_pokemon_dr
+    title: "Battle Vs. Legendary Pokémon"
+    path: "BGM_LEGEND_BATTLE.bcstm"
+    type: battle
+  - id: battle_vs_forces_of_nature
+    title: "Battle Vs. Forces of Nature"
+    path: "BGM_TOROS_A_BATTLE.bcstm"
+    type: battle
+  - id: staff_roll_dr
+    title: "Staff Roll"
+    path: "BGM_STAFFROLL.bcstm"
+    ends: 2:25
+    type: betting
+...

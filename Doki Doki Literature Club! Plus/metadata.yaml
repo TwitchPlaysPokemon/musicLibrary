@@ -1,0 +1,20 @@
+---
+id: doki_doki_literature_club_plus
+title: "Doki Doki Literature Club Plus!"
+platform: "Various"
+year: 2021
+songs: 
+  - id: my_song_your_note
+    title: "My Song, Your Note"
+    path: "p1.fsb"
+    type: break
+  - id: strawberry_peppermint
+    title: "Strawberry Peppermint"
+    path: "p3.fsb"
+    type: break
+  - id: just_a_little_bit
+    title: "Just a Little Bit"
+    path: "p5.fsb"
+    ends: 2:28
+    type: betting
+...

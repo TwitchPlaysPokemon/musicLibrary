@@ -1,0 +1,27 @@
+---
+id: chobits_atashi_dake_no_hito
+title: "Chobits: Atashi Dake no Hito"
+platform: "GBA"
+year: 2002
+songs: 
+  - id: let_me_be_with_you
+    title: "Let Me Be With You"
+    path: "01 BGM #01.minigsf"
+    type: betting
+  - id: bgm_08_chobits
+    title: "BGM #08"
+    path: "08 BGM #08.minigsf"
+    type: break
+  - id: bgm_12_chobits
+    title: "BGM #12"
+    path: "12 BGM #12.minigsf"
+    type: result
+  - id: bgm_14_chobits
+    title: "BGM #14"
+    path: "14 BGM #14.minigsf"
+    type: break
+  - id: bgm_17_chobits
+    title: "BGM #17"
+    path: "17 BGM #17.minigsf"
+    type: break
+...

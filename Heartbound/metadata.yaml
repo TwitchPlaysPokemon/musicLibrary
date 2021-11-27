@@ -1,0 +1,67 @@
+---
+id: heartbound
+title: "Heartbound"
+platform: "PC"
+year: 2018
+songs: 
+  - id: animus
+    title: "Animus"
+    path: "Animus.brstmm"
+    type: break
+  - id: chicken_chicken
+    title: "Chicken Chicken"
+    path: "Chicken Chicken.brstm"
+    type: warning
+  - id: extra_avocado
+    title: "Extra Avocado"
+    path: "Extra Avocado.brstm"
+    type: result
+  - id: forest_shadows
+    title: "Forest Shadows"
+    path: "Forest Shadows.brstm"
+    type: battle
+  - id: good_times
+    title: "Good Times"
+    path: "Good Times.brstm"
+    type: result
+  - id: joe_regular_but_with_sunglasses
+    title: "Joe Regular but with Sunglasses"
+    path: "Joe Regular but with Sunglasses.brstm"
+    type: warning
+  - id: middle_management
+    title: "Middle Management"
+    path: "Middle Management.brstm"
+    type: betting
+  - id: office_post_office
+    title: "Office Post Office"
+    path: "Office Post Office.brstm"
+    type: break
+  - id: oscar
+    title: "OScar"
+    path: "OScar.brstm"
+    type: warning
+  - id: server_hop
+    title: "Server Hop"
+    path: "Server Hop.brstm"
+    type: betting
+  - id: bitter_shadows
+    title: "Bitter Shadows"
+    path: "Shadows Bitter.brstm"
+    type: warning
+  - id: space_lazers
+    title: "Space Lazers"
+    path: "Space Lazers.brstm"
+    type: betting
+  - id: terminated
+    title: "Terminated"
+    path: "Terminated.brstm"
+    type: warning
+  - id: the_fat_cat_swing
+    title: "The Fat Cat Swing"
+    path: "The Fat Cat Swing.brstm"
+    type: betting
+  - id: top_floor_tango
+    title: "Top Floor Tango"
+    path: "Top Floor Tango.brstm"
+    type: break
+...

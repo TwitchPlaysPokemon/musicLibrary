@@ -21,4 +21,12 @@ songs:
     title: "Tranquilité"
     path: "Tranquilité.mp3"
     type: break
+  - id: beacon
+    title: "Beacon"
+    path: "Beacon.mp3"
+    type: break
+  - id: orient
+    title: "Orient"
+    path: "Orient.mp3"
+    type: break
 ...

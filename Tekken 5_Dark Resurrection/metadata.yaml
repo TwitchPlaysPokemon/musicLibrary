@@ -1,0 +1,32 @@
+---
+id: tekken_5_dark_resurrection
+title: "Tekken 5: Dark Resurrection"
+series: tekken
+platform: ["Arcade", "PS3", "PSP"]
+year: 2006
+songs:
+  - id: red_hot_fist
+    title: "Red Hot Fist"
+    path: "tk15_tk5_redhotfist.lopus"
+    type: battle
+  - id: moonlit_wilderness
+    title: "Moonlit Wilderness"
+    path: "tk16_tk5_moonlit_wilderness.lopus"
+    type: battle
+  - id: poolside
+    title: "Poolside"
+    path: "tk17_tk5_poolside.lopus"
+    type: battle
+  - id: snow_castle
+    title: "Snow Castle"
+    path: "tk18_tk5dr_snowcastle.lopus"
+    type: betting
+  - id: into_nirvana
+    title: "Into Nirvana"
+    path: "tk19_tk5dr_into_nirvana.lopus"
+    type: battle
+  - id: resurrection_t5
+    title: "Resurrection"
+    path: "tk20_tk5dr_resurrection.lopus"
+    type: betting
+...

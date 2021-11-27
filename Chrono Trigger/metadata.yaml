@@ -2,7 +2,7 @@
 id: chrono_trigger
 title: "Chrono Trigger"
 series: chrono
-platform: "SNES"
+platform: Various
 year: 1995
 songs: 
   - id: a_meeting_with_destiny
@@ -65,6 +65,10 @@ songs:
     title: "Lavos's Theme"
     path: "205 Lavos' Theme.spc"
     type: warning
+  - id: battle_2_ct
+    title: "Battle 2 (unused)"
+    path: "211 Battle 2.spc"
+    type: warning
   - id: jolly_ol_spekkio
     title: "Jolly Ol' Spekkio"
     path: "214 Delightful Spekkio.spc"
@@ -73,8 +77,8 @@ songs:
     title: "Burn! Bobonga!"
     path: "221 Burn! Bobonga!.spc"
     type: warning
-  - id: creeping_through_the_sewers_no_water
-    title: "Creeping through the Sewers (No Water)"
+  - id: creeping_through_the_sewers
+    title: "Creeping through the Sewers"
     path: "216 Underground Sewer (No Water).spc"
     type: betting
   - id: strains_of_insanity
@@ -85,6 +89,10 @@ songs:
     title: "Magus Confronted"
     path: "224 Battle with Magus.spc"
     type: battle
+  - id: singing_mountain
+    title: "Singing Mountain (unused)"
+    path: "301 Singing Mountain.spc"
+    type: break
   - id: tyranno_lair
     title: "Tyranno Lair"
     path: "302 Tyran Castle.spc"

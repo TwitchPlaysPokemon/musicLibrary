@@ -1,0 +1,51 @@
+---
+id: tribal_hunter
+title: "Tribal Hunter"
+platform: "PC"
+year: 2021
+songs:
+  - id: calypso_carnival
+    title: "Calypso Carnival"
+    path: "Calypso Carnival.brstm"
+    type: betting
+  - id: defend_your_queen
+    title: "Defend your Queen!"
+    path: "Defend your Queen!.brstm"
+    type: warning
+  - id: forsaken_grounds
+    title: "Forsaken Grounds"
+    path: "Forsaken Grounds.brstm"
+    type: betting
+  - id: gooey_grotto
+    title: "Gooey Grotto"
+    path: "Gooey Grotto.brstm"
+    type: betting
+  - id: heavy_metal_dragon
+    title: "HEAVY METAL DRAGON"
+    path: "HEAVY METAL DRAGON.brstm"
+    type: battle
+  - id: her_ghostly_highness
+    title: "Her Ghostly Highness"
+    path: "Her Ghostly Highness.brstm"
+    type: battle
+  - id: hidden_secrets
+    title: "Hidden Secrets"
+    path: "Hidden Secrets.brstm"
+    type: betting
+  - id: jello_rave
+    title: "Jello Rave"
+    path: "Jello Rave.brstm"
+    type: battle
+  - id: shadow_of_the_valley
+    title: "Shadow of the Valley"
+    path: "Shadow of the Valley.brstm"
+    type: battle
+  - id: swashbuckled_serenade
+    title: "Swashbuckled Serenade"
+    path: "Swashbuckled Serenade.brstm"
+    type: battle
+  - id: welcome_to_the_hive
+    title: "Welcome to the Hive"
+    path: "Welcome to the Hive.brstm"
+    type: betting
+...

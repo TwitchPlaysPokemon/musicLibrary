@@ -1,0 +1,37 @@
+---
+id: panzer_paladin
+title: "Panzer Paladin"
+platform: ["PC", "Switch"]
+year: 2020
+songs: 
+  - id: canada
+    title: "Canada"
+    path: "Panzer_Canada_Loop.lopus"
+    type: betting
+  - id: china
+    title: "China"
+    path: "Panzer_China_Loop.lopus"
+    type: betting
+  - id: egypt
+    title: "Egypt"
+    path: "Panzer_Egypt_Loop.lopus"
+    type: betting
+  - id: japan
+    title: "Japan"
+    path: "Panzer_Japan_Loop.lopus"
+    type: betting
+  - id: russia
+    title: "Russia"
+    path: "Panzer_Russia_Loop.lopus"
+    type: betting
+  - id: panzer_paladin_theme
+    title: "Main Theme"
+    path: "Panzer_Titlescreen.lopus"
+    ends: 2:30
+    type: betting
+  - id: panzer_paladin_theme_rock
+    title: "Main Theme - Powerglove ver."
+    path: "Panzer_Titlescreen_Powerglove.lopus"
+    ends: 3:20
+    type: betting
+...

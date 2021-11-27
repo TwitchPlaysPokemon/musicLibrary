@@ -7,7 +7,7 @@ songs:
   - id: spookids_boss
     title: "Spookids - Boss"
     path: "Spookids - Boss.brstm"
-    type: battle
+    type: warning
   - id: spookids_game_over
     title: "Spookids - Game Over"
     path: "Spookids - Game Over.brstm"
@@ -20,4 +20,8 @@ songs:
     title: "Spookids - Town of Treats"
     path: "Spookids - Town of Treats.brstm"
     type: betting
+  - id: spookids_wicked_woods
+    title: "Spookids - Wicked Woods"
+    path: "Spookids - Wicked Woods.brstm"
+    type: warning
 ...

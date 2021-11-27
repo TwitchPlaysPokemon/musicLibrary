@@ -49,4 +49,8 @@ songs:
     title: "\"Battle Scene 2 - arrange -\" from FINAL FANTASY II"
     path: "B02_02.AT3"
     type: battle
+  - id: defeat_fanfare_from_dissidia_final_fantasy
+    title: "\"Defeat Fanfare\" from DISSIDIA FINAL FANTASY"
+    path: "LOSE_B.AT3"
+    type: result
 ...

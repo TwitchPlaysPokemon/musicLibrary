@@ -1,0 +1,23 @@
+---
+id: britney_s_dance_beat
+title: "Britney's Dance Beat"
+platform: "GBA"
+year: 2002
+songs: 
+  - id: bgm_06_britney
+    title: "BGM #06"
+    path: "06 BGM #06.minigsf"
+    type: result
+  - id: bgm_07_britney
+    title: "BGM #07"
+    path: "07 BGM #07.minigsf"
+    type: result
+  - id: bgm_08_britney
+    title: "BGM #08"
+    path: "08 BGM #08.minigsf"
+    type: result
+  - id: bgm_09_britney
+    title: "BGM #09"
+    path: "09 BGM #09.minigsf"
+    type: warning
+...

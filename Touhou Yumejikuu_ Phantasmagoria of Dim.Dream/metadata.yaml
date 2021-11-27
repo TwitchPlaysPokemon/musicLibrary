@@ -45,4 +45,16 @@ songs:
     title: "Maple Dream..."
     path: "18 Maple Dream.vgm"
     type: result
+  - id: phantasmagoria_unused
+    title: "Phantasmagoria (Unused)"
+    path: "Phantasmagoria.brstm"
+    type: betting
+  - id: starbow_dream_unused
+    title: "Starbow Dream (Unused)"
+    path: "Starbow Dream.brstm"
+    type: battle
+  - id: winds_of_time_unused
+    title: "Winds of Time (Unused)"
+    path: "Winds of Time.brstm"
+    type: battle
 ...

@@ -1,0 +1,41 @@
+---
+id: super_robot_wars_t
+title: "Super Robot Wars T"
+series: superrobotwars
+platform: ["PS4", "Switch"]
+year: 2019
+songs:
+  - id: yuzurenai_negai_rayearth_srwt
+    title: "Yuzurenai Negai"
+    path: "T_GGG_P.hca"
+    type: betting
+  - id: yuusha_oh_tanjou_gaogaigar_srwt
+    title: "Yuusha-Oh Tanjou!"
+    path: "T_GUG_P1.hca"
+    type: battle
+  - id: tank_cowboy_bebop_srwt
+    title: "Tank!"
+    path: "T_GUG_P2.hca"
+    ends: 1:32
+    type: betting
+  - id: trust_you_forever_g_gundam_srwt
+    title: "Trust You Forever"
+    path: "T_GZS_P1.hca"
+    type: betting
+  - id: gunxsword_srwt
+    title: "GUNXSWORD"
+    path: "T_GGG_1.hca"
+    type: warning
+  - id: final_fusion_gaogaigar_srwt
+    title: "Final Fusion"
+    path: "T_GUG_1.hca"
+    type: warning
+  - id: my_mind_is_clear_and_serent_though_my_palm_is_a_raging_fire_g_gundam_srwt
+    title: "My Mind Is Clear And Serene ~ Though My Palm Is As A Raging Fire"
+    path: "V_GZZ_P1.hca"
+    type: warning
+  - id: flaring_fighting_spirit_overcoming_a_detestable_fate_g_gundam_srwt
+    title: "Flaring Fighting Spirit ~ Overcoming A Detestable Fate"
+    path: "V_GZZ_0.hca"
+    type: battle
+...

@@ -1,3 +1,4 @@
+---
 id: sonic_the_hedgehog_2_sms_gg
 title: "Sonic the Hedgehog 2 [SMS/GG]"
 series: sonic
@@ -28,3 +29,8 @@ songs:
     title: "Ending (Master System)"
     path: "Ending (Master System).vgm"
     type: result
+  - id: unused_sonic2
+    title: "Unused"
+    path: "Sonic the Hedgehog 2 - 22 - Unused (Master System).vgm"
+    type: betting
+...

@@ -1,0 +1,45 @@
+---
+id: ancient_domains_of_mystery
+title: "Ancient Domains of Mystery"
+platform: "PC"
+year: 1994
+songs: 
+  - id: the_drakalor_oddisey
+    title: "The Drakalor Oddisey"
+    path: "The Drakalor Oddisey.brstm"
+    type: betting
+  - id: dark_monotony
+    title: "Dark Monotony"
+    path: "Dark Monotony.brstm"
+    type: betting
+  - id: the_end_of_the_struggle
+    title: "The End of the Struggle"
+    path: "The End of the Struggle.brstm"
+    type: break
+  - id: the_land_far_far_below
+    title: "The Land Far Far Below"
+    path: "The Land Far Far Below.mp3"
+    ends: 2:22
+    type: betting
+  - id: a_peaceful_path
+    title: "A Peaceful Path"
+    path: "A Peaceful Path.brstm"
+    type: break
+  - id: windy_halls
+    title: "Windy Halls"
+    path: "Windy Halls.brstm"
+    type: break
+  - id: peace_and_the_folk
+    title: "Peace and the Folk"
+    path: "Peace and the Folk.brstm"
+    type: break
+  - id: enter_ancardia
+    title: "Enter Ancardia"
+    path: "Enter Ancardia.brstm"
+    type: break
+  - id: khelavaster_s_prophecy
+    title: "Khelavaster's Prophecy"
+    path: "Khelavaster's Prophecy.brstm"
+    ends: 1:45
+    type: betting
+...

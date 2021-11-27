@@ -1,0 +1,28 @@
+---
+id: dongjeonssahgi_ebollusyeon
+title: "Dongjeonssahgi Ebollusyeon"
+# Non-romanji title: 동전쌓기 에볼루션
+platform: "Mobile"
+year: 2007
+songs: 
+  - id: clear_dong
+    title: "Clear"
+    path: "Clear.brstm"
+    type: result
+  - id: danger_dong
+    title: "Danger"
+    path: "Danger.brstm"
+    type: warning
+  - id: shop_dong
+    title: "Shop"
+    path: "Shop.brstm"
+    type: break
+  - id: stage1_dong
+    title: "Stage 1"
+    path: "Stage 1.brstm"
+    type: result
+  - id: stage3_dong
+    title: "Stage 3"
+    path: "Stage 3.brstm"
+    type: betting
+...
