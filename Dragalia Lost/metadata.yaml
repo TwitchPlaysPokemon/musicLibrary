@@ -36,4 +36,72 @@ songs:
     title: "Quest 1-5"
     path: "BGM_IN_QUEST_0001_05.awb"
     type: betting
+  - id: quest_3_1
+    title: "Quest 3-1"
+    path: "BGM_IN_QUEST_0003_01.awb"
+    type: betting
+  - id: together_we_ride_dragalia
+    title: "Together, We Ride!"
+    path: "BGM_CLB_01_IN_DRG_0001_01.awb"
+    type: warning
+  - id: dawn_song_off_vocals
+    title: "Dawn Song (Off-Vocals)"
+    path: "BGM_CLB_01_03_IN_BATTLE_0004_03.txtp"
+    type: battle
+  - id: boss_battle_mm2_dragalia
+    title: "Boss Battle (Mega Man 2)"
+    path: "BGM_EX_RUSH_01_IN_BATTLE_0001_01.awb"
+    type: battle
+  - id: main_theme_mm2_dragalia
+    title: "Main Theme (Mega Man 2)"
+    path: "BGM_EX_RUSH_01_IN_DRG_0001_01.awb"
+    type: result
+  - id: wily_s_castle_stage_1_dragalia
+    title: "Wily's Castle (Stage 1)"
+    path: "BGM_EX_RUSH_01_IN_QUEST_0001_01.awb"
+    type: betting
+  - id: stage_select_mm2_dragalia
+    title: "Stage Select (Mega Man 2)"
+    path: "BGM_EX_RUSH_01_OUT_0001_01.awb"
+    type: warning
+  - id: ryusei_toshi_off_vocals
+    title: "Ryusei Toshi (Off-Vocals)"
+    path: "BGM_IN_BATTLE_0001_01 (Off-Vocal).txtp"
+    type: betting
+  - id: crasher_off_vocals
+    title: "CRASHER (Off-Vocals)"
+    path: "BGM_IN_BATTLE_0002_01 (Off-Vocal).txtp"
+    type: battle
+  - id: drive_dragalia
+    title: "Drive"
+    path: "BGM_IN_BATTLE_0008_01 (Vocal).txtp"
+    type: betting
+  - id: aketara_off_vocals_dragalia
+    title: "Aketara (Off-Vocals)"
+    path: "BGM_IN_BATTLE_0009_01 (Off-Vocal).txtp"
+    type: betting
+  - id: force_your_way_off_vocals
+    title: "Force Your Way (Off-Vocals)"
+    path: "BGM_IN_RAID_0008_01.txtp"
+    type: battle
+  - id: terrestrial_paradise_off_vocals
+    title: "Terrestrial paradise (Off-Vocals)"
+    path: "BGM_IN_RAID_0011_02.txtp"
+    type: battle
+  - id: owaranai_sekaide
+    title: "Owaranai Sekaide"
+    path: "BGM_OUT_0001_01 (Vocal).txtp"
+    type: betting
+  - id: owaranai_sekaide_off_vocals
+    title: "Owaranai Sekaide (Off-Vocals)"
+    path: "BGM_OUT_0001_01 (Off-Vocal).txtp"
+    type: result
+  - id: bokurano_network
+    title: "Bokurano Network"
+    path: "BGM_OUT_0002_07 (Vocal).txtp"
+    type: betting
+  - id: a_n_n_i_v_e_r_s_a_r_y_off_vocals
+    title: "A n n i v e r s a r y (Off-Vocals)"
+    path: "BGM_OUT_0002_08.txtp"
+    type: result
 ...

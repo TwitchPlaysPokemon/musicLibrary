@@ -1,0 +1,224 @@
+---
+id: old_school_runescape
+title: "Old School RuneScape"
+platform: "PC"
+year: 2013
+songs: 
+#RuneScape 3 songs
+  - id: angel_of_death_rs3
+    title: "Angel of Death"
+    path: "Angel of Death.brstm"
+    type: betting
+  - id: army_of_darkness_rs3
+    title: "Army of Darkness"
+    path: "Army of Darkness.brstm"
+    type: betting
+  - id: confrontation_rs3
+    title: "Confrontation"
+    path: "Confrontation.brstm"
+    type: battle
+  - id: distant_land_rs3
+    title: "Distant Land"
+    path: "Distant Land.brstm"
+    type: break
+  - id: fishing_rs3
+    title: "Fishing"
+    path: "Fishing.brstm"
+    type: break
+  - id: godslayer_rs3
+    title: "Godslayer"
+    path: "Godslayer.brstm"
+    type: result
+  - id: harmony_rs3
+    title: "Harmony"
+    path: "Harmony.brstm"
+    type: break
+  - id: lava_falls_rs3
+    title: "Lava Falls"
+    path: "Lava Falls.brstm"
+    type: battle
+  - id: on_the_wing_rs3
+    title: "On the Wing"
+    path: "On the Wing.brstm"
+    type: break
+  - id: philipes_bane_rs3
+    title: "Philipe's Bane"
+    path: "Philipe's Bane.brstm"
+    type: battle
+  - id: return_of_lucien_rs3
+    title: "Return of Lucien"
+    path: "Return of Lucien.brstm"
+    type: warning
+  - id: sliskes_end_rs3
+    title: "Sliske's End"
+    path: "Sliske's End.brstm"
+    type: warning
+  - id: super_furry_animal_rs3
+    title: "Super Furry Animal"
+    path: "Super Furry Animal.brstm"
+    type: break
+  - id: temple_desecrated_rs3
+    title: "Temple Desecrated"
+    path: "Temple Desecrated.brstm"
+    type: battle
+  - id: the_evil_within_rs3
+    title: "The Evil Within"
+    path: "The Evil Within.brstm"
+    type: warning
+  - id: the_route_of_all_evil_rs3
+    title: "The Route of All Evil"
+    path: "The Route of All Evil.brstm"
+    type: betting
+  - id: undead_army_ii_rs3
+    title: "Undead Army II"
+    path: "Undead Army II.brstm"
+    type: betting
+  - id: wyrding_way_rs3
+    title: "Wyrding Way"
+    path: "Wyrding Way.brstm"
+    type: betting
+  - id: zaros_stirs_rs3
+    title: "Zaros Stirs"
+    path: "Zaros Stirs.brstm"
+    type: break
+  - id: all_s_fairy_in_love_and_war
+    title: "All's Fairy in Love and War"
+    path: "All's Fairy in Love and War.ogg"
+    ends: 2:40
+    type: betting
+  - id: baroque_ii
+    title: "Baroque II"
+    path: "Baroque II.ogg"
+    ends: 2:32
+    type: betting
+  - id: camelot
+    title: "Camelot"
+    path: "Camelot.ogg"
+    ends: 2:28
+    type: betting
+  - id: cavernous_mythology
+    title: "Cavernous Mythology"
+    path: "Cavernous Mythology.ogg"
+    type: warning
+  - id: charmin_farmin
+    title: "Charmin' Farmin'"
+    path: "Charmin' Farmin'.ogg"
+    type: betting
+  - id: deep_wildy
+    title: "Deep Wildy"
+    path: "Deep Wildy.ogg"
+    type: warning
+  - id: dogs_of_war
+    title: "Dogs of War"
+    path: "Dogs of War.ogg"
+    ends: 2:43
+    type: betting
+  - id: elven_mist
+    title: "Elven Mist"
+    path: "Elven Mist.ogg"
+    type: break
+  - id: etcetera
+    title: "Etcetera"
+    path: "Etcetera.ogg"
+    type: betting
+  - id: evil_bob_s_island
+    title: "Evil Bob's Island"
+    path: "Evil Bob's Island.ogg"
+    type: warning
+  - id: faithless
+    title: "Faithless"
+    path: "Faithless.ogg"
+    type: warning
+  - id: charmin_farmin
+    title: "Charmin' Farmin'"
+    path: "Charmin' Farmin'.ogg"
+    type: betting
+  - id: gnome_village_ii
+    title: "Gnome Village II"
+    path: "Gnome Village II.ogg"
+    type: break
+  - id: greatness
+    title: "Greatness"
+    path: "Greatness.ogg"
+    type: break
+  - id: malady
+    title: "Malady"
+    path: "Malady.ogg"
+    type: betting
+  - id: miracle_dance
+    title: "Miracle Dance"
+    path: "Miracle Dance.ogg"
+    ends: 3:00
+    type: betting
+  - id: miscellania
+    title: "Miscellania"
+    path: "Miscellania.ogg"
+    type: betting
+  - id: nightfall
+    title: "Nightfall"
+    path: "Nightfall.ogg"
+    type: betting
+  - id: norse_code
+    title: "Norse Code"
+    path: "Norse Code.ogg"
+    type: betting
+  - id: shine
+    title: "Shine"
+    path: "Shine.ogg"
+    ends: 2:35
+    type: betting
+  - id: shining
+    title: "Shining"
+    path: "Shining.ogg"
+    type: betting
+  - id: winter_funfare
+    title: "Winter Funfare"
+    path: "Winter Funfare.ogg"
+    ends: 3:16
+    type: betting
+  - id: attack_ii
+    title: "Attack II"
+    path: "Attack II.brstm"
+    type: warning
+  - id: darkness
+    title: "Darkness"
+    path: "Darkness.brstm"
+    type: betting
+  - id: elven_dahlia
+    title: "Elven Dhalia"
+    path: "Elven Dhalia.brstm"
+    type: break
+  - id: mellow
+    title: "Mellow"
+    path: "Mellow.brstm"
+    type: break
+  - id: newbie_melody_boss
+    title: "Newbie Melody (Boss)"
+    path: "Newbie Melody (Boss).brstm"
+    type: betting
+  - id: scrape_soft
+    title: "Scape Soft"
+    path: "Scape Soft.brstm"
+    type: break
+#Old School Runescape songs
+  - id: autumn_voyage
+    title: "Autumn Voyage"
+    path: "Autumn Voyage.ogg"
+    ends: 2:17
+    type: betting
+  - id: lightness
+    title: "Lightness"
+    path: "Lightness.ogg"
+    ends: 3:05
+    type: betting
+  - id: wander
+    title: "Wander"
+    path: "Wander.ogg"
+    ends: 2:53
+    type: betting
+  - id: yesteryear
+    title: "Yesteryear"
+    path: "Yesteryear.ogg"
+    ends: 2:40
+    type: betting
+...

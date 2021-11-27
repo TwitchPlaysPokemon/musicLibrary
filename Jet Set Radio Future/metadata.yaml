@@ -4,8 +4,36 @@ title: "Jet Set Radio Future"
 platform: "Xbox"
 year: 2002
 songs: 
+  - id: the_concept_of_love
+    title: "The Concept of Love"
+    path: "101 - Hideki Naganuma - The Concept of Love.adx"
+    type: betting
+  - id: fly_like_a_butterfly
+    title: "Fly Like a Butterfly"
+    path: "102 - Hideki Naganuma - Fly Like a Butterfly.adx"
+    type: betting
   - id: funky_dealer
     title: "FUNKY DEALER"
     path: "104 - Hideki Naganuma - Funky Dealer.adx"
     type: betting
+  - id: shape_da_future
+    title: "Shape Da Future"
+    path: "105 - Hideki Naganuma - Shape Da Future.adx"
+    type: betting
+  - id: teknopathetic
+    title: "Teknopathetic"
+    path: "108 - Hideki Naganuma - Teknopathetic.adx"
+    type: betting
+  - id: like_it_like_this_like_that
+    title: "Like It Like This Like That"
+    path: "110 - Hideki Naganuma - Like It Like This Like That.adx"
+    type: betting
+  - id: i_love_love_you_love_love_dimension_mix
+    title: "I Love Love You (Love Love Dimension Mix)"
+    path: "111 - Guitar Vader (remixed by Hideki Naganuma) - I Love Love You (Love Love Dimension Mix).adx"
+    type: betting
+  - id: sweet_soul_brother_b_b_rights_mix
+    title: "Sweet Soul Brother (B.B Rights Mix)"
+    path: "212 - Hideki Naganuma (remixed by B.B Rights) - Sweet Soul Brother (B.B Rights Mix).adx"
+    type: result
 ...

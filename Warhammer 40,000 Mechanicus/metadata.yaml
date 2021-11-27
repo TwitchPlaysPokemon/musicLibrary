@@ -8,4 +8,16 @@ songs:
     title: "Children of the Omnissiah"
     path: "Children of the Omnissiah.brstm"
     type: break
+  - id: caestus_metalican
+    title: "Caestus Metalican"
+    path: "Caestus Metalican (Looped).brstm"
+    type: break
+  - id: millennial_rage
+    title: "Millennial Rage"
+    path: "Millennial Rage (Looped).brstm"
+    type: battle
+  - id: noosphere
+    title: "Noosphere"
+    path: "10 Noosphere.mp3"
+    type: break
 ...

@@ -1,0 +1,16 @@
+---
+id: tekken_revolution
+platform: "PS3"
+title: "Tekken Revolution"
+series: tekken
+year: 2013
+songs:
+  - id: new_world_order
+    title: "New World Order"
+    path: "tk31_tkrv_new_world_order.lopus"
+    type: result
+  - id: no_easy_way_out
+    title: "No Easy Way Out"
+    path: "tk32_tkrv_no_easy_way_out.lopus"
+    type: battle
+...

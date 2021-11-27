@@ -1,0 +1,35 @@
+---
+id: lisa_the_painful
+title: "LISA: The Painful"
+platform: "PC"
+year: 2014
+songs: 
+  - id: dandy_boy
+    title: "Dandy Boy"
+    path: "Dandy Boy.brstm"
+    type: warning
+  - id: hair_club
+    title: "Hair Club"
+    path: "Hair Club.brstm"
+    type: battle
+  - id: all_hail_the_fishermen
+    title: "All Hail the Fishmen"
+    path: "All Hail the Fishmen.brstm"
+    type: betting
+  - id: pebble_man
+    title: "Pebble Man"
+    path: "Pebble Man.brstm"
+    type: battle
+  - id: summer_love
+    title: "Summer Love"
+    path: "Summer Love.brstm"
+    type: break
+  - id: shardy_s_shanty
+    title: "Shardy's Shanty"
+    path: "Shardy's Shanty.brstm"
+    type: betting
+  - id: work_harder
+    title: "Work Harder"
+    path: "Work Harder.brstm"
+    type: warning
+...

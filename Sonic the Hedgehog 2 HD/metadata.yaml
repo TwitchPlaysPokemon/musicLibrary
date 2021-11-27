@@ -4,26 +4,94 @@ title: "Sonic the Hedgehog 2 HD"
 series: sonicthehedgehog
 platform: "PC"
 is_fanwork: true
-year: Unreleased
-songs:
+year: UNRELEASED
+songs: 
   - id: aquatic_ruin_zone_alpha_ver
     title: "Aquatic Ruin Zone (Alpha ver.)"
     path: "Aquatic Ruin Zone (Alpha ver.).brstm"
-    type: betting
-  - id: chemical_plant_zone_alpha_ver
-    title: "Chemical Plant Zone (Alpha ver.)"
-    path: "Chemical Plant Zone (Alpha ver.).brstm"
-    type: betting
-  - id: hill_top_zone_act_1_alpha_ver
-    title: "Hill Top Zone, Act 1 (Alpha ver.)"
-    path: "Hill Top Zone, Act 1 (Alpha ver.).brstm"
-    type: betting
-  - id: mystic_cave_zone_alpha_ver
-    title: "Mystic Cave Zone (Alpha ver.)"
-    path: "Mystic Cave Zone (Alpha ver.).brstm"
     type: betting
   - id: boss_alpha_ver
     title: "Boss (Alpha ver.)"
     path: "Boss (Alpha ver.).brstm"
     type: warning
+  - id: boss_sth2hd
+    title: "Boss"
+    path: "Boss.brstm"
+    type: warning
+  - id: casino_night_zone_sth2hd
+    title: "Casino Night Zone"
+    path: "Casino Night Zone.brstm"
+    type: betting
+  - id: chemical_plant_zone_alpha_ver
+    title: "Chemical Plant Zone (Alpha ver.)"
+    path: "Chemical Plant Zone (Alpha ver.).brstm"
+    type: betting
+  - id: chemical_plant_zone_act_1_sth2hd
+    title: "Chemical Plant Zone, Act 1"
+    path: "Chemical Plant Zone, Act 1.brstm"
+    type: betting
+  - id: chemical_plant_zone_act_2_sth2hd
+    title: "Chemical Plant Zone, Act 2"
+    path: "Chemical Plant Zone, Act 2.brstm"
+    type: betting
+  - id: death_egg_sth2hd
+    title: "Death Egg"
+    path: "Death Egg.brstm"
+    type: betting
+  - id: emerald_hill_zone_2_player
+    title: "Emerald Hill Zone (2 Player)"
+    path: "Emerald Hill Zone (2 player).brstm"
+    type: result
+  - id: emerald_hill_zone_act_1_sth2hd
+    title: "Emerald Hill Zone, Act 1"
+    path: "Emerald Hill Zone, Act 1.brstm"
+    type: betting
+  - id: emerald_hill_zone_act_2_sth2hd
+    title: "Emerald Hill Zone, Act 2"
+    path: "Emerald Hill Zone, Act 2.brstm"
+    type: betting
+  - id: hill_top_zone_act_1_alpha_ver
+    title: "Hill Top Zone, Act 1 (Alpha ver.)"
+    path: "Hill Top Zone, Act 1 (Alpha ver.).brstm"
+    type: betting
+  - id: hill_top_zone_act_1_sth2hd
+    title: "Hill Top Zone, Act 1"
+    path: "Hill Top Zone, Act 1.brstm"
+    type: betting
+  - id: hill_top_zone_act_2_sth2hd
+    title: "Hill Top Zone, Act 2"
+    path: "Hill Top Zone, Act 2.brstm"
+    type: betting
+  - id: invincibility_sth2hd
+    title: "Invincibility"
+    path: "Invincibility.brstm"
+    type: warning
+  - id: metropolis_zone_sth2hd
+    title: "Metropolis Zone"
+    path: "Metropolis Zone.brstm"
+    type: betting
+  - id: mystic_cave_zone_alpha_ver
+    title: "Mystic Cave Zone (Alpha ver.)"
+    path: "Mystic Cave Zone (Alpha ver.).brstm"
+    type: betting
+  - id: options_sth2hd
+    title: "Options"
+    path: "Options.brstm"
+    type: result
+  - id: sky_chase_zone_sth2hd
+    title: "Sky Chase Zone"
+    path: "Sky Chase Zone.brstm"
+    type: betting
+  - id: special_stage_sth2hd
+    title: "Special Stage"
+    path: "Special Stage.brstm"
+    type: warning
+  - id: super_sonic_sth2hd
+    title: "Super Sonic"
+    path: "Super Sonic.brstm"
+    type: warning
+  - id: wing_fortress_zone_sth2hd
+    title: "Wing Fortress Zone"
+    path: "Wing Fortress Zone.brstm"
+    type: betting
 ...

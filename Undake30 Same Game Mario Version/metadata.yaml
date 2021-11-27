@@ -1,0 +1,24 @@
+﻿---
+id: undake30_same_game_daisakusen_mario_version
+title: "UNDAKE30 Same Game Daisakusen Mario Version"
+platform: "SFC"
+series: mario
+year: 1995
+songs:
+  - id: mario_mix_up
+    title: "Mario Mix-Up"
+    path: "02 Mario Mix-Up.spc"
+    type: result
+  - id: unused_song_1_undake
+    title: "Unused Song 1"
+    path: "90 Unused Song 1.spc"
+    type: warning
+  - id: unused_song_2_undake
+    title: "Unused Song 2"
+    path: "90 Unused Song 2.spc"
+    type: betting
+  - id: unused_song_3_undake
+    title: "Unused Song 3"
+    path: "90 Unused Song 3.spc"
+    type: break
+...

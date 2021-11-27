@@ -1,0 +1,31 @@
+---
+id: candies_n_curses
+title: "Candies 'n Curses"
+platform: "Mobile
+year: 2018
+songs: 
+  - id: battle_with_phantom_king
+    title: "Battle with Phantom King"
+    path: "Battle with Phantom King.brstm"
+    type: battle
+  - id: boss_battle_cnc
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: dinette_of_doom_stage_4
+    title: "Dinette of Doom (Stage 4)"
+    path: "Dinette of Doom (Stage 4).brstm"
+    type: betting
+  - id: halls_of_sorrow_stage_1
+    title: "Halls of Sorrow (Stage 1)"
+    path: "Halls of Sorrow (Stage 1).brstm"
+    type: betting
+  - id: botanical_ballroom_stage_5
+    title: "Botanical Ballroom (Stage 5)"
+    path: "Botanical Ballroom (Stage 5).brstm"
+    type: betting
+  - id: main_menu_cnc
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+...

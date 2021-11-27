@@ -1,0 +1,31 @@
+---
+id: 13_sentinels_aegis_rim
+title: "13 Sentinels: Aegis Rim"
+platform: "PS4"
+year: 2019
+songs: 
+  - id: valine
+    title: "VALINE"
+    path: "VALINE Orchestrated.brstm"
+    type: betting
+  - id: leucine
+    title: "LEUCINE"
+    path: "LEUCINE Orchestrated.brstm"
+    type: betting
+  - id: in_the_doldrums
+    title: "In the Doldrums"
+    path: "In the Doldrums.brstm"
+    type: break
+  - id: seaside_vacation
+    title: "Seaside Vacation"
+    path: "Seaside Vacation _Full Ost Version_.brstm"
+    type: break
+  - id: valine_victory_theme
+    title: "VALINE ~Victory Theme~"
+    path: "VALINE _Victory Theme_.brstm
+    type: result
+  - id: leucine_victory_theme
+    title: "LEUCINE ~Victory Theme~"
+    path: "LEUCINE _Victory Theme_.brstm"
+    type: result
+...

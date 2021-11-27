@@ -1,0 +1,60 @@
+---
+id: tekken_tag_tournament_2
+title: "Tekken Tag Tournament 2"
+series: tekken
+platform: ["Arcade", "PS3", "360", "Wii U"]
+year: 2012
+songs:
+  - id: abyss_of_time_wayang_kulit
+    title: "Abyss of Time (Wayang Kulit)"
+    path: "tk28_tt2_abyss_of_time.lopus"
+    type: betting
+  - id: plucking_tulips_tulip_festival
+    title: "Plucking Tulips (Tulip Festival)"
+    path: "tk29_tt2_plucking_tulips.lopus"
+    type: battle
+  - id: main_menu_ttt2
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: result
+  - id: mushroom_battle_1
+    title: "Mushroom Battle 1"
+    path: "Mushroom Battle 1 (Wii U Edition).brstms"
+    type: betting
+  - id: aim_to_win_character_select
+    title: "AIM TO WIN (Character Select)"
+    path: "AIM TO WIN (Character Select).brstm"
+    type: warning
+  - id: continue_ttt2
+    title: "Continue?"
+    path: "Continue_.brstm"
+    type: result
+  - id: fiji_paraiso_mix_eternal_paradise
+    title: "Fiji -Paraiso Mix- (Eternal Paradise)"
+    path: "Eternal Paradise.brstm"
+    type: betting
+  - id: jin_kazama_far_east_mix_hall_of_judgement
+    title: "Jin Kazama -Far East Mix- (Hall of Judgement)"
+    path: "Hall of Judgement.brstm"
+    type: battle
+  - id: fiji_paraiso_mix_eternal_paradise
+    title: "Fiji -Paraiso Mix- (Eternal Paradise)"
+    path: "Eternal Paradise.brstm"
+    type: betting
+  - id: fantastic_theater_odeum_of_illusions
+    title: "Fantastic Theater (Odeum of Illusions)"
+    path: "Odeum of Illusions.brstm"
+    type: battle
+  - id: it_s_not_a_tuna_bountiful_sea
+    title: "IT'S NOT A TUNA! (Bountiful Sea)"
+    path: "Bountiful Sea.brstm"
+    type: battle
+  - id: sadistic_xmas_arctic_dream
+    title: "Sadistic Xmas (Arctic Dream)"
+    path: "Arctic Dream.brstm"
+    type: battle
+  - id: customization_menu_ttt2
+    title: "Customization Menu"
+    path: "Customization Menu.brstm"
+    type: break
+...

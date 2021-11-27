@@ -1,11 +1,20 @@
 ---
 id: final_fantasy_vii_advent_children
 title: "Final Fantasy VII: Advent Children"
+series: finalfantasy
 platform: "Film"
 year: 2005
 songs: 
   - id: advent_one_winged_angel
     title: "Advent: One-Winged Angel"
     path: "ff11_ff7ac_sairin_katayokunotenshi.lopus"
+    type: battle
+  - id: those_who_fight_ac_version
+    title: "Those Who Fight (AC Version)"
+    path: "ff09_ff7ac_tatakaumonotachi_ac.lopus"
+    type: battle
+  - id: those_who_fight_further_ac_version
+    title: "Those Who Fight Further (AC Version)"
+    path: "ff10_ff7ac_saranitatakaumonotachi_ac.lopus"
     type: battle
 ...

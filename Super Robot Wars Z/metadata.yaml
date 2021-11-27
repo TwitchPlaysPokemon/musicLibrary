@@ -1,0 +1,62 @@
+---
+id: super_robot_wars_z
+title: "Super Robot Wars Z"
+series: superrobotwars
+year: 2008
+platform: "PS2"
+songs:
+  - id: mazinger_z_srwz
+    title: "Mazinger Z"
+    path: "001.psf2"
+    type: warning
+  - id: i_great_mazinger_srwz
+    title: "I Great Mazinger"
+    path: "001.psf2"
+    type: warning
+  - id: come_here_daitarn_3
+    title: "Come Here! Daitarn 3"
+    path: "016.psf2"
+    ends: 2:22
+    type: betting
+  - id: sure_promise
+    title: "Sure Promise"
+    path: "035.psf2"
+    type: warning
+  - id: the_great
+    title: "The Great"
+    path: "036.psf2"
+    type: warning
+  - id: king_gainer_over
+    title: "King Gainer Over"
+    path: "037.psf2"
+    ends: 2:50
+    type: betting
+  - id: rosary_of_grief
+    title: "Rosary of Grief"
+    path: "041.psf2"
+    type: betting
+  - id: days_srwz
+    title: "Days"
+    path: "044.psf2"
+    type: result
+  - id: sakura_srwz
+    title: "Sakura"
+    path: "045.psf2"
+    type: result
+  - id: storywriter_srwz
+    title: "Storywriter"
+    path: "046.psf2"
+    type: betting
+  - id: aquarion
+    title: "Aquarion"
+    path: "047.psf2"
+    type: betting
+  - id: go_tight
+    title: "Go Tight!"
+    path: "048.psf2"
+    type: betting
+  - id: heavens_gate
+    title: "Heavens Gate"
+    path: "049.psf2"
+    type: warning
+...

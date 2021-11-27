@@ -1,9 +1,9 @@
 ---
 id: eschatos
 title: "ESCHATOS"
-platform: ["360", "PC"]
+platform: "360, PC"
 year: 2011
-songs:
+songs: 
   - id: silver_lining
     title: "SILVER LINING"
     path: "stage1.xwb"
@@ -21,4 +21,8 @@ songs:
     title: "ACE’S BACK"
     path: "nametry.xwb"
     type: warning
+  - id: extermination
+    title: "EXTERMINATION"
+    path: "boss2.xwb"
+    type: battle
 ...

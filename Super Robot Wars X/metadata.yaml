@@ -1,0 +1,44 @@
+---
+id: super_robot_wars_x
+title: "Super Robot Wars X"
+series: superrobotwars
+platform: ["PS4", "Vita"]
+year: 2018
+songs:
+  - id: sorario_days_gurren_lagann
+    title: "Sorairo Days"
+    path: "X_GUW_P1.hca"
+    type: battle
+  - id: fly_dunbine_srwx
+    title: "Fly, Dunbine"
+    path: "Z3_DT3_P.hca"
+    type: betting
+  - id: forbidden_resistance_cross_ange
+    title: "Forbidden Resistance"
+    path: "X_WTR_4.hca"
+    type: battle
+  - id: o2_code_geass_srwx
+    title: "O2"
+    path: "X_GNR_1.hca"
+    type: betting
+  - id: step_mashin_hero_wataru_srwx
+    title: "STEP"
+    path: "X_F91_0.hca"
+    type: result
+  - id: blazing_gundam_reconguista_in_g_srwx
+    title: "Blazing"
+    path: "X_GRS_0.hca"
+    type: battle
+  - id: hagane_no_warriors_jam_project
+    title: "‎Hagane no Warriors"
+    path: "V_DEM_5.hca"
+    type: betting
+  - id: come_here_daitarn_3_srwx
+    title: "‎Come Here, Daitarn 3!"
+    path: "Z2_MUON.hca"
+    type: betting
+  - id: blue_water_nadia_srwx
+    title: "‎Blue Water"
+    path: "Z3_GUW_0.hca"
+    type: betting
+...

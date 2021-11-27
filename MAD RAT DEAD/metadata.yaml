@@ -1,0 +1,95 @@
+---
+id: mad_rat_dead
+title: "Mad Rat Dead"
+platform: ["PS4", "Switch"]
+year: 2020
+songs:
+  - id: breath_of_forest
+    title: "Breath of Forest"
+    path: "BGM001.txtp"
+    type: betting
+  - id: rat_s_dream
+    title: "RAT's Dream"
+    path: "BGM002.txtp"
+    type: betting
+  - id: mad_heart
+    title: "MAD HEART"
+    path: "BGM003.txtp"
+    type: betting
+  - id: mad_rat_heart
+    title: "MAD RAT HEART"
+    path: "BGM006.txtp"
+    type: betting
+  - id: chaource
+    title: "Chaource"
+    path: "BGM008.txtp"
+    type: result
+  - id: passion_in_blue
+    title: "Passion in Blue"
+    path: "BGM009.txtp"
+    type: betting
+  - id: emmental_catalepsy
+    title: "Emmental Catalepsy"
+    path: "BGM010.txtp"
+    type: battle
+  - id: cottage_house
+    title: "Cottage House"
+    path: "BGM011.txtp"
+    type: break
+  - id: plash_plop_gurgle
+    title: "plash, plop, gurgle"
+    path: "BGM012.txtp"
+    type: battle
+  - id: yellow_invitation
+    title: "Yellow invitation"
+    path: "BGM013.txtp"
+    type: betting
+  - id: heartless_being
+    title: "Heartless being"
+    path: "BGM014.txtp"
+    type: battle
+  - id: mad_rat_alive
+    title: "MAD RAT, ALIVE?"
+    path: "BGM015.txtp"
+    type: result
+  - id: mad_rat_die
+    title: "MAD RAT, DIE"
+    path: "BGM016.txtp"
+    type: warning
+  - id: mimolette
+    title: "Mimolette"
+    path: "BGM017.txtp"
+    type: betting
+  - id: stilton
+    title: "Stilton"
+    path: "BGM018.txtp"
+    type: betting
+  - id: cheesy_trap
+    title: "Cheesy Trap"
+    path: "BGM020.txtp"
+    type: warning
+  - id: underground_hug
+    title: "Underground Hug"
+    path: "BGM022.txtp"
+    type: result
+  - id: drain_mrd
+    title: "Drain"
+    path: "BGM025.txtp"
+    type: betting
+  - id: kind_of_hope
+    title: "Kind of Hope"
+    path: "BGM027.txtp"
+    type: battle
+  - id: bad_feeling
+    title: "Bad Feeling"
+    path: "BGM028.txtp"
+    type: warning
+  - id: electroqtie
+    title: "electroQtie"
+    path: "BGM030.txtp"
+    type: betting
+  - id: dark_fear
+    title: "Dark Fear"
+    path: "BGM036.txtp"
+    type: battle
+...

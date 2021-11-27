@@ -1,0 +1,16 @@
+---
+id: super_robot_wars_k
+title: "Super Robot Wars K"
+series: superrobotwars
+platform: "NDS"
+year: 2009
+songs:
+  - id: astral_burst
+    title: "Astral Burst"
+    path: "0029 - SEQ_BGM41.mini2sf"
+    type: battle
+  - id: king_gainer_over_srwk
+    title: "King Gainer Over!"
+    path: "0004 - SEQ_BGM04.mini2sf"
+    type: betting
+...

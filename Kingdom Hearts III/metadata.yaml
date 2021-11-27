@@ -20,8 +20,8 @@ songs:
     title: "Enter the Darkness"
     path: "BGM_kg_xiii_c_battle.mab"
     type: battle
-  - id: oscurita_di_xehanort
-    title: "Oscurità di Xehanort"
+  - id: forza_finale
+    title: "Forza Finale"
     path: "BGM_kg874_battle.mab"
     type: battle
   - id: shrouding_dark_cloud_kingdom_hearts_iii
@@ -32,8 +32,8 @@ songs:
     title: "Dearly Beloved"
     path: "BGM_title.mab"
     type: break
-  - id: key_to_all
-    title: "Key to All"
+  - id: dark_domination
+    title: "Dark Domination"
     path: "BGM_xeha_bat_boss_3.mab"
     type: battle
   - id: thermosphere_kingdom_hearts_iii
@@ -91,5 +91,37 @@ songs:
   - id: forze_dell_oscurita_kingdom_hearts_iii
     title: "Forze dell'Oscurita"
     path: "BGM_battle_rg10 (music_DLC-M11_ForzeDell_Master[Quad]).brstm"
+    type: battle
+  - id: flags_of_fury
+    title: "Flags of Fury"
+    path: "BGM_ca_battle.mab"
+    type: battle
+  - id: hearts_as_one
+    title: "Hearts As One"
+    path: "BGM_kg_BattleAreaD1.mab"
+    type: betting
+  - id: winds_of_fate
+    title: "Winds of Fate"
+    path: "BGM_ca_field_2.mab"
+    type: break
+  - id: nachtflugel	
+    title: "Nachtflügel"
+    path: "BGM_battle_yozora.mab"
+    type: battle
+  - id: scala_ad_caelum
+    title: "Scala ad Caelum"
+    path: "BGM_ew_field.mab"
+    type: break
+  - id: quadratum
+    title: "Quadratum"
+    path: "BGM_ss_field_holo.mab"
+    type: betting
+  - id: a_pirate_s_adventure
+    title: "A Pirate's Adventure"
+    path: "BGM_ca_field.mab"
+    type: betting
+  - id: edge_of_existence
+    title: "Edge of Existence"
+    path: "BGM_ew_battle.mab"
     type: battle
 ...

@@ -1,3 +1,4 @@
+---
 id: rhythm_heaven_megamix
 title: "Rhythm Heaven Megamix"
 platform: "3DS"
@@ -23,3 +24,230 @@ songs:
     title: "Museum"
     path: "Museum.brstm"
     type: betting
+  - id: title_theme_rhythm_heaven_megamix
+    title: "Title Theme"
+    path: "GROUP_WSD_TITLE_NEW_00000000.bcwav"
+    type: betting
+  - id: game_select_earth_world
+    title: "Game Select (Earth World)"
+    path: "GROUP_WSD_MAP_GROUND_COMMON_00000000.bcwav"
+    type: result
+  - id: catchy_tune
+    title: "Catchy Tune"
+    path: "step_short_final.wav"
+    type: result
+  - id: fruit_basket
+    title: "Fruit Basket"
+    path: "fruitsbasket_short_final.wav"
+    type: result
+  - id: gatekeepers_theme
+    title: "Gatekeepers' Theme"
+    path: "GROUP_WSD_KAIWA_GATE_00000000.bcwav"
+    type: warning
+  - id: first_contact
+    title: "First Contact"
+    path: "interpreter_short.wav"
+    ends: 1:29
+    type: betting
+  - id: tongue_lashing
+    title: "Tongue Lashing"
+    path: "ctr_chameleon_final.wav"
+    ends: 1:19
+    type: betting
+  - id: lumbearjack
+    title: "LumBEARjack"
+    path: "wood_cat_short_final.wav"
+    type: result
+  - id: super_samurai_slice
+    title: "Super Samurai Slice"
+    path: "iai_new_short_final.wav"
+    ends: 1:29
+    type: betting
+  - id: charging_chicken
+    title: "Charging Chicken"
+    path: "GROUP_WSD_CHICKEN_INTRO_00000000.bcwav"
+    type: result
+  - id: charging_chicken_go
+    title: "Charging Chicken Go!"
+    path: "GROUP_WSD_CHICKEN_RUN_00000000.bcwav"
+    type: warning
+  - id: game_select_tower
+    title: "Game Select (Tower)"
+    path: "GROUP_WSD_MAP_ROOM_LED_00000000.bcwav"
+    type: warning
+  - id: sumo_brothers
+    title: "Sumo Brothers"
+    path: "sumou_final.wav"
+    ends: 1:13
+    type: betting
+  - id: lush_mix_jp_tokimeki_no_story
+    title: "Lush Remix (JP) ~Tokimeki no Story~"
+    path: "remix_led_final.wav"
+    ends: 1:52
+    type: betting
+  - id: try_again_rhythm_heaven_megamix
+    title: "Try Again"
+    path: "GROUP_RESULT_YARINAOSI_00000000.bcwav"
+    type: break
+  - id: staff_credits_rhm
+    title: "Staff Credits...?"
+    path: "GROUP_WSD_LED_00000000.bcwav"
+    ends: 1:48
+    type: betting
+  - id: catchy_tune_2
+    title: "Catchy Tune 2"
+    path: "step_final.wav"
+    ends: 1:35
+    type: betting
+  - id: honeybee_remix_i_m_a_lady_now
+    title: "Honeybee Remix ~I'm a lady now~	"
+    path: "remix_yellow_final.wav"
+    ends: 1:44
+    type: betting
+  - id: fruit_basket_2
+    title: "Fruit Basket 2"
+    path: "fruitsbasket_t163.wav"
+    ends: 1:32
+    type: betting
+  - id: machine_remix_jp_sono_hitotsubu_no_okina_namida_ni_wa
+    title: "Machine Remix (JP) ~Sono Hitotsubu no Ōkina Namida ni wa~"
+    path: "remix_aqua_final.wav"
+    ends: 1:44
+    type: betting
+  - id: second_contact
+    title: "Second Contact"
+    path: "interpreter_t104.wav"
+    ends: 1:54
+    type: betting
+  - id: citrus_remix
+    title: "Citrus Remix"
+    path: "remix_01_pati.wav"
+    ends: 1:27
+    type: betting
+  - id: animal_acrobat
+    title: "Animal Acrobat"
+    path: "blanco_t130_90.wav"
+    type: warning
+  - id: donut_remix
+    title: "Donut Remix"
+    path: "remix_blue_final.wav"
+    ends: 1:30
+    type: betting
+  - id: lumbearjack_2
+    title: "LumBEARjack 2"
+    path: "wood_cat_final.wav"
+    ends: 1:49
+    type: betting
+  - id: barbershop_remix
+    title: "Barbershop Remix"
+    path: "remix_red_final.wav"
+    ends: 1:39
+    type: betting
+  - id: tangotronic_3000
+    title: "Tangotronic 3000"
+    path: "social.wav"
+    ends: 1:36
+    type: betting
+  - id: songbird_remix
+    title: "Songbird Remix"
+    path: "remix_purple_1110.wav"
+    ends: 1:27
+    type: betting
+  - id: ok_rhm
+    title: "OK"
+    path: "GROUP_RESULT_HEIBON_00000000.bcwav"
+    type: result
+  - id: staff_credits_jp_classmate
+    title: "Staff Credits (JP) ~Classmate~"
+    path: "GROUP_WSD_MED_JP_00000000.bcwav"
+    ends: 2:14
+    type: betting
+  - id: game_select_heaven_world
+    title: "Game Select (Heaven World)"
+    path: "GROUP_WSD_MAP_TENKU_00000000.bcwav"
+    type: betting
+  - id: pajama_party
+    title: "Pajama Party"
+    path: "pajamas_final.wav"
+    ends: 1:31
+    type: betting
+  - id: blue_bear_rhythm_heaven_megamix
+    title: "Blue Bear"
+    path: "bear_t105.wav"
+    ends: 1:38
+    type: betting
+  - id: kitties_rhm
+    title: "Kitties!"
+    path: "panpan.wav"
+    ends: 1:32
+    type: betting
+  - id: game_select_tibby_s_mom
+    title: "Game Select (Tibby's Mom)"
+    path: "GROUP_WSD_MAP_ROOM_CASTLE_LAST_00000000.bcwav"
+    type: warning
+  - id: jungle_gymnast
+    title: "Jungle Gymnast"
+    path: "blanco_ar_t137_44.wav"
+    ends: 1:12
+    type: betting
+  - id: left_hand_remix
+    title: "Left-Hand Remix"
+    path: "remix_m_left_t125.wav"
+    ends: 2:56
+    type: betting
+  - id: super_samurai_slice_2
+    title: "Super Samurai Slice 2"
+    path: "iai_new_ar t142.wav"
+    ends: 1:31
+    type: betting
+  - id: right_hand_remix_jp
+    title: "Right-Hand Remix (JP)"
+    path: "remix_m_right_t142.wav"
+    ends: 2:28
+    type: betting
+  - id: karate_man_senior
+    title: "Karate Man Senior"
+    path: "karate_father_final.wav"
+    type: warning
+  - id: final_remix_jp_rhm
+    title: "Final Remix (JP)"
+    path: "remix_m_last_t180.wav"
+    ends: 3:32
+    type: betting
+  - id: superb_rhythm_heaven_megamix
+    title: "Superb"
+    path: "GROUP_RESULT_HI_LEVEL_00000000.bcwav"
+    type: result
+  - id: game_records_rhm
+    title: "Game Records"
+    path: "GROUP_WSD_TED_00000000.bcwav"
+    type: betting
+  - id: game_select_tibby_s_mom_complete
+    title: "Game Select (Tibby's Mom Complete)"
+    path: "GROUP_WSD_MAP_ROOM_CASTLE_00000000.bcwav"
+    type: betting
+  - id: museum_rhm
+    title: "Museum"
+    path: "GROUP_WSD_MUSEUM_00000000.bcwav"
+    type: break
+  - id: badges_memories
+    title: "Badges/Memories"
+    path: "GROUP_WSD_MEMORIAL_00000000.bcwav"
+    type: break
+  - id: feed_goat
+    title: "Feed Goat"
+    path: "GROUP_WSD_YAGI_NORMAL_00000000.bcwav"
+    type: break
+  - id: streetpass_terrace
+    title: "StreetPass Terrace"
+    path: "GROUP_WSD_TERRACE_00000000.bcwav"
+    type: break
+  - id: challenges_rhm
+    title: "Challenges"
+    path: "GROUP_WSD_MAP_TREASURE_1_00000000.bcwav"
+    type: betting
+  - id: challenge_train
+    title: "Challenge Train"
+    path: "GROUP_WSD_MAP_TREASURE_2_00000000.bcwav"
+    type: betting
+...

@@ -9,9 +9,69 @@ songs:
     title: "Main Theme"
     path: "bgm_title02.logg"
     type: result
+  - id: road_pm
+    title: "Road"
+    path: "bgm_road.logg"
+    type: betting
+  - id: evolution_pm
+    title: "Evolution"
+    path: "bgm_shinka.logg"
+    type: warning
+  - id: encounter_normal_trainer
+    title: "Encounter! (Normal Trainer)"
+    path: "bgm_eye01.logg"
+    type: warning
+  - id: encounter_child_trainer
+    title: "Encounter! (Child Trainer)"
+    path: "bgm_eye02.logg"
+    type: warning
+  - id: encounter_male_trainer
+    title: "Encounter! (Male Trainer)"
+    path: "bgm_eye03.logg"
+    type: warning
+  - id: encounter_female_trainer
+    title: "Encounter! (Female Trainer)"
+    path: "bgm_eye04.logg"
+    type: warning
+  - id: encounter_maniac
+    title: "Encounter! (Maniac)"
+    path: "bgm_eye05.logg"
+    type: warning
+  - id: encounter_enemy_normal
+    title: "Encounter! (Enemy - Normal)"
+    path: "bgm_eye06.logg"
+    type: warning
+  - id: encounter_enemy_boss
+    title: "Encounter! (Enemy - Boss)"
+    path: "bgm_eye07.logg"
+    type: warning
+  - id: encounter_cheerful
+    title: "Encounter! (Cheerful)"
+    path: "bgm_eye08.logg"
+    type: warning
+  - id: encounter_serious
+    title: "Encounter! (Serious)"
+    path: "bgm_eye09.logg"
+    type: warning
+  - id: encounter_team_break
+    title: "Encounter! (Team Break)"
+    path: "bgm_eye10.logg"
+    type: warning
   - id: encounter_blue
     title: "Encounter! (Blue)"
-    path: "Encounter! Blue Pokémon Masters - Reach for the Top.brstm"
+    path: "bgm_eye11.logg"
+    type: warning
+  - id: encounter_team_skull
+    title: "Encounter! (Team Skull)"
+    path: "bgm_eye12.logg"
+    type: warning
+  - id: encounter_team_rocket
+    title: "Encounter! (Team Rocket)"
+    path: "bgm_eye13.logg"
+    type: warning
+  - id: team_rocket_event
+    title: "Team Rocket (Event)"
+    path: "bgm_field_rocket.logg"
     type: warning
   - id: encounter_cynthia
     title: "Encounter! (Cynthia)"
@@ -21,259 +81,484 @@ songs:
     title: "Poké Mart"
     path: "PokéMart Pokémon Masters Soundtrack.brstm"
     type: betting
+  - id: professor_bellis
+    title: "Professor Bellis"
+    path: "bgm_field_hinagiku.logg"
+    type: betting
+  - id: scout_gacha_pull
+    title: "Scout (Gatcha Pull)"
+    path: "bgm_scout.logg"
+    type: warning
+  - id: pokemon_center_pokemon_masters
+    title: "Pokémon Center"
+    path: "bgm_pokecen.logg"
+    type: betting
+  - id: pokemon_center_anniversary_pokemon_masters
+    title: "Pokémon Center (Anniversary Ver.)"
+    path: "bgm_field_home_anniversary.logg"
+    type: result
+  - id: pokemon_center_christmas_pokemon_masters
+    title: "Pokémon Center (Christmas Ver.)"
+    path: "bgm_field_home_christmas.logg"
+    type: betting
+  - id: pokemon_center_new_year_pokemon_masters
+    title: "Pokémon Center (New Year Ver.)"
+    path: "bgm_field_home_gasho.logg"
+    type: betting
   - id: the_ideal_formula
     title: "The Ideal Formula"
-    path: "Explore - The Ideal Formula (Unova Route 10).brstm"
+    path: "bgm_field_route10.logg"
+    type: betting
+  - id: victory_road_kanto_pm
+    title: "Victory Road (Kanto)"
+    path: "bgm_field_champion_01.logg"
+    type: warning
+  - id: victory_road_johto_pm
+    title: "Victory Road (Johto)"
+    path: "bgm_field_champion_02.logg"
+    type: warning
+  - id: victory_road_unova_pm
+    title: "Victory Road (Unova)"
+    path: "bgm_field_champion_03.logg"
     type: betting
   - id: an_unwavering_heart_pokemon_masters
     title: "An Unwavering Heart"
-    path: "An Unwavering Heart (Pokemon Masters).brstm"
+    path: "bgm_event_yurenuomoi.logg"
     type: break
-    #tried to alphabetize the battle themes. I know the old ones and the new ones
-    #kinda clash, but if it's too much let me know and I can try to make things more
-    #uniform for the next update
+  - id: farewell_pokemon_masters
+    title: "Farewell"
+    path: "bgm_event_sayonara.logg"
+    type: break
+  - id: trainer_defeated_pokemas1
+    title: "Trainer Defeated! Ver. 1"
+    path: "bgm_result01.logg"
+    type: result
+  - id: trainer_defeated_pokemas2
+    title: "Trainer Defeated! Ver. 2"
+    path: "bgm_result02.logg"
+    type: result
+  - id: trainer_defeated_pokemas3
+    title: "Trainer Defeated! Ver. 3"
+    path: "bgm_result03.logg"
+    type: result
+  - id: quest_clear_pokemas
+    title: "Quest Clear!"
+    path: "bgm_quest_clear.logg"
+    type: result
+  - id: quest_clear_n_version
+    title: "Quest Clear! (N Version)"
+    path: "bgm_quest_clear_n.logg"
+    type: result
+  - id: hall_of_fame_pm
+    title: "Hall of Fame"
+    path: "bgm_field_halloffame.logg"
+    type: result
+  - id: oak_s_laboratory_pm
+    title: "Oak's Laboratory"
+    path: "bgm_field_oak.logg"
+    type: result
+  - id: jigglypuff_s_song_pm
+    title: "Jigglypuff's Song"
+    path: "bgm_field_purin.logg"
+    type: break
+  - id: jigglypuff_s_song_rock_ver_pm
+    title: "Jigglypuff's Song (Rock Ver.)"
+    path: "bgm_field_purin_rock.logg"
+    type: result
   - id: battle_agatha_pokemon_masters
-    title: "Battle! Agatha"
-    path: "Battle! Agatha (Pokemon Masters).brstm"
+    title: "Battle! (Agatha)"
+    path: "bgm_battle_big4_k_kikuko.logg"
     type: battle
   - id: battle_alder_pokemon_masters
-    title: "Battle! Alder"
-    path: "Battle! Alder (Pokemon Masters).brstm"
+    title: "Battle! (Alder)"
+    path: "bgm_battle_adeku.logg"
     type: battle
   - id: battle_alola_elite_four
     title: "Battle! (Alola Elite Four)"
-    path: "Battle! Alola Elite Four - Pokémon Masters.brstm"
+    path: "bgm_battle_big4_a.logg"
+    type: battle
+  - id: battle_alola_guardian_diety
+    title: "Battle! (Alola Guardian Diety)"
+    path: "bgm_battle_legend_kapu.logg"
     type: battle
   - id: battle_alola_island_kahuna
     title: "Battle! (Alola Island Kahuna)"
-    path: "Battle! Alola Island Kahuna - Pokémon Masters.brstm"
+    path: "bgm_battle_shimakq.logg"
     type: battle
   - id: battle_alola_trial_captain_pokemon_masters
-    title: "Battle! Alola Trial Captain"
-    path: "Battle! Alola Trial Captain (Pokemon Masters).brstm"
+    title: "Battle! (Alola Trial Captain)"
+    path: "bgm_battle_gl_a.logg"
     type: battle
   - id: battle_archie_pokemon_masters
-    title: "Battle! Archie"
-    path: "Battle! Archie (Pokemon Masters).brstm"
+    title: "Battle! (Archie)"
+    path: "bgm_battle_aogiri.logg"
     type: battle
   - id: battle_azelf_pokemon_masters
-    title: "Battle! Azelf"
-    path: "Battle! Azelf (Pokemon Masters).brstm"
+    title: "Battle! (Azelf)"
+    path: "bgm_battle_legend_agnom.logg"
+    type: battle
+  - id: battle_barry
+    title: "Battle! (Barry)"
+    path: "bgm_battle_jun.logg"
     type: battle
   - id: battle_battle_villa_boss_pokemon_masters
-    title: "Battle! Battle Villa Boss"
-    path: "Battle! Battle Villa Boss (Pokemon Masters).brstm"
+    title: "Battle! (Battle Villa Boss)"
+    path: "bgm_villa_battle_boss.logg"
     type: battle
   - id: battle_battle_villa_trainer_pokemon_masters
-    title: "Battle! Battle Villa Trainer"
-    path: "Battle! Battle Villa Trainer (Pokemon Masters).brstm"
+    title: "Battle! (Battle Villa Trainer)"
+    path: "bgm_villa_battle.logg"
     type: battle
   - id: battle_bianca_pokemon_masters
-    title: "Battle! Bianca"
+    title: "Battle! (Bianca)"
     path: "Battle! Bianca (Pokemon Masters).brstm"
     type: battle
   - id: battle_boss_trainer_pokemon_masters
-    title: "Battle! Boss Trainer"
-    path: "Battle! Boss Trainer (Pokemon Masters).brstm"
+    title: "Battle! (Boss Trainer)"
+    path: "bgm_battle02.logg"
     type: battle
   - id: battle_bruno_johto_challenge_pokemon_masters
-    title: "Battle! Bruno (Johto Challenge)"
-    path: "Battle! Bruno (Johto Ver) (Pokemon Masters).brstm"
+    title: "Battle! (Bruno - Johto Challenge)"
+    path: "bgm_battle_big4_j_shiba.logg"
     type: battle
   - id: battle_bruno_kanto_challenge_pokemon_masters
-    title: "Battle! Bruno (Kanto Challenge)"
-    path: "Battle! Bruno (Kanto Ver) (Pokemon Masters).brstm"
+    title: "Battle! (Bruno - Kanto Challenge)"
+    path: "bgm_battle_big4_k_shiba.logg"
     type: battle
   - id: battle_caitlin_pokemon_masters
-    title: "Battle! Caitlin"
-    path: "Battle! Caitlin (Pokemon Masters).brstm"
+    title: "Battle! (Caitlin)"
+    path: "bgm_battle_big4_i_cattleya.logg"
     type: battle
   - id: battle_champion_blue
     title: "Battle! (Champion Blue)"
-    path: "Battle! Champion Blue Pokémon Masters - Reach for the Top.brstm"
-    type: battle
-  - id: battle_cobalion_pokemon_masters
-    title: "Battle! Cobalion"
-    path: "Battle! Cobalion (Pokemon Masters).brstm"
+    path: "bgm_battle_green.logg"
     type: battle
   - id: battle_cresselia_pokemon_masters
-    title: "Battle! Cresselia"
-    path: "Battle! Cresselia (Pokemon Masters).brstm"
+    title: "Battle! (Cresselia)"
+    path: "bgm_battle_legend_cresselia.logg"
     type: battle
   - id: battle_cynthia_pokemon_masters
-    title: "Battle! Cynthia"
-    path: "Battle! Cynthia (Pokemon Masters).brstm"
+    title: "Battle! (Cynthia)"
+    path: "bgm_battle_shirona.logg"
+    type: battle
+  - id: battle_cyrus_pokemon_masters
+    title: "Battle! (Cyrus)"
+    path: "bgm_battle_akagi.logg"
+    type: battle
+  - id: battle_deck_the_halls
+    title: "Battle! (Deck The Halls)"
+    path: "bgm_battle_christmas.logg"
+    type: battle
+  - id: battle_diantha_pokemon_masters
+    title: "Battle! (Diantha)"
+    path: "bgm_battle_carnet.logg"
+    type: battle
+  - id: battle_enemy_pokemon_masters
+    title: "Battle! (Enemy)"
+    path: "bgm_battle_enemy01.logg"
+    type: battle
+  - id: battle_enemy_boss_pokemon_masters
+    title: "Battle! (Enemy Boss)"
+    path: "bgm_battle_enemy02.logg"
     type: battle
   - id: battle_entei_pokemon_masters
-    title: "Battle! Entei"
-    path: "Battle! Entei (Pokemon Masters).brstm"
+    title: "Battle! (Entei)"
+    path: "bgm_battle_legend_entei.logg"
     type: battle
   - id: battle_galar_gym_leader_pokemon_masters
-    title: "Battle! Galar Gym Leader"
-    path: "Battle! Galar Gym Leader (Pokemon Masters).brstm"
+    title: "Battle! (Galar Gym Leader)"
+    path: "bgm_battle_gl_g.logg"
+    type: battle
+  - id: battle_galar_gym_leader_pokemon_masters
+    title: "Battle! (Galar Trainer)"
+    path: "bgm_battle_trainer_g.logg"
     type: battle
   - id: battle_ghetsis_pokemon_masters
-    title: "Battle! Ghetsis"
-    path: "Battle! Ghetsis (Pokemon Masters).brstm"
+    title: "Battle! (Ghetsis)"
+    path: "bgm_battle_ghetsis.logg"
     type: battle
   - id: battle_giovanni_pokemon_masters
-    title: "Battle! Giovanni"
-    path: "Battle! Giovanni (Pokemon Masters).brstm"
+    title: "Battle! (Giovanni)"
+    path: "bgm_battle_sakaki.logg"
     type: battle
   - id: battle_gladion_pokemon_masters
-    title: "Battle! Gladion"
-    path: "Battle! Gladion (Pokemon Masters).brstm"
+    title: "Battle! (Gladion)"
+    path: "bgm_battle_gladion.logg"
+    type: battle
+  - id: battle_gladion_short_pokemon_masters
+    title: "Battle! (Gladion - Short Ver.)"
+    path: "bgm_battle_gladion_short.logg"
     type: battle
   - id: battle_grimsley_pokemon_masters
-    title: "Battle! Grimsley"
-    path: "Battle! Grimsley (Pokemon Masters).brstm"
+    title: "Battle! (Grimsley)"
+    path: "bgm_battle_big4_i_gima.logg"
     type: battle
   - id: battle_guzma_pokemon_masters
-    title: "Battle! Guzma"
-    path: "Battle! Guzma (Pokemon Masters).brstm"
+    title: "Battle! (Guzma)"
+    path: "bgm_battle_guzuma.logg"
+    type: battle
+  - id: battle_halloween_pokemon_masters
+    title: "Battle! (Halloween)"
+    path: "bgm_battle_halloween.logg"
+    type: battle
+  - id: battle_hau_pokemon_masters
+    title: "Battle! (Hau)"
+    path: "bgm_battle_hau.logg"
     type: battle
   - id: battle_ho_oh_pokemon_masters
-    title: "Battle! Ho-Oh"
-    path: "Battle! Ho-Oh (Pokemon Masters).brstm"
+    title: "Battle! (Ho-Oh)"
+    path: "bgm_battle_legend_hooh.logg"
+    type: battle
+  - id: battle_hoenn_frontier_brain
+    title: "Battle! (Hoenn Frontier Brain)"
+    path: "bgm_battle_fb_h.logg"
     type: battle
   - id: battle_hoenn_elite_four
     title: "Battle! (Hoenn Elite Four)"
-    path: "Battle! Hoenn Elite Four - Pokémon Masters.brstm"
+    path: "bgm_battle_big4_h.logg"
     type: battle
   - id: battle_hoenn_gym_leader
     title: "Battle! (Hoenn Gym Leader)"
-    path: "Battle! Hoenn Gym Leader - Pokémon Masters.brstm"
+    path: "bgm_battle_gl_h.logg"
+    type: battle
+  - id: battle_hoenn_superancient_pokemon
+    title: "Battle! (Hoenn Super-Ancient Pokémon)"
+    path: "bgm_battle_legend_superancient.logg"
+    type: battle
+  - id: battle_iris_pokemon_masters
+    title: "Battle! (Iris)"
+    path: "bgm_battle_iris.logg"
+    type: battle
+  - id: battle_johto_sinnoh_frontier_brain
+    title: "Battle! (Johto/Sinnoh Frontier Brain)"
+    path: "bgm_battle_fb_js.logg"
     type: battle
   - id: battle_johto_gym_leader
     title: "Battle! (Johto Gym Leader)"
-    path: "Pokémon Masters OST Johto Gym Leader Battle Music.brstm"
+    path: "bgm_battle_gl_j.logg"
+    type: battle
+  - id: battle_kalos_elite_four
+    title: "Battle! (Kalos Elite Four)"
+    path: "bgm_battle_big4_c.logg"
+    type: battle
+  - id: battle_kalos_gym_leader
+    title: "Battle! (Kalos Gym Leader)"
+    path: "bgm_battle_gl_c.logg"
+    type: battle
+  - id: battle_kanto_gym_leader
+    title: "Battle! (Kanto Gym Leader)"
+    path: "bgm_battle_gl_k.logg"
+    type: battle
+  - id: battle_kanto_legendary_birds
+    title: "Battle! (Kanto Legendary Birds)"
+    path: "bgm_battle_legend_kanto.logg"
     type: battle
   - id: battle_karen_pokemon_masters
-    title: "Battle! Karen"
-    path: "Battle! Karen (Pokemon Masters).brstm"
+    title: "Battle! (Karen)"
+    path: "bgm_battle_big4_j_karin.logg"
     type: battle
   - id: battle_koga_pokemon_masters
-    title: "Battle! Koga"
-    path: "Battle! Koga (Pokemon Masters).brstm"
+    title: "Battle! (Koga)"
+    path: "bgm_battle_big4_j_kyo.logg"
     type: battle
   - id: battle_lance_johto_challenge_pokemon_masters
-    title: "Battle! Lance (Johto Challenge)"
-    path: "Battle! Lance (Champion Ver) (Pokemon Masters).brstm"
+    title: "Battle! (Lance - Johto Challenge)"
+    path: "bgm_battle_wataru.logg"
     type: battle
   - id: battle_lance_kanto_challenge_pokemon_masters
-    title: "Battle! Lance (Kanto Challenge)"
-    path: "Battle! Lance (Elite Four Ver) (Pokemon Masters).brstm"
+    title: "Battle! (Lance - Kanto Challenge)"
+    path: "bgm_battle_big4_k_wataru.logg"
+    type: battle
+  - id: battle_latios_latias
+    title: "Battle! (Latios/Latias)"
+    path: "bgm_battle_legend_lati.logg"
     type: battle
   - id: battle_lear
     title: "Battle! (Lear)"
     path: "Battle! Lear Pokémon Masters Soundtrack.brstm"
-    type: battle
+    type: battle 
   - id: battle_leon_pokemon_masters
-    title: "Battle! Leon"
-    path: "Battle! Leon (Pokemon Masters).brstm"
+    title: "Battle! (Leon)"
+    path: "bgm_battle_dande.logg"
     type: battle
   - id: battle_lillie_pokemon_masters
-    title: "Battle! Lillie"
-    path: "Battle! Lillie (Pokemon Masters).brstm"
+    title: "Battle! (Lillie)"
+    path: "bgm_battle_lillie.logg"
+    type: battle
+  - id: battle_lillie_short_pokemon_masters
+    title: "Battle! (Lillie - Short Ver.)"
+    path: "bgm_battle_lillie_short.logg"
     type: battle
   - id: battle_lisia_pokemon_masters
-    title: "Battle! Lisia"
-    path: "Battle! Lisia (Pokemon Masters).brstm"
+    title: "Battle! (Lisia)"
+    path: "bgm_battle_lucia.logg"
     type: battle
   - id: battle_lorelai_pokemon_masters
-    title: "Battle! Lorelai"
-    path: "Battle! Lorelei (Pokemon Masters).brstm"
+    title: "Battle! (Lorelai)"
+    path: "bgm_battle_big4_k_kanna.logg"
     type: battle
   - id: battle_lusamine_pokemon_masters
-    title: "Battle! Lusamine"
-    path: "Battle! Lusamine (Pokemon Masters).brstm"
+    title: "Battle! (Lusamine)"
+    path: "bgm_battle_lusamine.logg"
+    type: battle
+  - id: battle_lusamine_short_pokemon_masters
+    title: "Battle! (Lusamine - Short Ver.)"
+    path: "bgm_battle_lusamine_short.logg"
     type: battle
   - id: battle_lysandre_pokemon_masters
-    title: "Battle! Lysandre"
-    path: "Battle! Lysandre (Pokemon Masters).brstm"
+    title: "Battle! (Lysandre)"
+    path: "bgm_battle_fleurdelis.logg"
     type: battle
   - id: battle_marnie_pokemon_masters
-    title: "Battle! Marnie"
-    path: "Battle! Marnie (Pokemon Masters).brstm"
+    title: "Battle! (Marnie)"
+    path: "bgm_battle_mary.logg"
     type: battle
   - id: battle_marshal_pokemon_masters
-    title: "Battle! Marshal"
-    path: "Battle! Marshal (Pokemon Masters).brstm"
+    title: "Battle! (Marshal)"
+    path: "bgm_battle_big4_i_renbu.logg"
+    type: battle
+  - id: battle_masked_royal_pokemon_masters
+    title: "Battle! (Masked Royal)"
+    path: "bgm_battle_royalmask.logg"
     type: battle
   - id: battle_maxie_pokemon_masters
-    title: "Battle! Maxie"
-    path: "Battle! Maxie (Pokemon Masters).brstm"
+    title: "Battle! (Maxie)"
+    path: "bgm_battle_matsubusa.logg"
+    type: battle
+  - id: battle_maxie_short_pokemon_masters
+    title: "Battle! (Maxie - Short Ver.)"
+    path: "bgm_battle_matsubusa_short.logg"
     type: battle
   - id: battle_n_pokemon_masters
-    title: "Battle! N"
-    path: "Battle! N (Pokemon Masters).brstm"
+    title: "Battle! (N)"
+    path: "bgm_battle_n.logg"
+    type: battle
+  - id: battle_new_year_pokemon_masters
+    title: "Battle! (New Year)"
+    path: "bgm_battle_newyear.logg"
+    type: battle
+  - id: battle_paulo_pokemon_masters
+    title: "Battle! (Paulo)"
+    path: "bgm_battle_rival.logg"
+    type: battle
+  - id: battle_piers_pokemon_masters
+    title: "Battle! (Piers)"
+    path: "bgm_battle_nezz.logg"
+    type: battle
+  - id: battle_player_character_pokemon_masters
+    title: "Battle! (Player Character)"
+    path: "bgm_battle_player.logg"
     type: battle
   - id: battle_plumeria_pokemon_masters
-    title: "Battle! Plumeria"
-    path: "Battle! Plumeria (Pokemon Masters).brstm"
+    title: "Battle! (Plumeria)"
+    path: "bgm_battle_plumeria.logg"
     type: battle
   - id: battle_professor_kukui_pokemon_masters
-    title: "Battle! Professor Kukui"
-    path: "Battle! Professor Kukui (Pokemon Masters).brstm"
+    title: "Battle! (Professor Kukui)"
+    path: "bgm_battle_kukui.logg"
+    type: battle
+  - id: battle_professor_sycamore_pokemon_masters
+    title: "Battle! (Professor Sycamore)"
+    path: "bgm_battle_platane.logg"
+    type: battle
+  - id: battle_ranking_pokemon_masters
+    title: "Battle! (Ranking)"
+    path: "bgm_battle_ranking.logg"
     type: battle
   - id: battle_rainbow_rocket_giovanni_mewtwo_pokemon_masters
     title: "Battle! (Rainbow Rocket Giovanni & Mewtwo)"
-    path: "Battle! (Rainbow Rocket Giovanni & Mewtwo) Pokémon Masters.brstm"
+    path: "bgm_battle_legend_pm01.logg"
     type: battle
   - id: battle_red_pokemon_masters
-    title: "Battle! Red (One Year Anniversary Mix)"
+    title: "Battle! (Red - One Year Anniversary Mix)"
     path: "Battle! Red (Pokemon Masters).brstm"
     type: battle
-  - id: battle_rival_barry
-    title: "Battle! (Rival Barry)"
-    path: "Battle! (Rival Barry) Pokémon Masters Soundtrack.brstm"
+  - id: battle_regis
+    title: "Battle! (Regirock/Regice/Registeel)"
+    path: "bgm_battle_legend_regi.logg"
     type: battle
   - id: battle_shauntal_pokemon_masters
-    title: "Battle! Shauntal"
-    path: "Battle! Shauntal (Pokemon Masters).brstm"
+    title: "Battle! (Shauntal)"
+    path: "bgm_battle_big4_i_shikimi.logg"
     type: battle
   - id: battle_silver_pokemon_masters
-    title: "Battle! Silver"
-    path: "Battle! Silver (Pokemon Masters).brstm"
+    title: "Battle! (Silver)"
+    path: "bgm_battle_silver.logg"
     type: battle
   - id: battle_sinnoh_elite_four
     title: "Battle! (Sinnoh Elite Four)"
-    path: "Battle! Sinnoh Elite Four - Pokémon Masters.brstm"
+    path: "bgm_battle_big4_s.logg"
+    type: battle
+  - id: battle_sinnoh_gym_leader
+    title: "Battle! (Sinnoh Gym Leader)"
+    path: "bgm_battle_gl_s.logg"
+    type: battle
+  - id: battle_solgaleo_lunala
+    title: "Battle! (Solgaleo/Lunala)"
+    path: "bgm_battle_legend_sm.logg"
     type: battle
   - id: battle_steven_pokemon_masters
-    title: "Battle! Steven"
-    path: "Battle! Steven (Pokemon Masters).brstm"
+    title: "Battle! (Steven)"
+    path: "bgm_battle_daigo.logg"
+    type: battle
+  - id: battle_steven_cynthia_lance_pokemon_masters
+    title: "Battle! (Steven, Cynthia, & Lance)"
+    path: "bgm_battle_wds.logg"
+    type: battle
+  - id: battle_subway_boss_pokemon_masters
+    title: "Battle! (Subway Boss)"
+    path: "bgm_battle_subwaymaster.logg"
+    type: battle
+  - id: battle_summer_pokemon_masters
+    title: "Battle! (Summer)"
+    path: "bgm_battle_summer.logg"
     type: battle
   - id: battle_team_break_pokemon_masters
-    title: "Battle! Team Break"
-    path: "Battle! Team Break (Pokemon Masters).brstm"
+    title: "Battle! (Team Break)"
+    path: "bgm_battle_break01.logg"
+    type: battle
+  - id: battle_team_break_boss_pokemon_masters
+    title: "Battle! (Team Break Boss)"
+    path: "bgm_battle_break02.logg"
     type: battle
   - id: battle_team_rocket_pokemon_masters
-    title: "Battle! Team Rocket"
-    path: "Battle! Team Rocket (Pokemon Masters).brstm"
+    title: "Battle! (Team Rocket)"
+    path: "bgm_battle_rocket.logg"
+    type: battle
+  - id: battle_trainer_pokemon_masters
+    title: "Battle! (Trainer)"
+    path: "bgm_battle01.logg"
     type: battle
   - id: battle_unova_elite_four
     title: "Battle! (Unova Elite Four)"
-    path: "Battle! Unova Elite Four - Pokémon Masters.brstm"
+    path: "bgm_battle_big4_i.logg"
     type: battle
   - id: battle_unova_gym_leader
     title: "Battle! (Unova Gym Leader)"
-    path: "Battle! Unova Gym Leader - Pokémon Masters Music.brstm"
+    path: "bgm_battle_gl_i.logg"
+    type: battle
+  - id: battle_unova_legendary
+    title: "Battle! (Unova Legendary)"
+    path: "bgm_battle_legend_unova.logg"
+    type: battle
+  - id: battle_unova_trainer
+    title: "Battle! (Unova Trainer)"
+    path: "bgm_battle_trainer_i.logg"
     type: battle
   - id: battle_wallace_pokemon_masters
-    title: "Battle! Wallace"
-    path: "Battle! Wallace (Pokemon Masters).brstm"
+    title: "Battle! (Wallace)"
+    path: "bgm_battle_mikuri.logg"
     type: battle
   - id: battle_wally_pokemon_masters
-    title: "Battle! Wally"
-    path: "Battle! Wally (Pokemon Masters).brstm"
+    title: "Battle! (Wally)"
+    path: "bgm_battle_mitsuru.logg"
     type: battle
   - id: battle_will_pokemon_masters
-    title: "Battle! Will"
-    path: "Battle! Will (Pokemon Masters).brstm"
+    title: "Battle! (Will)"
+    path: "bgm_battle_big4_j_itsuki.logg"
     type: battle
   - id: battle_zinnia_pokemon_masters
-    title: "Battle! Zinnia"
-    path: "Battle! Zinnia (Pokemon Masters).brstm"
+    title: "Battle! (Zinnia)"
+    path: "bgm_battle_higana.logg"
     type: battle
 ...

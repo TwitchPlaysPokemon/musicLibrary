@@ -5,7 +5,7 @@ series: sonic
 platform: ["360", "PS3"]
 year: 2006
 songs:
-  - id: boss_egg_cerberus_ehh_genesis
+  - id: boss_egg_cerberus_egg_genesis
     title: "[BOSS] EGG-CERBERUS & EGG-GENESIS"
     path: "Boss - Egg-Cerebus & Egg Genesis.brstm"
     type: battle
@@ -118,5 +118,9 @@ songs:
     title: "END OF THE WORLD"
     path: "End of the World - All.brstm"
     ends: 2:59
+    type: betting
+  - id: dreams_of_an_absolution_silver_the_hedgehog_theme_instrumental
+    title: "DREAMS OF AN ABSOLUTION ~THEME OF SILVER THE HEDGEHOG~ (INSTRUMENTAL)"
+    path: "301b - Mariko Nanba, Arr. Tomoya Ohtani - DREAMS OF AN ABSOLUTION ~THEME OF SILVER THE HEDGEHOG~ (INSTRUMENTAL).xma"
     type: betting
 ...
