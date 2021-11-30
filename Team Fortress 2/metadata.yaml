@@ -3,7 +3,7 @@ id: team_fortress_2
 title: "Team Fortress 2"
 platform: ["PC", "360", "PS3"]
 year: 2007
-songs: 
+songs:
   - id: main_theme_tf2
     title: "Main Theme"
     path: "Main Theme.brstm"
@@ -68,6 +68,7 @@ songs:
   - id: it_hates_me_so_much
     title: "It Hates Me So Much"
     path: "gamestartup23.brstm"
+    ends: 2:10
     type: betting
   - id: mercenary_park
     title: "Mercenary Park"

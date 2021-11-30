@@ -3,9 +3,10 @@ id: rock_of_ages_3_make_break
 title: "Rock of Ages 3: Make & Break"
 platform: "Various"
 year: 2020
-songs: 
+songs:
   - id: humpty_dumpty
     title: "Humpty Dumpty"
     path: "Humpty Dumpty.mp3"
+    ends: 2:10
     type: betting
 ...
