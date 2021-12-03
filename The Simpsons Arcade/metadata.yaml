@@ -5,31 +5,31 @@ series: thesimpsons
 platform: "Arcade"
 year: 1991
 songs:
-  - id: downtown_springfield
+  - id: downtown_springfield_simpsons_arcade
     title: "Downtown Springfield"
     path: "05 Downtown Springfield.vgm"
     type: betting
-  - id: wrestler
+  - id: wrestler_simpsons_arcade
     title: "Wrestler"
     path: "06 Wrestler.vgm"
     type: warning
-  - id: krustyland_amusement_park
+  - id: krustyland_amusement_park_simpsons_arcade
     title: "Krustyland Amusement Park"
     path: "12 Krustyland Amusement Park.vgm"
     type: betting
-  - id: continue_simpsons
+  - id: continue_simpsons_arcade
     title: "Continue?"
     path: "21 Continue.vgm"
     type: warning
-  - id: bonus_stage_2_simpsons
+  - id: bonus_stage_2_simpsons_arcade
     title: "Bonus Stage 2"
     path: "30 Bonus Stage 2.vgm"
     type: warning
-  - id: kabuki_master
+  - id: kabuki_master_simpsons_arcade
     title: "Kabuki Master"
     path: "35 Kabuki Master.vgm"
     type: battle
-  - id: ending_staff_roll_simpsons
+  - id: ending_staff_roll_simpsons_arcade
     title: "Ending ~ Staff Roll"
     path: "41 Ending ~ Staff Roll.vgm"
     type: result
