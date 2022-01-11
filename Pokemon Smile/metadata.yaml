@@ -23,46 +23,46 @@ songs:
     type: break
   - id: stage_1_smile
     title: "Stage 1"
-    path: "Bgm_Stage01.fsbm"
+    path: "Bgm_Stage01.fsb"
     type: betting
   - id: stage_2_smile
     title: "Stage 2"
-    path: "Bgm_Stage02.fsbm"
+    path: "Bgm_Stage02.fsb"
     type: result
   - id: stage_3_smile
     title: "Stage 3"
-    path: "Bgm_Stage03.fsbm"
+    path: "Bgm_Stage03.fsb"
     type: result
   - id: stage_4_smile
     title: "Stage 4"
-    path: "Bgm_Stage04.fsbm"
+    path: "Bgm_Stage04.fsb"
     type: warning
   - id: stage_5_smile
     title: "Stage 5"
-    path: "Bgm_Stage05.fsbm"
+    path: "Bgm_Stage05.fsb"
     type: betting
   - id: stage_6_smile
     title: "Stage 6"
-    path: "Bgm_Stage06.fsbm"
+    path: "Bgm_Stage06.fsb"
     type: betting
   - id: stage_7_smile
     title: "Stage 7"
-    path: "Bgm_Stage07.fsbm"
+    path: "Bgm_Stage07.fsb"
     type: result
   - id: boss_1_smile
     title: "Boss 1"
-    path: "Bgm_Boss01.fsbm"
+    path: "Bgm_Boss01.fsb"
     type: result
   - id: boss_2_smile
     title: "Boss 2"
-    path: "Bgm_Boss02.fsbm"
+    path: "Bgm_Boss02.fsb"
     type: result
   - id: boss_3_smile
     title: "Boss 3"
-    path: "Bgm_Boss03.fsbm"
+    path: "Bgm_Boss03.fsb"
     type: result
   - id: headgear_smile
     title: "Headgear"
-    path: "Bgm_Headgear.fsbm"
+    path: "Bgm_Headgear.fsb"
     type: result
 ...
