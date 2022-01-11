@@ -3,7 +3,7 @@ id: dragalia_lost
 title: "Dragalia Lost"
 platform: "Mobile"
 year: 2018
-songs: 
+songs:
   - id: fire_emblem_main_theme_dragalia_lost
     title: "Fire Emblem Main Theme"
     path: "BGM_CLB_01_OUT_0006_01 (Vocal).brstm"
@@ -40,10 +40,6 @@ songs:
     title: "Quest 3-1"
     path: "BGM_IN_QUEST_0003_01.awb"
     type: betting
-  - id: together_we_ride_dragalia
-    title: "Together, We Ride!"
-    path: "BGM_CLB_01_IN_DRG_0001_01.awb"
-    type: warning
   - id: dawn_song_off_vocals
     title: "Dawn Song (Off-Vocals)"
     path: "BGM_CLB_01_03_IN_BATTLE_0004_03.txtp"

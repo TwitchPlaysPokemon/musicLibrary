@@ -4,7 +4,7 @@ title: "Hyrule Warriors: Age of Calamity"
 series: zelda
 platform: "Switch"
 year: 2020
-songs: 
+songs:
   - id: overlooking_hyrule_prelude_to_calamity_map
     title: "Overlooking Hyrule - Prelude to Calamity (Map)"
     path: "BGM_0001.kns"
@@ -12,7 +12,7 @@ songs:
   - id: overlooking_hyrule_amid_the_calamity_map
     title: "Overlooking Hyrule - Amid the Calamity (Map)"
     path: "BGM_0005.kns"
-    type: battle
+    type: betting
   - id: overlooking_hyrule_after_the_calamity_map
     title: "Overlooking Hyrule - After the Calamity (Map)"
     path: "BGM_0008.kns"
