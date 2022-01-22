@@ -3,7 +3,7 @@ id: undertale
 title: "UNDERTALE"
 platform: "Various"
 year: 2015
-songs: 
+songs:
   - id: another_medium
     title: "Another Medium"
     path: "Another Medium.brstm"
@@ -70,7 +70,7 @@ songs:
   - id: stronger_monsters
     title: "Stronger Monsters"
     path: "Stronger Monsters.brstm"
-    type: warning
+    type: battle
   - id: thundersnail
     title: "ThunderSnail"
     path: "ThunderSnail.brstm"
