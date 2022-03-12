@@ -169,13 +169,13 @@ songs:
     title: "Sound Studio"
     path: "cyber_shop.logg"
     type: result
-  - id: berdley
-    title: "Berdley"
-    path: "berdley_theme.logg"
+  - id: berdly
+    title: "Berdly"
+    path: "berdly_theme.logg"
     type: warning
   - id: smart_race
     title: "Smart Race"
-    path: "berdley_chase.logg"
+    path: "berdly_chase.logg"
     type: battle
   - id: welcome_to_the_city_deltarune
     title: "WELCOME TO THE CITY"
