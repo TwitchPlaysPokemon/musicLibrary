@@ -4,141 +4,101 @@ title: "Super Monkey Ball Banana Mania"
 series: supermonkeyball
 platform: "Various"
 year: 2021
-songs: 
-  - id: monkey_baseball_banana_mania
-    title: "Monkey Baseball"
-    path: "baseball.hca"
-    type: betting
-  - id: monkey_billiards_banana_mania
-    title: "Monkey Billiards"
-    path: "bili.hca"
-    type: betting
-  - id: monkey_golf_banana_mania
-    title: "Monkey Golf"
-    path: "golf.hca"
-    type: betting
-  - id: monkey_shot_advanced_stage_banana_mania
-    title: "Monkey Shot ~ Advanced Stage"
-    path: "shot_advan.hca"
-    type: betting
-  - id: monkey_soccer_banana_mania
-    title: "Monkey Soccer"
-    path: "futsal.hca"
-    type: betting
-  - id: monkey_target_banana_mania
-    title: "Monkey Target"
-    path: "target.hca"
-    type: betting
-  - id: jungle_banana_mania
-    title: "Jungle"
-    path: "st1.hca"
-    type: betting
-  - id: underwater_banana_mania
-    title: "Underwater"
-    path: "st2.hca"
-    type: betting
-  - id: monkey_mall_banana_mania
-    title: "Monkey Mall"
-    path: "st3.hca"
-    type: betting
-  - id: sky_high_banana_mania
-    title: "Sky High"
-    path: "st4.hca"
-    type: betting
-  - id: outer_space_banana_mania
-    title: "Outer Space"
-    path: "st5.hca"
-    type: betting
-  - id: desert_banana_mania
-    title: "Desert"
-    path: "st6.hca"
-    type: betting
-  - id: arctic_banana_mania
-    title: "Arctic"
-    path: "st7.hca"
-    type: betting
-  - id: storm_banana_mania
-    title: "Storm"
-    path: "st8.hca"
-    type: battle
-  - id: master_banana_mania
-    title: "Master"
-    path: "stm.hca"
-    type: battle
-  - id: world_1_jungle_island_banana_mania
-    title: "World 1 ~ Jungle Island"
-    path: "w01_jungle.hca"
-    type: betting
-  - id: world_2_volcano_banana_mania
-    title: "World 2 ~ Volcano"
-    path: "w02_cave.hca"
-    type: betting
-  - id: world_3_under_the_ocean_banana_mania
-    title: "World 3 ~ Under the Ocean"
-    path: "w03_water.hca"
-    type: betting
-  - id: world_4_inside_the_whale_banana_mania
-    title: "World 4 ~ Inside the Whale"
-    path: "w04_kujira.hca"
-    type: betting
-  - id: world_5_amusement_park_banana_mania
-    title: "World 5 ~ Amusement Park"
-    path: "w05_yuenchi.hca"
-    type: betting
-  - id: world_6_boiling_pot_banana_mania
-    title: "World 6 ~ Boiling Pot"
-    path: "w06_nabe.hca"
-    type: betting
-  - id: world_7_bubbly_washing_machine_banana_mania
-    title: "World 7 ~ Bubbly Washing Machine"
-    path: "w07_sentaku.hca"
-    type: betting
-  - id: world_8_clock_tower_banana_mania
-    title: "World 8 ~ Clock Tower"
-    path: "w08_clocktower.hca"
-    type: betting
-  - id: world_9_space_colony_banana_mania
-    title: "World 9 ~ Space Colony"
-    path: "w09_colony.hca"
-    type: betting
-  - id: world_10_dr_bad_boons_base_banana_mania
-    title: "World 10 ~ Dr. Bad-Boon's Base"
-    path: "w10_sf.hca"
-    type: betting
-  - id: hello_banana_jp
-    title: "Hello Banana (JP)"
+songs:
+  - id: main_theme_hello_banana_jp
+    title: "Main Theme: Hello BANANA!! (Japanese)"
     path: "adv.hca"
     ends: 2:36
     type: betting
-  - id: hello_banana_en
-    title: "Hello Banana (EN)"
+  - id: main_theme_hello_banana_en
+    title: "Main Theme: Hello BANANA!! (English)"
     path: "adv_e.hca"
     ends: 2:36
     type: betting
-  - id: stage_select_banana_mania
-    title: "Stage Select"
+  - id: main_theme_hello_banana_inst
+    title: "Main Theme: Hello BANANA!! (Instrumental)"
     path: "sel_def.hca"
+    type: result
+  - id: jungle_stage_2021
+    title: "JUNGLE STAGE 2021 (SMB1 Jungle Stage Theme)"
+    path: "st1.hca"
     type: betting
-  - id: monkey_dogfight_banana_mania
-    title: "Monkey Dogfight"
-    path: "dog.hca"
+  - id: underwater_stage_2021
+    title: "UNDERWATER STAGE 2021 (SMB1 Water Stage Theme)"
+    path: "st2.hca"
+    type: betting
+  - id: dinner_stage_2021
+    title: "DINNER STAGE 2021 (SMB1 Night Stage Theme)"
+    path: "st3.hca"
+    type: betting
+  - id: castle_stage_2021
+    title: "CASTLE STAGE 2021 (SMB1 Sky Stage Theme)"
+    path: "st4.hca"
+    type: betting
+  - id: colony_tour_2021
+    title: "COLONY TOUR 2021 (SMB1 Space Stage Theme)"
+    path: "st5.hca"
+    type: betting
+  - id: desert_tour_2021
+    title: "DESERT TOUR 2021 (SMB1 Sand Stage Theme)"
+    path: "st6.hca"
+    type: betting
+  - id: glacier_tour_2021
+    title: "GLACIER TOUR 2021 (SMB1 Ice Stage Theme)"
+    path: "st7.hca"
+    type: betting
+  - id: dive_into_storm_2021
+    title: "DIVE INTO STORM 2021 (SMB1 Storm Stage Theme)"
+    path: "st8.hca"
     type: battle
-  - id: monkey_race_beginner_track_banana_mania
-    title: "Monkey Race ~ Beginner Track"
-    path: "race.hca"
-    type: betting
-  - id: monkey_boat_banana_mania
-    title: "Monkey Boat"
-    path: "boat.hca"
-    type: betting
-  - id: monkey_shot_beginner_stage_banana_mania
-    title: "Monkey Shot ~ Beginner Stage"
-    path: "shot.hca"
-    type: betting
-  - id: monkey_shot_boss_stage_banana_mania
-    title: "Monkey Shot ~ Boss Stage"
-    path: "shot_boss.hca"
+  - id: roll_and_roll
+    title: "Roll & Roll (SMB1 Master Stage Theme)"
+    path: "stm.hca"
     type: battle
+  - id: wonder_jungle
+    title: "Wonder Jungle (SMB2 Jungle Island Theme)"
+    path: "w01_jungle.hca"
+    type: betting
+  - id: volcanic_crater_2021
+    title: "VOLCANIC CRATER 2021 (SMB2 Volcanic Magma Theme)"
+    path: "w02_cave.hca"
+    type: betting
+  - id: deep_sea_2021
+    title: "DEEP SEA 2021 (SMB2 Under the Ocean Theme)"
+    path: "w03_water.hca"
+    type: betting
+  - id: when_a_person_dreams
+    title: "When a person dreams (SMB2 Inside a Whale Theme)"
+    path: "w04_kujira.hca"
+    type: betting
+  - id: skip_forward_with_me
+    title: "Skip Forward With Me (SMB2 Amusement Park Theme)"
+    path: "w05_yuenchi.hca"
+    type: betting
+  - id: fat_boy_2021
+    title: "FAT BOY 2021 (SMB2 Boiling Pot Theme)"
+    path: "w06_nabe.hca"
+    type: betting
+  - id: attack_is_the_best_form_of_defense
+    title: "Attack is the best form of defense (SMB2 Bubbly Washing Machine Theme)"
+    path: "w07_sentaku.hca"
+    type: betting
+  - id: a_clockwork_land
+    title: "A Clockwork Land (SMB2 Clock Tower Factory Theme)"
+    path: "w08_clocktower.hca"
+    type: betting
+  - id: star_on_the_black_2021
+    title: "STAR ON THE BLACK 2021 (SMB2 Space Colony Theme)"
+    path: "w09_colony.hca"
+    type: betting
+  - id: mutator_2021
+    title: "MUTATOR 2021 (SMB2 Dr. Bad-Boon's Base Theme)"
+    path: "w10_sf.hca"
+    type: betting
+  - id: super_spin_2021
+    title: "SUPER SPIN 2021 (SMB2 Bonus Stage Theme)"
+    path: "bonus.hca"
+    type: warning
   - id: world_clear_banana_mania
     title: "World Clear"
     path: "jingle_worldclear.hca"
@@ -151,16 +111,56 @@ songs:
     title: "Too Bad!"
     path: "jingle_zannen.hca"
     type: result
-  - id: monkey_fight_banana_mania
-    title: "Monkey Fight"
+  - id: the_baseball_star
+    title: "The Baseball Star (Monkey Baseball Theme)"
+    path: "baseball.hca"
+    type: betting
+  - id: let_s_chill
+    title: "Let's chill (Monkey Billiards Theme)"
+    path: "bili.hca"
+    type: break
+  - id: shiny_fairway
+    title: "Shiny Fairway (Monkey Golf Theme)"
+    path: "golf.hca"
+    type: break
+  - id: smb_league_2021
+    title: "SMB LEAGUE 2021 (Monkey Soccer Theme)"
+    path: "futsal.hca"
+    type: betting
+  - id: practice_makes_perfect
+    title: "Practice makes perfect (Monkey Target Theme)"
+    path: "target.hca"
+    type: betting
+  - id: small_war_2021
+    title: "SMALL WAR 2021 (Monkey Dogfight Theme)"
+    path: "dog.hca"
+    type: battle
+  - id: monkey_s_highway
+    title: "Monkey's Highway (Monkey Race Theme)"
+    path: "race.hca"
+    type: betting
+  - id: monkey_boat_banana_mania
+    title: "Monkey Boat" #this didn't get an official OST release and therefore has no title
+    path: "boat.hca"
+    type: betting
+  - id: all_is_well_that_ends_well
+    title: "All is well that ends well (Monkey Shot Theme)"
+    path: "shot.hca"
+    type: result
+#  - id: monkey_shot_advanced_theme_banana_mania
+#    title: "Monkey Shot Advanced Theme"
+#    path: "shot_advan.hca"
+#    type: betting
+  - id: s_t_f_2021
+    title: "S.T.F. 2021 (Monkey Shot Boss Theme)"
+    path: "shot_boss.hca"
+    type: battle
+  - id: kingdom_2021
+    title: "KINGDOM 2021 (Monkey Fight Theme)"
     path: "fight.hca"
     type: battle
-  - id: monkey_bowling_banana_mania
-    title: "Monkey Bowling"
+  - id: funky_techno_2021
+    title: "FUNKY TECHNO 2021 (Monkey Bowling Theme)"
     path: "bowling.hca"
     type: betting
-  - id: bonus_stage_banana_mania
-    title: "Bonus Stage"
-    path: "bonus.hca"
-    type: warning
 ...

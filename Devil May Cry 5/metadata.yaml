@@ -3,7 +3,7 @@ id: devil_may_cry_5
 title: "Devil May Cry 5"
 platform: ["PC", "PS4", "XB1"]
 year: 2019
-songs: 
+songs:
   - id: any_special_orders_nico_s_shop
     title: "Any Special Orders? (Nico's Shop)"
     path: "1.23 Any Special Orders (Nico's Shop).mp3"
@@ -28,4 +28,8 @@ songs:
     title: "Subhuman"
     path: "Subhuman (Game Edit).brstm"
     type: betting
+  - id: bury_the_light
+    title: "Bury the Light"
+    path: "Bury the Light (Looped).brstm"
+    type: battle
 ...
