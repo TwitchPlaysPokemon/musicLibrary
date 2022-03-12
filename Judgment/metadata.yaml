@@ -4,7 +4,7 @@ title: "Judgment"
 series: yakuza
 platform: ["PS4", "PS5", "XSX", "Stadia"]
 year: 2018
-songs: 
+songs:
   - id: door_judgment
     title: "DOOR"
     path: "101. DOOR.brstm"
@@ -26,7 +26,7 @@ songs:
     path: "106. My Own Style.brstm"
     type: battle
   - id: opening_judgment
-    title: "Opening
+    title: "Opening"
     path: "107 Opening.brstm"
     ends: 2:50
     type: betting
@@ -177,7 +177,7 @@ songs:
     title: "Want to Date?"
     path: "305. デートしませんか？.brstm"
     type: break
-  - id: I_love_you_judgment
+  - id: i_love_you_judgment
     title: "I Love You"
     path: "306. 貴方を好きになりました.brstm"
     type: break
