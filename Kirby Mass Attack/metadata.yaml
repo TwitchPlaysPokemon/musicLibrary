@@ -21,6 +21,14 @@ songs:
     title: "Ruins at Night"
     path: "007 Ruins at Night.mini2sf"
     type: betting
+  - id: ruins_ahead
+    title: "Ruins Ahead"
+    path: "008 Ruins Ahead.mini2sf"
+    type: betting
+  - id: over_the_water_mass_attack
+    title: "Over the Water"
+    path: "009 Over the Water.mini2sf"
+    type: break
   - id: fun_castle
     title: "Fun Castle"
     path: "011 Fun Castle.mini2sf"
@@ -42,10 +50,18 @@ songs:
     title: "Off Into Space"
     path: "017 Off into Space.mini2sf"
     type: betting
+  - id: climbing_trees
+    title: "Climbing Trees"
+    path: "018 Climbing Trees.mini2sf"
+    type: warning
   - id: tree_to_tree
     title: "Tree to Tree"
     path: "019 Tree to Tree.mini2sf"
     type: betting
+  - id: fearsome_foe
+    title: "Fearsome Foe"
+    path: "020 Fearsome Foe.mini2sf"
+    type: warning
   - id: tough_enemy_mass_attack
     title: "Tough Enemy"
     path: "021 Tough Enemy.mini2sf"
@@ -70,6 +86,10 @@ songs:
     title: "Underground"
     path: "028 Underground.mini2sf"
     type: break
+  - id: southern_shore
+    title: "Southern Shore"
+    path: "035 Southern Shore.mini2sf"
+    type: break
   - id: surfing_stars
     title: "Surfing Stars"
     path: "036 Surfing Stars.mini2sf"
@@ -77,6 +97,14 @@ songs:
   - id: the_skull_gang
     title: "The Skull Gang"
     path: "039 The Skull Gang.mini2sf"
+    type: warning
+  - id: unrivaled_size
+    title: "Unrivaled Size"
+    path: "040 Unrivaled Size.mini2sf"
+    type: warning
+  - id: invincible_candy_mass_attack
+    title: "Invincible Candy"
+    path: "041 Invincible Candy.mini2sf"
     type: warning
   - id: foes_spring_up
     title: "Foes Spring Up"
@@ -90,9 +118,21 @@ songs:
     title: "Daroach Reunion"
     path: "046 Daroach Reunion.mini2sf"
     type: break
+  - id: jump_out_mass_attack
+    title: "Jump Out"
+    path: "048 Jump Out.mini2sf"
+    type: result
+  - id: game_over_mass_attack
+    title: "Game Over"
+    path: "051 Game Over.mini2sf"
+    type: result
   - id: well_played
     title: "Well Played"
     path: "052 Well Played.mini2sf"
+    type: result
+  - id: green_grounds
+    title: "Green Grounds"
+    path: "057 Green Grounds.mini2sf"
     type: result
   - id: necro_nebula
     title: "Necro Nebula"
@@ -110,6 +150,10 @@ songs:
     title: "Staff Collection"
     path: "068 Staff Collection.mini2sf"
     type: break
+  - id: pinball_play
+    title: "Pinball Play"
+    path: "072 Pinball Play.mini2sf"
+    type: betting
   - id: slots_aplenty
     title: "Slots Aplenty"
     path: "073 Slots Aplenty.mini2sf"
@@ -118,6 +162,10 @@ songs:
     title: "Showdown"
     path: "075 Showdown.mini2sf"
     type: warning
+  - id: big_gold_star
+    title: "Big Gold Star"
+    path: "076 Big Gold Star.mini2sf"
+    type: result
   - id: team_triumph
     title: "Team Triumph"
     path: "081 Team Triumph.mini2sf"
@@ -130,6 +178,10 @@ songs:
     title: "The Asteroid"
     path: "086 The Asteroid.mini2sf"
     type: betting
+  - id: bad_nightmare
+    title: "Bad Nightmare"
+    path: "088 Bad Nightmare.mini2sf"
+    type: battle
   - id: kirby_quest
     title: "Kirby Quest"
     path: "089 Kirby Quest.mini2sf"
@@ -154,4 +206,20 @@ songs:
     title: "Survival Lobby"
     path: "100 Survival Lobby.mini2sf"
     type: warning
+  - id: enemy_listing_unused
+    title: "Enemy Listing (Unused)"
+    path: "101 Enemy Listing (Unused).mini2sf"
+    type: result
+  - id: space_theme_unused
+    title: "Space Theme (Unused)"
+    path: "102 Space Theme (Unused).mini2sf"
+    type: betting
+  - id: after_boss_unused
+    title: "After Boss (Unused)"
+    path: "103 After Boss (Unused).mini2sf"
+    type: result
+  - id: fruit_king_unused
+    title: "Fruit King (Unused)"
+    path: "106 Fruit King (Unused).mini2sf"
+    type: break
 ...

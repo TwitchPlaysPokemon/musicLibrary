@@ -1,0 +1,16 @@
+---
+id: sonic_racing
+title: "Sonic Racing"
+series: sonic
+platform: ["iOS", "Mac"]
+year: 2019
+songs:
+  - id: green_hill_zone_sonic_racing
+    title: "Green Hill Zone"
+    path: "SRacing-Music8b-Green-Hill-Lap-Whole-Loop-OK [1].brstm"
+    type: betting
+  - id: green_hill_zone_final_lap_sonic_racing
+    title: "Green Hill Zone: Final Lap"
+    path: "SRacing-Music8c-Green-Hill-Final-Lap-Whole-Loop-OK.fsb"
+    type: betting
+...

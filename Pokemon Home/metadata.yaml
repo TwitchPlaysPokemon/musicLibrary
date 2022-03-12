@@ -1,0 +1,28 @@
+---
+id: pokemon_home
+title: "Pokémon HOME"
+series: pokemon
+platform: ["Switch", "Mobile"]
+year: 2020
+songs:
+  - id: main_menu_pkmn_home
+    title: "Main Menu"
+    path: "BGM-0021-event.txtp"
+    type: break
+  - id: title_screen_pkmn_home
+    title: "Title Screen"
+    path: "BGM-0029-event.txtp"
+    type: result
+  - id: grand_oak_theme
+    title: "Grand Oak's Theme"
+    path: "BGM-0032-event.txtp"
+    type: warning
+  - id: trade_pkmn_home
+    title: "Trade"
+    path: "BGM-0049-event.txtp"
+    type: warning
+  - id: mystery_gift_pkmn_home
+    title: "Mystery Gift"
+    path: "BGM-0054-event.txtp"
+    type: betting
+...

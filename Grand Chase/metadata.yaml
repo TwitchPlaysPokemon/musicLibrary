@@ -1,0 +1,59 @@
+---
+id: grand_chase
+title: "Grand Chase"
+platform: "PC"
+year: 2003
+songs:
+  - id: battle_of_honor
+    title: "Battle of Honor"
+    path: "34. Battle of Honor.brstm"
+    type: battle
+  - id: gaikoz_s_castle_dungeon
+    title: "Gaikoz's Castle (Dungeon)"
+    path: "54. Gaikoz's Castle (Dungeon).brstm"
+    type: betting
+  - id: altar_of_judgement_dungeon
+    title: "Altar of Judgment (Dungeon)"
+    path: "58. Altar of Judgment (Dungeon).brstm"
+    type: betting
+  - id: goblin_work_site_dungeon
+    title: "Golbin Work Site (Dungeon)"
+    path: "65. Golbin Work Site (Dungeon).brstm"
+    type: betting
+  - id: seth_s_pyramid_boss
+    title: "Seth's Pyramid (Boss)"
+    path: "72. Seth's Pyramid (Boss).brstm"
+    type: battle
+  - id: all_out_war
+    title: "All Out War"
+    path: "93. All Out War.brstm"
+    type: battle
+  - id: trial_forest_dungeon
+    title: "Trial Forest (Dungeon)"
+    path: "97. Trial Forest (Dungeon).brstm"
+    type: betting
+  - id: newbies
+    title: "Newbies"
+    path: "98. Newbies.brstm"
+    type: betting
+  - id: valstrath_dungeon
+    title: "103. Valstrath (Dungeon)"
+    path: "103. Valstrath (Dungeon).brstm"
+    type: betting
+  - id: the_whispering_woods_boss
+    title: "The Whispering Woods (Boss)"
+    path: "106. The Whispering Woods (Boss).brstm"
+    type: warning
+  - id: ruins_of_the_silver_knights_boss
+    title: "Ruins of the Silver Knights (Boss)"
+    path: "108. Ruins of the Silver Knights (Boss).brstm"
+    type: warning
+  - id: lake_aurora_dungeon
+    title: "Lake Aurora (Dungeon)"
+    path: "109. Lake Aurora (Dungeon).brstm"
+    type: betting
+  - id: lake_aurora_boss
+    title: "Lake Aurora (Boss)"
+    path: "110. Lake Aurora (Boss).brstm"
+    type: warning
+...

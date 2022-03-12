@@ -1,0 +1,23 @@
+---
+id: toy_story_bootleg
+title: "Toy Story [Bootleg]"
+platform: "Dendy"
+year: 1997
+songs:
+  - id: you_ve_got_a_friend_in_me
+    title: "You've Got A Friend In Me"
+    path: "01 You've Got A Friend In Me.vgz"
+    type: result
+  - id: red_alert_tsboot
+    title: "Red Alert"
+    path: "02 Red Alert.vgz"
+    type: betting
+  - id: strange_things_tsboot
+    title: "Strange Things"
+    path: "03 Strange Things.vgz"
+    type: betting
+  - id: that_old_army_game
+    title: "That Old Army Game"
+    path: "04 That Old Army Game.vgz"
+    type: warning
+...

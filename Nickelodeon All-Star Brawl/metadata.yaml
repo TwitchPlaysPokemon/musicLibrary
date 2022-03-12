@@ -1,0 +1,120 @@
+﻿---
+id: nickelodeon_all_star_brawl
+title: "Nickelodeon All-Star Brawl"
+platform: "Various"
+year: 2021
+songs:
+  - id: irken_armada_invasion
+    title: "Irken Armada Invasion"
+    path: "Armada.fsb"
+    ends: 2:32
+    type: betting
+  - id: glove_world
+    title: "Glove World"
+    path: "CarnivalLofi.fsb"
+    type: result
+  - id: the_technodrome
+    title: "The Technodrome"
+    path: "Drome.fsb"
+    type: betting
+  - id: powdered_toast_trouble
+    title: "Powdered Toast Trouble"
+    path: "DuoKitchen.fsb"
+    ends: 2:10
+    type: betting
+  - id: space_madness
+    title: "Space Madness"
+    path: "DuoMadness.fsb"
+    ends: 2:20
+    type: betting
+  - id: catdog_s_house
+    title: "CatDog's House"
+    path: "House.fsb"
+    ends: 2:02
+    type: betting
+  - id: the_loud_house
+    title: "The Loud House"
+    path: "Loud.fsb"
+    ends: 2:12
+    type: betting
+  - id: omashu
+    title: "Omashu"
+    path: "Omashu.fsb"
+    ends: 2:02
+    type: betting
+  - id: showdown_at_teeter_totter_gulch
+    title: "Showdown at Teeter Totter Gulch"
+    path: "Playground.fsb"
+    ends: 2:22
+    type: betting
+  - id: rooftop_rumble
+    title: "Rooftop Rumble"
+    path: "Rooftop.fsb"
+    ends: 2:15
+    type: betting
+  - id: sewer_slam
+    title: "Sewer Slam"
+    path: "SewersCombined.fsb"
+    type: betting
+  - id: the_flying_dutchmans_ship
+    title: "The Flying Dutchman's Ship"
+    path: "Shanty.fsb"
+    ends: 2:29
+    type: betting
+  - id: jellyfish_fields_nick_all_star_brawl
+    title: "Jellyfish Fields"
+    path: "SlideHouse.fsb"
+    type: betting
+  - id: harmonic_convergence
+    title: "Harmonic Convergence"
+    path: "SpiritWorld.fsb"
+    type: warning
+  - id: traffic_jam
+    title: "Traffic Jam"
+    path: "Stomp.fsb"
+    ends: 2:10
+    type: betting
+  - id: the_western_air_temple
+    title: "The Western Air Temple"
+    path: "Temple2.fsb"
+    type: betting
+  - id: the_dump_nick_all_star_brawl
+    title: "The Dump"
+    path: "TrashHeapsOfFun.fsb"
+    type: betting
+  - id: wild_waterfall
+    title: "Wild Waterfall"
+    path: "Waterfall.fsb"
+    ends: 2:23
+    type: betting
+  - id: royal_woods_cemetary
+    title: "Royal Woods Cemetery"
+    path: "YMC.fsb"
+    type: betting
+  - id: the_ghost_zone
+    title: "The Ghost Zone"
+    path: "Zone.fsb"
+    ends: 1:55
+    type: betting
+  - id: lose_theme_ver_1
+    title: "Lose Theme (Ver. 1)"
+    path: "Lose_V1.fsb"
+    type: result
+  - id: lose_theme_ver_2
+    title: "Lose Theme (Ver. 2)"
+    path: "Lose_V2.fsb"
+    type: result
+  - id: online_menu_nick_all_stars_brawl
+    title: "Online Menu"
+    path: "OnlineMenu.fsb"
+    ends: 2:10
+    type: betting
+  - id: versus_theme_nick_all_stars_brawl
+    title: "Versus Theme"
+    path: "Versus.fsb"
+    type: warning
+  - id: victory_theme_nick_all_stars_brawl
+    title: "Victory Theme"
+    path: "Victory.fsb"
+    type: result
+...

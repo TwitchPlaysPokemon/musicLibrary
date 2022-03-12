@@ -2,8 +2,8 @@
 id: hyperdimension_neptunia_u_action_unleashed
 title: "Hyperdimension Neptunia U: Action Unleashed"
 series: neptunia
-year: 2014
 platform: ["Vita", "PC"]
+year: 2014
 songs:
   - id: battle_is_toxic
     title: "Battle is Toxic"
@@ -17,4 +17,24 @@ songs:
     title: "Nep Nep YES!!"
     path: "001_Title.xwb"
     type: betting
+  - id: perfect_purple
+    title: "Perfect Purple"
+    path: "003_theme_PLANEPTUNE_Team.xwb"
+    type: battle
+  - id: brave_black
+    title: "Brave Black"
+    path: "004_theme_LASTATION_Team.xwb"
+    type: battle
+  - id: white_wings
+    title: "White Wings"
+    path: "005_theme_LOWEE_Team.xwb"
+    type: battle
+  - id: greedy_green
+    title: "Greedy Green"
+    path: "006_theme_LEANBOX_Team.xwb"
+    type: battle
+  - id: eager_editor
+    title: "Eager Editor"
+    path: "007_theme_HenshuTeam.xwb"
+    type: battle
 ...

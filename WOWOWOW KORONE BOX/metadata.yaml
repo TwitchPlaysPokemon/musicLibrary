@@ -1,0 +1,31 @@
+---
+id: wowowow_korone_box
+title: "WOWOWOW KORONE BOX"
+series: hololive
+platform: "PC"
+year: 2021
+is_fanwork: true 
+songs:
+  - id: wan_wan_house
+    title: "Wan-Wan House!"
+    path: "BGM_WanWanHouse.brstm"
+    type: betting
+  - id: ころねの最凶天災_わんだふぉー_わーるど
+    title: "ころねの最凶天災☆わんだふぉー❤わーるど"
+    #alt title: The most evil natural disaster - Wonderful World
+    path: "BGM_WonderfulWorld.brstm"
+    type: result
+  - id: koro_disco
+    title: "KORO DISCO!"
+    path: "BGM_KoroDisco.brstm"
+    type: betting
+  - id: koro_funk
+    title: "Koro Funk!"
+    path: "BGM_KoroFunk.brstm"
+    type: betting
+  - id: ころねレイザー 戌more
+    title: "ころねレイザー 戌More!"
+    #alt title: Korone Raiser
+    path: "BGM_KoroneRaiser.brstm"
+    type: warning
+...

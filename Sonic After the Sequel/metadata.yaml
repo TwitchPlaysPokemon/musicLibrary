@@ -2,37 +2,73 @@
 id: sonic_after_the_sequel
 title: "Sonic: After the Sequel"
 series: sonic
-year: 2013
 is_fanwork: true
 platform: "PC"
+year: 2013
 songs:
   - id: foliage_furnace_16_bit
     title: "Foliage Furnace 16-bit"
     path: "Sonic After the Sequel (F) - Foliage Furnace 16-bit.brstm"
     type: betting
   - id: foliage_furnace_1
-    title: "Foliage Furnace Act 1"
+    title: "Turquoise Paradise - For Foliage Furnace Act 1"
     path: "Sonic After the Sequel (F) - Foliage Furnace Act 1.brstm"
     type: betting
   - id: moon_mansion_3
-    title: "Moon Mansion Act 3"
+    title: "Ascent to Madness - For Moon Mansion Act 3"
     path: "Sonic After the Sequel (F) - Moon Mansion Act 3.brstm"
     type: battle
   - id: redhot_ride_2
-    title: "Redhot Ride Act 2"
+    title: "Lava Falls - For Redhot Ride Act 2"
     path: "Sonic After the Sequel (F) - Redhot Ride Act 2.brstm"
     type: betting
   - id: redhot_ride_3
-    title: "Redhot Ride Act 3"
+    title: "Disco Heat - For Redhot Ride Act 3"
     path: "Sonic After the Sequel (F) - Redhot Ride Act 3.brstm"
     type: betting
   - id: technology_tree_1
-    title: "Technology Tree Act 1"
+    title: "Rocks Like This - For Technology Tree Act 1"
     path: "Sonic After the Sequel (F) - Technology Tree Act 1.brstm"
     ends: 2:04
     type: betting
   - id: the_schizophrenic_tower_for_moon_mansion_boss_act
     title: "The Schizophrenic Tower - For Moon Mansion Boss Act"
     path: "The Schizophrenic Tower - For Moon Mansion Boss Act.brstm"
+    type: battle
+  - id: all_or_nothing_for_storm_station_act_2
+    title: "All or Nothing - For Storm Station Act 2"
+    path: "All or Nothing - For Storm Station Act 2.brstm"
+    type: betting
+  - id: boogie_boogie_for_moon_mansion_special
+    title: "Boogie Boogie - For Moon Mansion Special"
+    path: "Boogie Boogie (Moon Mansion Special).brstm"
+    type: betting
+  - id: breakfast_time_for_horizon_heights_boss_act_phase_2
+    title: "Breakfast Time - For Horizon Heights Boss Act Phase 2"
+    path: "Breakfast Time - For Horizon Heights Boss Act Phase 2.brstm"
+    type: battle
+  - id: combat_night_ats_version_for_parhelion_peak_act_1
+    title: "Combat Night (ATS Version) - For Parhelion Peak Act 1"
+    path: "Combat Night (ATS Version) - For Parhelion Peak Act 1.brstm"
+    type: betting
+  - id: espresso_with_bayonetta_for_cyan_city_act_3
+    title: "Espresso with Bayonetta - For Cyan City Act 3"
+    path: "Espresso with Bayonetta - For Cyan City Act 3.brstm"
+    type: betting
+  - id: eye_of_the_storm_for_storm_station_boss_act
+    title: "Eye of the Storm - For Storm Station Boss Act"
+    path: "Eye of The Storm (Full Version) .brstm"
+    type: battle
+  - id: pomp_and_circumstance
+    title: "Pomp and Circumstance"
+    path: "Pomp and Circumstance.brstm"
+    type: betting
+  - id: tea_with_ellie_for_cyan_city_act_1
+    title: "Tea With Ellie - For Cyan City Act 1"
+    path: "Tea With Ellie - For Cyan City Act 1.brstm"
+    type: betting
+  - id: the_reckless_one_for_parhelion_peak_boss_act
+    title: "The Reckless One - For Parhelion Peak Boss Act"
+    path: "The Reckless One - For Parhelion Peak Boss Act (Better Loop).brstm"
     type: battle
 ...

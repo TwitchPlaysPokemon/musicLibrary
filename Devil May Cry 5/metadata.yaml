@@ -12,8 +12,20 @@ songs:
     title: "Devil Trigger"
     path: "Devil Trigger (extended).brstm"
     type: battle
-  - id: bury_the_light
-    title: "Bury the Light"
-    path: "Bury the Light (Looped).brstm"
+  - id: the_duel_dmcv
+    title: "The Duel"
+    path: "The Duel.brstm"
     type: battle
+  - id: silver_bullet
+    title: "Silver Bullet"
+    path: "Silver Bullet.brstm"
+    type: betting
+  - id: voltaic_black_knight
+    title: "Voltaic Black Knight"
+    path: "Voltaic Black Knight.brstm"
+    type: battle
+  - id: subhuman
+    title: "Subhuman"
+    path: "Subhuman (Game Edit).brstm"
+    type: betting
 ...

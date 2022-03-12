@@ -5,29 +5,61 @@ series: neptunia
 platform: ["PS4", "PC"]
 year: 2015
 songs: 
-  - id: encounter_of_destiny
-    title: "ENCOUNTER OF DESTINY"
-    path: "011.hca"
-    type: battle
-  - id: drive_away
-    title: "DRIVE AWAY"
-    path: "014.hca"
-    type: battle
-  - id: will_be_venus
-    title: "WILL BE VENUS"
-    path: "037.hca"
-    type: battle
-  - id: rectifier_and_calculator
-    title: "Rectifier and Calculator"
-    path: "017.hca"
+  - id: remnant
+    title: "REMNANT"
+    path: "002.hca"
     type: betting
   - id: desperado_nep7
     title: "DESPERADO"
     path: "003.hca"
     type: betting
+  - id: outside_the_dimension
+    title: "Outside the Dimension"
+    path: "004.hca"
+    type: battle
+  - id: brave_dance
+    title: "BRAVE DANCE"
+    path: "005.hca"
+    type: battle
   - id: dimension_zero
     title: "DIMENSION ZERO"
     path: "006.hca"
+    type: betting
+  - id: voltage
+    title: "VOLTAGE"
+    path: "009.hca"
+    type: battle
+  - id: encounter_of_destiny
+    title: "ENCOUNTER OF DESTINY"
+    path: "011.hca"
+    type: battle
+  - id: never_give_up
+    title: "NEVER GIVE UP"
+    path: "012.hca"
+    type: battle
+  - id: drive_away
+    title: "DRIVE AWAY"
+    path: "014.hca"
+    type: battle
+  - id: megadimension_neptunia_vii_main_theme
+    title: "Megadimension Neptunia VII: Main Theme"
+    path: "015.hca"
+    type: betting
+  - id: rectifier_and_calculator
+    title: "Rectifier and Calculator"
+    path: "017.hca"
+    type: betting
+  - id: will_be_venus
+    title: "WILL BE VENUS"
+    path: "037.hca"
+    type: battle
+  - id: emergency
+    title: "EMERGENCY"
+    path: "042.hca"
+    type: warning
+  - id: decision
+    title: "DECISION"
+    path: "043.hca"
     type: betting
   - id: providence
     title: "PROVIDENCE"
@@ -37,8 +69,21 @@ songs:
     title: "URANUS"
     path: "048.hca"
     type: battle
-  - id: never_give_up
-    title: "NEVER GIVE UP"
-    path: "012.hca"
+  - id: more_soul_contenu_instrumental
+    title: "More soul! Contenu (Instrumental)"
+    path: "060.hca"
     type: battle
+  - id: mousou_4tune_instrumental
+    title: "Mousou 4tune (Instrumental)"
+    path: "061.hca"
+    type: battle
+  - id: mousou_katharsis_instrumental
+    title: "Mousou Katharsis (Instrumental)"
+    path: "062.hca"
+    type: break
+  - id: the_vision_of_telativity_instrumental
+    title: "The VISION of TELATIVITY (Instrumental)"
+    path: "063.hca"
+    type: battle
+
 ...

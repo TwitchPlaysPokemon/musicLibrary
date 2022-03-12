@@ -7,11 +7,35 @@ year: 1997
 songs: 
   - id: king_arcade_version
     title: "King (Arcade version)"
-    path: "King (Arcade).brstm"
-    ends: 2:34
+    path: "09 King.vgm"
+    ends: 2:32
     type: betting
   - id: eddy_gordo_playstation_version
     title: "Eddy Gordo (Playstation version)"
     path: "Eddy Gordo (PS1).brstm"
+    type: betting
+  - id: attract_embu_arcade_version
+    title: "Attract -EMBU- (Arcade version)"
+    path: "03 Attract -EMBU-.vgm"
+    type: betting
+  - id: character_select_arcade_version
+    title: "Character Select (Arcade version)"
+    path: "05 Character Select.vgm"
+    type: warning
+  - id: nina_williams_arcade_version
+    title: "Nina Williams (Arcade version)"
+    path: "11 Nina Williams.vgm"
+    type: betting
+  - id: hwoarang_arcade_version
+    title: "Hwoarang (Arcade version)"
+    path: "12 Hwoarang.vgm"
+    type: battle
+  - id: jin_kazama_arcade_version
+    title: "Jin Kazama (Arcade version)"
+    path: "15 Jin Kazama.vgm"
+    type: battle
+  - id: heihachi_mashima_arcade_version
+    title: "Heihachi Mishima (Arcade version)"
+    path: "17 Heihachi Mishima.vgm"
     type: betting
 ...

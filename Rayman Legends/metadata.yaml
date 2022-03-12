@@ -1,0 +1,24 @@
+---
+id: rayman_legends
+title: "Rayman Legends"
+platform: ["Wii U", "Various"]
+#other platforms: ["360", "PS3", "Vita", "PC", "PS4", "XB1", "Switch"]
+year: 2013
+songs: 
+  - id: the_swamp_whistler
+    title: "The Swamp Whistler"
+    path: "The Swamp Whistler.brstm"
+    type: break
+  - id: mariachi_madness
+    title: "Mariachi Madness"
+    path: "Mariachi Madness.brstm"
+    type: betting
+  - id: grannies_world_tour
+    title: "Grannies World Tour"
+    path: "Grannies World Tour.brstm"
+    type: battle
+  - id: mechanical_dragon_rayman_legends
+    title: "Mechanical Dragon"
+    path: "Mechanical Dragon.brstm"
+    type: betting
+...

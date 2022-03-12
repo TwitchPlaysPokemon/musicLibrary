@@ -1,0 +1,44 @@
+---
+id: touhou_luna_nights
+title: "Touhou Luna Nights"
+series: touhou
+platform: ["PC", "XB1", "Switch"]
+year: 2018
+songs:
+  - id: lunar_clock_lunar_dial
+    title: "Lunar Clock ~ Lunar Dial"
+    path: "bgm00.ogg"
+    type: betting
+  - id: the_maid_and_the_pocket_watch_of_blood
+    title: "The Maid and the Pocket Watch of Blood"
+    path: "bgm01.ogg"
+    type: betting
+  - id: voile_magic_library
+    title: "Voile, Magic Library"
+    path: "bgm02.ogg"
+    type: betting
+  - id: the_young_descendant_of_tepes
+    title: "The Young Descendant of Tepes"
+    path: "bgm03.ogg"
+    type: betting
+  - id: flowering_night_2huln
+    title: "Flowering Night"
+    path: "bgm04.ogg"
+    type: betting
+  - id: scarlet_beyond_a_crimson_dream
+    title: "Scarlet Beyond a Crimson Dream"
+    path: "bgm05.ogg"
+    type: betting
+  - id: septette_for_a_dead_princess
+    title: "Septette for a Dead Princess"
+    path: "boss03.brstm"
+    type: battle
+  - id: akutagawa_ryunosuke_s_kappa_candid_friend
+    title: "Akutagawa Ryunosuke's ''Kappa'' ~ Candid ​Friend"
+    path: "boss04.brstm"
+    type: battle
+  - id: crimson_beyond_a_fleeting_eternity
+    title: "Crimson Beyond a Fleeting Eternity"
+    path: "end.ogg"
+    type: result
+...

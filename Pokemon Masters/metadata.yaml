@@ -100,10 +100,12 @@ songs:
   - id: pokemon_center_christmas_pokemon_masters
     title: "Pokémon Center (Christmas Ver.)"
     path: "bgm_field_home_christmas.logg"
+    tags: [xmas]
     type: betting
   - id: pokemon_center_new_year_pokemon_masters
     title: "Pokémon Center (New Year Ver.)"
     path: "bgm_field_home_gasho.logg"
+    tags: [xmas]
     type: betting
   - id: the_ideal_formula
     title: "The Ideal Formula"
@@ -120,6 +122,18 @@ songs:
   - id: victory_road_unova_pm
     title: "Victory Road (Unova)"
     path: "bgm_field_champion_03.logg"
+    type: betting
+  - id: victory_road_alola_pm
+    title: "Victory Road (Alola)"
+    path: "bgm_field_champion_04.logg"
+    type: betting
+  - id: team_rocket_hideout_pm
+    title: "Team Rocket Hideout"
+    path: "bgm_field_boss_k.logg"
+    type: betting
+  - id: poke_war_games_event
+    title: "Poké War Games Event"
+    path: "bgm_battle_pokevision.logg"
     type: betting
   - id: an_unwavering_heart_pokemon_masters
     title: "An Unwavering Heart"
@@ -165,6 +179,11 @@ songs:
     title: "Jigglypuff's Song (Rock Ver.)"
     path: "bgm_field_purin_rock.logg"
     type: result
+    #battle themes start here - sorted alphabetically by Eng. name
+  - id: battle_acerola_pokemon_masters
+    title: "Battle! (Acerola)"
+    path: "bgm_battle_big4_a_acerola.logg"
+    type: battle
   - id: battle_agatha_pokemon_masters
     title: "Battle! (Agatha)"
     path: "bgm_battle_big4_k_kikuko.logg"
@@ -189,6 +208,10 @@ songs:
     title: "Battle! (Alola Trial Captain)"
     path: "bgm_battle_gl_a.logg"
     type: battle
+  - id: battle_alola_wild_pokemon_masters
+    title: "Battle! (Alola Wild Pokémon)"
+    path: "bgm_battle_yasei_a.logg"
+    type: battle
   - id: battle_archie_pokemon_masters
     title: "Battle! (Archie)"
     path: "bgm_battle_aogiri.logg"
@@ -201,6 +224,10 @@ songs:
     title: "Battle! (Barry)"
     path: "bgm_battle_jun.logg"
     type: battle
+  - id: battle_battle_chatelaine_pokemon_masters
+    title: "Battle! (Battle Chatelaine)"
+    path: "bgm_battle_chatelaine.logg"
+    type: battle
   - id: battle_battle_villa_boss_pokemon_masters
     title: "Battle! (Battle Villa Boss)"
     path: "bgm_villa_battle_boss.logg"
@@ -211,17 +238,17 @@ songs:
     type: battle
   - id: battle_bianca_pokemon_masters
     title: "Battle! (Bianca)"
-    path: "Battle! Bianca (Pokemon Masters).brstm"
+    path: "bgm_battle_bell.logg"
     type: battle
   - id: battle_boss_trainer_pokemon_masters
     title: "Battle! (Boss Trainer)"
     path: "bgm_battle02.logg"
     type: battle
-  - id: battle_bruno_johto_challenge_pokemon_masters
+  - id: battle_bruno_johto_challenge
     title: "Battle! (Bruno - Johto Challenge)"
     path: "bgm_battle_big4_j_shiba.logg"
     type: battle
-  - id: battle_bruno_kanto_challenge_pokemon_masters
+  - id: battle_bruno_kanto_challenge
     title: "Battle! (Bruno - Kanto Challenge)"
     path: "bgm_battle_big4_k_shiba.logg"
     type: battle
@@ -232,6 +259,10 @@ songs:
   - id: battle_champion_blue
     title: "Battle! (Champion Blue)"
     path: "bgm_battle_green.logg"
+    type: battle
+  - id: battle_champion_hau
+    title: "Battle! (Champion Hau)"
+    path: "bgm_battle_champion_hau.logg"
     type: battle
   - id: battle_cresselia_pokemon_masters
     title: "Battle! (Cresselia)"
@@ -248,6 +279,7 @@ songs:
   - id: battle_deck_the_halls
     title: "Battle! (Deck The Halls)"
     path: "bgm_battle_christmas.logg"
+    tags: [xmas]
     type: battle
   - id: battle_diantha_pokemon_masters
     title: "Battle! (Diantha)"
@@ -269,9 +301,13 @@ songs:
     title: "Battle! (Galar Gym Leader)"
     path: "bgm_battle_gl_g.logg"
     type: battle
-  - id: battle_galar_gym_trainer_pokemon_masters
+  - id: battle_galar_gym_leader_pokemon_masters
     title: "Battle! (Galar Trainer)"
     path: "bgm_battle_trainer_g.logg"
+    type: battle
+  - id: battle_galar_wild_pokemon_masters
+    title: "Battle! (Galar Wild Pokémon)"
+    path: "bgm_battle_yasei_g.logg"
     type: battle
   - id: battle_ghetsis_pokemon_masters
     title: "Battle! (Ghetsis)"
@@ -296,6 +332,10 @@ songs:
   - id: battle_guzma_pokemon_masters
     title: "Battle! (Guzma)"
     path: "bgm_battle_guzuma.logg"
+    type: battle
+  - id: battle_hala_pokemon_masters
+    title: "Battle! (Hala)"
+    path: "bgm_battle_big4_a_hara.logg"
     type: battle
   - id: battle_halloween_pokemon_masters
     title: "Battle! (Halloween)"
@@ -325,33 +365,61 @@ songs:
     title: "Battle! (Hoenn Super-Ancient Pokémon)"
     path: "bgm_battle_legend_superancient.logg"
     type: battle
+  - id: battle_hoenn_wild_pokemon_masters
+    title: "Battle! (Hoenn Wild Pokémon)"
+    path: "bgm_battle_yasei_h.logg"
+    type: battle
+  - id: battle_hop_pokemon_masters
+    title: "Battle! (Hop)"
+    path: "bgm_battle_hop.logg"
+    type: battle
   - id: battle_iris_pokemon_masters
     title: "Battle! (Iris)"
     path: "bgm_battle_iris.logg"
+    type: battle
+  - id: battle_jesse_james_pokemon_masters
+    title: "Battle! (Jesse & James)"
+    path: "bgm_battle_rocket.logg"
     type: battle
   - id: battle_johto_sinnoh_frontier_brain
     title: "Battle! (Johto/Sinnoh Frontier Brain)"
     path: "bgm_battle_fb_js.logg"
     type: battle
-  - id: battle_johto_gym_leader
+  - id: battle_johto_gym_leader_pokemon_masters
     title: "Battle! (Johto Gym Leader)"
     path: "bgm_battle_gl_j.logg"
     type: battle
-  - id: battle_kalos_elite_four
+  - id: battle_johto_wild_pokemon_masters
+    title: "Battle! (Johto Wild Pokémon)"
+    path: "bgm_battle_yasei_j.logg"
+    type: battle
+  - id: battle_kahili_pokemon_masters
+    title: "Battle! (Kahili)"
+    path: "bgm_battle_big4_a_kahiri.logg"
+    type: battle
+  - id: battle_kalos_elite_four_pokemon_masters
     title: "Battle! (Kalos Elite Four)"
     path: "bgm_battle_big4_c.logg"
     type: battle
-  - id: battle_kalos_gym_leader
+  - id: battle_kalos_gym_leader_pokemon_masters
     title: "Battle! (Kalos Gym Leader)"
     path: "bgm_battle_gl_c.logg"
     type: battle
-  - id: battle_kanto_gym_leader
+  - id: battle_kalos_wild_pokemon_masters
+    title: "Battle! (Kalos Wild Pokémon)"
+    path: "bgm_battle_yasei_c.logg"
+    type: battle
+  - id: battle_kanto_gym_leader_pokemon_masters
     title: "Battle! (Kanto Gym Leader)"
     path: "bgm_battle_gl_k.logg"
     type: battle
   - id: battle_kanto_legendary_birds
     title: "Battle! (Kanto Legendary Birds)"
     path: "bgm_battle_legend_kanto.logg"
+    type: battle
+  - id: battle_kanto_wild_pokemon_masters
+    title: "Battle! (Kanto Wild Pokémon)"
+    path: "bgm_battle_yasei_k.logg"
     type: battle
   - id: battle_karen_pokemon_masters
     title: "Battle! (Karen)"
@@ -361,11 +429,11 @@ songs:
     title: "Battle! (Koga)"
     path: "bgm_battle_big4_j_kyo.logg"
     type: battle
-  - id: battle_lance_johto_challenge_pokemon_masters
+  - id: battle_lance_johto_challenge
     title: "Battle! (Lance - Johto Challenge)"
     path: "bgm_battle_wataru.logg"
     type: battle
-  - id: battle_lance_kanto_challenge_pokemon_masters
+  - id: battle_lance_kanto_challenge
     title: "Battle! (Lance - Kanto Challenge)"
     path: "bgm_battle_big4_k_wataru.logg"
     type: battle
@@ -376,7 +444,7 @@ songs:
   - id: battle_lear
     title: "Battle! (Lear)"
     path: "Battle! Lear Pokémon Masters Soundtrack.brstm"
-    type: battle 
+    type: battle
   - id: battle_leon_pokemon_masters
     title: "Battle! (Leon)"
     path: "bgm_battle_dande.logg"
@@ -429,6 +497,10 @@ songs:
     title: "Battle! (Maxie - Short Ver.)"
     path: "bgm_battle_matsubusa_short.logg"
     type: battle
+  - id: battle_molayne_pokemon_masters
+    title: "Battle! (Molayne)"
+    path: "bgm_battle_big4_a_molayne.logg"
+    type: battle
   - id: battle_n_pokemon_masters
     title: "Battle! (N)"
     path: "bgm_battle_n.logg"
@@ -436,6 +508,11 @@ songs:
   - id: battle_new_year_pokemon_masters
     title: "Battle! (New Year)"
     path: "bgm_battle_newyear.logg"
+    tags: [xmas]
+    type: battle
+  - id: battle_olivia_pokemon_masters
+    title: "Battle! (Olivia)"
+    path: "bgm_battle_big4_a_litchi.logg"
     type: battle
   - id: battle_paulo_pokemon_masters
     title: "Battle! (Paulo)"
@@ -469,9 +546,13 @@ songs:
     title: "Battle! (Rainbow Rocket Giovanni & Mewtwo)"
     path: "bgm_battle_legend_pm01.logg"
     type: battle
-  - id: battle_red_pokemon_masters
+  - id: battle_red_anniversary_pokemon_masters
     title: "Battle! (Red - One Year Anniversary Mix)"
     path: "Battle! Red (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_red_pokemon_masters
+    title: "Battle! (Red)"
+    path: "bgm_battle_red.logg"
     type: battle
   - id: battle_regis
     title: "Battle! (Regirock/Regice/Registeel)"
@@ -492,6 +573,10 @@ songs:
   - id: battle_sinnoh_gym_leader
     title: "Battle! (Sinnoh Gym Leader)"
     path: "bgm_battle_gl_s.logg"
+    type: battle
+  - id: battle_sinnoh_wild_pokemon_masters
+    title: "Battle! (Sinnoh Wild Pokémon)"
+    path: "bgm_battle_yasei_s.logg"
     type: battle
   - id: battle_solgaleo_lunala
     title: "Battle! (Solgaleo/Lunala)"
@@ -523,7 +608,7 @@ songs:
     type: battle
   - id: battle_team_rocket_pokemon_masters
     title: "Battle! (Team Rocket)"
-    path: "bgm_battle_rocket.logg"
+    path: "bgm_battle_rocket_02.logg"
     type: battle
   - id: battle_trainer_pokemon_masters
     title: "Battle! (Trainer)"
@@ -544,6 +629,10 @@ songs:
   - id: battle_unova_trainer
     title: "Battle! (Unova Trainer)"
     path: "bgm_battle_trainer_i.logg"
+    type: battle
+  - id: battle_unova_wild_pokemon_masters
+    title: "Battle! (Unova Wild Pokémon)"
+    path: "bgm_battle_yasei_i.logg"
     type: battle
   - id: battle_wallace_pokemon_masters
     title: "Battle! (Wallace)"

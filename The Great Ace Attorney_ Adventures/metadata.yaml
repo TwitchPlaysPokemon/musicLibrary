@@ -1,0 +1,176 @@
+---
+id: the_great_ace_attorney_adventures
+title: "The Great Ace Attorney: Adventures"
+series: aceattorney
+platform: "3DS"
+year: 2015
+songs: 
+  - id: kazuma_asougi_samurai_on_a_mission
+    title: "Kazuma Asougi - Samurai on a Mission"
+    path: "10_asougi_theme.sngw"
+    type: betting
+  - id: great_cross_examination_allegro
+    title: "Great Cross-Examination - Allegro"
+    path: "35_jinmon_2.sngw"
+    type: betting
+  - id: ryuunosuke_naruhodou_objection
+    title: "Ryuunosuke Naruhodou - Objection!"
+    path: "12_naruhodo_igiari.sngw"
+    type: result
+  - id: the_truth_revealed_adventures_version
+    title: "The Truth Revealed - Adventures Version"
+    path: "36_shinjitsu.sngw"
+    type: warning
+  - id: foreboding_gaa
+    title: "Foreboding"
+    path: "kyoutou.sngw"
+    type: warning
+  - id: susato_mikotoba_a_new_bloom_in_the_new_world
+    title: "Susato Mikotoba - A New Bloom in the New World"
+    path: "21_susato_theme.sngw"
+    type: break
+  - id: the_heart_of_the_matter
+    title: "The Heart of the Matter"
+    path: "45_sousa_kakushin.sngw"
+    type: warning
+  - id: kazuma_asougi_nocturne
+    title: "Kazuma Asogi - Nocturne"
+    path: "asougi_kaisou.sngw"
+    type: betting
+  - id: herlock_sholmes_great_detective_of_foggy_london_town
+    title: "Herlock Sholmes - Great Detective of Foggy London Town"
+    path: "20_holmes_theme.sngw"
+    type: betting
+  - id: barok_van_zieks_the_reaper_of_the_bailey
+    title: "Barok van Zieks - The Reaper of the Bailey"
+    path: "25_rivalkenji_theme.sngw"
+    type: betting
+  - id: summation_examination
+    title: "Summation Examination"
+    path: "40_baishin_battle.sngw"
+    type: betting
+  - id: tobias_gregson_the_great_detective_s_great_foe
+    title: "Tobias Gregson - The Great Detective's Great Foe"
+    path: "49_scotland_theme.sngw"
+    type: betting
+  - id: local_prison_rhapsody_in_gloom
+    title: "Local Prison - Rhapsody in Gloom"
+    path: "46_ryuuchijo.sngw"
+    type: break
+  - id: iris_wilson_young_biographer
+    title: "Iris Wilson - Young Biographer"
+    path: "24_watson_theme.sngw"
+    type: betting
+  - id: pursuit_a_great_turnabout
+    title: "Pursuit - A Great Turnabout"
+    path: "14_tsuikyuu.sngw"
+    type: battle
+  - id: victory_in_honour_of_my_friend
+    title: "Victory - In Honour of My Friend"
+    path: "37_syouso.sngw"
+    type: betting
+  - id: ryunosuke_naruhodo_overture_to_adventures
+    title: "Ryunosuke Naruhodo - Overture to Adventures"
+    path: "13_naruhodo_igiari_2.sngw"
+    type: result
+  - id: the_defendants_antechamber
+    title: "The Defendants' Antechamber"
+    path: "30_kyuukei.sngw"
+    type: betting
+  - id: the_great_ace_attorney_court_is_now_in_session
+    title: "The Great Ace Attorney - Court is Now in Session"
+    path: "31_kaitei.sngw"
+    type: betting
+  - id: the_witnesses_take_the_stand
+    title: "The Witnesses Take the Stand"
+    path: "39_syounin_kanmon.sngw"
+    type: betting
+  - id: great_cross_examination_moderato
+    title: "Great Cross-Examination - Moderato"
+    path: "34_jinmon_1.sngw"
+    type: betting
+  - id: a_great_twist_suspense_i
+    title: "A Great Twist - Suspense I"
+    path: "suspense_2.sngw"
+    type: warning
+  - id: machinations_and_deductions
+    title: "Machinations and Deductions"
+    path: "33_logic.sngw"
+    type: betting
+  - id: a_great_twist_suspense_ii
+    title: "A Great Twist - Suspense II"
+    path: "32_suspense.sngw"
+    type: warning
+  - id: elegence_and_excellence
+    title: "Elegance...and Excellence"
+    path: "petenshi_theme.sngw"
+    type: warning
+  - id: a_migrating_russian_breeze
+    title: "A Migrating Russian Breeze"
+    path: "preussen_nico.sngw"
+    type: betting
+  - id: investigation_gaa
+    title: "Investigation"
+    path: "44_sousa_joban.sngw"
+    type: betting
+  - id: dance_of_deduction_type_a
+    title: "Dance of Deduction - Type A"
+    path: "k_suiri_1_ue.sngw"
+    type: betting
+  - id: dance_of_deduction_backstage_type_a
+    title: "Dance of Deduction - Backstage - Type A"
+    path: "k_suiri_1_shita.sngw"
+    type: warning
+  - id: dance_of_deduction_type_b
+    title: "Dance of Deduction - Type B"
+    path: "k_suiri_2_ue.sngw"
+    type: betting
+  - id: a_battle_of_wits_opening_moves
+    title: "A Battle of Wits - Opening Moves"
+    path: "kyoudousuiri_2.sngw"
+    type: betting
+  - id: theme_of_deduction_at_the_end_of_a_chain_of_logical_sequences
+    title: "Theme of Deduction - At the End of a Chain of Logical Sequences"
+    path: "holmes_suiri.sngw"
+    type: betting
+  - id: dance_of_deduction_backstage_type_c
+    title: "Dance of Deduction - Backstage - Type C"
+    path: "k_suiri_3_shita.sngw"
+    type: warning
+  - id: dance_of_deduction_type_c
+    title: "Dance of Deduction - Type C"
+    path: "k_suiri_3_ue.sngw"
+    type: betting
+  - id: lord_chief_justice_stronghart_time_keeper_of_the_law
+    title: "Lord Chief Justice Stronghart - Time-Keeper of the Law"
+    path: "shitsumu.sngw"
+    type: betting
+  - id: gina_lestrade_a_blast_from_the_east_end
+    title: "Gina Lestrade - A Blast from the East End"
+    path: "22_gina.sngw"
+    type: betting
+  - id: soseki_natsume_i_am_not_guilty
+    title: "Soseki Natsume - I Am Not Guilty"
+    path: "23_souseki_theme.sngw"
+    type: betting
+  - id: 221b_baker_street
+    title: "221B Baker Street"
+    path: "47_jimusyo.sngw"
+    type: break
+  - id: the_great_ace_attorney_adjudication
+    title: "The Great Ace Attorney - Adjudication"
+    path: "kaitei_2.sngw"
+    type: betting
+  - id: susato_mikotoba_serenade
+    title: "Susato Mikotoba - Serenade"
+    path: "42_tsuisou_4.sngw"
+    type: break
+  - id: curtain_call_suite_adventures_end
+    title: "Curtain Call Suite - Adventures' End"
+    path: "53_ending.sngw"
+    type: result
+  - id: curtain_call_suite_the_great_ace_attorney_continues_forth
+    title: "Curtain Call Suite - The Great Ace Attorney Continues Forth"
+    path: "ending_2.sngw"
+    type: break
+...

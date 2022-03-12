@@ -1,19 +1,16 @@
 ---
 id: hyperdimension_neptunia_rebirth1
 title: "Hyperdimension Neptunia Re;Birth1"
+series: neptunia
 platform: ["Vita", "PC"]
 year: 2014
 songs: 
-  - id: splash
+  - id: splash_hnrb1
     title: "Splash"
     path: "NepnepSplash.brstm"
     type: battle
-  - id: planeptune_theme
-    title: "Planeptune's Theme"
-    path: "Neptunia Planeptune's theme.brstm"
+  - id: planeptune_s_theme_ver_re_birth1
+    title: "Planeptune's Theme Ver. Re;Birth1"
+    path: "SOUND_000__001.xwb"
     type: betting
-  - id: true_afoire_theme
-    title: "True Arfoire's Theme"
-    path: "Neptunia True Arfoire's theme.brstm"
-    type: battle
 ...

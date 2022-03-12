@@ -1,0 +1,39 @@
+---
+id: nefarious
+title: "Nefarious"
+platform: ["PC", "Switch"]
+year: 2017
+songs: 
+  - id: elementemple
+    title: "Elementemple"
+    path: "Elementemple.brstm"
+    type: betting
+  - id: exceptions
+    title: "Exceptions"
+    path: "Exceptions.brstm"
+    type: break
+  - id: hello_world
+    title: "Hello World!"
+    path: "Hello World!.brstm"
+    type: break
+  - id: jungle_kingdom
+    title: "Jungle Kingdom"
+    path: "Jungle Kingdom.brstm"
+    type: betting
+  - id: korimlio
+    title: "Korimlio"
+    path: "Korimlio.brstm"
+    type: battle
+  - id: ordalook
+    title: "Ordalook"
+    path: "Ordalook.brstm"
+    type: battle
+  - id: ozraeen
+    title: "Ozraeen"
+    path: "Ozraeen.brstm"
+    type: battle
+  - id: toodoo
+    title: "Toodoo"
+    path: "Toodoo.brstm"
+    type: battle
+...

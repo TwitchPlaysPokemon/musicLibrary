@@ -1,0 +1,60 @@
+---
+id: metroid_dread
+title: "Metroid Dread"
+series: metroid
+platform: "Switch"
+year: 2021
+songs: 
+  - id: burenia_depths_first_theme
+    title: "Burenia Depths (First Theme)"
+    path: "s_aqua_001.dspadpcm.bfstm"
+    type: betting
+  - id: burenia_depths_second_theme
+    title: "Burenia Depths (Second Theme)"
+    path: "s_aqua_002.dspadpcm.bfstm"
+    type: betting
+  - id: vs_kraid_phase_1
+    title: "VS. Kraid (Phase 1)"
+    path: "s_boss_kraid_001.dspadpcm.bfstm"
+    type: warning
+  - id: vs_kraid_phase_2
+    title: "VS. Kraid (Phase 2)"
+    path: "s_boss_kraid_002.dspadpcm.bfstm"
+    type: battle
+  - id: see_you_next_mission_dread
+    title: "See You Next Mission"
+    path: "s_endscreen.dspadpcm.bfstm"
+    type: result
+  - id: map_station_dread
+    title: "Map Station"
+    path: "s_mapstation.dspadpcm.bfstm"
+    type: break
+  - id: power_bomb_theme
+    title: "Power Bomb Theme"
+    path: "s_power_bomb.dspadpcm.bfstm"
+    type: warning
+  - id: theme_of_samus_dread
+    title: "Theme of Samus"
+    path: "s_samusstory.dspadpcm.bfstm"
+    type: betting
+  - id: escape_sequence_dread
+    title: "Escape Sequence"
+    path: "s_escape.dspadpcm.bfstm"
+    type: betting
+  - id: vs_scorpius_phase_1
+    title: "VS. Scorpius (Phase 1)"
+    path: "s_boss_scorpius_001.dspadpcm.bfstm"
+    type: warning
+  - id: vs_scorpius_phase_2
+    title: "VS. Scorpius (Phase 2)"
+    path: "s_boss_scorpius_002.dspadpcm.bfstm"
+    type: battle
+  - id: vs_robot_chozo_soldier
+    title: "VS. Robot Chozo Soldier"
+    path: "s_boss_mid_chozorobotsoldier.dspadpcm.bfstm"
+    type: warning
+  - id: vs_chozo_soldier_unused
+    title: "VS. Chozo Soldier (Unused)"
+    path: "s_boss_mid_chozowarrior-x.dspadpcm.bfstm"
+    type: warning
+...

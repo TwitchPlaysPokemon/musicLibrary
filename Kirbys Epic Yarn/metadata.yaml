@@ -57,6 +57,10 @@ songs:
     title: "VS. Hot Wings"
     path: "32. VS. Hot Wings.brstm"
     type: warning
+  - id: dusk_dunes_frigid_fjords_off_roader
+    title: "Dusk Dunes - Frigid Fjords - Off-Roader"
+    path: "34. Dusk Dunes - Frigid Fjords - Off-Roader.brstm"
+    type: betting
   - id: toy_tracks_cocoa_station
     title: "Toy Tracks - Cocoa Station"
     path: "36. Toy Tracks - Cocoa Station.brstm"
@@ -73,6 +77,10 @@ songs:
     title: "Vs. Squashini"
     path: "39. VS. Squashini.brstm"
     type: battle
+  - id: dark_manor_kirbys_epic_yarn
+    title: "Dark Manor"
+    path: "41. Dark Manor.brstm"
+    type: betting
   - id: world_4_water_land
     title: "World 4 ~ Water Land"
     path: "42. World 4 ~ Water Land.brstm"
@@ -114,6 +122,10 @@ songs:
     title: "Future City - Mysterious UFO"
     path: "57. Future City - Mysterious UFO.brstm"
     type: betting
+  - id: tube_town
+    title: "Tube Town"
+    path: "58. Tube Town.brstm"
+    type: betting
   - id: stellar_way
     title: "Stellar Way"
     path: "59. Stellar Way.brstm"
@@ -135,10 +147,18 @@ songs:
     title: "World 7 ~ Dream Land"
     path: "64. World 7 ~ Dream Land.brstm"
     type: break
+  - id: whispy_s_woods_green_greens_kirbys_epic_yarn
+    title: "Whispy's Woods (Green Greens)"
+    path: "65. Whispy's Woods (Green Greens).brstm"
+    type: betting
   - id: tempest_towers_butter_building
     title: "Tempest Towers (Butter Building)"
     path: "66. Tempest Towers (Butter Building).brstm"
     type: betting
+  - id: cloud_palace_bubbly_clouds
+    title: "Cloud Palace (Bubbly Clouds)"
+    path: "67. Cloud Palace (Bubbly Clouds).brstm"
+    type: break
   - id: vs_cracko_epicyarn
     title: "VS. Kracko"
     path: "68. VS. Kracko.brstm"
@@ -147,14 +167,26 @@ songs:
     title: "Castle Dedede (Gourmet Race)"
     path: "69. Castle Dedede (Gourmet Race).brstm"
     type: betting
+  - id: yin_yarn_takes_over_dream_land_yin_yarn_transforms
+    title: "Yin-Yarn Takes Over Dream Land - Yin-Yarn Transforms!"
+    path: "70. Yin-Yarn Takes Over Dream Land - Yin-Yarn Transforms!.brstm"
+    type: warning
   - id: vs_yin_yarn_phase_1
     title: "VS. Yin-Yarn (Phase 1)"
     path: "71. VS. Yin-Yarn (Phase 1).brstm"
+    type: battle
+  - id: vs_yin_yarn_phase_2
+    title: "VS. Yin-Yarn (Phase 2)"
+    path: "73. VS. Yin-Yarn (Phase 2).brstm"
     type: battle
   - id: cutscene_staff_credits
     title: "Cutscene ~ Staff Credits"
     path: "75. Cutscene ~ Staff Credits.brstm"
     type: break
+  - id: ice_cream_island_meta_melon_isle
+    title: "Ice Cream Island (Meta Melon Isle)"
+    path: "78. Ice Cream Island (Meta Melon Isle).brstm"
+    type: betting
   - id: halberd_battleship_halberd
     title: "Halberd (Battleship Halberd)"
     path: "79. Halberd (Battleship Halberd).brstm"

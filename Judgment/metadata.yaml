@@ -1,12 +1,17 @@
 ---
 id: judgment
 title: "Judgment"
-platform: "PS4"
+series: yakuza
+platform: ["PS4", "PS5", "XSX", "Stadia"]
 year: 2018
 songs: 
   - id: door_judgment
     title: "DOOR"
     path: "101. DOOR.brstm"
+    type: break
+  - id: beginning_judgment
+    title: "Beginning"
+    path: "102 幕開け.brstm"
     type: break
   - id: random_fire_judgment
     title: "Random Fire"
@@ -20,9 +25,14 @@ songs:
     title: "My Own Style"
     path: "106. My Own Style.brstm"
     type: battle
-  - id: 八神探偵事務所
-    title: "八神探偵事務所"
-    path: "108. 八神探偵事務所.brstm"
+  - id: opening_judgment
+    title: "Opening
+    path: "107 Opening.brstm"
+    ends: 2:50
+    type: betting
+  - id: yagami_detective_agency
+    title: "Yagami Detective Agency"
+    path: "kaiwabgm_00000001.hca"
     type: betting
   - id: drumfire
     title: "Drumfire"
@@ -37,14 +47,19 @@ songs:
     path: "111. inharmonic.brstm"
     ends: 2:20
     type: betting
-  - id: 潜入ミッション
-    title: "潜入ミッション"
+  - id: infiltration_mission
+    title: "Infiltration Mission"
     path: "112. 潜入ミッション.brstm"
     type: betting
   - id: Λ_judgment
     title: "Λ"
-    path: "113. Λ.brstm"
+    path: "bbg_d_0000000D.hca"
     type: battle
+  - id: judgment
+    title: "Judgment"
+    path: "114 判決.brstm"
+    ends: 1:38
+    type: betting
   - id: the_summary
     title: "The Summary"
     path: "115. The Summary.brstm"
@@ -53,8 +68,8 @@ songs:
     title: "Faster Than Lightning"
     path: "116. Faster Than Lightning.brstm"
     type: battle
-  - id: 邂逅_京浜同盟
-    title: "邂逅・京浜同盟"
+  - id: encounter_keihin_gang
+    title: "Encounter - Keihin Gang"
     path: "118. 邂逅.京浜同盟.brstm"
     type: betting
   - id: hyenas_wheezing
@@ -65,16 +80,24 @@ songs:
     title: "Like a Shadow"
     path: "120. Like a Shadow.brstm"
     type: betting
-  - id: 義侠の華
-    title: "義侠の華"
+  - id: you_re_losing_them
+    title: "You're Losing Them!"
+    path: "bbg_d_00000004.hca"
+    type: warning
+  - id: the_flower_of_chivalry
+    title: "The Flower of Chivalry"
     path: "121. 義侠の華.brstm"
     type: battle
   - id: in_jeopardy
     title: "in jeopardy"
     path: "122. in jeopardy.brstm"
     type: betting
-  - id: 罪の線
-    title: "罪の線"
+  - id: thinking_judgment
+    title: "Thinking"
+    path: "123 思索.brstm"
+    type: betting
+  - id: threads_of_sin
+    title: "Threads of Sin"
     path: "201. 罪の線.brstm"
     type: betting
   - id: the_laff_riot
@@ -84,18 +107,31 @@ songs:
   - id: rake_your_inside
     title: "Rake Your Inside"
     path: "205. Rake Your Inside.brstm"
+    ends: 3:02
     type: betting
+  - id: ambivalence
+    title: "Ambivalence"
+    path: "206 迷い.brstm"
+    type: warning
   - id: a_vast_fire
     title: "a Vast Fire"
     path: "207. a Vast Fire.brstm"
     type: warning
-  - id: 決着_京浜同盟
-    title: "決着・京浜同盟"
+  - id: showdown_keihin_gang
+    title: "Showdown - Keihin Gang"
     path: "209. 決着.京浜同盟.brstm"
     type: warning
   - id: craziness_judgment
     title: "Craziness"
     path: "210. Craziness.brstm"
+    type: warning
+  - id: gloom
+    title: "gloom"
+    path: "bbg_b_00000019.hca"
+    type: betting
+  - id: gloom_battle
+    title: "gloom (Battle)"
+    path: "bbg_b_0000001A.hca"
     type: warning
   - id: last_summary
     title: "Last Summary"
@@ -105,6 +141,10 @@ songs:
     title: "you are my dearest brother"
     path: "214. you are my dearest brother.brstm"
     type: break
+  - id: turnabout_judgment
+    title: "Turnabout"
+    path: "kaiwabgm_00000013.hca"
+    type: betting
   - id: destination_judgment
     title: "Destination"
     path: "217. Destination.brstm"
@@ -113,24 +153,36 @@ songs:
     title: "Darkness"
     path: "218. Darkness.brstm"
     type: battle
-  - id: 幻影
-    title: "幻影"
+  - id: illusion_judgment
+    title: "Illusion"
     path: "219. 幻影.brstm"
     type: break
   - id: penumbra
     title: "Penumbra"
     path: "221. Penumbra.brstm"
     type: battle
-  - id: デートしませんか？
-    title: "デートしませんか？"
+  - id: all_s_well_that_ends_well
+    title: "All's Well That Ends Well"
+    path: "222 終わり良ければすべて良し.brstm"
+    type: break
+  - id: let_s_solve_the_mystery
+    title: "Let's Solve the Mystery"
+    path: "kaiwabgm_00000018.hca"
+    type: betting
+  - id: nonetheless_happy
+    title: "Nonetheless Happy"
+    path: "304 とにかくハッピー.brstm"
+    type: result
+  - id: want_to_date
+    title: "Want to Date?"
     path: "305. デートしませんか？.brstm"
     type: break
-  - id: 貴方を好きになりました
-    title: "貴方を好きになりました"
+  - id: I_love_you_judgment
+    title: "I Love You"
     path: "306. 貴方を好きになりました.brstm"
     type: break
-  - id: 夢の途中
-    title: "夢の途中"
+  - id: amidst_a_dream
+    title: "Amidst a Dream"
     path: "308. 夢の途中.brstm"
     ends: 3:15
     type: betting
@@ -139,11 +191,23 @@ songs:
     path: "309. It's Show Time!!.brstm"
     ends: 3:10
     type: betting
+  - id: rtf
+    title: "RTF"
+    path: "mngbgm_drone_00000002.hca"
+    type: betting
   - id: open_the_drone_league
     title: "Open The Drone League"
     path: "311. Open The Drone League.brstm"
     ends: 2:55
     type: betting
+  - id: buzzy
+    title: "BUZZY"
+    path: "mngbgm_drone_00000004.hca"
+    type: battle
+  - id: infinite_axis_gimbal
+    title: "∞-Axis Gimbal"
+    path: "mngbgm_drone_00000005.hca"
+    type: battle
   - id: rth
     title: "RTH"
     path: "314. RTH.brstm"

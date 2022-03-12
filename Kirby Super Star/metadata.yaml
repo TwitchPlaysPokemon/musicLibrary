@@ -49,6 +49,14 @@ songs:
     title: "Candy Mountain"
     path: "19 Candy Mountain.spc"
     type: betting
+  - id: going_after_dynablade
+    title: "Going After Dynablade"
+    path: "21 Going after Dynablade.spc"
+    type: warning
+  - id: choose_your_weapon_kirby_super_star
+    title: "Choose Your Weapon"
+    path: "22 Choose Your Weapon.spc"
+    type: warning
   - id: dyna_blades_nest
     title: "Dyna Blade's Nest"
     path: "23 Dynablade's Nest.spc"
@@ -77,6 +85,10 @@ songs:
     title: "Underground Tree Area"
     path: "34 Trees in the Depths of the Earth.spc"
     type: betting
+  - id: save_hut_kirby_super_star
+    title: "Save Hut"
+    path: "35 Save Hut.spc"
+    type: break
   - id: minecart_area
     title: "Minecart Area"
     path: "36 Mine Cart Riding.spc"
@@ -121,6 +133,14 @@ songs:
     title: "Galactic Nova"
     path: "53 Heart of Nova.spc"
     type: warning
+  - id: marx_s_theme_kirby_super_star
+    title: "Marx's Theme"
+    path: "54 Marx's Theme.spc"
+    type: battle
+  - id: kirby_s_triumphant_return
+    title: "Kirby's Triumphant Return"
+    path: "55 Kirby's Triumphant Return.spc"
+    type: result
   - id: megaton_punch
     title: "Megaton Punch"
     path: "61 Megaton Punch.spc"

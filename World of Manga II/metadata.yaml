@@ -1,0 +1,23 @@
+---
+id: world_of_manga_ii
+title: "World of Manga II"
+platform: "SNES"
+year: 1995
+songs:
+  - id: main_menu_world_of_manga
+    title: "Main Menu"
+    path: "02 Main Menu.spc"
+    type: betting
+  - id: slide_info
+    title: "Slide Info"
+    path: "03 Slide Info.spc"
+    type: warning
+  - id: slideshow_world_of_manga
+    title: "Slideshow"
+    path: "04 Slideshow.spc"
+    type: betting
+  - id: hysteria_theme
+    title: "Hysteria Theme"
+    path: "05 Hysteria Theme.spc"
+    type: betting
+...
