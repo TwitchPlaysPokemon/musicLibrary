@@ -1,0 +1,265 @@
+---
+id: deltarune
+title: "DELTARUNE"
+platform: "PC"
+year: 2018
+songs: 
+#Episode 1 songs
+  - id: another_him
+    title: "ANOTHER HIM"
+    path: "AUDIO_ANOTHERHIM.logg"
+    type: break
+  - id: susie
+    title: "Susie"
+    path: "s_neo.logg"
+    type: warning
+  - id: the_door
+    title: "The Door"
+    path: "creepydoor.logg"
+    type: break
+  - id: lancer
+    title: "Lancer"
+    path: "lancer.logg"
+    type: warning
+  - id: rude_buster
+    title: "Rude Buster"
+    path: "battle.logg"
+    type: battle
+  - id: empty_town
+    title: "Empty Town"
+    path: "castletown_empty.logg"
+    type: betting
+  - id: field_of_hopes_and_dreams
+    title: "Field of Hopes and Dreams"
+    path: "field_of_hopes.logg"
+    ends: 2:40
+    type: betting
+  - id: lantern
+    title: "Lantern"
+    path: "shop1.logg"
+    type: betting
+  - id: checker_dance
+    title: "Checker Dance"
+    path: "checkers.logg"
+    type: battle
+  - id: quiet_autumn
+    title: "Quiet Autumn"
+    path: "quiet_autumn.logg"
+    type: break
+  - id: scarlet_forest
+    title: "Scarlet Forest"
+    path: "forest.logg"
+    type: betting
+  - id: thrash_machine
+    title: "Thrash Machine"
+    path: "thrashmachine.logg"
+    type: result
+  - id: vs_lancer
+    title: "Vs. Lancer"
+    path: "lancerfight.logg"
+    type: battle
+  - id: vs_susie
+    title: "Vs. Susie"
+    path: "vs_susie.logg"
+    type: battle
+  - id: card_castle
+    title: "Card Castle"
+    path: "card_castle.logg"
+    type: betting
+  - id: rouxls_kaard
+    title: "Rouxls Kaard"
+    path: "ruruskaado.logg"
+    type: warning
+  - id: hip_shop
+    title: "Hip Shop"
+    path: "hip_shop.logg"
+    type: break
+  - id: gallery_deltarune
+    title: "Gallery"
+    path: "GALLERY.logg"
+    type: warning
+  - id: chaos_king
+    title: "Chaos King"
+    path: "kingboss.logg"
+    type: battle
+  - id: the_world_revolving
+    title: "THE WORLD REVOLVING"
+    path: "joker.logg"
+    type: battle
+  - id: friendship
+    title: "Friendship"
+    path: "friendship.logg"
+    ends: 2:38
+    type: betting
+  - id: a_town_called_hometown
+    title: "A Town Called Hometown"
+    path: "town.logg"
+    type: betting
+  - id: you_can_always_come_home
+    title: "You Can Always Come Home"
+    path: "home.logg"
+    type: betting
+  - id: dog_check
+    title: "Dog Check"
+    path: "dogcheck.logg"
+    type: break
+  - id: april_2012
+    title: "April 2012"
+    path: "april_2012.logg"
+    type: warning
+  - id: the_legend
+    title: "The Legend"
+    path: "legend.ogg"
+    ends: 1:49
+    type: betting
+  - id: basement
+    title: "Basement"
+    path: "basement.logg"
+    type: warning
+  - id: the_chase_deltarune
+    title: "The Chase"
+    path: "creepychase.logg"
+    type: warning
+  - id: the_circus
+    title: "The Circus"
+    path: "prejoker.logg"
+    type: warning
+  - id: imminent_death
+    title: "Imminent Death"
+    path: "tense.logg"
+    type: warning
+  - id: beginning_deltarune
+    title: "Beginning"
+    path: "mus_introcar.ogg"
+    type: result
+  - id: school
+    title: "School"
+    path: "mus_school.logg"
+    type: betting
+  - id: before_the_story
+    title: "Before the Story"
+    path: "AUDIO_STORY.logg"
+    type: break
+#Episode 2 songs
+  - id: faint_glow
+    title: "Faint Glow"
+    path: "menu.logg"
+    type: break
+  - id: girl_next_door
+    title: "Girl Next Door"
+    path: "noelle_school.logg"
+    type: betting
+  - id: my_castle_town
+    title: "My Castle Town"
+    path: "castletown.logg"
+    type: betting
+  - id: queen_deltarune
+    title: "Queen"
+    path: "queen.logg"
+    type: warning
+  - id: a_cyber_s_world
+    title: "A CYBER'S WORLD?"
+    path: "cyber.logg"
+    type: betting
+  - id: a_simple_diversion
+    title: "A Simple Diversion"
+    path: "boxing_game.logg"
+    type: warning
+  - id: sound_studio
+    title: "Sound Studio"
+    path: "cyber_shop.logg"
+    type: result
+  - id: berdley
+    title: "Berdley"
+    path: "berdley_theme.logg"
+    type: warning
+  - id: smart_race
+    title: "Smart Race"
+    path: "berdley_chase.logg"
+    type: battle
+  - id: welcome_to_the_city_deltarune
+    title: "WELCOME TO THE CITY"
+    path: "cybercity.logg"
+    type: betting
+  - id: mini_studio
+    title: "Mini Studio"
+    path: "cyberhouse.logg"
+    type: result
+  - id: holiday_studio
+    title: "Holiday Studio"
+    path: "cybershop_christmas.logg"
+    tags: [xmas]
+    type: result
+  - id: cool_radio
+    title: "Cool Radio"
+    path: "queen_car_radio.logg"
+    type: warning
+  - id: spamton
+    title: "Spamton"
+    path: "spamton_meeting.logg"
+    type: betting
+  - id: now_s_your_chance_to_be_a
+    title: "NOW'S YOUR CHANCE TO BE A"
+    path: "spamton_battle.logg"
+    type: battle
+  - id: elegant_entrance
+    title: "Elegant Entrance"
+    path: "mansion_entrance.logg"
+    type: break
+  - id: bluebird_of_misfortune
+    title: "Bluebird of Misfortune"
+    path: "berdly_flashback.logg"
+    type: break
+  - id: pandora_palace
+    title: "Pandora Palace"
+    path: "mansion.logg"
+    type: battle
+  - id: acid_tunnel_of_love
+    title: "Acid Tunnel of Love"
+    path: "acid_tunnel.logg"
+    type: result
+  - id: it_s_pronounced_rules
+    title: "It's Pronounced \"Rules\""
+    path: "rouxls_battle.logg"
+    type: battle
+  - id: lost_girl_deltarune
+    title: "Lost Girl"
+    path: "noelle_normal.logg"
+    type: break
+  - id: ferris_wheel_deltarune
+    title: "Ferris Wheel"
+    path: "noelle_ferriswheel.logg"
+    type: betting
+  - id: attack_of_the_killer_queen
+    title: "Attack of the Killer Queen"
+    path: "queen_boss.logg"
+    type: battle
+  - id: giga_size
+    title: "Giga Size"
+    path: "giant_queen_appears.logg"
+    type: battle
+  - id: knock_you_down
+    title: "Knock You Down !!"
+    path: "boxing_boss.logg"
+    type: battle
+  - id: the_dark_truth
+    title: "The Dark Truth"
+    path: "the_dark_truth.logg"
+    type: break
+  - id: big_shot_deltarune
+    title: "BIG SHOT"
+    path: "spamton_neo_mix_ex_wip.logg"
+    type: battle
+  - id: dialtone_deltarune
+    title: "Dialtone"
+    path: "spamton_neo_after.logg"
+    type: warning
+  - id: welcome_to_the_city_alternate
+    title: "WELCOME TO THE CITY (Alternate)"
+    path: "cybercity_alt.logg"
+    type: betting
+  - id: noelle_unused
+    title: "Noelle (unused)"
+    path: "noelle.logg"
+    type: result
+...

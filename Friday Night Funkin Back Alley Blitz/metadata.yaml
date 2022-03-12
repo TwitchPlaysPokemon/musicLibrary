@@ -1,0 +1,16 @@
+---
+id: friday_night_funkin_back_alley_blitz
+title: "Friday Night Funkin': Back Alley Blitz"
+platform: "PC"
+year: 2021
+is_fanwork: true
+songs: 
+  - id: lo_fight
+    title: "Lo-Fight"
+    path: "01. Lo-Fight.brstm"
+    type: betting
+  - id: ballistic
+    title: "Ballistic"
+    path: "03. Ballistic.brstm"
+    type: battle
+...

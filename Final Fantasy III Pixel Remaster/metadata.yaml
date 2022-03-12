@@ -1,0 +1,112 @@
+---
+id: final_fantasy_iii_pixel_remaster
+title: "Final Fantasy III Pixel Remaster"
+series: finalfantasy
+platform: ["Mobile", "PC"]
+year: 2021
+songs:
+  - id: battle_1_ff3p
+    title: "Battle 1"
+    path: "03 Battle 1.mab"
+    type: battle
+  - id: victory_ff3p
+    title: "Victory"
+    path: "04 Victory.mab"
+    type: result
+  - id: opening_theme_ff3p
+    title: "Opening Theme"
+    path: "06 Opening Theme.mab"
+    type: betting
+  - id: eternal_wind_ff3p
+    title: "Eternal Wind"
+    path: "08 Eternal Wind.mab"
+    type: betting
+  - id: jinn_s_curse
+    title: "Jinn's Curse"
+    path: "09 Jinn's Curse.mab"
+    type: betting
+  - id: return_of_the_hero
+    title: "Return of the Hero"
+    path: "11 Return of the Hero.mab"
+    type: result
+  - id: sailing_the_enterprise
+    title: "Sailing the Enterprise"
+    path: "15 Sailing the Enterprise.mab"
+    type: betting
+  - id: village_of_the_ancients
+    title: "Village of the Ancients"
+    path: "17 Village of the Ancients.mab"
+    type: break
+  - id: chocobo_theme_ff3p
+    title: "Chocobo Theme"
+    path: "18 Chocobo Theme.mab"
+    type: result
+  - id: gishal_s_veggies
+    title: "Gishal's Veggies"
+    path: "21 Gishal's Veggies.mab"
+    type: betting
+  - id: dangerous_short_music_1
+    title: "Dangerous Short Music 1"
+    path: "23 Dangerous Short Music 1.mab"
+    type: warning
+  - id: dangerous_short_music_2
+    title: "Dangerous Short Music 2"
+    path: "24 Dangerous Short Music 2.mab"
+    type: warning
+  - id: dangerous_short_music_3
+    title: "Dangerous Short Music 3"
+    path: "25 Dangerous Short Music 3.mab"
+    type: warning
+  - id: battle_2_ff3p
+    title: "Battle 2"
+    path: "26 Battle 2.mab"
+    type: battle
+  - id: flying_the_enterprise
+    title: "Flying the Enterprise"
+    path: "28 Flying the Enterprise.mab"
+    type: result
+  - id: elia_the_maiden_of_water
+    title: "Elia, the Maiden of Water"
+    path: "30 Elia, the Maiden of Water.mab"
+    type: break
+  - id: swift_twist
+    title: "Swift Twist"
+    path: "34 Swift Twist.mab"
+    type: result
+  - id: theme_of_the_four_old_men
+    title: "Theme of the Four Old Men"
+    path: "41 Theme of the Four Old Men.mab"
+    type: result
+  - id: the-submarine_nautilus
+    title: "The Submarine Nautilus"
+    path: "44 The Submarine Nautilus.mab"
+    type: betting
+  - id: unne_s_exercises
+    title: "Unne's Exercises"
+    path: "48 Unne's Exercises.mab"
+    type: warning
+  - id: the_huge_battleship_invincible
+    title: "The Huge Battleship Invincible"
+    path: "49 The Huge Battleship Invincible.mab"
+    type: result
+  - id: the_final_battle_1_ff3p
+    title: "The Final Battle 1"
+    path: "53 The Final Battle 1.mab"
+    type: warning
+  - id: the_final_battle_2_ff3p
+    title: "The Final Battle 2"
+    path: "54 The Final Battle 2.mab"
+    type: warning
+  - id: the_final_battle_3_ff3p
+    title: "The Final Battle 3"
+    path: "55 The Final Battle 3.mab"
+    type: battle
+  - id: battle_1_variation_ff3p
+    title: "Battle 1 (Variation)"
+    path: "61 Battle 1 (Variation).mab"
+    type: warning
+  - id: victory_variation_ff3p
+    title: "Victory (Variation)"
+    path: "62 Victory (Variation).mab"
+    type: result
+...

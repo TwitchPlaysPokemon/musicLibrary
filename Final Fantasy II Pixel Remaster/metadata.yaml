@@ -1,0 +1,76 @@
+---
+id: final_fantasy_ii_pixel_remaster
+title: "Final Fantasy II Pixel Remaster"
+series: finalfantasy
+platform: ["Mobile", "PC"]
+year: 2021
+songs:
+  - id: the_prelude_ff2p
+    title: "The Prelude"
+    path: "01 The Prelude.mab"
+    type: break
+  - id: battle_scene_1_ff2p
+    title: "Battle Scene 1"
+    path: "03 Battle Scene 1.mab"
+    type: battle
+  - id: town_ff2p
+    title: "Town"
+    path: "07 Town.mab"
+    type: break
+  - id: main_theme_ff2p
+    title: "Main Theme"
+    path: "08 Main Theme.mab"
+    type: break
+  - id: castle_pandemonium_ff2p
+    title: "Castle Pandemonium"
+    path: "09 Castle Pandemonium.mab"
+    type: betting
+  - id: theme_of_the_imperial_army_ff2p
+    title: "Theme of the Imperial Army"
+    path: "10 Theme of the Imperial Army.mab"
+    type: warning
+  - id: chocobo_theme_ff2p
+    title: "Chocobo Theme"
+    path: "11 Chocobo Theme.mab"
+    type: warning
+  - id: magician_s_tower_ff2p
+    title: "Magician's Tower"
+    path: "12 Magician's Tower.mab"
+    type: betting
+  - id: run_ff2p
+    title: "Run!"
+    path: "13 Run!.mab"
+    type: warning
+  - id: ancient_castle_ff2p
+    title: "Ancient Castle"
+    path: "14 Ancient Castle.mab"
+    type: betting
+  - id: dungeon_ff2p
+    title: "Dungeon"
+    path: "15 Dungeon.mab"
+    type: betting
+  - id: revived_emperor_ff2p
+    title: "Revived Emperor"
+    path: "16 Revived Emperor.mab"
+    type: warning
+  - id: victory_ff2p
+    title: "Victory"
+    path: "17 Victory.mab"
+    type: result
+  - id: waltz_ff2p
+    title: "Waltz"
+    path: "18 Waltz.mab"
+    type: result
+  - id: battle_scene_a_ff2p
+    title: "Battle Scene A"
+    path: "24 Battle Scene A.mab"
+    type: battle
+  - id: battle_scene_b_ff2p
+    title: "Battle Scene B"
+    path: "25 Battle Scene B.mab"
+    type: warning
+  - id: battle_scene_2_ff2p
+    title: "Battle Scene 2"
+    path: "26 Battle Scene 2.mab"
+    type: battle
+...

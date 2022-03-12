@@ -1,0 +1,17 @@
+---
+id: the_great_ace_attorney_chronicles
+title: "The Great Ace Attorney Chronicles"
+series: aceattorney
+platform: ["Switch", "PS4", "PC"]
+year: 2021
+songs: 
+  - id: baker_street_ball_waltz_for_chronicles
+    title: "Baker Street Ball - Waltz for Chronicles"
+    path: "dlc_bgm_28.sngw"
+    ends: 2:00
+    type: betting
+  - id: partners_arrangement
+    title: "Partners (Arrangement)"
+    path: "dlc_bgm_29.sngw"
+    type: battle
+...

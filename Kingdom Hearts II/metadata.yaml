@@ -7,43 +7,43 @@ year: 2005
 songs: 
   - id: the_13th_struggle
     title: "The 13th Struggle"
-    path: "The 13th Struggle.brstm"
+    path: "112 - The 13th Struggle.psf2"
     type: battle
   - id: sora_kh2
     title: "Sora"
-    path: "Sora.brstm"
+    path: "114 - Sora.psf2"
     type: result
   - id: sacred_moon_kh2
     title: "Sacred Moon"
-    path: "Sacred Moon.brstm"
+    path: "226 - Sacred Moon.psf2"
     type: betting
   - id: vim_and_vigor
     title: "Vim and Vigor"
-    path: "Vim and Vigor.brstm"
+    path: "138 - Vim and Vigor.psf2"
     type: battle
   - id: the_corrupted
     title: "The Corrupted"
-    path: "The Corrupted.brstm"
+    path: "210 - The Corrupted.psf2"
     type: warning
   - id: the_afternoon_streets
     title: "The Afternoon Streets"
-    path: "The Afternoon Streets.brstm"
+    path: "115 - The Afternoon Street.psf2"
     type: break
   - id: reviving_hollow_bastion
     title: "Reviving Hollow Bastion"
-    path: "Reviving Hollow Bastion.brstm"
+    path: "120 - Reviving Hollow Bastion.psf2"
     type: betting
   - id: darkness_of_the_unknown_xemnas
     title: "Darkness Of The Unknown (Xemnas)"
-    path: "Darkness Of The Unknown (Xemnas).brstm"
+    path: "232 - Darkness of the Unknown.psf2"
     type: warning
   - id: crossing_the_finish_line
     title: "Crossing the Finish Line"
-    path: "Crossing the Finish Line.brstm"
+    path: "129 - Crossing the Finish Line.psf2"
     type: result
   - id: apprehension_kh2
     title: "Apprehension"
-    path: "Apprehension.brstm"
+    path: "137 - Apprehension.psf2"
     type: warning
   - id: waltz_of_the_damned
     title: "Waltz of the Damned"
@@ -61,4 +61,32 @@ songs:
     title: "Riku"
     path: "228 - Riku.psf2"
     type: break
+  - id: dive_to_the_heart_destati
+    title: "Dive into the Heart -Destati-"
+    path: "107 - Dive into the Heart -Destati-.psf2"
+    type: break
+  - id: monochrome_dreams
+    title: "Monochrome Dreams"
+    path: "147 - Monochrome DreAM0s.psf2"
+    type: betting
+  - id: hazardous_highway
+    title: "Hazardous Highway"
+    path: "211 - Yoko Shimomura - Hazardous Highway.vas"
+    type: battle
+  - id: byte_bashing
+    title: "Byte Bashing"
+    path: "220 - Byte Bashing.psf2"
+    type: warning
+  - id: one_winged_angel_kh2
+    title: "One-Winged Angel"
+    path: "224 - One-Winged Angel.psf2"
+    type: battle
+  - id: he_s_a_pirate
+    title: "He's a Pirate"
+    path: "209 - He's a Pirate.psf2"
+    type: betting
+  - id: rowdy_rumble_kh2
+    title: "Rowdy Rumble"
+    path: "144 - Rowdy Rumble.psf2"
+    type: battle
 ...

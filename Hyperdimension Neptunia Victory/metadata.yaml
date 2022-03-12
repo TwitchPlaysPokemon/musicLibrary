@@ -2,7 +2,7 @@
 id: hyperdimension_neptunia_victory
 title: "Hyperdimension Neptunia Victory"
 series: neptunia
-platform: ["PS3", "Vita", "PC"]
+platform: "PS3"
 year: 2012
 songs: 
   - id: la_dele_dele
@@ -33,4 +33,56 @@ songs:
     title: "Rom & Ram's Theme Ver. V"
     path: "Rom & Ram's Theme Ver V.brstm"
     type: warning
+  - id: 4th_dimension
+    title: "4th Dimension"
+    path: "08 Last Battle.brstm"
+    type: battle
+  - id: plutia_s_theme
+    title: "Plutia's Theme"
+    path: "SOUND_015__002.xwb"
+    type: betting
+  - id: purple_hearts_theme
+    title: "Purple Heart's Theme"
+    path: "SOUND_016__003.xwb"
+    type: betting
+  - id: seven_sages_battle
+    title: "Seven Sages Battle"
+    path: "SOUND_017__004.xwb"
+    type: betting
+  - id: the_apostels_of_fear
+    title: "The Apostels of Fear"
+    path: "SOUND_018__005.xwb"
+    type: battle
+  - id: the_tides_of_destiny
+    title: "The Tides of Destiny"
+    path: "SOUND_019__006.xwb"
+    type: battle
+  - id: gamindustri
+    title: "Gamindustri"
+    path: "SOUND_022__009.xwb"
+    type: betting
+  - id: noire_s_theme
+    title: "Noire's Theme"
+    path: "SOUND_026__013.xwb"
+    type: battle
+  - id: blanc_s_theme
+    title: "Blanc's Theme"
+    path: "SOUND_027__014.xwb"
+    type: betting
+  - id: vert_s_theme
+    title: "Vert's Theme"
+    path: "SOUND_028__015.xwb"
+    type: betting
+  - id: nepgear_s_theme_ver_v
+    title: "Nepgear's Theme Ver. V"
+    path: "SOUND_030__017.xwb"
+    type: battle
+  - id: yellow_heart_s_theme
+    title: "Yellow Heart's Theme"
+    path: "SOUND_052__039.xwb"
+    type: battle
+  - id: between_earth_and_sky
+    title: "Between Earth and Sky"
+    path: "Neptunia Between Earth and Sky.brstm"
+    type: betting
 ...

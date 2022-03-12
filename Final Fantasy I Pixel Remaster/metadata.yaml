@@ -1,0 +1,96 @@
+---
+id: final_fantasy_i_pixel_remaster
+title: "Final Fantasy Pixel Remaster"
+series: finalfantasy
+platform: ["Mobile", "PC"]
+year: 2021
+songs:
+  - id: prelude_ff1p
+    title: "Prelude"
+    path: "01 The Prelude.mab"
+    type: break
+  - id: main_theme_ff1p
+    title: "Main Theme"
+    path: "03 Main Theme.mab"
+    type: betting
+  - id: town_ff1p
+    title: "Town"
+    path: "04 Town.mab"
+    type: break
+  - id: cornelia_castle_ff1p
+    title: "Cornelia Castle"
+    path: "05 Cornelia Castle.mab"
+    type: break
+  - id: battle_scene_ff1p
+    title: "Battle Scene"
+    path: "06 Battle Scene.mab"
+    type: battle
+  - id: victory_ff1p
+    title: "Victory"
+    path: "07 Victory.mab"
+    type: result
+  - id: temple_of_chaos_ff1p
+    title: "Temple of Chaos"
+    path: "09 Temple of Chaos.mab"
+    type: break
+  - id: inside_a_boss_battle_ff1p
+    title: "Inside a Boss Battle"
+    path: "10 Inside a Boss Battle.mab"
+    type: battle
+  - id: shop_ff1p
+    title: "Shop"
+    path: "14 shop.mab"
+    type: break
+  - id: ship_ff1p
+    title: "Ship"
+    path: "15 Ship.mab"
+    type: betting
+  - id: menu_screen_ff1p
+    title: "Menu Screen"
+    path: "17 Menu Screen.mab"
+    type: betting
+  - id: boss_battle_1_ff1p
+    title: "Boss Battle 1"
+    path: "18 Boss Battle 1.mab"
+    type: battle
+  - id: church_ff1p
+    title: "Church"
+    path: "20 Church.mab"
+    type: break
+  - id: inn_ff1p
+    title: "Inn"
+    path: "21 Inn.mab"
+    type: break
+  - id: dungeon_ff1p
+    title: "Dungeon"
+    path: "23 Dungeon.mab"
+    type: warning
+  - id: boss_battle_2_ff1p
+    title: "Boss Battle 2"
+    path: "25 Boss Battle 2.mab"
+    type: battle
+  - id: dead_music
+    title: "Dead Music"
+    path: "26 Dead Music.mab"
+    type: result
+  - id: ruined_castle_ff1p
+    title: "Ruined Castle"
+    path: "27 Ruined Castle.mab"
+    type: break
+  - id: airship_ff1p
+    title: "Airship"
+    path: "30 Airship.mab"
+    type: result
+  - id: lute_ff1p
+    title: "Lute"
+    path: "31 Lute.mab"
+    type: break
+  - id: temple_of_chaos_the_passed
+    title: "Temple of Chaos (The Passed)"
+    path: "32 Temple of Chaos (The Passed).mab"
+    type: betting
+  - id: last_battle_ff1p
+    title: "Last Battle"
+    path: "33 Last battle.mab"
+    type: battle
+...

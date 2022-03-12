@@ -1,0 +1,36 @@
+---
+id: kingdom_hearts_final_mix
+title: "Kingdom Hearts Final Mix"
+platform: "PS2"
+year: 2002
+songs: 
+  - id: kairi_i_kh1
+    title: "Kairi I"
+    path: "110 - Kairi I.psf2"
+    type: break
+  - id: destiny_s_force_kh1 
+    title: "Destiny's Force"
+    path: "114 - Destiny's Force.psf2"
+    type: battle
+  - id: olympus_coliseum_kh1
+    title: "Olympus Coliseum"
+    path: "124 - Olympus Coliseum.psf2"
+    type: result
+  - id: dearly_beloved_reprise
+    title: "Dearly Beloved -Reprise-"
+    path: "233 - Dearly Beloved -Reprise-.psf2"
+    type: result
+  - id: a_night_on_bald_mountain
+    title: "A Night on Bald Mountain"
+    path: "fm - A Night on Bald Mountain.psf2"
+    type: betting
+  - id: one_winged_angel_kh1
+    title: "One Winged Angel"
+    path: "fm - One Winged Angel.psf2"
+    type: battle
+  - id: simple_and_clean_orchestral
+    title: "Simple and Clean (Orchestral)"
+    path: "Simple and Clean (Orchestral).ss2"
+    ends: 3:25
+    type: betting
+...

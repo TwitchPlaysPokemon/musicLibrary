@@ -1,0 +1,72 @@
+---
+id: metroid_samus returns
+title: "Metroid: Samus Returns"
+series: metroid
+platform: "3DS"
+year: 2017
+songs: 
+  - id: before_the_boss_battle
+    title: "Before the Boss Battle"
+    path: "m_boss_before99.bcwav"
+    type: warning
+  - id: boss_defeated_samus_returns
+    title: "Boss Defeated"
+    path: "boss_go.bcwav"
+    type: result
+  - id: area_7_chozo_laboratory
+    title: "Area 7 - Chozo Laboratory"
+    path: "m_allarea_b99.bcwav"
+    type: betting
+  - id: chozo_memories_chozo_memory_11_dread
+    title: "Chozo Memories - Chozo Memory 11 (Dread)"
+    path: "m_chozo_gallery_las.bcwav"
+    type: warning
+  - id: diggernaut_chase
+    title: "Diggernaut Chase"
+    path: "m_boss_manic_miner_chase99.bcwav"
+    type: warning
+  - id: end_results_samus_returns
+    title: "End Results"
+    path: "k_matad_result.bcwav"
+    type: result
+  - id: ship_landing_samus_returns
+    title: "Ship Landing"
+    path: "m_movie_ship_landing99.bcwav"
+    type: warning
+  - id: staff_credits_samus_returns
+    title: "Staff Credits"
+    path: "m_staffcredit99.bcwav"
+    type: break
+  - id: surface_of_sr388_ambient
+    title: "Surface of SR388 (Ambient)"
+    path: "t_m2_surface_arr1.bcwav"
+    type: break
+  - id: area_1_surface_of_sr388
+    title: "Area 1 - Surface Of SR388"
+    path: "m_allarea_a99.bcwav"
+    type: betting
+  - id: vs_diggernaut
+    title: "VS. Diggernaut"
+    path: "m_boss_manic_miner_bot99.bcwav"
+    type: battle
+  - id: vs_omega_metroid_samus_returns
+    title: "VS. Omega Metroid"
+    path: "m_boss_omega02.bcwav"
+    type: warning
+  - id: vs_proteus_ridley_phase_1
+    title: "VS. Proteus Ridley (Phase 1)"
+    path: "m_boss_ridley01.bcwav"
+    type: battle
+  - id: vs_proteus_ridley_phase_2
+    title: "VS. Proteus Ridley (Phase 2)"
+    path: "m_boss_ridley_second99.bcwav"
+    type: battle
+  - id: vs_proteus_ridley_phase_3
+    title: "VS. Proteus Ridley (Phase 3)"
+    path: "m_boss_ridley_third99.bcwav"
+    type: battle
+  - id: vs_queen_metroid
+    title: "VS. Queen Metroid"
+    path: "m_boss_queen02.bcwav"
+    type: warning
+...

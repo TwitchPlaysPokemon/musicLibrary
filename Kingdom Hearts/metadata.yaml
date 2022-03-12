@@ -5,14 +5,26 @@ series: kingdomhearts
 platform: "PS2"
 year: 2002
 songs: 
+  - id: dearly_beloved
+    title: "Dearly Beloved"
+    path: "101 - Dearly Beloved.psf2"
+    type: break
   - id: destiny_islands
     title: "Destiny Islands"
     path: "105 - Destiny Islands.psf2"
     type: break
-  - id: kairi_i_kh1
-    title: "Kairi I"
-    path: "Kairi I.brstm"
-    type: break
+  - id: bustin_up_on_the_beach
+    title: "Bustin' Up on the Beach"
+    path: "106 - Bustin' Up on the Beach.psf2"
+    type: betting
+  - id: mickey_mouse_club_march
+    title: "Mickey Mouse Club March"
+    path: "107 - Mickey Mouse Club March.psf2"
+    type: result
+  - id: night_of_fate_kh1
+    title: "Night of Fate"
+    path: "113 - Night of Fate.psf2" 
+    type: battle
   - id: traverse_town_kh1
     title: "Traverse Town"
     path: "116 - Traverse Town.psf2"
@@ -21,9 +33,25 @@ songs:
     title: "Shrouding Dark Cloud"
     path: "118 - Shrouding Dark Cloud.psf2"
     type: betting
+  - id: blast_away_gummi_ship_i
+    title: "Blast Away! -Gummi Ship I-"
+    path: "119 - Blast Away! -Gummi Ship I-.psf2"
+    type: betting
+  - id: welcome_to_wonderland
+    title: "Welcome to Wonderland"
+    path: "121 - Welcome to Wonderland.psf2"
+    type: betting
   - id: to_our_surprise_kh1
     title: "To Our Surprise"
     path: "122 - To Our Surprise.psf2"
+    type: battle
+  - id: having_a_wild_time
+    title: "Having a Wild Time"
+    path: "129 - Having a Wild Time.psf2"
+    type: battle
+  - id: holy_bananas
+    title: "Holy Bananas!"
+    path: "130 - Holy Bananas!.psf2"
     type: battle
   - id: squirming_evil
     title: "Squirming Evil"
@@ -37,14 +65,46 @@ songs:
     title: "Merlin's Magical House"
     path: "134 - Merlin's Magical House.psf2"
     type: break
+  - id: winnie_the_pooh
+    title: "Winnie the Pooh"
+    path: "135 - Winnie the Pooh.psf2"
+    type: break
+  - id: blast_away_gummi_ship_ii
+    title: "Blast Away! -Gummi Ship II-"
+    path: "141 - Blast Away! -Gummi Ship II-.psf2"
+    type: betting
+  - id: a_day_in_agrabah
+    title: "A Day in Agrabah"
+    path: "201 - A Day in Agrabah.psf2"
+    type: betting
+  - id: arabian_dream
+    title: "Arabian Dream"
+    path: "202 - Arabian Dream.psf2"
+    type: battle
+  - id: under_the_sea_kh1
+    title: "Under the Sea"
+    path: "207 - Under the Sea.psf2"
+    type: betting
   - id: the_deep_end_kh1
     title: "The Deep End"
     path: "211 - The Deep End.psf2"
     type: battle
+  - id: this_is_halloween_kh1
+    title: "This is Halloween"
+    path: "212 - This is Halloween.psf2"
+    type: betting
   - id: spooks_of_halloween_town_kh1
     title: "Spooks of Halloween Town"
     path: "213 - Spooks of Halloween Town.psf2"
     type: battle
+  - id: never_land_sky
+    title: "Never Land Sky"
+    path: "217 - Never Land Sky.psf2"
+    type: result
+  - id: blast_away_gummi_ship_iii
+    title: "Blast Away! -Gummi Ship III-"
+    path: "219 - Blast Away! (Gummi Ship III).psf2"
+    type: warning
   - id: hollow_bastion
     title: "Hollow Bastion"
     path: "220 - Hollow Bastion.psf2"
@@ -61,6 +121,10 @@ songs:
     title: "End of the World"
     path: "225 - End of the World.psf2"
     type: break
+  - id: fragments_of_sorrow
+    title: "Fragments of Sorrow"
+    path: "226 - Fragments of Sorrow.psf2"
+    type: battle
   - id: guardando_nel_buio
     title: "Guardando nel buio"
     path: "227 - Guardando nel buio.psf2"

@@ -1,0 +1,68 @@
+---
+id: umurangi_generation
+title: "Umurangi Generation"
+platform: ["PC", "Switch"]
+year: 2020
+songs: 
+  - id: the_glorious_u_n
+    title: "THE GLORIOUS U.N."
+    path: "01. THE GLORIOUS U.N..fsb"
+    type: betting
+  - id: burn_em_all
+    title: "burn em all"
+    path: "02. burn em all.fsb"
+    type: warning
+  - id: costa_del_dolphin
+    title: "Costa del Dolphin"
+    path: "02. Costa del Dolphin.fsb"
+    ends: 2:08
+    type: betting
+  - id: keycard_ting
+    title: "keycard ting"
+    path: "03. keycard ting.fsb"
+    type: betting
+  - id: peaceful_protests_very_nice_and_orderly
+    title: "peaceful protests very nice and orderly"
+    path: "03. peaceful protests very nice and orderly.fsb"
+    type: warning
+  - id: pingwin
+    title: "Pingwin"
+    path: "03. Pingwin.fsb"
+    ends: 2:15
+    type: betting
+  - id: the_bottom_barrel_baby_boys
+    title: "The Bottom Barrel Baby Boys"
+    path: "03. The Bottom Barrel Baby Boys.fsb"
+    type: betting
+  - id: civil_unrest
+    title: "civil unrest"
+    path: "05. civil unrest.fsb"
+    type: warning
+  - id: aaaaaaaaaaa
+    title: "aaaaaaaaaaa"
+    path: "07. aaaaaaaaaaa.fsb"
+    type: result
+  - id: boogiebitch
+    title: "boogiebitch"
+    path: "13. boogiebitch.fsb"
+    type: result
+  - id: duskwalk
+    title: "duskwalk"
+    path: "09. duskwalk.fsb"
+    ends: 2:10
+    type: betting
+  - id: blood_sea
+    title: "Blood Sea"
+    path: "09. Blood Sea.fsb"
+    ends: 2:35
+    type: betting
+  - id: haven
+    title: "Haven"
+    path: "07. Haven.fsb"
+    ends: 2:09
+    type: betting
+  - id: rubber_bullets
+    title: "rubber bullets"
+    path: "09. rubber bullets.fsb"
+    type: warning
+...

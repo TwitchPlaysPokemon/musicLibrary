@@ -5,8 +5,48 @@ series: breathoffire
 platform: ["PS1", "PC"]
 year: 2000
 songs: 
+  - id: 2000_treasure_if_you_win
+    title: "2000 Treasure If You Win"
+    path: "106 2000 Treasure If You Win.psf"
+    type: warning
+  - id: nonono
+    title: "NONONO"
+    path: "109 NONONO.psf"
+    type: warning
+  - id: take_the_winnings_and_run
+    title: "Take the Winnings and Run"
+    path: "113 Take the Winnings and Run.psf"
+    type: betting
+  - id: gotta_turn_it_around_gotta_turn_around
+    title: "Gotta Turn It Around, Gotta Turn Around"
+    path: "116 Gotta Turn It Around, Gotta Turn Around.psf"
+    type: betting
+  - id: truth_and_dreams
+    title: "Truth and Dreams"
+    path: "122 Truth and Dreams.psf"
+    type: break
+  - id: a_man_bofiv
+    title: "A Man"
+    path: "126 A Man.psf"
+    type: battle
+  - id: what_the_samba
+    title: "What the Samba"
+    path: "206 What the Samba.psf"
+    type: result
   - id: turismo
     title: "Turismo"
     path: "216 Turismo.psf"
     type: betting
+  - id: seagull_flies
+    title: "Seagull Flies"
+    path: "218 Seagull Flies.psf"
+    type: break
+  - id: pabu_pabu_puka_puka
+    title: "Pabu-pabu Puka-puka"
+    path: "220 Pabu-pabu Puka-puka.psf"
+    type: betting
+  - id: a_raging_emperor_s_banquet
+    title: "A Raging Emperor's Banquet"
+    path: "224 A Raging Emperor's Banquet.psf"
+    type: battle
 ...

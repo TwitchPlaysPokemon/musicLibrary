@@ -2,8 +2,8 @@
 id: sonic_before_the_sequel
 title: "Sonic: Before The Sequel"
 series: sonic
-platform: "PC"
 is_fanwork: true
+platform: "PC"
 year: 2012
 songs: 
   - id: blue_to_darkness_for_fortress_flow_act_3
@@ -62,8 +62,76 @@ songs:
     title: "Creature of Nightmare - For Sunset Star Boss Act"
     path: "Creature of Nightmare - For Sunset Star Boss Act.brstm"
     type: warning
-  - id: flight_of_the_thing_for_perilous_paradise_boss_sct
+  - id: flight_of_the_thing_for_perilous_paradise_boss_act
     title: "Flight of the... Thing - For Perilous Paradise Boss Act"
     path: "Flight of the... Thing - For Perilous Paradise Boss Act.brstm"
     type: warning
+  - id: downpour_for_hilltop_heights_act_2
+    title: "Downpour - For Hilltop Heights, Act 2"
+    path: "Downpour - For Hilltop Heights, Act 2.brstm"
+    type: betting
+  - id: evening_dreamscape_pt1_for_sunset_star_act_1
+    title: "Evening Dreamscape pt1 - For Sunset Star, Act 1"
+    path: "Evening Dreamscape pt1 - For Sunset Star, Act 1.brstm"
+    type: break
+  - id: evening_dreamscape_pt2_for_sunset_star_act_3
+    title: "Evening Dreamscape pt2 - For Sunset Star, Act 3"
+    path: "Evening Dreamscape pt2 - For Sunset Star, Act 3.brstm"
+    type: betting
+  - id: meet_the_fat_man_for_rocky_ride_boss_act
+    title: "Meet the Fat Man - For Rocky Ride Boss Act"
+    path: "Meet the Fat Man - For Rocky Ride Boss Act.brstm"
+    type: battle
+  - id: ode_to_shattered_illusions_for_final_boss
+    title: "Ode to Shattered Illusions - For Final Boss"
+    path: "Ode to Shattered Illusions - For Final Boss.brstm"
+    type: battle
+  - id: on_the_hero_s_trail_for_star_shores_act_2
+    title: "On the Hero's Trail - For Star Shores, Act 2"
+    path: "On the Hero's Trail - For Star Shores, Act 2.brstm"
+    type: battle
+  - id: playa_del_mediterraneo_for_perlious_paradise_act_1
+    title: "Playa del Mediterráneo - For Perilous Paradise, Act 1"
+    path: "Playa del Mediterráneo - For Perilous Paradise, Act 1.brstm"
+    type: betting
+  - id: prismatic_for_hilltop_heights_act_3
+    title: "Prismatic - For Hilltop Heights, Act 3"
+    path: "Prismatic - For Hilltop Heights, Act 3.brstm"
+    type: betting
+  - id: pushed_by_the_waves_for_fortress_flow_act_2
+    title: "Pushed by the Waves - For Fortress Flow, Act 2"
+    path: "Pushed by the Waves - For Fortress Flow, Act 2.brstm"
+    type: betting
+  - id: rivulets_for_hilltop_heights_act_1
+    title: "Rivulets - For Hilltop Heights, Act 1"
+    path: "Rivulets - For Hilltop Heights, Act 1.brstm"
+    type: betting
+  - id: rolling_out_for_hilltop_heights_boss_act
+    title: "Rolling Out - For Hilltop Heights Boss Act"
+    path: "Rolling Out - For Hilltop Heights Boss Act.brstm"
+    type: battle
+  - id: sea_devil_chase_for_fortress_flow_boss_act
+    title: "Sea Devil Chase! - For Fortress Flow Boss Act"
+    path: "Sea Devil Chase! - For Fortress Flow Boss Act.brstm"
+    type: battle
+  - id: stratospheric_synergy_for_arcane_altitude_act_1
+    title: "Stratospheric Synergy - For Arcane Altitude, Act 1"
+    path: "Stratospheric Synergy - For Arcane Altitude, Act 1.brstm"
+    type: betting
+  - id: titanic_tower_act_1
+    title: "Titanic Tower, Act 1"
+    path: "Titanic Tower, Act 1.brstm"
+    type: betting
+  - id: titanic_tower_act_2
+    title: "Titanic Tower, Act 2"
+    path: "Titanic Tower, Act 2.brstm"
+    type: betting
+  - id: titanic_tower_act_3
+    title: "Titanic Tower, Act 3"
+    path: "Titanic Tower, Act 3.brstm"
+    type: betting
+  - id: world_s_largest_unicycle_for_titanic_tower_boss_act
+    title: "World's Largest Unicycle - For Titanic Tower Boss Act"
+    path: "World's Largest Unicycle - For Titanic Tower Boss Act.brstm"
+    type: battle
 ...

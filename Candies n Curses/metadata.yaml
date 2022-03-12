@@ -1,7 +1,7 @@
 ---
 id: candies_n_curses
 title: "Candies 'n Curses"
-platform: "Mobile"
+platform: "Mobile
 year: 2018
 songs: 
   - id: battle_with_phantom_king
@@ -27,5 +27,57 @@ songs:
   - id: main_menu_cnc
     title: "Main Menu"
     path: "Main Menu.brstm"
+    type: betting
+  - id: before_boss_cnc
+    title: "Before Boss"
+    path: "Before Boss.brstm"
+    type: warning
+  - id: boss_battle_curse_crusher_mode
+    title: "Boss Battle - Curse Crusher Mode"
+    path: "Boss Battle - Curse Crusher Mode.brstm"
+    type: battle
+  - id: botanical_ballroom_curse_crusher_mode
+    title: "Botanical Ballroom - Curse Crusher Mode"
+    path: "Botanical Ballroom - Curse Crusher Mode.brstm"
+    type: betting
+  - id: dinette_of_doom_curse_crusher_mode
+    title: "Dinette of Doom - Curse Crusher Mode"
+    path: "Dinette of Doom - Curse Crusher Mode.brstm"
+    type: betting
+  - id: ember_cellar_curse_crusher_mode
+    title: "Ember Cellar - Curse Crusher Mode"
+    path: "Ember Cellar - Curse Crusher Mode.brstm"
+    type: betting
+  - id: ember_cellar_stage_2
+    title: "Ember Cellar (Stage 2)"
+    path: "Ember Cellar (Stage 2).brstm"
+    type: betting
+  - id: final_boss_curse_crusher_mode
+    title: "Final Boss - Curse Crusher Mode"
+    path: "Final Boss - Curse Crusher Mode.brstm"
+    type: battle
+  - id: halls_of_sorrow_curse_crusher_mode
+    title: "Halls of Sorrow - Curse Crusher Mode"
+    path: "Halls of Sorrow - Curse Crusher Mode.brstm"
+    type: betting
+  - id: intro_sequence_cnc
+    title: "Intro Sequence"
+    path: "Intro Sequence.brstm"
+    type: betting
+  - id: shudder_shade_study_curse_crusher_mode
+    title: "Shudder Shade Study - Curse Crusher Mode"
+    path: "Shudder Shade Study - Curse Crusher Mode.brstm"
+    type: betting
+  - id: shudder_shade_study_stage_6
+    title: "Shudder Shade Study (Stage 6)"
+    path: "Shudder Shade Study (Stage 6).brstm"
+    type: betting
+  - id: undead_library_curse_crusher_mode
+    title: "Undead Library - Curse Crusher Mode"
+    path: "Undead Library - Curse Crusher Mode.brstm"
+    type: betting
+  - id: undead_library_stage_3
+    title: "Undead Library (Stage 3)"
+    path: "Undead Library (Stage 3).brstm"
     type: betting
 ...

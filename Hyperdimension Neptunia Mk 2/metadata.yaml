@@ -2,8 +2,8 @@
 id: hyperdimension_neptunia_mk_2
 title: "Hyperdimension Neptunia Mk 2"
 series: neptunia
+platform: "PS3"
 year: 2011
-platform: ["PS3", "Vita", "PC"]
 songs:
   - id: rebeat_resort
     title: "Rebeat Resort"
@@ -68,5 +68,22 @@ songs:
   - id: four_felons
     title: "Four Felons"
     path: "Four Felons.brstm"
+    type: battle
+  - id: history_of_collapse
+    title: "History of Collapse"
+    path: "011.hca"
+    type: betting
+  - id: nis_this_justice_in_my_heart
+    title: "N・I・S＜This Justice In My Heart＞"
+    path: "038.hca"
+    ends: 1:55
+    type: betting
+  - id: minicar_hypnepmk2
+   title: "Minicar"
+    path: "Neptunia Planeptune's theme.brstm"
+    type: betting
+  - id: aura_of_hope
+    title: "Aura of Hope"
+    path: "Neptunia True Arfoire's theme.brstm"
     type: battle
 ...

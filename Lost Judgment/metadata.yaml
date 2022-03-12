@@ -1,0 +1,232 @@
+---
+id: lost_judgment
+title: "Lost Judgment"
+series: yakuza
+platform: ["PS4", "PS5", "XBO", "XSX"]
+year: 2021
+songs: 
+  - id: lost_in_the_rain
+    title: "Lost in The Rain"
+    path: "101 Lost in The Rain.brstm"
+    type: break
+  - id: polar_night
+    title: "Polar Night"
+    path: "104 Polar Night.brstm"
+    type: betting
+  - id: white_night
+    title: "White Night"
+    path: "105 White Night.brstm"
+    type: warning
+  - id: verification_lost_judgment
+    title: "Verification"
+    path: "106 Verification.brstm"
+    type: betting
+  - id: blue_stompin
+    title: "Blue Stompin'"
+    path: "107 Blue Stompin'.brstm"
+    type: battle
+  - id: ferocious_red
+    title: "Ferocious Red"
+    path: "108 Ferocious Red.brstm"
+    type: battle
+  - id: green_vibes
+    title: "Green Vibes"
+    path: "109 Green Vibes.brstm"
+    type: battle
+  - id: steal_everything
+    title: "Steal Everything"
+    path: "110 Steal Everything.brstm"
+    type: betting
+  - id: hydra_lost_judgment
+    title: "Hydra"
+    path: "111 Hydra.brstm"
+    type: battle
+  - id: in_the_groove
+    title: "In The Groove"
+    path: "113 In The Groove.brstm"
+    type: battle
+  - id: reunion_lost_judgment
+    title: "Reunion"
+    path: "114 再会.brstm"
+    type: betting
+  - id: dubious_judgment
+    title: "Dubious"
+    path: "115 Dubious.brstm"
+    type: betting
+  - id: vorarephilia
+    title: "Vorarephilia"
+    path: "116 Vorarephilia.brstm"
+    type: battle
+  - id: ideal_resolution
+    title: "Ideal Resolution!"
+    path: "117 華麗に解決!.brstm"
+    ends: 2:26
+    type: betting
+  - id: tracker_lost_judgment
+    title: "Tracker"
+    path: "118 追跡子.brstm"
+    type: warning
+  - id: liumang_s_chant
+    title: "Liumang's Chant"
+    path: "122 Liumang's Chant.brstm"
+    type: battle
+  - id: 1811_lost_judgment
+    title: "1811"
+    path: "124 1811.brstm"
+    type: battle
+  - id: fog
+    title: "Fog"
+    path: "126 Fog.brstm"
+    type: battle
+  - id: k_o_g
+    title: "K.O.G."
+    path: "128 K.O.G.brstm"
+    type: battle
+  - id: viper
+    title: "Viper"
+    path: "204 Viper.brstm"
+    type: battle
+  - id: seriously
+    title: "Seriously"
+    path: "207 Seriously.brstm"
+    type: betting
+  - id: dig_in_your_heels
+    title: "Dig In Your Heels"
+    path: "208 Dig In Your Heels.brstm"
+    type: battle
+  - id: darkest_before_the_dawn
+    title: "Darkest Before The Dawn"
+    path: "209 Darkest Before The Dawn.brstm"
+    type: warning
+  - id: a_conclusion
+    title: "A Conclusion"
+    path: "Amazon_LOST_JUDGMENT_3.brstm"
+    type: betting
+  - id: final_destination_lost_judgment
+    title: "Final Destination"
+    path: "213 Final Destination.brstm"
+    type: battle
+  - id: press_on_our_way
+    title: "Press On Our Way"
+    path: "214 Press On Our Way.brstm"
+    ends: 2:39
+    type: betting
+  - id: unwavering_belief_full_spec_edition
+    title: "Unwavering Belief -Full Spec Edition-"
+    path: "217 Unwavering Belief -Full spec edition-.brstm"
+    type: battle
+  - id: not_alone
+    title: "Not Alone"
+    path: "220 Not Alone.brstm"
+    type: break
+  - id: let_s_dance_lost_judgment
+    title: "Let's Dance!"
+    path: "301 Let's Dance!.brstm"
+    ends: 1:40
+    type: betting
+  - id: long_drill_on_the_beach
+    title: "Long Drill on the Beach"
+    path: "302 Long Drill on the Beach.brstm"
+    ends: 1:58
+    type: betting
+  - id: esmeralda
+    title: "ESMERALDA"
+    path: "303 ESMERALDA loop.brstm"
+    type: battle
+  - id: you_slayed
+    title: "You Slayed!"
+    path: "305 You Slayed!.brstm"
+    type: result
+  - id: matter_of_factly
+    title: "Matter Of Factly"
+    path: "306 Matter Of Factly.brstm"
+    type: break
+  - id: aiming_for_the_top
+    title: "Aiming for the Top"
+    path: "309 頂を目指して.brstm"
+    type: betting
+  - id: maybe_next_time
+    title: "Maybe Next Time..."
+    path: "313 次こそは・・・.brstm"
+    type: result
+  - id: lethargy
+    title: "Lethargy"
+    path: "316 けだるい感じ.brstm"
+    type: break
+  - id: skate_rat
+    title: "SKATE RAT"
+    path: "317 SKATE RAT.brstm"
+    type: betting
+  - id: hang_in_there
+    title: "Hang in there!"
+    path: "318 Hang in there!.brstm"
+    type: betting
+  - id: set_up_lost_judgment
+    title: "Set Up"
+    path: "322 Set Up.brstm"
+    type: betting
+  - id: spar_with_me
+    title: "Spar With Me"
+    path: "323 Spar With Me.brstm"
+    type: battle
+  - id: tough_cuss
+    title: "Tough Cuss"
+    path: "324 Tough Cuss.brstm"
+    type: battle
+  - id: benevolent
+    title: "Benevolent"
+    path: "328 恩念.brstm"
+    type: break
+  - id: burn_it_up_lost_judgment
+    title: "Burn It Up!"
+    path: "403 灼き尽くせ!.brstm"
+    type: betting
+  - id: lazy_daisy
+    title: "Lazy Daisy"
+    path: "404 レイジーデイジー.brstm"
+    type: battle
+  - id: road_rage_in_hama
+    title: "Road Rage in 'Hama"
+    path: "405 ハマのロードレイジ.brstm"
+    type: battle
+  - id: present_from_hell
+    title: "Present from Hell"
+    path: "406 冥土の土産に.brstm"
+    type: battle
+  - id: rubber_marks_on_the_road
+    title: "Rubber Marks On The Road"
+    path: "407 Rubber Marks On The Road.brstm"
+    type: battle
+  - id: slipping_to_death
+    title: "Slipping To Death"
+    path: "411 Slipping To Death.brstm"
+    type: battle
+  - id: digital_fireflies
+    title: "Digital Fireflies"
+    path: "mngbgm_drone_00000000.hca"
+    type: betting
+  - id: toward_the_skyline
+    title: "Toward To The Skyline"
+    path: "mngbgm_drone_00000001.hca"
+    type: battle
+  - id: beyond_the_waves
+    title: "Beyond The Waves"
+    path: "422 Beyond The Waves.brstm"
+    type: betting
+  - id: happy_moments
+    title: "Happy Moments"
+    path: "424 Happy Moments.brstm"
+    type: result
+  - id: talkie_forgy
+    title: "Talkie-Forgy"
+    path: "426 Talkie-Forgy.brstm"
+    type: result
+  - id: in_the_rhythm
+    title: "In The Rhythm"
+    path: "427 In The Rhythm.brstm"
+    type: betting
+  - id: lineage_of_clan
+    title: "Lineage Of Clan"
+    path: "430 Lineage Of Clan.brstm"
+    type: battle
+...

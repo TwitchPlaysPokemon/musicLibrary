@@ -1,0 +1,32 @@
+---
+id: megatagmension_blanc_neptune_vs_zombies
+title: "MegaTagmension Blanc + Neptune VS Zombies"
+series: neptunia
+platform: ["Vita", "PC"]
+year: 2015
+songs: 
+  - id: gears_of_white
+    title: "Gears of White"
+    path: "bgm001.hca"
+    type: battle
+  - id: white_wings_rebirth
+    title: "White Wings Re;Birth"
+    path: "bgm002.hca"
+    type: betting
+  - id: principal_prettiness
+    title: "Principal Prettiness"
+    path: "bgm004.hca"
+    type: battle
+  - id: dynamic_capacity
+    title: "Dynamic Capacity"
+    path: "bgm007.hca"
+    type: warning
+  - id: gamelomania
+    title: "GAMELOMANIA"
+    path: "bgm010.hca"
+    type: battle
+  - id: wild_dance_with_wild_scamp
+    title: "Wild Dance With Wild Scamp"
+    path: "bgm011.hca"
+    type: betting
+...

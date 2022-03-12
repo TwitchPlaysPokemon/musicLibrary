@@ -5,8 +5,52 @@ series: kingdomhearts
 platform: "GBA"
 year: 2004
 songs: 
-  - id: spooks_of_halloween_town_kingdom_hearts_chain_of_memories
+  - id: dearly_beloved_chain_of_memories
+    title: "Dearly Beloved"
+    path: "01 Dearly Beloved.minigsf"
+    type: break
+  - id: conflict_chain_of_memories
+    title: "Conflict"
+    path: "04 Conflict.minigsf"
+    type: warning
+  - id: traverse_town_chain_of_memories
+    title: "Traverse Town"
+    path: "05 Traverse Town.minigsf"
+    type: break
+  - id: hand_in_hand_chain_of_memories
+    title: "Hand in Hand"
+    path: "06 Hand in Hand.minigsf"
+    type: betting
+  - id: organization_battle_chain_of_memories
+    title: "Organization Battle"
+    path: "12 Organization Battle.minigsf"
+    type: warning
+  - id: this_is_halloween_chain_of_memories
+    title: "This is Halloween"
+    path: "24 This is Halloween.minigsf"
+    type: betting
+  - id: spooks_of_halloween_town_chain_of_memories
     title: "Spooks of Halloween Town"
     path: "25 Spooks of Halloween Town.minigsf"
     type: battle
+  - id: under_the_sea_chain_of_memories
+    title: "Under the Sea"
+    path: "26 Under the Sea.minigsf"
+    type: betting
+  - id: pirate_s_gigue_chain_of_memories
+    title: "Pirate's Gigue"
+    path: "30 Pirate's Gigue.minigsf"
+    type: betting
+  - id: winnie_the_pooh_chain_of_memories
+    title: "Winnie the Pooh"
+    path: "31 Winnie the Pooh.minigsf"
+    type: break
+  - id: scherzo_di_notte_chain_of_memories
+    title: "Scherzo di notte"
+    path: "34 Scherzo di notte.minigsf"
+    type: betting
+  - id: destiny_islands_chain_of_memories
+    title: "Destiny Islands"
+    path: "37 Destiny Islands.minigsf"
+    type: break
 ...

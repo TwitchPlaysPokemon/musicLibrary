@@ -1,10 +1,42 @@
+---
 id: rayman_origins
 title: "Rayman Origins"
 platform: ["Wii", "Various"]
 #other platforms: ["360", "PS3", "Vita", "PC", "3DS"]
 year: 2011
 songs: 
-  - id: chest_rayman_origins
-    title: "Chest"
+  - id: the_tricky_treasure
+    title: "The Tricky Treasure"
     path: "Chest.brstm"
     type: result
+  - id: the_darktoon_chase
+    title: "The Darktoon Chase"
+    path: "Jibberish Jungle - The Darktoon Chase.brstm"
+    type: betting
+  - id: glacier_cocktail
+    title: "Glacier Cocktail"
+    path: "Glacier Cocktail.brstm"
+    type: betting
+  - id: breaking_force_field
+    title: "Breaking the Force Field"
+    path: "02 - Desert of Dijiridoos _ Breaking the Force Field.brstm"
+    type: result
+  - id: shooting_me_softly
+    title: "Shooting Me Softly"
+    path: "04 - Desert of Dijiridoos _ Shooting Me Softly.mp3"
+    ends: 2:25
+    type: betting
+  - id: breaking_the_ice
+    title: "Breaking the Ice"
+    path: "14 - Gourmand Land _ Breaking the Ice.brstm"
+    type: betting
+  - id: first_staffs
+    title: "First Staffs"
+    path: "15 - Desert of Dijiridoos _ First Staffs.mp3"
+    type: break
+  - id: lums_of_the_water_glou_glou
+    title: "Lums of the Water (''Glou Glou'')"
+    path: "17 - Sea of Serendipity _ Lums of the Water (''Glou Glou'').mp3"
+    ends: 2:39
+    type: betting
+...

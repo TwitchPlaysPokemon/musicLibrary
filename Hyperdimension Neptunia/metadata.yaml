@@ -1,13 +1,44 @@
+---
 id: hyperdimension_neptunia
 title: "Hyperdimension Neptunia"
+series: neptunia
+platform: "PS3"
 year: 2010
-platform: ["PS3", "Vita", "PC"]
 songs:
   - id: leanbox_theme
     title: "Leanbox's Theme"
     path: "Leanbox's Theme.brstm"
     type: betting
-  - id: between_earth_and_sky
-    title: "Between Earth and Sky"
-    path: "Neptunia Between Earth and Sky.brstm"
-    type: betting
+  - id: the_soul_of_fight
+    title: "The Soul of Fight"
+    path: "004.adx"
+    type: battle
+  - id: the_gushing_broken_pipe
+    title: "The Gushing Broken Pipe"
+    path: "006.adx"
+    type: battle
+  - id: white_heart_battle
+    title: "White Heart Battle"
+    path: "008.adx"
+    type: warning
+  - id: tough_guard
+    title: "Tough Guard"
+    path: "017.adx"
+    type: warning
+  - id: white_time
+    title: "White Time"
+    path: "027.adx"
+    type: break
+  - id: arfoire_s_theme
+    title: "Arfoire's Theme"
+    path: "034.adx"
+    type: warning
+  - id: sacred_time
+    title: "Sacred Time"
+    path: "035.adx"
+    type: battle
+  - id: final_battle_hypnep
+    title: "Final Battle"
+    path: "036.adx"
+    type: warning
+...

@@ -1,0 +1,93 @@
+---
+id: the_great_ace_attorney_2_resolve
+title: "The Great Ace Attorney 2: Resolve"
+series: aceattorney
+platform: "3DS"
+year: 2017
+#taken from the Switch rerelease
+songs: 
+  - id: ryunosuke_naruhodo_overture_to_resolve
+    title: "Ryunosuke Naruhodo - Overture to Resolve"
+    path: "aibou_title.sngw"
+    type: result
+  - id: prelude_to_the_blossoming_attorney
+    title: "Prelude to the Blossoming Attorney"
+    path: "susato_igiari_2.sngw"
+    type: warning
+  - id: ryutaro_naruhodo_objection
+    title: "Ryutaro Naruhodo - Objection!"
+    path: "susato_igiari.sngw"
+    type: result
+  - id: raiten_menimemo_one_journo_s_menimemoism
+    title: "Raiten Menimemo - One Journo's Menimemoism"
+    path: "theme_of_mamemomi.sngw"
+    type: betting
+  - id: william_shamspere_back_alley_bard
+    title: "William Shamspeare - Back Alley Bard"
+    path: "theme_of_petenshi.sngw"
+    type: betting
+  - id: professor_harebrayne_student_of_science
+    title: "Professor Harebrayne - Student of Science"
+    path: "theme_of_dobinbo.sngw"
+    type: betting
+  - id: the_waxwork_museum
+    title: "The Waxwork Museum"
+    path: "place_rouningyou.sngw"
+    type: break
+  - id: madame_tusspells_mysteries_encased_in_wax
+    title: "Madame Tusspells - Mysteries Encased in Wax"
+    path: "theme_of_rouzaiku.sngw"
+    type: betting
+  - id: doctor_sithe_untouchable_corner
+    title: "Doctor Sithe - Untouchable Coroner"
+    path: "theme_of_sith.sngw"
+    type: betting
+  - id: enoch_drebber_rondo_of_science_and_magic
+    title: "Enoch Drebber - Rondo of Science and Magic"
+    path: "theme_of_drebber.sngw"
+    type: betting
+  - id: the_professor_a_spectre_revived
+    title: "The Professor - A Spectre Revived"
+    path: "theme_of_professor.sngw"
+    type: betting
+  - id: his_glorious_return
+    title: "His Glorious Return"
+    path: "asougi_arr.sngw"
+    type: result
+  - id: a_prosecutor_reborn
+    title: "A Prosecutor, Reborn"
+    path: "theme_of_asougi_kenji.sngw"
+    type: betting
+  - id: german_song_ode_an_die_wut
+    title: "German Song ‘Ode an die Wut’"
+    path: "record_german.sngw"
+    type: break
+  - id: the_defendants_antechamber_variation
+    title: "The Defendants' Antechamber (Variation)"
+    path: "hikaesitsu_final.sngw"
+    type: betting
+  - id: the_great_closed_trial_court_is_now_in_session
+    title: "The Great Closed Trial - Court is Now in Session"
+    path: "kaitei_final.sngw"
+    type: result
+  - id: a_battle_of_wits_backstage_partners_version
+    title: "A Battle of Wits - Backstage (Partners Version)"
+    path: "aibou_shitagamen.sngw"
+    type: warning
+  - id: partners_the_game_is_afoot
+    title: "Partners - The game is afoot!"
+    path: "theme_of_aibou.sngw"
+    type: result
+  - id: prelude_to_pursuit_gaa2
+    title: "Prelude to Pursuit"
+    path: "tsuikyu_yochou.sngw"
+    type: warning
+  - id: great_pursuit_the_resolve_of_ryunosuke_naruhodo
+    title: "Great Pursuit - The Resolve of Ryunosuke Naruhodo"
+    path: "tsuikyuu_2.sngw"
+    type: result
+  - id: victory_one_last_great_win
+    title: "Victory - One Last Great Win"
+    path: "shouso_final.sngw"
+    type: result
+...

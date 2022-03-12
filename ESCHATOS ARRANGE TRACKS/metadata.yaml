@@ -8,4 +8,28 @@ songs:
     title: "POINT OF NO RETURN ( AREA 12-15 )"
     path: "Point of No Return (Arranged).brstm"
     type: battle
+  - id: silver_lining_special_arrangement
+    title: "SILVER LINING (SPECIAL ARRANGEMENT)"
+    path: "01 SILVER LINING [SPECIAL ARRANGE VERSION].brstm"
+    type: battle
+  - id: massive_x_area_5_15_20
+    title: "MASSIVE X (AREA 5, 15, 20)"
+    path: "03 - Massive X (Area5, 15, 20).brstm"
+    type: battle
+  - id: stellar_light_area_16_19
+    title: "STELLAR LIGHT (AREA 16 - 19)"
+    path: "06 - Stellar Light (Area16-19).brstm"
+    type: betting
+  - id: extermination_area_26a
+    title: "EXTERMINATION (AREA 26A)"
+    path: "09 - Extermination (Area26a).brstm"
+    type: battle
+  - id: clair_de_lune_ending
+    title: "Clair De Lune (ENDING)"
+    path: "11 - Clair De Lune (Ending).brstm"
+    type: result
+  - id: stellar_light_feat_ia_vocaloid_arrangement
+    title: "STELLAR LIGHT feat. IA (VOCALOID ARRANGEMENT)"
+    path: "16 - Stellar Light feat.IA [Vocaloid Arrange Version].brstm"
+    type: betting
 ...

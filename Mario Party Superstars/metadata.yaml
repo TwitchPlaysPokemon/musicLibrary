@@ -1,0 +1,44 @@
+---
+id: mario_party_superstars
+title: "Mario Party Superstars"
+series: mario
+platform: "Switch"
+year: 2021
+songs: 
+  - id: try_hard_folks_superstars
+    title: "Try Hard, Folks"
+    path: "SM_BGM_HSMG501_807_JMP.dspadpcm [1].brstm"
+    type: battle
+  - id: peach_s_birthday_cake_superstars
+    title: "Peach's Birthday Cake"
+    path: "SM_BGM_HSBD01.dspadpcm.bfstm"
+    type: betting
+  - id: space_land_superstars
+    title: "Space Land"
+    path: "SM_BGM_HSBD02.dspadpcm.bfstm"
+    type: betting
+  - id: woody_woods_superstars
+    title: "Woody Woods"
+    path: "SM_BGM_HSBD03.dspadpcm.bfstm"
+    type: betting
+  - id: yoshi_s_tropical_island_superstars
+    title: "Yoshi's Tropical Island"
+    path: "SM_BGM_HSBD04.dspadpcm.bfstm"
+    type: betting
+  - id: horror_land_superstars
+    title: "Horror Land"
+    path: "SM_BGM_HSBD05.bfstm"
+    type: betting
+  - id: title_mario_party_1
+    title: "Title (Mario Party 1)"
+    path: "SM_BGM_TITLE_MP1.dspadpcm.bfstm"
+    type: result
+  - id: title_mario_party_2
+    title: "Title (Mario Party 2)"
+    path: "SM_BGM_TITLE_MP2.dspadpcm.bfstm"
+    type: result
+  - id: title_mario_party_3
+    title: "Title (Mario Party 3)"
+    path: "SM_BGM_TITLE_MP3.dspadpcm.bfstm"
+    type: result
+...

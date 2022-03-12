@@ -1,0 +1,144 @@
+---
+id: final_fantasy_iv_pixel_remaster
+title: "Final Fantasy IV Pixel Remaster"
+series: finalfantasy
+platform: ["Mobile", "PC"]
+year: 2021
+songs:
+  - id: the_prelude_ff4p
+    title: "The Prelude"
+    path: "01 The Prelude.mab"
+    type: break
+  - id: red_wings_ff4p
+    title: "Red Wings"
+    path: "02 Red Wings.mab"
+    type: betting
+  - id: theme_of_love_ff4p
+    title: "Theme of Love"
+    path: "04 Theme of Love.mab"
+    type: break
+  - id: prologue_ff4p
+    title: "Prologue"
+    path: "05 Prologue.mab"
+    type: betting
+  - id: main_theme_ff4p
+    title: "Main Theme of Final Fantasy IV"
+    path: "07 Main Theme of Final Fantasy IV.mab"
+    type: betting
+  - id: fight_1_ff4p
+    title: "Fight 1"
+    path: "08 Fight 1.mab"
+    type: battle
+  - id: fanfare_ff4p
+    title: "Fanfare"
+    path: "09 Fanfare.mab"
+    type: result
+  - id: hello_big_chocobo_ff4p
+    title: "Hello! Big Chocobo!"
+    path: "10 Hello! Big Chocobo!.mab"
+    type: warning
+  - id: chocobo_chocobo_ff4p
+    title: "Chocobo ~ Chocobo"
+    path: "11 Chocobo ~ Chocobo.mab"
+    type: result
+  - id: into_the_darkness_ff4p
+    title: "Into the Darkness"
+    path: "12 Into the Darkness.mab"
+    type: warning
+  - id: fight_2_ff4p
+    title: "Fight 2"
+    path: "13 Fight 2.mab"
+    type: battle
+  - id: ring_of_bomb
+    title: "Ring of Bomb"
+    path: "14 Ring of Bomb.mab"
+    type: warning
+  - id: rydia
+    title: "Rydia"
+    path: "15 Rydia.mab"
+    type: break
+  - id: castle_damcyan
+    title: "Castle Damcyan"
+    path: "16 Castle Damcyan.mab"
+    type: betting
+  - id: mt_ordeals
+    title: "Mt. Ordeals"
+    path: "19 Mt. Ordeals.mab"
+    type: betting
+  - id: fabul
+    title: "Fabul"
+    path: "20 Fabul.mab"
+    type: warning
+  - id: run_ff4p
+    title: "Run!!!"
+    path: "21 Run!!!.mab"
+    type: warning
+  - id: golbez_clad_in_dark
+    title: "Golbez, Clad in Dark"
+    path: "23 Golbez, Clad in Dark.mab"
+    type: warning
+  - id: hey_cid
+    title: "Hey, Cid!"
+    path: "24 Hey, Cid!.mab"
+    type: betting
+  - id: mystic_mysidia
+    title: "Mystic Mysidia"
+    path: "25 Mystic Mysidia.mab"
+    type: betting
+  - id: palom_and_porom
+    title: "Palom and Porom"
+    path: "27 Palom and Porom.mab"
+    type: warning
+  - id: the_dreadful_fight_ff4p
+    title: "The Dreadful Fight"
+    path: "28 The Dreadful Fight.mab"
+    type: battle
+  - id: the_airship_ff4p
+    title: "The Airship"
+    path: "29 The Airship.mab"
+    type: result
+  - id: troian_beauty
+    title: "Troian Beauty"
+    path: "30 Troian Beauty.mab"
+    type: break
+  - id: samba_de_chocobo_ff4p
+    title: "Samba de Chocobo!"
+    path: "31 Samba de Chocobo!.mab"
+    type: betting
+  - id: the_tower_of_babel
+    title: "The Tower of Babel"
+    path: "32 The Tower of Babel.mab"
+    type: betting
+  - id: land_of_dwarves
+    title: "Land of Dwarves"
+    path: "34 Land of Dwarves.mab"
+    type: betting
+  - id: giott_the_giant_king
+    title: "Giott, the Great King"
+    path: "35 Giott, the Great King.mab"
+    type: betting
+  - id: dancing_calcobrina
+    title: "Dancing Calcobrina"
+    path: "36 Dancing Calcobrina.mab"
+    type: warning
+  - id: another_moon_ff4p
+    title: "Another Moon"
+    path: "40 Another Moon.mab"
+    type: betting
+  - id: within_the_giant
+    title: "Within the Giant"
+    path: "42 Within the Giant.mab"
+    type: betting
+  - id: the_final_battle_ff4p
+    title: "The Final Battle"
+    path: "43 The Final Battle.mab"
+    type: battle
+  - id: epilogue_part_1_ff4p
+    title: "Epilogue (Part 1)"
+    path: "44a Epilogue (part 1).mab"
+    type: break
+  - id: chocobo_forest_ff4p
+    title: "Chocobo Forest"
+    path: "99 Chocobo Forest.mab"
+    type: break
+...

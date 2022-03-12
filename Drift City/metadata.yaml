@@ -1,0 +1,25 @@
+---
+id: drift_city
+title: "Drift City"
+#alternate names: Skid Rush, 스키드러쉬
+platform: "PC"
+year: 2007
+songs:
+  - id: right_now
+    title: "Right Now"
+    path: "Right Now.brstm"
+    type: betting
+  - id: rockin_on_rudolf
+    title: "Rockin' on Rudolf"
+    path: "Rockin' on Rudolf.brstm"
+    tags: [xmas]
+    type: battle
+  - id: i_can_t_stop_novox
+    title: "I Can't Stop (novox)"
+    path: "I Can't Stop (novox).brstm"
+    type: betting
+  - id: old_rival
+    title: "Old Rival"
+    path: "Old Rival.brstm"
+    type: betting
+...
