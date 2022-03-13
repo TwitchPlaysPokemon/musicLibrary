@@ -1,7 +1,8 @@
 ---
 id: yakuza_kiwami_2
 title: "Yakuza Kiwami 2"
-platform: ["PS4", "PC"]
+series: yakuza
+platform: ["PS4", "XBO", "PC"]
 year: 2017
 songs: 
   - id: rebellious_phase
@@ -21,8 +22,8 @@ songs:
     title: "Push Me Under Water"
     path: "bbg_a_00000006.hca"
     type: battle
-  - id: outlaw_s_lullaby_yakuza_kiwami_2
-    title: "Outlaw's Lullaby"
+  - id: lullaby_of_outlaws
+    title: "Lullaby Of Outlaws"
     path: "bbg_a_00000008.hca"
     type: battle
   - id: update_with_gunfire
