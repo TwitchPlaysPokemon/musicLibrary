@@ -1,7 +1,8 @@
 ---
 id: yakuza_6_the_song_of_life
 title: "Yakuza 6: The Song of Life"
-platform: "PS4"
+series: yakuza
+platform: ["PS4", "XBO", "PC"]
 year: 2016
 songs: 
   - id: 応龍の嘶き_young_dragon_s_breath
