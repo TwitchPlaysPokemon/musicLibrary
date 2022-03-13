@@ -61,8 +61,8 @@ songs:
     title: "t u s k"
     path: "134 tusk.brstm"
     type: battle
-  - id: 怨魔の契り
-    title: "怨魔の契り"
+  - id: pledge_of_demon
+    title: "Pledge of Demon"
     path: "138 怨魔の契り.brstm"
     type: battle
   - id: with_vengeance
@@ -113,12 +113,12 @@ songs:
     title: "Glorious Memories"
     path: "ID00391.hca"
     type: result
-  - id: ファースト_インプレッション
-    title: "ファースト・インプレッション"
+  - id: 1st_impression
+    title: "1st Impression"
     path: "ID00267.hca"
     type: betting
-  - id: サード_インプレッション
-    title: "サード・インプレッション"
+  - id: 3rd_impression
+    title: "3rd Impression"
     path: "ID00269.hca"
     type: betting
   - id: destiny_of_the_cats
