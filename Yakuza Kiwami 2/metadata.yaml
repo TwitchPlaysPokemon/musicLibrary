@@ -9,8 +9,8 @@ songs:
     title: "Rebellious Phase"
     path: "bbg_a_00000000.hca"
     type: battle
-  - id: a_scattered_moment
-    title: "散るは永遠の刹那 (A Scattered Moment)"
+  - id: a_scattered_eternal_moment
+    title: "A Scattered, Eternal Moment"
     path: "bbg_a_00000002.hca"
     ends: 3:31
     type: betting
@@ -50,8 +50,8 @@ songs:
     title: "Bad Fotune, Not Bad"
     path: "bbg_d_00000002.hca"
     type: battle
-  - id: beast_itself
-    title: "龍騰虎闘 (Beast Itself)"
+  - id: rising_dragon_and_tiger_duel
+    title: "Rising Dragon and Tiger Duel"
     path: "bbg_d_00000004.hca"
     type: battle
   - id: cabaret_gp_fever
