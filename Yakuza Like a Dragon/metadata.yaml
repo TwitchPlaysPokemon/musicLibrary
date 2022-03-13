@@ -1,170 +1,171 @@
 ---
 id: yakuza_like_a_dragon
 title: "Yakuza: Like a Dragon"
-platform: ["PS4", "PS5", "XB1", "XSX", "PC"]
+series: yakuza
+platform: ["PS4", "PS5", "XBO", "XSX", "PC"]
 year: 2020
 songs: 
-  - id: dawn_of_a_new_dragon
-    title: "Dawn of a New Dragon"
+  - id: darkness_in_the_light_light_in_the_darkness
+    title: "Darkness in the Light ~ Light in the Darkness"
     path: "otherbgm.brstm"
     type: break
-  - id: urgent
-    title: "Urgent"
-    path: "advbgm_00000000.hca"
-    type: betting
-  - id: kamurocho_battle_theme
-    title: "Kamurocho Battle Theme"
+  - id: ascension_point
+    title: "Ascension Point"
     path: "bbg_a_00000006.hca"
     type: battle
-  - id: battle_result
-    title: "Battle Result"
+  - id: a_hero_s_path
+    title: "A Hero's Path"
     path: "bbg_b_00000007.hca"
     type: result
-  - id: scenario_battle
-    title: "Scenario Battle"
+  - id: asphodelos
+    title: "Asphodelos"
     path: "bbg_b_00000004.hca"
     type: battle
-  - id: foreboding
-    title: "Foreboding"
+  - id: lingering_odor
+    title: "Lingering Odor"
     path: "advbgm_00000001.hca"
     type: betting
-  - id: beneath_the_surface
-    title: "Beneath the Surface"
-    path: "bbg_b_00000005.hca"
-    type: betting
-  - id: the_calm_before_the_storm
-    title: "The calm before the storm"
-    path: "bbg_b_0000000C.hca"
-    type: break
-  - id: universal_boss
-    title: "Universal Boss"
+  - id: pellagra
+    title: "Pellagra"
     path: "bbg_a_00000004.hca"
     type: battle
-  - id: ijincho_battle_theme
-    title: "Ijincho Battle Theme"
+  - id: subterranean_castle
+    title: "Subterranean Castle"
+    path: "bbg_b_00000005.hca"
+    type: betting
+  - id: safe_area_yakuza_like_a_dragon
+    title: Safe Area"
+    path: "bbg_b_0000000C.hca"
+    type: break
+  - id: yokohama_crackhouse
+    title: "Yokohama Crackhouse"
     path: "bbg_b_0000000A.hca"
     type: battle
-  - id: battle_wild_sujimon
-    title: "Battle! (Wild Sujimon)"
-    path: "bbg_a_0000000A.hca"
-    type: battle
-  - id: seiryu_kai_battle
-    title: "Seiryu Kai Battle"
+  - id: seiryu_revolt
+    title: "Seiryu Revolt"
     path: "bbg_b_0000000B.hca"
     type: battle
-  - id: hello_work
-    title: "Hello, Work"
-    path: "bbg_a_0000000B.hca"
-    type: warning
-  - id: geomijul_battle
-    title: "Geomijul Battle"
+  - id: foul_odor
+    title: "Foul Odor"
+    path: "advbgm_00000000.hca"
+    type: betting
+  - id: answer_from_geomijul
+    title: "Answer From Geomijul"
     path: "bbg_b_00000006.hca"
     type: battle
-  - id: cold_blooded
-    title: "Cold-Blooded"
+  - id: war_maker
+    title: "War Maker"
     path: "bbg_b_00000009.hca"
     type: battle
-  - id: heavy_machinery
-    title: "Heavy Machinery"
-    path: "bbg_a_00000001.hca"
-    type: battle
-  - id: hei_an_ru
-    title: "Hei An Ru"
+  - id: liumang_passage
+    title: "Liumang Passage"
     path: "bbg_b_0000000D.hca"
     type: break
-  - id: hei_an_ru_battle
-    title: "Hei An Ru Battle"
+  - id: enter_the_tiger
+    title: "Enter The Tiger"
     path: "bbg_b_0000000E.hca"
     type: betting
-  - id: omi_rengo
-    title: "Omi Rengo"
+  - id: monken_s_beeper
+    title: "Monken's Beeper"
+    path: "bbg_a_00000001.hca"
+    type: battle
+  - id: tranquillo
+    title: "tranquillo"
     path: "bbg_a_00000008.hca"
     type: betting
-  - id: omi_rengo_battle
-    title: "Omi Rengo Battle"
+  - id: appassionato
+    title: "appassionato"
     path: "bbg_a_00000007.hca"
     type: battle
-  - id: receive_and_turn_you
-    title: "Receive and Turn You"
+  - id: recieve_you_the_hyperactive
+    title: "Recieve You The Hyperactive"
     path: "bbg_b_00000011.hca"
     type: battle
-  - id: confrontation_yakuza_like_a_dragon
-    title: "Confrontation"
+  - id: brutality_yakuza_like_a_dragon
+    title: "Brutality"
     path: "bbg_b_00000001.hca"
     type: battle
-  - id: receive_you_ver_7
-    title: "Receive You ver.7"
+  - id: rolling_eyes_fall_down_the_dragon_wall
+    title: "Rolling Eyes Fall Down the Dragon Wall"
     path: "bbg_a_00000002.hca"
     type: battle
-  - id: millennium_tower
-    title: "Millennium Tower"
+  - id: reiwa_labyrinth
+    title: "REIWA LABYRINTH"
     path: "bbg_b_00000003.hca"
     ends: 3:00
     type: betting
-  - id: overcoming_the_dragon
-    title: "Overcoming the Dragon"
+  - id: triplet_after_triplet
+    title: "Triplet After Triplet"
     path: "bbg_b_00000012.hca"
     type: battle
-  - id: light_and_darkness_yakuza_like_a_dragon
-    title: "Light and Darkness"
+  - id: ism
+    title: "ism"
     path: "bbg_a_00000000.hca"
     type: battle
+  - id: survival_can_collecting
+    title: "Survival Can Collecting"
+    path: "mngbgm_homeless_00000000.hca"
+    type: betting
+  - id: hello_work
+    title: "Hello-Work"
+    path: "bbg_a_0000000B.hca"
+    type: warning
+  - id: coin_scratcher
+    title: "Coin Scratcher"
+    path: "bbg_a_0000000A.hca"
+    type: battle
+ - id: dive_into_the_sea
+    title: "Dive Into The Sea!"
+    path: "mngbgm_skk_00000000.hca"
+    type: betting
+  - id: movie_bleater
+    title: "Movie Bleater"
+    path: "mngbgm_meigaza_00000000.hca"
+    type: warning
+  - id: henceforth_i_m_a_dragon_racer
+    title: "Henceforth I'm a Dragon Racer"
+    path: "mngbgm_dcart_00000008.hca"
+    type: warning
+  - id: grand_prix_1st_round
+    title: "Grand Prix -1st Round-"
+    path: "mngbgm_dcart_00000001.hca"
+    type: betting
+  - id: grand_prix_2nd_round
+    title: "Grand Prix -2nd Round-"
+    path: "mngbgm_dcart_00000003.hca"
+    type: battle
+  - id: grand_prix_3rd_round
+    title: "Grand Prix -3rd Round-"
+    path: "mngbgm_dcart_00000005.hca"
+    type: battle
+  - id: speedrun_yakuza_like_a_dragon
+    title: "Speedrun"
+    path: "mngbgm_dcart_0000000E.hca"
+    type: betting
+  - id: how_does_that_feel
+    title: "How Does That Feel"
+    path: "mngbgm_dcart_0000000A.hca"
+    type: result
+  - id: dragon_of_money
+    title: "¥ Dragon of Money"
+    path: "mngbgm_upst_cmn_00000003.hca"
+    type: betting
+  - id: corporate_warrior
+    title: "Corporate Warrior"
+    path: "mngbgm_upst_cmn_00000004.hca"
+    type: warning
+  - id: shareholder_meeting
+    title: "Shareholder Meeting"
+    path: "mngbgm_upst_cmn_00000000.hca"
+    type: betting
+  - id: wailing_warrior
+    title: "Wailing Warrior"
+    path: "bbg_b_00000008.hca"
+    type: betting
   - id: the_only_way_out
     title: "The Only Way Out"
     path: "kaiwabgm_00000025.hca"
     type: break
-  - id: sophisticated_can_collecting
-    title: "Sophisticated Can Collecting"
-    path: "mngbgm_homeless_00000000.hca"
-    type: betting
-  - id: sleeper_hit
-    title: "Sleeper Hit"
-    path: "mngbgm_meigaza_00000000.hca"
-    type: warning
-  - id: vocational_enrollment
-    title: "Vocational Enrollment"
-    path: "mngbgm_skk_00000000.hca"
-    type: betting
-  - id: welcome_to_dragon_kart
-    title: "Welcome to Dragon Kart"
-    path: "mngbgm_dcart_00000008.hca"
-    type: warning
-  - id: dragon_kart_race_track_1
-    title: "Dragon Kart: Race Track 1"
-    path: "mngbgm_dcart_00000001.hca"
-    type: betting
-  - id: dragon_kart_race_track_2
-    title: "Dragon Kart: Race Track 2"
-    path: "mngbgm_dcart_00000003.hca"
-    type: battle
-  - id: dragon_kart_race_track_3
-    title: "Dragon Kart: Race Track 3"
-    path: "mngbgm_dcart_00000005.hca"
-    type: battle
-  - id: dragon_kart_time_attack
-    title: "Dragon Kart: Time Attack"
-    path: "mngbgm_dcart_0000000E.hca"
-    type: betting
-  - id: dragon_kart_first_place
-    title: "Dragon Kart: First Place"
-    path: "mngbgm_dcart_0000000A.hca"
-    type: result
-  - id: number_one_company
-    title: "Number One Company"
-    path: "mngbgm_upst_cmn_00000003.hca"
-    type: betting
-  - id: road_to_number_one
-    title: "Road to Number One"
-    path: "mngbgm_upst_cmn_00000004.hca"
-    type: warning
-  - id: you_ve_got_questions
-    title: "You've Got Questions"
-    path: "mngbgm_upst_cmn_00000000.hca"
-    type: betting
-  - id: fiercest_warrior_ver_7
-    title: "Fiercest Warrior ver.7"
-    path: "bbg_b_00000008.hca"
-    type: betting
   - id: april_fools_battle_theme
     title: "April Fools Battle Theme"
     path: "bbg_e_00000000.hca"
