@@ -100,12 +100,10 @@ songs:
   - id: pokemon_center_christmas_pokemon_masters
     title: "Pokémon Center (Christmas Ver.)"
     path: "bgm_field_home_christmas.logg"
-    tags: [xmas]
     type: betting
   - id: pokemon_center_new_year_pokemon_masters
     title: "Pokémon Center (New Year Ver.)"
     path: "bgm_field_home_gasho.logg"
-    tags: [xmas]
     type: betting
   - id: the_ideal_formula
     title: "The Ideal Formula"
@@ -279,7 +277,6 @@ songs:
   - id: battle_deck_the_halls
     title: "Battle! (Deck The Halls)"
     path: "bgm_battle_christmas.logg"
-    tags: [xmas]
     type: battle
   - id: battle_diantha_pokemon_masters
     title: "Battle! (Diantha)"
@@ -508,7 +505,6 @@ songs:
   - id: battle_new_year_pokemon_masters
     title: "Battle! (New Year)"
     path: "bgm_battle_newyear.logg"
-    tags: [xmas]
     type: battle
   - id: battle_olivia_pokemon_masters
     title: "Battle! (Olivia)"

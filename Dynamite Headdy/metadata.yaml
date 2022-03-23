@@ -3,7 +3,7 @@ id: dynamite_headdy
 title: "Dynamite Headdy"
 platform: "Genesis"
 year: 1994
-songs: 
+songs:
   - id: hustle_maruyama_part_1
     title: "Hustle Maruyama (Part 1)"
     path: "Hustle Maruyama (Part 1).vgz"
@@ -81,7 +81,6 @@ songs:
   - id: nutcracker
     title: "Nutcracker"
     path: "Nutcracker.vgz"
-    tags: [xmas]
     type: result
   - id: headdy_the_hero
     title: "Headdy the Hero"
