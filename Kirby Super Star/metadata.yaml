@@ -4,7 +4,7 @@ title: "Kirby Super Star"
 series: kirby
 platform: "SNES"
 year: 1996
-songs: 
+songs:
   - id: corkboard
     title: "Corkboard"
     path: "02 Corkboard.spc"
@@ -137,10 +137,11 @@ songs:
     title: "Marx's Theme"
     path: "54 Marx's Theme.spc"
     type: battle
-  - id: kirby_s_triumphant_return
-    title: "Kirby's Triumphant Return"
-    path: "55 Kirby's Triumphant Return.spc"
-    type: result
+#  - id: kirby_s_triumphant_return
+#    title: "Kirby's Triumphant Return"
+#    path: "55 Kirby's Triumphant Return.spc"
+#    type: result
+# putting this one on hold because it loops. I thought it would just stop. 
   - id: megaton_punch
     title: "Megaton Punch"
     path: "61 Megaton Punch.spc"

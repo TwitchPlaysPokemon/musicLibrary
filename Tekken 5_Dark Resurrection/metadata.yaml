@@ -28,5 +28,6 @@ songs:
   - id: resurrection_t5
     title: "Resurrection"
     path: "tk20_tk5dr_resurrection.lopus"
+    ends: 2:15 #think this should work to prevent a loop?
     type: betting
 ...
