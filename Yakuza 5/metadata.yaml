@@ -1,7 +1,8 @@
 ---
 id: yakuza_5
 title: "Yakuza 5"
-platform: ["PS3", "PS4"]
+series: yakuza
+platform: ["PS3", "PS4", "XBO", "PC"]
 year: 2012
 songs: 
   - id: the_battle_for_the_dream
@@ -76,8 +77,8 @@ songs:
     title: "Be the Star!!"
     path: "17-Be the Star!!.brstm"
     type: betting
-  - id: コーチンズカップ・クラシック
-    title: "コーチンズカップ・クラシック"
+  - id: cochin_cup_classic
+    title: "Cochin Cup Classic"
     path: "minig_kotin.hca"
     type: warning
   - id: olivier
@@ -88,22 +89,22 @@ songs:
     title: "highway"
     path: "41-highway.brstm"
     type: break
-  - id: ばかみたい_jazz_version
-    title: "ばかみたい [Jazz Version]"
+  - id: baka_mitai_jazz_version
+    title: "Baka Mitai [Jazz Version]"
     path: "42-ばかみたい [Jazz Version].brstm"
     type: break
-  - id: rouge_of_love_feat_かぐや
-    title: "Rouge of Love ~feat.かぐや~"
+  - id: rouge_of_love_feat_kaguya
+    title: "Rouge of Love ~feat. Kaguya~"
     path: "karaoke_rouge_of_love_kaguya.hca"
     ends: 2:17
     type: betting
-  - id: ばかみたい_feat_冴島&秋山
-    title: "ばかみたい ~feat.冴島&秋山~"
+  - id: baka_mitai_feat_saejima_&_akiyama
+    title: "Baka Mitai ~feat. Saejima & Akiyama~"
     path: "karaoke_bakamitai_akiyama_saejima.hca"
     ends: 2:00
     type: betting
-  - id: bakamitai_taxi_driver_edition
-    title: "Bakamitai [Taxi Driver Edition]"
+  - id: baka_mitai_taxi_driver_edition
+    title: "Baka Mitai [Taxi Driver Edition]"
     path: "karaoke_bakamitai_inst_kiryu.brstm"
     ends: 1:57
     type: betting
