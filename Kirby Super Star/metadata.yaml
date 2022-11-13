@@ -4,7 +4,7 @@ title: "Kirby Super Star"
 series: kirby
 platform: "SNES"
 year: 1996
-songs: 
+songs:
   - id: corkboard
     title: "Corkboard"
     path: "02 Corkboard.spc"
@@ -141,6 +141,7 @@ songs:
     title: "Kirby's Triumphant Return"
     path: "55 Kirby's Triumphant Return.spc"
     type: result
+# sometimes loops, sometimes doesn't? dunno
   - id: megaton_punch
     title: "Megaton Punch"
     path: "61 Megaton Punch.spc"
