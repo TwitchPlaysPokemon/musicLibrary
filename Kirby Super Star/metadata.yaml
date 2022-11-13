@@ -137,11 +137,11 @@ songs:
     title: "Marx's Theme"
     path: "54 Marx's Theme.spc"
     type: battle
-#  - id: kirby_s_triumphant_return
-#    title: "Kirby's Triumphant Return"
-#    path: "55 Kirby's Triumphant Return.spc"
-#    type: result
-# putting this one on hold because it loops. I thought it would just stop. 
+  - id: kirby_s_triumphant_return
+    title: "Kirby's Triumphant Return"
+    path: "55 Kirby's Triumphant Return.spc"
+    type: result
+# sometimes loops, sometimes doesn't? dunno
   - id: megaton_punch
     title: "Megaton Punch"
     path: "61 Megaton Punch.spc"
