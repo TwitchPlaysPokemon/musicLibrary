@@ -4,17 +4,19 @@ title: "New Pokémon Snap"
 series: pokemon
 platform: "Switch"
 year: 2021
-songs: 
+#added remaining tracks from the rip. Should already work with the files on the system
+#missing tracks are likely the DLC stages
+songs:
   - id: research_camp
     title: "Research Camp"
     path: "Play_bgm_outgame (scene=basecamp_photo).txtp"
-    type: betting
-  - id: lab_new_pokemon_snap
-    title: "Lab"
+    type: break
+  - id: professor_mirror_s_lab_new_pokemon_snap
+    title: "Professor Mirror's Lab"
     path: "Play_bgm_outgame (scene=lab).txtp"
-    type: betting
-  - id: lental_map
-    title: "Lental Map"
+    type: break
+  - id: lental_map_selection
+    title: "Lental Map Selection"
     path: "Play_bgm_outgame (scene=mapselect).txtp"
     type: warning
   - id: photodex
@@ -48,6 +50,14 @@ songs:
   - id: founja_jungle_night
     title: "Founja Jungle (Night)"
     path: "Play_bgm_map (route=route_07).txtp"
+    type: break
+  - id: elsewhere_forest
+    title: "Elsewhere Forest"
+    path: "Play_bgm_map (route=route_10).txtp"
+    type: break
+  - id: elsewhere_forest_illumina_spot
+    title: "Elsewhere Forest (Illumina Spot)"
+    path: "Play_bgm_map (route=route_11).txtp"
     type: betting
   - id: blushing_beach_day
     title: "Blushing Beach (Day)"
@@ -56,7 +66,7 @@ songs:
   - id: blushing_beach_night
     title: "Blushing Beach (Night)"
     path: "Play_bgm_map (route=route_13).txtp"
-    type: betting
+    type: break
   - id: maricopia_reef_day
     title: "Maricopia Reef (Day)"
     path: "Play_bgm_map (route=route_14).txtp"
@@ -64,5 +74,53 @@ songs:
   - id: maricopia_reef_night
     title: "Maricopia Reef (Night)"
     path: "Play_bgm_map (route=route_15).txtp"
+    type: break
+  - id: lental_seafloor
+    title: "Lental Seafloor"
+    path: "Play_bgm_map (route=route_16).txtp"
+    type: betting
+  - id: lental_seafloor_illumina_spot
+    title: "Lental Seafloor (Illumina Spot)"
+    path: "Play_bgm_map (route=route_17).txtp"
+    type: betting
+  - id: sweltering_sands_day
+    title: "Sweltering Sands (Day)"
+    path: "Play_bgm_map (route=route_18).txtp"
+    type: betting
+  - id: sweltering_sands_night
+    title: "Sweltering Sands (Night)"
+    path: "Play_bgm_map (route=route_19).txtp"
+    type: break
+  - id: fireflow_volcano
+    title: "Fireflow Volcano"
+    path: "Play_bgm_map (route=route_22).txtp"
+    type: betting
+  - id: fireflow_volcano_illumina_spot
+    title: "Fireflow Volcano (Illumina Spot)"
+    path: "Play_bgm_map (route=route_23).txtp"
+    type: warning
+  - id: shiver_snowfields_day
+    title: "Shiver Snowfields (Day)"
+    path: "Play_bgm_map (route=route_24).txtp"
+    type: break
+  - id: shiver_snowfields_night
+    title: "Shiver Snowfields (Night)"
+    path: "Play_bgm_map (route=route_25).txtp"
+    type: break
+  - id: outaway_cave
+    title: "Outaway Cave"
+    path: "Play_bgm_map (route=route_26).txtp"
+    type: break
+  - id: outaway_cave_illumina_spot
+    title: "Outaway Cave (Illumina Spot)"
+    path: "Play_bgm_map (route=route_27).txtp"
+    type: warning
+  - id: ruins_of_remembrance
+    title: "Ruins of Remembrance"
+    path: "Play_bgm_map (route=route_28).txtp"
+    type: break
+  - id: ruins_of_remembrance_illumina_spot
+    title: "Ruins of Remembrance (Illumina Spot)"
+    path: "Play_bgm_map (route=route_29).txtp"
     type: betting
 ...
