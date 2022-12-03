@@ -64,8 +64,8 @@ songs:
     path: "pBGM_DS_WARIO_STADIUM_N_MAIN.txtp"
     type: betting
   - id: dolphin_shoals
-    title: "Dolphin Shoals"
-    path: "pBGM_WU_OCEAN_REPLAY.txtp"
+    title: "Dolphin Shoals - Replay ver."
+    path: "pBGM_WU_OCEAN_REPLAY.bfstm"
     type: betting
   - id: electrodrome
     title: "Electrodrome"
@@ -173,11 +173,11 @@ songs:
     type: warning
   - id: wii_moo_moo_meadows
     title: "Wii Moo Moo Meadows"
-    path: "pBGM_WII_MOO_MOO_MEADOWS_N_MAIN.txtp" 
+    path: "pBGM_WII_MOO_MOO_MEADOWS_N_MAIN.txtp"
     type: betting
   - id: wii_warios_gold_mine
     title: "Wii Wario's Gold Mine"
-    path: "pBGM_WII_WARIOSMINE_N_MAIN.txtp" 
+    path: "pBGM_WII_WARIOSMINE_N_MAIN.txtp"
     type: betting
   - id: wild_woods
     title: "Wild Woods"
@@ -257,7 +257,7 @@ songs:
     type: betting
   - id: super_bell_subway_final_lap
     title: "Super Bell Subway (Final Lap)"
-    path: "pBGM_WU_METRO_F_MAIN.txtp" 
+    path: "pBGM_WU_METRO_F_MAIN.txtp"
     type: warning
   - id: mario_kart_stadium
     title: "Mario Kart Stadium"
