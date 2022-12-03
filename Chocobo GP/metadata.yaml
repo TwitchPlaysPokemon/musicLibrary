@@ -1,0 +1,92 @@
+id: chocobo_gp
+title: "Chocobo GP"
+series: finalfantasy
+platform: "Switch"
+year: 2022
+#most of the track names I was able to find in the OST tracklist. the ones that don't I added my best guess
+songs:
+  - id: battle_with_the_leviathan_chocobo_gp
+    title: "Battle with the Leviathan" #
+    path: "BGM_BattlewiththeLeviathan.sab"
+    type: battle
+  - id: cinco_de_chocobo
+    title: "Cinco de Chocobo" 
+    path: "BGM_CincodeChocobo.sab"
+    type: break
+  - id: accelerated_alexandria
+    title: "Accelerated Alexandria"
+    path: "BGM_COURSE_ALEXSANDRIA.sab"
+    type: betting
+  - id: dead_heat_on_the_big_bridge
+    title: "Dead Heat on the Big Bridge"
+    path: "BGM_COURSE_BIGBRIDGE.sab"
+    type: battle
+  - id: bluegrass_de_chocobo
+    title: "Bluegrass de Chocobo"
+    path: "BGM_COURSE_CHOCOBO.sab"
+    type: battle #SHENANIGANS
+  - id: cid_s_jam_track
+    title: "Cid's Jam Track"
+    path: "BGM_COURSE_CID.sab"
+    type: betting
+  - id: gold_saucer_chocobo_gp
+    title: "Gold Saucer" 
+    path: "BGM_COURSE_GOLDSAUCER.sab"
+    type: betting
+  - id: interdimensional_rift_alpha
+    title: "Interdimensional Rift -Alpha-"
+    path: "BGM_COURSE_JIGEN1.sab"
+    type: betting
+  - id: interdimensional_rift_omega
+    title: "Interdimensional Rift -Omega-"
+    path: "BGM_COURSE_JIGEN2.sab"
+    type: warning
+  - id: monster_village_chocobo_gp
+    title: "Monster Village" 
+    path: "BGM_COURSE_MONSTER.sab"
+    type: betting
+  - id: tutorial_chocobo_gp
+    title: "Tutorial"
+    path: "BGM_COURSE_TUTORIAL.sab"
+    type: betting
+  - id: shuffling_through_zozo
+    title: "Shuffling Through Zozo"
+    path: "BGM_COURSE_ZOZO.sab"
+    type: betting
+  - id: try_again_chocobo_gp
+    title: "Try Again"
+    path: "BGM_LOSE.sab"
+    type: result
+  - id: well_done_chocobo_gp
+    title: "Well Done"
+    path: "BGM_WIN.sab"
+    type: result
+  - id: hero_x_s_theme
+    title: "Hero X's Theme"
+    path: "BGM_HEROX.sab"
+    type: betting
+  - id: the_podium_chocobo_gp
+    title: "The Podium"
+    path: "BGM_RESULT.sab"
+    type: result
+  - id: chocobo_grand_prix_intrumental
+    title: "Chocobo Grand Prix (Instrumental)"
+    path: "BGM_ONLINE_MENU.sab"
+    type: result
+  - id: the_man_with_six_arms
+    title: "The Man with Six Arms"
+    path: "BGM_STORY_GILGAMESH.sab"
+    type: betting
+  - id: mysidian_floating_gardens
+    title: "Mysidian Floating Gardens"
+    path: "BGM_MysidianFloatingGardens.sab"
+    type: betting
+  - id: glass_goth
+    title: "Glass Goth"
+    path: "BGM_GlassGoth.sab"
+    type: betting
+  - id: credits_chocobo_gp
+    title: "Credits"
+    path: "BGM_CREDITS.sab"
+    type: break
+...

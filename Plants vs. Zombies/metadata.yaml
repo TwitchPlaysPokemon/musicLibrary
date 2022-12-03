@@ -5,12 +5,12 @@ platform: ["PC", "Various"]
 #other platforms: ["iOS", "360", "NDS", "PS3", "DSi", "Android", "Windows Phone", "Vita", "Mobile"]
 year: 2009
 songs: 
-  - id: minigame_plants_vs_zombies
-    title: "Minigame"
+  - id: loonboon
+    title: "Loonboon"
     path: "Minigame.brstm"
     type: warning
-  - id: the_roof_plants_vs_zombies
-    title: "The Roof"
+  - id: graze_the_roof
+    title: "Graze The Roof"
     path: "The Roof.brstm"
     type: betting
   - id: brainiac_maniac
@@ -21,15 +21,36 @@ songs:
     title: "Cerebrawl"
     path: "Cerebrawl (Puzzle Levels).brstm"
     type: betting
-  - id: front_yard_daytime
-    title: "Front Yard (Daytime)"
+  - id: grasswalk_plants_vs_zombies
+    title: "Grasswalk"
     path: "Front Yard (Daytime).brstm"
     type: betting
   - id: ultimate_battle
     title: "Ultimate Battle"
     path: "Ultimate Battle.brstm"
     type: betting
-  - id: pool_daytime
-    title: "Pool (Daytime)"
+  - id: watery_graves
+    title: "Watery Graves"
     path: "Pool (Daytime).brstm"
     type: betting
+  - id: choose_your_seeds
+    title: "Choose Your Seeds"
+    path: "Choose Your Seeds.brstm"
+    type: warning
+  - id: crazy_dave
+    title: "Crazy Dave"
+    path: "Crazy Dave (Intro Theme).brstm"
+    type: betting
+  - id: moongrains
+    title: "Moongrains"
+    path: "Moongrains.brstm"
+    type: break
+  - id: rigor_mormist
+    title: "Rigor Mormist"
+    path: "Rigor Mormist (Normal).brstm"
+    type: betting
+  - id: zen_garden
+    title: "Zen Garden"
+    path: "Zen Garden.brstm"
+    type: break
+...

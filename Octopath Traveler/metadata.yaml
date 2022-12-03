@@ -6,30 +6,295 @@ year: 2018
 songs: 
   - id: battle_i_octopath_traveler
     title: "Battle I"
-    path: "bgm_bat_battle01.hca"
+    path: "bgm_bat_battle01.txtp"
+    type: battle
+  - id: battle_ii_octopath_traveler
+    title: "Battle II"
+    path: "bgm_bat_battle02.txtp"
+    type: battle
+  - id: battle_iii_octopath_traveler
+    title: "Battle III"
+    path: "bgm_bat_battle03.txtp"
     type: battle
   - id: victory_fanfare_octopath_traveler
     title: "Victory Fanfare"
-    path: "bgm_jin_win.hca"
+    path: "bgm_jin_win.txtp"
     type: result
-  - id: sunshade_city_of_pleasures
-    title: "Sunshade, City of Pleasures"
-    path: "bgm_map_t_desert_sp.hca"
-    type: break
-  - id: tension_octopath_traveler
-    title: "Tension"
-    path: "bgm_event_kinpaku.hca"
-    type: warning
-  - id: the_sunlands
-    title: "The Sunlands"
-    path: "bgm_map_f_desert.hca"
-    type: betting
   - id: decisive_battle_i
     title: "Decisive Battle I"
-    path: "bgm_bat_mboss1.hca"
+    path: "bgm_bat_mboss1.txtp"
     type: battle
   - id: decisive_battle_ii
     title: "Decisive Battle II"
-    path: "bgm_bat_mboss2.hca"
+    path: "bgm_bat_mboss2.txtp"
     type: battle
+  - id: they_who_govern_reason
+    title: "They Who Govern Reason"
+    path: "bgm_bat_upboss.txtp"
+    type: battle
+  - id: battle_at_journey_s_end
+    title: "Battle at Journey's End"
+    path: "bgm_bat_csboss.txtp"
+    type: battle
+  - id: the_one_they_call_the_witch
+    title: "The One They Call The Witch"
+    path: "bgm_bat_exboss01.txtp"
+    type: battle
+  - id: moment_of_truth_octopath_traveler
+    title: "Moment of Truth"
+    path: "bgm_bat_exboss03.txtp"
+    type: warning
+  - id: daughter_of_the_dark_god
+    title: "Daughter of the Dark God"
+    path: "bgm_bat_exboss03-2.txtp"
+    type: battle
+  - id: octopath_traveler_main_theme
+    title: "Octopath Traveler -Main Theme-"
+    path: "bgm_theme_main.txtp"
+    type: betting
+  - id: ophilia_the_cleric
+    title: "Ophilia, the Cleric"
+    path: "bgm_theme_priest.txtp"
+    type: break
+  - id: cyrus_the_scholar
+    title: "Cyrus, the Scholar"
+    path: "bgm_theme_scholar.txtp"
+    type: betting
+  - id: tressa_the_merchant
+    title: "Tressa, the Merchant"
+    path: "bgm_theme_merchant.txtp"
+    type: betting
+  - id: olberic_the_warrior
+    title: "Olberic, the Warrior"
+    path: "bgm_theme_fencer.txtp"
+    type: betting
+  - id: primrose_the_dancer
+    title: "Primrose, the Dancer"
+    path: "bgm_theme_dancer.txtp"
+    type: betting
+  - id: alfyn_the_apothecary
+    title: "Alfyn, the Apothecary"
+    path: "bgm_theme_pharmacist.txtp"
+    type: break
+  - id: therion_the_thief
+    title: "Therion, the Thief"
+    path: "bgm_theme_thief.txtp"
+    type: break
+  - id: h_annit_the_hunter
+    title: "H'annit, the Hunter"
+    path: "bgm_theme_hunter.txtp"
+    type: break
+  - id: the_sunlands
+    title: "The Sunlands"
+    path: "bgm_map_f_desert.txtp"
+    type: betting
+  - id: the_frostlands
+    title: "The Frostlands"
+    path: "bgm_map_f_snow.txtp"
+    type: break
+  - id: the_flatlands
+    title: "The Flatlands"
+    path: "bgm_map_f_plain.txtp"
+    type: betting
+  - id: the_coastlands
+    title: "The Coastlands"
+    path: "bgm_map_f_sea.txtp"
+    type: betting
+  - id: the_highlands
+    title: "The Highlands"
+    path: "bgm_map_f_mount.txtp"
+    type: break
+  - id: the_riverlands
+    title: "The Riverlands"
+    path: "bgm_map_f_river.txtp"
+    type: break
+  - id: the_cliftlands
+    title: "The Cliftlands"
+    path: "bgm_map_f_cliff.txtp"
+    type: break
+  - id: the_woodlands
+    title: "The Woodlands"
+    path: "bgm_map_f_forest.txtp"
+    type: break
+  - id: stolen_dreams_lost_light
+    title: "Stolen Dreams, Lost Light"
+    path: "bgm_map_f_last.txtp"
+    type: warning
+  - id: oasis_in_the_sparkling_sands
+    title: "Oasis in the Sparkling Sands"
+    path: "bgm_map_t_desert.txtp"
+    type: betting
+  - id: sunshade_city_of_pleasures
+    title: "Sunshade, City of Pleasures"
+    path: "bgm_map_t_desert_sp.txtp"
+    type: break
+  - id: flamesgrace_guiding_light
+    title: "Flamesgrace, Guiding Light"
+    path: "bgm_map_t_snow.txtp"
+    type: betting
+  - id: town_veiled_in_white
+    title: "Town Veiled in White"
+    path: "bgm_map_t_snow_sp.txtp"
+    type: break
+  - id: a_settlement_in_the_red_bluffs
+    title: "A Settlement in the Red Bluffs"
+    path: "bgm_map_t_cliff.txtp"
+    type: betting
+  - id: orewell_beneath_the_crags
+    title: "Orewell, Beneath the Crags"
+    path: "bgm_map_t_cliff_sp.txtp"
+    type: break
+  - id: my_quiet_forest_home
+    title: "My Quiet Forest Home"
+    path: "bgm_map_t_forest.txtp"
+    type: break
+  - id: victors_hollow_jewel_of_the_forest
+    title: "Victors Hollow, Jewel of the Forest"
+    path: "bgm_map_t_forest_sp.txtp"
+    type: betting
+  - id: gazing_over_the_great_plain
+    title: "Gazing Over the Great Plain"
+    path: "bgm_map_t_plain.txtp"
+    type: break
+  - id: atlasdam_seat_of_learning
+    title: "Atlasdam, Seat of Learning"
+    path: "bgm_map_t_plain_sp.txtp"
+    type: betting
+  - id: among_stately_peaks
+    title: "Among Stately Peaks"
+    path: "bgm_map_t_mount.txtp"
+    type: betting
+  - id: cobbleston_nestled_in_the_hills
+    title: "Cobbleston, Nestled in the Hills"
+    path: "bgm_map_t_mount_sp.txtp"
+    type: break
+  - id: river_of_life_octopath_traveler
+    title: "River of Life"
+    path: "bgm_map_t_river.txtp"
+    type: betting
+  - id: clearbrook_by_the_pristine_waters
+    title: "Clearbrook, by the Pristine Waters"
+    path: "bgm_map_t_river_sp.txtp"
+    type: break
+  - id: a_sea_breeze_blows
+    title: "A Sea Breeze Blows"
+    path: "bgm_map_t_sea.txtp"
+    type: betting
+  - id: grandport_center_of_commerce
+    title: "Grandport, Center of Commerce"
+    path: "bgm_map_t_sea_sp.txtp"
+    type: betting
+  - id: dark_caverns_octopath_traveler
+    title: "Dark Caverns"
+    path: "bgm_map_d_cave.txtp"
+    type: break
+  - id: the_trees_have_eyes
+    title: "The Trees Have Eyes"
+    path: "bgm_map_d_forest.txtp"
+    type: break
+  - id: forbidding_corridors
+    title: "Forbidding Corridors"
+    path: "bgm_map_d_mansion.txtp"
+    type: break
+  - id: beneath_the_surface
+    title: "Beneath the Surface"
+    path: "bgm_map_d_underpass.txtp"
+    type: break
+  - id: the_gate_of_finis
+    title: "The Gate of Finis"
+    path: "bgm_map_d_last.txtp"
+    type: break
+  - id: despair_octopath_traveler
+    title: "Despair"
+    path: "bgm_event_huantei.txtp"
+    type: warning
+  - id: an_ill_omen_octopath_traveler
+    title: "An Ill Omen"
+    path: "bgm_event_huon.txtp"
+    type: warning
+  - id: tension_octopath_traveler
+    title: "Tension"
+    path: "bgm_event_kinpaku.txtp"
+    type: warning
+  - id: on_a_knife_s_edge
+    title: "On A Knife's Edge"
+    path: "bgm_event_kyouhu.txtp"
+    type: warning
+  - id: enveloped_in_kindness
+    title: "Enveloped in Kindness"
+    path: "bgm_event_yasashisa.txtp"
+    type: break
+  - id: bonds_of_friendship_octopath_traveler
+    title: "Bonds of Friendship"
+    path: "bgm_event_yuujou.txtp"
+    type: break
+  - id: creeping_dread
+    title: "Creeping Dread"
+    path: "bgm_event_aku.txtp"
+    type: warning
+  - id: tranquil_days_octopath_traveler
+    title: "Tranquil Days"
+    path: "bgm_event_m65.txtp"
+    type: break
+  - id: reminiscence_octopath_traveler
+    title: "Reminiscence"
+    path: "bgm_event_m66.txtp"
+    type: break
+  - id: discord_octopath_traveler
+    title: "Discord"
+    path: "bgm_event_m67.txtp"
+    type: break
+  - id: determination_octopath_traveler
+    title: "Determination"
+    path: "bgm_event_m69.txtp"
+    type: warning
+  - id: how_amusing
+    title: "How Amusing!"
+    path: "bgm_event_m70.txtp"
+    type: betting
+  - id: jubilation
+    title: "Jubilation"
+    path: "bgm_event_m71.txtp"
+    type: result
+  - id: melancholy_octopath_traveler
+    title: "Melancholy"
+    path: "bgm_event_m72.txtp"
+    type: break
+  - id: pure_evil_octopath_traveler
+    title: "Pure Evil"
+    path: "bgm_event_m73.txtp"
+    type: warning
+#these don't loop, but since they're for warning they should be okay?
+  - id: for_light
+    title: "For Light"
+    path: "4.05 For Light.flac"
+    type: warning
+  - id: for_truth
+    title: "For Truth"
+    path: "4.06 For Truth.flac"
+    type: warning
+  - id: for_treasure
+    title: "For Treasure"
+    path: "4.07 For Treasure.flac"
+    type: warning
+  - id: for_redemption
+    title: "For Redemption"
+    path: "4.08 For Redemption.flac"
+    type: warning
+  - id: for_revenge
+    title: "For Revenge"
+    path: "4.09 For Revenge.flac"
+    type: warning
+  - id: for_succor
+    title: "For Succor"
+    path: "4.10 For Succor.flac"
+    type: warning
+  - id: for_freedom
+    title: "For Freedom"
+    path: "4.11 For Freedom.flac"
+    type: warning
+  - id: for_master
+    title: "For Master"
+    path: "4.12 For Master.flac"
+    type: warning
 ...

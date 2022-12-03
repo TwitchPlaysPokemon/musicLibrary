@@ -1,0 +1,667 @@
+---
+id: pokemon_brilliant_diamond_shining_pearl
+title: "Pokémon Brilliant Diamond & Shining Pearl"
+series: pokemon
+platform: "Switch"
+year: 2021
+#tried my hand at doing some of the BDSP tracks - tried my best to figure out which tied to which,
+#although I may have missed or mixed up some. In any case, if anyone spots an error we can change it later
+#only issue is that some tracks were beta versions that got updated in the 1.1 patch - I changed those accordingly.
+#hopefully this is at least a good starting point.
+songs:
+  - id: opening_movie_bdsp
+    title: "Opening Movie"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=B_OTH003) (OTH003=NONE)(v1.1.0).txtp" #PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=B_OTH001).txtp is the actual opening movie for reference. This is the "Introductions" one
+    type: betting
+  - id: opening_movie_unused_bdsp
+    title: "Opening Movie - Unused"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=B_OTH003) (OTH003=NONE).txtp"
+    type: betting
+  - id: special_report_search_for_the_red_gyarados_bdsp
+    title: "Special Report: \"Search for the Red Gyarados!\""
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV012).txtp"
+    type: warning
+  - id: twinleaf_town_day_bdsp
+    title: "Twinleaf Town (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T01_DAY).txtp"
+    type: betting
+  - id: rival_bdsp
+    title: "Rival"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV005).txtp"
+    type: warning
+  - id: route_201_day_bdsp
+    title: "Route 201 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R201_DAY).txtp"
+    type: betting
+  - id: lake_bdsp
+    title: "Lake"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D29) (GINGA_D29=NONE).txtp"
+    type: betting
+  - id: a_surprise_at_the_lake_bdsp
+    title: "A Surprise at the Lake!"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV007).txtp"
+    type: warning
+  - id: battle_wild_pokemon_bdsp
+    title: "Battle! (Wild Pokémon)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA001).txtp"
+    type: battle
+  - id: wild_pokemon_defeated_bdsp
+    title: "Victory! (Wild Pokémon)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA101).txtp"
+    type: result
+  - id: dawn_bdsp
+    title: "Dawn"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV004).txtp"
+    type: betting
+  - id: sandgem_town_day_bdsp
+    title: "Sandgem Town (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T02_DAY).txtp"
+    type: betting
+  - id: the_pokemon_lab_bdsp
+    title: "The Pokémon Lab"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV001).txtp"
+    type: betting
+  - id: hurry_along_bdsp
+    title: "Hurry Along"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV006).txtp"
+    type: warning
+  - id: pokemon_center_day_bdsp
+    title: "Pokémon Center (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=PC_DAY).txtp"
+    type: betting
+  - id: trainers_eyes_meet_youngster_bdsp
+    title: "Trainers' Eyes Meet (Youngster)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV201).txtp"
+    type: warning
+  - id: trainers_eyes_meet_lass_bdsp
+    title: "Trainers' Eyes Meet (Lass)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV202).txtp"
+    type: warning
+  - id: battle_trainer_battle_unused_bdsp
+    title: "Battle! (Trainer Battle - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA002).txtp"
+    type: battle
+  - id: battle_trainer_battle_bdsp
+    title: "Battle! (Trainer Battle)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA002)(v1.1.0).txtp"
+    type: battle
+  - id: victory_trainer_battle_bdsp
+    title: "Victory! (Trainer Battle)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA102).txtp"
+    type: result
+  - id: jubilife_city_day_bdsp
+    title: "Jubilife City (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C01_DAY).txtp"
+    type: betting
+  - id: poke_mart_bdsp
+    title: "Poké Mart"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=FS).txtp"
+    type: betting
+  - id: route_203_day_bdsp
+    title: "Route 203 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R204_DAY).txtp"
+    type: betting
+  - id: battle_rival_unused_bdsp
+    title: "Battle! (Rival - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA004).txtp"
+    type: battle
+  - id: battle_rival_bdsp
+    title: "Battle! (Rival)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA004)(v1.1.0).txtp"
+    type: battle
+  - id: oreburgh_gate_bdsp
+    title: "Oreburgh Gate"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D12).txtp"
+    type: betting
+  - id: oreburgh_mine_bdsp
+    title: "Oreburgh Mine"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D01).txtp"
+    type: betting
+  - id: pokemon_gym_bdsp
+    title: "Pokémon Gym"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=GYM).txtp"
+    type: betting
+  - id: gym_leader_unused_bdsp
+    title: "Battle! (Gym Leader - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA003).txtp"
+    type: battle
+  - id: gym_leader_bdsp
+    title: "Battle! (Gym Leader)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA003)(v1.1.0).txtp"
+    type: battle
+  - id: victory_gym_leader_bdsp
+    title: "Victory! (Gym Leader)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA103).txtp"
+    type: result
+  - id: trainers_eyes_meet_twins_bdsp
+    title: "Trainers' Eyes Meet (Twins)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV203).txtp"
+    type: warning
+  - id: floaroma_town_day_bdsp
+    title: "Floaroma Town (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T03_DAY).txtp"
+    type: betting
+  - id: route_205_day_bdsp
+    title: "Route 205 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D04_OUTSIDE_DAY).txtp"
+    type: betting
+  - id: team_galactic_appears_bdsp
+    title: "Team Galactic Appears!"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV213).txtp"
+    type: warning
+  - id: battle_team_galactic_unused
+    title: "Battle! (Team Galactic - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA005).txtp"
+    type: battle
+  - id: battle_team_galactic_bdsp
+    title: "Battle! (Team Galactic)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA005)(v1.1.0).txtp"
+    type: battle
+  - id: eterna_forest_bdsp
+    title: "Eterna Forest"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R209R0101).txtp"
+    type: betting
+  - id: eterna_city_day_bdsp
+    title: "Eterna City (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T05_CAVE_DAY).txtp"
+    type: betting
+  - id: galactic_eterna_building_bdsp
+    title: "Galactic Eterna Building"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D26) (D26=NONE).txtp"
+    type: betting
+  - id: battle_team_galactic_commander_unused
+    title: "Battle! (Team Galactic Commander - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA006).txtp"
+    type: battle
+  - id: battle_team_galactic_commander_bdsp
+    title: "Battle! (Team Galactic Commander)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA006)(v1.1.0).txtp"
+    type: battle
+  - id: victory_team_galactic_bdsp
+    title: "Victory! (Team Galactic)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA106).txtp"
+    type: result
+  - id: evolution_bdsp
+    title: "Evolution"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=M_FI003).txtp"
+    type: warning
+  - id: congratulations_on_your_evolution_bdsp
+    title: "Congratulations On Your Evolution!"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BGM_OR_WN_WIN01_GET_DELAY).txtp"
+    type: result
+  - id: bicycle_bdsp
+    title: "Bicycle"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=BICYCLE).txtp"
+    type: result
+  - id: trainers_eyes_meet_cyclist_bdsp
+    title: "Trainers' Eyes Meet (Cyclist)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV211).txtp"
+    type: warning
+  - id: route_206_day_bdsp
+    title: "Route 206 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R221R0101_DAY).txtp"
+    type: betting
+  - id: hearthome_city_day_bdsp
+    title: "Hearthome City (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C05_DAY).txtp"
+    type: betting
+  - id: route_209_day_bdsp
+    title: "Route 209 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R212AR0101_DAY).txtp"
+    type: betting
+  - id: trainers_eyes_meet_hiker_bdsp
+    title: "Trainers' Eyes Meet (Hiker)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV205).txtp"
+    type: warning
+  - id: solaceon_town_day
+    title: "Solaceon Town (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C06_DAY).txtp"
+    type: betting
+  - id: route_210_day_bdsp
+    title: "Route 210 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R224_DAY).txtp"
+    type: betting
+  - id: veilstone_city_day_bdsp
+    title: "Veilstone City (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C07_DAY).txtp"
+    type: betting
+  - id: valor_lakefront_day_bdsp
+    title: "Valor Lakefront (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R213_DAY).txtp"
+    type: betting
+  - id: canalave_city_day_bdsp
+    title: "Canalave City (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C02_DAY).txtp"
+    type: betting
+  - id: route_216_day_bdsp
+    title: "Route 216 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=L03_DAY).txtp"
+    tags: [xmas]
+    type: betting
+  - id: snowpoint_city_day_bdsp
+    title: "Snowpoint City (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C09_DAY).txtp"
+    type: betting
+  - id: team_galactic_hq_bdsp
+    title: "Team Galactic HQ"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D26) (D26=D26_KEY).txtp"
+    type: betting
+  - id: battle_team_galactic_boss_unused
+    title: "Battle! (Team Galactic Boss - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA007).txtp"
+    type: battle
+  - id: battle_team_galactic_boss_bdsp
+    title: "Battle! (Team Galactic Boss)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA007)(v1.1.0).txtp"
+    type: battle
+  - id: mt_coronet_bdsp
+    title: "Mt. Coronet"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D05_OUTSIDE).txtp"
+    type: betting
+  - id: spear_pillar_bdsp
+    title: "Spear Pillar"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D05R0114_D05R0115).txtp"
+    type: betting
+  - id: legendary_pokemon_appears_bdsp
+    title: "The Legendary Pokémon Appears!"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV008).txtp"
+    type: warning
+  - id: catastrophe_bdsp
+    title: "Catastrophe!"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV009).txtp"
+    type: warning
+  - id: battle_dialga_palkia_unused
+    title: "Battle! (Dialga/Palkia - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA010).txtp"
+    type: battle
+  - id: battle_dialga_palkia_bdsp
+    title: "Battle! (Dialga/Palkia)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA010)(v1.1.0).txtp"
+    type: battle
+  - id: sunyshore_city_day_bdsp
+    title: "Sunyshore City (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C08_DAY).txtp"
+    type: betting
+  - id: victory_road_bdsp
+    title: "Victory Road"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D09).txtp"
+    type: betting
+  - id: trainers_eyes_meet_ace_trainer_bdsp
+    title: "Trainers' Eyes Meet (Ace Trainer)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV206).txtp"
+    type: warning
+  - id: pokemon_league_day_bdsp
+    title: "Pokémon League (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C10_DAY).txtp"
+    type: betting
+  - id: fight_area_day_bdsp
+    title: "Fight Area (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T06_DAY).txtp"
+    type: betting
+  - id: route_225_day_bdsp
+    title: "Route 225 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R227_DAY).txtp"
+    type: betting
+  - id: route_228_day_bdsp
+    title: "Route 228 (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=W230_DAY).txtp"
+    type: betting
+  - id: twinleaf_town_night_bdsp
+    title: "Twinleaf Town (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T01_NIGHT).txtp"
+    type: betting
+  - id: route_201_night_bdsp
+    title: "Route 201 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R202_NIGHT).txtp"
+    type: betting
+  - id: pokemon_center_night_bdsp
+    title: "Pokémon Center (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=PC_NIGHT).txtp"
+    type: break
+  # - id: nintendo_wi_fi_connection_bdsp
+    # title: "Nintendo Wi-Fi Connection"
+    # path: "204 Wi-Fi.txtp"
+    # type: break
+    #pretty sure this one isn't included. Maybe
+  - id: sandgem_town_night_bdsp
+    title: "Sandgem Town (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T02_NIGHT).txtp"
+    type: betting
+  - id: lucas_bdsp
+    title: "Lucas"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV003).txtp"
+    type: betting
+  - id: jubilife_city_night_bdsp
+    title: "Jubilife City (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C01_NIGHT).txtp"
+    type: betting
+  - id: tv_station_bdsp
+    title: "TV Station"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C01R0201).txtp"
+    type: betting
+  - id: gws_bdsp
+    title: "GWS"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=GMS).txtp"
+    type: betting
+  - id: surf_bdsp
+    title: "Surf"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=B_OTH005).txtp"
+    type: betting
+  - id: canalave_city_night_bdsp
+    title: "Canalave City (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C02_NIGHT).txtp"
+    type: betting
+  - id: route_203_night_bdsp
+    title: "Route 203 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R203_NIGHT).txtp"
+    type: betting
+  - id: trainers_eyes_meet_black_belt_bdsp
+    title: "Trainers' Eyes Meet (Black Belt)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV207).txtp"
+    type: warning
+  - id: oreburgh_city_day_bdsp
+    title: "Oreburgh City (Day)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C03_DAY).txtp"
+    type: betting
+  - id: oreburgh_city_night_bdsp
+    title: "Oreburgh City (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C03_NIGHT).txtp"
+    type: betting
+  - id: route_205_night_bdsp
+    title: "Route 205 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R205_NIGHT).txtp"
+    type: betting
+  - id: trainers_eyes_meet_sailor_bdsp
+    title: "Trainers' Eyes Meet (Sailor)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV212).txtp"
+    type: warning
+  - id: eterna_city_night_bdsp
+    title: "Eterna City (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T05_NIGHT).txtp"
+    type: betting
+  - id: the_underground_bdsp
+    title: "The Underground"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=UG).txtp"
+    type: betting
+  - id: trainers_eyes_meet_aroma_lady_bdsp
+    title: "Trainers' Eyes Meet (Aroma Lady)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV204).txtp"
+    type: warning
+  - id: floaroma_town_night_bdsp
+    title: "Floaroma Town (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T03_NIGHT).txtp"
+    type: betting
+  - id: old_chateau_bdsp
+    title: "Old Chateau"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D17).txtp" #I think this is it?
+    type: betting
+  - id: solaceon_town_night_bdsp
+    title: "Solaceon Town (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T04_NIGHT).txtp"
+    type: betting
+  - id: great_marsh_bdsp
+    title: "Great Marsh"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D10).txtp"
+    type: betting
+  - id: route_206_night_bdsp
+    title: "Route 206 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=W220_NIGHT).txtp"
+    type: betting
+  - id: trainers_eyes_meet_collector_bdsp
+    title: "Trainers' Eyes Meet (Collector)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV208).txtp"
+    type: warning
+  - id: veilstone_city_night_bdsp
+    title: "Veilstone City (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C07_NIGHT).txtp"
+    type: betting
+  - id: metronome_style_shop
+    title: "Metronome Style Shop"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=B_OPE003) (BOUTIQUE=LIMITED).txtp" #not sure the difference between boutique limited and none???
+    type: betting
+  # - id: you_re_a_winner_bdsp
+    # title: "You're a Winner!"
+    # path: "230 Win at the Slots.txtp"
+    # type: result
+  # - id: you_re_a_jackpot_winner
+    # title: "You're a Jackpot Winner!"
+    # path: "231 Big Win at the Slots.txtp"
+    # type: result
+    #pretty sure these are unused due to the slots no longer existing, though I may be wrong
+  - id: trainers_eyes_meet_pi_bdsp
+    title: "Trainers' Eyes Meet (PI)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV209).txtp"
+    type: warning
+  - id: route_209_night_bdsp
+    title: "Route 209 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D23_NIGHT).txtp"
+    type: betting
+  - id: snowpoint_city_night_bdsp
+    title: "Snowpoint City (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C09_NIGHT).txtp"
+    tags: [xmas]
+    type: betting
+  - id: route_216_night_bdsp
+    title: "Route 216 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=L03_NIGHT).txtp"
+    tags: [xmas]
+    type: betting
+  - id: lake_caverns_bdsp
+    title: "Lake Caverns"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=LAKECAVE_EV).txtp"
+    type: break
+  - id: battle_azelf_mesprit_uxie_unused
+    title: "Battle! (Azelf/Mesprit/Uxie - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA009).txtp"
+    type: battle
+  - id: battle_azelf_mesprit_uxie_bdsp
+    title: "Battle! (Azelf/Mesprit/Uxie)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA009)(v1.1.0).txtp"
+    type: battle
+  - id: route_210_night_bdsp
+    title: "Route 210 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=W223_NIGHT).txtp"
+    type: betting
+  - id: a_poke_radar_hit_bdsp
+    title: "A Poké Radar Hit!"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=BA013) (BA013=TRUE).txtp"
+    type: warning
+  - id: sunyshore_city_night_bdsp
+    title: "Sunyshore City (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C08_NIGHT).txtp"
+    type: betting
+  - id: trainers_eyes_meet_artist_bdsp
+    title: "Trainers' Eyes Meet (Artist)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV210).txtp"
+    type: warning
+  - id: amity_square_bdsp
+    title: "Amity Square"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D11).txtp"
+    type: betting
+  - id: hearthome_city_night_bdsp
+    title: "Hearthome City (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C05_NIGHT).txtp"
+    type: betting
+  - id: contest_hall_bdsp
+    title: "Contest Hall"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C05R1101)(v1.1.0).txtp"
+    type: betting
+  - id: contest_hall_unused_bdsp
+    title: "Contest Hall (Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C05R1101).txtp"
+    type: betting
+  - id: poffins_bdsp
+    title: "Poffins"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=B_OPE004).txtp"
+    type: betting
+    #the contest tracks have their own tag, but I'm not sure if these two have remixes
+  # - id: super_contest
+    # title: "Super Contest!"
+    # path: "247 Super Contest!.txtp"
+    # type: betting
+  # - id: contest_dress_up
+    # title: "Contest: Dress Up"
+    # path: "248 Contest! Dress-up.txtp"
+    # type: warning
+  - id: dance_difficult_bdsp
+    title: "Dance: Difficult"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_CONTEST=B_CON_DIFFICULT)(v1.1.0).txtp"
+    type: result
+  - id: dance_difficult_unused_bdsp
+    title: "Dance: Difficult (Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_CONTEST=B_CON_DIFFICULT).txtp"
+    type: result
+  - id: contest_results_announcement_bdsp
+    title: "Contest: Results Announcement"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_CONTEST=B_CON007).txtp"
+    type: result
+  - id: contest_winner_bdsp
+    title: "Contest: Winner"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_CONTEST=B_CON008).txtp"
+    type: result
+  - id: route_228_night_bdsp
+    title: "Route 228 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R228_NIGHT).txtp"
+    type: betting
+  - id: valor_lakefront_night_bdsp
+    title: "Valor Lakefront (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=R213_NIGHT).txtp"
+    type: betting
+  - id: fight_area_night_bdsp
+    title: "Fight Area (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T06_NIGHT).txtp" #not sure how much this changes with day
+    type: betting
+  - id: battle_tower_bdsp
+    title: "Battle Tower"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D31).txtp"
+    type: betting
+  - id: route_225_night_bdsp
+    title: "Route 225 (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=W226_NIGHT).txtp"
+    type: betting
+  - id: stark_mountain_bdsp
+    title: "Stark Mountain"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D16)(v1.1.0).txtp"
+    type: betting
+  - id: stark_mountain_unused_bdsp
+    title: "Stark Mountain - Unused"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D16).txtp"
+    type: betting
+  - id: battle_legendary_theme_unused_bdsp
+    title: "Battle! (Legendary Theme - Unused)" #same one used for Legendaries in D/P I think
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA017).txtp"
+    type: battle
+  - id: battle_ramanas_legendary
+    title: "Battle! (Ramanas Legendary)" #not sure about this one. This and the one after seem to be for Ramanas Park Legendaries, just not sure which ones
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA017)(v1.1.0).txtp"
+    type: battle
+  - id: battle_minor_ramanas_legendary
+    title: "Battle! (Minor Ramanas Legendary)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA018)(v1.1.0).txtp"
+    type: battle
+  - id: pokemon_league_night_bdsp
+    title: "Pokémon League (Night)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C10_NIGHT).txtp"
+    type: break
+  - id: decisive_battle_pokemon_league_bdsp
+    title: "Decisive Battle! (Pokémon League)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C10R0101) (C10R0101=NONE).txtp"
+    type: betting
+  - id: the_elite_four_appears_bdsp
+    title: "The Elite Four Appears!"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV214).txtp"
+    type: warning
+  - id: battle_elite_four_unused_bdsp
+    title: "Battle! (Elite Four - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA014).txtp"
+    type: battle
+  - id: battle_elite_four_bdsp
+    title: "Battle! (Elite Four)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA014)(v1.1.0).txtp"
+    type: battle
+  - id: victory_elite_four_bdsp
+    title: "Victory (Elite Four)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA104).txtp"
+    type: result
+  - id: champion_cynthia_bdsp
+    title: "Champion Cynthia"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV215).txtp"
+    type: warning
+  - id: battle_champion_unused_bdsp
+    title: "Battle! (Champion - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA008).txtp"
+    type: battle
+  - id: battle_champion_bdsp
+    title: "Battle! (Champion)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA008)(v1.1.0).txtp"
+    type: battle
+  - id: victory_champion_bdsp
+    title: "Victory! (Champion)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA105).txtp"
+    type: result
+  - id: hall_of_fame_bdsp
+    title: "Hall of Fame"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV002).txtp"
+    type: result
+  - id: congratulations_on_entering_the_hall_of_fame_bdsp
+    title: "Congratulations on Entering the Hall of Fame!"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV002).txtp"
+    type: result
+  - id: ending_theme_bdsp
+    title: "Ending Theme"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=B_OTH004)(v1.1.0).txtp"
+    type: break
+  # - id: ending_theme_unused_bdsp
+    # title: "Ending Theme - Unused"
+    # path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=B_OTH004).txtp" #think this is just the DS ver?
+    # type: betting
+  - id: battle_arceus_unused_bdsp
+    title: "Battle! (Arceus - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA011).txtp"
+    type: battle
+  - id: battle_arceus_bdsp
+    title: "Battle! (Arceus)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA011)(v1.1.0).txtp"
+    type: battle
+  - id: battle_origin_giratina_unused_bdsp
+    title: "Battle! (Origin Giratina - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA015).txtp"
+    type: battle
+  - id: battle_giratina_bdsp
+    title: "Battle! (Giratina)" #think this might be used for other legendaries too?
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA015) (GIRATINA=NONE)(v1.1.0).txtp"
+    type: battle
+  - id: battle_origin_giratina_bdsp
+    title: "Battle! (Origin Giratina)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA015) (GIRATINA=ORIGIN)(v1.1.0).txtp"
+    type: battle
+    #we probably don't have any alt tracks, but just to be safe
+  # - id: battle_gym_leader_alt
+    # title: "Battle! Gym Leader (Alt)"
+    # path: "304 Battle! Gym Leader (Alt).txtp"
+    # type: battle
+  # - id: old_style_victory
+    # title: "Old-Style Victory"
+    # path: "305 Old-Style Victory.txtp"
+    # type: result
+  # - id: route_206_alt
+    # title: "Route 206 (Alt)"
+    # path: "311 Route 206 (Alt).txtp"
+    # type: betting
+  # - id: cavern_on_the_lake
+    # title: "Cavern on the Lake (Alt)"
+    # path: "312 Cavern on the Lake (Alt).txtp"
+    # type: betting
+  # - id: eterna_city_alt
+    # title: "Eterna City (Alt)"
+    # path: "314 Eterna City (Alt).txtp"
+    # type: betting
+  # - id: route_205_daytime_alt
+    # title: "Route 205 (Daytime) (Alt)"
+    # path: "315 Route 205 (Daytime) (Alt).txtp"
+    # type: betting
+  # - id: route_205_nighttime_alt
+    # title: "Route 205 (Nightime) (Alt)"
+    # path: "316 Route 205 (Nightime) (Alt).txtp"
+    # type: betting
+...

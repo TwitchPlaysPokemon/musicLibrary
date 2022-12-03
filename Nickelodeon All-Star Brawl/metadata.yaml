@@ -6,17 +6,16 @@ year: 2021
 songs:
   - id: irken_armada_invasion
     title: "Irken Armada Invasion"
-    path: "Armada.fsb"
-    ends: 2:32
+    path: "Irken Armada Invasion.brstm"
     type: betting
   - id: glove_world
     title: "Glove World"
     path: "CarnivalLofi.fsb"
     type: result
   - id: the_technodrome
-    title: "The Technodrome"
-    path: "Drome.fsb"
-    type: betting
+    title: "Technodrome Takedown"
+    path: "Technodrome Takedown.brstm"
+    type: battle
   - id: powdered_toast_trouble
     title: "Powdered Toast Trouble"
     path: "DuoKitchen.fsb"
@@ -49,12 +48,11 @@ songs:
     type: betting
   - id: rooftop_rumble
     title: "Rooftop Rumble"
-    path: "Rooftop.fsb"
-    ends: 2:15
+    path: "Rooftop Rumble.brstm"
     type: betting
   - id: sewer_slam
     title: "Sewer Slam"
-    path: "SewersCombined.fsb"
+    path: "Sewers Slam.brstm"
     type: betting
   - id: the_flying_dutchmans_ship
     title: "The Flying Dutchman's Ship"
@@ -63,12 +61,12 @@ songs:
     type: betting
   - id: jellyfish_fields_nick_all_star_brawl
     title: "Jellyfish Fields"
-    path: "SlideHouse.fsb"
+    path: "Jellyfish Fields.brstm"
     type: betting
   - id: harmonic_convergence
     title: "Harmonic Convergence"
-    path: "SpiritWorld.fsb"
-    type: warning
+    path: "Harmonic Convergence.brstm"
+    type: battle
   - id: traffic_jam
     title: "Traffic Jam"
     path: "Stomp.fsb"
@@ -84,17 +82,15 @@ songs:
     type: betting
   - id: wild_waterfall
     title: "Wild Waterfall"
-    path: "Waterfall.fsb"
-    ends: 2:23
+    path: "Wild Waterfall.brstm"
     type: betting
   - id: royal_woods_cemetary
     title: "Royal Woods Cemetery"
-    path: "YMC.fsb"
-    type: betting
+    path: "Royal Woods Cemetery.brstm"
+    type: warning
   - id: the_ghost_zone
     title: "The Ghost Zone"
-    path: "Zone.fsb"
-    ends: 1:55
+    path: "Ghost Zone.brstm"
     type: betting
   - id: lose_theme_ver_1
     title: "Lose Theme (Ver. 1)"
@@ -104,10 +100,13 @@ songs:
     title: "Lose Theme (Ver. 2)"
     path: "Lose_V2.fsb"
     type: result
+  - id: main_menu_nick_all_stars_brawl
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: result #not sure if same as versus theme?
   - id: online_menu_nick_all_stars_brawl
     title: "Online Menu"
-    path: "OnlineMenu.fsb"
-    ends: 2:10
+    path: "Online.brstm"
     type: betting
   - id: versus_theme_nick_all_stars_brawl
     title: "Versus Theme"

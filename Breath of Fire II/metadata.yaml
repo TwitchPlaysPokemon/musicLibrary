@@ -1,0 +1,72 @@
+---
+id: breath_of_fire_ii
+title: "Breath of Fire II"
+series: breathoffire
+platform: "SNES"
+year: 1994
+songs: 
+  - id: my_home_sweet_home
+    title: "My Home Sweet Home"
+    path: "104 My Home Sweet Home.spc"
+    type: break
+  - id: memories_bofii
+    title: "Memories"
+    path: "105 Memories.spc"
+    type: break
+  - id: critical_moment
+    title: "Critical Moment"
+    path: "107 Critical Moment.spc"
+    type: warning
+  - id: cross_counter
+    title: "Cross Counter"
+    path: "112 Cross Counter.spc"
+    type: warning
+  - id: treasures_won
+    title: "Treasures Won"
+    path: "113 Treasures Won.spc"
+    type: result
+  - id: coliseum_bofii
+    title: "Coliseum"
+    path: "115 Coliseum.spc"
+    type: betting
+  - id: clean_hit
+    title: "Clean Hit"
+    path: "117 Clean Hit.spc"
+    type: battle
+  - id: pincer_attack
+    title: "Pincer Attack"
+    path: "118 Pincer Attack.spc"
+    type: warning
+  - id: i_ll_do_it
+    title: "I'll Do It!"
+    path: "120 I'll Do It!.spc"
+    type: warning
+  - id: clumsy_dance
+    title: "Clumsy Dance"
+    path: "203 Clumsy Dance.spc"
+    type: betting
+  - id: century_of_the_patriarch
+    title: "Century of the Patriarch"
+    path: "204 Century of the Patriarch.spc"
+    type: result
+  - id: dying_corpse
+    title: "Dying Corpse"
+    path: "207 Dying Corpse.spc"
+    type: battle
+  - id: sandy_slumber
+    title: "Sandy Slumber"
+    path: "210 Sandy Slumber.spc"
+    type: betting
+  - id: the_closing_of_the_dragon_s_eye_at_the_end_of_the_tale
+    title: "The Closing of the Dragon's Eye at the End of the Tale"
+    path: "222 The Closing of the Dragon's Eye at the End of the Tale.spc"
+    type: break
+  - id: breath_of_fire 
+    title: "Breath of Fire"
+    path: "224 Breath of Fire.spc"
+    type: result
+  - id: thank_you_everyone
+    title: "Thank You, Everyone"
+    path: "225 Thank You, Everyone.spc"
+    type: betting
+...

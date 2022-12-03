@@ -4,204 +4,299 @@ title: "Mario Kart 8"
 series: mario
 platform: "Wii U"
 year: 2014
+#redid the MK8 tracks again, since the newest release has txtps that should allow the previous ones with atmospheric music to play fine
+#also added the few remaining tracks while I was at it
 songs:
-  - id: 3ds_music_park_metronome
-    title: "3DS Music Park (Metronome)"
-    path: "3DS Music Park (Metronome).brstm"
+  - id: 3ds_music_park
+    title: "3DS Music Park"
+    path: "pBGM_3DS_MUSIC_PARK_N_MAIN.txtp" #no metronome beat on its own, so this is the closest I could get
     type: betting
   - id: 3ds_neo_bowser_city
     title: "3DS Neo Bowser City"
-    path: "3DS Neo Bowser City.brstm"
+    path: "pBGM_3DS_NEOBOWSERCITY_N_MAIN.txtp"
     type: betting
   - id: 3ds_piranha_plant_slide
     title: "3DS Piranha Plant Slide"
-    path: "3DS Piranha Plant Slide.brstm"
+    path: "pBGM_3DS_PACKUN_SLIDER_N_MAIN.txtp"
+    type: betting
+  - id: 3ds_dk_jungle
+    title: "3DS DK Jungle"
+    path: "pBGM_3DS_DK_JUNGLE_N_MAIN.txtp"
     type: betting
   - id: animal_crossing_autumn
     title: "Animal Crossing (Autumn)"
-    path: "Animal Crossing (Autumn).brstm"
+    path: "pBGM_WU_ANIMALAUTUMN_N_MAIN.txtp"
     type: betting
   - id: animal_crossing_spring
     title: "Animal Crossing (Spring)"
-    path: "Animal Crossing (Spring).brstm"
+    path: "pBGM_WU_ANIMALSPRING_N_MAIN.txtp"
     type: betting
   - id: animal_crossing_summer
     title: "Animal Crossing (Summer)"
-    path: "Animal Crossing (Summer).brstm"
+    path: "pBGM_WU_ANIMALSUMMER_N_MAIN.txtp"
     type: betting
   - id: animal_crossing_winter
     title: "Animal Crossing (Winter)"
-    path: "Animal Crossing (Winter).brstm"
-    tags: [xmas]
+    path: "pBGM_WU_ANIMALWINTER_N_MAIN.txtp"
     type: betting
   - id: bone_dry_dunes
     title: "Bone Dry Dunes"
-    path: "Bone Dry Dunes.brstm"
+    path: "pBGM_WU_DESERT_N_MAIN.txtp"
     type: betting
+  - id: bowser_s_castle_mk8
+    title: "Bowser's Castle"
+    path: "pBGM_WU_BOWSER_CASTLE_N_MAIN.txtp"
+    type: battle
   - id: cloudtop_cruise
     title: "Cloudtop Cruise"
-    path: "Cloudtop Cruise.brstm"
+    path: "pBGM_WU_CLOUD_N_MAIN.txtp"
     type: betting
   - id: ds_cheep_cheep_beach
     title: "DS Cheep Cheep Beach"
-    path: "DS Cheep Cheep Beach.brstm"
+    path: "pBGM_DS_PUKUPUKU_BEACH_N_MAIN.txtp"
     type: betting
   - id: ds_tick_tock_clock
     title: "DS Tick Tock Clock"
-    path: "DS Tick Tock Clock.brstm"
+    path: "pBGM_DS_TICK_TOCK_CLOCK_N_MAIN.txtp"
+    type: betting
+  - id: ds_wario_stadium
+    title: "DS Wario Stadium"
+    path: "pBGM_DS_WARIO_STADIUM_N_MAIN.txtp"
+    type: betting
+  - id: dolphin_shoals
+    title: "Dolphin Shoals"
+    path: "pBGM_WU_OCEAN_REPLAY.txtp"
     type: betting
   - id: electrodrome
     title: "Electrodrome"
-    path: "Electrodrome.brstm"
+    path: "pBGM_WU_TECHNO_N_MAIN_A.txtp"
     type: betting
   - id: gba_cheese_land
     title: "GBA Cheese Land"
-    path: "GBA Cheese Land.brstm"
+    path: "pBGM_GBA_CHEESELAND_N_MAIN.txtp"
     type: betting
   - id: gba_ribbon_road
     title: "GBA Ribbon Road"
-    path: "GBA Ribbon Road.brstm"
+    path: "pBGM_GBA_RIBBONROAD_N_MAIN.txtp"
+    type: betting
+  - id: gba_mario_circuit
+    title: "GBA Mario Circuit"
+    path: "pBGM_AGB_MARIO_CIRCUIT_N_MAIN.txtp"
+    type: betting
+  - id: gcn_dry_dry_desert
+    title: "GCN Dry Dry Desert"
+    path: "pBGM_GC_DRY_DRY_DESERT_N_MAIN.txtp"
     type: betting
   - id: gcn_sherbet_land
     title: "GCN Sherbet Land"
-    path: "GCN Sherbet Land.brstm"
+    path: "pBGM_GC_SHERBET_LAND_N_MAIN.txtp"
     type: betting
   - id: gcn_yoshi_circuit
     title: "GCN Yoshi Circuit"
-    path: "GCN Yoshi Circuit.brstm"
+    path: "pBGM_GC_YOSHICIRCUIT_N_MAIN.txtp"
     type: betting
   - id: good_results
     title: "Good Results"
-    path: "Good Results.brstm"
+    path: "BGM_RESULT1_BTL.bfstm"
     type: betting
   - id: hyrule_circuit
     title: "Hyrule Circuit"
-    path: "Hyrule Circuit.brstm"
+    path: "pBGM_WU_HYRULE_N_MAIN.txtp"
     type: betting
   - id: ice_ice_outpost
     title: "Ice Ice Outpost"
-    path: "Ice Ice Outpost.brstm"
-    tags: [xmas]
+    path: "pBGM_WU_ICEPARK_N_MAIN.txtp"
     type: betting
   - id: mario_circuit_mk8
     title: "Mario Circuit"
-    path: "Mario Circuit.brstm"
+    path: "pBGM_WU_CIRCUIT_N_MAIN.txtp"
     type: betting
   - id: mario_kart_tv
     title: "Mario Kart TV"
-    path: "Mario Kart TV.brstm"
+    path: "BGM_MENU_TV.bfstm"
     type: betting
   - id: n64_rainbow_road
     title: "N64 Rainbow Road"
-    path: "N64 Rainbow Road.brstm"
+    path: "pBGM_N64_RAINBOW_ROAD_N_MAIN.txtp"
     type: betting
   - id: n64_royal_raceway
     title: "N64 Royal Raceway"
-    path: "N64 Royal Raceway.brstm"
+    path: "pBGM_N64_PEACH_CIRCUIT_N_MAIN.txtp"
     type: betting
   - id: n64_toads_turnpike
     title: "N64 Toad's Turnpike"
-    path: "N64 Toad's Turnpike.brstm"
+    path: "pBGM_N64_KINOPIO_HIGHWAY_N_MAIN.txtp"
     type: betting
   - id: online_waiting_room
     title: "Online Waiting Room"
-    path: "Online Waiting Room.brstm"
+    path: "BGM_WATCH_RACE.bfstm"
     type: betting
   - id: rainbow_road_mk8
     title: "Rainbow Road"
-    path: "Rainbow Road.brstm"
+    path: "pBGM_WU_RAINBOW_ROAD_N_MAIN.txtp"
     type: betting
   - id: snes_rainbow_road
     title: "SNES Rainbow Road"
-    path: "SNES Rainbow Road.brstm"
+    path: "pBGM_SFC_RAINBOWROAD_N_MAIN.txtp"
+    type: betting
+  - id: shy_guy_falls
+    title: "Shy Guy Falls"
+    path: "pBGM_WU_EXPERT_N_MAIN.txtp"
     type: betting
   - id: sunshine_airport
     title: "Sunshine Airport"
-    path: "Sunshine Airport.brstm"
+    path: "pBGM_WU_AIRPORT_N_MAIN.txtp"
     type: betting
   - id: thwomp_ruins
     title: "Thwomp Ruins"
-    path: "Thwomp Ruins.brstm"
+    path: "pBGM_WU_DOSSUN_N_MAIN.txtp"
+    type: betting
+  - id: toad_harbor
+    title: "Toad Harbor"
+    path: "pBGM_WU_CITY_N_MAIN.txtp"
     type: betting
   - id: water_park
     title: "Water Park"
-    path: "Water Park.brstm"
+    path: "pBGM_WU_WATER_PARK_N_MAIN.txtp"
     type: betting
   - id: dragon_driftway
     title: "Dragon Driftway"
-    path: "Dragon Driftway.brstm"
+    path: "pBGM_WU_DRAGONROAD_N_MAIN.txtp"
     type: warning
   - id: gcn_baby_park
     title: "GCN Baby Park"
-    path: "GCN Baby Park.brstm"
+    path: "pBGM_GC_BABYPARK_REPLAY.bfstm" #I think this is the one?
     type: warning
   - id: wii_grumble_volcano
     title: "Wii Grumble Volcano"
-    path: "Wii Grumble Volcano.brstm"
+    path: "pBGM_WII_GRUMBLE_VOLCANO_N_MAIN.txtp"
     type: warning
+  - id: wii_moo_moo_meadows
+    title: "Wii Moo Moo Meadows"
+    path: "pBGM_WII_MOO_MOO_MEADOWS_N_MAIN.txtp" 
+    type: betting
   - id: wii_warios_gold_mine
     title: "Wii Wario's Gold Mine"
-    path: "Wii Wario's Gold Mine.brstm"
+    path: "pBGM_WII_WARIOSMINE_N_MAIN.txtp" 
     type: betting
   - id: wild_woods
     title: "Wild Woods"
-    path: "Wild Woods.brstm"
+    path: "pBGM_WU_WOOD_N_MAIN.txtp"
     type: betting
   - id: big_blue_mk8
     title: "Big Blue"
-    path: "Big Blue.brstm"
+    path: "pBGM_WU_BIGBLUE_N_MAIN.txtp"
     type: battle
+  - id: big_blue_results_mk8
+    title: "Big Blue - Results"
+    path: "pBGM_FZERO_RESULT_BIGBLUE.bfstm"
+    type: result
   - id: dragon_driftway_final_lap
     title: "Dragon Driftway (Final Lap)"
-    path: "Dragon Driftway (Final Lap).brstm"
+    path: "pBGM_WU_DOSSUN_F_MAIN.txtp"
     type: battle
   - id: animal_crossing_results
     path: "Animal Crossing Results.brstm"
-    title: "Results (Animal Crossing)"
+    title: "pBGM_ANIMAL_RESULT_AUTUMN.bfstm"
     type: result
   - id: excitebike_arena
     title: "Excitebike Arena"
-    path: "Excitebike Arena.brstm"
+    path: "pBGM_WU_EXCITEBIKE_N_MAIN.txtp"
     type: result
   - id: 3ds_music_park_medley
     title: "3DS Music Park (Medley)"
-    path: "3DS Music Park (Medley).brstm"
+    path: "3DS Music Park (Medley).brstm" #as a medley, the raws wouldn't have it - may be too similar to 3DS Music above when metronome isn't included?
     type: betting
   - id: animal_crossing_winter_frontrunning
     title: "Animal Crossing (Winter) (Frontrunning)"
-    path: "Animal Crossing (Winter) (Frontrunning).brstm"
-    tags: [xmas]
+    path: "pBGM_WU_ANIMALWINTER_N_FRONTRUNNING.txtp"
     type: betting
   - id: gcn_sherbet_land_final_lap_frontrunning
     title: "GCN Sherbet Land (Final Lap) (Frontrunning)"
-    path: "GCN Sherbet Land (Final Lap) (Frontrunning).brstm"
-    tags: [xmas]
+    path: "pBGM_GC_SHERBET_LAND_F_FRONTRUNNING.txtp"
     type: result
   - id: ice_ice_outpost_frontrunning
     title: "Ice Ice Outpost (Frontrunning)"
-    path: "Ice Ice Outpost (Frontrunning).brstm"
-    tags: [xmas]
+    path: "pBGM_WU_ICEPARK_N_FRONTRUNNING.txtp"
     type: warning
   - id: mount_wario_ost_version
     title: "Mount Wario (OST Version)"
-    path: "Mount Wario (OST Version).brstm"
-    tags: [xmas]
+    path: "pBGM_WU_SNOW_MOUNTAIN_REPLAY.bfstm" #the replay version - dunno if it fits
     type: betting
   - id: sweet_sweet_canyon
     title: "Sweet Sweet Canyon"
-    path: "Sweet Sweet Canyon.brstm"
-    tags: [xmas]
+    path: "pBGM_WU_CAKE_N_MAIN.txtp"
     type: betting
   - id: gcn_baby_park_in_game_style
     title: "GCN Baby Park (In-Game Style)"
-    path: "GCN Baby Park (In-Game Style).brstm"
+    path: "GCN Baby Park (In-Game Style).brstm" #speeding up can't really be seen in the files
     type: betting
   - id: gcn_baby_park_final_lap
     title: "GCN Baby Park (Final Lap)"
-    path: "GCN Baby Park (Final Lap).brstm"
+    path: "pBGM_GC_BABYPARK_F_MAIN.txtp"
     type: warning
   - id: snes_donut_plains_3
     title: "SNES Donut Plains 3"
-    path: "SNES Donut Plains 3.brstm"
+    path: "pBGM_SFC_DONUTS_PLAIN3_N_MAIN.txtp"
     type: betting
+  - id: snes_donut_plains_3_final_lap
+    title: "SNES Donut Plains 3 (Final Lap)"
+    path: "pBGM_SFC_DONUTS_PLAIN3_F_MAIN.txtp"
+    type: warning
+  - id: mute_city_mk8
+    title: "Mute City"
+    path: "pBGM_WU_MUTECITY_N_MAIN.txtp"
+    type: battle
+  - id: mute_city_final_lap
+    title: "Mute City (Final Lap)"
+    path: "pBGM_WU_MUTECITY_F_MAIN.txtp"
+    type: warning
+  - id: super_bell_subway
+    title: "Super Bell Subway"
+    path: "pBGM_WU_METRO_REPLAY.bfstm" #think this fits more than the N ver
+    type: betting
+  - id: super_bell_subway_final_lap
+    title: "Super Bell Subway (Final Lap)"
+    path: "pBGM_WU_METRO_F_MAIN.txtp" 
+    type: warning
+  - id: mario_kart_stadium
+    title: "Mario Kart Stadium"
+    path: "pBGM_WU_FIRST_CIRCUIT_N_MAIN.txtp"
+    type: betting
+  - id: mario_kart_stadium_final_lap
+    title: "Mario Kart Stadium (Final Lap)"
+    path: "pBGM_WU_FIRST_CIRCUIT_F_MAIN.txtp"
+    type: warning
+  - id: twisted_mansion
+    title: "Twisted Mansion"
+    path: "pBGM_WU_HAUNTED_N_MAIN.txtp"
+    type: betting
+  - id: twisted_mansion_final_lap
+    title: "Twisted Mansion (Final Lap)"
+    path: "pBGM_WU_HAUNTED_F_MAIN.txtp"
+    type: warning
+  - id: get_trophy_mk8
+    title: "Get Trophy"
+    path: "BGM_TROPHY_CONGRATS.bfstm"
+    type: result
+  - id: no_trophy_mk8
+    title: "No Trophy"
+    path: "BGM_TROPHY_DRAW.bfstm"
+    type: result
+  - id: bad_results_mk8
+    title: "Bad Results"
+    path: "BGM_RESULT3_BTL.bfstm"
+    type: result
+  - id: title_screen_mk8
+    title: "Title Screen"
+    path: "BGM_TITLE.bfstm"
+    type: betting
+  - id: winning_run_mk8
+    title: "Winning Run"
+    path: "BGM_DEMO_WINNING_SCENE.bfstm"
+    type: result
+  - id: wi_fi_lobby_mk8
+    title: "Wi-Fi Lobby"
+    path: "BGM_MENU_WIFI_C.txtp" #either A, B, or C can work here I guess
+    type: break
 ...

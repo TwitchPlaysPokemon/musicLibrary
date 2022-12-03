@@ -1,0 +1,19 @@
+---
+id: cave_story_s_secret_santa
+title: "Cave Story's Secret Santa"
+year: 2021
+platform: ["PC", "Switch"]
+songs:
+  - id: title_theme_csss
+    title: "Title Theme"
+    path: "theme_intro+loop.txtp"
+    type: betting
+  - id: overworld_csss
+    title: "Overworld"
+    path: "overworld.fsb"
+    type: result
+  - id: delivery_csss
+    title: "Delivery"
+    path: "delivery.fsb"
+    type: betting
+...

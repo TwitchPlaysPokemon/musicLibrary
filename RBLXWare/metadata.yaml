@@ -9,6 +9,14 @@ songs:
     title: "Bomb Pass"
     path: "Bomb Pass.brstm"
     type: warning
+  - id: captain_bloxbeard_s_rage
+    title: "Captain Bloxbeard's Rage"
+    path: "Captain Bloxbeard's Rage.brstm"
+    type: warning
+  - id: duck_dance
+    title: "Duck Dance"
+    path: "Duck Dance.brstm"
+    type: result
   - id: john_bomb_phase_two
     title: "John Bomb Phase Two"
     path: "John Bomb Phase Two.brstm"
@@ -17,6 +25,14 @@ songs:
     title: "John Bomb Rage"
     path: "John Bomb Rage.brstm"
     type: warning
+  - id: nekora_and_psyco
+    title: "Nekroa & Psyco"
+    path: "Nekroa & Psyco.brstm"
+    type: betting
+  - id: nekora_and_psyco_rage
+    title: "Nekroa & Psyco Rage"
+    path: "Nekroa & Psyco Rage.brstm"
+    type: battle
   - id: robot_santa
     title: "Robot Santa"
     path: "Robot Santa.brstm"
@@ -32,14 +48,6 @@ songs:
   - id: thriller_rblxware
     title: "Thriller"
     path: "Thriller.brstm"
-    type: betting
-  - id: nekora_and_psyco_rage
-    title: "Nekroa & Psyco Rage"
-    path: "Nekroa & Psyco Rage.brstm"
-    type: battle
-  - id: nekora_and_psyco
-    title: "Nekroa & Psyco"
-    path: "Nekroa & Psyco.brstm"
     type: betting
   - id: yhan_and_overk_rage
     title: "Yhan & Overk Rage"

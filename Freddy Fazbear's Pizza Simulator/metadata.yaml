@@ -1,0 +1,36 @@
+---
+id: freddy_fazbear_s_pizzeria_simulator
+title: "Freddy Fazbear's Pizzeria Simulator"
+series: fivenightsatfreddys
+platform: "PC"
+year: 2017
+songs: 
+  - id: creme_de_la_creme
+    title: "Creme De La Creme"
+    path: "Creme De La Creme.brstm"
+    type: betting
+  - id: four_bits_to_the_left
+    title: "Four Bits to the Left"
+    path: "Four Bits to the Left.brstm"
+    type: betting
+  - id: groovy_gravy
+    title: "Groovy Gravy"
+    path: "Groovy Gravy.brstm"
+    type: warning
+  - id: legal_woes
+    title: "Legal Woes"
+    path: "Legal_Woes.brstm"
+    type: break
+  - id: smashing_windshields
+    title: "Smashing Windshields"
+    path: "Smashing Windshields.brstm"
+    type: betting
+  - id: thank_you_for_your_patience
+    title: "Thank You For Your Patience"
+    path: "Thank You For Your Patience.brstm"
+    type: break
+  - id: title_screen_ffps
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+...

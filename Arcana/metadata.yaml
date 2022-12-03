@@ -4,10 +4,62 @@ title: "Arcana"
 platform: "SNES"
 year: 1992
 songs:
+  - id: prologue_to_the_tale
+    title: "Prologue to the Tale"
+    path: "04 Prologue to the Tale.spc"
+    type: betting
+  - id: rooks_the_card_master
+    title: "Rooks ~ The Card Master"
+    path: "06 Rooks ~ The Card Master.spc"
+    type: break
+  - id: crowded_marketplace
+    title: "Crowded Marketplace"
+    path: "07 Crowded Marketplace.spc"
+    type: betting
+  - id: weapon_shop_arcana
+    title: "Weapon Shop"
+    path: "09 Weapon Shop.spc"
+    type: break
+  - id: the_legend_arcana
+    title: "The Legend"
+    path: "12 The Legend.spc"
+    type: break
+  - id: reinoll_generous_hermit
+    title: "Reinoll ~ Generous Hermit"
+    path: "13 Reinoll ~ Generous Hermit.spc"
+    type: break
+  - id: death_of_a_loved_one
+    title: "Death of a Loved One"
+    path: "14 Death of a Loved One.spc"
+    type: result
+  - id: trickery_arcana
+    title: "Trickery"
+    path: "19 Trickery.spc"
+    type: warning
+  - id: conflict_arcana
+    title: "Conflict"
+    path: "20 Conflict.spc"
+    type: battle
+  - id: fanfare_arcana
+    title: "Fanfare"
+    path: "21 Fanfare.spc"
+    type: result
+  - id: shrine_for_the_worship_of_chaos
+    title: "Shrine for the Worship of Chaos"
+    path: "24 Shrine for the Worship of Chaos.spc"
+    type: betting
   - id: dravens_valley_pass
     title: "Draven's Valley Pass"
     path: "25 Draven's Valley Pass.spc"
     type: warning
+  - id: silent_forest_of_doubt
+    title: "Silent Forest of Doubt"
+    path: "26 Silent Forest of Doubt.spc"
+    type: break
+  - id: darwin_treasure_hunter
+    title: "Darwin ~ Treasure Huntern"
+    path: "27 Darwin ~ Treasure Hunter.spc"
+    type: betting
   - id: decisive_battle_arcana
     title: "Decisive Battle"
     path: "29 Decisive Battle.spc"
@@ -16,6 +68,10 @@ songs:
     title: "Dark Castle Bintel"
     path: "30 Dark Castle Bintel.spc"
     type: betting
+  - id: the_goddess_arcana
+    title: "The Goddess"
+    path: "31 The Goddess.spc"
+    type: warning
   - id: second_armageddon
     title: "Second Armageddon"
     path: "33 Second Armageddon.spc"
