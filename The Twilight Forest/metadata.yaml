@@ -1,0 +1,17 @@
+---
+id: the_twilight_forest
+title: "The Twilight Forest"
+series: minecraft
+platform: "PC"
+is_fanwork: true
+year: 2011
+songs:
+    - id: home_twilight_forest
+      title: "Home"
+      path: "Home.brstm"
+      type: break
+    - id: thread_twilight_forest
+      title: "Thread"
+      path: "Thread.brstm"
+      type: break
+...

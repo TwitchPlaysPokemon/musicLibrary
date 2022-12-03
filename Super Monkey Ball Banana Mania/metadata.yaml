@@ -147,10 +147,10 @@ songs:
     title: "All is well that ends well (Monkey Shot Theme)"
     path: "shot.hca"
     type: result
-#  - id: monkey_shot_advanced_theme_banana_mania
-#    title: "Monkey Shot Advanced Theme"
-#    path: "shot_advan.hca"
-#    type: betting
+  - id: monkey_shot_advanced_theme_banana_mania
+    title: "Monkey Shot Advanced Theme"
+    path: "shot_advan.hca"
+    type: betting
   - id: s_t_f_2021
     title: "S.T.F. 2021 (Monkey Shot Boss Theme)"
     path: "shot_boss.hca"
@@ -163,4 +163,12 @@ songs:
     title: "FUNKY TECHNO 2021 (Monkey Bowling Theme)"
     path: "bowling.hca"
     type: betting
+  - id: every_man_is_the_architect_of_his_own_fortune
+    title: "Every man is the architect of his own fortune (Monkey Tennis Theme)"
+    path: "tennis.hca"
+    type: betting
+  - id: credits_banana_mania
+    title: "Credits"
+    path: "staffroll.hca"
+    type: result
 ...

@@ -1,0 +1,16 @@
+---
+id: dr_mario_world
+title: "Dr. Mario World"
+series: mario
+platform: "Mobile"
+year: 2019
+songs:
+  - id: chill_mobile
+    title: "Chill"
+    path: "Chill.brstm"
+    type: betting
+  - id: fever_mobile
+    title: "Fever"
+    path: "Fever.brstm"
+    type: betting
+...

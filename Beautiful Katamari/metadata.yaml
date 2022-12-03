@@ -3,7 +3,77 @@ platform: "360"
 title: "Beautiful Katamari"
 year: 2007
 songs: 
-  - id: star_star_star
-    path: "Star! Star! Star!.brstm"
-    title: "Star! Star! Star!"
+  - id: bless_my_stars
+    title: "Bless My Stars"
+    path: "Bless My Stars.nps"
+    ends: 3:05
     type: betting
+  - id: boyfriend_a_gogo
+    title: "Boyfriend A Gogo"
+    path: "Boyfriend A Gogo.nps"
+    ends: 3:10
+    type: betting
+  - id: colorful_heart
+    title: "Colorful Heart"
+    path: "Colorful Heart.nps"
+    ends: 2:45
+    type: betting
+  - id: cosmic_lounge
+    title: "Cosmic Lounge"
+    path: "Cosmic Lounge.nps"
+    type: betting
+  - id: guru_guru_gravity
+    title: "Guru Guru Gravity"
+    path: "Guru Guru Gravity.nps"
+    ends: 3:05
+    type: betting
+  - id: harvest_of_love
+    title: "Harvest of Love"
+    path: "Harvest of Love.nps"
+    ends: 2:30
+    type: betting
+  - id: into_the_sky_beautiful_katamari
+    title: "Into the Sky"
+    path: "Into the Sky.nps"
+    ends: 3:00
+    type: betting
+  - id: katamari_dancing
+    title: "Katamari Dancing"
+    path: "Katamari Dancing.nps"
+    ends: 2:45
+    type: betting
+  - id: la_campanella_beautiful_katamari
+    title: "La Campanella"
+    path: "La Campanella.nps"
+    ends: 2:38
+    type: betting
+  - id: sayonara_rolling_star_beautiful_katamari
+    title: "Sayonara Rolling Star"
+    path: "Sayonara Rolling Star.nps"
+    ends: 3:30
+    type: betting
+  - id: prologue_beautiful_katamari
+    title: "Prologue"
+    path: "Prologue.nps"
+    type: result
+  - id: everyone_s_mambo
+    title: "Everyone's Mambo"
+    path: "Everyone's Mambo.nps"
+    type: result
+  - id: katamari_planet
+    title: "Katamari Planet"
+    path: "Katamari Planet.nps"
+    type: result
+  - id: prince_lounge
+    title: "Prince Lounge"
+    path: "Prince Lounge.nps"
+    type: result 
+  - id: star_star_star
+    title: "Star! Star! Star!"
+    path: "Star! Star! Star!.nps"
+    type: result #was previously betting
+  - id: epilogue_beautiful_katamari
+    title: "Epilogue"
+    path: "Epilogue.nps"
+    type: result #could also maybe be break? dunno
+...

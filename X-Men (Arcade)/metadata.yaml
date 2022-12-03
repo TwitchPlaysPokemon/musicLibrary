@@ -3,9 +3,53 @@ id: x_men_arcade
 title: "X-Men"
 platform: "Arcade"
 year: 1992
-songs: 
+songs:
+  - id: they_come_from_hell_start_demo
+    title: "They Come From Hell (Start Demo)"
+    path: "04 They Come From Hell (Start Demo).vgz"
+    type: warning
   - id: here_comes_the_hero_stage_1
     title: "Here Comes The Hero (Stage 1)"
     path: "05 Here Comes The Hero (Stage 1).vgz"
     type: betting
+  - id: do_the_right_thing_boss
+    title: "Do The Right Thing (Boss)"
+    path: "06 Do The Right Thing (Boss).vgz"
+    type: warning
+  - id: psycho_talking_midway_demo_1_1
+    title: "Psycho Talking (Midway Demo 1-1)"
+    path: "09 Psycho Talking (Midway Demo 1-1).vgz"
+    type: warning
+  - id: dance_with_a_crocodile_stage_3
+    title: "Dance With A Crocodile (Stage 3)"
+    path: "11 Dance With A Crocodile (Stage 3).vgz"
+    type: betting
+  - id: ambience_of_the_underground_stage_4
+    title: "Ambience of The Underground (Stage 4)"
+    path: "12 Ambience of The Underground (Stage 4).vgz"
+    type: betting
+  - id: mountain_top_stage_5
+    title: "Mountain Top (Stage 5)"
+    path: "14 Mountain Top (Stage 5).vgz"
+    type: betting
+  - id: ethnic_cave_and_flame_stage_6
+    title: "Ethnic Cave & Flame (Stage 6)"
+    path: "15 Ethnic Cave & Flame (Stage 6).vgz"
+    type: betting
+  - id: command_from_prof_x_to_defeat_enemy_attacks_midway_demo_4_1
+    title: "Command from Prof. X To Defeat Enemy Attacks (Midway Demo 4-1)"
+    path: "16 Command from Prof. X To Defeat Enemy Attacks (Midway Demo 4-1).vgz"
+    type: warning
+  - id: i_ll_keep_on_fighting_as_long_as_i_live_stage_7
+    title: "I'll Keep On Fighting As Long As I Live (Stage 7)"
+    path: "18 I'll Keep On Fighting As Long As I Live (Stage 7).vgz"
+    type: betting
+  - id: nightmarish_fight_final_boss
+    title: "Nightmarish Fight (Final Boss)"
+    path: "19 Nightmarish Fight (Final Boss).vgz"
+    type: warning
+  - id: they_are_peaceful_living_people_ending
+    title: "They Are Peaceful Living People (Ending)"
+    path: "22 They Are Peaceful Living People (Ending).vgz"
+    type: result
 ...

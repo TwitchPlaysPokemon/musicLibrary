@@ -1,0 +1,77 @@
+---
+id: jackbox_party_pack
+title: "The Jackbox Party Pack 4"
+series: thejackboxpartypack
+platform: ["PC", "Various"]
+year: 2017
+songs: 
+  - id: bracketeering_gameplay_2
+    title: "Bracketeering: Gameplay 2"
+    path: "Bracketeering Gameplay 2.logg"
+    type: betting
+  - id: bracketeering_lobby
+    title: "Bracketeering: Lobby"
+    path: "Bracketeering Lobby.logg"
+    type: result
+  - id: civic_doodle_background_loop
+    title: "Civic Doodle: Background Loop"
+    path: "Civic Doodle Background Loop.logg"
+    type: result
+  - id: civic_doodle_lobby
+    title: "Civic Doodle: Lobby"
+    path: "Civic Doodle Lobby.logg"
+    type: betting
+  - id: fibbage_3_lobby_instrumental
+    title: "Fibbage 3: Lobby (instrumental)"
+    path: "Fibbage 3 Lobby (instrumental).txtp"
+    type: break
+  - id: fibbage_3_lobby_vocals
+    title: "Fibbage 3: Lobby (vocals)"
+    path: "Fibbage 3 Lobby Music (vocals).logg"
+    type: break
+  - id: fibbage_3_round_3_write_extended
+    title: "Fibbage 3: Round 3 Write (extended)"
+    path: "Fibbage 3 Round 3 Write (extended).ogg"
+    ends: 2:01
+    type: betting
+  - id: monster_seeking_monster_chat_1
+    title: "Monster Seeking Monster: Chat 1"
+    path: "Monster Seeking Monster Chat 1.logg"
+    type: betting
+  - id: monster_seeking_monster_chat_2
+    title: "Monster Seeking Monster: Chat 2"
+    path: "Monster Seeking Monster Chat 2.logg"
+    type: betting
+  - id: monster_seeking_monster_chat_3
+    title: "Monster Seeking Monster: Chat 3"
+    path: "Monster Seeking Monster Chat 3.logg"
+    type: betting
+  - id: monster_seeking_monster_chat_4
+    title: "Monster Seeking Monster: Chat 4"
+    path: "Monster Seeking Monster Chat 4.logg"
+    type: betting
+  - id: monster_seeking_monster_chat_5
+    title: "Monster Seeking Monster: Chat 5"
+    path: "Monster Seeking Monster Chat 5.logg"
+    type: betting
+  - id: monster_seeking_monster_intro_tutorial
+    title: "Monster Seeking Monster: Intro Tutorial"
+    path: "Monster Seeking Monster Intro Tutorial.logg"
+    type: result
+  - id: monster_seeking_monster_lobby
+    title: "Monster Seeking Monster: Lobby"
+    path: "Monster Seeking Monster Lobby.logg"
+    type: betting
+  - id: monster_seeking_monster_scoreboard
+    title: "Monster Seeking Monster: Scoreboard"
+    path: "Monster Seeking Monster Scoreboard.logg"
+    type: result
+  - id: survive_the_internet_final_round_twist
+    title: "Survive the Internet: Final Round Twist"
+    path: "Survive the Internet Final Round Twist.logg"
+    type: result
+  - id: survive_the_internet_reveal
+    title: "Survive the Internet: Reveal"
+    path: "Survive the Internet Reveal.logg"
+    type: warning
+...

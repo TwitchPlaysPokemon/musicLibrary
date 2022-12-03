@@ -1,0 +1,161 @@
+---
+id: pokemon_legends_arceus
+title: "Pokémon Legends Arceus"
+series: pokemon
+platform: "Switch"
+year: 2022
+#the raw files are incredibly tough to parse through, so this is all I've found so far.
+songs:
+  - id: battle_vs_volo
+    title: "Battle! Vs. Volo"
+    path: "BGM-1911-event (BGM_BATTLE_TRAINER=BATTLE_TRAINER_ON).txtp"
+    type: battle
+  - id: minigame_theme_legends_arceus
+    title: "Minigame Theme"
+    path: "PLAY_BGM_HA_FI_CMN_MINI_GAME (BGM_MINIGAME=MINIGAME_START).txtp"
+    type: warning
+  - id: evolution_legends_arceus
+    title: "Evolution"
+    path: "PLAY_BGM_HA_SYS_EVOLUTION.txtp"
+    type: warning
+  - id: mystery_gift_legends_arceus
+    title: "Mystery Gift"
+    path: "PLAY_BGM_HA_SYS_MYSTERYGIFT.txtp"
+    type: break
+  - id: battle_vs_dialga_palkia_origin_form
+    title: "Battle! VS. Dialga/Palkia (Origin Form)"
+    path: "PLAY_BGM_VS_BOSS_02 (BGM_BOSS02_DEMO=BOSS02_DEMO_OUT)(BGM_VS_NUSHI=VS_NUSHI_FIELD).txtp"
+    type: battle
+  - id: battle_vs_giratina_altered_form_legends_arceus
+    title: "Battle! Vs. Giratina (Altered Form)"
+    path: "PLAY_BGM_VS_BOSS_03 (BGM_BOSS03=BOSS03_START).txtp"
+    type: battle
+  - id: battle_vs_giratina_origin_form_legends_arceus
+    title: "Battle! Vs. Giratina (Origin Form)"
+    path: "PLAY_BGM_VS_BOSS_03 (BGM_BOSS03=BOSS03_REVIVAL).txtp"
+    type: battle
+  - id: battle_vs_dialga_palkia_altered_form
+    title: "Battle! VS. Dialga/Palkia (Altered Form)"
+    path: "PLAY_BGM_VS_BOSS_05 (BGM_BOSS05=BOSS05_START).txtp"
+    type: battle
+  - id: battle_vs_wild_pokemon_legends_arceus
+    title: "Battle! Vs. Wild Pokémon"
+    path: "PLAY_BGM_VS_NORA (BGM_VS_TYPE=VS_TYPE_NORA)(BGM_BATTLE=BATTLE_ON) {s}.txtp"
+    type: battle
+  - id: battle_vs_alpha_wild_pokemon
+    title: "Battle! Vs. Alpha Wild Pokémon"
+    path: "PLAY_BGM_VS_NORA (BGM_VS_TYPE=VS_TYPE_OYABUN)(BGM_BATTLE=BATTLE_ON) {s}.txtp"
+    type: battle
+  - id: battle_vs_azelf_uxie_mespirit_legends_arceus
+    title: "Battle! Vs. Azelf, Uxie, and Mespirit"
+    path: "PLAY_BGM_VS_BOSS_01 (BGM_CAUTION_BOSS_MID=CAUTION_BOSS_MID_ON)(BGM_BOSS01=BOSS01_PRE).txtp"
+    type: battle
+  - id: jubilife_village_beginning_home
+    title: "Jubilife Village (Beginning - Home)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV1)(817297439=1264931242)(3717473234=876204941)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_HOME).txtp"
+    type: break
+  - id: jubilife_village_beginning_indoors
+    title: "Jubilife Village (Beginning - Indoors)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV1)(817297439=1264931242)(3717473234=876204941)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_INDOOR).txtp"
+    type: break
+  - id: jubilife_village_beginning_outdoors
+    title: "Jubilife Village (Beginning - Outdoors)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV1)(817297439=1264931242)(3717473234=876204941)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_OUTDOOR).txtp"
+    type: break
+  - id: jubilife_village_developing_home
+    title: "Jubilife Village (Developing - Home)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV2)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_HOME).txtp"
+    type: break
+  - id: jubilife_village_developing_indoors
+    title: "Jubilife Village (Developing - Indoors)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV2)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_INDOOR).txtp"
+    type: break
+  - id: jubilife_village_developing_outdoors
+    title: "Jubilife Village (Developing - Outdoors)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV2)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_OUTDOOR).txtp"
+    type: break
+  - id: jubilife_village_complete_home
+    title: "Jubilife Village (Complete - Home)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV3)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_HOME).txtp"
+    type: break
+  - id: jubilife_village_complete_indoors
+    title: "Jubilife Village (Complete - Indoors)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV3)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_INDOOR).txtp"
+    type: break
+  - id: jubilife_village_complete_outdoors
+    title: "Jubilife Village (Complete - Outdoors)"
+    path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV3)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_OUTDOOR).txtp"
+    type: break
+  - id: battle_pokemon_wielder
+    title: "Battle! Vs. Pokémon Wielder"
+    path: "PLAY_BGM_VS_TRAINER_01 (BGM_BATTLE_TRAINER=BATTLE_TRAINER_ON).txtp"
+    type: battle
+  - id: battle_clan_warden
+    title: "Battle! Vs. Clan Warden"
+    path: "PLAY_BGM_VS_TRAINER_02 (BGM_BATTLE_TRAINER=BATTLE_TRAINER_ON).txtp"
+    type: battle
+  - id: battle_noble_pokemon_phase_1
+    title: "Battle! Vs. Noble Pokémon (Phase 1)"
+    path: "PLAY_BGM_VS_BOSS_CMN (BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_DEFENSELESS=NUSHI_DEFENSELESS_OFF) {s}=(BGM_VS_NUSHI_NO_SUKI=NUSHI_NO_SUKI_OFF).txtp"
+    type: battle
+  - id: battle_noble_pokemon_phase_2
+    title: "Battle! Vs. Noble Pokémon (Phase 2)"
+    path: "PLAY_BGM_VS_BOSS_CMN (BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_DEFENSELESS=NUSHI_DEFENSELESS_OFF) {s}=(BGM_VS_NUSHI_NO_SUKI=NUSHI_NO_SUKI_ON).txtp"
+    type: battle
+  - id: battle_noble_pokemon_phase_3
+    title: "Battle! Vs. Noble Pokémon (Phase 3)"
+    path: "PLAY_BGM_VS_BOSS_CMN (BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_DEFENSELESS=NUSHI_DEFENSELESS_ON).txtp"
+    type: battle
+  - id: galaxy_expedition_team_hq
+    title: "Galaxy Expedition Team HQ"
+    path: "BGM-1833-event (138161768=10613464).txtp"
+    type: betting
+  - id: obsidian_fieldlands_1
+    title: "Obsidian Fieldlands 1"
+    path: "PLAY_BGM_HA_FI_AREA01_DAY (BGM_AREA=BGM_AREA01)(BGM_AREA01_LV=AREA01_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
+    type: betting
+  - id: obsidian_fieldlands_2
+    title: "Obsidian Fieldlands 2"
+    path: "PLAY_BGM_HA_FI_AREA01_DAY (BGM_AREA=BGM_AREA01)(BGM_AREA01_LV=AREA01_LV1)(BGM_TIME=BGM_DAY) {r2}.txtp"
+    type: betting
+  - id: crimson_mirelands_1
+    title: "Crimson Mirelands 1"
+    path: "PLAY_BGM_HA_FI_AREA02_DAY (BGM_AREA=BGM_AREA02)(BGM_AREA02_LV=AREA02_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
+    type: betting
+  - id: crimson_mirelands_2
+    title: "Crimson Mirelands 2"
+    path: "PLAY_BGM_HA_FI_AREA02_DAY (BGM_AREA=BGM_AREA02)(BGM_AREA02_LV=AREA02_LV1)(BGM_TIME=BGM_DAY) {r2}.txtp"
+    type: betting
+  - id: cobalt_coastlands_1
+    title: "Cobalt Coastlands 1"
+    path: "PLAY_BGM_HA_FI_AREA03_DAY (BGM_AREA=BGM_AREA03)(BGM_AREA03_LV=AREA03_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
+    type: betting
+  - id: cobalt_coastlands_2
+    title: "Cobalt Coastlands 2"
+    path: "PLAY_BGM_HA_FI_AREA03_DAY (BGM_AREA=BGM_AREA03)(BGM_AREA03_LV=AREA03_LV1)(BGM_TIME=BGM_DAY) {r2}.txtp"
+    type: betting
+  - id: coronet_highlands_base
+    title: "Coronet Highlands - Base"
+    path: "PLAY_BGM_HA_FI_AREA04_DAY (BGM_AREA=BGM_AREA04)(BGM_AREA04_LV=AREA04_LV1)(BGM_TIME=BGM_DAY)(BGM_AREA_FIELD_SILENCE=FIELD_SILENCE_OFF).txtp"
+    type: betting
+  - id: alabaster_icelands_1
+    title: "Alabaster Icelands 1"
+    path: "PLAY_BGM_HA_FI_AREA05_DAY (BGM_AREA=BGM_AREA05)(BGM_AREA05_LV=AREA05_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
+    type: betting
+  - id: alabaster_icelands_2
+    title: "Alabaster Icelands 2"
+    path: "PLAY_BGM_HA_FI_AREA05_DAY (BGM_AREA=BGM_AREA05)(BGM_AREA05_LV=AREA05_LV1)(BGM_TIME=BGM_DAY) {r2}.txtp"
+    type: betting
+  - id: spotted_by_a_wild_pokemon
+    title: "Spotted by a Wild Pokémon"
+    path: "PLAY_BGM_HA_FI_CMN_CAUTION (BGM_VS_WILD=VS_WILD_OFF)(BGM_CAUTION_OYA_AREA=BGM_OYA_AREA_OUT)(BGM_CAUTION_OYA=CAUTION_OYA_CAP)(BGM_CAUTION_WILD=CAUTION_WILD_ON)(BGM_CAUTION_WILD_DMG=CAUTION_WILD_DMG).txtp"
+    type: warning
+  - id: spotted_by_an_alpha_pokemon
+    title: "Spotted by an Alpha Pokémon"
+    path: "PLAY_BGM_HA_FI_CMN_CAUTION (BGM_VS_WILD=VS_WILD_OFF)(BGM_CAUTION_OYA=CAUTION_OYA_ON) {s}.txtp"
+    type: warning
+  - id: staff_credits_pla
+    title: "Staff Credits"
+    path: "PLAY_BGM_HA_SYS_ENDING.txtp"
+    type: betting
+...

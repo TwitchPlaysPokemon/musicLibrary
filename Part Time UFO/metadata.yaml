@@ -9,4 +9,77 @@ songs:
     path: "tower_of_infinity_-_in-game_1.brstm"
     ends: 2:52
     type: betting
+  - id: menu_part_time_ufo
+    title: "Menu"
+    path: "BGM_UnivFuchu1K_LP.cks"
+    type: betting
+  - id: farm_part_time_ufo
+    title: "Farm"
+    path: "BGM_01_Farm_LP.cks"
+    type: betting
+  - id: circus_part_time_ufo
+    title: "Circus"
+    path: "BGM_02_Circus_LP.cks"
+    type: betting
+  - id: seashore_part_time_ufo
+    title: "Seashore"
+    path: "BGM_03_Seashore_LP.cks"
+    type: break
+  - id: museum_part_time_ufo
+    title: "Museum"
+    path: "BGM_04_Museum_LP.cks"
+    type: break
+  - id: school_part_time_ufo
+    title: "School"
+    path: "BGM_05_School_LP.cks"
+    type: betting
+  - id: building_part_time_ufo
+    title: "Building"
+    path: "BGM_06_Building_LP.cks"
+    type: betting
+  - id: restaurant_part_time_ufo
+    title: "Restaurant"
+    path: "BGM_07_Restaurant_LP.cks"
+    type: break
+  - id: laboratory_part_time_ufo
+    title: "Laboratory"
+    path: "BGM_08_Laboratory_LP.cks"
+    type: betting
+  - id: final_level_part_time_ufo
+    title: "Final Level"
+    path: "BGM_09_Charange_3_LP.cks"
+    type: warning
+  - id: moon_part_time_ufo
+    title: "Moon"
+    path: "BGM_09_Moon_LP.cks"
+    type: battle
+  - id: shop_part_time_ufo
+    title: "Shop"
+    path: "BGM_Shop_LP.cks"
+    type: betting
+  - id: stage_clear_part_time_ufo
+    title: "Stage Clear"
+    path: "BGM_WorkOut_LP.cks"
+    type: result
+#I'm guessing these are from the Switch ver?
+  - id: tower_of_infinity_50m
+    title: "Tower of Infinity 50m+"
+    path: "BGM_Endless3.brstm"
+    type: battle #could also be soft betting
+  - id: toy_store_part_time_ufo
+    title: "Toy Store"
+    path: "BGM_ToyStore.brstm"
+    type: betting
+  - id: treasure_island_beach
+    title: "Treasure Island - Beach"
+    path: "BGM_TreasureIsland_Beach__LP.brstm"
+    type: break
+  - id: treasure_island_ruins
+    title: "Treasure Island - Ruins"
+    path: "BGM_TreasureIsland_Ruins__LP.brstm"
+    type: betting
+  - id: treasure_island_boss
+    title: "Treasure Island - Boss"
+    path: "BGM_TreasureIsland_Boss.brstm"
+    type: battle
 ...

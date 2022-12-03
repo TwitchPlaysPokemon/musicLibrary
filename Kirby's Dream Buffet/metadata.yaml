@@ -1,0 +1,148 @@
+---
+id: kirby_s_dream_buffet
+title: "Kirby's Dream Buffet"
+platform: "Switch"
+year: 2022
+songs: 
+  - id: minigame_king_dedede_kirby_s_dream_course
+    title: "Minigame - King Dedede (Kirby's Dream Course)"
+    path: "Brkf_Bonus_DreamCourse_Dedede.dspadpcm.bfstm"
+    type: warning
+  - id: minigame_drawcia_soul_kirby_canvas_curse
+    title: "Minigame - Drawcia Soul (Kirby: Canvas Curse)"
+    path: "Brkf_Bonus_KirbyCanvasCurse_DrawciaSoul.dspadpcm.bfstm"
+    type: warning
+  - id: minigame_kirby_s_burst_a_balloon_kirby_n_tumble
+    title: "Minigame - Kirby's Burst-A-Balloon (Kirby 'n' Tumble)"
+    path: "Brkf_Bonus_KirbyTiltnTumble_Shooting.wav.dspadpcm.bfstm"
+    type: result
+  - id: battle_royale_green_greens
+    title: "Battle Royale - Green Greens"
+    path: "Brkf_Final_GreenGreens.dspadpcm.bfstm"
+    type: betting
+  - id: battle_royale_ultra_super_boss_battle_kirby_s_return_to_dream_land
+    title: "Battle Royale - Ultra Super Boss Battle (Kirby's Return to Dream Land)"
+    path: "Brkf_Final_KirbysReturnToDreamLand_UltraSuperBossBattle.dspadpcm.bfstm"
+    type: battle
+  - id: battle_royale_vs_chef_kawasaki_and_gryll_kirby_s_star_stacker
+    title: "Battle Royale - Vs. Chef Kawasaki and Gryll (Kirby's Star Stacker)"
+    path: "Brkf_Final_KirbysStarStacker_VsChefKawasakiAndGryll.dspadpcm.bfstm"
+    type: battle
+  - id: battle_royale_king_dedede_s_theme_kirby_mass_attack
+    title: "Battle Royale - King Dedede's Theme (Kirby Mass Attack)"
+    path: "Brkf_Final_KirbyTiltnTumble_Dedede.dspadpcm.bfstm" #...why isn't it tilt and tumble
+    type: battle
+  - id: battle_royale_king_dedede_s_theme_kirby_s_pinball_land
+    title: "Battle Royale - King Dedede (Kirby's Pinball Land)"
+    path: "Brkf_Final_PinballBoss.dspadpcm.bfstm"
+    type: warning
+  - id: battle_royale_city_trial_backside_kirby_air_ride
+    title: "Battle Royale - City Trial Backside (Kirby Air Ride)"
+    path: "Brkf_Final_KirbyAirRide_CityTrialCityBackside.dspadpcm.bfstm"
+    type: warning
+  - id: battle_royale_stage_5_kirby_s_block_ball
+    title: "Battle Royale - Stage 5 (Kirby's Block Ball)"
+    path: "Brkf_Final_KirbysBlockBall_Stage5.dspadpcm.bfstm"
+    type: betting
+  - id: battle_royale_boss_kirby_s_block_ball
+    title: "Battle Royale - Boss (Kirby's Block Ball)"
+    path: "Brkf_Final_KirbysBlockBall_Boss.dspadpcm.bfstm"
+    type: warning
+  - id: free_rolling_1
+    title: "Free Rolling 1"
+    path: "Brkf_Training1.dspadpcm.bfstm"
+    type: betting
+  - id: free_rolling_2
+    title: "Free Rolling 2"
+    path: "Brkf_Training2.dspadpcm.bfstm"
+    type: betting
+  - id: free_rolling_3
+    title: "Free Rolling 3"
+    path: "Brkf_Training3.dspadpcm.bfstm"
+    type: betting
+  - id: skin_collection
+    title: "Skin Collection"
+    path: "Brkf_Home_CollectionSkin.dspadpcm.bfstm"
+    type: break
+  - id: afternoon_tea
+    title: "Afternoon Tea"
+    path: "Brkf_Home_ThemeArrange1.dspadpcm.bfstm"
+    type: result
+  - id: kirby_s_dream_buffet
+    title: "Kirby's Dream Buffet"
+    path: "Brkf_Home_ThemeArrange2.dspadpcm.bfstm"
+    type: result
+  - id: multiplayer_lobby_kirby_dream_buffet
+    title: "Multiplayer Lobby"
+    path: "Brkf_Lobby_BubblyClouds.dspadpcm.bfstm"
+    type: betting
+  - id: route_8_on_a_winter_day
+    title: "Route 8 on a Winter Day"
+    path: "Brkf_Race_DreamCourseIcebergOcean.dspadpcm.bfstm"
+    type: betting
+  - id: love_live_alivel
+    title: "Love, Live, Alivel"
+    path: "Brkf_Race_K15Shopping.dspadpcm.bfstm"
+    type: betting
+  - id: seven_colors_in_the_sky
+    title: "Seven Colors in the Sky"
+    path: "Brkf_Race_KirbyAndTheRainbowCurse_RainbowAcrossTheSkies.dspadpcm.bfstm"
+    type: result
+  - id: a_dance_with_the_painting_witch
+    title: "A Dance with the Painting Witch"
+    path: "Brkf_Race_KirbyCanvasCurse_DrawciaSorceress.dspadpcm.bfstm"
+    type: betting
+  - id: revenge_of_steel_wings
+    title: "Revenge of Steel Wings"
+    path: "Brkf_Race_KirbySuperStar_TheHalberd.dspadpcm.bfstm"
+    type: battle
+  - id: flying_in_the_clouds
+    title: "Flying in the Clouds"
+    path: "Brkf_Race_KirbyTiltnTumble_Balloon.dspadpcm.bfstm"
+    type: result
+  - id: prismatic_pinball
+    title: "Prismatic Pinball"
+    path: "Brkf_Race_PinballLand_WhispyWoodsLand.dspadpcm.bfstm"
+    type: betting
+  - id: i_m_a_hungry_pink_puffball
+    title: "I'm A Hungry Pink Puffball!"
+    path: "Brkf_Race_Theme.dspadpcm.bfstm"
+    type: betting
+  - id: cute_colorful_candies
+    title: "Cute, Colorful Candies"
+    path: "Brkf_Race_Stage1.dspadpcm.bfstm"
+    type: betting
+  - id: polka_dotted_cityscape
+    title: "Polka-Dotted Cityscape"
+    path: "Brkf_Race_Stage2.dspadpcm.bfstm"
+    type: betting
+  - id: on_a_fun_drive_with_you
+    title: "On a Fun Drive with You"
+    path: "Brkf_Race_Stage3.dspadpcm.bfstm"
+    type: betting
+  - id: working_up_an_appetite
+    title: "Working Up an Appetite"
+    path: "Brkf_Race_Stage4.dspadpcm.bfstm"
+    type: betting
+  - id: tonight_s_bright_lights_show
+    title: "Tonight's Bright-Lights Show"
+    path: "Brkf_Race_Stage5.dspadpcm.bfstm"
+    type: betting
+  - id: caramel_country_western
+    title: "Caramel Country Western"
+    path: "Brkf_Race_Stage6.dspadpcm.bfstm"
+    type: betting
+  - id: rolling_quartet_jazz_band
+    title: "Rolling-Quartet Jazz Band"
+    path: "Brkf_Race_Stage7.dspadpcm.bfstm"
+    type: betting
+  - id: results_kirby_s_dream_buffet
+    title: "Results"
+    path: "Brkf_Result1.dspadpcm.bfstm"
+    type: battle
+  - id: kirby_30th_music_fest_hal_laboratory_dream_band_song
+    title: "Kirby 30th Music Fest: HAL Laboratory Dream Band Song"
+    path: "KirbyMemorialMedley_54.dspadpcm.bfstm"
+    ends: 3:04
+    type: betting
+...
