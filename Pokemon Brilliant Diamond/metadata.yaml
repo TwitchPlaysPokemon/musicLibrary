@@ -57,10 +57,10 @@ songs:
     title: "Sandgem Town (Day)"
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=T02_DAY).txtp"
     type: betting
-  - id: the_pokemon_lab_bdsp
-    title: "The Pokémon Lab"
-    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV001).txtp"
-    type: betting
+#  - id: the_pokemon_lab_bdsp
+#    title: "The Pokémon Lab"
+#    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV001).txtp"
+#    type: betting #freezing this until I can find the right ver - the current one is for the hall of fame
   - id: hurry_along_bdsp
     title: "Hurry Along"
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV006).txtp"
@@ -213,7 +213,7 @@ songs:
     title: "Trainers' Eyes Meet (Hiker)"
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV205).txtp"
     type: warning
-  - id: solaceon_town_day
+  - id: solaceon_town_day_bdsp
     title: "Solaceon Town (Day)"
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=C06_DAY).txtp"
     type: betting
@@ -601,7 +601,7 @@ songs:
     type: result
   - id: hall_of_fame_bdsp
     title: "Hall of Fame"
-    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV002).txtp"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV001).txtp"
     type: result
   - id: congratulations_on_entering_the_hall_of_fame_bdsp
     title: "Congratulations on Entering the Hall of Fame!"

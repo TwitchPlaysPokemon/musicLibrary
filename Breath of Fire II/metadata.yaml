@@ -4,8 +4,8 @@ title: "Breath of Fire II"
 series: breathoffire
 platform: "SNES"
 year: 1994
-songs: 
-  - id: my_home_sweet_home
+songs:
+  - id: my_home_sweet_home_bofii
     title: "My Home Sweet Home"
     path: "104 My Home Sweet Home.spc"
     type: break
@@ -61,7 +61,7 @@ songs:
     title: "The Closing of the Dragon's Eye at the End of the Tale"
     path: "222 The Closing of the Dragon's Eye at the End of the Tale.spc"
     type: break
-  - id: breath_of_fire 
+  - id: breath_of_fire
     title: "Breath of Fire"
     path: "224 Breath of Fire.spc"
     type: result

@@ -4,8 +4,8 @@ title: "Mario Kart 8 Deluxe"
 series: mario
 platform: "Switch"
 year: 2017
-#also redid the MK8D files with new rips, as these separate all the sounds 
-songs: 
+#also redid the MK8D files with new rips, as these separate all the sounds
+songs:
   - id: 3ds_wuhu_town
     title: "3DS Wuhu Town"
     path: "pBGM_B3DS_WUHUTOWN_N.bfstm"
@@ -78,51 +78,51 @@ songs:
   - id: tour_paris_promenade
     title: "Tour Paris Promenade"
     path: "pBGM_Cnsw_11_N_MAIN.txtp"
-    type: betting 
+    type: betting
   - id: 3ds_toad_circuit
     title: "3DS Toad Circuit"
     path: "pBGM_Cnsw_12_N_MAIN.txtp"
-    type: betting   
+    type: betting
   - id: n64_choco_mountain
     title: "N64 Choco Mountain"
     path: "pBGM_Cnsw_13_N_MAIN.txtp"
-    type: betting   
+    type: betting
   - id: wii_coconut_mall
     title: "Wii Coconut Mall"
     path: "pBGM_Cnsw_14_N_MAIN.txtp"
-    type: betting   
+    type: betting
   - id: tour_tokyo_blur
     title: "Tour Tokyo Blur"
     path: "pBGM_Cnsw_15_N_MAIN.txtp"
-    type: betting   
+    type: betting
   - id: ds_shroom_ridge
     title: "DS Shroom Ridge"
     path: "pBGM_Cnsw_16_N_MAIN.txtp"
-    type: betting   
-  - id: gba_sky_garden
+    type: betting
+  - id: gba_sky_garden_mk8d
     title: "GBA Sky Garden"
     path: "pBGM_Cnsw_17_N_MAIN.txtp"
-    type: betting   
+    type: betting
   - id: tour_ninja_hideaway
     title: "Tour Ninja Hideaway"
     path: "pBGM_Cnsw_18_N_MAIN.txtp"
-    type: betting    
+    type: betting
   - id: tour_new_york_minute
     title: "Tour New York Minute"
     path: "pBGM_Cnsw_21_N_MAIN.txtp"
-    type: betting 
+    type: betting
   - id: tour_new_york_minute_final_lap
     title: "Tour New York Minute (Final Lap)"
     path: "pBGM_Cnsw_21_F_MAIN.txtp"
-    type: warning 
+    type: warning
   - id: snes_mario_circuit_3
     title: "SNES Mario Circuit 3"
     path: "pBGM_Cnsw_22_N_MAIN.txtp"
-    type: betting   
+    type: betting
   - id: snes_mario_circuit_3_final_lap
     title: "SNES Mario Circuit 3 (Final Lap)"
     path: "pBGM_Cnsw_22_F_MAIN.txtp"
-    type: warning  
+    type: warning
   - id: n64_kalimari_desert
     title: "N64 Kalimari Desert"
     path: "pBGM_Cnsw_23_N_MAIN.txtp"
@@ -130,11 +130,11 @@ songs:
   - id: n64_kalimari_desert_final_lap
     title: "N64 Kalimari Desert (Final Lap)"
     path: "pBGM_Cnsw_23_F_MAIN.txtp"
-    type: warning       
+    type: warning
   - id: tour_sydney_sprint
     title: "Tour Sydney Sprint"
     path: "pBGM_Cnsw_25_N_MAIN.txtp"
-    type: result   
+    type: result
   - id: tour_sydney_sprint_final_lap
     title: "Tour Sydney Sprint (Final Lap)"
     path: "pBGM_Cnsw_25_F_MAIN.txtp"
@@ -142,25 +142,25 @@ songs:
   - id: gba_snow_land
     title: "GBA Snow Land"
     path: "pBGM_Cnsw_26_N_MAIN.txtp"
-    type: betting  
+    type: betting
   - id: gba_snow_land_final_lap
     title: "GBA Snow Land (Final Lap)"
     path: "pBGM_Cnsw_26_F_MAIN.txtp"
-    type: warning     
+    type: warning
   - id: wii_mushroom_gorge
     title: "Wii Mushroom Gorge"
     path: "pBGM_Cnsw_27_N_MAIN.txtp"
-    type: betting   
+    type: betting
   - id: wii_mushroom_gorge_final_lap
     title: "Wii Mushroom Gorge (Final Lap)"
     path: "pBGM_Cnsw_27_F_MAIN.txtp"
-    type: warning 
+    type: warning
   - id: sky_high_sundae
     title: "Sky-High Sundae"
     path: "pBGM_Cnsw_28_N_MAIN.txtp"
-    type: betting  
+    type: betting
   - id: sky_high_sundae_final_lap
     title: "Sky-High Sundae (Final Lap)"
     path: "pBGM_Cnsw_28_F_MAIN.txtp"
-    type: warning    
+    type: warning
 ...
