@@ -3,7 +3,7 @@ id: kirby_s_dream_buffet
 title: "Kirby's Dream Buffet"
 platform: "Switch"
 year: 2022
-songs: 
+songs:
   - id: minigame_king_dedede_kirby_s_dream_course
     title: "Minigame - King Dedede (Kirby's Dream Course)"
     path: "Brkf_Bonus_DreamCourse_Dedede.dspadpcm.bfstm"
@@ -12,8 +12,8 @@ songs:
     title: "Minigame - Drawcia Soul (Kirby: Canvas Curse)"
     path: "Brkf_Bonus_KirbyCanvasCurse_DrawciaSoul.dspadpcm.bfstm"
     type: warning
-  - id: minigame_kirby_s_burst_a_balloon_kirby_n_tumble
-    title: "Minigame - Kirby's Burst-A-Balloon (Kirby 'n' Tumble)"
+  - id: minigame_kirby_s_burst_a_balloon_kirby_tilt_n_tumble
+    title: "Minigame - Kirby's Burst-A-Balloon (Kirby Tilt 'n' Tumble)"
     path: "Brkf_Bonus_KirbyTiltnTumble_Shooting.wav.dspadpcm.bfstm"
     type: result
   - id: battle_royale_green_greens
@@ -139,7 +139,7 @@ songs:
   - id: results_kirby_s_dream_buffet
     title: "Results"
     path: "Brkf_Result1.dspadpcm.bfstm"
-    type: battle
+    type: result
   - id: kirby_30th_music_fest_hal_laboratory_dream_band_song
     title: "Kirby 30th Music Fest: HAL Laboratory Dream Band Song"
     path: "KirbyMemorialMedley_54.dspadpcm.bfstm"
