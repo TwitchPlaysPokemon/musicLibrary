@@ -5,40 +5,40 @@ series: touhou
 platform: ["PC", "XB1", "Switch"]
 year: 2018
 songs:
-  - id: lunar_clock_lunar_dial
+  - id: lunar_clock_lunar_dial_touhou_luna_nights
     title: "Lunar Clock ~ Lunar Dial"
-    path: "bgm00.ogg"
+    path: "bgm00.logg"
     type: betting
-  - id: the_maid_and_the_pocket_watch_of_blood
+  - id: the_maid_and_the_pocket_watch_of_blood_touhou_luna_nights
     title: "The Maid and the Pocket Watch of Blood"
-    path: "bgm01.ogg"
+    path: "bgm01.logg"
     type: betting
-  - id: voile_magic_library
+  - id: voile_magic_library_touhou_luna_nights
     title: "Voile, Magic Library"
-    path: "bgm02.ogg"
+    path: "bgm02.logg"
     type: betting
-  - id: the_young_descendant_of_tepes
+  - id: the_young_descendant_of_tepes_touhou_luna_nights
     title: "The Young Descendant of Tepes"
-    path: "bgm03.ogg"
+    path: "bgm03.logg"
     type: betting
-  - id: flowering_night_2huln
+  - id: flowering_night_touhou_luna_nights
     title: "Flowering Night"
-    path: "bgm04.ogg"
+    path: "bgm04.logg"
     type: betting
-  - id: scarlet_beyond_a_crimson_dream
+  - id: scarlet_beyond_a_crimson_dream_touhou_luna_nights
     title: "Scarlet Beyond a Crimson Dream"
-    path: "bgm05.ogg"
+    path: "bgm05.logg"
     type: betting
-  - id: septette_for_a_dead_princess
+  - id: septette_for_a_dead_princess_touhou_luna_nights
     title: "Septette for a Dead Princess"
-    path: "boss03.brstm"
+    path: "boss03.logg"
     type: battle
-  - id: akutagawa_ryunosuke_s_kappa_candid_friend
+  - id: akutagawa_ryunosuke_s_kappa_candid_friend_touhou_luna_nights
     title: "Akutagawa Ryunosuke's ''Kappa'' ~ Candid ​Friend"
-    path: "boss04.brstm"
+    path: "boss04.logg"
     type: battle
-  - id: crimson_beyond_a_fleeting_eternity
+  - id: crimson_beyond_a_fleeting_eternity_touhou_luna_nights
     title: "Crimson Beyond a Fleeting Eternity"
-    path: "end.ogg"
+    path: "end.logg"
     type: result
 ...

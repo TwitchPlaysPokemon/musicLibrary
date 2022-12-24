@@ -1,7 +1,8 @@
 ---
 id: yakuza_kiwami
 title: "Yakuza Kiwami"
-platform: ["PS3", "PS4", "PC"]
+series: yakuza
+platform: ["PS3", "PS4", "XBO", "PC"]
 year: 2016
 songs: 
   - id: breath_of_the_dragon_roar_of_the_dragon
@@ -28,8 +29,8 @@ songs:
     title: "Receive You the madtype"
     path: "13 - Receive You the madtype.brstm"
     type: battle
-  - id: for_who_s_sake
-    title: "誰がために・改 (For Who's Sake)"
+  - id: for_whose_sake_revised
+    title: "For Whose Sake・Revised"
     path: "17 - 誰がために・改.brstm"
     type: betting
   - id: credit_of_kiwami
