@@ -1,0 +1,242 @@
+---
+id: kirby_and_the_forgotten_land
+title: "Kirby and the Forgotten Land"
+series: kirby
+year: 2022
+platform: "Switch"
+songs:
+  - id: ready_to_go_kirby_forgotten_land
+    title: "Ready to Go!"
+    path: "K15_TitleNewWorld1.marker.txtp"
+    type: result
+  - id: running_through_the_new_world
+    title: "Running Through the New World"
+    path: "K15_Grassland1.marker.txtp"
+    type: betting
+  - id: invasion_of_the_destroyed_town
+    title: "Invasion of the Destroyed Town"
+    path: "K15_DemoAttackTown1.marker.lopus"
+    type: warning
+  - id: plundering_beast_battle
+    title: "Plundering Beast Battle"
+    path: "K15_RoomGuarder_Stest.marker.txtp"
+    type: battle
+  - id: natural_plains
+    title: "Natural Plains"
+    path: "K15_WorldMapLandA_A.txtp"
+    type: break
+  - id: through_the_tunnel
+    title: "Through the Tunnel"
+    path: "K15_Cave1.marker.txtp"
+    type: betting
+  - id: wild_results
+    title: "Wild Results"
+    path: "K15_StageResult.marker.txtp"
+    type: result
+  - id: a_trip_to_alivel_mall
+    title: "A Trip to Alivel Mall"
+    path: "K15_Shopping1.marker.txtp"
+    type: betting
+  - id: vs_dangerous_beast
+    title: "VS. Dangerous Beast"
+    path: "K15_Boss1.marker.txtp"
+    type: battle
+  - id: beginner_treasures
+    title: "Beginner Treasures"
+    path: "K15_CstageGrassland.marker.txtp"
+    type: betting
+  - id: abandoned_beach
+    title: "Abandoned Beach"
+    path: "K15_Beach1.txtp"
+    type: betting
+  - id: blue_blue_breeze
+    title: "Blue, Blue Breeze"
+    path: "K15_Glider1.marker.txtp"
+    type: betting
+  - id: fast_flowing_waterworks
+    title: "Fast-Flowing Waterworks"
+    path: "K15_Cave2.marker.txtp"
+    type: betting
+  - id: welcome_to_wondaria
+    title: "Welcome to Wondaria"
+    path: "K15_Park1.txtp"
+    type: betting
+  - id: circuit_speedway_kirby_forgotten_land
+    title: "Circuit Speedway"
+    path: "K15_Park4.marker.txtp"
+    type: betting
+  - id: invasion_at_the_house_of_horrors
+    title: "Invasion at the House of Horrors"
+    path: "K15_Park3.txtp"
+    type: betting
+  - id: the_wondaria_dream_parade
+    title: "The Wondaria Dream Parade"
+    path: "K15_Park2.marker.txtp"
+    type: betting
+  - id: pitch_black_horror
+    title: "Pitch-Black Horror"
+    path: "K15_Park5.marker.txtp"
+    type: betting
+  - id: waddle_dee_town
+    title: "Waddle Dee Town"
+    path: "K15_TownNewWorld1.marker.txtp"
+    type: break
+  - id: please_don_t_inhale_the_cinema_patrons
+    title: "Please Don't Inhale the Cinema Patrons"
+    path: "K15_MovieTheater1.txtp"
+    type: result
+  - id: tilt_and_roll_kirby
+    title: "Tilt-and-Roll Kirby"
+    path: "K15_RollingBall1.txtp"
+    type: warning
+  - id: lunch_rush_a_wave_of_waddles
+    title: "Lunch Rush! A Wave of Waddles"
+    path: "K15_FoodShopLunchTime.marker.txtp"
+    type: warning
+  - id: sword_of_the_surviving_guardian
+    title: "Sword of the Surviving Guardian"
+    path: "K15_BossMetaknight1.marker.txtp"
+    type: battle
+  - id: welcome_back_kirby
+    title: "Welcome Back, Kirby"
+    path: "K15_KirbyHouse.marker.txtp"
+    type: betting
+  - id: northeast_frost_street
+    title: "Northeast Frost Street"
+    path: "K15_Snow2.marker.txtp"
+    type: betting
+  - id: metro_on_ice
+    title: "Metro on Ice"
+    path: "K15_Snow1.marker.txtp"
+    type: betting
+  - id: the_battle_of_blizzard_bridge
+    title: "The Battle of Blizzard Bridge"
+    path: "K15_Bridge1_Stest.marker.txtp"
+    type: betting
+  - id: dazzling_treasures
+    title: "Dazzling Treasures"
+    path: "K15_CstageYakiimo.marker.txtp"
+    type: betting
+  - id: roar_of_dedede
+    title: "Roar of Dedede"
+    path: "K15_BossDedede1.marker.txtp"
+    type: battle
+  - id: originull_wasteland
+    title: "Originull Wasteland"
+    path: "K15_WorldMapLandB_A.txtp"
+    type: betting
+  - id: the_wastes_where_life_began
+    title: "The Wastes Where Life Began"
+    path: "K15_Desert1.marker.txtp"
+    type: betting
+  - id: moonlight_canyon
+    title: "Moonlight Canyon"
+    path: "K15_Canyon1.marker.txtp"
+    type: betting
+  - id: forgo_s_treasures
+    title: "Forgo's Treasures"
+    path: "K15_CstageNewWorld.marker.txtp"
+    type: betting
+  - id: enter_the_fiery_forbidden_lands
+    title: "Enter the Fiery Forbidden Lands"
+    path: "K15_VolcanoGrassland.marker.txtp"
+    type: betting
+  - id: burning_churning_power_plant
+    title: "Burning, Churning Power Plant"
+    path: "K15_PowerPlant1.marker.txtp"
+    type: betting
+  - id: the_beast_pack_s_final_stand
+    title: "The Beast Pack's Final Stand"
+    path: "K15_VolcanoNewWorld.marker.txtp"
+    type: battle
+  - id: masked_and_wild_d_d_d
+    title: "Masked and Wild: D.D.D."
+    path: "K15_BossMaskedDedede1.marker.txtp"
+    type: battle
+  - id: the_king_s_turn_to_shine
+    title: "The King's Turn to Shine"
+    path: "K15_BossMaskedDededeAfter1.marker.dspadpcm.bfstm"
+    type: warning
+  - id: the_dream_discoveries_tour
+    title: "The Dream Discoveries Tour"
+    path: "K15_LaboElevatorDemo1_Stest.marker.lopus"
+    ends: 2:01
+    type: betting
+  - id: the_one_who_controls_the_world
+    title: "The One Who Controls the World"
+    path: "K15_BossLionPreBattleDemo1.marker.txtp"
+    type: betting
+  - id: the_raging_lion_roars
+    title: "The Raging Lion Roars"
+    path: "K15_BossLion1_Stest.marker.txtp"
+    type: battle
+  - id: elfilin
+    title: "Elfilin"
+    path: "K15_PreClearDanceLv7.marker.txtp"
+    type: result
+  - id: hunted_by_the_beast
+    title: "Hunted by the Beast"
+    path: "K15_BossChimera1.marker.txtp"
+    type: warning
+  - id: two_planets_approach_the_roche_limit
+    title: "Two Planets Approach the Roche Limit"
+    path: "K15_BossChimeraPerfect_Stest.marker.txtp"
+    type: battle
+  - id: a_full_speed_farewell_from_the_new_world
+    title: "A Full-Speed Farewell from the New World"
+    path: "K15_Tsubazeriai1.marker.dspadpcm.bfstm"
+    type: battle
+  - id: welcome_to_the_new_world_kirby_forgotten_land
+    title: "Welcome to the New World!"
+    path: "K15_Credit1.marker.lopus"
+    ends: 3:38
+    type: betting
+  - id: secret_area_hal_room
+    title: "Secret Area: HAL Room"
+    path: "K15_HalRoom1.marker.txtp"
+    type: betting
+  - id: the_ultimate_fight_kirby_forgotten_land
+    title: "The Ultimate Fight"
+    path: "K15_ArenaFight1_Stest.marker.txtp"
+    type: battle
+  - id: isolated_isles_forgo_dreams
+    title: "Isolated Isles: Forgo Dreams"
+    path: "K15_WorldMapEstory.marker.dspadpcm.bfstm"
+    type: warning
+  - id: faded_dream_of_a_psychomeddler
+    title: "Faded Dream of a Psychomeddler"
+    path: "K15_EstoryShopping1.marker.txtp"
+    type: betting
+  - id: vs_psychic_power_given_form
+    title: "VS. Psychic Power Given Form"
+    path: "K15_BossEx1.marker.txtp"
+    type: battle
+  - id: scattered_souls_across_isolated_isles
+    title: "Scattered Souls across Isolated Isles"
+    path: "K15_EstoryConga1.marker.txtp"
+    type: betting
+  - id: eternal_echo_of_the_thrilling_tour_our_our
+    title: "Eternal Echo of the Thrilling Tour-our-our"
+    path: "K15_EstoryPreLion.marker.txtp"
+    type: warning
+  - id: morpho_knight_kirby_forgotten_land
+    title: "Morpho Knight"
+    path: "K15_MorphoKnight1.marker.txtp"
+    type: battle
+  - id: decisive_battle_ultimate_z
+    title: "Decisive Battle: Ultimate Z"
+    path: "K15_ArenaFight2_Stest.marker.txtp"
+    type: battle
+  - id: hero_interview
+    title: "Hero Interview"
+    path: "K15_ArenaResultTrueArena1.marker.txtp"
+    type: result
+  - id: got_em_all_gotcha_machine_master
+    title: "Got 'Em All! Gotcha Machine Master"
+    path: "K15_FigureCollectionComplete1.marker.txtp"
+    type: result
+  - id: from_those_who_departed_for_space
+    title: "From Those who Departed for Space"
+    path: "K15_SimpleCredit1.marker.txtp"
+    type: break
+...

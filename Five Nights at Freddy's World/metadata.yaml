@@ -9,4 +9,40 @@ songs:
     title: "Battle Theme"
     path: "Battle Theme.brstm"
     type: betting
+  - id: blaster_cluster
+    title: "Blaster Cluster"
+    path: "Blaster Cluster.brstm"
+    type: betting
+  - id: boiling_boss
+    title: "Boiling Boss"
+    path: "Boiling Boss.brstm"
+    type: battle
+  - id: boiling_point_five_nights_at_freddys_world
+    title: "Boiling Point"
+    path: "Boiling Point.brstm"
+    type: betting
+  - id: city_theme_five_nights_at_freddys_world
+    title: "City Theme"
+    path: "City Theme.brstm"
+    type: betting
+  - id: darkness_ahead_five_nights_at_freddys_world
+    title: "Darkness Ahead"
+    path: "Darkness Ahead.brstm"
+    type: betting
+  - id: fearless_fighter
+    title: "Fearless Fighter"
+    path: "Fearless Fighter.brstm"
+    type: betting
+  - id: melting_titanium
+    title: "Melting Titanium"
+    path: "Melting Titanium.brstm"
+    type: warning
+  - id: stone_cold_five_nights_at_freddys_world
+    title: "Stone Cold"
+    path: "Stone Cold.brstm"
+    type: battle
+  - id: travel_2
+    title: "Travel 2"
+    path: "Travel 2.brstm"
+    type: break
 ...

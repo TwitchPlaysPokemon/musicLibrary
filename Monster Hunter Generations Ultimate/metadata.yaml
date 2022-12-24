@@ -41,4 +41,116 @@ songs:
     title: "Palico Square Theme"
     path: "bgm_v05.mca"
     type: break
+  - id: hope_for_the_future_quest_clear
+    title: "Hope for the Future - Quest Clear"
+    path: "bgm_clear.mca"
+    type: result
+  - id: morning_sun_which_shines_on_the_living
+    title: "Morning Sun Which Shines on The Living"
+    path: "bgm_clear_amatsu.mca"
+    type: result
+  - id: happy_moments_download_menu_generations_x
+    title: "Happy Moments - Download Menu (Generations/X)"
+    path: "bgm_download Generations (Cross) Version.mca"
+    type: break
+  - id: another_fun_moment_download_menu
+    title: "Another Fun Moment - Download Menu"
+    path: "bgm_download.mca"
+    type: result
+  - id: vaulting_outlaw_great_maccao
+    title: "Vaulting Outlaw - Great Maccao"
+    path: "bgm_em_mid01.mca"
+    type: betting
+  - id: the_flame_of_resolve
+    title: "The Flame of Resolve"
+    path: "bgm_em_Named.mca"
+    type: warning
+  - id: furious_rampage_bloodbath_diablos_phase_1
+    title: "Furious Rampage - Bloodbath Diablos (Phase 1)"
+    path: "bgm_em_named_Dia1.mca"
+    type: warning
+  - id: the_massacre_tyrant_bloodbath_diablos_phase_2
+    title: "The Massacre Tyrant - Bloodbath Diablos (Phase 2)"
+    path: "bgm_em_named_Dia2.mca"
+    type: battle
+  - id: big_juicy_cat_tactics
+    title: "Big Juicy Cat Tactics!"
+    path: "bgm_em_Neko.mca"
+    type: betting
+  - id: writhing_castle_ruins_ahtal_ka_phases_2_4
+    title: "Writhing Castle Ruins - Ahtal Ka (Phases 2/4)"
+    path: "bgm_em_087_Lastboss2.mca"
+    type: battle
+  - id: queen_haunting_the_castle_ruins_ahtal_ka_phases_1_3
+    title: "Queen Haunting the Castle Ruins - Ahtal Ka (Phases 1/3)"
+    path: "bgm_em_087_Lastboss3.mca"
+    type: battle
+  - id: proof_of_a_hero_ahtal_ka_final_phase
+    title: "Proof of a Hero - Ahtal Ka (Final Phase)"
+    path: "bgm_em_087_Lastboss4_2.mca"
+    type: battle
+  - id: holy_ridge_in_the_sky_ruined_pinnacle
+    title: "Holy Ridge in the Sky - Ruined Pinnacle"
+    path: "bgm_map24_bt.mca"
+    type: betting
+  - id: staff_roll_generations_x_version
+    title: "Staff Roll - Generations/X Version"
+    path: "bgm_staffroll.mca"
+    type: betting
+  - id: staff_roll_generations_ultimate_xx_version
+    title: "Staff Roll Generations Ultimate/XX Version"
+    path: "bgm_staffroll2.mca"
+    type: break
+  - id: proof_of_a_hero_title_screen_generations_x_version
+    title: "Proof of a Hero - Title Screen (Generations/X Version)"
+    path: "bgm_title Generations (Cross) Version.mca"
+    type: result
+  - id: the_road_to_becoming_a_champion_arena_preparation
+    title: "The Road to Becoming a Champion - Arena Preparation"
+    path: "bgm_Tougitaikai.mca"
+    type: warning
+  - id: awakening_kokoto_village_generations_x_version
+    title: "Awakening - Kokoto Village (Generations/X) Version)"
+    path: "bgm_v02.mca"
+    type: break
+  - id: theme_of_pokke_village_generations_x_version
+    title: "Theme of Pokke Village (Generations/X) Version"
+    path: "bgm_v03.mca"
+    type: break
+  - id: searching_for_the_secret_hotspring_generations_x_version
+    title: "Searching for the Secret Hotspring (Generations/X Version)"
+    path: "bgm_v04.mca"
+    type: break
+  - id: deploying_the_hunter_soaratorium
+    title: "Deploying the Hunter - Soaratorium"
+    path: "bgm_v06.mca"
+    type: betting
+  - id: courage_to_challenge_the_future_soaratorium
+    title: "Courage to Challenge the Future - Soaratorium"
+    path: "bgm_v06_2.mca"
+    type: break
+  - id: kokoto_hub_hunter_s_pub_05
+    title: "Kokoto Hub - Hunter's Pub 05"
+    path: "bgm_v7_05.mca"
+    type: break
+  - id: trabelna_hunter_s_pub_09
+    title: "TraBelna - Hunter's Pub 09"
+    path: "bgm_v07_09.mca"
+    type: betting
+  - id: nyante_happy_lucky_day_hunter_s_pub_11
+    title: "Nyante Happy, Lucky Day! - Hunter's Pub 11"
+    path: "bgm_v07_11.mca"
+    type: betting
+  - id: kawaii_airou_hunter_s_pub_12
+    title: "Kawaii Airou - Hunter's Pub 12"
+    path: "bgm_v07_12.mca"
+    type: betting
+  - id: proof_of_a_hero_mill_and_caty_hunter_s_pub_13
+    title: "Proof of a Hero ~ Mill&Caty - Hunter's Pub 13"
+    path: "bgm_v07_13.mca"
+    type: betting
+  - id: silver_winged_scarlet_star_valstrax_special_arrangement
+    title: "Silver Winged Scarlet Star - Valstrax (Special Arrangement)"
+    path: "Silver Winged Scarlett Star - Valstrax (Special Arrangement).brstm"
+    type: battle
 ...

@@ -1,0 +1,67 @@
+---
+id: magic_knight_rayearth_sfc
+title: "Magic Knight Rayearth [SFC]"
+platform: "SFC"
+year: 1995
+songs:
+  - id: legend_of_the_magic_knights
+    title: "Legend of the Magic Knights"
+    path: "01 Legend of the Magic Knights.spc"
+    type: betting
+  - id: world_map_rayearth
+    title: "World Map"
+    path: "05 World Map.spc"
+    type: betting
+  - id: fight_rayearth
+    title: "Fight!"
+    path: "06 Fight!.spc"
+    type: battle
+  - id: victory_rayearth
+    title: "Victory"
+    path: "07 Victory.spc"
+    type: result
+  - id: zagato
+    title: "Zagato"
+    path: "08 Zagato.spc"
+    type: warning
+  - id: danger_rayearth
+    title: "Danger!"
+    path: "13 Danger!.spc"
+    type: warning
+  - id: boss_fight_rayearth
+    title: "Boss Fight"
+    path: "14 Boss Fight.spc"
+    type: battle
+  - id: hooray_rayearth
+    title: "Hooray!"
+    path: "16 Hooray!.spc"
+    type: result
+  - id: what_rayearth
+    title: "What?!"
+    path: "18 What_!.spc"
+    type: warning
+  - id: seashore_rayearth
+    title: "Seashore"
+    path: "22 Seashore.spc"
+    type: betting
+  - id: fiend_battle
+    title: "Fiend Battle"
+    path: "29 Fiend Battle.spc"
+    type: battle
+  - id: mashin_battle
+    title: "Mashin Battle"
+    path: "34 Mashin Battle.spc"
+    type: battle
+  - id: final_battle_rayearth
+    title: "Final Battle"
+    path: "36 Final Battle.spc"
+    type: battle
+  - id: happy_end_rayearth
+    title: "Happy End"
+    path: "37 Happy End.spc"
+    type: result
+  - id: credits_rayearth
+    title: "Credits"
+    path: "38 Credits.spc"
+    type: result
+...

@@ -1,0 +1,226 @@
+---
+id: final_fantasy_vi_pixel_remaster
+title: "Final Fantasy VI Pixel Remaster"
+series: finalfantasy
+platform: ["PC", "Mobile"]
+year: 2022
+songs:
+  - id: awakening_ff6p
+    title: "Awakening"
+    path: "SWAV_BGM_FF6_03.win.mab"
+    type: break
+  - id: locke_ff6p
+    title: "Locke"
+    path: "SWAV_BGM_FF6_04.win.mab"
+    type: result
+  - id: battle_theme_ff6p
+    title: "Battle Theme"
+    path: "SWAV_BGM_FF6_05.win.mab"
+    type: battle
+  - id: fanfare_ff6p
+    title: "Fanfare"
+    path: "SWAV_BGM_FF6_06.win.mab"
+    type: result
+  - id: edgar_and_sabin_ff6p
+    title: "Edgar & Sabin"
+    path: "SWAV_BGM_FF6_07.win.mab"
+    type: betting
+  - id: kefka_ff6p
+    title: "Kefka"
+    path: "SWAV_BGM_FF6_08.win.mab"
+    type: warning
+  - id: mt_koltz_ff6p
+    title: "Mt. Koltz"
+    path: "SWAV_BGM_FF6_09.win.mab"
+    type: betting
+  - id: shadow_ff6p
+    title: "Shadow"
+    path: "SWAV_BGM_FF6_11.win.mab"
+    type: break
+  - id: troops_march_on_ff6p
+    title: "Troops March On"
+    path: "SWAV_BGM_FF6_12.win.mab"
+    type: warning
+  - id: cyan_ff6p
+    title: "Cyan"
+    path: "SWAV_BGM_FF6_13.win.mab"
+    type: betting
+  - id: the_unforgiven_ff6p
+    title: "The Unforgiven"
+    path: "SWAV_BGM_FF6_14.win.mab"
+    type: warning
+  - id: the_phantom_forest_ff6p
+    title: "The Phantom Forest"
+    path: "SWAV_BGM_FF6_15.win.mab"
+    type: betting
+  - id: the_phantom_train_ff6p
+    title: "The Phantom Train"
+    path: "SWAV_BGM_FF6_16.win.mab"
+    type: betting
+  - id: wild_west_ff6p
+    title: "Wild West"
+    path: "SWAV_BGM_FF6_17.win.mab"
+    type: betting
+  - id: gau_ff6p
+    title: "Gau"
+    path: "SWAV_BGM_FF6_18.win.mab"
+    type: break
+  - id: the_serpent_trench_ff6p
+    title: "The Serpent Trench"
+    path: "SWAV_BGM_FF6_19.win.mab"
+    type: warning
+  - id: kids_run_through_the_city_ff6p
+    title: "Kids Run Through the City"
+    path: "SWAV_BGM_FF6_20.win.mab"
+    type: break
+  - id: celes_ff6p
+    title: "Celes"
+    path: "SWAV_BGM_FF6_22.win.mab"
+    type: break
+  - id: save_them_ff6p
+    title: "Save Them!"
+    path: "SWAV_BGM_FF6_23.win.mab"
+    type: warning
+  - id: decisive_battle_ff6p
+    title: "The Decisive Battle"
+    path: "SWAV_BGM_FF6_24.win.mab"
+    type: battle
+  - id: metamorphasis_ff6p
+    title: "Metamorphasis"
+    path: "SWAV_BGM_FF6_25.win.mab"
+    type: warning
+  - id: terra_ff6p
+    title: "Terra"
+    path: "SWAV_BGM_FF6_26.win.mab"
+    type: betting
+  - id: coin_song_ff6p
+    title: "Coin Song"
+    path: "SWAV_BGM_FF6_27.win.mab"
+    type: break
+  - id: techno_de_chocobo_ff6p
+    title: "Techno de Chocobo"
+    path: "SWAV_BGM_FF6_28.win.mab"
+    type: betting
+  - id: forever_rachel_ff6p
+    title: "Forever Rachel!"
+    path: "SWAV_BGM_FF6_29.win.mab"
+    type: break
+  - id: slam_shuffle_ff6p
+    title: "Slam Shuffle"
+    path: "SWAV_BGM_FF6_30.win.mab"
+    type: betting
+  - id: spinach_rag_ff6p
+    title: "Spinach Rag"
+    path: "SWAV_BGM_FF6_31.win.mab"
+    type: result
+  - id: aria_de_mexxo_carattere_ff6p
+    title: "Aria de Mezzo Carattere"
+    path: "SWAV_BGM_FF6_33.win.mab"
+    type: break #?
+  - id: the_wedding_waltz_duel_part_1_ff6p
+    title: "The Wedding Waltz-Duel (Part 1)"
+    path: "SWAV_BGM_FF6_34a.win.mab"
+    type: betting
+  - id: grand_finale_ff6p
+    title: "Grand Finale"
+    path: "SWAV_BGM_FF6_35.win.mab"
+    type: warning
+  - id: setzer_ff6p
+    title: "Setzer"
+    path: "SWAV_BGM_FF6_36.win.mab"
+    type: result
+  - id: johnny_c_bad_ff6p
+    title: "Johnny C Bad"
+    path: "SWAV_BGM_FF6_37.win.mab"
+    type: result
+  - id: magitek_research_facility_ff6p
+    title: "Devil's Lab"
+    path: "SWAV_BGM_FF6_39.win.mab"
+    type: betting
+  - id: blackjack_ff6p
+    title: "Blackjack"
+    path: "SWAV_BGM_FF6_40.win.mab"
+    type: betting
+  - id: what_ff6p
+    title: "??"
+    path: "SWAV_BGM_FF6_41.win.mab"
+    type: warning
+  - id: mog_ff6p
+    title: "Mog"
+    path: "SWAV_BGM_FF6_42.win.mab"
+    type: warning
+  - id: strago_ff6p
+    title: "Strago"
+    path: "SWAV_BGM_FF6_43.win.mab"
+    type: warning
+  - id: relm_ff6p
+    title: "Relm"
+    path: "SWAV_BGM_FF6_44.win.mab"
+    type: break
+  - id: another_world_of_beasts_ff6p
+    title: "Another World of Beasts"
+    path: "SWAV_BGM_FF6_45.win.mab"
+    type: break
+  - id: new_continent_ff6p
+    title: "New Continent"
+    path: "SWAV_BGM_FF6_46.win.mab"
+    type: warning #?
+  - id: catastrophe_ff6p
+    title: "Catastrophe"
+    path: "SWAV_BGM_FF6_47.win.mab"
+    type: warning
+  - id: fierce_battle_ff6p
+    title: "The Fierce Battle"
+    path: "SWAV_BGM_FF6_48.win.mab"
+    type: battle
+  - id: searching_for_friends_ff6p
+    title: "Searching for Friends"
+    path: "SWAV_BGM_FF6_52.win.mab"
+    type: betting
+  - id: gogo_ff6p
+    title: "Gogo"
+    path: "SWAV_BGM_FF6_53.win.mab"
+    type: betting
+  - id: epitaph_ff6p
+    title: "Epitaph"
+    path: "SWAV_BGM_FF6_54.win.mab"
+    type: break
+  - id: umaro_ff6p
+    title: "Umaro"
+    path: "SWAV_BGM_FF6_56.win.mab"
+    type: warning
+  - id: last_dungeon_ff6p
+    title: "Last Dungeon"
+    path: "SWAV_BGM_FF6_58.win.mab"
+    type: warning
+  - id: dancing_mad_part_1_ff6p
+    title: "Dancing Mad (Part 1)"
+    path: "SWAV_BGM_FF6_59a.win.mab"
+    type: warning
+  - id: dancing_mad_part_2_ff6p
+    title: "Dancing Mad (Part 2)"
+    path: "SWAV_BGM_FF6_59b.win.mab"
+    type: warning
+  - id: dancing_mad_part_3_ff6p
+    title: "Dancing Mad (Part 3)"
+    path: "SWAV_BGM_FF6_59c.win.mab"
+    type: warning
+#only slightly shorter than 45s
+#  - id: dancing_mad_part_4_ff6p
+#    title: "Dancing Mad (Part 4)"
+#    path: "SWAV_BGM_FF6_59d.win.mab"
+#    type: warning
+  - id: dancing_mad_part_5_ff6p
+    title: "Dancing Mad (Part 5)"
+    path: "SWAV_BGM_FF6_59e.win.mab"
+    type: battle
+    #not sure if the full one should be added as well
+  - id: dancing_mad_full_ff6p
+    title: "Dancing Mad"
+    path: "SWAV_BGM_FF6_59.win.mab"
+    type: battle
+  - id: the_prelude_ff6p
+    title: "The Prelude"
+    path: "SWAV_BGM_FF6_61.win.mab"
+    type: break
+...

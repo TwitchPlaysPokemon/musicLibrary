@@ -5,17 +5,48 @@ series: megaman
 platform: "GBA"
 year: 2003
 songs:
+  - id: departure_intro_stage
+    title: "Departure (Intro Stage)"
+    path: "03 Departure (Intro Stage).minigsf"
+    type: betting
+  - id: crash_ii_midboss_battle
+    title: "Crash II (Midboss Battle)"
+    path: "04 Crash II (Midboss Battle).minigsf"
+    type: warning
   - id: ice_brain_south_pole
     title: "Ice Brain (South Pole)"
     path: "10 Ice Brain (South Pole).minigsf"
-    tags: [xmas]
     type: betting
-  - id: break_resultofmission_mmz2
+  - id: platinum_convoy_train
+    title: "Platinum (Convoy Train)"
+    path: "11 Platinum (Convoy Train).minigsf"
+    type: betting
+  - id: strong_will_boss_battle
+    title: "Strong Will (Boss Battle)"
+    path: "25 Strong Will (Boss Battle).minigsf"
+    type: battle
+  - id: result_of_mission_ii
     title: "Result of Mission II"
     path: "26 Result of Mission II.minigsf"
     type: result
-  - id: the_wish_punished
+  - id: cool_hearted_fellow_neo_arcadia_2
+    title: "Cool Hearted Fellow (Neo Arcadia 2)"
+    path: "28 Cool Hearted Fellow (Neo Arcadia 2).minigsf"
+    type: warning
+  - id: silver_wolf_yggdrasil_neo_arcadia_4
+    title: "Silver Wolf Yggdrasil (Neo Arcadia 4)"
+    path: "32 Silver Wolf Yggdrasil (Neo Arcadia 4).minigsf"
+    type: betting
+  - id: the_wish_punished_final_battle_ii
     title: "The Wish Punished (Final Battle 2)"
     path: "35 The Wish Punished (Final Battle 2).minigsf"
     type: warning
+  - id: in_mother_s_light_epilogue
+    title: "In Mother's Light (Epilogue)"
+    path: "36 In Mother's Light (Epilogue).minigsf"
+    type: break
+  - id: awakening_will
+    title: "Awakening Will"
+    path: "37 Awakening Will.minigsf"
+    type: betting
 ...

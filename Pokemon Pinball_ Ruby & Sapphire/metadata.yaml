@@ -3,23 +3,75 @@ title: "Pokémon Pinball: Ruby & Sapphire"
 series: pokemon
 platform: "GBA"
 year: 2003
-songs: 
+songs:
   - id: title_pokemon_pinball_ruby_and_sapphire
     title: "Title"
     path: "01 Title.minigsf"
     type: result
-  - id: get_mode_blue_table
-    title: "Get Mode Blue Table"
-    path: "24 Get Mode Blue Table.minigsf"
+  - id: table_select_pokemon_pinball_ruby_and_sapphire
+    title: "Table Select"
+    path: "02 Table Select.minigsf"
     type: warning
-  - id: get_mode_red_table
-    title: "Get Mode Red Table"
-    path: "20 Get Mode Red Table.minigsf"
+  - id: hi_score_pokemon_pinball_ruby_and_sapphire
+    title: "Hi-Score"
+    path: "04 Hi-Score.minigsf"
+    type: result
+  - id: shop_pokemon_pinball_ruby_and_sapphire
+    title: "Shop"
+    path: "06 Shop.minigsf"
+    type: break
+  - id: go_to_bonus_1
+    title: "Go to Bonus 1"
+    path: "09 Go to Bonus 1.minigsf"
     type: warning
   - id: go_to_bonus_2
     title: "Go to Bonus 2"
     path: "10 Go to Bonus 2.minigsf"
     type: warning
+  - id: move_mode_pokemon_pinball_ruby_and_sapphire
+    title: "Move Mode"
+    path: "16 Move Mode.minigsf"
+    type: warning
+  - id: ruby_table
+    title: "Ruby Table"
+    path: "19 Red Table.minigsf"
+    type: betting
+  - id: get_mode_ruby_table
+    title: "Get Mode Ruby Table"
+    path: "20 Get Mode Red Table.minigsf"
+    type: warning
+  - id: after_the_battle_ruby_table
+    title: "After the Battle - Ruby Table"
+    path: "22 After the Battle Red Table.minigsf"
+    type: break
+  - id: sapphire_table
+    title: "Sapphire Table"
+    path: "23 Blue Table.minigsf"
+    type: betting
+  - id: get_mode_sapphire_table
+    title: "Get Mode Sapphire Table"
+    path: "24 Get Mode Blue Table.minigsf"
+    type: warning
+  - id: after_the_battle_sapphire_table
+    title: "After the Battle - Sapphire Table"
+    path: "25 After the Battle Blue Table.minigsf"
+    type: break #this is Break Time! Blue Table, so the brstm can be removed
+  - id: kecleon_bonus_stage
+    title: "Kecleon Bonus Stage"
+    path: "26 Garden Bonus Stage.minigsf"
+    type: warning
+  - id: duskull_bonus_stage
+    title: "Duskull Bonus Stage"
+    path: "27 Grave Yard Bonus Stage.minigsf"
+    type: betting
+  - id: duskull_bonus_stage_versus_dusclops
+    title: "Duskull Bonus Stage - Versus Dusclops"
+    path: "28 Grave Yard Bonus Stage Climax.minigsf"
+    type: warning
+  - id: spheal_bonus_stage
+    title: "Spheal Bonus Stage"
+    path: "29 Ice Cave Bonus Stage.minigsf"
+    type: break
   - id: groudon_bonus_stage
     title: "Groudon Bonus Stage"
     path: "30 Lava Cave Bonus Stage.minigsf"
@@ -28,11 +80,24 @@ songs:
     title: "Kyogre Bonus Stage"
     path: "31 Dark Water Bonus Stage.minigsf"
     type: betting
-  - id: in_the_sky_bonus_stage
-    title: "In the Sky Bonus Stage"
+  - id: rayquaza_bonus_stage
+    title: "Rayquaza Bonus Stage"
     path: "32 In the Sky Bonus Stage.minigsf"
     type: warning
-  - id: break_time_blue_table
-    title: "Break Time! (Blue Table)"
-    path: "Break Time! (Blue Table).brstm"
+  - id: e_reader_room
+    title: "E-Reader Room"
+    path: "33 Unknown Song 1.minigsf"
     type: break
+  - id: jirachi_encounter
+    title: "Jirachi Encounter"
+    path: "34 Unknown Song 2.minigsf"
+    type: warning
+  - id: unknown_song_4_pokemon_pinball_ruby_sapphire
+    title: "Unknown Song 4"
+    path: "36 Unknown Song 4.minigsf"
+    type: warning
+  - id: unknown_song_5_pokemon_pinball_ruby_sapphire
+    title: "Unknown Song 5"
+    path: "37 Unknown Song 5.minigsf"
+    type: break
+...

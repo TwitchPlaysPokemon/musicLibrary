@@ -1,0 +1,254 @@
+---
+id: world_of_final_fantasy
+title: "World of Final Fantasy"
+series: finalfantasy
+year: 2016
+platform: ["PS4", "Vita"]
+songs:
+  - id: innocent_squared
+    title: "Innocent²"
+    path: "am_ev00_0100_40534641.hca"
+    ends: 3:02
+    type: betting
+  - id: world_parade
+    title: "World Parade"
+    path: "am_ev22_0120_men_40534641.hca"
+    ends: 2:40
+    type: betting
+  - id: lann_s_melody
+    title: "Lann's Melody"
+    path: "bgm05.hca"
+    type: break
+  - id: reynn_s_melody
+    title: "Reynn’s Melody"
+    path: "bgm06.hca"
+    type: betting
+  - id: hauyn_s_melody
+    title: "Hauyn's Melody"
+    path: "bgm07.hca"
+    type: break
+  - id: prismelody_chocobo_wishes
+    title: "Prismelody: Chocobo - Wishes"
+    path: "bgm08.hca"
+    type: break
+  - id: prismelody_a_girl_named_shelke
+    title: "Prismelody: A Girl Named Shelke"
+    path: "bgm08A.hca"
+    type: warning
+  - id: prismelody_castle_cornelia
+    title: "Prismelody: Castle Cornelia"
+    path: "bgm09.hca"
+    type: break
+  - id: mad_dash_melody
+    title: "Mad Dash Melody"
+    path: "bgm11.hca"
+    type: warning
+  - id: prismelody_moogles
+    title: "Prismelody: Moogles"
+    path: "bgm13.hca"
+    type: betting
+  - id: prismelody_lightning_returns
+    title: "Prismelody: Lightning Returns"
+    path: "bgm14.hca"
+    type: betting
+  - id: moonlight_melody
+    title: "Moonlight Melody"
+    path: "bgm15.hca"
+    type: break
+  - id: serious_melody
+    title: "Serious Melody"
+    path: "bgm19.hca"
+    type: warning
+  - id: confrontation_melody
+    title: "Confrontation Melody"
+    path: "bgm22.hca"
+    type: warning
+  - id: desperate_melody
+    title: "Desperate Melody"
+    path: "bgm23.hca"
+    type: warning
+  - id: refreshing_melody
+    title: "Refreshing Melody"
+    path: "bgm24.hca"
+    type: break
+  - id: world_of_nine_wood_hills
+    title: "World of Nine Wood Hills"
+    path: "bgm29.hca"
+    type: betting
+  - id: prismelody_town
+    title: "Prismelody: Town"
+    path: "bgm30.hca"
+    type: break
+  - id: prismelody_eternal_wind
+    title: "Prismelody: Eternal Wind"
+    path: "bgm32.hca"
+    type: betting
+  - id: prismelody_tifa
+    title: "Prismelody: Tifa"
+    path: "bgm33.hca"
+    type: betting
+  - id: prismelody_edgar
+    title: "Prismelody: Edgar"
+    path: "bgm35.hca"
+    type: battle
+  - id: the_girl_s_tearoom
+    title: "The Girl's Tearoom"
+    path: "bgm35_b.hca"
+    type: warning
+  - id: prismelody_balamb_garden
+    title: "Prismelody: Balamb Garden"
+    path: "bgm38.hca"
+    type: betting
+  - id: prismelody_a_fleeting_dream
+    title: "Prismelody: A Fleeting Dream"
+    path: "bgm40.hca"
+    type: betting
+  - id: prismelody_mako_reactor
+    title: "Prismelody: Mako Reactor"
+    path: "bgm42.hca"
+    type: break
+  - id: prismelody_clash_on_big_bridge_f
+    title: "Prismelody: Clash on Big Bridge -F-"
+    path: "bgm44.hca"
+    type: betting
+  - id: labyrinth_of_war
+    title: "Labyrinth of War"
+    path: "bgm45.hca"
+    type: betting
+  - id: labyrinth_of_ice
+    title: "Labyrinth of Ice"
+    path: "bgm46.hca"
+    type: break
+  - id: labyrinth_of_fire
+    title: "Labyrinth of Fire"
+    path: "bgm47.hca"
+    type: warning
+  - id: labyrinth_of_darkness
+    title: "Labyrinth of Darkness"
+    path: "bgm49.hca"
+    type: break
+  - id: labyrinth_of_dragons
+    title: "Labyrinth of Dragons"
+    path: "bgm50.hca"
+    type: betting
+  - id: labyrinth_of_dunes
+    title: "Labyrinth of Dunes"
+    path: "bgm51A.hca"
+    type: break
+  - id: prismelody_chocobo
+    title: "Prismelody: Chocobo"
+    path: "bgm52.hca"
+    type: betting
+  - id: world_of_battle
+    title: "World of Battle"
+    path: "bgm56.hca"
+    type: battle
+  - id: another_world_of_battle
+    title: "Another World of Battle"
+    path: "bgm57.hca"
+    type: battle
+  - id: mega_world_of_battle
+    title: "Mega World of Battle"
+    path: "bgm58.hca"
+    type: battle
+  - id: giga_world_of_battle
+    title: "Giga World of Battle"
+    path: "bgm59.hca"
+    type: battle
+  - id: terra_world_of_battle
+    title: "Terra World of Battle"
+    path: "bgm60.hca"
+    type: battle
+  - id: last_world_of_battle
+    title: "Last World of Battle"
+    path: "bgm62.hca"
+    type: battle
+  - id: victory_medley_world_of_ff
+    title: "Victory Melody"
+    path: "bgm63.hca"
+    type: result
+  - id: prismelody_festival_of_the_hunt
+    title: "Prismelody: Festival of the Hunt"
+    path: "bgm65.hca"
+    type: battle
+  - id: prismelody_the_scene_of_battle
+    title: "Prismelody: The Scene of Battle"
+    path: "bgm66.hca"
+    type: battle
+  - id: prismelody_clash_on_big_bridge_c
+    title: "Prismelody: Clash on Big Bridge -C-"
+    path: "bgm69.hca"
+    type: battle
+  - id: prismelody_the_decisive_battle
+    title: "Prismelody: The Decisive Battle"
+    path: "bgm70.hca"
+    type: battle
+  - id: prismelody_those_who_fight_further
+    title: "Prismelody: Those Who Fight Further"
+    path: "bgm71.hca"
+    type: battle
+  - id: prismelody_don_t_be_afraid
+    title: "Prismelody: Don’t Be Afraid"
+    path: "bgm72.hca"
+    type: battle
+  - id: prismelody_blitz_off_zanarkand
+    title: "Prismelody: Blitz Off! - Zanarkand"
+    path: "bgm74.hca"
+    type: battle
+  - id: prismelody_awakening
+    title: "Prismelody: Awakening"
+    path: "bgm75.hca"
+    type: battle
+  - id: prismelody_blinded_by_light
+    title: "Prismelody: Blinded by Light"
+    path: "bgm77.hca"
+    type: battle
+  - id: prismelody_battle_to_the_death
+    title: "Prismelody: Battle to the Death"
+    path: "bgm82.hca"
+    type: battle
+  - id: prismelody_the_sending
+    title: "Prismelody: The Sending"
+    path: "bgm86.hca"
+    type: battle
+  - id: prismelody_clash_on_big_bridge_e
+    title: "Prismelody: Clash on Big Bridge -E-"
+    path: "bgm89.hca"
+    type: warning
+  - id: castle_melody_world_of_ff
+    title: "Castle Melody"
+    path: "bgm103A.hca"
+    type: betting
+  - id: prismelody_snow_s
+    title: "Prismelody ・ Snow ~S~"
+    path: "bgm103B.hca"
+    type: battle
+  - id: prismelody_terra
+    title: "Prismelody: Terra"
+    path: "bgm116.hca"
+    type: betting
+  - id: main_theme_of_final_fantasy_world_of_ff
+    title: "Main Theme of Final Fantasy"
+    path: "bgm120.hca"
+    type: result
+  - id: world_of_ice_world_of_ff
+    title: "World of Ice"
+    path: "bgm133.hca"
+    type: betting
+  - id: prismelody_never_look_back
+    title: "Prismelody: Never Look Back"
+    path: "bgm189.hca"
+    type: betting
+  - id: labyrinth_of_lights
+    title: "Labyrinth of Lights"
+    path: "bgm190.hca"
+    type: break
+  - id: prismelody_those_who_fight
+    title: "Prismelody: Those Who Fight"
+    path: "bgm191.hca"
+    type: battle
+  - id: labyrinth_of_crystal
+    title: "Labyrinth of Crystal"
+    path: "bgm202.hca"
+    type: betting
+...

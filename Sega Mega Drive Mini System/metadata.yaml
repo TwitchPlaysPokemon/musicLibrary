@@ -1,0 +1,12 @@
+---
+id: sega_mega_drive_mini_system
+title: "Sega Mega Drive Mini System"
+platform: "SMD"
+year: 2019
+songs: 
+  - id: sega_mega_drive_mini_menu_music
+    title: "Menu Music"
+    path: "Mega_Drive_Mini_Music.mp3"
+    ends: 4:04
+    type: betting
+...

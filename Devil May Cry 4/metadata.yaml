@@ -38,4 +38,32 @@ songs:
     title: "The Viper"
     path: "The Viper.brstm"
     type: battle
+  - id: forza_del_destino
+    title: "Forza del Destino"
+    path: "Forza del Destino.brstm"
+    type: warning
+  - id: frozen_frog
+    title: "Frozen Frog"
+    path: "Frozen Frog.brstm"
+    type: battle
+  - id: sworn_through_swords_berial
+    title: "Sworn Through Swords (Berial)"
+    path: "Sworn Through Swords (Berial).brstm"
+    type: betting
+  - id: the_time_has_come
+    title: "The Time Has Come"
+    path: "The Time Has Come.brstm"
+    type: betting
+  - id: blackened_angel
+    title: "Blackened Angel"
+    path: "Blackened Angel.brstm"
+    type: battle
+  - id: lock_and_load_blackened_angel_mix
+    title: "Lock and Load ~Blackened Angel Mix~"
+    path: "Lock and Load _Blackened Angel Mix_.brstm"
+    type: battle
+  - id: irregularity_attacks
+    title: "Irregularity Attacks"
+    path: "Irregularity Attacks.brstm"
+    type: battle
 ...

@@ -1,0 +1,25 @@
+---
+id: donkey_kong_country_4
+title: "Donkey Kong Country 4"
+series: donkeykong
+platform: "Dendy"
+year: 1997
+#it's another bootleg. 
+songs:
+  - id: simian_segue_dkc4
+    title: "Simian Segue"
+    path: "02 Simian Segue.vgz"
+    type: warning
+  - id: aquatic_ambiance_dkc4
+    title: "Aquatic Ambiance"
+    path: "07 Aquatic Ambiance.vgz"
+    type: betting
+  - id: life_in_the_mines_dkc4
+    title: "Life in the Mines"
+    path: "09 Life in the Mines.vgz"
+    type: betting
+  - id: gang_plank_galleon_dkc4
+    title: "Gang-Plank Galleon"
+    path: "11 Gang-Plank Galleon.vgz"
+    type: betting
+...

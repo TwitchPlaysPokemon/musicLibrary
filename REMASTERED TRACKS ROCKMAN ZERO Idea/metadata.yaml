@@ -7,6 +7,10 @@ songs:
   - id: ice_brain_remastered
     title: "Ice Brain"
     path: "Ice Brain (Remastered).brstm"
-    tags: [xmas]
     type: betting
+  - id: clover_ex_track
+    title: "Clover (EX track)"
+    path: "2-18 Clover (EX track).brstm"
+    type: betting
+    ends: 3:03
 ...

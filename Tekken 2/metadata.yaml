@@ -8,3 +8,49 @@ songs:
     path: "Paul Phoenix (PS1).brstm"
     title: "Paul Phoenix (PS1)"
     type: betting
+#new tracks. These are all from arcade
+  - id: michelle_chang_wandering_female_fighter
+    title: "Michelle Chang -Wandering Female Fighter-"
+    path: "05 Michelle Chang -Wandering Female Fighter-.vgm"
+    type: betting
+  - id: lei_wulong_super_police
+    title: "Lei Wulong -Super Police-"
+    path: "08 Lei Wulong -Super Police-.vgm"
+    type: betting
+  - id: nina_williams_silent_assassin
+    title: "Nina Williams -Silent Assassin-"
+    path: "09 Nina Williams -Silent Assassin-.vgm"
+    type: betting
+  - id: marshall_law_legendary_dragon_again
+    title: "Marshall Law -Legendary Dragon Again-"
+    path: "10 Marshall Law -Legendary Dragon Again-.vgm"
+    type: betting
+  - id: paul_phoenix_hot_blooded_martial_artist
+    title: "Paul Phoenix -Hot Blooded Martial Artist-"
+    path: "11 Paul Phoenix -Hot Blooded Martial Artist-.vgm"
+    type: betting
+  - id: baek_doo_san_killing_hawk
+    title: "Baek Doo San -Killing Hawk-"
+    path: "14 Baek Doo San -Killing Hawk-.vgm"
+    type: warning
+  - id: heihachi_mashima_iron_fist_king
+    title: "Heihachi Mishima -Iron Fist King-"
+    path: "15 Heihachi Mishima -Iron Fist King-.vgm"
+    type: battle
+  - id: mid_boss_tekken_2
+    title: "Mid Boss"
+    path: "16 Mid Boss.vgm"
+    type: warning
+  - id: kazuya_mishima_devil_kazuya_tekken_2
+    title: "Kazuya Mishima -Devil Kazuya-"
+    path: "17 Kazuya Mishima -Devil Kazuya-.vgm"
+    type: betting
+  - id: ending_bgm_tekken_2
+    title: "Ending BGM"
+    path: "18 Ending BGM.vgm"
+    type: result
+  - id: roger_and_alex
+    title: "Roger & Alex"
+    path: "19 Roger & Alex.vgm"
+    type: betting
+...

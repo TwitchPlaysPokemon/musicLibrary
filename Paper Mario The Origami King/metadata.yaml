@@ -13,12 +13,12 @@ songs:
     title: "Autumn Mountain Battle"
     path: "Autumn Mountain Battle.brstm"
     type: battle
-  - id: disco_devil
-    title: "Disco Devil"
+  - id: the_disco_devil
+    title: "The Disco Devil"
     path: "Hole Punch Battle.brstm"
     type: battle
-  - id: disco_devil_thinking
-    title: "Disco Devil (Thinking)"
+  - id: the_disco_devil_thinking
+    title: "The Disco Devil (Thinking)"
     path: "Hole Punch Battle (Thinking).brstm"
     type: warning
   - id: olivia_s_final_magic_circle
@@ -40,5 +40,45 @@ songs:
   - id: the_final_battle_paper_mario_origami
     title: "The Final Battle"
     path: "The Final Battle.brstm"
+    type: battle
+  - id: vellumental_battle
+    title: "Vellumental Battle"
+    path: "1-54 Vellumental Battle.brstm"
+    type: battle
+  - id: event_battle_paper_mario_origami
+    title: "Event Battle"
+    path: "1-10 Event Battle.brstm"
+    type: battle
+  - id: the_elastic_entertainer
+    title: "The Elastic Entertainer"
+    path: "2-46 The Elastic Entertainer.brstm"
+    type: battle
+  - id: tranquil_pipes_teahouse
+    title: "Tranquil Pipes Teahouse"
+    path: "2-16 Tranquil Pipes Teahouse.brstm"
+    type: break
+  - id: unsettling_area_battle
+    title: "Unsettling Area Battle"
+    path: "4-23 Unsettling Area Battle.brstm"
+    type: battle
+  - id: bath_math
+    title: "Bath Math"
+    path: "5-26 Bath Math.brstm"
+    type: warning
+  - id: the_missile_maestro
+    title: "The Missile Maestro"
+    path: "1-61 The Missile Maestro.brstm"
+    type: battle
+  - id: temple_of_shrooms_disco
+    title: "Temple of Shrooms Disco"
+    path: "3-27 Temple of Shrooms Disco.brstm"
+    type: betting
+  - id: purple_streamer_battle
+    title: "Purple Streamer Battle"
+    path: "4-04 Purple Streamer Battle.brstm"
+    type: battle
+  - id: the_shifty_sticker
+    title: "The Shifty Sticker"
+    path: "4-41 The Shifty Sticker.brstm"
     type: battle
 ...

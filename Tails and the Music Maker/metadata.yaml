@@ -1,0 +1,48 @@
+---
+id: tails_and_the_music_maker
+title: "Tails and the Music Maker"
+series: sonic
+platform: "Pico"
+year: 1994
+songs:
+  - id: title_screen_page_5_the_recording_studio
+    title: "Title Screen ~ Page 5 - The Recording Studio"
+    path: "02 Title Screen ~ Page 5 - The Recording Studio.vgz"
+    type: result
+  - id: canon_in_d_tails
+    title: "Canon in D"
+    path: "07 Canon in D.vgz"
+    type: break
+  - id: scherzo_from_a_midsummer_night_s_dream
+    title: "Scherzo from A Midsummer Night's Dream"
+    path: "08 Scherzo from A Midsummer Night's Dream.vgz"
+    type: warning
+  - id: rondo_alla_turca
+    title: "Rondo Alla Turca from Sonata in A (K. 331)"
+    path: "09 Rondo Alla Turca from Sonata in A (K. 331).vgz"
+    type: warning
+  - id: walts_in_d_flat_major
+    title: "Waltz in D-flat major, Op. 64, No. 1"
+    path: "10 Waltz in D-flat major, Op. 64, No. 1.vgz"
+    type: warning
+  - id: six_moments_musicaux
+    title: "Six Moments Musicaux, Op. 94, No. 3 (D 780)"
+    path: "11 Six Moments Musicaux, Op. 94, No. 3 (D 780).vgz"
+    type: warning
+  - id: invention_no_4_bwv_775
+    title: "Invention No. 4 (BWV 775)"
+    path: "12 Invention No. 4 (BWV 775).vgz"
+    type: betting
+  - id: piano_sonata_no_14
+    title: "Piano Sonata No. 14"
+    path: "13 Piano Sonata No. 14.vgz"
+    type: break
+  - id: jingle_bells_tails
+    title: "Jingle Bells"
+    path: "16 Jingle Bells.vgz"
+    type: result
+  - id: pop_goes_the_weasel
+    title: "Pop Goes the Weasel"
+    path: "20 Pop Goes the Weasel.vgz"
+    type: warning
+...

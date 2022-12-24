@@ -5,10 +5,42 @@ series: goldensun
 year: 2003
 platform: "GBA"
 songs:
+  - id: main_theme_gstla
+    title: "Main Theme"
+    path: "02 Main Theme.minigsf"
+    type: result
+  - id: main_menu_gstla
+    title: "Main Menu"
+    path: "03 Main Menu.minigsf"
+    type: break
+  - id: hi_lo_dice
+    title: "Hi-Lo Dice"
+    path: "05 Hi-Lo Dice.minigsf"
+    type: result
+  - id: akafubu_s_ceremony
+    title: "Akafubu's Ceremony"
+    path: "15 Akafubu's Ceremony.minigsf"
+    type: warning
+  - id: ruins_of_lemuria
+    title: "Ruins of Lemuria"
+    path: "16 Peaceful Lemuria.minigsf"
+    type: break
+  - id: a_full_moon_in_garoh
+    title: "A Full Moon in Garoh"
+    path: "19 Garoh.minigsf"
+    type: break
   - id: airs_rock
     title: "Air's Rock"
     path: "23 Air's Rock.minigsf"
     type: warning
+  - id: aqua_rock_gstla
+    title: "Aqua Rock"
+    path: "24 Aqua Rock.minigsf"
+    type: betting
+  - id: gaia_rock_gstla
+    title: "Gaia Rock"
+    path: "27 Gaia Rock.minigsf"
+    type: betting
   - id: magma_rock
     title: "Magma Rock"
     path: "30 Magma Rock.minigsf"
@@ -21,10 +53,18 @@ songs:
     title: "Tundaria Tower"
     path: "32 Tundaria Tower.minigsf"
     type: betting
-#      - id: karst_agatio
-#        title: "Karst and Agatio's Theme"
-#        path: "35 Karst And Agatio's Theme.minigsf"
-#        type: warning #First 10 seconds borderline don't fit
+  - id: karst_agatio
+    title: "Karst and Agatio's Theme"
+    path: "35 Karst And Agatio's Theme.minigsf"
+    type: warning 
+  - id: trouble_brewing
+    title: "Trouble Brewing"
+    path: "40 Trouble Brewing.minigsf"
+    type: warning 
+  - id: sailing_gstla
+    title: "Sailing"
+    path: "42 Sailing.minigsf"
+    type: result 
   - id: walking_with_determination
     title: "Walking Forward with Determination"
     path: "44 World Map 2.minigsf"
@@ -33,44 +73,40 @@ songs:
     title: "Suspense"
     path: "46 Suspense.minigsf"
     type: warning
+  - id: battle_jenna_gslost
+    title: "Battle! [Jenna]"
+    path: "48 Jenna's Battle Theme.minigsf"
+    type: warning
   - id: battle_felix_gslost
     title: "Battle! [Felix]"
     path: "49 Enemy Battle.minigsf"
     type: battle
-#      - id: boss_battle1
-#        title: "Non Adept Battle"
-#        path: "50 Boss Battle Human.minigsf"
-#        type: battle #Borderline not tense and charged enough
+  - id: non_adept_battle_gslost
+    title: "Non Adept Battle"
+    path: "50 Boss Battle Human.minigsf"
+    type: warning
   - id: boss_battle_gslost
     title: "Boss Battle"
     path: "51 Boss Battle.minigsf"
     type: battle
-#      - id: sailing_battle
-#        title: "Sailing Battle"
-#        path: "52 Sailing Battle.minigsf"
-#        type: battle #Borderline not tense and charged enough
-#      - id: doom_dragon_battle
-#        title: "Doom Dragon Battle"
-#        path: "55 Doom Dragon Battle.minigsf"
-#        type: battle #Borderline not tense and charged enough
+  - id: sailing_battle
+    title: "Sailing Battle"
+    path: "52 Sailing Battle.minigsf"
+    type: warning
+  - id: karst_and_agatio_battle
+    title: "Karst And Agatio Battle"
+    path: "53 Karst And Agatio Battle.minigsf"
+    type: warning
+  - id: doom_dragon_battle
+    title: "Doom Dragon Battle"
+    path: "55 Doom Dragon Battle.minigsf"
+    type: battle
+  - id: fanfare_gstla
+    title: "Fanfare"
+    path: "56 Fanfare.minigsf"
+    type: result
   - id: venus_lighthouse
     title: "Venus Lighthouse"
     path: "92 Venus Lighthouse.minigsf"
-    type: betting
-  - id: a_full_moon_in_garoh
-    title: "A Full Moon in Garoh"
-    path: "19 Garoh.minigsf"
-    type: break
-  - id: ruins_of_lemuria
-    title: "Ruins of Lemuria"
-    path: "16 Peaceful Lemuria.minigsf"
-    type: break
-  - id: aqua_rock_gstla
-    title: "Aqua Rock"
-    path: "24 Aqua Rock.minigsf"
-    type: betting
-  - id: gaia_rock_gstla
-    title: "Gaia Rock"
-    path: "27 Gaia Rock.minigsf"
     type: betting
 ...

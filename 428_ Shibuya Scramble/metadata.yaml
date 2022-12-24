@@ -1,0 +1,145 @@
+---
+id: 428_shibuya_scramble
+title: "428: Shibuya Scramble"
+platform: ["Wii", "PS4", "PC"]
+year: 2008
+songs: 
+  - id: the_world_doesn_t_change_so_easy
+    title: "The World Doesn't Change So Easy"
+    path: "bgm_a04.adx"
+    ends: 2:05
+    type: betting
+  - id: the_world_doesn_t_change_so_easy_title_ver
+    title: "The World Doesn't Change So Easy ~Title Ver.~"
+    path: "bgm_a06.adx"
+    type: result
+  - id: fatigue_428
+    title: "Fatigue"
+    path: "bgm_c02.adx"
+    type: break
+  - id: on_the_move_428
+    title: "On The Move"
+    path: "bgm_c05.adx"
+    type: warning
+  - id: yum_cha
+    title: "Yum Cha"
+    path: "bgm_c08b.adx"
+    type: break
+  - id: excellence_428
+    title: "Excellence"
+    path: "bgm_c10.adx"
+    type: break
+  - id: decision_428
+    title: "Decision"
+    path: "bgm_c15.adx"
+    type: betting
+  - id: forgiveness_428
+    title: "Forgiveness"
+    path: "bgm_c20.adx"
+    type: break
+  - id: violation_428
+    title: "Violation"
+    path: "bgm_c23.adx"
+    type: break
+  - id: eggplant_428
+    title: "Eggplant"
+    path: "bgm_c26.adx"
+    type: result
+  - id: abrupt_ending
+    title: "Abrupt Ending"
+    path: "bgm_c29.adx"
+    type: result
+  - id: omen_428
+    title: "omen"
+    path: "bgm_k01.adx"
+    type: break
+  - id: forward_428
+    title: "forward"
+    path: "bgm_k04_1.adx"
+    type: betting
+  - id: crisis_428
+    title: "crisis"
+    path: "bgm_k07.adx"
+    type: warning
+  - id: cartridge_428
+    title: "cartridge"
+    path: "bgm_k08.adx"
+    type: betting
+  - id: rise_428
+    title: "rise"
+    path: "bgm_k10.adx"
+    type: battle
+  - id: 428_shibuya_scramble_main_theme
+    title: "\"428 ~Shibuya Scramble~\" Main Theme"
+    path: "bgm_m01.adx"
+    ends: 2:02
+    type: betting
+  - id: hope_428
+    title: "Hope"
+    path: "bgm_m04.adx"
+    type: break
+  - id: scramble_in_shibuya
+    title: "Scramble in Shibuya"
+    path: "bgm_m05.adx"
+    type: warning
+  - id: setup_428
+    title: "Setup"
+    path: "bgm_m07.adx"
+    type: betting
+  - id: shinya_kano
+    title: "Shinya Kano"
+    path: "bgm_m08.adx"
+    type: betting
+  - id: pursuit_428
+    title: "Pursuit"
+    path: "bgm_m09.adx"
+    type: battle
+  - id: toilet_428
+    title: "Toilet"
+    path: "bgm_m12.adx"
+    type: break
+  - id: achi_endo
+    title: "Achi Endo"
+    path: "bgm_m13.adx"
+    type: battle
+  - id: escape_428
+    title: "Escape"
+    path: "bgm_m14.adx"
+    type: battle
+  - id: resonance_428
+    title: "Resonance"
+    path: "bgm_m15.adx"
+    type: break
+  - id: hitomi_osawa
+    title: "Hitomi Osawa"
+    path: "bgm_m16.adx"
+    type: break
+  - id: kenji_osawa
+    title: "Kenji Osawa"
+    path: "bgm_m17.adx"
+    type: break
+  - id: lost_in_thought_428
+    title: "Lost in Thought"
+    path: "bgm_m19.adx"
+    type: break
+  - id: tama_428
+    title: "Tama"
+    path: "bgm_m21.adx"
+    type: break
+  - id: playful_428
+    title: "Playful"
+    path: "bgm_m22.adx"
+    type: warning
+  - id: minoru_minorikawa
+    title: "Minoru Minorikawa"
+    path: "bgm_m23.adx"
+    type: battle
+  - id: cigarette_smoke
+    title: "Cigarette Smoke"
+    path: "bgm_m25.adx"
+    type: break
+  - id: letter_428
+    title: "Letter"
+    path: "bgm_s08.adx"
+    type: break
+...

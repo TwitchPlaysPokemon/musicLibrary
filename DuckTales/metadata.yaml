@@ -4,13 +4,36 @@ title: "DuckTales"
 platform: "NES"
 year: 1989
 songs: 
+  - id: land_select_ducktales_nes
+    title: "Land Select"
+    path: "02 Land Select.vgz"
+    type: warning
   - id: the_amazon_ducktales_nes
     title: "The Amazon"
     path: "03 The Amazon.vgz"
     type: betting
+  - id: transylvania_ducktales_nes
+    title: "Transylvania"
+    path: "04 Transylvania.vgz"
+    type: warning
+  - id: african_mines_ducktales_nes
+    title: "African Mines"
+    path: "05 African Mines.vgz"
+    type: betting
   - id: the_himalayas_ducktales_nes
     title: "The Himalayas"
     path: "06 The Himalayas.vgz"
-    tags: [xmas]
     type: betting
+  - id: the_moon_ducktales_nes
+    title: "The Moon"
+    path: "07 The Moon.vgz"
+    type: betting
+  - id: launchpad_copter_ducktales_nes
+    title: "Launchpad Copter"
+    path: "08 Launchpad Copter.vgz"
+    type: result
+  - id: boss_battle_ducktales_nes
+    title: "Boss Battle"
+    path: "09 Boss Battle.vgz"
+    type: warning
 ...

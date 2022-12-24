@@ -1,0 +1,33 @@
+---
+id: 8_bit_adv_steins_gate
+title: "8-bit ADV Steins;Gate"
+#alt title: Famicolle ADV Steins;Gate
+series: scienceadventure
+platform: "Switch"
+year: 2018
+songs: 
+  - id: gate_of_steiner_8bit
+    title: "Gate of Steiner"
+    path: "01 Gate of Steiner.vgz"
+    type: betting
+  - id: explanation_8bit
+    title: "Explanation"
+    path: "04 Explanation.vgz"
+    type: break
+  - id: laboratory_8bit
+    title: "Laboratory"
+    path: "02 Laboratory.vgz"
+    type: break
+  - id: believe_me_8bit
+    title: "Believe Me"
+    path: "05 Believe Me.vgz"
+    type: break
+  - id: skyclad_no_kansokusha
+    title: "Skyclad no Kansokusha"
+    path: "10 Skyclad no Kansokusha.vgz"
+    type: betting
+  - id: noisy_times
+    title: "Noisy Times"
+    path: "03 Noisy Times.vgz"
+    type: result
+...
