@@ -79,15 +79,15 @@ songs:
     type: betting
   - id: writhing_castle_ruins_ahtal_ka_phases_2_4
     title: "Writhing Castle Ruins - Ahtal Ka (Phases 2/4)"
-    path: "bgm_em_087_Lastboss2.mca"
+    path: "bgm_em087_Lastboss2.mca"
     type: battle
   - id: queen_haunting_the_castle_ruins_ahtal_ka_phases_1_3
     title: "Queen Haunting the Castle Ruins - Ahtal Ka (Phases 1/3)"
-    path: "bgm_em_087_Lastboss3.mca"
+    path: "bgm_em087_Lastboss3.mca"
     type: battle
   - id: proof_of_a_hero_ahtal_ka_final_phase
     title: "Proof of a Hero - Ahtal Ka (Final Phase)"
-    path: "bgm_em_087_Lastboss4_2.mca"
+    path: "bgm_em087_Lastboss4_2.mca"
     type: battle
   - id: holy_ridge_in_the_sky_ruined_pinnacle
     title: "Holy Ridge in the Sky - Ruined Pinnacle"
@@ -103,7 +103,7 @@ songs:
     type: break
   - id: proof_of_a_hero_title_screen_generations_x_version
     title: "Proof of a Hero - Title Screen (Generations/X Version)"
-    path: "bgm_title Generations (Cross) Version.mca"
+    path: "bgm_title - Generations (Cross) Version.mca"
     type: result
   - id: the_road_to_becoming_a_champion_arena_preparation
     title: "The Road to Becoming a Champion - Arena Preparation"
@@ -127,11 +127,11 @@ songs:
     type: betting
   - id: courage_to_challenge_the_future_soaratorium
     title: "Courage to Challenge the Future - Soaratorium"
-    path: "bgm_v06_2.mca"
+    path: "bgm_v06_02.mca"
     type: break
   - id: kokoto_hub_hunter_s_pub_05
     title: "Kokoto Hub - Hunter's Pub 05"
-    path: "bgm_v7_05.mca"
+    path: "bgm_v07_05.mca"
     type: break
   - id: trabelna_hunter_s_pub_09
     title: "TraBelna - Hunter's Pub 09"
@@ -151,6 +151,6 @@ songs:
     type: betting
   - id: silver_winged_scarlet_star_valstrax_special_arrangement
     title: "Silver Winged Scarlet Star - Valstrax (Special Arrangement)"
-    path: "Silver Winged Scarlett Star - Valstrax (Special Arrangement).brstm"
+    path: "Silver Winged Scarlet Star - Valstrax (Special Arrangement).brstm"
     type: battle
 ...
