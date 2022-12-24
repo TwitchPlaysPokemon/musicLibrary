@@ -3,7 +3,43 @@ title: "Bugs Bunny & Lola Bunny: Operation Carrot Patch"
 platform: "GBC"
 year: 1998
 songs:
-  - id: hungarian_rhapsody_2
-    title: "Hungarian Rhapsody No. 2"
-    path: "Hungarian Rhapsody No. 2.brstm"
+  - id: level_complete_carrot_patch
+    title: "Level Complete"
+    path: "02 Language Select ~ Options ~ Level Complete ~ Bonus Stage.vgz"
+    type: result
+  - id: title_screen_carrot_patch
+    title: "Title Screen"
+    path: "03 Title Screen.vgz"
+    type: result
+  - id: level_select_carrot_patch
+    title: "Level Select"
+    path: "04 Storyline ~ Level Select.vgz"
     type: betting
+  - id: treasure_island
+    title: "Treasure Island"
+    path: "07 Treasure Island.vgz"
+    type: betting
+  - id: crazy_town
+    title: "Crazy Town"
+    path: "08 Crazy Town.vgz"
+    type: betting
+  - id: taz_s_zoo
+    title: "Taz's Zoo"
+    path: "09 Taz's Zoo.vgz"
+    type: betting
+  - id: the_space_station_carrot_crazy
+    title: "The Space Station"
+    path: "10 The Space Station.vgz"
+    type: betting
+  - id: elmer_fudd_s_forest
+    title: "Elmer Fudd's Forest"
+    path: "11 Elmer Fudd's Forest.vgz"
+    type: betting
+  - id: boss_battle_hungarian_rhapsody_2
+    title: "Boss Battle - Hungarian Rhapsody No. 2"
+    path: "12 Boss Battle.vgz"
+    type: betting
+  - id: unused_song_the_merry_go_round_broke_down
+    title: "Unused Song - The Merry-Go-Round Broke Down"
+    path: "14 Unused Song.vgz"
+    type: result

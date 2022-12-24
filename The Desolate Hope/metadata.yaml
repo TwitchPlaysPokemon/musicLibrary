@@ -1,0 +1,23 @@
+id: the_desolate_hope
+title: "The Desolate Hope"
+year: 2012
+platform: "PC"
+songs:
+  - id: take_a_step_up
+    title: "Take A Step Up"
+    path: "Take A Step Up.brstm"
+    type: battle
+    #apparently the rest of these are stock songs, so I dunno if they are valid here. Added them anyway
+  - id: ang_kahora
+    title: "Ang Kahora"
+    path: "Ang Kahora.brstm"
+    type: break
+  - id: falling_star_1
+    title: "Falling Star 1"
+    path: "Falling Star 1.brstm"
+    type: betting
+  - id: running_scared
+    title: "Running Scared"
+    path: "Running Scared.brstm"
+    type: battle
+...

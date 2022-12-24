@@ -4,10 +4,11 @@ title: "Final Fantasy XIV: Shadowbringers"
 series: finalfantasy
 platform: ["PC", "PS3", "PS4"]
 year: 2019
-songs: 
+songs:
   - id: return_to_oblivion
     title: "Return to Oblivion"
     path: "BGM_EX3_Raid_07.scd"
+    ends: 3:00
     type: betting
   - id: ultima_the_primals
     title: "Ultima (The Primals)"

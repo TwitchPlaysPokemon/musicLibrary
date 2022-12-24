@@ -1,0 +1,189 @@
+---
+id: final_fantasy_v_pixel_remaster
+title: "Final Fantasy V Pixel Remaster"
+series: finalfantasy
+platform: ["PC", "Mobile"]
+year: 2021
+songs:
+  - id: four_valiant_hearts_ffvp
+    title: "Four Valiant Hearts"
+    path: "1-03 Four Valiant Hearts.mab"
+    type: result
+  - id: pirates_ahoy_ffvp
+    title: "Pirates Ahoy!"
+    path: "1-10 Pirates Ahoy!.mab"
+    type: betting
+  - id: cursed_lands_ffvp
+    title: "Cursed Lands"
+    path: "1-14 Cursed Earths.mab"
+    type: betting
+  - id: royal_palace_ffvp
+    title: "Royal Palace"
+    path: "1-21 Royal Palace.mab"
+    type: betting
+  - id: the_fire_powered_ship_ffvp
+    title: "The Fire-Powered Ship"
+    path: "1-22 The Fire Powered Ship.mab"
+    type: betting
+  - id: the_ancient_library_ffvp
+    title: "The Ancient Library"
+    path: "1-25 The Ancient Library.mab"
+    type: betting
+  - id: clash_on_the_big_bridge_ffvp
+    title: "Clash on the Big Bridge"
+    path: "2-03 Battle at the Big Bridge.mab"
+    type: battle
+  - id: ahead_on_our_way_ffvp
+    title: "Ahead on Our Way"
+    path: "1-01 Ahead on our Way.mab"
+    type: result
+  - id: harvest_ffvp
+    title: "Harvest"
+    path: "1-16 Harvest.mab"
+    type: result
+  - id: walking_the_snowy_mountains_ffvp
+    title: "Walking the Snowy Mountains"
+    path: "1-17 Walking the Snowy Mountains.mab"
+    tags: [xmas]
+    type: result
+  - id: the_dragon_spreads_its_wings_ffvp
+    title: "The Dragon Spreads Its Wings"
+    path: "1-20 The Dragon Spreads it's Wings.mab"
+    type: result
+  - id: mambo_de_chocobo_ffvp
+    title: "Mambo de Chocobo!"
+    path: "1-30 Mambo de Chocobo!.mab"
+    type: result
+  - id: the_airship_ffvp
+    title: "The Airship"
+    path: "1-33 The Airship.mab"
+    type: result
+  - id: the_four_warriors_of_dawn_ffvp
+    title: "The Four Warriors of Dawn"
+    path: "2-02 The Four Warriors of Dawn.mab"
+    type: result
+  - id: the_castle_of_dawn_ffvp
+    title: "The Castle of Dawn"
+    path: "2-06 The Castle of Dawn.mab"
+    type: result
+  - id: a_new_origin_ffvp
+    title: "A New Origin"
+    path: "2-21 A New Origin.mab"
+    type: result
+  - id: hurry_hurry_ffvp
+    title: "Hurry! Hurry!"
+    path: "1-04 Hurry! Hurry!.mab"
+    type: warning
+  - id: the_battle_ffvp
+    title: "The Battle"
+    path: "1-07 The Battle.mab"
+    type: battle
+  - id: victory_fanfare_ffvp
+    title: "Victory Fanfare"
+    path: "1-08 Victory Fanfare.mab"
+    type: result
+  - id: sealed_away_ffvp
+    title: "Sealed Away"
+    path: "1-13 Sealed Away.mab"
+    type: warning
+  - id: danger_ffvp
+    title: "Danger!"
+    path: "1-18 Danger!.mab"
+    type: warning
+  - id: the_fierce_battle_ffvp
+    title: "The Fierce Battle"
+    path: "1-19 The Fierce Battle.mab"
+    type: battle
+  - id: run_ffvp
+    title: "Run!"
+    path: "1-23 Run!.mab"
+    type: warning
+  - id: musica_machina_ffvp
+    title: "Musica Machina"
+    path: "1-27 Musica Machina.mab"
+    type: warning
+  - id: the_evil_lord_exdeath_ffvp
+    title: "The Evil Lord Exdeath"
+    path: "1-34 The Evil Lord Exdeath.mab"
+    type: warning
+  - id: exdeaths_castle_ffvp
+    title: "Exdeath's Castle"
+    path: "2-01 Exdeath's Castle.mab"
+    type: warning
+  - id: the_book_of_sealings_ffvp
+    title: "The Book of Sealings"
+    path: "2-12 The Book of Sealings.mab"
+    type: warning
+  - id: the_last_battle_ffvp
+    title: "The Last Battle"
+    path: "2-17 The Last Battle.mab"
+    type: battle
+  - id: reinas_theme_ffvp
+    title: "Reina's Theme"
+    path: "1-05 Lenna's Theme.mab"
+    type: break
+  - id: fate_in_haze_ffvp
+    title: "Fate in Haze"
+    path: "1-06 Fate in Haze.mab"
+    type: break
+  - id: tenderness_in_the_air_ffvp
+    title: "Tenderness in the Air"
+    path: "1-11 Tenderness in the Air.mab"
+    type: break
+  - id: my_home_sweet_home_ffvp
+    title: "My Home, Sweet Home"
+    path: "1-31 My Home, Sweet Home.mab"
+    type: break
+  - id: unknown_lands_ffvp
+    title: "Unknown Lands"
+    path: "2-04 Unknown Lands.mab"
+    type: betting
+  - id: beyond_the_deep_blue_sea_ffvp
+    title: "Beyond the Deep Blue Sea"
+    path: "2-07 Beyond the Deep Blue Sea.mab"
+    type: break
+  - id: tycoon_waltz_ffvp
+    title: "Tycoon Waltz"
+    path: "2-09 Tycoon Waltz.mab"
+    type: betting
+  - id: the_land_unknown_ffvp
+    title: "The Land Unknown"
+    path: "2-11 The Land Unknown.mab"
+    type: break
+  - id: dear_friends_ffvp
+    title: "Dear Friends"
+    path: "2-19 Dear Friends.mab"
+    type: break
+  - id: final_fantasy_ffvp
+    title: "Final Fantasy"
+    path: "2-20 Final Fantasy.mab"
+    type: break
+  - id: the_prelude_ffvp
+    title: "The Prelude"
+    path: "2-22 The Prelude.mab" #possibly the same as the other pixel remake preludes???
+    type: break
+  - id: searching_the_light_ffvp
+    title: "Searching the Light"
+    path: "2-15 Searching the Light.mab"
+    type: betting
+  - id: the_prelude_of_empty_skies_ffvp
+    title: "The Prelude of Empty Skies"
+    path: "2-14 The Prelude of Empty Skies.mab"
+    type: betting
+  - id: intension_of_the_earth_ffvp
+    title: "Intension of the Earth"
+    path: "2-13 Intension of the Earth.mab"
+    type: betting
+  - id: go_go_boco_ffvp
+    title: "Go Go Boco!"
+    path: "2-10 Go Go Boco!.mab"
+    type: betting
+  - id: critter_tripper_fritter_ffvp
+    title: "Critter Tripper Fritter!"
+    path: "2-05 Critter Tripper Fritter!.mab"
+    type: betting
+  - id: reminiscence_ffvp
+    title: "Reminiscence"
+    path: "1-26 Reminiscence.mab"
+    type: break
+...

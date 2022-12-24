@@ -1,0 +1,136 @@
+---
+id: super_robot_wars_d
+title: "Super Robot Wars D"
+series: superrobotwars
+year: 2008
+platform: "GBA"
+songs:
+  - id: riders_in_the_skies
+    title: "Riders in the Skies"
+    path: "01 Riders in the Skies (Mobile Suit Zeta Gundam).minigsf"
+    type: warning
+  - id: silent_voice_srwd
+    title: "Silent Voice"
+    path: "02 Silent Voice (Mobile Suit Gundam ZZ).minigsf"
+    type: betting
+  - id: beyond_the_time
+    title: "BEYOND THE TIME"
+    path: "03 BEYOND THE TIME (Mobile Suit Gundam- Char's Counterattack).minigsf"
+    type: betting
+  - id: stand_up_to_the_victory_srwd
+    title: "STAND UP TO THE VICTORY"
+    path: "04 STAND UP TO THE VICTORY (Mobile Suit Victory Gundam).minigsf"
+    type: result
+  - id: don_t_stop_carry_on
+    title: "DON'T STOP! CARRY ON!"
+    path: "05 DON'T STOP! CARRY ON! (Mobile Suit Victory Gundam).minigsf"
+    type: result
+  - id: rhythm_emotion_srwd
+    title: "RHYTHM EMOTION"
+    path: "06 RHYTHM EMOTION (New Mobile Report Gundam Wing).minigsf"
+    type: battle
+  - id: z_no_theme
+    title: "Z no Theme"
+    path: "07 Z no Theme (Mazinger Z).minigsf"
+    type: result
+  - id: tetsuya_no_theme
+    title: "Tetsuya no Theme"
+    path: "08 Tetsuya no Theme (Great Mazinger).minigsf"
+    type: result
+  - id: uchuu_no_ouja_grendizer
+    title: "Uchuu no Ouja! Grendizer"
+    path: "09 Uchuu no Ouja! Grendizer (UFO Robo Grendizer).minigsf"
+    type: betting
+  - id: heats_srwd
+    title: "HEATS"
+    path: "10 HEATS (Getter Robo Armageddon).minigsf"
+    type: battle
+  - id: daltanious_no_uta
+    title: "Daltanious no Uta"
+    path: "11 Daltanious no Uta (Mirai Robo Daltanious).minigsf"
+    type: betting
+  - id: uchuu_no_ouja_godmars
+    title: "Uchuu no Ouja! Godmars"
+    path: "12 Uchuu no Ouja! Godmars (Rokushin Gattai Godmars).minigsf"
+    type: betting
+  - id: ai_no_kinjitou
+    title: "Ai no Kinjitou"
+    path: "13 Ai no Kinjitou (Rokushin Gattai Godmars).minigsf"
+    type: betting
+  - id: big_o
+    title: "BIG O!"
+    path: "14 BIG O! (The Big O).minigsf"
+    type: warning
+  - id: sure_promise_srwd
+    title: "SURE PROMISE"
+    path: "15 SURE PROMISE (The Big O).minigsf"
+    type: warning
+  - id: seventh_moon_srwd
+    title: "SEVENTH MOON"
+    path: "16 SEVENTH MOON (Macross 7).minigsf"
+    type: result
+  - id: planet_dance
+    title: "PLANET DANCE"
+    path: "17 PLANET DANCE (Macross 7).minigsf"
+    type: battle
+  - id: totsugeki_love_heart_srwd
+    title: "Totsugeki Love Heart"
+    path: "18 Totsugeki Love Heart (Macross 7).minigsf"
+    type: betting
+  - id: holy_lonely_night_srwd
+    title: "HOLY LONELY NIGHT"
+    path: "19 HOLY LONELY NIGHT (Macross 7).minigsf"
+    type: betting
+  - id: power_to_the_dream
+    title: "POWER TO THE DREAM"
+    path: "20 POWER TO THE DREAM (Macross 7).minigsf"
+    type: result
+  - id: try_again_srwd
+    title: "TRY AGAIN"
+    path: "21 TRY AGAIN (Macross 7).minigsf"
+    type: result
+  - id: my_friends_srwd
+    title: "MY FRIENDS"
+    path: "22 MY FRIENDS (Macross 7).minigsf"
+    type: betting
+  - id: rock_cafe
+    title: "ROCK CAFE"
+    path: "23 ROCK CAFE (Megazone 23).minigsf"
+    type: result
+  - id: himitsu_kudasai_srwd
+    title: "Himitsu Kudasai"
+    path: "24 Himitsu Kudasai (Megazone 23).minigsf"
+    type: betting
+  - id: desire_srwd
+    title: "Desire"
+    path: "25 Desire (Theme of Joshua 1).minigsf"
+    type: result
+  - id: duologue_srwd
+    title: "Duologue"
+    path: "26 Duologue (Theme of Rim 1).minigsf"
+    type: betting
+  - id: drumfire_srwd
+    title: "Drumfire"
+    path: "27 Drumfire (Theme of Joshua 2).minigsf"
+    type: battle
+  - id: duet_srwd
+    title: "Duet"
+    path: "28 Duet (Theme of Rim 2).minigsf"
+    type: battle
+  - id: despair_srwd
+    title: "Despair"
+    path: "29 Despair (Theme of Perfectio).minigsf"
+    type: battle
+  - id: devastator_srwd
+    title: "Devastator"
+    path: "30 Devastator (Theme of Melior Esse).minigsf"
+    type: warning
+  - id: destinies_srwd
+    title: "Destinies"
+    path: "31 Destinies (Opening Theme).minigsf"
+    type: result
+  - id: shop_srwd
+    title: "Shop"
+    path: "38 Shop.minigsf"
+    type: warning
+...

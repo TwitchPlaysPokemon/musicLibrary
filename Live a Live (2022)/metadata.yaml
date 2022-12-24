@@ -1,0 +1,164 @@
+---
+id: live_a_live_2022
+title: "Live A Live (2022)"
+platform: "Switch"
+year: 2022
+songs:
+  - id: live_a_live_2022
+    title: "Live A Live"
+    path: "BGM_01_LiveALive.txtp"
+    type: betting
+  - id: select_a_live
+    title: "Select A Live"
+    path: "BGM_02_SelectALive.txtp"
+    type: break
+  - id: secret_mission_live_a_live
+    title: "Secret Mission"
+    path: "BGM_03_Mitsumei.txtp"
+    type: break
+  - id: sound_of_shinobi_2022
+    title: "Sound of Shinobi"
+    path: "BGM_04_Shinobine.txtp"
+    type: betting
+  - id: killing_field_2022
+    title: "Killing Field!"
+    path: "BGM_05_Tate.txtp"
+    type: battle
+  - id: ultimate_strength_victory_road
+    title: "Ultimate Strength Victory Road"
+    path: "BGM_06_VictoryRoad.txtp"
+    type: warning
+  - id: martial_arts_master
+    title: "Martial Arts Master"
+    path: "BGM_07A_Mosatati.txtp"
+    type: warning
+  - id: knock_you_down
+    title: "Knock You Down!"
+    path: "BGM_09_KnockYouDown.txtp"
+    type: betting
+  - id: native_life
+    title: "Native Life"
+    path: "BGM_10_NativeLife.txtp"
+    type: betting
+  - id: nice_weather_ain_t_it_2022
+    title: "Nice Weather Ain't it!"
+    path: "BGM_12A_IiOtenkiDesho.txtp"
+    type: betting
+  - id: nice_weather_ain_t_it_night
+    title: "Nice Weather Ain't it! (Night)"
+    path: "BGM_12B_IiOtenkiDesho_Night.txtp"
+    type: break
+  - id: kiss_of_jealousy
+    title: "Kiss of Jealousy"
+    path: "BGM_13_KissofJealousy.txtp"
+    type: betting
+  - id: captain_square_2022
+    title: "Captain Square"
+    path: "BGM_15A_CaptainSquare.txtp"
+    type: betting
+  - id: captain_of_shooting_stars
+    title: "Captain Of Shooting Stars"
+    path: "BGM_16_HoshikuzuNoCaptain_SoundRoom.txtp"
+    type: betting
+  - id: the_bird_flies_the_fish_swims
+    title: "The Bird Flies, The Fish Swims"
+    path: "BGM_17_Tori.txtp"
+    type: result
+  - id: the_master_descends_the_mountain
+    title: "The Master Descends The Mountain"
+    path: "BGM_18_Yama.txtp"
+    type: warning
+  - id: war_in_china_2022
+    title: "War in China"
+    path: "BGM_19_Sentou.txtp"
+    type: warning
+  - id: wanderer_live_a_live
+    title: "Wanderer"
+    path: "BGM_20A_Wanderer.txtp"
+    type: betting
+  - id: under_the_fake
+    title: "Under The Fake"
+    path: "BGM_21_UnderTheFake.txtp"
+    type: result
+  - id: the_wilds_live_a_live
+    title: "The Wilds"
+    path: "BGM_22_Wilds.txtp"
+    type: warning
+  - id: go_go_buriki_daioh_2022
+    title: "Go Go Buriki Daioh!"
+    path: "BGM_24D_GoGoBurikiDaio_Melo.txtp"
+    type: result
+  - id: wait_for_truth_2022
+    title: "Wait for Truth"
+    path: "BGM_25_WaitForTruth.txtp"
+    type: betting
+  - id: a_painful_death_at_the_hands_of_a_psycho_2022
+    title: "A Painful Death at the Hands of a Psycho"
+    path: "BGM_26A_PsychoDeYoroshiku.txtp"
+    type: battle
+  - id: prelude_to_the_demon_king_2022
+    title: "Prelude to the Demon King"
+    path: "BGM_27_MaouHenoJokyoku.txtp"
+    type: betting
+  - id: wings_that_don_t_reach_2022
+    title: "Wings That Don't Reach"
+    path: "BGM_28A_TodokanuTubasa.txtp"
+    type: betting
+  - id: difficult_fight_live_a_live
+    title: "Difficult Fight"
+    path: "BGM_29_RinzennaruTatakai.txtp"
+    type: battle
+  - id: journey_to_the_mountain_of_the_demon_king_2022
+    title: "Journey to the Mountain of the Demon King"
+    path: "BGM_30_MaouzanWoIku.txtp"
+    type: betting
+  - id: city_of_hopelessness_2022
+    title: "City of Hopelessness"
+    path: "BGM_31_ZetubouNoMiyako.txtp"
+    type: betting
+  - id: silent_labyrinth_2022
+    title: "Silent Labyrinth"
+    path: "BGM_32_SilentLabyrinth.txtp"
+    type: betting
+  - id: cry_a_live_2022
+    title: "Cry-A-Live"
+    path: "BGM_33A_CryALive.txtp"
+    type: break
+  - id: warm_a_live
+    title: "Warm-A-Live"
+    path: "BGM_34_WarmALive.txtp"
+    type: break
+  - id: the_demon_king_odio_2022
+    title: "The Demon King Odio"
+    path: "BGM_35A_MaouOdio.txtp"
+    type: warning
+  - id: megalomania_2022
+    title: "Megalomania"
+    path: "BGM_36_Megaromania.txtp"
+    type: battle
+  - id: illusion_live_a_live_2022
+    title: "Illusion..."
+    path: "BGM_37_Illusion.txtp"
+    type: battle
+  - id: pure_odio_2022
+    title: "Pure Odio"
+    path: "BGM_38_Pureodio.txtp"
+    type: battle
+  - id: armageddon_2022
+    title: "Armageddon"
+    path: "BGM_39_Armageddon.txtp"
+    ends: 2:55
+    type: betting
+  - id: live_over_again_2022
+    title: "Live Over Again"
+    path: "BGM_40_LiveOverAgain.txtp"
+    type: break
+  - id: live_for_live
+    title: "Live For Live"
+    path: "BGM_41_LiveForLive.txtp"
+    type: break
+  - id: gigalomania
+    title: "Gigalomania"
+    path: "BGM_42_Gigalomania.txtp"
+    type: battle
+...

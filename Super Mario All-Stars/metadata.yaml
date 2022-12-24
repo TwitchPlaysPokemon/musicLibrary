@@ -42,4 +42,32 @@ songs:
     title: "Swimming (Super Mario Bros.)"
     path: "Swimming.spc"
     type: break
+  - id: title_smb_all_stars
+    title: "Title (Super Mario Bros.)"
+    path: "101 Title.spc"
+    type: result
+  - id: king_bowser_smb_all_stars
+    title: "King Bowser (Super Mario Bros.)"
+    path: "107 King Bowser.spc"
+    type: warning
+  - id: last_battle_smb_all_stars
+    title: "Last Battle (Super Mario Bros.)"
+    path: "109 Last Battle.spc"
+    type: warning
+  - id: title_smb_lost_levels_all_stars
+    title: "Title (Super Mario Bros. The Lost Levels)"
+    path: "117 Lost Levels Title.spc"
+    type: break
+  - id: ending_smb_lost_levels_all_stars
+    title: "Ending (Super Mario Bros. The Lost Levels)"
+    path: "118 Lost Levels Ending.spc"
+    type: break
+  - id: player_select_smb2_all_stars
+    title: "Player Select (Super Mario Bros. 2)"
+    path: "202 Player Select.spc"
+    type: result
+  - id: warp_zone_smb3_all_stars
+    title: "Warp Zone (Super Mario Bros. 3)"
+    path: "310 Warp Zone.spc"
+    type: break
 ...

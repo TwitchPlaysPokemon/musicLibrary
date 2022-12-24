@@ -17,6 +17,14 @@ songs:
     title: "Bothersome Guys"
     path: "010 Bothersome Guys.minigsf"
     type: warning
+  - id: stand_up_strong
+    title: "Stand Up Strong"
+    path: "012 Stand Up Strong.minigsf"
+    type: result
+  - id: as_you_wish
+    title: "As You Wish"
+    path: "013 As You Wish.minigsf"
+    type: result
   - id: a_letter_to_you_honey
     title: "A Letter to You, Honey"
     path: "014 A Letter to You, Honey.minigsf"
@@ -37,6 +45,14 @@ songs:
     title: "The Water's Great"
     path: "027 The Water's Great.minigsf"
     type: result
+  - id: dangerous_guys
+    title: "Dangerous Guys"
+    path: "029 Dangerous Guys.minigsf"
+    type: warning
+  - id: troublesome_guys
+    title: "Troublesome Guys"
+    path: "030 Troublesome Guys.minigsf"
+    type: warning
   - id: gentle_rain
     title: "Gentle Rain"
     path: "033 Gentle Rain.minigsf"
@@ -49,6 +65,26 @@ songs:
     title: "Run, My Dog, Run!"
     path: "038 Run, My Dog, Run!.minigsf"
     type: warning
+  - id: tragic_reconstruction
+    title: "Tragic Reconstruction"
+    path: "043 Tragic Reconstruction.minigsf"
+    type: warning
+  - id: confusion
+    title: "Confusion"
+    path: "044 Confusion.minigsf"
+    type: break
+  - id: sorrowful_tazmily
+    title: "Sorrowful Tazmily"
+    path: "046 Sorrowful Tazmily.minigsf"
+    type: break
+  - id: beyond_the_sunshine_forest
+    title: "Beyond the Sunshine Forest"
+    path: "052 Beyond the Sunshine Forest.minigsf"
+    type: betting
+  - id: cumbersome_guys
+    title: "Cumbersome Guys"
+    path: "054 Cumbersome Guys.minigsf"
+    type: betting
   - id: fight_with_mecha_drago
     title: "Fight with Mecha-Drago"
     path: "064 Fight with Mecha-Drago.minigsf"
@@ -61,10 +97,18 @@ songs:
     title: "Fate"
     path: "075 Fate.minigsf"
     type: betting
+  - id: dry_guys
+    title: "Dry Guys"
+    path: "082 Dry Guys.minigsf"
+    type: betting
   - id: unfounded_revenge
     title: "Unfounded Revenge"
     path: "088 Unfounded Revenge.minigsf"
     type: battle
+  - id: family_matters_2nd_movement
+    title: "Family Matters- 2nd Movement"
+    path: "090 Family Matters- 2nd Movement.minigsf"
+    type: warning
   - id: a_master_a_father_a_thief
     title: "A Master, a Father, a Thief"
     path: "094 A Master, a Father, a Thief.minigsf"
@@ -72,6 +116,10 @@ songs:
   - id: ode_to_ancestors_8th_movement
     title: "Ode to Ancestors: 8th Movement"
     path: "100 Ode to Ancestors- 8th Movement.minigsf"
+    type: warning
+  - id: formidable_foe
+    title: "Formidable Foe"
+    path: "101 Formidable Foe.minigsf"
     type: warning
   - id: monkeys_love_song
     title: "Monkey's Love Song"
@@ -81,6 +129,14 @@ songs:
     title: "Monkey's Delivery Service"
     path: "109 Monkey's Delivery Service.minigsf"
     type: betting
+  - id: drago
+    title: "Drago!"
+    path: "115 Drago!.minigsf"
+    type: warning
+  - id: even_drier_guys
+    title: "Even Drier Guys"
+    path: "129 Even Drier Guys.minigsf"
+    type: warning
   - id: murasaki_forest
     title: "Murasaki Forest"
     path: "130 Murasaki Forest.minigsf"
@@ -93,6 +149,14 @@ songs:
     title: "Club Titiboo Theme"
     path: "135 Club Titiboo Theme.minigsf"
     type: break
+  - id: the_attic_s_a_dungeon
+    title: "The Attic's a Dungeon!"
+    path: "139 The Attic's a Dungeon!.minigsf"
+    type: warning
+  - id: intense_guys
+    title: "Intense Guys"
+    path: "140 Intense Guys.minigsf"
+    type: betting
   - id: dangerous_highway
     title: "Dangerous Highway"
     path: "150 Dangerous Highway.minigsf"
@@ -100,6 +164,18 @@ songs:
   - id: fairies_neckbeard_s_recommendation
     title: "Fairies (Neckbeard's Recommendation)"
     path: "154 Fairies (Neckbeard's Recommend.).minigsf"
+    type: break
+  - id: wasteful_anthem
+    title: "Wasteful Anthem"
+    path: "158 Wasteful Anthem.minigsf"
+    type: betting
+  - id: mrob_6720m
+    title: "MROB-6720M"
+    path: "162 MROB-6720M.minigsf"
+    type: warning
+  - id: sunflowers_and_illusions
+    title: "Sunflowers and Illusions"
+    path: "166 Sunflowers and Illusions.minigsf"
     type: break
   - id: name_these_children
     title: "Name These Children"
@@ -121,6 +197,14 @@ songs:
     title: "His Highness' Theme"
     path: "187 His Highness' Theme.minigsf"
     type: betting
+  - id: we_humming
+    title: "we humming"
+    path: "195 we humming.minigsf"
+    type: result
+  - id: volcano_inferno
+    title: "Volcano! Inferno!"
+    path: "196 Volcano! Inferno!.minigsf"
+    type: warning
   - id: tanetane_island
     title: "Tanetane Island"
     path: "202 Tanetane Island.minigsf"
@@ -129,6 +213,18 @@ songs:
     title: "And Then There Were None"
     path: "206 And Then There Were None.minigsf"
     type: break
+  - id: strong_one_masked_man
+    title: "Strong One (Masked Man)"
+    path: "211 Strong One (Masked Man).minigsf"
+    type: battle
+  - id: life_s_an_inner_turn_radius
+    title: "Life's an Inner Turn Radius"
+    path: "213 Life's an Inner Turn Radius.minigsf"
+    type: betting
+  - id: isn_t_this_such_a_utopia
+    title: "Isn't This Such a Utopia!"
+    path: "216 Isn't This Such a Utopia!.minigsf"
+    type: betting
   - id: samba_de_combo
     title: "Samba de Combo"
     path: "226 Samba de Combo.minigsf"
@@ -141,10 +237,27 @@ songs:
     title: "Time Passage"
     path: "237 Time Passage.minigsf"
     type: result
+  - id: a_certain_someone_s_memories
+    title: "A Certain Someone's Memories"
+    path: "238 A Certain Someone's Memories.minigsf"
+    type: betting
   - id: porkys_porkies
     title: "Porky's Porkies"
     path: "240 Porky's Porkies.minigsf"
     type: warning
+  - id: burst_in_rock_n_roll
+    title: "Burst-In Rock 'n' Roll"
+    path: "241 Burst-In Rock 'n' Roll.minigsf"
+    type: betting
+  - id: master_porky_s_theme
+    title: "Master Porky's Theme"
+    path: "242 Master Porky's Theme.minigsf"
+    type: betting
+  - id: phantasmagoric
+    title: "Phantasmagoric"
+    path: "247 Phantasmagoric.minigsf"
+    ends: 2:49
+    type: betting
   - id: vs_ultimate_chimera
     title: "Vs. Ultimate Chimera"
     path: "926 Vs. Ultimate Chimera.minigsf"

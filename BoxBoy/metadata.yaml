@@ -1,0 +1,36 @@
+---
+id: boxboy
+title: "BoxBoy!"
+series: boxboy
+platform: "3DS"
+year: 2015
+songs: 
+  - id: staff_credits_boxboy
+    title: "Staff Credits"
+    path: "CCO_LP_ANDOKATIKATI1.dspadpcm.bcstm"
+    type: break
+  - id: clear_boxboy
+    title: "Clear!"
+    path: "CCO_LP_CLEAR1.dspadpcm.bcstm"
+    type: result
+  - id: ending_of_the_journey
+    title: "Ending of the Journey"
+    path: "CCO_LP_DEMO2.dspadpcm.bcstm"
+    type: break
+  - id: stage_2_boxboy
+    title: "Stage 2"
+    path: "CCO_LP_SIMPLE7.dspadpcm.bcstm"
+    type: betting
+  - id: stage_3_boxboy
+    title: "Stage 3"
+    path: "CCO_LP_SIMPLE8.dspadpcm.bcstm"
+    type: betting
+  - id: world_map_boxboy
+    title: "World Map"
+    path: "CCO_LP_SUB3.dspadpcm.bcstm"
+    type: break
+  - id: the_challenge_boxboy
+    title: "The Challenge!"
+    path: "CCO_LP_TOKUSYU1_3.dspadpcm.bcstm"
+    type: warning
+...

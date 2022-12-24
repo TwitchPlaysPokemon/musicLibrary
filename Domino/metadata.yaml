@@ -1,0 +1,38 @@
+---
+id: domino
+title: "Domino"
+platform: "SMD"
+year: 2004
+#It's a Russian bootleg. The game is basically a Russian-made version of Dominoes
+#the maker's site (www.newgame.ru) still exists, with this game listed.
+#As you can guess, as a bootleg it's all covers
+songs:
+  - id: how_deep_is_your_love
+    title: "How Deep is Your Love"
+    path: "02 - Bee Gees - How Deep is Your Love.vgm"
+    type: betting
+  - id: road_to_hell
+    title: "Road to Hell"
+    path: "03 - Chris Rea - Road to Hell.vgm"
+    type: betting
+  - id: hotel_california
+    title: "Hotel California"
+    path: "04 - Eagles - Hotel California.vgm"
+    type: betting
+  - id: lily_was_here
+    title: "Lily was Here"
+    path: "05 - David A Stewart - Lily was Here.vgm"
+    type: betting
+  - id: oxygene
+    title: "Oxygene"
+    path: "06 - Jean-Michel Jarre - Oxygene.vgm"
+    type: betting
+  - id: what_a_wonderful_world
+    title: "What a Wonderful World"
+    path: "07 - Louis Armstrong - What a Wonderful World.vgm"
+    type: result
+  - id: the_x_files
+    title: "The X-Files"
+    path: "08 - Mark Snow - The X-Files.vgm"
+    type: warning
+...

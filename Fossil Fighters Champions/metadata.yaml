@@ -1,0 +1,136 @@
+---
+id: fossil_fighters_champions
+title: "Fossil Fighters: Champions"
+platform: "NDS"
+series: fossilfighters
+year: 2010
+songs: 
+  - id: gold_fossil_fighter
+    title: "Gold-Fossil Fighter"
+    path: "002b - BGM_SEQ_BTL_RALLY.mini2sf"
+    type: battle
+  - id: certain_evolution
+    title: "Certain Evolution"
+    path: "002c - BGM_SEQ_BTL_RALLYFINAL.mini2sf"
+    type: battle
+  - id: here_we_go_ffc
+    title: "Here We Go!"
+    path: "002d - BGM_SEQ_BTL_NORMAL.mini2sf"
+    type: battle
+  - id: battle_etude
+    title: "Battle Etude"
+    path: "002e - BGM_SEQ_BTL_BAD.mini2sf"
+    type: warning
+  - id: tremolo_hunter
+    title: "Tremolo Hunter"
+    path: "002f - BGM_SEQ_BTL_HONEHONE.mini2sf"
+    type: battle
+  - id: from_beyond_the_horizon
+    title: "From Beyond the Horizon"
+    path: "0030 - BGM_SEQ_BTL_DOKURON.mini2sf"
+    type: battle
+  - id: breakthrough_march
+    title: "Breakthrough March"
+    path: "0031 - BGM_SEQ_BTL_NAKAMA.mini2sf"
+    type: warning
+  - id: when_dark_sparks_fly
+    title: "When Dark Sparks Fly"
+    path: "0032 - BGM_SEQ_BTL_ZONGA.mini2sf"
+    type: battle
+  - id: category_six
+    title: "Category Six"
+    path: "0033 - BGM_SEQ_BTL_ZONGA2.mini2sf"
+    type: battle
+  - id: blue_sky_quena
+    title: "Blue-Sky Quena"
+    path: "000f - BGM_SEQ_FLD14_RAINBOWCANYON.mini2sf"
+    type: betting
+  - id: the_majestic_land
+    title: "The Majestic Land"
+    path: "000d - BGM_SEQ_FLD12_CRAZYVOLCANO.mini2sf"
+    type: betting
+  - id: a_night_at_the_circus
+    title: "A Night at the Circus"
+    path: "0012 - BGM_SEQ_FLD17_ONSENMT.mini2sf"
+    type: betting
+  - id: in_your_hands
+    title: "In Your Hands"
+    path: "0014 - BGM_SEQ_FLD19_HIERUPLATE.mini2sf"
+    type: break
+  - id: monkey_mosh
+    title: "Monkey Mosh"
+    path: "000a - BGM_SEQ_FLD09_JUNGLE.mini2sf"
+    type: betting
+  - id: feel_the_sky
+    title: "Feel the Sky"
+    path: "000c - BGM_SEQ_FLD11_STONEWOODS.mini2sf"
+    type: betting
+  - id: midnight_carnival
+    title: "Midnight Carnival"
+    path: "001c - BGM_SEQ_FLD27_CASTLEZONGA2.mini2sf"
+    type: warning
+  - id: fossil_cleaning_ffc
+    title: "Fossil Cleaning"
+    path: "001d - BGM_SEQ_CLEANING.mini2sf"
+    type: betting
+  - id: pistachio_march
+    title: "Pistachio March"
+    path: "0002 - BGM_SEQ_FLD01_ABARATOWN.mini2sf"
+    type: betting
+  - id: fighter_station_ffc
+    title: "Fighter Station"
+    path: "0003 - BGM_SEQ_FLD02_KASEKIST.mini2sf"
+    type: betting
+  - id: polka_dot_ribbon
+    title: "Polka-Dot Ribbon"
+    path: "0004 - BGM_SEQ_FLD03_KASEKIGUILD.mini2sf"
+    type: betting
+  - id: sneak_over_ffc
+    title: "Sneak Over"
+    path: "004c - BGM_SEQ_EV_HONEHONE.mini2sf"
+    type: warning
+  - id: special_z
+    title: "Special Z"
+    path: "004f - BGM_SEQ_EV_JOE2ZONGA.mini2sf"
+    type: warning
+  - id: desert_two_step
+    title: "Desert Two-Step"
+    path: "0006 - BGM_SEQ_FLD05_ZUGAITOWN.mini2sf"
+    type: betting
+  - id: future_remixed
+    title: "Future Remixed"
+    path: "0007 - BGM_SEQ_FLD06_JOETOWER.mini2sf"
+    type: betting
+  - id: raspberry_bell
+    title: "Raspberry Bell"
+    path: "0008 - BGM_SEQ_FLD07_HONENTOWN.mini2sf"
+    type: betting
+  - id: sleepy_robin
+    title: "Sleepy Robin"
+    path: "0009 - BGM_SEQ_FLD08_TREASURELAKE.mini2sf"
+    type: betting
+  - id: nomadic_camels
+    title: "Nomadic Camels"
+    path: "0011 - BGM_SEQ_FLD16_HOTSANDHILL.mini2sf"
+    type: betting
+  - id: coming_clean
+    title: "Coming Clean"
+    path: "0016 - BGM_SEQ_FLD21_HONEAJITO.mini2sf"
+    type: break
+  - id: before_cup_ffc
+    title: "Before Cup"
+    path: "0018 - BGM_SEQ_FLD23_KASEKIST2.mini2sf"
+    type: betting
+  - id: vmm_ffc
+    title: "VMM"
+    path: "0024 - BGM_SEQ_KASEKIATM.mini2sf"
+    type: betting
+  - id: battle_briefing_ffc
+    title: "Battle Briefing"
+    path: "0029 - BGM_SEQ_BTL_PREPARE.mini2sf"
+    type: warning
+  - id: unused_theme_ffc
+    title: "Unused Theme"
+    path: "0034 - BGM_SEQ_BTL_TUSHIN_A.mini2sf"
+    type: betting
+...

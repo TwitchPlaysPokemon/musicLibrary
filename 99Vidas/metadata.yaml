@@ -1,0 +1,51 @@
+---
+id: 99vidas
+title: "99Vidas"
+platform: "Various"
+year: 2016
+songs: 
+  - id: a_night_in_the_city
+    title: "A Night in the City"
+    path: "A Night in the City.brstm"
+    type: betting
+  - id: a_walk_in_the_park
+    title: "A Walk in the Park"
+    path: "A Walk in the Park.brstm"
+    type: betting
+  - id: child_s_play
+    title: "Child's Play"
+    path: "Child's Play.brstm"
+    type: result
+  - id: full_speed_ahead
+    title: "Full Speed Ahead"
+    path: "Full Speed Ahead.brstm"
+    type: battle
+  - id: guardians_of_the_99vidas
+    title: "Guardians of the 99Vidas"
+    path: "Guardians of the 99Vidas.brstm"
+    type: warning
+  - id: neon_night
+    title: "Neon Night"
+    path: "Neon Night.brstm"
+    type: betting
+  - id: the_end_is_nigh
+    title: "The End is Nigh"
+    path: "The End is Nigh.brstm"
+    type: battle
+  - id: the_game_is_on
+    title: "The Game is On"
+    path: "The Game is On.brstm"
+    type: betting
+  - id: the_journey_ends
+    title: "The Journey Ends"
+    path: "The Journey Ends.brstm"
+    type: result
+  - id: underground_99vidas
+    title: "Underground"
+    path: "Underground.brstm"
+    type: betting
+  - id: within_reach
+    title: "Within Reach"
+    path: "Within Reach.brstm"
+    type: betting
+...

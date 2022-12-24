@@ -4,21 +4,85 @@ title: "Pokémon Pinball"
 series: pokemon
 platform: "GBC"
 year: 1999
-songs: 
-  - id: blue_field_theme
-    title: "Blue Field Theme"
-    path: "Blue Field Theme.brstm"
-    type: betting
-  - id: catchem_and_evolution_mode_in_blue_field
-    title: "Catch'em & Evolution Mode in Blue Field"
-    path: "Catch'em and Evolution mode in Blue Field.brstm"
-    type: betting
+songs:
+  - id: title_screen_pokemon_pinball
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: pokedex_pokemon_pinball
+    title: "Pokédex"
+    path: "02 Pokedex.vgz"
+    type: break
+  - id: options_pokemon_pinball
+    title: "Options"
+    path: "03 Options.vgz"
+    type: break
+  - id: field_select_pokemon_pinball
+    title: "Field Select"
+    path: "04 Field Select.vgz"
+    type: warning
   - id: red_field_theme
     title: "Red Field Theme"
-    path: "Red Field Theme.brstm"
+    path: "05 Red Field Theme.vgz"
     type: betting
-  - id: gengar_bonus_stage_gastly_in_the_graveyard
-    title: "Gengar Bonus Stage (Gastly in the Graveyard)"
-    path: "Gengar Bonus Stage (Gastly in the Graveyard).brstm"
+  - id: catch_em_and_evolution_mode_red_field
+    title: "Catch'em & Evolution Mode ~ Red Field"
+    path: "06 Catch'em & Evolution Mode ~ Red Field.vgz"
+    type: break
+  - id: map_mode_pokemon_pinball
+    title: "Map Mode"
+    path: "07 Map Mode.vgz"
     type: warning
+  - id: blue_field_theme
+    title: "Blue Field Theme"
+    path: "08 Blue Field Theme.vgz"
+    type: betting
+  - id: catch_em_and_evolution_mode_blue_field_mezase_pokemon_master
+    title: "Catch'em & Evolution Mode ~ Blue Field"
+    path: "09 Catch'em & Evolution Mode ~ Blue Field (Mezase Pokemon Master).vgz"
+    type: betting
+  - id: gengar_stage_gengar_in_the_graveyard
+    title: "Gengar Stage ~ Gengar in the Graveyard"
+    path: "10 Gengar Stage ~ Gengar in the Graveyard.vgz"
+    type: warning
+  - id: gengar_stage_gastly_in_the_graveyard
+    title: "Gengar Stage ~ Ghastly in the Graveyard"
+    path: "11 Gengar Stage ~ Ghastly in the Graveyard.vgz"
+    type: warning
+  - id: gengar_stage_haunter_in_the_graveyard
+    title: "Gengar Stage ~ Haunter in the Graveyard"
+    path: "12 Gengar Stage ~ Haunter in the Graveyard.vgz"
+    type: warning
+  - id: diglett_stage_whack_the_digletts
+    title: "Diglett Stage ~ Whack the Digletts"
+    path: "13 Diglett Stage ~ Whack the Digletts.vgz"
+    type: warning
+  - id: diglett_stage_whack_dugtrio
+    title: "Diglett Stage ~ Whack Dugtrio"
+    path: "14 Diglett Stage ~ Whack Dugtrio.vgz"
+    type: warning
+  - id: seel_stage
+    title: "Seel Stage"
+    path: "15 Seel Stage.vgz"
+    type: betting
+  - id: mewtwo_stage
+    title: "Mewtwo Stage"
+    path: "16 Mewtwo Stage.vgz"
+    type: warning
+  - id: meowth_stage
+    title: "Meowth Stage"
+    path: "17 Meowth Stage.vgz"
+    type: result
+  - id: end_credits_pokemon_pinball
+    title: "End Credits"
+    path: "18 End Credits.vgz"
+    type: result
+  - id: name_entry_pokemon_pinball
+    title: "Name Entry"
+    path: "20 Name Entry.vgz"
+    type: result
+  - id: hi_score_screen_pokemon_pinball
+    title: "Hi-Score Screen"
+    path: "21 Hi-Score Screen.vgz"
+    type: result
 ...

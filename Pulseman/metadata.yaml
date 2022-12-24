@@ -3,37 +3,96 @@ id: pulseman
 title: "Pulseman"
 platform: "Genesis"
 year: 1994
+#a user requested a new song, and I just decided to redo the whole thing since there were some brstms 
+#I could make into vgzs. I added some other new songs too, since this was composed by Masuda so I 
+#wanted to see if we could get any proto-Pokemon battle songs. 
 songs:
-  - id: metamorphoser
-    title: "Metamorphoser"
-    path: "19 Metamorphoser.vgm"
+  - id: neo_tokyo
+    title: "Neo Tokyo"
+    path: "01 - Neo Tokyo.vgz"
+    type: betting
+  - id: integrated_city
+    title: "Integrated City"
+    path: "02 - Integrated City.vgz"
+    type: warning
+  - id: blank_structure
+    title: "Blank Structure"
+    path: "03 - Blank Structure.vgz"
+    type: battle
+  - id: stereo_protect
+    title: "Stereo Protect"
+    path: "04 - Stereo Protect.vgz"
+    type: betting
+  - id: cycle_partition
+    title: "Cycle Partition"
+    path: "05-  Cycle Partition.vgz"
+    type: betting
+  - id: real_overflow
+    title: "Real Overflow"
+    path: "06 - Real Overflow.vgz"
+    type: betting
+  - id: cl_architecture
+    title: "CL Architecture"
+    path: "07 - CL Architecture.vgz"
+    type: warning
+  - id: shutdown_2
+    title: "Shutdown 2"
+    path: "08 - Shutdown 2.vgz"
     type: warning
   - id: kernel_pages
     title: "Kernel Pages"
-    path: "09 Kernel Pages.vgm"
+    path: "09 - Kernel Pages.vgz"
+    type: warning
+  - id: technology_pulseman
+    title: "Technology"
+    path: "10 - Technology.vgz"
+    type: betting
+  - id: halt_16_voice
+    title: "Halt 16 Voice"
+    path: "11 - Halt 16 Voice.vgz"
+    type: warning
+  - id: brain_wash
+    title: "Brain Wash"
+    path: "12 - Brain Wash.vgz"
+    type: betting
+  - id: rebooting
+    title: "Rebooting"
+    path: "15 - Rebooting.vgz"
     type: warning
   - id: voltage_algorithm
     title: "Voltage Algorithm"
-    path: "Voltage Algorithm.brstm"
+    path: "18 - Voltage Algorithm.vgz"
     type: betting
+  - id: metamorphoser
+    title: "Metamorphoser"
+    path: "19 - Metamorphoser.vgz"
+    type: warning
+  - id: end_traceback
+    title: "End Traceback"
+    path: "21 - End Traceback.vgz"
+    type: warning
+  - id: run_command
+    title: "Run Command"
+    path: "22 - Run Command.vgz"
+    type: battle
+  - id: bad_trap
+    title: "Bad Trap"
+    path: "27 - Bad Trap.vgz"
+    type: battle
+  - id: accelerator
+    title: "Accelerator"
+    path: "29 - Accelerator.vgz"
+    type: battle
+  - id: shutdown
+    title: "Shutdown"
+    path: "30 - Shutdown.vgz"
+    type: warning
   - id: super_algorithm_pulseman
     title: "Super Target"
-    path: "Super Target.brstm"
+    path: "32 - Super Target.vgz"
     type: result
-  - id: cl_architecture
-    title: "CL Architecture"
-    path: "07 - CL Architecture.vgm"
-    type: warning
-  - id: neo_tokyo
-    title: "Neo Tokyo"
-    path: "01 - Neo Tokyo.vgm"
-    type: betting
   - id: dump_succeeded
     title: "Dump Succeeded"
-    path: "33 - Dump Succeeded.vgm"
+    path: "33 - Dump Succeeded.vgz"
     type: result
-  - id: halt_16_voice
-    title: "Halt 16 Voice"
-    path: "11 - Halt 16 Voice.vgm"
-    type: warning
 ...

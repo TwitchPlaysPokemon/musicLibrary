@@ -548,15 +548,15 @@ songs:
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=D16).txtp"
     type: betting
   - id: battle_legendary_theme_unused_bdsp
-    title: "Battle! (Legendary Theme - Unused)" #same one used for Legendaries in D/P I think
-    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA017).txtp"
-    type: battle
-  - id: battle_ramanas_legendary
-    title: "Battle! (Ramanas Legendary)" #not sure about this one. This and the one after seem to be for Ramanas Park Legendaries, just not sure which ones
-    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA017)(v1.1.0).txtp"
+    title: "Battle! (Legendary Theme - Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA017).txtp" #same one used for Legendaries in D/P I think
     type: battle
   - id: battle_minor_ramanas_legendary
     title: "Battle! (Minor Ramanas Legendary)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA017)(v1.1.0).txtp" #not sure about this one. This and the one after seem to be for Ramanas Park Legendaries, just not sure which ones
+    type: battle
+  - id: battle_ramanas_legendary
+    title: "Battle! (Ramanas Legendary)"
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA018)(v1.1.0).txtp"
     type: battle
   - id: pokemon_league_night_bdsp
@@ -628,8 +628,8 @@ songs:
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA015).txtp"
     type: battle
   - id: battle_giratina_bdsp
-    title: "Battle! (Giratina)" #think this might be used for other legendaries too?
-    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA015) (GIRATINA=NONE)(v1.1.0).txtp"
+    title: "Battle! (Giratina)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_BATTLE=BA015) (GIRATINA=NONE)(v1.1.0).txtp" #think this might be used for other legendaries too?
     type: battle
   - id: battle_origin_giratina_bdsp
     title: "Battle! (Origin Giratina)"

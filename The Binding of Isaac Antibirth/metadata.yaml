@@ -1,0 +1,40 @@
+---
+id: the_binding_of_isaac_antibirth
+title: "The Binding of Isaac: Antibirth"
+year: 2016
+is_fanwork: true #fanmade mod of TBOI, which eventually turned into repentance. This is the mod ost.
+platform: "PC"
+songs:
+  - id: allnoise_the_void
+    title: "Allnoise (The Void)"
+    path: "allnoise.brstm"
+    type: battle
+  - id: esc_arcade
+    title: "Esc (Arcade)"
+    path: "esc.brstm"
+    type: betting
+  - id: foreigner_in_zeal_flooded_caves
+    title: "Foreigner in Zeal (Flooded Caves)"
+    path: "foreigner_in_zeal.brstm"
+    type: betting
+  - id: innocence_glitched_basement
+    title: "Innocence Glitched (Basement)"
+    path: "innocence_glitched.brstm"
+    type: betting
+  - id: invictus_boss_fight
+    title: "Invictus (Boss Fight)"
+    path: "invictus.brstm"
+    type: battle
+  - id: journey_from_a_jar_to_the_sky_planetarium
+    title: "Journey from a Jar to the Sky (Planetarium)"
+    path: "journey_from_a_jar_to_the_sky.brstm"
+    type: break
+  - id: machine_in_the_walls_mausoleum
+    title: "Machine in the Walls (Mausoleum)"
+    path: "machine_in_the_walls.brstm"
+    type: warning
+  - id: non_funkable_token_ultra_greed
+    title: "Non Funkable Token (Ultra Greed)"
+    path: "non_funkable_token.brstm"
+    type: battle
+...

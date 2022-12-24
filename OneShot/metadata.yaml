@@ -1,0 +1,71 @@
+---
+id: oneshot
+title: "OneShot"
+platform: "Various"
+year: 2016
+songs: 
+  - id: a_god_s_machine
+    title: "A God's Machine"
+    path: "A God's Machine.brstm"
+    type: warning
+  - id: eleventh_hour
+    title: "Eleventh Hour"
+    path: "Eleventh Hour.brstm"
+    type: betting
+  - id: encounter_oneshot
+    title: "Encounter"
+    path: "Encounter.brstm"
+    type: break
+  - id: geothermal_oneshot
+    title: "Geothermal"
+    path: "Geothermal.brstm"
+    type: betting
+  - id: it_s_time_to_fight_crime
+    title: "IT'S TIME TO FIGHT CRIME"
+    path: "IT'S TIME TO FIGHT CRIME.brstm"
+    type: battle
+  - id: library_nap
+    title: "Library Nap"
+    path: "Library Nap.brstm"
+    type: break
+  - id: navigate_extended
+    title: "Navigate (Extended)"
+    path: "Navigate (extended).brstm"
+    type: betting
+  - id: on_little_cat_feet
+    title: "On Little Cat Feet"
+    path: "On Little Cat Feet.brstm"
+    type: betting
+  - id: out_of_protocol
+    title: "Out of Protocol"
+    path: "Out of Protocol.brstm"
+    type: warning
+  - id: panic_oneshot
+    title: "Panic"
+    path: "Panic.brstm"
+    type: warning
+  - id: phosphor
+    title: "Phosphor"
+    path: "Phosphor.brstm"
+    type: betting
+  - id: rue
+    title: "Rue"
+    path: "Rue.brstm"
+    type: break
+  - id: simple_secrets
+    title: "Simple Secrets"
+    path: "Simple Secrets.brstm"
+    type: warning
+  - id: solstice
+    title: "Solstice"
+    path: "Solstice.brstm"
+    type: break
+  - id: to_dream
+    title: "To Dream"
+    path: "To Dream.brstm"
+    type: break
+  - id: to_sleep
+    title: "To Sleep"
+    path: "To Sleep.brstm"
+    type: break
+...

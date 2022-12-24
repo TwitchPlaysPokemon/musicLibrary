@@ -5,32 +5,92 @@ series: castlevania
 year: 2003
 platform: "GBA"
 songs:
-  - id: castle_corridor
-    title: "Castle Corridor"
-    path: "Castle Corridor.minigsf"
-    type: betting
-  - id: clock_tower
-    title: "Clock Tower"
-    path: "Clock Tower.minigsf"
-    type: betting
-  - id: floating_gardens
-    title: "Floating Gardens"
-    path: "Floating Gardens.minigsf"
-    type: betting
-  - id: the_arena_castlevania
-    title: "The Arena"
-    path: "The Arena.minigsf"
-    type: betting
-  - id: top_floor
-    title: "Top Floor"
-    path: "Top Floor.minigsf"
-    type: betting
-  - id: inner_quarters
-    title: "Inner Quarters"
-    path: "Inner Quarters.minigsf"
+  - id: name_entry_aria_of_sorrow
+    title: "Name Entry"
+    path: "02 Name Entry.minigsf"
     type: break
-  - id: confrontation
-    title: "Confrontation"
-    path: "Confrontation.minigsf"
+  - id: prologue_mina_s_theme
+    title: "Prologue ~ Mina's Theme"
+    path: "03 Prologue ~ Mina's Theme.minigsf"
+    type: betting
+  - id: ruined_castle_corridor_aria_of_sorrow
+    title: "Ruined Castle Corridor"
+    path: "04 Ruined Castle Corridor.minigsf"
+    type: betting
+  - id: chapel_aria_of_sorrow
+    title: "Chapel"
+    path: "06 Chapel.minigsf"
     type: warning
+  - id: a_formidable_foe_appears
+    title: "A Formidable Foe Appears"
+    path: "07 A Formidable Foe Appears.minigsf"
+    type: warning
+  - id: demon_castle_study
+    title: "Demon Castle Study"
+    path: "08 Demon Castle Study.minigsf"
+    type: break
+  - id: hammer_company
+    title: "Hammer Company"
+    path: "09 Hammer Company.minigsf"
+    type: betting
+  - id: dance_hall_aria_of_sorrow
+    title: "Dance Hall"
+    path: "10 Dance Hall.minigsf"
+    type: betting
+  - id: phantom_palace
+    title: "Phantom Palace"
+    path: "11 Phantom Palace.minigsf"
+    type: betting
+  - id: forgotten_garden
+    title: "Forgotten Garden"
+    path: "12 Forgotten Garden.minigsf"
+    type: betting
+  - id: clock_tower_aria_of_sorrow
+    title: "Clock Tower"
+    path: "13 Clock Tower.minigsf"
+    type: betting
+  - id: confrontation_aria_of_sorrow
+    title: "Confrontation"
+    path: "14 Confrontation.minigsf"
+    type: warning
+  - id: underground_reservoir
+    title: "Underground Reservoir"
+    path: "15 Underground Reservoir.minigsf"
+    type: betting
+  - id: the_purgatory_arena
+    title: "The Purgatory Arena"
+    path: "16 The Purgatory Arena.minigsf"
+    type: betting
+  - id: sacred_cave_aria_of_sorrow
+    title: "Sacred Cave"
+    path: "30 Sacred Cave (Without Sound Effect).minigsf"
+    type: break
+  - id: demon_castle_top_floor
+    title: "Demon Castle Top Floor"
+    path: "18 Demon Castle Top Floor.minigsf"
+    type: betting
+  - id: battle_for_the_throne
+    title: "Battle for the Throne"
+    path: "19 Battle for the Throne.minigsf"
+    type: warning
+  - id: don_t_wait_until_night_aria_of_sorrow
+    title: "Don't Wait Until Night"
+    path: "21 Don't Wait Until Night.minigsf"
+    type: betting
+  - id: you_re_not_alone_aria_of_sorrow
+    title: "You're Not Alone"
+    path: "23 You're Not Alone.minigsf"
+    type: betting
+  - id: battle_against_chaos
+    title: "Battle Against Chaos"
+    path: "24 Battle Against Chaos.minigsf"
+    type: warning
+  - id: purification_aria_of_sorrow
+    title: "Purification"
+    path: "27 Purification.minigsf"
+    type: result
+  - id: ending_aria_of_sorrow
+    title: "Ending"
+    path: "28 Ending.minigsf"
+    type: result
 ...

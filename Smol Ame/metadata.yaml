@@ -2,10 +2,23 @@
 id: smol_ame
 title: "Smol Ame"
 platform: "PC"
+series: hololive
 year: 2021
+is_fanwork: true 
+#I tried to loop the other songs, but they don't really have good points that I can do.
+#And while I can extract the tracks from these games, they're only as .wavs - so foobar provides no info.
+#Again, feel free to remove if there's a DMCA threat
 songs: 
   - id: tanukichi_no_bouken_usada_pekora_bgm
     title: "tanukichi no bouken (Usada Pekora BGM)"
     path: "ta_nuki_chino_boken.brstm"
+    type: betting
+  - id: omocha_no_dance_amelia_watson_bgm
+    title: "omocha no dance (Amelia Watson BGM)"
+    path: "Ame Music looped.brstm"
+    type: break
+  - id: misteavous_myth_buster
+    title: "Misteavous Myth-buster"
+    path: "misteavous_loop.brstm"
     type: betting
 ...
