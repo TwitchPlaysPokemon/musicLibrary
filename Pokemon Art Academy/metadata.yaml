@@ -4,7 +4,7 @@ title: "Pokémon Art Academy"
 series: pokemon
 platform: "3DS"
 year: 2014
-songs: 
+songs:
   - id: main_menu_pokemon_art_academy
     title: "Main Menu"
     path: "Picca_BGM_Menu.dspadpcm.bcstm"
@@ -64,7 +64,8 @@ songs:
   - id: bgm_13_pokemon_art_academy
     title: "BGM 13"
     path: "Picca_BGM_13.dspadpcm.bcstm"
-    type: break
+    ends: 2:13 #it doesn't loop, so this for now
+    type: betting
   - id: bgm_14_pokemon_art_academy
     title: "BGM 14"
     path: "Picca_BGM_14.dspadpcm.bcstm"
