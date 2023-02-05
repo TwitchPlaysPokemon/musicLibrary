@@ -1,0 +1,13 @@
+﻿---
+id: pokemon_star
+title: "Pokémon Star"
+series: pokemon
+is_fanwork: true
+platform: "3DS"
+year: 2018
+songs:
+  - id: battle_champion_lillie
+    title: "Battle! (Champion Lillie)"
+    path: "bgm_nj_vs_champ.dspadpcm.bcstm"
+    type: battle
+...

@@ -7,14 +7,110 @@ year: 1991
 songs: 
   - id: rising_sun
     title: "Rising Sun"
-    path: "Rising Sun.brstm"
+    path: "01 Rising Sun.vgz"
     type: break
+  - id: fighting_arena_final_fantasy_adventure
+    title: "Fighting Arena"
+    path: "02 Fighting Arena.vgz"
+    type: warning
+  - id: requiem_final_fantasy_adventure
+    title: "Requiem"
+    path: "03 Requiem.vgz"
+    type: break
+  - id: endless_battlefield
+    title: "Endless Battlefield"
+    path: "04 Endless Battlefield.vgz"
+    type: betting
+  - id: village_final_fantasy_adventure
+    title: "Village"
+    path: "05 Village.vgz"
+    type: break
+  - id: dwarves_theme
+    title: "Dwarves' Theme"
+    path: "06 Dwarves' Theme.vgz"
+    type: betting
+  - id: glance_dukedom
+    title: "Glance Dukedom"
+    path: "07 Glance Dukedom.vgz"
+    type: warning
+  - id: dungeon_1
+    title: "Dungeon 1"
+    path: "08 Dungeon 1.vgz"
+    type: warning
   - id: battle_1_final_fantasy_adventure
     title: "Battle 1"
-    path: "Battle 1.brstm"
+    path: "09 Fight 1.vgz"
+    type: warning
+  - id: royal_palace_final_fantasy_adventure
+    title: "Royal Palace"
+    path: "10 Royal Palace.vgz"
+    type: result
+  - id: mana_s_mission
+    title: "Mana's Mission"
+    path: "11 Mana's Mission.vgz"
+    type: break
+  - id: danger_final_fantasy_adventure
+    title: "Danger"
+    path: "12 Danger!.vgz"
+    type: warning
+  - id: jema_s_realization
+    title: "Jema's Realization"
+    path: "13 Jema's Realization.vgz"
+    type: betting
+  - id: in_search_of_the_sacred_sword
+    title: "In Search of the Sacred Sword"
+    path: "14 In Search of the Sacred Sword.vgz"
+    type: betting
+  - id: birth_of_chocobo
+    title: "Birth of Chocobo"
+    path: "15 Birth of Chocobo.vgz"
+    type: warning
+  - id: theme_of_chocobo_final_fantasy_adventure
+    title: "Theme of Chocobo"
+    path: "16 Theme of Chocobo.vgz"
+    type: warning
+  - id: dungeon_2_final_fantasy_adventure
+    title: "Dungeon 2"
+    path: "17 Dungeon 2.vgz"
+    type: warning
+  - id: mowgli
+    title: "Mowgli"
+    path: "18 Mowgli.vgz"
+    type: warning
+  - id: dungeon_3_final_fantasy_adventure
+    title: "Dungeon 3"
+    path: "19 Dungeon 3.vgz"
     type: warning
   - id: battle_2_final_fantasy_adventure
     title: "Battle 2"
-    path: "Battle 2.brstm"
+    path: "20 Fight 2.vgz"
     type: warning
+  - id: in_sorrow
+    title: "In Sorrow"
+    path: "21 In Sorrow.vgz"
+    type: result
+  - id: let_thoughts_ride_on_knowledge
+    title: "Let Thoughts Ride on Knowledge"
+    path: "22 Let Thoughts Ride on Knowledge.vgz"
+    type: result
+  - id: mana_palace
+    title: "Mana Palace"
+    path: "23 Mana Palace.vgz"
+    type: warning
+  - id: julius_ambition
+    title: "Julius' Ambition"
+    path: "24 Julius' Ambition.vgz"
+    type: warning
+  - id: final_battle_final_fantasy_adventure
+    title: "Final Battle"
+    path: "25 Final Battle.vgz"
+    type: battle
+  - id: legend_forever
+    title: "Legend Forever"
+    path: "26 Legend Forever.vgz"
+    type: break   
+  - id: uneasiness
+    title: "Uneasiness"
+    path: "30 Uneasiness.vgz"
+    type: warning 
 ...

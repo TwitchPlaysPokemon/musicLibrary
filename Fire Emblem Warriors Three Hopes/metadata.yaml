@@ -1,0 +1,130 @@
+---
+id: fire_emblem_warriors_three_hopes
+title: "Fire Emblem Warriors: Three Hopes"
+platform: "Switch"
+series: fireemblem
+year: 2022
+#these were all the songs I could get titles from (YouTube helped). May try to see if I can find more later
+#Inferno tracks play during fights, Embers are remixes for planning. So most are battle-betting.
+songs: 
+  - id: fodlan_winds_inferno
+    title: "Fodlan Winds (Inferno)"
+    path: "BGM_0001.kno"
+    type: battle
+  - id: fodlan_winds_embers
+    title: "Fodlan Winds (Embers)"
+    path: "BGM_0002.kno"
+    type: betting
+  - id: tearing_through_heaven_inferno
+    title: "Tearing Through Heaven (Inferno)"
+    path: "BGM_0003.kno"
+    type: battle
+  - id: tearing_through_heaven_embers
+    title: "Tearing Through Heaven (Embers)"
+    path: "BGM_0004.kno"
+    type: betting
+  - id: roar_of_dominion_inferno
+    title: "Roar Of Dominion (Inferno)"
+    path: "BGM_0005.kno"
+    type: battle
+  - id: roar_of_dominion_embers
+    title: "Roar Of Dominion (Embers)"
+    path: "BGM_0006.kno"
+    type: betting
+  - id: chasing_daybreak_inferno
+    title: "Chasing Daybreak (Inferno)"
+    path: "BGM_0007.kno"
+    type: battle
+  - id: chasing_daybreak_embers
+    title: "Chasing Daybreak (Embers)"
+    path: "BGM_0008.kno"
+    type: betting
+  - id: the_long_road_inferno
+    title: "The Long Road (Inferno)"
+    path: "BGM_0009.kno"
+    type: betting
+  - id: between_heaven_and_earth_inferno
+    title: "Between Heaven And Earth (Inferno)"
+    path: "BGM_0011.kno"
+    type: battle
+  - id: tempest_of_seasons_inferno
+    title: "Tempest of Seasons (Inferno)"
+    path: "BGM_0013.kno"
+    type: battle
+  - id: corridors_of_the_tempest_inferno
+    title: "Corridors of the Tempest (Inferno)"
+    path: "BGM_0015.kno"
+    type: betting
+  - id: the_edge_of_dawn_inferno
+    title: "The Edge Of Dawn (Inferno)"
+    path: "BGM_0017.kno"
+    type: battle
+  - id: the_edge_of_dawn_embers
+    title: "The Edge Of Dawn (Embers)"
+    path: "BGM_0018.kno"
+    type: betting
+  - id: shambhala_area_17_redux_inferno
+    title: "Shambhala (Area 17 Redux) (Inferno)"
+    path: "BGM_0019.kno"
+    type: battle
+  - id: shambhala_area_17_redux_embers
+    title: "Shambhala (Area 17 Redux) (Embers)"
+    path: "BGM_0020.kno"
+    type: betting
+  - id: a_funeral_of_flowers_inferno
+    title: "A Funeral Of Flowers (Inferno)"
+    path: "BGM_0021.kno"
+    type: battle
+  - id: a_funeral_of_flowers_embers
+    title: "A Funeral Of Flowers (Embers)"
+    path: "BGM_0022.kno"
+    type: betting
+  - id: apex_of_the_world_inferno
+    title: "Apex Of The World (Inferno)"
+    path: "BGM_0023.kno"
+    type: battle
+  - id: apex_of_the_world_embers
+    title: "Apex Of The World (embers)"
+    path: "BGM_0024.kno"
+    type: betting
+  - id: wrath_strike_inferno
+    title: "Wrath Strike (Inferno)"
+    path: "BGM_0041.kno"
+    type: battle
+  - id: wrath_strike_embers
+    title: "Wrath Strike (Embers)"
+    path: "BGM_0042.kno"
+    type: warning
+  - id: the_verge_of_death_inferno
+    title: "The Verge Of Death (Inferno)"
+    path: "BGM_0043.kno"
+    type: warning
+  - id: the_verge_of_death_embers
+    title: "The Verge Of Death (Embers)"
+    path: "BGM_0044.kno"
+    type: warning
+  - id: paths_that_will_never_cross_inferno
+    title: "Paths That Will Never Cross (Inferno)"
+    path: "BGM_0045.kno"
+    type: battle
+  - id: paths_that_will_never_cross_embers
+    title: "Paths That Will Never Cross (Embers)"
+    path: "BGM_0046.kno"
+    type: typehere
+  - id: indomitable_will_inferno
+    title: "Indomitable Will (Inferno)"
+    path: "BGM_0047.kno"
+    type: battle
+  - id: indomitable_will_embers
+    title: "Indomitable Will (Embers)"
+    path: "BGM_0048.kno"
+    type: betting
+  - id: the_ashen_demon_inferno
+    title: "The Ashen Demon (Inferno)"
+    path: "BGM_0051.kno"
+    type: battle
+  - id: the_ashen_demon_embers
+    title: "The Ashen Demon (Embers)"
+    path: "BGM_0052.kno"
+    type: betting
+...

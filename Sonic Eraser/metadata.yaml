@@ -1,0 +1,12 @@
+---
+id: sonic_eraser
+title: "Sonic Eraser"
+series: sonic
+platform: "Genesis"
+year: 1991
+songs:
+  - id: puzzle_mode_se
+    title: "Puzzle Mode"
+    path: "01 - Puzzle Mode.vgz"
+    type: warning
+...

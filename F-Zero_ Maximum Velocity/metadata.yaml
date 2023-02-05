@@ -6,25 +6,38 @@ platform: "GBA"
 songs:
   - id: tenth_zone_east
     title: "Tenth Zone East"
-    path: "Tenth Zone East.brstm"
+    path: "07 Tenth Zone East.minigsf"
     type: betting
   - id: grand_prix_results_velocity
     title: "Grand Prix Results"
-    path: "Grand Prix Results.brstm"
+    path: "15 Grand Prix Complete.minigsf"
     type: warning
   - id: synobazz
     title: "Synobazz"
-    path: "Synobazz.brstm"
+    path: "09 Synobazz.minigsf"
     type: warning
   - id: race_results_velocity
     title: "Race Results"
-    path: "Race Results.brstm"
+    path: "13 Results.minigsf"
     type: result
-  - id: multiplayer_grand_prix_results
-    title: "Multiplayer - Grand Prix Results"
-    path: "Multiplayer - Grand Prix Results.brstm"
-    type: result
+#couldn't find this in the original files
+#  - id: multiplayer_grand_prix_results
+#    title: "Multiplayer - Grand Prix Results"
+#    path: "Multiplayer - Grand Prix Results.brstm"
+#    type: result
   - id: credits_velocity
     title: "Credits"
-    path: "Credits.brstm"
+    path: "16 Ending Credits.minigsf"
+    type: break
+  - id: beacon_port
+    title: "Beacon Port"
+    path: "08 Beacon Port.minigsf"
+    type: betting
+  - id: you_lost_velocity
+    title: "You Lost"
+    path: "14 You Lost.minigsf"
+    type: result
+  - id: unknown_song_2_velocity
+    title: "Unknown Song 2"
+    path: "18 Unknown Song 2.minigsf"
     type: break

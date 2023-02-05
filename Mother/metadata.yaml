@@ -7,47 +7,66 @@ year: 1989
 songs:
   - id: pollyanna_i_believe_in_you
     title: "Pollyanna (I Believe in You)"
-    path: "Pollyanna (I Believe in You).brstm"
+    path: "04 Pollyanna.vgz"
     type: betting
   - id: bein_friends
     title: "Bein' Friends"
-    path: "Bein' Friends.brstm"
+    path: "21 Being Friends.vgz"
     type: betting
   - id: title_screen_mother
     title: "Title Screen"
-    path: "Title.vgz"
+    path: "01 Title.vgz"
     type: break
   - id: mt_itoi
     title: "Mt. Itoi"
-    path: "Mt. Itoi.brstm"
+    path: "34 Mt. Itoi.vgz"
     type: warning
   - id: battle_with_a_flippant_foe
     title: "Battle with a Flippant Foe"
-    path: "Battle with a Flippant Foe.brstm"
+    path: "05 Battle 1.vgz"
     type: warning
   - id: battle_against_a_dangerous_foe
     title: "Battle against a Dangerous Foe"
-    path: "Battle against a Dangerous Foe.brstm"
+    path: "06 Battle 2.vgz"
     type: warning
   - id: earthquake_mother
     title: "Earthquake"
-    path: "Earthquake.vgz"
+    path: "03 Earthquake.vgz"
     type: warning
   - id: yucca_desert
     title: "Yucca Desert"
-    path: "Yucca Desert.vgz"
+    path: "26 Yucca Desert.vgz"
     type: betting
   - id: the_paradise_line_train_ride
     title: "The Paradise Line"
-    path: "The Paradise Line (Train Ride).brstm"
+    path: "22 Train.vgz"
     type: betting
   - id: all_that_i_needed_was_you
     title: "All That I Needed (Was You)"
-    path: "All That I Needed (Was You) (Looped Version).brstm"
+    path: "31 Live House Song.vgz"
     type: betting
   - id: snowman
     title: "Snowman"
     path: "23 Snowman.vgz"
-    tags: [xmas]
+    type: betting
+  - id: hippie_battle
+    title: "Hippie Battle"
+    path: "07 Battle 3.vgz"
+    type: warning
+  - id: humoresque_of_a_little_dog_mother
+    title: "Humoresque of a Little Dog"
+    path: "12 Shop.vgz"
+    type: result
+  - id: magicant_mother
+    title: "Magicant"
+    path: "17 Magicant.vgz"
+    type: break
+  - id: roving_tank
+    title: "Roving Tank"
+    path: "32 Tank.vgz"
+    type: warning
+  - id: twinkle_elementary_school
+    title: "Twinkle Elementary School"
+    path: "19 Twinkle Elementary School.vgz"
     type: betting
 ...

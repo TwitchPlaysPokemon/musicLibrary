@@ -1,0 +1,23 @@
+---
+id: the_blues_brothers
+title: "The Blues Brothers"
+platform: "Various"
+year: 1991
+songs:
+  - id: peter_gunn_theme
+    title: "Peter Gunn Theme"
+    path: "01 Peter Gunn Theme.vgz"
+    type: warning
+  - id: everybody_needs_somebody_to_love
+    title: "Everybody Needs Somebody To Love"
+    path: "02 Everybody Needs Somebody To Love.vgz"
+    type: betting
+  - id: i_got_everything_i_need_almost
+    title: "(I Got Everything I Need) Almost"
+    path: "03 (I Got Everything I Need) Almost.vgz"
+    type: result
+  - id: shotgun_blues
+    title: "Shotgun Blues"
+    path: "04 Shotgun Blues.vgz"
+    type: betting
+...

@@ -3,7 +3,80 @@ title: "Project X Zone"
 platform: "3DS"
 year: 2012
 songs:
+  - id: coco_tapioca_the_huge_dancer
+    title: "Coco★Tapioca ~ The Huge Dancer"
+    path: "Coco★Tapioca _ The Huge Dancer.brstm"
+    type: betting
+  - id: devils_never_cry_devil_may_cry_3
+    title: "Devils Never Cry -Devil May Cry 3-"
+    path: "Devils Never Cry -Devil May Cry 3-.brstm"
+    type: battle
+  - id: frank_west_dead_rising
+    title: "Frank West -Dead Rising-"
+    path: "Frank West -Dead Rising-.brstm"
+    type: warning
+  - id: good_luck_original
+    title: "Good Luck -Original-"
+    path: "Good Luck -Original-.brstm"
+    type: result
+  - id: hsien_ko_stage_darkstalkers
+    title: "Hsien-Ko Stage (China) -Darkstalkers-"
+    path: "Hsien-Ko Stage (China) -Darkstalkers-.brstm"
+    type: betting
+  - id: jin_kazama_tekken_3
+    title: "Jin Kazama -Tekken 3-"
+    path: "Jin Kazama -Tekken 3-.brstm"
+    type: battle
+  - id: kami_to_hito_to_god_eater
+    title: "Kami to Hito to -God Eater-"
+    path: "Kami to Hito to -God Eater-.brstm"
+    type: break
+  - id: main_theme_sakura_wars
+    title: "Main Theme -Sakura Wars-"
+    path: "Main Theme -Sakura Wars-.brstm"
+    type: betting
+  - id: morrigan_stage_darkstalkers
+    title: "Morrigan Stage (Scotland) -Darkstalkers-"
+    path: "Morrigan Stage (Scotland) -Darkstalkers-.brstm"
+    type: betting
+  - id: opening_stage_x_mega_man_x4
+    title: "Opening Stage X -Mega Man X4-"
+    path: "Opening Stage X -Mega Man X4-.brstm"
+    type: betting
+  - id: over_the_clouds_god_eater
+    title: "Over the Clouds -God Eater-"
+    path: "Over the Clouds -God Eater-.brstm"
+    type: betting
+  - id: ride_the_tiger_virtua_fighter_2
+    title: "Ride The Tiger -Virtua Fighter 2-"
+    path: "Ride The Tiger -Virtua Fighter 2-.brstm"
+    type: betting
+  - id: rocks_super_robot_wars_original_generations
+    title: "ROCKS -Super Robot Wars Original Generations-"
+    path: "ROCKS -Super Robot Wars Original Generations-.brstm"
+    type: betting
   - id: super_8_theme_cyberbots
     title: "SUPER 8 Theme -Cyberbots-"
     path: "SUPER 8 Theme -Cyberbots-.brstm"
     type: warning
+  - id: theme_of_ryu_street_fighter_ii
+    title: "Theme of Ryu -Street Fighter II-"
+    path: "Theme of Ryu -Street Fighter II-.brstm"
+    type: betting
+  - id: ultra_violet_devil_may_cry
+    title: "Ultra Violet -Devil May Cry-"
+    path: "Ultra Violet -Devil May Cry-.brstm"
+    type: battle
+  - id: volcanic_rim_stage_street_fighter_iv
+    title: "Volcanic Rim Stage -Street Fighter IV-"
+    path: "Volcanic Rim Stage -Street Fighter IV-.brstm"
+    type: battle
+  - id: we_will_protect_our_school_rival_schools
+    title: "We Will Protect Our School! -Rival Schools-"
+    path: "We Will Protect Our School! -Rival Schools-.brstm"
+    type: betting
+  - id: zero_mega_man_x
+    title: "Zero -Mega Man X-"
+    path: "Zero -Mega Man X-.brstm"
+    type: betting
+...

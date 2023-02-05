@@ -28,11 +28,11 @@ songs:
   - id: drum_and_tambourines
     title: "Drum and Tambourines"
     path: "Drum and Tambourines.minigsf"
-    type: betting
+    type: battle
   - id: fighting_for_fun
     title: "Fighting for Fun"
     path: "Fighting for Fun.minigsf"
-    type: warning
+    type: betting
   - id: fighting_mercenary_tao
     title: "Fighting Mercenary Tao"
     path: "Fighting Mercenary Tao.minigsf"
@@ -44,7 +44,7 @@ songs:
   - id: i_ll_get_them_back_for_sure
     title: "I'll Get Them Back for Sure!"
     path: "I'll Get Them Back for Sure!.minigsf"
-    type: betting
+    type: warning
   - id: in_search_of_the_dragon_balls
     title: "In Search of the Dragon Balls"
     path: "In Search of the Dragon Balls.minigsf"
@@ -56,7 +56,8 @@ songs:
   - id: looking_forward_to_the_next_adventure_jp
     title: "Looking Forward to the Next Adventure (Japanese)"
     path: "Looking Forward to the Next Adventure (Japanese).minigsf"
-    type: result
+    ends: 1:53
+    type: betting
   - id: looking_forward_to_the_next_adventure
     title: "Looking Forward to the Next Adventure"
     path: "Looking Forward to the Next Adventure.minigsf"
@@ -72,7 +73,7 @@ songs:
   - id: okay_then_begin_the_final_match_jp
     title: "Okay then, Begin the Final Match! (Japanese)"
     path: "Okay then, Begin the Final Match! (Japanese).minigsf"
-    type: battle
+    type: warning
   - id: once_upon_a_time_deep_in_the_mountains
     title: "Once Upon a Time, Deep in the Mountains..."
     path: "Once Upon a Time, Deep in the Mountains....minigsf"
@@ -84,7 +85,7 @@ songs:
   - id: rescuing_the_major
     title: "Rescuing the Major"
     path: "Rescuing the Major.minigsf"
-    type: betting
+    type: warning
   - id: struggle_between_arch_enemies
     title: "Struggle Between Arch Enemies"
     path: "Struggle Between Arch Enemies.minigsf"

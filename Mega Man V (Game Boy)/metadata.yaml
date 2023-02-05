@@ -6,25 +6,97 @@ year: 1994
 songs:
   - id: mars_stage
     title: "Mars Stage"
-    path: "Mars Stage.brstm"
+    path: "09 Mars' Stage.vgz"
     type: betting
   - id: jupiter_stage
     title: "Jupiter Stage"
-    path: "Jupiter Stage.brstm"
-    type: result
+    path: "19 Jupiter's Stage.vgz"
+    type: betting
   - id: stage_select_mmv
     title: "Stage Select"
-    path: "Stage Select.brstm"
+    path: "07 Stage Select.vgz"
     type: warning
+  - id: intro_1_mmv
+    title: "Intro 1"
+    path: "01 Cutscene 1 (Intro 1).vgz"
+    type: break
   - id: terra_mmv
-    title: "Terra"
-    path: "Terra.brstm"
+    title: "Terra's Theme"
+    path: "02 Cutscene 2 (Intro 2, Terra's Theme).vgz"
     type: warning
   - id: stardoid_fight
     title: "Stardoid Fight"
-    path: "Stardroid Fight.brstm"
+    path: "13 Boss Battle.vgz"
     type: warning
   - id: sunstar
     title: "SunStar"
-    path: "SunStar.brstm"
+    path: "24 Sunstar Fight.vgz"
     type: warning
+  - id: cutscene_3_mmv
+    title: "Cutscene 3 (Dr. Wily's Space Station).vgz"
+    path: "03 Cutscene 3 (Intro 3, Dr. Wily's Space Station, Sunstar Cutscene).vgz"
+    type: warning
+  - id: title_screen_mmv
+    title: "Title Screen"
+    path: "04 Title Screen.vgz"
+    type: result
+  - id: password_mmv
+    title: "Password Screen"
+    path: "05 Password Screen.vgz"
+    type: warning
+  - id: neptune_mmv
+    title: "Neptune Stage"
+    path: "11 Neptune's Stage.vgz"
+    type: betting
+  - id: venus_mmv
+    title: "Venus Stage"
+    path: "12 Venus's Stage.vgz"
+    type: betting
+  - id: weapon_get_mmv
+    title: "Weapon Get"
+    path: "15 Weapon Get.vgz"
+    type: result
+  - id: lights_shop_mmv
+    title: "Dr Light's Shop"
+    path: "16 Dr Light's Shop.vgz"
+    type: result
+  - id: wily_star_mmv
+    title: "Wily Star Stage"
+    path: "17 Dark Moon Cutscene & Wily Star Stage.vgz"
+    type: warning
+  - id: cutscene_4_mmv
+    title: "Flight Cutscene"
+    path: "18 Cutscene 4 (Flight Cutscene).vgz"
+    type: warning
+  - id: pluto_mmv
+    title: "Pluto Stage"
+    path: "20 Pluto's Stage.vgz"
+    type: betting
+  - id: saturn_mmv
+    title: "Saturn Stage"
+    path: "21 Saturn's Stage.vgz"
+    type: betting
+  - id: uranus_mmv
+    title: "Uranus Stage"
+    path: "22 Uranus' Stage.vgz"
+    type: betting
+  - id: mercury_mmv
+    title: "Mercury's Stage"
+    path: "10 Mercury's Stage.vgz"
+    type: betting
+  - id: shooting_stage_mmv
+    title: "Shooting Stage"
+    path: "23 Shooting Stage.vgz"
+    type: betting
+  - id: unused_1_mmv
+    title: "Unused 1"
+    path: "28 Unused 1.vgz"
+    type: warning
+  - id: unused_2_mmv
+    title: "Unused 2"
+    path: "29 Unused 2.vgz"
+    type: warning
+  - id: unused_3_mmv
+    title: "Unused 3"
+    path: "30 Unused 3.vgz"
+    type: betting

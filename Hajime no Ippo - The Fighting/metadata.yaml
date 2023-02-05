@@ -1,0 +1,38 @@
+id: hajime_no_ippo_the_fighting
+title: "Hajime no Ippo: The Fighting!"
+platform: "GBA"
+year: 2002
+songs: 
+  - id: title_screen_ippo
+    title: "Title Screen"
+    path: "01. Title Screen.minigsf"
+    type: result
+  - id: vs_customization_settings
+    title: "VS, Customization, Settings"
+    path: "03. VS, Customization, Settings.minigsf"
+    type: betting
+  - id: sparring_setup
+    title: "Sparring Setup"
+    path: "04. Sparring Setup.minigsf"
+    type: warning
+  - id: makunochi_ippo
+    title: "Makunochi Ippo"
+    path: "07. Makunochi Ippo.minigsf"
+    type: betting
+  - id: volg_zangief
+    title: "Volg Zangief"
+    path: "09. Volg Zangief.minigsf"
+    type: betting
+  - id: intermission_ippo
+    title: "Intermission"
+    path: "17. Intermission.minigsf"
+    type: break
+  - id: title_screen_alt_ippo
+    title: "Title Screen (Alt)"
+    path: "24. Title Screen (Alt).minigsf"
+    type: betting
+  - id: unknown_ippo
+    title: "Unknown"
+    path: "25. Unknown.minigsf"
+    type: betting
+...

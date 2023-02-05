@@ -1,0 +1,51 @@
+---
+id: get
+title: "Get!"
+platform: "PC-98"
+year: 1996
+songs: 
+  - id: feel_so_good
+    title: "Feel So Good!"
+    path: "01 Feel So Good!.vgz"
+    type: result
+  - id: mages_of_a_calming_breeze
+    title: "Mages of a Calming Breeze"
+    path: "02 Mages of a Calming Breeze.vgz"
+    type: betting
+  - id: painful_heartbeat
+    title: "Painful Heartbeat"
+    path: "05 Painful Heartbeat.vgz"
+    type: warning
+  - id: madness_taking_over
+    title: "Madness Taking Over"
+    path: "06 Madness Taking Over.vgz"
+    type: warning
+  - id: bond_get
+    title: "Bond"
+    path: "07 Bond.vgz"
+    type: break
+  - id: get_get
+    title: "Get!"
+    path: "08 Get!.vgz"
+    type: betting
+  - id: warmth_get
+    title: "Warmth"
+    path: "09 Warmth.vgz"
+    type: break
+  - id: peaceful_afternoon
+    title: "Peaceful Afternoon"
+    path: "10 Peaceful Afternoon.vgz"
+    type: break
+  - id: omohide
+    title: "Omohide"
+    path: "11 Omohide.vgz"
+    type: break
+  - id: sunshine_smile
+    title: "Sunshine - Smile"
+    path: "13 Sunshine - Smile.vgz"
+    type: betting
+  - id: the_theme_of_lament_and_jealosy
+    title: "The Theme of Lament and Jealousy"
+    path: "14 The Theme of Lament and Jealousy.vgz"
+    type: warning
+...

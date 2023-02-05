@@ -4,11 +4,28 @@ series: megaman
 platform: "GB"
 year: 1992
 songs:
+  - id: title_screen_mmiii
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: password_mmiii
+    title: "Password"
+    path: "02 Password.vgz"
+    type: warning
+  - id: wily_castle_stage_mmiii
+    title: "Wily Castle Stage"
+    path: "13 Wily Castle Stage.vgz"
+    type: warning
   - id: theme_of_punk
     title: "Theme of Punk"
-    path: "18 Punk's Theme.m3u"
+    path: "19 Punk.vgz"
     type: warning
-  - id: wily_stages_mmiii
-    title: "Wily Stages"
-    path: "12 Dr.Wily's Stage 1 & 2.m3u"
-    type: warning
+  - id: wily_station_mmiii
+    title: "Wily Station Stage"
+    path: "20 Wily Station Stage.vgz"
+    type: betting
+  - id: ending_mmiii
+    title: "Ending"
+    path: "22 Ending.vgz"
+    type: betting
+...

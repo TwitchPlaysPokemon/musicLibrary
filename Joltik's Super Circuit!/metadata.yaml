@@ -1,0 +1,20 @@
+---
+id: joltiks_super_circuit 
+title: "Joltik's Super Circuit!"
+series: pokemon
+platform: "PC"
+year: 2014
+songs:
+  - id: main_theme_jsc
+    title: "Main Theme"
+    path: "1_mainBgm.brstm"
+    type: betting
+  - id: fever_jsc
+    title: "Fever!"
+    path: "2_feverBgm.brstm"
+    type: warning
+  # - id: results_jfc #not present in the files
+    # title: "Results"
+    # path: "3_resultBgm.brstm"
+    # type: result
+...

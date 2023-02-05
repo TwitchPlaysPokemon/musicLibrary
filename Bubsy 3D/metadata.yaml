@@ -7,10 +7,30 @@ platform: "PS1"
 songs:
   - id: claws_for_alarm
     title: "Claws For Alarm"
-    path: "Claws For Alarm.brstm"
+    path: "01. Claws For Alarm.psf"
     type: betting
   - id: the_final_stretch_bubsy3d
     title: "The Final Stretch"
-    path: "The Final Stretch.brstm"
+    path: "16. The Final Stretch.psf"
     type: warning
+  - id: zzzotz_nice
+    title: "Zzzotz Nice"
+    path: "10. Zzzotz Nice.psf"
+    type: betting
+  - id: mortal_bobkat
+    title: "Mortal Bobkat"
+    path: "18. Mortal Bobkat.psf"
+    type: warning
+  - id: bonus_level_bubsy3d
+    title: "Bonus Level"
+    path: "19. Bonus Level.psf"
+    type: warning
+  - id: escape_from_wool_a
+    title: "Escape from WooL.A"
+    path: "15. Escape from WooL.A.psf"
+    type: betting
+  - id: daze_of_thunder
+    title: "Daze of Thunder"
+    path: "11. Daze of Thunder.psf"
+    type: battle
 ...

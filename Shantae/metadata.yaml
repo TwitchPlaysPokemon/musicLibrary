@@ -6,18 +6,50 @@ year: 2002
 songs: 
   - id: file_menu_shantae
     title: "File Menu"
-    path: "File Select Menu.brstm"
+    path: "02 File Menu.vgz"
     type: warning
   - id: boss_shantae
     title: "Boss"
-    path: "Genie in a Battle! [Boss Battle].brstm"
+    path: "16 Boss.vgz"
+    type: warning
+  - id: conversation_shantae
+    title: "Conversation"
+    path: "12 Conversation.vgz"
     type: warning
   - id: mini_game_shantae
     title: "Mini-Game"
-    path: "Rottytops Race & Gecko Chamber [Minigame].brstm"
+    path: "21 Minigame.vgz"
     type: result
   - id: burning_town_shantae
     title: "Burning Town"
-    path: "Scuttle Town Ablaze! (Intro Stage).brstm"
+    path: "03 Burning Town.vgz"
+    type: betting
+  - id: scuttle_town_shantae
+    title: "Scuttle Town"
+    path: "06 Scuttle Town.vgz"
+    type: betting
+  - id: game_over_shantae
+    title: "Game Over"
+    path: "30 Game Over.vgz"
+    type: result
+  - id: flashback_shantae
+    title: "Flashback"
+    path: "05 Flashback.vgz"
+    type: break
+  - id: tinkertank_battle
+    title: "Tinkertank Battle"
+    path: "32 Tinkertank Battle.vgz"
+    type: battle
+  - id: risky_boots_battle_shantae
+    title: "Risky Boots Battle"
+    path: "31 Risky Boots Battle.vgz"
+    type: battle
+  - id: credits_shantae
+    title: "Credits"
+    path: "35 Credits.vgz"
+    type: betting
+  - id: night_travel_2
+    title: "Night Travel 2"
+    path: "27 Night Travel 2.vgz"
     type: betting
 ...

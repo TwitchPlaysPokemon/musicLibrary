@@ -1,0 +1,27 @@
+---
+id: the_beverly_hilbillies
+title: "The Beverly Hillbillies"
+platform: "PC"
+year: 1993
+songs: 
+  - id: the_ballad_of_jed_clampett
+    title: "The Ballad of Jed Clampett"
+    path: "01 The Ballad of Jed Clampett.vgz"
+    type: result
+  - id: the_ozark_mountains
+    title: "The Ozark Mountains"
+    path: "02 The Ozark Mountains.vgz"
+    type: break
+  - id: the_highway_to_la
+    title: "The Highway to LA"
+    path: "03 The Highway to LA.vgz"
+    type: break
+  - id: welcome_to_beverly_hills
+    title: "Welcome To Beverly Hills"
+    path: "04 Welcome To Beverly Hills.vgz"
+    type: warning
+  - id: let_s_have_a_hoedown
+    title: "Let's Have A Hoedown"
+    path: "05 Let's Have A Hoedown.vgz"
+    type: result
+...

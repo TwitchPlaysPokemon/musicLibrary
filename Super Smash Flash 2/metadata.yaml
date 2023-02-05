@@ -1,6 +1,7 @@
 ---
 id: super_smash_flash_2
 title: "Super Smash Flash 2"
+series: smash
 platform: "PC"
 year: 2007
 is_fanwork: true
@@ -52,5 +53,48 @@ songs:
   - id: sacred_moon
     title: "Sacred Moon"
     path: "11 Sacred Moon (Kingdom Hearts II).brstm"
+    type: betting
+#new ones. Tried to scope from official ones where I could. If any of them don't seem quality,
+#feel free to remove them. I stitched them together, and sometimes it's hard to find good rips
+#or loop points.
+  - id: casino_night_zone_ssf2
+    title: "Casino Night Zone"
+    path: "Casino Night Zone.brstm"
+    type: betting
+  - id: casino_park_zone_ssf2
+    title: "Casino Park Zone"
+    path: "Casino Park.brstm"
+    type: betting
+  - id: chibi_robo_main_theme_ssf2
+    title: "Chibi-Robo Main Theme"
+    path: "Chibi-Robo Main Theme.brstm"
+    type: result
+  - id: team_rocket_hideout_ssf2
+    title: "Team Rocket Hideout"
+    path: "Team Rocket Hideout.brstm"
+    type: betting
+  - id: vs_ridley_ssf2
+    title: "Vs. Ridley"
+    path: "Vs. Ridley.brstm"
+    type: battle
+  - id: on_the_precipice_of_defeat_ssf2
+    title: "On the Precipice of Defeat"
+    path: "On the Precipice of Defeat.brstm"
+    type: betting
+  - id: wind_ssf2
+    title: "Wind"
+    path: "Wind.brstm"
+    type: break
+  - id: cha_la_head_cha_la_ssf2
+    title: "CHA-LA HEAD-CHA-LA"
+    path: "CHA-LA HEAD-CHA-LA.brstm"
+    type: betting
+  - id: polygon_zone_ssf2
+    title: "Polygon Zone"
+    path: "Polygon Zone.brstm"
+    type: betting
+  - id: bleach_medley_ssf2
+    title: "Bleach Medley"
+    path: "Super Smash Flash 2 - Bleach Medley.brstm"
     type: betting
 ...

@@ -1,11 +1,31 @@
 ---
-id: pokemon_hiragana_katakana_kakachatta
-title: "Pokémon Hiragana Katakana Kakechatta"
+id: pocket_monsters_advanced_generation_hiragana_katakana_kakachatta
+title: "Pocket Monsters Advanced Generation: Hiragana Katakana Kakechatta!"
 platform: ["Pico"]
 year: 2003
 songs:
-  - id: advance_adventure
-    title: "Advance Adventure"
-    path: "picoPoke.brstm"
+  - id: title_screen_advance_adventure
+    title: "Title Screen (Advance Adventure)"
+    path: "01 Title Screen.vgz"
     type: betting
+  - id: page_2_rafting
+    title: "Page 2 - Rafting"
+    path: "03 Page 2 - Rafting.vgz"
+    type: warning
+  - id: page_3_latios_latias
+    title: "Page 3 - Latios & Latias"
+    path: "04 Page 3 - Latios & Latias.vgz"
+    type: result
+  - id: page_4_mt_chimney
+    title: "Page 4  - Mt. Chimney"
+    path: "05 Page 4  - Mt. Chimney.vgz"
+    type: warning
+  - id: drawing_game_slot_machine_game
+    title: "Drawing Game ~ Slot Machine Game"
+    path: "08 Drawing Game _ Slot Machine Game.vgz"
+    type: result
+  - id: try_again_pmaghkk
+    title: "Try Again"
+    path: "13 Try Again.vgz"
+    type: result
 ...

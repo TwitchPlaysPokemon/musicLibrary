@@ -6,58 +6,58 @@ year: 1994
 songs: 
   - id: act_10_the_sledge_race_gb_ver
     title: "Act 10 - The Sledge Race"
-    path: "Act 10 - The Sledge Race.brstm"
+    path: "13 The Sledge Race.vgz"
     type: warning
   - id: act_7_the_flight_on_a_stork_gb_ver
     title: "Act 7 - The Flight on a Stork"
-    path: "Act 7 - The Flight on a Stork.brstm"
+    path: "10 The Flight on a Stork.vgz"
     type: result
   - id: act_1_the_forest_act_11_the_cliff_gb_ver
     title: "Act 1 - The Forest / Act 11 - The Cliff"
-    path: "Act 1 - The Forest _ Act 11 - The Cliff.brstm"
+    path: "05 The Forest ~ The Cliff.vgz"
     type: break
   - id: act_2_the_river_smurf_gb_ver
     title: "Act 2 - The River Smurf"
-    path: "Act 2 - The River Smurf.brstm"
+    path: "06 The River Smurf.vgz"
     type: betting
   - id: act_3_the_bridge_gb_ver
     title: "Act 3 - The Bridge"
-    path: "Act 3 - The Bridge.brstm"
+    path: "07 The Bridge.vgz"
     type: betting
   - id: act_4_the_swamps_act_12_gargamel_s_manor_house_gb_ver
     title: "Act 4 - The Swamps / Act 12 - Gargamel's Manor House"
-    path: "Act 4 - The Swamps _ Act 12 - Gargamel's Manor House.brstm"
+    path: "14 The Swamps ~ Gargamel's Manor House.vgz"
     type: betting
   - id: act_5_the_sarsaparilla_fields_gb_ver
     title: "Act 5 - The Sarsaparilla Fields"
-    path: "Act 5 - The Sarsaparilla Fields.brstm"
+    path: "08 The Sarsaparilla Fields.vgz"
     type: betting
   - id: act_6_the_mountains_gb_ver
     title: "Act 6 - The Mountains"
-    path: "Act 6 - The Mountains.brstm"
+    path: "09 The Mountains.vgz"
     type: betting
   - id: act_8_the_old_gold_mine_gb_ver
     title: "Act 8 - The Old Gold Mine"
-    path: "Act 8 - The Old Gold Mine.brstm"
+    path: "11 The Old Gold Mine.vgz"
     type: result
   - id: act_9_inside_the_volcano_gb_ver
     title: "Act 9 - Inside the Volcano"
-    path: "Act 9 - Inside the Volcano.brstm"
+    path: "12 Inside the Volcano.vgz"
     type: betting
   - id: bonus_game_gb_ver
     title: "Bonus Game"
-    path: "Bonus Game.brstm"
+    path: "15 Bonus Stages.vgz"
     type: result
   - id: boss_gb_ver
     title: "Boss"
-    path: "Boss.brstm"
+    path: "16 Boss Battle.vgz"
     type: warning
   - id: game_over_gb_ver
     title: "Game Over"
-    path: "Game Over.brstm"
+    path: "01 Intro (Part 1) ~ Game Over.vgz"
     type: warning
   - id: title_screen_gb_ver
     title: "Title Screen"
-    path: "Title Screen.brstm"
+    path: "03 Title Screen.vgz"
     type: result
 ...

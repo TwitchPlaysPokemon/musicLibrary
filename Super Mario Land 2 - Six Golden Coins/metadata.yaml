@@ -5,56 +5,108 @@ series: mario
 platform: "GB"
 year: 1992
 songs:
-  - id: athletic_sml2
-    title: "Athletic"
-    path: "Athletic.brstm"
-    type: betting
+  - id: choose_your_pipe
+    title: "Choose Your Pipe"
+    path: "01 Choose Your Pipe.vgz"
+    type: warning
   - id: overworld_sml2
     title: "Overworld"
-    path: "Overworld.brstm"
+    path: "02 Overworld Map.vgz"
     type: betting
-  - id: wario_s_castle
-    title: "Wario's Castle"
-    path: "Wario's Castle.brstm"
+  - id: athletic_sml2
+    title: "Athletic"
+    path: "03 Athletic Theme.vgz"
     type: betting
-  - id: outside_warios_castle
-    title: "Outside Wario's Castle"
-    path: "Outside Wario's Castle.brstm"
+  - id: tree_zone_map
+    title: "Tree Zone Map"
+    path: "04 Tree Zone Map.vgz"
+    type: result
+  - id: treetop
+    title: "Treetop"
+    path: "05 Treetop.vgz"
+    type: betting
+  - id: turtle_zone_map
+    title: "Turtle Zone Map"
+    path: "07 Turtle Zone Map.vgz"
     type: warning
+  - id: maze_underwater
+    title: "Maze/Underwater"
+    path: "08 Seashore.vgz
+    type: betting
+  - id: mario_zone_map
+    title: "Mario Zone Map"
+    path: "09 Mario Zone Map.vgz
+    type: warning
+  - id: machine_sml2
+    title: "Machine"
+    path: "10 Machine.vgz
+    type: break
+  - id: macro_zone
+    title: "Macro Zone"
+    path: "11 Macro Zone Map.vgz"
+    type: result
+  - id: pumpkin_zone_map
+    title: "Pumpkin Zone Map"
+    path: "12 Pumpkin Zone Map.vgz"
+    type: warning
+  - id: graveyard_sml2
+    title: "Graveyard"
+    path: "13 Graveyard.vgz"
+    type: break
+  - id: haunted_house
+    title: "Haunted House"
+    path: "14 Haunted House.vgz"
+    type: break
+  - id: space_zone_map
+    title: "Space Zone Map"
+    path: "15 Space Zone Map.vgz"
+    type: warning
+  - id: moon_super_mario_land_2
+    title: "Moon"
+    path: "16 The Moon.vgz"
+    type: betting
   - id: star_course_space_zone
     title: "Star Course (Space Zone)"
-    path: "Star Maze.brstm"
+    path: "17 Star Maze.vgz"
+    type: betting
+  - id: game_over_sml2
+    title: "Game Over"
+    path: "19 Game Over.vgz"
+    type: result
+  - id: file_select_bonus_cave
+    title: "File Select & Bonus Cave"
+    path: "21 Bonus Chance.vgz"
+    type: result
+  - id: boss_battle_super_mario_land_2
+    title: "Boss Battle"
+    path: "24 Boss Battle.vgz"
+    type: warning
+  - id: world_clear_sml2
+    title: "World Clear"
+    path: "25 World Clear.vgz"
+    type: result
+  - id: outside_warios_castle
+    title: "Outside Wario's Castle"
+    path: "27 The Castle Gates.vgz"
+    type: warning
+  - id: wario_s_castle
+    title: "Wario's Castle"
+    path: "28 Wario's Castle.vgz"
     type: betting
   - id: wario_battle_1
     title: "Wario Battle 1"
-    path: "Wario Battle 1.brstm"
+    path: "29 Battle With Wario (Phase 1).vgz"
     type: warning
   - id: wario_battle_2
     title: "Wario Battle 2"
-    path: "Wario Battle 2.brstm"
+    path: "30 Battle With Wario (Phase 2).vgz"
     type: warning
-  - id: haunted_house
-    title: "Haunted House"
-    path: "Haunted House.brstm"
-    type: break
-  - id: boss_battle_super_mario_land_2
-    title: "Boss Battle"
-    path: "Boss Battle.brstm"
+  - id: wario_battle_3
+    title: "Wario Battle 3"
+    path: "31 Battle With Wario (Phase 3).vgz"
     type: warning
-  - id: file_select_bonus_cave
-    title: "File Select & Bonus Cave"
-    path: "File Select & Bonus Cave.brstm"
+  - id: staff_roll_sml2
+    title: "Staff Roll"
+    path: "33 Staff Roll.vgz"
     type: result
-  - id: macro_zone
-    title: "Macro Zone"
-    path: "Macro Zone.brstm"
-    type: result
-  - id: maze_underwater
-    title: "Maze/Underwater"
-    path: "Maze_Underwater.brstm"
-    type: betting
-  - id: moon_super_mario_land_2
-    title: "Moon"
-    path: "Moon.brstm"
-    type: betting
 ...

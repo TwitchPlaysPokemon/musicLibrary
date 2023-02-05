@@ -6,6 +6,18 @@ year: 2000
 songs: 
   - id: boss_fight_looney_tunes_marvin_strikes_back
     title: "Boss Fight"
-    path: "Boss Fight.brstm"
+    path: "04 Boss Battle - Tetrski.vgz"
     type: warning
+  - id: looney_tunes_intro_unused
+    title: "Looney Tunes Intro (Unused)"
+    path: "11 Looney Tunes Intro (Unused).vgz"
+    type: result
+  - id: island_looney_tunes_marvin_strikes_back
+    title: "Island"
+    path: "09 Island - Pursuit.vgz"
+    type: warning
+  - id: menu_looney_tunes_marvin_strikes_back
+    title: "Menu"
+    path: "01 Menu - Marvin's Theme.vgz"
+    type: betting
 ...

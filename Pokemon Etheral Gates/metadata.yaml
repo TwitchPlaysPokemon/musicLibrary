@@ -1,0 +1,113 @@
+---
+id: pokemon_etheral_gates
+title: "Pokémon Etheral Gates"
+series: pokemon
+platform: "PC"
+is_fanwork: true
+year: 2015
+songs:
+    - id: title_etheral_gates
+      title: "Title"
+      path: "Title.brstm"
+      type: result
+    - id: welcome_to_the_world
+      title: "Welcome To The World"
+      path: "Welcome To The World.brstm"
+      type: betting
+    - id: professor_hawthorne
+      title: "Professor Hawthorne"
+      path: "Professor Hawthorne.brstm"
+      type: break
+    - id: route_1_etheral_gates
+      title: "Route 1"
+      path: "Route 1.brstm"
+      type: betting
+    - id: route_3_etheral_gates
+      title: "Route 3"
+      path: "Route 3.brstm"
+      type: break
+    - id: gate_etheral_gates
+      title: "Gate"
+      path: "Gate.brstm"
+      type: break
+    - id: friends_etheral_gates
+      title: "Friends"
+      path: "Friends.brstm"
+      type: betting
+    - id: pokemon_center_etheral_gates
+      title: "Pokémon Center"
+      path: "Center.brstm"
+      type: betting
+    - id: pokemart_etheral_gates
+      title: "Pokémart"
+      path: "Mart.brstm"
+      type: break
+    - id: auklet_town
+      title: "Auklet Town"
+      path: "Auklet Town.brstm"
+      type: betting
+    - id: auklet_library
+      title: "Auklet Library"
+      path: "Auklet Library.brstm"
+      type: warning
+    - id: corella_town
+      title: "Corella Town"
+      path: "Corella Town.brstm"
+      type: betting
+    - id: avocet_city
+      title: "Avocet City"
+      path: "Avocet City.brstm"
+      type: betting
+    - id: avocet_city_gym
+      title: "Avocet City Gym"
+      path: "Avocet City Gym.brstm"
+      type: betting
+    - id: longspur_city
+      title: "Longspur City"
+      path: "Longspur City.brstm"
+      type: betting
+    - id: longspur_city_gym
+      title: "Longspur City Gym"
+      path: "Longspur City Gym.brstm"
+      type: betting
+    - id: evolution_etheral_gates
+      title: "Evolution!"
+      path: "Evolution!.brstm"
+      type: warning
+    - id: team_mythos_appears
+      title: "Team Mythos Appears!"
+      path: "Team Mythos Appears!.brstm"
+      type: warning
+    - id: battle_wild_pokemon_etheral
+      title: "Battle! (Wild Pokémon)"
+      path: "Battle! (Wild).brstm"
+      type: battle
+    - id: battle_trainer_etheral
+      title: "Battle! (Trainer)"
+      path: "Battle! (Trainer).brstm"
+      type: battle
+    - id: battle_mythos_grunt
+      title: "Battle! (Mythos Grunt)"
+      path: "Battle! (Mythos Grunts).brstm"
+      type: battle
+    - id: battle_rival_etheral
+      title: "Battle! (Rival)"
+      path: "Battle! (Rival).brstm"
+      type: battle
+    - id: battle_gym_leader_etheral
+      title: "Battle! (Gym Leader)"
+      path: "Battle! (Gym Leader).brstm"
+      type: battle
+    - id: victory_trainer_etheral
+      title: "Victory! (Trainer)"
+      path: "Victory! (Trainer).brstm"
+      type: result
+    - id: victory_gym_leader_etheral
+      title: "Victory! (Gym Leader)"
+      path: "Victory! (Gym Leader).brstm"
+      type: result
+    - id: victory_wild_pokemon_etheral
+      title: "Victory! (Wild Pokémon)"
+      path: "Victory! (Wild).brstm"
+      type: result
+...

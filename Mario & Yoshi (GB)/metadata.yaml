@@ -6,27 +6,31 @@ platform: ["NES", "GB"]
 year: 1991
 songs: 
   - id: fire_flower_yoshi_gb
-    path: "Fire Flower.brstm"
     title: "Fire Flower"
+    path: "03 Fire Flower (Music B).vgz"
     type: break
   - id: star_yoshi_gb
-    path: "Star.brstm"
     title: "Star"
+    path: "04 Starman (Music C).vgz"
     type: result
-  - id: 2p_set_over_yoshi_gb
-    path: "2-Player Set Over.brstm"
-    title: "2-Player Set Over"
+  - id: 2p_battle_mode_yoshi_gb
+    title: "2P Battle Mode"
+    path: "09 2P Battle Mode.vgz"
     type: betting
   - id: title_yoshi_gb
-    path: "Title.brstm"
     title: "Title"
+    path: "01 Title Theme.vgz"
     type: result
   - id: mushroom_yoshi_gb
-    path: "Mushroom.brstm"
     title: "Mushroom"
+    path: "02 Mushroom (Music A).vgz"
     type: result
-  - id: 2p_battle_yoshi_gb
-    path: "2P Battle.brstm"
-    title: "2P Battle"
+  - id: 2p_game_over_yoshi_gb
+    title: "2P Battle Game Over"
+    path: "11 2P Game Over.vgz"
+    type: result
+  - id: 2p_game_setup_yoshi_gb
+    title: "2P Battle Game Setup"
+    path: "08 2P Game Setup.vgz"
     type: result
 ...

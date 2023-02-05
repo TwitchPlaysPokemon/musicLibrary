@@ -1,0 +1,11 @@
+id: mega_man_ii
+title: "Mega Man II"
+series: megaman
+platform: "GB"
+year: 1991
+songs:
+  - id: wily_station_mmii
+    title: "Wily Station"
+    path: "14 Wily Station.vgz"
+    type: warning
+...

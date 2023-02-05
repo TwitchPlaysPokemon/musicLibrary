@@ -1,0 +1,15 @@
+---
+id: frogger_2
+title: "Frogger 2"
+platform: "360"
+year: 2008
+songs: 
+  - id: bgm_04_frogger_2
+    title: "BGM 04"
+    path: "BGM_04.xma"
+    type: result
+  - id: bgm_09_frogger_2
+    title: "BGM 09"
+    path: "BGM_09.xma"
+    type: warning
+...

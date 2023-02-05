@@ -7,26 +7,26 @@ year: 1991
 songs:
   - id: starman_music_c_yoshi_nes
     title: "Starman (Music C)"
-    path: "Starman (Music C).brstm"
+    path: "04 Starman (Music C).vgz"
     type: result
   - id: mushroom_music_a_yoshi_nes
     title: "Mushroom (Music A)"
-    path: "Mushroom (Music A).brstm"
+    path: "02 Mushroom (Music A).vgz"
     type: result
   - id: fire_flower_music_b_yoshi_nes
     title: "Fire Flower (Music B)"
-    path: "Fire Flower (Music B).brstm"
+    path: "03 Fire Flower (Music B).vgz"
     type: break
   - id: title_theme_yoshi_nes
     title: "Title Theme"
-    path: "Title Theme (Looped).brstm"
+    path: "01 Title Theme.vgz"
     type: result
   - id: 2p_battle_mode_yoshi_nes
     title: "2P Battle Mode"
-    path: "2P Battle Mode.brstm"
+    path: "09 2P Battle Mode.vgz"
     type: result
   - id: 2p_game_over_yoshi_nes
     title: "2P Game Over"
-    path: "2P Game Over.brstm"
+    path: "12 2P Game Over.vgz"
     type: result
 ...

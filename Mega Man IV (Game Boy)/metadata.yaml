@@ -13,8 +13,64 @@ songs:
     title: "Ballade Battle - Escape"
     path: "22 Ballade Battle - Escape.vgz"
     type: warning
-  - id: final_battle_mega_man_iv
+  - id: final_battle_mmiv
     title: "Final Battle"
     path: "26 Final Battle.vgz"
     type: battle
+  - id: title_opening_mmmiv
+    title: "Title - Opening"
+    path: "01 Title - Opening.vgz"
+    type: betting
+  - id: password_mmmiv
+    title: "Password"
+    path: "02 Password.vgz"
+    type: warning
+  - id: lights_lab_1_mmmiv
+    title: "Dr. Light Lab 1"
+    path: "03 Dr. Light Lab 1.vgz"
+    type: result
+  - id: stage_select_1_mmmiv
+    title: "Stage Select 1"
+    path: "04 Stage Select 1.vgz"
+    type: warning
+  - id: boss_battle_mm4_mmmiv
+    title: "Boss Battle (Mega Man 4)"
+    path: "10 Boss Battle (Mega Man 4).vgz"
+    type: warning
+  - id: get_beat_mmmiv
+    title: "Get Beat"
+    path: "13 Get Beat.vgz"
+    type: result
+  - id: lights_lab_2_mmmiv
+    title: "Dr. Light Lab 2"
+    path: "14 Dr. Light Lab 2.vgz"
+    type: result
+  - id: wily_station_mmmiv
+    title: "Wily Station"
+    path: "15 Wily Station.vgz"
+    type: warning
+  - id: stage_select_2_mmmiv
+    title: "Stage Select 2"
+    path: "16 Stage Select 2.vgz"
+    type: warning
+  - id: wily_robo_iron_golem
+    title: "Wily Robo Iron Golem"
+    path: "25 Wily Robo Iron Golem.brstm"
+    type: warning
+  - id: ending_1_mmiv
+    title: "Ending 1"
+    path: "28 Ending 1.vgz"
+    type: result
+  - id: wily_station_unused_mmiv
+    title: "Wily Station (unused variant)"
+    path: "32 Wily Station (unused variant).vgz"
+    type: warning
+  - id: get_beat_unused
+    title: "Get Beat (unused variant)"
+    path: "34 Get Beat (unused variant).vgz"
+    type: result
+  - id: lights_lab_unused
+    title: "Dr. Light Lab (unused variant)"
+    path: "35 Dr. Light Lab (unused variant).vgz"
+    type: result
 ...

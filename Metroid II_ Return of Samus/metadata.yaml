@@ -6,5 +6,10 @@ year: 1991
 songs:
   - id: main_theme_metroid_ii
     title: "Main Theme"
-    path: "Main Theme.brstm"
+    path: "03 Main theme.vgz"
     type: betting
+  - id: metroid_queen_fight
+    title: "Metroid Queen Fight"
+    path: "17 Metroid Queen fight.vgz"
+    type: warning
+...
