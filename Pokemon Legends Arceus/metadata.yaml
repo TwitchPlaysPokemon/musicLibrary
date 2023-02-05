@@ -158,4 +158,145 @@ songs:
     title: "Staff Credits"
     path: "PLAY_BGM_HA_SYS_ENDING.txtp"
     type: betting
+  - id: volo_s_betrayal
+    title: "Volo's Betrayal"
+    path: "PLAY_BGM_HA_EV_MAIN_100800.txtp"
+    type: warning
+  - id: lake_pla
+    title: "Lake"
+    path: "PLAY_BGM_HA_FI_AREA01_R11 (BGM_MAP_JUMP=MAP_JUMP_BGM_END)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
+    type: betting
+  - id: cogita_s_retreat
+    title: "Cogita's Retreat"
+    path: "PLAY_BGM_HA_FI_AREA06.txtp"
+    type: betting
+  - id: noble_pokemon_s_domain
+    title: "Noble Pokémon's Domain"
+    path: "PLAY_BGM_HA_FI_CMN_BOSS_AREA (BGM_MAP_JUMP=MAP_JUMP_BGM_END)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
+    type: break
+  - id: wayward_cave_pla
+    title: "Wayward Cave"
+    path: "PLAY_BGM_HA_FI_CMN_D (BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
+    type: betting
+  - id: lake_cavern_pla
+    title: "Lake Cavern"
+    path: "PLAY_BGM_HA_FI_CMN_LAKE_D (BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
+    type: betting
+  - id: coronet_highlands_summit
+    title: "Coronet Highlands - Summit"
+    path: "PLAY_BGM_HA_FI_CMN_NATURAL_DISASTER (BGM_SP_WEATHER_SILENCE=SP_WEATHER_SILENCE_OFF)(1629276573=1738554060)(BGM_SPECIAL_WEATHER_AREA=SPECIAL_WEATHER_AREA_IN)(1065853830=122023943)(3439184216=754360881).txtp"
+    ends: 2:50
+    type: betting
+  - id: night_pla
+    title: "Night"
+    path: "PLAY_BGM_HA_FI_CMN_NIGHT (BGM_AREA_FIELD_SILENCE=FIELD_SILENCE_OFF)(BGM_TIME=BGM_NIGHT).txtp"
+    type: betting
+  - id: late_night_pla
+    title: "Late Night"
+    path: "PLAY_BGM_HA_FI_CMN_NIGHT_LATE (BGM_AREA_FIELD_SILENCE=FIELD_SILENCE_OFF)(BGM_TIME=BGM_NIGHT_LATE).txtp"
+    type: betting
+  - id: diamond_settlement_pearl_settlement
+    title: "Diamond Settlement/Pearl Settlement"
+    path: "PLAY_BGM_HA_FI_CMN_VILLAGE (BGM_FIELD_AREA=BGM_FIELD_AREA_IN)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
+    type: betting
+  - id: survey_results_day
+    title: "Survey Results (Day)"
+    path: "PLAY_BGM_HA_SYS_RESULT (TIME_CLOCK=TIME_CLOCK_19).txtp"
+    type: result
+  - id: survey_results_night
+    title: "Survey Results (Night)"
+    path: "PLAY_BGM_HA_SYS_RESULT (TIME_CLOCK=TIME_CLOCK_22).txtp"
+    type: result
+  - id: battle_legendary_pokemon_phase_1
+    title: "Battle! (Legendary Pokémon) - Phase 1"
+    path: "PLAY_BGM_VS_BOSS_MID (BGM_CAUTION_BOSS_MID_AREA=BGM_BOSS_MID_AREA_OUT)(BGM_CAUTION_BOSS_MID=CAUTION_BOSS_MID_ON)(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF) {s}.txtp"
+    type: battle
+  - id: battle_legendary_pokemon_phase_2
+    title: "Battle! (Legendary Pokémon) - Phase 2"
+    path: "PLAY_BGM_VS_BOSS_MID (BGM_CAUTION_BOSS_MID_AREA=BGM_BOSS_MID_AREA_OUT)(BGM_CAUTION_BOSS_MID=CAUTION_BOSS_MID_ON)(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF) {s}=(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF).txtp"
+    type: battle
+  - id: professor_laventon_s_theme
+    title: "Professor Laventon's Theme"
+    path: "BGM-1164-event.txtp"
+    type: result
+  - id: epilogue_pla
+    title: "Epilogue"
+    path: "BGM-1236-event.txtp"
+    type: result
+  - id: the_heartwood
+    title: "The Heartwood"
+    path: "BGM-1604-event (BGM_MAP_JUMP=MAP_JUMP_BGM_END)(584621650=3006860229)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
+    type: betting
+  - id: firespit_island
+    title: "Firespit Island"
+    path: "BGM-1862-event (BGM_MAP_JUMP=MAP_JUMP_BGM_START).txtp"
+    type: betting
+  - id: palina_s_theme
+    title: "Palina's Theme"
+    path: "BGM-1883-event.txtp"
+    type: result
+  - id: palina_s_theme_version_2
+    title: "Palina's Theme (Version 2)"
+    path: "PLAY_BGM_HA_EV_MAIN_045230_02.txtp"
+    type: result
+  - id: hall_of_origin_pla
+    title: "Hall of Origin"
+    path: "BGM-2265-event.txtp"
+    type: break
+  - id: temple_of_sinnoh
+    title: "Temple of Sinnoh"
+    path: "BGM-2303-event (BGM_MAP_JUMP=MAP_JUMP_BGM_END)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
+    type: betting
+  - id: clefairy_dance
+    title: "Clefairy Dance"
+    path: "BGM-2502-event.txtp"
+    type: result
+  - id: trouble_pla
+    title: "Trouble!"
+    path: "PLAY_BGM_HA_EV_BANDIT_FIND.txtp"
+    type: warning
+  - id: irida_s_theme
+    title: "Irida's Theme"
+    path: "PLAY_BGM_HA_EV_CMN_01.txtp"
+    type: betting
+  - id: noble_pokemon_defeated
+    title: "Noble Pokémon Defeated"
+    path: "PLAY_BGM_HA_EV_CMN_04.txtp"
+    type: result
+  - id: exiled_pla
+    title: "Exiled"
+    path: "PLAY_BGM_HA_EV_MAIN_070110 (BGM_EV_09=2550718177).txtp"
+    type: warning
+  - id: escorted_out_of_jubilife
+    title: "Escorted Out Of Jubilife"
+    path: "PLAY_BGM_HA_EV_MAIN_070110 (BGM_EV_09=298375329).txtp"
+    type: warning
+  - id: disaster_pla
+    title: "Disaster"
+    path: "PLAY_BGM_HA_FI_CMN_NATURAL_DISASTER (BGM_SP_WEATHER_SILENCE=SP_WEATHER_SILENCE_OFF)(1629276573=1738554060)(BGM_SPECIAL_WEATHER_AREA=SPECIAL_WEATHER_AREA_IN)(1065853830=2468287226)(3439184216=7543608~0077.txtp"
+    type: break
+  - id: disaster_battle
+    title: "Disaster - Battle"
+    path: "PLAY_BGM_HA_FI_CMN_NATURAL_DISASTER (BGM_SP_WEATHER_SILENCE=SP_WEATHER_SILENCE_OFF)(1629276573=1738554060)(BGM_SPECIAL_WEATHER_AREA=SPECIAL_WEATHER_AREA_IN)(1065853830=2468287226)(3439184216=7543608~0075.txtp"
+    type: warning
+  - id: disaster_spotted
+    title: "Disaster - Spotted"
+    path: "PLAY_BGM_HA_FI_CMN_NATURAL_DISASTER (BGM_SP_WEATHER_SILENCE=SP_WEATHER_SILENCE_OFF)(1629276573=1738554060)(BGM_SPECIAL_WEATHER_AREA=SPECIAL_WEATHER_AREA_IN)(1065853830=2468287226)(3439184216=7543608~0078.txtp"
+    type: warning
+  - id: space_time_distortion
+    title: "Space-Time Distortion"
+    path: "PLAY_BGM_HA_FI_CMN_WORMHOLE (BGM_WORMHOLE_MATERIALIZATION=WORMHOLE_MATERIALIZATION_START).txtp"
+    type: break
+  - id: snowpoint_temple
+    title: "Snowpoint Temple"
+    path: "BGM-1390-event (BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
+    type: break
+  - id: battle_arceus_phase_1
+    title: "Battle! (Arceus - Phase 1)"
+    path: "PLAY_BGM_VS_BOSS_04 (BGM_BOSS04_EVENT=BOSS04_EVENT_OUT)(BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_AP=VS_NUSHI_AP_MAX).txtp"
+    type: battle
+  - id: battle_arceus_final_phase
+    title: "Battle! (Arceus - Final Phase)"
+    path: "PLAY_BGM_VS_BOSS_04 (BGM_BOSS04_EVENT=BOSS04_EVENT_OUT)(BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_AP=VS_NUSHI_AP_10).txtp"
+    type: battle
 ...

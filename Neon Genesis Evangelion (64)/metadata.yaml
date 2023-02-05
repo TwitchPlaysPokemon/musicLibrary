@@ -3,11 +3,6 @@ title: "Neon Genesis Evangelion"
 year: 1999
 platform: "N64"
 songs:
-  - id: magamadiver
-    title: "MAGAMADIVER"
-    path: "MAGAMADIVER.brstm"
-    ends: 2:17
-    type: betting
   - id: komm_susser_tod
     title: "Komm, Süsser Tod"
     path: "01 Komm, Süsser Tod.miniusf"
@@ -17,40 +12,82 @@ songs:
     path: "02 Soul's Refrain.miniusf"
     ends: 2:24
     type: betting
-  - id: the_beast_ii
-    title: "The Beast II"
-    path: "19 The Beast II.miniusf"
-    type: warning
-  - id: a_step_forward_into_terror
-    title: "A Step Forward into Terror"
-    path: "09 A Step Forward into Terror.miniusf"
-    ends: 2:09
+  - id: thanatos_if_i_cant_be_yours
+    title: "THANATOS - If I can't be yours"
+    path: "03 THANATOS - If I can't be yours.miniusf"
+    ends: 2:03
     type: betting
   - id: cruel_angels_thesis
     title: "Cruel Angel's Thesis"
     path: "04 Cruel Angel's Thesis.miniusf"
     ends: 1:38
     type: betting
-  - id: thanatos_if_i_cant_be_yours
-    title: "THANATOS - If I can't be yours"
-    path: "03 THANATOS - If I can't be yours.miniusf"
-    ends: 2:03
-    type: betting
   - id: a_crytalline_night_sky
     title: "A Crystalline Night Sky"
     path: "05 A Crystalline Night Sky.miniusf"
     type: warning
+  - id: ii_air_orchestral_suite_no_3_in_d_major_bwv_1068
+    title: "II Air [ORCHESTRAL SUITE No.3 in D Major, BWV. 1068]"
+    path: "06 II Air [ORCHESTRAL SUITE No.3 in D Major, BWV. 1068].miniusf"
+    type: break
+  - id: angel_attack
+    title: "Angel Attack"
+    path: "08 Angel Attack.miniusf"
+    type: warning
+  - id: a_step_forward_into_terror
+    title: "A Step Forward into Terror"
+    path: "09 A Step Forward into Terror.miniusf"
+    type: betting
   - id: both_of_you_dance_like_you_want_to_win
     title: "Both of You, Dance Like You Want to Win!"
     path: "10 Both of You, Dance Like You Want to Win!.miniusf"
     type: result
-  - id: dont_make_others_suffer
+  - id: decisive_battle_evangelion_64
+    title: "Decisive Battle"
+    path: "11 Decisive Battle.miniusf"
+    type: battle
+  - id: eva_00
+    title: "EVA-00"
+    path: "12 EVA-00.miniusf"
+    type: warning
+  - id: false_resuscitation
+    title: "False, Resuscitation"
+    path: "13 False, Resuscitation.miniusf"
+    type: betting
+  - id: magmadiver
+    title: "Magmadiver"
+    path: "15 Magmadiver.miniusf"
+    type: betting
+  - id: marking_time_waiting_for_death_part_1
+    title: "Marking Time, Waiting for Death (part 1)"
+    path: "16 Marking Time, Waiting for Death (part 1).miniusf"
+    type: warning
+  - id: marking_time_waiting_for_death_part_2
+    title: "Marking Time, Waiting for Death (part 2)"
+    path: "17 Marking Time, Waiting for Death (part 2).miniusf"
+    type: warning
+  - id: nerv
+    title: "NERV"
+    path: "18 NERV.miniusf"
+    type: betting
+  - id: the_beast_ii
+    title: "The Beast II"
+    path: "19 The Beast II.miniusf"
+    type: warning
+  - id: she_said_dont_make_others_suffer_for_your_personal_hatred
     title: "She said, 'Don't make others suffer for your personal hatred'"
     path: "20 She said, 'Don't make others suffer for your personal hatred'.miniusf"
-    ends: 2:56
     type: betting
-  - id: halleluijah
+  - id: messiah_oratorio_halleluijah_chorus
     title: "Messiah oratorio, 'Halleluijah' chorus"
     path: "21 Messiah oratorio, 'Halleluijah' chorus.miniusf"
     type: result
+  - id: thanatos_evangelion_64
+    title: "THANATOS"
+    path: "22 THANATOS.miniusf"
+    type: result
+  - id: the_beast_evangelion_64
+    title: "The Beast"
+    path: "23 The Beast.miniusf"
+    type: warning
 ...

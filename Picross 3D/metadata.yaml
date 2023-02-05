@@ -5,5 +5,18 @@ year: 2009
 songs:
   - id: latin
     title: "Latin"
-    path: "Latin.brstm"
+    path: "0001 SEQ_PLAY01.mini2sf"
     type: break
+  - id: relax_picross_3d
+    title: "Relax"
+    path: "000D SEQ_PLAY02.mini2sf"
+    type: break
+  - id: title_screen
+    title: "Title Screen"
+    path: "0000 SEQ_P3DTITLE.mini2sf"
+    type: betting
+  - id: tutorial_picross_3d
+    title: "Tutorial"
+    path: "000C SEQ_TUTORIAL.mini2sf"
+    type: break
+...

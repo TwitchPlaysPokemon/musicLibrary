@@ -1,0 +1,70 @@
+---
+id: super_robot_wars_30
+title: "Super Robot Wars 30"
+series: superrobotwars
+year: 2021
+platform: ["PS4", "Switch", "PC"]
+#for some reason, the raw files for this one are one big file and a bunch of txtp files
+#let me know if you'd prefer me to turn them into brstms
+songs:
+  - id: union_srw30
+    title: "UNION"
+    path: "bgmest010normalswitch.awb#68.txtp"
+    type: battle
+  - id: yume_no_hero_srw30
+    title: "Yume no Hero"
+    path: "bgmest010normalswitch.awb#69.txtp"
+    type: betting
+  - id: yuusha_oh_tanjou_juvenile_version
+    title: "Yuusha-Oh Tanjou! -Juvenile Version-"
+    path: "bgmest010normalswitch.awb#32.txtp"
+    type: battle
+  - id: hello_my_world_srw30
+    title: "Hello! My World!!"
+    path: "bgmest010normalswitch.awb#60.txtp"
+    type: betting
+  - id: heart_to_heart_srw30
+    title: "HEART TO HEART"
+    path: "bgmest010normalswitch.awb#16.txtp"
+    type: betting
+  - id: hell_and_heaven_srw30
+    title: "Hell & Heaven"
+    path: "bgmest010normalswitch.awb#03.txtp"
+    type: warning
+  - id: chin_requiem_juvenile_togi
+    title: "Chin -requiem-juvenile- Togi"
+    path: "bgmest010normalswitch.awb#17.txtp"
+    type: warning
+  - id: lelouch_of_the_resurrection
+    title: "Lelouch of the Resurrection"
+    path: "bgmest010normalswitch.awb#18.txtp"
+    type: warning
+  - id: watashi_wa_souzou_suru_i_imagine
+    title: "Watashi wa Souzou Suru ~ I Imagine"
+    path: "bgmest010normalswitch.awb#56.txtp"
+    type: betting
+  - id: stand_up_to_the_victory_srw30
+    title: "STAND UP TO THE VICTORY"
+    path: "bgmest010normalswitch.awb#35.txtp"
+    type: betting
+  - id: l_gaim_time_for_l_gaim
+    title: "L-GAIM -TIME FOR L-GAIM-"
+    path: "bgmest010normalswitch.awb#36.txtp"
+    type: betting
+  - id: vigilante_srw30
+    title: "Vigilante"
+    path: "bgmest010normalswitch.awb#34.txtp"
+    type: battle
+  - id: combattler_v_no_theme_srw30
+    title: "Combattler V no Theme"
+    path: "bgmest010normalswitch.awb#58.txtp"
+    type: result
+  - id: let_s_combine_srw30
+    title: "Let's Combine!"
+    path: "bgmest010normalswitch.awb#59.txtp"
+    type: warning
+  - id: my_route_is_infinite
+    title: "My Route is Infinite"
+    path: "bgmest010normalswitch.awb#61.txtp"
+    type: betting
+...

@@ -1,0 +1,75 @@
+---
+id: deadly_premonition
+title: "Deadly Premonition"
+platform: ["360", "PS3"]
+year: 2010
+songs:
+  - id: george_woodman
+    title: "George Woodman"
+    path: "bgm03.txtp"
+    type: battle
+  - id: fbi_special_agent
+    title: "FBI Special Agent"
+    path: "bgm09.txtp"
+    type: betting
+  - id: york_and_zach
+    title: "York AND Zach"
+    path: "bgm10.txtp"
+    type: break
+  - id: the_woods_and_the_goddess
+    title: "The Woods and the Goddess"
+    path: "bgm12.txtp"
+    type: break
+  - id: red_tree_ambient_version
+    title: "Red Tree (Ambient Version)"
+    path: "bgm18.txtp"
+    type: warning
+  - id: emergency_deadly_premonition
+    title: "Emergency"
+    path: "bgm19.txtp"
+    type: betting
+  - id: life_is_beautiful
+    title: "Life is Beautiful"
+    path: "bgm21.txtp"
+    type: break
+  - id: underground_deadly_premonition
+    title: "Underground"
+    path: "bgm22.txtp"
+    type: betting
+  - id: deputy_willie_s_one_tough_chap
+    title: "Deputy Willie's One Tough Chap!"
+    path: "bgm28.txtp"
+    type: betting
+  - id: milk_barn
+    title: "Milk Barn"
+    path: "bgm30.txtp"
+    type: betting
+  - id: big_river_darts
+    title: "Big River Darts"
+    path: "bgm32.txtp"
+    type: betting
+  - id: red_tree_burst
+    title: "Red Tree Burst"
+    path: "bgm37.txtp"
+    type: warning
+  - id: found_you
+    title: "Found You!"
+    path: "bgm41.txtp"
+    type: warning
+  - id: thomas_mclaine
+    title: "Thomas MacLaine"
+    path: "bgm02.txtp"
+    type: betting
+  - id: big_red_kaysen
+    title: "Big Red Kaysen"
+    path: "bgm05.txtp"
+    type: battle
+  - id: greenvale
+    title: "Greenvale"
+    path: "bgm06.txtp"
+    type: betting
+  - id: miss_stiletto_heels_record
+    title: "Miss Stiletto Heels (Record)"
+    path: "bgm16.txtp"
+    type: break
+...

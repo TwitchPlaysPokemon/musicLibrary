@@ -4,10 +4,10 @@ title: "Pokémon Sword & Shield"
 platform: "Switch"
 year: 2019
 songs: 
-  - id: storming_rose_tower
-    title: "Storming Rose Tower"
+  - id: battle_storming_rose_tower
+    title: "Battle! (Rose Tower)"
     path: "bgm_ss_ajito.txtp"
-    type: betting
+    type: battle
   - id: boutique_pokemon_sword_shield
     title: "Boutique"
     path: "bgm_ss_boutique.txtp"
@@ -245,8 +245,8 @@ songs:
     title: "Battle! (Hop)"
     path: "bgm_ss_vs_friend.txtp"
     type: battle
-  - id: final_battle_hop
-    title: "Final Battle! (Hop)"
+  - id: battle_hop_2_final
+    title: "Battle! (Hop 2)"
     path: "bgm_ss_vs_friend_stadium.txtp"
     type: battle
   - id: battle_max_raid
@@ -261,12 +261,12 @@ songs:
     title: "Battle! (Gym Leader)"
     path: "Battle! (Gym Leader).brstm"
     type: battle
-  - id: battle_piers
-    title: "Battle! (Piers)"
+  - id: battle_team_yell_captain_piers
+    title: "Battle! (Team Yell Captain)"
     path: "bgm_ss_vs_gymleader_03.txtp"
     type: battle
-  - id: battle_mysterious_being
-    title: "Battle! (Mysterious Being)"
+  - id: battle_in_the_fog
+    title: "Battle! (In the Fog)"
     path: "bgm_ss_vs_legend01.txtp"
     type: battle
   - id: battle_eternatus_phase_1
@@ -289,8 +289,8 @@ songs:
     title: "Battle! (Marnie)"
     path: "bgm_ss_vs_marnie.txtp"
     type: battle
-  - id: final_battle_marnie
-    title: "Final Battle! (Marnie)"
+  - id: battle_marnie_2_final
+    title: "Battle! (Marnie 2)"
     path: "bgm_ss_vs_marnie_stadium.txtp"
     type: battle
   - id: battle_wild_pokemon_pokemon_sword_shield
@@ -309,8 +309,8 @@ songs:
     title: "Battle! (Macro Cosmos Rose)"
     path: "bgm_ss_vs_rose.txtp"
     type: battle
-  - id: battle_gym_leader_rematch
-    title: "Battle! (Gym Leader ~ Rematch)"
+  - id: battle_tournament_gym_leader_rematch
+    title: "Battle! (Tournament)"
     path: "Battle! (Gym Leader ~ Rematch).brstm"
     type: battle
   - id: battle_battle_tower
@@ -345,8 +345,8 @@ songs:
     title: "Victory! (Gym Leader)"
     path: "bgm_ss_win4.txtp"
     type: result
-  - id: victory_gym_leader_rematch
-    title: "Victory! (Gym Leader ~ Rematch)"
+  - id: victory_tournament_gym_leader_rematch
+    title: "Victory! (Tournament)"
     path: "bgm_ss_win5.txtp"
     type: result
   - id: victory_champion_pokemon_sword_shield
@@ -359,6 +359,123 @@ songs:
     type: warning
   - id: battle_peony
     title: "Battle! (Peony)"
-    path: "DLC2-BGM015.brstm"
+    path: "DLC2-BGM015.brstm" #could be txtp if you want to remove that one
     type: battle
+  - id: galar_legends
+    title: "Galar Legends"
+    path: "BGM103.txtp"
+    type: betting
+  - id: gym_challenge_sword_shield
+    title: "Gym Challenge"
+    path: "BGM120.txtp"
+    type: betting
+  - id: credits_sword_shield
+    title: "Credits"
+    path: "BGM116.txtp"
+    ends: 3:32
+    type: betting
+  - id: the_galar_region_s_new_champion
+    title: "The Galar Region's New Champion!"
+    path: "BGM086.txtp"
+    type: result
+  - id: klara_s_theme
+    title: "Klara's Theme"
+    path: "DLC1-BGM001.txtp"
+    type: betting
+  - id: battle_mustard
+    title: "Battle! (Mustard)"
+    path: "DLC1-BGM002.txtp"
+    type: battle
+  - id: avery_s_theme
+    title: "Avery's Theme"
+    path: "DLC1-BGM004.txtp"
+    type: betting
+  - id: battle_mustard_2_rematch
+    title: "Battle! (Mustard 2)"
+    path: "DLC1-BGM005.txtp"
+    type: battle
+  - id: battle_klara
+    title: "Battle! (Klara)"
+    path: "DLC1-BGM006.txtp"
+    type: battle
+  - id: tower_of_waters
+    title: "Tower of Waters"
+    path: "DLC1-BGM007.txtp"
+    type: battle
+  - id: tower_of_darkness
+    title: "Tower of Darkness"
+    path: "DLC1-BGM009.txtp"
+    type: battle
+  - id: battle_avery
+    title: "Battle! (Avery)"
+    path: "DLC1-BGM010.txtp"
+    type: battle
+  - id: mustard_s_theme
+    title: "Mustard's Theme"
+    path: "DLC1-BGM011.txtp"
+    type: betting
+  - id: victory_mustard
+    title: "Victory! (Mustard)"
+    path: "DLC1-BGM014.txtp"
+    type: result
+  - id: master_dojo
+    title: "Master Dojo"
+    path: "DLC1-BGM016.txtp"
+    type: betting
+  - id: isle_of_armor
+    title: "Isle of Armor"
+    path: "DLC1-BGM017.txtp"
+    type: betting
+  - id: battle_legend_1_regis
+    title: "Battle! (Legend 1)"
+    path: "DLC2-BGM001.txtp"
+    type: battle
+  - id: battle_glastrier_spectrier
+    title: "Battle! (Glastrier/Spectrier)"
+    path: "DLC2-BGM003.txtp"
+    type: battle
+  - id: battle_legend_2_galarian_birds
+    title: "Battle! (Legend 2)"
+    path: "DLC2-BGM005.txtp"
+    type: battle
+  - id: battle_legend_3_dynamax_adventures
+    title: "Battle! (Legend 3)"
+    path: "DLC2-BGM006.txtp"
+    type: battle
+  - id: battle_calyrex_unridden
+    title: "Battle! (Calyrex)"
+    path: "Battle! (Calyrex)"
+    type: battle
+  - id: battle_calyrex_rider
+    title: "Battle! (Calyrex 2)"
+    path: "DLC2-BGM007.txtp"
+    type: battle
+  - id: calyrex_s_theme
+    title: "Calyrex's Theme"
+    path: "DLC2-BGM008.txtp"
+    type: warning
+  - id: max_lair
+    title: "Max Lair"
+    path: "DLC2-BGM009.txtp"
+    type: betting
+  - id: peony_s_theme
+    title: "Peony's Theme"
+    path: "DLC2-BGM010.txtp"
+    type: result
+  - id: legendary_birds_appear
+    title: "Legendary Birds Appear!"
+    path: "DLC2-BGM011.txtp"
+    type: warning
+  - id: crown_shrine
+    title: "Crown Shrine"
+    path: "DLC2-BGM013.txtp"
+    type: break
+  - id: the_crown_tundra
+    title: "The Crown Tundra"
+    path: "DLC2-BGM014.txtp"
+    type: betting
+  - id: freezington
+    title: "Freezington"
+    path: "DLC2-BGM016.txtp"
+    type: betting
 ...

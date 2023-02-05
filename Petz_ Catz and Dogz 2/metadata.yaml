@@ -1,0 +1,103 @@
+---
+id: petz_catz_and_dogz_2
+title: "Petz: Catz and Dogz 2"
+platform: ["PC", "Wii", "PS2"]
+year: 2007
+songs:
+  - id: dolphin_coast
+    title: "Dolphin Coast"
+    path: "BGM_MAP_BEACH_32K.brstm"
+    type: betting
+  - id: crystal_caverns
+    title: "Crystal Caverns"
+    path: "BGM_MAP_CAVE_32K.brstm"
+    type: betting
+  - id: whisker_woods
+    title: "Whisker Woods"
+    path: "BGM_MAP_FOREST_32K.brstm"
+    type: break
+  - id: monolith_isle
+    title: "Monolith Isle"
+    path: "BGM_MAP_GHOST_32K.brstm"
+    type: break
+  - id: polar_fields
+    title: "Polar Fields"
+    path: "BGM_MAP_GLACIER_32K.brstm"
+    type: break
+  - id: jade_fields
+    title: "Jade Fields"
+    path: "BGM_MAP_GRASS_32K.brstm"
+    type: break
+  - id: lonesome_park
+    title: "Lonesome Park"
+    path: "BGM_MAP_WILD_32K.brstm"
+    type: warning
+  - id: gongoro_peak
+    title: "Gongoro Peak"
+    path: "BGM_MAP_HIGH_MOUNTAIN_32K.brstm"
+    type: betting
+  - id: tail_heights
+    title: "Tail Heights"
+    path: "BGM_MAP_HIGHPLAINS_32K.brstm"
+    type: break
+  - id: lappy_lake
+    title: "Lappy Lake"
+    path: "BGM_MAP_LAKE_32K.brstm"
+    type: break
+  - id: sky_heights
+    title: "Sky Heights"
+    path: "BGM_MAP_SKY_32K.brstm"
+    type: break
+  - id: north_south_pawville
+    title: "North & South Pawville"
+    path: "BGM_MAP_TOWN_32K.brstm"
+    type: betting
+  - id: inferno_cave
+    title: "Inferno Cave"
+    path: "BGM_MAP_VOLCANO_32K.brstm"
+    type: betting
+  - id: minigame_type_a
+    title: "Minigame: Type A"
+    path: "BGM_MIN_TYPEA_32K.brstm"
+    type: result
+  - id: minigame_type_b
+    title: "Minigame: Type B"
+    path: "BGM_MIN_TYPEB_32K.brstm"
+    type: result
+  - id: minigame_type_c
+    title: "Minigame: Type C"
+    path: "BGM_MIN_TYPEC_32K.brstm"
+    type: result
+  - id: cutscene_theme_1_petz
+    title: "Cutscene Theme 1"
+    path: "BGM_PMV_A_ENJOY_32K.brstm"
+    type: result
+  - id: cutscene_theme_5_petz
+    title: "Cutscene Theme 5"
+    path: "BGM_PMV_A_GLEAF_32K.brstm"
+    type: result
+  - id: cutscene_theme_2_petz
+    title: "Cutscene Theme 2"
+    path: "BGM_PMV_A_WONDERFUL_32K.brstm"
+    type: result
+  - id: ivlet_petz
+    title: "Ivlet"
+    path: "BGM_PMV_FINALBATTLE_32K.brstm"
+    type: warning
+  - id: cutscene_theme_3_petz
+    title: "Cutscene Theme 3"
+    path: "BGM_PMV_IVURITO_32K.brstm"
+    type: warning
+  - id: credits_petz
+    title: "Credits"
+    path: "MOV_ENDING_32K.brstm"
+    type: break
+  - id: opening_petz
+    title: "Opening"
+    path: "MOV_OPENINNG_32K.brstm"
+    type: betting
+  - id: cutscene_theme_4_petz
+    title: "Cutscene Theme 4"
+    path: "BGM_PMV_A_FINE_32K.brstm"
+    type: result
+...

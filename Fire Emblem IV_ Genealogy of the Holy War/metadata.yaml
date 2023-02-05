@@ -6,15 +6,295 @@ platform: "SFC"
 year: 1996
 songs: 
   - id: prologue_chapter_arranged_soundtrack
-    path: "Prologue Chapter (Arranged Soundtrack).brstm"
     title: "Prologue Chapter (Arranged Soundtrack)"
+    path: "Prologue Chapter (Arranged Soundtrack).brstm"
     type: result
   - id: theme_of_fire_emblem_arranged_soundtrack
-    path: "Theme of Fire Emblem (Arranged Soundtrack).brstm"
     title: "Theme of Fire Emblem (Arranged Soundtrack)"
+    path: "Theme of Fire Emblem (Arranged Soundtrack).brstm"
     type: result
-  - id: silesse_palace
-    path: "Silesse Palace.brstm"
-    title: "Silesse Palace"
+  - id: chapter_3_lion_king_eltshan_arranged_soundtrack
+    title: "Chapter 3: Lion King Eltshan (Arranged Soundtrack)"
+    path: "Chapter 3_ Lion King Eltshan (Arranged Soundtrack).brstm"
+    type: result
+  - id: the_beginning_fe4
+    title: "The Beginning"
+    path: "101 The Beginning.spc"
+    type: warning
+  - id: the_theme_of_fire_emblem_iv
+    title: "The Theme of Fire Emblem"
+    path: "102b The Theme of Fire Emblem (Title before game clear).spc"
+    type: result
+  - id: the_history_of_jugdral_continent
+    title: "The History of Jugdral Continent"
+    path: "103 The History of Jugdral Continent.spc"
+    type: warning
+  - id: the_glory_of_grandbell
+    title: "The Glory of Grandbell"
+    path: "104 The Glory of Grandbell.spc"
+    type: betting
+  - id: prologue_birth_of_the_holy_knight
+    title: "Prologue: Birth of the Holy Knight"
+    path: "105 Prologue ''Birth of the Holy Knight''.spc"
+    type: betting
+  - id: chapter_1_the_girl_from_the_spirit_forest
+    title: "Chapter 1: The Girl from the Spirit-Forest"
+    path: "106 Chapter 1 ''The Girl from the Spirit-Forest''.spc"
+    type: betting
+  - id: chapter_2_disturbance_in_agustria
+    title: "Chapter 2: Disturbance in Agustria"
+    path: "107 Chapter 2 ''Disturbance in Agustria''.spc"
+    type: betting
+  - id: flow_of_time
+    title: "Flow of Time"
+    path: "110 Flow of Time.spc"
+    type: warning
+  - id: conspiracy_fe4
+    title: "Conspiracy"
+    path: "112 Conspiracy.spc"
+    type: warning
+  - id: a_disappointing_outcome_fe4
+    title: "A Disappointing Outcome"
+    path: "114 A Disappointing Outcome.spc"
+    type: result #maybe???
+  - id: time_to_attack_fe4
+    title: "Time to Attack"
+    path: "115 Time to Attack.spc"
+    type: warning
+  - id: chapter_6_inheritor_of_the_light
+    title: "Chapter 6: Inheritor of the Light"
+    path: "116 Chapter 6 ''Inheritor of the Light''.spc"
+    type: betting
+  - id: chapter_7_across_the_desert
+    title: "Chapter 7: Across the Desert"
+    path: "117 Chapter 7 ''Across the Desert''.spc"
+    type: warning
+  - id: chapter_8_the_dragon_knight_of_thracia
+    title: "Chapter 8: The Dragon Knight of Thracia"
+    path: "118 Chapter 8 ''The Dragon Knight of Thracia''.spc"
+    type: betting
+  - id: chapter_10_light_and_darkness
+    title: "Chapter 10: Light and Darkness"
+    path: "120 Chapter 10 ''Light and Darkness''.spc"
+    type: result
+  - id: the_continent_thereafter
+    title: "The Continent, Thereafter..."
+    path: "123 The Continent, Thereafter....spc"
+    type: break
+  - id: the_arrival_of_peace
+    title: "The Arrival of Peace"
+    path: "124b The Arrival of Peace (Normal).spc"
+    type: break
+  - id: close_to_victory_fe4
+    title: "Close to Victory"
+    path: "201 Close to Victory.spc"
+    type: result
+  - id: army_of_verdane
+    title: "Army of Verdane"
+    path: "202 Army of Verdane.spc"
+    type: betting
+  - id: army_of_agustria
+    title: "Army of Agustria"
+    path: "203 Army of Agustria.spc"
+    type: betting
+  - id: army_of_silesia
+    title: "Army of Silesia"
+    path: "205 Army of Silesia.spc"
+    type: betting
+  - id: army_of_yied
+    title: "Army of Yied"
+    path: "206 Army of Yied.spc"
+    type: warning
+  - id: army_of_isaac
+    title: "Army of Isaac"
+    path: "207 Army of Isaac.spc"
+    type: warning
+  - id: army_of_manster
+    title: "Army of Manster"
+    path: "208 Army of Manster.spc"
+    type: betting
+  - id: army_of_thracia
+    title: "Army of Thracia"
+    path: "209 Army of Thracia.spc"
+    type: warning
+  - id: army_of_miletos
+    title: "Army of Miletos"
+    path: "210 Army of Miletos.spc"
+    type: warning
+  - id: army_of_grandbell_1
+    title: "Army of Grandbell 1"
+    path: "211 Army of Grandbell 1.spc"
+    type: warning
+  - id: the_allied_forces
+    title: "The Allied Forces"
+    path: "213 The Allied Forces.spc"
+    type: result
+  - id: allies_attack_fe4
+    title: "Allies' Attack"
+    path: "215 Allies' Attack.spc"
+    type: warning
+  - id: enemys_attack_fe4
+    title: "Enemys' Attack"
+    path: "216 Enemys' Attack.spc"
+    type: warning
+  - id: intermediate_boss_fe4
+    title: "Intermediate Boss"
+    path: "217 Intermediate Boss.spc"
+    type: warning
+  - id: grudge_match
+    title: "Grudge Match"
+    path: "218 Grudge Match.spc"
+    type: warning
+  - id: alliance_between_enemies
+    title: "Alliance Between Enemies"
+    path: "219 Alliance Between Enemies.spc"
+    type: warning
+  - id: versus_alvis
+    title: "Versus Alvis"
+    path: "220 Versus Alvis.spc"
+    type: battle
+  - id: versus_yurius
+    title: "Versus Yurius"
+    path: "221 Versus Yurius.spc"
+    type: battle
+  - id: dancer_cheers
+    title: "Dancer Cheers"
+    path: "223 Dancer Cheers.spc"
+    type: warning
+  - id: white_magic_fe4
+    title: "White Magic"
+    path: "224 White Magic.spc"
+    type: warning
+  - id: level_up_fe4
+    title: "Level up!"
+    path: "226 Level up!.spc"
+    type: result
+  - id: colosseum_the_match
+    title: "Colosseum (The Match)"
+    path: "229 Colosseum (The Match).spc"
+    type: warning
+  - id: the_city_of_verdane
+    title: "The City of Verdane"
+    path: "230 The City of Verdane.spc"
+    type: warning
+  - id: the_city_of_grandbell
+    title: "The City of Grandbell"
+    path: "231 The City of Grandbell.spc"
+    type: betting
+  - id: the_city_of_silesia
+    title: "The City of Silesia"
+    path: "233 The City of Silesia.spc"
+    type: break
+  - id: the_city_of_isaac
+    title: "The City of Isaac"
+    path: "234 The City of Isaac.spc"
+    type: warning
+  - id: the_city_of_yied
+    title: "The City of Yied"
+    path: "235 The City of Yied.spc"
+    type: betting
+  - id: the_city_of_manster
+    title: "The City of Manster"
+    path: "236 The City of Manster.spc"
+    type: result
+  - id: the_city_of_thracia
+    title: "The City of Thracia"
+    path: "237 The City of Thracia.spc"
+    type: warning
+  - id: the_city_of_miletos
+    title: "The City of Miletos"
+    path: "238 The City of Miletos.spc"
+    type: break
+  - id: crisis_1
+    title: "Crisis 1"
+    path: "239 Crisis 1.spc"
+    type: warning
+  - id: crisis_2
+    title: "Crisis 2"
+    path: "240 Crisis 2.spc"
+    type: warning
+  - id: the_final_challenge_assault
+    title: "The Final Challenge/Assault"
+    path: "242 The Final Challenge''Assault.spc"
+    type: warning
+  - id: victory_1_end_of_map
+    title: "Victory 1 (End of map)"
+    path: "243a Victory 1 (End of map).spc"
+    type: result
+  - id: victory_1_normal
+    title: "Victory 1 (Normal)"
+    path: "243c Victory 1 (Normal).spc"
+    type: result
+  - id: victory_2
+    title: "Victory 2"
+    path: "244 Victory 2.spc"
+    type: result
+  - id: enemy_message_1
+    title: "Enemy Message 1"
+    path: "245 Enemy Message 1.spc"
+    type: warning
+  - id: enemy_message_2
+    title: "Enemy Message 2"
+    path: "246 Enemy Message 2.spc"
+    type: warning
+  - id: enemy_message_3
+    title: "Enemy Message 3"
+    path: "247 Enemy Message 3.spc"
+    type: warning
+  - id: the_dumb_soldiers
+    title: "The Dumb Soldiers"
+    path: "303 The Dumb Soldiers.spc"
+    type: betting
+  - id: lover_1
+    title: "Lover 1"
+    path: "306 Lover 1.spc"
+    type: break
+  - id: lover_2
+    title: "Lover 2"
+    path: "307 Lover 2.spc"
+    type: break
+  - id: lover_3
+    title: "Lover 3"
+    path: "308 Lover 3.spc"
+    type: break
+  - id: lover_4
+    title: "Lover 4"
+    path: "309 Lover 4.spc"
+    type: break
+  - id: edin_s_theme
+    title: "Edin's Theme"
+    path: "318 Edin's Theme.spc"
+    type: break
+  - id: yuria_s_theme
+    title: "Yuria's Theme"
+    path: "320 Yuria's Theme.spc"
+    type: break
+  - id: selis_theme
+    title: "Selis' Theme"
+    path: "321b Selis' Theme (Normal).spc"
+    type: betting
+  - id: wandering_feelings
+    title: "Wandering Feelings"
+    path: "325 Wandering Feelings.spc"
+    type: break
+  - id: agustria_castle
+    title: "Agustria Castle"
+    path: "326 Agustria Castle.spc"
+    type: betting
+  - id: silesia_castle
+    title: "Silesia Castle"
+    path: "327 Silesia Castle.spc"
+    type: break
+  - id: manster_castle
+    title: "Manster Castle"
+    path: "328 Manster Castle.spc"
+    type: betting
+  - id: new_thracia_castle
+    title: "New Thracia Castle"
+    path: "330 New Thracia Castle.spc"
+    type: betting
+  - id: edda_castle
+    title: "Edda Castle"
+    path: "335 Edda Castle.spc"
     type: break
 ...

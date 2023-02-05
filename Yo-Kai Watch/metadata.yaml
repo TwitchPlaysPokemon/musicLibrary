@@ -1,0 +1,132 @@
+---
+id: yokai_watch
+title: "Yo-Kai Watch"
+series: yokaiwatch
+platform: "3DS"
+year: 2013
+songs: 
+  - id: main_theme_yokai_watch
+    title: "Main Theme"
+    path: "M01_main_theme_e24.dspadpcm.brstm"
+    type: result
+  - id: ending_theme_yokai_watch
+    title: "Ending Theme"
+    path: "M02_ending_theme9.dspadpcm.brstm"
+    type: betting
+  - id: uptown_springdale
+    title: "Uptown Springdale"
+    path: "M03_sakura_new_town.dspadpcm.brstm"
+    type: betting
+  - id: mt_wildwood
+    title: "Mt. Wildwood"
+    path: "M04urayamab2.dspadpcm.brstm"
+    type: break
+  - id: blossom_heights
+    title: "Blossom Heights"
+    path: "M05_furu_reretake1_32728.dspadpcm.brstm"
+    type: betting
+  - id: downtown_springdale
+    title: "Downtown Springdale"
+    path: "M06_syogyoku_retake2_32728.dspadpcm.brstm"
+    type: betting
+  - id: shopper_s_row
+    title: "Shopper's Row"
+    path: "M08_acade_retake2.dspadpcm.brstm"
+    type: betting
+  - id: everymart
+    title: "Everymart"
+    path: "M08_arcade.dspadpcm.brstm"
+    type: betting
+  - id: sleeping_town
+    title: "Sleeping Town"
+    path: "M10_yoru.dspadpcm.brstm"
+    type: break
+  - id: terror_time_fleeing
+    title: "Terror Time (Fleeing)"
+    path: "M12_onitime_retake3.dspadpcm.brstm"
+    type: warning
+  - id: terror_time_tiptoeing
+    title: "Terror Time (Tiptoeing)"
+    path: "M12_onitime_silent_32728_a2.dspadpcm.brstm"
+    type: betting
+  - id: riding_on_a_bicycle
+    title: "Riding on a Bicycle!"
+    path: "M18_jitensya_a5.dspadpcm.brstm"
+    type: betting
+  - id: fun_summer_festival
+    title: "Fun Summer Festival"
+    path: "M19_bon_odori_a3.dspadpcm.brstm"
+    type: warning
+  - id: somewhere_a_bit_dodgy
+    title: "Somewhere a Bit Dodgy"
+    path: "M21dungeon_a02retake_32728.dspadpcm.brstm"
+    type: betting
+  - id: somewhere_really_dodgy
+    title: "Somewhere Really Dodgy"
+    path: "M22_L_dungeon_a3.dspadpcm.brstm"
+    type: betting
+  - id: infinite_inferno
+    title: "Infinite Inferno"
+    path: "M23_L_dungeon_a2.dspadpcm.brstm"
+    type: betting
+  - id: it_s_the_yo_kai_world
+    title: "It's the Yo-kai World"
+    path: "M24_ekkenkairo_a4.dspadpcm.brstm"
+    type: warning
+  - id: vs_yo_kai
+    title: "Vs. Yo-kai"
+    path: "M25_battle01_a10_32728.dspadpcm.brstm"
+    type: battle
+  - id: vs_weird_yo_kai
+    title: "Vs. Weird Yo-kai"
+    path: "M26_battle02_mix2.dspadpcm.brstm"
+    type: battle
+  - id: vs_strong_yo_kai
+    title: "Vs. Strong Yo-kai"
+    path: "M28_boss01.dspadpcm.brstm"
+    type: battle
+  - id: vs_yo_kai_world_chairman_squiddilius_mckraken
+    title: "Vs. Yo-kai World Chairman Squiddilius McKraken"
+    path: "M31_last_battle_a6.dspadpcm.brstm"
+    type: battle
+  - id: last_battle_prepare_yourself
+    title: "Last Battle - Prepare Yourself!!!"
+    path: "M32_last_battle2.dspadpcm.brstm"
+    type: battle
+  - id: victory_yokai_watch
+    title: "Victory!"
+    path: "M33_result_a3_32728.dspadpcm.brstm"
+    type: result
+  - id: defeat_yokai_watch
+    title: "Defeat..."
+    path: "M34_LOSE_a2.dspadpcm.brstm"
+    type: result
+  - id: let_s_decide_on_the_name
+    title: "Let's Decide On The Name!"
+    path: "M35_menu_a3.dspadpcm.brstm"
+    type: result
+  - id: nate_s_house
+    title: "Nate's House"
+    path: "M38_keta_house.dspadpcm.brstm"
+    type: break
+  - id: katie_s_house
+    title: "Katie's House"
+    path: "M39_house_fumi_a2_32728.dspadpcm.brstm"
+    type: break
+  - id: relaxing_place_yokai_watch
+    title: "Relaxing Place"
+    path: "M40_house_public_32728.dspadpcm.brstm"
+    type: break
+  - id: lively_store_yokai_watch
+    title: "Lively Store"
+    path: "M41_shop_a3retake_32728.dspadpcm.brstm"
+    type: betting
+  - id: hail_hail_yokai_watch
+    title: "Hail, Hail!"
+    path: "M59_nonbiri.dspadpcm.brstm"
+    type: betting
+  - id: yo_kai_butler_whisper_s_theme
+    title: "Yo-kai Butler Whisper’s Theme"
+    path: "M65_whisper.dspadpcm.brstm"
+    type: betting
+...

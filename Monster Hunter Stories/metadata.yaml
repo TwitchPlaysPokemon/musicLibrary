@@ -1,0 +1,156 @@
+---
+id: monster_hunter_stories
+title: "Monster Hunter Stories"
+series: monsterhunter
+platform: ["3DS", "iOS"]
+year: 2016
+songs: 
+  - id: very_suspicious_manelger_s_laboratory
+    title: "Very Suspicious ~ Manelger's Laboratory"
+    path: "bgm_ajito.mca"
+    type: break
+  - id: shadow_lurking_in_the_grassy_plains
+    title: "Shadow Lurking in the Grassy Plains"
+    path: "bgm_bat_01_nor.mca"
+    type: betting
+  - id: rustling_steppe
+    title: "Rustling Steppe"
+    path: "bgm_bat_01_str.mca"
+    type: betting
+  - id: noisy_caves_mhs
+    title: "Noisy Caves"
+    path: "bgm_bat_02_nor.mca"
+    type: battle
+  - id: rolling_snowball
+    title: "Rolling Snowball"
+    path: "bgm_bat_03_str.mca"
+    type: betting
+  - id: sroching_hot_sandstorm
+    title: "Scorching Hot Sandstorm"
+    path: "bgm_bat_04_nor.mca"
+    type: battle
+  - id: desolate_desert
+    title: "Desolate Desert"
+    path: "bgm_bat_04_str.mca"
+    type: battle
+  - id: the_jungle_of_gathering_shadows
+    title: "The Jungle of Gathering Shadows"
+    path: "bgm_bat_07_nor.mca"
+    type: betting
+  - id: throbbing_arena
+    title: "Throbbing Arena"
+    path: "bgm_bat_09_str.mca"
+    type: battle
+  - id: skirmish_on_the_water_s_edge
+    title: "Skirmish on the Water's Edge"
+    path: "bgm_bat_10_nor.mca"
+    type: betting #battle for shenanigans
+  - id: spledidly_beautiful_quarrel
+    title: "Spendidly Beautiful Quarrel"
+    path: "bgm_bat_10_str.mca"
+    type: battle
+  - id: mysterious_trial_mhs
+    title: "Mysterious Trial"
+    path: "bgm_bat_11_str.mca"
+    type: battle
+  - id: confrontation_with_black_blight
+    title: "Confrontation with Black Blight"
+    path: "bgm_boss_01.mca"
+    type: battle
+  - id: entangled_destiny_cheval
+    title: "Entangled Destiny ~ Cheval"
+    path: "bgm_boss_04.mca"
+    type: battle
+  - id: admonition_and_liberation_cheval
+    title: "Admonition and Liberation ~ Cheval"
+    path: "bgm_boss_05.mca"
+    type: battle
+  - id: battling_with_bonds_ratha
+    title: "Battling with Bonds ~ Ratha"
+    path: "bgm_boss_06.mca"
+    type: battle
+  - id: jet_black_midnight_sun
+    title: "Jet Black Midnight Sun"
+    path: "bgm_boss_07.mca"
+    type: betting
+  - id: by_powerful_bonds_victory
+    title: "By Powerful Bonds ~ Victory!"
+    path: "bgm_clear.mca"
+    type: result
+  - id: bonding_winds
+    title: "Bonding Winds"
+    path: "bgm_end_02.mca"
+    type: betting
+  - id: i_ve_been_seen
+    title: "I've Been Seen!!"
+    path: "bgm_Find_loop.mca"
+    type: warning
+  - id: before_the_journey_mhs
+    title: "Before the Journey..."
+    path: "bgm_selectchara.mca"
+    type: result
+  - id: the_breath_of_adventure_protagonist
+    title: "The Breath of Adventure ~ Protagonist"
+    path: "bgm_story_08.mca"
+    type: result
+  - id: with_every_wake_protagonist
+    title: "With Every Wake ~ Protagonist"
+    path: "bgm_story_09.mca"
+    type: betting
+  - id: my_name_is_manelger_dr_manelger
+    title: "My Name is Manelger ~ Dr. Manelger"
+    path: "bgm_story_10.mca"
+    type: betting
+  - id: at_lightning_speed_dr_manelger
+    title: "At Lightning Speed ~ Dr. Manelger"
+    path: "bgm_story_11.mca"
+    type: betting
+  - id: everyone_together_the_numbers
+    title: "Everyone, Together! ~ The Numbers"
+    path: "bgm_story_12.mca"
+    type: result
+  - id: rippling_memories
+    title: "Rippling Memories"
+    path: "bgm_story_18.mca"
+    type: break
+  - id: the_doctor_s_minions_appear
+    title: "The Doctor's Minions Appear!"
+    path: "bgm_story_22.mca"
+    type: warning
+  - id: floating_black_blight
+    title: "Floating Black Blight"
+    path: "bgm_story_34.mca"
+    type: warning
+  - id: when_the_windmill_spins_hakum_village
+    title: "When the Windmill Spins ~ Hakum Village"
+    path: "bgm_V01_D.mca"
+    type: break
+  - id: snowy_mountain_shelter
+    title: "Snowy Mountain Shelter"
+    path: "bgm_V02_00.mca"
+    type: break
+  - id: the_healing_secret_hot_spring
+    title: "The Healing Secret Hot Spring"
+    path: "bgm_V02_02.mca"
+    type: break
+  - id: bustling_city_gildegaran
+    title: "Bustling City ~ Gildegaran"
+    path: "bgm_V03_D.mca"
+    type: betting
+  - id: city_of_echoing_pickaxes_geo_fulkright
+    title: "City of Echoing Pickaxes ~ Geo-Fulkright"
+    path: "bgm_V04_D.mca"
+    type: betting
+  - id: withered_oasis_albarax
+    title: "Withered Oasis ~ Albarax"
+    path: "bgm_V07.mca"
+    type: break
+  - id: flourishing_oasis_albarax
+    title: "Flourishing Oasis ~ Albarax"
+    path: "bgm_V07_D.mca"
+    type: break
+  - id: living_leisurely_nya_koapni_village
+    title: "Living Leisurely, Nya ~ Koapni Village"
+    path: "bgm_V08.mca"
+    type: betting
+...

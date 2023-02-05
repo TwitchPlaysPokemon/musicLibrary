@@ -1,0 +1,15 @@
+id: link_s_crossbow_training
+title: "Link's Crossbow Training"
+platform: "Wii"
+series: zelda
+year: 2007
+songs: 
+  - id: title_link_crossbow_training
+    title: "Title"
+    path: "title_lr.32.ast"
+    type: betting
+  - id: result_link_crossbow_training
+    title: "Result"
+    path: "result_lr.32.ast"
+    type: result
+...

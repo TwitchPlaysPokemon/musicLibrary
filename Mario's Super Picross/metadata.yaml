@@ -5,5 +5,14 @@ year: 1995
 songs:
   - id: wario_puzzle_1
     title: "Wario Puzzle 1"
-    path: "Wario Puzzle 1.brstm"
+    path: "111 Wario Puzzle 1.spc"
     type: break
+  - id: wario_puzzle_2
+    title: "Wario Puzzle 2"
+    path: "112 Wario Puzzle 2.spc"
+    type: break
+  - id: save_menu_msp
+    title: "Save Menu"
+    path: "102 Save Menu.spc"
+    type: break
+...

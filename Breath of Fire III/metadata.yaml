@@ -2,7 +2,8 @@
 id: breath_of_fire_iii
 title: "Breath of Fire III"
 series: breathoffire
-platform: ["PS1", "PSP"]
+platform: "PS1"
+#Also PSP in 2005, but whatever. 
 year: 1997
 songs: 
   - id: even_the_sun_s_happy

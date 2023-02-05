@@ -48,7 +48,6 @@ songs:
   - id: ice_super_mario_odyssey
     title: "Ice"
     path: "Ice.brstm"
-    tags: [xmas]
     type: betting
   - id: jump_up_super_star
     title: "Jump Up, Super Star!"
@@ -78,12 +77,10 @@ songs:
   - id: shiveria_race_course_entrance
     title: "Shiveria: Race Course Entrance"
     path: "Snow Kingdom - Shiveria_ Race Course Entrance.brstm"
-    tags: [xmas]
     type: betting
   - id: shiveria_town
     title: "Shiveria: Town"
     path: "Snow Kingdom - Shiveria_ Town.brstm"
-    tags: [xmas]
     type: betting
   - id: steam_gardens
     title: "Steam Gardens"
@@ -181,4 +178,20 @@ songs:
     title: "Peach's Castle"
     path: "Mushroom Kingdom - Peach's Castle.brstm"
     type: break
+  - id: run_jump_throw_1
+    title: "Run, Jump, Throw! 1"
+    path: "Run, Jump, Throw! 1.brstm"
+    type: betting
+  - id: run_jump_throw_2
+    title: "Run, Jump, Throw! 2"
+    path: "Run, Jump, Throw! 2.brstm"
+    type: betting
+  - id: run_jump_throw_2_8bit
+    title: "Run, Jump, Throw! 2 (8-Bit)"
+    path: "Run, Jump, Throw! 2 (8-Bit).brstm"
+    type: betting
+  - id: underground_power_plant_super_mario_odyssey
+    title: "Underground Power Plant"
+    path: "Underground Power Plant.brstm"
+    type: betting
 ...

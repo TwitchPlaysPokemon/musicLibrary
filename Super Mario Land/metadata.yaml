@@ -7,35 +7,50 @@ year: 1989
 songs: 
   - id: birabuto_kingdom
     title: "Birabuto Kingdom"
-    path: "Birabuto Kingdom.brstm"
-    type: betting
-  - id: muda_kingdom
-    title: "Muda Kingdom"
-    path: "Muda Kingdom (World 2).brstm"
+    path: "01 1-1, 1-2, 3-1.vgz"
     type: betting
   - id: easton_kingdom
     title: "Easton Kingdom"
-    path: "Easton Kingdom.brstm"
+    path: "02 1-3, 3-2, 3-3.vgz"
     type: betting
+  - id: muda_kingdom
+    title: "Muda Kingdom"
+    path: "03 2-1, 2-2.vgz"
+    type: betting
+  - id: marine_and_sky_pop
+    title: "Marine & Sky Pop"
+    path: "04 2-3, 4-3.vgz"
+    type: result
   - id: chai_kingdom
     title: "Chai Kingdom"
-    path: "Chai Kingdom (World 4).brstm"
-    ends: 2:00
+    path: "05 4-1, 4-2.vgz"
     type: betting
-  - id: can_can_invincibility
-    title: "Can-Can! ~Invincibility~"
-    path: "Invincible (Galop Infernal) (Looped).brstm"
-    type: warning
   - id: bonus_chance
     title: "Bonus Chance"
-    path: "Bonus Game.brstm"
+    path: "07 Bonus Game [part 1].vgz"
+    type: warning
+  - id: boss_battle_sml
+    title: "Boss Battle"
+    path: "10 Boss.vgz"
+    type: warning
+  - id: enemy_transformation
+    title: "Enemy Transformation"
+    path: "12 Enemy Transformation.vgz"
     type: warning
   - id: the_evil_alien_tatanga
     title: "The Evil Alien Tatanga"
-    path: "Last Boss.brstm"
+    path: "13 Tatanga.vgz"
     type: warning
   - id: rocket_ship_ride_staff_roll
     title: "Rocket Ship Ride (Staff Roll)"
-    path: "Ending & Credits.brstm"
+    path: "14 Staff Roll.vgz"
     type: result
+  - id: coin_room
+    title: "Coin Room"
+    path: "15 Underground.vgz"
+    type: result
+  - id: can_can_invincibility
+    title: "Can-Can! ~Invincibility~"
+    path: "16 Invincibility.vgz"
+    type: warning
 ...

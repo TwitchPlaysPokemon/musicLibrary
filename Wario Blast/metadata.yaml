@@ -7,26 +7,26 @@ year: 1994
 songs:
   - id: arrow_zone
     title: "Arrow Zone"
-    path: "Arrow Zone.brstm"
+    path: "05 Arrow Zone.vgz"
     type: warning
   - id: forest_zone
     title: "Forest Zone"
-    path: "Forest Zone.brstm"
+    path: "09 Forest Zone.vgz"
     type: warning
   - id: warp_Zone
     title: "Warp Zone"
-    path: "Warp Zone.brstm"
+    path: "04 Warp Zone.vgz"
     type: warning
   - id: danger_zone_warioblast
     title: "Danger Zone"
-    path: "Danger Zone.brstm"
+    path: "06 Danger Zone.vgz"
     type: warning
   - id: final_zone_warioblast
     title: "Final Zone"
-    path: "Final Zone.brstm"
+    path: "10 Final Zone.vgz"
     type: warning
   - id: title_wario_blast
     title: "Title"
-    path: "Title.brstm"
+    path: "01 Title Screen.vgz"
     type: result
 ...

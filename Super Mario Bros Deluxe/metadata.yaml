@@ -6,9 +6,35 @@ platform: "GBC"
 songs:
   - id: you_vs_boo
     title: "You vs. Boo"
-    path: "You vs. Boo.brstm"
+    path: "25 You VS Boo.vgz"
     type: warning
   - id: racing_boo
     title: "Racing Boo"
-    path: "Racing Boo.brstm"
+    path: "26 VS Race.vgz"
     type: warning
+  - id: vs_race_hurry
+    title: "VS Race (Hurry!)"
+    path: "36 VS Race (Hurry!).vgz"
+    type: warning
+  - id: main_menu_smbd
+    title: "Main Menu"
+    path: "02 Main Menu.vgz"
+    type: result
+  - id: challenge_results_smbd
+    title: "Challenge Results"
+    path: "19 Challenge Results.vgz"
+    type: result
+  - id: photo_album_smbd
+    title: "Photo Album"
+    path: "22 Photo Album.vgz"
+    type: break
+  - id: credits_smbd
+    title: "Credits"
+    path: "18 Credits.vgz"
+    ends: 1:41
+    type: betting
+  - id: where_s_yoshi
+    title: "Where's Yoshi"
+    path: "24 Where's Yoshi.vgz"
+    type: warning
+...

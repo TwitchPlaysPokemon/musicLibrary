@@ -1,0 +1,23 @@
+---
+id: ottos_ottifanetn_baby_brunos_nightmare
+title: "Otto's Ottifanten - Baby Bruno's Nightmare"
+platform: "GB"
+year: 1998
+songs:
+  - id: main_menu_oobbn
+    title: "Main Menu"
+    path: "01 Main Menu.vgz"
+    type: betting
+  - id: woods_of_happiness
+    title: "Woods of Happiness"
+    path: "02 Woods of Happiness.vgz"
+    type: betting
+  - id: ghostphobia
+    title: "Ghostphobia"
+    path: "03 Ghostphobia.vgz"
+    type: betting
+  - id: welcome_to_hell_oobbn
+    title: "Welcome to Hell"
+    path: "04 Welcome to Hell.vgz"
+    type: betting
+...

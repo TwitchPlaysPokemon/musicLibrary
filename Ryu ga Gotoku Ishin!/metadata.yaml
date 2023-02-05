@@ -1,22 +1,135 @@
 ---
-id: ryu_ga_gotoku_ishin
-title: "Like a Dragon: Ishin!"
+id: ryu_ga_gotoku_ishin #keeping JP name because this isn't the remake I guess?
+title: "Ryu Ga Gotoku: Ishin!"
 series: yakuza
 platform: "PS3, PS4"
 year: 2014
 songs: 
-  - id: assassination_of_the_bodhisattva_phase_1
-    title: "Assassination of the Bodhisattva (Phase 1)"
-    path: "35 菩殺 1.brstm"
-    ends: 3:05
-    type: betting
-  - id: assassination_of_the_bodhisattva_phase_2
-    title: "Assassination of the Bodhisattva (Phase 2)"
-    path: "35 菩殺 2.brstm"
-    type: battle
   - id: with_you
     title: "With You"
     path: "39 With You.brstm"
     ends: 3:33
     type: betting
+  - id: four_unrestful_flowers
+    title: "Four Unrestful Flowers"
+    path: "乱れ四華花.brstm"
+    type: battle
+  - id: assassination_of_the_bodhisattva_ishin
+    title: "Assassination of the Bodhisattva"
+    path: "菩殺.brstm"
+    type: battle
+  - id: ashura_komachi
+    title: "Ashura Komachi"
+    path: "asurakomachi.brstm"
+    ends: 1:46
+    type: betting
+  - id: iji_sakura
+    title: "Iji Sakura"
+    path: "ijisakura.brstm"
+    ends: 1:29
+    type: betting
+  - id: samurai_ondo
+    title: "Samurai Ondo"
+    path: "samuraiondo.brstm"
+    ends: 2:06
+    type: betting
+  - id: poem_of_restoration
+    title: "Poem of Restoration"
+    path: "system_install.hca"
+    type: betting
+  - id: moonlight_moth
+    title: "Moonlight Moth"
+    path: "ID00001.hca"
+    type: betting
+  - id: keep_dreaming_rggi
+    title: "Keep Dreaming"
+    path: "ID01136.hca"
+    type: betting
+  - id: like_a_chicken_s_shadow
+    title: "Like a Chicken's Shadow"
+    path: "ID01137.hca"
+    type: betting
+  - id: a_cup_of_kisses
+    title: "A Cup of Kisses"
+    path: "ID01145.hca"
+    type: betting
+  - id: fubuki_kouta
+    title: "Fubuki Kouta"
+    path: "ID01346.hca"
+    ends: 1:32
+    type: betting
+  - id: samurai_enbu
+    title: "Samurai Enbu"
+    path: "ID01347.hca"
+    ends: 1:33
+    type: betting
+  - id: heartbeat_rggi
+    title: "Heartbeat"
+    path: "ID01348.hca"
+    ends: 1:35
+    type: betting
+  - id: vermillion_sound
+    title: "Vermilion Sound"
+    path: "ID08574_012.hca"
+    type: battle
+  - id: before_the_sasanqua_falls
+    title: "Before the Sasanqua Falls"
+    path: "ID00994.adx"
+    type: betting
+  - id: innocence_for_violence
+    title: "Innocence for Violence"
+    path: "ID00995.adx"
+    type: betting
+  - id: tonight_s_piercing_tiger
+    title: "Tonight's Piercing Tiger"
+    path: "ID00996.adx"
+    type: battle
+  - id: ryoma_shall_die
+    title: "Ryoma Shall Die"
+    path: "ID01069.adx"
+    type: battle
+  - id: blade_of_sorrow
+    title: "Blade of Sorrow"
+    path: "ID01070.adx"
+    type: battle
+  - id: willow_s_riff
+    title: "Willow's Riff"
+    path: "ID01073.adx"
+    type: battle
+  - id: lost_lewisite
+    title: "Lost Lewisite"
+    path: "ID01074.adx"
+    type: battle
+  - id: the_rhapsody_of_chivalry
+    title: "The Rhapsody of Chivalry"
+    path: "ID01075.adx"
+    type: battle
+  - id: fiercest_warrior
+    title: "Fiercest Warrior"
+    path: "ID01076.adx"
+    type: battle
+  - id: la_muerte_del_gobierno
+    title: "La Muerte Del Gobierno"
+    path: "ID01077.adx"
+    type: betting
+  - id: for_your_sake_rggi
+    title: "For Your Sake"
+    path: "ID01078.adx"
+    type: battle
+  - id: receive_you_the_archetype
+    title: "Receive You The Archetype"
+    path: "ID01079.adx"
+    type: battle
+  - id: receive_and_doubt_you
+    title: "Receive and Doubt You"
+    path: "ID01080.adx"
+    type: battle
+  - id: as_a_man_as_a_brave
+    title: "As a man, As a brave"
+    path: "ID01081.adx"
+    type: battle
+  - id: war_between_old_and_new_strings
+    title: "War Between Old & New Strings"
+    path: "ID01265.adx"
+    type: battle
 ...

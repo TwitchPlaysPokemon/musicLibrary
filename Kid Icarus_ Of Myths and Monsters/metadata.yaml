@@ -3,16 +3,52 @@ title: "Kid Icarus: Of Myths and Monsters"
 platform: "GB"
 year: 1991
 songs: 
-  - id: fortress_kid_icarus
-    title: "Fortress"
-    path: "Fortress.brstm"
-    ends: 2:09
-    type: betting
+  - id: prologue_kid_icarus
+    title: "Prologue"
+    path: "01 Prologue.vgz"
+    type: break
   - id: underworld_tower
     title: "Underworld Tower"
-    path: "Underworld Tower.brstm"
+    path: "03 Underworld Tower.vgz"
     type: result
+  - id: grim_reaper_s_theme
+    title: "Grim Reaper's Theme"
+    path: "05 Grim Reaper's Theme.vgz"
+    type: warning
+  - id: fortress_kid_icarus
+    title: "Fortress"
+    path: "06 Fortress.vgz"
+    type: betting
+  - id: battle_kid_icarus
+    title: "Battle"
+    path: "07 Battle.vgz"
+    type: warning
+  - id: overworld_kid_icarus
+    title: "Overworld"
+    path: "08 Overworld.vgz"
+    type: betting
+  - id: sky_world_tower
+    title: "Sky World Tower"
+    path: "09 Sky World Tower.vgz"
+    type: result
+  - id: last_fortress
+    title: "Last Fortress"
+    path: "10 Last Fortress.vgz"
+    type: result
+  - id: goddess_palutena
+    title: "Goddess Palutena"
+    path: "11 Goddess Palutena.vgz"
+    type: result
+  - id: sky_palace
+    title: "Sky Palace"
+    path: "12 Sky Palace.vgz"
+    type: betting
   - id: final_battle_with_orcos
     title: "Final Battle with Orcos"
-    path: "Final Battle with Orcos.brstm"
+    path: "13 Final Battle with Orcos.vgz"
     type: warning
+  - id: ending_kid_icarus
+    title: "Ending"
+    path: "14 Ending.vgz"
+    type: result
+...

@@ -7,82 +7,86 @@ year: 1998
 songs:
   - id: playing_the_game_mp1
     title: "Playing The Game"
-    path: "Playing the Game.brstm"
+    path: "03 Playing The Game.miniusf"
     type: break
   - id: option_house_mp1
     title: "Option House Theme"
-    path: "Option House.brstm"
+    path: "06 Option House Theme.miniusf"
     type: warning
   - id: dks_jungle_adventure
-    title: "Jungle Adventure"
-    path: "Jungle Adventure.brstm"
+    title: "DK's Jungle Adventure"
+    path: "12 Jungle Adventure.miniusf"
     type: betting
-  - id: peachs_birthday_cake
-    title: "Birthday Cake"
-    path: "Birthday Cake.brstm"
+  - id: peachs_birthday_cake_mp1
+    title: "Peach's Birthday Cake"
+    path: "13 Birthday Cake.miniusf"
     type: betting
-  - id: yoshis_tropical_island
-    title: "Tropical Island"
-    path: "Tropical Island.brstm"
+  - id: yoshis_tropical_island_mp1
+    title: "Yoshi's Tropical Island"
+    path: "14 Tropical Island.miniusf"
     type: betting
   - id: warios_battle_cannon
-    title: "Battle Canyon"
-    path: "Battle Canyon.brstm"
+    title: "Wario's Battle Canyon"
+    path: "15 Battle Canyon.miniusf"
     type: betting
   - id: luigis_engine_room
-    title: "Engine Room"
-    path: "Engine Room.brstm"
+    title: "Luigi's Engine Room"
+    path: "16 Engine Room.miniusf"
     type: betting
   - id: marios_rainbow_castle
-    title: "Rainbow Castle"
-    path: "Rainbow Castle.brstm"
+    title: "Mario's Rainbow Castle"
+    path: "17 Rainbow Castle.miniusf"
+    type: betting
+  - id: play_a_mini_game
+    title: "Play A Mini-Game!"
+    path: "18 Play A Mini-Game!.miniusf"
+    type: betting
+  - id: mushroom_forest
+    title: "Mushroom Forest"
+    path: "19 Mushroom Forest.miniusf"
     type: betting
   - id: ducking_and_dodging
     title: "Ducking and Dodging"
-    path: "Ducking and Dodging.brstm"
+    path: "20 Ducking and Dodging.miniusf"
     type: warning
   - id: faster_than_all
     title: "Faster Than All"
-    path: "Faster than All.brstm"
+    path: "26 Faster Than All.miniusf"
     type: warning
   - id: slowly_slowly
     title: "Slowly, Slowly"
-    path: "Slowly, Slowly.brstm"
+    path: "28 Slowly, Slowly.miniusf"
     type: warning
   - id: dodging_danger
     title: "Dodging Danger"
-    path: "Dodging Danger.brstm"
+    path: "30 Dodging Danger.miniusf"
     type: warning
   - id: move_to_the_mambo
     title: "Move To The Mambo!"
-    path: "Move to the Mambo!.brstm"
+    path: "32 Move To The Mambo!.miniusf"
     type: warning
   - id: outcome_of_adventure
     title: "Outcome Of Adventure"
-    path: "Outcome of Adventure.brstm"
+    path: "41 Outcome Of Adventure.miniusf"
     type: result
   - id: mini_game_stadium_mp1
     title: "Mini Game Stadium"
-    path: "Mini Game Stadium Theme.brstm"
+    path: "56 Mini Game Stadium.miniusf"
     type: betting
   - id: bowsers_magma_mountain
-    title: "Magma Mountain"
-    path: "Bowser Magma Mountain.brstm"
+    title: "Bowser's Magma Mountain"
+    path: "67 Magma Mountain.miniusf"
     type: betting
   - id: the_eternal_star
     title: "Eternal Star"
-    path: "Eternal Star.brstm"
+    path: "68 Eternal Star.miniusf"
     type: betting
   - id: the_stolen_star
     title: "The Stolen Star"
-    path: "The Stolen Star.brstm"
+    path: "69 The Stolen Star.miniusf"
     type: warning
   - id: everyones_a_superstar
     title: "Everyone's A Super Star!"
-    path: "Everyone's a Super Star.brstm"
+    path: "72 Everyone's A Super Star!.miniusf"
     type: result
-  - id: mushroom_forest
-    title: "Mushroom Forest"
-    path: "Mushroom Forest.brstm"
-    type: betting
 ...

@@ -4,25 +4,38 @@ title: "Shin Megami Tensei: Digital Devil Saga"
 series: shinmegamitensei
 platform: "PS2"
 year: 2004
+#replacing brstms with the legit game files, and also adding some new ones here and there. Was hard to tell which ones did and didn't loop
 songs:
   - id: hunting
     title: "Hunting"
-    path: "SMTDDS - Hunting.brstm"
+    path: "218 Hunting.at3"
     type: battle
   - id: muladhara
     title: "Muladhara"
-    path: "SMTDDS - Muladhara.brstm"
+    path: "107 Muladhara.psf2"
     type: betting
   - id: sahasrara
     title: "Sahasrara"
-    path: "Sahasrara.brstm"
+    path: "110 Sahasrara.psf2"
     type: betting
   - id: river_of_samsara
     title: "River of Samsara"
-    path: "River of Samsara.brstm"
+    path: "128a River of Samsara.psf2"
     type: betting
   - id: karma_smtdds
     title: "Karma"
-    path: "Shin_Megami_Tensei_Digital_Devil_Saga_1-Karma.brstm"
+    path: "Shin_Megami_Tensei_Digital_Devil_Saga_1-Karma.brstm" #couldn't find the game file for this one
     type: result
+  - id: man_s_tomb
+    title: "Man's Tomb"
+    path: "207b Man's Tomb.psf2"
+    type: betting
+  - id: never_ending_rain
+    title: "Never Ending Rain"
+    path: "211 Never Ending Rain.at3"
+    type: result
+  - id: hari_hara
+    title: "Hari-Hara"
+    path: "233 Hari-Hara.at3"
+    type: betting
 ...

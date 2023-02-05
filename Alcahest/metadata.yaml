@@ -4,10 +4,30 @@ title: "Alcahest"
 platform: "SFC"
 year: 1993
 songs:
-  - id: babilom's_theme
+  - id: main_theme_alcahest
+    title: "Main Theme"
+    path: "02 Main Theme.spc"
+    type: result
+  - id: the_legend_of_alcahest
+    title: "The Legend of Alcahest"
+    path: "03 The Legend of Alcahest.spc"
+    type: break
+  - id: babilom_s_theme
     title: "Babilom's Theme"
     path: "04 Babilom's Theme.spc"
     type: warning
+  - id: dark_lava_cavern
+    title: "Dark Lava Cavern"
+    path: "06 Dark Lava Cavern.spc"
+    type: warning
+  - id: powerful_enemy_alcahest
+    title: "Powerful Enemy"
+    path: "07 Powerful Enemy.spc"
+    type: warning
+  - id: light_of_the_guardians
+    title: "Light of the Guardians"
+    path: "08 Light of the Guardians.spc"
+    type: break
   - id: panakeian_temple
     title: "Panakeian Temple"
     path: "11 Panakeian Temple.spc"
@@ -16,12 +36,40 @@ songs:
     title: "General of the Empire"
     path: "13 General of the Empire.spc"
     type: warning
+  - id: demonic_transformation
+    title: "Demonic Transformation"
+    path: "14 Demonic Transformation.spc"
+    type: warning
+  - id: mountain_trail_alcahest
+    title: "Mountain Trail"
+    path: "15 Mountain Trail.spc"
+    type: betting
+  - id: sky_fortress_alcahest
+    title: "Sky Fortress"
+    path: "17 Sky Fortress.spc"
+    type: betting
+  - id: science_ruins_alcahest
+    title: "Science Ruins"
+    path: "18 Science Ruins.spc"
+    type: betting
   - id: ancient_spaceship
     title: "Ancient Spaceship"
     path: "19 Ancient Spaceship.spc"
+    type: betting
+  - id: edge_of_the_world
+    title: "Edge of the World"
+    path: "21 Edge of the World.spc"
     type: betting
   - id: the_demon_underworld
     title: "The Demon Underworld"
     path: "22 The Demon Underworld.spc"
     type: betting
+  - id: alcahest_god_of_death
+    title: "Alcahest ~ God of Death"
+    path: "23 Alcahest ~ God of Death.spc"
+    type: battle
+  - id: alcahest_s_true_form
+    title: "Alcahest's True Form"
+    path: "24 Alcahest's True Form.spc"
+    type: battle
 ...

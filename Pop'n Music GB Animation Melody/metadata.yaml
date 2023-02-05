@@ -1,0 +1,68 @@
+id: pop_n_music_gb_animation_melody
+title: "Pop'n Music GB Animation Melody"
+platform: "GBC"
+year: 2000
+#yes, they're mostly covers of anime songs. Unfornuately they don't loop, so I had to set most of them as warning or result.  
+songs:
+  - id: title_pop_n_music
+    title: "Title"
+    path: "01 Title.vgz"
+    type: result
+  - id: select_pop_n_music
+    title: "Select"
+    path: "02 Select.vgz"
+    type: betting
+  - id: option_pop_n_music
+    title: "Option"
+    path: "04 Option.vgz"
+    type: break
+  - id: sally_the_witch
+    title: "Sally the Witch"
+    path: "06 Sally the Witch.vgz"
+    type: result
+  - id: mazinger_z_pop_n_music
+    title: "Mazinger Z"
+    path: "07 Mazinger Z.vgz"
+    type: warning
+  - id: getter_robo_pop_n_music
+    title: "Getter Robo !"
+    path: "08 Getter Robo !.vgz"
+    type: warning
+  - id: kinnikuman_go_fight
+    title: "Kinnikuman Go Fight !"
+    path: "09 Kinnikuman Go Fight !.vgz"
+    type: result
+  - id: cha_la_head_cha_la_pop_n_music
+    title: "Cha-La Head-Cha-La"
+    path: "10 Cha-La Head-Cha-La.vgz"
+    type: result
+  - id: cutie_honey
+    title: "Cutie Honey"
+    path: "11 Cutie Honey.vgz"
+    type: warning
+  - id: tiger_mask
+    title: "Tiger Mask"
+    path: "14 Tiger Mask.vgz"
+    type: warning
+  - id: gegege_no_kitaro
+    title: "GeGeGe no Kitaro"
+    path: "15 GeGeGe no Kitaro.vgz"
+    type: warning
+  - id: wai_wai_world
+    title: "Wai Wai World"
+    path: "18 Wai Wai World.vgz"
+    type: result
+  - id: makafushigi_adventure
+    title: "Makafushigi Adventure !"
+    path: "19 Makafushigi Adventure !.vgz"
+    ends: 1:48
+    type: betting
+  - id: karan_koron_no_uta
+    title: "Karan Koron no Uta"
+    path: "20 Karan Koron no Uta.vgz"
+    type: warning
+  - id: moonlight_densetsu_pop_n_music
+    title: "Moonlight Densetsu"
+    path: "22 Moonlight Densetsu.vgz"
+    type: result
+...

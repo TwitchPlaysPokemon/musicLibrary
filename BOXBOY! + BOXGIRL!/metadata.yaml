@@ -1,0 +1,40 @@
+---
+id: boxboy_plus_boxgirl
+title: "BOXBOY! + BOXGIRL!"
+series: boxboy
+platform: "Switch"
+year: 2019
+songs: 
+  - id: challenge_boxboy_boxgirl
+    title: "Challenge"
+    path: "Challenge.brstm"
+    type: warning
+  - id: stage_clear_boxboy_boxgirl
+    title: "Stage Clear"
+    path: "Clear.brstm"
+    type: result
+  - id: shop_boxboy_boxgirl
+    title: "Shop"
+    path: "Shop.brstm"
+    type: betting
+  - id: stage_1_boxboy_boxgirl
+    title: "Stage 1"
+    path: "Stage1.brstm"
+    type: betting
+  - id: stage_2_boxboy_boxgirl
+    title: "Stage 2"
+    path: "Stage2.brstm"
+    type: break
+  - id: stage_3_boxboy_boxgirl
+    title: "Stage 3"
+    path: "Stage3.brstm"
+    type: break
+  - id: world_map_2_boxboy_boxgirl
+    title: "World Map 2"
+    path: "WorldMap2.brstm"
+    type: betting
+  - id: world_map_3_boxboy_boxgirl
+    title: "World Map 3"
+    path: "WorldMap3.brstm"
+    type: betting
+...

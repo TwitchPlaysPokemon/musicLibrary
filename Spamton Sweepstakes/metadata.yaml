@@ -1,0 +1,48 @@
+---
+id: spamton_sweepstakes
+title: "Spamton Sweepstakes"
+platform: "Web"
+year: 2022
+songs: 
+  - id: a_cyber_s_world_midi
+    title: "A CYBER'S WORLD? - MIDI"
+    path: "midi-cybers-world_byShinkoNetCavy.mp3"
+    ends: 2:43
+    type: betting
+  - id: spamton_midi
+    title: "Spamton - MIDI"
+    path: "midi-spamton.logg"
+    type: warning
+  - id: now_s_your_chance_to_be_a_midi
+    title: "NOW'S YOUR CHANCE TO BE A - MIDI"
+    path: "midi-spamton-battle.logg"
+    type: battle
+  - id: dialtone_midi
+    title: "Dialtone - MIDI"
+    path: "midi-dialtone.logg"
+    type: result
+  - id: pandora_palace_midi
+    title: "Pandora Palace - MIDI"
+    path: "midi-pandora-palace_byShinkoNetCavy.logg"
+    type: betting
+  - id: big_shot_midi
+    title: "BIG SHOT - MIDI"
+    path: "midi-bigshot_byShinkoNetCavy.logg"
+    type: battle
+  - id: holiday_country
+    title: "Holiday Country"
+    path: "midi-holiday-country.logg"
+    type: result
+  - id: find_her
+    title: "Find Her"
+    path: "findher.logg"
+    type: break
+  - id: credits_spamton
+    title: "Credits"
+    path: "keygen_credits.logg"
+    type: result
+  - id: room_dogcheck
+    title: "room_dogcheck"
+    path: "results.logg"
+    type: break
+...

@@ -6,11 +6,19 @@ year: 1989
 songs: 
   - id: stage_music_1
     title: "Stage Music 1"
-    path: "Stage Music 1.brstm"
+    path: "03 Stage BGM 1.vgz"
     type: betting
   - id: stage_music_2
     title: "Stage Music 2"
-    path: "Stage Music 2.brstm"
+    path: "04 Stage BGM 2.vgz"
     ends: 2:00
     type: betting
+  - id: boss_bgm_gyruss
+    title: "Boss BGM"
+    path: "05 Boss BGM.vgz"
+    type: warning
+  - id: opportunity_stage_bgm
+    title: "Opportunity Stage BGM"
+    path: "07 Opportunity Stage BGM.vgz"
+    type: result
 ...

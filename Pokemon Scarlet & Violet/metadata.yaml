@@ -1,0 +1,203 @@
+---
+id: pokemon_scarlet_violet
+title: "Pokémon Scarlet & Violet"
+series: pokemon
+platform: "Switch"
+year: 2022
+#very basic setup atm. Had to get assistance for these initial songs, had to wing the song titles. 
+#songs are sorted by the order they appear in the files, for clarity
+#always open to suggestions for improvement, same as with Legends Arceus
+songs:
+    - id: iono_livestream_part_1
+      title: "Iono Livestream (Part 1)"
+      path: "BGM-00030.txtp"
+      type: warning
+    - id: penny_s_theme
+      title: "Penny's Theme"
+      path: "BGM-00256.txtp"
+      type: betting
+    - id: area_zero
+      title: "Area Zero"
+      path: "BGM-00267.txtp"
+      type: betting
+    - id: battle_area_zero_paradox_pokemon
+      title: "Battle! (Area Zero Pokémon 2)"
+      path: "BGM-00269.txtp"
+      type: battle
+    - id: trainers_eyes_meet_scarlet
+      title: "Trainers' Eyes Meet"
+      path: "BGM-00270.txtp"
+      type: warning
+    - id: victory_trainer_scarlet_violet
+      title: "Victory! (Trainer)"
+      path: "BGM-00282.txtp"
+      type: result
+    - id: battle_western_pokemon
+      title: "Battle! (Western Pokémon)"
+      path: "BGM-00295.txtp"
+      type: battle
+    - id: artazon_zapapico
+      title: "Artazon & Zapapico"
+      path: "BGM-00300.txtp"
+      type: break
+    - id: battle_area_zero_pokemon
+      title: "Battle! (Area Zero Pokémon)"
+      path: "BGM-00302.txtp"
+      type: battle
+    - id: home_indoors
+      title: "Home (Indoors)"
+      path: "BGM-00304.txtp"
+      type: break
+    - id: home_outdoors
+      title: "Home (Outdoors)"
+      path: "BGM-00305.txtp"
+      type: betting
+    - id: cascarrafa
+      title: "Cascarrafa"
+      path: "BGM-00310.txtp"
+      type: betting
+    - id: levincia
+      title: "Levincia"
+      path: "BGM-00311.txtp"
+      type: betting
+    - id: battle_southern_pokemon
+      title: "Battle! (Southern Pokémon)"
+      path: "BGM-00316.txtp"
+      type: battle
+    - id: battle_northern_pokemon
+      title: "Battle! (Northern Pokémon)"
+      path: "BGM-00318.txtp"
+      type: battle
+    - id: south_province
+      title: "South Province"
+      path: "BGM-00319.txtp"
+      type: break
+    - id: south_province_riding
+      title: "South Province (Riding)"
+      path: "BGM-00320.txtp"
+      type: betting
+    - id: alfornada
+      title: "Alfornada"
+      path: "BGM-00321.txtp"
+      type: betting
+    - id: los_platos
+      title: "Los Platos"
+      path: "BGM-00322.txtp"
+      type: betting
+    - id: battle_eastern_pokemon
+      title: "Battle! (Eastern Pokémon)"
+      path: "BGM-00334.txtp"
+      type: battle
+    - id: east_province
+      title: "East Province"
+      path: "BGM-00344.txtp"
+      type: betting
+    - id: medali
+      title: "Medali"
+      path: "BGM-00347.txtp"
+      type: break
+    - id: west_province
+      title: "West Province"
+      path: "BGM-00351.txtp"
+      type: break
+    - id: victory_ai_professor_sada_turo
+      title: "Victory! (AI Professor)"
+      path: "BGM-00374.txtp"
+      type: result
+    - id: battle_ai_professor_sada_turo
+      title: "Battle! (AI Professor)"
+      path: "BGM-00375.txtp"
+      type: battle
+    - id: battle_paradise_protection_protocol_koraidon_miraidon
+      title: "Battle! (Paradise Protection Protocol)"
+      path: "BGM-00376.txtp"
+      type: battle
+    - id: battle_titan
+      title: "Battle! (Titan)"
+      path: "BGM-00378.txtp"
+      type: battle
+    - id: academy_classroom
+      title: "Academy Classroom"
+      path: "BGM-00382.txtp"
+      type: betting
+    - id: battle_nemona
+      title: "Battle! (Nemona)"
+      path: "BGM-00433.txtp"
+      type: battle
+    - id: battle_trainer_scarlet_violet
+      title: "Battle! (Trainer)"
+      path: "BGM-00449.txtp"
+      type: battle
+    - id: battle_gym_leader_scarlet_violet
+      title: "Battle! (Gym Leader)"
+      path: "BGM-00450.txtp"
+      type: battle #also includes pre-battle dialogue, but whatever
+    - id: battle_star_barrage_base_raid
+      title: "Battle! (Star Barrage)"
+      path: "BGM-00451.txtp"
+      type: battle
+    - id: battle_team_star
+      title: "Battle! (Team Star)"
+      path: "BGM-00452.txtp"
+      type: battle
+    - id: battle_director_clavell
+      title: "Battle! (Director Clavell)"
+      path: "BGM-00453.txtp"
+      type: battle
+    - id: battle_team_star_boss
+      title: "Battle! (Team Star Boss)"
+      path: "BGM-00454.txtp"
+      type: battle
+    - id: battle_elite_four_scarlet_violet
+      title: "Battle! (Elite Four)"
+      path: "BGM-00455.txtp"
+      type: battle
+    - id: battle_cassiopeia
+      title: "Battle! (Cassiopeia)"
+      path: "BGM-00456.txtp"
+      type: battle
+    - id: battle_champion_nemona_2
+      title: "Battle! (Nemona 2)"
+      path: "BGM-00457.txtp"
+      type: battle
+    - id: battle_the_top_champion_geeta
+      title: "Battle! (The Top Champion)"
+      path: "BGM-00458.txtp"
+      type: battle
+    - id: battle_ruinous_legend
+      title: "Battle! (Ruinous Legend)"
+      path: "BGM-00463.txtp"
+      type: battle
+    - id: battle_the_academy_ace_tournament
+      title: "Battle! (The Academy Ace Tournament)"
+      path: "BGM-00464.txtp"
+      type: battle
+    - id: battle_tera_raid_battle
+      title: "Battle! (Tera Raid Battle)"
+      path: "BGM-00466.txtp"
+      type: battle
+    - id: battle_arven
+      title: "Battle! (Arven)"
+      path: "BGM-00467.txtp"
+      type: battle
+    # - id: celestial
+      # title: "Celestial"
+      # path: "BGM-00491.txtp"
+      # type: betting #jk lol could you even imagine
+    - id: evolution_scarlet_violet
+      title: "Evolution"
+      path: "BGM-00492.txtp"
+      type: warning
+    - id: clive_s_true_identity
+      title: "Clive's True Identity"
+      path: "BGM-00498.txtp"
+      type: warning
+    - id: pokemon_league_interview
+      title: "Pokémon League Interview"
+      path: "BGM-00697.txtp"
+      type: betting
+    - id: making_a_sandwich
+      title: "Making a Sandwich"
+      path: "BGM-00738.txtp"
+      type: betting
+...

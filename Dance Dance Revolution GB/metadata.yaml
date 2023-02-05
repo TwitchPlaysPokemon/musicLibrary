@@ -1,0 +1,21 @@
+---
+id: dance_dance_revolution_gb
+title: "Dance Dance Revolution GB"
+series: dancedancerevolution
+platform: "GBC"
+year: 2000
+songs:
+  - id: butterfly_ddrgb #this is the 8-bit Pikachu song
+    title: "Butterfly"
+    path: "05 Butterfly.vgz"
+    ends: 1:38
+    type: betting
+  - id: select_step_mode
+    title: "Select Step Mode"
+    path: "03 Select Step Mode.vgz"
+    type: betting
+  - id: naming_ddrgb
+    title: "Naming"
+    path: "22 Naming.vgz"
+    type: warning
+...

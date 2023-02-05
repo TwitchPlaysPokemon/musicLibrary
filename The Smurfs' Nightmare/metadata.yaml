@@ -6,26 +6,26 @@ platform: ["GB", "GBC"]
 songs:
   - id: main_menu_smurfs_nightmare
     title: "Main Menu"
-    path: "Main Menu.brstm"
+    path: "01 Main Menu (The Smurfs Theme).vgz"
     type: betting
   - id: the_rabbit_race_rabbits_ride_smurfs_nightmare
     title: "The Rabbit Race (Rabbit's Ride)"
-    path: "The Rabbit Race (Rabbit's Ride).brstm"
+    path: "05 Rabbit Race.vgz"
     type: betting
   - id: the_mysterious_planet_another_world
     title: "The Mysterious Planet (Another World)"
-    path: "The Mysterious Planet (Another World).brstm"
+    path: "08 Another World (The Mysterious Planet).vgz"
     type: betting
   - id: the_bottomless_well_aqua
     title: "The Bottomless Well (Aqua)"
-    path: "The Bottomless Well (Aqua).brstm"
+    path: "07 Aqua (The Bottomless Well).vgz"
     type: betting
   - id: the_library_of_fear_hidden_around
     title: "The Library of Fear (Hidden Around)"
-    path: "The Library of Fear (Hidden Around).brstm"
+    path: "13 Strange Rhythm (The Laboratory of Fear).vgz"
     type: betting
   - id: the_kitchen_of_danger_funny_funny
     title: "The Kitchen of Danger (Funny Funny)"
-    path: "The Kitchen of Danger (Funny Funny).brstm"
+    path: "04 Funny Funny (The Kitchen of Danger).vgz"
     type: betting
 ...

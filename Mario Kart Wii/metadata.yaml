@@ -36,17 +36,14 @@ songs:
   - id: dk_summit
     title: "DK Summit"
     path: "DK’s Snowboard Cross_DK Summit.brstm"
-    tags: [xmas]
     type: betting
   - id: dk_summit_fast
     title: "DK Summit (Fast)"
     path: "DK’s Snowboard Cross (Fast).brstm"
-    tags: [xmas]
     type: warning
   - id: n64_sherbet_land_frontrunning
     title: "N64 Sherbet Land (Frontrunning)"
     path: "N64 Sherbet Land (Frontrunning).brstm"
-    tags: [xmas]
     type: betting
   - id: funky_stadium
     title: "Funky Stadium"
@@ -68,4 +65,48 @@ songs:
     title: "Mushroom Gorge"
     path: "n_Kinoko_n.brstm"
     type: betting
+  - id: rainbow_road_mkwii
+    title: "Rainbow Road"
+    path: "n_Rainbow32_n.brstm"
+    type: betting
+  - id: rainbow_road_final_lap
+    title: "Rainbow Road (Final Lap)"
+    path: "n_Rainbow32_f.brstm"
+    type: warning
+  - id: luigi_circuit_and_mario_circuit
+    title: "Luigi Circuit & Mario Circuit"
+    path: "n_Circuit32_n.brstm"
+    type: betting
+  - id: luigi_circuit_and_mario_circuit_final_lap
+    title: "Luigi Circuit & Mario Circuit (Final Lap)"
+    path: "n_Circuit32_f.brstm"
+    type: warning
+  - id: grumble_volcano
+    title: "Grumble Volcano"
+    path: "n_Volcano32_n.brstm"
+    type: battle #maybe?
+  - id: grumble_volcano_final_lap
+    title: "Grumble Volcano (Final Lap)"
+    path: "n_Volcano32_f.brstm"
+    type: warning
+  - id: finished_race_1st_place_mkwii
+    title: "Finished Race (1st Place)"
+    path: "o_FanfareGP1_32.brstm"
+    type: betting
+  - id: ds_delfino_square_mkwii
+    title: "DS Delfino Square"
+    path: "r_DS_Town32_n.brstm"
+    type: betting
+  - id: ds_delfino_square_final_lap_mkwii
+    title: "DS Delfino Square (Final Lap)"
+    path: "r_DS_Town32_f.brstm"
+    type: warning
+  - id: n64_mario_raceway_mkwii
+    title: "N64 Mario Raceway"
+    path: "r_64_Circuit32_n.brstm"
+    type: betting
+  - id: n64_mario_raceway_final_lap_mkwii
+    title: "N64 Mario Raceway (Final Lap)"
+    path: "r_64_Circuit32_f.brstm"
+    type: warning
 ...

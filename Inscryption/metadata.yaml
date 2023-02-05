@@ -1,0 +1,47 @@
+---
+id: inscryption
+title: "Inscryption"
+platform: ["PC", "PS5", "PS4", "Switch"]
+year: 2021
+songs:
+  - id: deathcard_cabin
+    title: "Deathcard Cabin"
+    path: "Deathcard Cabin.brstm"
+    type: break
+  - id: g0lly_s_theme
+    title: "G0lly's Theme"
+    path: "G0lly's Theme.brstm"
+    type: betting
+  - id: g0lly_s_theme_uploading
+    title: "G0lly's Theme (Uploading)"
+    path: "G0lly's Theme (Uploading).brstm"
+    type: result
+  - id: captain_royal_dominguez
+    title: "Captain Royal Dominguez"
+    path: "The Limoncello.brstm"
+    type: betting
+  - id: the_temple_of_magicks
+    title: "The Temple of Magicks"
+    path: "The Temple of Magicks.brstm"
+    type: break
+  - id: the_temple_of_beasts
+    title: "The Temple of Beasts"
+    path: "The Temple of Beasts.brstm"
+    type: break
+  - id: the_scrybe_of_magicks
+    title: "The Scrybe of Magicks"
+    path: "The Scrybe of Magicks.brstm"
+    type: betting
+  - id: the_scrybe_of_the_dead
+    title: "The Scrybe of the Dead"
+    path: "The Scrybe of the Dead.brstm"
+    type: betting
+  - id: the_trapper
+    title: "The Trapper"
+    path: "The Trapper.brstm"
+    type: betting
+  - id: a_final_duel_inscryption
+    title: "A Final Duel"
+    path: "finalemagnificus [1].brstm"
+    type: battle
+...

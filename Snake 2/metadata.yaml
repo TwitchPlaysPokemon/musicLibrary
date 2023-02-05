@@ -1,0 +1,15 @@
+---
+id: snake2
+title: "#Snake2"
+platform: "PC"
+year: 2012
+songs:
+  - id: gameplay_theme_snake2
+    title: "Gameplay Theme"
+    path: "Gameplay Theme.brstm"
+    type: battle
+  - id: king_butt
+    title: "King Butt"
+    path: "King Butt.brstm"
+    type: warning
+...
