@@ -274,15 +274,15 @@ songs:
     type: warning
   - id: disaster_pla
     title: "Disaster"
-    path: "PLAY_BGM_HA_FI_CMN_NATURAL_DISASTER (BGM_SP_WEATHER_SILENCE=SP_WEATHER_SILENCE_OFF)(1629276573=1738554060)(BGM_SPECIAL_WEATHER_AREA=SPECIAL_WEATHER_AREA_IN)(1065853830=2468287226)(3439184216=7543608~0077.txtp"
+    path: "disaster.txtp"
     type: break
   - id: disaster_battle
     title: "Disaster - Battle"
-    path: "PLAY_BGM_HA_FI_CMN_NATURAL_DISASTER (BGM_SP_WEATHER_SILENCE=SP_WEATHER_SILENCE_OFF)(1629276573=1738554060)(BGM_SPECIAL_WEATHER_AREA=SPECIAL_WEATHER_AREA_IN)(1065853830=2468287226)(3439184216=7543608~0075.txtp"
+    path: "disaster_battle.txtp"
     type: warning
   - id: disaster_spotted
     title: "Disaster - Spotted"
-    path: "PLAY_BGM_HA_FI_CMN_NATURAL_DISASTER (BGM_SP_WEATHER_SILENCE=SP_WEATHER_SILENCE_OFF)(1629276573=1738554060)(BGM_SPECIAL_WEATHER_AREA=SPECIAL_WEATHER_AREA_IN)(1065853830=2468287226)(3439184216=7543608~0078.txtp"
+    path: "disaster_spotted.txtp"
     type: warning
   - id: space_time_distortion
     title: "Space-Time Distortion"
