@@ -9,10 +9,22 @@ songs:
     title: "Playing The Game"
     path: "03 Playing The Game.miniusf"
     type: break
+  - id: peaceful_mushroom_village
+    title: "Peaceful Mushroom Village"
+    path: "04 Peaceful Mushroom Village.miniusf"
+    type: break
+  - id: mushroom_bank_theme
+    title: "Mushroom Bank Theme"
+    path: "05 Mushroom Bank Theme.miniusf"
+    type: warning
   - id: option_house_mp1
     title: "Option House Theme"
     path: "06 Option House Theme.miniusf"
     type: warning
+  - id: mushroom_shop_theme
+    title: "Mushroom Shop Theme"
+    path: "07 Mushroom Shop Theme.miniusf"
+    type: betting
   - id: dks_jungle_adventure
     title: "DK's Jungle Adventure"
     path: "12 Jungle Adventure.miniusf"
@@ -53,6 +65,10 @@ songs:
     title: "Faster Than All"
     path: "26 Faster Than All.miniusf"
     type: warning
+  - id: the_room_underground
+    title: "The Room Underground"
+    path: "27 The Room Underground.miniusf"
+    type: warning
   - id: slowly_slowly
     title: "Slowly, Slowly"
     path: "28 Slowly, Slowly.miniusf"
@@ -65,6 +81,10 @@ songs:
     title: "Move To The Mambo!"
     path: "32 Move To The Mambo!.miniusf"
     type: warning
+  - id: let_s_limbo
+    title: "Let's Limbo!"
+    path: "33 Let's Limbo!.miniusf"
+    type: warning
   - id: outcome_of_adventure
     title: "Outcome Of Adventure"
     path: "41 Outcome Of Adventure.miniusf"
@@ -73,6 +93,10 @@ songs:
     title: "Mini Game Stadium"
     path: "56 Mini Game Stadium.miniusf"
     type: betting
+  - id: winner_mp1
+    title: "Winner!"
+    path: "65 Winner.miniusf"
+    type: result
   - id: bowsers_magma_mountain
     title: "Bowser's Magma Mountain"
     path: "67 Magma Mountain.miniusf"
