@@ -6,7 +6,7 @@ year: 2022
 #most of the track names I was able to find in the OST tracklist. the ones that don't I added my best guess
 songs:
   - id: battle_with_the_leviathan_chocobo_gp
-    title: "Battle with the Leviathan" #
+    title: "Battle with the Leviathan"
     path: "BGM_BattlewiththeLeviathan.sab"
     type: battle
   - id: cinco_de_chocobo
@@ -24,7 +24,7 @@ songs:
   - id: bluegrass_de_chocobo
     title: "Bluegrass de Chocobo"
     path: "BGM_COURSE_CHOCOBO.sab"
-    type: battle #SHENANIGANS
+    type: battle
   - id: cid_s_jam_track
     title: "Cid's Jam Track"
     path: "BGM_COURSE_CID.sab"

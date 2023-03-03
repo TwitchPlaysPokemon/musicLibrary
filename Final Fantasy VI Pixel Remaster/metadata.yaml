@@ -116,7 +116,7 @@ songs:
   - id: aria_de_mexxo_carattere_ff6p
     title: "Aria de Mezzo Carattere"
     path: "SWAV_BGM_FF6_33.win.mab"
-    type: break #?
+    type: break 
   - id: the_wedding_waltz_duel_part_1_ff6p
     title: "The Wedding Waltz-Duel (Part 1)"
     path: "SWAV_BGM_FF6_34a.win.mab"
@@ -164,7 +164,7 @@ songs:
   - id: new_continent_ff6p
     title: "New Continent"
     path: "SWAV_BGM_FF6_46.win.mab"
-    type: warning #?
+    type: warning 
   - id: catastrophe_ff6p
     title: "Catastrophe"
     path: "SWAV_BGM_FF6_47.win.mab"
