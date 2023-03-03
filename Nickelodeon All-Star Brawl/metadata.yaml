@@ -103,7 +103,7 @@ songs:
   - id: main_menu_nick_all_stars_brawl
     title: "Main Menu"
     path: "Main Menu.brstm"
-    type: result #not sure if same as versus theme?
+    type: result
   - id: online_menu_nick_all_stars_brawl
     title: "Online Menu"
     path: "Online.brstm"

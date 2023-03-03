@@ -71,9 +71,9 @@ songs:
   - id: star_star_star
     title: "Star! Star! Star!"
     path: "Star! Star! Star!.nps"
-    type: result #was previously betting
+    type: result 
   - id: epilogue_beautiful_katamari
     title: "Epilogue"
     path: "Epilogue.nps"
-    type: result #could also maybe be break? dunno
+    type: result 
 ...
