@@ -1,0 +1,23 @@
+---
+id: aworg:_hero_in_the_sky
+title: "Aworg: Hero in the Sky"
+platform: "Genesis"
+year: 1991
+songs:
+  - id: title_theme_aworg
+    title: "Title Theme"
+    path: "01 - Title Theme.vgz"
+    type: warning
+  - id: bgm_aworg
+    title: "BGM"
+    path: "03 - BGM.vgz"
+    type: warning
+  - id: boss_aworg
+    title: "Boss"
+    path: "06 - Boss.vgz"
+    type: warning
+  - id: ending_theme_aworg
+    title: "Ending Theme"
+    path: "07 - Ending Theme.brstm"
+    type: result
+...

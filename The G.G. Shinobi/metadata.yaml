@@ -1,0 +1,48 @@
+---
+id: the_g_g_shinobi
+title: "The G.G. Shinobi"
+series: shinobi
+platform: "GG"
+year: 1991
+songs: 
+  - id: select_gg
+    title: "Select"
+    path: "02 - Select.vgm"
+    type: warning
+  - id: rush_gg
+    title: "Rush"
+    path: "04 - Rush.vgm"
+    type: betting
+  - id: boss_1_gg
+    title: "Boss 1"
+    path: "06 - Boss 1.vgm"
+    type: warning
+  - id: first_step
+    title: "First Step"
+    path: "08 - First Step.vgm"
+    type: betting
+  - id: distant_thunder
+    title: "Distant Thunder"
+    path: "09 - Distant Thunder.vgm"
+    type: betting
+  - id: darkside
+    title: "Darkside"
+    path: "11 - Darkside.vgm"
+    type: warning
+  - id: cavern_gg
+    title: "Cavern"
+    path: "12 - Cavern.vgm"
+    type: warning
+  - id: the_last_dungeon_gg
+    title: "The Last Dungeon"
+    path: "14 - The Last Dungeon.vgm"
+    type: warning
+  - id: boss_2_gg
+    title: "Boss 2"
+    path: "15 - Boss 2.vgm"
+    type: warning
+  - id: ending_gg
+    title: "Ending"
+    path: "20 - Ending.vgm"
+    type: result
+...

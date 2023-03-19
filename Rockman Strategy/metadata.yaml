@@ -1,0 +1,48 @@
+---
+id: rockman_stratagy
+title: "Rock Man Strategy"
+series: megaman
+platform: "PC"
+year: 2001
+songs:
+  - id: menus_rms
+    title: "Menus"
+    path: "02 Menus.brstm"
+    type: result
+  - id: upgrade_your_player_rms
+    title: "Upgrade Your Player"
+    path: "04 Upgrade Your Player.brstm"
+    type: warning
+  - id: intro_stage_1_rms
+    title: "Intro & Stage 1"
+    path: "05 Intro & Stage 1.brstm"
+    type: betting
+  - id: aries_rms
+    title: "Aries Stage"
+    path: "07 Aries.brstm"
+    type: warning
+  - id: taurus_rms
+    title: "Taurus Stage"
+    path: "08 Taurus.brstm"
+    type: warning
+  - id: past_robot_master_rms
+    title: "Past Robot Master Stage"
+    path: "09 Past Robot Master.brstm"
+    type: betting
+  - id: gemini_rms
+    title: "Gemini Stage"
+    path: "19 Gemini.brstm"
+    type: warning
+  - id: bass_rms
+    title: "Theme of Forte"
+    path: "23 Forte.brstm"
+    type: result
+  - id: final_cutscene_rms
+    title: "Final Cutsceen"
+    path: "25 Final Cutsceen.brstm"
+    type: break
+  - id: opening_rms
+    title: "Opening"
+    path: "99 Opening.brstm"
+    type: battle
+...

@@ -1,0 +1,19 @@
+---
+id: 3d_challenge
+title: "3D Challenge"
+platform: "3DS"
+year: UNRELEASED
+songs:
+  - id: examine_3d
+    title: "Examine"
+    path: "Examine.brstm"
+    type: result
+  - id: thinking_3d
+    title: "Thinking"
+    path: "Thinking.brstm"
+    type: warning
+  - id: tutorial_3d
+    title: "Tutorial"
+    path: "Tutorial.brstm"
+    type: break
+...

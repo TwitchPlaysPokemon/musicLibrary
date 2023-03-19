@@ -1,0 +1,155 @@
+id: namco_x_capcom
+title: "Namco X Capcom"
+platform: "PS2"
+year: 2005
+#I think these are all remixes? Tried titling them the best I could
+songs:
+  - id: xenosaga_episode_i_battle
+    title: "Xenosaga Episode I - Battle"
+    path: "02 Xenosaga Episode I - Battle.psf2"
+    type: battle
+  - id: brave_sword_braver_soul_nxc
+    title: "BRAVE SWORD, BRAVER SOUL"
+    path: "03 BRAVE SWORD, BRAVER SOUL.psf2"
+    type: battle
+  - id: ishtar_no_fukkatsu_main_theme
+    title: "Ishtar no Fukkatsu - Main Theme"
+    path: "05 Ishtar no Fukkatsu (Return of Ishtar) - Main Theme.psf2"
+    type: result
+  - id: dig_dug_ii_nxc
+    title: "DIG DUG II"
+    path: "06 DIG DUG II - DIG DUG II.psf2"
+    type: betting
+  - id: genpei_toumaden_yoshitsune
+    title: "Genpei Toumaden - Yoshitsune"
+    path: "08 Genpei Toumaden (The Genji and Heike Clans) - Yoshitsune.psf2"
+    type: betting
+  - id: valkyrie_no_densetsu_main_theme
+    title: "Valkyrie no Densetsu - Main Theme"
+    path: "09 Valkyrie no Densetsu (Legend of Valkyrie) - Main Theme.psf2"
+    type: betting
+  - id: tekken_tag_tournament_opening_movie
+    title: "Tekken Tag Tournament - OPENING MOVIE"
+    path: "11 Tekken Tag Tournament - OPENING MOVIE.psf2"
+    type: betting
+  - id: tekken_3_opening_movie
+    title: "Tekken 3 - Opening Movie"
+    path: "12 Tekken 3 - Opening Movie.psf2"
+    type: betting
+  - id: stepping_wind_nxc
+    title: "STEPPING WIND"
+    path: "13 Klonoa 2 - STEPPING WIND.psf2"
+    type: betting
+  - id: demitri_stage_romania
+    title: "DEMITRI Stage (Romania)"
+    path: "14 Vampire Hunter (Darkstalkers) - DEMITRI Stage (Romania).psf2"
+    type: betting
+  - id: lei_lei_stage_china
+    title: "LEI-LEI Stage (China)"
+    path: "15 Vampire Hunter (Darkstalkers) - LEI-LEI Stage (China).psf2"
+    type: betting
+  - id: morrigan_stage_scotland
+    title: "MORRIGAN Stage (Scotland)"
+    path: "16 Vampire Hunter (Darkstalkers) - MORRIGAN Stage (Scotland).psf2"
+    type: betting
+  - id: final_fight_stage_5_bgm_6
+    title: "Final Fight - (STAGE 5) BGM 6"
+    path: "18 Final Fight - (STAGE 5) BGM 6.psf2"
+    type: betting
+  - id: ryu_s_theme_nxc
+    title: "Ryu's Theme"
+    path: "20 Street Fighter II - Stage Japan Ryu.psf2"
+    type: betting
+  - id: ken_s_theme_nxc
+    title: "Ken's Theme"
+    path: "21 Street Fighter II - Stage U. S. A. Ken.psf2"
+    type: betting
+  - id: chun_li_s_theme_nxc
+    title: "Chun Li's Theme"
+    path: "22 Street Fighter II - Stage China Chun Li.psf2"
+    type: betting
+  - id: sakura_s_theme_nxc
+    title: "Sakura's Theme"
+    path: "23 Street Fighter ZERO 2 - STAGE SAKURA.psf2"
+    type: betting
+  - id: watashitachi_justice_gakuen_oretachi_no_gakkou_wa_oretachi_ga_mamoru
+    title: "Watashitachi Justice Gakuen Oretachi no Gakkou wa Oretachi ga Mamoru!"
+    path: "24 Watashitachi Justice Gakuen Oretachi no Gakkou wa Oretachi ga Mamoru!.psf2"
+    type: battle
+  - id: lost_world_1_round_bgm
+    title: "Lost World - 1 ROUND BGM"
+    path: "26 Lost World (Forgotten Worlds) - 1 ROUND BGM.psf2"
+    type: betting
+  - id: flutter_vs_gesselschaft_nxc
+    title: "Flutter vs. Gesselschaft"
+    path: "27 Rockman DASH (Megaman Legends) - Flutter vs. Gesselschaft.psf2"
+    type: battle
+  - id: regina_s_challenge
+    title: "Regina's Challenge"
+    path: "28 Dino Crisis 2 - Regina's Challenge.psf2"
+    type: battle
+  - id: sentou-suru_kos_mos
+    title: "Sentou-suru KOS-MOS"
+    path: "29 Xenosaga Episode I - Sentou-suru KOS-MOS.psf2"
+    type: battle
+  - id: quox
+    title: "Quox"
+    path: "30 Ishtar no Fukkatsu (Return of Ishtar) - Quox.psf2"
+    type: warning
+  - id: druaga_entrant_hall
+    title: "Druaga (ENTRANT HALL)"
+    path: "31 Ishtar no Fukkatsu (Return of Ishtar) - Druaga (ENTRANT HALL).psf2"
+    type: warning
+  - id: youkai_douchuuki_main_theme
+    title: "Youkai Douchuuki - Main Theme"
+    path: "33 Youkai Douchuuki (Shadowland) - Main Theme.psf2"
+    type: betting
+  - id: zule
+    title: "Zule"
+    path: "35 Valkyrie no Densetsu (Legend of Valkyrie) Zule.psf2"
+    type: betting
+  - id: wonder_momo_game_bgm
+    title: "Wonder Momo - Game BGM"
+    path: "36 Wonder Momo - Game BGM.psf2"
+    type: result
+  - id: guntz
+    title: "GUNTZ"
+    path: "38 Klonoa Heroes - GUNTZ.psf2"
+    type: warning
+  - id: brave_or_grave
+    title: "Brave Or Grave"
+    path: "39 Street Fighter ZERO 3 - Brave or grave.psf2"
+    type: battle
+  - id: shoppin_nxc
+    title: "SHOPPIN'"
+    path: "40 Lost World (Forgotten Worlds) - SHOPPIN'.psf2"
+    type: break
+  - id: yuragi_no_machi_no_arisu_title_ver
+    title: "Yuragi no Machi no ARISU ~TITLE ver."
+    path: "Namco Sound Team - [Namco X Capcom] Yuragi no Machi no ARISU ~TITLE ver..psf2"
+    type: battle 
+  - id: 99_nxc
+    title: "99"
+    path: "44 99.psf2"
+    type: battle
+  - id: houma_ryouran
+    title: "Houma Ryouran"
+    path: "45 Houma Ryouran.psf2"
+    type: battle
+  - id: positive_thinking
+    title: "Positive Thinking"
+    path: "51 Positive Thinking.psf2"
+    type: betting
+  - id: hodokareta_unmei_no_mon
+    title: "Hodokareta Unmei no Mon"
+    path: "52 Hodokareta Unmei no Mon.psf2"
+    type: battle
+  - id: break_time_nxc
+    title: "Break Time"
+    path: "58 Break Time.psf2"
+    type: break
+  - id: subarashiki_shin_sekai_inst_ver
+    title: "Subarashiki Shin Sekai ~INST. ver."
+    path: "62 Subarashiki Shin Sekai ~INST. ver..psf2"
+    type: battle #I think this loops
+...

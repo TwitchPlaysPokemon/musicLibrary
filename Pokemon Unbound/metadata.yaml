@@ -1,0 +1,105 @@
+---
+id: pokemon_unbound
+title: "Pokémon Unbound"
+series: pokemon
+platform: "GBA"
+is_fanwork: true
+year: 2021
+songs:
+  - id: game_corner_unbound
+    title: "Game Corner"
+    path: "Game Corner.brstm"
+    type: betting
+  - id: icicle_cave_unbound
+    title: "Icicle Cave"
+    path: "Icicle Cave.brstm"
+    type: betting
+  - id: route_1_unbound
+    title: "Route 1"
+    path: "Route 1.brstm"
+    type: betting
+  - id: friendly_shop_unbound
+    title: "Friendly Shop"
+    path: "Friendly Shop.brstm"
+    type: betting
+  - id: bellin_town_day
+    title: "Bellin Town (Day)"
+    path: "Bellin Town (Day).brstm"
+    type: break
+  - id: frozen_heights_day
+    title: "Frozen Heights (Day)"
+    path: "Frozen Heights (Day).brstm"
+    type: betting
+  - id: frozen_heights_night
+    title: "Frozen Heights (Night)"
+    path: "Frozen Heights (Night).brstm"
+    type: break
+  - id: pokemon_center_day_unbound
+    title: "Pokémon Center (Day)"
+    path: "Pokémon Center (Day).brstm"
+    type: break
+  - id: professor_log
+    title: "Professor Log"
+    path: "Professor Log.brstm"
+    type: betting
+  - id: professor_log_s_lab
+    title: "Professor Log's Lab"
+    path: "Professor Log's Lab.brstm"
+    type: betting
+  - id: shadow_base_unbound
+    title: "Shadow Base"
+    path: "Shadow Base.brstm"
+    type: betting
+  - id: the_shadows_unbound
+    title: "The Shadows"
+    path: "The Shadows.brstm"
+    type: warning
+  - id: zeph_unbound
+    title: "Zeph"
+    path: "Zeph.brstm"
+    type: warning
+  - id: encounter_youngster_unbound
+    title: "Encounter! Youngster"
+    path: "Encounter! Youngster.brstm"
+    type: warning
+  - id: encounter_rival_unbound
+    title: "Encounter! Rival"
+    path: "Encounter! Rival.brstm"
+    type: warning
+  - id: encounter_hoopa_unbound
+    title: "Encounter! Hoopa"
+    path: "Encounter! Hoopa.brstm"
+    type: warning
+  - id: battle_wild_pokemon_unbound
+    title: "Battle! Wild Pokémon"
+    path: "Battle! Wild Pokémon.brstm"
+    type: battle
+  - id: battle_strong_wild_pokemon_unbound
+    title: "Battle! Strong Wild Pokémon"
+    path: "Battle! Strong Wild Pokémon.brstm"
+    type: battle
+  - id: battle_trainer_unbound
+    title: "Battle! Trainer"
+    path: "Battle! Trainer.brstm"
+    type: battle
+  - id: battle_shadow_grunt_unbound
+    title: "Battle! Shadow Grunt"
+    path: "Battle! Shadow Grunt.brstm"
+    type: battle
+  - id: battle_rival_unbound
+    title: "Battle! Rival"
+    path: "Battle! Rival.brstm"
+    type: battle
+  - id: victory_against_trainer_unbound
+    title: "Victory Against Trainer!"
+    path: "Victory Against Trainer!.brstm"
+    type: result
+  - id: victory_against_the_shadows_unbound
+    title: "Victory Against the Shadows!"
+    path: "Victory Against the Shadows!.brstm"
+    type: result
+  - id: victory_against_the_wild_pokemon_unbound
+    title: "Victory Against the Wild Pokémon!"
+    path: "Victory Against the Wild Pokémon!.brstm"
+    type: result
+...

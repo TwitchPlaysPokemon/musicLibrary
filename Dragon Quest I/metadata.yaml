@@ -1,0 +1,30 @@
+id: dragon_quest_i
+title: "Dragon Warrior"
+year: 1989
+platform: "NES"
+songs:
+  - id: overture_dragon_quest
+    title: "Overture"
+    path: "01 Overture.vgz"
+    type: result
+  - id: people_dragon_quest
+    title: "People"
+    path: "02 People.vgz"
+    type: betting
+  - id: chateau_ladutorm
+    title: "Chateau Ladutorm"
+    path: "03 Chateau Ladutorm.vgz"
+    type: betting
+  - id: unknown_world_dragon_quest
+    title: "Unknown World"
+    path: "05 Unknown World.vgz"
+    type: break
+  - id: battle_dragon_quest
+    title: "Battle"
+    path: "06 Battle.vgz"
+    type: warning
+  - id: finale_dragon_quest
+    title: "Finale"
+    path: "24 Finale.vgz"
+    type: result
+...

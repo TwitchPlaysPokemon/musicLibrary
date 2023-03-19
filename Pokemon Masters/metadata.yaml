@@ -85,6 +85,10 @@ songs:
     title: "Encounter! (Team Plasma)"
     path: "bgm_eye17.logg"
     type: warning
+  - id: encounter_team_flare_pm
+    title: "Encounter! (Team Flare)"
+    path: "bgm_eye18.logg"
+    type: warning
   - id: team_rocket_event
     title: "Team Rocket (Event)"
     path: "bgm_field_rocket.logg"
@@ -109,6 +113,10 @@ songs:
     title: "Pokémon Center"
     path: "bgm_pokecen.logg"
     type: betting
+  - id: pokemon_center_night_pokemon_masters
+    title: "Pokémon Center (Night)"
+    path: "bgm_pokecen_night.logg"
+    type: break
   - id: pokemon_center_anniversary_pokemon_masters
     title: "Pokémon Center (Anniversary Ver.)"
     path: "bgm_field_home_anniversary.logg"
@@ -149,6 +157,10 @@ songs:
     title: "Victory Road (Hoenn)"
     path: "bgm_field_champion_06.logg"
     type: betting
+  - id: victory_road_kalos_pm
+    title: "Victory Road (Kalos)"
+    path: "bgm_field_champion_07.logg"
+    type: betting
   - id: victory_road_pasio
     title: "Victory Road (Pasio)"
     path: "bgm_field_victoryroad.logg"
@@ -161,17 +173,21 @@ songs:
     title: "Team Rocket Hideout (Johto)"
     path: "bgm_field_boss_j.logg"
     type: betting
-  - id: team_galactic_hideout_pm
-    title: "Team Galactic Hideout"
-    path: "bgm_field_boss_s.logg"
-    type: betting
   - id: team_aqua_magma_hideout_pm
     title: "Team Aqua/Magma Hideout"
     path: "bgm_field_boss_am.logg"
     type: betting
+  - id: team_galactic_hideout_pm
+    title: "Team Galactic Hideout"
+    path: "bgm_field_boss_s.logg"
+    type: betting
   - id: team_plasma_frigate_pm
     title: "Team Plasma Frigate"
     path: "bgm_field_boss_u.logg"
+    type: betting
+  - id: team_flare_secret_hideout_pm
+    title: "Team Flare Secret Hideout"
+    path: "bgm_field_boss_c.logg"
     type: betting
   - id: an_unwavering_heart_pokemon_masters
     title: "An Unwavering Heart"
@@ -181,6 +197,10 @@ songs:
     title: "Farewell"
     path: "bgm_event_sayonara.logg"
     type: break
+  - id: battle_contest_event
+    title: "Battle Contest Event"
+    path: "bgm_event_contests.logg"
+    type: battle
   - id: trainer_defeated_pokemas1
     title: "Trainer Defeated! Ver. 1"
     path: "bgm_result01.logg"
@@ -237,6 +257,10 @@ songs:
   - id: trainer_lodge_expedition
     title: "Trainer Lodge: Expedition"
     path: "bgm_salon_expedition_01.logg"
+    type: break
+  - id: trainer_lodge_day_theme_summer
+    title: "Trainer Lodge: Day Theme (Summer)"
+    path: "bgm_salon_home_01.logg"
     type: break
   - id: trainer_lodge_day_theme
     title: "Trainer Lodge: Day Theme"
@@ -631,21 +655,53 @@ songs:
     title: "Battle! (Kalos Trainer)"
     path: "bgm_battle_trainer_c.logg"
     type: battle
+  - id: battle_friends_from_kalos_shauna_tierno_trevor
+    title: "Battle! (Friends from Kalos)"
+    path: "bgm_battle_friends.logg"
+    type: battle
   - id: battle_kalos_gym_leader_pokemon_masters
     title: "Battle! (Kalos Gym Leader)"
     path: "bgm_battle_gl_c.logg"
+    type: battle
+  - id: battle_team_flare_grunt_pokemon_masters
+    title: "Battle! (Team Flare Grunt)"
+    path: "bgm_battle_flare.logg"
     type: battle
   - id: battle_lysandre_pokemon_masters
     title: "Battle! (Lysandre)"
     path: "bgm_battle_fleurdelis.logg"
     type: battle
+  - id: decisive_battle_lysandre
+    title: "Decisive Battle! (Lysandre)"
+    path: "bgm_battle_fleurdelis_02.logg"
+    type: battle
   - id: battle_kalos_elite_four_pokemon_masters
     title: "Battle! (Kalos Elite Four)"
     path: "bgm_battle_big4_c.logg"
     type: battle
+  - id: battle_kalos_elite_four_siebold
+    title: "Battle! (Kalos Elite Four: Siebold)"
+    path: "bgm_battle_big4_c_zumi.logg"
+    type: battle
+  - id: battle_kalos_elite_four_drasna
+    title: "Battle! (Kalos Elite Four: Drasna)"
+    path: "bgm_battle_big4_c_dracaena.logg"
+    type: battle
+  - id: battle_kalos_elite_four_wikstrom
+    title: "Battle! (Kalos Elite Four: Wikstrom)"
+    path: "bgm_battle_big4_c_gampi.logg"
+    type: battle
+  - id: battle_kalos_elite_four_malva
+    title: "Battle! (Kalos Elite Four: Malva)"
+    path: "bgm_battle_big4_c_pachira.logg"
+    type: battle
   - id: battle_diantha_pokemon_masters
     title: "Battle! (Diantha)"
     path: "bgm_battle_carnet.logg"
+    type: battle
+  - id: decisive_battle_diantha
+    title: "Decisive Battle! (Diantha)"
+    path: "bgm_battle_carnet_02.logg"
     type: battle
   - id: battle_neo_kalos_champion
     title: "Battle! (Neo Kalos Champion)"
@@ -654,6 +710,10 @@ songs:
   - id: battle_professor_sycamore_pokemon_masters
     title: "Battle! (Professor Sycamore)"
     path: "bgm_battle_platane.logg"
+    type: battle
+  - id: battle_emma
+    title: "Battle! (Emma)"
+    path: "bgm_battle_matiere.logg"
     type: battle
   - id: battle_battle_chatelaine_pokemon_masters
     title: "Battle! (Battle Chatelaine)"
@@ -767,6 +827,10 @@ songs:
     title: "Battle! (Galar Gym Leader)"
     path: "bgm_battle_gl_g.logg"
     type: battle
+  - id: battle_galar_elite_leader
+    title: "Battle! (Galar Elite Leader)"
+    path: "bgm_battle_gl_g_99.logg"
+    type: battle
   - id: battle_sonia
     title: "Battle! (Sonia)"
     path: "bgm_battle_sonia.logg"
@@ -790,6 +854,10 @@ songs:
   - id: battle_leon_pokemon_masters
     title: "Battle! (Leon)"
     path: "bgm_battle_dande.logg"
+    type: battle
+  - id: battle_neo_galar_champion
+    title: "Battle! (Neo Galar Champion)"
+    path: "bgm_battle_neochamp_galar.logg"
     type: battle
 
     #Pasio - any Masters-exclusive tracks or stuff I couldn't really put anywhere else

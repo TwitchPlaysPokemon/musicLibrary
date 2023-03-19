@@ -1,0 +1,59 @@
+---
+id: power_rangers_ninja_storm_gba
+title: "Power Rangers Ninja Storm"
+series: power_rangers
+platform: "GBA"
+year: 2003
+songs:
+    - id: level_1_ninja_storm
+      title: "Level 1"
+      path: "AGB-BPWE-USA-0004.minigsf"
+      type: betting
+    - id: level_2_ninja_storm
+      title: "Level 2"
+      path: "AGB-BPWE-USA-0005.minigsf"
+      type: betting
+    - id: level_3_ninja_storm
+      title: "Level 3"
+      path: "AGB-BPWE-USA-0006.minigsf"
+      type: betting
+    - id: level_4_ninja_storm
+      title: "Level 4"
+      path: "AGB-BPWE-USA-0007.minigsf"
+      type: betting
+    - id: final_level_ninja_storm
+      title: "Final Level"
+      path: "AGB-BPWE-USA-0008.minigsf"
+      type: battle
+    - id: boss_fight_1_ninja_storm
+      title: "Boss Fight 1"
+      path: "AGB-BPWE-USA-0009.minigsf"
+      type: battle
+    - id: boss_fight_2_ninja_storm
+      title: "Boss Fight 2"
+      path: "AGB-BPWE-USA-0010.minigsf"
+      type: warning
+    - id: final_boss_ninja_storm
+      title: "Final Boss"
+      path: "AGB-BPWE-USA-0011.minigsf"
+      type: warning
+    - id: storm_megazord_battle_theme
+      title: "Storm Megazord Battle Theme"
+      path: "AGB-BPWE-USA-0012.minigsf"
+      type: warning
+    - id: thunder_megazord_battle_theme
+      title: "Thunder Megazord Battle Theme"
+      path: "AGB-BPWE-USA-0013.minigsf"
+      type: battle
+    - id: samurai_star_megazord_battle_theme
+      title: "Samurai Star Megazord Battle Theme"
+      path: "AGB-BPWE-USA-0014.minigsf"
+      type: warning
+    - id: stage_clear_ninja_storm
+      title: "Stage Clear"
+      path: "AGB-BPWE-USA-0015.minigsf"
+      type: warning
+    - id: game_over_ninja_storm
+      title: "Game Over"
+      path: "AGB-BPWE-USA-0016.minigsf"
+      type: warning

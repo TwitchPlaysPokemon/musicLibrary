@@ -4,46 +4,79 @@ title: "Mario Kart 7"
 series: mario
 platform: "3DS"
 year: 2011
+#replaced existing brstms with versions from the 3DS rip. Feel free to remove if they
+#aren't of proper audio quality
 songs:
   - id: rainbow_road_mk7
     title: "Rainbow Road"
-    path: "Rainbow Road.brstm"
+    path: "STRM_CN_RAINBOW_ROAD_N.bcstm"
     type: betting
   - id: rosalinas_ice_world
     title: "Rosalina's Ice World"
-    path: "Rosalina's Ice World.brstm"
-    tags: [xmas]
+    path: "STRM_CN_ICE_SLIDER_N.bcstm"
     type: betting
   - id: watch_race
     title: "Watch Race"
-    path: "Watch Race.brstm"
+    path: "STRM_WATCH_RACE.bcstm"
     ends: 2:48
     type: betting
   - id: wii_koopa_cape_medley
     title: "Wii Koopa Cape (Medley)"
+    #not replacing this one because for some reason the raw rip overlays the above and underwater
+    #portions. It just makes it feel weird because now both play at the same time. 
     path: "Wii Koopa Cape (Medley).brstm"
     type: betting
   - id: rosalinas_ice_world_final_lap
     title: "Rosalina's Ice World (Final Lap)"
-    path: "Rosalina's Ice World (Final Lap).brstm"
-    tags: [xmas]
+    path: "STRM_CN_ICE_SLIDER_F.bcstm"
     type: warning
   - id: single_player_menu_course_select
     title: "Single Player Menu (Course Select)"
-    path: "Single Player Menu (Course Select).brstm"
+    path: "STRM_MENU_SINGLE_MULTI.bcstm"
     type: result
   - id: sherbet_rink
     title: "Sherbet Rink"
     path: "STRM_BN_ICE_RINK_N.bcstm"
-    tags: [xmas]
     type: battle
   - id: sherbet_rink_hurry_up
     title: "Sherbet Rink (Hurry Up!)"
     path: "STRM_BN_ICE_RINK_F.bcstm"
-    tags: [xmas]
     type: warning
   - id: rock_rock_mountain
     title: "Rock Rock Mountain"
     path: "STRM_CN_RALLY_COURCE_N.bcstm"
     type: betting
+# new songs - I think SNES Rainbow Road is *slightly* different from the original SMK ver?
+  - id: snes_rainbow_road_mk7
+    title: "SNES Rainbow Road"
+    path: "STRM_CR_SFC_RAINBOW_ROAD_N.bcstm"
+    type: betting
+  - id: snes_rainbow_road_final_lap
+    title: "SNES Rainbow Road (Final Lap)"
+    path: "STRM_CR_SFC_RAINBOW_ROAD_F.bcstm"
+    type: warning
+  - id: daisy_hills
+    title: "Daisy Hills"
+    path: "STRM_CN_GLIDE_LAKE_N.bcstm"
+    type: betting
+  - id: daisy_hills_final_lap
+    title: "Daisy Hills (Final Lap)"
+    path: "STRM_CN_GLIDE_LAKE_F.bcstm"
+    type: warning
+  - id: neo_bowser_city
+    title: "Neo Bowser City"
+    path: "STRM_CN_ADVANCED_CIRCUIT_N.bcstm"
+    type: betting
+  - id: neo_bowser_city_final_lap
+    title: "Neo Bowser City (Final Lap)"
+    path: "STRM_CN_ADVANCED_CIRCUIT_F.bcstm"
+    type: warning
+  - id: honeybee_hive
+    title: "Honeybee Hive"
+    path: "STRM_BN_HONEY_STAGE_N.bcstm"
+    type: battle
+  - id: honeybee_hive_hurry_up
+    title: "Honeybee Hive (Hurry Up!)"
+    path: "STRM_BN_HONEY_STAGE_F.bcstm"
+    type: warning
 ...

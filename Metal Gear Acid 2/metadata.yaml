@@ -1,10 +1,48 @@
 id: metal_gear_acid_2
-title: "Metal Gear Acid 2"
+title: "METAL GEAR AC!D²"
 series: metalgear
 platform: "PSP"
 year: 2005
+#redid brstms, added some extra. Could've added more, but betting songs are hard to figure
+#because they all sound samey in this game
 songs:
   - id: test_subject_burns
     title: "Test Subject Burns"
-    path: "Test Subject Burns.brstm"
+    path: "16 Akihiro Honda - Test Subject Burns [B105_ST05_HIKENTAI].at3"
     type: warning
+  - id: venus_mga2
+    title: "Venus"
+    path: "17 Nobuko Toda - Venus [B406_END_TAKIYAMA].at3"
+    type: break
+  - id: the_essence_of_vince
+    title: "The Essence of Vince"
+    path: "20 Shuichi Kobori - The Essence of Vince [B104_ST04_VINCE].at3"
+    type: battle
+  - id: locomotive_motion
+    title: "Locomotive Motion"
+    path: "22 Akihiro Honda - Locomotive Motion [B207_SNEAKY7].at3"
+    type: battle
+  - id: back_to_back_mga2
+    title: "Back-to-Back"
+    path: "27 Hiroshi Tanabe, Akihiro Honda - Back-to-Back [B302_ACTION2].at3"
+    type: warning
+  - id: resurrection_mga2
+    title: "Resurrection"
+    path: "29 Akihiro Honda, Shuichi Kobori - Resurrection [B110_ST09_METAL2].at3"
+    type: betting
+  - id: lucy_and_chaioth_ha_qades
+    title: "Lucy & Chaioth Ha Qades"
+    path: "35 Nobuko Toda, Akihiro Honda - Lucy & Chaioth Ha Qadesh [B1A1_ST11_METAL2].at3"
+    type: warning
+  - id: test_subjects_duality
+    title: "Test Subjects Duality"
+    path: "37 Akihiro Honda - Test Subjects Duality [B112_ST12_VENUS].at3"
+    type: battle
+  - id: see_that_snake
+    title: "See that, Snake"
+    path: "40 Nobuko Toda - See that, Snake [B409_epilogue].at3"
+    type: break
+  - id: unknown_song_8_mga2
+    title: "Unknown Song 8"
+    path: "46 Unknown Song 8 [B303_ACTION3].at3"
+    type: battle

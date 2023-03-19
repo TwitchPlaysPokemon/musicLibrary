@@ -1,0 +1,49 @@
+---
+id: pokemon_sweet
+title: "Pokémon Sweet"
+series: pokemon
+platform: "GBA"
+is_fanwork: true
+year: 2014
+songs:
+  - id: candy_village_theme
+    title: "Candy Village Theme"
+    path: "song280.logg"
+    type: betting
+  - id: pirate_fort_sweet
+    title: "Pirate Fort"
+    path: "song289.logg"
+    type: betting
+  - id: cake_hills
+    title: "Cake Hills"
+    path: "song291.logg"
+    type: result
+  - id: cookie_meadow
+    title: "Cookie Meadow"
+    path: "song293.logg"
+    type: betting
+  - id: cookie_village_theme
+    title: "Cookie Village Theme"
+    path: "song300.logg"
+    type: betting
+  - id: the_s_s_banana
+    title: "The S.S. Banana"
+    path: "song304.logg"
+    type: betting
+  - id: surfing_sweet
+    title: "Surfing"
+    path: "song305.logg"
+    type: result
+  - id: battle_team_sour_admin
+    title: "Battle! (Team Sour Admin)"
+    path: "song341.logg"
+    type: betting
+  - id: grapevine_city_theme
+    title: "Grapevine City Theme"
+    path: "song306.brstm"
+    type: betting
+  - id: battle_twoberry
+    title: "Battle! (Twoberry)"
+    path: "song340.wav"
+    type: warning
+...

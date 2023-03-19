@@ -5,200 +5,293 @@ series: pokemon
 platform: "GCN"
 year: 2005
 songs:
-  - id: battle_bingo_battle_theme
-    title: "Battle Bingo - Battle Theme"
-    path: "Battle Bingo - Battle Theme.brstm"
+  - id: battle_bingo_battle
+    title: "Battle Bingo - Battle"
+    path: "stm_bgm_B_bingo.isd"
     type: betting
   - id: cipher_key_lair
     title: "Cipher Key Lair"
-    path: "Cipher Key Lair.brstm"
+    path: "stm_bgm_dark_factory.isd"
     type: betting
   - id: citadark_isle_xd
     title: "Citadark Isle"
-    path: "Citadark Isle.brstm"
+    path: "stm_bgm_nikeldark.isd"
     type: betting
   - id: dr_kaminko_manor
     title: "Dr. Kaminko's Manor"
-    path: "Dr. Kaminko's Manor.brstm"
+    path: "stm_bgm_kaminko.isd"
     type: betting
   - id: gateon_port
     title: "Gateon Port"
-    path: "Gateon Port.brstm"
+    path: "stm_bgm_ioport.isd"
     type: betting
   - id: mt_battle
-    path: "Mt. Battle.brstm"
+    path: "stm_bgm_mt_battle.isd"
     title: "Mt. Battle"
     type: betting
   - id: phenac_city_crisis
     title: "Phenac City - Crisis"
-    path: "Phenac City - Crisis.brstm"
+    path: "stm_bgm_watercity2.isd"
     type: betting
-  - id: pokemon_lab
-    title: "Pokémon Lab"
-    path: "Pokemon Lab.brstm"
+  - id: pokemon_hq_lab
+    title: "Pokémon HQ Lab"
+    path: "stm_bgm_pokelabo.isd"
     type: betting
   - id: pre_gym_xd
     title: "Pre Gym"
-    path: "Pre Gym.brstm"
+    path: "stm_bgm_tretre.isd"
     type: betting
   - id: purification_chamber
     title: "Purification Chamber"
-    path: "Purification Chamber.brstm"
+    path: "stm_bgm_relivehall.isd"
     type: betting
   - id: pyrite_town
     title: "Pyrite Town"
-    path: "Pyrite Town.brstm"
+    path: "stm_bgm_darkside.isd"
     type: betting
   - id: realgam_tower
     title: "Realgam Tower"
-    path: "Realgam Tower.brstm"
+    path: "stm_bgm_country.isd"
     type: betting
   - id: ss_libra_pokemon_xd
     title: "S.S. Libra"
-    path: "S.S. Libra.brstm"
+    path: "stm_bgm_libra.isd"
     type: betting
   - id: wild_pokemon_battle_xd
     title: "Wild Pokémon Battle"
-    path: "Wild Pokemon Battle.brstm"
+    path: "stm_bgm_B_esaba.isd"
     type: betting
   - id: world_map
     title: "World Map"
-    path: "World Map.brstm"
+    path: "stm_bgm_worldmap.isd"
     type: betting
   - id: cipher_admin_theme_xd
     title: "Cipher Admin Theme"
-    path: "Cipher Admin Theme.brstm"
+    path: "stm_bgm_chr_boss01.isd"
     type: warning
   - id: evolution_xd
-    path: "Evolution.brstm"
+    path: "stm_bgm_XDbattle03.isd"
     title: "Evolution"
     type: warning
   - id: gonzaps_theme
     title: "Gonzap's Theme"
-    path: "Mr. Verich.brstm"
+    path: "stm_bgm_chr_helgonza.isd"
     type: warning
   - id: greevils_theme
     title: "Greevil's Theme"
-    path: "Kaminko's Mecha Theme 2.brstm"
+    path: "stm_bgm_chr_mecha2.isd"
     type: warning
   - id: heroic
     title: "Heroic"
-    path: "Heroic.brstm"
+    path: "stm_bgm_ev_ketsui2.isd"
     type: warning
   - id: hexagon_brothers_theme
     title: "Hexagon Brothers' Theme"
-    path: "Hexagon Brothers' Theme.brstm"
+    path: "stm_bgm_ev_6brothers.isd"
     type: warning
   - id: miror_b._appears
     title: "Miror B. Appears"
-    path: "Miror B. Appears.brstm"
+    path: "stm_bgm_mirrorbo.isd"
     type: warning
-  - id: mr_verich
-    title: "Mr. Verich"
-    path: "Kaminko's Mecha Theme 1.brstm"
+  - id: mr_verichs_theme
+    title: "Mr. Verich's Theme"
+    path: "stm_bgm_chr_mecha.isd"
     type: warning
   - id: robo_groudons_theme
     title: "Robo Groudon's Theme"
-    path: "Robo Groudons Theme.brstm"
+    path: "stm_bgm_ev_mechagradon.isd"
     type: warning
   - id: shadow_lugia_appears
     title: "Shadow Lugia Appears"
-    path: "Shadow Lugia Appears.brstm"
+    path: "stm_bgm_chr_rugia.isd"
     type: warning
   - id: theme_of_suspense
     title: "Theme of Suspense"
-    path: "Theme of Suspense.brstm"
+    path: "stm_bgm_ev_kinkyu.isd"
     type: warning
-  - id: battle_mode_theme_1
-    path: "Battle Mode Theme 1.brstm"
-    title: "Battle Mode Theme 1"
+  - id: versus_battle_battle_gym_leader_xd
+    title: "VS Battle - Battle! (Gym Leader)"
+    path: "stm_bgm_tool_imasugu.isd"
     type: battle
-  - id: battle_mode_theme_2
-    path: "Battle Mode Theme 2.brstm"
-    title: "Battle Mode Theme 2"
+  - id: versus_battle_battle_champion_xd
+    title: "VS Battle - Battle! (Champion)"
+    path: "stm_bgm_tool_imasugu2.isd"
     type: battle
   - id: battle_sim
-    path: "Battle SIM.brstm"
     title: "Battle SIM"
+    path: "stm_bgm_XD_battle0.isd"
     type: battle
   - id: cipher_admin_battle
-    path: "Cipher Admin Battle.brstm"
     title: "Cipher Admin Battle"
+    path: "stm_bgm_XDbattle03.isd"
     type: battle
   - id: cipher_peon_battle
-    path: "Cipher Peon Battle.brstm"
     title: "Cipher Peon Battle"
+    path: "stm_bgm_XDbattle02.isd"
     type: battle
-  - id: colosseum_theme_1
-    path: "Colosseum Theme 1.brstm"
-    title: "Colosseum Theme 1"
+  - id: colosseum_battle_round_1
+    title: "Colosseum Battle - Round 1"
+    path: "stm_bgm_B_paira.isd"
     type: battle
-  - id: colosseum_theme_2
-    path: "Colosseum Theme 2.brstm"
-    title: "Colosseum Theme 2"
+  - id: colosseum_battle_round_2
+    title: "Colosseum Battle - Round 2"
+    path: "stm_bgm_B_raruga.isd"
     type: battle
   - id: last_battle_theme
-    path: "Last Battle Theme.brstm"
     title: "Last Battle Theme"
+    path: "stm_bgm_B_lastboss.isd"
     type: battle
   - id: miror_b_battle
-    path: "Miror B. Battle.brstm"
     title: "Miror B. Battle"
+    path: "stm_bgm_B_mirrorbo.isd"
     type: battle
-  - id: mt_battle_leader_battle_theme
-    path: "Mt. Battle Leader Battle Theme.brstm"
-    title: "Mt. Battle Leader Battle Theme"
+  - id: colosseum_battle_semifinals
+    title: "Colosseum Battle - Semi-finals"
+    path: "stm_bgm_B_colosseum3.isd"
     type: battle
-  - id: multiplayer_battle_theme
-    path: "Multiplayer Battle Theme.brstm"
-    title: "Multiplayer Battle Theme"
+  - id: versus_battle_battle_trainer_xd
+    title: "VS Battle - Battle! (Trainer)"
+    path: "stm_bgm_tool_minnade.isd"
     type: battle
   - id: normal_battle
-    path: "Normal Battle.brstm"
     title: "Normal Battle"
+    path: "stm_bgm_XDbattle01.isd"
     type: battle
   - id: shadow_lugia_battle
-    path: "Shadow Lugia Battle.brstm"
     title: "Shadow Lugia Battle"
+    path: "stm_bgm_B_rugia.isd"
     type: battle
   - id: jovis_theme
     title: "Jovi's Theme"
-    path: "JOVI's Theme.brstm"
+    path: "stm_bgm_ev_honobono.isd"
     type: result
   - id: orre_colosseum
     title: "Orre Colosseum"
-    path: "Orre Colosseum.brstm"
+    path: "stm_bgm_orecolosseum.isd"
     type: result
   - id: rumba_of_love
     title: "Rumba of Love"
-    path: "Rumba of Love.brstm"
+    path: "stm_bgm_musicsoft.isd"
     type: result
-  - id: krabby_club_xd
+  - id: krabby_klub_xd
     title: "Krabby Klub"
-    path: "Krabby Klub.brstm"
+    path: "stm_bgm_clubtea.isd"
     type: break
   - id: onbs_building
     title: "ONBS Building"
-    path: "ONBS Building.brstm"
+    path: "stm_bgm_ev_ore.isd"
     type: break
   - id: pokespot_pokemon_xd
     title: "PokéSpot"
-    path: "PokeSpot.brstm"
+    path: "stm_bgm_esaba.isd"
     type: break
   - id: battle_bingo_pokemon_xd
     title: "Battle Bingo"
-    path: "Battle Bingo.brstm"
+    path: "stm_bgm_bingo.isd"
     type: result
   - id: cipher_lab_pokemon_xd
     title: "Cipher Lab"
-    path: "Cipher Lab.brstm"
+    path: "stm_bgm_darkside4.isd"
     type: betting
   - id: dr_kaminko_s_yard_pokemon_xd
     title: "Dr. Kaminko's Yard"
-    path: "Dr. Kaminko's Yard.brstm"
+    path: "stm_bgm_kaminko2.isd"
     type: break
   - id: ending_pokemon_xd
     title: "Ending"
-    path: "Greevil Redeemed.brstm"
+    path: "stm_bgm_ev_last2.isd"
     type: break
+#new songs - all of the returning Colosseum music is slightly different
+  - id: colosseum_battle_finals_xd
+    title: "Colosseum Battle - Finals"
+    path: "stm_bgm_B_colosseum4.isd"
+    type: battle
+  - id: kandee_s_theme
+    title: "Kandee's Theme"
+    path: "stm_bgm_chr_chiriru.isd"
+    type: result
+  - id: trouble_xd
+    title: "Trouble"
+    path: "stm_bgm_ev_fuan.isd"
+    type: warning
+  - id: greevil_defeated
+    title: "Greevil Defeated"
+    path: "stm_bgm_ev_last.isd"
+    type: warning
+  - id: sadness_xd
+    title: "Sadness"
+    path: "stm_bgm_ev_sad.isd"
+    type: break
+  - id: mt_battle_break_room_xd
+    title: "Mt. Battle Break Room"
+    path: "stm_bgm_mt_battle_kyukei.isd"
+    type: break
+  - id: mt_battle_reception_area_xd
+    title: "Mt. Battle Reception Area"
+    path: "stm_bgm_mt_battle_uketsuke.isd"
+    type: betting
+  - id: title_screen_xd
+    title: "Title Screen"
+    path: "stm_bgm_open_roll.isd"
+    type: betting
+  - id: pokemon_center_xd
+    title: "Pokémon Center"
+    path: "stm_bgm_pokecen.isd"
+    type: betting
+  - id: purification_ceremony_xd
+    title: "Purification Ceremony"
+    path: "stm_bgm_relive_ceremony.isd"
+    type: break
+  - id: relic_forest_xd
+    title: "Relic Forest"
+    path: "stm_bgm_saint.isd"
+    type: break
+  - id: fateen_the_fortune_teller
+    title: "Fateen the Fortune Teller"
+    path: "stm_bgm_shinpi.isd"
+    type: break
+  - id: snagem_hideout_xd
+    title: "Snagem Hideout"
+    path: "stm_bgm_snatch_ajito.isd"
+    type: betting
+  - id: purification_bad_tempo
+    title: "Purification - Bad Tempo"
+    path: "stm_bgm_stage_bad.isd"
+    type: warning
+  - id: purification_good_tempo
+    title: "Purification - Good Tempo"
+    path: "stm_bgm_stage_good.isd"
+    type: result
+  - id: purification_very_good_tempo
+    title: "Purification - Very Good Tempo"
+    path: "stm_bgm_stage_verygood.isd"
+    type: result
+  - id: purification_perfect_tempo
+    title: "Purification - Perfect Tempo"
+    path: "stm_bgm_stage_perfect.isd"
+    type: result
+  - id: outskirt_stand_xd
+    title: "Outskirt Stand"
+    path: "stm_bgm_stand.isd"
+    type: break
+  - id: opening_cutscene_xd
+    title: "Opening Cutscene"
+    path: "stm_bgm_title.isd"
+    type: warning
+  - id: vs_select_xd
+    title: "VS Select"
+    path: "stm_bgm_tool_battle.isd"
+    type: warning
+  - id: phenac_city_xd
+    title: "Phenac City"
+    path: "stm_bgm_watercity.isd"
+    type: betting
+  - id: agate_village_xd
+    title: "Agate Village"
+    path: "stm_bgm_windycity.isd"
+    type: betting
+  - id: rider_willie_battle
+    title: "Rider Willie Battle"
+    path: "stm_bgm_XD_battle8.isd"
+    type: battle
 ...

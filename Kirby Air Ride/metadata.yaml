@@ -4,170 +4,215 @@ title: "Kirby Air Ride"
 series: kirby
 year: 2003
 platform: "GCN"
+#redid with raw files
 songs:
   - id: checker_knights
     title: "Air Ride - Checker Knights"
-    path: "Air Ride - Checker Knights.brstm"
+    path: "3d_check.hps"
     type: battle
   - id: machine_passage
     title: "Air Ride - Machine Passage"
-    path: "Air Ride - Machine Passage.brstm"
+    path: "3d_machine.hps"
     type: battle
-  - id: nightmare_in_dream_land_dreamland
+  - id: fountain_of_dreams_kar
     title: "Air Ride - Nebula Belt (Alternate)"
-    path: "Nightmare in Dream Land - Dream Land.brstm"
+    path: "3d_space_ura.hps"
     type: battle
   - id: vs_king_dedede_kar
     title: "Stadium - Vs. King Dedede"
-    path: "Stadium - Vs. King Dedede.brstm"
+    path: "event_monster.hps" #also dyna-blade theme???
     type: battle
   - id: top_ride_sand
     title: "Top Ride - Sand"
-    path: "Top Ride - Sand.brstm"
+    path: "2d_desert.hps"
     type: battle
   - id: beanstalk_park
     title: "Air Ride - Beanstalk Park"
-    path: "Air Ride - Beanstalk Park.brstm"
+    path: "3d_sky.hps.brstm"
     type: betting
   - id: celestial_valley
     title: "Air Ride - Celestial Valley"
-    path: "Air Ride - Celestial Valley.brstm"
+    path: "3d_valley.hps"
     type: betting
   - id: fantasy_meadows
     title: "Air Ride - Fantasy Meadows"
-    path: "Air Ride - Fantasy Meadows.brstm"
+    path: "3d_plants.hps"
     type: betting
   - id: frozen_hillside
     title: "Air Ride - Frozen Hillside"
-    path: "Air Ride - Frozen Hillside.brstm"
-    tags: [xmas]
+    path: "3d_ice.hps"
     type: betting
   - id: nebula_belt
     title: "Air Ride - Nebula Belt"
-    path: "Air Ride - Nebula Belt.brstm"
+    path: "3d_space.hps"
     type: betting
   - id: sky_sands
     title: "Air Ride - Sky Sands"
-    path: "Air Ride - Sky Sands.brstm"
+    path: "3d_desert.hps"
     type: betting
   - id: city_trial_backside
     title: "City Trial - City (Backside)"
-    path: "City Trial - City (Backside).brstm"
+    path: "city_ura.hps"
     type: betting
   - id: city_trial_normal
     title: "City Trial - City"
-    path: "City Trial - City.brstm"
+    path: "city.hps"
     type: betting
   - id: float_islands_kar
     title: "Top Ride - Water (Alternate)"
-    path: "Float Islands.brstm"
+    path: "2d_water_ura.hps"
     type: betting
   - id: green_greens_kar
     title: "Air Ride - Checker Knights (Alternate)"
-    path: "Green Greens.brstm"
+    path: "3d_check_ura.hps"
     type: betting
   - id: kirbys_adventure_forest_stage_kar
     title: "Air Ride - Celestial Valley (Alternate)"
-    path: "Kirby's Adventure - Forest Stage.brstm"
+    path: "3d_valley_ura.hps"
     type: betting
   - id: menu_kar
     title: "Menu"
-    path: "Menu.brstm"
+    path: "menu.hps"
     type: betting
   - id: city_trial_graph
     title: "City Trial - Properties Graph"
-    path: "City Trial - Properties Graph.brstm"
+    path: "graph.hps"
     type: break
   - id: kirbys_adventure_resort_kar
     title: "Air Ride - Frozen Hillside (Alternate)"
-    path: "Kirby's Adventure - Rainbow Resort.brstm"
+    path: "3d_ice_ura.hps"
     type: break
   - id: air_ride_results
     title: "Air Ride - Results Screen"
-    path: "Air Ride - Results Screen.brstm"
+    path: "3d_kekka.hps"
     type: result
   - id: city_trial_ending
     title: "City Trial - Ending"
-    path: "City Trial - Ending.brstm"
+    path: "ending_city_us.hps"
     type: result
   - id: ending_kar
     title: "Ending"
-    path: "Ending.brstm"
+    path: "ending.hps"
     type: result
   - id: top_ride_results
     title: "Top Ride - Results Screen"
-    path: "Top Ride - Results Screen.brstm"
+    path: "2d_kekka.hps"
     type: result
   - id: city_trial_fog
     title: "City Trial - Dense Fog Today"
-    path: "City Trial - Dense Fog Today.brstm"
+    path: "event_fog.hps"
     type: warning
-  - id: city_trial_dynablade
-    title: "City Trial - Dyna Blade Intro"
-    path: "City Trial - Dyna Blade Intro.brstm"
-    type: warning
+    #pretty sure this is the same as the dedede battle theme?
+  # - id: city_trial_dynablade 
+    # title: "City Trial - Dyna Blade Intro"
+    # path: "City Trial - Dyna Blade Intro.brstm"
+    # type: warning
   - id: city_trial_pillar
     title: "City Trial - Huge Pillar"
-    path: "City Trial - Huge Pillar.brstm"
+    path: "event_kyoseki.hps"
     type: warning
   - id: city_trial_legendary
     title: "City Trial - Legendary Air Ride Machine"
-    path: "City Trial - Legendary Air Ride Machine.brstm"
+    path: "dragoon.hps"
     type: warning
   - id: city_trial_meteor
     title: "City Trial - Meteor"
-    path: "City Trial - Meteor.brstm"
+    path: "event_meteo.hps"
     type: warning
   - id: city_trial_notmuchtime
     title: "City Trial - Not Much Time Left"
-    path: "City Trial - Not Much Time Left.brstm"
+    path: "city_isogi.hps"
     type: warning
   - id: city_trial_fire
     title: "City Trial - Station Fire"
-    path: "City Trial - Station Fire.brstm"
+    path: "event_stationfire.hps"
     type: warning
   - id: kirby_64_midboss_kar
     title: "Top Ride - Light (Alternate)"
-    path: "Kirby 64 - Mid-Boss Room.brstm"
+    path: "2d_light_ura.hps"
     type: warning
   - id: kss_romm_map_kar
     title: "Top Ride - Sky (Alternate)"
-    path: "Kirby Super Star - Revenge of Meta Knight (Map).brstm"
+    path: "2d_sky_ura.hps"
     type: warning
-  - id: kss_romm_halbird1_kar
+  - id: kss_romm_halbird1_kar #is this just a rip of the SNES track?
     title: "Air Ride - Machine Passage (Alternate)"
-    path: "Kirby Super Star - Revenge of Meta Knight 1.brstm"
+    path: "3d_machine_ura.hps"
     type: warning
-  - id: kss_romm_halbird2_kar
+  - id: magma_flows
+    title: "Air Ride - Magma Flows"
+    path: "3d_kazan.hps"
+    type: betting
+  - id: kss_romm_halbird2_kar #Same as above
     title: "Air Ride - Magma Flows (Alternate)"
-    path: "Kirby Super Star - Revenge of Meta Knight 2.brstm"
+    path: "3d_kazan_ura.hps"
     type: warning
   - id: play_methods_kar
     title: "Play Methods"
-    path: "Play Methods.brstm"
+    path: "howto.hps"
     type: warning
-  - id: shooting_kar
-    title: "Shooting"
-    path: "Shooting.brstm"
+  - id: shooting_kar #Top Ride - Metal Alternate
+    title: "Shooting" 
+    path: "2d_machine_ura.hps"
     type: warning
   - id: stadium_air_glider
     title: "Stadium - Air Glider"
-    path: "Stadium - Air Glider.brstm"
+    path: "studium_airgrider.hps"
     type: warning
   - id: stadium_drag_race
     title: "Stadium - Drag Race"
-    path: "Stadium - Drag Race.brstm"
-    type: battle
+    path: "studium_04.hps" #or battle?
+    type: warning 
   - id: top_ride_metal
     title: "Top Ride - Metal"
-    path: "Top Ride - Metal.brstm"
+    path: "2d_machine.hps"
     type: betting
   - id: city_trial_lighthouse
     title: "City Trial - Lighthouse"
-    path: "City Trial - Lighthouse.brstm"
+    path: "event_toudai.hps"
     type: warning
   - id: city_trial_item_bounce
     title: "City Trial - Item Bounce"
-    path: "City Trial - Item Bounce.brstm"
+    path: "event_itembound.hps"
     type: warning
+  - id: city_trial_tac_challenge
+    title: "City Trial - Tac Challenge"
+    path: "event_syoukinkubi.hps"
+    type: warning
+  - id: city_trial_what_s_in_the_box
+    title: "City Trial - What's In The Box?"
+    path: "event_gordo.hps"
+    type: warning
+  - id: city_trial_rowdy_charge_tank
+    title: "City Trial - Rowdy Charge Tank"
+    path: "event_supercharge.hps"
+    type: warning
+  - id: stadium_kirby_melee
+    title: "Stadium - Kirby Melee"
+    path: "studium_battle.hps" #battle?
+    type: warning 
+  - id: top_ride_grass
+    title: "Top Ride - Grass"
+    path: "2d_plants.hps"
+    type: betting
+  - id: top_ride_fire
+    title: "Top Ride - Fire"
+    path: "2d_kazan.hps"
+    type: warning
+  - id: top_ride_light
+    title: "Top Ride - Light"
+    path: "2d_light.hps"
+    type: warning
+  - id: top_ride_sky
+    title: "Top Ride - Sky"
+    path: "2d_sky.hps"
+    type: warning
+  - id: top_ride_water
+    title: "Top Ride - Water"
+    path: "2d_water.hps"
+    type: warning
+  - id: beanstalk_park_alternate
+    title: "Air Ride - Beanstalk Park (Alternate)"
+    path: "3d_sky_ura.hps.brstm"
+    type: betting
 ...

@@ -1,0 +1,20 @@
+---
+id: bomb_jack_gb
+title: "Bomb Jack [GB]"
+series: bombjack
+platform: "GB"
+year: 1992
+songs:
+  - id: title_screen_bjgb
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: betting
+  - id: stage_bgm_bjgb
+    title: "Stage BGM"
+    path: "02 Stage BGM.vgz"
+    type: betting
+  - id: game_over_the_last_sigh
+    title: "Game Over (The Last Sigh)"
+    path: "05 Game Over (The Last Sigh).vgz"
+    type: break
+...

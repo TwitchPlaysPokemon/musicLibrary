@@ -1,0 +1,406 @@
+---
+id: monster_hunter_world
+title: "Monster Hunter World"
+series: monsterhunter
+platform: ["PS4", "XB1", "PC"]
+year: 2018
+songs:
+#wems first. These do not loop
+  - id: a_day_on_pokke_farm_mh_the_jazz_music_player
+    title: "A Day on Pokke Farm (MH The Jazz) - Music Player"
+    path: "A Day on Pokke Farm (MH The Jazz) Music Player.wem"
+    type: betting
+  - id: airou_may_cry
+    title: "Airou May Cry"
+    path: "Airou May Cry.wem"
+    type: betting
+  - id: arena_small_monsters_abound
+    title: "Arena: Small Monsters Abound"
+    path: "Arena Small Monsters Abound.wem"
+    type: warning
+  - id: behold_the_ruler_of_the_frost
+    title: "Behold, the Ruler of the Frost"
+    path: "Behold, the Ruler of the Frost.wem"
+    type: warning
+  - id: brutish_indigo_brachydios_disco_remix_music_player
+    title: "Brutish Indigo - Brachydios Disco Remix - Music Player"
+    path: "Brutish Indigo - Brachydios Disco Remix - Music Player.wem"
+    type: betting
+  - id: bustlin_dundorma_music_player
+    title: "Bustlin' Dundorma - Music Player"
+    path: "Bustlin' Dundorma - Music Player.wem"
+    type: betting
+  - id: celestial_pursuit_bustling_heavens
+    title: "Celestial Pursuit - Bustling Heavens"
+    path: "Celestial Pursuit - Bustling Heavens.wem"
+    type: betting
+  - id: congregation_of_the_fearless_the_chase
+    title: "Congregation of the Fearless: The Chase"
+    path: "Congregation of the Fearless The Chase.wem"
+    type: warning
+  - id: even_elder_dragons_tremble_nergigante_the_chase
+    title: "Even Elder Dragons Tremble - Nergigante: The Chase"
+    path: "Even Elder Dragons Tremble - Nergigante The Chase.wem"
+    type: warning
+  - id: felynes_of_yukumo_farm_mh_the_jazz_music_player
+    title: "Felynes of Yukumo Farm (MH The Jazz) - Music Player"
+    path: "Felynes of Yukumo Farm (MH The Jazz) Music Player.wem"
+    type: break
+  - id: for_the_emperor_s_amusement_safi_jiiva_the_chase
+    title: "For the Emperor's Amusement - Safi'jiiva: The Chase"
+    path: "For the Emperor's Amusement - Safi'jiiva The Chase.wem"
+    type: warning
+  - id: golden_mane_rajang_the_chase
+    title: "Golden Mane - Rajang: The Chase"
+    path: "Golden Mane - Rajang The Chase.wem"
+    type: warning
+  - id: great_desert_outpost_loc_lac_music_player
+    title: "Great Desert Outpost, Loc Lac - Music Player"
+    path: "Great Desert Outpost, Loc Lac - Music Player.wem"
+    type: break
+  - id: guiding_lamp_to_the_otherworld_xeno_jiiva_phase_1
+    title: "Guiding Lamp to the Otherworld - Xeno'jiiva (phase 1)"
+    path: "Guiding Lamp to the Otherworld - Xeno'jiiva (phase 1).wem"
+    type: warning
+  - id: iceborne_s_end_arch_tempered_velkhana_the_chase
+    title: "Iceborne's End - Arch-Tempered Velkhana: The Chase"
+    path: "Iceborne's End - Arch-Tempered Velkhana The Chase.wem"
+    type: warning
+  - id: in_search_of_hidden_springs_mh_swing_music_player
+    title: "In Search of Hidden Springs (MH Swing) - Music Player"
+    path: "In Search of Hidden Springs (MH Swing) - Music Player.wem"
+    type: break
+  - id: keeper_of_hades_vaal_hazak_the_chase
+    title: "Keeper of Hades - Vaal Hazak: The Chase"
+    path: "Keeper of Hades - Vaal Hazak The Chase.wem"
+    type: warning
+  - id: main_theme_stars_at_our_backs_credits
+    title: "Main Theme - Stars At Our Backs (Credits)"
+    path: "Main Theme - Stars At Our Backs (Credits).wem"
+    type: betting
+  - id: preparing_for_the_journey_living_quarters
+    title: "Preparing for the Journey - Living Quarters"
+    path: "Preparing for the Journey - Living Quarters.wem"
+    type: break
+  - id: proof_of_a_hero_monster_hunter_world_version
+    title: "Proof of a Hero - Monster Hunter World version"
+    path: "Proof of a Hero - Monster Hunter World version.wem"
+    type: betting
+  - id: proof_of_a_hero_mh_swing_music_player
+    title: "Proof of a Hero (MH Swing) - Music Player"
+    path: "Proof of a Hero (MH Swing) - Music Player.wem"
+    type: betting
+  - id: proof_of_a_hero_mh_the_jazz_music_player
+    title: "Proof of a Hero (MH The Jazz) Music Player"
+    path: "Proof of a Hero (MH The Jazz) Music Player.wem"
+    type: break
+  - id: proof_of_a_hero_disco_remix_music_player
+    title: "Proof of a Hero Disco Remix - Music Player"
+    path: "Proof of a Hero Disco Remix - Music Player.wem"
+    type: betting
+  - id: pursuing_the_mother_goddess_kulve_taroth_the_chase
+    title: "Pursuing the Mother Goddess - Kulve Taroth: The Chase"
+    path: "Pursuing the Mother Goddess.wem"
+    type: warning
+  - id: red_glare_in_the_darkness_nargacuga_the_chase
+    title: "Red Glare in the Darkness - Nargacuga: The Chase"
+    path: "Red Glare in the Darkness - Nargacuga The Chase.wem"
+    type: warning
+  - id: roars_across_the_hinterlands_the_chase
+    title: "Roars Across the Hinterlands: The Chase"
+    path: "Roars Across the Hinterlands The Chase.wem"
+    type: warning
+  - id: ruler_of_the_flame_teostra_mh_swing_music_player
+    title: "Ruler of the Flame - Teostra (MH Swing) - Music Player"
+    path: "Ruler of the Flame - Teostra (MH Swing) - Music Player.wem"
+    type: betting
+  - id: scat_cat_fever_mh_swing_music_player
+    title: "Scat Cat Fever (MH Swing) - Music Player"
+    path: "Scat Cat Fever (MH Swing) - Music Player.wem"
+    type: betting
+  - id: song_of_guidance
+    title: "Song of Guidance"
+    path: "Song of Guidance.wem"
+    type: betting
+  - id: songs_of_triumph_in_the_winter_sky
+    title: "Songs of Triumph in the Winter Sky"
+    path: "Songs of Triumph in the Winter Sky.wem"
+    type: result
+  - id: spark_of_blue_zinogre_disco_remix_music_player
+    title: "Spark of Blue - Zinogre Disco Remix - Music Player"
+    path: "Spark of Blue - Zinogre Disco Remix Music Player.wem"
+    type: betting
+  - id: spark_of_blue_zingore_the_chase
+    title: "Spark of Blue - Zinogre: The Chase"
+    path: "Spark of Blue - Zinogre The Chase.wem"
+    type: warning
+  - id: tailrider_safari_go
+    title: "Tailraider Safari, Go!"
+    path: "Tailraider Safari, Go!.wem"
+    type: warning
+  - id: tales_spun_through_song
+    title: "Tales Spun through Song"
+    path: "Tales Spun through Song.wem"
+    type: break
+  - id: the_bustling_heart_of_the_snowy_village_mh_swing_music_player
+    title: "The Bustling Heart of the Snowy Village (MH Swing) - Music Player"
+    path: "The Bustling Heart of the Snowy Village (MH Swing) Music Player.wem"
+    type: betting
+  - id: the_hunters_secret_spring_mh_the_jazz_music_player
+    title: "The Hunters' Secret Spring (MH The Jazz) - Music Player"
+    path: "The Hunters' Secret Spring (MH The Jazz) Music Player.wem"
+    type: break
+  - id: the_invading_tyrant_bazelgeuse_the_chase
+    title: "The Invading Tyrant - Bazelgeuse: The Chase"
+    path: "The Invading Tyrant - Bazelgeuse The Chase.wem"
+    type: warning
+  - id: the_merry_band_disco_remix_music_player
+    title: "The Merry Band Disco Remix - Music Player"
+    path: "The Merry Band Disco Remix Music Player.wem"
+    type: betting
+  - id: the_savage_gajalaka
+    title: "The Savage Gajalaka"
+    path: "The Savage Gajalaka.wem"
+    type: warning
+  - id: the_shadow_upon_the_tempest_kushala_daora_the_chase
+    title: "The Shadow Upon the Tempest - Kushala Daora: The Chase"
+    path: "The Shadow Upon the Tempest - Kushala Daora The Chase.wem"
+    type: warning
+  - id: to_the_ones_with_life_disco_remix_music_player
+    title: "To The Ones With Life Disco Remix - Music Player"
+    path: "To The Ones With Life Disco - Remix Music Player.wem"
+    type: betting
+  - id: where_life_comes_to_rest_rotten_vale_small_monsters_abound
+    title: "Where Life Comes to Rest - Rotten Vale: Small Monsters Abound"
+    path: "Where Life Comes to Rest - Rotten Vale Small Monsters Abound.wem"
+    type: warning
+  - id: winds_of_adventure_mh_the_jazz_music_player
+    title: "Winds of Adventure (MH The Jazz) - Music Player"
+    path: "Winds of Adventure (MH The Jazz) - Music Player.wem"
+    type: betting
+  - id: winter_star_soiree
+    title: "Winter Star Soiree"
+    path: "Winter Star Soiree.wem"
+    type: betting
+  - id: world_s_end_arch_tempered_nergigante_the_chase
+    title: "World's End - Arch Tempered Nergigante: The Chase"
+    path: "World's End - Arch Tempered Nergigante The Chase.wem"
+    type: warning
+#brstms next. These do - may have done a bit too much break/battle themes, but whatchu gonna do
+  - id: a_night_of_lonely_contemplation_kokoto_night_music_player
+    title: "A Night of Lonely Contemplation - Kokoto (Night) - Music Player"
+    path: "A Night of Lonely Contemplation - Kokoto (Night) - Music Player.brstm"
+    type: break
+  - id: a_village_swaying_in_the_wind_cathar_mh_the_jazz_music_player
+    title: "A Village Swaying in the Wind - Cathar (MH The Jazz) - Music Player"
+    path: "A Village Swaying in the Wind - Cathar (MH The Jazz) - Music Player.brstm"
+    type: break
+  - id: awakening_mh_the_jazz_music_player
+    title: "Awakening (MH The Jazz) - Music Player"
+    path: "Awakening (MH The Jazz) - Music Player.brstm"
+    type: break
+  - id: banquet_in_the_snow_lunar_terrace
+    title: "Banquet in the Snow - Lunar Terrace"
+    path: "Banquet in the Snow - Lunar Terrace.brstm"
+    ends: 2:23
+    type: betting
+  - id: barley_field_walkway_music_player
+    title: "Barley Field Walkway - Music Player"
+    path: "Barley Field Walkway - Music Player.brstm"
+    type: result
+  - id: brutish_indigo_brachydios_mh_swing_music_player
+    title: "Brutish Indigo - Brachydios (MH Swing) - Music Player"
+    path: "Brutish Indigo - Brachydios (MH Swing) -Music Player.brstm"
+    type: betting
+  - id: brutish_indigo_rages_raging_brachydios
+    title: "Brutish Indigo Rages - Raging Brachydios"
+    path: "Brutish Indigo Rages - Raging Brachydios.brstm"
+    type: battle
+  - id: cazador_del_monstruo_music_player
+    title: "Cazador Del Monstruo - Music Player"
+    path: "Cazador Del Monstruo - Music Player.brstm"
+    ends: 1:45
+    type: betting
+  - id: congregation_of_the_fearless_the_guiding_lands
+    title: "Congregation of The Fearless - The Guiding Lands"
+    path: "Congrgation of The Fearless - The Guiding Lands.brstm"
+    type: battle
+  - id: dreams_of_tomorrow_private_quarters
+    title: "Dreams of Tomorrow - Private Quarters"
+    path: "Dreams of Tomorrow - Private Quarters.brstm"
+    type: break
+  - id: even_elder_dragons_tremble_nergigante
+    title: "Even Elder Dragons Tremble - Nergigante"
+    path: "Even Elder Dragons Tremble - Nergigante.brstm"
+    type: betting
+  - id: for_the_emperor_s_amusement_safi_jiiva
+    title: "For the Emperor's Amusement - Safi'jiiva"
+    path: "For the Emperor's Amusement - Safi'jiiva.brstm"
+    type: battle
+  - id: fun_fright_fest
+    title: "Fun Fright Fest"
+    path: "Fun Fright Fest.brstm"
+    type: betting
+  - id: golden_mane_rajang_world_version
+    title: "Golden Mane - Rajang World Version"
+    path: "Golden Mane - Rajang World Version.brstm"
+    type: battle
+  - id: gorgeous_days_private_suite
+    title: "Gorgeous Days - Private Suite"
+    path: "Gorgeous Days - Private Suite.brstm"
+    type: break
+  - id: grand_appreciation_festival
+    title: "Grand Appreciation Festival"
+    path: "Grand Appreciation Festival.brstm"
+    type: break
+  - id: holiday_joy_festival
+    title: "Holiday Joy Festival"
+    path: "Holiday Joy Festival.brstm"
+    type: betting
+  - id: how_life_springs_anew_xeno_jiiva_phase_2
+    title: "How Life Springs Anew - Xeno'jiiva (Phase 2)"
+    path: "How Life Springs Anew - Xeno'jiiva (Phase 2).brstm"
+    type: battle
+  - id: hunter_of_the_violent_sands_music_player
+    title: "Hunter of The Violent Sands - Music player"
+    path: "Hunter of The Violent Sands - Music player.brstm"
+    type: betting
+  - id: hunter_go_forth_music_player
+    title: "Hunter, Go Forth - Music Player"
+    path: "Hunter, Go Forth - Music Player.brstm"
+    type: betting
+ - id: iceborne_s_end_arch_tempered_velkhana
+    title: "Iceborne's End - Arch-Tempered Velkhana"
+    path: "Iceborne's End - Arch-Tempered Velkhana.brstm"
+    type: battle
+  - id: keeper_of_hades_vaal_hazak
+    title: "Keeper of Hades - Vaal Hazak"
+    path: "Keeper of Hades - Vaal Hazak.brstm"
+    type: battle
+  - id: legend_of_flight_fatalis_world_version
+    title: "Legend of Flight - Fatalis World Version"
+    path: "Legend of Flight - Fatalis World Version.brstm"
+    type: battle
+  - id: morning_star_of_the_dark_tide_namielle
+    title: "Morning Star of the Dark Tide - Namielle"
+    path: "Morning Star of the Dark Tide - Namielle.brstm"
+    type: battle
+  - id: murmurs_from_the_land_forbidden_rotten_vale
+    title: "Murmurs from the Land Forbidden - Rotten Vale"
+    path: "Murmurs from the Land Forbidden - Rotten Vale.brstm"
+    type: betting
+  - id: nay_the_honor_is_all_ours
+    title: "Nay! The Honor is All Ours"
+    path: "Nay! The Honor is All Ours.brstm"
+    type: battle
+  - id: pride_of_a_nameless_hunter
+    title: "Pride of a Nameless Hunter"
+    path: "Pride of a Nameless Hunter.brstm"
+    type: battle
+  - id: red_afterglow_running_in_the_darkness_nargacuga_mh_the_jazz_music_player
+    title: "Red Afterglow Running in the Darkness - Nargacuga (MH The Jazz) - Music Player"
+    path: "Red Afterglow Running in the Darkness - Nargacuga (MH The Jazz) - Music Player.brstm"
+    type: betting
+  - id: red_glare_in_the_darkness_nargacuga_wolrd_version
+    title: "Red Glare in the Darkness - Nargacuga World Version"
+    path: "Red Glare in the Darkness - Nargacuga World Version.brstm"
+    ends: 2:24
+    type: betting
+  - id: reminiscence_about_the_land_kokoto_day_music_player
+    title: "Reminiscence About the Land - Kokoto (Day) - Music Player"
+    path: "Reminiscence About the Land - Kokoto (Day).brstm"
+    type: break
+ - id: riding_on_the_sea_breeze_cheeko_sands_mh_the_jazz_music_player
+    title: "Riding on the Sea Breeze - Cheeko Sands (MH The Jazz) - Music Player"
+    path: "Riding on the Sea Breeze - Cheeko Sands (MH The Jazz) - Music Player.brstm"
+    type: break
+  - id: roars_across_the_hinterlands_hoarfrost_reach
+    title: "Roars Across the Hinterlands - Hoarfrost Reach"
+    path: "Roars Across the Hinterlands - Hoarfrost Reach.brstm"
+    type: battle
+  - id: scat_cat_fever_music_player
+    title: "Scat Cat Fever - Music Player"
+    path: "Scat Cat Fever Music Player.brstm"
+    type: betting
+  - id: sizzling_spice_festival
+    title: "Sizzling Spice Festival!"
+    path: "Sizzling Spice Festival!.brstm"
+    type: betting
+  - id: song_of_one_mh_the_jazz_music_player
+    title: "Song of One (MH The Jazz) - Music Player"
+    path: "Song of One (MH The Jazz) - Music Player.brstm"
+    type: break
+  - id: song_of_the_beginning_music_player
+    title: "Song of the Beginning - Music Player"
+    path: "Song of the Beginning - Music Player.brstm"
+    type: betting
+  - id: spark_of_blue_zingore_mh_swing_music_player
+    title: "Spark of Blue - Zinogre (MH Swing) - Music Player"
+    path: "Spark of Blue - Zinogre (MH Swing) -Music Player.brstm"
+    type: betting
+  - id: spark_of_blue_zingore_world_version
+    title: "Spark of Blue - Zinogre World Version"
+    path: "Spark of Blue - Zinogre World Version.brstm"
+    ends: 2:26
+    type: betting
+  - id: splendiferous_silver_sovereign_velkhana
+    title: "Splendiferous Silver Sovereign - Velkhana"
+    path: "Splendiferous Silver Sovereign - Velkhana.brstm"
+    type: battle
+  - id: tale_of_the_five
+    title: "Tale of the Five"
+    path: "Tale of the Five.brstm"
+    type: break
+ - id: the_beast_bares_its_fangs_tigrex_world_version
+    title: "The Beast Bares Its Fangs - Tigrex World Version"
+    path: "The Beast Bares Its Fangs - Tigrex World Version.brstm"
+    type: battle
+  - id: the_brilliance_that_rules_the_everstream_kulve_taroth_tremor
+    title: "The Brilliance that Rules the Everstream - Kulve Taroth: Tremor"
+    path: "The Brilliance that Rules the Everstream - Kulve Taroth Tremor.brstm"
+    type: battle
+  - id: the_comforts_of_home
+    title: "The Comforts of Home"
+    path: "The Comforts of Home.brstm"
+    type: break
+  - id: the_defense_of_seliana
+    title: "The Defense of Seliana"
+    path: "The Defense of Seliana.brstm"
+    type: battle
+  - id: the_howling_lone_wolf_yian_garuga_world_version
+    title: "The Howling Lone Wolf - Yian Garuga World Version"
+    path: "The Howling Lone Wolf - Yian Garuga World Version.brstm"
+    type: battle
+  - id: the_invading_tyrant_bazelgeuse
+    title: "The Invading Tyrant - Bazelgeuse"
+    path: "The Invading Tyrant - Bazelgeuse.brstm"
+    type: battle
+  - id: the_scorching_blade_glavenus_world_version
+    title: "The Scorching Blade - Glavenus World Version"
+    path: "The Scorching Blade - Glavenus World Version.brstm"
+    type: battle
+  - id: the_shadow_upon_the_tempest_kushala_daora_world_version
+    title: "The Shadow Upon the Tempest - Kushala Daora (World version)"
+    path: "The Shadow Upon the Tempest - Kushala Daora (World version).brstm"
+    type: battle
+  - id: theme_of_pokke_village_mh_swing_music_player
+    title: "Theme of Pokke Village (MH Swing) - Music Player"
+    path: "Theme of Pokke Village (MH Swing) - Music Player.brstm"
+    type: break
+  - id: grammeowster_chef_s_warm_stew_seliana_day
+    title: "Grammeowster Chef's Warm Stew! - Seliana (Day)"
+    path: "Theme of Seliana (Day).brstm"
+    type: betting
+  - id: theme_of_seliana_night
+    title: "Theme of Seliana (Night)"
+    path: "Theme of Seliana (Night).brstm"
+    type: betting
+  - id: to_one_with_life_mh_swing_music_player
+    title: "To One with Life (MH Swing) - Music Player"
+    path: "To One with Life (MH Swing) - Music Player.brstm"
+    type: betting
+  - id: world_s_end_arch_tempered_nergigante
+    title: "World's End - Arch Tempered Nergigante"
+    path: "World's End - Arch Tempered Nergigante.brstm"
+    type: battle
+...

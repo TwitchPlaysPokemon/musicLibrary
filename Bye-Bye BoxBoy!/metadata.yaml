@@ -1,0 +1,32 @@
+---
+id: bye_bye_boxboy
+title: "Bye-Bye BoxBoy!"
+series: boxboy
+platform: "3DS"
+year: 2017
+songs: 
+  - id: that_name_is_box_power
+    title: "That Name is Box Power"
+    path: "CCO_LP_P3FLATFIVE1.dspadpcm.bcstm"
+    type: break
+  - id: stage_song_1_boxboy
+    title: "Stage Song 1"
+    path: "CCO_LP_P3LEGATO1.dspadpcm.bcstm"
+    type: betting
+  - id: title_byebye_boxboy
+    title: "Title"
+    path: "CCO_LP_P3TITLE1.dspadpcm.bcstm"
+    type: warning
+  - id: our_box_ship
+    title: "Our Box Ship"
+    path: "CCO_LP_P3WORLD1.dspadpcm.bcstm"
+    type: result
+  - id: world_map_byebye_boxboy
+    title: "World Map"
+    path: "CCO_LP_P3WORLD2.dspadpcm.bcstm"
+    type: break
+  - id: bye_bye_qbby
+    title: "Bye-Bye Qbby"
+    path: "CCO_LP_P3END1.dspadpcm.bcstm"
+    type: break
+...

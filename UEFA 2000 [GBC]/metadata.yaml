@@ -1,0 +1,23 @@
+---
+id: uefa_000
+title: "UEFA 2000 [GBC]"
+platform: "GBC"
+year: 2000
+songs:
+  - id: main_menu_uefa_2000
+    title: "Main Menu"
+    path: "01 Main Menu.vgz"
+    type: result
+  - id: tactics_uefa_2000
+    title: "Tactics"
+    path: "02 Tactics.vgz"
+    type: warning
+  - id: statistics_uefa_2000
+    title: "Statistics"
+    path: "03 Statistics.vgz"
+    type: betting
+  - id: champion_uefa_2000
+    title: "Champion!"
+    path: "04 Champion!.vgz"
+    type: battle
+...

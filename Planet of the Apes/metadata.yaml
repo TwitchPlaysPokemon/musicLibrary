@@ -1,0 +1,22 @@
+---
+id: planet_of_the_apes
+title: "Planet of the Apes"
+platform: "GBC"
+year: 2001
+songs:
+    - id: menu_planet_of_the_apes
+      title: "Menu"
+      path: "01 Menu.vgz"
+      type: warning
+    - id: cutscenes_planet_of_the_apes
+      title: "Cutscenes"
+      path: "02 Cutscenes.vgz"
+      type: warning
+    - id: mission_planet_of_the_apes
+      title: "Mission"
+      path: "03 Mission.vgz"
+      type: betting
+    - id: unknown_planet_of_the_apes
+      title: "Unknown"
+      path: "04 Unknown.vgz"
+      type: result

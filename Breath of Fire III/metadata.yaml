@@ -3,16 +3,31 @@ id: breath_of_fire_iii
 title: "Breath of Fire III"
 series: breathoffire
 platform: "PS1"
-#Also PSP in 2005, but whatever. 
 year: 1997
 songs: 
+  - id: casually
+    title: "Casually"
+    path: "104 Casually.psf"
+    type: betting
+  - id: fight_bofiii
+    title: "Fight!"
+    path: "105 Fight!.psf"
+    type: battle
   - id: even_the_sun_s_happy
     title: "Even the Sun's Happy"
     path: "107 Even the Sun's Happy.psf"
     type: betting
+  - id: my_favorite_trick
+    title: "My Favorite Trick"
+    path: "111 My Favorite Trick.psf"
+    type: betting
   - id: the_champion_variation
     title: "The Champion (Variation)"
     path: "114b The Champion (Variation).psf"
+    type: betting
+  - id: life_s_a_beach
+    title: "Life's a Beach"
+    path: "116 Life's a Beach.psf"
     type: betting
   - id: battle_in_the_coming_days
     title: "Battle in the Coming Days"
@@ -22,9 +37,21 @@ songs:
     title: "Healing"
     path: "901 Healing.psf"
     type: break
+  - id: can_t_you_see_clearly_now
+    title: "Can't You See Clearly Now?"
+    path: "903 Farm.psf"
+    type: break
   - id: victory_bofiii
     title: "Victory!"
     path: "905 Victory!.psf"
+    type: result
+  - id: danger_bofiii
+    title: "Danger"
+    path: "907 Danger.psf"
+    type: warning
+  - id: crowing_in_the_night
+    title: "Crowing in the Night"
+    path: "911 Crowing in the Night.psf"
     type: result
   - id: awakening_bofiii
     title: "Awakening"
@@ -38,12 +65,36 @@ songs:
     title: "Pursued"
     path: "928 Pursued.psf"
     type: warning
+  - id: of_gods_and_dragons
+    title: "Of Gods and Dragons"
+    path: "944 Of Gods and Dragons.psf"
+    type: break
   - id: to_a_distant_place
     title: "To a Distant Place"
     path: "949 Exploring the World.psf"
     type: betting
+  - id: player_vs_fish
+    title: "Player vs. Fish"
+    path: "957 Player vs. Fish.psf"
+    type: warning
+  - id: cooking_master
+    title: "Cooking Master"
+    path: "959 Cooking Master.psf"
+    type: result
   - id: final_battle_bofiii
     title: "Final Battle"
     path: "967 Final Battle.psf"
+    type: warning
+  - id: unused_song_1_bofiii
+    title: "Unused Song 1"
+    path: "999 Unused Song 1.psf"
+    type: result
+  - id: unused_song_3_bofiii
+    title: "Unused Song 3"
+    path: "999 Unused Song 3.psf"
+    type: break
+  - id: unused_song_4_bofiii
+    title: "Unused Song 4"
+    path: "999 Unused Song 4.psf"
     type: warning
 ...

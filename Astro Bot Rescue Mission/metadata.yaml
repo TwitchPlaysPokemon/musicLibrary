@@ -1,0 +1,48 @@
+---
+id: astro_bot_rescue_mission
+title: "Astro Bot Rescue Mission"
+platform: "PS4"
+year: 2018
+songs:
+  - id: 12_bar_bot
+    title: "12 Bar BOT"
+    path: "12 Bar BOT.txtp"
+    type: betting
+  - id: balloon_minigame_astro_bot
+    title: "Balloon Minigame"
+    path: "Balloon Minigame.txtp"
+    type: result
+  - id: bite_it_gorilla_boss
+    title: "Bite It (Gorilla Boss)"
+    path: "Bite It (Gorilla Boss).txtp"
+    type: battle
+  - id: come_on_then_alien_boss
+    title: "Come On Then (Alien Boss)"
+    path: "Come On Then (Alien Boss).txtp"
+    type: battle
+  - id: discotree
+    title: "Discotree"
+    path: "Discotree.txtp"
+    type: betting
+  - id: follow_me_into_the_storm
+    title: "Follow Me (Into The Storm)"
+    path: "Follow Me (Into The Storm).txtp"
+    type: betting
+  - id: inside_the_whale_fishy_cave
+    title: "Inside The Whale (Fishy Cave)"
+    path: "Inside The Whale (Fishy Cave).txtp"
+    type: break
+  - id: let_s_do_this_astro_bot
+    title: "Let's Do This"
+    path: "Let's Do This.txtp"
+    type: battle
+  - id: tite_mites_crystal_cave
+    title: "Tite Mites (Crystal Cave)"
+    path: "Tite Mites (Crystal Cave).txtp"
+    type: betting
+  - id: decidedly_spooky
+    title: "Decidedly Spooky"
+    path: "Decidedly Spooky.brstm"
+    ends: 2:35
+    type: betting
+...

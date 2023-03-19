@@ -1,0 +1,36 @@
+---
+id: super_robot_pinball
+title: "Super Robot Pinball"
+series: superrobotwars
+year: 2001
+platform: "GBC"
+songs:
+  - id: fly_gundam_srp
+    title: "Fly! Gundam"
+    path: "flygundam.brstm"
+    type: result
+  - id: mobile_suit_battle_war_srp
+    title: "Mobile Suit Battle ~War~"
+    path: "mobilesuitbattlewar.brstm"
+    type: warning
+  - id: just_communication_srp
+    title: "Just Communication"
+    path: "justcomm.brstm"
+    type: betting
+  - id: yuusha_raideen_srp
+    title: "Yuusha Raideen"
+    path: "raideen.brstm"
+    type: result
+  - id: time_for_l_gaim_srp
+    title: "Time for L-Gaim"
+    path: "timeforlgaim.brstm"
+    type: betting
+  - id: gale_xabungle_srp
+    title: "Gale Xabungle"
+    path: "galexabungle.brstm"
+    type: betting
+  - id: cruel_angel_s_thesis_srp
+    title: "Cruel Angel's Thesis"
+    path: "cruelangel.wav" #this is the only export that was incomplete (no idea why)
+    type: result
+...

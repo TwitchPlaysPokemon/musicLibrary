@@ -1,0 +1,56 @@
+---
+id: tintin_in_tibet
+title: "Tintin in Tibet"
+series: tintin
+platform: ["GB", "GBC"]
+year: 1995
+songs:
+  - id: title_screen_ttit
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: betting
+  - id: train_ttit
+    title: "Train"
+    path: "02 Train.vgz"
+    type: battle
+  - id: swimming_ttit
+    title: "Swimming"
+    path: "03 Swimming.vgz"
+    type: warning
+  - id: hotel_des_sommets
+    title: "Hotel des Sommets"
+    path: "04 Hotel des Sommets.vgz"
+    type: betting
+  - id: katmandu_ttit
+    title: "Katmandu"
+    path: "05 Katmandu.vgz"
+    type: warning
+  - id: running_ttit
+    title: "Running"
+    path: "06 Running.vgz"
+    type: warning
+  - id: mountain_base_ttit
+    title: "Mountain Base"
+    path: "07 Mountain Base.vgz"
+    type: betting
+  - id: upper_mountain_ttit
+    title: "Upper_Mountain"
+    path: "08 Upper Mountain.vgz"
+    type: result
+  - id: mountain_top_ttit
+    title: "Mountain Top"
+    path: "09 Mountain Top.vgz"
+    type: betting
+  - id: cave_ttit
+    title: "Cave"
+    path: "10 Cave.vgz"
+    type: betting
+  - id: monestery_ttit
+    title: "Monastery"
+    path: "11 Monastery.vgz"
+    type: betting
+  - id: yetis_cave_ttit
+    title: "Yeti's Cave"
+    path: "12 Yeti's Cave.vgz"
+    type: battle
+...

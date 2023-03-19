@@ -1,0 +1,68 @@
+---
+id: genshin_impact
+title: "Genshin Impact"
+platform: ["PC", "Mobile", "PS4"]
+year: 2020
+#went with songs long enough to be betting so that brstms aren't necessary
+songs: 
+  - id: liyue
+    title: "Liyue"
+    path: "1-01 - Liyue.mp3"
+    type: betting
+  - id: the_realm_within
+    title: "The Realm Within"
+    path: "2-33 - The Realm Within.mp3"
+    type: break
+  - id: rapid_as_wildfires
+    title: "Rapid as Wildfires"
+    path: "3-01 - Rapid as Wildfires.mp3"
+    type: betting
+  - id: chasing_the_torrents
+    title: "Chasing the Torrents"
+    path: "3-02 - Chasing the Torrents.mp3"
+    type: betting
+  - id: gallant_challenge
+    title: "Gallant Challenge"
+    path: "3-03 - Gallant Challenge.mp3"
+    type: betting
+  - id: rite_of_battle
+    title: "Rite of Battle"
+    path: "12 - Rite of Battle.mp3"
+    type: betting
+  - id: forlorn_child_of_archaic_winds_dvalin_s_nest
+    title: "Forlorn Child of Archaic Winds (Dvalin's Nest)"
+    path: "2-22 - Forlorn Child of Archaic Winds (Dvalin's Nest).mp3"
+    type: break
+  - id: forsaken_child_of_ancient_times_dvalin_s_nest
+    title: "Forsaken Child of Ancient Times (Dvalin's Nest)"
+    path: "2-23 - Forsaken Child of Ancient Times (Dvalin's Nest).mp3"
+    type: break
+  - id: photon_of_fluctuation
+    title: "Photon of Fluctuation"
+    path: "3-01 - Photon of Fluctuation.mp3"
+    type: betting
+  - id: beats_of_water_drops
+    title: "Beats of Water Drops"
+    path: "3-06 - Beats of Water Drops.mp3"
+    type: betting
+  - id: magic_intrigues
+    title: "Magic Intrigues"
+    path: "3-07 - Magic Intrigues.mp3"
+    type: betting
+  - id: perpetual_motion_of_wind
+    title: "Perpetual Motion of Wind"
+    path: "3-09 - Perpetual Motion of Wind.mp3"
+    type: betting
+  - id: riders_of_the_wind_onward
+    title: "Riders of the Wind, Onward"
+    path: "3-10 - Riders of the Wind, Onward.mp3"
+    type: betting
+  - id: whirl_of_boreal_wind
+    title: "Whirl of Boreal Wind"
+    path: "3-11 - Whirl of Boreal Wind.mp3"
+    type: betting
+  - id: symphony_of_boreal_wind
+    title: "Symphony of Boreal Wind"
+    path: "3-12 - Symphony of Boreal Wind.mp3"
+    type: betting
+...

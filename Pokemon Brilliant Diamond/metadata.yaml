@@ -65,6 +65,10 @@ songs:
     title: "Hurry Along"
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_EVENT=EV006).txtp"
     type: warning
+  - id: nazo_b_unused
+    title: "NAZO_B (Unused)"
+    path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=NAZO_B).txtp"
+    type: warning
   - id: pokemon_center_day_bdsp
     title: "Pokémon Center (Day)"
     path: "PLAY_BGM (DSPLAYER=NONE) (BGM_FIELD=PC_DAY).txtp"

@@ -36,4 +36,161 @@ songs:
     title: "Wreck Train"
     path: "TRAIN0727.brstm"
     type: betting
+#before you ask, I checked. The SmashCustomMusic brstms are all just renames of the raw rips. 
+  - id: aboard_the_sweet_stuff_result
+    title: "Aboard the Sweet Stuff (Escape)"
+    path: "Aboard the Sweet Stuff Part 2.brstm"
+    type: result
+  - id: airytale_castle
+    title: "Airytale Castle"
+    path: "Airytale Castle.brstm"
+    type: break
+  - id: bad_manor
+    title: "Bad Manor"
+    path: "Bad Manor.brstm"
+    type: betting
+  - id: bamboozle_village
+    title: "Bamboozle Village"
+    path: "Bamboozle Village.brstm"
+    type: betting
+  - id: vs_bloomsday
+    title: "Vs. Bloomsday"
+    path: "Bloomsday.brstm"
+    type: warning
+  - id: boogie_mansion
+    title: "Boogie Mansion"
+    path: "Boogie Mansion.brstm"
+    type: warning
+  - id: chortlebot_challenge
+    title: "Chortlebot Challenge"
+    path: "Chortlebot Challenge (without Intro).brstm"
+    type: betting
+  - id: chortlebot_challenge_final_phase
+    title: "Chortlebot Challenge (Final Phase)"
+    path: "Chortlebot Challenge Phase 3.brstm"
+    type: warning
+  - id: creep_blue_sea
+    title: "Creep Blue Sea"
+    path: "Creep Blue Sea.brstm"
+    type: break
+  - id: disturbing_tomb
+    title: "Disturbing Tomb"
+    path: "Disturbing Tomb.brstm"
+    type: warning
+  - id: foulwater_falls
+    title: "Foulwater Falls"
+    path: "Foulwater Falls.brstm"
+    type: betting
+  - id: glittertown
+    title: "Glittertown"
+    path: "Glittertown.brstm"
+    type: betting
+  - id: gurgle_gulch
+    title: "Gurgle Gulch"
+    path: "Gurgle Gulch.brstm"
+    type: warning
+  - id: vs_hot_roderick
+    title: "Vs. Hot Roderick"
+    path: "Hot Roderick Race.brstm"
+    type: battle
+  - id: its_all_mine
+    title: "Its-all Mine"
+    path: "Its-all Mine.brstm"
+    type: break
+  - id: just_plains
+    title: "Just Plains"
+    path: "Just Plains.brstm"
+    type: betting
+  - id: large_fry_cook_off
+    title: "Large Fry Cook-Off"
+    path: "Large Fry Cook-Off.brstm"
+    type: warning
+  - id: launchpad_labyrinth
+    title: "Launchpad Labyrinth"
+    path: "Launchpad Labyrinth.brstm"
+    type: betting
+  - id: lowdown_depths
+    title: "Lowdown Depths"
+    path: "Lowdown Depths.brstm"
+    type: warning
+  - id: main_menu_wario_land_shake_it
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: break
+  - id: mount_bighill
+    title: "Mount Bighill"
+    path: "Mount Bighill.brstm"
+    type: betting
+  - id: mt_lava_lava
+    title: "Mt. Lava Lava"
+    path: "Mt. Lava Lava.brstm"
+    type: betting
+  - id: neon_city_wario_land_shake_it
+    title: "Neon City"
+    path: "Neon City.brstm"
+    type: betting
+  - id: pirate_shop_wario_land_shake_it
+    title: "Pirate Shop"
+    path: "Pirate Shop (with Waves).brstm"
+    type: break
+  - id: prism_prison
+    title: "Prism Prison"
+    path: "Prism Prison.brstm"
+    type: warning
+  - id: riverbloat_rapids
+    title: "Riverbloat Rapids"
+    path: "Riverbloat Rapids.brstm"
+    type: warning
+  - id: vs_rollanratl
+    title: "Vs. Rollanratl"
+    path: "Rollanratl Battle.brstm"
+    type: warning
+  - id: ropey_jungle
+    title: "Ropey Jungle"
+    path: "Ropey Jungle.brstm"
+    type: betting
+  - id: run_down_pyramid
+    title: "Run-Down Pyramid"
+    path: "Run-Down Pyramid.brstm"
+    type: betting
+  - id: running_out_of_time
+    title: "Running out of Time"
+    path: "Running out of Time.brstm"
+    type: warning
+  - id: savannah_valley
+    title: "Savannah Valley"
+    path: "Savannah Valley.brstm"
+    type: betting
+  - id: sneak_peek_wario_land_shake_it
+    title: "Sneak Peak"
+    path: "Sneak Peak Return.brstm"
+    type: warning
+  - id: soggybog_river
+    title: "Soggybog River"
+    path: "Soggybog River.brstm"
+    type: betting
+  - id: stonetooth_cave
+    title: "Stonetooth Cave"
+    path: "Stonetooth Cave.brstm"
+    type: betting
+  - id: stonetooth_cave_escape
+    title: "Stonetooth Cave (Escape)"
+    path: "Stonetooth Cave Part 2.brstm"
+    type: result
+  - id: wavy_waters
+    title: "Wavy Waters"
+    path: "Wavy Waters.brstm"
+    type: betting
+  - id: underwater_miniboss_wario_land_shake_it
+    title: "Underwater Miniboss"
+    path: "Wavy Waters Part 2.brstm"
+    type: warning
+  - id: whoopsy_desert
+    title: "Whoopsy Desert"
+    path: "Whoopsy Desert.brstm"
+    type: betting
+  - id: windbreak_bay
+    title: "Windbreak Bay"
+    path: "Windbreak Bay.brstm"
+    type: betting
 ...

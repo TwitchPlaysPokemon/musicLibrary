@@ -1,0 +1,48 @@
+---
+id: snoot_game
+title: "Snoot Game"
+platform: "PC"
+is_fanwork: true
+year: 2021
+songs:
+  - id: appreciating_the_scenery_sg
+    title: "Appreciating the Scenery"
+    path: "appreciating_the_scenery.brstm"
+    type: break
+  - id: ballad_of_the_boot
+    title: "Ballad of the Boot"
+    path: "ballad_of_the_boot.brstm"
+    type: warning
+  - id: bayside_revamp
+    title: "Bayside Revamp"
+    path: "bayside_revamp.brstm"
+    type: betting
+  - id: beach_chill_out
+    title: "Beach Chill Out"
+    path: "Beach Chill Out.brstm"
+    type: break
+  - id: dragging_on_and_on_sg
+    title: "Dragging on and on..."
+    path: "Dragging on and on.brstm"
+    type: betting
+  - id: good_faith_sg
+    title: "Good Faith"
+    path: "good faith.brstm"
+    type: break
+  - id: intercept_sg
+    title: "Intercept"
+    path: "intercept.brstm"
+    type: warning
+  - id: its_footloose_now
+    title: "It's Footloose Now.brstm"
+    path: "its_footloose_now.brstm"
+    type: betting
+  - id: prized_bowling_ball
+    title: "Prized Bowling Ball"
+    path: "Prized Bowling Ball.brstm"
+    type: betting
+  - id: the_top_of_the_social_ladder
+    title: "The Top of the Social Ladder"
+    path: "The Top of the Social Ladder.brstm"
+    type: warning
+...

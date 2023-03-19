@@ -1,0 +1,188 @@
+---
+id: spongebob_squarepants_the_cosmic_shake
+title: "SpongeBob SquarePants: The Cosmic Shake"
+platform: "Various"
+year: 2023
+#there were no official song names, so I improvised. Consider them temporary. 
+songs:
+  - id: main_menu_cosmic_shake
+    title: "Main Menu"
+    path: "A_Mus_MainMenu_lp_01.txtp"
+    type: break
+  - id: bikini_bottom_cosmic_shake
+    title: "Bikini Bottom"
+    path: "A_Mus_BB_Base.txtp"
+    type: break
+  - id: a_battle_in_bikini_bottom
+    title: "A Battle in Bikini Bottom"
+    path: "A_Mus_BB_Battle.txtp"
+    type: betting
+  - id: wild_west_jellyfish_fields
+    title: "Wild West Jellyfish Fields"
+    path: "A_Mus_WN_A_Base.txtp"
+    type: betting
+  - id: a_showdown_in_wild_west_jellyfish_fields
+    title: "A Showdown in Wild West Jellyfish Fields"
+    path: "A_Mus_WN_A_Battle.txtp"
+    type: warning
+  - id: mr_krabs_the_red_handed_bandit
+    title: "Mr. Krabs, The Red Handed Bandit"
+    path: "A_Mus_WN_Boss_Base.txtp"
+    type: battle
+  - id: mr_krabs_the_red_handed_bandit_phase_2
+    title: "Mr. Krabs, The Red Handed Bandit (Phase 2)"
+    path: "A_Mus_WN_Boss_Intensity1.txtp"
+    type: battle
+  - id: mr_krabs_the_red_handed_bandit_phase_3
+    title: "Mr. Krabs, The Red Handed Bandit (Phase 3)"
+    path: "A_Mus_WN_Boss_Intensity2.txtp"
+    type: battle
+  - id: saloon_cosmic_shake
+    title: "Saloon"
+    path: "A_Mus_Saloon1_lp_01.txtp"
+    type: break
+  - id: karate_downtown_bikini_bottom
+    title: "Karate Downtown Bikini Bottom"
+    path: "A_Mus_KM_A_Base.txtp"
+    type: betting
+  - id: kah_rah_tay_in_downtown_bikini_bottom
+    title: "Kah-Rah-Tay in Downtown Bikini Bottom"
+    path: "A_Mus_KM_A_Battle.txtp"
+    type: warning
+  - id: sandy_master_of_kah_rah_tay
+    title: "Sandy, Master of Kah-Rah-Tay"
+    path: "A_Mus_KM_Boss_Base.txtp"
+    type: battle
+  - id: sandy_master_of_kah_rah_tay_phase_2
+    title: "Sandy, Master of Kah-Rah-Tay (Phase 2)"
+    path: "A_Mus_KM_Boss_Base_Intensity1.txtp"
+    type: battle
+  - id: sandy_master_of_kah_rah_tay_phase_3
+    title: "Sandy, Master of Kah-Rah-Tay (Phase 3)"
+    path: "A_Mus_KM_Boss_Base_Intensity2.txtp"
+    type: battle
+  - id: pirate_goo_lagoon
+    title: "Pirate Goo Lagoon"
+    path: "A_Mus_PR_A_Base.txtp"
+    type: betting
+  - id: a_privateering_in_goo_lagoon
+    title: "A Privateering in Goo Lagoon"
+    path: "A_Mus_PR_A_Battle.txtp"
+    type: warning
+  - id: admiral_prawn_the_homewrecker
+    title: "Admiral Prawn, The Homewrecker"
+    path: "A_Mus_PR_Boss_Base.txtp"
+    type: battle
+  - id: admiral_prawn_the_homewrecker_phase_2
+    title: "Admiral Prawn, The Homewrecker (Phase 2)"
+    path: "A_Mus_PR_Boss_Intensity1.txtp"
+    type: battle
+  - id: admiral_prawn_the_homewrecker_phase_3
+    title: "Admiral Prawn, The Homewrecker (Phase 3)"
+    path: "A_Mus_PR_Boss_Intensity2.txtp"
+    type: battle
+  - id: drunken_sailor
+    title: "Drunken Sailor"
+    path: "A_Msc_DrunkenSailor_Cave_lp_01.txtp"
+    type: result
+  - id: patty_mini_game
+    title: "Patty Mini-Game"
+    path: "A_Msc_PattyMiniGame_Sunshine_lp_01.txtp"
+    type: betting
+  - id: the_oyster_girls
+    title: "The Oyster Girls"
+    path: "A_Msc_PR_Challenge_OysterGirls_lp_01.txtp"
+    type: result
+  - id: halloween_rock_bottom
+    title: "Halloween Rock Bottom"
+    path: "A_Mus_HW_A_Base.txtp"
+    type: betting
+  - id: a_scare_in_rock_bottom
+    title: "A Scare in Rock Bottom"
+    path: "A_Mus_HW_A_Battle.txtp"
+    type: warning
+  - id: gary_the_snail_king
+    title: "Gary, The Snail King"
+    path: "A_Mus_HW_Boss_Base.txtp"
+    type: battle
+  - id: gary_the_snail_king_phase_2
+    title: "Gary, The Snail King (Phase 2)"
+    path: "A_Mus_HW_Boss_Intensity1.txtp"
+    type: battle
+  - id: gary_the_snail_king_phase_3
+    title: "Gary, The Snail King (Phase 3)"
+    path: "A_Mus_HW_Boss_Intensity2.txtp"
+    type: battle
+  - id: prehistoric_kelp_forest
+    title: "Prehistoric Kelp Forest"
+    path: "A_Mus_PRH_A_Base.txtp"
+    type: betting
+  - id: an_unga_bunga_in_kelp_forest
+    title: "An Unga Bunga in Kelp Forest"
+    path: "A_Mus_PRH_A_Battle.txtp"
+    type: warning
+  - id: pom_pom_the_killer_whale
+    title: "Pom Pom, the Killer Whale"
+    path: "A_Mus_PRH_Boss_Base.txtp"
+    type: battle
+  - id: pom_pom_the_killer_whale_phase_2
+    title: "Pom Pom, the Killer Whale (Phase 2)"
+    path: "A_Mus_PRH_Boss_Intensity1.txtp"
+    type: battle
+  - id: pom_pom_the_killer_whale_phase_3
+    title: "Pom Pom, the Killer Whale (Phase 3)"
+    path: "A_Mus_PRH_Boss_Intensity2.txtp"
+    type: battle
+  - id: medieval_sulfur_fields
+    title: "Medieval Sulfur Fields"
+    path: "A_Mus_ME_A_Base.txtp"
+    type: betting
+  - id: a_duel_in_sulfur_fields
+    title: "A Duel in Sulfur Fields"
+    path: "A_Mus_ME_A_Battle.txtp"
+    type: warning
+  - id: twitchy_the_vengeful_witch
+    title: "Twitchy, the Vengeful Witch"
+    path: "A_Mus_ME_Boss_Base.txtp"
+    type: betting
+  - id: twitchy_the_vengeful_witch_phase_2
+    title: "Twitchy, the Vengeful Witch (Phase 2)"
+    path: "A_Mus_ME_Boss_Intensity1.txtp"
+    type: betting
+  - id: twitchy_the_vengeful_witch_phase_3
+    title: "Twitchy, the Vengeful Witch (Phase 3)"
+    path: "A_Mus_ME_Boss_Intensity2.txtp"
+    type: warning
+  - id: jelly_glove_world
+    title: "Jelly Glove World"
+    path: "A_Mus_GW_A_Base.txtp"
+    type: betting
+  - id: a_tussle_in_glove_world
+    title: "A Tussle in Glove World"
+    path: "A_Mus_GW_A_Battle.txtp"
+    type: warning
+  - id: glovey_glove_the_friend_stealer
+    title: "Glovey Glove, the Friend Stealer"
+    path: "A_Mus_GW_Boss_Base.txtp"
+    type: betting
+  - id: glovey_glove_the_friend_stealer_phase_2
+    title: "Glovey Glove, the Friend Stealer (Phase 2)"
+    path: "A_Mus_GW_Boss_Intensity1.txtp"
+    type: warning
+  - id: glovey_glove_the_friend_stealer_phase_3
+    title: "Glovey Glove, the Friend Stealer (Phase 3)"
+    path: "A_Mus_GW_Boss_Intensity2.txtp"
+    type: warning
+  - id: kassandra_kalamity
+    title: "Kassandra Kalamity"
+    path: "A_Msc_FinalBoss_MyAxe_lyr1_lp_01.txtp"
+    type: warning
+  - id: kassandra_kalamity_phase_2
+    title: "Kassandra Kalamity (Phase 2)"
+    path: "A_Msc_FinalBoss_MyAxe_lyr2_lp_01.txtp"
+    type: warning
+  - id: kassandra_kalamity_final_phase
+    title: "Kassandra Kalamity (Final Phase)"
+    path: "A_Msc_FinalBoss_MyAxe_lyr3_lp_01.txtp"
+    type: battle
+...

@@ -7,40 +7,40 @@ year: 2017
 songs:
   - id: decisive_battle_with_a_mighty_boss
     title: "Decisive Battle with a Mighty Boss"
-    path: "Dynablade Dark.brstm"
+    path: "DynaDark.dspadpcm.bcstm"
     type: warning
   - id: grand_doomer_team_kirby_clash_deluxe
     title: "Grand Doomer"
-    path: "Grand Doomer Orchestra.brstm"
+    path: "RoperOrch.dspadpcm.bcstm"
     type: battle
   - id: king_d_mind
     title: "King D-Mind"
-    path: "King D-Mind.brstm"
+    path: "DDDMind.dspadpcm.bcstm"
     type: battle
-  - id: magolor_the_wayfarer
-    title: "Magolor the Wayfarer"
-    path: "Magolor the Wayfarer.brstm"
+  - id: magolor_the_far_flung_traveler_kirby_clash_deluxe
+    title: "Magolor, the Far-Flung Traveler"
+    path: "Maho.dspadpcm.bcstm"
     type: break
   - id: rescue_the_kingdom_ordeal_quest
     title: "Rescue the Kingdom! Ordeal Quest"
-    path: "Ordeal Boss Orchestra.brstm"
+    path: "LimeBossOrchestra.dspadpcm.bcstm"
     type: battle
   - id: save_the_world_ordeal_quest
     title: "Save the World! Ordeal Quest"
-    path: "Ordeal Boss Electronic.brstm"
+    path: "LimeBossElecBand.dspadpcm.bcstm"
     type: warning
   - id: the_challenge_of_the_brave_quest_board
     title: "The Challenge of the Brave! Quest Board"
-    path: "Quest Board.brstm"
+    path: "QuestBoard.dspadpcm.bcstm"
     type: warning
   - id: dark_taranza
     title: "Dark Taranza"
-    path: "Dark Taranza.brstm"
+    path: "TaranzaBoss.dspadpcm.bcstm"
     type: warning
   - id: secret_credits_team_kirby_clash_deluxe
     title: "Secret Credits"
     ends: 2:55
-    path: "Secret Credits.bcstm"
+    path: "OmoteEnd_vol.dspadpcm.bcstm"
     type: betting
   - id: village_team_kirby_clash_deluxe
     title: "Village"

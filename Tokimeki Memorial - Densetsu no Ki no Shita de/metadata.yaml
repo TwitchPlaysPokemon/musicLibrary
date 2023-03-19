@@ -8,7 +8,6 @@ songs:
   - id: winter_tokimeki_memorial_snes
     title: "Winter"
     path: "022 Winter.spc"
-    tags: [xmas]
     type: result
   - id: magic_bell
     title: "Magic Bell"
@@ -37,21 +36,27 @@ songs:
   - id: christmas_tokimeki_memorial_snes
     title: "Christmas"
     path: "122 Christmas.spc"
-    tags: [xmas]
     type: result
   - id: christmas_party
     title: "Christmas Party"
     path: "123 Christmas Party.spc"
-    tags: [xmas]
     type: result
   - id: new_year_s_day
     title: "New Year's Day"
     path: "127 New Year's Day.spc"
-    tags: [xmas]
     type: betting
   - id: new_year_s_fortune
     title: "New Year's Fortune"
     path: "128 New Year's Fortune.spc"
-    tags: [xmas]
     type: warning
+#there is another game folder called "Tokimeki Memorial" alone, with these titles in it. 
+#if these are both the same game, we can lump them in together
+  - id: amusement_park_tokimeki
+    title: "Amusement Park"
+    path: "Tokimeki Memorial 057 Amusement Park.spc"
+    type: result
+  - id: christmas_alone
+    title: "Christmas Alone"
+    path: "Tokimeki Memorial 124 Christmas Alone.spc"
+    type: break
 ...

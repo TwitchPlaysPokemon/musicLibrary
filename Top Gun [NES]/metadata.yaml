@@ -1,0 +1,19 @@
+---
+id: top_gun_nes
+title: "Top Gun"
+platform: "NES"
+year: 1987
+songs:
+  - id: top_gun_anthem_nes
+    title: "Top Gun Anthem"
+    path: "01 Top Gun Anthem.vgz"
+    type: break
+  - id: mission_briefing_tg
+    title: "Mission Briefing"
+    path: "02 Mission Briefing.vgz"
+    type: warning
+  - id: refueling_tg
+    title: "Refueling"
+    path: "04 Refueling.vgz"
+    type: betting
+...
