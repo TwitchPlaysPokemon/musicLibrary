@@ -69,10 +69,10 @@ songs:
     title: "Cipher Admin Theme"
     path: "stm_bgm_chr_boss01.isd"
     type: warning
-  - id: evolution_xd
-    path: "stm_bgm_XDbattle03.isd"
-    title: "Evolution"
-    type: warning
+  # - id: evolution_xd
+    # path: "stm_bgm_XDbattle03.isd" gotta fix this one later
+    # title: "Evolution"
+    # type: warning
   - id: gonzaps_theme
     title: "Gonzap's Theme"
     path: "stm_bgm_chr_helgonza.isd"
@@ -246,7 +246,7 @@ songs:
     title: "Relic Forest"
     path: "stm_bgm_saint.isd"
     type: break
-  - id: fateen_the_fortune_teller
+  - id: fateen_the_fortune_teller_xd
     title: "Fateen the Fortune Teller"
     path: "stm_bgm_shinpi.isd"
     type: break

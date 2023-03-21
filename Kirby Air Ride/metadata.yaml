@@ -28,7 +28,7 @@ songs:
     type: battle
   - id: beanstalk_park
     title: "Air Ride - Beanstalk Park"
-    path: "3d_sky.hps.brstm"
+    path: "3d_sky.hps"
     type: betting
   - id: celestial_valley
     title: "Air Ride - Celestial Valley"
@@ -213,6 +213,6 @@ songs:
     type: warning
   - id: beanstalk_park_alternate
     title: "Air Ride - Beanstalk Park (Alternate)"
-    path: "3d_sky_ura.hps.brstm"
+    path: "3d_sky_ura.hps"
     type: betting
 ...
