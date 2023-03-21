@@ -1,0 +1,123 @@
+---
+id: keitai_denjuu_telefang_2
+title: "Keitai Denjuu Telefang 2"
+platform: "GBA"
+year: 2002
+songs: 
+  - id: credits_telefang_2
+    title: "Credits"
+    path: "AGB-ATPJ-JPN-0004.minigsf"
+    type: break
+  - id: battle_preparation_telefang_2
+    title: "Battle Preparation"
+    path: "AGB-ATPJ-JPN-0005.minigsf"
+    type: warning
+  - id: battle_wild_denjuu
+    title: "Battle! Wild Denjuu!"
+    path: "AGB-ATPJ-JPN-0006.minigsf"
+    type: battle
+  - id: battle_t_fanger
+    title: "Battle! T-Fanger!"
+    path: "AGB-ATPJ-JPN-0007.minigsf"
+    type: battle
+  - id: battle_boss_telegang_2
+    title: "Battle! Boss!"
+    path: "AGB-ATPJ-JPN-0008.minigsf"
+    type: battle
+  - id: battle_diabolos
+    title: "Battle! Diabolos!"
+    path: "AGB-ATPJ-JPN-0009.minigsf"
+    type: battle
+  - id: human_world
+    title: "Human World"
+    path: "AGB-ATPJ-JPN-0017.minigsf"
+    type: betting
+  - id: field_telefang_2
+    title: "Field"
+    path: "AGB-ATPJ-JPN-0018.minigsf"
+    type: betting
+  - id: desert_telefang_2
+    title: "Desert"
+    path: "AGB-ATPJ-JPN-0019.minigsf"
+    type: betting
+  - id: sea_telefang_2
+    title: "Sea"
+    path: "AGB-ATPJ-JPN-0020.minigsf"
+    type: break
+  - id: mountain_telefang_2
+    title: "Mountain"
+    path: "AGB-ATPJ-JPN-0021.minigsf"
+    type: betting
+  - id: antenna_tree
+    title: "Antenna Tree"
+    path: "AGB-ATPJ-JPN-0022.minigsf"
+    type: break
+  - id: cave_telefang_2
+    title: "Cave"
+    path: "AGB-ATPJ-JPN-0023.minigsf"
+    type: betting   
+  - id: spring_cave
+    title: "Spring Cave"
+    path: "AGB-ATPJ-JPN-0024.minigsf"
+    type: betting  
+  - id: bandit_hideout_telefang_2
+    title: "Bandit Hideout"
+    path: "AGB-ATPJ-JPN-0025.minigsf"
+    type: betting  
+  - id: kamishino_ruins
+    title: "Kamishino Ruins"
+    path: "AGB-ATPJ-JPN-0026.minigsf"
+    type: warning  
+  - id: barusuta_forest
+    title: "Barusuta Forest"
+    path: "AGB-ATPJ-JPN-0027.minigsf"
+    type: betting     
+  - id: holy_land_iasuka
+    title: "Holy Land Iasuka"
+    path: "AGB-ATPJ-JPN-0028.minigsf"
+    type: betting
+  - id: helchika_and_bijina_villages
+    title: "Helchika and Bijinia Villages"
+    path: "AGB-ATPJ-JPN-0029.minigsf"
+    type: betting 
+  - id: villages_telefang_2
+    title: "Villages"
+    path: "AGB-ATPJ-JPN-0030.minigsf"
+    type: betting 
+  - id: chiawata_and_uraani_villages
+    title: "Chiawata and Uraani Villages"
+    path: "AGB-ATPJ-JPN-0031.minigsf"
+    type: break
+  - id: shop_telefang_2
+    title: "Shop"
+    path: "AGB-ATPJ-JPN-0032.minigsf"
+    type: result
+  - id: d_shot_store
+    title: "D-Shot Store"
+    path: "AGB-ATPJ-JPN-0034.minigsf"
+    type: betting
+  - id: conflict_telefang_2
+    title: "Conflict!"
+    path: "AGB-ATPJ-JPN-0038.minigsf"
+    type: warning
+  - id: gymnos
+    title: "Gymnos"
+    path: "AGB-ATPJ-JPN-0039.minigsf"
+    type: result
+  - id: panic_smile_sisters
+    title: "Panic (Smile Sisters)"
+    path: "AGB-ATPJ-JPN-0041.minigsf"
+    type: warning
+  - id: ellis_vulcan_and_rumba
+    title: "Ellis, Vulcan and Rumba"
+    path: "AGB-ATPJ-JPN-0042.minigsf"
+    type: result
+  - id: diabolos
+    title: "Diabolos"
+    path: "AGB-ATPJ-JPN-0043.minigsf"
+    type: warning
+  - id: d_shot_menu
+    title: "D-Shot Menu"
+    path: "AGB-ATPJ-JPN-0044.minigsf"
+    type: result
+...

@@ -4,13 +4,37 @@ title: "San Francisco Rush 2049"
 series: rush
 platform: "N64"
 year: 2000
-songs: 
-  - id: retro_san_francisco_rush_2049
+songs:
+  - id: bassy_sfr
+    title: "Bassy"
+    path: "02 Bassy.miniusf"
+    type: battle
+  - id: garage_sfr
+    title: "Garage"
+    path: "03 Garage.miniusf"
+    type: battle
+  - id: night_sfr
+    title: "Night"
+    path: "05 Night.miniusf"
+    type: battle
+  - id: retro_sfr
     title: "Retro"
     path: "07 Retro.miniusf"
     type: battle
-  - id: stunted_san_francisco_rush_2049
+  - id: stunted_sfr
     title: "Stunted"
     path: "08 Stunted.miniusf"
     type: betting
+  - id: flier_sfr
+    title: "Flier"
+    path: "09 Flier.miniusf"
+    type: battle
+  - id: battle_1_sfr
+    title: "Battle 1"
+    path: "11 Battle 1.miniusf"
+    type: warning
+  - id: battle_2_sfr
+    title: "Battle 2"
+    path: "12 Battle 2.miniusf"
+    type: warning
 ...

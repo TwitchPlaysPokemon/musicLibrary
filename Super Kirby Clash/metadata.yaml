@@ -52,8 +52,8 @@ songs:
     title: "Party Quest B"
     path: "LP_TEAM_B.dspadpcm.bfstm"
     type: battle
-  - id: white_hot_boss_battle
-    title: "White Hot! Boss Battle"
+  - id: blazing_boss_battle_super_kirby_clash
+    title: "Blazing! Boss Battle"
     path: "BGM_b_dedede01_RMX.dspadpcm.bfstm"
     type: battle
   - id: road_to_victory
@@ -80,8 +80,8 @@ songs:
     title: "Final Takeoff"
     path: "BGM_Sh6SpRockElec_RMX.dspadpcm.bfstm"
     type: battle
-  - id: sphere_doomer_super_kirby_clash
-    title: "Sphere Doomer"
+  - id: vs_sphere_doomer_super_kirby_clash
+    title: "VS Sphere Doomer"
     path: "LP_LMROPER_RMX.dspadpcm.bfstm"
     type: battle
   - id: grand_doomer_super_kirby_clash
@@ -92,12 +92,12 @@ songs:
     title: "Revenge of the Enemy"
     path: "LP_TARANZA_RMX.dspadpcm.bfstm"
     type: battle
-  - id: four_headed_guardian_landia
-    title: "Four-Headed Guardian: Landia"
+  - id: guardian_angel_landia
+    title: "Guardian Angel: Landia"
     path: "LP_LANDIARMX.dspadpcm.bfstm"
     type: battle
-  - id: fly_kirby_of_the_stars_super_kirby_clash
-    title: "Fly, Kirby of the Stars!"
+  - id: fly_kirby_super_kirby_clash
+    title: "Fly, Kirby!"
     path: "BGM_st_halberd_RMX.dspadpcm.bfstm"
     type: betting
   - id: king_d_mind_super_kirby_clash
@@ -142,7 +142,7 @@ songs:
     ends: 3:12
     type: betting
   - id: ultra_super_boss_battle_super_kirby_clash
-    title: "Ultra Super Boss Battle"
+    title: "Ultra-Super Boss Battle"
     path: "BGM_SuperCopyBoss07_RMX.dspadpcm.bfstm"
     type: battle
   - id: deux_ex_machina_seen_in_childhood_super_kirby_clash

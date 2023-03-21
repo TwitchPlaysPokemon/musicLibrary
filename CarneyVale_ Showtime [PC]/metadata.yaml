@@ -1,0 +1,19 @@
+---
+id: carneyvale_showtime_pc
+title: "CarneyVale: Showtime (PC)"
+platform: ["PC", "360", "Mobile"]
+year: 2008
+songs:
+    - id: lowtown
+      title: "Lowtown"
+      path: "Lowtown.logg"
+      type: betting
+    - id: venicus
+      title: "Venicus"
+      path: "Venicus.logg"
+      type: betting
+    - id: ending_carneyvale
+      title: "Ending"
+      path: "Ending.logg"
+      type: result
+...

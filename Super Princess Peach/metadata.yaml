@@ -1,0 +1,56 @@
+---
+id: super_princess_peach
+title: "Super Princess Peach"
+series: mario
+platform: "NDS"
+year: 2005
+songs:
+  - id: super_princess_peach
+    title: "Super Princess Peach!"
+    path: "01 Super Princess Peach!.mini2sf"
+    type: result
+  - id: select_your_file
+    title: "Select Your File!"
+    path: "02 Select Your File!.mini2sf"
+    type: betting
+  - id: ladida_plains_1
+    title: "Ladida Plains 1"
+    path: "08 Ladida Plains 1.mini2sf"
+    type: betting
+  - id: a_quick_pause
+    title: "A Quick Pause"
+    path: "12 A Quick Pause.mini2sf"
+    type: break
+  - id: boss_fight_super_princess_peach
+    title: "BOSS FIGHT!!!"
+    path: "15 BOSS FIGHT!!!.mini2sf"
+    type: warning
+  - id: fury_volcano_1
+    title: "Fury Volcano 1"
+    path: "28 Fury Volcano 1.mini2sf"
+    type: betting
+  - id: giddy_sky_1
+    title: "Giddy Sky 1"
+    path: "38 Giddy Sky 1.mini2sf"
+    type: betting
+  - id: perry_s_dream
+    title: "Perry's Dream"
+    path: "40 Perry's Dream.mini2sf"
+    type: betting
+  - id: to_the_boss_2
+    title: "To the Boss! 2"
+    path: "44 To the Boss! 2.mini2sf"
+    type: warning
+  - id: bowser_super_princess_peach
+    title: "BOWSER!!!"
+    path: "45 BOWSER!!!.mini2sf"
+    type: warning
+  - id: bowser_s_not_dead_yet
+    title: "BOWSER'S NOT DEAD YET!!!"
+    path: "46 BOWSER'S NOT DEAD YET!!!.mini2sf"
+    type: warning
+  - id: a_glossary_of_foes
+    title: "A Glossary of Foes"
+    path: "56 A Glossary of Foes.mini2sf"
+    type: result
+...

@@ -1,0 +1,55 @@
+---
+id: party_quiz_mega_q
+title: "Party Quiz Mega Q"
+platform: "Genesis"
+year: 1993
+songs:
+  - id: mq_blues
+    title: "MQ Blues"
+    path: "03 - MQ Blues.vgz"
+    type: betting
+  - id: create_a_new_genre
+    title: "Create a New Genre"
+    path: "05 - Create a New Genre.vgz"
+    type: warning
+  - id: all_day_mega_q
+    title: "All Day Mega Q"
+    path: "07 - All Day Mega Q.vgz"
+    type: betting
+  - id: the_decisive_mq_match
+    title: "The Decisive MQ Match"
+    path: "08 - The Decisive MQ Match.vgz"
+    type: warning
+  - id: samba_de_mq
+    title: "Samba de MQ"
+    path: "09 - Samba de MQ.vgz"
+    type: warning
+  - id: mq_shuffle
+    title: "MQ Shuffle"
+    path: "10 - MQ Shuffle.vgz"
+    type: warning
+  - id: salsa_de_mq
+    title: "Salsa de MQ"
+    path: "13 - Salsa de MQ.vgz"
+    type: result
+  - id: hero_s_theme
+    title: "Hero's Theme"
+    path: "18 - Hero's Theme.vgz"
+    type: betting
+  - id: cm_song
+    title: "CM Song"
+    path: "22 - CM Song.vgz"
+    type: betting
+  - id: cyber_mq
+    title: "Cyber MQ"
+    path: "23 - Cyber MQ.vgz"
+    type: warning
+  - id: mq_relaxation
+    title: "MQ Relaxation"
+    path: "27 - MQ Relaxation.vgz"
+    type: result
+  - id: unknown_track_mq
+    title: "Unknown Track"
+    path: "30 - Unknown Track.vgz"
+    type: result
+...

@@ -1,0 +1,19 @@
+---
+id: floracy
+title: "Floracy"
+platform: "GBC"
+year: UNRELEASED
+songs:
+  - id: title_screen_floracy
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: overworld_floracy
+    title: "Overworld"
+    path: "Overworld.brstm"
+    type: betting
+  - id: battle_floracy
+    title: "Battle"
+    path: "Battle.brstm"
+    type: battle
+...

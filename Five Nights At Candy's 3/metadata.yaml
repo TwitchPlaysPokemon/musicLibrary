@@ -1,0 +1,29 @@
+---
+id: five_nights_at_candy_s_3
+title: "Five Nights at Candy's 3"
+series: fivenightsatfreddys
+year: 2017
+is_fanwork: true
+platform: "PC"
+songs:
+  - id: confrontation_fnac3
+    title: "Confrontation"
+    path: "Confrontation.brstm"
+    type: break
+  - id: dreamscape_fnac3
+    title: "Dreamscape"
+    path: "Dreamscape.brstm"
+    type: break
+  - id: fight_like_cat_and_dog
+    title: "Fight Like Cat and Dog"
+    path: "Fight Like Cat and Dog.brstm"
+    type: warning
+  - id: fishing_with_candy
+    title: "Fishing with Candy"
+    path: "Fishing with Candy.brstm"
+    type: result
+  - id: the_rat_and_cat_theater
+    title: "The Rat & Cat Theater"
+    path: "The Rat & Cat Theater.brstm"
+    type: warning
+...

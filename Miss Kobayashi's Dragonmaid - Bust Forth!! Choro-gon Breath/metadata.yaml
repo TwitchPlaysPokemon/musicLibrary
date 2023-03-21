@@ -1,0 +1,51 @@
+---
+id: miss_kobayashi_s_dragon_maid_bust_forth_choro_gon_breath
+title: "Miss Kobayashi's Dragon Maid - Bust Forth!! Choro-gon ☆ Breath"
+platform: ["Switch", "PS4"]
+year: 2022
+songs: 
+  - id: main_menu_dragon_maid
+    title: "Main Menu"
+    path: "bgm_01.fsb"
+    type: result
+  - id: fin_fantasy
+    title: "Fin Fantasy"
+    path: "bgm_03.fsb"
+    type: betting
+  - id: sugar_sports
+    title: "Sugar Sports"
+    path: "bgm_04.fsb"
+    type: betting
+  - id: tachyon_blaze
+    title: "Tachyon Blaze"
+    path: "bgm_06.fsb"
+    type: warning
+  - id: monster_crisis
+    title: "Monster Crisis"
+    path: "bgm_07.fsb"
+    type: battle
+  - id: imaginary_shopping_district
+    title: "Imaginary Shopping District"
+    path: "bgm_08.fsb"
+    type: battle
+  - id: boss_fight_dragon_maid
+    title: "Boss Fight"
+    path: "bgm_09.fsb"
+    type: battle
+  - id: ilulu_fight
+    title: "Ilulu Fight"
+    path: "bgm_10.fsb"
+    type: warning
+  - id: lucoa_fight
+    title: "Lucoa Fight"
+    path: "bgm_11.fsb"
+    type: result
+  - id: story_cutscene_dragon_maid
+    title: "Story Cutscene"
+    path: "bgm_12.fsb"
+    type: break
+  - id: credits_dragon_maid
+    title: "Credits"
+    path: "bgm_13.fsb"
+    type: result
+...

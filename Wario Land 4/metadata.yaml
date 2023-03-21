@@ -1,9 +1,9 @@
----
 id: wario_land_4
 title: "Wario Land 4"
+year: 2001
 series: wario
 platform: "GBA"
-year: 2001
+songs:
 songs:
   - id: toy_block_tower
     title: "Toy Block Tower"
@@ -16,5 +16,65 @@ songs:
   - id: hotel_horror
     title: "Hotel Horror"
     path: "021 Hotel Horror.minigsf"
+    type: betting
+  - id: monsoon_jungle
+    title: "Monsoon Jungle"
+    path: "009 Monsoon Jungle.minigsf"
+    type: break
+  - id: palm_tree_paradise
+    title: "Palm Tree Paradise"
+    path: "006a Palm Tree Paradise.minigsf"
+    type: break
+  - id: wildflower_fields
+    title: "Wildflower Fields"
+    path: "007 Wildflower Fields.minigsf"
+    type: break
+  - id: boss_wl4
+    title: "Boss"
+    path: "051 Boss.minigsf"
+    type: warning
+  - id: so_sleepy
+    title: "So Sleepy"
+    path: "086 So Sleepy.minigsf"
+    type: break
+  - id: escape_from_the_pyramid
+    title: "Escape From the Pyramid"
+    path: "067 Escape From the Pyramid.minigsf"
+    type: warning
+  - id: work_it
+    title: "Work It!"
+    path: "002 Work It!.minigsf"
+    type: betting
+  - id: crescent_moon_village
+    title: "Crescent Moon Village"
+    path: "018 Crescent Moon Village.minigsf"
+    type: betting
+  - id: puzzle_room_wl4
+    title: "Puzzle Room"
+    path: "024 Puzzle Room.minigsf"
+    type: betting
+  - id: hurry_up_wl4
+    title: "Hurry Up!!!"
+    path: "026 Hurry Up!!!.minigsf"
+    type: betting
+  - id: coin_loss_wl4
+    title: "Coin Loss..."
+    path: "028 Coin Loss....minigsf"
+    type: result
+  - id: golden_diva
+    title: "Golden Diva"
+    path: "064 Golden Diva.minigsf"
+    type: warning
+  - id: soft_shell
+    title: "Soft Shell"
+    path: "085 Soft Shell.minigsf"
+    type: betting
+  - id: hall_of_hieroglyphs
+    title: "Hall of Hieroglyphs"
+    path: "005 Hall of Hieroglyphs.minigsf"
+    type: betting
+  - id: mystic_lake_lakeside
+    title: "Mystic Lake (Lakeside)"
+    path: "008a Mystic Lake (Lakeside).minigsf"
     type: betting
 ...

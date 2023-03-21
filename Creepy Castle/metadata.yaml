@@ -1,0 +1,103 @@
+---
+id: creepy_castle
+title: "Creepy Castle"
+platform: "PC"
+year: 2016
+songs:
+  - id: a_lick_of_fire_fiery
+    title: "A Lick of Fire (Fiery)"
+    path: "A Lick of Fire (Fiery).brstm"
+    type: battle
+  - id: a_wispy_breeze_florius
+    title: "A Wispy Breeze (Florius)"
+    path: "A Wispy Breeze (Florius).brstm"
+    type: betting
+  - id: all_roads_open_epilogue
+    title: "All Roads Open (Epilogue)"
+    path: "All Roads Open (Epilogue).brstm"
+    type: result
+  - id: all_that_remains_is_to_fly_meteor
+    title: "All that remains is to fly (Meteor)"
+    path: "All that remains is to fly (Meteor).brstm"
+    type: betting
+  - id: ascension_golden_palace
+    title: "Ascension (Golden Palace)"
+    path: "Ascension (Golden Palace).brstm"
+    type: battle
+  - id: buried_truth_inverted_pyramid
+    title: "Buried Truth (Inverted Pyramid)"
+    path: "Buried Truth (Inverted Pyramid).brstm"
+    type: warning
+  - id: checkmate_marble_atrium
+    title: "Checkmate! (Marble Atrium)"
+    path: "Checkmate! (Marble Atrium).brstm"
+    type: betting
+  - id: fates_at_the_crossroads_boss_battle
+    title: "Fates at the Crossroads (Boss Battle)"
+    path: "Fates at the Crossroads (Boss Battle).brstm"
+    type: battle
+  - id: fight_of_the_humble_bee_moth_vs_bee
+    title: "Fight of the Humble Bee (Moth vs. Bee)"
+    path: "Fight of the Humble Bee (Moth vs. Bee).brstm"
+    type: warning
+  - id: friendship_through_fisticuffs_butterfly_battle
+    title: "Friendship through Fisticuffs (Butterfly Battle)"
+    path: "Friendship through Fisticuffs (Butterfly Battle).brstm"
+    type: warning
+  - id: ghostly_facade_ghost_palace
+    title: "Ghostly Facade (Ghost Palace)"
+    path: "Ghostly Facade (Ghost Palace).brstm"
+    type: betting
+  - id: green_science_overgrown_laboratory
+    title: "Green Science (Overgrown Laboratory)"
+    path: "Green Science (Overgrown Laboratory).brstm"
+    type: betting
+  - id: in_through_the_out_door_the_back_door
+    title: "In Through The Out Door (The Back Door)"
+    path: "In Through The Out Door (The Back Door).brstm"
+    type: betting
+  - id: introspection_punk_cruiser
+    title: "Introspection (Punk Cruiser)"
+    path: "Introspection (Punk Cruiser).brstm"
+    type: betting
+  - id: persona_non_grata_vs_madam
+    title: "Persona Non Grata (vs. Madam)"
+    path: "Persona Non Grata (vs. Madam).brstm"
+    type: warning
+  - id: scale_these_castle_walls_vs_possessor_demon
+    title: "Scale These Castle Walls (vs. Possessor Demon)"
+    path: "Scale These Castle Walls (vs. Possessor Demon).brstm"
+    type: betting
+  - id: the_dance_of_depth_depth_boss_battle
+    title: "The Dance of Depth (Depth Boss Battle)"
+    path: "The Dance of Depth (Depth Boss Battle).brstm"
+    type: battle
+  - id: the_darkest_inflection_vs_possessed_darking
+    title: "The Darkest Inflection (vs. Possessed Darking)"
+    path: "The Darkest Inflection (vs. Possessed Darking).brstm"
+    type: warning
+  - id: the_destroyer_vs_possessor_apollyon
+    title: "The Destroyer (vs. Possessor Apollyon)"
+    path: "The Destroyer (vs. Possessor Apollyon).brstm"
+    type: battle
+  - id: the_final_possession_statue_chase
+    title: "The Final Possession (Statue Chase)"
+    path: "The Final Possession (Statue Chase).brstm"
+    type: warning
+  - id: the_verse_butterfly
+    title: "The Verse (Butterfly)"
+    path: "The Verse (Butterfly).brstm"
+    type: betting
+  - id: the_warmth_ius
+    title: "The Warmth (IUS)"
+    path: "The Warmth (IUS).brstm"
+    type: betting
+  - id: wanting_all_the_things_you_ll_never_have_major_boss_battle
+    title: "Wanting All The Things You'll Never Have (Major Boss Battle)"
+    path: "Wanting All The Things You'll Never Have (Major Boss Battle).brstm"
+    type: warning
+  - id: welcome_to_creepy_castle_main_theme
+    title: "Welcome to Creepy Castle (Main Theme)"
+    path: "Welcome to Creepy Castle (Main Theme).brstm"
+    type: betting
+...

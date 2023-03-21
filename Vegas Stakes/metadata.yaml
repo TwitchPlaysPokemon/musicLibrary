@@ -1,0 +1,35 @@
+---
+id: vegas_stakes
+title: "Vegas Stakes"
+platform: "SNES"
+year: 1993
+songs:
+  - id: hotel_room
+    title: "Hotel Room"
+    path: "03 Hotel Room.spc"
+    type: break
+  - id: the_hideaway
+    title: "The Hideaway"
+    path: "05 The Hideaway.spc"
+    type: result
+  - id: golden_paradise
+    title: "Golden Paradise"
+    path: "06 Golden Paradise.spc"
+    type: betting
+  - id: buffalo_head
+    title: "Buffalo Head"
+    path: "07 Buffalo Head.spc"
+    type: warning
+  - id: the_2020
+    title: "The 2020"
+    path: "08 The 2020.spc"
+    type: betting
+  - id: laural_palace
+    title: "Laural Palace"
+    path: "09 Laural Palace.spc"
+    type: betting
+  - id: won_game_vegas
+    title: "Won Game"
+    path: "12 Won Game.spc"
+    type: result
+...

@@ -1,0 +1,72 @@
+---
+id: mega_man_2_the_power_fighters
+title: "Mega Man 2: The Power Fighters"
+series: megaman
+platform: "Arcade"
+year: 1996
+songs: 
+  - id: player_select_mm2pf
+    title: "Player Select"
+    path: "03 Player Select.vgz"
+    type: warning
+  - id: course_select_mm2pf
+    title: "Course Select"
+    path: "04 Course Select.vgz"
+    type: warning
+  - id: plant_man_mm2pf
+    title: "Plant Man"
+    path: "06 Plant Man.vgz"
+    type: betting
+  - id: bubble_man_mm2pf
+    title: "Bubble Man"
+    path: "07 Bubble Man.vgz"
+    type: betting
+  - id: heat_man_mm2pf
+    title: "Heat Man"
+    path: "08 Heat Man.vgz"
+    type: betting
+  - id: gyro_man_mm2pf
+    title: "Gyro Man"
+    path: "09 Gyro Man.vgz"
+    type: betting
+  - id: centaur_man_mm2pf
+    title: "Centaur Man"
+    path: "10 Centaur Man.vgz"
+    type: betting
+  - id: shadow_man_mm2pf
+    title: "Shadow Man"
+    path: "11 Shadow Man.vgz"
+    type: betting
+  - id: weapon_get_mm2pf
+    title: "Weapon Get"
+    path: "13 Weapon Get.vgz"
+    type: result
+  - id: cut_man_mm2pf
+    title: "Cut Man"
+    path: "14 Cut Man.vgz"
+    type: betting
+  - id: dive_man_mm2pf
+    title: "Dive Man"
+    path: "15 Dive Man.vgz"
+    type: betting
+  - id: ranking_mm2pf
+    title: "Ranking"
+    path: "21 Ranking.vgz"
+    type: result
+  - id: mecha_dragon_mm2pf
+    title: "Mecha Dragon"
+    path: "32 Mecha Dragon.vgz"
+    type: battle
+  - id: wily_machine_mm2pf
+    title: "Wily Machine"
+    path: "33 Wily Machine.vgz"
+    type: battle
+  - id: escape_mm2pf
+    title: "Escape"
+    path: "37 Escape.vgz"
+    type: warning
+  - id: protoman_ending_mm2pf
+    title: "Protoman Ending"
+    path: "40 Protoman Ending.vgz"
+    type: break
+...

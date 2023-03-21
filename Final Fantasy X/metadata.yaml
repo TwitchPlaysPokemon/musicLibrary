@@ -9,26 +9,122 @@ songs:
     title: "Otherworld"
     path: "B10_01.AT3"
     type: betting
+  - id: the_prelude_ffx
+    title: "The Prelude"
+    path: "103 The Prelude.minipsf2"
+    type: betting
+  - id: hurry_ffx
+    title: "Hurry!!"
+    path: "106 Hurry!!.minipsf2"
+    type: warning
   - id: battle_theme_ffx
     title: "Battle Theme"
     path: "109 Battle.minipsf2"
     type: battle
+  - id: enemy_attack_ffx
+    title: "Enemy Attack"
+    path: "116 Enemy Attack.minipsf2"
+    type: battle
+  - id: besaid_island
+    title: "Besaid Island"
+    path: "118 Besaid Island.minipsf2"
+    type: break
+  - id: the_sight_of_spira
+    title: "The Sight of Spira"
+    path: "119 The Sight of Spira.minipsf2"
+    type: break
   - id: illusion_phantoms_ffx
     title: "Illusion / Phantoms"
     path: "121 Phantoms.minipsf2"
     type: break
+  - id: yuna_s_theme_ffx
+    title: "Yuna's Theme"
+    path: "201 Yuna's Theme.minipsf2"
+    type: break
+  - id: sprouting_ffx
+    title: "Sprouting"
+    path: "202 Sprouting.minipsf2"
+    type: betting
+  - id: silence_before_the_storm
+    title: "Silence Before the Storm"
+    path: "204 Silence Before the Storm.minipsf2"
+    type: break
+  - id: the_splendid_performance
+    title: "The Splendid Performance"
+    path: "209 The Splendid Performance.minipsf2"
+    type: betting
   - id: blitz_off
     title: "Blitz Off!"
     path: "211 Blitz Off.minipsf2"
     type: betting
+  - id: mi_ihen_highroad
+    title: "Mi'ihen Highroad"
+    path: "213 Mi'ihen Highroad.minipsf2"
+    type: betting
+  - id: brass_de_chocobo
+    title: "Brass de Chocobo"
+    path: "214 Brass de Chocobo.minipsf2"
+    type: betting
+  - id: travel_agency
+    title: "Travel Agency"
+    path: "215 Travel Agency.minipsf2"
+    type: break
+  - id: ride_ze_shoopuf
+    title: "Ride ze Shoopuf?"
+    path: "221 Ride ze Shoopuf.minipsf2"
+    type: break
+  - id: rikku_s_theme
+    title: "Rikku's Theme"
+    path: "222 Rikku's Theme.minipsf2"
+    type: break
   - id: thunder_plains
     title: "Thunder Plains"
     path: "301 Thunder Plains.minipsf2"
     type: break
+  - id: jecht_s_theme
+    title: "Jecht's Theme"
+    path: "302 Jecht's Theme.minipsf2"
+    type: break
+  - id: macalania_forest
+    title: "Macalania Forest"
+    path: "303 Macalania Forest.minipsf2"
+    type: break
+  - id: seymour_s_ambition
+    title: "Seymour's Ambition"
+    path: "306 Seymour's Ambition.minipsf2"
+    type: betting
+  - id: pursuit_ffx
+    title: "Pursuit"
+    path: "308 Pursuit.minipsf2"
+    type: warning
+  - id: scorching_desert
+    title: "Scorching Desert"
+    path: "309 Scorching Desert.minipsf2"
+    type: break
+  - id: crisis_ffx
+    title: "Crisis"
+    path: "310 Crisis.minipsf2"
+    type: warning
   - id: assault_ffx
     title: "Assault"
     path: "314 Assault.minipsf2"
     type: battle
+  - id: tragedy_ffx
+    title: "Tragedy"
+    path: "315 Tragedy.minipsf2"
+    type: warning
+  - id: my_father_s_murderer
+    title: "My Father's Murderer"
+    path: "320 My Father's Murderer.minipsf2"
+    type: warning
+  - id: yuna_s_determination
+    title: "Yuna's Determination"
+    path: "401 Yuna's Determination.minipsf2"
+    type: break
+  - id: lulu_s_theme
+    title: "Lulu's Theme"
+    path: "402 Lulu's Theme.minipsf2"
+    type: betting
   - id: wandering_flame
     title: "Wandering Flame"
     path: "407 Wandering Flames.minipsf2"

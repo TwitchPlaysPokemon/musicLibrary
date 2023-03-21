@@ -1,0 +1,75 @@
+---
+id: zoids_legacy
+title: "Zoids: Legacy"
+platform: "GBA"
+year: 2003
+songs: 
+  - id: introductions_zoids
+    title: "Introductions"
+    path: "BGM #03.minigsf"
+    type: break
+  - id: sudden_crisis
+    title: "Sudden Crisis"
+    path: "BGM #04.minigsf"
+    type: battle
+  - id: snap_tension
+    title: "Snap Tension"
+    path: "BGM #05.minigsf"
+    type: warning
+  - id: let_s_cooperate
+    title: "Let's Cooperate!"
+    path: "BGM #07.minigsf"
+    type: betting
+  - id: feeling_better
+    title: "Feeling Better"
+    path: "BGM #08.minigsf"
+    type: result
+  - id: busy_town
+    title: "Busy Town"
+    path: "BGM #11.minigsf"
+    type: betting
+  - id: peaceful_town
+    title: "Peaceful Town"
+    path: "BGM #12.minigsf"
+    type: break
+  - id: shops_and_bars
+    title: "Shops and Bars"
+    path: "BGM #13.minigsf"
+    type: betting
+  - id: zoid_institute
+    title: "Zoid Institute"
+    path: "BGM #14.minigsf"
+    type: betting
+  - id: field_battle_zoids
+    title: "Field Battle"
+    path: "BGM #23.minigsf"
+    type: battle
+  - id: rough_struggle
+    title: "Rough Struggle"
+    path: "BGM #24.minigsf"
+    type: warning
+  - id: fearless_zoids
+    title: "Fearless"
+    path: "BGM #25.minigsf"
+    type: warning
+  - id: island_dome_skirmishes
+    title: "Island Dome Skirmishes"
+    path: "BGM #26.minigsf"
+    type: battle
+  - id: decisive_zoids
+    title: "Decisive"
+    path: "BGM #27.minigsf"
+    type: battle
+  - id: the_will_of_death_meteor
+    title: "The Will of Death Meteor"
+    path: "BGM #28.minigsf"
+    type: battle
+  - id: secret_confrontation_hiltz_and_death_saurer
+    title: "Secret Confrontation ~ Hiltz and Death Saurer"
+    path: "BGM #29.minigsf"
+    type: battle
+  - id: world_map_zoids
+    title: "World Map"
+    path: "BGM #31.minigsf"
+    type: betting
+...

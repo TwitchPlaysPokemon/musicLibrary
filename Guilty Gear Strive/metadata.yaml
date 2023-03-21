@@ -1,0 +1,140 @@
+id: guilty_gear_strive
+title: "Guilty Gear Strive"
+series: guiltygear
+year: 2021
+platform: ["PS4", "PS5", "PC"]
+songs:
+  - id: smell_of_the_game
+    title: "Smell of the Game"
+    path: "200_pv1.logg"
+    ends: 2:32
+    type: betting
+  - id: find_your_one_way_sol_s_theme
+    title: "Find Your One Way (Sol's Theme)"
+    path: "001_sol.logg"
+    ends: 3:37
+    type: betting
+  - id: the_roar_of_the_spark_ky_s_theme
+    title: "The Roar of the Spark (Ky's Theme)"
+    path: "002_kyk.logg"
+    ends: 2:57
+    type: betting
+  - id: disaster_of_passion_may_s_theme
+    title: "Disaster of Passion (May's Theme)"
+    path: "003_may.logg"
+    ends: 3:54
+    type: betting
+  - id: armor_clad_faith_potemkin_s_theme
+    title: "Armor-clad Faith (Potemkin's Theme)"
+    path: "004_pot.logg"
+    ends: 2:35
+    type: betting
+  - id: play_the_hero_chipp_s_theme
+    title: "Play The Hero (Chipp's Theme)"
+    path: "005_chp.logg"
+    ends: 2:33
+    type: betting
+  - id: out_of_the_box_axl_s_theme
+    title: "Out of the Box (Axl's Theme)"
+    path: "006_axl.logg"
+    ends: 2:38
+    type: betting
+  - id: let_me_carve_your_way_zato_1_s_theme
+    title: "Let Me Carve Your Way (Zato-1's Theme)"
+    path: "007_zat.logg"
+    ends: 2:54
+    type: betting
+  - id: love_the_subhuman_self_millia_s_theme
+    title: "Love The Subhuman Self (Millia's Theme)"
+    path: "008_mll.logg"
+    ends: 3:15
+    type: betting
+  - id: alone_infection_faust_s_theme
+    title: "Alone Infection (Faust's Theme)"
+    path: "009_fau.logg"
+    ends: 2:39
+    type: betting
+  - id: what_do_you_fight_for_nagoriyuki_s_theme
+    title: "What do you fight for (Nagoriyuki's Theme)"
+    path: "010_nag.logg"
+    ends: 2:48
+    type: betting
+  - id: hellfire_leo_s_theme
+    title: "Hellfire (Leo's Theme)"
+    path: "011_leo.logg"
+    ends: 2:47
+    type: betting
+  - id: necessary_discrepancy_ramlethal_s_theme
+    title: "Necessary Discrepancy (Ramlethal's Theme)"
+    path: "012_ram.logg"
+    ends: 2:45
+    type: betting
+  - id: requiem_i_no_s_theme
+    title: "Requiem (I-No's Theme)"
+    path: "013_ino.logg"
+    ends: 3:22
+    type: betting
+  - id: rock_parade_anji_s_theme
+    title: "Rock Parade (Anji's Theme)"
+    path: "014_anj.logg"
+    ends: 2:28
+    type: betting
+  - id: trigger_giovanna_s_theme
+    title: "Trigger (Giovanna's Theme)"
+    path: "015_gio.logg"
+    ends: 2:39
+    type: betting
+  - id: crawl_boss_theme
+    title: "Crawl (Boss Theme)"
+    path: "101_boss.logg"
+    ends: 2:40
+    type: betting
+  - id: the_name_of_heaven_story_theme
+    title: "The Name of Heaven (Story Theme)
+    path: "202_ed_ac.logg"
+    ends: 4:10
+    type: betting
+  - id: character_select_ggs
+    title: "Character Select"
+    path: "401_charasel_loop.logg"
+    type: warning
+  - id: winner_screen_ggs
+    title: "Winner Screen"
+    path: "302_winloop.logg"
+    type: result
+  - id: lobby_ggs
+    title: "Lobby"
+    path: "403_lobby.logg"
+    ends: 2:51
+    type: betting
+  - id: the_kiss_of_death_goldlewis_s_theme
+    title: "The Kiss of Death (Goldlewis's Theme)"
+    path: "The Kiss of Death (Goldlewis's Theme).brstm"
+    ends: 2:56
+    type: betting
+  - id: perfection_can_t_please_me_jack_o_s_theme
+    title: "Perfection Can't Please Me (Jack-O's Theme)"
+    path: "Perfection Can't Please Me (Jack-O's Theme).brstm"
+    ends: 3:06
+    type: betting
+  - id: drift_happy_chaos_s_theme
+    title: "Drift (Happy Chaos's Theme)"
+    path: "Drift (Chaos's Theme).brstm"
+    ends: 2:45
+    type: betting
+  - id: mirror_of_the_world_baiken_s_theme
+    title: "Mirror of The World (Baiken's Theme)"
+    path: "Mirror of The World (Baiken's Theme).brstm"
+    ends: 2:40
+    type: betting
+  - id: like_a_weed_naturally_as_a_matter_of_course_testament_s_theme
+    title: "Like a Weed, Naturally, as a Matter of Course (Testament's Theme)"
+    path: "Like a Weed, Naturally, as a Matter of Course (Testament's Theme).brstm"
+    ends: 2:50
+    type: betting
+  - id: the_town_inside_me_bridget_s_theme
+    title: "The Town Inside Me (Bridget's Theme)"
+    path: "The Town Inside Me (Bridget's Theme).brstm"
+    ends: 3:04
+    type: betting
+...

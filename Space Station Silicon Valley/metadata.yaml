@@ -4,11 +4,38 @@ title: "Space Station Silicon Valley"
 platform: "N64"
 year: 1998
 songs:
+  - id: level_select_smashing_start
+    title: "Level Select (Smashing Start)"
+    path: "06 Level Select (Smashing Start).miniusf"
+    type: betting
+  - id: the_battery_farm
+    title: "The Battery Farm"
+    path: "09 The Battery Farm.miniusf"
+    type: betting
+  - id: the_engine_room_sssv
+    title: "The Engine Room"
+    path: "10 The Engine Room.miniusf"
+    type: betting
+  - id: rat_o_matic
+    title: "Rat-o-Matic"
+    path: "12 Rat-o-Matic.miniusf"
+    type: betting
+  - id: snow_joke
+    title: "Snow Joke"
+    path: "14 Snow Joke.miniusf"
+    type: result
   - id: ice_n_easy_does_it
     title: "Ice 'n' Easy Does It"
     path: "15 Ice 'n' Easy Does It.miniusf"
-    tags: [xmas]
     type: break
+  - id: jungle_doldrums
+    title: "Jungle Doldrums"
+    path: "18 Jungle Doldrums.miniusf"
+    type: betting
+  - id: jungle_jumps
+    title: "Jungle Jumps"
+    path: "20 Jungle Jumps.miniusf"
+    type: betting
   - id: fun_in_the_sun
     title: "Fun In The Sun"
     path: "22 Fun In The Sun.miniusf"
@@ -17,4 +44,8 @@ songs:
     title: "Punch-Up Pyramid"
     path: "23 Punch-Up Pyramid.miniusf"
     type: warning
+  - id: unused_4_sssv
+    title: "Unused 4"
+    path: "30 Unused 4.miniusf"
+    type: betting
 ...

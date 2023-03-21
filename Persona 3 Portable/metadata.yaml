@@ -4,14 +4,38 @@ title: "Persona 3 Portable"
 series: shinmegamitensei
 platform: "PSP"
 year: 2009
+#replaced the BRSTMs with the actual files. I dunno if this is a situation where
+#the original version is of higher quality - revert if so. 
 songs:
   - id: a_way_of_life
     title: "A Way of Life"
-    path: "02 A Way of Life.mp3"
+    path: "124.ADX"
     ends: 2:19
     type: betting
   - id: danger_zone_p3_portable
     title: "Danger Zone"
-    path: "Danger Zone.brstm"
+    path: "123.ADX"
     type: battle
+  - id: wiping_all_out
+    title: "Wiping All Out"
+    path: "122.ADX"
+    type: battle
+  - id: sun_p3_portable
+    title: "Sun"
+    path: "121.ADX"
+    type: betting
+# I think these come from the main game, but there are like three different folders for this game
+# feel free to move these if they fit better elsewhere
+  - id: kimi_no_kioku
+    title: "Kimi no Kioku"
+    path: "042.ADX"
+    type: betting
+  - id: burn_my_dread
+    title: "Burn My Dread"
+    path: "029.ADX"
+    type: betting
+  - id: changing_seasons_p3
+    title: "Changing Seasons"
+    path: "051.ADX"
+    type: betting
 ...

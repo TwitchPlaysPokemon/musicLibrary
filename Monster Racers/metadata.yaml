@@ -1,0 +1,99 @@
+---
+id: monster_racers
+title: "Monster Racers"
+platform: "NDS"
+year: 2010
+songs: 
+  - id: vs_legendary
+    title: "Vs. Legendary"
+    path: "0000 - SEQ_BGM_RCE_00.mini2sf"
+    type: battle
+  - id: vs_monster_racer
+    title: "Vs. Monster Racer"
+    path: "000a - SEQ_BGM_RCE_10.mini2sf"
+    type: battle
+  - id: rival_race
+    title: "Rival Race"
+    path: "000b - SEQ_BGM_RCE_11.mini2sf"
+    type: battle
+  - id: vs_wild_monster
+    title: "Vs. Wild Monster"
+    path: "000c - SEQ_BGM_RCE_12.mini2sf"
+    type: battle
+  - id: vs_exotic_monster
+    title: "Vs. Exotic Monster"
+    path: "000d - SEQ_BGM_RCE_13.mini2sf"
+    type: battle
+  - id: star_city
+    title: "Star City"
+    path: "000e - SEQ_BGM_FLD_00.mini2sf"
+    type: betting
+  - id: before_tournament
+    title: "Before Tournament"
+    path: "000f - SEQ_BGM_FLD_01.mini2sf"
+    type: result
+  - id: final_round_monster_racers
+    title: "Final Round"
+    path: "0001 - SEQ_BGM_RCE_01.mini2sf"
+    type: battle
+  - id: star_island_race
+    title: "Star Island Race"
+    path: "0002 - SEQ_BGM_RCE_02.mini2sf"
+    type: battle
+  - id: oceania_race
+    title: "Oceania Race"
+    path: "0003 - SEQ_BGM_RCE_03.mini2sf"
+    type: battle
+  - id: asia_race
+    title: "Asia Race"
+    path: "0004 - SEQ_BGM_RCE_04.mini2sf"
+    type: battle
+  - id: eurasia_race
+    title: "Eurasia Race"
+    path: "0005 - SEQ_BGM_RCE_05.mini2sf"
+    type: battle
+  - id: africa_race
+    title: "Africa Race"
+    path: "0006 - SEQ_BGM_RCE_06.mini2sf"
+    type: battle
+  - id: north_america_race
+    title: "North America Race"
+    path: "0007 - SEQ_BGM_RCE_07.mini2sf"
+    type: warning
+  - id: south_america_race
+    title: "South America Race"
+    path: "0008 - SEQ_BGM_RCE_08.mini2sf"
+    type: warning
+  - id: europe_race
+    title: "Europe Race"
+    path: "0009 - SEQ_BGM_RCE_09.mini2sf"
+    type: warning
+  - id: green_area_monster_racers
+    title: "Green Area"
+    path: "0010 - SEQ_BGM_FLD_02.mini2sf"
+    type: betting
+  - id: cave_desert_area_monster_racers
+    title: "Cave/Desert Area"
+    path: "0011 - SEQ_BGM_FLD_03.mini2sf"
+    type: betting
+  - id: aquatic_area_monster_racers
+    title: "Aquatic Area"
+    path: "0012 - SEQ_BGM_FLD_04.mini2sf"
+    type: betting
+  - id: mountainous_area_monster_racers
+    title: "Mountainous Area"
+    path: "0013 - SEQ_BGM_FLD_05.mini2sf"
+    type: betting
+  - id: icy_area_monster_racers
+    title: "Icy Area"
+    path: "0014 - SEQ_BGM_FLD_06.mini2sf"
+    type: break
+  - id: panic_monster_racers
+    title: "PANIC!"
+    path: "0017 - SEQ_BGM_EVT_02.mini2sf"
+    type: warning
+  - id: victory_monster_racers
+    title: "Victory!"
+    path: "0021 - SEQ_BGM_SYS_06.mini2sf"
+    type: result
+...

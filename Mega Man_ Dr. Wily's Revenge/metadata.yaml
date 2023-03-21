@@ -21,8 +21,40 @@ songs:
     title: "Wily Station Stage"
     path: "14 Wily Station Stage.vgz"
     type: result
+  - id: title_mm_wily_s_revenge
+    title: "Title"
+    path: "01 Title.vgz"
+    type: result
+  - id: boss_mm_wily_s_revenge
+    title: "Boss"
+    path: "09 Boss.vgz"
+    type: warning
+  - id: get_a_weapon_mm_wily_s_revenge
+    title: "Get a Weapon"
+    path: "11 Get a Weapon.vgz"
+    type: warning
+  - id: unused_mm_wily_s_revenge
+    title: "Unused"
+    path: "16 Unused.vgz"
+    type: break
   - id: stage_select_prototype
     title: "Stage Select (Prototype)"
     path: "Stage Select (Prototype).brstm"
     type: warning
+  - id: cut_man_mm_wily_s_revenge
+    title: "Cut Man"
+    path: "05 Cut Man.vgz"
+    type: betting
+  - id: ice_man_mm_wily_s_revenge
+    title: "Ice Man"
+    path: "06 Ice Man.vgz"
+    type: betting
+  - id: elec_man_mm_wily_s_revenge
+    title: "Elec Man"
+    path: "07 Elec Man.vgz"
+    type: betting
+  - id: fire_man_mm_wily_s_revenge
+    title: "Fire Man"
+    path: "08 Fire Man.vgz"
+    type: betting
 ...

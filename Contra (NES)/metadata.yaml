@@ -9,4 +9,24 @@ songs:
     title: "Jungle Battle (Stage 1, 7)"
     path: "03 Jungle Battle (Stage 1, 7).vgz"
     type: betting
+  - id: maze_fortress_stage_2_4
+    title: "Maze Fortress (Stage 2, 4)"
+    path: "05 Maze Fortress 1 (Stage 2, 4).vgz"
+    type: betting
+  - id: maze_fortress_boss_stage_2_4_boss
+    title: "Maze Fortress Boss (Stage 2, 4 Boss)"
+    path: "06 Maze Fortress 2 (Stage 2, 4 Boss).vgz"
+    type: warning
+  - id: fortress_of_ice_stage_5
+    title: "Fortress of Ice (Stage 5)"
+    path: "08 Fortress of Ice (Stage 5).vgz"
+    type: warning
+  - id: fortress_of_flame_stage_6
+    title: "Fortress of Flame (Stage 6)"
+    path: "09 Fortress of Flame (Stage 6).vgz"
+    type: warning
+  - id: horrible_heartbeat_stage_8
+    title: "Horrible Heartbeat (Stage 8)"
+    path: "10 Horrible Heartbeat (Stage 8).vgz"
+    type: warning
 ...

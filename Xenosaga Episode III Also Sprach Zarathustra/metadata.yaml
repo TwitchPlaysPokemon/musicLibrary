@@ -67,6 +67,6 @@ songs:
     type: break
   - id: godsibb
     title: "godsibb"
-    path: "1267-adx_9.adx"
+    path: "Godsibb.brstm" #switching to brstm as the raw file has too low volume
     type: battle
 ...

@@ -1,0 +1,110 @@
+---
+id: pizza_tower
+title: "Pizza Tower"
+platform: "PC"
+year: 2023
+#the ripped music doesn't loop, so for now I'm working with that. 
+songs: 
+  - id: what_s_on_the_kids_menu
+    title: "What's on the Kids Menu?"
+    path: "Whats_on_the_Kids_Menu.fsb"
+    type: betting
+  - id: on_the_rocks
+    title: "On the Rocks"
+    path: "On_the_Rocks.fsb"
+    type: result
+  - id: mmm_yess_put_the_tree_on_my_pizza
+    title: "mmm yess put the tree on my pizza"
+    path: "mmm_yess_put_the_tree_on_my_pizza.fsb"
+    type: betting
+  - id: bite_the_crust
+    title: "Bite the Crust"
+    path: "Bite_the_Crust.fsb"
+    type: betting
+  - id: a_secret_you_don_t_want_to_find
+    title: "A Secret You Don't Want To Find"
+    path: "A_Secret_You_Dont_Want_To_Find.fsb"
+    type: result
+  - id: celcius_troubles
+    title: "Celcius Troubles"
+    path: "Celcius_Troubles.fsb"
+    ends: 2:29
+    type: betting
+  - id: cold_spaghetti
+    title: "Cold Spaghetti"
+    path: "Cold_Spaghetti.fsb"
+    type: betting
+  - id: tuesdays
+    title: "Tuesdays"
+    path: "Tuesdays.fsb"
+    type: warning
+  - id: receding_hairline_celebration_party
+    title: "Receding Hairline Celebration Party"
+    path: "Receiding_Hairline_Celebration_Party.fsb"
+    type: result
+  - id: hip_to_be_italian
+    title: "Hip to be Italian"
+    path: "Hip_to_be_Italian.fsb"
+    type: result
+  - id: extraterrestrial_wahwahs
+    title: "Extraterrestrial Wahwahs"
+    path: "Extraterrestrial_Wahwahs.fsb"
+    type: betting
+  - id: peppinos_sauce_machine
+    title: "Peppino's Sauce Machine"
+    path: "Peppinos_Sauce_Machine.fsb"
+    type: warning
+  - id: unearthly_blues
+    title: "Unearthly Blues"
+    path: "Unearthly_Blues.fsb"
+    type: betting
+  - id: dungeon_freakshow
+    title: "Dungeon Freakshow"
+    path: "Dungeon_Freakshow_v222.fsb"
+    type: betting
+  - id: way_of_the_italian
+    title: "Way of the Italian"
+    path: "Way_of_the_Italian.fsb"
+    type: betting
+  - id: theres_a_bone_in_my_spaghetti
+    title: "There's a Bone in my Spaghetti"
+    path: "Theres_a_Bone_in_my_Spaghetti.fsb"
+    type: betting
+  - id: tunnely_shimbers
+    title: "Tunnely Shimbers"
+    path: "Tunnely_Shimbers.fsb"
+    type: betting
+  - id: pumpin_hot_stuff
+    title: "Pumpin' Hot Stuff"
+    path: "Pumpin_Hot_Stuff.fsb"
+    type: warning
+#the brstms. I tried my best
+  - id: funiculi_holiday
+    title: "funiculi holiday"
+    path: "mu_funiculi.brstm"
+    type: betting
+  - id: it_s_pizza_time
+    title: "It's Pizza Time!"
+    path: "mu_pizzatime.brstm"
+    type: battle
+  - id: pepperman_strikes
+    title: "Pepperman Strikes!"
+    path: "mu_pepperman.brstm"
+    type: battle
+  - id: thousand_march
+    title: "Thousand March"
+    path: "mu_war.brstm"
+    type: battle
+  - id: unexpectancy_part_1
+    title: "Unexpectancy (Part 1 of 3)"
+    path: "mu_pizzahead1.brstm"
+    type: battle
+  - id: unexpectancy_part_2
+    title: "Unexpectancy (Part 2 of 3)"
+    path: "mu_pizzahead2.brstm"
+    type: battle
+  - id: unexpectancy_part_3
+    title: "Unexpectancy (Part 3 of 3)"
+    path: "mu_pizzahead3.brstm"
+    type: battle
+...

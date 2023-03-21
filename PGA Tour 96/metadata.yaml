@@ -1,0 +1,15 @@
+---
+id: pga_tour_96
+title: "PGA Tour 96 [SNES]"
+platform: "Various"
+year: 1995
+songs: 
+  - id: main_theme_pga_96 #donkey_kong_december
+    title: "Main Theme"
+    path: "01 Main Theme.spc"
+    type: betting
+  - id: results_1_pga_96
+    title: "Results 1"
+    path: "03 Results 1.spc"
+    type: result
+...

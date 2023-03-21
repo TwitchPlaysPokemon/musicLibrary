@@ -1,0 +1,32 @@
+---
+id: five_nights_at_freddys_security_breach
+title: "Five Nights at Freddy's: Security Breach"
+series: fivenightsatfreddys
+platform: ["PC", "PS4", "PS5"]
+year: 2021
+songs: 
+  - id: el_chip_s
+    title: "El Chip's"
+    path: "El Chip's.brstm"
+    type: betting
+  - id: elevator_bossa_nova
+    title: "Elevator (Bossa Nova)"
+    path: "Elevator (Bossa Nova).brstm"
+    type: break
+  - id: main_theme_five_nights_at_freddys_security_breach
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: result
+  - id: minigolf
+    title: "Minigolf"
+    path: "Minigolf.brstm"
+    type: result
+  - id: monty_s_gator_golf
+    title: "Monty's Gator Golf"
+    path: "Monty's Gator Golf.brstm"
+    type: betting
+  - id: superstar_daycare
+    title: "Superstar Daycare"
+    path: "Superstar Daycare.brstm"
+    type: result
+...

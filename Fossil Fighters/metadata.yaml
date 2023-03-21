@@ -1,0 +1,124 @@
+---
+id: fossil_fighters
+title: "Fossil Fighters"
+platform: "NDS"
+series: fossilfighters
+year: 2008
+songs: 
+  - id: vmm
+    title: "VMM"
+    path: "000C SEQ_BGM_TOWN_ATM.mini2sf"
+    type: break
+  - id: crashed_starship
+    title: "Crashed Starship"
+    path: "001A SEQ_BGM_H_MABOROSHI_INSIDE.mini2sf"
+    type: break
+  - id: parchment_desert
+    title: "Parchment Desert"
+    path: "001C SEQ_BGM_H_ACHISUNA.mini2sf"
+    type: betting
+  - id: coldfeet_glacier
+    title: "Coldfeet Glacier"
+    path: "001D SEQ_BGM_H_ITETSUKU.mini2sf"
+    type: break
+  - id: battle_briefing
+    title: "Battle Briefing"
+    path: "001F SEQ_BGM_B_PREPARE.mini2sf"
+    type: warning
+  - id: fossil_center
+    title: "Fossil Center"
+    path: "0002 SEQ_BGM_TOWN_CENTER.mini2sf"
+    type: betting
+  - id: richmond_building
+    title: "Richmond Building"
+    path: "0003 SEQ_BGM_TOWN_LABO.mini2sf"
+    type: betting
+  - id: drop_the_future_idolcomp_theme
+    title: "Drop the Future (Idolcomp Theme)"
+    path: "003A SEQ_BGM_HANICON.mini2sf"
+    type: break
+  - id: nick_nack_s_theme
+    title: "Nick Nack's Theme"
+    path: "003B SEQ_BGM_HENNAMONSKI.mini2sf"
+    type: betting
+  - id: saurhead_s_theme
+    title: "Saurhead's Theme"
+    path: "003D SEQ_BGM_MASK.mini2sf"
+    type: warning
+  - id: fossil_cleaning
+    title: "Fossil Cleaning"
+    path: "004B SEQ_BGM_CLEANING_LOOP.mini2sf"
+    type: betting
+  - id: fossil_guild
+    title: "Fossil Guild"
+    path: "0005 SEQ_BGM_TOWN_SHOP.mini2sf"
+    type: betting
+  - id: fossil_stadium
+    title: "Fossil Stadium"
+    path: "0006 SEQ_BGM_TOWN_KASEKIUM.mini2sf"
+    type: betting
+  - id: relic_hotel
+    title: "Relic Hotel"
+    path: "0007 SEQ_BGM_TOWN_HOTEL.mini2sf"
+    type: betting
+  - id: police_fossil_fighters
+    title: "Police"
+    path: "0008 SEQ_BGM_TOWN_POLICE.mini2sf"
+    type: betting
+  - id: greenhorn_plains
+    title: "Greenhorn Plains"
+    path: "0010 SEQ_BGM_H_DAPPIRO.mini2sf"
+    type: betting
+  - id: rivet_ravine
+    title: "Rivet Ravine"
+    path: "0013 SEQ_BGM_H_ROKOTTO.mini2sf"
+    type: betting
+  - id: bottomsup_bay
+    title: "Bottomsup Bay"
+    path: "0015 SEQ_BGM_H_SOKONASHI.mini2sf"
+    type: betting
+  - id: bb_trio
+    title: "BB Trio"
+    path: "0028 SEQ_BGM_BB.mini2sf"
+    type: warning
+  - id: mt_lavaflow
+    title: "Mt. Lavaflow"
+    path: "0018 SEQ_BGM_H_DOKKAN.mini2sf"
+    type: betting
+  - id: vs_captain_travers_and_p_b_jay
+    title: "Vs. Captain Travers and P.B. Jay"
+    path: "0020 SEQ_BGM_B_K1.mini2sf"
+    type: battle
+  - id: level_up_battle
+    title: "Level-Up Battle"
+    path: "0021 SEQ_BGM_B_K2.mini2sf"
+    type: result
+  - id: final_level_up_battle
+    title: "Final Level-Up Battle"
+    path: "0022 SEQ_BGM_B_K3.mini2sf"
+    type: battle
+  - id: normal_battle_fossil_fighters
+    title: "Normal Battle"
+    path: "0023 SEQ_BGM_B_H1.mini2sf"
+    type: warning
+  - id: boss_battle_fossil_fighters
+    title: "Boss Battle"
+    path: "0024 SEQ_BGM_B_H2.mini2sf"
+    type: battle
+  - id: vs_guhnash
+    title: "Vs. Guhnash"
+    path: "0025 SEQ_BGM_B_H3.mini2sf"
+    type: warning
+  - id: vs_bullwort
+    title: "Vs. Bullwort"
+    path: "0026 SEQ_BGM_B_TORISHIMAR.mini2sf"
+    type: warning
+  - id: bb_swing
+    title: "BB Swing"
+    path: "0040 SEQ_BGM_BBMEETING.mini2sf"
+    type: break
+  - id: vs_king_dynal
+    title: "Vs. King Dynal"
+    path: "0041 SEQ_BGM_B_DINO.mini2sf"
+    type: battle 
+...

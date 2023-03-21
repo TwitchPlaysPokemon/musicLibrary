@@ -4,10 +4,12 @@ title: "Super Monkey Ball"
 series: supermonkeyball
 platform: ["Arcade", "GCN"]
 year: 2001
+#the release of Banana Mania doesn't have *all* of the original tracks (most are from 2)
+#but it at least has the level music for SMB1 - if it's better than the brstms, this can sub
 songs:
   - id: arctic_super_monkey_ball
     title: "Arctic"
-    path: "Arctic.brstm"
+    path: "st7.hca"
     type: betting
   - id: bonus_stage_super_monkey_ball
     title: "Bonus Stage"
@@ -15,7 +17,7 @@ songs:
     type: betting
   - id: desert_super_monkey_ball
     title: "Desert"
-    path: "Desert.brstm"
+    path: "st6.hca"
     type: betting
   - id: extra_stages_super_monkey_ball
     title: "Extra Stages"
@@ -27,11 +29,11 @@ songs:
     type: betting
   - id: jungle_super_monkey_ball
     title: "Jungle"
-    path: "Jungle.brstm"
+    path: "st1.hca"
     type: betting
   - id: master_super_monkey_ball
     title: "Master"
-    path: "Master.brstm"
+    path: "stm.hca"
     type: betting
   - id: monkey_fight
     title: "Monkey Fight"
@@ -39,19 +41,23 @@ songs:
     type: betting
   - id: monkey_mall
     title: "Monkey Mall"
-    path: "Monkey Mall.brstm"
+    path: "st3.hca"
     type: betting
   - id: monkey_race_super_monkey_ball
     title: "Monkey Race"
     path: "Monkey Race.brstm"
     type: betting
+  - id: outer_space_super_monkey_ball
+    title: "Outer Space"
+    path: "st5.hca"
+    type: betting
   - id: sky_high_super_monkey_ball
     title: "Sky High"
-    path: "Sky High.brstm"
+    path: "st4.hca"
     type: betting
   - id: underwater_super_monkey_ball
     title: "Underwater"
-    path: "Underwater.brstm"
+    path: "st2.hca"
     type: betting
   - id: alternate_option_menu
     title: "Alternate Option Menu"
@@ -67,7 +73,7 @@ songs:
     type: result
   - id: storm_super_monkey_ball
     title: "Storm"
-    path: "Storm.brstm"
+    path: "st8.hca"
     type: battle
   - id: stream_stro
     title: "StreamSTRO (Unused)"

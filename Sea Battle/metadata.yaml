@@ -1,0 +1,27 @@
+---
+id: sea_battle
+title: "Sea Battle"
+platform: "GB"
+year: 1998
+songs:
+  - id: main_menu_sea
+    title: "Main Menu"
+    path: "01 Main Menu.vgz"
+    type: result
+  - id: position_your_fleet
+    title: "Position Your Fleet"
+    path: "02 Position Your Fleet.vgz"
+    type: betting
+  - id: battle_theme_sea
+    title: "Battle Theme"
+    path: "03 Battle Theme.vgz"
+    type: warning
+  - id: total_statistics_lose
+    title: "Total Statistics (Lose)"
+    path: "04 Total Statistics (Lose).vgz"
+    type: result
+  - id: total_statistics_win
+    title: "Total Statistics (Win)"
+    path: "05 Total Statistics (Win).vgz"
+    type: result
+...

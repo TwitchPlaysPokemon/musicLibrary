@@ -1,0 +1,17 @@
+---
+id: pokemon_dream_crystal
+title: "Pokémon Dream Crystal"
+series: pokemon
+platform: "GBC"
+is_fanwork: true
+year: 2019
+songs:
+  - id: robotnik_battle_dream
+    title: "Battle! Ivo Robotnik"
+    path: "robotnik_battle_dream.brstm"
+    type: battle
+  - id: sird_battle_dream
+    title: "Battle! Galactic Admin Sird"
+    path: "sird_battle_dream.brstm"
+    type: battle
+...

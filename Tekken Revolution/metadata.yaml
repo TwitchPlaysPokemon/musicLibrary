@@ -1,16 +1,39 @@
 ---
 id: tekken_revolution
-platform: "PS3"
 title: "Tekken Revolution"
 series: tekken
+platform: "PS3"
 year: 2013
+#replacing smash songs with original rip vers - keep in mind that the ver. I found has two versions of each track
+#the regular songs (which I used here) are 321 kbps stereo, the others have a _51 appended to the filename and are
+#513 kbps 6ch. I used the first, but if the second is better you can use the joshw ver. and append _51 to the end of each track
 songs:
-  - id: new_world_order_tekken_revolution
+  - id: chopper_tekrev
+    title: "Chopper"
+    path: "stg11.at3"
+    type: battle
+  - id: new_world_order
     title: "New World Order"
-    path: "tk31_tkrv_new_world_order.lopus"
+    path: "stg32.at3"
     type: result
   - id: no_easy_way_out
     title: "No Easy Way Out"
-    path: "tk32_tkrv_no_easy_way_out.lopus"
+    path: "stg44.at3"
+    type: battle
+  - id: lost_in_a_station
+    title: "Lost in a Station"
+    path: "stg45.at3"
+    type: betting
+  - id: fight_in_the_netherlands
+    title: "Fight in the Netherlands"
+    path: "stg46.at3"
+    type: battle
+  - id: character_select_tekrev
+    title: "Character Select"
+    path: "charasele.at3"
+    type: betting
+  - id: bassamenco
+    title: "Bassamenco"
+    path: "Fireworks over Barcelona (Bassamenco).brstm" #not in the original game rips - may have been DLC
     type: battle
 ...

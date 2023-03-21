@@ -3,6 +3,7 @@ id: the_henry_stickmin_collection
 title: "The Henry Stickmin Collection"
 platform: "PC"
 year: 2020
+#two brstms replaced, the rest are new
 songs: 
   - id: red_headed_outlaw
     title: "Red Headed Outlaw"
@@ -20,4 +21,28 @@ songs:
     title: "Flight Results"
     path: "955786_Flight-Results.brstm"
     type: result
+  - id: bizarre_funk
+    title: "Bizarre Funk"
+    path: "Bizarre Funk.brstm"
+    type: betting
+  - id: dance_mr_funnybones
+    title: "Dance Mr. Funnybones"
+    path: "Dance Mr. Funnybones.brstm"
+    type: warning
+  - id: drum_and_chase
+    title: "Drum and Chase"
+    path: "Drum and Chase.brstm"
+    type: warning
+  - id: government_rescue
+    title: "Government Rescue"
+    path: "Government Rescue.brstm"
+    type: result
+  - id: mushroom_rampage
+    title: "Mushroom Rampage"
+    path: "Mushroom Rampage.brstm"
+    type: result
+  - id: the_conclusive_battle
+    title: "The Conclusive Battle"
+    path: "The Conclusive Battle.brstm"
+    type: warning
 ...

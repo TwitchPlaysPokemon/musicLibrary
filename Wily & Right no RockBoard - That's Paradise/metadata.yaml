@@ -1,0 +1,52 @@
+---
+id: wily_and_right_no_rockboard_thats_paradise
+title: "Wily & Right no RockBoard: That's Paradise"
+series: megaman
+platform: "FC"
+year: 1993
+songs:
+  - id: title_wrnrb
+    title: "Title Screen"
+    path: "01 Title.vgz"
+    type: result
+  - id: mode_select_wrnrb
+    title: "Mode Select"
+    path: "02 Mode Select.vgz"
+    type: warning
+  - id: green_continent_wrnrb
+    title: "Green Continent"
+    path: "03 Green Continent.vgz"
+    type: warning
+  - id: cold_island_wrnrb
+    title: "Cold Island"
+    path: "04 Cold Island.vgz"
+    type: betting
+  - id: sand_continent_wrnrb
+    title: "Sand Continent"
+    path: "05 Sand Continent.vgz"
+    type: betting
+  - id: megalopolis_wrnrb
+    title: "Megalopolis"
+    path: "06 Megalopolis.vgz"
+    type: betting
+  - id: auction_wrnrb
+    title: "Auction"
+    path: "07 Auction.vgz"
+    type: warning
+  - id: ranking_announcement_wrnrb
+    title: "Ranking Announcement"
+    path: "12 Ranking Announcement.vgz"
+    type: result
+  - id: metall_race
+    title: "Metall Race"
+    path: "13 Metall Race.vgz"
+    type: warning
+  - id: unused_wrnrb
+    title: "Unused Song"
+    path: "14 Unused Song.vgz"
+    type: betting
+  - id: credit_roll_wrnrb
+    title: "Credit Roll"
+    path: "15 Credit Roll.vgz"
+    type: result
+...

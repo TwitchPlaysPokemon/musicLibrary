@@ -1,0 +1,83 @@
+---
+id: air_combat_22
+title: "Air Combat 22"
+platform: "Arcade"
+year: 1995
+songs:
+  - id: the_sky_waits_for_you_mode_select
+    title: "The Sky Waits for You (Mode Select)"
+    path: "03 The Sky Waits for You (Mode Select).vgz"
+    type: warning
+  - id: air_combat_anthem_take_off
+    title: "Air Combat Anthem (Take Off)"
+    path: "04 Air Combat Anthem (Take Off).vgz"
+    type: result
+  - id: if_the_sky_is_burnin_out_air_combat_22_theme
+    title: "If the Sky is Burnin' Out (Air Combat 22 Theme)"
+    path: "05 If the Sky is Burnin' Out (Air Combat 22 Theme).vgz"
+    type: betting
+  - id: easy_way_easy_go
+    title: "Easy Way, Easy Go"
+    path: "06 Easy Way, Easy Go.vgz"
+    type: betting
+  - id: among_a_strain
+    title: "Among a Strain"
+    path: "07 Among a Strain.vgz"
+    type: result
+  - id: get_em_down
+    title: "Get'em Down!"
+    path: "08 Get'em Down!.vgz"
+    type: battle
+  - id: get_your_check_round_clear
+    title: "Get Your Check (Round Clear!)"
+    path: "09 Get Your Check (Round Clear!).vgz"
+    type: result
+  - id: surrender_me
+    title: "Surrender Me"
+    path: "10 Surrender Me.vgz"
+    type: battle
+  - id: compose_oneself
+    title: "Compose Oneself"
+    path: "11 Compose Oneself.vgz"
+    type: result
+  - id: armed_up
+    title: "Armed Up!"
+    path: "12 Armed Up!.vgz"
+    type: warning
+  - id: after_the_fight_beginner_s_mode_ending
+    title: "After the Fight (Beginner's Mode Ending)"
+    path: "13 After the Fight (Beginner's Mode Ending).vgz"
+    type: result
+  - id: spread_your_wings
+    title: "Spread Your Wings"
+    path: "14 Spread Your Wings.vgz"
+    type: betting
+  - id: aerial_dance
+    title: "Aerial Dance"
+    path: "15 Aerial Dance.vgz"
+    type: betting
+  - id: the_big_sky
+    title: "The Big Sky"
+    path: "16 The Big Sky.vgz"
+    type: betting
+  - id: we_will_lock_you
+    title: "We Will Lock You"
+    path: "17 We Will Lock You.vgz"
+    type: betting
+  - id: above_the_sky_below_the_sea
+    title: "Above the Sky, Below the Sea"
+    path: "19 Above the Sky, Below the Sea.vgz"
+    type: result
+  - id: into_the_twilight_expert_s_mode_ending
+    title: "Into the Twilight (Expert's Mode Ending)"
+    path: "20 Into the Twilight (Expert's Mode Ending).vgz"
+    type: result
+  - id: unknown_track_ac22
+    title: "Unknown Track"
+    path: "21 Unknown 1.vgz"
+    type: betting
+  - id: unknown_track_2_ac22
+    title: "Unknown Track 2"
+    path: "22 Unknown 2.vgz"
+    type: warning
+...
