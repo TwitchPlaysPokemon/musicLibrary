@@ -160,7 +160,7 @@ songs:
     title: "Seaside Settlement, Surfshine Harbor"
     path: "STRM_BGM_MAP_PORTTOWN.bcstm"
     type: break
-  - id: snifit_or_whiffit
+  - id: snifit_or_whiffit_sticker_star
     title: "Snifit or Whiffit"
     path: "STRM_BGM_EVT_QUIZ.bcstm"
     type: result
@@ -168,7 +168,7 @@ songs:
     title: "Sorrow on the Waves"
     path: "STRM_BGM_EVT_GESO_GUITAR.bcstm"
     type: warning
-  - id: spectacular_finale
+  - id: spectacular_finale_sticker_star
     title: "Spectacular Finale"
     path: "STRM_BGM_KIRA_MARIO.bcstm"
     type: battle
@@ -196,7 +196,7 @@ songs:
     title: "Swinging Swing"
     path: "STRM_BGM_EVT_CATHERINE1.bcstm"
     type: result
-  - id: the_blue_wizard
+  - id: the_blue_wizard_sticker_star
     title: "The Blue Wizard"
     path: "STRM_BGM_EVT_KAMEK.bcstm"
     type: warning
@@ -204,7 +204,7 @@ songs:
     title: "The Enigmansion"
     path: "STRM_BGM_MAP_TERESA_CLEANUP.bcstm"
     type: betting
-  - id: the_giant_arises
+  - id: the_giant_arises_sticker_star
     title: "The Giant Arises"
     path: "STRM_BGM_EVT_KOOPA.bcstm"
     type: warning
@@ -220,7 +220,7 @@ songs:
     title: "Un-Burrito the Town Plaza"
     path: "STRM_BGM_KINOPIO_ROLL_PUSH.bcstm"
     type: warning
-  - id: unstoppable_fury
+  - id: unstoppable_fury_sticker_star
     title: "Unstoppable Fury"
     path: "SEQ_BGM_EVT_KURIBO5.bcstm"
     type: warning
