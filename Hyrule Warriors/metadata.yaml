@@ -4,127 +4,73 @@ title: "Hyrule Warriors"
 series: zelda
 platform: "Wii U"
 year: 2014
-#I tried redoing some of the brstms with the files from the Switch version, but I'm not sure
-#if the audio quality is any better, or if there was some other reason you went with brstms.
-#if they don't sound right, feel free to avoid for now
 songs: 
   - id: bazaar
     title: "Bazaar: Skyward Sword"
-    path: "BGMProduct_0041.kns"
+    path: "Bazaar- Skyward Sword.brstm"
     type: betting
   - id: hyrule_field_twilight_princess
     title: "Hyrule Field: Twilight Princess"
-    path: "BGMProduct_0010.kns"
+    path: "Hyrule Field- Twilight Princess.brstm"
     type: battle
   - id: skyloft_skyward_sword
     title: "Skyloft: Skyward Sword"
-    path: "BGMProduct_0012.kns"
+    path: "Skyloft- Skyward Sword.brstm"
     type: betting
   - id: silent_guardians
     title: "Silent Guardians"
-    path: "BGMProduct_0014.kns"
+    path: "Silent Guardians.brstm"
     type: betting
   - id: eclipse_of_the_moon
     title: "Eclipse of the Moon"
-    path: "BGMProduct_0016.kns"
+    path: "Eclipse of the Moon.brstm"
     type: warning
-    #left these ones as is because .g1l implies raw files were used.
-    #first two switched to battle upon request - dunno if it fits?
   - id: boss_battle_ocarina_of_time
-    title: "Boss Battle: Ocarina of Time" #0019.kns
+    title: "Boss Battle: Ocarina of Time"
     path: "bgm019.g1l"
-    type: battle
+    type: warning
   - id: dinosaur_boss_battle_ocarina_of_time
-    title: "Dinosaur Boss Battle: Ocarina of Time" #0020.kns
+    title: "Dinosaur Boss Battle: Ocarina of Time"
     path: "bgm020.g1l"
-    type: battle
+    type: warning
   - id: eclipse_of_the_sun
     title: "Eclipse of the Sun"
     path: "EclipseS.g1l"
     type: battle
   - id: sandstream
     title: "Sandstream"
-    path: "BGMProduct_0017.kns"
+    path: "Sandstream.brstm"
     type: betting
   - id: eclipse_of_the_moon_gt
     title: "Eclipse of the Moon GT"
-    path: "BGMProduct_0038.kns"
+    path: "Eclipse of the Moon GT.brstm"
     type: battle
   - id: clock_town_majora_s_mask
     title: "Clock Town: Majora's Mask"
-    path: "BGMProduct_0050.kns"
+    path: "Clock Town_ Majora's Mask.brstm"
     type: betting
   - id: clock_town_3rd_day_majora_s_mask
     title: "Clock Town (3rd Day): Majora's Mask"
-    path: "BGMProduct_0052.kns"
+    path: "Clock Town (3rd Day)_ Majora's Mask.brstm"
     type: warning
   - id: focal_line
     title: "Focal Line"
-    path: "BGMProduct_0029.kns"
+    path: "Focal Line.brstm"
     type: battle
   - id: hard_linked
     title: "Hard Linked"
-    path: "BGMProduct_0040.kns"
+    path: "Hard Linked.brstm"
     type: battle
   - id: main_theme_the_legend_of_zelda_1st
     title: "Main Theme: The Legend of Zelda: 1st"
-    path: "BGMProduct_0004.kns"
+    path: "Main Theme_ The Legend of Zelda_ 1st.brstm"
     type: betting
   - id: psychostorm
     title: "Psychostorm"
-    path: "BGMProduct_0015.kns"
+    path: "Psychostorm.brstm"
     type: battle
   - id: remnant_of_twilight
     title: "Remnant of Twilight"
-    path: "BGMProduct_0011.kns"
+    path: "Remnant of Twilight.brstm"
     type: betting
-    #new songs start here
-  - id: adventure_map_twilight_field
-    title: "Adventure Map: Twilight Field"
-    path: "BGMProduct_0049.kns"
-    type: betting
-  - id: hammer_of_stones_focus_spirit
-    title: "Hammer of Stones (Focus Spirit)"
-    path: "BGMProduct_0008.kns"
-    type: battle
-  - id: heart_of_the_end
-    title: "Heart of the End"
-    path: "BGMProduct_0013.kns"
-    type: betting
-  - id: house_hyrule_warriors
-    title: "House"
-    path: "BGMProduct_0003.kns"
-    type: betting
-  - id: hidden_skill_training_twilight_princess
-    title: "Hidden Skill Training: Twilight Princess"
-    path: "BGMProduct_0002.kns"
-    type: betting
-  - id: in_the_greenwood_focus_spirit
-    title: "In the Greenwood (Focus Spirit)"
-    path: "BGMProduct_0006.kns"
-    type: battle
-  - id: kakariko_village_twilight_princess
-    title: "Kakariko Village: Twilight Princess"
-    path: "BGMProduct_0030.kns"
-    type: battle
-  - id: kumite_skyward_sword
-    title: "Kumite: Skyward Sword"
-    path: "BGMProduct_0026.kns"
-    type: battle
-  - id: sequence_of_drops
-    title: "Sequence of Drops"
-    path: "BGMProduct_0009.kns"
-    type: betting
-  - id: solidus_cave
-    title: "Solidus Cave"
-    path: "BGMProduct_0005.kns"
-    type: betting
-  - id: under_siege_hyrule_warriors
-    title: "Under Siege"
-    path: "BGMProduct_0028.kns"
-    type: warning
-  - id: zelda_s_lullaby_ocarina_of_time
-    title: "Zelda's Lullaby: Ocarina of Time"
-    path: "BGMProduct_0031.kns"
-    type: result
 ...
