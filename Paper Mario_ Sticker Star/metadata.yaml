@@ -4,236 +4,85 @@ title: "Paper Mario: Sticker Star"
 series: mario
 platform: "3DS"
 year: 2012
-#redid brstms with the original 3DS files. Tried to find the equivalent tracks or the closest
-#substitutes. If the quality doesn't fit, use the brstms instead
 songs:
   - id: a_thousand_miles_away_normal
     title: "A Thousand Miles Away"
-    path: "STRM_BGM_MAP_FIELD_DESERT.bcstm"
+    path: "A Thousand Miles Away (Normal).brstm"
     type: betting
   - id: approach_of_the_giant_fish
     title: "Approach of the Giant Fish"
-    path: "STRM_BGM_EVT_BAKUBAKU.bcstm"
+    path: "Approach of the Giant Fish.brstm"
     type: warning
   - id: big_boo_waltz
     title: "Big Boo Waltz"
-    path: "STRM_BGM_EVT_TERESA_BOSS.bcstm"
+    path: "Big Boo Waltz.brstm"
     type: warning
   - id: blue_skies_white_clouds
     title: "Blue Skies, White Clouds"
-    path: "STRM_BGM_MAP_FIELD_GRASS.bcstm"
+    path: "Blue Skies, White Clouds.brstm"
     type: betting
   - id: boo_night_fever
     title: "Boo Night Fever"
-    path: "STRM_BGM_EVT_TEREXILE.bcstm"
+    path: "Boo Night Fever.brstm"
     type: result
   - id: bowser_jr_battle_sticker_star
     title: "Bowser Jr. Battle"
-    path: "STRM_BGM_KOOPA_JR_BATTLE.bcstm"
+    path: "Bowser Jr Battle.brstm"
     type: warning
   - id: megasparkle_goombas_brilliant_battle
     title: "Megasparkle Goomba's Brilliant Battle"
-    path: "STRM_BGM_BOSS_BATTLE_NORMAL.bcstm"
+    path: "Megasparkle Goomba's Brilliant Battle.brstm"
     type: battle
   - id: danger_at_surfshine_harbor
     title: "Danger at Surfshine Harbor"
-    path: "STRM_BGM_EVT_PUKUPUKU_DOTABATA.bcstm"
+    path: "Danger at Surfshine Harbor.brstm"
     type: warning
   - id: ice_flow
     title: "Ice Flow"
-    path: "STRM_BGM_MAP_SNOW_MOUNTAIN2.bcstm" #want to say it's this one? not sure
+    path: "Ice Flow.brstm"
     type: betting
   - id: its_hot_so_hot
     title: "It's Hot, So Hot"
-    path: "STRM_BGM_MAP_VOLCANO.bcstm"
+    path: "It's Hot, So Hot.brstm"
     type: betting
   - id: malevolent_magikoopa_kamek_battle
     title: "Malevolent Magikoopa, Kamek Battle"
-    path: "STRM_BGM_KAMEK_BATTLE.bcstm" #could also be battle? dunno
+    path: "Malevolent Magikoopa, Kamek Battle.brstm"
     type: warning
   - id: normal_battle_theme_no_intro_sticker_star
     title: "Normal Battle Theme"
-    path: "STRM_BGM_NORMAL_BATTLE_NORMAL.bcstm"
+    path: "Normal Battle Theme (No Intro).brstm"
     type: betting
   - id: sling_a_thing
     title: "Sling-a-Thing"
-    path: "SEQ_BGM_EVT_MONOART.bcstm"
+    path: "Sling-a-Thing.brstm"
     type: result
   - id: sparkling_king_bowser_and_co_battle
     title: "Sparkling King, Bowser and Co. Battle"
-    path: "STRM_BGM_KOOPA_BATTLE.bcstm"
+    path: "Sparkling King, Bowser & Co Battle.brstm"
     type: battle
   - id: starman_sticker_star
     title: "Starman"
-    path: "STRM_BGM_STAR.bcstm"
+    path: "Starman.brstm"
     type: warning
   - id: that_guy_who_got_baffled_in_the_bafflewoods
     title: "That Guy Who Got Baffled in the Bafflewoods"
-    path: "STRM_BGM_MAP_FOREST.bcstm"
+    path: "That Guy Who Got Baffled in the Bafflewoods.brstm"
     type: break
   - id: mizzter_blizzard_s_snow_bowser_statue_battle
     title: "Mizzter Blizzard's Snow Bowser Statue Battle"
-    path: "STRM_BGM_BOSS_BATTLE4_NORMAL.bcstm"
+    path: "Mizzter Blizzard's Snow Bowser Statue Battle.brstm"
     type: battle
   - id: snow_rise
     title: "Snow Rise"
-    path: "STRM_BGM_MAP_SNOW_MOUNTAIN.bcstm"
+    path: "Snow Rise.brstm"
     type: betting
   - id: world_4_map_sticker_star
     title: "World 4 Map"
-    path: "STRM_BGM_WORLDMAP_SNOW.bcstm"
+    path: "World 4 Map.brstm"
     type: result
-#new songs
   - id: gooper_blooper_battle_boogie_medley
     title: "Gooper Blooper Battle Boogie (Medley)"
     path: "Gooper Blooper Battle Boogie (Medley).brstm"
     type: battle
-  - id: can_t_catch_me
-    title: "Can't Catch Me"
-    path: "STRM_BGM_EVT_HANACHAN_ESCAPE.bcstm"
-    type: warning
-  - id: detective_mario_sticker_star
-    title: "Detective Mario"
-    path: "STRM_BGM_MAP_TOWN1_DESTROYED.bcstm"
-    type: betting
-  - id: event_battle_sticker_star
-    title: "Event Battle"
-    path: "STRM_BGM_MIDDLE_BOSS_BATTLE_NORMAL.bcstm"
-    type: battle
-  - id: give_me_a_lift
-    title: "Give Me a Lift"
-    path: "STRM_BGM_MAP_LIFT.bcstm"
-    type: betting
-  - id: go_go_trolley
-    title: "Go Go Trolley!"
-    path: "STRM_BGM_MAP_TRUCK.bcstm" #maybe betting? dunno it's slider
-    type: battle 
-  - id: kersti_the_sticker
-    title: "Kersti the Sticker"
-    path: "STRM_BGM_EVT_LUCIE.bcstm"
-    type: result
-  - id: let_the_challenge_begin
-    title: "Let the Challenge Begin!"
-    path: "STRM_BGM_EVT_QUIZ_INTERBAL.bcstm"
-    type: warning
-  - id: mini_game_challenge_sticker_star
-    title: "Mini-Game Challenge"
-    path: "STRM_BGM_EVT_MINIGAME.bcstm"
-    type: warning
-  - id: my_things
-    title: "My Things!"
-    path: "STRM_BGM_EVT_KOOPA_JR.bcstm"
-    type: warning
-  - id: outside_the_haunted_enigmansion
-    title: "Outside the Haunted Enigmansion"
-    path: "STRM_BGM_TERESA_BOOK.bcstm"
-    type: warning
-  - id: paperize
-    title: "Paperize"
-    path: "SEQ_BGM_MAP_PEPALYZE.bcstm"
-    type: warning
-  - id: power_of_the_royal_sticker
-    title: "Power of the Royal Sticker"
-    path: "STRM_BGM_EVT_KOOPA2.bcstm"
-    type: warning
-  - id: question_challenge
-    title: "Question Challenge"
-    path: "STRM_BGM_EVT_QUIZ_QUESTION1.bcstm"
-    type: warning
-  - id: rowdy_wiggler_segment_battle
-    title: "Rowdy, Wiggler Segment Battle"
-    path: "STRM_BGM_HANACHAN_BATTLE_NORMAL.bcstm"
-    type: battle
-  - id: royal_sticker_story
-    title: "Royal Sticker Story"
-    path: "STRM_BGM_EVT_PAGE_GET.bcstm"
-    type: warning
-  - id: ruins_explorer
-    title: "Ruins Explorer"
-    path: "STRM_BGM_MAP_WANWAN_DIG.bcstm"
-    type: betting
-  - id: scarlet_wings
-    title: "Scarlet Wings"
-    path: "STRM_BGM_EVT_PATAPATA3.bcstm"
-    type: warning
-  - id: seaside_settlement_surfshine_harbor
-    title: "Seaside Settlement, Surfshine Harbor"
-    path: "STRM_BGM_MAP_PORTTOWN.bcstm"
-    type: break
-  - id: snifit_or_whiffit_sticker_star
-    title: "Snifit or Whiffit"
-    path: "STRM_BGM_EVT_QUIZ.bcstm"
-    type: result
-  - id: sorrow_on_the_waves
-    title: "Sorrow on the Waves"
-    path: "STRM_BGM_EVT_GESO_GUITAR.bcstm"
-    type: warning
-  - id: spectacular_finale_sticker_star
-    title: "Spectacular Finale"
-    path: "STRM_BGM_KIRA_MARIO.bcstm"
-    type: battle
-  - id: stage_clear_sticker_star
-    title: "Stage Clear"
-    path: "SEQ_BGM_FF_STAGE_CLEAR.bcstm"
-    type: result
-  - id: sticker_museum
-    title: "Sticker Museum"
-    path: "STRM_BGM_MAP_MUSIUM.bcstm"
-    type: break
-  - id: storming_the_goomba_fortress
-    title: "Storming the Goomba Fortress"
-    path: "STRM_BGM_MAP_FIELD_TORIDE.bcstm"
-    type: warning
-  - id: super_mario_s_blooper_bash
-    title: "Super Mario’s Blooper Bash!"
-    path: "STRM_BGM_BOSS_BATTLE_3_MARIO.bcstm"
-    type: warning
-  - id: supreme_sparkling_king_bowser_battle
-    title: "Supreme Sparkling King, Bowser Battle"
-    path: "STRM_BGM_KOOPA_BATTLE2.bcstm"
-    type: battle
-  - id: swinging_swing
-    title: "Swinging Swing"
-    path: "STRM_BGM_EVT_CATHERINE1.bcstm"
-    type: result
-  - id: the_blue_wizard_sticker_star
-    title: "The Blue Wizard"
-    path: "STRM_BGM_EVT_KAMEK.bcstm"
-    type: warning
-  - id: the_enigmansion
-    title: "The Enigmansion"
-    path: "STRM_BGM_MAP_TERESA_CLEANUP.bcstm"
-    type: betting
-  - id: the_giant_arises_sticker_star
-    title: "The Giant Arises"
-    path: "STRM_BGM_EVT_KOOPA.bcstm"
-    type: warning
-  - id: the_rampaging_din
-    title: "The Rampaging Din"
-    path: "STRM_BGM_EVT_DOTABATA.bcstm"
-    type: warning
-  - id: underground_cave_connection
-    title: "Underground Cave Connection"
-    path: "STRM_BGM_MAP_UNDERGROUND.bcstm"
-    type: betting
-  - id: un_burrito_the_town_plaza
-    title: "Un-Burrito the Town Plaza"
-    path: "STRM_BGM_KINOPIO_ROLL_PUSH.bcstm"
-    type: warning
-  - id: unstoppable_fury_sticker_star
-    title: "Unstoppable Fury"
-    path: "SEQ_BGM_EVT_KURIBO5.bcstm"
-    type: warning
-  - id: welcome_to_the_sticker_shop
-    title: "Welcome to the Sticker Shop"
-    path: "STRM_BGM_MAP_SHOP.bcstm"
-    type: break
-  - id: wiggler_s_sleepy_time
-    title: "Wiggler's Sleepy Time"
-    path: "STRM_BGM_EVT_HANACHAN_DIARY.bcstm"
-    type: break
-  - id: woods_of_poison
-    title: "Woods of Poison"
-    path: "STRM_BGM_MAP_HORROR.bcstm"
-    type: break
 ...
