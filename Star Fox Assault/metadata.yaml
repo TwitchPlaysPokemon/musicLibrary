@@ -54,4 +54,16 @@ songs:
     title: "Sargasso"
     path: "A00027.dsp"
     type: betting
+  - id: briefing_1
+    title: "Briefing 1"
+    path: "A00008.dsp"
+    type: result
+  - id: briefing_2
+    title: "Briefing 2"
+    path: "A00007.dsp"
+    type: betting
+  - id: star_wolf_assault
+    title: "Star Wolf"
+    path: "A00067.dsp"
+    type: betting
 ...

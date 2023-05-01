@@ -85,4 +85,152 @@ songs:
     title: "Gooper Blooper Battle Boogie (Medley)"
     path: "Gooper Blooper Battle Boogie (Medley).brstm"
     type: battle
+  - id: can_t_catch_me
+    title: "Can't Catch Me"
+    path: "Can't Catch Me.brstm"
+    type: warning
+  - id: detective_mario_sticker_star
+    title: "Detective Mario"
+    path: "Detective Mario.brstm"
+    type: betting
+  - id: event_battle_sticker_star
+    title: "Event Battle"
+    path: "Event Battle.brstm"
+    type: battle
+  - id: give_me_a_lift
+    title: "Give Me a Lift"
+    path: "Give Me a Lift.brstm"
+    type: betting
+  - id: go_go_trolley
+    title: "Go Go Trolley!"
+    path: "Go Go Trolley!.brstm" #maybe betting? dunno it's slider
+    type: battle 
+  - id: kersti_the_sticker
+    title: "Kersti the Sticker"
+    path: "Kersti the Sticker.brstm"
+    type: result
+  - id: let_the_challenge_begin
+    title: "Let the Challenge Begin!"
+    path: "Let the Challenge Begin!.brstm"
+    type: warning
+  - id: mini_game_challenge_sticker_star
+    title: "Mini-Game Challenge"
+    path: "Mini-Game Challenge.brstm"
+    type: warning
+  - id: my_things
+    title: "My Things!"
+    path: "My Things!.brstm"
+    type: warning
+  - id: outside_the_haunted_enigmansion
+    title: "Outside the Haunted Enigmansion"
+    path: "Outside the Haunted Enigmansion.brstm"
+    type: warning
+  - id: paperize
+    title: "Paperize"
+    path: "Paperize.brstm"
+    type: warning
+  - id: power_of_the_royal_sticker
+    title: "Power of the Royal Sticker"
+    path: "Power of the Royal Sticker.brstm"
+    type: warning
+  - id: question_challenge
+    title: "Question Challenge"
+    path: "Question Challenge.brstm"
+    type: warning
+  - id: rowdy_wiggler_segment_battle
+    title: "Rowdy, Wiggler Segment Battle"
+    path: "Rowdy, Wiggler Segment Battle.brstm"
+    type: battle
+  - id: royal_sticker_story
+    title: "Royal Sticker Story"
+    path: "Royal Sticker Story.brstm"
+    type: warning
+  - id: ruins_explorer
+    title: "Ruins Explorer"
+    path: "Ruins Explorer.brstm"
+    type: betting
+  - id: scarlet_wings
+    title: "Scarlet Wings"
+    path: "Scarlet Wings.brstm"
+    type: warning
+  - id: seaside_settlement_surfshine_harbor
+    title: "Seaside Settlement, Surfshine Harbor"
+    path: "Seaside Settlement, Surfshine Harbor.brstm"
+    type: break
+  - id: snifit_or_whiffit_sticker_star
+    title: "Snifit or Whiffit"
+    path: "Snifit or Whiffit.brstm"
+    type: result
+  - id: sorrow_on_the_waves
+    title: "Sorrow on the Waves"
+    path: "Sorrow on the Waves.brstm"
+    type: warning
+  - id: spectacular_finale_sticker_star
+    title: "Spectacular Finale"
+    path: "Spectacular Finale.brstm"
+    type: battle
+  - id: stage_clear_sticker_star
+    title: "Stage Clear"
+    path: "Stage Clear.brstm"
+    type: result
+  - id: sticker_museum
+    title: "Sticker Museum"
+    path: "Sticker Museum.brstm"
+    type: break
+  - id: storming_the_goomba_fortress
+    title: "Storming the Goomba Fortress"
+    path: "Storming the Goomba Fortress.brstm"
+    type: warning
+  - id: super_mario_s_blooper_bash
+    title: "Super Mario’s Blooper Bash!"
+    path: "Super Mario’s Blooper Bash!.brstm"
+    type: warning
+  - id: supreme_sparkling_king_bowser_battle
+    title: "Supreme Sparkling King, Bowser Battle"
+    path: "Supreme Sparkling King, Bowser Battle.brstm"
+    type: battle
+  - id: swinging_swing
+    title: "Swinging Swing"
+    path: "Swinging Swing.brstm"
+    type: result
+  - id: the_blue_wizard_sticker_star
+    title: "The Blue Wizard"
+    path: "The Blue Wizard.brstm"
+    type: warning
+  - id: the_enigmansion
+    title: "The Enigmansion"
+    path: "The Enigmansion.brstm"
+    type: betting
+  - id: the_giant_arises_sticker_star
+    title: "The Giant Arises"
+    path: "The Giant Arises.brstm"
+    type: warning
+  - id: the_rampaging_din
+    title: "The Rampaging Din"
+    path: "The Rampaging Di.brstm"
+    type: warning
+  - id: underground_cave_connection
+    title: "Underground Cave Connection"
+    path: "Underground Cave Connection.brstm"
+    type: betting
+  - id: un_burrito_the_town_plaza
+    title: "Un-Burrito the Town Plaza"
+    path: "Un-Burrito the Town Plaza.brstm"
+    type: warning
+  - id: unstoppable_fury_sticker_star
+    title: "Unstoppable Fury"
+    path: "Unstoppable Fury.brstm"
+    type: warning
+  - id: welcome_to_the_sticker_shop
+    title: "Welcome to the Sticker Shop"
+    path: "Welcome to the Sticker Shop.brstm"
+    type: break
+  - id: wiggler_s_sleepy_time
+    title: "Wiggler's Sleepy Time"
+    path: "Wiggler's Sleepy Time.brstm"
+    type: break
+  - id: woods_of_poison
+    title: "Woods of Poison"
+    path: "Woods of Poison.brstm"
+    type: break
 ...

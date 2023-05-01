@@ -1,0 +1,28 @@
+---
+id: world_of_final_fantasy_maxima
+title: "World of Final Fantasy Maxima"
+series: finalfantasy
+year: 2018
+platform: ["Switch", "XB1"]
+songs:
+  - id: rebel_army_world_of_ff_maxima
+    title: "Rebel Army"
+    path: "bgm64.hca"
+    type: battle
+  - id: torn_from_the_heavens
+    title: "Torn from the Heavens"
+    path: "bgm68.hca"
+    type: battle
+  - id: the_immortal_dark_dragon
+    title: "The Immortal Dark Dragon"
+    path: "bgm73.hca"
+    type: battle
+  - id: battle_2_cecil_summon
+    title: "Battle 2 (Cecil Summon)"
+    path: "bgm79.hca"
+    type: battle
+  - id: veiled_in_black
+    title: "Veiled in Black"
+    path: "bgm80.hca"
+    type: battle
+...

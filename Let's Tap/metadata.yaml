@@ -8,4 +8,8 @@ songs:
     title: "Tap de Papapaya"
     path: "Tap de Papapaya.brstm"
     type: betting
+  - id: tutorial_let_s_tap
+    title: "Tutorial"
+    path: "tutorial_bgm.brstm"
+    type: break
 ...

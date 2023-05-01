@@ -1,0 +1,171 @@
+---
+id: doukyusei_pce
+title: "Doukyusei [PCE]"
+platform: "Various"
+year: 1992
+songs: 
+  - id: takurou_s_room_1
+    title: "Takurou's Room 1"
+    path: "01 Takurou's Room 1.vgz"
+    type: betting
+  - id: takurou_s_room_2
+    title: "Takurou's Room 2"
+    path: "02 Takurou's Room 2.vgz"
+    type: result
+  - id: takurou_s_room_3
+    title: "Takurou's Room 3"
+    path: "03 Takurou's Room 3.vgz"
+    type: warning
+  - id: tarou_hazama_bgm
+    title: "Tarou Hazama BGM"
+    path: "04 Tarou Hazama BGM.vgz"
+    type: warning
+  - id: ako_saitou_bgm
+    title: "Ako Saitou BGM"
+    path: "05 Ako Saitou BGM.vgz"
+    type: betting
+  - id: chiharu_sakuma_bgm
+    title: "Chiharu Sakuma BGM"
+    path: "06 Chiharu Sakuma BGM.vgz"
+    type: betting
+  - id: hiromi_tamachi_bgm
+    title: "Hiromi Tamachi BGM"
+    path: "07 Hiromi Tamachi BGM.vgz"
+    type: betting
+  - id: kaori_naruse_bgm
+    title: "Kaori Naruse BGM"
+    path: "08 Kaori Naruse BGM.vgz"
+    type: warning
+  - id: kurumi_nishina_bgm
+    title: "Kurumi Nishina BGM"
+    path: "09 Kurumi Nishina BGM.vgz"
+    type: break
+  - id: mai_kyouko_sakuragi_bgm
+    title: "Mai, Kyouko Sakuragi BGM"
+    path: "10 Mai, Kyouko Sakuragi BGM.vgz"
+    type: break
+  - id: mako_saitou_bgm
+    title: "Mako Saitou BGM"
+    path: "11 Mako Saitou BGM.vgz"
+    type: result
+  - id: miho_suzuki_bgm
+    title: "Miho Suzuki BGM"
+    path: "12 Miho Suzuki BGM.vgz"
+    type: result
+  - id: misa_tanaka_bgm
+    title: "Misa Tanaka BGM"
+    path: "13 Misa Tanaka BGM.vgz"
+    type: betting
+  - id: natsuko_masaki_bgm
+    title: "Natsuko Masaki BGM"
+    path: "14 Natsuko Masaki BGM.vgz"
+    type: betting
+  - id: reiko_shingyouji_bgm
+    title: "Reiko Shingyouji BGM"
+    path: "15 Reiko Shingyouji BGM.vgz"
+    type: betting
+  - id: satomi_kurokawa_bgm
+    title: "Satomi Kurokawa BGM"
+    path: "16 Satomi Kurokawa BGM.vgz"
+    type: result
+  - id: yayoi_kusanagi_bgm
+    title: "Yayoi Kusanagi BGM"
+    path: "17 Yayoi Kusanagi BGM.vgz"
+    type: break
+  - id: midori_takano_bgm_1
+    title: "Midori Takano BGM 1"
+    path: "18 Midori Takano BGM 1.vgz"
+    type: break
+  - id: masumi_hori_bgm
+    title: "Masumi Hori BGM"
+    path: "19 Masumi Hori BGM.vgz"
+    type: betting
+  - id: yoshiko_serizawa_bgm
+    title: "Yoshiko Serizawa BGM"
+    path: "20 Teacher Yoshiko Serizawa BGM.vgz"
+    type: result
+  - id: panic_dokyusei
+    title: "Panic!"
+    path: "25 Panic!.vgz"
+    type: warning
+  - id: visual_scene_1
+    title: "Visual Scene 1"
+    path: "21 Visual Scene 1.vgz"
+    type: break
+  - id: visual_scene_2
+    title: "Visual Scene 2"
+    path: "22 Visual Scene 2.vgz"
+    type: break
+  - id: visual_scene_3
+    title: "Visual Scene 3"
+    path: "23 Visual Scene 3.vgz"
+    type: break
+  - id: visual_scene_4
+    title: "Visual Scene 4"
+    path: "24 Visual Scene 4.vgz"
+    type: break
+  - id: old_woman_fortune_teller
+    title: "Old Woman Fortune Teller"
+    path: "26 Old Woman Fortune Teller.vgz"
+    type: warning
+  - id: old_man_4th_dimension
+    title: "Old Man 4th Dimension"
+    path: "27 Old Man 4th Dimension.vgz"
+    type: warning
+  - id: ghost_mansion_dokyusei
+    title: "Ghost Mansion"
+    path: "28 Ghost Mansion (Haunted House).vgz"
+    type: betting
+  - id: disco_midori_takano_bgm_2
+    title: "Disco ~ Midori Takano BGM 2"
+    path: "29 Disco ~ Midori Takano BGM 2.vgz"
+    type: warning
+  - id: movement_town
+    title: "Movement (Town)"
+    path: "30 Movement (Town).vgz"
+    type: betting
+  - id: movement_inside_school
+    title: "Movement (Inside School)"
+    path: "31 Movement (Inside School).vgz"
+    type: betting
+  - id: date_with_natsuko
+    title: "Date with Natsuko"
+    path: "32 Date with Natsuko (Amusement Park).vgz"
+    type: betting
+  - id: amusement_park_dokyusei
+    title: "Amusement Park"
+    path: "33 Amusement Park BGM.vgz"
+    type: betting
+  - id: quiz_brothers
+    title: "Quiz Brothers"
+    path: "34 Quiz Brothers.vgz"
+    type: result
+  - id: august_31st
+    title: "August 31st"
+    path: "35 August 31st.vgz"
+    type: warning
+  - id: date_at_the_yabuki_park
+    title: "Date at the Yabuki Park"
+    path: "36 Date at the Yabuki Park.vgz"
+    type: betting
+  - id: lonely_summer_vacation
+    title: "Lonely Summer Vacation"
+    path: "37 Lonely Summer Vacation (Graduation BGM).vgz"
+    type: result
+  - id: after_the_visual_scene
+    title: "After the Visual Scene"
+    path: "38 After the Visual Scene.vgz"
+    type: result
+  - id: confession_success
+    title: "Confession - Success!"
+    path: "40 Confession - Success BGM.vgz"
+    type: result
+  - id: confession_just_friends
+    title: "Confession - Just Friends"
+    path: "41 Confession - Friend.vgz"
+    type: result
+  - id: confession_rejected
+    title: "Confession - Rejected"
+    path: "42 Confession - Failure.vgz"
+    type: warning
+...

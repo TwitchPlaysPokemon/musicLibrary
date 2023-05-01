@@ -16,4 +16,38 @@ songs:
     title: "Work From Home"
     path: "0149 sun dies_5.fsb"
     type: break
+#new songs - the only brstms I made were for the ones which would loop in battle. The rest are 2:30 or longer
+  - id: omegaccino
+    title: "omegaccino"
+    path: "CAFFIEND MUSIC.fsb"
+    type: warning
+  - id: 4_8_stars
+    title: "4.8 stars?"
+    path: "collosal steps_5.fsb"
+    type: warning
+  - id: he_who_fails_upwards
+    title: "he who fails upwards"
+    path: "he who fails upwards.brstm"
+    type: battle
+  - id: the_grounds
+    title: "the grounds"
+    path: "JOBLIN FOUNDER OGG 157.141bpm_abridged.fsb"
+    type: betting
+  - id: 401cave
+    title: "401cave"
+    path: "STYCX_7.fsb"
+    type: betting
+  - id: hand_over_fist
+    title: "hand over fist"
+    path: "THE MISSION.fsb"
+    type: warning
+  - id: trust_fall
+    title: "trust fall"
+    path: "trust fall.brstm"
+    type: battle
+  - id: first_date
+    title: "first date"
+    path: "Winkydink Event Music.fsb"
+    ends: 2:06
+    type: betting
 ...

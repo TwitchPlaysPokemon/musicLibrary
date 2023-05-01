@@ -1,0 +1,18 @@
+id: asterix_and_obelix_xxl
+title: "Astérix & Obelix XXL"
+year: 2003
+platform: ["PC", "PS2"]
+songs:
+  - id: normandy_fight
+    title: "Normandy Fight"
+    path: "Normandy Fight.brstm"
+    type: battle
+  - id: the_banquet_xxl
+    title: "The Banquet"
+    path: "The Banquet.brstm"
+    type: result
+  - id: the_gaulish_village
+    title: "The Gaulish Village"
+    path: "The Gaulish Village.brstm"
+    type: battle
+...

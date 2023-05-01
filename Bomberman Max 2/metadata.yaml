@@ -1,0 +1,11 @@
+id: bomberman_max_2
+title: "Bomberman Max 2"
+series: bomberman
+platform: "GBA"
+year: 2002
+songs: 
+  - id: garden_stage_bm2
+    title: "Garden Stage"
+    path: "04 BGM #04.minigsf"
+    type: result
+...

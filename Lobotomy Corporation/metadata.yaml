@@ -1,0 +1,21 @@
+---
+id: lobotomy_corporation
+title: "Lobotomy Corporation"
+platform: "PC"
+year: 2018
+#specifically requested by someone in the music discord. Couldn't find any raw files on Joshw, so I went with the next best thing. 
+#Don't think it needs to loop because it's more than 45s long
+songs:
+  - id: first_trumpet
+    title: "First Trumpet"
+    path: "09 Emergency 1.mp3"
+    type: warning
+  - id: second_trumpet
+    title: "Second Trumpet"
+    path: "10 Emergency 2.mp3"
+    type: warning
+  - id: third_trumpet
+    title: "Third Trumpet"
+    path: "11 Emergency 3.mp3"
+    type: warning
+...

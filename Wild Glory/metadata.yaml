@@ -1,9 +1,12 @@
-﻿---
+---
 id: wild_glory
 title: "Wild Glory"
 platform: "PC"
 year: 2018
-songs:
+#note from the submitter: apparently in-game both of these themes speed up during play.
+#one is the natural loop where it speeds up, while the other is an edited one that stays at the same tempo
+#I couldn't tell the difference, so I put in both. Put in whichever sounds the best, I guess
+songs: 
   - id: arena_theme_wild_glory
     title: "Arena Theme"
     path: "Arena Theme.brstm"
@@ -12,4 +15,12 @@ songs:
     title: "Sharpshooter Theme"
     path: "Sharpshooter Theme.brstm"
     type: battle
+  - id: explosive_soccer_theme
+    title: "Explosive Soccer Theme"
+    path: "Explosive Soccer Theme.brstm"
+    type: betting
+  - id: hammer_flag_theme
+    title: "Hammer Flag Theme"
+    path: "Hammer Flag Theme.brstm"
+    type: betting
 ...

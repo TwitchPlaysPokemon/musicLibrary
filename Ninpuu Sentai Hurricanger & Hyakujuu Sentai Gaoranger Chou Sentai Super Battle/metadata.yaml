@@ -1,0 +1,35 @@
+---
+id: ninpuu_sentai_hurricanger_and_hyakujuu_sentai_gaoranger_chou_sentai_super_battle
+title: "Ninpuu Sentai Hurricanger & Hyakujuu Sentai Gaoranger Chou Sentai Super Battle"
+platform: "Pico"
+year: 2002
+songs:
+  - id: title_screen_hurricanger_gaoranger
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: ninpuu_sentai_hurricanger_side
+    title: "Ninpuu Sentai Hurricanger Side"
+    path: "02 Ninpuu Sentai Hurricanger Side.vgz"
+    type: betting
+  - id: character_select_hurricanger_gaoranger
+    title: "Character Select"
+    path: "03 Character Select.vgz"
+    type: warning
+  - id: ranger_bgm
+    title: "Ranger BGM"
+    path: "04 Ranger BGM.vgz"
+    type: betting
+  - id: mecha_bgm
+    title: "Mecha BGM"
+    path: "07 Mecha BGM.vgz"
+    type: betting
+  - id: hyakujuu_sentai_gaoranger_side_gaoranger_hoero
+    title: "Hyakujuu Sentai Gaoranger Side (Gaoranger Hoero!!)"
+    path: "08 Hyakujuu Sentai Gaoranger Side (Gaoranger Hoero!!).vgz"
+    type: betting
+  - id: let_s_draw_hurricanger_gaoranger
+    title: "Let's Draw!"
+    path: "09 Let's Write!.vgz"
+    type: result
+...

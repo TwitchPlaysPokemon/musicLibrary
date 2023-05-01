@@ -1,0 +1,48 @@
+---
+id: looney_tunes_collector_alert
+title: "Looney Tunes Collector - Alert!"
+series: looneytunes
+platform: "GBC"
+year: 2000
+songs:
+  - id: menu_marvins_theme
+    title: "Menu / Marvin's Theme"
+    path: "01 Menu - Marvin's Theme.vgz"
+    type: betting
+  - id: file_select_underground
+    title: "File Select / Underground"
+    path: "02 File Select - Underground.vgz"
+    type: break
+  - id: forest_a_happy
+    title: "Forest A / Happy"
+    path: "03 Forest A - Happy.vgz"
+    type: result
+  - id: forest_b_yosemite_sams_ship_action
+    title: "Forest B / Yosemite Sam's Ship / Action"
+    path: "05 Forest B - Yosemite Sam's Ship - Action.vgz"
+    type: betting
+  - id: witchs_house_suspense
+    title: "Witch's House / Suspense"
+    path: "06 Witch's House - Suspense.vgz"
+    type: warning
+  - id: indoors_ltca
+    title: "Indoors"
+    path: "07 Indoors - Menu (Beta) - Ending (Beta).vgz"
+    type: result
+  - id: the_high_seas_ltca
+    title: "The High Seas"
+    path: "08 The High Seas.vgz"
+    type: warning
+  - id: island_pursuit_ltca
+    title: "Island / Pursuit"
+    path: "09 Island - Pursuit.vgz"
+    type: warning
+  - id: the_three_bears_carnival_enchanted
+    title: "The Three Bears' Carnival / Enchanted"
+    path: "10 The Three Bears' Carnival - Enchanted.vgz"
+    type: betting
+  - id: looney_tunes_intro_unused
+    title: "Looney Tunes Intro (Unused)"
+    path: "11 Looney Tunes Intro (Unused).vgz" #technically doesn't loop, but shouldn't be noticable in result
+    type: result
+...

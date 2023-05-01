@@ -1,0 +1,45 @@
+---
+id: pikmin_bloom
+title: "Pikmin Bloom"
+series: pikmin
+platform: "Mobile"
+year: 2021
+#only other songs here are some minor tracks and some taken from the 3DS game?
+songs:
+  - id: welcome_to_pikmin_bloom
+    title: "Welcome to Pikmin Bloom!"
+    path: "IntroductionBgm-0007-event.txtp"
+    type: break
+  - id: lifelog
+    title: "Lifelog"
+    path: "LifelogBgm-0009-event.txtp"
+    type: break
+  - id: pikmin_planter
+    title: "Pikmin Planter"
+    path: "PlanterBgm-0009-event.txtp"
+    type: warning
+  - id: pikmin_park
+    title: "Pikmin Park"
+    path: "GardenBgm-0007-event.txtp"
+    type: break
+  - id: planting_flowers_bloom
+    title: "Planting Flowers"
+    path: "FlowerPlantingBgm-0009-event.txtp"
+    type: betting
+  - id: shop_pikmin_bloom
+    title: "Shop"
+    path: "ShopBgm-0007-event.txtp"
+    type: warning
+  - id: expedition_pikmin_bloom
+    title: "Expedition"
+    path: "ExpeditionBgm-0008-event.txtp"
+    type: result
+  - id: friend_challenge_bloom
+    title: "Friend Challenge"
+    path: "FriendChallengeBgm1-0012-event.txtp"
+    type: betting
+  - id: friend_challenge_2_bloom
+    title: "Friend Challenge 2"
+    path: "FriendChallengeBgm2-0018-event.txtp"
+    type: result
+...

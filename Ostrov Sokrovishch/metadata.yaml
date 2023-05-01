@@ -1,0 +1,37 @@
+---
+id: ostrov_sokrovishch
+title: "Ostrov Sokrovishch"
+platform: "PC"
+year: 2005
+#aka Russian Treasure Island. You know that one walkin rom video? That's where it comes from.
+#they made a game based on this
+songs:
+  - id: boat
+    title: "Boat"
+    path: "Boat.logg"
+    type: betting
+  - id: main_menu_ostrov_sokrovishch
+    title: "Main Menu"
+    path: "Main Menu.logg"
+    type: betting
+  - id: fort
+    title: "Fort"
+    path: "Fort.logg"
+    type: betting
+  - id: unused_1_ostrov_sokrovishch
+    title: "Unused 1"
+    path: "Unused 1.logg"
+    type: betting
+  - id: fight_bgm2
+    title: "Fight BGM2"
+    path: "Fight BGM2.logg"
+    type: warning
+  - id: fight_bgm4
+    title: "Fight BGM4"
+    path: "Fight BGM4.logg"
+    type: warning
+  - id: bitch
+    title: "Bitch"
+    path: "Bitch.logg"
+    type: break
+...

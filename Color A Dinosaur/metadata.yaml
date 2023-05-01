@@ -1,0 +1,15 @@
+---
+id: color_a_dinosaur
+title: "Color A Dinosaur"
+platform: "NES"
+year: 1993
+songs:
+  - id: title_screen_color_a_dinosaur
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: select_a_dinosaur
+    title: "Select a Dinosaur"
+    path: "02 Select a Dinosaur.vgz"
+    type: warning
+...

@@ -14,6 +14,14 @@ songs:
     title: "Battle in the Jungle ~ Alert"
     path: "BGM_00001_0011.mtaf"
     type: battle
+  - id: battle_in_the_jungle_caution
+    title: "Battle in the Jungle ~ Caution"
+    path: "Battle in the Jungle _ Caution.brstm"
+    type: betting
+  - id: battle_in_the_jungle_evasion
+    title: "Battle in the Jungle ~ Evasion"
+    path: "Battle in the Jungle _ Evasion.brstm"
+    type: warning
   - id: takin_on_the_shagohod
     title: "Takin' On The Shagohod"
     path: "BGM_00017_0011.mtaf"
@@ -42,4 +50,24 @@ songs:
     title: "Escape Through the Woods"
     path: "Escape Through the Woods.brstm"
     type: battle
+  - id: demo_theater
+    title: "Demo Theater"
+    path: "Demo Theater.brstm"
+    type: break
+  - id: escaping_groznyj_grad
+    title: "Escaping Groznyj Grad"
+    path: "Escaping Groznyj Grad (Loop).brstm"
+    type: warning
+  - id: metal_gear_saga
+    title: "Metal Gear Saga"
+    path: "Metal Gear Saga.brstm"
+    type: betting
+  - id: snake_vs_monkey
+    title: "Snake vs. Monkey"
+    path: "Snake vs. Monkey.brstm"
+    type: battle
+  - id: mission_failed_mgs3
+    title: "Mission Failed"
+    path: "Mission Failed.brstm"
+    type: result
 ...

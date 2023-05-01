@@ -33,4 +33,58 @@ songs:
     title: "Over In A Flash"
     path: "Over in a Flash.brstm"
     type: betting
+#new songs. Ninjanitor approved the ones for battle which were also vocal tracks,
+#but just in case those don't work I added the instrumentals too
+  - id: i_know_u_want_me
+    title: "I Know U Want Me"
+    path: "I Know U Want Me.brstm"
+    type: battle
+  - id: i_know_u_want_me_instrumental
+    title: "I Know U Want Me (Instrumental)"
+    path: "I Know U Want Me (Instrumental).brstm"
+    type: battle
+  - id: it_s_all_about_me
+    title: "It's All About Me"
+    path: "It's All About Me.brstm"
+    type: battle
+  - id: it_s_all_about_me_instrumental
+    title: "It's All About Me (Instrumental)"
+    path: "It's All About Me (Instrumental).brstm"
+    type: battle
+  - id: kill_em_all
+    title: "Kill 'Em All"
+    path: "Kill 'Em All.brstm"
+    type: battle
+  - id: kill_em_all_instrumental
+    title: "Kill 'Em All (Instrumental)"
+    path: "Kill 'Em All (Instrumental).brstm"
+    type: battle
+  - id: laughin_at_u
+    title: "Laughin' At U"
+    path: "Laughin' At U.brstm"
+    type: battle
+  - id: laughin_at_u_instrumental
+    title: "Laughin' At U (Instrumental)"
+    path: "Laughin' At U (Instrumental).brstm"
+    type: battle
+  - id: venom_anarchy_reigns
+    title: "Venom"
+    path: "Venom.brstm"
+    type: battle
+  - id: venom_instrumental
+    title: "Venom (Instrumental)"
+    path: "Venom (Instrumental).brstm"
+    type: battle
+  - id: we_all_soldiers
+    title: "We All Soldiers"
+    path: "We All Soldiers.brstm"
+    type: battle
+  - id: we_all_soldiers_instrumental
+    title: "We All Soldiers (Instrumental)"
+    path: "We All Soldiers (Instrumental).brstm"
+    type: battle
+  - id: over_in_a_flash_instrumental
+    title: "Over in a Flash (Instrumental)"
+    path: "Over in a Flash (Instrumental).brstm"
+    type: battle
 ...

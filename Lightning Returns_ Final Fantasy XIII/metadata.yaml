@@ -1,0 +1,88 @@
+---
+id: lightning_returns_final_fantasy_xiii
+title: "Lightning Returns: Final Fantasy XIII"
+series: finalfantasy
+platform: ["PS3", "360", "PC"]
+year: 2013
+songs: 
+  - id: the_cathedral_lightning_returns
+    title: "The Cathedral"
+    path: "music_Dai_soto.ps3.scd"
+    type: break
+  - id: death_game_lightning_returns
+    title: "Death Game"
+    path: "music_Dokoka1.ps3.scd"
+    type: battle
+  - id: salvation_s_fanfare
+    title: "Salvation's Fanfare"
+    path: "music_Fanfa_G.ps3.scd"
+    type: result
+  - id: lumina_s_theme
+    title: "Lumina's Theme"
+    path: "music_Lumina.ps3.scd"
+    type: break
+  - id: lightning_returns
+    title: "Lightning Returns"
+    path: "music_Senko1.ps3.scd"
+    type: battle
+  - id: high_voltage_lightning_returns
+    title: "High Voltage"
+    path: "music_Senko2.ps3.scd"
+    type: battle
+  - id: savior_of_souls
+    title: "Savior of Souls"
+    path: "music_Senko3.ps3.scd"
+    type: battle
+  - id: crimson_blitz
+    title: "Crimson Blitz"
+    path: "music_Senko4.ps3.scd"
+    type: battle
+  - id: chaos_infusions
+    title: "Chaos Infusions"
+    path: "music_Shikai1.ps3.scd"
+    type: betting
+  - id: yusnaan_palace
+    title: "Yusnaan Palace"
+    path: "music_Snow_mei.ps3.scd"
+    type: betting
+  - id: chaos_lightning_returns
+    title: "Chaos"
+    path: "music_W_boss1.ps3.scd"
+    type: betting
+  - id: the_showdown_lightning_returns
+    title: "The Showdown"
+    path: "music_W_boss2.ps3.scd"
+    type: battle
+  - id: equilibrium_lightning_returns
+    title: "Equilibrium"
+    path: "music_W_event1.ps3.scd"
+    type: battle
+  - id: divine_love
+    title: "Divine Love"
+    path: "music_W_lastb1.ps3.scd"
+    type: battle
+  - id: almighty_bhunivelze
+    title: "Almighty Bhunivelze"
+    path: "music_W_lastb2.ps3.scd"
+    type: battle
+  - id: lightning_s_theme_a_distant_glimmer
+    title: "Lightning's Theme - A Distant Glimmer -"
+    path: "music_W_light.ps3.scd"
+    type: break
+  - id: lightning_s_theme_radiance
+    title: "Lightning's Theme - Radiance -"
+    path: "music_W_light2.ps3.scd"
+    type: break
+  - id: snow_s_theme_final_words
+    title: "Snow's Theme - Final Words -"
+    path: "music_W_snow.ps3.scd"
+    type: break
+  - id: sneaking_in_lightning_returns
+    title: "Sneaking In"
+    path: "music_Y_sennyu.ps3.scd"
+    type: betting
+  - id: k_o_lightning_returns
+    title: "K.O."
+    path: "music_Yuse2.ps3.scd"
+    type: battle
+...

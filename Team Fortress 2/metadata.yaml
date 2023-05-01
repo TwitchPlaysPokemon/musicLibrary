@@ -78,4 +78,12 @@ songs:
     title: "Upgrade Station"
     path: "tf_music_upgrade_machine.brstm"
     type: break
+  - id: soldier_of_dance
+    title: "Soldier of Dance"
+    path: "Soldier of Dance.brstm"
+    type: result
+  - id: drunken_pipe_bomb
+    title: "Drunken Pipe Bomb"
+    path: "Drunken Pipe Bomb.brstm"
+    type: warning
 ...

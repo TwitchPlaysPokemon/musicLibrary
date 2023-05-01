@@ -8,4 +8,24 @@ songs:
     title: "Boss Theme 7 (Omega Shenron / Goku Black Phase 2)"
     path: "Boss Theme 7 (Omega Shenron _ Goku Black Phase 2).brstm"
     type: warning
+  - id: boss_theme_3_fusion_janemba
+    title: "Boss Theme 3 (Fusion/Janemba)"
+    path: "Boss Theme 3 (Fusion_Janemba).brstm"
+    type: battle
+  - id: boss_theme_8_goku_black
+    title: "Boss Theme 8 (Goku Black)"
+    path: "Boss Theme 8 (Goku Black).brstm"
+    type: battle
+  - id: fighter_summon
+    title: "Fighter Summon"
+    path: "Fighter Summon.brstm"
+    type: result
+  - id: threat_dokkan
+    title: "Threat"
+    path: "Threat.brstm"
+    type: warning
+  - id: stage_clear_dokkan
+    title: "Stage Clear"
+    path: "Stage Clear.brstm"
+    type: result
 ...

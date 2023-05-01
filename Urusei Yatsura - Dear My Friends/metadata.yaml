@@ -1,0 +1,75 @@
+---
+id: urusei_yatsura_dear_my_friends
+title: "Urusei Yatsura: Dear My Friends"
+platform: "SCD"
+year: 1994
+songs: 
+  - id: title_uydmf
+    title: "Title"
+    path: "01 - Title.vgm"
+    type: betting
+  - id: ataru
+    title: "Ataru"
+    path: "03 - Ataru.vgm"
+    type: result
+  - id: tomobiki
+    title: "Tomobiki"
+    path: "04 - Tomobiki.vgm"
+    type: betting
+  - id: ran_uydmf
+    title: "Ran"
+    path: "05 - Ran.vgm"
+    type: break
+  - id: school_uydmf
+    title: "School"
+    path: "06 - School.vgm"
+    type: break
+  - id: mendou
+    title: "Mendou"
+    path: "08 - Mendou.vgm"
+    type: warning
+  - id: calamity_uydmf
+    title: "Calamity"
+    path: "09 - Calamity.vgm"
+    type: warning
+  - id: mendou_2
+    title: "Mendou 2"
+    path: "10 - Mendou 2.vgm"
+    type: break
+  - id: destruction_uydmf
+    title: "Destruction"
+    path: "14 - Destruction.vgm"
+    type: battle
+  - id: subspace2
+    title: "Subspace2"
+    path: "16 - Subspace2.vgm"
+    type: betting
+  - id: subspace4
+    title: "Subspace4"
+    path: "17 - Subspace4.vgm"
+    type: betting
+  - id: slideshow_uydmf
+    title: "Slideshow"
+    path: "30 - Slideshow.vgm"
+    type: break
+  - id: subspace_fighter_infinity_nitro_menu
+    title: "Subspace Fighter Infinity Nitro (Menu)"
+    path: "31 - Subspace Fighter Infinity Nitro (Menu).vgm"
+    type: betting
+  - id: maximum_speed_menu
+    title: "Maximum Speed (Menu)"
+    path: "34 - Maximum Speed (Menu).vgm"
+    type: betting
+  - id: maximum_speed_level
+    title: "Maximum Speed (Level)"
+    path: "35 - Maximum Speed (Level).vgm"
+    type: betting
+  - id: happy_kotatsuneko_episode_2_level
+    title: "Happy Kotatsuneko Episode 2 (Level)"
+    path: "38 - Happy Kotatsuneko Episode 2 (Level).vgm"
+    type: battle
+  - id: happy_kotatsuneko_episode_2_end
+    title: "Happy Kotatsuneko Episode 2 (End)"
+    path: "39 - Happy Kotatsuneko Episode 2 (End).vgm"
+    type: result
+...

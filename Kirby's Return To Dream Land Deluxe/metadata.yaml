@@ -1,0 +1,177 @@
+---
+id: kirby_return_to_dream_land_deluxe
+title: "Kirby's Return to Dream Land Deluxe"
+series: kirby
+platform: "Switch"
+year: 2023
+songs: 
+  - id: judgment_of_the_malus_pumila
+    title: "Judgment of the Malus Pumila"
+    path: "Ark_MagolorModeTitle1.marker.dspadpcm.bfstm"
+    type: betting
+  - id: bomb_rally
+    title: "Bomb Rally"
+    path: "BGM_Bomber_Game_210719.dspadpcm.bfstm"
+    type: battle
+  - id: bomb_rally_title
+    title: "Bomb Rally - Title"
+    path: "BGM_Bomber_Title_210326.dspadpcm.bfstm"
+    type: result
+  - id: crackity_hack
+    title: "Crackity Hack"
+    path: "BGM_Gigaton_Game_210804.dspadpcm.bfstm"
+    type: warning
+  - id: crackity_hack_title
+    title: "Crackity Hack - Title"
+    path: "BGM_Gigaton_Title_220719.dspadpcm.bfstm"
+    type: result
+  - id: kirby_on_the_draw
+    title: "Kirby on the Draw"
+    path: "BGM_Hayauchi_Game_220719.dspadpcm.bfstm"
+    type: warning
+  - id: kirby_on_the_draw_title
+    title: "Kirby on the Draw - Title"
+    path: "BGM_Hayauchi_Title_210719.dspadpcm.bfstm"
+    type: betting
+  - id: internal_struggle
+    title: "INTERNAL STRUGGLE"
+    path: "BGM_LP_AK_PREMAGOLORSOUL.dspadpcm.bfstm"
+    type: warning
+  - id: distant_shining_yellow_star
+    title: "Distant, Shining, Yellow Star"
+    path: "BGM_LP_AK_SIMPLECREDIT.marker.dspadpcm.bfstm"
+    type: break
+  - id: blue_blizzard_remix
+    title: "Blue Blizzard Remix"
+    path: "BGM_LP_AKMAHO_AREABLUE.dspadpcm.bfstm"
+    type: betting
+  - id: onward_to_a_pain_my_heart_knows_well
+    title: "Onward to a Pain My Heart Knows Well"
+    path: "BGM_LP_AKMAHO_AREADARK.dspadpcm.bfstm"
+    type: betting
+  - id: green_winds_remix
+    title: "Green Winds Remix"
+    path: "BGM_LP_AKMAHO_AREAGREEN.dspadpcm.bfstm"
+    type: betting
+  - id: red_sands_remix
+    title: "Red Sands Remix"
+    path: "BGM_LP_AKMAHO_AREARED.dspadpcm.bfstm"
+    type: betting
+  - id: hot_elemental_boss_battle
+    title: "Hot! Elemental Boss Battle"
+    path: "BGM_LP_AKMAHO_BOSS1.dspadpcm.bfstm"
+    type: battle
+  - id: vs_flock_of_doomers
+    title: "VS Flock of Doomers"
+    path: "BGM_LP_AKMAHO_DEATHLOWPERSLONG.dspadpcm.bfstm"
+    type: battle
+  - id: ordeal_doors
+    title: "Ordeal Doors"
+    path: "BGM_LP_AKMAHO_ENHANCINGSTAGE.dspadpcm.bfstm"
+    type: betting
+  - id: mistilteinn_tree_crown_without_a_ruler
+    title: "Mistilteinn, Tree Crown without a Ruler"
+    path: "BGM_LP_AKMAHO_FINALBOSSCROWN.dspadpcm.bfstm"
+    type: battle
+  - id: another_domination
+    title: "Another Domination"
+    path: "BGM_LP_AKMAHO_GRANDEATHLOWPERS.dspadpcm.bfstm"
+    type: battle
+  - id: crossing_into_the_parallel_with_you
+    title: "Crossing into the Parallel with You"
+    path: "BGM_LP_AKMAHO_STAFFCREDIT.dspadpcm.bfstm"
+    ends: 3:11
+    type: betting
+  - id: settling_a_score_atone_for_one_s_misdeeds
+    title: "Settling a Score - Atone for One's Misdeeds!"
+    path: "BGM_LP_AKMAHO_TSUBAZERIAI.dspadpcm.bfstm"
+    type: battle
+  - id: come_again_magoland_tour
+    title: "Come Again! Magoland Tour"
+    path: "BGM_LP_AKYY_GRANDPRIX_RESULTFINAL.dspadpcm.bfstm"
+    type: result
+  - id: the_merry_magical_world_of_magolor
+    title: "The Merry, Magical World of Magolor!"
+    path: "BGM_LP_AKYY_MISSIONCOMPLETE.dspadpcm.bfstm"
+    type: betting
+  - id: magolor_s_tome_trackers
+    title: "Magolor's Tome Trackers"
+    path: "BGM_LP_AKYY_OTSUKAI_GAME.dspadpcm.bfstm"
+    type: betting
+  - id: magolor_s_dizzy_tizzy_tome_trackers_secret_song
+    title: "Magolor's Dizzy-Tizzy Tome Trackers (Secret Song)"
+    path: "BGM_LP_AKYY_OTSUKAI_GAMEBONUS_URA.dspadpcm.bfstm"
+    type: warning
+  - id: magolor_s_tome_trackers_title
+    title: "Magolor's Tome Trackers - Title"
+    path: "BGM_LP_AKYY_OTSUKAI_TITLE.dspadpcm.bfstm"
+    type: result
+  - id: magoland_results_secret_song
+    title: "Magoland Results (Secret Song)"
+    path: "BGM_LP_AKYY_RESULTCOMMON_URA.dspadpcm.bfstm"
+    type: result
+  - id: magoland_results
+    title: "Magoland Results"
+    path: "BGM_LP_AKYY_TAMAGO_TITLE.dspadpcm.bfstm"
+    type: result
+  - id: booming_blasters
+    title: "Booming Blasters"
+    path: "BGM_LP_AKYY_TPS_GAME1.dspadpcm.bfstm"
+    type: battle
+  - id: dusty_steel_field
+    title: "Dusty Steel Field"
+    path: "BGM_LP_AKYY_TPS_GAME2.dspadpcm.bfstm"
+    type: battle
+  - id: dusty_steel_field_secret_song
+    title: "Dusty Steel Field (Secret Song)"
+    path: "BGM_LP_AKYY_TPS_GAME2_URA.dspadpcm.bfstm"
+    type: warning
+  - id: kabula_limit
+    title: "Kabula Limit"
+    path: "BGM_LP_AKYY_TPS_GAMEKABULA.dspadpcm.bfstm"
+    type: warning
+  - id: booming_blasters_title
+    title: "Booming Blasters - Title"
+    path: "BGM_LP_AKYY_TPS_TITLE.dspadpcm.bfstm"
+    type: warning
+  - id: supreme_ruler_s_coronation_overlord_deluxe
+    title: "Supreme Ruler's Coronation - OVERLORD"
+    path: "BGM_LP_ECDLBOSSMAHO1ARR_BATTLE.bfstm"
+    type: battle
+  - id: checkerboard_chase
+    title: "Checkerboard Chase"
+    path: "BGM_OchiOchi_Game_210719.dspadpcm.bfstm"
+    type: betting
+  - id: standings
+    title: "Standings"
+    path: "BGM_OchiOchi_Result_210308.dspadpcm.bfstm"
+    type: result
+  - id: how_many_did_we_hit
+    title: "How Many Did We Hit?"
+    path: "BGM_Shuriken_Result_210607.dspadpcm.bfstm"
+    type: result
+  - id: ninja_dojo_title
+    title: "Ninja Dojo - Title"
+    path: "BGM_Shuriken_Title_220719.dspadpcm.bfstm"
+    type: warning
+  - id: smash_ride
+    title: "Smash Ride"
+    path: "BGM_SmashRide_Game_220725.dspadpcm.bfstm"
+    type: betting
+  - id: smash_ride_title
+    title: "Smash Ride - Title"
+    path: "BGM_SmashRide_Title_210517.dspadpcm.bfstm"
+    type: warning
+  - id: egg_catcher
+    title: "Egg Catcher"
+    path: "BGM_Tamago_Game_210719.dspadpcm.bfstm"
+    type: warning
+  - id: egg_catcher_title
+    title: "Egg Catcher - Title"
+    path: "BGM_Tamago_Title_210719.dspadpcm.bfstm"
+    type: result
+  - id: welcome_to_magoland
+    title: "WELCOME TO MAGOLAND!"
+    path: "WaiWai_Title.dspadpcm.bfstm"
+    type: result
+...

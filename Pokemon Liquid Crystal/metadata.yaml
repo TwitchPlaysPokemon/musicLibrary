@@ -6,8 +6,84 @@ platform: "GBA"
 is_fanwork: true
 year: 2008
 songs: 
+  - id: route_1_liquid_crystal
+    title: "Route 1"
+    path: "Route 1.brstm"
+    type: betting
+  - id: route_29_liquid_crystal
+    title: "Route 29"
+    path: "Route 29.brstm"
+    type: betting
+  - id: route_30_liquid_crystal
+    title: "Route 30"
+    path: "Route 30.brstm"
+    type: betting
+  - id: s_s_aqua_liquid_crystal
+    title: "S.S. Aqua"
+    path: "S.S. Aqua.brstm"
+    type: result
+  - id: viridian_forest_liquid_crystal
+    title: "Viridian Forest"
+    path: "Viridian Forest.brstm"
+    type: betting
+  - id: vermillion_city_liquid_crystal
+    title: "Vermillion City"
+    path: "Vermillion City.brstm"
+    type: betting
+  - id: game_corner_liquid_crystal
+    title: "Game Corner"
+    path: "Game Corner.brstm"
+    type: betting
+  - id: bicycle_liquid_crystal
+    title: "Bicycle"
+    path: "Bicycle.brstm"
+    type: result
+  - id: victory_road_liquid_crystal
+    title: "Victory Road"
+    path: "Victory Road.brstm"
+    type: warning
+  - id: battle_wild_pokemon_kanto_liquid_crystal
+    title: "Battle! Wild Pokémon (Kanto)"
+    path: "Battle! Wild Pokémon (Kanto).brstm"
+    type: battle
+  - id: battle_wild_pokemon_johto_liquid_crystal
+    title: "Battle! Wild Pokémon (Johto)"
+    path: "Battle! Wild Pokémon (Johto).brstm"
+    type: battle
+  - id: battle_trainer_kanto_liquid_crystal
+    title: "Battle! Trainer (Kanto)"
+    path: "Battle! Trainer (Kanto).brstm"
+    type: battle
+  - id: battle_trainer_johto_liquid_crystal
+    title: "Battle! Trainer (Johto)"
+    path: "Battle! Trainer (Johto).brstm"
+    type: battle
   - id: battle_trainer_orange_islands
     title: "Battle! Trainer (Orange Islands)"
     path: "Battle! Trainer (Orange Islands).brstm"
+    type: battle
+  - id: battle_gym_leader_kanto_liquid_crystal
+    title: "Battle! Gym Leader (Kanto)"
+    path: "Battle! Gym Leader (Kanto).brstm"
+    type: battle
+  - id: battle_gym_leader_johto_liquid_crystal
+    title: "Battle! Gym Leader (Johto)"
+    path: "Battle! Gym Leader (Johto).brstm"
+    type: battle
+  - id: battle_rival_liquid_crystal
+    title: "Battle! Rival"
+    path: "Battle! Rival.brstm"
+    type: battle
+  - id: battle_team_rocket_liquid_crystal
+    title: "Battle! Team Rocket"
+    path: "Battle! Team Rocket.brstm"
+    type: battle
+  - id: battle_champion_liquid_crystal
+    title: "Battle! Champion"
+    path: "Battle! Champion.brstm"
+    type: battle
+  - id: battle_linkandzelda_zeikku
+    title: "Battle! Linkandzelda/Zeikku"
+    path: "Battle! Linkandzelda _ Zeikku.brstm"
     type: battle
 ...

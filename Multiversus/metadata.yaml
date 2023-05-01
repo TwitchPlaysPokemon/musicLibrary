@@ -1,0 +1,119 @@
+---
+id: multiversus
+title: "Multiversus"
+platform: "Various"
+year: 2022
+songs:
+  - id: character_select_multiversus
+    title: "Character Select"
+    path: "CHASEL.txtp"
+    type: betting
+  - id: character_select_ranked_multiversus
+    title: "Character Select - Ranked"
+    path: "RANKED.txtp"
+    type: warning
+  - id: adventure_awaits
+    title: "Adventure Awaits"
+    path: "lionwatchPARTA.txtp"
+    type: betting
+  - id: adventure_awaits_match_point
+    title: "Adventure Awaits (Match Point)"
+    path: "lionwatchPARTB.txtp"
+    type: battle
+  - id: wistful_wishes
+    title: "Wistful Wishes"
+    path: "medleyPARTA.txtp"
+    type: betting
+  - id: wistful_wishes_match_point
+    title: "Wistful Wishes (Match Point)"
+    path: "medleyPARTB.txtp"
+    type: betting
+  - id: scooby_s_haunted_mansion
+    title: "Scooby's Haunted Mansion"
+    path: "scoobydoomansionPARTA.txtp"
+    type: betting
+  - id: scooby_s_haunted_mansion_match_point
+    title: "Scooby's Haunted Mansion (Match Point)"
+    path: "scoobydoomansionPARTB.txtp"
+    type: battle
+  - id: tree_house_multiversus
+    title: "Adventure Time: Tree House"
+    path: "treehousePARTA.txtp"
+    type: betting
+  - id: tree_house_match_point
+    title: "Adventure Time: Tree House (Match Point)"
+    path: "treehousePARTB.txtp"
+    type: battle
+  - id: the_land_of_ooo
+    title: "Adventure Time: The Land of Ooo"
+    path: "treehouseS1A.txtp"
+    type: betting
+  - id: the_land_of_ooo_match_point
+    title: "Adventure Time: The Land of Ooo (Match Point)"
+    path: "treehouseS1B.txtp"
+    type: battle
+  - id: get_schwifty
+    title: "Rick and Morty: Get Schwifty"
+    path: "cromulonS1A.txtp"
+    type: betting
+  - id: get_schwifty_match_point
+    title: "Rick and Morty: Get Schwifty (Match Point)"
+    path: "cromulonS1B.txtp"
+    type: battle
+  - id: show_me_what_you_got
+    title: "Rick and Morty: Show Me What You Got"
+    path: "cromulonPARTA.txtp"
+    type: betting
+  - id: show_me_what_you_got_match_point
+    title: "Rick and Morty: Show Me What You Got (Match Point)"
+    path: "cromulonPARTB.txtp"
+    type: battle
+  - id: batman_the_caped_crusader
+    title: "Batman: The Caped Crusader"
+    path: "batcavePARTA.txtp"
+    type: betting
+  - id: batman_the_caped_crusader_match_point
+    title: "Batman: The Caped Crusader (Match Point)"
+    path: "batcavePARTB.txtp"
+    type: battle
+  - id: batman_from_shadow_reborn
+    title: "Batman: From Shadow Reborn"
+    path: "batcaveS1A.txtp"
+    type: betting
+  - id: batman_from_shadow_reborn_match_point
+    title: "Batman: From Shadow Reborn (Match Point)"
+    path: "batcaveS1B.txtp"
+    type: battle
+  - id: space_jam_enter_the_multiverse_beta
+    title: "Space Jam: Enter The Multiverse (Beta Ver)"
+    path: "M010PARTA.txtp"
+    type: betting
+  - id: space_jam_enter_the_multiverse_beta_match_point
+    title: "Space Jam: Enter The Multiverse (Beta Ver - Match Point)"
+    path: "M010PARTB.txtp"
+    type: battle
+  - id: steven_universe_sky_arena
+    title: "Steven Universe: Sky Arena"
+    path: "M011PARTA.txtp"
+    type: betting
+  - id: steven_universe_sky_arena_match_point
+    title: "Steven Universe: Sky Arena (Match Point)"
+    path: "M011PARTB.txtp"
+    type: battle
+  - id: come_on_down_to_the_warner_bros_lot
+    title: "Come On Down to the Warner Bros. Lot"
+    path: "wblotPARTA.txtp"
+    type: betting
+  - id: come_on_down_to_the_warner_bros_lot_match_point
+    title: "Come On Down to the Warner Bros. Lot (Match Point)"
+    path: "wblotPARTB.txtp"
+    type: battle
+  - id: game_of_thrones_medley_for_multiversus
+    title: "Game of Thrones Medley for Multiversus"
+    path: "gotthroneroomPARTA.txtp"
+    type: betting
+  - id: game_of_thrones_medley_for_multiversusmatch_point
+    title: "Game of Thrones Medley for Multiversus (Match Point)"
+    path: "gotthroneroomPARTB.txtp"
+    type: battle
+...

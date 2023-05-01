@@ -1,0 +1,80 @@
+---
+id: tokimeki_memorial_forever_with_you
+title: "Tokimeki Memorial: Forever With You [PC]"
+series: tokimekimemorial
+platform: ["PC", "PS1", "Saturn"]
+year: 1997
+songs: 
+  - id: meeting_tmfwy
+    title: "Meeting"
+    path: "002 Meeting.vgz"
+    type: betting
+  - id: a_sonata_for_you
+    title: "A Sonata For You"
+    path: "005 A Sonata for You.vgz"
+    type: result
+  - id: boy_friends
+    title: "Boy Friends"
+    path: "007 Boy Friends.vgz"
+    type: result
+  - id: teenage_tmfwy
+    title: "Teenage"
+    path: "008 Teenage.vgz"
+    type: betting
+  - id: i_want_to_gaze_at_you
+    title: "I Want to Gaze at You"
+    path: "010 I Want to Gaze at You.vgz"
+    type: betting
+  - id: that_shop_on_the_way_to_school
+    title: "That Shop on the Way to School"
+    path: "013 That Shop on the Way to School.vgz"
+    type: break
+  - id: omakase_network
+    title: "Omakase Network"
+    path: "017 Omakase Network.vgz"
+    type: betting
+  - id: on_the_verge_of_fainting
+    title: "On the Verge of Fainting!!"
+    path: "028 On the Verge of Fainting!!.vgz"
+    type: warning
+  - id: a_summer_day_s_illumination
+    title: "A Summer Day's Illumination"
+    path: "030 A Summer Day's Illumination.vgz"
+    type: result
+  - id: pool_tmfwy
+    title: "Pool"
+    path: "037 Pool.vgz"
+    type: betting
+  - id: smash_a_home_run
+    title: "Smash a Home Run!"
+    path: "044 Smash a Home Run!.vgz"
+    type: warning
+  - id: library_tmfwy
+    title: "Library"
+    path: "049 Library.vgz"
+    type: break
+  - id: planetarium_tmfwy
+    title: "Planetarium"
+    path: "053 Planetarium.vgz"
+    type: break
+  - id: chou_ore_sama_ex
+    title: "Chou - Ore-sama EX"
+    path: "073 Chou - Ore-sama EX.vgz"
+    type: warning
+  - id: kushisko_spot_nekke
+    title: "Kushisko Spot (Nekke)"
+    path: "086 Kushisko Spot (Nekke).vgz"
+    type: warning
+  - id: heaven_and_hell_offenbach
+    title: "Heaven and Hell (Offenbach)"
+    path: "087 Heaven and Hell (Offenbach).vgz"
+    type: betting
+  - id: korobuchaka_russian_folk_song
+    title: "Korobuchaka (Russian Folk Song)"
+    path: "095 Korobuchaka (Russian Folk Song).vgz"
+    type: betting
+  - id: go_for_it_cultman
+    title: "Go For It, Cultman!"
+    path: "104 Go For It, Cultman!.vgz"
+    type: betting
+...

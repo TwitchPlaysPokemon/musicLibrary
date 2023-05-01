@@ -1,0 +1,56 @@
+---
+id: dicey_dungeons
+title: "Dicey Dungeons"
+platform: "Various"
+year: 2019
+#tried to do your whole "turn ogg files into logg files to make them loop" thing. That didn't work, so brstms for now.
+songs: 
+  - id: beginner_s_luck_dicey_dungeons
+    title: "Beginner's Luck"
+    path: "Beginner's Luck.brstm"
+    type: battle
+  - id: fighting_chance_dicey_dungeons
+    title: "Fighting Chance"
+    path: "Fighting Chance.brstm"
+    type: battle
+  - id: swing_me_another_6
+    title: "Swing Me Another 6"
+    path: "Swing me Another 6.brstm"
+    type: battle
+  - id: step_right_up
+    title: "Step Right Up"
+    path: "Step Right Up.brstm"
+    type: battle
+  - id: bonus_round_dicey_dungeons
+    title: "Bonus Round"
+    path: "Bonus Round.brstm"
+    type: battle
+  - id: tempting_fate_dicey_dungeons
+    title: "Tempting Fate"
+    path: "Tempting Fate.brstm"
+    type: battle
+  - id: come_on_down_dicey_dungeons
+    title: "Come On Down"
+    path: "Come On Down (Character Select).brstm"
+    type: warning
+  - id: against_all_odds_dicey_dungeons
+    title: "Against All Odds"
+    path: "Against All Odds.brstm"
+    type: battle
+  - id: elimination_round
+    title: "Elimination Round"
+    path: "Elimination Round.brstm"
+    type: battle
+  - id: lifeline_dicey_dungeons
+    title: "Lifeline"
+    path: "Lifeline.brstm"
+    type: warning
+  - id: a_brand_new_washing_machine
+    title: "A Brand New Washing Machine!"
+    path: "A Brand New Washing Machine.brstm"
+    type: result
+  - id: your_host_for_tonight
+    title: "Your Host For Tonight"
+    path: "Your Host for Tonight (Main Theme).brstm"
+    type: result
+...

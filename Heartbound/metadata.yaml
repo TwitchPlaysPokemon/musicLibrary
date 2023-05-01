@@ -14,7 +14,7 @@ songs:
     type: warning
   - id: extra_avocado
     title: "Extra Avocado"
-    path: "Extra Avocado.brstm"
+    path: "Extra Avocado.brstm" #new ver apparently with a better loop
     type: result
   - id: forest_shadows
     title: "Forest Shadows"
@@ -64,4 +64,52 @@ songs:
     title: "Top Floor Tango"
     path: "Top Floor Tango.brstm"
     type: break
+  - id: at_the_spine_of_the_world
+    title: "At the Spine of the World"
+    path: "At the Spine of the World.brstm"
+    type: break
+  - id: binding_void
+    title: "Binding Void"
+    path: "Binding Void.brstm"
+    type: break
+  - id: cave_wave
+    title: "Cave Wave"
+    path: "Cave Wave.brstm"
+    type: betting
+  - id: cirsi
+    title: "Cirsi"
+    path: "Cirsi.brstm"
+    type: break
+  - id: dj_possum
+    title: "DJ Possum"
+    path: "DJ Possum.brstm"
+    type: break
+  - id: elevation_heartbound
+    title: "Elevation"
+    path: "Elevation.brstm"
+    type: betting
+  - id: hello_terry
+    title: "Hello Terry"
+    path: "Hello Terry.brstm"
+    type: betting
+  - id: hundred_and_one
+    title: "Hundred and One"
+    path: "Hundred and One.brstm"
+    type: warning
+  - id: reme
+    title: "Remé"
+    path: "Remé.brstm"
+    type: break
+  - id: rhode
+    title: "Rhode"
+    path: "Rhode.brstm"
+    type: betting
+  - id: seto
+    title: "Seto"
+    path: "Seto.brstm"
+    type: break
+  - id: the_binding
+    title: "The Binding"
+    path: "The Binding.brstm"
+    type: battle
 ...

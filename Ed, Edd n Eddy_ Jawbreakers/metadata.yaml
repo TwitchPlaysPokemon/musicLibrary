@@ -1,0 +1,35 @@
+---
+id: ed_edd_n_eddy_jawbreakers
+title: "Ed, Edd n Eddy: Jawbreakers!"
+platform: "GBA"
+year: 2002
+songs: 
+  - id: title_ed
+    title: "Title"
+    path: "01 Title.minigsf"
+    type: result
+  - id: cul_de_sac
+    title: "Cul-de-Sac"
+    path: "02 Cul-de-Sac.minigsf"
+    type: betting
+  - id: playground_ed
+    title: "Playground"
+    path: "03 Playground.minigsf"
+    type: result
+  - id: the_woods_ed
+    title: "The Woods"
+    path: "04 The Woods.minigsf"
+    type: betting
+  - id: boss_ed
+    title: "Boss"
+    path: "08 Boss.minigsf"
+    type: warning
+  - id: cutscene_ed
+    title: "Cutscene"
+    path: "09 Cutscene.minigsf"
+    type: result
+  - id: unused_ed
+    title: "Unused"
+    path: "10 Unused.minigsf"
+    type: result
+...

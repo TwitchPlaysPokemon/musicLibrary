@@ -1,0 +1,23 @@
+---
+id: ren_and_stimpy_stimpy_s_invention
+title: "Ren & Stimpy: Stimpy's Invention"
+platform: "SMD"
+year: 1993
+songs: 
+  - id: title_screen_ren_stimpy
+    title: "Title Screen"
+    path: "02 - Title Screen.vgm"
+    type: result
+  - id: map_screen_ren_stimpy
+    title: "Map Screen"
+    path: "04 - Map Screen.vgm"
+    type: warning
+  - id: sabre_dance_bike_run
+    title: "Sabre Dance (Bike Run)"
+    path: "13 - Sabre Dance (Bike Run).vgm"
+    type: warning
+  - id: continue_ren_stimpy
+    title: "Continue"
+    path: "20 - Continue.vgm"
+    type: break
+...

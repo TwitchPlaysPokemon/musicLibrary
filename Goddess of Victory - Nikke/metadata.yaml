@@ -1,0 +1,167 @@
+---
+id: goddess_of_victory_nikke
+title: "Goddess of Victory: Nikke"
+platform: "Mobile"
+year: 2022
+#the game mostly has nonlooping fsb files, but at least there are some txtp files (an intro then the loop). Can work with those
+#The songs aren't really named, per se, so I just went with what I could find on Youtube
+songs:
+  - id: ominous_cross
+    title: "Ominous Cross"
+    path: "bgm_boss_mbg004.txtp"
+    type: battle
+  - id: the_harvester
+    title: "The Harvester"
+    path: "bgm_boss_bbg001.txtp"
+    type: battle
+  - id: the_moving_fortress
+    title: "The Moving Fortress"
+    path: "bgm_boss_mbg001.txtp"
+    type: battle
+  - id: take_my_money
+    title: "Take My MONEY!!"
+    path: "bgm_menu_shop.fsb"
+    type: result
+  - id: the_collector
+    title: "The Collector"
+    path: "bgm_boss_bbg003.txtp"
+    type: battle
+  - id: inferno_of_nihilist
+    title: "Inferno of Nihilist"
+    path: "bgm_boss_mba002_phase1.txtp"
+    type: battle
+  - id: burn_it_all
+    title: "Burn it All"
+    path: "bgm_boss_mba002_phase2.txtp"
+    type: battle
+  - id: extreme_tunnel_destroyer
+    title: "Extreme Tunnel Destroyer"
+    path: "bgm_boss_mbg002.txtp"
+    type: battle
+  - id: real_kindness
+    title: "Real Kindness"
+    path: "bgm_menu_realkindness.txtp"
+    type: betting
+  - id: the_wings_of_victory_instrumental
+    title: "The Wings of Victory (Instrumental)"
+    path: "bgm_spot_wingsofvictory_a.txtp"
+    type: battle
+  - id: the_wings_of_victory_vocals
+    title: "The Wings of Victory (Vocals)"
+    path: "bgm_spot_wingsofvictory_b.txtp"
+    type: betting
+  - id: exiter
+    title: "Exiter"
+    path: "bgm_story_exiter.txtp"
+    type: betting
+  - id: maid_in_valentine
+    title: "Maid in Valentine"
+    path: "event_bgm_valentine.txtp"
+    type: betting
+  - id: resist_nikke
+    title: "resist"
+    path: "bgm_boss_ebg002.txtp"
+    type: battle
+  - id: you_can_t_stop_us
+    title: "You CAN'T STOP US"
+    path: "bgm_boss_bbg002_2.txtp"
+    type: battle
+  - id: tempest_nikke
+    title: "Tempest"
+    path: "bgm_boss_eba001.txtp"
+    type: battle
+  - id: stronghold_land_eater_phase_1
+    title: "Stronghold Land Eater (Phase 1)"
+    path: "bgm_boss_ebg001_phase1.txtp"
+    type: betting
+  - id: stronghold_land_eater_phase_2
+    title: "Stronghold Land Eater (Phase 2)"
+    path: "bgm_boss_ebg001_phase2.txtp"
+    type: battle
+  - id: slaughterer
+    title: "Slaughterer"
+    path: "bgm_boss_bbg002.txtp"
+    type: betting
+#for these three, I couldn't find official names online. Going with temp ones
+  - id: mba001
+    title: "MBA001"
+    path: "bgm_boss_mba001.txtp"
+    type: battle
+  - id: ce01
+    title: "CE01"
+    path: "event_bgm_boss_ce01.txtp"
+    type: battle
+  - id: laplace_event
+    title: "Event: Laplace"
+    path: "event_bgm_laplace_main.txtp"
+    type: betting
+#aaaand the nonlooping tracks
+  - id: emergency_nikke
+    title: "Emergency"
+    path: "bgm_emergency.fsb"
+    type: warning
+  - id: disaster_nikke
+    title: "Disaster"
+    path: "bgm_disaster.fsb"
+    type: warning
+  - id: goodby_for_now
+    title: "Goodby For Now"
+    path: "event_bgm_goodbyfornow.fsb"
+    type: betting
+  - id: hero_nikke
+    title: "Hero"
+    path: "event_bgm_hero.fsb"
+    type: betting
+  - id: we_rise_nikke
+    title: "We Rise"
+    path: "event_bgm_werise.fsb"
+    type: betting
+  - id: tungsten
+    title: "Tungsten"
+    path: "event_bgm_tungsten.fsb"
+    type: betting
+  - id: who_s_dumber
+    title: "Who's Dumber?"
+    path: "bgm_story_whosdumber.fsb"
+    type: warning
+  - id: tuff_guys
+    title: "Tuff Guys"
+    path: "bgm_story_tuffguys.fsb"
+    type: warning
+  - id: sunny_carnival
+    title: "Sunny Carnival"
+    path: "bgm_story_sunnycarnival.fsb"
+    type: result
+  - id: sunday_in_the_ark
+    title: "Sunday in the Ark"
+    path: "bgm_story_sundayintheark.fsb"
+    type: result
+  - id: orange_pop
+    title: "Orange Pop"
+    path: "bgm_story_orangepop.fsb"
+    type: result
+  - id: mustang
+    title: "Mustang"
+    path: "bgm_story_mustang.fsb"
+    type: warning
+  - id: here_comes_trouble
+    title: "Here Comes Trouble..."
+    path: "bgm_story_herecomestrouble.fsb"
+    type: warning
+  - id: destined_to_fight
+    title: "Destined to Fight"
+    path: "bgm_story_destinedtofight.fsb"
+    type: warning
+  - id: epic_jazzy_moods
+    title: "Epic Jazzy Moods"
+    path: "bgm_story_epicjazzymoods.fsb"
+    type: result
+  - id: girls_talk
+    title: "Girls Talk"
+    path: "bgm_story_girlstalk.fsb"
+    type: result
+  - id: title_nikke
+    title: "Title Theme"
+    path: "bgm_title.fsb"
+    type: result
+...

@@ -1,0 +1,55 @@
+---
+id: fairy_fencer_f_advent_dark_force
+title: "Fairy Fencer F: Advent Dark Force"
+platform: ["PC", "PS4", "Switch"]
+year: 2015
+songs: 
+  - id: search_for_the_fury
+    title: "Search for the Fury"
+    path: "002.logg"
+    type: battle
+  - id: within_a_resonating_space_time
+    title: "Within a Resonating Space-Time"
+    path: "003.logg"
+    type: battle
+  - id: stirring_evil
+    title: "Stirring Evil"
+    path: "006.logg"
+    type: warning
+  - id: unbreakable_king
+    title: "Unbreakable King"
+    path: "007.logg"
+    type: battle
+  - id: domineering_darkness
+    title: "Domineering Darkness"
+    path: "011.logg"
+    type: battle
+  - id: vile_god_awakened
+    title: "Vile God Awakened"
+    path: "012.logg"
+    type: battle
+  - id: full_contact
+    title: "FULL CONTACT"
+    path: "014.logg"
+    type: betting
+  - id: all_our_might_tonight
+    title: "All Our Might Tonight"
+    path: "016.logg"
+    type: battle
+  - id: the_one_who_conquers_glory
+    title: "The One Who Conquers Glory"
+    path: "028.logg"
+    type: battle
+  - id: clockwork_universe_dorfa_s_theme_song
+    title: "Clockwork Universe - Dorfa's Theme Song -"
+    path: "031.logg"
+    type: warning
+  - id: hero_of_darkness
+    title: "Hero of Darkness"
+    path: "042.logg"
+    type: battle
+  - id: sherman_s_theme_song
+    title: "Sherman's Theme Song"
+    path: "045.logg"
+    type: battle
+...

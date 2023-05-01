@@ -37,4 +37,110 @@ songs:
     title: "Serendipity"
     path: "music_Casino1.ps3.scd"
     type: betting
+  - id: battle_on_the_big_bridge_oriental_mix
+    title: "Battle on the Big Bridge - Oriental MIX"
+    path: "music_2b_bridge.ps3.scd"
+    type: battle
+  - id: limit_break_ff132
+    title: "Limit Break!"
+    path: "music_A_boss1.ps3.scd"
+    type: battle
+  - id: worlds_collide_ff132
+    title: "Worlds Collide"
+    path: "music_A_boss2s.ps3.scd"
+    type: battle
+  - id: hope_s_theme_tomorrow_s_dream
+    title: "Hope's Theme - Tomorrow's Dream -"
+    path: "music_A_Hope.ps3.scd"
+    type: break
+  - id: unseen_abyss
+    title: "Unseen Abyss"
+    path: "music_A_LBoss.ps3.scd"
+    type: battle
+  - id: academia_ff132
+    title: "Academia"
+    path: "music_Academia.ps3.scd"
+    type: break
+  - id: the_story_so_far
+    title: "The Story So Far..."
+    path: "music_Arasuji.ps3.scd"
+    type: break
+  - id: chaotic_guardian_no_intro
+    title: "Chaotic Guardian (No Intro)"
+    path: "music_Cai_Bat.ps3.scd"
+    type: battle
+  - id: heart_of_chaos
+    title: "Heart of Chaos"
+    path: "music_Cai_Bat2.ps3.scd"
+    type: battle
+  - id: caius_s_theme
+    title: "Caius's Theme"
+    path: "music_Caius_1.ps3.scd"
+    type: battle
+  - id: all_or_nothing_ff132
+    title: "All or Nothing"
+    path: "music_Casino2.ps3.scd"
+    type: betting
+  - id: crazy_chocobo
+    title: "Crazy Chocobo"
+    path: "music_Choco_d.ps3.scd"
+    type: betting
+  - id: chocobo_rodeo
+    title: "Chocobo Rodeo"
+    path: "music_choco_r.ps3.scd"
+    type: betting
+  - id: historia_crux
+    title: "Historia Crux"
+    path: "music_Hcross.ps3.scd"
+    ends: 3:20
+    type: betting
+  - id: the_void_beyond
+    title: "The Void Beyond"
+    path: "music_Jiku2.ps3.scd"
+    type: break
+  - id: eternal_war
+    title: "Eternal War"
+    path: "music_LvsC.ps3.scd"
+    type: betting
+  - id: missing_link
+    title: "Missing Link"
+    path: "music_MissingR.ps3.scd"
+    type: break
+  - id: serah_s_theme_memories
+    title: "Serah's Theme - Memories -"
+    path: "music_Serah_2V.ps3.scd"
+    type: break
+  - id: final_fantasy_xii_1_wishes
+    title: "FINAL FANTASY XIII-1 - Wishes -"
+    path: "music_Serah2.ps3.scd"
+    type: break
+  - id: augusta_tower_aggressive_mix
+    title: "Augusta Tower ~Aggressive Mix~"
+    path: "Augusta Tower _Aggressive Mix_.brstm"
+    type: battle
+  - id: eclipse_aggressive_mix
+    title: "Eclipse ~Aggressive Mix~"
+    path: "Eclipse _Aggressive Mix_.brstm"
+    type: battle
+  - id: new_bodhum_aggressive_mix
+    title: "New Bodhum ~Aggressive Mix~"
+    path: "New Bodhum _Aggressive Mix_.brstm"
+    type: battle
+  - id: new_bodhum
+    title: "New Bodhum"
+    path: "New Bodhum.brstm"
+    type: betting
+  - id: unseen_intruder
+    title: "Unseen Intruder"
+    path: "Unseen Intruder (Game Version).brstm"
+    type: betting
+  - id: unseen_intruder_ost_version
+    title: "Unseen Intruder (OST Version)"
+    path: "Unseen Intruder (OST Version).brstm"
+    ends: 2:40
+    type: betting
+  - id: unseen_intruder_aggressive_mix
+    title: "Unseen Intruder ~Aggressive Mix~"
+    path: "Unseen Intruder _Aggressive Mix_ (Game Version).brstm"
+    type: battle
 ...

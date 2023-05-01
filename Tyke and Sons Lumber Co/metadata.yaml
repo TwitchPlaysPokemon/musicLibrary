@@ -1,0 +1,20 @@
+---
+id: tyke_and_sons_labor_co
+title: "Tyke and Sons Lumber Co."
+platform: "PC"
+year: 2019
+is_fanwork: true
+songs: 
+  - id: overworld_tas
+    title: "OVERWORLD"
+    path: "OVERWORLD.brstm"
+    type: break
+  - id: powler
+    title: "POWLER"
+    path: "POWLER.brstm"
+    type: warning
+  - id: seabob
+    title: "SEABOB"
+    path: "SEABOB.brstm"
+    type: battle
+...

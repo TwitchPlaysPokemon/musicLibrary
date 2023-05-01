@@ -1,0 +1,40 @@
+---
+id: pokemon_orange
+title: "Pokémon Orange"
+series: pokemon
+platform: "GBC"
+is_fanwork: true
+year: 2022
+songs:
+    - id: wild_battle_orange
+      title: "Battle! Wild Pokémon"
+      path: "wild_battle_orange.brstm"
+      type: battle
+    - id: trainer_battle_orange
+      title: "Battle! Pokémon Trainer"
+      path: "trainer_battle_orange.brstm"
+      type: battle
+    - id: gym_battle_orange
+      title: "Battle! Orange Crew"
+      path: "gym_battle_orange.brstm"
+      type: battle
+    - id: cross_battle_orange
+      title: "Battle! Cross"
+      path: "cross_battle_orange.brstm"
+      type: battle
+    - id: tracey_battle_orange
+      title: "Battle! Tracey Sketchit"
+      path: "tracey_battle_orange.brstm"
+      type: battle
+    - id: tracey_encounter_orange
+      title: "Encounter! Tracey Sketchit"
+      path: "tracey_encounter_orange.brstm"
+      type: warning
+    - id: victory_road_orange
+      title: "Victory Road (Pokémon Emerald)"
+      path: "victory_road_orange.brstm"
+      type: warning
+    - id: lawrence_airship_orange
+      title: "Lawrence III's Airship"
+      path: "lawrence_airship_orange.brstm"
+      type: betting

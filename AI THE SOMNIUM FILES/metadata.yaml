@@ -130,4 +130,46 @@ songs:
     path: "2-33 Invincible Rainbow Arrow - Inst.brstm"
     ends: 2:34
     type: betting
+  - id: psyncin_in_the_fountain
+    title: "PSYNCIN' IN THE FOUNTaiN"
+    path: "BGM_SOM_START.fsb"
+    type: break
+  - id: 戲舞_gimai
+    title: "戲舞 -gimAI-"
+    path: "BGM_SOM_A1_DANCE.fsb"
+    type: warning
+  - id: appearance_of_iris
+    title: "Appearance of Iris"
+    path: "BGM_IRIS.fsb"
+    type: betting
+  - id: alarming_incursion
+    title: "Alarming Incursion"
+    path: "BGM_PSYNC_ROOM.fsb"
+    type: warning
+  - id: psyncin_in_the_vain_1
+    title: "PSYNCIN' IN THE VaiN 1"
+    path: "BGM_SOM_A3_1.fsb"
+    type: warning
+  - id: psyncin_in_the_vain_2
+    title: "PSYNCIN' IN THE VaiN 2"
+    path: "BGM_SOM_A3_2.fsb"
+    type: betting
+  - id: psyncin_in_the_main_2
+    title: "PSYNCIN' IN THE MaiN 2"
+    path: "BGM_SOM_D5_1.fsb"
+    type: break
+  - id: atrocious_insanity_1
+    title: "Atrocious Insanity 1"
+    path: "BGM_SAITO.fsb"
+    type: warning
+  - id: invincible_rainbow_arrow_vocal_solo_jpn_ver
+    title: "Invincible Rainbow Arrow -Vocal Solo- JPN ver."
+    path: "BGM_IRIS_SONG_SHORT_JP.fsb"
+    ends: 1:36
+    type: betting
+  - id: invincible_rainbow_arrow_vocal_solo_eng_ver
+    title: "Invincible Rainbow Arrow -Vocal Solo- ENG ver."
+    path: "BGM_IRIS_SONG_SHORT_US.fsb"
+    ends: 1:36
+    type: betting
 ...

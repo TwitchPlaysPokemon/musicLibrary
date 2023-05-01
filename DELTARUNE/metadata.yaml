@@ -262,4 +262,24 @@ songs:
     title: "Noelle (unused)"
     path: "noelle.logg"
     type: result
+  - id: a_real_boy
+    title: "A Real Boy!"
+    path: "spamton_happy.logg"
+    type: result
+  - id: chill_jailbreak_alarm_to_study_and_relax_to
+    title: "Chill Jailbreak Alarm To Study And Relax To"
+    path: "Chill Jailbreak Alarm To Study And Relax To.brstm"
+    type: warning
+  - id: d_deltarune
+    title: "D"
+    path: "D.brstm"
+    type: warning
+  - id: deal_gone_wrong
+    title: "Deal Gone Wrong"
+    path: "spamton_neo_meeting.logg"
+    type: warning
+  - id: when_i_get_happy_i_dance_like_this
+    title: "When I Get Happy I Dance Like This"
+    path: "When I Get Happy I Dance Like This.brstm"
+    type: result
 ...

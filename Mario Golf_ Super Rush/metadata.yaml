@@ -1,0 +1,126 @@
+---
+id: mario_golf_super_rush
+title: "Mario Golf: Super Rush"
+series: mario
+platform: "Switch"
+year: 2021
+#got 29 songs in and I don't think I've even scratched the surface with this one
+#some of the battle ones could fit in warning - we can see how it sounds
+songs:
+  - id: main_theme_looped_mario_golf_super_rush
+    title: "Main Theme (Looped)"
+    path: "song_theme_long_loop.dspadpcm.48000.bfstm"
+    type: result
+  - id: options_mario_golf_super_rush
+    title: "Options"
+    path: "song_menu.dspadpcm.bfstm"
+    type: break
+  - id: eagle_mario_golf_super_rush
+    title: "Eagle!"
+    path: "song_eagle.dspadpcm.48000.bfstm"
+    type: result
+  - id: birdie_mario_golf_super_rush
+    title: "Birdie!"
+    path: "song_birdie.dspadpcm.bfstm"
+    type: result
+  - id: par_mario_golf_super_rush
+    title: "Par!"
+    path: "song_par.dspadpcm.bfstm"
+    type: result
+  - id: bogey_mario_golf_super_rush
+    title: "Bogey!"
+    path: "song_bogey.dspadpcm.bfstm"
+    type: result
+  - id: double_bogey_mario_golf_super_rush
+    title: "Double Bogey!"
+    path: "song_doublebogey.dspadpcm.bfstm"
+    type: result
+  - id: birdie_putt_mario_golf_super_rush
+    title: "Tap it in! (Birdie)"
+    path: "song_putt_birdie.dspadpcm.48000.bfstm"
+    type: warning
+  - id: bogey_putt_mario_golf_super_rush
+    title: "Tap it in! (Bogey)"
+    path: "song_putt_boggy.dspadpcm.48000.bfstm"
+    type: warning
+  - id: eagle_putt_mario_golf_super_rush
+    title: "Tap it in! (Eagle)"
+    path: "song_putt_eagle.dspadpcm.48000.bfstm"
+    type: warning
+  - id: par_putt_mario_golf_super_rush
+    title: "Tap it in! (Par)"
+    path: "song_putt_par.dspadpcm.48000.bfstm"
+    type: warning
+  - id: albatross_putt_mario_golf_super_rush
+    title: "Tap it in! (Albatross)"
+    path: "song_putt_towin.dspadpcm.48000.bfstm"
+    type: warning
+  - id: new_donk_city_mario_golf_super_rush
+    title: "New Donk City"
+    path: "song_course_city.dspadpcm.bfstm"
+    type: betting
+  - id: new_donk_city_speed_mario_golf_super_rush
+    title: "New Donk City (Speed Golf ver.)"
+    path: "song_tournament_course_city.dspadpcm.bfstm"
+    type: warning
+  - id: knight_statue_boss_fight
+    title: "Knight Statue Boss Fight"
+    path: "song_boss_knight.dspadpcm.bfstm"
+    type: battle
+  - id: sacred_flamebeast_boss_fight
+    title: "Sacred Flamebeast Boss Fight"
+    path: "song_boss_phoenix.dspadpcm.bfstm"
+    type: battle
+  - id: snow_king_boss_fight
+    title: "Snow King Boss Fight"
+    path: "song_boss_kingsnow.dspadpcm.bfstm"
+    type: battle
+  - id: bowser_highlands_course_lava
+    title: "Bowser Highlands Course - LAVA"
+    path: "song_course_fire.dspadpcm.bfstm"
+    type: warning
+  - id: bowser_highlands_course_lava_speed
+    title: "Bowser Highlands Course - LAVA (Speed Golf ver.)"
+    path: "song_tournament_course_fire.dspadpcm.bfstm"
+    type: battle
+  - id: bowser_highlands_course_snow
+    title: "Bowser Highlands Course - SNOW"
+    path: "song_course_snow.dspadpcm.bfstm"
+    type: warning
+  - id: battle_golf_stadium
+    title: "Battle Golf Stadium"
+    path: "song_course_stadium.dspadpcm.48000.bfstm"
+    type: battle
+  - id: balmy_dunes_course
+    title: "Balmy Dunes Course"
+    path: "song_course_bigoresort.dspadpcm.bfstm"
+    type: betting
+  - id: course_clear_mario_golf_super_rush
+    title: "Course Clear!"
+    path: "song_win.dspadpcm.bfstm"
+    type: result
+  - id: bonny_greens_course_speed_golf_ver
+    title: "Bonny Greens Course (Speed Golf Ver.)"
+    path: "song_tournament_course1.dspadpcm.bfstm"
+    type: warning
+  - id: score_card_theme
+    title: "Score Card Theme"
+    path: "song_holeout.dspadpcm.bfstm"
+    type: result
+  - id: tutorial_mario_golf_super_rush
+    title: "Tutorial"
+    path: "song_lesson.dspadpcm.bfstm"
+    type: result
+  - id: open_tourney_ceremony
+    title: "Open Tourney Ceremony"
+    path: "song_ceremony.dspadpcm.bfstm"
+    type: result
+  - id: balmy_dunes_town_front_side
+    title: "Balmy Dunes Town ~ Front Side"
+    path: "song_town_bigo.dspadpcm.48000.bfstm"
+    type: break
+  - id: balmy_dunes_town_back_end
+    title: "Balmy Dunes Town ~ Back End"
+    path: "song_town_bigo2.dspadpcm.bfstm"
+    type: break
+...

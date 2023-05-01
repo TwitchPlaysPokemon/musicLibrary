@@ -1,0 +1,87 @@
+---
+id: spark_the_electric_jester
+title: "Spark the Electric Jester"
+platform: "PC"
+year: 2017
+songs: 
+  - id: flower_mountain_city_stage_1
+    title: "Flower Mountain City (Stage 1)"
+    path: "Flower Mountain City (Stage 1).brstm"
+    type: betting
+  - id: flower_mountain_city_sage_2016
+    title: "Flower Mountain City (SAGE 2016 ver.)"
+    path: "Flower Mountain City (SAGE 2016).brstm"
+    type: betting
+  - id: flower_mountain_canyon_stage_2
+    title: "Flower Mountain Canyon (Stage 2)"
+    path: "Flower Mountain Canyon (Stage 2).brstm"
+    type: betting
+  - id: smog_city_sewers_stage_4
+    title: "Smog City Sewers (Stage 4)"
+    path: "Smog City Sewers (Stage 4).brstm"
+    type: betting
+  - id: smog_city_stage_5
+    title: "Smog City (Stage 5)"
+    path: "Smog City (Stage 5).brstm"
+    type: betting
+  - id: sunset_heights_stage_6
+    title: "Sunset Heights (Stage 6)"
+    path: "Sunset Heights (Stage 6).brstm"
+    type: betting
+  - id: lightoria_bay_stage_7
+    title: "Lightoria Bay (Stage 7)"
+    path: "Lightoria Bay (Stage 7).brstm"
+    type: betting
+  - id: kerana_forest_stage_8
+    title: "Kerana Forest (Stage 8)"
+    path: "Kerana Forest (Stage 8).brstm"
+    type: betting
+  - id: mare_desert_stage_9
+    title: "Mare Desert (Stage 9)"
+    path: "Mare Desert (Stage 9).brstm"
+    type: betting
+  - id: lunar_bass_stage_10
+    title: "Lunar Bass (Stage 10)"
+    path: "Lunar Bass (Stage 10).brstm"
+    type: betting
+  - id: caria_valley_stage_11
+    title: "Caria Valley (Stage 11)"
+    path: "Caria Valley (Stage 11).brstm"
+    type: betting
+  - id: turbulence_plains_stage_12
+    title: "Turbulence Plains (Stage 12)"
+    path: "Turbulence Plains (Stage 12).brstm"
+    type: betting
+  - id: reynol_complex_stage_13
+    title: "Reynol Complex (Stage 13)"
+    path: "Reynol Complex (Stage 13).brstm"
+    type: betting
+  - id: sunfire_forest_stage_14
+    title: "Sunfire Forest (Stage 14)"
+    path: "Sunfire Forest (Stage 14).brstm"
+    type: betting
+  - id: megaraph_fleet_stage_15
+    title: "Megaraph Fleet (Stage 15)"
+    path: "Megaraph Fleet (Stage 15).brstm"
+    type: battle
+  - id: megaraph_fortress_stage_16
+    title: "Megaraph Fortress (Stage 16)"
+    path: "Megaraph Fortress (Stage 16).brstm"
+    type: betting
+  - id: miniboss_spark
+    title: "MiniBoss"
+    path: "MiniBoss.brstm"
+    type: warning
+  - id: boss_sage_2016
+    title: "Boss (SAGE 2016 ver.)"
+    path: "Boss (SAGE 2016).brstm"
+    type: warning
+  - id: ultimate_final_boss
+    title: "Ultimate Final Boss"
+    path: "Ultimate Final Boss.brstm"
+    type: battle
+  - id: ending_roll_spark
+    title: "Ending Roll"
+    path: "Ending Roll.brstm"
+    type: result
+...

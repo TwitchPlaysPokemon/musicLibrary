@@ -1,0 +1,51 @@
+---
+id: cursed_to_golf
+title: "Cursed To Golf"
+platform: "Various"
+year: 2022
+songs:
+  - id: a_cold_conflict
+    title: "A Cold Conflict"
+    path: "A Cold Conflict.brstm"
+    type: battle
+  - id: a_fore_tuitous_meeting_scottsman_theme
+    title: "A Fore-tuitous Meeting (Scottsman Theme)"
+    path: "A Fore-tuitous Meeting (Scottsman Theme).brstm"
+    type: betting
+  - id: a_par_fect_play
+    title: "A Par-fect Play"
+    path: "A Par-fect Play.brstm"
+    type: result
+  - id: blazing_birdie
+    title: "Blazing Birdie"
+    path: "Blazing Birdie.brstm"
+    type: battle
+  - id: going_up_cursed_to_golf
+    title: "Going Up"
+    path: "Going Up.brstm"
+    type: result
+  - id: grave_on_the_green
+    title: "gRave on the Green"
+    path: "gRave on the Green.brstm"
+    type: betting
+  - id: sand_slice
+    title: "Sand Slice"
+    path: "Sand Slice.brstm"
+    type: betting
+  - id: sobbing_and_shopping
+    title: "Sobbing and Shopping"
+    path: "Sobbing and Shopping.brstm"
+    type: betting
+  - id: spirits_on_the_slope
+    title: "Spirits on the Slope"
+    path: "Spirits on the Slope.brstm"
+    type: betting
+  - id: the_big_tourney
+    title: "The Big Tourney"
+    path: "The Big Tourney.brstm"
+    type: result
+  - id: the_birdie_master
+    title: "The Birdie Master"
+    path: "The Birdie Master.brstm"
+    type: warning
+...

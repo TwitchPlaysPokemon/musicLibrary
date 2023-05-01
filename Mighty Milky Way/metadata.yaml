@@ -3,7 +3,23 @@ id: mighty_milky_way
 title: "Mighty Milky Way"
 platform: "DSi"
 year: 2011
-songs: 
+songs:
+  - id: world_2_greens
+    title: "World 2 (Greens)"
+    path: "NTR-KWYE-USA-0002.mini2sf"
+    type: betting
+  - id: world_1_space
+    title: "World 1 (Space)"
+    path: "NTR-KWYE-USA-0004.mini2sf"
+    type: betting
+  - id: boss_t_rex
+    title: "Boss (T-Rex!)"
+    path: "NTR-KWYE-USA-0005.mini2sf"
+    type: warning
+  - id: tutorial_mighty_milky_way
+    title: "Tutorial"
+    path: "NTR-KWYE-USA-0007.mini2sf"
+    type: result
   - id: world_4_lava
     title: "World 4 (Lava)"
     path: "NTR-KWYE-USA-0003.mini2sf"
