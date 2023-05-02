@@ -41,7 +41,7 @@ songs:
     title: "The Three Bears' Carnival / Enchanted"
     path: "10 The Three Bears' Carnival - Enchanted.vgz"
     type: betting
-  - id: looney_tunes_intro_unused
+  - id: looney_tunes_intro_unused_alert
     title: "Looney Tunes Intro (Unused)"
     path: "11 Looney Tunes Intro (Unused).vgz" #technically doesn't loop, but shouldn't be noticable in result
     type: result
