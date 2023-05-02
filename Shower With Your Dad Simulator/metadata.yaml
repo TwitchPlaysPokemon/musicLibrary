@@ -1,0 +1,46 @@
+---
+id: shower_with_your_dad_simulator
+title: "Shower With Your Dad Simulator"
+#full title: Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad
+platform: "PC"
+year: 2015
+songs:
+  - id: headspin
+    title: "Headspin"
+    path: "01 Headspin (Title Track).ogg"
+    type: result
+  - id: endurodad
+    title: "Endurodad"
+    path: "02 Endurodad.ogg"
+    type: warning
+  - id: dadathlon
+    title: "Dadathlon"
+    path: "03 Dadathlon.ogg"
+    type: warning
+  - id: dad_divisions
+    title: "Dad Divisions"
+    path: "04 Dad Divisions.ogg"
+    ends: 2:08
+    type: betting
+  - id: euphoria
+    title: "Euphoria"
+    path: "05 Euphoria.ogg"
+    type: result
+  - id: inglourious_bathdads
+    title: "Inglorious Bathdads"
+    path: "06 Inglorious Bathdads.ogg"
+    type: warning
+  - id: s_o_a_p_suds_everywhere_around_me
+    title: "S.O.A.P. Suds Everywhere Around Me"
+    path: "07 S.O.A.P. Suds Everywhere Around Me.ogg"
+    type: betting
+  - id: the_iron_shower
+    title: "The Iron Shower"
+    path: "08 The Iron Shower.ogg"
+    type: warning
+  - id: slippery_road
+    title: "Slippery Road"
+    path: "09 Slippery Road.ogg"
+    ends: 2:08
+    type: betting
+...

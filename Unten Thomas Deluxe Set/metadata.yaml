@@ -1,0 +1,27 @@
+---
+id: unten_thomas_deluxe_set
+title: "Unten Thomas Deluxe Set"
+platform: "Pico"
+year: 2000
+songs:
+  - id: thomas_theme
+    title: "Thomas Theme"
+    path: "01 Thomas Theme.vgz"
+    type: result
+  - id: select_screen_thomas
+    title: "Select Screen"
+    path: "02 Select Screen.vgz"
+    type: betting
+  - id: game_bgm_4
+    title: "Game BGM 4"
+    path: "06 Game BGM 4.vgz"
+    type: warning
+  - id: victory_screen_thomas
+    title: "Victory Screen"
+    path: "11 Victory Screen.vgz"
+    type: result
+  - id: defeat_screen_thomas
+    title: "Defeat Screen"
+    path: "14 Defeat Screen.vgz"
+    type: result
+...

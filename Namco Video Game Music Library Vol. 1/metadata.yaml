@@ -1,0 +1,11 @@
+---
+id: namco_video_game_music_library_vol_1
+title: "Namco Video Game Music Library Vol. 1"
+platform: "X68000"
+year: 1989
+songs: 
+  - id: pac_man_a_go_go
+    title: "Pac-Man A Go-Go"
+    path: "pacgogo.vgz"
+    type: betting
+...

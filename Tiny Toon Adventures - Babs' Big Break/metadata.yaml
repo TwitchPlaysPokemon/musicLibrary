@@ -1,0 +1,39 @@
+---
+id: tiny_toon_adventures_babs_big_break
+title: "Tiny Toon Adventures: Babs' Big Break"
+platform: "GB"
+year: 1992
+songs: 
+  - id: ending_tiny_toon
+    title: "Ending"
+    path: "01 Babs Bunny, Intro 1, Ending.vgz"
+    type: result
+  - id: outdoors_tiny_toon
+    title: "Outdoors"
+    path: "03 Intro 2, Outdoors, Cast.vgz"
+    type: betting
+  - id: underground_tiny_toon
+    title: "Underground"
+    path: "04 Underground.vgz"
+    type: warning
+  - id: dizzy_devil
+    title: "Dizzy Devil"
+    path: "05 Dizzy Devil, Bicycle Ride.vgz"
+    type: warning
+  - id: lil_sneezer
+    title: "Lil' Sneezer"
+    path: "07 Lil' Sneezer, Bonus Intro.vgz"
+    type: result
+  - id: elmyra_duff
+    title: "Elmyra Duff"
+    path: "08 Elmyra Duff, Foot Race.vgz"
+    type: warning
+  - id: pipes_tiny_toon
+    title: "Pipes"
+    path: "09 Pipes.vgz"
+    type: betting
+  - id: haunted_house_tiny_toon
+    title: "Haunted House"
+    path: "16 Haunted House.vgz"
+    type: result
+...

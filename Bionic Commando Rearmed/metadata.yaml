@@ -4,10 +4,43 @@ title: "Bionic Commando Rearmed"
 year: 2008
 songs: 
   - id: amongst_allies_neutral_area
-    path: "Amongst Allies (Neutral Area).brstm"
     title: "Amongst Allies (Neutral Area)"
+    path: "Amongst Allies (Neutral Area).brstm"
     type: betting
   - id: main_theme_area_01
-    path: "Main Theme (Area 01).brstm"
     title: "Main Theme (Area 01)"
+    path: "Main Theme (Area 01).brstm"
     type: betting
+  - id: heat_wave_area_05
+    title: "Heat Wave (Area 05)"
+    path: "Heat Wave (Area 05).brstm"
+    type: betting
+  - id: intruder_alert_rearmed
+    title: "Intruder Alert"
+    path: "Intruder Alert.brstm"
+    type: warning
+  - id: leap_of_faith_area_11
+    title: "Leap of Faith (Area 11)"
+    path: "Leap of Faith (Area 11).brstm"
+    type: betting
+  - id: meet_the_enemy_and_descend
+    title: "Meet the Enemy & Descend"
+    path: "Meet the Enemy & Descend.brstm"
+    type: betting
+  - id: ok_we_ll_move_area_select
+    title: "OK, We'll Move (Area Select)"
+    path: "OK, We'll Move (Area Select).brstm"
+    type: warning
+  - id: power_plant_area_08
+    title: "Power Plant (Area 08)"
+    path: "Power Plant (Area 08).brstm"
+    type: betting
+  - id: theme_of_groeder
+    title: "Theme of Groeder"
+    path: "Theme of Groeder.brstm"
+    type: warning
+  - id: vs_leader_theme_rearmed
+    title: "Vs. Leader Theme"
+    path: "Vs. Leader Theme.brstm"
+    type: warning
+...

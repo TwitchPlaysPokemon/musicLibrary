@@ -1,0 +1,20 @@
+---
+id: from_tv_animation_slam_dunk_super_slams
+title: "From TV Animation Slam Dunk: Super Slams"
+platform: "Arcade"
+year: 1995
+#these were the only ones which even had loops in the first place
+songs: 
+  - id: select_slam_dunk
+    title: "Select"
+    path: "03 Select.vgz"
+    type: warning
+  - id: bonus_stage_slam_dunk
+    title: "Bonus Stage"
+    path: "06 Bonus Stage.vgz"
+    type: betting
+  - id: name_entry_slam_dunk
+    title: "Name Entry"
+    path: "15 Name Entry.vgz"
+    type: result
+...

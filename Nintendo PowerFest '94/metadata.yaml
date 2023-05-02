@@ -1,0 +1,19 @@
+---
+id: nintendo_powerfest_94
+title: "Nintendo PowerFest '94"
+platform: "SNES"
+year: 1994
+songs:
+  - id: title_screen_pf94
+    title: "Title Screen"
+    path: "01 Title Screen.spc"
+    type: betting
+  - id: mario_remix
+    title: "Mario Remix"
+    path: "03 Mario Remix.spc"
+    type: warning
+  - id: peachy_ending
+    title: "Peachy Ending"
+    path: "04 Peachy Ending.spc"
+    type: result
+...

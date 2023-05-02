@@ -1,0 +1,27 @@
+---
+id: huniepop
+title: "HuniePop"
+platform: "PC"
+year: 2015
+songs:
+  - id: dawnwood_park
+    title: "Dawnwood Park"
+    path: "Dawnwood Park.brstm"
+    type: betting
+  - id: scenic_overlook
+    title: "Scenic Overlook"
+    path: "Scenic Overlook.brstm"
+    type: break
+  - id: shopping_mall_huniepop
+    title: "Shopping Mall"
+    path: "Shopping Mall.brstm"
+    type: betting
+  - id: turtle_bay_beach
+    title: "Turtle Bay Beach"
+    path: "Turtle Bay Beach.brstm"
+    type: break
+  - id: lusties_nightclub
+    title: "Lusties Nightclub"
+    path: "Lusties Nightclub.brstm"
+    type: betting
+...

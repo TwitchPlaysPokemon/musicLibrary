@@ -1,0 +1,15 @@
+---
+id: monster_life
+title: "Monster Life"
+platform: "Mobile"
+year: 2012
+songs: 
+  - id: combat_monster_life
+    title: "Combat"
+    path: "Combat.brstm"
+    type: warning
+  - id: loading_monster_life
+    title: "Loading"
+    path: "Loading.brstm"
+    type: result
+...

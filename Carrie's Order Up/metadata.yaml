@@ -1,0 +1,23 @@
+---
+id: carrie_s_order_up
+title: "Carrie's Order Up!"
+platform: "PC"
+year: 2016
+songs: 
+  - id: break_carrie
+    title: "Break"
+    path: "Break.brstm"
+    type: result
+  - id: employee_of_the_month
+    title: "Employee of the Month"
+    path: "Employee of the Month.brstm"
+    type: break
+  - id: order_up_carrie
+    title: "Order Up!"
+    path: "Order Up!.brstm"
+    type: betting
+  - id: tip_the_crab
+    title: "Tip the Crab"
+    path: "Tip the Crab.brstm"
+    type: betting
+...

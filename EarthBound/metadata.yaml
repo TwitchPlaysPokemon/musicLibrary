@@ -5,6 +5,10 @@ series: mother
 platform: "SNES"
 year: 1994
 songs: 
+  - id: choose_a_file
+    title: "Choose a File"
+    path: "004 Choose a File.spc"
+    type: result
   - id: one_fateful_night
     title: "One Fateful Night..."
     path: "007 One Fateful Night....spc"
@@ -21,10 +25,22 @@ songs:
     title: "Otherworldly Foe"
     path: "017 Otherworldly Foe.spc"
     type: betting
+  - id: battle_against_a_mobile_opponent
+    title: "Battle Against a Mobile Opponent"
+    path: "032 Battle Against a Mobile Opponent.spc"
+    type: warning
+  - id: battle_against_an_unsettling_opponent
+    title: "Battle Against an Unsettling Opponent"
+    path: "038 Battle Against an Unsettling Opponent.spc"
+    type: warning
   - id: dangerous_caves
     title: "Dangerous Caves"
     path: "039 Dangerous Caves.spc"
     type: break
+  - id: sanctuary_guardian
+    title: "Sanctuary Guardian"
+    path: "042 Sanctuary Guardian.spc"
+    type: betting
   - id: happy_happy_is_blue
     title: "Happy-Happy is Blue"
     path: "053 Happy-Happy is Blue.spc"
@@ -41,6 +57,10 @@ songs:
     title: "Heartless Hotel"
     path: "060 Heartless Hotel.spc"
     type: betting
+  - id: snowman_earthbound
+    title: "Snowman"
+    path: "063 Snowman.spc"
+    type: break
   - id: moonside_swing
     title: "Moonside Swing"
     path: "089 Moonside Swing.spc"

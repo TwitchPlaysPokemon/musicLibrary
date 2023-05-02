@@ -16,4 +16,8 @@ songs:
     title: "Battle Theme 1"
     path: "Battle Theme 1.brstm"
     type: betting
+  - id: welcome_to_canada
+    title: "Welcome to Canada"
+    path: "Welcome to Canada.brstm"
+    type: result
 ...

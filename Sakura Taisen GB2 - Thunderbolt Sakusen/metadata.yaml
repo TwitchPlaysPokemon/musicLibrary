@@ -1,0 +1,51 @@
+id: sakura_taisen_gb2_thunderbolt_sakusen
+title: "Sakura Taisen GB2: Thunderbolt Sakusen"
+series: sakurataisen
+year: 2001
+platform: "GBC"
+songs:
+  - id: track_1_sakura_taisen_gb2
+    title: "Track 1"
+    path: "01 Track 01.vgz"
+    type: betting
+  - id: track_3_sakura_taisen_gb2
+    title: "Track 3"
+    path: "03 Track 03.vgz"
+    type: betting
+  - id: track_5_sakura_taisen_gb2
+    title: "Track 5"
+    path: "05 Track 05.vgz"
+    type: warning
+  - id: track_7_sakura_taisen_gb2
+    title: "Track 7"
+    path: "07 Track 07.vgz"
+    type: warning
+  - id: track_9_sakura_taisen_gb2
+    title: "Track 9"
+    path: "09 Track 09.vgz"
+    type: warning
+  - id: track_12_sakura_taisen_gb2
+    title: "Track 12"
+    path: "12 Track 12.vgz"
+    type: battle
+  - id: track_14_sakura_taisen_gb2
+    title: "Track 14"
+    path: "14 Track 14.vgz"
+    type: warning
+  - id: track_17_sakura_taisen_gb2
+    title: "Track 17"
+    path: "17 Track 17.vgz"
+    type: warning
+  - id: track_18_sakura_taisen_gb2
+    title: "Track 18"
+    path: "18 Track 18.vgz"
+    type: result
+  - id: track_19_sakura_taisen_gb2
+    title: "Track 19"
+    path: "19 Track 19.vgz"
+    type: break
+  - id: track_21_sakura_taisen_gb2
+    title: "Track 21"
+    path: "21 Track 21.vgz"
+    type: betting
+...

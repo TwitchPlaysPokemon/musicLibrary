@@ -77,8 +77,108 @@ songs:
     title: "Purple Streamer Battle"
     path: "4-04 Purple Streamer Battle.brstm"
     type: battle
+  - id: autumn_mountain_battle_thinking
+    title: "Autumn Mountain Battle - Thinking"
+    path: "Autumn Mountain Battle - Thinking.brstm"
+    type: betting
+  - id: blue_streamer_battle
+    title: "Blue Streamer Battle"
+    path: "Blue Streamer Battle.brstm"
+    type: battle
+  - id: green_streamer_battle
+    title: "Green Streamer Battle"
+    path: "Green Streamer Battle.brstm"
+    type: battle
+  - id: red_streamer_battle_thinking
+    title: "Red Streamer Battle - Thinking"
+    path: "Red Streamer Battle - Thinking.brstm"
+    type: betting
+  - id: yellow_streamer_battle
+    title: "Yellow Streamer Battle"
+    path: "Yellow Streamer Battle.brstm"
+    type: battle
+  - id: boss_fight_origami_king
+    title: "Boss Fight"
+    path: "Boss Fight.brstm"
+    type: battle
+  - id: the_dual_bladed_duelist
+    title: "The Dual-Bladed Duelist"
+    path: "The Dual-Bladed Duelist [Scissors Battle].brstm"
+    type: battle
+  - id: the_fanged_fastener
+    title: "The Fanged Fastener"
+    path: "The Fanged Fastener [Stapler Battle].brstm"
+    type: battle
   - id: the_shifty_sticker
     title: "The Shifty Sticker"
-    path: "4-41 The Shifty Sticker.brstm"
+    path: "The Shifty Sticker [Tape Battle].brstm"
     type: battle
+  - id: title_screen_origami_king
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: cafe_origami_king
+    title: "Café"
+    path: "Café.brstm"
+    type: break
+  - id: chestnut_valley
+    title: "Chestnut Valley"
+    path: "Chestnut Valley.brstm"
+    type: betting
+  - id: fire_thriller_unused
+    title: "Fire Thriller (Unused)"
+    path: "Fire Thriller (Unused).brstm"
+    type: result
+  - id: game_over_origami_king
+    title: "Game Over"
+    path: "Game Over.brstm"
+    type: result
+  - id: graffiti_underground
+    title: "Graffiti Underground"
+    path: "Graffiti Underground.brstm"
+    type: betting
+  - id: heartbeat_skipper
+    title: "Heartbeat Skipper"
+    path: "Heartbeat Skipper.brstm"
+    type: betting
+  - id: introducing_boot_car
+    title: "Introducing Boot Car"
+    path: "Introducing Boot Car.brstm"
+    type: warning
+  - id: monty_mole_s_shop
+    title: "Monty Mole's Shop"
+    path: "Monty Mole's Shop.brstm"
+    type: break
+  - id: musee_champignon
+    title: "Musée Champignon"
+    path: "Musée Champignon.brstm"
+    type: break
+  - id: origami_castle
+    title: "Origami Castle"
+    path: "Origami Castle.brstm"
+    type: battle
+  - id: overlook_tower
+    title: "Overlook Tower"
+    path: "Overlook Tower.brstm"
+    type: betting
+  - id: peach_s_castle_origami_king
+    title: "Peach's Castle"
+    path: "Peach's Castle.brstm"
+    type: break
+  - id: ring_scramble
+    title: "Ring Scramble"
+    path: "Ring Scramble.brstm"
+    type: warning
+  - id: shroom_city
+    title: "Shroom City"
+    path: "Shroom City.brstm"
+    type: betting
+  - id: super_star_origami_king
+    title: "Super Star"
+    path: "Super Star.brstm"
+    type: warning
+  - id: the_western_ends
+    title: "The Western Ends"
+    path: "The Western Ends.brstm"
+    type: result
 ...

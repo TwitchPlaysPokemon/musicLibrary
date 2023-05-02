@@ -1,0 +1,71 @@
+---
+id: neon_white
+title: "Neon White"
+platform: ["PC", "Switch", "PS4", "PS5"]
+year: 2022
+#honestly, most of these could be either betting or battle
+songs:
+  - id: be_not_afraid
+    title: "Be Not Afraid"
+    path: "Be Not Afraid.brstm"
+    type: warning
+  - id: cloud_nine
+    title: "Cloud Nine"
+    path: "Cloud Nine.brstm"
+    type: betting
+  - id: coin_flip
+    title: "Coin Flip"
+    path: "Coin Flip.brstm"
+    type: break
+  - id: fight_or_flight
+    title: "Fight or Flight"
+    path: "Fight or Flight.brstm"
+    type: battle
+  - id: glass_ocean
+    title: "Glass Ocean"
+    path: "Glass Ocean.brstm"
+    type: betting
+  - id: angel_s_peak
+    title: "Angel's Peak"
+    path: "Angel's Peak.brstm"
+    type: battle
+  - id: hellion
+    title: "Hellion"
+    path: "Hellion.brstm"
+    type: betting
+  - id: house_of_cards
+    title: "House of Cards"
+    path: "House of Cards.brstm"
+    type: pendulum
+    title: "Pendulum"
+    path: "Pendulum.brstm"
+    type: battle
+  - id: rigged_game
+    title: "Rigged Game"
+    path: "Rigged Game.brstm"
+    type: battle
+  - id: sin_to_win
+    title: "Sin to Win!"
+    path: "Sin to Win!.brstm"
+    type: battle
+  - id: solitary_grace
+    title: "Solitary Grace"
+    path: "Solitary Grace.brstm"
+    type: betting
+  - id: thousand_pound_butterfly
+    title: "Thousand Pound Butterfly"
+    path: "Thousand Pound Butterfly.brstm"
+    type: battle
+  - id: vainglorious_chorus
+    title: "Vainglorious Chorus"
+    path: "Vainglorious Chorus.brstm"
+    type: betting
+  - id: virtual_paradise
+    title: "Virtual Paradise"
+    path: "Virtual Paradise.brstm"
+    type: betting
+  - id: wtf
+    title: "WTF"
+    path: "WTF.brstm"
+    type: warning
+...

@@ -4,29 +4,134 @@ title: "Wario Land: Super Mario Land 3"
 series: wario
 platform: "GB"
 year: 1994
+#vgm redo
 songs:
-  - id: train_stage
-    title: "Train Stage"
-    path: "Train Stage.brstm"
-    type: warning
-  - id: water_stages
-    title: "Water Stages"
-    path: "Water Stages.brstm"
-    type: break
-  - id: flame_stages
-    title: "Flame Stages"
-    path: "Flame Stages.brstm"
-    type: warning
-  - id: ending_wario_land
-    title: "Ending"
-    path: "Ending.brstm"
+  - id: title_screen_sml3
+    title: "Title Screen"
+    path: "02 Title Screen.vgz"
     type: result
-  - id: course_results
-    title: "Course Results"
-    path: "Course Results.brstm"
+  - id: file_select_sml3
+    title: "File Select"
+    path: "03 File Select.vgz"
+    type: warning
+  - id: kitchen_island
+    title: "Kitchen Island"
+    path: "04 Kitchen Island.vgz"
+    type: betting
+  - id: rice_beach
+    title: "Rice Beach"
+    path: "05 Rice Beach.vgz"
+    type: warning
+  - id: ground_course_sml3
+    title: "Ground Course"
+    path: "06 Ground Course.vgz"
+    type: betting
+  - id: bonus_game_sml3
+    title: "Bonus Game"
+    path: "07 Bonus Game.vgz"
+    type: warning
+  - id: hunting_with_bombs
+    title: "Hunting with Bombs"
+    path: "08 Hunting with Bombs.vgz"
     type: result
-  - id: boss_battle_warioland
+  - id: bonus_results_sml3
+    title: "Bonus Results"
+    path: "09 Bonus Results.vgz"
+    type: result
+  - id: beach_course_sml3
+    title: "Beach Course"
+    path: "10 Beach Course.vgz"
+    type: betting
+  - id: pouncer_course
+    title: "Pouncer Course"
+    path: "11 Pouncer Course.vgz"
+    type: warning
+  - id: boss_course_sml3
+    title: "Boss Course"
+    path: "12 Boss Course.vgz"
+    type: betting
+  - id: boss_battle_sml3
     title: "Boss Battle"
-    path: "Boss Battle.brstm"
+    path: "13 Boss Battle.vgz"
+    type: battle
+  - id: coin_shower
+    title: "Coin Shower"
+    path: "14 Coin Shower.vgz"
     type: warning
+  - id: mt_teapot
+    title: "Mt. Teapot"
+    path: "15 Mt. Teapot.vgz"
+    type: break
+  - id: underwater_course_sml3
+    title: "Underwater Course"
+    path: "16 Underwater Course.vgz"
+    type: break
+  - id: ambient_course
+    title: "Ambient Course"
+    path: "17 Ambient Course.vgz"
+    type: result
+  - id: cave_course
+    title: "Cave Course"
+    path: "18 Cave Course.vgz"
+    type: warning
+  - id: ship_course
+    title: "Ship Course"
+    path: "19 Ship Course.vgz"
+    type: break
+  - id: sherbert_land_sml3
+    title: "Sherbet Land"
+    path: "20 Sherbet Land.vgz"
+    type: result
+  - id: ice_course
+    title: "Ice Course"
+    path: "21 Ice Course.vgz"
+    type: break
+  - id: stove_canyon
+    title: "Stove Canyon"
+    path: "22 Stove Canyon.vgz"
+    type: betting
+  - id: lava_course
+    title: "Lava Course"
+    path: "23 Lava Course.vgz"
+    type: betting
+  - id: lava_course_2
+    title: "Lava Course 2"
+    path: "24 Lava Course 2.vgz"
+    type: warning
+  - id: s_s_tea_cup
+    title: "S.S. Tea Cup"
+    path: "25 S.S. Tea Cup.vgz"
+    type: warning
+  - id: parsley_woods
+    title: "Parsley Woods"
+    path: "26 Parsley Woods.vgz"
+    type: warning
+  - id: train_course
+    title: "Train Course"
+    path: "27 Train Course.vgz"
+    type: betting
+  - id: syrup_castle
+    title: "Syrup Castle"
+    path: "28 Syrup Castle.vgz"
+    type: warning
+  - id: final_course_sml3
+    title: "Final Course"
+    path: "29 Final Course.vgz"
+    type: warning
+  - id: summoning_the_genie
+    title: "Summoning the Genie"
+    path: "30 Summoning the Genie.vgz"
+    type: warning
+  - id: final_boss_sml3
+    title: "Final Boss"
+    path: "31 Final Boss.vgz"
+    type: battle
+  - id: mystery_theme_sml3
+    title: "Mystery Theme"
+    path: "39 Mystery Theme.vgz"
+    type: warning
+  - id: ending_sml3
+    title: "Ending"
+    path: "49 Ending (Looped).vgz"
+    type: result
 ...

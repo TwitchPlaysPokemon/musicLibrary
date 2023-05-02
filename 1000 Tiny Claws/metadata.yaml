@@ -1,0 +1,27 @@
+---
+id: 1000_tiny_claws
+title: "1000 Tiny Claws"
+platform: ["PSP", "PS3"]
+year: 2011
+songs: 
+  - id: heavenly_falls
+    title: "Heavenly Falls"
+    path: "Heavenly Falls.at3"
+    type: betting
+  - id: hex_islands_1ktc
+    title: "Hex Islands"
+    path: "Hex Islands.at3"
+    type: battle
+  - id: swarm_queen_1ktc
+    title: "Swarm Queen"
+    path: "Swarm Queen.at3"
+    type: battle
+  - id: thunder_head_peninsula
+    title: "Thunder Head Peninsula"
+    path: "Thunder Head Peninsula.at3"
+    type: betting
+  - id: zephyr_gardens
+    title: "Zephyr Gardens"
+    path: "Zephyr Gardens.at3"
+    type: betting
+...

@@ -1,0 +1,280 @@
+---
+id: sonic_frontiers
+title: "Sonic Frontiers"
+series: sonicthehedgehog
+platform: "Various"
+year: 2022
+songs:
+  - id: cyber_space_1_1_database
+    title: "Cyber Space 1-1: Database"
+    path: "104 bgm_cyber_00000000.hca"
+    type: betting
+  - id: kronos_island_1st_mvt
+    title: "Kronos Island: 1st Mvt."
+    path: "106 bgm_0000002F.hca"
+    type: break
+  - id: cyber_space_1_2_flowing
+    title: "Cyber Space 1-2: Flowing"
+    path: "108 bgm_cyber_0000000E.hca"
+    type: betting
+  - id: cyber_space_1_3_digital_cave
+    title: "Cyber Space 1-3: Digital Cave"
+    path: "113 bgm_cyber_0000000C.hca"
+    type: betting
+  - id: guardian_asura
+    title: "Guardian: ASURA"
+    path: "114 Guardian- ASURA.brstm"
+    type: battle
+  - id: quest_sos_backup
+    title: "Quest: SOS Backup"
+    path: "122 bgm_0000001F.hca"
+    type: warning
+  - id: cyber_space_1_4_genshi
+    title: "Cyber Space 1-4: Genshi"
+    path: "125 bgm_cyber_00000026.hca"
+    ends: 2:15
+    type: betting
+  - id: kronos_island_4th_mvt
+    title: "Kronos Island: 4th Mvt."
+    path: "201 bgm_00000034.hca"
+    type: break
+  - id: guardian_squid
+    title: "Guardian: SQUID"
+    path: "203 Guardian- SQUID.brstm"
+    type: battle
+  - id: cyber_space_1_5_dropaholic
+    title: "Cyber Space 1-5: Dropaholic"
+    path: "204 bgm_cyber_00000038.hca"
+    type: battle
+  - id: cyber_space_1_6_go_back_2_your_roots
+    title: "Cyber Space 1-6: Go Back 2 Your Roots"
+    path: "207 bgm_cyber_00000030.hca"
+    type: betting
+  - id: cyber_space_1_7_time_flyer
+    title: "Cyber Space 1-7: Time Flyer"
+    path: "209 bgm_cyber_00000012.hca"
+    type: battle
+  - id: kronos_island_7th_mvt
+    title: "Kronos Island: 7th Mvt."
+    path: "211 bgm_00000033.hca"
+    ends: 2:45
+    type: betting
+  - id: fishing_vibes
+    title: "Fishing Vibes"
+    path: "213 bgm_cyber_0000003E.hca"
+    type: break
+  - id: titan_giganto
+    title: "Titan: GIGANTO"
+    path: "223 Titan- GIGANTO.brstm"
+    ends: 2:20
+    type: betting
+  - id: undefeatable
+    title: "Undefeatable"
+    path: "224 Undefeatable.brstm"
+    type: battle
+  - id: cyber_space_result_screen_complete
+    title: "Cyber Space: Result Screen - Complete"
+    path: "320 bgm_cyber_0000003D.hca"
+    type: result
+  - id: ares_island_1st_mvt
+    title: "Ares Island: 1st Mvt."
+    path: "302 bgm_00000039.hca"
+    type: break
+  - id: cyber_space_2_1_slice_and_sway
+    title: "Cyber Space 2-1: Slice & Sway"
+    path: "304 bgm_cyber_00000018.hca"
+    type: battle
+  - id: guardian_shark
+    title: "Guardian: SHARK"
+    path: "305 Guardian- SHARK.brstm"
+    type: battle
+  - id: ares_island_2nd_mvt
+    title: "Ares Island: 2nd Mvt."
+    path: "306 bgm_0000003A.hca"
+    type: break
+  - id: cyber_space_2_2_heavenly_sky
+    title: "Cyber Space 2-2: Heavenly Sky"
+    path: "309 bgm_cyber_0000000A.hca"
+    type: betting
+  - id: cyber_space_2_3_nostalgic_sweep
+    title: "Cyber Space 2-3: Nostalgic Sweep"
+    path: "312 bgm_cyber_00000008.hca"
+    type: betting
+  - id: cyber_space_2_4_hype_street
+    title: "Cyber Space 2-4: Hype Street"
+    path: "316 bgm_cyber_00000010.hca"
+    type: battle
+  - id: ares_island_5th_mvt
+    title: "Ares Island: 5th Mvt."
+    path: "318 bgm_0000003D.hca"
+    type: break
+  - id: cyber_space_2_5_deja_vu
+    title: "Cyber Space 2-5: Déjà vu"
+    path: "319 bgm_cyber_00000020.hca"
+    type: betting
+  - id: cyber_space_2_6_transparent_highway
+    title: "Cyber Space 2-6: Transparent Highway"
+    path: "403 bgm_cyber_0000003A.hca"
+    type: battle
+  - id: guardian_sumo
+    title: "Guardian: SUMO"
+    path: "404 Guardian- SUMO.brstm"
+    type: battle
+  - id: cyber_space_2_7_floating_in_the_blue
+    title: "Cyber Space 2-7: Floating in the Blue"
+    path: "405 bgm_cyber_00000024.hca"
+    ends: 2:07
+    type: betting
+  - id: ares_island_7th_mvt
+    title: "Ares Island: 7th Mvt."
+    path: "406 bgm_0000003F.hca"
+    type: break
+  - id: titan_wyvern
+    title: "Titan: WYVERN"
+    path: "407 Titan- WYVERN.brstm"
+    type: warning
+  - id: break_through_it_all
+    title: "Break Through It All"
+    path: "408 Break Through It All.brstm"
+    type: battle
+  - id: cyber_space_3_1_escape_the_loop
+    title: "Cyber Space 3-1: Escape the Loop"
+    path: "412 bgm_cyber_00000014.hca"
+    type: betting
+  - id: guardian_spider
+    title: "Guardian: SPIDER"
+    path: "413 Guardian- SPIDER.brstm"
+    type: battle
+  - id: chaos_island_2nd_mvt
+    title: "Chaos Island: 2nd Mvt."
+    path: "414 bgm_00000041.hca"
+    type: break
+  - id: island_mystery_hacking_mission
+    title: "Island Mystery: Hacking Mission"
+    path: "417 bgm_00000016.hca"
+    type: betting
+  - id: cyber_space_3_2_go_slap
+    title: "Cyber Space 3-2: Go Slap"
+    path: "421 bgm_cyber_00000002.hca"
+    type: betting
+  - id: cyber_space_3_3_memory_will_tell
+    title: "Cyber Space 3-3: Memory will tell"
+    path: "423 bgm_cyber_00000006.hca"
+    type: betting
+  - id: chaos_island_4th_mvt
+    title: "Chaos Island: 4th Mvt."
+    path: "501 bgm_00000043.hca"
+    type: break
+  - id: cyber_space_3_4_constructure
+    title: "Cyber Space 3-4: Constructure"
+    path: "503 bgm_cyber_00000022.hca"
+    ends: 2:11
+    type: betting
+  - id: cyber_space_3_5_bmb
+    title: "Cyber Space 3-5: BMB"
+    path: "507 bgm_cyber_00000028.hca"
+    type: betting
+  - id: quest_bridge_the_gap
+    title: "Quest: Bridge the Gap"
+    path: "508 Quest- Bridge the Gap.brstm"
+    type: warning
+  - id: chaos_island_7th_mvt
+    title: "Chaos Island: 7th Mvt."
+    path: "511 bgm_00000046.hca"
+    type: break
+  - id: cyber_space_3_6_enjoy_this_world
+    title: "Cyber Space 3-6: Enjoy this World"
+    path: "512 bgm_cyber_00000034.hca"
+    type: battle
+  - id: island_mystery_pinball
+    title: "Island Mystery: Pinball"
+    path: "513 bgm_0000001E.hca"
+    type: betting
+  - id: cyber_space_3_7_all_reality
+    title: "Cyber Space 3-7: All Reality"
+    path: "514 bgm_cyber_00000016.hca"
+    type: betting
+  - id: titan_knight
+    title: "Titan: KNIGHT"
+    path: "515 Titan- KNIGHT.brstm"
+    type: warning
+  - id: find_your_flame
+    title: "Find Your Flame"
+    path: "516 Find Your Flame.brstm"
+    type: battle
+  - id: rhea_island
+    title: "Rhea Island"
+    path: "519 bgm_00000038.hca"
+    type: betting
+  - id: ouranos_island
+    title: "Ouranos Island"
+    path: "601 bgm_00000036.hca"
+    type: break
+  - id: cyber_space_4_1_exceed_mach
+    title: "Cyber Space 4-1: Exceed Mach"
+    path: "602 bgm_cyber_00000036.hca"
+    type: battle
+  - id: enemy_wolf
+    title: "Enemy: WOLF"
+    path: "603 bgm_0000001B.hca"
+    type: warning
+  - id: cyber_space_4_2_ephemeral
+    title: "Cyber Space 4-2: Ephemeral"
+    path: "604 bgm_cyber_0000001A.hca"
+    type: betting
+  - id: cyber_space_4_3_rumble_rave
+    title: "Cyber Space 4-3: Rumble Rave"
+    path: "605 bgm_cyber_0000002C.hca"
+    type: battle
+  - id: cyber_space_4_4_wishes_in_the_wind
+    title: "Cyber Space 4-4: Wishes in the Wind"
+    path: "607 bgm_cyber_0000002A.hca"
+    type: break
+  - id: cyber_space_4_5_arrow_of_time
+    title: "Cyber Space 4-5: Arrow of Time"
+    path: "608 bgm_cyber_0000001C.hca"
+    type: betting
+  - id: cyber_space_4_6_fog_funk
+    title: "Cyber Space 4-6: Fog Funk"
+    path: "609 bgm_cyber_0000002E.hca"
+    ends: 2:29
+    type: betting
+  - id: theme_of_starfall_islands
+    title: "Theme of Starfall Islands"
+    path: "610 bgm_00000037.hca"
+    type: break
+  - id: guardian_ghost
+    title: "Guardian: GHOST"
+    path: "611 Guardian- GHOST.brstm"
+    type: battle
+  - id: cyber_space_4_7_rewind_to_go_ahead
+    title: "Cyber Space 4-7: Rewind to go ahead"
+    path: "612 bgm_cyber_0000001E.hca"
+    type: battle
+  - id: cyber_space_4_8_no_pain_no_gain
+    title: "Cyber Space 4-8: No Pain, No Gain"
+    path: "613 bgm_cyber_00000032.hca"
+    ends: 2:06
+    type: betting
+  - id: cyber_space_4_9_signs
+    title: "Cyber Space 4-9: Signs"
+    path: "614 bgm_cyber_00000004.hca"
+    type: battle
+  - id: titan_supreme_i_m_here_re_edit
+    title: "Titan: SUPREME - I'm Here [Re-Edit]"
+    path: "616 Titan SUPREME - I'm Here [Re-Edit].brstm"
+    type: battle
+  - id: i_m_with_you_sonic_frontiers
+    title: "I'm with you"
+    path: "618 I'm with you.brstm"
+    type: battle
+  - id: dear_father
+    title: "Dear Father"
+    path: "621 bgm_00000000.hca"
+    type: break
+  - id: one_way_dream
+    title: "One Way Dream"
+    path: "623 bgm_00000001.hca"
+    ends: 2:05
+    type: betting
+...

@@ -1,0 +1,99 @@
+id: real_bout_fatal_fury_special
+title: "Real Bout Fatal Fury Special"
+series: fatalfury
+platform: "Neo-Geo"
+year: 1997
+songs:
+  - id: player_select_rbffs
+    title: "Player Select"
+    path: "02 Player Select.vgz"
+    type: warning
+  - id: kurito_forever
+    title: "Kurito Forever"
+    path: "03 Kurito Forever (Terry Bogard).vgz"
+    type: betting
+  - id: thunderous_waves
+    title: "Thunderous Waves"
+    path: "04 Thunderous Waves (Andy Bogard).vgz"
+    type: battle
+  - id: a_special_poem_handed_down_by_southern_thailand
+    title: "A Special Poem Handed Down by Southern Thailand"
+    path: "05 A Special Poem Handed Down by Southern Thailand (Joe Higashi).vgz"
+    type: battle
+  - id: mai_mai_kyuuun
+    title: "Mai Mai Kyuuun"
+    path: "06 Mai Mai Kyuuun (Mai Shiranui).vgz"
+    type: betting
+  - id: taku_hatu_rock
+    title: "Taku-Hatu-Rock"
+    path: "07 Taku-Hatu-Rock (Sokaku Mochizuki).vgz"
+    type: betting
+  - id: taste_of_honey
+    title: "Taste of Honey"
+    path: "08 Taste of Honey (Bob Wilson).vgz"
+    type: warning
+  - id: donchika_chi_chi
+    title: "Donchika!! Chi!! Chi!!"
+    path: "09 Donchika!! Chi!! Chi!! (Hon Fu).vgz"
+    type: battle
+  - id: blue_mary_s_blues
+    title: "Blue Mary's Blues"
+    path: "10 Blue Mary's Blues (Blue Mary).vgz"
+    type: betting
+  - id: goli_rock
+    title: "Goli-Rock"
+    path: "11 Goli-Rock (Franco Bash).vgz"
+    type: warning
+  - id: c62_shirokuni_ver_2
+    title: "C62 -Shirokuni- Ver.2"
+    path: "12 C62 -Shirokuni- Ver.2 (Ryuji Yamazaki).vgz"
+    type: betting
+  - id: no_3_from_pandora_s_box_determination
+    title: "No.3 from Pandora's Box -Determination-"
+    path: "13 No.3 from Pandora's Box -Determination- (Jin Chonshu & Jin Chonrei).vgz"
+    type: warning
+  - id: duck_duck_duck
+    title: "Duck! Duck! Duck!"
+    path: "14 Duck! Duck! Duck! (Duck King).vgz"
+    type: betting
+  - id: it_s_seoul
+    title: "It's Seoul"
+    path: "15 It's Seoul (Kim Kaphwan).vgz"
+    type: betting
+  - id: london_march
+    title: "London March"
+    path: "16 London March (Billy Kane).vgz"
+    type: battle
+  - id: how_has_china_survived_4000_years_ii
+    title: "How Has China Survived 4000 Years II"
+    path: "17 How Has China Survived 4000 Years II (Tung Fu Rue).vgz"
+    type: betting
+  - id: hapushu_fuuuu
+    title: "Hapushu! Fuuuu"
+    path: "18 Hapushu! Fuuuu (Cheng Sinzan).vgz"
+    type: battle
+  - id: bulls_and_sport
+    title: "Bulls and Sport"
+    path: "19 Bulls and Sport (Laurence Blood).vgz"
+    type: betting
+  - id: requiem_k_626_lacrimosa
+    title: "Requiem K.626 [Lacrimosa]"
+    path: "20 Requiem K.626 [Lacrimosa] (Wolfgang Krauser).vgz"
+    type: warning
+  - id: winner_demo_rbffs
+    title: "Winner Demo"
+    path: "21 Winner Demo.vgz"
+    type: result
+  - id: soy_sauce_on_geese
+    title: "Soy Sauce on Geese"
+    path: "23 Soy Sauce on Geese (Geese Howard).vgz"
+    type: battle
+  - id: joining_in_demo
+    title: "Joining-In Demo"
+    path: "24 Joining-In Demo.vgz"
+    type: warning
+  - id: s_wind_credits
+    title: "S-Wind (Credits)"
+    path: "25 S-Wind (Credits).vgz"
+    type: result
+...

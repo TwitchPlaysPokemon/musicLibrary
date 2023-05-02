@@ -1,0 +1,39 @@
+---
+id: wacky_races
+title: "Wacky Races"
+platform: "NES"
+year: 1991
+songs: 
+  - id: title_screen_wacky_races
+    title: "Title Screen"
+    path: "01 Title Screen, Credits.vgz"
+    type: betting
+  - id: overworld_map_wacky_races
+    title: "Overworld Map"
+    path: "02 Overworld Map.vgz"
+    type: warning
+  - id: cutscene_theme_1
+    title: "Cutscene Theme 1"
+    path: "03 Cutscene Theme 1.vgz"
+    type: betting
+  - id: stage_theme_1
+    title: "Stage Theme 1"
+    path: "04 Stage Theme 1.vgz"
+    type: betting
+  - id: stage_theme_2
+    title: "Stage Theme 2"
+    path: "05 Stage Theme 2.vgz"
+    type: betting
+  - id: stage_theme_3
+    title: "Stage Theme 3"
+    path: "09 Stage Theme 3.vgz"
+    type: betting
+  - id: stage_theme_4
+    title: "Stage Theme 4"
+    path: "10 Stage Theme 4.vgz"
+    type: betting
+  - id: stage_theme_5
+    title: "Stage Theme 5"
+    path: "11 Stage Theme 5.vgz"
+    type: betting
+...

@@ -1,0 +1,24 @@
+---
+id: the_stanley_parable_ultra_deluxe
+title: "The Stanley Parable: Ultra Deluxe"
+year: 2022
+platform: "Various"
+#all of these aside from Funky Fall are stock Kevin MacLeod songs. Again, it's up to you if they should go in
+songs:
+  - id: fluffing_a_duck
+    title: "Fluffing a Duck"
+    path: "Fluffing a Duck.brstm"
+    type: break
+  - id: funky_fall
+    title: "Funky Fall"
+    path: "Funky Fall.brstm"
+    type: betting
+  - id: itty_bitty_8_bit
+    title: "Itty Bitty 8 Bit"
+    path: "Itty Bitty 8 Bit.brstm"
+    type: result
+  - id: quirky_dog
+    title: "Quirky Dog"
+    path: "Quirky Dog.brstm"
+    type: break
+...

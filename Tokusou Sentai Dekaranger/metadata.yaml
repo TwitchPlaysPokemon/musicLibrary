@@ -1,0 +1,31 @@
+---
+id: tokusou_sentai_dekaranger
+title: "Tokusou Sentai Dekaranger"
+platform: "Pico"
+year: 2004
+songs:
+  - id: title_screen_dekaranger
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: select_game_dekaranger
+    title: "Select Game"
+    path: "02 Select Game.vgz"
+    type: betting
+  - id: battle_game_bgm_dekaranger
+    title: "Battle Game BGM"
+    path: "03 Battle Game BGM.vgz"
+    type: warning
+  - id: game_bgm_1_dekaranger
+    title: "Game BGM 1"
+    path: "04 Game BGM 1.vgz"
+    type: result
+  - id: game_bgm_2_dekaranger
+    title: "Game BGM 2"
+    path: "05 Game BGM 2.vgz"
+    type: result
+  - id: let_s_draw_dekaranger
+    title: "Let's Draw!"
+    path: "06 Let's Write!.vgz"
+    type: result
+...

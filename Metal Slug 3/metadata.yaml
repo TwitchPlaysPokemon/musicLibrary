@@ -5,12 +5,44 @@ series: metalslug
 platform: ["Arcade", "Neo-Geo"]
 year: 2000
 songs:
+  - id: barracks_metal_slug_3
+    title: "Barracks"
+    path: "03 Barracks (Character Select).vgz"
+    type: warning
+  - id: blue_water_fangs_the_island_of_dr_moreau
+    title: "Blue Water Fangs -The Island of Dr. Moreau-"
+    path: "04 Blue Water Fangs -The Island of Dr. Moreau- (Stage 1).vgz"
+    type: betting
   - id: steel_beasts_6beets_metal_slug_3
     title: "Steel Beasts 6Beets"
-    path: "Steel Beasts 6Beets.brstm"
+    path: "07 Steel Beast 6Beets (Boss Theme A).vgz"
     type: warning
+  - id: midnight_wandering
+    title: "Midnight Wandering"
+    path: "08 Midnight Wandering (Stage 2).vgz"
+    type: betting
+  - id: the_shallow_sea
+    title: "The Shallow Sea"
+    path: "11 The Shallow Sea (Stage 3).vgz"
+    type: betting
+  - id: hard_water
+    title: "Hard Water"
+    path: "12 Hard Water (Stage 3 Alternative Route ~ Underground Channel).vgz"
+    type: betting
   - id: desert_metal_slug_3
     title: "Desert"
-    path: "Desert.brstm"
+    path: "15 Desert (Stage 4).vgz"
     type: battle
+  - id: the_japanese_army
+    title: "The Japanese Army"
+    path: "18 The Japanese Army (Stage 4 Alternative Route ~ Ex-military Hideout).vgz"
+    type: betting
+  - id: into_the_cosmos_metal_slug_3
+    title: "Into the Cosmos"
+    path: "21 Into the Cosmos (The Void of Space).vgz"
+    type: battle
+  - id: first_contact_metal_slug_3
+    title: "First Contact"
+    path: "23 First Contact (UFO Interior Passage 2).vgz"
+    type: warning
 ...

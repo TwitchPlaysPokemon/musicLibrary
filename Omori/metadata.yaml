@@ -1,0 +1,25 @@
+---
+id: omori
+title: "Omori"
+platform: "Various"
+year: 2020
+#added ogg files in case it would be better to make them .logg
+songs:
+  - id: splintered_sweets_in_the_castle
+    title: "Splintered Sweets in the Castle"
+    path: "Splintered Sweets in the Castle.brstm"
+    type: battle
+  - id: the_heart_of_the_desert
+    title: "The Heart of the Desert"
+    path: "The Heart of the Desert.brstm"
+    ends: 1:54
+    type: betting
+  - id: tussle_among_trees
+    title: "Tussle Among Trees"
+    path: "Tussle Among Trees.brstm"
+    type: battle
+  - id: world_s_end_valentine
+    title: "World's End Valentine"
+    path: "World's End Valentine.brstm"
+    type: battle
+...

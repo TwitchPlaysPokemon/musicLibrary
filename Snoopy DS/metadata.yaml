@@ -1,0 +1,78 @@
+id: snoopy_ds_snoopy_to_nakama_tachi_ni_ai_ni_ikou
+title: "Snoopy DS - Snoopy to Nakama Tachi ni Ai ni Ikou!"
+platform: "DS"
+year: 2008
+songs:
+  - id: main_menu_snoopy_ds
+    title: "Main Menu"
+    path: "0003 BGM_MENU.mini2sf"
+    type: betting
+  - id: kick_that_football
+    title: "Kick that Football!"
+    path: "000d BGM_FOOTBALL.mini2sf"
+    type: betting
+  - id: the_old_pitcher_s_mound
+    title: "The Old Pitcher's Mound"
+    path: "000c BGM_BASEBALL.mini2sf"
+    type: betting
+  - id: beagle_scout_march
+    title: "Beagle Scout March"
+    path: "000e BGM_BEAGLE.mini2sf"
+    type: betting
+  - id: flying_high
+    title: "Flying High"
+    path: "0013 BGM_FLYING.mini2sf"
+    type: result
+  - id: excellent_snoopy_ds
+    title: "Excellent!"
+    path: "002a BGM_EXCELLENT.mini2sf"
+    type: result
+  - id: good_snoopy_ds
+    title: "Good!"
+    path: "002b BGM_GOOD.mini2sf"
+    type: result
+  - id: oops_snoopy_ds
+    title: "Oops..."
+    path: "002c BGM_OOP.mini2sf"
+    type: result
+  - id: awful_snoopy_ds
+    title: "Awful"
+    path: "002d BGM_AWFUL.mini2sf"
+    type: result
+  - id: flashbeagle_fever
+    title: "Flashbeagle Fever"
+    path: "0022 BGM_FLASH.mini2sf"
+    type: result
+  - id: encyclopedia_snoopy_ds
+    title: "Encyclopedia"
+    path: "0026 BGM_ENCYCL.mini2sf"
+    type: break
+  - id: around_the_blockhead
+    title: "Around the Blockhead"
+    path: "0006 BGM_MAP3.mini2sf"
+    type: betting
+  - id: cowabunga_snoopy_ds
+    title: "Cowabunga!"
+    path: "0014 BGM_SURFIN.mini2sf"
+    type: betting
+  - id: billards_and_blackjack
+    title: "Billards and Blackjack"
+    path: "0016 BGM_GAME.mini2sf"
+    type: betting
+  - id: your_theme_snoopy_ds
+    title: "Your Theme"
+    path: "0002 BGM_MYCHARA.mini2sf"
+    type: betting
+  - id: ski_slopes_snoopy_ds
+    title: "Ski Slopes"
+    path: "0015 BGM_SKI.mini2sf"
+    type: betting
+  - id: blanket_statement
+    title: "Blanket Statement"
+    path: "0010 BGM_MINI2.mini2sf"
+    type: betting
+  - id: a_star_in_a_pail
+    title: "A Star in a Pail"
+    path: "000b BGM_EVENT4.mini2sf"
+    type: result
+...

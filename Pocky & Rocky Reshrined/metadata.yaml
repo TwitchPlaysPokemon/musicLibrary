@@ -1,0 +1,43 @@
+---
+id: pocky_and_rocky_reshrined
+title: "Pocky & Rocky: Reshrined"
+platform: ["Switch", "PS4"]
+year: 2022
+songs: 
+  - id: a_monster_appears_pocky_rocky
+    title: "A Monster Appears"
+    path: "A Monster appears.fsb"
+    type: warning
+  - id: boss_fight_1_part_1
+    title: "Boss Fight 1 (Part 1)"
+    path: "Boss Fight 1 (Part 1).fsb"
+    type: warning
+  - id: boss_fight_1_part_2
+    title: "Boss Fight 1 (Part 2)"
+    path: "Boss Fight 1 (Part 2).fsb"
+    type: battle
+  - id: full_power
+    title: "FULL POWER!!"
+    path: "FULL POWER!!.fsb"
+    type: result
+  - id: stage_1_the_haunted_shrine
+    title: "Stage 1- The Haunted Shrine"
+    path: "Stage 1- The Haunted Shrine.fsb"
+    type: betting
+  - id: stage_3_an_ancient_land
+    title: "Stage 3- An Ancient Land"
+    path: "Stage 3- An Ancient Land.fsb"
+    type: betting
+  - id: stage_7_battle_with_black_mantle
+    title: "Stage 7- Battle with Black Mantle"
+    path: "Stage 7- Battle with Black Mantle.fsb"
+    type: betting
+  - id: the_final_battle_gastaroth
+    title: "The Final Battle (Gastaroth)"
+    path: "The Final Battle (Gastaroth).fsb"
+    type: battle
+  - id: title_pocky_rocky
+    title: "Title"
+    path: "title.fsb"
+    type: result
+...

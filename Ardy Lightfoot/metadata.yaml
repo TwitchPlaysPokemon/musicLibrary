@@ -1,0 +1,51 @@
+---
+id: ardy_lightfoot
+title: "Ardy Lightfoot"
+platform: "SNES"
+year: 1993
+songs:
+  - id: mining_town_ablaze
+    title: "Mining Town Ablaze"
+    path: "05 Mining Town Ablaze.spc"
+    type: betting
+  - id: tunnel_chase_ardy_lightfoot
+    title: "Tunnel Chase"
+    path: "07 Tunnel Chase.spc"
+    type: warning
+  - id: lumberjack_forest
+    title: "Lumberjack Forest"
+    path: "09 Lumberjack Forest.spc"
+    type: betting
+  - id: map_ardy_lightfoot
+    title: "Map"
+    path: "10 Map.spc"
+    type: break
+  - id: mouse_trap
+    title: "Mouse Trap"
+    path: "13b Mouse Trap.spc"
+    type: warning
+  - id: island_of_ruins
+    title: "Island of Ruins"
+    path: "15a Island of Ruins.spc"
+    type: break
+  - id: underground_passage_ardy_lightfoot
+    title: "Underground Passage"
+    path: "16 Underground Passage.spc"
+    type: break
+  - id: requiem_ardy_lightfoot
+    title: "Requiem"
+    path: "20 Requiem.spc"
+    type: break
+  - id: final_boss_ardy_lightfoot
+    title: "Final Boss"
+    path: "21 Final Boss.spc"
+    type: battle
+  - id: password_screen_ardy_lightfoot
+    title: "Password Screen"
+    path: "22 Password Screen.spc"
+    type: result
+  - id: staff_roll_ardy_lightfoot
+    title: "Staff Roll"
+    path: "25 Staff Roll.spc"
+    type: betting
+...

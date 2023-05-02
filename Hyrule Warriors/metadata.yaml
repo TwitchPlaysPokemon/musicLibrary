@@ -73,4 +73,53 @@ songs:
     title: "Remnant of Twilight"
     path: "Remnant of Twilight.brstm"
     type: betting
+    #new songs start here
+  - id: adventure_map_twilight_field
+    title: "Adventure Map: Twilight Field"
+    path: "Hyrule Field_Twilight Princess_ 2nd.brstm"
+    type: betting
+  - id: hammer_of_stones_focus_spirit
+    title: "Hammer of Stones (Focus Spirit)"
+    path: "Hammer of Stones (Focus Spirit).brstm"
+    type: battle
+  - id: heart_of_the_end
+    title: "Heart of the End"
+    path: "Heart of the End.brstm"
+    type: betting
+  - id: house_hyrule_warriors
+    title: "House"
+    path: "House.brstm"
+    type: betting
+  - id: hidden_skill_training_twilight_princess
+    title: "Hidden Skill Training: Twilight Princess"
+    path: "Hidden Skill Training_ Twilight Princess.brstm"
+    type: betting
+  - id: in_the_greenwood_focus_spirit
+    title: "In the Greenwood (Focus Spirit)"
+    path: "In the Greenwood (Focus Spirit).brstm"
+    type: battle
+  - id: kakariko_village_twilight_princess
+    title: "Kakariko Village: Twilight Princess"
+    path: "Kakariko Village_ Twilight Princess.brstm"
+    type: battle
+  - id: kumite_skyward_sword
+    title: "Kumite: Skyward Sword"
+    path: "Kumite_ Skyward Sword.brstm"
+    type: battle
+  - id: sequence_of_drops
+    title: "Sequence of Drops"
+    path: "Sequence of Drops.brstm"
+    type: betting
+  - id: solidus_cave
+    title: "Solidus Cave"
+    path: "Solidus Cave.brstm"
+    type: betting
+  - id: under_siege_hyrule_warriors
+    title: "Under Siege"
+    path: "Under Siege.brstm"
+    type: warning
+  - id: zelda_s_lullaby_ocarina_of_time
+    title: "Zelda's Lullaby: Ocarina of Time"
+    path: "Zelda's Lullaby_ Ocarina of Time.brstm"
+    type: result
 ...

@@ -1,0 +1,82 @@
+---
+id: ultimate_chicken_horse
+title: "Ultimate Chicken Horse"
+platform: "Various"
+year: 2016
+songs:
+  - id: main_titles_uch
+    title: "Main Titles"
+    path: "01 Main Titles.brstm"
+    type: betting
+  - id: waterfall_uch
+    title: "Waterfall"
+    path: "02 Waterfall.brstm"
+    type: betting
+  - id: ballroom_uch
+    title: "Ballroom"
+    path: "2 Ballroom.brstm"
+    type: break
+  - id: windmill_uch
+    title: "Windmill"
+    path: "03 Windmill.brstm"
+    ends: 3:34
+    type: betting
+  - id: building_a_ballroom
+    title: "Building a Ballroom"
+    path: "3 Building a Ballroom.brstm"
+    type: betting
+  - id: nuclear_plant_uch
+    title: "Nuclear Plant"
+    path: "04 Nuclear Plant.brstm"
+    type: betting
+  - id: space_uch
+    title: "Space"
+    path: "4 Space.brstm"
+    type: betting
+  - id: old_house_uch
+    title: "Old House"
+    path: "05 Old House.brstm"
+    type: betting
+  - id: building_space
+    title: "Building Space"
+    path: "5 Building Space.brstm"
+    type: break
+  - id: crumbling_bridge
+    title: "Crumbling Bridge"
+    path: "06 Crumbling Bridge.brstm"
+    type: betting
+  - id: dance_party_uch
+    title: "Dance Party"
+    path: "07 Dance Party.brstm"
+    type: betting
+  - id: jungle_temple_uch
+    title: "Jungle Temple"
+    path: "07 Jungle Temple.brstm"
+    type: betting
+  - id: roller_coaster_uch
+    title: "Roller Coeaster"
+    path: "7 Roller Coaster.brstm"
+    type: betting
+  - id: metal_plant_uch
+    title: "Metal Plant"
+    path: "08 Metal Plant.brstm"
+    ends: 3:30
+    type: betting
+  - id: farm_uch
+    title: "Farm"
+    path: "09 Farm.brstm"
+    type: betting
+  - id: rooftop_uch
+    title: "Rooftop"
+    path: "10 Rooftop.brstm"
+    type: betting
+  - id: iceberg_uch
+    title: "Iceberg"
+    path: "11 Iceberg.brstm"
+    type: betting
+  - id: freeplay_uch
+    title: "Freeplay"
+    path: "13 Freeplay.brstm"
+    ends: 1:55
+    type: betting
+...

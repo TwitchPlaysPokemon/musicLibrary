@@ -1,0 +1,43 @@
+---
+id: fight_knight
+title: "FIGHT KNIGHT"
+platform: "PC"
+year: 2021
+songs: 
+  - id: cold_battle_theme
+    title: "Cold Battle Theme"
+    path: "Cold Battle Theme.brstm"
+    type: battle
+  - id: cyber_space_boss_theme
+    title: "Cyber Space Boss Theme"
+    path: "Cyber Space Boss Theme.brstm"
+    type: battle
+  - id: desert_battle_theme
+    title: "Desert Battle Theme"
+    path: "Desert Battle Theme.brstm"
+    type: betting
+  - id: fortune_teller_theme
+    title: "Fortune Teller Theme"
+    path: "Fortune Teller Theme.brstm"
+    type: break
+  - id: graveyard_battle_theme
+    title: "Graveyard Battle Theme"
+    path: "Graveyard Battle Theme.brstm"
+    type: warning
+  - id: potion_shop_fight_knight
+    title: "Potion Shop"
+    path: "Potion Shop.brstm"
+    type: break
+  - id: punk_croc_theme
+    title: "Punk Croc Theme"
+    path: "Punk Croc Theme.brstm"
+    type: battle
+  - id: rivali
+    title: "Rivali"
+    path: "Rivali.brstm"
+    type: betting
+  - id: skellotaur_theme_in_game_version
+    title: "Skellotaur Theme (In-Game Version)"
+    path: "Skellotaur Theme (In-Game Version).brstm"
+    type: battle
+...

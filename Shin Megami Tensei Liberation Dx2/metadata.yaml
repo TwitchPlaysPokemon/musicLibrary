@@ -4,28 +4,116 @@ title: "Shin Megami Tensei: Liberation Dx2"
 platform: "Mobile"
 year: 2018
 songs: 
+#existing tracks with new files/names
   - id: boss_battle_smt_dx2
-    title: "Boss Battle"
-    path: "bgm_btl_boss.hca"
+    title: "#Boss Battle"
+    path: "bgm_btl_boss.awb"
     type: battle
   - id: normal_battle_smt_dx2
-    title: "Normal Battle"
-    path: "bgm_btl_normal.hca"
+    title: "#Normal Battle"
+    path: "bgm_btl_normal.awb"
     type: battle
   - id: liberator_s_hideout
     title: "Liberator's Hideout"
-    path: "bgm_facility.hca"
+    path: "bgm_facility.awb"
     type: betting
-  - id: fusion
-    title: "Fusion"
-    path: "bgm_fusion.hca"
+  - id: pandemonium_church_of_false_gods
+    title: "Pandemonium/Church of False Gods"
+    path: "bgm_fusion.awb"
     type: break
   - id: home_smt_dx2
     title: "Home"
-    path: "bgm_home.hca"
+    path: "bgm_home.awb"
     type: betting
   - id: map_smt_dx2
     title: "Map"
-    path: "bgm_map.hca"
+    path: "bgm_map.awb"
     type: betting
+#and now, all the new titles
+  - id: downloader_smt_dx2
+    title: "Downloader"
+    path: "bgm_title.awb"
+    ends: 3:00
+    type: betting
+  - id: desolation_smt_dx2
+    title: "Desolation"
+    path: "bgm_title2.awb"
+    ends: 2:19
+    type: betting
+  - id: result_smt_dx2
+    title: "Result"
+    path: "bgm_result.awb"
+    type: result
+  - id: disturbing_atmosphere
+    title: "Disturbing Atmosphere"
+    path: "bgm_drama_unquiet.awb"
+    type: warning
+  - id: auragate1
+    title: "AuraGate1"
+    path: "bgm_gd.awb"
+    type: break
+  - id: auragate2
+    title: "AuraGate2"
+    path: "bgm_gd2.awb"
+    type: break
+  - id: under_investigation
+    title: "Under Investigation"
+    path: "bgm_drama_search.awb"
+    type: betting
+  - id: crisis_smt_dx2
+    title: "Crisis"
+    path: "bgm_drama_danger.awb"
+    type: warning
+  - id: battle_auragate2
+    title: "#Battle -AuraGate2-"
+    path: "bgm_btl_gd2.awb"
+    type: betting
+  - id: boss_battle_auragate2
+    title: "#Boss Battle -AuraGate2-"
+    path: "bgm_btl_gd2last.awb"
+    type: battle
+  - id: faction_smt_dx2
+    title: "Faction"
+    path: "bgm_faction_sim.awb"
+    type: battle
+  - id: battle_democalypse
+    title: "#Battle -Democalypse-"
+    path: "bgm_btl_faction.awb"
+    type: battle
+  - id: eventauragate
+    title: "EventAuraGate"
+    path: "bgm_gdex.awb"
+    type: warning
+  - id: battle_eventauragate
+    title: "#Battle -EventAuraGate-"
+    path: "bgm_btl_gdex.awb"
+    type: battle
+  - id: the_beginning_of_the_end
+    title: "The Beginning of the End"
+    path: "bgm_drama_serious.awb"
+    type: warning
+  - id: alter_world
+    title: "Alter-World"
+    path: "bgm_d2mode_home.awb"
+    type: break
+  - id: bureau_of_divination
+    title: "Bureau of Divination"
+    path: "bgm_d2mode_equip.awb"
+    type: betting
+  - id: battle_alter_world
+    title: "#Battle -Alter-World-"
+    path: "bgm_btl_d2mode.awb"
+    type: battle
+  - id: overbreak
+    title: "Overbreak"
+    path: "bgm_btl_overbreak_d2mode.awb"
+    type: warning
+  - id: battle_tower_smt_dx2
+    title: "Battle Tower"
+    path: "bgm_d2mode_pvp.awb"
+    type: break
+  - id: battle_battle_tower_smt_dx2
+    title: "#Battle -Battle Tower-"
+    path: "bgm_btl_d2mode_pvp.awb"
+    type: battle
 ...

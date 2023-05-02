@@ -17,6 +17,14 @@ songs:
     title: "Wheatley Science"
     path: "Wheatley Science.brstm"
     type: warning
+  - id: the_friendly_faith_plate
+    title: "The Friendly Faith Plate"
+    path: "The Friendly Faith Plate.brstm"
+    type: betting
+  - id: you_will_be_perfect
+    title: "You Will Be Perfect"
+    path: "You Will Be Perfect.brstm"
+    type: battle
   - id: robot_waiting_room_1
     title: "Robot Waiting Room #1"
     path: "Robot Waiting Room #1.brstm"
@@ -24,6 +32,14 @@ songs:
   - id: test
     title: "TEST"
     path: "TEST.brstm"
+    type: break
+  - id: the_future_starts_with_you
+    title: "The Future Starts With You"
+    path: "The Future Starts With You.brstm"
+    type: break
+  - id: technical_difficulties
+    title: "Technical Difficulties"
+    path: "Technical Difficulties.brstm"
     type: break
   - id: bombs_for_throwing_at_you
     title: "Bombs for Throwing at You"

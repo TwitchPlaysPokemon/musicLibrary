@@ -1,0 +1,88 @@
+---
+id: pokemon_picross
+title: "Pokémon Picross"
+series: pokemon
+platform: "GBC"
+year: UNRELEASED
+songs: 
+  - id: title_theme_pokemon_picross
+    title: "Title Theme"
+    path: "01 Title Theme.vgz"
+    type: result
+  - id: data_select_pokemon_picross
+    title: "Data Select"
+    path: "02 Data Select.vgz"
+    type: warning
+  - id: main_menu_pokemon_picross
+    title: "Main Menu"
+    path: "03 Main Menu.vgz"
+    type: result
+  - id: pokedex_pokemon_picross
+    title: "Pokédex"
+    path: "04 Pokedex.vgz"
+    type: break
+  - id: home_pokemon_picross
+    title: "Home"
+    path: "05 Home.vgz"
+    type: break
+  - id: viridian_forest_pokemon_picross
+    title: "Viridian Forest"
+    path: "06 Tokiwaka Forest.vgz"
+    type: break
+  - id: sea_cottage_pokemon_picross
+    title: "Sea Cottage"
+    path: "07 Sea Cottage.vgz"
+    type: betting
+  - id: pokemon_tower_silph_company
+    title: "Pokemon Tower, Silph Company"
+    path: "08 Pokemon Tower, Silph Company.vgz"
+    type: warning
+  - id: power_plant_pokemon_picross
+    title: "Power Plant"
+    path: "09 Power Plant.vgz"
+    type: warning
+  - id: cycling_road_pokemon_picross
+    title: "Cycling Road"
+    path: "10 Cycling Road.vgz"
+    type: betting
+  - id: cerulean_cave_pokemon_picross
+    title: "Cerulean Cave"
+    path: "11 Hanada Cave.vgz"
+    type: betting
+  - id: safari_zone_pokemon_picross
+    title: "Safari Zone"
+    path: "12 Safari Zone.vgz"
+    type: betting
+  - id: puzzle_pikachu
+    title: "Puzzle (Pikachu)"
+    path: "13 Puzzle (Pikachu).vgz"
+    type: betting
+  - id: puzzle_bulbasaur
+    title: "Puzzle (Bulbasaur)"
+    path: "14 Puzzle (Bulbasaur).vgz"
+    type: break
+  - id: puzzle_charmander
+    title: "Puzzle (Charmander)"
+    path: "15 Puzzle (Charmander).vgz"
+    type: warning
+  - id: puzzle_squirtle
+    title: "Puzzle (Squirtle)"
+    path: "16 Puzzle (Squirtle).vgz"
+    type: betting
+  - id: puzzle_clefairy
+    title: "Puzzle (Clefairy)"
+    path: "17 Puzzle (Clefairy).vgz"
+    type: betting
+  - id: puzzle_jigglypuff
+    title: "Puzzle (Jigglypuff)"
+    path: "18 Puzzle (Jigglypuff).vgz"
+    type: result
+  - id: five_minutes_left
+    title: "Five Minutes Left"
+    path: "19 5 Minutes Left.vgz" #you do not know how much I wanted to do this as betting with a 5 minute limit
+    type: warning
+  - id: staff_roll_pokemon_picross
+    title: "Staff Roll"
+    path: "22 Staff Roll.vgz"
+    type: result
+...
