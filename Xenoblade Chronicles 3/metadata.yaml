@@ -27,7 +27,7 @@ songs:
     type: warning
   - id: you_will_know_our_names_finale
     title: "You Will Know Our Names - Finale"
-    path: "bgm_play (battle=named) (boss_bgm_part=None).txtp"
+    path: "bgm_play (battle=named) (boss_bgm_part=main).txtp"
     type: battle
   - id: brilliant_wings_xc3
     title: "Brilliant Wings"
@@ -47,7 +47,7 @@ songs:
     type: warning
   - id: the_false_queens
     title: "The False Queens"
-    path: "bgm_play (battle=queen) (boss_bgm_part=None).txtp"
+    path: "bgm_play (battle=queen) (boss_bgm_part=main).txtp"
     type: battle
   - id: words_that_never_reached_you
     title: "Words That Never Reached You"
@@ -59,7 +59,7 @@ songs:
     type: warning
   - id: ultimate_enemy
     title: "Ultimate Enemy"
-    path: "bgm_play (battle=ultimate) (boss_bgm_part=none).txtp"
+    path: "bgm_play (battle=ultimate) (boss_bgm_part=main).txtp"
     type: battle
   - id: showdown_with_z_act_1
     title: "Showdown With Z, Act 1"
@@ -103,7 +103,7 @@ songs:
     type: warning
   - id: moebius_interlink
     title: "Moebius Interlink"
-    path: "bgm_play (field=b1102) (boss_bgm_part=none).txtp"
+    path: "bgm_play (field=b1102) (boss_bgm_part=main).txtp"
     type: battle
   - id: moebius_battle_m
     title: "Moebius Battle/M"
@@ -111,7 +111,7 @@ songs:
     type: battle
   - id: moebius_battle_m_phase_2
     title: "Moebius Battle/M (Phase 2)"
-    path: "bgm_play (field=b1104) (boss_bgm_part=none).txtp"
+    path: "bgm_play (field=b1104) (boss_bgm_part=main).txtp"
     type: battle
   - id: moebius_battle_m_phase_2_climax
     title: "Moebius Battle/M (Phase 2) (Climax)"
@@ -269,7 +269,6 @@ songs:
     title: "City/Night"
     path: "bgm_play (map=ma11a)(field=f161)(battle=none) (time_zone=nighttime).txtp"
     type: break
-#
   - id: young_warriors
     title: "Young Warriors"
     path: "bgm_play (field=e260).txtp"
@@ -365,8 +364,8 @@ songs:
     title: "Something's Beginning to Move"
     path: "bgm_play (field=e460).txtp"
     type: break
-  - id: end_credits_xc3
-    title: "End Credits"
-    path: "bgm_play (field=e440).txtp"
-    type: break
+  # - id: end_credits_xc3
+    # title: "End Credits"
+    # path: "bgm_play (field=e440).txtp" #Copy of Melia - Ancient Memories? tabling for now
+    # type: break
 ...
