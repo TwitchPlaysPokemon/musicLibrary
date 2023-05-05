@@ -7,365 +7,365 @@ year: 2022
 songs: 
   - id: agnus_battle
     title: "Agnus Battle"
-    path: "bgm_play (battle=a).txtp"
+    path: "b_battle_a-.txtp"
     type: battle
   - id: chain_attack_xc3
     title: "Chain Attack"
-    path: "bgm_play (battle=chain) (chain_attack=none).txtp"
+    path: "b_battle_chain-chain_attack_none-.txtp"
     type: battle
   - id: keves_battle
     title: "Keves Battle"
-    path: "bgm_play (battle=k).txtp"
+    path: "b_battle_k-.txtp"
     type: battle
   - id: noah_and_n
     title: "Noah and N"
-    path: "bgm_play (battle=n02).txtp"
+    path: "b_battle_n02-.txtp"
     type: betting
   - id: you_will_know_our_names_finale_climax
     title: "You Will Know Our Names - Finale (Climax)"
-    path: "bgm_play (battle=named) (boss_bgm_part=climax).txtp"
+    path: "b_battle_named-boss_bgm_part_climax-.txtp"
     type: warning
   - id: you_will_know_our_names_finale
     title: "You Will Know Our Names - Finale"
-    path: "bgm_play (battle=named) (boss_bgm_part=main).txtp"
+    path: "b_battle_named-boss_bgm_part_main-.txtp"
     type: battle
   - id: brilliant_wings_xc3
     title: "Brilliant Wings"
-    path: "bgm_play (battle=normal_m).txtp"
+    path: "b_battle_normal_m-.txtp"
     type: betting
   - id: kaleidoscopic_core
     title: "Kaleidoscopic Core"
-    path: "bgm_play (battle=normal_n).txtp"
+    path: "b_battle_normal_n-.txtp"
     type: battle
   - id: battle_on_the_seas
     title: "Battle on the Seas"
-    path: "bgm_play (battle=ocean).txtp"
+    path: "b_battle_ocean-.txtp"
     type: battle
   - id: vs_queen_climax
     title: "The False Queens (Climax)"
-    path: "bgm_play (battle=queen) (boss_bgm_part=climax).txtp"
+    path: "b_battle_queen-boss_bgm_part_climax-.txtp"
     type: warning
   - id: the_false_queens
     title: "The False Queens"
-    path: "bgm_play (battle=queen) (boss_bgm_part=main).txtp"
+    path: "b_battle_queen-boss_bgm_part_main-.txtp"
     type: battle
   - id: words_that_never_reached_you
     title: "Words That Never Reached You"
-    path: "bgm_play (battle=sorrow).txtp"
+    path: "b_battle_sorrow-.txtp"
     type: battle
   - id: ultimate_enemy_climax
     title: "Ultimate Enemy (Climax)"
-    path: "bgm_play (battle=ultimate) (boss_bgm_part=climax).txtp"
+    path: "b_battle_ultimate-boss_bgm_part_climax-.txtp"
     type: warning
   - id: ultimate_enemy
     title: "Ultimate Enemy"
-    path: "bgm_play (battle=ultimate) (boss_bgm_part=main).txtp"
+    path: "b_battle_ultimate-boss_bgm_part_main-.txtp"
     type: battle
   - id: showdown_with_z_act_1
     title: "Showdown With Z, Act 1"
-    path: "bgm_play (battle=z01).txtp"
+    path: "b_battle_z01-.txtp"
     type: battle
   - id: showdown_with_z_act_2
     title: "Showdown With Z, Act 2"
-    path: "bgm_play (battle=z02).txtp"
+    path: "b_battle_z02-.txtp"
     type: battle
   - id: immediate_threat_climax_xc3
     title: "Immediate Threat (Climax)"
-    path: "bgm_play (field=b1090) (boss_bgm_part=climax).txtp"
+    path: "b_field_b1090-boss_bgm_part_climax-.txtp"
     type: result
   - id: immediate_threat_xc3
     title: "Immediate Threat"
-    path: "bgm_play (field=b1090).txtp"
+    path: "b_field_b1090-.txtp"
     type: battle
   - id: melia_ancient_memories
     title: "Melia - Ancient Memories"
-    path: "bgm_play (field=e440).txtp"
+    path: "b_field_e440-.txtp"
     type: break
   - id: nia_toward_the_heavens
     title: "Nia - Toward the Heavens"
-    path: "bgm_play (field=e450).txtp" 
+    path: "b_field_e450-.txtp" 
     type: break
   - id: agnus_colony
     title: "Agnus Colony"
-    path: "bgm_play (field=c020)(battle=none) (time_zone=daytime).txtp"
+    path: "b_field_c020_battle_none-time_zone_daytime-.txtp"
     type: break
   - id: moebius_battle
     title: "Moebius Battle"
-    path: "bgm_play (field=b1101).txtp"
+    path: "b_field_b1101-.txtp"
     type: battle
   - id: moebius_interlink_climax
     title: "Moebius Interlink (Climax)"
-    path: "bgm_play (field=b1102) (boss_bgm_part=climax)(bgm_endpart=action).txtp"
+    path: "b_field_b1102-boss_bgm_part_climax_bgm_endpart_action-.txtp"
     type: result
   - id: moebius_interlink_climax_sad
     title: "Moebius Interlink (Climax - Sad)"
-    path: "bgm_play (field=b1102) (boss_bgm_part=climax)(bgm_endpart=sad).txtp"
+    path: "b_field_b1102-boss_bgm_part_climax_bgm_endpart_sad-.txtp"
     type: warning
   - id: moebius_interlink
     title: "Moebius Interlink"
-    path: "bgm_play (field=b1102) (boss_bgm_part=main).txtp"
+    path: "b_field_b1102-boss_bgm_part_main-.txtp"
     type: battle
   - id: moebius_battle_m
     title: "Moebius Battle/M"
-    path: "bgm_play (field=b1103).txtp"
+    path: "b_field_b1103-.txtp"
     type: battle
   - id: moebius_battle_m_phase_2
     title: "Moebius Battle/M (Phase 2)"
-    path: "bgm_play (field=b1104) (boss_bgm_part=main).txtp"
+    path: "b_field_b1104-boss_bgm_part_main-.txtp"
     type: battle
   - id: moebius_battle_m_phase_2_climax
-    title: "Moebius Battle/M (Phase 2) (Climax)"
-    path: "bgm_play (field=b1104) (boss_bgm_part=climax).txtp"
+    title: "Moebius Battle/M (Phase 2 - Climax)"
+    path: "b_field_b1104-boss_bgm_part_climax-.txtp"
     type: battle
   - id: tactical_action
     title: "Tactical Action"
-    path: "bgm_play (field=c000)(battle=normal).txtp"
+    path: "b_field_c000_battle_normal-.txtp"
     type: battle
   - id: keves_colony
     title: "Keves Colony"
-    path: "bgm_play (field=c010)(battle=none) (time_zone=daytime).txtp"
+    path: "b_field_c010_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: soldier_s_paean
     title: "Soldier's Paean"
-    path: "bgm_play (field=c011)(battle=none).txtp"
+    path: "b_field_c011_battle_none-.txtp"
     type: betting
   - id: hostile_colony
     title: "Hostile Colony"
-    path: "bgm_play (field=c030)(battle=none).txtp"
+    path: "b_field_c030_battle_none-.txtp"
     type: warning
   - id: hostile_colony_battle
     title: "Hostile Colony (Battle)"
-    path: "bgm_play (field=c030)(battle=normal).txtp"
+    path: "b_field_c030_battle_normal-.txtp"
     type: battle
   - id: mysterious_land_xc3
     title: "Mysterious Land"
-    path: "bgm_play (field=c050)(battle=none).txtp"
+    path: "b_field_c050_battle_none-.txtp"
     type: break
   - id: the_weight_of_life
     title: "The Weight of Life"
-    path: "bgm_play (field=e310).txtp"
+    path: "b_field_e310-.txtp"
     type: betting
   - id: grand_theater_of_life
     title: "Grand Theater of Life"
-    path: "bgm_play (field=e410).txtp"
+    path: "b_field_e410-.txtp"
     type: betting
   - id: iris_network
     title: "Iris Netework"
-    path: "bgm_play (field=menu).txtp"
+    path: "b_field_menu-.txtp"
     type: break
   - id: off_seer
     title: "Off-seer"
-    path: "bgm_play (field=title).txtp"
+    path: "b_field_title-.txtp"
     type: break
   - id: agnus_castle
     title: "Agnus Castle"
-    path: "bgm_play (map=ma14a)(field=f141)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma14a_field_f141_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: keves_castle
     title: "Keves Castle"
-    path: "bgm_play (map=ma09a)(field=f101)(battle=none).txtp"
+    path: "b_map_ma09a_field_f101_battle_none-.txtp"
     type: warning
   - id: keves_castle_battle
     title: "Keves Castle (Battle)"
-    path: "bgm_play (map=ma09a)(field=f101)(battle=normal).txtp"
+    path: "b_map_ma09a_field_f101_battle_normal-.txtp"
     type: battle
   - id: fort_o_virbus_daytime
     title: "Fort O'Virbus"
-    path: "bgm_play (map=ma09a)(field=f102)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma09a_field_f102_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: fort_o_virbus_night
     title: "Fort O'Virbus/Night"
-    path: "bgm_play (map=ma09a)(field=f102)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma09a_field_f102_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: origin_upper_reaches_xc3
     title: "Origin Upper Reaches"
-    path: "bgm_play (map=ma17a)(field=none)(battle=none).txtp"
+    path: "b_map_ma17a_field_none_battle_none-.txtp"
     type: betting
   - id: origin_battle_xc3
     title: "Origin Battle"
-    path: "bgm_play (map=ma01a)(field=c000)(battle=boss).txtp"
+    path: "b_map_ma01a_field_c000_battle_boss-.txtp"
     type: battle
   - id: urayan_tunnels
     title: "Urayan Tunnels"
-    path: "bgm_play (map=ma07a)(field=f061)(battle=none).txtp"
+    path: "b_map_ma07a_field_f061_battle_none-.txtp"
     type: betting
   - id: maktha_wildwood
     title: "Maktha Wildwood"
-    path: "bgm_play (map=ma07a)(field=f081)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma07a_field_f081_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: maktha_wildwood_night
     title: "Maktha Wildwood/Night"
-    path: "bgm_play (map=ma07a)(field=f081)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma07a_field_f081_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: great_cotte_falls
     title: "Great Cotte Falls"
-    path: "bgm_play (map=ma07a)(field=f071)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma07a_field_f071_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: great_cotte_falls_night
     title: "Great Cotte Falls/Night"
-    path: "bgm_play (map=ma07a)(field=f071)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma07a_field_f071_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: sailing_the_seas
     title: "Sailing the Seas"
-    path: "bgm_play (map=ma11a)(field=f112)(battle=none).txtp"
+    path: "b_map_ma11a_field_f112_battle_none-.txtp"
     type: betting
   - id: the_great_sea_stirs
     title: "The Great Sea Stirs"
-    path: "bgm_play (map=ma11a)(field=f113)(battle=none).txtp"
+    path: "b_map_ma11a_field_f113_battle_none-.txtp"
     type: betting
   - id: dannagh_desert
     title: "Dannagh Desert"
-    path: "bgm_play (map=ma04a)(field=f042)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma04a_field_f042_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: dannagh_desert_night
     title: "Dannagh Desert/Night"
-    path: "bgm_play (map=ma04a)(field=f042)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma04a_field_f042_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: elaice_highway
     title: "Elaice Highway"
-    path: "bgm_play (map=ma04a)(field=f043)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma04a_field_f043_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: elaice_highway_night
     title: "Elaice Highway/Night"
-    path: "bgm_play (map=ma04a)(field=f043)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma04a_field_f043_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: ribbi_flats
     title: "Ribbi Flats"
-    path: "bgm_play (map=ma04a)(field=f044)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma04a_field_f044_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: ribbi_flats_night
     title: "Ribbi Flats/Night"
-    path: "bgm_play (map=ma04a)(field=f044)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma04a_field_f044_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: alfeto_valley
     title: "Alfeto Valley"
-    path: "bgm_play (map=ma01a)(field=f012)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma01a_field_f012_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: alfeto_valley_night
     title: "Alfeto Valley/Night"
-    path: "bgm_play (map=ma01a)(field=f012)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma01a_field_f012_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: millick_meadows
     title: "Millick Meadows"
-    path: "bgm_play (map=ma01a)(field=f013)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma01a_field_f013_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: cloudkeep_xc3
     title: "Cloudkeep"
-    path: "bgm_play (map=ma01a)(field=f031)(battle=none).txtp"
+    path: "b_map_ma01a_field_f031_battle_none-.txtp"
     type: break
   - id: everblight_plain
     title: "Everblight Plain"
-    path: "bgm_play (map=ma01a)(field=f011)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma01a_field_f011_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: everblight_plain_night
     title: "Everblight Plain/Night"
-    path: "bgm_play (map=ma01a)(field=f011)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma01a_field_f011_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: city_xc3
     title: "City"
-    path: "bgm_play (map=ma11a)(field=f161)(battle=none) (time_zone=daytime).txtp"
+    path: "b_map_ma11a_field_f161_battle_none-time_zone_daytime-.txtp"
     type: betting
   - id: city_night_xc3
     title: "City/Night"
-    path: "bgm_play (map=ma11a)(field=f161)(battle=none) (time_zone=nighttime).txtp"
+    path: "b_map_ma11a_field_f161_battle_none-time_zone_nighttime-.txtp"
     type: break
   - id: young_warriors
     title: "Young Warriors"
-    path: "bgm_play (field=e260).txtp"
+    path: "b_field_e260-.txtp"
     ends: 3:16
     type: betting
   - id: a_formidable_enemy
     title: "A Formidable Enemy"
-    path: "bgm_play (battle=roll).txtp"
+    path: "b_battle_roll-.txtp"
     type: battle
   - id: ouroboros_awakening
     title: "Ouroboros Awakening"
-    path: "bgm_play (field=e370).txtp"
+    path: "b_field_e370-.txtp"
     ends: 2:36
     type: betting
   - id: a_life_sent_on
     title: "A Life Sent On"
-    path: "bgm_play (field=e020_duo).txtp"
+    path: "b_field_e020_duo-.txtp"
     ends: 1:47
     type: betting
   - id: ferronis
     title: "Ferronis"
-    path: "bgm_play (field=e360).txtp"
+    path: "b_field_e360-.txtp"
     type: betting
   - id: everyday_life_xc3
     title: "Everyday Life"
-    path: "bgm_play (field=e180).txtp"
+    path: "b_field_e180-.txtp"
     type: result
   - id: lost_days_of_warmth
     title: "Lost Days of Warmth"
-    path: "bgm_play (field=e140).txtp"
+    path: "b_field_e140-.txtp"
     type: break
   - id: li_garte_prison_camp
     title: "Li Garte Prison Camp"
-    path: "bgm_play (map=ma11a)(field=f121)(battle=none).txtp"
+    path: "b_map_ma11a_field_f121_battle_none-.txtp"
     type: betting
   - id: a_step_away
     title: "A Step Away"
-    path: "bgm_play (field=e490).txtp"
+    path: "b_field_e490-.txtp"
     ends: 3:04
     type: betting
   - id: feelings_risen_to_the_sky
     title: "Feelings Risen to the Sky"
-    path: "bgm_play (field=e070).txtp"
+    path: "b_field_e070-.txtp"
     ends: 3:19
     type: betting
   - id: converging_emotions
     title: "Converging Emotions"
-    path: "bgm_play (field=e290).txtp"
+    path: "b_field_e290-.txtp"
     type: result
   - id: feelings_upon_this_melody
     title: "Feelings Upon This Melody"
-    path: "bgm_play (field=e040).txtp"
+    path: "b_field_e040-.txtp"
     type: break
   - id: origin_ascending
     title: "Origin Ascending"
-    path: "bgm_play (field=e400).txtp"
+    path: "b_field_e400-.txtp"
     ends: 3:19
     type: betting
   - id: origin_depths
     title: "Origin Depths"
-    path: "bgm_play (map=ma17a)(field=f171b)(battle=none).txtp"
+    path: "b_map_ma17a_field_f171b_battle_none-.txtp"
     ends: 2:57
     type: betting
   - id: origin_depths_section_a
     title: "Origin Depths (Section A)"
-    path: "bgm_play (map=ma17a)(field=f171a)(battle=none).txtp"
+    path: "b_map_ma17a_field_f171a_battle_none-.txtp"
     ends: 2:57
     type: betting
   - id: z_harbinger_of_the_end
     title: "Z - Harbinger of the End"
-    path: "bgm_play (field=e420).txtp"
+    path: "b_field_e420-.txtp"
     ends: 2:19
     type: betting
   - id: the_two_queens_of_aionios
     title: "The Two Queens of Aionios"
-    path: "bgm_play (field=e300).txtp"
+    path: "b_field_e300-.txtp"
     ends: 2:36
     type: betting
   - id: congregating_lives
     title: "Congregating Lives"
-    path: "bgm_play (field=e470).txtp"
+    path: "b_field_e470-.txtp"
     type: betting
   - id: how_the_future_endures
     title: "How The Future Endures"
-    path: "bgm_play (field=e480).txtp"
+    path: "b_field_e480-.txtp"
     type: warning
   - id: where_we_belong
     title: "Where We Belong"
-    path: "bgm_play (field=e500).txtp"
+    path: "b_field_e500-.txtp"
     ends: 3:15
     type: betting
   - id: something_s_beginning_to_move
     title: "Something's Beginning to Move"
-    path: "bgm_play (field=e460).txtp"
+    path: "b_field_e460-.txtp"
     type: break
   # - id: end_credits_xc3
     # title: "End Credits"
-    # path: "bgm_play (field=e440).txtp" #Copy of Melia - Ancient Memories? tabling for now
+    # path: "b_field_e440-.txtp" #Copy of Melia - Ancient Memories? tabling for now
     # type: break
 ...
