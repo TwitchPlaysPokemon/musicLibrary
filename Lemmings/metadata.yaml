@@ -1,0 +1,40 @@
+---
+id: lemmings
+title: "Lemmings [PC-98]"
+series: lemmings
+platform: "Various"
+year: 1991
+songs: 
+  - id: she_ll_be_coming_round_the_mountain_when_she_comes
+    title: "She'll Be Coming 'Round The Mountain When She Comes"
+    path: "05 She'll Be Coming 'Round The Mountain When She Comes.vgz"
+    type: betting
+  - id: ten_lemmings
+    title: "Ten Lemmings"
+    path: "06 Ten Lemmings.vgz"
+    type: betting
+  - id: can_can_lemmings
+    title: "Can-Can"
+    path: "07 Can-Can.vgz"
+    type: warning
+  - id: dance_of_the_reed_flutes
+    title: "Dance of the Reed-Flutes"
+    path: "13 Dance of the Reed-Flutes.vgz"
+    type: betting
+  - id: ronda_alla_turca
+    title: "Ronda Alla Turca"
+    path: "14 Ronda Alla Turca.vgz"
+    type: betting
+  - id: dance_of_the_four_little_swans
+    title: "Dance Of The Four Little Swans"
+    path: "15 Dance Of The Four Little Swans.vgz"
+    type: warning
+  - id: london_bridge_is_falling_down
+    title: "London Bridge Is Falling Down"
+    path: "16 London Bridge Is Falling Down.vgz"
+    type: result
+  - id: forest_green_lemmings
+    title: "Forest Green"
+    path: "17 Forest Green.vgz"
+    type: betting
+...

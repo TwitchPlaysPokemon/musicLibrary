@@ -13,4 +13,104 @@ songs:
     title: "Zalbag, the Holy Knight"
     path: "138 Zalbag, the Holy Knight.psf"
     type: betting
+  - id: trisection
+    title: "Trisection"
+    path: "109 Trisection.psf"
+    type: battle
+  - id: run_past_through_the_plain
+    title: "Run Past Through the Plain"
+    path: "139 Run Past Through the Plain.psf"
+    type: battle
+  - id: remnants_fft
+    title: "Remnants"
+    path: "130 Remnants.psf"
+    type: betting
+  - id: pub_fft
+    title: "Pub"
+    path: "123 Pub.psf"
+    type: result
+  - id: hero_s_theme_fft
+    title: "Hero's Theme"
+    path: "114 Hero's Theme.psf"
+    type: betting
+  - id: enemy_attack_fft
+    title: "Enemy Attack"
+    path: "108 Enemy Attack.psf"
+    type: battle
+  - id: decisive_battle_fft
+    title: "Decisive Battle"
+    path: "128 Decisive Battle.psf"
+    type: battle
+  - id: battle_on_the_bridge_fft
+    title: "Battle on the Bridge"
+    path: "211 Battle on the Bridge.psf"
+    type: battle
+  - id: attack_team
+    title: "Attack Team"
+    path: "111 Attack Team.psf"
+    type: betting
+  - id: shop_fft
+    title: "Shop"
+    path: "118 Shop.psf"
+    type: betting
+  - id: unavoidable_battle
+    title: "Unavoidable Battle"
+    path: "112 Unavoidable Battle.psf"
+    type: battle
+  - id: mission_complete_fft
+    title: "Mission Complete"
+    path: "113 Mission Complete.psf"
+    type: result
+  - id: data_screen_fft
+    title: "Data Screen"
+    path: "124 Data Screen.psf"
+    type: break
+  - id: tutorial_fft
+    title: "Tutorial"
+    path: "134 Tutorial.psf"
+    type: betting
+  - id: apoplexy
+    title: "Apoplexy"
+    path: "137 Apoplexy (OST extended version).psf"
+    type: warning
+  - id: antipyretic
+    title: "Antipyretic"
+    path: "203 Antipyretic.psf"
+    type: warning
+  - id: bloody_excrement
+    title: "Bloody Excrement"
+    path: "205 Bloody Excrement.psf"
+    type: warning
+  - id: shock_failure
+    title: "Shock!! ~ Failure"
+    path: "214 Shock!! ~ Failure.psf"
+    type: result
+  - id: the_impure
+    title: "The Impure"
+    path: "219 The Impure.psf"
+    type: battle
+  - id: antidote
+    title: "Antidote"
+    path: "220 Antidote.psf"
+    type: betting
+  - id: final_report
+    title: "Final Report"
+    path: "910 Final Report.psf"
+    type: result
+  - id: nogias
+    title: "NOGIAS"
+    path: "997 NOGIAS.psf"
+    type: warning
+  - id: sky_travel
+    title: "Sky Travel"
+    path: "991 Sky Travel.psf"
+    type: result
+  - id: ultema_the_nice_body
+    title: "Ultema, the Nice Body"
+    path: "225 Ultema, the Nice Body.psf"
+    type: battle
+  - id: ultema_the_perfect_body
+    title: "Ultema, the Perfect Body"
+    path: "226 Ultema, the Perfect Body.psf"
+    type: battle
 ...

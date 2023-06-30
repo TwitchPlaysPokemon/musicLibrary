@@ -3,8 +3,13 @@ id: the_aether
 title: "The Aether"
 platform: "PC"
 year: 2011
+#two new brstms and some song replacements for prior tracks (better volume adjustments or looping I guess?)
 songs: 
-  - id: approaches
+  - id: aerwhale
+    title: "Aerwhale"
+    path: "Aerwhale.brstm"
+    type: betting
+  - id: approaches_aether
     title: "Approaches"
     path: "Approaches Emile van Krieken.brstm"
     type: betting
@@ -12,9 +17,13 @@ songs:
     title: "Ascending Dawn"
     path: "Ascending Dawn Emile van Krieken.brstm"
     type: betting
-  - id: clouds
+  - id: clouds_aether
     title: "Clouds"
     path: "Clouds Emile van Krieken.brstm"
+    type: betting
+  - id: demise_aether
+    title: "Demise"
+    path: "Demise.brstm"
     type: betting
   - id: meadow_aether_3
     title: "Meadow (Aether 3)"

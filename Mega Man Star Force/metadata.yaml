@@ -8,4 +8,24 @@ songs:
     title: "Homeroom"
     path: "05 Homeroom.mini2sf"
     type: betting
+  - id: shooting_star_mmsf
+    title: "Shooting Star"
+    path: "01 Title.strm"
+    type: battle
+  - id: ride_on_mmsf
+    title: "Ride On"
+    path: "25 Ride On.mini2sf"
+    type: battle
+  - id: incident_occurrence_mmsf
+    title: "Incident Occurrence!!"
+    path: "22 Incident!!.mini2sf"
+    type: warning
+  - id: winner_mmsf
+    title: "Winner!"
+    path: "28 Winner!.mini2sf"
+    type: result
+  - id: loser_mmsf
+    title: "Loser..."
+    path: "29 Loser....mini2sf"
+    type: result
 ...

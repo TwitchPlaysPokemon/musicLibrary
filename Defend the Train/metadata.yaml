@@ -1,0 +1,40 @@
+---
+id: defend_the_train
+title: "Defend The Train"
+series: roblox
+platform: "Various"
+year: 2020
+songs:
+  - id: shop_defend_the_train
+    title: "Shop"
+    path: "Shop.logg"
+    type: break
+  - id: first_wave_defend_the_train
+    title: "First Wave"
+    path: "First Wave.logg"
+    type: betting
+  - id: final_stretch_defend_the_train
+    title: "Final Stretch"
+    path: "Final Stretch.logg"
+    type: betting
+  - id: kazotsky
+    title: "Kazotsky"
+    path: "Kazotsky.brstm"
+    type: betting
+  - id: main_theme_defend_the_train
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: special_wave
+    title: "Special Wave"
+    path: "Special Wave.brstm"
+    type: betting
+  - id: bandit_queen
+    title: "Bandit Queen"
+    path: "Bandit Queen.brstm"
+    type: battle
+  - id: bandit_queen_phase_two
+    title: "Bandit Queen Phase Two"
+    path: "Bandit Queen Phase Two.brstm"
+    type: battle
+...

@@ -5,12 +5,148 @@ series: zelda
 platform: "NDS"
 year: 2007
 songs: 
+  - id: title_phantom_hourglass
+    title: "Title"
+    path: "001 Title.mini2sf"
+    type: betting
+  - id: file_select_phantom_hourglass
+    title: "File Select"
+    path: "002 File Select.mini2sf"
+    type: break
+  - id: tetra_s_pirates
+    title: "Tetra's Pirates"
+    path: "009 Tetra's Pirates.mini2sf"
+    type: betting
+  - id: mercay_island
+    title: "Mercay Island"
+    path: "013 Mercay Island.mini2sf"
+    type: betting
+  - id: house_phantom_hourglass
+    title: "House"
+    path: "014 House.mini2sf"
+    type: betting
+  - id: oshus_s_theme
+    title: "Oshus's Theme"
+    path: "015 Oshus's Theme.mini2sf"
+    type: betting
+  - id: mysterious_cave_phantom_hourglass
+    title: "Mysterious Cave"
+    path: "017 Mysterious Cave.mini2sf"
+    type: warning
+  - id: danger_monsters_ahead
+    title: "Danger! Monsters Ahead!"
+    path: "018 Danger! Monsters Ahead!.mini2sf"
+    type: warning
+  - id: sword_training_targeted_attack
+    title: "Sword Training - Targeted Attack"
+    path: "020 Sword Training - Targeted Attack.mini2sf"
+    type: warning
+  - id: sword_training_a
+    title: "Sword Training A"
+    path: "021 Sword Training A.mini2sf"
+    type: warning
+  - id: dungeon_phantom_hourglass
+    title: "Dungeon"
+    path: "031 Dungeon.mini2sf"
+    type: warning
+  - id: linebeck_s_theme
+    title: "Linebeck's Theme"
+    path: "033 Linebeck's Theme.mini2sf"
+    type: betting
+  - id: ocean_phantom_hourglass
+    title: "Ocean"
+    path: "036 Ocean.mini2sf"
+    type: betting
+  - id: beedle_s_shop_ship
+    title: "Beedle's Shop Ship"
+    path: "037 Beedle's Shop Ship.mini2sf"
+    type: break
+  - id: astrid_s_house
+    title: "Astrid's House"
+    path: "038 Astrid's House.mini2sf"
+    type: break
+  - id: battle_phantom_hourglass
+    title: "Battle"
+    path: "039 Battle.mini2sf"
+    type: warning
+  - id: boss_battle_phantom_hourglass
+    title: "Boss Battle"
+    path: "041 Boss Battle.mini2sf"
+    type: warning
+  - id: spirit_freed
+    title: "Spirit Freed"
+    path: "042 Spirit Freed.mini2sf"
+    type: warning
+  - id: phantoms_in_pursuit
+    title: "Phantoms In Pursuit"
+    path: "048 Phantoms In Pursuit.mini2sf"
+    type: warning
   - id: the_ghost_ship
     title: "The Ghost Ship"
     path: "051 The Ghost Ship.mini2sf"
+    type: warning
+  - id: sand_of_hours
+    title: "Sand of Hours"
+    path: "053 Sand of Hours.mini2sf"
+    type: break
+  - id: salvatore_s_cannon_game
+    title: "Salvatore's Cannon Game"
+    path: "055 Salvatore's Cannon Game.mini2sf"
+    type: betting
+  - id: maritime_battle
+    title: "Maritime Battle"
+    path: "058 Maritime Battle.mini2sf"
+    type: warning
+  - id: ciela_the_spirit_of_courage
+    title: "Ciela, The Spirit of Courage"
+    path: "061 Ciela, The Spirit of Courage.mini2sf"
+    type: betting
+  - id: the_she_pirate_jolene
+    title: "The She-Pirate, Jolene"
+    path: "062 The She-Pirate, Jolene.mini2sf"
+    type: warning
+  - id: goron_island
+    title: "Goron Island"
+    path: "070 Goron Island.mini2sf"
+    type: betting
+  - id: goron_house
+    title: "Goron House"
+    path: "071 Goron House.mini2sf"
+    type: betting
+  - id: bellum_battle
+    title: "Bellum Battle"
+    path: "081 Bellum Battle.mini2sf"
+    type: battle
+  - id: tetra_s_theme_phantom_hourglass
+    title: "Tetra's Theme"
+    path: "086 Tetra's Theme.mini2sf"
+    type: result
+  - id: bellum_s_theme
+    title: "Bellum's Theme"
+    path: "088 Bellum's Theme.mini2sf"
+    type: warning
+  - id: ghost_ship_battle
+    title: "Ghost Ship Battle"
+    path: "089 Ghost Ship Battle.mini2sf"
+    type: battle
+  - id: wake_up_link
+    title: "Wake Up, Link!"
+    path: "091 Wake Up, Link!.mini2sf"
     type: warning
   - id: phantom_linebeck_battle
     title: "Phantom Linebeck Battle"
     path: "094 Phantom Linebeck Battle.mini2sf"
     type: battle
+  - id: ocean_king_s_theme
+    title: "Ocean King's Theme"
+    path: "096 Ocean King's Theme.strm"
+    type: betting
+  - id: ciela_s_parting_words
+    title: "Ciela's Parting Words"
+    path: "097 Ciela's Parting Words.strm"
+    type: break
+  - id: staff_roll_phantom_hourglass
+    title: "Staff Roll"
+    path: "099 Staff Roll.mini2sf"
+    type: betting
 ...

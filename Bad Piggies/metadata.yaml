@@ -1,0 +1,24 @@
+---
+id: bad_piggies
+title: "Bad Piggies"
+platform: ["PC", "Mobile"]
+year: 2012
+songs:
+  - id: bad_piggies_theme
+    title: "Bad Piggies Theme"
+    path: "Bad Piggies Theme.brstm"
+    type: result
+  - id: cake_race
+    title: "Cake Race"
+    path: "Cake Race.brstm"
+    type: betting
+  - id: courtroom_bad_piggies
+    title: "Courtroom"
+    path: "Courtroom.brstm"
+    type: betting
+  - id: shuffle_and_spawn
+    title: "Shuffle and Spawn"
+    path: "Shuffle and Spawn.brstm"
+    ends: 3:15
+    type: betting
+...

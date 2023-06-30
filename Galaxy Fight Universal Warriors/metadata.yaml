@@ -4,6 +4,10 @@ title: "Galaxy Fight: Universal Warriors"
 platform: "Various"
 year: 1995
 songs: 
+  - id: here_we_go_galaxy_fight
+    title: "Here We Go!"
+    path: "03 Here We Go! (Character Select).vgm"
+    type: warning
   - id: power_of_fire_rolf_stage
     title: "Power of Fire (Rolf Stage)"
     path: "05 Power Of Fire.vgz"
@@ -16,6 +20,10 @@ songs:
     title: "Eternal Beauty Forever (Juri Stage)"
     path: "09 Eternal Beauty Forever.vgz"
     type: battle
+  - id: are_you_listening
+    title: "Are You Listening?"
+    path: "11 Are You Listening (Roomi - Planet Lutecia).vgm"
+    type: betting
   - id: ancient_wrath_gunter_stage
     title: "Ancient Wrath (Gunter Stage)"
     path: "13 Ancient Wrath.vgz"

@@ -8,16 +8,33 @@ songs:
   - id: frosted_glacier_map
     title: "Frosted Glacier Map"
     path: "Frosted Glacier Map.brstm"
-    tags: [xmas]
     type: result
   - id: snow_overworld_baby_yoshi
     title: "Snow Overworld (Baby Yoshi)"
     path: "Snow Overworld (Baby Yoshi).brstm"
-    tags: [xmas]
     type: betting
   - id: snow_overworld
     title: "Snow Overworld"
     path: "Snow Overworld.brstm"
-    tags: [xmas]
     type: betting
+  - id: acorn_plains
+    title: "Acorn Plains"
+    path: "Overworld.brstm"
+    type: betting
+  - id: peach_s_castle_map
+    title: "Peach's Castle Map"
+    path: "Peach's Castle Map.brstm"
+    type: warning
+  - id: superstar_road_map
+    title: "Superstar Road Map"
+    path: "Superstar Road Map.brstm"
+    type: result
+  - id: the_final_battle_nsmbu
+    title: "The Final Battle"
+    path: "The Final Battle (Stage).brstm"
+    type: warning
+  - id: coin_battle_edit_coins
+    title: "Coin Battle - Edit Coins"
+    path: "Coin Battle - Edit Coins.brstm"
+    type: break
 ...

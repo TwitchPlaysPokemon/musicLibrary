@@ -14,8 +14,32 @@ songs:
     title: "Launcher Menu"
     path: "Launcher Menu.brstm"
     type: betting
-  - id: bowsers_castle
+  - id: bowsers_castle_ver_m
     title: "Bowser's Castle ver. M"
     path: "Bowser's Castle ver. M.brstm"
     type: battle
+  - id: project_m_main_theme
+    title: "Project M Main Theme"
+    path: "Project M Main Theme.brstm"
+    type: betting
+  - id: animal_crossing_ver_m
+    title: "Animal Crossing ver. M"
+    path: "Animal Crossing ver. M.brstm"
+    type: betting
+  - id: bad_mario
+    title: "Bad Mario"
+    path: "Bad Mario.brstm"
+    type: betting
+  - id: delfino_s_secret_project_m
+    title: "Delfino's Secret"
+    path: "Delfino's Secret.brstm"
+    type: betting
+  - id: autumn_s_fading_sun_ver_3_5_trailer_theme
+    title: "Autumn's Fading Sun - ver. 3.5 Trailer Theme"
+    path: "Autumn's Fading Sun - Project M 3.5 Trailer Theme.brstm"
+    type: betting
+  - id: hanenbow_ver_m
+    title: "Hanenbow ver. M"
+    path: "Hanenbow by Garrett Williamson (feat. Adam Kirby and Audio Selah).brstm"
+    type: betting
 ...

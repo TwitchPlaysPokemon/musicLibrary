@@ -107,4 +107,36 @@ songs:
     title: "Unexpectancy (Part 3 of 3)"
     path: "mu_pizzahead3.brstm"
     type: battle
+  - id: hmm_look_what_u_done_did_you_found_a_secret
+    title: "hmmm look what u done did you found a secret :)"
+    path: "hmmm look what u done did you found a secret.brstm"
+    type: break
+  - id: a_secret_in_the_chicken
+    title: "A Secret In The Chicken"
+    path: "A Secret In The Chicken.brstm"
+    type: result
+  - id: hot_spaghetti
+    title: "Hot Spaghetti"
+    path: "Hot Spaghetti.brstm"
+    type: betting
+  - id: a_fecal_secret
+    title: "A Fecal Secret"
+    path: "A Fecal Secret.brstm"
+    type: break
+  - id: mondays
+    title: "Mondays"
+    path: "Mondays.brstm"
+    type: warning
+  - id: pizza_time_never_ends
+    title: "Pizza Time Never Ends"
+    path: "Pizza Time Never Ends.brstm" #a bit too long an opening for battle? dunno
+    type: battle
+  - id: tropical_crust
+    title: "Tropical Crust"
+    path: "Tropical Crust.brstm"
+    type: betting
+  - id: tubular_trash_zone
+    title: "Tubular Trash Zone"
+    path: "Tubular Trash Zone.brstm"
+    type: betting
 ...

@@ -8,4 +8,10 @@ songs:
     title: "Tuxedo Snake"
     path: "Tuxedo Snake.brstm"
     type: betting
+    #apparently this is a track in the game. End of External Gazer. Yeah I know
+  - id: next_generation_ume_feat_scott_dolph
+    title: "Next Generation (UME) feat. Scott Dolph"
+    path: "Next Generation (UME) feat. Scott Dolph.brstm"
+    ends: 1:38
+    type: betting
 ...

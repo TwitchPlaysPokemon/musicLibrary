@@ -1,0 +1,52 @@
+---
+id: roommania203
+title: "ROOMMANIA#203"
+platform: ["DC", "PS2"]
+year: 2000
+songs: 
+  - id: spiral_da_hi
+    title: "spiral da-hi!"
+    path: "CD_10.adx"
+    ends: 2:28
+    type: betting
+  - id: which_one_of_the_twins
+    title: "which one of the twins ?"
+    path: "CD_11.adx"
+    ends: 3:01
+    type: betting
+  - id: time_is_flowing_slowly
+    title: "time is flowing slowly"
+    path: "CD_12.adx"
+    type: break
+  - id: manamoon
+    title: "manamoon"
+    path: "CD_13.adx"
+    ends: 2:20
+    type: betting
+  - id: no_128
+    title: "no.128"
+    path: "CD_14.adx"
+    type: break
+  - id: octopus_daughter
+    title: "octopus daughter"
+    path: "CD_15.adx"
+    type: break
+  - id: a_huge_pocket_in_space
+    title: "a huge pocket in space"
+    path: "CD_16.adx"
+    type: break
+  - id: fifteen_seconds
+    title: "fifteen seconds"
+    path: "CD_17.adx"
+    ends: 2:45
+    type: betting
+  - id: my_love_marshmallow
+    title: "my love, marshmallow"
+    path: "CD_18.adx"
+    ends: 3:12
+    type: betting
+  - id: looking_up_the_blue_sky
+    title: "looking up the blue sky"
+    path: "CD_19.adx"
+    type: break
+...

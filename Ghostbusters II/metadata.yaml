@@ -1,0 +1,26 @@
+id: ghostbusters_ii
+title: "Ghostbusters II"
+year: 1990
+platform: "NES"
+songs:
+  - id: main_theme_ghostbusters_ii
+    title: "Main Theme"
+    path: "01 Ghostbusters Theme (Opening, Scenes 1, 3, 5 & 7, Credits).vgz"
+    type: betting
+  - id: vigo_the_carpathian
+    title: "Vigo the Carpathian"
+    path: "02 Vigo the Carpathian (Cutscene).vgz"
+    type: warning
+  - id: menu_ghostbusters_ii
+    title: "Menu"
+    path: "03 Menu.vgz"
+    type: break
+  - id: driving_the_ecto_1
+    title: "Driving the Ecto-1"
+    path: "04 Driving the Ecto-1 (Scenes 2 & 4 - Hitting the Road, Ghosts in the Park).vgz"
+    type: betting
+  - id: higher_and_higher
+    title: "Higher and Higher"
+    path: "05 Higher and Higher (Scene 6 - Statue of Liberty Strikes Back).vgz"
+    type: betting
+...

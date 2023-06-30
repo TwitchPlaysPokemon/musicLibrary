@@ -45,4 +45,57 @@ songs:
     title: "Theme of Ryu"
     path: "Theme of Ryu.brstm"
     type: battle
+#new songs. Normally I would just use the raw files for these and the above, but I checked VGM and the whole thing is like 5GB. Yeah no
+  - id: theme_of_balrog_sfv
+    title: "Theme of Balrog"
+    path: "Theme of Balrog.brstm"
+    type: battle
+  - id: theme_of_cammy_sfv
+    title: "Theme of Cammy"
+    path: "Theme of Cammy.brstm"
+    type: battle
+  - id: theme_of_gill_sfv
+    title: "Theme of Gill"
+    path: "Theme of Gill.brstm"
+    type: battle
+  - id: theme_of_ibuki_sfv
+    title: "Theme of Ibuki"
+    path: "Theme of Ibuki.brstm"
+    type: betting
+  - id: theme_of_karin_sfv
+    title: "Theme of Karin"
+    path: "Theme of Karin.brstm"
+    type: betting
+  - id: air_force_base_sfv
+    title: "Air Force Base"
+    path: "Air Force Base.brstm"
+    type: betting
+  - id: bustling_side_street_round_1
+    title: "Bustling Side Street - Round 1"
+    path: "Bustling Side Street - Round 1.brstm"
+    type: betting
+  - id: high_roller_casino
+    title: "High Roller Casino"
+    path: "High Roller Casino.brstm"
+    type: betting
+  - id: kanzuki_beach_round_1
+    title: "Kanzuki Beach - Round 1"
+    path: "Kanzuki Beach - Round 1.brstm"
+    type: betting
+  - id: kanzuki_beach_round_2
+    title: "Kanzuki Beach - Round 2"
+    path: "Kanzuki Beach - Round 2.brstm"
+    type: battle
+  - id: ring_of_destiny_round_1
+    title: "Ring of Destiny - Round 1"
+    path: "Ring of Destiny - Round 1.brstm"
+    type: battle
+  - id: results_sfv
+    title: "Results"
+    path: "Results.brstm"
+    type: result
+  - id: survival_clear_sfv
+    title: "Survival Clear"
+    path: "Survival Clear.brstm"
+    type: result
 ...

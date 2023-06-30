@@ -1,0 +1,97 @@
+---
+id: axiom_verge_2
+title: "Axiom Verge 2"
+platform: ["PC", "Switch", "PS4", "PS5"]
+year: 2021
+#for some reason, the .txtps don't loop? weird
+songs:
+  - id: omni
+    title: "Omni"
+    path: "AV2_8AggressiveLooped.txtp"
+    type: betting
+  - id: indra_s_discovery
+    title: "Indra's Discovery"
+    path: "AV2_11Looped.txtp"
+    type: betting
+  - id: ancient_armaments
+    title: "Ancient Armaments"
+    path: "AV2_4Looped.txtp"
+    type: betting
+  - id: stranded
+    title: "Stranded"
+    path: "AV2_2Looped.txtp"
+    type: betting
+  - id: silver_pipes
+    title: "Silver Pipes"
+    path: "AV2_3_MayssaLooped.txtp"
+    type: break
+  - id: drowned
+    title: "Drowned"
+    path: "AV2_5.txtp"
+    type: break
+  - id: procession_of_the_anunna
+    title: "Procession of the Anunna"
+    path: "07. Procession Of The Anunna.mp3"
+    type: betting
+  - id: i_o_echo
+    title: "I/O Echo"
+    path: "AV2_14.txtp"
+    type: betting
+  - id: argentum_alias
+    title: "Argentum Alias"
+    path: "AV2_3BreachLooped.txtp"
+    type: betting
+  - id: monsoon
+    title: "Monsoon"
+    path: "AV2_7_MayssaLooped.txtp"
+    type: break
+  - id: breath_and_shadows
+    title: "Breath & Shadows"
+    path: "AV2_13.txtp"
+    type: betting
+  - id: white_sand_city
+    title: "White Sand City"
+    path: "AV2_9_MayssaLooped.txtp"
+    type: break
+  - id: orn
+    title: "Orn"
+    path: "AV2_Orn.txtp"
+    ends: 2:28
+    type: betting
+  - id: an_otherworld
+    title: "An Otherworld"
+    path: "AV2_Otherworld.txtp"
+    type: warning
+  - id: indra_internal
+    title: "Indra Internal"
+    path: "AV2_11Battle.txtp" #should be battle - maybe do brstm?
+    type: warning
+  - id: refraction_seed
+    title: "Refraction Seed"
+    path: "AV2_12Looped.txtp"
+    type: betting
+  - id: deluge
+    title: "Deluge"
+    path: "AV2_1Looped.txtp"
+    type: break
+  - id: interstitial_drift
+    title: "Interstitial Drift"
+    path: "AV2_15.txtp"
+    type: break
+  - id: primordial_axiom
+    title: "Primordial Axiom"
+    path: "AV2_TheAxiom.txtp"
+    type: break
+  - id: essence
+    title: "Essence"
+    path: "AV2_8Looped.txtp"
+    type: break
+  - id: nephropidae
+    title: "Nephropidae"
+    path: "AV2_10BattleLooped.txtp" #should also be battle but doesn't loop
+    type: warning
+  - id: primordial_axiom_ending_mix
+    title: "Primordial Axiom (Ending Mix)"
+    path: "AV2_TheAxiomEnding.txtp"
+    type: betting
+...

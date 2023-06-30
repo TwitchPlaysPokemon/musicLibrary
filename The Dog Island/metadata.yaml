@@ -1,0 +1,80 @@
+---
+id: the_dog_island
+title: "The Dog Island"
+platform: ["Wii", "PS2"]
+year: 2007
+songs:
+  - id: anc_queen
+    title: "Anc Queen"
+    path: "anc_queen.brstm"
+    type: break
+  - id: ancient_grove
+    title: "Ancient Grove"
+    path: "ancient_grove.brstm"
+    type: break
+  - id: beyond_the_sky
+    title: "Beyond the Sky"
+    path: "beyond_the_sky.brstm"
+    ends: 2:11
+    type: betting
+  - id: boss_battle_dog_island
+    title: "Boss Island"
+    path: "boss_battle.brstm"
+    type: battle
+  - id: caves_dog_island
+    title: "Caves"
+    path: "caves.brstm"
+    type: break
+  - id: chilly_fields
+    title: "Chilly Fields"
+    path: "chilly_fields.brstm"
+    type: betting
+  - id: credits_dog_island
+    title: "Credits"
+    path: "credits.brstm"
+    type: betting
+  - id: deserts_dog_island
+    title: "Deserts"
+    path: "deserts.brstm"
+    type: betting
+  - id: el_dorados_ship
+    title: "El Dorado's Ship"
+    path: "el_dorados_ship_loop.brstm"
+    type: betting
+  - id: emergency_dog_island
+    title: "Emergency"
+    path: "emergency.brstm"
+    type: warning
+  - id: family_dog_island
+    title: "Family"
+    path: "family.brstm"
+    type: betting
+  - id: fields_dog_island
+    title: "Fields"
+    path: "fields.brstm"
+    type: betting
+  - id: kunka_ruins
+    title: "Kunka Ruins"
+    path: "kunka_ruins.brstm"
+    type: betting
+  - id: minecart_ride
+    title: "Minecart Ride"
+    path: "minecart.brstm"
+    type: warning
+  - id: minigame_dog_island
+    title: "Minigame"
+    path: "minigame.brstm"
+    type: result
+  - id: puroro_town
+    title: "Puroro Town"
+    path: "puroro_town.brstm"
+    type: betting
+  - id: victory_dogs
+    title: "Victory Dogs"
+    path: "victory_dogs.brstm"
+    type: warning
+  - id: villages_dog_island
+    title: "Villages"
+    path: "villages.brstm"
+    type: break
+...

@@ -1,0 +1,18 @@
+id: densha_de_go_gb
+title: "Densha de Go!"
+platform: "GBC"
+year: 1999
+songs:
+  - id: traffic_main
+    title: "Traffic (Main)"
+    path: "02 Traffic (Main).vgz"
+    type: result
+  - id: name_entry_densha_de_go_gb
+    title: "Name Entry"
+    path: "08 Name Entry.vgz"
+    type: result
+  - id: take_me_sunset
+    title: "Take Me Sunset"
+    path: "10 Take Me Sunset.vgz"
+    type: betting
+...

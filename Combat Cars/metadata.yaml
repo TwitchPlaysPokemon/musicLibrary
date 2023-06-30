@@ -1,0 +1,31 @@
+---
+id: combat_cars
+title: "Combat Cars"
+platform: "Genesis"
+year: 1994
+songs: 
+  - id: character_select_combat_cars
+    title: "Character Select"
+    path: "03 - Character Select.vgm"
+    type: warning
+  - id: beach_track
+    title: "Beach Track"
+    path: "04 - Beach Track.vgm"
+    type: betting
+  - id: harbor_track
+    title: "Harbor Track"
+    path: "06 - Harbor Track.vgm"
+    type: betting
+  - id: suburbia_track
+    title: "Suburbia Track"
+    path: "08 - Suburbia Track.vgm"
+    type: betting
+  - id: high_score_entry_combat_cars
+    title: "High Score Entry"
+    path: "11 - High Score Entry.vgm"
+    type: warning
+  - id: unknown_track_combat_cars
+    title: "Unknown Track"
+    path: "14 - Unknown (Sound Test 04).vgm"
+    type: warning
+...

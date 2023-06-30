@@ -140,20 +140,36 @@ songs:
     title: "Falloween"
     path: "Falloween.brstm"
     type: warning
-  - id: bishop_steak
-    title: "Bishop Steak"
+  - id: scubabeans
+    title: "Scubabeans"
     path: "Bishop Steak.brstm"
     type: betting
-  - id: critic_carrot
-    title: "Critic Carrot"
+  - id: tentacle_tantrum
+    title: "Tentacle Tantrum"
     path: "Critic Carrot.brstm"
     type: battle
-  - id: market_deal
-    title: "Market Deal"
+  - id: sunken_seacrets
+    title: "Sunken Seacrets"
     path: "Market Deal.brstm"
     type: betting
   - id: ss3_everybody_falls
     title: "SS3 Everybody Falls"
     path: "SS3 Everybody Falls.brstm"
+    type: betting
+  - id: digifal_guys
+    title: "Digifal Guys"
+    path: "Digifal Guys.brstm"
+    type: betting
+  - id: crown_stack_overflow
+    title: "Crown Stack Overflow"
+    path: "Crown Stack Overflow.brstm"
+    type: betting
+  - id: beanary_computing
+    title: "Beanary Computing"
+    path: "Beanary Computing.brstm"
+    type: betting
+  - id: ss4_everybody_falls
+    title: "SS4 Everybody Falls"
+    path: "SS4 Everybody Falls.brstm"
     type: betting
 ...

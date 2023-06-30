@@ -1,0 +1,19 @@
+---
+id: dare_devil
+title: "DARE DEVIL"
+platform: ["PC", "Mobile"]
+year: 2020
+songs:
+  - id: a_devastating_encounter_dd
+    title: "A Devastating Encounter"
+    path: "A Devastating Encounter.brstm"
+    type: warning
+  - id: dance_dd
+    title: "Dance"
+    path: "Dance.brstm"
+    type: result
+  - id: in_the_cupboards
+    title: "In the cupboards"
+    path: "In the cupboards.brstm"
+    type: betting
+...

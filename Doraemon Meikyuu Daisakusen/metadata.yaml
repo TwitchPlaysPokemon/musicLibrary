@@ -1,0 +1,31 @@
+---
+id: doraemon_meikyuu_daisakusen
+title: "Doraemon: Meikyuu Daisakusen"
+platform: "TG-16"
+year: 1989
+songs:
+  - id: title_doraemon_no_uta
+    title: "Title (Doraemon no Uta)"
+    path: "01 Title (Doraemon no Uta).vgz"
+    type: result
+  - id: present_era
+    title: "Present Era"
+    path: "04 Present Era.vgz"
+    type: betting
+  - id: samurai_era
+    title: "Samurai Era"
+    path: "05 Samurai Era.vgz"
+    type: betting
+  - id: future_era
+    title: "Future Era"
+    path: "07 Future Era.vgz"
+    type: result
+  - id: vs_kublai
+    title: "VS Kublai"
+    path: "12 VS Kublai.vgz"
+    type: warning
+  - id: vs_zenzombie
+    title: "VS Zenzombie"
+    path: "14 VS Zenzombie.vgz"
+    type: warning
+...

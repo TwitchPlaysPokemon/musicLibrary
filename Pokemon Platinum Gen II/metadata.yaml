@@ -1,0 +1,57 @@
+---
+id: pokemon_plat_g2
+title: "Pokémon Platinum: Gen II"
+series: pokemon
+platform: "GBC"
+is_fanwork: true
+year: 2022
+songs:
+    - id: battle_barry_ppg2
+      title: "Battle! Barry"
+      path: "battle_barry_ppg2.brstm"
+      type: battle
+    - id: battle_wild_ppg2
+      title: "Battle! Wild Pokémon"
+      path: "battle_wild_ppg2.brstm"
+      type: battle
+    - id: encounter_barry_ppg2
+      title: "Encounter! Barry"
+      path: "encounter_barry_ppg2.brstm"
+      type: warning
+    - id: encounter_dawn_ppg2
+      title: "Encounter! Dawn"
+      path: "encounter_dawn_ppg2.brstm"
+      type: warning
+    - id: oreburgh_gate_ppg2
+      title: "Oreburgh Gate"
+      path: "oreburgh_gate_ppg2.brstm"
+      type: warning
+    - id: special_program_ppg2
+      title: "Special Program!"
+      path: "special_program_ppg2.brstm"
+      type: result
+    - id: victory_wild_ppg2
+      title: "Victory! Wild Pokémon"
+      path: "victory_wild_ppg2.brstm"
+      type: result
+    - id: rowans_lab_ppg2
+      title: "Prof. Rowan's Lab"
+      path: "rowans_lab_ppg2.brstm"
+      type: break
+    - id: oreburgh_city_ppg2
+      title: "Oreburgh City"
+      path: "oreburgh_city_ppg2.brstm"
+      type: betting
+    - id: route_201_ppg2
+      title: "Route 201"
+      path: "route_201_ppg2.brstm"
+      type: betting
+    - id: sandgem_town_ppg2
+      title: "Sandgem Town"
+      path: "sandgem_town_ppg2.brstm"
+      type: betting
+    - id: twinleaf_town_ppg2
+      title: "Twinleaf Town"
+      path: "twinleaf_town_ppg2.brstm
+      type: betting
+      
