@@ -15,7 +15,7 @@ songs:
     path: "karaoke2.brstm"
     ends: 1:42
     type: betting
-  - id: affected_fight
+  - id: affected_fight_ishin
     title: "Affected Fight"
     path: "ishinkiwami1.hca"
     type: battle
@@ -23,7 +23,7 @@ songs:
     title: "Collisions of Our Souls"
     path: "ishinkiwami2.hca"
     type: battle
-  - id: massive_fire
+  - id: massive_fire_ishin
     title: "Massive Fire"
     path: "ishinkiwami3.hca"
     type: battle
