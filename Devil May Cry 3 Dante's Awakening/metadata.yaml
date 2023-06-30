@@ -25,6 +25,10 @@ songs:
     title: "Boss - Gigapede"
     path: "Boss - Gigapede.brstm"
     type: battle
+  - id: boss_beowulf
+    title: "Boss - Beowulf"
+    path: "Boss - Beowulf.brstm"
+    type: battle
   - id: boss_heart_of_leviathan
     title: "Boss - Heart of Leviathan"
     path: "Boss - Heart of Leviathan.brstm"
@@ -69,4 +73,12 @@ songs:
     title: "Divinity Statue"
     path: "Divinity Statue.brstm"
     type: break
+  - id: mission_clear_dmc3
+    title: "Mission Clear"
+    path: "Mission Clear.brstm"
+    type: warning
+  - id: show_no_tears
+    title: "Show No Tears"
+    path: "Show No Tears.brstm"
+    type: battle
 ...

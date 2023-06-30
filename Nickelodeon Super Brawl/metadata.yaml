@@ -1,0 +1,24 @@
+---
+id: nickelodeon_super_brawl
+title: "Nickelodeon Super Brawl"
+platform: "PC"
+year: 2009
+songs: 
+  - id: fanboy_s_theme
+    title: "Fanboy's Theme"
+    path: "1-08 Fanboy's Theme.brstm"
+    type: betting
+  - id: king_julien_s_theme
+    title: "King Julien's Theme"
+    path: "1-13 King Julien's Theme.brstm"
+    type: warning
+  - id: danny_phantom_s_theme
+    title: "Danny Phantom's Theme"
+    path: "1-11 Danny Phantom's Theme.brstm"
+    type: betting
+  - id: bessie_s_theme
+    title: "Bessie's Theme"
+    path: "1-15 Bessie's Theme.brstm"
+    ends: 1:30
+    type: betting
+...

@@ -1,0 +1,27 @@
+---
+id: aqua_jet
+title: "Aqua Jet"
+platform: "Arcade"
+year: 1996
+songs: 
+  - id: select_aqua_jet
+    title: "Select"
+    path: "02 Select.vgz"
+    type: betting
+  - id: noonday_beach
+    title: "Noonday Beach"
+    path: "03 Noonday Beach.vgz"
+    type: betting
+  - id: run_across
+    title: "Run Across"
+    path: "04 Run Across.vgz"
+    type: battle
+  - id: aquatic_heat
+    title: "Aquatic Heat"
+    path: "05 Aquatic Heat.vgz"
+    type: betting
+  - id: name_enter_aqua_jet
+    title: "Name Enter"
+    path: "08 Name Enter.vgz"
+    type: break
+...

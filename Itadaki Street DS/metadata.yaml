@@ -1,0 +1,135 @@
+---
+id: itadaki_street_ds
+title: "Itadaki Street DS"
+platform: "DS"
+year: 2011
+songs: 
+  - id: pipe_land_istreet
+    title: "Pipe Land (Super Mario Bros. 3)"
+    path: "PIPELAND.mini2sf"
+    type: warning
+  - id: toad_house_istreet
+    title: "Toad House (Super Mario Bros. 3)"
+    path: "TOADHOUSE.mini2sf"
+    type: warning
+  - id: casino_dragon_quest_iv_istreet
+    title: "Casino (Dragon Quest IV)"
+    path: "CASINO.mini2sf"
+    type: betting
+  - id: bonus_super_mario_world_istreet
+    title: "Bonus (Super Mario World)"
+    path: "BONUSWORLD.mini2sf"
+    type: result
+  - id: boogie_woogie_istreet
+    title: "Boogie Woogie (Dragon Quest III)"
+    path: "BOOGIE.mini2sf"
+    type: result
+  - id: battle_dragon_quest_iii_istreet
+    title: "Battle (Dragon Quest III)"
+    path: "BATTLEIII.mini2sf"
+    type: warning
+  - id: slimania_istreet
+    title: "Slimania"
+    path: "SLIMANIA.mini2sf"
+    type: betting
+  - id: ghost_ship_istreet
+    title: "Ghost Ship"
+    path: "ADVENTURE.mini2sf"
+    type: betting
+  - id: castle_nsmb_istreet
+    title: "Castle (New Super Mario Bros.)"
+    path: "CASTLEKOOPA.mini2sf"
+    type: warning
+  - id: mushroom_kingdom_istreet
+    title: "Mushroom Kingdom"
+    path: "MUSHROOM.mini2sf"
+    type: betting
+  - id: rolling_dice_dragon_quest_iii_istreet
+    title: "Rolling Dice (Dragon Quest III)"
+    path: "ROLLINGDICE.mini2sf"
+    type: betting
+  - id: main_menu_istreet
+    title: "Main Menu"
+    path: "MAINMENU.mini2sf"
+    type: result
+  - id: into_the_legend_istreet
+    title: "Into the Legend... (Dragon Quest III)"
+    path: "INTOTHELEGEND.mini2sf"
+    type: result
+  - id: yoshi_s_island_istreet
+    title: "Yoshi's Island (Super Mario World)"
+    path: "YOSH.mini2sf"
+    type: warning
+  - id: victory_dragon_quest_istreet
+    title: "Victory (Dragon Quest)"
+    path: "YATTADQ.mini2sf"
+    type: result
+  - id: victory_mario_istreet
+    title: "Victory (Mario)"
+    path: "YATTAMARIO.mini2sf"
+    type: result
+  - id: athletic_istreet
+    title: "Athletic (Super Mario World 2: Yoshi's Island)"
+    path: "ATHLETIC.mini2sf"
+    type: betting
+  - id: underground_istreet
+    title: "Underground (Super Mario Bros.)"
+    path: "UNDERWORLD.mini2sf"
+    type: warning
+  - id: gypsy_s_dance_dragon_quest_iv_istreet
+    title: "Gypsy's Dance (Dragon Quest IV)"
+    path: "PROPERTERMISROMANI.mini2sf"
+    type: betting
+  - id: castle_trodain_istreet
+    title: "Castle Trodain"
+    path: "TRODAIN.mini2sf"
+    type: result
+  - id: toward_the_horizon_dragon_quest_v_istreet
+    title: "Toward the Horizon (Dragon Quest V)"
+    path: "HORIZON.mini2sf"
+    type: betting
+  - id: alefgard_istreet
+    title: "Alefgard"
+    path: "ALEFGARD.mini2sf"
+    type: break
+  - id: mario_stadium_istreet
+    title: "Mario Stadium (Super Mario Sluggers)"
+    path: "SLUGGER.mini2sf"
+    type: betting
+  - id: wagon_wheel_s_march_istreet
+    title: "Wagon Wheel's March"
+    path: "SPEEDWAGON.mini2sf"
+    type: betting
+  - id: robbin_hood_ruins_istreet
+    title: "Robbin Hood Ruins"
+    path: "NOTTINGHAM.mini2sf"
+    type: break
+  - id: delfino_square_istreet
+    title: "Delfino Square"
+    path: "DOLPHIN.mini2sf"
+    type: betting
+  - id: mario_circuit_istreet
+    title: "Mario Circuit"
+    path: "GOTTASPEED.mini2sf"
+    type: betting
+  - id: hello_happy_kingdom_istreet
+    title: "Hello, Happy Kingdom"
+    path: "GENOWHO.mini2sf"
+    type: betting
+  - id: battle_dragon_quest_iv_istreet
+    title: "Battle (Dragon Quest IV)"
+    path: "BATTLEIV.mini2sf"
+    type: battle
+  - id: bowser_battle_mario_world_istreet
+    title: "Bowser Battle (Super Mario World)"
+    path: "KOOPACAR.mini2sf"
+    type: battle
+  - id: ending_smb3_istreet
+    title: "Ending (Super Mario Bros. 3)"
+    path: "MARIO3ED.mini2sf"
+    type: result
+  - id: title_screen_yoshi_island_istreet
+    title: "Title Screen (Super Mario World 2: Yoshi's Island)"
+    path: "YOSHITITLE.mini2sf"
+    type: break
+...

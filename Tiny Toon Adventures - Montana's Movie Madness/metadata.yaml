@@ -1,0 +1,63 @@
+---
+id: tiny_toon_adventures_montana_s_movie_madness
+title: "Tiny Toon Adventures: Montana's Movie Madness"
+platform: "GB"
+year: 1993
+songs: 
+  - id: interlude_1_tiny_toon
+    title: "Interlude 1"
+    path: "02 Interlude 1.vgz"
+    type: betting
+  - id: western_stage_tiny_toon
+    title: "Western Stage"
+    path: "03 Western Stage.vgz"
+    type: betting
+  - id: boss_intro_tiny_toon
+    title: "Boss Intro"
+    path: "04 Boss Intro.vgz"
+    type: warning
+  - id: boss_theme_tiny_toon
+    title: "Boss Theme"
+    path: "05 Boss Theme.vgz"
+    type: warning
+  - id: gogo_dodo
+    title: "Gogo Dodo"
+    path: "07 Gogo Dodo, Bonus Game Intro.vgz"
+    type: result
+  - id: bonus_game_tiny_toon
+    title: "Bonus Game"
+    path: "08 Bonus Game.vgz"
+    type: warning
+  - id: stage_clear_tiny_toon
+    title: "Stage Clear!!"
+    path: "09 Stage Clear!!, Bonus Game Win.vgz"
+    type: result
+  - id: samurai_stage
+    title: "Samurai Stage"
+    path: "11 Samurai Stage.vgz"
+    type: betting
+  - id: future_stage
+    title: "Future Stage"
+    path: "12 Future Stage.vgz"
+    type: betting
+  - id: monster_stage
+    title: "Monster Stage"
+    path: "13 Monster Stage.vgz"
+    type: warning
+  - id: montana_max_intro
+    title: "Montana Max Intro"
+    path: "18 Montana Max Intro.vgz"
+    type: betting
+  - id: final_battle_with_montana_max
+    title: "Final Battle with Montana Max"
+    path: "19 Final Battle with Montana Max.vgz"
+    type: warning
+  - id: ending_tiny_toon_mmm
+    title: "Ending"
+    path: "20 Ending.vgz"
+    type: result
+  - id: cast_and_credit_roll_tiny_toon_mmm
+    title: "Cast and Credit Roll"
+    path: "21 Cast and Credit Roll.vgz"
+    type: result
+...

@@ -25,4 +25,44 @@ songs:
     title: "Gather, Everyone! ~ Sunsnug Isle"
     path: "bgm_mura_03_2.mca"
     type: betting
+  - id: arena_testing_the_bold_s_ability
+    title: "Arena ~ Testing the Bold's Ability"
+    path: "Arena _ Testing the Bold's Ability.brstm"
+    type: battle
+  - id: download_menu_enjoy_this
+    title: "Download Menu ~ Enjoy This"
+    path: "Download Menu _ Enjoy This.brstm"
+    type: result
+  - id: goa_magara
+    title: "Goa Magara ~ The Cloak That Conceals the Light"
+    path: "Goa Magara _ The Cloak That Conceals the Light.brstm"
+    type: battle
+  - id: harth_hammering_sounds_which_never_cease
+    title: "Harth ~ Hammering Sounds Which Never Cease"
+    path: "Harth _ Hammering Sounds Which Never Cease.brstm"
+    type: betting
+  - id: kecha_wacha
+    title: "Kecha Wacha ~ Golden Reminiscence"
+    path: "Kecha Wacha _ Golden Reminiscence.brstm"
+    type: battle
+  - id: najarala
+    title: "Najarala ~ Meandering Melody"
+    path: "Najarala _ Meandering Melody.brstm"
+    type: battle
+  - id: nerscylla
+    title: "Nerscylla ~ Predator of Darkness"
+    path: "Nerscylla _ Predator of Darkness.brstm"
+    type: battle
+  - id: seregios
+    title: "Seregios"
+    path: "Seregios.brstm"
+    type: battle
+  - id: tigrex_4th_gen_ver
+    title: "Tigrex ~ The Roaring Dragon Bares It's Fangs ~4th Gen Version"
+    path: "Tigrex _ The Roaring Dragon Bares It's Fangs _4th Gen Version.brstm"
+    type: battle
+  - id: val_habar
+    title: "Val Habar ~ Village of Sun"
+    path: "Val Habar _ Village of Sun.brstm"
+    type: betting
 ...

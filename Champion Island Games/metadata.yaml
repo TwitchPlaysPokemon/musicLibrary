@@ -1,0 +1,56 @@
+---
+id: champion_island_games
+title: "Champion Island Games"
+platform: "Web"
+series: google
+year: 2021
+songs: 
+  - id: opening_cutscene_music_google
+    title: "Opening (Cutscene Music)"
+    path: "intro.ogg"
+    type: result
+  - id: overworld_google
+    title: "Overworld"
+    path: "overworld.logg"
+    type: betting
+  - id: indoors_google
+    title: "Indoors"
+    path: "overworld_indoors.logg"
+    type: break
+  - id: table_tennis_theme
+    title: "Table Tennis Theme"
+    path: "pingpong.logg"
+    type: warning
+  - id: climbing_theme
+    title: "Climbing Theme"
+    path: "climbing.logg"
+    type: warning
+  - id: archery_theme
+    title: "Archery Theme"
+    path: "archery.logg"
+    type: warning
+  - id: marathon_theme
+    title: "Marathon Theme"
+    path: "marathon.logg"
+    type: warning
+  - id: rugby_theme
+    title: "Rugby Theme"
+    path: "rugby.logg"
+    type: warning
+  - id: artistic_swimming_song_1_rock
+    title: "Artistic Swimming Song 1 (Rock)"
+    path: "rock.ogg"
+    type: warning
+  - id: artistic_swimming_song_2_karaoke
+    title: "Artistic Swimming Song 2 (Karaoke)"
+    path: "ballad.ogg"
+    type: result
+  - id: artistic_swimming_song_3_dance
+    title: "Artistic Swimming Song 3 (Dance)"
+    path: "disco.ogg"
+    type: result
+  - id: ending_cutscene_music_google
+    title: "Ending (Cutscene Music)"
+    path: "outro.ogg"
+    type: result
+...

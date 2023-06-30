@@ -1,0 +1,18 @@
+---
+id: pokemon_black_and_blue
+title: "Pokémon Black & Blue"
+series: pokemon
+platform: "PC"
+is_fanwork: true
+year: 2012
+#yes this is the parody game PETA did. no I don't know why I added it
+songs:
+    - id: battle_pokemon_black_blue
+      title: "Battle"
+      path: "Battle.brstm"
+      type: battle
+    - id: boss_battle_pokemon_black_blue
+      title: "Boss Battle"
+      path: "Boss Battle.brstm"
+      type: battle
+...

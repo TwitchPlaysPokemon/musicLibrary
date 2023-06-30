@@ -1,0 +1,19 @@
+---
+id: a_dance_of_fire_and_ice
+title: "A Dance of Fire and Ice"
+platform: ["PC", "Mobile"]
+year: 2019
+songs: 
+  - id: butterfly_planet
+    title: "Butterfly Planet"
+    path: "Butterfly Planet.brstm"
+    type: betting
+  - id: it_go
+    title: "It Go"
+    path: "It Go.brstm"
+    type: battle
+  - id: jungle_city
+    title: "Jungle City"
+    path: "Jungle City.brstm"
+    type: betting
+...

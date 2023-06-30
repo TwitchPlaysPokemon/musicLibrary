@@ -8,3 +8,16 @@ songs:
     title: "Home Sweet Grave"
     path: "Home Sweet Grave.brstm"
     type: betting
+  - id: riches_in_me
+    title: "Riches In Me"
+    path: "Riches In Me.brstm"
+    type: battle
+  - id: hunt_a_soul
+    title: "Hunt a Soul"
+    path: "Hunt a Soul.brstm"
+    type: warning
+  - id: the_irony_of_chaste
+    title: "The Irony Of Chaste"
+    path: "The Irony Of Chaste.brstm"
+    type: battle
+...

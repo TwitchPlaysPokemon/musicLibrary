@@ -84,7 +84,6 @@ songs:
   - id: snowy_mountain
     title: "Snowy Mountain ...for Icecap"
     path: "Snowy Mountain for Icecap.brstm"
-    tags: [xmas]
     type: betting
   - id: the_air_windy_valley
     title: "The Air ...for Windy Valley"
@@ -133,10 +132,9 @@ songs:
   - id: be_cool_wild_and_groovy
     title: "Be Cool, Be Wild and Be Groovy ...for Ice Cap"
     path: "Be Cool, Be Wild and Be Groovy for Icecap.brstm"
-    tags: [xmas]
     type: warning
   - id: danger_chased_by_rock
-    title: "Danger Chased by Rock for ...Lost World"
+    title: "Danger Chased by Rock ...for Lost World"
     path: "Danger Chased by Rock for Lost World.brstm"
     type: warning
   - id: danger_is_imminent
@@ -203,5 +201,9 @@ songs:
     title: "Unknown from M.E. ...Theme of \"KNUCKLES\""
     path: "KNUCKLES.ADX"
     ends: 3:00
+    type: betting
+  - id: open_your_heart_theme_of_sonic
+    title: "Open Your Heart ...Theme of \"SONIC\""
+    path: "Open Your Heart.brstm" #I'll replace them with the adx versions... eventually
     type: betting
 ...

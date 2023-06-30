@@ -1,0 +1,104 @@
+---
+id: fossil_fighters_frontier
+title: "Fossil Fighters: Frontier"
+platform: "3DS"
+series: fossilfighters
+year: 2014
+songs: 
+  - id: chaotic_clash
+    title: "Chaotic Clash"
+    path: "BGM_BTL_01.dspadpcm.bcstm"
+    type: battle
+  - id: end_of_an_era
+    title: "End of an Era"
+    path: "BGM_BTL_BOSS_LAST.dspadpcm.bcstm"
+    type: warning
+  - id: ferocity_unleashed
+    title: "Ferocity Unleashed"
+    path: "BGM_BTL_BOSS1.dspadpcm.bcstm"
+    type: battle
+  - id: battle_plan
+    title: "Battle Plan"
+    path: "BGM_BTL_CHOICE.dspadpcm.bcstm"
+    type: betting
+  - id: won_the_cup_fff
+    title: "Won the Cup"
+    path: "BGM_BTL_RESULT1.dspadpcm.bcstm"
+    type: result
+  - id: tournament_plan
+    title: "Tournament Plan"
+    path: "BGM_BTL_RESULT2.dspadpcm.bcstm"
+    type: result
+  - id: daily_training_fff
+    title: "Daily Training"
+    path: "BGM_BTL_STREETPASS.dspadpcm.bcstm"
+    type: warning
+  - id: the_stuff_of_heroes
+    title: "The Stuff of Heroes"
+    path: "BGM_BTL_TAIKAI.dspadpcm.bcstm"
+    type: battle
+  - id: champion_s_climax
+    title: "Champion's Climax"
+    path: "BGM_BTL_TAIKAI_LAST.dspadpcm.bcstm"
+    type: warning
+  - id: awakening_fff
+    title: "Awakening"
+    path: "BGM_CLN_01.dspadpcm.bcstm"
+    type: betting
+  - id: boundless_wilderness
+    title: "Boundless Wilderness"
+    path: "BGM_FLD_AMERICA1.dspadpcm.bcstm"
+    type: betting
+  - id: sand_in_the_wind
+    title: "Sand in the Wind"
+    path: "BGM_FLD_AMERICA2.dspadpcm.bcstm"
+    type: betting
+  - id: midnight_orchestra
+    title: "Midnight Orchestra"
+    path: "BGM_FLD_AMERICA3.dspadpcm.bcstm"
+    type: break
+  - id: exotic_twilight
+    title: "Exotic Twilight"
+    path: "BGM_FLD_ASIA1.dspadpcm.bcstm"
+    type: betting
+  - id: faraway_dream
+    title: "Faraway Dream"
+    path: "BGM_FLD_ASIA3.dspadpcm.bcstm"
+    type: betting
+  - id: the_land_s_bounty
+    title: "The Land's Bounty"
+    path: "BGM_FLD_EU1.dspadpcm.bcstm"
+    type: result
+  - id: beneath_the_trees
+    title: "Beneath the Trees"
+    path: "BGM_FLD_EU2.dspadpcm.bcstm"
+    type: break
+  - id: the_northern_chill
+    title: "The Northern Chill"
+    path: "BGM_FLD_EU3.dspadpcm.bcstm"
+    type: betting
+  - id: the_open_frontier
+    title: "The Open Frontier"
+    path: "BGM_FLD_PACIFIC.dspadpcm.bcstm"
+    type: betting
+  - id: no_turning_back
+    title: "No Turning Back"
+    path: "BGM_FLD_SUBMARINE.dspadpcm.bcstm"
+    type: warning
+  - id: ancient_world
+    title: "Ancient World"
+    path: "BGM_FLD_TAIKO.dspadpcm.bcstm"
+    type: betting
+  - id: main_menu_fff
+    title: "Main Menu"
+    path: "BGM_TITLE.dspadpcm.bcstm"
+    type: result
+  - id: bright_lights_big_city
+    title: "Bright Lights, Big City"
+    path: "BGM_TWN_AMERICA.dspadpcm.bcstm"
+    type: betting
+  - id: against_the_clock
+    title: "Against the Clock"
+    path: "BGM_EVT_TIMEATTACK.dspadpcm.bcstm"
+    type: battle
+...

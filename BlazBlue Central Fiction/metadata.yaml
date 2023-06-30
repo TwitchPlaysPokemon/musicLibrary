@@ -1,0 +1,51 @@
+---
+id: blazblue_central_fiction
+title: "BlazBlue: Central Fiction"
+series: blazblue
+platform: "Various"
+#other platforms: ["Arcade", "PS3", "PS4", "PC"]
+year: 2015
+#was going to use the rips for these, but for some reason the switch ver. has lopus files
+#THAT DON'T EVEN LOOP
+songs:
+  - id: god_of_war_susano_o_vs_hakumen
+    title: "God Of War (Susano'o Vs. Hakumen)"
+    path: "God Of War (Susano'o Vs. Hakumen).brstm"
+    type: battle
+  - id: hakaishin_unlimited_susano_o
+    title: "HAKAISHIN (Unlimited Susano'o)"
+    path: "HAKAISHIN (Unlimited Susano'o).brstm"
+    type: battle
+  - id: must_die_susano_o
+    title: "MUST DIE (Susano'o)"
+    path: "MUST DIE (Susano'o).brstm"
+    type: battle
+  - id: reincarnation_nine_vs_celica_kokone
+    title: "Reincarnation (Nine Vs. Celica/Kokonoe)"
+    path: "Reincarnation (Nine Vs. Celica_Kokonoe).brstm"
+    type: battle
+  - id: the_world_end_unlimited_izanami
+    title: "THE WORLD END (Unlimited Izanami)"
+    path: "THE WORLD END (Unlimited Izanami).brstm"
+    type: battle
+  - id: conciliation_es
+    title: "conciliation - Es"
+    path: "conciliation - Es.brstm"
+    type: battle
+  - id: bloodline_izanami_vs_ragna_jin
+    title: "Bloodline (Izanami Vs. Ragna/Jin)"
+    path: "Bloodline (Izanami Vs. Ragna_Jin).brstm"
+    type: battle
+  - id: end_gazer_es_vs_nine_celica
+    title: "END GAZER (Es Vs. Nine/Celica)"
+    path: "END GAZER (Es Vs. Nine_Celica).brstm"
+    type: betting
+  - id: variable_heart_mai_natsume
+    title: "VARIABLE HEART (Mai Natsume)"
+    path: "VARIABLE HEART (Mai Natsume).brstm"
+    type: betting
+  - id: in_the_shadows_hibiki
+    title: "in the shadows (Hibiki)"
+    path: "in the shadows (Hibiki).brstm"
+    type: betting
+...

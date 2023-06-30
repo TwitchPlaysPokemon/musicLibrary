@@ -14,4 +14,12 @@ songs:
     title: "Boss Battle"
     path: "Boss Battle.brstm"
     type: battle
+  - id: mario_do_urden
+    title: "Mario Do'Urden"
+    path: "Mario Do'Urden.brstm"
+    type: betting
+  - id: this_song_is_dedicated_to_kaworu
+    title: "This song is dedicated to kaworu"
+    path: "This song is dedicated to kaworu.brstm"
+    type: battle
 ...

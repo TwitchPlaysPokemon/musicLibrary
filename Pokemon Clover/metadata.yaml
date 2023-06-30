@@ -1,0 +1,13 @@
+---
+id: pokemon_clover
+title: "Pokémon Clover"
+series: pokemon
+is_fanwork: true
+year: 2014
+platform: "GBA"
+songs:
+  - id: battle_trainer_clover
+    title: "Battle! Trainer"
+    path: "Vs. Trainer.brstm"
+    type: battle
+...

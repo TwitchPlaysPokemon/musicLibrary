@@ -98,4 +98,244 @@ songs:
     title: "OMNIS LACRIMA"
     path: "OMNIS LACRIMA.brstm"
     type: battle
+    #these are all tracks submitted for the main game...
+  - id: a_premonition
+    title: "A Premonition"
+    path: "A Premonition.brstm"
+    type: warning
+  - id: a_quick_pit_stop
+    title: "A Quick Pit Stop"
+    path: "A Quick Pit Stop.brstm"
+    type: break
+  - id: altissia_gondola_ride
+    title: "Altissia - Gondola Ride"
+    path: "Altissia - Gondola Ride.brstm"
+    type: break
+  - id: altissia
+    title: "Altissia"
+    path: "Altissia.brstm"
+    type: betting
+  - id: apocalypsis_aquarius
+    title: "APOCALYPSIS AQUARIUS"
+    path: "APOCALYPSIS AQUARIUS.brstm"
+    type: warning
+  - id: apocalypsis_noctis
+    title: "APOCALYPSIS NOCTIS"
+    path: "APOCALYPSIS NOCTIS.brstm"
+    type: battle
+  - id: bros_on_the_road
+    title: "Bros on the Road"
+    path: "Bros on the Road.brstm"
+    type: betting
+  - id: cape_caem_our_new_home
+    title: "Cape Caem - Our New Home"
+    path: "Cape Caem - Our New Home.brstm"
+    type: break
+  - id: cape_caem
+    title: "Cape Caem"
+    path: "Cape Caem.brstm"
+    type: betting
+  - id: careening_into_danger
+    title: "Careening Into Danger"
+    path: "Careening Into Danger.brstm"
+    type: betting
+  - id: cindy
+    title: "CINDY"
+    path: "CINDY.brstm"
+    type: break
+  - id: creeping_shadows_ffxv
+    title: "Creeping Shadows"
+    path: "Creeping Shadows.brstm"
+    type: warning
+  - id: dining_car
+    title: "Dining Car"
+    path: "Dining Car.brstm"
+    type: break
+  - id: disquiet
+    title: "Disquiet"
+    path: "Disquiet.brstm"
+    type: warning
+  - id: don_t_panic_ffxv
+    title: "Don't Panic!"
+    path: "Don't Panic!.brstm"
+    type: warning
+  - id: encroaching_fear
+    title: "Encroaching Fear"
+    path: "Encroaching Fear.brstm"
+    type: warning
+  - id: fantastica
+    title: "Fantastica!"
+    path: "Fantastica!.brstm" #no loop
+    type: result 
+  - id: flying_r
+    title: "Flying R"
+    path: "Flying R.brstm"
+    type: betting
+  - id: hammerhead_ffxv
+    title: "Hammerhead"
+    path: "Hammerhead.brstm"
+    type: betting
+  - id: horrors_of_the_night_ffxv
+    title: "Horrors of the Night"
+    path: "Horrors of the Night.brstm"
+    type: battle
+  - id: hunt_or_be_hunted_ffxv
+    title: "Hunt or Be Hunted"
+    path: "Hunt or Be Hunted.brstm"
+    type: battle
+  - id: impending_peril
+    title: "Impending Peril"
+    path: "Impending Peril.brstm"
+    type: warning
+  - id: imperial_infiltration
+    title: "Imperial Infiltration"
+    path: "Imperial Infiltration.brstm"
+    type: betting
+  - id: in_the_light_of_the_crystal
+    title: "In The Light of the Crystal"
+    path: "In The Light of the Crystal.brstm"
+    type: break
+  - id: labyrinthine
+    title: "Labyrinthine"
+    path: "Labyrinthine.brstm"
+    type: betting
+  - id: listen_up
+    title: "Listen Up"
+    path: "Listen Up.brstm"
+    type: break
+  - id: neverending_nightmare
+    title: "Neverending Nightmare"
+    path: "Neverending Nightmare.brstm"
+    type: warning
+  - id: reel_rumble
+    title: "Reel Rumble"
+    path: "Reel Rumble.brstm"
+    type: battle
+  - id: the_fight_is_on_ffxv
+    title: "The Fight Is On!"
+    path: "The Fight Is On!.brstm"
+    type: betting
+  - id: up_for_the_challenge
+    title: "Up for the Challenge"
+    path: "Up for the Challenge.brstm"
+    type: battle
+    #...and these are taken from the DLC episodes. 
+    #doesn't loop - My Humblest Desire, Ep Prompto Main Theme, A United Front
+  - id: afrosword
+    title: "Afrosword"
+    path: "bgm_afro_sword.win.mab"
+    type: betting
+  - id: braver_ffxv
+    title: "Braver"
+    path: "bgm_afrojack.win.brstm"
+    type: betting
+  - id: battle_on_the_big_bridge_episode_gladiolus_version
+    title: "Battle on the Big Bridge - EPISODE GLADIOLUS Version"
+    path: "bgm_dlc_big_new.win.mab"
+    type: battle
+  - id: shield_of_the_king_theme_of_episode_gladiolus
+    title: "Shield of the King - Theme of EPISODE GLADIOLUS"
+    path: "bgm_dlc1_bt_new.win.mab"
+    type: betting
+  - id: prayer_of_the_oracle
+    title: "Prayer of the Oracle"
+    path: "bgm_epa_theme.win.mab"
+    type: break
+  - id: ardyn_iii
+    title: "ARDYN III"
+    path: "bgm_epi_bat_ardyn_if1.win.mab"
+    type: betting
+  - id: become_the_fire_ffxv
+    title: "Become the Fire"
+    path: "bgm_epi_bat_ardyn_if2.win.mab"
+    type: battle
+  - id: ashes_to_ashes_ffxv
+    title: "Ashes to Ashes"
+    path: "bgm_epi_bat_ardyn_if3.win.mab"
+    type: battle
+  - id: the_blazing_tactician
+    title: "The Blazing Tactician"
+    path: "bgm_epi_bat_main3.win.mab"
+    type: battle
+  - id: apocalypsis_magnatus
+    title: "Apocalypsis Magnatus"
+    path: "bgm_epi_bat_noct.win.mab"
+    type: betting
+  - id: a_lightless_journey
+    title: "A Lightless Journey"
+    path: "bgm_epi_ending.win.mab"
+    type: break
+  - id: my_humblest_desire
+    title: "My Humblest Desire"
+    path: "bgm_epi_ending_if.win.mab" #submittor asked for break, but it's 2:15 and doesn't loop sooooooo
+    type: result 
+  - id: episode_ignis_main_theme
+    title: "EPISODE IGNIS - Main Theme"
+    path: "bgm_epi_main_theme.win.mab"
+    type: betting
+  - id: a_united_front
+    title: "A United Front"
+    path: "bgm_epi_ravus_theme.win.mab"
+    type: betting
+  - id: clash_on_the_waves
+    title: "Clash on the Waves"
+    path: "bgm_epi_rte_suijo.win.mab"
+    type: betting
+  - id: sins_of_the_father_ffxv
+    title: "Sins of the Father"
+    path: "bgm_epp_bbt_2.win.mab"
+    type: battle
+  - id: face_the_music
+    title: "Face the Music"
+    path: "bgm_epp_bt_3.win.mab"
+    type: battle
+  - id: orbital_instability_extended_mix
+    title: "Orbital Instability - Extended Mix"
+    path: "bgm_epp_fl_2.win.mab"
+    type: break
+  - id: orbital_instability
+    title: "Orbital Instability"
+    path: "bgm_epp_fl_6.win.mab"
+    ends: 4:06
+    type: betting
+  - id: home_sweet_home_theme_of_episode_prompto
+    title: "Home Sweet Home -Theme of EPISODE PROMPTO"
+    path: "bgm_epp_new_01.win.sab"
+    type: break
+  - id: lestallum_band
+    title: "Lestallum Band"
+    path: "bgm_four_mens.win.mab"
+    type: break
+  - id: save_haven
+    title: "Safe Haven"
+    path: "bgm_hanyo_kyoten.win.mab"
+    type: break
+  - id: the_hunters_ffxv
+    title: "The Hunters"
+    path: "bgm_hunter.win.mab"
+    type: betting
+  - id: no_time_left
+    title: "No Time Left"
+    path: "bgm_isoge.win.mab"
+    type: warning
+  - id: prince_of_peerless_power
+    title: "Prince of Peerless Power"
+    path: "bgm_justice_05.win.sab"
+    type: battle
+  - id: welcome_to_the_leville
+    title: "Welcome to the Leville"
+    path: "bgm_lestallum_hotel.win.mab"
+    type: break
+  - id: lestallum
+    title: "Lestallum"
+    path: "bgm_lestallum_magi.win.mab"
+    type: break
+  - id: the_wrath_of_swords
+    title: "The Wrath of Swords"
+    path: "bgm_mulit_bahamut.win.mab"
+    type: battle
+  - id: let_there_be_light
+    title: "Let There Be Light"
+    path: "bgm_mulit_plant.win.sab"
+    type: break
 ...

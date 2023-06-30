@@ -1,0 +1,34 @@
+---
+id: like_a_dragon_ishin #on the other hand, this IS the remake
+title: "Like a Dragon: Ishin!"
+series: yakuza
+platform: "Various"
+year: 2023
+songs: 
+  - id: baka_mitai_ishin_spec_edition
+    title: "Baka Mitai [Ishin Spec Edition]"
+    path: "karaoke1.brstm"
+    ends: 2:08
+    type: betting
+  - id: ichizu_samurai
+    title: "Ichizu Samurai"
+    path: "karaoke2.brstm"
+    ends: 1:42
+    type: betting
+  - id: affected_fight
+    title: "Affected Fight"
+    path: "ishinkiwami1.hca"
+    type: battle
+  - id: collisions_of_our_souls
+    title: "Collisions of Our Souls"
+    path: "ishinkiwami2.hca"
+    type: battle
+  - id: massive_fire
+    title: "Massive Fire"
+    path: "ishinkiwami3.hca"
+    type: battle
+  - id: fly
+    title: "Fly"
+    path: "ishinkiwami4.hca"
+    type: battle
+...

@@ -1,64 +1,80 @@
 ---
-id: awds
-platform: "NDS"
+id: advance_wars_dual_strike
 title: "Advance Wars: Dual Strike"
 series: advancewars
+platform: "NDS"
 year: 2005
 songs: 
   - id: power
-    path: "Power!.brstm"
     title: "Power!"
+    path: "55 Power!.minincsf"
     type: warning
   - id: super_co_power
-    path: "Super CO Power.brstm"
     title: "Super CO Power"
+    path: "57 Super CO Power!.minincsf"
     type: warning
   - id: black_hole_power
-    path: "Black Hole Power!.brstm"
     title: "Black Hole Power!"
+    path: "56 Black Hole Power!.minincsf"
     type: warning
   - id: black_hole_tag_power
-    path: "Black Hole Tag Power!.brstm"
     title: "Black Hole Tag Power!"
+    path: "60 Black Hole Tag Power!.minincsf"
     type: warning
   - id: mode_select_awds
-    path: "Mode Select.brstm"
     title: "Mode Select"
+    path: "35 Mode Select.minincsf"
     type: betting
   - id: dangerous_mission
-    path: "Dangerous Mission!.brstm"
     title: "Dangerous Mission!"
+    path: "50 Dangerous Mission!.minincsf"
     type: warning
   - id: dark_terror
-    path: "Dark Terror.brstm"
     title: "Dark Terror"
+    path: "42 Dark Terror.minincsf"
     type: warning
-  - id: jake's_theme
+  - id: jake_s_theme
     title: "Jake's Theme"
-    path: "Jake's Theme.brstm"
+    path: "01 Jake's Theme.minincsf"
     type: betting
-  - id: sami's_theme
+  - id: rachel_s_theme
+    title: "Rachel's Theme"
+    path: "02 Rachel's Theme.minincsf"
+    type: betting
+  - id: max_s_theme
+    title: "Max's Theme"
+    path: "06 Max's Theme.minincsf"
+    type: warning
+  - id: sami_s_theme
     title: "Sami's Theme"
-    path: "Sami's Theme.brstm"
+    path: "07 Sami's Theme.minincsf"
     type: betting
-  - id: jugger's_theme
+  - id: jugger_s_theme
     title: "Jugger's Theme"
-    path: "Jugger's Theme.brstm"
+    path: "24 Jugger's Theme.minincsf"
     type: warning
-  - id: jess'_theme
-    title: "Jess' Theme"
-    path: "Jess's Theme.brstm"
+  - id: sasha_s_theme
+    title: "Sasha's Theme"
+    path: "11 Sasha's Theme.minincsf"
     type: betting
-  - id: eagle's_theme
+  - id: jess_theme
+    title: "Jess' Theme"
+    path: "14 Jess's Theme.minincsf"
+    type: betting
+  - id: eagle_s_theme
     title: "Eagle's Theme"
-    path: "Eagle's Theme.brstm"
+    path: "12 Eagle's Theme.minincsf"
     type: warning
-  - id: andy's_anthem
+  - id: andy_s_anthem
     title: "Andy's Anthem"
-    path: "Andy's Theme.brstm"
+    path: "05 Andy's Anthem.minincsf"
     type: betting
   - id: tag_power
     title: "Tag Power!"
-    path: "Tag Power!.brstm"
+    path: "59 Tag Power!.minincsf"
     type: result
+  - id: a_grand_adventure
+    title: "A Grand Adventure"
+    path: "51 A Grand Adventure.minincsf"
+    type: betting
 ...

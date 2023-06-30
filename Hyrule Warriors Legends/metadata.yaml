@@ -2,6 +2,7 @@
 id: hyrule_warriors_legends
 title: "Hyrule Warriors Legends"
 platform: "3DS"
+series: zelda
 year: 2016
 songs: 
   - id: title_dragon_wind_waker
@@ -19,5 +20,17 @@ songs:
   - id: linkle
     title: "Linkle"
     path: "BGMProduct_00000049.g1l"
+    type: betting
+  - id: adventure_map_tal_tal_heights
+    title: "Adventure Map: Tal Tal Heights"
+    path: "BGMProduct_0059.kns"
+    type: betting
+  - id: adventure_map_full_steam_ahead
+    title: "Adventure Map: Full Steam Ahead"
+    path: "BGMProduct_0097.kns"
+    type: betting
+  - id: adventure_map_lorule_theme
+    title: "Adventure Map: Lorule Theme"
+    path: "BGMProduct_0098.kns"
     type: betting
 ...

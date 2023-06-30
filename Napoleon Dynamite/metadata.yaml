@@ -1,0 +1,49 @@
+---
+id: napoleon_dynamite_the_game
+title: "Napoleon Dynamite: The Game"
+platform: ["NDS", "PSP"]
+year: 2007
+songs: 
+  - id: bgm_00_nd
+    title: "BGM 00"
+    path: "0000 SEQ_TESTMID.mini2sf"
+    type: result
+  - id: bgm_01_nd
+    title: "BGM 01"
+    path: "0001 SEQ_DQWON.mini2sf"
+    type: warning
+  - id: bgm_02_nd
+    title: "BGM 02"
+    path: "0002 SEQ_ABOB.mini2sf"
+    type: warning
+  - id: bgm_03_nd
+    title: "BGM 03"
+    path: "0003 SEQ_AFREAK.mini2sf"
+    ends: 2:22
+    type: betting
+  - id: bgm_04_nd
+    title: "BGM 04"
+    path: "0004 SEQ_BEATAROUND.mini2sf"
+    type: warning
+  - id: bgm_05_nd
+    title: "BGM 05"
+    path: "0005 SEQ_OMPH.mini2sf"
+    type: warning
+  - id: bgm_06_nd
+    title: "BGM 06"
+    path: "0006 SEQ_PHUNBOT.mini2sf"
+    ends: 2:20
+    type: betting
+  - id: bgm_07_nd
+    title: "BGM 07"
+    path: "0007 SEQ_BEWHINE.mini2sf"
+    type: betting
+  - id: bgm_08_nd
+    title: "BGM 08"
+    path: "0008 SEQ_BURT.mini2sf"
+    type: warning
+  - id: bgm_09_nd
+    title: "BGM 09"
+    path: "0009 SEQ_MELLOTRON.mini2sf"
+    type: result
+...

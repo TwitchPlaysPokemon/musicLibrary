@@ -1,0 +1,75 @@
+---
+id: vibrant_venture
+title: "Vibrant Venture"
+platform: "PC"
+year: 2020
+songs: 
+  - id: a_spore_to_settle_phase_ii
+    title: "A Spore To Settle - Phase II"
+    path: "A Spore To Settle Phase II.brstm"
+    type: warning
+  - id: calm_no_grand_fluppy
+    title: "Calm! No Grand Fluppy!"
+    path: "Calm! No Grand Fluppy!.brstm"
+    type: warning
+  - id: clearing_crystal_coast
+    title: "Clearing Crystal Coast"
+    path: "Clearing Crystal Coast.brstm"
+    type: break
+  - id: conductor_s_mighty_convoy
+    title: "Conductor's Mighty Convoy"
+    path: "Conductor's Mighty Convoy.brstm"
+    type: betting
+  - id: cornucopia_town
+    title: "Cornucopia Town"
+    path: "Cornucopia Town.brstm"
+    type: result
+  - id: forever_fall_forest
+    title: "Forever Fall Forest"
+    path: "Forever Fall Forest.brstm"
+    type: betting
+  - id: gravity_garrison
+    title: "Gravity Garrison"
+    path: "Gravity Garrison.brstm"
+    type: betting
+  - id: level_complete_vibrant_venture
+    title: "Level Complete"
+    path: "Level Complete.brstm"
+    type: result
+  - id: moonbase_metro
+    title: "Moonbase Metro"
+    path: "Moonbase Metro.brstm"
+    type: betting
+  - id: old_bot_gold
+    title: "Old Bot Gold"
+    path: "Old Bot Gold.brstm"
+    type: battle
+  - id: panic_grand_fluppy
+    title: "Panic! Grand Fluppy!"
+    path: "Panic! Grand Fluppy!.brstm"
+    type: warning
+  - id: silvan_scramble
+    title: "Silvan Scramble"
+    path: "Silvan Scramble.brstm"
+    type: betting
+  - id: soaky_subsoils
+    title: "Soaky Subsoils"
+    path: "Soaky Subsoils.brstm"
+    type: betting
+  - id: subsea_skirmish
+    title: "Subsea Skirmish"
+    path: "Subsea Skirmish.brstm"
+    type: betting
+  - id: the_astral_factory
+    title: "The Astral Factory"
+    path: "The Astral Factory.brstm"
+    type: battle
+  - id: violastro_s_deepwater_dungeon
+    title: "Violastro's Deepwater Dungeon"
+    path: "Violastro's Deepwater Dungeon.brstm"
+    type: betting
+  - id: violastro_s_theme
+    title: "Violastro's Theme"
+    path: "Violastro's Theme.brstm"
+    type: warning
+...

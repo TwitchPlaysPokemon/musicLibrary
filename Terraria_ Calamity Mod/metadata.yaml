@@ -41,4 +41,72 @@ songs:
     title: "Universal Collapse"
     path: "Universal Collapse.brstm"
     type: battle
+  - id: antarctic_reinforcement
+    title: "Antarctic Reinforcement"
+    path: "Antarctic Reinforcement.brstm"
+    type: betting
+  - id: ensemble_of_fools
+    title: "Ensemble Of Fools"
+    path: "Ensemble Of Fools.brstm"
+    type: battle
+  - id: guardian_of_the_former_seas
+    title: "Guardian of The Former Seas"
+    path: "Guardian of The Former Seas.brstm"
+    type: battle
+  - id: left_alone_terraria_calamity
+    title: "Left Alone"
+    path: "Left Alone.brstm"
+    type: betting
+  - id: onslaught_of_beasts
+    title: "Onslaught Of Beasts"
+    path: "Onslaught Of Beasts.brstm"
+    type: battle
+  - id: outcast_of_the_sulphurous_seas
+    title: "Outcast of the Sulphurous Seas"
+    path: "Outcast of the Sulphurous Seas.brstm"
+    type: betting
+  - id: reign_of_lords
+    title: "Reign Of Lords"
+    path: "Reign Of Lords.brstm"
+    type: battle
+  - id: return_to_slime
+    title: "Return To Slime"
+    path: "Return To Slime (ft. SixteenInMono).brstm"
+    type: battle
+  - id: roar_of_the_jungle_dragon_instrumental
+    title: "Roar of The Jungle Dragon (Instrumental)"
+    path: "Roar of The Jungle Dragon (Instrumental).brstm"
+    type: battle
+  - id: roar_of_the_jungle_dragon
+    title: "Roar of The Jungle Dragon"
+    path: "Roar of The Jungle Dragon.brstm"
+    type: betting
+  - id: sanctuary_terraria_calamity
+    title: "sanctuary"
+    path: "sanctuary.brstm"
+    type: break
+  - id: scourge_of_the_universe
+    title: "Scourge of The Universe"
+    path: "Scourge of The Universe.brstm"
+    type: battle
+  - id: servants_of_the_scourge
+    title: "Servants of The Scourge"
+    path: "Servants of The Scourge.brstm"
+    type: battle
+  - id: threats_of_the_ocean_floor
+    title: "Threats of The Ocean Floor"
+    path: "Threats of The Ocean Floor.brstm"
+    type: warning
+  - id: unholy_ambush
+    title: "Unholy Ambush"
+    path: "Unholy Ambush.brstm"
+    type: battle
+  - id: void_terraria_calamity
+    title: "void"
+    path: "void.brstm"
+    type: break
+  - id: wasteland_terraria_calamity
+    title: "wasteland"
+    path: "wasteland.brstm"
+    type: break
 ...

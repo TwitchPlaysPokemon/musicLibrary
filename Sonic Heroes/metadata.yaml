@@ -105,4 +105,24 @@ songs:
     path: "SNG_V05_TC.adx"
     ends: 3:30
     type: betting
+  - id: sea_area_2p_battle
+    title: "Sea Area (2P Battle)"
+    path: "SNG_BTL01.adx"
+    type: warning
+  - id: city_area_2p_battle
+    title: "City Area (2P Battle)"
+    path: "SNG_BTL02.adx"
+    type: betting
+  - id: casino_area_2p_battle
+    title: "Casino Area (2P Battle)"
+    path: "SNG_BTL03.adx"
+    type: battle
+  - id: special_stage_emerald_challenge
+    title: "Special Stage: Emerald Challenge"
+    path: "SNG_SPSTG1.adx"
+    type: battle
+  - id: special_stage_bonus_challenge
+    title: "Special Stage: Bonus Challenge"
+    path: "SNG_SPSTG2.adx"
+    type: betting
 ...

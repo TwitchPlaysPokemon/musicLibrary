@@ -4,7 +4,7 @@ title: "Hyrule Warriors: Age of Calamity"
 series: zelda
 platform: "Switch"
 year: 2020
-songs:
+songs: 
   - id: overlooking_hyrule_prelude_to_calamity_map
     title: "Overlooking Hyrule - Prelude to Calamity (Map)"
     path: "BGM_0001.kns"
@@ -149,4 +149,33 @@ songs:
     title: "Desperate Situation"
     path: "BGM_0173.kns"
     type: warning
+#new songs from the DLC. These were the only song titles I could find
+  - id: ancient_wisdom
+    title: "Ancient Wisdom"
+    path: "BGM_DLC1_0000.kno"
+    type: betting
+  - id: vicious_enemies_abound
+    title: "Vicious Enemies Abound"
+    path: "BGM_DLC1_0008.kno"
+    type: battle
+  - id: assault_aoc
+    title: "Assault"
+    path: "BGM_DLC1_0001.kno"
+    type: battle
+  - id: fight_the_battle_tested_guardian
+    title: "Fight the Battle-Tested Guardian!"
+    path: "BGM_DLC1_0004.kno"
+    type: battle
+  - id: vicious_enemies_abound_critical_hit
+    title: "Vicious Enemies Abound (Critical Hit)"
+    path: "BGM_DLC1_0008.kno"
+    type: warning
+  - id: fight_the_battle_tested_guardian_critical_hit
+    title: "Fight the Battle-Tested Guardian! (Critical Hit)"
+    path: "BGM_DLC1_0007.kno"
+    type: warning
+  - id: the_final_memory
+    title: "The Final Memory"
+    path: "BGM_DLC2_0006.kno"
+    type: break
 ...

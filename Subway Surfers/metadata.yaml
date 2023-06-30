@@ -1,0 +1,36 @@
+---
+id: subway_surfers
+title: "Subway Surfers"
+platform: "Mobile"
+year: 2012
+songs:
+  - id: main_theme_subway_surfers
+    title: "Main Theme"
+    path: "Subway_Theme_Generic.fsb"
+    ends: 2:18
+    type: betting
+  - id: tokyo_theme_subway_surfers
+    title: "Tokyo Theme"
+    path: "Subway_Theme_Tokyo.fsb"
+    ends: 2:18
+    type: betting
+  - id: new_york_theme_subway_surfers
+    title: "New York Theme"
+    path: "Subway_Theme_NewYork.fsb"
+    ends: 2:18
+    type: betting
+  - id: las_vegas_theme_subway_surfers
+    title: "Las Vegas Theme"
+    path: "Subway_Theme_LasVegas.fsb"
+    type: result
+  - id: berlin_theme_subway_surfers
+    title: "Berlin Theme"
+    path: "Subway_Theme_Berlin.fsb"
+    ends: 2:18
+    type: betting
+  - id: seattle_theme_subway_surfers
+    title: "Seattle Theme"
+    path: "Subway_Theme_Seattle.fsb"
+    ends: 2:18
+    type: betting
+...

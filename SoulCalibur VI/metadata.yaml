@@ -4,20 +4,73 @@ title: "SoulCalibur VI"
 platform: ["PC", "PS4", "XB1"]
 year: 2018
 songs: 
-  - id: undying_legend
-    title: "Undying Legend"
-    path: "Undying Legend.brstm"
+  - id: battleworn_soul
+    title: "Battleworn Soul"
+    path: "Battleworn Soul.brstm"
     type: battle
-  - id: under_a_pledge
-    title: "Under a Pledge"
-    path: "Under a Pledge.brstm"
+  - id: call_of_the_legend
+    title: "Call of the Legend"
+    path: "Call of the Legend.brstm"
     type: battle
-  - id: the_lionhearted
-    title: "The Lionhearted"
-    path: "The Lionhearted.brstm"
+  - id: chaos_eclipse
+    title: "Chaos Eclipse"
+    path: "Chaos Eclipse.brstm"
+    type: battle
+  - id: city_ruins_soul_nier_automata
+    title: "City Ruins: Soul (NieR: Automata)"
+    path: "City Ruins_ Soul (NieR_ Automata).brstm"
+    type: battle
+  - id: darkest_shadow
+    title: "Darkest Shadow"
+    path: "Darkest Shadow.brstm"
+    type: battle
+  - id: deadland_call
+    title: "Deadland Call"
+    path: "Deadland Call.brstm"
+    type: battle
+  - id: diabolous_amalgam
+    title: "Diabolous Amalgam"
+    path: "Diabolous Amalgam.brstm"
     type: battle
   - id: doomsday
     title: "Doomsday"
     path: "Doomsday.brstm"
     type: battle
+  - id: fortune_favors_the_brave
+    title: "Fortune Favors the Brave"
+    path: "Fortune Favors the Brave.brstm"
+    type: battle
+  - id: hunt_or_be_hunted_witcher_3_wild_hunt
+    title: "Hunt or Be Hunted (The Witcher 3: Wild Hunt)"
+    path: "Hunt or Be Hunted (The Witcher 3_ Wild Hunt).brstm"
+    type: betting
+  - id: moon_of_oblivion
+    title: "Moon of Oblivion"
+    path: "Moon of Oblivion.brstm"
+    type: battle
+  - id: myriad_souls
+    title: "Myriad Souls"
+    path: "Myriad Souls.brstm"
+    type: battle
+  - id: resolute_vanguard
+    title: "Resolute Vanguard"
+    path: "Resolute Vanguard.brstm"
+    type: battle
+  - id: the_evil_flame
+    title: "The Evil Flame"
+    path: "The Evil Flame.brstm"
+    type: battle
+  - id: the_lionhearted
+    title: "The Lionhearted"
+    path: "The Lionhearted.brstm"
+    type: battle
+  - id: under_a_pledge
+    title: "Under a Pledge"
+    path: "Under a Pledge.brstm"
+    type: battle
+  - id: undying_legend
+    title: "Undying Legend"
+    path: "Undying Legend.brstm"
+    type: battle
+
 ...

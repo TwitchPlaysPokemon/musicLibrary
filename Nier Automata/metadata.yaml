@@ -21,4 +21,180 @@ songs:
     title: "Dark Colossus - Kaiju (Dynamic / Instrumental)"
     path: "BGM_Initialize (BGM_JukeBox=Out)(BGM_Stage_JB=-)(BGM_Stage=St_SunkenCity) (BGM_Hacking=Out)(BGM_Sp_Vocal=Off)(BGM_Vocal=Off)(BGM_Layer_Override=-)(BGM_Layer=Dynamic).txtp"
     type: battle
+#new tracks. As mentioned before, these were submitted with looped brstms. 
+#I know you previously did raws for the other ones, but just in case the originals can't be looped
+#I added them here. We can always leave them if changing them is too much.
+#note: given how many variations are here, finding one would probably make the others easy to find too
+  - id: a_beautiful_song_hacking
+    title: "A Beautiful Song - Hacking"
+    path: "A Beautiful Song - Hacking.brstm"
+    type: betting
+  - id: a_beautiful_song
+    title: "A Beautiful Song"
+    path: "A Beautiful Song.brstm"
+    type: battle #vocals too much???
+  - id: amusement_park_dynamic_vocal
+    title: "Amusement Park - Dynamic Vocal"
+    path: "Amusement Park - Dynamic Vocal.brstm"
+    type: betting
+  - id: amusement_park_hacking
+    title: "Amusement Park - Hacking"
+    path: "Amusement Park - Hacking.brstm"
+    type: betting
+  - id: bipolar_nightmare
+    title: "Bipolar Nightmare"
+    path: "Bipolar Nightmare.brstm"
+    type: battle
+  - id: birth_of_a_wish_hacking
+    title: "Birth of a Wish - Hacking"
+    path: "Birth of a Wish - Hacking.brstm"
+    type: betting
+  - id: birth_of_a_wish_quiet
+    title: "Birth of a Wish - Quiet"
+    path: "Birth of a Wish - Quiet.brstm"
+    type: warning
+  - id: birth_of_a_wish_become_as_gods
+    title: "Birth of a Wish (Become as Gods)"
+    path: "Birth of a Wish (Become as Gods).brstm"
+    type: warning
+  - id: birth_of_a_wish_this_cannot_continue
+    title: "Birth of a Wish (This Cannot Continue)"
+    path: "Birth of a Wish (This Cannot Continue).brstm"
+    type: warning
+  - id: blissful_death
+    title: "Blissful Death"
+    path: "Blissful Death.brstm"
+    type: break
+  - id: city_ruins_hacking
+    title: "City Ruins - Hacking"
+    path: "City Ruins - Hacking.brstm"
+    type: betting
+  - id: city_ruins_rays_of_light_dynamic_vocal
+    title: "City Ruins (Rays of Light) - Dynamic Vocal"
+    path: "City Ruins (Rays of Light) - Dynamic Vocal.brstm"
+    type: betting
+  - id: city_ruins_rays_of_light_quiet
+    title: "City Ruins (Rays of Light) - Quiet"
+    path: "City Ruins (Rays of Light) - Quiet.brstm"
+    type: break
+  - id: city_ruins_shade_dynamic_vocal
+    title: "City Ruins (Shade) - Dynamic Vocal"
+    path: "City Ruins (Shade) - Dynamic Vocal.brstm"
+    type: betting
+  - id: city_ruins_shade_quiet
+    title: "City Ruins (Shade) - Quiet"
+    path: "City Ruins (Shade) - Quiet.brstm"
+    type: break
+  - id: copied_city
+    title: "Copied City"
+    path: "Copied City.brstm"
+    type: betting
+  - id: dark_colossus_kaiju_hacking
+    title: "Dark Colossus (Kaiju) - Hacking"
+    path: "Dark Colossus (Kaiju) - Hacking.brstm"
+    type: betting
+  - id: dark_colossus_kaiju_percussion
+    title: "Dark Colossus (Kaiju) - Percussion"
+    path: "Dark Colossus (Kaiju) - Percussion.brstm"
+    type: warning
+  - id: dark_colossus_kaiju_vocal_dynamic
+    title: "Dark Colossus (Kaiju) - Vocal Dynamic"
+    path: "Dark Colossus (Kaiju) - Vocal Dynamic.brstm"
+    type: battle
+  - id: dependent_weakling_hacking
+    title: "Dependent Weakling  - Hacking"
+    path: "Dependent Weakling  - Hacking.brstm"
+    type: betting
+  - id: dependent_weakling_instrumental
+    title: "Dependent Weakling  - Instrumental"
+    path: "Dependent Weakling  - Instrumental.brstm"
+    type: battle
+  - id: dependent_weakling
+    title: "Dependent Weakling"
+    path: "Dependent Weakling.brstm"
+    type: battle
+  - id: destruction_grandma
+    title: "Destruction (Grandma)"
+    path: "Destruction (Grandma).brstm"
+    type: betting
+  - id: end_of_the_unknown_hacking
+    title: "End of the Unknown - Hacking"
+    path: "End of the Unknown - Hacking.brstm"
+    type: betting
+  - id: end_of_the_unknown_quiet_instrumental
+    title: "End of the Unknown - Quiet Instrumental"
+    path: "End of the Unknown - Quiet Instrumental.brstm"
+    type: warning
+  - id: end_of_the_unknown
+    title: "End of the Unknown"
+    path: "End of the Unknown.brstm"
+    type: battle
+  - id: fortress_of_lies
+    title: "Fortress of Lies"
+    path: "Fortress of Lies.brstm"
+    type: break
+  - id: memories_of_dust_dynamic_vocal
+    title: "Memories of Dust - Dynamic Vocal"
+    path: "Memories of Dust - Dynamic Vocal.brstm"
+    type: betting
+  - id: memories_of_dust_hacking
+    title: "Memories of Dust - Hacking"
+    path: "Memories of Dust - Hacking.brstm"
+    type: betting
+  - id: memories_of_dust_quiet
+    title: "Memories of Dust - Quiet"
+    path: "Memories of Dust - Quiet.brstm"
+    type: break
+  - id: pascal
+    title: "Pascal"
+    path: "Pascal.brstm"
+    type: break
+  - id: peaceful_sleep_music_box
+    title: "Peaceful Sleep - Music Box"
+    path: "Peaceful Sleep - Music Box.brstm"
+    type: break
+  - id: peaceful_sleep
+    title: "Peaceful Sleep"
+    path: "Peaceful Sleep.brstm"
+    type: break
+  - id: possessed_by_disease_hacking
+    title: "Possessed by Disease - Hacking"
+    path: "Possessed by Disease - Hacking.brstm"
+    type: betting
+  - id: possessed_by_disease
+    title: "Possessed by Disease"
+    path: "Possessed by Disease.brstm"
+    type: betting
+  - id: song_of_the_ancients_atonement_hacking
+    title: "Song of the Ancients (Atonement) - Hacking"
+    path: "Song of the Ancients (Atonement) - Hacking.brstm"
+    type: betting
+  - id: song_of_the_ancients_atonement
+    title: "Song of the Ancients (Atonement)"
+    path: "Song of the Ancients (Atonement).brstm"
+    type: betting
+  - id: treasured_times
+    title: "Treasured Times"
+    path: "Treasured Times.brstm"
+    type: break
+  - id: umare_iduru_ishi_kami_ni_natta
+    title: "Umare Iduru Ishi (Kami ni Natta)"
+    path: "Umare Iduru Ishi (Kami ni Natta).brstm"
+    type: warning
+  - id: umare_iduru_ishi_konomama_ja_dame
+    title: "Umare Iduru Ishi (Konomama ja Dame)"
+    path: "Umare Iduru Ishi (Konomama ja Dame).brstm"
+    type: warning
+  - id: umare_iduru_ishi_vs_president
+    title: "Umare Iduru Ishi (Vs. President)"
+    path: "Umare Iduru Ishi (Vs. President).brstm"
+    type: betting
+  - id: war_and_war_hacking
+    title: "War & War - Hacking"
+    path: "War & War - Hacking.brstm"
+    type: betting
+  - id: war_and_war
+    title: "War & War"
+    path: "War & War.brstm"
+    type: betting
 ...

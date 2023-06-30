@@ -1,0 +1,39 @@
+---
+id: looney_tunes_twouble
+title: "Looney Tunes - Twouble!"
+platform: "GBC"
+year: 1998
+songs: 
+  - id: title_screen_twouble
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: chasing_tweety
+    title: "Chasing Tweety"
+    path: "02 Chasing Tweety.vgz"
+    type: warning
+  - id: granny_s_house
+    title: "Granny's House"
+    path: "03 Granny's House.vgz"
+    type: break
+  - id: granny_s_cellar
+    title: "Granny's Cellar"
+    path: "04 Granny's Cellar.vgz"
+    type: warning
+  - id: in_the_garden_twouble
+    title: "In the Garden"
+    path: "05 In the Garden.vgz"
+    type: break
+  - id: out_in_the_streets
+    title: "Out in the Streets"
+    path: "06 Out in the Streets.vgz"
+    type: warning
+  - id: in_the_toy_shop
+    title: "In the Toy Shop"
+    path: "07 In the Toy Shop.vgz"
+    type: betting
+  - id: staff_roll_twouble
+    title: "Staff Roll"
+    path: "08 Staff Roll.vgz"
+    type: result
+...

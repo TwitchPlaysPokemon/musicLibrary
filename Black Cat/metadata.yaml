@@ -1,0 +1,63 @@
+---
+id: black_cat
+title: "Black Cat"
+platform: "PS2"
+year: 2006
+songs: 
+  - id: prologue_black_cat
+    title: "prologue"
+    path: "CD_SND_00000017.vgmstream"
+    type: warning
+  - id: panic_town
+    title: "panic town"
+    path: "CD_SND_00000018.vgmstream"
+    type: warning
+  - id: escape_black_cat
+    title: "escape"
+    path: "CD_SND_0000001A.vgmstream"
+    type: battle
+  - id: neko_neko
+    title: "neko neko"
+    path: "CD_SND_0000001B.vgmstream"
+    type: result
+  - id: congratulations_black_cat
+    title: "congratulations"
+    path: "CD_SND_0000001E.vgmstream"
+    type: result
+  - id: カーニバル
+    title: "カーニバル"
+    path: "CD_SND_0000001F.vgmstream"
+    type: result
+  - id: 旅立ち
+    title: "旅立ち"
+    path: "CD_SND_0000002C.vgmstream"
+    type: battle
+  - id: イーリスの曲　其の一
+    title: "イーリスの曲_其の一"
+    path: "CD_SND_00000020.vgmstream"
+    type: break
+  - id: 牙城
+    title: "牙城"
+    path: "CD_SND_00000024.vgmstream"
+    type: battle
+  - id: 荒野のガンマン
+    title: "荒野のガンマン" 
+    path: "CD_SND_00000025.vgmstream"
+    type: break
+  - id: 不穏な鼓動
+    title: "不穏な鼓動"
+    path: "CD_SND_0000002D.vgmstream"
+    type: betting
+  - id: イーリスの曲_其の二
+    title: "イーリスの曲　其の二"
+    path: "CD_SND_00000027.vgmstream"
+    type: betting
+  - id: ジェネラル・シュバルツ
+    title: "ジェネラル・シュバルツ"
+    path: "CD_SND_00000029.vgmstream"
+    type: battle
+  - id: unknown_jingle_black_cat
+    title: "Unknown Jingle"
+    path: "CD_SND_0000002F.vgmstream"
+    type: result
+...

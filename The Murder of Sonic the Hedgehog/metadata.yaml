@@ -1,0 +1,120 @@
+---
+id: the_murder_of_sonic_the_hedgehog
+title: "The Murder of Sonic the Hedgehog"
+series: sonic
+platform: "PC"
+year: 2023
+songs:
+  - id: naming_your_character
+    title: "Naming Your Character!"
+    path: "Naming Your Character!.brstm"
+    type: result
+  - id: lounge_car
+    title: "Lounge Car"
+    path: "Lounge Car.brstm"
+    type: betting
+  - id: library_car
+    title: "Library Car"
+    path: "Library Car.brstm"
+    type: break
+  - id: dining_car_part_1
+    title: "Dining Car (Part 1)"
+    path: "Dining Car (Part 1).brstm"
+    type: betting
+  - id: dining_car_part_2
+    title: "Dining Car (Part 2)"
+    path: "Dining Car (Part 2).brstm"
+    type: betting
+  - id: dining_car_part_3
+    title: "Dining Car (Part 3)"
+    path: "Dining Car (Part 3).brstm"
+    type: betting
+  - id: dining_car_closet
+    title: "Dining Car Closet"
+    path: "Dining Car Closet.brstm"
+    type: warning
+  - id: interrogation_closet
+    title: "Interrogation Closet"
+    path: "Interrogation Closet.brstm"
+    type: warning
+  - id: library_car_interrogation
+    title: "Library Car Interrogation"
+    path: "Library Car Interrogation.brstm"
+    type: warning
+  - id: we_re_trapped_dining_car_lockdown
+    title: "We're Trapped! (Dining Car Lockdown)"
+    path: "We're Trapped! (Dining Car Lockdown).brstm"
+    type: break
+  - id: saloon_car
+    title: "Saloon Car"
+    path: "Saloon Car.brstm"
+    type: break
+  - id: casino_car
+    title: "Casino Car"
+    path: "Casino Car.brstm"
+    type: betting
+  - id: lounge_car_interrogation
+    title: "Lounge Car Interrogation"
+    path: "Lounge Car Interrogation.brstm"
+    type: warning
+  - id: conductor_car_part_1
+    title: "Conductor Car (Part 1)"
+    path: "Conductor Car (Part 1).brstm"
+    type: betting
+  - id: who_murdered_sonic_conductor_car_part_2
+    title: "Who Murdered Sonic (Conductor Car Part 2)"
+    path: "Who Murdered Sonic (Conductor Car Part 2).brstm"
+    type: betting
+  - id: conductor_car_lockdown
+    title: "Conductor Car Lockdown"
+    path: "Conductor Car Lockdown.brstm"
+    type: warning
+  - id: return_to_the_conductor_car
+    title: "Return To The Conductor Car"
+    path: "Return To The Conductor Car.brstm"
+    type: warning
+  - id: safe_room_part_1
+    title: "Safe Room (Part 1)"
+    path: "Safe Room (Part 1).brstm"
+    type: betting
+  - id: a_ticking_time_bomb_safe_room_part_2
+    title: "A Ticking Time Bomb! (Safe Room Part 2)"
+    path: "A Ticking Time Bomb! (Safe Room Part 2).brstm"
+    type: warning
+  - id: the_train_s_speeding_up
+    title: "The Train's Speeding Up!"
+    path: "The Trains Speeding Up!.brstm"
+    type: warning
+  - id: planning_our_heist
+    title: "Planning Our Heist"
+    path: "Planning Our Heist.brstm"
+    type: betting
+  - id: messy_dining_car
+    title: "Messy Dining Car"
+    path: "Messy Dining Car.brstm"
+    type: betting
+  - id: lockdown_chase_minigame
+    title: "Lockdown Chase Minigame"
+    path: "Lockdown Chase Minigame.brstm"
+    type: betting
+  - id: don_t_give_up
+    title: "Don't Give Up!"
+    path: "Don't Give Up!.brstm"
+    type: result
+  - id: don_t_leave_me
+    title: "Don't Leave Me!"
+    path: "Don't Leave Me!.brstm"
+    type: break
+  - id: final_interrogation
+    title: "Final Interrogation"
+    path: "Final Interrogation.brstm"
+    type: warning
+  - id: i_m_thinking_dream_gear_minigame
+    title: "I'm Thinking... (Dream Gear Minigame)"
+    path: "I'm Thinking... (Dream Gear Minigame).brstm"
+    type: betting
+  - id: final_boss_minigame
+    title: "Final Boss Minigame"
+    path: "Final Boss Minigame.brstm"
+    type: battle
+...

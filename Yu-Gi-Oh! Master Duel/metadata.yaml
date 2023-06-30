@@ -1,0 +1,195 @@
+---
+id: yu_gi_oh_master_duel
+title: "Yu-Gi-Oh! Master Duel"
+platform: "Various"
+year: 2022
+#for whatever reason, these tracks aren't named? 
+#The closest I could find was a YouTube playlist which had names for each track.
+#I tried to do a fitting type for each track (almost every file from the rip is here), but if any don't fit or aren't decent enough go ahead and adjust
+songs: 
+  - id: battle_theme_1_samsara
+    title: "Battle Theme 1 - Samsara"
+    path: "BGM_DUEL_NORMAL_01.fsb"
+    type: betting
+  - id: key_card_theme_1_mirror_force
+    title: "Key Card Theme 1 - Mirror Force"
+    path: "BGM_DUEL_KEYCARD_01.fsb"
+    type: battle
+  - id: climax_theme_1_solemn_strike
+    title: "Climax Theme 1 - Solemn Strike"
+    path: "BGM_DUEL_CLIMAX_01.fsb"
+    type: warning
+  - id: battle_theme_2_ancient_rules
+    title: "Battle Theme 2 - Ancient Rules"
+    path: "BGM_DUEL_NORMAL_02.fsb"
+    type: betting
+  - id: key_card_theme_2_solumn_judgment
+    title: "Key Card Theme 2 - Solemn Judgment"
+    path: "BGM_DUEL_KEYCARD_02.fsb"
+    type: battle
+  - id: climax_theme_2_solemn_warning
+    title: "Climax Theme 2 - Solemn Warning"
+    path: "BGM_DUEL_CLIMAX_02.fsb"
+    type: warning
+  - id: battle_theme_3
+    title: "Battle Theme 3" 
+    #for some reason, the third set doesn't have any name?
+    path: "BGM_DUEL_NORMAL_03.fsb"
+    type: betting
+  - id: key_card_theme_3
+    title: "Key Card Theme 3"
+    path: "BGM_DUEL_KEYCARD_03.fsb"
+    type: battle
+  - id: climax_theme_3
+    title: "Climax Theme 3"
+    path: "BGM_DUEL_CLIMAX_03.fsb"
+    type: warning
+  - id: battle_theme_4_balance_of_judgment
+    title: "Battle Theme 4 - Balance of Judgment" 
+    path: "BGM_DUEL_NORMAL_04.fsb"
+    type: betting
+  - id: key_card_theme_4_holactie_the_creator_of_light
+    title: "Key Card Theme 4 - Holactie, The Creator Of Light"
+    path: "BGM_DUEL_KEYCARD_04.fsb"
+    type: battle
+  - id: climax_theme_4_call_of_the_haunted
+    title: "Climax Theme 4 - Call of the Haunted"
+    path: "BGM_DUEL_CLIMAX_04.fsb"
+    type: warning
+  - id: battle_theme_5_axe_of_despair
+    title: "Battle Theme 5 - Axe of Despair" 
+    path: "BGM_DUEL_NORMAL_05.fsb"
+    type: betting
+  - id: key_card_theme_5_judgment_of_the_pharaoh
+    title: "Key Card Theme 5 - Judgment of the Pharaoh"
+    path: "BGM_DUEL_KEYCARD_05.fsb"
+    type: battle
+  - id: climax_theme_5_charge_of_the_light_brigade
+    title: "Climax Theme 5 - Charge of the Light Brigade"
+    path: "BGM_DUEL_CLIMAX_05.fsb"
+    type: battle
+  - id: battle_theme_6_mystical_elf
+    title: "Battle Theme 6 - Mystical Elf" 
+    path: "BGM_DUEL_NORMAL_06.fsb"
+    type: betting
+  - id: key_card_theme_6_legacy_of_the_duelist
+    title: "Key Card Theme 6 - Legacy of the Duelist"
+    path: "BGM_DUEL_KEYCARD_06.fsb"
+    type: battle
+  - id: climax_theme_6_destiny_draw
+    title: "Climax Theme 6 - Destiny Draw"
+    path: "BGM_DUEL_CLIMAX_06.fsb"
+    type: warning
+  - id: battle_theme_7_royal_tribute
+    title: "Battle Theme 7 - Royal Tribute" 
+    path: "BGM_DUEL_NORMAL_07.fsb"
+    type: betting
+  - id: key_card_theme_7_raigeki
+    title: "Key Card Theme 7 - Raigeki"
+    path: "BGM_DUEL_KEYCARD_07.fsb"
+    type: battle
+  - id: climax_theme_7_monster_reborn
+    title: "Climax Theme 7 - Monster Reborn"
+    path: "BGM_DUEL_CLIMAX_07.fsb"
+    type: battle
+  - id: battle_theme_8_dark_magic_veil
+    title: "Battle Theme 8 - Dark Magic Veil" 
+    path: "BGM_DUEL_NORMAL_08.fsb"
+    type: betting
+  - id: key_card_theme_8_rivalry_of_the_warlords
+    title: "Key Card Theme 8 - Rivalry of the Warlords"
+    path: "BGM_DUEL_KEYCARD_08.fsb"
+    type: battle
+  - id: climax_theme_8_last_turn
+    title: "Climax Theme 8 - Last Turn"
+    path: "BGM_DUEL_CLIMAX_08.fsb"
+    type: battle
+  - id: menu_theme_1_summon_gate
+    title: "Menu Theme 1 - Summon Gate"
+    path: "BGM_MENU_01.fsb"
+    type: betting
+  - id: menu_theme_2_deck_lockdown
+    title: "Menu Theme 2 - Deck Lockdown"
+    path: "BGM_MENU_02.fsb"
+    type: betting
+  - id: menu_theme_1_summon_gate_retro
+    title: "Menu Theme 1 - Summon Gate Retro"
+    path: "BGM_MENU_RETRO.fsb"
+    type: break
+  - id: memories_of_hope
+    title: "Memories of Hope"
+    path: "BGM_SOLO_01.fsb"
+    type: betting
+  - id: digital_bug_corebage
+    title: "Digital Bug Corebage"
+    path: "BGM_SOLO_02.fsb"
+    type: warning
+  - id: the_world_legacy
+    title: "The World Legacy"
+    path: "BGM_SOLO_03.fsb"
+    type: break
+  - id: mekk_knight_of_the_morning_star
+    title: "Mekk-Knight of the Morning Star"
+    path: "BGM_SOLO_04.fsb"
+    type: warning
+  - id: inferno_tempest
+    title: "Inferno Tempest"
+    path: "BGM_SOLO_05.fsb"
+    type: warning
+  - id: glory_of_the_noble_knights
+    title: "Glory of the Noble Knights"
+    path: "BGM_SOLO_06.fsb"
+    type: break
+  - id: swing_of_memories
+    title: "Swing of Memories"
+    path: "BGM_SOLO_07.fsb"
+    type: break
+  - id: pantheism_of_the_monarchs
+    title: "Pantheism of the Monarchs"
+    path: "BGM_SOLO_08.fsb"
+    type: betting
+  - id: the_sacred_water_of_the_sky
+    title: "The Sacred Water of the Sky"
+    path: "BGM_SOLO_09.fsb"
+    type: warning
+  - id: march_of_the_monarchs
+    title: "March of the Monarchs"
+    path: "BGM_SOLO_10.fsb"
+    type: warning
+  - id: ordeal_of_a_traveler
+    title: "Ordeal of a Traveler"
+    path: "BGM_SOLO_11.fsb"
+    type: betting
+  - id: solemn_wishes
+    title: "Solemn Wishes"
+    path: "BGM_SOLO_12.fsb"
+    type: break
+  - id: danger_excitement_mystery
+    title: "Danger! Excitement! Mystery!"
+    path: "BGM_SOLO_13.fsb"
+    type: warning
+  - id: wonder_balloons
+    title: "Wonder Balloons"
+    path: "BGM_SOLO_14.fsb"
+    type: betting
+  - id: rain_of_mercy
+    title: "Rain of Mercy"
+    path: "BGM_SOLO_15.fsb"
+    type: betting
+  - id: the_eye_of_truth
+    title: "The Eye of Truth"
+    path: "BGM_SOLO_16.fsb"
+    type: betting
+  - id: aqua_spirit
+    title: "Aqua Spirit"
+    path: "BGM_SOLO_17.fsb"
+    type: break
+  - id: temple_of_the_kings
+    title: "Temple of the Kings"
+    path: "BGM_SOLO_18.fsb"
+    type: betting
+  - id: calming_magic
+    title: "Calming Magic"
+    path: "BGM_SOLO_19.fsb"
+    type: break
+...
