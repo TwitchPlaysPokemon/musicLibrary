@@ -1,0 +1,11 @@
+---
+id: sewing_machine_os
+title: "Sewing Machine OS"
+platform: "GB"
+year: 2000
+songs:
+  - id: bgm1_sewing
+    title: "BGM"
+    path: "CGB-RAKU-JPN.gbs" #technically this is the first track that plays, so it should work? At least worth testing
+    type: result
+...

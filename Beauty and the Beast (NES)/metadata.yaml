@@ -1,0 +1,51 @@
+---
+id: beauty_and_the_beast_nes
+title: "Beauty and the Beast [NES]"
+platform: "Various"
+year: 1994
+songs: 
+  - id: beauty_and_the_beast_prologue
+    title: "Beauty and the Beast (Prologue)"
+    path: "01 Beauty and the Beast (Prologue).vgz"
+    type: betting
+  - id: cutscene_batb
+    title: "Cutscene"
+    path: "02 Cutscene.vgz"
+    type: betting
+  - id: castle_halls_area_1
+    title: "Castle Halls (Area 1)"
+    path: "03 Castle Halls (Area 1).vgz"
+    type: betting
+  - id: a_gift_for_belle
+    title: "A Gift for Belle"
+    path: "09 A Gift for Belle.vgz"
+    type: betting
+  - id: the_library_batb
+    title: "The Library"
+    path: "10 The Library.vgz"
+    type: betting
+  - id: gaston
+    title: "Gaston"
+    path: "13 Gaston.vgz"
+    type: warning
+  - id: timer_running_out
+    title: "Timer Running Out"
+    path: "15 Timer Running Out.vgz"
+    type: warning
+  - id: unknown_theme_2_btab
+    title: "Unknown Theme 2"
+    path: "19 Unknown Theme 2.vgz"
+    type: betting
+  - id: unknown_theme_3_btab
+    title: "Unknown Theme 3"
+    path: "20 Unknown Theme 3.vgz"
+    type: betting
+  - id: unknown_theme_4_btab
+    title: "Unknown Theme 4"
+    path: "21 Unknown Theme 4.vgz"
+    type: result
+  - id: cutscene_unused_alternate
+    title: "Cutscene (Unused Alternate)"
+    path: "22 Cutscene (Unused Alternate).vgz"
+    type: break
+...

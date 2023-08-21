@@ -5,13 +5,33 @@ series: sonic
 platform: "GBA"
 year: 2004
 songs:
+  - id: start_demo
+    title: "Start Demo"
+    path: "Start Demo.minigsf"
+    type: warning
   - id: chaos_angel_boss
     title: "Chaos Angel Boss"
     path: "Chaos Angel Boss.minigsf"
     type: battle
+  - id: chaos_angel_boss_pinch
+    title: "Chaos Angel Boss -pinch-"
+    path: "Chaos Angel Boss -pinch-.minigsf"
+    type: warning
+  - id: final_boss_sa3
+    title: "Final Boss"
+    path: "Final-Boss.minigsf"
+    type: battle
   - id: cyber_track_act_1
     title: "Cyber Track Act 1"
     path: "Cyber Track Act 1.minigsf"
+    type: betting
+  - id: cyber_track_act_2
+    title: "Cyber Track Act 2"
+    path: "Cyber Track Act 2.minigsf"
+    type: betting
+  - id: cyber_track_act_3
+    title: "Cyber Track Act 3"
+    path: "Cyber Track Act 3.minigsf"
     type: betting
   - id: main_menu_sadv3
     title: "Main Menu"
@@ -21,18 +41,61 @@ songs:
     title: "Route 99 Act 1"
     path: "Route 99 Act 1.minigsf"
     type: betting
+  - id: route_99_act_2
+    title: "Route 99 Act 2"
+    path: "Route 99 Act 2.minigsf"
+    type: betting
+  - id: route_99_act_3
+    title: "Route 99 Act 3"
+    path: "Route 99 Act 3.minigsf"
+    type: betting
   - id: sunset_hill_act_1
     title: "Sunset Hill Act 1"
     path: "Sunset Hill Act 1.minigsf"
     type: betting
-#  - id: toy_kingdom_act_1
-#    title: "Toy Kingdom Act 1"
-#    path: "Toy Kingdom Act 1.minigsf"
-#   type: betting
+  - id: sunset_hill_act_2
+    title: "Sunset Hill Act 2"
+    path: "Sunset Hill Act 2.minigsf"
+    type: betting
+  - id: sunset_hill_act_3
+    title: "Sunset Hill Act 3"
+    path: "Sunset Hill Act 3.minigsf"
+    type: betting
+  - id: ocean_base_act_1
+    title: "Ocean Base Act 1"
+    path: "Ocean Base Act 1.minigsf"
+    type: betting
+  - id: ocean_base_act_2
+    title: "Ocean Base Act 2"
+    path: "Ocean Base Act 2.minigsf"
+    type: betting
+  - id: ocean_base_act_3
+    title: "Ocean Base Act 3"
+    path: "Ocean Base Act 3.minigsf"
+    type: betting
+  - id: toy_kingdom_act_1
+    title: "Toy Kingdom Act 1"
+    path: "Toy Kingdom Act 1.minigsf"
+    type: betting
+  - id: toy_kingdom_act_2
+    title: "Toy Kingdom Act 2"
+    path: "Toy Kindom Act 2.minigsf"
+    type: betting
+  - id: toy_kingdom_act_3
+    title: "Toy Kingdom Act 3"
+    path: "Toy Kingdom Act 3.minigsf"
+    type: betting
   - id: twinkle_snow_act_1
     title: "Twinkle Snow Act 1"
     path: "Twinkle Snow Act 1.minigsf"
-    tags: [xmas]
+    type: betting
+  - id: twinkle_snow_act_2
+    title: "Twinkle Snow Act 2"
+    path: "Twinkle Snow Act 2.minigsf"
+    type: betting
+  - id: twinkle_snow_act_3
+    title: "Twinkle Snow Act 3"
+    path: "Twinkle Snow Act 3.minigsf"
     type: betting
   - id: chaos_angel_map
     title: "Chaos Angel Map"
@@ -61,34 +124,73 @@ songs:
   - id: twinkle_snow_map
     title: "Twinkle Snow Map"
     path: "Twinkle Snow Map.minigsf"
-    tags: [xmas]
     type: break
   - id: character_select
     title: "Character Select"
     path: "Character Select.minigsf"
     type: result
+  - id: ending_a
+    title: "Ending A"
+    path: "Ending A.minigsf"
+    type: result
   - id: ending_b
     title: "Ending B"
     path: "Ending B.minigsf"
+    type: result
+  - id: staff_roll_sa3
+    title: "Staff Roll"
+    path: "Staff Roll.minigsf"
+    type: break
+  - id: boss_clear_sa3
+    title: "Boss Clear"
+    path: "Boss Clear! (1).minigsf"
+    type: result
+  - id: boss_clear_ver_2_sa3
+    title: "Boss Clear - ver. 2"
+    path: "Boss Clear! (2).minigsf"
     type: result
   - id: options_sadv3
     title: "Options"
     path: "Options.minigsf"
     type: break
+  - id: chao_playground
+    title: "Chao Playground"
+    path: "Chao Playground.minigsf"
+    type: result
   - id: eggman_attacks
     title: "Eggman Attacks!"
     path: "Eggman Attacks!.minigsf"
-    type: warning
-  - id: ex_boss
-    title: "EX Boss"
+    type: battle
+  - id: eggman_attacks_unused_version
+    title: "Eggman Attacks! (Unused Version)"
+    path: "Intact Music 2.minigsf"
+    type: battle
+  - id: ex_boss_nonagression
+    title: "Nonagression"
     path: "EX Boss.minigsf"
-    type: warning
-  - id: finalzone_map
-    title: "Final Zone Map"
+    type: battle
+  - id: alter_emerald
+    title: "Altar Emerald"
     path: "FinalZone Map.minigsf"
-    type: warning
+    type: betting
   - id: chaos_angel_act_1
     title: "Chaos Angel Act 1"
-    path: "36 Chaos Angel Act 1.minigsf"
+    path: "Chaos Angel Act 1.minigsf"
     type: warning
+  - id: chaos_angel_act_2
+    title: "Chaos Angel Act 2"
+    path: "Chaos Angel Act 2.minigsf"
+    type: betting
+  - id: chaos_angel_act_3
+    title: "Chaos Angel Act 3"
+    path: "Chaos Angel Act 3.minigsf"
+    type: battle
+  - id: ex_demo_1
+    title: "EX Demo 1"
+    path: "EX Demo 1.minigsf"
+    type: warning
+  - id: ex_demo_2
+    title: "EX Demo 2"
+    path: "EX Demo 2.minigsf"
+    type: result
 ...

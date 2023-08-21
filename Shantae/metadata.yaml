@@ -8,48 +8,96 @@ songs:
     title: "File Menu"
     path: "02 File Menu.vgz"
     type: warning
-  - id: boss_shantae
-    title: "Boss"
-    path: "16 Boss.vgz"
-    type: warning
-  - id: conversation_shantae
-    title: "Conversation"
-    path: "12 Conversation.vgz"
-    type: warning
-  - id: mini_game_shantae
-    title: "Mini-Game"
-    path: "21 Minigame.vgz"
-    type: result
   - id: burning_town_shantae
     title: "Burning Town"
     path: "03 Burning Town.vgz"
     type: betting
+  - id: risky_boots_shantae
+    title: "Risky Boots"
+    path: "04 Risky Boots.vgz"
+    type: warning
+  - id: flashback_shantae
+    title: "Flashback"
+    path: "05 Flashback.vgz"
+    type: warning
   - id: scuttle_town_shantae
     title: "Scuttle Town"
     path: "06 Scuttle Town.vgz"
     type: betting
-  - id: game_over_shantae
-    title: "Game Over"
-    path: "30 Game Over.vgz"
+  - id: dance_room_shantae
+    title: "Dance Room"
+    path: "08 Dance Room.vgz"
+    type: warning
+  - id: day_travel_shantae
+    title: "Day Travel"
+    path: "09 Day Travel.vgz"
+    type: betting
+  - id: cavern_shantae
+    title: "Caverns"
+    path: "10 Caverns.vgz"
+    type: warning
+  - id: water_town_shantae
+    title: "Water Town"
+    path: "11 Water Town.vgz"
+    type: betting
+  - id: conversation_shantae
+    title: "Conversation"
+    path: "12 Conversation.vgz"
+    type: warning
+  - id: labyrinths_shantae
+    title: "Labyrinths"
+    path: "13 Labyrinths.vgz"
+    type: betting
+  - id: genie_shantae
+    title: "Genie"
+    path: "14 Genie.vgz"
+    type: warning
+  - id: boss_shantae
+    title: "Boss"
+    path: "16 Boss.vgz"
+    type: warning
+  - id: night_travel_shantae
+    title: "Night Travel"
+    path: "18 Night Travel.vgz"
+    type: battle
+  - id: oasis_town_shantae
+    title: "Oasis Town"
+    path: "19 Oasis Town.vgz"
+    type: betting
+  - id: mini_game_shantae
+    title: "Mini-Game"
+    path: "21 Minigame.vgz"
     type: result
-  - id: flashback_shantae
-    title: "Flashback"
-    path: "05 Flashback.vgz"
-    type: break
-  - id: tinkertank_battle
-    title: "Tinkertank Battle"
-    path: "32 Tinkertank Battle.vgz"
+  - id: day_travel_2_shantae
+    title: "Day Travel"
+    path: "24 Day Travel 2.vgz"
+    type: betting
+  - id: labyrinths_2_shantae
+    title: "Labyrinths 2"
+    path: "25 Labyrinths 2.vgz"
+    type: betting
+  - id: zombie_caravan_shantae
+    title: "Zombie Caravan"
+    path: "26 Zombie Caravan.vgz"
+    type: betting
+  - id: night_travel_2_shantae
+    title: "Night Travel 2"
+    path: "27 Night Travel 2.vgz"
     type: battle
-  - id: risky_boots_battle_shantae
-    title: "Risky Boots Battle"
-    path: "31 Risky Boots Battle.vgz"
-    type: battle
+  - id: bandit_town_shantae
+    title: "Bandit Town"
+    path: "28 Bandit Town.vgz"
+    type: betting
+  - id: underground_shantae
+    title: "Underground"
+    path: "29 Underground.vgz"
+    type: warning
+  - id: escape_from_tinkerbat_factory
+    title: "Escape from Tinkerbat Factory"
+    path: "33 Escape from Tinkerbat Factory.vgz"
+    type: warning
   - id: credits_shantae
     title: "Credits"
     path: "35 Credits.vgz"
-    type: betting
-  - id: night_travel_2
-    title: "Night Travel 2"
-    path: "27 Night Travel 2.vgz"
-    type: betting
+    type: result
 ...

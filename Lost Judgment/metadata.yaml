@@ -229,4 +229,29 @@ songs:
     title: "Lineage Of Clan"
     path: "430 Lineage Of Clan.brstm"
     type: battle
+# The Kaito Files DLC tracks
+  - id: raid_lost_judgment
+    title: "Raid"
+    path: "1 stream_000000E2.hca"
+    type: battle
+  - id: iron_plate
+    title: "Iron Plate"
+    path: "2 stream_000000E4.hca"
+    type: battle
+  - id: bottling_spirit
+    title: "Bottling Spirit"
+    path: "3 bbg_a_dlc_00000006.hca"
+    type: battle
+  - id: hasty_spirit
+    title: "Hasty Spirit"
+    path: "4 bbg_a_dlc_00000001.hca"
+    type: battle
+  - id: behind_the_scheme
+    title: "Behind the Scheme"
+    path: "5 bbg_b_dlc_00000001.hca"
+    type: battle
+  - id: the_duel_lost_judgment
+    title: "The Duel"
+    path: "6 bbg_b_dlc_00000003.hca"
+    type: betting
 ...

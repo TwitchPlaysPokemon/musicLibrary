@@ -1,0 +1,56 @@
+---
+id: doom_3do
+title: "DOOM [3DO]"
+series: doom
+platform: ["3DO", "Various"]
+year: 1995
+songs:
+  - id: e1m1_3do
+    title: "At DOOM's Gate"
+    path: "At DOOM's Gate.brstm"
+    type: battle
+  - id: e1m2_3do
+    title: "Imp's Song"
+    path: "Imp's Song.brstm"
+    type: betting
+  - id: e1m3_3do
+    title: "Dark Halls"
+    path: "Dark Halls.brstm"
+    type: betting
+  - id: e1m4_3do
+    title: "Kitchen Ace (And Taking Names)"
+    path: "Kitchen Ace (And Taking Names).brstm"
+    type: battle
+  - id: e1m5_3do
+    title: "Suspense"
+    path: "Suspense.brstm"
+    type: betting
+  - id: e1m6_3do
+    title: "On the Hunt.brstm"
+    path: "On the Hunt.brstm"
+    type: battle
+  - id: e1m7_3do
+    title: "Demons on the Prey"
+    path: "Demons on the Prey.brstm"
+    type: betting
+  - id: e1m8_3do
+    title: "Sign of Evil"
+    path: "Sign of Evil.brstm"
+    type: betting
+  - id: e1m9_3do
+    title: "Hiding the Secrets"
+    path: "Hiding the Secrets.brstm"
+    type: betting
+  - id: e2m1_3do
+    title: "I Sawed the Demons"
+    path: "I Sawed the Demons.brstm"
+    type: betting
+  - id: e3m1_3do
+    title: "Untitled"
+    path: "Untitled.brstm"
+    type: betting
+  - id: e3m2_3do
+    title: "Donna to the Rescue"
+    path: "Donna to the Rescue.brstm"
+    type: betting
+...

@@ -1,0 +1,19 @@
+---
+id: lawn_mower
+title: "Lawn Mower"
+platform: "NES"
+year: 2011
+songs:
+  - id: title_screen_lawn
+    title: "Title Screen"
+    path: "01 Title.vgz"
+    type: betting
+  - id: bgm_lawn
+    title: "Game"
+    path: "02 Game.vgz"
+    type: warning
+  - id: well_done_lawn
+    title: "Well Done"
+    path: "05 Well Done.vgz"
+    type: result
+...

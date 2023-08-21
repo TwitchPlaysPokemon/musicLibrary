@@ -1,0 +1,43 @@
+---
+id: digimon_tamers_digimon_medley
+title: "Digimon Tamers: Digimon Medley"
+platform: "Wonderswan"
+year: 2001
+songs:
+  - id: normal_battle_digimon
+    title: "Normal Battle"
+    path: "Normal Battle (BGM #01).brstm"
+    type: warning
+  - id: butter_fly_digimon
+    title: "Butter-Fly"
+    path: "Butter-Fly (BGM #03).brstm"
+    type: betting
+  - id: target_akai_shougeki
+    title: "Target~Akai Shougeki~"
+    path: "Target~Akai Shougeki~ (BGM #04).brstm"
+    type: betting
+  - id: story_crosses
+    title: "Story- Crosses"
+    path: "Story- Crosses (BGM #05).brstm"
+    type: break
+  - id: butter_fly_short
+    title: "Butter-Fly (Short)"
+    path: "Butter-Fly (Short) (BGM #09).brstm"
+    type: result
+  - id: boss_battle_digimon
+    title: "Boss Battle"
+    path: "Boss Battle (BGM #16).brstm"
+    type: warning
+  - id: final_battle_digimon
+    title: "Final Battle"
+    path: "Final Battle (BGM #17).brstm"
+    type: warning
+  - id: the_biggest_dreamer
+    title: "The Biggest Dreamer"
+    path: "The Biggest Dreamer (BGM #18).brstm"
+    type: betting
+  - id: my_tomorrow_digimon
+    title: "My Tomorrow"
+    path: "My Tomorrow (BGM #19).brstm"
+    type: betting
+...

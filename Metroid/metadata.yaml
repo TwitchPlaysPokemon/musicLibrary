@@ -4,17 +4,47 @@ title: "Metroid"
 series: metroid
 platform: "NES"
 year: 1987
+#full redo with raw files
 songs:
-  - id: item_room_ambience
-    title: "Item Room Ambience"
-    path: "Item Room Ambience.brstm"
-    type: warning
-  - id: mother_brain
-    title: "Mother Brain"
-    path: "Mother Brain.brstm"
-    type: warning
+  - id: title_metroid
+    title: "Title"
+    path: "01 Title BGM.vgz"
+    ends: 2:29
+    type: betting
+  - id: brinstar_metroid
+    title: "Brinstar"
+    path: "03 Brinstar.vgz"
+    type: betting
   - id: mini_boss_room_i
     title: "Kraid's Lair"
     path: "04 Mini Boss Room I.vgz"
     type: betting
+  - id: norfair_metroid
+    title: "Norfair"
+    path: "05 Norfair.vgz"
+    type: betting
+  - id: mini_boss_room_ii
+    title: "Ridley's Lair"
+    path: "06 Mini Boss Room II.vgz"
+    type: warning
+  - id: item_room_ambience
+    title: "Item Room Ambience"
+    path: "07 Silence.vgz"
+    type: warning
+  - id: mother_brain
+    title: "Mother Brain"
+    path: "09 Tourian.vgz"
+    type: warning
+  - id: zebetite
+    title: "Zebetite"
+    path: "10 Zebetite.vgz"
+    type: warning
+  - id: escape_metroid
+    title: "Escape"
+    path: "11 Escape.vgz"
+    type: betting
+  - id: ending_metroid
+    title: "Ending"
+    path: "12 Ending.vgz"
+    type: result
 ...

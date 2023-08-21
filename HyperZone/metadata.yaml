@@ -4,14 +4,46 @@ title: "HyperZone"
 platform: "SNES"
 year: 1991
 songs: 
+  - id: title_demo_hyperzone
+    title: "Title Demo"
+    path: "02 Title Demo.spc"
+    type: result
+  - id: old_capital_hyperzone
+    title: "Old Capital"
+    path: "03 Old Capital.spc"
+    type: betting
+  - id: blast_furnace
+    title: "Blast Furnace"
+    path: "04 Blast Furnace.spc"
+    type: betting
+  - id: material_factory_hyperzone
+    title: "Material Factory"
+    path: "05 Material Factory.spc"
+    type: betting
+  - id: grass_land_hyperzone
+    title: "Grass Land"
+    path: "06 Grass Land.spc"
+    type: betting
+  - id: ripple_field
+    title: "Ripple Field"
+    path: "07 Ripple Field.spc"
+    type: betting
   - id: neo_megalopolis
     title: "Neo Megalopolis"
     path: "08 Neo Megalopolis.spc"
     type: betting
+  - id: bioplant_hyperzone
+    title: "Bioplant"
+    path: "09 Bioplant.spc"
+    type: battle
   - id: hyper_zone
     title: "Hyper Zone"
     path: "10 Hyper Zone.spc"
     type: betting
+  - id: last_boss_hyperzone
+    title: "Last Boss"
+    path: "12 Last Boss.spc"
+    type: warning
   - id: credits_hyperzone
     title: "Credits"
     path: "14 Credits.spc"

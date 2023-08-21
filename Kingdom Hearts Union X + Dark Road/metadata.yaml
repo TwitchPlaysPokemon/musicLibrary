@@ -1,0 +1,108 @@
+id: kingdom_hearts_union_chi_dark_road
+title: "Kingdom Hearts Union χ + Dark Road"
+series: kingdomhearts
+platform: "Mobile"
+year: 2015
+#could've added more here, but these are the ones I know are original. The others might be just other KH themes added in, I can't tell
+songs:
+  - id: dearly_beloved_unchained
+    title: "Dearly Beloved (Unchained χ Version)"
+    path: "1-01 Dearly Beloved (Unchained χ Version).akb"
+    type: break
+  - id: shipmeisters_shanty_unchained
+    title: "Shipmeisters' Shanty (Unchained χ Version)"
+    path: "1-02 Shipmeisters' Shanty (Unchained χ Version).akb"
+    type: betting
+  - id: before_the_daylight
+    title: "Before the Daylight"
+    path: "1-03 Before The Daylight.akb"
+    type: betting
+  - id: wake_up_world
+    title: "Wake Up, World!"
+    path: "1-04 Wake Up, World!.akb"
+    type: betting
+  - id: mission_complete_kingdom_hearts_chi
+    title: "Mission Complete!"
+    path: "1-05 Mission Complete!.akb"
+    type: result
+  - id: dearly_beloved_union
+    title: "Dearly Beloved (Union χ Version)"
+    path: "1-07 Dearly Beloved (Union χ Version).akb"
+    type: break
+  - id: hand_in_hand_union
+    title: "Hand in Hand (Union χ Version)"
+    path: "1-08 Hand in Hand (Union χ Version).akb"
+    type: betting
+  - id: game_central_station
+    title: "Game Central Station"
+    path: "1-09 Game Central Station.akb"
+    type: khtype
+  - id: the_candy_filled_kingdom
+    title: "The Candy-Filled Kingdom"
+    path: "1-10 The Candy-Filled Kingdom.akb"
+    type: betting
+  - id: the_fastest_racer
+    title: "The Fastest Racer"
+    path: "1-11 The Fastest Racer.akb"
+    type: battle
+  - id: a_nameless_planet
+    title: "A Nameless Planet"
+    path: "1-12 A Nameless Planet.akb"
+    type: betting
+  - id: hero_s_duty_troopers
+    title: "Hero's Duty Troopers"
+    path: "1-13 Hero's Duty Troopers.akb"
+    type: warning
+  - id: welcome_to_niceland
+    title: "Welcome to Niceland"
+    path: "1-14 Welcome to Niceland.akb"
+    type: betting
+  - id: i_m_gonna_wreck_it
+    title: "I'm Gonna Wreck It!"
+    path: "1-15 I'm Gonna Wreck It!.akb"
+    type: battle
+  - id: passing_the_power
+    title: "Passing the Power"
+    path: "1-16 Passing the Power.akb"
+    type: betting
+  - id: the_foretellers
+    title: "The Foretellers"
+    path: "1-17 The Foretellers.akb"
+    type: warning
+  - id: master_of_masters
+    title: "Master of Masters"
+    path: "1-18 Master of Masters.akb"
+    type: betting
+  - id: dearly_beloved_credits_version
+    title: "Dearly Beloved (Credits Version)"
+    path: "1-19 Dearly Beloved (Credits Version).akb"
+    type: break
+  - id: dream_eaters_unchained
+    title: "dream Eaters (Unchained χ Version)"
+    path: "1-20 dream Eaters (Unchained χ Version).akb"
+    type: result
+  - id: 2nd_movement_kairi_andante_sostenuto
+    title: "2nd Movement  - Kairi - Andante sostenuto"
+    path: "1-21 2nd Movement  - Kairi - Andante sostenuto.akb"
+    type: break
+  - id: musique_por_la_tristesse_de_xion
+    title: "Musique pour la tristesse de Xion"
+    path: "1-22 Musique pour la tristesse de Xion.akb"
+    type: break
+  - id: daybreak_town_the_heart_of_chi
+    title: "Daybreak Town - The Heart of χ"
+    path: "1-23 Daybreak Town - The Heart of χ.akb"
+    type: betting
+  - id: the_other_promise_drammatica
+    title: "The Other Promise 'drammatica'"
+    path: "1-24 The Other Promise 'drammatica'.akb"
+    type: betting
+  - id: twister_union_chi_version
+    title: "Twister (Union χ Version)"
+    path: "1-25 Twister (Union χ Version).akb"
+    type: betting
+  - id: the_other_promise_piano_ver
+    title: "The Other Promise (Piano Version)"
+    path: "1-26 The Other Promise (Piano Version).akb"
+    type: break
+...

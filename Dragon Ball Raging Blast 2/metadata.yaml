@@ -1,0 +1,20 @@
+---
+id: dragon_ball_raging_blast_2
+title: "Dragon Ball Raging Blast 2"
+series: dragonball
+year: 2010
+platform: ["PS3", "360"]
+songs:
+  - id: unmei_no_hi_tamashi_vs_tamashi
+    title: "Unmei no Hi ~Tamashi vs. Tamashi~"
+    path: "Unmei no Hi ~Tamashi vs. Tamashi~ Gohan's Theme.brstm"
+    type: betting
+  - id: critical_power
+    title: "Critical Power"
+    path: "Critical Power.brstm"
+    type: battle
+  - id: solid_state_scouter
+    title: "Solid State Scouter"
+    path: "Solid State Scouter.brstm"
+    type: battle
+...

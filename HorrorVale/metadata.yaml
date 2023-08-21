@@ -1,0 +1,39 @@
+---
+id: horrorvale
+title: "HorrorVale"
+platform: "PC"
+year: 2019
+songs:
+  - id: frightening_foes
+    title: "Frightening Foes"
+    path: "Frightening Foes.logg"
+    type: betting
+  - id: mechanical_march
+    title: "Mechanical March"
+    path: "Mechanical March.logg"
+    type: warning
+  - id: orchid_dance
+    title: "Orchid Dance"
+    path: "Orchid Dance.logg"
+    type: betting
+  - id: paranormal_lamptivity
+    title: "Paranormal Lamptivity"
+    path: "Paranormal Lamptivity.logg"
+    type: battle
+  - id: pumpkin_panic
+    title: "Pumpkin Panic"
+    path: "Pumpkin Panic.logg"
+    type: warning
+  - id: skeleton_s_lullaby
+    title: "Skeleton's Lullaby"
+    path: "Skeleton's Lullaby.logg"
+    type: break
+  - id: spooky_swing
+    title: "Spooky Swing"
+    path: "Spooky Swing.logg"
+    type: betting
+  - id: who_the_girl_sets_free
+    title: "Who The Girl Sets Free"
+    path: "Who_The_Girl_Sets_Free.logg"
+    type: betting
+...

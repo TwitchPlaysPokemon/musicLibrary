@@ -1,0 +1,40 @@
+---
+id: spongebob_legend_of_the_lost_spatula
+title: "SpongeBob SquarePants: Legend of the Lost Spatula"
+platform: "GBC"
+year: 2001
+songs:
+  - id: title_screen_sbgbc
+    title: "Title Screen"
+    path: "01 SpongeBob SquarePants Theme Song.vgz"
+    type: result
+  - id: goo_lagoon_sbgbc
+    title: "Goo Lagoon"
+    path: "08 Goo Lagoon.vgz"
+    type: betting
+  - id: jellyfish_fields_sbgbc
+    title: "Jellyfish Fields"
+    path: "11 Jellyfish Fields.vgz"
+    type: betting
+  - id: rock_bottom_sbgbc
+    title: "Rock Bottom"
+    path: "13 Rock Bottom.vgz"
+    type: warning
+  - id: downtown_bikini_bottom_sbgbc
+    title: "Downtown Bikini Bottom"
+    path: "05 Downtown.vgz"
+    type: betting
+  - id: boss_sbgbc
+    title: "Boss"
+    path: "15 Boss.vgz"
+    type: warning
+  - id: final_boss_sbgbc
+    title: "Final Boss"
+    path: "16 Final Boss.vgz"
+    #could be battle? dunno
+    type: warning
+  - id: menu_sbgbc
+    title: "Menu"
+    path: "03 Menu.vgz"
+    type: result
+...

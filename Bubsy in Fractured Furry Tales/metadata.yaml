@@ -1,5 +1,5 @@
 ---
-id: bubsy_jag
+id: bubsy_in_fractured_furry_tales
 title: "Bubsy in Fractured Furry Tales"
 series: bubsy
 platform: "Jaguar"
@@ -9,4 +9,24 @@ songs:
     title: "Go Ask Alice! (Level 1)"
     path: "Go Ask Alice! (Level 1).brstm"
     type: betting
+  - id: bubsy_and_gretel
+    title: "Bubsy and Gretel"
+    path: "Bubsy and Gretel.brstm"
+    type: betting
+  - id: bubsy_and_the_beanstalk
+    title: "Bubsy and the Beanstalk"
+    path: "Bubsy and the Beanstalk.brstm"
+    type: betting
+  - id: waterbubsy
+    title: "Waterbubsy"
+    path: "Waterbubsy.brstm"
+    type: betting
+  - id: title_bubsy_fractured
+    title: "Title Screen (No Intro)"
+    path: "title_(no_intro).brstm"
+    type: result
+  - id: high_score_bubsy_fractured
+    title: "High Score"
+    path: "hiscore.brstm"
+    type: result
 ...

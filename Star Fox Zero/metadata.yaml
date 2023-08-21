@@ -4,8 +4,80 @@ title: "Star Fox Zero"
 year: 2016
 platform: "Wii U"
 songs:
+  - id: andross_sf0
+    title: "Andross"
+    path: "Andross.brstm"
+    type: warning
+  - id: asteroid_field_sf0
+    title: "Asteroid Field"
+    path: "Asteroid Field.brstm"
+    type: warning
+  - id: boss_a_sf0
+    title: "Boss A"
+    path: "Boss A.brstm"
+    type: battle
+  - id: boss_b_sf0
+    title: "Boss B"
+    path: "Boss B.brstm"
+    type: battle
+  - id: boss_c_sf0
+    title: "Boss C"
+    path: "Boss C.brstm"
+    type: battle
+  - id: corneria_sf0
+    title: "Corneria"
+    path: "Corneria.brstm"
+    type: battle
+  - id: deploy_the_gyrowing
+    title: "Deploy the Gyrowing"
+    path: "Deploy the Gyrowing.brstm"
+    type: warning
+  - id: dr_andross
+    title: "Dr. Andross"
+    path: "Dr Andross.brstm"
+    type: battle
+  - id: final_battle_sf0
+    title: "Final Battle"
+    path: "Final Battle.brstm"
+    type: battle
+  - id: fortuna_sf0
+    title: "Fortuna"
+    path: "Fortuna.brstm"
+    type: battle
+  - id: interplanetary_combat_ship_attack_carrier
+    title: "Interplanetary Combat Ship, Attack Carrier"
+    path: "Interplanetary Combat Ship, Attack Carrier.brstm"
+    type: battle
   - id: mission_accomplished
     title: "Mission Accomplished"
     path: "Mission Complete.brstm"
     type: result
+  - id: sector_alpha_sf0
+    title: "Sector α"
+    path: "Sector α.brstm"
+    type: battle
+  - id: sector_beta_sf0
+    title: "Sector β"
+    path: "Sector β.brstm"
+    type: battle
+  - id: sector_gamma_sf0
+    title: "Sector γ"
+    path: "Sector γ.brstm"
+    type: battle
+  - id: sector_omega_sf0
+    title: "Sector Ω"
+    path: "Sector Ω.brstm"
+    type: battle
+  - id: star_wolf_sf0
+    title: "Star Wolf"
+    path: "Star Wolf.brstm"
+    type: betting
+  - id: titania_sf0
+    title: "Titania"
+    path: "Titania.brstm"
+    type: battle
+  - id: zoness_sf0
+    title: "Zoness"
+    path: "Zoness.brstm"
+    type: battle
 ...

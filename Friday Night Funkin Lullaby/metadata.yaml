@@ -1,0 +1,82 @@
+---
+id: friday_night_funkin_lullaby
+title: "Friday Night Funkin': Lullaby"
+platform: "PC"
+year: 2021
+is_fanwork: true
+#this is a Friday Night Funkin' mod based off Pokémon creepypastas. I couldn't resist.
+songs: 
+  - id: pokedex_fnf_lullaby
+    title: "Pokédex"
+    path: "68. Pokedex.mp3"
+    type: betting
+  - id: pause_theme_fnf_lullaby
+    title: "Pause Theme"
+    path: "67. Pause Theme.mp3"
+    type: break
+  - id: the_cartridge_guy_s_shope
+    title: "The Cartridge Guy's Shopé"
+    path: "39. Freeplay Menu.mp3"
+    type: betting
+  - id: safety_lullaby_instrumental
+    title: "Safety Lullaby (Instrumental)"
+    path: "72. Safety Lullaby (Instrumental).mp3"
+    ends: 2:20
+    type: betting
+  - id: safety_lullaby_v2_instrumental
+    title: "Safety Lullaby (V2) (Instrumental)"
+    path: "73. Safety Lullaby (V2) (Instrumental).mp3"
+    ends: 2:29
+    type: betting
+  - id: missingno_instrumental
+    title: "Missingno (Instrumental)"
+    path: "81. Missingno (Instrumental).mp3"
+    ends: 2:48
+    type: betting 
+  - id: missingno_v2_instrumental
+    title: "Missingno (V2) (Instrumental)"
+    path: "82. Missingno (V2) (Instrumental).mp3"
+    ends: 3:34
+    type: betting 
+  - id: game_over_missingno
+    title: "Game Over (Missingno)"
+    path: "34. Game Over (Missingno).mp3"
+    type: warning 
+  - id: pasta_night_instrumental
+    title: "Pasta Night (Instrumental)"
+    path: "92. Pasta Night (Instrumental).mp3"
+    type: betting 
+  - id: shitno_instrumental
+    title: "Shitno (Instrumental)"
+    path: "94. Shitno (Instrumental).mp3" #could be battle, but I dunno any good loop points
+    type: betting 
+  - id: rednecks_instrumental
+    title: "Rednecks (Instrumental)"
+    path: "99. Rednecks (Instrumental).mp3"
+    type: result 
+#and now the brstms. I tried
+  - id: unused_fnf_lullaby
+    title: "Unused"
+    path: "71. Unused (PokemonTowerTheme.ogg).brstm"
+    type: betting
+  - id: cinnabar_island_fnf_lullaby
+    title: "Cinnabar Island"
+    path: "31. Cinnabar Island.brstm"
+    type: betting
+  - id: pasta_night_selection_screen
+    title: "Pasta Night Selection Screen"
+    path: "50. Pasta Night Selection Screen.brstm"
+    type: betting
+  - id: brimstone_leaked_build_instrumental
+    title: "Brimstone (Leaked Build) (Instrumental)"
+    path: "83. Brimstone (Leaked Build) (Instrumental).brstm"
+    type: battle 
+  - id: brimstone_v2_instrumental
+    title: "Brimstone (V2) (Instrumental)"
+    path: "84. Brimstone (V2) (Instrumental).brstm"
+    type: battle 
+  - id: amusia_instrumental
+    title: "Amusia (Instrumental)"
+    path: "85. Amusia (Instrumental).brstm"
+    type: battle 
+...

@@ -6,6 +6,11 @@ platform: ["DC", "Various"]
 #other platforms: ["Arcade", "PS1", "Saturn", "GBA", "PSP"]
 year: 1998
 songs:
+  - id: take_it_easy_training_mode
+    title: "Take It Easy (Training Mode)"
+    path: "SLPS-01777_ZERO3_04_01046401_0000.xa" #PS1 ver - this was the only requested track
+    ends: 2:20
+    type: betting
   - id: wholl_be_your_double_character_select
     title: "Who'll Be Your Double (Character Select)"
     path: "06 Who'll Be Your Double (Character Select).vgz"

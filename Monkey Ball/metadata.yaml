@@ -1,0 +1,26 @@
+---
+id: monkey_ball
+title: "Monkey Ball"
+series: supermonkeyball
+platform: "Arcade"
+year: 2001
+#according to SmashCustomRemix, these tracks are from the arcade version, which I believe are 
+#different from the versions which are in Super Monkey Ball
+songs: 
+  - id: desert_monkey_ball
+    title: "Desert"
+    path: "Desert.brstm"
+    type: battle
+  - id: extra_stage_monkey_ball
+    title: "Extra Stage"
+    path: "Extra Stage.brstm"
+    type: warning
+  - id: sky_monkey_ball
+    title: "Sky"
+    path: "Sky.brstm"
+    type: betting
+  - id: heavy_rain_monkey_ball
+    title: "Heavy Rain"
+    path: "Heavy Rain.brstm"
+    type: warning
+...

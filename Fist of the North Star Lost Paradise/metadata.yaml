@@ -1,0 +1,78 @@
+---
+id: fist_of_the_north_star_lost_paradise
+title: "Fist of the North Star: Lost Paradise"
+series: yakuza
+platform: "PS4"
+year: 2018
+songs: 
+  - id: receive_you_north_star
+    title: "Receive You ~North Star~"
+    path: "car_audio_00000004.hca"
+    ends: 2:13
+    type: betting
+  - id: battle_theme_lost_paradise
+    title: "Battle Theme"
+    path: "bbg_encbtl1_univ.hca"
+    type: battle
+  - id: scenario_battle_lost_paradise
+    title: "Scenario Battle"
+    path: "bbg_enc_scenario.hca"
+    type: battle
+  - id: long_battle
+    title: "Long Battle"
+    path: "bbg_long_univ.hca"
+    type: battle
+  - id: boss_battle_lost_paradise
+    title: "Boss Battle"
+    path: "bbg_vs_boss_univ.hca"
+    type: battle
+  - id: vs_devil_rebirth_devil_incarnate
+    title: "Vs Devil Rebirth, Devil Incarnate"
+    path: "bbg_vs_devil_rebirth.hca"
+    type: battle
+  - id: vs_toki_second_brother_of_hokuto_shinken
+    title: "Vs Toki, Second Brother of Hokuto Shinken"
+    path: "bbg_training_toki.hca"
+    type: betting
+  - id: vs_thouzer_successor_of_nanto_ho_ohken
+    title: "Vs Thouzer, Successor of Nanto Ho-Ohken"
+    path: "bbg_vs_thouzer.hca"
+    type: battle
+  - id: vs_jagi_third_brother_of_hokuto_shinken
+    title: "Vs Jagi, Third Brother of Hokuto Shinken"
+    path: "bbg_vs_jagi.hca"
+    type: battle
+  - id: vs_raoh_the_ken_oh_first_brother_of_hokuto_shinken
+    title: "Vs Raoh The Ken-Oh, First Brother of Hokuto Shinken"
+    path: "bbg_vs_raoh.hca"
+    type: battle
+  - id: vs_kyo_oh_vs_nadai_founder_of_eden
+    title: "Vs Kyo-Oh / Vs Nadai, Founder of Eden"
+    path: "bbg_vs_kyouoh.hca"
+    type: battle
+  - id: sphere_city
+    title: "Sphere City"
+    path: "bbg_long_last.hca"
+    type: battle
+  - id: vs_targa_the_ascendant
+    title: "Vs Targa, The Ascendant"
+    path: "bbg_beatsync_00000000.hca"
+    type: battle
+  - id: apathy_lost_paradise
+    title: "Apathy"
+    path: "kaiwabgm_apathy_01.hca"
+    type: break
+  - id: manager_ken
+    title: "Manager Ken"
+    path: "minig_bgm_kuro_menu.hca"
+    type: betting
+  - id: manager_ken_open_for_business
+    title: "Manager Ken: Open for Business"
+    path: "minig_bgm_kuro_operation.hca"
+    ends: 2:06
+    type: betting
+  - id: dr_kenshiro_ode_to_joy_symphony_no_9
+    title: "Dr. Kenshiro: Ode to Joy (Symphony No.9)"
+    path: "kaiwabgm_kc_bgm_08.hca"
+    type: result
+...

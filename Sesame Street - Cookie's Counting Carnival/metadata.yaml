@@ -1,0 +1,19 @@
+---
+id: sesame_street_cookie_s_counting_carnival
+title: "Sesame Street: Cookie's Counting Carnival"
+platform: ["Wii", "NDS", "PC"]
+year: 2010
+songs: 
+  - id: main_theme_sesame_street_cookie_s_counting_carnival
+    title: "Main Theme"
+    path: "01 Season 40 Band Track.txtp"
+    type: result
+  - id: lazy_river
+    title: "Lazy River"
+    path: "Lazy River.txtp"
+    type: break
+  - id: catch_big_bird
+    title: "Catch Big Bird"
+    path: "Catch Big Bird.txtp"
+    type: warning
+...

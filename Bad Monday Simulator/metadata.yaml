@@ -1,0 +1,21 @@
+---
+id: bad_monday_simulator
+title: "Bad Monday Simulator"
+series: undertale
+is_fanwork: true
+platform: "PC"
+year: 2022
+songs:
+  - id: lullaby_bms
+    title: "Lullaby"
+    path: "Lullaby.brstm"
+    type: break
+  - id: marketable_plushie
+    title: "Marketable Plushie"
+    path: "Marketable Plushie.brstm"
+    type: result
+  - id: youre_gonna_have_a_bad_monday
+    title: "You're Gonna Have a Bad Monday"
+    path: "Youre Gonna Have a Bad Monday.brstm"
+    type: battle
+...

@@ -1,6 +1,7 @@
 id: dr_robotniks_mean_bean_machine
 title: "Dr. Robotnik's Mean Bean Machine"
 platform: "Genesis"
+series: sonic
 year: 1993
 songs: 
   - id: exercise_mode_mean_bean_machine
@@ -23,11 +24,6 @@ songs:
     title: "Theme of Puyo Puyo (Unused)"
     path: "25 - Theme of Puyo Puyo.vgz"
     type: betting
-# broken (wrong songfile):
-#  - id: configuration_mean_bean_machine
-#    title: "Configuration"
-#    path: "25 Theme of Puyo Puyo.vgz"
-#    type: break
   - id: danger_mean_bean_machine
     title: "Danger!"
     path: "20 - Danger!.vgz"
@@ -40,3 +36,36 @@ songs:
     title: "Sound Code 01 (Unused)"
     path: "22 - Sound Code 01.vgz"
     type: warning
+  - id: stages_1_4_intro
+    title: "Stages 1-4 Intro"
+    path: "04 - Stages 1-4 Intro.vgz"
+    type: warning
+  - id: stages_1_4_mbm
+    title: "Stages 1-4"
+    path: "05 - Stages 1-4.vgz"
+    type: betting
+  - id: stages_9_12_intro
+    title: "Stages 9-12 Intro"
+    path: "08 - Stages 9-12 Intro.vgz"
+    type: warning
+  - id: stages_9_12_mbm
+    title: "Stages 9-12"
+    path: "09 - Stages 9-12.vgz"
+    type: betting
+  - id: stage_13_intro
+    title: "Stage 13 Intro"
+    path: "10 - Stage 13 Intro.vgz"
+    type: warning
+  - id: stage_13_mbm
+    title: "Stage 13"
+    path: "11 - Stage 13.vgz"
+    type: warning
+  - id: continue_mbm
+    title: "Continue?"
+    path: "15 - Continue.vgz"
+    type: warning
+  - id: 2_player_mbm
+    title: "2 Player Vs."
+    path: "19 - 2 Player vs.vgz"
+    type: battle
+...

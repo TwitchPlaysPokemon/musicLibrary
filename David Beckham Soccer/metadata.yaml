@@ -1,0 +1,23 @@
+---
+id: david_beckham_soccer
+title: "David Beckham Soccer [GBC]"
+platform: ["GBC", "PS1", "PS2"]
+year: 2002
+songs:
+  - id: bgm_1_dbsoccer
+    title: "Main Theme"
+    path: "01 BGM 01.vgz"
+    type: betting
+  - id: bgm_2_dbsoccer
+    title: "Pre-Match"
+    path: "02 BGM 02.vgz"
+    type: warning
+  - id: bgm_3_dbsoccer
+    title: "BGM 3"
+    path: "03 BGM 03.vgz"
+    type: result
+  - id: bgm_4_dbsoccer
+    title: "BGM 4"
+    path: "04 BGM 04.vgz"
+    type: warning
+...

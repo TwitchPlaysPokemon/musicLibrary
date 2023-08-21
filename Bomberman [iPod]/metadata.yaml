@@ -1,0 +1,23 @@
+---
+id: bomberman_ipod
+title: "Bomberman [iPod]"
+series: bomberman
+platform: "Mobile"
+year: 2008
+songs:
+  - id: stage_bmip
+    title: "Stage BGM"
+    path: "Stage.brstm"
+    type: betting
+  - id: menu_bmip
+    title: "Menu"
+    type: warning
+  - id: minigame_bmip
+    title: "Minigame"
+    path: "Minigame.brstm"
+    type: warning
+  - id: boss_bmip
+    title: "Boss"
+    path: "Stage Boss.brstm"
+    type: warning
+...

@@ -221,4 +221,25 @@ songs:
     title: "Battle! Gladion"
     path: "Battle! Gladion.brstm"
     type: battle
+#new songs from Pokemon Journies. NGL these were tough to loop, so if none are to par feel free to drop
+  - id: gym_galar_anime
+    title: "Gym (Galar)"
+    path: "16. Pokémon Gym _ TV Anime Ver..brstm"
+    type: betting
+  - id: wild_pokemon_battle_galar_anime
+    title: "Wild Pokémon Battle (Galar)"
+    path: "18. Battle! (Wild Pokémon) _ TV Anime Ver..brstm"
+    type: battle
+  - id: battle_galar_trainer_anime
+    title: "Battle! Galar Trainer"
+    path: "19. Battle! (Trainer) _ TV Anime Ver..brstm"
+    type: battle
+  - id: gym_leader_battle_galar_anime
+    title: "Gym Leader Battle (Galar)"
+    path: "20. Battle! (Gym Leader) _ TV Anime Ver..brstm"
+    type: battle
+  - id: kalos_trainer_battle_movie_19
+    title: "Kalos Trainer Battle (Movie 19)"
+    path: "Kalos Trainer Battle (Movie 19).brstm"
+    type: battle
 ...

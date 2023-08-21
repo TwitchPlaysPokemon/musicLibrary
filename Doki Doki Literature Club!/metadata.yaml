@@ -12,4 +12,36 @@ songs:
     title: "I Still Love You"
     path: "Doki Doki Literature Club! OST - I Still Love You.brstm"
     type: break
+  - id: doki_doki_literature_club_title_screen
+    title: "Doki Doki Literature Club! (Title Screen)"
+    path: "Doki Doki Literature Club! (Title Screen).brstm"
+    type: result
+  - id: ohayou_sayori
+    title: "Ohayou Sayori!"
+    path: "Ohayou Sayori!.brstm"
+    type: betting
+  - id: daijoubu
+    title: "Daijoubu!"
+    path: "Daijoubu!.brstm"
+    type: result
+  - id: okay_everyone_ddlc
+    title: "Okay, Everyone!"
+    path: "Okay, Everyone!.brstm"
+    type: betting
+  - id: play_with_me_ddlc
+    title: "Play With Me"
+    path: "Play With Me.brstm"
+    type: break
+  - id: just_monika
+    title: "Just Monika"
+    path: "Just Monika.brstm"
+    type: break
+  - id: sayonara
+    title: "Sayo-nara"
+    path: "Sayo-nara.brstm"
+    type: warning
+  - id: your_reality_instrumental
+    title: "Your Reality (Instrumental)"
+    path: "Your Reality (No Vocals).brstm"
+    type: break
 ...

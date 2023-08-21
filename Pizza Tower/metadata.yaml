@@ -3,7 +3,6 @@ id: pizza_tower
 title: "Pizza Tower"
 platform: "PC"
 year: 2023
-#the ripped music doesn't loop, so for now I'm working with that. 
 songs: 
   - id: what_s_on_the_kids_menu
     title: "What's on the Kids Menu?"
@@ -27,8 +26,7 @@ songs:
     type: result
   - id: celcius_troubles
     title: "Celcius Troubles"
-    path: "Celcius_Troubles.fsb"
-    ends: 2:29
+    path: "Celcius Troubles.brstm"
     type: betting
   - id: cold_spaghetti
     title: "Cold Spaghetti"
@@ -52,8 +50,8 @@ songs:
     type: betting
   - id: peppinos_sauce_machine
     title: "Peppino's Sauce Machine"
-    path: "Peppinos_Sauce_Machine.fsb"
-    type: warning
+    path: "Peppino's Sauce Machine.brstm"
+    type: betting
   - id: unearthly_blues
     title: "Unearthly Blues"
     path: "Unearthly_Blues.fsb"
@@ -78,7 +76,6 @@ songs:
     title: "Pumpin' Hot Stuff"
     path: "Pumpin_Hot_Stuff.fsb"
     type: warning
-#the brstms. I tried my best
   - id: funiculi_holiday
     title: "funiculi holiday"
     path: "mu_funiculi.brstm"
@@ -139,4 +136,52 @@ songs:
     title: "Tubular Trash Zone"
     path: "Tubular Trash Zone.brstm"
     type: betting
+  - id: good_eatin
+    title: "Good Eatin'"
+    path: "Good Eatin'.brstm"
+    type: betting
+  - id: hard_drive_to_munch_you
+    title: "Hard Drive To Munch You"
+    path: "Hard Drive To Munch You.brstm"
+    type: warning
+  - id: mort_s_farm
+    title: "Mort's Farm"
+    path: "Mort's Farm.brstm"
+    type: break
+  - id: oregano_ufo
+    title: "Oregano UFO"
+    path: "Oregano UFO.brstm"
+    type: betting
+  - id: oregano_ufo
+    title: "Oregano Mirage"
+    path: "Oregano Mirage.brstm"
+    type: battle
+  - id: pizza_deluxe
+    title: "Pizza Deluxe"
+    path: "Pizza Deluxe.brstm"
+    type: betting
+  - id: pizza_engineer
+    title: "Pizza Engineer"
+    path: "Pizza Engineer.brstm"
+    type: betting
+  - id: pumpin_hot_stuff
+    title: "Pumpin' Hot Stuff"
+    path: "Pumpin' Hot Stuff (Custom Loop).brstm"
+    type: battle
+  - id: calzonification
+    title: "Calzonification"
+    path: "Calzonification.brstm"
+    type: battle
+  - id: yeehaw_deliveryboy
+    title: "Yeehaw Deliveryboy"
+    path: "Yeehaw Deliveryboy.brstm"
+    type: betting
+  - id: dont_preheat_your_oven_because_if_you_do_the_song_won_t_play
+    title: "Don't Preheat Your Oven Because If You Do The Song Won't Play"
+    path: "Don't Preheat Your Oven Because If You Do The Song Won't Play.brstm"
+    type: betting
+  - id: the_death_that_i_deservioli
+    title: "The Death That I Deservioli"
+    path: "The Death That I Deservioli.brstm"
+    type: battle
 ...

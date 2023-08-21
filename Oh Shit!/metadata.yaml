@@ -1,0 +1,12 @@
+---
+id: oh_shit
+title: "Oh Shit!"
+platform: "MSX"
+year: 1985
+#it's a Pac-Man clone. Three guesses why I chose this, and the first two don't count
+songs: 
+  - id: title_bgm_oh_shit
+    title: "Title BGM"
+    path: "03 Title BGM, Game Demo, Name Entry.vgz"
+    type: betting
+...

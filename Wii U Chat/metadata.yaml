@@ -1,0 +1,25 @@
+---
+id: wii_u_chat
+title: "Wii U Chat"
+series: systemfirmware
+year: 2012
+platform: "Wii U"
+songs:
+  - id: lobby_tv_wiiu
+    title: "Lobby (TV)"
+    path: "02a Lobby (TV).bfstm"
+    type: break
+#  02a&b are meant to be played concurrently and are very similar, but are different enough to be two separate break songs to me
+  - id: lobby_gamepad_wiiu
+    title: "Lobby (GamePad)"
+    path: "02b Lobby (GamePad).bfstm"
+    type: break
+  - id: incoming_call_wiiu
+    title: "Incoming Call"
+    path: "03 Incoming Call.bfstm"
+    type: warning
+  - id: outgoing_call_wiiu
+    title: "Incoming Call"
+    path: "04 Outgoing Call.bfstm"
+    type: betting
+...

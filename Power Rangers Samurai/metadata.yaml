@@ -1,0 +1,52 @@
+---
+id: power_rangers_samurai_wii
+title: "Power Rangers Samurai"
+series: sentai
+platform: "Wii"
+year: 2011
+songs:
+  - id: city_prs
+    title: "Struggle in the City (City)"
+    path: "BGM_00000003.hca"
+    type: battle
+  - id: ruins_prs
+    title: "Wake of Fire (Ruins)"
+    path: "BGM_00000005.hca"
+    type: battle
+  - id: forest_prs
+    title: "For Humanity (Forest)"
+    path: "BGM_00000006.hca"
+    type: battle
+  - id: title_screen_prs
+    title: "Title Screen"
+    path: "BGM_00000008.hca"
+    type: result
+  - id: versus_deker
+    title: "Versus Deker (Final Boss)"
+    path: "BGM_00000009.hca"
+    type: battle
+  - id: menus_prs
+    title: "Menus"
+    path: "BGM_00000000.hca"
+    type: warning
+  - id: bgm_a_prs
+    title: "BGM 2"
+    path: "BGM_0000000A.hca"
+    type: warning
+  - id: cutscene_1_prs
+    title: "Cutscene 1"
+    path: "BGM_0000000B.hca"
+    type: warning
+  - id: cutscene_2_prs
+    title: "Cutscene 2"
+    path: "BGM_0000000C.hca"
+    type: warning
+  - id: cutscene_3_prs
+    title: "Cutscene 3"
+    path: "BGM_0000000F.hca"
+    type: result
+  - id: cutscene_4_prs
+    title: "Cutscene 4"
+    path: "BGM_00000012.hca"
+    type: warning
+...

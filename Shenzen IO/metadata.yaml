@@ -1,0 +1,45 @@
+---
+id: shenzen_io
+title: "Shenzhen I/O"
+platform: "PC"
+year: 2016
+#most of these could go either betting or break I guess
+#just wanted some more diverse selections in terms of music
+songs:
+  - id: enthusiasm
+    title: "Enthusiasm"
+    path: "Solving1.ogg"
+    type: betting
+  - id: concentration
+    title: "Concentration"
+    path: "Solving2.ogg"
+    type: betting
+  - id: brainstorming
+    title: "Brainstorming"
+    path: "Solving3.ogg"
+    type: betting
+  - id: prototyping
+    title: "Prototyping"
+    path: "Solving4.ogg"
+    type: betting
+  - id: everything_comes_together_beautifully
+    title: "Everything Comes Together Beautifully"
+    path: "Solving5.ogg"
+    type: betting
+  - id: research
+    title: "Research"
+    path: "Solving6.ogg"
+    type: betting
+  - id: the_limits_of_consciousness
+    title: "The Limits of Consciousness"
+    path: "Solving7.ogg"
+    type: betting
+  - id: productive_ambience
+    title: "Productive Ambience"
+    path: "OS_Main.ogg"
+    type: break
+  - id: patience
+    title: "Patience"
+    path: "Solitaire.ogg"
+    type: break
+...

@@ -28,9 +28,97 @@ songs:
   - id: wrapped_in_black
     title: "Wrapped in Black"
     path: "141 Wrapped in Black.mini2sf"
-    type: betting
+    type: battle
   - id: vela_nova_ost_version
     title: "Vela-Nova (OST version)"
     path: "Vela-Nova (CD version).brstm"
+    type: betting
+  - id: a_new_day
+    title: "A New Day"
+    path: "108 A New Day.2sf"
+    type: betting
+  - id: right_there_ride_on
+    title: "Right There, Ride On"
+    path: "110 Right There, Ride On.2sf"
+    type: betting
+  - id: metal_scratchin
+    title: "Metal Scratchin'"
+    path: "118 Metal Scratchin'.2sf"
+    type: battle
+  - id: get_edgy_blazy_mix
+    title: "Get Edgy (Blazy Mix)"
+    path: "129 Get Edgy (Blazy Mix).2sf"
+    type: betting
+  - id: bomber_barbara
+    title: "Bomber Barbara"
+    path: "137 Bomber Barbara.2sf"
+    type: betting
+  - id: raisin_me_up_prologue
+    title: "Raisin' Me Up (Prologue)"
+    path: "140 Raisin' Me Up (Prologue).2sf"
+    type: result
+  - id: raisin_me_up
+    title: "Raisin' Me Up"
+    path: "144 Raisin' Me Up.2sf"
+    type: break
+  - id: normal_zone_sr
+    title: "Normal Zone"
+    path: "201 Normal Zone.2sf"
+    type: break
+  - id: last_zone_sr
+    title: "Last Zone"
+    path: "202 Last Zone.2sf"
+    type: warning
+  - id: conversation_sonic
+    title: "Conversation - Sonic"
+    path: "203 Conversation - Sonic.2sf"
+    type: break
+  - id: conversation_blaze
+    title: "Conversation - Blaze"
+    path: "204 Conversation - Blaze.2sf"
+    type: break
+  - id: conversation_comical
+    title: "Conversation - Comical"
+    path: "205 Conversation - Comical.2sf"
+    type: break
+  - id: conversation_tense
+    title: "Conversation - Tense"
+    path: "206 Conversation - Tense.2sf"
+    type: warning
+  - id: conversation_flame
+    title: "Conversation - Flame"
+    path: "208 Conversation - Flame.2sf"
+    type: break
+  - id: extra_zone_sr
+    title: "Extra Zone"
+    path: "211 Extra Zone.2sf"
+    type: warning
+  - id: boss_defeated_1_sr
+    title: "Boss Defeated #1"
+    path: "213 Boss Defeated #1.2sf"
+    type: result
+  - id: boss_defeated_2_sr
+    title: "Boss Defeated #2"
+    path: "214 Boss Defeated #2.2sf"
+    type: result
+  - id: extra_zone_into_1
+    title: "Extra Zone Intro #1"
+    path: "215 Extra Zone Intro #1.2sf"
+    type: warning
+  - id: extra_zone_into_2
+    title: "Extra Zone Intro #2"
+    path: "216 Extra Zone Intro #2.2sf"
+    type: warning
+  - id: metamorphosis_sr
+    title: "Metamorphosis"
+    path: "217 Metamorphosis.2sf"
+    type: warning
+  - id: title_theme_sr
+    title: "Title Theme"
+    path: "219 Title Theme.2sf"
+    type: result
+  - id: what_u_need_wifi_mix
+    title: "What U Need is Remix (WiFi Mix)"
+    path: "220 What U Need is Remix (WiFi Mix).2sf"
     type: betting
 ...

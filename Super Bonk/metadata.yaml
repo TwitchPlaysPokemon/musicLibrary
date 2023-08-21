@@ -5,8 +5,100 @@ series: bonk
 platform: "SNES"
 year: 1994
 songs: 
+  - id: main_theme_super_bonk
+    title: "Main Theme"
+    path: "01 Main Theme.spc"
+    type: result
+  - id: opening_super_bonk
+    title: "Opening"
+    path: "02 Opening.spc"
+    type: warning
+  - id: blue_sky_super_bonk
+    title: "Blue Sky"
+    path: "03 Blue Sky.spc"
+    type: betting
+  - id: underwater_super_bonk
+    title: "Underwater"
+    path: "04 Underwater.spc"
+    type: betting
+  - id: random_games
+    title: "Random Games"
+    path: "05 Random Games.spc"
+    type: warning
+  - id: shoot_the_smiley
+    title: "Shoot the Smiley!"
+    path: "06 Shoot the Smiley!.spc"
+    type: betting
+  - id: underground_super_bonk
+    title: "Underground"
+    path: "07 Underground.spc"
+    type: warning
+  - id: in_the_clouds
+    title: "In the Clouds"
+    path: "08 In the Clouds.spc"
+    type: result
+  - id: jump_to_the_sky
+    title: "Jump to the Sky!"
+    path: "09 Jump to the Sky!.spc"
+    type: result
+  - id: boss_battle_1_super_bonk
+    title: "Boss Battle 1"
+    path: "11 Boss Battle 1.spc"
+    type: warning
+  - id: prehistoric_jungle
+    title: "Prehistoric Jungle"
+    path: "13 Prehistoric Jungle.spc"
+    type: betting
+  - id: beating_heart
+    title: "Beating Heart"
+    path: "14 Beating Heart.spc"
+    type: result
+  - id: boss_battle_2_super_bonk
+    title: "Boss Battle 2"
+    path: "15 Boss Battle 2.spc"
+    type: warning
+  - id: lava_cave_super_bonk
+    title: "Lava Cave"
+    path: "16 Lava Cave.spc"
+    type: betting
+  - id: zero_gravity_super_bonk
+    title: "Zero Gravity"
+    path: "17 Zero Gravity.spc"
+    type: break
+  - id: lunar_pyramid
+    title: "Lunar Pyramid"
+    path: "18 Lunar Pyramid.spc"
+    type: warning
+  - id: big_comet_empire
+    title: "Big Comet Empire"
+    path: "19 Big Comet Empire.spc"
+    type: warning
+  - id: engine_room_super_bonk
+    title: "Engine Room"
+    path: "20 Engine Room.spc"
+    type: warning
   - id: twilight_space
     title: "Twilight Space"
     path: "22 Twilight Space.spc"
     type: betting
+  - id: final_battle_super_bonk
+    title: "Final Battle"
+    path: "23 Final Battle.spc"
+    type: warning
+  - id: staff_roll_super_bonk
+    title: "Staff Roll"
+    path: "24 Staff Roll.spc"
+    type: result
+  - id: game_over_super_bonk
+    title: "Game Over"
+    path: "25 Game Over.spc"
+    type: result
+  - id: inside_a_monster
+    title: "Inside a Monster"
+    path: "99 Inside a Monster.spc"
+    type: warning
+  - id: unused_song_1_super_bonk
+    title: "Unused Song 1"
+    path: "99 Unused Song 1.spc"
+    type: result
 ...

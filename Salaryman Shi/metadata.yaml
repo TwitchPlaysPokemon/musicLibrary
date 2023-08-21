@@ -1,0 +1,27 @@
+---
+id: salaryman_shi
+title: "Salaryman Shi"
+platform: ["Switch", "Various"]
+year: 2022
+songs:
+  - id: boss_smshi
+    title: "Boss Battle"
+    path: "Boss [1].brstm"
+    type: warning
+  - id: menu_smshi
+    title: "Menu"
+    path: "Menu [1].brstm"
+    type: result
+  - id: office_smshi
+    title: "Office"
+    path: "Office [1].brstm"
+    type: break
+  - id: savanna_smshi
+    title: "Savanna"
+    path: "Savanna [1].brstm"
+    type: betting
+  - id: snow_smshi
+    title: "Snow"
+    path: "Snow [1].brstm"
+    type: betting
+...

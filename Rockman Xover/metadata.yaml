@@ -1,0 +1,40 @@
+---
+id: rockman_xover
+title: "Rockman Xover"
+series: megaman
+platform: "Mobile"
+year: 2012
+songs:
+  - id: arcade_man_8bit
+    title: "Arcade Man ~8-bit~"
+    path: "Arcade Man 8bit.brstm"
+    type: betting
+  - id: battle_tower_rmxo
+    title: "Battle Tower"
+    path: "Battle Tower.brstm"
+    type: battle
+  - id: duel_of_fates_rmxo
+    title: "Duel of Fates"
+    path: "Duel of Fates.brstm"
+    type: betting
+  - id: theme_of_rockman_xover
+    title: "Theme of Rockman Xover"
+    path: "Main Theme.brstm"
+    type: battle
+  - id: boss_intro_rmxo
+    title: "Master Boss Intro"
+    path: "Master Boss Intro.brstm"
+    type: warning
+  - id: netbattle_rmxo
+    title: "Net Battle"
+    path: "Netbattle.brstm"
+    type: betting
+  - id: new_world_rmxo
+    title: "New World"
+    path: "New World.brstm"
+    type: betting
+  - id: title_mm2gb
+    title: "Title (Mega Man II GB)"
+    path: "Title (Mega Man II GB).brstm"
+    type: betting
+...

@@ -1,0 +1,31 @@
+---
+id: radikal_bikers_gbc
+title: "Radikal Bikers [GBC]"
+platform: ["GBC", "PSX", "Arcade"]
+year: 2000
+songs:
+  - id: infgame_1_rb
+    title: "Ingame 1"
+    path: "02 Ingame 1.vgz"
+    type: betting
+  - id: ingame_2_rb
+    title: "Ingame 2"
+    path: "03 Ingame 2.vgz"
+    type: battle
+  - id: infgame_3_rb
+    title: "Ingame 3"
+    path: "04 Ingame 3.vgz"
+    type: betting
+  - id: infgame_5_rb
+    title: "Ingame 5"
+    path: "06 Ingame 5.vgz"
+    type: warning
+  - id: infgame_6_rb
+    title: "Ingame 6"
+    path: "07 Ingame 6.vgz"
+    type: battle
+  - id: reults_rb
+    title: "Results"
+    path: "08 Results.vgz"
+    type: result
+...

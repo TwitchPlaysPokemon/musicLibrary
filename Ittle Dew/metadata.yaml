@@ -8,4 +8,12 @@ songs:
     title: "Serious Time"
     path: "Serious Time.brstm"
     type: battle
+  - id: im_thinking
+    title: "I'm Thinking"
+    path: "I'm Thinking.brstm"
+    type: break
+  - id: space_hunk
+    title: "Space Hunk"
+    path: "Space Hunk.brstm"
+    type: battle
 ...
