@@ -6,7 +6,7 @@ platform: "NES"
 year: 1987
 #full redo with raw files
 songs:
-  - id: title_metroid
+  - id: title_metroid_nes
     title: "Title"
     path: "01 Title BGM.vgz"
     ends: 2:29
