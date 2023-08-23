@@ -1,0 +1,56 @@
+---
+id: resident_evil_4_remake
+title: "Resident Evil 4"
+series: residentevil
+year: 2023
+platform: ["PC", "XSX", "PS4", "PS5"]
+songs:
+  - id: the_drive_re4r
+    title: "The Drive"
+    path: "The Drive.brstm"
+    type: betting
+  - id: save_theme_re4r
+    title: "Save Theme"
+    path: "Save Theme.brstm"
+    type: break
+  - id: big_anger_on_the_lake_del_lago
+    title: "Big Anger on the Lake - Del Lago"
+    path: "Big Anger on the Lake - Del Lago.brstm"
+    type: warning
+  - id: baile_de_la_muerte_ramon_salazar
+    title: "Baile de la Muerte - Ramón Salazar"
+    path: "Baile de la Muerte - Ramón Salazar.brstm"
+    type: betting
+  - id: witness_the_power_krauser
+    title: "Witness The Power - Krauser"
+    path: "Witness The Power - Krauser.brstm"
+    type: battle
+  - id: origin_of_tragedy_final_battle
+    title: "Origin of Tragedy - Final Battle"
+    path: "Origin of Tragedy - Final Battle.brstm"
+    type: battle
+  - id: shooting_range_re4r
+    title: "Shooting Range"
+    path: "Shooting Range.brstm"
+    type: betting
+  - id: shooting_range_it_s_a_bullet_bonanza
+    title: "Shooting Range - It's a Bullet BONANZA!"
+    path: "Shooting Range - It's a Bullet BONANZA!.brstm"
+    type: result
+  - id: ada_theme_from_the_mercenaries
+    title: "Ada Theme (from The Mercenaries)"
+    path: "Ada Theme (from The Mercenaries).brstm"
+    type: betting
+  - id: leon_theme_from_the_mercenaries
+    title: "Leon Theme (from The Mercenaries)"
+    path: "Leon Theme (from The Mercenaries).brstm"
+    type: battle
+  - id: luis_from_the_mercenaries
+    title: "Luis Theme (from The Mercenaries)"
+    path: "Luis Theme (from The Mercenaries).brstm"
+    type: battle
+  - id: ada_theme_mayhem_mode_from_the_mercenaries
+    title: "Ada Theme - Mayhem Mode (from The Mercenaries)"
+    path: "Ada Theme - Mayhem Mode (from The Mercenaries).brstm"
+    type: warning
+...

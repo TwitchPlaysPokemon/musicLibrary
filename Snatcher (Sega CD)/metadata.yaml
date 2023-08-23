@@ -11,6 +11,70 @@ songs:
     type: betting
   - id: pleasure_of_tension
     title: "Pleasure of Tension"
-    path: "Pleasure of Tension.brstm"
+    path: "04 Pleasure Of Tension.vgz"
     type: warning
+  - id: j_u_n_k_e_r_hq
+    title: "J.U.N.K.E.R. HQ"
+    path: "02 J.U.N.K.E.R. HQ.vgz"
+    type: warning
+  - id: metal_gear_mk_ii_theme_of_tara
+    title: "Metal Gear Mk II (Theme Of Tara)"
+    path: "03 Metal Gear Mk II (Theme Of Tara).vgz"
+    type: warning
+  - id: danger_dance_and_justice_for_all
+    title: "Danger Dance... and Justice for All"
+    path: "09 Danger Dance... and Justice for All.vgz"
+    type: warning
+  - id: gillian_s_apartment
+    title: "Gillian's Apartment"
+    path: "11 Gillian's Apartment.vgz"
+    type: warning
+  - id: theme_of_jamie
+    title: "Theme Of Jamie"
+    path: "12 Theme Of Jamie.vgz"
+    type: break
+  - id: merry_xmas_neo_kobe_city
+    title: "Merry Xmas Neo Kobe City"
+    path: "15 Merry Xmas Neo Kobe City.vgz"
+    type: betting
+  - id: decadence_beat
+    title: "Decadence Beat"
+    path: "16 Decadence Beat.vgz"
+    type: betting
+  - id: game_over_snatcher
+    title: "Game Over"
+    path: "17 Game Over.vgz"
+    type: result
+  - id: plato_s_cavern
+    title: "Plato's Cavern"
+    path: "18 Plato's Cavern.vgz"
+    type: betting
+  - id: the_entrance_to_outer_heaven
+    title: "The Entrance To Outer Heaven"
+    path: "19 The Entrance To Outer Heaven.vgz"
+    type: betting
+  - id: virtual_image
+    title: "Virtual Image"
+    path: "21 Virtual Image.vgz"
+    type: warning
+  - id: spreading_die_hard
+    title: "Spreading Die Hard"
+    path: "23 Spreading Die Hard.vgz"
+    type: warning
+  - id: restoration_snatcher
+    title: "Restoration"
+    path: "26 Restoration.vgz"
+    type: betting
+  - id: amnesia_snatcher
+    title: "Amnesia"
+    path: "28 Amnesia.vgz"
+    type: break
+  - id: later_kid
+    title: "\''Later, kid!\''"
+    path: "35 ''Later, kid!''.vgz"
+    type: result
+  - id: theme_of_katrina_unused
+    title: "Theme Of Katrina (Unused)"
+    path: "56 Theme Of Katrina (Unused).vgz"
+    type: break
 ...

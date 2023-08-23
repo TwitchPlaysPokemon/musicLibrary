@@ -1,0 +1,28 @@
+---
+id: roliday_rumble
+title: "Roliday Rumble"
+series: roblox
+platform: "Various"
+year: 2021
+songs:
+  - id: aurora_roliday
+    title: "Aurora"
+    path: "Aurora.brstm"
+    type: break
+  - id: cold_spell
+    title: "Cold Spell"
+    path: "Cold Spell.brstm"
+    type: battle
+  - id: freezer_burns
+    title: "Freezer Burns"
+    path: "Freezer Burns.brstm"
+    type: warning
+  - id: get_whack_d
+    title: "Get Whack'd"
+    path: "Get Whack'd.brstm"
+    type: betting
+  - id: heat_wave_roliday
+    title: "Heat Wave"
+    path: "Heat Wave.brstm"
+    type: battle
+...

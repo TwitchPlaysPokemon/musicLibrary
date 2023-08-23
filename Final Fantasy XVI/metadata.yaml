@@ -1,0 +1,56 @@
+---
+id: final_fantasy_xvi
+title: "Final Fantasy XVI"
+series: finalfantasy
+platform: "PS5"
+year: 2023
+songs:
+  - id: to_sail_forbidden_seas
+    title: "To Sail Forbidden Seas"
+    path: "To Sail Forbidden Seas.brstm"
+    type: battle
+  - id: on_the_shoulders_of_giants
+    title: "On the Shoulders of Giants"
+    path: "On the Shoulders of Giants.brstm"
+    type: warning
+  - id: sixteen_bells
+    title: "Sixteen Bells"
+    path: "Sixteen Bells.brstm"
+    type: betting
+  - id: no_risk_no_reward
+    title: "No Risk, No Reward"
+    path: "No Risk, No Reward.brstm"
+    type: battle
+  - id: away_ffxvi
+    title: "Away"
+    path: "Away.brstm"
+    type: battle
+  - id: ascension_ffxvi
+    title: "Ascension"
+    path: "Ascension.brstm"
+    type: betting
+  - id: hamartia
+    title: "Hamartia"
+    path: "Hamartia.brstm"
+    type: betting
+  - id: color_and_crackle
+    title: "Color and Crackle"
+    path: "Color and Crackle.brstm"
+    type: battle
+  - id: shattered_ffxvi
+    title: "Shattered"
+    path: "Shattered.brstm"
+    type: battle
+  - id: do_or_die_ffxvi
+    title: "Do or Die"
+    path: "Do or Die.brstm"
+    type: battle
+  - id: control_ffxvi
+    title: "Control"
+    path: "Control.brstm"
+    type: battle
+  - id: catacecaumene
+    title: "Catacecaumene"
+    path: "Catacecaumene.brstm"
+    type: battle
+...

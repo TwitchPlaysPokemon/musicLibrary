@@ -65,4 +65,8 @@ songs:
     title: "Headgear"
     path: "Bgm_Headgear.fsb"
     type: result
+  - id: capture_smile
+    title: "Capture"
+    path: "Bgm_Capture.fsb"
+    type: result
 ...

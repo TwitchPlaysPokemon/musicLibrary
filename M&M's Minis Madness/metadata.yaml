@@ -1,0 +1,27 @@
+---
+id: m_m_minis_madness
+title: "M&M's Minis Madness"
+platform: "GBC"
+year: 2000
+songs:
+  - id: title_screen_mmmm
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: betting
+  - id: stage_1_the_warehouse_mmmm
+    title: "Stage 1 - The Warehouse"
+    path: "02 Stage 1 - The Warehouse.vgz"
+    type: betting
+  - id: stage_2_the_conveyors
+    title: "Stage 2 - The Conveyors"
+    path: "03 Stage 2 - The Conveyors.vgz"
+    type: betting
+  - id: stage_3_the_mixing_room
+    title: "Stage 3 - The Mixing Room"
+    path: "04 Stage 3 - The Mixing Room.vgz"
+    type: betting
+  - id: stage_4_the_central_computor
+    title: "Stage 4 - The Central Computer"
+    path: "05 Stage 4 - The Central Computer.vgz"
+    type: betting
+...

@@ -1,0 +1,52 @@
+---
+id: popgoes_arcade
+title: "POPGOES Arcade"
+platform: "PC"
+year: 2020
+songs: 
+  - id: castle_theme_jonochrome_mix
+    title: "Castle Theme (Jonochrome Remix)"
+    path: "Castle Theme (Jonochrome Remix).brstm"
+    type: betting
+  - id: east_winter_forest
+    title: "East (Winter) Forest"
+    path: "East (Winter) Forest.brstm"
+    type: betting
+  - id: east_forest_synoxsis_remix
+    title: "East Forest (Synoxsis Remix)"
+    path: "East Forest (Synoxsis Remix).brstm"
+    ends: 2:27
+    type: betting
+  - id: gilded_battle_nathan_hanover_remix
+    title: "Gilded Battle (Nathan Hanover Remix)"
+    path: "Gilded Battle (Nathan Hanover Remix).brstm"
+    type: betting
+  - id: miniboss_battle_rjac25_remix
+    title: "Miniboss Battle (Rjac25 Remix)"
+    path: "Miniboss Battle (Rjac25 Remix).brstm"
+    type: battle
+  - id: rare_battle_popgoes
+    title: "Rare Battle"
+    path: "Rare Battle.brstm"
+    type: warning
+  - id: the_castle_popgoes
+    title: "The Castle"
+    path: "The Castle.brstm"
+    type: betting
+  - id: the_garden_popgoes
+    title: "The Garden"
+    path: "The Garden.brstm"
+    type: betting
+  - id: the_machinist_popgoes
+    title: "The Machinist"
+    path: "The Machinist.brstm"
+    type: betting
+  - id: title_screen_gomotion_remix
+    title: "Title Screen (gomotion Remix)"
+    path: "Title Screen (gomotion Remix).brstm"
+    type: betting
+  - id: under_the_forest_popgoes
+    title: "Under the Forest"
+    path: "Under the Forest.brstm"
+    type: betting
+...

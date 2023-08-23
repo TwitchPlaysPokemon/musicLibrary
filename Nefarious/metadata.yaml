@@ -12,4 +12,16 @@ songs:
     title: "Crow's Theme"
     path: "NefariousMainThemeLooped.brstm"
     type: betting
+  - id: bonus_round_nefarious
+    title: "Bonus Round"
+    path: "Bonus Round.brstm"
+    type: warning
+  - id: the_good_end
+    title: "The Good End"
+    path: "The Good End.brstm"
+    type: result
+  - id: this_is_your_end
+    title: "This is your End"
+    path: "This is your End.brstm"
+    type: battle
 ...

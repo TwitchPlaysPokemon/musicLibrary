@@ -1,0 +1,23 @@
+---
+id: lovely_planet
+title: "Lovely Planet"
+platform: "PC"
+year: 2014
+songs:
+  - id: lovely_city_lp
+    title: "Lovely City"
+    path: "02 Lovely City.brstm"
+    type: battle
+  - id: lovely_forest
+    title: "Lovely Forest"
+    path: "04 Lovely Forest.brstm"
+    type: betting
+  - id: lovely_swamp
+    title: "Lovely Swamp"
+    path: "05 Lovely Swamp.brstm"
+    type: break
+  - id: lovely_mountains
+    title: "Lovely Mountains"
+    path: "06 Lovely Mountains.brstm"
+    type: betting
+...

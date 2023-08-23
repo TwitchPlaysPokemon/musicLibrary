@@ -1,0 +1,61 @@
+---
+id: cave_story_wii
+title: "Cave Story (WiiWare)"
+year: 2010
+platform: "Wii"
+#Twitch submission - basically just the regular Cave Story songs, but in the WiiWare soundfont
+#before you ask - the raw version is all in .ogg files with no loop points, so I went with the brstms
+songs:
+  - id: balcony_cswii
+    title: "Balcony"
+    path: "Balcony.brstm"
+    type: break
+  - id: balrog_s_theme_cswii
+    title: "Balrog's Theme"
+    path: "Balrog's Theme.brstm"
+    type: warning
+  - id: eyes_of_flame_cswii
+    title: "Eyes of Flame"
+    path: "Eyes of Flame.brstm"
+    type: warning
+  - id: geothermal_cswii
+    title: "Geothermal"
+    path: "Geothermal.brstm"
+    type: break
+  - id: gravity_cswii
+    title: "Gravity"
+    path: "Gravity.brstm"
+    type: warning
+  - id: jenka_2
+    title: "Jenka 2"
+    path: "Jenka 2.brstm"
+    type: betting
+  - id: last_battle_cswii
+    title: "Last Battle"
+    path: "Last Battle.brstm"
+    type: battle
+  - id: mimiga_town
+    title: "Mimiga Town"
+    path: "Mimiga Town.brstm"
+    type: break
+  - id: moonsong_cswii
+    title: "Moonsong"
+    path: "Moonsong.brstm"
+    type: break
+  - id: run_cswii
+    title: "Run"
+    path: "Run!.brstm"
+    type: warning
+  - id: running_hell_cswii
+    title: "Running Hell"
+    path: "Running Hell.brstm"
+    type: warning
+  - id: scorching_back_cswii
+    title: "Scorching Back"
+    path: "Scorching Back.brstm"
+    type: warning
+  - id: seal_chamber
+    title: "Seal Chamber"
+    path: "Seal Chamber.brstm"
+    type: warning
+...

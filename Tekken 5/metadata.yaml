@@ -1,0 +1,65 @@
+---
+id: tekken_5
+platform: ["Arcade", "PS2"]
+title: "Tekken 5"
+series: tekken
+year: 2004
+#redoing the Smash vers with the originals
+songs:
+  - id: dragon_s_nest_to_those_who_go_to_heaven
+    title: "Dragon's Nest ~ To Those Who Go To Heaven"
+    path: "03 - Dragon's Nest ~ To Those Who Go To Heaven (Yoshihito Yano).npsf"
+    type: battle
+  - id: red_hot_fist
+    title: "Red Hot Fist"
+    path: "04 - Red Hot Fist (Yu Miyake).npsf"
+    type: battle
+  - id: formless_like_water
+    title: "Formless Like Water"
+    path: "05 - Formless Like Water (Akitaka Tohyama).npsf"
+    type: betting
+  - id: crimson_sunset
+    title: "Crimson Sunset"
+    path: "07 - Crimson Sunset (Rio Hamamoto).npsf"
+    type: battle
+  - id: moonlit_wilderness
+    title: "Moonlit Wilderness"
+    path: "08 - Moonlit Wilderness (Satoru Kosaki).npsf"
+    type: battle
+  - id: gold_rush
+    title: "Gold Rush"
+    path: "09 - Gold Rush (Akitaka Tohyama).npsf"
+    type: battle
+  - id: antares
+    title: "Antares"
+    path: "11 - Antares (Junichi Nakatsuru).npsf"
+    type: battle
+  - id: streets_tekken5
+    title: "Streets"
+    path: "12 - Streets (Satoru Kosaki).npsf"
+    type: betting
+  - id: streets_asura_mix
+    title: "Streets ~ Asura Mix"
+    path: "13 - Streets ~ Asura Mix (Satoru Kosaki).npsf"
+    type: battle
+  - id: ka_en_no_mai
+    title: "Ka-En-No-Mai"
+    path: "15 - Ka-En-No-Mai (Akitaka Tohyama).npsf"
+    type: warning
+  - id: orbital_move
+    title: "Orbital Move"
+    path: "16 - Orbital Move (Yu Miyake).npsf"
+    type: battle
+  - id: poolside
+    title: "Poolside"
+    path: "17 - Poolside (Horoshi Okubo).npsf"
+    type: battle
+  - id: the_finalizer
+    title: "The Finalizer"
+    path: "19 - The Finalizer (Akitaka Tohyama).npsf"
+    type: battle
+  - id: i_m_here_now_remix
+    title: "I'm Here Now (Remix)"
+    path: "I'm Here Now (Remix).brstm"
+    type: betting
+...

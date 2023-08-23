@@ -16,9 +16,21 @@ songs:
     title: "MAD HEART"
     path: "BGM003.txtp"
     type: betting
+  - id: mini_moon
+    title: "Mini MOON"
+    path: "BGM004.txtp"
+    type: betting
+  - id: one_day_at_laboratory
+    title: "One day at Laboratory"
+    path: "BGM005.txtp"
+    type: battle
   - id: mad_rat_heart
     title: "MAD RAT HEART"
     path: "BGM006.txtp"
+    type: betting
+  - id: cheddar_chaser
+    title: "Cheddar Chaser"
+    path: "BGM007.txtp"
     type: betting
   - id: chaource
     title: "Chaource"
@@ -64,18 +76,38 @@ songs:
     title: "Stilton"
     path: "BGM018.txtp"
     type: betting
+  - id: call_me_jack
+    title: "Call me Jack"
+    path: "BGM019.txtp"
+    type: battle
   - id: cheesy_trap
     title: "Cheesy Trap"
     path: "BGM020.txtp"
     type: warning
+  - id: neuchatel
+    title: "Neuchatel"
+    path: "BGM021.txtp"
+    type: betting
   - id: underground_hug
     title: "Underground Hug"
     path: "BGM022.txtp"
     type: result
+  - id: sprinting_night
+    title: "Sprinting Night"
+    path: "BGM023.txtp"
+    type: battle
+  - id: heart_s_beat
+    title: "HEART's Beat"
+    path: "BGM024.txtp"
+    type: betting
   - id: drain_mrd
     title: "Drain"
     path: "BGM025.txtp"
     type: betting
+  - id: sweet_trip
+    title: "Sweet trip"
+    path: "BGM026.txtp"
+    type: warning
   - id: kind_of_hope
     title: "Kind of Hope"
     path: "BGM027.txtp"
@@ -88,8 +120,32 @@ songs:
     title: "electroQtie"
     path: "BGM030.txtp"
     type: betting
+  - id: distorted_graffiti
+    title: "Distorted Graffiti"
+    path: "BGM031.txtp"
+    type: betting
+  - id: ghost_of_culvert
+    title: "Ghost of Culvert"
+    path: "BGM032.txtp"
+    type: battle
+  - id: dancing_wind
+    title: "Dancing wind"
+    path: "BGM033.txtp"
+    type: battle
+  - id: rebirth_mrd
+    title: "Rebirth"
+    path: "BGM034.txtp"
+    type: result
+  - id: neo_opportunist
+    title: "Neo-Opportunist"
+    path: "BGM035.txtp"
+    type: warning
   - id: dark_fear
     title: "Dark Fear"
     path: "BGM036.txtp"
+    type: battle
+  - id: outside_mrd
+    title: "Outside"
+    path: "BGM037.txtp"
     type: battle
 ...

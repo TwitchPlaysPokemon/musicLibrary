@@ -1,0 +1,27 @@
+---
+id: die_maus
+title: "Die Maus"
+platform: ["GB", "GBC"]
+year: 1997
+songs:
+  - id: title_screen_dmaus
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: garden_dmaus
+    title: "The Garden"
+    path: "02 The Garden.vgz"
+    type: betting
+  - id: swamp_dmaus
+    title: "The Swamp"
+    path: "03 The Swamp.vgz"
+    type: betting
+  - id: house_ground_floor_dmaus
+    title: "The House - The Ground Floor"
+    path: "04 The House - The Ground Floor.vgz"
+    type: betting
+  - id: minigame_dmaus
+    title: "Minigame"
+    path: "07 Minigame.vgz"
+    type: result
+...

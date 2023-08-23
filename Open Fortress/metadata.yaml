@@ -1,0 +1,209 @@
+---
+id: open_fortress
+title: "Open Fortress"
+series: teamfortress
+is_fanwork: true
+platform: "PC"
+year: 2019
+songs:
+  - id: badworks
+    title: "Badworks"
+    path: "badworks_loop.brstm"
+    type: battle
+  - id: coal_town_of
+    title: "Coal Town"
+    path: "coaltown_temp.brstm"
+    type: break
+  - id: crossfire_of
+    title: "Crossfire"
+    path: "crossfire.brstm"
+    type: betting
+  - id: discontech
+    title: "Discontech"
+    path: "discontech_loop.brstm"
+    type: betting
+  - id: discontech_waiting
+    title: "Discontech (Waiting for Players)"
+    path: "discontech_waitingforchickenstoarrive.brstm"
+    type: warning
+  - id: dm_of
+    title: "DEATHMATCH!"
+    path: "dm_loop.brstm"
+    type: battle
+  - id: magnum_smooth
+    title: "Magnum Smooth"
+    path: "dm_magnumsmooth_loop.brstm"
+    type: betting
+  - id: dm_skate
+    title: "DM_Skate"
+    path: "dm_skateb3loop.brstm"
+    type: betting
+  - id: dm_wiseau
+    title: "Wiseau"
+    path: "dm_wiseau_loop.brstm"
+    type: betting
+  - id: dm_chase
+    title: "Chase"
+    path: "dmchase_loop.brstm"
+    type: betting
+  - id: stuff_waiting
+    title: "Stuff (Waiting for Players)"
+    path: "dmstuff_loop.brstm"
+    type: warning
+  - id: drawn_and_quartered
+    title: "Drawn and Quartered"
+    path: "drawnandquartered.brstm"
+    type: betting
+  - id: escape_plan_of
+    title: "Escape Plan"
+    path: "EscapePlan_Intro.brstm"
+    type: betting
+  - id: escape_plan_waiting
+    title: "Escape Plan (Waiting for Players)"
+    path: "EscapePlan_Waiting.brstm"
+    type: break
+  - id: facility_of
+    title: "Facility"
+    path: "facility_loop.brstm"
+    type: betting
+  - id: forgone_destruction_of
+    title: "Forgone Destruction"
+    path: "forgonedestruction.brstm"
+    type: betting
+  - id: from_the_dead_of
+    title: "From the Dead"
+    path: "FromTheDead.brstm"
+    type: betting
+  - id: get_psyched_of
+    title: "Get Psyched!"
+    path: "getpsychedloop.brstm"
+    type: betting
+  - id: healer_stalks_of
+    title: "The Healer Stalks"
+    path: "healerstalks_loop.brstm"
+    type: break
+  - id: illinois_1969
+    title: "Illinois 1969"
+    path: "illinois_1969.brstm"
+    type: battle
+  - id: lms_of
+    title: "Last Man Standing"
+    path: "inf_lastmanstanding.brstm"
+    type: warning
+  - id: i_sawed_the_demons_of
+    title: "I Sawed the Demons"
+    path: "isawed_loop.brstm"
+    type: betting
+  - id: just_bass
+    title: "Just Bass"
+    path: "just_bass.brstm"
+    type: betting
+  - id: just_bass_waiting
+    title: "Just Bass (Waiting for Players)"
+    path: "just_bass_waiting.brstm"
+    type: break
+  - id: lobsters_on_the_moon
+    title: "Lobsters on the Moon"
+    path: "lobstersonthemoon.brstm"
+    type: betting
+  - id: lobsters_on_the_moon_waiting
+    title: "Lobsters on the Moon (Waiting for Players)"
+    path: "lobstersonthemoon_waiting.brstm"
+    type: warning
+  - id: ltmf_of
+    title: "Main Menu"
+    path: "ltmf_loop.brstm"
+    type: betting
+  - id: newspeed
+    title: "Newspeed"
+    path: "newspeed.brstm"
+    type: battle
+  - id: open_fortress_gate
+    title: "Open Fortress' Gate"
+    path: "openfortressgate.brstm"
+    type: betting
+  - id: open_hazards
+    title: "Open Hazards"
+    path: "OpenHazards_Loop.brstm"
+    type: betting
+  - id: overpowered_of
+    title: "Overpowered"
+    path: "overpowered_loop.brstm"
+    type: betting
+  - id: running_from_evil_of
+    title: "Running from Evil"
+    path: "running_loop.brstm"
+    type: betting
+  - id: shortwave_of
+    title: "Shortwave"
+    path: "shortwave_loop.brstm"
+    type: betting
+  - id: sneaky_stalker_of
+    title: "Sneaky Stalker"
+    path: "SneakyStalker_Loop.brstm"
+    type: betting
+  - id: stalker_of
+    title: "Stalker"
+    path: "stalker_loop.brstm"
+    type: betting
+  - id: stealing_of
+    title: "Stealing"
+    path: "stealing.brstm"
+    type: betting
+  - id: the_long_ride_of
+    title: "The Long Ride"
+    path: "stuff.brstm"
+    type: battle
+  - id: team_fortresque
+    title: "Team Fortresque"
+    path: "TeamFortresque.brstm"
+    type: betting
+  - id: tf2_beat
+    title: "TF2 Beat"
+    path: "tf2beat_loop.brstm"
+    type: warning
+  - id: the_plain_surfers_anthem
+    title: "The Plain Surfer's Anthem"
+    path: "ThePlainsurfersAnthem.brstm"
+    type: betting
+  - id: turbine_turmoil
+    title: "Turbine Turmoil"
+    path: "turbineturmoil_loop.brstm"
+    type: betting
+  - id: turfunk
+    title: "TurFunk"
+    path: "TurFunk_Intro.brstm"
+    type: betting
+  - id: turfunk_waiting
+    title: "TurFunk (Waiting for Players)"
+    path: "TurFunk_WaitingForPlayers.brstm"
+    type: warning
+  - id: waiting_for_svn
+    title: "Waiting for SVN"
+    path: "WaitingFor.brstm"
+    type: betting
+  - id: watergate_of
+    title: "Watergate"
+    path: "watergate_loop.brstm"
+    type: battle
+  - id: big_guns_waiting
+    title: "Big Guns (Waiting for Players)"
+    path: "BigGuns_Waiting.brstm"
+    type: warning
+  - id: boxy_theme_of
+    title: "Boxy Theme"
+    path: "boxytheme.brstm"
+    type: warning
+  - id: wiseau_waiting
+    title: "Wiseau (Waiting for Players)"
+    path: "dm_wiseau_waiting.brstm"
+    type: warning
+  - id: fabulous_of
+    title: "Fabulous"
+    path: "fabulous_loop.brstm"
+    type: betting
+  - id: fortress_encounter_waiting
+    title: "Fortress Encounter (Waiting for Players)"
+    path: "FortressEncounter_Waiting.brstm"
+    type: warning
+...

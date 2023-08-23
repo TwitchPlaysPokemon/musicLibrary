@@ -1,0 +1,55 @@
+---
+id: dance_dance_revolution_gb_disney_mix
+title: "Dance Dance Revolution GB Disney Mix"
+series: dancedancerevolution
+platform: "GBC"
+year: 2001
+songs:
+  - id: nonstop_combo_disney
+    title: "Nonstop Combo"
+    path: "03 Nonstop Combo.vgz"
+    type: warning
+  - id: mickey_mouse_march_eurobeat
+    title: "Mickey Mouse March (Eurobeat Version)"
+    path: "05 Mickey Mouse March (Eurobeat Version).vgz"
+    ends: 1:47
+    type: betting
+  - id: night_of_fire
+    title: "Night of Fire"
+    path: "06 Night of Fire.vgz"
+    ends: 1:45
+    type: betting
+  - id: macarena
+    title: "Macarena"
+    path: "07 Macarena.vgz"
+    ends: 1:39
+    type: betting
+  - id: let_s_groove
+    title: "Let's Groove"
+    path: "08 Let's Groove.vgz"
+    ends: 1:36
+    type: betting
+  - id: i_want_you_back
+    title: "I Want You Back"
+    path: "09 I Want You Back.vgz"
+    ends: 1:38
+    type: betting
+  - id: it_s_a_small_world
+    title: "It's A Small World"
+    path: "12 It's A Small World.vgz"
+    ends: 1:38
+    type: betting
+  - id: supercalifragilisticexpialidocious
+    title: "Supercalifragilisticexpialidocious"
+    path: "13 Supercalifragilisticexpialidocious.vgz"
+    ends: 1:52
+    type: betting
+  - id: zip_a_dee_doo_dah
+    title: "Zip-A-Dee-Doo-Dah"
+    path: "15 Zip-A-Dee-Doo-Dah.vgz"
+    type: result
+  - id: d_d_d
+    title: "D.D.D!"
+    path: "19 D.D.D!.vgz"
+    type: warning
+...

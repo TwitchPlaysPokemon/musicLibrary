@@ -4,17 +4,50 @@ title: "Pokédex 3D Pro"
 series: pokemon
 platform: "3DS"
 year: 2012
+#full redo. I THINK these are the names, but don't bank on that
 songs:
   - id: pokemon_challenge_taking_a_challenge
     title: "Pokémon Challenge - Taking a Challenge"
-    path: "Pokémon Challenge - Taking a Challenge.brstm"
+    path: "STRM_BGM_CHALLENGE_QUIZ.bcstm"
     type: betting
-  - id: move_dex
-    title: "Move Dex"
-    path: "Move Dex.brstm"
+  - id: move_dex_bgm_1
+    title: "Move Dex BGM 1"
+    path: "STRM_BGM_WAZA_01.bcstm"
+    type: warning
+  - id: move_dex_bgm_2
+    title: "Move Dex BGM 2"
+    path: "STRM_BGM_WAZA_02.bcstm"
     type: break
-  - id: pokedex
-    title: "Pokédex"
-    path: "Pokedex.brstm"
+  - id: move_dex_bgm_3
+    title: "Move Dex BGM 3"
+    path: "STRM_BGM_WAZA_03.bcstm"
     type: break
+  - id: pokedex_bgm_1
+    title: "Pokédex BGM 1"
+    path: "STRM_BGM_ZUKAN_01.bcstm"
+    type: break
+  - id: pokedex_bgm_2
+    title: "Pokédex BGM 2"
+    path: "STRM_BGM_ZUKAN_02.bcstm"
+    type: break
+  - id: pokedex_bgm_3
+    title: "Pokédex BGM 3"
+    path: "STRM_BGM_ZUKAN_03.bcstm"
+    type: break
+  - id: main_menu_pokedex_3d
+    title: "Main Menu"
+    path: "STRM_BGM_TITLE.bcstm"
+    type: result
+  - id: pokemon_challenge_choosing_a_challenge
+    title: "Pokémon Challenge - Choosing a Challenge"
+    path: "STRM_BGM_CHALLENGE_MENU.bcstm"
+    type: warning
+  - id: records_album
+    title: "Records/Album"
+    path: "STRM_BGM_KIROKU.bcstm"
+    type: result
+  - id: challenge_unown
+    title: "Challenge Unown"
+    path: "STRM_BGM_CHALLENGE_UNOWN.bcstm"
+    type: warning
 ...

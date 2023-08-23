@@ -34,4 +34,73 @@ songs:
     title: "Dojo 2nd"
     path: "TK7_Stage00_Wanoma_Final_2MIX_LP.wem"
     type: battle
+#
+  - id: heat_haze_shadow_1st
+    title: "Heat Haze Shadow 1st"
+    path: "Heat Haze Shadow 1st.brstm"
+    type: battle
+  - id: heat_haze_shadow_2nd
+    title: "Heat Haze Shadow 2nd"
+    path: "Heat Haze Shadow 2nd.brstm"
+    type: battle
+  - id: soy_sauce_for_geese_1st
+    title: "Soy Sauce for Geese 1st"
+    path: "Soy Sauce for Geese 1st.brstm" #yes I know this is the original ver, but I just figured for consistency's sake
+    type: battle
+  - id: soy_sauce_for_geese_2nd
+    title: "Soy Sauce For Geese 2nd"
+    path: "Soy Sauce For Geese 2nd.brstm"
+    type: battle
+  - id: moonrisers_1st
+    title: "Moonsiders 1st"
+    path: "Moonsiders 1st.brstm"
+    type: betting
+  - id: moonsiders_2nd
+    title: "Moonsiders 2nd"
+    path: "Moonsiders 2nd.brstm"
+    type: battle
+  - id: hammerhead_1st
+    title: "Hammerhead 1st"
+    path: "Hammerhead 1st.brstm"
+    type: betting
+  - id: hammerhead_2nd
+    title: "Hammerhead 2nd"
+    path: "Hammerhead 2nd.brstm"
+    type: battle
+  - id: equator_line_1st
+    title: "Equator Line 1st"
+    path: "Equator Line 1st.brstm"
+    type: battle
+  - id: equator_line_2nd
+    title: "Equator Line 2nd"
+    path: "Equator Line 2nd.brstm"
+    type: battle
+  - id: arctic_snowfall_1st
+    title: "Arctic snowfall 1st"
+    path: "Arctic snowfall 1st.brstm"
+    type: betting
+  - id: arctic_snowfall_2nd
+    title: "Arctic snowfall 2nd"
+    path: "Arctic snowfall 2nd.brstm"
+    type: battle
+  - id: a_u_n_1st
+    title: "A・U・N 1st"
+    path: "A・U・N 1st.brstm"
+    type: battle
+  - id: a_u_n_2nd
+    title: "A・U・N 2nd"
+    path: "A・U・N 2nd.brstm"
+    type: battle
+  - id: poolside_7_s_remix
+    title: "Poolside (7's REMIX)"
+    path: "Poolside (7's REMIX).brstm"
+    type: betting
+  - id: kitsch_7_s_remix
+    title: "Kitsch (7's REMIX)"
+    path: "Kitsch (7's REMIX).brstm"
+    type: battle
+  - id: continue_t7
+    title: "Continue?"
+    path: "Continue.brstm"
+    type: result
 ...

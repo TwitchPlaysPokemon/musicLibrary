@@ -1,0 +1,19 @@
+---
+id: tetris_party
+title: "Tetris Party"
+platform: "Wii"
+year: 2008
+songs: 
+  - id: menu_tetris_party
+    title: "Menu"
+    path: "Menu.brstm"
+    type: betting
+  - id: fly_into_the_sky_tetris_party
+    title: "Fly Into The Sky"
+    path: "Fly Into The Sky.brstm"
+    type: betting
+  - id: kalinka_tetris_party
+    title: "Kalinka"
+    path: "Kalinka.brstm"
+    type: betting
+...

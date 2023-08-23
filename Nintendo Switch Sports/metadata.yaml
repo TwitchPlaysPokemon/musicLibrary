@@ -1,0 +1,56 @@
+---
+id: nintendo_switch_sports
+title: "Nintendo Switch Sports"
+platform: "Switch"
+year: 2022
+#taken straight from the network test. The Chambara and Tennis tracks sound a little soft, but maybe it's just me
+songs: 
+  - id: title_theme_switch_sports
+    title: "Title Theme"
+    path: "BGM_Title.bwav"
+    type: result
+  - id: finding_a_match_switch_sports
+    title: "Finding A Match"
+    path: "BGM_Title_Matching.bwav"
+    type: break
+  - id: select_a_sport
+    title: "Select A Sport"
+    path: "BGM_Title_ModeSelect.bwav"
+    type: warning
+  - id: setting_switch_sports
+    title: "Settings"
+    path: "BGM_Title_Rule-03.bwav"
+    type: break
+  - id: tennis_replay_switch_sports
+    title: "Tennis - Replay"
+    path: "BGM_Tns_Replay.bwav"
+    type: betting
+  - id: chambara_replay
+    title: "Chambara - Replay"
+    path: "BGM_Cha_Replay.bwav"
+    type: betting
+  - id: chambara
+    title: "Chambara"
+    path: "BGM_Cha_GameL.bwav"
+    type: betting
+  - id: customize_your_sportsmate
+    title: "Customize Your Sportsmate"
+    path: "BGM_Title_CharaEdit.bwav"
+    type: betting
+  - id: results_victory
+    title: "Results - Victory"
+    path: "BGM_Result_Win.bwav"
+    type: result
+  - id: ambiance_cafe_buttons
+    title: "Ambiance: Cafe Buttons"
+    path: "BGM_Place_Caffee.bwav"
+    type: break
+  - id: tennis_switch_sports
+    title: "Tennis"
+    path: "BGM_Tns_GameL.bwav"
+    type: betting
+  - id: first_setup
+    title: "First Setup"
+    path: "BGM_FirstGuide.bwav"
+    type: warning
+...

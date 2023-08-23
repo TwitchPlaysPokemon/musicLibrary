@@ -1,0 +1,35 @@
+---
+id: alter_ego_nes
+title: "Alter Ego [NES]"
+platform: ["NES", "Various"]
+year: 2011
+songs:
+  - id: level_1_aenes
+    title: "Level 1"
+    path: "02 Level 1.vgz"
+    type: betting
+  - id: level_2_aenes
+    title: "Level 2"
+    path: "03 Level 2.vgz"
+    type: betting
+  - id: level_2b_aenes
+    title: "04 Level 2 (Alternate)"
+    path: "04 Level 2 (Alternate).vgz"
+    type: betting
+  - id: level_3_aenes
+    title: "Level 3"
+    path: "05 Level 3.vgz"
+    type: betting
+  - id: level_4_aenes
+    title: "Level 4"
+    path: "06 Level 4.vgz"
+    type: warning
+  - id: level_5_aenes
+    title: "Level 5"
+    path: "07 Level 5.vgz"
+    type: warning
+  - id: congratulations_aenes
+    title: "Congratulations"
+    path: "08 Congratulations.vgz"
+    type: result
+...

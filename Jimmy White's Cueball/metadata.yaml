@@ -1,0 +1,23 @@
+---
+id: jimmy_white_s_cueball
+title: "Jimmy White's Cueball"
+platform: "GBC"
+year: 2000
+songs: 
+  - id: title_jimmy_white_cueball
+    title: "Title"
+    path: "01 Title.vgz"
+    type: result
+  - id: bgm_1_jimmy_white_cueball
+    title: "BGM 1"
+    path: "02 BGM 1.vgz"
+    type: betting
+  - id: bgm_2_jimmy_white_cueball
+    title: "BGM 2"
+    path: "03 BGM 2.vgz"
+    type: break
+  - id: bgm_3_jimmy_white_cueball
+    title: "BGM 3"
+    path: "04 BGM 3.vgz"
+    type: betting
+...

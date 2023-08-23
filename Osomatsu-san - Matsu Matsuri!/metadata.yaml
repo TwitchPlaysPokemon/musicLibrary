@@ -1,0 +1,43 @@
+---
+id: osomatsu_san_matsu_matsuri
+title: "Osomatsu-san - Matsu Matsuri!"
+platform: "3DS"
+year: 2016
+songs:
+  - id: event_karamatsu
+    title: "Event - Karamatsu"
+    path: "bgm_event_karamatsu.dspadpcm.bcstm"
+    type: break
+  - id: event_honobono
+    title: "Event - Honobono"
+    path: "bgm_event_honobono.dspadpcm.bcstm"
+    type: break
+  - id: event_nimble
+    title: "Event - Nimble"
+    path: "bgm_event_nimble.dspadpcm.bcstm"
+    type: betting
+  - id: map_oso
+    title: "Map"
+    path: "bgm_map.dspadpcm.bcstm"
+    type: warning
+  - id: minigame_2_fever_2
+    title: "Minigame 2 - Fever 2"
+    path: "bgm_mg2_fv2.dspadpcm.bcstm"
+    type: result
+  - id: minigame_3_oso
+    title: "Minigame 3"
+    path: "bgm_mg3.dspadpcm.bcstm"
+    type: break
+  - id: minigame_5_oso
+    title: "Minigame 5"
+    path: "bgm_mg5.dspadpcm.bcstm"
+    type: result
+  - id: minigame_7_oso
+    title: "Minigame 7"
+    path: "bgm_mg7.dspadpcm.bcstm"
+    type: warning
+  - id: minigame_8_oso
+    title: "Minigame 8"
+    path: "bgm_mg8.dspadpcm.bcstm"
+    type: betting
+...

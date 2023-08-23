@@ -13,8 +13,8 @@ songs:
     title: "Fever!"
     path: "2_feverBgm.brstm"
     type: warning
-  # - id: results_jfc #not present in the files
-    # title: "Results"
-    # path: "3_resultBgm.brstm"
-    # type: result
+  - id: results_jfc
+    title: "Results"
+    path: "3_resultBgm.brstm"
+    type: result
 ...

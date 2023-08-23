@@ -1,0 +1,15 @@
+---
+id: louisiana_adventure
+title: "Louisiana Adventure"
+platform: "PC"
+year: 2012
+songs:
+  - id: level_1_ladv
+    title: "Level 1"
+    path: "Level1.brstm"
+    type: break
+  - id: level_8_ladv
+    title: "Level 8"
+    path: "Level8.brstm"
+    type: break
+...

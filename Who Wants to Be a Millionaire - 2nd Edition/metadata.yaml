@@ -1,0 +1,35 @@
+---
+id: who_wants_to_be_a_millionaire_2nd_edition
+title: "Who Wants to Be a Millionaire - 2nd Edition"
+platform: "GBC"
+year: 2000
+songs:
+  - id: opening_logos_wwtbam
+    title: "Opening Logos"
+    path: "01 Opening Logos.vgz"
+    type: warning
+  - id: title_wwtbam
+    title: "Title"
+    path: "03 Title.vgz"
+    type: result
+  - id: options_wwtbam
+    title: "Options"
+    path: "04 Options.vgz"
+    type: warning
+  - id: enter_your_name_wwtbam
+    title: "Enter Your Name"
+    path: "05 Enter Your Name.vgz"
+    type: result
+  - id: in_game_wwtbam
+    title: "In-Game 1"
+    path: "07 In-Game Theme.vgz"
+    type: warning
+  - id: in_game_2_wwtbam
+    title: "In-Game 2"
+    path: "08 In-Game Theme 2.vgz"
+    type: warning
+  - id: in_game_3_wwtbam
+    title: "In-Game 3"
+    path: "09 In-Game Theme 3.vgz"
+    type: warning
+...

@@ -368,8 +368,66 @@ songs:
     # title: "End Credits"
     # path: "b_field_e440-.txtp" #Copy of Melia - Ancient Memories? tabling for now
     # type: break
-  - id: alpha_the_beginning_and_end
-    title: "Alpha, the Beginning and End"
+  - id: redeem_the_future
+    title: "Redeem the Future"
     path: "alpha_asmr.brstm"
     type: battle
+#future redeemed
+  - id: future_awaits
+    title: "Future Awaits"
+    path: "field-e2010.txtp"
+    ends: 2:20
+    type: betting
+  - id: at_our_life_s_end
+    title: "At Our Life's End"
+    path: "field-2756785349.txtp"
+    type: break
+  # - id: alpha_xc3
+    # title: "Alpha"
+    # path: "field-3435552322.txtp"
+    # type: warning
+  - id: two_worlds_and_two_hearts
+    title: "Two Worlds and Two Hearts"
+    path: "field-4039691690.txtp"
+    type: break
+  - id: redeem_the_future_intro
+    title: "Redeem the Future (Intro)"
+    path: "field-539195098.txtp"
+    type: betting
+  - id: new_battle_xc3
+    title: "New Battle!!!"
+    path: "field-b2100.txtp"
+    type: battle
+  - id: cent_omnia_region
+    title: "Cent-Omnia Region"
+    path: "map-ma40a)(field-f401)-dt.txtp"
+    type: betting
+  - id: cent_omnia_region_night
+    title: "Cent-Omnia Region/Night"
+    path: "map-ma40a)(field-f401)-nt.txtp"
+    type: break
+  - id: black_mountain_valak_mountain
+    title: "Black Mountain - Valak Mountain"
+    path: "map-ma40a)(field-f402)-dt.txtp"
+    type: betting
+  - id: black_mountain_valak_mountain_night
+    title: "Black Mountain - Valak Mountain/Night"
+    path: "map-ma40a)(field-f402)-nt.txtp"
+    type: break
+  - id: black_mountain_prison_island
+    title: "Black Mountain - Prison Island"
+    path: "map-ma40a)(field-f402b)-dt.txtp"
+    type: betting
+  - id: black_mountain_prison_island_night
+    title: "Black Mountain - Prison Island/Night"
+    path: "map-ma40a)(field-f402b)-nt.txtp"
+    type: betting
+  - id: yesterdale_colony_9
+    title: "Yesterdale - Colony 9"
+    path: "map-ma40a)(field-f403)-dt.txtp"
+    type: betting
+  - id: yesterdale_colony_9_night
+    title: "Yesterdale - Colony 9/Night"
+    path: "map-ma40a)(field-f403)-nt.txtp"
+    type: break
 ...

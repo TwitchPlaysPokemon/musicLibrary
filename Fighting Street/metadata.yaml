@@ -1,0 +1,44 @@
+---
+id: fighting_street
+title: "Fighting Street"
+series: streetfighter
+platform: "TG16CD"
+year: 1988
+songs:
+  - id: birdie_stage_fs
+    title: "Birdie's Stage"
+    path: "Birdie's Stage.brstm"
+    type: betting
+  - id: bonus_game_board_break
+    title: "Bonus Game - Board Break"
+    path: "BONUS2.brstm"
+    type: warning
+  - id: country_select_fs
+    title: "Country Select."
+    path: "Country Select.brstm"
+    type: warning
+  - id: eagle_stage_fs
+    title: "Eagle's Stage"
+    path: "Eagle's Stage.brstm"
+    type: betting
+  - id: ending_fs
+    title: "Ending"
+    path: "Ending.ogg"
+    type: warning
+  - id: geki_stage_fs
+    title: "Geki's Stage"
+    path: "Geki's Stage.brstm"
+    type: betting
+  - id: gen_stage_fs
+    title: "Gen's Stage"
+    path: "Gen's Stage.brstm"
+    type: betting
+  - id: joe_stage_fs
+    title: "Joe's Stage"
+    path: "Joe's Stage.brstm"
+    type: betting
+  - id: high_scores_fs
+    title: "High Scores"
+    path: "TOP_SCORES.brstm"
+    type: break
+...

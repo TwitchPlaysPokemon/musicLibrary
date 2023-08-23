@@ -1,0 +1,35 @@
+---
+id: super_leap_day
+title: "Super Leap Day"
+platform: "Mobile"
+year: 2021
+songs:
+  - id: capital_highway
+    title: "Capital Highway"
+    path: "Capital Highway.brstm"
+    type: betting
+  - id: conflict_canyon
+    title: "Conflict Canyon"
+    path: "Conflict Canyon.brstm"
+    type: betting
+  - id: fishing_day
+    title: "Fishing Day"
+    path: "Fishing Day.brstm"
+    type: betting
+  - id: gravity_galaxy
+    title: "Gravity Galaxy"
+    path: "Gravity Galaxy.brstm"
+    type: betting
+  - id: rainy_ruins
+    title: "Rainy Ruins"
+    path: "Rainy Ruins.brstm"
+    type: betting
+  - id: sunken_island
+    title: "Sunken Island"
+    path: "Sunken Island.brstm"
+    type: betting
+  - id: well_done_super_leap_day
+    title: "Well Done!"
+    path: "Well Done!.brstm"
+    type: result
+...

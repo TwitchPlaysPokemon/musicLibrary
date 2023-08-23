@@ -1,0 +1,61 @@
+---
+id: pikmin_4
+title: "Pikmin 4"
+series: pikmin
+platform: "Switch"
+year: 2023
+#no rips yet, so brstms are the closest I can do
+songs:
+  - id: create_your_id_badge
+    title: "Create your ID Badge!"
+    path: "Game Intro Cutscene - Create your ID Badge!.brstm"
+    type: betting
+  - id: sage_leaf_s_theme
+    title: "Sage Leaf's Theme"
+    path: "Sage Leaf's Theme.brstm"
+    type: break
+  - id: night_expedition_enemy_approaching
+    title: "Night Expedition - Enemy Approaching"
+    path: "Night Expedition - Enemy Approaching.brstm"
+    type: warning
+  - id: night_expedition_under_attack
+    title: "Night Expedition - Under Attack"
+    path: "Night Expedition - Under Attack.brstm"
+    type: warning
+  - id: results_pikmin_4
+    title: "Results"
+    path: "Results.brstm"
+    type: result
+  - id: today_s_results_pikmin_4
+    title: "Today's Results"
+    path: "Today's Results.brstm"
+    type: result
+  - id: today_s_results_first_night
+    title: "Today's Results (First Night)"
+    path: "Today's Results (First Night).brstm"
+    type: result
+  - id: today_s_results_olimar_s_shipwreck_tale
+    title: "Today's Results (Olimar's Shipwreck Tale)"
+    path: "Today's Results (Olimar's Shipwreck Tale).brstm"
+    type: result
+  - id: cave_results
+    title: "Cave Results"
+    path: "Cave Results.brstm"
+    type: result
+  - id: dandori_challenge_results
+    title: "Dandori Challenge Results"
+    path: "Dandori Challenge Results.brstm"
+    type: result
+  - id: mechanical_harp_lullabies
+    title: "Mechanical Harp (Lullabies)"
+    path: "Mechanical Harp (Lullabies).brstm"
+    type: break
+  - id: mechanical_harp_windmills
+    title: "Mechanical Harp (Windmills)"
+    path: "Mechanical Harp (Windmills).brstm"
+    type: break
+  - id: mechanical_harp_memory_song
+    title: "Mechanical Harp (Memory Song)"
+    path: "Mechanical Harp (Memory Song).brstm"
+    type: break
+...

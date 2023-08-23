@@ -1,0 +1,34 @@
+---
+id: pokemon_sword_prototype
+title: "Pokémon Sword (Prototype)"
+series: pokemon
+platform: "Switch"
+year: 2017
+#these are all prototype songs, so don't expect anything perfect
+#but I'd be remiss to not add them in anyway
+songs: 
+  - id: unknown_track_sword_proto
+    title: "Unknown Track"
+    path: "BGM_Common-0187-event.txtp"
+    type: warning
+  - id: opening_sword_proto
+    title: "Opening"
+    path: "Play_BGM_opening.txtp"
+    type: betting
+  - id: battle_gym_leader_sword_proto
+    title: "Battle! (Gym Leader)"
+    path: "Play_BGM_vs_trainer.txtp"
+    type: battle
+  - id: wild_area_south_sword_proto
+    title: "Wild Area (South)"
+    path: "Play_BGM_road2.txtp"
+    type: betting
+  - id: route_24_sword_proto
+    title: "Route 24"
+    path: "Play_BGM_road4.txtp"
+    type: betting
+  - id: battle_wild_pokemon_sword_proto
+    title: "Battle! (Wild Pokemon)"
+    path: "Play_BGM_hokaku {bgm_bl_hokaku_s} {bgm_bl_hokaku_l}.txtp"
+    type: battle
+...

@@ -1,0 +1,13 @@
+---
+id: myst_v_end_of_ages
+title: "Myst V: End of Ages"
+platform: "PC"
+year: 2005
+songs: 
+#track stops at 30s then loops. Shouldn't be too much of an issue, as the only time when warnings
+#go above that length is blindbet, which is infrequent. 
+  - id: descent_mystv
+    title: "Descent"
+    path: "MystV_Descent_TimLarkin.brstm"
+    type: warning
+...

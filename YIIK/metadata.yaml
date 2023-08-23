@@ -1,0 +1,92 @@
+---
+id: yiik
+title: "YIIK: A Postmodern RPG"
+platform: ["Switch", "Various"]
+year: 2019
+songs: 
+#do these loop properly for you?
+#^ they do not. For the time being, I only included the ones that would work without a loop in place
+  - id: hangout_supah_slow
+    title: "Hangout (Supah Slow)"
+    path: "69 hangout Supah Slow_4VO.fsb"
+    type: break
+  - id: battle_track_no_1
+    title: "Battle Track No 1"
+    path: "Battle Track No 1.fsb"
+    ends: 1:27
+    type: betting
+  # - id: carry_on_yiik
+    # title: "Carry On"
+    # path: "Carry On (conversation music).fsb"
+    # type: break
+  - id: country_fun
+    title: "Country Fun"
+    path: "Country Fun_4VO.fsb"
+    ends: 2:01
+    type: betting
+  - id: getting_to_know_rory_and_michael
+    title: "Getting to know Rory and Michael"
+    path: "Getting to know rory and michael_4VO.fsb"
+    type: break
+  - id: hanging_out_yiik
+    title: "Hanging Out"
+    path: "Hanging_Out_4VO.fsb"
+    type: break
+  - id: hipsterbound
+    title: "HipsterBound"
+    path: "Hipsterbound.fsb"
+    ends: 2:06
+    type: betting
+  - id: jazzy_friendship
+    title: "Jazzy Friendship"
+    path: "Jazzy Friendship_4VO.fsb"
+    type: break
+  - id: lone_star_yiik
+    title: "Lone Star"
+    path: "Lone Star_4VO.fsb"
+    type: break
+  # - id: onism_1999
+    # title: "ONISM-1999"
+    # path: "ONISM-1999.fsb"
+    # type: break
+  - id: pandas_theme_yiik
+    title: "Panda's Theme"
+    path: "Pandas Theme_4VO.fsb"
+    type: warning
+  # - id: peaceful_snes_mountain
+    # title: "Peaceful SNES Mountain"
+    # path: "Peaceful SNES Mountain_4VO.fsb"
+    # type: break
+  - id: pizza_pasta_yiik
+    title: "Pizza Pasta"
+    path: "Pizza_Pasta_4VO.brstm"
+    type: betting
+  # - id: sammys_theme_yiik
+    # title: "Sammy's Theme"
+    # path: "SammysTheme.fsb"
+    # type: break
+  - id: ska_battle
+    title: "Ska Battle"
+    path: "SkaBattle.fsb"
+    type: warning
+  - id: into_the_mind
+    title: "Into the Mind"
+    path: "TobyFoxBattleTrack.brstm"
+    type: battle
+  # - id: vella_battle
+    # title: "Vella Battle"
+    # path: "Vella Battle 4VO.fsb"
+    # type: battle
+  - id: vellas_theme_piano
+    title: "Vella's Theme (Piano)"
+    path: "Vella Piano theme_4VO.fsb"
+    type: break
+  - id: wind_town_yiik
+    title: "Wind Town"
+    path: "Wind Town 4VO.fsb"
+    type: betting
+  - id: victory_yiik
+    title: "Victory!"
+    path: "Victory Loop.brstm" 
+    type: result
+...

@@ -1,0 +1,136 @@
+---
+id: bomb_rush_cyberfunk
+title: "Bomb Rush Cyberfunk"
+platform: "Various"
+year: 2023
+#yes I had to add all of them. Yes some of the types could be adjusted
+songs:
+  - id: jack_da_funk
+    title: "JACK DA FUNK"
+    path: "JACK DA FUNK_mastered_3.fsb"
+    type: betting
+  - id: da_people
+    title: "DA PEOPLE"
+    path: "Hideki Naganuma - DA PEOPLE.fsb"
+    type: betting
+  - id: get_enuf
+    title: "GET ENUF"
+    path: "GET ENUF.fsb"
+    type: betting
+  - id: i_wanna_kno
+    title: "I Wanna Kno"
+    path: "2 Mello - I Wanna Kno.fsb"
+    type: betting
+  - id: agua
+    title: "AGUA"
+    path: "BXTREME - AGUA.fsb"
+    type: betting
+  - id: state_of_mind
+    title: "State of Mind"
+    path: "Charodey Jeddy - State of Mind.fsb"
+    type: warning
+  - id: hair_dun_nails_dun
+    title: "Hair Dun Nails Dun"
+    path: "Color Plus - Hair Dun Nails Dun.fsb"
+    type: betting
+  - id: condensed_milk
+    title: "Condensed milk"
+    path: "cyber milk - Condensed milk.fsb"
+    type: result
+  - id: chromebies
+    title: "Chromebies"
+    path: "Doctor Lazer - Chromebies.fsb"
+    type: betting
+  - id: morning_glow_ft_nicholas_mangiafico
+    title: "Morning Glow (Ft. Nicholas Mangiafico)"
+    path: "Dom Mclennon - Morning Glow (Ft. Nicholas Mangiafico).fsb"
+    type: break
+  - id: in_the_pocket
+    title: "In The Pocket"
+    path: "Ethan Goldhammer - In The Pocket.fsb"
+    type: result
+  - id: operator_brc
+    title: "Operator"
+    path: "GRRL - Operator.fsb"
+    type: warning
+  - id: trinitron
+    title: "Trinitron"
+    path: "GRRL - Trinitron.fsb"
+    type: betting
+  - id: big_city_life_ft_ov
+    title: "Big City Life (Ft. OV)"
+    path: "kidkanevil - Big City Life ft OV.fsb"
+    type: betting
+  - id: last_hoorah
+    title: "Last Hoorah"
+    path: "KiloWatts - Last Hoorah.fsb"
+    type: betting
+  - id: scraped_on_the_way_out
+    title: "Scraped On The Way Out"
+    path: "KiloWatts - Scraped On The Way Out.fsb"
+    type: betting
+  - id: two_days_off
+    title: "Two Days Off"
+    path: "KiloWatts - Two Days Off.fsb"
+    type: break
+  - id: missing_break
+    title: "Missing Break"
+    path: "Klaus Veen - Missing Break.fsb"
+    type: betting
+  - id: hwbouths
+    title: "hwbouths"
+    path: "Knxwledge - hwbouths.fsb"
+    type: result
+  - id: plume
+    title: "Plume"
+    path: "Legove - Plume.fsb"
+    type: betting
+  - id: next_to_me_brc
+    title: "Next To Me"
+    path: "Leopard Davinci & Louis 707 - Next To Me.fsb"
+    type: betting
+  - id: precious_thing
+    title: "Precious Thing"
+    path: "Olli - Precious Thing.fsb"
+    type: betting
+  - id: funk_express_extended_version
+    title: "Funk Express (Extended Version)"
+    path: "Proux - Funk Express (Extended Version).fsb"
+    type: betting
+  - id: iridium
+    title: "Iridium"
+    path: "Reso - Iridium.fsb"
+    type: warning
+  - id: chuckin_up
+    title: "Chuckin' Up"
+    path: "Reso_Chuckin_Up.fsb"
+    type: warning
+  - id: spectres_brc
+    title: "Spectres"
+    path: "Reso_Spectres.fsb"
+    type: betting
+  - id: feel_the_funk_computer_love
+    title: "Feel The Funk (Computer Love)"
+    path: "Sebastian Knight - Feel The Funk (Computer Love).fsb"
+    type: betting
+  - id: bounce_upon_a_time
+    title: "Bounce Upon A Time"
+    path: "SKALP - Bounce Upon A Time.fsb"
+    type: betting
+  - id: light_switch
+    title: "Light Switch"
+    path: "SkyBlew - Light Switch (Prod. Navo The Maestro).fsb"
+    type: betting
+  - id: you_can_say_hi
+    title: "you can say hi"
+    path: "soia - you can say hi (prod. by mez).fsb"
+    type: betting
+  - id: refuse_brc
+    title: "Refuse"
+    path: "Swami Sound - Refuse.fsb"
+    type: betting
+  - id: watchyaback
+    title: "watchyaback!"
+    path: "wev - watchyaback!.fsb"
+    type: betting
+...

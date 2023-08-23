@@ -1,0 +1,19 @@
+---
+id: lan_master
+title: "LAN Master"
+platform: "NES"
+year: 2011
+songs:
+  - id: title_screen_lanm
+    title: "Title Screen"
+    path: "01 Title.vgz"
+    type: betting
+  - id: bgm_1_lanm
+    title: "Gameplay"
+    path: "02 Gameplay.vgz"
+    type: break
+  - id: done_lanm
+    title: "Done"
+    path: "03 Done.vgz"
+    type: result
+...
