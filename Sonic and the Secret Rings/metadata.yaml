@@ -36,24 +36,24 @@ songs:
     type: betting
   - id: poison_spear
     title: "Poison Spear"
-    path: "stg12_bgm.adx"
+    path: "stg012_bgm.adx"
     type: battle
   - id: how_it_started
     title: "How It Started"
-    path: "stg32_bgm.adx"
+    path: "stg032_bgm.adx"
     type: battle
   - id: blue_on_the_run
     title: "Blue on the Run"
-    path: "stg52_bgm.adx"
+    path: "stg052_bgm.adx"
     type: battle
   - id: it_has_come_to_this
     title: "It Has Come to This"
-    path: "stg73_bgm.adx"
+    path: "stg073_bgm.adx"
     type: betting
   - id: sandstorm_sonic_and_the_secret_rings
     title: "Sandstorm"
     path: "bgm_event_06.adx"
-    ends: 2:17x
+    ends: 2:17
     type: betting
   - id: seven_rings_in_hand
     title: "Seven Rings in Hand"
