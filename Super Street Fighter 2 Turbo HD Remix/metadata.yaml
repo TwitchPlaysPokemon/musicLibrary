@@ -1,10 +1,44 @@
+---
 id: super_street_fighter_2_turbo_hd_remix
-platform: ["360", "PS3"]
 title: "Super Street Fighter II Turbo HD Remix"
 series: streetfighter
+platform: ["360", "PS3"]
 year: 2008
 songs: 
-  - id: guile_sf2_turbo_hd
-    path: "Combat and Service (Guile Stage).brstm"
+  - id: guile_ssf2thdr
     title: "Combat and Service (Guile Theme)"
+    path: "Combat and Service (Guile Stage).brstm"
     type: break
+  - id: fei_long_ssf2thdr
+    title: "Flying Heaven (Fei-Long Stage)"
+    path: "Flying Heaven (Fei-Long Stage).brstm"
+    type: betting
+  - id: t_hawk_ssf2thdr
+    title: "New Mexican Thunderbird (T. Hawk Stage)"
+    path: "New Mexican Thunderbird (T. Hawk Stage).brstm"
+    type: betting
+  - id: sagat_ssf2thdr
+    title: "Sagat's Moonbike (Sagat Stage)"
+    path: "Sagat's Moonbike (Sagat Stage).brstm"
+    type: break
+  - id: menu_ssf2thdr
+    title: "Clamato Fever (Menu)"
+    path: "Clamato Fever (Menu).brstm"
+    type: betting
+  - id: ken_ssf2thdr
+    title: "Made in U.S.A. (Ken Stage)"
+    path: "Made in U.S.A. (Ken Stage).brstm"
+    type: betting
+  - id: akuma_ssf2thdr
+    title: "Mountain Breaker (Akuma Stage)"
+    path: "Mountain Breaker (Akuma Stage).brstm"
+    type: betting
+  - id: ryu_ssf2thdr
+    title: "Ryu Interpretation (Ryu Stage)"
+    path: "Ryu Interpretation (Ryu Stage) [Original Version].brstm"
+    type: betting
+  - id: dee_jay_ssf2thdr
+    title: "Thank You, Dee Jay (Dee Jay Stage)"
+    path: "Thank You, Dee Jay (Dee Jay Stage).brstm"
+    type: betting
+...

@@ -23,10 +23,11 @@ songs:
     title: "Wild Area (South)"
     path: "Play_BGM_road2.txtp"
     type: betting
-  - id: route_24_sword_proto
-    title: "Route 24"
-    path: "Play_BGM_road4.txtp"
-    type: betting
+  # - id: route_24_sword_proto
+    # title: "Route 24"
+    # path: "Play_BGM_road4.txtp"
+    # type: betting
+    # scuffed
   - id: battle_wild_pokemon_sword_proto
     title: "Battle! (Wild Pokemon)"
     path: "Play_BGM_hokaku {bgm_bl_hokaku_s} {bgm_bl_hokaku_l}.txtp"

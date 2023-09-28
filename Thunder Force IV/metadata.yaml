@@ -8,6 +8,10 @@ songs:
     title: "Lightning Strikes Again (Opening Theme)"
     path: "01 - Lightning Strikes Again (Opening Theme).vgz"
     type: warning
+  - id: tan_tan_ta_ta_ta_tan_configuration
+    title: "Tan Tan Ta Ta Ta Tan (Configuration)"
+    path: "02 - Tan Tan Ta Ta Ta Tan (Configuration).vgm"
+    type: result
   - id: dont_go_off_course_select
     title: "Don't Go Off (Course Select)"
     path: "03 - Don't Go Off (Course Select).vgz"
@@ -20,6 +24,10 @@ songs:
     title: "What (Stage 1B)"
     path: "05 What (Stage 1B).vgm"
     type: warning
+  - id: evil_destroyer_stage_1_boss
+    title: "Evil Destroyer (Stage 1 Boss)"
+    path: "06 - Evil Destroyer (Stage 1 Boss).vgm"
+    type: battle
   - id: space_walk_stage_2a
     title: "Space Walk (Stage 2A)"
     path: "07 - Space Walk (Stage 2A).vgz"
@@ -117,6 +125,11 @@ songs:
     title: "Omake 6"
     path: "44 - Omake 6.vgz"
     type: warning
+  - id: omake_9
+    title: "Omake 9"
+    path: "47 - Omake 9.vgm"
+    ends: 2:10
+    type: betting
   - id: lightning_strikes_again_metal_squad_ssh_version
     title: "Lightning Strikes Again / Metal Squad (SSH version)"
     path: "Lightning Strikes AgainMetal Squad (SSH version) (No Intro).brstm"

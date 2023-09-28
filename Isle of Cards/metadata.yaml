@@ -1,0 +1,60 @@
+---
+id: voice_of_cards_the_isle_dragon_roars
+title: "Voice of Cards: The Isle Dragon Roars"
+platform: "PC", "PS4", "Switch"
+year: 2021
+songs:
+  - id: pursuing_the_dragon_field_edit_version
+    title: "Pursuing the Dragon (Field Edit Version)"
+    path: "BGM1 - No010_card_field_type01_full.txtp"
+    type: betting
+  - id: pursuing_the_dragon_voice_of_journey_s_beginnings
+    title: "Pursuing the Dragon - Voice of Journey's Beginnings"
+    path: "BGM1 - No011_card_type01_full_Loop.txtp"
+    type: break
+  - id: where_monsters_nest
+    title: "Where Monsters Nest"
+    path: "BGM1 - No040_card_cave.txtp"
+    type: break
+  - id: midday_town
+    title: "Midday Town"
+    path: "BGM1 - No030_card_town.txtp"
+    type: break
+  - id: dance_of_the_woodlander
+    title: "Dance of the Woodlander"
+    path: "BGM1 - No080_card_event_comical.txtp"
+    type: betting
+  - id: pulsating_power
+    title: "Pulsating Power"
+    path: "BGM1 - No060_card_battle_boss.txtp"
+    type: battle
+  - id: tears_of_the_black_witch
+    title: "Tears of the Black Witch"
+    path: "BGM1 - No090_card_event_sad.txtp"
+    type: break
+  - id: adventure_of_the_would_be_hero
+    title: "Adventure of the Would-Be Hero"
+    path: "BGM1 - No120_card_multi.txtp"
+    type: betting
+  - id: forbidden_magic
+    title: "Forbidden Magic"
+    path: "BGM1 - No100_card_event_solemnity.txtp"
+    type: warning
+  - id: rest_in_peace
+    title: "Rest in Peace"
+    path: "BGM1 - No050_card_dungeon_last.txtp"
+    type: break
+  - id: twin_recollections_field_edit_version
+    title: "Twin Recollections (Field Edit Version)"
+    path: "BGM1 - No020_card_field_type02_full_Inst_200120.txtp"
+    type: betting
+  - id: light_piercing_impurity
+    title: "Light Piercing Impurity"
+    path: "BGM1 - No070_card_battle_last.txtp"
+    type: battle
+  - id: pursuing_the_deagon_hereafter
+    title: "Pursuing the Dragon - Hereafter"
+    path: "BGM1 - No110_card_ending.txtp"
+    type: break
+#I think BGM2 is the other game? will need to check
+...

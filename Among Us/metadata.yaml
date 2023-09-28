@@ -1,0 +1,19 @@
+---
+id: among_us
+title: "Among Us"
+platform: "Various"
+year: 2018
+songs: 
+  - id: among_us_space_theme
+    title: "Among Us Space Theme"
+    path: "Among Us Space Theme.brstm"
+    type: break
+  - id: hide_n_seek_ranch
+    title: "Hide n Seek Ranch"
+    path: "Hide n Seek Ranch.brstm"
+    type: betting
+  - id: seek
+    title: "Seek"
+    path: "Seek.brstm"
+    type: betting
+...

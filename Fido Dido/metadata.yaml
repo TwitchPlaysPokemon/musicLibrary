@@ -1,0 +1,35 @@
+---
+id: fido_dido
+title: "Fido Dido"
+platform: "SMD"
+year: Unreleased
+songs:
+  - id: password_coolest_dudes
+    title: "Password ~ Coolest Dudes"
+    path: "02 - Password ~ Coolest Dudes.vgz"
+    type: result
+  - id: level_introduction_fido_dido
+    title: "Level Introduction"
+    path: "03 - Level Introduction.vgz"
+    type: warning
+  - id: level_2_fido_dido
+    title: "Level 2"
+    path: "05 - Level 2.vgz"
+    type: betting
+  - id: level_3_fido_dido
+    title: "Level 3"
+    path: "06 - Level 3.vgz"
+    type: betting
+  - id: level_6_bonus_level_3
+    title: "Level 6 ~ Bonus Level 3"
+    path: "08 - Level 6 ~ Bonus Level 3.vgz"
+    type: break
+  - id: bonus_level_1_and_2
+    title: "Bonus Level 1 & 2"
+    path: "09 - Bonus Level 1 & 2.vgz"
+    type: warning
+  - id: ending_fido_dido
+    title: "Ending"
+    path: "11 - Ending.vgz"
+    type: break
+...

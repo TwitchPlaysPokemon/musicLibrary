@@ -1,0 +1,76 @@
+---
+id: pokemon_sleep
+title: "Pokémon Sleep"
+series: pokemon
+platform: "Mobile"
+year: 2023
+songs: 
+  - id: introductions_pokemon_sleep
+    title: "Introductions"
+    path: "bgm_opening.fsb"
+    type: result
+  - id: time_to_cook
+    title: "Time to Cook!"
+    path: "bgm_cooking.fsb"
+    type: betting
+  - id: evolution_pokemon_sleep
+    title: "Evolution"
+    path: "bgm_evolution_pokemon.fsb"
+    type: warning
+  - id: night_night
+    title: "Night Night!"
+    path: "bgm_before_sleep02.fsb"
+    type: break
+  - id: good_morning_pokemon_sleep
+    title: "Good Morning!"
+    path: "bgm_get_up.fsb"
+    type: betting
+  - id: cyan_beach_morning
+    title: "Cyan Beach (Morning)"
+    path: "bgm_home_watering_place_morning.fsb"
+    type: result
+  - id: cyan_beach_day
+    title: "Cyan Beach (Day)"
+    path: "bgm_home_watering_place_daytime.fsb"
+    type: betting
+  - id: cyan_beach_night
+    title: "Cyan Beach (Night)"
+    path: "bgm_home_watering_place_night.fsb"
+    type: break
+  - id: greengrass_isle_morning
+    title: "Greengrass Isle (Morning)"
+    path: "bgm_home_forest_morning.fsb"
+    type: result
+  - id: greengrass_isle_day
+    title: "Greengrass Isle (Day)"
+    path: "bgm_home_forest_daytime.fsb"
+    type: betting
+  - id: greengrass_isle_night
+    title: "Greengrass Isle (Night)"
+    path: "bgm_home_forest_night.fsb"
+    type: break
+  - id: snowtop_tundra_morning
+    title: "Snowdrop Tundra (Morning)"
+    path: "bgm_home_cold_place_morning.fsb"
+    type: break
+  - id: snowtop_tundra_day
+    title: "Snowdrop Tundra (Day)"
+    path: "bgm_home_cold_place_daytime.fsb"
+    type: betting
+  - id: snowtop_tundra_night
+    title: "Snowdrop Tundra (Night)"
+    path: "bgm_home_cold_place_night.fsb"
+    type: break
+  - id: taupe_hollow_morning
+    title: "Taupe Hollow (Morning)"
+    path: "bgm_home_cave_morning.fsb"
+    type: betting
+  - id: taupe_hollow_day
+    title: "Taupe Hollow (Day)"
+    path: "bgm_home_cave_daytime.fsb"
+    type: betting
+  - id: taupe_hollow_night
+    title: "Taupe Hollow (Night)"
+    path: "bgm_home_cave_night.fsb"
+    type: break
+...

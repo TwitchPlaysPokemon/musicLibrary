@@ -1,0 +1,63 @@
+---
+id: dr_slump
+title: "Dr. Slump"
+platform: "PS1"
+year: 1999
+songs:
+  - id: title_screen_slump
+    title: "Title Screen"
+    path: "01 Title Screen.psf"
+    type: result
+  - id: living_room_slump
+    title: "Living Room"
+    path: "03 Living Room.psf"
+    type: break
+  - id: arale_s_room
+    title: "Arale's Room"
+    path: "05 Arale's Room.psf"
+    type: break
+  - id: coffee_pot
+    title: "Coffee Pot"
+    path: "06 Coffee Pot.psf"
+    type: betting
+  - id: barber_shop_soramame
+    title: "Barber Shop Soramame"
+    path: "07 Barber Shop Soramame.psf"
+    type: result
+  - id: penguin_village_bank
+    title: "Penguin Village Bank"
+    path: "09 Penguin Village Bank.psf"
+    type: break
+  - id: racing_akane
+    title: "Racing Akane"
+    path: "14 Racing Akane.psf"
+    type: warning
+  - id: prehistoric_stage_slump
+    title: "Prehistoric Stage"
+    path: "16 Prehistoric Stage.psf"
+    type: betting
+  - id: mountain_stage_slump
+    title: "Mountain Stage"
+    path: "17 Mountain Stage.psf"
+    type: betting
+  - id: battle_against_obotchaman
+    title: "Battle against Obotchaman"
+    path: "20 Battle against Obotchaman.psf"
+    type: betting #too soft for battle?
+  - id: planet_nikochan_stage
+    title: "Planet Nikochan Stage"
+    path: "22 Planet Nikochan Stage.psf"
+    type: betting
+  - id: boss_battle_slump
+    title: "Boss Battle"
+    path: "24 Boss Battle.psf"
+    type: warning
+  - id: last_boss_battle_slump
+    title: "Last Boss Battle"
+    path: "25 Last Boss Battle.psf"
+    type: battle
+  - id: special_track_slump
+    title: "Special Track"
+    path: "27 Special Track.psf"
+    type: warning
+...

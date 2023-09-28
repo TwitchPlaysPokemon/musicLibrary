@@ -3,11 +3,52 @@ title: "Chip 'n Dale Rescue Rangers"
 year: 1990
 platform: "NES"
 songs:
-  - id: happy_cat_factory
-    title: "Happy Cat Factory"
-    path: "Happy Cat Factory.brstm"
-    type: warning
   - id: intro_theme_chip_n_dale
     title: "Intro Theme"
-    path: "Intro Theme.brstm"
+    path: "01 Rescue Rangers Theme (Title).vgz"
     type: warning
+  - id: zone_0_chip_n_dale
+    title: "Zone 0"
+    path: "02 Zone 0.vgz"
+    type: betting
+  - id: map_chip_n_dale
+    title: "Map"
+    path: "03 Map.vgz"
+    type: warning
+  - id: zone_a_c_e
+    title: "Zone A/C/E"
+    path: "04 Zone A, C, E.vgz"
+    type: warning
+  - id: zone_b
+    title: "Zone B"
+    path: "05 Zone B.vgz"
+    type: betting
+  - id: zone_d
+    title: "Zone D"
+    path: "06 Zone D.vgz"
+    type: warning
+  - id: zone_f_h_i
+    title: "Zone F/H/I"
+    path: "07 Zone F, H, I.vgz"
+    type: warning
+  - id: zone_g
+    title: "Zone G"
+    path: "08 Zone G.vgz"
+    type: warning
+  - id: zone_j
+    title: "Zone J"
+    path: "09 Zone J.vgz"
+    type: betting
+  - id: power_up_chip_n_dale
+    title: "Power Up"
+    path: "10 Power Up.vgz"
+    type: warning
+  - id: boss_chip_n_dale
+    title: "Boss"
+    path: "11 Boss.vgz"
+    type: battle
+  - id: ending_chip_n_dale
+    title: "Ending"
+    path: "14 Ending.vgz"
+    type: result
+...

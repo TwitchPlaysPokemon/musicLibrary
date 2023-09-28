@@ -1,11 +1,31 @@
 ---
 id: bayonetta_pachislot
-title: "Bayonetta"
+title: "Bayonetta (PS)"
 platform: "Pachislot"
 year: 2015
 songs:
   - id: scent_of_love
     title: "Scent of Love"
     path: "Scent of Love.brstm"
+    type: betting
+  - id: it_s_showtime_bayopachi
+    title: "IT’S SHOWTIME"
+    path: "01. ITS SHOWTIME.mp3"
+    type: betting
+  - id: red_and_black_bayopachi
+    title: "Red & Black"
+    path: "03. Red & Black.mp3"
+    type: betting
+  - id: you_may_call_me_father_bayopachi
+    title: "You May Call Me Father"
+    path: "04. You May Call Me Father.mp3"
+    type: warning
+  - id: after_burner_arrange_bayopachi
+    title: "赤7BB中BGM(After Burner Arrange)"
+    path: "afburn.mp3"
+    type: betting
+  - id: splash_wave_arrange_bayopachi
+    title: "06. 赤7BB中BGM(Splash Wave Arrange)"
+    path: "spwave.mp3"
     type: betting
 ...

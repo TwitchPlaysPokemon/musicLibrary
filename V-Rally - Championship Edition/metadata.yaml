@@ -1,0 +1,23 @@
+---
+id: v_rally_championship_edition
+title: "V-Rally: Championship Edition"
+platform: "GB"
+year: 1998
+songs:
+  - id: main_menu_vrally
+    title: "Main Menu"
+    path: "01 Main Menu.vgz"
+    type: betting
+  - id: car_selection_vrally
+    title: "Car Selection"
+    path: "02 Car Selection.vgz"
+    type: warning
+  - id: ranking_vrally
+    title: "Ranking"
+    path: "05 Ranking.vgz"
+    type: result
+  - id: ending_vrally
+    title: "Ending"
+    path: "06 Ending.vgz"
+    type: result
+...

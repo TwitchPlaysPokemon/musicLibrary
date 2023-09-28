@@ -1,0 +1,35 @@
+---
+id: poker_night_at_the_inventory
+title: "Poker Night at the Inventory"
+platform: "PC"
+year: 2010
+songs:
+  - id: poker_night_inventory_main_theme
+    title: "Main Theme"
+    path: "mus_credits.ogg"
+    type: result
+  - id: dangeresque_theme
+    title: "Dangeresque Theme"
+    path: "mus_dangeresque.ogg"
+    type: betting
+  - id: more_gun_inventory
+    title: "More Gun"
+    path: "mus_engineer.ogg"
+    type: break
+  - id: team_fortress_2_theme_poker_night
+    title: "Team Fortress 2 Theme"
+    path: "mus_fortress.ogg"
+    type: break
+  - id: sam_and_max_s_office_theme
+    title: "Sam and Max's Office Theme"
+    path: "mus_office.ogg"
+    type: break
+  - id: skunkape
+    title: "Skunkape"
+    path: "mus_skunkape.ogg"
+    type: betting
+  - id: trogdor
+    title: "Trogdor"
+    path: "mus_trogdor.ogg"
+    type: betting
+...

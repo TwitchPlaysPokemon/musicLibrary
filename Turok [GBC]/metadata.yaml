@@ -1,0 +1,36 @@
+---
+id: turok_gbc
+title: "Turok - Battle of the Bionosaurs [GBC]"
+series: turok
+platform: ["GBC", "N64", "PC"]
+year: 1997
+songs:
+  - id: mountain_forest_t1gbc
+    title: "Mountain Forest"
+    path: "02 Mountain Forest.vgz"
+    type: betting
+  - id: temple_t1gbc
+    title: "Temple"
+    path: "07 Temple.vgz"
+    type: betting
+  - id: ruins_t1gbc
+    title: "Ruins"
+    path: "05 Ruins.vgz"
+    type: betting
+  - id: hub_t1gbc
+    title: "Hub"
+    path: "06 Hub.vgz"
+    type: betting
+  - id: catacombs_t1gbc
+    title: "Catacombs"
+    path: "10 Catacombs.vgz"
+    type: betting
+  - id: alien_base_t1gbc
+    title: "Alien Base"
+    path: "11 Alien Base.vgz"
+    type: betting
+  - id: staff_roll_t1gbc
+    title: "Staff Roll"
+    path: "12 Staff Roll.vgz"
+    type: result
+...

@@ -1,0 +1,23 @@
+---
+id: kogama
+title: "KoGaMa"
+platform: ["PC", "Mobile"]
+year: 2011
+songs:
+  - id: island_of_good_mood_monsters
+    title: "Island Of Good Mood Monsters"
+    path: "Island Of Good Mood Monsters.brstm"
+    type: betting
+  - id: kogama_here_we_go
+    title: "Kogama Here We Go"
+    path: "Kogama Here We Go.brstm"
+    type: result
+  - id: outer_pace_lunar_lava
+    title: "Outer Pace Lunar Lava"
+    path: "Outer Pace Lunar Lava.brstm"
+    type: break
+  - id: razor_drop
+    title: "Razor Drop"
+    path: "Razor Drop.brstm"
+    type: warning
+...

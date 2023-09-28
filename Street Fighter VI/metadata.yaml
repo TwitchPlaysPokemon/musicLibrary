@@ -1,0 +1,215 @@
+---
+id: street_fighter_vi
+title: "Street Fighter 6"
+series: streetfighter
+platform: "Various"
+year: 2023
+#these all come from the closed beta test. 
+songs:
+  - id: world_tour_main_menu_ver_3
+    title: "World Tour - Main Menu (Ver. 3)"
+    path: "World Tour - Main Menu (Ver. 3).txtp"
+    type: result
+  - id: apparel_battle_hub_goods_store
+    title: "Apparel - Battle Hub Goods Store"
+    path: "Apparel - Battle Hub Goods Store.txtp"
+    type: betting
+  - id: battle_hub_chill_remix
+    title: "Battle Hub - Chill Remix"
+    path: "Battle Hub - Chill Remix.txtp"
+    type: break
+  - id: battle_hub_chill_remix_alternate_1
+    title: "Battle Hub - Chill Remix (Alternate 1)"
+    path: "Battle Hub - Chill Remix (Alternate 1).txtp"
+    type: break
+  - id: battle_hub_lobby_area_part_1
+    title: "Battle Hub - Lobby Area (Part 1)"
+    path: "Battle Hub - Lobby Area (Part 1).txtp"
+    type: break
+  - id: battle_hub_lobby_area_part_2
+    title: "Battle Hub - Lobby Area (Part 2)"
+    path: "Battle Hub - Lobby Area (Part 2).txtp"
+    type: break
+  - id: battle_hub_lobby_area_part_3
+    title: "Battle Hub - Lobby Area (Part 3)"
+    path: "Battle Hub - Lobby Area (Part 3).txtp"
+    type: break
+  - id: battle_hub_lobby_area_part_4
+    title: "Battle Hub - Lobby Area (Part 4)"
+    path: "Battle Hub - Lobby Area (Part 4).txtp"
+    type: break
+  - id: battle_hub_main_menu_ver_3
+    title: "Battle Hub - Main Menu (Ver. 3)"
+    path: "Battle Hub - Main Menu (Ver. 3).txtp"
+    type: betting
+  - id: battle_hub_menu
+    title: "Battle Hub - Menu"
+    path: "Battle Hub - Menu.txtp"
+    type: betting
+  - id: battle_hub_tournament
+    title: "Battle Hub Tournament"
+    path: "Battle Hub Tournament.txtp"
+    type: betting
+  - id: body_shop_avatar_creator
+    title: "Body Shop - Avatar Creator"
+    path: "Body Shop - Avatar Creator.txtp"
+    type: betting
+  - id: one_and_only_avatar_customization
+    title: "One & Only - Avatar Customization"
+    path: "One & Only - Avatar Customization.txtp"
+    type: betting
+  - id: down_and_out_extreme_battle
+    title: "Down & Out - Extreme Battle"
+    path: "Down & Out - Extreme Battle.txtp"
+    type: betting
+  - id: heaven_and_hell_extreme_battle
+    title: "Heaven & Hell - Extreme Battle"
+    path: "Heaven & Hell - Extreme Battle.txtp"
+    type: warning
+  - id: normal_match_rules_extreme_battle_part_1
+    title: "Normal Match Rules - Extreme Battle (Part 1)"
+    path: "Normal Match Rules - Extreme Battle (Part 1).txtp"
+    type: betting
+  - id: normal_match_rules_extreme_battle_part_2
+    title: "Normal Match Rules - Extreme Battle (Part 2)"
+    path: "Normal Match Rules - Extreme Battle (Part 2).txtp"
+    type: warning
+  - id: result_sf6
+    title: "Result"
+    path: "Result.txtp"
+    type: result
+  - id: result_short_remix
+    title: "Result - Short Remix"
+    path: "Result - Short Remix.txtp"
+    type: result
+  - id: smash_and_grab_extreme_battle
+    title: "Smash & Grab - Extreme Battle"
+    path: "Smash & Grab - Extreme Battle.txtp"
+    type: betting
+  - id: rules_and_regulations_extreme_battle
+    title: "Rules & Regulations - Extreme Battle"
+    path: "Rules & Regulations - Extreme Battle.txtp"
+    type: betting
+  - id: restaurant_sf6
+    title: "Restaurant"
+    path: "Restaurant.txtp"
+    type: break
+  - id: back_and_forth_extreme_battle
+    title: "Back & Forth - Extreme Battle"
+    path: "Back & Forth - Extreme Battle.txtp"
+    type: betting
+  - id: bushin_ninjastar_cypher_instrumental_ver
+    title: "Bushin Ninjastar Cypher (Instumental Ver.)"
+    path: "Bushin Ninjastar Cypher - Kimberly's Super Art (Instumental Ver.).txtp"
+    type: battle
+# character/stage themes. The raw files are dynamic and are split into parts, so you get this instead
+  - id: not_on_the_sidelines
+    title: "Not On The Sidelines"
+    path: "1-01. Not On The Sidelines - Street Fighter 6 Main Theme.mp3"
+    ends: 2:25
+    type: betting
+  - id: taking_aim_luke_s_theme
+    title: "Taking Aim - Luke's Theme"
+    path: "1-02. Taking Aim - Luke's Theme.mp3"
+    type: betting
+  - id: viator_ryu_s_theme
+    title: "Viator - Ryu's Theme"
+    path: "1-03. Viator - Ryu's Theme.mp3"
+    type: betting
+  - id: not_a_little_girl_chun_li_s_theme
+    title: "Not A Little Girl - Chun-Li's Theme"
+    path: "1-04. Not A Little Girl - Chun-Li's Theme.mp3"
+    type: betting
+  - id: mr_top_player_jamie_s_theme
+    title: "Mr. Top Player - Jamie's Theme"
+    path: "1-05. Mr. Top Player - Jamie's Theme.mp3"
+    type: betting
+  - id: sharpened_sonic_guile_s_theme
+    title: "Sharpened Sonic - Guile's Theme"
+    path: "1-06. Sharpened Sonic - Guile's Theme.mp3"
+    type: betting
+  - id: ninjastar_pop_kimberly_s_theme
+    title: "Ninjastar Pop - Kimberly's Theme"
+    path: "1-07. Ninjastar Pop - Kimberly's Theme.mp3"
+    type: betting
+  - id: arachnid_juri_s_theme
+    title: "ÅrachniD - Juri's Theme"
+    path: "1-08. ÅrachniD - Juri's Theme.mp3"
+    type: betting
+  - id: spirit_of_the_flame_ken_s_theme
+    title: "Spirit of the Flame - Ken's Theme"
+    path: "1-09. Spirit of the Flame - Ken's Theme.mp3"
+    type: betting
+  - id: zilra_zilra_blanka_s_theme
+    title: "zilra zilra - Blanka's Theme"
+    path: "1-10. zilra zilra - Blanka's Theme.mp3"
+    type: betting
+  - id: the_great_sunlight_dhalsim_s_theme
+    title: "The Great Sunlight - Dhalsim's Theme"
+    path: "1-11. The Great Sunlight - Dhalsim's Theme.mp3"
+    type: betting
+  - id: kumadori_e_honda_s_theme
+    title: "Kumadori - E. Honda's Theme"
+    path: "1-12. Kumadori - E. Honda's Theme.mp3"
+    type: betting
+  - id: pankration_marisa_s_theme
+    title: "Pankration - Marisa's Theme"
+    path: "1-13. Pankration - Marisa's Theme.mp3"
+    type: betting
+  - id: walk_with_grace_manon_s_theme
+    title: "Walk With Grace - Manon's Theme"
+    path: "1-14. Walk With Grace - Manon's Theme.mp3"
+    type: betting
+  - id: all_right_dee_jay_s_theme
+    title: "All Right! - Dee Jay's Theme"
+    path: "1-15. All Right! - Dee Jay's Theme.mp3"
+    type: betting
+  - id: the_plunderer_jp_s_theme
+    title: "The Plunderer - JP's Theme"
+    path: "1-16. The Plunderer - JP's Theme.mp3"
+    type: warning
+  - id: r_e_d_zangief_s_theme
+    title: "R.E.D. - Zangief's Theme"
+    path: "1-17. R.E.D. - Zangief's Theme.mp3"
+    type: warning
+  - id: diosa_del_sol_lily_s_theme
+    title: "Diosa Del Sol - Lily's Theme"
+    path: "1-18. Diosa Del Sol - Lily's Theme.mp3"
+    type: betting
+  - id: overtrip_cammy_s_theme
+    title: "OverTrip - Cammy's Theme"
+    path: "1-19. OverTrip - Cammy's Theme.mp3"
+    type: betting
+  - id: the_turbulent_wind_rashid_s_theme
+    title: "The Turbulent Wind - Rashid's Theme"
+    path: "1-20. The Turbulent Wind - Rashid's Theme.mp3"
+    type: betting
+  - id: poisonous_passion_a_k_i_s_theme
+    title: "Poisonous Passion - A.K.I.'s Theme"
+    path: "1-21. Poisonous Passion - A.K.I.'s Theme.mp3"
+    type: betting
+  - id: metro_city_downtown_stage_battle
+    title: "Metro City Downtown - Stage Battle"
+    path: "2-03. Metro City Downtown - Stage Battle.mp3"
+    type: betting
+  - id: genbu_temple_stage_battle
+    title: "Genbu Temple - Stage Battle"
+    path: "2-04. Genbu Temple - Stage Battle.mp3"
+    type: betting
+  - id: carrier_byron_taylor_stage_battle
+    title: "Carrier Byron Taylor - Stage Battle"
+    path: "2-05. Carrier Byron Taylor - Stage Battle.mp3"
+    type: betting
+  - id: tian_hong_yuan_stage_battle
+    title: "Tian Hong Yuan - Stage Battle"
+    path: "2-06. Tian Hong Yuan - Stage Battle.mp3"
+    type: betting
+  - id: the_macho_ring_stage_battle
+    title: "The Macho Ring - Stage Battle"
+    path: "2-07. The Macho Ring - Stage Battle.mp3"
+    type: betting
+  - id: training_room_stage_battle
+    title: "Training Room - Stage Battle"
+    path: "2-08. Training Room - Stage Battle.mp3"
+    type: betting
+...

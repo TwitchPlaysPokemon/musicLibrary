@@ -1,0 +1,53 @@
+---
+id: new_super_mario_bros_wii_coin_world
+title: "New Super Mario Bros. Wii Coin World"
+series: mario
+platform: "Arcade"
+year: 2011
+#no official OST release, so I had to guess on some track names
+songs: 
+  - id: grass_overworld_nsmbwcw
+    title: "Grass Overworld"
+    path: "maingame_port1_4ch.sngw"
+    type: betting
+  - id: desert_overworld_nsmbwcw
+    title: "Desert Overworld"
+    path: "maingame_sabaku_port1.sngw"
+    type: betting
+  - id: beach_overworld_nsmbwcw
+    title: "Beach Overworld"
+    path: "maingame_sea_port1.sngw"
+    type: betting
+  - id: party_game_nsmbwcw
+    title: "Party Game"
+    path: "party_game.sngw"
+    type: betting
+  - id: fever_nsmbwcw
+    title: "Fever"
+    path: "fever_port1_4ch.sngw"
+    type: warning
+  - id: boss_stage_nsmbwcw
+    title: "Boss Stage"
+    path: "BGM_boss_stage.sngw"
+    type: battle
+  - id: athletic_nsmbcw
+    title: "Athletic"
+    path: "14Course_Sora_W7-1.sngw"
+    type: betting
+  - id: ending_nsmbwcw
+    title: "Ending"
+    path: "ending_port1_4ch.sngw"
+    type: betting
+  - id: bowser_s_theme_nsmbcw
+    title: "Bowser's Theme"
+    path: "jp_phase_1.sngw"
+    type: warning
+  - id: item_get_nsbwcw
+    title: "Item Get!"
+    path: "step_get_4ch.sngw"
+    type: result
+  - id: starman_nsmbwcw
+    title: "Starman"
+    path: "ssc_4ch.sngw"
+    type: warning
+...

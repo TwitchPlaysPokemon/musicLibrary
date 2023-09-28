@@ -5,10 +5,26 @@ series: finalfantasy
 platform: "SNES"
 year: 1991
 songs:
-  - id: boss_battle_ffiv
-    title: "Boss Battle"
-    path: "Boss Battle.spc"
+  - id: theme_of_love_ffiv
+    title: "Theme of Love"
+    path: "04 Theme of Love.spc"
+    type: break
+  - id: prologue_ffiv
+    title: "Prologue"
+    path: "05 Prologue.spc"
+    type: result
+  - id: main_theme_ffiv
+    title: "Main Theme"
+    path: "07a Main Theme.spc"
+    type: betting
+  - id: battle_theme_ffiv
+    title: "Battle Theme"
+    path: "08 Fight 1.spc"
     type: battle
+  - id: fanfare_ffiv
+    title: "Fanfare"
+    path: "09 Fanfare.spc"
+    type: result
   - id: hello_big_chocobo
     title: "Hello! Big Chocobo!"
     path: "10 Hello! Big Chocobo!.spc"
@@ -17,4 +33,36 @@ songs:
     title: "Chocobo ~ Chocobo"
     path: "11 Chocobo ~ Chocobo.spc"
     type: result
+  - id: boss_battle_ffiv
+    title: "Boss Battle"
+    path: "13 Fight 2.spc"
+    type: battle
+  - id: castle_damcyan_ffiv
+    title: "Castle Damcyan"
+    path: "16 Castle Damcyan.spc"
+    type: betting
+  - id: fabul_ffiv
+    title: "Fabul"
+    path: "20 Fabul.spc"
+    type: warning
+  - id: toroian_beauty_ffiv
+    title: "Toroian Beauty"
+    path: "30 Toroian Beauty.spc"
+    type: betting
+  - id: dancing_calcobrina_ffiv
+    title: "Dancing Calcobrina"
+    path: "36 Dancing Calcobrina.spc"
+    type: warning
+  - id: illusionary_world_ffiv
+    title: "Illusionary World"
+    path: "38 Illusionary World.spc"
+    type: betting
+  - id: another_moon_ffiv
+    title: "Another Moon"
+    path: "40 Another Moon.spc"
+    type: warning
+  - id: the_final_battle_ffiv
+    title: "The Final Battle"
+    path: "43 The Final Battle.spc"
+    type: battle
 ...

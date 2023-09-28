@@ -79,4 +79,16 @@ songs:
     path: "Winterbliss.brstm"
     ends: 2:34
     type: betting
+  - id: castle_crashers_online_menu
+    title: "Castle Crashers Online Menu"
+    path: "38 - Castle Crashers Online Menu.mp3"
+    type: betting
+  - id: the_abduction
+    title: "The Abduction"
+    path: "24 - The Abduction (Alien Hominid Theme).mp3"
+    type: betting
+  - id: flutey
+    title: "Flutey"
+    path: "02 - Flutey World Map.mp3"
+    type: warning
 ...

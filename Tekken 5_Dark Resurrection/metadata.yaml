@@ -1,34 +1,48 @@
 ---
 id: tekken_5_dark_resurrection
+platform: ["Arcade", "PS3", "PSP"]
 title: "Tekken 5: Dark Resurrection"
 series: tekken
-platform: ["Arcade", "PS3", "PSP"]
 year: 2006
-#let me know if these are the same songs as tekken 5 - can delete if so
 songs:
-  - id: red_hot_fist_dark_resurrection
-    title: "Red Hot Fist"
-    path: "tk15_tk5_redhotfist.lopus"
-    type: battle
-  - id: moonlit_wilderness_dark_resurrection
-    title: "Moonlit Wilderness"
-    path: "tk16_tk5_moonlit_wilderness.lopus"
-    type: battle
-  - id: poolside_dark_resurrection
-    title: "Poolside"
-    path: "tk17_tk5_poolside.lopus"
-    type: battle
-  - id: snow_castle_dark_resurrection
-    title: "Snow Castle"
-    path: "tk18_tk5dr_snowcastle.lopus"
+  - id: estrada_da_estrela
+    title: "Estrada da Estrela"
+    path: "06 Akitaka Tohyama, Lag Stage - Estrada da Estrela.npsf"
     type: betting
-  - id: into_nirvana_dark_resurrection
-    title: "Into Nirvana"
-    path: "tk19_tk5dr_into_nirvana.lopus"
+  - id: turbo_electric
+    title: "Turbo Electric"
+    path: "07 Yoshihito Yano, DJ Motive - Turbo Electric.npsf"
+    type: warning
+  - id: snow_castle
+    title: "Snow Castle"
+    path: "12 Go Shiina - Snow Castle.npsf"
+    type: betting
+  - id: twist_and_scream
+    title: "Twist & Scream"
+    path: "13 Satoru Kosaki, Keiichi Okabe - Twist & Scream.npsf"
     type: battle
-  - id: resurrection_t5_dark_resurrection
-    title: "Resurrection"
-    path: "tk20_tk5dr_resurrection.lopus"
-    ends: 2:15 #think this should work to prevent a loop?
+  - id: center_of_gravity
+    title: "Center of Gravity"
+    path: "16 Yu Miyake, Numb - Center of Gravity.npsf"
+    type: battle
+  - id: elegance_in_violence
+    title: "Elegance In Violence"
+    path: "17 Hiroshi Okubo, Riow Arai - Elegance In Violence.npsf"
+    type: betting
+  - id: pink_pop
+    title: "Pink Pop"
+    path: "18 Satoru Kosaki - Pink Pop.npsf"
+    type: battle
+  - id: salking_wolves
+    title: "Stalking Wolves"
+    path: "19 Rio Hamamoto - Stalking Wolves.npsf"
+    type: battle
+  - id: disco_bowl
+    title: "Disco Bowl"
+    path: "24 Hiroshi Okubo - Disco Bowl.npsf"
+    type: betting
+  - id: hall_of_fate_resurrection
+    title: "Hall of Fate ~ Resurrection"
+    path: "29 Ryuichi Takada - Hall of Fate ~ Resurrection.npsf"
     type: betting
 ...

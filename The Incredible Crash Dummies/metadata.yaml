@@ -1,0 +1,31 @@
+---
+id: the_incredible_crash_dummies
+title: "The Incredible Crash Dummies"
+platform: "NES"
+year: 1993
+songs: 
+  - id: title_screen_incredible_crash_dummies
+    title: "Title Screen - Ending & Credits"
+    path: "01 Title Screen - Ending & Credits.vgz"
+    type: result
+  - id: stage_theme_1_incredible_crash_dummies
+    title: "Stage Theme 1"
+    path: "02 Stage Theme 1.vgz"
+    type: betting
+  - id: stage_theme_2_incredible_crash_dummies
+    title: "Stage Theme 2"
+    path: "03 Stage Theme 2.vgz"
+    type: warning
+  - id: puzzle_boss_incredible_crash_dummies
+    title: "Puzzle, Boss"
+    path: "06 Puzzle, Boss.vgz"
+    type: result
+  - id: unknown_theme_1_incredible_crash_dummies
+    title: "Unknown Theme 1"
+    path: "08 Unknown Theme 1.vgz"
+    type: warning
+  - id: unknown_theme_2_incredible_crash_dummies
+    title: "Unknown Theme 2"
+    path: "09 Unknown Theme 2.vgz"
+    type: warning
+...

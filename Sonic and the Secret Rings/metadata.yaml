@@ -5,14 +5,74 @@ series: sonic
 platform: "Wii"
 year: 2007
 songs: 
+  - id: let_the_speed_mend_it
+    title: "Let the Speed Mend It"
+    path: "stg01_bgm.adx"
+    type: battle
+  - id: the_wicked_wild
+    title: "The Wicked Wild"
+    path: "stg02_bgm.adx"
+    type: betting
+  - id: the_palace_that_was_found
+    title: "The Palace That Was Found"
+    path: "stg03_bgm.adx"
+    type: battle
+  - id: the_white_of_sky
+    title: "The White of Sky"
+    path: "stg04_bgm.adx"
+    type: betting
+  - id: no_way_through_secret_rings
+    title: "No Way Through"
+    path: "stg05_bgm.adx"
+    type: betting
   - id: high_and_broken
-    title: "HIGH AND BROKEN"
+    title: "High and Broken"
     path: "stg06_bgm.adx"
     ends: 2:51
     type: betting
+  - id: unawakening_float
+    title: "Unawakening Float"
+    path: "stg07_bgm.adx"
+    type: betting
+  - id: poison_spear
+    title: "Poison Spear"
+    path: "stg12_bgm.adx"
+    type: battle
+  - id: how_it_started
+    title: "How It Started"
+    path: "stg32_bgm.adx"
+    type: battle
+  - id: blue_on_the_run
+    title: "Blue on the Run"
+    path: "stg52_bgm.adx"
+    type: battle
+  - id: it_has_come_to_this
+    title: "It Has Come to This"
+    path: "stg73_bgm.adx"
+    type: betting
   - id: sandstorm_sonic_and_the_secret_rings
-    title: "SANDSTORM"
+    title: "Sandstorm"
     path: "bgm_event_06.adx"
-    ends: 2:17
+    ends: 2:17x
+    type: betting
+  - id: seven_rings_in_hand
+    title: "Seven Rings in Hand"
+    path: "bgm_advertise.adx"
+    type: battle
+  - id: miss_you_secret_rings
+    title: "Miss You"
+    path: "bgm_ending_guitar.adx"
+    type: break
+  - id: blue_shirt
+    title: "Blue Shirt"
+    path: "MINI_BLUE_WORLD.adx"
+    type: result
+  - id: party_dress
+    title: "Party Dress"
+    path: "MINI_PARTY.adx"
+    type: betting
+  - id: yellow_sneakers
+    title: "Yellow Sneakers"
+    path: "MINI_YELLOW_WORLD.adx"
     type: betting
 ...
