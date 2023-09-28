@@ -1,7 +1,7 @@
 ---
 id: voice_of_cards_the_isle_dragon_roars
 title: "Voice of Cards: The Isle Dragon Roars"
-platform: "PC", "PS4", "Switch"
+platform: ["PC", "PS4", "Switch"]
 year: 2021
 songs:
   - id: pursuing_the_dragon_field_edit_version

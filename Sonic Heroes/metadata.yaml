@@ -5,116 +5,123 @@ series: sonic
 platform: ["GCN", "Xbox", "PS2"]
 year: 2004
 songs: 
-  - id: boss_2
-    title: "Boss 2"
-    path: "Boss 2.adx"
+  - id: boss_vs_team_battle
+    title: "Boss: vs. Team Battle"
+    path: "SNG_STG21.adx"
     type: battle
-  - id: bingo_highway
-    title: "Bingo Highway"
-    path: "Bingo Highway.adx"
+  - id: stage_06_bingo_highway
+    title: "Stage 06: Bingo Highway"
+    path: "SNG_STG06.adx"
     type: battle
-  - id: egg_emperor
-    title: "Egg Emperor"
+  - id: boss_egg_emperor
+    title: "Boss: Egg Emperor"
     path: "Egg Emperor.adx"
     type: battle
-  - id: seaside_hill_zone
-    title: "Seaside Hill Zone"
-    path: "Seaside Hill Zone.adx"
+  - id: stage_01_seaside_hill
+    title: "Stage 01: Seaside Hill"
+    path: "SNG_STG01.adx"
     type: betting
-  - id: battle_4
-    title: "Battle 4"
-    path: "Battle 4.adx"
+  - id: battle_ring_race
+    title: "Battle: Ring Race"
+    path: "SNG_BTL04.adx"
     type: warning
-  - id: casino_park_zone
-    title: "Casino Park Zone"
-    path: "Casino Park Zone.adx"
+  - id: stage_05_casino_park
+    title: "Stage 05: Casino Park"
+    path: "SNG_STG05.adx"
     type: betting
-  - id: grand_metropolis_zone_heroes
-    title: "Grand Metropolis Zone"
-    path: "Grand Metropolis Zone.adx"
+  - id: stage_03_grand_metropolis
+    title: "Stage 03: Grand Metropolis"
+    path: "SNG_STG03.adx"
     type: betting
-  - id: frog_forest_zone
-    title: "Frog Forest Zone"
-    path: "Frog Forest Zone.adx"
+  - id: stage_09_frog_forest
+    title: "Stage 09: Frog Forest"
+    path: "SNG_STG09.adx"
     type: betting
-  - id: system_2_heroes
+  - id: stage_10_lost_jungle
+    title: "Stage 10: Lost Jungle"
+    path: "SNG_STG10.adx"
+    type: betting
+  - id: system_2
     title: "System 2"
-    path: "System 2.adx"
+    path: "SNG_SYS2.adx"
     type: betting
-  - id: special_stage_2_heroes
-    title: "Special Stage 2"
-    path: "Special Stage 2.adx"
+  - id: stage_02_ocean_palace
+    title: "Stage 02: Ocean Palace"
+    path: "SNG_STG02.adx"
+    type: betting
+  - id: stage_04_power_plant
+    title: "Stage 04: Power Plant"
+    path: "SNG_STG04.adx"
+    type: betting
+  - id: stage_07_rail_canyon
+    title: "Stage 07: Rail Canyon"
+    path: "SNG_STG07.adx"
+    type: betting
+  - id: stage_08_bullet_station
+    title: "Stage 08: Bullet Station"
+    path: "SNG_STG08.adx"
     type: battle
-  - id: ocean_palace_zone
-    title: "Ocean Palace Zone"
-    path: "Ocean Palace Zone.adx"
-    type: betting
-  - id: power_plant_zone
-    title: "Power Plant Zone"
-    path: "Power Plant Zone.adx"
-    type: betting
-  - id: rail_canyon_zone
-    title: "Rail Canyon Zone"
-    path: "Rail Canyon Zone.adx"
-    type: betting
-  - id: final_fortress_zone
-    title: "Final Fortress Zone"
-    path: "Final Fortress Zone.adx"
+  - id: stage_13_egg_fleet
+    title: "Stage 13: Egg Fleet"
+    path: "SNG_STG13.adx"
+    type: battle
+  - id: stage_14_final_fortress
+    title: "Stage 14: Final Fortress"
+    path: "SNG_STG14.adx"
     type: warning
-  - id: egg_albatross
-    title: "Egg Albatross"
-    path: "Egg Albatross.adx"
-    type: warning
-  - id: no_past_to_remember
-    path: "Event - No Past to Remember.adx"
+  - id: boss_egg_albatross
+    title: "Boss: Egg Albatross"
+    path: "SNG_STG23.adx"
+    type: battle
+  - id: event_no_past_to_remember
+    path: "SNG_EV10.adx"
     title: "Event: No Past to Remember"
     type: warning
-  - id: hang_castle
-    title: "Hang Castle"
-    path: "Hang Castle.adx"
+  - id: stage_11_hang_castle
+    title: "Stage 11: Hang Castle"
+    path: "SNG_STG11A.adx"
     type: betting
-  - id: mystic_mansion
-    title: "Mystic Mansion"
-    path: "Mystic Mansion.adx"
+  - id: stage_12_mystic_mansion
+    title: "Stage 12: Mystic Mansion"
+    path: "SNG_STG12.adx"
     type: betting
   - id: this_machine_theme_of_team_dark
-    title: "This Machine (Theme of Team Dark)"
+    title: "This Machine: Theme of Team Dark"
     path: "SNG_V03_TD.adx"
     type: betting
   - id: we_can_theme_of_team_sonic
-    title: "We Can (Theme of Team Sonic)"
+    title: "We Can: Theme of Team Sonic"
     path: "SNG_V02_TS.adx"
     ends: 2:25
     type: betting
   - id: follow_me_theme_of_team_rose
-    title: "Follow Me (Theme of Team Rose)"
+    title: "Follow Me: Theme of Team Rose"
     path: "SNG_V04_TR.adx"
     type: betting
   - id: what_i_m_made_of_last_boss_metal_overlord_version_2
     title: "What I’m Made of... : Last Boss / Metal Overlord [Version 2]"
     path: "SNG_STG28.adx"
-    ends: 2:25
-    type: betting
+    type: battle
   - id: what_i_m_made_of_last_boss_metal_overlord_version_2_instrumental
     title: "What I’m Made of... : Last Boss / Metal Overlord [Version 2] (Instrumental)"
     path: "What Im Made Of... (Karaoke).brstm"
     ends: 2:25
     type: betting
   - id: team_chaotix_theme_of_team_chaotix
-    title: "Team Chaotix (Theme of Team Chaotix)"
+    title: "Team Chaotix: Theme of Team Chaotix"
     path: "SNG_V05_TC.adx"
     ends: 3:30
     type: betting
-  - id: sea_area_2p_battle
-    title: "Sea Area (2P Battle)"
+  - id: battle_sea_area
+    title: "Battle: Sea Area"
     path: "SNG_BTL01.adx"
     type: warning
-  - id: city_area_2p_battle
-    title: "City Area (2P Battle)"
+  - id: battle_city_area
+    title: "Battle: City Area"
     path: "SNG_BTL02.adx"
     type: betting
-  - id: casino_area_2p_battle
-    title: "Casino Area (2P Battle)"
+  - id: battle_casino_area
+    title: "Battle: Casino Area"
     path: "SNG_BTL03.adx"
     type: battle
   - id: special_stage_emerald_challenge

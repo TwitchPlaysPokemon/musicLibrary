@@ -20,10 +20,10 @@ songs:
 #    title: "White City (PS2)"
 #    path: "sparse25.miniusf"
 #    type: break
- - id: options_menu_ps2
-   title: "Options Menu (PS2)"
-   path: "Options.brstm" #2a
-   type: betting
+  - id: options_menu_ps2
+    title: "Options Menu (PS2)"
+    path: "Options.brstm" #2a
+    type: betting
 #  - id: mystery_gift_ps2
 #    title: "Mystery Gift"
 #    path: "sparse44.miniusf"
