@@ -101,4 +101,30 @@ songs:
     title: "Last Dungeon"
     path: "313 Last Dungeon.spc"
     type: warning
+  - id: dancing_mad_part_1
+    title: "Dancing Mad (Part 1)"
+    path: "314a Dancing Mad (part 1) - Final Battle 1 (Short Arm, Long Arm, Face).spc"
+    type: warning
+  - id: dancing_mad_part_2
+    title: "Dancing Mad (Part 2)"
+    path: "314b Dancing Mad (part 2) - Final Battle 2 (Hit, Tools, Magic, Tiger).spc"
+    type: warning
+  - id: dancing_mad_part_3
+    title: "Dancing Mad (Part 3)"
+    path: "314c Dancing Mad (part 3) - Final Battle 3 (Girl, Sleep).spc"
+    type: warning
+#only slightly shorter than 45s
+#  - id: dancing_mad_part_4
+#    title: "Dancing Mad (Part 4)"
+#    path: "314d Dancing Mad (part 4) - Final Battle - Intro to Kefka.spc"
+#    type: warning
+  - id: dancing_mad_part_5
+    title: "Dancing Mad (Part 5)"
+    path: "314e Dancing Mad (part 5) - Final Battle with Kefka.spc"
+    type: battle
+    #not sure if the full one should be added as well
+  - id: dancing_mad_full
+    title: "Dancing Mad"
+    path: "999 Dancing Mad (Full) - Parts 1-2.spc"
+    type: battle 
 ...

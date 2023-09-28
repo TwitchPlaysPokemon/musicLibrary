@@ -1,0 +1,21 @@
+---
+id: pocket_monster_bootleg
+title: "Pocket Monster"
+series: pokemon
+is_fanwork: true
+platform: "Genesis"
+year: 2000
+songs:
+  - id: boss_fight_pmbl
+    title: "Boss Fight"
+    path: "Boss Fight.brstm"
+    type: betting
+  - id: stage_3_pmbl
+    title: "Stage 3 (Jump on It)"
+    path: "Stage 3.brstm"
+    type: betting
+  - id: stage_5_pmbl
+    title: "Stage 5"
+    path: "Stage 5.brstm"
+    type: battle
+...

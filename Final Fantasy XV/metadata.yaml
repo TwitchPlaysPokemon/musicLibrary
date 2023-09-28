@@ -330,10 +330,11 @@ songs:
     title: "Lestallum"
     path: "bgm_lestallum_magi.win.mab"
     type: break
-  - id: the_wrath_of_swords
-    title: "The Wrath of Swords"
-    path: "bgm_mulit_bahamut.win.mab"
-    type: battle
+  # - id: the_wrath_of_swords
+    # title: "The Wrath of Swords"
+    # path: "bgm_mulit_bahamut.win.mab"
+    # type: battle
+    #currently not playing anything
   - id: let_there_be_light
     title: "Let There Be Light"
     path: "bgm_mulit_plant.win.sab"

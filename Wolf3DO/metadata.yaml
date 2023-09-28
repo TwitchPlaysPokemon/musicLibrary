@@ -1,0 +1,16 @@
+---
+id: wolf3do
+title: "Wolfenstein 3D [3DO]"
+series: wolfenstein
+platform: ["3DO", "Various"]
+year: 1996
+songs:
+  - id: title_screen_wolf3do
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: bgm_1_wolf3do
+    title: "Ingame 1"
+    path: "Ingame 1.brstm"
+    type: betting
+...

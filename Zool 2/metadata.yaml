@@ -1,0 +1,15 @@
+---
+id: zool_2
+title: "Zool 2"
+platform: ["Jaguar", "Amiga", "DOS"]
+year: 1993
+songs:
+  - id: blueberry_hill
+    title: "Bulberry Hill"
+    path: "bulb.brstm"
+    type: break
+  - id: tooting_common
+    title: "Tooting Common"
+    path: "zoolegyptian.brstm"
+    type: betting
+...

@@ -1,0 +1,47 @@
+---
+id: eijuko_target_1000_ds
+title: "Eijukugo Target 1000 DS"
+platform: "NDS"
+year: 2007
+songs: 
+  - id: wake_up_et1k
+    title: "Wake Up"
+    path: "01 Wake Up (Title BGM1).mini2sf"
+    type: betting
+  - id: have_a_puppy_nap
+    title: "Have a Puppy Nap"
+    path: "02 Have a Puppy Nap (Menu BGM).mini2sf"
+    type: break
+  - id: ladybird
+    title: "Ladybird"
+    path: "03 Ladybird (Result Display BGM).mini2sf"
+    type: result
+  - id: notes_et1k
+    title: "Notes"
+    path: "04 Notes (Record Reading BGM).mini2sf"
+    type: break
+  - id: season_cycle
+    title: "Season Cycle"
+    path: "05 Season Cycle (Intermission BGM).mini2sf"
+    type: result
+  - id: miniature_sun
+    title: "Miniature Sun"
+    path: "06 Miniature Sun (Title BGM2).mini2sf"
+    type: betting
+  - id: journey_on
+    title: "Journey On"
+    path: "13 Journey On (Story BGM).mini2sf"
+    type: warning
+  - id: the_end_of_the_trip
+    title: "The End of the Trip"
+    path: "14 The End of the Trip (End of the Story BGM).mini2sf"
+    type: result
+  - id: counter_strike
+    title: "Counter Strike"
+    path: "15 Counter Strike (Stage BGM).mini2sf"
+    type: battle
+  - id: opposing_force
+    title: "Opposing Force"
+    path: "16 Opposing Force (Boss BGM).mini2sf"
+    type: warning
+...

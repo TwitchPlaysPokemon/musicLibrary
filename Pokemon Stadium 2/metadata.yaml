@@ -4,10 +4,13 @@ title: "Pokémon Stadium 2"
 series: pokemon
 platform: "N64"
 year: 2001
+#so apparently miniusf files can sometimes crash on winamp, hence why most of these are commented out. 
+#Might as well try my hand at replacing some of them with brstms, trading file size for stability
+#let me know how this looks
 songs: 
   - id: title_screen_ps2
     title: "Title Screen (PS2)"
-    path: "Title Screen.brstm"
+    path: "Title Screen.brstm" #24
     type: result
 #  - id: title_movie_ps2
 #    title: "Title Movie (PS2)"
@@ -17,17 +20,17 @@ songs:
 #    title: "White City (PS2)"
 #    path: "sparse25.miniusf"
 #    type: break
-#  - id: options_menu_ps2
-#    title: "Options Menu (PS2)"
-#    path: "sparse2a.miniusf"
-#    type: betting
+ - id: options_menu_ps2
+   title: "Options Menu (PS2)"
+   path: "Options.brstm" #2a
+   type: betting
 #  - id: mystery_gift_ps2
 #    title: "Mystery Gift"
 #    path: "sparse44.miniusf"
 #    type: betting
   - id: multiplayer_menu_ps2
     title: "Multiplayer Menu (PS2)"
-    path: "Event Battle.brstm"
+    path: "Event Battle.brstm" #19
     type: result
 #  - id: earl_s_academy
 #    title: "Earl's Academy"
@@ -55,7 +58,7 @@ songs:
 #    type: betting
   - id: minigame_select_ps2
     title: "Minigame Select (PS2)"
-    path: "Minigames.brstm"
+    path: "Minigames.brstm" #48
     type: result
 #  - id: minigame_results_ps2
 #    title: "Minigame Results (PS2)"
@@ -79,11 +82,15 @@ songs:
     type: warning
   - id: quick_draw_quiz
     title: "Quick-Draw Quiz"
-    path: "Quiz.brstm"
+    path: "Quiz.brstm" #4c
     type: betting
   - id: topsy_turvy
     title: "Topsy-Turvy"
     path: "Topsy Turvy.brstm"
+    type: warning
+  - id: eager_eevee
+    title: "Eager Eevee"
+    path: "Eager Eevee.brstm"
     type: warning
   - id: tumbling_togepi
     title: "Tumbling Togepi"
@@ -91,20 +98,20 @@ songs:
     type: warning
   - id: rental_pokemon_ps2
     title: "Rental Pokémon (PS2)"
-    path: "Pokémon Registration.brstm"
+    path: "Pokémon Registration.brstm" #1b
     type: betting
   - id: player_select_ps2
     title: "Player Select (PS2)"
-    path: "Battle Preparation.brstm"
+    path: "Battle Preparation.brstm" #1c
     type: betting
   - id: trainer_s_challenge_ps2
     title: "Trainer's Challenge (PS2)"
-    path: "Versus Theme.brstm"
+    path: "Versus Theme.brstm" #28
     type: warning
-#  - id: little_cup_battles_1_3
-#    title: "Little Cup ~ Battles 1-3"
-#    path: "sparse09.miniusf"
-#    type: battle
+ - id: little_cup_battles_1_3
+   title: "Little Cup ~ Battles 1-3"
+   path: "Little Cup Battle.brstm" #09
+   type: battle
 #  - id: little_cup_battle_4_6
 #    title: "Little Cup ~ Battle 4-6"
 #    path: "sparse0a.miniusf"
@@ -113,34 +120,34 @@ songs:
 #    title: "Little Cup ~ Semifinal"
 #    path: "sparse06.miniusf"
 #    type: battle
-#  - id: little_cup_final
-#    title: "Little Cup ~ Final"
-#    path: "sparse16.miniusf"
-#    type: battle
+ - id: little_cup_final
+   title: "Little Cup ~ Final"
+   path: "Little Cup Final Battle 2.brstm" #16
+   type: battle
   - id: poke_cup_battles_1_3_ps2
     title: "Poké Cup ~ Battles 1-3 (PS2)"
-    path: "Poké Cup Battle.brstm"
+    path: "Poké Cup Battle.brstm" #17
     type: battle
 #  - id: poke_cup_battles_4_6_ps2
 #    title: "Poké Cup ~ Battles 4-6 (PS2)"
 #    path: "sparse0f.miniusf"
 #    type: battle
-#  - id: poke_cup_semifinal_ps2
-#    title: "Poké Cup ~ Semifinal (PS2)"
-#    path: "sparse11.miniusf"
-#    type: battle
+ - id: poke_cup_semifinal_ps2
+   title: "Poké Cup ~ Semifinal (PS2)"
+   path: "Poké Cup Final Battle.brstm" #11
+   type: battle
 #  - id: poke_cup_final
 #    title: "Poké Cup ~ Final"
 #    path: "sparse0b.miniusf"
 #    type: warning
   - id: prime_cup_battles_1_3_ps2
     title: "Prime Cup ~ Battles 1-3 (PS2)"
-    path: "Prime Cup Battle.brstm"
+    path: "Prime Cup Battle.brstm" #10
     type: battle
-#  - id: prime_cup_battles_4_6_ps2
-#    title: "Prime Cup ~ Battles 4-6 (PS2)"
-#    path: "sparse3b.miniusf"
-#    type: battle
+ - id: prime_cup_battles_4_6_ps2
+   title: "Prime Cup ~ Battles 4-6 (PS2)"
+   path: "Prime Cup Battle 2.brstm" #3b
+   type: battle
 #  - id: prime_cup_semifinal_ps2
 #    title: "Prime Cup ~ Semifinal (PS2)"
 #    path: "sparse2c.miniusf"
@@ -149,14 +156,14 @@ songs:
 #    title: "Prime Cup ~ Final (PS2)"
 #    path: "sparse43.miniusf"
 #    type: battle
-#  - id: challenge_cup_battles_1_3
-#    title: "Challenge Cup ~ Battles 1-3"
-#    path: "sparse0e.miniusf"
-#    type: betting
-#  - id: challenge_cup_battles_4_6
-#    title: "Challenge Cup ~ Battles 4-6"
-#    path: "sparse3a.miniusf"
-#    type: battle
+ - id: challenge_cup_battles_1_3
+   title: "Challenge Cup ~ Battles 1-3"
+   path: "Challenge Cup Battle.brstm" #0e
+   type: betting
+ - id: challenge_cup_battles_4_6
+   title: "Challenge Cup ~ Battles 4-6"
+   path: "Challenge Cup Battle 2.brstm" #3a
+   type: battle
 #  - id: challenge_cup_semifinal
 #    title: "Challenge Cup ~ Semifinal"
 #    path: "sparse2b.miniusf"
@@ -171,7 +178,7 @@ songs:
 #    type: result
   - id: stage_results_ps2_good
     title: "Stage Results (PS2) ~ Good"
-    path: "Victory.brstm"
+    path: "Victory.brstm" #27
     type: result
 #  - id: stadium_cup_ps2
 #    title: "Stadium Cup (PS2)"
@@ -187,7 +194,7 @@ songs:
 #    type: betting
   - id: gym_leader_battle_kanto_ps2
     title: "Gym Leader Battle ~ Kanto (PS2)"
-    path: "Kanto Leader Battle.brstm"
+    path: "Kanto Leader Battle.brstm" #04
     type: battle
   - id: pichu_s_rower_plant
     title: "Pichu's Power Plant"
@@ -197,25 +204,25 @@ songs:
 #    title: "Team Rocket Hideout"
 #    path: "sparse45.miniusf"
 #    type: warning
-#  - id: trainer_battle_rocket_ps2
-#    title: "Trainer Battle ~ Rocket (PS2)"
-#    path: "sparse3d.miniusf"
-#    type: battle
+ - id: trainer_battle_rocket_ps2
+   title: "Trainer Battle ~ Rocket (PS2)"
+   path: "Team Rocket Battle.brstm" #3d
+   type: battle
 #  - id: unused_gym
 #    title: "Unused ~ Gym"
 #    path: "sparse01.miniusf"
 #    type: battle
-#  - id: gym_leader_battle_johto_ps2
-#    title: "Gym Leader Battle ~ Johto (PS2)"
-#    path: "sparse02.miniusf"
-#    type: battle
+ - id: gym_leader_battle_johto_ps2
+   title: "Gym Leader Battle ~ Johto (PS2)"
+   path: "Gym Leader Battle.brstm" #02
+   type: battle
   - id: gym_leader_castle_complete_ps2
     title: "Gym Leader Castle Complete (PS2)"
     path: "Gym Leader Castle Complete (PS2).brstm"
     type: result
   - id: elite_four_battle_ps2_1
     title: "Elite Four Battle (PS2) 1"
-    path: "Elite Four Battle.brstm"
+    path: "Elite Four Battle.brstm" #05
     type: battle
 #  - id: elite_four_battle_ps2_2
 #    title: "Elite Four Battle (PS2) 2"
@@ -227,7 +234,7 @@ songs:
 #    type: warning
   - id: champion_lance_ps2
     title: "Champion: Lance (PS2)"
-    path: "Champion Lance Battle.brstm"
+    path: "Champion Lance Battle.brstm" #03
     type: battle
 #  - id: champion_decided_ps2
 #    title: "Champion Decided (PS2)"
@@ -235,20 +242,20 @@ songs:
 #    type: result
 #  - id: rival_s_theme_silver
 #    title: "Rival's Theme ~ Silver"
-#    path: "sparse3f.miniusf"
+#    path: "sparse3f.miniusf" #3f
 #    type: warning
-#  - id: rival_battle_ps2
-#    title: "Rival Battle (PS2)"
-#    path: "sparse3c.miniusf"
-#    type: battle
+ - id: rival_battle_ps2
+   title: "Rival Battle (PS2)"
+   path: "Rival Battle.brstm" #3c
+   type: battle
 #  - id: champion_red
 #    title: "Champion: Red"
 #    path: "sparse0c.miniusf"
 #    type: battle
-#  - id: free_battle_ps2
-#    title: "Free Battle (PS2)"
-#    path: "sparse40.miniusf"
-#    type: betting
+ - id: free_battle_ps2
+   title: "Free Battle (PS2)"
+   path: "Free Battle Menu.miniusf" #40
+   type: betting
 #  - id: pokemon_evolution_ps2
 #    title: "Pokémon Evolution (PS2)"
 #    path: "sparse30.miniusf"

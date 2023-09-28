@@ -1,0 +1,39 @@
+---
+id: mayhem_in_monsterland
+title: "Mayhem in Monsterland"
+platform: "C64"
+year: 1993
+songs:
+  - id: intro_mim
+    title: "Intro"
+    path: "Intro.brstm"
+    type: betting
+  - id: title_mim
+    title: "Title"
+    path: "Title.brstm"
+    type: result
+  - id: get_ready_sad
+    title: "Get Ready (Sad)"
+    path: "Get Ready (Sad).brstm"
+    type: warning
+  - id: cherryland_slow
+    title: "Cherryland (Slow)"
+    path: "Cherryland (Slow).brstm"
+    type: break
+  - id: cherryland_medium
+    title: "Cherryland (Medium)"
+    path: "Cherryland (Medium).brstm"
+    type: warning
+  - id: pipeland_medium
+    title: "Pipeland (Medium)"
+    path: "Pipeland (Medium).brstm"
+    type: betting
+  - id: rockland_fast
+    title: "Rockland (Fast)"
+    path: "Rockland (Fast).brstm"
+    type: warning
+  - id: outro_mim
+    title: "Outro"
+    path: "Outro.brstm"
+    type: betting
+...

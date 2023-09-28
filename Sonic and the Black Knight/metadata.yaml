@@ -33,8 +33,88 @@ songs:
     title: "Knight of the Wind - Instrumental"
     path: "Knight of the Wind (Instrumental Version).brstm"
     type: battle
+  - id: knight_of_the_wind
+    title: "Knight of the Wind"
+    path: "Knight of the Wind.brstm"
+    type: battle
   - id: with_me_instrumental
     title: "With Me - Instrumental"
     path: "With Me (Instrumental Version).brstm"
     type: battle
+  - id: camelot_castle
+    title: "Camelot Castle"
+    path: "sng_gallery_C.adx"
+    type: betting
+  - id: through_the_fire_sonic_black_knight
+    title: "Through the Fire"
+    path: "sng_gallery_E.adx"
+    type: betting
+  - id: crystal_cave_sonic_black_knight
+    title: "Crystal Cave"
+    path: "sng_gallery_F.adx"
+    type: betting
+  - id: molten_mine
+    title: "Molten Mine"
+    path: "sng_gallery_G.adx"
+    type: betting
+  - id: fight_the_knight
+    title: "Fight the Knight"
+    path: "sng_gallery_H.adx"
+    type: battle
+  - id: with_me
+    title: "With Me"
+    path: "sng_gallery_M.adx"
+    type: betting
+  - id: live_life
+    title: "Live Life"
+    path: "sng_gallery_N.adx"
+    type: betting
+  - id: seven_rings_in_hand_crush_40
+    title: "Seven Rings in Hand (Crush 40)"
+    path: "sng_gallery_O.adx"
+    type: betting
+  - id: the_ash_grove_main_menu
+    title: "The Ash Grove (Main Menu)"
+    path: "sng_menu.adx"
+    type: break
+  - id: battle_menu_sonic_black_knight
+    title: "Battle Menu"
+    path: "sng_menu_battle.adx"
+    type: warning
+  - id: result_no_1_five_stars_awesome
+    title: "Result No. 1 (Five Stars, Awesome!)"
+    path: "sng_result_loop1.adx"
+    type: result
+  - id: result_no_2_so_so_okay
+    title: "Result No. 2 (So, So...Okay!)"
+    path: "sng_result_loop2.adx"
+    type: result
+  - id: result_no_3_one_star_try_again_next_time
+    title: "Result No. 3 (One Star, Try Again Next Time)"
+    path: "sng_result_loop3.adx"
+    type: result
+  - id: knight_s_passage
+    title: "Knight's Passage"
+    path: "sng_stg11.adx"
+    type: betting
+  - id: titanic_plain
+    title: "Titanic Plain"
+    path: "sng_stg30.adx"
+    type: betting
+  - id: dragon_s_lair_sonic_black_knight
+    title: "Dragon's Lair"
+    path: "sng_stg41.adx"
+    type: battle
+  - id: the_cauldron
+    title: "The Cauldron"
+    path: "sng_stg51.adx"
+    type: warning
+  - id: faraway_avalon
+    title: "Faraway Avalon"
+    path: "sng_stg60.adx"
+    type: betting
+  - id: blacksmith_sonic_black_knight
+    title: "Blacksmith"
+    path: "sng_blacksmith.adx"
+    type: break
 ...

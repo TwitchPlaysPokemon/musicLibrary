@@ -1,0 +1,28 @@
+---
+id: qbert_gbc
+title: "Q*Bert [GBC]"
+series: qbert
+platform: ["GBC", "Various"]
+year: 2000
+songs:
+  - id: triplets_opening_stage_4
+    title: "Triplets (Opening, Stage 4)"
+    path: "01 Triplets (Opening, Stage 4).vgz"
+    type: betting
+  - id: abol_stage_1
+    title: "A!Bol (Stage 1)"
+    path: "02 A!Bol (Stage 1).vgz"
+    type: betting
+  - id: coily_stage_2
+    title: "Coily (Stage 2)"
+    path: "03 Coily (Stage 2).vgz"
+    type: betting
+  - id: qdina_stage_3
+    title: "Q!Dina (Stage 3)"
+    path: "04 Q!Dina (Stage 3).vgz"
+    type: betting
+  - id: zla_adventure_mode
+    title: "Z!La (Adventure Mode)"
+    path: "05 Z!La (Adventure Mode).vgz"
+    type: betting
+...

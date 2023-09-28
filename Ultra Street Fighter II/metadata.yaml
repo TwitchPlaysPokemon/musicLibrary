@@ -1,0 +1,152 @@
+---
+id: usf2_the_final_challengers
+title: "Ultra Street Fighter II"
+series: streetfighter
+platform: "Switch"
+year: 2017
+songs:
+  - id: continue_usf2
+    title: "Continue?"
+    path: "Continue.lopus"
+    type: warning
+  - id: ken_menu
+    title: "Ken's Theme (Menu)"
+    path: "rem_kenmenu.lopus"
+    type: battle
+  - id: net_theme_usf2
+    title: "Online"
+    path: "rem_net.lopus"
+    type: break
+  - id: classic_intro_usf2
+    title: "Classic Intro"
+    path: "rem_demo_d4.lopus"
+    type: result
+  - id: evil_ryu_theme_usf2
+    title: "Evil Ryu's Theme"
+    path: "Evil Ryu's Theme.lopus"
+    type: battle
+  - id: evil_ryu_theme_near_ko
+    title: "Evil Ryu's Theme (Hurry Up!)"
+    path: "Evil Ryu's Theme (Hurry Up!).lopus"
+    type: warning
+  - id: shin_akuma_theme_usf2
+    title: "Shin Akuma's Theme"
+    path: "Shin Akuma's Theme.lopus"
+    type: battle
+  - id: shin_akuma_theme_near_ko
+    title: "Shin Akuma's Theme (Hurry Up!)"
+    path: "Shin Akuma's Theme (Hurry Up!).lopus"
+    type: warning
+  - id: violent_ken_theme_usf2
+    title: "Violent Ken's Theme"
+    path: "Violent Ken's Theme.lopus"
+    type: battle
+  - id: violent_ken_theme_near_ko
+    title: "Violent Ken's Theme (Hurry Up!)"
+    path: "Violent Ken's Theme (Hurry Up!).lopus"
+    type: warning
+  - id: menu_woth
+    title: "Way Of the Hado - Menu"
+    path: "Way Of the Hado - Menu.lopus"
+    type: betting
+  - id: results_woth
+    title: "Way Of the Hado - Results"
+    path: "Way Of the Hado - Results.lopus"
+    type: result
+  - id: stage_woth
+    title: "Way Of the Hado - Stage"
+    path: "Way Of the Hado - Stage.lopus"
+    type: battle
+  - id: boss_woth
+    title: "Way Of the Hado - Boss"
+    path: "Way Of the Hado - Boss.lopus"
+    type: warning
+  - id: boss_near_ko_woth
+    title: "Way Of the Hado - Boss(Hurry Up!)"
+    path: "Way Of the Hado - Boss(Hurry Up!).lopus"
+    type: warning
+  - id: player_select_usf2
+    title: "Player Select"
+    path: "Player Select.lopus"
+    type: break
+  - id: akuma_stage_near_ko_usf2
+    title: "Akuma's Theme (Hurry Up!)"
+    path: "Akuma's Theme (Hurry Up!).lopus"
+    type: warning
+  - id: blanka_stage_usf2
+    title: "Blanka's Stage"
+    path: "Blanka's Stage.lopus"
+    type: betting
+  - id: dee_jay_stage_usf2
+    title: "Dee Jay's Stage"
+    path: "Dee Jay's Stage.lopus"
+    type: betting
+  - id: dee_jay_stage_near_ko_usf2
+    title: "Dee Jay's Stage (Hurry Up!)"
+    path: "Dee Jay's Stage (Hurry Up!).lopus"
+    type: warning
+  - id: dhalsim_stage_usf2
+    title: "Dhalsim's Stage"
+    path: "Dhalsim's Stage.lopus"
+    type: betting
+  - id: guile_stage_usf2
+    title: "Guile's Stage"
+    path: "Guile's Stage.lopus"
+    type: betting
+  - id: m_bison_stage_usf2
+    title: "Master Bison's Stage"
+    path: "Master Bison's Stage.lopus"
+    type: battle
+  - id: ryu_stage_usf2
+    title: "Ryu's Stage"
+    path: "Ryu's Stage.lopus"
+    type: battle
+  - id: sagat_stage_usf2
+    title: "Sagat's Stage"
+    path: "Sagat's Stage.lopus"
+    type: betting
+  - id: t_hawk_stage_usf2
+    title: "Thunder Hawk's Stage Stage"
+    path: "Thunder Hawk's Stage.lopus"
+    type: betting
+  - id: vega_stage_usf2
+    title: "Vega's Stage Stage"
+    path: "Vega's Stage.lopus"
+    type: betting
+  - id: zangief_stage_usf2
+    title: "Zangief's Stage"
+    path: "Zangief's Stage.lopus"
+    type: betting
+  - id: balrog_ending_usf2
+    title: "Balrog's Ending"
+    path: "rem_e_bal_2b.lopus"
+    type: result
+  - id: blanka_ending_usf2
+    title: "Blanka's Ending"
+    path: "rem_e_bla_27.lopus"
+    type: result
+  - id: chun_li_ending_1_usf2
+    title: "Chun-Li Ending 1"
+    path: "rem_e_chu_3e.lopus"
+    type: warning
+  - id: dhalsim_ending_usf2
+    title: "Dhalsim's Ending"
+    path: "rem_e_dha_2a.lopus"
+    type: result
+  - id: ken_ending_1_usf2
+    title: "Ken Ending 1"
+    path: "rem_e_ken_21.lopus"
+    type: result
+  - id: ken_ending_2_usf2
+    title: "Ken Ending 2"
+    path: "rem_e_ken_22.lopus"
+    type: result
+  - id: sagat_ending_usf2
+    title: "Sagat's Ending"
+    path: "rem_e_sag_2d.lopus"
+    type: result
+  - id: zangief_ending_usf2
+    title: "Zangief's Ending"
+    path: "rem_e_zan_28.lopus"
+    type: result
+...
