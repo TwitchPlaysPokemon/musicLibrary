@@ -1,0 +1,21 @@
+---
+id: san_francisco_rush_extreme_racing
+title: "San Francisco Rush: Extreme Racing [N64]"
+platform: ["
+#I'm going to be honest, someone requested Sonic Chronicles music 
+#and I just ran with it quality-wise
+#feel free to remove if it's *too* bad
+songs:
+  - id: rave_rush
+    title: "Rave Rush"
+    path: "09 Rave Rush.miniusf"
+    type: betting
+  - id: what_s_your_name
+    title: "What's Your Name?"
+    path: "13 What's Your Name_.miniusf"
+    type: result
+  - id: menu_selection_sanfranrush
+    title: "Menu Selection"
+    path: "03 Menu Selection.miniusf"
+    type: warning
+...

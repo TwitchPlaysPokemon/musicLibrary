@@ -1,0 +1,59 @@
+---
+id: russian_subway_dogs
+title: "Russian Subway Dogs"
+platform: ["PC", "XB1", "PS4"]
+year: 2018
+songs: 
+  - id: the_map_rsd
+    title: "The Map"
+    path: "The Map.brstm"
+    type: warning
+  - id: rumyantsevo
+    title: "Rumyantsevo"
+    path: "Rumyantsevo.brstm"
+    type: break
+  - id: dostoevskaya
+    title: "Dostoevskaya"
+    path: "Dostoevskaya.brstm"
+    type: betting
+  - id: novoslobodskaya
+    title: "Novoslobodskaya"
+    path: "Novoslobodskaya.brstm"
+    type: betting
+  - id: bittsevsky_park
+    title: "Bittsevsky Park"
+    path: "Bittsevsky Park.brstm"
+    type: betting
+  - id: slavyansky_bulvar
+    title: "Slavyansky Bulvar"
+    path: "Slavyansky Bulvar.brstm"
+    type: betting
+  - id: kievskaya
+    title: "Kievskaya"
+    path: "Kievskaya.brstm"
+    type: betting
+  - id: komsomolskaya
+    title: "Komsomolskaya"
+    path: "Komsomolskaya.brstm"
+    type: betting
+  - id: taganskaya
+    title: "Taganskaya"
+    path: "Taganskaya.brstm"
+    type: betting
+  - id: elektrozavodskaya
+    title: "Elektrozavodskaya"
+    path: "Elektrozavodskaya.brstm"
+    type: betting
+  - id: arbatskaya
+    title: "Arbatskaya"
+    path: "Arbatskaya.brstm"
+    type: betting
+  - id: baba_yaga_rsd
+    title: "Baba Yaga"
+    path: "Baba Yaga.brstm"
+    type: warning
+  - id: credits_rsd
+    title: "Credits"
+    path: "Credits.brstm"
+    type: betting
+...

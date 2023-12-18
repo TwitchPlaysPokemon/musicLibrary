@@ -13,7 +13,7 @@ songs:
     title: "Captain Bloxbeard's Rage"
     path: "Captain Bloxbeard's Rage.brstm"
     type: warning
-  - id: duck_dance
+  - id: duck_dance_hey_ya
     title: "Duck Dance"
     path: "Duck Dance.brstm"
     type: result
@@ -53,4 +53,8 @@ songs:
     title: "Yhan & Overk Rage"
     path: "Yhan & Overk Rage.brstm"
     type: warning
+  - id: king_slimey_paralyzer
+    title: "King Slimey"
+    path: "KingSlimey.ogg"
+    type: betting
 ...

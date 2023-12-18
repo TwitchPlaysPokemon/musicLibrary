@@ -1,0 +1,48 @@
+---
+id: total_distortion
+title: "Total Distortion"
+platform: ["PC", "Mac"]
+year: 1995
+#it's a a CD-based FMV game, so the quality's a bit... ehhhhh
+songs: 
+  - id: alien_bomb
+    title: "Alien Bomb"
+    path: "Alien Bomb.brstm"
+    type: betting
+  - id: aqua_symphony
+    title: "Aqua Symphony"
+    path: "Aqua Symphony.brstm"
+    type: break
+  - id: cia_handbook
+    title: "CIA Handbook"
+    path: "CIA Handbook.brstm"
+    type: betting
+  - id: gold_tv
+    title: "Gold TV"
+    path: "Gold TV.brstm"
+    type: result
+  - id: golden_tower
+    title: "Golden Tower"
+    path: "Golden Tower.brstm"
+    type: result
+  - id: happi_2
+    title: "Happi 2"
+    path: "Happi 2.brstm"
+    type: break
+  - id: heavy_disco
+    title: "Heavy Disco"
+    path: "Heavy Disco.brstm"
+    type: betting
+  - id: kitty_cat_total_distortion
+    title: "Kitty Cat"
+    path: "Kitty Cat.brstm"
+    type: betting
+  - id: moon_total_distortion
+    title: "Moon"
+    path: "Moon.brstm"
+    type: break
+  - id: you_are_dead_total_distortion
+    title: "You Are Dead"
+    path: "You Are Dead.brstm"
+    type: warning
+...

@@ -1,0 +1,51 @@
+---
+id: scooby-doo_mystery
+title: "Scooby-Doo Mystery"
+year: 1995
+platform: "SMD"
+songs:
+  - id: main_menu_sdm
+    title: "Main Menu"
+    path: "01 Scooby Doo Theme (Title, Main Menu).vgz"
+    type: result
+  - id: mystery_start_cutscene
+    title: "Mystery Start Cutscene"
+    path: "02 Scooby 2nd Theme (Mystery Start Cutscene).vgz"
+    type: warning
+  - id: blake_s_hotel
+    title: "Blake's Hotel"
+    path: "03 Blake's Hotel - Main Theme.vgz"
+    type: betting
+  - id: ancient_chieftain_chase
+    title: "Ancient Chieftan Chase"
+    path: "04 Blake's Hotel - Ancient Chieftan Chase.vgz"
+    type: warning
+  - id: the_mines_sdm
+    title: "The Mines"
+    path: "05 Blake's Hotel - The Mines.vgz"
+    type: betting
+  - id: blake_s_hotel_mystery_solved
+    title: "Blake's Hotel - Mystery Solved"
+    path: "06 Blake's Hotel - Mystery Solved.vgz"
+    type: result
+  - id: ha_ha_carnival
+    title: "Ha-Ha Carnival"
+    path: "09 Ha-Ha Carnival - Main Theme.vgz"
+    type: result
+  - id: magnet_launched
+    title: "Magnet Launched"
+    path: "10 Ha-Ha Carnival - Magnet Launced Cutscene.vgz"
+    type: warning
+  - id: the_fun_house_sdm
+    title: "The Fun House"
+    path: "11 Ha-Ha Carnival - The Fun House.vgz"
+    type: warning
+  - id: clown_encounter_sdm
+    title: "Clown Encounter"
+    path: "12 Ha-Ha Carnival - Clown Encounter.vgz"
+    type: warning
+  - id: ha_ha_carnival_mystery_solved
+    title: "Ha-Ha Carnival - Mystery Solved"
+    path: "13 Ha-Ha Carnival - Mystery Solved.vgz"
+    type: result
+...

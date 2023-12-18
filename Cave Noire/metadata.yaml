@@ -4,8 +4,64 @@ title: "Cave Noire"
 platform: "GB"
 year: 1991
 songs: 
-  - id: bgm_01_cave_noire
-    title: "BGM #01"
-    path: "BGM #01.brstm"
+  - id: prologue_cave_noire
+    title: "Prologue"
+    path: "01 Prologue.vgz"
     type: result
+  - id: main_menu_map
+    title: "Main Menu, Map"
+    path: "02 Main Menu, Map.vgz"
+    type: result
+  - id: kill_all_monsters_dungeon_quest_bgm_1
+    title: "Kill All Monsters (Dungeon Quest BGM 1)"
+    path: "04 Kill All Monsters (Dungeon Quest BGM 1).vgz"
+    type: warning
+  - id: finbd_gold_dungeon_quest_bgm_2
+    title: "Find Gold (Dungeon Quest BGM 2)"
+    path: "05 Find Gold (Dungeon Quest BGM 2).vgz"
+    type: warning
+  - id: find_orbs_dungeon_quest_bgm_3
+    title: "Find Orbs (Dungeon Quest BGM 3)"
+    path: "06 Find Orbs (Dungeon Quest BGM 3).vgz"
+    type: warning
+  - id: rescue_fairies_dungeon_quest_bgm_4
+    title: "Rescue Fairies (Dungeon Quest BGM 4)"
+    path: "07 Rescue Fairies (Dungeon Quest BGM 4).vgz"
+    type: warning
+  - id: dungeon_escape_cave_noire
+    title: "Dungeon Escape"
+    path: "11 Dungeon Escape.vgz"
+    type: warning
+  - id: deeper_into_the_dungeon
+    title: "Deeper into the Dungeon"
+    path: "12 Deeper into the Dungeon.vgz"
+    type: warning
+  - id: fairy_rescued
+    title: "Fairy Rescued"
+    path: "13 Fairy Rescued.vgz"
+    type: result
+  - id: orb_used
+    title: "Orb Used"
+    path: "15 Orb Used.vgz"
+    type: result
+  - id: sword_used
+    title: "Sword Used"
+    path: "16 Sword Used.vgz"
+    type: result
+  - id: shield_used
+    title: "Shield Used"
+    path: "17 Shield Used.vgz"
+    type: result
+  - id: all_level_6_quests_cleared
+    title: "All Level 6 Quests Cleared"
+    path: "19 All Level 6 Quests Cleared 1.vgz"
+    type: result
+  - id: all_master_level_quests_cleared
+    title: "All Master Level Quests Cleared"
+    path: "24 All Master Level Quests Cleared.vgz"
+    type: result
+  - id: staff_roll_cave_noire
+    title: "Staff Roll"
+    path: "25 Staff Roll.vgz"
+    type: break
 ...

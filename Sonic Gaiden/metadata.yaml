@@ -1,0 +1,17 @@
+---
+id: sonic_gaiden
+title: "Sonic Gaiden"
+series: sonic
+is_fanwork: true
+platform: "PC"
+year: 2019
+songs: 
+  - id: frosty_citadel_act_2_frozen_heart_melancholy
+    title: "Frosty Citadel Act 2 (Frozen Heart Melancholy)"
+    path: "Frosty Citadel Act 2 (Frozen Heart Melancholy).brstm"
+    type: betting
+  - id: crazy_cracked_egghead
+    title: "Crazy Cracked Egghead"
+    path: "Crazy Cracked Egghead.brstm"
+    type: battle
+...

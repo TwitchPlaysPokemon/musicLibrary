@@ -4,17 +4,42 @@ title: "Shin Megami Tensei: Digital Devil Saga 2"
 series: shinmegamitensei
 platform: "PS2"
 year: 2004
+#replacing brstms with game files
 songs:
   - id: battle_for_survival
     title: "Battle for Survival"
-    path: "SMTDDS2 - Battle for Survival.brstm"
+    path: "406 Battle For Survival.at3"
     type: battle
   - id: madness
     title: "Madness"
-    path: "Shin_Megami_Tensei_Digital_Devil_Saga_2-Madness.brstm"
+    path: "407 Madness.at3"
     type: warning
-  - id: divine_identity
-    title: "Divine Identity"
-    path: "Divine Identity.brstm"
+  - id: brahman
+    title: "Brahman" #I think this is Divine Identity?
+    path: "425 Brahman.at3"
     type: warning
+  - id: amaravati
+    title: "Amaravati"
+    path: "306 Amaravati.psf2"
+    type: betting
+  - id: meeeeaaaat_processing_plant
+    title: "Meeeeaaaat! Processing Plant"
+    path: "314 Meeeeaaaat! Processing Plant.psf2"
+    type: warning
+  - id: underground_city_dds2
+    title: "Underground City" 
+    path: "316 Underground City.psf2"
+    type: break
+  - id: power_plant_dome_dds2
+    title: "Power Plant Dome"
+    path: "322 Power Plant Dome.psf2"
+    type: warning
+  - id: heroic_battle
+    title: "Heroic Battle"
+    path: "409 Heroic Battle.at3"
+    type: battle
+  - id: rest_in_peace_my_friend
+    title: "Rest In Peace, My Friend" 
+    path: "417 Rest In Peace, My Friend.psf2"
+    type: betting
 ...

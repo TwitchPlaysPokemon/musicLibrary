@@ -1,0 +1,34 @@
+---
+id: clannad
+title: "Clannad"
+platform: "Various"
+year: 2004
+songs: 
+  - id: like_the_wind
+    title: "Like the Wind"
+    path: "ltw.nwa"
+    ends: 1:55
+    type: betting
+  - id: hurry_starfish
+    title: "Hurry, Starfish"
+    path: "starfish.nwa"
+    ends: 2:10
+    type: betting
+  - id: her_determination
+    title: "Her Determination"
+    path: "determ.nwa"
+    type: result
+  - id: meaningful_ways_to_pass_the_time
+    title: "Meaningful Ways to Pass the Time"
+    path: "timepass.nwa"
+    type: result
+  - id: dumb
+    title: "Dumb"
+    path: "baka.nwa"
+    type: warning
+  - id: return_to_ashes
+    title: "Return to Ashes"
+    path: "ashes.nwa"
+    ends: 1:43
+    type: betting
+...

@@ -1,0 +1,12 @@
+---
+id: five_nights_at_freddys
+title: "Five Nights at Freddy's"
+series: fivenightsatfreddys
+platform: ["PC", "Mobile"]
+year: 2014
+songs: 
+  - id: toreador_march
+    title: "Toreador March"
+    path: "Toreador March.brstm"
+    type: warning
+...

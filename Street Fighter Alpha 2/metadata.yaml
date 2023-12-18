@@ -2,10 +2,162 @@ id: street_fighter_alpha_2
 title: "Street Fighter Alpha 2"
 year: 1996
 series: streetfighter
-platform: ["Saturn", "Various"]
-#other platforms: ["Arcade", "SNES", "PS1", "PC"]
+platform: ["Arcade", "Various"]
+#other platforms: ["Saturn", "SNES", "PS1", "PC"]
 songs:
   - id: theme_of_akuma_sfa2
     title: "Theme of Akuma"
-    path: "Theme of Akuma.brstm"
+    path: "43 Stage Akuma.vgz"
+    type: battle
+  - id: opening_sfa2
+    title: "Opening"
+    path: "03 Opening.vgz"
+    type: warning
+  - id: player_select_sfa2
+    title: "Player Select"
+    path: "05 Player Select.vgz"
+    type: warning
+  - id: theme_of_sakura_sfa2
+    title: "Theme of Sakura"
+    path: "07 Stage Sakura.vgz"
     type: betting
+  - id: theme_of_zangief_sfa2
+    title: "Theme of Zangief"
+    path: "08 Stage Zangief.vgz"
+    type: betting
+  - id: theme_of_chun_li_sfa2
+    title: "Theme of Chun-Li"
+    path: "10 Stage Chun-Li.vgz"
+    type: betting
+  - id: theme_of_sodom_sfa2
+    title: "Theme of Sodom"
+    path: "11 Stage Sodom.vgz"
+    type: betting
+  - id: theme_of_birdie_sfa2
+    title: "Theme of Birdie"
+    path: "12 Stage Birdie.vgz"
+    type: betting
+  - id: theme_of_charlie_sfa2
+    title: "Theme of Charlie"
+    path: "13 Stage Charlie (Nash).vgz"
+    type: betting
+  - id: theme_of_dan_sfa2
+    title: "Theme of Dan"
+    path: "14 Stage Dan.vgz"
+    type: betting
+  - id: theme_of_m_bison_sfa2
+    title: "Theme of M. Bison"
+    path: "16 Stage M. Bison.vgz"
+    type: battle
+  - id: continue_sfa2
+    title: "Continue?"
+    path: "18 Continue.vgz
+    type: warning
+  - id: sakura_ending_1_sfa2
+    title: "Sakura Ending 1"
+    path: "20 Ending Sakura 1.vgz"
+    type: break
+  - id: sakura_ending_2_sfa2
+    title: "Sakura Ending 2"
+    path: "21 Ending Sakura 2.vgz"
+    type: result
+  - id: zangief_ending_1_sfa2
+    title: "Zangief Ending 1"
+    path: "22 Ending Zangief 1.vgz"
+    type: warning
+  - id: zangief_ending_2_sfa2
+    title: "Zangief Ending 2"
+    path: "23 Ending Zangief 2.vgz"
+    type: result
+  - id: chun_li_ending_sfa2
+    title: "Chun-Li Ending"
+    path: "26 Ending Chun-Li.vgz"
+    type: break
+  - id: sodom_ending_sfa2
+    title: "Sodom Ending"
+    path: "27 Ending Sodom.vgz"
+    type: break
+  - id: birdie_ending_sfa2
+    title: "Birdie Ending"
+    path: "28 Ending Birdie.vgz"
+    type: break
+  - id: charlie_ending_2_sfa2
+    title: "Charlie Ending 2"
+    path: "30 Ending Charlie (Nash) 2.vgz"
+    type: break
+  - id: dan_ending_sfa2
+    title: "Dan Ending"
+    path: "31 Ending Dan.vgz"
+    type: result
+  - id: m_bison_ending_sfa2
+    title: "M. Bison Ending"
+    path: "32 Ending M. Bison.vgz"
+    type: warning
+  - id: sagat_vs_ryu
+    title: "Sagat VS Ryu"
+    path: "34 Stage Sagat VS Ryu.vgz"
+    type: battle
+  - id: theme_of_dhalsim_sfa2
+    title: "Theme of Dhalsim"
+    path: "35 Stage Dhalsim.vgz"
+    type: betting
+  - id: theme_of_rolento_sfa2
+    title: "Theme of Rolento"
+    path: "36 Stage Rolento.vgz"
+    type: betting
+  - id: theme_of_gen_sfa2
+    title: "Theme of Gen"
+    path: "37 Stage Gen.vgz"
+    type: betting
+  - id: theme_of_ken_sfa2
+    title: "Theme of Ken"
+    path: "38 Stage Ken.vgz"
+    type: betting
+  - id: theme_of_sagat_sfa2
+    title: "Theme of Sagat"
+    path: "39 Stage Sagat.vgz"
+    type: betting
+  - id: theme_of_guy_sfa2
+    title: "Theme of Guy"
+    path: "40 Stage Guy.vgz"
+    type: betting
+  - id: theme_of_adon_sfa2
+    title: "Theme of Adon"
+    path: "41 Stage Adon.vgz"
+    type: battle
+  - id: theme_of_rose_sfa2
+    title: "Theme of Rose"
+    path: "42 Stage Rose.vgz"
+    type: betting
+  - id: dhalsim_ending_sfa2
+    title: "Dhalsim Ending"
+    path: "47 Ending Dhalsim.vgz"
+    type: result
+  - id: rolento_ending_sfa2
+    title: "Rolento Ending"
+    path: "48 Ending Rolento.vgz"
+    type: warning
+  - id: rolento_ending_sfa2
+    title: "Rolento Ending"
+    path: "48 Ending Rolento.vgz"
+    type: warning
+  - id: ken_ending_sfa2
+    title: "Ken Ending"
+    path: "51 Ending Ken.vgz"
+    type: break
+  - id: akuma_ending_sfa2
+    title: "Akuma Ending"
+    path: "58 Ending Akuma 2.vgz"
+    type: warning
+  - id: credit_roll_1_sfa2
+    title: "Credit Roll 1"
+    path: "59 Credit Roll 1.vgz"
+    type: result
+  - id: credit_roll_2_sfa2
+    title: "Credit Roll 2"
+    path: "60 Credit Roll 2.vgz"
+    type: break
+  - id: credit_roll_3_sfa2
+    title: "Credit Roll 3"
+    path: "61 Credit Roll 3.vgz"
+    type: result

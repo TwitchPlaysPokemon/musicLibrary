@@ -73,4 +73,8 @@ songs:
     title: "Taupe Hollow (Night)"
     path: "bgm_home_cave_night.fsb"
     type: break
+  - id: halloween_event_sleep
+    title: "Halloween Event"
+    path: "bgm_halloween.fsb"
+    type: betting
 ...

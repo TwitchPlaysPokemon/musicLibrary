@@ -89,6 +89,10 @@ songs:
     title: "Encounter! (Team Flare)"
     path: "bgm_eye18.logg"
     type: warning
+  - id: encounter_aether_foundation_pm
+    title: "Encounter! (Aether Foundation)"
+    path: "bgm_eye19.logg"
+    type: warning
   - id: team_rocket_event
     title: "Team Rocket (Event)"
     path: "bgm_field_rocket.logg"
@@ -132,6 +136,10 @@ songs:
   - id: the_ideal_formula
     title: "The Ideal Formula"
     path: "bgm_field_route10.logg"
+    type: betting
+  - id: type_battle_event
+    title: "Type Battle Event"
+    path: "bgm_field_typebattle.logg"
     type: betting
   - id: victory_road_kanto_pm
     title: "Victory Road (Kanto)"
@@ -189,6 +197,14 @@ songs:
     title: "Team Flare Secret Hideout"
     path: "bgm_field_boss_c.logg"
     type: betting
+  - id: the_secret_side_of_aether_paradise
+    title: "The Secret Side of Aether Paradise"
+    path: "bgm_field_boss_a.logg"
+    type: betting
+  - id: hammerlocke_in_peril
+    title: "Hammerlocke In Peril"
+    path: "bgm_field_boss_g.logg"
+    type: betting
   - id: an_unwavering_heart_pokemon_masters
     title: "An Unwavering Heart"
     path: "bgm_event_yurenuomoi.logg"
@@ -201,6 +217,18 @@ songs:
     title: "Battle Contest Event"
     path: "bgm_event_contests.logg"
     type: battle
+  - id: relic_song_pokemon_masters
+    title: "Relic Song"
+    path: "bgm_event_inishie.logg"
+    type: break
+  - id: emotional_theme_pokemon_masters
+    title: "Emotional Theme"
+    path: "bgm_event08.logg"
+    type: break
+  - id: villain_arc_ending
+    title: "Villain Arc Ending"
+    path: "bgm_villain_ending.logg" #dunno a good type for this one, so
+    type: warning
   - id: trainer_defeated_pokemas1
     title: "Trainer Defeated! Ver. 1"
     path: "bgm_result01.logg"
@@ -245,6 +273,10 @@ songs:
     title: "Per Aspera Ad Astra"
     path: "bgm_event_peraspera_adastra.logg"
     type: result
+  - id: space_time_distortion_pm
+    title: "Space-Time Distortion"
+    path: "bgm_event_stdistortion.logg"
+    type: betting
     #trainer lodge themes
   - id: trainer_lodge_episode_01
     title: "Trainer Lodge: Episode 01"
@@ -297,6 +329,10 @@ songs:
     title: "Battle! (Wild Pokémon: Kanto)"
     path: "bgm_battle_yasei_k.logg"
     type: battle
+  - id: battle_kanto_trainer_pokemon_masters
+    title: "Battle! (Kanto Trainer)"
+    path: "bgm_battle_trainer_kanto.logg"
+    type: battle
   - id: battle_kanto_gym_leader_pokemon_masters
     title: "Battle! (Kanto Gym Leader)"
     path: "bgm_battle_gl_k.logg"
@@ -312,6 +348,10 @@ songs:
   - id: decisive_battle_giovanni
     title: "Decisive Battle! (Giovanni)"
     path: "bgm_battle_sakaki_02.logg"
+    type: battle
+  - id: ultimate_battle_giovanni
+    title: "Ultimate Battle! (Giovanni)"
+    path: "bgm_battle_sakaki_03.logg"
     type: battle
   - id: battle_kanto_legendary_pokemon
     title: "Battle! (Kanto Legendary Pokémon)"
@@ -337,6 +377,10 @@ songs:
     title: "Battle! (Blue)"
     path: "bgm_battle_green.logg"
     type: battle
+  - id: battle_neo_kanto_champion
+    title: "Battle! (Neo Kanto Champion)"
+    path: "bgm_battle_neochamp_kanto.logg"
+    type: battle
 
     #Johto - all songs from G/S/C/HG/SS in approx. order
   - id: battle_wild_pokemon_johto_masters
@@ -346,6 +390,10 @@ songs:
   - id: battle_johto_trainer_pokemon_masters
     title: "Battle! (Johto Trainer)"
     path: "bgm_battle_trainer_j.logg"
+    type: battle
+  - id: battle_eusine
+    title: "Battle! (Eusine)"
+    path: "bgm_battle_minaki.logg"
     type: battle
   - id: battle_silver_pokemon_masters
     title: "Battle! (Silver)"
@@ -359,7 +407,11 @@ songs:
     title: "Battle! (Team Rocket Executive)"
     path: "bgm_battle_rocket.logg"
     type: battle
-  - id: battle_entei_pokemon_masters
+  - id: battle_raikou
+    title: "Battle! (Raikou)"
+    path: "bgm_battle_legend_raikou.logg"
+    type: battle
+  - id: battle_entei
     title: "Battle! (Entei)"
     path: "bgm_battle_legend_entei.logg"
     type: battle
@@ -593,6 +645,10 @@ songs:
     title: "Battle! (Unova Gym Leader)"
     path: "bgm_battle_gl_i.logg"
     type: battle
+  - id: battle_roxie
+    title: "Battle! (Roxie)"
+    path: "bgm_battle_homika.logg"
+    type: battle
   - id: battle_unova_elite_four
     title: "Battle! (Unova Elite Four)"
     path: "bgm_battle_big4_i.logg"
@@ -644,6 +700,14 @@ songs:
   - id: battle_subway_boss_pokemon_masters
     title: "Battle! (Subway Boss)"
     path: "bgm_battle_subwaymaster.logg"
+    type: battle
+  - id: battle_subway_boss_special_ver
+    title: "Battle! (Subway Boss - Special Ver.)"
+    path: "bgm_battle_subwaymaster_99.logg" #it's piano only, but... eh
+    type: battle
+  - id: battle_neo_unova_champion
+    title: "Battle! (Neo Unova Champion)"
+    path: "bgm_battle_neochamp_unova.logg"
     type: battle
 
     #Kalos - all songs from X/Y in approx. order
@@ -757,9 +821,17 @@ songs:
     title: "Battle! (Plumeria)"
     path: "bgm_battle_plumeria.logg"
     type: battle
+  - id: battle_team_skull_grunt_pokemon_masters
+    title: "Battle! (Team Skull Grunt)"
+    path: "bgm_battle_scull.logg"
+    type: battle
   - id: battle_guzma_pokemon_masters
     title: "Battle! (Guzma)"
     path: "bgm_battle_guzuma.logg"
+    type: battle
+  - id: battle_aether_foundation_employee_pokemon_masters
+    title: "Battle! (Aether Foundation Employee)"
+    path: "bgm_battle_ether.logg"
     type: battle
   - id: battle_lusamine_pokemon_masters
     title: "Battle! (Lusamine)"
@@ -769,7 +841,11 @@ songs:
     title: "Battle! (Lusamine - Short Ver.)"
     path: "bgm_battle_lusamine_short.logg"
     type: battle
-  - id: battle_tapu_masters
+  - id: battle_alola_guardian
+    title: "Battle! (Alola Guardian)"
+    path: "bgm_battle_guardian_alora.logg"
+    type: battle
+  - id: battle_tapu_pokemon_masters
     title: "Battle! (Tapu)"
     path: "bgm_battle_legend_kapu.logg"
     type: battle
@@ -839,6 +915,10 @@ songs:
     title: "Battle! (Bede)"
     path: "bgm_battle_beet.logg"
     type: battle
+  - id: battle_team_yell_grunt_pokemon_masters
+    title: "Battle! (Team Yell Grunt)"
+    path: "bgm_battle_yell.logg"
+    type: battle
   - id: battle_marnie_pokemon_masters
     title: "Battle! (Marnie)"
     path: "bgm_battle_mary.logg"
@@ -846,6 +926,10 @@ songs:
   - id: battle_piers_pokemon_masters
     title: "Battle! (Piers)"
     path: "bgm_battle_nezz.logg"
+    type: battle
+  - id: decisive_battle_piers
+    title: "Decisive Battle! (Piers)"
+    path: "bgm_battle_nezz_02.logg"
     type: battle
   - id: battle_hop_pokemon_masters
     title: "Battle! (Hop)"
@@ -855,9 +939,43 @@ songs:
     title: "Battle! (Leon)"
     path: "bgm_battle_dande.logg"
     type: battle
+  - id: decisive_battle_leon_pokemon_masters
+    title: "Decisive Battle! (Leon)"
+    path: "bgm_battle_dande_02.logg"
+    type: battle
+  - id: battle_oleana_pokemon_masters
+    title: "Battle! (Oleana)"
+    path: "bgm_battle_olive.logg"
+    type: battle
+  - id: battle_chairman_rose_pokemon_masters
+    title: "Battle! (Chairman Rose)"
+    path: "bgm_battle_rose.logg"
+    type: battle
   - id: battle_neo_galar_champion
     title: "Battle! (Neo Galar Champion)"
     path: "bgm_battle_neochamp_galar.logg"
+    type: battle
+
+    #Hisui/Paldea - all songs from Arceus or S/V in approx. order
+  - id: battle_wild_pokemon_paldea
+    title: "Battle! (Wild Pokémon: Paldea)"
+    path: "bgm_battle_yasei_p.logg"
+    type: battle
+  - id: battle_hisui_trainer
+    title: "Battle! (Hisui Trainer)"
+    path: "bgm_battle_trainer_hisui.logg"
+    type: battle
+  - id: battle_hisui_warden
+    title: "Battle! (Hisui Warden)"
+    path: "bgm_battle_captain_hisui.logg"
+    type: battle
+  - id: battle_nemona_pokemon_masters
+    title: "Battle! (Nemona)"
+    path: "bgm_battle_nemo.logg"
+    type: battle
+  - id: battle_penny
+    title: "Battle! (Penny)"
+    path: "bgm_battle_button.logg"
     type: battle
 
     #Pasio - any Masters-exclusive tracks or stuff I couldn't really put anywhere else
@@ -865,9 +983,13 @@ songs:
     title: "Battle! (Region's Best)"
     path: "bgm_battle_player.logg"
     type: battle
-  - id: battle_paulo_pokemon_masters
+  - id: battle_paulo
     title: "Battle! (Paulo)"
     path: "bgm_battle_rival.logg"
+    type: battle
+  - id: decisive_battle_paulo
+    title: "Decisive Battle! (Paulo)"
+    path: "bgm_battle_rival_02.logg"
     type: battle
   - id: battle_sync_pair
     title: "Battle! (Sync Pair)"

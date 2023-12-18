@@ -1,0 +1,31 @@
+---
+id: alpine_racer_2
+title: "Alpine Racer 2"
+platform: "Arcade"
+year: 1996
+songs: 
+  - id: beyone_the_canyon
+    title: "Beyond the Canyon"
+    path: "02 Beyond the Canyon.vgz"
+    type: warning
+  - id: aerial_life
+    title: "Aerial Life"
+    path: "03 Aerial Life.vgz"
+    type: battle
+  - id: anythin_goes
+    title: "Anythin' Goes"
+    path: "04 Anythin' Goes.vgz"
+    type: battle
+  - id: kaz_s_boogie
+    title: "Kaz's Boogie"
+    path: "06 Kaz's Boogie.vgz"
+    type: betting
+  - id: chasin_the_insanity
+    title: "Chasin' the Insanity"
+    path: "07 Chasin' the Insanity.vgz"
+    type: warning
+  - id: unused_alpine
+    title: "Unused"
+    path: "10 Unused.vgz"
+    type: result
+...

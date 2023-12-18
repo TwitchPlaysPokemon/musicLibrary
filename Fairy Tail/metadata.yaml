@@ -1,0 +1,48 @@
+---
+id: fairy_tail
+title: "Fairy Tail"
+platform: "Various"
+year: 2020
+#these were the only songs I could recognize. I'd add more if I could. 
+songs: 
+  - id: title_screen_fairy_tail
+    title: "Title Screen"
+    path: "00.ktss"
+    type: betting
+  - id: tartaros
+    title: "Tartaros"
+    path: "0A.ktss"
+    type: betting
+  - id: plain_fairy_tail
+    title: "Plain"
+    path: "0B.ktss"
+    type: betting
+  - id: forest_fairy_tail
+    title: "Forest"
+    path: "0C.ktss"
+    type: betting
+  - id: solitary_island
+    title: "Solitary Island"
+    path: "0D.ktss"
+    type: betting
+  - id: hakobe_snow_mountain
+    title: "Hakobe, Snow Mountain"
+    path: "0E.ktss"
+    type: betting
+  - id: fight_battle_theme_fairy_tail
+    title: "Fight! (Battle Theme)"
+    path: "0F.ktss"
+    type: battle
+  - id: bravers
+    title: "Bravers"
+    path: "10.ktss"
+    type: battle
+  - id: intense_boss_theme_1
+    title: "Intense (Boss Theme 1)"
+    path: "14.ktss"
+    type: battle
+  - id: lucy_s_room
+    title: "Lucy's Room"
+    path: "06.ktss"
+    type: result
+...

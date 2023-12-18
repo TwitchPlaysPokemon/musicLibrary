@@ -1,0 +1,39 @@
+---
+id: drymouth
+title: "Drymouth"
+platform: "GBC"
+year: 2000
+songs:
+  - id: title_drym
+    title: "Title Screen"
+    path: "02 Title.vgz"
+    type: betting
+  - id: training_drym
+    title: "Training"
+    path: "03 Training.vgz"
+    type: break
+  - id: billys_theme_drym
+    title: "Billy's Theme"
+    path: "04 Billy's Theme.vgz"
+    type: betting
+  - id: blitzs_theme_drym
+    title: "Blitz's Theme"
+    path: "05 Blitz's Theme.vgz"
+    type: betting
+  - id: phatty_chops_theme
+    title: "Phatty Chops' Theme"
+    path: "06 Phatty Chops' Theme.vgz"
+    type: betting
+  - id: good_ending_drym
+    title: "Good Ending"
+    path: "09 Good Ending.vgz"
+    type: result
+  - id: kuma_theme_drym
+    title: "Kuma's Theme"
+    path: "10 Kuma's Theme.vgz"
+    type: warning
+  - id: intro_drym
+    title: "Intro"
+    path: "01 Intro.vgz"
+    type: warning
+...

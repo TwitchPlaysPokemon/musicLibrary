@@ -1,0 +1,298 @@
+---
+id: super_mario_bros_wonder
+title: "Super Mario Bros. Wonder"
+series: mario
+platform: "Switch"
+year: 2023
+# I think I added as many songs I could. Before you ask, the Piranha Plant match doesn't naturally loop.
+# If I made any mistakes with song titles, let me know. 
+songs: 
+  - id: title_screen_wonder
+    title: "Title Screen"
+    path: "BGM_Title.bwav"
+    type: betting
+  - id: pipe_rock_plateau
+    title: "Pipe-Rock Plateau"
+    path: "BGM_World_01.bwav"
+    type: break
+  - id: pipe_rock_plateau_underground
+    title: "Pipe-Rock Plateau (Underground)"
+    path: "BGM_World_01_Underground.bwav"
+    type: break
+  - id: petal_isles
+    title: "Petal Isles"
+    path: "BGM_World_02.bwav"
+    type: break
+  - id: petal_isles_ominous
+    title: "Petal Isles (Ominous)"
+    path: "BGM_World_02_Dark.bwav"
+    type: warning
+  - id: petal_isles_bowser
+    title: "Petal Isles (Bowser)"
+    path: "BGM_World_02_Koopa.bwav"
+    type: warning
+  - id: fluff_puff_peaks
+    title: "Fluff-Puff Peaks"
+    path: "BGM_World_03.bwav"
+    type: break
+  - id: fluff_puff_peaks_smoky
+    title: "Fluff-Puff Peaks (Smoky)"
+    path: "BGM_World_03_Mokumoku.bwav"
+    type: break
+  - id: shining_falls
+    title: "Shining Falls"
+    path: "BGM_World_04.bwav"
+    type: betting
+  - id: sunbaked_desert
+    title: "Sunbaked Desert"
+    path: "BGM_World_05.bwav"
+    type: betting
+  - id: sunbaked_desert_palace
+    title: "Sunbaked Desert (Palace)"
+    path: "BGM_World_05_Palace.bwav"
+    type: betting
+  - id: deep_magma_bog
+    title: "Deep Magma Bog"
+    path: "BGM_World_07.bwav"
+    type: break
+  - id: deep_magma_bog_underground
+    title: "Deep Magma Bog (Underground)"
+    path: "BGM_World_07_Magma.bwav"
+    type: betting
+  - id: fungi_mines
+    title: "Fungi Mines"
+    path: "BGM_World_06.bwav"
+    type: break
+  - id: fungi_mines_underground
+    title: "Fungi Mines (Underground)"
+    path: "BGM_World_06_Kinkin.bwav"
+    type: betting
+  - id: castle_bowser
+    title: "Castle Bowser"
+    path: "BGM_World_08.bwav"
+    type: betting
+  - id: castle_bowser_end_zone
+    title: "Castle Bowser (End Zone)"
+    path: "BGM_World_08_LastZone.bwav"
+    type: warning
+  - id: special_zone_wonder
+    title: "Special Zone"
+    path: "BGM_World_09.bwav"
+    type: betting
+  - id: special_zone_level_2
+    title: "Special Zone (Level 2)"
+    path: "BGM_World_09_2F.bwav"
+    type: break
+  - id: overworld_theme_wonder
+    title: "Overworld Theme"
+    path: "BGM_Course_Sougen.txtp"
+    type: betting
+  - id: athletic_theme_wonder
+    title: "Athletic Theme"
+    path: "BGM_Course_Athletic.txtp"
+    type: betting
+  - id: underwater_theme_wonder
+    title: "Underwater Theme"
+    path: "BGM_Course_Sea.txtp"
+    type: break
+  - id: snow_theme_wonder
+    title: "Snow Theme"
+    path: "BGM_Course_Snow.txtp"
+    type: betting
+  - id: savanna_theme_wonder
+    title: "Savanna Theme"
+    path: "BGM_Course_Savanna.txtp"
+    type: betting
+  - id: lake_theme_wonder
+    title: "Lake Theme"
+    path: "BGM_Course_OrientalLake.txtp"
+    type: betting
+  - id: forest_theme_wonder
+    title: "Forest Theme"
+    path: "BGM_Course_Forest.txtp"
+    type: betting
+  - id: factory_theme_wonder
+    title: "Factory Theme"
+    path: "BGM_Course_Factory.txtp"
+    type: betting
+  - id: ghost_house_theme_wonder
+    title: "Ghost House Theme"
+    path: "BGM_Course_Dokan.txtp"
+    type: betting
+  - id: desert_theme_wonder
+    title: "Desert Theme"
+    path: "BGM_Course_Desert.txtp"
+    type: betting
+  - id: dark_forest_theme_wonder
+    title: "Dark Forest Theme"
+    path: "BGM_Course_DarkForest.txtp"
+    type: betting
+  - id: beach_theme_wonder
+    title: "Beach Theme"
+    path: "BGM_Course_Beach.txtp"
+    type: betting
+  - id: airship_theme_wonder
+    title: "Airship Theme"
+    path: "BGM_Course_Airship.txtp"
+    type: betting
+  - id: lava_theme_wonder
+    title: "Lava Theme"
+    path: "BGM_Course_Lava.txtp"
+    type: betting
+  - id: castle_theme_wonder
+    title: "Castle Theme"
+    path: "BGM_Course_Palace.txtp"
+    type: betting
+  - id: underground_theme_wonder
+    title: "Underground Theme"
+    path: "BGM_Course_Underground.txtp"
+    type: betting
+  - id: enter_the_colosseum_wonder
+    title: "Enter the Colosseum"
+    path: "BGM_Course_Colosseum_Enter.bwav"
+    type: warning
+  - id: colosseum_battle_1
+    title: "Colosseum: Battle 1"
+    path: "BGM_Course_Colosseum_Battle_01.bwav"
+    type: warning
+  - id: colosseum_battle_2
+    title: "Colosseum: Battle 2"
+    path: "BGM_Course_Colosseum_Battle_02.bwav"
+    type: warning
+  - id: colosseum_battle_3
+    title: "Colosseum: Battle 3"
+    path: "BGM_Course_Colosseum_Battle_03.bwav"
+    type: warning
+  - id: colosseum_final_battle
+    title: "Colosseum: Final Battle"
+    path: "BGM_Course_Colosseum_Battle_04.bwav"
+    type: warning
+  - id: colosseum_treasure_collected
+    title: "Colosseum: Treasure Collected"
+    path: "BGM_Course_Colosseum_Treasure.bwav"
+    type: result
+  - id: world_clear_wonder
+    title: "World Clear"
+    path: "BGM_Demo_WorldClear.bwav"
+    type: result
+  - id: staff_credits_wonder
+    title: "Staff Credits"
+    path: "BGM_Demo_StaffCredit.bwav"
+    type: betting
+  - id: starman_wonder
+    title: "Starman"
+    path: "BGM_Star.bwav"
+    type: warning
+  - id: starman_wonder_effect
+    title: "Starman (Wonder Effect)"
+    path: "BGM_Star_Wonder.bwav"
+    type: warning
+  - id: p_switch_wonder
+    title: "P Switch"
+    path: "BGM_Switch.bwav"
+    type: warning
+  - id: airship_boss
+    title: "Airship Boss"
+    path: "BGM_Boss_Airship.bwav"
+    type: battle
+  - id: bowser_jr_wonder
+    title: "Bowser Jr."
+    path: "BGM_Boss_Palace.txtp"
+    type: battle
+  - id: castle_bowser
+    title: "Castle Bowser"
+    path: "BGM_Boss_Koopa.txtp"
+    type: battle
+  - id: wiggler_race
+    title: "Wiggler Race"
+    path: "BGM_Course_Race_OnGoing.bwav"
+    type: warning
+  - id: wiggler_race_win
+    title: "Wiggler Race - Win"
+    path: "BGM_Course_Race_Win.bwav"
+    type: result
+  - id: mini_course_action
+    title: "Mini-Course - Action"
+    path: "BGM_MiniCourse_Action.bwav"
+    type: warning
+  - id: mini_course_puzzle
+    title: "Mini-Course - Puzzle"
+    path: "BGM_MiniCourse_Puzzle.bwav"
+    type: betting
+  - id: wonder_effect_metal
+    title: "Wonder Effect - Metal"
+    path: "BGM_Wonder_MetalMario.bwav"
+    type: warning
+  - id: wonder_effect_normal
+    title: "Wonder Effect - Normal"
+    path: "BGM_Wonder_BG.bwav"
+    type: warning
+  - id: wonder_effect_dragon
+    title: "Wonder Effect - Dragon"
+    path: "BGM_Wonder_Dragon.bwav"
+    type: warning
+  - id: wonder_effect_funny
+    title: "Wonder Effect - Funny"
+    path: "BGM_Wonder_Funny.bwav"
+    type: betting
+  - id: wonder_effect_spike_dance_party
+    title: "Wonder Effect - Spike Dance Party"
+    path: "BGM_Wonder_Gabon.bwav"
+    type: result
+  - id: wonder_effect_halloween
+    title: "Wonder Effect - Halloween"
+    path: "BGM_Wonder_Halloween.bwav"
+    type: betting
+  - id: wonder_effect_jumping
+    title: "Wonder Effect - Jumping"
+    path: "BGM_Wonder_Jumping.bwav"
+    type: warning
+  - id: wonder_effect_shadow_mario
+    title: "Wonder Effect - Shadow Mario"
+    path: "BGM_Wonder_KageMario.bwav"
+    type: warning
+  - id: wonder_effect_shadow_mario
+    title: "Wonder Effect - Killer"
+    path: "BGM_Wonder_Killer.txtp"
+    type: warning
+  - id: wonder_effect_final
+    title: "Wonder Effect - Final"
+    path: "BGM_Wonder_Last.txtp"
+    type: betting
+  - id: wonder_effect_serious
+    title: "Wonder Effect - Serious"
+    path: "BGM_Wonder_Serious.bwav"
+    type: betting
+  - id: wonder_effect_silent
+    title: "Wonder Effect - Silent"
+    path: "BGM_Wonder_Silent.bwav"
+    type: break
+  - id: wonder_effect_goop
+    title: "Wonder Effect - Goop"
+    path: "BGM_Wonder_Slime.bwav"
+    type: warning
+  - id: wonder_effect_strange
+    title: "Wonder Effect - Strange"
+    path: "BGM_Wonder_Strange.bwav"
+    type: betting
+  - id: wonder_effect_stampede
+    title: "Wonder Effect - Stampede"
+    path: "BGM_Wonder_Tosshin.bwav"
+    type: betting
+  - id: wonder_effect_uhauha
+    title: "Wonder Effect - Uhauha"
+    path: "BGM_Wonder_Uhauha_Normal.bwav"
+    type: betting
+  - id: wonder_effect_uhauha_fantastic
+    title: "Wonder Effect - Uhauha (Fantastic)"
+    path: "BGM_Wonder_Uhauha_Fantastic.bwav"
+    type: betting
+  - id: piranha_plants_on_parade
+    title: "Piranha Plants on Parade"
+    path: "BGM_Wonder_March.txtp"
+    type: result
+  - id: king_boo_s_opera
+    title: "King Boo's Opera"
+    path: "BGM_Wonder_Teresa.txtp"
+    type: warning
+...

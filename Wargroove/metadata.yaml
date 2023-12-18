@@ -1,0 +1,35 @@
+---
+id: wargroove
+title: "Wargroove"
+platform: ["PC", "XB1", "PS4", "Switch"]
+year: 2019
+songs: 
+  - id: aurania
+    title: "Aurania"
+    path: "campaign.txtp"
+    type: betting
+  - id: unbound_fury
+    title: "Unbound Fury"
+    path: "darkmercia.txtp"
+    type: battle
+  - id: peaceful_contemplation
+    title: "Peaceful Contemplation"
+    path: "editor.txtp"
+    type: break
+  - id: oaken_sentinel
+    title: "Oaken Sentinel"
+    path: "greenfinger.txtp"
+    type: betting
+  - id: cheeky_ruckus
+    title: "Cheeky Ruckus"
+    path: "hostile.txtp"
+    type: warning
+  - id: encounter_results
+    title: "Encounter Results"
+    path: "results.txtp"
+    type: result
+  - id: theme_of_wargroove
+    title: "Theme of Wargroove"
+    path: "maintheme.txtp"
+    type: betting
+...

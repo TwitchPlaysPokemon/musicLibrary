@@ -1,0 +1,29 @@
+---
+id: rockman_4_minus_infinity
+title: "Rockman 4: Minus Infinity"
+platform: "NES"
+series: megaman
+is_fanwork: true
+year: 2016
+songs:
+  - id: dust_man_stage_r4mi
+    title: "Dust Man Stage"
+    path: "Dust Man Stage (Doraemon Giga Zombie no Gyakushu_ Underworld Map).brstm"
+    type: betting
+  - id: bright_man_stage_r4mi
+    title: "Bright Man Stage"
+    path: "Bright Man Stage (F-Zero X_ Dream Chaser).brstm"
+    type: battle
+  - id: ring_man_stage_r4mi
+    title: "Ring Man Stage"
+    path: "Ring Man Stage (Mario Kart Super Circuit_ Cheese Land).brstm"
+    type: betting
+  - id: wily_stage_1_r4mi
+    title: "Wily Stage 1"
+    path: "Wily Stage 1 (Hokkaido Serial Murders_ Okhotsk Vanishes).brstm"
+    type: betting
+  - id: wily_capsule_r4mi
+    title: "Wily Capsule"
+    path: "Wily Capsule (Doreamon GB Final Stage).brstm"
+    type: battle
+...

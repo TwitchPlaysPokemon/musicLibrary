@@ -1,0 +1,30 @@
+---
+id: super_mario_rpg_2023
+title: "Super Mario RPG (2023)"
+series: mario
+platform: "Switch"
+year: 2023
+#I tried using the official game rips... and they didn't work
+#so Tetris 99 versions for now
+songs: 
+  - id: fight_against_monsters_2023
+    title: "Fight Against Monsters"
+    path: "BGM_GAME_DEF_1.bfwav"
+    type: battle
+  - id: fight_against_a_somewhat_stronger_monster_2023
+    title: "Fight Against a Somewhat Stronger Monster"
+    path: "BGM_GAME_DEF_2.bfwav"
+    type: battle
+  - id: fight_against_an_armed_boss_2023
+    title: "Fight Against an Armed Boss"
+    path: "BGM_GAME_DEF_3.bfwav"
+    type: battle
+  - id: victory_smrpg2023
+    title: "Victory!!"
+    path: "BGM_RESULT_A.bfwav"
+    type: result
+  - id: sad_song_2023
+    title: "Sad Song"
+    path: "BGM_RESULT_B.bfwav"
+    type: break
+...

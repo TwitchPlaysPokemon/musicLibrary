@@ -1,0 +1,63 @@
+---
+id: poker_night_2
+title: "Poker Night 2"
+platform: ["PC", "360", "PS3", "iOS"]
+year: 2013
+songs:
+  - id: walk_in_poker_night_2
+    title: "Walk In"
+    path: "sfx_intro_walk_in_music.mp3"
+    type: warning
+  - id: menu_poker_night_2
+    title: "Menu"
+    path: "mus_menu.mp3"
+    type: result
+  - id: end_of_tournament
+    title: "End of Tournament"
+    path: "mus_endoftournament.mp3"
+    type: result
+  - id: cl4p_tp_gets_shot_by_steve
+    title: "CL4P-TP Gets Shot by Steve"
+    path: "mus_claptrap_gets_shot_by_steve.mp3"
+    type: warning
+  - id: credits_poker_night_2
+    title: "Credits"
+    path: "mus_credits.mp3"
+    type: result
+  - id: prologue_army_of_darkness
+    title: "Prologue (Army of Darkness)"
+    path: "mus_aod_prologue.mp3"
+    type: betting
+  - id: short_change_hero
+    title: "Short Change Hero"
+    path: "mus_b_shortchangehero.mp3"
+    type: betting
+  - id: no_vacancy
+    title: "No Vacancy"
+    path: "mus_vb_novacancy.mp3"
+    type: betting
+  - id: the_war_song
+    title: "The War Song"
+    path: "mus_snm_thewarsong.mp3"
+    type: break
+  - id: twilight_eternal
+    title: "Twilight Eternal"
+    path: "mus_snm_twilighteternal.mp3"
+    type: betting
+  - id: still_alive_poker_night_2
+    title: "Still Alive"
+    path: "mus_p_stillalive.mp3"
+    type: break
+  - id: there_she_is_poker_night_2
+    title: "There She Is"
+    path: "mus_p_theresheis.mp3"
+    type: betting
+  - id: dark_rooms_poker_night_2
+    title: "Dark Rooms"
+    path: "mus_wd_darkrooms.mp3"
+    type: betting
+  - id: training_clementine
+    title: "Training Clementine"
+    path: "mus_wd_trainingclementine.mp3"
+    type: break
+...

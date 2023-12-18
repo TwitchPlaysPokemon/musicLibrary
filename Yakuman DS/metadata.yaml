@@ -1,0 +1,92 @@
+---
+id: yakuman_ds
+title: "Yakuman DS"
+platform: "DS"
+series: mario
+year: 2005
+songs: 
+  - id: opening_yakuds
+    title: "Opening"
+    path: "BGM_OPENNING.mini2sf"
+    type: result
+  - id: title_main_menu_yakuds
+    title: "Title/Main Menu"
+    path: "BGM_TITLE.mini2sf"
+    type: result
+  - id: options_yakuds
+    title: "Options"
+    path: "BGM_OPTION.mini2sf"
+    type: break
+  - id: ranking_yakuds
+    title: "Ranking"
+    path: "BGM_RANKING.mini2sf"
+    type: warning
+  - id: mahjong_glossary
+    title: "Mahjong Glossary"
+    path: "BGM_JITEN.mini2sf"
+    type: result
+  - id: training_yakuds
+    title: "Training"
+    path: "BGM_NYUMON1.mini2sf"
+    type: break
+  - id: tutorial_yakuds
+    title: "Tutorial"
+    path: "BGM_NYUMON2.mini2sf"
+    type: betting
+  - id: richi
+    title: "Richi!"
+    path: "BGM_RICHI.mini2sf"
+    type: warning
+  - id: character_select_yakuds
+    title: "Character Select"
+    path: "BGM_CHARA_SEL.mini2sf"
+    type: betting
+  - id: challenge_yakuds
+    title: "Challenge"
+    path: "BGM_CHALLENGE.mini2sf"
+    type: betting
+  - id: ranking_yakuds
+    title: "Ranking"
+    path: "BGM_RANKING.mini2sf"
+    type: warning
+  - id: turn_results_yakuds
+    title: "Turn Results"
+    path: "BGM_AGARI_NORMAL.mini2sf"
+    type: result
+  - id: game_results_yakuds
+    title: "Game Results"
+    path: "BGM_KEKKA.mini2sf"
+    type: result
+  - id: course_clear_yakuds
+    title: "Course Clear"
+    path: "BGM_OMEDETOU.mini2sf"
+    type: result
+  - id: turn_results_sole_loser
+    title: "Turn Results - Sole Loser"
+    path: "BGM_AGARI_FURIKOMI.mini2sf"
+    type: result
+  - id: ending_yakuds
+    title: "Ending"
+    path: "BGM_ENDING.mini2sf"
+    type: betting
+  - id: mahjong_bgm_1
+    title: "Mahjong BGM 1"
+    path: "BGM_TAIKYOKU1.mini2sf"
+    type: betting
+  - id: mahjong_bgm_2
+    title: "Mahjong BGM 2"
+    path: "BGM_TAIKYOKU2.mini2sf"
+    type: betting
+  - id: mahjong_bgm_3
+    title: "Mahjong BGM 3"
+    path: "BGM_TAIKYOKU3.mini2sf"
+    type: betting
+  - id: mahjong_bgm_4
+    title: "Mahjong BGM 4"
+    path: "BGM_TAIKYOKU4.mini2sf"
+    type: betting
+  - id: mahjong_bgm_5
+    title: "Mahjong BGM 5"
+    path: "BGM_TAIKYOKU5.mini2sf"
+    type: betting
+...

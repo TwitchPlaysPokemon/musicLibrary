@@ -1,0 +1,25 @@
+---
+id: future_aero_racing_s_ultra
+title: "Future Aero Racing S ULTRA"
+platform: "PC"
+year: 2019
+#someone requested Sonic Chronicles music and I went on a "10/10 VG music" craze
+#feel free to remove if it's TOO quality
+songs:
+  - id: paradise_beach_farsu
+    title: "Paradise Beach"
+    path: "OST_FAR_01.fsb"
+    type: betting
+  - id: high_speed_oval
+    title: "High Speed Oval"
+    path: "OST_FAR_02.fsb"
+    type: betting
+  - id: industrial_park_farsu
+    title: "Industrial Park"
+    path: "OST_FAR_03.fsb"
+    type: betting
+  - id: wood_lake
+    title: "Wood Lake"
+    path: "OST_FAR_04.fsb"
+    type: betting
+...

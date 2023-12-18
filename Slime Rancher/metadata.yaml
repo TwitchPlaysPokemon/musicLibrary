@@ -1,0 +1,31 @@
+---
+id: slime_rancher
+title: "Slime Rancher"
+platform: ["PC", "XB1"]
+year: 2017
+songs:
+  - id: those_awful_ravenous_rainbows
+    title: "Those Awful Ravenous Rainbows"
+    path: "musicDanger.fsb"
+    type: warning
+  - id: she_s_on_fire
+    title: "She's on Fire!"
+    path: "musicSlimeball.fsb"
+    type: warning
+  - id: indigo_quarry_relaxed
+    title: "Indigo Quarry Relaxed"
+    path: "musicQuarryRelax.fsb"
+    type: break
+  - id: radio_elevator_shimmy
+    title: "Radio Elevator Shimmy"
+    path: "musicRadioElevator.fsb"
+    type: break
+  - id: ranch_theme
+    title: "Ranch Theme"
+    path: "musicRanchTheme.fsb"
+    type: break
+  - id: ogden_s_retreat_theme
+    title: "Ogden's Retreat Theme"
+    path: "musicOgdenTheme.fsb"
+    type: break
+...

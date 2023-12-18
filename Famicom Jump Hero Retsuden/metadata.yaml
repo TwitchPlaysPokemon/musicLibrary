@@ -1,0 +1,91 @@
+---
+id: famicom_jump_hero_retsuden
+title: "Famicom Jump: Hero Retsuden"
+platform: "FC"
+year: 1989
+songs:
+  - id: the_beginning_of_the_story
+    title: "The Beginning of The Story"
+    path: "03 The Beginning of The Story.vgz"
+    type: betting
+  - id: password_fj
+    title: "Password"
+    path: "04 Password.vgz"
+    type: break
+  - id: meeting_with_you
+    title: "Meeting with You"
+    path: "06 Meeting with You.vgz"
+    type: result
+  - id: adventure_jump_world
+    title: "Adventure! (Jump World)"
+    path: "07 Adventure! (Jump World).vgz"
+    type: betting
+  - id: friend_or_foe
+    title: "Friend or Foe"
+    path: "08 Friend or Foe.vgz"
+    type: warning
+  - id: fujiyama_western
+    title: "Fujiyama Western"
+    path: "09 Fujiyama Western.vgz"
+    type: result
+  - id: labyrinth_fj
+    title: "Labyrinth"
+    path: "10 Labyrinth.vgz"
+    type: warning
+  - id: suspense_of_shiver
+    title: "Suspense of Shiver"
+    path: "11 Suspense of Shiver.vgz"
+    type: warning
+  - id: hilarious_city
+    title: "Hilarious City"
+    path: "13 Hilarious City.vgz"
+    type: result
+  - id: shopping_fj
+    title: "Shopping"
+    path: "14 Shopping.vgz"
+    type: break
+  - id: item_window_fj
+    title: "Item Window"
+    path: "16 Item Window.vgz"
+    type: break
+  - id: penguin_village_fj
+    title: "Penguin Village"
+    path: "18 Penguin Village.vgz"
+    type: betting
+  - id: i_sometime_walked_here_2
+    title: "I Sometime Walked Here 2"
+    path: "20 I Sometime Walked Here 2.vgz"
+    type: break
+  - id: honobono_town
+    title: "Honobono Town"
+    path: "21 Honobono Town.vgz"
+    type: betting
+  - id: telephone_fami_shin
+    title: "Telephone Fami-shin"
+    path: "22 Telephone Fami-shin.vgz"
+    type: result
+  - id: training_fj
+    title: "Training!"
+    path: "24 Training!.vgz"
+    type: result
+  - id: kintoun
+    title: "Kintoun"
+    path: "25 Kintoun.vgz"
+    type: result
+  - id: go_go_elekers
+    title: "Go! Go! Elekers"
+    path: "28 Go! Go! Elekers.vgz"
+    type: warning
+  - id: last_battle_fj
+    title: "Last Battle"
+    path: "31 Last Battle.vgz"
+    type: warning
+  - id: history_of_heroes
+    title: "History of Heroes"
+    path: "33 History of Heroes.vgz"
+    type: result
+  - id: unused_fj
+    title: "Unused"
+    path: "35 Unused.vgz"
+    type: betting
+...
