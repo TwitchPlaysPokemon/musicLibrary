@@ -16,12 +16,10 @@ songs:
   - id: the_melting_snow_goes_along_with_the_festival
     title: "The Melting Snow Goes Along With the Festival"
     path: "43 The Melting Snow Goes Along With the Festival.miniusf"
-    tags: [xmas]
     type: betting
   - id: the_deep_flickering_white_shadow
     title: "The Deep, Flickering White Shadow"
     path: "44 The Deep, Flickering White Shadow.miniusf"
-    tags: [xmas]
     type: betting
   - id: kabuking
     title: "Kabuking"
@@ -35,4 +33,40 @@ songs:
     title: "Omitsu 2"
     path: "9X Omitsu 2.miniusf"
     type: break
+  - id: i_am_impact
+    title: "I Am Impact!"
+    path: "02 I Am Impact!.miniusf"
+    type: betting
+  - id: buy_or_leave
+    title: "Buy or Leave!"
+    path: "05 Buy or Leave!.miniusf"
+    type: break
+  - id: the_journey_begins_on_mt_fuji_road
+    title: "The Journey Begins on Mt. Fuji Road"
+    path: "07 The Journey Begins on Mt. Fuji Road.miniusf"
+    type: betting
+  - id: wait_a_sec_i_m_coming
+    title: "Wait a Sec, I'm Coming"
+    path: "08 Wait a Sec, I'm Coming.miniusf"
+    type: warning
+  - id: apparition_in_the_middle_of_the_lake
+    title: "Apparition in the Middle of the Lake"
+    path: "9X Apparition in the Middle of the Lake (without Intro).miniusf"
+    type: result
+  - id: voluptuous_cauliflower
+    title: "Voluptuous Cauliflower"
+    path: "10 Voluptuous Cauliflower.miniusf"
+    type: betting
+  - id: heartbeat_bossa_nova
+    title: "Heartbeat Bossa Nova"
+    path: "21 Heartbeat Bossa Nova.miniusf"
+    type: result
+  - id: twilight_koryuta
+    title: "Twilight Koryuta"
+    path: "23 Twilight Koryuta.miniusf"
+    type: result
+  - id: we_did_it_the_sky_is_sunny_and_so_is_japan
+    title: "We Did It! The Sky is Sunny, and So is Japan"
+    path: "59 We Did It! The Sky is Sunny, and So is Japan.miniusf"
+    type: result
 ...

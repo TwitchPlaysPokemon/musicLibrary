@@ -1,0 +1,47 @@
+---
+id: the_little_mermaid
+title: "The Little Mermaid"
+platform: "NES"
+year: 1991
+songs: 
+  - id: under_the_sea_nes
+    title: "Under the Sea"
+    path: "01 Under the Sea (Title & Ending).vgz"
+    type: betting
+  - id: story_tlmnes
+    title: "Story"
+    path: "02 Story.vgz"
+    type: betting
+  - id: stage_1_sea_of_coral
+    title: "Stage 1 - Sea of Coral"
+    path: "03 Stage 1 - Sea of Coral.vgz"
+    type: betting
+  - id: stage_2_sunken_ship
+    title: "Stage 2 - Sunken Ship"
+    path: "04 Stage 2 - Sunken Ship.vgz"
+    type: betting
+  - id: stage_3_sea_of_ice
+    title: "Stage 3 - Sea of Ice"
+    path: "05 Stage 3 - Sea of Ice.vgz"
+    type: betting
+  - id: stage_4_undersea_volcano
+    title: "Stage 4 - Undersea Volcano"
+    path: "06 Stage 4 - Undersea Volcano.vgz"
+    type: betting
+  - id: stage_5_ursula_s_castle
+    title: "Stage 5 - Ursula's Castle"
+    path: "07 Stage 5 - Ursula's Castle.vgz"
+    type: betting
+  - id: boss_tlmnes
+    title: "Boss"
+    path: "09 Boss.vgz"
+    type: warning
+  - id: ursula_tlmnes
+    title: "Ursula"
+    path: "10 Ursula (Last Boss).vgz"
+    type: warning
+  - id: stage_story
+    title: "Stage Story"
+    path: "11 Stage Story.vgz"
+    type: result
+...

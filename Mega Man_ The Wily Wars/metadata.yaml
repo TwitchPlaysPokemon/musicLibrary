@@ -36,7 +36,7 @@ songs:
   - id: dr_wily_tower_stage_2_wily_wars
     title: "Dr. Wily Tower Stage 2"
     path: "76 Wily's Tower - Wily's Tower Stage 2.vgm"
-    type: result
+    type: betting
   - id: dr_wily_tower_stage_3_wily_wars
     title: "Dr. Wily Tower Stage 3"
     path: "77 Wily's Tower - Wily's Tower Stage 3.vgm"
@@ -48,5 +48,205 @@ songs:
   - id: ending_theme_wily_wars
     title: "Ending Theme"
     path: "80 Wily's Tower - Ending Theme.vgm"
+    type: result
+  - id: opening_wily_wars
+    title: "Opening"
+    path: "01 - Opening.vgz"
+    type: break
+  - id: file_select_wily_wars
+    title: "File Select"
+    path: "03 - File Select.vgm"
+    type: warning
+  - id: game_select_dr_light_lab
+    title: "Game Select ~ Dr. Light Lab.vgm"
+    path: 04 - Game Select ~ Dr. Light Lab.vgm"
+    type: result
+  - id: mega_man_stage_select_wily_wars
+    title: "Mega Man - Stage Select"
+    path: "05 - Mega Man - Stage Select.vgm"
+    type: warning
+  - id: cut_man_stage_wily_wars
+    title: "Cut Man Stage"
+    path: "07 - Mega Man - Cut Man Stage.vgm"
+    type: betting
+  - id: guts_man_stage_wily_wars
+    title: "Guts Man Stage"
+    path: "08 - Mega Man - Guts Man Stage.vgm"
+    type: betting
+  - id: ice_man_stage_wily_wars
+    title: "Ice Man Stage"
+    path: "09 - Mega Man - Ice Man Stage.vgm"
+    type: betting
+  - id: bomb_man_stage_wily_wars
+    title: "Bomb Man Stage"
+    path: "10 - Mega Man - Bomb Man Stage.vgm"
+    type: betting
+  - id: fire_man_stage_wily_wars
+    title: "Fire Man Stage"
+    path: "11 - Mega Man - Fire Man Stage.vgm"
+    type: betting
+  - id: elec_man_stage_wily_wars
+    title: "Elec Man Stage"
+    path: "12 - Mega Man - Elec Man Stage.vgm"
+    type: betting
+  - id: mega_man_boss
+    title: "Mega Man - Boss"
+    path: "13 - Mega Man - Boss.vgm"
+    type: warning
+  - id: mega_man_dr_wily_stage_1
+    title: "Mega Man - Dr. Wily Stage 1"
+    path: "15 - Mega Man - Dr. Wily Stage 1.vgm"
+    type: betting
+  - id: mega_man_dr_wily_stage_2
+    title: "Mega Man - Dr. Wily Stage 2"
+    path: "16 - Mega Man - Dr. Wily Stage 2.vgm"
+    type: betting
+  - id: mega_man_dr_wily_stage_boss
+    title: "Mega Man - Dr Wily Stage Boss.vgm"
+    path: "17 - Mega Man - Dr Wily Stage Boss.vgm"
+    type: warning
+  - id: mega_man_ending_wily_wars
+    title: "Mega Man - Ending"
+    path: "18 - Mega Man - Ending.vgm"
+    type: result
+  - id: mega_man_2_continue
+    title: "Mega Man 2 - Continue"
+    path: "22 - Mega Man 2 - Continue.vgm"
+    type: result
+  - id: mega_man_2_stage_select
+    title: "Mega Man 2 - Stage Select"
+    path: "23 - Mega Man 2 - Stage Select.vgm"
+    type: warning
+  - id: metal_man_wily_wars
+    title: "Metal Man Stage"
+    path: "25 - Mega Man 2 - Metal Man Stage.vgm"
+    type: betting
+  - id: air_man_wily_wars
+    title: "Air Man Stage"
+    path: "26 - Mega Man 2 - Air Man Stage.vgm"
+    type: betting
+  - id: bubble_man_wily_wars
+    title: "Bubble Man Stage"
+    path: "27 - Mega Man 2 - Bubble Man Stage.vgm"
+    type: betting
+  - id: quick_man_wily_wars
+    title: "Quick Man Stage"
+    path: "28 - Mega Man 2 - Quick Man Stage.vgm"
+    type: betting
+  - id: crash_man_wily_wars
+    title: "Crash Man Stage"
+    path: "29 - Mega Man 2 - Crash Man Stage.vgm"
+    type: betting
+  - id: flash_man_wily_wars
+    title: "Flash Man Stage"
+    path: "30 - Mega Man 2 - Flash Man Stage.vgm"
+    type: betting
+  - id: heat_man_wily_wars
+    title: "Heat Man Stage"
+    path: "31 - Mega Man 2 - Heat Man Stage.vgm"
+    type: betting
+  - id: wood_man_wily_wars
+    title: "Wood Man Stage"
+    path: "32 - Mega Man 2 - Wood Man Stage.vgm" #nice >:]
+    type: betting
+  - id: mega_man_2_wily_stage_1
+    title: "Mega Man 2 - Dr. Wily Stage 1"
+    path: "36 - Mega Man 2 - Dr. Wily Stage 1.vgm"
+    type: betting
+  - id: mega_man_2_wily_stage_2
+    title: "Mega Man 2 - Dr. Wily Stage 2"
+    path: "37 - Mega Man 2 - Dr. Wily Stage 2.vgm"
+    type: warning
+  - id: mega_man_2_boss
+    title: "Mega Man 2 - Boss"
+    path: "38 - Mega Man 2 - Boss.vgm"
+    type: warning
+  - id: mega_man_2_ending
+    title: "Mega Man 2 - Ending"
+    path: "40 - Mega Man 2 - Ending.vgm"
+    type: result
+  - id: mega_man_2_staff_roll
+    title: "Mega Man 2 - Staff Roll"
+    path: "41 - Mega Man 2 - Staff Roll.vgm"
+    type: result
+  - id: mega_man_3_title
+    title: "Mega Man 3 - Title"
+    path: "44 - Mega Man 3 - Title.vgm"
+    type: betting
+  - id: mega_man_3_game_over_continue
+    title: "Mega Man 3 - Game Over ~ Continue"
+    path: "45 - Mega Man 3 - Game Over ~ Continue.vgm"
+    type: result
+  - id: mega_man_3_stage_select
+    title: "Mega Man 3 - Stage Select"
+    path: "46 - Mega Man 3 - Stage Select.vgm"
+    type: warning
+  - id: needle_man_wily_wars
+    title: "Needle Man Stage"
+    path: "48 - Mega Man 3 - Needle Man Stage.vgm"
+    type: betting
+  - id: magnet_man_wily_wars
+    title: "Magnet Man Stage"
+    path: "49 - Mega Man 3 - Magnet Man Stage.vgm"
+    type: betting
+  - id: gemini_man_wily_wars
+    title: "Gemini Man Stage"
+    path: "50 - Mega Man 3 - Gemini Man Stage.vgm"
+    type: betting
+  - id: hard_man_wily_wars
+    title: "Hard Man Stage"
+    path: "51 - Mega Man 3 - Hard Man Stage.vgm"
+    type: betting
+  - id: top_man_stage_wily_wars
+    title: "Top Man Stage"
+    path: "52 - Mega Man 3 - Top Man Stage.vgz"
+    type: battle
+  - id: snake_man_wily_wars
+    title: "Snake Man Stage"
+    path: "53 - Mega Man 3 - Snake Man Stage.vgm"
+    type: battle
+  - id: spark_man_wily_wars
+    title: "Spark Man Stage"
+    path: "54 - Mega Man 3 - Spark Man Stage.vgm"
+    type: battle
+  - id: shadow_man_wily_wars
+    title: "Shadow Man Stage"
+    path: "55 - Mega Man 3 - Shadow Man Stage.vgm"
+    type: betting
+  - id: mega_man_3_boss
+    title: "Mega Man 3 - Boss"
+    path: "56 - Mega Man 3 - Boss.vgm"
+    type: battle
+  - id: mega_man_3_get_a_weapon
+    title: "Mega Man 3 - Get a Weapon"
+    path: "58 - Mega Man 3 - Get a Weapon.vgm"
+    type: result
+  - id: mega_man_3_dr_wily_stage_1
+    title: "Mega Man 3 - Dr. Wily Stage 1"
+    path: "60 - Mega Man 3 - Dr. Wily Stage 1.vgm"
+    type: betting
+  - id: mega_man_3_dr_wily_stage_2
+    title: "Mega Man 3 - Dr. Wily Stage 2"
+    path: "61 - Mega Man 3 - Dr. Wily Stage 2.vgm"
+    type: betting
+  - id: mega_man_3_dr_wily_stage_3
+    title: "Mega Man 3 - Dr. Wily Stage 3"
+    path: "62 - Mega Man 3 - Dr. Wily Stage 3.vgm"
+    type: warning
+  - id: mega_man_3_dr_wily_boss
+    title: "Mega Man 3 - Dr. Wily Boss"
+    path: "63 - Mega Man 3 - Dr. Wily Boss.vgm"
+    type: warning
+  - id: mega_man_3_ending
+    title: "Mega Man 3 - Ending"
+    path: "65 - Mega Man 3 - Ending.vgm"
+    type: break
+  - id: mega_man_3_staff_roll
+    title: "Mega Man 3 - Staff Roll"
+    path: "66 - Mega Man 3 - Staff Roll.vgm"
+    type: betting
+  - id: unused_wily_wars
+    title: "Unused"
+    path: "82 - Unused.vgm"
     type: result
 ...

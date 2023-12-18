@@ -1,0 +1,20 @@
+---
+id: mr_bones
+title: "Mr. Bones"
+platform: "SAT"
+year: 1996
+#Dom requested this. These were the only tracks I could match names to.
+songs:
+  - id: shadow_monster
+    title: "Shadow Monster"
+    path: "GS-9127_Disc_2_Track_07.flac"
+    type: betting
+  - id: the_village_mr_bones
+    title: "The Village"
+    path: "GS-9127_Disc_2_Track_09.flac"
+    type: betting
+  - id: mausoleum_mr_bones
+    title: "Mausoleum"
+    path: "GS-9127_Disc_1_Track_06.flac"
+    type: break
+...

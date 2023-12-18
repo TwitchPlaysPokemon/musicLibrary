@@ -1,0 +1,19 @@
+---
+id: monkey_shines
+title: "Monkey Shines"
+platform: "PC" #Mac
+year: 1997
+songs:
+  - id: in_the_drink_ms
+    title: "In the Drink"
+    path: "In_The_Drink.brstm"
+    type: betting
+  - id: spaced_out_ms
+    title: "Spaced Out"
+    path: "Spaced_Out.brstm"
+    type: betting
+  - id: spooked_ms
+    title: "Spooked"
+    path: "Spooked.brstm"
+    type: betting
+...

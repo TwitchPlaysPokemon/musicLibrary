@@ -48,4 +48,12 @@ songs:
     title: "Milky Ways"
     path: "Milky Ways.brstm"
     type: battle
+  - id: at_the_speed_of_light
+    title: "At the Speed of Light"
+    path: "At the Speed of Light.brstm"
+    type: battle
+  - id: bossfight_geometry_dash
+    title: "Bossfight"
+    path: "Bossfight.brstm"
+    type: battle
 ...

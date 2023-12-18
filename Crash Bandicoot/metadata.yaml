@@ -1,0 +1,16 @@
+---
+id: crash_bandicoot
+title: "Crash Bandicoot"
+series: crashbandicoot
+platform: "PS1"
+year: 1996
+songs:
+  - id: n_sanity_beach
+    title: "N. Sanity Beach"
+    path: "01. Title, N. Sanity Beach.psf"
+    type: betting
+  - id: tawna_japanese_ver
+    title: "Tawna (Japanese ver.)"
+    path: "28. Tawna (Japan).psf"
+    type: result
+...

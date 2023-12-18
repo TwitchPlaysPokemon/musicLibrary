@@ -1,0 +1,139 @@
+---
+id: star_fox_exploration_showcase
+title: "Star Fox Exploration Showcase"
+series: starfox
+platform: "SNES"
+is_fanwork: true 
+year: 2021
+#the mod devs offered the SPC files directly. Couldn't resist. 
+#did my best with categories. they can be changed if needed
+songs:
+  - id: ex
+    title: "EX"
+    path: "00 EX.spc"
+    type: result
+  - id: exploratorium
+    title: "Exploratorium"
+    path: "10 Exploratorium.spc"
+    type: betting
+  - id: point_of_no_return
+    title: "POINT OF NO RETURN"
+    path: "20 POINT OF NO RETURN.spc"
+    type: warning
+  - id: a_new_map
+    title: "A New Map"
+    path: "40 A New Map.spc"
+    type: result
+  - id: star_glider_proto_space
+    title: "Star Glider Proto Space"
+    path: "50 Star Glider Proto Space.spc"
+    type: betting
+  - id: linktron
+    title: "Linktron"
+    path: "60 Linktron.spc"
+    type: warning
+  - id: gekkou
+    title: "Gekkou"
+    path: "70 Gekkou.spc"
+    type: battle
+  - id: black_rose
+    title: "Black Rose"
+    path: "80 Black Rose.spc"
+    type: warning
+  - id: sector_k
+    title: "Sector K"
+    path: "90 Sector K.spc"
+    type: warning
+  - id: alpha_sfex
+    title: "Alpha"
+    path: "110 Alpha.spc"
+    type: warning
+  - id: king_dodora
+    title: "King Dodora"
+    path: "120 King Dodora.spc"
+    type: warning
+  - id: pebble_beach
+    title: "Pebble Beach"
+    path: "130 Pebble Beach.spc"
+    type: betting
+  - id: luigi_hydra
+    title: "Luigi Hydra"
+    path: "140 Luigi Hydra.spc"
+    type: warning
+  - id: once_upon_a_rush
+    title: "Once Upon A Rush"
+    path: "150 Once Upon A Rush.spc"
+    type: betting
+  - id: cygard
+    title: "Cygard"
+    path: "160 Cygard.spc"
+    type: betting
+  - id: zeromus
+    title: "Zeromus"
+    path: "170 Zeromus.spc"
+    type: battle
+  - id: tolimas
+    title: "Tolimas"
+    path: "180 Tolimas.spc"
+    type: warning
+  - id: gyaraga
+    title: "Gyaraga"
+    path: "190 Gyaraga.spc"
+    type: warning
+  - id: papetoon
+    title: "Papetoon"
+    path: "200 Papetoon.spc"
+    type: betting
+  - id: galaxip
+    title: "Galaxip"
+    path: "210 Galaxip.spc"
+    type: warning
+  - id: eis
+    title: "Eis"
+    path: "220 Eis.spc"
+    type: betting
+  - id: rexius
+    title: "Rexius"
+    path: "230 Rexius.spc"
+    type: warning
+  - id: kuraudo
+    title: "Kuraudo"
+    path: "240 Kuraudo.spc"
+    type: battle
+  - id: air_raider_sfex
+    title: "Air Raider"
+    path: "250 Air Raider.spc"
+    type: warning
+  - id: assault_on_kazaru
+    title: "Assault on Kazaru"
+    path: "260 Assault on Kazaru.spc"
+    type: betting
+  - id: star_wolf_sfex
+    title: "Star Wolf"
+    path: "270 Star Wolf.spc"
+    type: warning
+  - id: entering_the_pipe
+    title: "Entering the Pipe"
+    path: "280 Entering the Pipe.spc"
+    type: warning
+  - id: brobot_attack
+    title: "Brobot Attack!"
+    path: "290 Brobot Attack!.spc"
+    type: warning
+  - id: we_are_the_mario_bros
+    title: "We Are The Mario Bros"
+    path: "300 We Are The Mario Bros.spc"
+    type: warning
+  - id: suisei
+    title: "Suisei"
+    path: "320 Suisei.spc"
+    type: warning
+  - id: yoshisaur
+    title: "Yoshisaur"
+    path: "330 Yoshisaur.spc"
+    type: battle
+  - id: endless_australia
+    title: "Endless Australia"
+    path: "340 Endless Australia.spc"
+    type: betting
+...

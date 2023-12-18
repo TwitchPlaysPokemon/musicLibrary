@@ -1,0 +1,32 @@
+---
+id: the_legend_of_zelda_tears_of_the_kingdom
+title: "The Legend of Zelda: Tears of the Kingdom"
+series: zelda
+platform: "Switch"
+year: 2023
+songs:
+  - id: boss_colgera_phase_1
+    title: "Boss - Colgera (Phase 1)"
+    path: "Boss - Colgera (Phase 1).brstm"
+    type: battle
+  - id: boss_colgera_phase_2
+    title: "Boss - Colgera (Phase 2)"
+    path: "Boss - Colgera (Phase 2).brstm"
+    type: battle
+  - id: boss_master_kohga
+    title: "Boss - Master Kohga"
+    path: "Boss - Master Kohga.brstm"
+    type: battle
+  - id: boss_queen_gibdo_phase_2
+    title: "Boss - Queen Gibdo (Phase 2)"
+    path: "Boss - Queen Gibdo (Phase 2).brstm"
+    type: battle
+  - id: boss_seized_construct_phase_2
+    title: "Boss - Seized Construct (Phase 2)"
+    path: "Boss - Seized Construct (Phase 2).brstm"
+    type: battle
+  - id: battle_frox
+    title: "Battle - Frox"
+    path: "Battle - Frox.brstm"
+    type: battle
+...

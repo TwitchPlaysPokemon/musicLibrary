@@ -1,0 +1,39 @@
+---
+id: one_step_from_eden
+title: "One Step From Eden"
+platform: ["PC", "Switch", "PS4"]
+year: 2020
+#didn't have the motivation to make these into brstms, but all of them should be formatted
+#so that there's no need to do so anyway
+songs:
+  - id: main_theme_osfe
+    title: "Main Theme"
+    path: "Main_Theme(extended).wav"
+    ends: 2:30
+    type: betting
+  - id: innocence_lost
+    title: "Innocence Lost"
+    path: "Innocence_Lost.wav"
+    ends: 2:23
+    type: betting
+  - id: chaos_in_paradise
+    title: "Chaos in Paradise"
+    path: "Chaos_in_Paradise.wav"
+    type: betting
+  - id: victory_osfe
+    title: "Victory"
+    path: "Victory.wav"
+    type: result
+  - id: flawless_osfe
+    title: "Flawless"
+    path: "Flawless.wav"
+    type: result
+  - id: defeat_osfe
+    title: "Defeat"
+    path: "Defeat.wav"
+    type: result
+  - id: merciless_osfe
+    title: "Merciless"
+    path: "Merciless.wav"
+    type: warning
+...

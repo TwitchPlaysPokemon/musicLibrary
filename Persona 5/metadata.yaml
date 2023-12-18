@@ -103,4 +103,9 @@ songs:
     title: "The Whims of Fate"
     path: "bgm_450.adx"
     type: betting
+  - id: welcome_back_master_heart
+    title: "Welcome Back! Master ♥"
+    path: "Welcome Back! Master.brstm" 
+    #This theme was used as Lillie's battle music in the Pokémon Star romhack, so...
+    type: battle
 ...

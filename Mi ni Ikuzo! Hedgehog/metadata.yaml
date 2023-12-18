@@ -1,0 +1,25 @@
+---
+id: mi_ni_ikuzo_hedgehog
+title: "Mi ni Ikuzo! Hedgehog"
+series: sonic
+platform: "X68000"
+year: 1993
+is_fanwork: true
+songs: 
+  - id: final_zone_mnih
+    title: "Final Zone"
+    path: "01 Final Zone.vgz"
+    type: betting
+  - id: special_stage_mnih
+    title: "Special Stage"
+    path: "02 Special Stage.vgz"
+    type: betting
+  - id: act_cleared_mnih
+    title: "Act Cleared"
+    path: "03 Act Cleared.vgz"
+    type: result
+  - id: game_over_mnih
+    title: "Game Over"
+    path: "04 Game Over.vgz"
+    type: result
+...

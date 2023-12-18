@@ -1,0 +1,20 @@
+---
+id: super_bomberman_r_online
+title: "Super Bomberman R Online"
+series: bomberman
+platform: ["XBone", "PS4", "Stadia"]
+year: 2021
+songs:
+  - id: robowarrior_bgm1_sbmro
+    title: "RoboWarrior: Overworld 1"
+    path: "bgm_btl_arr_bk_king.brstm"
+    type: battle
+  - id: sbm2_battle_1_sbmro
+    title: "Super Bomberman 2: Battle 1"
+    path: "bgm_btl_online_01.brstm"
+    type: battle
+  - id: you_are_bomber_number_one
+    title: "You are Bomber One!"
+    path: "bgm_roy_result_win.brstm"
+    type: result
+...

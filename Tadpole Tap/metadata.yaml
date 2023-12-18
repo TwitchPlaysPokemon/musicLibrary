@@ -1,0 +1,27 @@
+---
+id: tadpole_tap
+title: "Tadpole Tap"
+platform: "Mobile"
+year: 2015
+songs: 
+  - id: anxiety_attack
+    title: "Anxiety Attack"
+    path: "Anxiety Attack.brstm"
+    type: warning
+  - id: anxiety_flood
+    title: "Anxiety Flood"
+    path: "Anxiety Flood.brstm"
+    type: battle
+  - id: oh_well
+    title: "Oh Well"
+    path: "Oh Well.brstm"
+    type: result
+  - id: tadpole_tap
+    title: "Tadpole Tap"
+    path: "Tadpole Tap.brstm"
+    type: betting
+  - id: you_are_terrible
+    title: "You Are Terrible"
+    path: "You Are Terrible.brstm"
+    type: betting
+...

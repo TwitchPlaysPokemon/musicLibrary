@@ -16,10 +16,49 @@ songs:
   - id: get_into_the_wave
     title: "Character Select ~ Get Into the Wave"
     path: "Character Select ~ Get Into the Wave.brstm"
-    type: warning # haunted? wont get off of betting
+    type: betting #let's see if this works
   - id: death_egg_hurry_up
     title: "Death Egg Hanger ~ Hurry Up"
     path: "Death Egg Hanger ~ Hurry Up.brstm"
     type: warning
-
+  - id: casino_night_here_we_go
+    title: "Casino Night ~ Here We Go"
+    path: "Casino Night ~ Here We Go.brstm"
+    type: battle
+  - id: dynamite_plant_try_again
+    title: "Dynamite Plant ~ Try Again"
+    path: "Dynamite Plant ~ Try Again.brstm"
+    type: betting
+  - id: canyon_cruise_blue_garden
+    title: "Canyon Cruise ~ Blue Garden"
+    path: "Canyon Cruise ~ Blue Garden.brstm"
+    type: betting
+  - id: sonic_vs_knuckles_north_wind
+    title: "Sonic Vs. Knuckles ~ North Wind"
+    path: "Sonic Vs. Knuckles ~ North Wind.brstm"
+    type: battle
+  - id: south_island_lovers
+    title: "South Island ~ Lovers"
+    path: "South Island ~ Lovers.brstm"
+    type: betting
+  - id: flying_carpet_back_to_soul
+    title: "Flying Carpet ~ Back To Soul"
+    path: "Flying Carpet ~ Back To Soul.brstm"
+    type: battle
+  - id: aurora_icefield_black_bed
+    title: "Aurora Icefield ~ Black Bed"
+    path: "Aurora Icefield ~ Black Bed.brstm"
+    type: betting
+  - id: death_egg_s_eye_never_let_it_go
+    title: "Death Egg's Eye ~ Never Let It Go"
+    path: "Death Egg's Eye ~ Never Let It Go (Better Loop).brstm"
+    type: battle
+  - id: character_select_bonus_track_1
+    title: "Character Select ~ Bonus Track 1"
+    path: "Character Select ~ Bonus Track 1.brstm"
+    type: betting
+  - id: name_entry_what_s_your_name
+    title: "Name Entry ~ What's Your Name?"
+    path: "Name Entry ~ What's Your Name_.brstm"
+    type: result
 ...

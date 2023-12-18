@@ -1,0 +1,23 @@
+---
+id: monster_crown
+title: "Monster Crown"
+platform: ["PC", "Switch", "PS4", "XB1"]
+year: 2021
+songs:
+  - id: a_rainy_day
+    title: "A Rainy Day"
+    path: "A Rainy Day.brstm"
+    type: break
+  - id: beyond_the_shore
+    title: "Beyond the Shore"
+    path: "Beyond the Shore.brstm"
+    type: betting
+  - id: fight_against_a_legendary_being
+    title: "Fight! Against a Legendary Being"
+    path: "Fight! Against a Legendary Being.brstm"
+    type: battle
+  - id: the_barn_fusion_facility
+    title: "The Barn ~ Fusion Facility"
+    path: "The Barn ~ Fusion Facility.brstm"
+    type: betting
+...

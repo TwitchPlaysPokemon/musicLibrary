@@ -1,0 +1,71 @@
+---
+id: friday_night_funkin_indie_cross
+title: "Friday Night Funkin': Indie Cross"
+platform: "PC"
+year: 2022
+is_fanwork: true
+songs: 
+  - id: menu_indie_cross
+    title: "Menu"
+    path: "Menu.logg"
+    type: betting
+  - id: snake_eyes_instrumental
+    title: "Snake Eyes (Instrumental)"
+    path: "Snake Eyes (Instrumental).brstm"
+    type: betting
+  - id: technicolor_tussle_instrumental
+    title: "Technicolor Tussle (Instrumental)"
+    path: "Technicolor Tussle (Instrumental).ogg"
+    type: betting
+  - id: knockout_instrumental
+    title: "Knockout (Instrumental)"
+    path: "Knockout (Instrumental).brstm"
+    type: battle
+  - id: devil_s_gambit_instrumental
+    title: "Devil's Gambit (Instrumental)"
+    path: "Devil's Gambit (Instrumental).brstm"
+    type: battle
+  - id: sansational_intrumental
+    title: "Sansational (Instrumental)"
+    path: "Sansational (Instrumental).ogg"
+    ends: 2:09
+    type: betting
+  - id: final_stretch_instrumental
+    title: "Final Stretch (Instrumental)"
+    path: "Final Stretch (Instrumental).brstm"
+    type: battle
+  - id: burning_in_hell_instrumental
+    title: "Burning In Hell (Instrumental)"
+    path: "Burning In Hell (Instrumental).brstm"
+    type: battle
+  - id: game_over_sans
+    title: "Game Over (Sans)"
+    path: "Game Over (Sans).brstm"
+    type: result
+  - id: last_reel_instrumental
+    title: "Last Reel (Instrumental)"
+    path: "Last Reel (Instrumental).brstm"
+    type: battle
+  - id: nightmare_run_instrumental
+    title: "Nightmare Run (Instrumental)"
+    path: "Nightmare Run (Instrumental).brstm"
+    type: battle
+  - id: bonedoggle_instrumental
+    title: "Bonedoggle (Instrumental)"
+    path: "Bonedoggle (Instrumental).ogg"
+    ends: 2:05
+    type: betting
+  - id: bad_to_the_bone_intrumental
+    title: "Bad to the Bone (Instrumental)"
+    path: "Bad to the Bone (Instrumental).logg"
+    type: betting
+  - id: ritual_instrumental
+    title: "Ritual (Instrumental)"
+    path: "Ritual (Instrumental).brstm"
+    ends: 2:03
+    type: betting
+  - id: freaky_machine_intrumental
+    title: "Freaky Machine (Instrumental)"
+    path: "Freaky Machine (Instrumental).ogg"
+    type: betting
+...

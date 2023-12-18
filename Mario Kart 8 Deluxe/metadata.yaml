@@ -4,7 +4,6 @@ title: "Mario Kart 8 Deluxe"
 series: mario
 platform: "Switch"
 year: 2017
-#also redid the MK8D files with new rips, as these separate all the sounds
 songs:
   - id: 3ds_wuhu_town
     title: "3DS Wuhu Town"
@@ -163,4 +162,278 @@ songs:
     title: "Sky-High Sundae (Final Lap)"
     path: "pBGM_Cnsw_28_F_MAIN.txtp"
     type: warning
+  - id: tour_london_loop
+    title: "Tour London Loop"
+    path: "BRIT_N_MAIN.txtp"
+    type: betting
+  - id: tour_london_loop_final_lap
+    title: "Tour London Loop (Final Lap)"
+    path: "BRIT_F_MAIN.txtp"
+    type: battle
+  - id: ds_peach_gardens
+    title: "DS Peach Gardens"
+    path: "PEACH_N_MAIN.txtp"
+    type: betting
+  - id: ds_peach_gardens_final_lap
+    title: "DS Peach Gardens (Final Lap)"
+    path: "PEACH_F_MAIN.txtp"
+    type: warning
+  - id: gba_boo_lake
+    title: "GBA Boo Lake"
+    path: "BOO_N_MAIN.txtp"
+    type: betting
+  - id: gba_boo_lake_final_lap
+    title: "GBA Boo Lake (Final Lap)"
+    path: "BOO_F_MAIN.txtp"
+    type: warning
+  - id: 3ds_rock_rock_mountain
+    title: "3DS Rock Rock Mountain"
+    path: "ROCK_N_MAIN.txtp"
+    type: betting
+  - id: 3ds_rock_rock_mountain_final_lap
+    title: "3DS Rock Rock Mountain (Final Lap)"
+    path: "ROCK_F_MAIN.txtp"
+    type: battle
+  - id: tour_berlin_byways
+    title: "Tour Berlin Byways"
+    path: "KRAUT_N_MAIN.txtp"
+    type: betting
+  - id: tour_berlin_byways_final_lap
+    title: "Tour Berlin Byways (Final Lap)"
+    path: "KRAUT_F_MAIN.txtp"
+    type: battle
+  - id: gcn_waluigi_stadium
+    title: "GCN Waluigi Stadium"
+    path: "WAH_N_MAIN.txtp"
+    type: betting
+  - id: gcn_waluigi_stadium_final_lap
+    title: "GCN Waluigi Stadium (Final Lap)"
+    path: "WAH_F_MAIN.txtp"
+    type: warning
+  - id: tour_merry_mountain
+    title: "Tour Merry Mountain"
+    path: "HOHOHO_N_MAIN.txtp"
+    type: betting
+  - id: tour_merry_mountain_final_lap
+    title: "Tour Merry Mountain (Final Lap)"
+    path: "HOHOHO_F_MAIN.txtp"
+    type: warning
+  - id: 3ds_rainbow_road
+    title: "3DS Rainbow Road"
+    path: "SPACE_N_MAIN_A.txtp"
+    type: betting
+  - id: 3ds_rainbow_road_moon
+    title: "3DS Rainbow Road (Moon)"
+    path: "SPACE_N_MAIN_B.txtp"
+    type: betting
+  - id: 3ds_rainbow_road_final_lap
+    title: "3DS Rainbow Road (Final Lap)"
+    path: "SPACE_F_MAIN_A.txtp"
+    type: warning
+  - id: tour_amsterdam_drift
+    title: "Tour Amsterdam Drift"
+    path: "DUTCH_N_MAIN.txtp"
+    type: betting
+  - id: tour_amsterdam_drift_final_lap
+    title: "Tour Amsterdam Drift (Final Lap)"
+    path: "DUTCH_F_MAIN.txtp"
+    type: warning
+  - id: wii_dk_summit
+    title: "Wii DK Summit"
+    path: "DK_N_MAIN.txtp"
+    type: betting
+  - id: wii_dk_summit_final_lap
+    title: "Wii DK Summit (Final Lap)"
+    path: "DK_F_MAIN.txtp"
+    type: warning
+  - id: ds_mario_circuit
+    title: "DS Mario Circuit"
+    path: "WAHOO_N_MAIN.txtp"
+    type: betting
+  - id: ds_mario_circuit_final_lap
+    title: "DS Mario Circuit (Final Lap)"
+    path: "WAHOO_F_MAIN.txtp"
+    type: warning
+  - id: yoshi_s_island_mk8d
+    title: "Yoshi's Island"
+    path: "YOSH_N_MAIN.txtp"
+    type: betting
+  - id: yoshi_s_island_final_lap
+    title: "Yoshi's Island (Final Lap)"
+    path: "YOSH_F_MAIN.txtp"
+    type: warning
+  - id: yoshi_s_island_results
+    title: "Yoshi's Island (Results)"
+    path: "YOSH_RESULT.bfstm"
+    type: result
+  - id: tour_singapore_speedway
+    title: "Tour Singapore Speedway"
+    path: "SNG_N_MAIN_A.txtp"
+    type: betting
+  - id: tour_singapore_speedway_chinatown
+    title: "Tour Singapore Speedway (Chinatown)"
+    path: "SNG_N_MAIN_B.txtp"
+    type: betting
+  - id: tour_singapore_speedway_final_lap
+    title: "Tour Singapore Speedway (Final Lap)"
+    path: "SNG_F_MAIN_A.txtp"
+    type: battle
+  - id: tour_singapore_speedway_chinatown_final_lap
+    title: "Tour Singapore Speedway (Chinatown - Final Lap)"
+    path: "SNG_F_MAIN_B.txtp"
+    type: battle
+  - id: gba_riverside_park
+    title: "GBA Riverside Park"
+    path: "RIVER_N_MAIN.txtp"
+    type: betting
+  - id: gba_riverside_park_final_lap
+    title: "GBA Riverside Park (Final Lap)"
+    path: "RIVER_F_MAIN.txtp"
+    type: warning
+  - id: tour_bankok_rush
+    title: "Tour Bankok Rush"
+    path: "THAI_N_MAIN.txtp"
+    type: betting
+  - id: tour_bankok_rush_final_lap
+    title: "Tour Bankok Rush (Final Lap)"
+    path: "THAI_F_MAIN.txtp"
+    type: warning
+  - id: wii_maple_treeway
+    title: "Wii Maple Treeway"
+    path: "KAEDE_N_MAIN.txtp"
+    type: betting
+  - id: wii_maple_treeway_final_lap
+    title: "Wii Maple Treeway (Final Lap)"
+    path: "KAEDE_F_MAIN.txtp"
+    type: warning
+  - id: tour_vancouver_velocity
+    title: "Tour Vancouver Velocity"
+    path: "CANNUCK_N_MAIN.txtp"
+    type: betting
+  - id: tour_vancouver_velocity_final_lap
+    title: "Tour Vancouver Velocity (Final Lap)"
+    path: "CANNUCK_F_MAIN.txtp"
+    type: warning
+  - id: squeaky_clean_sprint
+    title: "Squeaky Clean Sprint"
+    path: "CLEAN_N_MAIN.txtp"
+    type: betting
+  - id: squeaky_clean_sprint_final_lap
+    title: "Squeaky Clean Sprint (Final Lap)"
+    path: "CLEAN_F_MAIN.txtp"
+    type: warning
+  - id: wii_koopa_cape
+    title: "Wii Koopa Cape"
+    path: "COOPAKAPE_N_MAIN_A.txtp"
+    type: betting
+  - id: wii_koopa_cape_underwater
+    title: "Wii Koopa Cape (Underwater)"
+    path: "COOPAKAPE_N_MAIN_B.txtp"
+    type: betting
+  - id: wii_koopa_cape_riverside
+    title: "Wii Koopa Cape (Riverside)"
+    path: "COOPAKAPE_N_MAIN_C.txtp"
+    type: betting
+  - id: wii_koopa_cape_final_lap
+    title: "Wii Koopa Cape (Final Lap)"
+    path: "COOPAKAPE_F_MAIN_A.txtp"
+    type: warning
+  - id: gcn_daisy_cruiser
+    title: "GCN Daisy Cruiser"
+    path: "CRUISER_N_MAIN.txtp"
+    type: betting
+  - id: gcn_daisy_cruiser_final_lap
+    title: "GCN Daisy Cruiser (Final Lap)"
+    path: "CRUISER_F_MAIN.txtp"
+    type: warning
+  - id: wii_moonview_highway
+    title: "Wii Moonview Highway"
+    path: "GASGASGAS_N_MAIN_A.txtp"
+    type: betting
+  - id: wii_moonview_highway_cityscape
+    title: "Wii Moonview Highway (Cityscape)"
+    path: "GASGASGAS_N_MAIN_B.txtp"
+    type: betting
+  - id: wii_moonview_highway_final_lap
+    title: "Wii Maple Treeway (Final Lap)"
+    path: "GASGASGAS_F_MAIN_A.txtp"
+    type: warning
+  - id: wii_moonview_highway_cityscape_final_lap
+    title: "Wii Maple Treeway (Cityscape - Final Lap)"
+    path: "GASGASGAS_F_MAIN_A.txtp"
+    type: warning
+  - id: tour_athens_dash
+    title: "Tour Athens Dash"
+    path: "GRECO_N_MAIN.txtp"
+    type: result
+  - id: tour_athens_dash_final_lap
+    title: "Tour Athens Dash (Final Lap)"
+    path: "GRECO_F_MAIN.txtp"
+    type: warning
+  - id: gba_sunset_wilds
+    title: "GBA Sunset Wilds"
+    path: "SPAGHETTI_N_MAIN.txtp"
+    type: betting
+  - id: gba_sunset_wilds_final_lap
+    title: "GBA Sunset Wilds (Final Lap)"
+    path: "SPAGHETTI_F_MAIN.txtp"
+    type: warning
+  - id: tour_los_angeles_laps
+    title: "Tour Los Angeles Laps"
+    path: "THEANGELS_N_MAIN.txtp"
+    type: betting
+  - id: tour_los_angeles_laps_final_lap
+    title: "Tour Los Angeles Laps (Final Lap)"
+    path: "THEANGELS_F_MAIN.txtp"
+    type: warning
+#final track pack. I was waiting for raw files but nobody uploaded them so yeah
+#if we get raws I'll replace them I guess???
+  - id: tour_piranha_plant_cove
+    title: "Tour Piranha Plant Cove"
+    path: "Tour Piranha Plant Cove.brstm"
+    type: betting
+  - id: wii_daisy_circuit
+    title: "Wii Daisy Circuit"
+    path: "Wii Daisy Circuit.brstm"
+    type: betting
+  - id: tour_madrid_drive
+    title: "Tour Madrid Drive"
+    path: "Tour Madrid Drive.brstm"
+    type: betting
+  - id: tour_madrid_drive_inside
+    title: "Tour Madrid Drive (Inside)"
+    path: "Tour Madrid Drive (Inside).brstm"
+    type: warning
+  - id: tour_madrid_drive_stadium
+    title: "Tour Madrid Drive (Stadium)"
+    path: "Tour Madrid Drive (Stadium).brstm"
+    type: battle
+  - id: tour_rome_avanti
+    title: "Tour Rome Avanti"
+    path: "Tour Rome Avanti.brstm"
+    type: betting
+  - id: 3ds_rosalina_s_ice_world
+    title: "3DS Rosalina's Ice World"
+    path: "3DS Rosalina's Ice World.brstm"
+    type: betting
+  - id: gcn_dk_mountain
+    title: "GCN DK Mountain"
+    path: "GCN DK Mountain.brstm"
+    type: betting
+  - id: snes_bowser_castle_3
+    title: "SNES Bowser Castle 3"
+    path: "SNES Bowser Castle 3.brstm"
+    type: battle
+  - id: wii_rainbow_road
+    title: "Wii Rainbow Road"
+    path: "Wii Rainbow Road.brstm"
+    type: betting
+  - id: wii_rainbow_road_final_lap
+    title: "Wii Rainbow Road (Final Lap)"
+    path: "Wii Rainbow Road (Final Lap).brstm"
+    type: warning
+  - id: staff_roll_booster_course_pass
+    title: "Staff Roll (Booster Course Pass)"
+    path: "Staff Roll (Booster Course Pass).brstm"
+    type: betting
 ...

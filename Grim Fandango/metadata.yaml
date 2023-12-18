@@ -3,10 +3,12 @@ id: grim_fandango
 title: "Grim Fandango"
 platform: "PC"
 year: 1998
+#submitter added a new brstm for one song and requested removal of another
 songs: 
   - id: swanky_maximino
     title: "Swanky Maximino"
     path: "Swanky Maximino.brstm"
+    ends: 2:15
     type: betting
   - id: smooth_hector
     title: "Smooth Hector"
@@ -16,8 +18,8 @@ songs:
     title: "Nuevo Marrow"
     path: "Nuevo Marrow.brstm"
     type: betting
-  - id: scrimshaw
-    title: "Scrimshaw"
-    path: "Scrimshaw.brstm"
-    type: betting
+  # - id: scrimshaw
+    # title: "Scrimshaw"
+    # path: "Scrimshaw.brstm"
+    # type: betting
 ...

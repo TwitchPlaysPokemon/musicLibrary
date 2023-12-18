@@ -1,0 +1,138 @@
+---
+id: warioware_move_it
+title: "WarioWare: Move It!"
+series: wario
+platform: "Switch"
+year: 2023
+songs:
+  - id: megagame_muscles_en
+    title: "Megagame Muscles (EN)"
+    path: "BGM_Variety_Training_InGame_OK_EN.txtp"
+    ends: 2:59
+    type: betting
+  - id: megagame_muscles_jp
+    title: "Megagame Muscles (JP)"
+    path: "BGM_Variety_Training_InGame_OK.txtp"
+    ends: 2:59
+    type: betting
+  - id: megagame_muscles_result
+    title: "Megagame Muscles (Result)"
+    path: "BGM_Variety_Training_Result_lp.txtp"
+    type: result
+  - id: main_menu_wwmi
+    title: "Main Menu"
+    path: "BGM_System_MainMenu_lp.txtp"
+    type: betting
+  - id: title_screen_wwmi
+    title: "Title Screen"
+    path: "BGM_System_Title_lp.txtp"
+    type: result
+  - id: story_menu_wwmi
+    title: "Story Menu"
+    path: "BGM_System_Story_lp.txtp"
+    type: betting
+  - id: museum_wwmi
+    title: "Museum"
+    path: "BGM_System_Collection_lp.txtp"
+    type: break
+  - id: sacred_poses
+    title: "Sacred Poses"
+    path: "BGM_Tsunagi_BreakPoint.txtp"
+    type: break
+  - id: theater_wwmi
+    title: "Theater"
+    path: "BGM_System_Theater_lp.txtp"
+    type: betting
+  - id: form_explanation
+    title: "Form Explanation"
+    path: "BGM_System_Form_lp.txtp"
+    type: break
+  - id: pyoro_w_title_screen
+    title: "Pyoro W (Title Screen)"
+    path: "BGM_Variety_Bird_Title.txtp"
+    type: result
+  - id: pyoro_w_start
+    title: "Pyoro W (Start)"
+    path: "BGM_Variety_Bird_Intro.txtp"
+    type: warning
+  - id: pyoro_w_results
+    title: "Pyoro W (Results)"
+    path: "BGM_Variety_Bird_Result.txtp"
+    type: result
+  - id: dirty_job_title_screen
+    title: "Dirty Job (Title Screen)"
+    path: "BGM_Variety_DualWield_Title.txtp"
+    type: warning
+  - id: dirty_job_shifts_1_2
+    title: "Dirty Job (Shifts 1-2)"
+    path: "BGM_Variety_DualWield_Stage1_2_lp.txtp"
+    type: betting
+  - id: dirty_job_shifts_3
+    title: "Dirty Job (Shift 3)"
+    path: "BGM_Variety_DualWield_Stage3_lp.txtp"
+    type: betting
+  - id: dirty_job_shifts_4_5
+    title: "Dirty Job (Shifts 4-5)"
+    path: "BGM_Variety_DualWield_Stage4_5_lp.txtp"
+    type: betting
+  - id: dirty_job_normal_boss
+    title: "Dirty Job (Normal Boss)"
+    path: "BGM_Variety_DualWield_NormalBoss_lp.txtp"
+    type: warning
+  - id: dirty_job_final_boss
+    title: "Dirty Job (Final Boss)"
+    path: "BGM_Variety_DualWield_LastBoss_lp.txtp"
+    type: warning
+  - id: dirty_job_results
+    title: "Dirty Job (Results)"
+    path: "BGM_Variety_DualWield_Result_lp.txtp"
+    type: result
+  - id: galactic_conquest_title_screen
+    title: "Galactic Conquest (Title Screen)"
+    path: "BGM_Variety_Sugoroku_Title.txtp"
+    type: warning
+  - id: galactic_conquest_map
+    title: "Galactic Conquest (Map)"
+    path: "BGM_Variety_Sugoroku_Map_lp.txtp"
+    type: break
+  - id: galactic_conquest_results
+    title: "Galactic Conquest (Results)"
+    path: "BGM_Variety_Sugoroku_Result_lp.txtp"
+    type: result
+  - id: listen_to_the_doctor_title_screen
+    title: "Listen to the Doctor! (Title Screen)"
+    path: "BGM_Variety_Commander_Title.txtp"
+    type: result
+  - id: medusa_march_title_screen
+    title: "Medusa March (Title Screen)"
+    path: "BGM_Variety_Statues_Title.txtp"
+    type: result
+  - id: go_the_distance_title_screen
+    title: "Go the Distance (Title Screen)"
+    path: "BGM_Variety_BattleFour_Title.txtp"
+    type: betting
+  - id: the_who_s_in_control_show_title_screen
+    title: "The Who's in Control Show (Title Screen)"
+    path: "BGM_Variety_Doubt_Title.txtp"
+    type: betting
+  - id: the_who_s_in_control_show_answers
+    title: "The Who's in Control Show (Answers)"
+    path: "BGM_Tsunagi_Doubt_Answer_lp.txtp"
+    type: warning
+  - id: the_who_s_in_control_show_interlude
+    title: "The Who's in Control Show (Interlude)"
+    path: "BGM_Tsunagi_Doubt_Interlude_lp.txtp"
+    type: warning
+  - id: the_who_s_in_control_show_interlude_2
+    title: "The Who's in Control Show (Interlude 2)"
+    path: "BGM_Tsunagi_Doubt_Interlude02_lp.txtp"
+    type: warning
+  - id: the_who_s_in_control_show_results
+    title: "The Who's in Control Show (Results)"
+    path: "BGM_Tsunagi_Doubt_Result_lp.txtp"
+    type: result
+  - id: copycat_mirror_title_screen
+    title: "Copycat Mirror (Title Screen)"
+    path: "BGM_Variety_Mirror_Title.txtp"
+    type: break
+...

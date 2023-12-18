@@ -1,0 +1,83 @@
+id: paranormasight_the_seven_mysteries_of_honjo
+title: "PARANORMASIGHT: The Seven Mysteries of Honjo"
+year: 2023
+platform: "Switch"
+songs:
+  - id: main_theme_paranormasight
+    title: "Main Theme"
+    path: "m01.fsb"
+    type: betting
+  - id: the_end_of_desire
+    title: "The End of Desire"
+    path: "m02.fsb"
+    ends: 2:53
+    type: betting
+  - id: the_finale_that_was_close_by
+    title: "The Finale That Was Close By"
+    path: "m03.fsb"
+    type: break
+  - id: seven_mysteries
+    title: "Seven Mysteries"
+    path: "m04.fsb"
+    type: break
+  - id: crime_busting_with_a_smile
+    title: "Crime Busting With a Smile!"
+    path: "m05.fsb"
+    type: betting
+  - id: mocking_bop
+    title: "Mocking Bop"
+    path: "m06.fsb"
+    type: betting
+  - id: psychic_girl
+    title: "Psychic Girl"
+    path: "m07.fsb"
+    type: betting
+  - id: somber_sky
+    title: "Somber Sky"
+    path: "m08.fsb"
+    type: break
+  - id: hazy_night
+    title: "Hazy Night"
+    path: "m09.fsb"
+    type: warning
+  - id: predestination
+    title: "Predestination"
+    path: "m10.fsb"
+    type: betting
+  - id: i_ll_be_close_by
+    title: "I'll Be Close By"
+    path: "m11.fsb"
+    type: break
+  - id: curse_echoes
+    title: "Curse Echoes"
+    path: "m12.fsb"
+    type: warning
+  - id: suspicion
+    title: "Suspicion"
+    path: "m13.fsb"
+    type: betting
+  - id: laid_back
+    title: "Laid Back"
+    path: "m14.fsb"
+    type: break
+  - id: yin_yang
+    title: "Yin Yang"
+    path: "m15.fsb"
+    type: betting
+  - id: downtown_dwellers
+    title: "Downtown Dwellers"
+    path: "m16.fsb"
+    type: result
+  - id: eerie_calm
+    title: "Eerie Calm"
+    path: "m17.fsb"
+    type: break
+  - id: the_storyteller
+    title: "The Storyteller"
+    path: "m18.fsb"
+    type: betting
+  - id: intrlude_paranormasight
+    title: "Interlude"
+    path: "m19.fsb"
+    type: warning
+...

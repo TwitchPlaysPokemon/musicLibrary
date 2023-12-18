@@ -1,0 +1,55 @@
+---
+id: beavis_and_butt_head
+title: "Beavis and Butt-Head [SNES]"
+platform: ["SNES", "SMD"]
+year: 1994
+songs: 
+  - id: main_theme_beavis_butthead
+    title: "Main Theme"
+    path: "01 Main Theme.spc"
+    type: result
+  - id: ready_to_rock
+    title: "Ready to Rock"
+    path: "03 Ready to Rock.spc"
+    type: battle
+  - id: hooligan_rhapsody
+    title: "Hooligan Rhapsody"
+    path: "07 Hooligan Rhapsody.spc"
+    type: betting
+  - id: cruisin_for_a_bruisin
+    title: "Cruisin' For a Bruisin'"
+    path: "09 Cruisin' For a Bruisin'.spc"
+    type: betting
+  - id: hospital_hijinks
+    title: "Hospital Hijinks"
+    path: "12 Hospital Hijinks.spc"
+    type: break
+  - id: so_close_i_can_taste_it
+    title: "So Close I Can Taste it"
+    path: "13 So Close I Can Taste it.spc"
+    type: warning
+  - id: record_skipping
+    title: "Record Skipping"
+    path: "14 Record Skipping.spc"
+    type: betting
+  - id: legends_of_rock
+    title: "Legends of Rock"
+    path: "19 Legends of Rock.spc"
+    type: result
+  - id: run_that_way_beavis_butthead
+    title: "Run That Way"
+    path: "91 Run That Way.spc"
+    type: warning
+  - id: unused_song_1_beavis_butthead
+    title: "Unused Song 1"
+    path: "91 Unused Song 1.spc"
+    type: warning
+  - id: unused_song_2_beavis_butthead
+    title: "Unused Song 2"
+    path: "91 Unused Song 2.spc"
+    type: warning
+  - id: unused_song_3_beavis_butthead
+    title: "Unused Song 3"
+    path: "91 Unused Song 3.spc"
+    type: battle
+...

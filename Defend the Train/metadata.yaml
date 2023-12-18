@@ -37,4 +37,16 @@ songs:
     title: "Bandit Queen Phase Two"
     path: "Bandit Queen Phase Two.brstm"
     type: battle
+  - id: kick_back
+    title: "Kick Back"
+    path: "Kick Back.brstm"
+    type: warning
+  - id: senior_and_junior
+    title: "Senior & Junior"
+    path: "Senior & Junior.logg"
+    type: battle
+  - id: senior_and_junior_phase_two
+    title: "Senior & Junior Phase Two"
+    path: "Senior & Junior Phase Two.logg"
+    type: battle
 ...

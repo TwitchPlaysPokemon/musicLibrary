@@ -1,0 +1,67 @@
+id: worms_world_party
+title: "Worms World Party"
+year: 2001
+platform: ["PC", "DC", "PS1", "GBA"]
+#game rip provided by M4
+songs:
+  - id: title_wwp
+    title: "Title"
+    path: "title.mp3"
+    type: result
+  - id: stats_wwp
+    title: "Stats"
+    path: "Stats.mp3"
+    type: betting
+  - id: sudden_death_p1_wwp
+    title: "Sudden Death (Part 1)"
+    path: "suddendeath1-loop.mp3"
+    type: warning
+  - id: sudden_death_p2_wwp
+    title: "Sudden Death (Part 2)"
+    path: "suddendeath2-loop.mp3"
+    type: warning
+  - id: generic_wwp
+    title: "Generic"
+    path: "ingame-01-generic.mp3"
+    type: break
+  - id: cavern_wwp
+    title: "Cavern"
+    path: "ingame-02-cavern.mp3"
+    type: betting
+  - id: jungle_wwp
+    title: "Jungle"
+    path: "ingame-03-jungle.mp3"
+    type: break
+  - id: warzone_wwp
+    title: "Warzone"
+    path: "ingame-04-battlezone.mp3"
+    type: betting
+  - id: forest_wwp
+    title: "Forest"
+    path: "ingame-05-forest.mp3"
+    type: betting
+  - id: weird_alien_planet
+    title: "Weird Alien Planet"
+    path: "ingame-06-weird-alien-plan.mp3"
+    type: break
+  - id: outer_space_wwp
+    title: "Outer Space"
+    path: "ingame-07-outerspace.mp3"
+    type: betting
+  - id: desert_wwp
+    title: "Desert"
+    path: "ingame-08-desert.mp3"
+    type: break
+  - id: hell_wwp
+    title: "Hell"
+    path: "ingame-09-hell.mp3"
+    type: betting
+  - id: mechanical_workshop_wwp
+    title: "Mechanical Workshop"
+    path: "ingame-10-mech-workshop.mp3"
+    type: betting
+  - id: rainsurf_wwp
+    title: "Rainsurf"
+    path: "ingame-11-rainsurf.mp3"
+    type: break
+...

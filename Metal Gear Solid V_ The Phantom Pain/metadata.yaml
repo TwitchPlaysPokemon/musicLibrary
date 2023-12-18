@@ -1,0 +1,21 @@
+---
+id: metal_gear_solid_v_the_phantom_pain
+title: "Metal Gear Solid V: The Phantom Pain"
+series: metalgear
+year: 2015
+platform: ["PS4", "Various"]
+#other platforms: ["XBone", "PS3", "360", "PC"]
+songs:
+  - id: sins_of_the_father
+    title: "Sins of the Father"
+    path: "Sins of the Father (Final) (No intro).brstm"
+    type: betting
+  - id: a_phantom_pain
+    title: "A Phantom Pain"
+    path: "A Phantom Pain.brstm"
+    type: betting
+  - id: v_has_come_to
+    title: "V Has Come To"
+    path: "V Has Come To Edit.brstm"
+    type: betting
+...

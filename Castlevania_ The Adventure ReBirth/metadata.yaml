@@ -4,11 +4,36 @@ series: castlevania
 platform: "Wii"
 year: 2009
 songs:
-  - id: dracula_form_3_riddle
-    title: "Dracula Form 3 (Riddle)"
-    path: "Dracula Form 3 (Riddle).brstm"
-    type: warning
-  - id: stage_2_lullaby_sent_to_the_devil
-    title: "Stage 2 (Lullaby Sent to the Devil)"
-    path: "Stage 2 (Lullaby Sent to the Devil).brstm"
+  - id: a_lullaby_sent_to_the_devils_stage_2
+    title: "A Lullaby Sent To The Devils [Stage 2] ​(From Arcade ''Akumajo Dracula'')"
+    path: "A Lullaby Sent To The Devils [Stage 2] ​(From Arcade ''Akumajo Dracul.brstm"
     type: betting
+  - id: aquarius_stage_5
+    title: "Aquarius [Stage 5] (From ''Akumajo ​Densetsu'')"
+    path: "Aquarius [Stage 5] (From ''Akumajo ​Densetsu'').brstm"
+    type: betting
+  - id: gauntlet_mini_boss
+    title: "Gauntlet [Mini-Boss]"
+    path: "Gauntlet [Mini-Boss].brstm"
+    type: warning
+  - id: load_bgm_stage_4
+    title: "Load BGM [Stage 4] (From X68000 ​''Akumajo Dracula'')"
+    path: "Load BGM [Stage 4] (From X68000 ​''Akumajo Dracula'').brstm"
+    type: betting
+  - id: new_messiah_stage_3
+    title: "New Messiah [Stage 3] (From ''Dracula ​Densetsu II'')"
+    path: "New Messiah [Stage 3] (From ''Dracula ​Densetsu II'').brstm"
+    type: betting
+  - id: reincarnated_soul_stage_1
+    title: "Reincarnated Soul [Stage 1] (From ​''Vampire Killer'')"
+    path: "Reincarnated Soul [Stage 1] (From ​''Vampire Killer'').brstm"
+    type: betting
+  - id: riddle_last_boss
+    title: "Riddle [Last Boss] (From ''Akumajo ​Densetsu'')"
+    path: "Riddle [Last Boss] (From ''Akumajo ​Densetsu'').txtp"
+    type: battle
+  - id: the_final_battle_boss_ctar
+    title: "The Final Battle [Boss] (From Arcade ​''Akumajo Dracula'')"
+    path: "The Final Battle [Boss] (From Arcade ​''Akumajo Dracula'').brstm"
+    type: warning
+...

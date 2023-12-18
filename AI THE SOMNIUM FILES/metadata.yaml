@@ -172,4 +172,14 @@ songs:
     path: "BGM_IRIS_SONG_SHORT_US.fsb"
     ends: 1:36
     type: betting
+  - id: invincible_rainbow_arrow_grand_finale_jpn_ver
+    title: "Invincible Rainbow Arrow -Grand Finale- JPN ver."
+    path: "BGM_IRIS_SONG_GRANDFINALE_JP.fsb"
+    ends: 3:01
+    type: betting
+  - id: invincible_rainbow_arrow_grand_finale_eng_ver
+    title: "Invincible Rainbow Arrow -Grand Finale- ENG ver."
+    path: "BGM_IRIS_SONG_GRANDFINALE_US.fsb"
+    ends: 3:01
+    type: betting
 ...

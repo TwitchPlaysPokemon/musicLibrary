@@ -1,0 +1,56 @@
+---
+id: warioware_touched
+title: "WarioWare: Touched!"
+series: wario
+platform: NDS
+year: 2004
+songs:
+  - id: main_menu_touched
+    title: "Main Menu"
+    path: "menu1.mini2sf"
+    type: result
+  - id: galaxy_bounce
+    title: "Galaxy Bounce"
+    path: "BOSS_draw.mini2sf"
+    type: break
+  - id: pro_bowling
+    title: "Pro Bowling"
+    path: "boss_bowling1.minigsf"
+    type: warning
+  - id: being_nosy
+    title: "Being Nosy"
+    path: "BOSS_hana_road.minigsf"
+    type: betting
+  - id: being_nosy_flood
+    title: "Being Nosy - Flood!"
+    path: "BOSS_hana_road_water.minigsf"
+    type: warning
+  - id: rainbow_juice
+    title: "Rainbow Juice"
+    path: "boss_magic_powder1.minigsf"
+    type: break
+  - id: living_room_rally
+    title: "Living Room Rally"
+    path: "BOSS_rc_car.minigsf"
+    type: betting
+  - id: global_warming_wwt
+    title: "Global Warming"
+    path: "boss_shu1.minigsf"
+    type: warning
+  - id: cast_roll_touched
+    title: "Cast Roll"
+    path: "castroll1.minigsf"
+    type: result
+  - id: staff_roll_touched
+    title: "Staff Roll"
+    path: "staffroll.minigsf"
+    type: betting
+  - id: title_screen_touched
+    title: "Title Screen"
+    path: "WARIO_TITLE.minigsf"
+    type: result
+  - id: game_over_touched
+    title: "Game Over"
+    path: "gameover1.mini2sf"
+    type: result
+...

@@ -1,0 +1,115 @@
+---
+id: pokemon_nameless
+title: "Pokémon Nameless"
+series: pokemon
+platform: "GBA"
+is_fanwork: true
+year: 2019
+songs:
+#oggs first
+  - id: lycoris_town
+    title: "Lycoris Town"
+    path: "song277.ogg"
+    type: break
+  - id: dungeon_nameless
+    title: "Dungeon"
+    path: "song331.ogg"
+    ends: 1:58
+    type: betting
+  - id: rose_town
+    title: "Rose Town"
+    path: "song328.ogg"
+    type: betting
+  - id: orange_village
+    title: "Orange Village"
+    path: "song332.ogg"
+    type: betting
+  - id: cyenn_university
+    title: "Cyenn University"
+    path: "song329.ogg"
+    type: betting
+  - id: graffias_town
+    title: "Graffias Town"
+    path: "song321.ogg"
+    type: betting
+  - id: sadr_path
+    title: "Sadr Path"
+    path: "song294.ogg"
+    type: betting
+  - id: marfik_city
+    title: "Marfik City"
+    path: "song335.ogg"
+    ends: 2:23
+    type: betting
+  - id: battle_arena_nameless
+    title: "Battle Arena"
+    path: "song344.ogg"
+    ends: 2:19
+    type: betting
+  - id: monolith_town
+    title: "Monolith Town"
+    path: "song300.ogg"
+    type: betting
+  - id: cave_nameless
+    title: "Cave"
+    path: "song334.ogg"
+    ends: 1:56
+    type: betting
+#and now the battle ones
+  - id: battle_wild_pokemon_nameless
+    title: "Battle! (Wild Pokemon)"
+    path: "song298.txtp"
+    type: battle
+  - id: battle_trainer_nameless
+    title: "Battle! (Trainer)"
+    path: "song297.txtp"
+    type: battle
+  - id: battle_dark_worker
+    title: "Battle! (Dark Worker)"
+    path: "song316.txtp"
+    type: battle
+  - id: battle_viperum_lumiere
+    title: "Battle! (Viperum/Lumiere)"
+    path: "song324.txtp"
+    type: battle
+  - id: battle_arena_leader
+    title: "Battle! (Arena Leader)"
+    path: "song296.txtp"
+    type: battle
+  - id: battle_team_delta_grunt
+    title: "Battle! (Team Delta Grunt)"
+    path: "song325.txtp"
+    type: battle
+  - id: battle_gladion_nameless
+    title: "Battle! (Gladion)"
+    path: "song302.txtp"
+    type: battle
+  - id: battle_polaris_island
+    title: "Battle! (Polaris Island)"
+    path: "song326.txtp"
+    type: battle
+  - id: battle_challenge_bridge
+    title: "Battle! (Challenge Bridge)"
+    path: "song265.txtp"
+    type: battle
+  - id: battle_champion_nelson
+    title: "Battle! (Champion Nelson)"
+    path: "song299.txtp"
+    type: battle
+  - id: battle_mega_guardian
+    title: "Battle! (Mega Guardian)"
+    path: "song266.txtp"
+    type: battle
+  - id: battle_golden_trio
+    title: "Battle! (Golden Trio)"
+    path: "song315.txtp"
+    type: battle
+  - id: battle_timebreaker_lumiere
+    title: "Battle! (Timebreaker Lumiere)"
+    path: "song339.txtp"
+    type: battle
+  - id: battle_pure
+    title: "Battle! (Pure)"
+    path: "song340.txtp"
+    type: battle
+...

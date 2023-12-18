@@ -1,0 +1,11 @@
+---
+id: akinator
+title: "Akinator"
+platform: ["PC", "Mobile"]
+year: 2007
+songs: 
+  - id: main_theme_akinator
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+...
