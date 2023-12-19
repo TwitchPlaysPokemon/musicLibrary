@@ -45,10 +45,6 @@ songs:
     title: "Challenge"
     path: "BGM_CHALLENGE.mini2sf"
     type: betting
-  - id: ranking_yakuds
-    title: "Ranking"
-    path: "BGM_RANKING.mini2sf"
-    type: warning
   - id: turn_results_yakuds
     title: "Turn Results"
     path: "BGM_AGARI_NORMAL.mini2sf"

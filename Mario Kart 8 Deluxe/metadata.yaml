@@ -170,7 +170,7 @@ songs:
     title: "Tour London Loop (Final Lap)"
     path: "BRIT_F_MAIN.txtp"
     type: battle
-  - id: ds_peach_gardens
+  - id: ds_peach_gardens_deluxe
     title: "DS Peach Gardens"
     path: "PEACH_N_MAIN.txtp"
     type: betting
@@ -355,12 +355,12 @@ songs:
     path: "GASGASGAS_N_MAIN_B.txtp"
     type: betting
   - id: wii_moonview_highway_final_lap
-    title: "Wii Maple Treeway (Final Lap)"
+    title: ""Wii Moonview Highway (Final Lap)"
     path: "GASGASGAS_F_MAIN_A.txtp"
     type: warning
   - id: wii_moonview_highway_cityscape_final_lap
-    title: "Wii Maple Treeway (Cityscape - Final Lap)"
-    path: "GASGASGAS_F_MAIN_A.txtp"
+    title: ""Wii Moonview Highway (Cityscape - Final Lap)"
+    path: "GASGASGAS_F_MAIN_B.txtp"
     type: warning
   - id: tour_athens_dash
     title: "Tour Athens Dash"

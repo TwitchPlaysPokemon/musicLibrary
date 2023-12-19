@@ -199,8 +199,8 @@ songs:
     title: "Bowser Jr."
     path: "BGM_Boss_Palace.txtp"
     type: battle
-  - id: castle_bowser
-    title: "Castle Bowser"
+  - id: castle_bowser_battle
+    title: "Castle Bowser Battle"
     path: "BGM_Boss_Koopa.txtp"
     type: battle
   - id: wiggler_race
@@ -235,12 +235,12 @@ songs:
     title: "Wonder Effect - Funny"
     path: "BGM_Wonder_Funny.bwav"
     type: betting
-  - id: wonder_effect_spike_dance_party
-    title: "Wonder Effect - Spike Dance Party"
+  - id: spiky_dance_number
+    title: "Spiky Dance Number"
     path: "BGM_Wonder_Gabon.bwav"
     type: result
-  - id: wonder_effect_halloween
-    title: "Wonder Effect - Halloween"
+  - id: pumpkin_party
+    title: "Pumpkin Party"
     path: "BGM_Wonder_Halloween.bwav"
     type: betting
   - id: wonder_effect_jumping
@@ -251,12 +251,12 @@ songs:
     title: "Wonder Effect - Shadow Mario"
     path: "BGM_Wonder_KageMario.bwav"
     type: warning
-  - id: wonder_effect_shadow_mario
-    title: "Wonder Effect - Killer"
+  - id: bowser_s_blazing_beats
+    title: "Bowser's Blazing Beats"
     path: "BGM_Wonder_Killer.txtp"
     type: warning
-  - id: wonder_effect_final
-    title: "Wonder Effect - Final"
+  - id: bowser_s_rage_stage
+    title: "Bowser's Rage Stage"
     path: "BGM_Wonder_Last.txtp"
     type: betting
   - id: wonder_effect_serious
@@ -279,20 +279,20 @@ songs:
     title: "Wonder Effect - Stampede"
     path: "BGM_Wonder_Tosshin.bwav"
     type: betting
-  - id: wonder_effect_uhauha
-    title: "Wonder Effect - Uhauha"
+  - id: ninji_disco
+    title: "Ninji Disco"
     path: "BGM_Wonder_Uhauha_Normal.bwav"
     type: betting
-  - id: wonder_effect_uhauha_fantastic
-    title: "Wonder Effect - Uhauha (Fantastic)"
+  - id: ninji_disco_fantastic
+    title: "Ninji Disco (Fantastic)"
     path: "BGM_Wonder_Uhauha_Fantastic.bwav"
     type: betting
-  - id: piranha_plants_on_parade
-    title: "Piranha Plants on Parade"
+  - id: a_very_special_march
+    title: "A Very Special March"
     path: "BGM_Wonder_March.txtp"
     type: result
-  - id: king_boo_s_opera
-    title: "King Boo's Opera"
+  - id: a_night_at_boo_s_opera
+    title: "A Night at Boo's Opera"
     path: "BGM_Wonder_Teresa.txtp"
     type: warning
 ...
