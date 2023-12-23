@@ -1,7 +1,7 @@
 name: make listing
 on: workflow_dispatch
 jobs:
-  compile:
+  make_listing:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,7 +17,7 @@ jobs:
         run: python -m musiccat listing listing.json
       - name: Commit listing
         run: |
-          git config --global user.name 'Automated Runner'
+          git config --global user.name 'Listing Generator'
           git config --global user.email 'no-name@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
           git checkout "${GITHUB_REF:11}"
