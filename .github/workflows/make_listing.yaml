@@ -1,0 +1,25 @@
+name: make listing
+on: workflow_dispatch
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8.15'
+      - run: sudo apt-get install libyaml-dev
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install git+https://github.com/TwitchPlaysPokemon/musiccat.git
+      - name: Build listing
+        run: python -m musiccat listing listing.json
+      - name: Commit listing
+        run: |
+          git config --global user.name 'Automated Runner'
+          git config --global user.email 'no-name@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git checkout "${GITHUB_REF:11}"
+          git commit -am "Updated automatic listing"
+          git push
