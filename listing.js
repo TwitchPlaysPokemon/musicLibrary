@@ -23,6 +23,7 @@ function GameInfo({ game }) {
     const series = typeof game.series == "string" ? [game.series] : game.series || [];
     return React.createElement("div", { className: "row my-4 mx-md-4 text-center alert alert-dark" }, [
         React.createElement("div", { className: "col-12" }, React.createElement("h3", { className: "text-center" }, game.title)),
+        React.createElement("div", { className: "col-12 mb-2" }, React.createElement("h6", { className: "text-center" }, game.id)),
         React.createElement("div", { className: "col-md-4 col-6" }, "Platform: " + platform.join(", ")),
         React.createElement("div", { className: "col-md-4 col-6" }, `Year: ${game.year}`),
         React.createElement("div", { className: "col-md-4 col-6" }, "Series: " + series.join(", ")),
@@ -36,7 +37,10 @@ function SongInfo({ song }) {
     const types = typeof song.types == "string" ? [song.types] : song.types || [];
     const tags = typeof song.tags == "string" ? [song.tags] : song.tags || [];
     return React.createElement("div", { className: "row mx-2 alert alert-primary" }, [
-        React.createElement("div", { className: "col-md-4 col-12 text-bold" }, song.title),
+        React.createElement("div", { className: "col-md-4 col-12 text-bold" }, [
+            React.createElement("h5", {}, song.title),
+            React.createElement("h6", {}, song.id)
+        ]),
         React.createElement("div", { className: "col-md-4 col-6" }, "Types: " + types.join(", ")),
         React.createElement("div", { className: "col-md-4 col-6" }, "Tags: " + tags.join(", ")),
     ]);
