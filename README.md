@@ -2,4 +2,4 @@
 PBR's music library
 
 # Where are the actual music files?
-They are currently stored separately and synced using `rsync`. Eventually they will get integrated into this repo using [git lfs](https://git-lfs.github.com/)
+To avoid any copyright concerns, they are not hosted here. They are stored separately and synced using `rsync`.
