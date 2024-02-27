@@ -1,0 +1,42 @@
+id: ivy_the_kiwi
+title: "Ivy the Kiwi?"
+platform: ["NDS", "Wii", "Mobile"]
+year: 2010
+songs:
+  - id: title_ivy_the_kiwi
+    title: "Title"
+    path: "0000 BGM_00.mini2sf"
+    type: break
+  - id: ending_ivy_the_kiwi
+    title: "Ending"
+    path: "0001 BGM_01.mini2sf"
+    type: result
+  - id: quiet_forest
+    title: "Quiet Forest"
+    path: "0002 BGM_02.mini2sf"
+    type: betting
+  - id: rat_woods
+    title: "Rat Woods"
+    path: "0003 BGM_03.mini2sf"
+    type: betting
+  - id: rainy_plains_sleeping_mountain
+    title: "Rainy Plains - Sleeping Mountain"
+    path: "0004 BGM_04.mini2sf"
+    type: betting
+  - id: lively_town
+    title: "Lively Town"
+    path: "0005 BGM_05.mini2sf"
+    type: betting
+  - id: sky_of_the_phoenix
+    title: "Sky of the Phoenix"
+    path: "0006 BGM_06.mini2sf"
+    type: betting
+  - id: invincibility_ivy_the_kiwi
+    title: "Invincibility"
+    path: "0007 BGM_07.mini2sf"
+    type: result
+  - id: story_begins
+    title: "Story Begins"
+    path: "0008 BGM_08.mini2sf"
+    type: break
+...

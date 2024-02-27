@@ -4,12 +4,52 @@ title: "20XX"
 platform: "PC"
 year: 2014
 songs:
-  - id: identity_crisis
-    title: "Identity Crisis"
+  - id: identity_crisis_vaculab
+    title: "Identity Crisis (Vaculab)"
     path: "Identity Crisis.brstm"
     type: betting
-  - id: permafrost
-    title: "Permafrost"
+  - id: permafrost_frostor
+    title: "Permafrost (Frostor)"
     path: "Permafrost.brstm"
     type: battle
+  - id: apex_dr_brighton_sharp
+    title: "Apex (Dr. Brighton Sharp)"
+    path: "Apex.brstm"
+    type: battle
+  - id: endless_echo_deepstation_two
+    title: "Endless Echo (Deepstation Two)"
+    path: "EndlessEcho.brstm"
+    type: battle
+  - id: firestorm_agnisort
+    title: "Firestorm (Agnisort)"
+    path: "Firestorm.brstm"
+    type: betting
+  - id: get_ready_menu
+    title: "Get Ready! (Menu)"
+    path: "GetReady.brstm"
+    type: warning
+  - id: null_and_void_escape
+    title: "Null And Void (Escape)"
+    path: "NullAndVoid.brstm"
+    type: warning
+  - id: omega_model_dr_arlan_flat
+    title: "Omega Model (Dr. Arlan Flat)"
+    path: "OmegaModel.brstm"
+    type: battle
+  - id: psuedocode_boss_battle
+    title: "Pseudocode (Boss Battle)"
+    path: "Pseudocode.brstm"
+    type: warning
+  - id: second_strike_skytemple
+    title: "Second Strike (Skytemple)"
+    path: "SecondStrike.brstm"
+    type: betting
+  - id: spark_engine_station_the_gateway
+    title: "Spark Engine (Station, The Gateway)"
+    path: "SparkEngine.brstm"
+    type: battle
+  - id: v_for_victory_boss_defeated
+    title: "V For Victory (Boss Defeated)"
+    path: "VForVictory.brstm"
+    type: result
 ...

@@ -21,4 +21,24 @@ songs:
     title: "Magma Opus"
     path: "Lava3_L.dsp"
     type: warning
+  - id: canyon_chaos
+    title: "Canyon Chaos"
+    path: "Canyon Chaos.brstm"
+    type: betting
+  - id: haunted_boardwalk_pacman_world_2
+    title: "Haunted Boardwalk"
+    path: "Haunted Boardwalk.brstm"
+    type: betting
+  - id: ice_river_run
+    title: "Ice River Run"
+    path: "Ice River Run.brstm"
+    type: betting
+  - id: pac_village_main_theme
+    title: "Pac Village ~ Main Theme"
+    path: "Pac Village ~ Main Theme.brstm"
+    type: betting 
+  - id: scuba_duba
+    title: "Scuba Duba"
+    path: "Scuba Duba.brstm"
+    type: betting
 ...

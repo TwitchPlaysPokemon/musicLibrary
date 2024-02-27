@@ -1,0 +1,15 @@
+---
+id: ultrakill
+title: "ULTRAKILL"
+platform: "PC"
+year: 2020
+songs: 
+  - id: war_ultrakill
+    title: "WAR"
+    path: "WAR.brstm"
+    type: battle
+  - id: the_cyber_grind
+    title: "The Cyber Grind"
+    path: "The Cyber Grind.brstm"
+    type: battle
+...

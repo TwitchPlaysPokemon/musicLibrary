@@ -2,8 +2,65 @@
 id: akumajo_dracula_x68000
 title: "Akumajō Dracula [X68000]"
 platform: ["X68000", "PS1"]
+series: castlevania
 year: 1993
 songs: 
+  - id: black_mass_opening
+    title: "Black Mass (Opening)"
+    path: "02 Black Mass (Opening).vgz"
+    type: warning
+  - id: something_loopy_name_entry
+    title: "Something Loopy (Name Entry)"
+    path: "03 Something Loopy (Name Entry).vgz"
+    type: warning
+  - id: vampire_killer_stage_1
+    title: "Vampire Killer (Stage 1)"
+    path: "05 Vampire Killer (Stage 1).vgz"
+    type: betting
+  - id: creatures_in_the_depth_boss
+    title: "Creatures in The Depth (Boss)"
+    path: "06 Creatures in The Depth (Boss).vgz"
+    type: battle
+  - id: thrashard_in_the_cave_stage_2
+    title: "Thrashard in The Cave (Stage 2)"
+    path: "08 Thrashard in The Cave (Stage 2).vgz"
+    type: betting
+  - id: wicked_child_stage_3
+    title: "Wicked Child (Stage 3)"
+    path: "09 Wicked Child (Stage 3).vgz"
+    type: betting
+  - id: bloody_tears_stage_4
+    title: "Bloody Tears (Stage 4)"
+    path: "10 Bloody Tears (Stage 4).vgz"
+    type: betting
+  - id: the_tower_of_gears_stage_5
+    title: "The Tower of Gears (Stage 5)"
+    path: "11 The Tower of Gears (Stage 5).vgz"
+    type: warning
+  - id: moon_fight_stage_6_1
+    title: "Moon Fight (Stage 6-1)"
+    path: "12 Moon Fight (Stage 6-1).vgz"
+    type: betting
+  - id: the_tower_of_dolls_stage_6_2
+    title: "The Tower of Dolls (Stage 6-2)"
+    path: "13 The Tower of Dolls (Stage 6-2).vgz"
+    type: betting
+  - id: etude_for_the_killer_stage_7
+    title: "Etude For The Killer (Stage 7)"
+    path: "14 Etude For The Killer (Stage 7).vgz"
+    type: betting
+  - id: simon_s_theme_stage_8
+    title: "Simon's Theme (Stage 8)"
+    path: "15 Simon's Theme (Stage 8).vgz"
+    type: betting
+  - id: you_goddamned_bathead_last_boss
+    title: "You Goddamned Bathead (Last Boss)"
+    path: "16 You Goddamned Bathead (Last Boss).vgz"
+    type: battle
+  - id: mother_earth_ending
+    title: "Mother Earth (Ending)"
+    path: "18 Mother Earth (Ending).vgz"
+    type: betting
   - id: file_load_bgm
     title: "File Load BGM"
     path: "21 Load BGM.vgz"

@@ -1,20 +1,32 @@
----
+﻿---
 id: umihara_kawase
 title: "Umihara Kawase"
 series: umiharakawase
-platform: "SFC"
+platform: ["Various"]
 year: 1994
-songs: 
+songs:
   - id: kawanabe_theme
     title: "Kawanabe Theme"
     path: "02 Kawanabe Theme.spc"
     type: betting
-  - id: keiryu_theme
-    title: "Keiryu Theme"
-    path: "05 Keiryu Theme.spc"
+  - id: taki_theme
+    title: "Taki Theme"
+    path: "04 Taki Theme.spc"
     type: betting
+  - id: keiryuu_theme
+    title: "Keiryuu Theme"
+    path: "05 Keiryuu Theme.spc"
+    type: betting
+  - id: umibe_theme
+    title: "Umibe Theme"
+    path: "03 Umibe Theme.spc"
+    type: result
+  - id: oouna_theme
+    title: "Oouna Theme"
+    path: "07 Oouna Theme.spc"
+    type: result
   - id: hatoba_theme
     title: "Hatoba Theme"
     path: "06 Hatoba Theme.spc"
-    type: betting
+    type: break
 ...

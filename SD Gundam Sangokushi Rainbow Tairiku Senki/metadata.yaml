@@ -1,0 +1,34 @@
+id: sd_gundam_sangokushi_rainbow_tairiku_senki
+title: "SD Gundam Sangokushi Rainbow Tairiku Senki"
+platform: "Arcade"
+year: 1993
+songs: 
+  - id: mission_select_sd_gundam
+    title: "Mission Select"
+    path: "03 Mission Select.vgm"
+    type: warning
+  - id: right_horn_mission_1
+    title: "Right Horn [Mission 1]"
+    path: "04 Right Horn [Mission 1].vgm"
+    type: betting
+  - id: mid_mission_boss
+    title: "Mid-mission Boss"
+    path: "05 Mid-mission Boss.vgm"
+    type: warning
+  - id: end_mission_boss
+    title: "End Mission Boss"
+    path: "06 End Mission Boss.vgm"
+    type: warning
+  - id: mission_4
+    title: "Mission 4"
+    path: "10 Mission 4.vgm"
+    type: betting
+  - id: ending_staff_roll_sd_gundam
+    title: "Ending, Staff Roll"
+    path: "13 Ending, Staff Roll.vgm"
+    type: betting
+  - id: name_entry_sd_gundam
+    title: "Name Entry"
+    path: "14 Name Entry.vgm"
+    type: result
+...

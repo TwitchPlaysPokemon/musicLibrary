@@ -1,0 +1,49 @@
+﻿---
+id: umihara_kawase_fresh
+title: "Umihara Kawase Fresh!"
+series: umiharakawase
+platform: ["Switch", "PS4", "PC"]
+year: 2019
+songs:
+  - id: overworld_fresh
+    title: "Overworld Theme"
+    path: "Overworld.brstm"
+    ends: 2:05
+    type: betting
+  - id: sky_fresh
+    title: "Sky Theme"
+    path: "Sky.brstm"
+    type: betting
+  - id: vs_big_pig_fresh
+    title: "VS. Big Pig"
+    path: "VS. Big Pig.brstm"
+    type: battle
+  - id: vs_harami_fresh
+    title: "VS. Harami"
+    path: "VS. Harami.brstm"
+    type: battle
+  - id: title_screen_fresh
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: deeper_layer_fresh
+    title: "Deeper Layer"
+    path: "Deeper Layer.brstm"
+    type: warning
+  - id: main_menu_fresh
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: break
+  - id: underground_fresh
+    title: "Underground Theme"
+    path: "Underground.brstm"
+    type: break
+  - id: lower_layer_fresh
+    title: "Lower Layer"
+    path: "Lower Layer.brstm"
+    type: break
+  - id: sadness_fresh
+    title: "Sadness"
+    path: "Sadness.brstm"
+    type: break
+...

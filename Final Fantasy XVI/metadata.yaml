@@ -28,7 +28,7 @@ songs:
   - id: ascension_ffxvi
     title: "Ascension"
     path: "Ascension.brstm"
-    type: betting
+    type: battle
   - id: hamartia
     title: "Hamartia"
     path: "Hamartia.brstm"
@@ -52,5 +52,33 @@ songs:
   - id: catacecaumene
     title: "Catacecaumene"
     path: "Catacecaumene.brstm"
+    type: battle
+  - id: against_the_wind_the_eye_of_the_tempest
+    title: "Against the Wind – The Eye of the Tempest"
+    path: "Against the Wind – The Eye of the Tempest.brstm"
+    type: betting
+  - id: find_the_flame
+    title: "Find the Flame"
+    path: "Find the Flame.brstm"
+    type: battle
+  - id: land_of_eikons
+    title: "Land of Eikons"
+    path: "Land of Eikons.brstm"
+    type: betting
+  - id: logos
+    title: "Logos"
+    path: "Logos.brstm"
+    type: battle
+  - id: neath_the_pall
+    title: "'Neath the Pall"
+    path: "'Neath the Pall.brstm"
+    type: betting
+  - id: the_riddle
+    title: "The Riddle"
+    path: "The Riddle.brstm"
+    type: betting
+  - id: titan_lost
+    title: "Titan Lost"
+    path: "Titan Lost.brstm"
     type: battle
 ...

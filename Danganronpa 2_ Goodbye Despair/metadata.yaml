@@ -1,31 +1,57 @@
----
+﻿---
 id: danganronpa_2
 title: "Danganronpa 2: Goodbye Despair"
-platform: ["PSP", "Vita", "PC"]
+series: danganronpa
+platform: ["Various"]
 year: 2012
-songs: 
-  - id: beautiful_ruin
-    title: "Beautiful Ruin"
-    path: "Danganronpa_2-Beautiful_Ruin.brstm"
-    type: betting
-  - id: ekoroshia
-    title: "Ekoroshia"
-    path: "Danganronpa_2-Ekoroshia.brstm"
-    type: betting
-  - id: ikoroshia
-    title: "Ikoroshia"
+songs:
+  - id: homicide_dr2
+    title: "Homicide"
     path: "Danganronpa_2-Ikoroshia.brstm"
     type: betting
   - id: third_island_theme
-    title: "Third Island Theme"
+    title: "3rd Island Theme"
     path: "Danganronpa_2-Third_Island_Theme.brstm"
     type: betting
-  - id: class_trial_future_part
-    title: "Class Trial Future Part"
+  - id: beautiful_ruin
+    title: "Beautiful Ruin"
+    path: "Danganronpa_2-Beautiful_Ruin.brstm"
+    ends: 2:10
+    type: betting
+  - id: love_is_survival
+    title: "Love is Survival"
+    path: "Love is Survival.brstm"
+    type: betting
+  - id: kill_now_dr2
+    title: "Kill Now"
+    path: "Danganronpa_2-Ekoroshia.brstm"
+    type: betting
+  - id: dive_drive
+    title: "Dive Drive"
+    path: "Dive Drive.brstm"
+    type: battle
+  - id: danganronpa_super_mix
+    title: "Danganronpa Super Mix"
+    path: "Danganronpa Super Mix.brstm"
+    type: result
+  - id: ms_monomis_practice_lesson
+    title: "Ms. Monomi's Practice Lesson"
+    path: "Ms. Monomi's Practice Lesson.brstm"
+    type: result
+  - id: punishment_feat_dangan_island
+    title: "Punishment feat. Dangan Island"
+    path: "Punishment feat. Dangan Island.brstm"
+    type: result
+  - id: tropical_despair
+    title: "Tropical Despair"
+    path: "Tropical Despair.brstm"
+    type: warning
+  - id: class_trial_future_edition
+    title: "Class Trial (Future Edition)"
     path: "Danganronpa_2-Class_Trial_Future_Part.brstm"
     type: warning
   - id: hyper_ultra_p_t_a
-    title: "HYPER ULTRA P.T.A."
+    title: "Hyper Ultra P.T.A."
     path: "HYPER ULTRA P.T.A.brstm"
     type: warning
 ...

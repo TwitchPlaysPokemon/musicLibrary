@@ -1,0 +1,99 @@
+---
+id: tetrisphere
+title: "Tetrisphere"
+platform: "N64"
+year: 1997
+songs:
+  - id: prophetic_title
+    title: "Prophetic - Title"
+    path: "01 Prophetic - Title.miniusf"
+    type: betting
+  - id: azule_lux
+    title: "Azule Lux"
+    path: "02 Azule Lux.miniusf"
+    type: betting
+  - id: martist
+    title: "Martist"
+    path: "03 Martist.miniusf"
+    type: betting
+  - id: compliant_confuse
+    title: "Compliant Confuse"
+    path: "04 Compliant Confuse.miniusf"
+    type: betting
+  - id: faze
+    title: "Faze"
+    path: "05 Faze.miniusf"
+    type: battle
+  - id: flim_flam
+    title: "Flim Flam"
+    path: "06 Flim Flam.miniusf"
+    type: betting
+  - id: manicdrummix
+    title: "ManicDrumMix"
+    path: "07 ManicDrumMix.miniusf"
+    type: betting
+  - id: hallucid
+    title: "Hallucid"
+    path: "08 Hallucid.miniusf"
+    type: betting
+  - id: perpetuate303
+    title: "Perpetuate303"
+    path: "09 Perpetuate303.miniusf"
+    type: betting
+  - id: phony
+    title: "Phony"
+    path: "10 Phony.miniusf"
+    type: battle
+  - id: t_grey
+    title: "T. Grey"
+    path: "11 T. Grey.miniusf"
+    type: betting
+  - id: learn
+    title: "Learn"
+    path: "12 Learn.miniusf"
+    type: betting
+  - id: zyp_zyp
+    title: "Zyp Zyp"
+    path: "13 Zyp Zyp.miniusf"
+    type: betting
+  - id: extol
+    title: "Extol"
+    path: "14 Extol.miniusf"
+    type: betting
+  - id: magic_fluter
+    title: "Magic Fluter"
+    path: "15 Magic Fluter.miniusf"
+    type: break
+  - id: spooky_baby
+    title: "Spooky Baby"
+    path: "16 Spooky Baby.miniusf"
+    type: warning
+  - id: zooming_car
+    title: "Zooming Car"
+    path: "17 Zooming Car.miniusf"
+    type: warning
+  - id: cheddar_funk
+    title: "Cheddar Funk"
+    path: "18 Cheddar Funk.miniusf"
+    type: result
+  - id: snowymushrooms
+    title: "SnowyMushrooms"
+    path: "19 SnowyMushrooms.miniusf"
+    type: break
+  - id: dog_robot
+    title: "Dog Robot"
+    path: "20 Dog Robot.miniusf"
+    type: betting
+  - id: sappy
+    title: "Sappy"
+    path: "21 Sappy.miniusf"
+    type: result
+  - id: skankbowlfight
+    title: "SkankBowlFight"
+    path: "22 SkankBowlFight.miniusf"
+    type: warning
+  - id: birthday_bumps
+    title: "Birthday Bumps"
+    path: "23 Birthday Bumps.miniusf"
+    type: result
+...

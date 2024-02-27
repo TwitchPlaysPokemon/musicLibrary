@@ -1,0 +1,93 @@
+---
+id: konosuba_fantastic_days
+title: "KonoSuba: Fantastic Days"
+platform: "Mobile"
+year: 2020
+songs: 
+  - id: battle_1_konosuba
+    title: "Battle 1"
+    path: "bgm_ingame_battle_001.awb"
+    type: battle
+  - id: battle_2_konosuba
+    title: "Battle 2"
+    path: "bgm_ingame_battle_002.awb"
+    type: battle
+  - id: battle_3_konosuba
+    title: "Battle 3"
+    path: "bgm_ingame_battle_003.awb"
+    type: battle
+  - id: battle_5_konosuba
+    title: "Battle 5"
+    path: "bgm_ingame_battle_005.awb"
+    type: result
+  - id: battle_results_konosuba
+    title: "Battle Results"
+    path: "bgm_ingame_result_001.awb"
+    type: result
+  - id: gacha_roll_konosuba
+    title: "Gacha Roll"
+    path: "bgm_outgame_gacha_performance_001.awb"
+    type: betting
+  - id: birthday_konosuba
+    title: "Birthday"
+    path: "bgm_outgame_birthday_001.awb"
+    type: betting
+  - id: menu_konosuba
+    title: "Menu"
+    path: "bgm_outgame_menu_001.awb"
+    type: break
+  - id: story_4_konosuba
+    title: "Story 4"
+    path: "bgm_outgame_story_004.awb"
+    type: warning
+  - id: story_6_konosuba
+    title: "Story 6"
+    path: "bgm_outgame_story_006.awb"
+    type: warning
+  - id: story_7_konosuba
+    title: "Story 7"
+    path: "bgm_outgame_story_007.awb"
+    type: betting
+  - id: story_9_konosuba
+    title: "Story 9"
+    path: "bgm_outgame_story_009.awb"
+    type: warning
+  - id: story_10_konosuba
+    title: "Story 10"
+    path: "bgm_outgame_story_010.awb"
+    type: betting
+  - id: story_11_konosuba
+    title: "Story 11"
+    path: "bgm_outgame_story_011.awb"
+    type: betting
+  - id: story_12_konosuba
+    title: "Story 12"
+    path: "bgm_outgame_story_012.awb"
+    type: break
+  - id: story_13_konosuba
+    title: "Story 13"
+    path: "bgm_outgame_story_013.awb"
+    type: result
+  - id: story_14_konosuba
+    title: "Story 14"
+    path: "bgm_outgame_story_014.awb"
+    type: result
+  - id: quest_2_konosuba
+    title: "Quest 2"
+    path: "bgm_ingame_quest_002.awb"
+    type: result
+  - id: quest_3_konosuba
+    title: "Quest 3"
+    path: "bgm_ingame_quest_003.awb"
+    type: betting
+  - id: quest_6_konosuba
+    title: "Quest 6"
+    path: "bgm_ingame_quest_006.awb"
+    type: betting
+#only commented this one because I'm not sure if it would trigger a DMCA
+#  - id: happy_magic_konosuba
+#    title: "Happy Magic"
+#    path: "bgm_outgame_title_001.awb"
+#    ends: 1:34
+#    type: betting
+...

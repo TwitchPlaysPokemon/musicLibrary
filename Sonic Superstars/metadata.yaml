@@ -1,0 +1,152 @@
+---
+id: sonic_superstars
+title: "Sonic Superstars"
+series: sonic
+platform: "Various"
+year: 2023
+songs: 
+  - id: title_screen_sonic_superstars
+    title: "Title Screen"
+    path: "90000_bgm_title_#047.txtp"
+    type: result
+  - id: bridge_island_zone_act_1
+    title: "Bridge Island Zone, Act 1"
+    path: "90101_bgm_zone_01_01_#050.txtp"
+    type: betting
+  - id: bridge_island_zone_act_2
+    title: "Bridge Island Zone, Act 2"
+    path: "90102_bgm_zone_01_02; 90711_bgm_zone_07_10_#051.txtp"
+    type: betting
+  - id: bridge_island_zone_act_fruit
+    title: "Bridge Island Zone, Act Fruit"
+    path: "90110_bgm_zone_01_10_#071.txtp"
+    type: betting
+  - id: special_stage_sonic_superstars
+    title: "Special Stage"
+    path: "92001_bgm_sps_001_#055.txtp"
+    type: betting
+  - id: bonus_stage_sonic_superstars
+    title: "Bonus Stage"
+    path: "93001_bgm_bs_001_#077.txtp"
+    type: warning
+  - id: speed_jungle_zone_act_1
+    title: "Speed Jungle Zone, Act 1"
+    path: "90201_bgm_zone_02_01_#052.txtp"
+    type: betting
+  - id: speed_jungle_zone_act_sonic
+    title: "Speed Jungle Zone, Act Sonic"
+    path: "90202_bgm_zone_02_02_#042.txtp"
+    type: betting
+  - id: speed_jungle_zone_act_2
+    title: "Speed Jungle Zone, Act 2"
+    path: "90203_bgm_zone_02_03_#130.txtp"
+    type: betting
+  - id: fang_boss
+    title: "Fang Boss"
+    path: "90026_bgm_fang_battle_#003.txtp"
+    type: warning
+  - id: sky_temple_zone
+    title: "Sky Temple Zone"
+    path: "90301_bgm_zone_03_01_#072.txtp"
+    type: betting
+  - id: pinball_carnival_zone_act_1
+    title: "Pinball Carnival Zone, Act 1"
+    path: "90401_bgm_zone_04_01_#073.txtp"
+    type: betting
+  - id: pinball_carnival_zone_act_2
+    title: "Pinball Carnival Zone, Act 2"
+    path: "90402_bgm_zone_04_02_#075.txtp"
+    type: betting
+  - id: pinball_carnival_zone_act_fruit
+    title: "Pinball Carnival Zone, Act Fruit"
+    path: "90410_bgm_zone_04_10_#144.txtp"
+    type: betting
+  - id: lagoon_city_zone_act_1
+    title: "Lagoon City Zone, Act 1"
+    path: "90501_bgm_zone_05_01_#076.txtp"
+    type: betting
+  - id: lagoon_city_zone_act_amy
+    title: "Lagoon City Zone, Act Amy"
+    path: "90502_bgm_zone_05_02_#136.txtp"
+    type: betting
+  - id: lagoon_city_zone_act_2
+    title: "Lagoon City Zone, Act 2"
+    path: "90503_bgm_zone_05_03_#053.txtp"
+    type: betting
+  - id: sand_sanctuary_zone
+    title: "Sand Sanctuary Zone"
+    path: "90601_bgm_zone_06_01_#054.txtp"
+    type: betting
+  - id: press_factory_zone_act_1
+    title: "Press Factory Zone, Act 1"
+    path: "90701_bgm_zone_07_01_#064.txtp"
+    type: betting
+  - id: press_factory_zone_act_2
+    title: "Press Factory Zone, Act 2"
+    path: "90702_bgm_zone_07_02_#066.txtp"
+    type: betting
+  - id: press_factory_zone_act_fruit
+    title: "Press Factory Zone, Act Fruit"
+    path: "90710_bgm_zone_07_10_#039.txtp"
+    type: betting
+  - id: eggman_boss_2_superstars
+    title: "Eggman Boss 2"
+    path: "90048_bgm_medium_boss_battle3_#041.txtp"
+    type: battle
+  - id: golden_capital_zone_act_2
+    title: "Golden Capital Zone, Act 2"
+    path: "90803_bgm_zone_08_03_#137.txtp"
+    type: betting
+  - id: cutscene_fang_and_trip
+    title: "Cutscene - Fang and Trip"
+    path: "90045_bgm_medium_boss_battle2_#116.txtp"
+    type: warning
+  - id: cyber_station_zone
+    title: "Cyber Station Zone"
+    path: "90901_bgm_zone_09_01_#029.txtp"
+    type: betting
+  - id: cyber_station_boss
+    title: "Cyber Station Boss"
+    path: "90902_bgm_zone_09_02_#030.txtp"
+    type: battle
+  - id: cyber_station_boss_unused
+    title: "Cyber Station Boss (Unused)"
+    path: "90902_bgm_zone_09_02_#081.txtp"
+    type: battle
+  - id: frozen_base_zone_act_2
+    title: "Frozen Base Zone, Act 2"
+    path: "91003_bgm_zone_10_03_#141.txtp"
+    type: betting
+  - id: frozen_base_boss
+    title: "Frozen Base Boss"
+    path: "90027_bgm_fz_boss_battle_#119.txtp"
+    type: battle
+  - id: egg_fortress_zone_act_1
+    title: "Egg Fortress Zone, Act 1"
+    path: "91101_bgm_zone_11_01_#031.txtp"
+    type: betting
+  - id: egg_fortress_zone_act_2
+    title: "Egg Fortress Zone, Act 2"
+    path: "91102_bgm_zone_11_02_#032.txtp"
+    type: betting
+  - id: final_boss_sonic_superstars
+    title: "Final Boss"
+    path: "90028_bgm_last_boss1_battle_#121.txtp"
+    type: battle
+  - id: trip_s_final_boss
+    title: "Trip's Final Boss"
+    path: "90029_bgm_last_boss2_battle_#123.txtp"
+    type: betting
+  - id: super_sonic_superstars
+    title: "Super Sonic"
+    path: "90022_bgm_super_taken_#048.txtp"
+    type: result
+  - id: last_story_sonic_superstars
+    title: "Last Story"
+    path: "90035_bgm_world_map_dark_#005.txtp"
+    type: warning
+  - id: last_story_boss_black_dragon
+    title: "Last Story Boss - Black Dragon"
+    path: "91201_bgm_zone_12_01_#037.txtp"
+    type: battle
+...

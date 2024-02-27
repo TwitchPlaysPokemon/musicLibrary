@@ -1,0 +1,43 @@
+---
+id: 30xx
+title: "30XX"
+platform: ["PC", "Switch"]
+year: 2023
+songs:
+  - id: kerosene_fane_burning_temple_editor
+    title: "Kerosene Fane (Burning Temple Editor)"
+    path: "mscBurningTemple.brstm"
+    type: betting
+  - id: automate_fortress_clockzone_editor
+    title: "Automata Fortress (Clockzone Editor)"
+    path: "mscClockzone.brstm"
+    type: betting
+  - id: id_52_deepverse_editor
+    title: "ID 52 (Deepverse Editor)"
+    path: "mscDeepverse.brstm"
+    type: betting
+  - id: skullstream_factory_dustria_editor
+    title: "Skullsteam Factory (Dustria Editor)"
+    path: "mscDustria.brstm"
+    type: betting
+  - id: mines_at_dusk_echocave_editor
+    title: "Mines at Dusk (Echocave Editor)"
+    path: "mscEchocave.brstm"
+    type: betting
+  - id: wind_city_highvault_editor
+    title: "Wind City (Highvault Editor)"
+    path: "mscHighvault.brstm"
+    type: betting
+  - id: protovania_penumbra_editor
+    title: "Protovania (Penumbra Editor)"
+    path: "mscPenumbra.brstm"
+    type: betting
+  - id: idle_architect_main_theme_editor
+    title: "Idle Architect (Main Theme Editor)"
+    path: "mscTitle.brstm"
+    type: betting
+  - id: marine_o_v_watergrav_editor
+    title: "Marine O-V (Watergrav Editor)"
+    path: "mscWatergrav.brstm"
+    type: betting
+...

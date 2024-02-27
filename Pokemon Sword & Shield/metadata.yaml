@@ -368,7 +368,7 @@ songs:
     type: betting
   - id: gym_challenge_sword_shield
     title: "Gym Challenge"
-    path: "BGM120.txtp"
+    path: "Gym Challenge (Lobby).brstm" #apparently the txtp version ends a minute early?
     type: betting
   - id: credits_sword_shield
     title: "Credits"

@@ -1,0 +1,89 @@
+---
+id: rhapsody_a_musical_adventure
+title: "Rhapsody: A Musical Adventure"
+series: marlkingdom
+platform: "PS1"
+year: 1998
+songs:
+  - id: adventurer_rhapsody
+    title: "Adventurer"
+    path: "13 Adventurer.psf"
+    type: betting
+  - id: castle_evening_rhapsody
+    title: "Castle Evening"
+    path: "18 Castle Evening.psf"
+    type: betting
+  - id: dream_hunter
+    title: "Dream Hunter"
+    path: "23 Dream Hunter.psf"
+    type: warning
+  - id: fear_rhapsody
+    title: "Fear"
+    path: "20 Fear.psf"
+    type: battle
+  - id: lady_s_barrette
+    title: "Lady's Barrette"
+    path: "19 Lady's Barrette.psf"
+    type: result
+  - id: last_waltz
+    title: "Last Waltz"
+    path: "25 Last Waltz.psf"
+    type: warning
+  - id: little_love
+    title: "Little Love"
+    path: "12 Little Love.psf"
+    type: break
+  - id: marjoly_family_anthem
+    title: "Marjoly Family Anthem"
+    path: "16 Marjoly Family Anthem.psf"
+    type: warning
+  - id: mother_s_lullaby
+    title: "Mother's Lullaby"
+    path: "26 Mother's Lullaby.psf"
+    type: break
+  - id: mothergreen
+    title: "Mothergreen"
+    path: "17 Mothergreen.psf"
+    type: betting
+  - id: puppet_princess_theme
+    title: "Puppet Princess Theme"
+    path: "11 Puppet Princess Theme.psf"
+    ends: 2:25
+    type: betting
+  - id: rhapsody_afar
+    title: "Rhapsody Afar"
+    path: "22 Rhapsody Afar.psf"
+    type: betting
+  - id: shooting_star
+    title: "Shooting Star"
+    path: "21 Shooting Star.psf"
+    type: break
+  - id: spirit_wind
+    title: "Spirit Wind"
+    path: "15 Spirit Wind.psf"
+    type: warning
+  - id: the_wanderer
+    title: "The Wanderer"
+    path: "24 The Wanderer.psf"
+    type: betting
+  - id: welcome_to_the_dungeon
+    title: "Welcome to the Dungeon"
+    path: "14 Welcome to the Dungeon.psf"
+    type: warning
+  - id: battle_victory_rhapsody
+    title: "Battle Victory"
+    path: "93 Battle Victory.psf"
+    type: result
+  - id: start_of_the_journey
+    title: "Start of the Journey"
+    path: "96 Start of the Journey.psf"
+    type: betting
+  - id: kingdom_of_frogburg
+    title: "Kingdom of Frogburg"
+    path: "99 Kingdom of Frogburg.psf"
+    type: betting
+  - id: worm_train_town
+    title: "Worm Train Town"
+    path: "98 Worm Train Town.psf"
+    type: betting
+...

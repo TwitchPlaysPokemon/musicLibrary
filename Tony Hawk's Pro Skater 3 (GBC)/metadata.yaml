@@ -1,0 +1,31 @@
+---
+id: tony_hawk_s_pro_skater_3
+title: "Tony Hawk's Pro Skater 3 [GBC]"
+platform: "Various"
+year: 2001
+songs:
+  - id: title_thps3gbc
+    title: "Title"
+    path: "01 Title.vgm"
+    type: betting
+  - id: select_skater
+    title: "Select Skater"
+    path: "02 Select Skater.vgm"
+    type: warning
+  - id: goals_thps3gbc
+    title: "Goals"
+    path: "03 Goals.vgm"
+    type: warning
+  - id: results_thps3gbc
+    title: "Results"
+    path: "04 Results.vgm"
+    type: result
+  - id: career_complete_thps3gbc
+    title: "Career Complete!!"
+    path: "05 Career Complete!!.vgm"
+    type: result
+  - id: credits_thps3gbc
+    title: "Credits"
+    path: "06 Credits.vgm"
+    type: betting
+...

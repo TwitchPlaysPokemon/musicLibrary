@@ -1,16 +1,16 @@
----
-id: fairune_pc
+﻿---
+id: fairune_browser
 title: "Fairune"
 series: fairune
-platform: "PC"
+platform: ["PC"]
 year: 2009
 songs: 
-  - id: overworld_theme_1_fairune
-    title: "Overworld Theme 1"
+  - id: adventure_theme_fairune_browser
+    title: "Adventure Theme"
     path: "Overworld Theme 1.brstm"
     type: result
-  - id: overworld_theme_2_fairune
-    title: "Overworld Theme 2"
+  - id: bravery_theme_fairune_browser
+    title: "Bravery Theme"
     path: "Overworld Theme 2.brstm"
     type: result
 ...

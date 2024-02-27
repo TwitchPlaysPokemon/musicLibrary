@@ -1,0 +1,43 @@
+---
+id: super_chicken_jumper
+title: "SUPER CHICKEN JUMPER"
+platform: "Various"
+year: 2021
+songs:
+  - id: chicken_title
+    title: "Chicken (Title)"
+    path: "Chicken (Title).logg"
+    type: betting
+  - id: olivia_farm
+    title: "Olivia (Farm)"
+    path: "Olivia (Farm).logg"
+    type: betting
+  - id: mia_forest
+    title: "Mia (Forest)"
+    path: "Mia (Forest).logg"
+    type: betting
+  - id: mother_lava
+    title: "Mother (Lava)"
+    path: "Mother (Lava).logg"
+    type: betting
+  - id: yuko_graveyard
+    title: "Yuko (Graveyard)"
+    path: "Yuko (Graveyard).logg"
+    type: betting
+  - id: alice_snow
+    title: "Alice (Snow)"
+    path: "Alice (Snow).logg"
+    type: betting
+  - id: ariel_space
+    title: "Ariel (Space)"
+    path: "Ariel (Space).logg"
+    type: betting
+  - id: president
+    title: "President"
+    path: "President.logg"
+    type: betting
+  - id: boss_super_chicken_jumper
+    title: "Boss"
+    path: "Boss.logg"
+    type: battle
+...

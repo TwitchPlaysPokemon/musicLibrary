@@ -1,0 +1,76 @@
+---
+id: sword_of_the_berserk_guts_rage
+title: "Sword of the Berserk: Guts' Rage"
+platform: "Dreamcast"
+year: 1999
+#these were most of the tracks that had loops and names. If you can think of any better 
+#categories for them, switch them up. 
+songs:
+  - id: menu_theme_berserk_guts_rage
+    title: "Menu Theme"
+    path: "BGM101.ADX"
+    type: break
+  - id: introduction_berserk_guts_rage
+    title: "Introduction"
+    path: "BGM102.ADX"
+    type: battle
+  - id: castle_engulfed_in_chaos_i
+    title: "Castle Engulfed in Chaos I"
+    path: "BGM104.ADX"
+    type: warning
+  - id: adhesion_of_blood
+    title: "Adhesion of Blood"
+    path: "BGM116.ADX"
+    type: battle
+  - id: parasite_berserk_guts_rage
+    title: "Parasite"
+    path: "BGM103.ADX"
+    type: battle
+  - id: to_the_castle
+    title: "To The Castle"
+    path: "BGM112.ADX"
+    type: warning
+  - id: zodd_ii
+    title: "Zodd II"
+    path: "BGM121.ADX"
+    type: warning
+  - id: danger_i
+    title: "Danger I"
+    path: "BGM108.ADX"
+    type: battle
+  - id: castle_engulfed_in_chaos_ii
+    title: "Castle Engulfed in Chaos II"
+    path: "BGM111.ADX"
+    type: battle
+  - id: giant_tentacle_corridor
+    title: "Giant Tentacle Corridor"
+    path: "BGM113.ADX"
+    type: betting
+  - id: the_burning_city
+    title: "The Burning City"
+    path: "BGM114.ADX"
+    type: betting
+  - id: the_great_tree_berserk_guts_rage
+    title: "The Great Tree"
+    path: "BGM115.ADX"
+    type: betting
+  - id: fight_i_berserk_guts_rage
+    title: "Fight I"
+    path: "BGM117.ADX"
+    type: warning
+  - id: puck_theme_berserk_guts_rage
+    title: "Puck Theme"
+    path: "BGM120.ADX"
+    ends: 2:03
+    type: betting
+  - id: berserk_i
+    title: "Berserk I"
+    path: "BGM223.ADX"
+    ends: 2:03
+    type: betting
+  - id: forces_ii
+    title: "Forces II"
+    path: "BGM109.ADX"
+    ends: 1:21
+    type: betting
+...

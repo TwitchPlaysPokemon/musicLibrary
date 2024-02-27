@@ -44,4 +44,24 @@ songs:
     title: "An Oasis Of Blood"
     path: "An Oasis of Blood (Bath of Sekhmet Stage).brstm"
     type: warning
+  - id: the_stars_and_stage_are_set
+    title: "The Stars and Stage are Set!"
+    path: "44. The Stars and Stage are Set!.mp3"
+    type: betting
+  - id: ice_cream_headache
+    title: "Ice Cream Headache"
+    path: "45. Ice Cream Headache.mp3"
+    type: result
+  - id: down_the_rabbit_hole
+    title: "Down The Rabbit Hole"
+    path: "46. Down The Rabbit Hole.mp3"
+    type: betting
+  - id: new_meridian_nocturne
+    title: "New Meridian Nocturne"
+    path: "47. New Meridian Nocturne.mp3"
+    type: break
+  - id: all_that_remains
+    title: "All That Remains"
+    path: "49. All That Remains.mp3"
+    type: betting
 ...

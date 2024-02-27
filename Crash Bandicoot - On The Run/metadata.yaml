@@ -1,0 +1,139 @@
+---
+id: crash_bandicoot_on_the_run
+title: "Crash Bandicoot: On the Run!"
+platform: "Mobile"
+year: 2020
+songs: 
+  - id: dino_might_challenge_run
+    title: "Dino Might! - Challenge Run"
+    path: "Play_Music_DinoMite_BattleRun.txtp"
+    type: betting
+  - id: dino_might_collection_run
+    title: "Dino Might! - Collection Run"
+    path: "Play_Music_DinoMite_ForageRun.txtp"
+    type: betting
+  - id: the_lab_collection_run
+    title: "The Lab - Collection Run"
+    path: "Play_Music_Labs_ForageRun.txtp"
+    type: betting
+  - id: the_lab_challenge_run
+    title: "The Lab - Challenge Run"
+    path: "Play_Music_Labs_BattleRun.txtp"
+    type: betting
+  - id: beach_jungle_challenge_run
+    title: "Beach Jungle - Challenge Run"
+    path: "Play_Music_BeachJungle_BattleRun.txtp"
+    type: betting
+  - id: beach_jungle_collection_run
+    title: "Beach Jungle - Collection Run"
+    path: "Play_Music_BeachJungle_ForageRun.txtp"
+    type: result
+  - id: lost_city_time_trial
+    title: "Lost City - Time Trial"
+    path: "Play_Music_LostCity_TimeTrial.txtp"
+    type: battle
+  - id: snow_go_challenge_run
+    title: "Snow Go - Challenge Run"
+    path: "Play_Music_SnowGo_BattleRun.txtp"
+    type: battle
+  - id: preparing_for_team_run
+    title: "Preparing for Team Run"
+    path: "Play_TeamRun_PreGame_Enter.txtp"
+    type: warning
+  - id: neo_cortex_otr
+    title: "Neo Cortex"
+    path: "Play_Music_Boss_NeoCortex.txtp"
+    type: warning
+  - id: dingo_dile_otr
+    title: "Dingo Dile"
+    path: "Play_Music_Boss_DingoDile.txtp"
+    type: warning
+  - id: bear_it_challenge_run
+    title: "Bear It! - Challenge Run"
+    path: "Play_Music_BearIt_BattleRun.txtp"
+    type: betting
+  - id: bear_it_collection_run
+    title: "Bear It! - Collection Run"
+    path: "Play_Music_BearIt_ForageRun.txtp"
+    type: betting
+  - id: dark_spyro
+    title: "Dark Spyro"
+    path: "Play_Music_Boss_Darkspyro.txtp"
+    type: battle
+  - id: dr_n_gin_s_mech
+    title: "Dr. N Gin's Mech"
+    path: "Play_Music_Boss_DrNGinMech.txtp"
+    type: warning
+  - id: dr_robo_neo_cortex
+    title: "Dr. Robo Neo Cortex"
+    path: "Play_Music_Boss_DrRoboNeoCortex.txtp"
+    type: warning
+  - id: fake_coco
+    title: "Fake Coco"
+    path: "Play_Music_Boss_FakeCoco.txtp"
+    type: warning
+  - id: fake_crash
+    title: "Fake Crash"
+    path: "Play_Music_Boss_FakeCrash.txtp"
+    type: warning
+  - id: geary_otr
+    title: "Geary"
+    path: "Play_Music_Boss_Geary.txtp"
+    type: battle
+  - id: gnasty_gnorc
+    title: "Gnasty Gnorc"
+    path: "Play_Music_Boss_Gnastygnorc.txtp"
+    type: battle
+  - id: ironcrate
+    title: "Ironcrate"
+    path: "Play_Music_Boss_Ironcrate.txtp"
+    type: betting
+  - id: koala_kong
+    title: "Koala Kong"
+    path: "Play_Music_Boss_KoalaKong.txtp"
+    type: betting
+  - id: lab_assistant_otr
+    title: "Lab Assistant"
+    path: "Play_Music_Boss_LabAssistant.txtp"
+    type: warning
+  - id: mr_crumb
+    title: "Mr. Crumb"
+    path: "Play_Music_Boss_MrCrumb.txtp"
+    type: betting
+  - id: mutagen_n_brio
+    title: "Mutagen N. Brio"
+    path: "Play_Music_Boss_MutagenNitrusBrio.txtp"
+    type: warning
+  - id: nina_cortex
+    title: "Nina Cortex"
+    path: "Play_Music_Boss_NinaCortex.txtp"
+    type: warning
+  - id: nitrous_oxide
+    title: "Nitrous Oxide"
+    path: "Play_Music_Boss_NitrousOxide.txtp"
+    type: battle
+  - id: noid_otr
+    title: "Noid"
+    path: "Play_Music_Boss_Noid.txtp"
+    type: betting
+  - id: n_tropy
+    title: "N. Tropy"
+    path: "Play_Music_Boss_Ntropy.txtp"
+    type: warning
+  - id: tiny_tiger
+    title: "Tiny Tiger"
+    path: "Play_Music_Boss_Tinytiger.txtp"
+    type: battle
+  - id: pinstripe_otr
+    title: "Pinstripe"
+    path: "Play_Music_Boss_Pinstripe.txtp"
+    type: betting
+  - id: coco_s_island_shop
+    title: "Coco's Island (Shop)"
+    path: "Play_Music_Cocos_Island (Meta_Focus=Shop_Focused).txtp"
+    type: break
+  - id: run_victory_otr
+    title: "Run Victory"
+    path: "Runner-1270-event (Runner_Music_State=WinSequence_Victory).txtp"
+    type: result
+...

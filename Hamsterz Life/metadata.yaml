@@ -1,0 +1,54 @@
+id: hamsterz_life
+title: "Hamsterz Life"
+platform: "NDS"
+year: 2006
+songs:
+  - id: picking_your_hamster
+    title: "Picking Your Hamster"
+    path: "01 BGM #01 [BGM_MENU_01].mini2sf"
+    type: result
+  - id: meeting_hammy
+    title: "Meeting Hammy"
+    path: "02 BGM #02 [BGM_MENU_02].mini2sf"
+    type: betting
+  - id: standard_cage
+    title: "Standard Cage"
+    path: "03 BGM #03 [BGM_BOX_01].mini2sf"
+    type: break
+  - id: steel_cage
+    title: "Steel Cage"
+    path: "04 BGM #04 [BGM_BOX_02].mini2sf"
+    type: betting
+  - id: toybox_cage
+    title: "Toybox Cage"
+    path: "05 BGM #05 [BGM_BOX_03].mini2sf"
+    type: betting
+  - id: pastel_cage
+    title: "Pastel Cage"
+    path: "06 BGM #06 [BGM_BOX_04].mini2sf"
+    type: break
+  - id: plant_cage
+    title: "Plant Cage"
+    path: "07 BGM #07 [BGM_BOX_05].mini2sf"
+    type: break
+  - id: wood_carving_cage
+    title: "Wood Carving Cage"
+    path: "08 BGM #08 [BGM_BOX_06].mini2sf"
+    type: betting
+  - id: outside_the_cage
+    title: "Outside the Cage"
+    path: "09 BGM #09 [BGM_EVENT_01].mini2sf"
+    type: break
+  - id: minigames_hamsterz
+    title: "Minigames"
+    path: "10 BGM #10 [BGM_MINI_01].mini2sf"
+    type: betting
+  - id: title_screen_hamsterz
+    title: "Title Screen"
+    path: "11 BGM #11 [BGM_TITLE].mini2sf"
+    type: result
+  - id: staff_roll_hamsterz
+    title: "Staff Roll"
+    path: "12 BGM #12 [BGM_STAFF].mini2sf"
+    type: betting
+...

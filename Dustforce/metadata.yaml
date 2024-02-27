@@ -1,34 +1,57 @@
 ---
 id: dustforce
 title: "Dustforce"
-series: dustforce
+platform: "PC"
+# other platforms: ["PC", "PS3", "Vita", "360"]
 year: 2012
-platform: ["PC", "Various"]
-#other platforms: ["PS3", "360", "Vita"]
-songs:
-  - id: electric_relic
-    title: "Electric Relic"
-    path: "Electric Relic.brstm"
+#I *think* these should loop? Not 100% sure. If they don't, feel free to just put them in betting - most of them have at least 2:30 worth of music
+songs: 
+  - id: cider_time
+    title: "Cider Time"
+    path: "01 - Cider Time.txtp"
+    type: betting
+  - id: 9_bit_expedition
+    title: "9-bit Expedition"
+    path: "02 - 9-bit Expedition.txtp"
     type: betting
   - id: elvish_piper_academy
     title: "Elvish Piper Academy"
-    path: "Elvish Piper Academy.brstm"
-    type: betting
-  - id: it's_not_supposed_to_be_snowing
-    title: "It's Not Supposed To Be Snowing"
-    path: "It's Not Supposed To Be Snowing.brstm"
-    tags: [xmas]
-    type: betting
-  - id: cider_time
-    title: "Cider Time"
-    path: "Cider Time.brstm"
+    path: "03 - Elvish Piper Academy.txtp"
     type: betting
   - id: fifty_fps_forest
     title: "Fifty FPS Forest"
-    path: "Fifty FPS Forest.brstm"
+    path: "04 - Fifty FPS Forest.txtp"
     type: betting
-  - id: 9-bit_expedition
-    title: "9-bit Expedition"
-    path: "9-bit Expedition.brstm"
+  - id: swimming_while_it_rains
+    title: "Swimming While it Rains"
+    path: "05 - Swimming While it Rains.txtp"
+    type: break
+  - id: electric_relic
+    title: "Electric Relic"
+    path: "07 - Electric Relic.txtp"
     type: betting
+  - id: it_s_not_supposed_to_be_snowing
+    title: "It's Not Supposed To Be Snowing"
+    path: "08 - It's Not Supposed To Be Snowing.txtp"
+    type: betting
+  - id: pillars_of_pepper
+    title: "Pillars of Pepper"
+    path: "09 - Pillars of Pepper.txtp"
+    type: betting
+  - id: frozen_hot_sauce
+    title: "Frozen Hot Sauce"
+    path: "10 - Frozen Hot Sauce.txtp"
+    type: betting
+  - id: baryogenesis
+    title: "Baryogenesis"
+    path: "13 - Baryogenesis.txtp"
+    type: betting
+  - id: a_safe_place_to_sleep
+    title: "A Safe Place to Sleep"
+    path: "14 - A Safe Place to Sleep.txtp"
+    type: break
+  - id: dream_salvage
+    title: "Dream Salvage"
+    path: "16 - Dream Salvage.txtp"
+    type: break
 ...

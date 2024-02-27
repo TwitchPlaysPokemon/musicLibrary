@@ -77,4 +77,8 @@ songs:
     title: "Halloween Event"
     path: "bgm_halloween.fsb"
     type: betting
+  - id: holiday_event_sleep
+    title: "Holiday Event"
+    path: "bgm_holiday.fsb"
+    type: betting
 ...

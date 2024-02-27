@@ -1,0 +1,87 @@
+---
+id: famicom_jump_ii_saikyo_no_7_nin
+title: "Famicom Jump II: Saikyo no 7-nin"
+platform: "FC"
+year: 1991
+songs:
+  - id: strongest_7_theme
+    title: "Strongest 7 Theme"
+    path: "01 Strongest 7 Theme.vgz"
+    type: result
+  - id: everyday_life_of_repose_town
+    title: "Everyday Life of Repose (Town)"
+    path: "02 Everyday Life of Repose (Town).vgz"
+    type: betting
+  - id: everyday_life_of_repose_temple
+    title: "Everyday Life of Repose (Temple)"
+    path: "03 Everyday Life of Repose (Temple).vgz"
+    type: result
+  - id: fly_the_kintoun
+    title: "Fly The Kintoun"
+    path: "04 Fly The Kintoun (Goku's Theme).vgz"
+    type: warning
+  - id: fly_the_kintoun_2
+    title: "Fly The Kintoun 2"
+    path: "05 Fly The Kintoun 2 (Goku's Theme).vgz"
+    type: warning
+  - id: house_kameari_affection
+    title: "House Kameari Affection"
+    path: "06 House Kameari Affection (Kankichi Ryotsu's Theme).vgz"
+    type: warning
+  - id: otokojuku_sakigake_song
+    title: "Otokojuku Sakigake Song"
+    path: "07 Otokojuku Sakigake Song (Momotaro Tsurugi's Theme).vgz"
+    type: warning
+  - id: wizard_of_toy_box
+    title: "Wizard of Toy Box"
+    path: "08 Wizard of Toy Box (Taluluto's Theme).vgz"
+    type: result
+  - id: ora_ora_rock_and_roll
+    title: "Ora Ora Rock and Roll"
+    path: "09 Ora Ora Rock and Roll (Taison Maeda's Theme).vgz"
+    type: warning
+  - id: strange_stand
+    title: "Strange Stand"
+    path: "10 Strange Stand (Jotaro Kujo's Theme).vgz"
+    type: warning
+  - id: i_love_jungle
+    title: "I Love Jungle"
+    path: "11 I Love Jungle (Tar-chan's Theme).vgz"
+    type: warning
+  - id: brave_moving
+    title: "Brave Moving"
+    path: "12 Brave Moving.vgz"
+    type: result
+  - id: brave_moving_2
+    title: "Brave Moving 2"
+    path: "13 Brave Moving 2.vgz"
+    type: warning
+  - id: mystery_dungeon_fj2
+    title: "Mystery Dungeon"
+    path: "14 Mystery Dungeon.vgz"
+    type: warning
+  - id: sea_of_peace
+    title: "Sea of Peace"
+    path: "15 Sea of Peace.vgz"
+    type: betting
+  - id: burning_spirit_fj2
+    title: "Burning Spirit"
+    path: "16 Burning Spirit (Battle).vgz"
+    type: battle
+  - id: space_frontier_fj2
+    title: "Space Frontier"
+    path: "17 Space Frontier.vgz"
+    type: result
+  - id: the_final_countdown_fj2
+    title: "The Final Countdown"
+    path: "18 The Final Countdown (Last Boss).vgz"
+    type: warning
+  - id: theme_of_friendship_effort_and_victory
+    title: "Theme of Friendship, Effort, and Victory"
+    path: "19 Theme of Friendship Effort Victory (Ending).vgz"
+    type: result
+  - id: credit_roll_fj2
+    title: "Credit Roll"
+    path: "20 Theme of Friendship Effort Victory (Credit Roll).vgz"
+    type: break
+...
