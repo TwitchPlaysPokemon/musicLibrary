@@ -6,26 +6,26 @@ year: 2001
 songs:
   - id: title_thps3gbc
     title: "Title"
-    path: "01 Title.vgm"
+    path: "01 Title.vgz"
     type: betting
   - id: select_skater
     title: "Select Skater"
-    path: "02 Select Skater.vgm"
+    path: "02 Select Skater.vgz"
     type: warning
   - id: goals_thps3gbc
     title: "Goals"
-    path: "03 Goals.vgm"
+    path: "03 Goals.vgz"
     type: warning
   - id: results_thps3gbc
     title: "Results"
-    path: "04 Results.vgm"
+    path: "04 Results.vgz"
     type: result
   - id: career_complete_thps3gbc
     title: "Career Complete!!"
-    path: "05 Career Complete!!.vgm"
+    path: "05 Career Complete!!.vgz"
     type: result
   - id: credits_thps3gbc
     title: "Credits"
-    path: "06 Credits.vgm"
+    path: "06 Credits.vgz"
     type: betting
 ...

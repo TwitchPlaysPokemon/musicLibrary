@@ -19,10 +19,6 @@ songs:
     # title: "Invincibility"
     # path: "invincibility.logg" only 30s long
     # type: warning
-  - id: file_select_smf
-    title: "File Select"
-    path: "fileselect.logg"
-    type: betting
   - id: menu_smf
     title: "Menu"
     path: "menu.logg"

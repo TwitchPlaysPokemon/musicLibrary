@@ -77,7 +77,7 @@ songs:
     title: "Blizzard Approaching"
     path: "mus_battle_snowdin.txtp"
     type: betting
-  - id: birds_of_a_feather
+  - id: birds_of_a_feather_yellow
     title: "Birds of a Feather"
     path: "mus_birdsofafeather.txtp"
     type: result
@@ -340,7 +340,7 @@ songs:
   - id: tenth_level_lockdown
     title: "TENTH LEVEL LOCKDOWN"
     path: "mus_guardener_theme.txtp"
-    type: betting
+    type: battle
   - id: mixin_it_up
     title: "Mixin' It Up"
     path: "mus_mixin_it_up.txtp"
@@ -380,7 +380,7 @@ songs:
   - id: echoes_of_another
     title: "echoes of another"
     path: "mus_flowey_world.txtp"
-    type: warning
+    type: betting
   - id: best_friends_forever
     title: "BEST FRIENDS FOREVER"
     path: "mus_flowey_final_boss_1.txtp"
@@ -448,7 +448,7 @@ songs:
   - id: some_point_of_no_return
     title: "Some Point of No Return"
     path: "mus_some_point_of_no_return.txtp"
-    type: betting
+    type: battle
   - id: a_mother_s_love_phase_1
     title: "A Mother's Love (Phase 1)"
     path: "mus_mothers_love_phase_1_LOOPED.txtp"
@@ -472,7 +472,7 @@ songs:
   - id: undertale_yellow
     title: "Undertale Yellow"
     path: "mus_credits.txtp"
-    type: betting
+    type: break
   - id: final_encounter_yellow
     title: "Final Encounter"
     path: "mus_vsasgore_OST.txtp"
