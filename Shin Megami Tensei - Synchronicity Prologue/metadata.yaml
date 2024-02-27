@@ -1,0 +1,36 @@
+---
+id: shin_megami_tensei_synchonicity_prologue
+title: "Shin Megami Tensei - Synchronicity Prologue"
+series: shinmegamitensei
+platform: "PC"
+year: 2017
+songs:
+  - id: dialogue_3_syncpro
+    title: "Dialogue 3"
+    path: "dialogue3.brstm"
+    type: betting
+  - id: dialogue_4_syncpro
+    title: "Dialogue 4"
+    path: "dialogue3.brstm"
+    type: warning
+  - id: intro_stage_syncpro
+    title: "Intro"
+    path: "intro_stage.brstm"
+    type: break
+  - id: stage_1_syncpro
+    title: "Stage 1"
+    path: "st00.brstm"
+    type: battle
+  - id: stage_2_syncpro
+    title: "Stage 2"
+    path: "st01.brstm"
+    type: betting
+  - id: stage_3_syncpro
+    title: "Stage 3"
+    path: "st02.brstm"
+    type: battle
+  - id: final_stage_syncpro
+    title: "Final Stage"
+    path: "st05.brstm"
+    type: warning
+...

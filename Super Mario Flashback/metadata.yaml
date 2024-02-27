@@ -1,0 +1,38 @@
+---
+id: super_mario_flashback
+title: "Super Mario Flashback"
+series: mario
+platform: "PC"
+year: 2017
+is_fanwork: true
+songs: 
+  - id: mushroom_kingdom_smf
+    title: "Mushroom Kingdom"
+    path: "mkingdom.logg"
+    ends: 1:18
+    type: betting
+  - id: file_select_smf
+    title: "File Select"
+    path: "fileselect.logg"
+    type: betting
+  # - id: invincibility_smf
+    # title: "Invincibility"
+    # path: "invincibility.logg" only 30s long
+    # type: warning
+  - id: file_select_smf
+    title: "File Select"
+    path: "fileselect.logg"
+    type: betting
+  - id: menu_smf
+    title: "Menu"
+    path: "menu.logg"
+    type: result
+  - id: mushroom_kingdom_underground_smf
+    title: "Mushroom Kingdom - Underground"
+    path: "mkingdom2.logg"
+    type: betting
+  - id: yoshi_s_island_smf
+    title: "Yoshi's Island"
+    path: "yisland.logg"
+    type: betting
+...

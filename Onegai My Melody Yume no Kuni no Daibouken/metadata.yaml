@@ -1,0 +1,38 @@
+id: onegai_my_melody_yume_no_kuni_no_daibouken
+title: "Onegai My Melody: Yume no Kuni no Daibouken"
+platform: "NDS"
+year: 2005
+songs:
+  - id: bgm1_ommds
+    title: "BGM1"
+    path: "NTR-AOMJ-JPN-0000.mini2sf"
+    type: betting
+  - id: bgm2_ommds
+    title: "BGM2"
+    path: "NTR-AOMJ-JPN-0001.mini2sf"
+    type: result
+  - id: bgm3_ommds
+    title: "BGM3"
+    path: "NTR-AOMJ-JPN-0002.mini2sf"
+    type: result
+  - id: bgm4_ommds
+    title: "BGM4"
+    path: "NTR-AOMJ-JPN-0003.mini2sf"
+    type: result
+  - id: bgm6_ommds
+    title: "BGM6"
+    path: "NTR-AOMJ-JPN-0005.mini2sf"
+    type: warning
+  - id: bgm7_ommds
+    title: "BGM7"
+    path: "NTR-AOMJ-JPN-0006.mini2sf"
+    type: break
+  - id: bgm8_ommds
+    title: "BGM8"
+    path: "NTR-AOMJ-JPN-0007.mini2sf"
+    type: warning
+  - id: メロディ_ドリーム
+    title: "メロディ♪ドリーム"
+    path: "NTR-AOMJ-JPN-0009.mini2sf"
+    type: break
+...

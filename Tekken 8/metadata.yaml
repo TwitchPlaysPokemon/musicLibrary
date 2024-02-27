@@ -1,0 +1,108 @@
+---
+id: tekken_8
+title: "Tekken 8"
+series: tekken
+platform: "Various"
+year: 2024
+songs: 
+  - id: main_menu_liberation
+    title: "Main Menu (Liberation)"
+    path: "Main Menu (Liberation).brstm"
+    type: betting
+  - id: network_silent_signal
+    title: "Network (Silent Signal)"
+    path: "Network (Silent Signal).brstm"
+    type: betting
+  - id: character_select_rude_and_reckless
+    title: "Character Select (Rude and Reckless)"
+    path: "Character Select (Rude and Reckless).brstm"
+    type: warning
+  - id: arena_1st
+    title: "Arena 1st (The Decisive Blow - Normal)"
+    path: "Arena 1st (The Decisive Blow - Normal).brstm"
+    type: battle
+  - id: arena_2nd
+    title: "Arena 2nd (The Decisive Blow - Climax)"
+    path: "Arena 2nd (The Decisive Blow - Climax).brstm"
+    type: battle
+  - id: yakushima_1st
+    title: "Yakushima 1st (TAMASHII - Normal)"
+    path: "Yakushima 1st (TAMASHII - Normal).brstm"
+    type: betting
+  - id: yakushima_2nd
+    title: "Yakushima 2nd (TAMASHII - Climax)"
+    path: "Yakushima 2nd (TAMASHII - Climax).brstm"
+    type: battle
+  - id: rebel_hangar_1st
+    title: "Rebel Hangar 1st (Hangar Rules - Normal)"
+    path: "Rebel Hangar 1st (Hangar Rules - Normal).brstm"
+    type: betting
+  - id: rebel_hangar_2nd
+    title: "Rebel Hangar 2nd (Hangar Rules - Climax)"
+    path: "Rebel Hangar 2nd (Hangar Rules - Climax).brstm"
+    type: betting
+  - id: into_the_stratosphere_1st
+    title: "Into the Stratosphere 1st (Volcanic Bomb - Normal)"
+    path: "Into the Stratosphere 1st (Volcanic Bomb - Normal).brstm"
+    type: battle
+  - id: into_the_stratosphere_2nd
+    title: "Into the Stratosphere 2nd (Volcanic Bomb - Remix)"
+    path: "Into the Stratosphere 2nd (Volcanic Bomb - Remix).brstm"
+    type: battle
+  - id: secluded_training_ground_1st
+    title: "Secluded Training Ground 1st (Silenty Boisterous - Normal)"
+    path: "Secluded Training Ground 1st (Silenty Boisterous - Normal).brstm"
+    type: battle
+  - id: secluded_training_ground_2nd
+    title: "Secluded Training Ground 2nd (Silenty Boisterous - Climax)"
+    path: "Secluded Training Ground 2nd (Silenty Boisterous - Climax).brstm"
+    type: battle
+  - id: coliseum_of_fate_1st
+    title: "Coliseum of Fate 1st (Colosseum - Normal)"
+    path: "Coliseum of Fate 1st (Colosseum - Normal).brstm"
+    type: betting
+  - id: coliseum_of_fate_2nd
+    title: "Coliseum of Fate 2nd (Colosseum - Climax)"
+    path: "Coliseum of Fate 2nd (Colosseum - Climax).brstm"
+    type: battle
+  - id: sanctum_1st
+    title: "Sanctum 1st (Kakuri-yo Kagura - Normal)"
+    path: "Sanctum 1st (Kakuri-yo Kagura - Normal).brstm"
+    type: battle
+  - id: sanctum_2nd
+    title: "Sanctum 2nd (Kakuri-yo Kagura - Normal)"
+    path: "Sanctum 2nd (Kakuri-yo Kagura - Normal).brstm"
+    type: battle
+  - id: celebration_on_the_seine_1st
+    title: "Celebration on the Seine 1st (Twilight Party Cruise - Normal)"
+    path: "Celebration on the Seine 1st (Twilight Party Cruise - Normal).brstm"
+    type: battle
+  - id: celebration_on_the_seine_2nd
+    title: "Celebration on the Seine 2nd (Twilight Party Cruise - Remix)"
+    path: "Celebration on the Seine 2nd (Twilight Party Cruise - Remix).brstm"
+    type: battle
+  - id: ortiz_farm_1st
+    title: "Ortiz Farm 1st (Golden Meadow - Normal)"
+    path: "Ortiz Farm 1st (Golden Meadow - Normal).brstm"
+    type: betting
+  - id: ortiz_farm_2nd
+    title: "Ortiz Farm 2nd (Golden Meadow - Climax)"
+    path: "Ortiz Farm 2nd (Golden Meadow - Climax).brstm"
+    type: battle
+  - id: tekken_ball_1st
+    title: "Tekken Ball 1st (Our Tekken Ball - Normal)"
+    path: "Tekken Ball 1st (Our Tekken Ball - Normal).brstm"
+    type: battle
+  - id: tekken_ball_2nd
+    title: "Tekken Ball 2nd (Our Tekken Ball - Climax)"
+    path: "Tekken Ball 2nd (Our Tekken Ball - Climax).brstm"
+    type: battle
+  - id: fallen_destiny_1st
+    title: "Fallen Destiny 1st (STORM RISING - Normal)"
+    path: "Fallen Destiny 1st (STORM RISING - Normal).brstm"
+    type: battle
+  - id: fallen_destiny_2nd
+    title: "Fallen Destiny 2nd (STORM RISING - Climax)"
+    path: "Fallen Destiny 2nd (STORM RISING - Climax).brstm"
+    type: battle
+...

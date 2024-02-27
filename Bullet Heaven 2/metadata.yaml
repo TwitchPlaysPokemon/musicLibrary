@@ -1,0 +1,69 @@
+﻿---
+id: bullet_heaven_2
+title: "Bullet Heaven 2"
+series: ebf
+platform: "PC"
+year: 2015
+songs:
+  - id: underwater_grotto_bh2
+    title: "Underwater Grotto"
+    path: "03 Underwater Grotto.brstm"
+    ends: 2:10
+    type: betting
+  - id: riding_with_a_ready_trigger_bh2
+    title: "Riding with a Ready Trigger"
+    path: "04 Riding with a Ready Trigger.brstm"
+    type: betting
+  - id: christmas_is_here_bh2
+    title: "Christmas is Here!"
+    path: "05 Christmas is Here!.brstm"
+    tags: [xmas]
+    type: betting
+  - id: the_zone_of_synthetic_dreams_bh2
+    title: "The Zone of Synthetic Dreams"
+    path: "06 The Zone of Synthetic Dreams.brstm"
+    type: betting
+  - id: br0k3n_analog_groove_bh2
+    title: "Br0k3n Analog Groove"
+    path: "08 Br0k3n Analog Groove.brstm"
+    type: betting
+  - id: nox_tenebris_daemoniacae_bh2
+    title: "Nox Tenebris Daemoniacae"
+    path: "09 Nox Tenebris Daemoniacae.brstm"
+    tags: [halloween]
+    type: betting
+  - id: of_sand_and_wind_bh2
+    title: "Of Sand and Wind"
+    path: "10 Of Sand and Wind.brstm"
+    ends: 2:10
+    type: betting
+  - id: start_the_day_on_wings_bh2
+    title: "Start the Day on Wings~!"
+    path: "02 Start the Day on Wings.brstm"
+    type: battle
+  - id: yami_no_viriba_bh2
+    title: "Yami no Viriba"
+    path: "12 Yami no Viriba.brstm"
+    type: battle
+  - id: crystalline_dreaming_bh2
+    title: "Crystalline Dreaming"
+    path: "20 Crystalline Dreaming.brstm"
+    tags: [xmas]
+    type: result
+  - id: chaos_of_mind_bh2
+    title: "Chaos of Mind"
+    path: "14 Chaos of Mind.brstm"
+    type: warning
+  - id: experiment_mk_vg_bh2
+    title: "Experiment MK VG"
+    path: "16 Experiment MK VG.brstm"
+    type: warning
+  - id: reflection_of_an_angel_bh2
+    title: "Reflection of an Angel"
+    path: "01 Reflection of an Angel.brstm"
+    type: break
+  - id: odyssey_to_the_deep_star_bh2
+    title: "Odyssey to the Deep Star"
+    path: "11 Odyssey to the Deep Star.brstm"
+    type: break
+...

@@ -1,11 +1,147 @@
 ---
 id: sonic_sega_all_stars_racing_nds
 title: "Sonic & Sega All-Stars Racing [NDS]"
-platform: "Various"
+platform: "NDS"
 year: 2010
 songs: 
   - id: menu_sonic_sega_all_stars_racing_nds
     title: "Menu"
-    path: "001e - SEQ_menu.mini2sf"
+    path: "01 Main Menu.mini2sf"
+    type: betting
+  - id: race_overview_sonic_sega_all_stars_racing_nds
+    title: "Race Overview"
+    path: "02 Race Overview.mini2sf"
+    type: warning
+  - id: seaside_hill_sonic_sega_all_stars_racing_nds
+    title: "Seaside Hill"
+    path: "03 Seaside Hill (Sonic Heroes).mini2sf"
+    type: betting
+  - id: can_you_feel_the_sunshine_sonic_sega_all_stars_racing_nds
+    title: "Can You Feel the Sunshine"
+    path: "04 Can You Feel the Sunshine (Sonic R).mini2sf"
+    type: betting
+  - id: windy_and_ripply_sonic_sega_all_stars_racing_nds
+    title: "Windy and Ripply"
+    path: "05 Windy and Ripply (Sonic Adventure).mini2sf"
+    type: betting
+  - id: casino_park_sonic_sega_all_stars_racing_nds
+    title: "Casino Park"
+    path: "06 Casino Park (Sonic Heroes).mini2sf"
+    type: betting
+  - id: super_sonic_racing_sonic_sega_all_stars_racing_nds
+    title: "Super Sonic Racing"
+    path: "07 Super Sonic Racing (Sonic R).mini2sf"
+    type: betting
+  - id: be_cool_be_wild_be_groovy_sonic_sega_all_stars_racing_nds
+    title: "Be Cool, Be Wild, Be Groovy"
+    path: "08 Be Cool, Be Wild, Be Groovy (Sonic Adventure).mini2sf"
+    type: betting
+  - id: final_fortress_sonic_sega_all_stars_racing_nds
+    title: "Final Fortress"
+    path: "09 Final Fortress (Sonic Heroes).mini2sf"
+    type: battle
+  - id: final_egg_crank_the_heat_up
+    title: "Final Egg Crank the Heat Up!!"
+    path: "10 Final Egg Crank the Heat Up!! (Sonic Adventure).mini2sf"
+    type: battle
+  - id: e_g_g_m_a_n_sonic_sega_all_stars_racing_nds
+    title: "E.G.G.M.A.N."
+    path: "11 E.G.G.M.A.N. (Sonic Adventure 2).mini2sf"
+    type: betting
+  - id: monkey_island_sonic_sega_all_stars_racing_nds
+    title: "Monkey Island"
+    path: "12 Monkey Island (Super Monkey Ball Banana Blitz).mini2sf"
+    type: betting
+  - id: ultra_heaven
+    title: "Ultra Heaven"
+    path: "13 Ultra Heaven (Super Monkey Ball Banana Blitz).mini2sf"
+    type: betting
+  - id: monkey_race_sonic_sega_all_stars_racing_nds
+    title: "Monkey Race"
+    path: "14 Monkey Race (Super Monkey Ball).mini2sf"
+    type: betting
+  - id: tumbling_xylophone_sonic_sega_all_stars_racing_nds
+    title: "Tumbling Xylophone"
+    path: "15 Tumbling Xylophone (Billy Hatcher and the Giant Egg).mini2sf"
+    type: betting
+  - id: volcanic_orchestra_sonic_sega_all_stars_racing_nds
+    title: "Volcanic Orchestra"
+    path: "16 Volcanic Orchestra (Billy Hatcher and the Giant Egg).mini2sf"
+    type: betting
+  - id: a_jack_in_the_box_sonic_sega_all_stars_racing_nds
+    title: "A Jack-In-The-Box!"
+    path: "17 A Jack-In-The-Box! (Billy Hatcher and the Giant Egg).mini2sf"
+    type: battle
+  - id: vamos_al_carnaval_sonic_sega_all_stars_racing_nds
+    title: "Vamos al Carnaval"
+    path: "18 Vamos al Carnaval (Samba de Amigo).mini2sf"
+    type: betting
+  - id: party_time_sonic_sega_all_stars_racing_nds
+    title: "Party Time"
+    path: "19 Party Time (Samba de Amigo).mini2sf"
+    type: result
+  - id: super_samba_sonic_sega_all_stars_racing_nds
+    title: "Super Samba"
+    path: "20 Super Samba (Samba de Amigo).mini2sf"
+    type: warning
+  - id: theme_of_the_magician_sonic_sega_all_stars_racing_nds
+    title: "Theme Of The Magician"
+    path: "21 Theme Of The Magician (The House of the Dead).mini2sf"
+    type: betting
+  - id: hope_with_doubt_sonic_sega_all_stars_racing_nds
+    title: "Hope With Doubt"
+    path: "22 Hope With Doubt (The House of the Dead 4).mini2sf"
+    type: betting
+  - id: restoration_of_terror_sonic_sega_all_stars_racing_nds
+    title: "Restoration of Terror"
+    path: "23 Restoration of Terror (The House of the Dead 4).mini2sf"
+    type: betting
+  - id: the_concept_of_love_sonic_sega_all_stars_racing_nds
+    title: "The Concept Of Love"
+    path: "24 The Concept Of Love (Jet Set Radio Future).mini2sf"
+    type: betting
+  - id: funky_dealer_sonic_sega_all_stars_racing_nds
+    title: "Funky Dealer"
+    path: "25 Funky Dealer (Jet Set Radio Future).mini2sf"
+    type: betting
+  - id: fly_like_a_butterfly_sonic_sega_all_stars_racing_nds
+    title: "Fly Like A Butterfly"
+    path: "26 Fly Like A Butterfly (Jet Set Radio Future).mini2sf"
+    type: betting
+  - id: race_win_sonic_sega_all_stars_racing_nds
+    title: "Race Win"
+    path: "27 Race Win.mini2sf"
+    type: result
+  - id: win_a_trophy_sonic_sega_all_stars_racing_nds
+    title: "Win a Trophy"
+    path: "28 Win a Trophy.mini2sf"
+    type: result
+  - id: unknown_1_sonic_sega_all_stars_racing_nds
+    title: "Unkown #1"
+    path: "29 Unkown #1.mini2sf"
+    type: betting
+  - id: unknown_2_sonic_sega_all_stars_racing_nds
+    title: "Unkown #2"
+    path: "30 Unkown #2.mini2sf"
+    type: betting
+  - id: unknown_3_sonic_sega_all_stars_racing_nds
+    title: "Unkown #3"
+    path: "31 Unkown #3.mini2sf"
+    type: result
+  - id: unknown_4_sonic_sega_all_stars_racing_nds
+    title: "Unkown #4"
+    path: "32 Unkown #4.mini2sf"
+    type: result
+  - id: unknown_5_sonic_sega_all_stars_racing_nds
+    title: "Unkown #5"
+    path: "33 Unkown #5.mini2sf"
+    type: betting
+  - id: unknown_6_sonic_sega_all_stars_racing_nds
+    title: "Unkown #6"
+    path: "33 Unkown #6.mini2sf"
+    type: result
+  - id: unknown_7_sonic_sega_all_stars_racing_nds
+    title: "Unkown #7"
+    path: "34 Unkown #7.mini2sf"
     type: betting
 ...

@@ -1,0 +1,16 @@
+---
+id: garten_of_banban_3
+title: "Garten of Banban 3"
+platform: "PC"
+year: 2023
+songs: 
+  - id: family_feud_banban3
+    title: "Family Feud"
+    path: "Family Feud.brstm"
+    type: betting
+  - id: rivals_banban3
+    title: "Rivals"
+    path: "Rivals.brstm"
+    ends: 2:55
+    type: betting
+...

@@ -1,0 +1,22 @@
+id: out_of_scale_a_kurzgesagt_adventure
+title: "Out of Scale: A Kurzgesagt Adventure"
+platform: "Meta Quest"
+year: 2023
+songs: 
+  - id: ant_
+    title: "Ant"
+    path: "Ant.brstm"
+    type: betting
+  - id: fungi
+    title: "Fungi"
+    path: "Fungi.brstm"
+    type: break
+  - id: protist
+    title: "Protist"
+    path: "Protist.brstm"
+    type: betting
+  - id: tardigrade
+    title: "Tardigrade"
+    path: "Tardigrade.brstm"
+    type: warning
+...

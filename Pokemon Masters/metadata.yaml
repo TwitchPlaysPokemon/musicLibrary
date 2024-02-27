@@ -141,6 +141,10 @@ songs:
     title: "Type Battle Event"
     path: "bgm_field_typebattle.logg"
     type: betting
+  - id: battle_rally_theme
+    title: "Battle Rally Theme"
+    path: "bgm_field_battlerally.logg"
+    type: betting
   - id: victory_road_kanto_masters
     title: "Victory Road (Kanto)"
     path: "bgm_field_champion_01.logg"
@@ -225,6 +229,22 @@ songs:
     title: "Emotional Theme"
     path: "bgm_event08.logg"
     type: break
+  - id: hisui_event_theme
+    title: "Hisui Event Theme"
+    path: "bgm_event_hisui_01.logg"
+    type: break
+  - id: iono_zone_masters
+    title: "Iono Zone"
+    path: "bgm_event_nanjamo_01.logg"
+    type: warning
+  - id: iono_zone_part_2_masters
+    title: "Iono Zone (Part 2)"
+    path: "bgm_event_nanjamo_02.logg"
+    type: warning
+  - id: iono_zone_part_3_masters
+    title: "Iono Zone (Part 3)"
+    path: "bgm_event_nanjamo_03.logg"
+    type: result
   - id: villain_arc_ending
     title: "Villain Arc Ending"
     path: "bgm_villain_ending.logg" #dunno a good type for this one, so
@@ -322,6 +342,10 @@ songs:
     title: "Trainer Lodge: Interaction (Result)"
     path: "bgm_salon_interact_result.logg"
     type: result
+  - id: photo_studio_masters
+    title: "Photo Studio"
+    path: "bgm_field_photostudio.logg"
+    type: break
     #battle themes start here
 
     #Kanto - all songs from R/B/FR/LG/Let's Go, in approximate order
@@ -446,6 +470,10 @@ songs:
   - id: battle_red_one_year_anniversary_mix
     title: "Battle! (Red - One Year Anniversary Mix)"
     path: "Battle! Red (Pokemon Masters).brstm"
+    type: battle
+  - id: battle_neo_johto_champion
+    title: "Battle! (Neo Johto Champion)"
+    path: "bgm_battle_neochamp_jhoto.logg"
     type: battle
 
     #Hoenn - all songs from R/S/E/OR/AS in approx. order
@@ -973,9 +1001,17 @@ songs:
     title: "Battle! (Nemona)"
     path: "bgm_battle_nemo.logg"
     type: battle
+  - id: battle_paldea_gym_leader_masters
+    title: "Battle! (Paldea Gym Leader)"
+    path: "bgm_battle_gl_p.logg"
+    type: battle
   - id: battle_penny
     title: "Battle! (Penny)"
     path: "bgm_battle_button.logg"
+    type: battle
+  - id: battle_geeta
+    title: "Battle! (Geeta)"
+    path: "bgm_battle_omodaka.logg"
     type: battle
 
     #Pasio - any Masters-exclusive tracks or stuff I couldn't really put anywhere else
@@ -1058,6 +1094,10 @@ songs:
   - id: battle_new_year_masters
     title: "Battle! (New Year)"
     path: "bgm_battle_newyear.logg"
+    type: battle
+  - id: battle_palentine_s_day
+    title: "Battle! (Palentine's Day)"
+    path: "bgm_battle_thanksday.logg"
     type: battle
   - id: battle_poke_war_games_event
     title: "Battle! (Poké-War Games Event)"

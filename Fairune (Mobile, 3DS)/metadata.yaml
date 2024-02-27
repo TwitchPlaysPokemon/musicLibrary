@@ -1,8 +1,8 @@
----
-id: fairune_mobile_3ds
+﻿---
+id: fairune
 title: "Fairune"
 series: fairune
-platform: ["Mobile, 3DS"]
+platform: ["Various"]
 year: 2013
 songs: 
   - id: grasslands_fairune
@@ -33,8 +33,8 @@ songs:
     title: "Giga Dark"
     path: "Giga Dark.brstm"
     type: warning
-  - id: terra_dark_fairune
-    title: "Terra Dark"
+  - id: tera_dark_fairune
+    title: "Tera Dark"
     path: "Terra Dark.brstm"
     type: warning
 ...

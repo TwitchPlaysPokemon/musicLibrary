@@ -277,4 +277,94 @@ songs:
     path: "623 bgm_00000001.hca"
     ends: 2:05
     type: betting
+#DLC
+#not sure if these mvt tracks are good for break, but might as well try
+  - id: maybe_if_amy_mvt
+    title: "Maybe If… - Amy Mvt."
+    path: "703 Maybe If… - Amy Mvt.brstm"
+    type: break
+  - id: blood_flow_knuckles_mvt
+    title: "Blood Flow - Knuckles Mvt."
+    path: "704 Blood Flow - Knuckles Mvt.brstm"
+    type: break
+  - id: another_passage_tails_mvt
+    title: "Another Passage - Tails Mvt."
+    path: "705 Another Passage - Tails Mvt.brstm"
+    type: break
+  - id: second_wind_sonic_mvt
+    title: "Second Wind - Sonic Mvt."
+    path: "706 Second Wind - Sonic Mvt.brstm"
+    type: break
+  - id: cyber_space_4_a_genshi_remix
+    title: "Cyber Space 4-A: Genshi Remix"
+    path: "707 bgm_cyber_w1r06_00000000.hca"
+    ends: 2:14
+    type: betting
+  - id: cyber_space_4_b_escape_the_loop_remix
+    title: "Cyber Space 4-B: Escape the Loop Remix"
+    path: "708 bgm_cyber_w1r06_00000002.hca"
+    ends: 2:03
+    type: betting
+  - id: cyber_space_4_c_arrow_of_time_remix
+    title: "Cyber Space 4-C: Arrow of Time Remix"
+    path: "709 bgm_cyber_w1r06_00000004.hca"
+    type: battle
+  - id: cyber_space_4_d_rumble_rave_remix
+    title: "Cyber Space 4-D: Rumble Rave Remix"
+    path: "710 bgm_cyber_w1r06_00000006.hca"
+    type: battle
+  - id: cyber_space_4_e_dropaholic_remix
+    title: "Cyber Space 4-E: Dropaholic Remix"
+    path: "711 bgm_cyber_w1r06_00000008.hca"
+    ends: 2:34
+    type: betting
+  - id: cyber_space_4_f_hype_street_remix
+    title: "Cyber Space 4-F: Hype Street Remix"
+    path: "712 bgm_cyber_w1r06_0000000A.hca"
+    type: betting
+  - id: cyber_space_4_g_ephemeral_remix
+    title: "Cyber Space 4-G: Ephemeral Remix"
+    path: "713 bgm_cyber_w1r06_0000000C.hca"
+    ends: 2:14
+    type: betting
+  - id: cyber_space_4_h_wishes_in_the_wind_remix
+    title: "Cyber Space 4-H: Wishes in the Wind Remix"
+    path: "714 bgm_cyber_w1r06_0000000E.hca"
+    type: battle
+  - id: cyber_space_4_i_time_flyer_remix
+    title: "Cyber Space 4-I: Time Flyer Remix"
+    path: "715 bgm_cyber_w1r06_00000010.hca"
+    type: battle
+  - id: guardian_ninja_alternate_ver
+    title: "Guardian: NINJA - Alternate ver."
+    path: "716 Guardian- NINJA - Alternate ver.brstm"
+    type: battle
+  - id: guardian_caterpillar_alternate_ver
+    title: "Guardian: CATERPILLAR - Alternate ver."
+    path: "717 Guardian- CATERPILLAR - Alternate ver.brstm"
+    type: battle
+  - id: action_chain_challenge
+    title: "Action Chain Challenge"
+    path: "802 bgm_actionchain_00000002.hca"
+    type: result
+  - id: guardian_tower_alternate_ver
+    title: "Guardian: TOWER - Alternate ver."
+    path: "804 Guardian- TOWER - Alternate ver.brstm"
+    type: battle
+  - id: guardian_tank_alternate_ver
+    title: "Guardian: TANK - Alternate ver."
+    path: "809 Guardian- TANK - Alternate ver.brstm"
+    type: battle
+  - id: i_m_here_orchestral_ver
+    title: "I'm Here - Orchestral ver."
+    path: "814 I'm Here - Orchestral ver.brstm"
+    type: battle
+  - id: i_m_here_revisited
+    title: "I'm Here - Revisited"
+    path: "815 I'm Here - Revisited.brstm"
+    type: battle
+  - id: i_m_with_you_vocal_ver
+    title: "I'm with you - Vocal ver."
+    path: "817 I'm with you - Vocal ver.brstm"
+    type: break
 ...

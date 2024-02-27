@@ -1,0 +1,56 @@
+﻿---
+id: sayonara_umihara_kawase
+title: "Sayonara Umihara Kawase"
+series: umiharakawase
+platform: ["3DS", "Vita", "PC"]
+year: 2013
+songs:
+  - id: apartments_suk
+    title: "Apartments"
+    path: "Apartments.bcwav"
+    type: betting
+  - id: parent_and_child_suk
+    title: "Parent and Child"
+    path: "Parent and Child.bcwav"
+    type: betting
+  - id: tama_river_suk
+    title: "Tama River"
+    path: "Tama River.bcwav"
+    type: betting
+  - id: sky_blue_instrumental
+    title: "Sky Blue (Instrumental Arrange)"
+    path: "Sky Blue (Instrumental Arrange).bcwav"
+    type: result
+  - id: school_suk
+    title: "School"
+    path: "School.bcwav"
+    type: result
+  - id: awakening_heartbeat_instrumental
+    title: "Awakening Heartbeat (Instrumental Arrange)"
+    path: "Awakening Heartbeat (Instrumental Arrange).bcwav"
+    type: break
+  - id: field_select_suk
+    title: "Field Select"
+    path: "Field Select.bcwav"
+    type: break
+  - id: public_bath_suk
+    title: "Public Bath"
+    path: "Public Bath.bcwav"
+    type: break
+  - id: izakaya_suk
+    title: "Izakaya"
+    path: "Izakaya.bcwav"
+    type: break
+  - id: cant_proceed_suk
+    title: "Can't Proceed"
+    path: "Can't Proceed.bcwav"
+    type: break
+  - id: pout_suk
+    title: "Pout"
+    path: "Pout.bcwav"
+    type: break
+  - id: nagatoro_suk
+    title: "Nagatoro"
+    path: "Nagatoro.bcwav"
+    type: break
+...

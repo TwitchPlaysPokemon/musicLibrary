@@ -1,0 +1,68 @@
+---
+id: parasol_stars_the_story_of_bubble_bobble_iii
+title: "Parasol Stars: The Story of Bubble Bobble III"
+series: bubblebobble
+platform: ["TG-16", "NES", "Amiga"]
+year: 1991
+songs: 
+  - id: main_bgm_bbiii
+    title: "Main BGM"
+    path: "02 Main BGM.vgz"
+    type: betting
+  - id: main_bgm_hurry
+    title: "Main BGM (Hurry)"
+    path: "03 Main BGM (Hurry).vgz"
+    type: warning
+  - id: boss_bgm_bbiii
+    title: "Boss BGM"
+    path: "04 Boss BGM.vgz"
+    type: battle
+  - id: invincible_bbiii
+    title: "Invincible"
+    path: "06 Invincible.vgz"
+    type: result
+  - id: rainbow_world
+    title: "Rainbow World"
+    path: "07 Rainbow World.vgz"
+    type: betting
+  - id: rainbow_world_hurry
+    title: "Rainbow World (Hurry)"
+    path: "08 Rainbow World (Hurry).vgz"
+    type: warning
+  - id: bad_ending_bbiii
+    title: "Bad Ending"
+    path: "09 Bad Ending.vgz"
+    type: result
+  - id: bubble_world
+    title: "Bubble World"
+    path: "10 Bubble World.vgz"
+    type: betting
+  - id: bubble_world_hurry
+    title: "Bubble World (Hurry)"
+    path: "11 Bubble World (Hurry).vgz"
+    type: warning
+  - id: bonus_bottle
+    title: "Bonus Bottle"
+    path: "12 Bonus Bottle.vgz"
+    type: result
+  - id: underworld_bbiii
+    title: "Underworld"
+    path: "13 Underworld.vgz"
+    type: betting
+  - id: underworld_hurry
+    title: "Underworld (Hurry)"
+    path: "14 Underworld (Hurry).vgz"
+    type: warning
+  - id: final_boss_bbiii
+    title: "Final Boss"
+    path: "15 Final Boss.vgz"
+    type: warning
+  - id: true_ending_bbiii
+    title: "True Ending"
+    path: "16 True Ending.vgz"
+    type: result
+  - id: ranking_bbiii
+    title: "Ranking"
+    path: "17 Ranking.vgz"
+    type: result
+...

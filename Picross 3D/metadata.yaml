@@ -1,21 +1,22 @@
-id: picross_3d
+﻿id: picross_3d
 title: "Picross 3D"
+series: picross3d
 platform: "NDS"
 year: 2009
 songs:
-  - id: latin
+  - id: latin_picross3d
     title: "Latin"
     path: "0001 SEQ_PLAY01.mini2sf"
     type: break
-  - id: relax_picross_3d
+  - id: relax_picross3d
     title: "Relax"
     path: "000D SEQ_PLAY02.mini2sf"
     type: break
-  - id: title_screen_picross_3d
+  - id: title_screen_picross3d
     title: "Title Screen"
     path: "0000 SEQ_P3DTITLE.mini2sf"
     type: betting
-  - id: tutorial_picross_3d
+  - id: tutorial_picross3d
     title: "Tutorial"
     path: "000C SEQ_TUTORIAL.mini2sf"
     type: break

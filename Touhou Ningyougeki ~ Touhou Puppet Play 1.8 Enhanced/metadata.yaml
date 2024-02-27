@@ -1,6 +1,6 @@
----
-id: touhou_ningyougeki_touhou_puppet_play_enhanced
-title: "Touhou Ningyougeki ~ Touhou Puppet Play Enhanced"
+﻿---
+id: touhou_puppet_play_enhanced
+title: "Touhou Puppet Play 1.8 Enhanced"
 series: touhou
 is_fanwork: true
 platform: "GBA"
@@ -61,7 +61,7 @@ songs:
   - id: 022_a_soul_as_red_as_an_onis_lantern
     title: "A Soul as Red as an Oni's Lantern"
     path: "022 - A Soul as Red as an Oni's Lantern.brstm"
-    ends: 2:00
+    ends: 1:30
     type: betting
   - id: 023_lunate_elf
     title: "Lunate Elf"
@@ -86,7 +86,11 @@ songs:
   - id: 028_beware_the_umbrella_left_there_forever
     title: "Beware the Umbrella Left There Forever"
     path: "028 - Beware the Umbrella Left There Forever.brstm"
-    type: betting
+    type: warning
+  - id: 030_civilization_of_magic
+    title: "Civilization of Magic"
+    path: "030 Civilization of Magic.brstm"
+    type: warning
   - id: 034_maidens_capriccio
     title: "Maiden's Capriccio (Title Screen)"
     path: "034 - Maiden's Capriccio (Title Screen).brstm"
@@ -95,9 +99,10 @@ songs:
     title: "Hellfire Mantle"
     path: "035 - Hellfire Mantle.brstm"
     type: warning
-  - id: ultimate_truth_touhou_ningyougeki
+  - id: 036_ultimate_truth
     title: "Ultimate Truth"
     path: "036 - Ultimate truth.brstm"
+    tags: [halloween]
     type: betting
   - id: 037_septette_for_the_dead_princess
     title: "Septette for the Dead Princess"
@@ -124,6 +129,10 @@ songs:
     title: "Fly Above Hatoyama at Night - Power MIX"
     path: "042 - Fly above Hatoyama at Night - Power MIX.brstm"
     type: warning
+  - id: 044_end_of_daylight
+    title: "End of Daylight"
+    path: "044 - End of Daylight [No Intro].brstm"
+    type: warning
   - id: 046_legend_of_hourai
     title: "Legend of Hourai"
     path: "046 - Legend of Hourai.brstm"
@@ -132,6 +141,14 @@ songs:
     title: "Wind God Girl (Bicycle)"
     path: "049 - Wind God Girl (Bicycle).brstm"
     type: result
+  - id: 051_a_flower_studded_sake_dish_on_mt_ooe
+    title: "A Flower-Studded Sake Dish on Mt. Ooe"
+    path: "051 - A Flower-Studded Sake Dish on Mt. Ooe.brstm"
+    type: warning
+  - id: 053_yumegatari_tumeneco
+    title: "Yumegatari (TUMENECO)"
+    path: "yumegatari.brstm"
+    type: battle
   - id: 054_spring_lane_colorful_path
     title: "Spring Lane - Colorful Path"
     path: "054 - Spring Lane - Colorful Path.brstm"
@@ -147,7 +164,6 @@ songs:
   - id: 057_gensokyo_millenium_long_version
     title: "Gensokyo Millenium - History of the Moon (Long Version)"
     path: "057 - Gensokyo Millenium - History of the Moon (Long Version).brstm"
-    ends: 2:29
     type: betting
   - id: 060_kids_festival_innocent_treasures
     title: "Kid's Festival - Innocent Treasures"
@@ -157,6 +173,10 @@ songs:
     title: "MegaMari Opening (Alternate)"
     path: "081 - MegaMari Opening (Alternate).brstm"
     type: break
+  - id: 082_grimoire_of_alice
+    title: "Grimoire of Alice"
+    path: "082 - Grimoire of Alice.brstm"
+    type: warning
   - id: 097_sun_worship_of_gnosis_nuclear_fusion
     title: "Sun Worship of Gnosis - Nuclear Fusion"
     path: "097 - Sun Worship of Gnosis - Nuclear Fusion.brstm"
@@ -168,9 +188,5 @@ songs:
   - id: 113_afraid
     title: "Afraid (Frontier Aja)"
     path: "113 - Afraid (Frontier Aja).brstm"
-    type: battle
-  - id: yumegatari_tumeneco
-    title: "Yumegatari (TUMENECO)"
-    path: "yumegatari.brstm"
     type: battle
 ...

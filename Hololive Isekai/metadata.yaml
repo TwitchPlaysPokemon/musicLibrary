@@ -1,0 +1,17 @@
+---
+id: hololive_isekai
+title: "Hololive Isekai"
+platform: "PC"
+series: hololive
+year: 2021
+is_fanwork: true 
+songs: 
+  - id: encounter_holoise
+    title: "Encounter"
+    path: "track_Encounter_3_loop.brstm"
+    type: battle
+  - id: battle_holoise
+    title: "Battle"
+    path: "track_Battle_loop.brstm"
+    type: warning
+...

@@ -1,0 +1,27 @@
+---
+id: a_magical_high_school_girl
+title: "A Magical High School Girl"
+platform: ["PC", "Switch"]
+year: 2016
+songs: 
+  - id: majo_world
+    title: "Majo World"
+    path: "01 Majo World.hca"
+    type: betting
+  - id: night_city_amhsg
+    title: "Night City"
+    path: "02 Night City.hca"
+    type: warning
+  - id: boss_amhsg
+    title: "Boss"
+    path: "03 Boss.hca"
+    type: warning
+  - id: sunset_amhsg
+    title: "Sunset"
+    path: "04 Sunset.hca"
+    type: betting
+  - id: majo_village
+    title: "Majo Village"
+    path: "05 Majo Village.hca"
+    type: break
+...

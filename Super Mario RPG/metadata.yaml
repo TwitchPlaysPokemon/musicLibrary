@@ -5,144 +5,144 @@ series: mario
 platform: "SNES"
 year: 1996
 songs: 
-  - id: my_names_booster
-    title: "And My Name's Booster"
+  - id: and_that_makes_me_booster_snes
+    title: "And That Makes Me Booster!"
     path: "And My Name's Booster.spc"
     type: betting
-  - id: barrel_volcano
+  - id: barrel_volcano_snes
     title: "Barrel Volcano"
     path: "Barrel Volcano.spc"
     type: betting
-  - id: beware_of_the_forests_mushrooms
-    title: "Beware the Forest's Mushrooms"
+  - id: beware_of_forest_mushrooms_snes
+    title: "Beware of Forest Mushrooms"
     path: "Beware the Forest's Mushrooms.spc"
     type: betting
-  - id: fight_against_smithy
-    title: "Fight Against Smithy"
+  - id: battling_smithy_snes
+    title: "Battling Smithy"
     path: "Fight Against Smithy.spc"
     type: battle
-  - id: heart_beating_a_little_faster
-    title: "Heart Beating a Little Faster"
+  - id: a_little_anxious_snes
+    title: "A Little Anxious"
     path: "Heart Beating a Little Faster.spc"
     type: warning
-  - id: margarie_margarita
-    title: "Margarie Margarita"
+  - id: valen_valentina_snes
+    title: "Valen-Valentina"
     path: "Margarie Margarita.brstm"
     type: betting
-  - id: my_paradise_monstro_town
-    title: "My Paradise ~ Monstro Town"
+  - id: monstro_town_our_paradise_snes
+    title: "Monstro Town, Our Paradise"
     path: "My Paradise ~ Monstro Town.spc"
     type: break
-  - id: super_pipe_house
-    title: "Super Pipe House"
+  - id: super_mario_house_snes
+    title: "Super Mario House"
     path: "Super Pipe House.spc"
     type: betting
-  - id: welcome_to_booser_tower
-    title: "Welcome to Booster Tower"
+  - id: this_is_booster_tower_snes
+    title: "This Is Booster Tower"
     path: "Welcome to Booster Tower.spc"
     type: break
-  - id: still_the_road_is_full_of_dangers
-    title: "Still, the Road is Full of Dangers"
+  - id: danger_aplenty_on_the_Journey_snes
+    title: "Danger Aplenty on the Journey"
     path: "Still, the Road is Full of Dangers.spc"
     type: betting
-  - id: lets_go_down_the_wine_river
-    title: "Let's Go Down the Wine River"
+  - id: let_s_take_the_midas_river_snes
+    title: "Let's Take the Midas River"
     path: "Let's Go Down the Wine River.spc"
     type: result
-  - id: docaty_mountain_railroad
-    title: "Docaty Mountain Railroad"
+  - id: moleville_mountain_rail_snes
+    title: "Moleville Mountain Rail"
     path: "Docaty Mountain Railroad.spc"
     type: warning
-  - id: geno_awakens
-    title: "Geno Awakens"
+  - id: geno_s_awakening_snes
+    title: "Geno's Awakening"
     path: "Geno Awakens.spc"
     type: result
-  - id: going_shopping_in_seaside_town
-    title: "Going Shopping in Seaside Town"
+  - id: shopping_at_seaside_town_snes
+    title: "Shopping at Seaside Town"
     path: "Going Shopping in Seaside Town.spc"
     type: betting
-  - id: lets_play_geno
-    title: "Let's Play 'Geno'"
+  - id: play_save_the_world_with_me_snes
+    title: "Play "Save the World" with Me!"
     path: "Let's Play _Geno_.spc"
     type: result
-  - id: rose_town
+  - id: rose_town_snes
     title: "Rose Town"
     path: "Rose Town.spc"
     type: betting
-  - id: fight_against_culex
-    title: "Fight Against Culex"
+  - id: battling_culex_Snes
+    title: "Battling Culex"
     path: "Fight Against Culex.spc"
     type: battle
-  - id: victory_smrpg
-    title: "Victory!!"
+  - id: victory_smrpg_snes
+    title: "Victory!"
     path: "Victory!!.spc"
     type: result
-  - id: welcome_yoster_island
-    title: "Welcome! Yo'ster Island!!"
+  - id: welcome_to_yo_ster_isle_snes
+    title: "Welcome to Yo'ster Isle!"
     path: "Welcome! Yo'ster Island!!.spc"
     type: betting
-  - id: goodbye_geno
-    title: "Goodbye Geno"
+  - id: farewell_geno_snes
+    title: "Farewell, Geno..."
     path: "Goodbye Geno.spc"
     type: result
-  - id: the_axem_rangers_drop_in
-    title: "The Axem Rangers Drop in"
+  - id: the_axem_rangers_burst_in_snes
+    title: "The Axem Rangers Burst in"
     path: "The Axem Rangers Drop in.spc"
     type: warning
-  - id: fight_against_bowser_smrpg
-    title: "Fight Against Bowser"
+  - id: battling_bowser_smrpg_snes
+    title: "Battling Bowser"
     path: "Fight Against Bowser.spc"
     type: warning
-  - id: fight_against_smithy_who_likes_transforming
-    title: "Fight Against Smithy, Who Likes Transforming"
+  - id: battling_smithy_s_many_forms_snes
+    title: "Battling Smithy's Many Forms"
     path: "Fight Against Smithy, Who Likes Transforming.spc"
     type: battle
-  - id: hello_happy_kingdom
+  - id: hello_happy_kingdom_snes
     title: "Hello, Happy Kingdom"
     path: "Hello, Happy Kingdom.spc"
     type: betting
-  - id: heres_some_weapons
-    title: "Here's Some Weapons!"
+  - id: the_weapons_show_up_snes
+    title: "The Weapons Show Up"
     path: "Here's Some Weapons!.spc"
     type: betting
-  - id: lets_do_the_fooka_fooka
-    title: "Let's Do the Fooka-Fooka!"
+  - id: let_s_get_fluffy_snes
+    title: "Let's Get Fluffy!"
     path: "Let's Do the Fooka-Fooka!.spc"
     type: betting
-  - id: weapons_factory
-    title: "Weapons Factory"
+  - id: the_factory_snes
+    title: "The Factory"
     path: "Weapons Factory.spc"
     type: betting
-  - id: fight_against_an_armed_boss
-    title: "Fight Against an Armed Boss"
+  - id: battling_a_weapon_boss_snes
+    title: "Battling a Weapon Boss"
     path: "119 Fight Against an Armed Boss.spc"
     type: warning
-  - id: fight_against_a_somewhat_stronger_monster
-    title: "Fight Against a Somewhat Stronger Monster"
+  - id: battling_strongish_monsters_snes
+    title: "Battling Strongish Monsters"
     path: "117 Fight Against a Stronger Monster.spc"
     type: warning
-  - id: bowsers_castle_second_time
-    title: "Bowser's Castle (Second Time)"
+  - id: bowsers_keep_second_visit_snes
+    title: "Bowser's Keep (Second Visit)"
     path: "216 Bowser's Castle (Second Time).spc"
     type: betting
-  - id: slope
-    title: "Slope"
+  - id: the_hill_snes
+    title: "The Hill"
     ends: 2:44
     path: "139 Slope.spc"
     type: betting
-  - id: happy_parade_delightful_parade
-    title: "Happy Parade, Delightful Parade"
+  - id: fun_parade_cheerful_parade_snes
+    title: "Fun Parade, Cheerful Parade"
     path: "Happy Parade, Delightful Parade.spc"
     type: betting
-  - id: the_merry_marry_bell_rings
-    title: "The Merry Marry Bell Rings"
+  - id: the_bell_rings_out_at_marrymore_snes
+    title: "The Bell Rings Out at Marrymore"
     path: "The Merry Marry Bell Rings.spc"
     type: betting
-  - id: sunken_ship_super_mario_rpg
+  - id: sunken_ship_super_mario_rpg_snes
     title: "Sunken Ship"
     path: "204 Sunken Ship.spc"
     type: betting
-  - id: victory_over_culex
+  - id: victory_over_culex_snes
     title: "Victory Over Culex"
     path: "208 Victory Over Culex.spc"
     type: result

@@ -58,7 +58,7 @@ songs:
     path: "03 - File Select.vgm"
     type: warning
   - id: game_select_dr_light_lab
-    title: "Game Select ~ Dr. Light Lab.vgm"
+    title: "Game Select ~ Dr. Light Lab"
     path: "04 - Game Select ~ Dr. Light Lab.vgm"
     type: result
   - id: mega_man_stage_select_wily_wars
@@ -102,7 +102,7 @@ songs:
     path: "16 - Mega Man - Dr. Wily Stage 2.vgm"
     type: betting
   - id: mega_man_dr_wily_stage_boss
-    title: "Mega Man - Dr Wily Stage Boss.vgm"
+    title: "Mega Man - Dr Wily Stage Boss"
     path: "17 - Mega Man - Dr Wily Stage Boss.vgm"
     type: warning
   - id: mega_man_ending_wily_wars

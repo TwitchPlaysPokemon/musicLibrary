@@ -1,7 +1,8 @@
----
+﻿---
 id: celeste
 title: "Celeste"
 platform: "Various"
+series: celeste
 year: 2018
 songs: 
   - id: first_steps
@@ -51,14 +52,15 @@ songs:
   - id: celestial_resort_good_karma_mix
     title: "Celestial Resort (Good Karma Mix)"
     path: "mus_rmx_03_resort (mus_rmx_03_resort).brstm"
-    type: betting
+    type: battle
   - id: golden_ridge_golden_feather_mix
     title: "Golden Ridge (Golden Feather Mix)"
     path: "mus_rmx_04_cliffside (mus_rmx_04_cliffside).brstm"
-    type: betting
+    type: break
   - id: mirror_temple_mirror_magic_mix
     title: "Mirror Temple (Mirror Magic Mix)"
     path: "mus_rmx_05_mirrortemple (mus_rmx_05_mirrortemple).brstm"
+    ends: 2:20
     type: betting
   - id: reflection_center_of_the_earth_mix
     title: "Reflection (Center of the Earth Mix)"
@@ -67,11 +69,11 @@ songs:
   - id: summit_no_more_running_mix
     title: "Summit (No More Running Mix)"
     path: "mus_rmx_07_summit (mus_rmx_07_summit).brstm"
-    type: betting
+    type: break
   - id: the_core_say_goodbye_mix
     title: "The Core (Say Goodbye Mix)"
     path: "mus_rmx_08_core (mus_rmx_08_core).brstm"
-    type: betting
+    type: break
   - id: wavedash_ppt
     title: "wavedash.ppt"
     path: "wavedash.brstm"

@@ -1,0 +1,26 @@
+id: bakugan_battle_brawlers
+title: "Bakugan Battle Brawlers"
+platform: "Various"
+year: 2009
+songs: 
+  - id: aquos_bakugan
+    title: "Aquos"
+    path: "Aquos.brstm"
+    type: battle
+  - id: darkus_bakugan
+    title: "Darkus"
+    path: "Darkus.brstm"
+    type: battle
+  - id: subterra_bakugan
+    title: "Subterra"
+    path: "Subterra.brstm"
+    type: betting
+  - id: my_room_bakugan
+    title: "My Room"
+    path: "My Room.brstm"
+    type: betting
+  - id: bakugan_store
+    title: "Bakugan Store"
+    path: "Bakugan Store.brstm"
+    type: break
+...

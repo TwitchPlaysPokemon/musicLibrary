@@ -1,0 +1,23 @@
+---
+id: let_s_find_larry
+title: "Let's Find Larry!"
+platform: "PC"
+year: 2023
+songs:
+  - id: a_beautiful_day
+    title: "A Beautiful Day"
+    path: "A Beautiful Day.brstm"
+    type: betting
+  - id: trash_can_larry
+    title: "Trash Can Larry"
+    path: "Trash Can Larry.brstm"
+    type: break
+  - id: we_like_finding_people_too
+    title: "We Like Finding People Too"
+    path: "We Like Finding People Too.brstm"
+    type: warning
+  - id: xxx
+    title: "XXX"
+    path: "XXX.brstm"
+    type: battle
+...

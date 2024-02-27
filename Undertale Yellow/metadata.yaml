@@ -1,0 +1,512 @@
+---
+id: undertale_yellow
+title: "UNDERTALE YELLOW"
+platform: "PC"
+year: 2023
+is_fanwork: true
+songs:
+  - id: once_upon_a_truthful_time
+    title: "Once Upon a Truthful Time"
+    path: "mus_intro.txtp"
+    type: result
+  - id: main_menu_1_ruins
+    title: "Main Menu 1 (Ruins)"
+    path: "mus_menu_ruins.txtp"
+    type: break
+  - id: making_adjustments
+    title: "Making Adjustments"
+    path: "mus_menu_options.txtp"
+    type: betting
+  - id: enemy_approaching_yellow
+    title: "Enemy Approaching (Yellow)"
+    path: "mus_prebattle1_yellow.txtp"
+    type: battle
+  - id: fallen_down_yellow
+    title: "Fallen Down (Yellow)"
+    path: "mus_fallendownyellow.txtp"
+    type: break
+  - id: ruins_yellow
+    title: "Ruins (Yellow)"
+    path: "mus_ruins_yellow.txtp"
+    type: betting
+  - id: howdy
+    title: "Howdy!"
+    path: "mus_floweynew_yellow.txtp"
+    type: warning
+  - id: main_menu_2_dark_ruins
+    title: "Main Menu 2 (Dark Ruins)"
+    path: "mus_menu_darkruins.txtp"
+    type: betting
+  - id: in_darkness
+    title: "In Darkness"
+    path: "mus_darkruins.txtp"
+    type: break
+  - id: justice_yellow
+    title: "Justice"
+    path: "mus_gameover_yellow.txtp"
+    type: result
+  - id: fever_pitch
+    title: "Fever Pitch"
+    path: "mus_decibat_yellow.txtp"
+    type: battle
+  - id: seclusion
+    title: "Seclusion"
+    path: "mus_coolestcave.txtp"
+    type: break
+  - id: fun_sized
+    title: "Fun-Sized"
+    path: "mus_funsized_yellow.txtp"
+    type: warning
+  - id: forlorn
+    title: "Forlorn"
+    path: "mus_dalvbattle_yellow_LOOPED.txtp"
+    type: battle
+  - id: house_guest
+    title: "House Guest"
+    path: "mus_spook.txtp"
+    type: warning
+  - id: snowfall
+    title: "Snowfall"
+    path: "mus_snowfall.txtp"
+    type: break
+  - id: main_menu_3_snowdin
+    title: "Main Menu 3 (Snowdin)"
+    path: "mus_menu_snowdin.txtp"
+    type: betting
+  - id: blizzard_approaching
+    title: "Blizzard Approaching"
+    path: "mus_battle_snowdin.txtp"
+    type: betting
+  - id: birds_of_a_feather
+    title: "Birds of a Feather"
+    path: "mus_birdsofafeather.txtp"
+    type: result
+  - id: mo_money
+    title: "Mo Money"
+    path: "mus_gimme_ur_cash_yellow.txtp"
+    type: betting
+  - id: delivery_yellow
+    title: "Delivery!"
+    path: "mus_delivery.txtp"
+    type: result
+  - id: occupied_turf_yellow
+    title: "Occupied Turf"
+    path: "mus_occupied_turf_yellow.txtp"
+    type: betting
+  - id: shuffling_round_1
+    title: "Shuffling (Round 1)"
+    path: "mus_shuffling1.txtp"
+    type: warning
+  - id: shuffling_round_2
+    title: "Shuffling (Round 2)"
+    path: "mus_shuffling2.txtp"
+    type: warning
+  - id: shuffling_round_3
+    title: "Shuffling (Round 3)"
+    path: "mus_shuffling3.txtp"
+    type: warning
+  - id: relaxation_yellow
+    title: "Relaxation"
+    path: "mus_relaxation.txtp"
+    type: break
+  - id: honeydew_cabin
+    title: "Honeydew Cabin"
+    path: "mus_honeydew_lodge.txtp"
+    type: betting
+  - id: protocol_yellow
+    title: "Protocol"
+    path: "mus_martletbattle_yellow.txtp"
+    type: battle
+  - id: aviation_yellow
+    title: "Aviation"
+    path: "mus_aviation.txtp"
+    type: result
+  - id: quiet_stray
+    title: "Quiet Stray"
+    path: "mus_quietstray.txtp"
+    type: result
+  - id: main_menu_4_dunes
+    title: "Main Menu 4 (Dunes)"
+    path: "mus_menu_wild_east.txtp"
+    type: betting
+  - id: vigorous_terrain
+    title: "Vigorous Terrain"
+    path: "mus_vigorous_terrain.txtp"
+    type: betting
+  - id: sandstorm_approaching
+    title: "Sandstorm Approaching"
+    path: "mus_prebattle3_yellow.txtp"
+    type: battle
+  - id: mining_co
+    title: "Mining Co"
+    path: "mus_dunes_cave.txtp"
+    type: betting
+  - id: gemstone_fever
+    title: "Gemstone Fever"
+    path: "mus_gemstone_fever.txtp"
+    type: betting
+  - id: going_up_yellow
+    title: "Going Up"
+    path: "mus_elevator.txtp"
+    type: break
+  - id: mining_co_ncussion
+    title: "Mining Co-ncussion"
+    path: "mus_dunes_cave_outdoors.txtp"
+    type: betting
+  - id: shimmer
+    title: "Shimmer"
+    path: "mus_shimmer.txtp"
+    type: result
+  - id: apex_yellow
+    title: "Apex"
+    path: "mus_apex.txtp"
+    type: warning
+  - id: que_pasion
+    title: "¡Qué Pasión!"
+    path: "mus_bailador_overworld.txtp"
+    type: betting
+  - id: danza
+    title: "DANZA"
+    path: "mus_danza_battle_yellow.txtp"
+    type: battle
+  - id: oasis_valley_yellow
+    title: "Oasis Valley"
+    path: "mus_oasis.txtp"
+    type: betting
+  - id: oasis_valley_indoors
+    title: "Oasis Valley (Indoors)"
+    path: "mus_oasis_indoors.txtp"
+    type: break
+  - id: cafe_dune
+    title: "Café Dune"
+    path: "mus_cafe.txtp"
+    type: betting
+  - id: ラブ_ブラスター
+    title: "ラブ･ブラスター!"
+    path: "mus_mew_LOOPED.txtp"
+    type: warning
+  - id: フィナーレ
+    title: "フィナーレ!"
+    path: "mus_mew_boss.txtp"
+    type: battle
+  - id: feisty
+    title: "Feisty!"
+    path: "mus_feisty.txtp"
+    type: result
+  - id: a_new_partner
+    title: "A New Partner"
+    path: "mus_a_new_partner.txtp"
+    type: result
+  - id: happy_hour_yellow
+    title: "Happy Hour"
+    path: "mus_happy_hour.txtp"
+    type: break
+  - id: blossom_yellow
+    title: "Blossom"
+    path: "mus_blossom.txtp"
+    type: break
+  - id: the_wild_east
+    title: "The Wild East"
+    path: "mus_the_wild_east.txtp"
+    type: betting
+  - id: the_stable
+    title: "The Stable"
+    path: "mus_the_wild_east_barn.txtp"
+    type: break
+  - id: the_clinic
+    title: "The Clinic"
+    path: "mus_the_wild_east_hospital.txtp"
+    type: betting
+  - id: the_slammer
+    title: "The Slammer"
+    path: "mus_the_wild_east_jail.txtp"
+    type: break
+  - id: the_house_yellow
+    title: "The House"
+    path: "mus_the_wild_east_house.txtp"
+    type: break
+  - id: six_shooter
+    title: "Six Shooter"
+    path: "mus_card_game.txtp"
+    type: betting
+  - id: a_teaspoon_of_gunpowder
+    title: "A Teaspoon of Gunpowder"
+    path: "mus_gunshop.txtp"
+    type: break
+  - id: sheriff_s_fate
+    title: "Sheriff's Fate"
+    path: "mus_sheriffs_fate.txtp"
+    type: result
+  - id: nap_time
+    title: "Nap Time"
+    path: "mus_the_wild_east_sleepy.txtp"
+    type: break
+  - id: someone_s_in_danger_yellow
+    title: "Someone's In Danger!"
+    path: "mus_train_trouble.txtp"
+    type: warning
+  - id: the_train_problem
+    title: "The Train Problem"
+    path: "mus_train_trouble_2.txtp"
+    type: warning
+  - id: deal_em_out_yellow
+    title: "Deal 'Em Out"
+    path: "mus_deal_em_out_yellow_MAIN.txtp"
+    type: betting
+  - id: the_straw_yellow
+    title: "The Straw"
+    path: "mus_the_straw.txtp"
+    type: break
+  - id: getting_the_thoughts_out
+    title: "Getting the Thoughts Out"
+    path: "mus_getting_the_thoughts_out.txtp"
+    type: break
+  - id: showdown_yellow
+    title: "Showdown!"
+    path: "mus_showdown.txtp"
+    type: battle
+  - id: renewed_yellow
+    title: "Renewed"
+    path: "mus_renewed.txtp"
+    type: result
+  - id: sunnyside_farm
+    title: "Sunnyside Farm"
+    path: "mus_sunnyside_ranch.txtp"
+    type: break
+  - id: kanako
+    title: "Kanako"
+    path: "mus_kanako.txtp"
+    type: break
+  - id: change_of_plans
+    title: "Change of Plans"
+    path: "mus_change_of_plans.txtp"
+    type: warning
+  - id: tomorrow_means_the_surface
+    title: "Tomorrow Means The Surface"
+    path: "mus_abandoned.txtp"
+    type: break
+  - id: main_menu_5_steamworks
+    title: "Main Menu 5 (Steamworks)"
+    path: "mus_menu_steamworks.txtp"
+    type: betting
+  - id: meltdown_yellow
+    title: "Meltdown"
+    path: "mus_steamworks_overworld.txtp"
+    type: betting
+  - id: treading_lightly
+    title: "Treading Lightly"
+    path: "mus_treading_lightly.txtp"
+    type: warning
+  - id: enter_axis
+    title: "Enter Axis"
+    path: "mus_enter_axis.txtp"
+    type: betting
+  - id: detainment_014
+    title: "Detainment 014"
+    path: "mus_detainment.txtp"
+    type: warning
+  - id: build_a_bot
+    title: "Build-A-Bot"
+    path: "mus_build_a_bot.txtp"
+    type: betting
+  - id: heatwave_approaching
+    title: "Heatwave Approaching"
+    path: "mus_heatwave_approaching.txtp"
+    type: battle
+  - id: golden_opportunity
+    title: "Golden Opportunity"
+    path: "mus_golden_opportunity.txtp"
+    type: betting
+  - id: through_the_macro_lens
+    title: "Through the Macro Lens"
+    path: "mus_through_the_macro_lens.txtp"
+    type: betting
+  - id: found_you
+    title: "FOUND YOU."
+    path: "mus_axis_chase.txtp"
+    type: warning
+  - id: the_corner_of_a_circle
+    title: "The Corner of a Circle"
+    path: "mus_corner_of_a_circle.txtp"
+    type: break
+  - id: after_hours
+    title: "After Hours"
+    path: "mus_after_hours.txtp"
+    type: break
+  - id: greenhouse_yellow
+    title: "Greenhouse"
+    path: "mus_greenhouse.txtp"
+    type: break
+  - id: tenth_level_lockdown
+    title: "TENTH LEVEL LOCKDOWN"
+    path: "mus_guardener_theme.txtp"
+    type: betting
+  - id: mixin_it_up
+    title: "Mixin' It Up"
+    path: "mus_mixin_it_up.txtp"
+    type: warning
+  - id: one_s_past
+    title: "One's Past..."
+    path: "mus_ones_past.txtp"
+    type: break
+  - id: guns_blazing_yellow
+    title: "Guns Blazing"
+    path: "mus_guns_blazing.txtp"
+    type: battle
+  - id: soulmate_located
+    title: "Soulmate_Located"
+    path: "mus_soulmate_located.txtp"
+    type: result
+  - id: the_freedom_to_be_flawed
+    title: "The Freedom to be Flawed"
+    path: "mus_well_be_okay.txtp"
+    type: break
+  - id: medium_yellow
+    title: "Medium"
+    path: "mus_medium.txtp"
+    type: betting
+  - id: ug_apartments
+    title: "UG Apartments"
+    path: "mus_complex.txtp"
+    type: betting
+  - id: an_acquittal
+    title: "An Acquittal"
+    path: "mus_acquittal.txtp"
+    type: break
+  - id: you_gotta_be_kidding_me
+    title: "You Gotta Be Kidding Me!"
+    path: "mus_flowey_roof_intro_2.txtp"
+    type: warning
+  - id: echoes_of_another
+    title: "echoes of another"
+    path: "mus_flowey_world.txtp"
+    type: warning
+  - id: best_friends_forever
+    title: "BEST FRIENDS FOREVER"
+    path: "mus_flowey_final_boss_1.txtp"
+    type: battle
+  - id: subconscious_yellow
+    title: "subconscious"
+    path: "mus_the_wandering.txtp"
+    type: warning
+  - id: snow_yellow
+    title: "snow"
+    path: "mus_snow.txtp"
+    type: break
+  - id: gotcha_wink_emoticon
+    title: "gotcha ;)"
+    path: "mus_gotcha.txtp"
+    type: warning
+  - id: afterlife_yellow
+    title: "AFTERLIFE"
+    path: "mus_f_phase2_gray.txtp"
+    type: battle
+  - id: specimen_patchworked
+    title: "specimen: patchworked"
+    path: "mus_f_phase2_yarn.txtp"
+    type: warning
+  - id: specimen_organic
+    title: "specimen: organic"
+    path: "mus_f_phase2_organic.txtp"
+    type: warning
+  - id: specimen_clay
+    title: "specimen: clay"
+    path: "mus_f_phase2_clay.txtp"
+    type: warning
+  - id: specimen_paper
+    title: "specimen: paper"
+    path: "mus_f_phase2_paper.txtp"
+    type: warning
+  - id: specimen_polygonal
+    title: "specimen: polygonal"
+    path: "mus_f_phase2_lowpoly.txtp"
+    type: warning
+  - id: specimen_mechanical
+    title: "specimen: mechanical"
+    path: "mus_f_phase2_mechanical.txtp"
+    type: warning
+  - id: the_trek
+    title: "The Trek"
+    path: "mus_the_trek.txtp"
+    type: betting
+  - id: trapdoor
+    title: "Trapdoor"
+    path: "mus_trapdoor.txtp"
+    type: warning
+  - id: nothing_but_the_truth
+    title: "Nothing but the Truth"
+    path: "mus_nothing_but_the_truth.txtp"
+    type: break
+  - id: flock_together
+    title: "Flock Together"
+    path: "mus_flock_together.txtp"
+    type: betting
+  - id: kanako_reprise
+    title: "Kanako (Reprise)"
+    path: "mus_kanako_reprise.txtp"
+    type: break
+  - id: some_point_of_no_return
+    title: "Some Point of No Return"
+    path: "mus_some_point_of_no_return.txtp"
+    type: betting
+  - id: a_mother_s_love_phase_1
+    title: "A Mother's Love (Phase 1)"
+    path: "mus_mothers_love_phase_1_LOOPED.txtp"
+    type: battle
+  - id: a_mother_s_love_phase_2
+    title: "A Mother's Love (Phase 2)"
+    path: "mus_mothers_love_phase_2.txtp"
+    type: battle
+  - id: a_mother_s_love_phase_3
+    title: "A Mother's Love (Phase 3)"
+    path: "mus_mothers_love_phase_3_LOOPED.txtp"
+    type: battle
+  - id: tucked_in
+    title: "Tucked In"
+    path: "mus_tucked_in.txtp"
+    type: result
+  - id: gift
+    title: "Gift"
+    path: "mus_gift_OST.txtp"
+    type: break
+  - id: undertale_yellow
+    title: "Undertale Yellow"
+    path: "mus_credits.txtp"
+    type: betting
+  - id: final_encounter_yellow
+    title: "Final Encounter"
+    path: "mus_vsasgore_OST.txtp"
+    type: battle
+  - id: enemy_retreating
+    title: "Enemy Retreating"
+    path: "mus_genobattle_yellow.txtp"
+    type: battle
+  - id: apprehension_yellow
+    title: "Apprehension"
+    path: "mus_apprehension_yellow.txtp"
+    type: battle
+  - id: trial_by_fury
+    title: "Trial By Fury"
+    path: "mus_trial_by_fury.txtp"
+    type: battle
+  - id: trial_by_fury_phase_2
+    title: "Trial By Fury (Phase 2)"
+    path: "mus_trial_by_fury_2.txtp"
+    type: battle
+  - id: end_of_the_line_
+    title: "END OF THE LINE_"
+    path: "mus_guns_blazing_geno.txtp"
+    type: battle
+  - id: remedy_yellow
+    title: "Remedy"
+    path: "mus_remedy.txtp"
+    type: battle
+  - id: retribution_yellow
+    title: "Retribution"
+    path: "mus_retribution.txtp"
+    type: battle
+  - id: adjourned_yellow
+    title: "Adjourned"
+    path: "mus_ajourned.txtp"
+    type: result
+...

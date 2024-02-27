@@ -1,0 +1,503 @@
+---
+id: octopath_traveler_ii
+title: "Octopath Traveler II"
+platform: "Various"
+year: 2023
+songs: 
+  - id: underworldly_entity
+    title: "Underworldly Entity"
+    path: "m170_bossbattle_ex.txtp"
+    type: battle
+  - id: normal_battle_i
+    title: "Normal Battle I"
+    path: "m50a_battle1.txtp"
+    type: battle
+  - id: normal_battle_ii
+    title: "Normal Battle II"
+    path: "m51a_battle2.txtp"
+    type: battle
+  - id: normal_battle_iii
+    title: "Normal Battle III"
+    path: "m52a_battle3.txtp"
+    type: battle
+  - id: battle_on_the_sea
+    title: "Battle on the Sea"
+    path: "m53a_battle_ocean.txtp"
+    type: battle
+  - id: victory_fanfare_octopath_traveler_ii
+    title: "Victory Fanfare"
+    path: "m66_jingle_win.txtp"
+    type: result
+  - id: cait_s_theme_guitar_version
+    title: "Cait's Theme -Guitar Version-"
+    path: "m95_caitbattle_guitar.txtp"
+    type: break
+  - id: cait_s_theme_piano_version
+    title: "Cait's Theme -Piano Version-"
+    path: "m95_caitbattle_piano.txtp"
+    type: break
+  - id: cait_s_theme_violin_version
+    title: "Cait's Theme -Violin Version-"
+    path: "m95_caitbattle_violin.txtp"
+    type: break
+  - id: vide_the_wicked
+    title: "Vide, the Wicked"
+    path: "m138_extend_finalboss1.txtp"
+    type: battle
+  - id: those_who_deny_the_dawn
+    title: "Those Who Deny the Dawn"
+    path: "m139_extend_finalboss2.txtp"
+    type: battle
+  - id: critical_clash_i
+    title: "Critical Clash I"
+    path: "m54_bossbattle1.txtp"
+    type: battle
+  - id: critical_clash_ii
+    title: "Critical Clash II"
+    path: "m55_bossbattle2.txtp"
+    type: battle
+  - id: miscreant_s_melody
+    title: "Miscreant's Melody"
+    path: "m73_event_unreasonable.txtp"
+    type: betting
+  - id: soliloquy_octopath_traveler_ii
+    title: "Soliloquy"
+    path: "m76_event_conflict.txtp"
+    type: break
+  - id: cait_s_theme_octopath_traveler_ii
+    title: "Cait's Theme"
+    path: "m60_caitbattle.txtp"
+    type: battle
+  - id: fierce_confrontation_octopath_traveler_ii
+    title: "Fierce Confrontation"
+    path: "m58_subbossbattle1.txtp"
+    type: battle
+  - id: octopath_traveler_ii_main_theme
+    title: "Octopath Traveler II -Main Theme-"
+    path: "bgm_theme_main.txtp"
+    type: betting
+  - id: octopath_traveler_ii_main_theme_night
+    title: "Octopath Traveler II -Main Theme (Night Ver)-"
+    path: "bgm_theme_main_night.txtp"
+    type: break
+  - id: temenos_the_cleric
+    title: "Temenos, the Cleric"
+    path: "bgm_theme_priest.txtp"
+    type: betting
+  - id: osvald_the_scholar
+    title: "Osvald, the Scholar"
+    path: "bgm_theme_scholar.txtp"
+    type: betting
+  - id: partitio_the_merchant
+    title: "Partitio, the Merchant"
+    path: "bgm_theme_merchant.txtp"
+    type: betting
+  - id: hikari_the_warrior
+    title: "Hikari, the Warrior"
+    path: "bgm_theme_fencer.txtp"
+    type: betting
+  - id: agnea_the_dancer
+    title: "Agnea, the Dancer"
+    path: "bgm_theme_dancer.txtp"
+    type: betting
+  - id: castti_the_apothecary
+    title: "Castti, the Apothecary"
+    path: "bgm_theme_pharmacist.txtp"
+    type: break
+  - id: throne_the_thief
+    title: "Throné, the Thief"
+    path: "bgm_theme_thief.txtp"
+    type: betting
+  - id: ochette_the_hunter
+    title: "Ochette, the Hunter"
+    path: "bgm_theme_hunter.txtp"
+    type: betting
+  - id: unshakable_resolve_octopath_traveler_ii
+    title: "Unshakable Resolve"
+    path: "m80_event_belief.txtp"
+    type: break
+  - id: hope_octopath_traveler_ii
+    title: "Hope"
+    path: "m83_event_hope.txtp"
+    type: break
+  - id: bygone_days_octopath_traveler_ii
+    title: "Bygone Days"
+    path: "m81_event_sorrow.txtp"
+    type: break
+  - id: at_your_back
+    title: "At Your Back"
+    path: "m82_event_kindness.txtp"
+    type: break
+  - id: oresrush_dried_up
+    title: "Oresrush, Dried Up"
+    path: "m88_paltetio_wilderness24_day.txtp"
+    type: betting
+  - id: oresrush_dried_up_night
+    title: "Oresrush, Dried Up -Night-"
+    path: "m88_paltetio_wilderness24_night.txtp"
+    type: break
+  - id: all_for_you
+    title: "All For You"
+    path: "m91_dolnecias_song.txtp"
+    type: warning
+  - id: the_journey_begins
+    title: "The Journey Begins"
+    path: "m89_departure_song.txtp"
+    type: result
+  - id: gil_on_the_keys
+    title: "Gil on the Keys"
+    path: "m92_gil_s_piano.txtp"
+    type: break
+  - id: scarlet_folk_song_by_the_light_of_the_heart
+    title: "Scarlet Folk Song -By the Light of the Heart-"
+    path: "m94_ver_liuqin.txtp"
+    type: break
+  - id: torrent_of_evil
+    title: "Torrent of Evil"
+    path: "m78_event_evil.txtp"
+    type: betting
+  - id: carefree_days_octopath_traveler_ii
+    title: "Carefree Days"
+    path: "m79_event_cheerfulness.txtp"
+    type: betting
+  - id: tempest_on_the_battlefield
+    title: "Tempest on the Battlefield"
+    path: "m70_event_tension.txtp"
+    type: warning
+  - id: den_of_darkness
+    title: "Den of Darkness"
+    path: "bgm_m38_dungeon_mansion.txtp"
+    type: betting
+  - id: dark_night_octopath_traveler_ii
+    title: "Dark Night"
+    path: "m100_field_finalchapter.txtp"
+    type: warning
+  - id: toto_haha
+    title: "Toto'haha"
+    path: "bgm_m30_field_island_1_day.txtp"
+    type: betting
+  - id: toto_haha_night
+    title: "Toto'haha -Night-"
+    path: "bgm_m30_field_island_1_night.txtp"
+    type: break
+  - id: the_harborlands
+    title: "The Harborlands"
+    path: "bgm_m31_field_sea_1_day.txtp"
+    type: betting
+  - id: the_harborlands_night
+    title: "The Harborlands -Night-"
+    path: "bgm_m31_field_sea_1_night.txtp"
+    type: break
+  - id: the_brightlands
+    title: "The Brightlands"
+    path: "bgm_m29_field_city_1_day.txtp"
+    type: betting
+  - id: the_brightlands_night
+    title: "The Brightlands -Night-"
+    path: "bgm_m29_field_city_1_night.txtp"
+    type: break
+  - id: the_winterlands
+    title: "The Winterlands"
+    path: "bgm_m27_field_snow_1_day.txtp"
+    type: break
+  - id: the_winterlands_night
+    title: "The Winterlands -Night-"
+    path: "bgm_m27_field_snow_1_night.txtp"
+    type: break
+  - id: the_wildlands
+    title: "The Wildlands"
+    path: "bgm_m34_field_wilderness_1_day.txtp"
+    type: betting
+  - id: the_wildlands_night
+    title: "The Wildlands -Night-"
+    path: "bgm_m34_field_wilderness_1_night.txtp"
+    type: break
+  - id: the_leaflands
+    title: "The Leaflands"
+    path: "bgm_m33_field_forest_1_day.txtp"
+    type: betting
+  - id: the_leaflands_night
+    title: "The Leaflands -Night-"
+    path: "bgm_m33_field_forest_1_night.txtp"
+    type: break
+  - id: the_crestlands
+    title: "The Crestlands"
+    path: "bgm_m28_field_moutain_1_day.txtp"
+    type: betting
+  - id: the_crestlands_night
+    title: "The Crestlands -Night-"
+    path: "bgm_m28_field_moutain_1_night.txtp"
+    type: break
+  - id: hinoeuma
+    title: "Hinoeuma"
+    path: "bgm_m32_field_desert_1_day.txtp"
+    type: betting
+  - id: hinoeuma_night
+    title: "Hinoeuma -Night-"
+    path: "bgm_m32_field_desert_1_night.txtp"
+    type: break
+  - id: the_sundering_sea
+    title: "The Sundering Sea"
+    path: "bgm_m36_field_ocean_1_day.txtp"
+    type: result
+  - id: the_sundering_sea_night
+    title: "The Sundering Sea -Night-"
+    path: "bgm_m36_field_ocean_1_night.txtp"
+    type: break
+  - id: village_of_the_beastlings
+    title: "Village of the Beastlings"
+    path: "bgm_m14_town_island_a_day.txtp"
+    type: betting
+  - id: village_of_the_beastlings_night
+    title: "Village of the Beastlings -Night-"
+    path: "bgm_m14_town_island_a_night.txtp"
+    type: break
+  - id: seaside_town
+    title: "Seaside Town"
+    path: "bgm_m15_town_sea_a_day.txtp"
+    type: betting
+  - id: seaside_town_night
+    title: "Seaside Town -Night-"
+    path: "bgm_m15_town_sea_a_night.txtp"
+    type: break
+  - id: empty_memories
+    title: "Empty Memories"
+    path: "m86_conifer_recollection.txtp"
+    type: break
+  - id: apprehension_octopath_traveler_ii
+    title: "Apprehension"
+    path: "m77_event_disquiet.txtp"
+    type: warning
+  - id: a_sensational_city
+    title: "A Sensational City"
+    path: "bgm_m13_town_city_a_day.txtp"
+    type: betting
+  - id: a_sensational_city_night
+    title: "A Sensational City -Night-"
+    path: "bgm_m13_town_city_a_night.txtp"
+    type: break
+  - id: without_hope_without_warmth
+    title: "Without Hope, Without Warmth"
+    path: "bgm_m11_town_snow_a_day.txtp"
+    type: betting
+  - id: without_hope_without_warmth_night
+    title: "Without Hope, Without Warmth -Night-"
+    path: "bgm_m11_town_snow_a_night.txtp"
+    type: break
+  - id: heart_s_lament
+    title: "Heart's Lament"
+    path: "m74_event_tragic.txtp"
+    type: betting
+  - id: gloomy_grotto
+    title: "Gloomy Grotto"
+    path: "bgm_m37_dungeon_cave.txtp"
+    type: break
+  - id: oresrush_pioneer_town
+    title: "Oresrush, Pioneer Town"
+    path: "bgm_m18_town_wilderness_a_day.txtp"
+    type: betting
+  - id: oresrush_pioneer_town_night
+    title: "Oresrush, Pioneer Town -Night-"
+    path: "bgm_m18_town_wilderness_a_night.txtp"
+    type: break
+  - id: cropdale_village_at_peace
+    title: "Cropdale, Village at Peace"
+    path: "bgm_m17_town_forest_a_day.txtp"
+    type: break
+  - id: cropdale_village_at_peace_night
+    title: "Cropdale, Village at Peace -Night-"
+    path: "bgm_m17_town_forest_a_night.txtp"
+    type: break
+  - id: flamechurch_sacred_light
+    title: "Flamechurch, Sacred Light"
+    path: "bgm_m12_town_moutain_a_day.txtp"
+    type: betting
+  - id: flamechurch_sacred_light_night
+    title: "Flamechurch, Sacred Light -Night-"
+    path: "bgm_m12_town_moutain_a_night.txtp"
+    type: break
+  - id: doubt_is_what_i_do
+    title: "Doubt Is What I Do"
+    path: "m87_veritas_detective.txtp"
+    type: warning
+  - id: ku_land_of_the_scarlet_sunset
+    title: "Ku, Land of the Scarlet Sunset"
+    path: "bgm_m16_town_desert_a_day.txtp"
+    type: betting
+  - id: ku_land_of_the_scarlet_sunset_night
+    title: "Ku, Land of the Scarlet Sunset -Night-"
+    path: "bgm_m16_town_desert_a_night.txtp"
+    type: break
+  - id: stillness_underground
+    title: "Stillness Underground"
+    path: "bgm_m39_dungeon_underpass.txtp"
+    type: break
+  - id: tropu_hopu_secret_paradise
+    title: "Tropu'hopu, Secret Paradise"
+    path: "bgm_m22_town_island_b_day.txtp"
+    type: betting
+  - id: tropu_hopu_secret_paradise_night
+    title: "Tropu'hopu, Secret Paradise -Night-"
+    path: "bgm_m22_town_island_b_night.txtp"
+    type: break
+  - id: roque_island_full_steam_ahead
+    title: "Roque Island, Full Steam Ahead"
+    path: "bgm_m23_town_sea_b_day.txtp"
+    type: betting
+  - id: roque_island_full_steam_ahead_night
+    title: "Roque Island, Full Steam Ahead -Night-"
+    path: "bgm_m23_town_sea_b_night.txtp"
+    type: break
+  - id: urgency_octopath_traveler_ii
+    title: "Urgency"
+    path: "m71_event_hurry.txtp"
+    type: warning
+  - id: abandoned_city_octopath_traveler_ii
+    title: "Abandoned City"
+    path: "bgm_m21_town_city_b_day.txtp"
+    type: break
+  - id: abandoned_city_night
+    title: "Abandoned City -Night-"
+    path: "bgm_m21_town_city_b_night.txtp"
+    type: break
+  - id: snowswept_town
+    title: "Snowswept Town"
+    path: "bgm_m19_town_snow_b_day.txtp"
+    type: break
+  - id: snowswept_town_night
+    title: "Snowswept Town -Night-"
+    path: "bgm_m19_town_snow_b_night.txtp"
+    type: break
+  - id: overwhelming_despair
+    title: "Overwhelming Despair"
+    path: "m75_event_sadness.txtp"
+    type: break
+  - id: forest_of_mystery
+    title: "Forest of Mystery"
+    path: "bgm_m41_dungeon_forest.txtp"
+    type: betting
+  - id: scheming
+    title: "Scheming"
+    path: "m72_event_plot.txtp"
+    type: warning
+  - id: village_of_the_ravine
+    title: "Village in the Ravine"
+    path: "bgm_m26_town_wilderness_b_day.txtp"
+    type: betting
+  - id: village_of_the_ravine_night
+    title: "Village in the Ravine -Night-"
+    path: "bgm_m26_town_wilderness_b_night.txtp"
+    type: break
+  - id: a_verdant_wind_blows
+    title: "A Verdant Wind Blows"
+    path: "bgm_m25_town_forest_b_day.txtp"
+    type: betting
+  - id: a_verdant_wind_blows_night
+    title: "A Verdant Wind Blows -Night-"
+    path: "bgm_m25_town_forest_b_night.txtp"
+    type: break
+  - id: home_of_wisdom_and_the_arts
+    title: "Home of Wisdom and the Arts"
+    path: "bgm_m20_town_moutain_b_day.txtp"
+    type: betting
+  - id: home_of_wisdom_and_the_arts_night
+    title: "Home of Wisdom and the Arts -Night-"
+    path: "bgm_m20_town_moutain_b_night.txtp"
+    type: break
+  - id: ruins_immemorial
+    title: "Ruins Immemorial"
+    path: "bgm_m40_dungeon_remains.txtp"
+    type: break
+  - id: beyond_the_sands
+    title: "Beyond the Sands"
+    path: "bgm_m24_field_desert_1_b_day.txtp"
+    type: break
+  - id: beyond_the_sands_night
+    title: "Beyond the Sands -Night-"
+    path: "bgm_m24_field_desert_1_b_night.txtp"
+    type: break
+  - id: unshakable_resolve
+    title: "Unshakable Resolve"
+    path: "m80_event_belief.txtp"
+    type: break
+  - id: the_journey_for_legends_ends
+    title: "The Journey for Legends Ends"
+    path: "m57d_scenariolastbossbattle_ohshut.txtp"
+    type: battle
+  - id: the_journey_for_memories_ends
+    title: "The Journey for Memories Ends"
+    path: "m57e_scenariolastbossbattle_conifer.txtp"
+    type: battle
+  - id: the_journey_for_freedom_ends
+    title: "The Journey for Freedom Ends"
+    path: "m57c_scenariolastbossbattle_catina.txtp"
+    type: battle
+  - id: the_journey_for_revenge_ends
+    title: "The Journey for Revenge Ends"
+    path: "m57a_scenariolastbossbattle_herbert.txtp"
+    type: battle
+  - id: the_journey_for_happiness_ends
+    title: "The Journey for Happiness Ends"
+    path: "m57h_scenariolastbossbattle_paltetio.txtp"
+    type: battle
+  - id: song_of_hope_octopath_traveler_ii
+    title: "Song of Hope"
+    path: "m57g_scenariolastbossbattle_agnea.txtp"
+    type: battle
+  - id: the_journey_for_truth_ends
+    title: "The Journey for Truth Ends"
+    path: "m57b_scenariolastbossbattle_veritas.txtp"
+    type: battle
+  - id: the_journey_for_kingship_ends
+    title: "The Journey for Kingship Ends"
+    path: "m57f_scenariolastbossbattle_hikari.txtp"
+    type: battle
+  - id: invitation_to_darkness
+    title: "Invitation to Darkness"
+    path: "bgm_map_d_last.txtp"
+    type: betting
+  - id: lifting_the_veil
+    title: "Lifting the Veil"
+    path: "m103_dungeon_finalchapter.txtp"
+    type: warning
+  - id: ending_theme_octopath_traveler_ii
+    title: "Ending Theme"
+    path: "m150_ending.txtp"
+    type: break
+  - id: epilogue_octopath_traveler_ii
+    title: "Epilogue"
+    path: "m150_ending_epilogue1.txtp"
+    type: break
+  - id: in_pursuit_of_happiness
+    title: "In Pursuit of Happiness"
+    path: "m127_extend_sho.txtp"
+    type: warning
+  - id: in_pursuit_of_hope
+    title: "In Pursuit of Hope"
+    path: "m126_extend_odo.txtp"
+    type: warning
+  - id: in_pursuit_of_kingship
+    title: "In Pursuit of Kingship"
+    path: "m125_extend_ken.txtp"
+    type: warning
+  - id: in_pursuit_of_memories
+    title: "In Pursuit of Memories"
+    path: "m124_extend_kus.txtp"
+    type: warning
+  - id: in_pursuit_of_legends
+    title: "In Pursuit of Legends"
+    path: "m123_extend_kar.txtp"
+    type: warning
+  - id: in_pursuit_of_freedom
+    title: "In Pursuit of Freedom"
+    path: "m122_extend_tou.txtp"
+    type: warning
+  - id: in_pursuit_of_truth
+    title: "In Pursuit of Truth"
+    path: "m121_extend_sin.txtp"
+    type: warning
+  - id: in_pursuit_of_revenge
+    title: "In Pursuit of Revenge"
+    path: "m120_extend_gak.txtp"
+    type: warning
+...

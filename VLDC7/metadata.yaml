@@ -1,0 +1,65 @@
+﻿---
+id: vldc7
+title: "The 7th Annual Vanilla Level Design Contest"
+series: mario
+is_fanwork: true
+platform: "SNES"
+year: 2014
+songs:
+  - id: vldc7_ice_remix
+    title: "REMIX - Ice"
+    path: "REMIX - Ice.spc"
+    tags: [xmas]
+    type: betting
+  - id: vldc7_mountain_map
+    title: "MAP - Mountain"
+    path: "MAP - Mountain.spc"
+    type: betting
+  - id: vldc7_athletic_remix
+    title: "REMIX - Piano/Athletic"
+    path: "REMIX - Piano Athletic.spc"
+    type: result
+  - id: vldc7_mountain_remix
+    title: "REMIX - Mountain"
+    path: "REMIX - Mountain.spc"
+    type: result
+  - id: vldc7_abstract_remix
+    title: "REMIX - Abstract"
+    path: "REMIX - Abstract.spc"
+    type: result
+  - id: vldc7_grass_map
+    title: "MAP - Grass/Forest"
+    path: "MAP - Grass and Forest.spc"
+    type: result
+  - id: vldc7_best_map
+    title: "MAP - Best Levels"
+    path: "MAP - Best Levels"
+    type: result
+  - id: vldc7_fortress_remix
+    title: "REMIX - Fortress"
+    path: "REMIX - Fortress.spc"
+    tags: [halloween]
+    type: warning
+  - id: vldc7_ice_map
+    title: "MAP - Ice"
+    path: "MAP - Ice.spc"
+    tags: [xmas]
+    type: warning
+  - id: vldc7_desert_map
+    title: "MAP - Desert"
+    path: "MAP - Desert.spc"
+    type: warning
+  - id: vldc7_worst_map
+    title: "MAP - Worst Levels"
+    path: "MAP - Worst Levels.spc"
+    tags: [halloween]
+    type: warning
+  - id: vldc7_cave_map
+    title: "MAP - Cave"
+    path: "MAP - Cave.spc"
+    type: break
+  - id: vldc7_abstract_map
+    title: "MAP - Abstract"
+    path: "MAP - Abstract.spc"
+    type: break
+...

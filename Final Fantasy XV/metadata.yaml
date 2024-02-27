@@ -245,10 +245,10 @@ songs:
     title: "ARDYN III"
     path: "bgm_epi_bat_ardyn_if1.win.mab"
     type: betting
-  - id: become_the_fire_ffxv
-    title: "Become the Fire"
-    path: "bgm_epi_bat_ardyn_if2.win.mab"
-    type: battle
+  # - id: become_the_fire_ffxv
+    # title: "Become the Fire"
+    # path: "bgm_epi_bat_ardyn_if2.win.mab"
+    # type: battle
   - id: ashes_to_ashes_ffxv
     title: "Ashes to Ashes"
     path: "bgm_epi_bat_ardyn_if3.win.mab"

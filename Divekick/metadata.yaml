@@ -4,11 +4,15 @@ platform: ["PC", "Various"]
 #other platforms: ["PS3", "Vita", "XB1", "PS4"]
 year: 2013
 songs: 
-  - id: betting_heaven_divekick
+  - id: heaven_divekick
     title: "Heaven"
     path: "Betting-Heaven_Divekick.brstm"
     type: betting
-  - id: break_elevator_divekick
+  - id: elevator_divekick
     title: "Elevator"
     path: "Break-Elevator_Divekick.brstm"
     type: break
+  - id: jeo_main_stage
+    title: "JEO Main Stage"
+    path: "JEO Main Stage.brstm"
+    type: betting

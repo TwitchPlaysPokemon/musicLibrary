@@ -4,13 +4,42 @@ title: "Sonic Chronicles: The Dark Brotherhood"
 series: sonic
 platform: "NDS"
 year: 2008
+#dunno if the battle songs work, but someone requested Central City 
 songs: 
   - id: battle_1_sonic_chronicles
     title: "Battle 1"
     path: "battle_1.strm"
     type: warning
+  - id: battle_2_sonic_chronicles
+    title: "Battle 2"
+    path: "battle02.strm"
+    type: battle
+  - id: battle_3_sonic_chronicles
+    title: "Battle 3"
+    path: "battle03.strm"
+    type: battle
+  - id: battle_4_sonic_chronicles
+    title: "Battle 4"
+    path: "battle04.strm"
+    type: warning
+  - id: boss_battle_sonic_chronicles
+    title: "Boss Battle"
+    path: "battle_boss_1.strm"
+    type: battle
+  - id: ix_miniboss_battle
+    title: "Ix Mini Boss Battle"
+    path: "ix_mini_boss.strm"
+    type: battle
+  - id: ix_final_boss_battle
+    title: "Ix Final Boss Battle"
+    path: "ix_final_boss.strm"
+    type: battle
   - id: nocturne_sonic_chronicles
     title: "Nocturne"
     path: "000c bgm13.mini2sf"
+    type: betting
+  - id: central_city_sonic_chronicles
+    title: "Central City"
+    path: "0001 bgm02.mini2sf"
     type: betting
 ...
