@@ -93,6 +93,10 @@ songs:
     title: "Encounter! (Aether Foundation)"
     path: "bgm_eye19.logg"
     type: warning
+  - id: encounter_team_yell_masters
+    title: "Encounter! (Team Yell)"
+    path: "bgm_eye20.logg"
+    type: warning
   - id: team_rocket_event
     title: "Team Rocket (Event)"
     path: "bgm_field_rocket.logg"
@@ -132,6 +136,10 @@ songs:
   - id: pokemon_center_new_year_masters
     title: "Pokémon Center (New Year Ver.)"
     path: "bgm_field_home_gasho.logg"
+    type: betting
+  - id: pokemon_center_april_fools_2024
+    title: "Pokémon Center (April Fools 2024 ver.)"
+    path: "bgm_pokecen_af_2024.logg"
     type: betting
   - id: the_ideal_formula
     title: "The Ideal Formula"
@@ -245,6 +253,10 @@ songs:
     title: "Iono Zone (Part 3)"
     path: "bgm_event_nanjamo_03.logg"
     type: result
+  - id: volo_s_theme_masters
+    title: "Volo's Theme"
+    path: "bgm_event_volo.logg"
+    type: warning
   - id: villain_arc_ending
     title: "Villain Arc Ending"
     path: "bgm_villain_ending.logg" #dunno a good type for this one, so
@@ -661,6 +673,10 @@ songs:
     title: "Battle! (Hugh)"
     path: "bgm_battle_hugh.logg"
     type: battle
+  - id: battle_pokestar_studios
+    title: "Battle! (Pokéstar Studios)"
+    path: "bgm_battle_pokewood.logg"
+    type: battle
   - id: battle_team_plasma_masters
     title: "Battle! (Team Plasma)"
     path: "bgm_battle_plasma.logg"
@@ -1005,9 +1021,21 @@ songs:
     title: "Battle! (Paldea Gym Leader)"
     path: "bgm_battle_gl_p.logg"
     type: battle
+  - id: battle_paldea_teacher_masters
+    title: "Battle! (Paldea Teacher)"
+    path: "bgm_battle_teacher_paldea.logg"
+    type: battle
   - id: battle_penny
     title: "Battle! (Penny)"
     path: "bgm_battle_button.logg"
+    type: battle
+  - id: battle_paldea_elite_four_poppy
+    title: "Battle! (Paldea Elite Four: Poppy)"
+    path: "bgm_battle_big4_p_poppy.logg"
+    type: battle
+  - id: battle_paldea_elite_four_rika
+    title: "Battle! (Paldea Elite Four: Rika)"
+    path: "bgm_battle_big4_p_chiri.logg"
     type: battle
   - id: battle_geeta
     title: "Battle! (Geeta)"

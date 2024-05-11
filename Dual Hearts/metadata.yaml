@@ -19,6 +19,7 @@ songs:
   - id: santas_dream_2
     title: "Santa's Dream 2"
     path: "Santa's Dream 2.GENH"
+    tags: [xmas]
     type: betting
   - id: hannahs_dream
     title: "Hannah's Dream"
@@ -67,6 +68,7 @@ songs:
   - id: santas_dream_1
     title: "Santa's Dream 1"
     path: "Santa's Dream 1.GENH"
+    tags: [xmas]
     type: warning
   - id: mctuves_dream
     title: "McTuve's Dream"
@@ -78,7 +80,7 @@ songs:
     type: warning
   - id: queen_battle_dual_hearts
     title: "Queen Battle"
-    path: "Queen Battle.GENH"
+    path: "Queen battle.GENH"
     type: warning
   - id: sleepy_hill
     title: "Sleepy Hill"
@@ -88,9 +90,14 @@ songs:
     title: "Val's Dream (True Feelings)"
     path: "Val's Dream (True Feelings).GENH"
     type: break
+  - id: parfaits_dream
+    title: "Parfait's Dream"
+    path: "Parfait's Dream.GENH"
+    type: break
   - id: santas_dream_ice_temple
     title: "Santa's Dream (Ice Temple)"
     path: "Santa's Dream (Ice Temple).GENH"
+    tags: [xmas]
     type: break
   - id: chiffons_dream_frozen
     title: "Chiffon's Dream (Frozen)"

@@ -1,0 +1,19 @@
+---
+id: the_adventures_of_gilligan_s_island
+title: "The Adventures of Gilligan's Island"
+platform: "NES"
+year: 1990
+songs: 
+  - id: the_ballad_of_gilligan_s_isle
+    title: "The Ballad of Gilligan's Isle"
+    path: "01 Title (The Ballad of Gilligan's Isle).vgz"
+    type: warning
+  - id: boss_battle_gilligan
+    title: "Boss Battle"
+    path: "06 Boss Battle.vgz"
+    type: warning
+  - id: staff_roll_gilligan
+    title: "Staff Roll"
+    path: "08 Staff Roll.vgz"
+    type: result
+...

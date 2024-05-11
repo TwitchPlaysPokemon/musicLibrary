@@ -1,0 +1,45 @@
+﻿---
+id: magicat
+title: "MagiCat"
+platform: ["PC", "Switch"]
+year: 2017
+songs:
+  - id: 05_enchanting_sky
+    title: "Enchanting Sky"
+    path: "05 Enchanting Sky.brstm"
+    type: betting
+  - id: 11_arcanic_assault
+    title: "Arcanic Assault"
+    path: "11 Arcanic Assault.brstm"
+    type: result
+  - id: 24_ciao_meow
+    title: "Ciao Meow"
+    path: "24 Ciao Meow.brstm"
+    type: result
+  - id: 15_extirpate_encounter
+    title: "Extirpate Encounter"
+    path: "15 Extirpate Encounter.brstm"
+    type: warning
+  - id: 16_factoric_fight
+    title: "Factoric Fight"
+    path: "16 Factoric Fight.brstm"
+    type: warning
+  - id: 17_grim_gobble
+    title: "Grim Gobble"
+    path: "17 Grim Gobble.brstm"
+    tags: [halloween]
+    type: warning
+  - id: 19_infinite_trickery
+    title: "Infinite Trickery"
+    path: "19 Infinite Trickery.brstm"
+    type: warning
+  - id: 01_alchemic_forest
+    title: "Alchemic Forest"
+    path: "01 Alchemic Forest.brstm"
+    type: break
+  - id: 08_hocus_coldus
+    title: "Hocus Coldus"
+    path: "08 Hocus Coldus.brstm"
+    tags: [xmas]
+    type: break
+...

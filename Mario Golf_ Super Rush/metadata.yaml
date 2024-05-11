@@ -123,4 +123,45 @@ songs:
     title: "Balmy Dunes Town ~ Back End"
     path: "song_town_bigo2.dspadpcm.bfstm"
     type: break
+#DLC. I think I got courses right?
+  - id: target_golf
+    title: "Target Golf"
+    path: "song_targetgolf.dspadpcm.bfstm"
+    type: betting
+  - id: target_golf_chance
+    title: "Target Golf (Chance)"
+    path: "song_targetgolf_chance.dspadpcm.bfstm"
+    type: warning
+  - id: spiky_palms
+    title: "Spiky Palms"
+    path: "song_course_minisand.dspadpcm.bfstm"
+    type: betting
+  - id: spiky_palms_speed_golf_ver
+    title: "Spiky Palms (Speed Golf Ver.)"
+    path: "song_tournament_course_minisand.dspadpcm.bfstm"
+    type: warning
+  - id: blustery_basin
+    title: "Blustery Basin"
+    path: "song_course_minisnow.dspadpcm.bfstm"
+    type: betting
+  - id: blustery_basin_speed_golf_ver
+    title: "Blustery Basin (Speed Golf Ver.)"
+    path: "song_tournament_course_minisnow.dspadpcm.bfstm"
+    type: warning
+  - id: shelltop_sanctuary
+    title: "Shelltop Sanctuary"
+    path: "song_course_mastershort.dspadpcm.bfstm"
+    type: betting
+  - id: shelltop_sanctuary_speed_golf_ver
+    title: "Shelltop Sanctuary (Speed Golf Ver.)"
+    path: "song_tournament_course_mastershort.dspadpcm.bfstm"
+    type: battle
+  - id: all_star_summit
+    title: "All-Star Summit"
+    path: "song_course_mariostar.dspadpcm.bfstm"
+    type: betting
+  - id: all_star_summit_speed_golf_ver
+    title: "All-Star Summit (Speed Golf Ver.)"
+    path: "song_tournament_course_mariostar.dspadpcm.bfstm"
+    type: battle
 ...

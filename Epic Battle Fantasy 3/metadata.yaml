@@ -1,0 +1,62 @@
+﻿---
+id: epic_battle_fantasy_3
+title: "Epic Battle Fantasy 3"
+series: ebf
+platform: "PC"
+year: 2010
+songs:
+  - id: estavius_ebf3
+    title: "Estavius"
+    path: "2 Estavius.brstm"
+    type: betting
+  - id: enter_the_woods_ebf3
+    title: "Enter the Woods"
+    path: "3 Enter the Woods.brstm"
+    type: betting
+  - id: wings_ebf3
+    title: "Wings"
+    path: "10 Wings.brstm"
+    type: betting
+  - id: sisters_of_snow_assent_ebf3
+    title: "Sisters of Snow Assent"
+    path: "18 Sisters of Snow Assent.brstm"
+    tags: [xmas]
+    type: betting
+  - id: youll_never_guess_this_ebf3
+    title: "You'll Never Guess This!"
+    path: "11 You'll Never Guess This.brstm"
+    type: battle
+  - id: acruta_lao_dnor_ebf3
+    title: "Acruta Lao D'nor"
+    path: "13 Acruta Lao D'nor.brstm"
+    type: battle
+  - id: we_dream_of_booty_ebf3
+    title: "We Dream of Booty! :D"
+    path: "4 We Dream of Booty!.brstm"
+    type: result
+  - id: zomg_victory_ebf3
+    title: "z0mg \\/ICT0RY!! ^o^"
+    path: "9 z0mg VICT0RY!!.brstm"
+    type: result
+  - id: the_pianists_revelment_ebf3
+    title: "The Pianist's Revelment"
+    path: "19 The Pianist's Revelment.brstm"
+    type: result
+  - id: nebula_ebf3
+    title: "Nebula"
+    path: "8 Nebula.brstm"
+    type: warning
+  - id: kick_s_beats_ebf3
+    title: "Kick S. Beats"
+    path: "15 Kick S. Beats.brstm"
+    type: warning
+  - id: that_which_we_have_lost_and_forgotten_ebf3
+    title: "That Which We Have Lost and Forgotten"
+    path: "1 That Which We Have Lost and Forgotten.brstm"
+    type: break
+  - id: sisters_of_snow_dissent
+    title: "Sisters of Snow Dissent"
+    path: "5 Sisters of Snow Dissent.brstm"
+    tags: [xmas]
+    type: break
+...

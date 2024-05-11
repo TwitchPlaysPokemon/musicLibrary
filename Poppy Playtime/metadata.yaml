@@ -1,0 +1,15 @@
+---
+id: poppy_playtime
+title: "Poppy Playtime"
+platform: ["PC", "Mobile"]
+year: 2021
+songs: 
+  - id: simon_says
+    title: "Simon Says"
+    path: "Simon Says.brstm"
+    type: result
+  - id: sleep_well
+    title: "Sleep Well"
+    path: "Sleep Well.brstm"
+    type: betting
+...

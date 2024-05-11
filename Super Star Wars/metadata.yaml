@@ -1,0 +1,51 @@
+---
+id: super_star_wars_dos
+title: "Super Star Wars [DOS]"
+platform: "Various"
+year: 1995
+songs: 
+  - id: throne_room_super_star_wars
+    title: "Throne Room"
+    path: "02 Throne Room.vgz"
+    type: result
+  - id: boss_attack_super_star_wars
+    title: "Boss Attack"
+    path: "04 Boss Attack.vgz"
+    type: warning
+  - id: battle_super_star_wars
+    title: "Battle"
+    path: "05 Battle.vgz"
+    type: warning
+  - id: fighter_super_star_wars
+    title: "Fighter"
+    path: "06 Fighter.vgz"
+    type: warning
+  - id: cantina_fight
+    title: "Cantina Fight"
+    path: "07 Cantina Fight.vgz"
+    type: betting
+  - id: little_people
+    title: "Little People"
+    path: "08 Little People.vgz"
+    type: warning
+  - id: strings_super_star_wars
+    title: "Strings"
+    path: "10 Strings.vgz"
+    type: break
+  - id: game_over_super_star_wars
+    title: "Game Over"
+    path: "11 Game Over.vgz"
+    type: result
+  - id: fanfare_3_super_star_wars
+    title: "Fanfare 3"
+    path: "15 Fanfare 3.vgz"
+    type: result
+  - id: explode_1
+    title: "Explode 1"
+    path: "16 Explode 1.vgz"
+    type: warning
+  - id: intro_super_star_wars
+    title: "Intro"
+    path: "18 Intro (looping).vgz"
+    type: betting
+...

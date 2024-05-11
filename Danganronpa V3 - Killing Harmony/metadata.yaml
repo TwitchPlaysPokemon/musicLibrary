@@ -1,8 +1,8 @@
----
+﻿---
 id: danganronpa_v3_killing_harmony
 title: "Danganronpa V3: Killing Harmony"
 series: danganronpa
-platform: ["PS4", "Vita", "PC"]
+platform: ["Various"]
 year: 2017
 songs: 
   - id: beautiful_lie
@@ -13,4 +13,16 @@ songs:
     title: "Despair Searching"
     path: "BGM_00000009.hca"
     type: betting
+  - id: debate_scrum
+    title: "Debate Scrum"
+    path: "Debate Scrum.brstm"
+    type: battle
+  - id: rise_and_shine_ursine
+    title: "Rise and Shine, Ursine!"
+    path: "Rise and Shine, Ursine!.brstm"
+    type: warning
+  - id: closing_argument_v3
+    title: "Closing Argument V3"
+    path: "Closing Argument V3.brstm"
+    type: break
 ...

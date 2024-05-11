@@ -1,0 +1,33 @@
+﻿---
+id: marisaland_legacy
+title: "MarisaLand Legacy"
+series: touhou
+is_fanwork: true
+platform: "PC"
+year: 2018
+songs:
+  - id: marisalandlegacy_overworld
+    title: "Overworld Stage"
+    path: "03 Overworld Stage.brstm"
+    type: betting
+  - id: marisalandlegacy_underground
+    title: "Underground Stage"
+    path: "05 Underground Stage.brstm"
+    type: betting
+  - id: marisalandlegacy_night
+    title: "Night Stage"
+    path: "07 Night Stage.brstm"
+    type: result
+  - id: marisalandlegacy_staff_roll
+    title: "Staff Roll"
+    path: "14 Staff Roll.brstm"
+    type: result
+  - id: marisalandlegacy_mansion
+    title: "Mansion Stage"
+    path: "10 Mansion Stage.brstm"
+    type: warning
+  - id: marisalandlegacy_boss
+    title: "Normal Boss"
+    path: "11 Normal Boss.brstm"
+    type: warning
+...

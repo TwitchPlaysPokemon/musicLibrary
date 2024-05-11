@@ -1,0 +1,76 @@
+﻿---
+id: epic_battle_fantasy_4
+title: "Epic Battle Fantasy 4"
+series: ebf
+platform: "PC"
+year: 2013
+songs:
+  - id: weshdoor_concert_ebf4
+    title: "Weshdoor Concert"
+    path: "3 Weshdoor Concert.brstm"
+    type: betting
+  - id: crystalis_fantasia_ebf4
+    title: "Crystalis Fantasia"
+    path: "4 Crystalis Fantasia.brstm"
+    tags: [xmas]
+    type: betting
+  - id: a_first_snow_with_friends_ebf4
+    title: "A First Snow With Friends"
+    path: "5 A First Snow With Friends.brstm"
+    tags: [xmas]
+    ends: 2:10
+    type: betting
+  - id: faerie_breeze_ebf4
+    title: "Faerie Breeze"
+    path: "8 Faerie Breeze.brstm"
+    ends: 2:05
+    type: betting
+  - id: van_al_tag_ebf4
+    title: "Van al Tag"
+    path: "17 Van al Tag.brstm"
+    type: betting
+  - id: van_al_tag_extended_ebf4
+    title: "Van al Tag (Extended)"
+    path: "11 Van al Tag (Extended).brstm"
+    type: battle
+  - id: rage_of_the_abandoned_ebf4
+    title: "Rage of the Abandoned"
+    path: "13 Rage of the Abandoned.brstm"
+    type: battle
+  - id: under_my_skin_ebf4
+    title: "Under My Skin"
+    path: "23 Under My Skin.brstm"
+    type: battle
+  - id: elfin_ebf4
+    title: "Elfin"
+    path: "12 Elfin.brstm"
+    type: result
+  - id: mist_after_the_storm_ebf4
+    title: "Mist After the Storm"
+    path: "19 Mist After the Storm.brstm"
+    type: result
+  - id: another_epic_adventure_ebf4
+    title: "Another Epic Adventure"
+    path: "25 Another Epic Adventure.brstm"
+    type: result
+  - id: a_bleeding_fight_ebf4
+    title: "A Bleeding Fight"
+    path: "14 A Bleeding Fight.brstm"
+    type: warning
+  - id: jump_into_battle_ebf4
+    title: "Jump Into Battle"
+    path: "22 Jump Into Battle.brstm"
+    type: warning
+  - id: estavius_piano_ebf4
+    title: "Estavius (Piano Version)"
+    path: "1 Estavius (Piano Version).brstm"
+    type: break
+  - id: dustblown_travels_ebf4
+    title: "Dustblown Travels"
+    path: "9 Dustblown Travels.brstm"
+    type: break
+  - id: a_stroll_through_nostalgia_ending_ebf4
+    title: "A Stroll Through Nostalgia (Ending Version)"
+    path: "18 A Stroll Through Nostalgia (Ending Version).brstm"
+    type: break
+...

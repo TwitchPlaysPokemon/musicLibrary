@@ -1,0 +1,83 @@
+﻿---
+id: bound_high
+title: "Bound High!"
+platform: "VB"
+year: UNRELEASED
+songs:
+  - id: title_bound_high
+    title: "Title"
+    path: "01 Title.vgz"
+    type: betting
+  - id: menu_bound_high
+    title: "Menu"
+    path: "02 Menu.vgz"
+    type: result
+  - id: pocket_and_cushion
+    title: "Pocket & Cushion"
+    path: "03 Pocket & Cushion.vgz"
+    type: warning
+  - id: score_attack_bound_high
+    title: "Score Attack"
+    path: "04 Score Attack.vgz"
+    type: result
+  - id: intro_bound_high
+    title: "Intro"
+    path: "05 Intro.vgz"
+    type: break
+  - id: world_1_bound_high
+    title: "World 1"
+    path: "06 World 1.vgz"
+    type: betting
+  - id: boss_battle_bound_high
+    title: "Boss Battle"
+    path: "07 Boss Battle.vgz"
+    type: result
+  - id: world_2_bound_high
+    title: "World 2"
+    path: "08 World 2.vgz"
+    type: betting
+  - id: world_3_bound_high
+    title: "World 3"
+    path: "09 World 3.vgz"
+    type: betting
+  - id: world_4_bound_high
+    title: "World 4"
+    path: "10 World 4.vgz"
+    type: betting
+  - id: final_boss_battle_bound_high
+    title: "Final Boss Battle"
+    path: "11 Final Boss Battle.vgz"
+    type: warning
+  - id: ending_theme_bound_high
+    title: "Ending Theme"
+    path: "12 Ending Theme.vgz"
+    type: result
+  - id: staff_roll_bound_high
+    title: "Staff Roll"
+    path: "13 Staff Roll.vgz"
+    type: result
+  - id: another_stage_bound_high
+    title: "Another Stage"
+    path: "14 Another Stage.vgz"
+    type: betting
+  - id: power_up_bound_high
+    title: "Power Up"
+    path: "15 Power Up.vgz"
+    type: warning
+  - id: stage_16_clear
+    title: "Stage 16 Clear"
+    path: "20 Stage 16 Clear.vgz"
+    type: result
+  - id: stage_20_clear
+    title: "Stage 20 Clear"
+    path: "21 Stage 20 Clear.vgz"
+    type: result
+  - id: random_game_1
+    title: "Random Game 1"
+    path: "23 Random Game 1.vgz"
+    type: break
+  - id: random_game_2
+    title: "Random Game 2"
+    path: "24 Random Game 2.vgz"
+    type: result
+...

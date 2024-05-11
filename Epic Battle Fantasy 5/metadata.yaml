@@ -1,0 +1,60 @@
+﻿---
+id: epic_battle_fantasy_5
+title: "Epic Battle Fantasy 5"
+series: ebf
+platform: "PC"
+year: 2018
+songs:
+  - id: blade_and_switch
+    title: "Blade & Switch"
+    path: "Blade & Switch.brstm"
+    type: battle
+  - id: fight_the_movement
+    title: "Fight the Movement!"
+    path: "Fight the Movement!.brstm"
+    type: battle
+  - id: m3chanical_c0n_d4mnation
+    title: "M3CHANICAL C0N-D4MNATION"
+    path: "M3CHANICAL C0N-D4MNATION.brstm"
+    type: battle
+  - id: never_falter
+    title: "Never Falter"
+    path: "Never Falter.brstm"
+    type: betting
+  - id: no_x1b
+    title: "No\x1B"
+    path: "No-x1B.brstm"
+    type: betting
+  - id: nymphis_fae
+    title: "Nymphis Fae"
+    path: "Nymphis Fae.brstm"
+    type: betting
+  - id: return_of_the_snow_queen
+    title: "Return of the Snow Queen"
+    path: "Return of the Snow Queen.brstm"
+    type: betting
+  - id: the_leopard_s_bane
+    title: "The Leopard's Bane"
+    path: "The Leopard's Bane.brstm"
+    type: betting
+  - id: those_of_us_who_blossom
+    title: "Those of Us Who Blossom!"
+    path: "Those of Us Who Blossom!.brstm"
+    type: betting
+  - id: vs_virus
+    title: "Vs. Virus"
+    path: "Vs, Virus.brstm"
+    type: battle
+  - id: vs_major_boss
+    title: "Vs. Major Boss"
+    path: "Vs. Major Boss.brstm"
+    type: battle
+  - id: 如影随形_as_the_shadow
+    title: "如影随形 (As the Shadow)"
+    path: "如影随形 (As the Shadow).brstm"
+    type: battle
+  - id: 积雪浮云端_snowdrift_on_the_cloud_edge
+    title: "积雪浮云端 (Snowdrift on the Cloud Edge)"
+    path: "积雪浮云端 (Snowdrift on the Cloud Edge).brstm"
+    type: betting
+...

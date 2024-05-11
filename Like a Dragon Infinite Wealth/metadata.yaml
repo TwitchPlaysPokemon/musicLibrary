@@ -1,0 +1,224 @@
+---
+id: like_a_dragon_infinite_wealth
+title: "Like a Dragon: Infinite Wealth"
+series: yakuza
+platform: "Various"
+year: 2024
+songs: 
+  - id: burned_out
+    title: "Burned Out"
+    path: "Burned Out.brstm"
+    type: break
+  - id: impersonation
+    title: "Impersonation"
+    path: "Impersonation.brstm"
+    type: battle
+  - id: the_four
+    title: "The Four"
+    path: "The Four.brstm"
+    type: battle
+  - id: the_end_of_denial
+    title: "The End of Denial"
+    path: "The End of Denial alt.brstm"
+    type: battle
+  - id: viva_la_vide
+    title: "Viva La Vida!"
+    path: "Viva La Vida!.brstm"
+    ends: 1:40
+    type: betting
+  - id: giftiger_fullhalter
+    title: "Giftiger Füllhalter"
+    path: "bbg_a_00000000.hca"
+    type: battle
+  - id: camouflage
+    title: "Camouflage"
+    path: "bbg_a_0000000A.hca"
+    type: battle
+  - id: bodybag
+    title: "BodyBag"
+    path: "bbg_a_0000000D.hca"
+    type: battle
+  - id: waikiki_down_beat
+    title: "Waikiki Down Beat"
+    path: "bbg_a_0000000E.hca"
+    type: battle
+  - id: irritation
+    title: "Irritation"
+    path: "bbg_a_00000001.hca"
+    type: warning
+  - id: tyrant_of_the_ocean
+    title: "Tyrant of the Ocean"
+    path: "bbg_a_00000002.hca"
+    type: battle
+  - id: sad_mechanism
+    title: "Sad Mechanism"
+    path: "bbg_a_00000003.hca"
+    type: battle
+  - id: warrior_s_bond
+    title: "Warriors' Bond"
+    path: "bbg_a_00000004.hca"
+    type: battle
+  - id: impregnable_triangle
+    title: "Impregnable Triangle"
+    path: "bbg_a_00000009.hca"
+    type: battle
+  - id: ate_that
+    title: "Ate That"
+    path: "bbg_a_00000014.hca"
+    type: result
+  - id: brutality_rebuild
+    title: "Brutality -Rebuild-"
+    path: "bbg_b_00000000.hca"
+    type: battle
+  - id: barracuda_ladiw
+    title: "BARRACUDA"
+    path: "bbg_b_0000000A.hca"
+    type: battle
+  - id: daymare
+    title: "Daymare"
+    path: "bbg_b_0000000B.hca"
+    type: battle
+  - id: perfect_encirclement
+    title: "Perfect Encirclement"
+    path: "bbg_b_0000000C.hca"
+    ends: 2:33
+    type: betting
+  - id: twin_machetes
+    title: "Twin Machetes"
+    path: "bbg_b_00000004.hca"
+    type: battle
+  - id: stigma_ladiw
+    title: "Stigma"
+    path: "bbg_b_00000006.hca"
+    type: battle
+  - id: district5_passive
+    title: "District5: Passive"
+    path: "bbg_b_00000007.hca"
+    type: warning
+  - id: district5_active
+    title: "District5: Active"
+    path: "bbg_b_00000008.hca"
+    type: battle
+  - id: receive_and_believe_you
+    title: "Receive and Believe You"
+    path: "bbg_b_00000009.hca"
+    type: battle
+  - id: palekanian_dance
+    title: "Palekanian Dance"
+    path: "bbg_c_00000008.hca"
+    type: battle
+  - id: sanctions
+    title: "Sanctions"
+    path: "bbg_d_00000000.hca"
+    type: battle
+  - id: knavish
+    title: "Knavish"
+    path: "bbg_d_0000000C.hca"
+    type: battle
+  - id: defiant_charm
+    title: "Defiant Charm"
+    path: "bbg_d_0000000D.hca"
+    type: battle
+  - id: wicked_way
+    title: "Wicked Way"
+    path: "bbg_d_0000000E.hca"
+    ends: 2:14
+    type: betting
+  - id: slugfest_ladiw
+    title: "Slugfest"
+    path: "bbg_d_0000000F.hca"
+    type: battle
+  - id: kooky
+    title: "Kooky"
+    path: "bbg_d_00000001.hca"
+    type: battle
+  - id: madness_unleashed
+    title: "Madness Unleashed"
+    path: "bbg_d_00000003.hca"
+    type: battle
+  - id: hellfire_fury
+    title: "Hellfire Fury"
+    path: "bbg_d_00000005.hca"
+    type: battle
+  - id: thug_s_hangout_ladiw
+    title: "Thug's Hangout"
+    path: "bbg_d_00000006.hca"
+    ends: 2:18
+    type: betting
+  - id: reminiscent_mood
+    title: "Reminiscent Mood"
+    path: "kaiwabgm_00000000.hca"
+    type: break
+  - id: julie_s_gearworks
+    title: "Julie's Gearworks"
+    path: "mngbgm_alchemy_menu_00000000.hca"
+    type: betting
+  - id: let_s_go_crazy_ladiw
+    title: "Let's Go Crazy!!"
+    path: "mngbgm_crazy_delivery_00000001.hca"
+    type: battle
+  - id: adrenaline_shot
+    title: "Adrenaline Shot"
+    path: "mngbgm_crazy_delivery_00000002.hca"
+    type: warning
+  - id: i_m_jelly
+    title: "I'm Jelly"
+    path: "mngbgm_fitting_room_00000000.hca"
+    type: betting
+  - id: finger_tactics
+    title: "Finger Tactics"
+    path: "mngbgm_matching_app_00000000.hca"
+    type: betting
+  - id: let_s_take_it_easy
+    title: "Let's Take It Easy"
+    path: "mngbgm_resort_00000000.hca"
+    type: break
+  - id: we_are_clean_pirates
+    title: "We are Clean Pirates!"
+    path: "mngbgm_resort_00000001.hca"
+    type: warning
+  - id: let_s_get_started_ladiw
+    title: "Let's Get Started"
+    path: "mngbgm_sujimon_00000000.hca"
+    type: battle
+  - id: just_keep_fighting_ladiw
+    title: "Just Keep Fighting"
+    path: "mngbgm_sujimon_00000001.hca"
+    type: battle
+  - id: never_look_back_ladiw
+    title: "Never Look Back"
+    path: "mngbgm_sujimon_00000002.hca"
+    type: battle
+  - id: seize_the_victory
+    title: "Seize The Victory"
+    path: "mngbgm_sujimon_00000003.hca"
+    type: battle
+  - id: good_game_ladiw
+    title: "Good Game"
+    path: "mngbgm_sujimon_00000004.hca"
+    type: result
+  - id: well_played_ladiw
+    title: "Well Played"
+    path: "mngbgm_sujimon_00000005.hca"
+    type: result
+  - id: it_s_time_to_evolve
+    title: "It's Time to Evolve"
+    path: "mngbgm_sujimon_00000006.hca"
+    type: warning
+  - id: come_to_me_ladiw
+    title: "Come to me!"
+    path: "mngbgm_sujimon_00000007.hca"
+    type: warning
+  - id: i_will_choose_you
+    title: "I Will Choose You"
+    path: "mngbgm_sujimon_00000008.hca"
+    type: warning
+  - id: sicko_snap
+    title: "Sicko Snap"
+    path: "mngbgm_trolley_00000000.hca"
+    type: result
+  - id: waste_of_time_ladiw
+    title: "Waste of Time"
+    path: "mngbgm_trolley_00000001.hca"
+    type: result
+...

@@ -1,0 +1,48 @@
+﻿---
+id: tightrope_theatre
+title: "Tightrope Theatre"
+platform: ["Mobile", "PC"]
+year: 2022
+songs:
+  - id: barrel_bonanza_trt
+    title: "Barrel Bonanza"
+    path: "04 Barrel Bonanza.brstm"
+    type: betting
+  - id: jubilant_jester_trt
+    title: "Jubilant Jester"
+    path: "05 Jubilant Jester.brstm"
+    type: betting
+  - id: aquatic_acrobat_trt
+    title: "Aquatic Acrobat"
+    path: "10 Aquatic Acrobat.brstm"
+    type: betting
+  - id: flaming_finale_trt
+    title: "Flaming Finale"
+    path: "07 Flaming Finale.brstm"
+    type: battle
+  - id: tightrope_theatre_theme
+    title: "Tightrope Theatre"
+    path: "01 Tightrope Theatre.brstm"
+    type: result
+  - id: sordid_spectacle_trt
+    title: "Sordid Spectacle"
+    path: "03 Sordid Spectacle.brstm"
+    type: result
+  - id: close_the_curtain_trt
+    title: "Close the Curtain!"
+    path: "09 Close the Curtain!.brstm"
+    type: result
+  - id: creepy_carnival_trt
+    title: "Creepy Carnival"
+    path: "11 Creepy Carnival.brstm"
+    tags: [halloween]
+    type: warning
+  - id: comical_cutscenes_trt
+    title: "Comical Cutscenes"
+    path: "02 Comical Cutscenes.brstm"
+    type: break
+  - id: magic_mystery_trt
+    title: "Magic Mystery"
+    path: "06 Magic Mystery.brstm"
+    type: break
+...

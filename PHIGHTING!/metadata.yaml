@@ -50,4 +50,20 @@ songs:
     title: "THE ULTIMATE STRATEGY"
     path: "THE ULTIMATE STRATEGY.brstm"
     type: battle
+  - id: solar_eclipse_phighting
+    title: "SOLAR ECLIPSE"
+    path: "SOLAR ECLIPSE.mp3"
+    type: warning
+  - id: grain_of_pain
+    title: "GRAIN OF PAIN"
+    path: "GRAIN OF PAIN.brstm"
+    type: battle
+  - id: ten_pin_toss_up
+    title: "TEN-PIN TOSS-UP"
+    path: "TEN-PIN TOSS-UP.brstm"
+    type: battle
+  - id: turbulence_phighting
+    title: "TURBULENCE"
+    path: "TURBULENCE.brstm"
+    type: battle
 ...

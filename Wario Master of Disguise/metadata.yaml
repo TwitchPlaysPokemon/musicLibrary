@@ -5,12 +5,140 @@ series: wario
 year: 2007
 platform: "NDS"
 songs:
-  - id: count_cannoli_battle
-    title: "Count Cannoli Battle"
-    path: "Count Cannoli Battle.brstm"
+  - id: count_cannoli_battle_mad_hat
+    title: "Mad Hat"
+    path: "12 Mad Hat.mini2sf"
     type: battle
   - id: terrormisu
     title: "Terrormisu"
-    path: "Terrormisu.mini2sf"
+    path: "29 Terrormisu.mini2sf"
     type: battle
+  - id: wario_master_of_disguise
+    title: "Wario, Master of Disguise"
+    path: "01a Wario, Master of Disguise.strm"
+    type: warning
+  - id: phantom_thief_wario_the_seven
+    title: "Phantom Thief, Wario the Seven"
+    path: "01b Phantom Thief, Wario the Seven.strm"
+    type: warning
+  - id: records_book
+    title: "Records Book"
+    path: "02 Records Book.mini2sf"
+    type: result
+  - id: news_report
+    title: "News Report"
+    path: "03 News Report.mini2sf"
+    type: break
+  - id: the_silver_zephyr
+    title: "The Silver Zephyr"
+    path: "05 The Silver Zephyr.mini2sf"
+    type: betting
+  - id: a_luxury_liner
+    title: "A Luxury Liner"
+    path: "06 A Luxury Liner.mini2sf"
+    type: betting
+  - id: the_thief_transforms
+    title: "The Thief Transforms"
+    path: "07 The Thief Transforms.mini2sf"
+    type: warning
+  - id: building_the_telmet
+    title: "Building the Telmet"
+    path: "08 Building the Telmet.mini2sf"
+    type: warning
+  - id: whose_show_is_this_anyway
+    title: "Whose Show is this Anyway?!!"
+    path: "11 Whose Show is this Anyway_!!.mini2sf"
+    type: betting
+  - id: the_purple_wind_stinks_up_the_ship
+    title: "The Purple Wind Stinks Up the Ship!"
+    path: "13 The Purple Wind Stinks Up the Ship!.mini2sf"
+    type: betting
+  - id: the_wishstone
+    title: "The Wishstone"
+    path: "14 The Wishstone.mini2sf"
+    type: warning
+  - id: the_sphinx_sits_on_a_secret
+    title: "The Sphinx Sits on a Secret!"
+    path: "15 The Sphinx Sits on a Secret!.mini2sf"
+    type: betting
+  - id: the_sphinx_simulator
+    title: "The Sphinx Simulator"
+    path: "16 The Sphinx Simulator.mini2sf"
+    type: warning
+  - id: the_great_sphinx
+    title: "The Great Sphinx"
+    path: "18 The Great Sphinx.mini2sf"
+    type: warning
+  - id: a_third_thief_brings_grief
+    title: "A Third Thief Brings Grief!"
+    path: "19 A Third Thief Brings Grief!.mini2sf"
+    type: warning
+  - id: head_honcho_carpaccio
+    title: "Head Honcho Carpaccio"
+    path: "20 Head Honcho Carpaccio.mini2sf"
+    type: battle
+  - id: picking_the_pharaoh_s_brains
+    title: "Picking the Pharaoh's Brains!"
+    path: "21 Picking the Pharaoh's Brains!.mini2sf"
+    type: betting
+  - id: general_boss_fight
+    title: "General Boss Fight"
+    path: "22 General Boss Fight.mini2sf"
+    type: battle
+  - id: a_flower_that_s_drunk_up_power
+    title: "A Flower That's Drunk Up Power!"
+    path: "23 A Flower That's Drunk Up Power!.mini2sf"
+    type: warning
+  - id: fouling_up_the_whole_works
+    title: "Fouling Up the Whole Works!"
+    path: "24 Fouling Up the Whole Works!.mini2sf"
+    type: betting
+  - id: tiaramisu
+    title: "Tiaramisu"
+    path: "25 Tiaramisu.mini2sf"
+    type: warning
+  - id: when_dolphins_ruled_the_earth
+    title: "When Dolphins Ruled the Earth!"
+    path: "26 When Dolphins Ruled the Earth!.mini2sf"
+    type: warning
+  - id: more_shocking_than_the_next_episode
+    title: "More Shocking Than the Next Episode?"
+    path: "27 More Shocking Than the Next Episode_.mini2sf"
+    type: result
+  - id: the_final_face_off
+    title: "The Final Face-Off!"
+    path: "28 The Final Face-Off!.mini2sf"
+    type: battle
+  - id: treasure_mini_game
+    title: "Treasure Mini-Game"
+    path: "30 Treasure Mini-Game.mini2sf"
+    type: result
+  - id: end_results_wario_mod
+    title: "End Results"
+    path: "31 End Results.strm"
+    type: result
+  - id: gold_falling_from_the_sky
+    title: "Gold Falling from the Sky"
+    path: "32 Gold Falling from the Sky.mini2sf"
+    type: result
+  - id: filthy_rich
+    title: "Filthy Rich"
+    path: "33 Filthy Rich.strm"
+    type: result
+  - id: cheated_again
+    title: "Cheated Again!"
+    path: "34 Cheated Again!.strm"
+    type: result
+  - id: staff_credits_wario_mod
+    title: "Staff Credits"
+    path: "35 Staff Credits.mini2sf"
+    type: break
+  - id: the_purple_wind_stinks_up_the_ship_variation
+    title: "The Purple Wind Stinks Up the Ship! (Variation)"
+    path: "b01 The Purple Wind Stinks Up the Ship! (Variation).mini2sf"
+    type: warning
+  - id: the_wishstone_variation
+    title: "The Wishstone (Variation)"
+    path: "b02 The Wishstone (Variation).mini2sf"
+    type: warning
 ...

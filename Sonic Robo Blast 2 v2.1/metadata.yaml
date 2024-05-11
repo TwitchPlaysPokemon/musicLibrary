@@ -4,7 +4,7 @@ title: "Sonic Robo Blast 2 v2.1"
 series: sonic
 is_fanwork: true
 platform: "PC"
-year: 2019
+year: 2014
 songs:
   - id: aerial_garden_zone_acts_1_2_old
     title: "Aerial Garden Zone Acts 1-2"
@@ -134,6 +134,7 @@ songs:
   - id: granite_lake_zone_old
     title: "Granite Lake Zone"
     path: "Granite Lake Zone.logg"
+    ends: 2:00
     type: betting
   - id: greenflower_zone_act_1_old
     title: "Greenflower Zone Act 1"

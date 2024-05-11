@@ -1,0 +1,29 @@
+---
+id: pooplers
+title: "Pooplers"
+platform: ["PC", "Switch"]
+year: 2020
+#I suffered through this, now you all will too
+songs: 
+  - id: space_station_pooplers
+    title: "Space Station"
+    path: "Space Station SLOW LOOP.fsb"
+    type: warning
+  - id: undead_pooplers
+    title: "Undead"
+    path: "Undead LOOP WITH INTRO.fsb"
+    type: warning
+  - id: choose_your_team_selection_menu
+    title: "Choose your Team (Selection Menu)"
+    path: "Choose your Team (Selection Menu).fsb"
+    type: warning
+  - id: crabs_coast
+    title: "Crabs Coast"
+    path: "9. Crabs Coast.fsb"
+    type: betting
+  - id: beach_market
+    title: "Beach Market"
+    path: "3. Beach Market.fsb"
+    ends: 2:28
+    type: betting
+...

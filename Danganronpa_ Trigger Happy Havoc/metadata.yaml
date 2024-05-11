@@ -1,51 +1,88 @@
----
+﻿---
 id: danganronpa_trigger_happy_havoc
 title: "Danganronpa: Trigger Happy Havoc"
-platform: "PSP"
+series: danganronpa
+platform: ["Various"]
 year: 2010
 songs:
-  - id: beautiful_dead
-    title: "Beautiful Dead"
-    path: "dr1_bgm_hca_00000003.hca"
-    type: break
-  - id: mr_monokumas_extracurricular_lesson
-    title: "Mr. Monokuma's Extracurricular Lesson"
-    path: "dr1_bgm_hca_0000000D.hca"
-    type: warning
+  - id: beautiful_day
+    title: "Beautiful Day"
+    path: "13 Beautiful Days.at3"
+    type: betting
   - id: box_15
-    title: "BOX 15"
+    title: "Box 15"
     path: "dr1_bgm_hca_0000000E.hca"
     type: betting
-  - id: living_to_the_fullest
-    title: "Living to the Fullest"
-    path: "dr1_bgm_hca_00000005.hca"
+  - id: closing_argument
+    title: "Closing Argument"
+    path: "dr1_bgm_hca_0000001A.hca"
     type: betting
+  - id: box_16
+    title: "Box 16"
+    path: "dr1_bgm_hca_0000000F.hca"
+    type: betting
+  - id: argument_turn_up_the_heat
+    title: "Argument [Turn Up the Heat]"
+    path: "dr1_bgm_hca_00000016.hca"
+    type: betting
+  - id: argument_hope_vs_despair
+    title: "Argument [Hope vs Despair]"
+    path: "dr1_bgm_hca_00000017.hca"
+    type: battle
+  - id: mr_monokumas_lesson
+    title: "Mr. Monokuma's Lesson"
+    path: "dr1_bgm_hca_00000008.hca"
+    type: result
+  - id: class_trial_the_sun
+    title: "Class Trial [The Sun]"
+    path: "24 Class Trial - Sun.at3"
+    type: result
+  - id: new_world_order
+    title: "New World Order"
+    path: "dr1_bgm_hca_0000000C.hca"
+    type: result
+  - id: mr_monokuma_after_class
+    title: "Mr. Monokuma After Class"
+    path: "dr1_bgm_hca_0000000D.hca"
+    type: warning
+  - id: distrust_dr
+    title: "Distrust"
+    path: "19 DISTRUST.at3"
+    type: warning
+  - id: to_survive
+    title: "To Survive"
+    path: "dr1_bgm_hca_00000005.hca"
+    type: warning
+  - id: despair_syndrome
+    title: "Despair Syndrome"
+    path: "09 Despair Syndrome.at3"
+    type: warning
+  - id: super_final_btb
+    title: "Super Final BTB"
+    path: "33 SUPER FINAL MTB.at3"
+    type: warning
+  - id: beautiful_death
+    title: "Beautiful Death"
+    path: "dr1_bgm_hca_00000003.hca"
+    type: break
+  - id: class_trial_dawn
+    title: "Class Trial [Dawn]"
+    path: "22 Class Trial - Dawn.at3"
+    type: break
+  - id: underground_trial
+    title: "Underground Trial"
+    path: "21 Underground Proceedings.at3"
+    type: break
+  - id: welcome_to_despair
+    title: "Welcome to Despair"
+    path: "04 Welcome to Despair Academy.at3"
+    type: break
   - id: beautiful_morning
     title: "Beautiful Morning"
     path: "dr1_bgm_hca_00000004.hca"
     type: break
-  - id: climax_inference
-    title: "Climax Inference"
-    path: "dr1_bgm_hca_0000001A.hca"
-    type: betting
-  - id: mr_monokuma_s_lesson
-    title: "Mr. Monokuma's Lesson"
-    path: "dr1_bgm_hca_00000008.hca"
-    type: betting
-  - id: box_16
-    title: "BOX 16"
-    path: "dr1_bgm_hca_0000000F.hca"
-    type: betting
-  - id: discussion_heat_up
-    title: "Discussion -HEAT UP-"
-    path: "dr1_bgm_hca_00000016.hca"
-    type: betting
-  - id: discussion_hope_vs_despair
-    title: "Discussion -HOPE VS DESPAIR-"
-    path: "dr1_bgm_hca_00000017.hca"
-    type: battle
-  - id: new_world_order
-    title: "New World Order"
-    path: "dr1_bgm_hca_0000000C.hca"
-    type: betting
+  - id: goodbye_despair_high_school
+    title: "Goodbye Despair High School"
+    path: "34 So Long, Despair Academy.at3"
+    type: break
 ...
