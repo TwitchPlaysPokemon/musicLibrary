@@ -1,0 +1,32 @@
+﻿---
+id: bomberman_generation
+title: "Bomberman Generation"
+year: 2002
+series: bomberman
+platform: "GCN"
+songs:
+  - id: octo_ocean_crystal_mix
+    title: "World 2; Octo Ocean [Crystal Mix]"
+    path: "06. World 2; Octo Ocean [Crystal Mix].adp"
+    type: betting
+  - id: tako_desert_egyptian_mix
+    title: "World 3; Tako Desert [Egyptian Mix]"
+    path: "09. World 3; Tako Desert [Egyptian Mix].adp"
+    type: betting
+  - id: bomberman_generation_boss_mix
+    title: "Bomberman [Boss Mix]"
+    path: "14. Bomberman [Boss Mix].adp"
+    type: warning #originally came as battle, but these raw files do not loop. until that's fixed, they're set as warning.
+  - id: bombs_away_mode_original_mix
+    title: "Bombs Away Mode [Original Mix]"
+    path: "27. Bombs Away Mode [Original Mix].adp"
+    type: warning #see above
+  - id: whacking_mode_no_speedy_mix
+    title: "Whacking Mode [No-Speedy Mix]"
+    path: "29. Whacking Mode [No-Speedy Mix].adp"
+    type: warning #see above
+  - id: bombs_away_mode_speed_mix
+    title: "Bombs Away Mode [Speed Mix]"
+    path: "28. Bombs Away Mode [Speed Mix].adp"
+    type: warning
+...

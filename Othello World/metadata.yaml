@@ -1,0 +1,39 @@
+---
+id: othello_world
+title: "Othello World"
+platform: "SFC"
+year: 1992
+songs:
+  - id: title_screen_othello_world
+    title: "Title Screen"
+    path: "03 Title Screen.spc"
+    type: result
+  - id: storyline_othello_world
+    title: "Storyline"
+    path: "04 Storyline.spc"
+    type: warning
+  - id: game_with_rabbit
+    title: "Game with Rabbit"
+    path: "06 Game with Rabbit.spc"
+    type: break
+  - id: next_area_othello_world
+    title: "Next Area"
+    path: "14 Next Area.spc"
+    type: result
+  - id: sky_zone_game
+    title: "Sky Zone Game"
+    path: "19 Sky Zone Game.spc"
+    type: betting
+  - id: sanctuary_opening
+    title: "Sanctuary Opening"
+    path: "24 Sanctuary Opening.spc"
+    type: warning
+  - id: sanctuary_game
+    title: "Sanctuary Game"
+    path: "25 Sanctuary Game.spc"
+    type: battle
+  - id: ending_othello_world
+    title: "Ending"
+    path: "26 Ending.spc"
+    type: result
+...

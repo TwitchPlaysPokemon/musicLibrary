@@ -1,0 +1,29 @@
+---
+id: persona_5_the_phantom_x
+title: "Persona 5: The Phantom X"
+series: shinmegamitensei
+platform: ["Mobile", "PC"]
+year: 2024
+#these were all the ones I could put a name to
+songs: 
+  - id: last_strike_p5
+    title: "Last Strike"
+    path: "BGM_Normal_BtlBGM - Music_Normal_BtlBGM[02].txtp"
+    type: betting
+  - id: wake_up_your_hero_instrumental
+    title: "Wake Up Your Hero (Instrumental)"
+    path: "BGM_Normal_BtlBGM - Music_Normal_BtlBGM[01].txtp"
+    type: betting
+  - id: desire_surrender
+    title: "Desire Surrender"
+    path: "BGM_Ori_EliteBattle - Music_Ori_BtlBGM_EliteBtl.txtp"
+    type: battle
+  - id: lust_p5
+    title: "Lust"
+    path: "BGM_Ori_Lust - Music_Ori_SceneBGM_Lust.txtp"
+    type: break
+  - id: fatal_desire_instrumental
+    title: "Fatal Desire (Instrumental)"
+    path: "BGM_Normal_BtlBGM - Music_Normal_BtlBGM[00].txtp"
+    type: battle
+...

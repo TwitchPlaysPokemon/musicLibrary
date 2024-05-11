@@ -1,0 +1,389 @@
+---
+id: vinemon_sauce_edition
+title: "Vinemon: Sauce Edition"
+series: pokemon
+platform: "PC"
+is_fanwork: true
+year: 2023
+songs:
+  - id: title_screen_vinemon
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: loading_vinemon
+    title: "Loading..."
+    path: "Loading....brstm"
+    type: result
+  - id: route_1_vinemon
+    title: "Route 1"
+    path: "Route 1.brstm"
+    type: betting
+  - id: route_2_vinemon
+    title: "Route 2"
+    path: "Route 2.brstm"
+    type: betting
+  - id: route_4_vinemon
+    title: "Route 4"
+    path: "Route 4.brstm"
+    type: betting
+  - id: route_7_vinemon
+    title: "Route 7"
+    path: "Route 7.brstm"
+    type: betting
+  - id: route_9_vinemon
+    title: "Route 9"
+    path: "Route 9.brstm"
+    type: betting
+  - id: route_11_vinemon
+    title: "Route 11"
+    path: "Route 11.brstm"
+    type: betting
+  - id: route_13_vinemon
+    title: "Route 13"
+    path: "Route 13.brstm"
+    type: break
+  - id: route_15_vinemon
+    title: "Route 15"
+    path: "Route 15.brstm"
+    type: betting
+  - id: route_16_vinemon
+    title: "Route 16"
+    path: "Route 16.brstm"
+    type: break
+  - id: swamp_vinemon
+    title: "Swamp"
+    path: "Swamp.brstm"
+    type: warning
+  - id: safari_zone_vinemon
+    title: "Safari Zone"
+    path: "Safari Zone.brstm"
+    type: betting
+  - id: reishi_village
+    title: "Reishi Village"
+    path: "Reishi Village.brstm"
+    type: break
+  - id: ancient_temple_vinemon
+    title: "Ancient Temple"
+    path: "Ancient Temple.brstm"
+    type: break
+  - id: surf_on_sailor
+    title: "Surf on Sailor"
+    path: "Surf on Sailor.brstm"
+    type: break
+  - id: team_love_jahn
+    title: "Team Love Jahn"
+    path: "Team Love Jahn.brstm"
+    type: warning
+  - id: watch_out_for_woodland_fungi
+    title: "Watch Out for Woodland Fungi!"
+    path: "Watch Out for Woodland Fungi!.brstm"
+    type: betting
+  - id: spelunking_vinemon
+    title: "Spelunking"
+    path: "Spelunking.brstm"
+    type: betting
+  - id: spelunking_in_lichen_grotto
+    title: "Spelunking in Lichen Grotto"
+    path: "Spelunking in Lichen Grotto.brstm"
+    type: warning
+  - id: play_g_ratism_s_game_corner
+    title: "Play G. Ratism's Game Corner"
+    path: "Play G. Ratism's Game Corner.brstm"
+    type: betting
+  - id: malo_mart_vinemon
+    title: "Malo Mart"
+    path: "Malo Mart.brstm"
+    type: result
+  - id: ghost_house_vinemon
+    title: "Ghost House"
+    path: "Ghost House.brstm"
+    type: warning
+  - id: 1_up_center_theme
+    title: "1-UP Center Theme"
+    path: "1-UP Center Theme.brstm"
+    type: betting
+  - id: aboard_the_s_s_twitchat
+    title: "Aboard the S.S. Twitchat"
+    path: "Aboard the S.S. Twitchat.brstm"
+    type: betting
+  - id: danger_vinemon
+    title: "Danger!!"
+    path: "Danger!!.brstm"
+    type: warning
+  - id: handrail
+    title: "Handrail"
+    path: "Handrail.brstm"
+    type: result
+  - id: mario_s_pad_vinemon
+    title: "Mario's Pad"
+    path: "Mario's Pad.brstm"
+    type: break
+  - id: morel_village
+    title: "Morel Village"
+    path: "Morel Village.brstm"
+    type: betting
+  - id: pitful
+    title: "Pitful"
+    path: "Pitful.brstm"
+    type: result
+  - id: even_higher
+    title: "Even Higher"
+    path: "Even Higher.brstm"
+    type: betting
+  - id: mount_prototaxite
+    title: "Mount Prototaxite"
+    path: "Mount Prototaxite.brstm"
+    type: betting
+  - id: regalis_city
+    title: "Regalis City"
+    path: "Regalis City.brstm"
+    type: betting
+  - id: red_letter_multimedia
+    title: "Red Letter Multimedia"
+    path: "Red Letter Multimedia.brstm"
+    type: betting
+  - id: mike_love_s_theme
+    title: "Mike Love's Theme"
+    path: "Mike Love's Theme.brstm"
+    type: result
+  - id: imakuni_s_theme
+    title: "Imakuni's Theme"
+    path: "Imakuni's Theme.brstm"
+    type: betting
+  - id: tingle_s_theme
+    title: "Tingle's Theme"
+    path: "Tingle's Theme.brstm"
+    type: warning
+  - id: vlinny_s_introspection
+    title: "Vlinny's Introspection"
+    path: "Vlinny's Introspection.brstm"
+    type: break
+  - id: void_kingdom_vinemon
+    title: "Void Kingdom"
+    path: "Void Kingdom.brstm"
+    type: betting
+  - id: victory_road_vinemon
+    title: "Victory Road"
+    path: "Victory Road.brstm"
+    type: warning
+  - id: to_carry_out_justice
+    title: "To Carry Out Justice!"
+    path: "To Carry Out Justice!.brstm"
+    type: betting
+  - id: beat_your_meat
+    title: "Beat Your Meat!"
+    path: "Beat Your Meat!.brstm"
+    type: battle
+  - id: gym_theme_vinemon
+    title: "Gym Theme"
+    path: "Gym Theme.brstm"
+    type: betting
+  - id: gym_theme_regalis
+    title: "Gym Theme ~ Regalis"
+    path: "Gym Theme ~ Regalis.brstm"
+    type: betting
+  - id: gym_theme_podaxis
+    title: "Gym Theme ~ Podaxis"
+    path: "Gym Theme ~ Podaxis.brstm"
+    type: betting
+  - id: the_hunter_becomes_the_hunted
+    title: "The Hunter Becomes The Hunted!"
+    path: "The Hunter Becomes The Hunted!.brstm"
+    type: warning
+  - id: the_jahn_rangers
+    title: "The Jahn Rangers"
+    path: "The Jahn Rangers.brstm"
+    type: betting
+  - id: the_writer_dr_wright
+    title: "The Writer, Dr. Wright"
+    path: "The Writer, Dr. Wright.brstm"
+    type: result
+  - id: radio_jape
+    title: "Radio - Jape"
+    path: "Radio - _Jape_ Me (Mario Kart 64 Soundfont).brstm"
+    type: betting
+  - id: radio_numb
+    title: "Radio - Numb"
+    path: "Radio - Numb (Super Mario 64 Soundfont).brstm"
+    type: betting
+  - id: radio_photo
+    title: "Radio - Photo"
+    path: "Radio - Photograph (Mario Paint Soundfont).brstm"
+    type: break
+  - id: radio_grand
+    title: "Radio - Grand"
+    path: "Radio - Flintstones, Meet The Flintstones.brstm"
+    type: result
+  - id: radio_mm2wood
+    title: "Radio - mm2wood"
+    path: "Radio - Woodman's Stage.brstm"
+    type: betting
+  - id: vs_wild_vinemon
+    title: "Vs. Wild Vinemon"
+    path: "Vs. Wild Vinemon.brstm"
+    type: battle
+  - id: vs_safari_zone_wild_battle
+    title: "Vs. Safari Zone Wild Battle"
+    path: "Vs. Safari Zone Wild Battle.brstm"
+    type: battle
+  - id: vs_online_player_vinemon
+    title: "Vs. Online Player"
+    path: "Vs. Online Player.brstm"
+    type: battle
+  - id: vs_streamer
+    title: "Vs. Streamer"
+    path: "Vs. Streamer.brstm"
+    type: battle
+  - id: vs_trainer_vinemon
+    title: "Vs. Trainer"
+    path: "Vs. Trainer.brstm"
+    type: battle
+  - id: vs_vlinny
+    title: "Vs. Vlinny"
+    path: "Vs. Vlinny.brstm"
+    type: battle
+  - id: vs_vineborg
+    title: "Vs. Vineborg"
+    path: "Vs. Vineborg.brstm"
+    type: battle
+  - id: vs_mike_love
+    title: "Vs. Mike Love"
+    path: "Vs. Mike Love.brstm"
+    type: battle
+  - id: vs_mike_love_redux
+    title: "Vs. Mike Love, Redux"
+    path: "Vs. Mike Love, Redux.brstm"
+    type: battle
+  - id: vs_jahn_rangers
+    title: "Vs. Jahn Rangers"
+    path: "Vs. Jahn Rangers.brstm"
+    type: battle
+  - id: vs_the_jahn_rangers_final
+    title: "Vs. The Jahn Rangers, Final"
+    path: "Vs. The Jahn Rangers, Final.brstm"
+    type: battle
+  - id: vs_tingle
+    title: "Vs. Tingle"
+    path: "Vs. Tingle.brstm"
+    type: battle
+  - id: vs_team_snakemouth
+    title: "Vs. Team Snakemouth"
+    path: "Vs. Team Snakemouth.brstm"
+    type: battle
+  - id: vs_team_swone_vial
+    title: "Vs. Team Swone Vial"
+    path: "Vs. Team Swone Vial.brstm"
+    type: battle
+  - id: vs_imakuni
+    title: "Vs. Imakuni"
+    path: "Vs. Imakuni.brstm"
+    type: battle
+  - id: vs_legendary
+    title: "Vs. Legendary"
+    path: "Vs. Legendary.brstm"
+    type: battle
+  - id: vs_john_fullsauce
+    title: "Vs. John Fullsauce"
+    path: "Vs. John Fullsauce.brstm"
+    type: battle
+  - id: vs_jahn_grunts
+    title: "Vs. Jahn Grunts"
+    path: "Vs. Jahn Grunts.brstm"
+    type: battle
+  - id: vs_samus
+    title: "Vs. Samus"
+    path: "Vs. Samus.brstm"
+    type: battle
+  - id: vs_samus_enraged
+    title: "Vs. Samus, Enraged"
+    path: "Vs. Samus, Enraged.brstm"
+    type: battle
+  - id: vs_issac
+    title: "Vs. Issac"
+    path: "Vs. Issac.brstm"
+    type: battle
+  - id: vs_mario_vinemon
+    title: "Vs. Mario"
+    path: "Vs. Mario.brstm"
+    type: battle
+  - id: vs_solid_snake
+    title: "Vs. Solid Snake"
+    path: "Vs. Solid Snake.brstm"
+    type: battle
+  - id: vs_hatsune_miku
+    title: "Vs. Hatsune Miku"
+    path: "Vs. Hatsune Miku.brstm"
+    type: battle
+  - id: vs_dr_ivo_robotnik
+    title: "Vs. Dr. Ivo Robotnik"
+    path: "Vs. Dr. Ivo Robotnik.brstm"
+    type: battle
+  - id: vs_crono
+    title: "Vs. Crono"
+    path: "Vs. Crono.brstm"
+    type: battle
+  - id: vs_dio
+    title: "Vs. DIO"
+    path: "Vs. DIO.brstm"
+    type: battle
+  - id: vs_dante
+    title: "Vs. Dante"
+    path: "Vs. Dante.brstm"
+    type: battle
+  - id: vs_neppy_neptune
+    title: "Vs. Neppy Neptune"
+    path: "Vs. Neppy Neptune.brstm"
+    type: battle
+  - id: vs_bunny_yasando
+    title: "Vs. Bunny Yasando"
+    path: "Vs. Bunny Yasando.brstm"
+    type: battle
+  - id: vs_bulk_bogan
+    title: "Vs. Bulk Bogan"
+    path: "Vs. Bulk Bogan.brstm"
+    type: battle
+  - id: vs_luciflipper
+    title: "Vs. Luciflipper"
+    path: "Vs. Luciflipper.brstm"
+    type: battle
+  - id: vs_jabroni_mike
+    title: "Vs. Jabroni Mike"
+    path: "Vs. Jabroni Mike.brstm"
+    type: battle
+  - id: vs_altariasong
+    title: "Vs. Altariasong"
+    path: "Vs. Altariasong.brstm"
+    type: battle
+  - id: vs_emmanual_blast
+    title: "Vs. Emmanual Blast"
+    path: "Vs. Emmanual Blast.brstm"
+    type: battle
+  - id: vs_innyume
+    title: "Vs. Innyume"
+    path: "Vs. Innyume.brstm"
+    type: battle
+  - id: vs_elite_four_vinemon
+    title: "Vs. Elite Four"
+    path: "Vs. Elite Four.brstm"
+    type: battle
+  - id: vs_champion_vinemon
+    title: "Vs. Champion"
+    path: "Vs. Champion.brstm"
+    type: battle
+  - id: victory_wild_vinemon
+    title: "Victory - Wild Vinemon"
+    path: "Victory - Wild Vinemon.brstm"
+    type: result
+  - id: victory_trainer_vinemon
+    title: "Victory - Trainer"
+    path: "Victory - Trainer.brstm"
+    type: result
+  - id: victory_streamer
+    title: "Victory - Streamer"
+    path: "Victory - Streamer.brstm"
+    type: result
+  - id: victory_mario_vinemon
+    title: "Victory - Mario"
+    path: "Victory - Mario.brstm"
+    type: result
+...

@@ -1,0 +1,65 @@
+﻿---
+id: picross_3d_round_2
+title: "Picross 3D: Round 2"
+series: picross3d
+platform: ["3DS"]
+year: 2015
+#these songs do not loop. I checked. To get them to work, I put them in best-fit categories that do not need looping. Highlighted the changes just in case
+songs:
+  - id: latin_picross3d2
+    title: "Latin"
+    path: "06 Latin.aac"
+    ends: 2:20
+    type: betting
+  - id: march_picross3d2
+    title: "March"
+    path: "07 March.aac"
+    type: betting
+  - id: mystery_picross3d2
+    title: "Mystery"
+    path: "08 Mystery.aac"
+    tags: [halloween]
+    type: betting
+  - id: joy_picross3d2
+    title: "Joy"
+    path: "09 Joy.aac"
+    type: betting
+  - id: challenge_picross3d2
+    title: "Challenge"
+    path: "12 Challenge.aac"
+    ends: 2:20
+    type: betting
+  - id: ending_picross3d2
+    title: "Ending"
+    path: "14 Ending.aac"
+    type: result
+  - id: title_picross3d2
+    title: "Title"
+    path: "01 Title.aac"
+    tags: [xmas]
+    type: result #break
+  - id: menu_picross3d2
+    title: "Menu"
+    path: "02 Menu.aac"
+    type: result #break
+  - id: tutorial_picross3d2
+    title: "Tutorial"
+    path: "03 Tutorial.aac"
+    type: result #break
+  - id: cafe_picross3d2
+    title: "Cafe"
+    path: "04 Cafe.aac"
+    type: break #ends at 2:55, I'll say that could work
+  - id: jazz_picross3d2
+    title: "Jazz"
+    path: "05 Jazz.aac"
+    type: betting #break #2:50... less so. 
+  - id: fantasy_picross3d2
+    title: "Fantasy"
+    path: "10 Fantasy.aac"
+    type: result #break
+  - id: daydream_picross3d2
+    title: "Daydream"
+    path: "11 Daydream.aac"
+    type: result #break
+...

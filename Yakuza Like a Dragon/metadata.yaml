@@ -178,4 +178,12 @@ songs:
     title: "April Fools Battle Result (8-Bit)"
     path: "bbg_e_00000002.hca"
     type: result
+  - id: our_winter_sonata
+    title: "Our Winter Sonata"
+    path: "kaiwabgm_0000001F.hca"
+    type: break
+  - id: this_is_going_to_suck
+    title: "This Is Going To Suck"
+    path: "kaiwabgm_0000002F.hca"
+    type: warning
 ...

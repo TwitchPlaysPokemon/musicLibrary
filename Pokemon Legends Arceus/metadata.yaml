@@ -6,12 +6,12 @@ platform: "Switch"
 year: 2022
 #the raw files are incredibly tough to parse through, so this is all I've found so far.
 songs:
-  - id: battle_vs_volo
-    title: "Battle! Vs. Volo"
+  - id: battle_volo
+    title: "Battle: Volo"
     path: "BGM-1911-event (BGM_BATTLE_TRAINER=BATTLE_TRAINER_ON).txtp"
     type: battle
-  - id: minigame_theme_legends_arceus
-    title: "Minigame Theme"
+  - id: target_practice_legends_arceus
+    title: "Target Practice"
     path: "PLAY_BGM_HA_FI_CMN_MINI_GAME (BGM_MINIGAME=MINIGAME_START).txtp"
     type: warning
   - id: evolution_legends_arceus
@@ -23,155 +23,155 @@ songs:
     path: "PLAY_BGM_HA_SYS_MYSTERYGIFT.txtp"
     type: break
   - id: battle_vs_dialga_palkia_origin_form
-    title: "Battle! VS. Dialga/Palkia (Origin Form)"
+    title: "Battle: Dialga/Palkia (Origin Forme)"
     path: "PLAY_BGM_VS_BOSS_02 (BGM_BOSS02_DEMO=BOSS02_DEMO_OUT)(BGM_VS_NUSHI=VS_NUSHI_FIELD).txtp"
     type: battle
-  - id: battle_vs_giratina_altered_form_legends_arceus
-    title: "Battle! Vs. Giratina (Altered Form)"
+  - id: battle_vs_giratina_phase_1
+    title: "Battle: Giratina (Phase 1)"
     path: "PLAY_BGM_VS_BOSS_03 (BGM_BOSS03=BOSS03_START).txtp"
     type: battle
-  - id: battle_vs_giratina_origin_form_legends_arceus
-    title: "Battle! Vs. Giratina (Origin Form)"
+  - id: battle_vs_giratina__phase 2
+    title: "Battle: Giratina (Phase 2)"
     path: "PLAY_BGM_VS_BOSS_03 (BGM_BOSS03=BOSS03_REVIVAL).txtp"
     type: battle
-  - id: battle_vs_dialga_palkia_altered_form
-    title: "Battle! VS. Dialga/Palkia (Altered Form)"
+  - id: battle_dialga_palkia_legends_arceus
+    title: "Battle: Dialga/Palkia"
     path: "PLAY_BGM_VS_BOSS_05 (BGM_BOSS05=BOSS05_START).txtp"
     type: battle
-  - id: battle_vs_wild_pokemon_legends_arceus
-    title: "Battle! Vs. Wild Pokémon"
+  - id: battle_wild_pokemon_legends_arceus
+    title: "Battle: Wild Pokémon"
     path: "PLAY_BGM_VS_NORA (BGM_VS_TYPE=VS_TYPE_NORA)(BGM_BATTLE=BATTLE_ON) {s}.txtp"
     type: battle
-  - id: battle_vs_alpha_wild_pokemon
-    title: "Battle! Vs. Alpha Wild Pokémon"
+  - id: battle_alpha_legends_arceus
+    title: "Battle: Alpha"
     path: "PLAY_BGM_VS_NORA (BGM_VS_TYPE=VS_TYPE_OYABUN)(BGM_BATTLE=BATTLE_ON) {s}.txtp"
     type: battle
-  - id: battle_vs_azelf_uxie_mespirit_legends_arceus
-    title: "Battle! Vs. Azelf, Uxie, and Mespirit"
+  - id: battle_uxie_azelf_mesprit_legends_arceus
+    title: "Battle: Uxie/Azelf/Mesprit"
     path: "PLAY_BGM_VS_BOSS_01 (BGM_CAUTION_BOSS_MID=CAUTION_BOSS_MID_ON)(BGM_BOSS01=BOSS01_PRE).txtp"
     type: battle
-  - id: jubilife_village_beginning_home
-    title: "Jubilife Village (Beginning - Home)"
+  - id: jubilife_village_home
+    title: "Jubilife Village (Home)"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV1)(817297439=1264931242)(3717473234=876204941)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_HOME).txtp"
     type: break
-  - id: jubilife_village_beginning_indoors
-    title: "Jubilife Village (Beginning - Indoors)"
+  - id: jubilife_village_indoors
+    title: "Jubilife Village (Indoors)"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV1)(817297439=1264931242)(3717473234=876204941)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_INDOOR).txtp"
     type: break
-  - id: jubilife_village_beginning_outdoors
-    title: "Jubilife Village (Beginning - Outdoors)"
+  - id: jubilife_village_1
+    title: "Jubilife Village"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV1)(817297439=1264931242)(3717473234=876204941)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_OUTDOOR).txtp"
     type: break
-  - id: jubilife_village_developing_home
-    title: "Jubilife Village (Developing - Home)"
+  - id: jubilife_village_2_home
+    title: "Jubilife Village: 2 (Home)"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV2)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_HOME).txtp"
     type: break
-  - id: jubilife_village_developing_indoors
-    title: "Jubilife Village (Developing - Indoors)"
+  - id: jubilife_village_2_indoors
+    title: "Jubilife Village: 2 (Indoors)"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV2)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_INDOOR).txtp"
     type: break
-  - id: jubilife_village_developing_outdoors
-    title: "Jubilife Village (Developing - Outdoors)"
+  - id: jubilife_village_2
+    title: "Jubilife Village: 2"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV2)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_OUTDOOR).txtp"
     type: break
-  - id: jubilife_village_complete_home
-    title: "Jubilife Village (Complete - Home)"
+  - id: jubilife_village_3_home
+    title: "Jubilife Village: 3 (Home)"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV3)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_HOME).txtp"
     type: break
-  - id: jubilife_village_complete_indoors
-    title: "Jubilife Village (Complete - Indoors)"
+  - id: jubilife_village_3_indoors
+    title: "Jubilife Village: 3 (Indoors)"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV3)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_INDOOR).txtp"
     type: break
-  - id: jubilife_village_complete_outdoors
-    title: "Jubilife Village (Complete - Outdoors)"
+  - id: jubilife_village_3
+    title: "Jubilife Village: 3"
     path: "PLAY_BGM_HA_FI_AREA00 (BGM_AREA00_LV=AREA00_LV3)(817297439=1264931242)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT) (BGM_TOWN=BGM_AREA00_OUTDOOR).txtp"
     type: break
-  - id: battle_pokemon_wielder
-    title: "Battle! Vs. Pokémon Wielder"
+  - id: battle_person_of_hisui
+    title: "Battle: Person of Hisui"
     path: "PLAY_BGM_VS_TRAINER_01 (BGM_BATTLE_TRAINER=BATTLE_TRAINER_ON).txtp"
     type: battle
-  - id: battle_clan_warden
-    title: "Battle! Vs. Clan Warden"
+  - id: battle_person_of_hisui_2
+    title: "Battle: Person of Hisui 2"
     path: "PLAY_BGM_VS_TRAINER_02 (BGM_BATTLE_TRAINER=BATTLE_TRAINER_ON).txtp"
     type: battle
   - id: battle_noble_pokemon_phase_1
-    title: "Battle! Vs. Noble Pokémon (Phase 1)"
+    title: "Battle: Noble Pokémon (Phase 1)"
     path: "PLAY_BGM_VS_BOSS_CMN (BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_DEFENSELESS=NUSHI_DEFENSELESS_OFF) {s}=(BGM_VS_NUSHI_NO_SUKI=NUSHI_NO_SUKI_OFF).txtp"
     type: battle
   - id: battle_noble_pokemon_phase_2
-    title: "Battle! Vs. Noble Pokémon (Phase 2)"
+    title: "Battle: Noble Pokémon (Phase 2)"
     path: "PLAY_BGM_VS_BOSS_CMN (BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_DEFENSELESS=NUSHI_DEFENSELESS_OFF) {s}=(BGM_VS_NUSHI_NO_SUKI=NUSHI_NO_SUKI_ON).txtp"
     type: battle
   - id: battle_noble_pokemon_phase_3
-    title: "Battle! Vs. Noble Pokémon (Phase 3)"
+    title: "Battle: Noble Pokémon (Phase 3)"
     path: "PLAY_BGM_VS_BOSS_CMN (BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_DEFENSELESS=NUSHI_DEFENSELESS_ON).txtp"
     type: battle
-  - id: galaxy_expedition_team_hq
-    title: "Galaxy Expedition Team HQ"
+  - id: galaxy_hall
+    title: "Galaxy Hall"
     path: "BGM-1833-event (138161768=10613464).txtp"
     type: betting
-  - id: obsidian_fieldlands_1
+  - id: obsidian_fieldlands:_1-1
     title: "Obsidian Fieldlands 1"
     path: "PLAY_BGM_HA_FI_AREA01_DAY (BGM_AREA=BGM_AREA01)(BGM_AREA01_LV=AREA01_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
     type: betting
   - id: obsidian_fieldlands_2
-    title: "Obsidian Fieldlands 2"
+    title: "Obsidian Fieldlands: 2-1"
     path: "PLAY_BGM_HA_FI_AREA01_DAY (BGM_AREA=BGM_AREA01)(BGM_AREA01_LV=AREA01_LV1)(BGM_TIME=BGM_DAY) {r2}.txtp"
     type: betting
   - id: crimson_mirelands_1
-    title: "Crimson Mirelands 1"
+    title: "Crimson Mirelands: 1-1"
     path: "PLAY_BGM_HA_FI_AREA02_DAY (BGM_AREA=BGM_AREA02)(BGM_AREA02_LV=AREA02_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
     type: betting
   - id: crimson_mirelands_2
-    title: "Crimson Mirelands 2"
+    title: "Crimson Mirelands: 2-1"
     path: "PLAY_BGM_HA_FI_AREA02_DAY (BGM_AREA=BGM_AREA02)(BGM_AREA02_LV=AREA02_LV1)(BGM_TIME=BGM_DAY) {r2}.txtp"
     type: betting
   - id: cobalt_coastlands_1
-    title: "Cobalt Coastlands 1"
+    title: "Cobalt Coastlands: 1-1"
     path: "PLAY_BGM_HA_FI_AREA03_DAY (BGM_AREA=BGM_AREA03)(BGM_AREA03_LV=AREA03_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
     type: betting
   - id: cobalt_coastlands_2
-    title: "Cobalt Coastlands 2"
+    title: "Cobalt Coastlands: 2-1"
     path: "PLAY_BGM_HA_FI_AREA03_DAY (BGM_AREA=BGM_AREA03)(BGM_AREA03_LV=AREA03_LV1)(BGM_TIME=BGM_DAY) {r2}.txtp"
     type: betting
-  - id: coronet_highlands_base
-    title: "Coronet Highlands - Base"
+  - id: coronet_highlands
+    title: "Coronet Highlands"
     path: "PLAY_BGM_HA_FI_AREA04_DAY (BGM_AREA=BGM_AREA04)(BGM_AREA04_LV=AREA04_LV1)(BGM_TIME=BGM_DAY)(BGM_AREA_FIELD_SILENCE=FIELD_SILENCE_OFF).txtp"
     type: betting
   - id: alabaster_icelands_1
-    title: "Alabaster Icelands 1"
+    title: "Alabaster Icelands: 1-1"
     path: "PLAY_BGM_HA_FI_AREA05_DAY (BGM_AREA=BGM_AREA05)(BGM_AREA05_LV=AREA05_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
     type: betting
   - id: alabaster_icelands_2
-    title: "Alabaster Icelands 2"
+    title: "Alabaster Icelands: 2-1"
     path: "PLAY_BGM_HA_FI_AREA05_DAY (BGM_AREA=BGM_AREA05)(BGM_AREA05_LV=AREA05_LV1)(BGM_TIME=BGM_DAY) {r2}.txtp"
     type: betting
-  - id: spotted_by_a_wild_pokemon
-    title: "Spotted by a Wild Pokémon"
+  - id: omen_of_a_battle
+    title: "Omen of a Battle"
     path: "PLAY_BGM_HA_FI_CMN_CAUTION (BGM_VS_WILD=VS_WILD_OFF)(BGM_CAUTION_OYA_AREA=BGM_OYA_AREA_OUT)(BGM_CAUTION_OYA=CAUTION_OYA_CAP)(BGM_CAUTION_WILD=CAUTION_WILD_ON)(BGM_CAUTION_WILD_DMG=CAUTION_WILD_DMG).txtp"
     type: warning
-  - id: spotted_by_an_alpha_pokemon
-    title: "Spotted by an Alpha Pokémon"
+  - id: omen_of_a_battle_alpha
+    title: "Omen of a Battle: Alpha"
     path: "PLAY_BGM_HA_FI_CMN_CAUTION (BGM_VS_WILD=VS_WILD_OFF)(BGM_CAUTION_OYA=CAUTION_OYA_ON) {s}.txtp"
     type: warning
-  - id: staff_credits_pla
-    title: "Staff Credits"
+  - id: ending_pla
+    title: "Ending"
     path: "PLAY_BGM_HA_SYS_ENDING.txtp"
     type: betting
-  - id: volo_s_betrayal
-    title: "Volo's Betrayal"
+  - id: volo_s_purpose
+    title: "Volo's Purpose"
     path: "PLAY_BGM_HA_EV_MAIN_100800.txtp"
     type: warning
   - id: lake_pla
     title: "Lake"
     path: "PLAY_BGM_HA_FI_AREA01_R11 (BGM_MAP_JUMP=MAP_JUMP_BGM_END)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
     type: betting
-  - id: cogita_s_retreat
-    title: "Cogita's Retreat"
+  - id: ancient_retreat
+    title: "Ancient Retreat"
     path: "PLAY_BGM_HA_FI_AREA06.txtp"
     type: betting
-  - id: noble_pokemon_s_domain
-    title: "Noble Pokémon's Domain"
+  - id: noble_s_domain
+    title: "Noble's Arena"
     path: "PLAY_BGM_HA_FI_CMN_BOSS_AREA (BGM_MAP_JUMP=MAP_JUMP_BGM_END)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
     type: break
   - id: wayward_cave_pla
@@ -182,8 +182,8 @@ songs:
     title: "Lake Cavern"
     path: "PLAY_BGM_HA_FI_CMN_LAKE_D (BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
     type: betting
-  - id: coronet_highlands_summit
-    title: "Coronet Highlands - Summit"
+  - id: stone_portal
+    title: "Stone Portal"
     path: "PLAY_BGM_HA_FI_CMN_NATURAL_DISASTER (BGM_SP_WEATHER_SILENCE=SP_WEATHER_SILENCE_OFF)(1629276573=1738554060)(BGM_SPECIAL_WEATHER_AREA=SPECIAL_WEATHER_AREA_IN)(1065853830=122023943)(3439184216=754360881).txtp"
     ends: 2:50
     type: betting
@@ -195,32 +195,32 @@ songs:
     title: "Late Night"
     path: "PLAY_BGM_HA_FI_CMN_NIGHT_LATE (BGM_AREA_FIELD_SILENCE=FIELD_SILENCE_OFF)(BGM_TIME=BGM_NIGHT_LATE).txtp"
     type: betting
-  - id: diamond_settlement_pearl_settlement
-    title: "Diamond Settlement/Pearl Settlement"
+  - id: village_legends_arceus
+    title: "Village"
     path: "PLAY_BGM_HA_FI_CMN_VILLAGE (BGM_FIELD_AREA=BGM_FIELD_AREA_IN)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
     type: betting
-  - id: survey_results_day
-    title: "Survey Results (Day)"
+  - id: survey_report_day
+    title: "Survey Report: Day"
     path: "PLAY_BGM_HA_SYS_RESULT (TIME_CLOCK=TIME_CLOCK_19).txtp"
     type: result
-  - id: survey_results_night
-    title: "Survey Results (Night)"
+  - id: survey_report_night
+    title: "Survey Report: Night"
     path: "PLAY_BGM_HA_SYS_RESULT (TIME_CLOCK=TIME_CLOCK_22).txtp"
     type: result
   - id: battle_legendary_pokemon_phase_1
-    title: "Battle! (Legendary Pokémon) - Phase 1"
+    title: "Battle: Legendary Pokémon (Phase 1)"
     path: "PLAY_BGM_VS_BOSS_MID (BGM_CAUTION_BOSS_MID_AREA=BGM_BOSS_MID_AREA_OUT)(BGM_CAUTION_BOSS_MID=CAUTION_BOSS_MID_ON)(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF) {s}.txtp"
     type: battle
   - id: battle_legendary_pokemon_phase_2
-    title: "Battle! (Legendary Pokémon) - Phase 2"
+    title: "Battle: Legendary Pokémon (Phase 2)"
     path: "PLAY_BGM_VS_BOSS_MID (BGM_CAUTION_BOSS_MID_AREA=BGM_BOSS_MID_AREA_OUT)(BGM_CAUTION_BOSS_MID=CAUTION_BOSS_MID_ON)(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF) {s}=(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF).txtp"
     type: battle
-  - id: professor_laventon_s_theme
-    title: "Professor Laventon's Theme"
+  - id: professor_laventon
+    title: "Professor Laventon"
     path: "BGM-1164-event.txtp"
     type: result
-  - id: epilogue_pla
-    title: "Epilogue"
+  - id: encounter_in_hisui
+    title: "Encounter in Hisui"
     path: "BGM-1236-event.txtp"
     type: result
   - id: the_heartwood
@@ -231,12 +231,12 @@ songs:
     title: "Firespit Island"
     path: "BGM-1862-event (BGM_MAP_JUMP=MAP_JUMP_BGM_START).txtp"
     type: betting
-  - id: palina_s_theme
-    title: "Palina's Theme"
+  - id: courage_2_legends_arceus
+    title: "Courage (version 2)" #unsure
     path: "BGM-1883-event.txtp"
     type: result
-  - id: palina_s_theme_version_2
-    title: "Palina's Theme (Version 2)"
+  - id: courage_legends_arceus
+    title: "Courage"
     path: "PLAY_BGM_HA_EV_MAIN_045230_02.txtp"
     type: result
   - id: hall_of_origin_pla
@@ -247,40 +247,40 @@ songs:
     title: "Temple of Sinnoh"
     path: "BGM-2303-event (BGM_MAP_JUMP=MAP_JUMP_BGM_END)(BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
     type: betting
-  - id: clefairy_dance
-    title: "Clefairy Dance"
+  - id: clefairy_s_moon_viewing_party
+    title: "Clefairy's Moon-Viewing Party"
     path: "BGM-2502-event.txtp"
     type: result
-  - id: trouble_pla
-    title: "Trouble!"
+  - id: a_dangerous_situation_legends_arceus
+    title: "A Dangerous Situation!"
     path: "PLAY_BGM_HA_EV_BANDIT_FIND.txtp"
     type: warning
-  - id: irida_s_theme
-    title: "Irida's Theme"
+  - id: thought_legends_arceus
+    title: "Thought"
     path: "PLAY_BGM_HA_EV_CMN_01.txtp"
     type: betting
-  - id: noble_pokemon_defeated
-    title: "Noble Pokémon Defeated"
+  - id: the_matter_is_settled
+    title: "The Matter Is Settled"
     path: "PLAY_BGM_HA_EV_CMN_04.txtp"
     type: result
-  - id: exiled_pla
-    title: "Exiled"
+  - id: suspicion_pla
+    title: "Suspicion"
     path: "PLAY_BGM_HA_EV_MAIN_070110 (BGM_EV_09=2550718177).txtp"
     type: warning
-  - id: escorted_out_of_jubilife
-    title: "Escorted Out Of Jubilife"
+  - id: expulsion_pla
+    title: "Expulsion"
     path: "PLAY_BGM_HA_EV_MAIN_070110 (BGM_EV_09=298375329).txtp"
     type: warning
-  - id: disaster_pla
-    title: "Disaster"
+  - id: anomaly_pla
+    title: "Anomaly"
     path: "disaster.txtp"
     type: break
-  - id: disaster_battle
-    title: "Disaster - Battle"
+  - id: anomaly_battle_pokemon
+    title: "Anomaly Battle: Pokémon"
     path: "disaster_battle.txtp"
     type: warning
-  - id: disaster_spotted
-    title: "Disaster - Spotted"
+  - id: anomaly_battle_omen
+    title: "Anomaly Battle: Omen"
     path: "disaster_spotted.txtp"
     type: warning
   - id: space_time_distortion
@@ -291,12 +291,12 @@ songs:
     title: "Snowpoint Temple"
     path: "BGM-1390-event (BGM_SPECIAL_WEATHER=BGM_SPECIAL_WEATHER_OUT).txtp"
     type: break
-  - id: battle_arceus_phase_1
-    title: "Battle! (Arceus - Phase 1)"
+  - id: battle_arceus_pla
+    title: "Battle: Arceus"
     path: "PLAY_BGM_VS_BOSS_04 (BGM_BOSS04_EVENT=BOSS04_EVENT_OUT)(BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_AP=VS_NUSHI_AP_MAX).txtp"
     type: battle
-  - id: battle_arceus_final_phase
-    title: "Battle! (Arceus - Final Phase)"
+  - id: battle_arceus_4
+    title: "Battle: Arceus 4"
     path: "PLAY_BGM_VS_BOSS_04 (BGM_BOSS04_EVENT=BOSS04_EVENT_OUT)(BGM_VS_NUSHI=VS_NUSHI_FIELD)(BGM_VS_NUSHI_AP=VS_NUSHI_AP_10).txtp"
     type: battle
 ...

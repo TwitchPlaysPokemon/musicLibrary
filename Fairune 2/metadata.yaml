@@ -1,0 +1,79 @@
+﻿---
+id: fairune_2
+title: "Fairune 2"
+platform: ["Various"]
+series: fairune
+year: 2016
+songs:
+  - id: green_fields_fairune2
+    title: "Green Fields"
+    path: "02 Green Fields.brstm"
+    type: betting
+  - id: overseers_tower_fairune2
+    title: "Overseer's Tower"
+    path: "07 Overseer's Tower.brstm"
+    type: betting
+  - id: snowy_fields_fairune2
+    title: "Snowy Fields"
+    path: "09 Snowy Fields.brstm"
+    type: betting
+  - id: the_ashen_world_fairune2
+    title: "The Ashen World"
+    path: "13 The Ashen World.brstm"
+    type: betting
+  - id: blue_temple_fairune2
+    title: "Blue Temple"
+    path: "11 Blue Temple.brstm"
+    type: result
+  - id: hope_girl_fairune2
+    title: "Hope Girl"
+    path: "20 Hope Girl.brstm"
+    type: result
+  - id: secret_file_fairune2
+    title: "Secret File"
+    path: "21 Secret File.brstm"
+    type: result
+  - id: ending_fairune2
+    title: "Ending"
+    path: "22 Ending.brstm"
+    type: result
+  - id: battle_theme_fairune2
+    title: "Battle Theme"
+    path: "05 Battle Theme.brstm"
+    type: warning
+  - id: burning_sands_fairune2
+    title: "Burning Sands"
+    path: "10 Burning Sands.brstm"
+    type: warning
+  - id: in_the_temple_fairune2
+    title: "In the Temple"
+    path: "12 In the Temple.brstm"
+    type: warning
+  - id: morphoglia_fairune2
+    title: "Morphoglia"
+    path: "17 Morphoglia.brstm"
+    type: warning
+  - id: morphoglia_imago_fairune2
+    title: "Morphoglia=Imago"
+    path: "18 Morphoglia=Imago.brstm"
+    type: warning
+  - id: gigadark_omega_fairune2
+    title: "Gigadark Omega"
+    path: "19 Gigadark Omega.brstm"
+    type: warning
+  - id: dungeon_fairune2
+    title: "Dungeon"
+    path: "03 Dungeon.brstm"
+    type: break
+  - id: faraway_memory_fairune2
+    title: "Faraway Memory"
+    path: "04 Faraway Memory.brstm"
+    type: break
+  - id: sunset_cage_fairune2
+    path: "08 Sunset Cage.brstm"
+    type: break
+  - id: sky_land_fairune2
+    title: "Sky Land"
+    path: "14 Sky Land.brstm"
+    type: break
+...

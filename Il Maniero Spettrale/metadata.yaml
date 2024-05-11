@@ -1,0 +1,24 @@
+﻿---
+id: il_maniero_spettrale
+title: "Il Maniero Spettrale"
+series: mario
+is_fanwork: true
+platform: "SNES"
+year: 2018
+songs: 
+  - id: danger_il_maniero
+    title: "Danger"
+    path: "Danger.spc"
+    tags: [halloween]
+    type: betting
+  - id: il_maniero_spettrale
+    title: "Il Maniero Spettrale"
+    path: "Main Theme.spc"
+    tags: [halloween]
+    type: result
+  - id: mansion_il_maniero
+    title: "Mansion"
+    path: "Mansion.spc"
+    tags: [halloween]
+    type: break
+...

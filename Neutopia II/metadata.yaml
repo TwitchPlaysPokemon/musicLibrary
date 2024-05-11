@@ -1,0 +1,99 @@
+﻿---
+id: neutopia_ii
+title: "Neutopia II"
+platform: "TG-16"
+year: 1991
+songs:
+  - id: title_n2
+    title: "Title"
+    path: "Title.brstm"
+    type: result
+  - id: prologue_n2
+    title: "Prologue"
+    path: "Prologue.brstm"
+    type: warning
+  - id: home_n2
+    title: "Home"
+    path: "Home.brstm"
+    type: break
+  - id: house_n2
+    title: "House"
+    path: "House.brstm"
+    type: warning
+  - id: fley
+    title: "Fley"
+    path: "Fley.brstm"
+    type: break
+  - id: town_1
+    title: "Town 1"
+    path: "Town 1.brstm"
+    type: betting
+  - id: town_2
+    title: "Town 2"
+    path: "Town 2.brstm"
+    type: betting
+  - id: town_3
+    title: "Town 3"
+    path: "Town 3.brstm"
+    type: betting
+  - id: town_4
+    title: "Town 4"
+    path: "Town 4.brstm"
+    type: break
+  - id: underworld_1
+    title: "Underworld 1"
+    path: "Underworld 1.brstm"
+    type: warning
+  - id: underworld_2
+    title: "Underworld 2"
+    path: "Underworld 2.brstm"
+    type: betting
+  - id: underworld_3
+    title: "Underworld 3"
+    path: "Underworld 3.brstm"
+    type: warning
+  - id: sphere_1
+    title: "Sphere 1"
+    path: "Sphere 1.brstm"
+    type: betting
+  - id: sphere_2
+    title: "Sphere 2"
+    path: "Sphere 2.brstm"
+    type: betting
+  - id: sphere_3
+    title: "Sphere 3"
+    path: "Sphere 3.brstm"
+    type: betting
+  - id: sphere_4
+    title: "Sphere 4"
+    path: "Sphere 4.brstm"
+    type: betting
+  - id: sphere_5
+    title: "Sphere 5"
+    path: "Sphere 5.brstm"
+    type: battle
+  - id: sphere_6
+    title: "Sphere 6"
+    path: "Sphere 6.brstm"
+    type: warning
+  - id: boss_1_n2
+    title: "Boss 1"
+    path: "Boss 1.brstm"
+    type: battle
+  - id: boss_2_n2
+    title: "Boss 2"
+    path: "Boss 2.brstm"
+    type: battle
+  - id: boss_3_n2
+    title: "Boss 3"
+    path: "Boss 3.brstm"
+    type: betting
+  - id: ending_2_n2
+    title: "Ending 2"
+    path: "Ending 2.brstm"
+    type: result
+  - id: credits_n2
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+...

@@ -1,0 +1,81 @@
+﻿---
+id: super_cat_tales_2
+title: "Super Cat Tales 2"
+series: cat_tales
+year: 2019
+platform: "Mobile"
+songs:
+  - id: turnip_fields_sct2
+    title: "Turnip Fields"
+    path: "04 Turnip Fields.brstm"
+    type: betting
+  - id: sandy_dunes_sct2
+    title: "Sandy Dunes"
+    path: "11 Sandy Dunes.brstm"
+    type: betting
+  - id: lava_world_reveal_sct2
+    title: "Lava World Reveal"
+    path: "20 Lava World Reveal.brstm"
+    type: betting
+  - id: cuddle_hotel_sct2
+    title: "Cuddle Hotel"
+    path: "23 Cuddle Hotel.brstm"
+    type: betting
+  - id: mcmeow_metal_version_sct2
+    title: "McMeow - Metal Version"
+    path: "28 McMeow - Metal Version.brstm"
+    type: battle
+  - id: windy_river_sct2
+    title: "Windy River"
+    path: "05 Windy River.brstm"
+    type: result
+  - id: cat_talk_sct2
+    title: "Cat Talk"
+    path: "09 Cat Talk.brstm"
+    type: result
+  - id: cat_jingle_sct2
+    title: "Cat Jingle"
+    path: "15 Cat Jingle.brstm"
+    type: result
+  - id: ending_sct2
+    title: "Ending"
+    path: "25 Ending.brstm"
+    type: result
+  - id: tin_army_sct2
+    title: "Tin Army"
+    path: "07 Tin Army.brstm"
+    type: warning
+  - id: mcmeow_sct2
+    title: "McMeow"
+    path: "08 McMeow.brstm"
+    type: warning
+  - id: lord_iridium_sct2
+    title: "Lord Iridium"
+    path: "12 Lord Iridium.brstm"
+    type: warning
+  - id: rock_n_lava_sct2
+    title: "Rock'n'Lava"
+    path: "21 Rock'n'Lava.brstm"
+    type: warning
+  - id: launch_trailer_sct2
+    title: "Launch Trailer"
+    path: "27 Launch Trailer.brstm"
+    type: warning
+  - id: neko_house_sct2
+    title: "Neko House"
+    path: "03 Neko House.brstm"
+    type: break
+  - id: ramal_town_sct2
+    title: "Ramal Town"
+    path: "10 Ramal Town.brstm"
+    type: break
+  - id: moon_crystal_sct2
+    title: "Moon Crystal"
+    path: "13 Moon Crystal.brstm"
+    tags: [xmas]
+    type: break
+  - id: water_temple_sct2
+    title: "Water Temple"
+    path: "19 Water Temple.brstm"
+    type: break
+...

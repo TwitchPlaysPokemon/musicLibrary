@@ -1,0 +1,35 @@
+---
+id: akira_prototype
+title: "Akira"
+platform: "SMD"
+year: UNRELEASED
+songs: 
+  - id: sound_test_0b
+    title: "Sound Test 0B"
+    path: "01 Sound Test 0B.vgz"
+    type: betting
+  - id: sound_test_19
+    title: "Sound Test 19"
+    path: "02 Sound Test 19.vgz"
+    type: betting
+  - id: sound_test_48
+    title: "Sound Test 48"
+    path: "03 Sound Test 48.vgz"
+    type: betting
+  - id: sound_test_4a
+    title: "Sound Test 4A"
+    path: "04 Sound Test 4A.vgz"
+    type: betting
+  - id: sound_test_4b
+    title: "Sound Test 4B"
+    path: "05 Sound Test 4B.vgz"
+    type: result
+  - id: sound_test_53
+    title: "Sound Test 53"
+    path: "06 Sound Test 53.vgz"
+    type: break
+  - id: sound_test_5a
+    title: "Sound Test 5A"
+    path: "07 Sound Test 5A.vgz"
+    type: warning
+...

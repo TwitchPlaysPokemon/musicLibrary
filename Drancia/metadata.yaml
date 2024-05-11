@@ -1,0 +1,39 @@
+﻿---
+id: drancia
+title: "Drancia"
+platform: ["Mobile", "3DS"]
+year: 2014
+songs: 
+  - id: title_drancia
+    title: "Title"
+    path: "1 Title.brstm"
+    type: result
+  - id: area_6_drancia
+    title: "Area 6"
+    path: "7 Area 6.brstm"
+    type: result
+  - id: area_8_drancia
+    title: "Area 8"
+    path: "9 Area 8.brstm"
+    type: result
+  - id: ending_drancia
+    title: "Ending"
+    path: "18 Ending.brstm"
+    type: result
+  - id: ending_2_drancia
+    title: "Ending 2"
+    path: "19 Ending 2.brstm"
+    type: result
+  - id: bar_drancia
+    title: "Bar"
+    path: "20 Bar.brstm"
+    type: result
+  - id: area_1_drancia
+    title: "Area 1"
+    path: "2 Area 1.brstm"
+    type: warning
+  - id: area_4_drancia
+    title: "Area 4"
+    path: "5 Area 4.brstm"
+    type: warning
+...

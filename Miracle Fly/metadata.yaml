@@ -1,0 +1,68 @@
+﻿---
+id: miracle_fly
+title: "Miracle Fly"
+platform: ["Mobile", "PC"]
+year: 2014
+songs:
+  - id: grassland_miracle_fly
+    title: "Grassland"
+    path: "01 Grassland.brstm"
+    type: betting
+  - id: cave_miracle_fly
+    title: "Cave"
+    path: "02 Cave.brstm"
+    type: betting
+  - id: factory_miracle_fly
+    title: "Factory"
+    path: "04 Factory.brstm"
+    type: betting
+  - id: last_boss_miracle_fly
+    title: "Last Boss"
+    path: "12 Last Boss.brstm"
+    type: battle
+  - id: cosmoland_miracle_fly
+    title: "Cosmoland"
+    path: "14 Cosmoland.brstm"
+    type: battle
+  - id: candyland_miracle_fly
+    title: "Candyland"
+    path: "13 Candyland.brstm"
+    type: result
+  - id: title_miracle_fly
+    title: "Title"
+    path: "09 Title.brstm"
+    type: result
+  - id: credit_roll_miracle_fly
+    title: "Credit Roll"
+    path: "16 Credit Roll.brstm"
+    type: result
+  - id: castle_miracle_fly
+    title: "Castle"
+    path: "05 Castle.brstm"
+    type: warning
+  - id: ghostland_miracle_fly
+    title: "Ghostland"
+    path: "08 Ghostland.brstm"
+    tags: [halloween]
+    type: warning
+  - id: boss_rush_miracle_fly
+    title: "Boss Rush"
+    path: "15 Boss Rush.brstm"
+    type: warning
+  - id: toy_world_speed_miracle_fly
+    title: "Toy World (Speed)"
+    path: "23 Toy World (Speed).brstm"
+    type: warning
+  - id: rainy_miracle_fly
+    title: "Rainy"
+    path: "06 Rainy.brstm"
+    type: break
+  - id: ice_cave_miracle_fly
+    title: "Ice Cave"
+    path: "07 Ice Cave.brstm"
+    type: break
+  - id: map_miracle_fly
+    title: "Map"
+    path: "10 Map.brstm"
+    type: break
+...

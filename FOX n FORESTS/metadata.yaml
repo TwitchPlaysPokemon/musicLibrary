@@ -1,0 +1,71 @@
+﻿---
+id: fox_n_forests
+title: "FOX n FORESTS"
+platform: ["Various"]
+year: 2018
+songs: 
+  - id: revolving_river_fnf
+    title: "Revolving River"
+    path: "04 Revolving River.brstm"
+    type: betting
+  - id: gorgeous_gorge_fnf
+    title: "Gorgeous Gorge"
+    path: "05 Gorgeous Gorge.brstm"
+    ends: 2:10
+    type: betting
+  - id: fungus_forest_fnf
+    title: "Fungus Forest"
+    path: "06 Fungus Forest.brstm"
+    type: betting
+  - id: foggy_fable_fnf
+    title: "Foggy Fable"
+    path: "09 Foggy Fable.brstm"
+    tags: [halloween]
+    type: betting
+  - id: leaky_lake_fnf
+    title: "Leaky Lake"
+    path: "11 Leaky Lake.brstm"
+    type: betting
+  - id: tricky_treetops_fnf
+    title: "Tricky Treetops"
+    path: "07 Tricky Treetops.brstm"
+    tags: [halloween]
+    type: battle
+  - id: crystal_caves_fnf
+    title: "Crystal Caves"
+    path: "10 Crystal Caves.brstm"
+    type: battle
+  - id: fox_n_forests_main_theme
+    title: "FOX n FORESTS Main Theme"
+    path: "01 FOX n FORESTS Main Theme.brstm"
+    type: result
+  - id: a_wondrous_world_awaits
+    title: "A Wondrous World Awaits"
+    path: "02 A Wondrous World Awaits.brstm"
+    type: result
+  - id: everyone_loves_a_bonus_stage
+    title: "Everyone Loves a Bonus Stage!"
+    path: "13 Everyone Loves a Bonus Stage!.brstm"
+    type: result
+  - id: windy_windmills_fnf
+    title: "Windy Windmills"
+    path: "08 Windy Windmills.brstm"
+    tags: [halloween]
+    type: warning
+  - id: its_showtime_fnf
+    title: "It's Showtime! (Boss Music)"
+    path: "12 It's Showtime! (Boss Music).brstm"
+    type: warning
+  - id: revelation_fnf
+    title: "Revelation"
+    path: "14 Revelation.brstm"
+    type: warning
+  - id: final_encounter_fnf
+    title: "Final Encounter"
+    path: "15 Final Encounter.brstm"
+    type: warning
+  - id: forest_plaza_fnf
+    title: "Forest Plaza"
+    path: "03 Forest Plaza.brstm"
+    type: break
+...

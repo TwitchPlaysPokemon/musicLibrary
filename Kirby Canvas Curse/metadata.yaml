@@ -4,7 +4,37 @@ title: "Kirby: Canvas Curse"
 series: kirby
 platform: "NDS"
 year: 2005
+#from the submitter: 
+#Some of these are already in but fromw hat I heard the files were from a rip that didn't... 
+#rip the audio properly (Canvas Curse's audio is weird). 
+#What's on smashcustommusic.net is ripped properly.
+#Honestly I can't tell much difference between the two, but if the difference IS noticable
+#let me know and I can replace with brstms
 songs:
+  - id: menus_canvas_curse
+    title: "Menus"
+    path: "02 Menus.mini2sf"
+    type: result
+  - id: training_canvas_curse
+    title: "Training"
+    path: "03 Training.mini2sf"
+    type: betting
+  - id: plant_plain
+    title: "Plant Plain"
+    path: "04 Plant Plain.mini2sf"
+    type: betting
+  - id: tiny_town_canvas_curse
+    title: "Tiny Town"
+    path: "05 Tiny Town.mini2sf"
+    type: break
+  - id: ravine_road
+    title: "Ravine Road"
+    path: "06 Ravine Road.mini2sf"
+    type: betting
+  - id: ghost_grounds
+    title: "Ghost Grounds"
+    path: "07 Ghost Grounds.mini2sf"
+    type: betting
   - id: growth_grasses
     title: "Growth Grasses"
     path: "08 Growth Grasses.mini2sf"
@@ -17,21 +47,53 @@ songs:
     title: "Rift Ruin"
     path: "10 Rift Ruin.mini2sf"
     type: betting
+  - id: contrast_cave
+    title: "Contrast Cave"
+    path: "11 Contrast Cave.mini2sf"
+    type: betting
   - id: silver_submarine
     title: "Silver Submarine"
     path: "12 Silver Submarine.mini2sf"
+    type: betting
+  - id: machine_mansion
+    title: "Machine Mansion"
+    path: "13 Machine Mansion.mini2sf"
+    type: betting
+  - id: dreamy_darkness
+    title: "Dreamy Darkness"
+    path: "14 Dreamy Darkness.mini2sf"
     type: betting
   - id: palette_polis
     title: "Palette Polis"
     path: "15 Palette Polis.mini2sf"
     type: betting
+  - id: cold_course
+    title: "Cold Course"
+    path: "16 Cold Course.mini2sf"
+    type: betting
+  - id: dungeon_dome
+    title: "Dungeon Dome"
+    path: "17 Dungeon Dome.mini2sf"
+    type: betting
   - id: canvas_canyon
     title: "Canvas Canyon"
     path: "18 Canvas Canyon.mini2sf"
     type: betting
+  - id: collapse_castle
+    title: "Collapse Castle"
+    path: "19 Collapse Castle.mini2sf"
+    type: betting
   - id: volatile_volcano
     title: "Volatile Volcano"
     path: "20 Volatile Volcano.mini2sf"
+    type: betting
+  - id: silent_seabed
+    title: "Silent Seabed"
+    path: "21 Silent Seabed.mini2sf"
+    type: betting
+  - id: frozen_fantasy
+    title: "Frozen Fantasy"
+    path: "22 Frozen Fantasy.mini2sf"
     type: betting
   - id: mad_mechanism
     title: "Mad Mechanism"
@@ -41,9 +103,21 @@ songs:
     title: "Spectacle Space"
     path: "24 Spectacle Space.mini2sf"
     type: warning
+  - id: the_world_of_drawcia
+    title: "The World of Drawcia"
+    path: "25 The World of Drawcia.mini2sf"
+    type: break
   - id: room_guarder_kirby_canvas_curse
     title: "Room Guarder"
     path: "26 Room Guarder.mini2sf"
+    type: warning
+  - id: jump_game_kirby_canvas_curse
+    title: "Jump Game"
+    path: "27 Jump Game.mini2sf"
+    type: warning
+  - id: boss_game_select
+    title: "Boss Game Select"
+    path: "35 Boss Game Select.mini2sf"
     type: warning
   - id: paint_panic
     title: "Paint Panic"
@@ -53,8 +127,28 @@ songs:
     title: "Cart Run"
     path: "37 Cart Run.mini2sf"
     type: battle
+  - id: kracko_canvas_curse
+    title: "Kracko"
+    path: "38 Kracko.mini2sf"
+    type: warning
+  - id: medal_swap
+    title: "Medal Swap"
+    path: "40 Medal Swap.mini2sf"
+    type: warning
+  - id: drawcia_sorceress
+    title: "Drawcia Sorceress"
+    path: "42 Drawcia Sorceress.mini2sf"
+    type: betting
   - id: drawcia_soul
     title: "Drawcia Soul"
     path: "43 Drawcia Soul.mini2sf"
+    type: warning
+  - id: credits_canvas_curse
+    title: "Credits"
+    path: "45 Credits.mini2sf"
+    type: betting
+  - id: coliseum_duel_unused
+    title: "Coliseum Duel (unused)"
+    path: "79 Coliseum Duel (unused).mini2sf"
     type: warning
 ...

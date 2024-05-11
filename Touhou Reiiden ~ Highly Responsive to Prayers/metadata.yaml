@@ -9,4 +9,60 @@ songs:
     title: "Shrine of the Wind (Unused)"
     path: "15 Shrine of the Wind.vgz"
     type: betting
+  - id: a_sacred_lot
+    title: "A Sacred Lot"
+    path: "ASacredLotHRTP.brstm"
+    type: betting
+  - id: eternal_shrine_maiden
+    title: "Eternal Shrine Maiden"
+    path: "EternalShrineMaidenHRTP.brstm"
+    type: betting
+  - id: the_positive_and_negative
+    title: "The Positive and Negative"
+    path: "ThePositiveandNegativeHRTP.brstm"
+    type: battle
+  - id: highly_responsive_to_prayers
+    title: "Highly Responsive to Prayers"
+    path: "HighlyResponsiveToPrayersHRTP.brstm"
+    type: betting
+  - id: strange_oriental_discourse
+    title: "Strange Oriental Discourse"
+    path: "StrangeOrientalDiscourseHRTP.brstm"
+    type: battle
+  - id: angel_s_legend
+    title: "Angel's Legend"
+    path: "AngelsLegendHRTP.brstm"
+    type: battle
+  - id: magic_mirror_jigoku
+    title: "Magic Mirror (Jigoku)"
+    path: "MagicMirrorJigoku.brstm"
+    type: battle
+  - id: magic_mirror_makai
+    title: "Magic Mirror (Makai)"
+    path: "MagicMirrorMakai.brstm"
+    type: battle
+  - id: blade_of_banishment
+    title: "Blade of Banishment"
+    path: "BladeOfBanishmentHRTP.brstm"
+    type: betting
+  - id: now_until_the_moment_you_die
+    title: "Now, Until the Moment You Die"
+    path: "NowUntilTheMomentYouDieHRTP.brstm"
+    type: battle
+  - id: civilization_of_magic
+    title: "Civilization of Magic"
+    path: "CivilizationOfMagicHRTP.brstm"
+    type: battle
+  - id: swordsman_of_a_distant_star
+    title: "Swordsman of a Distant Star"
+    path: "SwordsmanOfADistantStarHRTP.brstm"
+    type: betting
+  - id: oriental_magician
+    title: "Oriental Magician"
+    path: "OrientalMagicianHRTP.brstm"
+    type: betting
+  - id: the_legend_of_kage
+    title: "The Legend of Kage"
+    path: "TheLegendOfKageHRTP.brstm"
+    type: battle
 ...

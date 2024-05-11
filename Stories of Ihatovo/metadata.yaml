@@ -1,0 +1,73 @@
+﻿---
+id: stories_of_ihatovo
+title: "Stories of Ihatovo"
+platform: "SFC"
+year: 1993
+songs: 
+  - id: ihatovo_city
+    title: "Ihatovo City"
+    path: "03 Ihatovo City.spc"
+    type: betting
+  - id: ihatovo_music_festival
+    title: "Music Festival"
+    path: "14 Music Festival.spc"
+    type: betting
+  - id: ihatovo_hymn
+    title: "Ihatovo Hymn"
+    path: "01 Ihatovo Hymn.spc"
+    type: result
+  - id: ihatovo_chaplin
+    title: "Chaplin"
+    path: "11 Chaplin.spc"
+    type: result
+  - id: ihatovo_romantic_movie
+    title: "Romantic Movie"
+    path: "15 Romantic Movie.spc"
+    type: result
+  - id: ihatovo_gauches_water_mill
+    title: "Gauche's Water Mill"
+    path: "16 Gauche's Water Mill.spc"
+    type: result
+  - id: ihatovo_beyond_time_and_space
+    title: "Beyond Time and Space ~ Reminiscence"
+    path: "20 Beyond Time and Space ~ Reminiscence.spc"
+    type: result
+  - id: ihatovo_cave
+    title: "Cave"
+    path: "05 Cave.spc"
+    tags: [halloween]
+    type: warning
+  - id: ihatovo_cairo_brigade_leader
+    title: "Cairo Brigade Leader"
+    path: "07 Cairo Brigade Leader.spc"
+    type: warning
+  - id: ihatovo_ozbel
+    title: "A Day in the Life of a Merchant"
+    path: "13 A Day in the Life of a Merchant.spc"
+    type: warning
+  - id: ihatovo_the_fourth_dimension
+    title: "The Fourth Dimension"
+    path: "19 The Fourth Dimension.spc"
+    type: warning
+  - id: ihatovo_travel_diary
+    title: "Travel Diary"
+    path: "02 Travel Diary.spc"
+    type: break
+  - id: ihatovo_shellfire_forest
+    title: "Shellfire Forest"
+    path: "04 Shellfire Forest.spc"
+    type: break
+  - id: ihatovo_kenjus_village_sad
+    title: "Kenju's Village (Sad)"
+    path: "09 Kenju's Village (Sad).spc"
+    type: break
+  - id: ihatovo_staring_at_the_sea
+    title: "Staring at the Sea"
+    path: "12 Staring at the Sea.spc"
+    type: break
+  - id: ihatovo_snow_passage_vilage
+    title: "Snow Passage Village"
+    path: "18 Snow Passage Village.spc"
+    tags: [xmas]
+    type: break
+...

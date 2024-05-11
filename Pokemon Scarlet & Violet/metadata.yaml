@@ -6,12 +6,12 @@ platform: "Switch"
 year: 2022
 #very basic setup atm. Had to get assistance for these initial songs, had to wing the song titles. songs are sorted by the order they appear in the files, for clarity - always open to suggestions for improvement, same as with Legends Arceus
 songs:
-  - id: iono_livestream_part_1
-    title: "Iono Livestream (Part 1)"
+  - id: ello_ello_hola_ciao_and_bonjour
+    title: "'Ello, 'Ello, Hola! Ciao and Bonjour!"
     path: "BGM-00030.txtp"
     type: warning
-  - id: penny_s_theme
-    title: "Penny's Theme"
+  - id: heart_scarlet_violet
+    title: "Heart"
     path: "BGM-00256.txtp"
     type: betting
   - id: area_zero
@@ -22,8 +22,8 @@ songs:
     title: "Battle! (Area Zero Pokémon 2)"
     path: "BGM-00269.txtp"
     type: battle
-  - id: trainers_eyes_meet_scarlet
-    title: "Trainers' Eyes Meet"
+  - id: trainers_eyes_meet_trainer_scarlet
+    title: "Trainers' Eyes Meet (Trainer)"
     path: "BGM-00270.txtp"
     type: warning
   - id: victory_trainer_scarlet_violet
@@ -34,8 +34,8 @@ songs:
     title: "Battle! (Western Pokémon)"
     path: "BGM-00295.txtp"
     type: battle
-  - id: artazon_zapapico
-    title: "Artazon & Zapapico"
+  - id: artazon
+    title: "Artazon"
     path: "BGM-00300.txtp"
     type: break
   - id: battle_area_zero_pokemon
@@ -43,11 +43,11 @@ songs:
     path: "BGM-00302.txtp"
     type: battle
   - id: home_indoors
-    title: "Home (Indoors)"
+    title: "Home"
     path: "BGM-00304.txtp"
     type: break
-  - id: home_outdoors
-    title: "Home (Outdoors)"
+  - id: cabo_poco
+    title: "Cabo Poco"
     path: "BGM-00305.txtp"
     type: betting
   - id: cascarrafa
@@ -66,12 +66,12 @@ songs:
     title: "Battle! (Northern Pokémon)"
     path: "BGM-00318.txtp"
     type: battle
-  - id: south_province
-    title: "South Province"
+  - id: a_stroll_through_the_south_province
+    title: "A Stroll through the South Province"
     path: "BGM-00319.txtp"
     type: break
   - id: south_province_riding
-    title: "South Province (Riding)"
+    title: "South Province"
     path: "BGM-00320.txtp"
     type: betting
   - id: alfornada
@@ -86,36 +86,36 @@ songs:
     title: "Battle! (Eastern Pokémon)"
     path: "BGM-00334.txtp"
     type: battle
-  - id: east_province
-    title: "East Province"
+  - id: a_stroll_through_the_east_province
+    title: "A Stroll through the East Province"
     path: "BGM-00344.txtp"
     type: betting
   - id: medali
     title: "Medali"
     path: "BGM-00347.txtp"
     type: break
-  - id: west_province
-    title: "West Province"
+  - id: a_stroll_through_the_west_province
+    title: "A Stroll through the West Province"
     path: "BGM-00351.txtp"
     type: break
   - id: victory_ai_professor_sada_turo
-    title: "Victory! (AI Professor)"
+    title: "Victory! (Zero Lab)"
     path: "BGM-00374.txtp"
     type: result
   - id: battle_ai_professor_sada_turo
-    title: "Battle! (AI Professor)"
+    title: "Battle! (Zero Lab)"
     path: "BGM-00375.txtp"
     type: battle
   - id: battle_paradise_protection_protocol_koraidon_miraidon
-    title: "Battle! (Paradise Protection Protocol)"
+    title: "Battle! (■■■■)"
     path: "BGM-00376.txtp"
     type: battle
   - id: battle_titan
     title: "Battle! (Titan)"
     path: "BGM-00378.txtp"
     type: battle
-  - id: academy_classroom
-    title: "Academy Classroom"
+  - id: the_academy_scarlet_violet
+    title: "The Academy"
     path: "BGM-00382.txtp"
     type: betting
   - id: battle_nemona
@@ -131,8 +131,8 @@ songs:
     path: "BGM-00450.txtp"
     type: battle 
     #also includes pre-battle dialogue, but whatever
-  - id: battle_star_barrage_base_raid
-    title: "Battle! (Star Barrage)"
+  - id: star_barrage_base_raid
+    title: "Star Barrage"
     path: "BGM-00451.txtp"
     type: battle
   - id: battle_team_star
@@ -156,7 +156,7 @@ songs:
     path: "BGM-00456.txtp"
     type: battle
   - id: battle_champion_nemona_2
-    title: "Battle! (Nemona 2)"
+    title: "Battle! (Champion_Nemona)"
     path: "BGM-00457.txtp"
     type: battle
   - id: battle_the_top_champion_geeta
@@ -167,12 +167,12 @@ songs:
     title: "Battle! (Ruinous Legend)"
     path: "BGM-00463.txtp"
     type: battle
-  - id: battle_the_academy_ace_tournament
-    title: "Battle! (The Academy Ace Tournament)"
+  - id: the_academy_ace_tournament
+    title: "The Academy Ace Tournament"
     path: "BGM-00464.txtp"
     type: battle
-  - id: battle_tera_raid_battle
-    title: "Battle! (Tera Raid Battle)"
+  - id: tera_raid_battle
+    title: "Tera Raid Battle!"
     path: "BGM-00466.txtp"
     type: battle
   - id: battle_arven
@@ -189,18 +189,420 @@ songs:
     type: warning
   - id: clive_s_true_identity
     title: "Clive's True Identity"
-    path: "BGM-00498.txtp"
+    path: "PLAY_BGM_TI_EV_EXC_10.txtp"
     type: warning
-  - id: pokemon_league_interview
-    title: "Pokémon League Interview"
+  - id: pokemon_league_interview_phase
+    title: "Pokémon League - Interview Phase"
     path: "BGM-00697.txtp"
     type: betting
-  - id: making_a_sandwich
-    title: "Making a Sandwich"
+  - id: let_s_make_a_sandwich
+    title: "Let's Make a Sandwich!"
     path: "BGM-00738.txtp"
     type: betting
+# Main Game Tracks I missed the first time around (the txtp names changed but that's it)
+  - id: go_through_the_cave_in_the_cove
+    title: "Go Through the Cave in the Cove"
+    path: "PLAY_BGM_TI_EV_EXC_01 (R01=D01) {s}=.txtp"
+    type: betting
+  - id: battle_in_the_cave
+    title: "Battle In The Cave"
+    path: "PLAY_BGM_TI_EV_EXC_01 (R01=D01) {s}=-.txtp"
+    type: warning
+  - id: confront_the_titan_pokemon_again
+    title: "Confront the Titan Pokémon Again"
+    path: "PLAY_BGM_TI_VS_NS (VS_NS=READY).txtp"
+    type: warning
+  - id: mesagoza
+    title: "Mesagoza"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=16) {s}=(C01_MUSICIAN=IN).txtp"
+    type: betting
+  - id: one_song_in_mesagoza_if_you_please
+    title: "One Song In Mesagoza, If You Please"
+    path: "PLAY_BGM_SOUTH_FIELD_FIRST (SOUTH_REGION=C01)(C01=C01)(C01_EV=ON) {s}=(C01_MUSICIAN=IN).txtp"
+    type: betting
+  - id: the_academy_your_room
+    title: "The Academy - Your Room"
+    path: "PLAY_BGM_SOUTH_FIELD_FIRST (SOUTH_REGION=C01)(C01=SCH_QUIET) {s}=(C01_MUSICIAN=IN).txtp"
+    type: break
+  - id: let_s_try_to_get_stronger
+    title: "Let's Try to Get Stronger!"
+    path: "PLAY_BGM_TI_EV_CMN_02_0285 (MAP_JUMP=END)(EV_COMMON_0285=ON).txtp"
+    type: warning
+  - id: it_s_a_test_of_strength
+    title: "It's a Test of Strength!"
+    path: "PLAY_BGM_TI_EV_CMN_03.txtp"
+    type: warning
+  - id: right_now_i_m_clive
+    title: "Right Now I'm Clive"
+    path: "PLAY_BGM_TI_EV_CMN_06.txtp"
+    type: warning
+  - id: phone_call_from_cassiopeia
+    title: "Phone Call from Cassiopeia"
+    path: "PLAY_BGM_TI_EV_CMN_07.txtp"
+    type: warning
+  - id: just_a_moment_scarlet_violet
+    title: "Just a Moment"
+    path: "PLAY_BGM_TI_EV_CMN_08.txtp"
+    type: result
+  - id: team_star
+    title: "Team Star!"
+    path: "PLAY_BGM_TI_EV_EXC_03.txtp"
+    type: warning
+  - id: treasure_of_the_stars
+    title: "Treasure of the Stars"
+    path: "PLAY_BGM_TI_EV_EXC_04.txtp"
+    type: break
+  - id: with_nemona
+    title: "With Nemona"
+    path: "PLAY_BGM_TI_EV_EXC_02.txtp"
+    type: break
+  - id: earnest_feelings_scarlet_violet
+    title: "Earnest Feelings"
+    path: "PLAY_BGM_TI_EV_EXC_07.txtp"
+    type: break
+  - id: reunion_scarlet_violet
+    title: "Reunion"
+    path: "PLAY_BGM_TI_EV_EXC_09.txtp"
+    type: warning
+  - id: gym_lobby_scarlet_violet
+    title: "Gym Lobby"
+    path: "PLAY_BGM_TI_FC_GYM_FRONT.txtp"
+    type: betting
+  - id: pokemon_league_scarlet_violet
+    title: "Pokémon League"
+    path: "PLAY_BGM_TI_FC_PL11.txtp"
+    type: betting
+  - id: pokemon_center_scarlet_violet
+    title: "Pokémon Center"
+    path: "PLAY_BGM_TI_FC_POKECEN .txtp"
+    type: betting
+  - id: professor_sada_professor_tudo
+    title: "Professor Sada / Professor Turo"
+    path: "PLAY_BGM_TI_EV_EXC_06.txtp"
+    type: warning
+  - id: the_opening_act_scarlet_violet
+    title: "The Opening Act"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=24).txtp"
+    type: betting
+  - id: emotional_spectrum_practice
+    title: "Emotional Spectrum Practice"
+    path: "PLAY_BGM_TI_FI_GYM_TRAINING_ESPER (GYM_TEST_ESPER=COUNTDOWN).txtp"
+    type: betting
+  - id: snow_slope_run
+    title: "Snow Slope Run"
+    path: "PLAY_BGM_TI_FI_GYM_TRAINING_KOORI (GYM_TEST_KOORI=START).txtp"
+    type: betting
+  - id: gym_test
+    title: "Gym Test"
+    path: "PLAY_BGM_TI_FI_GYM_TRAINING_MUSHI (GYM_TEST_MUSHI_SAVE=ON)(MAP_JUMP=END)(GYM_TEST_MUSHI=READY).txtp"
+    type: betting
+  - id: the_gym_test_s_not_over
+    title: "The Gym Test's Not Over!"
+    path: "PLAY_BGM_TI_FI_MINIGAME_MIZU (MINI_GAME_MIZU=READY).txtp"
+    type: warning
+  - id: title_screen_scarlet_violet
+    title: "Title Screen"
+    path: "PLAY_BGM_TI_ST_01_B.txtp"
+    type: betting
+  - id: mystery_gift_scarlet_violet
+    title: "Mystery Gift"
+    path: "PLAY_BGM_TI_ST_04 (SYSTEM_DEMO=PLAY).txtp"
+    type: warning
+  - id: welcome_to_the_paldea_region
+    title: "Welcome to the Paldea Region!"
+    path: "PLAY_BGM_TI_ST_07 (FIRST_AWAKE=ON).txtp"
+    type: betting
+  - id: battle_stadium_scarlet_violet
+    title: "Battle Stadium"
+    path: "PLAY_BGM_TI_ST_08.txtp"
+    type: warning
+  - id: let_s_eat_scarlet_violet
+    title: "Let's Eat!"
+    path: "PLAY_BGM_TI_ST_EAT.txtp"
+    type: result
+  - id: team_star_boss_appears
+    title: "Team Star Boss Appears!"
+    path: "PLAY_BGM_TI_VS_TEAM_BOSS (VS_TEAM_BOSS=INTRO).txtp"
+    type: warning
+  - id: c_mon_let_s_raid_the_place
+    title: "C'mon, Let's Raid the Place!"
+    path: "PLAY_BGM_TI_VS_TEAM_RUSH_WILD_READY.txtp"
+    type: warning
+  - id: victory_team_star_boss
+    title: "Victory! (Team Star Boss)"
+    path: "PLAY_BGM_TI_VS_TRAINER_EXC (TYPE=TEAM_02)(VS_TRAINER=WIN).txtp"
+    type: result
+  - id: victory_tera_raid_battle
+    title: "Victory! (Tera Raid Battle)"
+    path: "PLAY_BGM_TI_WN_RAID.txtp"
+    type: result
+  - id: victory_gym_leader_scarlet_violet
+    title: "Victory! (Gym Leader)"
+    path: "PLAY_BGM_TI_VS_GYM_LEADER_CLUB (GL=IN)(LEADER=WIN).txtp"
+    type: result
+  - id: victory_top_champion
+    title: "Victory! (Top Champion)"
+    path: "PLAY_BGM_TI_VS_TRAINER_CLUB (TYPE=TOP_CHAMPION)(VS_TRAINER=WIN).txtp"
+    type: result
+  - id: a_stroll_through_the_north_province
+    title: "A Stroll through the North Province"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=08).txtp"
+    type: betting
+  - id: a_stroll_through_the_asado_desert
+    title: "A Stroll through the Asado Desert"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=09).txtp"
+    type: betting
+  - id: asado_desert
+    title: "Asado Desert"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=19).txtp"
+    type: betting
+  - id: casseroya_lake
+    title: "Casseroya Lake"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=20).txtp"
+    type: betting
+  - id: poco_path
+    title: "Poco Path"
+    path: "PLAY_BGM_FIELD (R01_REGION=R01_FIELD)(R01=R01).txtp"
+    type: betting
+  - id: battle_wild_pokemon_scarlet_violet
+    title: "Battle! (Wild Pokémon)"
+    path: "PLAY_BGM_SELECT (TYPE=03).txtp"
+    type: battle
+  - id: tagtree_thicket
+    title: "Tagtree Thicket"
+    path: "PLAY_BGM_SOUTH_FIELD_FIRST (EAST_REGION=FIELD)(EAST_AREA=FOREST)(RIDE=ON).txtp"
+    type: betting
+  - id: east_province_area_three
+    title: "East Province (Area Three)"
+    path: "PLAY_BGM_SOUTH_FIELD_FIRST (EAST_REGION=FIELD)(EAST_AREA=MOUNTAIN)(RIDE=ON).txtp"
+    type: betting
+  - id: east_province
+    title: "East Province"
+    path: "PLAY_BGM_SOUTH_FIELD_FIRST (EAST_REGION=FIELD)(EAST_AREA=NORMAL)(RIDE=ON).txtp"
+    type: betting
+  - id: north_province_area_2
+    title: "North Province (Area 2)"
+    path: "PLAY_BGM_SOUTH_FIELD_FIRST (NORTH_REGION=FIELD)(NORTH_AREA=W22)(RIDE=ON).txtp"
+    type: betting
+  - id: north_province
+    title: "North Province"
+    path: "PLAY_BGM_SOUTH_FIELD_FIRST (NORTH_REGION=FIELD)(NORTH_AREA=MOUNTAIN)(RIDE=ON).txtp"
+    type: betting
+  - id: west_province
+    title: "West Province"
+    path: "PLAY_BGM_SOUTH_FIELD_FIRST (WEST_REGION=FIELD)(WEST_AREA=MOUNTAIN)(RIDE=ON).txtp"
+    type: betting
+#DLC tracks now
+  - id: relic_song_scarlet_violet
+    title: "Relic Song"
+    path: "BGM-5015-event (S2_SUB_003=LOOP).txtp"
+    type: betting
+  - id: flying_time_trial
+    title: "Flying Time Trial!"
+    path: "PLAY_4KINGS_CHALLENGE_B (CHALLENGE_B=GAME).txtp"
+    type: warning
+  - id: area_zero_underdepths
+    title: "Area Zero Underdepths"
+    path: "PLAY_BGM_FIELD (A_W23_D10=A_W23_D10).txtp"
+    type: betting
+  - id: the_land_of_kitakami
+    title: "The Land of Kitakami"
+    path: "PLAY_BGM_FIELD_SDC01 (SDC01_AREA=SDC01_CENTER)(SDC01_0120=ON).txtp"
+    type: betting
+  - id: the_festival_of_masks
+    title: "The Festival of Masks"
+    path: "PLAY_BGM_FIELD_SDC01 (SDC01_AREA=SDC01_CENTER)(SDC01_0130=ON).txtp"
+    type: betting
+  - id: mossui_town
+    title: "Mossui Town"
+    path: "PLAY_BGM_FIELD_SDC01 (SDC01_AREA=SDC01_CENTER).txtp"
+    type: betting
+  - id: crystal_pool_scarlet_violet
+    title: "Crystal Pool"
+    path: "PLAY_BGM_FIELD_SDC01 (SDC01_AREA=SDC01_SU106).txtp"
+    type: break
+  - id: blueberry_academy
+    title: "Blueberry Academy"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=00).txtp"
+    type: betting
+  - id: terarium_savanna_biome
+    title: "Terarium (Savanna Biome)"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=01).txtp"
+    type: betting
+  - id: terarium_coastal_biome
+    title: "Terarium (Coastal Biome)"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=02).txtp"
+    type: betting
+  - id: terarium_canyon_biome
+    title: "Terarium (Canyon Biome)"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=03).txtp"
+    type: betting
+  - id: terarium_polar_biome
+    title: "Terarium (Polar Biome)"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=BB_SCH)(SDC02_BB_SCH=CLUBROOM)(CLUBROOM=04).txtp"
+    type: betting
+  - id: terarium_central_plaza
+    title: "Terarium (Central Plaza)"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=DOME)(SDC02_DOME_AREA=SDC02_4KINGS_A_AREA).txtp"
+    type: break
+  - id: to_the_dome
+    title: "To The Dome"
+    path: "PLAY_BGM_FIELD_SDC02 (SDC02_REGION=DOME)(SDC02_DOME_AREA=SDC02_APPROACH)(SDC02_0060=ON)(AP_IN_OUT=BGM_AP_IN).txtp"
+    type: break
+  - id: history_of_the_signboard
+    title: "History of the Signboard"
+    path: "PLAY_BGM_SU1_EV_CMN_01.txtp"
+    type: betting
+  - id: briar_s_theme
+    title: "Briar's Theme"
+    path: "PLAY_BGM_SU1_EV_CMN_02.txtp"
+    type: betting
+  - id: ex_c_c_change
+    title: "Ex-c-c-change"
+    path: "PLAY_BGM_SU1_EV_CMN_03.txtp"
+    type: warning
+  - id: with_perrin
+    title: "With Perrin"
+    path: "PLAY_BGM_SU1_EV_CMN_04.txtp"
+    type: result
+  - id: distortion_scarlet_violet
+    title: "Distortion"
+    path: "PLAY_BGM_SU1_EV_CMN_05.txtp"
+    type: warning
+  - id: they_re_relaxed_now
+    title: "They're Relaxed Now"
+    path: "PLAY_BGM_SU1_EV_CMN_06.txtp"
+    type: result
+  - id: the_loyal_three_wreaks_havoc
+    title: "The Loyal Three Wreaks Havoc"
+    path: "PLAY_BGM_SU1_EV_CMN_07.txtp"
+    type: warning
+  - id: perrin_s_theme
+    title: "Perrin's Theme"
+    path: "PLAY_BGM_SU1_EV_CMN_08.txtp"
+    type: betting
+  - id: the_real_history
+    title: "The Real History"
+    path: "PLAY_BGM_SU1_EV_EXC_02.txtp"
+    type: break
+  - id: ogre_oustin
+    title: "Ogre Oustin'"
+    path: "PLAY_BGM_SU1_ST_ONIBALLOON (ONIBALLOON=GAME).txtp"
+    type: betting
+  - id: ogre_oustin_intermission
+    title: "Ogre Oustin' (Intermission)"
+    path: "PLAY_BGM_SU1_ST_ONIBALLOON (ONIBALLOON=INTER).txtp"
+    type: warning
+  - id: photography_march
+    title: "Photography (March)"
+    path: "PLAY_BGM_SU1_ST_PHOTO_01.txtp"
+    type: warning
+  - id: photography_victory
+    title: "Photography (Victory)"
+    path: "PLAY_BGM_SU1_ST_PHOTO_02.txtp"
+    type: warning
+  - id: photography_lullaby
+    title: "Photography (Lullaby)"
+    path: "PLAY_BGM_SU1_ST_PHOTO_03.txtp"
+    type: break
+  - id: caught_ogerpon
+    title: "Caught Ogerpon"
+    path: "PLAY_BGM_SU1_VS_KAMENONI (VS_KAMENONI=CAP_SUCCESS).txtp"
+    type: result
+  - id: daily_life_at_the_academy
+    title: "Daily Life at the Academy"
+    path: "PLAY_BGM_SU2_EV_CMN_02.txtp"
+    type: warning
+  - id: unsettling_atmosphere_scarlet_violet
+    title: "Unsettling Atmosphere"
+    path: "PLAY_BGM_SU2_EV_CMN_05.txtp"
+    type: warning
+  - id: true_intentions_scarlet_violet
+    title: "True Intentions"
+    path: "PLAY_BGM_SU2_EV_CMN_06.txtp"
+    type: break
+  - id: the_defeated_kieran
+    title: "The Defeated Kieran"
+    path: "PLAY_BGM_SU2_EV_CMN_07.txtp"
+    type: warning
+  - id: mochi_mayhem
+    title: "Mochi Mayhem!"
+    path: "PLAY_BGM_SU2_EV_CMN_08_VS (VS_TR_CMN_EV_SDC=EYE_SDC) {s}=(CMN_08_VOL=ON).txtp"
+    type: battle
+  - id: star_training_centers_team_star
+    title: "Star Training Centers! Team Star"
+    path: "PLAY_BGM_SU2_EV_CMN_10.txtp"
+    type: betting
+  - id: this_is_the_terarium_dome
+    title: "This is the Terarium Dome!"
+    path: "PLAY_BGM_SU2_EV_DOME_START.txtp"
+    type: betting
+  - id: title_screen_2_scarlet_violet
+    title: "Title Screen 2"
+    path: "PLAY_BGM_SU2_ST_11.txtp"
+    type: break
+  - id: catching_terapagos
+    title: "Catching Terapagos"
+    path: "PLAY_BGM_SU2_VS_KODAIGAME (KODAIGAME=CAP_START) {s}=(CAP=ON).txtp"
+    type: result
+  - id: terapagos_awakens
+    title: "Terapogos Awakens"
+    path: "PLAY_BGM_SU2_VS_KODAIGAME (KODAIGAME=EV).txtp"
+    type: warning
+  - id: battle_pokemon_in_kitakami
+    title: "Battle! (Pokémon in Kitakami)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC01=28).txtp"
+    type: battle
+  - id: battle_carmine
+    title: "Battle! (Carmine)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC01=29).txtp"
+    type: battle
+  - id: battle_kieran
+    title: "Battle! (Kieran)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC01=30).txtp"
+    type: battle
   - id: battle_loyal_three
     title: "Battle! (Loyal Three)"
-    path: "Battle! (Loyal Three).brstm"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC01=31).txtp"
+    type: battle
+  - id: decisive_battle_kieran
+    title: "Decisive Battle! (Kieran)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC01=32).txtp"
+    type: battle
+  - id: battle_ogerpon
+    title: "Battle! (Ogerpon)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC01=33).txtp"
+    type: battle
+  - id: battle_terarium_pokemon
+    title: "Battle! (Terarium Pokémon)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=35).txtp"
+    type: battle
+  - id: battle_blueberry_academy_trainer
+    title: "Battle! (Academy Trainer)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=36).txtp"
+    type: battle
+  - id: battle_bb_league_elite_four
+    title: "Battle! (BB League Elite Four)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=37).txtp"
+    type: battle
+  - id: battle_champion_kieran
+    title: "Battle! (Champion Kieran)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=38).txtp"
+    type: battle
+  - id: battle_terapagos
+    title: "Battle! (Terapogos)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=39).txtp"
+    type: battle
+  - id: battle_terapagos_the_hidden_treasure_of_area_zero
+    title: "Battle! (Terapagos - The Hidden Treasure of Area Zero)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=40).txtp"
+    type: battle
+  - id: battle_pecharunt
+    title: "Battle! (Pecharunt)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=56).txtp"
+    type: battle
+  - id: battle_tera_pokemon_in_the_terarium
+    title: "Battle! (Tera Pokémon in the Terarium)"
+    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=57).txtp"
     type: battle
 ...

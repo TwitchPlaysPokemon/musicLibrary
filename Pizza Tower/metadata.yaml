@@ -180,4 +180,48 @@ songs:
     title: "The Death That I Deservioli"
     path: "The Death That I Deservioli.brstm"
     type: battle
+  - id: distasteful_anchovi
+    title: "Distasteful Anchovi"
+    path: "Distasteful Anchovi.brstm"
+    type: battle
+  - id: gustavo
+    title: "Gustavo"
+    path: "Gustavo.brstm"
+    type: warning
+  - id: i_need_a_noise
+    title: "I Need A Noise"
+    path: "I Need A Noise.brstm"
+    type: battle
+  - id: move_it_boy
+    title: "Move It, Boy!"
+    path: "Move It, Boy! (No Intro).brstm"
+    type: betting
+  - id: new_noise_revolutionz
+    title: "New Noise Revolutionz"
+    path: "New Noise Revolutionz.brstm"
+    type: betting
+  - id: pizza_pie_ing
+    title: "Pizza Pie-Ing"
+    path: "Pizza Pie-Ing.brstm"
+    type: result
+  - id: the_noise_s_jam_packed_radical_anthem
+    title: "The Noise's Jam Packed Radical Anthem"
+    path: "The Noise's Jam Packed Radical Anthem.brstm"
+    type: warning
+  - id: tombstone_arizona
+    title: "Tombstone Arizona"
+    path: "Tombstone Arizona.brstm"
+    type: betting
+  - id: unexpectancy_clascyjitto_gatcha_remix
+    title: "Unexpectancy (CLASCYJITTO GATCHA REMIX)"
+    path: "Unexpectancy (CLASCYJITTO GATCHA REMIX).brstm"
+    type: battle
+  - id: world_wide_noise
+    title: "World Wide Noise"
+    path: "World Wide Noise.brstm"
+    type: battle
+  - id: wudpecker
+    title: "Wudpecker"
+    path: "Wudpecker.brstm"
+    type: betting
 ...

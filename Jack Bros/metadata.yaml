@@ -5,12 +5,80 @@ series: shinmegamitensei
 platform: "VB"
 year: 1995
 songs: 
+  - id: character_selection_jack_bros
+    title: "Character Selection"
+    path: "05 Character Selection.vgz"
+    type: result
+  - id: opening_2_jack_bros
+    title: "Opening 2"
+    path: "08 Opening 2.vgz"
+    type: warning
+  - id: world_map_jack_bros
+    title: "World Map"
+    path: "09 World Map.vgz"
+    type: warning
+  - id: forest_of_fairies_level_1
+    title: "Forest of Fairies [Level 1]"
+    path: "11 Forest of Fairies [Level 1].vgz"
+    type: betting
+  - id: boss_jack_bros
+    title: "Boss"
+    path: "12 Boss.vgz"
+    type: warning
+  - id: grim_reaper_s_cavern_level_2
+    title: "Grim Reaper's Cavern [Level 2]"
+    path: "14 Grim Reaper's Cavern [Level 2].vgz"
+    type: betting
+  - id: invincibility_jack_bros
+    title: "Invincibility"
+    path: "15 Invincibility.vgz"
+    type: result
   - id: temple_of_nightmare_level_3
     title: "Temple of Nightmare [Level 3]"
     path: "16 Temple of Nightmare [Level 3].vgz"
+    type: betting
+  - id: continue_jack_bros
+    title: "Continue"
+    path: "19 Continue.vgz"
+    type: result
+  - id: password_entry_jack_bros
+    title: "Password Entry"
+    path: "21 Password Entry.vgz"
+    type: break
+  - id: dragon_s_belly_level_4
+    title: "Dragon's Belly [Level 4]"
+    path: "22 Dragon's Belly [Level 4].vgz"
     type: betting
   - id: mecha_fortress_level_5
     title: "Mecha Fortress [Level 5]"
     path: "23 Mecha Fortress [Level 5].vgz"
     type: betting
+  - id: crystal_palace_level_6
+    title: "Crystal Palace [Level 6]"
+    path: "24 Crystal Palace [Level 6].vgz"
+    type: warning
+  - id: final_boss_1_jack_bros
+    title: "Final Boss 1"
+    path: "25 Final Boss 1.vgz"
+    type: warning
+  - id: final_boss_2_jack_bros
+    title: "Final Boss 2"
+    path: "26 Final Boss 2.vgz"
+    type: warning
+  - id: character_introduction_jack_bros
+    title: "Character Introduction"
+    path: "27 Character Introduction.vgz"
+    type: break
+  - id: ending_jack_bros
+    title: "Ending"
+    path: "28 Ending.vgz"
+    type: break
+  - id: staff_roll_jack_bros
+    title: "Staff Roll"
+    path: "29 Staff Roll.vgz"
+    type: result
+  - id: boss_hard_mode
+    title: "Boss (Hard Mode)"
+    path: "30 Boss (Hard Mode).vgz"
+    type: warning
 ...

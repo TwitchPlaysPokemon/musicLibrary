@@ -1,0 +1,17 @@
+---
+id: pokesus_2
+title: "Pokésus 2"
+series: pokemon
+platform: "GBA"
+is_fanwork: true
+year: 2021
+songs:
+  - id: overworld_pokesus_2
+    title: "Overworld"
+    path: "song400.txtp"
+    type: betting
+  - id: battle_wild_amogus
+    title: "Battle! (Wild AMOGUS)"
+    path: "song470.txtp"
+    type: battle
+...

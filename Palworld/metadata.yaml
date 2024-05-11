@@ -1,0 +1,24 @@
+---
+id: palworld
+title: "Palworld"
+year: 2024
+platform: ["PC", "XSX", "XB1"]
+#I didn't string them into brstms yet so here are the ones that don't need to loop
+songs:
+  - id: the_beginning_palworld
+    title: "The Beginning"
+    path: "01_The_Beginning.mp3"
+    type: betting
+  - id: uninvited_palworld
+    title: "Uninvited"
+    path: "02_Uninvited.mp3"
+    type: warning
+  - id: theme_of_palworld
+    title: "Theme of Palworld"
+    path: "17_Theme_of_Palworld.mp3"
+    type: betting
+  - id: proto_palworld
+    title: "Proto-Palworld"
+    path: "14_Proto-Palworld.mp3"
+    type: result
+...

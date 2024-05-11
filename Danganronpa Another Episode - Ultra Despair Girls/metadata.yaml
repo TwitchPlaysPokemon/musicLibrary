@@ -1,11 +1,24 @@
----
-id: danganronpa_another_episode_utlra_despair_girls
+﻿---
+id: danganronpa_another_episode_ultra_despair_girls
 title: "Danganronpa Another Episode: Ultra Despair Girls"
+series: danganronpa
 platform: ["Vita", "PS4", "PC"]
 year: 2014
 songs: 
+  - id: wonderful_dead_001
+    title: "Wonderful Dead 001"
+    path: "Wonderful Dead 001.brstm"
+    type: betting
+  - id: the_warriors_of_hope
+    title: "The Warriors of Hope"
+    path: "The Warriors of Hope.brstm"
+    type: battle
   - id: shou_s_fever_time
     title: "Shou's Fever Time"
     path: "M09_Genocider_no_Intro.at9"
     type: battle
+  - id: its_a_kids_world
+    title: "It's a Kids' World"
+    path: "It's a Kids' World.brstm"
+    type: result
 ...

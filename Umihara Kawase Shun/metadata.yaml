@@ -1,11 +1,16 @@
----
+﻿---
 id: umihara_kawase_shun
 title: "Umihara Kawase Shun"
-platform: "PS1"
+series: umiharakawase
+platform: ["Various"]
 year: 1997
-songs: 
-  - id: bgm_1_uks
-    title: "BGM #1"
-    path: "BGM #1.psf"
+songs:
+  - id: beach_shun
+    title: "Beach"
+    path: "Beach.psf"
     type: betting
+  - id: shore_shun
+    title: "Shore"
+    path: "Shore.psf"
+    type: break
 ...

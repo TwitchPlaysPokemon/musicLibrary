@@ -10,19 +10,19 @@ songs:
     type: betting
   - id: follow_me_instrumental_ver
     title: "FOLLOW ME (Instrumental ver.)"
-    path: "bgm_main_menu.pos"
+    path: "bgm_main_menu.txtp"
     type: battle
   - id: tiger_dragon_art_of_fighting_team_bgm
     title: "Tiger & Dragon (ART OF FIGHTING TEAM BGM)"
-    path: "bgm_st_02_ryu.pos"
+    path: "bgm_st_02_ryu.txtp"
     type: betting
   - id: independence_from_an_aggregate_verse_bgm
     title: "Independence from an Aggregate (Verse BGM)"
-    path: "bgm_st_18_lbs.pos"
+    path: "bgm_st_18_lbs.txtp"
     type: battle
   - id: a_kiss_for_geese_cyber_edit_kof_xiv_ver_fateful_battle_bgm8
     title: "A Kiss for Geese Cyber Edit -KOF XIV ver.- (Fateful Battle BGM8)"
-    path: "bgm_ryoxges.pos"
+    path: "bgm_ryoxges.txtp"
     type: battle
   - id: burning_on_credits
     title: "Burning on (Credits)"
@@ -30,19 +30,19 @@ songs:
     type: betting
   - id: full_burst_fateful_battle_bgm14
     title: "Full Burst (Fateful Battle BGM14)"
-    path: "bgm_shuxkkr.pos"
+    path: "bgm_shuxkkr.txtp"
     type: battle
   - id: kd_0079_kof_xiv_ver_fateful_battle_bgm11
     title: "KD-0079 -KOF XIV ver.- (Fateful Battle BGM11)"
-    path: "bgm_kdhxrlf.pos"
+    path: "bgm_kdhxrlf.txtp"
     type: battle
   - id: london_march_kof_xiv_ver_fateful_battle_bgm10
     title: "London March -KOF XIV ver.- (Fateful Battle BGM10)"
-    path: "bgm_blyxssl.pos"
+    path: "bgm_blyxssl.txtp"
     type: battle
   - id: yappari_esaka_fateful_battle_bgm12
     title: "Yappari ESAKA? (Fateful Battle BGM12)"
-    path: "bgm_ckyoxcior.pos"
+    path: "bgm_ckyoxcior.txtp"
     type: battle
   - id: verse_appears
     title: "Verse Appears"
@@ -50,43 +50,43 @@ songs:
     type: warning
   - id: belief_kim_team_bgm
     title: "Belief (KIM TEAM BGM)"
-    path: "bgm_st_09_kim.pos"
+    path: "bgm_st_09_kim.txtp"
     type: battle
   - id: coco_south_american_team_bgm
     title: "COCO (SOUTH AMERICAN TEAM BGM)"
-    path: "bgm_st_15_sam.pos"
+    path: "bgm_st_15_sam.txtp"
     type: betting
   - id: departure_from_south_town_fata_fury_team_bgm
     title: "Departure from South Town (FATAL FURY TEAM BGM)"
-    path: "bgm_st_03_gro.pos"
+    path: "bgm_st_03_gro.txtp"
     type: battle
   - id: ice_place_kof_xiv_ver_fateful_battle_bgm5
     title: "Ice Place -KOF XIV ver.- (Fateful Battle BGM5)"
-    path: "bgm_klaxagl.pos"
+    path: "bgm_klaxagl.txtp"
     type: betting
   - id: ikari_kof_xiv_ver_fateful_battle_bgm4
     title: "IKARI -KOF XIV ver.- (Fateful Battle BGM4)"
-    path: "bgm_rlfxclk.pos"
+    path: "bgm_rlfxclk.txtp"
     type: battle
   - id: i_m_the_king_of_fighters_type_1
     title: "I'm THE KING OF FIGHTERS Type-1"
-    path: "bgm_st_17_mbs_1.pos"
+    path: "bgm_st_17_mbs_1.txtp"
     type: betting
   - id: i_m_the_king_of_fighters_type_2_antonov_bgm
     title: "I'm THE KING OF FIGHTERS Type-2 (Antonov BGM)"
-    path: "bgm_st_17_mbs_2.pos"
+    path: "bgm_st_17_mbs_2.txtp"
     type: betting
   - id: inheritance_china_team_bgm
     title: "Inheritance (CHINA TEAM BGM)"
-    path: "bgm_st_14_chn.pos"
+    path: "bgm_st_14_chn.txtp"
     type: betting
   - id: kd_sr_k_team_bgm
     title: "KD-SR (K' TEAM BGM)"
-    path: "bgm_st_06_kdh.pos"
+    path: "bgm_st_06_kdh.txtp"
     type: battle
   - id: magical_sky_another_world_team_bgm
     title: "Magical Sky (ANOTHER WORLD TEAM BGM)"
-    path: "bgm_st_12_nak.pos"
+    path: "bgm_st_12_nak.txtp"
     type: battle
   - id: member_select_1
     title: "Member Select 1"
@@ -98,110 +98,110 @@ songs:
     type: warning
   - id: member_select_3
     title: "Member Select 3"
-    path: "bgm_order_select_mission.pos"
+    path: "bgm_order_select_mission.txtp"
     type: warning
   - id: micha_iya_kof_xiv_ver_fateful_battle_bgm2
     title: "Micha iya! -KOF XIV ver.- (Fateful Battle BGM2)"
-    path: "bgm_ryoxkng.pos"
+    path: "bgm_ryoxkng.txtp"
     type: battle
   - id: new_order_kof_xiv_ver_fateful_battle_bgm7
     title: "New Order -KOF XIV ver.- (Fateful Battle BGM7)"
-    path: "bgm_kyoxior.pos"
+    path: "bgm_kyoxior.txtp"
     type: battle
   - id: order_select_before_the_battle_against_verse
     title: "ORDER SELECT before the battle against Verse"
-    path: "bgm_order_select_2.pos"
+    path: "bgm_order_select_2.txtp"
     type: warning
   - id: saxophone_under_the_moon_yagami_team_bgm
     title: "Saxophone Under the Moon (YAGAMI TEAM BGM)"
-    path: "bgm_st_05_ygm.pos"
+    path: "bgm_st_05_ygm.txtp"
     type: battle
   - id: seoul_road_kof_xiv_ver_fateful_battle_bgm3
     title: "Seoul Road -KOF XIV ver.- (Fateful Battle BGM3)"
-    path: "bgm_kimxcngcho.pos"
+    path: "bgm_kimxcngcho.txtp"
     type: battle
   - id: sky_blue_mexico_team_bgm
     title: "Sky Blue (MEXICO TEAM BGM)"
-    path: "bgm_st_13_mex.pos"
+    path: "bgm_st_13_mex.txtp"
     type: battle
   - id: soy_sauce_for_geese_kof_xiv_ver_fateful_battle_bgm1
     title: "Soy Sauce for Geese -KOF XIV ver.- (Fateful Battle BGM1)"
-    path: "bgm_tryxges.pos"
+    path: "bgm_tryxges.txtp"
     type: battle
   - id: soy_sauce_for_koyadofu_south_town_team_bgm
     title: "Soy Sauce for Koyadofu (SOUTH TOWN TEAM BGM)"
-    path: "bgm_st_07_sth.pos"
+    path: "bgm_st_07_sth.txtp"
     type: battle
   - id: splendid_soldier_women_fighters_team_bgm
     title: "Splendid Soldier (WOMEN FIGHTERS TEAM BGM)"
-    path: "bgm_st_08_wmn.pos"
+    path: "bgm_st_08_wmn.txtp"
     type: betting
   - id: survivors_under_the_sky_ikari_team_bgm
     title: "Survivors Under the Sky (IKARI TEAM BGM)"
-    path: "bgm_st_04_ikr.pos"
+    path: "bgm_st_04_ikr.txtp"
     type: battle
   - id: tachi_bou_ke_fateful_battle_bgm6
     title: "tachi bou ke (Fateful Battle BGM6)"
-    path: "bgm_atnxkns.pos"
+    path: "bgm_atnxkns.txtp"
     type: betting
   - id: tachi_bou_ke_instrumental_psycho_soldier_team_bgm
     title: "tachi bou ke -Instrumental- (PSYCHO SOLDIER TEAM BGM)"
-    path: "bgm_st_10_psy.pos"
+    path: "bgm_st_10_psy.txtp"
     type: battle
   - id: c62_kof_xiv_ver_ryuji_yamazaki_bgm
     title: "C62 -KOF XIV ver.- (Ryuji Yamazaki BGM)"
-    path: "bgm_ymz.pos"
+    path: "bgm_ymz.txtp"
     type: betting
   - id: desert_requiem_kof_xiv_ver_heidern_bgm
     title: "Desert Requiem -KOF XIV ver.- (Heidern BGM)"
-    path: "bgm_hdr.pos"
+    path: "bgm_hdr.txtp"
     type: battle
   - id: emergence_rock_howard_bgm
     title: "Emergence (Rock Howard BGM)"
-    path: "bgm_rck.pos"
+    path: "bgm_rck.txtp"
     type: battle
   - id: joker_kof_xiv_ver_oswald_bgm
     title: "JOKER -KOF XIV ver.- (Oswald BGM)"
-    path: "bgm_ozw.pos"
+    path: "bgm_ozw.txtp"
     type: battle
   - id: kiss_me_kof_xiv_ver_blue_mary_bgm
     title: "Kiss Me -KOF XIV ver.- (Blue Mary BGM)"
-    path: "bgm_mry.pos"
+    path: "bgm_mry.txtp"
     type: betting
   - id: kuri_kinton_flavor_terry_bogard_on_train_stage_bgm
     title: "Kuri Kinton Flavor (Terry Bogard on Train Stage BGM)"
-    path: "bgm_st_22_gtr.pos"
+    path: "bgm_st_22_gtr.txtp"
     type: betting
   - id: result_1
     title: "Result 1"
-    path: "bgm_result_1.pos"
+    path: "bgm_result_1.txtp"
     type: result
   - id: result_2
     title: "Result 2"
-    path: "bgm_result_2.pos"
+    path: "bgm_result_2.txtp"
     type: result
   - id: secret_circumstances_kof_xiv_ver_vanessa_bgm
     title: "Secret Circumstances -KOF XIV ver.- (Vanessa BGM)"
-    path: "bgm_vns.pos"
+    path: "bgm_vns.txtp"
     type: battle
   - id: successor_najd_bgm
     title: "Successor (Najd BGM)"
-    path: "bgm_njd.pos"
+    path: "bgm_njd.txtp"
     type: betting
   - id: w_w_iii_kof_xiv_ver_whip_bgm
     title: "W.W.III -KOF XIV ver.- (Whip BGM)"
-    path: "bgm_whp.pos"
+    path: "bgm_whp.txtp"
     type: battle
   - id: venator_ballare_official_invitation_team_bgm
     title: "Venator Ballare (OFFICIAL INVITATION TEAM BGM)"
-    path: "bgm_st_16_kmn.pos"
+    path: "bgm_st_16_kmn.txtp"
     type: betting
   - id: wa_villains_team_bgm
     title: "WA (VILLAINS TEAM BGM)"
-    path: "bgm_st_11_bad.pos"
+    path: "bgm_st_11_bad.txtp"
     type: betting
   - id: yappari_esaka_japan_team_bgm
     title: "Yappari ESAKA (JAPAN TEAM BGM)"
-    path: "bgm_st_01_esk.pos"
+    path: "bgm_st_01_esk.txtp"
     type: battle
 ...
