@@ -575,34 +575,34 @@ songs:
     type: battle
   - id: battle_terarium_pokemon
     title: "Battle! (Terarium Pokémon)"
-    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=35).txtp"
+    path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=35).txtp"
     type: battle
   - id: battle_blueberry_academy_trainer
     title: "Battle! (Academy Trainer)"
-    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=36).txtp"
+    path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=36).txtp"
     type: battle
   - id: battle_bb_league_elite_four
     title: "Battle! (BB League Elite Four)"
-    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=37).txtp"
+    path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=37).txtp"
     type: battle
   - id: battle_champion_kieran
     title: "Battle! (Champion Kieran)"
-    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=38).txtp"
+    path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=38).txtp"
     type: battle
   - id: battle_terapagos
     title: "Battle! (Terapogos)"
-    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=39).txtp"
+    path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=39).txtp"
     type: battle
   - id: battle_terapagos_the_hidden_treasure_of_area_zero
     title: "Battle! (Terapagos - The Hidden Treasure of Area Zero)"
-    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=40).txtp"
+    path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=40).txtp"
     type: battle
   - id: battle_pecharunt
     title: "Battle! (Pecharunt)"
-    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=56).txtp"
+    path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=56).txtp"
     type: battle
   - id: battle_tera_pokemon_in_the_terarium
     title: "Battle! (Tera Pokémon in the Terarium)"
-    path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC02=57).txtp"
+    path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=57).txtp"
     type: battle
 ...
