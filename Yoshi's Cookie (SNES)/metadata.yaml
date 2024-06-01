@@ -1,0 +1,96 @@
+---
+id: yoshi_s_cookie_snes
+title: "Yoshi's Cookie (SNES)"
+series: mario
+platform: ["SNES", "NES", "GB"]
+year: 1993
+songs: 
+  - id: yoshi_s_cookie
+    title: "Yoshi's Cookie"
+    path: "02 Yoshi's Cookie.spc"
+    type: result
+  - id: preparing_the_cookie_factory
+    title: "Preparing the Cookie Factory"
+    path: "03 Preparing the Cookie Factory.spc"
+    type: warning
+  - id: two_player_bakeoff
+    title: "Two-Player Bakeoff"
+    path: "07 Two-Player Bakeoff.spc"
+    type: betting
+  - id: high_speed_baking_action
+    title: "High-Speed Baking Action!"
+    path: "09 High-Speed Baking Action!.spc"
+    type: betting
+  - id: panic_panic
+    title: "Panic! Panic!"
+    path: "10 Panic! Panic!.spc"
+    type: warning
+  - id: enslaved
+    title: "Enslaved!"
+    path: "11 Enslaved!.spc"
+    type: warning
+  - id: and_the_winner
+    title: "And the Winner...?"
+    path: "13 And the Winner..._.spc"
+    type: result
+  - id: easygoing
+    title: "Easygoing"
+    path: "14 Easygoing.spc"
+    type: betting
+  - id: frantic_factory
+    title: "Frantic Factory"
+    path: "15 Frantic Factory.spc"
+    type: warning
+  - id: dance_of_cookies
+    title: "Dance of Cookies"
+    path: "16 Dance of Cookies.spc"
+    type: result
+  - id: crazy_cookie_chase
+    title: "Crazy Cookie Chase"
+    path: "19 Crazy Cookie Chase.spc"
+    type: betting
+  - id: happy_ending_yoshi_s_cookie
+    title: "Happy Ending"
+    path: "22 Happy Ending.spc"
+    type: result
+  - id: almost_done
+    title: "Almost Done!"
+    path: "99 Almost Done!.spc"
+    type: warning
+  - id: bake_sale
+    title: "Bake Sale"
+    path: "99 Bake Sale.spc"
+    type: betting
+  - id: bakery_bugle
+    title: "Bakery Bugle"
+    path: "99 Bakery Bugle.spc"
+    type: betting
+  - id: baking_blues
+    title: "Baking Blues"
+    path: "99 Baking Blues.spc"
+    type: result
+  - id: check_and_circle_groove
+    title: "Check and Circle Groove"
+    path: "99 Check and Circle Groove.spc"
+    type: warning
+  - id: cookie_boogie
+    title: "Cookie-Boogie"
+    path: "99 Cookie-Boogie.spc"
+    type: betting
+  - id: donut_o_sailing
+    title: "Donut 'o Sailing"
+    path: "99 Donut 'o Sailing.spc"
+    type: break
+  - id: unused_song_yoshi_s_cookie
+    title: "Unused Song"
+    path: "99 Unused Song.spc"
+    type: result
+  - id: weighin_and_stackin
+    title: "Weighin' and Stackin'"
+    path: "99 Weighin' and Stackin'.spc"
+    type: result
+  - id: where_have_the_cookies_gone
+    title: "Where Have the Cookies Gone?"
+    path: "99 Where Have the Cookies Gone_.spc"
+    type: warning
+...

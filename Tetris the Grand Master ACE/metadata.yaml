@@ -1,0 +1,23 @@
+---
+id: tetris_the_grand_master_ace
+title: "Tetris: The Grand Master ACE"
+platform: "360"
+year: 2005
+songs: 
+  - id: game_a_katyusha
+    title: "Game A (Katyusha)"
+    path: "Game A (Katyusha).brstm"
+    type: betting
+  - id: kalinka_tgm_ace
+    title: "Kalinka"
+    path: "Kalinka.brstm"
+    type: battle
+  - id: katyusha_tgm_ace
+    title: "Katyusha"
+    path: "Katyusha.brstm"
+    type: battle
+  - id: korobushka_tgm_ace
+    title: "Korobushka"
+    path: "Korobushka.brstm"
+    type: battle
+...

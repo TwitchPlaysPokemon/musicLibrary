@@ -13,8 +13,48 @@ songs:
     title: "Overworld (Super Mario World)"
     path: "BGM_048.dspadpcm.bcstm"
     type: betting
+  - id: peach_s_castle_pad_smb_edition
+    title: "Peach's Castle (Super Mario 64)"
+    path: "BGM_050.dspadpcm.bcstm"
+    type: break
+  - id: title_pad_smb_edition
+    title: "Title"
+    path: "BGM_005.dspadpcm.bcstm"
+    type: result
+  - id: toad_house_pad_smb_edition
+    title: "Toad House"
+    path: "BGM_043.dspadpcm.bcstm"
+    type: break
+  - id: world_1_pad_smb_edition
+    title: "World 1"
+    path: "BGM_006.dspadpcm.bcstm"
+    type: betting
+  - id: world_2_pad_smb_edition
+    title: "World 2"
+    path: "BGM_007.dspadpcm.bcstm"
+    type: break
   - id: world_3_pad_smb_edition
     title: "World 3"
     path: "BGM_008.dspadpcm.bcstm"
+    type: betting
+  - id: world_4_pad_smb_edition
+    title: "World 4"
+    path: "BGM_009.dspadpcm.bcstm"
+    type: break
+  - id: world_5_pad_smb_edition
+    title: "World 5"
+    path: "BGM_010.dspadpcm.bcstm"
+    type: betting
+  - id: world_6_pad_smb_edition
+    title: "World 6"
+    path: "BGM_011.dspadpcm.bcstm"
+    type: break
+  - id: world_7_pad_smb_edition
+    title: "World 7"
+    path: "BGM_012.dspadpcm.bcstm"
+    type: warning
+  - id: world_8_pad_smb_edition
+    title: "World 8"
+    path: "BGM_013.dspadpcm.bcstm"
     type: betting
 ...

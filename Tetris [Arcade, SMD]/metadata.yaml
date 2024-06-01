@@ -6,10 +6,10 @@ year: 1988
 songs: 
   - id: game_theme_tetris_arcade_smd
     title: "Game Theme"
-    path: "BGM_DL00_TETRIS_MAIN.dspadpcm.bfstm"
+    path: "01 Tetremix A.vgz"
     type: betting
   - id: deadlock
     title: "Deadlock"
-    path: "BGM_DL01_TETRIS_PINCH.dspadpcm.bfstm"
+    path: "06 Deadlock.vgz"
     type: warning
 ...

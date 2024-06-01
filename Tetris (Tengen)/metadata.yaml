@@ -5,17 +5,21 @@ platform: "NES"
 songs:
   - id: loginska
     title: "Loginska"
-    path: "Loginska.brstm"
+    path: "02 Loginska.vgz"
     type: betting
   - id: troika
     title: "Troika"
-    path: "Troika.brstm"
+    path: "05 Troika.vgz"
     type: betting
   - id: bradinsky
     title: "Bradinsky"
-    path: "Bradinsky.brstm"
+    path: "03 Bradinsky.vgz"
     type: betting
   - id: kalinka
     title: "Kalinka"
-    path: "Kalinka.brstm"
+    path: "04 Kalinka.vgz"
+    type: result
+  - id: celebration_tengen_tetris
+    title: "Celebration"
+    path: "07 Celebration.vgz"
     type: result

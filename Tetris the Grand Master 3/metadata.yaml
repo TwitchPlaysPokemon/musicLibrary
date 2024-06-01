@@ -1,0 +1,63 @@
+---
+id: tetris_the_grand_master_3_terror_instinct
+title: "Tetris: The Grand Master 3 – Terror-Instinct"
+platform: "Arcade"
+year: 2005
+songs: 
+  - id: main_menu_tgm3
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: result
+  - id: player_data_tgm3
+    title: "Player Data"
+    path: "Player Data.brstm"
+    type: warning
+  - id: name_entry_tgm3
+    title: "Name Entry"
+    path: "Name Entry.brstm"
+    type: warning
+  - id: vs_game_tgm3
+    title: "VS Game"
+    path: "VS Game.brstm"
+    type: battle
+  - id: level_1_tgm3
+    title: "Level 1"
+    path: "Level 1.brstm"
+    type: betting
+  - id: level_2_tgm3
+    title: "Level 2"
+    path: "Level 2.brstm"
+    type: betting
+  - id: level_3_tgm3
+    title: "Level 3"
+    path: "Level 3.brstm"
+    type: warning
+  - id: level_4_tgm3
+    title: "Level 4"
+    path: "Level 4.brstm"
+    type: warning
+  - id: level_5_tgm3
+    title: "Level 5"
+    path: "Level 5.brstm"
+    type: warning
+  - id: level_6_tgm3
+    title: "Level 6"
+    path: "Level 6.brstm"
+    type: warning
+  - id: result_tgm3
+    title: "Result"
+    path: "Result.brstm"
+    type: result
+  - id: sakura_normal_tgm3
+    title: "Sakura (Normal)"
+    path: "Sakura (Normal).brstm"
+    type: betting
+  - id: sakura_2
+    title: "Sakura 2"
+    path: "Sakura 2.brstm"
+    type: betting
+  - id: sakura_2b
+    title: "Sakura 2b"
+    path: "Sakura 2b.brstm"
+    type: betting
+...

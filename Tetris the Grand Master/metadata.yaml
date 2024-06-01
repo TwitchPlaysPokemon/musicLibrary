@@ -1,0 +1,27 @@
+---
+id: tetris_the_grand_master
+title: "Tetris: The Grand Master"
+platform: "Arcade"
+year: 1998
+songs: 
+  - id: hardening_drops_normal_mix_under_level_500
+    title: "Hardening Drops (Normal Mix) - Under Level 500"
+    path: "02 Hardening Drops (Normal Mix) - Under Level 500.vgz"
+    type: betting
+  - id: hardening_drops_instant_death_mix_over_level_500
+    title: "Hardening Drops (Instant Death Mix) - Over Level 500"
+    path: "03 Hardening Drops (Instant Death Mix) - Over Level 500.vgz"
+    type: warning
+  - id: happy_happy_ending
+    title: "Happy Happy - Ending"
+    path: "04 Happy Happy - Ending.vgz"
+    type: result
+  - id: results_tetris_tgm
+    title: "Results"
+    path: "06 Results.vgz"
+    type: result
+  - id: let_s_live_variously_battle_bgm
+    title: "Let's Live Variously - Battle BGM"
+    path: "08 Let's Live Variously - Battle BGM.vgz"
+    type: warning
+...

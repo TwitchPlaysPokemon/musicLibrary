@@ -1,0 +1,30 @@
+id: tetris_bps
+title: "Tetris (Bullet Proof Software)"
+year: 1988
+platform: "FDS"
+songs:
+  - id: technotris_bps
+    title: "Technotris"
+    path: "02 Technotris.vgz"
+    type: betting
+  - id: kalinka_bps
+    title: "Kalinka"
+    path: "03 Kalinka.vgz"
+    type: betting
+  - id: troika_bps
+    title: "Troika"
+    path: "04 Troika.vgz"
+    type: betting
+  - id: celebration_1
+    title: "Celebration 1"
+    path: "05 Celebration 1.vgz"
+    type: result
+  - id: celebration_2
+    title: "Celebration 2"
+    path: "06 Celebration 2.vgz"
+    type: result
+  - id: heroes_bps
+    title: "Heroes"
+    path: "07 Heroes.vgz"
+    type: result
+...

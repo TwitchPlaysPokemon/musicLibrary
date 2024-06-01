@@ -112,4 +112,24 @@ songs:
     title: "Colosseum Death Match"
     path: "Colosseum Death Match.brstm"
     type: battle
+  - id: bombing_mission
+    title: "Bombing Mission"
+    path: "Bombing Mission.brstm"
+    type: betting
+  - id: collapsed_expressway
+    title: "Collapsed Expressway"
+    path: "Collapsed Expressway.brstm"
+    type: betting
+  - id: infinity_s_end
+    title: "Infinity's End"
+    path: "Infinity's End.brstm"
+    type: battle
+  - id: j_e_n_o_v_a_quickening
+    title: "J-E-N-O-V-A - Quickening"
+    path: "J-E-N-O-V-A - Quickening.brstm"
+    type: battle
+  - id: shinra_s_theme
+    title: "Shinra's Theme"
+    path: "Shinra's Theme.brstm"
+    type: betting
 ...

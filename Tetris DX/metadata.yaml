@@ -1,0 +1,51 @@
+---
+id: tetris_dx
+title: "Tetris DX"
+platform: "GBC"
+year: 1998
+songs: 
+  - id: title_tetdx
+    title: "Title"
+    path: "Title (Without Intro).brstm"
+    type: betting
+  - id: music_a_tetdx
+    title: "Music A"
+    path: "Music A (Normal).brstm"
+    type: betting
+  - id: music_b_tetdx
+    title: "Music B"
+    path: "Music B (Normal & Menu).brstm"
+    type: break
+  - id: music_c_tetdx
+    title: "Music C"
+    path: "Music C (Normal).brstm"
+    type: betting
+  - id: korobeiniki_unused
+    title: "Korobeiniki (Unused)"
+    path: "Korobeiniki (Full Unused).brstm"
+    type: betting
+  - id: danger_tetdx
+    title: "Danger"
+    path: "Danger (Above 16 Lines).brstm"
+    type: warning
+  - id: unused_bgm_tetdx
+    title: "Unused BGM"
+    path: "Unused BGM.brstm"
+    type: result
+  - id: win_vs_com_and_continue
+    title: "Win (VS Com) + Continue"
+    path: "Win (VS Com) + Continue.brstm"
+    type: result
+  - id: new_hi_score_tetdx
+    title: "New Hi Score"
+    path: "New Hi Score.brstm"
+    type: result
+  - id: 3_wins_vs_com
+    title: "3 Wins (VS Com)"
+    path: "3 Wins (VS Com).brstm"
+    type: result
+  - id: 3_losses_vs_com
+    title: "3 Losses (VS Com)"
+    path: "3 Losses (VS Com).brstm"
+    type: result
+...
