@@ -1,0 +1,37 @@
+---
+id: toree_2
+title: "Toree 2"
+platform: ["Switch", "PC"]
+year: 2021
+songs: 
+  - id: hidden_headquarters
+    title: "Hidden Headquarters"
+    path: "Hidden Headquarters.brstm"
+    type: betting
+  - id: lunar_lasers
+    title: "Lunar Lasers"
+    path: "Lunar Lasers.brstm"
+    type: battle
+  - id: palmtree_paradise_toree
+    title: "Palmtree Paradise"
+    path: "Palmtree.brstm"
+    type: betting
+  - id: pyro_palace
+    title: "Pyro Palace"
+    path: "Pyro Palace.brstm"
+    type: betting
+  - id: sky_station_toree
+    title: "Sky Station"
+    path: "Sky Station 2.16.brstm"
+    ends: 2:14
+    type: betting
+  - id: sparkle_park
+    title: "Sparkle Park"
+    path: "Sparkle Park.brstm"
+    ends: 3:14
+    type: betting
+  - id: torch_tower
+    title: "Torch Tower"
+    path: "Torch Tower.brstm"
+    type: betting
+...

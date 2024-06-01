@@ -8,4 +8,45 @@ songs:
     title: "Level 0"
     path: "Level 0.brstm"
     type: break
+#this isn't really part of the main music, per se, so I'm not brstm-ing these. Not right away, anyway.
+  - id: level_1_tetris_cd_i
+    title: "Level 1"
+    path: "Level 1.mp3"
+    type: break
+  - id: level_2_tetris_cd_i
+    title: "Level 2"
+    path: "Level 2.mp3"
+    type: break
+  - id: level_3_tetris_cd_i
+    title: "Level 3"
+    path: "Level 3.mp3"
+    type: break
+  - id: level_4_tetris_cd_i
+    title: "Level 4"
+    path: "Level 4.mp3"
+    type: break
+  - id: level_5_tetris_cd_i
+    title: "Level 5"
+    path: "Level 5.mp3"
+    type: betting
+  - id: level_6_tetris_cd_i
+    title: "Level 6"
+    path: "Level 6.mp3"
+    type: break
+  - id: level_7_tetris_cd_i
+    title: "Level 7"
+    path: "Level 7.mp3"
+    type: betting
+  - id: level_8_tetris_cd_i
+    title: "Level 8"
+    path: "Level 8.mp3"
+    type: betting
+  - id: level_9_tetris_cd_i
+    title: "Level 9"
+    path: "Level 9.mp3"
+    type: warning
+  - id: high_scores_tetris_cd_i
+    title: "High Scores"
+    path: "High Scores.mp3"
+    type: result
 ...

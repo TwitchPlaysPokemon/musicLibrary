@@ -1,0 +1,55 @@
+---
+id: final_fantasy_vii_rebirth
+title: "Final Fantasy VII Rebirth"
+platform: "PS5"
+year: 2024
+songs: 
+  - id: cacneo_carnival
+    title: "Cacneo Carnival"
+    path: "Cacneo Carnival.brstm"
+    type: betting
+  - id: enter_the_donberry
+    title: "Enter the Donberry"
+    path: "Enter the Donberry.brstm"
+    type: betting
+  - id: anuran_suppresor
+    title: "Anuran Suppressor"
+    path: "Anuran Suppressor.brstm"
+    type: battle
+  - id: tussle_with_the_turks
+    title: "Tussle with the Turks"
+    path: "Tussle with the Turks.brstm"
+    type: battle
+  - id: demon_gates_part_i
+    title: "Demon Gates - Part I"
+    path: "Demon Gates - Part I.brstm"
+    type: warning
+  - id: demon_gates_part_ii
+    title: "Demon Gates - Part II"
+    path: "Demon Gates - Part II.brstm"
+    type: battle
+  - id: battle_on_the_big_bridge_rebirth_part_i
+    title: "Battle on the Big Bridge - Rebirth - Part I"
+    path: "Battle on the Big Bridge - Rebirth - Part I.brstm"
+    type: battle
+  - id: battle_on_the_big_bridge_rebirth_part_ii
+    title: "Battle on the Big Bridge - Rebirth - Part II"
+    path: "Battle on the Big Bridge - Rebirth - Part II.brstm"
+    type: battle
+  - id: j_e_n_o_v_a_tenacity
+    title: "J-E-N-O-V-A - Tenacity"
+    path: "J-E-N-O-V-A - Tenacity.brstm"
+    type: battle
+  - id: rumble_with_rufus_part_i
+    title: "Rumble with Rufus - Part I"
+    path: "Rumble with Rufus - Part I.brstm"
+    type: battle
+  - id: rumble_with_rufus_part_ii_and_iii
+    title: "Rumble with Rufus - Part II & III"
+    path: "Rumble with Rufus - Part II & III.brstm"
+    type: battle
+  - id: one_winged_angel_reborn
+    title: "One Winged Angel - Reborn"
+    path: "One Winged Angel - Reborn.brstm"
+    type: battle
+...

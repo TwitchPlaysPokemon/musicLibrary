@@ -1,0 +1,27 @@
+﻿---
+id: pokerogue
+title: "PokéRogue"
+series: pokemon
+platform: "PC"
+is_fanwork: true
+year: 2024
+#these were the only songs not ripped from the DS games lmao
+songs:
+  - id: title_screen_pokerogue
+    title: "Title Screen"
+    path: "title.mp3"
+    type: break
+  - id: metropolis_biome
+    title: "Metropolis Biome"
+    path: "metropolis.mp3"
+    type: betting
+  - id: laboratory_biome
+    title: "Laboratory Biome"
+    path: "laboratory.mp3"
+    type: betting
+  - id: jungle_biome
+    title: "Jungle Biome"
+    path: "jungle.mp3"
+    ends: 1:06
+    type: betting
+...

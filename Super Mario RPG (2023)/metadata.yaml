@@ -1,5 +1,5 @@
 ---
-id: super_mario_rpg_2023
+id: super_mario_rpg_switch
 title: "Super Mario RPG (2023)"
 series: mario
 platform: "Switch"
@@ -7,24 +7,197 @@ year: 2023
 #I tried using the official game rips... and they didn't work
 #so Tetris 99 versions for now
 songs: 
-  - id: fight_against_monsters_2023
-    title: "Fight Against Monsters"
+  - id: battling_monsters_switch
+    title: "Battling Monsters"
     path: "BGM_GAME_DEF_1.bfwav"
     type: battle
-  - id: fight_against_a_somewhat_stronger_monster_2023
-    title: "Fight Against a Somewhat Stronger Monster"
+  - id: battling_strongish_monsters_switch
+    title: "Battling Strongish Monsters"
     path: "BGM_GAME_DEF_2.bfwav"
     type: battle
-  - id: fight_against_an_armed_boss_2023
-    title: "Fight Against an Armed Boss"
+  - id: battling_a_weapon_boss_switch
+    title: "Battling a Weapon Boss"
     path: "BGM_GAME_DEF_3.bfwav"
     type: battle
-  - id: victory_smrpg2023
-    title: "Victory!!"
+  - id: victory_smrpgswitch
+    title: "Victory!"
     path: "BGM_RESULT_A.bfwav"
     type: result
-  - id: sad_song_2023
-    title: "Sad Song"
+  - id: elegy
+    title: "Elegy"
     path: "BGM_RESULT_B.bfwav"
     type: break
+#just using the brstms lmao
+  - id: and_that_makes_me_booster_switch
+    title: "And That Makes Me Booster!"
+    path: "And That Makes Me Booster!.brstm"
+    type: betting
+  - id: barrel_volcano_switch
+    title: "Barrel Volcano"
+    path: "Barrel Volcano.brstm"
+    type: betting
+  - id: beware_of_forest_mushrooms_switch
+    title: "Beware of Forest Mushrooms"
+    path: "Beware of Forest Mushrooms.brstm"
+    type: betting
+  - id: battling_smithy_switch
+    title: "Battling Smithy"
+    path: "Battling Smithy.brstm"
+    type: battle
+  - id: valen_valentina_switch
+    title: "Valen-Valentina"
+    path: "Valen-Valentina.brstm"
+    type: betting
+  - id: monstro_town_our_paradise_switch
+    title: "Monstro Town, Our Paradise"
+    path: "Monstro Town, Our Paradise.brstm"
+    type: break
+  - id: super_mario_house_switch
+    title: "Super Mario House"
+    path: "Super Mario House.brstm"
+    type: betting
+  - id: this_is_booster_tower_switch
+    title: "This Is Booster Tower"
+    path: "This is Booster Tower.brstm"
+    type: break
+  - id: danger_aplenty_on_the_journey_switch
+    title: "Danger Aplenty on the Journey"
+    path: "Danger Aplenty on the Journey.brstm"
+    type: betting
+  - id: danger_abounds_on_the_journey_switch
+    title: "Danger Abounds on the Journey"
+    path: "Danger Abounds on the Journey.brstm"
+    type: betting
+  - id: let_s_take_the_midas_river_switch
+    title: "Let's Take the Midas River"
+    path: "Let's Take the Midas River.brstm"
+    type: result
+  - id: moleville_mountain_rail_switch
+    title: "Moleville Mountain Rail"
+    path: "Moleville Mountain Rail.brstm"
+    type: warning
+  - id: geno_s_awakening_switch
+    title: "Geno's Awakening"
+    path: "Geno's Awakening.brstm"
+    type: result
+  - id: shopping_at_seaside_town_switch
+    title: "Shopping at Seaside Town"
+    path: "Shopping at Seaside Town.brstm"
+    type: betting
+  - id: play_save_the_world_with_me_switch
+    title: "Play ''Save the World'' with Me!"
+    path: "Play _Save the World_ with Me!.brstm"
+    type: result
+  - id: rose_town_switch
+    title: "Rose Town"
+    path: "Rose Town.brstm"
+    type: betting
+  - id: battling_culex_switch
+    title: "Battling Culex"
+    path: "Battling Culex (3D_Modern).brstm"
+    type: battle
+  - id: conversation_with_culex
+    title: "Conversation with Culex"
+    path: "Conversation with Culex (3D_Modern).brstm"
+    type: break
+  - id: welcome_to_yo_ster_isle_switch
+    title: "Welcome to Yo'ster Isle!"
+    path: "Welcome to Yo'ster Isle!.brstm"
+    type: betting
+  - id: farewell_geno_switch
+    title: "Farewell, Geno..."
+    path: "Farewell, Geno... _ The Wishes from the Stars.brstm"
+    type: result
+  - id: the_axem_rangers_burst_in_switch
+    title: "The Axem Rangers Burst In"
+    path: "The Axem Rangers Burst In.brstm"
+    type: warning
+  - id: battling_bowser_smrpg_switch
+    title: "Battling Bowser"
+    path: "Battling Bowser.brstm"
+    type: warning
+  - id: battling_smithy_s_many_forms_switch
+    title: "Battling Smithy's Many Forms"
+    path: "Battling Smithy's Many Forms.brstm"
+    type: battle
+  - id: hello_happy_kingdom_switch
+    title: "Hello, Happy Kingdom"
+    path: "Hello, Happy Kingdom.brstm"
+    type: betting
+  - id: the_weapons_show_up_switch
+    title: "The Weapons Show Up"
+    path: "The Weapons Show Up.brstm"
+    type: betting
+  - id: let_s_get_fluffy_switch
+    title: "Let's Get Fluffy!"
+    path: "Let's Get Fluffy!.brstm"
+    type: betting
+  - id: the_factory_switch
+    title: "The Factory"
+    path: "The Factory.brstm"
+    type: betting
+  - id: bowsers_keep_second_visit_switch
+    title: "Bowser's Keep (Second Visit)"
+    path: "Bowser's Keep (Second Visit).brstm"
+    type: betting
+  - id: the_hill_switch
+    title: "The Hill"
+    path: "The Hill.brstm"
+    type: betting
+  - id: fun_parade_cheerful_parade_switch
+    title: "Fun Parade, Cheerful Parade"
+    path: "Fun Parade, Cheerful Parade.brstm"
+    type: betting
+  - id: fun_adventure_cheerful_adventure_switch
+    title: "Fun Adventure, Cheerful Adventure"
+    path: "Fun Adventure, Cheerful Adventure.brstm"
+    type: result
+  - id: the_bell_rings_out_at_marrymore_switch
+    title: "The Bell Rings Out at Marrymore"
+    path: "The Bell Rings Out at Marrymore.brstm"
+    type: betting
+  - id: the_sunken_ship_super_mario_rpg_switch
+    title: "The Sunken Ship"
+    path: "The Sunken Ship.brstm"
+    type: betting
+  - id: victory_over_culex_switch
+    title: "Victory Over Culex"
+    path: "Victory over Culex (3D_Modern).brstm"
+    type: result
+  - id: got_a_star_piece_switch
+    title: "Got a Star Piece!"
+    path: "Got a Star Piece!.brstm"
+    type: result
+  - id: irrepressible_star
+    title: "Irrepressible Star"
+    path: "Irrepressible Star.brstm"
+    type: warning
+  - id: let_s_race
+    title: "Let's Race"
+    path: "Let's Race.brstm"
+    type: warning
+  - id: let_s_try
+    title: "Let's Try!"
+    path: "Let's Try!.brstm"
+    type: result
+  - id: long_long_ago
+    title: "Long, Long Ago..."
+    path: "Long, Long Ago....brstm"
+    type: warning
+  - id: monsters_abound_in_the_dungeon
+    title: "Monsters Abound in the Dungeon"
+    path: "Monsters Abound in the Dungeon.brstm"
+    type: warning
+  - id: the_sword_that_scattered_the_stars
+    title: "The Sword That Scattered the Stars"
+    path: "The Sword That Scattered the Stars.brstm"
+    type: warning
+  - id: where_flowers_bloom_under_starlight
+    title: "Where Flowers Bloom Under Starlight"
+    path: "Where Flowers Bloom under Starlight.brstm"
+    type: break
+  - id: where_to
+    title: "Where To"
+    path: "Where To.brstm"
+    type: betting
 ...

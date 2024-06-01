@@ -1,0 +1,30 @@
+id: tetris_blast
+title: "Tetris Blast"
+year: 1995
+platform: "GB"
+songs:
+  - id: title_screen_blast
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: betting
+  - id: opponent_select_password_entry
+    title: "Opponent Select - Password Entry"
+    path: "Opponent Select _ Password Entry.brstm"
+    type: warning
+  - id: training_move_blast
+    title: "Training Mode"
+    path: "Training Mode.brstm"
+    type: betting
+  - id: fight_mode_blast
+    title: "Fight Mode"
+    path: "Fight Mode.brstm"
+    type: betting
+  - id: contest_mode_blast
+    title: "Contest Mode"
+    path: "Contest Mode.brstm"
+    type: warning
+  - id: credits_blast
+    title: "Credits"
+    path: "Credits.brstm"
+    type: result
+...

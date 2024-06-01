@@ -2,7 +2,7 @@
 id: epic_battle_fantasy_4
 title: "Epic Battle Fantasy 4"
 series: ebf
-platform: "PC"
+platform: ["PC", "Mobile"]
 year: 2013
 songs:
   - id: weshdoor_concert_ebf4

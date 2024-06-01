@@ -7,3 +7,20 @@ songs:
     title: "Type A"
     path: "Type A.brstm"
     type: betting
+  - id: type_b_tetris_nes
+    title: "Type B"
+    path: "Type B.brstm"
+    type: betting
+  - id: type_c_tetris_nes
+    title: "Type C"
+    path: "Type C.brstm"
+    type: betting
+  - id: ending_tetris_nes
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+  - id: high_score_tetris_master
+    title: "High Score (Tetris Master)"
+    path: "High Score.brstm"
+    type: result
+...

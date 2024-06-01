@@ -1,6 +1,6 @@
 ---
 id: tetris_the_absolute_the_grand_master_2 
-title: "Tetris the Absolute: The Grand Master 2 "
+title: "Tetris the Absolute: The Grand Master 2"
 platform: "Arcade"
 year: 2000
 songs: 
@@ -32,4 +32,8 @@ songs:
     title: "Results"
     path: "08 Results.vgz"
     type: result
+  - id: battle_bgm_tetris_absolute
+    title: "Battle BGM"
+    path: "09 Battle BGM.vgz"
+    type: battle
 ...

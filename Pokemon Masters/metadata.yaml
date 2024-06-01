@@ -753,6 +753,10 @@ songs:
     title: "Battle! (Neo Unova Champion)"
     path: "bgm_battle_neochamp_unova.logg"
     type: battle
+  - id: battle_neo_unova_champion_rival
+    title: "Battle! (Neo Unova Champion Rival)"
+    path: "bgm_battle_neochamp_unova_02.logg"
+    type: battle
 
     #Kalos - all songs from X/Y in approx. order
   - id: battle_wild_pokemon_kalos_masters
@@ -1036,6 +1040,10 @@ songs:
   - id: battle_paldea_elite_four_rika
     title: "Battle! (Paldea Elite Four: Rika)"
     path: "bgm_battle_big4_p_chiri.logg"
+    type: battle
+  - id: battle_paldea_elite_four_larry
+    title: "Battle! (Paldea Elite Four: Larry)"
+    path: "bgm_battle_big4_p_aoki.logg"
     type: battle
   - id: battle_geeta
     title: "Battle! (Geeta)"

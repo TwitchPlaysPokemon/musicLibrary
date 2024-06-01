@@ -1,0 +1,37 @@
+id: tetris_gb
+title: "Tetris"
+year: 1989
+platform: "GB"
+songs:
+  - id: type_a_v_1_0
+    title: "Type A (v. 1.0)"
+    path: "Type A Old.brstm"
+    type: betting
+  - id: type_a_v_1_1
+    title: "Type A (v. 1.1)"
+    path: "Type A New.brstm"
+    type: betting
+  - id: type_b_tetris_gb
+    title: "Type B"
+    path: "Type B.brstm"
+    type: betting
+  - id: type_c_tetris_gb
+    title: "Type C"
+    path: "Type C.brstm"
+    type: betting
+  - id: 2_player_mode_danger
+    title: "2 Player Mode - Danger!"
+    path: "2 Player Danger.brstm"
+    type: warning
+  - id: type_b_100000_points
+    title: "Type B - 100000 Points"
+    path: "B Ending.brstm"
+    type: result
+  - id: 2_player_mode_game_over
+    title: "2 Player Mode - Game Over"
+    path: "2 Player Game Over.brstm"
+    type: result
+  - id: high_score_tetris_gb
+    title: "High Score"
+    path: "High Score.brstm"
+    type: result
