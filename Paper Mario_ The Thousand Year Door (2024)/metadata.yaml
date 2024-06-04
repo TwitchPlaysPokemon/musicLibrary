@@ -9,12 +9,12 @@ songs:
     title: "Punis on the Move"
     path: "BGM_EVT_Puni_1_opus.txtp"
     type: betting
-  - id: battle_standard_ttyd_switch
-    title: "Battle - Standard"
+  - id: battle_chapter_1_ttyd_switch
+    title: "Battle - Chapter 1"
     path: "BGM_BTL_Normal_S1_opus.txtp"
     type: battle
-  - id: battle_planning_switch
-    title: "Battle - Planning"
+  - id: battle_chapter_1_think_switch
+    title: "Battle - Chapter 1 (Think)"
     path: "BGM_BTL_Normal_S1_Think_opus.txtp"
     type: betting
   - id: fahr_outpost_switch
@@ -46,19 +46,19 @@ songs:
     title: "Rogueport"
     path: "BGM_FLD_Town_S0_AB_opus.txtp"
     type: betting
-  - id: rogueport_underground_switch
-    title: "Rogueport Underground"
+  - id: rogueport_sublevel_three_switch
+    title: "Rogueport - Sublevel Three"
     path: "BGM_FLD_Town_Under_1st_2nd_3rd_opus.txtp"
     type: betting
-  - id: x-naut_fortress_switch
-    title: "X-Naut Fortress"
+  - id: x-naut_fortress_first_floor_switch
+    title: "X-Naut Fortress - First Floor"
     path: "BGM_FLD_Dungeon_2_S7_AB_opus.txtp"
     type: betting
   - id: a_brief_lecture_switch
     title: "A Brief Lecture"
     path: "BGM_EVT_Lecture_B_opus.txtp"
     type: warning
-  - id: the_curse_of_the_suspicious_black_chest
+  - id: the_curse_of_the_suspicious_black_chest_switch
     title: "The Curse of the Suspicious Black Chest"
     path: "BGM_EVT_Majin_opus.txtp"
     type: warning
@@ -66,8 +66,8 @@ songs:
     title: "Battle - Hooktail"
     path: "BGM_BTL_Boss_S1_opus.txtp"
     type: battle
-  - id: battle_doopliss_switch
-    title: "Battle - Doopliss"
+  - id: battle_impostor_mario_switch
+    title: "Battle - Impostor Mario"
     path: "BGM_BTL_Boss_S4_Last_opus.txtp"
     type: battle
   - id: make_way_for_bowser_switch
@@ -86,16 +86,16 @@ songs:
     title: "Battle - Magnus von Grapple 2.0"
     path: "BGM_BTL_Boss_S7_opus.txtp"
     type: battle
-  - id: pinata_parlor_minigame_intro_switch
-    title: "Pianta Parlor Minigame Intro"
+  - id: let_the_pianta_parlor_minigames_begin_switch
+    title: "Let the Pianta Parlor Minigames Begin!"
     path: "BGM_EVT_MiniGame_Intro_opus.txtp"
     type: warning
   - id: pinata_parlor_minigame_switch
     title: "Pianta Parlor Minigame"
     path: "BGM_EVT_MiniGame_opus.txtp"
     type: warning
-  - id: event_battle_shadow_sirens_switch
-    title: "Event Battle - Shadow Sirens"
+  - id: event_battle_three_shadows_switch
+    title: "Event Battle - Three Shadows"
     path: "BGM_BTL_Witch_opus.txtp"
     type: warning
   - id: battle_cortez_switch
@@ -106,8 +106,8 @@ songs:
     title: "The Glitz Pit"
     path: "BGM_FLD_Arena_S3_opus.txtp"
     type: warning
-  - id: battle_bowser_the_koopa_king_switch
-    title: "Battle - Bowser, the Koopa King"
+  - id: event_battle_bowser_butts_in_switch
+    title: "Event Battle - Bowser Butts In"
     path: "BGM_BTL_Bowser_S3_opus.txtp"
     type: battle
   - id: event_battle_the_champ_switch
@@ -126,40 +126,40 @@ songs:
     title: "Level Up!"
     path: "BGM_BTL_Level_Up_opus.txtp"
     type: result
-  - id: battle_boggly_woods
-    title: "Battle - Boggly Woods"
+  - id: battle_chapter_2_ttyd
+    title: "Battle - Chapter 2"
     path: "BGM_BTL_Normal_S2_opus.txtp"
     type: battle
-  - id: battle_glitzville
-    title: "Battle - Glitzville"
+  - id: battle_chapter_3_ttyd
+    title: "Battle - Chapter 3"
     path: "BGM_BTL_Normal_S3_opus.txtp"
     type: battle
-  - id: battle_twilight_town
-    title: "Battle - Twilight Town"
+  - id: battle_chapter_4_ttyd
+    title: "Battle - Chapter 4"
     path: "BGM_BTL_Normal_S4_opus.txtp"
     type: battle
-  - id: battle_keelhaul_key
-    title: "Battle - Keelhaul Key"
+  - id: battle_chapter_5_ttyd
+    title: "Battle - Chapter 5"
     path: "BGM_BTL_Normal_S5_opus.txtp"
     type: battle
-  - id: battle_riverside_station
-    title: "Battle - Riverside Station"
+  - id: battle_chapter_6_ttyd
+    title: "Battle - Chapter 6"
     path: "BGM_BTL_Normal_S6_opus.txtp"
     type: betting
   - id: battle_the_moon
     title: "Battle - The Moon"
     path: "BGM_BTL_Normal_S7_moo_opus.txtp"
     type: battle
-  - id: battle_x_naut_fortress
-    title: "Battle - X-Naut Fortress"
+  - id: battle_chapter_7_ttyd
+    title: "Battle - Chapter 7"
     path: "BGM_BTL_Normal_S7_opus.txtp"
     type: battle
-  - id: event_battle_the_true_champ
-    title: "Event Battle - The True Champ"
+  - id: battle_prince_mush
+    title: "Battle - Prince Mush"
     path: "BGM_BTL_Prince_Mush_opus.txtp"
     type: battle
-  - id: event_battle_ttyd_switch
-    title: "Event Battle"
+  - id: event_battle_1_ttyd_switch
+    title: "Event Battle 1"
     path: "BGM_BTL_SmallBoss_opus.txtp"
     type: betting
   - id: battle_gloomtail
@@ -170,28 +170,28 @@ songs:
     title: "Battle - Bonetail"
     path: "BGM_BTL_Zombaba_opus.txtp"
     type: battle
-  - id: battle_whacka
-    title: "Battle - Whacka"
+  - id: attack_a_of_the_whacka
+    title: "Attack-a of the Whacka!"
     path: "BGM_BTL_Whacka_opus.txtp"
     type: battle
   - id: battle_grodus
     title: "Battle - Grodus"
     path: "BGM_BTL_Grodus_opus.txtp"
     type: battle
-  - id: battle_bowser_ttyd_switch
-    title: "Battle - Bowser"
+  - id: battle_bowser_the_koopa_king_ttyd_switch
+    title: "Battle - Bowser, the Koopa King"
     path: "BGM_BTL_Bowser_opus.txtp"
     type: battle
-  - id: battle_lord_crump
-    title: "Battle - Lord Crump"
+  - id: event_battle_lord_crump
+    title: "Event Battle - Lord Crump"
     path: "BGM_BTL_Boss_Xnaut_S5_opus.txtp"
     type: battle
-  - id: battle_the_battle_master
-    title: "Battle - The Battle Master"
+  - id: master_of_action_commands
+    title: "Master of Action Commands"
     path: "BGM_BTL_ACMaster_opus.txtp"
     type: battle
-  - id: battle_atomic_boo
-    title: "Battle - Atomic Boo"
+  - id: event_battle_atomic_boo
+    title: "Event Battle - Atomic Boo"
     path: "BGM_BTL_Atomic_Boo_opus.txtp"
     type: warning
   - id: battle_magnus_von_grapple_1_0_switch
@@ -202,143 +202,143 @@ songs:
     title: "Battle - Smorg"
     path: "BGM_BTL_Boss_S6_opus.txtp"
     type: battle
-  - id: battle_midboss
-    title: "Battle - Midboss"
+  - id: event_battle_2_ttyd_switch
+    title: "Event Battle 2"
     path: "BGM_BTL_MiddleBoss_opus.txtp"
     type: warning
-  - id: battle_thousand_year_door_midboss
-    title: "Battle - Thousand Year Door Midboss"
+  - id: event_battle_dark_bones
+    title: "Event Battle - Dark Bones"
     path: "BGM_BTL_MiddleBoss_S8_opus.txtp"
     type: warning
-  - id: battle_rougeport_sewers
-    title: "Battle - Rougeport Sewers"
+  - id: battle_extra_ttyd_switch
+    title: "Battle - Extra"
     path: "BGM_BTL_Normal_etc_opus.txtp"
     type: battle
-  - id: an_admiral_s_memories
-    title: "An Admiral's Memories"
+  - id: bobbery_and_scarlette
+    title: "Bobbery and Scarlette"
     path: "BGM_EVT_Admiral_Bobbery_Past_opus.txtp"
     type: break
-  - id: airborne
-    title: "Airborne"
+  - id: launch_the_blimp_ttyd_switch
+    title: "Launch the Blimp!"
     path: "BGM_EVT_AirShip_opus.txtp"
     type: result
-  - id: make_way_for_bowser_but_goofier
-    title: "Make Way For... Bowser?"
+  - id: bowser_s_malaise
+    title: "Bowser's Malaise"
     path: "BGM_EVT_Bowser_Low_opus.txtp"
     type: warning
-  - id: cooking_peach
-    title: "Cooking Peach"
+  - id: princess_peach_s_strange_experiment
+    title: "Princess Peach's Strange Experiment"
     path: "BGM_EVT_Cooking_Peach_opus.txtp"
     type: break
-  - id: a_hectic_danger
-    title: "A Hectic Danger"
+  - id: backs_against_the_wall_ttyd_switch
+    title: "Backs against the Wall"
     path: "BGM_EVT_Danger_A_opus.txtp"
     type: warning
-  - id: a_catastrophic_danger
-    title: "A Catastrophic Danger"
+  - id: it_s_a_raid_ttyd_switch
+    title: "It's a Raid!"
     path: "BGM_EVT_Danger_B_opus.txtp"
     type: warning
-  - id: a_mild_caution
-    title: "A Mild Caution"
+  - id: a_falling_out_ttyd_switch
+    title: "A Falling Out"
     path: "BGM_EVT_Danger_C_opus.txtp"
     type: warning
-  - id: a_crazy_danger
-    title: "A Crazy Danger"
+  - id: cutting_it_pretty_close
+    title: "Cutting it Pretty Close!"
     path: "BGM_EVT_Danger_D_opus.txtp"
     type: warning
-  - id: an_apocalyptic_danger
-    title: "An Apocalyptic Danger"
+  - id: imprisoned_princess_peach_ttyd_switch
+    title: "Imprisoned Princess Peach"
     path: "BGM_EVT_Danger_Final_opus.txtp"
     type: warning
-  - id: follow_that_egg
-    title: "Follow That Egg!"
+  - id: catch_that_egg_ttyd_switch
+    title: "Catch That Egg!"
     path: "BGM_EVT_Egg_opus.txtp"
     type: warning
-  - id: enter_madame_flurrie
-    title: "Enter Madame Flurrie"
+  - id: madame_flurrie_switch
+    title: "Madame Flurrie (A)"
     path: "BGM_EVT_Flurrie_A_opus.txtp"
     type: betting
-  - id: enter_madame_flurrie_once_more
-    title: "Enter Madame Flurrie Once More"
+  - id: madame_flurrie_b
+    title: "Madame Flurrie (B)"
     path: "BGM_EVT_Flurrie_B_opus.txtp"
     type: betting
-  - id: the_goomba_researcher
-    title: "The Goomba Researcher"
+  - id: professor_frankly_switch
+    title: "Professor Frankly"
     path: "BGM_EVT_Frankly_opus.txtp"
     type: warning
-  - id: incoming_call
-    title: "Incoming Call"
+  - id: incoming_call_1_ttyd_switch
+    title: "Incoming Call 1"
     path: "BGM_EVT_Incoming_Call_1_opus.txtp"
     type: warning
-  - id: incoming_call_from_peach
-    title: "Incoming Call From Peach"
+  - id: incoming_call_2_ttyd_switch
+    title: "Incoming Call 2"
     path: "BGM_EVT_Incoming_Call_2_opus.txtp"
     type: warning
-  - id: later_talk
-    title: "Later Talk"
+  - id: the_sequel_ttyd_switch
+    title: "The Sequel"
     path: "BGM_EVT_Later_Talk_opus.txtp"
     type: betting
-  - id: luigi_s_tale
-    title: "Luigi's Tale"
+  - id: super_luigi_ttyd_switch
+    title: "Super Luigi"
     path: "BGM_EVT_Luigi_opus.txtp"
     type: betting
-  - id: super_mario_home
-    title: "Super Mario Home"
+  - id: mario_s_house_switch
+    title: "Mario's House"
     path: "BGM_EVT_MariosHome_opus.txtp"
     type: break
-  - id: theme_of_paper_mario
-    title: "Theme of Paper Mario"
+  - id: greetings_from_the_mushroom_kingdom
+    title: "Greetings from the Mushroom Kingdom"
     path: "BGM_EVT_MarioStory_opus.txtp"
     type: betting
-  - id: a_mouse_burglar
-    title: "A Mouse Burglar?"
+  - id: ms_mowz_ttyd_switch
+    title: "Ms. Mowz"
     path: "BGM_EVT_Ms_Mowz_A_opus.txtp"
     type: betting
-  - id: music_box_ttyd_switch
-    title: "Music Box"
+  - id: a_bittersweet_music_box_ttyd_switch
+    title: "A Bittersweet Music Box"
     path: "BGM_EVT_MusicBox_opus.txtp"
     type: break
-  - id: a_letter_from_peach_ttyd_switch
-    title: "A Letter From Peach"
+  - id: a_letter_from_princess_peach_ttyd_switch
+    title: "A Letter From Princess Peach"
     path: "BGM_EVT_Peach_Letter_opus.txtp"
     type: break
-  - id: princess_peach_super_spy
-    title: "Princess Peach, Super Spy"
+  - id: princess_peach_s_undercover_operation
+    title: "Princess Peach's Undercover Operation"
     path: "BGM_EVT_Peach_Spy_opus.txtp"
     type: betting
-  - id: a_computer_learning_love
-    title: "A Computer Learning Love"
+  - id: goodbye_tec
+    title: "Goodbye, TEC"
     path: "BGM_EVT_Peach_Tec_A_opus.txtp"
     type: break
-  - id: quiz_time_intro_ttyd_switch
-    title: "Quiz Time! (Intro)"
+  - id: thwomp_quiz_time_ttyd_switch
+    title: "Twhomp! Quiz Time!"
     path: "BGM_EVT_Quiz_Intro_opus.txtp"
     type: warning
-  - id: quiz_time_on_the_moon_intro
-    title: "Quiz Time On The Moon! (Intro)"
+  - id: thwomp_quiz_time_again
+    title: "Thwomp! Quiz Time Again!"
     path: "BGM_EVT_Quiz_Intro_S7_opus.txtp"
     type: warning
   - id: quiz_time_ttyd_switch
-    title: "Quiz Time!"
+    title: "Twhomp! Thinking Time!"
     path: "BGM_EVT_Quiz_opus.txtp"
     type: warning
-  - id: quiz_time_on_the_moon
-    title: "Quiz Time On The Moon!"
+  - id: thwomp_thinking_time_again
+    title: "Thwomp! Thinking Time Again!"
     path: "BGM_EVT_Quiz_S7_opus.txtp"
     type: warning
-  - id: act_start_ttyd_switch
-    title: "Act Start"
+  - id: chapter_start_ttyd_switch
+    title: "Chapter Start"
     path: "BGM_EVT_StageStart_opus.txtp"
     type: warning
-  - id: act_end_ttyd_switch
-    title: "Act End"
+  - id: chapter_clear_ttyd_switch
+    title: "Chapter Clear!"
     path: "BGM_EVT_StageClear_opus.txtp"
     type: result
-  - id: koopa_castle_ttyd_switch
-    title: "Koopa Castle"
+  - id: in_bowser_s_castle_ttyd_switch
+    title: "In Bowser's Castle"
     path: "BGM_FLD_Castle_K_opus.txtp"
     type: betting
-  - id: poshley_heights
+  - id: poshley_heights_switch
     title: "Poshley Heights"
     path: "BGM_FLD_Hill_S6_A_opus.txtp"
     type: betting
@@ -346,12 +346,12 @@ songs:
     title: "Super Bowser Bros. - Underwater"
     path: "BGM_FLD_Sea_K_opus.txtp"
     type: betting
-  - id: super_bowser_bros_starman_switch
-    title: "Super Bowser Bros. - Starman"
+  - id: super_bowser_bros_super_star_switch
+    title: "Super Bowser Bros. - Super Star"
     path: "BGM_FLD_Star_K_opus.txtp"
     type: warning
-  - id: end_credits_ttyd_switch
-    title: "End Credits"
+  - id: staff_credits_ttyd_switch
+    title: "Staff Credits"
     path: "BGM_SYS_StaffCredit_opus.txtp"
     type: betting
 ...
