@@ -1,0 +1,43 @@
+---
+id: super_monkey_ball_banana_rumble
+title: "Super Monkey Ball: Banana Rumble"
+platform: "Switch"
+year: 2024
+songs: 
+  - id: astrum
+    title: "Astrum"
+    path: "Astrum.brstm"
+    type: betting
+  - id: banana_farm
+    title: "Banana Farm"
+    path: "Banana Farm.brstm"
+    type: betting
+  - id: caelum
+    title: "Caelum"
+    path: "Caelum.brstm"
+    type: betting
+  - id: candy_castle_banana_rumble
+    title: "Candy Castle"
+    path: "Candy Castle.brstm"
+    type: betting
+  - id: floating_city_banana_rumble
+    title: "Floating City"
+    path: "Floating City.brstm"
+    type: battle
+  - id: golden_temple_banana_rumble
+    title: "Golden Temple"
+    path: "Golden Temple.brstm"
+    type: battle
+  - id: neon_arena_banana_rumble
+    title: "Neon Arena"
+    path: "Neon Arena.brstm"
+    type: battle
+  - id: rose_garden_banana_rumble
+    title: "Rose Garden"
+    path: "Rose Garden.brstm"
+    type: betting
+  - id: stone_valley_banana_rumble
+    title: "Stone Valley"
+    path: "Stone Valley.brstm"
+    type: betting
+...

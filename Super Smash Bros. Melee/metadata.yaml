@@ -47,6 +47,11 @@ songs:
     title: "Jungle Japes"
     path: "kongo.hps"
     type: betting
+  - id: kongo_jungle_melee
+    title: "Kongo Jungle"
+    path: "garden.hps"
+    ends: 3:00
+    type: betting
   - id: mach_rider_melee
     title: "Mach Rider"
     path: "mrider.hps"
@@ -54,6 +59,10 @@ songs:
   - id: menu_1_melee
     title: "Menu 1"
     path: "menu01.hps"
+    type: betting
+  - id: menu_2_melee
+    title: "Menu 2"
+    path: "menu3.hps"
     type: betting
   - id: mother
     title: "Mother"
@@ -135,6 +144,10 @@ songs:
     title: "Metal Battle"
     path: "sp_metal.hps"
     type: battle
+  - id: master_hand_melee
+    title: "Master Hand"
+    path: "sp_end.hps"
+    type: battle
   - id: multi_man_melee_1
     title: "Multi-Man Melee 1"
     path: "hyaku.hps"
@@ -147,6 +160,14 @@ songs:
     title: "Mute City"
     path: "mutecity.hps"
     type: battle
+  - id: big_blue_melee
+    title: "Big Blue"
+    path: "bigblue.hps"
+    type: battle
+  - id: brinstar_depths_melee
+    title: "Brinstar Depths"
+    path: "kraid.hps"
+    type: betting
   - id: poke_floats
     title: "Poké Floats"
     path: "pura.hps"

@@ -1,0 +1,63 @@
+---
+id: hi_hi_puffy_ami_yumi_puffy_ami_yumi_and_the_manga_madman
+title: "Hi Hi Puffy Ami Yumi - Puffy Ami Yumi and the Manga Madman!"
+platform: "GBA"
+year: UNRELEASED
+songs:
+  - id: title_screen_puffy_ami_yumi_manga
+    title: "Title Screen"
+    path: "01. Title Screen.minigsf"
+    type: result
+  - id: main_menu_puffy_ami_yumi_manga
+    title: "Main Menu"
+    path: "02. Main Menu.minigsf"
+    type: warning
+  - id: level_select_puffy_ami_yumi_manga
+    title: "Level Select"
+    path: "03. Level Select.minigsf"
+    type: warning
+  - id: world_1_mystery
+    title: "World 1 - Mystery"
+    path: "06. World 1 - Mystery.minigsf"
+    type: betting
+  - id: world_2_mythology
+    title: "World 2 - Mythology"
+    path: "07. World 2 - Mythology.minigsf"
+    type: betting
+  - id: world_3_adventure
+    title: "World 3 - Adventure"
+    path: "08. World 3 - Adventure.minigsf"
+    type: betting
+  - id: unused_1_puffy_ami_yumi_manga
+    title: "Unused 1"
+    path: "11. Unused 1.minigsf"
+    type: warning
+  - id: unused_2_puffy_ami_yumi_manga
+    title: "Unused 2"
+    path: "12. Unused 2.minigsf"
+    type: result 
+  - id: unused_4_puffy_ami_yumi_manga
+    title: "Unused 4"
+    path: "14. Unused 4.minigsf"
+    type: warning
+  - id: unused_7_puffy_ami_yumi_manga
+    title: "Unused 7"
+    path: "17. Unused 7.minigsf"
+    type: result
+  - id: unused_10_puffy_ami_yumi_manga
+    title: "Unused 10"
+    path: "20. Unused 10.minigsf"
+    type: warning
+  - id: unused_11_puffy_ami_yumi_manga
+    title: "Unused 11"
+    path: "21. Unused 11.minigsf"
+    type: betting 
+  - id: unused_15_puffy_ami_yumi_manga
+    title: "Unused 15"
+    path: "25. Unused 15.minigsf"
+    type: result
+  - id: unused_18_puffy_ami_yumi_manga
+    title: "Unused 18"
+    path: "28. Unused 18.minigsf"
+    type: result
+...

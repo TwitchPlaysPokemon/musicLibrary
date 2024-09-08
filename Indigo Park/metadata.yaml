@@ -1,0 +1,45 @@
+---
+id: indigo_park
+title: "Indigo Park"
+year: 2024
+platform: "PC"
+songs:
+  - id: airplayin
+    title: "Airplayin'"
+    path: "Airplayin'.brstm"
+    type: betting
+  - id: at_indigo_park_piano
+    title: "At Indigo Park (Piano)"
+    path: "At Indigo Park (Piano).brstm"
+    type: result
+  - id: barnstorming
+    title: "BARNSTORMING"
+    path: "BARNSTORMING.brstm"
+    type: battle
+  - id: caw_caw_crazy
+    title: "Caw Caw Crazy"
+    path: "Caw Caw Crazy.brstm"
+    type: battle
+  - id: lovesong_for_a_raccoon
+    title: "Lovesong for a Raccoon"
+    path: "Lovesong for a Raccoon.brstm"
+    type: break
+  - id: punky_skunk_funk
+    title: "Punky Skunk Funk"
+    path: "Punky Skunk Funk.brstm"
+    type: warning
+  - id: rambleberry_woods
+    title: "Rambleberry Woods"
+    path: "Rambleberry Woods.brstm"
+    type: betting
+  - id: rambley_express
+    title: "Rambley Express"
+    path: "Rambley Express (Extended Mix).brstm"
+    ends: 2:26
+    type: betting
+  - id: rambley_review
+    title: "Rambley Review"
+    path: "Rambley Review.brstm"
+    ends: 3:10
+    type: betting
+...

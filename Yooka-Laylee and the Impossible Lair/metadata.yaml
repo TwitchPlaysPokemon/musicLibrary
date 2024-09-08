@@ -1,0 +1,167 @@
+---
+id: yooka_laylee_and_the_impossible_lair
+title: "Yooka-Laylee and the Impossible Lair"
+platform: "Various"
+year: 2019
+songs: 
+  - id: boom_boom_blast
+    title: "Boom Bloom Blast"
+    path: "Boom Bloom Blast.brstm"
+    type: betting
+  - id: boom_boom_blast_breakthrough
+    title: "Boom Bloom Blast - Breakthrough"
+    path: "Boom Bloom Blast - Breakthrough.brstm"
+    type: betting
+  - id: factory_fright
+    title: "Factory Fright"
+    path: "Factory Fright.brstm"
+    type: betting
+  - id: queasy_quay
+    title: "Queasy Quay"
+    path: "Queasy Quay.brstm"
+    type: betting
+  - id: queasy_quay_climb
+    title: "Queasy Quay - Climb"
+    path: "Queasy Quay - Climb.brstm"
+    type: betting
+  - id: trowzer_s_theme
+    title: "Trowzer's Theme"
+    path: "Trowzer's Theme.brstm"
+    type: warning
+  - id: trowzer_s_theme_sad
+    title: "Trowzer's Theme - Sad"
+    path: "Trowzer's Theme - Sad.brstm"
+    type: result
+  - id: urban_uprise_updraft
+    title: "Urban Uprise - Updraft"
+    path: "Urban Uprise - Updraft.brstm"
+    type: betting
+  - id: hazard_hangar
+    title: "Hazard Hangar"
+    path: "Hazard Hangar.brstm"
+    type: betting
+  - id: hazard_hangar_hung
+    title: "Hazard Hangar - Hung"
+    path: "Hazard Hangar - Hung.brstm"
+    type: betting
+  - id: sawblade_evade
+    title: "Sawblade Evade"
+    path: "Sawblade Evade.brstm"
+    type: warning
+  - id: sawblade_evade_stuck
+    title: "Sawblade Evade - Stuck"
+    path: "Sawblade Evade - Stuck.brstm"
+    type: warning
+  - id: production_path
+    title: "Production Path"
+    path: "Production Path.brstm"
+    type: betting
+  - id: production_path_panic
+    title: "Production Path - Panic"
+    path: "Production Path - Panic.brstm"
+    type: battle
+  - id: cliffside_quest_cold_medley
+    title: "Cliffside Quest - Cold (Medley)"
+    path: "Cliffside Quest - Cold (Medley).brstm"
+    type: betting
+  - id: buzzsaw_falls
+    title: "Buzzsaw Falls"
+    path: "Buzzsaw Falls.brstm"
+    type: betting
+  - id: buzzsaw_falls_frozen
+    title: "Buzzsaw Falls - Frozen"
+    path: "Buzzsaw Falls - Frozen.brstm"
+    type: betting
+  - id: wild_web_woods
+    title: "Wild Web Woods"
+    path: "Wild Web Woods.brstm"
+    type: betting
+  - id: wild_web_woods_wilder
+    title: "Wild Web Woods - Wilder"
+    path: "Wild Web Woods - Wilder.brstm"
+    type: betting
+  - id: scareship_shootout
+    title: "Scareship Shootout"
+    path: "Scareship Shootout.brstm"
+    type: betting
+  - id: scareship_shootout_scroll
+    title: "Scareship Shootout Scroll"
+    path: "Scareship Shootout Scroll.brstm"
+    type: betting
+  - id: scareship_shootout_scroll_docked
+    title: "Scareship Shootout Scroll - Docked"
+    path: "Scareship Shootout Scroll - Docked.brstm"
+    type: betting
+  - id: scareship_shootout_scroll_docked_airship
+    title: "Scareship Shootout Scroll - Docked (Airship)"
+    path: "Scareship Shootout Scroll - Docked (Airship).brstm"
+    type: betting
+  - id: scareship_shootout_smoggy
+    title: "Scareship Shootout - Smoggy"
+    path: "Scareship Shootout - Smoggy.brstm"
+    type: betting
+  - id: capital_causeway
+    title: "Capital Causeway"
+    path: "Capital Causeway.brstm"
+    type: betting
+  - id: capital_causeway_chaos
+    title: "Capital Causeway - Chaos"
+    path: "Capital Causeway - Chaos.brstm"
+    type: betting
+  - id: ropeburn_ridge
+    title: "Ropeburn Ridge"
+    path: "Ropeburn Ridge.brstm"
+    type: betting
+  - id: ropeburn_ridge_rerouted
+    title: "Ropeburn Ridge - Rerouted"
+    path: "Ropeburn Ridge - Rerouted.brstm"
+    type: betting
+  - id: frantic_fountains
+    title: "Frantic Fountains"
+    path: "Frantic Fountains.brstm"
+    type: betting
+  - id: frantic_fountains_frozen
+    title: "Frantic Fountains - Frozen"
+    path: "Frantic Fountains - Frozen.brstm"
+    type: betting
+  - id: windmill_way
+    title: "Windmill Way"
+    path: "Windmill Way.brstm"
+    type: betting
+  - id: windmill_way_windy
+    title: "Windmill Way - Windy"
+    path: "Windmill Way - Windy.brstm"
+    type: betting
+  - id: conveyor_chaos
+    title: "Conveyor Chaos"
+    path: "Conveyor Chaos.brstm"
+    type: betting
+  - id: conveyor_chaos_crosswire
+    title: "Conveyor Chaos - Crosswire"
+    path: "Conveyor Chaos - Crosswire.brstm"
+    type: betting
+  - id: pumping_plant
+    title: "Pumping Plant"
+    path: "Pumping Plant.brstm"
+    type: break
+  - id: pumping_plant_powered
+    title: "Pumping Plant - Powered"
+    path: "Pumping Plant - Powered.brstm"
+    type: betting
+  - id: gasping_glade
+    title: "Gasping Glade"
+    path: "Gasping Glade.brstm"
+    type: betting
+  - id: gasping_glade_grown
+    title: "Gasping Glade - Grown"
+    path: "Gasping Glade - Grown.brstm"
+    type: betting
+  - id: turbine_trouble
+    title: "Turbine Trouble"
+    path: "Turbine Trouble.brstm"
+    type: break
+  - id: turbine_trouble_tidal
+    title: "Turbine Trouble - Tidal"
+    path: "Turbine Trouble - Tidal.brstm"
+    type: break
+...

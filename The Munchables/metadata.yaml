@@ -52,4 +52,76 @@ songs:
     title: "Wonderful Ingredients (Credits)"
     path: "BGM_STUFF.brstm"
     type: break
+  - id: stealthy_fruits
+    title: "Stealthy Fruits"
+    path: "BGM_EVENT_FUKITSU.brstm"
+    type: warning
+  - id: gourmet_mates
+    title: "Gourmet Mates"
+    path: "BGM_EVENT_NORMAL.brstm"
+    type: result
+  - id: gobbler_a_la_carte
+    title: "Gobbler à la Carte"
+    path: "BGM_HOME.brstm"
+    type: betting
+  - id: zombie_chef
+    title: "Zombie Chef"
+    path: "BGM_ST_GOAST.brstm"
+    type: betting
+  - id: zombie_chef_remix
+    title: "Zombie Chef Remix"
+    path: "BGM_ST_GOAST_RMX.brstm"
+    type: betting
+  - id: star_ving_island_remix
+    title: "Star Ving Island Remix"
+    path: "BGM_ST_ISLAND_RMX.brstm"
+    type: betting
+  - id: sizzling_paradise_remix
+    title: "Sizzling Paradise Remix"
+    path: "BGM_ST_JUNGLE_RMX.brstm"
+    type: betting
+  - id: hellfire_stew
+    title: "Hellfire Stew"
+    path: "BGM_ST_MOUNTAIN.brstm"
+    type: betting
+  - id: chocolate_dining
+    title: "Chocolate Dining"
+    path: "BGM_ST_PLANT.brstm"
+    type: battle
+  - id: chocolate_dining_remix
+    title: "Chocolate Dining Remix"
+    path: "BGM_ST_PLANT_RMX.brstm"
+    type: betting
+  - id: 20000_leagues_of_feast
+    title: "20,000 Leagues of Feast"
+    path: "BGM_ST_SEA.brstm"
+    type: betting
+  - id: 20000_leagues_of_feast_remix
+    title: "20,000 Leagues of Feast Remix"
+    path: "BGM_ST_SEA_RMX.brstm"
+    type: betting
+  - id: blue_sky_lounge
+    title: "Blue Sky Lounge"
+    path: "BGM_ST_SKY.brstm"
+    type: betting
+  - id: blue_sky_lounge_remix
+    title: "Blue Sky Lounge Remix"
+    path: "BGM_ST_SKY_RMX.brstm"
+    type: battle
+  - id: greenish_illusion
+    title: "Greenish Illusion"
+    path: "BGM_ST_SPACE.brstm"
+    type: betting
+  - id: greenish_illusion_remix
+    title: "Greenish Illusion Remix"
+    path: "BGM_ST_SPACE_RMX.brstm"
+    type: betting
+  - id: bon_appetit
+    title: "Bon Appétit"
+    path: "BGM_TITLE.brstm"
+    type: result
+  - id: eating_etiquette
+    title: "Eating Etiquette"
+    path: "BGM_TUTORIAL.brstm"
+    type: result
 ...

@@ -18,4 +18,9 @@ songs:
     path: "Winds of Fjords.it" 
     #apparently this works in winamp, but not in foobar? If it still has issues we can replace with a regular brstm
     type: betting
+  - id: raining_tacos
+    title: "Raining Tacos"
+    path: "Raining Tacos.brstm"
+    ends: 1:31
+    type: betting
 ...

@@ -130,4 +130,124 @@ songs:
     title: "Riverside Station Platform"
     path: "stg_hom1_32k.dsp"
     type: break
+  - id: battle_grodus_gcn
+    title: "Battle - Grodus"
+    path: "btl_3dh1_32k.dsp"
+    type: battle
+  - id: peace_returns_to_petalburg
+    title: "Peace Returns to Petalburg"
+    path: "evt_nsk1_32k.dsp"
+    type: result
+  - id: we_re_the_shadow_sirens
+    title: "We're the Shadow Sirens!"
+    path: "evt_wit1_32k.dsp"
+    type: warning
+  - id: a_waltz_with_tec
+    title: "A Waltz with TEC"
+    path: "evt_wlt1_32k.dsp"
+    type: result
+  - id: boggly_woods_gcn
+    title: "Boggly Woods"
+    path: "stg_fsg1_32k.dsp"
+    type: break
+  - id: hooktail_castle_gcn
+    title: "Hooktail Castle"
+    path: "stg_gnb1_32k.dsp"
+    type: betting
+  - id: creepy_steeple_gcn
+    title: "Creepy Steeple"
+    path: "stg_dim1_32k.dsp"
+    type: betting
+  - id: battle_smorg_gcn
+    title: "Battle - Smorg"
+    path: "btl_gmm1_32k.dsp"
+    type: battle
+  - id: event_battle_1_ttyd_gcn
+    title: "Event Battle 1"
+    path: "btl_kbs1_32k.dsp"
+    type: warning
+  - id: event_battle_2_ttyd_gcn
+    title: "Event Battle 2"
+    path: "btl_cbs1_32k.dsp"
+    type: warning
+  - id: twilight_trail_gcn
+    title: "Twilight Trail"
+    path: "stg_gra1_32k.dsp"
+    type: betting
+  - id: palace_of_shadow
+    title: "Palace of Shadow"
+    path: "stg_ldn1_32k.dsp"
+    type: betting
+  - id: palace_of_shadow_courtyard_tower
+    title: "Palace of Shadow - Courtyard Tower"
+    path: "stg_ldn2_32k.dsp"
+    type: betting
+  - id: palace_of_shadow_depths
+    title: "Palace of Shadow - Depths"
+    path: "stg_ldn3_32k.dsp"
+    type: betting
+  - id: the_great_tree_gcn
+    title: "The Great Tree"
+    path: "stg_okk1_32k.dsp"
+    type: betting
+  - id: launch_the_blimp_ttyd_gcn
+    title: "Launch the Blimp!"
+    path: "evt_air1_32k.dsp"
+    type: result
+  - id: meanwhile_princess_peach_ttyd_gcn
+    title: "Meanwhile, Princess Peach..."
+    path: "evt_peh1_32k.dsp"
+    type: betting
+  - id: madame_flurrie_gcn
+    title: "Madame Flurrie"
+    path: "evt_cld1_32k.dsp"
+    type: betting
+  - id: big_bob_fire
+    title: "Big Bob, Fire!"
+    path: "evt_huge_gun1_32k.dsp"
+    type: result
+  - id: professor_frankly_gcn
+    title: "Professor Frankly"
+    path: "evt_fkh1_32k.dsp"
+    type: betting
+  - id: super_luigi_ttyd_gcn
+    title: "Super Luigi"
+    path: "evt_rui1_32k.dsp"
+    type: betting
+  - id: mario_s_house_gcn
+    title: "Mario's House"
+    path: "evt_mri1_32k.dsp"
+    type: break
+  - id: ms_mowz_ttyd_gcn
+    title: "Ms. Mowz"
+    path: "evt_ccr1_32k.dsp"
+    type: warning
+  - id: riverside_station_unused
+    title: "Riverside Station (unused)"
+    path: "stg_eki1_32k.dsp"
+    type: betting
+  - id: end_of_chapter_ttyd_gcn
+    title: "End of Chapter!"
+    path: "evt_stc1_32k.dsp"
+    type: result
+  - id: supportive_voices_from_afar
+    title: "Supportive Voices from Afar"
+    path: "evt_vce1_32k.dsp"
+    type: result
+  - id: demo_title_ttyd_gcn
+    title: "Demo Title"
+    path: "sys_mmc1_32k.dsp"
+    type: result
+  - id: poshley_heights_gcn
+    title: "Poshley Heights"
+    path: "stg_pik1_32k.dsp"
+    type: betting
+  - id: seven_wonders_of_the_glitz_pit
+    title: "Seven Wonders of the Glitz Pit"
+    path: "stg_tog1_32k.dsp"
+    type: break
+  - id: twilight_town_gcn
+    title: "Twilight Town"
+    path: "stg_ugt1_32k.dsp"
+    type: betting
 ...

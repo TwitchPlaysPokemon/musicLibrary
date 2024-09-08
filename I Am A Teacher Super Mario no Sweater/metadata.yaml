@@ -1,0 +1,24 @@
+---
+id: i_am_a_teacher_super_mario_sweater
+title: "I am a Teacher: Super Mario Sweater"
+series: mario
+platform: "FDS"
+year: 1986
+songs:
+  - id: track_1_super_mario_sweater
+    title: "Track 1"
+    path: "Track 1.brstm"
+    type: break
+  - id: track_2_super_mario_sweater
+    title: "Track 2"
+    path: "Track 2.brstm"
+    type: betting
+  - id: track_3_super_mario_sweater
+    title: "Track 3"
+    path: "Track 3.brstm"
+    type: result
+  - id: track_4_super_mario_sweater
+    title: "Track 4"
+    path: "Track 4.brstm"
+    type: warning
+...

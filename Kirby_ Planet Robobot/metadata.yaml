@@ -36,7 +36,7 @@ songs:
   - id: vs_mini_masher
     title: "Vs. Mini Masher"
     path: "TRT_LP_TTCFBOSS64.dspadpcm.bcstm"
-    type: warning
+    type: battle
   - id: reproduction_of_darkness
     title: "Reproduction of Darkness"
     path: "K2Boss.dspadpcm.bcstm"
@@ -64,7 +64,7 @@ songs:
   - id: l86
     title: "L86"
     path: "TRT_LP_TTIDM1.dspadpcm.bcstm"
-    type: warning
+    type: betting
   - id: soul_0_system
     title: "Soul 0 System"
     path: "Last3Nova.dspadpcm.bcstm"
@@ -72,7 +72,7 @@ songs:
   - id: vs_the_wicked_company
     title: "Vs. The Wicked Company"
     path: "Company.dspadpcm.bcstm"
-    type: warning
+    type: battle
   - id: homeland_restored
     title: "Homeland Restored"
     path: "NormalStageOrchestra.dspadpcm.bcstm"
@@ -116,7 +116,7 @@ songs:
   - id: crazy_rolling_in_money
     title: "Crazy Rolling in Money"
     path: "TRT_LP_TTIDM2.dspadpcm.bcstm"
-    type: warning
+    type: battle
   - id: final_takeoff
     title: "Final Takeoff"
     path: "Sh6SpRockElec.dspadpcm.bcstm"
@@ -238,5 +238,50 @@ songs:
   - id: submarine_suburbs
     title: "Submarine Suburbs"
     path: "TRT_LP_TTCITY2.dspadpcm.bcstm"
+    type: betting
+  - id: caught_me_singing
+    title: "Caught Me Singing"
+    path: "AyasiiSyaka.dspadpcm.bcstm"
+    type: betting
+  - id: planet_heart
+    title: "Planet Heart"
+    path: "EndMovie.dspadpcm.bcstm"
+    type: result
+  - id: clouds_park
+    title: "Clouds Park"
+    path: "gbkumo.dspadpcm.bcstm"
+    type: result
+  - id: re_green_greens
+    title: "Re: Green Greens"
+    path: "Greens.dspadpcm.bcstm"
+    type: betting
+  - id: spinning_planet_complete
+    title: "Spinning Planet Complete"
+    path: "HappyTitle.dspadpcm.bcstm"
+    type: result
+  - id: vs_mega_masher
+    title: "VS. Mega Masher"
+    path: "k64_isyoku.dspadpcm.bcstm"
+    type: betting
+  - id: pocket_diary
+    title: "Pocket Diary"
+    path: "karankoron.dspadpcm.bcstm"
+    ends: 2:13
+    type: betting
+  - id: vagrant_keepsake_of_oblivion
+    title: "Vagrant Keepsake of Oblivion"
+    path: "Last4.dspadpcm.bcstm"
+    type: battle
+  - id: metal_n_vasion
+    title: "Metal N. Vasion"
+    path: "mboss.dspadpcm.bcstm"
+    type: warning
+  - id: return_of_meta_knight_robobot
+    title: "Return of Meta Knight"
+    path: "MetaMap.dspadpcm.bcstm"
+    type: warning
+  - id: bright_spinning_planet
+    title: "Bright Spinning Planet"
+    path: "Title.dspadpcm.bcstm"
     type: betting
 ...

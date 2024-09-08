@@ -1,0 +1,27 @@
+---
+id: nintendo_world_championships_nes_edition
+title: "Nintendo World Championships: NES Edition"
+platform: "Switch"
+year: 2024
+songs: 
+  - id: main_menu_nwcn
+    title: "Main Menu"
+    path: "STRM_BGM_MENU_INTRO.bfstm"
+    type: betting
+  - id: staff_credits_nwcn
+    title: "Staff Credits"
+    path: "bgm_fake_StaffCredit.dspadpcm.bfstm"
+    type: betting
+  - id: results_nwcn
+    title: "Results"
+    path: "jingle_game_finish.dspadpcm.bfstm"
+    type: result
+  - id: survival_mode_results_nwcn
+    title: "Survival Mode - Results"
+    path: "jingle_fake_survival_final_result.dspadpcm.bfstm"
+    type: result
+  - id: party_mode_results_nwcn
+    title: "Party Mode - Results"
+    path: "jingle_fake_party_final_result.dspadpcm.bfstm"
+    type: result
+...

@@ -1,0 +1,45 @@
+id: annalynn
+title: "Annalynn"
+platform: ["PC", "Switch"]
+year: 2021
+songs:
+  - id: alien_ravine
+    title: "Alien Ravine"
+    path: "Alien Ravine.logg"
+    type: betting
+  - id: ice_grave
+    title: "Ice Grave"
+    path: "Ice Grave.logg"
+    type: betting
+  - id: jungle_annalynn
+    title: "Jungle"
+    path: "Jungle.logg"
+    type: betting
+  - id: mineshaft_annalynn
+    title: "Mineshaft"
+    path: "Mineshaft.logg"
+    type: betting
+  - id: venom_den
+    title: "Venom Den"
+    path: "Venom Den.logg"
+    type: warning
+  - id: lava_factory
+    title: "Lava Factory"
+    path: "Lava Factory.logg"
+    type: betting
+  - id: power_up_annalynn
+    title: "Power Up"
+    path: "Power Up.logg"
+    type: warning
+  - id: top_1_annalynn
+    title: "Top 1"
+    path: "Top 1.logg"
+    type: result
+  - id: boss_annalynn
+    title: "Boss"
+    path: "Boss.logg"
+    type: battle
+  - id: credits_annalynn
+    title: "Credits"
+    path: "Credits.logg"
+    type: result

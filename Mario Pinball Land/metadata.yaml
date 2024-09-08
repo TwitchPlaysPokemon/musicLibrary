@@ -1,0 +1,72 @@
+---
+id: mario_pinball_land
+title: "Mario Pinball Land"
+series: mario
+platform: "GBA"
+year: 2004
+songs:
+  - id: title_screen_mpl
+    title: "Title Screen"
+    path: "02 Title Screen.minigsf"
+    type: result
+  - id: toad_s_blue_coin_games_tent
+    title: "Toad's Blue Coin Games Tent"
+    path: "05 Toad's Blue Coin Games Tent.minigsf"
+    type: break
+  - id: blue_coin_mini_game
+    title: "Blue Coin Mini-Game"
+    path: "06 Blue Coin Mini-Game.minigsf"
+    type: warning
+  - id: in_the_boo_house
+    title: "In the Boo House"
+    path: "07 In the Boo House.minigsf"
+    type: betting
+  - id: grassy
+    title: "Grassy"
+    path: "11 Grassy.minigsf"
+    type: betting
+  - id: petey_piranha_battle
+    title: "Petey Piranha Battle"
+    path: "12 Petey Piranha Battle.minigsf"
+    type: battle
+  - id: under_the_ice
+    title: "Under the Ice"
+    path: "16 Under the Ice.minigsf"
+    type: break
+  - id: cheep_cheep_pufferfish_battle
+    title: "Cheep Cheep Pufferfish Battle"
+    path: "17 Cheep Cheep Pufferfish Battle.minigsf"
+    type: battle
+  - id: tutankoopa_battle
+    title: "Tutankoopa Battle"
+    path: "23 Tutankoopa Battle.minigsf"
+    type: battle
+  - id: red_coin_challenge
+    title: "Red Coin Challenge"
+    path: "29 Red Coin Challenge.minigsf"
+    type: warning
+  - id: fiery
+    title: "Fiery"
+    path: "31 Fiery.minigsf"
+    type: betting
+  - id: bowser_battle_mpl
+    title: "Bowser Battle"
+    path: "32 Bowser Battle.minigsf"
+    type: warning
+  - id: ending_mpl
+    title: "Ending"
+    path: "34 Ending.minigsf"
+    type: betting
+  - id: snowy
+    title: "Snowy"
+    path: "15 Snowy.minigsf"
+    type: betting
+  - id: sandy
+    title: "Sandy"
+    path: "20 Sandy.minigsf"
+    type: betting
+  - id: invisible_mpl
+    title: "Invincible"
+    path: "27 Invincible.minigsf"
+    type: warning
+...

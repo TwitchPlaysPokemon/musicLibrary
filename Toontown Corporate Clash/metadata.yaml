@@ -1,0 +1,32 @@
+---
+id: toontown_corporate_clash
+title: "Toontown: Corporate Clash"
+platform: "PC"
+is_fanwork: true
+year: 2018
+songs:
+  - id: main_theme_april_toons
+    title: "Main Theme (April Toons)"
+    path: "Cc_s_bgm_gen_theme_apriltoons.brstm"
+    type: betting
+  - id: die
+    title: "Die"
+    path: "Cc_s_bgm_ara_hroller_int_battle.brstm"
+    type: warning
+  - id: takes_two_ta_tango_ago_go
+    title: "Takes Two Ta Tango ago go!"
+    path: "Instance_majorplayer_battle.brstm"
+    type: battle
+  - id: firestarter_battle_theme
+    title: "Firestarter Battle Theme"
+    path: "Street_firestarter.brstm"
+    type: battle
+  - id: pizza_party_in_the_front
+    title: "Pizza Party in the Front"
+    path: "Instance_plutocrat_lobby_standard.brstm"
+    type: betting
+  - id: frozen_assets_in_the_back
+    title: "Frozen Assets in the Back"
+    path: "Instance_plutocrat_lobby_cold.brstm"
+    type: warning
+...

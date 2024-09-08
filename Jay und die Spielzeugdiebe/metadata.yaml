@@ -1,0 +1,43 @@
+---
+id: ktrl_jay_und_die_spielzeugdiebe
+title: "KTRL: Jay und Die Spielzeugdiebe"
+year: 2000
+platform: "GBC"
+songs:
+  - id: title_tune_ktrl
+    title: "Title Tune"
+    path: "Title Tune.brstm"
+    type: betting
+  - id: level_1_ktrl
+    title: "Level #1"
+    path: "Level #1.brstm"
+    type: betting
+  - id: level_2_ktrl
+    title: "Level #2"
+    path: "Level #2.brstm"
+    type: betting
+  - id: sub_tune_1
+    title: "Sub Tune #1"
+    path: "Sub Tune #1.brstm"
+    type: result
+  - id: sub_tune_2
+    title: "Sub Tune #2"
+    path: "Sub Tune #2.brstm"
+    type: warning
+  - id: king_s_tune
+    title: "King's Tune"
+    path: "King's Tune.brstm"
+    type: warning
+  - id: jay_at_the_pedestal
+    title: "Jay at the Pedestal"
+    path: "Jay at the Pedestal.brstm"
+    type: result
+  - id: event_title_ktrl
+    title: "Event Title"
+    path: "Event Title.brstm"
+    type: result
+  - id: congratulations_ktrl
+    title: "Congratulations"
+    path: "Congratulations.brstm"
+    type: result
+...

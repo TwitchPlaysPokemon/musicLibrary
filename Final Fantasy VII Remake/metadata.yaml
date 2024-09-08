@@ -132,4 +132,16 @@ songs:
     title: "Shinra's Theme"
     path: "Shinra's Theme.brstm"
     type: betting
+  - id: hollow_skies
+    title: "Hollow Skies"
+    path: "Hollow Skies.brstm"
+    type: break
+  - id: smash_em_rip_em
+    title: "Smash 'Em, Rip 'Em"
+    path: "Smash 'Em, Rip 'Em.brstm"
+    type: battle
+  - id: the_prelude_reunion
+    title: "The Prelude - Reunion"
+    path: "The Prelude - Reunion.brstm"
+    type: break
 ...

@@ -159,4 +159,18 @@ songs:
     title: "Omens of Life"
     path: "108 - Omens of Life.nop"
     type: betting
+  - id: drifting_soul
+    title: "Drifting Soul"
+    path: "m38.nop"
+    ends: 3:53
+    type: betting
+  - id: drifting_soul_violin_ver
+    title: "Drifting Soul (Violin ver.)"
+    path: "bf07380100_re_bgm.nop"
+    ends: 3:53
+    type: betting
+  - id: exploration_xc2
+    title: "Exploration"
+    path: "m77.nop"
+    type: battle
 ...

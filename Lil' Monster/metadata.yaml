@@ -1,0 +1,107 @@
+---
+id: lil_monster
+title: "Lil' Monster"
+platform: "GBC"
+year: 2000
+songs: 
+  - id: aloe_lake
+    title: "Aloe Lake"
+    path: "Aloe Lake.brstm"
+    type: betting
+  - id: arena_lil_monster
+    title: "Arena"
+    path: "Arena.brstm"
+    type: warning
+  - id: battle_kids
+    title: "Battle Kids"
+    path: "Battle Kids.brstm"
+    type: warning
+  - id: burning_battle
+    title: "Burning Battle"
+    path: "Burning Battle.brstm"
+    type: warning
+  - id: continue_lil_monster
+    title: "Continue"
+    path: "Continue.brstm"
+    type: warning
+  - id: dream_hour
+    title: "Dream Hour"
+    path: "Dream Hour.brstm"
+    type: break
+  - id: gemroku
+    title: "GEMROKU"
+    path: "GEMROKU.brstm"
+    type: result
+  - id: gene_battle
+    title: "Gene Battle"
+    path: "Gene Battle.brstm"
+    type: warning
+  - id: lil_monster
+    title: "Lil' Monster"
+    path: "Lil' Monster.brstm"
+    type: result
+  - id: little_battle_lil_monster
+    title: "Little Battle"
+    path: "Little Battle.brstm"
+    type: warning
+  - id: mini_car_gp
+    title: "Mini Car GP"
+    path: "Mini Car GP.brstm"
+    type: result
+  - id: moon_battle_lil_monster
+    title: "Moon Battle"
+    path: "Moon Battle.brstm"
+    type: battle
+  - id: mt_coral
+    title: "Mt. Coral"
+    path: "Mt. Coral.brstm"
+    type: betting
+  - id: next_world_lil_monster
+    title: "Next World"
+    path: "Next World.brstm"
+    type: break
+  - id: olive_town_lil_monster
+    title: "Olive Town"
+    path: "Olive Town.brstm"
+    type: betting
+  - id: picture_book_lil_monster
+    title: "Picture Book"
+    path: "Picture Book.brstm"
+    type: result
+  - id: pin_desert
+    title: "Pin Desert"
+    path: "Pin Desert.brstm"
+    type: warning
+  - id: pop_forest
+    title: "Pop Forest"
+    path: "Pop Forest.brstm"
+    type: break
+  - id: shuffle_lil_monster
+    title: "Shuffle"
+    path: "Shuffle.brstm"
+    type: warning
+  - id: tan_field
+    title: "Tan Field"
+    path: "Tan Field.brstm"
+    type: betting
+  - id: trolling
+    title: "Trolling"
+    path: "Trolling.brstm"
+    type: warning
+  - id: victory_lil_monster
+    title: "Victory"
+    path: "Victory.brstm"
+    type: result
+  - id: wave_battle
+    title: "Wave Battle"
+    path: "Wave Battle.brstm"
+    type: warning
+  - id: world_map_lil_monster
+    title: "World Map"
+    path: "World Map.brstm"
+    type: break
+  - id: you_got_monster
+    title: "You Got Monster"
+    path: "You Got Monster.brstm"
+    type: result
+...

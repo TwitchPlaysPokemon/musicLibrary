@@ -36,7 +36,7 @@ songs:
   - id: chao_race_beginner
     title: "Chao Race - Beginner"
     path: "Chao Race - Beginner.brstm"
-    type: betting
+    type: warning
   - id: chao_race_challenge
     title: "Chao Race - Challenge"
     path: "Chao Race - Challenge.brstm"
@@ -108,7 +108,7 @@ songs:
   - id: chao_race_jewel
     title: "Chao Race - Jewel"
     path: "Chao Race - Jewel.brstm"
-    type: result
+    type: betting
   - id: menu_options_sa2
     title: "Menu - Options"
     path: "Menu - Options.brstm"

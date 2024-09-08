@@ -1,0 +1,43 @@
+---
+id: eyeshield_21_devilbats_devildays
+title: "Eyeshield 21 - Devilbats Devildays"
+platform: "GBA"
+year: 2006
+songs:
+  - id: title_e21
+    title: "Title"
+    path: "01 Title.minigsf"
+    type: result
+  - id: main_menu_e21
+    title: "Main Menu"
+    path: "02 Main Menu.minigsf"
+    type: betting
+  - id: action_scenes_e21
+    title: "Action Scenes"
+    path: "03 Action Scenes.minigsf"
+    type: warning
+  - id: gallery_e21
+    title: "Gallery"
+    path: "04 Gallery.minigsf"
+    type: break
+  - id: scene_1_e21
+    title: "Scene 1"
+    path: "05 Scene 1.minigsf"
+    type: betting
+  - id: scene_4_e21
+    title: "Scene 4"
+    path: "08 Scene 4.minigsf"
+    type: betting
+  - id: mini_game_1_e21
+    title: "Mini Game 1"
+    path: "11 Mini Game 1.minigsf"
+    type: warning
+  - id: staff_roll_e21
+    title: "Staff Roll"
+    path: "15 Staff Roll.minigsf"
+    type: betting 
+  - id: unknown_e21
+    title: "Unknown"
+    path: "16 Unknown.minigsf"
+    type: break
+...

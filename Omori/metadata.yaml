@@ -22,4 +22,24 @@ songs:
     title: "World's End Valentine"
     path: "World's End Valentine.brstm"
     type: battle
+  - id: those_who_forget_history
+    title: "Those Who Forget History"
+    path: "battle_dinos.brstm"
+    type: warning
+  - id: squall_omori
+    title: "Squall"
+    path: "battle_dw.brstm"
+    type: battle
+  - id: push_and_shove
+    title: "Push & Shove"
+    path: "battle_hooligans.brstm"
+    type: warning
+  - id: grimey_omori
+    title: "Grimey"
+    path: "battle_lab.brstm"
+    type: battle
+  - id: three_bar_logos
+    title: "Three Bar Logos"
+    path: "battle_otherworld.brstm"
+    type: betting
 ...

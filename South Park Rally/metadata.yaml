@@ -1,0 +1,39 @@
+---
+id: south_park_rally
+title: "South Park Rally"
+platform: "Various"
+year: 2000
+songs:
+  - id: track_00_spr
+    title: "Track 00"
+    path: "sp00_patt.miniusf"
+    type: battle
+  - id: track_01_spr
+    title: "Track 01"
+    path: "sp01_patt.miniusf"
+    type: betting
+  - id: track_02_spr
+    title: "Track 02"
+    path: "sp02_patt.miniusf"
+    type: betting
+  - id: track_03_spr
+    title: "Track 03"
+    path: "sp03_patt.miniusf"
+    type: betting
+  - id: track_04_spr
+    title: "Track 04"
+    path: "sp04_patt.miniusf"
+    type: betting
+  - id: track_05_spr
+    title: "Track 05"
+    path: "sp05_patt.miniusf"
+    type: result
+  - id: track_06_spr
+    title: "Track 06"
+    path: "sp06_patt.miniusf"
+    type: result
+  - id: track_07_spr
+    title: "Track 07"
+    path: "sp07_patt.miniusf"
+    type: warning
+...
