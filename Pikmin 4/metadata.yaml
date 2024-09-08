@@ -58,4 +58,25 @@ songs:
     title: "Mechanical Harp (Memory Song)"
     path: "Mechanical Harp (Memory Song).brstm"
     type: break
+  - id: blossoming_arcadia
+    title: "Blossoming Arcadia"
+    path: "Blossoming Arcadia.brstm"
+    type: break
+  - id: groovy_long_legs_paused
+    title: "Groovy Long Legs (Paused)"
+    path: "Boss - Groovy Long Legs (Phase 1 - Paused).brstm"
+    type: warning
+  - id: groovy_long_legs
+    title: "Groovy Long Legs"
+    path: "Groovy Long Legs.brstm"
+    ends: 2:48
+    type: betting
+  - id: the_waterwraith_is_coming_again
+    title: "The Waterwraith is Coming...AGAIN!"
+    path: "The Waterwraith is Coming...AGAIN!.brstm"
+    type: warning
+  - id: tough_enemy_pikmin_4
+    title: "Tough Enemy"
+    path: "Tough Enemy.brstm"
+    type: battle
 ...

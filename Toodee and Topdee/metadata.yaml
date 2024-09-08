@@ -20,6 +20,10 @@ songs:
     title: "Jungle Kingdom"
     path: "Jungle Kingdom.brstm"
     type: betting
+  - id: corruption_toodee_topdee
+    title: "Corruption"
+    path: "Corruption.brstm"
+    type: betting
   - id: korimlio
     title: "Korimlio"
     path: "Korimlio.brstm"
@@ -35,5 +39,9 @@ songs:
   - id: toodoo
     title: "Toodoo"
     path: "Toodoo.brstm"
+    type: battle
+  - id: yumbrozi
+    title: "Yumbrozi"
+    path: "Yumbrozi.brstm"
     type: battle
 ...

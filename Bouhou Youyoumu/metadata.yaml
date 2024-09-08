@@ -1,0 +1,62 @@
+﻿---
+id: bouhou_youyoumu
+title: "Bouhou Youyoumu"
+series: touhou
+is_fanwork: true
+platform: "PC"
+year: 2012
+songs:
+  - id: title_bouhou
+    title: "Title"
+    path: "title 1.30.brstm"
+    ends: 1:29
+    type: betting
+  - id: area_1_bouhou
+    title: "Area 1"
+    path: "Area 1.brstm"
+    type: betting
+  - id: area_2_bouhou
+    title: "Area 2"
+    path: "Area 2.brstm"
+    type: betting
+  - id: area_3_bouhou
+    title: "Area 3"
+    path: "Area 3.brstm"
+    type: betting
+  - id: area_4_bouhou
+    title: "Area 4"
+    path: "Area 4.brstm"
+    type: betting
+  - id: area_5_bouhou
+    title: "Area 5"
+    path: "Area 5.brstm"
+    type: betting
+  - id: area_6_bouhou
+    title: "Area 6"
+    path: "Area 6.brstm"
+    type: warning
+  - id: area_7_bouhou
+    title: "Area 7"
+    path: "Area 7.brstm"
+    type: battle
+  - id: extra_1_bouhou
+    title: "Extra 1"
+    path: "Extra 1.brstm"
+    type: betting
+  - id: extra_2_bouhou
+    title: "Extra 2"
+    path: "Extra 2.brstm"
+    type: battle
+  - id: shop_bouhou
+    title: "Shop"
+    path: "Shop.brstm"
+    type: break
+  - id: special_1_bouhou
+    title: "Special 1"
+    path: "Special 1.brstm"
+    type: betting
+  - id: special_2_bouhou
+    title: "Special 2"
+    path: "Special 2.brstm"
+    type: betting
+...

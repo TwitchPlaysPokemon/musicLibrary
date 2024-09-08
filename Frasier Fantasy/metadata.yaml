@@ -1,0 +1,39 @@
+﻿---
+id: frasier_fantasy
+title: "Frasier Fantasy"
+platform: "GB"
+year: 2023
+songs:
+  - id: tossed_salads_and_scrambled_eggs
+    title: "Tossed Salads and Scrambled Eggs"
+    path: "FF Tossed Salads and Scrambled Eggs.aac"
+    type: result
+  - id: battle_music_fraiser
+    title: "Battle Music"
+    path: "FF Battle Music.aac"
+    type: warning
+  - id: boss_music_fraiser
+    title: "Boss Music"
+    path: "FF Boss Music.aac"
+    type: warning
+  - id: ending_waltz
+    title: "Ending Waltz"
+    path: "FF Ending Waltz.aac"
+    type: result
+  - id: kacl_jingle
+    title: "KACL Jingle"
+    path: "FF KACL Jingle.aac"
+    type: result
+  - id: nervosa_shuffle
+    title: "Nervosa Shuffle"
+    path: "FF Nervosa Shuffle.aac"
+    type: result
+  - id: one_saladed_angel
+    title: "One-Saladed Angel"
+    path: "FF One-Saladed Angel.aac"
+    type: warning
+  - id: opening_symphony_fraiser
+    title: "Opening Symphony"
+    path: "FF Opening Symphony.aac"
+    type: result
+...

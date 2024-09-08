@@ -1,0 +1,59 @@
+---
+id: environmental_station_alpha
+title: "Environmental Station Alpha"
+platform: "PC"
+year: 2015
+songs: 
+  - id: ammoinen
+    title: "Ammoinen"
+    path: "Ammoinen.brstm"
+    type: break
+  - id: big_mecha
+    title: "Big Mecha"
+    path: "Big Mecha.brstm"
+    type: break
+  - id: hesitantly_descending
+    title: "Hesitantly Descending"
+    path: "Hesitantly Descending.brstm"
+    type: break
+  - id: onwards
+    title: "Onwards"
+    path: "Onwards.brstm"
+    type: break
+  - id: sigil_summoning
+    title: "Sigil Summoning"
+    path: "Sigil Summoning.brstm"
+    type: break
+  - id: sinking_feeling
+    title: "Sinking Feeling"
+    path: "Sinking Feeling.brstm"
+    type: break
+  - id: spinning_dandelion
+    title: "Spinning Dandelion"
+    path: "Spinning Dandelion.brstm"
+    type: break
+  - id: stranger_danger
+    title: "Stranger Danger"
+    path: "Stranger Danger.brstm"
+    type: betting
+  - id: submerged
+    title: "Submerged"
+    path: "Submerged.brstm"
+    type: break
+  - id: swift_mecha
+    title: "Swift Mecha"
+    path: "Swift Mecha.brstm"
+    type: battle
+  - id: the_green_room
+    title: "The Green Room"
+    path: "The Green Room.brstm"
+    type: break
+  - id: valiant
+    title: "Valiant"
+    path: "Valiant.brstm"
+    type: betting
+  - id: wistful_departure
+    title: "Wistful Departure"
+    path: "Wistful Departure.brstm"
+    type: break
+...

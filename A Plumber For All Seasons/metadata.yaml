@@ -1,0 +1,109 @@
+﻿---
+id: a_plumber_for_all_seasons
+title: "A Plumber For All Seasons"
+series: mario
+is_fanwork: true
+platform: "SNES"
+year: 2021
+songs:
+  - id: by_the_river
+    title: "By The River"
+    path: "02 By The River.spc"
+    type: betting
+  - id: turnings_of_the_season
+    title: "Turnings Of The Season"
+    path: "03 Turnings Of The Season.spc"
+    type: warning
+  - id: meadow_walk
+    title: "Meadow Walk"
+    path: "04 Meadow Walk.spc"
+    type: betting
+  - id: damp_dughout
+    title: "Damp Dugout"
+    path: "05 Damp Dugout.spc"
+    type: betting
+  - id: heading_upstream
+    title: "Heading Upstream"
+    path: "06 Heading Upstream.spc"
+    type: break
+  - id: shallow_waters
+    title: "Shallow Waters"
+    path: "07 Shallow Waters.spc"
+    type: break
+  - id: leaf_sunrays
+    title: "Leaf Sunrays"
+    path: "08 Leaf Sunrays.spc"
+    type: break
+  - id: mansion_of_mrs_gloom
+    title: "Mansion of Mrs. Gloom"
+    path: "09 Mansion of Mrs. Gloom.spc"
+    type: warning
+  - id: firewood_fortress
+    title: "Firewood Fortress"
+    path: "10 Firewood Fortress.spc"
+    type: betting
+  - id: day_s_rays
+    title: "Day's Rays"
+    path: "11 Day's Rays.spc"
+    type: result
+  - id: thicket_apfas
+    title: "Thicket"
+    path: "12 Thicket.spc"
+    type: betting
+  - id: light_drizzle_apfas
+    title: "Light Drizzle"
+    path: "13 Light Drizzle.spc"
+    type: result
+  - id: fog_and_shadow
+    title: "Fog And Shadow"
+    path: "14 Fog And Shadow.spc"
+    type: warning
+  - id: phases_of_water
+    title: "Phases of Water"
+    path: "15 Phases of Water.spc"
+    type: betting
+  - id: golden_leaves
+    title: "Golden Leaves"
+    path: "16 Golden Leaves.spc"
+    type: result
+  - id: autumn_color
+    title: "Autumn Color"
+    path: "17 Autumn Color.spc"
+    type: break
+  - id: seasonal_swimming
+    title: "Seasonal Swimming"
+    path: "18 Seasonal Swimming.spc"
+    type: break
+  - id: the_marine_biologist
+    title: "The Marine Biologist"
+    path: "19 The Marine Biologist (unused).spc"
+    type: warning
+  - id: snowscape_apfas
+    title: "Snowscape"
+    path: "20 Snowscape.spc"
+    type: result
+  - id: blind_smuir
+    title: "Blind Smuir"
+    path: "21 Blind Smuir.spc"
+    type: break
+  - id: breakbeat_darkness
+    title: "Breakbeat Darkness"
+    path: "22 Breakbeat Darkness.spc"
+    type: break
+  - id: above_it_all
+    title: "Above It All"
+    path: "23 Above It All.spc"
+    type: result
+  - id: the_end_of
+    title: "The End Of"
+    path: "24 The End Of.spc"
+    type: warning
+  - id: battle_of_destiny_apfas
+    title: "Battle Of Destiny"
+    path: "25 Battle Of Destiny.spc"
+    type: warning
+  - id: credits_apfas
+    title: "Credits"
+    path: "26 Credits.spc"
+    type: result
+...

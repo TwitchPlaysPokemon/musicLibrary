@@ -475,6 +475,10 @@ songs:
     title: "Battle! (Lance)"
     path: "bgm_battle_wataru.logg"
     type: battle
+  - id: glorious_battle_lance
+    title: "Glorious Battle! (Lance)"
+    path: "bgm_battle_wataru_ax.logg"
+    type: battle
   - id: battle_red_masters
     title: "Battle! (Red)"
     path: "bgm_battle_red.logg"
@@ -561,6 +565,10 @@ songs:
     title: "Decisive Battle! (Steven)"
     path: "bgm_battle_daigo_02.logg"
     type: battle
+  - id: glorious_battle_steven
+    title: "Glorious Battle! (Steven)"
+    path: "bgm_battle_daigo_ax.logg"
+    type: battle
   - id: battle_wallace_masters
     title: "Battle! (Wallace)"
     path: "bgm_battle_mikuri.logg"
@@ -646,6 +654,10 @@ songs:
   - id: decisive_battle_cynthia
     title: "Decisive Battle! (Cynthia)"
     path: "bgm_battle_shirona_02.logg"
+    type: battle
+  - id: glorious_battle_cynthia
+    title: "Glorious Battle! (Cynthia)"
+    path: "bgm_battle_shirona_ax.logg"
     type: battle
   - id: battle_sinnoh_frontier_brain
     title: "Battle! (Sinnoh Frontier Brain)"
@@ -841,6 +853,10 @@ songs:
     title: "Battle! (Alola Trainer)"
     path: "bgm_battle_gl_a.logg"
     type: battle
+  - id: battle_alola_trainer_masters
+    title: "Battle! (Ultra Alola Trainer)"
+    path: "bgm_battle_trainer_a_02.logg"
+    type: battle
   - id: battle_island_kahuna
     title: "Battle! (Island Kahuna)"
     path: "bgm_battle_shimakq.logg"
@@ -999,6 +1015,14 @@ songs:
     title: "Battle! (Chairman Rose)"
     path: "bgm_battle_rose.logg"
     type: battle
+  - id: battle_klara_masters
+    title: "Battle! (Klara)"
+    path: "bgm_battle_klara.logg"
+    type: battle
+  - id: battle_avery_masters
+    title: "Battle! (Avery)"
+    path: "bgm_battle_savory.logg"
+    type: battle
   - id: battle_neo_galar_champion
     title: "Battle! (Neo Galar Champion)"
     path: "bgm_battle_neochamp_galar.logg"
@@ -1020,6 +1044,14 @@ songs:
   - id: battle_nemona_masters
     title: "Battle! (Nemona)"
     path: "bgm_battle_nemo.logg"
+    type: battle
+  - id: decisive_battle_nemona_masters
+    title: "Decisive Battle! (Nemona)"
+    path: "bgm_battle_nemo_02.logg"
+    type: battle
+  - id: battle_arven
+    title: "Battle! (Arven)"
+    path: "bgm_battle_pepper.logg"
     type: battle
   - id: battle_paldea_gym_leader_masters
     title: "Battle! (Paldea Gym Leader)"
@@ -1054,6 +1086,10 @@ songs:
   - id: battle_region_s_best
     title: "Battle! (Region's Best)"
     path: "bgm_battle_player.logg"
+    type: battle
+  - id: battle_arena_trainer
+    title: "Battle! (Arena Trainer)"
+    path: "bgm_battle_arena01.logg"
     type: battle
   - id: battle_paulo
     title: "Battle! (Paulo)"
@@ -1098,6 +1134,10 @@ songs:
   - id: battle_lear
     title: "Battle! (Lear)"
     path: "Battle! Lear Pokémon Masters Soundtrack.brstm"
+    type: battle
+  - id: decisive_battle_lear
+    title: "Decisive Battle! (Lear)"
+    path: "bgm_battle_enemy02_02.logg"
     type: battle
   - id: battle_red_blue_and_leaf
     title: "Battle! (Red, Blue, and Leaf)"

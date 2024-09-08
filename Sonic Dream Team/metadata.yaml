@@ -1,0 +1,60 @@
+---
+id: sonic_dream_team
+title: "Sonic Dream Team"
+series: sonicthehedgehog
+platform: "iOS"
+year: 2023
+songs: 
+  - id: title_main_menu_sonic_dream_team
+    title: "Title / Main Menu"
+    path: "Title _ Main Menu.brstm"
+    type: betting
+  - id: dream_factory
+    title: "Dream Factory"
+    path: "Dream Factory.brstm"
+    type: betting
+  - id: dream_factory_ambient
+    title: "Dream Factory ~ Ambient"
+    path: "Dream Factory ~ Ambient.brstm"
+    type: break
+  - id: ego_city
+    title: "Ego City"
+    path: "Ego City.brstm"
+    type: betting
+  - id: ego_city_ambient
+    title: "Ego City ~ Ambient"
+    path: "Ego City ~ Ambient.brstm"
+    type: break
+  - id: nightmare_maze
+    title: "Nightmare Maze"
+    path: "Nightmare Maze.brstm"
+    type: betting
+  - id: nightmare_maze_ambient
+    title: "Nightmare Maze ~ Ambient"
+    path: "Nightmare Maze ~ Ambient.brstm"
+    type: warning
+  - id: scrambled_shores
+    title: "Scrambled Shores"
+    path: "Scramble Shores.brstm"
+    type: betting
+  - id: scrambled_shores_ambient
+    title: "Scrambled Shores ~ Ambient"
+    path: "Scrambled Shores ~ Ambient.brstm"
+    type: break
+  - id: vs_dr_crabulous
+    title: "Vs. Dr. Crabulous"
+    path: "Vs. Dr. Crabulous.brstm"
+    type: battle
+  - id: vs_guardian_hunter
+    title: "Vs. Guardian Hunter"
+    path: "Vs. Guardian Hunter.brstm"
+    type: battle
+  - id: vs_the_four_men
+    title: "Vs. The Four Men"
+    path: "Vs. The Four Men.brstm"
+    type: battle
+  - id: vs_nightmare_eggman_final_boss
+    title: "Vs. Nightmare Eggman (Final Boss)"
+    path: "Vs. Nightmare Eggman (Final Boss).brstm"
+    type: battle
+...

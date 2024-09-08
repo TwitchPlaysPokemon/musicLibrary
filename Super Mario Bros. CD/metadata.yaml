@@ -1,0 +1,26 @@
+---
+id: super_mario_bros_cd
+title: "Super Mario Bros. CD"
+series: mario
+platform: "FamicomCD" #SNES
+year: 2024
+is_fanwork: true
+#before you ask, it's a romhack of Super Mario World that envisions it as if it was a Famicom game with a CD addon
+songs: 
+  - id: menu_theme_smbcd
+    title: "Menu Theme"
+    path: "Menu Theme.brstm"
+    type: break
+  - id: title_theme_grasslands
+    title: "Title Theme / Grasslands"
+    path: "Title Theme _ Grasslands.brstm"
+    type: betting
+  - id: starman_smbcd
+    title: "Starman"
+    path: "Starman.brstm"
+    type: warning
+  - id: beach_vacation_bouba
+    title: "Beach Vacation Bouba"
+    path: "Beach Vacation Bouba (No Vocals).brstm"
+    type: betting
+...

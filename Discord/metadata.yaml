@@ -1,0 +1,28 @@
+---
+id: discord_the_app
+title: "Discord"
+platform: "Web"
+year: 2015
+#technically not a game, but you know what? Why not
+songs:
+  - id: incoming_call_discord
+    title: "Incoming Call"
+    path: "Incoming Call.brstm"
+    type: warning
+  - id: incoming_call_halloween_2020
+    title: "Incoming Call (Halloween 2020)"
+    path: "Incoming Call (Halloween 2020).brstm"
+    type: warning
+  - id: incoming_call_halloween_2022
+    title: "Incoming Call (Halloween 2022)"
+    path: "Incoming Call (Halloween 2022).brstm"
+    type: warning
+  - id: incoming_call_halloween_2023
+    title: "Incoming Call (Halloween 2023)"
+    path: "Incoming Call (Halloween 2023).brstm"
+    type: warning
+  - id: waiting_room_discord
+    title: "Waiting Room"
+    path: "Waiting Room.brstm"
+    type: break
+...

@@ -1,0 +1,43 @@
+﻿---
+id: nickelodeon_all_star_brawl_2
+title: "Nickelodeon All-Star Brawl 2"
+platform: "Various"
+year: 2023
+songs:
+  - id: the_technodrome_nick_all_star_brawl_2
+    title: "Technodrome Takedown"
+    path: "Technodrome Takedown.brstm"
+    type: battle
+  - id: jellyfish_fields_nick_all_star_brawl_2
+    title: "Jellyfish Fields"
+    path: "Jellyfish Fields.brstm"
+    type: betting
+  - id: miracle_city_volcano
+    title: "Miracle City Volcano"
+    path: "Miracle City Volcano.brstm"
+    type: battle
+  - id: main_theme_nick_all_star_brawl_2
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: main_theme_v2_nick_all_star_brawl_2
+    title: "Main Theme v2"
+    path: "Main Theme v2.brstm"
+    type: battle
+  - id: main_theme_v2_alt_nick_all_star_brawl_2
+    title: "Main Theme v2 (Alt)"
+    path: "Main Theme v2 (Alt).brstm"
+    type: betting
+  - id: campaign_nick_all_star_brawl_2
+    title: "Campaign"
+    path: "Campaign.brstm"
+    type: betting
+  - id: online_nick_all_star_brawl_2
+    title: "Online"
+    path: "Online.brstm"
+    type: betting
+  - id: vs_loading
+    title: "Vs Loading"
+    path: "Vs Loading.brstm"
+    type: warning
+...

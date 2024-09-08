@@ -102,4 +102,48 @@ songs:
     title: "Victory Against the Wild Pokémon!"
     path: "Victory Against the Wild Pokémon!.brstm"
     type: result
+  - id: battle_aklove
+    title: "Battle! Aklove"
+    path: "Battle! Aklove.brstm"
+    type: battle
+  - id: battle_frontier_brain_unbound
+    title: "Battle! Frontier Brain"
+    path: "Battle! Frontier Brain.brstm"
+    type: battle
+  - id: battle_gym_leader_sinnoh_unbound
+    title: "Battle! Gym Leader (Sinnoh)"
+    path: "Battle! Gym Leader (Sinnoh).brstm"
+    type: battle
+  - id: battle_legendary_birds_unbound
+    title: "Battle! Legendary Birds"
+    path: "Battle! Legendary Birds.brstm"
+    type: battle
+  - id: battle_light_of_ruin_grunt
+    title: "Battle! Light of Ruin Grunt"
+    path: "Battle! Light of Ruin Grunt.brstm"
+    type: battle
+  - id: frost_mountain_unbound
+    title: "Frost Mountain"
+    path: "Frost Mountain.brstm"
+    type: betting
+  - id: battle_gym_leader_unbound
+    title: "Battle! Gym Leader"
+    path: "Battle! Gym Leader.brstm"
+    type: battle
+  - id: battle_ivory
+    title: "Battle! Ivory"
+    path: "Battle! Ivory.brstm"
+    type: battle
+  - id: battle_marlon
+    title: "Battle! Marlon"
+    path: "Battle! Marlon.brstm"
+    type: battle
+  - id: battle_science_society_scientist
+    title: "Battle! Science Society Scientist"
+    path: "Battle! Science Society Scientist.brstm"
+    type: battle
+  - id: battle_zeph
+    title: "Battle! Zeph"
+    path: "Battle! Zeph.brstm"
+    type: battle
 ...

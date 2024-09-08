@@ -1,0 +1,17 @@
+---
+id: one_night_at_flumpty_s_2
+title: "One Night at Flumpty's 2"
+series: fivenightsatfreddys
+year: 2015
+is_fanwork: true
+platform: ["PC", "Mobile"]
+songs:
+  - id: classical_ish_music
+    title: "Classical-ish Music"
+    path: "Classical-ish Music.brstm"
+    type: break
+  - id: credits_8_bit
+    title: "Credits (8-Bit)"
+    path: "Credits (8-Bit).brstm"
+    type: result
+...

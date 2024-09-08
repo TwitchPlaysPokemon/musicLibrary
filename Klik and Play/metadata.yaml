@@ -1,0 +1,47 @@
+---
+id: klik_and_play
+title: "Klik & Play"
+platform: "PC"
+year: 1994
+songs:
+  - id: bridge_mid
+    title: "bridge.mid"
+    path: "bridge.mid.brstm"
+    type: break
+  - id: dna_mid
+    title: "dna.mid"
+    path: "dna.mid.brstm"
+    type: betting
+  - id: euroblue_mid
+    title: "euroblue.mid"
+    path: "euroblue.mid.brstm"
+    type: betting
+  - id: fair_mid
+    title: "fair.mid"
+    path: "fair.mid.brstm"
+    type: result
+  - id: medi_mid
+    title: "medi.mid"
+    path: "medi.mid.brstm"
+    type: break
+  - id: race1_mid
+    title: "race1.mid"
+    path: "race1.mid.brstm"
+    type: warning
+  - id: race2_mid
+    title: "race2.mid"
+    path: "race2.mid.brstm"
+    type: result
+  - id: race5_mid
+    title: "race5.mid"
+    path: "race5.mid.brstm"
+    type: betting
+  - id: title_mid
+    title: "title.mid"
+    path: "title.mid.brstm"
+    type: betting
+  - id: undwater_mid
+    title: "undwater.mid"
+    path: "undwater.mid.brstm"
+    type: break
+...

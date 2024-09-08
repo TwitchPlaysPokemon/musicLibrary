@@ -1,0 +1,19 @@
+---
+id: tux_racer
+title: "Tux Racer"
+platform: ["PC", "Arcade"]
+year: 2000
+songs: 
+  - id: title_screen_tux_racer
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+  - id: race_1_tux_racer
+    title: "Race 1"
+    path: "Race 1.brstm"
+    type: result
+  - id: race_2_tux_racer
+    title: "Race 2"
+    path: "Race 2.brstm"
+    type: betting
+...

@@ -1,0 +1,91 @@
+---
+id: jumpjet_rex
+title: "JumpJet Rex"
+platform: "PC", "PS4", "XB1"
+year: 2015
+songs: 
+  - id: tiny_arms
+    title: "Tiny Arms"
+    path: "Tiny Arms.brstm"
+    type: betting
+  - id: galaxy_map
+    title: "Galaxy Map"
+    path: "Galaxy Map.brstm"
+    type: warning
+  - id: level_1_jumpjet
+    title: "Level 1"
+    path: "Level 1.brstm"
+    type: betting
+  - id: level_2_jumpjet
+    title: "Level 2"
+    path: "Level 2.brstm"
+    type: betting
+  - id: level_3_jumpjet
+    title: "Level 3"
+    path: "Level 3.brstm"
+    type: warning
+  - id: level_4_jumpjet
+    title: "Level 4"
+    path: "Level 4.brstm"
+    type: betting
+  - id: level_6_jumpjet
+    title: "Level 6"
+    path: "Level 6.brstm"
+    type: betting
+  - id: level_7_jumpjet
+    title: "Level 7"
+    path: "Level 7.brstm"
+    type: warning
+  - id: level_8_jumpjet
+    title: "Level 8"
+    path: "Level 8.brstm"
+    type: result
+  - id: level_14_jumpjet
+    title: "Level 14"
+    path: "Level 14.brstm"
+    type: betting
+  - id: level_17_jumpjet
+    title: "Level 17"
+    path: "Level 17.brstm"
+    type: warning
+  - id: level_18_jumpjet
+    title: "Level 18"
+    path: "Level 18.brstm"
+    type: betting
+  - id: level_19_jumpjet
+    title: "Level 19"
+    path: "Level 19.brstm"
+    type: result
+  - id: level_20_jumpjet
+    title: "Level 20"
+    path: "Level 20.brstm"
+    type: result
+  - id: level_21_jumpjet
+    title: "Level 21"
+    path: "Level 21.brstm"
+    type: betting
+  - id: level_22_jumpjet
+    title: "Level 22"
+    path: "Level 22.brstm"
+    type: warning
+  - id: level_23_jumpjet
+    title: "Level 23"
+    path: "Level 23.brstm"
+    type: betting
+  - id: level_24_jumpjet
+    title: "Level 24"
+    path: "Level 24.brstm"
+    type: result
+  - id: boss_fight_1_jumpjet
+    title: "Boss Fight 1"
+    path: "Boss Fight 1.brstm"
+    type: battle
+  - id: boss_fight_2_jumpjet
+    title: "Boss Fight 2"
+    path: "Boss Fight 2.brstm"
+    type: battle
+  - id: ending_3_jumpjet
+    title: "Ending 3"
+    path: "Ending 3.brstm"
+    type: result
+...

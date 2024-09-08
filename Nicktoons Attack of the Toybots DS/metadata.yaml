@@ -1,0 +1,47 @@
+﻿---
+id: nicktoons_attack_of_the_toybots
+title: "Nicktoons: Attack of the Toybots (DS)"
+platform: "Various"
+year: 2007
+songs:
+  - id: boss_battle_toybots
+    title: "Boss Battle"
+    path: "000A BGM_BOSS.mini2sf"
+    type: battle
+  - id: professor_calamitous
+    title: "Professor Calamitous"
+    path: "000B BGM_FBOSS.mini2sf"
+    type: warning
+  - id: bikini_bottom_toybots
+    title: "Bikini Bottom"
+    path: "0004 BGM_ST01.mini2sf"
+    type: betting
+  - id: amity_park
+    title: "Amity Park"
+    path: "0000 BGM_ST02.mini2sf"
+    type: betting
+  - id: pupununu_village
+    title: "Pupununu Village"
+    path: "0008 BGM_ST05.mini2sf"
+    type: betting
+  - id: retroville
+    title: "Retroville"
+    path: "0006 BGM_ST03.mini2sf"
+    type: betting
+  - id: fairy_world
+    title: "Fairy World"
+    path: "0007 BGM_ST04.mini2sf"
+    type: betting
+  - id: title_screen_toybots
+    title: "Title Screen"
+    path: "BGM_TITLE.strm"
+    type: result
+  - id: main_menu_toybots
+    title: "Main Menu"
+    path: "0002 BGM_SYSTEM.mini2sf"
+    type: result
+  - id: stage_select_toybots
+    title: "Stage Select"
+    path: "0003 BGM_MAP.mini2sf"
+    type: warning
+...

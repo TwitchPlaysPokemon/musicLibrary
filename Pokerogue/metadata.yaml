@@ -7,8 +7,8 @@ is_fanwork: true
 year: 2024
 #these were the only songs not ripped from the DS games lmao
 songs:
-  - id: title_screen_pokerogue
-    title: "Title Screen"
+  - id: title_screen_old_pokerogue
+    title: "Title Screen (Old)"
     path: "title.mp3"
     type: break
   - id: metropolis_biome
@@ -24,4 +24,20 @@ songs:
     path: "jungle.mp3"
     ends: 1:06
     type: betting
+  - id: marine_mystique
+    title: "Marine Mystique"
+    path: "sea.brstm"
+    type: break
+  - id: sneaky_snom
+    title: "Sneaky Snom"
+    path: "slum.mp3"
+    type: warning
+  - id: laboratory_biome
+    title: "Seabed Biome"
+    path: "seabed.mp3"
+    type: warning
+  - id: aether_pokerogue
+    title: "Aether"
+    path: "space.mp3"
+    type: warning
 ...
