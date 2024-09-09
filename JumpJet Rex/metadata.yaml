@@ -1,7 +1,7 @@
 ---
 id: jumpjet_rex
 title: "JumpJet Rex"
-platform: "PC", "PS4", "XB1"
+platform: ["PC", "PS4", "XB1"]
 year: 2015
 songs: 
   - id: tiny_arms
