@@ -1061,6 +1061,10 @@ songs:
     title: "Battle! (Paldea Teacher)"
     path: "bgm_battle_teacher_paldea.logg"
     type: battle
+  - id: battle_team_star_boss_giacomo
+    title: "Battle! (Team Star Boss: Giacomo)"
+    path: "bgm_battle_star_pina.logg"
+    type: battle
   - id: battle_penny
     title: "Battle! (Penny)"
     path: "bgm_battle_button.logg"
@@ -1076,6 +1080,10 @@ songs:
   - id: battle_paldea_elite_four_larry
     title: "Battle! (Paldea Elite Four: Larry)"
     path: "bgm_battle_big4_p_aoki.logg"
+    type: battle
+  - id: battle_director_clavell_masters
+    title: "Battle! (Director Clavell)"
+    path: "bgm_battle_claver.logg"
     type: battle
   - id: battle_geeta
     title: "Battle! (Geeta)"

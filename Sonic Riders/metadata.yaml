@@ -57,4 +57,20 @@ songs:
     title: "Race Finished"
     path: "S30.ADX"
     type: result
+  - id: eggman_again
+    title: "Eggman Again!"
+    path: "S60.ADX"
+    type: warning
+  - id: get_ready_for_the_big_event
+    title: "Get Ready for the Big Event"
+    path: "TUTO.ADX"
+    type: betting
+  - id: catch_me_if_you_can_sonic_riders
+    title: "Catch Me If You Can"
+    path: "Catch Me If You Can (Looped).brstm"
+    type: betting
+  - id: sonic_speed_riders
+    title: "Sonic Speed Riders"
+    path: "Sonic Speed Riders (Looped).brstm"
+    type: betting
 ...

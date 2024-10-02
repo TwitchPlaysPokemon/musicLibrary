@@ -1,0 +1,32 @@
+---
+id: rugrats_adventures_in_gameland
+title: "Rugrats: Adventures in Gameland"
+platform: "Various"
+year: 2024
+#raw songfiles don't loop. maybe I'll brstm them later. Maybe
+songs: 
+  - id: title_screen_rugrats
+    title: "Title Screen"
+    path: "Title Screen #2446.fsb"
+    type: result
+  - id: title_screen_8bit_rugrats
+    title: "Title Screen (8-bit)"
+    path: "Title Screen.fsb"
+    type: result
+  - id: boss_rugrats
+    title: "Boss"
+    path: "Boss #2493.fsb"
+    type: warning
+  - id: boss_8bit_rugrats
+    title: "Boss (8-bit)"
+    path: "Boss.fsb"
+    type: warning
+  - id: attic_rugrats
+    title: "Attic"
+    path: "Attic #2543.fsb"
+    type: warning
+  - id: attic_8bit_rugrats
+    title: "Attic (8-bit)"
+    path: "Attic.fsb"
+    type: warning
+...

@@ -74,4 +74,59 @@ songs:
     title: "Game Over (Week 6)"
     path: "Game Over - Pixel.brstm"
     type: result
+#new tracks. I'd brstm them, but most of them are results anyway soooooooo
+  - id: shootin_ropes_pico_results_perfect_theme
+    title: "Shootin’ Ropes (Pico Results Perfect Theme)"
+    path: "Shootin Ropes.mp3"
+    type: result
+  - id: give_a_lil_bit_back_var_2
+    title: "Give a Lil Bit Back (var. 2)"
+    path: "01. Give a lil Bit Back (var. 2).mp3"
+    ends: 2:27
+    type: betting
+  - id: stay_funky_character_select
+    title: "Stay Funky (Character Select Theme)"
+    path: "02. Stay Funky (Character Select Theme) (feat. Lotus Juice).mp3"
+    ends: 2:19
+    type: betting
+  - id: hands_up_pico_results_excellent_theme
+    title: "Hands Up! (Pico Results Excellent Theme)"
+    path: "03. Hands Up! (Pico Results Excellent Theme) (feat. Kawai Sprite).mp3"
+    type: result
+  - id: get_out_the_way_pico_results_good_theme
+    title: "Get Out The Way! (Pico Results Good Theme)"
+    path: "04. Get Out The Way! (Pico Results Good Theme).mp3"
+    type: result
+  - id: game_over_pico
+    title: "Game Over (Pico)"
+    path: "05. Game Over (Pico).mp3"
+    type: result
+  - id: downwitit_results
+    title: "Downwitit (Results)"
+    path: "11. Downwitit (Results).mp3"
+    type: result
+  - id: keeper_options
+    title: "Keeper (Options)"
+    path: "12. Keeper (Options).mp3"
+    type: result
+  - id: freeplay_menu
+    title: "Freeplay Menu"
+    path: "13. Freeplay Menu.mp3"
+    type: result
+  - id: up_in_flames_pico_results_loss_theme
+    title: "Up In Flames (Pico Results Loss Theme)"
+    path: "19. Up In Flames (Pico Results Loss Theme).mp3"
+    type: result
+  - id: bluu_song_loss_theme
+    title: "Bluu Song (Loss Theme)"
+    path: "20. Bluu Song (Loss Theme).mp3"
+    type: result
+  - id: results_excellent_fnf
+    title: "Results (Excellent)"
+    path: "21. Results (Excellent).mp3"
+    type: result
+  - id: results_perfect_fnf
+    title: "Results (Perfect)"
+    path: "22. Results (Perfect).mp3"
+    type: result
 ...

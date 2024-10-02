@@ -282,4 +282,34 @@ songs:
     title: "When I Get Happy I Dance Like This"
     path: "When I Get Happy I Dance Like This.brstm"
     type: result
+#Unused Episode 2 songs
+  - id: castle_town_unfinished
+    title: "Castle Town (Unfinished)"
+    path: "castle_town_unfinished.mp3"
+    ends: 2:08
+    type: betting
+  - id: giga_queen_old
+    title: "Giga Queen (Old)"
+    path: "giga_queen_old.txtp"
+    type: battle
+  - id: power_of_neo_unfinished
+    title: "Power of NEO (Unfinished)"
+    path: "power_of_neo_unfinished_wip.txtp"
+    type: battle
+  - id: power_of_spamton
+    title: "Power of SPAMTON"
+    path: "power_of_spamton_wip.txtp"
+    type: battle
+  - id: queen_battle_original
+    title: "Queen Battle (Original)"
+    path: "queen_battle_original.txtp"
+    type: battle
+  - id: rouxls_battle_old
+    title: "Rouxls Battle (Old)"
+    path: "rouxls_battle_old.txtp"
+    type: battle
+  - id: spamton_battle_forgotten
+    title: "Spamton battle (forgotten)"
+    path: "spamton_battle_forgotten.mp3"
+    type: warning
 ...

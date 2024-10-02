@@ -1,0 +1,19 @@
+---
+id: sesame_street_abc
+title: "Sesame Street ABC"
+platform: "NES"
+year: 1989
+songs: 
+  - id: select_game_sesame_street_abc
+    title: "Select Game"
+    path: "01 Select Game (Sesame Street Theme).vgz"
+    type: result
+  - id: letter_go_round_win_game
+    title: "Letter Go-Round - Win Game"
+    path: "04 Letter Go~Round; Win Game.vgz"
+    type: result
+  - id: ernie_s_big_splash
+    title: "Ernie's Big Splash"
+    path: "05 Ernie's Big Splash.vgz"
+    type: warning
+...

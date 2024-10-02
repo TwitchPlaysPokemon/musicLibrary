@@ -12,7 +12,7 @@ songs:
   - id: bonetrousle
     title: "Bonetrousle"
     path: "Bonetrousle.brstm"
-    type: betting
+    type: battle
   - id: can_you_really_call_this_a_hotel_i_didnt_receive_a_mint_on_my_pillow
     title: "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything"
     path: "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow.brstm"
@@ -20,7 +20,7 @@ songs:
   - id: core
     title: "CORE"
     path: "CORE.brstm"
-    type: betting
+    type: battle
   - id: dating_start
     title: "Dating Start!"
     path: "Dating Start!.brstm"
@@ -50,7 +50,7 @@ songs:
   - id: amalgam
     title: "Amalgam"
     path: "Amalgam.brstm"
-    type: warning
+    type: battle
   - id: dating_fight
     title: "Dating Fight!"
     path: "Dating Fight!.brstm"
@@ -152,12 +152,12 @@ songs:
     title: "Dog Room"
     path: "mus_dogroom.logg"
     type: betting
-  - id: dog_shrine
-    title: "Dog Shrine"
+  - id: mysterious_shrine
+    title: "Mysterious Shrine"
     path: "mus_dogshrine_1.logg"
     type: betting
-  - id: dog_shrine_2
-    title: "Dog Shrine 2"
+  - id: absolutely_overfamiliar_shrine
+    title: "Absolutely Overfamiliar Shrine"
     path: "mus_dogshrine_2.logg"
     type: warning
   - id: alphys
@@ -270,4 +270,78 @@ songs:
     title: "Song That Might Play When You Fight Sans"
     path: "Song That Might Play When You Fight Sans.brstm"
     type: battle
+  - id: alphys_early
+    title: "Alphys (Early)"
+    path: "Alphys (Early).txtp"
+    type: betting
+  - id: spear_of_justice_early
+    title: "Spear of Justice (Early)"
+    path: "Spear of Justice (Early).txtp"
+    type: battle
+  - id: dog_hole
+    title: "Dog Hole"
+    path: "dog_hole.txtp"
+    type: break
+  - id: dogtroid
+    title: "Dogtroid"
+    path: "dogtroid.txtp"
+    type: result
+  - id: undertale_early
+    title: "Undertale (Early)"
+    path: "undertale_early.mp3"
+    type: break
+  - id: dance_of_dog
+    title: "Dance of Dog"
+    path: "mus_dance_of_dog.txtp"
+    type: result
+  - id: dogsong
+    title: "Dogsong"
+    path: "mus_dogsong.txtp"
+    type: result
+  - id: undertale_part_1
+    title: "Undertale (Part 1)"
+    path: "mus_endarea_parta.txtp"
+    type: break
+  - id: undertale_part_2
+    title: "Undertale (Part 2)"
+    path: "mus_endarea_partb.txtp"
+    ends: 3:30
+    type: betting
+  - id: last_goodbye
+    title: "Last Goodbye"
+    path: "mus_express_myself.txtp"
+    ends: 2:15
+    type: betting
+  - id: determination
+    title: "Determination"
+    path: "mus_gameover.txtp"
+    type: warning
+  - id: respite_undertale
+    title: "Respite"
+    path: "mus_leave.txtp"
+    type: break
+  - id: menu_full_undertale
+    title: "Menu (Full)"
+    path: "mus_menu6.txtp"
+    type: result
+  - id: uwa_so_heats_eighth_note_emoji
+    title: "Uwa!! So HEATS!!♫"
+    path: "mus_options_summer.txtp"
+    type: break
+  - id: nyeh_heh_heh
+    title: "Nyeh Heh Heh!"
+    path: "mus_papyrus.txtp"
+    type: warning
+  - id: tem_shop
+    title: "Tem Shop"
+    path: "mus_temshop.txtp"
+    type: warning
+  - id: undyne
+    title: "Undyne"
+    path: "mus_undynetheme.txtp"
+    type: warning
+  - id: quiet_water
+    title: "Quiet Water"
+    path: "mus_waterquiet.txtp"
+    type: break
 ...

@@ -17,7 +17,7 @@ songs:
   - id: attract_embu_arcade_version
     title: "Attract -EMBU- (Arcade version)"
     path: "03 Attract -EMBU-.vgm"
-    type: betting
+    type: warning #1:00 runtime, either this or REALLY short betting
   - id: character_select_arcade_version
     title: "Character Select (Arcade version)"
     path: "05 Character Select.vgm"

@@ -1,0 +1,43 @@
+---
+id: megamix
+title: "Megamix"
+platform: "TPP"
+year: 2025 
+songs: 
+  - id: black_phoenix_megamix
+    title: "Black Phoenix"
+    path: "Black Phoenix [Megamix].mp3"
+    type: battle
+  - id: bloodstained_philosophy_megamix
+    title: "Bloodstained Philosophy"
+    path: "Bloodstained Philosophy [Megamix].mp3"
+    type: battle
+  - id: hibi_stage_4_megamix
+    title: "Hibi (Stage 4)"
+    path: "Hibi (Stage4) [Megamix].mp3"
+    type: battle
+  - id: michi_stage_5_megamix
+    title: "Michi (Stage 5)"
+    path: "Michi (Stage5) [Megamix].mp3"
+    type: battle
+  - id: after_school_mix_megamix
+    title: "After School Mix"
+    path: "School -After School Mix- (Sakura Schoolyard) [Megamix].mp3"
+    type: battle
+  - id: space_colony_megamix
+    title: "Space Colony"
+    path: "Space Colony [Megamix].mp3"
+    type: battle
+  - id: sunriser_megamix
+    title: "Sunriser"
+    path: "Sunriser [Megamix].mp3"
+    type: battle
+  - id: vertex_stage_1_megamix
+    title: "Vertex (Stage 1)"
+    path: "Vertex (Stage1) [Megamix].mp3"
+    type: battle
+  - id: vs_black_eggman_megamix
+    title: "VS Black Eggman"
+    path: "VS Black Eggman [Megamix].mp3"
+    type: battle
+...

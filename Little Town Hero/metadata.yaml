@@ -1,103 +1,99 @@
 ---
 id: little_town_hero
 title: "Little Town Hero"
-platform: "Switch"
+platform: ["Switch", "PS4"]
 year: 2019
 songs: 
-  - id: field_coal_mine
-    title: "Field (Coal Mine)"
-    path: "bgm_cb_field_coal.wem"
+  - id: this-is_my_town
+    title: "This is My Town"
+    path: "PlayBGM_Field {m}.txtp"
     type: betting
-  - id: angard_battle
-    title: "Angard Battle"
-    path: "bgm_cb_bt_000.wem"
+  - id: idea_rush
+    title: "Idea RUsh"
+    path: "PlayBGM_Battle [Battle=Tutorial].txtp"
     type: battle
-  - id: the_past
-    title: "The Past"
-    path: "bgm_cb_ev_past.wem"
+  - id: the_fields_before_us
+    title: "The Fields Before Us"
+    path: "PlayBGM_PastField.txtp"
     type: betting
-  - id: kids_plan
-    title: "Kids' Plan"
-    path: "bgm_cb_ev_kids_plan.wem"
+  - id: three_bad_boys
+    title: "Three Bad Boys"
+    path: "PlayBGM_3Kids.txtp"
     type: warning
-  - id: matock_battle
-    title: "Matock Battle"
-    path: "bgm_cb_bt_kids.wem"
+  - id: bad_boys_battle
+    title: "Bad Boys Battle"
+    path: "PlayBGM_Battle [Battle=Fun].txtp"
     type: battle
-  - id: monster_battle_1
-    title: "Monster Battle 1"
-    path: "bgm_cb_bt_001.wem"
+  - id: village_clash
+    title: "Village Clash"
+    path: "PlayBGM_Battle [Battle=Boss1].txtp"
     type: battle
-  - id: field_farm
-    title: "Field (Farm)"
-    path: "bgm_cb_field_farm.wem"
-    type: betting
-  - id: sheep_battle
-    title: "Sheep Battle"
-    path: "bgm_cb_bt_fun.wem"
+  - id: win_by_a_hair
+    title: "Win by a Hair"
+    path: "PlayBGM_Battle [Battle=Tutorial2].txtp"
     type: battle
-  - id: monster_battle_2
-    title: "Monster Battle 2"
-    path: "bgm_cb_bt_002.wem"
+  - id: battering_ram
+    title: "Battering Ram"
+    path: "PlayBGM_Battle [Battle=Boss2].txtp"
     type: battle
-  - id: pasmina_s_theme_ver_2
-    title: "Pasmina's Theme (Ver 2)"
-    path: "bgm_cb_ev_girl_02.wem"
+  - id: want_to_talk_about_sheep
+    title: "Want To Talk About Sheep?"
+    path: "PlayBGM_ShipooLivly.txtp"
     type: result
-  - id: monster_battle_3
-    title: "Monster Battle 3"
-    path: "bgm_cb_bt_003.wem"
+  - id: sky_attack
+    title: "Sky Attack"
+    path: "PlayBGM_Battle [Battle=Boss5_tori].txtp"
     type: battle
-  - id: monster_battle_4
-    title: "Monster Battle 4"
-    path: "bgm_cb_bt_004.wem"
+  - id: rising_waves
+    title: "Rising Waves"
+    path: "PlayBGM_Battle [Battle=Boss6_whale].txtp"
     type: battle
-  - id: sad
-    title: "Sad"
-    path: "bgm_cb_ev_sad.wem"
+  - id: teardrop_shaped_stones
+    title: "Teardrop-shaped Stones"
+    path: "PlayBGM_Sad.txtp"
     type: break
-  - id: monster_battle_5
-    title: "Monster Battle 5"
-    path: "bgm_cb_bt_005.wem"
+  - id: metamorphic_dance
+    title: "Metamorphic Dance"
+    path: "PlayBGM_Battle [Battle=Boss4_sanagi].txtp"
     type: battle
-  - id: monster_battle_6
-    title: "Monster Battle 6"
-    path: "bgm_cb_bt_006.wem"
+  - id: gravemaker
+    title: "Gravemaker"
+    path: "PlayBGM_Battle [Battle=Boss3_coffin].txtp"
     type: battle
-  - id: monster_battle_7
-    title: "Monster Battle 7"
-    path: "bgm_cb_bt_007.wem"
+  - id: laughing_doll
+    title: "Laughing Doll"
+    path: "PlayBGM_Battle [Battle=Boss11_doll].txtp"
     type: battle
-  - id: monster_battle_8
-    title: "Monster Battle 8"
-    path: "bgm_cb_bt_009.wem"
+  - id: scythe_that_cuts_fate
+    title: "Scythe That Cuts Fate"
+    path: "PlayBGM_Battle [Battle=Boss8_OgreD].txtp"
     type: battle
-  - id: monster_battle_9
-    title: "Monster Battle 9"
-    path: "bgm_cb_bt_010.wem"
+  - id: neverending_roar
+    title: "Neverending Roar"
+    path: "PlayBGM_Battle [Battle=Human_Tren].txtp"
     type: battle
-  - id: monster_battle_10
-    title: "Monster Battle 10"
-    path: "bgm_cb_bt_011.wem"
+  - id: evolution_dance
+    title: "Evolution Dance"
+    path: "PlayBGM_Battle [Battle=Boss10_mushi].txtp"
     type: battle
   - id: inside_the_castle
     title: "Inside the Castle"
-    path: "bgm_cb_ev_castle_01.wem"
+    path: "PlayBGM_Castle_Serious.txtp"
     type: betting
-  - id: mystic_sonata_2
-    title: "Mystic Sonata 2"
-    path: "bgm_cb_sonota_mystic_02.wem"
+  - id: no_time_to_lose
+    title: "No Time to Lose"
+    path: "PlayBGM_Serious_Up.txtp
     type: warning
-  - id: last_battle_little_town_hero
-    title: "Last Battle"
-    path: "bgm_cb_bt_last.wem"
+  - id: little_town_hero_little_town_hero
+    title: "Little Town Hero"
+    path: "PlayBGM_Battle [Battle=Boss9_Dragon].txtp"
     type: battle
-  - id: the_hero_s_theme
-    title: "The Hero's Theme"
-    path: "bgm_cb_sonota_hero.wem"
+  - id: end_the_story
+    title: "End the STory!"
+    path: "PlayBGM_DragonClimax.txtp"
     type: betting
-  - id: ending_little_town_hero
-    title: "Ending"
-    path: "bgm_cb_ending.wem"
+  - id: a_place_you_can_call_home
+    title: "A Place You Can Call Home"
+    path: "PlayBGM_Ending.txtp"
     type: betting
 ...
