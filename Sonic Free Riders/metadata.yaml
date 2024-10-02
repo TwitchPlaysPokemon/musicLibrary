@@ -30,4 +30,24 @@ songs:
     title: "Final Factory"
     path: "BGM_07_wav.aax"
     type: battle
+  - id: rocky_ridge
+    title: "Rocky Ridge"
+    path: "BGM_02_wav.aax"
+    type: betting
+  - id: metropolis_speedway
+    title: "Metropolis Speedway"
+    path: "BGM_04_wav.aax"
+    type: betting
+  - id: metal_city_free_riders
+    title: "Metal City"
+    path: "bgm_course_test_wav.aax"
+    type: battle
+  - id: start_up_your_ex_gear_free_riders_version
+    title: "Start-Up Your EX Gear! (Free Riders Version)"
+    path: "select_wav.aax"
+    type: betting
+  - id: free_sonic_free_riders
+    title: "Free"
+    path: "Free (Main Theme).brstm"
+    type: betting
 ...
