@@ -3,6 +3,19 @@ id: megamix
 title: "Megamix"
 platform: "TPP"
 year: 2025 
+#the songs included here are, in order:
+#Vertex (Stage 1) - Dodonpachi Daifukkatsu Black Label
+#VS. Black Eggman - Sonic Robo Blast 2
+#Space Colony - Sonic X Shadow Generations
+#Hibi (Stage 4) - DoDonPachi SaiDaiOuJou
+#Razormind - Payday 2
+#Michi (Stage 5) - DoDonPachi SaiDaiOuJou
+#Bloodstained Philosophy - Yakuza 6
+#School -After School Mix- (Sakura Schoolyard) - Tekken Tag Tournament 2
+#Black Phoenix - Wangan Midnight MAXIMUM TUNE 6
+#and then looping back to Vertex. There is an additional branch after Sakura Schoolyard that goes into
+#Sunriser - Wangan Midnight MAXIMUM TUNE 6
+#Receive You ~Tech Trance Arrance~ - Yakuza 0
 songs: 
   - id: black_phoenix_megamix
     title: "Black Phoenix"
