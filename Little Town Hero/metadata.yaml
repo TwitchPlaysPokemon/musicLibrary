@@ -82,14 +82,14 @@ songs:
     type: betting
   - id: no_time_to_lose
     title: "No Time to Lose"
-    path: "PlayBGM_Serious_Up.txtp
+    path: "PlayBGM_Serious_Up.txtp"
     type: warning
   - id: little_town_hero_little_town_hero
     title: "Little Town Hero"
     path: "PlayBGM_Battle [Battle=Boss9_Dragon].txtp"
     type: battle
   - id: end_the_story
-    title: "End the STory!"
+    title: "End the Story!"
     path: "PlayBGM_DragonClimax.txtp"
     type: betting
   - id: a_place_you_can_call_home
