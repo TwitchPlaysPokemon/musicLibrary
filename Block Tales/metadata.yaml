@@ -97,4 +97,48 @@ songs:
     title: "Sacred Hollow"
     path: "Sacred Hollow.brstm"
     type: betting
+  - id: greed_block_tales
+    title: "Greed"
+    path: "Greed.brstm"
+    type: battle
+  - id: bizville_railways
+    title: "Bizville Railways"
+    path: "Bizville Railways.brstm"
+    type: break
+  - id: catacombs_block_tales
+    title: "Catacombs"
+    path: "Catacombs.brstm"
+    type: break
+  - id: cemetary_block_tales
+    title: "Cemetery"
+    path: "Cemetery.brstm"
+    type: betting
+  - id: crypt_block_tales
+    title: "Crypt"
+    path: "Crypt.brstm"
+    type: betting
+  - id: fear_block_tales
+    title: "Fear"
+    path: "Fear.brstm"
+    type: battle
+  - id: funky_battle
+    title: "Funky Battle"
+    path: "Funky Battle.brstm"
+    type: betting
+  - id: hatred_block_tales
+    title: "Hatred"
+    path: "Hatred.brstm"
+    type: battle
+  - id: solitude_block_tales
+    title: "Solitude"
+    path: "Solitude.brstm"
+    type: betting
+  - id: train_battle_block_tales
+    title: "Train Battle"
+    path: "Train Battle.brstm"
+    type: battle
+  - id: turkey_block_tales
+    title: "Turkey"
+    path: "Turkey.brstm"
+    type: battle
 ...

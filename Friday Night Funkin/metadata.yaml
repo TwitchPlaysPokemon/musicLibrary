@@ -101,14 +101,15 @@ songs:
     title: "Game Over (Pico)"
     path: "05. Game Over (Pico).mp3"
     type: result
-  - id: downwitit_results
-    title: "Downwitit (Results)"
-    path: "11. Downwitit (Results).mp3"
-    type: result
-  - id: keeper_options
-    title: "Keeper (Options)"
-    path: "12. Keeper (Options).mp3"
-    type: result
+  # - id: downwitit_results
+    # title: "Downwitit (Results)"
+    # path: "11. Downwitit (Results).mp3"
+    # type: result
+  # - id: keeper_options
+    # title: "Keeper (Options)"
+    # path: "12. Keeper (Options).mp3"
+    # type: result
+    #turns out these were fanmade lmao
   - id: freeplay_menu
     title: "Freeplay Menu"
     path: "13. Freeplay Menu.mp3"

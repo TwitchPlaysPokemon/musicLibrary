@@ -1,0 +1,25 @@
+---
+id: siivagunner_rebooted
+title: "SilvaGunner: Rebooted"
+platform: "PC"
+year: 2024
+is_fanwork: true
+# yes this is an Undertale fangame they released for a Christmas ARG. Yes it counts
+songs:
+  - id: frostbitten_siiva
+    title: "FROSTBITTEN"
+    path: "haruka.txtp"
+    type: battle
+  - id: stay_fly_no_lie_game_over
+    title: "Stay Fly, No Lie (Game Over)"
+    path: "bgm_gameover.wav"
+    type: result
+  - id: in_my_way_siiva
+    title: "In My Way"
+    path: "bgm_chnch_slow.wav"
+    type: result
+  - id: after_the_genocide
+    title: "After The Genocide"
+    path: "mus_slick.wav"
+    type: break
+...

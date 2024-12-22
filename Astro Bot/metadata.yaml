@@ -1,0 +1,111 @@
+---
+id: astro_bot
+title: "Astro Bot"
+platform: "PS5"
+year: 2024
+songs:
+  - id: you_can_t_catch_me_ssd_powerup_and_boss_remix
+    title: "You Can't Catch Me (SSD Powerup & Boss Remix)"
+    path: "You Can't Catch Me (SSD Powerup & Boss Remix).brstm"
+    type: betting
+  - id: bot_of_war
+    title: "Bot of War"
+    path: "Bot of War.brstm"
+    type: betting
+  - id: botdi_beach_broken_remix
+    title: "Botdi Beach (Broken Remix)"
+    path: "Botdi Beach (Broken Remix).brstm"
+    type: break
+  - id: retro_rampage
+    title: "Retro Rampage"
+    path: "Retro Rampage.brstm"
+    type: betting
+  - id: trapped_in_time
+    title: "Trapped In Time"
+    path: "Trapped In Time.brstm"
+    type: betting
+  - id: going_loco
+    title: "Going Loco"
+    path: "Going Loco.brstm"
+    type: betting
+  - id: restore_power
+    title: "Restore Power"
+    path: "Restore Power.brstm"
+    type: betting
+  - id: astro
+    title: "Astro"
+    path: "Astro.brstm"
+    type: result
+  - id: changing_room
+    title: "Changing Room"
+    path: "Changing Room.brstm"
+    type: break
+  - id: you_know_what_you_ve_got_to_do
+    title: "You Know What You've Got To Do"
+    path: "You Know What You've Got To Do.brstm"
+    type: battle
+  - id: pit_of_peril
+    title: "Pit of Peril"
+    path: "Pit of Peril.brstm"
+    type: betting
+  - id: what_was_that_scary_cave_uncharted_remix
+    title: "What Was That (Scary Cave Uncharted Remix)"
+    path: "What Was That (Scary Cave Uncharted Remix).brstm"
+    type: warning
+  - id: broken_bridge
+    title: "Broken Bridge"
+    path: "Broken Bridge.brstm"
+    type: betting
+  - id: sola
+    title: "Sola"
+    path: "Sola.brstm"
+    type: betting
+  - id: takedown_astro_bot
+    title: "Takedown"
+    path: "Takedown.brstm"
+    type: battle
+  - id: luna_astro_bot
+    title: "Luna"
+    path: "Luna.brstm"
+    type: betting
+  - id: windswept_miniboss_remix
+    title: "Windswept (Miniboss Remix)"
+    path: "Windswept (Miniboss Remix).brstm"
+    type: battle
+  - id: hissy_fit_snake_boss
+    title: "Hissy Fit (Snake Boss)"
+    path: "Hissy Fit (Snake Boss).brstm"
+    type: battle
+  - id: decidedly_spooky_miniboss_remix
+    title: "Decidedly Spooky (Miniboss Remix)"
+    path: "Decidedly Spooky (Miniboss Remix).brstm"
+    type: battle
+  - id: discotree_miniboss_remix
+    title: "Discotree (Miniboss Remix)"
+    path: "Discotree (Miniboss Remix).brstm"
+    type: battle
+  - id: specter_astro_bot
+    title: "Specter"
+    path: "Specter.brstm"
+    type: battle
+  - id: invisible_punk_chameleon_boss
+    title: "Invisible Punk (Chameleon Boss)"
+    path: "Invisible Punk (Chameleon Boss).brstm"
+    type: battle
+  - id: ninja_bots_konnichiwa
+    title: "Ninja Bots Konnichiwa"
+    path: "Ninja Bots Konnichiwa.brstm"
+    type: betting
+  - id: quel_fromage
+    title: "Quel Fromage"
+    path: "Quel Fromage.brstm"
+    type: result
+  - id: ninja_bots_sayonara
+    title: "Ninja Bots Sayonara"
+    path: "Ninja Bots Sayonara.brstm"
+    type: betting
+  - id: goal_astro_bot_remix
+    title: "Goal (ASTRO BOT Remix)"
+    path: "Goal (ASTRO BOT Remix).brstm"
+    type: result
+...

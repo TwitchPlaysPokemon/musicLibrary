@@ -1,0 +1,90 @@
+---
+id: song_for_a_hero
+title: "Song for a Hero"
+platform: ["PC", "Switch"]
+year: 2016
+#none of these songs loop fyi. Hence why so many betting songs
+songs:
+  - id: adventure_dream
+    title: "Adventure Dream"
+    path: "Adventure Dream.brstm"
+    type: warning
+  - id: beyond_the_space
+    title: "Beyond the Space"
+    path: "Beyond the Space.brstm"
+    ends: 2:12
+    type: betting
+  - id: chaesim_waterfalls
+    title: "Chaesim Waterfalls"
+    path: "Chaesim Waterfalls.brstm"
+    ends: 2:05
+    type: betting
+  - id: django_forest
+    title: "Django Forest"
+    path: "Django Forest.brstm"
+    type: betting
+  - id: djungo_temple
+    title: "Djungo Temple"
+    path: "Djungo Temple.brstm"
+    type: betting
+  - id: full_grotto
+    title: "Full Grotto"
+    path: "Full Grotto.brstm"
+    type: break
+  - id: grennish_hill
+    title: "Grennish Hill"
+    path: "Grennish Hill.brstm"
+    type: betting
+  - id: konn_cave
+    title: "Konn Cave"
+    path: "Konn Cave.brstm"
+    type: break
+  - id: kwagmiar_swamp
+    title: "Kwagmiar Swamp"
+    path: "Kwagmiar Swamp.brstm"
+    type: betting
+  - id: luhnee_dunes
+    title: "Lühnee Dunes"
+    path: "Lühnee Dunes.brstm"
+    type: betting
+  - id: not_so_greenish_hill
+    title: "Not so greenish hill"
+    path: "Not so greenish hill.brstm"
+    type: betting
+  - id: ottoh_tomb
+    title: "Ottoh Tomb"
+    path: "Ottoh Tomb.brstm"
+    type: betting
+  - id: plizby_mine
+    title: "Plizby Mine"
+    path: "Plizby Mine.brstm"
+    type: break
+  - id: primatown
+    title: "Primatown"
+    path: "Primatown.brstm"
+    type: betting
+  - id: pyramid_skeeme
+    title: "Pyramid Skeeme"
+    path: "Pyramid Skeeme.brstm"
+    type: betting
+  - id: sneekh_peak
+    title: "Sneekh Peak"
+    path: "Sneekh Peak.brstm"
+    type: betting
+  - id: the_fearful_entrance_of_the_nefarious_castle_of_the_infamous_sorcerer
+    title: "The Fearful Entrance Of The Nefarious Castle Of The Infamous Sorcerer"
+    path: "The Fearful Entrance Of The Nefarious Castle Of The Infamous Sorcerer.brstm"
+    type: betting
+  - id: the_nefarious_castle_of_the_infamous_sorcerer
+    title: "The Nefarious Castle Of The Infamous Sorcerer"
+    path: "The Nefarious Castle Of The Infamous Sorcerer.brstm"
+    type: betting
+  - id: the_hidden_power
+    title: "The Hidden Power"
+    path: "The Hidden Power.brstm"
+    type: betting
+  - id: venomous_fortress
+    title: "Venomous Fortress"
+    path: "Venomous Fortress.brstm"
+    type: betting
+...

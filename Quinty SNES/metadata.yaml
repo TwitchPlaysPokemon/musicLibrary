@@ -1,0 +1,67 @@
+---
+id: quinty_snes
+title: "Quinty"
+platform: "SNES"
+year: UNRELEASED
+songs: 
+  - id: introduction_quinty
+    title: "Introduction"
+    path: "1. Introduction.spc"
+    type: betting
+  - id: main_theme_quinty
+    title: "Main Theme"
+    path: "2. Main Theme.spc"
+    type: result
+  - id: world_map_quinty
+    title: "World Map"
+    path: "3. World Map.spc"
+    type: betting
+  - id: how_to_play_quinty
+    title: "How To Play"
+    path: "4. How To Play.spc"
+    type: warning
+  - id: restaurant_stage
+    title: "Restaurant Stage"
+    path: "5. Restaurant Stage.spc"
+    type: betting
+  - id: pyramid_stage
+    title: "Pyramid Stage"
+    path: "7. Pyramid Stage.spc"
+    type: warning
+  - id: museum_stage
+    title: "Museum Stage"
+    path: "8. Museum Stage.spc"
+    type: warning
+  - id: cottage_stage
+    title: "Cottage Stage"
+    path: "10. Cottage Stage.spc"
+    type: betting
+  - id: tower_stage_quinty
+    title: "Tower Stage"
+    path: "11. Tower Stage.spc"
+    type: betting
+  - id: theater_stage_quinty
+    title: "Theater Stage"
+    path: "12. Theater Stage.spc"
+    type: break
+  - id: club_stage
+    title: "Club Stage"
+    path: "13. Club Stage.spc"
+    type: betting
+  - id: mushroom_stage
+    title: "Mushroom Stage"
+    path: "14. Mushroom Stage.spc"
+    type: betting
+  - id: boss_stage_quinty
+    title: "Boss Stage"
+    path: "16. Boss Stage.spc"
+    type: warning
+  - id: bgm_26_quinty
+    title: "BGM 26"
+    path: "26. BGM 26.spc"
+    type: betting
+  - id: bgm_28_quinty
+    title: "BGM 28"
+    path: "28. BGM 28.spc"
+    type: result
+...

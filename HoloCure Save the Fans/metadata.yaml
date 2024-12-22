@@ -1,0 +1,65 @@
+---
+id: holocure_save_the_fans
+title: "HoloCure: Save the Fans!"
+platform: "PC"
+series: hololive
+year: 2022
+is_fanwork: true 
+songs: 
+  - id: go_peko_go_peko_go_peko
+    title: "Go Peko, Go Peko, Go Peko!!"
+    path: "Go Peko, Go Peko, Go Peko!!.brstm"
+    type: warning
+  - id: pekogamblebrain
+    title: "PEKOGAMBLEBRAIN"
+    path: "PEKOGAMBLEBRAIN.brstm"
+    type: betting
+  - id: miraculous_fantasia
+    title: "Miraculous Fantasia"
+    path: "Miraculous Fantasia.brstm"
+    type: battle
+  - id: myth_or_treat
+    title: "Myth or Treat"
+    path: "Myth or Treat.brstm"
+    type: battle
+  - id: bokura_ga_kuru_kara
+    title: "Bokura Ga Kuru Kara"
+    path: "Bokura Ga Kuru Kara.brstm"
+    type: battle
+  - id: stardust_song
+    title: "Stardust Song"
+    path: "Stardust Song.brstm"
+    type: battle
+  - id: koyoi_wa_halloween_night
+    title: "Koyoi wa Halloween Night!"
+    path: "Koyoi wa Halloween Night.brstm"
+    type: battle
+  - id: suspect_holocure
+    title: "Suspect"
+    path: "Suspect.brstm"
+    type: battle
+  - id: shijosugi_adtruck
+    title: "Shijoshugi Adtruck"
+    path: "Shijoshugi Adtruck.brstm"
+    type: battle
+  - id: shiny_smile_story
+    title: "Shiny Smily Story"
+    path: "shiny-smily-story.brstm"
+    type: betting
+  - id: identity_voices
+    title: "ID:Entity Voices"
+    path: "identity voices.brstm"
+    type: battle
+  - id: candy_go_round
+    title: "Candy-Go-Round"
+    path: "Candy-Go-Round.brstm"
+    type: betting
+  - id: welcome_home_yumemiru_sora_e
+    title: "Welcome Home (Yumemiru Sora e)"
+    path: "Welcome Home (Yumemiru Sora e).brstm"
+    type: break
+  - id: asuiro_clearsky
+    title: "Asuiro Clearsky"
+    path: "Asuiro ClearSky.brstm"
+    type: battle
+...

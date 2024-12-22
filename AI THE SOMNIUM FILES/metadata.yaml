@@ -130,10 +130,10 @@ songs:
     path: "2-33 Invincible Rainbow Arrow - Inst.brstm"
     ends: 2:34
     type: betting
-  - id: psyncin_in_the_fountain
-    title: "PSYNCIN' IN THE FOUNTaiN"
-    path: "BGM_SOM_START.fsb"
-    type: break
+  # - id: psyncin_in_the_fountain
+    # title: "PSYNCIN' IN THE FOUNTaiN"
+    # path: "BGM_SOM_START.fsb"
+    # type: break
   - id: 戲舞_gimai
     title: "戲舞 -gimAI-"
     path: "BGM_SOM_A1_DANCE.fsb"

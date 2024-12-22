@@ -1,0 +1,127 @@
+---
+id: dragon_quest_xi_echoes_of_an_elusive_age_definitive_edition
+title: "Dragon Quest XI: Echoes of an Elusive Age - Definitive Edition"
+platform: "Various"
+year: 2019
+songs: 
+  - id: unflinchable_courage_orchestra
+    title: "Unflinchable Courage"
+    path: "BGM_B01_long_o.sab"
+    type: battle
+  - id: endless_battle_orchestra
+    title: "Endless Battle"
+    path: "BGM_B02_o.sab"
+    type: battle
+  - id: bringer_of_doom_orchestra
+    title: "Bringer of Doom"
+    path: "BGM_B03_o.sab"
+    type: battle
+  - id: stake_my_life_on_it_orchestra
+    title: "Stake my Life on it"
+    path: "BGM_B04_o.sab"
+    type: battle
+  - id: hero_s_triumphant_return_orchestra
+    title: "Hero's Triumphant Return"
+    path: "BGM_C01_o.sab"
+    type: result
+  - id: the_hero_goes_forth_orchestra
+    title: "The Hero Goes Forth"
+    path: "BGM_C02_o.sab"
+    type: betting
+  - id: ole_sylvando_orchestra
+    title: "Olé! Sylvando!"
+    path: "BGM_C05_o.sab"
+    type: betting
+  - id: the_soul_of_chivalry_orchestra
+    title: "The Soul of Chivalry"
+    path: "BGM_C06_o.sab"
+    type: betting
+  - id: rab_the_wizard_orchestra
+    title: "Rab the Wizard"
+    path: "BGM_C07_o.sab"
+    type: betting
+  - id: uncharted_cave_orchestra
+    title: "Uncharted Cave"
+    path: "BGM_D01_o.sab"
+    type: betting
+  - id: invitation_to_mystery_orchestra
+    title: "Invitation to Mystery"
+    path: "BGM_D02_o.sab"
+    type: betting
+  - id: supernatural_evil_castle_orchestra
+    title: "Supernatural Evil Castle"
+    path: "BGM_D03_o.sab"
+    type: warning
+  - id: run_through_the_predicaments_orchestra
+    title: "Run through the Predicaments"
+    path: "BGM_E03_o.sab"
+    type: warning
+  - id: light_through_the_leaves_of_love_orchestra
+    title: "Light through the Leaves of Love"
+    path: "BGM_E07b_o.sab"
+    type: break
+  - id: evil_hands_of_shadows_orchestra
+    title: "Evil Hands of Shadows"
+    path: "BGM_E09_o.sab"
+    type: warning
+  - id: echoes_of_an_elusive_age_orchestra
+    title: "Echoes of an Elusive Age"
+    path: "BGM_E11_o.sab"
+    type: betting
+  - id: the_hero_goes_forth_with_a_determination_orchestra
+    title: "The Hero Goes Forth with a Determination"
+    path: "BGM_F01_o.sab"
+    type: betting
+  - id: dusk_in_the_heath_orchestra
+    title: "Dusk in the Heath"
+    path: "BGM_F02_o.sab"
+    type: break
+  - id: flying_whale_orchestra
+    title: "Flying Whale"
+    path: "BGM_F05_o.sab"
+    type: betting
+  - id: battling_race_dq11_orchestra
+    title: "Battling Race"
+    path: "BGM_S05_o.sab"
+    type: betting
+  - id: overture_dq11_orchestra
+    title: "Overture"
+    path: "BGM_S99_o.sab"
+    type: betting
+  - id: quiet_village_orchestra
+    title: "Quiet Village"
+    path: "BGM_T01_o.sab"
+    type: break
+  - id: sleepy_village_orchestra
+    title: "Sleepy Village"
+    path: "BGM_T02_o.sab"
+    type: break
+  - id: bustling_town_orchestra
+    title: "Bustling Town"
+    path: "BGM_T03_o.sab"
+    type: betting
+  - id: imperial_palace_orchestra
+    title: "Imperial Palace"
+    path: "BGM_T05_o.sab"
+    type: betting
+  - id: village_of_myths_orchestra
+    title: "Village of Myths"
+    path: "BGM_T07_o.sab"
+    type: betting
+  - id: where_is_the_hope_orchestra
+    title: "Where is the Hope"
+    path: "BGM_T08_o.sab"
+    type: break
+  - id: corridors_of_darkness_orchestra
+    title: "Corridors of Darkness"
+    path: "BGM_T16_o.sab"
+    type: warning
+  - id: the_tower_of_time_orchestra
+    title: "The Tower of Time"
+    path: "BGM_T17_o.sab"
+    type: break
+  - id: village_hidden_in_a_mountain_orchestra
+    title: "Village Hidden in a Mountain"
+    path: "BGM_T21_o.sab"
+    type: betting
+...

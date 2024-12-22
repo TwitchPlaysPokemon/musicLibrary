@@ -1,0 +1,77 @@
+---
+id: smash_remix
+title: "Smash Remix"
+platform: "N64"
+series: smash
+is_fanwork: true 
+year: 2019
+songs:
+  - id: all_star_rest_area_sr
+    title: "All-Star Rest Area"
+    path: "All-Star Rest Area.brstm"
+    type: break
+  - id: champion_battle_sr
+    title: "Champion Battle"
+    path: "Champion Battle.brstm"
+    type: battle
+  - id: gym_leader_battle_sr
+    title: "Gym Leader Battle"
+    path: "Gym Leader Battle.brstm"
+    type: battle
+  - id: kirby_64_boss_sr
+    title: "Boss (Kirby 64)"
+    path: "Kirby 64 Boss.brstm"
+    type: battle
+  - id: last_surprise_sr
+    title: "Last Surprise"
+    path: "Last Surprise.brstm"
+    type: betting
+  - id: live_and_learn_sr
+    title: "Live and Learn"
+    path: "Live and Learn.brstm"
+    type: betting
+  - id: main_theme_banjo_kazooie_sr
+    title: "Main Theme (Banjo-Kazooie)"
+    path: "Main Theme (Banjo-Kazooie).brstm"
+    type: betting
+  - id: metallic_madness_sr
+    title: "Metallic Madness"
+    path: "Metallic Madness.brstm"
+    type: battle
+  - id: obstacle_course_sr
+    title: "Obstacle Course"
+    path: "Obstacle Course.brstm"
+    type: betting
+  - id: open_your_heart_sr
+    title: "Open Your Heart"
+    path: "Open Your Heart.brstm"
+    type: betting
+  - id: bonus_stage_sonic_cd_sr
+    title: "Bonus Stage (Sonic CD)"
+    path: "Sonic CD Bonus Stage.brstm"
+    type: betting
+  - id: stardust_speedway_b_mix_sr
+    title: "Stardust Speedway \'\'B\'\' Mix"
+    path: "Stardust Speedway _B_ Mix.brstm"
+    type: battle
+  - id: the_days_when_my_mother_was_there_sr
+    title: "The Days When My Mother Was There"
+    path: "The Days When My Mother Was There.brstm"
+    type: betting
+  - id: toad_s_turnpike_sr
+    title: "Toad's Turnpike"
+    path: "Toad's Turnpike.brstm"
+    type: betting
+  - id: together_we_ride_sr
+    title: "Together We Ride"
+    path: "Together We Ride.brstm"
+    type: battle
+  - id: trainer_battle_sr
+    title: "Trainer Battle"
+    path: "Trainer Battle.brstm"
+    type: battle
+  - id: wizpig_challenge_sr
+    title: "Wizpig Challenge"
+    path: "Wizpig Challenge.brstm"
+    type: battle
+...

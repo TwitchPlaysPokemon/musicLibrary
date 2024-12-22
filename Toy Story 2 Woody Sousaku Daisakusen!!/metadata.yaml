@@ -1,0 +1,55 @@
+---
+id: toy_story_2_woody_sousaku_daisakusen
+title: "Toy Story 2 Woody Sousaku Daisakusen!!"
+platform: "Pico"
+year: 2000
+songs:
+  - id: title_screen_ts2p
+    title: "Title Screen"
+    path: "01 Title Screen.vgz"
+    type: result
+  - id: page_1_andy_s_room_ending
+    title: "Page 1 - Andy's Room ~ Ending"
+    path: "03 Page 1 - Andy's Room ~ Ending.vgz"
+    type: break
+  - id: buzz_space_game
+    title: "Buzz Space Game"
+    path: "05 Buzz Space Game.vgz"
+    type: warning
+  - id: pylon_game
+    title: "Pylon Game"
+    path: "08 Pylon Game.vgz"
+    type: warning
+  - id: sudden_game_3
+    title: "Sudden Game 3"
+    path: "10 Sudden Game 3.vgz"
+    type: warning
+  - id: round_up_game
+    title: "Round-up Game"
+    path: "11 Round-up Game.vgz"
+    type: betting
+  - id: victory_ts2p
+    title: "Victory"
+    path: "17 Victory.vgz"
+    type: result
+  - id: game_reward_ts2p
+    title: "Game Reward"
+    path: "18 Game Reward.vgz"
+    type: result
+  - id: defeat_ts2p
+    title: "Defeat"
+    path: "20 Defeat.vgz"
+    type: result
+  - id: unknown_1_ts2p
+    title: "Unknown 1.vgz"
+    path: "21 Unknown 1.vgz"
+    type: warning
+  - id: unknown_2_ts2p
+    title: "Unknown 2.vgz"
+    path: "22 Unknown 2.vgz"
+    type: result
+  - id: unknown_3_ts2p
+    title: "Unknown 3.vgz"
+    path: "23 Unknown 3.vgz"
+    type: result
+...

@@ -8,10 +8,10 @@ songs:
     title: "Opening"
     path: "(mov) intro.mp2"
     type: betting
-  - id: neutral_black_white
-    title: "Neutral"
-    path: "align~Neutral.mp2"
-    type: break
+  # - id: neutral_black_white
+    # title: "Neutral"
+    # path: "align~Neutral.mp2"
+    # type: break
   - id: credits_black_white
     title: "Credits"
     path: "Outro.mp2"

@@ -187,4 +187,16 @@ songs:
     title: "Green Greens"
     path: "ST_IUK_KbyGB1.brstm"
     type: betting
+  - id: egg_engines
+    title: "Egg Engines"
+    path: "IUK_LP_LEVELMACHINE1.brstm"
+    type: betting
+  - id: mid_boss_battle_in_another_world
+    title: "Mid-Boss Battle in Another World"
+    path: "b_m01.brstm"
+    type: warning
+  - id: into_the_underground_waterway
+    title: "Into the Underground Waterway"
+    path: "ST_IUK_DB1.brstm"
+    type: betting
 ...
