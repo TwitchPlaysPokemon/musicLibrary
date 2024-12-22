@@ -1,0 +1,12 @@
+---
+id: youtube_kids
+title: "YouTube Kids"
+platform: "Web"
+year: 2015
+#technically not a game, but I did Discord so yeah
+songs:
+  - id: no_search_results
+    title: "No Search Results"
+    path: "No Search Results.brstm"
+    type: break
+...

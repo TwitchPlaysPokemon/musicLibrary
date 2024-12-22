@@ -1,0 +1,19 @@
+---
+id: soreike_anpanman_popcorn_kojo
+title: "Soreike! Anpanman Popcorn Kojo"
+platform: "Popcorn Machine"
+year: 1992
+songs: 
+  - id: attract_anpanman_s_march
+    title: "Attract (Anpanman's March)"
+    path: "01 Attract (Anpanman's March).vgz"
+    type: result
+  - id: bgm_anpanman_s_march
+    title: "BGM (Anpanman's March)"
+    path: "03 BGM (Anpanman's March).vgz"
+    type: betting
+  - id: ending_yuuki_rinrin
+    title: "Ending (Yuuki Rinrin)"
+    path: "02 Ending (Yuuki Rinrin).vgz"
+    type: result
+...

@@ -757,6 +757,10 @@ songs:
     title: "Battle! (Subway Boss)"
     path: "bgm_battle_subwaymaster.logg"
     type: battle
+  - id: decisive_battle_subway_boss
+    title: "Decisive Battle! (Subway Boss)"
+    path: "bgm_battle_subwaymaster_02.logg"
+    type: battle
   - id: battle_subway_boss_special_ver
     title: "Battle! (Subway Boss - Special Ver.)"
     path: "bgm_battle_subwaymaster_99.logg" #it's piano only, but... eh
@@ -834,6 +838,10 @@ songs:
   - id: battle_professor_sycamore_masters
     title: "Battle! (Professor Sycamore)"
     path: "bgm_battle_platane.logg"
+    type: battle
+  - id: battle_dexio_sina
+    title: "Battle! (Dexio & Sina)"
+    path: "bgm_battle_dexio_sina.logg"
     type: battle
   - id: battle_emma
     title: "Battle! (Emma)"
@@ -1064,6 +1072,10 @@ songs:
   - id: battle_team_star_boss_giacomo
     title: "Battle! (Team Star Boss: Giacomo)"
     path: "bgm_battle_star_pina.logg"
+    type: battle
+  - id: battle_team_star_boss_eri
+    title: "Battle! (Team Star Boss: Eri)"
+    path: "bgm_battle_star_biwa.logg"
     type: battle
   - id: battle_penny
     title: "Battle! (Penny)"

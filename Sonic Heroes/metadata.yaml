@@ -81,6 +81,10 @@ songs:
     title: "Stage 11: Hang Castle"
     path: "SNG_STG11A.adx"
     type: betting
+  - id: stage_11_hang_castle_inverse
+    title: "Stage 11: Hang Castle (Inverse)"
+    path: "SNG_STG11B.adx"
+    type: betting
   - id: stage_12_mystic_mansion
     title: "Stage 12: Mystic Mansion"
     path: "SNG_STG12.adx"
@@ -132,4 +136,33 @@ songs:
     title: "Special Stage: Bonus Challenge"
     path: "SNG_SPSTG2.adx"
     type: betting
+  - id: sonic_heroes_main_theme_of_sonic_heroes
+    title: "SONIC HEROES ...main theme of \'\'SONIC HEROES\'\'"
+    path: "SNG_E0404.adx"
+    ends: 3:14
+    type: betting
+  - id: event_monkey_business
+    title: "Event: Monkey Business"
+    path: "SNG_EV11.adx"
+    type: warning
+  - id: event_my_ambition
+    title: "Event: My Ambition"
+    path: "SNG_EV13.adx"
+    type: warning
+  - id: stage_00_sea_gate
+    title: "Stage 00: Sea Gate"
+    path: "SNG_STG29.adx"
+    type: betting
+  - id: boss_egg_hawk
+    title: "Boss: Egg Hawk"
+    path: "SNG_STG20.adx"
+    type: battle
+  - id: boss_robot_carnival_egg_storm
+    title: "Boss: Robot Carnival / Robot Storm"
+    path: "SNG_STG22.adx"
+    type: battle
+  - id: last_boss_metal_madness_version_1
+    title: "Last Boss: Metal Madness [Version 1]"
+    path: "SNG_STG27.adx"
+    type: battle
 ...

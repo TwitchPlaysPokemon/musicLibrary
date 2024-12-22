@@ -40,4 +40,48 @@ songs:
     title: "Stone Valley"
     path: "Stone Valley.brstm"
     type: betting
+  - id: title_theme_banana_rumble
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    type: result
+  - id: menu_theme_banana_rumble
+    title: "Menu Theme"
+    path: "Menu Theme.brstm"
+    type: break
+  - id: race_banana_rumble
+    title: "Race"
+    path: "Race.brstm"
+    type: battle
+  - id: tutorial_island
+    title: "Tutorial Island"
+    path: "Tutorial Island.brstm"
+    type: betting
+  - id: oceanus
+    title: "Oceanus"
+    path: "Oceanus.brstm"
+    type: betting
+  - id: robot_smash
+    title: "Robot Smash"
+    path: "Robot Smash.brstm"
+    type: betting
+  - id: banana_hunt
+    title: "Banana Hunt"
+    path: "Banana Hunt.brstm"
+    type: result
+  - id: banana_hunt_fever_time
+    title: "Banana Hunt Fever Time"
+    path: "Banana Hunt Fever Time.brstm"
+    type: warning
+  - id: ba_boom
+    title: "Ba-BOOM!"
+    path: "Ba-BOOM!.brstm"
+    type: result
+  - id: goal_rush_banana_rumble
+    title: "Goal Rush"
+    path: "Goal Rush.brstm"
+    type: result
+  - id: goal_rush_super_bonus_goal
+    title: "Goal Rush Super Bonus Goal"
+    path: "Goal Rush Super Bonus Goal.brstm"
+    type: result
 ...

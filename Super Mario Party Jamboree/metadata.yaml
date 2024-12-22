@@ -1,0 +1,12 @@
+---
+id: super_mario_party_jamboree
+title: "Super Mario Party Jamboree"
+series: mario
+platform: "Switch"
+year: 2024
+songs: 
+  - id: try_hard_folks_jamboree
+    title: "Try Hard, Folks"
+    path: "trihard.brstm"
+    type: battle
+...

@@ -1,0 +1,19 @@
+---
+id: miner_ultra_adventure
+title: "Miner Ultra Adventure"
+platform: "PC"
+year: 2017
+songs:
+  - id: main_menu_mua
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: betting
+  - id: level_1_and_4_mua
+    title: "Level 1 & 4"
+    path: "Level 1 & 4.brstm"
+    type: betting
+  - id: level_2_and_5_mua
+    title: "Level 2 & 5"
+    path: "Level 2 & 5.brstm"
+    type: betting
+...

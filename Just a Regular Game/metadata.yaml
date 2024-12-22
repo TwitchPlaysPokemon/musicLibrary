@@ -1,0 +1,15 @@
+---
+id: just_a_regular_game
+title: "Just a Regular Game"
+platform: "Web"
+year: 2011
+songs: 
+  - id: destroy_the_destroyer
+    title: "Destroy The Destroyer!"
+    path: "Destroy The Destroyer!.logg"
+    type: warning
+  - id: put_the_hurt_on_him
+    title: "Put The Hurt On Him!"
+    path: "Put The Hurt On Him!.logg"
+    type: battle
+...

@@ -3,19 +3,6 @@ id: megamix
 title: "Megamix"
 platform: "TPP"
 year: 2025 
-#the songs included here are, in order:
-#Vertex (Stage 1) - Dodonpachi Daifukkatsu Black Label
-#VS. Black Eggman - Sonic Robo Blast 2
-#Space Colony - Sonic X Shadow Generations
-#Hibi (Stage 4) - DoDonPachi SaiDaiOuJou
-#Razormind - Payday 2
-#Michi (Stage 5) - DoDonPachi SaiDaiOuJou
-#Bloodstained Philosophy - Yakuza 6
-#School -After School Mix- (Sakura Schoolyard) - Tekken Tag Tournament 2
-#Black Phoenix - Wangan Midnight MAXIMUM TUNE 6
-#and then looping back to Vertex. There is an additional branch after Sakura Schoolyard that goes into
-#Sunriser - Wangan Midnight MAXIMUM TUNE 6
-#Receive You ~Tech Trance Arrance~ - Yakuza 0
 songs: 
   - id: black_phoenix_megamix
     title: "Black Phoenix"
@@ -52,5 +39,225 @@ songs:
   - id: vs_black_eggman_megamix
     title: "VS Black Eggman"
     path: "VS Black Eggman [Megamix].mp3"
+    type: battle
+  - id: nor_vivid_night_megamix
+    title: "(Nor) Vivid Night"
+    path: "(Nor) Vivid Night [Megamix].mp3"
+    type: battle
+  - id: beyond_the_millenium_megamix
+    title: "Beyond the Millennium"
+    path: "[Full Flavor] Beyond the Millennium [Gensokyo Millennium - History of the Moon-Voyage 1969] [Megamix].mp3"
+    type: battle
+  - id: 2nd_entrance_megamix
+    title: "2nd ENTRANCE"
+    path: "2nd ENTRANCE [Megamix].mp3"
+    type: battle
+  - id: ai_stage_3_megamix
+    title: "Ai (Stage 3)"
+    path: "Ai (Stage3) [Megamix].mp3"
+    type: battle
+  - id: bang_bang_big_hornes_explosion_megamix
+    title: "Bang! Bang! Big Hornes Explosion"
+    path: "Bang! Bang! Big Hornes Explosion [Megamix].mp3"
+    type: battle
+  - id: barracuda_megamix
+    title: "BARRACUDA"
+    path: "BARRACUDA [Megamix].mp3"
+    type: battle
+  - id: battle_democalypse_megamix
+    title: "Battle (Democalypse)"
+    path: "Battle (Democalypse) [Megamix].mp3"
+    type: battle
+  - id: battle_gym_leader_vector_u_remix_megamix
+    title: "Battle! Gym Leader (Vector U Remix)"
+    path: "Battle! Gym Leader (Vector U Remix) [Megamix].mp3"
+    type: battle
+  - id: beat_that_megamix
+    title: "Beat That!"
+    path: "Beat That! [Megamix].mp3"
+    type: battle
+  - id: black_zone_2020_ver_megamix
+    title: "Black Zone (2020 ver.)"
+    path: "Black Zone (2020 ver.) [Megamix].mp3"
+    type: battle
+  - id: brutality_rebuild_megamix
+    title: "Brutality -Rebuild-"
+    path: "Brutality -Rebuild- [Megamix].mp3"
+    type: battle
+  - id: cerulean_city_vgr_remix_megamix
+    title: "Cerulean City (VGR Remix)"
+    path: "Cerulean City (VGR Remix) [Megamix].mp3"
+    type: battle
+  - id: corneria_ansgaros_guitar_cover_megamix
+    title: "Corneria (Ansgaros Guitar Cover)"
+    path: "Corneria (Ansgaros guitar cover) [Megamix].mp3"
+    type: battle
+  - id: disco_ball_rr_20th_anniv_mix_megamix
+    title: "Disco Ball (RR 20th Anniv. Mix)"
+    path: "Disco Ball (RR 20th Anniv. Mix) [Megamix].mp3"
+    type: battle
+  - id: eternal_circle_2020_ver_megamix
+    title: "Eternal Circle (2020 ver.)"
+    path: "Eternal Circle (2020 ver.) [Megamix].mp3"
+    type: battle
+  - id: final_battle_vgr_remix_megamix
+    title: "Final Battle (VGR Remix)"
+    path: "Final Battle (VGR Remix) [Megamix].mp3"
+    type: battle
+  - id: final_destination_acid_notation_megamix
+    title: "Final Destination (Acid-Notation)"
+    path: "Final Destination (Acid-Notation) [Megamix].mp3"
+    type: battle
+  - id: fly_away_megamix
+    title: "Fly Away"
+    path: "Fly Away [Megamix].mp3"
+    type: battle
+  - id: flying_battery_general_offensive_megamix
+    title: "Flying Battery (General Offensive)"
+    path: "Flying Battery (General Offensive) [Megamix].mp3"
+    type: battle
+  - id: giftiger_fullhalter_megamix
+    title: "Giftiger Fullhalter"
+    path: "Giftiger Fullhalter [Megamix].mp3"
+    type: battle
+  - id: gourmet_race_acid_notation_megamix
+    title: "Gourmet Race (Acid-Notation)"
+    path: "Gourmet Race (Acid-Notation Remix) [Megamix].mp3"
+    type: battle
+  - id: green_greens_acid_notation_megamix
+    title: "Green Greens (Acid-Notation)"
+    path: "Green Greens (Acid-Notation Remix) [Megamix].mp3"
+    type: battle
+  - id: grip_rr_20th_anniv_mix_megamix
+    title: "Grip (RR 20th Anniv. Mix)"
+    path: "Grip (RR 20th Anniv. Mix) [Megamix].mp3"
+    type: battle
+  - id: hacked_megamix
+    title: "Hacked"
+    path: "Hacked [Megamix].mp3"
+    type: battle
+  - id: hazy_maze_cave_vgr_remix_megamix
+    title: "Hazy Maze Cave (VGR Remix)"
+    path: "Hazy Maze Cave (VGR Remix) [Megamix].mp3"
+    type: battle
+  - id: hyrule_dungeon_courage_megamix
+    title: "Hyrule Dungeon (Courage)"
+    path: "Hyrule Dungeon (Courage) [Megamix].mp3"
+    type: battle
+  - id: kinetic_harvest_megamix
+    title: "Kinetic Harvest"
+    path: "Kinetic Harvest [Megamix].mp3"
+    type: battle
+  - id: kooky_megamix
+    title: "Kooky"
+    path: "Kooky [Megamix].mp3"
+    type: battle
+  - id: magikarp_festival_megamix
+    title: "Magikarp Festival"
+    path: "Magikarp Festival [Megamix].mp3"
+    type: battle
+  - id: main_theme_sidnify_remix_megamix
+    title: "Main Theme (SIDNIFY Remix)"
+    path: "Main Theme (SIDNIFY Remix) [Megamix].mp3"
+    type: battle
+  - id: menu_megamix
+    title: "Menu"
+    path: "Menu [Megamix].mp3"
+    type: battle
+  - id: metallic_madness_g_mix_megamix
+    title: "Metallic Madness \'\'G\'\' Mix"
+    path: "Metallic Madness ''G'' Mix [Megamix].mp3"
+    type: battle
+  - id: miller_ball_breakers_jp_mix
+    title: "Miller Ball Breakers (JP Mix)"
+    path: "Miller Ball Breakers (JP Mix) [Megamix].mp3"
+    type: battle
+  - id: nyan_cat_megamix
+    title: "Nyan Cat"
+    path: "Nyan Cat [Megamix].mp3"
+    type: battle
+  - id: pac_madness_megamix
+    title: "PAC MADNESS"
+    path: "PAC MADNESS [Megamix].mp3"
+    type: battle
+  - id: pepsi_man_megamix
+    title: "Pepsi Man"
+    path: "Pepsi Man [Megamix].mp3"
+    type: battle
+  - id: pleasures_of_speed_2020_ver
+    title: "Pleasures of Speed (2020 ver.)"
+    path: "Pleasures of Speed (2020 ver.) [Megamix].mp3"
+    type: battle
+  - id: power_of_darkness_megamix
+    title: "Power of Darkness"
+    path: "Power of Darkness (MAMA PURITY Remix [Remake]) [Megamix].mp3"
+    type: battle
+  - id: ran_stage_1_megamix
+    title: "Ran (Stage 1)"
+    path: "Ran (Stage1) [Megamix].mp3"
+    type: battle
+  - id: receive_and_believe_you_megamix
+    title: "Receive and Believe You"
+    path: "Receive and Believe You [Megamix].mp3"
+    type: battle
+  - id: receive_you_tech_trance_arrance_megamix
+    title: "Receive You -Tech Trance Arrange-"
+    path: "Receive You -Tech Trance Arrange- [Megamix].mp3"
+    type: battle
+  - id: remix_10_megamix
+    title: "Remix 10"
+    path: "Remix 10 [Megamix].mp3"
+    type: battle
+  - id: spark_man_stage_acid_notation_megamix
+    title: "Spark Man Stage (Acid-Notation)"
+    path: "Spark Man Stage (Acid-Notation Remix) [Megamix].mp3"
+    type: battle
+  - id: starlight_starbright_blind_megamix
+    title: "Starlight Starbright (bLiNd)"
+    path: "Starlight Starbright (bLiNd) [Megamix].mp3"
+    type: battle
+  - id: taiji_boss_megamix
+    title: "Taiji (Boss)"
+    path: "Taiji (Boss) [Megamix].mp3"
+    type: battle
+  - id: team_rocket_hideout_ultraball_megamix
+    title: "Team Rocket Hideout (Ultraball)"
+    path: "Team Rocket Hideout (Ultraball) [Megamix].mp3"
+    type: battle
+  - id: the_final_count_down_2020_ver_megamix
+    title: "The Final Count Down (2020 ver.)"
+    path: "The Final Count Down (2020 ver.) [Megamix].mp3"
+    type: battle
+  - id: the_only_thing_they_fear_is_kirby_megamix
+    title: "The Only Thing They Fear is KIRBY"
+    path: "The Only Thing They Fear is KIRBY [Megamix].mp3"
+    type: battle
+  - id: toad_s_factory_vgr_megamix
+    title: "Toad's Factory (VGR Remix)"
+    path: "Toads Factory (VGR Remix) [Megamix].mp3"
+    type: battle
+  - id: touhou_phonk_megamix
+    title: "TOUHOU PHONK"
+    path: "Touhou phonk [Megamix].mp3"
+    type: battle
+  - id: traffic_megamix
+    title: "Traffic"
+    path: "Traffic [Megamix].mp3"
+    type: battle
+  - id: trainer_battle_vgr_remix_megamix
+    title: "Trainer Battle (VGR Remix)"
+    path: "Trainer Battle (VGR Remix) [Megamix].mp3"
+    type: battle
+  - id: training_room_megamix
+    title: "Training Room"
+    path: "Training Room [Megamix].mp3"
+    type: battle
+  - id: tutorial_megamix
+    title: "Tutorial"
+    path: "Tutorial [Megamix].mp3"
+    type: battle
+  - id: waikiki_down_beat_megamix
+    title: "Waikiki Down Beat"
+    path: "Waikiki Down Beat [Megamix].mp3"
     type: battle
 ...

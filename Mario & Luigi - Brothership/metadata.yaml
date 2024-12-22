@@ -1,0 +1,155 @@
+id: mario_and_luigi_brothership
+title: "Mario & Luigi - Brothership"
+platform: "Switch"
+series: mario
+year: 2024
+songs:
+  - id: shipshape_island
+    title: "Shipshape Island"
+    path: "shipshape.wem"
+    type: betting
+  - id: battle_theme_brothership
+    title: "Battle Theme"
+    path: "fight.wem"
+    type: battle
+  - id: island_select
+    title: "Island Select"
+    path: "map.wem"
+    type: result
+  - id: lighthouse_connected
+    title: "Lighthouse Connected!"
+    path: "light.wem"
+    type: result
+  - id: rumbla_island
+    title: "Rumbla Island"
+    path: "rumbla.wem"
+    type: betting
+  - id: twistee_island
+    title: "Twistee Island"
+    path: "twist.wem"
+    type: betting
+  - id: raynforest_island
+    title: "Raynforest Island"
+    path: "cafe.wem"
+    type: betting
+  - id: approaching_the_boss
+    title: "Approaching the Boss"
+    path: "warning.wem"
+    type: warning
+  - id: miniboss_brothership
+    title: "Miniboss Battle"
+    path: "miniboss.wem"
+    type: battle
+  - id: boss_battle_brothership
+    title: "Boss Battle"
+    path: "maxiboss.wem"
+    type: battle
+  - id: trouble_brothership
+    title: "Trouble"
+    path: "toloveru.wem"
+    type: betting
+  - id: great_lighthouse
+    title: "Great Lighthouse"
+    path: "biglight.wem"
+    type: betting
+  - id: florall_island
+    title: "Florall Island"
+    path: "flower.wem"
+    type: betting
+  - id: grampy_turnip
+    title: "Grampy Turnip"
+    path: "turnip.wem"
+    type: result
+  - id: desolatt_island
+    title: "Desolatt Island"
+    path: "nothing.wem"
+    type: betting
+  - id: merrygo_island
+    title: "Merrygo Island"
+    path: "luffy.wem"
+    type: betting
+  - id: allsand_island
+    title: "Allsand Island"
+    path: "anakin.wem"
+    type: betting
+  - id: lottacoins_island
+    title: "Lottacoins Island"
+    path: "wario.wem"
+    type: betting
+  - id: lottacoins_island_building
+    title: "Lottacoins Island Building"
+    path: "wariohouse.wem"
+    type: betting
+  - id: heatfreeze_island
+    title: "Heatfreeze Island"
+    path: "flazzard.wem"
+    type: betting
+  - id: slippenglide_island
+    title: "Slippenglide Island"
+    path: "granddad.wem"
+    type: betting
+  - id: skorcheen_island
+    title: "Skorcheen Island"
+    path: "burns.wem"
+    type: betting
+  - id: underground_investigation_brothership
+    title: "Underground Investigation"
+    path: "stakeout.wem"
+    type: betting
+  - id: fortress_zokket
+    title: "Fortress Zokket"
+    path: "socket.wem"
+    type: betting
+  - id: offlandon_island
+    title: "Offlandon Island"
+    path: "uhsea.wem"
+    type: betting
+  - id: bowser_s_castle_brothership
+    title: "Bowser's Castle"
+    path: "koopa.wem"
+    type: betting
+  - id: jellyfish_island
+    title: "Jellyfish Island"
+    path: "spunch.wem"
+    type: betting
+  - id: club_dyode
+    title: "Club Dyode"
+    path: "rocksolid.wem"
+    type: betting
+  - id: reclusa
+    title: "Reclusa"
+    path: "neet.wem"
+    type: warning
+  - id: soli_tree
+    title: "Soli-Tree"
+    path: "alone.wem"
+    type: betting
+  - id: mushroom_kingdom_brothership
+    title: "Mushroom Kingdom?"
+    path: "fungus.wem"
+    type: betting
+  - id: peach_s_castle_brothership
+    title: "Peach's Castle?"
+    path: "pit.wem"
+    type: warning
+  - id: chasing_reclusa
+    title: "Chasing Reclusa"
+    path: "fastneet.wem"
+    type: battle
+  - id: weeping_reclusa_battle
+    title: "Weeping Reclusa Battle"
+    path: "sadneet.wem"
+    type: battle
+  - id: final_reclusa_battle_phase_1
+    title: "Final Reclusa Battle (Phase 1)"
+    path: "neetfinal.wem"
+    type: battle
+  - id: final_reclusa_battle_phase_2
+    title: "Final Reclusa Battle (Phase 2)"
+    path: "neetfinaler.wem"
+    type: battle
+  - id: game_over_brothership
+    title: "Game Over"
+    path: "gameover.wem"
+    type: result
+...

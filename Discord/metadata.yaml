@@ -25,4 +25,8 @@ songs:
     title: "Waiting Room"
     path: "Waiting Room.brstm"
     type: break
+  - id: incoming_call_snow_halation_rare
+    title: "Incoming Call (Rare)"
+    path: "Incoming Call (Snow Halation).brstm"
+    type: result
 ...

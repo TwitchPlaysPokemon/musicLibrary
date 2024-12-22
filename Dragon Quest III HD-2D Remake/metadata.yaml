@@ -1,0 +1,146 @@
+id: dragon_quest_iii_hd_2d_remake
+title: "Dragon Quest III HD-2D Remake"
+year: 2024
+platform: "Various"
+songs:
+  - id: roto_overture
+    title: "Roto / Overture"
+    path: "BGM_01a_Overture.txtp"
+    type: betting
+  - id: intermezzo
+    title: "Intermezzo"
+    path: "BGM_02_Intermezzo.txtp"
+    type: result
+  - id: adventure_adventurous_journey
+    title: "Adventure / Adventurous Journey"
+    path: "BGM_03a_Adventurous_Journey.txtp"
+    type: betting
+  - id: unknown_world_alefgard
+    title: "Unknown World / Alefgard"
+    path: "BGM_04_Alefgard.txtp"
+    type: break
+  - id: rondo_ronde_de_la_royale
+    title: "Rondo / Ronde de la Royale"
+    path: "BGM_05_Ronde_de_la_Royale.txtp"
+    type: betting
+  - id: royal_palace_night
+    title: "Royal Palace (Night)"
+    path: "BGM_06_Royal_Palace_Night.txtp"
+    type: break
+  - id: ladutorm_castle
+    title: "Ladutorm Castle"
+    path: "BGM_07_Ladutorm_Castle.txtp"
+    type: betting
+  - id: town_dq3hd
+    title: "Town"
+    path: "BGM_08_Town.txtp"
+    type: betting
+  - id: town_night_dq3hd
+    title: "Town (Night)"
+    path: "BGM_09_Town_Night.txtp"
+    type: break
+  - id: zipangu
+    title: "Zipangu"
+    path: "BGM_10_Zipangu.txtp"
+    type: betting
+  - id: himiko_s_palace
+    title: "Himiko's Palace"
+    path: "BGM_11_Himikos_Palace.txtp"
+    type: betting
+  - id: people_in_town
+    title: "People in Town"
+    path: "BGM_12_People_in_town.txtp"
+    type: betting
+  - id: small_shrine
+    title: "Small Shrine"
+    path: "BGM_13_Small_shrine.txtp"
+    type: betting
+  - id: village_dq3hd
+    title: "Village"
+    path: "BGM_14_Village.txtp"
+    type: betting
+  - id: village_night_dq3hd
+    title: "Village (Night)"
+    path: "BGM_15_Village_Night.txtp"
+    type: break
+  - id: sleeping_village
+    title: "Sleeping Village"
+    path: "BGM_16_Sleeping_Village.txtp"
+    type: break
+  - id: dungeon_dq3hd
+    title: "Dungeon"
+    path: "BGM_17_Dungeon.txtp"
+    type: betting
+  - id: pyramid_dq3hd
+    title: "Pyramid"
+    path: "BGM_18_Pyramid.txtp"
+    type: betting
+  - id: tower_dq3hd
+    title: "Tower"
+    path: "BGM_19_Tower.txtp"
+    type: warning
+  - id: into_the_legend_dq3hd
+    title: "Into the Legend"
+    path: "BGM_20_And_to_the_legend.txtp"
+    type: betting
+  - id: fighting_spirit_battle_theme_dq3hd
+    title: "Fighting Spirit / Battle Theme"
+    path: "BGM_21_Battle_Theme.txtp"
+    type: battle
+  - id: gruelling_fight_battle_time
+    title: "Gruelling Fight / Battle Time"
+    path: "BGM_22_Battle_Time.txtp"
+    type: battle
+  - id: hero_s_challenge_brave_man_s_challenge
+    title: "Hero's Challenge / Brave Man's Challenge"
+    path: "BGM_23_Brave_Mans_Challenge.txtp"
+    type: battle
+  - id: requiem_dq3hd
+    title: "Requiem"
+    path: "BGM_24_Requiem.txtp"
+    type: break
+  - id: heavenly_flight_fly_in_the_sky
+    title: "Heavenly Flight / Fly in the Sky"
+    path: "BGM_25_Fly_in_the_sky.txtp"
+    type: betting
+  - id: sailing_across_the_sea
+    title: "Sailing / Across the Sea"
+    path: "BGM_26_Across_the_sea.txtp"
+    type: betting
+  - id: the_phantom_ship_ghost_ship
+    title: "The Phantom Ship / Ghost Ship"
+    path: "BGM_27_Ghost_ship.txtp"
+    type: warning
+  - id: boogie_woogie_boogie_woogie_at_the_bar
+    title: "Boogie-Woogie / Boogie Woogie at the Bar"
+    path: "BGM_28_Boogie_Woogie_at_the_Bar.txtp"
+    type: betting
+  - id: cave_1_dq3hd
+    title: "Cave 1"
+    path: "BGM_29_Cave_1.txtp"
+    type: warning
+  - id: cave_2_dq3hd
+    title: "Cave 2"
+    path: "BGM_29_Cave_2.txtp"
+    type: warning
+  - id: cave_3_dq3hd
+    title: "Cave 3"
+    path: "BGM_29_Cave_3.txtp"
+    type: warning
+  - id: cave_4_dq3hd
+    title: "Cave 4"
+    path: "BGM_29_Cave_4.txtp"
+    type: warning
+  - id: zoma_s_castle
+    title: "Zoma's Castle"
+    path: "BGM_30_Zomas_Castle.txtp"
+    type: break
+  - id: prologue_in_slumber
+    title: "Prologue / In Slumber"
+    path: "BGM_31_In_slumber.txtp"
+    type: break
+  - id: distant_memories_reminiscence
+    title: "Distant Memories / Reminiscence"
+    path: "BGM_32_Reminiscence.txtp"
+    type: break
+...
