@@ -1,0 +1,63 @@
+---
+id: vampire_survivors
+title: "Vampire Survivors"
+platform: "Various"
+year: 2022
+songs:
+  - id: legacy_of_the_moonspell
+    title: "Legacy of the Moonspell"
+    path: "Legacy of the Moonspell.brstm"
+    type: battle
+  - id: rumble_kachara
+    title: "Rumble Kachara"
+    path: "Rumble Kachara.brstm"
+    type: battle
+  - id: slaying_dragons
+    title: "Slaying Dragons"
+    path: "Slaying Dragons.brstm"
+    type: battle
+  - id: red_and_blue
+    title: "Red & Blue"
+    path: "Red & Blue.brstm"
+    type: battle
+  - id: gaze_up_at_the_stars
+    title: "Gaze Up at the Stars"
+    path: "Gaze Up at the Stars.brstm"
+    type: battle
+  - id: mighty_illusion
+    title: "Mighty Illusion"
+    path: "Mighty Illusion.brstm"
+    type: battle
+  - id: crystal_allure
+    title: "Crystal Allure"
+    path: "Crystal Allure.brstm"
+    type: betting
+  - id: barely_staying_alive
+    title: "Barely Staying Alive"
+    path: "Barely Staying Alive.brstm"
+    type: betting
+  - id: reincarnated_echoes
+    title: "Reincarnated Echoes"
+    path: "Reincarnated Echoes.brstm"
+    type: betting
+  - id: hide_and_survive
+    title: "Hide and Survive"
+    path: "Hide and Survive.brstm"
+    type: battle
+  - id: i_m_every_reaper
+    title: "I'm Every Reaper"
+    path: "I'm Every Reaper.brstm"
+    type: battle
+  - id: libro_inferno
+    title: "Libro Inferno"
+    path: "Libro Inferno.brstm"
+    type: battle
+  - id: forest_night_fever
+    title: "Forest Night Fever"
+    path: "Forest Night Fever.brstm"
+    type: betting
+  - id: emergency_meeting_vs
+    title: "Emergency Meeting"
+    path: "Emergency Meeting (Custom loop).brstm"
+    type: battle
+...

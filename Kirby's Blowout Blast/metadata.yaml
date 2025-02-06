@@ -17,8 +17,8 @@ songs:
     title: "Bubbly Clouds"
     path: "GB_Bubbly.dspadpcm.bcstm"
     type: betting
-  - id: entrance_kirbys_blowout_blast
-    title: "Entrance"
+  - id: plaza_kirbys_blowout_blast
+    title: "Plaza"
     path: "GB_QKJyo.dspadpcm.bcstm"
     type: warning
   - id: boss_theme_kirbys_blowout_blast
@@ -37,32 +37,32 @@ songs:
     title: "Ending"
     path: "GB_StaffRoll.dspadpcm.bcstm"
     type: result
-  - id: king_dedede_s_theme_amiibo_special_ver
-    title: "King Dedede's Theme / amiibo Special ver."
+  - id: king_dedede_s_theme_amiibo_special_arrangement
+    title: "King Dedede's Theme — amiibo Special Arrangement"
     path: "dddnddd.dspadpcm.bcstm"
     type: result
   - id: king_dededes_theme_kirbys_blowout_blast
     title: "King Dedede's Theme"
     path: "GBDDD_Long.dspadpcm.bcstm"
     type: battle
-  - id: the_adventure_begins_amiibo_special_ver
-    title: "The Adventure Begins / amiibo Special ver."
+  - id: the_adventure_begins_amiibo_special_arrangement
+    title: "The Adventure Begins — amiibo Special Arrangement"
     path: "amiiboKirbyWii.dspadpcm.bcstm"
     type: betting
-  - id: meta_knights_revenge_amiibo_special_ver
-    title: "Meta Knight's Revenge / amiibo Special ver."
+  - id: meta_knights_revenge_amiibo_special_arrangement
+    title: "Meta Knight's Revenge — amiibo Special Arrangement"
     path: "amiiboMeta.dspadpcm.bcstm"
     type: betting
   - id: mid_boss_kirbys_blowout_blast
     title: "Mid-Boss"
     path: "FC_Tamago.dspadpcm.bcstm"
     type: warning
-  - id: tommorrow_is_tommorows_great_battle
-    title: "Tommorow is Tommorow's Great Battle"
+  - id: a_decisive_battle_for_tomorrow_blowout_blast
+    title: "A Decisive Battle for Tomorrow"
     path: "EndLastBoss.dspadpcm.bcstm"
     type: betting
   - id: floral_fields_amiibo_special_ver
-    title: "Floral Fields / amiibo Special ver."
+    title: "Floral Fields — amiibo Special Arrangement"
     path: "amiiboWado.dspadpcm.bcstm"
     type: betting
 ...

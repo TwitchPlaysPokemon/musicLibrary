@@ -41,15 +41,15 @@ songs:
     path: "20 Defeat.vgz"
     type: result
   - id: unknown_1_ts2p
-    title: "Unknown 1.vgz"
+    title: "Unknown 1"
     path: "21 Unknown 1.vgz"
     type: warning
   - id: unknown_2_ts2p
-    title: "Unknown 2.vgz"
+    title: "Unknown 2"
     path: "22 Unknown 2.vgz"
     type: result
   - id: unknown_3_ts2p
-    title: "Unknown 3.vgz"
+    title: "Unknown 3"
     path: "23 Unknown 3.vgz"
     type: result
 ...

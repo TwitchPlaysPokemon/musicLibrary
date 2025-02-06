@@ -1,0 +1,15 @@
+---
+id: house_md
+title: "House M.D."
+platform: "PC"
+year: 2010
+songs: 
+  - id: mission_house
+    title: "Mission"
+    path: "Mission.brstm"
+    type: warning
+  - id: maze_game_house
+    title: "Maze Game"
+    path: "Maze Game.brstm"
+    type: betting
+...

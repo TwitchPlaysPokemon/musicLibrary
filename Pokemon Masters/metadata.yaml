@@ -389,6 +389,10 @@ songs:
     title: "Ultimate Battle! (Giovanni)"
     path: "bgm_battle_sakaki_03.logg"
     type: battle
+  - id: giovanni_s_goal
+    title: "Giovanni's Goal"
+    path: "bgm_battle_sakaki_04.logg"
+    type: betting #Game Freak why do you make this a battle track
   - id: battle_kanto_legendary_pokemon
     title: "Battle! (Kanto Legendary Pokémon)"
     path: "bgm_battle_legend_kanto.logg"
@@ -1015,6 +1019,10 @@ songs:
     title: "Decisive Battle! (Leon)"
     path: "bgm_battle_dande_02.logg"
     type: battle
+  - id: glorious_battle_leon
+    title: "Glorious Battle! (Leon)"
+    path: "bgm_battle_dande_ax.logg"
+    type: battle
   - id: battle_oleana_masters
     title: "Battle! (Oleana)"
     path: "bgm_battle_olive.logg"
@@ -1076,6 +1084,14 @@ songs:
   - id: battle_team_star_boss_eri
     title: "Battle! (Team Star Boss: Eri)"
     path: "bgm_battle_star_biwa.logg"
+    type: battle
+  - id: battle_team_star_boss_mela
+    title: "Battle! (Team Star Boss: Mela)"
+    path: "bgm_battle_star_meroko.logg"
+    type: battle
+  - id: battle_team_star_boss_atticus
+    title: "Battle! (Team Star Boss: Atticus)"
+    path: "bgm_battle_star_shuumei.logg"
     type: battle
   - id: battle_penny
     title: "Battle! (Penny)"
@@ -1187,6 +1203,10 @@ songs:
     title: "Battle! (Deck The Halls)"
     path: "bgm_battle_christmas.logg"
     type: battle
+  - id: starlight_harmony
+    title: "Starlight Harmony"
+    path: "bgm_battle_christmas_02.logg"
+    type: break #why a battle track again, GF
   - id: battle_new_year_masters
     title: "Battle! (New Year)"
     path: "bgm_battle_newyear.logg"

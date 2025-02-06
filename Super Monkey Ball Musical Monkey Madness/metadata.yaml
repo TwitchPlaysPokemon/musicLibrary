@@ -1,0 +1,175 @@
+---
+id: super_monkey_ball_musical_monkey_madness
+title: "Super Monkey Ball: Musical Monkey Madness"
+series: supermonkeyball, siivagunner
+is_fanwork: true
+platform: "PC"
+year: 2022
+#so this is an event that SiIvagunner did a couple years back where they made a bunch of Super Monkey Ball remixes
+#and also made them into a mod you can play for Banana Mania
+songs:
+  - id: main_theme_finnsfolks_remix
+    title: "Menu Theme (Finnsfolks Remix)"
+    path: "adv.awb"
+    type: betting
+  - id: jungle_island_rom_m_mix
+    title: "JUNGLE ISLAND (Rom M Mix)"
+    path: "bgm_world1_romm.awb"
+    type: betting
+  - id: just_beyond_the_rainbow_soundcirclet_mix
+    title: "Just Beyond the Rainbow! (SoundCirclet Remix)"
+    path: "bgm_world1_rainbow.awb"
+    type: betting
+  - id: potassium_party
+    title: "Potassium Party"
+    path: "bgm_world1_kalium.awb"
+    type: betting
+  - id: volcanic_magma_breaks
+    title: "Volcanic Magma Breaks"
+    path: "bgm_world2.awb"
+    type: betting
+  - id: monkey_in_the_ocean
+    title: "Monkey in the Ocean"
+    path: "bgm_world3.awb"
+    type: betting
+  - id: whaaaale
+    title: "Whaaaale!"
+    path: "bgm_world4.awb"
+    type: betting
+  - id: roller_coaster_ride_smbmmm
+    title: "Roller Coaster Ride"
+    path: "bgm_world5_coaster.awb"
+    type: betting
+  - id: roller_coaster_ride_instrumental
+    title: "Roller Coaster Ride (Instrumental)"
+    path: "bgm_world5_inst.awb"
+    type: betting
+  - id: b_o_i_l_212_f_mix
+    title: "B.O.I.L. (212 F Mix)"
+    path: "bgm_world6.awb"
+    type: betting
+  - id: permanent_press
+    title: "Permanent Press"
+    path: "bgm_world7.awb"
+    type: betting
+  - id: clock_tower_raceway
+    title: "CLOCK TOWER RACEWAY"
+    path: "bgm_world8.awb"
+    type: betting
+  - id: its_too_good_to_be_true_ludosmo_remix
+    title: "Its Too Good To Be True (ludosmo remix)"
+    path: "bgm_world9_2gtbt.awb"
+    type: betting
+  - id: its_too_good_to_be_true_ludosmo_remix_instrumental
+    title: "Its Too Good To Be True (ludosmo remix) (Instrumental)"
+    path: "bgm_world9_2gtbti.awb"
+    type: betting
+  - id: you_are_now_in_the_space_quadrant_bad_future
+    title: "You Are Now In the Space Quadrant [Bad Future]"
+    path: "bgm_world9_bf.awb"
+    type: betting
+  - id: big_bad_monkey_ball
+    title: "Big Bad Monkey Ball"
+    path: "bgm_world10.awb"
+    type: betting
+  - id: bonus_stage_overamped_mix
+    title: "Bonus Stage (Overamped Mix)"
+    path: "bgm_bonus.awb"
+    type: betting
+  - id: monkeys_in_motion
+    title: "Monkeys in Motion"
+    path: "bgm_smb1_st1_mim.awb"
+    type: battle
+  - id: rolling_deep_in_the_thick_of_it
+    title: "Rolling Deep in the Thick of It"
+    path: "bgm_smb1_st1_thick.awb"
+    type: betting
+  - id: tidal_adventures_forever
+    title: "Tidal Adventures Forever"
+    path: "bgm_smb1_st2_taa.awb"
+    type: betting
+  - id: tidal_adventures_forever_instrumental
+    title: "Tidal Adventures Forever (Instrumental)"
+    path: "bgm_smb1_st2_taai.awb"
+    type: betting
+  - id: night_roll
+    title: "NIGHT ROLL"
+    path: "bgm_smb1_st3.awb"
+    type: battle
+  - id: sky_high_ape_mix
+    title: "Sky High (Ape Mix)"
+    path: "bgm_smb1_st4.awb"
+    type: battle
+  - id: zero_g_soda
+    title: "ZERO G SODA"
+    path: "bgm_smb1_st5.awb"
+    type: betting
+  - id: aladdin_s_rave
+    title: "ALADDIN'S RAVE"
+    path: "bgm_smb1_st6.awb"
+    type: betting
+  - id: snowball_effect
+    title: "Snowball Effect"
+    path: "bgm_smb1_st7.awb"
+    type: betting
+  - id: eye_wall
+    title: "Eye Wall"
+    path: "bgm_smb1_st8.awb"
+    type: battle
+  - id: master_stage_in_line_mix
+    title: "Master Stage (In-Line Mix)"
+    path: "bgm_smb1_stm.awb"
+    type: betting
+  - id: monkey_race_2_expert_intelligence_mix
+    title: "Monkey Race 2 Expert (Intelligence Mix)"
+    path: "bgm_pg_race.awb"
+    type: battle
+  - id: monkot_bingo
+    title: "Monkot Bingo"
+    path: "bgm_pg_fight.awb"
+    type: betting
+  - id: lo_fi_golfe_nova
+    title: "Lo-Fi Golfe Nova"
+    path: "bgm_pg_golf.awb"
+    type: break
+  - id: beyond_the_river
+    title: "Beyond the River"
+    path: "bgm_pg_boat.awb"
+    type: betting
+  - id: role_call_ball
+    title: "Role Call Ball"
+    path: "bgm_pg_bowling_rcb.awb"
+    type: betting
+  - id: we_do_a_little_bowling
+    title: "We Do a Little Bowling"
+    path: "bgm_pg_bowling_wdal.awb"
+    type: betting
+  - id: super_monkey_break
+    title: "!!! Super Monkey Break !!!"
+    path: "shot.txtp"
+    type: betting
+  - id: you_have_chosen_death_foolish_monkey
+    title: "You Have Chosen Death, Foolish Monkey"
+    path: "shotboss.txtp"
+    type: battle
+  - id: gorilla_warfare
+    title: "Gorilla Warfare"
+    path: "bgm_pg_dogfight.awb"
+    type: battle
+  - id: kick_it_smbmmm
+    title: "Kick It!"
+    path: "bgm_pg_futsal.awb"
+    type: betting
+  - id: bb
+    title: "bb"
+    path: "bgm_pg_baseball.awb"
+    type: betting
+  - id: love_love
+    title: "LOVE-LOVE"
+    path: "bgm_pg_tennis.awb"
+    type: betting
+  - id: wow_thx_for_playing
+    title: "WOW... thx for playing!!!"
+    path: "staffrool.awb"
+    type: betting
+...

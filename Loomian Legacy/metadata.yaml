@@ -41,4 +41,36 @@ songs:
     title: "Smoldering Heat Weather Theme"
     path: "Smoldering Heat Weather Theme.brstm"
     type: betting
+  - id: ranked_battle_selection
+    title: "Ranked Battle Selection"
+    path: "Loomian_Selection_Ranked.ogg"
+    type: warning
+  - id: ranked_battle_theme
+    title: "Ranked Battle Theme"
+    path: "ranked.txtp"
+    type: battle
+  - id: battle_vs_dr_vanta
+    title: "Battle Vs Dr. Vanta"
+    path: "vanta.txtp" #probably the best looping I could eyeball. Could adjust later if needed
+    type: battle
+  - id: severe_thunderstorm
+    title: "Severe Thunderstorm"
+    path: "Severe_Thunderstorm.ogg"
+    type: betting
+  - id: aranatta_trench
+    title: "Aranatta Trench"
+    path: "Aranatta_Trench.ogg"
+    type: break
+  - id: atlanthian_arcade
+    title: "Atlanthian Arcade"
+    path: "Atlanthian_Arcade.ogg"
+    type: betting
+  - id: raid_battle_theme
+    title: "Raid Battle Theme"
+    path: "raid.txtp"
+    type: battle
+  - id: dire_situation
+    title: "Dire Situation"
+    path: "Lotusun_Beach_Cutscene.ogg"
+    type: warning
 ...

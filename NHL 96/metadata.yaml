@@ -1,0 +1,9 @@
+id: nhl_96
+title: "NHL '96"
+year: 1995
+platform: ["SNES", "Genesis", "DOS", "GB"]
+songs:
+  - id: get_ready_for_this
+    title: "Get Ready For This"
+    path: "NHL 96 title.spc"
+    type: betting

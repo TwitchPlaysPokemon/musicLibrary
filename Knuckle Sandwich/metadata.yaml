@@ -1,0 +1,35 @@
+---
+id: knuckle_sandwich
+title: "Knuckle Sandwich"
+platform: "PC"
+year: 2023
+songs: 
+  - id: biggest_punch
+    title: "Biggest Punch"
+    path: "Biggest Punch.brstm"
+    type: warning
+  - id: thieving_snoop
+    title: "Thieving Snoop"
+    path: "Thieving Snoop.brstm"
+    type: betting
+  - id: side_street_step
+    title: "Side Street Step"
+    path: "Side Street Step.brstm"
+    type: betting
+  - id: handsome_humanoids
+    title: "Handsome Humanoids"
+    path: "Handsome Humanoids.brstm"
+    type: result
+  - id: go_go_power_muscle
+    title: "Go! Go! Power Muscle"
+    path: "Go! Go! Power Muscle.brstm"
+    type: battle
+  - id: the_final_boss_knuckle_sandwich
+    title: "The Final Boss"
+    path: "The Final Boss.brstm"
+    type: betting
+  - id: end_credits_knuckle_sandwich
+    title: "End Credits"
+    path: "End Credits (Custom loop).brstm"
+    type: result
+...

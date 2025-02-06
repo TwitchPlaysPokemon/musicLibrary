@@ -1,0 +1,219 @@
+---
+id: totino_s_mania
+title: "Totino's Mania"
+series: sonic, siivagunner
+platform: "PC"
+is_fanwork: true 
+year: 2020
+#another Siivagunner mod, this time for Sonic Mania. Again, this is a mod so I'm saying it technically fits
+#and also I wanted rips of the punk pizza rolls
+songs: 
+  - id: get_stuffed_nachos
+    title: "GET STUFFED NACHOS"
+    path: "BlueSpheres.txtp"
+    type: betting
+  - id: star_dream_delusions
+    title: "Star Dream Delusions"
+    path: "BossEggman1.txtp"
+    type: battle
+  - id: eating_totinos_at_the_carnival_also_there_s_a_boss_or_whatever
+    title: "Eating Totinos At The Carnival... also there's a boss or whatever"
+    path: "BossEggman2.txtp"
+    type: battle
+  - id: punk_rock_pizza_illusions
+    title: "Punk Rock Pizza Illusions"
+    path: "BossFinal.txtp"
+    type: battle
+  - id: hi_temp_totino_go_hard_baked_roll_boss
+    title: "Hi-Temp Totino Go! - Hard-Baked Roll Boss"
+    path: "BossHBH.txtp"
+    type: betting
+  - id: diploma_dope_on_the_kitchen_floor_ft_ree_kid
+    title: "Diploma Dope on the Kitchen Floor (ft. Ree Kid)"
+    path: "BossMini.txtp"
+    type: warning
+  - id: dr_robotnik_lean_mean_pizza_roll_baking_machine
+    title: "Dr. Robotnik's Lean Mean Pizza Roll-Baking Machine"
+    path: "BossPuyo.txtp"
+    type: battle
+  - id: totinsnow_s_plant
+    title: "Totinsnow's Plant"
+    path: "ChemicalPlant1.txtp"
+    type: betting
+  - id: chemical_totino_s_of_mass_destruction
+    title: "Chemical Totino's of Mass Destruction"
+    path: "ChemicalPlant2.txtp"
+    type: betting
+  - id: baking_king
+    title: "BAKING KING"
+    path: "Competition.txtp"
+    type: result
+  - id: guided_tour_of_my_kitchen
+    title: "Guided Tour of My Kitchen"
+    path: "Credits.txtp"
+    type: result
+  - id: pizzeria_reveria
+    title: "Pizzeria Reveria"
+    path: "EggReverie.txtp"
+    type: battle
+  - id: you_have_been_initiated_you_are_now_part_of_the_totino_s_lifestyle
+    title: "You have been initiated. You are now part of the Totino's lifestyle."
+    path: "EggReveriePinch.txtp"
+    type: warning
+  - id: flying_pizzaroll_webzone
+    title: "Flying Pizzaroll Webzone"
+    path: "FlyingBattery1.txtp"
+    type: betting
+  - id: flying_bad_totinomance
+    title: "Flying Bad Totinomance"
+    path: "FlyingBattery2.txtp"
+    type: betting
+  - id: totino_hill_act_1
+    title: "Totino Hill Act 1"
+    path: "GreenHill1.txtp"
+    type: betting
+  - id: totino_hill_act_2
+    title: "Totino Hill Act 2"
+    path: "GreenHill2.txtp"
+    type: betting
+  - id: hard_boiled_pizza_roll_madness
+    title: "Hard-Boiled Pizza Roll Madness"
+    path: "HBHMischief.txtp"
+    type: warning
+  - id: oh_a_water_zone_i_cannot_wait_to_play_a_water_zone_it_s_the_least_amount_of_air_you_can_possibly_have_while_playing_sonic
+    title: "Oh, a water zone! I cannot wait to play a water zone. It's the least amount of air you can possibly have while playing Sonic"
+    path: "Hydrocity1.txtp"
+    type: betting
+  - id: nachocity_game
+    title: "Nachocity Game"
+    path: "Hydrocity2.txtp"
+    type: betting
+  - id: sonic_messin_with_invincibility
+    title: "Sonic Messin' With Invincibility"
+    path: "Invincible.txtp"
+    type: result
+  - id: these_totino_s_pizza_rolls_burned_my_mouth
+    title: "These Totino's Pizza Rolls Burned My Mouth"
+    path: "LavaReef1.txtp"
+    type: betting
+  - id: now_the_pizza_rolls_have_cooled_down_enough_for_me_to_eat
+    title: "Now the Pizza Rolls Have Cooled Down Enough for Me to Eat"
+    path: "LavaReef2.txtp"
+    type: betting
+  - id: comfort_zone_school_nachos_festival
+    title: "Comfort Zone - School Nachos Festival"
+    path: "MainMenu.txtp"
+    type: result
+  - id: whom_is_totinoboy8_for_totino_madness_act_1
+    title: "Whom Is TotinoBoy8? ...for Totino Madness, Act 1"
+    path: "MetallicMadness1.txtp"
+    type: betting
+  - id: metal_lick_for_totino_madness_act_2
+    title: "Metal Lick ...for Totino Madness, Act 2"
+    path: "MetallicMadness2.txtp"
+    type: betting
+  - id: vs_metal_totino_boy
+    title: "Vs. Metal Totino Boy"
+    path: "MetalSonic.txtp"
+    type: battle
+  - id: skyway_totinoctane
+    title: "Skyway Totinoctane"
+    path: "MirageSaloon1.txtp"
+    type: betting
+  - id: makistyle_pizzalero_for_totino_saloon
+    title: "Makistyle Pizzalero ...for Totino Saloon"
+    path: "MirageSaloon1K.txtp"
+    type: betting
+  - id: rolls_gallery
+    title: "Rolls Gallery"
+    path: "MirageSaloon2.txtp"
+    type: betting
+  - id: the_adventures_of_duance_and_totin0
+    title: "The Adventures of Duane and Totin0"
+    path: "OilOcean1.txtp"
+    type: betting 
+  - id: oil_onion_zone_act_2
+    title: "Oil Onion Zone Act 2"
+    path: "OilOcean2.txtp"
+    type: betting
+  - id: mario_steals_sonic_s_spotlight_while_playing_a_bonus_stage_and_munching_on_pizza_rolls_and_also_while_playing_a_3d_sonic_fangame_that_is_fucking_ridiculously_better_than_any_official_3d_sonic_game_or_at_least_the_ones_ive_played
+    title: "mario steals sonic's spotlight while playing a bonus stage and munching on pizza rolls and also while playing a 3d sonic fangame that is fucking ridiculously better than any official 3d sonic game or at least the ones ive played"
+    path: "Pinball.txtp"
+    type: betting
+  - id: scandal_is_sonic_part_of_the_totino_s_lifestyle
+    title: "SCANDAL! Is SONIC Part Of The TOTINO'S LIFESTYLE?!"
+    path: "PulpSolstice1.txtp"
+    type: betting
+  - id: pizza_blossom_halation_for_press_gangnam
+    title: "Pizza Blossom Halation ...for Press Gangnam"
+    path: "PulpSolstice2.txtp"
+    type: betting
+  - id: the_winner_of_a_lifetime_supply_of_pizza_rolls_totino_competition_results
+    title: "The Winner of a Lifetime Supply of Pizza Rolls (Totino Competition Results)"
+    path: "Results.txtp"
+    type: result
+  - id: love_live_sunshine_cassette_totino_select
+    title: "Love Live Sunshine Cassette - Totino Select"
+    path: "SaveSelect.txtp"
+    type: betting
+  - id: run_away_from_the_puzzle_room_very_fast
+    title: "run away from the puzzle room very fast"
+    path: "Sneakers.txtp"
+    type: warning
+  - id: comes_a_time_when_you_need_a_meal_quick_so_you_step_on_the_gas_and_head_towards_the_speedway
+    title: "Comes a time when you need a meal quick, so you step on the gas and head towards the speedway"
+    path: "StardustSpeedway1.txtp"
+    type: betting
+  - id: stardust_wisdom
+    title: "Stardust Wisdom"
+    path: "StardustSpeedway2.txtp"
+    type: betting
+  - id: lights_oven_microwave_for_totinopolis
+    title: "Lights, Oven, Microwave! ...for Totinopolis"
+    path: "Studiopolis1.txtp"
+    type: betting
+  - id: totinopolis_style
+    title: "Totinopolis Style"
+    path: "Studiopolis2.txtp"
+    type: betting
+  - id: sizzling_gift_zesty_transformation
+    title: "Sizzling Gift - Zesty Transformation"
+    path: "Super.txtp"
+    type: warning
+  - id: built_to_rule_vocal_version
+    title: "Built to Rule - Vocal Version"
+    path: "TitanicMonarch1.txtp"
+    type: betting
+  - id: totinic_monarch
+    title: "Totinic Monarch"
+    path: "TitanicMonarch2.txtp"
+    type: betting
+  - id: totino_horizon_and_maki_ending
+    title: "Totino Horizon (& Maki Ending)"
+    path: "TrueEnd.txtp"
+    type: result
+  - id: special_everyday_bro
+    title: "Special Everyday Bro"
+    path: "UFOSpecial.txtp"
+    type: betting
+  - id: under_the_sea_that_s_under_pizza_island
+    title: "Under the Sea (That's Under Pizza Island)"
+    path: "AngelIsland2.txtp"
+    ends: 1:09
+    type: betting
+  - id: double_bake_encore_stage_select
+    title: "Double Bake (Encore Stage Select)"
+    path: "EncoreMenu.txtp"
+    ends: 1:04
+    type: betting
+  - id: we_are_pizza_totino_s_friends
+    title: "We Are Pizza Totino's Friends"
+    path: "IntroHP.txtp"
+    ends: 1:17
+    type: betting
+  - id: rolls_of_the_high_quality_icons
+    title: "Rolls of the High Quality Icons"
+    path: "IntroTee.txtp"
+    ends: 1:18
+    type: betting
+...
