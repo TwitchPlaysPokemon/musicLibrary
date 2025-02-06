@@ -17,8 +17,8 @@ songs:
     title: "Honey Hill"
     path: "iukMori.dspadpcm.bfstm"
     type: betting
-  - id: for_those_who_are_brave
-    title: "For Those Who Are Brave"
+  - id: for_the_brave
+    title: "For the Brave"
     path: "d3castle.dspadpcm.bfstm"
     type: betting
   - id: friendly_field
@@ -41,52 +41,52 @@ songs:
     title: "Sacred Square"
     path: "ECL_LP_ECYUUHI1.dspadpcm.bfstm"
     type: betting
-  - id: to_the_land_where_grass_doesn_t_grow
-    title: "To the Land Where Grass Doesn't Grow"
+  - id: where_even_weeds_won_t_grow
+    title: "Where Even Weeds Won't Grow"
     path: "BossMid.dspadpcm.bfstm"
     type: betting
-  - id: jambastion_adventure
-    title: "Jambastion Adventure"
+  - id: adventures_in_jambastion
+    title: "Adventures in Jambastion"
     path: "yousai.dspadpcm.bfstm"
     type: betting
-  - id: i_believe_in_my_friends
-    title: "I Believe in My Friends"
+  - id: true_friends_stand_with_you
+    title: "True Friends Stand with You"
     path: "yousai2.dspadpcm.bfstm"
     type: betting
-  - id: puzzle_galaxy
-    title: "Puzzle Galaxy"
+  - id: puzzle_solving_galaxy
+    title: "Puzzle-Solving Galaxy"
     path: "fami_kkt.dspadpcm.bfstm"
     type: betting
-  - id: wind_blowing_on_earthfall
-    title: "Wind Blowing on Earthfall"
+  - id: winds_across_earthfall
+    title: "Winds across Earthfall"
     path: "BGM_LP_ECMORI2.dspadpcm.bfstm"
     type: betting
-  - id: misteen_ocean
-    title: "Misteen Ocean"
+  - id: misteen_s_oceans
+    title: "Misteen's Oceans"
     path: "ECL_LP_ECBEACHK3.dspadpcm.bfstm"
     type: betting
-  - id: caverna_great_labyrinth
-    title: "Caverna Great Labyrinth"
+  - id: caverna_s_massive_mazes
+    title: "Caverna's Massive Mazes"
     path: "tower.dspadpcm.bfstm"
     type: betting
-  - id: frostak_cold_area
-    title: "Frostak Cold Area"
+  - id: frostak_s_arctic_tundra
+    title: "Frostak's Arctic Tundra"
     path: "RRes.dspadpcm.bfstm"
     type: betting
-  - id: ancient_tower_towara
-    title: "Ancient Tower Towara"
+  - id: towara_s_ancient_towers
+    title: "Towara's Ancient Towers"
     path: "ECL_LP_ECTOU1.dspadpcm.bfstm"
     type: betting
-  - id: new_star_lavadom
-    title: "New Star Lavadom"
+  - id: star_lavadom
+    title: "Star Lavadom"
     path: "ECL_LP_ECFIRESTEP1.dspadpcm.bfstm"
     type: betting
-  - id: land_of_dreams_and_greenery_s_remains
-    title: "Land of Dreams and Greenery's Remains"
+  - id: scarred_lands_of_dreams_and_new_greens
+    title: "Scarred Lands of Dreams and New Greens"
     path: "lastGreens.dspadpcm.bfstm"
     type: betting
-  - id: select_screen_kirby_star_allies
-    title: "Select Screen"
+  - id: select_file_kirby_star_allies
+    title: "Select File"
     path: "title_pf.dspadpcm.bfstm"
     type: break
   - id: world_of_peace_dream_land
@@ -97,16 +97,16 @@ songs:
     title: "Far-Flung Starlight Heroes"
     path: "BGM_LP_ECMAP4.bfstm"
     type: betting
-  - id: memorial_festival
-    title: "Memorial Festival"
+  - id: the_palace_of_fulfilled_Dreams
+    title: "The Palace of Fulfilled Dreams"
     path: "pf_kakuto.dspadpcm.bfstm"
     type: betting
-  - id: twinkle_traveler
-    title: "Twinkle ☆ Traveler"
+  - id: twinkling_travelers
+    title: "Twinkling☆Travelers"
     path: "star.dspadpcm.bfstm"
     type: warning
-  - id: illustration_results
-    title: "Illustration Results"
+  - id: picture_results
+    title: "Picture Results"
     path: "lololo.dspadpcm.bfstm"
     type: result
   - id: sudden_happy_ending
@@ -117,21 +117,21 @@ songs:
     title: "Star Slam Heroes"
     path: "BGM_LP_ECSUBHOMERUN.dspadpcm.bfstm"
     type: warning
-  - id: always_i_ll_be_watching_you
-    title: "Always, I'll Be Watching You."
+  - id: having_watched_you_all_along
+    title: "Having Watched You All Along"
     path: "sroll.dspadpcm.bfstm"
     ends: 3:38
     type: betting
-  - id: choosing_the_ultimate_choice_s_flavour
-    title: "Choosing the Ultimate Choice's Flavor"
+  - id: your_preferred_spiciness_for_the_ultimate_choice
+    title: "Your Preferred Spiciness for the Ultimate Choice"
     path: "BGM_LP_ECKAKUTO1.dspadpcm.bfstm"
     type: betting
-  - id: venturing_into_the_world_with_friends
-    title: "Venturing Into the World With Friends"
+  - id: venturing_into_the_world_with_allies
+    title: "Venturing Into the World With Allies"
     path: "pf_torteStg.dspadpcm.bfstm"
     type: result
-  - id: best_friends_tomorrow_and_always
-    title: "Best Friends, Tomorrow and Always"
+  - id: best_friends_today_tomorrow_and_always
+    title: "Best Friends, Today, Tomorrow, and Forever"
     path: "staff_medley.dspadpcm.bfstm"
     ends: 3:40
     type: betting
@@ -143,28 +143,28 @@ songs:
     title: "Macho of Dedede"
     path: "ddd.dspadpcm.bfstm"
     type: battle
-  - id: friends_and_the_sound_of_those_crossing_blades
-    title: "Friends and the Sound of Those Crossing Blades"
+  - id: the_clash_of_comrades_blades
+    title: "The Clash of Comrades' Blades"
     path: "ECL_LP_ECMETABOSS1.dspadpcm.bfstm"
     type: betting
   - id: song_of_supplication
     title: "Song of Supplication"
     path: "EP3BOSS.dspadpcm.bfstm"
     type: betting
-  - id: forgotten_flash_of_lightning
-    title: "Forgotten Flash of Lightning"
+  - id: a_forgotten_flash_of_lightning
+    title: "A Forgotten Flash of Lightning"
     path: "sanmaHead.dspadpcm.bfstm"
     type: battle
   - id: la_follia_d_amore
     title: "La Follia d'amore"
     path: "ECL_LP_BOSSLAST2.dspadpcm.bfstm"
     type: battle
-  - id: fourth_movement_the_birth_of_hope
-    title: "Fourth Movement: The Birth of Hope"
+  - id: movement_4_the_birth_of_hope
+    title: "Movement 4: The Birth of Hope"
     path: "LastBoass4.dspadpcm.bfstm"
     type: battle
-  - id: all_those_star_friends_they_re_with_me
-    title: "All Those Star Friends, They're With Me!"
+  - id: the_star_allies_have_your_back
+    title: "The Star Allies Have Your Back!"
     path: "akarui4.dspadpcm.bfstm"
     type: battle
   - id: butterfly_of_judgement_morpho_knight
@@ -172,23 +172,23 @@ songs:
     path: "B_Night.dspadpcm.bfstm"
     type: battle
   - id: dark_cloudy
-    title: "Dark Cloudy"
+    title: "Dark & Cloudy"
     path: "Kirby2_Boss.dspadpcm.bfstm"
     type: battle
   - id: vs_marx_star_allies
-    title: "Vs. Marx / Star Allies Dream ver."
+    title: "Vs. Marx — Star Allies Dream ver."
     path: "BGM_LP_ECDLBOSSMARK1.dspadpcm.bfstm"
     type: battle
   - id: dark_matter_in_the_hyper_zone
     title: "Dark Matter in the Hyper Zone"
     path: "Kirby3_Boss.dspadpcm.bfstm"
     type: battle
-  - id: third_movement_the_wings_of_sorrow_and_great_heavens
-    title: "Third Movement: The Wings of Sorrow and Great Heavens"
+  - id: movement_3_wings_of_sorrow_and_the_heavens
+    title: "Movement 3: Wings of Sorrow and the Heavens"
     path: "Last3rg.dspadpcm.bfstm"
     type: betting
-  - id: second_movement_the_embryo_s_vessel
-    title: "Second Movement: The Embryo's Vessel"
+  - id: movement_2_vessel_of_the_embryo
+    title: "Movement 2: Vessel of the Embryo"
     path: "Last2rg1201.dspadpcm.bfstm"
     type: betting
   - id: friends_getaway_ksa
@@ -203,12 +203,12 @@ songs:
     title: "Shadowy Partners"
     path: "BGM_LP_ECDLDMETADOROCHE1.dspadpcm.bfstm"
     type: betting
-  - id: the_girls_battle_with_darkness
-    title: "The Girls' Battle with Darkness"
+  - id: the_girls_who_fought_the_darkness
+    title: "The Girls Who Fought the Darkness"
     path: "K64Boss.dspadpcm.bfstm"
     type: battle
-  - id: true_theme_of_the_squeaks
-    title: "True! Theme of the Squeaks"
+  - id: true_squeak_squad_theme
+    title: "True Squeak Squad Theme"
     path: "BGM_LP_ECDLDOROCHE1.dspadpcm.bfstm"
     type: battle
   - id: dark_mirage_kirby_star_allies
@@ -219,57 +219,57 @@ songs:
     title: "Heroes in Another Dimension"
     path: "BGM_LP_ECDLANOTHERTITLE1.dspadpcm.bfstm"
     type: betting
-  - id: the_legend_of_last_world
-    title: "The Legend of Last World"
+  - id: the_legend_of_the_last_world
+    title: "The Legend of the Last World"
     path: "LastStageMed.dspadpcm.bfstm"
     type: betting
-  - id: battle_with_another_world_s_sword_king
-    title: "Battle With Another World's Sword King"
+  - id: against_a_sword_king_the_dimension_to_win
+    title: "Against a Sword-King, the Dimension to Win"
     path: "BGM_LP_ECDLANOTHERBOSS2.dspadpcm.bfstm"
     type: battle
-  - id: passion_of_the_tridental_flashing_priestesses
-    title: "Passion of the Tridental-Flashing Priestesses"
+  - id: oracles_of_the_threefold_glint
+    title: "Oracles of the Threefold Glint"
     path: "SanmaBoss.dspadpcm.bfstm"
     type: battle
-  - id: memories_of_the_finale
-    title: "Memories, of the Finale"
+  - id: memories_of_the_grande_finale
+    title: "Memories of the Grande Finale"
     path: "EndMed.dspadpcm.bfstm"
     ends: 3:46
     type: betting
-  - id: hallway_to_the_origin
-    title: "Hallway to the Origin"
+  - id: aeon_corridors
+    title: "Aeon Corridors"
     path: "WiiBossMae.dspadpcm.bfstm"
     type: warning
-  - id: final_movement_sparkling_star
-    title: "Final Movement: Sparkling Star"
+  - id: closing_movement__the_twinkling_star
+    title: "Closing Movement: The Twinkling Star"
     path: "LastBoss2nd.dspadpcm.bfstm"
     type: battle
-  - id: with_four_friends_cookie_country_star_allies_arrange_ver
-    title: "With Four Friends: Cookie Country / Star Allies Arrange ver."
+  - id: four_adventurers_cookie_country_star_allies_arrangement
+    title: "Four Adventurers: Cookie Country — Star Allies Arrangement"
     path: "BGM_LP_ECDLMAGOLORCOOKIE1.dspadpcm.bfstm"
     type: betting
-  - id: taranza_the_master_of_puppetry_star_allies_arrange_ver
-    title: "Taranza, the Master of Puppetry / Star Allies Arrange ver."
+  - id: taranza_puppeteer_magician_star_allies_arrangement
+    title: "Taranza the Puppeteer Magician — Star Allies Arrangement"
     path: "BGM_LP_ECDLTARANZA1.dspadpcm.bfstm"
     type: betting
-  - id: the_noble_haltmann_star_allies_arrange_ver
-    title: "The Noble Haltmann / Star Allies Arrange ver."
+  - id: the_noble_haltmann_star_allies_arrangement
+    title: "The Noble Haltmann — Star Allies Arrangement"
     path: "BGM_LP_ECDLSUSIEROOM1.dspadpcm.bfstm"
     type: warning
-  - id: nightmare_battle
-    title: "Nightmare Battle"
+  - id: battle_of_nightmares
+    title: "Battle of Nightmares"
     path: "BGM_LP_ECDLIZUMINIGHTMARE1.dspadpcm.bfstm"
     type: battle
   - id: supreme_ruler_s_coronation_overlord
     title: "Supreme Ruler's Coronation - OVERLORD"
     path: "crowned_2018_0906a.dspadpcm.bfstm"
     type: battle
-  - id: phantom_of_the_moon
-    title: "Phantom of the Moon"
+  - id: phantom_of_the_moon_soul
+    title: "Phantom of the Moon Soul"
     path: "Taranza.dspadpcm.bfstm"
     type: battle
-  - id: deus_ex_machina_seen_in_childhood
-    title: "Deus · Ex · Machina Seen in Childhood"
+  - id: a_deus_ex_machina_from_childhood
+    title: "A Deus Ex Machina from Childhood"
     path: "RBBBoss.dspadpcm.bfstm"
     type: battle
   - id: the_shape_of_a_heart
@@ -288,8 +288,8 @@ songs:
     title: "Let Them Know We're Happy"
     path: "BGM_LP_ECDLSANMAKAN1.dspadpcm.bfstm"
     type: break
-  - id: a_farewell_to_kirby
-    title: "A Farewell to Kirby"
+  - id: a_farewell_to_kirby_he_of_the_future_traveling_stars
+    title: "A Farewell to Kirby: He of the Future-Traveling Stars"
     path: "BGM_LP_ECDLTITLE1.dspadpcm.bfstm"
     type: break
 ...

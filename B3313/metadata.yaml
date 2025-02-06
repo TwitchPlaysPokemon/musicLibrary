@@ -1,0 +1,69 @@
+---
+id: b3313
+title: "B3313"
+platform: "N64"
+series: mario
+is_fanwork: true 
+year: 2024
+songs:
+  - id: bob_omb_village
+    title: "Bob-Omb Village"
+    path: "Bob-Omb Village.brstm"
+    type: betting
+  - id: downtown_city_b3313
+    title: "Downtown City"
+    path: "Downtown City.brstm"
+    type: betting
+  - id: snow_mountain_unused_version
+    title: "Snow Mountain (Unused Version)"
+    path: "Snow Mountain (Unused Version).brstm"
+    type: betting
+  - id: chain_chomp_cliffs
+    title: "Chain Chomp Cliffs"
+    path: "Chain Chomp Cliffs.brstm"
+    type: betting
+  - id: wet_or_dry
+    title: "Wet or Dry"
+    path: "Wet or Dry.brstm"
+    type: betting
+  - id: descending_stairs
+    title: "Descending Stairs"
+    path: "Descending Stairs.brstm"
+    type: warning
+  - id: rose_tinted_purgatory
+    title: "Rose-Tinted Purgatory"
+    path: "Rose-Tinted Purgatory.brstm"
+    type: warning
+  - id: throne_room_b3313
+    title: "Throne Room"
+    path: "Throne Room.brstm"
+    type: warning
+  - id: wf_z64
+    title: "wf.z64"
+    path: "wf.z64.brstm"
+    type: break
+  - id: running_about_b3313
+    title: "Running About"
+    path: "Running About.brstm"
+    type: betting
+  - id: underground_beta
+    title: "Underground (Beta)"
+    path: "Underground (Beta).brstm"
+    type: betting
+  - id: secret_of_the_plexus
+    title: "Secret of the Plexus"
+    path: "Secret of the Plexus.brstm"
+    type: betting
+  - id: polygonal_chaos
+    title: "Polygonal Chaos"
+    path: "Polygonal Chaos.brstm"
+    type: warning
+  - id: nebula_castle_lobby
+    title: "Nebula Castle Lobby"
+    path: "Nebula Castle Lobby.brstm"
+    type: betting
+  - id: eel_graveyard
+    title: "Eel Graveyard"
+    path: "Eel Graveyard.brstm"
+    type: break
+...

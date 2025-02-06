@@ -24,7 +24,7 @@ songs:
   - id: okey_dokey
     title: "Okey Dokey!!"
     path: "Okey Dokey!!.mini2sf"
-    type: warning
+    type: battle
   - id: boss_battle_mlbowser
     title: "Boss Battle"
     path: "Boss Battle.brstm"
@@ -32,7 +32,7 @@ songs:
   - id: showtime_mlbowser
     title: "SHOWTIME!"
     path: "SHOWTIME!.mini2sf"
-    type: warning
+    type: battle
   - id: in_the_final
     path: "38 In The Final.mini2sf"
     title: "In The Final (Final Battle)"

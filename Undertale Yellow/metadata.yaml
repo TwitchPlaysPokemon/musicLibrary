@@ -389,10 +389,10 @@ songs:
     title: "subconscious"
     path: "mus_the_wandering.txtp"
     type: warning
-  - id: snow_yellow
-    title: "snow"
-    path: "mus_snow.txtp"
-    type: break
+  # - id: snow_yellow
+    # title: "snow"
+    # path: "mus_snow.txtp"
+    # type: break
   - id: gotcha_wink_emoticon
     title: "gotcha ;)"
     path: "mus_gotcha.txtp"

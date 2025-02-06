@@ -8,4 +8,60 @@ songs:
     title: "Bio Metal Warfare"
     path: "101 Bio Metal Warfare.spc"
     type: betting
+  - id: preparations_biometal
+    title: "Preparations"
+    path: "103 Preparations.spc"
+    type: betting
+  - id: dark_clouds
+    title: "Dark Clouds"
+    path: "104 Dark Clouds.spc"
+    type: betting
+  - id: boss_encounter_biometal
+    title: "Boss Encounter"
+    path: "105 Boss Encounter.spc"
+    type: warning
+  - id: desert_storm_biometal
+    title: "Desert Storm"
+    path: "107 Desert Storm.spc"
+    type: betting
+  - id: major_battle_biometal
+    title: "Major Battle"
+    path: "108 Major Battle.spc"
+    type: warning
+  - id: steel_skeleton
+    title: "Steel Skeleton"
+    path: "111 Steel Skeleton.spc"
+    type: warning
+  - id: core_of_the_bio_metal_planet
+    title: "Core of the Bio Metal Planet"
+    path: "114 Core of the Bio Metal Planet.spc"
+    type: warning
+  - id: can_t_give_up
+    title: "Can't Give Up..."
+    path: "116 Can't Give Up....spc"
+    type: result
+  - id: dark_clouds_us_ver
+    title: "Dark Clouds (US Ver)"
+    path: "201 Dark Clouds.spc"
+    type: betting
+  - id: desert_storm_us_ver
+    title: "Desert Storm (US Ver)"
+    path: "202 Desert Storm.spc"
+    type: betting
+  - id: metal_insect_lair_us_ver
+    title: "Metal Insect Lair (US Ver)"
+    path: "203 Metal Insect Lair.spc"
+    type: betting
+  - id: deep_underground_ruins_us_ver
+    title: "Deep Underground Ruins (US Ver)"
+    path: "204 Deep Underground Ruins.spc"
+    type: betting
+  - id: steel_skeleton_us_ver
+    title: "Steel Skeleton (US Ver)"
+    path: "205 Steel Skeleton.spc"
+    type: warning
+  - id: last_assault_us_bio_metal
+    title: "Last Assault (US Ver)"
+    path: "206 Last Assault.spc"
+    type: battle
 ...

@@ -1,0 +1,135 @@
+---
+id: arzette_the_jewel_of_faramore
+title: "Arzette: The Jewel of Faramore"
+platform: "Various"
+year: 2024
+songs: 
+  - id: tutorial_arzette
+    title: "Tutorial"
+    path: "Tutorial.brstm"
+    type: betting
+  - id: world_map_arzette
+    title: "World Map"
+    path: "World Map.brstm"
+    type: betting
+  - id: bonus_arzette
+    title: "Bonus"
+    path: "Bonus.brstm"
+    type: warning
+  - id: boss_arzette
+    title: "Boss"
+    path: "Boss.brstm"
+    type: battle
+  - id: victory_arzette
+    title: "Victory"
+    path: "Victory.brstm"
+    type: result
+  - id: faramore_town
+    title: "Faramore Town"
+    path: "Faramore Town.brstm"
+    type: betting
+  - id: faramore_town_b_side
+    title: "Faramore Town (B-Side)"
+    path: "Faramore Town (B-Side).brstm"
+    type: betting
+  - id: durridin_forest
+    title: "Durridin Forest"
+    path: "Durridin Forest.brstm"
+    type: betting
+  - id: durridin_forest_b_side
+    title: "Durridin Forest (B-Side)"
+    path: "Durridin Forest (B-Side).brstm"
+    type: betting
+  - id: badonc_beach
+    title: "Badonc Beach"
+    path: "Badonc Beach .brstm"
+    type: betting
+  - id: badonc_beach_b_side
+    title: "Badonc Beach (B-Side)"
+    path: "Badonc Beach (B-Side).brstm"
+    type: betting
+  - id: anju_desert
+    title: "Anju Desert"
+    path: "Anju Desert.brstm"
+    type: betting
+  - id: anju_desert_b_side
+    title: "Anju Desert (B-Side)"
+    path: "Anju Desert (B-Side).brstm"
+    type: betting
+  - id: lichen_hills
+    title: "Lichen Hills"
+    path: "Lichen Hills .brstm"
+    type: break
+  - id: lichen_hills_b_side
+    title: "Lichen Hills (B-Side)"
+    path: "Lichen Hills (B-Side).brstm"
+    type: break
+  - id: norin_swap
+    title: "Norin Swamp"
+    path: "Norin Swamp .brstm"
+    type: break
+  - id: norin_swamp_b_side
+    title: "Norin Swamp (B-Side)"
+    path: "Norin Swamp (B-Side).brstm"
+    type: betting
+  - id: ryha_river
+    title: "Ryha River"
+    path: "Ryha River.brstm"
+    type: betting
+  - id: ryha_river_b_side
+    title: "Ryha River (B-Side)"
+    path: "Ryha River (B-Side).brstm"
+    type: break
+  - id: boanjale_crypts
+    title: "Boanjale Crypts"
+    path: "Boanjale Crypts.brstm"
+    type: betting
+  - id: boanjale_crypts_b_side
+    title: "Boanjale Crypts (B-Side)"
+    path: "Boanjale Crypts (B-Side).brstm"
+    type: betting
+  - id: chillinax_peaks
+    title: "Chillinax Peaks"
+    path: "Chillinax Peaks.brstm"
+    type: betting
+  - id: chillinax_peaks_b_side
+    title: "Chillinax Peaks (B-Side)"
+    path: "Chillinax Peaks (B-Side).brstm"
+    type: break
+  - id: fort_findula
+    title: "Fort Findula"
+    path: "Fort Findula .brstm"
+    type: betting
+  - id: fort_findula_b_side
+    title: "Fort Findula (B-Side)"
+    path: "Fort Findula (B-Side).brstm"
+    type: betting
+  - id: denny_s_castle
+    title: "Denny's Castle"
+    path: "Denny's Castl.brstm"
+    type: betting
+  - id: denny_s_castle_b_side
+    title: "Denny's Castle (B-Side)"
+    path: "Denny's Castle (B-Side).brstm"
+    type: betting
+  - id: sprigum_volcano
+    title: "Sprigum Volcano"
+    path: "Sprigum Volcano.brstm"
+    type: betting
+  - id: cogwyn_caves
+    title: "Cogwyn Caves"
+    path: "Cogwyn Caves.brstm"
+    type: betting
+  - id: creece_canyon
+    title: "Creece Canyon"
+    path: "Creece Canyon.brstm"
+    type: betting
+  - id: daimur_s_lair
+    title: "Daimur's Lair"
+    path: "Daimur's Lair.brstm"
+    type: betting
+  - id: final_boss_arzette
+    title: "Final Boss"
+    path: "Final Boss.brstm"
+    type: battle
+...

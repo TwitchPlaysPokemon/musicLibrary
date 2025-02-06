@@ -1,0 +1,63 @@
+---
+id: road_fighters_3d
+title: "Road Fighters 3D"
+platform: "Arcade"
+year: 2010
+songs: 
+  - id: next_mission_rf3d
+    title: "Next Mission"
+    path: "Next Mission.brstm"
+    type: warning
+  - id: mission_rf3d
+    title: "Mission"
+    path: "Mission.brstm"
+    type: betting
+  - id: continue_rf3d
+    title: "Continue"
+    path: "Continue.brstm"
+    type: result
+  - id: danger_rf3d
+    title: "Danger!"
+    path: "Danger!.brstm"
+    type: warning
+  - id: result_rf3d
+    title: "Result"
+    path: "Result.brstm"
+    type: result
+  - id: time_attack_rf3d
+    title: "Time Attack"
+    path: "Time Attack.brstm"
+    type: betting
+  - id: mode_event
+    title: "Mode Event"
+    path: "Mode Event.brstm"
+    type: battle
+  - id: the_racer
+    title: "The Racer"
+    path: "The Racer.brstm"
+    type: betting
+  - id: mode_select_rf3d
+    title: "Mode Select"
+    path: "Mode Select.brstm"
+    type: betting
+  - id: speed_it_up
+    title: "Speed It Up"
+    path: "Speed It Up.brstm"
+    type: battle
+  - id: national_ranking
+    title: "National Ranking"
+    path: "National Ranking.brstm"
+    type: betting
+  - id: take_me_higher_instrumental
+    title: "Take Me Higher -Instrumental- (Road Fighters Main Theme)"
+    path: "Take Me Higher -Instrumental- (Road Fighters Main Theme).brstm"
+    type: betting
+  - id: take_me_higher_data_save
+    title: "Take Me Higher (Data Save)"
+    path: "Take Me Higher (Data Save).brstm"
+    type: betting
+  - id: take_me_higher_synthesized_2
+    title: "Take Me Higher [Synthesized 2]"
+    path: "Take Me Higher [Synthesized 2].brstm"
+    type: betting
+...

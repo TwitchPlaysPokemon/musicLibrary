@@ -1,0 +1,156 @@
+---
+id: sonic_shadow_generations
+title: "Sonic x Shadow Generations"
+series: sonicthehedgehog
+platform: "Various"
+year: 2024
+songs:
+  - id: space_colony_ark_act1_teddyloid_x_jun_senoue_remix
+    title: "Space Colony ARK: Act1 (TeddyLoid x Jun Senoue Remix)"
+    path: "bgm_w01a11.txtp"
+    type: battle
+  - id: space_colony_ark_act2
+    title: "Space Colony ARK: Act2"
+    path: "bgm_w01a20.txtp"
+    type: betting
+  - id: rail_canyon_act1
+    title: "Rail Canyon: Act1"
+    path: "bgm_w02a10.txtp"
+    type: betting
+  - id: rail_canyon_act2
+    title: "Rail Canyon: Act2"
+    path: "bgm_w02a20.txtp"
+    type: battle
+  - id: kingdom_valley_act1
+    title: "Kingdom Valley: Act1"
+    path: "bgm_w03a10.txtp"
+    type: betting
+  - id: kingdom_valley_act2
+    title: "Kingdom Valley: Act2"
+    path: "bgm_w03a20.txtp"
+    type: betting
+  - id: sunset_heights_act1
+    title: "Sunset Heights: Act1"
+    path: "bgm_w04a10.txtp"
+    type: battle
+  - id: sunset_heights_act2
+    title: "Sunset Heights: Act2"
+    path: "bgm_w04a20.txtp"
+    type: battle
+  - id: chaos_island_act1
+    title: "Chaos Island: Act1"
+    path: "bgm_w05a10.txtp"
+    type: betting
+  - id: chaos_island_act2
+    title: "Chaos Island: Act2"
+    path: "bgm_w05a20.txtp"
+    type: betting
+  - id: radical_highway_act1
+    title: "Radical Highway: Act1"
+    path: "bgm_w06a10.txtp"
+    type: battle
+  - id: radical_highway_act2
+    title: "Radical Highway: Act2"
+    path: "bgm_w06a20.txtp"
+    type: battle
+  - id: boss_battle_biolizard
+    title: "Boss Battle: Biolizard"
+    path: "bgm_w11b10.txtp"
+    type: battle
+  - id: boss_battle_metal_overlord_what_i_m_made_of
+    title: "Boss Battle: Metal Overlord (What I'm Made Of...)"
+    path: "bgm_w12b10.txtp"
+    type: battle
+  - id: boss_battle_mephiles_pt_1
+    title: "Boss Battle: Mephiles Pt.1"
+    path: "bgm_w13b10_1.txtp"
+    type: battle
+  - id: boss_battle_mephiles_pt_2
+    title: "Boss Battle: Mephiles Pt.2"
+    path: "bgm_w13b10_2.txtp"
+    type: battle
+  - id: boss_battle_devil_doom
+    title: "Boss Battle: Devil Doom"
+    path: "bgm_w14b10_1.txtp"
+    type: battle
+  - id: boss_battle_neo_devil_doom_all_hail_shadow_symphonic_ver
+    title: "Boss Battle: Neo Devil Doom (All Hail Shadow - Symphonic ver.)"
+    path: "bgm_w14b10_2.txtp"
+    type: battle
+  - id: event_finale_the_end_of_neo_devil_doom
+    title: "Event: Finale (The End of Neo Devil Doom)"
+    path: "bgm_w14b10_3.txtp"
+    type: result
+  - id: doom_zone_space_colony_ark_act1
+    title: "Doom Zone (Space Colony ARK: Act1)"
+    path: "bgm_distortionspace1.txtp"
+    type: battle
+  - id: doom_zone_rail_canyon_act1
+    title: "Doom Zone (Rail Canyon: Act1)"
+    path: "bgm_distortionspace2.txtp"
+    type: battle
+  - id: doom_zone_sunset heights_act1
+    title: "Doom Zone (Sunset Heights: Act1)"
+    path: "bgm_distortionspace3.txtp"
+    type: battle
+  - id: white_space
+    title: "White Space"
+    path: "bgm_whitespace.txtp"
+    type: betting
+  - id: white_space_underground
+    title: "White Space (Underground)"
+    path: "bgm_whitespace_under.txtp"
+    type: betting
+  - id: white_space_doom_zone
+    title: "White Space (Doom Zone)"
+    path: "bgm_whitespace_eclipse.txtp"
+    type: betting
+  - id: title_sonic_x_shadow_generations
+    title: "Title (Sonic x Shadow Generations)"
+    path: "bgm_titlecmn.txtp"
+    type: betting
+  - id: title_sonic_generations
+    title: "Title (Sonic Generations)"
+    path: "bgm_title2select_titlegen.txtp"
+    type: result
+  - id: title_shadow_generations
+    title: "Title (Shadow Generations)"
+    path: "bgm_title2select_titleshadow.txtp"
+    type: warning
+  - id: challenge_shadow_generations
+    title: "Challenge"
+    path: "bgm_wschallenge1.txtp"
+    type: warning
+  - id: collection_room_shadow_generations
+    title: "Collection Room"
+    path: "bgm_collectionmenu.txtp"
+    type: break
+  - id: gate_space_colony_ark
+    title: "Gate: Space Colony ARK"
+    path: "bgm_gate_zone1.txtp"
+    type: warning
+  - id: gate_rail_canyon
+    title: "Gate: Rail Canyon"
+    path: "bgm_gate_zone2.txtp"
+    type: warning
+  - id: gate_kingdom_valley
+    title: "Gate: Kingdom Valley"
+    path: "bgm_gate_zone3.txtp"
+    type: warning
+  - id: gate_sunset_heights
+    title: "Gate: Sunset Heights"
+    path: "bgm_gate_zone4.txtp"
+    type: warning
+  - id: gate_chaos_island
+    title: "Gate: Chaos Island"
+    path: "bgm_gate_zone5.txtp"
+    type: warning
+  - id: gate_radical_highway
+    title: "Gate: Radical Highway"
+    path: "bgm_gate_zone6.txtp"
+    type: warning
+  - id: gate_boss_shadow_generations
+    title: "Gate: Boss"
+    path: "bgm_gate_boss.txtp"
+    type: warning
+...

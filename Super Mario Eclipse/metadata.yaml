@@ -1,0 +1,77 @@
+---
+id: super_mario_eclipse
+title: "Super Mario Eclipse"
+platform: "GCN"
+series: mario
+is_fanwork: true 
+year: 2021
+songs:
+  - id: tutorial_eclipse
+    title: "Tutorial"
+    path: "Tutorial.brstm"
+    type: break
+  - id: character_select_eclipse
+    title: "Character Select"
+    path: "Character Select.brstm"
+    type: betting
+  - id: hotel_lacrima_outside
+    title: "Hotel Lacrima (Outside)"
+    path: "Hotel Lacrima (Outside).brstm"
+    type: break
+  - id: hotel_lacrima_mafia
+    title: "Hotel Lacrima (Mafia)"
+    path: "Hotel Lacrima (Mafia).brstm"
+    type: betting
+  - id: daisy_cruiser_peach_beach_eclipse
+    title: "Daisy Cruiser / Peach Beach"
+    path: "Daisy Cruiser _ Peach Beach.brstm"
+    type: betting
+  - id: lancia_fredda_secret_course
+    title: "Lancia Fredda Secret Course"
+    path: "Lancia Fredda Secret Course.brstm"
+    type: break
+  - id: erto_rock
+    title: "Erto Rock"
+    path: "Erto Rock.brstm"
+    type: betting
+  - id: daisy_cruiser_cabin
+    title: "Daisy Cruiser Cabin"
+    path: "Daisy Cruiser Cabin.brstm"
+    type: break
+  - id: memphis_vaporwave_ost_ver
+    title: "Memphis Vaporwave (OST Ver.)"
+    path: "Memphis Vaporwave (OST Ver.).brstm"
+    type: betting
+  - id: pianta_pit
+    title: "Pianta Pit"
+    path: "Pianta Pit.brstm"
+    type: warning
+  - id: lighthouse_island_stormy
+    title: "Lighthouse Island (Stormy)"
+    path: "Lighthouse Island (Stormy).brstm"
+    type: warning
+  - id: 2d_world_secret_courses
+    title: "2D World / Secret Courses"
+    path: "2D World _ Secret Courses.brstm"
+    type: betting
+  - id: yoshi_village_eclipse
+    title: "Yoshi Village"
+    path: "Yoshi Village.brstm"
+    type: betting
+  - id: red_lily_city
+    title: "Red Lily City"
+    path: "Red Lily City.brstm"
+    type: break
+  - id: lancia_fredda_peaks
+    title: "Lancia Fredda Peaks"
+    path: "Lancia Fredda Peaks.brstm"
+    type: betting
+  - id: warship_island
+    title: "Warship Island"
+    path: "Warship Island.brstm"
+    type: betting
+  - id: warship_island_secret_course
+    title: "Warship Island Secret Course"
+    path: "Warship Island Secret Course.brstm"
+    type: break
+...

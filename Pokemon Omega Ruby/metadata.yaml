@@ -405,4 +405,20 @@ songs:
     title: "Battle! (Frontier Brain)"
     path: "bgm_sg_vs_bfrontier.dspadpcm.bcstm"
     type: battle
+  - id: title_screen_beta_oras
+    title: "Title Screen (Beta)"
+    path: "Title Screen (Beta).brstm"
+    type: result
+  - id: battle_team_aqua_team_magma_leaders_beta_oras
+    title: "Battle! (Team Aqua / Team Magma Leaders - Beta)"
+    path: "Battle! Team Aqua _ Team Magma Leaders (Beta).brstm"
+    type: battle
+  - id: battle_gym_leader_beta_oras
+    title: "Battle! (Gym Leader - Beta)"
+    path: "Battle! Gym Leader (Beta).brstm"
+    type: battle
+  - id: battle_champion_beta_oras
+    title: "Battle! (Champion - Beta)"
+    path: "Battle! Champion (Beta).brstm"
+    type: battle
 ...

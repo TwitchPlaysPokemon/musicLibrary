@@ -518,4 +518,32 @@ songs:
     path: "bgm_xy_ending.aac"
     ends: 2:38
     type: betting
+  - id: route_6_unova_xy
+    title: "Route 6 (Unova - Unused)"
+    path: "Route 6 (Black & White).brstm"
+    type: betting
+  - id: critical_health_xy
+    title: "Critical Health (Unused)"
+    path: "Critical Health.brstm"
+    type: result
+  - id: battle_unovan_wild_pokemon_unused
+    title: "Battle! (Unovan Wild Pokémon - Unused)"
+    path: "Battle! Wild Pokémon (Black & White).brstm"
+    type: battle
+  - id: battle_mythical_pokemon
+    title: "Battle! Mythical Pokémon"
+    path: "Battle! Mythical Pokémon.brstm"
+    type: battle
+  - id: battle_friend_beta
+    title: "Battle! (Friend - Beta)"
+    path: "Battle! Friend (Beta).brstm"
+    type: battle
+  - id: battle_xerneas_yveltal_zygarde_beta
+    title: "Battle! (Xerneas/Yveltal/Zygarde - Beta)"
+    path: "Battle! Xerneas_Yveltal (Beta).brstm"
+    type: battle
+  - id: battle_mythical_pokemon_beta
+    title: "Battle! Mythical Pokémon (Beta)"
+    path: "Battle! Mythical Pokémon (Beta).brstm"
+    type: battle
 ...

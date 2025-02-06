@@ -153,4 +153,20 @@ songs:
     title: "Fist Bump (FM Ver.)"
     path: "Fist Bump (FM Ver.).brstm"
     type: betting
+  - id: enemy_territory_westopolis_remix
+    title: "Enemy Territory [Westopolis Remix]"
+    path: "bgm_stg43_sh.hca"
+    type: betting
+  - id: eggman_s_facility_rhythm_and_balance_remix
+    title: "Eggman's Facility [Rhythm and Balance Remix]"
+    path: "bgm_stg44_sh.hca"
+    type: betting
+  - id: virtual_reality_supporting_me_remix
+    title: "Virtual Reality [Supporting Me Remix]"
+    path: "bgm_stg45_sh.hca"
+    type: battle
+  - id: episode_shadow
+    title: "Episode Shadow"
+    path: "bgm_sys_worldmap_sh.hca"
+    type: warning
 ...

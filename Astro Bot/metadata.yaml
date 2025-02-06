@@ -108,4 +108,12 @@ songs:
     title: "Goal (ASTRO BOT Remix)"
     path: "Goal (ASTRO BOT Remix).brstm"
     type: result
+  - id: i_am_astro_bot_astro_bot_remix
+    title: "I Am Astro Bot (ASTRO BOT Remix)"
+    path: "I Am Astro Bot (ASTRO BOT Remix).brstm"
+    type: betting
+  - id: the_satellite_astro_bot
+    title: "The Satellite"
+    path: "The Satellite.brstm"
+    type: warning
 ...

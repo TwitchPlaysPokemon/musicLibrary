@@ -1,0 +1,101 @@
+---
+id: sonic_and_the_fallen_star
+title: "Sonic and the Fallen Star"
+series: sonic
+is_fanwork: true
+platform: "PC"
+year: 2022
+songs: 
+  - id: green_is_the_color_gusty_greenhouse_act_1
+    title: "Green is the Color ~ Gusty Greenhouse Act 1"
+    path: "Green is the Color ~ Gusty Greenhouse Act 1.brstm"
+    type: betting
+  - id: life_in_a_greenhouse_gusty_greenhouse_act_2
+    title: "Life in a Greenhouse ~ Gusty Greenhouse Act 2"
+    path: "Life in a Greenhouse ~ Gusty Greenhouse Act 2.brstm"
+    type: betting
+  - id: rose_colored_rhythm_raspberry_river_act_1
+    title: "Rose-Colored Rhythm ~ Raspberry River Act 1"
+    path: "Rose-Colored Rhythm ~ Raspberry River Act 1.brstm"
+    type: break
+  - id: shattered_mural_raspberry_river_act_2
+    title: "Shattered Mural ~ Raspberry River Act 2"
+    path: "Shattered Mural ~ Raspberry River Act 2.brstm"
+    type: betting
+  - id: one_way_lane_tropical_tracks_act_1
+    title: "One Way Lane ~ Tropical Tracks Act 1"
+    path: "One Way Lane ~ Tropical Tracks Act 1.brstm"
+    type: betting
+  - id: sundown_fever_tropical_tracks_act_2
+    title: "Sundown Fever ~ Tropical Tracks Act 2"
+    path: "Sundown Fever ~ Tropical Tracks Act 2.brstm"
+    type: betting
+  - id: synthesthesia_discount_districts_act_1
+    title: "Synthesthesia ~ Discount Districts Act 1"
+    path: "Synthesthesia ~ Discount Districts Act 1.brstm"
+    type: betting
+  - id: sonic_s_last_night_in_town_discount_districts_act_2
+    title: "Sonic's Last Night in Town ~ Discount Districts Act 2"
+    path: "Sonic's Last Night in Town ~ Discount Districts Act 2.brstm"
+    type: betting
+  - id: amy_it_s_cold_outside_frozen_fountain_act_1
+    title: "Amy, It's Cold Outside ~ Frozen Fountain Act 1"
+    path: "Amy, It's Cold Outside ~ Frozen Fountain Act 1.brstm"
+    type: betting
+  - id: continental_lifts_frozen_fountain_act_2
+    title: "Continental Lifts ~ Frozen Fountain Act 2"
+    path: "Continental Lifts ~ Frozen Fountain Act 2.brstm"
+    type: battle
+  - id: hedgehog_over_the_horizon_sapphire_sights_act_1
+    title: "Hedgehog Over the Horizon ~ Sapphire Sights Act 1"
+    path: "Hedgehog Over the Horizon ~ Sapphire Sights Act 1.brstm"
+    type: betting
+  - id: free_in_the_marina_sapphire_sights_act_2
+    title: "Free in the Marina ~ Sapphire Sights Act 2"
+    path: "Free in the Marina ~ Sapphire Sights Act 2.brstm"
+    type: betting
+  - id: don_t_look_down_thunder_turbine_act_1
+    title: "Don't Look Down ~ Thunder Turbine Act 1"
+    path: "Don't Look Down ~ Thunder Turbine Act 1.brstm"
+    type: betting
+  - id: music_to_infiltrate_by_thunder_turbine_act_2
+    title: "Music to Infiltrate By ~ Thunder Turbine Act 2"
+    path: "Music to Infiltrate By ~ Thunder Turbine Act 2.brstm"
+    type: battle
+  - id: bridge_over_bubbling_water_bubble_blossom_act_1
+    title: "Bridge Over Bubbling Water ~ Bubble Blossom Act 1"
+    path: "Bridge Over Bubbling Water ~ Bubble Blossom Act 1.brstm"
+    type: betting
+  - id: confetti_cannon_to_paradise_bubble_blossom_act_2
+    title: "Confetti Cannon to Paradise ~ Bubble Blossom Act 2"
+    path: "Confetti Cannon to Paradise ~ Bubble Blossom Act 2.brstm"
+    type: betting
+  - id: this_keg_is_a_circus_carnival_crater_act_1
+    title: "This Keg is a Circus ~ Carnival Crater Act 1"
+    path: "This Keg is a Circus ~ Carnival Crater Act 1.brstm"
+    type: betting
+  - id: forged_in_the_fire_carnival_crater_act_2
+    title: "Forged in the Fire ~ Carnival Crater Act 2"
+    path: "Forged in the Fire ~ Carnival Crater Act 2.brstm"
+    type: battle
+  - id: subspace_distortion_supernova_mix_special_stage
+    title: "Subspace Distortion (Supernova Mix) ~ Special Stage"
+    path: "Subspace Distortion (Supernova Mix) ~ Special Stage.brstm"
+    type: battle
+  - id: danger_on_the_discount_line_vs_benedict_express
+    title: "Danger on the Discount Line ~ Vs. Benedict Express"
+    path: "Danger on the Discount Line ~ Vs. Benedict Express.brstm"
+    type: battle
+  - id: time_rift_shift_vs_metal_sonic
+    title: "Time Rift Shift ~ Vs. Metal Sonic"
+    path: "Time Rift Shift ~ Vs. Metal Sonic.brstm"
+    type: battle
+  - id: mean_bean_fighting_machine_vs_eggman_2
+    title: "Mean Bean Fighting Machine ~ Vs. Eggman #2"
+    path: "Mean Bean Fighting Machine ~ Vs. Eggman #2.brstm"
+    type: battle
+  - id: dance_of_the_pseudo_psycho_vs_final_boss
+    title: "Dance of the Pseudo-Psycho ~ Vs. Final Boss"
+    path: "Dance of the Pseudo-Psycho ~ Vs. Final Boss.brstm"
+    type: battle
+...

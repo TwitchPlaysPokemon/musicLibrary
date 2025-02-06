@@ -1,0 +1,182 @@
+---
+id: siivacraft
+title: "SiIvaCraft"
+series: minecraft, siivagunner
+platform: "PC"
+is_fanwork: true 
+year: 2022
+#can you guess it? Another SiIvaGunner mod! This one is for Minecraft, replacing all the music with equivalent rips
+#because all the music is in .ogg files and I'm too lazy to make looping .txtps for them all, I'm focusing right now on the ones that don't need to be looped
+#I can add others later if need be
+songs: 
+  - id: a_ruined_thirteenth
+    title: "A Ruined Thirteenth"
+    path: "13.ogg"
+    type: break
+  - id: air_blocks
+    title: "Air Blocks"
+    path: "blocks.ogg"
+    type: betting
+  - id: miicraft
+    title: "MiiCraft"
+    path: "cat.ogg"
+    type: betting
+  - id: don_t_chirp_loudly_when_ur_in_the_tunnel
+    title: "don't chirp loudly when ur in the tunnel"
+    path: "chirp.ogg"
+    type: betting
+  - id: cube_kirby_goes_mining_in_the_ruins
+    title: "Cube Kirby Goes Mining in the Ruins"
+    path: "far.ogg"
+    type: betting
+  - id: beedle_s_department_store
+    title: "Beedle's Department Store"
+    path: "mall.ogg"
+    type: break
+  - id: inside_the_woodland_mansion
+    title: "Inside the Woodland Mansion"
+    path: "mellohi.ogg"
+    type: warning
+  - id: when_you_put_casino_night_into_a_jukebox
+    title: "when you put casino night into a jukebox"
+    path: "stal.ogg"
+    ends: 1:47
+    type: betting
+  - id: you_re_free_wake_up
+    title: "You're free. Wake Up."
+    path: "strad.ogg"
+    type: break
+  - id: wait_when_are_we_now
+    title: "Wait, When Are We Now"
+    path: "wait.ogg"
+    type: break
+  - id: super_mario_ward
+    title: "Super Mario Ward"
+    path: "ward.ogg"
+    ends: 2:57
+    type: betting
+  - id: mutation_of_earth
+    title: "Mutation of Earth"
+    path: "menu1.ogg"
+    type: break
+  - id: another_dimension_of_mobs
+    title: "Another Dimension of Mobs"
+    path: "menu2.ogg"
+    type: break
+  - id: the_girl_who_plays_minecraft
+    title: "The Girl Who Plays Minecraft"
+    path: "menu3.ogg"
+    type: betting
+  - id: floating_dolphins
+    title: "Floating Dolphins"
+    path: "menu4.ogg"
+    type: break
+  - id: m_o_o_g_city
+    title: "M-O-O-G City"
+    path: "moogcity.ogg"
+    type: betting
+  - id: a_day_of_minecraft
+    title: "A Day of Minecraft"
+    path: "calm1.ogg"
+    type: break
+  - id: the_requiem_of_alex
+    title: "The Requiem of Alex"
+    path: "calm2.ogg"
+    type: break
+  - id: 12am_in_sweden
+    title: "12AM in Sweden"
+    path: "calm3.ogg"
+    type: break
+  - id: steve_s_nightmare
+    title: "Steve's Nightmare"
+    path: "chris.ogg"
+    ends: 2:05
+    type: betting
+  - id: new_world_machine
+    title: "New World Machine"
+    path: "hal1.ogg"
+    type: break #technically 8 seconds short but eh
+  - id: never_forgive_me_never_forger_me
+    title: "Never Forgive Me, Never Forger Me"
+    path: "hal2.ogg"
+    type: betting
+  - id: haggstrom_moon
+    title: "Haggstrom Moon"
+    path: "hal3.ogg"
+    type: break
+  - id: danny_is_you
+    title: "DANNY IS YOU"
+    path: "hal4.ogg"
+    type: break
+  - id: mario_kyoto
+    title: "Mario"
+    path: "kyoto.ogg"
+    type: break
+  - id: villagers_vs_zombies
+    title: "Villagers vs. Zombies"
+    path: "piano3.ogg"
+    type: break
+  - id: castle_of_the_nether_realm
+    title: "Castle of the Nether Realm"
+    path: "nether1.ogg"
+    ends: 2:24
+    type: betting
+  - id: steve_and_the_dead_forest
+    title: "Steve and the Dead Forest"
+    path: "nether2.ogg"
+    type: break
+  - id: hidden_in_the_third_dimension
+    title: "Hidden in the Third Dimension"
+    path: "nether3.ogg"
+    type: break
+  - id: ballad_of_the_dodongos
+    title: "Ballad of the Dodongos"
+    path: "nether4.ogg"
+    type: break
+  - id: forgotten_scrapbook
+    title: "Forgotten Scrapbook"
+    path: "scrapbook.ogg"
+    type: warning
+  - id: farewell_n_intro_minecraft
+    title: "iNtro"
+    path: "intro.ogg"
+    type: break
+  - id: fell_from_a_high_place_reprise
+    title: "Fell From a High Place (Reprise)"
+    path: "credits.ogg"
+    type: break
+  - id: worldwide_biome_fest
+    title: "Worldwide Biome Fest"
+    path: "creative1.ogg"
+    type: break
+  - id: a_sight_from_the_blind_spots
+    title: "A Sight from the Blind Spots"
+    path: "creative2.ogg"
+    type: break
+  - id: rauq_aazy
+    title: "Rauq Aazy"
+    path: "creative3.ogg"
+    ends: 3:35
+    type: betting
+  - id: acoustic_arithmetic
+    title: "Acoustic Arithmetic"
+    path: "creative4.ogg"
+    type: break
+  - id: the_end_s_outer_islands
+    title: "The End's Outer Islands"
+    path: "creative5.ogg"
+    type: break
+  - id: creation_break
+    title: "Creation Break"
+    path: "creative6.ogg"
+    type: break
+  - id: ruins_of_flake
+    title: "Ruins of Flake"
+    path: "flake.ogg"
+    type: betting
+  - id: droopy_likes_plok
+    title: "Droopy likes Plok"
+    path: "plok.ogg"
+    ends: 1:57
+    type: betting
+...

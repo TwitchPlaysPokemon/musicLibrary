@@ -6,6 +6,22 @@ year: 2024
 songs: 
   - id: main_theme_balatro
     title: "Main Theme"
-    path: "music1.ogg" #dunno why it's sped up
+    path: "music1_main.txtp"
+    type: betting
+  - id: arcana_pack
+    title: "Arcana Pack"
+    path: "music2_arcana.txtp"
+    type: betting
+  - id: celestial_pack
+    title: "Celestial Pack"
+    path: "music3_celestial.txtp"
+    type: betting
+  - id: shop_balatro
+    title: "Shop"
+    path: "music4_shop.txtp"
+    type: betting
+  - id: boss_blind
+    title: "Boss Blind"
+    path: "music5_boss.txtp"
     type: betting
 ...
