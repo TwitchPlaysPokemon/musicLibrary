@@ -116,4 +116,72 @@ songs:
     title: "Game of Thrones Medley for Multiversus (Match Point)"
     path: "gotthroneroomPARTB.txtp"
     type: battle
+  - id: steven_universe_sky_arena_synthpop
+    title: "Steven Universe: Sky Arena (Synth Pop)"
+    path: "STEVENCHIPPARTA.txtp"
+    type: betting
+  - id: steven_universe_sky_arena_synthpop_match_point
+    title: "Steven Universe: Sky Arena (Synth Pop - Match Point)"
+    path: "STEVENCHIPPARTB.txtp"
+    type: battle
+  - id: dexter_s_laboratory
+    title: "Dexter's Laboratory"
+    path: "DEXOPARTA.txtp"
+    type: betting
+  - id: dexter_s_laboratory_match_point
+    title: "Dexter's Laboratory (Match Point)"
+    path: "DEXOPARTB.txtp"
+    type: battle
+  - id: dexter_s_laboratory_chiptune_version
+    title: "Dexter's Laboratory (Chiptune Version)"
+    path: "DEXCPARTA.txtp"
+    type: betting
+  - id: dexter_s_laboratory_chiptune_version_match_point
+    title: "Dexter's Laboratory (Chiptune Version - Match Point)"
+    path: "DEXCPARTB.txtp"
+    type: battle
+  - id: the_city_of_townsville
+    title: "The City of Townsville"
+    path: "PPGPARTA.txtp"
+    type: betting
+  - id: the_city_of_townsville_match_point
+    title: "The City of Townsville (Match Point)"
+    path: "PPGPARTB.txtp"
+    type: battle
+  - id: the_city_of_townsville_match_point_mojo_jojo_defeated
+    title: "The City of Townsville (Match Point - Mojo Jojo Defeated)"
+    path: "PPGPARTC.txtp"
+    type: battle
+  - id: space_jam_enter_the_multiverse
+    title: "Space Jam: Enter The Multiverse"
+    path: "SLAMPARTA.txtp"
+    type: betting
+  - id: space_jam_enter_the_multiverse_match_point
+    title: "Space Jam: Enter The Multiverse (Match Point)"
+    path: "SLAMPARTB.txtp"
+    type: battle
+  - id: midnight_showing
+    title: "Midnight Showing"
+    path: "GREMPARTA.txtp"
+    type: betting
+  - id: midnight_showing_match_point
+    title: "Midnight Showing (Match Point)"
+    path: "GREMPARTB.txtp"
+    type: battle
+  - id: teen_titans_tower
+    title: "Teen Titans Tower"
+    path: "TITANSPARTA.txtp"
+    type: betting
+  - id: teen_titans_tower_match_point
+    title: "Teen Titans Tower (Match Point)"
+    path: "TITANSPARTB.txtp"
+    type: battle
+  - id: back_to_the_past
+    title: "Back to the Past"
+    path: "JACKPARTA.txtp"
+    type: betting
+  - id: back_to_the_past_match_point
+    title: "Back to the Past (Match Point)"
+    path: "JACKPARTB.txtp"
+    type: battle
 ...
