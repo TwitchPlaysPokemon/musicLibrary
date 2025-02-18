@@ -1,0 +1,24 @@
+---
+id: marvel_vs_capcom_fighting_collection_arcade_classics
+title: "Marvel vs. Capcom Fighting Collection: Arcade Classics"
+series: mvc
+platform: "Various"
+year: 2024
+songs:
+  - id: title_back_to_the_age_of_heroes
+    title: "Title - Back to the Age of Heroes"
+    path: "01. Title - Back to the Age of Heroes.mp3"
+    type: result
+  - id: game_select_revelry_retreat
+    title: "Game Select - Revelry Retreat"
+    path: "02. Game Select - Revelry Retreat.mp3"
+    type: warning
+  - id: credits_promise_of_reunion
+    title: "Credits - Promise of Reunion"
+    path: "04. Credits - Promise of Reunion.mp3"
+    type: break
+  - id: result_beyond_the_clash_of
+    title: "Result - Beyond the Clash of..."
+    path: "05. Result - Beyond the Clash of....mp3"
+    type: result
+...

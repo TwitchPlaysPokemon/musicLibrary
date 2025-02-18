@@ -210,7 +210,7 @@ songs:
   - id: battle_legendary_pokemon_phase_1
     title: "Battle: Legendary Pokémon (Phase 1)"
     path: "PLAY_BGM_VS_BOSS_MID (BGM_CAUTION_BOSS_MID_AREA=BGM_BOSS_MID_AREA_OUT)(BGM_CAUTION_BOSS_MID=CAUTION_BOSS_MID_ON)(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF) {s}.txtp"
-    type: battle
+    type: warning
   - id: battle_legendary_pokemon_phase_2
     title: "Battle: Legendary Pokémon (Phase 2)"
     path: "PLAY_BGM_VS_BOSS_MID (BGM_CAUTION_BOSS_MID_AREA=BGM_BOSS_MID_AREA_OUT)(BGM_CAUTION_BOSS_MID=CAUTION_BOSS_MID_ON)(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF) {s}=(BGM_BATTLE_BOSS_MID=BATTLE_BOSS_MID_OFF).txtp"

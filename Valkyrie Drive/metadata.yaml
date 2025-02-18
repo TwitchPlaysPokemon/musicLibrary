@@ -1,0 +1,126 @@
+id: valkyire_drive_bhikkhuni
+title: "VALKYRIE DRIVE -BHIKKHUNI-"
+year: 2015
+platform: ["Vita", "PC"]
+songs:
+  - id: gleam_rinka_s_theme
+    title: "GLEAM (Rinka's Theme)"
+    path: "bgm003.hca"
+    type: betting
+  - id: faith_ranka_s_theme
+    title: "FAITH (Ranka's Theme)"
+    path: "bgm004.hca"
+    type: battle
+  - id: momo_s_theme
+    title: "ORBIT (Momo's Theme)"
+    path: "bgm005.hca"
+    type: battle
+  - id: dizzy_manpukumaru_s_theme
+    title: "DIZZY (Manpukumaru's Theme)"
+    path: "bgm006.hca"
+    type: betting
+  - id: scent_viola_s_theme
+    title: "SCENT (Viola's Theme)"
+    path: "bgm007.hca"
+    type: battle
+  - id: honor_momo_s_theme
+    title: "HONOR (Momo's Theme)"
+    path: "bgm008.hca"
+    type: battle
+  - id: prove_koharu_s_theme
+    title: "PROVE (Koharu's Theme)"
+    path: "bgm009.hca"
+    type: betting
+  - id: brave_mirei_s_theme
+    title: "BRAVE (Mirei's Theme)"
+    path: "bgm010.hca"
+    type: battle
+  - id: crisis_vd
+    title: "CRISIS"
+    path: "bgm012.hca"
+    type: warning
+  - id: blind_drive
+    title: "BLIND DRIVE"
+    path: "bgm013.hca"
+    type: betting
+  - id: heavy_gouzanaze_s_theme
+    title: "HEAVY (Gouzanaze's Theme)"
+    path: "bgm014.hca"
+    type: warning
+  - id: voice_gundari_s_theme
+    title: "VOICE (Gundari's Theme)"
+    path: "bgm015.hca"
+    type: warning
+  - id: wrath_daiitoku_s_theme
+    title: "WRATH (Daiitoku's Theme)"
+    path: "bgm016.hca"
+    type: betting
+  - id: shake_kongou_s_theme
+    title: "SHAKE (Kongou's Theme)"
+    path: "bgm017.hca"
+    type: warning
+  - id: everyday_vd
+    title: "EVERYDAY"
+    path: "bgm018.hca"
+    type: betting
+  - id: joyful_vd
+    title: "JOYFUL"
+    path: "bgm019.hca"
+    type: betting
+  - id: nervous_vd
+    title: "NERVOUS"
+    path: "bgm020.hca"
+    type: warning
+  - id: pathetic
+    title: "PATHETIC"
+    path: "bgm021.hca"
+    type: result
+  - id: memories_vd
+    title: "MEMORIES"
+    path: "bgm022.hca"
+    type: break
+  - id: anxiety
+    title: "ANXIETY"
+    path: "bgm023.hca"
+    type: warning
+  - id: spirit_vd
+    title: "SPIRIT"
+    path: "bgm024.hca"
+    type: result
+  - id: comical
+    title: "COMICAL"
+    path: "bgm025.hca"
+    type: result
+  - id: area_27
+    title: "AREA-27"
+    path: "bgm030.hca"
+    type: betting
+  - id: area_84
+    title: "AREA-84"
+    path: "bgm031.hca"
+    type: warning
+  - id: area_01
+    title: "AREA-01"
+    path: "bgm033.hca"
+    type: betting
+  - id: dining_room
+    title: "DINING ROOM"
+    path: "bgm041.hca"
+    type: betting
+  - id: business_acumen
+    title: "BUSINESS ACUMEN"
+    path: "bgm042.hca"
+    type: betting
+  - id: communication_room_vd
+    title: "COMMUNICATION ROOM"
+    path: "bgm043.hca"
+    type: betting
+  - id: private_time_vd
+    title: "PRIVATE TIME"
+    path: "bgm044.hca"
+    type: betting
+  - id: result_vd
+    title: "RESULT"
+    path: "bgm051.hca"
+    type: result
+...

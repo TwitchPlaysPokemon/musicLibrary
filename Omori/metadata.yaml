@@ -42,4 +42,24 @@ songs:
     title: "Three Bar Logos"
     path: "battle_otherworld.brstm"
     type: betting
+  - id: forest_frenzy
+    title: "Forest Frenzy"
+    path: "Forest Frenzy.brstm"
+    type: battle
+  - id: gator_gambol
+    title: "Gator Gambol"
+    path: "Gator Gambol.brstm"
+    type: betting
+  - id: underwater_prom_queens
+    title: "Underwater Prom Queens"
+    path: "Underwater Prom Queens.brstm"
+    type: battle
+  - id: valour_against_all_odds
+    title: "Valour Against All Odds"
+    path: "Valour Against All Odds.brstm"
+    type: battle
+  - id: you_were_wrong_go_back
+    title: "You Were Wrong. Go Back"
+    path: "You Were Wrong. Go Back.brstm"
+    type: battle
 ...

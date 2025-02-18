@@ -1,0 +1,55 @@
+---
+id: buckshot_roulette
+title: "Buckshot Roulette"
+platform: "PC"
+year: 2023
+songs:
+  - id: blank_shell
+    title: "Blank Shell"
+    path: "1.1 - Blank Shell.txtp"
+    type: break
+  - id: general_release
+    title: "General Release"
+    path: "1.2 - General Release.txtp"
+    type: betting
+  - id: before_every_load
+    title: "Before Every Load"
+    path: "1.3 - Before Every Load.txtp"
+    type: warning
+  - id: socket_calibration
+    title: "Socket Calibration"
+    path: "1.4 - Socket Calibration.txtp"
+    type: betting
+  - id: monochrome_lcd
+    title: "Monochrome LCD"
+    path: "1.5 - Monochrome LCD.txtp"
+    type: break
+  - id: 70k
+    title: "70K"
+    path: "1.6 - 70K.txtp"
+    type: result
+  - id: you_are_an_angel
+    title: "You are an Angel"
+    path: "1.7 - You are an Angel.txtp"
+    type: result
+  - id: desolate_buckshot
+    title: "Desolate"
+    path: "2.1 - Desolate.txtp"
+    type: break
+  - id: surrounded_buckshot
+    title: "Surrounded"
+    path: "2.2 - Surrounded.txtp"
+    type: warning
+  - id: twice_or_it_s_luck
+    title: "Twice or it's Luck"
+    path: "2.3 - Twice or it's Luck.txtp"
+    type: battle
+  - id: overdose_casino
+    title: "Overdose Casino"
+    path: "2.4 - Overdose Casino.txtp"
+    type: betting
+  - id: koni
+    title: "Koni"
+    path: "2.5 - Koni.txtp"
+    type: break
+...
