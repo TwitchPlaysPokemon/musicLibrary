@@ -1,0 +1,16 @@
+---
+id: skype_the_app
+title: "Skype"
+platform: "PC"
+year: 2003
+#we already have discord, so...
+songs:
+  - id: incoming_call_skype
+    title: "Incoming Call"
+    path: "Incoming Call.brstm"
+    type: warning
+  - id: incoming_call_8_44_skype
+    title: "Incoming Call (8.44)"
+    path: "Incoming Call (8.44).brstm"
+    type: warning
+...

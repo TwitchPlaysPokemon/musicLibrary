@@ -109,4 +109,38 @@ songs:
     title: "Death Ruins"
     path: "Death Ruins.adx"
     type: battle
+  - id: e_g_g_m_a_n_doc_robeatnix_mix
+    title: "E.G.G.M.A.N. - Doc. Robeatnix Mix"
+    path: "E.G.G.M.A.N. (Doc. Robeatnix Mix).brstm"
+    type: battle
+  - id: i_am_all_of_me_opening_ver
+    title: "I Am... All of Me / Opening ver."
+    path: "sng_vox01.adx"
+    ends: 1:50
+    type: betting
+  - id: system_battle_menu
+    title: "System : Battle Menu"
+    path: "sng_sys05.adx"
+    type: warning
+  - id: i_am_all_of_me_final_doom_ver
+    title: "I Am... All of Me / Final Doom ver."
+    path: "sng_stg0710.adx"
+    type: battle
+  - id: boss_diablon
+    title: "Boss : Diablon"
+    path: "sng_stg0611.adx"
+    type: battle
+  - id: boss_heavy_dog
+    title: "Boss : Heavy Dog"
+    path: "sng_stg0410.adx"
+    type: battle
+  - id: all_hail_shadow
+    title: "All Hail Shadow"
+    path: "sng_vox05.adx"
+    ends: 3:22
+    type: betting
+  - id: never_turn_back
+    title: "Never Turn Back"
+    path: "sng_vox06.adx"
+    type: betting
 ...

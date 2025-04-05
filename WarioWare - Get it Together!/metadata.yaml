@@ -1,0 +1,74 @@
+---
+id: warioware_get_it_together
+title: "WarioWare: Get It Together!"
+series: wario
+platform: "Switch"
+year: 2021
+songs:
+  - id: title_screen_wwgit
+    title: "Title Screen"
+    path: "BGM_SYS_Title_lp_opus.txtp"
+    type: result
+  - id: main_menu_variation_1_wwgit
+    title: "Main Menu (Variation 1)"
+    path: "BGM_SYS_MainMenu1_lp_opus.txtp"
+    type: result
+  - id: main_menu_variation_2_wwgit
+    title: "Main Menu (Variation 2)"
+    path: "BGM_SYS_MainMenu2_lp_opus.txtp"
+    type: result
+  - id: main_menu_variation_3_wwgit
+    title: "Main Menu (Variation 3)"
+    path: "BGM_SYS_MainMenu1_3p_opus.txtp"
+    type: result
+  - id: main_menu_variation_4_wwgit
+    title: "Main Menu (Variation 4)"
+    path: "BGM_SYS_MainMenu4_lp_opus.txtp"
+    type: result
+  - id: main_menu_variation_5_wwgit
+    title: "Main Menu (Variation 5)"
+    path: "BGM_SYS_MainMenu5_lp_opus.txtp"
+    type: result
+  - id: character_tutorial_wwgit
+    title: "Character Tutorial"
+    path: "BGM_SYS_Tutorial_lp_opus.txtp"
+    type: warning
+  - id: penny_s_song_english
+    title: "Penny's Song (English)"
+    path: "BGM_Gallery_PennySong_US_opus.txtp"
+    ends: 2:48
+    type: betting
+  - id: penny_s_song_japanese
+    title: "Penny's Song (Japanese)"
+    path: "BGM_Gallery_PennySong_JP_opus.txtp"
+    ends: 2:48
+    type: betting
+  - id: staff_credits_wwgit
+    title: "Staff Credits"
+    path: "BGM_StaffCredit_US_opus.lopus"
+    type: betting
+  - id: friendless_battle
+    title: "Friendless Battle"
+    path: "BGM_V_CombatMob_Play_opus.txtp"
+    type: betting
+  - id: friendless_battle_middle_boss
+    title: "Friendless Battle - Middle Boss"
+    path: "BGM_V_CombatMob_MiddleBoss_opus.txtp"
+    type: warning
+  - id: friendless_battle_big_boss
+    title: "Friendless Battle - Big Boss"
+    path: "BGM_V_CombatMob_BigBoss_opus.txtp"
+    type: warning
+  - id: frenemy_frenzy_title
+    title: "Frenemy Frenzy - Title"
+    path: "BGM_V_Title_CharaChan_opus.txtp"
+    type: result
+  - id: character_selection_wwgit
+    title: "Character Selection"
+    path: "BGM_SYS_CharaSelect_lp_opus.txtp"
+    type: betting
+  - id: stage_clear_wwgit
+    title: "Stage Clear!"
+    path: "BGM_S_Clear1_lp_opus.txtp"
+    type: result
+...

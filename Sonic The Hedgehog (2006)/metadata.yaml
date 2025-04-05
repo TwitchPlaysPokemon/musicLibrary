@@ -123,4 +123,17 @@ songs:
     title: "DREAMS OF AN ABSOLUTION ~THEME OF SILVER THE HEDGEHOG~ (INSTRUMENTAL)"
     path: "301b - Mariko Nanba, Arr. Tomoya Ohtani - DREAMS OF AN ABSOLUTION ~THEME OF SILVER THE HEDGEHOG~ (INSTRUMENTAL).xma"
     type: betting
+  - id: his_world_theme_of_sonic_the_hedgehog
+    title: "His World -Theme of Sonic The Hedgehog-"
+    path: "theme_sonic.at3"
+    ends: 3:02
+    type: betting
+  - id: menu_s06
+    title: "Menu"
+    path: "menu.at3"
+    type: warning
+  - id: result_s06
+    title: "Result"
+    path: "result.at3"
+    type: result
 ...

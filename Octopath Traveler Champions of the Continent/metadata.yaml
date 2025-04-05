@@ -136,4 +136,180 @@ songs:
     # title: "For the Dawn"
     # path: "Octopath Traveler 2 - M_MJ_128 (main).txtp"
     # type: battle
+  - id: who_awaits_on_greed_s_path
+    title: "Who Awaits on Greed's Path"
+    path: "M_Q101.txtp"
+    type: battle
+  - id: succumbing_to_rancor
+    title: "Succumbing to Rancor"
+    path: "M_Q102.txtp"
+    type: warning
+  - id: succumbing_to_hatred
+    title: "Succumbing to Hatred"
+    path: "M_Q104.txtp"
+    type: warning
+  - id: agapea_isle_of_maidens
+    title: "Agapaea, Isle of Maidens"
+    path: "M_Q114.txtp"
+    type: break
+  - id: the_heavens_shrine
+    title: "The Heavens' Shrine"
+    path: "M_Q115.txtp"
+    type: break
+  - id: the_heavens_battle
+    title: "The Heavens - Battle"
+    path: "M_Q116.txtp"
+    type: battle
+  - id: the_heavens_decisive_battle
+    title: "The Heavens - Decisive Battle"
+    path: "M_Q117.txtp"
+    type: battle
+  - id: sazantos_the_divine_champion
+    title: "Sazantos, the Divine Champion"
+    path: "M_Q118.txtp"
+    type: betting
+  - id: the_realm_divine
+    title: "The Realm Divine"
+    path: "M_Q119.txtp"
+    type: betting
+  - id: orsazantos_the_creator
+    title: "Orsazantos, the Creator"
+    path: "M_Q120.txtp"
+    type: betting
+  - id: bestower_of_all
+    title: "Bestower of All"
+    path: "M_Q121.txtp"
+    type: battle
+  - id: fortune_s_gameboard
+    title: "Fortune's Gameboard"
+    path: "M_Q128.txtp"
+    type: betting
+  - id: hearts_tested
+    title: "Hearts Tested"
+    path: "M_Q127.txtp"
+    type: break
+  - id: prison_of_the_past
+    title: "Prison of the Past"
+    path: "M_Q129.txtp"
+    type: break
+  - id: the_golden_palace
+    title: "The Golden Palace"
+    path: "M_Q13.txtp"
+    type: betting
+  - id: smoke_signals_at_sea
+    title: "Smoke Signals at Sea"
+    path: "M_Q14.txtp"
+    type: betting
+  - id: the_uncharted_isle_of_orsa
+    title: "The Uncharted Isle of Orsa"
+    path: "M_Q18.txtp"
+    type: break
+  - id: tower_of_trials
+    title: "Tower of Trials"
+    path: "M_Q39.txtp"
+    type: betting
+  - id: entering_the_arena
+    title: "Entering the Arena"
+    path: "M_Q49.txtp"
+    type: warning
+  - id: battle_i_champions_of_the_tourney
+    title: "Battle I - Champions of the Tourney"
+    path: "M_Q50 (full).txtp"
+    type: battle
+  - id: decisive_battle_ii_champions_of_the_tourney
+    title: "Decisive Battle II - Champions of the Tourney"
+    path: "M_Q51 (full).txtp"
+    type: battle
+  - id: a_burning_vengeance
+    title: "A Burning Vengeance"
+    path: "M_Q61 (intro).txtp"
+    type: warning
+  - id: one_with_hope
+    title: "One with Hope"
+    path: "M_Q64 (intro).txtp"
+    type: warning
+  - id: for_duty_and_justice
+    title: "For Duty and Justice"
+    path: "M_Q67 (intro).txtp"
+    type: warning
+  - id: encroaching_upon_the_forbidden
+    title: "Encroaching upon the Forbidden"
+    path: "M_Q76 (full).txtp"
+    type: warning
+  - id: the_forbidden_temple
+    title: "The Forbidden Temple"
+    path: "M_Q15.txtp"
+    type: betting
+  - id: the_tower_of_rememberance
+    title: "The Tower of Remembrance"
+    path: "M_Q79.txtp"
+    type: break
+  - id: sazantos_hell_s_champion
+    title: "Sazantos, Hell's Champion"
+    path: "M_Q80.txtp"
+    type: betting
+  - id: the_depths_of_hell_cotc
+    title: "The Depths of Hell"
+    path: "M_Q81.txtp"
+    type: betting
+  - id: bestower_of_despair
+    title: "Bestower of Despair"
+    path: "M_Q82.txtp"
+    type: battle
+  - id: guardians_of_light_cotc
+    title: "Guardians of Light"
+    path: "M_Q85.txtp"
+    type: betting
+  - id: the_shambling_dead
+    title: "The Shambling Dead"
+    path: "M_Q86.txtp"
+    type: break
+  - id: march_of_the_damned
+    title: "March of the Damned"
+    path: "M_Q87.txtp"
+    type: betting
+  - id: hell_location_ii_accursed
+    title: "Hell - Location II: Accursed"
+    path: "M_Q88.txtp"
+    type: break
+  - id: hell_location_ii_serene
+    title: "Hell - Location II: Serene"
+    path: "M_Q89.txtp"
+    type: break
+  - id: hell_location_i_accursed
+    title: "Hell - Location I: Accursed"
+    path: "M_Q91.txtp"
+    type: betting
+  - id: hell_location_i_serene
+    title: "Hell - Location I: Serene"
+    path: "M_Q92.txtp"
+    type: break
+  - id: hell_hornburg_accursed
+    title: "Hell - Hornburg: Accursed"
+    path: "M_Q94.txtp"
+    type: betting
+  - id: hell_hornburg_serene
+    title: "Hell - Hornburg: Serene"
+    path: "M_Q95.txtp"
+    type: break
+  - id: hell_castle_edoras
+    title: "Hell - Castle Edoras"
+    path: "M_Q97.txtp"
+    type: betting
+  - id: hell_battle_cotc
+    title: "Hell - Battle"
+    path: "M_Q98.txtp"
+    type: battle
+  - id: hell_decisive_battle_i
+    title: "Hell - Decisive Battle I"
+    path: "M_Q99.txtp"
+    type: battle
+  - id: hell_decisive_battle_ii
+    title: "Hell - Decisive Battle II"
+    path: "M_Q100.txtp"
+    type: battle
+  - id: the_chosen_one_cotc
+    title: "The Chosen One"
+    path: "M_Q130; M_Q131.txtp"
+    type: battle
 ...

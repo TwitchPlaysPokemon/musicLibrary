@@ -1,0 +1,78 @@
+id: fraymakers
+title: "Fraymakers"
+platform: "PC"
+year: 2023
+#tried to do my best and make some brstms for some. I'd prefer just regular loops, but alas this is what I have so far
+songs:
+  - id: fraymakers_main_theme
+    title: "Fraymakers Main Theme"
+    path: "01. Fraymakers.mp3" #doesn't loop properly even in game - just goes to the end and jumps back. Crazy, right?
+    type: result
+  - id: bit_trip_medley
+    title: "Bit.Trip Medley"
+    path: "02. Bit.Trip Medley.mp3"
+    type: betting
+  - id: octodad_medley
+    title: "Octodad Medley"
+    path: "03. Octodad Medley.mp3"
+    type: betting
+  - id: fighter_select_rivals_of_aether_fm
+    title: "Fighter Select (Rivals of Aether)"
+    path: "04. Fighter Select (Rivals of Aether).mp3"
+    type: betting
+  - id: slap_city_theme
+    title: "Slap City Theme"
+    path: "05. Slap City Theme.mp3"
+    type: betting
+  - id: slay_the_spire_fm
+    title: "Slay the Spire"
+    path: "06. Slay the Spire.mp3"
+    type: betting
+  - id: fraymakers_jamphibious_arrangement
+    title: "Fraymakers Jamphibious Arrangement"
+    path: "07. Fraymakers Jamphibious Arrangement.mp3"
+    type: result
+  - id: impetus
+    title: "Impetus"
+    path: "08. Impetus.brstm"
+    type: battle
+  - id: lawnmower_attack
+    title: "Lawnmower Attack"
+    path: "09. Lawnmower Attack.mp3"
+    ends: 1:30
+    type: betting
+  - id: oceanic_breeze_fm
+    title: "Oceanic Breeze"
+    path: "10. Oceanic Breeze.mp3"
+    type: result
+  - id: where_the_pain_grows
+    title: "Where the Pain Grows"
+    path: "11. Where the Pain Grows.mp3"
+    ends: 2:19
+    type: betting
+  - id: slay_the_spire_medley
+    title: "Slay the Spire Medley"
+    path: "12. Slay the Spire Medley.mp3"
+    type: betting
+  - id: mochi_yasan
+    title: "Mochi Yasan"
+    path: "13. Mochi Yasan.mp3"
+    type: result
+  - id: superfunk
+    title: "Superfunk"
+    path: "14. Superfunk.mp3"
+    ends: 2:19
+    type: betting
+  - id: fight_and_flight_fm
+    title: "Fight and Flight"
+    path: "15. Fight and Flight.brstm"
+    type: battle
+  - id: blobbers_fm
+    title: "Blobbers"
+    path: "16. Blobbers.brstm"
+    type: battle
+  - id: uroboros
+    title: "Uroboros"
+    path: "17. Uroboros.mp3"
+    type: warning
+...

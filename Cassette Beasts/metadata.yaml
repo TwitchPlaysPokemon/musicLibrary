@@ -1,0 +1,307 @@
+---
+id: cassette_beasts
+title: "Cassette Beasts"
+platform: "Various"
+year: 2023
+songs: 
+  - id: aleph_encounter
+    title: "Aleph Encounter"
+    path: "aleph_encounter.txtp"
+    type: warning
+  - id: the_amber_lodge
+    title: "The Amber Lodge"
+    path: "amber_lodge.txtp"
+    type: break
+  - id: archangel_encounter
+    title: "Archangel Encounter"
+    path: "archangel_encounter.txtp"
+    type: warning
+  - id: the_mournchildren
+    title: "The Mournchildren"
+    path: "autumn_hill_hostile.txtp"
+    type: warning
+  - id: autumn_hill_night
+    title: "Autumn Hill (Night)"
+    path: "autumn_hill_night.txtp"
+    type: break
+  - id: autumn_hill
+    title: "Autumn Hill"
+    path: "autumn_hill_peaceful.txtp"
+    type: break
+  - id: deus_ex_calibur
+    title: "Deus Ex Calibur"
+    path: "battle_aleph.txtp"
+    type: battle
+  - id: same_old_story
+    title: "Same Old Story"
+    path: "battle_archangel_vox.txtp"
+    type: battle
+  - id: same_old_story_instrumental
+    title: "Same Old Story (Instrumental)"
+    path: "battle_archangel_instr.txtp"
+    type: battle
+  - id: face_down
+    title: "Face Down"
+    path: "battle_captain_vox.txtp"
+    type: battle
+  - id: face_down_instrumental
+    title: "Face Down (Instrumental)"
+    path: "battle_captain_instr.txtp"
+    type: battle
+  - id: arrow_of_time
+    title: "Arrow of Time"
+    path: "battle_final_1.txtp"
+    type: battle
+  - id: arrow_of_time_reprise
+    title: "Arrow of Time (Reprise)"
+    path: "battle_final_2.txtp"
+    type: battle
+  - id: like_chimeras
+    title: "Like Chimeras"
+    path: "battle_fusion_vox.txtp"
+    type: battle
+  - id: like_chimeras_instrumental
+    title: "Like Chimeras (Instrumental)"
+    path: "battle_fusion_instr.txtp"
+    type: battle
+  - id: shot_in_the_dark
+    title: "Shot in the Dark"
+    path: "battle_human_vox.txtp"
+    type: battle
+  - id: shot_in_the_dark_instrumental
+    title: "Shot in the Dark (Instrumental)"
+    path: "battle_human_instr.txtp"
+    type: battle
+  - id: your_inception
+    title: "Your Inception"
+    path: "battle_lenna_vox.txtp"
+    type: battle
+  - id: your_inception_instrumental
+    title: "Your Inception (Instrumental)"
+    path: "battle_lenna_instr.txtp"
+    type: battle
+  - id: cross_your_heart
+    title: "Cross Your Heart"
+    path: "battle_monster_vox.txtp"
+    type: battle
+  - id: cross_your_heart_instrumental
+    title: "Cross Your Heart (Instrumental)"
+    path: "battle_monster_instr.txtp"
+    type: battle
+  - id: by_the_campfire
+    title: "By The Campfire"
+    path: "campfire_theme.txtp"
+    type: break
+  - id: captain_encounter_hostile
+    title: "Captain Encounter (Hostile)"
+    path: "captain_encounter_hostile.txtp"
+    type: warning
+  - id: captain_encounter_peaceful
+    title: "Captain Encounter (Peaceful)"
+    path: "captain_encounter_peaceful.txtp"
+    type: result
+  - id: into_the_caves
+    title: "Into the Caves"
+    path: "cave.txtp"
+    type: betting
+  - id: showstopper
+    title: "Showstopper"
+    path: "clown_battle_1.txtp"
+    type: battle
+  - id: showstopper_mourning
+    title: "Showstopper (Mourning)"
+    path: "clown_battle_2.txtp"
+    type: warning
+  - id: barkley_s_theme
+    title: "Barkley's Theme"
+    path: "dog_theme_1.txtp"
+    type: betting
+  - id: barkley_s_theme_heartfelt
+    title: "Barkley's Theme (Heartfelt)"
+    path: "dog_theme_2.txtp"
+    type: break
+  - id: credits_cassete_beasts
+    title: "Credits"
+    path: "credits.txtp"
+    type: result
+  - id: engine_battle
+    title: "Engine Battle"
+    path: "engine_battle.txtp"
+    type: battle
+  - id: eugene_s_theme
+    title: "Eugene's Theme"
+    path: "eugene_theme_1.txtp"
+    type: betting
+  - id: eugene_s_theme_heartfelt
+    title: "Eugene's Theme (Heartfelt)"
+    path: "eugene_theme_2.txtp"
+    type: break
+  - id: felix_s_theme
+    title: "Felix's Theme"
+    path: "felix_theme_1.txtp"
+    type: betting
+  - id: felix_s_theme_heartfelt
+    title: "Felix's Theme (Heartfelt)"
+    path: "felix_theme_2.txtp"
+    type: break
+  - id: night_s_bridge_station
+    title: "Night's Bridge Station"
+    path: "final_station_theme.txtp"
+    type: betting
+  - id: funworld
+    title: "Funworld"
+    path: "funhouse.txtp"
+    type: warning
+  - id: goodbyes_cassette_beasts
+    title: "Goodbyes"
+    path: "goodbye.txtp"
+    type: break
+  - id: gwen_s_theme
+    title: "Gwen's Theme"
+    path: "gwen_theme_1.txtp"
+    type: betting
+  - id: gwen_s_theme_reprise
+    title: "Gwen's Theme (Reprise)"
+    path: "gwen_theme_2.txtp"
+    type: break
+  - id: wherever_we_are_now
+    title: "Wherever We Are Now"
+    path: "harbourtown_vox.txtp"
+    type: betting
+  - id: wherever_we_are_now_instrumental
+    title: "Wherever We Are Now (Instrumental)"
+    path: "harbourtown_instr.txtp"
+    type: break
+  - id: the_witch_house
+    title: "The Witch House"
+    path: "hauntedhouse.txtp"
+    type: warning
+  - id: in_the_warp
+    title: "In The Warp"
+    path: "in_the_warp.txtp"
+    type: warning
+  - id: kayleigh_s_theme
+    title: "Kayleigh's Theme"
+    path: "kayleigh_theme_1.txtp"
+    type: betting
+  - id: kayleigh_s_theme_heartfelt
+    title: "Kayleigh's Theme (Heartfelt)"
+    path: "kayleigh_theme_2.txtp"
+    type: break
+  - id: kuneko_s_theme
+    title: "Kuneko's Theme"
+    path: "kuneko_theme_1.txtp"
+    type: betting
+  - id: look_at_the_sun
+    title: "Look at the Sun"
+    path: "mall_vox.txtp"
+    type: betting
+  - id: look_at_the_sun_instrumental
+    title: "Look at the Sun (Instrumental)"
+    path: "mall_instr.txtp"
+    type: betting
+  - id: look_at_the_sun_quiet
+    title: "Look at the Sun (Quiet)"
+    path: "mall_quiet.txtp"
+    type: break
+  - id: the_marshes
+    title: "The Marshes"
+    path: "marsh_day.txtp"
+    type: betting
+  - id: the_marshes_night
+    title: "The Marshes (Night)"
+    path: "marsh_night.txtp"
+    type: break
+  - id: cherry_meadow
+    title: "Cherry Meadow"
+    path: "meadow_day.txtp"
+    type: betting
+  - id: cherry_meadow_night
+    title: "Cherry Meadow (Night)"
+    path: "meadow_night.txtp"
+    type: break
+  - id: menacing_theme
+    title: "Menacing Theme"
+    path: "menacing_theme.txtp"
+    type: warning
+  - id: jaunty_merchant_theme
+    title: "Jaunty Merchant Theme"
+    path: "merchant_theme_1.txtp"
+    type: result
+  - id: meredith_s_theme
+    title: "Meredith's Theme"
+    path: "meredith_theme_1.txtp"
+    type: betting
+  - id: meredith_s_theme_heartfelt
+    title: "Meredith's Theme (Heartfelt)"
+    path: "meredith_theme_2.txtp"
+    type: break
+  - id: morgante_s_song
+    title: "Morgante's Song"
+    path: "morgante_song.txtp"
+    type: warning
+  - id: pier_of_the_unknown
+    title: "Pier of The Unknown"
+    path: "pier.txtp"
+    type: betting
+  - id: new_wirral_park
+    title: "New Wirral Park"
+    path: "plains_day_main.txtp"
+    type: betting
+  - id: new_wirral
+    title: "New Wirral"
+    path: "plains_day_outskirts.txtp"
+    type: betting
+  - id: new_wirral_park_night
+    title: "New Wirral Park (Night)"
+    path: "plains_night_main.txtp"
+    type: betting
+  - id: new_wirral_night
+    title: "New Wirral (Night)"
+    path: "plains_night_outskirts.txtp"
+    type: break
+  - id: mt_wirral
+    title: "Mt. Wirral"
+    path: "snow_main.txtp"
+    type: betting
+  - id: mt_wirral_summit
+    title: "Mt. Wirral (Summit)"
+    path: "snow_alt.txtp"
+    type: betting
+  - id: cosmic_zone
+    title: "Cosmic Zone"
+    path: "spaceworld.txtp"
+    type: betting
+  - id: the_stations_beneath
+    title: "The Stations Beneath"
+    path: "station_1.txtp"
+    type: break
+  - id: my_house_meredith_s_lost_vinyl
+    title: "My House (Meredith's Lost Vinyl)"
+    path: "the_witch_house.txtp"
+    type: betting
+  - id: title_theme_cassette_beasts
+    title: "Title Theme"
+    path: "title_theme.txtp"
+    type: result
+  - id: victory_theme_cassette_beasts
+    title: "Victory Theme"
+    path: "victory_theme_1.txtp"
+    type: result
+  - id: viola_s_theme
+    title: "Viola's Theme"
+    path: "viola_theme_1.txtp"
+    type: betting
+  - id: viola_s_theme_heartfelt
+    title: "Viola's Theme (Heartfelt)"
+    path: "viola_theme_2.txtp"
+    type: break
+  - id: eastham_woods
+    title: "Eastham Woods"
+    path: "woods_day.txtp"
+    type: betting
+  - id: eastham_woods_night
+    title: "Eastham Woods (Night)"
+    path: "woods_night.txtp"
+    type: break
+...

@@ -1,0 +1,20 @@
+---
+id: finfin_on_teo_the_magic_planet
+title: "FinFin: on TEO the Magic Planet"
+platform: "PC"
+year: 1996
+songs: 
+  - id: finfin_songbook
+    title: "FinFin Songbook"
+    path: "FinFin Songbook.brstm"
+    type: break
+  - id: wonder_teo_finfin
+    title: "Wonder TEO (Finfin)"
+    path: "Wonder TEO (Finfin).brstm"
+    type: result
+  - id: wonder_teo_vocal
+    title: "Wonder TEO (Vocal)"
+    path: "Wonder TEO (Vocal).brstm"
+    ends: 2:48
+    type: betting
+...

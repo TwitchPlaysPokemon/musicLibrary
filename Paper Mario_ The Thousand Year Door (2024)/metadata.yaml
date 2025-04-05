@@ -1,6 +1,6 @@
 ---
 id: paper_mario_the_thousand_year_door_switch
-title: "Paper Mario: The Thousand Year Door"
+title: "Paper Mario: The Thousand Year Door (2024)"
 series: mario
 platform: "Switch"
 year: 2024
@@ -353,5 +353,253 @@ songs:
   - id: staff_credits_ttyd_switch
     title: "Staff Credits"
     path: "BGM_SYS_StaffCredit_opus.txtp"
+    type: betting
+  - id: battle_doopliss_ttyd_switch
+    title: "Battle - Doopliss"
+    path: "BGM_BTL_Boss_S4_opus.txtp"
+    type: battle
+  - id: battle_shadow_queen_full_glory
+    title: "Battle - Shadow Queen (Full Glory)"
+    path: "BGM_BTL_ShadowQueen_B_opus.txtp"
+    type: warning
+  - id: admiral_bobbery
+    title: "Admiral Bobbery"
+    path: "BGM_EVT_Admiral_Bobbery_opus.txtp"
+    type: betting
+  - id: goombella
+    title: "Goombella"
+    path: "BGM_EVT_Christine_A_opus.txtp"
+    type: betting
+  - id: it_s_a_you_mario_ttyd_switch
+    title: "It's-A-You...Mario?"
+    path: "BGM_EVT_Doopliss_Appear_Last_opus.txtp"
+    type: warning
+  - id: a_famous_actress_s_necklace
+    title: "A Famous Actress's Necklace"
+    path: "BGM_EVT_Flurrie_Opera_opus.txtp"
+    type: betting
+  - id: searching_boggly_woods
+    title: "Searching Boggly Woods"
+    path: "BGM_EVT_Forest_S2_Tansaku_opus.txtp"
+    type: betting
+  - id: frankly_and_the_magical_map
+    title: "Frankly and the Magical Map"
+    path: "BGM_EVT_Frankly_C_opus.txtp"
+    type: warning
+  - id: general_white_returns
+    title: "General White Returns"
+    path: "BGM_EVT_GeneralWhite_opus.txtp"
+    type: result
+  - id: the_ghost_in_cabin_four
+    title: "The Ghost in Cabin Four"
+    path: "BGM_EVT_Ghost_S6_opus.txtp"
+    type: warning
+  - id: black_skull_cast_off
+    title: "Black Skull, Cast Off!"
+    path: "BGM_EVT_GhostShip_opus.txtp"
+    type: warning
+  - id: nouveau_riche_goldbob
+    title: "Nouveau-Riche Goldbob"
+    path: "BGM_EVT_GoldMan_opus.txtp"
+    type: betting
+  - id: grodus_s_thanks
+    title: "Grodus's Thanks"
+    path: "BGM_EVT_Grodus_opus.txtp"
+    type: warning
+  - id: grubba_the_glitz_pit_promoter
+    title: "Grubba, the Glitz Pit Promoter"
+    path: "BGM_EVT_Grubba_opus.txtp"
+    type: warning
+  - id: wonky_knows_stuff
+    title: "Wonky Knows Stuff"
+    path: "BGM_EVT_Informant_opus.txtp"
+    type: warning
+  - id: koops
+    title: "Koops"
+    path: "BGM_EVT_Koops_A_opus.txtp"
+    type: betting
+  - id: lumpy_s_quest
+    title: "Lumpy's Quest"
+    path: "BGM_EVT_Lumpy_B_opus.txtp"
+    type: betting
+  - id: a_suspicious_black_chest
+    title: "A Suspicious Black Chest"
+    path: "BGM_EVT_Majin_First_opus.txtp"
+    type: warning
+  - id: flavio_gutsy_seafarer
+    title: "Flavio, Gutsy Seafarer"
+    path: "BGM_EVT_Marco_opus.txtp"
+    type: result
+  - id: grifty_the_travelling_minstrel
+    title: "Grifty the Travelling Minstrel"
+    path: "BGM_EVT_Minstrel_opus.txtp"
+    type: betting
+  - id: meanwhile_princesss_peach
+    title: "Meanwhile, Princess Peach..."
+    path: "BGM_EVT_Peach_opus.txtp"
+    type: betting
+  - id: tec_s_farewell
+    title: "TEC's Farewell"
+    path: "BGM_EVT_Peach_Tec_B_opus.txtp"
+    type: break
+  - id: full_party_of_punies_on_the_move
+    title: "Full Party of Punies on the Move"
+    path: "BGM_EVT_Puni_2_ABCD_opus.txtp"
+    type: betting
+  - id: punies_vs_jabbies
+    title: "Punies vs Jabbies"
+    path: "BGM_EVT_PuniVSToge_opus.txtp"
+    type: warning
+  - id: peace_returns_to_keelhaul_key
+    title: "Peace Returns to Keelhaul Key"
+    path: "BGM_EVT_Reunion_S5_opus.txtp"
+    type: result
+  - id: peace_returns_to_the_glitz_pit
+    title: "Peace Returns to the Glitz Pit"
+    path: "BGM_EVT_Reunion_S3_opus.txtp"
+    type: result
+  - id: maaaaacho_grubba_hoo_wee
+    title: "Maaaaacho Grubba! Hoo-wee!"
+    path: "BGM_EVT_Super_Grubba_opus.txtp"
+    type: warning
+  - id: vivian
+    title: "Vivian"
+    path: "BGM_EVT_Vivian_opus.txtp"
+    type: betting
+  - id: supportive_voices_from_afar
+    title: "Supportive Voices from Afar"
+    path: "BGM_EVT_Voice_opus.txtp"
+    type: result
+  - id: beldam_s_sneaky_scheme
+    title: "Beldam's Sneaky Scheme"
+    path: "BGM_EVT_Witch_First_opus.txtp"
+    type: warning
+  - id: invasion_of_the_x_nauts
+    title: "Invasion of the X-Nauts!"
+    path: "BGM_EVT_XNaut_opus.txtp"
+    type: warning
+  - id: behold_magnus_von_grapple
+    title: "Behold! Magnus von Grapple!"
+    path: "BGM_EVT_Xnaut_Robot_opus.txtp"
+    type: warning
+  - id: yoshi_kid
+    title: "Yoshi Kid"
+    path: "BGM_EVT_Yoshi_Kid_A_opus.txtp"
+    type: betting
+  - id: pianta_parlor_ttyd_switch
+    title: "Pianta Parlor"
+    path: "BGM_FLD_Amusement_S0_opus.txtp"
+    type: betting
+  - id: seven_wonders_of_the_glitz_pit
+    title: "Seven Wonders of the Glitz Pit"
+    path: "BGM_FLD_Arena_S3_Tansaku_opus.txtp"
+    type: break
+  - id: battle_glitz_pit_arena
+    title: "Battle - Glitz Pit Arena"
+    path: "BGM_FLD_Arena_S3_2nd_Dry_opus.txtp"
+    type: betting
+  - id: the_great_tree_ttyd_switch
+    title: "The Great Tree"
+    path: "BGM_FLD_Big_Tree_S2_opus.txtp"
+    type: betting
+  - id: hooktail_castle_part_four
+    title: "Hooktail Castle - Part Four"
+    path: "BGM_FLD_Castle_S1_D_opus.txtp"
+    type: betting
+  - id: the_pirates_cave_ttyd_switch
+    title: "The Pirates' Cave"
+    path: "BGM_FLD_Cave_S5_opus.txtp"
+    type: betting
+  - id: palace_of_shadow_part_1
+    title: "Palace of Shadow - Part 1"
+    path: "BGM_FLD_Dungeon_1_S8_A_opus.txtp"
+    type: betting
+  - id: palace_of_shadow_part_2
+    title: "Palace of Shadow - Part 2"
+    path: "BGM_FLD_Dungeon_1_S8_B_opus.txtp"
+    type: betting
+  - id: x_naut_fortress_sublevel_one
+    title: "X-Naut Fortress - Sublevel One"
+    path: "BGM_FLD_Dungeon_2_S7_AC_opus.txtp"
+    type: betting
+  - id: x_naut_fortress_sublevel_two
+    title: "X-Naut Fortress - Sublevel Two"
+    path: "BGM_FLD_Dungeon_2_S7_AD_opus.txtp"
+    type: betting
+  - id: x_naut_fortress_sublevel_three
+    title: "X-Naut Fortress - Sublevel Three"
+    path: "BGM_FLD_Dungeon_2_S7_AE_opus.txtp"
+    type: betting
+  - id: x_naut_fortress_sublevel_four
+    title: "X-Naut Fortress - Sublevel Four"
+    path: "BGM_FLD_Dungeon_2_S7_AF_opus.txtp"
+    type: betting
+  - id: palace_of_shadow_courtyard_tower
+    title: "Palace of Shadow - Courtyard Tower"
+    path: "BGM_FLD_Dungeon_2_S8_opus.txtp"
+    type: betting
+  - id: palace_of_shadow_depths
+    title: "Palace of Shadow - Depths"
+    path: "BGM_FLD_Dungeon_3_S8_A_opus.txtp"
+    type: betting
+  - id: palace_of_shadow_grand_staircase
+    title: "Palace of Shadow - Grand Staircase"
+    path: "BGM_FLD_Dungeon_4_S8_A_opus.txtp"
+    type: betting
+  - id: palace_of_shadow_path_to_the_throne
+    title: "Palace of Shadow - Path to the Throne"
+    path: "BGM_FLD_Dungeon_5_S8_A_opus.txtp"
+    type: betting
+  - id: boggly_woods_switch
+    title: "Boggly Woods"
+    path: "BGM_FLD_Forest_S2_opus.txtp"
+    type: betting
+  - id: royal_poshley_park_tower
+    title: "Royal Poshley Park Tower"
+    path: "BGM_FLD_Hill_S6_B_Dry_opus.txtp"
+    type: betting
+  - id: keelhaul_key_switch
+    title: "Keelhaul Key"
+    path: "BGM_FLD_Island_S5_AB_opus.txtp"
+    type: betting
+  - id: twilight_trail_switch
+    title: "Twilight Trail"
+    path: "BGM_FLD_Plain_S4_opus.txtp"
+    type: betting
+  - id: riverside_station_premises
+    title: "Riverside Station Premises"
+    path: "BGM_FLD_Station_Inside_S6_E_opus.txtp"
+    type: betting
+  - id: creepy_steeple_switch
+    title: "Creepy Steeple"
+    path: "BGM_FLD_Temple_S4_opus.txtp"
+    type: break
+  - id: rogueport_harbor_switch
+    title: "Rogueport Harbor"
+    path: "BGM_FLD_Town_Harbor_S0_opus.txtp"
+    type: betting
+  - id: rogueport_shops
+    title: "Rogueport Shops"
+    path: "BGM_FLD_Town_S0_D_opus.txtp"
+    type: betting
+  - id: rogueport_podley_s_place
+    title: "Rogueport - Podley's Place"
+    path: "BGM_FLD_Town_S0_C_opus.txtp"
+    type: betting
+  - id: twilight_town_switch
+    title: "Twilight Town"
+    path: "BGM_FLD_Town_S4_opus.txtp"
+    type: betting
+  - id: excess_express_evening_switch
+    title: "Excess Express (Evening)"
+    path: "BGM_FLD_Train_Evening_S6_Dry_opus.txtp"
+    type: break
+  - id: excess_express_night_switch
+    title: "Excess Express (Night)"
+    path: "BGM_FLD_Train_Night_S6_Dry_opus.txtp"
+    type: betting
+  - id: excess_express_day_switch
+    title: "Excess Express (Day)"
+    path: "BGM_FLD_Train_Noon_S6_Dry_opus.txtp"
     type: betting
 ...

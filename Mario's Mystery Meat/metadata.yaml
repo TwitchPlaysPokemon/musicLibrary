@@ -1,0 +1,79 @@
+﻿---
+id: mario_s_mystery_meat
+title: "Mario's Mystery Meat"
+series: mario
+is_fanwork: true
+platform: "SNES"
+year: 2020
+#it's another meme romhack, yes. But this time I'm being sensible. 
+#Only a few songs, mostly the original ones or some covers. Or if it's funny
+songs:
+  - id: dear_you
+    title: "Dear You"
+    path: "2. Dear You.spc"
+    type: warning
+  - id: tail_cave
+    title: "Tail Cave"
+    path: "6. Legend of Zelda Links Awakening - Tail Cave.spc"
+    type: betting
+  - id: jesus_bleibet_meine_freude
+    title: "Jesus Bleibet Meine Freude"
+    path: "9. Jesus Bleibet Meine Freude - Bach.spc"
+    type: break
+  - id: megalovania_mmm
+    title: "Megalovania"
+    path: "12. Undertale - Megalovania.spc"
+    type: battle
+  - id: the_opposite_of_funny
+    title: "The Opposite of Funny"
+    path: "11C.spc"
+    type: betting
+  - id: title_t
+    title: "Title T"
+    path: "11D.spc"
+    type: warning
+  - id: b_r_u_h
+    title: "B R U H"
+    path: "11CBT.spc"
+    type: warning
+  - id: swimming_sausage_mix
+    title: "Swimming (Sausage Mix)"
+    path: "15. Super Mario Bros 3 - Swimming (sausage mix).spc"
+    type: warning
+  - id: worst_mmm
+    title: "Worst"
+    path: "16. vldc7 - Worst.spc"
+    type: warning
+  - id: a_blueish_green_town
+    title: "A Blueish-Green Town"
+    path: "17. Pokemon HGSS - Viridian City.spc"
+    type: break
+  - id: like_a_record
+    title: "Like a Record"
+    path: "17.3. Dead or Alive - They Spin Me Round (refrain).spc"
+    type: warning
+  - id: nokia
+    title: "nokia"
+    path: "17.4. nokia ringtone.spc"
+    type: warning
+  - id: final_castle_mmm
+    title: "Final Castle"
+    path: "21. Final Castle.spc"
+    type: betting
+  - id: abstract_mmm
+    title: "Abstract"
+    path: "23. vldc 9 - Abstract Map.spc"
+    type: betting
+  - id: cursed_cathedral
+    title: "Cursed Cathedral"
+    path: "26. Cursed Cathedral.spc"
+    type: betting
+  - id: despacito
+    title: "Despacito"
+    path: "28. Despacito.spc"
+    type: warning
+  - id: steppin_out
+    title: "Steppin' Out"
+    path: "32. Joe Jackson - Steppin Out.spc"
+    type: betting
+...

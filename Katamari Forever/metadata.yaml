@@ -1,0 +1,47 @@
+---
+id: katamari_forever
+title: "Katamari Forever"
+series: katamari
+year: 2009
+platform: "PS3"
+songs:
+  - id: katamari_on_the_wings
+    title: "Katamari on the Wings"
+    path: "Katamari on the Wings.brstm"
+    ends: 4:20
+    type: betting
+  - id: a_crimson_rose_and_a_gin_tonic_ymck_8bit_remix
+    title: "A Crimson Rose and a Gin Tonic (YMCK 8bit Remix)"
+    path: "A Crimson Rose and a Gin Tonic (YMCK 8bit Remix).brstm"
+    ends: 4:11
+    type: betting
+  - id: katamari_on_the_swing_sexy_synthesizer_all_about_namco_mix
+    title: "Katamari on the Swing (SEXY-SYNTHESIZER ALL ABOUT namco Mix)"
+    path: "Katamari on the Swing (SEXY-SYNTHESIZER ALL ABOUT namco Mix).brstm"
+    ends: 4:03
+    type: betting
+  - id: everlasting_love_you
+    title: "Everlasting Love + You"
+    path: "BGM_00074.at3"
+    ends: 4:38
+    type: betting
+  - id: lonely_rolling_no_more
+    title: "Lonely Rolling No More"
+    path: "BGM_00097.at3"
+    ends: 4:15
+    type: betting
+  - id: cherry_blossom_color_season_fanfare_mix
+    title: "Cherry Blossom Color Season (fanfare mix)"
+    path: "BGM_00092.at3"
+    ends: 4:22
+    type: betting
+  - id: sayonara_rolling_star_yuri_s_mixx
+    title: "Sayonara Rolling Star (Yuri's Mixx)"
+    path: "BGM_00095.at3"
+    ends: 4:18
+    type: betting
+  - id: collection_katamari_forever
+    title: "Collection"
+    path: "BGM_00010.at3"
+    type: break
+...

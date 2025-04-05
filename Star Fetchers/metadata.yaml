@@ -1,0 +1,28 @@
+---
+id: star_fetchers
+title: "Star Fetchers"
+year: 2020
+platform: "PC"
+songs:
+  - id: cadaver_synod
+    title: "Cadaver Synod"
+    path: "Constrobuz - Cadaver Synod.mp3"
+    type: betting
+  - id: rain_and_dust
+    title: "Rain and Dust"
+    path: "Constrobuz - Rain and Dust.mp3"
+    type: betting
+  - id: what_if_we
+    title: "What if We"
+    path: "Constrobuz - What if We.mp3"
+    type: warning
+  - id: i_think_so
+    title: "I Think So"
+    path: "Constrobuz - I Think So.mp3"
+    ends: 2:02
+    type: betting
+  - id: uuuu_what_is_this
+    title: "UuuU Wat is This"
+    path: "LK - UuuU Wat is This.mp3"
+    type: warning
+...

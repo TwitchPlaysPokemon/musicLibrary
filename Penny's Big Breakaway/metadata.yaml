@@ -1,0 +1,187 @@
+---
+id: penny_s_big_breakaway
+title: "Penny's Big Breakway"
+platform: "Various"
+year: 2024
+songs: 
+  - id: bauhaus_breakdown_main_menu
+    title: "Bauhaus Breakdown... Main Menu"
+    path: "MainMenu.logg"
+    type: betting
+  - id: elevation_elation_for_vanillatown_prologue
+    title: "Elevation Elation...  for VanillaTown Prologue"
+    path: "VanillaTownPrologue.logg"
+    type: break
+  - id: jig_s_up_penny_vanilla_town
+    title: "Jig's Up, Penny... Vanilla Town"
+    path: "VanillaTown.logg"
+    type: betting
+  - id: jig_s_up_penny_pinch_vanilla_town
+    title: "Jig's Up, Penny (Pinch)... Vanilla Town"
+    path: "VanillaTown_Pinch.logg"
+    type: warning
+  - id: gig_s_on_penny_for_vanillatown_redux
+    title: "Gig's On, Penny... for Vanillatown Redux"
+    path: "VanillaTownRedux.logg"
+    type: betting
+  - id: gig_s_on_penny_pinch_for_vanillatown_redux
+    title: "Gig's On, Penny (Pinch)... for Vanillatown Redux"
+    path: "VanillaTownRedux_Pinch.logg"
+    type: warning
+  - id: refracting_feelings_for_tideswell
+    title: "Refracting Feelings... for Tideswell"
+    path: "Coast.logg"
+    type: break
+  - id: refracting_feelings_pinch_for_tideswell
+    title: "Refracting Feelings (Pinch)... for Tideswell"
+    path: "Coast_Pinch.logg"
+    type: betting
+  - id: palling_around_for_cute_cutscene
+    title: "Palling Around... for Cute Cutscene"
+    path: "CutsceneCute.logg"
+    type: betting
+  - id: strongman_for_eddie_theme
+    title: "Strongman... for Eddie Theme"
+    path: "CutsceneEddie.logg"
+    type: betting
+  - id: sleep_no_throwdown_for_encounter_theme
+    title: "Sleep? No, Throwdown!... for Encounter Theme"
+    path: "CutsceneEncounter.logg"
+    type: warning
+  - id: call_me_the_yotagonist
+    title: "Call me the Yotagonist"
+    path: "CutsceneOverture.logg"
+    type: result
+  - id: by_the_book_for_rufus_theme
+    title: "By the Book... for Rufus Theme"
+    path: "CutsceneRufus.logg"
+    type: warning
+  - id: puppet_pioneer_for_taboo_theme
+    title: "Puppet Pioneer... for Taboo Theme"
+    path: "CutsceneTaboo.logg"
+    type: betting
+  - id: stage_clear_pbb
+    title: "Stage Clear"
+    path: "StageClear.logg"
+    type: result
+  - id: outside_the_eidophusikon_world_s_edge
+    title: "Outside the Eidophusikon... World's Edge"
+    path: "WorldsEdge.logg"
+    type: betting
+  - id: land_ho_diabolo_for_shiela_boss
+    title: "Land-ho Diabolo! ... for Sheila Boss"
+    path: "Shiela.logg"
+    type: battle
+  - id: scales_of_justice_for_rufus_boss
+    title: "Scales of Justice... for Rufus Boss"
+    path: "RufusBoss.logg"
+    type: battle
+  - id: penny_in_a_pinch_for_pursuit_theme
+    title: "Penny in a Pinch... for Pursuit Theme"
+    path: "Pursuit.logg"
+    type: warning
+  - id: hello_macaroon_for_backstage
+    title: "Hello Macaroon... For Backstage"
+    path: "Backstage.logg"
+    type: result
+  - id: palace_sneaktime_swing_for_edditorium
+    title: "Palace Sneaktime Swing... for Edditorium"
+    path: "Palace.logg"
+    type: betting
+  - id: palace_sneaktime_swing_pinch_for_edditorium
+    title: "Palace Sneaktime Swing (Pinch)... for Edditorium"
+    path: "Palace_Pinch.logg"
+    type: warning
+  - id: balearic_birds_for_pengoville
+    title: "Balearic Birds... For Pengoville"
+    path: "Penguinville.logg"
+    type: betting
+  - id: balearic_birds_pinch_for_pengoville
+    title: "Balearic Birds (Pinch)... For Pengoville"
+    path: "Penguinville_Pinch.logg"
+    type: battle
+  - id: chromatic_oscillations_for_industria
+    title: "Chromatic Oscillations... for Industria"
+    path: "Factory.logg"
+    type: betting
+  - id: chromatic_oscillations_pinch_for_industria
+    title: "Chromatic Oscillations (Pinch)... for Industria"
+    path: "Factory_Pinch.logg"
+    type: warning
+  - id: sudzsy_swings_at_the_natural_springs_for_bubblin
+    title: "Sudzsy Swings at the Natural Springs...  for Bubblin"
+    path: "Bathhouse.logg"
+    type: betting
+  - id: sudzsy_swings_at_the_natural_springs_pinch_for_bubblin
+    title: "Sudzsy Swings at the Natural Springs (Pinch)...  for Bubblin"
+    path: "Bathhouse_Pinch.logg"
+    type: battle
+  - id: maxims_and_misfits_for_courthouse
+    title: "Maxims and Misfits... For Courthouse"
+    path: "Courthouse.logg"
+    type: betting
+  - id: maxims_and_misfits_pinch_for_courthouse
+    title: "Maxims and Misfits (Pinch)... For Courthouse"
+    path: "Courthouse_Pinch.logg"
+    type: battle
+  - id: sparks_of_the_cobalt_sands_for_zaphara
+    title: "Sparks of the Cobalt Sands... for Zaphara"
+    path: "Desert.logg"
+    type: betting
+  - id: sparks_of_the_cobalt_sands_pinch_for_zaphara
+    title: "Sparks of the Cobalt Sands (Pinch)... for Zaphara"
+    path: "Desert_Pinch.logg"
+    type: battle
+  - id: tutto_finisce_a_tarallucci_e_vinot_for_moltobene
+    title: "Tutto Finisce a Tarallucci e Vinot... for Moltobene"
+    path: "LavaRestaurant.logg"
+    type: betting
+  - id: tutto_finisce_a_tarallucci_e_vinot_pinch_for_moltobene
+    title: "Tutto Finisce a Tarallucci e Vinot (Pinch)... for Moltobene"
+    path: "LavaRestaurant_Pinch.logg"
+    type: warning
+  - id: scientific_method_for_mr_q_boss
+    title: "Scientific Method...  for Mr Q Boss"
+    path: "Mr_Q.logg"
+    type: battle
+  - id: mano_e_yo_yo_for_eddie_the_emperor_boss
+    title: "Mano-e-Yo-Yo...  for Eddie the Emperor Boss"
+    path: "EddieBoss.logg"
+    type: battle
+  - id: it_s_a_biguin_now_for_giant_penguin_boss
+    title: "It's a Biguin Now!...  for Giant Penguin Boss"
+    path: "GiantPengBoss.logg"
+    type: battle
+  - id: bop_it_comet_for_starglobe
+    title: "Bop-it Comet... for Starglobe"
+    path: "SnowGlobe1.logg"
+    type: betting
+  - id: wax_lyricool_for_starglobe
+    title: "Wax Lyricool... for Starglobe"
+    path: "SnowGlobe2.logg"
+    type: betting
+  - id: don_t_trick_the_sun_for_starglobe
+    title: "Don't Trick the Sun... for Starglobe"
+    path: "SnowGlobe3.logg"
+    type: betting
+  - id: stargazer_for_starglobe
+    title: "Stargazer... for Starglobe"
+    path: "SnowGlobe4.logg"
+    type: break
+  - id: proxima_for_starglobe
+    title: "Proxima... for Starglobe"
+    path: "SnowGlobe5.logg"
+    type: warning
+  - id: triadic_ballet_final_boss
+    title: "Triadic Ballet... Final Boss"
+    path: "FinalAct.logg"
+    type: battle
+  - id: cosmic_curtain_call_for_ending_cutscene
+    title: "Cosmic Curtain Call...  for Ending Cutscene"
+    path: "EndingCutscene.logg"
+    type: result
+  - id: wind_it_up_yo_for_ending_credits
+    title: "Wind it Up Yo... for Ending Credits"
+    path: "Credits.logg"
+    type: betting
+...

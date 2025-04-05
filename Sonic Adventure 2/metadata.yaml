@@ -257,4 +257,24 @@ songs:
     title: "Dive into the Mellow ...for Aquatic Mine"
     path: "A_MINE.ADX"
     type: betting
+  - id: event_the_base
+    title: "Event: The Base"
+    path: "E006_SNG.ADX"
+    type: break
+  - id: event_sonic_vs_shadow
+    title: "Event: Sonic vs. Shadow"
+    path: "E027_SNG.ADX"
+    type: warning
+  - id: event_reunion
+    title: "Event: Reunion"
+    path: "E028_SNG.ADX"
+    type: result
+  - id: event_madness
+    title: "Event: Madness"
+    path: "E205_SNG.ADX"
+    type: warning
+  - id: event_the_last_scene
+    title: "Event: The Last Scene"
+    path: "E210_SN2.ADX"
+    type: break
 ...

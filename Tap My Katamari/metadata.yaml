@@ -1,0 +1,28 @@
+---
+id: tap_my_katamari
+title: "Tap My Katamari"
+series: katamari
+year: 2016
+platform: "Mobile"
+#I think these are looped correctly?
+songs:
+  - id: tap_my_katamari
+    title: "Tap My Katamari"
+    path: "Andrew Aversa - Tap My Katamari.brstm"
+    ends: 3:00
+    type: betting
+  - id: lonely_rolling_star_tap
+    title: "Lonely Rolling Star"
+    path: "Andrew Aversa ft. Jillian Aversa - Lonely Rolling Star.brstm"
+    ends: 3:00
+    type: betting
+  - id: katamari_on_the_swing_tap
+    title: "Katamari on the Swing"
+    path: "Jeremy Lim ft. Katelyn Isaacson - Katamari on the Swing.brstm"
+    ends: 3:00
+    type: betting
+  - id: katamari_on_the_jazz_tap
+    title: "Katamari on the Jazz"
+    path: "Kyle Landry - Katamari on the Jazz.brstm"
+    type: break
+...

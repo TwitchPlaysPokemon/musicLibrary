@@ -5,8 +5,88 @@ series: mario
 platform: "NDS"
 year: 2004
 songs: 
+  - id: rec_room
+    title: "Rec Room"
+    path: "01 BGM #01 [NCS_BGM_PLAYROOM].mini2sf"
+    type: result
+  - id: mix_a_mug
+    title: "Mix-a-Mug"
+    path: "03 BGM #03 [NCS_BGM_JAZZ].mini2sf"
+    type: betting
+  - id: casino_sm64ds
+    title: "Casino"
+    path: "04 BGM #04 [NCS_BGM_CASINO].mini2sf"
+    type: break
+  - id: bingo_ball
+    title: "Bingo Ball"
+    path: "05 BGM #05 [NCS_BGM_MINIMERRY].mini2sf"
+    type: warning
+  - id: sort_or_splode
+    title: "Sort or 'Splode"
+    path: "06 BGM #06 [NCS_BGM_BOMB].mini2sf"
+    type: warning
+  - id: wanted_sm64ds
+    title: "Wanted!"
+    path: "08 BGM #08 [NCS_BGM_CASINOM3].mini2sf"
+    type: warning
+  - id: coincentration
+    title: "Coincentration"
+    path: "09 BGM #09 [NCS_BGM_MINICOIN].mini2sf"
+    type: warning
+  - id: bounce_and_pounce
+    title: "Bounce and Pounce"
+    path: "10 BGM #10 [NCS_BGM_MINIMUTEKI].mini2sf"
+    type: warning
+  - id: loves_me
+    title: "Loves Me...?"
+    path: "13 BGM #13 [NCS_BGM_MINIHANA].mini2sf"
+    type: break
+  - id: psyche_out
+    title: "Psyche Out"
+    path: "14 BGM #14 [NCS_BGM_ESP].mini2sf"
+    type: break
+  - id: rabbit
+    title: "Rabbit"
+    path: "16 BGM #16 [NCS_BGM_USAGI_0].mini2sf"
+    type: result
+  - id: boss_intro_sm64ds
+    title: "Boss Intro"
+    path: "18 BGM #18 [NCS_BGM_BOSSINTRO].mini2sf"
+    type: warning
   - id: stage_boss
     title: "Stage Boss"
     path: "19 BGM #19 [NCS_BGM_BOSS].mini2sf"
     type: warning
+  - id: owl
+    title: "Owl"
+    path: "21 BGM #21 [NCS_BGM_OWLFLY].mini2sf"
+    type: result
+  - id: balloon_mario
+    title: "Balloon Mario"
+    path: "22 BGM #22 [NCS_BGM_BALLOON].mini2sf"
+    type: warning
+  - id: super_mushroom_sm64ds
+    title: "Super Mushroom"
+    path: "23 BGM #23 [NCS_BGM_BIG].mini2sf"
+    type: warning
+  - id: fire_yoshi
+    title: "Fire Yoshi"
+    path: "24 BGM #24 [NCS_BGM_FIRE].mini2sf"
+    type: warning
+  - id: dire_dire_docks_sm64ds
+    title: "Dire, Dire Docks"
+    path: "33 BGM #33 [NCS_BGM_WATER].mini2sf"
+    type: betting
+  - id: ultimate_koopa_sm64ds
+    title: "Ultimate Koopa"
+    path: "41 BGM #41 [NCS_BGM_KUPPA3].mini2sf"
+    type: battle
+  - id: sunshine_isles
+    title: "Sunshine Isles"
+    path: "42 BGM #42 [NCS_BGM_DOLPIC].mini2sf"
+    type: betting
+  - id: trampoline_time
+    title: "Trampoline Time"
+    path: "43 BGM #43 [NCS_BGM_VOCAL].mini2sf"
+    type: betting
 ...

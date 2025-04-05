@@ -1,0 +1,36 @@
+---
+id: sonic_unleashed_mobile
+title: "Sonic Unleashed (Mobile)"
+series: sonic
+platform: "Mobile"
+year: 2008
+songs: 
+  - id: title_screen_sum
+    title: "Title Screen"
+    path: "3_-0000000001.txtp"
+    type: result
+  - id: chun_nan_sum
+    title: "Chun-Nan"
+    path: "3_-0000000008.txtp"
+    type: warning
+  - id: night_stage_sum
+    title: "Night Stage"
+    path: "3_-0000000009.txtp"
+    type: warning
+  - id: apotos_sum
+    title: "Apotos"
+    path: "3_-0000000007.txtp"
+    type: warning
+  - id: boss_battle_sum
+    title: "Boss Battle"
+    path: "3_-0000000005.txtp"
+    type: warning
+  - id: mazuri_sum
+    title: "Mazuri"
+    path: "3_-0000000006.txtp"
+    type: warning
+  - id: final_boss_sum
+    title: "Final Boss"
+    path: "3_-0000000010.txtp"
+    type: warning
+...

@@ -1,0 +1,70 @@
+id: wizorb
+title: "Wizorb"
+platform: "Various"
+year: 2011
+songs:
+  - id: attract_mode_wizorb
+    title: "Attract Mode"
+    path: "music - Attract Mode.txtp"
+    type: break
+  - id: title_wizorb
+    title: "Title"
+    path: "music - Title.txtp"
+    type: result
+  - id: world_map_wizorb
+    title: "World Map"
+    path: "music - World Map.txtp"
+    type: break
+  - id: village_wizorb
+    title: "Village"
+    path: "music - Village.txtp"
+    type: break
+  - id: shop_wizorb
+    title: "Shop"
+    path: "music - Shop.txtp"
+    type: betting
+  - id: clover_village
+    title: "Clover Village"
+    path: "music - Clover Village.txtp"
+    type: warning
+  - id: forest_wizorb
+    title: "Forest"
+    path: "music - Forest.txtp"
+    type: betting
+  - id: mines_wizorb
+    title: "Mines"
+    path: "music - Mines.txtp"
+    type: warning
+  - id: netherworld_wizorb
+    title: "Netherworld"
+    path: "music - Netherworld.txtp"
+    type: warning
+  - id: castle_wizorb
+    title: "Castle"
+    path: "music - Castle.txtp"
+    type: betting
+  - id: bonus_wizorb
+    title: "Bonus"
+    path: "music - Bonus.txtp"
+    type: result
+  - id: boss_wizorb
+    title: "Boss"
+    path: "music - Boss.txtp"
+    type: warning
+  - id: evil_ending
+    title: "Evil Ending"
+    path: "music - Evil Ending.txtp"
+    type: warning
+  - id: end_credits_wizorb
+    title: "End Credits"
+    path: "music - End Credits.txtp"
+    type: result
+  - id: end_images_wizorb
+    title: "End Images"
+    path: "music - End Images.txtp"
+    type: result
+  - id: game_over_wizorb
+    title: "Game Over"
+    path: "music - Game Over.txtp"
+    type: result
+...
