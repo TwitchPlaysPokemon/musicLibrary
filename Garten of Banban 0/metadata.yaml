@@ -1,0 +1,19 @@
+---
+id: garten_of_banban_0
+title: "Garten of Banban 0"
+platform: "PC", "Mobile"
+year: 2025
+songs: 
+  - id: amnesia_gobb0
+    title: "Amnesia"
+    path: "Amnesia.brstm"
+    type: betting
+  - id: control_it_gobb0
+    title: "Control It"
+    path: "Control It.brstm"
+    type: battle
+  - id: toxic_monitoring
+    title: "Toxic Monitoring"
+    path: "Toxic Monitoring.brstm"
+    type: warning
+...

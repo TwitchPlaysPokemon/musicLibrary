@@ -1,0 +1,21 @@
+---
+id: super_yoshi_no_tamago
+title: "Super Yoshi no Tamago"
+series: mario, pokemon
+platform: ["SNES", "DS"]
+year: UNRELEASED
+#unreleased Game Freak game, found in Pokemon Black's source code
+songs: 
+  - id: mori
+    title: "Mori"
+    path: "SuperYoshi_SEQ_MORI.brstm"
+    type: betting
+  - id: umi
+    title: "Umi"
+    path: "SuperYoshi_SEQ_UMI.brstm"
+    type: betting
+  - id: umi_unused
+    title: "Umi (Unused)"
+    path: "SuperYoshi_SEQ_UMI_Unused.brstm"
+    type: break
+...

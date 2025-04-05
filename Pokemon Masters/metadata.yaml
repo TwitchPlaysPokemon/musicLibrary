@@ -145,6 +145,18 @@ songs:
     title: "The Ideal Formula"
     path: "bgm_field_route10.logg"
     type: betting
+  - id: trainer_gyms
+    title: "Trainer Gyms"
+    path: "bgm_field_gym.logg"
+    type: betting
+  - id: pasio_academy
+    title: "Pasio Academy"
+    path: "bgm_field_academy.logg"
+    type: betting
+  - id: pasio_academy_results
+    title: "Pasio Academy - Results"
+    path: "bgm_field_academy_result.logg"
+    type: results
   - id: type_battle_event
     title: "Type Battle Event"
     path: "bgm_field_typebattle.logg"
@@ -297,6 +309,10 @@ songs:
     title: "Jigglypuff's Song (Rock Ver.)"
     path: "bgm_field_purin_rock.logg"
     type: result
+  - id: jigglypuff_s_lullaby_masters
+    title: "Jigglypuff's Lullaby"
+    path: "bgm_field_purin_lullaby.logg"
+    type: break
   - id: nightmare_old_chateau
     title: "Nightmare - Old Chateau"
     path: "bgm_event_nightmare.logg"
@@ -593,6 +609,14 @@ songs:
     title: "Battle! (Hoenn Frontier Brain)"
     path: "bgm_battle_fb_h.logg"
     type: battle
+  - id: battle_neo_hoenn_champion_brendan
+    title: "Battle! (Neo Hoenn Champion - Brendan)"
+    path: "bgm_battle_neochamp_hoenn_yuki.logg"
+    type: battle
+  - id: battle_neo_hoenn_champion_may
+    title: "Battle! (Neo Hoenn Champion - May)"
+    path: "bgm_battle_neochamp_hoenn_haruka.logg"
+    type: battle
 
     #Sinnoh - all songs from D/P/Pl/BD/SP in approx. order
   - id: battle_wild_pokemon_sinnoh_masters
@@ -736,6 +760,10 @@ songs:
   - id: decisive_battle_n_masters
     title: "Decisive Battle! (N)"
     path: "bgm_battle_n_02.logg"
+    type: battle
+  - id: glorious_battle_n
+    title: "Glorious Battle! (N)"
+    path: "bgm_battle_n_ax.logg"
     type: battle
   - id: battle_ghetsis_masters
     title: "Battle! (Ghetsis)"
@@ -1069,6 +1097,10 @@ songs:
     title: "Battle! (Arven)"
     path: "bgm_battle_pepper.logg"
     type: battle
+  - id: battle_paldea_trainer_masters
+    title: "Battle! (Paldea Trainer)"
+    path: "bgm_battle_trainer_p.logg"
+    type: battle
   - id: battle_paldea_gym_leader_masters
     title: "Battle! (Paldea Gym Leader)"
     path: "bgm_battle_gl_p.logg"
@@ -1093,6 +1125,10 @@ songs:
     title: "Battle! (Team Star Boss: Atticus)"
     path: "bgm_battle_star_shuumei.logg"
     type: battle
+  - id: battle_team_star_boss_ortega
+    title: "Battle! (Team Star Boss: Ortega)"
+    path: "bgm_battle_star_ortiga.logg"
+    type: battle
   - id: battle_penny
     title: "Battle! (Penny)"
     path: "bgm_battle_button.logg"
@@ -1116,6 +1152,10 @@ songs:
   - id: battle_geeta
     title: "Battle! (Geeta)"
     path: "bgm_battle_omodaka.logg"
+    type: battle
+  - id: battle_blueberry_elite_four_lacey
+    title: "Battle! (Blueberry Elite Four: Lacey)"
+    path: "bgm_battle_big4_b_taro.logg"
     type: battle
 
     #Pasio - any Masters-exclusive tracks or stuff I couldn't really put anywhere else

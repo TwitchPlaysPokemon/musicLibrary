@@ -1,0 +1,63 @@
+id: the_flintstones_burgertime_in_bedrock
+title: "The Flintstones: Burgertime in Bedrock"
+year: 2000
+series: flintstones
+platform: "GBC"
+songs:
+  - id: opening_fbib
+    title: "Opening"
+    path: "Opening (Meet the Flintstones).vgz"
+    type: result
+  - id: title_fbib
+    title: "Title"
+    path: "Title.vgz"
+    type: warning
+  - id: password_fbib
+    title: "Password"
+    path: "Password.vgz"
+    type: warning
+  - id: options_fbib
+    title: "Options"
+    path: "Options.vgz"
+    type: result
+  - id: high_scores_fbib
+    title: "High Scores"
+    path: "High Scores.vgz"
+    type: result
+  - id: 1_1_fbib
+    title: "1.1"
+    path: "1.1.vgz"
+    type: warning
+  - id: 1_2_fbib
+    title: "1.2"
+    path: "1.2.vgz"
+    type: warning
+  - id: 2_3_fbib
+    title: "2.3"
+    path: "2.3.vgz"
+    type: betting
+  - id: 3_1_fbib
+    title: "3.1"
+    path: "3.1.vgz"
+    type: result
+  - id: 4_1_fbib
+    title: "4.1"
+    path: "4.1.vgz"
+    type: warning
+  - id: 4_2_fbib
+    title: "4.2"
+    path: "4.2.vgz"
+    type: betting
+  - id: 6_4_fbib
+    title: "6.4"
+    path: "6.4.vgz"
+    type: warning
+  - id: unknown_song_1_fbib
+    title: "Unknown Song 1"
+    path: "Unknown Song 1.vgz"
+    type: result
+  - id: unknown_song_2_fbib
+    title: "Unknown Song 2"
+    path: "Unknown Song 2.vgz"
+    type: result
+...

@@ -1,0 +1,63 @@
+---
+id: touch_my_katamari
+title: "Touch My Katamari"
+series: katamari
+year: 2011
+platform: "Vita"
+songs:
+  - id: alien_feat_bakubaku_dokin
+    title: "Alien (feat. BAKUBAKU DOKIN)"
+    path: "Alien (feat. BAKUBAKU DOKIN).brstm"
+    ends: 4:02
+    type: betting
+  - id: shabadoobie_takeshi_nakatsuka_edit
+    title: "Shabadoobie (Takeshi Nakatsuka edit)"
+    path: "Shabadoobie (Takeshi Nakatsuka edit).brstm"
+    ends: 3:55
+    type: betting
+  - id: lonely_rolling_star_re_arranged_by_masahiko_osaka
+    title: "Lonely Rolling Star (Re-Arranged by Masahiko Osaka)"
+    path: "mission_bgm_M02.at9"
+    type: betting
+  - id: katamari_exotica
+    title: "Katamari Exotica"
+    path: "mission_bgm_M04.at9"
+    type: break
+  - id: hello_world
+    title: "Hello World"
+    path: "mission_bgm_M07.at9"
+    ends: 4:10
+    type: betting
+  - id: across_the_katamari_feat_kazuhiro_momo_from_mo_some_tonebender
+    title: "Across the Katamari (feat. Kazuhiro Momo from MO'SOME TONEBENDER)"
+    path: "BGM_M_ENDING.at9"
+    ends: 4:20
+    type: betting
+  - id: king_of_the_dance_floor
+    title: "King Of The Dance Floor"
+    path: "BGM_M_MENU.at9"
+    type: betting
+  - id: katamari_on_namco
+    title: "Katamari On Namco"
+    path: "mission_bgm_D01.at9"
+    type: betting
+  - id: acid_eutron_007_baraduke_remix
+    title: "ACID EUTRON #007 - Baraduke Remix"
+    path: "mission_bgm_D02.at9"
+    type: betting
+  - id: katamari_on_the_rocks_re_arranged_by_masahiko_osaka
+    title: "Katamari on the Rocks (Re-Arranged by Masahiko Osaka)"
+    path: "mission_bgm_D04.at9"
+    ends: 3:33
+    type: betting
+  - id: katamari_on_the_funk_takeshi_nakatsuka_edit
+    title: "Katamari on the Funk (Takeshi Nakatsuka edit)"
+    path: "mission_bgm_D07.at9"
+    ends: 3:35
+    type: betting
+  - id: katamari_of_love_sexy_synthesizer_remix
+    title: "Katamari of Love (SEXY-SYNTHESIZER Remix)"
+    path: "mission_bgm_S04.at9"
+    ends: 4:13
+    type: betting
+...

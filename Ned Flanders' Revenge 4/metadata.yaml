@@ -1,0 +1,37 @@
+---
+id: ned_flanders_revenge_4
+title: "Ned Flanders' Revenge 4"
+platform: "PC"
+year: 2025
+is_fanwork: true
+songs: 
+  - id: main_menu_nfr4
+    title: "Main Menu"
+    path: "01. Main Menu.mp3"
+    type: break
+  - id: shopping_mall_nfr4
+    title: "Shopping Mall"
+    path: "03. Shopping Mall.mp3"
+    type: betting
+  - id: camp_deadly
+    title: "Camp Deadly"
+    path: "04. Camp Deadly.mp3"
+    type: betting
+  - id: north_pole_nfr4
+    title: "North Pole"
+    path: "05. North Pole.mp3"
+    type: break
+  - id: limbo_zone
+    title: "Limbo Zone"
+    path: "06. Limbo Zone.mp3"
+    type: betting
+  - id: freeplay_nfr4
+    title: "Freeplay"
+    path: "08. Freeplay.mp3"
+    ends: 2:24
+    type: betting
+  - id: legitimate_business
+    title: "Legitimate Business"
+    path: "10. Legitimate Business.mp3"
+    type: warning
+...

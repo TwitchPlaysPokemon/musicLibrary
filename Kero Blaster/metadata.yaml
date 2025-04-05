@@ -1,0 +1,11 @@
+---
+id: kero_blaster
+title: "Kero Blaster"
+year: 2014
+platform: ["PC", "Mobile"]
+songs:
+  - id: zombeat
+    title: "Zombeat"
+    path: "Zombeat.brstm"
+    type: warning
+...

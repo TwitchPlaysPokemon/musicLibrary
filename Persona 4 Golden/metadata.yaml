@@ -5,12 +5,36 @@ series: shinmegamitensei
 platform: "Vita"
 year: 2012
 songs:
+  - id: everyday_sunshine
+    title: "Everyday Sunshine"
+    path: "BGM_049.at9"
+    type: break
   - id: a_sky_full_of_stars
     title: "A Sky Full Of Stars"
-    path: "A Sky Full Of Stars.brstm"
+    path: "BGM_051.at9"
     type: break
-  - id: shin_mitsuo_tensei
-    title: "Shin Mitsuo Tensei"
-    path: "Shin Mitsuo Tensei.brstm"
+  - id: let_s_hit_the_beach
+    title: "Let's Hit the Beach"
+    path: "BGM_052.at9"
+    type: result
+  - id: snowflakes_p4g
+    title: "SNOWFLAKES"
+    path: "BGM_053.at9"
+    type: break
+  - id: memory_p4g
+    title: "Memory"
+    path: "BGM_054.at9"
     type: betting
+  - id: time_to_make_history_p4g
+    title: "Time to Make History"
+    path: "BGM_055.at9"
+    type: battle
+  - id: girl_of_the_empty_forest
+    title: "Girl of the Empty Forest"
+    path: "BGM_058.at9"
+    type: break
+  - id: revelations_mitsuo_shin_mitsuo_tensei
+    title: "Revelations - Mitsuo"
+    path: "BGM_059.at9"
+    type: battle
 ...

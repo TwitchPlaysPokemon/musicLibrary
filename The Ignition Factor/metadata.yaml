@@ -1,0 +1,19 @@
+---
+id: the_ignition_factor
+title: "The Ignition Factor"
+platform: "SNES"
+year: 1994
+songs:
+  - id: ready_to_save_lives
+    title: "Ready to Save Lives"
+    path: "03 Ready to Save Lives.spc"
+    type: warning
+  - id: nikos_new_recruit
+    title: "Nikos ~ New Recruit"
+    path: "12 Nikos ~ New Recruit.spc"
+    type: warning
+  - id: news_of_jay_s_death
+    title: "News of Jay's Death"
+    path: "13 News of Jay's Death.spc"
+    type: result
+...

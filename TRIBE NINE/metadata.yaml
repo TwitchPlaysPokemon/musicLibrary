@@ -1,0 +1,67 @@
+---
+id: tribe_nine
+title: "TRIBE NINE"
+platform: ["PC", "Mobile"]
+year: 2025
+songs:
+  - id: boss_defeated_t9
+    title: "Boss Defeated"
+    path: "Boss Defeated.brstm"
+    type: result
+  - id: synchro_rare
+    title: "Synchro [Rare]"
+    path: "Synchro [Rare].brstm"
+    type: warning
+  - id: adachi_dungeon
+    title: "Adachi Dungeon"
+    path: "Adachi Dungeon.brstm"
+    type: betting
+  - id: xb_edit_party
+    title: "XB [EDIT PARTY]"
+    path: "XB [EDIT PARTY].brstm"
+    type: warning
+  - id: battle_of_the_ota_tribe
+    title: "Battle of the Ota Tribe"
+    path: "Battle of the Ota Tribe.brstm"
+    type: battle
+  - id: neo_tokyo_t9
+    title: "Neo Tokyo"
+    path: "Neo Tokyo.brstm"
+    type: betting
+  - id: happy_worker
+    title: "Happy Worker"
+    path: "Happy Worker.brstm"
+    type: result
+  - id: zero_theme_2
+    title: "Zero Theme 2"
+    path: "Zero Theme 2.brstm"
+    type: betting
+  - id: hanging_out_t9
+    title: "Hanging Out"
+    path: "Hanging Out.brstm"
+    type: betting
+  - id: depths_t9
+    title: "Depths"
+    path: "Depths.brstm"
+    type: break
+  - id: determination_t9
+    title: "Determination"
+    path: "Determination.brstm"
+    type: betting
+  - id: familiarity_t9
+    title: "Familiarity"
+    path: "Familiarity.brstm"
+    type: break
+  - id: safe_area_t9
+    title: "Safe Area"
+    path: "Safe Area.brstm"
+    type: result
+  - id: d2_clinic
+    title: "D2 Clinic"
+    path: "D2 Clinic.brstm"
+    type: betting
+  - id: aqua_marine_park
+    title: "AQUA Marine Park"
+    path: "AQUA Marine Park.brstm"
+    type: break
+...

@@ -153,4 +153,20 @@ songs:
     title: "Gate: Boss"
     path: "bgm_gate_boss.txtp"
     type: warning
+  - id: gate_tokyo_shadow_generations
+    title: "Gate: Tokyo"
+    path: "Gate_ Tokyo.brstm"
+    type: warning
+  - id: tokyo_westopolis_teddyloid_x_jun_senoue_remix
+    title: "Tokyo (Westopolis - TeddyLoid x Jun Senoue Remix)"
+    path: "Tokyo - Westopolis - TeddyLoid x Jun Senoue Remix (Full).brstm"
+    type: battle
+  - id: vengence_is_mine_sxsg_extra_remix
+    title: "Vengence Is Mine - SXSG Extra Remix"
+    path: "Vengence Is Mine - SXSG Extra Remix.brstm"
+    type: battle
+  - id: without_you_shadow_generations
+    title: "Without You"
+    path: "Without You.brstm"
+    type: break
 ...

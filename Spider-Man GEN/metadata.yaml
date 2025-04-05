@@ -1,0 +1,47 @@
+---
+id: spider_man_smd
+title: "Spider-Man (SMD)"
+platform: ["SNES", "SMD"]
+year: 1995
+songs: 
+  - id: theme_of_spider_man_smd
+    title: "Theme of Spider-Man"
+    path: "01 - Theme of Spider-Man.vgm"
+    type: warning
+  - id: danger_staff_roll
+    title: "Danger ~ Staff Roll"
+    path: "04 - Danger ~ Staff Roll.vgm"
+    type: warning
+  - id: coney_island
+    title: "Coney Island"
+    path: "06 - Coney Island.vgm"
+    type: betting
+  - id: the_fun_house
+    title: "The Fun House"
+    path: "07 - The Fun House.vgm"
+    type: betting
+  - id: the_deconstruction_zone
+    title: "The Deconstruction Zone"
+    path: "08 - The Deconstruction Zone.vgm"
+    type: betting
+  - id: mean_streets_of_the_city
+    title: "Mean Streets of the City"
+    path: "09 - Mean Streets of the City.vgm"
+    type: betting
+  - id: ravenscroft_prison_for_the_insane
+    title: "Ravencroft Prison for the Insane"
+    path: "10 - Ravencroft Prison for the Insane.vgm"
+    type: warning
+  - id: fight_with_venom_smd
+    title: "Fight with Venom"
+    path: "11 - Fight with Venom.vgm"
+    type: warning
+  - id: continue_spider_man
+    title: "Continue"
+    path: "12 - Continue.vgm"
+    type: warning
+  - id: unknown_track_4
+    title: "Unknown Track 4"
+    path: "17 - Unknown Track 4.vgm"
+    type: warning
+...

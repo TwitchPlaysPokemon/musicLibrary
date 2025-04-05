@@ -588,4 +588,44 @@ songs:
     title: "Battle! Wild Pokémon (Beta)"
     path: "Battle! Wild Pokémon (Beta).brstm"
     type: battle
+  - id: the_dreamyard_build_2609
+    title: "The Dreamyard (Build 2609)"
+    path: "Dreamyard2609.brstm"
+    type: betting
+  - id: the_dreamyard_build_4348
+    title: "The Dreamyard (Build 4348)"
+    path: "Dreamyard4348.brstm"
+    type: betting
+  - id: driftveil_drawbridge_build_10769
+    title: "Driftveil Drawbridge (Build 10769)"
+    path: "DrifveilDrawbridge10769.brstm"
+    type: break
+  - id: musical_theater_build_15554
+    title: "Musical Theater (Build 15554)"
+    path: "MusicalHall15554.brstm"
+    type: betting
+  - id: route_12_build_10769
+    title: "Route 12 (Build 10769)"
+    path: "Route12_10769.brstm"
+    type: betting
+  - id: trainers_eyes_meet_encounter_team_plasma_build_15950
+    title: "Trainers' Eyes Meet (Team Plasma) (Build 15950)"
+    path: "TrainerEyePlasma15950.brstm"
+    type: warning
+  - id: undella_town_build_10591_shiawasenomonosashi
+    title: "Undella Town (Build 10591)"
+    path: "Undella10591.brstm"
+    type: betting 
+  - id: wi_fi_plaza_plaza_games_unused
+    title: "Wi-Fi Plaza: Plaza Games (Unused)"
+    path: "WiFiMinigame6475.brstm"
+    type: warning
+  - id: wi_fi_plaza_parade_unused
+    title: "Wi-Fi Plaza: Parade (Unused)"
+    path: "WiFiParade6475.brstm"
+    type: result
+  - id: wi_fi_plaza_black_white
+    title: "Wi-Fi Plaza"
+    path: "WiFiPlaza6475.brstm"
+    type: betting
 ...

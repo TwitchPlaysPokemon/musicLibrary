@@ -37,4 +37,29 @@ songs:
     title: "Super Sonic Racing"
     path: "11. Richard Jacques - Super Sonic Racing.flac"
     type: betting
+  - id: back_in_time_vocal
+    title: "Back In Time"
+    path: "Back In Time.brstm"
+    ends: 2:49
+    type: betting
+  - id: can_you_feel_the_sunshine_vocal
+    title: "Can You Feel the Sunshine"
+    path: "Can You Feel the Sunshine.brstm"
+    ends: 3:07
+    type: betting
+  - id: diamond_in_the_sky_vocal
+    title: "Diamond in the Sky"
+    path: "Diamond in the Sky.brstm"
+    ends: 3:12
+    type: betting
+  - id: living_in_the_city_vocal
+    title: "Living in the City"
+    path: "Living in the City.brstm"
+    ends: 4:25
+    type: betting
+  - id: work_it_out_vocal
+    title: "Work it Out"
+    path: "Work it Out.brstm"
+    ends: 2:49
+    type: betting
 ...

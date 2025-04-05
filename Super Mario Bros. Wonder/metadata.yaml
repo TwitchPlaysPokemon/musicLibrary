@@ -199,9 +199,25 @@ songs:
     title: "Bowser Jr."
     path: "BGM_Boss_Palace.txtp"
     type: battle
-  - id: castle_bowser_battle
-    title: "Castle Bowser Battle"
-    path: "BGM_Boss_Koopa.txtp"
+  # - id: castle_bowser_battle
+    # title: "Castle Bowser Battle"
+    # path: "BGM_Boss_Koopa.txtp"
+    # type: battle
+  - id: castle_bowser_battle_phase_1
+    title: "Castle Bowser Battle - Phase 1"
+    path: "Final Boss - Phase 1.brstm"
+    type: battle
+  - id: castle_bowser_battle_phase_2
+    title: "Castle Bowser Battle - Phase 2"
+    path: "Final Boss - Phase 2.brstm"
+    type: battle
+  - id: castle_bowser_battle_phase_3
+    title: "Castle Bowser Battle - Phase 3"
+    path: "Final Boss - Phase 3.brstm"
+    type: battle
+  - id: castle_bowser_battle_phase_4
+    title: "Castle Bowser Battle - Phase 4"
+    path: "Final Boss - Phase 4.brstm"
     type: battle
   - id: wiggler_race
     title: "Wiggler Race"
