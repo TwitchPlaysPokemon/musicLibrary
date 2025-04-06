@@ -199,10 +199,10 @@ songs:
     title: "Bowser Jr."
     path: "BGM_Boss_Palace.txtp"
     type: battle
-  # - id: castle_bowser_battle
-    # title: "Castle Bowser Battle"
-    # path: "BGM_Boss_Koopa.txtp"
-    # type: battle
+  - id: castle_bowser_battle
+    title: "Castle Bowser Battle"
+    path: "BGM_Boss_Koopa.txtp"
+    type: battle
   - id: castle_bowser_battle_phase_1
     title: "Castle Bowser Battle - Phase 1"
     path: "Final Boss - Phase 1.brstm"
