@@ -490,11 +490,11 @@ songs:
     title: "Pianta Parlor"
     path: "BGM_FLD_Amusement_S0_opus.txtp"
     type: betting
-  - id: seven_wonders_of_the_glitz_pit
+  - id: seven_wonders_of_the_glitz_pit_switch
     title: "Seven Wonders of the Glitz Pit"
     path: "BGM_FLD_Arena_S3_Tansaku_opus.txtp"
     type: break
-  - id: battle_glitz_pit_arena
+  - id: battle_glitz_pit_arena_switch
     title: "Battle - Glitz Pit Arena"
     path: "BGM_FLD_Arena_S3_2nd_Dry_opus.txtp"
     type: betting
@@ -554,7 +554,7 @@ songs:
     title: "Boggly Woods"
     path: "BGM_FLD_Forest_S2_opus.txtp"
     type: betting
-  - id: royal_poshley_park_tower
+  - id: royal_poshley_park_tower_switch
     title: "Royal Poshley Park Tower"
     path: "BGM_FLD_Hill_S6_B_Dry_opus.txtp"
     type: betting
@@ -566,7 +566,7 @@ songs:
     title: "Twilight Trail"
     path: "BGM_FLD_Plain_S4_opus.txtp"
     type: betting
-  - id: riverside_station_premises
+  - id: riverside_station_premises_switch
     title: "Riverside Station Premises"
     path: "BGM_FLD_Station_Inside_S6_E_opus.txtp"
     type: betting
@@ -578,11 +578,11 @@ songs:
     title: "Rogueport Harbor"
     path: "BGM_FLD_Town_Harbor_S0_opus.txtp"
     type: betting
-  - id: rogueport_shops
+  - id: rogueport_shops_switch
     title: "Rogueport Shops"
     path: "BGM_FLD_Town_S0_D_opus.txtp"
     type: betting
-  - id: rogueport_podley_s_place
+  - id: rogueport_podley_s_place_switch
     title: "Rogueport - Podley's Place"
     path: "BGM_FLD_Town_S0_C_opus.txtp"
     type: betting
