@@ -302,11 +302,11 @@ songs:
     title: "A Letter From Princess Peach"
     path: "BGM_EVT_Peach_Letter_opus.txtp"
     type: break
-  - id: princess_peach_s_undercover_operation
+  - id: princess_peach_s_undercover_operation_switch
     title: "Princess Peach's Undercover Operation"
     path: "BGM_EVT_Peach_Spy_opus.txtp"
     type: betting
-  - id: goodbye_tec
+  - id: goodbye_tec_switch
     title: "Goodbye, TEC"
     path: "BGM_EVT_Peach_Tec_A_opus.txtp"
     type: break
@@ -314,7 +314,7 @@ songs:
     title: "Twhomp! Quiz Time!"
     path: "BGM_EVT_Quiz_Intro_opus.txtp"
     type: warning
-  - id: thwomp_quiz_time_again
+  - id: thwomp_quiz_time_again_switch
     title: "Thwomp! Quiz Time Again!"
     path: "BGM_EVT_Quiz_Intro_S7_opus.txtp"
     type: warning
@@ -322,7 +322,7 @@ songs:
     title: "Twhomp! Thinking Time!"
     path: "BGM_EVT_Quiz_opus.txtp"
     type: warning
-  - id: thwomp_thinking_time_again
+  - id: thwomp_thinking_time_again_switch
     title: "Thwomp! Thinking Time Again!"
     path: "BGM_EVT_Quiz_S7_opus.txtp"
     type: warning
@@ -358,15 +358,15 @@ songs:
     title: "Battle - Doopliss"
     path: "BGM_BTL_Boss_S4_opus.txtp"
     type: battle
-  - id: battle_shadow_queen_full_glory
+  - id: battle_shadow_queen_full_glory_switch
     title: "Battle - Shadow Queen (Full Glory)"
     path: "BGM_BTL_ShadowQueen_B_opus.txtp"
     type: warning
-  - id: admiral_bobbery
+  - id: admiral_bobbery_switch
     title: "Admiral Bobbery"
     path: "BGM_EVT_Admiral_Bobbery_opus.txtp"
     type: betting
-  - id: goombella
+  - id: goombella_switch
     title: "Goombella"
     path: "BGM_EVT_Christine_A_opus.txtp"
     type: betting
@@ -374,95 +374,95 @@ songs:
     title: "It's-A-You...Mario?"
     path: "BGM_EVT_Doopliss_Appear_Last_opus.txtp"
     type: warning
-  - id: a_famous_actress_s_necklace
+  - id: a_famous_actress_s_necklace_switch
     title: "A Famous Actress's Necklace"
     path: "BGM_EVT_Flurrie_Opera_opus.txtp"
     type: betting
-  - id: searching_boggly_woods
+  - id: searching_boggly_woods_switch
     title: "Searching Boggly Woods"
     path: "BGM_EVT_Forest_S2_Tansaku_opus.txtp"
     type: betting
-  - id: frankly_and_the_magical_map
+  - id: frankly_and_the_magical_map_switch
     title: "Frankly and the Magical Map"
     path: "BGM_EVT_Frankly_C_opus.txtp"
     type: warning
-  - id: general_white_returns
+  - id: general_white_returns_switch
     title: "General White Returns"
     path: "BGM_EVT_GeneralWhite_opus.txtp"
     type: result
-  - id: the_ghost_in_cabin_four
+  - id: the_ghost_in_cabin_four_switch
     title: "The Ghost in Cabin Four"
     path: "BGM_EVT_Ghost_S6_opus.txtp"
     type: warning
-  - id: black_skull_cast_off
+  - id: black_skull_cast_off_switch
     title: "Black Skull, Cast Off!"
     path: "BGM_EVT_GhostShip_opus.txtp"
     type: warning
-  - id: nouveau_riche_goldbob
+  - id: nouveau_riche_goldbob_switch
     title: "Nouveau-Riche Goldbob"
     path: "BGM_EVT_GoldMan_opus.txtp"
     type: betting
-  - id: grodus_s_thanks
+  - id: grodus_s_thanks_switch
     title: "Grodus's Thanks"
     path: "BGM_EVT_Grodus_opus.txtp"
     type: warning
-  - id: grubba_the_glitz_pit_promoter
+  - id: grubba_the_glitz_pit_promoter_switch
     title: "Grubba, the Glitz Pit Promoter"
     path: "BGM_EVT_Grubba_opus.txtp"
     type: warning
-  - id: wonky_knows_stuff
+  - id: wonky_knows_stuff_switch
     title: "Wonky Knows Stuff"
     path: "BGM_EVT_Informant_opus.txtp"
     type: warning
-  - id: koops
+  - id: koops_switch
     title: "Koops"
     path: "BGM_EVT_Koops_A_opus.txtp"
     type: betting
-  - id: lumpy_s_quest
+  - id: lumpy_s_quest_switch
     title: "Lumpy's Quest"
     path: "BGM_EVT_Lumpy_B_opus.txtp"
     type: betting
-  - id: a_suspicious_black_chest
+  - id: a_suspicious_black_chest_switch
     title: "A Suspicious Black Chest"
     path: "BGM_EVT_Majin_First_opus.txtp"
     type: warning
-  - id: flavio_gutsy_seafarer
+  - id: flavio_gutsy_seafarer_switch
     title: "Flavio, Gutsy Seafarer"
     path: "BGM_EVT_Marco_opus.txtp"
     type: result
-  - id: grifty_the_travelling_minstrel
+  - id: grifty_the_travelling_minstrel_switch
     title: "Grifty the Travelling Minstrel"
     path: "BGM_EVT_Minstrel_opus.txtp"
     type: betting
-  - id: meanwhile_princesss_peach
+  - id: meanwhile_princesss_peach_switch
     title: "Meanwhile, Princess Peach..."
     path: "BGM_EVT_Peach_opus.txtp"
     type: betting
-  - id: tec_s_farewell
+  - id: tec_s_farewell_switch
     title: "TEC's Farewell"
     path: "BGM_EVT_Peach_Tec_B_opus.txtp"
     type: break
-  - id: full_party_of_punies_on_the_move
+  - id: full_party_of_punies_on_the_move_switch
     title: "Full Party of Punies on the Move"
     path: "BGM_EVT_Puni_2_ABCD_opus.txtp"
     type: betting
-  - id: punies_vs_jabbies
+  - id: punies_vs_jabbies_switch
     title: "Punies vs Jabbies"
     path: "BGM_EVT_PuniVSToge_opus.txtp"
     type: warning
-  - id: peace_returns_to_keelhaul_key
+  - id: peace_returns_to_keelhaul_key_switch
     title: "Peace Returns to Keelhaul Key"
     path: "BGM_EVT_Reunion_S5_opus.txtp"
     type: result
-  - id: peace_returns_to_the_glitz_pit
+  - id: peace_returns_to_the_glitz_pit_switch
     title: "Peace Returns to the Glitz Pit"
     path: "BGM_EVT_Reunion_S3_opus.txtp"
     type: result
-  - id: maaaaacho_grubba_hoo_wee
+  - id: maaaaacho_grubba_hoo_wee_switch
     title: "Maaaaacho Grubba! Hoo-wee!"
     path: "BGM_EVT_Super_Grubba_opus.txtp"
     type: warning
-  - id: vivian
+  - id: vivian_switch
     title: "Vivian"
     path: "BGM_EVT_Vivian_opus.txtp"
     type: betting
@@ -470,19 +470,19 @@ songs:
     title: "Supportive Voices from Afar"
     path: "BGM_EVT_Voice_opus.txtp"
     type: result
-  - id: beldam_s_sneaky_scheme
+  - id: beldam_s_sneaky_scheme_switch
     title: "Beldam's Sneaky Scheme"
     path: "BGM_EVT_Witch_First_opus.txtp"
     type: warning
-  - id: invasion_of_the_x_nauts
+  - id: invasion_of_the_x_nauts_switch
     title: "Invasion of the X-Nauts!"
     path: "BGM_EVT_XNaut_opus.txtp"
     type: warning
-  - id: behold_magnus_von_grapple
+  - id: behold_magnus_von_grapple_switch
     title: "Behold! Magnus von Grapple!"
     path: "BGM_EVT_Xnaut_Robot_opus.txtp"
     type: warning
-  - id: yoshi_kid
+  - id: yoshi_kid_switch
     title: "Yoshi Kid"
     path: "BGM_EVT_Yoshi_Kid_A_opus.txtp"
     type: betting
@@ -502,7 +502,7 @@ songs:
     title: "The Great Tree"
     path: "BGM_FLD_Big_Tree_S2_opus.txtp"
     type: betting
-  - id: hooktail_castle_part_four
+  - id: hooktail_castle_part_four_switch
     title: "Hooktail Castle - Part Four"
     path: "BGM_FLD_Castle_S1_D_opus.txtp"
     type: betting
@@ -510,43 +510,43 @@ songs:
     title: "The Pirates' Cave"
     path: "BGM_FLD_Cave_S5_opus.txtp"
     type: betting
-  - id: palace_of_shadow_part_1
+  - id: palace_of_shadow_part_1_switch
     title: "Palace of Shadow - Part 1"
     path: "BGM_FLD_Dungeon_1_S8_A_opus.txtp"
     type: betting
-  - id: palace_of_shadow_part_2
+  - id: palace_of_shadow_part_2_switch
     title: "Palace of Shadow - Part 2"
     path: "BGM_FLD_Dungeon_1_S8_B_opus.txtp"
     type: betting
-  - id: x_naut_fortress_sublevel_one
+  - id: x_naut_fortress_sublevel_one_switch
     title: "X-Naut Fortress - Sublevel One"
     path: "BGM_FLD_Dungeon_2_S7_AC_opus.txtp"
     type: betting
-  - id: x_naut_fortress_sublevel_two
+  - id: x_naut_fortress_sublevel_two_switch
     title: "X-Naut Fortress - Sublevel Two"
     path: "BGM_FLD_Dungeon_2_S7_AD_opus.txtp"
     type: betting
-  - id: x_naut_fortress_sublevel_three
+  - id: x_naut_fortress_sublevel_three_switch
     title: "X-Naut Fortress - Sublevel Three"
     path: "BGM_FLD_Dungeon_2_S7_AE_opus.txtp"
     type: betting
-  - id: x_naut_fortress_sublevel_four
+  - id: x_naut_fortress_sublevel_four_switch
     title: "X-Naut Fortress - Sublevel Four"
     path: "BGM_FLD_Dungeon_2_S7_AF_opus.txtp"
     type: betting
-  - id: palace_of_shadow_courtyard_tower
+  - id: palace_of_shadow_courtyard_tower_switch
     title: "Palace of Shadow - Courtyard Tower"
     path: "BGM_FLD_Dungeon_2_S8_opus.txtp"
     type: betting
-  - id: palace_of_shadow_depths
+  - id: palace_of_shadow_depths_switch
     title: "Palace of Shadow - Depths"
     path: "BGM_FLD_Dungeon_3_S8_A_opus.txtp"
     type: betting
-  - id: palace_of_shadow_grand_staircase
+  - id: palace_of_shadow_grand_staircase_switch
     title: "Palace of Shadow - Grand Staircase"
     path: "BGM_FLD_Dungeon_4_S8_A_opus.txtp"
     type: betting
-  - id: palace_of_shadow_path_to_the_throne
+  - id: palace_of_shadow_path_to_the_throne_switch
     title: "Palace of Shadow - Path to the Throne"
     path: "BGM_FLD_Dungeon_5_S8_A_opus.txtp"
     type: betting
