@@ -13,10 +13,6 @@ songs:
     title: "Title Screen (8-bit)"
     path: "Title Screen.fsb"
     type: result
-  - id: boss_rugrats
-    title: "Boss"
-    path: "Boss #2493.fsb"
-    type: warning
   - id: boss_8bit_rugrats
     title: "Boss (8-bit)"
     path: "Boss.fsb"
@@ -29,4 +25,40 @@ songs:
     title: "Attic (8-bit)"
     path: "Attic.fsb"
     type: warning
+  - id: level_select_rugrats
+    title: "Level Select"
+    path: "Level Select.brstm"
+    type: betting
+  - id: living_room_rugrats
+    title: "Living Room"
+    path: "Living Room.brstm"
+    type: betting
+  - id: jungle_rugrats
+    title: "Jungle"
+    path: "Jungle.brstm"
+    type: betting
+  - id: desert_rugrats
+    title: "Desert"
+    path: "Desert.brstm"
+    type: betting
+  - id: ice_cream_factory_rugrats
+    title: "Ice Cream Factory"
+    path: "Ice Cream Factory.brstm"
+    type: betting
+  - id: dream_rugrats
+    title: "Dream"
+    path: "Dream.brstm"
+    type: break
+  - id: final_stage_1_rugrats
+    title: "Final Stage 1"
+    path: "Final Stage 1.brstm"
+    type: betting
+  - id: boss_rugrats
+    title: "Boss"
+    path: "Boss.brstm"
+    type: battle
+  - id: boss_outro_rugrats
+    title: "Boss Outro"
+    path: "Boss Outro.brstm"
+    type: result
 ...

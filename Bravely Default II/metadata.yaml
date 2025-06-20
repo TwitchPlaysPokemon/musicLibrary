@@ -1,0 +1,71 @@
+---
+id: bravely_default_ii
+title: "Bravely Default II"
+year: 2021
+platform: "Various"
+songs:
+  - id: survival_instincts_kicking_in
+    title: "Survival Instincts Kicking In"
+    path: "BGM_BATTLE_BOSS.hca"
+    type: battle
+  - id: battle_against_the_ones_we_inevitably_confront
+    title: "Battle Against the Ones We Inevitably Confront"
+    path: "BGM_BATTLE_JOBBOSS_0.hca"
+    type: battle
+  - id: inevitable_encounter_leads_to_battle
+    title: "Inevitable Encounter Leads to Battle"
+    path: "BGM_BATTLE_JOBBOSS_0_INTRO_A.hca"
+    type: warning
+  - id: battle_against_the_ones_bestowed_with_stars
+    title: "Battle Against the Ones Bestowed with Stars"
+    path: "BGM_BATTLE_JOBBOSS_1.hca"
+    type: battle
+  - id: battle_against_the_wicked_ones
+    title: "Battle Against the Wicked Ones"
+    path: "BGM_BATTLE_JOBBOSS_2.hca"
+    type: battle
+  - id: the_might_of_the_hellblade
+    title: "The Might of the Hellblade"
+    path: "BGM_BATTLE_JOBBOSS_4.hca"
+    type: battle
+  - id: trial_for_the_brave_ones
+    title: "Trial for the Brave Ones"
+    path: "BGM_BATTLE_JOBBOSS_5.hca"
+    type: battle
+  - id: spurred_into_flight_drenched_and_fallen_the_night_rises
+    title: "Spurred into Flight, Drenched and Fallen - The Night Rises"
+    path: "BGM_BATTLE_LAST_EDUNA.hca"
+    type: battle
+  - id: marionette_of_the_night
+    title: "Marionette of the Night"
+    path: "BGM_BATTLE_LAST1.hca"
+    type: battle
+  - id: wisdom_lost_to_the_nexus
+    title: "Wisdom Lost to the Nexus"
+    path: "BGM_BATTLE_LAST2.hca"
+    type: battle
+  - id: eyes_that_gaze_into_the_nexus
+    title: "Eyes That Gaze into the Nexus"
+    path: "BGM_BATTLE_LAST3_WITCH.hca"
+    type: battle
+  - id: the_bell_of_battle_tolls_again
+    title: "The Bell of Battle Tolls Again"
+    path: "BGM_BATTLE_NORMAL_1.hca"
+    type: battle
+  - id: the_unyielding_rhythm_of_battle
+    title: "The Unyielding Rhythm of Battle"
+    path: "BGM_BATTLE_NORMAL_2.hca"
+    type: battle
+  - id: the_joy_of_another_victory
+    title: "The Joy of Another Victory"
+    path: "BGM_BATTLE_WIN.hca"
+    type: result
+  - id: the_seafarer_s_skills_tame_the_storm
+    title: "The Seafarer's Skills Tame the Storm"
+    path: "BGM_SPECIAL_PCM1-BATTLE_JOBBOSS_0.hca"
+    type: warning
+  - id: wiswald_the_scholars_haven
+    title: "Wiswald, the Scholars' Haven"
+    path: "BGM_TOWN_2.hca"
+    type: betting
+...

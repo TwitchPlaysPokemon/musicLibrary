@@ -29,4 +29,112 @@ songs:
     title: "Battle - Frox"
     path: "Battle - Frox.brstm"
     type: battle
+  - id: temple_of_time_totk
+    title: "Temple Of Time"
+    path: "Temple Of Time.brstm"
+    type: break
+  - id: cumulonimbus_top
+    title: "Cumulonimbus (Top)"
+    path: "Cumulonimbus (Top).brstm"
+    type: betting
+  - id: mipha_court
+    title: "Mipha Court"
+    path: "Mipha Court.brstm"
+    type: break
+  - id: skyview_tower
+    title: "Skyview Tower"
+    path: "Skyview Tower.brstm"
+    type: betting
+  - id: construct_factory_all_parts_assembled
+    title: "Construct Factory (all parts assembled)"
+    path: "Construct Factory (all parts assembled).brstm"
+    type: betting
+  - id: lightroot
+    title: "Lightroot"
+    path: "Lightroot.brstm"
+    type: break
+  - id: spirit_temple_totk
+    title: "Spirit Temple"
+    path: "Spirit Temple.brstm"
+    type: betting
+  - id: boss_seized_construct_phase_1
+    title: "Boss - Seized Construct (Phase 1)"
+    path: "Boss - Seized Construct (Phase 1).brstm"
+    type: battle
+  - id: boss_phantom_ganon_phase_1
+    title: "Boss - Phantom Ganon (Phase 1)"
+    path: "Boss - Phantom Ganon (Phase 1).brstm"
+    type: battle
+  - id: boss_phantom_ganon_phase_2
+    title: "Boss - Phantom Ganon (Phase 2)"
+    path: "Boss - Phantom Ganon (Phase 2).brstm"
+    type: battle
+  - id: dragon_head_island
+    title: "Dragon Head Island"
+    path: "Dragon Head Island.brstm"
+    type: break
+  - id: hyrule_castle_ground_totk
+    title: "Hyrule Castle Ground"
+    path: "Hyrule Castle Ground.brstm"
+    type: betting
+  - id: pristine_sanctum
+    title: "Pristine Sanctum"
+    path: "Pristine Sanctum.brstm"
+    type: betting
+  - id: yunoboco_hq
+    title: "YunoboCo HQ"
+    path: "YunoboCo HQ.brstm"
+    type: betting
+  - id: link_s_house_totk
+    title: "Link's House"
+    path: "Link's House.brstm"
+    type: break
+  - id: lookout_landing
+    title: "Lookout Landing"
+    path: "Lookout Landing.brstm"
+    type: betting
+  - id: hateno_ancient_tech_lab_robbie
+    title: "Hateno Ancient Tech Lab (Robbie)"
+    path: "Hateno Ancient Tech Lab (Robbie).brstm"
+    type: betting
+  - id: hateno_school
+    title: "Hateno School"
+    path: "Hateno School.brstm"
+    type: betting
+  - id: lucky_clover_gazette
+    title: "Lucky Clover Gazette"
+    path: "Lucky Clover Gazette.brstm"
+    type: betting
+  - id: lomei_labyrinth
+    title: "Lomei Labyrinth"
+    path: "Lomei Labyrinth.brstm"
+    type: warning
+  - id: battle_gloom_spawn_hands
+    title: "Battle - Gloom Spawn (Hands)"
+    path: "Battle - Gloom Spawn (Hands).brstm"
+    type: warning
+  - id: minigame_yiga_blademaster_s_challenge
+    title: "Minigame - Yiga Blademaster’s challenge"
+    path: "Minigame - Yiga Blademaster’s challenge.brstm"
+    type: betting
+  - id: light_dragon
+    title: "Light Dragon"
+    path: "Light Dragon.brstm"
+    type: break
+  - id: minigame_mine_cart_land
+    title: "Minigame - Mine Cart Land"
+    path: "Minigame - Mine Cart Land.brstm"
+    type: betting
+  - id: minigame_rito_warrior
+    title: "Minigame - Rito Warrior"
+    path: "Minigame - Rito Warrior.brstm"
+    type: betting
+  - id: minigame_sand_seal_plushes
+    title: "Minigame - Sand Seal Plushes"
+    path: "Minigame - Sand Seal Plushes.brstm"
+    type: betting
+  - id: minigame_dive_ceremony
+    title: "Minigame - Dive Ceremony"
+    path: "Minigame - Dive Ceremony.brstm"
+    type: betting
 ...

@@ -44,7 +44,7 @@ songs:
   - id: facing_yuga_in_hyrule_castle
     title: "Facing Yuga In Hyrule Castle"
     path: "YugaHighlaluBoss.ry.32.dspadpcm.bcstm"
-    type: warning
+    type: battle
   - id: yuga_s_theme
     title: "Yuga's Theme"
     path: "YugaDemoDefault.ry.32.dspadpcm.bcstm"
@@ -69,4 +69,88 @@ songs:
     title: "Restoring Queen Oren"
     path: "ZoraEventAfter.ry.32.dspadpcm.bcstm"
     type: break
+  - id: hyrule_castle_battle_theme_lbw
+    title: "Hyrule Castle Battle Theme"
+    path: "BGM_DUNGEON_CASTLE.bcstm"
+    type: betting
+  - id: hyrule_hotfoot
+    title: "Hyrule Hotfoot"
+    path: "BGM_HYRULE_RACE.bcstm"
+    type: betting
+  - id: mother_maimai_s_theme
+    title: "Mother Maiamai's Theme"
+    path: "BGM_KINSTA.bcstm"
+    type: break
+  - id: the_bosses_of_hyrule
+    title: "The Bosses of Hyrule"
+    path: "Boss.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: beating_the_boss_albw
+    title: "Beating the Boss"
+    path: "BossClearFan.ry.32.dspadpcm.bcstm"
+    type: result
+  - id: at_the_sanctuary_albw
+    title: "At the Sanctuary"
+    path: "Church.ry.32.dspadpcm.bcstm"
+    type: break
+  - id: cavern_theme_going_underground
+    title: "Cavern Theme (Going Underground)"
+    path: "Doukutsu.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: hyrule_at_pease
+    title: "Hyrule at Peace"
+    path: "FieldBeforeStarting.ry.32.dspadpcm.bcstm"
+    type: betting
+  - id: hyrule_castle_at_peace
+    title: "Hyrule Castle at Peace"
+    path: "HairaruCastleNormal.ry.32.dspadpcm.bcstm"
+    type: betting
+  - id: venturing_indoors
+    title: "Venturing Indoors"
+    path: "InTheRoom.ry.32.dspadpcm.bcstm"
+    type: break
+  - id: kakariko_village_albw
+    title: "Kakariko Village"
+    path: "Kakariko.ry.32.dspadpcm.bcstm"
+    type: break
+  - id: song_of_the_sages_albw
+    title: "Song of the Sages"
+    path: "KenjaNoMa.ry.32.dspadpcm.bcstm"
+    type: break
+  - id: treacherous_tower
+    title: "Treacherous Tower"
+    path: "LorallColosseum.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: treacherous_tower_complete_results
+    title: "Treacherous Tower Complete Results"
+    path: "LorallColosseumFanComp.ry.32.dspadpcm.bcstm"
+    type: result
+  - id: octoball_derby
+    title: "Octoball Derby"
+    path: "LowrallStadium.ry.32.dspadpcm.bcstm"
+    type: betting
+  - id: at_the_milk_bar
+    title: "At the Milk Bar"
+    path: "MilkBar.ry.32.dspadpcm.bcstm"
+    type: break
+  - id: the_lost_woods_alby
+    title: "The Lost Woods"
+    path: "mori.ry.32.dspadpcm.bcstm"
+    type: betting
+  - id: ravio_s_shop
+    title: "Ravio's Shop"
+    path: "RentalShop.ry.32.dspadpcm.bcstm"
+    type: result
+  - id: ravio_s_theme
+    title: "Ravio's Theme"
+    path: "RentoTheme.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: the_bosses_of_lorule
+    title: "The Bosses of Lorule"
+    path: "UraBoss.ry.32.dspadpcm.bcstm"
+    type: warning
+  - id: lorule_theme_2
+    title: "Lorule Theme 2"
+    path: "UraKouhan.ry.32.dspadpcm.bcstm"
+    type: betting
 ...

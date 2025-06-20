@@ -1,0 +1,31 @@
+---
+id: picross_s_doraemon_f_characters_edition
+title: "PICROSS S Doraemon & F Characters edition"
+platform: "Switch"
+year: 2025
+songs: 
+  - id: title_theme_picross_doraemon
+    title: "Title Theme"
+    path: "bgm_00.fsb"
+    type: result
+  - id: solving_theme_1_picross_doraemon
+    title: "Solving Theme 1"
+    path: "bgm_01.fsb"
+    type: break
+  - id: solving_theme_2_picross_doraemon
+    title: "Solving Theme 2"
+    path: "bgm_02.fsb"
+    type: break
+  - id: solving_theme_3_picross_doraemon
+    title: "Solving Theme 3"
+    path: "bgm_03.fsb"
+    type: result
+  - id: solving_theme_4_picross_doraemon
+    title: "Solving Theme 4"
+    path: "bgm_04.fsb"
+    type: betting
+  - id: solving_theme_5_picross_doraemon
+    title: "Solving Theme 5"
+    path: "bgm_05.fsb"
+    type: break
+...

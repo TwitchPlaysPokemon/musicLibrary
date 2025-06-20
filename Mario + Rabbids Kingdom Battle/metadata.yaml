@@ -9,4 +9,69 @@ songs:
     title: "Phantom's Phortissimo"
     path: "Phantom's Phortissimo.brstm"
     type: warning
+  - id: mystic_journey
+    title: "Mystic Journey"
+    path: "Mystic Journey.brstm"
+    type: betting
+  - id: mid_boss_mayhem
+    title: "Mid Boss Mayhem"
+    path: "Mid Boss Mayhem.brstm"
+    ends: 2:33
+    type: betting
+  - id: exploring_the_mine
+    title: "Exploring the Mine"
+    path: "Exploring the Mine.brstm"
+    type: break
+  - id: bowser_begins
+    title: "Bowser Begins"
+    path: "Bowser Begins.brstm"
+    type: battle
+  - id: bowser_bows_out
+    title: "Bowser Bows Out"
+    path: "Bowser Bows Out.brstm"
+    type: battle
+  - id: steamed_up_in_the_factory
+    title: "Steamed Up in the Factory"
+    path: "Steamed Up in the Factory.brstm"
+    type: betting
+  - id: lagoon_promenade
+    title: "Lagoon Promenade"
+    path: "Lagoon Promenade.brstm"
+    type: betting
+  - id: a_stroll_in_the_cemetery
+    title: "A Stroll in the Cemetery"
+    path: "A Stroll in the Cemetery.brstm"
+    type: betting
+  - id: a_song_of_ice_and_desert
+    title: "A Song of Ice and Desert"
+    path: "A Song of Ice and Desert.brstm"
+    type: betting
+  - id: banana_battles
+    title: "Banana Battles"
+    path: "Banana Battles.brstm"
+    type: betting
+  - id: combat_in_the_cemetery
+    title: "Combat in the Cemetery"
+    path: "Combat in the Cemetery.brstm"
+    type: betting
+  - id: the_lava_forge
+    title: "The Lava Forge"
+    path: "The Lava Forge.brstm"
+    type: betting
+  - id: bwaah_enemies
+    title: "Bwaaah Enemies!"
+    path: "Bwaaah Enemies!.brstm"
+    type: battle
+  - id: in_the_cold_of_the_battle
+    title: "In the Cold of the Battle"
+    path: "In the Cold of the Battle.brstm"
+    type: battle
+  - id: hot_start_cold_finish
+    title: "Hot Start, Cold Finish"
+    path: "Hot Start, Cold Finish.brstm"
+    type: battle
+  - id: jungle_joust
+    title: "Jungle Joust"
+    path: "Jungle Joust.brstm"
+    type: betting
 ...

@@ -167,4 +167,14 @@ songs:
     path: "A Tenth of Myself (Venom's Theme).brstm"
     ends: 3:20
     type: betting
+  - id: radiant_dawn_dizzy_s_theme
+    title: "Radiant Dawn (Dizzy's Theme)"
+    path: "Radiant Dawn (Dizzy's Theme).brstm"
+    ends: 3:30
+    type: betting
+  - id: get_over_nightmares
+    title: "Get Over Nightmares"
+    path: "Get Over Nightmares.brstm"
+    ends: 2:45
+    type: betting
 ...

@@ -1,0 +1,99 @@
+---
+id: tetris_the_grand_master_4_absolute_eye
+title: "Tetris: The Grand Master 4 – Absolute Eye"
+platform: "PC"
+year: 2025
+songs: 
+  - id: menu_tgm4
+    title: "Menu"
+    path: "bgm_menu.txtp"
+    type: result
+  - id: korobuchika_tgm4
+    title: "Korobuchika"
+    path: "bgm_korobuchika.txtp"
+    type: betting
+  - id: karinka_tmg4
+    title: "Karinka"
+    path: "bgm_karinka.txtp"
+    type: betting
+  - id: kachusha_tgm4
+    title: "Kachusha"
+    path: "bgm_kachusha.txtp"
+    type: betting
+  - id: asuka_level_1
+    title: "Asuka - Level 1"
+    path: "bgm_asuka_lv1.txtp"
+    type: betting
+  - id: asuka_level_2
+    title: "Asuka - Level 2"
+    path: "bgm_asuka_lv2.txtp"
+    type: battle
+  - id: normal_end_tgm4
+    title: "Normal End"
+    path: "bgm_nomal_end.txtp"
+    type: result
+  - id: konoha_level_1
+    title: "Konoha - Level 1"
+    path: "bgm_konoha_lv1.txtp"
+    type: betting
+  - id: konoha_level_2
+    title: "Konoha - Level 2"
+    path: "bgm_konoha_lv2.txtp"
+    type: betting
+  - id: konoha_extra
+    title: "Konoha - Extra"
+    path: "bgm_konoha_ura.txtp"
+    type: result
+  - id: shiranui_level_1
+    title: "Shiranui - Level 1"
+    path: "bgm_shiranui_lv1.txtp"
+    type: betting
+  - id: shiranui_level_2
+    title: "Shiranui - Level 2"
+    path: "bgm_shiranui_lv2.txtp"
+    type: betting
+  - id: shiranui_level_3
+    title: "Shiranui - Level 3"
+    path: "bgm_shiranui_lv3.txtp"
+    type: betting
+  - id: shiranui_level_5
+    title: "Shiranui - Level 5"
+    path: "bgm_shiranui_lv5.txtp"
+    type: warning
+  - id: shiranui_level_6
+    title: "Shiranui - Level 6"
+    path: "bgm_shiranui_lv6.txtp"
+    type: battle
+  - id: rounds_level_1
+    title: "Rounds - Level 1"
+    path: "bgm_rounds_lv1.txtp"
+    type: betting
+  - id: rounds_level_2
+    title: "Rounds - Level 2"
+    path: "bgm_rounds_lv2.txtp"
+    type: warning
+  - id: rounds_level_3
+    title: "Rounds - Level 3"
+    path: "bgm_rounds_lv3.txtp"
+    type: battle
+  - id: rounds_level_4
+    title: "Rounds - Level 4"
+    path: "bgm_rounds_lv4.txtp"
+    type: betting
+  - id: rounds_level_5
+    title: "Rounds - Level 5"
+    path: "bgm_rounds_lv5.txtp"
+    type: warning
+  - id: master_level_1
+    title: "Master - Level 1"
+    path: "bgm_master_lv1.txtp"
+    type: betting
+  - id: master_level_2
+    title: "Master - Level 2"
+    path: "bgm_master_lv2.txtp"
+    type: betting
+  - id: master_level_3
+    title: "Master - Level 3"
+    path: "bgm_master_lv3.txtp"
+    type: battle
+...

@@ -1,0 +1,160 @@
+---
+id: astral_chain
+title: "Astral Chain"
+platform: "Switch"
+year: 2019
+#I could've added more brstms, but let's try starting with these
+songs:
+  - id: ark_mall
+    title: "Ark Mall"
+    path: "Ark Mall.brstm"
+    type: betting
+  - id: ark_mall_combat_phase
+    title: "Ark Mall (Combat Phase)"
+    path: "Ark Mall (Combat Phase).brstm"
+    type: battle
+  - id: ark_sewer_management
+    title: "Ark Sewer Management"
+    path: "Ark Sewer Management.brstm"
+    type: betting
+  - id: astral_plane
+    title: "Astral Plane"
+    path: "Astral Plane.brstm"
+    type: betting
+  - id: astral_plane_combat_phase
+    title: "Astral Plane (Combat Phase)"
+    path: "Astral Plane (Combat Phase).brstm"
+    type: battle
+  - id: case_trial_astral_chain
+    title: "Case Trial"
+    path: "Case Trial.brstm"
+    type: betting
+  - id: central_city_astral_chain
+    title: "Central City"
+    path: "Central City.brstm"
+    type: betting
+  - id: central_city_combat_phase
+    title: "Central City (Combat Phase)"
+    path: "Central City (Combat Phase).brstm"
+    type: battle
+  - id: chasing_jena
+    title: "Chasing Jena"
+    path: "Chasing Jena.brstm"
+    type: betting
+  - id: file_report_background
+    title: "File Report Background"
+    path: "File Report Background.brstm"
+    type: break
+  - id: fragments_of_hope
+    title: "Fragments of Hope"
+    path: "Fragments of Hope.brstm"
+    type: betting
+  - id: hal_s_hideout
+    title: "Hal's Hideout"
+    path: "Hal's Hideout.brstm"
+    type: break
+  - id: harmony_square_station
+    title: "Harmony Square Station"
+    path: "Harmony Square Station.brstm"
+    type: betting
+  - id: harmony_square_station_combat_phase
+    title: "Harmony Square Station (Combat Phase)"
+    path: "Harmony Square Station (Combat Phase).brstm"
+    type: battle
+  - id: homonculus_alpha
+    title: "Homunculus α"
+    path: "Homunculus α.brstm"
+    type: battle
+  - id: homonculus_beta
+    title: "Homunculus β"
+    path: "Homunculus β.brstm"
+    type: battle
+  - id: homonculus_gamma
+    title: "Homunculus γ"
+    path: "Homunculus γ.brstm"
+    type: battle
+  - id: homonculus_delta_first_phase
+    title: "Homunculus Δ (First Phase)"
+    path: "Homunculus Δ (First Phase).brstm"
+    type: betting
+  - id: homonculus_delta_second_phase
+    title: "Homunculus Δ (Second Phase)"
+    path: "Homunculus Δ (Second Phase).brstm"
+    type: battle
+  - id: jena_anderson
+    title: "Jena Anderson"
+    path: "Jena Anderson.brstm"
+    type: battle
+  - id: legion_assault
+    title: "Legion Assault"
+    path: "Legion Assault.brstm"
+    type: battle
+  - id: maison_forest
+    title: "Maison Forest"
+    path: "Maison Forest.brstm"
+    type: betting
+  - id: maison_forest_combat_phase
+    title: "Maison Forest (Combat Phase)"
+    path: "Maison Forest (Combat Phase).brstm"
+    type: battle
+  - id: neuron_hq
+    title: "Neuron HQ"
+    path: "Neuron HQ.brstm"
+    type: break
+  - id: noah_prime
+    title: "Noah Prime"
+    path: "Noah Prime.brstm"
+    type: battle
+  - id: noah_soul_of_ambition
+    title: "Noah, Soul of Ambition"
+    path: "Noah, Soul of Ambition.brstm"
+    type: battle
+  - id: red_alert_astral_chain
+    title: "Red Alert"
+    path: "Red Alert.brstm"
+    type: warning
+  - id: rush_astral_chain
+    title: "Rush!!"
+    path: "Rush!!.brstm"
+    type: battle
+  - id: sadness_astral_chain
+    title: "Sadness"
+    path: "Sadness.brstm"
+    type: result
+  - id: stealth_mission_astral_chain
+    title: "Stealth Mission"
+    path: "Stealth Mission.brstm"
+    type: betting
+  - id: task_force_computer
+    title: "Task Force Computer"
+    path: "Task Force Computer.brstm"
+    type: betting
+  - id: task_force_neuron
+    title: "Task Force Neuron"
+    path: "Task Force Neuron.brstm"
+    type: betting
+  - id: the_last_corridor
+    title: "The Last Corridor"
+    path: "The Last Corridor.brstm"
+    type: warning
+  - id: unused_area_theme_1_astral_chain
+    title: "Unused Area Theme #1"
+    path: "Unused Area Theme #1.brstm"
+    type: betting
+  - id: unused_area_theme_2_astral_chain
+    title: "Unused Area Theme #2"
+    path: "Unused Area Theme #2.brstm"
+    type: betting
+  - id: unused_area_theme_3_astral_chain
+    title: "Unused Area Theme #3"
+    path: "Unused Area Theme #3.brstm"
+    type: betting
+  - id: zone_35_grand_avenue
+    title: "Zone 35 - Grand Avenue"
+    path: "Zone 35 - Grand Avenue.brstm"
+    type: betting
+  - id: zone_35_grand_avenue_combat_phase
+    title: "Zone 35 - Grand Avenue (Combat Phase)"
+    path: "Zone 35 - Grand Avenue (Combat Phase).brstm"
+    type: battle
+...

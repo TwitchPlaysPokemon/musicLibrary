@@ -1,0 +1,99 @@
+---
+id: petal_crash
+title: "Petal Crash"
+platform: ["PC", "Mobile", "Switch", "PS4"]
+year: 2020
+songs: 
+  - id: new_bloom_pt_2
+    title: "New Bloom, Pt. 2"
+    path: "02 - intro part 2.brstm"
+    type: result
+  - id: new_bloom_pt_2_trailer_mix
+    title: "New Bloom, Pt. 2 (Trailer Mix)"
+    path: "XX - intro part 2 trailer mix.brstm"
+    type: result
+  - id: green_room_pc
+    title: "Green Room"
+    path: "03 - menu theme.brstm"
+    type: break
+  - id: petal_crash_course
+    title: "Petal Crash Course"
+    path: "04 - how to play.brstm"
+    type: break
+  - id: fledgling_flowers
+    title: "Fledgling Flowers"
+    path: "05 - scene 1.brstm"
+    type: break
+  - id: follow_after_me_lilibri
+    title: "Follow After Me (Lilibri)"
+    path: "06 - lilibri stage.brstm"
+    type: betting
+  - id: hot_blooded_ambition_strelitz
+    title: "Hot-Blooded Ambition (Strelitz)"
+    path: "07 - strelitz stage.brstm"
+    type: battle
+  - id: perfect_fit_penny_and_deony
+    title: "Perfect Fit (Penny & Deony)"
+    path: "08 - penny & deony stage.brstm"
+    type: betting
+  - id: springtime_step
+    title: "Springtime Step"
+    path: "09 - scene 2.brstm"
+    type: result
+  - id: fracture_ore_kid
+    title: "Fracture (Ore Kid)"
+    path: "10 - ore kid stage.brstm"
+    type: betting
+  - id: silver_lining_daize
+    title: "Silver Lining (Daize)"
+    path: "11 - daize stage.brstm"
+    type: break
+  - id: heart_catcher_yosoti
+    title: "Heart Catcher (Yosoti)"
+    path: "12 - yosoti stage.brstm"
+    type: betting
+  - id: fate_and_fallen_petals
+    title: "Fate and Fallen Petals"
+    path: "13 - scene 3.brstm"
+    type: warning
+  - id: oath_of_the_rosekeeper_rosalia
+    title: "Oath of the Rosekeeper (Rosalia)"
+    path: "14 - rosalia stage.brstm"
+    type: battle
+  - id: frantic_petal_crash_finale
+    title: "Frantic Petal Crash Finale!"
+    path: "15 - final stage.brstm"
+    type: battle
+  - id: seeds_of_promise
+    title: "Seeds of Promise"
+    path: "16 - ending scene.brstm"
+    type: result
+  - id: like_a_bellflower_arlet
+    title: "Like a Bellflower (Arlet)"
+    path: "17 - arlet stage.brstm"
+    type: betting
+  - id: let_s_work_together_libbie
+    title: "Let's Work Together! (Libbie)"
+    path: "18 - libbie stage.brstm"
+    type: betting
+  - id: born_to_storm_the_baz
+    title: "Born to Storm (The Baz)"
+    path: "19 - baz stage.brstm"
+    type: warning
+  - id: encountered_a_baddie_mimi
+    title: "Encountered a Baddie! (Mimi)"
+    path: "20 - mimi stage.brstm"
+    type: warning
+  - id: spring_always_comes_again
+    title: "Spring Always Comes Again"
+    path: "21 - credits.brstm"
+    type: result
+  - id: chipper_challenge_nova
+    title: "Chipper Challenge (Nova)"
+    path: "24 - nova stage.brstm"
+    type: betting
+  - id: amity_and_alchemy_milla
+    title: "Amity and Alchemy (Milla)"
+    path: "25 - milla stage.brstm"
+    type: betting
+...

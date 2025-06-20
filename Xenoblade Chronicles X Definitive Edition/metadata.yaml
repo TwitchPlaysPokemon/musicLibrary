@@ -1,0 +1,37 @@
+---
+id: xenoblade_chronicles_x_definitive_edition
+title: "Xenoblade Chronicles X: Definitive Edition"
+series: xeno
+platform: "Switch"
+year: 2025
+songs: 
+  - id: 2d_travelouge
+    title: "2D-TRAVELOUGE"
+    path: "1050495935.wem"
+    type: break
+  - id: 2n_era
+    title: "2N-ERA"
+    path: "bgm-1125-event.txtp"
+    ends: 2:15
+    type: betting
+  - id: 2s_field_volitaris
+    title: "2S-FIELD (Volitaris)"
+    path: "x83_00_Play.txtp"
+    type: betting
+  - id: 2d_battle_volitaris_battle
+    title: "2D-Battle (Volitaris Battle)"
+    path: "x84_00_Play.txtp"
+    type: battle
+  - id: 2xdlb
+    title: "2XDLB"
+    path: "x85_00_Play.txtp"
+    type: battle #loops from start to finish, but eh it's fine
+  - id: don_t_worry_2xdv
+    title: "Don't worry [2XDv]"
+    path: "Don't worry [2XDv].brstm"
+    type: betting
+  - id: the_key_we_ve_lost_2xdv
+    title: "The key we've lost [2XDv]"
+    path: "The key we've lost [2XDv].brstm"
+    type: battle
+...

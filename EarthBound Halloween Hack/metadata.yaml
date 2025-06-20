@@ -9,4 +9,52 @@ songs:
     title: "Megalovania"
     path: "Megalovania.spc"
     type: betting
+  - id: file_select_halloween_hack
+    title: "File Select"
+    path: "01. File select.spc"
+    type: betting
+  - id: twoson_love_theme_halloween_hack
+    title: "Twoson Love Theme"
+    path: "02. Twoson Love Theme.spc"
+    type: betting
+  - id: synchronicity_halloween_hack
+    title: "Synchronicity"
+    path: "03. Synchronicity.spc"
+    type: betting
+  - id: dark_onett_unused_intro
+    title: "Dark Onett - Unused Intro"
+    path: "04. Dark Onett - Unused Intro.spc"
+    type: warning
+  - id: game_over_halloween_hack
+    title: "Game Over"
+    path: "05. Game Over.spc"
+    type: result
+  - id: file_select_game_over_halloween_hack
+    title: "File Select (Game Over)"
+    path: "06. File select (Game Over).spc"
+    type: result
+  - id: winters_halloween_hack
+    title: "Winters"
+    path: "07. Winters.spc"
+    type: break
+  - id: andonuts_magicant_halloween_hack
+    title: "Andonuts Magicant"
+    path: "08. Andonuts Magicant.spc"
+    type: betting
+  - id: dream_maze_edit
+    title: "Dream Maze (Edit)"
+    path: "09. Dream Maze (Edit).spc"
+    type: break
+  - id: dead_onett
+    title: "Dead Onett"
+    path: "10. Dead Onett.spc"
+    type: betting
+  - id: techno_boss_battle_halloween_hack
+    title: "Techno Boss Battle"
+    path: "11. Techno Boss Battle.spc"
+    type: betting
+  - id: the_id_halloween_hack
+    title: "The Id"
+    path: "12. The Id.spc"
+    type: break
 ...

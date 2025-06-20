@@ -1,0 +1,31 @@
+---
+id: in_stars_and_time
+title: "In Stars and Time"
+platform: ["PC", "Switch", "PS4", "PS5"]
+year: 2023
+songs:
+  - id: let_s_play_rock_paper_scissors
+    title: "Let's Play Rock Paper Scissors!"
+    path: "Let's Play Rock Paper Scissors!.brstm"
+    type: betting
+  - id: how_can_you_help_me_stardust
+    title: "How Can You Help Me, Stardust?"
+    path: "How Can You Help Me, Stardust_.brstm"
+    type: battle
+  - id: how_can_i_help_you_stardust_loop_s_theme
+    title: "How Can I Help You, Stardust? (Loop's Theme)"
+    path: "How Can I Help You, Stardust_ (Loop's Theme).brstm"
+    type: result
+  - id: get_ready_everyone_battle_theme
+    title: "Get Ready, Everyone! (Battle Theme)"
+    path: "Get Ready, Everyone! (Battle Theme) - Fixed Loop.brstm"
+    type: battle
+  - id: do_you_remember_king_s_theme
+    title: "Do You Remember? (King's Theme)"
+    path: "Do You Remember_ (King's Theme) - Fixed Loop.brstm"
+    type: warning
+  - id: be_careful_everyone_boss_theme
+    title: "Be Careful, Everyone! (Boss Theme)"
+    path: "Be Careful, Everyone! (Boss Theme).brstm"
+    type: betting
+...

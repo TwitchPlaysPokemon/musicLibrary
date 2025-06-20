@@ -33,4 +33,25 @@ songs:
     title: "Moa's Song (Aether 4)"
     path: "Moa's Song (Aether 4) Emile van Krieken.brstm"
     type: break
+  - id: high_aether
+    title: "high"
+    path: "high.ogg"
+    ends: 2:22
+    type: betting
+  - id: klepto
+    title: "klepto"
+    path: "klepto.ogg"
+    type: betting
+  - id: chinchilla
+    title: "chinchilla"
+    path: "chinchilla.logg"
+    type: break
+  - id: slider_s_wrath_2024_mix
+    title: "Slider's Wrath (2024 mix)"
+    path: "Slider's Wrath (2024 mix).logg"
+    type: battle
+  - id: trial_by_combat_aether
+    title: "Trial by Combat"
+    path: "Trial by Combat.logg"
+    type: battle
 ...

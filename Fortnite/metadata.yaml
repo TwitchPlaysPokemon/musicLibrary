@@ -1,0 +1,45 @@
+---
+id: fortnite
+title: "Fortnite"
+platform: "Various"
+year: 2017
+#I was checking these, and I *think* they're all original tracks. Can remove any that aren't.
+songs:
+  - id: high_stakes_club
+    title: "High Stakes Club"
+    path: "High Stakes Club.brstm"
+    ends: 3:40
+    type: betting
+  - id: chapter_5_island_theme
+    title: "Chapter 5 Island Theme"
+    path: "Chapter 5 Island Theme.brstm"
+    type: betting
+  - id: marathon_fortnite
+    title: "Marathon"
+    path: "Marathon.brstm"
+    type: betting
+  - id: the_crackdown_fortnite
+    title: "The Crackdown"
+    path: "The Crackdown.brstm"
+    type: betting
+  - id: og_classic
+    title: "OG (Classic)"
+    path: "OG (Classic).brstm"
+    type: betting
+  - id: infinite_dab_fortnite
+    title: "Infinite Dab"
+    path: "Infinite Dab.brstm"
+    type: warning
+  - id: hype_fortnite
+    title: "Hype"
+    path: "Hype.brstm"
+    type: result
+  - id: taco_time_fortnite
+    title: "Taco Time"
+    path: "Taco Time.brstm"
+    type: result
+  - id: take_the_l_fortnite
+    title: "Take the L"
+    path: "Take the L.brstm"
+    type: result
+...

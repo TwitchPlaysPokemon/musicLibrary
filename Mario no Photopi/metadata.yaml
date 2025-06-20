@@ -1,0 +1,80 @@
+---
+id: mario_no_photopi
+title: "Mario no Photopi"
+series: mario
+year: 1998
+platform: "N64"
+songs:
+  - id: title_screen_mnp
+    title: "Title Screen"
+    path: "sparse11.miniusf"
+    type: result
+  - id: main_menu_mnp
+    title: "Main Menu"
+    path: "sparse03.miniusf"
+    type: result
+  - id: print_center
+    title: "Print Center"
+    path: "sparse09.miniusf"
+    type: break
+  - id: photo_studio_mnp
+    title: "Photo Studio"
+    path: "sparse0a.miniusf"
+    type: break
+  - id: gallery_mnp
+    title: "Gallery"
+    path: "sparse0b.miniusf"
+    type: break
+  - id: slideshow_creator
+    title: "Slideshow Creator"
+    path: "sparse05.miniusf"
+    type: break
+  - id: skipping_mnp
+    title: "Skipping"
+    path: "sparse00.miniusf"
+    type: result
+  - id: star_frame
+    title: "Star Frame"
+    path: "sparse02.miniusf"
+    type: break
+  - id: cheese_mnp
+    title: "Cheese!"
+    path: "sparse04.miniusf"
+    type: result
+  - id: picnic_mnp
+    title: "Picnic"
+    path: "sparse06.miniusf"
+    type: betting
+  - id: jump_mnp
+    title: "Jump!"
+    path: "sparse07.miniusf"
+    type: warning
+  - id: a_good_day_mnp
+    title: "A Good Day"
+    path: "sparse0c.miniusf"
+    type: result
+  - id: stroll_mnp
+    title: "Stroll"
+    path: "sparse0d.miniusf"
+    type: result
+  - id: slide_puzzle_mnp
+    title: "Slide Puzzle"
+    path: "sparse0f.miniusf"
+    type: betting
+  - id: options_mnp
+    title: "Options"
+    path: "sparse10.miniusf"
+    type: betting
+  - id: unknown_song_1_mnp
+    title: "Unknown Song 1"
+    path: "sparse01.miniusf"
+    type: result
+  - id: unknown_song_2_mnp
+    title: "Unknown Song 2"
+    path: "sparse08.miniusf"
+    type: warning
+  - id: unknown_song_3_mnp
+    title: "Unknown Song 3"
+    path: "sparse0e.miniusf"
+    type: betting
+...

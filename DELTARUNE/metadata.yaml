@@ -282,6 +282,10 @@ songs:
     title: "When I Get Happy I Dance Like This"
     path: "When I Get Happy I Dance Like This.brstm"
     type: result
+  - id: flashback_excerpt_deltarune
+    title: "Flashback (Excerpt)"
+    path: "flashback_excerpt.txtp"
+    type: warning
 #Unused Episode 2 songs
   - id: castle_town_unfinished
     title: "Castle Town (Unfinished)"
@@ -312,4 +316,297 @@ songs:
     title: "Spamton battle (forgotten)"
     path: "spamton_battle_forgotten.mp3"
     type: warning
+#Episode 3 songs
+  - id: feature_presentation_deltarune
+    title: "Feature Presentation"
+    path: "tennaIntroF1_compressed_28.mp4"
+    type: warning
+  - id: and_now_for_today_s_sponsors
+    title: "And Now For Today's Sponsors...!"
+    path: "baci_perugina.txtp"
+    type: result
+  - id: mike_the_board_please
+    title: "MIKE, the BOARD, please!"
+    path: "ch3_tvtime.txtp"
+    type: result
+  - id: sandy_board_unused
+    title: "Sandy Board (Unused)"
+    path: "ch3_board1.txtp"
+    type: betting
+  - id: adventure_board
+    title: "Adventure Board"
+    path: "board_zelda.txtp"
+    type: betting
+  - id: quiz_deltarune
+    title: "Quiz!"
+    path: "TV_GAME.txtp"
+    type: betting
+  - id: ruder_buster
+    title: "Ruder Buster"
+    path: "rudebuster_boss.txtp"
+    type: battle
+  - id: physical_challenge_deltarune
+    title: "Physical Challenge"
+    path: "minigame_kart.txtp"
+    type: warning
+  - id: welcome_to_the_green_room
+    title: "Welcome to the Green Room"
+    path: "greenroom_detune.txtp"
+    type: break
+  - id: vapor_buster
+    title: "Vapor Buster"
+    path: "battle_vapor.txtp"
+    type: battle
+  - id: paradise_paradise
+    title: "Paradise, Paradise"
+    path: "tenna_island.txtp"
+    type: betting
+  - id: raft_ride_deltarune
+    title: "Raft Ride"
+    path: "ch3_board2.txtp"
+    type: betting
+  - id: raise_up_your_bat
+    title: "Raise Up Your Bat"
+    path: "ch3_karaoke_full.txtp"
+    ends: 2:53
+    type: betting
+  - id: glowing_snow
+    title: "Glowing Snow"
+    path: "tv_results_screen.txtp"
+    type: break
+  - id: big_city_board_unused
+    title: "Big City Board (Unused)"
+    path: "ch3_board3.txtp"
+    type: betting
+  - id: doom_board
+    title: "Doom Board"
+    path: "board_4.txtp"
+    type: betting
+  - id: tv_world
+    title: "TV WORLD"
+    path: "tv_world.txtp"
+    ends: 2:09
+    type: betting
+  - id: it_s_tv_time
+    title: "It's TV Time!"
+    path: "tenna_battle.txtp"
+    type: battle  
+  - id: hall_of_fame_deltarune
+    title: "Hall of Fame"
+    path: "tv_hall_of_fame.txtp"
+    type: result
+  - id: black_knife
+    title: "Black Knife"
+    path: "knight.txtp"
+    type: battle
+  - id: dump_deltarune
+    title: "Dump"
+    path: "tv_changingroom.txtp"
+    type: break
+  - id: sword_deltarune
+    title: "SWORD"
+    path: "board_sword_music.txtp"
+    type: betting
+  - id: northernlight
+    title: "NORTHERNLIGHT"
+    path: "northernlight.txtp"
+    type: warning
+  - id: glaceir
+    title: "GLACEIR"
+    path: "glacier.txtp"
+    type: betting
+  - id: bit_roots
+    title: "BIT ROOTS"
+    path: "root_8bit.txtp"
+    type: warning
+  - id: eram
+    title: "ERAM"
+    path: "nightmare_nes.txtp"
+    type: warning
+  - id: burning_eyes_deltarune
+    title: "BURNING EYES"
+    path: "nightmare_boss_heavy.txtp"
+    type: battle
+  - id: burning_eyes_unused_link_s_awakening_version
+    title: "BURNING EYES (Unused Link's Awakening version)"
+    path: "nightmare_boss_links.txtp"
+    type: battle
+  - id: stealth_unused
+    title: "Stealth (Unused)"
+    path: "stealth.txtp"
+    type: betting
+#Episode 4 songs (feels weird to put these in soundtrack order when the song list sorts them alphabetically, but hey)
+  - id: old_wooden_rafters
+    title: "Old wooden rafters"
+    path: "church_lw.txtp"
+    type: break
+  - id: another_day_in_hometown
+    title: "Another day in hometown"
+    path: "town_day.txtp"
+    type: betting
+  - id: friends_deltarune
+    title: "Friends"
+    path: "susie_diner.txtp"
+    type: break
+  - id: castle_funk
+    title: "Castle Funk"
+    path: "castle_funk_long.txtp"
+    type: betting
+  - id: gingerbread_house_deltarune
+    title: "Gingerbread House"
+    path: "noelle_house_wip.txtp"
+    type: betting
+  - id: the_distance_between_two
+    title: "The distance between two"
+    path: "noelle_distant.txtp"
+    type: warning
+  - id: kris_plays_piano_lancer_waltz
+    title: "Kris Plays Piano - Lancer Waltz"
+    path: "kris_piano_lancer_waltz.ogg"
+    type: result
+  - id: kris_plays_piano_last_prophecy
+    title: "Kris Plays Piano - Last Prophecy"
+    path: "kris_piano_last_prophecy.ogg"
+    type: warning
+  - id: kris_plays_piano_prophecy
+    title: "Kris Plays Piano - Prophecy"
+    path: "kris_piano_prophecy.ogg"
+    type: warning
+  - id: kris_plays_piano_it_s_pronounced_rules
+    title: "Kris Plays Piano - It's Pronounced \"Rules\""
+    path: "kris_piano_rouxls.ogg"
+    type: warning
+  - id: kris_plays_piano_shop
+    title: "Kris Plays Piano - Shop"
+    path: "kris_piano_shop.ogg"
+    type: result
+  - id: kris_plays_piano_waiting_room
+    title: "Kris Plays Piano - Waiting Room"
+    path: "kris_piano_waitingroom.ogg"
+    ends: 1:34
+    type: betting
+  - id: c_deltarune
+    title: "C"
+    path: "carol_appeared.txtp"
+    type: warning  
+  - id: atrium_deltarune
+    title: "ATRIUM"
+    path: "darkchurch_intro.txtp"
+    type: break
+  - id: dark_sanctuary_deltarune
+    title: "Dark Sanctuary"
+    path: "church_wip.txtp"
+    type: betting
+  - id: from_now_on_battle_2
+    title: "From Now On (Battle 2)"
+    path: "ch4_battle.txtp"
+    type: battle
+  - id: gyaa_ha_ha
+    title: "Gyaa Ha ha!"
+    path: "gerson_theme_intro.txtp"
+    type: warning
+  - id: fireplace_deltarune
+    title: "Fireplace"
+    path: "church_dark_study.txtp"
+    ends: 2:38
+    type: betting
+  - id: a_dark_zone
+    title: "A DARK ZONE"
+    path: "pumpkin_boss.txtp"
+    type: battle
+  - id: ever_higher_deltarune
+    title: "Ever Higher"
+    path: "climb.txtp"
+    type: betting
+  - id: wise_words
+    title: "Wise words"
+    path: "gerson_defeated.txtp"
+    type: result
+  - id: hammer_of_justice
+    title: "Hammer of Justice"
+    path: "ch4_extra_boss.txtp"
+    type: battle
+  - id: piano_that_may_not_be_played_that_well
+    title: "Piano that may not be played that well"
+    path: "kris_piano_lower.ogg"
+    type: result
+  - id: 12am_deltarune
+    title: "12AM"
+    path: "church_lw_night.txtp"
+    type: break
+  - id: the_second_sanctuary
+    title: "The Second Sanctuary"
+    path: "second_church.txtp"
+    type: betting
+  - id: ripple_deltarune
+    title: "Ripple"
+    path: "ripple.txtp"
+    ends: 2:30
+    type: betting
+  - id: 13am
+    title: "13AM"
+    path: "tin_night.txtp"
+    type: break
+  - id: the_third_sanctuary
+    title: "The Third Sanctuary"
+    path: "church_zone3.txtp"
+    type: battle
+  - id: dark_place_deltarune
+    title: "Dark Place"
+    path: "dark_place.txtp"
+    type: warning
+  - id: heavy_footsteps_deltarune
+    title: "Heavy Footsteps"
+    path: "titan_pre.txtp"
+    type: warning
+  - id: crumbling_tower_deltarune
+    title: "Crumbling Tower"
+    path: "titan_tower.txtp"
+    ends: 2:46
+    type: betting
+  - id: spawn_deltarune
+    title: "SPAWN"
+    path: "titan_spawn.txtp"
+    type: battle
+  - id: guardian_deltarune
+    title: "GUARDIAN"
+    path: "titan_battle.txtp"
+    type: battle
+  - id: need_a_hand
+    title: "Need a hand!?"
+    path: "oldman_helps_out.txtp"
+    type: result
+  - id: the_place_where_it_rained
+    title: "The place where it rained"
+    path: "rain.txtp"
+    type: break
+  - id: the_ol_jitterbug
+    title: "The Ol' Jitterbug"
+    path: "jitterbug.txtp"
+    type: result  
+  - id: neverending_night
+    title: "Neverending Night"
+    path: "ch4_credits.ogg"
+    ends: 1:39
+    type: betting
+  - id: with_hope_crossed_on_our_hearts
+    title: "With Hope Crossed On Our Hearts"
+    path: "quiet_church.txtp"
+    type: betting
+  - id: volume_adjustment
+    title: "Volume Adjustment"
+    path: "mike_zone.txtp"
+    type: betting
+  - id: catswing_deltarune
+    title: "Catswing"
+    path: "mike.txtp"
+    type: battle
+  - id: air_waves
+    title: "Air Waves"
+    path: "spamton_dance.txtp"
+    type: battle
+  - id: lancer_annoying
+    title: "Lancer (Annoying)"
+    path: "lancer_annoying.txtp"
+    type: result
 ...

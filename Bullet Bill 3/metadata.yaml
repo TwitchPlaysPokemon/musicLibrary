@@ -1,0 +1,65 @@
+---
+id: bullet_bill_3
+title: "Bullet Bill 3"
+series: mario
+platform: "PC" 
+year: 2011
+is_fanwork: true
+songs: 
+  - id: cel8_bitory
+    title: "Cel8-Bitory"
+    path: "Cel8-Bitory.brstm"
+    type: result
+  - id: big_bonus_land
+    title: "Big Bonus Land"
+    path: "Big Bonus Land.brstm"
+    type: result
+  - id: lucid_bill
+    title: "Lucid Bill"
+    path: "Lucid Bill.brstm"
+    type: result
+  - id: koopa_katastrophe
+    title: "Koopa Katastrophe"
+    path: "Koopa Katastrophe.brstm"
+    type: battle
+  - id: the_koopa_komeback
+    title: "The Koopa Komeback"
+    path: "The Koopa Komeback.brstm"
+    type: betting
+  - id: twilight_castle_bb3
+    title: "Twilight Castle"
+    path: "Twilight Castle.brstm"
+    type: betting
+  - id: brush_stoke_of_genius
+    title: "Brush Stroke of Genius"
+    path: "Brush Stroke of Genius.brstm"
+    type: betting
+  - id: wubian_desert
+    title: "Wubian Desert"
+    path: "Wubian Desert.brstm"
+    type: warning
+  - id: i_can_has_nyanners
+    title: "I Can Has Nyanners"
+    path: "I Can Has Nyanners (Nyan Cat).brstm"
+    type: betting
+  - id: subterranean_excavation
+    title: "Subterranean Excavation"
+    path: "Subterranean Excavation.brstm"
+    type: betting
+  - id: aquatic_metal
+    title: "Aquatic Metal"
+    path: "Aquatic Metal.brstm"
+    type: betting
+  - id: world_d_b
+    title: "World D-B"
+    path: "World D-B.brstm"
+    type: betting
+  - id: subcon_synths
+    title: "Subcon Synths"
+    path: "Subcon Synths.brstm"
+    type: betting
+  - id: g_hst_ou_h_s_eo
+    title: "G[hst>ou/H]s:;eo"
+    path: "G[hst_ou_H]s_;eo.brstm"
+    type: warning
+...

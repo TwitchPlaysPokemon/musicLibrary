@@ -1,0 +1,51 @@
+---
+id: total_nuclear_annihilation
+title: "Total Nuclear Annihilation"
+platform: "Pinball"
+year: 2017
+songs:
+  - id: heat_exchanger
+    title: "Heat Exchanger"
+    path: "Heat Exchanger.brstm"
+    type: battle
+  - id: power_grid_tna
+    title: "Power Grid"
+    path: "Power Grid.brstm"
+    type: betting
+  - id: last_mission_tna
+    title: "Last Mission"
+    path: "Last Mission.brstm"
+    type: betting
+  - id: steam_generator
+    title: "Steam Generator"
+    path: "Steam Generator.brstm"
+    type: betting
+  - id: the_armics
+    title: "The Armics"
+    path: "The Armics.brstm"
+    type: battle
+  - id: nineteen_eighty_something
+    title: "Nineteen Eighty Something"
+    path: "Nineteen Eighty Something.brstm"
+    type: betting
+  - id: inroads
+    title: "Inroads"
+    path: "Inroads.brstm"
+    type: betting
+  - id: total_nuclear_annihilation_beepgate_reprise
+    title: "Total Nuclear Annihilation (Beepgate Reprise)"
+    path: "Total Nuclear Annihilation (Beepgate Reprise).brstm"
+    type: result
+  - id: alpha_particles_remastered
+    title: "Alpha Particles (Remastered)"
+    path: "Alpha Particles (Remastered).brstm"
+    type: betting
+  - id: scarlett
+    title: "Scarlett"
+    path: "Scarlett.brstm"
+    type: betting
+  - id: turning_point_tna
+    title: "Turning Point"
+    path: "Turning Point.brstm"
+    type: battle
+...

@@ -1,0 +1,19 @@
+---
+id: pac_brothers
+title: "Pac Brothers"
+platform: "PC"
+year: 2003
+songs: 
+  - id: menu_pac_brothers
+    title: "Menu"
+    path: "Menu.brstm"
+    type: result
+  - id: hurry_up_pac_brothers
+    title: "Hurry Up!"
+    path: "Hurry Up!.brstm"
+    type: warning
+  - id: secret_level_pac_brothers
+    title: "Secret Level"
+    path: "Secret Level.brstm"
+    type: betting
+...

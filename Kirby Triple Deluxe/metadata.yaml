@@ -150,4 +150,62 @@ songs:
     title: "Dedede's Drum Dash: Gourmet Race"
     path: "BGM_LP_GURUMERACE1.dspadpcm.bcstm"
     type: betting
+  - id: mysterious_trap
+    title: "Mysterious Trap"
+    path: "BGM_LP_AYASII1.dspadpcm.bcstm"
+    type: betting
+  - id: the_cave_in_the_sky
+    title: "The Cave in the Sky"
+    path: "BGM_LP_CHIKA1.dspadpcm.bcstm"
+    type: betting
+  - id: toy_rhythm
+    title: "Toy Rhythm"
+    path: "BGM_LP_FAMICOM1.dspadpcm.bcstm"
+    type: betting
+  - id: a_forest_hike
+    title: "A Forest Hike"
+    path: "BGM_LP_FAMIYAMA1.dspadpcm.bcstm"
+    type: betting
+  - id: spinning_jungle
+    title: "Spinning Jungle"
+    path: "BGM_LP_JUNGLE1.dspadpcm.bcstm"
+    type: betting
+  - id: chasing_down_the_miniboss
+    title: "Chasing Down the Miniboss"
+    path: "BGM_LP_MBOSS1.dspadpcm.bcstm"
+    type: battle
+  - id: sky_at_sunset
+    title: "Sky at Sunset"
+    path: "BGM_LP_OKA1.dspadpcm.bcstm"
+    type: betting
+  - id: dededetour_credits
+    title: "Dededetour Credits"
+    path: "BGM_LP_SIMPLE1.dspadpcm.bcstm"
+    ends: 2:11
+    type: betting
+  - id: one_of_the_miracles
+    title: "One of the Miracles"
+    path: "BGM_NOLP_STAFF2.dspadpcm.bcstm"
+    ends: 3:25
+    type: betting
+  - id: must_dash
+    title: "Must Dash!"
+    path: "PLF_DIXIE1.dspadpcm.bcstm"
+    type: betting
+  - id: reflected_laughter
+    title: "Reflected Laughter"
+    path: "PLF_DIXIE2.dspadpcm.bcstm"
+    type: betting
+  - id: moonlight_capital
+    title: "Moonlight Capital"
+    path: "PLF_ELEC1.dspadpcm.bcstm"
+    type: betting
+  - id: kirby_fighters_triple_deluxe
+    title: "Kirby Fighters"
+    path: "PLF_FIGHTTITLE1.dspadpcm.bcstm"
+    type: warning
+  - id: old_odyssey_stage_5
+    title: "Old Odyssey Stage 5"
+    path: "PLF_LP_TRIPPLE1.dspadpcm.bcstm"
+    type: betting
 ...

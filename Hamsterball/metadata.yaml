@@ -1,0 +1,79 @@
+---
+id: hamsterball
+title: "Hamsterball"
+platform: "PC"
+year: 2004
+songs:
+  - id: cascade_carnival_beginner_race
+    title: "Cascade Carnival (Beginner Race)"
+    path: "Beginner Race.brstm"
+    type: betting
+  - id: dizzy_dizzy_race
+    title: "Dizzy! (Dizzy Race)"
+    path: "Dizzy Race.brstm"
+    type: betting
+  - id: fight_for_it_expert_race
+    title: "Fight For It (Expert Race)"
+    path: "Expert Race.brstm"
+    type: battle
+  - id: cages_of_glass_glass_race
+    title: "Cages of Glass (Glass Race)"
+    path: "Glass Race.brstm"
+    type: betting
+  - id: goal_hamsterball
+    title: "Goal!"
+    path: "Goal!.brstm"
+    type: result
+  - id: high_scores_hamsterball
+    title: "High Scores"
+    path: "High Scores.brstm"
+    type: result
+  - id: impossiburu_impossible_race
+    title: "Impossibru! (Impossible Race)"
+    path: "Impossible Race.brstm"
+    type: battle
+  - id: gerbil_groove_intermediate_theme
+    title: "Gerbil Groove (Intermediate Race)"
+    path: "Intermediate Race.brstm"
+    type: battle
+  - id: hamster_ball_theme
+    title: "Hamster Ball Theme"
+    path: "Main Theme.brstm"
+    type: betting
+  - id: master_of_hammers_master_race
+    title: "Master of Hamsters (Master Race)"
+    path: "Master Race.brstm"
+    type: battle
+  - id: neon_rodent_city_neon_race
+    title: "Neon Rodent City (Neon Race)"
+    path: "Neon Race.brstm"
+    type: betting
+  - id: ninja_hamster_odd_race
+    title: "Ninja Hamster (Odd Race)"
+    path: "Odd Race.brstm"
+    type: betting
+  - id: bucky_break_sky_race
+    title: "Bucky Break (Sky Race)"
+    path: "Sky Race.brstm"
+    type: betting
+  - id: rodenthood_toob_race
+    title: "Rodenthood (Toob Race)"
+    path: "Toob Race.brstm"
+    type: betting
+  - id: happy_rush_tower_race
+    title: "Happy Rush! (Tower Race)"
+    path: "Tower Race.brstm"
+    type: betting
+  - id: bad_pellet_trip_up_race
+    title: "Bad Pellet Trip (Up Race)"
+    path: "Up Race.brstm"
+    type: betting
+  - id: hamster_nation_warm_up_race
+    title: "Hamster Nation (Warm-Up Race)"
+    path: "Warm-Up Race.brstm"
+    type: warning
+  - id: hamster_chase_wobbly_race
+    title: "Hamster Chase (Wobbly Race)"
+    path: "Wobbly Race.brstm"
+    type: battle
+...

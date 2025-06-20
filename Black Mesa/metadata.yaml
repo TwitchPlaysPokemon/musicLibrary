@@ -1,0 +1,15 @@
+---
+id: black_mesa
+title: "Black Mesa"
+platform: "PC"
+year: 2020
+songs:
+  - id: internal_conflict_bm
+    title: "Internal Conflict"
+    path: "Internal Conflict.brstm"
+    type: betting
+  - id: we_ve_got_hostiles
+    title: "We've Got Hostiles"
+    path: "We've Got Hostiles.brstm"
+    type: battle
+...

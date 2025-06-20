@@ -777,6 +777,10 @@ songs:
     title: "Battle! (Alder)"
     path: "bgm_battle_adeku.logg"
     type: battle
+  - id: glorious_battle_alder
+    title: "Glorious Battle! (Alder)"
+    path: "bgm_battle_adeku_ax.logg"
+    type: battle
   - id: battle_champion_iris_masters
     title: "Battle! (Champion Iris)"
     path: "bgm_battle_iris.logg"
@@ -992,6 +996,10 @@ songs:
   - id: the_battle_at_the_summit_hau
     title: "The Battle at the Summit! (Hau)"
     path: "bgm_battle_champion_hau.logg"
+    type: battle
+  - id: battle_neo_alola_champion
+    title: "Battle! (Neo Alola Champion)"
+    path: "bgm_battle_neochamp_alola.logg"
     type: battle
 
     #Galar - all songs from Sw/Sh in approx. order

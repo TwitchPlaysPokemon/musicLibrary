@@ -56,4 +56,48 @@ songs:
     title: "That Person's Name Is"
     path: "That Person's Name Is.brstm"
     type: battle
+  - id: the_evil_war
+    title: "The Evil War"
+    path: "Airly_Battle1-02-L.dspadpcm.bcstm"
+    type: battle
+  - id: the_grandship_soars_the_open_skies
+    title: "The Grandship Soars the Open Skies"
+    path: "AirShip-03-L.dspadpcm.bcstm"
+    type: betting
+  - id: there_beyond_the_prayer
+    title: "There Beyond the Prayer"
+    path: "AR-03.dspadpcm.bcstm"
+    type: warning
+  - id: my_ray_of_hope
+    title: "My Ray of Hope"
+    path: "CharaA-02.dspadpcm.bcstm"
+    type: warning
+  - id: where_the_winds_blow
+    title: "Where the Winds Blow"
+    path: "CharaB-01.dspadpcm.bcstm"
+    type: warning
+  - id: fledgling_bravely
+    title: "Fledgling"
+    path: "CharaC-02.dspadpcm.bcstm"
+    type: result
+  - id: romantic_vagrant
+    title: "Romantic Vagrant"
+    path: "CharaD-02.dspadpcm.bcstm"
+    type: result
+  - id: uroboros_the_serpent_that_devours_the_horizon
+    title: "Uroboros, the Serpent That Devours the Horizon"
+    path: "LastBossBattle-A-02-01-L-wait.dspadpcm.bcstm"
+    type: battle
+  - id: ba_al_battle
+    title: "Ba'al Battle"
+    path: "Maou_Battle-ReTake3-L.dspadpcm.bcstm"
+    type: battle
+  - id: everlasting_instant
+    title: "Everlasting Instant"
+    path: "Menu-01-L.dspadpcm.bcstm"
+    type: break
+  - id: grandship_the_sinking_state
+    title: "Grandship, the Sinking State"
+    path: "Shizumi_Country-02-L.dspadpcm.bcstm"
+    type: betting
 ...

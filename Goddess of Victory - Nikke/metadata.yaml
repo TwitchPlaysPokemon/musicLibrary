@@ -164,4 +164,66 @@ songs:
     title: "Title Theme"
     path: "bgm_title.fsb"
     type: result
+#new brstms. I THINK these are new ones, anyway - given the game constantly updates and all
+#if there are any repeats, let me know and I can replace them
+  - id: good_day_commander
+    title: "Good Day Commander"
+    path: "Good Day Commander.brstm"
+    type: betting
+  - id: starseeker
+    title: "Starseeker"
+    path: "Starseeker.brstm"
+    type: battle
+  - id: jump_up_nikke
+    title: "Jump Up"
+    path: "Jump Up.brstm"
+    type: betting
+  - id: bunny_x_777
+    title: "BUNNY X 777"
+    path: "BUNNY X 777.brstm"
+    type: betting
+  - id: tomboy_princess
+    title: "Tomboy Princess"
+    path: "Tomboy Princess.brstm"
+    type: battle
+  - id: headless_angel
+    title: "Headless Angel"
+    path: "Headless Angel (Feat. QUEEN BEE) (In-game loop).brstm"
+    type: betting
+  - id: it_s_showtime_nikke
+    title: "It's SHOWTIME"
+    path: "It's SHOWTIME.brstm"
+    type: betting
+  - id: a_c_p_u_freeze
+    title: "A.C.P.U! Freeze!"
+    path: "A.C.P.U! Freeze!.brstm"
+    type: betting
+  - id: cherry_blossom_nikke
+    title: "Cherry Blossom"
+    path: "Cherry Blossom.brstm"
+    type: betting
+  - id: i_feel_so_alive
+    title: "I FEEL SO ALIVE"
+    path: "I FEEL SO ALIVE.brstm"
+    type: betting
+  - id: boogie_night_nikke
+    title: "Boogie Night"
+    path: "Boogie Night.brstm"
+    type: betting
+  - id: dirty_backyard
+    title: "Dirty Backyard"
+    path: "Dirty Backyard.brstm"
+    type: battle
+  - id: school_of_lock
+    title: "SCHOOL OF LOCK"
+    path: "SCHOOL OF LOCK.brstm"
+    type: betting
+  - id: phantom_thief_vs_detective
+    title: "PHANTOM THIEF VS DETECTIVE"
+    path: "PHANTOM THIEF VS DETECTIVE.brstm"
+    type: battle
+  - id: jinx_player
+    title: "JINX PLAYER"
+    path: "JINX PLAYER (Full version).brstm"
+    type: betting
 ...
