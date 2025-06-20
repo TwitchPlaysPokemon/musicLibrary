@@ -60,4 +60,69 @@ songs:
     title: "Emergency Meeting"
     path: "Emergency Meeting (Custom loop).brstm"
     type: battle
+#crossover tracks. I would add more Castlevania ones, but I swear the txtps are off. Some of them are remixes, others are the original versions, I can't tell which is which
+  - id: moonlight_nocturne_vs
+    title: "Moonlight Nocturne"
+    path: "01_moonlight-nocturne.txtp"
+    type: betting
+  - id: lost_painting_vs
+    title: "Lost Painting"
+    path: "02_lost-painting.txtp"
+    type: battle
+  - id: dance_of_pales_vs
+    title: "Dance of Pales"
+    path: "03_dance-of-pales.txtp"
+    type: battle
+  - id: pitch_black_intrusion_vs
+    title: "Pitch Black Intrusion"
+    path: "04_pitch-black-intrusion.txtp"
+    type: betting
+  - id: dracula_s_tears_vs
+    title: "Dracula's Tears"
+    path: "05_draculas-tears.txtp"
+    type: battle
+  - id: amber_scenery_vs
+    title: "Amber Scenery"
+    path: "06_amber-scenery.txtp"
+    type: betting
+  - id: tragic_prince_vs
+    title: "Tragic Prince"
+    path: "07_tragic-prince.txtp"
+    type: battle
+  - id: a_fierce_engagement_vs
+    title: "A Fierce Engagement"
+    path: "A Fierce Engagement.txtp"
+    type: battle
+  - id: a_quick_warm_up_vs
+    title: "A Quick Warm-up"
+    path: "A Quick Warm-up.txtp"
+    type: battle
+  - id: against_all_odds_vs
+    title: "Against All Odds"
+    path: "Against All Odds.txtp"
+    type: battle
+  - id: ccpd_moving_out_vs
+    title: "CCPD, Moving Out!"
+    path: "CCPD, Moving Out!.txtp"
+    type: battle
+  - id: darkness_incarnate_vs
+    title: "Darkness Incarnate"
+    path: "Darkness Incarnate.txtp"
+    type: battle
+  - id: emerald_destinies_vs
+    title: "Emerald Destinies"
+    path: "Emerald Destinies.txtp"
+    type: betting
+  - id: feel_the_beat_vs
+    title: "Feel the Beat"
+    path: "feel the Beat.txtp"
+    type: betting
+  - id: the_world_s_heartbeat_vs
+    title: "The World's Heartbeat"
+    path: "The World's Heartbeat.txtp"
+    type: battle
+  - id: yumeha_chipper_as_ever_vs
+    title: "Yumeha, Chipper as Ever!"
+    path: "Yumeha, Chipper as Ever!.txtp"
+    type: result
 ...

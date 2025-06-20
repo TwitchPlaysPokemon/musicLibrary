@@ -5,8 +5,269 @@ series: runescape
 platform: "PC"
 year: 2004
 songs: 
+#these items you need to add from 
+#add in these four brstms from the Runescape folder
+  - id: gnome_village
+    title: "Gnome Village"
+    path: "Gnome Village.brstm"
+    type: betting
+  - id: landlubber
+    title: "Landlubber"
+    path: "Landlubber.brstm"
+    type: break
+  - id: meddling_kids
+    title: "Meddling Kids"
+    path: "Meddling Kids.brstm"
+    type: betting
+  - id: gnome_king
+    title: "Gnome King"
+    path: "Gnome King.brstm"
+    type: break
+#these items come from old school runescape's folder
   - id: newbie_melody
     title: "Newbie Melody"
     path: "Newbie Melody.brstm"
+    type: betting
+  - id: autumn_voyage
+    title: "Autumn Voyage"
+    path: "Autumn Voyage.ogg"
+    ends: 2:17
+    type: betting
+  - id: lightness
+    title: "Lightness"
+    path: "Lightness.ogg"
+    ends: 3:05
+    type: betting
+  - id: wander
+    title: "Wander"
+    path: "Wander.ogg"
+    ends: 2:53
+    type: betting
+  - id: yesteryear
+    title: "Yesteryear"
+    path: "Yesteryear.ogg"
+    ends: 2:40
+    type: betting
+  - id: all_s_fairy_in_love_and_war
+    title: "All's Fairy in Love and War"
+    path: "All's Fairy in Love and War.ogg"
+    ends: 2:40
+    type: betting
+  - id: cavernous_mythology
+    title: "Cavernous Mythology"
+    path: "Cavernous Mythology.ogg"
+    type: betting
+  - id: charmin_farmin
+    title: "Charmin' Farmin'"
+    path: "Charmin' Farmin'.ogg"
+    type: betting
+  - id: dogs_of_war
+    title: "Dogs of War"
+    path: "Dogs of War.ogg"
+    ends: 2:43
+    type: betting
+  - id: etcetera
+    title: "Etcetera"
+    path: "Etcetera.ogg"
+    type: betting
+  - id: evil_bob_s_island
+    title: "Evil Bob's Island"
+    path: "Evil Bob's Island.ogg"
+    type: warning
+  - id: malady
+    title: "Malady"
+    path: "Malady.ogg"
+    type: betting
+  - id: miracle_dance
+    title: "Miracle Dance"
+    path: "Miracle Dance.ogg"
+    ends: 3:00
+    type: betting
+  - id: miscellania
+    title: "Miscellania"
+    path: "Miscellania.ogg"
+    type: betting
+  - id: nightfall
+    title: "Nightfall"
+    path: "Nightfall.ogg"
+    type: betting
+  - id: norse_code
+    title: "Norse Code"
+    path: "Norse Code.ogg"
+    type: betting
+  - id: shine
+    title: "Shine"
+    path: "Shine.ogg"
+    ends: 2:35
+    type: betting
+  - id: shining
+    title: "Shining"
+    path: "Shining.ogg"
+    type: betting
+  - id: the_route_of_all_evil
+    title: "The Route of All Evil"
+    path: "The Route of All Evil.brstm"
+    type: betting
+  - id: scape_soft
+    title: "Scape Soft"
+    path: "Scape Soft.brstm"
+    type: break
+  - id: winter_funfare
+    title: "Winter Funfare"
+    path: "Winter Funfare.ogg"
+    ends: 3:16
+    type: betting
+#and finally, these are the new runescape 2 songs
+  - id: a_pirate_s_life_for_me
+    title: "A Pirate's Life For Me"
+    path: "A Pirate's Life For Me.ogg"
+    ends: 2:28
+    type: betting
+  - id: arboretum
+    title: "Arboretum"
+    path: "Arboretum.ogg"
+    type: betting
+  - id: armadyl_alliance
+    title: "Armadyl Alliance"
+    path: "Armadyl Alliance.ogg"
+    ends: 2:58
+    type: betting
+  - id: attack_iv
+    title: "Attack IV"
+    path: "Attack IV.ogg"
+    ends: 2:27
+    type: betting
+  - id: battle_of_souls
+    title: "Battle of Souls"
+    path: "Battle of Souls.logg"
+    type: battle
+  - id: castle_wars
+    title: "Castle Wars"
+    path: "Castle_Wars.logg"
+    type: battle
+  - id: charred_remains
+    title: "Charred Remains"
+    path: "Charred Remains.logg"
+    type: battle
+  - id: dogfight
+    title: "Dogfight"
+    path: "Dogfight.logg"
+    type: battle
+  - id: face_off
+    title: "Face Off"
+    path: "Face Off.logg"
+    type: battle
+  - id: fe_fi_fo_fum
+    title: "Fe Fi Fo Fum"
+    path: "Fe Fi Fo Fum.logg"
+    type: battle
+  - id: give_it_your_pest_shot
+    title: "Give it Your Pest Shot"
+    path: "Give it Your Pest Shot.ogg"
+    type: betting
+  - id: have_an_ice_day
+    title: "Have an Ice Day"
+    path: "Have an Ice Day.ogg"
+    ends: 2:23
+    type: betting
+  - id: honkytonky_sea_shanty
+    title: "Honkytonky Sea Shanty"
+    path: "Honkytonky_Sea_Shanty.ogg"
+    ends: 1:55
+    type: betting
+  - id: iban
+    title: "Iban"
+    path: "Iban.ogg"
+    type: betting
+  - id: ice_day_for_penguins
+    title: "Ice Day For Penguins"
+    path: "Ice Day For Penguins.ogg"
+    type: betting
+  - id: i_m_counting_on_you
+    title: "I'm Counting On You"
+    path: "I'm Counting On You.logg"
+    type: battle
+  - id: jaws_of_the_dagannoth
+    title: "Jaws of the Dagannoth"
+    path: "Jaws of the Dagannoth.logg"
+    type: battle
+  - id: kal_ger_the_warmonger
+    title: "Kal'Ger the Warmonger"
+    path: "Kal'Ger the Warmonger.logg"
+    type: battle
+  - id: love_bites
+    title: "Love Bites"
+    path: "Love Bites.logg"
+    type: battle
+  - id: luminescent_icefiend
+    title: "Luminescent Icefiend"
+    path: "Luminescent Icefiend.logg"
+    type: battle
+  - id: mystery_revealed
+    title: "Mystery Revealed"
+    path: "Mystery Revealed.ogg"
+    type: betting
+  - id: return_of_lucien
+    title: "Return of Lucien"
+    path: "Return of Lucien.logg"
+    type: battle
+  - id: roc_and_roll
+    title: "Roc and Roll"
+    path: "Roc and Roll.logg"
+    type: battle
+  - id: sea_shanty_2
+    title: "Sea Shanty 2"
+    path: "Sea_Shanty_2.ogg"
+    ends: 2:05
+    type: betting
+  - id: soul_wars
+    title: "Soul Wars"
+    path: "Soul Wars.ogg"
+    ends: 3:02
+    type: betting
+  - id: temple_desecrated
+    title: "Temple Desecrated"
+    path: "Temple Desecrated.logg"
+    type: battle
+  - id: the_chosen_commander
+    title: "The Chosen Commander"
+    path: "The Chosen Commander.logg"
+    type: battle
+  - id: the_heist_rs2
+    title: "The Heist"
+    path: "The Heist.ogg"
+    type: betting
+  - id: the_muspah_s_tomb
+    title: "The Muspah's Tomb"
+    path: "The Muspah's Tomb.ogg"
+    type: break
+  - id: the_phoenix_rs2
+    title: "The Phoenix"
+    path: "The Phoenix.ogg"
+    type: betting
+  - id: the_terrible_caverns
+    title: "The Terrible Caverns"
+    path: "The Terrible Caverns.ogg"
+    type: betting
+  - id: undead_army
+    title: "Undead Army"
+    path: "Undead Army.ogg"
+    type: betting
+  - id: unholy_cursebearer
+    title: "Unholy Cursebearer"
+    path: "Unholy Cursebearer.ogg"
+    ends: 2:47
+    type: betting
+  - id: upir_likhyi
+    title: "Upir Likhyi"
+    path: "Upir Likhyi.logg"
+    type: battle
+  - id: yk_lagor_the_thunderous
+    title: "Yk'Lagor the Thunderous"
+    path: "Yk'Lagor the Thunderous.logg"
+    type: battle
+  - id: zombiism
+    title: "Zombiism"
+    path: "Zombiism.ogg"
     type: betting
 ...

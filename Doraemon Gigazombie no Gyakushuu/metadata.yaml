@@ -1,0 +1,20 @@
+---
+id: doraemon_gigazombie_no_gyakushuu
+title: "Doraemon: Gigazombie no Gyakushuu"
+platform: "FDS"
+year: 1990
+#no vgms atm sorry
+songs:
+  - id: underworld_map_doraemon
+    title: "Underworld Map"
+    path: "14. Underworld Map.mp3"
+    type: betting
+  - id: game_over_doraemon
+    title: "Game Over"
+    path: "18. Game Over.mp3"
+    type: result
+  - id: tower_of_evil_king
+    title: "Tower of Evil King"
+    path: "10. Tower of Evil King.mp3"
+    type: betting
+...

@@ -1,0 +1,15 @@
+---
+id: picross_records_of_the_shield_hero
+title: "PICROSS Records of The Shield Hero"
+platform: "Switch"
+year: 2024
+songs: 
+  - id: title_theme_picross_shield_hero
+    title: "Title Theme"
+    path: "bgm_00.fsb"
+    type: betting
+  - id: solving_theme_picross_shield_hero
+    title: "Solving Theme"
+    path: "bgm_01.fsb"
+    type: break
+...

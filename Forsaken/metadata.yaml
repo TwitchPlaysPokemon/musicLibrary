@@ -1,0 +1,45 @@
+---
+id: forsaken_roblox
+title: "Forsaken"
+series: roblox
+platform: "Various"
+year: 2024
+songs:
+  - id: creation_of_hatred
+    title: "CREATION OF HATRED"
+    path: "CREATION OF HATRED.brstm"
+    type: battle
+  - id: cut_throat_tea_party
+    title: "CUT-THROAT TEA PARTY"
+    path: "CUT-THROAT TEA PARTY.brstm"
+    type: battle
+  - id: domino_effect
+    title: "DOMINO EFFECT"
+    path: "DOMINO EFFECT.brstm"
+    type: battle
+  - id: just_survivors_and_killers
+    title: "JUST SURVIVORS AND KILLERS"
+    path: "JUST SURVIVORS AND KILLERS.brstm"
+    ends: 2:21
+    type: betting
+  - id: my_cool_bluu_tune
+    title: "MY COOL BLUU TUNE!!!"
+    path: "MY COOL BLUU TUNE!!!.brstm"
+    type: battle
+  - id: ready_or_not
+    title: "READY OR NOT"
+    path: "READY OR NOT.brstm"
+    type: battle
+  - id: tick_tock
+    title: "Tick Tock"
+    path: "Tick Tock.brstm"
+    type: warning
+  - id: resting_place
+    title: "RESTING PLACE"
+    path: "RESTING PLACE.brstm"
+    type: betting
+  - id: unreggcognizable
+    title: "UNREGGCOGNIZABLE"
+    path: "UNREGGCOGNIZABLE.brstm"
+    type: battle
+...

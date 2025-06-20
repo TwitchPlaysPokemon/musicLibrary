@@ -1,0 +1,15 @@
+---
+id: famidash
+title: "Famidash"
+platform: "NES"
+year: 2024
+songs:
+  - id: menu_theme_famidash
+    title: "Menu Theme"
+    path: "Menu Theme.vgm"
+    type: result
+  - id: cool_boss_theme
+    title: "cool boss theme"
+    path: "cool boss theme.vgm"
+    type: warning
+...

@@ -1,0 +1,47 @@
+---
+id: astro_s_playroom
+title: "Astro's Playroom"
+platform: "PS5"
+year: 2020
+songs:
+  - id: ssd_astro_s_playroom
+    title: "SSD"
+    path: "SSD.brstm"
+    type: betting
+  - id: sdd_speedway_boss
+    title: "SSD Speedway (Boss)"
+    path: "SSD Speedway (Boss).brstm"
+    type: battle
+  - id: 4k_rex
+    title: "4K-Rex"
+    path: "4K-Rex.brstm"
+    type: battle
+  - id: they_don_t_make_m_like_they_used_to
+    title: "They Don't Make'm Like They Used To"
+    path: "They Don't Make'm Like They Used To.brstm"
+    type: break
+  - id: cpu_plaza
+    title: "CPU Plaza"
+    path: "CPU Plaza.brstm"
+    type: betting
+  - id: playstation_gacha
+    title: "PlayStation Gatcha"
+    path: "PlayStation Gatcha.brstm"
+    type: betting
+  - id: playstation_labo
+    title: "PlayStation Labo"
+    path: "PlayStation Labo.brstm"
+    type: betting
+  - id: uplifting_little_number
+    title: "Uplifting Little Number"
+    path: "Uplifting Little Number.brstm"
+    type: result
+  - id: let_s_do_this
+    title: "Let's Do This"
+    path: "Let's Do This.brstm"
+    type: battle
+  - id: goal_astro_s_playroom
+    title: "Goal"
+    path: "Goal.brstm"
+    type: result
+...

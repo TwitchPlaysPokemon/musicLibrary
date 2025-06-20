@@ -41,4 +41,44 @@ songs:
     title: "Title (Mario Party 3)"
     path: "SM_BGM_TITLE_MP3.dspadpcm.bfstm"
     type: result
+  - id: in_a_b_i_g_hurry_superstars
+    title: "In a B-I-G Hurry"
+    path: "In a B-I-G Hurry (Mario Party 3).brstm"
+    type: warning
+  - id: it_s_a_duel_superstars
+    title: "It's a Duel!"
+    path: "It's a Duel!.brstm"
+    type: warning
+  - id: let_s_go_lightly_superstars
+    title: "Let's Go Lightly"
+    path: "Let's Go Lightly.brstm"
+    type: betting
+  - id: let_s_limbo_superstars
+    title: "Let's Limbo!"
+    path: "Let's Limbo!.brstm"
+    type: warning
+  - id: mini_game_results_superstars
+    title: "Mini Game Results"
+    path: "Mini Game Results.brstm"
+    type: result
+  - id: minigame_time_vs_minigame
+    title: "Minigame Time! (VS Minigame)"
+    path: "Minigame Time! (VS Minigame).brstm"
+    type: warning
+  - id: minigame_victory_mario_party_8
+    title: "Minigame Victory (Mario Party 8)"
+    path: "Minigame Victory (Mario Party 8).brstm"
+    type: result
+  - id: take_the_chance_superstars
+    title: "Take the Chance"
+    path: "Take the Chance.brstm"
+    type: betting
+  - id: who_is_the_winner_superstars
+    title: "Who is the Winner?"
+    path: "Who is the Winner_.brstm"
+    type: warning
+  - id: you_re_the_superstar_superstars
+    title: "You're the Superstar!"
+    path: "You're the Superstar!.brstm"
+    type: result
 ...

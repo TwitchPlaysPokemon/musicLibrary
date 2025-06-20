@@ -228,4 +228,37 @@ songs:
     title: "Impasta Syndrome"
     path: "Impasta Syndrome.brstm"
     type: betting
+  - id: a_grain_of_bread_in_a_grain_of_sand
+    title: "A Grain of Bread in a Grain of Sand"
+    path: "A Grain of Bread in a Grain of Sand.brstm"
+    type: warning
+  - id: everybody_wants_to_be_a_secret
+    title: "Everybody Wants To Be A Secret"
+    path: "A Secret In The Trees.brstm"
+    type: betting
+  - id: a_war_secret
+    title: "A War Secret"
+    path: "A War Secret.brstm"
+    type: warning
+  - id: an_interstellar_secret
+    title: "An Interstellar Secret"
+    path: "An Interstellar Secret.brstm"
+    type: break
+  - id: theatrical_shenanigans
+    title: "Theatrical Shenanigans"
+    path: "Theatrical Shenaniganse.brstm"
+    type: betting
+  - id: way_of_the_pig
+    title: "Way Of The Pig"
+    path: "Way Of The Pig.brstm"
+    type: betting
+  - id: secret_lockin
+    title: "Secret Lockin'"
+    path: "Secret Lockin'.brstm"
+    ends: 3:50 #this could honest go on for like six minutes
+    type: betting
+  - id: victorious_degenerate_rank_p
+    title: "Victorious Degenerate [Rank P]"
+    path: "Victorious Degenerate [Rank P].brstm"
+    type: result #doesn't loop but c'mon it's result
 ...

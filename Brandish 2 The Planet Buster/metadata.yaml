@@ -1,0 +1,84 @@
+---
+id: brandish_2_the_planet_buster
+title: "Brandish 2: The Planet Buster [SNES]"
+platform: ["SNES", "PC-98"]
+year: 1993
+songs: 
+  - id: adonis_brandish_2
+    title: "Adonis"
+    path: "Adonis.spc"
+    type: break
+  - id: battle_point_version_a
+    title: "Battle Point Version A"
+    path: "Battle Point Version A.spc"
+    type: warning
+  - id: battle_point_version_b
+    title: "Battle Point Version B"
+    path: "Battle Point Version B.spc"
+    type: warning
+  - id: battle_point_version_c
+    title: "Battle Point Version C"
+    path: "Battle Point Version C.spc"
+    type: warning
+  - id: battle_point_version_d
+    title: "Battle Point Version D"
+    path: "Battle Point Version D.spc"
+    type: warning
+  - id: castle_wall_brandish_2
+    title: "Castle Wall"
+    path: "Castle Wall.spc"
+    type: betting
+  - id: castle_brandish_2
+    title: "Castle"
+    path: "Castle.spc"
+    type: betting
+  - id: dela_delon
+    title: "Dela Delon"
+    path: "Dela Delon.spc"
+    type: warning
+  - id: epilogue_brandish_2
+    title: "Epilogue"
+    path: "Epilogue.spc"
+    type: result
+  - id: gadobadorrer
+    title: "Gadobadorrer"
+    path: "Gadobadorrer.spc"
+    type: battle
+  - id: gadobistall
+    title: "Gadobistall"
+    path: "Gadobistall.spc"
+    type: warning
+  - id: karl_kares
+    title: "Karl Kares"
+    path: "Karl Kares.spc"
+    type: battle
+  - id: laboratory_brandish_2
+    title: "Laboratory"
+    path: "Laboratory.spc"
+    type: betting
+  - id: master_ninja_brandish_2
+    title: "Master Ninja"
+    path: "Master Ninja.spc"
+    type: battle
+  - id: prison_brandish_2
+    title: "Prison"
+    path: "Prison.spc"
+    ends: 2:17
+    type: betting
+  - id: shop_brandish_2
+    title: "Shop"
+    path: "Shop.spc"
+    type: break
+  - id: soldier_s_sorrow
+    title: "Soldier's Sorrow"
+    path: "Soldier's Sorrow.spc"
+    type: betting
+  - id: stranger_wandering_swordsman
+    title: "Stranger ~ Wandering Swordsman"
+    path: "Stranger ~ Wandering Swordsman.spc"
+    type: betting
+  - id: synchronicity_brandish_2
+    title: "Synchronicity"
+    path: "Synchronicity.spc"
+    type: break
+...

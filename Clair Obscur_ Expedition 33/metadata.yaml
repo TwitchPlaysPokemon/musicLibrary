@@ -1,0 +1,31 @@
+---
+id: clair_obscur_expedition_33
+title: "Clair Obscur: Expedition 33"
+platform: ["PS5", "XSX", "PC"]
+year: 2025
+songs:
+  - id: act_2_visages_enemy_battle_theme
+    title: "Act 2 - Visages - Enemy Battle Theme"
+    path: "Act 2 - Visages - Enemy Battle Theme.brstm"
+    type: betting
+  - id: act_2_visages_enemy_battle_victory_screen
+    title: "Act 2 - Visages - Enemy Battle Victory Screen"
+    path: "Act 2 - Visages - Enemy Battle Victory Screen.brstm"
+    type: result
+  - id: act_2_visages_visages_boss_fight_portrait_imparfait
+    title: "Act 2 - Visages - Visages Boss Fight (Portrait Imparfait)"
+    path: "Act 2 - Visages - Visages Boss Fight (Portrait Imparfait).brstm"
+    type: betting
+  - id: act_2_the_monolith_mirror_renior_battle_une_vie_a_t_aimer
+    title: "Act 2 - The Monolith - Mirror-Renoir Battle (Une vie à t'aimer)"
+    path: "Act 2 - The Monolith - Mirror-Renoir Battle (Une vie à t'aimer).brstm"
+    type: battle
+  - id: act_2_the_monolith_mirror_renoir_battle_victory_screen
+    title: "Act 2 - The Monolith - Mirror-Renoir Battle Victory Screen"
+    path: "Act 2 - The Monolith - Mirror-Renoir Battle Victory Screen.brstm"
+    type: result
+  - id: act_3_renoir_s_drafts_background_theme_renoir_piano_solo
+    title: "Act 3 - Renoir's Drafts - Background Theme (Renoir Piano Solo)"
+    path: "Act 3 - Renoir's Drafts - Background Theme (Renoir Piano Solo).brstm"
+    type: break
+...

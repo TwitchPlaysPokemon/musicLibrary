@@ -21,4 +21,49 @@ songs:
     title: "Mechanical Dragon"
     path: "Mechanical Dragon.brstm"
     type: betting
+#I think these aren't duplicates...
+  - id: castle_rock_8_bit
+    title: "Castle Rock (8-Bit)"
+    path: "Castle Rock (8-Bit).brstm"
+    type: betting
+  - id: mariachi_madness_8_bit
+    title: "Mariachi Madness (8-Bit)"
+    path: "Mariachi Madness (8-Bit).brstm"
+    type: betting
+  - id: orchestral_chaos
+    title: "Orchestral Chaos"
+    path: "Orchestral Chaos.brstm"
+    type: betting
+  - id: olympus_maximus_hell_s_gate
+    title: "Olympus Maximus - Hell's Gate"
+    path: "Olympus Maximus - Hell's Gate.brstm"
+    type: battle #maybe?
+  - id: the_shaolin_temple_grandmaster
+    title: "The Shaolin Temple - Grandmaster"
+    path: "The Shaolin Temple - Grandmaster.brstm"
+    type: battle
+  - id: teensies_in_trouble_legends
+    title: "Teensies in Trouble"
+    path: "Teensies in Trouble.brstm"
+    type: betting
+  - id: rescue_mission_20000_lums_under_the_sea
+    title: "Rescue Mission - 20,000 Lums Under the Sea"
+    path: "Rescue Mission - 20,000 Lums Under the Sea.brstm"
+    type: warning
+  - id: the_shaolin_temple_game_over
+    title: "The Shaolin Temple - Game Over"
+    path: "The Shaolin Temple - Game Over.brstm"
+    type: result
+  - id: invaded_intro_1
+    title: "Invaded! (Intro 1)"
+    path: "Invaded! (Intro 1).brstm"
+    type: warning
+  - id: invaded_intro_2
+    title: "Invaded! (Intro 2)"
+    path: "Invaded! (Intro 2).brstm"
+    type: warning
+  - id: score_recap_hand_over_those_lums
+    title: "Score Recap - Hand Over Those Lums!"
+    path: "Score Recap - Hand Over Those Lums!.brstm"
+    type: result
 ...

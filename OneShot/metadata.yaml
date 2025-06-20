@@ -68,4 +68,16 @@ songs:
     title: "To Sleep"
     path: "To Sleep.brstm"
     type: break
+  - id: children_of_the_ruins
+    title: "Children of the Ruins"
+    path: "Children of the Ruins.brstm"
+    type: result #no loop on this one
+  - id: niko_and_the_world_machine
+    title: "Niko and the World Machine"
+    path: "Niko and the World Machine.brstm"
+    type: break
+  - id: sunrise
+    title: "Sunrise"
+    path: "Sunrise.brstm"
+    type: result #again, these brstms don't loop
 ...

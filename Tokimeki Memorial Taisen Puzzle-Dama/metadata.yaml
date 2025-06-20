@@ -1,0 +1,132 @@
+---
+id: tokimeki_memorial_taisen_puzzle_dama
+title: "Tokimeki Memorial Taisen Puzzle-Dama"
+series: tokimekimemorial
+platform: ["Arcade", "PS1", "Saturn", "PC"]
+year: 1995
+songs: 
+  - id: which_girl_will_you_choose_character_select
+    title: "Which Girl Will You Chose? (Character Select)"
+    path: "Which Girl Will You Chose? (Character Select).vgm"
+    type: warning
+  - id: rival_of_love_pre_battle_contention
+    title: "Rival of Love (Pre-Battle Contention)"
+    path: "Rival of Love (Pre-Battle Contention).vgm"
+    type: warning
+  - id: a_sonata_for_you_mio_kisaragi_s_theme
+    title: "A Sonata for You (Mio Kisaragi's Theme)"
+    path: "A Sonata for You (Mio Kisaragi's Theme).vgm"
+    type: result
+  - id: aim_for_the_goal_of_love_yumi_saotome_s_theme
+    title: "Aim! For the Goal of Love! (Yumi Saotome's Theme)"
+    path: "Aim! For the Goal of Love! (Yumi Saotome's Theme).vgm"
+    type: result
+  - id: baby_bird_in_a_basket_yukari_koshiki_s_theme
+    title: "Baby Bird in a Basket (Yukari Koshiki's Theme)"
+    path: "Baby Bird in a Basket (Yukari Koshiki's Theme).vgm"
+    type: break
+  - id: boy_friends_ayako_saotome_s_theme
+    title: "Boy Friends (Ayako Saotome's Theme)"
+    path: "Boy Friends (Ayako Saotome's Theme).vgm"
+    type: result
+  - id: check_it_s_a_check_yoshio_saotome_s_theme
+    title: "Check, It's a Check! (Yoshio Saotome's Theme)"
+    path: "Check, It's a Check! (Yoshio Saotome's Theme).vgm"
+    type: warning
+  - id: high_class_pedigree_rei_ijuuin_s_theme
+    title: "High Class Pedigree (Rei Ijuuin's Theme)"
+    path: "High Class Pedigree (Rei Ijuuin's Theme).vgm"
+    type: result
+  - id: i_want_to_gaze_at_you_nozomi_kiyokawa_s_theme
+    title: "I Want to Gaze at You (Nozomi Kiyokawa's Theme)"
+    path: "I Want to Gaze at You (Nozomi Kiyokawa's Theme).vgm"
+    type: betting
+  - id: jumping_smile_yuuko_asahina_s_theme
+    title: "Jumping Smile (Yuuko Asahina's Theme)"
+    path: "Jumping Smile (Yuuko Asahina's Theme).vgm"
+    type: betting
+  - id: just_a_few_memories_shiori_fujisaki_s_theme
+    title: "Just a Few Memories... (Shiori Fujisaki's Theme)"
+    path: "Just a Few Memories... (Shiori Fujisaki's Theme).vgm"
+    type: break
+  - id: more_than_anyone_else_in_the_world_yuna_himoo_s_theme
+    title: "More Than Anyone Else in the World (Yuna Himoo's Theme)"
+    path: "More Than Anyone Else in the World (Yuna Himoo's Theme).vgm"
+    type: warning
+  - id: teenage_saki_nijino_s_theme
+    title: "Teenage (Saki Nijino's Theme)"
+    path: "Teenage (Saki Nijino's Theme).vgm"
+    type: betting
+  - id: temptation_in_your_eyes_mira_kagami_s_theme
+    title: "Temptation in Your Eyes (Mira Kagami's Theme)"
+    path: "Temptation in Your Eyes (Mira Kagami's Theme).vgm"
+    type: betting
+  - id: that_shop_on_the_way_to_school_megumi_mikihara_s_theme
+    title: "That Shop on the Way to School (Megumi Mikihara's Theme)"
+    path: "That Shop on the Way to School (Megumi Mikihara's Theme).vgm"
+    type: break
+  - id: fun_fun_summer_vacation_map_movement
+    title: "Fun! Fun! Summer Vacation (Map Movement)"
+    path: "Fun! Fun! Summer Vacation (Map Movement).vgm"
+    type: betting
+  - id: love_lesson_practice_mode_stage
+    title: "Love Lesson (Practice Mode Stage)"
+    path: "Love Lesson (Practice Mode Stage).vgm"
+    type: betting
+  - id: time_reflected_in_your_eyes_battle_mode_stage
+    title: "Time Reflected in Your Eyes (Battle Mode Stage)"
+    path: "Time Reflected in Your Eyes (Battle Mode Stage).vgm"
+    type: betting
+  - id: more_more_tokimeki_confession_mode_stage
+    title: "More! More! Tokimeki (Confession Mode Stage)"
+    path: "More! More! Tokimeki (Confession Mode Stage).vgm"
+    type: betting
+  - id: fight_ijuuin_s_stage
+    title: "Fight! (Ijuuin's Stage)"
+    path: "Fight! (Ijuuin's Stage).vgm"
+    type: battle
+  - id: omakase_network_yoshio_s_stage
+    title: "Omakase Network (Yoshio's Stage)"
+    path: "Omakase Network (Yoshio's Stage).vgm"
+    type: result
+  - id: your_short_sleeves_endurance_mode_stage
+    title: "Your Short Sleeves (Endurance Mode Stage)"
+    path: "Your Short Sleeves (Endurance Mode Stage).vgm"
+    type: result
+  - id: carrying_my_feelings_onward_final_stage
+    title: "Carrying My Feelings Onward (Final Stage)"
+    path: "Carrying My Feelings Onward (Final Stage).vgm"
+    type: betting
+  - id: an_album_with_a_single_page_endurance_level_battle_data_display_demo
+    title: "An Album with a Single Page (Endurance Level Battle Data Display Demo)"
+    path: "An Album with a Single Page (Endurance Level Battle Data Display Demo).vgm"
+    type: result
+  - id: at_the_foot_of_the_legendary_tree_legendary_tree_explanation_demo
+    title: "At the Foot of the Legendary Tree (Legendary Tree Explanation Demo)"
+    path: "At the Foot of the Legendary Tree (Legendary Tree Explanation Demo).vgm"
+    type: warning
+  - id: confession_arrival_at_the_legendary_tree
+    title: "Confession (Arrival at the Legendary Tree)"
+    path: "Confession (Arrival at the Legendary Tree).vgm"
+    type: result
+  - id: one_more_breath_in_the_lead
+    title: "One More Breath (In the Lead)"
+    path: "One More Breath (In the Lead).vgm"
+    type: warning
+  - id: please_stop_danger
+    title: "Please, Stop! (Danger)"
+    path: "Please, Stop! (Danger).vgm"
+    type: warning
+  - id: when_we_re_together_happy_ending
+    title: "When We're Together (Happy Ending)"
+    path: "When We're Together (Happy Ending).vgm"
+    type: result
+  - id: poem_of_the_effeminate_losers_bad_ending
+    title: "Poem of the Effeminate Losers (Bad Ending)"
+    path: "Poem of the Effeminate Losers (Bad Ending).vgm"
+    type: result
+  - id: attack_once_more_continue
+    title: "Attack Once More (Continue)"
+    path: "Attack Once More (Continue).vgm"
+    type: warning
+...

@@ -1,0 +1,143 @@
+---
+id: spongebob_squarepants_supersponge
+title: "SpongeBob SquarePants: SuperSponge"
+platform: ["PS1", "GBA"]
+year: 2021 
+songs:
+  - id: title_supersponge
+    title: "Title"
+    path: "01 Title.minipsf"
+    type: result
+  - id: options_supersponge
+    title: "Options"
+    path: "02 Options.minipsf"
+    type: break
+  - id: save_file_select_supersponge
+    title: "Save File Select"
+    path: "03 Save File Select.minipsf"
+    type: betting
+  - id: cutscene_supersponge
+    title: "Cutscene"
+    path: "04 Cutscene.minipsf"
+    type: result
+  - id: map_supersponge
+    title: "Map"
+    path: "05 Map.minipsf"
+    type: warning
+  - id: jelly_fields
+    title: "Jelly Fields"
+    path: "06 Jelly Fields.minipsf"
+    type: betting
+  - id: sandy_s_tree_dome
+    title: "Sandy's Tree Dome"
+    path: "07 Sandy's Tree Dome.minipsf"
+    type: betting
+  - id: fish_hooks_park
+    title: "Fish Hooks Park"
+    path: "08 Fish Hooks Park.minipsf"
+    type: betting
+  - id: jelly_fields_downtown_bikini_bottom
+    title: "Jelly Fields (Downtown Bikini Bottom)"
+    path: "09 Jelly Fields (Downtown Bikini Bottom).minipsf"
+    type: betting
+  - id: mother_jellyfish
+    title: "Mother Jellyfish"
+    path: "10 Mother Jellyfish.minipsf"
+    type: result
+  - id: big_wheel_and_tunnel_of_love
+    title: "Big Wheel & Tunnel Of Love"
+    path: "11 Big Wheel & Tunnel Of Love.minipsf"
+    type: break
+  - id: shop_supersponge
+    title: "Shop"
+    path: "12 Shop.minipsf"
+    type: warning
+  - id: cavernous_canyons_and_acrid_air_pockets
+    title: "Cavernous Canyons & Acrid Air Pockets"
+    path: "13 Cavernous Canyons & Acrid Air Pockets.minipsf"
+    type: betting
+  - id: thermal_tunnels
+    title: "Thermal Tunnels"
+    path: "14 Thermal Tunnels.minipsf"
+    type: betting
+  - id: lava_fields_supersponge
+    title: "Lava Fields"
+    path: "15 Lava Fields.minipsf"
+    type: betting
+  - id: sub_shark
+    title: "Sub-Shark"
+    path: "16 Sub-Shark.minipsf"
+    type: warning
+  - id: roller_coaster_and_snail_race
+    title: "Roller Coaster & Snail Race"
+    path: "17 Roller Coaster & Snail Race.minipsf"
+    type: warning
+  - id: precipice_canyon
+    title: "Precipice Canyon"
+    path: "18 Precipice Canyon.minipsf"
+    type: warning
+  - id: desert_wasteland_and_kelpazoic_jungle
+    title: "Desert Wasteland & Kelpazoic Jungle"
+    path: "19 Desert Wasteland & Kelpazoic Jungle.minipsf"
+    type: betting
+  - id: inside_the_whale_supersponge
+    title: "Inside The Whale"
+    path: "20 Inside The Whale.minipsf"
+    type: betting
+  - id: parasitic_worm_intro_unused
+    title: "Parasitic Worm Intro (Unused)"
+    path: "21 Parasitic Worm Intro (Unused).minipsf"
+    type: warning
+  - id: parasitic_worm
+    title: "Parasitic Worm"
+    path: "22 Parasitic Worm.minipsf"
+    type: warning
+  - id: road_to_rock_bottom
+    title: "Road To Rock Bottom"
+    path: "23 Road To Rock Bottom.minipsf"
+    type: result
+  - id: lonely_souls_and_last_stop
+    title: "Lonely Souls & Last Stop"
+    path: "24 Lonely Souls & Last Stop.minipsf"
+    type: betting
+  - id: graveyard_supersponge
+    title: "Graveyard"
+    path: "25 Graveyard.minipsf"
+    type: betting
+  - id: the_flying_dutchman_supersponge
+    title: "The Flying Dutchman"
+    path: "26 The Flying Dutchman.minipsf"
+    type: warning
+  - id: ghost_train_supersponge
+    title: "Ghost Train"
+    path: "27 Ghost Train.minipsf"
+    type: betting
+  - id: industrial_fields_jelly_fields_2_and_oil_rig
+    title: "Industrial Fields (Jelly Fields 2) & Oil Rig"
+    path: "28 Industrial Fields (Jelly Fields 2) & Oil Rig.minipsf"
+    type: betting
+  - id: man_ray_s_lair
+    title: "Man Ray's Lair"
+    path: "29 Man Ray's Lair.minipsf"
+    type: break
+  - id: canning_factory
+    title: "Canning Factory"
+    path: "30 Canning Factory.minipsf"
+    type: result
+  - id: iron_dogfish
+    title: "Iron Dogfish"
+    path: "31 Iron Dogfish.minipsf"
+    type: warning
+  - id: party_scene_unused
+    title: "Party Scene (Unused)"
+    path: "32 Party Scene (Unused).minipsf"
+    type: result
+  - id: credits_supersponge
+    title: "Credits"
+    path: "33 Credits.minipsf"
+    type: result
+  - id: fairground_big_top_unused
+    title: "Fairground - Big Top (Unused)"
+    path: "34 Fairground - Big Top (Unused).minipsf"
+    type: result
+...

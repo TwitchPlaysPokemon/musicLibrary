@@ -1,0 +1,86 @@
+---
+id: pyuu_to_fuku_jaguar_byoo_to_deru_megane_kun
+title: "Pyuu to Fuku! Jaguar - Byoo to Deru! Megane-kun"
+year: 2004
+platform: "GBA"
+#notoriously obscure GBA game based on a comedy manga running in Weekly Shonen Jump from 2000-2010. 
+#main reason I'm including it is because as it was published by Konami, it includes a bunch of parodies of their games
+#some music-wise. You'll know them when you see them
+songs:
+  - id: bgm_01_ptfj
+    title: "BGM #01"
+    path: "01 BGM #01.minigsf"
+    type: result
+  - id: bgm_02_ptfj
+    title: "BGM #02"
+    path: "02 BGM #02.minigsf"
+    type: warning
+  - id: bgm_03_ptfj
+    title: "BGM #03"
+    path: "03 BGM #03.minigsf"
+    type: betting
+  - id: bgm_04_ptfj
+    title: "BGM #04"
+    path: "04 BGM #04.minigsf"
+    type: result
+  - id: bgm_05_ptfj
+    title: "BGM #05"
+    path: "05 BGM #05.minigsf"
+    type: warning
+  - id: bgm_06_ptfj
+    title: "BGM #06"
+    path: "06 BGM #06.minigsf"
+    type: betting
+  - id: bgm_07_ptfj
+    title: "BGM #07"
+    path: "07 BGM #07.minigsf"
+    type: betting
+  - id: bgm_08_ptfj
+    title: "BGM #08"
+    path: "08 BGM #08.minigsf"
+    type: betting
+  - id: bgm_09_ptfj
+    title: "BGM #09"
+    path: "09 BGM #09.minigsf"
+    type: warning
+  - id: bgm_10_ptfj
+    title: "BGM #10"
+    path: "10 BGM #10.minigsf"
+    type: battle
+  - id: bgm_11_ptfj
+    title: "BGM #11"
+    path: "11 BGM #11.minigsf"
+    type: betting
+  - id: bgm_12_ptfj
+    title: "BGM #12"
+    path: "12 BGM #12.minigsf"
+    type: battle
+  - id: bgm_13_ptfj
+    title: "BGM #13"
+    path: "13 BGM #13.minigsf"
+    type: result
+  - id: bgm_14_ptfj
+    title: "BGM #14"
+    path: "14 BGM #14.minigsf"
+    type: betting
+  - id: bgm_15_ptfj
+    title: "BGM #15"
+    path: "15 BGM #15.minigsf"
+    type: result
+  - id: bgm_16_ptfj
+    title: "BGM #16"
+    path: "16 BGM #16.minigsf"
+    type: battle
+  - id: bgm_17_ptfj
+    title: "BGM #17"
+    path: "17 BGM #17.minigsf"
+    type: warning
+  - id: bgm_18_ptfj
+    title: "BGM #18"
+    path: "18 BGM #18.minigsf"
+    type: betting
+  - id: bgm_19_ptfj
+    title: "BGM #19"
+    path: "19 BGM #19.minigsf"
+    type: result
+...

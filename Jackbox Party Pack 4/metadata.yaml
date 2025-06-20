@@ -74,4 +74,16 @@ songs:
     title: "Survive the Internet: Reveal"
     path: "Survive the Internet Reveal.logg"
     type: warning
+  - id: survive_the_internet_opening
+    title: "Survive the Internet: Opening"
+    path: "Survive the Internet_ Opening.brstm"
+    type: result
+  - id: survive_the_internet_lobby
+    title: "Survive the Internet: Lobby"
+    path: "Survive the Internet_ Lobby.brstm"
+    type: betting
+  - id: survive_the_internet_credits
+    title: "Survive the Internet: Credits"
+    path: "Survive the Internet_ Credits.brstm"
+    type: result
 ...

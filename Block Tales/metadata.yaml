@@ -141,4 +141,52 @@ songs:
     title: "Turkey"
     path: "Turkey.brstm"
     type: battle
+  - id: ancient_tomb_block_tales
+    title: "Ancient Tomb"
+    path: "Ancient Tomb.brstm"
+    type: betting
+  - id: bizville_docks
+    title: "Bizville Docks"
+    path: "Bizville Docks.brstm"
+    type: betting
+  - id: captain_trotter
+    title: "Captain Trotter"
+    path: "Captain Trotter.brstm"
+    type: battle
+  - id: desert_battle_block_tales
+    title: "Desert Battle"
+    path: "Desert Battle.brstm"
+    type: battle
+  - id: pirate_camp_block_tales
+    title: "Pirate Camp"
+    path: "Pirate Camp.brstm"
+    type: betting
+  - id: scorched_dunes_block_tales
+    title: "Scorched Dunes"
+    path: "Scorched Dunes.brstm"
+    type: betting
+  - id: supreme_mosquito
+    title: "Supreme Mosquito"
+    path: "Supreme Mosquito.brstm"
+    type: betting
+  - id: temple_guardian_block_tales
+    title: "Temple Guardian"
+    path: "Temple Guardian.brstm"
+    type: battle
+  - id: the_ancients_block_tales
+    title: "The Ancients"
+    path: "The Ancients.brstm"
+    type: battle
+  - id: the_great_floccinaucinihilipilification
+    title: "The Great Floccinaucinihilipilification"
+    path: "The Great Floccinaucinihilipilification.brstm"
+    type: betting
+  - id: the_pit_block_tales
+    title: "The Pit"
+    path: "The Pit.brstm"
+    type: break
+  - id: the_temple_of_the_red_sun
+    title: "The Temple of the Red Sun"
+    path: "The Temple of the Red Sun.brstm"
+    type: betting
 ...

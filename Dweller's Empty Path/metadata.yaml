@@ -1,0 +1,79 @@
+---
+id: dweller_s_empty_path
+title: "Dweller's Empty Path"
+year: 2020
+platform: "PC"
+songs:
+  - id: leaves_fill_the_path
+    title: "Leaves Fill The Path"
+    path: "Leaves Fill The Path.brstm"
+    type: betting
+  - id: forgotten_memories_dep
+    title: "Forgotten Memories"
+    path: "Forgotten Memories.brstm"
+    type: break
+  - id: inside_the_castle_dep
+    title: "Inside the Castle"
+    path: "Inside the Castle.brstm"
+    type: betting
+  - id: colossal_evil_dep
+    title: "Colossal Evil"
+    path: "Colossal Evil.brstm"
+    type: warning
+  - id: zera
+    title: "Zera"
+    path: "Zera.brstm"
+    type: warning
+  - id: flying_through_a_starry_sky
+    title: "Flying Through A Starry Sky"
+    path: "Flying Through A Starry Sky.brstm"
+    type: break
+  - id: temmie_s_room
+    title: "Temmie's Room"
+    path: "Temmie's Room.brstm"
+    type: result
+  - id: always_this_graveyard_is_gloomy
+    title: "Always this graveyard is gloomy"
+    path: "Always this graveyard is gloomy.brstm"
+    type: warning
+  - id: cool_cat
+    title: "Cool Cat"
+    path: "Cool Cat.brstm"
+    type: result
+  - id: buy_something_will_you_can_t
+    title: "Buy Something Will You (Can't)"
+    path: "Buy Something Will You (Can't).brstm"
+    type: betting
+  - id: be_brave
+    title: "Be Brave!"
+    path: "Be Brave!.brstm"
+    type: battle
+  - id: beneath_the_towering_castle_dep
+    title: "Beneath the Towering Castle"
+    path: "Beneath the Towering Castle.brstm"
+    type: warning
+  - id: frozen_palace_dep
+    title: "Frozen Palace"
+    path: "Frozen Palace.brstm"
+    type: betting
+  - id: fulgent_crystal
+    title: "Fulgent Crystal"
+    path: "Fulgent Crystal.brstm"
+    type: betting
+  - id: officeish_space
+    title: "Officeish Space"
+    path: "Officeish Space.brstm"
+    type: break
+  - id: aimottle_s_house
+    title: "Aimottle's House"
+    path: "Aimottle's House.brstm"
+    type: betting
+  - id: something_is_off_dep
+    title: "Something Is Off"
+    path: "Something Is Off.brstm"
+    type: warning
+  - id: so_speedy_temmie_s_room
+    title: "So Speedy Temmie's ROom"
+    path: "So Speedy Temmie's ROom.brstm"
+    type: warning
+...
