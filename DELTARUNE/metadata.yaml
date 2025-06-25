@@ -367,7 +367,7 @@ songs:
     type: betting
   - id: raise_up_your_bat
     title: "Raise Up Your Bat"
-    path: "ch3_karaoke_full.txtp"
+    path: "ch3_karaoke_full.ogg"
     ends: 2:53
     type: betting
   - id: glowing_snow
@@ -435,6 +435,10 @@ songs:
     title: "Stealth (Unused)"
     path: "stealth.txtp"
     type: betting
+  - id: find_her
+    title: "Find Her"
+    path: "findher.logg"
+    type: break
 #Episode 4 songs (feels weird to put these in soundtrack order when the song list sorts them alphabetically, but hey)
   - id: old_wooden_rafters
     title: "Old wooden rafters"
