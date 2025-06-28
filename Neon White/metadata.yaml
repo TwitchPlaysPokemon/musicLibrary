@@ -36,7 +36,8 @@ songs:
   - id: house_of_cards
     title: "House of Cards"
     path: "House of Cards.brstm"
-    type: pendulum
+    type: betting
+  - id: pendulum
     title: "Pendulum"
     path: "Pendulum.brstm"
     type: battle
