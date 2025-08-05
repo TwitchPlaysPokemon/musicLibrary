@@ -3,7 +3,7 @@ id: a_hat_in_time
 title: "A Hat in Time"
 platform: Various
 year: 2017
-songs: 
+songs:
   - id: title_screen_a_hat_in_time
     title: "Title Screen"
     path: "Title Screen.brstm"
@@ -457,7 +457,7 @@ songs:
     title: "Subcon Village (Sinister)"
     path: "Subcon Village (Sinister).brstm"
     type: betting
-  - id: The Battle of Award 42 (Phase 2)
+  - id: the_battle_of_award_42_phase_2
     title: "The Battle of Award 42 (Phase 2)"
     path: "The Battle of Award 42 (Phase 2).brstm"
     type: warning

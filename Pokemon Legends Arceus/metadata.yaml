@@ -30,7 +30,7 @@ songs:
     title: "Battle: Giratina (Phase 1)"
     path: "PLAY_BGM_VS_BOSS_03 (BGM_BOSS03=BOSS03_START).txtp"
     type: battle
-  - id: battle_vs_giratina__phase 2
+  - id: battle_vs_giratina_phase_2
     title: "Battle: Giratina (Phase 2)"
     path: "PLAY_BGM_VS_BOSS_03 (BGM_BOSS03=BOSS03_REVIVAL).txtp"
     type: battle
@@ -110,7 +110,7 @@ songs:
     title: "Galaxy Hall"
     path: "BGM-1833-event (138161768=10613464).txtp"
     type: betting
-  - id: obsidian_fieldlands:_1-1
+  - id: obsidian_fieldlands_1_1
     title: "Obsidian Fieldlands 1"
     path: "PLAY_BGM_HA_FI_AREA01_DAY (BGM_AREA=BGM_AREA01)(BGM_AREA01_LV=AREA01_LV1)(BGM_TIME=BGM_DAY) {r1}.txtp"
     type: betting

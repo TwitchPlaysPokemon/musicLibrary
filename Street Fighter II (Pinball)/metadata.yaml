@@ -1,0 +1,36 @@
+---
+id: street_fighter_ii_pinball
+title: "Street Fighter II [Pinball]"
+series: streetfighter
+platform: "Pinball"
+year: 1993
+songs:
+  - id: u_s_a_ken
+    title: "U.S.A. (Ken)"
+    path: "02 U.S.A. (Ken).vgz"
+    type: betting
+  - id: u_s_a_guile
+    title: "U.S.A. (Guile)"
+    path: "03 U.S.A. (Guile).vgz"
+    type: betting
+  - id: brazil_blanka
+    title: "Brazil (Blanka)"
+    path: "04 Brazil (Blanka).vgz"
+    type: betting
+  - id: spain_vega
+    title: "Spain (Vega)"
+    path: "05 Spain (Vega).vgz"
+    type: betting
+  - id: player_select_sf2p
+    title: "Player Select"
+    path: "06 Player Select.vgz"
+    type: warning
+  - id: japan_ryu
+    title: "Japan (Ryu)"
+    path: "07 Japan (Ryu).vgz"
+    type: betting
+  - id: u_s_a_balrog
+    title: "U.S.A. (Balrog)"
+    path: "08 U.S.A. (Balrog).vgz"
+    type: betting
+...

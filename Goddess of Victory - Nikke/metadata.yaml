@@ -226,4 +226,266 @@ songs:
     title: "JINX PLAYER"
     path: "JINX PLAYER (Full version).brstm"
     type: betting
+#collab tracks now
+  - id: outer_automata_abnormal_market
+    title: "OuteR: Automata - Abnormal Market"
+    path: "OuteR_ Automata - Abnormal Market.brstm"
+    type: result
+  - id: white_memory_6d696e6420737769746368
+    title: "White Memory - 6d696e6420737769746368"
+    path: "White Memory - 6d696e6420737769746368.brstm"
+    type: break
+  - id: old_tales_a_path_with_broken_heels
+    title: "OLD TALES - A path with Broken Heels"
+    path: "OLD TALES - A path with Broken Heels.brstm"
+    type: battle
+  - id: memory_of_goddess_armybase_stage
+    title: "Memory Of Goddess - armybase stage"
+    path: "Memory Of Goddess - armybase stage.brstm"
+    type: betting
+  - id: bullet_x_chainsaw_3dge_of_bullet_title_ver
+    title: "BULLET X CHAINSAW - 3DGE OF BULLET (Title Ver.)"
+    path: "BULLET X CHAINSAW - 3DGE OF BULLET (Title Ver.).brstm"
+    type: betting
+  - id: bullet_x_chainsaw_3dge_of_bullet
+    title: "BULLET X CHAINSAW - 3DGE OF BULLET"
+    path: "BULLET X CHAINSAW - 3DGE OF BULLET.brstm"
+    type: battle
+  - id: outer_automate_beyond_the_stars_hacking
+    title: "OuteR: Automata - Beyond the stars (Hacking)"
+    path: "OuteR_ Automata - Beyond the stars (Hacking).brstm"
+    ends: 3:00
+    type: betting
+  - id: bass_bomb
+    title: "BASS BOMB"
+    path: "BASS BOMB.brstm"
+    type: betting
+  - id: beauty_full_shot
+    title: "Beauty Full Shot"
+    path: "Beauty Full Shot.brstm"
+    type: battle
+  - id: beauty_full_shot_coral
+    title: "Beauty Full Shot - Coral"
+    path: "Beauty Full Shot - Coral.brstm"
+    type: break
+  - id: artificial_shangri_la
+    title: "Artificial Shangri-La"
+    path: "Artificial Shangri-La.brstm"
+    type: result
+  - id: artificial_shangri_la_retro_mix
+    title: "Artificial Shangri-La (retro mix)"
+    path: "Artificial Shangri-La (retro mix).brstm"
+    type: betting
+  - id: booms_day
+    title: "BOOMS DAY"
+    path: "BOOMS DAY (feat. Hunger Noma and nonebart).brstm"
+    type: betting
+  - id: chromosome
+    title: "chromosome"
+    path: "chromosome.brstm"
+    type: betting
+  - id: ice_dragon_demon_king_s_castle
+    title: "ICE DRAGON SAGA - Demon King's Castle"
+    path: "ICE DRAGON SAGA - Demon King's Castle.brstm"
+    type: betting
+  - id: memory_of_goddess_desert_stage
+    title: "Memory Of Goddess - desert stage"
+    path: "Memory Of Goddess - desert stage.brstm"
+    type: battle
+  - id: eeeeeeeee_ntertainment
+    title: "EEEEEEEEE-ntertainment"
+    path: "EEEEEEEEE-ntertainment.brstm"
+    type: betting
+  - id: dilemma_nikke
+    title: "Dilemma"
+    path: "Dilemma.brstm"
+    type: betting
+  - id: alone_survivor
+    title: "ALONE SURVIVOR"
+    path: "ALONE SURVIVOR.brstm"
+    type: break
+  - id: you_can_not_evade_battle_simulation
+    title: "You Can (Not) Evade - BATTLE SIMULATION"
+    path: "You Can (Not) Evade - BATTLE SIMULATION.brstm"
+    type: warning
+  - id: burn_it_all_nikke
+    title: "Burn It All"
+    path: "Burn It All (feat. A.MON and Springhead).brstm"
+    type: battle
+  - id: last_kingdom_brace_for_impact
+    title: "LAST KINGDOM - Brace for Impact"
+    path: "LAST KINGDOM - Brace for Impact.brstm"
+    type: warning
+  - id: unbreakable_sphere_black_space
+    title: "Unbreakable Sphere - Black Space"
+    path: "Unbreakable Sphere - Black Space.brstm"
+    type: warning
+  - id: footstep_walk_run_rising_higher_short_instrumental
+    title: "Footstep, Walk, Run - Rising Higher (Short Instrumental)"
+    path: "Footstep, Walk, Run - Rising Higher (Short Instrumental).brstm"
+    type: warning
+  - id: miracle_snow_pick_up
+    title: "Miracle Snow - pick up☆"
+    path: "Miracle Snow - pick up.brstm"
+    type: betting
+  - id: the_ark_nikke
+    title: "the Ark"
+    path: "the Ark.brstm"
+    type: betting
+  - id: romantic_valentine_pirate_cafe
+    title: "Romantic Valentine - Pirate Cafe"
+    path: "Romantic Valentine - Pirate Cafe.brstm"
+    type: result
+  - id: romantic_valentine_special_omurice
+    title: "Romantic Valentine - Special Omurice"
+    path: "Romantic Valentine - Special Omurice.brstm"
+    type: result
+  - id: re_cipe_for_you_humming_kitchen
+    title: "Re:CIPE FOR YOU - Humming Kitchen"
+    path: "Re_CIPE FOR YOU - Humming Kitchen.brstm"
+    type: result
+  - id: memory_of_goddess_menu
+    title: "Memory Of Goddess - menu"
+    path: "Memory Of Goddess - menu.brstm"
+    type: result
+  - id: memory_of_goddess_spring
+    title: "Memory Of Goddess - spring"
+    path: "Memory Of Goddess - spring.brstm"
+    type: result
+  - id: para_dice
+    title: "Para-DICE"
+    path: "Para-DICE.brstm"
+    type: betting
+  - id: old_tales_first_page
+    title: "OLD TALES - First Page"
+    path: "OLD TALES - First Page.brstm"
+    type: betting
+  - id: re_cipe_for_you_smile_rabbit_omurice
+    title: "Re:CIPE FOR YOU - Smile Rabbit Omurice"
+    path: "Re_CIPE FOR YOU - Smile Rabbit Omurice.brstm"
+    type: betting
+  - id: neverland_schedule_check_day
+    title: "NEVERLAND - Schedule Check (Day)"
+    path: "NEVERLAND - Schedule Check (Day).brstm"
+    type: break
+  - id: meditation_nikke
+    title: "Meditation"
+    path: "Meditation.brstm"
+    type: break
+  - id: last_kingdom_final_protective_line
+    title: "LAST KINGDOM - Final Protective Line"
+    path: "LAST KINGDOM - Final Protective Line.brstm"
+    type: betting
+  - id: last_kingdom_front_of_the_castle
+    title: "LAST KINGDOM - Front of the Castle"
+    path: "LAST KINGDOM - Front of the Castle.brstm"
+    type: betting
+  - id: take_my_money_nikke
+    title: "Take My MONEY!!"
+    path: "Take My MONEY!!.brstm"
+    type: result
+  - id: holy_crab
+    title: "HOLY CRAB"
+    path: "HOLY CRAB.brstm"
+    type: result
+  - id: memory_of_goddess_grass_stage
+    title: "Memory Of Goddess - grass stage"
+    path: "Memory Of Goddess - grass stage.brstm"
+    type: betting
+  - id: neverland_schedule_check_sunset
+    title: "NEVERLAND - Schedule Check (Sunset)"
+    path: "NEVERLAND - Schedule Check (Sunset).brstm"
+    type: break
+  - id: memory_of_goddess_the_redhood_mog_ver
+    title: "Memory Of Goddess - the redhood mog ver."
+    path: "Memory Of Goddess - the redhood mog ver..brstm"
+    type: warning
+  - id: old_tale_mirror
+    title: "OLD TALES - mirROR"
+    path: "OLD TALES - mirROR.brstm"
+    type: betting
+  - id: footstep_walk_run
+    title: "FOOTSTEP, WALK, RUN"
+    path: "FOOTSTEP, WALK, RUN.brstm"
+    type: betting
+  - id: lion_heart
+    title: "LION HEART"
+    path: "LION HEART.brstm"
+    type: betting
+  - id: memory_of_goddess_snow_stage
+    title: "Memory Of Goddess - snow stage"
+    path: "Memory Of Goddess - snow stage.brstm"
+    type: betting
+  - id: golden_ship
+    title: "Golden Ship"
+    path: "Golden Ship.brstm"
+    type: result
+  - id: neverland_schedule_check_night
+    title: "NEVERLAND - Schedule Check (Night)"
+    path: "NEVERLAND - Schedule Check (Night).brstm"
+    type: break
+  - id: the_godness_fall
+    title: "The Godness Fall"
+    path: "The Godness Fall.brstm"
+    type: break
+  - id: theme_from_bow_wow_paradise
+    title: "Theme from \"BOW-WOW PARADISE\""
+    path: "Theme from _BOW-WOW PARADISE_.brstm"
+    type: result
+  - id: last_kingdom_nikke
+    title: "Last Kingdom"
+    path: "Last Kingdom.brstm"
+    type: betting
+  - id: one_more_time_nikke
+    title: "ONE MORE TIME!"
+    path: "ONE MORE TIME!.brstm"
+    type: result
+  - id: new_flavor_nikke
+    title: "NEW FLAVOR"
+    path: "NEW FLAVOR.brstm"
+    type: result
+  - id: second_quest_redsea_scout
+    title: "SECOND QUEST - REDSEA SCOUT"
+    path: "SECOND QUEST - REDSEA SCOUT.brstm"
+    type: betting
+  - id: second_quest_danger_zone
+    title: "SECOND QUEST - Danger Zone"
+    path: "SECOND QUEST - Danger Zone.brstm"
+    type: battle
+  - id: memory_of_goddess_2_0_mine_stage
+    title: "Memory Of Goddess 2.0 - mine stage"
+    path: "Memory Of Goddess 2.0 - mine stage.brstm"
+    type: betting
+  - id: red_ash_goddess_squad_ready
+    title: "RED ASH - GODDESS SQUAD READY"
+    path: "RED ASH - GODDESS SQUAD READY.brstm"
+    type: warning
+  - id: for_rest
+    title: "FOR REST"
+    path: "FOR REST.brstm"
+    type: break
+  - id: red_ash_on_the_cliff
+    title: "RED ASH - On the Cliff"
+    path: "RED ASH - On the Cliff.brstm"
+    type: warning
+  - id: kill_the_lord
+    title: "KILL THE LORD"
+    path: "KILL THE LORD (feat. Whitney Sol).brstm"
+    type: betting
+  - id: let_me_out
+    title: "Let Me out!!!"
+    path: "Let Me out!!!.brstm"
+    type: betting
+  - id: re_cipe_for_you_universal_spice
+    title: "Re:CIPE FOR YOU - ユニバーサル・スパイス！！！ (Universal Spice)"
+    path: "Universal Spice.brstm"
+    type: betting
+  - id: golden_coin_rush_lucky_night
+    title: "Golden Coin Rush - Lucky Night"
+    path: "Golden Coin Rush - Lucky Night (feat. Shabel Tonya) [Full, custom loop].brstm"
+    type: betting
+  - id: secret_garden_nikke
+    title: "SECRET GARDEN"
+    path: "SECRET GARDEN.brstm"
+    type: break
 ...

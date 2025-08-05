@@ -1,0 +1,23 @@
+---
+id: mobile_suit_z_gundam_hot_scramble
+title: "Mobile Suit Z Gundam - Hot Scramble"
+series: mobilesuitgundam
+platform: "NES"
+year: 1986
+songs: 
+#this is a Japanese-only game, so for the answer of whether to translate the song names... 
+#I'll leave them as is, but include the translations in the id if people wanna search that way
+#everyone wins... except me who has to essentially do the ids twice
+  - id: title_screen_z_toki_wo_koete_zeta_transcending_times
+    title: "Title Screen (Z Toki wo Koete)"
+    path: "Title Screen (Z Toki wo Koete).brstm"
+    type: betting
+  - id: stage_theme_mizu_no_hoshi_e_ai_wo_komete_to_the_aqueous_star_with_love
+    title: "Stage Theme (Mizu no Hoshi e Ai wo Komete)"
+    path: "Stage Theme (Mizu no Hoshi e Ai wo Komete).brstm"
+    type: betting
+  - id: ending_hoshizora_no_believe_believe_in_the_starry_sky
+    title: "Ending (Hoshizora no Believe)"
+    path: "Ending (Hoshizora no Believe).brstm"
+    type: result
+...

@@ -1,0 +1,99 @@
+﻿---
+id: hero_of_law
+title: "Hero of Law"
+series: zelda
+is_fanwork: true
+platform: "N64"
+year: 2025
+#the place I downloaded the songs from had three variations for each title: original (from the OST), ingame, and paused
+#I focused on the first, lest I be here all week
+songs:
+  - id: title_theme_hol
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    type: result
+  - id: defendant_lobby
+    title: "Defendant Lobby"
+    path: "Defendant Lobby.brstm"
+    type: betting
+  - id: court_is_now_in_session
+    title: "Court is Now in Session"
+    path: "Court is Now in Session.brstm"
+    type: betting
+  - id: courageous_deductions_hol
+    title: "Courageous Deductions"
+    path: "Courageous Deductions.brstm"
+    type: betting
+  - id: cross_examination_moderato_hol
+    title: "Cross-Examination - Moderato"
+    path: "Cross-Examination - Moderato.brstm"
+    type: betting
+  - id: objection_hol
+    title: "Objection!"
+    path: "Objection!.brstm"
+    type: betting
+  - id: suspense_hol
+    title: "Suspense"
+    path: "Suspense.brstm"
+    type: warning
+  - id: zelda_s_theme_hol
+    title: "Zelda's Theme"
+    path: "Zelda's Theme.brstm"
+    type: betting
+  - id: the_trial_continues_hol
+    title: "The Trial Continues"
+    path: "The Trial Continues.brstm"
+    type: betting
+  - id: cross_examination_allegro_hol
+    title: "Cross-Examination - Allegro"
+    path: "Cross-Examination - Allegro.brstm"
+    type: betting
+  - id: reminiscences_hol
+    title: "Reminiscences"
+    path: "Reminiscences.brstm"
+    type: betting
+  - id: ingo_the_ingenuous
+    title: "Ingo, The Ingenuous"
+    path: "Ingo, The Ingenuous.brstm"
+    type: break
+  - id: revisualization
+    title: "Revisualization"
+    path: "Revisualization.brstm"
+    type: betting
+  - id: ingo_the_restless
+    title: "Ingo, The Restless"
+    path: "Ingo, The Restless.brstm"
+    type: warning
+  - id: pursuit_hol
+    title: "Pursuit"
+    path: "Pursuit.brstm"
+    type: battle
+  - id: confrontation_presto
+    title: "Confrontation - Presto"
+    path: "Confrontation - Presto.brstm"
+    type: battle
+  - id: ingo_the_manic
+    title: "Ingo, The Manic"
+    path: "Ingo, The Manic.brstm"
+    type: warning
+  - id: ingo_the_despondent
+    title: "Ingo, The Despondent"
+    path: "Ingo, The Despondent.brstm"
+    type: warning
+  - id: victory_hol
+    title: "Victory!"
+    path: "Victory!.brstm"
+    type: result
+  - id: end_credits_hol
+    title: "End Credits"
+    path: "End Credits.brstm"
+    type: result
+  - id: owl_s_theme_hol
+    title: "Owl's Theme"
+    path: "(Bonus) Owl's Theme.brstm"
+    type: break
+  - id: super_talon_game
+    title: "Super Talon Game"
+    path: "(Bonus) Super Talon Game.brstm"
+    type: betting
+...

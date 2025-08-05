@@ -135,18 +135,18 @@ songs:
     title: "Top Ride - Sky (Alternate)"
     path: "2d_sky_ura.hps"
     type: warning
-  - id: kss_romm_halbird1_kar #is this just a rip of the SNES track?
-    title: "Air Ride - Machine Passage (Alternate)"
-    path: "3d_machine_ura.hps"
-    type: warning
+  # - id: kss_romm_halbird1_kar #is this just a rip of the SNES track?
+    # title: "Air Ride - Machine Passage (Alternate)"
+    # path: "3d_machine_ura.hps"
+    # type: warning
   - id: magma_flows
     title: "Air Ride - Magma Flows"
     path: "3d_kazan.hps"
     type: betting
-  - id: kss_romm_halbird2_kar #Same as above
-    title: "Air Ride - Magma Flows (Alternate)"
-    path: "3d_kazan_ura.hps"
-    type: warning
+  # - id: kss_romm_halbird2_kar #Same as above
+    # title: "Air Ride - Magma Flows (Alternate)"
+    # path: "3d_kazan_ura.hps"
+    # type: warning
   - id: play_methods_kar
     title: "Play Methods"
     path: "howto.hps"
@@ -161,8 +161,8 @@ songs:
     type: warning
   - id: stadium_drag_race
     title: "Stadium - Drag Race"
-    path: "studium_04.hps" #or battle?
-    type: warning 
+    path: "studium_04.hps"
+    type: battle 
   - id: top_ride_metal
     title: "Top Ride - Metal"
     path: "2d_machine.hps"

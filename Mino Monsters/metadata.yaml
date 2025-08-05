@@ -1,0 +1,32 @@
+---
+id: mino_monsters
+title: "MinoMonsters"
+platform: "Mobile"
+year: 2011
+#the brstms provided here aren't perfect, but I can't really find anything else 
+songs: 
+  - id: battle_theme_mm
+    title: "Battle Theme"
+    path: "minomonstersbattle.brstm"
+    type: battle
+  - id: battle_theme_no_2_mm
+    title: "Battle Theme No. 2"
+    path: "minomonstersbattleno2.brstm"
+    type: battle
+  - id: map_mm
+    title: "Map"
+    path: "minomonstersmap.brstm"
+    type: break
+  - id: nighttime_mm
+    title: "Nighttime"
+    path: "minomonstersnighttime.brstm"
+    type: break
+  - id: win_mm
+    title: "Win"
+    path: "minomonsterswin.brstm"
+    type: result
+  - id: water_island_mm
+    title: "Water Island"
+    path: "minomonsterswater.brstm"
+    type: betting
+...

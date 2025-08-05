@@ -1,0 +1,12 @@
+---
+id: mario_strikers_battle_league
+title: "Mario Strikers: Battle League"
+series: mario
+platform: "Switch"
+year: 2022
+songs:
+  - id: sudden_death_mario_strikers_battle_league
+    title: "Sudden Death"
+    path: "Sudden Death.brstm"
+    type: battle #let's see if this works...
+...

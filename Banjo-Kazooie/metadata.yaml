@@ -4,7 +4,7 @@ title: "Banjo-Kazooie"
 series: banjo
 platform: "N64"
 year: 1998
-songs: 
+songs:
   - id: bubblegloop_swamp
     title: "Bubblegloop Swamp"
     path: "028 - Bubblegloop Swamp.miniusf"
@@ -38,7 +38,7 @@ songs:
     title: "Inside the Mansion"
     path: "048 Inside the Mansion.miniusf"
     type: betting
-  - id: Mad Monster Mansion
+  - id: mad_monster_mansion
     title: "Mad Monster Mansion"
     path: "047b Mad Monster Mansion (Normal).miniusf"
     type: betting

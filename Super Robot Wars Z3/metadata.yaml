@@ -1,0 +1,41 @@
+---
+id: super_robot_wars_z3
+title: "Super Robot Wars ZIII"
+series: superrobotwars
+year: 2014
+platform: ["PS3", "Vita"]
+#only brstms for now. Title could technically be Dai-3-Ji Super Robot Taisen Z, but look at this point we're splitting hairs, if we argue about translation of names we'll be here all day
+songs:
+  - id: planet_dance_srwz3
+    title: "Planet Dance"
+    path: "Planet Dance.brstm"
+    type: battle
+  - id: trider_g7_s_theme
+    title: "Trider G7's Theme"
+    path: "Trider G7's Theme.brstm"
+    type: betting
+  - id: totsugeki_love_heart_srwz3
+    title: "Totsugeki Love Heart"
+    path: "Totsugeki Love Heart.brstm"
+    type: betting
+  - id: seventh_moon_srwz3
+    title: "Seventh Moon"
+    path: "Seventh Moon.brstm"
+    type: betting
+  - id: gunbuster_srwz3
+    title: "Gunbuster"
+    path: "Gunbuster.brstm"
+    type: warning
+  - id: fly_high_srwz3
+    title: "Fly High"
+    path: "Fly High.brstm"
+    type: betting
+  - id: world_s_end_srwz3
+    title: "World's End"
+    path: "World's End.brstm"
+    type: battle
+  - id: decisive_battle_srwz3
+    title: "Decisive Battle"
+    path: "Decisive Battle.brstm"
+    type: battle
+...

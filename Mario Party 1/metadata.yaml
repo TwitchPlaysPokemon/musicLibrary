@@ -4,113 +4,122 @@ title: "Mario Party"
 series: mario
 platform: "N64"
 year: 1998
+#as the minius files keep causing winamp to crash, I'm going back to brstms. sorry
 songs:
   - id: playing_the_game_mp1
     title: "Playing The Game"
-    path: "03 Playing The Game.miniusf"
+    path: "Playing the Game.brstm"
     type: break
-  - id: peaceful_mushroom_village
-    title: "Peaceful Mushroom Village"
-    path: "04 Peaceful Mushroom Village.miniusf"
-    type: break
-  - id: mushroom_bank_theme
-    title: "Mushroom Bank Theme"
-    path: "05 Mushroom Bank Theme.miniusf"
-    type: warning
   - id: option_house_mp1
     title: "Option House Theme"
-    path: "06 Option House Theme.miniusf"
+    path: "Option House.brstm"
     type: warning
-  - id: mushroom_shop_theme
-    title: "Mushroom Shop Theme"
-    path: "07 Mushroom Shop Theme.miniusf"
-    type: betting
   - id: dks_jungle_adventure
     title: "DK's Jungle Adventure"
-    path: "12 Jungle Adventure.miniusf"
+    path: "Jungle Adventure.brstm"
     type: betting
   - id: peachs_birthday_cake_mp1
     title: "Peach's Birthday Cake"
-    path: "13 Birthday Cake.miniusf"
+    path: "Birthday Cake.brstm"
     type: betting
   - id: yoshis_tropical_island_mp1
     title: "Yoshi's Tropical Island"
-    path: "14 Tropical Island.miniusf"
+    path: "Tropical Island.brstm"
     type: betting
   - id: warios_battle_cannon
     title: "Wario's Battle Canyon"
-    path: "15 Battle Canyon.miniusf"
+    path: "Battle Canyon.brstm"
     type: betting
   - id: luigis_engine_room
     title: "Luigi's Engine Room"
-    path: "16 Engine Room.miniusf"
+    path: "Engine Room.brstm"
     type: betting
   - id: marios_rainbow_castle
     title: "Mario's Rainbow Castle"
-    path: "17 Rainbow Castle.miniusf"
+    path: "Rainbow Castle.brstm"
     type: betting
   - id: play_a_mini_game
     title: "Play A Mini-Game!"
-    path: "18 Play A Mini-Game!.miniusf"
+    path: "Play a Mini-Game!.brstm"
     type: betting
   - id: mushroom_forest
     title: "Mushroom Forest"
-    path: "19 Mushroom Forest.miniusf"
+    path: "Mushroom Forest.brstm"
     type: betting
   - id: ducking_and_dodging
     title: "Ducking and Dodging"
-    path: "20 Ducking and Dodging.miniusf"
+    path: "Ducking and Dodging.brstm"
     type: warning
   - id: faster_than_all
     title: "Faster Than All"
-    path: "26 Faster Than All.miniusf"
+    path: "Faster Than All.brstm"
     type: warning
   - id: the_room_underground
     title: "The Room Underground"
-    path: "27 The Room Underground.miniusf"
+    path: "The Room Underground.brstm"
     type: warning
   - id: slowly_slowly
     title: "Slowly, Slowly"
-    path: "28 Slowly, Slowly.miniusf"
+    path: "Slowly, Slowly.brstm"
     type: warning
   - id: dodging_danger
     title: "Dodging Danger"
-    path: "30 Dodging Danger.miniusf"
+    path: "Dodging Danger.brstm"
     type: warning
   - id: move_to_the_mambo
     title: "Move To The Mambo!"
-    path: "32 Move To The Mambo!.miniusf"
-    type: warning
-  - id: let_s_limbo
-    title: "Let's Limbo!"
-    path: "33 Let's Limbo!.miniusf"
+    path: "Move To The Mambo!.brstm"
     type: warning
   - id: outcome_of_adventure
     title: "Outcome Of Adventure"
-    path: "41 Outcome Of Adventure.miniusf"
+    path: "Outcome Of Adventure.brstm"
     type: result
   - id: mini_game_stadium_mp1
     title: "Mini Game Stadium"
-    path: "56 Mini Game Stadium.miniusf"
+    path: "Mini Game Stadium Theme.brstm"
     type: betting
-  - id: winner_mp1
-    title: "Winner!"
-    path: "65 Winner.miniusf"
-    type: result
   - id: bowsers_magma_mountain
     title: "Bowser's Magma Mountain"
-    path: "67 Magma Mountain.miniusf"
+    path: "Bowser Magma Mountain.brstm"
     type: betting
   - id: the_eternal_star
     title: "Eternal Star"
-    path: "68 Eternal Star.miniusf"
+    path: "Eternal Star.brstm"
     type: betting
   - id: the_stolen_star
     title: "The Stolen Star"
-    path: "69 The Stolen Star.miniusf"
+    path: "The Stolen Star.brstm"
     type: warning
   - id: everyones_a_superstar
     title: "Everyone's A Super Star!"
-    path: "72 Everyone's A Super Star!.miniusf"
+    path: "Everyone's a Super Star.brstm"
     type: result
+  - id: coins_of_the_world
+    title: "Coins of the World"
+    path: "Coins of the World.brstm"
+    type: result
+  - id: ending_mp1
+    title: "Ending"
+    path: "Ending.brstm"
+    type: result
+  - id: full_of_danger
+    title: "Full of Danger"
+    path: "Full of Danger.brstm"
+    type: warning
+  - id: let_s_go_lightly
+    title: "Let's Go Lightly"
+    path: "Let's Go Lightly.brstm"
+    type: betting
+  - id: opening_mp1
+    title: "Opening"
+    path: "Opening.brstm"
+    type: betting
+  - id: saving_courage
+    title: "Saving Courage"
+    path: "Saving Courage.brstm"
+    type: warning
+  - id: the_wide_wide_ocean
+    title: "The Wide, Wide Ocean"
+    path: "The Wide, Wide Ocean.brstm"
+    type: betting
 ...

@@ -178,4 +178,16 @@ songs:
     title: "Time is the Key"
     path: "Time_is_the_Key.ogg"
     type: betting
+  - id: battle_of_forinthry
+    title: "Battle of Forinthry"
+    path: "Battle of Forinthry.txtp"
+    type: battle
+  - id: nightmare_at_the_cradle
+    title: "Nightmare at the Cradle"
+    path: "Nightmare at the Cradle.txtp"
+    type: battle
+  - id: vorkath_s_fall
+    title: "Vorkath's Fall"
+    path: "Vorkath's Fall.txtp"
+    type: battle
 ...

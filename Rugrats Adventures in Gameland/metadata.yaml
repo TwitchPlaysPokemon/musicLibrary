@@ -53,6 +53,10 @@ songs:
     title: "Final Stage 1"
     path: "Final Stage 1.brstm"
     type: betting
+  - id: final_stage_2_rugrats
+    title: "Final Stage 2"
+    path: "Final Stage 2.brstm"
+    type: warning
   - id: boss_rugrats
     title: "Boss"
     path: "Boss.brstm"

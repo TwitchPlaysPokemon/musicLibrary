@@ -185,4 +185,13 @@ songs:
     title: "Kassandra Kalamity (Final Phase)"
     path: "A_Msc_FinalBoss_MyAxe_lyr3_lp_01.txtp"
     type: battle
+  - id: credits_sweet_victory
+    title: "Credits - Sweet Victory"
+    path: "A_Mus_Credits_SweetVictory.txtp"
+    ends: 3:46
+    type: betting #I don't know if it counts for here, but it's what the fans want so it's what the fans get. Will comment out if we get a copyright notice lmao
+  - id: credits_jellyfish_jam
+    title: "Credits - Jellyfish Jam"
+    path: "A_Mus_Credits_SweetVictory_Jellyfish_Jam.txtp"
+    type: betting
 ...

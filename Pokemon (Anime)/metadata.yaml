@@ -221,7 +221,6 @@ songs:
     title: "Battle! Gladion"
     path: "Battle! Gladion.brstm"
     type: battle
-#new songs from Pokemon Journies. NGL these were tough to loop, so if none are to par feel free to drop
   - id: gym_galar_anime
     title: "Gym (Galar)"
     path: "16. Pokémon Gym _ TV Anime Ver..brstm"
@@ -242,4 +241,49 @@ songs:
     title: "Kalos Trainer Battle (Movie 19)"
     path: "Kalos Trainer Battle (Movie 19).brstm"
     type: battle
+# new ones. These are fanmade rips as the anime hasn't gotten a big soundtrack release in a while
+  - id: a_captain_s_trial_begins_anime
+    title: "A Captain's Trial Begins!"
+    path: "A Captain_s Trial Begins!.brstm"
+    type: betting
+  - id: an_encounter_anime
+    title: "An Encounter"
+    path: "An Encounter.brstm"
+    type: result
+  - id: battle_spot_anime
+    title: "Battle Spot"
+    path: "battlespot.brstm"
+    type: warning
+  - id: happy_birthday_from_the_pokemon_center_anime
+    title: "Happy Birthday from the Pokémon Center!"
+    path: "centerbirthday.brstm"
+    type: break
+  - id: festival_plaza_day_anime
+    title: "Festival Plaza (Day)"
+    path: "Festival Plaza (Day).brstm"
+    type: result
+  - id: hau_s_theme_anime
+    title: "Hau's Theme"
+    path: "hau.brstm"
+    type: result
+  - id: lumiose_city_anime
+    title: "Lumiose City"
+    path: "lumiose.brstm"
+    type: betting
+  - id: parfum_palace_anime
+    title: "Parfum Palace"
+    path: "parfum.brstm"
+    type: betting
+  - id: ride_pokemon_land_anime
+    title: "Ride Pokémon (Land)"
+    path: "ride guys.brstm"
+    type: betting
+  - id: snowbelle_city_anime
+    title: "Snowbelle City"
+    path: "snowbelle.brstm"
+    type: break
+  - id: village_bridge_anime
+    title: "Village Bridge"
+    path: "village bridge anime.brstm"
+    type: break
 ...

@@ -1,0 +1,30 @@
+id: antonblast
+title: "ANTONBLAST"
+platform: ["PC", "Switch"]
+year: 2024
+songs:
+  - id: dynamite_man_in_boiler_city
+    title: "Dynamite Man ...in Boiler City"
+    path: "Dynamite Man ...in Boiler City.brstm"
+    type: betting
+  - id: idle_hands_in_the_mysterious_glasshouse
+    title: "Idle Hands ...in The Mysterious Glasshouse"
+    path: "Idle Hands ...in The Mysterious Glasshouse.brstm"
+    type: betting
+  - id: turnin_up_the_heat_in_cinnamon_springs
+    title: "Turnin' Up The Heat ...in Cinnamon Springs"
+    path: "Turnin' Up The Heat ...in Cinnamon Springs.brstm"
+    type: betting
+  - id: commit_to_the_bit_vs_freako_dragon
+    title: "Commit to the Bit ...VS. Freako Dragon!"
+    path: "Commit to the Bit ...VS. Freako Dragon!.brstm"
+    type: battle
+  - id: doesn_t_ring_a_bell_vs_ring_a_ding
+    title: "Doesn't Ring A Bell ...VS. Ring-A-Ding!"
+    path: "Doesn't Ring A Bell ...VS. Ring-A-Ding!.brstm"
+    type: betting
+  - id: it_s_happy_hour
+    title: "It's Happy Hour!"
+    path: "It's Happy Hour!.brstm"
+    type: battle
+...

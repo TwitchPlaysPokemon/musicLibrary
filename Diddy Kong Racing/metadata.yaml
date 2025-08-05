@@ -8,7 +8,7 @@ songs:
     title: "Lobby Theme Tune"
     path: "03 - Options, Level Selection.miniusf"
     type: break
-  - id: player_select_(diddy)
+  - id: player_select_diddy
     title: "Player Select (Diddy)"
     path: "04c - Player Select (Diddy).miniusf"
     type: result
@@ -55,7 +55,7 @@ songs:
     path: "16a - Frosty Village.miniusf"
     tags: [xmas]
     type: betting
-  - id: boulder_canyon_(outside_castle)
+  - id: boulder_canyon_outside_castle
     title: "Boulder Canyon (Outside Castle)"
     path: "17b - Boulder Canyon (Outside Castle).miniusf"
     type: result
@@ -79,11 +79,11 @@ songs:
     title: "Darkmoon Caverns"
     path: "23a - Darkmoon Caverns, Credits.miniusf"
     type: betting
-  - id: taj's_challenge
+  - id: taj_s_challenge
     title: "Taj's Challenge"
     path: "31a - Genie Race.miniusf"
     type: betting
-  - id: taj's_theme
+  - id: taj_s_theme
     title: "Taj's Theme"
     path: "33 - Genie.miniusf"
     type: break
@@ -99,11 +99,11 @@ songs:
     title: "Wizpig Challenge"
     path: "46 - WizPig Race.miniusf"
     type: warning
-  - id: central_area_theme_(basic)
+  - id: central_area_theme_basic
     title: "Central Area Theme (Basic)"
     path: "49b - Island (Basic).miniusf"
     type: break
-  - id: tt's_theme
+  - id: tt_s_theme
     title: "T.T.'s Theme"
     path: "50 - TT.miniusf"
     type: betting

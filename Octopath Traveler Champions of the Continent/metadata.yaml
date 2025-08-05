@@ -3,7 +3,7 @@ id: octopath_traveler_champions_of_the_continent
 title: "Octopath Traveler: Champions of the Continent"
 platform: "Mobile"
 year: 2020
-songs: 
+songs:
   - id: herminia_the_covetous_witch
     title: "Herminia, the Covetous Witch"
     path: "M_Q01.txtp"
@@ -175,7 +175,7 @@ songs:
   - id: orsazantos_the_creator
     title: "Orsazantos, the Creator"
     path: "M_Q120.txtp"
-    type: betting
+    type: battle
   - id: bestower_of_all
     title: "Bestower of All"
     path: "M_Q121.txtp"

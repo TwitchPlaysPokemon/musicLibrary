@@ -3,7 +3,7 @@ id: bishoujo_senshi_sailor_moon_another_story
 title: "Bishoujo Senshi Sailor Moon: Another Story"
 platform: "SFC"
 year: 1995
-songs: 
+songs:
   - id: main_theme_of_sailor_moon
     title: "Main Theme of Sailor Moon"
     path: "02 Main Theme of Sailor Moon.spc"
@@ -56,7 +56,7 @@ songs:
     title: "I Challenge You!"
     path: "15 I Challenge You!.spc"
     type: betting
-  - id: Ghosts of the Dark Kingdom
+  - id: ghosts_of_the_dark_kingdom
     title: "Ghosts of the Dark Kingdom"
     path: "17 Ghosts of the Dark Kingdom.spc"
     type: betting

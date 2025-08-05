@@ -153,6 +153,10 @@ songs:
     title: "Pasio Academy"
     path: "bgm_field_academy.logg"
     type: betting
+  - id: pasio_tower
+    title: "Pasio Tower"
+    path: "bgm_field_tower.logg"
+    type: betting
   - id: pasio_academy_results
     title: "Pasio Academy - Results"
     path: "bgm_field_academy_result.logg"
@@ -455,6 +459,10 @@ songs:
     title: "Battle! (Silver)"
     path: "bgm_battle_silver.logg"
     type: battle
+  - id: glorious_battle_silver
+    title: "Glorious Battle! (Silver)"
+    path: "bgm_battle_silver_ax.logg"
+    type: battle
   - id: battle_johto_gym_leader_masters
     title: "Battle! (Johto Gym Leader)"
     path: "bgm_battle_gl_j.logg"
@@ -510,6 +518,10 @@ songs:
   - id: battle_neo_johto_champion
     title: "Battle! (Neo Johto Champion)"
     path: "bgm_battle_neochamp_jhoto.logg"
+    type: battle
+  - id: glorious_battle_ethan
+    title: "Glorious Battle! (Ethan)"
+    path: "bgm_battle_hibiki_ax.logg"
     type: battle
 
     #Hoenn - all songs from R/S/E/OR/AS in approx. order
@@ -1165,6 +1177,15 @@ songs:
     title: "Battle! (Blueberry Elite Four: Lacey)"
     path: "bgm_battle_big4_b_taro.logg"
     type: battle
+  - id: battle_carmine_masters
+    title: "Battle! (Carmine)"
+    path: "bgm_battle_zeiyu.logg"
+    type: battle
+  - id: battle_kieran_masters
+    title: "Battle! (Kieran)"
+    path: "bgm_battle_suguri.logg"
+    type: battle
+
 
     #Pasio - any Masters-exclusive tracks or stuff I couldn't really put anywhere else
   - id: battle_region_s_best
