@@ -3,13 +3,13 @@ id: ai_the_somnium_files
 title: "AI: THE SOMNIUM FILES"
 platform: ["Switch", "PS4", "PC"]
 year: 2019
-songs: 
+songs:
   - id: theme_of_ai_the_somnium_files
     title: "Theme of AI -The Somnium Files-"
     path: "1-01 Theme of AI - The Somnium Files.brstm"
     ends: 2:09
     type: betting
-  - id: 委細_isai
+  - id: details_isai
     title: "委細 -isAI-"
     path: "1-03 委細 -isAI-.brstm"
     type: betting
@@ -17,7 +17,7 @@ songs:
     title: "SINKIN' IN THE BRaiN"
     path: "1-06 Sinkin' in the Brain.brstm"
     type: betting
-  - id: 展開_tenkai
+  - id: expand_tenkai
     title: "展開 -tenkAI-"
     path: "1-07 展開 -tenkAI-.brstm"
     type: betting
@@ -41,11 +41,11 @@ songs:
     title: "PSYNCIN' IN THE DOMaiN"
     path: "1-18 Psyncin' in the Domain.brstm"
     type: betting
-  - id: 厄災_yakusai
+  - id: disaster_yakusai
     title: "厄災 -yakusAI-"
     path: "1-19 厄災 -yakusAI-.brstm"
     type: betting
-  - id: 溟海_meikai
+  - id: underworld_meikai
     title: "溟海 -meikAI-"
     path: "1-20 溟海 -meikAI-.brstm"
     type: warning
@@ -57,11 +57,11 @@ songs:
     title: "Armed Insurgents"
     path: "1-23 Armed Insurgents.brstm"
     type: betting
-  - id: 問罪_monzai
+  - id: charges_monzai
     title: "問罪 -monzAI-"
     path: "1-24 問罪 -monzAI-.brstm"
     type: betting
-  - id: 襲來_syuurai
+  - id: attack_syuurai
     title: "襲來 -syuurAI-"
     path: "1-27 襲來 -syuurAI-.brstm"
     type: battle
@@ -77,7 +77,7 @@ songs:
     title: "PSYNCIN' IN THE SUSTaiN"
     path: "1-32 Psyncin' in the Sustain.brstm"
     type: break
-  - id: 自戒_jikai
+  - id: reflection_jikai
     title: "自戒 -jikAI-"
     path: "1-34 自戒 -jikAI-.brstm"
     type: break
@@ -101,11 +101,11 @@ songs:
     title: "PSYNCIN' IN THE MaiN 1"
     path: "2-09 Psyncin' in the Main 1.brstm"
     type: betting
-  - id: 敵對_tekitai
+  - id: enemy_tekitai
     title: "敵對 -tekitAI-"
     path: "2-11 敵對 -tekitAI-.brstm"
     type: battle
-  - id: 告解_kokkai
+  - id: confession_kokkai
     title: "告解 -kokkAI-"
     path: "2-16 告解 -kokkAI-.brstm"
     type: break
@@ -117,7 +117,7 @@ songs:
     title: "PSYNCIN' IN THE CHaiN 1"
     path: "2-22 Psyncin' in the Chain 1.brstm"
     type: betting
-  - id: 喝采_kassai
+  - id: applause_kassai
     title: "喝采 -kassAI-"
     path: "2-27 喝采 -kassAI-.brstm"
     type: break
@@ -134,7 +134,7 @@ songs:
     # title: "PSYNCIN' IN THE FOUNTaiN"
     # path: "BGM_SOM_START.fsb"
     # type: break
-  - id: 戲舞_gimai
+  - id: dance_gimai
     title: "戲舞 -gimAI-"
     path: "BGM_SOM_A1_DANCE.fsb"
     type: warning

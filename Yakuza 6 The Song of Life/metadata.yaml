@@ -4,7 +4,7 @@ title: "Yakuza 6: The Song of Life"
 series: yakuza
 platform: ["PS4", "XB1", "PC"]
 year: 2016
-songs: 
+songs:
   - id: young_dragon_s_breath
     title: "Young Dragon's Breath"
     path: "1-01.brstm"
@@ -65,7 +65,7 @@ songs:
     title: "DESTINY"
     path: "bbg_y_00000005.hca"
     type: battle
-  - id: Body and Soul
+  - id: body_and_soul
     title: "Body and Soul"
     path: "bbg_y_00000009.hca"
     type: battle

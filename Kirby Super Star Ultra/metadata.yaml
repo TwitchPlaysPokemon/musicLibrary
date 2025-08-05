@@ -4,7 +4,7 @@ title: "Kirby Super Star Ultra"
 series: kirby
 platform: "NDS"
 year: 2008
-songs: 
+songs:
   - id: main_menu_super_star_ultra
     title: "Main Menu"
     path: "002 File Select.mini2sf"
@@ -49,7 +49,7 @@ songs:
     title: "Flying Fortress Kabula"
     path: "082 Flying Fortress Kabula.mini2sf"
     type: warning
-  - id: masked_dedede's_theme
+  - id: masked_dedede_s_theme
     title: "Masked Dedede's Theme"
     path: "083 Masked Dedede Theme.mini2sf"
     type: battle

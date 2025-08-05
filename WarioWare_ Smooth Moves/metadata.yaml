@@ -8,3 +8,34 @@ songs:
     title: "Dr. Crygor"
     path: "Dr. Crygor.brstm"
     type: betting
+  - id: title_wwsm
+    title: "Title"
+    path: "Title.brstm"
+    type: result
+  - id: level_select_wwsm
+    title: "Level Select"
+    path: "Level Select.brstm"
+    type: result
+  - id: minigame_wwsm
+    title: "Minigame"
+    path: "Minigame.brstm"
+    type: result
+  - id: game_over_tiny_wario
+    title: "Game Over (Tiny Wario)"
+    path: "Game Over (Tiny Wario).brstm"
+    type: result
+  - id: wario_dance_company
+    title: "Wario Dance Company"
+    path: "Wario Dance (Looped).brstm"
+    type: betting
+  - id: tomorrow_hill_english
+    title: "Tomorrow Hill (English)"
+    path: "Tomorrow Hill - English Version.brstm"
+    ends: 2:23
+    type: betting
+  - id: tomorrow_hill_japanese
+    title: "Tomorrow Hill (Japanese)"
+    path: "Tomorrow Hill - Japanese Version.brstm"
+    ends: 2:23
+    type: betting
+...

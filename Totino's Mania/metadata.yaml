@@ -143,8 +143,7 @@ songs:
   # - id: mario_destroys_the_music_overlay
     # title: "mario destroys the music overlay"
     path: "Pinball.txtp"
-    ends: 1:40
-    type: betting
+    type: result #keeps not looping
   - id: scandal_is_sonic_part_of_the_totino_s_lifestyle
     title: "SCANDAL! Is SONIC Part Of The TOTINO'S LIFESTYLE?!"
     path: "PulpSolstice1.txtp"

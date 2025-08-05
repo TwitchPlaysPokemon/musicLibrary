@@ -4,7 +4,7 @@ title: "Final Fantasy VII Remake"
 platform: "PS4"
 year: 2020
 songs: 
-  - id: let_the_battles_begin!_a_merc_s _job
+  - id: let_the_battles_begin_a_merc_s _job
     title: "Let the Battles Begin! - A Merc's Job"
     path: "bgm_battle_hanyo_1#2 (Music-Section1).brstm"
     type: battle
@@ -143,5 +143,21 @@ songs:
   - id: the_prelude_reunion
     title: "The Prelude - Reunion"
     path: "The Prelude - Reunion.brstm"
+    type: break
+  - id: leslie_s_theme_ff7r
+    title: "Leslie's Theme"
+    path: "Leslie's Theme.brstm"
+    type: break
+  - id: midgar_expressway_ff7r
+    title: "Midgar Expressway"
+    path: "Midgar Expressway.brstm"
+    type: battle
+  - id: sector_7_undercity_ff7r
+    title: "Sector 7 Undercity"
+    path: "Sector 7 Undercity.brstm"
+    type: betting
+  - id: the_turks_theme_office_ff7r
+    title: "The Turks' Theme - Office"
+    path: "The Turks' Theme - Office.brstm"
     type: break
 ...

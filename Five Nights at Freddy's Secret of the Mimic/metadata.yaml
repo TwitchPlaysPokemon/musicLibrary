@@ -1,0 +1,52 @@
+---
+id: five_nights_at_freddys_secret_of_the_mimic
+title: "Five Nights at Freddy's: Secret of the Mimic"
+series: fivenightsatfreddys
+platform: ["PC", "PS5"]
+year: 2025
+songs: 
+  - id: a_poisonous_kiss
+    title: "A Poisonous Kiss"
+    path: "A Poisonous Kiss.brstm"
+    type: result
+  - id: backface_culling_paranoia
+    title: "Backface Culling Paranoia"
+    path: "Backface Culling Paranoia.brstm"
+    type: result
+  - id: backstage_flamingos
+    title: "Backstage Flamingos"
+    path: "Backstage Flamingos.brstm"
+    type: betting
+  - id: catastrophy_behind_door_number_3
+    title: "Catastrophy Behind Door Number 3"
+    path: "Catastrophy Behind Door Number 3.brstm"
+    type: warning
+  - id: dark_roast_triple_shot_extravaganza
+    title: "Dark Roast Triple Shot Extravaganza"
+    path: "Dark Roast Triple Shot Extravaganza.brstm"
+    type: betting
+  - id: dreamland_stardust
+    title: "Dreamland Stardust"
+    path: "Dreamland Stardust.brstm"
+    type: betting
+  - id: moments_before_disaster
+    title: "Moments Before Disaster"
+    path: "Moments Before Disaster.brstm"
+    type: warning
+  - id: shapeshifter_s_wrath
+    title: "Shapeshifter's Wrath"
+    path: "Shapeshifter's Wrath.brstm"
+    type: warning
+  - id: unstrung_and_unhinged
+    title: "Unstrung and Unhinged"
+    path: "Unstrung and Unhinged.brstm"
+    type: warning
+  - id: back_to_the_iron_lung
+    title: "Back To the Iron Lung"
+    path: "Back To the Iron Lung.brstm"
+    type: warning
+  - id: way_off_the_wagon
+    title: "Way Off The Wagon"
+    path: "Way Off The Wagon.brstm"
+    type: warning
+...

@@ -68,4 +68,56 @@ songs:
     title: "Wiswald, the Scholars' Haven"
     path: "BGM_TOWN_2.hca"
     type: betting
+  - id: the_ones_who_gather_stars_in_the_night
+    title: "The Ones Who Gather Stars in the Night"
+    path: "Brave2_8.hca"
+    type: battle
+  - id: urgent_news_bd2
+    title: "Urgent News"
+    path: "BGM_EVENT_IMPATIENT.hca"
+    type: wearning
+  - id: the_horizon_endless_plains
+    title: "The Horizon: Endless Plains"
+    path: "BGM_FIELD_1.hca"
+    type: betting
+  - id: the_horizon_endless_desert
+    title: "The Horizon: Endless Desert"
+    path: "BGM_FIELD_2.hca"
+    type: betting
+  - id: the_horizon_endless_forest
+    title: "The Horizon: Endless Forest"
+    path: "BGM_FIELD_3.hca"
+    type: betting
+  - id: the_horizon_endless_snows
+    title: "The Horizon: Endless Snows"
+    path: "BGM_FIELD_4.hca"
+    type: betting
+  - id: the_horizon_endless_wasteland
+    title: "The Horizon: Endless Wasteland"
+    path: "BGM_FIELD_5.hca"
+    type: betting
+  - id: halcyonia_home_of_the_spring_breeze
+    title: "Halcyonia, Home of the Spring Breeze"
+    path: "BGM_TOWN_0.hca"
+    type: betting
+  - id: savalon_an_oasis_in_a_desolate_desert
+    title: "Savalon, an Oasis in a Desolate Desert"
+    path: "BGM_TOWN_1.hca"
+    type: betting
+  - id: rimedhal_the_snowbound_land
+    title: "Rimedhal, the Snowbound Land"
+    path: "BGM_TOWN_3_A.hca"
+    type: break
+  - id: enderno_a_remote_village
+    title: "Enderno, a Remote Village"
+    path: "BGM_TOWN_6.hca"
+    type: break
+  - id: mag_mell_the_fairykind_s_sanctuary
+    title: "Mag Mell, the Fairykind's Sanctuary"
+    path: "BGM_TOWN_5.hca"
+    type: betting
+  - id: holograd_seat_of_the_empire
+    title: "Holograd, Seat of the Empire"
+    path: "BGM_TOWN_4.hca"
+    type: betting
 ...

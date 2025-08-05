@@ -548,7 +548,7 @@ songs:
     title: "Terapagos Reawakened"
     path: "PLAY_BGM_SU2_VS_KODAIGAME (KODAIGAME=EV).txtp"
     type: warning
-  - id: battle_kitakami_pokémon
+  - id: battle_kitakami_pokemon
     title: "Battle! (Kitakami Pokémon)"
     path: "PLAY_VS_SELECT_SDC01 (TYPE_SDC01=28).txtp"
     type: battle
@@ -600,7 +600,7 @@ songs:
     title: "Battle! (Pecharunt)"
     path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=56).txtp"
     type: battle
-  - id: battle_terarium_tera_pokémon
+  - id: battle_terarium_tera_pokemon
     title: "Battle! (Terarium Tera Pokémon)"
     path: "PLAY_VS_SELECT_SDC02 (TYPE_SDC02=57).txtp"
     type: battle

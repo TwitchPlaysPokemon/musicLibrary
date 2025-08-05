@@ -1,0 +1,52 @@
+---
+id: kidou_gekidan_haro_ichiza_haro_no_puyo_puyo
+title: "Kidou Gekidan Haro Ichiza - Haro no Puyo Puyo"
+series: mobilesuitgundam, puyopuyo
+platform: "GBA"
+year: 2005
+songs: 
+  - id: amuro_theme
+    title: "Amuro Theme"
+    path: "Amuro Theme.minigsf"
+    type: warning
+  - id: bright_theme_tobe_gundam_fly_gundam
+    title: "Bright Theme (Tobe! Gundam)"
+    path: "Bright Theme (Tobe! Gundam).minigsf"
+    type: result
+  - id: char_theme_char_ga_kuru_char_s_counterattack
+    title: "Char Theme (Char ga Kuru)"
+    path: "Char Theme (Char ga Kuru).minigsf"
+    type: battle
+  - id: gihren_theme
+    title: "Gihren Theme"
+    path: "Gihren Theme.minigsf"
+    type: battle
+  - id: lalah_theme_eien_ni_amuro_forever
+    title: "Lalah Theme (Eien ni Amuro)"
+    path: "Lalah Theme (Eien ni Amuro).minigsf"
+    type: result
+  - id: m_quve_theme
+    title: "M'Quve Theme"
+    path: "M'Quve Theme.minigsf"
+    type: betting
+  - id: ramba_theme
+    title: "Ramba Theme"
+    path: "Ramba Theme.minigsf"
+    type: betting
+  - id: sayla_theme
+    title: "Sayla Theme"
+    path: "Sayla Theme.minigsf"
+    type: break
+  - id: shibo_cutscene
+    title: "Shibo Cutscene"
+    path: "Shibo Cutscene.minigsf"
+    type: warning
+  - id: shibo_theme
+    title: "Shibo Theme"
+    path: "Shibo Theme.minigsf"
+    type: betting
+  - id: sleggar_theme
+    title: "Sleggar Theme"
+    path: "Sleggar Theme.minigsf"
+    type: betting
+...

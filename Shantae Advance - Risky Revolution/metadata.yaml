@@ -1,0 +1,200 @@
+---
+id: shantae_advance_risky_revolution
+title: "Shantae Advance - Risky Revolution"
+series: shantae
+platform: GBA
+year: 2025
+songs: 
+  - id: title_song_b
+    title: "Title Song B"
+    path: "02 Title Song B.minigsf"
+    type: betting
+  - id: choose_a_file_sarr
+    title: "Choose a File"
+    path: "03 Choose a File.minigsf"
+    type: warning
+  - id: previously_on_shantae
+    title: "Previously on Shantae"
+    path: "04 Previously on Shantae.minigsf"
+    type: warning
+  - id: uncle_s_workshop
+    title: "Uncle's Workshop"
+    path: "05 Uncle's Workshop.minigsf"
+    type: betting
+  - id: risky_s_theme_a
+    title: "Risky's Theme A"
+    path: "06 Risky's Theme A.minigsf"
+    type: warning
+  - id: risky_s_theme_b
+    title: "Risky's Theme B"
+    path: "07 Risky's Theme B.minigsf"
+    type: warning
+  - id: learnin_town
+    title: "Learnin' Town"
+    path: "08 Learnin' Town.minigsf"
+    type: betting
+  - id: up_to_no_good
+    title: "Up to No Good"
+    path: "10 Up to No Good.minigsf"
+    type: warning
+  - id: boss_battle_sarr
+    title: "Boss Battle"
+    path: "11 Boss Battle.minigsf"
+    type: battle
+  - id: into_the_crypt
+    title: "Into the Crypt"
+    path: "12 Into the Crypt.minigsf"
+    type: betting
+  - id: king_s_pillar
+    title: "King's Pillar"
+    path: "13 King's Pillar.minigsf"
+    type: betting
+  - id: a_daring_escape
+    title: "A Daring Escape"
+    path: "14 A Daring Escape.minigsf"
+    type: warning
+  - id: scuttle_town_sarr
+    title: "Scuttle Town"
+    path: "15 Scuttle Town.minigsf"
+    type: betting
+  - id: bath_time_sarr
+    title: "Bath Time"
+    path: "16 Bath Time.minigsf"
+    type: result
+  - id: shopping_sarr
+    title: "Shopping"
+    path: "17 Shopping.minigsf"
+    type: break
+  - id: contingency_plan
+    title: "Contingency Plan"
+    path: "18 Contingency Plan.minigsf"
+    type: warning
+  - id: all_a_bird_destinations
+    title: "All A-Bird (Destinations!)"
+    path: "20 All A-Bird (Destinations!).minigsf"
+    type: result
+  - id: cave_exploration_sarr
+    title: "Cave Exploration"
+    path: "22 Cave Exploration.minigsf"
+    type: warning
+  - id: mining_town_sarr
+    title: "Mining Town"
+    path: "23 Mining Town.minigsf"
+    type: betting
+  - id: a_miner_setback
+    title: "A Miner Setback"
+    path: "24 A Miner Setback.minigsf"
+    type: warning
+  - id: orc_orchard
+    title: "Orc Orchard"
+    path: "25 Orc Orchard.minigsf"
+    type: betting
+  - id: bramble_maze_sarr
+    title: "Bramble Maze"
+    path: "27 Bramble Maze.minigsf"
+    type: betting
+  - id: hit_the_keyball
+    title: "Hit the Keyball"
+    path: "29 Hit the Keyball.minigsf"
+    type: warning
+  - id: mysterious_fountain
+    title: "Mysterious Fountain"
+    path: "30 Mysterious Fountain.minigsf"
+    type: break
+  - id: meet_the_boss
+    title: "Meet the Boss"
+    path: "33 Meet the Boss.minigsf"
+    type: warning
+  - id: labyrinth_boss_sarr
+    title: "Labyrinth Boss"
+    path: "34 Labyrinth Boss.minigsf"
+    type: battle
+  - id: game_over_sarr
+    title: "Game Over"
+    path: "35 Game Over.minigsf"
+    type: result
+  - id: solving_clues_sarr
+    title: "Solving Clues"
+    path: "37 Solving Clues.minigsf"
+    type: warning
+  - id: lava_town_sarr
+    title: "Lava Town"
+    path: "38 Lava Town.minigsf"
+    type: betting
+  - id: the_royal_archive
+    title: "The Royal Archive"
+    path: "39 The Royal Archive.minigsf"
+    type: break
+  - id: naga_cliffs
+    title: "Naga Cliffs"
+    path: "40 Naga Cliffs.minigsf"
+    type: betting
+  - id: bog_town
+    title: "Bog Town"
+    path: "41 Bog Town.minigsf"
+    type: break
+  - id: sequin_land_palace
+    title: "Sequin Land Palace"
+    path: "42 Sequin Land Palace.minigsf"
+    type: betting
+  - id: final_challenge_sarr
+    title: "Final Challenge"
+    path: "43 Final Challenge.minigsf"
+    type: betting
+  - id: no_turning_back_sarr
+    title: "No Turning Back"
+    path: "44 No Turning Back.minigsf"
+    type: warning
+  - id: risky_confrontation
+    title: "Risky Confrontation"
+    path: "45 Risky Confrontation.minigsf"
+    type: warning
+  - id: cataclysm
+    title: "Cataclysm"
+    path: "46 Cataclysm.minigsf"
+    type: result
+  - id: defeat_risky_boots
+    title: "Defeat Risky Boots"
+    path: "47 Defeat Risky Boots.minigsf"
+    type: battle
+  - id: this_is_not_a_drill
+    title: "This is Not a Drill"
+    path: "48 This is Not a Drill.minigsf"
+    type: warning
+  - id: sequin_land_s_fate
+    title: "Sequin Land's Fate"
+    path: "49 Sequin Land's Fate.minigsf"
+    type: warning
+  - id: congratulations_ssrr
+    title: "Congratulations"
+    path: "50 Congratulations.minigsf"
+    type: result
+  - id: fast_friends
+    title: "Fast Friends"
+    path: "51 Fast Friends.minigsf"
+    type: result
+  - id: we_did_it
+    title: "We Did It"
+    path: "52 We Did It.minigsf"
+    type: result
+  - id: credits_ssrr
+    title: "Credits"
+    path: "53 Credits.minigsf"
+    type: betting
+  - id: linking_up_ssrr
+    title: "Linking Up"
+    path: "54 Linking Up.minigsf"
+    type: break
+  - id: battle_mode_title_sarr
+    title: "Battle Mode Title"
+    path: "55 Battle Mode Title.minigsf"
+    type: result
+  - id: battle_lobby_sarr
+    title: "Battle Lobby"
+    path: "56 Battle Lobby.minigsf"
+    type: betting
+  - id: battle_mode_sarr
+    title: "Battle Mode"
+    path: "57 Battle Mode.minigsf"
+    type: battle
+...

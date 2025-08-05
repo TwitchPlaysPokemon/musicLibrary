@@ -1,0 +1,216 @@
+---
+id: the_legend_of_zelda_echoes_of_wisdom
+title: "The Legend of Zelda: Echoes of Wisdom"
+series: zelda
+platform: "Switch"
+year: 2024
+songs: 
+  - id: hyrule_castle_town
+    title: "Hyrule Castle Town"
+    path: "M008_HyruleCastleTown.dspadpcm.bfstm"
+    type: betting
+  - id: hyrule_castle_eow
+    title: "Hyrule Castle"
+    path: "M009_HyruleCastle.dspadpcm.bfstm"
+    type: betting
+  - id: opening_overworld_eow
+    title: "Opening Overworld"
+    path: "M124_Field0.dspadpcm.bfstm"
+    type: betting
+  - id: suthorn_village
+    title: "Suthorn Village"
+    path: "M013_VillageSouth.dspadpcm.bfstm"
+    type: betting
+  - id: lueberry_s_house
+    title: "Lueberry's House"
+    path: "M014_LuberiHouse.dspadpcm.bfstm"
+    type: break
+  - id: still_world
+    title: "Still World"
+    path: "M015_Boundary.dspadpcm.bfstm"
+    type: break
+  - id: suthorn_ruins
+    title: "Suthorn Ruins"
+    path: "M016_Dungeon_Forest.dspadpcm.bfstm"
+    type: betting
+  - id: overworld_eow
+    title: "Overworld"
+    path: "M023_Field1.dspadpcm.bfstm"
+    type: betting
+  - id: kakariko_village_eow
+    title: "Kakariko Village"
+    path: "M024_KakarikoVillage.dspadpcm.bfstm"
+    type: betting
+  - id: hyrule_ranch_eow
+    title: "Hyrule Ranch"
+    path: "M025_Ranch.dspadpcm.bfstm"
+    type: betting
+  - id: horse_race_eow
+    title: "Horse Race"
+    path: "M026_MiniGame_HorseRace.dspadpcm.bfstm"
+    type: warning
+  - id: jabul_waters
+    title: "Jabul Waters"
+    path: "M029_Field_SeaRiver.dspadpcm.bfstm"
+    type: betting
+  - id: sea_zora_village
+    title: "Sea Zora Village"
+    path: "M030_ZoraTownSea.dspadpcm.bfstm"
+    type: break
+  - id: river_zora_village
+    title: "River Zora Village"
+    path: "M031_ZoraTownRiver.dspadpcm.bfstm"
+    type: betting
+  - id: dradd_and_kushara_s_song
+    title: "Dradd and Kushara's Song"
+    path: "M036_Ev_SeaRiver_Finale.dspadpcm.bfstm"
+    type: result
+  - id: fairy_fountain_eow
+    title: "Fairy Fountain"
+    path: "M037_GreatFairy.dspadpcm.bfstm"
+    type: break
+  - id: jabul_ruins
+    title: "Jabul Ruins"
+    path: "M038_Dungeon_SeaRiver.dspadpcm.bfstm"
+    type: betting
+  - id: dungeon_battle_eow
+    title: "Dungeon Battle"
+    path: "M043_Zenmetsu.dspadpcm.bfstm"
+    type: warning
+  - id: gerudo_desert_eow
+    title: "Gerudo Desert"
+    path: "M044_Field_Desert.dspadpcm.bfstm"
+    type: break
+  - id: mango_rush
+    title: "Mango Rush"
+    path: "M045_MiniGame_Spin.dspadpcm.bfstm"
+    type: warning
+  - id: gerudo_town_eow
+    title: "Gerudo Town"
+    path: "M046_GerudoTown.dspadpcm.bfstm"
+    type: betting
+  - id: gerudo_sanctum
+    title: "Gerudo Sanctum"
+    path: "M047_Dungeon_Desert.dspadpcm.bfstm"
+    type: betting
+  - id: mid_boss_eow
+    title: "Mid-Boss"
+    path: "M051_MiddleBoss.dspadpcm.bfstm"
+    type: battle
+  - id: return_to_hyrule_castle
+    title: "Return to Hyrule Castle"
+    path: "M055_Ev_Castle_Finale_A.dspadpcm.bfstm"
+    type: betting
+  - id: overworld_version_2_eow
+    title: "Overworld (Version 2)"
+    path: "M056_Field2.dspadpcm.bfstm"
+    type: betting
+  - id: enemy_camp_eow
+    title: "Enemy Camp"
+    path: "M058_Toride.dspadpcm.bfstm"
+    type: warning
+  - id: eldin_volcano_eow
+    title: "Eldin Volcano"
+    path: "M059_Field_Volcano.dspadpcm.bfstm"
+    type: betting
+  - id: goron_city_eow
+    title: "Goron City"
+    path: "M060_GoronCity.dspadpcm.bfstm"
+    type: betting
+  - id: eldin_temple
+    title: "Eldin Temple"
+    path: "M062_Dungeon_Volcano.dspadpcm.bfstm"
+    type: betting
+  - id: faron_wetlands
+    title: "Faron Wetlands"
+    path: "M069_Field_Jungle.dspadpcm.bfstm"
+    type: betting
+  - id: scrubton
+    title: "Scrubton"
+    path: "M070_DekunutTown.dspadpcm.bfstm"
+    type: betting
+  - id: hebra_mountain
+    title: "Hebra Mountain"
+    path: "M077_Field_Snow.dspadpcm.bfstm"
+    type: break
+  - id: lanaryu_temple
+    title: "Lanaryu Temple"
+    path: "M079_Dungeon_Snow.dspadpcm.bfstm"
+    type: betting
+  - id: stilled_ancient_ruins
+    title: "Stilled Ancient Ruins"
+    path: "M088_Boundary2.dspadpcm.bfstm"
+    type: betting
+  - id: null_s_body
+    title: "Null's Body"
+    path: "M092_Dungeon_Last_A.dspadpcm.bfstm"
+    type: break
+  - id: boss_null_phase_3
+    title: "Boss: Null (Phase 3)"
+    path: "M094_Mu3.dspadpcm.bfstm"
+    type: battle
+  - id: swordfighter_form
+    title: "Swordfighter Form"
+    path: "M120_Field_Sword.dspadpcm.bfstm"
+    type: warning
+  - id: eastern_palace
+    title: "Eastern Palace"
+    path: "M122_Dungeon_Balom.dspadpcm.bfstm"
+    type: betting
+  - id: boss_null_phase_2
+    title: "Boss: Null (Phase 2)"
+    path: "M127_Mu2.dspadpcm.bfstm"
+    type: battle
+  - id: boss_null_phase_1
+    title: "Boss: Null (Phase 1)"
+    path: "BGM_BATTLE_BOSS_MU1.bfstm"
+    type: battle
+  - id: boss_vocavor
+    title: "Boss: Vocavor"
+    path: "BGM_BATTLE_BOSS_SEARIVER.bfstm"
+    type: battle
+  - id: boss_skorchill
+    title: "Boss: Skorchill"
+    path: "BGM_BATTLE_BOSS_SNOW.bfstm"
+    type: battle
+  - id: boss_volvagia
+    title: "Boss: Volvagia"
+    path: "BGM_BATTLE_BOSS_VOLCANO.bfstm"
+    type: battle
+  - id: boss_echo_link
+    title: "Boss: Echo Link"
+    path: "BGM_BATTLE_ENEMY_LINK.bfstm"
+    type: battle
+  - id: boss_ganon
+    title: "Boss: Ganon"
+    path: "BGM_BATTLE_GANON_OP.bfstm"
+    type: battle
+  - id: boss_ganon_swordfighter
+    title: "Boss: Ganon (Swordfighter)"
+    path: "BGM_BATTLE_GANON_OP2.bfstm"
+    type: battle
+  - id: opening_dungeon_eow
+    title: "Opening Dungeon"
+    path: "BGM_DUGEON_OP_DUNGEON.bfstm"
+    type: betting
+  - id: hyrule_castle_still_world
+    title: "Hyrule Castle (Still World)"
+    path: "BGM_DUNGEON_BOUNDARY_CASTLE.bfstm"
+    type: betting
+  - id: boss_echo_zelda
+    title: "Boss: Echo Zelda"
+    path: "BGM_PASTE_ZELDA.bfstm"
+    type: battle
+  - id: boss_mogryph
+    title: "Boss: Mogryph"
+    path: "BGM_BATTLE_BOSS_DESERT.bfstm"
+    type: battle
+  - id: boss_seismic_talus
+    title: "Boss: Seismic Talus"
+    path: "BGM_BATTLE_BOSS_FOREST.bfstm"
+    type: battle
+  - id: boss_gohma
+    title: "Boss: Gohma"
+    path: "BGM_BATTLE_BOSS_JUNGLE.bfstm"
+    type: battle
+...

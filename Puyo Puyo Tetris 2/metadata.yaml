@@ -3,12 +3,12 @@ id: puyo_puyo_tetris_2
 title: "Puyo Puyo Tetris 2"
 platform: "Various"
 year: 2020
-songs: 
+songs:
   - id: puyo_puyo_tetris_2_menu
     title: "Puyo Puyo Tetris 2 Menu"
     path: "BGM_0000000C.hca"
     type: break
-  - id: let_s_character_select!
+  - id: let_s_character_select
     title: "Let's Character Select!"
     path: "BGM_0000000D.hca"
     type: betting
@@ -88,7 +88,7 @@ songs:
     title: "Righteous Existence"
     path: "BGM_0000001D.hca"
     type: battle
-  - id: puyo_tetris_2_dialogue_final_showdown ~
+  - id: puyo_tetris_2_dialogue_final_showdown
     title: "Puyo Tetris 2 Dialogue ~ Final Showdown ~"
     path: "BGM_00000007.hca"
     type: betting

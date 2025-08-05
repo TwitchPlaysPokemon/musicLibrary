@@ -4,7 +4,7 @@ title: "Terraria"
 platform: "Various"
 #other platforms: ["PC", "360", "PS3", "Wii U", "Vita", "Android", "iOS", "Windows Phone", "Mobile", "PS4", "XB1", "3DS", "Switch"]
 year: 2011
-songs: 
+songs:
   - id: alternate_day_terraria
     title: "Alternate Day"
     path: "Alternate Day.brstm"
@@ -182,7 +182,7 @@ songs:
     title: "Sandstorm"
     path: "Sandstorm.brstm"
     type: betting
-  - id: Slime Rain
+  - id: slime_rain
     title: "Slime Rain"
     path: "Slime Rain.brstm"
     type: betting

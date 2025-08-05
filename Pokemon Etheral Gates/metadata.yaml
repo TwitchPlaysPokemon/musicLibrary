@@ -1,12 +1,12 @@
 ---
-id: pokemon_etheral_gates
-title: "Pokémon Etheral Gates"
+id: pokemon_ethereal_gates
+title: "Pokémon Ethereal Gates"
 series: pokemon
 platform: "PC"
 is_fanwork: true
 year: 2015
 songs:
-  - id: title_etheral_gates
+  - id: title_ethereal_gates
     title: "Title"
     path: "Title.brstm"
     type: result
@@ -18,27 +18,27 @@ songs:
     title: "Professor Hawthorne"
     path: "Professor Hawthorne.brstm"
     type: break
-  - id: route_1_etheral_gates
+  - id: route_1_ethereal_gates
     title: "Route 1"
     path: "Route 1.brstm"
     type: betting
-  - id: route_3_etheral_gates
+  - id: route_3_ethereal_gates
     title: "Route 3"
     path: "Route 3.brstm"
     type: break
-  - id: gate_etheral_gates
+  - id: gate_ethereal_gates
     title: "Gate"
     path: "Gate.brstm"
     type: break
-  - id: friends_etheral_gates
+  - id: friends_ethereal_gates
     title: "Friends"
     path: "Friends.brstm"
     type: betting
-  - id: pokemon_center_etheral_gates
+  - id: pokemon_center_ethereal_gates
     title: "Pokémon Center"
     path: "Center.brstm"
     type: betting
-  - id: pokemart_etheral_gates
+  - id: pokemart_ethereal_gates
     title: "Pokémart"
     path: "Mart.brstm"
     type: break
@@ -70,7 +70,7 @@ songs:
     title: "Longspur City Gym"
     path: "Longspur City Gym.brstm"
     type: betting
-  - id: evolution_etheral_gates
+  - id: evolution_ethereal_gates
     title: "Evolution!"
     path: "Evolution!.brstm"
     type: warning
@@ -78,11 +78,11 @@ songs:
     title: "Team Mythos Appears!"
     path: "Team Mythos Appears!.brstm"
     type: warning
-  - id: battle_wild_pokemon_etheral
+  - id: battle_wild_pokemon_ethereal
     title: "Battle! (Wild Pokémon)"
     path: "Battle! (Wild).brstm"
     type: battle
-  - id: battle_trainer_etheral
+  - id: battle_trainer_ethereal
     title: "Battle! (Trainer)"
     path: "Battle! (Trainer).brstm"
     type: battle
@@ -90,23 +90,23 @@ songs:
     title: "Battle! (Mythos Grunt)"
     path: "Battle! (Mythos Grunts).brstm"
     type: battle
-  - id: battle_rival_etheral
+  - id: battle_rival_ethereal
     title: "Battle! (Rival)"
     path: "Battle! (Rival).brstm"
     type: battle
-  - id: battle_gym_leader_etheral
+  - id: battle_gym_leader_ethereal
     title: "Battle! (Gym Leader)"
     path: "Battle! (Gym Leader).brstm"
     type: battle
-  - id: victory_trainer_etheral
+  - id: victory_trainer_ethereal
     title: "Victory! (Trainer)"
     path: "Victory! (Trainer).brstm"
     type: result
-  - id: victory_gym_leader_etheral
+  - id: victory_gym_leader_ethereal
     title: "Victory! (Gym Leader)"
     path: "Victory! (Gym Leader).brstm"
     type: result
-  - id: victory_wild_pokemon_etheral
+  - id: victory_wild_pokemon_ethereal
     title: "Victory! (Wild Pokémon)"
     path: "Victory! (Wild).brstm"
     type: result

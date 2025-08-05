@@ -1,0 +1,309 @@
+---
+id: fire_emblem_engage
+title: "Fire Emblem Engage"
+platform: "Switch"
+year: 2023
+#just using brstms for now
+songs: 
+  - id: engage_main_theme
+    title: "Engage (Main Theme)"
+    path: "Engage (Main Theme).brstm"
+    type: battle #intro a bit long - maybe betting?
+  - id: bloom_in_the_breeze
+    title: "Bloom in the Breeze"
+    path: "Bloom in the Breeze.brstm"
+    type: betting
+  - id: bloom_in_the_breeze_blossom
+    title: "Bloom in the Breeze (Blossom)"
+    path: "Bloom in the Breeze (Blossom).brstm"
+    type: battle
+  - id: full_bloom_in_the_breeze
+    title: "Full Bloom in the Breeze"
+    path: "Full Bloom in the Breeze.brstm"
+    type: betting
+  - id: full_bloom_in_the_breeze_blossom
+    title: "Full Bloom in the Breeze (Blossom)"
+    path: "Full Bloom in the Breeze (Blossom).brstm"
+    type: battle
+  - id: bright_sandstorm
+    title: "Bright Sandstorm"
+    path: "Bright Sandstorm.brstm"
+    type: betting
+  - id: bright_sandstorm_fiery
+    title: "Bright Sandstorm (Fiery)"
+    path: "Bright Sandstorm (Fiery).brstm"
+    type: battle
+  - id: bright_bold_sandstorm
+    title: "Bright, Bold Sandstorm"
+    path: "Bright, Bold Sandstorm.brstm"
+    type: betting
+  - id: bright_bold_sandstorm_fiery
+    title: "Bright, Bold Sandstorm (Fiery)"
+    path: "Bright, Bold Sandstorm (Fiery).brstm"
+    type: battle
+  - id: fire_emblem_theme_engage
+    title: "Fire Emblem Theme"
+    path: "Fire Emblem Theme.brstm"
+    type: result
+  - id: keeper_of_history
+    title: "Keeper of History"
+    path: "Keeper of History.brstm"
+    type: battle
+  - id: falling_petals
+    title: "Falling Petals"
+    path: "Falling Petals.brstm"
+    type: betting
+  - id: corrupted_engage
+    title: "Corrupted"
+    path: "Corrupted.brstm"
+    type: warning
+  - id: caring_engage
+    title: "Caring"
+    path: "Caring.brstm"
+    type: break
+  - id: preparations_engage
+    title: "Preparations"
+    path: "Preparations.brstm"
+    type: betting
+  - id: mirrored_engage
+    title: "Mirrored Engage"
+    path: "Mirrored Engage.brstm"
+    type: betting
+  - id: salvation_and_loss
+    title: "Salvation and Loss"
+    path: "Salvation and Loss.brstm"
+    type: betting
+  - id: salvation_and_loss_rebellion
+    title: "Salvation and Loss (Rebellion)"
+    path: "Salvation and Loss (Rebellion).brstm"
+    type: betting
+  - id: twin_dragons_hope
+    title: "Twin Dragons' Hope"
+    path: "Twin Dragons' Hope.brstm"
+    type: betting
+  - id: tear_streaked
+    title: "Tear Streaked"
+    path: "Tear Streaked.brstm"
+    type: battle
+  - id: tear_streaked_ice
+    title: "Tear Streaked (Ice)"
+    path: "Tear Streaked (Ice).brstm"
+    type: battle
+  - id: goddess_in_shadow_frenzy
+    title: "Goddess in Shadow (Frenzy)"
+    path: "Goddess in Shadow (Frenzy).brstm"
+    type: battle
+  - id: spreader_of_chaos_frenzy
+    title: "Spreader of Chaos (Frenzy)"
+    path: "Spreader of chaos (Frenzy).brstm"
+    type: warning
+  - id: the_twelve_stars_ring_chamber
+    title: "The Twelve Stars (Ring Chamber)"
+    path: "The Twelve Stars (Ring Chamber).brstm"
+    type: break
+  - id: somniel_1_good_morning_divine_one
+    title: "Somniel 1 - Good Morning, Divine One"
+    path: "Somniel 1 - Good Morning, Divine One.brstm"
+    type: break
+  - id: somniel_2_on_day_patrol_divine_one
+    title: "Somniel 2 - On Day Patrol, Divine One?"
+    path: "Somniel 2 - On Day Patrol, Divine One_.brstm"
+    type: break
+  - id: somniel_3_enjoy_the_evening_divine_one
+    title: "Somniel 3 - Enjoy the Evening, Divine One"
+    path: "Somniel 3 - Enjoy the Evening, Divine One.brstm"
+    type: break
+  - id: somniel_4_late_night_stroll_divine_one
+    title: "Somniel 4 - Late Night Stroll, Divine One?"
+    path: "Somniel 4 - Late Night Stroll, Divine One_.brstm"
+    type: break
+  - id: broken_bonds_engage
+    title: "Broken Bonds"
+    path: "Broken Bonds.brstm"
+    type: betting
+  - id: royal_confidence
+    title: "Royal Confidence"
+    path: "Royal Confidence.brstm"
+    type: betting
+  - id: royal_confidence_might
+    title: "Royal Confidence (Might)"
+    path: "Royal Confidence (Might).brstm"
+    type: battle
+  - id: unshaken_royal_confidence
+    title: "Unshaken Royal Confidence"
+    path: "Unshaken Royal Confidence.brstm"
+    type: betting
+  - id: unshaken_royal_confidence_might
+    title: "Unshaken Royal Confidence (Might)"
+    path: "Unshaken Royal Confidence (Might).brstm"
+    type: battle
+  - id: defective_frenzy
+    title: "Defective (Frenzy)"
+    path: "Defective (Frenzy).brstm"
+    type: battle
+  - id: faraway_holy_land
+    title: "Faraway Holy Land"
+    path: "Faraway Holy Land.brstm"
+    type: betting
+  - id: faraway_holy_land_flare
+    title: "Faraway Holy Land (Flare)"
+    path: "Faraway Holy Land (Flare).brstm"
+    type: battle
+  - id: faraway_eternal_holy_land
+    title: "Faraway, Eternal Holy Land"
+    path: "Faraway, Eternal Holy Land.brstm"
+    type: betting
+  - id: faraway_eternal_holy_land_flare
+    title: "Faraway, Eternal Holy Land (Flare)"
+    path: "Faraway, Eternal Holy Land (Flare).brstm"
+    type: battle
+  - id: determined_journey
+    title: "Determined Journey"
+    path: "Determined Journey.brstm"
+    type: betting
+  - id: determined_journey_flare
+    title: "Determined Journey (Flare)"
+    path: "Determined Journey (Flare).brstm"
+    type: battle
+  - id: last_engage_prayer_incantation
+    title: "Last Engage Prayer Incantation"
+    path: "Last Engage Prayer Incantation.brstm"
+    ends: 3:30
+    type: betting
+  - id: the_four_hounds_frenzy
+    title: "The Four Hounds (Frenzy)"
+    path: "The Four Hounds (Frenzy).brstm"
+    type: battle
+  - id: jukebox_1_a_tea_party_in_firene
+    title: "Jukebox 1 - A Tea Party in Firene"
+    path: "Jukebox 1 - A Tea Party in Firene.brstm"
+    type: break
+  - id: jukebox_2_good_company_in_brodia
+    title: "Jukebox 2 - Good Company in Brodia"
+    path: "Jukebox 2 - Good Company in Brodia.brstm"
+    type: break
+  - id: jukebox_3_dinner_in_elusia
+    title: "Jukebox 3 - Dinner in Elusia"
+    path: "Jukebox 3 - Dinner in Elusia.brstm"
+    type: break
+  - id: jukebox_4_camping_in_solm
+    title: "Jukebox 4 - Camping in Solm"
+    path: "Jukebox 4 - Camping in Solm.brstm"
+    type: betting
+  - id: jukebox_5_emblems_at_the_dinner_table
+    title: "Jukebox 5 - Emblems at the Dinner Table"
+    path: "Jukebox 5 - Emblems at the Dinner Table.brstm"
+    type: break
+  - id: trial_of_emblems_marth
+    title: "Trial of Emblems (Marth)"
+    path: "Trial of Emblems (Marth).brstm"
+    type: betting
+  - id: trial_of_emblems_marth_shine_on
+    title: "Trial of Emblems (Marth, Shine On)"
+    path: "Trial of Emblems (Marth, Shine On).brstm"
+    type: battle
+  - id: trial_of_echoes_celica
+    title: "Trial of Echoes (Celica)"
+    path: "Trial of Echoes (Celica).brstm"
+    type: betting
+  - id: trial_of_echoes_celica_care_for_us
+    title: "Trial of Echoes (Celica, Care for Us)"
+    path: "Trial of Echoes (Celica, Care for Us).brstm"
+    type: battle
+  - id: trial_of_the_genealogy_lief
+    title: "Trial of the Genealogy (Leif)"
+    path: "Trial of the Genealogy (Leif).brstm"
+    type: betting
+  - id: trial_of_the_genealogy_lief_free_us
+    title: "Trial of the Genealogy (Leif, Free Us)"
+    path: "Trial of the Genealogy (Leif, Free Us).brstm"
+    type: battle
+  - id: trial_of_the_holy_war_sigurd
+    title: "Trial of the Holy War (Sigurd)"
+    path: "Trial of the Holy War (Sigurd).brstm"
+    type: betting
+  - id: trial_of_the_holy_war_sigurd_provide_for_us
+    title: "Trial of the Holy War (Sigurd, Provide for Us)"
+    path: "Trial of the Holy War (Sigurd, Provide for Us).brstm"
+    type: battle
+  - id: trial_of_binding_roy
+    title: "Trial of Binding (Roy)"
+    path: "Trial of Binding (Roy).brstm"
+    type: betting
+  - id: trial_of_binding_roy_rise_up
+    title: "Trial of Binding (Roy, Rise Up)"
+    path: "Trial of Binding (Roy, Rise Up).brstm"
+    type: battle
+  - id: trial_of_blazing_lyn
+    title: "Trial of Blazing (Lyn)"
+    path: "Trial of Blazing (Lyn).brstm"
+    type: betting
+  - id: trial_of_blazing_lyn_sweep_across
+    title: "Trial of Blazing (Lyn, Sweep Across)"
+    path: "Trial of Blazing (Lyn, Sweep Across).brstm"
+    type: battle
+  - id: trial_of_the_sacred_eirika
+    title: "Trial of the Sacred (Eirika)"
+    path: "Trial of the Sacred (Eirika).brstm"
+    type: betting
+  - id: trial_of_the_sacred_eirika_restore_calm
+    title: "Trial of the Sacred (Eirika, Restore Calm)"
+    path: "Trial of the Sacred (Eirika, Restore Calm).brstm"
+    type: battle
+  - id: trial_of_radiance_ike
+    title: "Trial of Radiance (Ike)"
+    path: "Trial of Radiance (Ike).brstm"
+    type: betting
+  - id: trial_of_radiance_ike_fight_on
+    title: "Trial of Radiance (Ike, Fight On)"
+    path: "Trial of Radiance (Ike, Fight On).brstm"
+    type: battle
+  - id: trial_of_dawn_micaiah
+    title: "Trial of Dawn (Micaiah)"
+    path: "Trial of Dawn (Micaiah).brstm"
+    type: betting
+  - id: trial_of_dawn_micaiah_heal_us
+    title: "Trial of Dawn (Micaiah, Heal Us)"
+    path: "Trial of Dawn (Micaiah, Heal Us).brstm"
+    type: battle
+  - id: trial_of_awakening_lucina
+    title: "Trial of Awakening (Lucina)"
+    path: "Trial of Awakening (Lucina).brstm"
+    type: betting
+  - id: trial_of_awakening_lucina_reignite_us
+    title: "Trial of Awakening (Lucina, Reignite Us)"
+    path: "Trial of Awakening (Lucina, Reignite Us).brstm"
+    type: battle
+  - id: trial_of_fates_corrin
+    title: "Trial of Fates (Corrin)"
+    path: "Trial of Fates (Corrin).brstm"
+    type: betting
+  - id: trial_of_fates_corrin_bare_your_fangs
+    title: "Trial of Fates (Corrin, Bare Your Fangs)"
+    path: "Trial of Fates (Corrin, Bare Your Fangs).brstm"
+    type: battle
+  - id: trial_of_heroes_veronica
+    title: "Trial of Heroes (Veronica)"
+    path: "Trial of Heroes (Veronica).brstm"
+    type: betting
+  - id: trial_of_heroes_veronica_heed_our_call
+    title: "Trial of Heroes (Veronica, Heed our Call)"
+    path: "Trial of Heroes (Veronica, Heed our Call).brstm"
+    type: battle
+  - id: trial_of_the_academy_byleth
+    title: "Trial of the Academy (Byleth)"
+    path: "Trial of the Academy (Byleth).brstm"
+    type: betting
+  - id: trial_of_the_academy_byleth_teach_us
+    title: "Trial of the Academy (Byleth, Teach Us)"
+    path: "Trial of the Academy (Byleth, Teach Us).brstm"
+    type: battle
+  - id: trial_of_the_pact_alear
+    title: "Trial of the Pact (Alear)"
+    path: "Trial of the Pact (Alear).brstm"
+    type: betting
+  - id: trial_of_the_pact_alear_connect_us
+    title: "Trial of the Pact (Alear, Connect Us)"
+    path: "Trial of the Pact (Alear, Connect Us).brstm"
+    type: battle
+...

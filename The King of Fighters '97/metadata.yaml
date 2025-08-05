@@ -3,7 +3,7 @@ id: the_king_of_fighters_97
 title: "The King of Fighters '97"
 platform: "Various"
 year: 1997
-songs: 
+songs:
   - id: order_player_select
     title: "ORDER (Player Select)"
     path: "03 Order (Player Select).vgz"
@@ -36,7 +36,7 @@ songs:
     title: "Still Green (Shingo Yabuki)"
     path: "15 Still Green (Shingo Yabuki).vgz"
     type: betting
-  - id: c62_shirokuni- (Ryuji Yamazaki)
+  - id: c62_shirokuni_ryuji_yamazaki
     title: "C62 -Shirokuni- (Ryuji Yamazaki)"
     path: "16 C62 -Shirokuni- (Ryuji Yamazaki).vgz"
     type: betting
@@ -52,15 +52,15 @@ songs:
     title: "COOL JAM ~Stormy Saxophone 3~ (Iori Yagami)"
     path: "21 Cool Jam ~Stormy Saxophone 3~ (Iori Yagami).vgz"
     type: betting
-  - id: control_crisis_?_stage
+  - id: control_crisis_stage
     title: "CONTROL CRISIS (? Stage)"
     path: "26 Control Crisis (Secret Stage).vgz"
     type: betting
-  - id: rhythmic_hallucination_??_stage
+  - id: rhythmic_hallucination_stage
     title: "Rhythmic Hallucination (?? Stage)"
     path: "29 Rhythmic Hallucination (Secret Stage).vgz"
     type: betting
-  - id: the_origin_of_mind_???_stage
+  - id: the_origin_of_mind_stage
     title: "The Origin of Mind (??? Stage)"
     path: "31 The Origin of Mind (Secret Stage).vgz"
     type: battle

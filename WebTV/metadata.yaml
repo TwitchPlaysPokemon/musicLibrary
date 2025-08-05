@@ -1,0 +1,48 @@
+---
+id: webtv
+title: "WebTV"
+platform: "WebTV"
+year: 1996
+#it was a web-based TV application, so it is very very slightly related to gaming I guess???
+songs:
+  - id: aerialize
+    title: "Aerialize"
+    path: "Aerialize.brstm"
+    type: betting
+  - id: alexandra_s_apple
+    title: "Alexandra's Apple"
+    path: "Alexandra's Apple.brstm"
+    type: break
+  - id: desert_webtv
+    title: "Desert"
+    path: "Desert.brstm"
+    type: result
+  - id: dream_anime
+    title: "Dream Anime"
+    path: "Dream Anime.brstm"
+    type: result
+  - id: flutey
+    title: "Flutey"
+    path: "Flutey.brstm"
+    type: result
+  - id: flutter_webtv
+    title: "Flutter"
+    path: "Flutter.brstm"
+    type: betting
+  - id: moonlight_sonata_1st_movement_webtv
+    title: "Moonlight Sonata (1st Movement)"
+    path: "Moonlight Sonata (1st Movement).brstm"
+    type: betting
+  - id: stardancer
+    title: "Stardancer"
+    path: "Stardancer.brstm"
+    type: betting
+  - id: swing_set
+    title: "Swing Set"
+    path: "Swing Set.brstm"
+    type: betting
+  - id: xess
+    title: "Xess"
+    path: "Xess.brstm"
+    type: betting
+...

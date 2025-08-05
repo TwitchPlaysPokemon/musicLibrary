@@ -45,4 +45,36 @@ songs:
     title: "CHA-LA HEAD-CHA-LA (Variation)"
     path: "Bgm_M0703.adx"
     type: break
+  - id: through_the_fire
+    title: "Through the Fire"
+    path: "Through the Fire.brstm"
+    type: result
+  - id: finish_it_dbzk
+    title: "Finish It!"
+    path: "Finish It!.brstm"
+    type: battle
+  - id: impending_threat_dbzk
+    title: "Impending Threat"
+    path: "Impending Threat.brstm"
+    type: warning
+  - id: everyday_fun
+    title: "Everyday Fun"
+    path: "Everyday Fun.brstm"
+    type: result
+  - id: something_s_off
+    title: "Something's Off"
+    path: "Something's Off.brstm"
+    type: warning
+  - id: golden_frieza
+    title: "Golden Frieza"
+    path: "Golden Frieza.brstm"
+    type: battle
+  - id: the_winner_is_dbzk
+    title: "The Winner Is..."
+    path: "The Winner Is....brstm"
+    type: result
+  - id: solid_state_scouter_instrumental
+    title: "Solid State Scouter (Instrumental)"
+    path: "Solid State Scouter (Instrumental).brstm"
+    type: betting
 ...

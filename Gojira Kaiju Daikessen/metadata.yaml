@@ -3,7 +3,7 @@ id: gojira_kaiju_daikessen
 title: "Gojira Kaijū Daikessen"
 platform: "SFC"
 year: 1994
-songs: 
+songs:
   - id: opening_gojira_kaiju_daikessen
     title: "Opening"
     path: "112 Opening.spc"
@@ -52,7 +52,7 @@ songs:
     title: "The Final Battle (Super MechaGodzilla Stage)"
     path: "123 The Final Battle.spc"
     type: warning
-  - id: armageddon_at_sea_???_stage
+  - id: armageddon_at_sea_question_marks_stage
     title: "Armageddon at Sea (??? Stage)"
     path: "124 Armageddon at Sea.spc"
     type: result

@@ -184,4 +184,9 @@ songs:
     title: "Elder Kettle"
     path: "Elder Kettle.brstm"
     type: break
+  - id: bootlegger_boogie
+    title: "Bootlegger Boogie"
+    path: "Bootlegger Boogie.brstm"
+    ends: 3:00
+    type: betting
 ...

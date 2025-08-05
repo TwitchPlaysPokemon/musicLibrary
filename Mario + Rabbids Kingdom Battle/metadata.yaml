@@ -37,27 +37,31 @@ songs:
   - id: lagoon_promenade
     title: "Lagoon Promenade"
     path: "Lagoon Promenade.brstm"
+    ends: 2:10
     type: betting
   - id: a_stroll_in_the_cemetery
     title: "A Stroll in the Cemetery"
     path: "A Stroll in the Cemetery.brstm"
+    ends: 2:15
     type: betting
   - id: a_song_of_ice_and_desert
     title: "A Song of Ice and Desert"
     path: "A Song of Ice and Desert.brstm"
+    ends: 2:28
     type: betting
   - id: banana_battles
     title: "Banana Battles"
     path: "Banana Battles.brstm"
+    ends: 2:29
     type: betting
   - id: combat_in_the_cemetery
     title: "Combat in the Cemetery"
     path: "Combat in the Cemetery.brstm"
-    type: betting
+    type: battle
   - id: the_lava_forge
     title: "The Lava Forge"
     path: "The Lava Forge.brstm"
-    type: betting
+    type: battle
   - id: bwaah_enemies
     title: "Bwaaah Enemies!"
     path: "Bwaaah Enemies!.brstm"
@@ -73,5 +77,5 @@ songs:
   - id: jungle_joust
     title: "Jungle Joust"
     path: "Jungle Joust.brstm"
-    type: betting
+    type: battle
 ...
