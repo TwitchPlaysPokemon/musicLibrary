@@ -1,0 +1,24 @@
+id: brazilian_drug_dealer_3
+title: "BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT"
+year: 2025
+platform: "PC"
+#I'm not sorry
+songs:
+  - id: mapa1
+    title: "MAPA 1"
+    path: "01.brstm"
+    type: battle
+  - id: mapa_2
+    title: "MAPA 2"
+    path: "02.mp3"
+    type: warning
+  - id: cristopaodeacucar2_pastor_marginal_2
+    title: "CRISTOPAODEACUCAR2 Pastor Marginal 2"
+    path: "10.mp3"
+    type: betting
+  - id: copaloco_breakcore_do_brasil_descarrilhado
+    title: "COPALOCO (BREAKCORE DO BRASIL DESCARRILHADO)"
+    path: "12.mp3"
+    ends: 2:20
+    type: betting
+...

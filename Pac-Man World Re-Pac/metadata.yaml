@@ -1,0 +1,71 @@
+---
+id: pac_man_world_re_pac
+title: "Pac-Man World Re-Pac"
+series: pacman
+platform: "Various"
+year: 2022
+songs:
+  - id: buccaneer_beach_repac
+    title: "Buccaneer Beach"
+    path: "Buccaneer Beach.brstm"
+    type: betting
+  - id: manic_mines_repac
+    title: "Manic Mines"
+    path: "Manic Mines.brstm"
+    type: warning
+  - id: space_race_repac
+    title: "Space Race"
+    path: "Space Race.brstm"
+    type: warning
+  - id: anubis_rex_part_2_repac
+    title: "Anubis Rex - Part 2"
+    path: "Anubis Rex - Part 2.brstm"
+    type: betting
+  - id: gallery_repac
+    title: "Gallery"
+    path: "Gallery.brstm"
+    type: break
+  - id: power_pellets_repac
+    title: "Power Pellets"
+    path: "Power Pellets.brstm"
+    type: warning
+  - id: clowning_around_repac
+    title: "Clowning Around"
+    path: "Clowning Around.brstm"
+    type: betting
+  - id: down_the_tubes_repac
+    title: "Down the Tubes"
+    path: "Down the Tubes.brstm"
+    type: betting
+  - id: spin_dizzy_repac
+    title: "Spin Dizzy"
+    path: "Spin Dizzy.brstm"
+    type: betting
+  - id: ghost_island_repac
+    title: "Ghost Island"
+    path: "Ghost Island.brstm"
+    type: result
+  - id: grave_danger_repac
+    title: "Grave Danger"
+    path: "Grave Danger (Ver. 1.0.2).brstm"
+    type: warning
+  - id: climax_repac
+    title: "Climax"
+    path: "Climax.brstm"
+    type: warning
+  - id: we_are_pac_man_jp
+    title: "We are PAC-MAN! (Japanese ver.)"
+    ends: 3:22
+    path: "We are PAC-MAN!.brstm"
+    type: betting
+  - id: we_are_pac_man_en
+    title: "We are PAC-MAN! (English ver.)"
+    ends: 3:22
+    path: "We are PAC-MAN! (English ver.).brstm"
+    type: betting
+  - id: we_are_pac_man_cn
+    title: "We are PAC-MAN! (Chinese ver.)"
+    ends: 3:22
+    path: "We are PAC-MAN! (Chinese ver.).brstm"
+    type: betting
+...

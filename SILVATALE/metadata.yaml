@@ -1,0 +1,453 @@
+---
+id: silvatale
+title: "SILVATALE"
+platform: "PC"
+series: siivagunner, undertale
+is_fanwork: true
+year: 2025
+#mod made for Undertale for its 10th anniversary. Grand.
+songs:
+  - id: once_upon_a_time_in_a_galaxy_far_far_away
+    title: "Once Upon a Time in a Galaxy Far Far Away"
+    path: "mus_story.txtp"
+    type: result
+  - id: before_we_start_the_menu_a_quick_survey
+    title: "Before we start the menu a quick survey"
+    path: "mus_menu0.txtp"
+    type: break
+  - id: your_best_grand_dad
+    title: "Your Best Grand Dad"
+    path: "mus_flowey.txtp"
+    type: warning
+  - id: i_remember_falling_down_into_black_holes_a_lot_in_mario_galaxy
+    title: "I remember falling down into black holes a lot in Mario Galaxy."
+    path: "mus_toriel.txtp"
+    type: break
+  - id: ruins_of_light_silvatale
+    title: "Ruins of Light"
+    path: "mus_ruins.txtp"
+    type: betting
+  - id: uwa_so_nostalgic
+    title: "Uwa!! So Nostalgic♫"
+    path: "mus_options_fall.txtp"
+    type: betting
+  - id: something_came_in_the_ruins_today
+    title: "Something came in the RUINS today."
+    path: "mus_prebattle1.txtp"
+    type: warning
+  - id: unnecessary_countdown
+    title: "Unnecessary Countdown"
+    path: "mus_tension.txtp"
+    type: warning
+  - id: youkai_approaching
+    title: "Youkai Approaching!!"
+    path: "mus_battle1.txtp"
+    type: battle
+  - id: savage_fight
+    title: "Savage Fight"
+    path: "mus_ghostbattle.txtp"
+    type: battle
+  - id: determined_romance
+    title: "Determined Romance"
+    path: "mus_gameover.txtp"
+    type: result
+  - id: home_alone_silvatale
+    title: "Home Alone"
+    path: "mus_house1.txtp"
+    type: break
+  - id: a_lullaby_for_sarasaland
+    title: "A Lullaby for Sarasaland"
+    path: "mus_house2.txtp"
+    type: break
+  - id: lucid_dreemurr
+    title: "Lucid Dreemurr"
+    path: "mus_boss1.txtp"
+    type: battle
+  - id: skrill
+    title: "skrill."
+    path: "mus_muscle.txtp"
+    type: betting
+  - id: nuzzah_silvatale
+    title: "Huzzah!"
+    path: "mus_papyrus.txtp"
+    type: betting
+  - id: snowy_halation
+    title: "Snowy halation"
+    path: "mus_snowy.txtp"
+    type: break
+  - id: uwa_so_silly
+    title: "Uwa!! So siLLy♫"
+    path: "mus_options_winter.txtp"
+    type: betting
+  - id: mysterious_plant
+    title: "Mysterious Plant"
+    path: "mus_mystery.txtp"
+    type: break
+  - id: theme_of_dogs
+    title: "theme of dogs"
+    path: "mus_dogsong.txtp"
+    type: result
+  - id: snowdin_town_trailer_version
+    title: "Snowdin Town (Trailer Version)"
+    path: "mus_town.txtp"
+    type: betting
+  - id: snowdin_shopping_channel
+    title: "Snowdin Shopping Channel"
+    path: "mus_shop.txtp"
+    type: break
+  - id: unfounded_bonetrousle
+    title: "Unfounded Bonetrousle" 
+    path: "mus_papyrusboss.txtp"
+    type: battle
+  - id: turnabout_start
+    title: "Turnabout Start!"
+    path: "mus_date.txtp"
+    type: betting
+  - id: tense_spanish_speed_dating
+    title: "Tense Spanish Speed Dating"
+    path: "mus_date_tense.txtp"
+    type: betting
+  - id: dating_fiesta
+    title: "¡Dating Fiesta!"
+    path: "mus_date_fight.txtp"
+    type: warning
+  - id: this_town_is_full_of_monsters_how_can_you_just_sit_there_and_drink_ketchup
+    title: "This town is full of Monsters! How can you just sit there and drink ketchup?!"
+    path: "mus_mysteriousroom2.txtp"
+    type: break
+  - id: pericolo_misterioso
+    title: "Pericolo Misterioso"
+    path: "mus_undynescary.txtp"
+    type: warning
+  - id: killer_guard
+    title: "Killer Guard"
+    path: "mus_undynetheme.txtp"
+    type: warning
+  - id: waterfall_howard_the_alien_remix
+    title: "Waterfall (Howard the alien Remix)"
+    path: "mus_waterfall.txtp"
+    type: betting
+  - id: underworld_run
+    title: "Underworld Run!"
+    path: "mus_undynefast.txtp"
+    type: warning
+  - id: quiet_piranha_plant
+    title: "Quiet Piranha Plant"
+    path: "mus_waterquiet.txtp"
+    type: break
+  - id: memery
+    title: "Memery"
+    path: "mus_musicbox.txtp"
+    type: break
+  - id: steel_thy_bird_not_the_song_but_idc
+    title: "Steel Thy Bird (not the song but idc)"
+    path: "mus_birdsong.txtp"
+    type: warning
+  - id: mad_and_glad
+    title: "Mad & Glad"
+    path: "mus_dummybattle.txtp"
+    type: battle
+  - id: pathetic_s_house
+    title: "Pathetic's House"
+    path: "mus_napstahouse.txtp"
+    type: warning
+  - id: rafttune
+    title: "Rafttune"
+    path: "mus_spoopy.txtp"
+    type: warning
+  - id: spookwave
+    title: "ＳＰＯＯＫＷＡＶＥ"
+    path: "mus_spoopy_wave.txtp"
+    type: break
+  - id: napstablook_s_haunted_house
+    title: "Napstablook's Haunted House"
+    path: "mus_spoopy_holiday.txtp"
+    type: warning
+  - id: napstaboi_carti
+    title: "Napstaboi Carti" #I think this is right?
+    path: "mus_napstachords.txtp"
+    type: betting
+  - id: thundereeeal_aubyhero_3
+    title: "Thundreeeal aubyhero 3"
+    path: "mus_race.txtp"
+    type: warning
+  - id: curb_your_determination
+    title: "Curb Your Determination"
+    path: "mus_temvillage.txtp"
+    type: result
+  - id: tem_shoppe
+    title: "Tem Shoppe"
+    path: "mus_temshop.txtp"
+    type: betting
+  - id: goombahhh
+    title: "GOOMBAHHH!!"
+    path: "mus_undynetruetheme.txtp"
+    type: warning
+  - id: captain_jack_sparrow_of_the_royal_guard
+    title: "Captain Jack Sparrow of the Royal Guard"
+    path: "mus_undyneboss.txtp"
+    type: battle
+  - id: igooor
+    title: "IGOooR"
+    path: "mus_oogloop.txtp"
+    type: break
+  - id: nalfys
+    title: "Nalfys"
+    path: "mus_lab.txtp"
+    type: warning
+  - id: would_you_smooch_a_penguin
+    title: "Would You Smooch a Penguin?"
+    path: "mus_mtgameshow.txtp"
+    type: betting
+  - id: ticket_crusher
+    title: "Ticket Crusher"
+    path: "mus_mettatonbattle.txtp"
+    type: warning
+  - id: funky_medium
+    title: "Funky Medium"
+    path: "mus_anothermedium.txtp"
+    type: betting
+  - id: this_pussy_be_yankin_like_a_motherfucker_fucker
+    title: "this pussy be yankin like a motherfucker (fucker)"
+    path: "mus_options_summer.txtp"
+    type: warning
+  - id: you_ve_been_struck_by_a_stronger_monster
+    title: "You've Been Struck by a Stronger Monster"
+    path: "mus_battle2.txtp"
+    type: battle
+  - id: mettafonsi_s_hotel
+    title: "Mettafonsi's Hotel"
+    path: "mus_hotel.txtp"
+    type: betting
+  - id: mario_silvatale
+    title: "Mario"
+    path: "mus_hotel_battle.txtp"
+    type: betting
+  - id: my_confession
+    title: "My Confession"
+    path: "mus_confession.txtp"
+    type: break
+  - id: live_card_reading
+    title: "Live Card Reading"
+    path: "mus_news.txtp"
+    type: warning
+  - id: this_rap_s_a_bomb
+    title: "This rap's a bomb"
+    path: "mus_news_battle.txtp"
+    type: warning
+  - id: spidansbul_not_megalovinopole
+    title: "Spindansbul (Not Megalovinople)"
+    path: "mus_spider.txtp"
+    type: battle
+  - id: wrong_joke
+    title: "Wrong Joke ?!"
+    path: "mus_wrongworld.txtp"
+    type: warning
+  - id: oh_one_little_pony
+    title: "Oh! One Little Pony"
+    path: "mus_mettmusical.txtp"
+    type: result
+  - id: run_human_run
+    title: "Run, Human, Run"
+    path: "mus_operatile.txtp"
+    type: warning
+  - id: sans_s_gymnopedie
+    title: "Sans's Gymnopédie"
+    path: "mus_sansdate.txtp"
+    type: break
+  - id: goat_approach
+    title: "GOAT Approach" #doesn't have an official rip name so I improvised
+    path: "mus_coretransition.txtp"
+    type: warning
+  - id: locked_in_the_underground
+    title: "Locked In The Underground"
+    path: "mus_core.txtp"
+    type: betting
+  - id: supra_metottan_krat
+    title: "supra metottan krat"
+    path: "mus_mettaton_pretransform.txtp"
+    type: warning
+  - id: ain_t_nothin_like_a_glamorous_beat
+    title: "AIN'T NOTHIN' LIKE A GLAMOROUS BEAT"
+    path: "mus_mettaton_ex.txtp"
+    type: battle
+  - id: nerfs_for_the_fans_2025
+    title: "Nerfs for the Fans 2025"
+    path: "mus_mettsad.txtp"
+    type: result
+  - id: despite_everything_you_re_still_an_all_star
+    title: "Despite Everything, You're Still An All Star"
+    path: "mus_endarea_OSTish.txtp"
+    ends: 3:06
+    type: betting
+  - id: the_grand_choice
+    title: "The Grand Choice"
+    path: "mus_chokedup.txtp"
+    type: warning
+  - id: slightly_longer_shock
+    title: "Slightly Longer Shock"
+    path: "mus_smallshock.txtp"
+    type: betting
+  - id: barrierstones
+    title: "Barrierstones"
+    path: "mus_barrier.txtp"
+    type: warning
+  - id: the_sound_of_asgore
+    title: "The Sound of ASGORE"
+    path: "mus_vsasgore.txtp"
+    type: battle
+  - id: you_nutcase
+    title: "You Nutcase"
+    path: "mus_yourbestfriend_3.txtp"
+    type: warning
+  - id: an_inappropriately_groovy_ending
+    title: "An Inappropriately Groovy Ending"
+    path: "mus_z_ending.txtp"
+    type: break
+  - id: your_baby_daddy_s_best_nightmare_ver_omega
+    title: "Your Baby Daddy's Best Nightmare (Ver. Omega)"
+    path: "mus_f.txtp"
+    type: battle
+  - id: heart_of_determination
+    title: "Heart of Determination"
+    path: "mus_f_finale.txtp"
+    type: battle
+  - id: she_s_practicing_piano
+    title: "She's Practicing Piano"
+    path: "mus_undynepiano.txtp"
+    type: warning
+  - id: here_we_rpg
+    title: "Here We RPG"
+    path: "mus_hereweare.txtp"
+    type: betting
+  - id: sorriso_ogg
+    title: "sorriso.ogg"
+    path: "mus_amalgam.txtp"
+    type: battle
+  - id: scary_monsters_and_nice_humans_reprise
+    title: "Scary Monsters and Nice Humans (Reprise)"
+    path: "mus_fallendown2.txtp"
+    type: betting
+  - id: don_t_give_up_silva
+    title: "Don't Give Up, SiIva!"
+    path: "mus_dontgiveup.txtp"
+    type: betting
+  - id: hopes_and_divinity
+    title: "Hopes And Divinity+"
+    path: "mus_xpart.txtp"
+    type: battle
+  - id: burn_in_desire
+    title: "Burn in Desire!"
+    path: "mus_a2.txtp"
+    type: warning
+  - id: save_the_world
+    title: "Save the WORLD"
+    path: "mus_xpart_2.txtp"
+    type: battle
+  - id: her_theme_full_version_takotale
+    title: "Her Theme (Full Version) - Takotale"
+    path: "mus_xpart_ab_(HIS_THEME).txtp"
+    ends: 3:05
+    type: betting
+  - id: reunited_with_memes
+    title: "Reunited With Memes"
+    path: "mus_reunited.txtp"
+    type: betting
+  - id: epic_menustones_full
+    title: "Epic Menustones (Full)"
+    path: "mus_menu6.txtp"
+    type: result
+  - id: world_out_there
+    title: "World Out There"
+    path: "mus_leave.txtp"
+    ends: 3:05
+    type: betting
+  - id: last_grand_goodbye
+    title: "Last Grand Goodbye"
+    path: "mus_express_myself.txtp"
+    ends: 2:15
+    type: betting
+  - id: but_the_dragonborn_refused_to_die
+    title: "But the Dragonborn Refused to Die"
+    path: "mus_x_undyne_pre.txtp"
+    type: warning
+  - id: battle_against_a_true_dabber_2025_remastered
+    title: "Battle Against a True Dabber (2025 Remastered)"
+    path: "mus_x_undyne.txtp"
+    type: battle
+  - id: power_of_luv
+    title: "Power of \"LUV\""
+    path: "mus_mettaton_neo.txtp"
+    type: warning
+  - id: big_boned_skeleton
+    title: "Big-Boned Skeleton"
+    path: "mus_zz_megalovania.txtp"
+    type: battle
+  - id: goodnight_to_a_world
+    title: "Goodnight to a World"
+    path: "mus_piano.txtp"
+    type: break
+#everything after this is isn't really from the album, so I have to look up the tracks even more. And improvise. 
+  - id: dance_of_sus
+    title: "Dance of Sus"
+    path: "mus_dance_of_dog.txtp"
+    type: warning
+  - id: we_did_it_guys_undertale_is_no_more
+    title: "We did it guys, Undertale is no more!"
+    path: "mus_cast_LITERALLY_JUST_FILES_LINED_TOGETHER.txtp"
+    ends: 3:27
+    type: betting
+  - id: room_of_saturn
+    title: "Room of Saturn"
+    path: "mus_dogroom.txtp"
+    type: betting
+  - id: mus_bunnyhop
+    title: "mus_bunnyhop"
+    path: "mus_menu1.txtp"
+    type: result
+  - id: mus_omori
+    title: "mus_omori"
+    path: "mus_menu2.txtp"
+    type: result
+  - id: i_dont_remember_what_the_4th_variation_sounded_like
+    title: "I don't remember what the 4th variation sounded like"
+    path: "mus_menu3.txtp"
+    type: result
+  - id: we_are_living_in_the_underground
+    title: "We Are Living In The Underground"
+    path: "mus_menu4.txtp"
+    type: betting
+  - id: mus_twinklestar
+    title: "mus_twinklestar"
+    path: "mus_menu5.txtp"
+    type: result
+  - id: mus_radio
+    title: "mus_radio"
+    path: "mus_tv.txtp"
+    type: warning
+  - id: supporting_meat_remastered
+    title: "Supporting Meat Remastered"
+    path: "mus_st_meatfactory.txtp"
+    type: battle
+  - id: chungaster_s_theme
+    title: "Chungaster's Theme"
+    path: "mus_st_him.txtp"
+    type: betting
+  - id: mysterious_faneto
+    title: "Mysterious Faneto"
+    path: "mus_dogshrine_1.ogg"
+    ends: 2:39
+    type: betting
+  - id: ping_description
+    title: "Ping Description"
+    path: "mus_kingdescription.txtp"
+    type: betting
+  - id: sigh_of_wario
+    title: "Sigh of Wario"
+    path: "mus_sigh_of_dog.txtp"
+    type: result
+  - id: happy_homecoming
+    title: "Happy Homecoming"
+    path: "mus_st_happytown.txtp"
+    type: warning
+...

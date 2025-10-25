@@ -1,0 +1,159 @@
+---
+id: pokemon_legends_z_a
+title: "Pokémon Legends: Z-A"
+series: pokemon
+platform: ["Switch", "Switch 2"]
+year: 2025
+#the raw files are incredibly tough to parse through, so this is all I've found so far.
+songs:
+  - id: lumiose_city_area_1
+    title: "Lumiose City (Area 1)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A01_MAIN_STREET).txtp"
+    type: betting
+  - id: lumiose_city_area_2
+    title: "Lumiose City (Area 2)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A02_MAIN_STREET).txtp"
+    type: betting
+  - id: lumiose_city_area_3
+    title: "Lumiose City (Area 3)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A03_MAIN_STREET).txtp"
+    type: betting
+  - id: lumiose_city_area_4
+    title: "Lumiose City (Area 4)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A04_MAIN_STREET).txtp"
+    type: betting
+  - id: lumiose_city_area_5
+    title: "Lumiose City (Area 5)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A05_MAIN_STREET).txtp"
+    type: betting
+  - id: lumiose_city_night
+    title: "Lumiose City (Night)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=NIGHT_TIME)(BGM_T1_TYPE=T1_MAIN_STREET) {s}=-.txtp"
+    type: betting
+  - id: pokemon_center_za
+    title: "Pokemon Center"
+    path: "P_L (BGM_POKECEN=POKECEN_IN).txtp"
+    type: betting
+  - id: battle_zygarde_100_form_za
+    title: "Battle! Zygarde (100% Form)"
+    path: "P_IK_VS_SELECT_23.txtp"
+    type: battle
+  - id: victory_trainer_za
+    title: "Victory! Trainer"
+    path: "P_VS_TRAINER (BGM_VS_TRAINER_TYPE=VS_TRAINER_TYPE_01)(BGM_VS_TRAINER=VS_TRAINER_WIN).txtp"
+    type: result
+  - id: photo_op_1
+    title: "Photo Op 1"
+    path: "P_IK_ST_PHOTO_01.txtp"
+    type: betting
+  - id: photo_op_2
+    title: "Photo Op 2"
+    path: "P_IK_ST_PHOTO_02.txtp"
+    type: betting
+  - id: photo_op_3
+    title: "Photo Op 3"
+    path: "P_IK_ST_PHOTO_03.txtp"
+    type: betting
+  - id: battle_wild_pokemon_type_a
+    title: "Battle! Wild Pokémon (Type A)"
+    path: "P_L (BGM_ZONE_WILD_Type=ZONE_WILD_Type_A)(BGM_ZONE_WILD_VS_BLOCK=ZONE_WILD_VS_BLOCK_OFF).txtp"
+    type: battle
+  - id: battle_wild_pokemon_type_b
+    title: "Battle! Wild Pokémon (Type B)"
+    path: "P_L (BGM_ZONE_WILD_Type=ZONE_WILD_Type_B)(BGM_ZONE_WILD_VS_BLOCK=ZONE_WILD_VS_BLOCK_OFF) {s}.txtp"
+    type: battle
+  - id: evolution_za
+    title: "Evolution"
+    path: "P_IK_ST_03_SD9110 (BGM_SD9110=SD9110_PLAY).txtp"
+    type: warning
+  - id: boutique_za
+    title: "Boutique"
+    path: "P_IK_ST_06.txtp"
+    type: betting
+  - id: battle_z_a_royale
+    title: "Battle! Z-A Royale"
+    path: "P_IK_VS_SELECT_01.txtp"
+    type: battle
+  - id: battle_wild_zone_za
+    title: "Battle! Wild Zone"
+    path: "P_IK_VS_SELECT_02.txtp"
+    type: battle
+  - id: battle_team_mz
+    title: "Battle! Team MZ"
+    path: "P_IK_VS_SELECT_03.txtp"
+    type: battle
+  - id: battle_trainer_za
+    title: "Battle! Trainer"
+    path: "P_IK_VS_SELECT_04.txtp"
+    type: battle
+  - id: battle_rogue_mega_evolution
+    title: "Battle! Rogue Mega Evolution"
+    path: "P_IK_VS_SELECT_06.txtp"
+    type: battle
+  - id: battle_wild_zone_alt_za
+    title: "Battle! Wild Zone (Alt)"
+    path: "P_IK_VS_SELECT_07.txtp"
+    type: battle
+  - id: battle_zygarde_50_za
+    title: "Battle! Zygarde 50%"
+    path: "P_IK_VS_SELECT_08.txtp"
+    type: battle
+  - id: battle_canari
+    title: "Battle! Canari"
+    path: "P_IK_VS_SELECT_09.txtp"
+    type: battle
+  - id: baqttle_alpha_pokemon_sewers
+    title: "Battle! Alpha Pokemon (Sewers)"
+    path: "P_IK_VS_SELECT_10.txtp"
+    type: battle
+  - id: battle_ivor
+    title: "Battle! Ivor"
+    path: "P_IK_VS_SELECT_11.txtp"
+    type: battle
+  - id: battle_corbeau
+    title: "Battle! Corbeau"
+    path: "P_IK_VS_SELECT_12.txtp"
+    type: battle
+  - id: battle_zygarde_10_za
+    title: "Battle! Zygarde 10%"
+    path: "P_IK_VS_SELECT_13.txtp"
+    type: battle
+  - id: battle_jacinthe
+    title: "Battle! Jacinthe"
+    path: "P_IK_VS_SELECT_14.txtp"
+    type: battle
+  - id: battle_wild_pokemon_lysandre_labs
+    title: "Battle! Wild Pokemon (Lysandre Labs)"
+    path: "P_IK_VS_SELECT_15.txtp"
+    type: battle
+  - id: battle_team_flare_nouveau
+    title: "Battle! Team Flare Nouveau"
+    path: "P_IK_VS_SELECT_16.txtp"
+    type: battle
+  - id: battle_mz_team_leader
+    title: "Battle! MZ Team Leader"
+    path: "P_IK_VS_SELECT_17.txtp"
+    type: battle
+  - id: battle_l_za
+    title: "Battle! L"
+    path: "P_IK_VS_SELECT_22.txtp"
+    type: battle
+  - id: battle_kanto_legendary_za
+    title: "Battle! Kanto Legendary"
+    path: "P_IK_VS_SELECT_25.txtp"
+    type: battle
+  - id: battle_lysandre_labs
+    title: "Battle! Lysandre Labs"
+    path: "P_IK_VS_SELECT_24.txtp"
+    type: battle
+  - id: battle_xerneas_yvetal_za
+    title: "Battle! Xerneas/Yvetal"
+    path: "P_IK_VS_SELECT_23.txtp"
+    type: battle
+  #just gonna start with these battle themes
+  #a reference if I want to add more later on...
+  # - id: zzzzzzzzzzzzzzzzzzzzzz
+    # title: "zzzzzzzzzzzzzzzzzzzzzz"
+    # path: "zzzzzzzzzzzzzzzzzzzzzzzz.txtp"
+    # type: zzzzzzzzzzzzzzzzzzzzzzz 
+...

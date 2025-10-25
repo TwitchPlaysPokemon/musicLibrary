@@ -134,4 +134,12 @@ songs:
     title: "Digga-Leg - Fast (Unused)"
     path: "SMG2_boss08b_strm.ast"
     type: battle
+  - id: twins_smg2
+    title: "Twins"
+    path: "Twins.brstm"
+    type: break
+  - id: special_someone_smg2
+    title: "Special Someone"
+    path: "Special Someone.brstm"
+    type: break
 ...

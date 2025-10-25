@@ -93,4 +93,50 @@ songs:
     path: "otherside.brstm"
     ends: 2:46
     type: betting
+  - id: lava_chicken
+    title: "Lava Chicken"
+    path: "Lava Chicken.brstm"
+    type: betting
+  - id: chrysopoeia
+    title: "Chrysopoeia"
+    path: "Chrysopoeia.brstm"
+    type: break
+  - id: danny
+    title: "Danny"
+    path: "Danny.brstm"
+    type: break
+  - id: dragon_fish_minecraft
+    title: "Dragon Fish"
+    path: "Dragon Fish.brstm"
+    type: break
+  - id: five
+    title: "Five"
+    path: "Five.brstm"
+    type: warning
+  - id: mall
+    title: "Mall"
+    path: "Mall.brstm"
+    ends: 3:00
+    type: betting
+  - id: oxygene
+    title: "Oxygène"
+    path: "Oxygène.brstm"
+    type: break
+  - id: pokopoko
+    title: "pokopoko"
+    path: "pokopoko.brstm"
+    ends: 3:20
+    type: betting
+  - id: shuniji
+    title: "Shuniji"
+    path: "Shuniji.brstm"
+    type: break
+  - id: stand_tall
+    title: "Stand Tall"
+    path: "Stand Tall.brstm"
+    type: betting
+  - id: yakusoku
+    title: "yakusoku"
+    path: "yakusoku.brstm"
+    type: break
 ...

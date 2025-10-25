@@ -254,4 +254,19 @@ songs:
     title: "Title Screen (510 prototype)"
     path: "Title Screen (510 prototype).brstm"
     type: warning
+  - id: cosmic_eternity_believe_in_yourself
+    title: "Cosmic Eternity ~ Believe in Yourself"
+    path: "Cosmic Eternity - Believe in Yourself.brstm"
+    ends: 2:59
+    type: betting
+  - id: sonic_you_can_do_anything
+    title: "Sonic ~ You Can Do Anything"
+    path: "Sonic - You Can Do Anything.brstm"
+    ends: 3:00
+    type: betting
+  - id: sonic_boom_sonic_cd
+    title: "Sonic Boom (Full Intro Version)"
+    path: "Sonic Boom (Full Intro Version).brstm"
+    ends: 3:00
+    type: betting
 ...

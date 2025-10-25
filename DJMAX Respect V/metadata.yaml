@@ -1,0 +1,42 @@
+id: djmax_respect_v
+title: "DJMAX Respect V"
+year: 2020
+platform: "Various"
+songs:
+  - id: accelerate_djv
+    title: "Accelerate"
+    path: "Accelerate (Extended Ver.).brstm"
+    type: battle
+  - id: never_let_you_go
+    title: "Never let you go"
+    path: "Blosso - Never let you go.brstm"
+    type: battle
+  - id: the_four_seasons_summer_2017
+    title: "The Four Seasons Summer 2017"
+    path: "Funtwo - The Four Seasons Summer 2017.brstm"
+    type: battle
+  - id: paradise_djv
+    title: "Paradise"
+    path: "Paradise.brstm"
+    type: battle
+  - id: new_world_djv
+    title: "New World"
+    path: "Pure 100% - New World.brstm"
+    type: battle
+  - id: revenger_djv
+    title: "Revenger"
+    path: "Revenger.brstm"
+    type: battle
+  - id: mochimochi
+    title: "mochimochi"
+    path: "Tak - mochimochi (Instrumental).brstm"
+    type: betting
+  - id: die_in_djv
+    title: "DIE IN"
+    path: "TAK x Sobrem - DIE IN.brstm"
+    type: battle
+  - id: dj_joseon
+    title: "DJ_Joseon"
+    path: "DJ_Joseon.brstm" #looping needs to be looked at
+    type: warning
+...

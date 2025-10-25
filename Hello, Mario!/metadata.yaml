@@ -1,0 +1,27 @@
+id: hello_mario
+title: "Hello, Mario!"
+series: mario
+platform: ["Mobile", "Switch"]
+year: 2025
+songs:
+  - id: play_with_mario
+    title: "Play With Mario"
+    path: "Face_Ground_Main.sh.fsb"
+    type: break
+  - id: mario_s_world
+    title: "Mario's World"
+    path: "Face_MWTitle_Main.sh.fsb"
+    type: result
+  - id: star_power_hm
+    title: "Star Power!"
+    path: "Face_Star.sh.fsb"
+    type: warning
+  - id: nap_time_hm
+    title: "Nap Time"
+    path: "Face_Sleep.sh" 
+    type: result #this doesn't loop, so
+  - id: play_with_mario_underwater
+    title: "Play With Mario Underwater"
+    path: "Face_Underwater_Main.sh.fsb"
+    type: break
+...

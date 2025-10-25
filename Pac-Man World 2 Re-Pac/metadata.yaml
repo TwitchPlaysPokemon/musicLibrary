@@ -1,0 +1,32 @@
+---
+id: pac_man_world_2_re_pac
+title: "Pac-Man World 2 Re-Pac"
+series: pacman
+platform: "Various"
+year: 2025
+songs:
+  - id: inky_s_whimsey_rp
+    title: "Inky's Whimsy"
+    path: "Inky's Whimsy.brstm"
+    type: battle
+  - id: blinky_in_the_caldera_rp
+    title: "Blinky in the Caldera"
+    path: "Blinky in the Caldera.brstm"
+    type: battle
+  - id: flying_dark_shadow
+    title: "Flying Dark Shadow"
+    path: "Flying Dark Shadow (Toc-Man Boss Fight).brstm"
+    type: battle
+  - id: spooky_phase_1
+    title: "Spooky (Phase 1)"
+    path: "Spooky (Phase 1).brstm"
+    type: battle
+  - id: spooky_phase_2
+    title: "Spooky (Phase 2)"
+    path: "Spooky (Phase 2).brstm"
+    type: warning
+  - id: pac_maniac_45
+    title: "PAC-MANIAC 45"
+    path: "PAC-MANIAC 45.brstm"
+    type: betting
+...

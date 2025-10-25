@@ -1,0 +1,37 @@
+---
+id: super_donkey_kong
+title: "Super Donkey Kong"
+series: donkeykong
+platform: "Dendy"
+year: "199X"
+#another bootleg. this one doesn't even have a known release year lmao
+songs:
+  - id: theme_sdk
+    title: "Theme"
+    path: "01 Theme.vgz"
+    type: result
+  - id: simian_segue_sdk
+    title: "Simian Segue"
+    path: "02 Simian Segue.vgz"
+    type: betting
+  - id: dk_island_swing_sdk
+    title: "DK Island Swing"
+    path: "03 DK Island Swing.vgz"
+    type: betting
+  - id: bonus_room_blitz_sdk
+    title: "Bonus Room Blitz"
+    path: "04 Bonus Room Blitz.vgz"
+    type: warning
+  - id: voices_of_the_temple_sdk
+    title: "Voices of the Temple"
+    path: "05 Voices of the Temple.vgz"
+    type: warning
+  - id: life_in_the_mines_sdk
+    title: "Life in the Mines"
+    path: "06 Life in the Mines.vgz"
+    type: betting
+  - id: klomp_s_romp_sdk
+    title: "Klomp's Romp"
+    path: "07 Klomp's Romp.vgz"
+    type: warning
+...
