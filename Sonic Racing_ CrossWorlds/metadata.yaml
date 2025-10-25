@@ -1,0 +1,400 @@
+---
+id: sonic_racing_crossworlds
+title: "Sonic Racing: CrossWorlds"
+series: sonic
+platform: "Various"
+year: 2025
+songs:
+  - id: sand_road_crossworlds
+    title: "Sand Road"
+    path: "Sand Road_ Lap Music.brstm"
+    type: betting
+  - id: metal_harbor_crossworlds
+    title: "Metal Harbor"
+    path: "Metal Harbor_ Lap Music.brstm"
+    type: betting
+  - id: e_stadium
+    title: "E-Stadium"
+    path: "E-Stadium_ Lap Music.brstm"
+    type: battle
+  - id: roulette_road
+    title: "Roulette Road"
+    path: "Roulette Road_ Lap Music .brstm"
+    type: battle
+  - id: sky_road_crossworlds
+    title: "Sky Road"
+    path: "Sky Road_ Lap Music.brstm"
+    type: betting
+  - id: rainbow_garden_crossworlds
+    title: "Rainbow Garden"
+    path: "Rainbow Garden_ Lap Music.brstm"
+    type: betting
+  - id: ocean_view_crossworlds
+    title: "Ocean View"
+    path: "Ocean View_ Lap Music.brstm"
+    type: betting
+  - id: water_palace_crossworlds
+    title: "Water Palace"
+    path: "Water Palace_ Lap Music.brstm"
+    type: betting
+  - id: mystic_jungle_crossworlds
+    title: "Mystic Jungle"
+    path: "Mystic Jungle_ Lap Music.brstm"
+    type: betting
+  - id: dinosaur_jungle_crossworlds
+    title: "Dinosaur Jungle"
+    path: "Dinosaur Jungle_ Lap Music.brstm"
+    type: battle
+  - id: magma_planet_crossworlds
+    title: "Magma Planet"
+    path: "Magma Planet_ Lap Music.brstm"
+    type: betting
+  - id: kraken_bay_crossworlds
+    title: "Kraken Bay"
+    path: "Kraken Bay_ Lap Music.brstm"
+    type: battle
+  - id: dragon_road_crossworlds
+    title: "Dragon Road"
+    path: "Dragon Road_ Lap Music.brstm"
+    type: battle
+  - id: holoska
+    title: "Holoska"
+    path: "Holoska_ Lap Music.brstm"
+    type: betting
+  - id: colofrul_mall
+    title: "Colorful Mall"
+    path: "Colorful Mall_ Lap Music.brstm"
+    type: betting
+  - id: wonder_museum
+    title: "Wonder Museum"
+    path: "Wonder Museum_ Lap Music.brstm"
+    type: betting
+  - id: apotos
+    title: "Apotos"
+    path: "Apotos_ Lap Music.brstm"
+    type: betting
+  - id: sand_road_final_lap_crossworlds
+    title: "Sand Road - Final Lap"
+    path: "Sand Road_ Final Lap.brstm"
+    type: battle
+  - id: metal_harbor_final_lap_crossworlds
+    title: "Metal Harbor - Final Lap"
+    path: "Metal Harbor_ Final Lap.brstm"
+    type: warning
+  - id: e_stadium_final_lap
+    title: "E-Stadium - Final Lap"
+    path: "E-Stadium_ Final Lap.brstm"
+    type: result
+  - id: roulette_road_final_lap
+    title: "Roulette Road - Final Lap"
+    path: "Roulette Road_ Final Lap.brstm"
+    type: battle
+  - id: sky_road_final_lap_crossworlds
+    title: "Sky Road - Final Lap"
+    path: "Sky Road_ Final Lap.brstm"
+    type: warning
+  - id: rainbow_garden_final_lap_crossworlds
+    title: "Rainbow Garden - Final Lap"
+    path: "Rainbow Garden_ Final Lap.brstm"
+    type: warning
+  - id: water_palace_final_lap_crossworlds
+    title: "Water Palace - Final Lap"
+    path: "Water Palace_ Final Lap.brstm"
+    type: result
+  - id: mystic_jungle_final_lap_crossworlds
+    title: "Mystic Jungle - Final Lap"
+    path: "Mystic Jungle_ Final Lap.brstm"
+    type: battle
+  - id: dinosaur_jungle_final_lap_crossworlds
+    title: "Dinosaur Jungle - Final Lap"
+    path: "Dinosaur Jungle_ Final Lap.brstm"
+    type: battle
+  - id: magma_planet_final_lap_crossworlds
+    title: "Magma Planet - Final Lap"
+    path: "Magma Planet_ Final Lap.brstm"
+    type: battle
+  - id: kraken_bay_final_lap_crossworlds
+    title: "Kraken Bay - Final Lap"
+    path: "Kraken Bay_ Final Lap.brstm"
+    type: battle
+  - id: dragon_road_final_lap_crossworlds
+    title: "Dragon Road - Final Lap"
+    path: "Dragon Road_ Final Lap.brstm"
+    type: warning
+  - id: holoska_final_lap
+    title: "Holoska - Final Lap"
+    path: "Holoska_ Final Lap.brstm"
+    type: battle
+  - id: colofrul_mall_final_lap
+    title: "Colorful Mall - Final Lap"
+    path: "Colorful Mall_ Final Lap.brstm"
+    type: result
+  - id: wonder_museum_final_lap
+    title: "Wonder Museum - Final Lap"
+    path: "Wonder Museum_ Final Lap.brstm"
+    type: battle
+  - id: apotos_final_lap
+    title: "Apotos - Final Lap"
+    path: "Apotos_ Final Lap.brstm"
+    type: battle
+  - id: bikini_bottom_crossworlds
+    title: "Bikini Bottom"
+    path: "Bikini Bottom_ Lap Music.brstm"
+    type: betting
+  - id: chao_park_final_lap
+    title: "Chao Park - Final Lap"
+    path: "Chao Park_ Final Lap.brstm"
+    type: warning
+  - id: coral_town_final_lap
+    title: "Coral Town - Final Lap"
+    path: "Coral Town_ Final Lap.brstm"
+    type: warning
+  - id: denkoh_sekka
+    title: "Denkoh Sekka"
+    path: "Denkoh Sekka.brstm"
+    type: betting
+  - id: denkoh_sekka_for_final_lap
+    title: "Denkoh Sekka 【for Final Lap】"
+    path: "Denkoh Sekka 【for Final Lap】.brstm"
+    type: battle
+  - id: egg_expo_final_lap
+    title: "Egg Expo - Final Lap"
+    path: "Egg Expo_ Final Lap.brstm"
+    type: battle
+  - id: jet_black
+    title: "Jet Black"
+    path: "Jet Black.brstm"
+    type: betting
+  - id: jet_black_for_final_lap
+    title: "Jet Black 【for Final Lap】"
+    path: "Jet Black 【for Final Lap】.brstm"
+    type: battle
+  - id: ocean_view_final_lap
+    title: "Ocean View - Final Lap"
+    path: "Ocean View_ Final Lap.brstm"
+    type: warning
+  - id: sai_love_jinsei_runner
+    title: "SAI LOVE JINSEI RUNNER"
+    path: "SAI LOVE JINSEI RUNNER.brstm"
+    type: betting
+  - id: sai_love_jinsei_runner_for_final_lap
+    title: "SAI LOVE JINSEI RUNNER 【for Final Lap】"
+    path: "SAI LOVE JINSEI RUNNER 【for Final Lap】.brstm"
+    type: battle
+  - id: sonic_racing_cross_the_worlds
+    title: "Sonic Racing - Cross the Worlds -"
+    path: "Sonic Racing - Cross the Worlds -.brstm"
+    type: battle
+  - id: treasure_garden
+    title: "TREASURE GARDEN"
+    path: "TREASURE GARDEN.brstm"
+    type: betting
+  - id: treasure_garden_for_final_lap
+    title: "TREASURE GARDEN 【for Final Lap】"
+    path: "TREASURE GARDEN 【for Final Lap】.brstm"
+    type: battle
+  - id: we_are_pico_pico_hammers
+    title: "We Are Pico Pico Hammers!!!!"
+    path: "We Are Pico Pico Hammers!!!!.brstm"
+    type: betting
+  - id: we_are_pico_pico_hammers_for_final_lap
+    title: "We Are Pico Pico Hammers!!!!【for Final Lap】"
+    path: "We Are Pico Pico Hammers!!!!【for Final Lap】.brstm"
+    type: battle
+  - id: white_space_final_lap
+    title: "White Space - Final Lap"
+    path: "White Space_ Final Lap.brstm"
+    type: battle
+  - id: bikini_bottom_final_lap_crossworlds
+    title: "Bikini Bottom - Final Lap"
+    path: "Bikini Bottom_ Final Lap.brstm"
+    type: battle
+  - id: characte_select_crossworlds
+    title: "Character Select"
+    path: "Character Select.brstm"
+    type: betting
+  - id: character_select_hatsune_miku
+    title: "Character Select - Hatsune Miku"
+    path: "Character Select_ Hatsune Miku.brstm"
+    type: betting
+  - id: character_select_ichiban
+    title: "Character Select - Ichiban"
+    path: "Character Select_ Ichiban.brstm"
+    type: warning
+  - id: character_select_minecraft
+    title: "Character Select - Minecraft"
+    path: "Character Select_ Minecraft.brstm"
+    type: betting
+  - id: character_select_sonic_prime
+    title: "Character Select - Sonic Prime"
+    path: "Character Select_ Sonic Prime.brstm"
+    type: warning
+  - id: character_select_spongebob_squarepants
+    title: "Character Select - SpongeBob SquarePants"
+    path: "Character Select_ SpongeBob SquarePants.brstm"
+    type: betting
+  - id: cyber_space_crossworlds
+    title: "Cyber Space"
+    path: "Cyber Space_ Lap Music.brstm"
+    type: betting
+  - id: cyber_space_final_lap
+    title: "Cyber Space - Final Lap"
+    path: "Cyber Space_ Final Lap.brstm"
+    type: battle
+  - id: egg_expo
+    title: "Egg Expo"
+    path: "Egg Expo_ Lap Music.brstm"
+    type: betting
+  - id: get_higher_crossworlds
+    title: "Get Higher"
+    path: "Get Higher.brstm"
+    type: betting
+  - id: get_higher_for_final_lap
+    title: "Get Higher 【for Final Lap】"
+    path: "Get Higher 【for Final Lap】.brstm"
+    type: betting
+  - id: market_street_crossworlds
+    title: "Market Street"
+    path: "Market Street_ Lap Music.brstm"
+    type: battle
+  - id: market_street_final_lap
+    title: "Market Street - Final Lap"
+    path: "Market Street_ Final Lap.brstm"
+    type: warning
+  - id: digital_circuit_crossworlds
+    title: "Digital Circuit"
+    path: "Digital Circuit_ Lap Music.brstm"
+    type: betting
+  - id: digital_circuit_final_lap
+    title: "Digital Circuit - Final Lap"
+    path: "Digital Circuit_ Final Lap.brstm"
+    type: warning
+  - id: title_main_menu_crossworlds
+    title: "Title/Main Menu"
+    path: "Title_Main Menu.brstm"
+    type: result
+  - id: title_main_menu_complete_crossworlds
+    title: "Title/Main Menu (Complete)"
+    path: "Title_Main Menu (Complete).brstm"
+    type: result
+  - id: white_space_crossworlds
+    title: "White Space"
+    path: "White Space_ Lap Music.brstm"
+    type: betting
+  - id: pumpkin_mansion_crossworlds
+    title: "Pumpkin Mansion"
+    path: "Pumpkin Mansion_ Lap Music.brstm"
+    type: betting
+  - id: pumpkin_mansion_final_lap
+    title: "Pumpkin Mansion - Final Lap"
+    path: "Pumpkin Mansion_ Final Lap.brstm"
+    type: warning
+  - id: sonic_racing_cross_the_worlds_final_lap
+    title: "Sonic Racing - Cross the Worlds - Final Lap"
+    path: "Sonic Racing - Cross the Worlds -_ Final Lap.brstm"
+    type: warning
+  - id: radical_highway_crossworlds
+    title: "Radical Highway"
+    path: "Radical Highway_ Lap Music.brstm"
+    type: battle
+  - id: radical_highway_final_lap
+    title: "Radical Highway - Final Lap"
+    path: "Radical Highway_ Final Lap.brstm"
+    type: warning
+  - id: donpa_factory
+    title: "Donpa Factory"
+    path: "Donpa Factory_ Lap Music.brstm"
+    type: betting
+  - id: donpa_factory_final_lap
+    title: "Donpa Factory - Final Lap"
+    path: "Donpa Factory_ Final Lap.brstm"
+    type: warning
+  - id: hidden_world_crossworlds
+    title: "Hidden World"
+    path: "Hidden World_ Lap Music.brstm"
+    type: betting
+  - id: hidden_world_final_lap
+    title: "Hidden World - Final Lap"
+    path: "Hidden World_ Final Lap.brstm"
+    type: warning
+  - id: minecraft_world_intro
+    title: "Minecraft World - Intro"
+    path: "Minecraft World_ Intro.brstm"
+    type: result
+  - id: minecraft_world_overworld
+    title: "Minecraft World - Overworld"
+    path: "Minecraft World_ Overworld.brstm"
+    type: betting
+  - id: minecraft_world_nether
+    title: "Minecraft World - Nether"
+    path: "Minecraft World_ Nether.brstm"
+    type: betting
+  - id: minecraft_world_overworld_final_lap
+    title: "Minecraft World - Overworld, Final Lap"
+    path: "Minecraft World_ Overworld_ Final Lap.brstm"
+    type: battle
+  - id: minecraft_world_the_end_final_lap
+    title: "Minecraft World - The End, Final Lap"
+    path: "Minecraft World_ The End_ Final Lap.brstm"
+    type: warning
+  - id: minecraft_result
+    title: "Minecraft - Result"
+    path: "Minecraft_ Result.brstm"
+    type: result
+  - id: galactic_parade_crossworlds
+    title: "Galactic Parade"
+    path: "Galactic Parade_ Lap Music.brstm"
+    type: betting
+  - id: galactic_parade_final_lap
+    title: "Galactic Parade - Final Lap"
+    path: "Galactic Parade_ Final Lap.brstm"
+    type: battle
+  - id: golden_temple_crossworlds
+    title: "Golden Temple"
+    path: "Golden Temple_ Lap Music.brstm"
+    type: betting
+  - id: golden_temple_final_lap
+    title: "Golden Temple - Final Lap"
+    path: "Golden Temple_ Final Lap.brstm"
+    type: battle
+  - id: kronos_island_crossworlds
+    title: "Kronos Island"
+    path: "Kronos Island_ Lap Music.brstm"
+    type: betting
+  - id: kronos_island_final_lap
+    title: "Kronos Island - Final Lap"
+    path: "Kronos Island_ Final Lap.brstm"
+    type: battle
+  - id: steampunk_city_crossworlds
+    title: "Steampunk City"
+    path: "Steampunk City_ Lap Music.brstm"
+    type: betting
+  - id: steampunk_city_final_lap
+    title: "Steampunk City - Final Lap"
+    path: "Steampunk City_ Final Lap.brstm"
+    type: warning
+  - id: sweet_mountain_crossworlds
+    title: "Sweet Mountain"
+    path: "Sweet Mountain_ Lap Music.brstm"
+    type: betting
+  - id: sweet_mountain_final_lap
+    title: "Sweet Mountain - Final Lap"
+    path: "Sweet Mountain_ Final Lap.brstm"
+    type: battle
+  - id: urban_canyon_crossworlds
+    title: "Urban Canyon"
+    path: "Urban Canyon_ Lap Music.brstm"
+    type: betting
+  - id: urban_canyon_final_lap
+    title: "Urban Canyon - Final Lap"
+    path: "Urban Canyon_ Final Lap.brstm"
+    type: warning
+  - id: white_cave_crossworlds
+    title: "White Cave"
+    path: "White Cave_ Lap Music.brstm"
+    type: betting
+  - id: white_cave_final_lap
+    title: "White Cave - Final Lap"
+    path: "White Cave_ Final Lap.brstm"
+    type: warning
+...

@@ -154,7 +154,7 @@ songs:
     type: betting
   - id: pankration_marisa_s_theme
     title: "Pankration - Marisa's Theme"
-    path: "1-13. Pankration - Marisa's Theme.mp3"
+    path: "Marisa's Theme.brstm"
     type: betting
   - id: walk_with_grace_manon_s_theme
     title: "Walk With Grace - Manon's Theme"
@@ -198,7 +198,7 @@ songs:
     type: betting
   - id: carrier_byron_taylor_stage_battle
     title: "Carrier Byron Taylor - Stage Battle"
-    path: "2-05. Carrier Byron Taylor - Stage Battle.mp3"
+    path: "Carrier Byron Taylor - Stage Battle.brstm"
     type: betting
   - id: tian_hong_yuan_stage_battle
     title: "Tian Hong Yuan - Stage Battle"
@@ -215,5 +215,9 @@ songs:
   - id: edge_of_triumph
     title: "Edge of Triumph"
     path: "Edge of Triumph.brstm"
+    type: betting
+  - id: beats_in_my_heart
+    title: "Beats In My Heart"
+    path: "Beats In My Heart.brstm"
     type: betting
 ...

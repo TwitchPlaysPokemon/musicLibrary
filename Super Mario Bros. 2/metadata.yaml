@@ -17,4 +17,28 @@ songs:
     title: "Ending"
     path: "12 Ending.vgz"
     type: result
+  - id: player_select_super_mario_bros_2
+    title: "Player Select"
+    path: "02 Player Select.vgz"
+    type: betting
+  - id: underworld_mario_bros_2
+    title: "Underworld"
+    path: "04 Underworld.vgz"
+    type: warning
+  - id: subspace_super_mario_bros_2
+    title: "Subspace"
+    path: "05 Subspace.vgz"
+    type: result
+  - id: wart_super_mario_bros_2
+    title: "Wart"
+    path: "11 Wart.vgz"
+    type: warning
+  - id: underworld_prototype
+    title: "15 Underworld (Prototype)"
+    path: "15 Underworld (Prototype).vgz"
+    type: betting
+  - id: invincible_prototype_super_mario_bros_2
+    title: "Invincible (Prototype)"
+    path: "16 Invincible (Prototype).vgz"
+    type: warning
 ...

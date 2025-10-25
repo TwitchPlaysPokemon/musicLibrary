@@ -1,0 +1,391 @@
+---
+id: donkey_kong_bananza
+title: "Donkey Kong Bananza"
+platform: "Switch 2"
+year: 2025
+songs: 
+  - id: title_theme_bananza
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    type: warning
+  - id: dk_artist_simian_segue
+    title: "DK Artist"
+    path: "DK Artist (Simian Segue).brstm"
+    type: break
+  - id: ingot_isle
+    title: "Ingot Isle"
+    path: "Ingot Isle.brstm"
+    type: break
+  - id: ingot_isle_cave_in_battle
+    title: "Ingot Isle Cave-In Battle"
+    path: "Ingot Isle Cave-In Battle.brstm"
+    type: battle
+  - id: hilltop_layer
+    title: "Hilltop Layer"
+    path: "Hilltop Layer.brstm"
+    type: break
+  - id: hilltop_layer_fractone_village
+    title: "Hilltop Layer - Fractone Village"
+    path: "Hilltop Layer - Fractone Village.brstm"
+    type: break
+  - id: lagoon_layer
+    title: "Lagoon Layer"
+    path: "Lagoon Layer.brstm"
+    type: betting
+  - id: resort_layer
+    title: "Resort Layer"
+    path: "Resort Layer.brstm"
+    type: break
+  - id: racing_layer_rambi_rumble
+    title: "Racing Layer - Rambi Rumble"
+    path: "Racing Layer - Rambi Rumble.brstm"
+    type: betting
+  - id: the_junction_bananza
+    title: "The Junction"
+    path: "The Junction.brstm"
+    type: break
+  - id: the_junction_void_chase
+    title: "The Junction - Void Chase"
+    path: "The Junction - Void Chase.brstm"
+    type: warning
+  - id: groove_layer_disco_hall
+    title: "Groove Layer - Disco Hall"
+    path: "Groove Layer - Disco Hall.brstm"
+    type: betting
+  - id: radiance_layer_elder_court
+    title: "Radiance Layer - Elder Court"
+    path: "Radiance Layer - Elder Court.brstm"
+    type: betting
+  - id: canyon_layer
+    title: "Canyon Layer"
+    path: "Canyon Layer.brstm"
+    type: betting
+  - id: feast_layer_cat_scratch_kitchen
+    title: "Feast Layer - Cat-Scratch Kitchen"
+    path: "Feast Layer - Cat-Scratch Kitchen.brstm"
+    type: betting
+  - id: feast_layer_kingly_swings
+    title: "Feast Layer - Kingly Swings"
+    path: "Feast Layer - Kingly Swings.brstm"
+    type: result
+  - id: freezer_layer_chocolava_lake
+    title: "Freezer Layer - Chocolava Lake"
+    path: "Freezer Layer - Chocolava Lake.brstm"
+    type: betting
+  - id: inside_the_great_harmoneel
+    title: "Inside The Great Harmoneel"
+    path: "Inside The Great Harmoneel.brstm"
+    type: warning
+  - id: 2d_challenge_course_1_dk_island_swing
+    title: "2D Challenge Course 1"
+    path: "2D Challenge Course 1 (DK Island Swing).brstm"
+    type: betting
+  - id: 2d_challenge_course_2_stickerbrush_symphony
+    title: "2D Challenge Course 2"
+    path: "2D Challenge Course 2 (Stickerbrush Symphony).brstm"
+    type: betting
+  - id: 2d_challenge_course_3_minecart_madness
+    title: "2D Challenge Course 3"
+    path: "2D Challenge Course 3 (Mine-Cart Madness).brstm"
+    type: betting
+  - id: 2d_challenge_course_4_dk_bgm
+    title: "2D Challenge Course 4"
+    path: "2D Challenge Course 4 (Donkey Kong BGM).brstm"
+    type: result
+  - id: abracajabya_battle
+    title: "Abracajabya Battle"
+    path: "Abracajabya Battle.brstm"
+    type: battle
+  - id: banandium_root_tower_gangplank_galleon
+    title: "Banandium Root Tower"
+    path: "Banandium Root Tower (Gangplank Galleon).brstm"
+    type: battle
+  - id: battle_challenge_lobby_bananza
+    title: "Battle Challenge Lobby"
+    path: "Battle Challenge Lobby.brstm"
+    type: warning
+  - id: battle_challenge_bananza
+    title: "Battle Challenge"
+    path: "Battle Challenge.brstm"
+    type: battle
+  - id: bonus_stage_token_tango
+    title: "Bonus Stage"
+    path: "Bonus Stage (Token Tango).brstm"
+    type: result
+  - id: breaking_through_heart_of_gold
+    title: "Breaking Through ~ Heart of Gold"
+    path: "Breaking Through ~ Heart of Gold.brstm"
+    type: betting
+  - id: challenge_course_1_bananza
+    title: "Challenge Course 1"
+    path: "Challenge Course 1.brstm"
+    type: betting
+  - id: challenge_course_2_bananza
+    title: "Challenge Course 2"
+    path: "Challenge Course 2.brstm"
+    type: betting
+  - id: challenge_course_3_bananza
+    title: "Challenge Course 3"
+    path: "Challenge Course 3.brstm"
+    type: betting
+  - id: challenge_course_4_bananza
+    title: "Challenge Course 4"
+    path: "Challenge Course 4.brstm"
+    type: betting
+  - id: challenge_course_5_bananza
+    title: "Challenge Course 5"
+    path: "Challenge Course 5.brstm"
+    type: betting
+  - id: closet_dk_bananza
+    title: "Closet"
+    path: "Closet.brstm"
+    type: result
+  - id: elephant_bananza_instrumental
+    title: "Elephant Bananza (Instrumental)"
+    path: "Elephant Bananza (Instrumental).brstm"
+    type: battle
+  - id: elephant_bananza
+    title: "Elephant Bananza"
+    path: "Elephant Bananza.brstm"
+    type: betting
+  - id: feast_layer_fried_pride_plaza
+    title: "Feast Layer - Fried Pride Plaza"
+    path: "Feast Layer - Fried Pride Plaza.brstm"
+    type: result
+  - id: feast_layer_grater_go_round
+    title: "Feast Layer - Grater-Go-Round"
+    path: "Feast Layer - Grater-Go-Round.brstm"
+    type: betting
+  - id: feast_layer_mane_gate_market
+    title: "Feast Layer - Mane Gate Market"
+    path: "Feast Layer - Mane Gate Market.brstm"
+    type: betting
+  - id: forbidden_layer
+    title: "Forbidden Layer"
+    path: "Forbidden Layer.brstm"
+    type: break
+  - id: forest_layer_eggshell_hotel
+    title: "Forest Layer - Eggshell Hotel"
+    path: "Forest Layer - Eggshell Hotel.brstm"
+    type: break
+  - id: getaway_dk_rap
+    title: "Getaway"
+    path: "Getaway (DK Rap).brstm"
+    type: betting
+  - id: grumpy_kong_battle
+    title: "Grumpy Kong Battle"
+    path: "Grumpy Kong Battle.brstm"
+    type: battle
+  - id: inflammonite_battle
+    title: "Inflammonite Battle"
+    path: "Inflammonite Battle.brstm"
+    type: battle
+  - id: k_rool_king_of_rot_battle
+    title: "K. Rool, King of Rot Battle"
+    path: "K. Rool, King of Rot Battle.brstm"
+    type: battle
+  - id: kong_bananza_instrumental
+    title: "Kong Bananza (Instrumental)"
+    path: "Kong Bananza (Instrumental).brstm"
+    type: battle
+  - id: kong_bananza
+    title: "Kong Bananza"
+    path: "Kong Bananza.brstm"
+    type: betting
+  - id: landfill_layer_trashtopia
+    title: "Landfill Layer - Trashtopia"
+    path: "Landfill Layer - Trashtopia.brstm"
+    type: betting
+  - id: mad_mixer_battle
+    title: "Mad Mixer Battle"
+    path: "Mad Mixer Battle.brstm"
+    type: battle
+  - id: muckety_muck_battle
+    title: "Muckety-Muck Battle"
+    path: "Muckety-Muck Battle.brstm"
+    type: battle
+  - id: new_donk_city
+    title: "New Donk City"
+    path: "New Donk City.brstm"
+    type: battle
+  - id: ostrich_bananza_instrumental
+    title: "Ostrich Bananza (Instrumental)"
+    path: "Ostrich Bananza (Instrumental).brstm"
+    type: battle
+  - id: ostrich_bananza
+    title: "Ostrich Bananza"
+    path: "Ostrich Bananza.brstm"
+    type: betting
+  - id: peekabruiser_battle
+    title: "Peekabruiser Battle"
+    path: "Peekabruiser Battle.brstm"
+    type: battle
+  - id: planet_core_first_half_battle
+    title: "Planet Core - First Half Battle"
+    path: "Planet Core - First Half Battle.brstm"
+    type: betting
+  - id: planet_core_fractone_cradle
+    title: "Planet Core - Fractone Cradle"
+    path: "Planet Core - Fractone Cradle.brstm"
+    type: result
+  - id: planet_core_heart_of_gold
+    title: "Planet Core - Heart of Gold"
+    path: "Planet Core - Heart of Gold.brstm"
+    type: betting
+  - id: planet_core_kremling_kourtyard
+    title: "Planet Core - Kremling Kourtyard"
+    path: "Planet Core - Kremling Kourtyard.brstm"
+    type: betting
+  - id: planet_core_second_half
+    title: "Planet Core - Second Half"
+    path: "Planet Core - Second Half.brstm"
+    type: betting
+  - id: poppy_kong_battle
+    title: "Poppy Kong Battle"
+    path: "Poppy Kong Battle.brstm"
+    type: battle
+  - id: radiance_layer_crystal_cobra_den
+    title: "Radiance Layer - Crystal-Cobra Den"
+    path: "Radiance Layer - Crystal-Cobra Den.brstm"
+    type: break
+  - id: radiance_layer_serpent_sands
+    title: "Radiance Layer - Serpent Sands"
+    path: "Radiance Layer - Serpent Sands.brstm"
+    type: break
+  - id: radiance_layer_shade_clouds
+    title: "Radiance Layer - Shade Clouds"
+    path: "Radiance Layer - Shade Clouds.brstm"
+    type: betting
+  - id: sinister_blusterwing_battle_1
+    title: "Sinister Blusterwing Battle 1"
+    path: "Sinister Blusterwing Battle 1.brstm"
+    type: battle
+  - id: sinister_blusterwing_battle_2
+    title: "Sinister Blusterwing Battle 2"
+    path: "Sinister Blusterwing Battle 2.brstm"
+    type: battle
+  - id: sinkhole_dive
+    title: "Sinkhole Dive"
+    path: "Sinkhole Dive.brstm"
+    type: betting
+  - id: sinkhole_dive_forbidden_layer
+    title: "Sinkhole Dive - Forbidden Layer"
+    path: "Sinkhole Dive - Forbidden Layer.brstm"
+    type: warning
+  - id: sinkhole_dive_planet_core
+    title: "Sinkhole Dive - Planet Core"
+    path: "Sinkhole Dive - Planet Core.brstm"
+    type: warning
+  - id: snake_bananza_instumental
+    title: "Snake Bananza (Instrumental)"
+    path: "Snake Bananza (Instrumental).brstm"
+    type: battle
+  - id: snake_bananza
+    title: "Snake Bananza"
+    path: "Snake Bananza.brstm"
+    type: betting
+  - id: stompenclomper_battle
+    title: "Stompenclomper Battle"
+    path: "Stompenclomper Battle.brstm"
+    type: battle
+  - id: tempest_layer_hot_shower_cave
+    title: "Tempest Layer - Hot-Shower Cave"
+    path: "Tempest Layer - Hot-Shower Cave.brstm"
+    type: betting
+  - id: tempest_layer_jumbo_spa
+    title: "Tempest Layer - Jumbo Spa"
+    path: "Tempest Layer - Jumbo Spa.brstm"
+    type: betting
+  - id: void_kong_battle_1
+    title: "Void Kong Battle 1"
+    path: "Void Kong Battle 1.brstm"
+    type: battle
+  - id: void_kong_battle_2
+    title: "Void Kong Battle 2"
+    path: "Void Kong Battle 2.brstm"
+    type: battle
+  - id: zebra_bananza_instrumental
+    title: "Zebra Bananza (Instrumental)"
+    path: "Zebra Bananza (Instrumental).brstm"
+    type: battle
+  - id: zebra_bananza
+    title: "Zebra Bananza"
+    path: "Zebra Bananza.brstm"
+    type: betting
+  - id: breaking_through_heart_of_gold_instrumental
+    title: "Breaking Through ~ Heart of Gold (Instrumental)"
+    path: "Breaking Through ~ Heart of Gold (Instrumental).brstm"
+    type: betting
+  - id: dk_island_daytime
+    title: "DK Island - Daytime"
+    path: "DK Island - Daytime.brstm"
+    type: betting
+  - id: dk_island_sunset
+    title: "DK Island - Sunset"
+    path: "DK Island - Sunset.brstm"
+    type: break
+  - id: emerald_rush_1
+    title: "Emerald Rush 1"
+    path: "Emerald Rush 1.brstm"
+    type: battle
+  - id: emerald_rush_2
+    title: "Emerald Rush 2"
+    path: "Emerald Rush 2.brstm"
+    type: battle
+  - id: emerald_rush_3
+    title: "Emerald Rush 3"
+    path: "Emerald Rush 3.brstm"
+    type: battle
+  - id: new_donk_city_bananza_medley
+    title: "New Donk City (Bananza Medley)"
+    path: "New Donk City (Bananza Medley).brstm"
+    type: battle
+  - id: emerald_rush_bananza_medley
+    title: "Emerald Rush Bananza Medley"
+    path: "Emerald Rush Bananza Medley.brstm"
+    type: betting
+  - id: emerald_rush_hurry_up
+    title: "Emerald Rush (Hurry Up!)"
+    path: "Emerald Rush (Hurry Up!).brstm"
+    type: warning
+  - id: canyon_layer_banandium_refinery
+    title: "Canyon Layer - Banandium Refinery"
+    path: "Canyon Layer - Banandium Refinery.brstm"
+    type: betting
+  - id: feast_layer_ferocious_fryhouse
+    title: "Feast Layer - Ferocious Fryhouse"
+    path: "Feast Layer - Ferocious Fryhouse.brstm"
+    type: warning
+  - id: feast_layer_royal_oil_cruise
+    title: "Feast Layer - Royal Oil Cruise"
+    path: "Feast Layer - Royal Oil Cruise.brstm"
+    type: result
+  - id: feast_layer_waste_oil_container
+    title: "Feast Layer - Waste-Oil Container"
+    path: "Feast Layer - Waste-Oil Container.brstm"
+    type: warning
+  - id: forest_layer_eggshell_hotel_annex
+    title: "Forest Layer - Eggshell Hotel Annex"
+    path: "Forest Layer - Eggshell Hotel Annex.brstm"
+    type: break
+  - id: forest_layer_mossplume_marsh
+    title: "Forest Layer - Mossplume Marsh"
+    path: "Forest Layer - Mossplume Marsh.brstm"
+    type: betting
+  - id: freezer_layer_hot_hoof_heater
+    title: "Freezer Layer - Hot-Hoof Heater"
+    path: "Freezer Layer - Hot-Hoof Heater.brstm"
+    type: betting
+  - id: sinkhole_bananza
+    title: "Sinkhole"
+    path: "Sinkhole.brstm"
+    type: break
+  - id: tempest_layer_forecaster_refuge
+    title: "Tempest Layer - Forecaster Refuge"
+    path: "Tempest Layer - Forecaster Refuge.brstm"
+    type: betting
+  - id: tempest_layer_lava_lake
+    title: "Tempest Layer - Lava Lake"
+    path: "Tempest Layer - Lava Lake.brstm"
+    type: warning
+...

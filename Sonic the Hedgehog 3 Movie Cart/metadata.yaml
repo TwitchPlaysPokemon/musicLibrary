@@ -1,0 +1,16 @@
+---
+id: sonic_the_hedgehog_3_movie_promotional_cart
+title: "Sonic the Hedgehog 3 (Movie Promotional Cart)"
+series: sonic
+platform: "SMD"
+year: 2024
+songs:
+  - id: unlock_stage_s3mc
+    title: "Unlock Stage"
+    path: "Unlock.vgz"
+    type: warning
+  - id: chill_gallery
+    title: "Chill Gallery"
+    path: "Chill Gallery.vgz"
+    type: break
+...

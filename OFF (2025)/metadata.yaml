@@ -1,0 +1,103 @@
+---
+id: off_2025
+title: "OFF (Remake)"
+platform: ["PC", "Switch"]
+year: 2025
+songs: 
+  - id: white_meat_zone_1
+    title: "WHITE MEAT (ZONE 1)"
+    path: "Normal Battle (01-02)_April2025.txtp"
+    type: battle
+  - id: white_rot_zone_2
+    title: "WHITE ROT (ZONE 2)"
+    path: "Normal Battle (03-01)_January2025.txtp"
+    type: battle
+  - id: white_carcass_zone_3
+    title: "WHITE CARCASS (ZONE 3)"
+    path: "Normal Battle (04-02)_January2025.txtp"
+    type: battle
+  - id: stay_in_your_sweet_coma
+    title: "STAY IN YOUR (SWEET) COMA"
+    path: "Stay in Your Sweet Coma_January2025.txtp"
+    type: betting
+  - id: lost_in_the_flesh
+    title: "LOST IN THE FLESH"
+    path: "Flesh Maze Tango-January2025.txtp"
+    type: betting
+  - id: hour_hand
+    title: "HOUR HAND"
+    path: "Dedan2.txtp"
+    type: battle
+  - id: bonetro_i_mean_hour_hand_demo_version
+    title: "HOUR HAND (Demo Version)"
+    path: "Dedan_20250520_Looped.txtp"
+    type: battle
+  - id: hour_hand_unused_version
+    title: "HOUR HAND (Unused Version)"
+    path: "Dedan Remix_January2025.txtp"
+    type: battle
+  - id: a_glimmer_of_fun
+    title: "A GLIMMER OF FUN"
+    path: "A Stab of Happiness_January2025.txtp"
+    type: betting
+  - id: phoenix_off_2025
+    title: "PHOENIX"
+    path: "JAPHET_January2025.txtp"
+    type: battle
+  - id: productive_privacy
+    title: "PRODUCTIVE PRIVACY"
+    path: "Some Rudiments of Propriety_January2025.txtp"
+    type: betting
+  - id: highly_responsive_to_spectres
+    title: "HIGHLY RESPONSIVE TO SPECTRES"
+    path: "Magic Pipe_January2025.txtp"
+    type: betting
+  - id: opretta_of_1000_lashes
+    title: "OPERETTA OF 1000 LASHES"
+    path: "ENOCH_April2025.txtp"
+    type: battle
+  - id: ballville_blitz
+    title: "BALLVILLE BLITZ"
+    path: "Ballville_January2025.txtp"
+    type: betting
+  - id: home_run_wreckers
+    title: "HOME RUN WRECKERS"
+    path: "Panic in Ballville_January2025.txtp"
+    type: betting
+  - id: broken_thrones
+    title: "BROKEN THRONES"
+    path: "The Woman of Your Dreams_April2025.txtp"
+    type: warning
+  - id: separation_off_2025
+    title: "SEPARATION"
+    path: "QUEEN_April2025.txtp"
+    type: battle
+  - id: chosen_anew_2025
+    title: "CHOSEN ANEW"
+    path: "Last Battle_April2025.txtp"
+    type: battle
+  - id: source_calm
+    title: "SOURCE - CALM"
+    path: "Source Calm_January2025.txtp"
+    type: break
+  - id: chaos_is_life
+    title: "CHAOS IS LIFE"
+    path: "Chaos is Life_January2025.txtp"
+    type: betting #type - (shrugs)
+  - id: psalmanazar_and_herodotus
+    title: "PSALMANAZAR & HERODOTUS"
+    path: "Psalmanazar_January2025.txtp"
+    type: betting
+  - id: justus_off_2025
+    title: "JUSTUS"
+    path: "Justus_January2025.txtp"
+    type: battle
+  - id: carnival_off_2025
+    title: "CARNIVAL"
+    path: "Carnival Sagittarius_January2025.txtp"
+    type: battle
+  - id: aries_cob
+    title: "ARIES - COB"
+    path: "ARIES_January2025.txtp"
+    type: break
+...

@@ -1,0 +1,15 @@
+id: mario_teaches_typing_2
+title: "Mario Teaches Typing 2"
+series: mario
+platform: "PC"
+year: 1997
+songs:
+  - id: select_mtt2
+    title: "Select"
+    path: "Select.brstm"
+    type: result
+  - id: castle_mtt2
+    title: "Castle"
+    path: "Castle.brstm"
+    type: betting
+...

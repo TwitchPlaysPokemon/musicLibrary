@@ -13,4 +13,56 @@ songs:
     title: "Bowser's Castle"
     path: "Bowser Castle (CD Version).brstm"
     type: battle
+  - id: strategy_time_cd_version
+    title: "Strategy Time"
+    path: "Strategy Time (CD Version).brstm"
+    type: warning
+  - id: let_s_try_cd_version
+    title: "Let's Try!"
+    path: "Let's Try! (CD Version).brstm"
+    type: warning
+  - id: basketball_kingdom_cd_version
+    title: "Basketball Kingdom"
+    path: "Basketball Kingdom (CD Version).brstm"
+    type: result
+  - id: luigi_s_mansion_cd_version
+    title: "Luigi's Mansion"
+    path: "Luigi's Mansion (CD Version).brstm"
+    type: betting
+  - id: theme_of_mario_basketball_cd_version
+    title: "Theme of Mario Basketball"
+    path: "Theme of Mario Basketball (CD Version).brstm"
+    type: result
+  - id: daisy_garden_cd_version
+    title: "Daisy Garden"
+    path: "Daisy Garden (CD Version).brstm"
+    type: betting
+  - id: koopa_beach_cd_version
+    title: "Koopa Beach"
+    path: "Koopa Beach (CD Version).brstm"
+    type: betting
+  - id: dk_cruiser_cd_version
+    title: "DK Cruiser (CD Version)"
+    path: "DK Cruiser (CD Version).brstm"
+    type: betting
+  - id: peach_country_cd_version
+    title: "Peach Country"
+    path: "Peach Country (CD Version).brstm"
+    type: betting
+  - id: marlboro_garden_cd_version
+    title: "Malboro Garden"
+    path: "Malboro Garden (CD Version).brstm"
+    type: warning
+  - id: gather_round_cd_version
+    title: "Gather Round"
+    path: "Gather Round (CD Version).brstm"
+    type: warning
+  - id: congratulations_cd_version
+    title: "Congratulations!"
+    path: "Congratulations! (CD Version).brstm"
+    type: result
+  - id: highlight_ending_cd_version
+    title: "Highlight Ending"
+    path: "Highlight Ending (CD Version).brstm"
+    type: result
 ...

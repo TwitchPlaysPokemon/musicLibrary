@@ -1,0 +1,1071 @@
+---
+id: mario_kart_world
+title: "Mario Kart World"
+series: mario
+platform: "Switch 2"
+year: 2025
+songs:
+  - id: main_theme_world
+    title: "Main Theme"
+    path: "Main Theme (Custom Loop).brstm"
+    type: result
+  - id: track_selection_world
+    title: "Track Selection"
+    path: "Track Selection.brstm"
+    type: break
+  - id: mario_bros_circuit
+    title: "Mario Bros. Circuit"
+    path: "Mario Bros. Circuit.brstm"
+    type: betting
+  - id: crown_city
+    title: "Crown City"
+    path: "Crown City.brstm"
+    type: betting
+  - id: whistlestop_summit
+    title: "Whistlestop Summit"
+    path: "Whistlestop Summit.brstm"
+    type: betting
+  - id: dk_spaceport_replay_ver
+    title: "DK Spaceport (Replay Ver.)"
+    path: "DK Spaceport (Replay Ver.).brstm"
+    type: betting
+  - id: ds_desert_hills_world
+    title: "DS Desert Hills"
+    path: "DS Desert Hills.brstm"
+    type: betting
+  - id: 3ds_shy_guy_bazaar_world
+    title: "3DS Shy Guy Bazaar"
+    path: "3DS Shy Guy Bazaar.brstm"
+    type: betting
+  - id: n64_wario_stadium_world
+    title: "N64 Wario Stadium"
+    path: "N64 Wario Stadium.brstm"
+    type: betting
+  - id: ds_airship_fortress_world
+    title: "DS Airship Fortress"
+    path: "DS Airship Fortress.brstm"
+    type: betting
+  - id: ds_dk_pass_world
+    title: "DS DK Pass"
+    path: "DS DK Pass.brstm"
+    type: betting
+  - id: starview_peak
+    title: "Starview Peak"
+    path: "Starview Peak.brstm"
+    type: betting
+  - id: switch_sky_high_sundae_world
+    title: "Switch Sky-High Sundae"
+    path: "Sky-High Sundae.brstm"
+    type: betting
+  - id: 3ds_wario_shipyard_world
+    title: "3DS Wario Shipyard"
+    path: "3DS Wario Shipyard.brstm"
+    type: battle
+  - id: snes_koopa_troopa_beach_world
+    title: "SNES Koopa Troopa Beach"
+    path: "SNES Koopa Troopa Beach.brstm"
+    type: betting
+  - id: faraway_oasis_world
+    title: "Faraway Oasis"
+    path: "Faraway Oasis.brstm"
+    type: betting
+  - id: peach_stadium_world
+    title: "Peach Stadium"
+    path: "Peach Stadium.brstm"
+    type: betting
+  - id: gcn_peach_beach_world
+    title: "GCN Peach Beach"
+    path: "GCN Peach Beach.brstm"
+    type: betting
+  - id: salty_salty_speedway
+    title: "Salty Salty Speedway"
+    path: "Salty Salty Speedway.brstm"
+    type: betting
+  - id: gcn_dino_dino_jungle
+    title: "GCN Dino Dino Jungle"
+    path: "GCN Dino Dino Jungle.brstm"
+    type: betting
+  - id: great_question_block_ruins
+    title: "Great ? Block Ruins"
+    path: "Great Question Block Ruins.brstm"
+    type: betting
+  - id: cheep_cheep_falls
+    title: "Cheep Cheep Falls"
+    path: "Cheep Cheep Falls.brstm"
+    type: betting
+  - id: dandelion_depths
+    title: "Dandelion Depths"
+    path: "Dandelion Depths.brstm"
+    type: betting
+  - id: boo_cinema
+    title: "Boo Cinema"
+    path: "Boo Cinema.brstm"
+    type: betting
+  - id: dry_bones_burnout
+    title: "Dry Bones Burnout"
+    path: "Dry Bones Burnout.brstm"
+    type: betting
+  - id: wii_moo_moo_meadows_world
+    title: "Wii Moo Moo Meadows"
+    path: "Wii Moo Moo Meadows.brstm"
+    type: betting
+  - id: n64_choco_mountain_world
+    title: "N64 Choco Mountain"
+    path: "N64 Choco Mountain.brstm"
+    type: battle
+  - id: wii_toad_s_factory
+    title: "Wii Toad's Factory"
+    path: "Wii Toad's Factory.brstm"
+    type: betting
+  - id: bowser_s_castle_world
+    title: "Bowser's Castle"
+    path: "Bowser's Castle.brstm"
+    type: battle
+  - id: acorn_heights
+    title: "Acorn Heights"
+    path: "Acorn Heights.brstm"
+    type: betting
+  - id: snes_mario_circuit_world
+    title: "SNES Mario Circuit"
+    path: "SNES Mario Circuit.brstm"
+    type: betting
+  - id: rainbow_road_section_1_world
+    title: "Rainbow Road (Section 1)"
+    path: "Rainbow Road (Section 1).brstm"
+    type: betting
+  - id: rainbow_road_section_2_world
+    title: "Rainbow Road (Section 2)"
+    path: "Rainbow Road (Section 2).brstm"
+    type: betting
+  - id: rainbow_road_section_3_world
+    title: "Rainbow Road (Section 3)"
+    path: "Rainbow Road (Section 3).brstm"
+    type: betting
+  - id: rainbow_road_final_section_world
+    title: "Rainbow Road (Final Section)"
+    path: "Rainbow Road (Final Section).brstm"
+    type: betting
+  - id: grand_prix_results_win_world
+    title: "Grand Prix Results - Win"
+    path: "Grand Prix Results - Win.brstm"
+    type: result
+  - id: race_results_world
+    title: "Race Results"
+    path: "Race Results.brstm"
+    type: result
+  - id: replay_mode_world
+    title: "Replay Mode"
+    path: "Replay Mode.brstm"
+    type: result
+# now the jukebox songs
+# this is going to be a bit long, but in general the songs are sorted alphabetically by game name
+# game name is included if it would be unclear which game it came from otherwise. You'll see what I mean
+  - id: dk_island_swing_world
+    title: "DK Island Swing"
+    path: "Donkey Kong Country - DK Island Swing.brstm"
+    type: betting
+  - id: the_mario_drawing_song
+    title: "The Mario Drawing Song"
+    path: "Flipnote Studio - The Mario Drawing Song.brstm"
+    type: result
+  - id: luigi_s_mansion_hallways_theme_world
+    title: "Luigi's Mansion - Hallways Theme"
+    path: "Luigi's Mansion - Hallways Theme.brstm"
+    type: betting
+  - id: 3ds_daisy_hills_world
+    title: "3DS Daisy Hills"
+    path: "Mario Kart 7 - Daisy Hills.brstm"
+    type: betting
+  - id: 3ds_dk_jungle_world
+    title: "3DS DK Jungle"
+    path: "Mario Kart 7 - DK Jungle.brstm"
+    type: betting
+  - id: 3ds_piranha_plant_slide_world
+    title: "3DS Piranha Plant Slide"
+    path: "Mario Kart 7 - Piranha Plant Slide.brstm"
+    type: betting
+  - id: 3ds_rosalina_s_ice_world
+    title: "3DS Rosalina's Ice World"
+    path: "Mario Kart 7 - Rosalina's Ice World.brstm"
+    type: betting
+  - id: 3ds_music_park_world
+    title: "3DS Music Park"
+    path: "Mario Kart 7 - Music Park.brstm"
+    type: betting
+  - id: 3ds_rock_rock_mountain_world
+    title: "3DS Rock Rock Mountain"
+    path: "Mario Kart 7 - Rock Rock Mountain.brstm"
+    type: betting
+  - id: 3ds_toad_circuit_world
+    title: "3DS Toad Circuit"
+    path: "Mario Kart 7 - Toad Circuit.brstm"
+    type: betting
+  - id: 3ds_rainbow_road
+    title: "3DS Rainbow Road"
+    path: "Mario Kart 7 - Rainbow Road.brstm"
+    type: betting
+  - id: 3ds_staff_credits_world
+    title: "3DS Staff Credits"
+    path: "Mario Kart 7 - Staff Credits.brstm"
+    type: result
+  - id: u_title_screen_world
+    title: "U Title Screen"
+    path: "Mario Kart 8 - Title Screen.brstm"
+    type: result
+  - id: u_title_screen_v2_world
+    title: "U Title Screen Ver. 2"
+    path: "Mario Kart 8 - Title Screen Ver. 2.brstm"
+    type: betting
+  - id: u_mario_circuit
+    title: "U Mario Circuit"
+    path: "Mario Kart 8 - Mario Circuit.brstm"
+    type: betting
+  - id: u_super_bell_subway
+    title: "U Super Bell Subway"
+    path: "Mario Kart 8 - Super Bell Subway.brstm"
+    type: betting
+  - id: u_shy_guy_falls
+    title: "U Shy Guy Falls"
+    path: "Mario Kart 8 - Shy Guy Falls.brstm"
+    type: betting
+  - id: u_cloudtop_cruise
+    title: "U Cloudtop Cruise"
+    path: "Mario Kart 8 - Cloudtop Cruise.brstm"
+    type: betting
+  - id: u_electrodome
+    title: "U Electrodrome"
+    path: "Mario Kart 8 - Electrodrome.brstm"
+    type: result
+  - id: u_thwomp_ruins
+    title: "U Thwomp Ruins"
+    path: "Mario Kart 8 - Thwomp Ruins.brstm"
+    type: betting
+  - id: u_mount_wario
+    title: "U Mount Wario" #I know how this looks. I ain't changing it
+    path: "Mario Kart 8 - Mount Wario.brstm"
+    type: battle
+  - id: u_twisted_mansion
+    title: "U Twisted Mansion"
+    path: "Mario Kart 8 - Twisted Mansion.brstm"
+    type: betting
+  - id: u_dragon_driftway
+    title: "U Dragon Driftway"
+    path: "Mario Kart 8 - Dragon Driftway.brstm"
+    type: betting
+  - id: u_sunshine_airport
+    title: "U Sunshine Airport"
+    path: "Mario Kart 8 - Sunshine Airport.brstm"
+    type: betting
+  - id: u_sunshine_airport_v2
+    title: "U Sunshine Airport Ver. 2"
+    path: "Mario Kart 8 - Sunshine Airport Ver. 2.brstm"
+    type: break
+  - id: u_sweet_canyon_canyon
+    title: "U Sweet Sweet Canyon"
+    path: "Mario Kart 8 - Sweet Sweet Canyon.brstm"
+    type: break
+  - id: u_sweet_sweet_canyon_v2
+    title: "U Sweet Sweet Canyon Ver. 2"
+    path: "Mario Kart 8 - Sweet Sweet Canyon Ver. 2.brstm"
+    type: betting
+  - id: u_water_park
+    title: "U Water Park"
+    path: "Mario Kart 8 - Water Park.brstm"
+    type: betting
+  - id: u_bone_dry_dunes
+    title: "U Bone-Dry Dunes"
+    path: "Mario Kart 8 - Bone-Dry Dunes.brstm"
+    type: battle
+  - id: u_dolphin_shoals
+    title: "U Dolphin Shoals"
+    path: "Mario Kart 8 - Dolphin Shoals.brstm"
+    type: betting
+  - id: u_dolphin_shoals_v2
+    title: "U Dolphin Shoals Ver. 2"
+    path: "Mario Kart 8 - Dolphin Shoals Ver. 2.brstm"
+    type: break
+  - id: u_ice_ice_outpost
+    title: "U Ice Ice Outpost"
+    path: "Mario Kart 8 - Ice Ice Outpost.brstm"
+    type: battle
+  - id: u_toad_harbor
+    title: "U Toad Harbor"
+    path: "Mario Kart 8 - Toad Harbor.brstm"
+    type: betting
+  - id: u_toad_harbor_v2
+    title: "U Toad Harbor Ver. 2"
+    path: "Mario Kart 8 - Toad Harbor Ver. 2.brstm"
+    type: betting
+  - id: u_wild_woods
+    title: "U Wild Woods"
+    path: "Mario Kart 8 - Wild Woods.brstm"
+    type: betting
+  - id: u_bowser_s_castle
+    title: "U Bowser's Castle"
+    path: "Mario Kart 8 - Bowser's Castle.brstm"
+    type: betting
+  - id: u_rainbow_road
+    title: "U Rainbow Road"
+    path: "Mario Kart 8 - Rainbow Road.brstm"
+    type: betting
+  - id: switch_battle_stadium
+    title: "Switch Battle Stadium"
+    path: "Mario Kart 8 Deluxe - Battle Stadium.brstm"
+    type: betting
+  - id: switch_squeaky_clean_sprint
+    title: "Switch Squeaky Clean Sprint"
+    path: "Mario Kart 8 Deluxe - Squeaky Clean Sprint.brstm"
+    type: betting
+  - id: n64_main_theme_world
+    title: "N64 Main Theme"
+    path: "Mario Kart 64 - Main Theme.brstm"
+    type: result
+  - id: n64_rainbow_road_world
+    title: "N64 Rainbow Road"
+    path: "Mario Kart 64 - Rainbow Road.brstm"
+    type: betting
+  - id: n64_frappe_snowland_world
+    title: "N64 Frappe Snowland"
+    path: "Mario Kart 64 - Frappe Snowland.brstm"
+    type: betting
+  - id: n64_frappe_snowland_world_v2
+    title: "N64 Frappe Snowland Ver. 2"
+    path: "Mario Kart 64 - Frappe Snowland Ver. 2.brstm"
+    type: break
+  - id: mk64_game_select_world
+    title: "Mario Kart 64 - Game Select"
+    path: "Mario Kart 64 - Game Select.brstm"
+    type: betting
+  - id: n64_kalimari_desert_world
+    title: "N64 Kalimari Desert"
+    path: "Mario Kart 64 - Kalimari Desert.brstm"
+    type: betting
+  - id: n64_koopa_troopa_beach_world
+    title: "N64 Koopa Troopa Beach"
+    path: "Mario Kart 64 - Koopa Troopa Beach.brstm"
+    type: betting
+  - id: n64_koopa_troopa_beach_v2
+    title: "N64 Koopa Troopa Beach Ver. 2"
+    path: "Mario Kart 64 - Koopa Troopa Beach Ver. 2.brstm"
+    type: break
+  - id: n64_moo_moo_farm_world
+    title: "N64 Moo Moo Farm"
+    path: "Mario Kart 64 - Moo Moo Farm.brstm"
+    type: betting
+  - id: n64_toad_s_turnpike_world
+    title: "N64 Toad's Turnpike"
+    path: "Mario Kart 64 - Toad's Turnpike.brstm"
+    type: betting
+  - id: n64_dk_s_jungle_parkway
+    title: "N64 DK's Jungle Parkway"
+    path: "Mario Kart 64 - DK's Jungle Parkway.brstm"
+    type: betting
+  - id: n64_battle_arenas_world
+    title: "N64 Battle Arenas"
+    path: "Mario Kart 64 - Battle Arenas.brstm"
+    type: betting
+  - id: mk64_results_1st_4th_world
+    title: "Mario Kart 64 - Results (1st-4th Place)"
+    path: "Mario Kart 64 - Results (1st-4th Place).brstm"
+    type: result
+  - id: ds_cheep_cheep_beach_world
+    title: "DS Cheep Cheep Beach"
+    path: "Mario Kart DS - Cheep Cheep Beach.brstm"
+    type: break
+  - id: ds_figure_8_circuit_world
+    title: "DS Figure-8 Circuit"
+    path: "Mario Kart DS - Figure-8 Circuit.brstm"
+    type: betting
+  - id: ds_yoshi_falls_world
+    title: "DS Yoshi Falls"
+    path: "Mario Kart DS - Yoshi Falls.brstm"
+    type: betting
+  - id: ds_delfino_square_world
+    title: "DS Delfino Square"
+    path: "Mario Kart DS - Delfino Square.brstm"
+    type: betting
+  - id: ds_shroom_ridge_world
+    title: "DS Shroom Ridge"
+    path: "Mario Kart DS - Shroom Ridge.brstm"
+    type: betting
+  - id: ds_waluigi_pinball_world
+    title: "DS Waluigi Pinball"
+    path: "Mario Kart DS - Waluigi Pinball.brstm"
+    type: betting
+  - id: ds_waluigi_pinball_v2
+    title: "DS Waluigi Pinball Ver. 2"
+    path: "Mario Kart DS - Waluigi Pinball Ver. 2.brstm"
+    type: betting
+  - id: ds_tick_tock_clock_world
+    title: "DS Tick Tock Clock"
+    path: "Mario Kart DS - Tick Tock Clock.brstm"
+    type: betting
+  - id: ds_battle_mode
+    title: "DS Battle Mode"
+    path: "Mario Kart DS - Battle Mode.brstm"
+    type: battle
+  - id: ds_luigi_s_mansion_world
+    title: "DS Luigi's Mansion"
+    path: "Mario Kart DS - Luigi's Mansion.brstm"
+    type: betting
+  - id: ds_peach_gardens_world
+    title: "DS Peach Gardens"
+    path: "Mario Kart DS - Peach Gardens.brstm"
+    type: break
+  - id: ds_rainbow_road_world
+    title: "DS Rainbow Road"
+    path: "Mario Kart DS - Rainbow Road.brstm"
+    type: betting
+  - id: ds_credits_world
+    title: "DS Credits"
+    path: "Mario Kart DS - Credits.brstm"
+    type: result
+  - id: gcn_dry_dry_desert_world
+    title: "GCN Dry Dry Desert"
+    path: "Mario Kart_ Double Dash!! - Dry Dry Desert.brstm"
+    type: betting
+  - id: gcn_sherbet_land_world
+    title: "GCN Sherbet Land"
+    path: "Mario Kart_ Double Dash!! - Sherbet Land.brstm"
+    type: result
+  - id: gcn_yoshi_circuit_world
+    title: "GCN Yoshi Circuit"
+    path: "Mario Kart_ Double Dash!! - Yoshi Circuit.brstm"
+    type: betting
+  - id: gcn_mushroom_bridge_world
+    title: "GCN Mushroom Bridge"
+    path: "Mario Kart_ Double Dash!! - Mushroom Bridge.brstm"
+    type: betting
+  - id: gcn_bowser_s_castle_world
+    title: "GCN Bowser's Castle"
+    path: "Mario Kart_ Double Dash!! - Bowser's Castle.brstm"
+    type: battle
+  - id: gcn_rainbow_road_world
+    title: "GCN Rainbow Road"
+    path: "Mario Kart_ Double Dash!! - Rainbow Road.brstm"
+    type: betting
+  - id: gcn_battle_mode
+    title: "GCN Battle Mode"
+    path: "Mario Kart_ Double Dash!! - Battle Mode.brstm"
+    type: betting
+  - id: gcn_staff_roll_world
+    title: "GCN Staff Roll"
+    path: "Mario Kart_ Double Dash!! - Staff Roll.brstm"
+    type: betting
+  - id: gcn_baby_park_world
+    title: "GCN Baby Park"
+    path: "Mario Kart_ Double Dash!! - Baby Park.brstm"
+    type: betting
+  - id: mario_kart_live_main_theme_world
+    title: "Mario Kart Live: Home Circuit - Main Theme"
+    path: "Mario Kart Live_ Home Circuit - Main Theme.brstm"
+    type: betting
+  - id: gba_mario_circuit_world
+    title: "GBA Mario Circuit"
+    path: "Mario Kart_ Super Circuit - Mario Circuit.brstm"
+    type: betting
+  - id: gba_ribbon_road_world
+    title: "GBA Ribbon Road"
+    path: "Mario Kart_ Super Circuit - Ribbon Road.brstm"
+    type: betting
+  - id: gba_shy_guy_beach_world
+    title: "GBA Shy Guy Beach"
+    path: "Mario Kart_ Super Circuit - Shy Guy Beach.brstm"
+    type: break
+  - id: gba_cheese_land_world
+    title: "GBA Cheese Land"
+    path: "Mario Kart_ Super Circuit - Cheese Land.brstm"
+    type: betting
+  - id: gba_riverside_park_world
+    title: "GBA Riverside Park"
+    path: "Mario Kart_ Super Circuit - Riverside Park.brstm"
+    type: betting
+  - id: gba_yoshi_desert_world
+    title: "GBA Yoshi Desert"
+    path: "Mario Kart_ Super Circuit - Yoshi Desert.brstm"
+    type: betting
+  - id: gba_bowser_s_castle_world
+    title: "GBA Bowser's Castle"
+    path: "Mario Kart_ Super Circuit - Bowser's Castle.brstm"
+    type: battle
+  - id: tour_vancouver_velocity_world
+    title: "Tour Vancouver Velocity"
+    path: "Mario Kart Tour - Vancouver Velocity.brstm"
+    type: betting
+  - id: tour_bangkok_rush_world
+    title: "Tour Bangkok Rush"
+    path: "Mario Kart Tour - Bangkok Rush.brstm"
+    type: betting
+  - id: tour_los_angeles_laps_world
+    title: "Tour Los Angeles Laps"
+    path: "Mario Kart Tour - Los Angeles Laps.brstm"
+    type: betting
+  - id: tour_singapore_speedway_world
+    title: "Tour Singapore Speedway"
+    path: "Mario Kart Tour - Singapore Speedway.brstm"
+    type: betting
+  - id: tour_tokyo_blur_world
+    title: "Tour Tokyo Blur"
+    path: "Mario Kart Tour - Tokyo Blur.brstm"
+    type: betting
+  - id: tour_ninja_hideaway_world
+    title: "Tour Ninja Hideaway"
+    path: "Mario Kart Tour - Ninja Hideaway.brstm"
+    type: battle
+  - id: tour_piranha_plant_pipeline_world
+    title: "Tour Piranha Plant Pipeline"
+    path: "Mario Kart Tour - Piranha Plant Pipeline.brstm"
+    type: betting
+  - id: tour_merry_mountain_world
+    title: "Tour Merry Mountain"
+    path: "Mario Kart Tour - Merry Mountain.brstm"
+    type: betting
+  - id: wii_luigi_circuit_world
+    title: "Wii Luigi Circuit"
+    path: "Mario Kart Wii - Luigi Circuit.brstm"
+    type: betting
+  - id: wii_mushroom_gorge_world
+    title: "Wii Mushroom Gorge"
+    path: "Mario Kart Wii - Mushroom Gorge.brstm"
+    type: betting
+  - id: wii_wario_s_gold_mine_world
+    title: "Wii Wario's Gold Mine"
+    path: "Mario Kart Wii - Wario's Gold Mine.brstm"
+    type: betting
+  - id: wii_dk_summit_world
+    title: "Wii DK Summit"
+    path: "Mario Kart Wii - DK Summit.brstm"
+    type: betting
+  - id: wii_maple_treeway_world
+    title: "Wii Maple Treeway"
+    path: "Mario Kart Wii - Maple Treeway.brstm"
+    type: break
+  - id: wii_grumble_volcano_world
+    title: "Wii Grumble Volcano"
+    path: "Mario Kart Wii - Grumble Volcano.brstm"
+    type: battle
+  - id: wii_rainbow_road_world
+    title: "Wii Rainbow Road"
+    path: "Mario Kart Wii - Rainbow Road.brstm"
+    type: betting
+  - id: wii_daisy_summit_world
+    title: "Wii Daisy Circuit"
+    path: "Mario Kart Wii - Daisy Circuit.brstm"
+    type: break
+  - id: wii_daisy_circuit_v2
+    title: "Wii Daisy Circuit Ver. 2"
+    path: "Mario Kart Wii - Daisy Circuit Ver. 2.brstm"
+    type: betting
+  - id: wii_coconut_mall_world
+    title: "Wii Coconut Mall"
+    path: "Mario Kart Wii - Coconut Mall.brstm"
+    type: betting
+  - id: wii_moonview_highway_world
+    title: "Wii Moonview Highway"
+    path: "Mario Kart Wii - Moonview Highway.brstm"
+    type: betting
+  - id: wii_chain_chomp_wheel_world
+    title: "Wii Chain Chomp Wheel"
+    path: "Mario Kart Wii - Chain Chomp Wheel.brstm"
+    type: betting
+  - id: wii_delfino_pier_world
+    title: "Wii Delfino Pier"
+    path: "Mario Kart Wii - Delfino Pier.brstm"
+    type: betting
+  - id: wii_thwomp_desert_world
+    title: "Wii Thwomp Desert"
+    path: "Mario Kart Wii - Thwomp Desert.brstm"
+    type: betting
+  - id: wii_staff_credits_a_world
+    title: "Wii Staff Credits A"
+    path: "Mario Kart Wii - Staff Credits A.brstm"
+    type: break
+  - id: creative_exercise_world
+    title: "Creative Exercise"
+    path: "Mario Paint - Creative Exercise.brstm"
+    type: betting
+  - id: gnat_attack_level_1_world
+    title: "Gnat Attack: Level 1"
+    path: "Mario Paint - Gnat Attack_ Level 1.brstm"
+    type: betting
+  - id: new_super_mario_bros_ground_bgm_world
+    title: "New Super Mario Bros. - Ground BGM"
+    path: "New Super Mario Bros. - Ground BGM.brstm"
+    type: betting
+  - id: new_super_mario_bros_wii_beach_bgm_world
+    title: "New Super Mario Bros. Wii - Beach BGM"
+    path: "New Super Mario Bros. Wii - Beach BGM.brstm"
+    type: betting
+  - id: new_super_mario_bros_wii_underwater_bgm_world
+    title: "New Super Mario Bros. Wii - Underwater BGM"
+    path: "New Super Mario Bros. Wii - Underwater BGM.brstm"
+    type: break
+  - id: new_super_mario_bros_wii_desert_bgm
+    title: "New Super Mario Bros. Wii - Desert BGM"
+    path: "New Super Mario Bros. Wii - Desert BGM.brstm"
+    type: betting
+  - id: new_super_mario_bros_wii_volcano_theme_world
+    title: "New Super Mario Bros. Wii - Volcano Theme"
+    path: "New Super Mario Bros. Wii - Volcano Theme.brstm"
+    type: battle
+  - id: new_super_mario_bros_wii_castle_boss
+    title: "New Super Mario Bros. Wii - Castle Boss"
+    path: "New Super Mario Bros. Wii - Castle Boss.brstm"
+    type: battle
+  - id: new_super_mario_bros_wii_staff_roll
+    title: "New Super Mario Bros. Wii - Staff Roll"
+    path: "New Super Mario Bros. Wii - Staff Roll.brstm"
+    type: result
+  - id: new_super_mario_bros_u_ground_bgm
+    title: "New Super Mario Bros. U - Ground BGM"
+    path: "New Super Mario Bros. U - Ground BGM.brstm"
+    type: betting
+  - id: super_mario_3d_land_ground_bgm
+    title: "Super Mario 3D Land - Ground BGM"
+    path: "Super Mario 3D Land - Ground BGM.brstm"
+    type: result
+  - id: super_mario_3d_land_beach_bgm
+    title: "Super Mario 3D Land - Beach BGM"
+    path: "Super Mario 3D Land - Beach BGM.brstm"
+    type: betting
+  - id: super_mario_3d_land_beach_bgm_v2
+    title: "Super Mario 3D Land - Beach BGM Ver. 2"
+    path: "Super Mario 3D Land - Beach BGM Ver. 2.brstm"
+    type: break
+  - id: super_mario_3d_land_snow_bgm
+    title: "Super Mario 3D Land - Snow BGM"
+    path: "Super Mario 3D Land - Snow BGM.brstm"
+    type: break
+  - id: super_bell_hill_world
+    title: "Super Bell Hill"
+    path: "Super Mario 3D World - Super Bell Hill.brstm"
+    type: betting
+  - id: sprawling_savannah_world
+    title: "Sprawling Savannah"
+    path: "Super Mario 3D World - Sprawling Savannah.brstm"
+    type: betting
+  - id: chain_link_charge_world
+    title: "Chain-Link Charge"
+    path: "Super Mario 3D World - Chain-Link Charge.brstm"
+    type: betting
+  - id: chain_link_charge_v2
+    title: "Chain-Link Charge Ver. 2"
+    path: "Super Mario 3D World - Chain-Link Charge Ver. 2.brstm"
+    type: break
+  - id: captain_toad_goes_forth_world
+    title: "Captain Toad Goes Forth"
+    path: "Super Mario 3D World - Captain Toad Goes Forth.brstm"
+    type: result
+  - id: hisstocrat_world
+    title: "Hisstocrat"
+    path: "Super Mario 3D World - Hisstocrat.brstm"
+    type: betting
+  - id: double_cherry_pass_world
+    title: "Double Cherry Pass"
+    path: "Super Mario 3D World - Double Cherry Pass.brstm"
+    type: betting
+  - id: hands_on_hall_world
+    title: "Hands-On Hall"
+    path: "Super Mario 3D World - Hands-On Hall.brstm"
+    type: betting
+  - id: piranha_creeper_creek_world
+    title: "Piranha Creeper Creek"
+    path: "Super Mario 3D World - Piranha Creeper Creek.brstm"
+    type: betting
+  - id: shifty_boo_mansion_world
+    title: "Shifty Boo Mansion"
+    path: "Super Mario 3D World - Shifty Boo Mansion.brstm"
+    type: betting
+  - id: super_mario_3d_world_world_bowser_world
+    title: "Super Mario 3D World - World Bowser"
+    path: "Super Mario 3D World - World Bowser.brstm"
+    type: betting
+  - id: bowser_s_highway_showdown_world
+    title: "Bowser's Highway Showdown"
+    path: "Super Mario 3D World - Bowser's Highway Showdown.brstm"
+    type: betting
+  - id: lake_lapcat_world
+    title: "Lake Lapcat"
+    path: "Bowser's Fury - Lake Lapcat.brstm"
+    type: betting
+  - id: attack_fury_bowser_world
+    title: "Attack! Fury Bowser"
+    path: "Bowser's Fury - Attack! Fury Bowser.brstm"
+    type: battle
+  - id: sm64_file_select_world
+    title: "Super Mario 64 - File Select"
+    path: "Super Mario 64 - File Select.brstm"
+    type: break
+  - id: sm64_peach_s_castle_world
+    title: "Super Mario 64 - Peach's Castle"
+    path: "Super Mario 64 - Peach's Castle.brstm"
+    type: break
+  - id: bob_omb_battlefield_world
+    title: "Bob-Omb Battlefield"
+    path: "Super Mario 64 - Bob-Omb Battlefield.brstm"
+    type: betting
+  - id: bob_omb_battlefield_v2_world
+    title: "Bob-Omb Battlefield Ver. 2"
+    path: "Super Mario 64 - Bob-Omb Battlefield Ver. 2.brstm"
+    type: betting
+  - id: cool_cool_mountain_world
+    title: "Cool Cool Mountain"
+    path: "Super Mario 64 - Cool Cool Mountain.brstm"
+    type: betting
+  - id: slider_world
+    title: "Slider"
+    path: "Super Mario 64 - Slider.brstm"
+    type: betting
+  - id: sm64_bowser_s_theme_world
+    title: "Super Mario 64 - Bowser's Theme"
+    path: "Super Mario 64 - Bowser's Theme.brstm"
+    type: battle
+  - id: bowser_s_road_world
+    title: "Bowser's Road"
+    path: "Super Mario 64 - Bowser's Road.brstm"
+    type: betting
+  - id: piranha_plant_s_lullaby_world
+    title: "Piranha Plant's Lullaby"
+    path: "Super Mario 64 - Piranha Plant's Lullaby.brstm"
+    type: break
+  - id: dire_dire_docks_world
+    title: "Dire Dire Docks"
+    path: "Super Mario 64 - Dire Dire Docks.brstm"
+    type: break
+  - id: sm64_staff_roll_world
+    title: "Super Mario 64 - Staff Roll"
+    path: "Super Mario 64 - Staff Roll.brstm"
+    type: break
+  - id: smb_ground_bgm_world
+    title: "Super Mario Bros. - Ground BGM"
+    path: "Super Mario Bros. - Ground BGM.brstm"
+    type: betting
+  - id: smb_ground_bgm_world_v2
+    title: "Super Mario Bros. - Ground BGM Ver. 2"
+    path: "Super Mario Bros. - Ground BGM Ver. 2.brstm"
+    type: break
+  - id: smb_underground_bgm_world
+    title: "Super Mario Bros. - Underground BGM"
+    path: "Super Mario Bros. - Underground BGM.brstm"
+    type: betting
+  - id: smb_underground_bgm_world_v2
+    title: "Super Mario Bros. - Underground BGM Ver. 2"
+    path: "Super Mario Bros. - Underground BGM Ver. 2.brstm"
+    type: break
+  - id: smb2_ground_bgm_world
+    title: "Super Mario Bros. 2 - Ground BGM"
+    path: "Super Mario Bros. 2 - Ground BGM.brstm"
+    type: betting
+  - id: smb2_please_select_player_world
+    title: "Super Mario Bros. 2 - Please Select Player"
+    path: "Super Mario Bros. 2 - Please Select Player.brstm"
+    type: betting
+  - id: smb2_underground_bgm_world
+    title: "Super Mario Bros. 2 - Underground BGM"
+    path: "Super Mario Bros. 2 - Underground BGM.brstm"
+    type: betting
+  - id: smb3_ground_bgm_world
+    title: "Super Mario Bros. 3 - Ground BGM"
+    path: "Super Mario Bros. 3 - Ground BGM.brstm"
+    type: betting
+  - id: smb3_map_medley_world
+    title: "Super Mario Bros. 3 - Map Medley"
+    path: "Super Mario Bros. 3 - Map Medley.brstm"
+    type: betting
+  - id: smb3_underwater_bgm_world
+    title: "Super Mario Bros. 3 - Underwater BGM"
+    path: "Super Mario Bros. 3 - Underwater BGM.brstm"
+    type: betting
+  - id: smb3_athletic_bgm_world
+    title: "Super Mario Bros. 3 - Athletic BGM"
+    path: "Super Mario Bros. 3 - Athletic BGM.brstm"
+    type: betting
+  - id: smb3_airship_bgm_world
+    title: "Super Mario Bros. 3 - Airship BGM"
+    path: "Super Mario Bros. 3 - Airship BGM.brstm"
+    type: warning
+  - id: smb3_fortress_boss_world
+    title: "Super Mario Bros. 3 - Fortress Boss"
+    path: "Super Mario Bros. 3 - Fortress Boss.brstm"
+    type: battle
+  - id: smb3_ending_world
+    title: "Super Mario Bros. 3 - Ending"
+    path: "Super Mario Bros. 3 - Ending.brstm"
+    type: result
+  - id: purple_comet_world
+    title: "Purple Comet"
+    path: "Super Mario Galaxy - Purple Comet.brstm"
+    type: betting
+  - id: rosalina_in_the_observatory_world
+    title: "Rosalina in the Observatory"
+    path: "Super Mario Galaxy - Rosalina in the Observatory.brstm"
+    type: betting
+  - id: egg_planet_world
+    title: "Egg Planet"
+    path: "Super Mario Galaxy - Egg Planet.brstm"
+    type: betting
+  - id: space_junk_road_world
+    title: "Space Junk Road"
+    path: "Super Mario Galaxy - Space Junk Road.brstm"
+    type: betting
+  - id: buoy_base_galaxy_world
+    title: "Buoy Base Galaxy"
+    path: "Super Mario Galaxy - Buoy Base Galaxy.brstm"
+    type: betting
+  - id: enter_bowser_jr_world
+    title: "Enter Bowser Jr.!"
+    path: "Super Mario Galaxy - Enter Bowser Jr.!.brstm"
+    type: battle
+  - id: super_mario_galaxy_final_battle_with_bowser
+    title: "Super Mario Galaxy - Final Battle With Bowser"
+    path: "Super Mario Galaxy - Final Battle With Bowser.brstm"
+    type: battle
+  - id: gusty_garden_galaxy_world
+    title: "Gusty Garden Galaxy"
+    path: "Super Mario Galaxy - Gusty Garden Galaxy.brstm"
+    type: betting
+  - id: starship_mario_world
+    title: "Starship Mario"
+    path: "Super Mario Galaxy 2 - Starship Mario.brstm"
+    type: betting
+  - id: the_starship_travels_world
+    title: "The Starship Travels"
+    path: "Super Mario Galaxy 2 - The Starship Travels.brstm"
+    type: result
+  - id: yoshi_star_galaxy_world
+    title: "Yoshi Star Galaxy"
+    path: "Super Mario Galaxy 2 - Yoshi Star Galaxy.brstm"
+    type: break
+  - id: wild_glide_galaxy_world
+    title: "Wild Glide Galaxy"
+    path: "Super Mario Galaxy 2 - Wild Glide Galaxy.brstm"
+    type: betting
+  - id: sky_station_galaxy_world
+    title: "Sky Station Galaxy"
+    path: "Super Mario Galaxy 2 - Sky Station Galaxy.brstm"
+    type: battle
+  - id: puzzle_plank_galaxy_world
+    title: "Puzzle Plank Galaxy"
+    path: "Super Mario Galaxy 2 - Puzzle Plank Galaxy.brstm"
+    type: betting
+  - id: melty_monster_galaxy_world
+    title: "Melty Monster Galaxy"
+    path: "Super Mario Galaxy 2 - Melty Monster Galaxy.brstm"
+    type: betting
+  - id: digga_leg_world
+    title: "Digga Leg"
+    path: "Super Mario Galaxy 2 - Digga Leg.brstm"
+    type: battle
+  - id: cloudy_court_galaxy_world
+    title: "Cloudy Court Galaxy"
+    path: "Super Mario Galaxy 2 - Cloudy Court Galaxy.brstm"
+    type: battle
+  - id: bowser_s_galaxy_generatior_world
+    title: "Bowser's Galaxy Generator"
+    path: "Super Mario Galaxy 2 - Bowser's Galaxy Generator.brstm"
+    type: betting
+  - id: snes_rainbow_road_world
+    title: "SNES Rainbow Road"
+    path: "Super Mario Kart - Rainbow Road.brstm"
+    type: betting
+  - id: snes_title_screen
+    title: "SNES Title Screen"
+    path: "Super Mario Kart - Title Screen.brstm"
+    type: result
+  - id: snes_title_screen_v2
+    title: "SNES Title Screen Ver. 2"
+    path: "Super Mario Kart - Title Screen Ver. 2.brstm"
+    type: result
+  - id: snes_koopa_beach_world
+    title: "SNES Koopa Beach"
+    path: "Super Mario Kart - Koopa Beach.brstm"
+    type: break
+  - id: snes_donut_plains_world
+    title: "SNES Donut Plains"
+    path: "Super Mario Kart - Donut Plains.brstm"
+    type: betting
+  - id: snes_choco_island_world
+    title: "SNES Choco Island"
+    path: "Super Mario Kart - Choco Island.brstm"
+    type: betting
+  - id: snes_choco_island_v2
+    title: "SNES Choco Island Ver. 2"
+    path: "Super Mario Kart - Choco Island Ver. 2.brstm"
+    type: break
+  - id: snes-ghost_valley_world
+    title: "SNES Ghost Valley"
+    path: "Super Mario Kart - Ghost Valley.brstm"
+    type: battle
+  - id: snes_battle_mode_world
+    title: "SNES Battle Mode"
+    path: "Super Mario Kart - Battle Mode.brstm"
+    type: battle
+  - id: snes_vanilla_lake_world
+    title: "SNES Vanilla Lake"
+    path: "Super Mario Kart - Vanilla Lake.brstm"
+    type: break
+  - id: snes_bowser_castle_world
+    title: "SNES Bowser Castle"
+    path: "Super Mario Kart - Bowser Castle.brstm"
+    type: battle
+  - id: sml_ground_bgm_world
+    title: "Super Mario Land - Ground BGM"
+    path: "Super Mario Land - Ground BGM.brstm"
+    type: betting
+  - id: easton_kingdom_world
+    title: "Easton Kingdom"
+    path: "Super Mario Land - Easton Kingdom.brstm"
+    type: betting
+  - id: sml2_main_theme_world
+    title: "Super Mario Land 2 - Main Theme"
+    path: "Super Mario Land 2_ 6 Golden Coins - Main Theme.brstm"
+    type: betting
+  - id: super_mario_maker_title_world
+    title: "Super Mario Maker - Title"
+    path: "Super Mario Maker - Title.brstm"
+    type: betting
+  - id: fossil_falls_world
+    title: "Fossil Falls"
+    path: "Super Mario Odyssey - Fossil Falls.brstm"
+    type: betting
+  - id: tostarena_ruins_world
+    title: "Tostarena Ruins"
+    path: "Super Mario Odyssey - Tostarena Ruins.brstm"
+    type: betting
+  - id: steam_gardens_world
+    title: "Steam Gardens"
+    path: "Super Mario Odyssey - Steam Gardens.brstm"
+    type: betting
+  - id: steam_gardens_v2_world
+    title: "Steam Gardens Ver. 2"
+    path: "Super Mario Odyssey - Steam Gardens Ver. 2.brstm"
+    type: betting
+  - id: shiveria_town_world
+    title: "Shiveria Town"
+    path: "Super Mario Odyssey - Shiveria Town.brstm"
+    type: betting
+  - id: lake_lamode_world
+    title: "Lake Lamode"
+    path: "Super Mario Odyssey - Lake Lamode.brstm"
+    type: break
+  - id: peronza_plaza_world
+    title: "Peronza Plaza"
+    path: "Super Mario Odyssey - Peronza Plaza.brstm"
+    type: betting
+  - id: jump_up_super_star_world
+    title: "Jump Up, Super Star!"
+    path: "Super Mario Odyssey - Jump Up, Super Star!.brstm"
+    type: betting
+  - id: super_mario_odyssey_bowser_s_castle_main_courtyard_world
+    title: "Super Mario Odyssey - Bowser's Castle (Main Courtyard)"
+    path: "Super Mario Odyssey - Bowser's Castle (Main Courtyard).brstm"
+    type: betting
+  - id: break_free_lead_the_way_world
+    title: "Break Free (Lead the Way)"
+    path: "Super Mario Odyssey - Break Free (Lead the Way).brstm"
+    type: betting
+  - id: delfino_plaza_world
+    title: "Delfino Plaza"
+    path: "Super Mario Sunshine - Delfino Plaza.brstm"
+    type: betting
+  - id: bianco_hills_world
+    title: "Bianco Hills"
+    path: "Super Mario Sunshine - Bianco Hills.brstm"
+    type: betting
+  - id: ricco_harbor_world
+    title: "Ricco Harbor"
+    path: "Super Mario Sunshine - Ricco Harbor.brstm"
+    type: betting
+  - id: sky_and_sea_world
+    title: "Sky & Sea"
+    path: "Super Mario Sunshine - Sky & Sea.brstm"
+    type: betting
+  - id: smw_title_bgm_world
+    title: "Super Mario World - Title BGM"
+    path: "Super Mario World - Title BGM.brstm"
+    type: result
+  - id: smw_ground_bgm_world
+    title: "Super Mario World - Ground BGM"
+    path: "Super Mario World - Ground BGM.brstm"
+    type: betting
+  - id: smw_ground_bgm_world_v2
+    title: "Super Mario World - Ground BGM Ver. 2"
+    path: "Super Mario World - Ground BGM Ver. 2.brstm"
+    type: betting
+  - id: smw_ground_bgm_world_v3
+    title: "Super Mario World - Ground BGM Ver. 3"
+    path: "Super Mario World - Ground BGM Ver. 3.brstm"
+    type: betting
+  - id: smw_underwater_bgm_world
+    title: "Super Mario World - Underwater BGM"
+    path: "Super Mario World - Underwater BGM.brstm"
+    type: betting
+  - id: smw_map_medley_world
+    title: "Super Mario World - Map Medley"
+    path: "Super Mario World - Map Medley.brstm"
+    type: betting
+  - id: smw_underground_bgm_world
+    title: "Super Mario World - Underground BGM"
+    path: "Super Mario World - Underground BGM.brstm"
+    type: betting
+  - id: smw_koopalings_bgm_world
+    title: "Super Mario World - Koopalings BGM"
+    path: "Super Mario World - Koopalings BGM.brstm"
+    type: battle
+  - id: smw_bonus_game_bgm_world
+    title: "Super Mario World - Bonus Game BGM"
+    path: "Super Mario World - Bonus Game BGM.brstm"
+    type: result
+  - id: smw_ending_world
+    title: "Super Mario World - Ending"
+    path: "Super Mario World - Ending.brstm"
+    type: result
+  - id: rice_beach_world
+    title: "Rice Beach"
+    path: "Wario Land_ Super Mario Land 3 - Rice Beach.brstm"
+    type: betting
+  - id: drifting_away_world
+    title: "Drifting Away"
+    path: "WarioWare Inc. - Drifting Away.brstm"
+    type: betting
+  - id: yoshi_island_mini_boss_world
+    title: "Yoshi's Island - Mini Boss"
+    path: "Yoshi's Island - Mini Boss.brstm"
+    type: betting
+  - id: yoshi_island_mini_boss_v2_world
+    title: "Yoshi's Island - Mini Boss Ver. 2"
+    path: "Yoshi's Island - Mini Boss Ver. 2.brstm"
+    type: result
+  - id: yoshi_s_island_opening_melody_world
+    title: "Yoshi's Island - Opening Melody"
+    path: "Yoshi's Island - Opening Melody.brstm"
+    type: break
+  - id: yoshi_s_island_flower_field_bgm_world
+    title: "Yoshi's Island - Flower Field BGM"
+    path: "Yoshi's Island - Flower Field BGM.brstm"
+    type: betting
+  - id: yoshi_s_island_flower_field_bgm_world_v2
+    title: "Yoshi's Island - Flower Field BGM Ver. 2"
+    path: "Yoshi's Island - Flower Field BGM Ver. 2.brstm"
+    type: betting
+  - id: yoshi_s_island_athletic_bgm_world
+    title: "Yoshi's Island - Athletic BGM"
+    path: "Yoshi's Island - Athletic BGM.brstm"
+    type: betting
+  - id: yoshi_s_island_koopa_world
+    title: "Yoshi's Island - Koopa"
+    path: "Yoshi's Island - Koopa.brstm"
+    type: battle
+  - id: yoshi_on_the_beach_world
+    title: "Yoshi On the Beach"
+    path: "Yoshi's Story - Yoshi On the Beach.brstm"
+    type: break
+  - id: yoshi_s_song_world
+    title: "Yoshi's Song"
+    path: "Yoshi's Story - Yoshi's Song.brstm"
+    type: break
+  - id: yoshi_s_tale_world
+    title: "Yoshi's Tale"
+    path: "Yoshi's Story - Yoshi's Tale.brstm"
+    type: break
+...

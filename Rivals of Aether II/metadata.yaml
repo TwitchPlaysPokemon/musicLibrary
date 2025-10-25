@@ -1,0 +1,103 @@
+---
+id: rivals_of_aether_ii
+title: "Rivals of Aether II"
+platform: "PC"
+year: 2024
+songs:
+  - id: dreams_in_azure
+    title: "Dreams in Azure"
+    path: "Dreams in Azure.brstm"
+    type: result
+  - id: apex_of_thunderstorms
+    title: "Apex of Thunderstorms"
+    path: "Apex of Thunderstorms.brstm"
+    type: battle
+  - id: verdant_harmony
+    title: "Verdant Harmony"
+    path: "Verdant Harmony.brstm"
+    type: betting
+  - id: jetstream_joyride
+    title: "Jetstream Joyride"
+    path: "Jetstream Joyride.brstm"
+    type: betting
+  - id: sovereign_of_flame
+    title: "Sovereign of Flame"
+    path: "Sovereign of Flame.brstm"
+    type: battle
+  - id: fighter_select_arrival
+    title: "Fighter Select ~ Arrival"
+    path: "Fighter Select ~ Arrival.brstm"
+    type: warning
+  - id: sylvan_resurgence
+    title: "Sylvan Resurgence"
+    path: "Sylvan Resurgence.brstm"
+    type: battle
+  - id: main_menu_arrival
+    title: "Main Menu ~ Arrival"
+    path: "Main Menu ~ Arrival.brstm"
+    type: break
+  - id: adventurous_gale
+    title: "Adventurous Gale"
+    path: "Adventurous Gale.brstm"
+    type: betting
+  - id: the_realm_of_mist
+    title: "The Realm of Mist"
+    path: "The Realm of Mist.brstm"
+    type: battle
+  - id: subzero_convergence
+    title: "Subzero Convergence"
+    path: "Subzero Convergence.brstm"
+    type: battle
+  - id: ancient_geoform
+    title: "Ancient Geoform"
+    path: "Ancient Geoform.brstm"
+    type: betting
+  - id: fighter_select_revival
+    title: "Fighter Select ~ Revival"
+    path: "Fighter Select ~ Revival.brstm"
+    type: warning
+  - id: main_menu_revival
+    title: "Main Menu ~ Revival"
+    path: "Main Menu ~ Revival.brstm"
+    type: result
+  - id: arrow_of_triumph_r2_ver
+    title: "Arrow of Triumph (R2 Ver.)"
+    path: "Arrow of Triumph (R2 Ver.).brstm"
+    type: result
+  - id: war_of_rivals
+    title: "War of Rivals"
+    path: "War of Rivals.brstm"
+    type: battle
+  - id: the_earthen_division_r2_ver
+    title: "The Earthen Division (R2 Ver.)"
+    path: "The Earthen Division (R2 Ver.).brstm"
+    type: battle
+  - id: glacial_battlefield
+    title: "Glacial Battlefield"
+    path: "Glacial Battlefield.brstm"
+    type: battle
+  - id: fight_and_flight_r2_ver
+    title: "Fight and Flight (R2 Ver.)"
+    path: "Fight and Flight (R2 Ver.).brstm"
+    type: battle
+  - id: the_king_of_onsen_temple_arrange
+    title: "The King of Onsen (Temple Arrange)"
+    path: "The King of Onsen (Temple Arrange).brstm"
+    type: betting
+  - id: joy_of_the_ocean
+    title: "Joy of the Ocean"
+    path: "Joy of the Ocean.brstm"
+    type: result
+  - id: lightning_pandemonium_r2_ver
+    title: "Lightning Pandemonium (R2 Ver.)"
+    path: "Lightning Pandemonium (R2 Ver.).brstm"
+    type: battle
+  - id: decisive_battle_redux_roa2
+    title: "Decisive Battle Redux"
+    path: "Decisive Battle Redux.brstm"
+    type: battle
+  - id: champion_of_fire_roa2
+    title: "Champion of Fire"
+    path: "Champion of Fire.brstm"
+    type: betting
+...

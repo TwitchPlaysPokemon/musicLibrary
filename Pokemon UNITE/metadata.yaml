@@ -1,0 +1,32 @@
+---
+id: pokemon_unite
+title: "Pokémon UNITE"
+series: pokemon
+year: 2021
+platform: ["Switch", "Mobile"]
+songs:
+  - id: pokemon_selection_unite
+    title: "Pokémon Selection"
+    path: "Pokémon Selection.brstm"
+    type: betting
+  - id: remoat_stadium
+    title: "Remoat Stadium"
+    path: "Remoat Stadium.brstm"
+    type: betting
+  - id: remoat_stadium_final_stretch
+    title: "Remoat Stadium (Final Stretch)"
+    path: "Remoat Stadium (Final Stretch).brstm"
+    type: warning
+  - id: theia_sky_ruins_final_stretch
+    title: "Theia Sky Ruins (Final Stretch)"
+    path: "Theia Sky Ruins (Final Stretch).brstm"
+    type: warning
+  - id: pika_party_eevee_appeal_o_rama
+    title: "Pika Party / Eevee Appeal-o-rama"
+    path: "Pika Party _ Eevee Appeal-o-rama.brstm"
+    type: betting
+  - id: title_screen_pokemon_unite
+    title: "Title Screen"
+    path: "Title Screen.brstm"
+    type: result
+...

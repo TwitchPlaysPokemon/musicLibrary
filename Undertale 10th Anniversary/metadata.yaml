@@ -1,0 +1,56 @@
+---
+id: undertale_10th_anniversary
+title: "UNDERTALE: 10th Anniversary"
+platform: "Web"
+year: 2025
+songs: 
+  - id: ultranap
+    title: "Ultranap"
+    path: "Ultranap.brstm"
+    type: warning
+  - id: pseudo_legendary_tree
+    title: "Pseudo Legendary Tree"
+    path: "Pseudo_Legendary_Tree.txtp"
+    type: result
+  - id: abandoned_town_u10
+    title: "Abandoned Town"
+    path: "Abandoned_Town.txtp"
+    type: break
+  - id: strongerer_monsters
+    title: "Strongerer Monsters"
+    path: "Strongerer_Monsters.txtp"
+    type: battle
+  - id: snowdrift_u10
+    title: "Snowdrift"
+    path: "Snowdrift.txtp"
+    type: break
+  - id: underwater_town_u10
+    title: "Underwater Town"
+    path: "Underwater_Town.txtp"
+    type: betting
+  - id: school_u10
+    title: "School"
+    path: "School.txtp"
+    type: betting
+  - id: wrong_number_song_camellia_remix
+    title: "Wrong Number Song (Camellia Remix)"
+    path: "Wrong Number Song (Camellia Remix) #[Undertale 10th Anniversary].brstm 
+    #Wrong_Number_Remix_(by_Camellia).txtp for the shorter ver
+    type: betting
+  - id: memory_10_years_later
+    title: "Memory (10 Years Later)"
+    path: "Memory_(10_Years_Later).txtp"
+    type: break
+  - id: snowed_inn_jazz
+    title: "Snowed Inn Jazz"
+    path: "Snowed_Inn_Jazz_(by_Carlos_Insaneintherain_Eiene).txtp"
+    type: result
+  - id: song_that_plays_when_somebody_verses_sans
+    title: "Song That Plays When Somebody Verses Sans"
+    path: "Song_That_Plays_When_Somebody_Verses_Sans_(by_Carlos_Insaneintherain_Eiene).txtp"
+    type: battle
+  - id: what_s_up_u10
+    title: "what's up"
+    path: "what's_up_(by_Carlos_Insaneintherain_Eiene).txtp"
+    type: break
+...

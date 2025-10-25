@@ -135,4 +135,8 @@ songs:
     title: "Copycat Mirror (Title Screen)"
     path: "BGM_Variety_Mirror_Title.txtp"
     type: break
+  - id: super_wario_dance
+    title: "Super Wario Dance"
+    path: "Super Wario Dance.brstm"
+    type: betting
 ...

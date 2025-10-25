@@ -8,3 +8,76 @@ songs:
     title: "D.I.Y. Shop"
     path: "D.I.Y. Shop.brstm"
     type: break
+  - id: number_two_diy
+    title: "NUMBER TWO"
+    path: "NUMBER TWO (Ashley Record 2).brstm"
+    type: betting
+  - id: body_rock_english
+    title: "Body Rock (English)"
+    path: "Body Rock.brstm"
+    type: betting
+  - id: body_rock_japanese
+    title: "Body Rock (Japanese)"
+    path: "Body Rock (Japanese).brstm"
+    type: betting
+  - id: graphics_editor_main_tools
+    title: "Graphics Editor - Main Tools"
+    path: "Graphics Editor - Main Tools.brstm"
+    type: break
+  - id: main_menu_diy
+    title: "Main Menu"
+    path: "Main Menu.brstm"
+    type: result
+  - id: comic_makermatic_comic_data
+    title: "Comic MakerMatic ~ Comic Data"
+    path: "Comic MakerMatic ~ Comic Data.brstm"
+    type: warning
+  - id: record_makermatic_record_data
+    title: "Record MakerMatic ~ Record Data"
+    path: "Record MakerMatic ~ Record Data.brstm"
+    type: warning
+  - id: warioware_inc_diy
+    title: "WarioWare, Inc."
+    path: "WarioWare, Inc..brstm"
+    type: break
+  - id: shipping_diy
+    title: "Shipping"
+    path: "Shipping.brstm"
+    type: result
+  - id: diy_studio
+    title: "D.I.Y. Studio"
+    path: "D.I.Y. Studio.brstm"
+    type: result
+  - id: assembly_dojo
+    title: "Assembly Dojo"
+    path: "Assembly Dojo.brstm"
+    type: betting
+  - id: distribution_center
+    title: "Distribution Center"
+    path: "Distribution Center.brstm"
+    type: betting
+  - id: options_diy
+    title: "Options"
+    path: "Options.brstm"
+    type: break
+  - id: result_mona_diy
+    title: "Results - Mona's Stage"
+    path: "Results - Mona's Stage.brstm"
+    type: result
+  - id: result_jimmy_t_diy
+    title: "Results - Jimmy T.'s Stage"
+    path: "Results - Jimmy T.'s Stage.brstm"
+    type: result
+  - id: result_9_volt_diy
+    title: "Results - 9-Volt's Stage"
+    path: "Results - 9-Volt's Stage.brstm"
+    type: result
+  - id: result_orbulon_diy
+    title: "Results - Orbulon's Stage"
+    path: "Results - Orbulon's Stage.brstm"
+    type: result
+  - id: result_ashley_diy
+    title: "Results - Ashley's Stage"
+    path: "Results - Ashley's Stage.brstm"
+    type: result
+...

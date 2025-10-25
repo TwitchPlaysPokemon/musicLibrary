@@ -1,0 +1,205 @@
+---
+id: fantasy_golf_pangya_portable
+title: "Fantasy Golf PangYa Portable"
+platform: "PSP"
+year: 2008
+songs:
+  - id: your_sky
+    title: "your sky"
+    path: "101 - ESTi feat. Sanch - your sky.at3"
+    ends: 3:24
+    type: betting
+  - id: in_the_wind
+    title: "in the wind"
+    path: "102 - nev - in the wind.at3"
+    type: betting
+  - id: shooting_star_pangya
+    title: "shooting star"
+    path: "103 - supbaby - shooting star.at3"
+    type: result
+  - id: luz_de_luna
+    title: "luz de luna"
+    path: "104 - nikacha - luz de luna.at3"
+    type: betting
+  - id: autumn_glow
+    title: "autumn glow"
+    path: "105 - nev -  autumn glow.at3"
+    type: break
+  - id: falling_leaves
+    title: "falling leaves"
+    path: "106 - helicon soundworks - falling leaves.at3"
+    type: result
+  - id: a_walk_to_the_fairyland
+    title: "a walk to the fairyland"
+    path: "107 - nev - a walk to the fairyland.at3"
+    type: betting
+  - id: sleeps_with_butterflies
+    title: "sleeps with butterflies"
+    path: "108 - supbaby - sleeps with butterflies.at3"
+    type: break
+  - id: a_dive_into_volcano
+    title: "a dive into volcano"
+    path: "109 - ESTi - a dive into volcano.at3"
+    type: betting
+  - id: breeze_arr
+    title: "breeze (arr.)"
+    path: "110 - helicon soundworks - breeze (arr.).at3"
+    type: result
+  - id: ventus_pangya
+    title: "ventus"
+    path: "111 - supbaby - ventus.at3"
+    type: betting
+  - id: bunny_picnic_arr
+    title: "bunny picnic (arr.)"
+    path: "112 - helicon soundworks - bunny picnic (arr.).at3"
+    type: betting
+  - id: happy_flight_arr
+    title: "happy flight (arr.)"
+    path: "113 - helicon soundworks - happy flight (arr.).at3"
+    type: warning
+  - id: daydream_arr
+    title: "daydream (arr.)"
+    path: "114 - helicon soundworks - daydream (arr.).at3"
+    type: betting
+  - id: drive_pangya
+    title: "drive!"
+    path: "115 - supbaby - drive!.at3"
+    type: betting
+  - id: snowscape_arr
+    title: "snowscape (arr.)"
+    path: "116 - helicon soundworks - snowscape (arr.).at3"
+    type: betting
+  - id: love_me_forever
+    title: "love me forever"
+    path: "117 - nev - love me forever.at3"
+    type: betting
+  - id: vermillion_sunset
+    title: "vermillion sunset"
+    path: "118 - ESTi - vermillion sunset.at3"
+    type: break
+  - id: starlight_pangya
+    title: "starlight"
+    path: "119 - ESTi feat. Sanch - starlight.at3"
+    ends: 3:44
+    type: betting
+  - id: prologue_pangya
+    title: "prologue"
+    path: "201 - supbaby - prologue.at3"
+    type: betting
+  - id: into_the_pangya
+    title: "into the pangya"
+    path: "202 - supbaby - into the pangya.at3"
+    type: result
+  - id: tea_time_arr
+    title: "tea time (arr.)"
+    path: "203 - helicon soundworks - tea time (arr.).at3"
+    type: break
+  - id: debut
+    title: "debut"
+    path: "204 - supbaby - debut.at3"
+    type: result
+  - id: green
+    title: "green"
+    path: "205 - supbaby - green.at3"
+    type: result
+  - id: start_again_pangya
+    title: "start again"
+    path: "206 - supbaby - start again.at3"
+    type: result
+  - id: challenge_pangya
+    title: "challenge"
+    path: "207 - supbaby - challenge.at3"
+    type: warning
+  - id: connected
+    title: "connected"
+    path: "208 - supbaby - connected.at3"
+    type: result
+  - id: my_status
+    title: "my status"
+    path: "209 - supbaby - my status.at3"
+    type: result
+  - id: relaxing_shop_part_1
+    title: "relaxing shop (part 1)"
+    path: "210 - helicon soundworks - relaxing shop (part 1).at3"
+    type: break
+  - id: pangya_gallery
+    title: "pangya gallery"
+    path: "211 - nev - pangya gallery.at3"
+    type: result
+  - id: bongdari_shop
+    title: "bongdari shop"
+    path: "212 - nev - bongdari shop.at3"
+    type: result
+  - id: tension_pangya
+    title: "tension"
+    path: "213 - nev - 119 - tension.at3"
+    type: warning
+  - id: steady_pangya
+    title: "steady!"
+    path: "214 - nev - steady!.at3"
+    type: warning
+  - id: reaching_for_the_stars
+    title: "reaching for the stars"
+    path: "218 - supbaby - reaching for the stars.at3"
+    type: result
+  - id: final_score_pangya
+    title: "final score"
+    path: "219 - nev - final score.at3"
+    type: result
+  - id: story_prologue_pangya
+    title: "story~prologue"
+    path: "220 - nev - story~prologue.at3"
+    type: break
+  - id: story_summer_beach
+    title: "story~summer beach"
+    path: "221 - nev - story~summer beach.at3"
+    type: betting
+  - id: story_love_me_forever
+    title: "story~love me forever"
+    path: "222 - nev - story~love me forever.at3"
+    type: betting
+  - id: story_comic_pangya
+    title: "story~comic"
+    path: "226 - nev - story~comic.at3"
+    type: result
+  - id: story_dark_part_1
+    title: "story~dark (part 1)"
+    path: "227 - nev - story~dark (part 1).at3"
+    type: warning
+  - id: story_dark_part_2
+    title: "story~dark (part 2)"
+    path: "228 - nev - story~dark (part 2).at3"
+    type: warning
+  - id: story_frustrate
+    title: "story~frustrate"
+    path: "230 - nev - story~frustrate.at3"
+    type: result
+  - id: story_garage
+    title: "story~garage"
+    path: "231 - nev - story~garage.at3"
+    type: result
+  - id: story_sad_pangya
+    title: "story~sad"
+    path: "232 - nev - story~sad.at3"
+    type: result
+  - id: story_tense_part_1
+    title: "story~tense (part 1)"
+    path: "233 - nev - story~tense (part 1).at3"
+    type: warning
+  - id: story_tense_part_2
+    title: "story~tense (part 2)"
+    path: "234 - nev - story~tense (part 2).at3"
+    type: warning
+  - id: story_club_shop
+    title: "story~club shop"
+    path: "235 - supbaby - story~club shop.at3"
+    type: result
+  - id: story_ending_pangya
+    title: "story~ending"
+    path: "236 - supbaby - story~ending.at3"
+    type: result #may not loop
+  - id: relaxing_shop_part_2
+    title: "relaxing shop (part 2)"
+    path: "237 - helicon soundworks - relaxing shop (part 2).at3"
+    type: break
+...

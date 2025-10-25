@@ -1092,11 +1092,7 @@ songs:
     path: "bgm_battle_neochamp_galar.logg"
     type: battle
 
-    #Hisui/Paldea - all songs from Arceus or S/V in approx. order
-  - id: battle_wild_pokemon_paldea
-    title: "Battle! (Wild Pokémon: Paldea)"
-    path: "bgm_battle_yasei_p.logg"
-    type: battle
+    #Hisui - all songs from the Arceus in approx. order
   - id: battle_hisui_trainer
     title: "Battle! (Hisui Trainer)"
     path: "bgm_battle_trainer_hisui.logg"
@@ -1104,6 +1100,21 @@ songs:
   - id: battle_hisui_warden
     title: "Battle! (Hisui Warden)"
     path: "bgm_battle_captain_hisui.logg"
+    type: battle
+  - id: battle_volo_masters
+    title: "Battle! (Volo)"
+    path: "bgm_battle_volo.logg"
+    type: battle
+    
+    
+    #Paldea - all songs S/V in approx. order
+  - id: battle_wild_pokemon_paldea
+    title: "Battle! (Wild Pokémon: Paldea)"
+    path: "bgm_battle_yasei_p.logg"
+    type: battle
+  - id: battle_terastal_pokemon
+    title: "Battle! (Terastal Pokémon)"
+    path: "bgm_battle_terastal.logg"
     type: battle
   - id: battle_nemona_masters
     title: "Battle! (Nemona)"

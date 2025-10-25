@@ -1,0 +1,52 @@
+---
+id: dreammix_tv_world_fighters
+title: "DreamMix TV World Fighters"
+platform: ["GCN", "PS2"]
+year: 2003
+#the raw files don't loop, but these mp3 versions are long enough they don't need to
+songs: 
+  - id: main_menu_theme_dreammix_tv
+    title: "Main Menu Theme"
+    path: "02. Main Menu Theme.mp3"
+    type: result
+  - id: success_mode_practice_mode_pawafuru
+    title: "Success Mode Practice Mode Pawafuru"
+    path: "05. Success Mode Practice Mode Pawafuru -DreamMix TV Remix- (Pawafuru Theme).mp3"
+    type: betting
+  - id: bomberman_battle_theme_dreammix
+    title: "Bomberman Battle Theme"
+    path: "07. Bomberman Battle Theme -DreamMix TV Remix- (Bomberman Theme).mp3"
+    type: betting
+  - id: bloody_tears_dreammix
+    title: "Bloody Tears"
+    path: "08. Bloody Tears -DreamMix TV Remix- (Simon Belmont Theme).mp3"
+    type: betting
+  - id: twinbee_power_up_dreammix
+    title: "Twinbee Power Up"
+    path: "11. Twinbee Power Up -DreamMix TV Remix- (Twinbee Theme).mp3"
+    type: betting
+  - id: metal_gear_solid_main_theme_dreammix
+    title: "Metal Gear Solid Main Theme"
+    path: "12. Metal Gear Solid Main Theme -DreamMix TV Remix- (Solid Snake Theme).mp3"
+    type: betting
+  - id: burning_heat_dreammix
+    title: "Burning Heat"
+    path: "14. Burning Heat -DreamMix TV Remix- (VS Artificial Sun Theme).mp3"
+    type: betting
+  - id: the_energetic_licca_chan
+    title: "The Energetic Licca-chan"
+    path: "15. The Energetic Licca-chan -DreamMix TV Remix- (Licca-chan Theme).mp3"
+    type: betting
+  - id: invade_decepticon_secret_base
+    title: "Invade Decepticon Secret Base"
+    path: "17. Invade Decepticon Secret Base -DreamMix TV Original BGM- (Devastator Theme) .mp3"
+    type: betting
+  - id: sunday_march_dreammix
+    title: "Sunday March"
+    path: "22. Sunday March -DreamMix TV Remix- (Momotarou Dentetsu Theme).mp3"
+    type: result
+  - id: adventure_island_stage_1_dreammix
+    title: "Adventure Island Stage 1"
+    path: "23. Adventure Island Stage 1 -DreamMix TV Remix- (Takahashi Meijin Theme).mp3"
+    type: betting
+...

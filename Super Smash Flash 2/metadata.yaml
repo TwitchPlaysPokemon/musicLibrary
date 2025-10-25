@@ -6,7 +6,7 @@ platform: "PC"
 year: 2007
 is_fanwork: true
 songs: 
-  - id: menu_2
+  - id: menu_2_ssf2
     title: "Menu 2"
     path: "Menu.brstm"
     type: betting
@@ -14,7 +14,7 @@ songs:
     title: "Mii Channel"
     path: "Mii Channel (Wii).brstm"
     type: betting
-  - id: castlevania_retro_medley
+  - id: castlevania_retro_medley_ssf2
     title: "Castlevania Retro Medley"
     path: "01 Castlevania Retro Medley (Castlevania).brstm"
     type: betting
@@ -22,7 +22,7 @@ songs:
     title: "Ryu Stage"
     path: "02 Ryu Stage (Street Fighter II).brstm"
     type: betting
-  - id: legend_of_zelda_main
+  - id: legend_of_zelda_main_theme_ssf2
     title: "Main Theme (The Legend of Zelda)"
     path: "03 Main Theme (The Legend of Zelda).brstm"
     type: result
@@ -30,7 +30,7 @@ songs:
     title: "Sky Pillar"
     path: "04 Sky Pillar (Pokémon Emerald).brstm"
     type: warning
-  - id: dont_think_twice
+  - id: dont_think_twice_ssf2
     title: "Don't Think Twice"
     path: "05 Don't Think Twice (Kingdom Hearts III).brstm"
     type: betting
@@ -50,13 +50,10 @@ songs:
     title: "Sky Tower"
     path: "10 Sky Tower (Pokémon Mystery Dungeon).brstm"
     type: betting
-  - id: sacred_moon
+  - id: sacred_moon_ssf2
     title: "Sacred Moon"
     path: "11 Sacred Moon (Kingdom Hearts II).brstm"
     type: betting
-#new ones. Tried to scope from official ones where I could. If any of them don't seem quality,
-#feel free to remove them. I stitched them together, and sometimes it's hard to find good rips
-#or loop points.
   - id: casino_night_zone_ssf2
     title: "Casino Night Zone"
     path: "Casino Night Zone.brstm"
@@ -97,4 +94,44 @@ songs:
     title: "Bleach Medley"
     path: "Bleach Medley.brstm"
     type: betting
+  - id: battlefield_ssf2
+    title: "Battlefield"
+    path: "Battlefield.brstm"
+    type: betting
+  - id: cruel_smash_ssf2
+    title: "Cruel Smash"
+    path: "Cruel Smash.brstm"
+    type: battle
+  - id: dj_k_k_ssf2
+    title: "DJ K.K."
+    path: "DJ K.K..brstm"
+    type: betting
+  - id: master_hand_ssf2
+    title: "Master Hand"
+    path: "Master Hand.brstm"
+    type: battle
+  - id: menu_1_ssf2
+    title: "Menu 1"
+    path: "Menu 1.brstm"
+    type: betting
+  - id: meta_crystal_ssf2
+    title: "Meta Crystal"
+    path: "Meta Crystal.brstm"
+    type: battle
+  - id: multi_man_smash_ssf2
+    title: "Multi-Man Smash"
+    path: "Multi-Man Smash.brstm"
+    type: battle
+  - id: final_destination_ssf2
+    title: "Final Destination"
+    path: "Final Destination.brstm"
+    type: battle
+  - id: ultimate_battle_ssf2
+    title: "Ultimate Battle"
+    path: "Ultimate Battle.brstm"
+    type: battle
+  - id: fatalize_ssf2
+    title: "Fatalize"
+    path: "Fatalize.brstm"
+    type: battle
 ...

@@ -26,4 +26,24 @@ songs:
     title: "Cygnus Garden"
     path: "Cygnus Garden.brstm"
     type: break
+  - id: white_christmas_maplestory
+    title: "White Christmas"
+    path: "27. White Christmas.brstm"
+    type: break
+  - id: above_the_treetops_maplestory
+    title: "Above The Treetops"
+    path: "Above The Treetops.brstm"
+    type: break
+  - id: when_the_morning_comes_maplestory
+    title: "When the Morning Comes"
+    path: "When the Morning Comes.brstm"
+    type: betting
+  - id: lith_harbor
+    title: "Lith Harbor"
+    path: "Lith Harbor.brstm"
+    type: betting
+  - id: sleepywood
+    title: "Sleepywood"
+    path: "Sleepywood.brstm"
+    type: betting
 ...

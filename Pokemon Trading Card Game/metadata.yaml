@@ -12,11 +12,11 @@ songs:
   - id: club_master_duel
     path: "Club Master Duel.vgz"
     title: "Club Master Duel"
-    type: betting
+    type: battle
   - id: ronalds_theme
     path: "Ronald's Theme.vgz"
     title: "Ronald's Theme"
-    type: betting
+    type: battle
   - id: grand_master_duel
     title: "Grand Master Duel"
     path: "Grand Master Duel.vgz"
@@ -66,4 +66,16 @@ songs:
     title: "Battle Center"
     path: "25 Battle Center.vgz"
     type: betting
+  - id: menu_pokemon_tcg
+    title: "Menu"
+    path: "02 Menu.vgz"
+    type: result
+  - id: pause_menu_pokemon_tcg
+    title: "Pause Menu"
+    path: "09 Pause Menu.vgz"
+    type: result
+  - id: auto_deck_machine
+    title: "Auto Deck Machine"
+    path: "24 Auto Deck Machine.vgz"
+    type: result
 ...

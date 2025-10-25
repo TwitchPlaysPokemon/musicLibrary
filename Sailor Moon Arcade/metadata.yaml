@@ -1,0 +1,19 @@
+---
+id: bishoujo_senshi_sailor_moon_arcade
+title: "Bishoujo Senshi Sailor Moon (Arcade)"
+platform: "Arcade"
+year: 1995
+songs: 
+  - id: cvharacter_select_sailor_moon_arcade
+    title: "Character Select"
+    path: "Character Select.brstm"
+    type: warning
+  - id: city_streets_sailor_moon_arcade
+    title: "City Streets"
+    path: "City Streets.brstm"
+    type: betting
+  - id: intermission_sailor_moon_arcade
+    title: "Intermission"
+    path: "Intermission.brstm"
+    type: warning
+...
