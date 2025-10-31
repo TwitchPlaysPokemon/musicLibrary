@@ -18,7 +18,7 @@ songs:
     type: warning
   - id: nap_time_hm
     title: "Nap Time"
-    path: "Face_Sleep.sh" 
+    path: "Face_Sleep.sh.fsb" 
     type: result #this doesn't loop, so
   - id: play_with_mario_underwater
     title: "Play With Mario Underwater"

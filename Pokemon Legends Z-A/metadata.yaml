@@ -34,10 +34,6 @@ songs:
     title: "Pokemon Center"
     path: "P_L (BGM_POKECEN=POKECEN_IN).txtp"
     type: betting
-  - id: battle_zygarde_100_form_za
-    title: "Battle! Zygarde (100% Form)"
-    path: "P_IK_VS_SELECT_23.txtp"
-    type: battle
   - id: victory_trainer_za
     title: "Victory! Trainer"
     path: "P_VS_TRAINER (BGM_VS_TRAINER_TYPE=VS_TRAINER_TYPE_01)(BGM_VS_TRAINER=VS_TRAINER_WIN).txtp"
@@ -61,7 +57,7 @@ songs:
   - id: battle_wild_pokemon_type_b
     title: "Battle! Wild Pokémon (Type B)"
     path: "P_L (BGM_ZONE_WILD_Type=ZONE_WILD_Type_B)(BGM_ZONE_WILD_VS_BLOCK=ZONE_WILD_VS_BLOCK_OFF) {s}.txtp"
-    type: battle
+    type: battle #dunno if these are different from the ones below. eh. 
   - id: evolution_za
     title: "Evolution"
     path: "P_IK_ST_03_SD9110 (BGM_SD9110=SD9110_PLAY).txtp"
@@ -70,40 +66,40 @@ songs:
     title: "Boutique"
     path: "P_IK_ST_06.txtp"
     type: betting
-  - id: battle_z_a_royale
-    title: "Battle! Z-A Royale"
+  - id: battle_trainer_za
+    title: "Battle! Trainer"
     path: "P_IK_VS_SELECT_01.txtp"
     type: battle
-  - id: battle_wild_zone_za
-    title: "Battle! Wild Zone"
+  - id: battle_wild_pokemon_za
+    title: "Battle! Wild Pokémon"
     path: "P_IK_VS_SELECT_02.txtp"
     type: battle
   - id: battle_team_mz
     title: "Battle! Team MZ"
     path: "P_IK_VS_SELECT_03.txtp"
     type: battle
-  - id: battle_trainer_za
-    title: "Battle! Trainer"
+  - id: battle_strong_trainer_za
+    title: "Battle! Strong Trainer"
     path: "P_IK_VS_SELECT_04.txtp"
     type: battle
   - id: battle_rogue_mega_evolution
     title: "Battle! Rogue Mega Evolution"
     path: "P_IK_VS_SELECT_06.txtp"
     type: battle
-  - id: battle_wild_zone_alt_za
-    title: "Battle! Wild Zone (Alt)"
+  - id: battle_alpha_pokemon_za
+    title: "Battle! Alpha Pokémon"
     path: "P_IK_VS_SELECT_07.txtp"
     type: battle
-  - id: battle_zygarde_50_za
-    title: "Battle! Zygarde 50%"
+  - id: battle_zygarde_10_za
+    title: "Battle! Zygarde (10% Forme)"
     path: "P_IK_VS_SELECT_08.txtp"
     type: battle
   - id: battle_canari
     title: "Battle! Canari"
     path: "P_IK_VS_SELECT_09.txtp"
     type: battle
-  - id: baqttle_alpha_pokemon_sewers
-    title: "Battle! Alpha Pokemon (Sewers)"
+  - id: battle_the_sewers_za
+    title: "Battle! The Sewers"
     path: "P_IK_VS_SELECT_10.txtp"
     type: battle
   - id: battle_ivor
@@ -114,41 +110,57 @@ songs:
     title: "Battle! Corbeau"
     path: "P_IK_VS_SELECT_12.txtp"
     type: battle
-  - id: battle_zygarde_10_za
-    title: "Battle! Zygarde 10%"
+  - id: battle_zygarde_50_za
+    title: "Battle! Zygarde (50% Forme)"
     path: "P_IK_VS_SELECT_13.txtp"
     type: battle
   - id: battle_jacinthe
     title: "Battle! Jacinthe"
     path: "P_IK_VS_SELECT_14.txtp"
     type: battle
-  - id: battle_wild_pokemon_lysandre_labs
-    title: "Battle! Wild Pokemon (Lysandre Labs)"
+  - id: battle_lysandre_labs
+    title: "Battle! Lysandre Labs"
     path: "P_IK_VS_SELECT_15.txtp"
     type: battle
   - id: battle_team_flare_nouveau
     title: "Battle! Team Flare Nouveau"
     path: "P_IK_VS_SELECT_16.txtp"
     type: battle
-  - id: battle_mz_team_leader
-    title: "Battle! MZ Team Leader"
+  - id: battle_team_mz_showdown
+    title: "Battle! Team MZ Showdown"
     path: "P_IK_VS_SELECT_17.txtp"
     type: battle
-  - id: battle_l_za
-    title: "Battle! L"
+  - id: battle_ange_floette
+    title: "Battle! Ange Floette"
+    path: "P_IK_VS_SELECT_19.txtp"
+    type: battle
+  - id: battle_the_sewers_2_za
+    title: "Battle! The Sewers 2"
+    path: "P_IK_VS_SELECT_20.txtp"
+    type: battle
+  - id: battle_legends_za
+    title: "Battle! Legends"
+    path: "P_IK_VS_SELECT_21.txtp" #unchanged from X/Y, keeping because the sample rate might've changed???
+    type: battle
+  - id: battle_lysandre_za
+    title: "Battle! Lysandre"
     path: "P_IK_VS_SELECT_22.txtp"
     type: battle
-  - id: battle_kanto_legendary_za
-    title: "Battle! Kanto Legendary"
-    path: "P_IK_VS_SELECT_25.txtp"
-    type: battle
-  - id: battle_lysandre_labs
-    title: "Battle! Lysandre Labs"
-    path: "P_IK_VS_SELECT_24.txtp"
-    type: battle
-  - id: battle_xerneas_yvetal_za
-    title: "Battle! Xerneas/Yvetal"
+  - id: battle_zygarde_complete_forme_za
+    title: "Battle! Zygarde (Complete Forme)"
     path: "P_IK_VS_SELECT_23.txtp"
+    type: battle
+  # - id: battle_kanto_legendary_za
+    # title: "Battle! Kanto Legendary"
+    # path: "P_IK_VS_SELECT_25.txtp"
+    # type: battle
+  # - id: battle_lysandre_labs
+    # title: "Battle! Lysandre Labs"
+    # path: "P_IK_VS_SELECT_24.txtp"
+    # type: battle
+  - id: battle_lumiose_city_in_crisis
+    title: "Battle! Lumiose City in Crisis"
+    path: "P_IK_EV_EXC_07 (BGM_EXC07_GAMEOVER=EXC07_GAMEOVER_OFF)(BGM_T1=T1_IN)(BGM_VS_EV_M09=VS_EV_M09_ON).txtp"
     type: battle
   #just gonna start with these battle themes
   #a reference if I want to add more later on...
