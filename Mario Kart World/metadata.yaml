@@ -200,7 +200,7 @@ songs:
     title: "3DS Toad Circuit"
     path: "Mario Kart 7 - Toad Circuit.brstm"
     type: betting
-  - id: 3ds_rainbow_road
+  - id: 3ds_rainbow_road_world
     title: "3DS Rainbow Road"
     path: "Mario Kart 7 - Rainbow Road.brstm"
     type: betting
@@ -400,7 +400,7 @@ songs:
     title: "DS Tick Tock Clock"
     path: "Mario Kart DS - Tick Tock Clock.brstm"
     type: betting
-  - id: ds_battle_mode
+  - id: ds_battle_mode_world
     title: "DS Battle Mode"
     path: "Mario Kart DS - Battle Mode.brstm"
     type: battle
@@ -444,7 +444,7 @@ songs:
     title: "GCN Rainbow Road"
     path: "Mario Kart_ Double Dash!! - Rainbow Road.brstm"
     type: betting
-  - id: gcn_battle_mode
+  - id: gcn_battle_mode_world
     title: "GCN Battle Mode"
     path: "Mario Kart_ Double Dash!! - Battle Mode.brstm"
     type: betting
@@ -600,7 +600,7 @@ songs:
     title: "New Super Mario Bros. Wii - Underwater BGM"
     path: "New Super Mario Bros. Wii - Underwater BGM.brstm"
     type: break
-  - id: new_super_mario_bros_wii_desert_bgm
+  - id: new_super_mario_bros_wii_desert_bgm_world
     title: "New Super Mario Bros. Wii - Desert BGM"
     path: "New Super Mario Bros. Wii - Desert BGM.brstm"
     type: betting
@@ -608,23 +608,23 @@ songs:
     title: "New Super Mario Bros. Wii - Volcano Theme"
     path: "New Super Mario Bros. Wii - Volcano Theme.brstm"
     type: battle
-  - id: new_super_mario_bros_wii_castle_boss
+  - id: new_super_mario_bros_wii_castle_boss_world
     title: "New Super Mario Bros. Wii - Castle Boss"
     path: "New Super Mario Bros. Wii - Castle Boss.brstm"
     type: battle
-  - id: new_super_mario_bros_wii_staff_roll
+  - id: new_super_mario_bros_wii_staff_roll_world
     title: "New Super Mario Bros. Wii - Staff Roll"
     path: "New Super Mario Bros. Wii - Staff Roll.brstm"
     type: result
-  - id: new_super_mario_bros_u_ground_bgm
+  - id: new_super_mario_bros_u_ground_bgm_world
     title: "New Super Mario Bros. U - Ground BGM"
     path: "New Super Mario Bros. U - Ground BGM.brstm"
     type: betting
-  - id: super_mario_3d_land_ground_bgm
+  - id: super_mario_3d_land_ground_bgm_world
     title: "Super Mario 3D Land - Ground BGM"
     path: "Super Mario 3D Land - Ground BGM.brstm"
     type: result
-  - id: super_mario_3d_land_beach_bgm
+  - id: super_mario_3d_land_beach_bgm_world
     title: "Super Mario 3D Land - Beach BGM"
     path: "Super Mario 3D Land - Beach BGM.brstm"
     type: betting
@@ -632,7 +632,7 @@ songs:
     title: "Super Mario 3D Land - Beach BGM Ver. 2"
     path: "Super Mario 3D Land - Beach BGM Ver. 2.brstm"
     type: break
-  - id: super_mario_3d_land_snow_bgm
+  - id: super_mario_3d_land_snow_bgm_world
     title: "Super Mario 3D Land - Snow BGM"
     path: "Super Mario 3D Land - Snow BGM.brstm"
     type: break
