@@ -13,11 +13,11 @@ songs:
     title: "Metal Harbor"
     path: "Metal Harbor_ Lap Music.brstm"
     type: betting
-  - id: e_stadium
+  - id: e_stadium_crossworlds
     title: "E-Stadium"
     path: "E-Stadium_ Lap Music.brstm"
     type: battle
-  - id: roulette_road
+  - id: roulette_road_crossworlds
     title: "Roulette Road"
     path: "Roulette Road_ Lap Music .brstm"
     type: battle
@@ -61,7 +61,7 @@ songs:
     title: "Holoska"
     path: "Holoska_ Lap Music.brstm"
     type: betting
-  - id: colofrul_mall
+  - id: colorful_mall_crossworlds
     title: "Colorful Mall"
     path: "Colorful Mall_ Lap Music.brstm"
     type: betting
@@ -81,11 +81,11 @@ songs:
     title: "Metal Harbor - Final Lap"
     path: "Metal Harbor_ Final Lap.brstm"
     type: warning
-  - id: e_stadium_final_lap
+  - id: e_stadium_final_lap_crossworlds
     title: "E-Stadium - Final Lap"
     path: "E-Stadium_ Final Lap.brstm"
     type: result
-  - id: roulette_road_final_lap
+  - id: roulette_road_final_lap_crossworlds
     title: "Roulette Road - Final Lap"
     path: "Roulette Road_ Final Lap.brstm"
     type: battle
@@ -125,7 +125,7 @@ songs:
     title: "Holoska - Final Lap"
     path: "Holoska_ Final Lap.brstm"
     type: battle
-  - id: colofrul_mall_final_lap
+  - id: colorful_mall_final_lap_crossworlds
     title: "Colorful Mall - Final Lap"
     path: "Colorful Mall_ Final Lap.brstm"
     type: result
@@ -141,7 +141,7 @@ songs:
     title: "Bikini Bottom"
     path: "Bikini Bottom_ Lap Music.brstm"
     type: betting
-  - id: chao_park_final_lap
+  - id: chao_park_final_lap_crossworlds
     title: "Chao Park - Final Lap"
     path: "Chao Park_ Final Lap.brstm"
     type: warning
@@ -185,7 +185,7 @@ songs:
     title: "Sonic Racing - Cross the Worlds -"
     path: "Sonic Racing - Cross the Worlds -.brstm"
     type: battle
-  - id: treasure_garden
+  - id: treasure_garden_crossworlds
     title: "TREASURE GARDEN"
     path: "TREASURE GARDEN.brstm"
     type: betting
@@ -393,7 +393,7 @@ songs:
     title: "White Cave"
     path: "White Cave_ Lap Music.brstm"
     type: betting
-  - id: white_cave_final_lap
+  - id: white_cave_final_lap_crossworlds
     title: "White Cave - Final Lap"
     path: "White Cave_ Final Lap.brstm"
     type: warning
