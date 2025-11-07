@@ -6,29 +6,57 @@ platform: ["Switch", "Switch 2"]
 year: 2025
 #the raw files are incredibly tough to parse through, so this is all I've found so far.
 songs:
-  - id: lumiose_city_area_1
-    title: "Lumiose City (Area 1)"
+  - id: lumiose_city_vert_district_main_street
+    title: "Lumiose City - Vert District (Main Street)"
     path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A01_MAIN_STREET).txtp"
     type: betting
-  - id: lumiose_city_area_2
-    title: "Lumiose City (Area 2)"
+  - id: lumiose_city_vert_district_back_alley
+    title: "Lumiose City - Vert District (Back Alley)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A01_BACK_ALLEY).txtp"
+    type: betting
+  - id: lumiose_city_bleu_district_main_street
+    title: "Lumiose City - Bleu District (Main Street)"
     path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A02_MAIN_STREET).txtp"
     type: betting
-  - id: lumiose_city_area_3
-    title: "Lumiose City (Area 3)"
+  - id: lumiose_city_bleu_district_back_alley
+    title: "Lumiose City - Bleu District (Back Alley)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A02_BACK_ALLEY).txtp"
+    type: betting
+  - id: lumiose_city_magenta_district_main_street
+    title: "Lumiose City - Magenta District (Main Street)"
     path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A03_MAIN_STREET).txtp"
     type: betting
-  - id: lumiose_city_area_4
-    title: "Lumiose City (Area 4)"
+  - id: lumiose_city_magenta_district_back_alley
+    title: "Lumiose City - Magenta District (Back Alley)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A03_BACK_ALLEY).txtp"
+    type: betting
+  - id: lumiose_city_rouge_district_main_street
+    title: "Lumiose City - Rouge District (Main Street)"
     path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A04_MAIN_STREET).txtp"
     type: betting
-  - id: lumiose_city_area_5
-    title: "Lumiose City (Area 5)"
+  - id: lumiose_city_rouge_district_back_alley
+    title: "Lumiose City - Rouge District (Back Alley)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A04_BACK_ALLEY).txtp"
+    type: betting
+  - id: lumiose_city_jaune_district_main_street
+    title: "Lumiose City - Jaune District (Main Street)"
     path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A05_MAIN_STREET).txtp"
     type: betting
-  - id: lumiose_city_night
-    title: "Lumiose City (Night)"
+  - id: lumiose_city_jaune_district_back_alley
+    title: "Lumiose City - Jaune District (Back Alley)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=DAY_TIME)(BGM_T1_AREA=T1_A05_BACK_ALLEY).txtp"
+    type: betting
+  - id: lumiose_city_night_main_street
+    title: "Lumiose City - Night (Main Street)"
     path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=NIGHT_TIME)(BGM_T1_TYPE=T1_MAIN_STREET) {s}=-.txtp"
+    type: betting
+  - id: lumiose_city_night_back_alley
+    title: "Lumiose City - Night (Back Alley)"
+    path: "P_L (BGM_T1_PLAY_TYPE=T1_LOOP)(BGM_DAY_NIGHT=NIGHT_TIME)(BGM_T1_TYPE=T1_BACK_ALLEY) {s}=-.txtp"
+    type: betting
+  - id: lumiose_city_battle_zone
+    title: "Lumiose City - Battle Zone"
+    path: "P_L (BGM_ZONE_BATTLE=ZONE_BATTLE_IN)(BGM_DAY_NIGHT=NIGHT_TIME).txtp"
     type: betting
   - id: pokemon_center_za
     title: "Pokemon Center"
@@ -164,8 +192,108 @@ songs:
     type: battle
   #just gonna start with these battle themes
   #a reference if I want to add more later on...
-  # - id: zzzzzzzzzzzzzzzzzzzzzz
-    # title: "zzzzzzzzzzzzzzzzzzzzzz"
-    # path: "zzzzzzzzzzzzzzzzzzzzzzzz.txtp"
-    # type: zzzzzzzzzzzzzzzzzzzzzzz 
+  - id: wild_zone_za
+    title: "Wild Zone"
+    path: "P_L (BGM_ZONE_WILD_Type=BGM_D610_EV_S1_SUB_021_A).txtp"
+    type: betting 
+  - id: hotel_z
+    title: "Hotel Z"
+    path: "P_L (BGM_T1_I001=T1_I001_IN).txtp"
+    type: break 
+  - id: quasartico_inc
+    title: "Quasartico Inc."
+    path: "P_L (BGM_T1_I003=T1_I003_IN).txtp"
+    type: betting 
+  - id: looker_bureau
+    title: "Looker Bureau"
+    path: "P_L (BGM_T1_I005=T1_I005_IN).txtp"
+    type: betting 
+  - id: pokemon_research_lab_za
+    title: "Pokémon Research Lab"
+    path: "P_L (BGM_T1_I006=T1_I006_IN).txtp"
+    type: break 
+  - id: racine_construction
+    title: "Racine Construction"
+    path: "P_L (BGM_T1_I011=T1_I011_IN).txtp"
+    type: betting 
+  - id: rust_syndicate_office
+    title: "Rust Syndicate Office"
+    path: "P_L (BGM_T1_I014=T1_I014_IN).txtp"
+    type: betting 
+  - id: team_mz_s_theme
+    title: "Team MZ's Theme"
+    path: "P_IK_EV_CMN_01.txtp"
+    type: result 
+  - id: team_mz_strategy_meeting
+    title: "Team MZ Strategy Meeting"
+    path: "P_IK_EV_CMN_02.txtp"
+    type: warning 
+  - id: encounter_strong_trainer_za
+    title: "Encounter! Strong Trainer"
+    path: "P_IK_EV_CMN_04 (BGM_EV_CMN04=EV_CMN04_LOOP).txtp"
+    type: warning 
+  - id: rust_syndicate_s_theme
+    title: "Rust Syndicate's Theme"
+    path: "P_IK_EV_CMN_05.txtp"
+    type: warning 
+  - id: croissant_curry
+    title: "Croissant Curry"
+    path: "P_IK_EV_CMN_06.txtp"
+    type: result 
+  - id: rogue_mega_evolution_detected
+    title: "Rogue Mega Evolution Detected"
+    path: "P_IK_EV_CMN_07.txtp"
+    type: warning 
+  - id: an_eternal_prison
+    title: "An Eternal Prison"
+    path: "P_IK_EV_EXC_03.txtp"
+    type: break 
+  - id: rogue_mega_evolution_defeated
+    title: "Rogue Mega Evolution Defeated"
+    path: "P_IK_EV_EXC_05.txtp"
+    type: result 
+  - id: lumiose_city_in_crisis
+    title: "Lumiose City in Crisis"
+    path: "P_IK_EV_EXC_07 (BGM_EXC07_GAMEOVER=EXC07_GAMEOVER_OFF)(BGM_T1=T1_IN)(BGM_VS_EV_M09=VS_EV_M09_OFF).txtp"
+    type: betting 
+  - id: quasartico_inc_s_theme
+    title: "Quasartico Inc's Theme"
+    path: "P_IK_PS_01.txtp"
+    type: betting 
+  - id: emma_s_theme_za
+    title: "Emma's Theme"
+    path: "P_IK_PS_02.txtp"
+    type: result 
+  - id: canari_s_theme
+    title: "Canari's Theme"
+    path: "P_IK_PS_03 (482816399=2840343876)(BGM_PS_03=PS_03_03).txtp"
+    type: result 
+  - id: ivor_s_theme
+    title: "Ivor's Theme"
+    path: "P_IK_PS_04.txtp"
+    type: result 
+  - id: corbeau_s_theme
+    title: "Corbeau's Theme"
+    path: "P_IK_PS_05.txtp"
+    type: warning 
+  - id: jacinthe_s_theme
+    title: "Jacinthe's Theme"
+    path: "P_IK_PS_06.txtp"
+    type: betting 
+  - id: team_flare_noveau_s_theme
+    title: "Team Flare Nouveau's Theme"
+    path: "P_IK_PS_07.txtp"
+    type: warning 
+  - id: l_s_theme_za
+    title: "L's Theme"
+    path: "P_IK_PS_08.txtp"
+    type: betting 
+  - id: lysandre_labs
+    title: "Lysandre Labs"
+    path: "P_L (BGM_T2=T2_IN).txtp"
+    type: betting 
+  - id: lumiose_city_sewers
+    title: "Lumiose City Sewers"
+    path: "P_L (BGM_T3=T3_IN).txtp"
+    type: betting 
 ...
