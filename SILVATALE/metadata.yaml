@@ -349,10 +349,11 @@ songs:
     path: "mus_xpart_ab_(HIS_THEME).txtp"
     ends: 3:05
     type: betting
-  - id: reunited_with_memes
-    title: "Reunited With Memes"
-    path: "mus_reunited.txtp"
-    type: betting
+  # - id: reunited_with_memes
+    # title: "Reunited With Memes"
+    # path: "mus_reunited.txtp"
+    # type: betting
+    # commented out for now due to it saying no-no words
   - id: epic_menustones_full
     title: "Epic Menustones (Full)"
     path: "mus_menu6.txtp"
