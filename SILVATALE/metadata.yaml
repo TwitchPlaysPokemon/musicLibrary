@@ -75,10 +75,10 @@ songs:
     title: "Snowy halation"
     path: "mus_snowy.txtp"
     type: break
-  - id: uwa_so_silly
-    title: "Uwa!! So siLLy♫"
-    path: "mus_options_winter.txtp"
-    type: betting
+  # - id: uwa_so_silly
+    # title: "Uwa!! So siLLy♫"
+    # path: "mus_options_winter.txtp"
+    # type: betting
   - id: mysterious_plant
     title: "Mysterious Plant"
     path: "mus_mystery.txtp"
@@ -207,10 +207,10 @@ songs:
     title: "Funky Medium"
     path: "mus_anothermedium.txtp"
     type: betting
-  - id: this_pussy_be_yankin_like_a_motherfucker_fucker
-    title: "this pussy be yankin like a motherfucker (fucker)"
-    path: "mus_options_summer.txtp"
-    type: warning
+  # - id: this_pussy_be_yankin_like_a_motherfucker_fucker
+    # title: "this pussy be yankin like a motherfucker (fucker)"
+    # path: "mus_options_summer.txtp"
+    # type: warning
   - id: you_ve_been_struck_by_a_stronger_monster
     title: "You've Been Struck by a Stronger Monster"
     path: "mus_battle2.txtp"
