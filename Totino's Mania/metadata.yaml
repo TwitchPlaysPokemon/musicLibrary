@@ -130,10 +130,11 @@ songs:
     title: "Rolls Gallery"
     path: "MirageSaloon2.txtp"
     type: betting
-  - id: the_adventures_of_duance_and_totin0
-    title: "The Adventures of Duane and Totin0"
-    path: "OilOcean1.txtp"
-    type: betting 
+  # - id: the_adventures_of_duance_and_totin0
+    # title: "The Adventures of Duane and Totin0"
+    # path: "OilOcean1.txtp"
+    # type: betting 
+    #like other requested songs, this one also has some naughty words
   - id: oil_onion_zone_act_2
     title: "Oil Onion Zone Act 2"
     path: "OilOcean2.txtp"
