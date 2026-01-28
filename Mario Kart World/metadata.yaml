@@ -53,8 +53,8 @@ songs:
     title: "Starview Peak"
     path: "Starview Peak.brstm"
     type: betting
-  - id: switch_sky_high_sundae_world
-    title: "Switch Sky-High Sundae"
+  - id: sw_sky_high_sundae_world
+    title: "SW Sky-High Sundae"
     path: "Sky-High Sundae.brstm"
     type: betting
   - id: 3ds_wario_shipyard_world
@@ -488,6 +488,10 @@ songs:
     title: "GBA Bowser's Castle"
     path: "Mario Kart_ Super Circuit - Bowser's Castle.brstm"
     type: battle
+  - id: gba_rainbow_road_world
+    title: "GBA Rainbow Road"
+    path: "Mario Kart_ Super Circuit - Rainbow Road.brstm"
+    type: betting
   - id: tour_vancouver_velocity_world
     title: "Tour Vancouver Velocity"
     path: "Mario Kart Tour - Vancouver Velocity.brstm"
@@ -576,6 +580,10 @@ songs:
     title: "Wii Thwomp Desert"
     path: "Mario Kart Wii - Thwomp Desert.brstm"
     type: betting
+  - id: wii_dry_dry_ruins_world
+    title: "Wii Dry Dry Ruins"
+    path: "Mario Kart Wii - Dry Dry Ruins.brstm"
+    type: betting
   - id: wii_staff_credits_a_world
     title: "Wii Staff Credits A"
     path: "Mario Kart Wii - Staff Credits A.brstm"
@@ -592,6 +600,10 @@ songs:
     title: "New Super Mario Bros. - Ground BGM"
     path: "New Super Mario Bros. - Ground BGM.brstm"
     type: betting
+  - id: new_super_mario_bros_castle_bgm_world
+    title: "New Super Mario Bros. - Castle BGM"
+    path: "New Super Mario Bros. - Castle BGM.brstm"
+    type: battle
   - id: new_super_mario_bros_wii_beach_bgm_world
     title: "New Super Mario Bros. Wii - Beach BGM"
     path: "New Super Mario Bros. Wii - Beach BGM.brstm"
@@ -607,6 +619,10 @@ songs:
   - id: new_super_mario_bros_wii_volcano_theme_world
     title: "New Super Mario Bros. Wii - Volcano Theme"
     path: "New Super Mario Bros. Wii - Volcano Theme.brstm"
+    type: battle
+  - id: new_super_mario_bros_wii_castle_bgm_world
+    title: "New Super Mario Bros. Wii - Castle BGM"
+    path: "New Super Mario Bros. Wii - Castle BGM.brstm"
     type: battle
   - id: new_super_mario_bros_wii_castle_boss_world
     title: "New Super Mario Bros. Wii - Castle Boss"
@@ -688,8 +704,8 @@ songs:
     title: "Lake Lapcat"
     path: "Bowser's Fury - Lake Lapcat.brstm"
     type: betting
-  - id: attack_fury_bowser_world
-    title: "Attack! Fury Bowser"
+  - id: attack_bowser_s_fury_world
+    title: "Attack! Bowser's Fury"
     path: "Bowser's Fury - Attack! Fury Bowser.brstm"
     type: battle
   - id: sm64_file_select_world
@@ -751,6 +767,10 @@ songs:
   - id: smb_underground_bgm_world_v2
     title: "Super Mario Bros. - Underground BGM Ver. 2"
     path: "Super Mario Bros. - Underground BGM Ver. 2.brstm"
+    type: break
+  - id: smb_underwater_bgm_world
+    title: "Super Mario Bros. - Underwater BGM"
+    path: "Super Mario Bros. - Underwater BGM.brstm"
     type: break
   - id: smb2_ground_bgm_world
     title: "Super Mario Bros. 2 - Ground BGM"
@@ -908,6 +928,10 @@ songs:
     title: "SNES Bowser Castle"
     path: "Super Mario Kart - Bowser Castle.brstm"
     type: battle
+  - id: snes_staff_credits_world
+    title: "SNES Staff Credits"
+    path: "Super Mario Kart - Staff Credits.brstm"
+    type: result
   - id: sml_ground_bgm_world
     title: "Super Mario Land - Ground BGM"
     path: "Super Mario Land - Ground BGM.brstm"
@@ -988,6 +1012,10 @@ songs:
     title: "Super Mario World - Ground BGM"
     path: "Super Mario World - Ground BGM.brstm"
     type: betting
+  - id: smw_ground_bgm_rock_n_roll_v1world
+    title: "Super Mario World - Ground BGM (Rock 'n' Roll Ver. 1)"
+    path: "Super Mario World - Ground BGM (Rock 'n' Roll Ver. 1).brstm"
+    type: betting
   - id: smw_ground_bgm_world_v2
     title: "Super Mario World - Ground BGM Ver. 2"
     path: "Super Mario World - Ground BGM Ver. 2.brstm"
@@ -1008,6 +1036,10 @@ songs:
     title: "Super Mario World - Underground BGM"
     path: "Super Mario World - Underground BGM.brstm"
     type: betting
+  - id: smw_castle_bgm_world
+    title: "Super Mario World - Castle BGM"
+    path: "Super Mario World - Castle BGM.brstm"
+    type: battle
   - id: smw_koopalings_bgm_world
     title: "Super Mario World - Koopalings BGM"
     path: "Super Mario World - Koopalings BGM.brstm"

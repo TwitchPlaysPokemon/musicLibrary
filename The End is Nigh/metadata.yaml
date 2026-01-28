@@ -3,11 +3,44 @@ title: "The End is Nigh"
 platform: "PC"
 year: 2017
 songs: 
-  - id: golgotha
+  - id: golgotha_bald_mountain
     title: "Golgotha ~ Night on Bald Mountain (Mussorgsky 1867)"
     path: "Golgotha ~ Night on Bald Mountain (Mussorgsky 1867).brstm"
     type: betting
-  - id: retrograde
+  - id: retrograde_hungarian_dance
     title: "Retrograde ~ Hungarian Dance (Brahms 1869)"
     path: "Retrograde ~ Hungarian Dance (Brahms 1869).brstm"
     type: battle
+  - id: overflow_1812_overture
+    title: "Overflow ~ 1812 Overture (Tchaikovsky 1880)"
+    path: "OVERFLOW ~ 1812 Overture (Tchaikovsky 1880).brstm"
+    type: betting
+  - id: ruin_mountain_king
+    title: "Ruin ~ In The Hall Of The Mountain King (Grieg 1875)"
+    path: "RUIN ~ In The Hall Of The Mountain King (Grieg 1875).brstm"
+    type: betting
+  - id: ss_exodus_marche_slave
+    title: "SS Exodus ~ Marche Slave (Tchaikovsky 1876)"
+    path: "SS EXODUS ~ Marche Slave (Tchaikovsky 1876).brstm"
+    type: betting
+  - id: the_arid_flats_new_world_symphony
+    title: "The Arid Flats ~ New World Symphony (Dvořák 1893)"
+    path: "THE ARID FLATS ~ New World Symphony (Dvořák 1893).brstm"
+    type: battle
+  - id: the_future_requiem
+    title: "The Future ~ Requiem (Verdi 1874)"
+    path: "THE FUTURE ~ Requiem (Verdi 1874).brstm"
+    type: battle
+  - id: the_machine_flight_of_the_bumblebee
+    title: "The Machine ~ Flight Of The Bumblebee (Rimsky-Korsakov 1899)"
+    path: "THE MACHINE ~ Flight Of The Bumblebee (Rimsky-Korsakov 1899).brstm"
+    type: battle
+  - id: the_end_is_nigh_retro_turkish_march
+    title: "The End Is Nigh ~ Retro Turkish March (Mozart 1783)"
+    path: "THE END IS NIGH ~ Retro Turkish March (Mozart 1783).brstm"
+    type: betting
+  - id: the_end_danse_macabre
+    title: "The End ~ Danse Macabre (Saint-Saëns 1874)"
+    path: "THE END ~ Danse Macabre (Saint-Saëns 1874).brstm"
+    type: battle
+...

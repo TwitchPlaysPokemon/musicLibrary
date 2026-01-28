@@ -1,0 +1,290 @@
+---
+id: kirby_air_riders
+title: "Kirby Air Riders"
+series: kirby
+year: 2025
+platform: "Switch 2"
+songs:
+  - id: menu_air_riders
+    title: "Menu"
+    path: "Menu.brstm"
+    type: betting
+  - id: how_to_play_air_riders
+    title: "How to Play"
+    path: "How to Play.brstm"
+    type: result
+  - id: lessons_air_riders
+    title: "Lessons"
+    path: "Lessons.brstm"
+    type: result
+  - id: miles_shop
+    title: "Miles Shop"
+    path: "Miles Shop.brstm"
+    type: break
+  - id: garage_lab
+    title: "Garage: Lab"
+    path: "Garage Lab.brstm"
+    type: break
+  - id: garage_pop
+    title: "Garage: Pop"
+    path: "Garage Pop.brstm"
+    type: break
+  - id: garage_sci_fi
+    title: "Garage: Sci-Fi"
+    path: "Garage SciFi.brstm"
+    type: break
+  - id: my_machine_air_riders
+    title: "My Machine"
+    path: "My Machine.brstm"
+    type: break
+  - id: movies_air_riders
+    title: "Movies"
+    path: "Movies.brstm"
+    type: break
+  - id: gummies
+    title: "Gummies"
+    path: "Gummies.brstm"
+    type: break
+  - id: hurry_to_reception
+    title: "Hurry to Reception!"
+    path: "Hurry to Reception.brstm"
+    type: warning
+  - id: replay_air_riders
+    title: "Replay"
+    path: "Replay.brstm"
+    type: break
+  - id: air_ride_test_ride
+    title: "Air Ride: Test Ride"
+    path: "Air Ride Test Ride.brstm"
+    type: betting
+  - id: airtopia_ruins
+    title: "Airtopia Ruins"
+    path: "Airtopia Ruins.brstm"
+    type: battle
+  - id: airtopia_ruins_alt_ice_island
+    title: "Airtopia Ruins (Alt - Ice Island)"
+    path: "Ice Island (Airtopia Ruins Alt.).brstm"
+    type: betting
+  - id: cavernous_corners
+    title: "Cavernous Corners"
+    path: "Cavernous Corners.brstm"
+    type: betting
+  - id: cavernous_corners_alt_the_great_cave_offensive
+    title: "Cavernous Corners (Alt - The Great Cave Offensive)"
+    path: "The Great Cave Offensive (Cavernous Corners Alt.).brstm"
+    type: betting
+  - id: crystalline_fissure
+    title: "Crystalline Fissure"
+    path: "Crystalline Fissure.brstm"
+    type: betting
+  - id: cyberion_highway
+    title: "Cyberion Highway"
+    path: "Cyberion Highway.brstm"
+    type: betting
+  - id: dustup_derby
+    title: "Dustup Derby"
+    path: "Dustup Derby.brstm"
+    type: warning
+  - id: floria_fields
+    title: "Floria Fields"
+    path: "Floria Fields.brstm"
+    type: betting
+  - id: floria_fields_alt_vegetable_valley
+    title: "Floria Fields (Alt - Vegetable Valley)"
+    path: "Floria Fields Alt.brstm"
+    type: betting
+  - id: mount_amberfalls
+    title: "Mount Amberfalls"
+    path: "Mount Amberfalls.brstm"
+    type: betting
+  - id: mount_amberfalls_alt_last_boss_2nd_form
+    title: "Mount Amberfalls (Alt - Last Boss / 2nd Form)"
+    path: "Mount Amberfalls Alt.brstm"
+    type: battle
+  - id: galactic_nova_air_riders
+    title: "Galactic Nova"
+    path: "Galactic Nova.brstm"
+    type: betting
+  - id: paddock_air_riders
+    title: "Paddock"
+    path: "Paddock.brstm"
+    type: break
+  - id: paddock_monitor
+    title: "Paddock Monitor"
+    path: "Paddock Monitor.brstm"
+    type: result
+  - id: short_race_air_riders
+    title: "Short Race"
+    path: "Short Race.brstm"
+    type: warning
+  - id: steamgust_forge
+    title: "Steamgust Forge"
+    path: "Steamgust Forge.brstm"
+    type: battle
+  - id: steamgust_forge_alt_bug_eyed_foes
+    title: "Steamgust Forge (Alt - Bug-Eyed Foes)"
+    path: "Steamgust Forge Alt.brstm"
+    type: betting
+  - id: waveflow_waters
+    title: "Waveflow Waters"
+    path: "Waveflow Waters.brstm"
+    type: battle
+  - id: waveflow_waters_alt_float_islands
+    title: "Waveflow Waters (Alt - Float Islands)"
+    path: "Float Islands (Waveflow Waters Alt.).brstm"
+    type: betting
+  - id: air_ride_results_air_riders
+    title: "Air Ride: Results"
+    path: "Air Ride Results.brstm"
+    type: result
+  - id: skyah
+    title: "Skyah"
+    path: "Skyah.brstm"
+    type: betting
+  - id: skyah_alt
+    title: "Skyah (Alt)"
+    path: "Skyah Alt.brstm"
+    type: betting
+  - id: boxes_raining_down
+    title: "Boxes Raining Down"
+    path: "Boxes Raining Down.brstm"
+    type: warning
+  - id: cracked_boxes_all_over
+    title: "Cracked Boxes All Over"
+    path: "Cracked Boxes All Over.brstm"
+    type: warning
+  - id: city_trial_results_air_riders
+    title: "City Trial: Results"
+    path: "City Trial Results.brstm"
+    type: result
+  - id: city_trial_team_battle_results
+    title: "City Trial: Team Battle Results"
+    path: "City Trial Team Battle Results.brstm"
+    type: results
+  - id: top_ride_test_ride
+    title: "Top Ride: Test Ride"
+    path: "Top Ride Test Ride.brstm"
+    type: betting
+  - id: top_ride_air_air_riders
+    title: "Top Ride: Air"
+    path: "Air.brstm"
+    type: betting
+  - id: top_ride_cave_air_riders
+    title: "Top Ride: Cave"
+    path: "Cave.brstm"
+    type: betting
+  - id: top_ride_crystal_air_riders
+    title: "Top Ride: Crystal"
+    path: "Crystal.brstm"
+    type: betting
+  - id: top_ride_crystal_alt_cloudy_park
+    title: "Top Ride: Crystal (Alt - Cloudy Park)"
+    path: "Crystal Alt.brstm"
+    type: betting
+  - id: top_ride_cyber
+    title: "Top Ride: Cyber"
+    path: "Cyber.brstm"
+    type: battle
+  - id: top_ride_flow
+    title: "Top Ride: Flow"
+    path: "Flow.brstm"
+    type: result
+  - id: top_ride_flower
+    title: "Top Ride: Flower"
+    path: "Flower.brstm"
+    type: result
+  - id: top_ride_mountain
+    title: "Top Ride: Mountain"
+    path: "Mountain.brstm"
+    type: battle
+  - id: top_ride_nova
+    title: "Top Ride: Nova"
+    path: "Nova.brstm"
+    type: betting
+  - id: top_ride_steam
+    title: "Top Ride: Steam"
+    path: "Steam.brstm"
+    type: betting
+  - id: top_ride_steam_alt_vs_dark_matter
+    title: "Top Ride: Steam (Alt - Vs. Dark Matter)"
+    path: "Steam Alt.brstm"
+    type: battle
+  - id: top_ride_results_air_riders
+    title: "Top Ride: Results"
+    path: "Top Ride Results.brstm"
+    type: result
+  - id: road_shop
+    title: "Road Shop"
+    path: "Road Shop.brstm"
+    type: break
+  - id: road_trip_results
+    title: "Road Trip: Results"
+    path: "Road Trip Results.brstm"
+    type: result
+  - id: stadium_gourmet_race
+    title: "Stadium: Gourmet Race"
+    path: "Stadium Gourmet Race.brstm"
+    type: warning
+  - id: defeated_by_a_boss_air_riders
+    title: "Defeated by a Boss"
+    path: "Defeated by a Boss.brstm"
+    type: warning
+  - id: retired_air_riders
+    title: "Retired"
+    path: "Retired.brstm"
+    type: result
+  - id: vs_robo_dedede
+    title: "Vs. Robo Dedede"
+    path: "Vs Robo Dedede.brstm"
+    type: warning
+  - id: vs_marx_air_riders
+    title: "Vs. Marx"
+    path: "Vs Marx.brstm"
+    type: battle
+  - id: vs_nightmare_air_riders
+    title: "Vs. Nightmare"
+    path: "Vs Nightmare.brstm"
+    type: battle
+  - id: vs_zero_two_air_riders
+    title: "Vs. Zero Two"
+    path: "Vs Zero Two.brstm"
+    type: battle
+  - id: vs_noir_dedede
+    title: "Vs. Noir Dedede"
+    path: "Vs Noir Dedede.brstm"
+    type: warning
+  - id: vs_noir_dedede_final
+    title: "Vs. Noir Dedede (Final)"
+    path: "Vs Noir Dedede Final.brstm"
+    type: battle
+  - id: vs_hyper_gigantes
+    title: "Vs. Hyper Gigantes"
+    path: "Vs Hyper Gigantes.brstm"
+    type: battle
+  - id: victory_against_a_boss_air_riders
+    title: "Victory Against a Boss"
+    path: "Victory Against a Boss.brstm"
+    type: result
+  - id: ruinous_runway
+    title: "Ruinous Runway"
+    path: "Ruinous Runway.brstm"
+    type: break
+  - id: starlit_journey_free_jp_ver
+    title: "Starlit Journey: Free (JP Ver.)"
+    path: "Starlit Journey Free JP.brstm"
+    ends: 2:40
+    type: betting
+  - id: starlit_journey_free_en_ver
+    title: "Starlit Journey: Free (EN Ver.)"
+    path: "Starlit Journey - Free (EN Ver.).brstm"
+    ends: 2:40
+    type: betting
+  - id: starlit_journey_ballad_en_ver
+    title: "Starlit Journey: Ballad (EN Ver.)"
+    path: "Starlit Journey Ballad EN.brstm"
+    type: break
+  - id: starlit_journey_ballad_jp_ver
+    title: "Starlit Journey: Ballad (JP Ver.)"
+    path: "Starlit Journey Ballad JP.brstm"
+    type: break
+...

@@ -67,7 +67,7 @@ songs:
     title: "skrill."
     path: "mus_muscle.txtp"
     type: betting
-  - id: nuzzah_silvatale
+  - id: huzzah_silvatale
     title: "Huzzah!"
     path: "mus_papyrus.txtp"
     type: betting
@@ -353,7 +353,6 @@ songs:
     # title: "Reunited With Memes"
     # path: "mus_reunited.txtp"
     # type: betting
-    # commented out for now due to it saying no-no words
   - id: epic_menustones_full
     title: "Epic Menustones (Full)"
     path: "mus_menu6.txtp"
@@ -451,4 +450,12 @@ songs:
     title: "Happy Homecoming"
     path: "mus_st_happytown.txtp"
     type: warning
+  - id: mus_lavender
+    title: "mus_lavender"
+    path: "mus_star.txtp"
+    type: warning
+  - id: the_sound_of_asgore_remastered
+    title: "The Sound of ASGORE - REMASTERED"
+    path: "mus_vsasgore2.txtp"
+    type: battle #new version that was in ver. 1.001 - I think I didn't cover this one
 ...

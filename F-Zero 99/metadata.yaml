@@ -1,0 +1,20 @@
+---
+id: f-zero_99
+title: "F-Zero 99"
+series: fzero
+platform: "Switch"
+year: 2023
+songs: 
+  - id: menu_frozen_world_tour
+    title: "Menu (Frozen World Tour)"
+    path: "Menu (Frozen World Tour).brstm"
+    type: result
+  - id: frozen_world_tour_top_3
+    title: "Frozen World Tour (Top 3)"
+    path: "Frozen World Tour (Top 3).brstm"
+    type: result
+  - id: results_frozen_world_tour
+    title: "Results (Frozen World Tour)"
+    path: "Results (Frozen World Tour).brstm"
+    type: result
+...

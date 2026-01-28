@@ -1,0 +1,199 @@
+---
+id: qualatro
+title: "Qualatro"
+platform: "PC"
+series: siivagunner
+is_fanwork: true
+year: 2025
+#mod made for Balatro. The music is all just layers on the existing theme but that will not stop me
+#also had to make up all the song names so I hope you like my cutting wit (please give me better suggestions)
+songs:
+  - id: antenymph
+    title: "Antenymph"
+    path: "antonymph.txtp"
+    type: betting
+  - id: cardamelldansen
+    title: "Cardamelldansen"
+    path: "caramelldansen.txtp"
+    type: betting
+  - id: da_het
+    title: "ДА НЕТ"
+    path: "catmask.txtp"
+    type: betting
+  - id: a_snowball_in_july
+    title: "A Snowball in July?"
+    path: "christmas.txtp"
+    type: betting
+  - id: circus_tpp_track_mix
+    title: "Circus (TPP Track Mix)"
+    path: "circus.txtp"
+    type: betting
+  - id: cmon_cranky_take_it_to_the_table
+    title: "C'mon Cranky, Take It To The Table"
+    path: "coconut_gun.txtp"
+    type: betting
+  - id: crazy_joker
+    title: "Crazy Joker"
+    path: "crazy_bus.txtp"
+    type: betting
+  - id: the_meta_straight
+    title: "The Meta-Straight"
+    path: "dimensional_cape.txtp"
+    type: betting
+  - id: d_joker_professor_k
+    title: "D Joker Professor K"
+    path: "djpk.txtp"
+    type: betting
+  - id: fools_spirit
+    title: "Fools' Spirit"
+    path: "fools_spirit.txtp"
+    type: betting
+  - id: multiplicative_dissonance
+    title: "Multiplicative Dissonance"
+    path: "dr_andonuts.txtp"
+    type: betting
+  - id: eight_chip_beast
+    title: "Eight-Chip Beast"
+    path: "eight_bit_beast.txtp"
+    type: betting
+  - id: don_t_forget_x2_mult_on_the_first_face_card
+    title: "don't forget x2 mult on the first face card"
+    path: "familiar_photo.txtp"
+    type: betting
+  - id: the_final_hand
+    title: "The Final Hand"
+    path: "final_goodbye.txtp"
+    type: betting
+  - id: frostbitten_qualatro
+    title: "FROSTBITTEN"
+    path: "frostbitten.txtp"
+    type: betting
+  - id: chicken_eye_joker
+    title: "Chicken Eye Joker"
+    path: "gegagedigedagedago.txtp"
+    type: betting
+  - id: get_lucky_cards
+    title: "Get Lucky Cards"
+    path: "get_lucky.txtp"
+    type: betting
+  - id: balatro_beta_myx
+    title: "Balatro (Beta Myx)"
+    path: "golden_necklace.txtp"
+    type: betting
+  - id: funny_7_meme
+    title: "Funny 7 Meme"
+    path: "grand_dad.txtp"
+    type: betting
+  - id: the_noble_cashout
+    title: "The Noble Cashout"
+    path: "haltmann.txtp"
+    type: betting
+  - id: hot_xmult
+    title: "Hot xMult"
+    path: "hot_cross_buns.txtp"
+    type: betting
+  - id: how_2_naninf
+    title: "how 2 naninf"
+    path: "hypercam.txtp"
+    type: betting
+  - id: balatro_with_gadget
+    title: "Balatro with Gadget"
+    path: "inspector_gadget.txtp"
+    type: betting
+  - id: m_u_l_t_freestyle
+    title: "M.U.L.T. Freestyle"
+    path: "interior_joker.txtp"
+    type: betting
+  - id: the_psy_only_sexy_and_stylish_hands_score
+    title: "The Psy: Only Sexy and Stylish Hands Score"
+    path: "joper.txtp"
+    type: betting
+  # - id: katamari_on_the_joker
+    # title: "Katamari on the Joker"
+    # path: "katamari_on_the_rocks.txtp"
+    # type: betting
+  - id: kazoo_atro
+    title: "Kazoo-atro"
+    path: "kazoo.txtp"
+    type: betting
+  - id: play_kings_for_eternity
+    title: "Play Kings For Eternity"
+    path: "king_for_eternity.txtp"
+    type: betting
+  - id: jokers_of_your_mind
+    title: "Jokers of your Mind"
+    path: "lost_media.txtp"
+    type: betting
+  - id: missingno_s_theme
+    title: "MissiŕzÂ(‚Hz■Éq's Theme"
+    path: "missingno.txtp"
+    type: betting
+  - id: nice_hand
+    title: "nice hand >:]"
+    path: "mm2wood.txtp"
+    type: betting
+  - id: i_m_nobody_s_joker
+    title: "I'm Nobody's Joker"
+    path: "nobody_s_hero.txtp"
+    type: betting
+  - id: boss_blind_the_halation
+    title: "Boss Blind: The Halation"
+    path: "nozomi.txtp"
+    type: betting
+  - id: poker_with_rabbit
+    title: "Poker With Rabbit"
+    path: "othello_world.txtp"
+    type: betting
+  - id: mr_bonetrousle
+    title: "Mr. Bonetrousle"
+    path: "papyrus.txtp"
+    type: betting
+  - id: why_have_chips_when_you_can_have_totino_s_pizza_rolls
+    title: "Why have chips when you can have Totino's Pizza Rolls"
+    path: "pizza_roll.txtp"
+    type: betting
+  - id: slamatro
+    title: "SLAMATRO"
+    path: "planet_bball.txtp"
+    type: betting
+  - id: pokar_star
+    title: "Pokar Star"
+    path: "polar_star.txtp"
+    type: betting
+  - id: raft_rides_are_like_playing_balatro_aren_t_they
+    title: "Raft Rides Are Like Playing Balatro, Aren't They?"
+    path: "raftride.txtp"
+    type: betting
+  - id: slider_enhanced_mix
+    title: "Slider (Enhanced Mix)"
+    path: "slider.txtp"
+    type: betting
+  - id: he_ll_slip_and_slide_on_this_gros_michel
+    title: "He'll slip and slide on this Gros Michel!"
+    path: "slip_n_slide.txtp"
+    type: betting
+  - id: my_tpp_betting_track
+    title: "My TPP Betting Track"
+    path: "stingy.txtp"
+    type: betting
+  - id: let_s_discuss_balatro
+    title: "Let's discuss balatro."
+    path: "susie.txtp"
+    type: betting
+  - id: ta_ta_ta_tarotcards
+    title: "Ta-ta-ta-tarot Cards!"
+    path: "tax_fraud.txtp"
+    type: betting
+  - id: all_together_now
+    title: "All Together Now..."
+    path: "togethernow.txtp"
+    type: betting
+  - id: why_do_my_runs_always_end_like_this
+    title: "Why do my runs... always end like this?"
+    path: "twob.txtp"
+    type: betting
+  - id: can_i_buy_jokers_with_wii_points
+    title: "Can I buy Jokers with Wii Points"
+    path: "wii_shop.txtp"
+    type: betting
+...

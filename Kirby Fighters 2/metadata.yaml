@@ -4,8 +4,8 @@ title: "Kirby Fighters 2"
 platform: "Switch"
 year: 2020
 songs: 
-  - id: title_and_menu_kf2
-    title: "Title and Menu"
+  - id: kirby_fighters_2_the_destined_Rivals
+    title: "Kirby Fighters 2: The Destined Rivals"
     path: "BGM_FIZZTITLE.bfstm"
     type: betting
   - id: online_mode_and_local_play_mode
@@ -13,19 +13,19 @@ songs:
     path: "BGM_FIZZTITLE_AR_01.dspadpcm.bfstm"
     type: betting
   - id: options_kf2
-    title: "Title and Menu"
+    title: "Options"
     path: "FizzOption_20200703.dspadpcm.bfstm"
     type: result
-  - id: training_mode_calm
-    title: "Training Mode (Calm)"
+  - id: training_with_rivals_calm
+    title: "Training with Rivals (Calm)"
     path: "Fizz64TrainingArrange(Calm)_20200707.dspadpcm.bfstm"
     type: break
-  - id: training_mode_intense
-    title: "Training Mode (Intense)"
+  - id: training_with_rivals_intense
+    title: "Training with Rivals (Intense)"
     path: "Fizz64TrainingArrange(Intense)_20200702.dspadpcm.bfstm"
     type: betting
-  - id: training_mode_chiptune
-    title: "Training Mode (chiptune)"
+  - id: training_with_rivals_chiptune
+    title: "Training with Rivals (chiptune)"
     path: "Fizz64TrainingArrange(Chiptune)_20200706.dspadpcm.bfstm"
     type: betting
   - id: single_handed_mode
@@ -92,8 +92,8 @@ songs:
     title: "Castle Lololo"
     path: "BGM_LOLOLO_FIZZ.dspadpcm.bfstm"
     type: battle
-  - id: training_kf2
-    title: "Training"
+  - id: training_with_rivals_kf2
+    title: "Training with Rivals"
     path: "BGM_TRAINING64_FIZZ.dspadpcm.bfstm"
     type: betting
   - id: waddle_dee_train_tracks
@@ -136,16 +136,16 @@ songs:
     title: "Vs. Duo Edge (Kirby 64 Boss)"
     path: "FizzVsTwinEdge_20200608.dspadpcm.bfstm"
     type: battle
-  - id: vs_sworn_partners_king_dedede_meta_knight_ver_2
-    title: "Vs. Sworn Partners - King Dedede & Meta Knight (Ver 2)"
+  - id: the_battle_of_sworn_partners
+    title: "The Battle of Sworn Partners"
     path: "FizzMainThemeBossArrangeLong_20200707.dspadpcm.bfstm"
     type: battle
   - id: vs_shadow_kirby
     title: "Vs. Shadow Kirby"
     path: "FizzVsShadowKirbyNormal_20200707.dspadpcm.bfstm"
     type: warning
-  - id: vs_shadow_kirby_ver_2
-    title: "Vs. Shadow Kirby (Ver 2)"
+  - id: final_battle_overcome_the_naughty_shadow
+    title: "Final Battle - Overcome the Naughty Shadow!"
     path: "VsShadowKirby_20200520.dspadpcm.bfstm"
     type: battle
   - id: stage_of_the_partners_who_shook_the_heavens

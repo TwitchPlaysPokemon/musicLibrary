@@ -84,4 +84,24 @@ songs:
     title: "Goal Rush Super Bonus Goal"
     path: "Goal Rush Super Bonus Goal.brstm"
     type: result
+  - id: battle_gem_heist
+    title: "Battle - Gem Heist"
+    path: "Battle - Gem Heist.brstm"
+    type: betting
+  - id: battle_robot_smash_golden_robot
+    title: "Battle - Robot Smash (Golden Robot)"
+    path: "Battle - Robot Smash (Golden Robot).brstm"
+    type: warning
+  - id: battle_super_punchy_brawl
+    title: "Battle - Super Punchy Brawl"
+    path: "Battle - Super Punchy Brawl.brstm"
+    type: battle
+  - id: battle_results_banana_rumble
+    title: "Battle - Results"
+    path: "Battle - Results.brstm"
+    type: result
+  - id: system_staff_roll_banana_rumble
+    title: "System - Staff Roll"
+    path: "System - Staff Roll.brstm"
+    type: betting
 ...

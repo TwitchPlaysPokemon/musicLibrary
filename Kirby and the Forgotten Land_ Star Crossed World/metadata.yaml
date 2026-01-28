@@ -1,0 +1,158 @@
+---
+id: kirby_and_the_forgotten_land_star_crossed_world
+title: "Kirby and the Forgotten Land: Star-Crossed World" #Kirby and the Forgotten Land – Nintendo Switch 2 Edition + Star-Crossed World
+series: kirby
+year: 2025
+platform: "Switch 2"
+songs:
+  - id: the_falling_star_now_pierces_through_the_lagrange_point_sing_of_radiant_theia
+    title: "The Falling Star Now Pierces through the Lagrange Point - Sing of Radiant Theia"
+    path: "The Falling Star Now Pierces through the Lagrange Point - Sing of Radiant Theia.brstm"
+    type: battle
+  - id: secret_area_hal_room_starry_ver
+    title: "Secret Area - HAL Room (Starry Ver.)"
+    path: "Secret Area - HAL Room (Starry Ver.).brstm"
+    type: battle #...I guess?
+  - id: crystal_beast_pack_volcano_battle
+    title: "Crystal Beast Pack Volcano Battle"
+    path: "Crystal Beast Pack Volcano Battle.brstm"
+    type: battle
+  - id: twinkling_star_showers
+    title: "TWINKLING STAR SHOWERS"
+    path: "TWINKLING STAR SHOWERS.brstm"
+    ends: 4:15
+    type: betting
+  - id: last_song_incomplete_neichel_s_unfinished_track
+    title: "Last Song (Incomplete) - NEICHEL's Unfinished Track"
+    path: "Last Song (Incomplete) - NEICHEL's Unfinished Track.brstm"
+    ends: 3:14
+    type: betting
+  - id: ultimate_extra_stars
+    title: "Ultimate Extra Stars!"
+    path: "Ultimate Extra Stars!.brstm"
+    type: battle
+  - id: bless_the_plains_with_song
+    title: "Bless the Plains with Song"
+    path: "Bless the Plains with Song.brstm"
+    type: betting
+  - id: freezing_wind_and_some_snowmen
+    title: "Freezing Wind and Some Snowmen"
+    path: "Freezing Wind and Some Snowmen.brstm"
+    type: betting
+  - id: crossing_wondaria
+    title: "Crossing Wondaria"
+    path: "Crossing Wondaria.brstm"
+    type: betting
+  - id: wastes_that_count_time
+    title: "Wastes That Count Time"
+    path: "Wastes That Count Time.brstm"
+    type: betting
+  - id: moonlight_canyon_labyrinth
+    title: "Moonlight Canyon Labyrinth"
+    path: "Moonlight Canyon Labyrinth.brstm"
+    type: betting
+  - id: beast_drum_of_meteors
+    title: "Beast Drum of Meteors"
+    path: "Beast Drum of Meteors.brstm"
+    type: warning
+  - id: meteor_shower_s_arrival
+    title: "Meteor Shower's Arrival"
+    path: "Meteor Shower's Arrival.brstm"
+    type: betting
+  - id: everything_shines_gotcha_machine_master
+    title: "Everything Shines! Gotcha Machine Master"
+    path: "Everything Shines! Gotcha Machine Master.brstm"
+    type: result
+  - id: fallen_star_beach
+    title: "Fallen-Star Beach"
+    path: "Fallen-Star Beach.brstm"
+    type: betting
+  - id: kirby_of_the_stars_interview
+    title: "Kirby of the Stars Interview"
+    path: "Kirby of the Stars Interview.brstm"
+    type: result
+  - id: crumbling_fiery_forbidden_lands
+    title: "Crumbling Fiery Forbidden Lands"
+    path: "Crumbling Fiery Forbidden Lands.brstm"
+    type: battle
+  - id: try_again_when_the_stars_rain_down
+    title: "Try Again When the Stars Rain Down!"
+    path: "Try Again When the Stars Rain Down!.brstm"
+    type: warning
+  - id: frost_street_snow_park
+    title: "Frost Street Snow Park"
+    path: "Frost Street Snow Park.brstm"
+    type: betting
+  - id: spinning_dream_parade
+    title: "Spinning Dream Parade"
+    path: "Spinning Dream Parade.brstm"
+    type: betting
+  - id: washed_away_at_the_cement_summit
+    title: "Washed Away at the Cement Summit"
+    path: "Washed Away at the Cement Summit.brstm"
+    type: betting
+  - id: lost_in_alivel_mall
+    title: "Lost in Alivel Mall"
+    path: "Lost in Alivel Mall.brstm"
+    type: betting
+  - id: twinkling_skating_rink
+    title: "TWINKLING SKATING RINK"
+    path: "TWINKLING SKATING RINK.brstm"
+    type: betting
+  - id: welcome_home_hero_star_crossed
+    title: "Welcome Home, Hero"
+    path: "Welcome Home, Hero.brstm"
+    type: result
+  - id: admiring_the_shiny_figure_collection
+    title: "Admiring the Shiny Figure Collection"
+    path: "Admiring the Shiny Figure Collection.brstm"
+    type: break
+  - id: eternally_stirring_fa_lu_wa_a_song
+    title: "Eternally Stirring Fa-lu-wa-a Song"
+    path: "Eternally Stirring Fa-lu-wa-a Song.brstm"
+    type: warning
+  - id: rally_raid_speedway
+    title: "Rally Raid Speedway"
+    path: "Rally Raid Speedway.brstm"
+    type: battle
+  - id: to_the_stage_of_stardom
+    title: "To the Stage of Stardom"
+    path: "To the Stage of Stardom.brstm"
+    type: result
+  - id: champion_road_of_the_four_warriors
+    title: "Champion Road of the Four Warriors"
+    path: "Champion Road of the Four Warriors.brstm"
+    type: battle
+  - id: song_of_the_starfall_children
+    title: "Song of the Starfall Children"
+    path: "Song of the Starfall Children.brstm"
+    type: break
+  - id: sparkling_results
+    title: "Sparkling Results"
+    path: "Sparkling Results.brstm"
+    type: result
+  - id: kirby_s_tilt_and_roll_festival
+    title: "Kirby's Tilt-and-Roll Festival"
+    path: "Kirby's Tilt-and-Roll Festival.brstm"
+    type: result
+  - id: prescient_stirring_fa_lu_wa_a_song
+    title: "Prescient Stirring Fa-lu-wa-a Song"
+    path: "Prescient Stirring Fa-lu-wa-a Song.brstm"
+    type: warning
+  - id: fallen_star_volcano
+    title: "Fallen-Star Volcano"
+    path: "Fallen-Star Volcano.brstm"
+    type: break
+  - id: meteoric_beast_battle
+    title: "Meteoric Beast Battle"
+    path: "Meteoric Beast Battle.brstm"
+    type: battle
+  - id: heart_racing_beach
+    title: "Heart-Racing Beach"
+    path: "Heart-Racing Beach.brstm"
+    type: result
+  - id: meteor_swarm_of_dark_and_light
+    title: "Meteor Swarm of Dark and Light"
+    path: "Meteor Swarm of Dark and Light.brstm"
+    type: warning
+...

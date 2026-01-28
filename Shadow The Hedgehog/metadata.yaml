@@ -143,4 +143,28 @@ songs:
     title: "Never Turn Back"
     path: "sng_vox06.adx"
     type: betting
+  - id: lethal_highway_e3_demo_ver
+    title: "Lethal Highway (E3 Demo ver.)"
+    path: "sng_stg0202.adx"
+    type: warning
+  - id: prison_island_e3_demo_ver
+    title: "Prison Island (E3 Demo ver.)"
+    path: "sng_stg0301.adx"
+    type: warning
+  - id: central_city_e3_demo_ver
+    title: "Central City (E3 Demo ver.)"
+    path: "sng_stg0400.adx"
+    type: betting
+  - id: the_ark_e3_demo_ver
+    title: "The Ark (E3 Demo ver.)"
+    path: "sng_stg0500.adx"
+    type: betting
+  - id: air_fleet_e3_demo_ver
+    title: "Air Fleet (E3 Demo ver.)"
+    path: "sng_stg0501.adx"
+    type: warning
+  - id: iron_jungle_e3_demo_ver
+    title: "Iron Jungle (E3 Demo ver.)"
+    path: "sng_stg0502.adx"
+    type: betting
 ...

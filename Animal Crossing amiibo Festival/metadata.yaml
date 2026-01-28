@@ -1,0 +1,16 @@
+---
+id: animal_crossing_amiibo_festival
+title: "Animal Crossing: Amiibo Festival"
+series: animalcrossing
+platform: "Wii U"
+year: 2015
+songs: 
+  - id: main_festival_acaf
+    title: "Main Plaza"
+    path: "Main Plaza.brstm"
+    type: betting
+  - id: mr_resetti_acaf
+    title: "Mr. Resetti"
+    path: "Mr. Resetti.brstm"
+    type: warning
+...

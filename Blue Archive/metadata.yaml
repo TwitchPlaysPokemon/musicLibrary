@@ -1,0 +1,43 @@
+---
+id: blue_archive
+title: "Blue Archive"
+platform: "Mobile"
+year: 2021
+songs: 
+  - id: plug_and_play
+    title: "Plug and Play"
+    path: "Plug and Play.brstm"
+    type: betting
+  - id: alert_blue_archive
+    title: "Alert"
+    path: "Alert.brstm"
+    type: battle
+  - id: after_the_beep
+    title: "After the Beep"
+    path: "After the Beep.brstm"
+    type: result
+  - id: endless_carnival
+    title: "Endless Carnival"
+    path: "Endless Carnival.brstm"
+    type: battle
+  - id: aira
+    title: "Aira"
+    path: "Aira.brstm"
+    type: break
+  - id: accelerator
+    title: "Accelerator"
+    path: "Accelerator.brstm"
+    type: battle
+  - id: tech_n_tech
+    title: "Tech N Tech"
+    path: "Tech N Tech.brstm"
+    type: battle
+  - id: sakura_punch
+    title: "SAKURA PUNCH"
+    path: "SAKURA PUNCH.brstm"
+    type: betting
+  - id: snow_pantomime
+    title: "Snow Pantomime"
+    path: "Snow Pantomime.brstm"
+    type: betting
+...
