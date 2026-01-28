@@ -145,9 +145,13 @@ songs:
     title: "The Ideal Formula"
     path: "bgm_field_route10.logg"
     type: betting
-  - id: trainer_gyms
-    title: "Trainer Gyms"
+  - id: trainer_gym
+    title: "Trainer Gym"
     path: "bgm_field_gym.logg"
+    type: betting
+  - id: trainer_gym_battle
+    title: "Trainer Gym: Battle"
+    path: "bgm_field_gymbattle.logg"
     type: betting
   - id: pasio_academy
     title: "Pasio Academy"
@@ -169,36 +173,40 @@ songs:
     title: "Battle Rally Theme"
     path: "bgm_field_battlerally.logg"
     type: betting
-  - id: victory_road_kanto_masters
-    title: "Victory Road (Kanto)"
+  - id: champion_stadium_kanto_masters
+    title: "Champion Stadium (Kanto)"
     path: "bgm_field_champion_01.logg"
     type: warning
-  - id: victory_road_johto_masters
-    title: "Victory Road (Johto)"
+  - id: champion_stadium_johto_masters
+    title: "Champion Stadium (Johto)"
     path: "bgm_field_champion_02.logg"
     type: warning
-  - id: victory_road_unova_masters
-    title: "Victory Road (Unova)"
+  - id: champion_stadium_unova_masters
+    title: "Champion Stadium (Unova)"
     path: "bgm_field_champion_03.logg"
     type: betting
-  - id: victory_road_alola_masters
-    title: "Victory Road (Alola)"
+  - id: champion_stadium_alola_masters
+    title: "Champion Stadium (Alola)"
     path: "bgm_field_champion_04.logg"
     type: betting
-  - id: victory_road_sinnoh_masters
-    title: "Victory Road (Sinnoh)"
+  - id: champion_stadium_sinnoh_masters
+    title: "Champion Stadium (Sinnoh)"
     path: "bgm_field_champion_05.logg"
     type: warning
-  - id: victory_road_hoenn_masters
-    title: "Victory Road (Hoenn)"
+  - id: champion_stadium_hoenn_masters
+    title: "Champion Stadium (Hoenn)"
     path: "bgm_field_champion_06.logg"
     type: betting
-  - id: victory_road_kalos_masters
-    title: "Victory Road (Kalos)"
+  - id: champion_stadium_kalos_masters
+    title: "Champion Stadium (Kalos)"
     path: "bgm_field_champion_07.logg"
     type: betting
-  - id: victory_road_pasio
-    title: "Victory Road (Pasio)"
+  - id: champion_stadium_paldea_masters
+    title: "Champion Stadium (Paldea)"
+    path: "bgm_field_champion_08.logg" 
+    type: betting
+  - id: champion_stadium_pasio
+    title: "Champion Stadium (Pasio)"
     path: "bgm_field_victoryroad.logg"
     type: betting
   - id: team_rocket_hideout_kanto_masters
@@ -393,6 +401,14 @@ songs:
     title: "Battle! (Kanto Gym Leader)"
     path: "bgm_battle_gl_k.logg"
     type: battle
+  - id: glorious_battle_brock
+    title: "Glorious Battle! (Brock)"
+    path: "bgm_battle_takeshi_ax.logg"
+    type: battle
+  - id: glorious_battle_isty
+    title: "Glorious Battle! (Misty)"
+    path: "bgm_battle_kasumi_ax.logg"
+    type: battle
   - id: battle_team_rocket_masters
     title: "Battle! (Team Rocket)"
     path: "bgm_battle_rocket_02.logg"
@@ -436,6 +452,10 @@ songs:
   - id: battle_blue_masters
     title: "Battle! (Blue)"
     path: "bgm_battle_green.logg"
+    type: battle
+  - id: glorious_battle_blue_masters
+    title: "Glorious Battle! (Blue)"
+    path: "bgm_battle_green_ax.logg"
     type: battle
   - id: battle_neo_kanto_champion
     title: "Battle! (Neo Kanto Champion)"
@@ -821,6 +841,10 @@ songs:
     title: "Battle! (Neo Unova Champion Rival)"
     path: "bgm_battle_neochamp_unova_02.logg"
     type: battle
+  - id: battle_neo_unova_champion_farewell
+    title: "Battle! (Neo Unova Champion Farewell)"
+    path: "bgm_battle_neochamp_unova_03.logg" #I'm sorry, I don't know how to differentiate the same theme having three different variations
+    type: battle
 
     #Kalos - all songs from X/Y in approx. order
   - id: battle_wild_pokemon_kalos_masters
@@ -1176,6 +1200,10 @@ songs:
     title: "Battle! (Paldea Elite Four: Larry)"
     path: "bgm_battle_big4_p_aoki.logg"
     type: battle
+  - id: battle_paldea_elite_four_hassel
+    title: "Battle! (Paldea Elite Four: Hassel)"
+    path: "bgm_battle_big4_p_hassaku.logg"
+    type: battle
   - id: battle_director_clavell_masters
     title: "Battle! (Director Clavell)"
     path: "bgm_battle_claver.logg"
@@ -1191,6 +1219,10 @@ songs:
   - id: battle_carmine_masters
     title: "Battle! (Carmine)"
     path: "bgm_battle_zeiyu.logg"
+    type: battle
+  - id: decisive_battle_carmine_masters
+    title: "Decisive Battle! (Carmine)"
+    path: "bgm_battle_zeiyu_02.logg"
     type: battle
   - id: battle_kieran_masters
     title: "Battle! (Kieran)"

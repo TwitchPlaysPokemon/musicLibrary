@@ -1,0 +1,43 @@
+---
+id: zone_66
+title: "Zone 66"
+year: 1993
+platform: "DOS"
+songs:
+  - id: title_zone_66
+    title: "Title"
+    path: "01 Title.vgm"
+    type: betting
+  - id: foreign_shores
+    title: "Foreign Shores"
+    path: "02 Foreign Shores.vgm"
+    type: betting
+  - id: ice_wind
+    title: "Ice Wind"
+    path: "03 Ice Wind.vgm"
+    type: betting
+  - id: desert_heat
+    title: "Desert Heat"
+    path: "04 Desert Heat.vgm"
+    type: break
+  - id: war_plains
+    title: "War Plains"
+    path: "05 War Plains.vgm"
+    type: betting
+  - id: highway_fury
+    title: "Highway Fury"
+    path: "06 Highway Fury.vgm"
+    type: betting
+  - id: plantation_crash
+    title: "Plantation Crash"
+    path: "07 Plantation Crash.vgm"
+    type: betting
+  - id: hell_zone_66
+    title: "Hell"
+    path: "08 Hell.vgm"
+    type: betting
+  - id: final_frontier_zone_66
+    title: "Final Frontier"
+    path: "09 Final Frontier.vgm"
+    type: battle
+...

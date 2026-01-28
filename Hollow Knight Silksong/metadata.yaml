@@ -1,0 +1,219 @@
+---
+id: hollow_knight_silksong
+title: "Hollow Knight: Silksong"
+platform: "Various"
+year: 2025
+songs: 
+  - id: awakening_silksong
+    title: "Awakening"
+    path: "Awakening.brstm"
+    type: battle
+  - id: bell_beast
+    title: "Bell Beast"
+    path: "Bell Beast.brstm"
+    type: battle
+  - id: bellhart
+    title: "Bellhart"
+    path: "Bellhart.brstm"
+    type: betting
+  - id: bone_bottom
+    title: "Bone Bottom"
+    path: "Bone Bottom.brstm"
+    type: break
+  - id: chorl_chambers
+    title: "Choral Chambers"
+    path: "Choral Chambers.brstm"
+    type: betting
+  - id: clover_dancers
+    title: "Clover Dancers"
+    path: "Clover Dancers.brstm"
+    type: battle
+  - id: cogwork_dancers_first_second_phase
+    title: "Cogwork Dancers (First, Second Phase)"
+    path: "Cogwork Dancers First Second.brstm"
+    type: betting
+  - id: cogwork_dancers_third_phase
+    title: "Cogwork Dancers (Third Phase)"
+    path: "Cogwork Dancers Third.brstm"
+    type: warning
+  - id: cogwork_dancers_final_phase
+    title: "Cogwork Dancers (Final Phase)"
+    path: "Cogwork Dancers Final.brstm"
+    type: result
+  - id: cogwork_core
+    title: "Cogwork Core"
+    path: "Cogwork Core.brstm"
+    type: betting
+  - id: coral_towers
+    title: "Coral Towers"
+    path: "Coral Towers.brstm"
+    type: battle
+  - id: crust_king_khann
+    title: "Crust King Khann"
+    path: "Crust King Khann.brstm"
+    type: battle
+  - id: deep_docks_silksong
+    title: "Deep Docks"
+    path: "Deep Docks.brstm"
+    type: betting
+  - id: enter_pharloom
+    title: "Enter Pharloom"
+    path: "Enter Pharloom.brstm"
+    type: betting
+  - id: fourth_chorus
+    title: "Fourth Chorus"
+    path: "Fourth Chorus.brstm"
+    type: betting
+  - id: greymoor
+    title: "Greymoor"
+    path: "Greymoor.brstm"
+    type: break
+  - id: high_halls_silksong
+    title: "High Halls"
+    path: "High Halls.brstm"
+    type: betting
+  - id: hunters_trail_silksong
+    title: "Hunters Trail"
+    path: "Hunters Trail.brstm"
+    type: betting
+  - id: incisive_battle_silksong
+    title: "Incisive Battle"
+    path: "Incisive Battle.brstm"
+    type: battle
+  - id: lace_silksong
+    title: "Lace"
+    path: "Lace.brstm"
+    type: battle
+  - id: last_judge_silksong
+    title: "Last Judge"
+    path: "Last Judge.brstm"
+    type: warning
+  - id: lost_lace
+    title: "Lost Lace"
+    path: "Lost Lace.brstm"
+    type: betting
+  - id: phantom_silksong
+    title: "Phantom"
+    path: "Phantom.brstm"
+    type: battle
+  - id: psalm_cylinder_choral_chambers
+    title: "Psalm Cylinder - Choral Chambers"
+    path: "Psalm Cylinder - Choral Chambers.brstm"
+    type: break
+  - id: sands_of_karak
+    title: "Sands of Karak"
+    path: "Sands of Karak.brstm"
+    type: break
+  - id: silksong
+    title: "Silksong"
+    path: "Silksong.brstm"
+    type: break
+  - id: skarrsinger_karmelita
+    title: "Skarrsinger Karmelita"
+    path: "Skarrsinger Karmelita.brstm"
+    type: battle
+  - id: strive_silksong
+    title: "Strive"
+    path: "Strive.brstm"
+    type: battle
+  - id: the_choir_silksong
+    title: "The Choir"
+    path: "The Choir.brstm"
+    type: battle
+  - id: the_mist_silksong
+    title: "The Mist"
+    path: "The Mist.brstm"
+    type: break
+  - id: tormented_trobbio
+    title: "Tormented Trobbio"
+    path: "Tormented Trobbio.brstm"
+    type: battle
+  - id: trobbio
+    title: "Trobbio"
+    path: "Trobbio.brstm"
+    type: battle
+  - id: bilewater
+    title: "Bilewater"
+    path: "Bilewater.brstm"
+    type: betting
+  - id: bilewater_calm
+    title: "Bilewater - Calm"
+    path: "Bilewater - Calm.brstm"
+    type: break
+  - id: bone_forest_battle_unused
+    title: "Bone Forest Battle (Unused)"
+    path: "Bone Forest Battle (Unused).brstm"
+    type: battle
+  - id: cut_through_phase_1
+    title: "Cut Through - Phase 1"
+    path: "Cut Through - Phase 1.brstm"
+    type: battle
+  - id: dark_descent_battle
+    title: "Dark Descent Battle"
+    path: "Dark Descent Battle.brstm"
+    type: battle
+  - id: dark_descent
+    title: "Dark Descent"
+    path: "Dark Descent.brstm"
+    type: warning
+  - id: enemy_gauntlet_silksong
+    title: "Enemy Gauntlet"
+    path: "Enemy Gauntlet.brstm"
+    type: battle
+  - id: grand_mother_silk
+    title: "Grand Mother Silk"
+    path: "Grand Mother Silk.brstm"
+    type: battle
+  - id: lace_post_battle
+    title: "Lace - Post Battle"
+    path: "Lace - Post Battle.brstm"
+    type: result
+  - id: memorium_silksong
+    title: "Memorium"
+    path: "Memorium.brstm"
+    type: result
+  - id: fleatopia
+    title: "Fleatopia"
+    path: "Minigame - Fleatopia.brstm"
+    type: betting
+  - id: loddie
+    title: "Loddie"
+    path: "Minigame - Loddie.brstm"
+    type: betting
+  - id: nyleth
+    title: "Nyleth"
+    path: "Nyleth.brstm"
+    type: result
+  - id: putrified_ducts
+    title: "Putrified Ducts"
+    path: "Putrified Ducts.brstm"
+    type: warning
+  - id: red_maiden
+    title: "Red Maiden"
+    path: "Red Maiden.brstm"
+    type: battle
+  - id: repose_silksong
+    title: "Repose"
+    path: "Repose.brstm"
+    type: break
+  - id: the_cradle_silksong
+    title: "The Cradle"
+    path: "The Cradle.brstm"
+    type: break
+  - id: the_slab_silksong
+    title: "The Slab"
+    path: "The Slab.brstm"
+    type: betting
+  - id: whiteward
+    title: "Whiteward"
+    path: "Whiteward.brstm"
+    type: warning
+  - id: widow_silksong
+    title: "Widow"
+    path: "Widow.brstm"
+    type: battle
+  - id: wormways
+    title: "Wormways"
+    path: "Wormways.brstm"
+    type: betting
+...

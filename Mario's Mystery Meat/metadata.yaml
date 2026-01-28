@@ -27,7 +27,7 @@ songs:
   - id: the_opposite_of_funny
     title: "The Opposite of Funny"
     path: "11C.spc"
-    type: betting
+    type: result #doesn't loop - learned that the hard way
   - id: title_t
     title: "Title T"
     path: "11D.spc"

@@ -6,15 +6,19 @@ year: 2013
 songs: 
   - id: mr_finale
     title: "Mr. Finale"
-    path: "boss_music_01b.xma2"
+    path: "Mr. Finale.brstm"
     type: warning
   - id: laidback_thrills
     title: "Laidback Thrills"
-    path: "gameplay_8.xma2"
+    path: "Laidback Thrills.brstm"
     ends: 2:52
     type: betting
   - id: emphasis_on_scat
     title: "Emphasis On Scat"
-    path: "Emphasis On Scat.brstm"
+    path: "Emphasis on Scat (Secret Stage).brstm"
     type: warning
+  - id: wicked_mummy
+    title: "Wicked Mummy"
+    path: "Wicked Mummy.brstm"
+    type: betting
 ...

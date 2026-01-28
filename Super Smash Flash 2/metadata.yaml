@@ -134,4 +134,13 @@ songs:
     title: "Fatalize"
     path: "Fatalize.brstm"
     type: battle
+  - id: song_of_ocarina_ssf2
+    title: "Song of Ocarina"
+    path: "Song of Ocarina.brstm"
+    type: betting
+  - id: aim_to_be_a_pokemon_master_ssf2
+    title: "Aim to Be a Pokémon Master"
+    path: "Aim to Be a Pokémon Master.brstm"
+    ends: 2:35
+    type: betting
 ...

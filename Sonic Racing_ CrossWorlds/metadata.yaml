@@ -397,4 +397,20 @@ songs:
     title: "White Cave - Final Lap"
     path: "White Cave_ Final Lap.brstm"
     type: warning
+  - id: goal_result_rank_1_crossworlds
+    title: "Goal~Result: Rank 1"
+    path: "Goal~Result_ Rank 1.brstm"
+    type: result
+  - id: goal_result_rank_2_3
+    title: "Goal~Result: Rank 2-3"
+    path: "Goal~Result_ Rank 2-3.brstm"
+    type: result
+  - id: goal_result_rank_4_9
+    title: "Goal~Result: Rank 4-9"
+    path: "Goal~Result_ Rank 4-9.brstm"
+    type: result
+  - id: goal_result_rank_10_12
+    title: "Goal~Result: Rank 10-12"
+    path: "Goal~Result_ Rank 10-12.brstm"
+    type: result
 ...

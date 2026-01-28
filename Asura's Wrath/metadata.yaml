@@ -1,0 +1,27 @@
+---
+id: asura_s_wrath
+title: "Asura's Wrath"
+platform: ["PS3", "360"]
+year: 2012
+songs: 
+  - id: main_theme_of_asura_s_wrath
+    title: "Main Theme of ASURA'S WRATH"
+    path: "Main Theme of ASURA'S WRATH.brstm"
+    type: betting
+  - id: option_asura
+    title: "Option"
+    path: "Option.brstm"
+    type: break
+  - id: orphan_wolf_legend_fang_yasha
+    title: "Orphan Wolf Legend -Fang- (Yasha)"
+    path: "Orphan Wolf Legend -Fang- (Yasha).brstm"
+    type: betting
+  - id: one_who_spins_samsara
+    title: "'One Who Spins Samsara'"
+    path: "'One Who Spins Samsara'.brstm"
+    type: betting
+  - id: eternal_challenger_asura_vs_ryu
+    title: "Eternal Challenger ~Asura Vs. Ryu~"
+    path: "Eternal Challenger ~Asura Vs. Ryu~.brstm"
+    type: battle
+...

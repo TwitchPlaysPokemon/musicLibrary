@@ -29,4 +29,12 @@ songs:
     title: "Incoming Call (Rare)"
     path: "Incoming Call (Snow Halation).brstm"
     type: result
+  - id: incoming_call_halloween_2025
+    title: "Incoming Call (Halloween 2025)"
+    path: "Incoming Call (Halloween 2025).brstm"
+    type: warning
+  - id: checkpoint_discord
+    title: "Checkpoint"
+    path: "Checkpoint.brstm"
+    type: break
 ...

@@ -1,0 +1,36 @@
+---
+id: shantae_and_the_seven_sirens
+title: "Shantae and the Seven Sirens"
+series: shantae
+platform: "Various"
+year: 2019
+songs: 
+  - id: armor_town_7s
+    title: "Armor Town"
+    path: "Armor Town.brstm"
+    type: betting
+  - id: into_the_mine_7s
+    title: "Into The Mine"
+    path: "Into The Mine.brstm"
+    type: warning
+  - id: sea_vent_labyrinth
+    title: "Sea Vent Labyrinth"
+    path: "Sea Vent Labyrinth.brstm"
+    type: betting
+  - id: laboratory_7s
+    title: "Laboratory"
+    path: "Laboratory.brstm"
+    type: betting
+  - id: sunken_shipyard_7s
+    title: "Sunken Shipyard"
+    path: "Sunken Shipyard.brstm"
+    type: betting
+  - id: boss_battle_7s
+    title: "Boss Battle"
+    path: "Boss Battle.brstm"
+    type: battle
+  - id: the_final_battle_7s
+    title: "The Final Battle"
+    path: "The Final Battle.brstm"
+    type: battle
+...

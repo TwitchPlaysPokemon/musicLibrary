@@ -53,24 +53,24 @@ songs:
     title: "Let's Make Curry!"
     path: "bgm_ss_curry.txtp"
     type: betting
-  - id: darkest_day
-    title: "Darkest Day"
+  - id: _the_darkest_day
+    title: "The Darkest Day"
     path: "bgm_ss_demo04.txtp"
     type: warning
   - id: follow_me_pokemon_sword_shield
     title: "Lead the Way"
     path: "bgm_ss_e_tsureteke.txtp"
     type: warning
-  - id: legends_of_history
-    title: "Legends of History"
+  - id: an_old_legend
+    title: "An Old Legend"
     path: "bgm_ss_e01.txtp"
     type: break
-  - id: truth_of_the_ruins
-    title: "Truth of the Ruins"
+  - id: the_truth_behind_the_mural
+    title: "The Truth Behind the Mural"
     path: "bgm_ss_e02.txtp"
     type: break
-  - id: abnormal_situation
-    title: "Abnormal Situation"
+  - id: a_bizarre_situation
+    title: "A Bizarre Situation"
     path: "bgm_ss_e03.txtp"
     type: warning
   - id: team_yell_appears
@@ -78,11 +78,11 @@ songs:
     path: "bgm_ss_eye_yell.txtp"
     type: warning
   - id: trainers_eyes_meet_trainer
-    title: "Trainers' Eyes Meet! (Trainer)"
+    title: "Trainers' Eyes Meet (Trainer)"
     path: "bgm_ss_eye01.txtp"
     type: warning
   - id: trainers_eyes_meet_lass
-    title: "Trainers' Eyes Meet! (Lass)"
+    title: "Trainers' Eyes Meet (Lass)"
     path: "bgm_ss_eye02.txtp"
     type: warning
   - id: trainers_eyes_meet_gym_trainer
@@ -90,19 +90,19 @@ songs:
     path: "bgm_ss_eye03.txtp"
     type: warning
   - id: trainers_eyes_meet_artist
-    title: "Trainers' Eyes Meet! (Artist)"
+    title: "Trainers' Eyes Meet (Artist)"
     path: "bgm_ss_eye04.txtp"
     type: warning
   - id: trainers_eyes_meet_worker
-    title: "Trainers' Eyes Meet! (Worker)"
+    title: "Trainers' Eyes Meet (Worker)"
     path: "bgm_ss_eye05.txtp"
     type: warning
   - id: trainers_eyes_meet_breeder
-    title: "Trainers' Eyes Meet! (Breeder)"
+    title: "Trainers' Eyes Meet (Pokémon Breeder)"
     path: "bgm_ss_eye06.txtp"
     type: warning
-  - id: stadium_sword_shield
-    title: "Stadium"
+  - id: at_the_stadium_sword_shield
+    title: "At the Stadium"
     path: "bgm_ss_gym.txtp"
     type: betting
   - id: gym_mission_pokemon_sword_shield
@@ -121,8 +121,8 @@ songs:
     title: "Trade"
     path: "bgm_ss_koukan_st.txtp"
     type: warning
-  - id: pokemon_laboratory
-    title: "Pokémon Laboratory"
+  - id: pokemon_research_lab_sword_Shield
+    title: "Pokémon Research Lab"
     path: "bgm_ss_labo.txtp"
     type: break
   - id: galar_mine
@@ -169,8 +169,8 @@ songs:
     title: "Wild Area (North)"
     path: "bgm_ss_rw_02.txtp"
     type: betting
-  - id: salon_pokemon_sword_shield
-    title: "Salon"
+  - id: hair_salon_pokemon_sword_shield
+    title: "Hair Salon"
     path: "bgm_ss_salon.txtp"
     type: break
   - id: evolution_pokemon_sword_shield
@@ -190,8 +190,8 @@ songs:
     path: "bgm_ss_staff.txtp"
     type: betting
     ends: 3:32
-  - id: wild_area_station
-    title: "Wild Area Station"
+  - id: at_the_train_station
+    title: "At the Train Station"
     path: "bgm_ss_station.txtp"
     type: betting
   - id: postwick
@@ -239,8 +239,8 @@ songs:
     title: "Unknown Track"
     path: "bgm_ss_unknown01.txtp"
     type: betting
-  - id: battle_champion_leon_pokemon_sword_shield
-    title: "Battle! (Champion Leon)"
+  - id: decisive_battle_champion_leon_pokemon_sword_shield
+    title: "Decisive Battle! (Champion Leon)"
     path: "bgm_ss_vs_champ.txtp"
     type: battle
   - id: battle_hop
@@ -251,12 +251,12 @@ songs:
     title: "Decisive Battle! (Hop)"
     path: "bgm_ss_vs_friend_stadium.txtp"
     type: battle
-  - id: max_raid_battle
-    title: "Max Raid Battle!"
+  - id: battle_max_raid_battle
+    title: "Battle! (Max Raid Battle)"
     path: "bgm_ss_vs_giant.txtp"
     type: battle
-  - id: max_raid_battle_capture_chance
-    title: "Max Raid Battle! (Capture Chance)"
+  - id: battle_max_raid_battle_capture_chance
+    title: "Battle! (Max Raid Battle)"
     path: "bgm_ss_vs_giant_catch.txtp"
     type: warning
   - id: battle_gym_leader_pokemon_sword_shield
@@ -264,7 +264,7 @@ songs:
     path: "Battle! (Gym Leader).brstm"
     type: battle
   - id: battle_gym_leader_piers
-    title: "Battle! (Gym Leader Piers)"
+    title: "Battle! (Gym Leader: Piers)"
     path: "bgm_ss_vs_gymleader_03.txtp"
     type: battle
   - id: in_the_fog
@@ -275,8 +275,8 @@ songs:
     title: "Battle! (Eternatus)"
     path: "bgm_ss_vs_legend02.txtp"
     type: battle
-  - id: infinite_power
-    title: "Infinite Power"
+  - id: eternal_power
+    title: "Eternal Power"
     path: "bgm_ss_vs_legend02_giant01.txtp"
     type: battle
   - id: decisive_battle_eternatus
@@ -284,7 +284,7 @@ songs:
     path: "bgm_ss_vs_legend02_giant02.txtp"
     type: battle
   - id: battle_zacian_zamazenta
-    title: "Battle! (Zacian / Zamazenta)"
+    title: "Battle! (Zacian/Zamazenta)"
     path: "bgm_ss_vs_legend03.txtp"
     type: battle
   - id: battle_marnie
@@ -311,8 +311,8 @@ songs:
     title: "Battle! (Rose)"
     path: "bgm_ss_vs_rose.txtp"
     type: battle
-  - id: battle_final_tournament
-    title: "Battle! (Final Tournament)"
+  - id: battle_finals
+    title: "Battle! (Finals)"
     path: "Battle! (Gym Leader ~ Rematch).brstm"
     type: battle
   - id: battle_battle_tower
@@ -363,8 +363,8 @@ songs:
     title: "Battle! (Peony)"
     path: "DLC2-BGM015.brstm" #could be txtp if you want to remove that one
     type: battle
-  - id: to_create_a_bright_future
-    title: "To Create a Bright Future"
+  - id: for_a_bright_future
+    title: "For a Bright Future"
     path: "BGM086.txtp"
     type: result
   - id: krazy_for_klara
@@ -375,8 +375,8 @@ songs:
     title: "Battle! (Mustard)"
     path: "DLC1-BGM002.txtp"
     type: battle
-  - id: super_avery
-    title: "Super Avery"
+  - id: the_amazing_avery
+    title: "The Amazing Avery"
     path: "DLC1-BGM004.txtp"
     type: betting
   - id: battle_serious_mustard
@@ -416,15 +416,15 @@ songs:
     path: "DLC1-BGM017.txtp"
     type: betting
   - id: battle_legendary_titans_regis
-    title: "Battle! (Legendary Titans)"
+    title: "Battle! (The Giant of Legend)"
     path: "DLC2-BGM001.txtp"
     type: battle
   - id: battle_glastrier_spectrier
-    title: "Battle! (Glastrier / Spectrier)"
+    title: "Battle! (Glastrier/Spectrier)"
     path: "DLC2-BGM003.txtp"
     type: battle
   - id: battle_legendary_bird_pokemon_galarian
-    title: "Battle! (Legendary Bird Pokémon)"
+    title: "Battle! (The Bird Pokémon of Legend)"
     path: "DLC2-BGM005.txtp"
     type: battle
   - id: battle_dynamax_adventure
@@ -436,11 +436,11 @@ songs:
     path: "Battle! (Calyrex).brstm"
     type: battle
   - id: battle_king_of_bountiful_harvests
-    title: "Battle! (King of Bountiful Harvests)"
+    title: "Battle! (The King of Bountiful Harvests)"
     path: "DLC2-BGM007.txtp"
     type: battle
   - id: king_of_bountiful_harvests
-    title: "King of Bountiful Harvests"
+    title: "The King of Bountiful Harvests"
     path: "DLC2-BGM008.txtp"
     type: warning
   - id: max_lair
@@ -451,8 +451,8 @@ songs:
     title: "Peony's Theme"
     path: "DLC2-BGM010.txtp"
     type: result
-  - id: gather_at_the_great_tree
-    title: "Gather at the Great Tree"
+  - id: gathering_at_the_tree
+    title: "Gathering at the Tree"
     path: "DLC2-BGM011.txtp"
     type: warning
   - id: crown_shrine

@@ -1,0 +1,32 @@
+---
+id: bound_to_the_dark_world
+title: "Bound to the Dark World"
+platform: "SNES"
+is_fanwork: true
+year: 2025
+songs: 
+  - id: chaos_king_bttdw
+    title: "Chaos King"
+    path: "Chaos King.spc"
+    type: battle
+  - id: checker_dance_bttdw
+    title: "Checker Dance"
+    path: "Checker Dance.spc"
+    type: battle
+  - id: rude_buster_bttdw
+    title: "Rude Buster"
+    path: "Rude Buster.spc"
+    type: battle
+  - id: the_world_revolving_bttdw
+    title: "The World Revolving"
+    path: "The World Revolving.spc"
+    type: battle
+  - id: vs_lancer_bttdw
+    title: "Vs. Lancer"
+    path: "Vs. Lancer.spc"
+    type: battle
+  - id: vs_susie_bttdw
+    title: "Vs. Susie"
+    path: "Vs. Susie.spc"
+    type: battle
+...

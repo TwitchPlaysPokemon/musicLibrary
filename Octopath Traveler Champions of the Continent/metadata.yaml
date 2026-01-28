@@ -300,12 +300,12 @@ songs:
     title: "Hell - Battle"
     path: "M_Q98.txtp"
     type: battle
-  - id: hell_decisive_battle_i
-    title: "Hell - Decisive Battle I"
-    path: "M_Q99.txtp"
-    type: battle
   - id: hell_decisive_battle_ii
     title: "Hell - Decisive Battle II"
+    path: "M_Q99.txtp"
+    type: battle
+  - id: hell_decisive_battle_i
+    title: "Hell - Decisive Battle I"
     path: "M_Q100.txtp"
     type: battle
   - id: the_chosen_one_cotc

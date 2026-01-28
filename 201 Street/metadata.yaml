@@ -1,0 +1,26 @@
+---
+id: 201_street
+title: "201 Street"
+platform: "PC"
+year: 2025
+is_fanwork: true #Friday Night Funkin mod 
+songs: 
+  - id: mauve_macabre_instrumental
+    title: "Mauve Macabre (Instrumental)"
+    path: "Mauve Macabre (Instrumental).ogg" #Pokemon section
+    type: betting
+  - id: music_for_your_ears_instrumental
+    title: "Music For Your Ears! (Instrumental)"
+    path: "Music For Your Ears! (Instrumental).ogg" #Don't Hug Me I'm Scared section
+    ends: 3:20
+    type: betting
+  - id: music_for_your_ears
+    title: "Music For Your Ears!"
+    path: "Music For Your Ears!.brstm"
+    ends: 3:20
+    type: betting
+  - id: starbound_instrumental
+    title: "Starbound (Instrumental)"
+    path: "Starbound (Instrumental).brstm" #Earthbound section
+    type: betting
+...

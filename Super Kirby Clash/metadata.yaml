@@ -21,7 +21,7 @@ songs:
     path: "LP_NEWTOWN4.dspadpcm.bfstm"
     type: betting
   - id: quest_board
-    title: "Quest Board"
+    title: "Heroic Challenge! Quest Board / Story Quests"
     path: "LP_QUESTBD_ARR.dspadpcm.bfstm"
     type: warning
   - id: quest_results
@@ -68,12 +68,12 @@ songs:
     title: "Combat Evaluation Program"
     path: "BGM_Sh5_DarkHeavy_RMX.dspadpcm.bfstm"
     type: battle
-  - id: rescue_the_kingdom_ordeal_quest_super_kirby_clash
-    title: "Rescue the Kingdom! Ordeal Quest"
+  - id: ordeal_save_this_kingdom_super_kirby_clash
+    title: "Ordeal: Save this Kingdom!"
     path: "LP_SHIRENQST.dspadpcm.bfstm"
     type: battle
-  - id: save_the_world_ordeal_quest_super_kirby_clash
-    title: "Save the World! Ordeal Quest"
+  - id: ordeal_save_this_world_super_kirby_clash
+    title: "Ordeal: Save This World!"
     path: "BGM_LimeBossElecBand_RMX.dspadpcm.bfstm"
     type: battle
   - id: final_takeoff_super_kirby_clash
@@ -112,8 +112,8 @@ songs:
     title: "Approaching Parallel Nightmare"
     path: "BGM_STORY_ANTMR_LP.dspadpcm.bfstm"
     type: warning
-  - id: parallel_nightmare_battle
-    title: "Parallel Nightmare Battle"
+  - id: parallel_nightmare
+    title: "Parallel Nightmare"
     path: "NIGHTMARE_ARR.dspadpcm.bfstm"
     type: battle
   - id: tougher_parallel_nightmare_battle

@@ -46,4 +46,56 @@ songs:
     title: "A GRAVE SOUL (NOW, RUN)"
     path: "A GRAVE SOUL (NOW, RUN).brstm"
     type: warning
+  - id: pc_funeral
+    title: "PC Funeral"
+    path: "PC Funeral.brstm"
+    type: battle
+  - id: the_end_is_nigh_forsaken
+    title: "THE END IS NIGH"
+    path: "THE END IS NIGH.brstm"
+    type: warning
+  - id: null_and_void_forsaken
+    title: "NULL_AND_VOID"
+    path: "NULL_AND_VOID.brstm"
+    type: battle
+  - id: famine_forsaken
+    title: "Famine"
+    path: "Famine.brstm"
+    type: battle
+  - id: est_ce_ton_ame
+    title: "Est-ce ton ame"
+    path: "Est-ce ton ame.brstm"
+    type: battle
+  - id: through_patches_of_violet
+    title: "Through Patches of Violet"
+    path: "Through Patches of Violet (Custom Loop).brstm"
+    type: battle
+  - id: don_t_touch_my_chainsaw
+    title: "Don't Touch My Chainsaw!"
+    path: "Don't Touch My Chainsaw!.brstm"
+    type: betting
+  - id: monstrous_mirage
+    title: "MONSTROUS MIRAGE"
+    path: "MONSTROUS MIRAGE.brstm"
+    type: battle
+  - id: corrupted_reflection
+    title: "Corrupted Reflection"
+    path: "Corrupted Reflection.brstm"
+    type: battle
+  - id: milestone_iii_1x1x1x1
+    title: "Milestone III 1x1x1x1"
+    path: "Milestone III 1x1x1x1.brstm"
+    type: battle
+  - id: he_lives_forsaken
+    title: "HE LIVES"
+    path: "HE LIVES.brstm"
+    type: warning
+  - id: ff9cae
+    title: "FF9CAE"
+    path: "FF9CAE.brstm"
+    type: betting
+  - id: best_friends_forever_forsaken
+    title: "BEST FRIENDS FOREVER"
+    path: "BEST FRIENDS FOREVER.brstm"
+    type: battle
 ...

@@ -1,0 +1,207 @@
+---
+id: once_upon_a_katamari
+title: "Once Upon a Katamari"
+series: katamari
+year: 2025
+platform: "Various"
+songs:
+  - id: skyscrapers_ouak
+    title: "skyscraper(s)"
+    path: "BGM_InGame - BGM01[a].txtp"
+    ends: 3:25
+    type: betting
+  - id: skyscrapers_inst
+    title: "skyscraper(s) (Instrumental)"
+    path: "BGM_InGame - BGM01[b].txtp"
+    ends: 3:25
+    type: betting
+  - id: diver_ouak
+    title: "DIVER"
+    path: "BGM_InGame - BGM02[a].txtp"
+    ends: 3:15
+    type: betting
+  - id: diver_inst
+    title: "DIVER (Instrumental)"
+    path: "BGM_InGame - BGM02[b].txtp"
+    ends: 3:15
+    type: betting
+  - id: suisei_biyori
+    title: "Suisei Biyori"
+    path: "BGM_InGame - BGM03[a].txtp"
+    ends: 4:05
+    type: betting
+  - id: suisei_biyori_inst
+    title: "Suisei Biyori (Instrumental)"
+    path: "BGM_InGame - BGM03[b].txtp"
+    ends: 4:05
+    type: betting
+  - id: yangyang
+    title: "YangYang"
+    path: "BGM_InGame - BGM04[a].txtp"
+    ends: 3:49
+    type: betting
+  - id: yangyang_inst
+    title: "YangYang (Instrumental)"
+    path: "BGM_InGame - BGM04[b].txtp"
+    ends: 3:49
+    type: betting
+  - id: kokon_tozai_katamari_doucyu
+    title: "Kokon-Tozai Katamari-Doucyu"
+    path: "BGM_InGame - BGM05[a].txtp"
+    ends: 4:00
+    type: betting
+  - id: kokon_tozai_katamari_doucyu_inst
+    title: "Kokon-Tozai Katamari-Doucyu (Instrumental)"
+    path: "BGM_InGame - BGM05[b].txtp"
+    ends: 4:00
+    type: betting
+  - id: katamari_on_the_doun
+    title: "Katamari on the Doun"
+    path: "BGM_InGame - BGM06[a].txtp"
+    ends: 2:48
+    type: betting
+  - id: katamari_on_the_doun_inst
+    title: "Katamari on the Doun (Instrumental)"
+    path: "BGM_InGame - BGM06[b].txtp"
+    ends: 2:48
+    type: betting
+  - id: katamari_damacy_ouak
+    title: "Katamari Damacy"
+    path: "BGM_InGame - BGM07[a].txtp"
+    ends: 4:32
+    type: betting
+  - id: katamari_damacy_inst
+    title: "Katamari Damacy (Instrumental)"
+    path: "BGM_InGame - BGM07[b].txtp"
+    ends: 4:32
+    type: betting
+  - id: san_francisco_katamari_boys_chorus_song
+    title: "San Francisco Katamari Boys Chorus Song"
+    path: "BGM_InGame - BGM08[a].txtp"
+    ends: 3:56
+    type: betting
+  - id: san_francisco_katamari_boys_chorus_song_instrumental
+    title: "San Francisco Katamari Boys Chorus Song (Instrumental)"
+    path: "BGM_InGame - BGM08[b].txtp"
+    ends: 3:56
+    type: betting
+  - id: power_of_katamari_damacy
+    title: "Power of Katamari Damacy"
+    path: "BGM_InGame - BGM09[a].txtp"
+    ends: 3:39
+    type: betting
+  - id: power_of_katamari_damacy_instrumental
+    title: "Power of Katamari Damacy (Instrumental)"
+    path: "BGM_InGame - BGM09[b].txtp"
+    ends: 3:39
+    type: betting
+  - id: chill_prince
+    title: "CHILL PRINCE"
+    path: "BGM_InGame - BGM10[a].txtp"
+    ends: 3:05
+    type: betting
+  - id: chill_prince_instrumental
+    title: "CHILL PRINCE (Instrumental)"
+    path: "BGM_InGame - BGM10[b].txtp"
+    ends: 3:05
+    type: betting
+  - id: eeja_eeja_naika
+    title: "Eeja Eeja Naika"
+    path: "BGM_InGame - BGM11[a].txtp"
+    ends: 3:35
+    type: betting
+  - id: eeja_eeja_naika_instrumental
+    title: "Eeja Eeja Naika (Instrumental)"
+    path: "BGM_InGame - BGM11[b].txtp"
+    ends: 3:35
+    type: betting
+  - id: katamariism
+    title: "Katamariism"
+    path: "BGM_InGame - BGM12[a].txtp"
+    ends: 3:38
+    type: betting
+  - id: katamariism_instrumental
+    title: "Katamariism (Instrumental)"
+    path: "BGM_InGame - BGM12[b].txtp"
+    ends: 3:38
+    type: betting
+  - id: nothing_to_be_afraid_of
+    title: "Nothing to be afraid of"
+    path: "BGM_InGame - BGM13.txtp"
+    type: battle
+  - id: time_to_yosoro
+    title: "Time to YOSORO!!"
+    path: "BGM_InGame - BGM14.txtp"
+    type: result
+  - id: joy_syrtos_by_gardeners_who_praised_katamari
+    title: "JOY: Syrtos By Gardeners Who Praised Katamari"
+    path: "BGM_InGame - BGM15.txtp"
+    type: break
+  - id: nananan_wonders
+    title: "Nananan Wonders"
+    path: "BGM_InGame - BGM16.txtp"
+    type: betting
+  - id: katamari_tribe
+    title: "Katamari Tribe"
+    path: "BGM_InGame - BGM17.txtp"
+    type: betting
+  - id: ice_cube_soul
+    title: "ICE CUBE SOUL"
+    path: "BGM_InGame - BGM18.txtp"
+    type: battle
+  - id: goro_goro_blithely
+    title: "Goro Goro Blithely"
+    path: "BGM_InGame - BGM19[a].txtp"
+    type: break
+  - id: once_upon_a_katamari_prologue
+    title: "Once Upon A KATAMARI - Prologue"
+    path: "BGM_InGame - BGM20.txtp"
+    type: betting
+  - id: katamari_time
+    title: "Katamari Time!"
+    path: "BGM_InGame - BGM24[a].txtp"
+    ends: 4:00 #full version is 5:06 but that's too long right?
+    type: betting
+  - id: katamari_time_instrumental
+    title: "Katamari Time! (Instrumental)"
+    path: "BGM_InGame - BGM24[b].txtp"
+    ends: 4:00
+    type: betting
+  - id: aishiteirukara
+    title: "Aishiteirukara"
+    path: "BGM_InGame - BGM25[a].txtp"
+    ends: 4:42
+    type: betting
+  - id: aishiteirukara_instrumental
+    title: "Aishiteirukara (Instrumental)"
+    path: "BGM_InGame - BGM25[b].txtp"
+    type: break
+  - id: character_customization_ouak
+    title: "Character Customization"
+    path: "BGM_OutGame - BGM_CharaCustom.txtp"
+    type: break
+  - id: collection_ouak
+    title: "Collection"
+    path: "BGM_OutGame - BGM_Collection.txtp"
+    type: break
+  - id: game_over_ouak
+    title: "Game Over"
+    path: "BGM_OutGame - BGM_GameOver.txtp"
+    type: warning
+  - id: space_ouak
+    title: "Space"
+    path: "BGM_OutGame - BGM_Map_Space.txtp"
+    type: break
+  - id: results_ouak
+    title: "Results"
+    path: "BGM_OutGame - BGM_Result.txtp"
+    type: result
+  - id: results_multiplayer_ouak
+    title: "Results - Multiplayer"
+    path: "BGM_OutGame - BGM_Result_Multi.txtp"
+    type: result
+  - id: title_ouak
+    title: "Title"
+    path: "BGM_OutGame - BGM_Title.txtp"
+    type: break
+...

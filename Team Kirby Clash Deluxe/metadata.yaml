@@ -21,22 +21,22 @@ songs:
     title: "Magolor, the Far-Flung Traveler"
     path: "Maho.dspadpcm.bcstm"
     type: break
-  - id: rescue_the_kingdom_ordeal_quest
-    title: "Rescue the Kingdom! Ordeal Quest"
+  - id: ordeal_save_this_kingdom_team_kirby_clash_deluxe
+    title: "Ordeal: Save this Kingdom!"
     path: "LimeBossOrchestra.dspadpcm.bcstm"
     type: battle
-  - id: save_the_world_ordeal_quest
-    title: "Save the World! Ordeal Quest"
+  - id: ordeal_save_this_world_team_kirby_clash_deluxe
+    title: "Ordeal: Save this World!"
     path: "LimeBossElecBand.dspadpcm.bcstm"
     type: warning
-  - id: the_challenge_of_the_brave_quest_board
-    title: "The Challenge of the Brave! Quest Board"
+  - id: heroic_challenge_quest_board_story_quests_team_kirby_clash_deluxe
+    title: "Heroic Challenge! Quest Board / Story Quests"
     path: "QuestBoard.dspadpcm.bcstm"
     type: warning
-  - id: dark_taranza
-    title: "Dark Taranza"
+  - id: the_prince_of_mirrors_and_regret
+    title: "The Prince of Mirrors and Regret"
     path: "TaranzaBoss.dspadpcm.bcstm"
-    type: warning
+    type: battle
   - id: secret_credits_team_kirby_clash_deluxe
     title: "Secret Credits"
     ends: 2:55

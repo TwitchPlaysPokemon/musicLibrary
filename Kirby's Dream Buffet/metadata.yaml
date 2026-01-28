@@ -4,64 +4,64 @@ title: "Kirby's Dream Buffet"
 platform: "Switch"
 year: 2022
 songs:
-  - id: minigame_king_dedede_kirby_s_dream_course
-    title: "Minigame - King Dedede (Kirby's Dream Course)"
+  - id: mechanical_king_dedede
+    title: "Mechanical King Dedede"
     path: "Brkf_Bonus_DreamCourse_Dedede.dspadpcm.bfstm"
     type: warning
-  - id: minigame_drawcia_soul_kirby_canvas_curse
-    title: "Minigame - Drawcia Soul (Kirby: Canvas Curse)"
+  - id: the_soul_s_birthday
+    title: "The Soul's Birthday"
     path: "Brkf_Bonus_KirbyCanvasCurse_DrawciaSoul.dspadpcm.bfstm"
     type: warning
-  - id: minigame_kirby_s_burst_a_balloon_kirby_tilt_n_tumble
-    title: "Minigame - Kirby's Burst-A-Balloon (Kirby Tilt 'n' Tumble)"
+  - id: hovering_into_the_sky
+    title: "Hovering into the Sky"
     path: "Brkf_Bonus_KirbyTiltnTumble_Shooting.wav.dspadpcm.bfstm"
     type: result
-  - id: battle_royale_green_greens
-    title: "Battle Royale - Green Greens"
+  - id: green_greens_buffet
+    title: "Green Greens Buffet"
     path: "Brkf_Final_GreenGreens.dspadpcm.bfstm"
     type: betting
-  - id: battle_royale_ultra_super_boss_battle_kirby_s_return_to_dream_land
-    title: "Battle Royale - Ultra Super Boss Battle (Kirby's Return to Dream Land)"
+  - id: super_battle_royale_dream_buffet
+    title: "Super Battle Royale"
     path: "Brkf_Final_KirbysReturnToDreamLand_UltraSuperBossBattle.dspadpcm.bfstm"
     type: battle
-  - id: battle_royale_vs_chef_kawasaki_and_gryll_kirby_s_star_stacker
-    title: "Battle Royale - Vs. Chef Kawasaki and Gryll (Kirby's Star Stacker)"
+  - id: it_s_so_exciting_dream_buffet
+    title: "It's So Exciting!"
     path: "Brkf_Final_KirbysStarStacker_VsChefKawasakiAndGryll.dspadpcm.bfstm"
     type: battle
-  - id: battle_royale_king_dedede_s_theme_kirby_mass_attack
-    title: "Battle Royale - King Dedede's Theme (Kirby Mass Attack)"
+  - id: dedede_s_theme_dream_buffet_ver
+    title: "Dedede's Theme (Dream Buffet Ver.)"
     path: "Brkf_Final_KirbyTiltnTumble_Dedede.dspadpcm.bfstm" #...why isn't it tilt and tumble
     type: battle
-  - id: battle_royale_king_dedede_s_theme_kirby_s_pinball_land
-    title: "Battle Royale - King Dedede (Kirby's Pinball Land)"
+  - id: bouncy_impact_pinball
+    title: "Bouncy Impact Pinball"
     path: "Brkf_Final_PinballBoss.dspadpcm.bfstm"
     type: warning
-  - id: battle_royale_city_trial_backside_kirby_air_ride
-    title: "Battle Royale - City Trial Backside (Kirby Air Ride)"
+  - id: buffet_trial
+    title: "Buffet Trial"
     path: "Brkf_Final_KirbyAirRide_CityTrialCityBackside.dspadpcm.bfstm"
     type: warning
-  - id: battle_royale_stage_5_kirby_s_block_ball
-    title: "Battle Royale - Stage 5 (Kirby's Block Ball)"
+  - id: bounce_the_blocks_away
+    title: "Bounce the Blocks Away"
     path: "Brkf_Final_KirbysBlockBall_Stage5.dspadpcm.bfstm"
     type: betting
-  - id: battle_royale_boss_kirby_s_block_ball
-    title: "Battle Royale - Boss (Kirby's Block Ball)"
+  - id: block_ball_boss_brothers
+    title: "Block Ball Boss Brothers"
     path: "Brkf_Final_KirbysBlockBall_Boss.dspadpcm.bfstm"
     type: warning
-  - id: free_rolling_1
-    title: "Free Rolling 1"
+  - id: freely_free_rolling_menu_a
+    title: "Freely Free Rolling / Menu A"
     path: "Brkf_Training1.dspadpcm.bfstm"
     type: betting
-  - id: free_rolling_2
-    title: "Free Rolling 2"
+  - id: freely_free_rolling_menu_b
+    title: "Freely Free Rolling / Menu B"
     path: "Brkf_Training2.dspadpcm.bfstm"
     type: betting
-  - id: free_rolling_3
-    title: "Free Rolling 3"
+  - id: freely_free_rolling_menu_c
+    title: "Freely Free Rolling / Menu C"
     path: "Brkf_Training3.dspadpcm.bfstm"
     type: betting
-  - id: skin_collection
-    title: "Skin Collection"
+  - id: costumes_and_colors_the_way_you_like
+    title: "Costumes and Colors the Way You Like"
     path: "Brkf_Home_CollectionSkin.dspadpcm.bfstm"
     type: break
   - id: afternoon_tea
@@ -72,8 +72,8 @@ songs:
     title: "Kirby's Dream Buffet"
     path: "Brkf_Home_ThemeArrange2.dspadpcm.bfstm"
     type: result
-  - id: multiplayer_lobby_kirby_dream_buffet
-    title: "Multiplayer Lobby"
+  - id: ready_to_roll_kirby_dream_buffet
+    title: "Ready to Roll"
     path: "Brkf_Lobby_BubblyClouds.dspadpcm.bfstm"
     type: betting
   - id: route_8_on_a_winter_day
@@ -136,8 +136,8 @@ songs:
     title: "Rolling-Quartet Jazz Band"
     path: "Brkf_Race_Stage7.dspadpcm.bfstm"
     type: betting
-  - id: results_kirby_s_dream_buffet
-    title: "Results"
+  - id: full_feast_results
+    title: "Full-Feast Results"
     path: "Brkf_Result1.dspadpcm.bfstm"
     type: result
   - id: kirby_30th_music_fest_hal_laboratory_dream_band_song
