@@ -1,0 +1,87 @@
+id: mario_kart_arcade_gp_dx
+title: "Mario Kart Arcade GP DX"
+year: 2013
+platform: "Arcade"
+series: mario
+songs:
+  - id: menu_mkgpdx
+    title: "Menu"
+    path: "Menu.brstm"
+    type: result
+  - id: character_select_mkgpdx
+    title: "Character Select"
+    path: "Character Select.brstm"
+    type: warning
+  - id: aerial_road
+    title: "Aerial Road"
+    path: "Aerial Road.brstm"
+    type: betting
+  - id: bananan_labyrinth
+    title: "Bananan Labyrinth"
+    path: "Bananan Labyrinth.brstm"
+    type: betting
+  - id: bon_dance_street
+    title: "Bon Dance Street"
+    path: "Bon Dance Street.brstm"
+    type: betting
+  - id: bowser_s_castle_gpdx
+    title: "Bowser's Castle"
+    path: "Bowser's Castle.brstm"
+    type: warning
+  - id: bowser_s_factory_gpdx
+    title: "Bowser's Factory"
+    path: "Bowser's Factory.brstm"
+    type: betting
+  - id: dk_jungle_gpdx
+    title: "DK Jungle"
+    path: "DK Jungle.brstm"
+    type: betting
+  - id: kingdom_way
+    title: "Kingdom Way"
+    path: "Kingdom Way.brstm"
+    type: result
+  - id: namco_circuit
+    title: "NAMCO Circuit"
+    path: "NAMCO Circuit.brstm"
+    type: result
+  - id: omatsuri_circuit
+    title: "Omatsuri Circuit"
+    path: "Omatsuri Circuit.brstm"
+    type: betting
+  - id: pac_man_stadium
+    title: "PAC-MAN Stadium"
+    path: "PAC-MAN Stadium.brstm"
+    type: betting
+  - id: peach_s_castle_gpdx
+    title: "Peach's Castle"
+    path: "Peach's Castle.brstm"
+    type: betting
+  - id: sky_arena_gpdx
+    title: "Sky Arena"
+    path: "Sky Arena.brstm"
+    type: betting
+  - id: splash_circuit
+    title: "Splash Circuit"
+    path: "Splash Circuit.brstm"
+    type: betting
+  - id: tropical_coast_gpdx
+    title: "Tropical Coast"
+    path: "Tropical Coast.brstm"
+    type: result
+  - id: yoshi_s_slot_machine
+    title: "Yoshi's Slot Machine"
+    path: "Yoshi's Slot Machine.brstm"
+    type: result
+  - id: starman_gpdx
+    title: "Starman"
+    path: "Starman.brstm"
+    type: warning
+  - id: starman_1_15_update
+    title: "Starman (1.15 Update)"
+    path: "Starman (1.15 Update).brstm"
+    type: warning
+  - id: continue_gpdx
+    title: "Continue"
+    path: "Continue.brstm"
+    type: result
+...

@@ -153,6 +153,10 @@ songs:
     title: "Cracked Boxes All Over"
     path: "Cracked Boxes All Over.brstm"
     type: warning
+  - id: stats_graph_air_riders
+    title: "Stats Graph"
+    path: "Stats Graph.brstm"
+    type: warning
   - id: city_trial_results_air_riders
     title: "City Trial: Results"
     path: "City Trial Results.brstm"

@@ -46,4 +46,24 @@ songs:
     title: "Sleepywood"
     path: "Sleepywood.brstm"
     type: betting
+  - id: ariant
+    title: "Ariant"
+    path: "Ariant.brstm"
+    type: betting
+  - id: cash_shop_maplestory
+    title: "Cash Shop"
+    path: "Cash Shop.brstm"
+    type: break
+  - id: chapel_maplestory
+    title: "Chapel"
+    path: "Chapel.brstm"
+    type: result
+  - id: dragon_nest_maplestory
+    title: "Dragon Nest"
+    path: "Dragon Nest.brstm"
+    type: battle
+  - id: temple_of_time_maplestory
+    title: "Temple of Time"
+    path: "Temple of Time.brstm"
+    type: break
 ...

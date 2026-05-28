@@ -39,4 +39,16 @@ songs:
     title: "DJ_Joseon"
     path: "DJ_Joseon.brstm" #looping needs to be looked at
     type: warning
+  - id: every_day_every_night
+    title: "Every Day ~ Every Night"
+    path: "Every Day ~ Every Night.brstm"
+    type: betting
+  - id: right_time_djv
+    title: "Right Time"
+    path: "Right Time.brstm"
+    type: betting
+  - id: stolen_memory_djv
+    title: "Stolen Memory"
+    path: "Stolen Memory.brstm"
+    type: battle
 ...

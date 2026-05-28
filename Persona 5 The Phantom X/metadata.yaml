@@ -91,4 +91,99 @@ songs:
     title: "Rage Education"
     path: "Rage Education (OST).brstm"
     type: betting
+  - id: aria_of_the_soul_remix
+    title: "Aria of the Soul -remix-"
+    path: "Aria of the Soul -remix-.brstm"
+    type: betting
+  - id: alright_new_year
+    title: "Alright -New Year-"
+    path: "Alright -New Year-.brstm"
+    type: break
+  - id: harmonious_pulse
+    title: "Harmonious Pulse"
+    path: "Harmonious Pulse.brstm"
+    type: result
+  - id: apertura_p5x
+    title: "Apertura"
+    path: "Apertura.brstm"
+    type: battle
+  - id: break_the_dawn_p5x
+    title: "Break the Dawn"
+    path: "Break the Dawn.brstm"
+    type: betting
+  - id: rivers_in_the_desert_remix
+    title: "Rivers in the Desert -remix-"
+    path: "Rivers in the Desert -remix-.brstm"
+    ends: 3:26
+    type: betting
+  - id: l_inesorabile
+    title: "L'Inesorabile"
+    path: "L'Inesorabile.brstm"
+    type: warning
+  - id: l_inesorabile_another_version
+    title: "L'Inesorabile -Another Version-"
+    path: "L'Inesorabile -Another Version-.brstm"
+    type: warning
+  - id: phantom_dash
+    title: "Phantom Dash"
+    path: "Phantom Dash.brstm"
+    type: betting
+  - id: melted_motive
+    title: "Melted Motive"
+    path: "Melted Motive.brstm"
+    type: result
+  - id: whispers_of_winter_chimes
+    title: "Whispers of Winter Chimes"
+    path: "Whispers of Winter Chimes.brstm"
+    type: betting
+  - id: distorsione
+    title: "Distorsione"
+    path: "Distorsione.brstm"
+    type: betting
+  - id: distorsione_night_version
+    title: "Distorsione -night version-"
+    path: "Distorsione -night version-.brstm"
+    type: break
+  - id: power_glide
+    title: "Powder Glide"
+    path: "Powder Glide.brstm"
+    type: break
+  - id: salt_water_youth
+    title: "Salt Water Youth"
+    path: "Salt Water Youth.brstm"
+    type: result
+  - id: crimson_spotlight
+    title: "Crimson Spotlight"
+    path: "Crimson Spotlight.brstm"
+    type: battle
+  - id: the_concrete_hive
+    title: "The Concrete Hive"
+    path: "The Concrete Hive.brstm"
+    type: break
+  - id: the_last_dambuster
+    title: "The Last Dambuster"
+    path: "The Last Dambuster.brstm"
+    type: betting
+  - id: snowlight_serenade
+    title: "Snowlight Serenade"
+    path: "Snowlight Serenade.brstm"
+    type: break
+  - id: mind_control_p5x
+    title: "Mind Control"
+    path: "Mind Control.brstm"
+    type: warning
+  - id: sandy_shuffle
+    title: "Sandy Shuffle"
+    path: "Sandy Shuffle.brstm"
+    type: result
+  - id: ambitions_and_visions_thieves_den
+    title: "Ambitions and Visions (Thieves Den)"
+    path: "Ambitions and Visions (Thieves Den).brstm"
+    ends: 3:30
+    type: betting
+  - id: colorful_life_p5x
+    title: "Colorful Life"
+    path: "Colorful Life.brstm"
+    ends: 3:17
+    type: betting
 ...

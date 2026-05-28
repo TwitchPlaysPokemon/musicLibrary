@@ -1,0 +1,23 @@
+---
+id: simple_2000_series_portable_vol_01_the_mahjong
+title: "Simple 2000 Series Portable Vol. 1 - The Mahjong"
+platform: "PSP"
+year: 2010
+songs: 
+  - id: bgm_000_simple_2000_series_portable_vol_01
+    title: "BGM #000"
+    path: "tmj_bgm_000.at3"
+    type: warning
+  - id: bgm_001_simple_2000_series_portable_vol_01
+    title: "BGM #001"
+    path: "tmj_bgm_001.at3"
+    type: betting
+  - id: bgm_002_simple_2000_series_portable_vol_01
+    title: "BGM #002"
+    path: "tmj_bgm_002.at3"
+    type: warning
+  - id: bgm_003_simple_2000_series_portable_vol_01
+    title: "BGM #003"
+    path: "tmj_bgm_003.at3"
+    type: result
+...

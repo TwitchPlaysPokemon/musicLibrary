@@ -409,6 +409,10 @@ songs:
     title: "Glorious Battle! (Misty)"
     path: "bgm_battle_kasumi_ax.logg"
     type: battle
+  - id: glorious_battle_sabrina
+    title: "Glorious Battle! (Sabrina)"
+    path: "bgm_battle_natsume_ax.logg"
+    type: battle
   - id: battle_team_rocket_masters
     title: "Battle! (Team Rocket)"
     path: "bgm_battle_rocket_02.logg"
@@ -531,6 +535,10 @@ songs:
     title: "Battle! (Red)"
     path: "bgm_battle_red.logg"
     type: battle
+  - id: battle_red_1996_mix
+    title: "Battle! (Red - 1996 Mix)"
+    path: "bgm_battle_red_02.logg"
+    type: battle
   - id: battle_red_one_year_anniversary_mix
     title: "Battle! (Red - One Year Anniversary Mix)"
     path: "Battle! Red (Pokemon Masters).brstm"
@@ -538,6 +546,10 @@ songs:
   - id: battle_neo_johto_champion
     title: "Battle! (Neo Johto Champion)"
     path: "bgm_battle_neochamp_jhoto.logg"
+    type: battle
+  - id: battle_neo_johto_champion_golden
+    title: "Battle! (Neo Johto Champion - Golden)"
+    path: "bgm_battle_neochamp_jhoto_02.logg"
     type: battle
   - id: glorious_battle_ethan
     title: "Glorious Battle! (Ethan)"
@@ -862,6 +874,10 @@ songs:
   - id: battle_kalos_gym_leader_masters
     title: "Battle! (Kalos Gym Leader)"
     path: "bgm_battle_gl_c.logg"
+    type: battle
+  - id: glorious_battle_korrina
+    title: "Glorious Battle! (Korrina)"
+    path: "bgm_battle_corni_ax.logg"
     type: battle
   - id: battle_team_flare_grunt_masters
     title: "Battle! (Team Flare Grunt)"
@@ -1216,6 +1232,10 @@ songs:
     title: "Battle! (Blueberry Elite Four: Lacey)"
     path: "bgm_battle_big4_b_taro.logg"
     type: battle
+  - id: battle_blueberry_elite_four_drayton
+    title: "Battle! (Blueberry Elite Four: Drayton)"
+    path: "bgm_battle_big4_b_kakitsubata.logg"
+    type: battle
   - id: battle_carmine_masters
     title: "Battle! (Carmine)"
     path: "bgm_battle_zeiyu.logg"
@@ -1227,6 +1247,18 @@ songs:
   - id: battle_kieran_masters
     title: "Battle! (Kieran)"
     path: "bgm_battle_suguri.logg"
+    type: battle
+  - id: decisive_battle_kieran_masters
+    title: "Decisive Battle! (Kieran)"
+    path: "bgm_battle_suguri_02.logg"
+    type: battle
+  - id: battle_juliana_masters
+    title: "Battle! (Juliana)"
+    path: "bgm_battle_aoi.logg"
+    type: battle
+  - id: battle_florian_masters
+    title: "Battle! (Florian)"
+    path: "bgm_battle_haruto.logg"
     type: battle
 
 

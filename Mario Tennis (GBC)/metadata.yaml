@@ -5,24 +5,172 @@ series: mario
 year: 2000
 platform: ["GBC", "N64"]
 songs:
-  - id: set_point_match_point
-    title: "Set Point / Match Point"
-    path: "Set Point  Match Point.brstm"
-    type: warning
-  - id: game_point_break_point_gbc
-    title: "Game Point / Break Point"
-    path: "Game Point _ Break Point.brstm"
-    type: warning
-  - id: tournament_results
-    title: "Tournament Results"
-    path: "Tournament Results.brstm"
-    type: result
-  - id: island_open_semi_final_match
-    title: "Island Open - Semi-Final Match"
-    path: "Island Open - Semi-Final Match.brstm"
+  - id: menu_mtgbc
+    title: "Menu"
+    path: "03 Menu.vgz"
     type: betting
-  - id: getting_more_experienced
-    title: "Getting More Experienced"
-    path: "Getting More Experienced.brstm"
+  - id: the_courtyard_mtgbc
+    title: "The Courtyard"
+    path: "04 The Courtyard.vgz"
+    type: warning
+  - id: royal_tennis_academy_building
+    title: "Royal Tennis Academy Building"
+    path: "05 Royal Tennis Academy Building.vgz"
     type: result
+  - id: the_dormitory_mtgbc
+    title: "The Dormitory"
+    path: "07 The Dormitory.vgz"
+    type: break
+  - id: status_mtgbc
+    title: "Status"
+    path: "08 Status.vgz"
+    type: result
+  - id: restaurant_training_center_tournament
+    title: "Restaurant / Training Center / Tournament"
+    path: "09 Restaurant, Training Center, Tournament.vgz"
+    type: warning
+  - id: training_a_mini_game
+    title: "Training A (Mini-Game)"
+    path: "10 Training A (Mini-Game).vgz"
+    type: warning
+  - id: exp_get_mtgbc
+    title: "EXP Get"
+    path: "11 EXP Get.vgz"
+    type: result
+  - id: training_b_minigame
+    title: "Training B (Mini-Game)"
+    path: "11 Training B (Mini-Game).vgz"
+    type: betting
+  - id: exp_screen_mtgbc
+    title: "EXP Screen"
+    path: "12 EXP Screen.vgz"
+    type: result
+  - id: skill_changing
+    title: "Skill Changing"
+    path: "14 Skill Changing.vgz"
+    type: result
+  - id: training_tennis_machine
+    title: "Training (Tennis Machine)"
+    path: "15 Training (Tennis Machine).vgz"
+    type: betting
+  - id: training_wall_practice
+    title: "Training (Wall Practice)"
+    path: "16 Training (Wall Practice).vgz"
+    type: betting
+  - id: win_victory_against_mario
+    title: "Win / Victory Against Mario"
+    path: "17 Win, Victory Against Mario.vgz"
+    type: result
+  - id: practice_match_mtgbc
+    title: "Practice Match"
+    path: "19 Practice Match.vgz"
+    type: betting
+  - id: game_break_point_mtgbc
+    title: "Game - Break Point"
+    path: "21 Game - Break Point.vgz"
+    type: battle
+  - id: tie_break
+    title: "Tie Break"
+    path: "22 Tie Break.vgz"
+    type: warning
+  - id: set_match_point
+    title: "Set - Match Point"
+    path: "23 Set - Match Point.vgz"
+    type: warning
+  - id: junior_match
+    title: "Junior Match"
+    path: "24 Junior Match.vgz"
+    type: betting
+  - id: senior_match
+    title: "Senior Match"
+    path: "25 Senior Match.vgz"
+    type: betting
+  - id: varsity_match
+    title: "Varsity Match"
+    path: "26 Varsity Match.vgz"
+    type: betting
+  - id: 1st_2nd_round_island_open
+    title: "1st / 2nd Round (Island Open)"
+    path: "27 1st, 2nd Round (Island Open).vgz"
+    type: result
+  - id: results_island_open
+    title: "Results (Island Open)"
+    path: "28 Results (Island Open).vgz"
+    type: result
+  - id: semi_final_round_island_open
+    title: "Semi-Final Round (Island Open)"
+    path: "29 Semi-Final Round (Island Open).vgz"
+    type: betting
+  - id: final_round_island_open
+    title: "Final Round (Island Open)"
+    path: "30 Final Round (Island Open).vgz"
+    type: warning
+  - id: staff_roll_mtgbc
+    title: "Staff Roll"
+    path: "31 Staff Roll.vgz"
+    type: result
+  - id: peach_s_castle_mtgbc
+    title: "Peach's Castle"
+    path: "33 Peach's Castle.vgz"
+    type: break
+  - id: before_match_against_mario_mini_games_menu
+    title: "Before Match Against Mario - Mini-Games Menu"
+    path: "34 Before Match Against Mario - Mini-Games Menu.vgz"
+    type: betting
+  - id: castle_court_mtgbc
+    title: "Castle Court"
+    path: "35 Castle Court.vgz"
+    type: betting
+  - id: game_over_lose_mtgbc
+    title: "Game Over - Lose"
+    path: "36 Game Over - Lose.vgz"
+    type: result
+  - id: exhibition_court_mtgbc
+    title: "Exhibition Court"
+    path: "37 Exhibition Court.vgz"
+    type: betting
+  - id: luigi_baby_mario_waluigi_shooting_stars
+    title: "Luigi / Baby Mario / Waluigi / Shooting Stars"
+    path: "38 Luigi, Baby Mario, Waluigi, Shooting Stars.vgz"
+    type: result
+  - id: jungle_court_donkey_kong
+    title: "Jungle Court (Donkey Kong)"
+    path: "39 Jungle Court (Donkey Kong).vgz"
+    type: betting
+  - id: tennis_dictionary
+    title: "Tennis Dictionary"
+    path: "40 Tennis Dictionary.vgz"
+    type: result
+  - id: star_court_mario
+    title: "Star Court (Mario)"
+    path: "41 Star Court (Mario).vgz"
+    type: betting
+  - id: tropics_court_yoshi
+    title: "Tropics Court (Yoshi)"
+    path: "42 Tropics Court (Yoshi).vgz"
+    type: betting
+  - id: warehouse_court_wario
+    title: "Warehouse Court (Wario)"
+    path: "43 Warehouse Court (Wario).vgz"
+    type: betting
+  - id: bowser_s_two_on_one
+    title: "Bowser's Two-On-One"
+    path: "44 Bowser's Two-On-One.vgz"
+    type: warning
+  - id: unused_song_1_mtgbc
+    title: "Unused Song 1"
+    path: "45 Unused Song 1.vgz"
+    type: betting
+  - id: unused_song_2_mtgbc
+    title: "Unused Song 2"
+    path: "46 Unused Song 2.vgz"
+    type: break
+  - id: unused_song_3_mtgbc
+    title: "Unused Song 3"
+    path: "47 Unused Song 3.vgz"
+    type: break
+  - id: unused_song_4_mtgbc
+    title: "Unused Song 4"
+    path: "48 Unused Song 4.vgz"
+    type: warning
 ...
