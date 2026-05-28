@@ -296,4 +296,49 @@ songs:
     title: "Lumiose City Sewers"
     path: "P_L (BGM_T3=T3_IN).txtp"
     type: betting 
+# DLC time 
+  - id: ansha_s_donut_shop
+    title: "Ansha's Donut Shop"
+    path: "BGM-2616-event.txtp"
+    type: betting
+  - id: successor_korrina
+    title: "Successor Korrina"
+    path: "BGM-3104-event.txtp"
+    type: betting
+  - id: hyperspace_distortion
+    title: "Hyperspace Distortion"
+    path: "BGM-2614-event.txtp"
+    type: warning
+  - id: hyperspace_lumiose
+    title: "Hyperspace Lumiose"
+    path: "hypespace.txtp"
+    type: betting
+  - id: hyperspace_battle_zone
+    title: "Hyperspace Battle Zone"
+    path: "hypebattle.txtp"
+    type: betting
+  - id: operation_mega_donut
+    title: "Operation Mega Donut"
+    path: "BGM-3752-event.txtp"
+    type: betting
+  - id: battle_rogue_mega_darkrai
+    title: "Battle! (Rogue Mega Darkrai)"
+    path: "darkrai.txtp"
+    type: battle
+  - id: i_ll_go_with_you_reprise
+    title: "I'll Go With You - Reprise"
+    path: "igwy.txtp"
+    type: break
+  - id: battle_rogue_mega_rayquaza
+    title: "Battle! (Rogue Mega Rayquaza)"
+    path: "raybattle.txtp"
+    type: battle
+  - id: the_best_gift
+    title: "The Best Gift"
+    path: "BGM-3694-event.txtp"
+    type: break
+  - id: ansha_s_story
+    title: "Ansha's Story"
+    path: "BGM-3692-event.txtp"
+    type: result
 ...

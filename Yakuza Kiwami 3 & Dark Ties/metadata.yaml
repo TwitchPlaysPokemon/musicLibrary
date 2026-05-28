@@ -1,0 +1,37 @@
+---
+id: yakuza_kiwami_3_dark_ties
+title: "Yakuza Kiwami 3 & Dark Ties"
+series: yakuza
+platform: "Various"
+year: 2026
+songs: 
+  - id: fly_kiwami
+    title: "Fly"
+    path: "Fly (KIWAMI Ver.).brstm"
+    type: battle
+  - id: ikizama
+    title: "IKIZAMA"
+    path: "IKIZAMA.brstm"
+    ends: 3:50
+    type: betting
+  - id: independence_for_violence_kiwami
+    title: "Independence for Violence"
+    path: "Independence for Violence (KIWAMI Ver.).brstm"
+    type: battle
+  - id: lyricism_without_tears_phase_1_kiwami
+    title: "Lyricism Without Tears - Phase 1"
+    path: "Lyricism Without Tears (KIWAMI Ver.) - Phase 1.brstm"
+    type: battle
+  - id: ogre_has_returned_kiwami
+    title: "Ogre Has Returned"
+    path: "Ogre Has Returned (KIWAMI Ver.).brstm"
+    type: battle
+  - id: receive_and_stab_you_kiwami
+    title: "Receive and Stab You"
+    path: "Receive and Stab You (KIWAMI Ver.).brstm"
+    type: battle
+  - id: sounds_storm_kiwami
+    title: "Sounds Storm"
+    path: "Sounds Storm (KIWAMI Ver.).brstm"
+    type: battle
+...

@@ -1,0 +1,33 @@
+---
+id: regretevator
+title: "REGRETEVATOR"
+series: roblox
+platform: "Roblox"
+year: 2020
+#roblox game with SiIvagunner songs in them. I had to.
+songs:
+  - id: bossa_lullaby
+    title: "bossa lullaby"
+    path: "bossa lullaby.brstm"
+    type: betting
+  - id: cardboard_labyrinth
+    title: "cardboard labyrinth"
+    path: "cardboard labyrinth.brstm"
+    type: vetting
+  - id: jersey_nova
+    title: "Jersey Nova"
+    path: "Jersey Nova.brstm"
+    type: betting
+  - id: express_lane_regretevator
+    title: "Express Lane"
+    path: "Express Lane.brstm"
+    type: betting
+  - id: concrete_flood
+    title: "Concrete Flood"
+    path: "Concrete Flood.brstm"
+    type: battle
+  - id: slimmin_yimmy
+    title: "Slimmin' Yimmy"
+    path: "Slimmin' Yimmy.brstm"
+    type: battle
+...

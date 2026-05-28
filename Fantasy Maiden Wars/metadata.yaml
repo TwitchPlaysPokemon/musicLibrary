@@ -5,6 +5,7 @@ series: touhou
 platform: ["PC", "Switch"]
 year: 2025
 songs:
+#disc 1
   - id: fantasy_maiden_wars
     title: "Fantasy Maiden Wars"
     path: "Fantasy Maiden Wars.brstm"
@@ -92,5 +93,869 @@ songs:
   - id: motherly_sea_one_with_the_wind
     title: "Motherly Sea, One with the Wind"
     path: "Motherly Sea, One with the Wind.brstm"
+    type: battle
+#disc 2
+  - id: towards_the_clear_blue_skies
+    title: "Towards the Clear, Blue Skies"
+    path: "Towards the Clear, Blue Skies.brstm"
+    type: result
+  - id: unbalanced_unknown
+    title: "Unbalanced Unknown"
+    path: "Unbalanced Unknown.brstm"
+    type: warning
+  - id: scarlet_phoneme_rise_above_the_lake
+    title: "Scarlet Phoneme, Rise Above the Lake"
+    path: "Scarlet Phoneme, Rise Above the Lake.brstm"
+    type: battle
+  - id: with_a_devilishly_innocent_heart
+    title: "With a Devilishly Innocent Heart"
+    path: "With a Devilishly Innocent Heart.brstm"
+    type: betting
+  - id: the_witch_of_aprisyra_metrosil
+    title: "The Witch of Aprisyra Metrosil"
+    path: "The Witch of Aprisyra Metrosil.brstm"
+    type: betting
+  - id: distortion_dial
+    title: "Distortion Dial"
+    path: "Distortion Dial.brstm"
+    type: battle
+  - id: crumbling_silver_knife
+    title: "Crumbling Silver Knife"
+    path: "Crumbling Silver Knife.brstm"
+    type: battle
+  - id: let_s_bloom_a_flower_of_despair
+    title: "Let's Bloom a Flower of Despair"
+    path: "Let's Bloom a Flower of Despair.brstm"
+    type: warning
+  - id: creeping_dreams
+    title: "Creeping Dreams"
+    path: "Creeping Dreams.brstm"
+    type: battle
+  - id: the_beauty_of_nature
+    title: "The Beauty of Nature"
+    path: "The Beauty of Nature.brstm"
+    type: betting
+  - id: the_girl_who_guards_the_door_to_dreams
+    title: "The Girl who Guards the Door to Dreams"
+    path: "The Girl who Guards the Door to Dreams.brstm"
+    type: battle
+  - id: hold_fast_maiden_of_the_continent
+    title: "Hold Fast, Maiden of the Continent!"
+    path: "Hold Fast, Maiden of the Continent!.brstm"
+    type: battle
+  - id: frantic_destroyer
+    title: "Frantic Destroyer"
+    path: "Frantic Destroyer.brstm"
+    type: battle
+  - id: the_rippling_scarlet_sea_of_emotion
+    title: "The Rippling Scarlet Sea of Emotion"
+    path: "The Rippling Scarlet Sea of Emotion.brstm"
+    type: break
+  - id: scarlet_pressure
+    title: "Scarlet Pressure"
+    path: "Scarlet Pressure.brstm"
+    type: warning
+  - id: emblazoned_in_an_eternally_young_scarlet
+    title: "Emblazoned in an Eternally Young Scarlet"
+    path: "Emblazoned in an Eternally Young Scarlet.brstm"
+    type: battle
+  - id: soul_of_scarlet
+    title: "Soul of Scarlet"
+    path: "Soul of Scarlet.brstm"
+    type: battle
+#disc 3
+  - id: reinforcements_theme_of_the_hated_youkai
+    title: "Reinforcements - Theme of the Hated Youkai"
+    path: "Reinforcements - Theme of the Hated Youkai.brstm"
+    type: warning
+  - id: assult_a_crisis_draws_near
+    title: "Assult - A Crisis Draws Near"
+    path: "Assult - A Crisis Draws Near.brstm"
+    type: warning
+  - id: invasion_of_the_bewitching_spirits
+    title: "Invasion of the Bewitching Spirits"
+    path: "Invasion of the Bewitching Spirits.brstm"
+    type: warning
+  - id: is_a_transparent_enemy_our_ally
+    title: "Is a Transparent Enemy Our Ally?"
+    path: "Is a Transparent Enemy Our Ally.brstm"
+    type: warning
+  - id: the_dream_is_here
+    title: "The Dream is Here"
+    path: "The Dream is Here.brstm"
+    type: result
+  - id: boundary_of_regular_and_irregular_days
+    title: "Boundary of Regular and Irregular Days"
+    path: "Boundary of Regular and Irregular Days.brstm"
+    type: betting
+  - id: girls_surpass_the_carnage
+    title: "Girls, Surpass the Carnage!"
+    path: "Girls, Surpass the Carnage!.brstm"
+    type: warning
+  - id: bizzare_smile
+    title: "Bizzare Smile"
+    path: "Bizzare Smile.brstm"
+    type: warning
+  - id: dark_clouds_fmw
+    title: "Dark Clouds"
+    path: "Dark Clouds.brstm"
+    type: warning
+  - id: what_s_the_strategy_fmw
+    title: "What's the Strategy?"
+    path: "What's the Strategy.brstm"
+    type: betting
+  - id: price_of_life
+    title: "Price of Life"
+    path: "Price of Life.brstm"
+    type: betting
+  - id: the_opened_prison_and_heart
+    title: "The Opened Prison and Heart"
+    path: "The Opened Prison and Heart.brstm"
+    type: result
+  - id: for_the_gensokyo_of_tomorrow
+    title: "For the Gensokyo of Tomorrow"
+    path: "For the Gensokyo of Tomorrow.brstm"
+    type: betting
+  - id: secret_mission_fmw
+    title: "Secret Mission!"
+    path: "Secret Mission!.brstm"
+    type: warning
+  - id: confusion_beneath_the_moonlight
+    title: "Confusion Beneath the Moonlight"
+    path: "Confusion Beneath the Moonlight.brstm"
+    type: battle
+  - id: danmaku_tactics
+    title: "Danmaku Tactics"
+    path: "Danmaku Tactics.brstm"
+    type: betting
+  - id: as_time_stands_still_fmw
+    title: "As Time Stands Still"
+    path: "As Time Stands Still.brstm"
+    type: warning
+  - id: greenwich_in_the_battlefield
+    title: "Greenwich in the Battlefield"
+    path: "Greenwich in the Battlefield.brstm"
+    type: battle
+  - id: preparing_for_the_games_to_come
+    title: "Preparing for the Games to Come"
+    path: "Preparing for the Games to Come.brstm"
+    type: result
+  - id: dancing_marionette
+    title: "Dancing Marionette"
+    path: "Dancing Marionette.brstm"
+    type: battle
+  - id: gallant_spirits_over_the_lake_lunate_elf_and_beloved_tomboyish_girl
+    title: "Gallant Spirits over the Lake - Lunate Elf and Beloved Tomboyish Girl"
+    path: "Gallant Spirits over the Lake - Lunate Elf and Beloved Tomboyish Girl.brstm"
+    type: battle
+#disc 4
+  - id: mof_interlude
+    title: "MoF Interlude"
+    path: "MoF Interlude.brstm"
+    type: warning
+  - id: punishment_theme_of_love
+    title: "Punishment -Theme of Love-"
+    path: "Punishment -Theme of Love-.brstm"
+    type: betting
+  - id: the_elegant_flower_that_blooms_at_night
+    title: "The Elegant Flower that Blooms at Night"
+    path: "The Elegant Flower that Blooms at Night.brstm"
+    type: battle
+  - id: heated_harvest_festival
+    title: "Heated Harvest Festival"
+    path: "Heated Harvest Festival.brstm"
+    type: battle
+  - id: footsteps_of_the_war_god_s_army
+    title: "Footsteps of the War God's Army"
+    path: "Footsteps of the War God's Army.brstm"
+    type: warning
+  - id: eternally_blazing_heart
+    title: "Eternally Blazing Heart"
+    path: "Eternally Blazing Heart.brstm"
+    type: battle
+  - id: advancing_headwinds
+    title: "Advancing Headwinds"
+    path: "Advancing Headwinds.brstm"
+    type: battle
+  - id: fluttering_foodstuffs_in_the_night_sky
+    title: "Fluttering Foodsuffs in the Night Sky"
+    path: "Fluttering Foodsuffs in the Night Sky.brstm"
+    type: betting
+  - id: misery_go_round
+    title: "Misery Go Round"
+    path: "Misery Go Round.brstm"
+    type: betting
+  - id: black_winged_wind_god
+    title: "Black-Winged Wind God"
+    path: "Black-Winged Wind God.brstm"
+    type: betting
+  - id: the_dashing_falling_fall
+    title: "The Dashing, Falling Fall"
+    path: "The Dashing, Falling Fall.brstm"
+    type: warning
+  - id: silent_autumn_breeze
+    title: "Silent Autumn Breeze"
+    path: "Silent Autumn Breeze.brstm"
+    type: betting
+  - id: from_the_bottom_of_the_valleys_and_rivers
+    title: "From the Bottom of the Valleys and Rivers"
+    path: "From the Bottom of the Valleys and Rivers.brstm"
+    type: betting
+  - id: faint_whisperings_fmw
+    title: "Faint Whisperings"
+    path: "Faint Whisperings.brstm"
+    type: break
+  - id: the_wind_is_ever_at_my_back
+    title: "The Wind is Ever at My Back"
+    path: "The Wind is Ever at My Back.brstm"
+    type: battle
+  - id: brand_new_wind
+    title: "Brand New Wind"
+    path: "Brand New Wind.brstm"
+    type: result
+  - id: a_sworn_friend_s_bond
+    title: "A Sworn Friend's Bond"
+    path: "A Sworn Friend's Bond.brstm"
+    type: result
+  - id: no_need_for_a_million_oni_just_one_is_an_army
+    title: "No Need for a Million Oni, Just One is an Army"
+    path: "No Need for a Million Oni, Just One is an Army.brstm"
+    type: battle
+  - id: a_god_plays_with_their_whole_heart_and_soul
+    title: "A God Plays with Their Whole Heart and Soul"
+    path: "A God Plays with Their Whole Heart and Soul.brstm"
+    type: battle
+  - id: the_restless_god_and_the_virtuous_winds
+    title: "The Restless God and the Virtuous Winds"
+    path: "The Restless God and the Virtuous Winds.brstm"
+    type: battle
+#disc 5
+  - id: mystic_prelude
+    title: "Mystic Prelude"
+    path: "Mystic Prelude.brstm"
+    type: result
+  - id: with_the_arrival_of_spring_cherry_blossoms_float_in_the_breeze
+    title: "With the Arrival of Spring, Cherry Blossoms Float in the Breeze"
+    path: "With the Arrival of Spring, Cherry Blossoms Float in the Breeze.brstm"
+    type: result
+  - id: lightsword_flash_mystic_ver
+    title: "Lightsword Flash (Mystic Ver.)"
+    path: "Lightsword Flash (Mystic Ver).brstm"
+    type: betting
+  - id: as_steadfast_as_a_shura
+    title: "As Steadfast as a Shura"
+    path: "As Steadfast as a Shura.brstm"
+    type: warning
+  - id: letty_the_cool_lady
+    title: "Letty the Cool Lady"
+    path: "Letty the Cool Lady.brstm"
+    type: betting
+  - id: orange_fancy
+    title: "Orange Fancy"
+    path: "Orange Fancy.brstm"
+    type: betting
+  - id: cyano_fantasia
+    title: "Cyano Fantasia"
+    path: "Cyano Fantasia.brstm"
+    type: warning
+  - id: song_of_an_unexpectedly_distant_spring
+    title: "Song of an Unexpectedly Distant Spring"
+    path: "Song of an Unexpectedly Distant Spring.brstm"
+    type: betting
+  - id: snow_white_lale
+    title: "Snow-White Lale"
+    path: "Snow-White Lale.brstm"
+    type: battle
+  - id: beginning_and_ending_of_a_mystical_daydream
+    title: "Beginning and Ending of a Mystical Daydream"
+    path: "Beginning and Ending of a Mystical Daydream.brstm"
+    type: result
+  - id: border_of_life
+    title: "Border of Life"
+    path: "Border of Life.brstm"
+    type: battle
+  - id: above_the_dazzling_cherry_blossoms
+    title: "Above the Dazzling Cherry Blossoms"
+    path: "Above the Dazzling Cherry Blossoms.brstm"
+    type: battle
+  - id: lapsing_into_sleep_recollections_of_the_boundary
+    title: "Lapsing into Sleep, Recollections of the Boundary"
+    path: "Lapsing into Sleep, Recollections of the Boundary.brstm"
+    type: battle
+  - id: the_ayakashi_sheds_spring
+    title: "The Ayakashi Sheds Spring"
+    path: "The Ayakashi Sheds Spring.brstm"
+    type: battle
+  - id: final_banquet_of_boundaries_and_recollection
+    title: "Final Banquet of Boundaries and Recollection"
+    path: "Final Banquet of Boundaries and Recollection.brstm"
+    type: battle
+  - id: a_butterfly_s_beautiful_death
+    title: "A Butterfly's Beautiful Death"
+    path: "A Butterfly's Beautiful Death.brstm"
+    type: betting
+#disc 6
+  - id: fantasy_maiden_wars_preview_ver
+    title: "Fantasy Maiden Wars (Preview ver.)"
+    path: "Fantasy Maiden Wars (Preview ver).brstm"
+    type: warning
+  - id: shiny_transblue
+    title: "Shiny Transblue"
+    path: "Shiny Transblue.brstm"
+    type: warning
+  - id: your_sparkling_sound
+    title: "Your Sparkling Sound"
+    path: "Your Sparkling Sound.brstm"
+    type: betting
+  - id: upbeat_spider
+    title: "Upbeat Spider"
+    path: "Upbeat Spider.brstm"
+    type: result
+  - id: a_land_in_perfect_silence
+    title: "A Land in Perfect Silence"
+    path: "A Land in Perfect Silence.brstm"
+    type: betting
+  - id: our_hearts_are_still_shining_brightly
+    title: "Our Hearts are Still Shining Brightly"
+    path: "Our Hearts are Still Shining Brightly.brstm"
+    type: warning
+  - id: determination_in_the_chest
+    title: "Determination in the Chest"
+    path: "Determination in the Chest.brstm"
+    type: warning
+  - id: luna_crescente
+    title: "Luna Crescente"
+    path: "Luna Crescente.brstm"
+    type: battle
+  - id: harmful_mystery
+    title: "Harmful Mystery"
+    path: "Harmful Mystery.brstm"
+    type: betting
+  - id: fantasy_maidens_move_out
+    title: "Fantasy Maidens, Move Out!"
+    path: "Fantasy Maidens, Move Out!.brstm"
+    type: betting
+  - id: hungry_tiger_in_the_scorching_heat
+    title: "Hungry Tiger in the Scorching Heat"
+    path: "Hungry Tiger in the Scorching Heat.brstm"
+    type: warning
+  - id: trichromatic_danmaku_traumerei
+    title: "Trichromatic Danmaku Traumerei"
+    path: "Trichromatic Danmaku Traumerei.brstm"
+    type: battle
+  - id: the_netherworld_s_prism_phantoms
+    title: "The Netherworld's Prism Phantoms"
+    path: "The Netherworld's Prism Phantoms.brstm"
+    type: battle
+  - id: a_simple_but_unrustable_family
+    title: "A Simple but Unrustable Family"
+    path: "A Simple but Unrustable Family.brstm"
+    type: battle
+  - id: home_is_where_one_lays_their_bucket
+    title: "Home is Where One Lays Their Bucket"
+    path: "Home is Where One Lays Their Bucket.brstm"
+    type: betting
+  - id: atop_the_mobius_strip
+    title: "Atop the Mobius Strip"
+    path: "Atop the Mobius Strip.brstm"
+    type: betting
+  - id: price_of_life_ibiza_style
+    title: "PRICE OF LIFE (Ibiza-Style)"
+    path: "PRICE OF LIFE (Ibiza-Style).brstm"
+    type: betting
+  - id: creeping_dreams_cobu_style
+    title: "Creeping Dreams (cobu-Style)"
+    path: "Creeping Dreams (cobu-Style).brstm"
+    type: battle
+#disc 7
+  - id: mind_of_space
+    title: "Mind of Space"
+    path: "Mind of Space.brstm"
+    type: betting
+  - id: a_game_that_is_exceedingly_proper_if_a_little_arrogant
+    title: "A Game that is Exceedingly Proper, if a Little Arrogant"
+    path: "A Game that is Exceedingly Proper, if a Little Arrogant.brstm"
+    type: battle
+  - id: bye_bye_chicken_heart
+    title: "Bye Bye, Chicken Heart"
+    path: "Bye Bye, Chicken Heart.brstm"
+    type: result
+  - id: the_romantic_flavor_of_westernization
+    title: "The Romantic Flavor of Westernization"
+    path: "The Romantic Flavor of Westernization.brstm"
+    type: betting
+  - id: surpassing_their_eternity
+    title: "Surpassing their Eternity"
+    path: "Surpassing their Eternity.brstm"
+    type: result
+  - id: eternity_interlude
+    title: "Eternity Interlude"
+    path: "Eternity Interlude.brstm"
+    type: warning
+  - id: udon_zam
+    title: "UDON-ZAM"
+    path: "UDON-ZAM.brstm"
+    type: warning
+  - id: feel_eyes_on_you
+    title: "Feel Eyes on You"
+    path: "Feel Eyes on You.brstm"
+    type: battle
+  - id: fleeting_flame_firefly_soul
+    title: "-Fleeting Flame- Firefly Soul"
+    path: "-Fleeting Flame- Firefly Soul.brstm"
+    type: betting
+  - id: now_is_when_the_moon_turns_full
+    title: "Now is When the Moon Turns Full"
+    path: "Now is When the Moon Turns Full.brstm"
+    type: betting
+  - id: fixed_star_twinkling_rigel
+    title: "-Fixed Star- Twinkling Rigel"
+    path: "-Fixed Star- Twinkling Rigel.brstm"
+    type: battle
+  - id: the_arrows_and_bullets_that_enshrouded_the_night
+    title: "The Arrows and Bullets that Enshrouded the Night"
+    path: "The Arrows and Bullets that Enshrouded the Night.brstm"
+    type: battle
+  - id: the_shining_moon_rises_over_this_absurd_night
+    title: "The Shining Moon Rises over this Absurd Night"
+    path: "The Shining Moon Rises over this Absurd Night.brstm"
+    type: battle
+  - id: pounded_lies_and_mochi_in_the_moonlit_night
+    title: "Pounded Lies and Mochi in the Moonlit Night"
+    path: "Pounded Lies and Mochi in the Moonlit Night.brstm"
+    type: betting
+  - id: anti_griddle_of_anger
+    title: "Anti-griddle of Anger"
+    path: "Anti-griddle of Anger.brstm"
+    type: betting
+  - id: dream_balancer
+    title: "Dream Balancer"
+    path: "Dream Balancer.brstm"
+    type: betting
+  - id: opened_human_cage
+    title: "Opened Human Cage"
+    path: "Opened Human Cage.brstm"
+    type: betting
+  - id: stardust_hero
+    title: "Stardust Hero"
+    path: "Stardust Hero.brstm"
+    type: betting
+  - id: grilled_lamprey_in_the_moonlight
+    title: "Grilled Lamprey in the Moonlight"
+    path: "Grilled Lamprey in the Moonlight.brstm"
+    type: betting
+  - id: night_of_the_wishing_star
+    title: "Night of the Wishing Star"
+    path: "Night of the Wishing Star.brstm"
+    type: break
+  - id: a_midnight_star_storm
+    title: "A Midnight Star Storm"
+    path: "A Midnight Star Storm.brstm"
+    type: battle
+#disc 8
+  - id: hell_s_mantle
+    title: "Hell's Mantle"
+    path: "Hell's Mantle.brstm"
+    type: warning
+  - id: skygazer
+    title: "Skygazer"
+    path: "Skygazer.brstm"
+    type: battle
+  - id: heart_fault
+    title: "Heart Fault"
+    path: "Heart Fault.brstm"
+    type: result
+  - id: the_eyeline
+    title: "The Eyeline"
+    path: "The Eyeline.brstm"
+    type: betting
+  - id: accel_fox
+    title: "Accel Fox"
+    path: "Accel Fox.brstm"
+    type: betting
+  - id: jajaan_rock
+    title: "JAJAAAN ROCK!!"
+    path: "JAJAAAN ROCK!!.brstm"
+    type: betting
+  - id: the_crow_who_swallowed_the_sun
+    title: "The Crow who Swallowed the Sun"
+    path: "The Crow who Swallowed the Sun.brstm"
+    type: betting
+  - id: the_flower_that_marks_the_changing_seasons_eternity_ver
+    title: "The Flower that Marks the Changing Seasons (Eternity Ver.)"
+    path: "The Flower that Marks the Changing Seasons (Eternity Ver).brstm"
+    type: battle
+  - id: enter_the_aluren
+    title: "Enter the Aluren"
+    path: "Enter the Aluren.brstm"
+    type: betting
+  - id: guide_us_oh_sage
+    title: "Guide Us, Oh Sage"
+    path: "Guide Us, Oh Sage.brstm"
+    type: betting
+  - id: and_then_we_ll
+    title: "And then, we'll..."
+    path: "And then, we'll.brstm"
+    type: betting
+  - id: the_dancing_blooming_butterfly_girl_a
+    title: "The Dancing! Blooming! Butterfly Girl A!!"
+    path: "The Dancing! Blooming! Butterfly Girl A!!.brstm"
+    type: battle
+  - id: a_single_oni_is_as_strong_as_a_thousand_no_help_needed
+    title: "A Single Oni is as Strong as a Thousand, No Help Needed"
+    path: "A Single Oni is as Strong as a Thousand, No Help Needed.brstm"
+    type: battle
+  - id: the_sun_that_fell_to_earth
+    title: "The Sun That Fell to Earth"
+    path: "The Sun That Fell to Earth.brstm"
+    type: warning
+  - id: resounding_wailing_in_the_hidden_heart
+    title: "Resounding Wailing in the Hidden Heart"
+    path: "Resounding Wailing in the Hidden Heart.brstm"
+    type: battle
+  - id: smoldering_ash
+    title: "Smoldering Ash"
+    path: "Smoldering Ash.brstm"
+    type: betting
+#disc 9
+  - id: gazing_up_at_an_endless_space
+    title: "Gazing Up at an Endless Space"
+    path: "Gazing Up at an Endless Space.brstm"
+    type: result
+  - id: the_sceneries_intersect_in_purple
+    title: "The Sceneries Intersect in Purple"
+    path: "The Sceneries Intersect in Purple.brstm"
+    type: warning
+  - id: a_girl_on_the_tailwind_of_a_story
+    title: "A Girl on the Tailwind of a Story"
+    path: "A Girl on the Tailwind of a Story.brstm"
+    type: battle
+  - id: returning_along_the_night_road
+    title: "Returning Along the Night Road"
+    path: "Returning Along the Night Road.brstm"
+    type: betting
+  - id: the_psychotic_and_cute_guest
+    title: "The Psychotic and Cute Guest"
+    path: "The Psychotic and Cute Guest.brstm"
+    type: battle
+  - id: a_certain_misfortune_goddess_s_song
+    title: "A Certain Misfortune Goddess's Song"
+    path: "A Certain Misfortune Goddess's Song.brstm"
+    type: battle
+  - id: your_voice_won_t_reach
+    title: "Your Voice Won't Reach"
+    path: "Your Voice Won't Reach.brstm"
+    type: betting
+  - id: ark_of_the_spring_sky
+    title: "Ark of the Spring Sky"
+    path: "Ark of the Spring Sky.brstm"
+    type: betting
+  - id: thawy_days
+    title: "Thawy Days"
+    path: "Thawy Days.brstm"
+    type: betting
+  - id: against_the_endless_sea_of_stars
+    title: "Against the Endless Sea of Stars"
+    path: "Against the Endless Sea of Stars.brstm"
+    type: betting
+  - id: the_romantic_flavor_of_westernization_live_on_youkai_mountain
+    title: "The Romantic Flavor of Westernization - Live on Youkai Mountain"
+    path: "The Romantic Flavor of Westernization - Live on Youkai Mountain.brstm"
+    ends: 4:16
+    type: betting
+  - id: lunatic_guardian
+    title: "Lunatic Guardian"
+    path: "Lunatic Guardian.brstm"
+    type: battle
+  - id: heian_chimera_syndrome
+    title: "Heian Chimera Syndrome"
+    path: "Heian Chimera Syndrome.brstm"
+    type: battle
+  - id: those_unforgettable_days_of_eternity
+    title: "Those Unforgettable Days of Eternity"
+    path: "Those Unforgettable Days of Eternity.brstm"
+    type: break
+  - id: flanhelp_op_1_496
+    title: "Flanhelp Op.1-496"
+    path: "Flanhelp Op.1-496.brstm"
+    type: break
+  - id: accel_fox_need_for_speed
+    title: "ACCEL FOX-Need For Speed-"
+    path: "ACCEL FOX-Need For Speed-.brstm"
+    type: battle
+#disc 10
+  - id: crossanchor_murasa
+    title: "Crossanchor Murasa"
+    path: "Crossanchor Murasa.brstm"
+    type: warning
+  - id: a_sword_dance_of_love_and_pity
+    title: "A Sword Dance of Love and Pity"
+    path: "A Sword Dance of Love and Pity.brstm"
+    type: warning
+  - id: my_greatest_treasure
+    title: "My Greatest Treasure"
+    path: "My Greatest Treasure.brstm"
+    type: betting
+  - id: revival_of_the_golden_brave
+    title: "Revival of the Golden Brave"
+    path: "Revival of the Golden Brave.brstm"
+    type: betting
+  - id: lightning_fish
+    title: "Lightning Fish"
+    path: "Lightning Fish.brstm"
+    type: battle
+  - id: the_cloud_s_fist
+    title: "The Cloud's Fist"
+    path: "The Cloud's Fist.brstm"
+    type: betting
+  - id: tied_to_your_fingertips
+    title: "Tied to Your Fingertips"
+    path: "Tied to Your Fingertips.brstm"
+    type: betting
+  - id: drill_through_the_clouds
+    title: "Drill Through The Clouds"
+    path: "Drill Through The Clouds.brstm"
+    type: betting
+  - id: bottled_sheep_fall_asleep
+    title: "Bottled Sheep ~ Fall Asleep"
+    path: "Bottled Sheep ~ Fall Asleep.brstm"
+    type: betting
+  - id: prism_parashooter
+    title: "Prism Parashooter"
+    path: "Prism Parashooter.brstm"
+    type: battle
+  - id: trying_to_be_myself_once_more
+    title: "Trying to be Myself Once More"
+    path: "Trying to be Myself Once More.brstm"
+    type: betting
+  - id: the_world_mom_knitted_together
+    title: "The World Mom Knitted Together"
+    path: "The World Mom Knitted Together.brstm"
+    type: break
+  - id: get_saint_back
+    title: "GET SAINT BACK"
+    path: "GET SAINT BACK.brstm"
+    type: betting
+  - id: colorless_blade
+    title: "Colorless Blade"
+    path: "Colorless Blade.brstm"
+    type: battle
+  - id: innocent_poison
+    title: "Innocent Poison"
+    path: "Innocent Poison.brstm"
+    type: betting
+  - id: ain_soph_aur
+    title: "Ain Soph Aur"
+    path: "Ain Soph Aur.brstm"
+    type: battle
+  - id: fantasy_judgment_seventy_years_later
+    title: "Fantasy Judgment, Seventy Years Later"
+    path: "Fantasy Judgment, Seventy Years Later.brstm"
+    type: battle
+  - id: holy_resistance
+    title: "Holy Resistance"
+    path: "Holy Resistance.brstm"
+    type: battle
+#disc 11
+  - id: our_hisoutensoku_og_ver
+    title: "Our Hisoutensoku (OG ver.)"
+    path: "Our Hisoutensoku (OG ver.).brstm"
+    type: betting
+  - id: our_hisoutensoku_fmw_ver
+    title: "Our Hisoutensoku (FMW ver.)"
+    path: "Our Hisoutensoku (FMW ver.).brstm"
+    type: betting
+  - id: fantasy_maiden_wars_dreams
+    title: "Fantasy Maiden Wars -Dreams-"
+    path: "Fantasy Maiden Wars -Dreams-.brstm"
+    type: warning
+  - id: the_unknown_object_s_earthshaking_strike
+    title: "The Unknown Object's Earthshaking Strike"
+    path: "The Unknown Object's Earthshaking Strike.brstm"
+    type: battle
+  - id: sinking_civilization
+    title: "Sinking Civilization"
+    path: "Sinking Civilization.brstm"
+    type: betting
+  - id: trick_your_dream
+    title: "Trick Your Dream"
+    path: "Trick Your Dream.brstm"
+    type: warning
+  - id: to_the_distant_dream_world
+    title: "To the Distant Dream World"
+    path: "To the Distant Dream World.brstm"
+    type: warning
+  - id: despair_sheep
+    title: "Despair Sheep"
+    path: "Despair Sheep.brstm"
+    type: battle
+  - id: with_all_our_fantasy_on_the_line
+    title: "With All Our Fantasy on the Line"
+    path: "With All Our Fantasy on the Line.brstm"
+    type: battle
+  - id: wish_upon_a_window
+    title: "Wish Upon a Rainbow"
+    path: "Wish Upon a Rainbow.brstm"
+    type: result
+  - id: a_place_where_the_seasons_converge
+    title: "A Place Where the Seasons Converge"
+    path: "A Place Where the Seasons Converge.brstm"
+    type: betting
+  - id: dreaming_beauty_the_beauty_of_dreaming
+    title: "Dreaming Beauty ~ The Beauty of Dreaming"
+    path: "Dreaming Beauty ~ The Beauty of Dreaming.brstm"
+    type: betting
+  - id: get_furious_short_ver
+    title: "Get Furious!! (Short ver.)"
+    path: "Get Furious!! (Short ver.).brstm"
+    type: battle
+  - id: the_source_of_the_shared_dream
+    title: "The Source of the Shared Dream"
+    path: "The Source of the Shared Dream.brstm"
+    type: betting
+  - id: as_a_flower
+    title: "As a Flower"
+    path: "As a Flower.brstm"
+    type: betting
+#disc 12
+  - id: black_lily_iii
+    title: "Black Lily III"
+    path: "Black Lily III.brstm"
+    type: warning
+  - id: subterranean_interlude
+    title: "Subterranean Interlude"
+    path: "Subterranean Interlude.brstm"
+    type: break
+  - id: and_thus_the_flower_of_fantasy_blooms
+    title: "And Thus the Flower of Fantasy Blooms"
+    path: "And Thus the Flower of Fantasy Blooms.brstm"
+    type: break
+  - id: the_pair_accompanying_the_flower
+    title: "The Pair Accompanying the Flower"
+    path: "The Pair Accompanying the Flower.brstm"
+    type: battle
+  - id: now_blooms_the_tattered_word_flower
+    title: "Now Blooms the Tattered Word Flower"
+    path: "Now Blooms the Tattered Word Flower.brstm"
+    type: battle
+  - id: awakening_fmw
+    title: "Awakening"
+    path: "Awakening.brstm"
+    type: break
+  - id: three_hearts_blazing_like_a_morning_star
+    title: "Three Hearts, Blazing like a Morning Star"
+    path: "Three Hearts, Blazing like a Morning Star.brstm"
+    type: battle
+  - id: the_dreams_the_sheep_see_labyrinth_of_nightmares
+    title: "The Dreams the Sheep See ~ Labyrinth of Nightmares"
+    path: "The Dreams the Sheep See ~ Labyrinth of Nightmares.brstm"
+    type: break
+  - id: invincibility_session
+    title: "Invincibility Session!!"
+    path: "Invincibility Session!!.brstm"
+    type: battle
+  - id: lunatic_elegance
+    title: "Lunatic Elegance"
+    path: "Lunatic Elegance.brstm"
+    type: betting
+  - id: fantasy_maiden_squadron
+    title: "Fantasy Maiden Squadron"
+    path: "Fantasy Maiden Squadron.brstm"
+    ends: 2:10
+    type: betting
+  - id: the_prosperous_oni_the_ancient_power
+    title: "The Prosperous Oni, the Ancient Power"
+    path: "The Prosperous Oni, the Ancient Power.brstm"
+    type: battle
+  - id: paranoia_step
+    title: "Paranoia Step"
+    path: "Paranoia Step.brstm"
+    type: battle
+  - id: the_variable_yet_constant_zero_fighter
+    title: "The Variable Yet Constant Zero Fighter"
+    path: "The Variable Yet Constant Zero Fighter.brstm"
+    type: battle
+  - id: mehko_sognando
+    title: "Mehko Sognando"
+    path: "Mehko Sognando.brstm"
+    ends: 2:29
+    type: betting
+  - id: those_bound_for_agartha
+    title: "Those Bound for Agartha"
+    path: "Those Bound for Agartha.brstm"
+    type: betting
+  - id: face_to_heart
+    title: "Face to Heart"
+    path: "Face to Heart.brstm"
+    type: break
+  - id: and_then_we_ll_on_piano
+    title: "And Then, We'll... on piano"
+    path: "And Then, We'll... on piano.brstm"
+    type: break
+  - id: dreaming_beauty_bounce_mix
+    title: "Dreaming Beauty -bounce mix-"
+    path: "Dreaming Beauty -bounce mix-.brstm"
+    type: betting
+#disc 13
+  - id: mehko_sognando_short_ver
+    title: "Mehko Sognando (Short ver.)"
+    path: "Mehko Sognando (Short ver.).brstm"
+    type: result
+  - id: answ3rd_love
+    title: "Answ3rd LOVE!!"
+    path: "Answ3rd LOVE!!.brstm"
+    type: battle
+  - id: thank_you_for_playing_side_r
+    title: "Thank You For Playing Side R"
+    path: "Thank You For Playing Side R.brstm"
+    type: betting
+  - id: thank_you_for_playing_side_m
+    title: "Thank You For Playing Side M"
+    path: "Thank You For Playing Side M.brstm"
+    type: betting
+  - id: blessed_brushing
+    title: "Blessed Brushing"
+    path: "Blessed Brushing.brstm"
+    type: break
+  - id: preparing_for_the_games_of_the_new_age
+    title: "Preparing for the Games of the New Age"
+    path: "Preparing for the Games of the New Age.brstm"
+    type: betting
+  - id: awaking_beauty
+    title: "Awaking Beauty"
+    path: "Awaking Beauty.brstm"
+    ends: 2:02
+    type: betting
+  - id: cackling_black_face_your_black
+    title: "Cackling Black ~ Face Your Black"
+    path: "Cackling Black ~ Face Your Black.brstm"
+    type: battle
+  - id: stranger_in_black_blacked_out
+    title: "Stranger in Black ~ Blacked Out"
+    path: "Stranger in Black ~ Blacked Out.brstm"
+    type: break
+  - id: a_light_found_while_grasping_in_the_dark
+    title: "A Light Found While Grasping in the Dark"
+    path: "A Light Found While Grasping in the Dark.brstm"
+    type: betting
+  - id: slumbering_encounter_another_sheep
+    title: "Slumbering Encounter ~ Another Sheep"
+    path: "Slumbering Encounter ~ Another Sheep.brstm"
+    type: betting
+  - id: undying_flames_fmw
+    title: "Undying Flames"
+    path: "Undying Flames.brstm"
+    type: battle
+  - id: imagining_a_dream_of_things_to_come_dawn_of_hope
+    title: "Imagining a Dream of Things to Come ~ Dawn of Hope"
+    path: "Imagining a Dream of Things to Come ~ Dawn of Hope.brstm"
+    type: betting
+  - id: exhirevision
+    title: "EX[hi]ReVision"
+    path: "EX[hi]ReVision.brstm"
+    type: battle
+  - id: the_dreams_we_welcome_and_the_bonds_that_tie_us_to_tomorrow
+    title: "The Dreams We Welcome and the Bonds That Tie Us to Tomorrow"
+    path: "The Dreams We Welcome and the Bonds That Tie Us to Tomorrow.brstm"
     type: battle
 ...

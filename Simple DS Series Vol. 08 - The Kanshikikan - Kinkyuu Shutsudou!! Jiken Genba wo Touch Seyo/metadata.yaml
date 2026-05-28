@@ -1,0 +1,43 @@
+---
+id: simple_ds_series_vol_08_the_kanshikikan_kinkyuu_shutsudou_jiken_genba_wo_touch_seyo
+title: "Simple DS Series Vol. 08 - The Kanshikikan - Kinkyuu Shutsudou!! Jiken Genba wo Touch Seyo"
+platform: "NDS"
+year: 2006
+songs: 
+  - id: bgm_01_simple_ds_series_vol_08
+    title: "BGM #01"
+    path: "01 BGM #01 [SEQ_Prologue].mini2sf"
+    type: result
+  - id: bgm_02_simple_ds_series_vol_08
+    title: "BGM #02"
+    path: "02 BGM #02 [SEQ_Nzo].mini2sf"
+    type: warning
+  - id: bgm_03_simple_ds_series_vol_08
+    title: "BGM #03"
+    path: "03 BGM #03 [SEQ_Genba].mini2sf"
+    type: warning
+  - id: bgm_04_simple_ds_series_vol_08
+    title: "BGM #04"
+    path: "04 BGM #04 [SEQ_Save].mini2sf"
+    type: break
+  - id: bgm_05_simple_ds_series_vol_08
+    title: "BGM #05"
+    path: "05 BGM #05 [SEQ_Honbu].mini2sf"
+    type: warning
+  - id: bgm_06_simple_ds_series_vol_08
+    title: "BGM #06"
+    path: "06 BGM #06 [SEQ_Honbu2].mini2sf"
+    type: break
+  - id: bgm_07_simple_ds_series_vol_08
+    title: "BGM #07"
+    path: "07 BGM #07 [SEQ_Map].mini2sf"
+    type: warning
+  - id: bgm_08_simple_ds_series_vol_08
+    title: "BGM #08"
+    path: "08 BGM #08 [SEQ_Epirogue].mini2sf"
+    type: result
+  - id: bgm_09_simple_ds_series_vol_08
+    title: "BGM #09"
+    path: "09 BGM #09 [SEQ_Ending].mini2sf"
+    type: result
+...

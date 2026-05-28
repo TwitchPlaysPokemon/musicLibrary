@@ -1,0 +1,16 @@
+---
+id: super_doomspire
+title: "Super Doomspire"
+series: roblox
+platform: "Roblox"
+year: 2019
+songs:
+  - id: lava_super_doomspire
+    title: "Lava"
+    path: "Lava.brstm"
+    type: battle
+  - id: sudden_death_super_doomspire
+    title: "Sudden Death"
+    path: "Sudden Death.brstm"
+    type: warning
+...

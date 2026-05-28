@@ -1,0 +1,31 @@
+---
+id: simple_ds_series_vol_10_the_doko_demo_kanji_quiz
+title: "Simple DS Series Vol. 10 - The Doko Demo Kanji Quiz"
+platform: "NDS"
+year: 2006
+songs: 
+  - id: bgm_0000_simple_ds_series_vol_10
+    title: "BGM #0000"
+    path: "NTR-AZ9J-JPN-0000.mini2sf"
+    type: result
+  - id: bgm_0001_simple_ds_series_vol_10
+    title: "BGM #0001"
+    path: "NTR-AZ9J-JPN-0001.mini2sf"
+    type: betting
+  - id: bgm_0002_simple_ds_series_vol_10
+    title: "BGM #0002"
+    path: "NTR-AZ9J-JPN-0002.mini2sf"
+    type: betting
+  - id: bgm_0003_simple_ds_series_vol_10
+    title: "BGM #0003"
+    path: "NTR-AZ9J-JPN-0003.mini2sf"
+    type: betting
+  - id: bgm_0004_simple_ds_series_vol_10
+    title: "BGM #0004"
+    path: "NTR-AZ9J-JPN-0004.mini2sf"
+    type: warning
+  - id: bgm_0005_simple_ds_series_vol_10
+    title: "BGM #0005"
+    path: "NTR-AZ9J-JPN-0005.mini2sf"
+    type: betting
+...

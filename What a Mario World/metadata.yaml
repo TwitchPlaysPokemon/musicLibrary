@@ -1,0 +1,65 @@
+﻿---
+id: what_a_mario_world
+title: "What a Mario World"
+series: mario
+is_fanwork: true
+platform: "SNES"
+year: "UNRELEASED"
+songs:
+  - id: title_wamw
+    title: "title"
+    path: "Title.brstm"
+    type: result
+  - id: map_1_wamw
+    title: "map 1"
+    path: "Map 1.brstm"
+    type: betting
+  - id: map_2_wamw
+    title: "map 2"
+    path: "Map 2.brstm"
+    type: warning
+  - id: athletic_wamw
+    title: "athletic"
+    path: "Athletic.brstm"
+    type: betting
+  - id: underground_wamw
+    title: "underground"
+    path: "Underground.brstm"
+    type: betting
+  - id: undergroundb_wamw
+    title: "undergroundB"
+    path: "UndergroundB.brstm"
+    type: betting
+  - id: overworld_wamw
+    title: "overworld"
+    path: "Overworld.brstm"
+    type: warning
+  - id: overworldb_wamw
+    title: "overworldB"
+    path: "OverworldB.brstm"
+    type: result
+  - id: underwater_wamw
+    title: "underwater"
+    path: "Underwater.brstm"
+    type: break
+  - id: ghost_house_wamw
+    title: "ghost house"
+    path: "Ghost House.brstm"
+    type: betting
+  - id: switch_palace_wamw
+    title: "switch palace"
+    path: "Switch Palace.brstm"
+    type: betting
+  - id: castle_wamw
+    title: "castle"
+    path: "Castle.brstm"
+    type: betting
+  - id: boss_wamw
+    title: "boss"
+    path: "Boss (ft. kawashin).brstm"
+    type: battle
+  - id: there_will_never_be_another_you
+    title: "there will never be another you"
+    path: "There Will Never Be Another You.brstm"
+    type: result
+...

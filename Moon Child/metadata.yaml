@@ -1,0 +1,32 @@
+---
+id: moon_child
+title: "Moon Child"
+platform: ["PC", "iOS"]
+year: 1997
+songs:
+  - id: title_theme_moon_child
+    title: "Title Theme"
+    path: "Title Theme.brstm"
+    ends: 2:40
+    type: betting
+  - id: title_amiga_demo_version
+    title: "Title Theme (Amiga Demo Version)"
+    path: "Title Theme (Amiga Demo Version).brstm"
+    type: betting
+  - id: world_1_moon_child
+    title: "World 1"
+    path: "World 1.brstm"
+    type: betting
+  - id: world_2_moon_child
+    title: "World 2"
+    path: "World 2.brstm"
+    type: betting
+  - id: world_3_moon_child
+    title: "World 3"
+    path: "World 3.brstm"
+    type: betting
+  - id: world_4_moon_child
+    title: "World 4"
+    path: "World 4.brstm"
+    type: battle
+...

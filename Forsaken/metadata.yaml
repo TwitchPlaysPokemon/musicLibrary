@@ -2,7 +2,7 @@
 id: forsaken_roblox
 title: "Forsaken"
 series: roblox
-platform: "Various"
+platform: "Roblox"
 year: 2024
 songs:
   - id: creation_of_hatred
@@ -97,5 +97,37 @@ songs:
   - id: best_friends_forever_forsaken
     title: "BEST FRIENDS FOREVER"
     path: "BEST FRIENDS FOREVER.brstm"
+    type: battle
+  - id: miracle_catastrophe
+    title: "MIRACLE CATASTROPHE"
+    path: "MIRACLE CATASTROPHE.brstm"
+    type: battle
+  - id: cmdespot
+    title: "CMDespot"
+    path: "CMDespot.brstm"
+    type: battle
+  - id: shrouded
+    title: "SHROUDED"
+    path: "SHROUDED.brstm"
+    type: battle
+  - id: cross_contamination_the_doughy_diss_track
+    title: "Cross Contamination (The Doughy Diss Track)"
+    path: "Cross Contamination (The Doughy Diss Track).brstm"
+    type: betting
+  - id: curtains_call
+    title: "CURTAINS_CALL"
+    path: "CURTAINS_CALL.brstm"
+    type: battle
+  - id: a_world_without_me
+    title: "A World Without Me"
+    path: "A World Without Me.brstm"
+    type: battle
+  - id: symphony_of_suffering
+    title: "SYMPHONY OF SUFFERING"
+    path: "SYMPHONY OF SUFFERING.brstm"
+    type: battle
+  - id: krampus_guest_666_chase_theme
+    title: "Krampus Guest 666 Chase Theme"
+    path: "Krampus Guest 666 Chase Theme.brstm"
     type: battle
 ...

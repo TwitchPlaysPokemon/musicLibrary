@@ -1,0 +1,27 @@
+---
+id: simple_series_for_nintendo_3ds_vol_01_the_mahjong
+title: "Simple Series for Nintendo 3DS Vol. 1 - The Mahjong"
+platform: "3DS"
+year: 2013
+songs: 
+  - id: bgm_000_simple_series_3ds_vol_01
+    title: "BGM #000"
+    path: "BGM_000.bcwav"
+    type: break
+  - id: bgm_001_simple_series_3ds_vol_01
+    title: "BGM #001"
+    path: "BGM_001.bcwav"
+    type: betting
+  - id: bgm_002_simple_series_3ds_vol_01
+    title: "BGM #002"
+    path: "BGM_002.bcwav"
+    type: warning
+  - id: bgm_003_simple_series_3ds_vol_01
+    title: "BGM #003"
+    path: "BGM_003.bcwav"
+    type: result
+  - id: bgm_005_simple_series_3ds_vol_01
+    title: "BGM #005"
+    path: "BGM_005.bcwav"
+    type: break
+...
