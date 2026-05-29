@@ -6,18 +6,18 @@ year: 2010
 songs: 
   - id: bgm_000_simple_2000_series_portable_vol_02
     title: "BGM #000"
-    path: "tmj_bgm_000.at3"
+    path: "tsg_bgm_000.at3"
     type: break
   - id: bgm_001_simple_2000_series_portable_vol_02
     title: "BGM #001"
-    path: "tmj_bgm_001.at3"
+    path: "tsg_bgm_001.at3"
     type: break
   - id: bgm_002_simple_2000_series_portable_vol_02
     title: "BGM #002"
-    path: "tmj_bgm_002.at3"
+    path: "tsg_bgm_002.at3"
     type: warning
   - id: bgm_003_simple_2000_series_portable_vol_02
     title: "BGM #003"
-    path: "tmj_bgm_003.at3"
+    path: "tsg_bgm_003.at3"
     type: result
 ...
