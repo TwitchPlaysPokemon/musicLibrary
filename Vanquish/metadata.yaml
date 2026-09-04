@@ -1,0 +1,19 @@
+---
+id: vanquish
+title: "Vanquish"
+platform: ["PS3", "360"]
+year: 2010
+songs: 
+  - id: argus_battle
+    title: "Argus Battle"
+    path: "Argus Battle.brstm"
+    type: battle
+  - id: bogey_battle
+    title: "Bogey Battle"
+    path: "Bogey Battle.brstm"
+    type: battle
+  - id: crystal_viper_battle_1
+    title: "Crystal Viper Battle 1"
+    path: "Crystal Viper Battle 1.brstm"
+    type: battle
+...

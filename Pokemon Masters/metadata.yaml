@@ -739,6 +739,10 @@ songs:
     title: "Battle! (Looker)"
     path: "bgm_battle_handsome.logg"
     type: battle
+  - id: battle_neo_sinnoh_champion
+    title: "Battle! (Neo Sinnoh Champion)"
+    path: "bgm_battle_neochamp_sinnoh.logg"
+    type: battle
 
     #Unova - all songs from B/W/B2/W2 in approx. order
   - id: battle_wild_pokemon_unova
@@ -918,6 +922,10 @@ songs:
   - id: decisive_battle_diantha
     title: "Decisive Battle! (Diantha)"
     path: "bgm_battle_carnet_02.logg"
+    type: battle
+  - id: glorious_battle_diantha
+    title: "Glorious Battle! (Diantha)"
+    path: "bgm_battle_carnet_03.logg"
     type: battle
   - id: battle_neo_kalos_champion
     title: "Battle! (Neo Kalos Champion)"
@@ -1132,7 +1140,7 @@ songs:
     path: "bgm_battle_neochamp_galar.logg"
     type: battle
 
-    #Hisui - all songs from the Arceus in approx. order
+    #Hisui - all songs from Arceus in approx. order
   - id: battle_hisui_trainer
     title: "Battle! (Hisui Trainer)"
     path: "bgm_battle_trainer_hisui.logg"
@@ -1147,7 +1155,7 @@ songs:
     type: battle
     
     
-    #Paldea - all songs S/V in approx. order
+    #Paldea - all songs from S/V in approx. order
   - id: battle_wild_pokemon_paldea
     title: "Battle! (Wild Pokémon: Paldea)"
     path: "bgm_battle_yasei_p.logg"
@@ -1228,6 +1236,10 @@ songs:
     title: "Battle! (Geeta)"
     path: "bgm_battle_omodaka.logg"
     type: battle
+  - id: glorious_battle_geeta
+    title: "Glorious Battle! (Geeta)"
+    path: "bgm_battle_omodaka_02.logg"
+    type: battle
   - id: battle_blueberry_elite_four_lacey
     title: "Battle! (Blueberry Elite Four: Lacey)"
     path: "bgm_battle_big4_b_taro.logg"
@@ -1259,6 +1271,20 @@ songs:
   - id: battle_florian_masters
     title: "Battle! (Florian)"
     path: "bgm_battle_haruto.logg"
+    type: battle
+    
+    #Kalos 2 - Legends Z stuff
+  - id: battle_harmony_masters
+    title: "Battle! (Harmony)"
+    path: "bgm_battle_seika.logg"
+    type: battle
+  - id: battle_team_mz_masters
+    title: "Battle! (Team MZ)"
+    path: "bgm_battle_mz.logg"
+    type: battle
+  - id: battle_rogue_mega_masters
+    title: "Battle! (Rogue Mega Pokémon)"
+    path: "bgm_battle_rogue_mega.logg"
     type: battle
 
 

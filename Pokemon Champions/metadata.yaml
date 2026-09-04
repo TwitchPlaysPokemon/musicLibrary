@@ -1,0 +1,56 @@
+---
+id: pokemon_champions
+title: "Pokémon Champions"
+series: pokemon
+platform: ["Switch", "Mobile"]
+year: 2026
+songs: 
+  - id: main_theme_champions
+    title: "Main Theme"
+    path: "Main Theme.brstm"
+    type: result
+  - id: main_lobby_champions
+    title: "Main Lobby"
+    path: "Main Lobby.brstm"
+    type: betting
+  - id: player_lobby_champions
+    title: "Player Lobby"
+    path: "Player Lobby.brstm"
+    type: betting
+  - id: battle_lobby_champions
+    title: "Battle Lobby"
+    path: "Battle Lobby.brstm"
+    type: betting
+  - id: team_select_champions
+    title: "Team Select"
+    path: "Team Select.brstm"
+    type: warning
+  - id: battle_battle_arena_champions
+    title: "Battle! (Battle Arena)"
+    path: "Battle! (Battle Arena) (Pokémon Champions).brstm"
+    type: battle
+  - id: battle_gym_court_champions
+    title: "Battle! (Gym Court)"
+    path: "Battle! (Gym Court) (Pokémon Champions).brstm"
+    type: battle
+  - id: battle_world_championships
+    title: "Battle! (World Championships)"
+    path: "Battle! (World Championships).brstm"
+    type: battle
+  - id: match_results_champions
+    title: "Match Results"
+    path: "Match Results.brstm"
+    type: result
+  - id: recruiting_champions
+    title: "Recruiting"
+    path: "Recruiting.brstm"
+    type: break
+  - id: shop_champions
+    title: "Shop"
+    path: "Shop.brstm"
+    type: betting
+  - id: training_champions
+    title: "Training"
+    path: "Training.brstm"
+    type: betting
+...

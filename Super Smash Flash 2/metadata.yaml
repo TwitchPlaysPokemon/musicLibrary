@@ -143,4 +143,12 @@ songs:
     path: "Aim to Be a Pokémon Master.brstm"
     ends: 2:35
     type: betting
+  - id: crystal_smash_ssf2
+    title: "Crystal Smash"
+    path: "Crystal Smash.brstm"
+    type: betting
+  - id: menu_2_melee_ssf2
+    title: "Menu 2 (Melee)"
+    path: "Menu 2 (Melee).brstm"
+    type: betting
 ...

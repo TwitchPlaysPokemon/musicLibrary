@@ -45,4 +45,36 @@ songs:
     title: "Dosu-Koi (E. Honda Stage)"
     path: "Dosu-Koi (E. Honda Stage).brstm"
     type: betting
+  - id: player_select_ssf2thdr
+    title: "The Select Few (Player Select)"
+    path: "The Select Few (Player Select).brstm"
+    type: warning
+  - id: m_bison_ssf2thdr
+    title: "Tribute to the Master (M. Bison Stage)"
+    path: "Tribute to the Master (M. Bison Stage).brstm"
+    type: battle
+  - id: cammy_ssf2thdr
+    title: "Army Girl (Cammy Stage)"
+    path: "Army Girl (Cammy Stage).brstm"
+    type: betting
+  - id: chun_li_ssf2thdr
+    title: "Street Market (Chun-Li Stage)"
+    path: "Street Market (Chun-Li Stage).brstm"
+    type: betting
+  - id: zangief_ssf2thdr
+    title: "Red Cyclone (Zangief Stage)"
+    path: "Red Cyclone (Zangief Stage).brstm"
+    type: battle
+  - id: vega_ssf2thdr
+    title: "Spittin' Narcissism (Vega Stage)"
+    path: "Spittin' Narcissism (Vega Stage).brstm"
+    type: betting
+  - id: dhalsim_ssf2thdr
+    title: "Reaching for Nirudha (Dhalsim Stage)"
+    path: "Reaching for Nirudha (Dhalsim Stage).brstm"
+    type: betting
+  - id: balrog_ssf2thdr
+    title: "Sexy Trunks (Balrog Stage)"
+    path: "Sexy Trunks (Balrog Stage).brstm"
+    type: betting
 ...
