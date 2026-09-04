@@ -112,10 +112,11 @@ songs:
     title: "LocoRider"
     path: "rider_bgm.lrmb"
     type: betting
-  - id: buibui_booooon
-    title: "Buibui Booooon"
-    path: "shooting_bgm.lrmb"
-    type: betting
+  # - id: buibui_booooon
+    # title: "Buibui Booooon"
+    # path: "shooting_bgm.lrmb"
+    # type: betting 
+    #apparently not running? Will need to check
   - id: loco_race
     title: "Loco Race"
     path: "uranai_bgm.lrmb"

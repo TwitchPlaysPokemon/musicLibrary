@@ -134,4 +134,28 @@ songs:
     title: "yakusoku"
     path: "yakusoku.brstm"
     type: break
+  - id: bounce
+    title: "Bounce"
+    path: "Bounce.brstm"
+    type: break
+  - id: ebb
+    title: "Ebb"
+    path: "Ebb.brstm"
+    type: break
+  - id: home_minecraft
+    title: "Home"
+    path: "Home.brstm"
+    type: break
+  - id: memories_minecraft
+    title: "Memories"
+    path: "Memories.brstm"
+    type: break
+  - id: nightly
+    title: "Nightly"
+    path: "Nightly.brstm"
+    type: break
+  - id: shores
+    title: "Shores"
+    path: "Shores.brstm"
+    type: break
 ...

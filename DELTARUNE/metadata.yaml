@@ -613,4 +613,134 @@ songs:
     title: "Lancer (Annoying)"
     path: "lancer_annoying.txtp"
     type: result
+#Episode 5 
+  - id: inappropriate_recycling
+    title: "Inappropriate Recycling"
+    path: "inappropriate_recycling.txtp"
+    type: battle
+  - id: pirate_dojo
+    title: "Pirate Dojo"
+    path: "pirate_zone.txtp"
+    type: result
+  - id: festival_deltarune
+    title: "Festival"
+    path: "festival.txtp"
+    type: betting
+  - id: i_guess_i_m_in_love
+    title: "I guess I'm in love"
+    path: "festival_after.txtp"
+    type: break
+  - id: your_dad_s_best_friend
+    title: "Your Dad's Best Friend"
+    path: "flowery.txtp"
+    type: warning
+  - id: garden_of_hopes_and_dreams
+    title: "Garden of Hopes and Dreams"
+    path: "field_of_hopes_insaneintherain.txtp"
+    ends: 3:08
+    type: betting
+  - id: rakuichi_buster
+    title: "Rakuichi Buster"
+    path: "rakuichi_buster_wip.txtp"
+    type: battle
+  - id: quiet_glade
+    title: "Quiet Glade"
+    path: "piano_ambience.txtp"
+    type: break
+  - id: who_might_you_be
+    title: "Who might you be?"
+    path: "meeting_flower.txtp"
+    type: warning
+  - id: petal_dance
+    title: "Petal Dance"
+    path: "miniboss_new_section_idea_wip.txtp"
+    type: battle
+  - id: sunset_of_seven_suns
+    title: "Sunset of Seven Suns"
+    path: "cliff.txtp"
+    type: betting
+  - id: shop_3_deltarune
+    title: "Shop 3"
+    path: "shop_3.txtp"
+    type: break
+  - id: violet_tactics
+    title: "Violet Tactics"
+    path: "castle_loop.txtp"
+    type: betting
+  - id: flower_king
+    title: "Flower King"
+    path: "asgore_serious.txtp"
+    type: warning
+  - id: flower_castle
+    title: "Flower Castle"
+    path: "flower_castle.txtp"
+    type: betting
+  - id: thousand_cafe_zukan
+    title: "Thousand Cafe Zukan"
+    path: "flower_cafe.txtp"
+    type: betting
+  - id: stop_criminell
+    title: "Stop, Criminell!"
+    path: "meeting_flower_cowboy.txtp"
+    type: warning
+  - id: loving_steps
+    title: "Loving Steps"
+    path: "blue_flower.txtp"
+    type: break
+  - id: pink_deltarune
+    title: "Pink"
+    path: "pink_theme.txtp"
+    type: betting
+  - id: pink_mad
+    title: "Pink (Mad)"
+    path: "pink_theme_mad.txtp"
+    type: warning
+  - id: cutie_mew_mew_magic
+    title: "Cutie Mew Mew Magic"
+    path: "pink.txtp"
+    type: battle
+  - id: running_sky
+    title: "Running Sky"
+    path: "castle_top.txtp"
+    type: betting
+  - id: flower_man
+    title: "Flower Man"
+    path: "Flowerman_Arrangement.txtp"
+    type: battle
+  - id: that_day_deltarune
+    title: "That Day"
+    path: "asgore_conspiracy.txtp"
+    type: break
+  - id: dreamwatchers
+    title: "Dreamwatchers"
+    path: "flowery_iog_extended.txtp"
+    type: break
+  - id: weak_flowers
+    title: "Weak Flowers"
+    path: "flowery_sad.txtp"
+    type: break
+  - id: walking_home_deltarune
+    title: "Walking Home"
+    path: "festival_night.txtp"
+    type: break
+  - id: inukuma
+    title: "Inukuma"
+    path: "inukuma_wip.txtp"
+    type: result
+  - id: dog_balloon
+    title: "Dog Balloon"
+    path: "dog_balloon.txtp"
+    type: result
+  - id: man_chapter_5
+    title: "Man (Chapter 5)"
+    path: "deltarune_piano_collections_by_trevor_alan_gomes.txtp"
+    type: break
+  - id: happy_town_deltarune
+    title: "Happy Town"
+    path: "happy_town.txtp"
+    type: break
+  - id: weird_monologue
+    title: "Weird Monologue"
+    path: "ch5_weird_monologue_deep.txtp"
+    type: betting
 ...

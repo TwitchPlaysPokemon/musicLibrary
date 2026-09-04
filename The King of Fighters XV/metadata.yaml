@@ -1,0 +1,15 @@
+---
+id: the_king_of_fighters_xv
+title: "The King of Fighters XV"
+platform: ["Arcade", "PS4", "PS5", "PC", "XSX"]
+year: 2022
+songs: 
+  - id: enter_the_venue
+    title: "Enter The Venue"
+    path: "Enter The Venue.brstm"
+    type: battle
+  - id: like_a_queen
+    title: "Like A Queen"
+    path: "Like A Queen.brstm"
+    type: betting
+...
